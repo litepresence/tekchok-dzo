@@ -10,181 +10,463 @@
             font-weight: normal;
             font-style: normal;
         }
+        
+        :root {
+            --book-gold: #c5a467;
+            --book-navy: #1a2a3a;
+            --book-cream: #f8f5f0;
+            --book-border: #d4c8a8;
+            --section-divider: #e8d9b9;
+            --translation-bg: #f9f7f3;
+            --commentary-bg: #f0f5f0;
+            --warning-bg: #fff8f8;
+            --warning-border: #e03131;
+        }
+        
+        * {
+            -webkit-print-color-adjust: exact;
+            print-color-adjust: exact;
+        }
+        
         body {
             font-family: 'Times New Roman', Times, serif;
             line-height: 1.3;
-            font-size:1.2em;
-            margin: 0 auto;
-            max-width: 900px;
-            padding: 20px;
+            font-size: 1.15em;
             color: #000;
+            background-color: #fff;
         }
+        
+        /* Title Page Styling */
+        .title-page {
+            text-align: center;
+            padding: 80px 20px 40px;
+            margin-bottom: 30px;
+            border-bottom: 1px solid var(--book-border);
+        }
+        
+        .title-page h1 {
+            font-family: 'Palatino Linotype', 'Book Antiqua', Palatino, serif;
+            font-size: 2.8em !important;
+            letter-spacing: 3px;
+            margin: 40px 0 15px;
+            color: var(--book-navy);
+            font-weight: normal;
+            line-height: 1.2;
+            text-shadow: 0 1px 2px rgba(0,0,0,0.05);
+            position: relative;
+            display: inline-block;
+        }
+        
+        .title-page h1::after {
+            content: "";
+            position: absolute;
+            bottom: -10px;
+            left: 50%;
+            transform: translateX(-50%);
+            height: 2px;
+            background: var(--book-gold);
+        }
+        
+        .tibetan-title {
+            font-family: 'Jomolhari', serif;
+            font-size: 1.6em;
+            margin: 0 10px;
+            letter-spacing: 2px;
+            color: var(--book-navy);
+            line-height: 1.3;
+        }
+        
+        .publication-info {
+            margin-top: 30px;
+            text-align: center;
+            font-style: italic;
+            color: #555;
+            line-height: 1.8;
+            margin-left: auto;
+            margin-right: auto;
+            padding-top: 20px;
+            border-top: 1px solid var(--book-border);
+        }
+        
+        .publication-info div {
+            margin: 5px 0;
+        }
+        
+        /* Contents Styling */
+        .contents-page {
+            margin: 40px 0;
+        }
+        
+        .contents-page h1 {
+            font-family: 'Palatino Linotype', 'Book Antiqua', Palatino, serif;
+            font-size: 2.2em !important;
+            color: var(--book-navy);
+            margin: 30px 0 25px;
+            letter-spacing: 2px;
+            position: relative;
+            display: inline-block;
+        }
+        
+        .contents-page h1::after {
+            content: "";
+            position: absolute;
+            bottom: -8px;
+            left: 0;
+            width: 100%;
+            height: 1px;
+            background: var(--book-gold);
+        }
+        
+        .part-title {
+            font-size: 1.5em;
+            font-weight: bold;
+            margin: 25px 0 12px;
+            color: var(--book-navy);
+            position: relative;
+            padding-left: 15px;
+        }
+        
+        .part-title::before {
+            content: "";
+            position: absolute;
+            left: 0;
+            top: 8px;
+            width: 8px;
+            height: 8px;
+            background: var(--book-gold);
+            border-radius: 50%;
+        }
+        
+        .section-title {
+            font-weight: bold;
+            margin: 8px 0 5px 25px;
+            color: #444;
+        }
+        
+        .section-desc {
+            margin: 5px 0 15px 45px;
+            font-style: italic;
+            color: #555;
+            line-height: 1.5;
+        }
+        
+        /* Warning Section */
+        .warning-section {
+            background-color: var(--warning-bg);
+            border: 1px solid var(--warning-border);
+            border-left-width: 4px;
+            border-radius: 0 3px 3px 0;
+            padding: 25px;
+            margin: 40px 0 30px;
+            position: relative;
+            box-shadow: 0 2px 8px rgba(0,0,0,0.08);
+        }
+        
+        .warning-section::before {
+            content: "!";
+            position: absolute;
+            top: -12px;
+            left: -12px;
+            width: 28px;
+            height: 28px;
+            background: var(--warning-border);
+            color: white;
+            border-radius: 50%;
+            font-weight: bold;
+            font-size: 1.2em;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            border: 3px solid white;
+            box-shadow: 0 2px 5px rgba(0,0,0,0.2);
+        }
+        
+        .warning-section h2 {
+            font-family: 'Palatino Linotype', 'Book Antiqua', Palatino, serif;
+            color: var(--book-navy);
+            margin-top: 0;
+            font-size: 1.6em !important;
+        }
+        
+        /* Root Text Styling */
+        .root-text {
+            margin-top: 40px;
+            padding-top: 30px;
+            text-align: center;
+            border-top: 2px solid var(--book-gold);
+        }
+        
+        .root-text h2 {
+            font-family: 'Palatino Linotype', 'Book Antiqua', Palatino, serif;
+            font-size: 1.9em !important;
+            color: var(--book-navy);
+            margin: 25px 0 20px;
+            letter-spacing: 1px;
+            position: relative;
+            display: inline-block;
+        }
+        
+        .root-text h2::after {
+            content: "";
+            position: absolute;
+            bottom: -5px;
+            left: 0;
+            width: 100%;
+            height: 2px;
+            background: var(--book-gold);
+        }
+        
+        .root-text h3 {
+            font-family: 'Palatino Linotype', 'Book Antiqua', Palatino, serif;
+            font-size: 1.6em;
+            color: var(--book-navy);
+            margin: 30px 0 15px;
+            text-align: center;
+            position: relative;
+            display: inline-block;
+        }
+        
+        .root-text h3::after {
+            content: "";
+            position: absolute;
+            bottom: -8px;
+            left: 50%;
+            transform: translateX(-50%);
+            width: 60%;
+            height: 1px;
+            background: var(--book-border);
+        }
+        
+        /* Existing Classes Enhancement */
         h1, h2, h3, h4 {
             text-align: center;
+            font-weight: normal;
         }
+        
         h1 {
             font-size: 1.8em !important;
             margin-bottom: 0;
-            color: #000;
+            color: var(--book-navy);
+            font-family: 'Palatino Linotype', 'Book Antiqua', Palatino, serif;
         }
-        h3 {font-size: 1.3em}
+        
         h2 {
             font-size: 1.4em;
             margin-top: 5px;
             margin-bottom: 15px;
-            color: #000;
-            border-bottom: 1px solid #eee;
+            color: var(--book-navy);
+            border-bottom: 1px solid var(--section-divider);
             padding-bottom: 5px;
+            font-family: 'Palatino Linotype', 'Book Antiqua', Palatino, serif;
         }
+        
+        h3 {
+            font-size: 1.3em;
+            font-family: 'Palatino Linotype', 'Book Antiqua', Palatino, serif;
+        }
+        
         .tibetan {
-            font-size: 1.7em;
-            font-family: 'Jomolhari';
+            font-size: 1.6em;
+            font-family: 'Jomolhari', serif;
             line-height: 1.5;
             text-align: center;
-            margin-bottom: 20px;
+            margin: 25px 0 20px;
         }
+        
         .romanized {
             font-family: 'Courier New', monospace;
-            font-size: 0.9em;
+            font-size: 0.95em;
+            letter-spacing: 0.5px;
+            color: #333;
         }
+        
         .literal, .romanized, .liturgical {
-            margin-bottom: 20px;
+            margin-bottom: 25px;
             text-align: center;
+            /*padding: 0 15px;*/
         }
-        .translation {
-            margin: 15px 0;
-            padding: 12px 15px;
-            background-color: #f5f9ff;
-            border-left: 3px solid #4a90e2;
-            border-radius: 0 4px 4px 0;
-        }
-        .commentary, .review {
-            font-style: italic;
-            margin: 20px 0;
-            padding: 15px 20px 15px 25px;
-            border-radius: 4px;
+        
+        hr {
+            margin: 45px 0;
+            border: 0;
+            border-top: 1px solid var(--book-border);
+            height: 1px;
             position: relative;
         }
-        .commentary {
-            background-color: #f8f9fa;
-            border-left: 4px solid #4CAF50;
+        
+        hr::after {
+            content: "❖";
+            position: absolute;
+            top: -17px;
+            left: 50%;
+            transform: translateX(-50%);
+            background: white;
+            padding: 0 10px;
+            color: var(--book-gold);
+            font-size: 1.4em;
         }
-        .review {
-            background-color: #fef8f8;
-            border-left: 4px solid #f44336;
-        }
-        .commentary strong, .review strong {
-            color: #000;
-            font-size: 1.05em;
-        }
-        .commentary::before {
-            background-color: #4CAF50;
-        }
-        .review::before {
-            background-color: #f44336;
-        }
-        hr {
-            margin: 30px 0;
-            border: 0;
-            border-top: 1px solid #aaa;
-            height: 1px;
-        }
+        
         .center {
             text-align: center;
         }
+        
         .pagebreak {
             break-after: page;
         }
+        .pagebreakbefore {
+            break-before: page;
+        }
+        
+        /* Decorative elements */
+        .divider {
+            text-align: center;
+            margin: 35px 0;
+            color: var(--book-gold);
+            font-size: 1.8em;
+            letter-spacing: 5px;
+        }
+        
+        .foliage {
+            text-align: center;
+            color: var(--book-gold);
+            font-size: 1.4em;
+            margin: 25px 0;
+            letter-spacing: 3px;
+        }
+        
+        /* Print-specific styles */
+        @media print {            
+            .pagebreak {
+                page-break-after: always;
+            }
+            
+            .no-print {
+                display: none;
+            }
+            
+            hr {
+                page-break-inside: avoid;
+            }
+            
+            .root-text, .contents-page, .title-page {
+                page-break-inside: avoid;
+            }
+        }
     </style>
 </head>
+<body>
+    <div class="title-page pagebreak">
+        <h1>The Treasury of the Wish-Fulfilling Jewel</h1>
+        <div class="tibetan-title">Yid bzhin rin po che'i mdzod</div>
+        <div class="tibetan-title" style="font-size: 1.8em; margin: 35px 10px;">The Treatise of Pith Instructions of the Great Vehicle</div>
+        <div class="tibetan-title" style="font-size: 1.3em;">Theg pa chen po'i man ngag gi bstan bcos yid bzhin rin po che'i mdzod</div>
+        
+        <div class="publication-info">
+            <div><strong>Author:</strong> Longchen Rabjampa (klong chen rab 'byams pa dri med 'od zer)</div>
+            <div><strong>Translator:</strong> litepresence</div>
+            <div><strong>Copyleft:</strong> May this merit benefit all beings!</div>
+            <div><strong>Publication Status:</strong> Revised Draft per Nyingma editorial conventions</div>
+            <div><strong>Tibetan Source:</strong> BDK UT22920_005_0003 (vol. 5, pod 5 "pa", text 3)</div>
+        </div>
+    </div>
+    
+    <div class="contents-page pagebreak">
+        <h1>CONTENTS</h1>
+        
+        <div class="part-title">PART ONE: PRAISE</div>
+        <div class="section-title">Stanzas 1–20</div>
+        <div class="section-desc">Devotional homage establishing the relative display—the Lama's qualities as field of merit. Recognition is prepared through genuine devotion before collapse.</div>
+        
+        <div class="section-title">Section 1.1</div>
+        <div class="section-desc">Stanzas 1–5: Prostration to the Lama as regent of all Victorious Ones; primordial ground where qualities fulfill themselves; dharmatā entering great emptiness' womb; emanation bodies protecting degenerate beings; liberation through hearing a single word.</div>
+        
+        <div class="section-title">Section 1.2</div>
+        <div class="section-desc">Stanzas 6–10: Ambrosia for eyes (marks as emanation body), ears (Brahma-sound), and heart (blessing as pristine awareness); those not recognizing confined like oxen; seeing this speech surpasses meeting the Buddha.</div>
+        
+        <div class="section-title">Section 1.3</div>
+        <div class="section-desc">Stanzas 11–15: Reality arising by force within mind; letter-display as Buddha's body; Teacher dwelling in letter-forms even in final five hundred years; seven great treasuries complete in single lifetime; <em>lhun grub</em> qualities within <em>ka dag</em> expanse.</div>
+        
+        <div class="section-title">Section 1.4</div>
+        <div class="section-desc">Stanzas 16–20: Form-body's special marks and dharmakāya's direct showing; single word revealing the inexpressible; Great Perfection as offering-field; inconceivable sūtras; hearing one word brings all dharmas into presence.</div>
+        
+        <div class="part-title pagebreakbefore">PART TWO: TRANSMISSION</div>
+        <div class="section-title">Stanzas 21–40</div>
+        <div class="section-desc">Direct introduction to recognition's immediacy—the four liberations and the teaching as mirror. Collapse enacted without conceptual mediation.</div>
+        
+        <div class="section-title">Section 2.1</div>
+        <div class="section-desc">Stanzas 21–25: Gathering eighty-four thousand dharmas into single verse; liberation through seeing, hearing, touching, and tasting—reality arising by force where afflictions tear apart and no interval separates encounter from freedom.</div>
+        
+        <div class="section-title">Section 2.2</div>
+        <div class="section-desc">Stanzas 26–30: Unprecedented completeness—never before placed in Jambudvīpa; proclaiming causeless expanse beyond cause-effect vehicles; complete limbs versus scattered fragments; scriptures as Lord of Deities and Victory's palace.</div>
+        
+        <div class="section-title">Section 2.3</div>
+        <div class="section-desc">Stanzas 31–35: Scriptures mirroring the three realms, the perfect Buddha (taming according to capacity without transgressing equality), and both existence and peace; Heart Essence as living presence versus corpse-like elegance; luminous wisdom arising by force upon hearing.</div>
+        
+        <div class="section-title">Section 2.4</div>
+        <div class="section-desc">Stanzas 36–40: Profound beyond profound as single treasury; naked awareness (<em>zang thal rig pa</em>) as the three jewels; Fourth Empowerment as awareness-power; rainbow body illusion; the Lama is oneself.</div>
+        
+        <div class="part-title pagebreakbefore">PART THREE: OBSTACLE TRANSFORMATION</div>
+        <div class="section-title">Stanzas 41–60</div>
+        <div class="section-desc">Transformation of obstacles without reifying them as substantial—delusion, conceptual proliferation, attachment/aversion, illness, and pride dissolve upon contact with recognition.</div>
+        
+        <div class="section-title">Section 3.1</div>
+        <div class="section-desc">Stanzas 41–45: Devotion and examination revealing luminosity's unwavering nature; logic's proliferation versus effortless samādhi; wandering without purpose versus jewel's resting place; partial knowledge (bee) versus Garuḍa's view; childish debate versus elder's intelligence of equality.</div>
+        
+        <div class="section-title">Section 3.2</div>
+        <div class="section-desc">Stanzas 46–50: Wisdom's sword cutting delusion's net; vajra destroying conception's wall; conflagration burning affliction's fuel-wood immediate; nectar healing elements; awareness as companion transcending day-night cycle.</div>
+        
+        <div class="section-title">Section 3.3</div>
+        <div class="section-desc">Stanzas 51–55: Equality's expanse giving ease amid the many; method's key liberating iron fetters of philosophical views; peaceful samādhi defect-less amid agitation and dullness; adverse conditions transforming into companions; dharmakāya's expanse pointing out equality.</div>
+        
+        <div class="section-title">Section 3.4</div>
+        <div class="section-desc">Stanzas 56–60: Vajra's spontaneous song within attachmentless ease; peacock playing with poison (desire as ornament); demons cut where none stood; bubble-heaps transparent; jewel treasure never hidden—completion completes what never lacked.</div>
+        
+        <div class="part-title pagebreakbefore">PART FOUR: ASPIRATION</div>
+        <div class="section-title">Stanzas 61–67</div>
+        <div class="section-desc">Aspirations dissolving into fulfillment—dedication arising from blessing received, merging with the Lama's realization.</div>
+        
+        <div class="section-title">Section 4.1</div>
+        <div class="section-desc">Stanzas 61–63: Aspiration arising from blessing received; liberation for weary beings wandering samsara's narrow path; Dharma-wheel spreading and realization expanding vast without boundary.</div>
+        
+        <div class="section-title">Section 4.2</div>
+        <div class="section-desc">Stanzas 64–67: Never departing from the Lama across all lifetimes; purification through meeting, hearing, and speaking; all beings obtaining the four kāyas; purpose completion and swift attainment of perfect Buddhahood—no interval separates aspiration from fulfillment.</div>
+    </div>
+    
+    <div class="warning-section pagebreak">
+        <h2>WARNING: RESTRICTED TEXT</h2>
+        <p><strong>Publisher's Note:</strong> This text requires <em>wang</em>, <em>lung</em>, and <em>tri</em>. Without lineage transmission, these words become objects of conceptual grasping—the very obscuration Longchenpa cuts. Receive this mirror only when the face appears before it.  This is an unauthorized AI translation; may the Dharma Protectors excuse and swiftly correct any errors.</p>
+    </div>
+    
+    <div class="root-text">
+        <h2>ROOT TEXT</h2>
+        
+        <div class="divider">❖</div>
+        
+        <h3>HOMAGE</h3>
+        
+        <div class="tibetan">
+            ༄༅། <br>
+            ཀུན་མཁྱེན་བླ་མའི་གསུང་རབ་ལ་བསྔགས་པ་བཞུགས་སོ། <br>
+            ༄༅། <br>
+            ན་མཿསརྦ་ཛྙཱ་ཡ་གུ་ར་ཝེ།
+        </div>
+        
+        <div class="romanized center">
+            kun mkhyen bla ma'i gsung rab la bsngags pa bzhugs so <br>
+            na maḥ sarba jñāya gu ra ve
+        </div>
+        
+        <div class="translation">
+            Homage to the scripture of the All-Knowing Lama <br>
+            namaḥ sarva jñāya gurave
+        </div>
+        
+        <div class="foliage">❦ ❧ ❦</div>
+    </div>
 
-The Treasury of the Wish-Fulfilling Jewel  
-Yid bzhin rin po che'i mdzod  
+<h2>VERSES</h2>
 
-
-Root text: Theg pa chen po'i man ngag gi bstan bcos yid bzhin rin po che'i mdzod  
-Author: Longchen Rabjampa (klong chen rab 'byams pa dri med 'od zer)  
-Translator: litepresence  
-Copyleft: May this merit benefit all beings! 
-Publication Status: Revised Draft per Nyingma editorial conventions  
-Tibetan Source: BDK UT22920_005_0003 (vol. 5, pod 5 "pa", text 3)  
-
-
-# CONTENTS
-
-**PART ONE: PRAISE**  
-*Stanzas 1–20*  
-Devotional homage establishing the relative display—the Lama's qualities as field of merit. Recognition is prepared through genuine devotion before collapse.
-
-*Section 1.1* Stanzas 1–5: Prostration to the Lama as regent of all Victorious Ones; primordial ground where qualities fulfill themselves; dharmatā entering great emptiness' womb; emanation bodies protecting degenerate beings; liberation through hearing a single word.
-
-*Section 1.2* Stanzas 6–10: Ambrosia for eyes (marks as emanation body), ears (Brahma-sound), and heart (blessing as pristine awareness); those not recognizing confined like oxen; seeing this speech surpasses meeting the Buddha.
-
-*Section 1.3* Stanzas 11–15: Reality arising by force within mind; letter-display as Buddha's body; Teacher dwelling in letter-forms even in final five hundred years; seven great treasuries complete in single lifetime; *lhun grub* qualities within *ka dag* expanse.
-
-*Section 1.4* Stanzas 16–20: Form-body's special marks and dharmakāya's direct showing; single word revealing the inexpressible; Great Perfection as offering-field; inconceivable sūtras; hearing one word brings all dharmas into presence.
-
-
-**PART TWO: TRANSMISSION**  
-*Stanzas 21–40*  
-Direct introduction to recognition's immediacy—the four liberations and the teaching as mirror. Collapse enacted without conceptual mediation.
-
-*Section 2.1* Stanzas 21–25: Gathering eighty-four thousand dharmas into single verse; liberation through seeing, hearing, touching, and tasting—reality arising by force where afflictions tear apart and no interval separates encounter from freedom.
-
-*Section 2.2* Stanzas 26–30: Unprecedented completeness—never before placed in Jambudvīpa; proclaiming causeless expanse beyond cause-effect vehicles; complete limbs versus scattered fragments; scriptures as Lord of Deities and Victory's palace.
-
-*Section 2.3* Stanzas 31–35: Scriptures mirroring the three realms, the perfect Buddha (taming according to capacity without transgressing equality), and both existence and peace; Heart Essence as living presence versus corpse-like elegance; luminous wisdom arising by force upon hearing.
-
-*Section 2.4* Stanzas 36–40: Profound beyond profound as single treasury; naked awareness (*zang thal rig pa*) as the three jewels; Fourth Empowerment as awareness-power; rainbow body illusion; the Lama is oneself.
-
-
-**PART THREE: OBSTACLE TRANSFORMATION**  
-*Stanzas 41–60*  
-Transformation of obstacles without reifying them as substantial—delusion, conceptual proliferation, attachment/aversion, illness, and pride dissolve upon contact with recognition.
-
-*Section 3.1* Stanzas 41–45: Devotion and examination revealing luminosity's unwavering nature; logic's proliferation versus effortless samādhi; wandering without purpose versus jewel's resting place; partial knowledge (bee) versus Garuḍa's view; childish debate versus elder's intelligence of equality.
-
-*Section 3.2* Stanzas 46–50: Wisdom's sword cutting delusion's net; vajra destroying conception's wall; conflagration burning affliction's fuel-wood immediate; nectar healing elements; awareness as companion transcending day-night cycle.
-
-*Section 3.3* Stanzas 51–55: Equality's expanse giving ease amid the many; method's key liberating iron fetters of philosophical views; peaceful samādhi defect-less amid agitation and dullness; adverse conditions transforming into companions; dharmakāya's expanse pointing out equality.
-
-*Section 3.4* Stanzas 56–60: Vajra's spontaneous song within attachmentless ease; peacock playing with poison (desire as ornament); demons cut where none stood; bubble-heaps transparent; jewel treasure never hidden—completion completes what never lacked.
-
-
-**PART FOUR: ASPIRATION**  
-*Stanzas 61–67*  
-Aspirations dissolving into fulfillment—dedication arising from blessing received, merging with the Lama's realization.
-
-*Section 4.1* Stanzas 61–63: Aspiration arising from blessing received; liberation for weary beings wandering samsara's narrow path; Dharma-wheel spreading and realization expanding vast without boundary.
-
-*Section 4.2* Stanzas 64–67: Never departing from the Lama across all lifetimes; purification through meeting, hearing, and speaking; all beings obtaining the four kāyas; purpose completion and swift attainment of perfect Buddhahood—no interval separates aspiration from fulfillment.
-
-
-# WARNING: RESTRICTED TEXT 
-
-*Publisher's Note: This text requires wang, lung, and tri. Without lineage transmission, these words become objects of conceptual grasping—the very obscuration Longchenpa cuts. Receive this mirror only when the face appears before it.*
-
-
-
-# ROOT TEXT
-
-
-## HOMAGE  
-
-༄༅།  <br>
-ཀུན་མཁྱེན་བླ་མའི་གསུང་རབ་ལ་བསྔགས་པ་བཞུགས་སོ།  <br>
-༄༅།  <br>
-ན་མཿསརྦ་ཛྙཱ་ཡ་གུ་ར་ཝེ།  <br>
-
-kun mkhyen bla ma'i gsung rab la bsngags pa bzhugs so  <br>
-na maḥ sarba jñāya gu ra ve  <br>
-
-Homage to the scripture of the All-Knowing Lama  <br>
-namaḥ sarva jñāya gurave  <br>
-
-## VERSES
-
-### 1 - ༡
+<h3>1 - ༡</h3>
 
 <div class="tibetan">
 གང་ཞིག་རྒྱལ་བའི་ཡོན་ཏན་མཐའ་ཀླས་པ།  <br>
@@ -221,7 +503,7 @@ Qualities touch every edge and spill over. The mandala holds nothing back. Lama 
 <hr>
 <div class="pagebreak"></div>
 
-### 2 - ༢
+<h3>2 - ༢</h3>
 
 <div class="tibetan">
 གདོད་མའི་གཞི་དབྱིངས་ཡོན་ཏན་རྫོགས་པའི་ཀློང༌།  <br>
@@ -257,7 +539,7 @@ The primordial ground was never established as pure or impure. Within this expan
 <hr>
 <div class="pagebreak"></div>
 
-### 3 - ༣
+<h3>3 - ༣</h3>
 
 <div class="tibetan">
 སྐྱོབ་པ་དེ་ཡི་ལེགས་བཤད་ཚིག་གཅིག་གི  <br>
@@ -293,7 +575,7 @@ Hearing one word at the edge—samsara reels. What hears was never bound. Hearin
 <hr>
 <div class="pagebreak"></div>
 
-### 4 - ༤
+<h3>4 - ༤</h3>
 
 <div class="tibetan">
 རྒྱལ་བ་རྣམས་དང་རྒྱལ་སྲས་ཆེ་རྣམས་ཀྱིས།  <br>
@@ -329,7 +611,7 @@ Victorious Ones and their sons act through liberating concentrations. They manif
 <hr>
 <div class="pagebreak"></div>
 
-### 5 - ༥
+<h3>5 - ༥</h3>
 
 <div class="tibetan">
 དེ་སླད་ཀུན་མཁྱེན་མཆོག་གི་སྤྲུལ་པའི་སྐུས།  <br>
@@ -365,7 +647,7 @@ The supreme All-Knowing emanates a body to protect beings in this degenerate age
 <hr>
 <div class="pagebreak"></div>
 
-### 6 - ༦
+<h3>6 - ༦</h3>
 
 <div class="tibetan">
 ཀུན་མཁྱེན་བླ་མ་རྫོགས་པའི་སངས་རྒྱས་དེའི།  <br>
@@ -401,7 +683,7 @@ Ambrosia flows from the Lama's mouth—pure, complete, sustaining. The perfect B
 <hr>
 <div class="pagebreak"></div>
 
-### 7 - ༧
+<h3>7 - ༧</h3>
 
 <div class="tibetan">
 སྐལ་བ་བཟང་དག་རབ་དགའ་སྐྱེད་བྱོས་ལ།  <br>
@@ -437,7 +719,7 @@ Good fortune ripens as joy in the heart. Certainty arises as direct knowing that
 <hr>
 <div class="pagebreak"></div>
 
-### 8 - ༨
+<h3>8 - ༨</h3>
 
 <div class="tibetan">
 ཐུབ་པའི་མཚན་དཔེ་མིག་གི་བདུད་རྩི་སྟེ།  <br>
@@ -473,7 +755,7 @@ The Buddha's marks appear as ambrosia for the eyes. Three faiths arise naturally
 <hr>
 <div class="pagebreak"></div>
 
-### 9 - ༩
+<h3>9 - ༩</h3>
 
 <div class="tibetan">
 སྟོན་པའི་ཚངས་དབྱངས་རྣ་བའི་བདུད་རྩི་སྟེ།  <br>
@@ -509,7 +791,7 @@ Brahma-sound reaches the ear as ambrosia. Wisdom dawns in the fortunate mind—n
 <hr>
 <div class="pagebreak"></div>
 
-### 10 - ༡༠
+<h3>10 - ༡༠</h3>
 
 <div class="tibetan">
 རྒྱལ་བའི་བྱིན་རླབས་སྙིང་གི་བདུད་རྩི་སྟེ།  <br>
@@ -545,7 +827,7 @@ Blessing flows directly into the heart as ambrosia. Truth reveals itself immedia
 <hr>
 <div class="pagebreak"></div>
 
-### 11 - ༡༡
+<h3>11 - ༡༡</h3>
 
 <div class="tibetan">
 རྣམ་ཐར་ཏིང་འཛིན་སྟོབས་ཀྱིས་བྱིན་རླབས་པས།  <br>
@@ -581,7 +863,7 @@ Liberation and concentration bestow their blessing through unbroken power. Seein
 <hr>
 <div class="pagebreak"></div>
 
-### 12 - ༡༢
+<h3>12 - ༡༢</h3>
 
 <div class="tibetan">
 ཡི་གེའི་རྣམ་རོལ་ཤཱཀྱ་སེང་གེའི་སྐུ།  <br>
@@ -617,7 +899,7 @@ Each letter displays the Buddha's body—not as symbol but as presence itself. T
 <hr>
 <div class="pagebreak"></div>
 
-### 13 - ༡༣
+<h3>13 - ༡༣</h3>
 
 <div class="tibetan">
 ལྔ་བརྒྱ་ཐ་མའི་བསྟན་པར་གྱུར་པ་ན།  <br>
@@ -653,7 +935,7 @@ Even in the final five hundred years, when the teaching appears to wane, the let
 <hr>
 <div class="pagebreak"></div>
 
-### 14 - ༡༤
+<h3>14 - ༡༤</h3>
 
 <div class="tibetan">
 དོན་བཟང་ལེགས་བཤད་མཛོད་ཆེན་བདུན་ལ་སོགས།  <br>
@@ -689,7 +971,7 @@ The seven great treasuries overflow with meaning good and complete. All the Budd
 <hr>
 <div class="pagebreak"></div>
 
-### 15 - ༡༥
+<h3>15 - ༡༥</h3>
 
 <div class="tibetan">
 ལྷུན་གྲུབ་ཡོན་ཏན་ཤིན་ཏུ་རྒྱ་ཆེན་པོ།  <br>
@@ -725,7 +1007,7 @@ Qualities self-arise without cause, self-abide without support—vast beyond mea
 <hr>
 <div class="pagebreak"></div>
 
-### 16 - ༡༦
+<h3>16 - ༡༦</h3>
 
 <div class="tibetan">
 ཐུབ་པའི་མཛེས་སྐུ་གསེར་གྱི་རི་འདྲ་བ།  <br>
@@ -761,7 +1043,7 @@ The Buddha's form appears as a mountain of gold—radiant, majestic, complete. S
 <hr>
 <div class="pagebreak"></div>
 
-### 17 - ༡༧
+<h3>17 - ༡༧</h3>
 
 <div class="tibetan">
 ཤིང་དབང་དྲུང་དེར་སྐྱོབ་པས་གང་མཁྱེན་དང༌།  <br>
@@ -797,7 +1079,7 @@ Beneath the bodhi tree the Protector realized complete awakening. The Victorious
 <hr>
 <div class="pagebreak"></div>
 
-### 18 - ༡༨
+<h3>18 - ༡༨</h3>
 
 <div class="tibetan">
 ཡོན་ཏན་རང་བཞིན་བྱང་ཆུབ་ཕྱོགས་ཀྱི་ཆོས།  <br>
@@ -833,7 +1115,7 @@ Qualities manifest as the very nature of enlightenment—spontaneous, complete, 
 <hr>
 <div class="pagebreak"></div>
 
-### 19 - ༡༩
+<h3>19 - ༡༩</h3>
 
 <div class="tibetan">
 ཐུབ་པའི་མདོ་སྡེ་ཇི་སྙེད་བསམ་ཡས་པའི།  <br>
@@ -869,7 +1151,7 @@ The Buddha's sūtras number beyond calculation. Each displays supreme qualities�
 <hr>
 <div class="pagebreak"></div>
 
-### 20 - ༢༠
+<h3>20 - ༢༠</h3>
 
 <div class="tibetan">
 དེ་སླད་གཞུང་འདིའི་ཚིག་གཅིག་ཉན་པ་དང༌།  <br>
@@ -905,7 +1187,7 @@ Hearing one word of this scripture brings all the Victorious One's dharmas into 
 <hr>
 <div class="pagebreak"></div>
 
-### 21 - ༢༡
+<h3>21 - ༢༡</h3>
 
 <div class="tibetan">
 བརྒྱད་ཁྲི་བཞི་སྟོང་ཆོད་དོན་རིག་པའི་ཀློང༌།  <br>
@@ -941,7 +1223,7 @@ Eighty-four thousand dharmas manifest as single expanse without boundary. Gather
 <hr>
 <div class="pagebreak"></div>
 
-### 22 - ༢༢
+<h3>22 - ༢༢</h3>
 
 <div class="tibetan">
 དད་པའི་སེམས་ཀྱི་སྐད་ཅིག་མཇལ་ན་ཡང༌།  <br>
@@ -977,7 +1259,7 @@ Faith meets immediate—no interval separates encounter from recognition. Devoti
 <hr>
 <div class="pagebreak"></div>
 
-### 23 - ༢༣
+<h3>23 - ༢༣</h3>
 
 <div class="tibetan">
 ཚིག་གཅིག་ཐོས་ཀྱང་རྣམ་པར་རྟོག་པའི་རྡུལ།  <br>
@@ -1013,7 +1295,7 @@ A single word contains the ocean without reduction. Conceptual dust abandons its
 <hr>
 <div class="pagebreak"></div>
 
-### 24 - ༢༤
+<h3>24 - ༢༤</h3>
 
 <div class="tibetan">
 རྟོག་གེའི་བློ་གྲོས་རྩུབ་མོའི་སྐྱོན་སྤོངས་པའི།  <br>
@@ -1049,7 +1331,7 @@ Coarse intellect abandons itself when recognition sees through its circularity. 
 <hr>
 <div class="pagebreak"></div>
 
-### 25 - ༢༥
+<h3>25 - ༢༥</h3>
 
 <div class="tibetan">
 ཟབ་པའི་དོན་བཟང་བདུད་རྩིའི་རོ་མངར་ཅན།  <br>
@@ -1085,7 +1367,7 @@ The nectar's sweet taste is direct experience. Flavor tastes itself. Each taste 
 <hr>
 <div class="pagebreak"></div>
 
-### 26 - ༢༦
+<h3>26 - ༢༦</h3>
 
 <div class="tibetan">
 རྒྱལ་བའི་བསྟན་པ་ཇི་སྙེད་ཡོངས་རྫོགས་པའི།  <br>
@@ -1121,7 +1403,7 @@ All teachings manifest as single expanse—no part stands apart from the whole. 
 <hr>
 <div class="pagebreak"></div>
 
-### 27 - ༢༧
+<h3>27 - ༢༧</h3>
 
 <div class="tibetan">
 རྒྱུ་འབྲས་ཐེག་པའི་ཆོས་ཀྱི་སྒོ་དབྱེ་ན།  <br>
@@ -1157,7 +1439,7 @@ The door of cause and effect opens where no door ever stood—causation itself w
 <hr>
 <div class="pagebreak"></div>
 
-### 28 - ༢༨
+<h3>28 - ༢༨</h3>
 
 <div class="tibetan">
 གཞུང་བཟང་འདི་དག་ཡན་ལག་ཡོངས་རྫོགས་པའི།  <br>
@@ -1193,7 +1475,7 @@ Limbs manifest complete without assembly—wholeness never departed from any par
 <hr>
 <div class="pagebreak"></div>
 
-### 29 - ༢༩
+<h3>29 - ༢༩</h3>
 
 <div class="tibetan">
 ཚིག་བཟང་སྙན་དངགས་དམ་པའི་རྒྱས་གྱིས་མཛེས།  <br>
@@ -1229,7 +1511,7 @@ Sublime poetry manifests as truth where sound and meaning arise inseparably. Gre
 <hr>
 <div class="pagebreak"></div>
 
-### 30 - ༣༠
+<h3>30 - ༣༠</h3>
 
 <div class="tibetan">
 ལམ་སྟེགས་རྒྱུ་འབྲས་ཐེག་པའི་ཐེམ་སྐས་བཀྲམ།  <br>
@@ -1265,7 +1547,7 @@ Steps spread not to be climbed but to be recognized—each step completes the jo
 <hr>
 <div class="pagebreak"></div>
 
-### 31 - ༣༡
+<h3>31 - ༣༡</h3>
 
 <div class="tibetan">
 འདོད་ཁམས་དགེ་བཅུའི་རི་དབང་ལྷུན་བརྗིད་ཅིང༌།  <br>
@@ -1301,7 +1583,7 @@ Meru stands majestic with the ten virtues—not accumulated but naturally presen
 <hr>
 <div class="pagebreak"></div>
 
-### 32 - ༣༢
+<h3>32 - ༣༢</h3>
 
 <div class="tibetan">
 གང་འདུལ་འགྲོ་ཁམས་མོས་པ་དེ་བཞིན་འདུལ།  <br>
@@ -1337,7 +1619,7 @@ Beings meet precisely where they stand—no forcing, no molding beyond their cap
 <hr>
 <div class="pagebreak"></div>
 
-### 33 - ༣༣
+<h3>33 - ༣༣</h3>
 
 <div class="tibetan">
 ཇི་སྙེད་ཐེག་པའི་རྣམ་གྲངས་མཐའ་ཡས་སྟོན།  <br>
@@ -1373,7 +1655,7 @@ Vehicles appear boundlessly according to capacity—each complete in itself. Min
 <hr>
 <div class="pagebreak"></div>
 
-### 34 - ༣༤
+<h3>34 - ༣༤</h3>
 
 <div class="tibetan">
 དོན་འདི་ཤེས་ན་རྡོ་རྗེ་སྙིང་པོའི་ལམ།  <br>
@@ -1409,7 +1691,7 @@ Knowing this meaning occurs immediate—no interval between knower and known. Th
 <hr>
 <div class="pagebreak"></div>
 
-### 35 - ༣༥
+<h3>35 - ༣༥</h3>
 
 <div class="tibetan">
 རྟོགས་པའི་འདྲ་འབག་རྡོ་རྗེ་སྙིང་པོའི་གླུ།  <br>
@@ -1445,7 +1727,7 @@ Song manifests as realization's natural expression—sound and meaning inseparab
 <hr>
 <div class="pagebreak"></div>
 
-### 36 - ༣༦
+<h3>36 - ༣༦</h3>
 
 <div class="tibetan">
 ཟབ་ལས་ཆེས་ཟབ་ཆོས་དབྱིངས་རིན་པོ་ཆེ།  <br>
@@ -1481,7 +1763,7 @@ Profound beyond profound—depth itself appearing without measure. The single tr
 <hr>
 <div class="pagebreak"></div>
 
-### 37 - ༣༧
+<h3>37 - ༣༧</h3>
 
 <div class="tibetan">
 ཟང་ཐལ་རིག་པ་ཀུན་མཁྱེན་བླ་མའི་ཐུགས།  <br>
@@ -1517,7 +1799,7 @@ Naked awareness stands without clothing of concept. The pith instruction shows b
 <hr>
 <div class="pagebreak"></div>
 
-### 38 - ༣༨
+<h3>38 - ༣༨</h3>
 
 <div class="tibetan">
 རྒྱུད་སྡེ་ཀུན་ཀྱི་ཟབ་གནད་མཐར་ཐུག་པ།  <br>
@@ -1553,7 +1835,7 @@ All tantras converge in single realization—their profound keys reach final poi
 <hr>
 <div class="pagebreak"></div>
 
-### 39 - ༣༩
+<h3>39 - ༣༩</h3>
 
 <div class="tibetan">
 ཀུན་མཁྱེན་བླ་མ་འཇའ་ལུས་སྒྱུ་མའི་སྐུ།  <br>
@@ -1589,7 +1871,7 @@ Rainbow body appears illusion-like—display without substantial entity standing
 <hr>
 <div class="pagebreak"></div>
 
-### 40 - ༤༠
+<h3>40 - ༤༠</h3>
 
 <div class="tibetan">
 གསུང་གི་གནད་འདི་རྟོགས་པའི་འདྲ་འབག་སྟེ།  <br>
@@ -1625,7 +1907,7 @@ Speech's key point manifests as realization itself taking audible form—no gap 
 <hr>
 <div class="pagebreak"></div>
 
-### 41 - ༤༡
+<h3>41 - ༤༡</h3>
 
 <div class="tibetan">
 མོས་གུས་ཐོབ་ནས་ཚིག་དོན་དཔྱོད་ཤེས་ན།  <br>
@@ -1661,7 +1943,7 @@ Devotion arises as the heart opens without calculation. Examining words carefull
 <hr>
 <div class="pagebreak"></div>
 
-### 42 - ༤༢
+<h3>42 - ༤༢</h3>
 
 <div class="tibetan">
 རྣམ་པར་དཔྱོད་མང་ག་གེའི་བསྟན་བཅོས་གཞན།  <br>
@@ -1697,7 +1979,7 @@ Extensive examination of logical treatises proliferates conceptual thought—the
 <hr>
 <div class="pagebreak"></div>
 
-### 43 - ༤༣
+<h3>43 - ༤༣</h3>
 
 <div class="tibetan">
 རྟོག་གེའི་དཀྲུགས་པ་ཕལ་བའི་གཞུང་མང་དུ།  <br>
@@ -1733,7 +2015,7 @@ Logic's commotion circles within awareness that remains undisturbed. Wandering w
 <hr>
 <div class="pagebreak"></div>
 
-### 44 - ༤༤
+<h3>44 - ༤༤</h3>
 
 <div class="tibetan">
 ཕྱོགས་རེའི་རིག་པ་སྦྲང་བུའི་གཤོག་རླབས་ཀྱིས།  <br>
@@ -1769,7 +2051,7 @@ Partial knowledge flutters like a bee taking one direction as complete while obs
 <hr>
 <div class="pagebreak"></div>
 
-### 45 - ༤༥
+<h3>45 - ༤༥</h3>
 
 <div class="tibetan">
 བྱིས་པའི་བསྟན་བཅོས་རྩེད་མོའི་རྩོད་པ་ཅན།  <br>
@@ -1805,7 +2087,7 @@ Childish treatises engage debate's play not through intellectual deficiency but 
 <hr>
 <div class="pagebreak"></div>
 
-### 46 - ༤༦
+<h3>46 - ༤༦</h3>
 
 <div class="tibetan">
 རྨོངས་དང་མ་རིག་ཐེ་ཚོམ་སྐྱེས་པའི་དུས།  <br>
@@ -1841,7 +2123,7 @@ Delusion arises as appearance within awareness. Ignorance manifests as movement 
 <hr>
 <div class="pagebreak"></div>
 
-### 47 - ༤༧
+<h3>47 - ༤༧</h3>
 
 <div class="tibetan">
 སྣ་ཚོགས་རྟོག་པའི་བུན་ལོང་གཡོ་བའི་དུས།  <br>
@@ -1877,7 +2159,7 @@ Conceptions move like dust-clouds across the sky of awareness. The movement neve
 <hr>
 <div class="pagebreak"></div>
 
-### 48 - ༤༨
+<h3>48 - ༤༨</h3>
 
 <div class="tibetan">
 ཆགས་སྡང་འཁྲུལ་པའི་ཟུག་རྔུ་འབར་བའི་དུས།  <br>
@@ -1913,7 +2195,7 @@ Attachment burns with heat that has no source. Aversion generates friction again
 <hr>
 <div class="pagebreak"></div>
 
-### 49 - ༤༩
+<h3>49 - ༤༩</h3>
 
 <div class="tibetan">
 འདུ་འཛིའི་གནས་དང་སྐྱོ་བས་གདུང་བའི་ཚེ།  <br>
@@ -1949,7 +2231,7 @@ Distraction scatters attention across multiple objects. Weariness weighs upon th
 <hr>
 <div class="pagebreak"></div>
 
-### 50 - ༥༠
+<h3>50 - ༥༠</h3>
 
 <div class="tibetan">
 དབེན་པའི་གནས་སུ་གཅིག་པུར་གནས་པའི་ཚེ།  <br>
@@ -1985,7 +2267,7 @@ Solitude settles around the practitioner like evening light. Seclusion holds spa
 <hr>
 <div class="pagebreak"></div>
 
-### 51 - ༥༡
+<h3>51 - ༥༡</h3>
 
 <div class="tibetan">
 མང་པོའི་དབུས་སུ་ཆགས་སྡང་ལྡང་སྐྱེས་པའི་ཚེ།  <br>
@@ -2021,7 +2303,7 @@ Attachment rises where relationship appears substantial. Aversion pushes against
 <hr>
 <div class="pagebreak"></div>
 
-### 52 - ༥༢
+<h3>52 - ༥༢</h3>
 
 <div class="tibetan">
 ཡིད་དཔྱོད་རྟོག་པའི་ཞེ་འདོད་སྐྱེས་པའི་ཚེ།  <br>
@@ -2057,7 +2339,7 @@ Mental investigation circles without finding center. Partiality selects one frag
 <hr>
 <div class="pagebreak"></div>
 
-### 53 - ༥༣
+<h3>53 - ༥༣</h3>
 
 <div class="tibetan">
 བྱིད་རྒོད་རྨུགས་པས་སྒོམ་གེགས་སྐྱེས་པའི་ཚེ།  <br>
@@ -2093,7 +2375,7 @@ Agitation scatters attention across multiple objects. Dullness thickens awarenes
 <hr>
 <div class="pagebreak"></div>
 
-### 54 - ༥༤
+<h3>54 - ༥༤</h3>
 
 <div class="tibetan">
 ནད་དང་སྡུག་བསྔལ་གནོད་པ་སྐྱེས་པའི་ཚེ།  <br>
@@ -2129,7 +2411,7 @@ Illness weighs upon the body. Suffering presses upon the mind. Harm arrives from
 <hr>
 <div class="pagebreak"></div>
 
-### 55 - ༥༥
+<h3>55 - ༥༥</h3>
 
 <div class="tibetan">
 རིག་རྩལ་རྟོགས་པའི་ཉམས་མྱོང་འབར་བའི་ཚེ།  <br>
@@ -2165,7 +2447,7 @@ Awareness dynamic blazes. Realization arrives without seeking. Blazing never dep
 <hr>
 <div class="pagebreak"></div>
 
-### 56 - ༥༦
+<h3>56 - ༥༦</h3>
 
 <div class="tibetan">
 བྱུང་རྒྱལ་ཉམས་ཀྱི་སྣང་བ་འུར་བའི་ཚེ།  <br>
@@ -2201,7 +2483,7 @@ Rushing appearances surge without source or destination. Spontaneous experience 
 <hr>
 <div class="pagebreak"></div>
 
-### 57 - ༥༧
+<h3>57 - ༥༧</h3>
 
 <div class="tibetan">
 འདོད་ཡོན་ལོངས་སྤྱོད་ཤུགས་ཀྱིས་འདུ་བའི་དུས།  <br>
@@ -2237,7 +2519,7 @@ Desire gathers with force that never compels what was never separate. Enjoyments
 <hr>
 <div class="pagebreak"></div>
 
-### 58 - ༥༨
+<h3>58 - ༥༨</h3>
 
 <div class="tibetan">
 སྙེམས་བྱེད་རེ་དོགས་གཟུང་འཛིན་སྐྱེས་པའི་ཚེ།  <br>
@@ -2273,7 +2555,7 @@ Pride inflates where no substance stands to be inflated. Doubt questions certain
 <hr>
 <div class="pagebreak"></div>
 
-### 59 - ༥༩
+<h3>59 - ༥༩</h3>
 
 <div class="tibetan">
 དངོས་འཛིན་འཁྲུལ་པ་ཨ་འཐས་སྐྱེས་པའི་ཚེ།  <br>
@@ -2310,7 +2592,7 @@ Grasping hardens air into stone. Delusion stacks shadows. These pages turn, and 
 <hr>
 <div class="pagebreak"></div>
 
-### 60 - ༦༠
+<h3>60 - ༦༠</h3>
 
 <div class="tibetan">
 ཀུན་མཁྱེན་ལེགས་བཤད་ནོར་བུའི་གཏེར་འདྲ་བའི།  <br>
@@ -2346,7 +2628,7 @@ Jewel treasure never depletes—each giving reveals inexhaustibility itself. Gar
 <hr>
 <div class="pagebreak"></div>
 
-### 61 - ༦༡
+<h3>61 - ༦༡</h3>
 
 <div class="tibetan">
 ཀུན་མཁྱེན་བླ་མ་ཐུགས་རྗེ་ཆེན་པོ་ཡིས།  <br>
@@ -2382,7 +2664,7 @@ Great compassion flows without source or destination. Blessing bestows not from 
 <hr>
 <div class="pagebreak"></div>
 
-### 62 - ༦༢
+<h3>62 - ༦༢</h3>
 
 <div class="tibetan">
 འགྲོ་བ་སེམས་ཅན་ཐམས་ཅད་སྐྱོ་བ་ཅན།  <br>
@@ -2418,7 +2700,7 @@ Weariness weighs upon every being without exception. Narrow paths constrict wher
 <hr>
 <div class="pagebreak"></div>
 
-### 63 - ༦༣
+<h3>63 - ༦༣</h3>
 
 <div class="tibetan">
 ཆོས་འཁོར་རྣམ་པར་དར་ཞིང་རྒྱས་པ་དང༌།  <br>
@@ -2454,7 +2736,7 @@ Dharma-wheel turns where no wheel ever stood apart from its turning. Sunlight ra
 <hr>
 <div class="pagebreak"></div>
 
-### 64 - ༦༤
+<h3>64 - ༦༤</h3>
 
 <div class="tibetan">
 བདག་ནི་འདི་ཕྱིའི་སྐྱེ་བ་ཐམས་ཅད་དུ།  <br>
@@ -2490,7 +2772,7 @@ Lives flow as single continuum—this life and future lives never separated by d
 <hr>
 <div class="pagebreak"></div>
 
-### 65 - ༦༥
+<h3>65 - ༦༥</h3>
 
 <div class="tibetan">
 སྐལ་བཟང་ལྡན་པ་གང་ཞིག་མཇལ་བ་དང༌།  <br>
@@ -2526,7 +2808,7 @@ Meeting occurs wherever recognition dawns—no arrangement required. Hearing and
 <hr>
 <div class="pagebreak"></div>
 
-### 66 - ༦༦
+<h3>66 - ༦༦</h3>
 
 <div class="tibetan">
 འགྲོ་བ་སེམས་ཅན་ཐམས་ཅད་ཀུན་མཁྱེན་གྱི  <br>
@@ -2562,7 +2844,7 @@ All sentient beings already possess the four kāyas—recognition alone remains.
 <hr>
 <div class="pagebreak"></div>
 
-### 67 - ༦༧
+<h3>67 - ༦༧</h3>
 
 <div class="tibetan">
 ཀུན་མཁྱེན་བླ་མའི་བྱིན་རླབས་མཐུ་ཆེན་པོས།  <br>
@@ -2599,7 +2881,8 @@ Great power manifests not as force imposed from outside but as recognition of in
 
 <hr>
 <div class="pagebreak"></div>
-## COLOPHON
+<h2>COLOPHON</h2>
+
 <div class="tibetan">
 ཅེས་པའང་ཨ་བུ་དྷྲ་ཧོའི་གང་དྲན་བརྗོད་པ་དགེ་ལེགས་འཕེལ།<br>
 དགེའོ།<br>
@@ -2633,3 +2916,6 @@ Virtue.
 Recollection never recalls what was forgotten because whatever arose was always present and never departed from its natural state. Abu Dhraho is Longchenpa's Sanskritized signature, not a separate author—the dgongs pa remains singular and uncorrupted through all expression. Virtue increases not through accumulation but because recognition itself is the virtue that never lacked what it now displays. Excellence manifests not as achievement but as the natural state appearing without distortion. The threefold invocation of virtue resonates not as repetition but as recognition occurring in body, speech, and mind simultaneously—each "virtue" complete in itself yet containing the others without boundary or sequence. May this merit benefit all beings without exception because recognition itself is the benefit that never stood apart from any being.
 
 <hr>
+
+</body>
+</html>
