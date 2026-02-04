@@ -9,7 +9,7 @@ def number_double_line_breaks(input_file, output_file):
     numbered_sections = []
     for i, section in enumerate(sections):
         # Strip leading/trailing white space and add the number
-        numbered_sections.append(f"### SECTION {i + 1}\n\n {section.strip()}")
+        numbered_sections.append(f"### SECTION {i + 1}\n\n{section.strip()}")
     
     # Join the sections back with double line breaks
     output_content = '\n\n'.join(numbered_sections)
