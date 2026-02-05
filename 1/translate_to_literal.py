@@ -1,6 +1,5 @@
-#!/usr/bin/env python3
+import time
 import sys
-import re
 from pathlib import Path
 from ask_mistral import create_context, ask_gpt
 
@@ -34,7 +33,7 @@ def main():
 
     # Find all .txt files in tibetan directory
     tibetan_files = sorted(
-        list(tibetan_dir.glob("*.txt"))#, key=lambda x: int(re.sub(r"[^0-9]", "", x))
+        list(tibetan_dir.glob("*.txt"))
     )
 
     if not tibetan_files:
@@ -77,7 +76,21 @@ def main():
             prompt = prompt_template.format(tibetan=tibetan_content, wylie=wylie_content)
 
             # Send to GPT/Mistral
-            result = ask_gpt(driver, prompt)
+            while True:
+                try:
+                    result = ask_gpt(driver, prompt)
+                    break
+                except KeyboardInterrupt:
+                    raise
+                except Exception as e:
+                    print(f"Error: {e}")
+                    print("Trying again in 5 seconds...")
+                    time.sleep(5)
+                    try:
+                        driver.quit()
+                    except:
+                        pass
+                    driver = create_context()
 
             # Save result
             with open(output_path, "w", encoding="utf-8") as f:
@@ -85,6 +98,7 @@ def main():
 
             processed_count += 1
             print(f"  Saved to {output_path}")
+            # break
 
         print(f"Done! Processed {processed_count} files, skipped {skipped_count}.")
         print(f"Translated files saved in: {output_dir.resolve()}")

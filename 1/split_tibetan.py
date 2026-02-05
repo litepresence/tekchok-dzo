@@ -20,7 +20,7 @@ def sanitize_filename(name):
     return safe + '.txt'
 
 def main():
-    input_file = '1_numbered.txt'
+    input_file = '1_numbered.md'
     output_dir = 'tibetan'
 
     # Verify input file exists
@@ -41,7 +41,7 @@ def main():
     idx = 1
 
     for line in lines:
-        if line.startswith('### '):
+        if line.startswith('### PAGE'):
             # Save previous section if exists
             if current_title is not None:
                 sections.append((current_title, '\n'.join(current_content)))
@@ -50,7 +50,7 @@ def main():
             # Extract title (remove '### ' prefix and normalize whitespace)
             current_title = re.sub(r'\s+', ' ', line[4:].strip())
         elif line.strip():
-            current_content.append(f"{idx}. {line.strip()}")
+            current_content.append(line.strip())
             idx += 1
     
     # Save last section

@@ -4,6 +4,7 @@ import random
 import shutil
 import time
 from random import random
+import sys
 
 import undetected_geckodriver as ug  # pip install undetected-geckodriver
 from markdownify import markdownify
@@ -75,7 +76,7 @@ def create_context(headless: bool = True, fresh_copy: bool = True):
 
 def _build_stealth_options(headless: bool, profile_path: str):
     options = Options()
-    if headless:
+    if ("head" not in sys.argv):
         options.add_argument("--headless")
     options.add_argument(f"--profile={profile_path}")
     options.binary_location = '/usr/bin/firefox'
@@ -114,7 +115,7 @@ def responses_count_reaches(expected_count):
 def ask_gpt(
     driver: webdriver.Firefox,
     prompt: str,
-    timeout: int = 20,
+    timeout: int = 3,
     new_chat: bool = True,
 ):
     """
@@ -136,7 +137,7 @@ def ask_gpt(
         chat_input = WebDriverWait(driver, 15).until(
             EC.presence_of_element_located((By.CLASS_NAME, "ProseMirror"))
         )
-        driver.execute_script("arguments[0].innerHTML = arguments[1];", chat_input, prompt)
+        driver.execute_script("arguments[0].innerHTML = arguments[1];", chat_input, prompt.replace("\n", "<br>"))
         grace_period()
 
         # Connec to send button

@@ -12,7 +12,7 @@ def process_file(in_path, out_path):
         lines = f.readlines()
     out = []
     for line in lines:
-        m = re.match(r'^(\d+\.\s+)(.*)', line)
+        m = re.match(r'^(\[\d+\]\s+)(.*)', line)
         if m:
             out.append(m.group(1) + converter.toWylie(m.group(2)))
         else:
