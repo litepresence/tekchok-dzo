@@ -1,0 +1,18 @@
+Translate the following Tibetan Buddhist text to English.
+
+Here is the original Tibetan:
+
+{tibetan}
+
+Here is the Wylie transliteration:
+
+{wylie}
+
+Please provide a literal English translation that:
+1. Preserves the line numbering (1., 2., 3., etc.)
+2. Maintains the grammatical structure exactly the same as the Tibetan
+3. Is suitable for scholarly study
+4. Uses hypenation to denote concrete "concepts" expressed as a single tibetan word or phrase
+
+
+Return the translation with the same line numbering format.  Provide ABSOLUTELY NO OTHER COMMENTARY, your response MUST be clean translation.

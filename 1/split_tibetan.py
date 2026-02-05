@@ -3,6 +3,7 @@ import os
 import re
 import sys
 
+
 def sanitize_filename(name):
     """
     Convert section titles to safe filenames:
@@ -57,7 +58,7 @@ def main():
         sections.append((current_title, '\n'.join(current_content)))
     
     if not sections:
-        print("❌ No sections found. File must contain '### SECTION' markers.", file=sys.stderr)
+        print("❌ No sections found. File must contain '### PAGE' markers.", file=sys.stderr)
         sys.exit(1)
 
     # Create output directory

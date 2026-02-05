@@ -53,7 +53,7 @@ def log_in(site_url: str = "https://chat.mistral.ai"):
     print("You can now use create_context() forever!")
 
 
-def create_context(headless: bool = False, fresh_copy: bool = True):
+def create_context(headless: bool = True, fresh_copy: bool = True):
     if not os.path.exists(PROFILE_BASE):
         raise FileNotFoundError(f"Run log_in() first! Missing {PROFILE_BASE}")
 
@@ -188,6 +188,6 @@ def test():
 
 
 if __name__ == "__main__":
-    # log_in()
+    log_in()
     test()
     # acquire_cookies()
