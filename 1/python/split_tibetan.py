@@ -20,7 +20,7 @@ def sanitize_filename(name):
     return safe + '.txt'
 
 def main():
-    input_file = '1_numbered.md'
+    input_file = 'source text volume 2.md'
     output_dir = 'tibetan'
 
     # Verify input file exists
@@ -41,7 +41,7 @@ def main():
     idx = 1
 
     for line in lines:
-        if line.startswith('### PAGE'):
+        if line.startswith('### SECTION'):
             # Save previous section if exists
             if current_title is not None:
                 sections.append((current_title, '\n'.join(current_content)))
