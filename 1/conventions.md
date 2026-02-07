@@ -110,10 +110,10 @@ You must proceed layer by layer. **Do not begin Layer N until Layer N-1 is fully
 1.  **LITERAL:** Generate pages 1–479 (Vol 1) referencing `tibetan` and `wylie`.
 2.  **LITURGICAL:** Generate pages 1–479 (Vol 1) referencing `tibetan`, `wylie`, and the newly created `literal`.
 3.  **COMMENTARY:** Generate pages 1–479 (Vol 1) referencing `tibetan`, `wylie`, `literal`, and `liturgical`.
-4.  **SCHOLAR:** Generate pages 1–479 (Vol 1) referencing all preceding layers.
-5.  **EPISTEMIC:** Generate pages 1–479 (Vol 1) referencing all preceding layers.
-6.  **DELUSION:** Generate pages 1–479 (Vol 1) referencing all preceding layers.
-7.  **COGNITIVE:** Generate pages 1–479 (Vol 1) referencing all preceding layers.
+4.  **SCHOLAR:** Generate pages 1–479 (Vol 1) referencing all available layers.
+5.  **EPISTEMIC:** Generate pages 1–479 (Vol 1) referencing all available layers.
+6.  **DELUSION:** Generate pages 1–479 (Vol 1) referencing all available layers.
+7.  **COGNITIVE:** Generate pages 1–479 (Vol 1) referencing all available layers.
 
 *(Repeat for Volume 2)*
 
