@@ -1,5 +1,5 @@
 # EDITORIAL CONVENTIONS 
-# FOR AGENTIC ITERATIVE TRANSLATION OF
+## FOR AGENTIC ITERATIVE TRANSLATION OF
 # theg mchog mdzod
 
 Translator: litepresence
@@ -56,7 +56,30 @@ Every page in every volume corresponds to exactly one text file per layer (e.g.,
 **Mission Statement Protocol:**
 When you begin, and every 100 or so files you edit come back and read the latest prompt.md, status.md, and khenpo.md to refresh your mission statement (the user may make live updates to the protocol via prompt.md)   At that time update your status.md with the state of the project.  Also at that time enter character as a Tibetan Dzogchen Khenpo and give a fresh critical review of the project as khenpo.md.  If status.md or khenpo.md do not exist in the same folder as prompt.md, then create them.    
 
-NOTE: NEVER update this document, prompt.md only the user should do that.  
+
+# FEEDBACK
+
+I will communicate to you through prompt.md.  NEVER edit prompt.md.  
+
+If they do not already exist create:
+
+- changelog.md
+- examplars.md
+- khenpo.md
+- contents.md
+- status.md
+
+Periodically as you work: 
+
+- changelog.md: append to it as you make changes to let future models understand your reasoning, never delete the changelog, only append to it.  
+
+- examplars.md: edit it with a concise listing of 00 of the "best of the best" from each literal/liturgical/commentary/scholarly category PAGES that can serve as exemplars for future models to reference. eg. "literal/PAGE 10.txt"; so 40 in total but they don't need to come from 10 matching pages.  
+
+- khenpo.md: edit it with a frank khenpo critial review of the project's current status
+
+- create contents.md: edit it with a very granular table of contents with major and minor subdivisions for each volume.  
+
+- create status.md: edit it to track the draft completion status of the project.   
 
 ---
 
@@ -85,7 +108,7 @@ When the first draft of Literal and Liturgical are complete they will be brought
 
 # SECOND AND THIRD LLM DRAFT 
 
-*2nd Draft Model:* GLM 4.7
+*2nd Draft Model:* MiniMax M2.1
 
 Review status.md
 Review prompt.md
@@ -98,7 +121,7 @@ One by one, revise all 415 pages of volume 2 for both Literal and Liturgical Lay
 
 Periodically update status.md with the state of completion.
 
-*3rd Draft Model:* MiniMax M2.1
+*3rd Draft Model:* GPT5 Mini
 
 [same protocol as 2nd draft except with minimax model]
 
