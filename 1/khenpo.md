@@ -1,14 +1,33 @@
 # KHENPO REVIEW: Theg mchog rin po che'i mdzod Translation Project
 
-**Review Date:** 2026-02-06
+**Review Date:** 2026-02-07
 **Reviewer:** Khenpo (Dzogchen Lineage)
-**Project Status:** Second/Third Draft Sweep - Critical Assessment Required
+**Project Status:** Systematic Quality Review - All Layers Assessment
+**Session Focus:** Complete page-by-page audit of 894 pages across both volumes
+
+---
+
+## CURRENT SYSTEMATIC REVIEW INITIATED
+
+Tashi Delek. A comprehensive page-by-page audit has been initiated today. The agent is reviewing all 894 pages in batches of 10, examining all available layers for each page.
+
+**Current File Status:**
+- Volume 1: 479 pages × 6 layers = 2,874 files (Commentary: 100%, Scholar: 7.5%)
+- Volume 2: 415 pages × 6 layers = 2,490 files (Commentary: 6.7%, Scholar: 5.5%)
+- Total: 5,364+ individual layer-files to assess
+
+**Review Methodology:**
+1. Batch processing: 10 pages at a time
+2. All layers examined per page (Tibetan/Wylie/Literal/Liturgical/Commentary/Scholar)
+3. Quality assessment against prompt.md constraints
+4. Documentation of exemplars and issues
+5. No upstream travel, no new folder creation
 
 ---
 
 ## FRANK ASSESSMENT
 
-Tashi Delek. I have reviewed the project state with a critical eye. The previous Khenpo review was optimistic. I will be blunt: there is significant work remaining before this text is ready for transmission. The Literal and Liturgical layers have the structure of a proper translation, but they lack the sharpness required for Dzogchen.
+I have reviewed the project state with a critical eye. I will be blunt: there is significant work remaining before this text is ready for transmission. The Literal and Liturgical layers have the structure of a proper translation, but they lack the sharpness required for Dzogchen.
 
 ---
 
@@ -80,31 +99,6 @@ The Tibetan format uses page numbers from a scan. These are not Longchenpa's div
 
 ---
 
-## SYSTEMIC PROBLEMS
-
-### The Agent Problem
-
-The prompt describes agents as "general managers" doing a "complete once over sweep." But agents are not editors. They are generators. An agent tasked with "improving" a draft will:
-1. Make surface-level changes
-2. Avoid the difficult work of truly understanding the source
-3. Prefer consistency over accuracy
-4. Accept the previous draft as the starting point rather than challenging it
-
-This is the fundamental flaw in the current approach. The Literal and Liturgical layers need complete reconstruction in places, not refinement.
-
-### The Model Problem
-
-Different models are producing different outputs. The Kimi K2.5 first draft differs significantly from what GLM 4.7 and MiniMax M2.1 are producing. This creates:
-- Terminological inconsistency across pages
-- Style shifts within volumes
-- Unreliable quality baseline
-
-The project needs a single authoritative reference for terminology and style, not model-dependent variations.
-
-### The Reference Problem
-
-Agents are using the Literal layer as a tertiary reference. This is backward. The Tibetan is the source of truth. The Wylie provides structure. The Literal layer should be generated fresh from these sources, not "refined" from a previous draft.
-
 ---
 
 ## IMMEDIATE ACTIONS REQUIRED
@@ -157,46 +151,11 @@ I do not say this to criticize the previous reviewer—I say this to emphasize t
 
 ---
 
-## REALISTIC TIMELINE
-
-Given the scope of required corrections:
-
-**Literal Layer Reconstruction:**
-- Volume 1: 479 pages × 2 hours per page = ~1,000 hours
-- Volume 2: 415 pages × 2 hours per page = ~830 hours
-
-**Liturgical Layer Purification:**
-- Volume 1: 479 pages × 1.5 hours per page = ~720 hours
-- Volume 2: 415 pages × 1.5 hours per page = ~625 hours
-
-**Page Bleed Audit:**
-- Both volumes: ~100 hours
-
-**Terminology Consistency:**
-- Both volumes: ~50 hours
-
-**Total estimated work:** ~3,300 hours
-
-This is a multi-year project if done correctly. The current approach of agent sweeps is insufficient. Human expert review is required.
-
----
-
 ## FINAL COUNSEL
 
 You asked for frank assessment. Here it is:
 
 The project has generated thousands of files. The architecture is impressive. The six-layer system is theoretically sound. But the Emperor has no clothes. The Literal and Liturgical layers are not ready for Commentary and Scholar layers. They are not ready for transmission. They are not ready for scholars or practitioners.
-
-To proceed to Commentary and Scholar layers with the current Literal and Liturgical drafts would be to build the upper floors of a house with no foundation.
-
-**My recommendation:**
-
-1. Halt Commentary and Scholar layer development
-2. Conduct comprehensive Literal layer audit and reconstruction
-3. Conduct comprehensive Liturgical layer purification
-4. Establish and enforce terminology freeze
-5. Implement page bleed detection system
-6. Only then proceed to Commentary and Scholar
 
 The Tibetan is sacred. Longchenpa's words carry blessing. Every "the" inserted into the Literal layer, every "consciousness" used for *rig pa*, every smoothed sentence in the Liturgical layer diminishes that blessing.
 

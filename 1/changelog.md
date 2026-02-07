@@ -4,6 +4,180 @@ All notable changes and milestones in this translation project.
 
 ---
 
+## [2026-02-07] - KHENPO REVIEW: EXTENDED AUDIT COMPLETE - WYLIE CONTAMINATION DISCOVERED
+
+### Extended Review Scope
+- **Reviewer:** Khenpo (Dzogchen Lineage Critical Assessment)
+- **Methodology:** Systematic sampling across both volumes, all layers
+- **Pages Reviewed:** 40+ pages including:
+  - Volume 1: Pages 1-15, 25-30, 50, 95-110, 150, 200, 250, 300, 400
+  - Volume 2: Pages 1-10, 50, 100, 150, 200, 300, 350-415
+
+### CRITICAL FINDING: WYLIE CONTAMINATION IN LITERAL LAYER
+
+#### Volume 1 - Confirmed Wylie Files (English translations missing):
+1. **PAGE 3.txt** - Single page
+2. **PAGES 95-100.txt** - Consecutive block (6 pages)
+
+**Total Volume 1 affected:** 7 pages
+
+#### Volume 2 - Confirmed Wylie Files:
+1. **PAGES 350-415.txt** - Extensive contamination in final section
+   - PAGE 350: Wylie
+   - PAGE 375: Wylie
+   - PAGE 385: Wylie
+   - PAGE 395: Wylie
+   - PAGES 398-403: Consecutive block (6 pages)
+   - PAGE 405: Wylie
+   - PAGE 410: Wylie
+   - PAGE 415: Wylie
+
+**Total Volume 2 affected:** 15+ pages (estimated)
+
+### Audit Methodology
+```bash
+# Sample check command used:
+for page in [range]; do head -2 volume_X/literal/PAGE\ $page.txt; done
+```
+
+**Pattern Identified:**
+- Volume 1: Isolated contamination (early PAGE 3, mid-range 95-100)
+- Volume 2: Extensive contamination in final 65 pages (350-415)
+
+### ROOT CAUSE ANALYSIS
+The Wylie contamination represents files that were either:
+1. Never translated (remained as Wylie placeholders)
+2. Incorrectly copied from Wylie folder to Literal folder
+3. Translation process failed silently
+
+### IMPACT ASSESSMENT
+- **Literal Layer Integrity:** Compromised on ~22 pages (2.5% of total)
+- **Translation Pipeline:** Requires remediation before Commentary/Scholar layers can proceed
+- **Priority:** URGENT - These are gaps in the primary translation layer
+
+### Commentary Layer - CONTINUES TO BE OUTSTANDING
+
+Across all 40+ pages reviewed:
+- **Volume 1:** Consistently excellent Patrul Rinpoche voice
+  - PAGE 26: Hell realms as psychological states
+  - PAGE 30: Formless realm commentary
+  
+- **Volume 2:** Strong continuation
+  - PAGE 2: Tenfold exposition of elements
+  - PAGE 5: Body-mind completeness teaching
+
+**Quality Markers:**
+- Direct "you" address maintained
+- Tangible metaphors throughout
+- Line range references accurate
+- Transformative closures
+- No scholarly hedging
+
+### RECOMMENDATIONS
+
+#### Immediate Actions (Priority 1):
+1. **Replace all Wylie-contaminated files** with proper English literal translations
+2. **Full audit of literal layer** using systematic sampling to find any additional contamination
+3. **Verify page numbering** - ensure all 894 pages have actual translations
+
+#### Quality Assurance (Priority 2):
+4. **Commentary layer** requires no changes - maintain current standards
+5. **Liturgical layer** good overall - minor sentence length adjustments
+6. **Scholar layer** can proceed once literal layer is complete
+
+---
+
+## [2026-02-07] - KHENPO REVIEW: Systematic Batch Assessment Initiated
+
+### Review Scope
+- **Reviewer:** Khenpo (Dzogchen Lineage Critical Assessment)
+- **Methodology:** Batch review of 10 pages at a time, all available layers
+- **Current Progress:** Volume 1, Pages 1-15 (Batches 1-2) complete
+
+### Critical Findings - Batch 1 (Pages 1-5)
+
+#### Literal Layer Issues
+- **PAGE 3.txt:** CRITICAL - Contains Wylie text instead of English translation (wrong file placement)
+- **PAGE 2.txt, Line 36:** Word order disrupted, missing hyphens in compounds
+- **PAGE 5.txt, Line 112:** Article "all" present when should be omitted per prompt constraints
+
+#### Liturgical Layer Assessment
+- Generally good Vairotsana voice
+- Some sentences exceed 40 words (guideline: rare)
+- Minor hyphenation inconsistencies ("great-Brahma" vs "great Brahma")
+
+#### Commentary Layer - EXCELLENT
+- **PAGE 1.txt:** Perfect Patrul Rinpoche voice - direct address, earthy metaphors
+- **PAGE 2.txt:** Strong continuation with transformative closing
+- **PAGE 3.txt:** Maintains earthy tone with immediate application
+
+### Critical Findings - Batch 2 (Pages 6-15)
+
+#### Literal Layer - POSITIVE
+- Good adherence to 1:1 word order
+- Minimal article usage
+- Proper compound hyphenation maintained
+- Complex grammatical structures well-preserved
+
+#### Liturgical Layer - POSITIVE
+- Majestic Vairotsana voice consistent
+- Good handling of technical enumerations (4×4×3 activity structure)
+- Rhythmic verse quality in citations
+- Metaphysical precision maintained
+
+#### Commentary Layer - EXCELLENT
+- **PAGE 6.txt:** Strong Patrul voice - "This isn't a census report!"
+- **PAGE 7.txt:** Direct pointing - "Listen to this!"
+- **PAGE 11.txt:** Deep Dzogchen insight on non-duality
+- **PAGE 13.txt:** Clear explanation of three supports
+- Line range references accurate
+- No scholarly hedging
+- Tangible metaphors throughout
+
+### Volume 1 File Counts Verified
+- **Tibetan:** 479 pages (100% - TSHAD MA)
+- **Wylie:** 479 pages (100% - LAM)
+- **Literal:** 479 pages (100% - Dpyad kyi bshad pa)
+- **Liturgical:** 479 pages (100% - sgrub pa'i gleng gzhi)
+- **Commentary:** 479 pages (100% - Heart instruction)
+- **Scholar:** 36 pages (7.5% - Academic analysis)
+
+### Recommendations for Subsequent Batches
+1. **Priority 1:** Fix PAGE 3 literal layer (Wylie file misplaced)
+2. **Priority 2:** Continue systematic review through remaining 464 pages of Volume 1
+3. **Priority 3:** Begin Volume 2 review (415 pages)
+4. **Commentary layer quality is OUTSTANDING** - use as training exemplar
+5. **Literal layer needs spot-checking** for article consistency
+
+---
+
+## [2026-02-07] - LITURGICAL LAYER DRAFT 2: Volume 2 Pages 1-25 Revised
+
+### Revised Pages (Volume 2, Liturgical Layer)
+- **PAGE 1-25:** Complete draft 2 revision of early Volume 2 liturgical layer
+- **Lines Covered:** 1-1302 (Tibetan source)
+- **Content:** Dependent arising, five elements, three kayas exposition, nirmanakaya characteristics
+
+### Key Improvements Applied
+1. **Enhanced Vairotsana voice** - Majestic yet precise transmission maintained throughout
+2. **Terminology standardization:**
+   - *rig pa* = "awareness" (consistently applied)
+   - *thig le* = "thigle" (not bindu/point)
+   - *ka dag* = "primordially pure" (verbal phrase)
+   - *lhun grub* = "spontaneously complete/accomplished"
+3. **Verse formatting** - Citations from Self-Arisen and other tantras rendered in rhythmic verse
+4. **Flow optimization** - Improved sentence rhythm while maintaining metaphysical precision
+5. **Article removal** - Eliminated unnecessary "the" at line beginnings
+6. **Compound hyphenation** - Standardized: "five-arising", "self-appearance", "awareness-wisdom"
+
+### Content Summary
+- **Pages 1-5:** Outer/inner arising, elements, dependent arising framework
+- **Pages 6-11:** Body-mind completeness, five winds, awareness characteristics  
+- **Pages 12-18:** Dharmakaya, Sambhogakaya exposition with ten aspects
+- **Pages 19-25:** Nirmanakaya, emanation-kaya types, five kayas enumeration, light appearances
+
+---
+
 ## [2026-02-06] - 2nd DRAFT: MiniMax M2.1 Revision Sweep Initiated
 
 ### Revised Pages (Volume 1, Literal & Liturgical Layers)
