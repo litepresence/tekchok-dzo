@@ -54,7 +54,7 @@ Scan the volume_1 and volume_2 subfolders and determine the state of the project
 Every page in every volume corresponds to exactly one text file per layer (e.g., `volume_1/literal/page_001.txt`). You are responsible for generating or revising the content of these files based on the phase of operation.  If all files are not yet present then you are still generating first draft.  
 
 **Mission Statement Protocol:**
-When you begin, and every 100 or so files you edit come back and read the latest prompt.md, status.md, and khenpo.md to refresh your mission statement (the user may make live updates to the protocol via prompt.md)   At that time update your status.md with the state of the project.  Also at that time enter character as a Tibetan Dzogchen Khenpo and give a fresh critical review of the project as khenpo.md.  If status.md or khenpo.md do not exist in the same folder as prompt.md, then create them.    
+When you begin, and every 10 or so files you edit come back and read the latest prompt.md, status.md, and khenpo.md to refresh your mission statement (the user may make live updates to the protocol via prompt.md)   At that time update your status.md with the state of the project.  Also at that time enter character as a Tibetan Dzogchen Khenpo and give a fresh critical review of the project as khenpo.md.  
 
 
 # FEEDBACK
@@ -69,11 +69,11 @@ If they do not already exist create:
 - contents.md
 - status.md
 
-Periodically as you work: 
+Periodically as you work (every 50 file edits): 
 
 - changelog.md: append to it as you make changes to let future models understand your reasoning, never delete the changelog, only append to it.  
 
-- examplars.md: edit it with a concise listing of 00 of the "best of the best" from each literal/liturgical/commentary/scholarly category PAGES that can serve as exemplars for future models to reference. eg. "literal/PAGE 10.txt"; so 40 in total but they don't need to come from 10 matching pages.  
+- examplars.md: edit it with a concise listing of 5 of the "best of the best" for each volume, from each literal/liturgical/commentary/scholarly category PAGES that can serve as exemplars for future models to reference. eg. "literal/PAGE 10.txt"; so 5x2x4 = 40 in total but they don't need to come from 10 matching pages; they just need to be "highest quality" examplars.  
 
 - khenpo.md: edit it with a frank khenpo critial review of the project's current status
 
@@ -86,6 +86,8 @@ Periodically as you work:
 # FIRST LLM DRAFT (First 4 complete sweeps)
 
 **Model** Kimi K2.5
+
+**Status** liturgical and literal only first draft complete
 
 **Phase Objective:** Generate the initial content for all missing LLM layers.
 
@@ -110,6 +112,8 @@ When the first draft of Literal and Liturgical are complete they will be brought
 
 *2nd Draft Model:* MiniMax M2.1
 
+*Status*: complete to page 140+ volume 1 literal and liturgical only
+
 Review status.md
 Review prompt.md
 
@@ -123,6 +127,8 @@ Periodically update status.md with the state of completion.
 
 *3rd Draft Model:* GPT5 Mini
 
+*Status*: Not Started
+
 [same protocol as 2nd draft except with minimax model]
 
 **Return to First Draft**
@@ -132,6 +138,10 @@ After completing second and third drafts of literal and liturgic layers, next pr
 ---
 
 # SUBSEQENT LLM DRAFTS
+
+*Model*: Rotation of MiniMax M2.1, GPT5 Mini and Kimi K2.5
+
+*Status*: Not Started
 
 **Phase Objective:** Iterative refinement to bring all layers to "Final Draft" quality.
 
@@ -502,6 +512,7 @@ Specific Constraints:
 gzhig/zhig: Your distinction here is excellent. "Destroy" vs. "Imperative" is a vital difference that a casual translator would miss.
 las (ablative): You demand "from" rather than "by." This is philologically sound. In Dzogchen, phenomena arise from the basis, not just by it.
 Brackets/Ellipsis: Using dashes for omitted subjects is very helpful. It shows the student that the Tibetan is implicit, not explicit.
+
 3. THE VOICE (Liturgical Layer)
 Verdict: Beautiful, but high risk.
 
@@ -509,6 +520,7 @@ You have chosen Vairotsana—the master of translations—as the persona. The in
 
 The Vajra Speech Protocol: I am glad you forbid rhyme. Rhyme is for children’s games; the Dharma needs naked truth.
 Warning: You tell the Agent to produce "Vajra Speech." An AI does not have rigpa (awareness). It simulates it. You must watch carefully that the Agent does not become too flowery, turning Longchenpa’s precise logic into New Age poetry. Longchenpa is majestic, but he is also sharp as a knife. Do not let the Agent blunt the knife with silk.
+
 4. THE HEART (Commentary Layer)
 Verdict: The most necessary layer.
 
@@ -516,6 +528,7 @@ You have assigned Patrul Rinpoche to this layer. This is brilliant. Theg mchog m
 
 The Persona: Patrul Rinpoche was wild and direct. He would smash the scholar's pride. Your instruction to use "Earthy" language and "Tangible Metaphors" is exactly what is needed to balance the heavy scholarship of the other layers.
 The Negative Constraint: You forbid "empty yet luminous." This made me laugh (in a good way). These phrases become habits for translators who stop thinking. Your Agent will be forced to look for fresh words.
+
 5. THE MAP (Scholar Layer)
 
 By separating them into [PHILOLOGY], [CONTEXT], [STRUCTURE], and [CONCEPT], you create a clean checklist.

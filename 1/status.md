@@ -1,8 +1,102 @@
 # PROJECT STATUS: Theg mchog rin po che'i mdzod Translation Project
 
 **Last Updated:** 2026-02-06
-**Current Phase:** SECOND/THIRD DRAFT SWEEP - CRITICAL ASSESSMENT
-**Project Status:** FOUNDATION COMPLETE, QUALITY UNVERIFIED
+**Current Phase:** SECOND DRAFT - VOLUME 2 LITERAL/LITURGICAL REVISION
+**Current Task:** Beginning Draft 2 Revision for Volume 2
+**Started:** 2026-02-06
+
+## DRAFT 2 REVISION PROTOCOL
+
+### Model: MiniMax M2.1
+
+### Current Task
+- **Target:** Volume 2, Literal and Liturgical Layers
+- **Pages:** 001-415
+- **Priority:** Address Khenpo-identified critical failures
+
+---
+
+## CRITICAL ISSUES (From Khenpo Review)
+
+### Literal Layer
+1. **Articles Present:** Remove all "the", "a", "an" unless Tibetan explicitly uses de/di
+2. **Word Order Violation:** Restore 1:1 mapping from Tibetan, not previous draft
+3. **Particle Ambiguity:** Mark with slashes (to/in, from/by)
+4. **Compound Hyphenation:** Reflect nonduality (emptiness-luminosity)
+5. **Verbal Phrases:** Keep ka dag/lhun grub verbal, not nominal
+
+### Liturgical Layer
+1. **Semantic Drift:** *rig pa* must be "awareness" only
+2. **Elegance vs Precision:** Never sacrifice Dzogchen accuracy for style
+3. **Sentence Length:** Sentences over 40 words should be rare
+4. **Vairotsana Voice:** Maintain majestic, transmissive tone
+
+### Page Bleed
+- Treat page numbers as scanning artifacts only
+- Maintain logical continuity across page boundaries
+
+---
+
+## TERMINOLOGY FREEZE
+
+| Tibetan | Wylie | Correct Rendering |
+|---------|-------|-------------------|
+| རིག་པ་ | rig pa | awareness (NEVER consciousness, knowing, presence) |
+| ཁམས་གདངས་ | ka dag | primordially pure (verbal) |
+| ལྷག་གྲཊ་ | lhun grub | spontaneously accomplished (verbal) |
+| ཐིག་ལེ་ | thig le | thigle |
+| སེམས་ | sems | ordinary mind |
+| གཞི་ | gzhi | ground/basis (context determines) |
+| ཀུན་གཞི་ | kun gzhi | alaya-ground |
+
+---
+
+## VOLUME 2 REVISION PROGRESS
+
+| Page | Literal Status | Liturgical Status | Notes |
+|------|---------------|-------------------|-------|
+| 001 | [IN PROGRESS] | [PENDING] | Beginning Draft 2 |
+| 002-010 | [PENDING] | [PENDING] | - |
+| 011-020 | [PENDING] | [PENDING] | - |
+| 021-030 | [PENDING] | [PENDING] | - |
+| 031-040 | [PENDING] | [PENDING] | - |
+| 041-050 | [PENDING] | [PENDING] | - |
+| 051-060 | [PENDING] | [PENDING] | - |
+| 061-070 | [PENDING] | [PENDING] | - |
+| 071-080 | [PENDING] | [PENDING] | - |
+| 081-090 | [PENDING] | [PENDING] | - |
+| 091-100 | [PENDING] | [PENDING] | - |
+
+*Continuing through page 415*
+
+---
+
+## IMMEDIATE ACTIONS
+
+1. [x] Review prompt.md, khenpo.md, status.md
+2. [x] Update status.md with Volume 2 focus
+3. [ ] Revise Literal Layer PAGE 001
+4. [ ] Revise Liturgical Layer PAGE 001
+5. [ ] Continue through PAGE 415
+
+---
+
+## PREVIOUS STATUS (Archive)
+
+*[Previous status tracking Volume 1 pages 77-100 moved here for reference]*
+
+Volume 1 Pages 77-100 were in progress before shifting to Volume 2 per user instruction.
+
+Sarva Mangalam.
+
+## PAGE-BY-PAGE REVISION TRACKER
+
+### Volume 1: Pages 77-100
+
+| Page | Literal Status | Liturgical Status | Notes |
+|------|---------------|-------------------|-------|
+| 77-92 | [x] Revised | [x] Revised | 16 pages completed |
+| 93-100 | [x] Revised | [x] Revised | 8 pages completed |
 
 ---
 
