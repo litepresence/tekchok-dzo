@@ -445,6 +445,65 @@ done
 
 ---
 
-*Last Updated: 2026-02-08*  
+*Last Updated: 2026-02-08 (Tool Limitations Section Added)*  
 *Navigation Guide for Agentic Translation Project*  
 *Volume 2 Remediation Sweep Complete - 25 Pages*
+
+---
+
+## Tool Limitations & Workarounds
+
+### Glob Tool RangeError
+**Issue:** The `glob` tool fails with "RangeError: Maximum call stack size exceeded" when using recursive patterns like `**/*.txt` or `**/filename*` on large directory structures.
+
+**Symptoms:**
+```
+RangeError: Maximum call stack size exceeded
+```
+
+**Workaround - Use Bash Instead:**
+```bash
+# ❌ DON'T USE: glob tool with recursive patterns
+glob "**/*.txt"
+glob "**/quickstart*"
+
+# ✅ USE: Standard shell commands
+ls -la                              # List current directory
+find . -name "*.txt" | head -20     # Find files recursively
+cat quickstart.md                   # Read specific file
+ls volume_1/literal/                # List specific subdirectory
+```
+
+### Read Tool RangeError on Large Files
+**Issue:** The `read` tool may fail with "RangeError" when reading very large files (>50KB or 400+ lines).
+
+**Workaround - Use Bash with Head/Tail:**
+```bash
+# ❌ DON'T USE: read tool on large files
+read filePath="/home/oracle/extinction-event/EV/theg pa'i mchog rin po che'i mdzod/1/khenpo.md"
+
+# ✅ USE: Bash to read specific portions
+cat khenpo.md | head -100           # First 100 lines
+cat khenpo.md | tail -50            # Last 50 lines
+sed -n '100,200p' khenpo.md         # Lines 100-200
+wc -l khenpo.md                     # Count total lines first
+```
+
+### Grep Tool Limitations
+**Issue:** Similar RangeError can occur with `grep` on large nested directory structures.
+
+**Workaround:**
+```bash
+# Search within specific subdirectories only
+find volume_1/epistemic -name "*.txt" -exec grep -l "pattern" {} \;
+
+# Or use rg (ripgrep) if available
+rg "pattern" volume_1/literal/ --type txt
+```
+
+### Best Practices for This Project
+1. **Always use `bash` tool** for file discovery and reading
+2. **Quote file paths** with spaces: `"PAGE 1.txt"`
+3. **Check file size first:** `wc -l filename` before reading
+4. **Read incrementally:** Use `head`, `tail`, `sed` for large files
+5. **Work in specific subdirectories** rather than project-wide globs

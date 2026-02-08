@@ -404,3 +404,309 @@
 - Three kayas as sun center/rays/warmth
 - Citations from Rang shar and Thal 'gyur
 
+
+### PAGE 271 - Revised
+**Date:** 2026-02-08
+**Changes:**
+- Complete rewrite: Original was only 6 lines with generic placeholder
+- Corrected to actual Tibetan line range (11223-11289)
+- Added three comprehensive sections: spontaneously accomplished primordial wisdom, dharmakāya empty nature, equality beyond time
+- Tagged [DZOGCHEN VIEW – SPONTANEOUSLY ACCOMPLISHED PRIMORDIAL WISDOM]
+- Analysis of play of appearance (*rol pa'i snang ba*)
+- Five primordial wisdoms of enjoyment body
+- Equality (*mnyam nyid*) beyond temporal distinctions
+
+### PAGE 272 - Revised
+**Date:** 2026-02-08
+**Changes:**
+- Complete rewrite: Original was only 6 lines with generic placeholder
+- Corrected to actual Tibetan line range (11290-11334)
+- Added two comprehensive sections: self-liberated action beyond effort, original Buddha section completion
+- Tagged [DZOGCHEN VIEW – SELF-LIBERATED ACTION]
+- Completion without doing (*byed med rdzogs*)
+- Original Buddha (*ye sangs*) as essence-nature-compassion
+- Transition to three ways of arising
+
+### PAGE 273 - Revised
+**Date:** 2026-02-08
+**Changes:**
+- Complete rewrite: Original was only 6 lines with generic placeholder
+- Corrected to actual Tibetan line range (11335-11354)
+- Added two comprehensive sections: six modes of arising, three aspect abiding
+- Tagged [DZOGCHEN VIEW – SIX MODES OF ARISING]
+- Six modes of base appearance (spontaneous presence, not-certain, various arising, etc.)
+- Correlation of essence/nature/compassion with body/speech/mind
+- Subtle body correlates (life-winds, wisdom winds, five lights)
+
+
+### PAGE 274 - Revised
+**Date:** 2026-02-08
+**Changes:**
+- Complete rewrite: Original was only 6 lines with generic placeholder
+- Corrected to actual Tibetan line range (11365-11391)
+- Added three comprehensive sections: three doors of appearing, three kaya manifestation, ground-appearance nature
+- Tagged [DZOGCHEN VIEW – THREE DOORS OF APPEARING]
+- Analysis of spontaneous self-face clear, pure primordial wisdom, impure samsara doors
+- Three capacities (rtsal) manifesting as three kayas
+- Dream-like self-appearing manifestation
+
+### PAGE 275 - Revised
+**Date:** 2026-02-08
+**Changes:**
+- Complete rewrite: Original was only 6 lines with generic placeholder
+- Corrected to actual Tibetan line range (11392-11452)
+- Added three comprehensive sections: cloud-sky metaphor, eight aspects of spontaneous accomplishment, three door not ceasing
+- Tagged [DZOGCHEN VIEW – CLOUD-SKY METAPHOR]
+- Adventitious arising (*glo bur*) analogy
+- Eight methods of spontaneous presence
+- Mu tig phreng ba citation
+
+### PAGE 276 - Revised
+**Date:** 2026-02-08
+**Changes:**
+- Complete rewrite: Original was only 6 lines with generic placeholder
+- Corrected to actual Tibetan line range (11453-11504)
+- Added two comprehensive sections: Samantabhadra dialogue, eight manifest-making methods
+- Tagged [TANTRIC TRANSFORMATIVE VIEW]
+- Gem Treasury Tantra citation
+- Paradoxical formulations (birth non-existent, non-ceasing ceasing)
+- Eight methods of manifestation
+
+### PAGE 277 - Revised
+**Date:** 2026-02-08
+**Changes:**
+- Complete rewrite: Original was only 6 lines with generic placeholder
+- Corrected to actual Tibetan line range (11505-11546)
+- Added three comprehensive sections: spontaneous gem cavity, eight appear-doors, Palgyi Trashi Pe synthesis
+- Tagged [DZOGCHEN VIEW – SPONTANEOUS GEM CAVITY]
+- Three cavities (ground, path, fruit)
+- Five elements as five lights
+- All arise great (*kun tu 'byung*)
+
+### PAGE 278 - Revised
+**Date:** 2026-02-08
+**Changes:**
+- Complete rewrite: Original was only 6 lines with generic placeholder
+- Corrected to actual Tibetan line range (11547-11606)
+- Added two comprehensive sections: fivefold structure of enjoyment body, emanation body manifestations
+- Tagged [TANTRIC TRANSFORMATIVE VIEW]
+- Pentadic classification (lnga ldan)
+- Thirty-two/ eighty marks
+- Nature, beings-tame, impure emanation bodies
+
+
+### PAGE 279 - Revised
+**Date:** 2026-02-08
+**Changes:**
+- Complete rewrite: Original was only 6 lines with generic placeholder
+- Corrected to actual Tibetan line range (11607-11646)
+- Added two comprehensive sections: outer container mandala, four appearance modes
+- Tagged [TANTRIC TRANSFORMATIVE VIEW], [DZOGCHEN VIEW]
+- Five elements as mandala
+- Six afflictions leading to six realms
+- Three kaya stacking analysis
+
+### PAGE 280 - Revised
+**Date:** 2026-02-08
+**Changes:**
+- Complete rewrite: Original was only 6 lines with generic placeholder
+- Corrected to actual Tibetan line range (11648-11677)
+- Added two comprehensive sections: self-appearance vs common appearance, fault quality proofs
+- Tagged [DZOGCHEN VIEW – SELF-APPEARANCE VS. COMMON APPEARANCE]
+- Critical distinction between rang snang and mthun snang
+- Eight proofs establishing spontaneous presence
+
+### PAGE 281 - Revised
+**Date:** 2026-02-08
+**Changes:**
+- Complete rewrite: Original was only 6 lines with generic placeholder
+- Corrected to actual Tibetan line range (11682-11710)
+- Added comprehensive section: eight quality proofs
+- Tagged [DZOGCHEN VIEW – EIGHT QUALITY PROOFS]
+- Citation from Secret Essence (gSang ba snying po)
+- Existence of spontaneous presence proven by necessity
+
+### PAGE 282 - Revised
+**Date:** 2026-02-08
+**Changes:**
+- Complete rewrite: Original was only 6 lines with generic placeholder
+- Corrected to actual Tibetan line range (11711-11735)
+- Added comprehensive section: eight appear-doors method
+- Tagged [DZOGCHEN VIEW – EIGHT APPEAR-DOORS METHOD]
+- Quality arising methods
+- Body and shadow analogy
+
+### PAGE 283 - Revised
+**Date:** 2026-02-08
+**Changes:**
+- Complete rewrite: Original was only 6 lines with generic placeholder
+- Corrected to actual Tibetan line range (11782-11806)
+- Added comprehensive section: fault quality conditionality
+- Tagged [DZOGCHEN VIEW – FAULT QUALITY CONDITIONALITY]
+- Camphor analogy for conditional fault/quality
+- Reverse potency (ldog rtsal) of spontaneous presence
+
+
+### PAGE 284 - Revised
+**Date:** 2026-02-08
+**Changes:**
+- Complete rewrite: Original was only 6 lines with generic placeholder
+- Corrected to actual Tibetan line range (11819-11853)
+- Added two comprehensive sections: samsara entering & reverse methods, life experience & dissolution
+- Tagged [DZOGCHEN VIEW – SAMSARA ENTERING & REVERSE METHODS]
+- Six liberation doors at top of six realms
+- Bardo liberation methods
+- Inner tone appearance and dissolution process
+
+### PAGE 285 - Revised
+**Date:** 2026-02-08
+**Changes:**
+- Complete rewrite: Original was only 6 lines with generic placeholder
+- Corrected to actual Tibetan line range (11854-11873)
+- Added comprehensive section: base-appearance light manifestation
+- Tagged [DZOGCHEN VIEW – BASE-APPEARANCE LIGHT MANIFESTATION]
+- Kaya bundle (sku phung) analysis
+- Eight illusion examples
+- No need to abandon/accept
+
+### PAGE 286 - Revised
+**Date:** 2026-02-08
+**Changes:**
+- Complete rewrite: Original was only 6 lines with generic placeholder
+- Corrected to actual Tibetan line range (11896-11915)
+- Added comprehensive section: self-dissolving qualities
+- Tagged [DZOGCHEN VIEW – SELF-DISSOLVING QUALITIES]
+- Sun heart, mirror analogies
+- All action is nirvana
+
+### PAGE 287 - Revised
+**Date:** 2026-02-08
+**Changes:**
+- Complete rewrite: Original was only 6 lines with generic placeholder
+- Corrected to actual Tibetan line range (11952-11971)
+- Added comprehensive section: two-non-existent self-dissolving
+- Tagged [DZOGCHEN VIEW – TWO-NON-EXISTENT SELF-DISSOLVING]
+- River in river, space in space analogies
+- Non-two one method
+
+
+### PAGE 288 - Revised
+**Date:** 2026-02-08
+**Changes:**
+- Complete rewrite: Original was only 6 lines with generic placeholder
+- Corrected to actual Tibetan line range (12001-12020)
+- Added comprehensive section: instant liberation methods
+- Tagged [DZOGCHEN VIEW – INSTANT LIBERATION METHODS]
+- Three methods (seeing base-appear, abiding in space, benefiting others)
+- Resultant Reversal ('bras bu ldog pa)
+
+### PAGE 289 - Revised
+**Date:** 2026-02-08
+**Changes:**
+- Complete rewrite: Original was only 6 lines with generic placeholder
+- Corrected to actual Tibetan line range (12047-12061)
+- Added comprehensive section: base liberation debate
+- Tagged [DZOGCHEN VIEW – BASE LIBERATION RATHER THAN TRANSCENDENCE]
+- Non-awareness dawn defeating obscuration
+- Liberation at arising vs. transcending base
+
+### PAGE 290 - Revised
+**Date:** 2026-02-08
+**Changes:**
+- Complete rewrite: Original was only 6 lines with generic placeholder
+- Corrected to actual Tibetan line range (12087-12101)
+- Added comprehensive section: wisdom realization
+- Tagged [DZOGCHEN VIEW – WISDOM REALIZATION]
+- Lamp Blaze Tantra (sGron ma 'bar ba) citation
+- Ripening process and non-cut continuum
+
+
+### PAGE 292 - Revised
+**Date:** 2026-02-08
+**Changes:**
+- Complete rewrite: Original was only 6 lines
+- Corrected to actual Tibetan line range (12154-12168)
+- Added comprehensive section: jewel mandala, nine jewels describing dharmakaya
+- Tagged [DZOGCHEN VIEW – JEWEL MANDALA]
+- Third method: benefiting others while unmoving
+
+### PAGE 293 - Revised
+**Date:** 2026-02-08
+**Changes:**
+- Complete rewrite: Original was only 6 lines
+- Corrected to actual Tibetan line range (12193-12207)
+- Added comprehensive section: Samantabhadra sovereignty
+- Tagged [DZOGCHEN VIEW – SAMANTABHADRA SOVEREIGNTY]
+- Perfect teacher, timeless sovereignty
+- Field and deed as vast as sky
+
+### PAGE 294 - Revised
+**Date:** 2026-02-08
+**Changes:**
+- Complete rewrite: Original was only 6 lines
+- Corrected to actual Tibetan line range (12227-12241)
+- Added comprehensive section: ignorance and conditions
+- Tagged [DZOGCHEN VIEW – IGNORANCE & CONDITIONS]
+- Consciousness fracture, four conditions
+- Mirror example
+
+### PAGE 295 - Revised
+**Date:** 2026-02-08
+**Changes:**
+- Complete rewrite: Original was only 6 lines
+- Corrected to actual Tibetan line range (12257-12271)
+- Added comprehensive section: appearance change and not-change
+- Tagged [DZOGCHEN VIEW – APPEARANCE CHANGE & NOT-CHANGE]
+- Vajra condition, three conditions (master, vajra, cause)
+
+### PAGE 296 - Revised
+**Date:** 2026-02-08
+**Changes:**
+- Complete rewrite: Original was only 6 lines
+- Corrected to actual Tibetan line range (12288-12302)
+- Added comprehensive section: light and awareness reality
+- Tagged [DZOGCHEN VIEW – LIGHT & AWARENESS REALITY]
+- Mirror analogy (face, mirror, light)
+- Liberation through self-appearance
+
+
+### PAGE 297 - Revised
+**Date:** 2026-02-08
+**Changes:**
+- Complete rewrite: Original was only 6 lines
+- Corrected to actual Tibetan line range (12331-12345)
+- Added comprehensive section: twelve links of dependent origination
+- Tagged [SŪTRIC PROVISIONAL VIEW]
+- Complete twelve links from contact to aging-dying
+- Bardo process and reverse dependent origination
+
+### PAGE 298 - Revised
+**Date:** 2026-02-08
+**Changes:**
+- Complete rewrite: Original was only 6 lines
+- Corrected to actual Tibetan line range (12372-12386)
+- Added comprehensive section: elements and realms dependent origination
+- Tagged [SŪTRIC PROVISIONAL VIEW]
+- Five elements, six realms, five afflictions
+- Miraculous arise, sense objects, action continuum
+
+### PAGE 299 - Revised
+**Date:** 2026-02-08
+**Changes:**
+- Complete rewrite: Original was only 6 lines
+- Corrected to actual Tibetan line range (12418-12432)
+- Added comprehensive section: wish-fulfilling tree and four conditions
+- Tagged [SŪTRIC PROVISIONAL VIEW]
+- Three birth types (blessing, egg, mind)
+- Four conditions (cause, object, master, immediate)
+
+### PAGE 300 - Revised
+**Date:** 2026-02-08
+**Changes:**
+- Complete rewrite: Original was only 6 lines
+- Corrected to actual Tibetan line range (12455-12469)
+- Added comprehensive section: six ignorances and wisdom path
+- Tagged [SŪTRIC PROVISIONAL VIEW]
+- Six types of ignorance
+- Mind obscuring wisdom
+
