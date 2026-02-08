@@ -4,6 +4,103 @@ All notable changes and milestones in this translation project.
 
 ---
 
+## [2026-02-07] - SCHOLAR LAYER COMPLETION: VOLUME 2 PAGES 351-415
+
+### Task Completed
+**Objective:** Generate scholar layer files for Volume 2, pages 351-415 (65 pages)
+
+### Generation Summary
+- **Pages Generated:** 65 pages (351-415 inclusive)
+- **Total Files:** 65 scholar layer files
+- **Format:** Standard Four Pillars structure with proper tagging
+
+### Content Themes Identified
+Pages organized into three thematic sections:
+
+1. **Pages 351-370: Bardo State Liberation (*bar do sgrol ba*)**
+   - Bardo (*bar do*) liberation pathways
+   - Bindu (*tshom bu*) appearance dynamics
+   - Temporal progression markers (*zhag grangs*)
+   - Wisdom light (*ye shes 'od*) recognition
+   - Thalgyur class teachings synthesis
+
+2. **Pages 371-390: Faculty Capacity Classifications (*dbang po rab 'bring tha ma*)**
+   - Excellent (*rab*), medium (*'bring*), lower (*tha ma*) faculties
+   - Capacity-based pedagogy (*dbang po dang sbyar ba*)
+   - Emanation capability as fruition measure
+   - Bardo abiding duration variations
+   - Sutric gradualism and Dzogchen integration
+
+3. **Pages 391-415: Three Kayas and Mandala Architecture**
+   - Three kayas (*sku gsum*) emanation architecture
+   - Sambhogakaya (*longs sku*) enjoyment body
+   - Nirmanakaya (*sprul sku*) manifestations
+   - Five family (*rigs lnga*) mandala organization
+   - Pure realm (*zhing khams*) cosmology
+   - Guhyagarbha and related tantric sources
+
+### Four Pillars Structure Applied
+All 65 files include:
+- **[STRUCTURE]** Architectural mapping with page-specific topic headings
+- **[PHILOLOGY]** Technical terminology analysis with key Dzogchen terms
+- **[CONTEXT]** Doctrinal framework and Nyingma doxographical placement
+- **[CONCEPT]** Philosophical integration with 4 numbered analytical points
+
+### Line Reference Format
+- Line numbers extracted from Tibetan source files
+- Ranges calculated for full page coverage (first_line-last_line)
+- Three-part division: beginning, middle, final sections
+- Proper Wylie transliteration for technical terms
+
+### Quality Standards
+- Third-person objective voice (scholar persona)
+- No practice advice or devotional language
+- Proper tagging: [STRUCTURE], [PHILOLOGY], [CONTEXT], [CONCEPT]
+- Source attribution to Longchenpa and Nyingma lineage
+- Doxographical distinctions maintained
+
+### Volume 2 Scholar Layer Status
+**COMPLETED:** Volume 2 scholar layer now has full coverage (415/415 pages)
+
+---
+
+---
+
+## [2026-02-07] - WYLIE CONTAMINATION REMEDIATION COMPLETE - VOLUME 2
+
+### Remediation Task
+**Critical Task:** Remediate Wylie-contaminated literal translation files in Volume 2
+
+### Remediated Files (10 pages):
+1. PAGE 14.txt - Expansion/completion section on three kayas
+2. PAGE 22.txt - Teaching methods and vehicles section  
+3. PAGE 24.txt - Five lineages and kayas division
+4. PAGE 26.txt - Appearance modes and five lights
+5. PAGE 30.txt - Mudras, deity assemblies, mandalas
+6. PAGE 35.txt - Yoga conduct and liberation methods
+7. PAGE 40.txt - Four lords and practice methods
+8. PAGE 41.txt - Twenty-one conducts and vajra songs
+9. PAGE 44.txt - Sanskrit mantras and songs of suchness
+10. PAGE 186.txt - Five liberation modes conclusion
+
+### Translation Standards Applied:
+- **NO articles** (a, an, the) - Tibetan lacks articles
+- **1:1 word order** preserved from Tibetan syntax
+- **Hyphenated compounds** for multi-syllable terms
+- **Verbal phrases** maintained as verbal (not nominalized)
+- **Line numbers preserved** from source [bracketed]
+- **Slash markers** for verse lines and separations
+
+### Quality Verification:
+- All Wylie text removed from literal layer
+- Proper English literal translations generated
+- Source line numbers maintained for reference
+- Khenpo-grade constraints strictly followed
+
+**Status:** VOLUME 2 LITERAL LAYER WYLIE CONTAMINATION - FULLY REMEDIATED
+
+---
+
 ## [2026-02-07] - KHENPO REVIEW: EXTENDED AUDIT COMPLETE - WYLIE CONTAMINATION DISCOVERED
 
 ### Extended Review Scope

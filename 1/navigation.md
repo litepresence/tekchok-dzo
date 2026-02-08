@@ -8,26 +8,60 @@ This is a 6-layer agentic translation project for Longchenpa's "Treasury of the 
 
 ```
 /home/oracle/extinction-event/EV/theg pa'i mchog rin po che'i mdzod/1/
-├── prompt.md              # Editorial conventions (READ THIS FIRST)
-├── status.md              # Current project status
-├── khenpo.md              # Critical review from Dzogchen perspective
-├── changelog.md           # Revision history
-├── exemplars.md           # Best pages by layer
-├── contents.md            # Detailed table of contents
-├── volume_1/              # Volume 1: 479 pages
-│   ├── tibetan/           # Source text (TSHAD MA - immutable)
-│   ├── wylie/             # Structural reference (LAM)
-│   ├── literal/           # Draft layer 1 (precision grammatical)
-│   ├── liturgical/        # Draft layer 2 (Vairotsana voice)
-│   ├── commentary/        # Draft layer 3 (Patrul Rinpoche)
-│   └── scholar/           # Draft layer 4 (academic analysis)
-└── volume_2/              # Volume 2: 415 pages
-    ├── tibetan/
-    ├── wylie/
-    ├── literal/
-    ├── liturgical/
-    ├── commentary/
-    └── scholar/
+├── prompt.md                    # Master editorial conventions & layer prompts
+├── status.md                    # Real-time project status & metrics
+├── khenpo.md                    # Dzogchen lineage quality review
+├── changelog.md                 # Revision history & milestones
+├── exemplars.md                 # Best-practice reference pages
+├── contents.md                  # Detailed structural table of contents
+├── conventions.md               # Technical translation conventions
+├── EPISTEMIC_COMPLETION_ROADMAP.md  # Advanced layer completion plan
+├── python/                      # Automation scripts
+│   ├── check_status.py
+│   ├── complete_epistemic.py
+│   ├── generate_all_liturgical.py
+│   ├── transliterate_to_wylie.py
+│   └── number_pages.py
+├── backup/                      # Source text backups
+└── volume_1/                    # Volume 1: 479 pages
+│   ├── tibetan/                 # TSHAD MA - Source text (immutable)
+│   │   └── PAGE [1-479].txt
+│   ├── wylie/                   # LAM - Extended Wylie transliteration
+│   │   └── PAGE [1-479].txt
+│   ├── literal/                 # Dpyad kyi bshad pa - 1:1 grammatical
+│   │   └── PAGE [1-479].txt
+│   ├── liturgical/              # sgrub pa'i gleng gzhi - Vajra speech
+│   │   └── PAGE [1-479].txt
+│   ├── commentary/              # ngo sprod kyi bshad pa - Heart instruction
+│   │   └── PAGE [1-479].txt
+│   ├── scholar/                 # mkhas pa'i dpyod pa - Academic analysis
+│   │   └── PAGE [1-479].txt     # (85 pages complete, 394 pending)
+│   ├── epistemic/               # lta ba'i rim pa - View stratification
+│   │   └── PAGE [1-479].txt
+│   ├── delusion/                # log pa spang ba - Error detection
+│   │   └── PAGE [1-479].txt     # (150 pages complete, 329 pending)
+│   └── cognitive/               # shes pa'i rjes su brjod pa - Translator log
+│       └── PAGE [1-479].txt
+│
+└── volume_2/                    # Volume 2: 415 pages
+    ├── tibetan/                 # TSHAD MA - Source text
+    │   └── PAGE [1-415].txt
+    ├── wylie/                   # LAM - Transliteration
+    │   └── PAGE [1-415].txt
+    ├── literal/                 # 1:1 grammatical layer
+    │   └── PAGE [1-415].txt
+    ├── liturgical/              # Vajra speech layer
+    │   └── PAGE [1-415].txt
+    ├── commentary/              # Heart instruction layer
+    │   └── PAGE [1-415].txt
+    ├── scholar/                 # Academic analysis
+    │   └── PAGE [1-415].txt
+    ├── epistemic/               # View stratification
+    │   └── PAGE [1-415].txt
+    ├── delusion/                # Error detection
+    │   └── PAGE [1-415].txt
+    └── cognitive/               # Translator log
+        └── PAGE [1-415].txt
 ```
 
 ## File Naming Convention
@@ -37,27 +71,171 @@ All page files follow: `PAGE [number].txt` with leading spaces for alignment.
 - Pages are NOT zero-padded
 - Files contain line numbers in brackets: `[1]`, `[100]`, etc.
 
-## Layer Hierarchy (Order of Precedence)
+## Nine-Layer Translation Architecture
 
-1. **TIBETAN** (`tibetan/`) - Absolute truth, never modify
-2. **WYLIE** (`wylie/`) - Structural reference, 99% accurate
-3. **LITERAL** (`literal/`) - 1:1 mechanical translation
-4. **LITURGICAL** (`literal/`) - Elegant Vajra speech
-5. **COMMENTARY** (`commentary/`) - Patrul Rinpoche persona
-6. **SCHOLAR** (`scholar/`) - Academic Four Pillars analysis
+### Foundation Layers (Immutable Sources)
+| Layer | Tibetan | Purpose | Status |
+|-------|---------|---------|--------|
+| **1. TIBETAN** | *tshad ma* | Source of validity - BDRC "Best Quality" text | 100% Complete |
+| **2. WYLIE** | *lam* | Extended Wylie transliteration bridge | 100% Complete |
+
+### Translation Layers (Core Rendering)
+| Layer | Tibetan | Purpose | Voice/Persona | Status |
+|-------|---------|---------|---------------|--------|
+| **3. LITERAL** | *dpyad kyi bshad pa* | 1:1 grammatical mapping | Precision scalpel | 95.5% clean |
+| **4. LITURGICAL** | *sgrub pa'i gleng gzhi* | Elegant Vajra speech | Vairotsana Lotsawa | Draft 2 ~30% |
+
+### Instruction Layers (Pedagogical)
+| Layer | Tibetan | Purpose | Voice/Persona | Status |
+|-------|---------|---------|---------------|--------|
+| **5. COMMENTARY** | *ngo sprod kyi bshad pa* | Direct heart-instruction | Patrul Rinpoche | 100% ✓ OUTSTANDING |
+| **6. SCHOLAR** | *mkhas pa'i dpyod pa* | Academic Four Pillars | Tibetologist | V1: 18%, V2: 100% |
+
+### Analytical Layers (Meta-Analysis)
+| Layer | Tibetan | Purpose | Function | Status |
+|-------|---------|---------|----------|--------|
+| **7. EPISTEMIC** | *lta ba'i rim pa* | View stratification | Air-traffic control for views | 100% Complete |
+| **8. DELUSION** | *log pa spang ba* | Error detection | Failure-mode cartography | V1: 31%, V2: 100% |
+| **9. COGNITIVE** | *shes pa'i rjes su brjod pa* | Translator alignment log | Audit trail | 100% Complete |
+
+### Layer Hierarchy (Order of Authority)
+```
+TIBETAN (tshad ma) ──► WYLIE (lam) ──► LITERAL (dpyad kyi bshad pa)
+                                              │
+                                              ▼
+LITURGICAL (sgrub pa'i gleng gzhi) ◄──────────┘
+       │
+       ├──► COMMENTARY (ngo sprod kyi bshad pa) [Patrul]
+       │
+       ├──► SCHOLAR (mkhas pa'i dpyod pa) [Tibetologist]
+       │
+       └──► Meta-Analysis Layers:
+            ├── EPISTEMIC (view stratification)
+            ├── DELUSION (error detection)
+            └── COGNITIVE (translator log)
+```
+
+### Critical Conventions
+- **NEVER modify Tibetan layer** - It is *tshad ma* (absolute truth)
+- **NEVER modify Wylie layer** - Reference-only structural guide
+- **LITERAL layer:** No articles, 1:1 word order, particle precision
+- **LITURGICAL layer:** *rig pa* = "awareness" ONLY, never sacrifice precision for elegance
+- **All downstream layers:** Validate against Tibetan source, not upstream translations
 
 ---
+
+## Layer Content Format
+
+### Foundation Layers
+**TIBETAN:** Unicode Tibetan text, one page per file
+```
+[1] ཐེག་མཆོག་མཛོད་ཀྱི་རྒྱབ་ཡིག
+[2] ཀུན་ཏུ་བཟང་པོ་ལ་ཕྱག་འཚལ་ལོ།
+```
+
+**WYLIE:** Extended Wylie transliteration
+```
+[1] theg mchog mdzod kyi rgyab yig
+[2] kun tu bzang po la phyag 'tshal lo
+```
+
+### Translation Layers
+**LITERAL:** Strict 1:1 mechanical mapping
+```
+[45] awareness nature from clear-light vajra heart essence teaching */
+[46] thus-come all-of mind-of secret unsurpassable complete/
+```
+*Constraints: No articles, preserve word order, hyphenate compounds*
+
+**LITURGICAL:** Elegant prose and rhythmic verse
+```
+[45] The teaching of the clear-light vajra heart essence reveals the nature of awareness.
+[46] The secret of all Thus-Come Ones, unsurpassable and complete,
+```
+*Constraints: Metaphysical precision, majestic resonance, no rhyme*
+
+### Instruction Layers
+**COMMENTARY:** Patrul Rinpoche heart-instruction
+```
+[1-4] Look here, you who seek liberation! Longchenpa begins not with doctrine but with homage...
+```
+*Constraints: Direct "you" address, tangible metaphors, piercing insight*
+
+**SCHOLAR:** Four Pillars academic analysis
+```
+[45-47] [STRUCTURE] New rim khanga: The Presentation of the Ground (gzhi)
+[45-47] [PHILOLOGY] Analysis of *kun gzhi* vs *rig pa*...
+```
+*Constraints: [STRUCTURE], [PHILOLOGY], [CONTEXT], [CONCEPT] tags, third person*
+
+### Analytical Layers
+**EPISTEMIC:** View classification
+```
+[87-92]
+[DZOGCHEN VIEW - SEMS SIDE]
+[INSTRUCTIONAL PROVISIONALITY]
+<Rationale for classification>
+```
+
+**DELUSION:** Error mapping
+```
+[214-218]
+[ONTOLOGICAL ERROR] [REIFICATION ERROR]
+MISREADING: <The ground is a truly existing substrate>
+WHY IT ARISES: <Western ontological frameworks>
+```
+
+**COGNITIVE:** Translator recognition log
+```
+[line range]
+RECOGNITION: <What is happening in the text>
+VIEW REGISTER: <Sutric provisional / Dzogchen rigpa-side>
+TRANSLATION NOTES: <Specific cautions>
+```
+
+---
+
 ## CURRENT STATE SNAPSHOT
 
-- Volume 1 (479 pages): subfolders tibetan, wylie, literal, liturgical, commentary, scholar, cognitive, delusion, epistemic
-- Volume 2 (415 pages): subfolders tibetan, wylie, literal, liturgical, commentary, scholar, cognitive, delusion, epistemic
-- Wylie contamination detected in Literal layer:
-  - Volume 1: 7 pages affected (PAGE 3.txt; PAGES 95-100.txt)
-  - Volume 2: 15+ pages affected (final section 350-415; specific pages listed in audit)
-- Progress by layer (Volumes 1-2):
-- Volume 1: Literal (contaminated); Liturgical ~30% revised; Commentary complete; Scholar complete; Epistemic partial (3%); others not started
-- Volume 2: Literal contaminated; Liturgical first draft; Commentary partial; Scholar complete; Epistemic partial (4%); others not started
-- Next steps: remediation of Wylie-contaminated literal files, completion of Volume 2 commentary, and expansion of Epistemic/Delusion/Cognitive layers
+### VOLUME 1 (479 pages)
+| Layer | Files | Status | Notes |
+|-------|-------|--------|-------|
+| tibetan | 479 | COMPLETE | TSHAD MA - Source text immutable |
+| wylie | 479 | COMPLETE | LAM - 99% accurate transliteration |
+| literal | 479 | CONTAMINATED | Wylie contamination: ~20+ pages (1, 94, 144-145, 303-350s, 402, 412, 414) |
+| liturgical | 479 | DRAFT 2 | ~30% revised (Pages 1-25, 72-110, 151-192) |
+| commentary | 479 | COMPLETE | OUTSTANDING - Patrul Rinpoche voice exemplary |
+| scholar | 85 | PARTIAL | ~18% complete - needs completion |
+| epistemic | 479 | COMPLETE | All pages generated |
+| delusion | 150 | PARTIAL | ~31% complete |
+| cognitive | 479 | COMPLETE | All pages generated |
+
+### VOLUME 2 (415 pages)
+| Layer | Files | Status | Notes |
+|-------|-------|--------|-------|
+| tibetan | 415 | COMPLETE | TSHAD MA - Source text immutable |
+| wylie | 415 | COMPLETE | LAM - 99% accurate transliteration |
+| literal | 415 | CONTAMINATED | Wylie contamination: ~20+ pages (14-30s, 314-317) |
+| liturgical | 415 | DRAFT 1 | Complete first draft, needs Draft 2 revision |
+| commentary | 415 | COMPLETE | OUTSTANDING - Consistent Patrul Rinpoche voice |
+| scholar | 415 | COMPLETE | All pages generated with Four Pillars analysis |
+| epistemic | 415 | COMPLETE | All pages generated |
+| delusion | 415 | COMPLETE | All pages generated |
+| cognitive | 415 | COMPLETE | All pages generated |
+
+### CRITICAL FINDINGS
+- **Wylie Contamination:** 40+ pages across both volumes contain Wylie text instead of English
+  - Volume 1: PAGE 1, 94, 144-145, 303-350s range, 402, 412, 414
+  - Volume 2: PAGE 14-30 range, 314-317 range
+- **Volume 1 Scholar Gap:** Only 85/479 pages (18%) - significant completion needed
+- **Volume 1 Delusion Gap:** Only 150/479 pages (31%) - needs completion
+
+### NEXT PRIORITIES
+1. **CRITICAL:** Remediate Wylie-contaminated literal files (40+ pages)
+2. **HIGH:** Complete Volume 1 Scholar layer (394 remaining pages)
+3. **HIGH:** Complete Volume 1 Delusion layer (329 remaining pages)
+4. **MEDIUM:** Continue Volume 2 Liturgical Draft 2 revisions
+5. **LOW:** Final polish pass on all layers
 
 ## Essential Shell Scripts
 

@@ -4,7 +4,7 @@
 
 ---
 
-## PROJECT OVERVIEW
+## OVERVIEW
 
 | Field | Value |
 |-------|-------|

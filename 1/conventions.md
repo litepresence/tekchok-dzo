@@ -8,6 +8,12 @@ Copyleft 2026: Amid all this apparent happening, nothing has happened.
 
 ===
 
+# SWARM DUTY
+
+You are a bee in this colony. You cannot leave the parent directory. You cannot create folders. You must produce khenpo-grade work that honors the Tshad ma while elevating the LLM layers toward transmission-quality English as per prompt.md.
+
+===
+
 # VOLUMES
 
 **Project Scope:** The Seven Treasuries (Tibetan: མཛོད་བདུན་, Wylie: *mdzod bdun*) by Longchenpa.
@@ -48,6 +54,8 @@ Scan the volume_1 and volume_2 subfolders and determine the state of the project
 8.  `delusion` (LLM Generated - Wrong View)
 9.  `cognitive` (LLM Generated - Translator's Recognition)
 
+
+
 **Source Truth Protocol:**
 *   **Tibetan (`tibetan/`):** Treated as the **ROOT TEXT**. It is perfect and immutable. Never alter.
 *   **Wylie (`wylie/`):** Treated as the **STRUCTURAL REFERENCE**. It is 99% accurate. Use it to resolve syntactic ambiguities in the Tibetan.
@@ -61,37 +69,47 @@ When you begin, and every 10 or so files you edit come back and read the latest 
 
 ===
 
-# FEEDBACK
+# DUPLEX FEEDBACK
 
 ## USER
 
 I will communicate to you through 
 
 - prompt.md  
+- conventions.md
 
-You should NEVER edit prompt.md.  
+You must NEVER edit prompt.md or conventions.md
 
 ## ASSISTANT
 
 You will communicate to me through the already existing files:
+
+### Primary Communication
 
 - changelog.md
 - examplars.md
 - khenpo.md
 - contents.md
 - status.md
+- navigation.md
 
-Periodically as you work (every 50 file edits): 
+Periodically as you work (every 50 file edits) you SHOULD: 
 
 - changelog.md: append to it as you make changes to let future models understand your reasoning, never delete the changelog, only append to it.  
 
-- examplars.md: edit it with a concise listing of 5 of the "best of the best" for each volume, from each literal/liturgical/commentary/scholarly category PAGES that can serve as exemplars for future models to reference. eg. "literal/PAGE 10.txt"; so 5x2x4 = 40 in total but they don't need to come from 10 matching pages; they just need to be "highest quality" examplars.  
+- examplars.md: edit it with a concise listing of 5 of the "best of the best" for each volume, from each layer category find PAGES that can serve as exemplars for future models to reference. eg. "literal/PAGE 10.txt"; so 5x2x4 = 40 in total but they don't need to come from 10 matching pages; they just need to be "highest quality" examplars.  
 
-- khenpo.md: edit it with a frank khenpo critial review of the project's current status
+- khenpo.md: edit it with a frank khenpo style critial review of the project's current status
 
-- create contents.md: edit it with a very granular table of contents with major and minor subdivisions for each volume.  
+- contents.md: edit it with a very granular table of contents with major and minor subdivisions for each volume.  
 
-- create status.md: edit it to track the draft completion status of the project.   
+- status.md: edit it to track the draft completion status of the project.   
+
+- navigation.md: edit it to track the file structure and inform future agents how to interact with it most smoothly using shell
+
+### Secondary communication 
+
+Each layer subfolder full of PAGES will also have a draft_status.md that is yours to use to keep track of the state of each volume/layer as you improve the PAGE drafts within.  Feel free to edit draft_status.md at will to keep track of progress and inform other agents.  These are primarily for bot to bot communication of the fine details of draft state for each layer.      
 
 ===
 
@@ -151,9 +169,7 @@ After completing second and third drafts of literal and liturgic layers, next pr
 
 # SUBSEQENT LLM DRAFTS
 
-*Model*: Rotation of MiniMax M2.1, GPT5 Mini and Kimi K2.5
-
-*Status*: Not Started
+*Status*: Beginning
 
 **Phase Objective:** Iterative refinement to bring all layers to "Final Draft" quality.
 
@@ -161,7 +177,7 @@ After completing second and third drafts of literal and liturgic layers, next pr
 The Agent must perform a "Quality Control Sweep." You will move through the volumes page by page. For **each page**, you will inspect all six layers.
 
 **The Revision Algorithm:**
-1.  **Inspect:** Read the Tibetan, Wylie, Literal, Liturgical, Commentary, and Scholar files for the current page.
+1.  **Inspect:** Read the scholar, delusion, cognitive, commentary, epistemic, literal, liturgical, tibetan, and wylie files for the current page.
 2.  **Evaluate:** Compare the LLM-generated layers against their specific Prompt Constraints and the Source Truth (Tibetan).
 3.  **Identify:** Select the **single most poorly written layer**.
     *   *Criteria for "Poorly Written":* Violation of character persona (e.g., Scholar sounding like a poet), syntax errors, hallucinations not present in source, or failure to adhere to specific constraints (e.g., using articles in Literal layer).
@@ -173,8 +189,17 @@ The Agent must perform a "Quality Control Sweep." You will move through the volu
 **Constraint:**
 Do **not** attempt to edit all layers of a page at once. Focus your effort on the single weakest layer per page iteration to maximize overall quality improvement efficiency. Continue sweeping through the pages until the draft meets the standards defined in the layer prompts.
 
-**Page Bleed:**
-In subsequent LLM drafts it will become increasingly important to pay attention to how themes span multiple pages so the phrases are translated correctly.   
+
+### IMPORTANT NOTE ON PAGE BLEED: 
+
+In subsequent LLM drafts it will become increasingly important to pay attention to how themes span multiple pages so the phrases are translated correctly. Thus in all subsequent draft revisions:
+
+Due to Page Bleed, lookahead of ±1 page is **required** when:
+
+- A sentence is syntactically incomplete
+- A negation or reversal appears (de yang, yang na, cig car du ma yin patterns)
+
+Lookahead is **requisite** not advisory!
 
 ===
 

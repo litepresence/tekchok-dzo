@@ -97,7 +97,57 @@ The Commentary layer quality is OUTSTANDING across all sampled pages. The Patrul
 
 ### SCHOLAR LAYER
 
-*Not yet generated - will be added in Phase 6*
+**Volume 1 Exemplars:**
+
+1. **PAGE 2.txt** - EXCELLENT EXEMPLAR - Three-kāya exposition with Four Pillars
+   - [36-40] [STRUCTURE] Perfect Teacher: Dharmakāya Level
+   - [41] [PHILOLOGY] *Ngang ngam* particle ambiguity analysis
+   - [42] [CONCEPT] Five lights and five families correspondence
+   - [46] [CONTEXT] Sixth teacher Vajradhara in Akanishta
+   - Proper tagging throughout, no hallucination, technical precision
+
+2. **PAGE 3.txt** - Tantric cosmogony analysis
+   - [59-60] [STRUCTURE] Definite place as vajra essence teaching
+   - [61-64] [CONTEXT] Guhyagarbha Tantra citation analysis
+   - [65-71] [CONCEPT] Primordial Samantabhadra narrative
+   - [PHILOLOGY] Temporal-atemporal ambiguity analysis
+   - Scholarly apparatus with proper source attribution
+
+3. **PAGE 4.txt** - Five-family mandala architecture
+   - [76-91] [CONTEXT] Cosmological symbolism from Guhyasamaja
+   - [86-87] [PHILOLOGY] *Byin gyis brlabs* vs *las kyi* analysis
+   - [92-98] [CONCEPT] Fivefold pervasion model
+   - Doxographical situating with Nyingma view distinctions
+
+**Volume 2 Exemplars:**
+
+1. **PAGE 1.txt** - EXCELLENT EXEMPLAR - Volume 2 opening with structural precision
+   - [1-2] [STRUCTURE] Volume 2 introduction with yig mgo analysis
+   - [5-8] [STRUCTURE] Major division: dependent arising presentation
+   - [10-13] [PHILOLOGY] Terminological precision on *'byung ba*
+   - [38-39] [CONTEXT] Dzogchen view statement on same taste
+   - Perfect Four Pillars application
+
+2. **PAGE 2.txt** - EXCELLENT EXEMPLAR - Tenfold presentation framework
+   - [59-69] [STRUCTURE] Ten analytical categories (*tshang tshul dang bcu*)
+   - [71] [PHILOLOGY] Particle analysis: *yin pas* causal connective
+   - [88-99] [CONCEPT] Seven definitions of great arising
+   - [100-127] [CONTEXT] Thalgyur citation with physiological functions
+   - Standard scholastic methodology demonstration
+
+3. **PAGE 3.txt** - Embryological development and dharma-nature
+   - [134-145] [CONCEPT] Sequential embryological development
+   - [146-155] [CONCEPT] Dharma-nature: Madhyamaka vs Dzogchen views
+   - [156-166] [CONTEXT] Essence-meaning application (*ngo bo'i don sbyar*)
+   - [167-172] [CONTEXT] Norbu Phradak source text citation
+   - Technical precision in subtle body analysis
+
+4. **PAGE 6.txt** - Reversal of delusion with table format
+   - [265-283] [CONTEXT] Pearl Garland citation with correspondences
+   - [284-290] [CONCEPT] Reversal table: Ordinary vs Realized
+   - [290] [CONCEPT] Death as final arrival
+   - [291-293] [CONCEPT] Three methods of liberation
+   - Clear visual presentation of transformative correspondences
 
 ---
 
@@ -135,7 +185,33 @@ The Commentary layer quality is OUTSTANDING across all sampled pages. The Patrul
 
 ### SCHOLAR LAYER
 
-*Not yet generated - will be added in Phase 6*
+1. **PAGE 1.txt** - EXCELLENT EXEMPLAR - Volume 2 opening with structural precision
+   - [1-2] [STRUCTURE] Volume 2 introduction with yig mgo analysis
+   - [5-8] [STRUCTURE] Major division: dependent arising presentation
+   - [10-13] [PHILOLOGY] Terminological precision on *'byung ba*
+   - [38-39] [CONTEXT] Dzogchen view statement on same taste
+   - Perfect Four Pillars application
+
+2. **PAGE 2.txt** - EXCELLENT EXEMPLAR - Tenfold presentation framework
+   - [59-69] [STRUCTURE] Ten analytical categories (*tshang tshul dang bcu*)
+   - [71] [PHILOLOGY] Particle analysis: *yin pas* causal connective
+   - [88-99] [CONCEPT] Seven definitions of great arising
+   - [100-127] [CONTEXT] Thalgyur citation with physiological functions
+   - Standard scholastic methodology demonstration
+
+3. **PAGE 3.txt** - Embryological development and dharma-nature
+   - [134-145] [CONCEPT] Sequential embryological development
+   - [146-155] [CONCEPT] Dharma-nature: Madhyamaka vs Dzogchen views
+   - [156-166] [CONTEXT] Essence-meaning application (*ngo bo'i don sbyar*)
+   - [167-172] [CONTEXT] Norbu Phradak source text citation
+   - Technical precision in subtle body analysis
+
+4. **PAGE 6.txt** - Reversal of delusion with table format
+   - [265-283] [CONTEXT] Pearl Garland citation with correspondences
+   - [284-290] [CONCEPT] Reversal table: Ordinary vs Realized
+   - [290] [CONCEPT] Death as final arrival
+   - [291-293] [CONCEPT] Three methods of liberation
+   - Clear visual presentation of transformative correspondences
 
 ---
 
@@ -166,38 +242,49 @@ When revising or generating new content, reference these exemplars for:
 
 ### CRITICAL ISSUES REQUIRING IMMEDIATE CORRECTION
 
-#### Literal Layer - WYLIE CONTAMINATION (CONFIRMED)
+#### Literal Layer - WYLIE CONTAMINATION (CONFIRMED - EXPANDED FINDINGS)
 
-**VOLUME 1 - Affected Pages (7 total):**
+**UPDATED ASSESSMENT:** Systematic grep audit revealed significantly more contamination than initial sampling.
 
-1. **PAGE 3.txt** - Single page contamination
-   - Contains Wylie: "de'i gnas nges-pa ni 'od-gsal rdo-rje snying-po'i bstan-pa ste/"
+**VOLUME 1 - Affected Pages (~20+ total):**
 
-2. **PAGES 95-100.txt** - Consecutive block (6 pages)
-   - PAGE 95: Wylie text
-   - PAGE 96: Wylie text
-   - PAGE 97: Wylie text
-   - PAGE 98: Wylie text
-   - PAGE 99: Wylie text
-   - PAGE 100: Wylie text ("chos-nyid la brjod-du med-pa'i klong-dang")
+Scattered contamination with concentrations in 300s range:
+- **PAGE 1.txt** - Contains Wylie terms
+- **PAGE 94.txt** - Wylie contamination
+- **PAGES 144-145.txt** - Consecutive block (2 pages)
+- **PAGES 303-313.txt** - Extensive contamination (11 consecutive pages)
+  - PAGE 303: Wylie
+  - PAGE 305: Wylie
+  - PAGE 306: Wylie
+  - PAGE 308: Wylie
+  - PAGE 309: Wylie
+  - PAGE 311: Wylie
+  - PAGE 312: Wylie
+  - PAGE 313: Wylie
+- **PAGES 346-350.txt** - Wylie contamination (5 pages)
+- **PAGE 402.txt** - Wylie contamination
+- **PAGE 412.txt** - Wylie contamination
+- **PAGE 414.txt** - Wylie contamination
 
-**VOLUME 2 - Affected Pages (15+ total):**
+**VOLUME 2 - Affected Pages (~20+ total):**
 
-Extensive contamination in final section (pages 350-415):
-- PAGE 350: Wylie
-- PAGE 375: Wylie
-- PAGE 385: Wylie
-- PAGE 395: Wylie
-- PAGES 398-403: Consecutive block (6 pages)
-- PAGE 405: Wylie
-- PAGE 410: Wylie
-- PAGE 415: Wylie
+Concentrated in early section (14-30) and mid-volume gaps:
+- **PAGES 14-30.txt** - Extensive Wylie contamination (17 consecutive pages)
+  - Early pages contain Wylie: "sku dang ye shes", "sprul pa", etc.
+- **PAGES 314-317.txt** - Wylie contamination (4 pages)
 
-**Estimated Total Contamination:** 22+ pages (2.5% of total 894 pages)
+**Estimated Total Contamination:** 40+ pages (~4.5% of total 894 pages)
+
+**Audit Command:**
+```bash
+grep -l "chos-nyid\|dbyings\|sku " PAGE*.txt
+```
 
 **Root Cause:** 
 - Files were never translated (remained as Wylie placeholders)
 - OR incorrectly copied from Wylie folder to Literal folder
+- Translation process failed silently for specific page ranges
+- Pattern suggests systematic failure rather than random errors
 - OR translation process failed silently
 
 **Impact:** 
@@ -206,9 +293,21 @@ Extensive contamination in final section (pages 350-415):
 - Project integrity compromised until remediated
 
 **Remediation Required:**
-1. Generate English literal translations for all 22+ affected pages
-2. Full audit of remaining pages to identify any additional contamination
-3. Verify all 894 pages have actual English translations
+1. **Generate English literal translations for all 40+ affected pages** (revised estimate)
+   - Priority 1: Volume 1 pages 303-313, 346-350 (16 pages)
+   - Priority 2: Volume 2 pages 14-30 (17 pages)
+   - Priority 3: Remaining scattered pages (10+ pages)
+2. **Full audit of remaining pages** using systematic grep to identify any additional contamination
+3. **Verify all 894 pages** have actual English translations, not Wylie placeholders
+4. **Post-remediation validation:** Re-run contamination check to confirm 100% clean
+
+**Layer Completion Status:**
+| Layer | Volume 1 | Volume 2 | Priority |
+|-------|----------|----------|----------|
+| Literal | 95.5% clean | 95% clean | CRITICAL |
+| Scholar | 18% (85/479) | 100% | HIGH |
+| Delusion | 31% (150/479) | 100% | HIGH |
+| Liturgical | Draft 2 ~30% | Draft 1 100% | MEDIUM |
 
 ---
 
@@ -291,5 +390,6 @@ Extensive contamination in final section (pages 350-415):
 ---
 
 *Last Updated: 2026-02-07*
-*Status: Khenpo Review Complete - Initial Sampling (22 pages)*
-*Next Review: Continue systematic batch review through all 894 pages*
+*Status: Khenpo Review Complete - System-Wide Audit (40+ contaminated pages identified)*
+*Total Files Generated: 6,276 / 8,046 (78% complete)*
+*Next Actions: 1) Remediate Wylie contamination, 2) Complete Volume 1 Scholar/Delusion layers*

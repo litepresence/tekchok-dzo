@@ -557,7 +557,7 @@ You must remain **descriptive and diagnostic**, never corrective.
 * **[PSYCHOLOGIZATION ERROR]**
 * **[MEDITATIONISM ERROR]**
 * **[SCHOLARLY COLLAPSE ERROR]**
-* **[AI-AMPLIFIED ERROR]**
+
 
 Do **not** invent new tags.
 
