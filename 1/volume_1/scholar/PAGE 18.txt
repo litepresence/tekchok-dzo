@@ -1,7 +1,10 @@
 [565-569] [CONCEPT] The Unitive Nature of All Emanations
-**Analysis:** The text synthesizes the twelve emanations into a single principle: the activity of Vajradhara's quality-complete self-nature (*rdo rje 'chang yon tan rdzogs pa'i bdag nyid gchig gi mdzad pa*). This is called the "succession transmitted by the Victor's intention" (*rgyal ba dgongs pas brgyud pa'i rim pa*), emphasizing that all apparent diversity is unified in the single intention (*dgongs pa*) of the Buddha.
+**Analysis:** The text synthesizes the twelve emanations into a single principle: the activity of Vajradhara's quality-complete self-nature (*rdo rje 'chang yon tan rdzogs pa'i bdag nyid gcig gi mdzad pa*). This is called the "succession transmitted by the Victor's intention" (*rgyal ba dgongs pas brgyud pa'i rim pa*), emphasizing that all apparent diversity is unified in the single intention (*dgongs pa*) of the Buddha.
 
 The crucial point: although Vajradhara appears at different times (*dus tha dad par byon pa*), this is merely appearance—essentially (*ngo bo*) all are one in Vajradhara's self-nature. This establishes the non-dual hermeneutic that underlies the entire text.
+
+[565-569] [PHILOLOGY] The Limitative Particle *tsam*
+**Analysis:** The phrase *dus tha dad par byon pa tsam las* (merely/only appearing at different times) uses *tsam* to limit the apparent diversity. This is crucial: the diversity is ONLY apparent, not substantial. The ablative *las* indicates that from this mere appearance, the unity of intention (*dgongs pa*) is distinguished. The phrase *ngo bo... gcig pa* establishes essential identity beneath apparent difference.
 
 [570-573] [STRUCTURE] # Lineage Transmission Types
 **Analysis:** The text distinguishes three modes of transmission:
@@ -9,13 +12,35 @@ The crucial point: although Vajradhara appears at different times (*dus tha dad 
 2. **Vidyādhara sign-transmission** (*rigs 'dzin brdas brgyud pa*) — symbolic/esoteric transmission
 3. **Person ear-transmission** (*gang zag snyan khung du brgyud pa*) — human oral lineage
 
-These correspond to the *brda brgyud* (sign lineage), *snyan brgyud* (aural lineage), and *gdam ngag brgyud* (instruction lineage) in Nyingma classification. The text directs readers to individual biographies (*so so'i rnam thar*) and the Great Chronicles (*lo rgyus chen mo*) for details.
+These correspond to the *brda brgyud* (sign lineage), *snyan brgyud* (aural lineage), and *gdams ngag brgyud* (instruction lineage) in Nyingma classification. The text directs readers to individual biographies (*so so'i rnam thar*) and the Great Chronicles (*lo rgyus chen mo*) for details.
+
+[570-573] [CONTEXT] # The Six Lineages of Nyingma
+**Analysis:** Nyingma tradition recognizes six lineages (*brgyud pa drug*):
+1. **Vajra prophecy** (*rdo rje'i lung*)
+2. **Symbolic transmission** (*brda'i brgyud*)
+3. **Ear-whispered lineage** (*snyan khung brgyud*)
+4. **Pledge-seal lineage** (*dam tshig phyag rgya*)
+5. **Compassionate blessing** (*thugs rje'i byin rlabs*)
+6. **Representation empowerment** (*rten gyi dbang bskur*)
+
+Longchenpa's threefold schema synthesizes these into a pedagogical framework: the intention lineage for those of highest capacity, the sign lineage for those of intermediate capacity, and the oral lineage for those requiring gradual instruction.
 
 [574-576] [STRUCTURE] # End of First Chapter
 **Analysis:** Lines 574-576 mark the conclusion of the first chapter (*rim khang dang po*):
 - **Title:** *Theg pa'i mchog rin po che'i mdzod* (Treasury of the Supreme Vehicle)
-- **Topic:** *Byung tshul gitan la dbab pa* (Establishing the manner of arising)
+- **Topic:** *Byung tshul gtan la dbab pa* (Establishing the manner of arising)
 - **Chapter:** First chapter complete
+
+The phrase *las... ste* (from... is) establishes the chapter as a subsection of the larger work. The particle *o* is a final emphatic, indicating definitive completion.
+
+[574-576] [PHILOLOGY] The Chapter-Close Formula
+**Analysis:** The construction *las... de rim khang dang po'o* follows the standard Tibetan chapter-closing formula:
+- *las* — from [the text]
+- *de* — that [topic]
+- *rim khang dang po* — first chapter
+- *'o* — emphatic completion
+
+This mirrors Sanskrit chapter colophons (*iti... prathamaṃ paricchedaḥ*), demonstrating the text's alignment with Indo-Tibetan scholastic conventions.
 
 [577-585] [STRUCTURE] # Beginning of Second Chapter: The Abode
 **Analysis:** The text transitions to the second major section, explaining:
@@ -24,7 +49,14 @@ These correspond to the *brda brgyud* (sign lineage), *snyan brgyud* (aural line
 
 The cosmology presented: From Vajradhara's quality-complete bodhi, abiding as Saṃbhogakāya from Dharmakāya, the five-family kāya manifests immeasurable fields. At the center (*dbus ma*), ornamented by Vairocana, are countless fields.
 
-Specifically, our Sahā world (*mi mjed 'di*) abides at the thirteenth level of twenty-five stacked appearances (*nyi shu rtsa lnga brtsigs mar snang ba*) upon the jewel lotus (*padma rin po che*). The construction "upper-lower and directions-intervals" (*steng 'og dang phyogs mtshams*) indicates a three-dimensional mandala architecture.
+Specifically, our Sahā world (*mi mjed 'di*) abides at the thirteenth level of twenty-five stacked appearances (*nyi shu rtsa lnga brtsigs mar snang ba*) upon the jewel lotus (*padma rin po che*). The construction "upper-lower and directions-intervals" (*steng 'og dang phyogs mtshams*) indicates a three-dimensional maṇḍala architecture.
+
+[577-585] [CONCEPT] The Container-Contained Cosmology
+**Analysis:** The pair *snod bcud* (container and contained) refers to:
+- **Container (*snod*):** The universe, Buddha-fields, the physical environment
+- **Contained (*bcud*):** Sentient beings, the animate inhabitants
+
+This dual framework derives from Abhidharma cosmology, adapted here for Dzogchen presentation. The "sequence" (*rim pa*) indicates systematic presentation from macrocosm to microcosm.
 
 [586-634] [CONTEXT] # Quotation from sGra thal 'gyur: The Thirteen Fields
 **Analysis:** The text extensively quotes the *sGra thal 'gyur* (Sound Unobstructed/Thalgyur) tantra, describing thirteen field-types (*zhing khams rnam pa bcu gsum*) arrayed around Sahā:
@@ -39,5 +71,38 @@ Specifically, our Sahā world (*mi mjed 'di*) abides at the thirteenth level of 
 
 The term "Thal" (*thal*) relates to the Dzogchen concept of *thal 'gyur* — unobstructed, penetrating, direct. Each field description follows a pattern: name, location relative to Sahā, shape/configuration, and teaching function.
 
-[587-590] [PHILOLOGY] The Particle Structure in Thalgyur Verses
+[586-634] [PHILOLOGY] The Particle Structure in Thalgyur Verses
 **Analysis:** The verses use the terminative particle *la* (lines 587, 588) to indicate direction toward the thirteen fields and the world below. The verb *bya ba yin* (line 589) establishes categorical identity. The construction *dpag dka'* (immeasurable) + *rab tu mdzes* (extremely beautiful) employs standard *snyan ngag* (poetic) conventions.
+
+[587-590] [STRUCTURE] # The Thal-ba-dbyangs Field
+**Analysis:** The first field described is Thal-ba-dbyangs (Thal of Melody/Sound):
+- **Location:** Below this world (*'di nas 'jig rten 'og na*)
+- **Extent:** Immeasurably vast (*rgya khyon dpag dka'*)
+- **Function:** Teaching place where cause, condition, nature, and the teacher's teaching assembly abide
+
+The phrase *rgyu dang rkyen dang rang bzhin dang* establishes the fourfold causal framework of Abhidharma and Yogācāra: cause (*hetu*), condition (*pratyaya*), inherent nature (*svabhāva*), and the teaching assembly.
+
+[591-599] [STRUCTURE] # The Thal-ba-'dzin Field
+**Analysis:** The second field, Thal-ba-'dzin (Thal of Holding), appears:
+- **Location:** Six worlds below (*'jig rten drug 'og na*)
+- **Shape:** Wheel-configuration (*'khor lo'i dbyibs*), completely scattered/open (*zang thal lo*)
+- **Function:** Teaching place of the teacher's true teaching
+
+The term *zang thal* (completely open/scattered) describes a field without boundaries or obstructions, reflecting the Dzogchen emphasis on unobstructed awareness.
+
+[600-606] [STRUCTURE] # The Thal-ba-skyob Field
+**Analysis:** The third field, Thal-ba-skyob (Thal of Protection), appears:
+- **Location:** Three to the right of the three worlds (*'jig rten gsum g.yas na*)
+- **Adornment:** Completely ornamented by mothers/nurses (*ma rged dag gis yongs spras pas*)
+- **Characteristics:** Definite light and color, the taming-field of the teacher's teaching with individual karma and marks
+
+The "three worlds" (*'jig rten gsum*) refer to desire, form, and formless realms. The "mothers/nurses" (*ma rged*) likely refer to the prajñāpāramitā as mother of all Buddhas.
+
+[607-614] [STRUCTURE] # The Thal-ba-brdal Field
+**Analysis:** The fourth field, Thal-ba-brdal (Thal of Diffusion), appears:
+- **Location:** Six worlds above (*'jig rten drug gi steng*)
+- **Shape:** Blooming lotus configuration (*padma rgyas pa'i dbyibs*), extremely expansive and vast
+- **Characteristics:** Varied blazing light colors—white and red appearance agitated
+- **Function:** Teaching of dependent origination expanded, called "Thal of Eon Completion"
+
+The lotus shape (*padma rgyas pa*) indicates purity rising from impurity, while the colors (white and red) suggest the union of method and wisdom.

@@ -345,6 +345,152 @@ grep -l "chos-nyid\|dbyings\|sku " PAGE*.txt
 
 ---
 
+### EPISTEMIC LAYER EXEMPLARS (Post-Repair)
+
+**Volume 1 - Pages 51-150 Repaired 2026-02-08:**
+
+After systematic repair, the following pages demonstrate proper epistemic stratification:
+
+1. **PAGE 51.txt** - Nine vehicles with view stratification
+   - [DZOGCHEN VIEW – NINE VEHICLES] 
+   - [PROVISIONAL VIEW – SUTRA VEHICLES]
+   - Clear distinction: *theg pa dgu* hierarchy as pedagogical not ontological
+   - Proper tagging: [ULTIMATE TRUTH] vs [CONVENTIONAL TRUTH]
+
+2. **PAGE 75.txt** - Mind-Only vs Dzogchen distinction
+   - [DZOGCHEN VIEW – SEMS SIDE TRANSITION]
+   - [PROVISIONAL VIEW – CITTAMATRA]
+   - Analysis of *sems tsam* as bridge to *rig pa*
+   - Risk tagging: [RISK: REIFICATION of consciousness]
+
+3. **PAGE 100.txt** - Causal/Result vehicle stratification
+   - [DZOGCHEN VIEW – VEHICLE BEYOND VEHICLES]
+   - [TANTRIC TRANSFORMATIVE VIEW]
+   - *rgyu 'bras* distinction with *ngo bo gcig* recognition
+   - Proper use: [DEFINITIVE MEANING] vs [PROVISIONAL MEANING]
+
+4. **PAGE 125.txt** - Ground exposition with epistemic markers
+   - [DZOGCHEN VIEW – GZHI EXPOSTION]
+   - *ka dag* and *lhun grub* as co-emergent not sequential
+   - [VIEW ASSERTION] vs [MEDITATION INSTRUCTION] distinction
+   - Risk: [RISK: TEMPORALIZATION of primordial]
+
+5. **PAGE 150.txt** - Trekcho/Thogyal distinction
+   - [DZOGCHEN VIEW – TREKCHO DIRECT CUTTING]
+   - [DZOGCHEN VIEW – THOGYAL DIRECT CROSSING]
+   - *khregs chod* and *thod rgal* as methods not stages
+   - Proper terminology: *spros bral*, *ngo sprod*, *cher grol*
+
+**Repair Statistics:**
+- Pages 51-150: 100 pages expanded from 5-7 lines to 35-50 lines each
+- Total lines added: ~4,000 lines
+- Consistent [DZOGCHEN VIEW] tagging implemented
+- Stratification: [DEFINITIVE] vs [PROVISIONAL] applied throughout
+
+---
+
+### DELUSION LAYER EXEMPLARS (Post-Repair)
+
+**Volume 1 - Comprehensive Revision 2026-02-08:**
+
+Pages 1-300 now demonstrate full diagnostic structure:
+
+1. **PAGE 1.txt** - Title page errors (REVISED)
+   - [ONTOLOGICAL ERROR] [REIFICATION ERROR]: Samantabhadra historicization
+   - [TEMPORAL ERROR] [PRIMORDIAL MISUNDERSTANDING]: "From primordial" misread as temporal
+   - [HIERARCHICAL ERROR] [VEHICLE STRATIFICATION]: Supreme vehicle as elitism
+   - [SUBSTANTIALIST ERROR] [THREE KAYA REIFICATION]: Kayas as three places
+   - [POETIC ESCAPE ERROR] [AESTHETIC DISTRACTION]: Literary appreciation vs pointing
+   - Full CASCADE EFFECTS tracing to linked errors
+
+2. **PAGE 50.txt** - Vehicle classification errors (REVISED)
+   - [VEHICLE HIERARCHY ELITISM]: Dzogchen as superiority badge
+   - [PROGRESSION MYTH]: Nine-yana as ladder to climb
+   - [CAUSAL INVERSION ERROR]: Prerequisites misunderstanding
+   - [TANTRA SUBSTITUTION ERROR]: Dzogchen reduced to highest yoga
+   - [PREPARATION PARALYSIS]: Endless ngondro before "real" practice
+
+3. **PAGE 100.txt** - Causal/Result confusion (REVISED)
+   - [CAUSAL VEHICLE DISMISSAL]: Sutra as "mere" preliminary
+   - [RESULT VEHICLE FIXATION]: Dzogchen as trophy to acquire
+   - [PATH TEMPORALIZATION]: Linear progression misread
+   - [FRUITION DEFERRAL]: Postponing recognition to future
+   - [BYPass ERROR]: Skipping foundations
+
+4. **PAGE 200.txt** - Ground-Path-Fruition errors (REVISED)
+   - [GROUND TEMPORALIZATION]: Gzhi as beginning point
+   - [PATH SUBSTANTIALISM]: Lam as thing to traverse
+   - [FRUITION ACHIEVEMENT]: 'Bras bu as accomplishment
+   - [SEQUENTIAL MISREADING]: Three as stages not aspects
+   - [RECOGNITION DELAY]: Waiting for later realization
+
+5. **PAGE 250.txt** - Trekcho practice errors (REVISED)
+   - [PRACTICE ERROR]: Trekcho as technique to perform
+   - [VIEW COLLAPSE]: Philosophical position adoption
+   - [EXPERIENCE SUBSTANTIALISM]: Treating experiences as real
+   - [PROGRESS TRACKING]: Measuring advancement
+   - [SPONTANEITY FORCING]: Trying to "be" spontaneous
+
+**Repair Statistics:**
+- Pages 1-200: Complete revision (batch + manual)
+- Pages 201-250: 50 pages repaired
+- Average: 110-159 lines per page (from 15-16)
+- Structure: 5 error types + full diagnostics + PAGE BLEED
+- Total delusion coverage: 300/479 pages (62.6%)
+
+---
+
+### COGNITIVE LAYER EXEMPLARS
+
+**Volume 1 - Translation Notes:**
+
+The Cognitive layer provides translator-facing notes on:
+- Wylie decisions and transliteration choices
+- Sanskrit restoration and IAST conventions
+- Terminological consistency markers
+- Line mapping verification
+
+**Exemplary Pages:**
+
+1. **PAGE 1.txt** - Title protocol notes
+   - Sanskrit restoration: *yAnAgraratnakoSanAmavajrAhAra*
+   - Tibetan titling: *theg pa'i mchog rin po che'i mdzod*
+   - Genre marker: *bzhugs* as formulaic presence
+   - Wylie: *kun tu bzang po* → Samantabhadra (not All-Good)
+
+2. **PAGE 50.txt** - Vehicle terminology
+   - *theg pa* → vehicle (not yana, not path)
+   - *theg pa dgu* → nine vehicles (enumerated)
+   - *rgyu 'bras* → causal-result distinction
+   - *snyan brgyud* → aural lineage (not whispered)
+
+3. **PAGE 100.txt** - Tantra classifications
+   - Outer tantra: *phyi rgyud* (kriya, upa, yoga)
+   - Inner tantra: *nang rgyud* (maha, anu, ati)
+   - *bla na med pa* → unsurpassable (not ultimate)
+   - *rdzogs pa chen po* → Great Perfection (not Great Completion)
+
+4. **PAGE 200.txt** - Dzogchen technical terms
+   - *ka dag* → primordial purity (not original purity)
+   - *lhun grub* → spontaneous accomplishment (not effortless)
+   - *rig pa* → awareness (not knowledge, not vidya)
+   - *gnas lugs* → abiding nature (not natural state)
+
+5. **PAGE 300.txt** - Subtle body terminology
+   - *rtsa* → channel (not nadi, not artery)
+   - *rlung* → wind/prana (not energy)
+   - *thig le* → bindu/drop (not seed, not essence)
+   - *sgron ma* → lamp (not light, not cakra)
+
+**Format Standards:**
+- Line range references: [XXXX-YYYY]
+- Wylie terms in italics: *rang bzhin*
+- Sanskrit in IAST: *prajñāpāramitā*
+- Decisions explained: "Retain X rather than Y because..."
+- Cross-references: "See PAGE Z for..."
+
+---
+
 ### COMMENDABLE QUALITY - MAINTAIN STANDARDS
 
 #### Commentary Layer - OUTSTANDING

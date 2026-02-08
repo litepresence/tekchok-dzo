@@ -1,49 +1,91 @@
-[3278-3284] [CONCEPT] Three-Level Purification in Yoga Tantra
-**Analysis:** Lines 3278-3284 present the threefold purification schema of Yoga Tantra:
+[3278-3316] [STRUCTURE] Three-Level Purification Schema
 
-**Three Levels:**
-1. **Outer** (*phyi*) [3278]: Purification of five aggregates (*phung po lnga*) and five elements (*'byung ba lnga*)
-2. **Inner** (*nang*) [3278]: Purification of five actions (*las lnga*) and five afflictions (*nyon mongs pa lnga*)
-3. **Secret** (*gsang ba*) [3279]: Purification of five objects (*yul lnga*) and five sense-powers (*dbang po lnga*)
+**Analysis:** Lines 3278-3316 present the threefold (*rnam pa gsum*) purification framework of Yoga Tantra, establishing its superiority over Outer Tantra approaches.
 
-**Result:**
-- *rigs lnga'i sangs rgyas su bdag nyid gyur pa* — Self becomes Buddha of five families [3280]
-- Through viewing deity and self as siblings/friends (*spun dang grogs ltar*) [3281]
-- Recognition that deity has no good cause to bestow (*bzang rgyu med par shes*) [3282]
-- *dngos grub rang las 'byung* — Siddhis arise from oneself [3283]
-- Superior to lower approaches (*'og ma las khyad par du 'phags*) [3284]
+**Hierarchical Purification Model:**
 
-[3285-3286] [PHILOLOGY] Non-Duality of Deity and Self
-**Analysis:** Key doctrinal statements:
+| Level | Tibetan | Object Purified | Result | Lines |
+|-------|---------|-----------------|--------|-------|
+| Outer | *phyi* | Five aggregates (*phung po lnga*), five elements (*'byung ba lnga*) | — | 3278 |
+| Inner | *nang* | Five actions (*las lnga*), five afflictions (*nyon mongs pa lnga*) | — | 3278 |
+| Secret | *gsang ba* | Five objects (*yul lnga*), five sense-powers (*dbang po lnga*) | Five-family Buddha | 3279-3280 |
 
-**Line 3285:**
-- *bskyed rgyu'i lha dang bdag gnyis gnyis su med par rtogs* — Realizing generated-cause deity and self are non-dual
+**Resultant Self-Transformation [3280]:**
+*rigs lnga'i sangs rgyas su bdag nyid gyur pa* — "Self becomes Buddha of five families"
 
-**Line 3286:**
-- *don dam dang kun rdzob kyi ming med pa* — No name of ultimate and conventional
+This represents the characteristic Yoga Tantra method of rapid self-deification through visualization, distinct from the gradual approaches of Kriya and Charya.
 
-This indicates the Yoga Tantra view transcends both the dualistic structure of Kriya and conventional frameworks.
+[3281-3286] [PHILOLOGY] Non-Duality Terminology
 
-[3287-3310] [CONTEXT] Scriptural Quotation: Rig pa rang shar
-**Analysis:** Lines 3288-3309 quote from *Rig pa rang shar* establishing Yoga Tantra view:
+**Analysis:** Lines 3281-3286 establish the key doctrinal terminology distinguishing Yoga Tantra's view.
 
-**Key Elements:**
-- [3289]: "Yoga's established tenet is like this"
-- [3290]: Entry door is five enlightenments (*mngon par byang chub lnga*)
-- [3291]: View of realization: deity and yogi as companions
-- [3292]: Protecting samaya: three non-shames (*ma khrel gsum*)
-- [3293]: Conduct without rejection-acceptance (*dgag sgrub med pa*)
-- [3294-3299]: Five enlightenments through seat, body, mudra, generation, letters
-- [3301-3304]: Three non-shames: by yidam, by master-disciple, by own mind
-- [3305-3309]: Deity and yogi as siblings; non-dual mandala; deity arises from/dissolves into self
+**Deity-Self Relationship:**
+- *yi dam gyi lha dang bdag gnyis spun dang grogs ltar bsgoms pas* — Deity and self meditated as siblings/friends
+- *lha la bzang rgyu med par shes te* — Recognition deity has no good cause to bestow
+- *dngos grub rang las 'byung ba* — Siddhis arise from oneself
 
-[3311-3321] [STRUCTURE] Introduction to Mahayoga
-**Analysis:** Line 3311 introduces the seventh topic — Mahayoga Tantra (*rgyud ma ha yo ga'i theg pa*).
+**Key Term:** *bzang rgyu* (line 3282) — "good cause/reason" — indicating the Yoga Tantra view that deities do not externally bestow blessings but serve as skillful means for recognizing one's own enlightened nature.
 
-**Superiority Over Lower Tantras:**
-1. **Outer three** abstain from meat, practice bathing/cleanliness, endure austerities — causing distress [3314-3315]
-2. **Inner practitioners** consume five meats, five nectars; rely on consorts — no pure/impure [3316-3317]
-3. **Lower cannot** practice deity-face union [3318-3319]
-4. **Outer view** doesn't realize non-dual truth; **inner** realizes it [3320-3321]
+**Non-Duality Formulation [3285-3286]:**
 
-**Key Distinction:** Mahayoga transcends both purity and antinomianism through view (*lta ba*).
+| Line | Tibetan | Translation | Significance |
+|------|---------|-------------|--------------|
+| 3285 | *bskyed rgyu'i lha dang bdag gnyis gnyis su med par rtogs* | Realizing generated-cause deity and self non-dual | Generation phase non-duality |
+| 3286 | *don dam dang kun rdzob kyi ming med pa* | No name of ultimate/conventional | Transcends conceptual frameworks |
+
+**Grammatical Note:** The double *gnyis* (*gnyis gnyis su*) emphasizes absolute non-duality, not merely cooperative practice.
+
+[3287-3310] [CONTEXT] Scriptural Quotation: Rigpa Rangshar
+
+**Analysis:** Lines 3287-3310 quote from *Rig pa rang shar gyi rgyud* (Self-Arisen Awareness Tantra), a seminal Anuyoga/Dzogchen tantra, establishing the complete Yoga Tantra path structure.
+
+**Complete Path Framework:**
+
+| Component | Tibetan | Description | Line |
+|-----------|---------|-------------|------|
+| Entry Door | *'jug pa'i sgo* | Five enlightenments (*mngon par byang chub lnga*) | 3290 |
+| View | *rtogs pa'i lta ba* | Deity and companion (*lha dang grogs po'i tshul*) | 3291 |
+| Samaya | *bsrung ba'i dam tshig* | Three non-shames (*ma khrel gsum*) | 3292 |
+| Conduct | *spyod pa* | Without rejection-acceptance (*dgag sgrub med pa*) | 3293 |
+
+**Five Enlightenments (*byang chub lnga*) [3294-3299]:**
+
+| # | Tibetan | Translation | Aspect |
+|---|---------|-------------|--------|
+| 1 | *gdan gyi sgo nas* | Through seat door | Support |
+| 2 | *sku yi sgo nas* | Through body door | Form |
+| 3 | *phyag mtshan sgo nas* | Through mudra door | Symbol |
+| 4 | *bskyed pa'i sgo nas* | Through generation door | Process |
+| 5 | *yig 'bru'i sgo nas* | Through letter door | Sound |
+
+**Three Non-Shames (*ma khrel gsum*) [3301-3304]:**
+- *yi dam lha yis ma khrel* — Non-shame by yidam deity
+- *dpon slob mched kyis ma khrel* — Non-shame by master-disciple
+- *rang gi sems kyis ma khrel pa* — Non-shame by own mind
+
+**Technical Note:** *ma khrel* (literally "not embarrassed/ashamed") refers to the spontaneous, uninhibited nature of tantric practice when conducted with pure view.
+
+[3311-3316] [CONCEPT] Superiority Framework and Mahāyoga Introduction
+
+**Analysis:** Lines 3311-3316 introduce the seventh topic — Mahāyoga Tantra — establishing the hierarchical superiority framework over lower approaches.
+
+**Superiority Schema:**
+
+| Lower Approaches | Limitation | Mahāyoga Distinction |
+|------------------|------------|---------------------|
+| Outer three (Kriya, Upa, Yoga) | Abstain from meat (*dkar gsum*), practice bathing/cleanliness, endure austerities | No pure/impure distinction |
+| Outer practitioners | Caused distress (*gdungs*) | No distress |
+| Inner practitioners | Consume five meats/five nectars, rely on consorts | No reliance needed |
+| Lower vehicles | Cannot practice deity-face union | Transcends such distinctions |
+| Outer view | Doesn't realize non-dual truth | Realizes it |
+
+**Key Distinction:**
+The text emphasizes that Mahāyoga transcends both the purity conventions of Kriya (*dkar gsum*, etc.) and the antinomianism of lower inner tantra through superior *view* (*lta ba*).
+
+**Doxographical Significance:**
+
+This passage establishes the Nyingma classification system where:
+- Outer Tantra (Kriya, Charya, Yoga) = dualistic practice with gradual purification
+- Inner Tantra (Mahā, Anu, Ati) = non-dual realization with immediate recognition
+
+The progression reflects increasing subtlety in understanding the nature of purity and impurity, culminating in the realization that both are empty of inherent existence.

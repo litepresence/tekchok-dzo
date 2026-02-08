@@ -1148,3 +1148,1310 @@ The section transitions from **phenomenological** (delusion and its reversal) to
 - The five aggregates correspond to five Buddha families from conception
 - Ground-awareness (gzhi gnas kyi ye shes) is present from the embryo stage
 - Elemental winds and channels form the subtle body basis for completion stage practice
+
+---
+
+# Volume 1: Pages 341-360 Scholar Analysis
+
+## PAGE 341 [13951-14002]
+
+### [STRUCTURE]
+**Sectional architecture**: Lines 13951-14002 introduce the **two-part exposition** on channels (rtsa):
+1. General presentation of the three main channels' nature (rtsa'i gtso mo gsum gyi rang bzhin spyir bstan pa)
+2. Specific analysis of the four cakras' divisions ('khor lo bzhi'i dbye ba bye brag tu bshad pa)
+
+The passage cites from **Thal 'gyur** (The Resultant Tantra), lines 13954-13970, presenting a **tenfold analysis** (bstan pa la brgyad, but actually enumerating eight topics):
+- Channel names (rtsa'i ming)
+- Purification factors (dag byed)
+- Symbolic indications (mtshon pa)
+- Production modes (skyed tshul)
+- Functional operations (lags gang byed pa)
+- Essential nature (ngo bo)
+- Dharmatā (chos nyid)
+- Training instructions (ji ltar sbyang ba'i man ngag)
+
+**Numerical taxonomy** (lines 13986-13993):
+- Total channels: 72,000 (stong phrag bdun cu rtsa gnyis)
+- Generation channels: 64 (drug cu rtsa bzhi)
+- Memory channels: 16 (bcu drug) = 80 total
+- Taste channels: 32 (sum cu rtsa gnyis) = 112 total
+- Tip channels: 360 (sum brgya drug cu)
+- Four cakras combined: 472 (bzhi brgya bdun cu rtsa gnyis)
+
+### [PHILOLOGY]
+**Key terminology:**
+
+- **རྩ་གསུམ་** (rtsa gsum; three channels): The **tripartite channel system** comprising:
+  - **Ro ma** (རོ་མ།): "Taste-channel" - right side for males, left for females
+  - **Rkyang ma** (རྐྱང་མ།): "Single/isolated channel" - left side for males, right for females  
+  - **Kun 'dar ma** (ཀུན་འདར་མ།): "All-pervading channel" - central channel
+
+- **སྲོག་ཤིང་** (srog shing; life-tree): Line 13994 - the three central channels function like **vertical supports** (drang zhing 'khyog med par 'byung ba), straight without curvature.
+
+- **ཨཱོཾ་ཨཱཿཧཱུྃ་གསུམ་** (A-OṂ ĀḤ HŪṂ gsum): Line 14002 - the **three seed-syllables** residing within the three channels, corresponding to body, speech, and mind.
+
+**Particle analysis:**
+The enumeration employs **connective particles** (དང་) to link sequential categories, establishing **hierarchical inclusion** (e.g., lines 13986-13993). The **terminative particle** (ལ།) at line 13985 marks purpose: "for the sake of identifying channels" (rtsa ngos 'dzin pa).
+
+### [CONTEXT]
+**Tantric physiology:**
+This section presents **anuttarayoga tantra** subtle body physiology, specifically the **systems of channels** (rtsa), winds (rlung), and bindus (thig le) that form the basis for **completion stage** (rdzogs rim) practice.
+
+**Sexual differentiation:**
+Lines 14010, 14015 specify **gendered channel placement**: ro ma on the right for males/left for females, rkyang ma on the left for males/right for females. Some texts present **reversed placement** (go zlog pa), indicating alternative interpretive traditions (dgongs pa gzhan).
+
+**Doxographical correlation:**
+The tripartite division corresponds to:
+- **Body, speech, mind** (lus ngag yid gsum)
+- **Three kāyas** (sku gsum)
+- **Three vajras** (rdo rje gsum)
+
+### [CONCEPT]
+**Channels as ground of liberation:**
+Line 13984 states that channels constitute the **vital point** (gnad) of the body: "The body's vital point is the channels" (lus kyi gnad ni rtsa yin te). This establishes the **somatic basis** for enlightenment—the body itself contains the pathways for liberation.
+
+**Four-level functionality:**
+Line 13995-13997 presents the **four-level operation** of the three channels:
+1. **External** (phyir): Support for body, speech, mind
+2. **Internal** (nang): Connection via three kāyas
+3. **Secret** (gsang): Foundation for three kāya manifestation
+
+**Channels as mothers:**
+Line 14020 designates the three channels as "mothers" (ma) because they are the **ground of all channels** (rtsa thams cad kyi gzhi ma yin pas na ma zhes btags so). This establishes the **generative function** of the central tripod.
+
+---
+
+## PAGE 342 [14003-14034]
+
+### [STRUCTURE]
+**Gendered channel dynamics**: Lines 14003-14034 present the **sexual physiology** of the three channels, focusing on:
+- Purified vs. impure functions (dag pas...ma dag pas)
+- Gender-specific channel placement and flow
+- Five constitutional types (rigs can lnga) and their channel configurations
+
+**Channel flow analysis** (lines 14021-14029):
+- Ro ma to male right: Produces bodhicitta (byang sems skyed par byed pa)
+- Ro ma to female left: Retains bodhicitta (byang sems 'thums te)
+- Rkyang ma to male left: Retains blood-force (khrag gi 'phen pa'i stobs 'dzin pa)
+- Rkyang ma to female right: Divides into five constitutional channels (rig can lnga'i rtsar gyes pa)
+
+### [PHILOLOGY]
+**Technical specifications:**
+
+- **བྱང་སེམས་** (byang sems; bodhicitta): In this context, **bodhicitta** refers specifically to **sexual fluid/essence** (white and red bindus), not merely the altruistic intention. Lines 14022, 14024 track its production and retention via channel flow.
+
+- **རི་དགས་ཨེ་ན་ཡཱ་** (ri dwags e na ya; black antelope): Line 14031 - the **black antelope's calf** serves as anatomical simile for the channel's shape: thick at the root (rtsa ba sbom pa), thin at the tip (rtse mo phra ba).
+
+- **ཐིག་ལེའི་གནད་ལམ་དུ་བྱེད་** (thig le'i gnad lam du byed): Line 14033 - "making the bindu-vital point into the path" - technical instruction for **bindu retention practice**.
+
+**Five constitutional types** (rigs can lnga):
+Lines 14030-14055 enumerate five female constitutional types based on channel configuration:
+1. **Ri dwags can** (black antelope type) - thick root, thin tip
+2. **Glang sna ma** (elephant trunk type) - upward-looking channel
+3. **Pad+ma can** (lotus type) - bloomed lotus shape
+4. **Ri mo can** (lineage/line-mark type) - linear markings
+5. **Dung can ma** (conch-shell type) - right-coiling channel
+
+### [CONTEXT]
+**Āyurvedic-tantric synthesis:**
+The classification of constitutional types reflects **Āyurvedic** (sm Rig pa) influence integrated with tantric subtle body theory. Each type has specific **channel morphology** affecting sexual and spiritual capacity.
+
+**Sexual physiology as practice basis:**
+The detailed analysis of male/female channel differences establishes the **physiological foundation** for **sexual yoga** (sbyor ba) and **karmamudrā** practice. The text treats sexuality as **metaphysical hardware** rather than mere biology.
+
+**Dzogchen view:**
+Line 14006 notes that inverted perception (phyin ci log pa) **opens the door** (go 'byed pa) for the three poisons (dug gsum) to manifest. This connects channel physiology to **cognitive error theory**.
+
+### [CONCEPT]
+**Channels as pleasure-technology:**
+The text presents the **channel system as affective infrastructure**. Ro ma (line 14008) "makes one experience taste like supreme food" (zas mchog dang 'dra ba'i ro myong bar byed), establishing channels as **conduits of bliss** (bde ba).
+
+**Gendered spiritual capacity:**
+Lines 14030-14055 suggest **constitutional determinism** in spiritual capacity. The black antelope type's thick root/"extreme desire" ('dod chags lhag par che) prevents direct bodhicitta emission (byang sems dngos su 'byin par mi nus pa), requiring specific remedial techniques.
+
+**Channels and disease:**
+Line 14029 indicates that channel flow to the female right produces "diseases and constitutional differences not found in males" (skyes pa la med pa'i nad dang rigs kyi bye brag). This reflects **gendered medical theory** in Tibetan tradition.
+
+---
+
+## PAGE 343 [14035-14076]
+
+### [STRUCTURE]
+**Constitutional typology continuation**: Lines 14035-14076 complete the **five constitutional types** analysis and present:
+- Channel morphology and sexual function
+- Disease correlations from channel types
+- Numerical summary of female-specific channels
+
+**Elephant trunk type** (glang sna ma'i rigs):
+Lines 14035-14040 - round eyes, thin limbs, channel like elephant's trunk rising upward from navel, cannot emit bodhicitta directly.
+
+**Lotus type** (pad+ma can):
+Lines 14041-14046 - black color, coarse limbs, harsh face, channel like bloomed lotus, round mouth, long channel produces great bliss.
+
+**Lineage-mark type** (ri mo can):
+Lines 14047-14055 - blue complexion, firm teeth, long eyes and forehead, yellow hair (some thin), thin limbs, channel like drawn lines, joyful movement, much channel-branches.
+
+**Conch-shell type** (dung can ma):
+Lines 14056-14065 - yellow color, short stature, thin teeth, clear brow-point, short limbs, wide fingers, channel coils to the right like conch.
+
+### [PHILOLOGY]
+**Disease enumerations:**
+
+- **ནད་ཀྱི་བྱེ་བྲག་མི་འདྲ་བ་སུམ་ཅུ་རྩ་གཉིས་** (nad kyi bye brag mi 'dra ba sum cu rtsa gnyis): Line 14068 - **32 diseases** arising from the five constitutional channels.
+
+- **རིགས་ཅན་ལྔའི་འདུ་མཆེད་** (rigs can lnga'i 'du mched): Line 14071 - the **five constitutional combinations** from which diseases arise.
+
+**Female-specific pathology:**
+Lines 14070-14076 enumerate **32 additional diseases** unique to females:
+- Womb parasites (mngal za ba srin bu) have five constitutional types
+- Menstruation itself has ten disease types
+- Five diseases of all-pervading entry
+- Five diseases of container retention
+- Seven diseases of seed abiding
+- Total: 32 (sum cu so gnyis)
+
+### [CONTEXT]
+**Rtsa mdo corpus:**
+The detailed disease enumerations reference **Rtsa mdo** (Channel Root) texts, a genre of Tibetan medical literature specializing in channel diagnosis and treatment.
+
+**Gendered embodiment:**
+Lines 14076-14081 specify that females have **more diseases than males** due to:
+1. Greater capacity as vessels (bu snod lhag pa)
+2. Non-flowing seeds (sa bon mi 'dzag pa)
+3. Womb parasites (srin bu mang po)
+
+This reflects **androcentric medical perspectives** in traditional Tibetan texts.
+
+### [CONCEPT]
+**Channels as diagnostic instruments:**
+The text presents **constitutional types as diagnostic categories**. Channel morphology predicts:
+- Sexual response capacity
+- Disease susceptibility
+- Spiritual aptitude
+- Therapeutic approach
+
+**The kun 'dar ma as absolute:**
+Line 14085-14086 states that the **all-pervading channel** residing unmoving between the two channels "indicates the great perfection spontaneously present basis without modification" (ma bcos don gyi gzhi rdzogs pa chen po kun la mtshon pa). This is the **Dzogchen view** of the central channel as **already-perfect ground**.
+
+---
+
+## PAGE 344 [14077-14106]
+
+### [STRUCTURE]
+**Purification factors and symbolic indications**: Lines 14077-14106 present:
+1. **Three-channel purification** (rtsa gsum po'i dag byed)
+2. **Symbolic correspondences** (mtshon pa)
+3. **Production modes** (skyed tshul) - embryological formation
+
+**Purification mapping** (lines 14087-14090):
+- Ro ma purifies: All bodily actions (lus kyi las thams cad)
+- Rkyang ma purifies: Speech (ngag)
+- Kun 'dar ma purifies: Mental actions (sems kyis byas pa'i las)
+
+**Symbolic correspondences** (lines 14091-14097):
+- Ro ma: Indicates non-conceptual bliss (bde ba rtog med)
+- Rkyang ma: Indicates single bindu clarity (thig le nyag gcig gi don)
+- Kun 'dar ma: Indicates union without duality (zung 'jug dbyer med)
+
+### [PHILOLOGY]
+**Key technical terms:**
+
+- **དག་བྱེད་** (dag byed; purification factor): The **active principle** that purifies ordinary functions into wisdom. Each channel has specific purificatory capacity.
+
+- **མཚོན་པ་** (mtshon pa; symbolic indication): The **representational function** - each channel "points to" or indicates a specific wisdom aspect.
+
+- **སྐྱེད་ཚུལ་** (skyed tshul; production mode): Lines 14100-14104 present **embryological generation**:
+  - Father's cause: Earth-water maturation → body basis
+  - Mother's condition: Fire-wind maturation → pure/impure differentiation
+  - Navel cakra: Bindus of white and red like sesame seeds
+
+**Dependent origination language:**
+Lines 14105-14106 employ **rten 'brel** (pratītyasamutpāda) terminology: "Because the four cakras abide as eight causes and conditions..." ('khor lo bzhi rgyu rkyen brgyad du gnas pas).
+
+### [CONTEXT]
+**Father-mother embryology:**
+The passage presents **biparental inheritance theory**:
+- Father provides: Earth-water elements → body structure
+- Mother provides: Fire-wind elements → vital warmth and differentiation
+
+This reflects **classical Indian embryology** (Garbhākarṇī, Kaśyapa Saṃhitā) integrated with Buddhist tantra.
+
+**Eight consciousnesses gathering:**
+Line 14106 mentions "gathering the collection of eight consciousnesses" (rnam shes brgyad kyi tshogs pa sdud pa), referencing the ** Yogācāra eight consciousness system** integrated with channel physiology.
+
+### [CONCEPT]
+**Purification as recognition:**
+The three channels don't "create" purity but **reveal** innate purity. The text presents **purification** (dag byed) as **re-cognition** of the channels' true nature rather than transformation of impurity.
+
+**Union of means and wisdom:**
+Line 14095-14096 presents **zung 'jug** (yuganaddha) as the symbolism of kun 'dar ma: "Means-bliss and wisdom-emptiness united" (thabs bde ba dang shes rab stong pa zung 'jug pa). This is the **non-dual view** of the central channel.
+
+**Right-left symbolism:**
+Lines 14098-14099 specify directional symbolism:
+- Right (g.yas pa): Indicates means (thabs)
+- Left (g.yon pa): Indicates wisdom (shes rab)
+- Center (dbus ma): Indicates non-duality (dbyer med)
+
+---
+
+## PAGE 345 [14107-14137]
+
+### [STRUCTURE]
+**Channel functions and anatomical correspondences**: Lines 14107-14137 present:
+1. Speech production via rkyang ma
+2. Mind production via kun 'dar ma
+3. Anatomical location of channels
+4. Channel defects and their manifestations
+
+**Rkyang ma and speech** (lines 14114-14127):
+- Straight without curvature: Sweet, clear speech
+- Thin branches: Broken, unclear speech
+- Naturally without branches or curvature
+- Dividing into ten channels produces speech sounds
+- Thick-thin constrictions: High-pitched, interrupted speech
+- Curvature: Slurred, trembling speech
+- Complete openness: Resonant, attractive speech
+
+**Ro ma and body** (lines 14128-14130):
+- Curved channels: Body manifests in ten aspects
+- Straight channels: Complete body characteristics, beauty and youth
+
+**Kun 'dar ma and mind** (lines 14131-14137):
+- Much curvature: Always distracted, cannot focus
+- Branches present: Sharp mind but quick forgetting
+- Thick-thin variations: Much conceptual transformation, no stability
+
+### [PHILOLOGY]
+**Speech physiology:**
+Lines 14116-14124 present **phonetic consequences** of channel morphology:
+- **'Khyog med cing drang**: Sweet, clear, well-signified speech
+- **Yal ga phra ba**: Broken, short, unclear
+- **Stod smad sbom phra'i nyag**: High-pitched, interrupted
+- **Ltebs yod**: Slurred, trembling
+- **Zang thal du yod**: Resonant, attractive
+
+**Channel repair terminology:**
+Line 14125-14127 specify **three remedial operations**:
+- **Bsgyur ba**: Transformation/shifting
+- **Gseng ba**: Opening/clearing
+- **Mnan pa**: Pressing/stabilizing
+
+### [CONTEXT]
+**Phonetic mysticism:**
+The text presents **speech as channel-dependent**, connecting tantric **mantric phonology** with physiological substrate. Speech is not merely linguistic but **somatic** - produced by channel configurations.
+
+**Yogācāra correlation:**
+The correspondence between channels and body/speech/mind reflects the **three vajras** (rdo rje gsum) framework:
+- Body → Ro ma
+- Speech → Rkyang ma  
+- Mind → Kun 'dar ma
+
+### [CONCEPT]
+**Channels as determinants of capacity:**
+The text presents **constitutional determinism**:
+- Channel straightness = physical beauty
+- Channel curvature = mental instability
+- Channel branches = memory capacity
+
+This is **physiological psychology** - mental traits have somatic correlates.
+
+**The remediable body:**
+Lines 14125-14127 state that yogins can **correct** channel defects through manipulation (bsgyur, gseng, mnan). This establishes the **malleability** of the subtle body through practice.
+
+**Progressive generation:**
+Lines 14142-14146 present **sequential production**:
+- Body produces channels
+- Channels produce speech
+- Speech produces mind
+- Mind produces dharmatā
+- Dharmatā produces yoga
+
+This is **ontogenetic hierarchy** - each level generates the next.
+
+---
+
+## PAGE 346 [14138-14171]
+
+### [STRUCTURE]
+**Functional operations of channels**: Lines 14138-14171 present:
+1. Mind-channel correlations (kun 'dar ma)
+2. Three-channel functional operations (las gang byed pa)
+3. Bodhicitta dynamics in male/female physiology
+4. Menstruation as channel phenomenon
+
+**Mind-channel correlations** (lines 14138-14141):
+- Curved to right: Much conceptual thought
+- Curved to left: Always doubts and hesitations
+- Curved at tip: Much suffering, mental discomfort
+- Broken: Gentle mind, virtuous diligence
+- Open mouth: Great diligence, completed undertakings
+
+**Three-channel functions** (lines 14147-14156):
+- Ro ma: Clarifies clear essence, impure essence flows as dri chu
+- Rkyang ma: Draws up clear essence, experiences and increases, impure flows as dri chen
+- Kun 'dar ma: Draws up clear essence, shows ultimate bodhicitta, impure flows as conventional bodhicitta bindu
+
+### [PHILOLOGY]
+**Bodhicitta terminology:**
+
+- **དྭངས་མ་** (dwangs ma; clear essence): The **refined bindu** drawn upward through channels
+- **སྙིགས་མ་** (snyigs ma; impure essence): The **waste bindu** discharged downward
+- **དྲི་ཆུ་** (dri chu; urine): Impure discharge via ro ma
+- **དྲི་ཆེན་** (dri chen; feces): Impure discharge via rkyang ma
+- **བྱང་སེམས་ཀྱི་ཐིག་ལེ་** (byang sems kyi thig le): Conventional bodhicitta bindu via kun 'dar ma
+
+**Sexual physiology terms:**
+
+- **རེག་འཇོམས་** (reg 'joms): "Contact-destruction" - male orgasmic bliss that destroys pleasure
+- **རེག་པ་འཕེལ་** (reg pa 'phel): "Contact-increase" - female capacity for expanding pleasure
+
+**Menstruation terms:**
+Lines 14161-14170 specify **menstruation as channel-nose transformation** (rtsa sna 'gyur ba):
+- Untimely flow: Disease disturbance
+- Multiple flows per month: Womb vessel transformation
+- First half flow: Male fetus development
+- Second half flow: Female fetus development
+- Interrupted flow: No children
+
+### [CONTEXT]
+**Sexual yoga physiology:**
+The text presents **karmamudrā theory**:
+- Males have "contact-destruction" - pleasure ends with emission
+- Females have "contact-increase" - pleasure expands without limit
+
+This establishes the **superiority of female physiology** for tantric practice.
+
+**Obstetric embryology:**
+The menstruation-fetus correlations reflect **pre-scientific embryology** where menstrual timing determines fetal sex. This was common in traditional medical systems globally.
+
+### [CONCEPT]
+**Channels as bindu-transport:**
+The text presents **channels as infrastructure for bindu movement**:
+- Upward movement: Clear essence for wisdom
+- Downward movement: Impure essence for elimination
+- This is the **economy of the subtle body** - circulation of refined and waste substances.
+
+**Gendered spiritual economy:**
+Lines 14157-14160 present **complementary capacities**:
+- Male: Direct emission, pleasure-destruction, requires retention
+- Female: Non-emission, pleasure-expansion, natural retention
+
+This reflects **tantric valorization of female physiology** as closer to enlightened qualities.
+
+**Menstruation as diagnostic:**
+The menstrual flow characteristics serve as **prognostic indicators** for fertility and fetal sex. This is **channel-based diagnostics** applied to reproductive function.
+
+---
+
+## PAGE 347 [14172-14198]
+
+### [STRUCTURE]
+**Essential nature and dharmatā**: Lines 14172-14198 present:
+1. Three channels' essential nature (ngo bo)
+2. Three channels' dharmatā (chos nyid)
+3. Application instructions
+
+**Essential nature** (lines 14172-14176):
+- Ro ma: Bliss, with special means, releases grasping-object dharmatā
+- Rkyang ma: Emptiness, purifies wisdom, releases grasping-mind into dharmatā
+- Kun 'dar ma: Bliss-emptiness non-dual, union non-dual, releases both graspings
+
+**Dharmatā** (lines 14177-14198):
+- Ro ma: Takes food, separates food's pure/impure, digests
+- Rkyang ma: Produces body's heat fluctuations
+- Kun 'dar ma: Shows thirst differentiation and non-thirst dharmatā
+
+### [PHILOLOGY]
+**Essential nature terminology:**
+
+- **བདེ་བ་** (bde ba; bliss): Ro ma's nature, associated with **means** (thabs)
+- **སྟོང་པ་** (stong pa; emptiness): Rkyang ma's nature, associated with **wisdom** (shes rab)
+- **བདེ་སྟོང་གཉིས་སུ་མེད་པ་** (bde stong gnyis su med pa): Non-dual bliss-emptiness, kun 'dar ma's nature
+
+**Dharmatā functions:**
+Lines 14177-14198 employ **ordinary physiological functions** as dharmatā:
+- Eating and digestion
+- Thermoregulation
+- Thirst sensation
+
+This is **vajra-expression** (rdo rje'i gsungs) - ordinary functions are ultimate truth.
+
+### [CONTEXT]
+**Dzogchen integration:**
+Line 14186 states kun 'dar ma "indicates the great perfection spontaneously present basis without modification to all" (ma bcos don gyi gzhi rdzogs pa chen po kun la mtshon pa). This is **Dzogchen view** - the central channel is already-perfect.
+
+**Tantric physiology:**
+The specification of channel diameters (yang na lto che/phra na lto chung) reflects **Tibetan medical-channel theory** where channel size correlates with digestive capacity.
+
+### [CONCEPT]
+**Channels as liberation-technology:**
+Each channel has **soteriological function**:
+- Ro ma: Liberates grasping at objects
+- Rkyang ma: Liberates grasping at mind
+- Kun 'dar ma: Liberates both graspings simultaneously
+
+This is **graduated vs. simultaneous liberation** mapped onto channel system.
+
+**Attachment-cessation:**
+Lines 14194-14197 specify that channel mastery **cuts attachment**:
+- Ro ma mastery: Cuts food attachment → becomes meditative food
+- Rkyang ma mastery: Cuts clothing attachment → gains warmth
+- Kun 'dar ma mastery: Cuts thirst attachment → dreams cease
+
+This establishes **channels as basis for ascetic transformation**.
+
+---
+
+## PAGE 348 [14199-14220]
+
+### [STRUCTURE]
+**Training instructions and cakra introduction**: Lines 14199-14220 present:
+1. Eight training instructions (man ngag)
+2. Transition to four cakras exposition
+3. Four cakras' logical establishment
+
+**Eight instructions** (lines 14199-14220):
+- Body + ro ma: Body formation = Nirmāṇakāya
+- Abiding + manifestation = Saṃbhogakāya
+- Speech + rkyang ma: Sound-word-secret mantra's natural sound
+- Mind + kun 'dar ma: Memory-thought pure dharmatā = Dharmakāya
+
+**Four cakras structure** (lines 14221-14223):
+- Logical establishment ('thad pa)
+- Individual enumerations (so so'i rnam grangs)
+
+### [PHILOLOGY]
+**Three-kāya correlations:**
+Lines 14200-14208 establish **body-channel-kāya correspondences**:
+- **Longs sku** (Saṃbhogakāya): Body formation
+- **Sprul sku** (Nirmāṇakāya): Abiding-manifestation
+- **Chos sku** (Dharmakāya): Memory-thought pure dharmatā
+
+**Mu tig 'phreng rgyud citation:**
+Lines 14210-14213 cite the **Garland of Pearls Tantra**:
+- "Body is three-kāya maṇḍala body"
+- "Whatever spoken is mantra-speech"
+- "However thought is meditation itself"
+
+This establishes **tantric authority** for body-speech-mind as already-enlightened.
+
+**Channel vital points:**
+Lines 14214-14220 enumerate **six channel vital points** (rtsa'i gnad):
+1. Channel ripening-points: Channel characteristics certainty
+2. Location searching: Channel-produced dharmatā recognition
+3. Channel death-times: Death and birth recognition
+4. Channel nature absorption: Mind-non-distraction from samādhi-cakra
+5. Channel warmth measurement: Constant food-yoga
+6. Channel transfer calculation: Clothing-yoga
+
+### [CONTEXT]
+**Four cakra theory:**
+The transition to four cakras (lte ba, snying ga, mgrin pa, spyi gtsug) reflects **standard anuttarayoga tantra** physiology, now presented in Dzogchen context.
+
+**Elemental cosmology:**
+Lines 14227-14231 present **elemental dependence**:
+- Wind supports water
+- Water supports earth
+- Channels first cakra: Water-functions → blood, lymph, saliva, tears
+
+This is **cosmogonic physiology** - the body recapitulates cosmic element formation.
+
+### [CONCEPT]
+**Body as maṇḍala:**
+Line 14210 "Body is three-kāya maṇḍala body" (lus ni sku gsum dkyil 'khor lus) presents **ontological maṇḍala** - the body is not transformed into maṇḍala but recognized as already-maṇḍala.
+
+**Food and clothing yoga:**
+Lines 14218-14219 present **ordinary activities as yoga**:
+- Food-yoga (zas kyi rnal 'byor): Via channel warmth measurement
+- Clothing-yoga (gos kyi rnal 'byor): Via channel transfer calculation
+
+This is **practice-integration** - no activity is outside the path.
+
+---
+
+## PAGE 349 [14221-14263]
+
+### [STRUCTURE]
+**Four cakras' elemental functions**: Lines 14221-14263 present:
+1. Four-cakra establishment reasoning
+2. Water cakra (blood) functions
+3. Fire cakra (heat) functions
+4. Wind cakra (breath) functions
+
+**Numerical establishment** (lines 14284-14293):
+Four is established because:
+- One/two cannot mature empowerment/path/result
+- Three also cannot
+- Opposite-direction certainty establishes four
+- Subject-object practice sequence establishes four
+- External four elements → internal four wisdoms → secret four lamps → unsurpassed four kāyas
+
+**Elemental cakra functions**:
+- Water cakra (lte ba): Blood, lymph, saliva, tears; body growth/decay
+- Fire cakra (me): Heat, senses, color; body temperature, illness/death conditions
+- Wind cakra (rlung): External-internal breath movement, up-down clearing, karmic wind saṃsāra-root
+
+### [PHILOLOGY]
+**Fourfold certainty reasoning:**
+Lines 14284-14293 present **logical establishment** (nges pa) via:
+- **Ldog phyogs nges pa**: Opposite-direction certainty
+- **Mthun phyogs nges pa**: Same-direction certainty
+
+This is **pramāṇa-style reasoning** applied to tantric physiology.
+
+**Four-level correlation:**
+- **Phyir**: External four elements ('byung ba bzhi)
+- **Nang**: Internal four wisdoms (ye shes bzhi)
+- **Gsang ba**: Secret four lamps (sgron ma bzhi)
+- **Bla na med pa**: Unsurpassed four kāyas (sku bzhi)
+
+**Medical procedures:**
+Lines 14240-14246 specify **blood-letting** (gta') and **cauterization** (bsreg) as treatments for blood disorders, showing **integration of Tibetan medicine** with tantric theory.
+
+### [CONTEXT]
+**Abhidharmonic integration:**
+Lines 14260-14263 present **Abhidharma-style elemental analysis**:
+- Water produces flesh
+- Space-nature produces water → blood increase
+- Earth produces fire → warmth and clarity increase
+- Fire produces wind → breath, radiance, power increase
+
+This is **standard Buddhist cosmology** applied to physiology.
+
+**Life-span determination:**
+Lines 14264-14267 specify **four factors** determining life and capacity:
+- Skyed byed (genitals): Male/female differentiation
+- Dran pa (memory): Long/short life
+- Ro rnams (tastes): Great/small enjoyment
+- Rtse mo (tips): Pure/impure senses, loving/aggressive behavior
+
+### [CONCEPT]
+**Channels as elemental processing:**
+Each cakra **processes** an element:
+- Navel: Water → blood, growth
+- Heart: Fire → heat, senses
+- Throat: Wind → breath, movement
+- Crown: Space → consciousness, bindu
+
+This is **metabolic cosmology** - the body metabolizes elements into existence.
+
+**Therapeutic tantra:**
+The text integrates **medical therapeutics** (blood-letting, cauterization) with **spiritual practice**. The body is simultaneously **medical object** and **soteriological vehicle**.
+
+---
+
+## PAGE 350 [14264-14294]
+
+### [STRUCTURE]
+**Life-span determinants and four-cakra enumeration**: Lines 14264-14294 present:
+1. Four cakras' influence on life and capacities
+2. Expansion-contraction dynamics ('phen sdud)
+3. Four-cakra naming
+
+**Four cakra effects** (lines 14268-14282):
+- Skyed byed (navel): Large body, coarse limbs, great strength from expansion; small form, weak strength from contraction
+- Dran pa (heart): Sharp mind, clear senses from expansion; great thought, forgetfulness from contraction
+- Ro rnams (throat): Sweet speech, clear words from expansion; unpleasant speech from contraction
+- Rtse mo (crown): Pure mind, accomplished thought from expansion; impure mind from contraction
+
+**Four cakras named** (lines 14294-14298):
+- Lte ba: Sprul pa'i 'khor lo (Nirmāṇakāya cakra)
+- Snying ga: Chos kyi 'khor lo (Dharmakāya cakra)
+- Mgrin pa: Longs spyod kyi 'khor lo (Saṃbhogakāya cakra)
+- Spyi gtsug: Bde chen gyi 'khor lo (Mahāsukha cakra)
+
+### [PHILOLOGY]
+**Expansion-contraction terminology:**
+
+- **འཕེལ་བ་** ('phel ba; expansion): Growth, increase, development
+- **སྡུད་པ་** (sdud pa; contraction): Gathering, reduction, condensation
+- **འཕར་བ་** ('phar ba; projection): Extension, throwing forth
+- **འཕུར་བ་** ('phur ba; flight): Sudden movement, dissolution
+
+**Four cakra names:**
+The **kāya-cakra correlations** are significant:
+- Navel = Nirmāṇakāya (emanation body)
+- Heart = Dharmakāya (truth body)
+- Throat = Saṃbhogakāya (enjoyment body)
+- Crown = Mahāsukha (great bliss)
+
+Note the **non-standard order** (heart before throat in standard models) reflects **Dzogchen** emphasis on heart as dharmakāya.
+
+### [CONTEXT]
+**Standard four-cakra system:**
+The enumeration follows **standard anuttarayoga tantra**:
+- Navel: 64 petals, water/blood
+- Heart: 8 petals, fire/awareness
+- Throat: 16 petals, wind/speech
+- Crown: 32 petals, space/bindu
+
+**Dzogchen modification:**
+Line 14296 specifies heart as **chos kyi 'khor lo** (Dharmakāya cakra), reflecting Dzogchen's **heart-center emphasis** (snying ga'i gnad).
+
+### [CONCEPT]
+**Physiological determinism:**
+The text presents **constitutional psychology**:
+- Navel channel expansion → physical strength
+- Heart channel expansion → mental clarity
+- Throat channel expansion → verbal eloquence
+- Crown channel expansion → spiritual purity
+
+This is **somatic psychology** - mental traits have physiological substrates.
+
+**Cakra as life-factors:**
+The four cakras determine **four life dimensions**:
+- Body (navel)
+- Vitality/lifespan (heart)
+- Enjoyment (throat)
+- Enlightenment capacity (crown)
+
+---
+
+## PAGE 351 [14303-14332]
+
+### [STRUCTURE]
+**Navel cakra detailed exposition**: Lines 14303-14332 present:
+1. Navel cakra as Nirmāṇakāya cakra
+2. Numerical enumerations
+3. Eightfold channel classification
+
+**Numerical taxonomy** (lines 14305-14313):
+- Root channel six petals
+- 64 channels branching from water-root
+- Innumerable petal-leaves
+- Inner channels definitely: elements, mind, ignorance, mind, dal ba
+- Each small-cakra petal: 38 channels
+- Total: 2,432 channels
+
+**Eightfold classification** (lines 14317-14332):
+- Earth channels: 5 types - hold body basis
+- Water channels: 5 types - gather body clarity
+- Fire channels: 5 types - gather fire clarity
+- Wind channels: 5 types - gather wind clarity
+- Mind channels: 5 types - gather breath clarity
+- Ignorance channels: 5 types - show individual body connections
+- Space-mind channels: 2 types - gather breath and consciousness clarity
+- Dal ba channels: 6 types - gather objects and ignorance
+
+### [PHILOLOGY]
+**Rtsa gnas 'khor lo citation:**
+Lines 14315-14316 cite **Rtsa gnas 'khor lo** (Channel-Location Cakra):
+- "Nirmāṇa cakra 64 petals"
+- "Elements, etc., progressively divided"
+
+This is **tantric scriptural authority** for the numerical system.
+
+**Channel classification terminology:**
+- **འབྱུང་བའི་རྩ་** ('byung ba'i rtsa): Element channels (earth, water, fire, wind)
+- **སེམས་ཀྱི་རྩ་** (sems kyi rtsa): Mind channels
+- **མ་རིག་པའི་རྩ་** (ma rig pa'i rtsa): Ignorance channels
+- **ཡིད་ཀྱི་རྩ་** (yid kyi rtsa): Mentation channels
+- **དལ་བ་ཀུན་བསྡུས་ཀྱི་རྩ་** (dal ba kun bsdus kyi rtsa): Dal-ba channels
+
+### [CONTEXT]
+**Aṣṭāṅga-yoga integration:**
+The eightfold classification may correlate with **eight-limbed yoga** (aṣṭāṅga), though here applied to channel physiology rather than practice stages.
+
+**Yogācāra correlation:**
+The division into sense-object channels and consciousness channels reflects **Yogācāra** vijñapti-mātra analysis of perception.
+
+### [CONCEPT]
+**Channels as elemental processors:**
+Each of the five element-channel sets has **specific function**:
+- Earth: Support (gzhi)
+- Water: Gathering clarity (dngas ma sdud)
+- Fire: Gathering clarity
+- Wind: Gathering clarity
+- Mind: Gathering breath clarity
+
+This is **physiological alchemy** - elements are refined through channels.
+
+**Ignorance as channel-function:**
+Lines 14327-14328 specify ignorance channels show "individual body connections" (so so'i lus zungs 'brel bar ston). This presents **ignorance as physiological** - the error of separate self is somatically embedded.
+
+---
+
+## PAGE 352 [14364-14393]
+
+### [STRUCTURE]
+**Navel cakra channel functions**: Lines 14364-14393 present:
+1. Citation from Rtsa gnas 'khor lo
+2. Channel type enumerations
+3. Karma-affliction-wisdom channel divisions
+
+**Rtsa gnas 'khor lo citation** (lines 14365-14387):
+- Channel forms abide in cakra body
+- Nirmāṇa-nature cakra: 64 major channels, innumerable minor channels
+- Gathering channels: 10 - disturbance and grasping functions
+- Within those: Gathering clarity - element disturbance, latent afflictions, self-abiding
+- Wisdom channels: 8 - merely holding consciousness portions
+- Karma-affliction channels: 50
+  - Karma channels: 10
+  - Affliction channels: 40 (10 ignorance, 10 mind, 10 mentation, 10 three poisons)
+
+### [PHILOLOGY]
+**Channel function categories:**
+
+- **འདུ་བའི་རྩ་** ('du ba'i rtsa; gathering channels): Collect and concentrate
+- **ཡེ་ཤེས་ཀྱི་རྩ་** (ye shes kyi rtsa; wisdom channels): Support wisdom functions
+- **ལས་ཀྱི་རྩ་** (las kyi rtsa; karma channels): Support karmic action
+- **ཉོན་མོངས་ཀྱི་རྩ་** (nyon mongs kyi rtsa; affliction channels): Support afflictive emotions
+
+**Ignorance typology:**
+Lines 14389-14392 classify **ten ignorance channels**:
+- 3: Co-emergent (lhan cig skyes pa)
+- 3: Causally concordant (rgyu mthun)
+- 4: Imputed (kun brtags)
+
+This reflects **standard Abhidharma** ignorance classification.
+
+### [CONTEXT]
+**Dum dum khriks citation:**
+Line 14416 cites **Dum dum khriks kyi rtsa mdo** (Channel Root of Dum-dum Khriks), a **medical tantra** attributed to Vimalamitra (Bi ma la).
+
+**Channel therapeutics:**
+Lines 14418-14432 enumerate **therapeutic channel classifications**:
+- Suitable for binding: 5 channels (fault if unbound)
+- Suitable for piercing: 12 channels (7 death channels, 7 fault channels if unpierced)
+- Suitable for burning: 5 channels (fault if burned)
+- Suitable for agitating: 4 channels (fault if agitated)
+- Others: No benefit or harm
+
+### [CONCEPT]
+**Channels as karmic infrastructure:**
+The division into karma, affliction, and wisdom channels presents **somatic determinism**:
+- Karma channels: 10
+- Affliction channels: 40  
+- Wisdom channels: 8
+
+This **numerical ratio** (50:8) suggests ordinary existence is affliction-dominant, requiring practice to activate wisdom channels.
+
+**Co-emergent ignorance as physiological:**
+The classification of ignorance types includes **co-emergent** (lhan cig skyes pa) as channel-based. This presents **fundamental error as embodied** from inception.
+
+---
+
+## PAGE 353 [14433-14445]
+
+### [STRUCTURE]
+**Navel cakra therapeutic applications**: Lines 14433-14445 present:
+1. 64-channel count reconciliation
+2. Vimalamitra's channel treatment instructions
+3. Specific channel locations for blood-letting
+
+**64-channel variants** (lines 14433-14437):
+- Root ro ma, rkyang ma, kun 'dar ma + three light channels + ka ti + golden channel = 64
+- Alternatively: Root three + four light channels = 64
+
+**Vimalamitra instructions** (lines 14438-14445):
+- Lte ba sprul pa'i 'khor lo vital points
+- Su'i mgo (SU head) location: Below knee, four finger-widths from calf-muscle, right side
+- Medical name: Mcher rtsa nag po (black gall-channel)
+- Function: Voice cessation, rib pain; blood-letting balances elements
+
+### [PHILOLOGY]
+**Medical terminology:**
+
+- **སྨན་སྐད་** (sman skad): Medical terminology
+- **མཆེར་རྩ་ནག་པོ་** (mcher rtsa nag po): Black gall-channel
+- **གཏར་བས་** (gtar bas): By blood-letting
+- **འབྱུང་བ་སྙོམས་པ་** ('byung ba snyoms pa): Elemental balance
+
+**Anatomical measurements:**
+- **སོར་བཞི་** (sor bzhi): Four finger-widths
+- **པུས་མོའི་མར་མཆན་** (pus mo'i mar mchan): Below the knee
+- **ངར་གདོང་** (ngar gdong): Calf muscle
+
+### [CONTEXT]
+**Vimalamitra attribution:**
+Line 14440 attributes these instructions to **Bi ma la** (Vimalamitra), the 8th-century Indian master who transmitted Dzogchen to Tibet. This establishes **lineage authority** for the medical instructions.
+
+**Channel-based medicine:**
+The text presents **blood-letting** (gta') as channel-specific therapy. Each channel location treats specific disorders, reflecting **Tibetan medical-channel theory**.
+
+### [CONCEPT]
+**Spiritual practice as medicine:**
+Lines 14471-14473 specify that yogins should **not** perform these procedures on themselves but instead **recite seed-syllables** when diseases arise from these channels. This is **mantric medicine** - phonemes replace surgical intervention.
+
+**Channels as elemental regulators:**
+Blood-letting specific channels **balances elements** ('byung ba snyoms pa). This is **physiological homeostasis** through channel intervention.
+
+---
+
+## PAGE 354 [14456-14485]
+
+### [STRUCTURE]
+**Navel cakra treatment continuation**: Lines 14456-14485 present:
+1. Seven more channel locations for blood-letting
+2. Burning (cauterization) treatments
+3. Mantric alternatives for yogins
+
+**Blood-letting channels** (lines 14456-14470):
+- Sha (SHA): Below right rib - benefits kidney; left - benefits hunchback
+- Kṣa (KṢA): Below left rib - benefits wind disorders
+- Kha (KHA): Right outer ankle - benefits kidney
+- Khaṃ (KHAṂ): Left - benefits twisted waist and thigh
+
+**Burning treatments** (lines 14474-14483):
+- Ti Ṭi (TI ṬI): Shoulder top right/left - burning benefits cold/shivering
+- La Lā (LA LĀ): Thigh hollow right/left
+- Sa Sā (SA SĀ): Kidney hollow right/left
+- Sha Ṣa (SHA ṢA): Armpit center
+- Mi Mī (MI MĪ): Knee right/left - benefits kidney disease
+
+### [PHILOLOGY]
+**Seed-syllable medicine:**
+The text specifies **Sanskrit seed-syllables** marking channel locations:
+- **སུཾ** (SUṂ), **ཤ** (SHA), **ཥ** (ṢA), **ཀྵ** (KṢA), **ཁ** (KHA), **ཁཾ** (KHAṂ)
+- **ཏི་ཊི** (TI ṬI), **ལ་ལཱ** (LA LĀ), **ས་སཱ** (SA SĀ), **མི་མཱི** (MI MĪ)
+- **ཉ་ཨི** (NYA I), **ཧཱུཿ** (HŪṂ)
+
+This is **mantric anatomy** - Sanskrit phonemes map onto physiological locations.
+
+**Treatment verbs:**
+- **གཏར་** (gtar): Blood-letting
+- **བསྲེགས་** (bsregs): Burning/cauterization
+- **བཟླས་** (bzlas): Recitation
+- **བཏོན་** (bton): Drawing out/extracting
+
+### [CONTEXT]
+**Tantric medicine integration:**
+The passage integrates **Āyurvedic** blood-letting and cauterization with **tantric seed-syllable** practice. This is **Vajrayāna medicine** - physiological treatment via mantra.
+
+**Yoginic practice:**
+Line 14471 specifies yogins should **not** perform these procedures on themselves but use **mantric recitation** instead. This reflects **non-harming** (ahiṃsā) applied to self-treatment.
+
+### [CONCEPT]
+**Sound-body isomorphism:**
+The mapping of Sanskrit phonemes onto body locations presents **sonic embodiment** - the body is **already mantra**, already sacred sound. Treatment via seed-syllables is **recognition** rather than intervention.
+
+**Elemental healing:**
+Line 14485 "breath together with external to internal drawing" (dbugs dang bcas te phyi nas nang du drang) specifies **prāṇāyāma-style** healing - breath manipulation balances elements.
+
+---
+
+## PAGE 355 [14505-14526]
+
+### [STRUCTURE]
+**Navel cakra therapeutic conclusion**: Lines 14505-14526 present:
+1. Remaining navel cakra treatments
+2. Transition to heart cakra
+3. Heart cakra preliminary enumeration
+
+**Navel treatments** (lines 14505-14522):
+- Ṭa La (ṬA LA): Vajra top/bottom - pressing cuts bindu movement
+- Sha (SHA): Vajra tip - pressing abandons desire
+- Ṭya Ṭyā (ṬYA ṬYĀ): Below navel right/left
+- Ṭa Ṭā (ṬA ṬĀ): Hip hollow right/left
+- To Tā (TO TĀ): Heel right/left
+- Dza Dzā (DZA DZĀ): Below navel right/left
+- Ṭa Ṭā (ṬA ṬĀ): Kidney hollow right/left
+
+**Heart cakra introduction** (lines 14527-14534):
+- Eight-petaled root lotus
+- 32 channels branching
+- Innumerable leaf-petals
+- Citation from Rtsa gnas 'khor lo
+
+### [PHILOLOGY]
+**Vajra location:**
+Lines 14505-14508 specify channels at the **vajra** (rdo rje; penis):
+- Ṭa La: Top and bottom
+- Sha: Tip
+- These treat bindu-movement and desire
+
+This is **sexual physiology as medicine** - genital channels regulate desire and bindu.
+
+**Color codings:**
+Lines 14524-14525 specify **seed-syllable colors**:
+- Hot/cold: White and red
+- These are the colors of the syllables
+
+This is **thermal symbolism** - white/cool, red/hot.
+
+### [CONTEXT]
+**Rtsa gnas 'khor lo citation:**
+Line 14530-14531 cites the **Channel-Location Cakra**:
+- "Heart dharmakāya cakra channels: past 32..."
+- "Karma and wisdom abiding channels..."
+
+This establishes **heart cakra as dharmakāya**, consistent with Dzogchen emphasis.
+
+### [CONCEPT]
+**Desire as channel-phenomenon:**
+Line 14508 states pressing Sha at vajra tip "abandons desire" ('dod chags spong bar byed). This presents **desire as somatically located** - it can be treated via genital channel manipulation.
+
+**Heart as dharmakāya:**
+The designation of heart cakra as **chos kyi 'khor lo** (Dharmakāya cakra) at line 14531 reflects Dzogchen's **cardiocentric** view - the heart is the **seat of ultimate truth**.
+
+---
+
+## PAGE 356 [14606-14635]
+
+### [STRUCTURE]
+**Heart cakra detailed exposition**: Lines 14606-14635 present:
+1. Channel substance variations
+2. Channel functions and directions
+3. Wind and bindu locations
+
+**Substance variations** (lines 14607-14612):
+- Some: Yellow lymph clarity
+- Some: Blood clarity
+- Some: Wind and earth
+- All: Five elements' clarity
+- Each has clarity in sequence
+
+**Directional functions** (lines 14621-14628):
+- Five upward-going: Clarity radiance, wisdom projection
+- Five left-going: Wisdom cause, sense-grasping
+- Five center-edge abiding: Secret continuum, grasping ground
+- Five direction-center abiding: Arising-projection, setting-gathering
+
+**Wind and bindu** (lines 14613-14616):
+- Wind and bindu location: One each per channel
+- They spread as wind and variously abide
+
+### [PHILOLOGY]
+**Heart cakra functions:**
+
+- **སྟོང་པའི་རྩལ་** (stong pa'i rtsal): Empty potency - trained by upward channels
+- **རིག་པའི་རང་རྩལ་** (rig pa'i rang rtsal): Self-potency of awareness - trained by pervading channels
+- **ཡེ་ཤེས་རྩལ་** (ye shes rtsal): Wisdom potency - trained by rightward channels
+- **ལས་ཀྱི་སྟོབས་** (las kyi stobs): Karma power - produced by leftward channels
+
+**Secret channel terminology:**
+- **གསང་རྩ་** (gsang rtsa; secret channel): Two types
+  - Upward-projecting
+  - Downward-clearing
+- **འགྱུ་བར་བྱེད་པ་** ('gyu bar byed pa): Movement-makers - 16 channels
+- **ལས་ཀྱི་རླུང་** (las kyi rlung): Karma-wind - 10 channels
+
+### [CONTEXT]
+**Dharmacakra typology:**
+The heart cakra as **chos kyi 'khor lo** connects to:
+- Buddha's first turning at Dharmacakra
+- Dharmakāya as heart-center
+- 32 major channels corresponding to 32 major/ minor marks of Buddha
+
+**Movement-makers:**
+Line 14633 specifies **16 movement-making channels**, corresponding to:
+- 16 types of consciousness modification
+- 16 empty bindus
+- 16 wisdom channels
+
+### [CONCEPT]
+**Heart as wisdom-factory:**
+The heart cakra **produces wisdom** via directional channel functions:
+- Upward: Empty potency training
+- Pervading: Awareness self-potency training
+- Right: Wisdom potency training
+- Left: Karma power production
+
+This is **cardiac gnoseology** - the heart generates knowing.
+
+**Secret channels as subtle pathways:**
+The **gsang rtsa** (secret channels) are pathways for **bindu movement** beyond ordinary circulation. These are **completion stage** (rdzogs rim) pathways for advanced practice.
+
+---
+
+## PAGE 357 [14700-14729]
+
+### [STRUCTURE]
+**Heart cakra channel classifications**: Lines 14700-14729 present:
+1. Citation establishing 32 channels
+2. Fivefold functional channel groups
+3. Bindu and wind correspondences
+
+**Rtsa gnas 'khor lo citation** (lines 14701-14729):
+- Dharmacakra 32 channels
+- Channel forms and wind forms
+- Five graspable channels with five graspable winds
+- Five pressable channels with five reversible winds
+- Two twistable channels with two graspable winds and two drawable bindus
+- Six unpressable channels
+- Four unpressed disturbance channels (four abiding-by-pressing)
+- Others: No need/concern
+- Twenty jumping channels, seven openable
+- Seven burnable, others do that
+
+### [PHILOLOGY]
+**Functional channel categories:**
+
+- **གཟུང་དུ་རུང་བའི་རྩ་** (gzung du rung ba'i rtsa; graspable channels): Can be held/fixed
+- **གཏེམས་དུ་རུང་བའི་རྩ་** (gtems du rung ba'i rtsa; pressable channels): Can be pressed
+- **བསྐྱིལ་དུ་རུང་བའི་རྩ་** (bskyil du rung ba'i rtsa; twistable channels): Can be twisted
+- **འཕར་བའི་རྩ་** ('phar ba'i rtsa; jumping channels): Unstable, mobile
+- **གསེང་དུ་རུང་བའི་རྩ་** (gseng du rung ba'i rtsa; openable channels): Can be opened/cleared
+
+**Wind categories:**
+- **གཟུང་དུ་རུང་བའི་རླུང་** (gzung du rung ba'i rlung): Graspable wind
+- **ཟློག་ཏུ་རུང་བའི་རླུང་** (zlog tu rung ba'i rlung): Reversible wind
+
+### [CONTEXT]
+**Therapeutic channel theory:**
+The classification of channels by **manipulability** (graspable, pressable, twistable) reflects **Tibetan medical-channel therapeutics**. Each channel type permits specific interventions.
+
+**Dzogchen completion stage:**
+The specification of **bindus and winds** at channel locations reflects **completion stage** (rdzogs rim) practice, where winds are drawn into central channel and bindus are stabilized.
+
+### [CONCEPT]
+**Channels as manipulable infrastructure:**
+The text presents **channels as somatic technology**:
+- Graspable: For fixation/stabilization
+- Pressable: For reversal/blockage
+- Twistable: For redirection
+- Jumping: For activation
+
+This is **subtle body engineering** - channels can be adjusted for desired effects.
+
+**Bindu as channel-occupant:**
+Lines 14724-14726 specify bindus have **moving and non-moving forms** ('gyu dang mi 'gyu'i rnam pa), determined by channel characteristics. This is **dynamic bindu theory** - bindus change state based on channel conditions.
+
+---
+
+## PAGE 358 [14754-14783]
+
+### [STRUCTURE]
+**Heart cakra therapeutic applications**: Lines 14754-14783 present:
+1. Channel locations for blood-letting
+2. Anatomical descriptions
+3. Disease correlations
+
+**Therapeutic channels** (lines 14754-14783):
+- Dza (DZA): Inside elbow near liver - blood-letting benefits all liver diseases
+- Tsa (TSA): Short vein inside - benefits phlegm disorders
+- Dza (DZA): Outer arm near gall - "upper channel right" - benefits lung disease
+- Left also DZA: "upper channel left" - benefits yellow phlegm
+- Ta (TA): Center of back straight - "back channel established head" - benefits upper body diseases
+- Ṭa (ṬA): Between thumb and forefinger, color-measure hollow - "heart channel white" - benefits kidney, gall, heart diseases
+- Tha (THA): Center of back straight - "great back channel" - benefits back-ro upper body diseases
+- Ḍa (ḌA): Outer little finger corner - "liver channel deep-bubble" - benefits hand diseases
+- Dha (DHA): Back of thumb straight - "gall channel ghandhe" - benefits head diseases
+- Na (NA): Back of forefinger - "stomach branch" - blood-letting benefits poison diseases
+
+### [PHILOLOGY]
+**Anatomical terminology:**
+
+- **ལག་ངར་** (lag ngar): Forearm
+- **མཁྲིས་ཟུར་** (mkhris zur): Near gallbladder
+- **མཁྲིག་མའི་རྒྱབ་དཀྱིལ་** (mkhrig ma'i rgyab dkyil): Center of back
+- **མཐེབ་མཛུབ་གཉིས་ཀྱི་བར་** (mtheb mdzub gnyis kyi bar): Between thumb and forefinger
+- **ཚོན་གང་གཞལ་པའི་གཤོང་བུ་** (tshon gang gzhal pa'i gshong bu): Color-measure hollow
+- **མཐེབ་ཆུང་ཕྱི་ཟུར་** (mtheb chung phyi zur): Outer corner of little finger
+
+**Disease categories:**
+- **མཆིན་ནད་** (mchin nad): Liver disease
+- **བད་ཀན་ནད་** (bad kan nad): Phlegm disorder
+- **གློ་བའི་ནད་** (glo ba'i nad): Lung disease
+- **ལུད་པ་སེར་** (lud pa ser): Yellow phlegm
+- **རོ་སྟོད་ནད་** (ro stod nad): Upper body disease
+- **མཁལ་མ་མཁྲིས་སྙིང་ནད་** (mkhal ma mkhris snying nad): Kidney, gall, heart disease
+
+### [CONTEXT]
+**Vimalamitra system:**
+The channel locations follow **Vimalamitra's** (Bi ma la) medical tantra system, attributed to the 8th-century Dzogchen master. This integrates **Dzogchen lineage** with **medical practice**.
+
+**Hand-channel medicine:**
+The specification of hand locations (between fingers, back of thumb/forefinger) reflects **acupuncture-style** distal-point treatment found in Tibetan medicine.
+
+### [CONCEPT]
+**Channel-disease isomorphism:**
+Each channel location **corresponds** to specific diseases:
+- Liver channels → liver diseases
+- Gall channels → head diseases
+- Heart channels → multiple organ diseases
+
+This is **systematic correspondence theory** - body locations map to disease categories.
+
+**Blood-letting as elemental regulation:**
+Line 14782 "blood-letting benefits poison diseases" (gtar bas dug gi nad la phan) presents **blood-letting as detoxification** - removing elemental excess through channel intervention.
+
+---
+
+## PAGE 359 [14807-14835]
+
+### [STRUCTURE]
+**Heart cakra conclusion and throat cakra introduction**: Lines 14807-14835 present:
+1. Heart cakra therapeutic summary
+2. Throat cakra preliminary enumeration
+3. Throat cakra numerical taxonomy
+
+**Heart summary** (lines 14807-14813):
+- Blood-letting benefits those diseases
+- Yogins accomplish by pressing
+- This summarizes the vital-point syllables
+- Others: No benefit or harm
+- Pressing, agitating, twisting: Yogins should know
+
+**Throat cakra introduction** (lines 14814-14836):
+- Mgrin pa longs spyod kyi 'khor lo (Saṃbhogakāya cakra)
+- 16 channel petals
+- Innumerable inner and outer branching small-petals
+- Inner channels coarse: 340 abiding in seven-cakra coils
+- Rtsa gnas 'khor lo citation
+
+### [PHILOLOGY]
+**Throat cakra enumeration:**
+
+- **རྩ་འདབ་མ་བཅུ་དྲུག** (rtsa 'dab ma bcu drug): 16 channel petals
+- **ནང་རྩ་རགས་པ་གསུམ་བརྒྱ་བཞི་བཅུ་** (nang rtsa rags pa gsum brgya bzhi bcu): 340 coarse inner channels
+- **འཁོར་ལོ་བདུན་གྱི་འཁྱིལ་དུ་གནས་པ་** ('khor lo bdun gyi 'khyil du gnas pa): Abiding in seven-cakra coils
+- **རིམ་པ་བདུན་ལྡན་པ་** (rim pa bdun ldan pa): Possessing seven stages/sequences
+
+**Seven-coil structure:**
+Lines 14822-14826 specify **seven coils** (rim pa bdun):
+- First coil's petals: 10 types
+- All others similar
+- All final: 20
+- Channels: These forms
+
+### [CONTEXT]
+**Saṃbhogakāya cakra:**
+The throat as **longs spyod kyi 'khor lo** (Saṃbhogakāya cakra) reflects standard anuttarayoga tantra physiology:
+- Throat = speech/enjoyment
+- Saṃbhogakāya = enjoyment body
+- Connection: Speech is enjoyment of enlightenment
+
+**Seven cakra system:**
+The "seven cakra coils" (lines 14818, 14822) reference the **extended cakra system**:
+1. Crown (spyi gtsug)
+2. Brow (smin mtshams)
+3. Throat (mgrin pa)
+4. Heart (snying ga)
+5. Navel (lte ba)
+6. Secret (gsang ba)
+7. Tip (rtse mo)
+
+This is **seven-cakra yoga** system found in some Dzogchen traditions.
+
+### [CONCEPT]
+**Throat as speech-factory:**
+The throat cakra produces **speech** (ngag), the Saṃbhogakāya's medium. This is **vocal gnoseology** - enlightenment's enjoyment is expressed through speech.
+
+**Seven coils as completeness:**
+The seven-coil structure suggests **full embodiment** - the throat cakra integrates all seven cakra functions into its 340 channels. This is **hierarchical integration**.
+
+**Karma-affliction-latency-wisdom:**
+Line 14828-14830 specifies throat channels are pathways for:
+- Las (karma)
+- Nyon mongs (affliction)
+- Bag chags (latency)
+- Ye shes 'gyu ba (wisdom movement)
+
+This is **comprehensive soteriology** - all mental factors have throat-channel correlates.
+
+---
+
+## PAGE 360 [14862-14891]
+
+### [STRUCTURE]
+**Throat cakra detailed exposition**: Lines 14862-14891 present:
+1. Throat cakra channel substance
+2. Sixteen wisdom-movement channels
+3. Fourteen affliction channels
+4. Directional channel functions
+
+**Substance and emptiness** (lines 14862-14867):
+- From there space clarity mind
+- Merely transformation from there
+- Pervading all, pervading
+- Eight empty bindus
+- Two: Moving bindus
+- Remainder: Empty-transforming bindus
+
+**Affliction channels** (lines 14868-14877):
+- 14 gathering channels:
+  - 4: Phlegm-mind channels
+  - 4: Ignorance-gall channels
+  - 4: Anger-wind channels
+  - 2: Desire-earth channels
+- These are affliction paths
+- 4: Ignorance things
+- 5: Conceptual mind
+- 5: Three poisons as paths
+
+**Directional functions** (lines 14881-14891):
+- Four upward-going: Train empty potency
+- Two all-pervading: Train self-potency of awareness
+- Two downward-going: Disturb element clarity-impurity
+- Four right-going: Train wisdom potency
+- Four left-going: Produce karma power
+
+### [PHILOLOGY]
+**Throat cakra bindus:**
+
+- **སྟོང་པའི་ཐིག་ལེ་བརྒྱད་** (stong pa'i thig le brgyad): Eight empty bindus
+- **འགྱུ་བའི་ཐིག་ལེ་** ('gyu ba'i thig le): Moving bindus (2)
+- **སྟོང་འགྱུར་ཐིག་ལེ་** (stong 'gyur thig le): Empty-transforming bindus (6)
+
+**Affliction-path channels:**
+- **བད་ཀན་སེམས་ཀྱི་རྩ་** (bad kan sems kyi rtsa): Phlegm-mind channels (4)
+- **གཏི་མུག་མཁྲིས་པའི་རྩ་** (gti mug mkhris pa'i rtsa): Ignorance-gall channels (4)
+- **ཞེ་སྡང་རླུང་གི་རྩ་** (zhe sdang rlung gi rtsa): Anger-wind channels (4)
+- **འདོད་ཆགས་ས་ཡི་རྩ་** ('dod chags sa yi rtsa): Desire-earth channels (2)
+
+### [CONTEXT]
+**Five poisons as five elements:**
+The correlation of afflictions with elements:
+- Phlegm (bad kan) → Earth
+- Gall (mkhris pa) → Fire
+- Wind (rlung) → Wind
+- Desire ('dod chags) → Earth
+- Ignorance (gti mug) → Space
+
+This reflects **humoral medicine** integrated with affliction theory.
+
+**Wisdom-potency training:**
+Lines 14883, 14885, 14889 specify **rtsal sbyong** (potency-training):
+- Empty potency (stong pa'i rtsal)
+- Self-potency of awareness (rig pa'i rang rtsal)
+- Wisdom potency (ye shes rtsal)
+
+This is **Dzogchen** emphasis on **innate capacity development** rather than acquired skill.
+
+### [CONCEPT]
+**Throat as wisdom-laboratory:**
+The throat cakra **trains potencies** (rtsal sbyong):
+- Upward: Empty potency (ultimate truth)
+- Pervading: Awareness potency (recognition)
+- Right: Wisdom potency (five wisdoms)
+
+This is **vocal wisdom-production** - speech becomes wisdom through channel training.
+
+**Afflictions as channels:**
+The specification of **affliction-specific channels** (14 channels for five poisons) presents **emotions as somatically embedded**. Each affliction has dedicated physiological infrastructure.
+
+**Karma as power-production:**
+Left-going channels "produce karma power" (las kyi stobs ni skyed par byed). This presents **karma as energetic** - it is generated through specific channel flows and can be redirected through practice.
+
+---
+
+## Summary: Pages 341-360
+
+This section of the Treasury of the Supreme Vehicle presents:
+
+1. **Three-channel system** (ro ma, rkyang ma, kun 'dar ma) as the foundation of subtle body physiology, with gendered placement, functional differentiation, and soteriological capacity.
+
+2. **Five constitutional types** (rigs can lnga) for females, correlating channel morphology with sexual response, disease susceptibility, and spiritual capacity.
+
+3. **Purification and symbolic correspondences** mapping the three channels onto body/speech/mind, three kāyas, and liberation of grasping at object/subject/both.
+
+4. **Four-cakra system** (navel, heart, throat, crown) with elemental correlations (water, fire, wind, space) and kāya correspondences (nirmāṇa, dharma, saṃbhoga, mahāsukha).
+
+5. **Numerical taxonomies** of channels in each cakra: navel (64/72,000), heart (32/2,432), throat (16/340), establishing the quantitative complexity of subtle body physiology.
+
+6. **Therapeutic applications** integrating blood-letting, cauterization, and seed-syllable recitation for channel-based medicine, attributed to Vimalamitra.
+
+7. **Channel manipulations** (grasping, pressing, twisting, opening) as technologies for wind and bindu regulation, forming the basis for completion stage practice.
+
+8. **Dzogchen integration** emphasizing recognition over transformation, with kun 'dar ma indicating "great perfection spontaneously present basis without modification."
+
+**Key doctrinal positions:**
+- The body is already the maṇḍala of enlightenment with innate three-kāya structure
+- Channels are not merely physiological but soteriological infrastructure
+- Gendered embodiment has specific spiritual implications and capacities
+- Five poisons and five wisdoms have precise channel correlates
+- Liberation occurs through recognition of channel-dharmatā rather than channel transformation
+- Subtle body practice integrates medical therapeutics with mantric phonology
+- The four cakras provide elemental basis for both ordinary existence and spiritual realization
+- Elemental winds and bindus form the energetic economy of embodiment and enlightenment
