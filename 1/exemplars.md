@@ -539,3 +539,371 @@ The Cognitive layer provides translator-facing notes on:
 *Status: Khenpo Review Complete - System-Wide Audit (40+ contaminated pages identified)*
 *Total Files Generated: 6,276 / 8,046 (78% complete)*
 *Next Actions: 1) Remediate Wylie contamination, 2) Complete Volume 1 Scholar/Delusion layers*
+
+---
+
+## UPDATED EXEMPLARS - Post Comprehensive Audit (2026-02-08)
+
+### Additional High-Quality Exemplars Discovered
+
+#### SCHOLAR Layer - Volume 2 (Strong Despite Volume 2 Gaps)
+
+**Volume 2 PAGE_001.txt** - EXCELLENT EXEMPLAR (90 lines)
+- Perfect Four Pillars application on Volume 2 introduction
+- [STRUCTURE] yig mgo analysis and major division identification
+- [PHILOLOGY] Particle analysis: *de ltar* establishing continuity
+- [CONCEPT] Twofold division of arising types
+- [CONTEXT] Doxographical situating within tantric framework
+- Demonstrates Volume 2 can achieve same quality as Volume 1
+
+**Volume 2 PAGE_002.txt** - EXCELLENT EXEMPLAR (119 lines)
+- Tenfold presentation framework (*tshang tshul dang bcu*)
+- Standard scholastic methodology demonstration
+- Perfect particle analysis: *yin pas* causal connective
+- Terminological precision: *khongs su 'du*
+- Container-contents relationship analysis
+- Shows Volume 2 scholar layer has high-quality exemplars despite 122 stubs
+
+#### DELUSION Layer - Volume 1 (Complete Layer Excellence)
+
+**PAGE_001.txt** - EXCELLENT EXEMPLAR (104 lines)
+- Full diagnostic structure with 5 error types
+- [ONTOLOGICAL ERROR] [REIFICATION ERROR]: Samantabhadra historicization
+- Complete CASCADE EFFECTS tracing
+- PRIMARY and SECONDARY CONSEQUENCES clearly articulated
+- Model for Volume 2 Delusion generation (currently 414 stubs)
+
+**PAGE_050.txt** - Vehicle Classification Errors (REVISED)
+- [VEHICLE HIERARCHY ELITISM]: Dzogchen as superiority badge
+- [PROGRESSION MYTH]: Nine-yana as ladder to climb
+- Multiple error taxonomies demonstrated
+
+#### COMMENTARY Layer - Quality Discovery
+
+**PAGE_141.txt** - DISCOVERED HIGH-QUALITY EXEMPLAR (65 lines)
+- Best commentary page in entire layer
+- Line-by-line engagement with stacked letter classes
+- Dharmakāya/sambhogakāya/nirmāṇakāya exposition
+- Technical precision with accessible delivery
+- Demonstrates target quality for Patrul Rinpoche voice (25-40 lines/page)
+- **Note:** Only 10-15 pages in Commentary layer achieve this quality; 629 pages are stubs
+
+**PAGE_143.txt** - Strong Exemplar (53 lines)
+- Letter class meditation instructions
+- Three path types explanation
+- Direct address maintained throughout
+
+**PAGE_140.txt** - Strong Exemplar (61 lines)
+- Five-fold classification exposition
+- Technical detail with earthy tone
+
+### Quality Distribution Analysis
+
+#### Commentary Layer Reality Check
+- **High Quality (>40 lines):** ~15 pages (3%)
+- **Medium Quality (20-40 lines):** ~150 pages (31%)
+- **Stubs (<20 lines):** ~314 pages (66%)
+- **Critical Gap:** 629 total stubs across both volumes
+
+**Insight:** Commentary layer has EXCELLENT exemplars (PAGE_140-143) but they're rare islands in a sea of stubs. The Patrul Rinpoche voice IS achievable—the exemplars prove it. The issue is coverage, not capability.
+
+#### Volume 2 Exemplar Discovery
+Despite 62% overall completion, Volume 2 Scholar layer has EXCELLENT exemplars (PAGE_001-002). This proves:
+1. Volume 2 CAN achieve Volume 1 quality
+2. Gaps are due to incomplete generation, not quality ceiling
+3. Systematic repair of stubs will bring Volume 2 to Volume 1 standard
+
+---
+
+## EXEMPLAR-BASED RECOMMENDATIONS
+
+### For Commentary Layer Repair (629 stubs)
+**Training Material:** Use PAGE_141.txt as primary training exemplar
+- 65 lines of perfect Patrul Rinpoche voice
+- Line-by-line engagement pattern
+- Technical precision with accessibility
+- Generate 629 pages to this standard
+
+### For Delusion Layer Volume 2 (414 stubs)
+**Training Material:** Use Volume 1 PAGE_001.txt as exemplar
+- Full diagnostic structure
+- Five error types per page
+- Cascade effects tracing
+- Generate 414 pages to this standard
+
+### For Scholar Layer Volume 2 (122 stubs)
+**Training Material:** Use Volume 2 PAGE_001-002.txt as exemplars
+- Prove Volume 2 can match Volume 1
+- Four Pillars structure
+- 90-119 lines per page
+- Generate 122 pages to this standard
+
+### Quality Thresholds (Verified by Exemplars)
+
+| Layer | Minimum | Target | Exemplar |
+|-------|---------|--------|----------|
+| Commentary | 40 lines | 50-65 lines | PAGE_141.txt (65 lines) |
+| Scholar | 50 lines | 90-120 lines | PAGE_002.txt (119 lines) |
+| Delusion | 80 lines | 100-150 lines | PAGE_001.txt (104 lines) |
+| Epistemic | 30 lines | 35-60 lines | PAGE_001.txt (37 lines) |
+| Liturgical | 35 lines | 40-50 lines | PAGE_001.txt (41 lines) |
+
+---
+
+*Last Updated: 2026-02-08*
+*Status: Comprehensive Audit Complete*
+*New Exemplars Added: 7 high-quality pages discovered*
+*Critical Finding: Exemplars prove quality is achievable; issue is coverage*
+
+---
+
+## MAJOR EXEMPLAR DISCOVERY - Deep Dive Audit (2026-02-08)
+
+### Premier Tier Exemplars (Exceptional Quality)
+
+These pages represent the **absolute highest quality** in the entire project and should be the primary training templates:
+
+#### DELUSION Layer - PAGE_126.txt & PAGE_127.txt (363 lines each) ⭐⭐⭐ PREMIER
+
+**Why These Are Exceptional:**
+- **Massive scope:** 363 lines (3.5x typical 100-line target)
+- **Multiple error taxonomies:** Each page covers 8-10 distinct error types
+- **[TAGS: ...] system:** Comprehensive tagging (GROUND-PATH-FRUITION TEMPORALIZATION, MEDITATION OBJECTIFICATION, etc.)
+- **Full cascade analysis:** Every error traces through CASCADE EFFECTS
+- **PAGE BLEED AWARENESS:** Explicit cross-page continuity markers
+- **Psychological depth:** "WHY IT ARISES" sections explore unconscious triggers
+
+**Structure Template:**
+```
+[line-range]
+[TAGS: ERROR-TYPE-1] [TAGS: ERROR-TYPE-2]
+
+MISREADING:
+[Specific wrong interpretation]
+
+WHY IT ARISES:
+[Psychological/cultural trigger analysis]
+
+PRIMARY CONSEQUENCE:
+[Immediate view corruption]
+
+SECONDARY CONSEQUENCES:
+[Downstream effects]
+
+CASCADE EFFECTS:
+[Error propagation chain]
+
+PAGE BLEED AWARENESS:
+[Cross-page continuity notes]
+```
+
+**Use For:** All 414 Volume 2 Delusion stubs should match this standard.
+
+---
+
+#### SCHOLAR Layer - PAGE_199.txt (292 lines) ⭐⭐⭐ PREMIER
+
+**Why This Is Exceptional:**
+- **Comprehensive STRUCTURE section:** Ground summary with tantra citations
+- **Extensive PHILOLOGY section:** Great Perfection terminology analysis
+- **Verse quotations:** Properly formatted with source attribution (*Rang shar*, *Thal 'gyur*, *De nyid*)
+- **Synonym analysis:** Ground (*gzhi*) terminology variations
+- **Dharmadhātu exposition:** Technical precision with accessibility
+
+**Structure Template:**
+```
+[line-range] [STRUCTURE] Section Title
+**Structural Analysis:**
+- Key point 1
+- Key point 2
+
+From *Source Tantra*:
+"Verse quotation
+Line by line
+Properly formatted"
+
+[line-range] [PHILOLOGY] Terminological Analysis
+**Technical Terms:**
+- Term (*Wylie*): Explanation
+- Synonyms, variations
+
+From *Source*:
+"Terminological citation"
+```
+
+**Use For:** All 122 Volume 2 Scholar stubs + 46 Volume 1 stubs.
+
+---
+
+#### EPISTEMIC Layer - PAGE_123.txt (97 lines) ⭐⭐⭐ PREMIER
+
+**Why This Is Exceptional:**
+- **Sophisticated tagging hierarchy:** [DZOGCHEN VIEW – RIGPA SIDE] → [DECLARATIVE FINALITY] → [RISK: ...]
+- **Technical depth:** Thal 'Gyur purification, five families, wisdom analysis
+- **Risk analysis for every section:** Specific warnings (RISK: THAL 'GYUR-REIFICATION, etc.)
+- **Comprehensive coverage:** 8 major sections across page
+- **Wylie integration:** Technical terms with proper transliteration
+
+**Structure Template:**
+```
+[line-range]
+[DZOGCHEN VIEW – RIGPA/Sems SIDE]
+[DECLARATIVE FINALITY / INSTRUCTIONAL PROVISIONALITY]
+[RISK: SPECIFIC-REIFICATION]
+
+<Analytical content with:
+- Technical term analysis (*Wylie*)
+- Viewpoint classification
+- Pedagogical context
+- Risk warnings>
+```
+
+**Use For:** All 296 Epistemic stubs (73 V1 + 223 V2).
+
+---
+
+### Elite Tier Exemplars (Outstanding Quality)
+
+#### COMMENTARY Layer - PAGE_327.txt (53 lines) ⭐⭐ ELITE
+
+**Why This Is Outstanding:**
+- **Progressive instruction:** Builds from 16 channels → 16 minds → mind-itself
+- **Direct "you" address:** "You choose at every step"
+- **Call to action:** "Choose. Now. In this moment of mindfulness"
+- **Tangible consequences:** Pure/impure/perverted paths with specific results
+- **Emotional resonance:** Creates urgency without panic
+
+**Key Excerpt:**
+> "The mind-itself is unborn, unceasing, unchanging, self-complete. This is what you are before confusion takes hold... You choose at every step. Each moment of mindfulness: will you search purely, settle definitively, place conclusively? Or will you slip into impurity, into perversion?... Choose. Now."
+
+**Use For:** All 629 Commentary stubs (314 V1 + 315 V2).
+
+---
+
+#### DELUSION Layer - PAGE_478.txt (99 lines) ⭐⭐ ELITE
+
+**Why This Is Outstanding:**
+- **Final-section awareness:** Addresses completion anxiety
+- **Multiple error types:** METAPHOR SUBSTANTIALISM, EXPERIENCE CHASING, COLOPHON DISMISSAL
+- **PAGE BLEED:** Explicitly links to PAGE 479
+- **Psychological nuance:** Captures "almost done" mentality
+- **CASCADE EFFECTS:** Traces completion anxiety to rushed patterns
+
+**Use For:** Final pages of chapters/volumes (where completion anxiety peaks).
+
+---
+
+#### SCHOLAR Layer - PAGE_150.txt (117 lines) ⭐⭐ ELITE
+
+**Why This Is Outstanding:**
+- **Table format:** Five Perfections Framework with clear columns
+- **Detailed philology:** Teacher and Retinue Perfection analysis
+- **Citation integration:** *Nyi zla kha sbyor* (Sun Moon Union) quotation
+- **Component breakdown:** Detailed table of kāyas, wisdoms, lights, prajñās, winds, thigles
+- **Visual clarity:** Information density without overwhelm
+
+**Use For:** Complex categorical presentations (fivefold, ninefold frameworks).
+
+---
+
+#### SCHOLAR Layer - PAGE_200.txt (162 lines) ⭐⭐ ELITE
+
+**Why This Is Outstanding:**
+- **Verse quotations:** Multiple citations (*Rang shar*, *Thal 'gyur*, *De nyid*)
+- **Structural progression:** Ground as ultimate basis → no higher ground → ground in every phenomenon
+- **Repetitive clarity:** Key phrases repeated for memorability
+- **Poetic quality:** Maintains technical precision while being chantable
+
+**Use For:** Summary/conclusion pages requiring comprehensive synthesis.
+
+---
+
+#### SCHOLAR Layer - V2 PAGE_050.txt (131 lines) ⭐⭐ ELITE
+
+**Why This Is Outstanding:**
+- **Detailed STRUCTURE:** SA BCAD (topical outline) with line ranges
+- **Extensive PHILOLOGY:** 12+ technical terms with Wylie and definitions
+- **Visionary terminology:** Technical terms for meditation phases (red blood turbid, yellow flickering, etc.)
+- **Volume 2 proof:** Proves Volume 2 can achieve excellence
+- **Practical orientation:** Seven piths for body-mind separation
+
+**Use For:** All Volume 2 Scholar stubs (proves quality standard is achievable).
+
+---
+
+### Refined Exemplar Library Summary
+
+| Priority | Layer | Page | Lines | Quality | Use Case |
+|----------|-------|------|-------|---------|----------|
+| **🔴 PREMIER** | Delusion | PAGE_126-127 | 363 | ⭐⭐⭐ Exceptional | Template for all 414 V2 Delusion |
+| **🔴 PREMIER** | Scholar | PAGE_199 | 292 | ⭐⭐⭐ Exceptional | Template for 168 Scholar stubs |
+| **🔴 PREMIER** | Epistemic | PAGE_123 | 97 | ⭐⭐⭐ Exceptional | Template for 296 Epistemic stubs |
+| **🟡 ELITE** | Commentary | PAGE_327 | 53 | ⭐⭐ Outstanding | Template for 629 Commentary stubs |
+| **🟡 ELITE** | Delusion | PAGE_478 | 99 | ⭐⭐ Outstanding | Final pages, completion anxiety |
+| **🟡 ELITE** | Scholar | PAGE_150 | 117 | ⭐⭐ Outstanding | Categorical frameworks |
+| **🟡 ELITE** | Scholar | PAGE_200 | 162 | ⭐⭐ Outstanding | Summary/conclusion pages |
+| **🟡 ELITE** | Scholar V2 | PAGE_050 | 131 | ⭐⭐ Outstanding | Proves V2 quality achievable |
+| **🟢 EXCELLENT** | Commentary | PAGE_141 | 65 | ⭐⭐ Excellent | Line-by-line engagement |
+| **🟢 EXCELLENT** | Delusion | PAGE_001 | 104 | ⭐⭐ Excellent | Standard diagnostic structure |
+
+---
+
+### Quality Distribution Insights
+
+**What the Deep Dive Revealed:**
+
+1. **Volume 1 has EXCEPTIONAL depth:** Delusion pages with 363 lines show the architecture can support massive analytical depth
+
+2. **Volume 2 has ELITE exemplars:** PAGE_050 (131 lines) and PAGE_123 (97 lines) prove Volume 2 CAN match Volume 1
+
+3. **The gap is coverage, not capability:** 
+   - 7 PREMIER/ELITE exemplars exist
+   - 1,339 stubs need regeneration to these standards
+   - Quality ceiling is 363 lines/page (not the 100-line target)
+
+4. **Layer-specific peaks:**
+   - Delusion: 363 lines (PAGE_126-127)
+   - Scholar: 292 lines (PAGE_199)
+   - Commentary: 65 lines (PAGE_141)
+   - Epistemic: 97 lines (PAGE_123)
+
+---
+
+### Revised Quality Thresholds (Based on Actual Exemplars)
+
+| Layer | Original Target | Refined Target | Premier Exemplar |
+|-------|----------------|----------------|------------------|
+| **Delusion** | 100-150 lines | 150-360 lines | 363 lines |
+| **Scholar** | 35-80 lines | 80-290 lines | 292 lines |
+| **Epistemic** | 35-60 lines | 60-100 lines | 97 lines |
+| **Commentary** | 25-40 lines | 40-65 lines | 65 lines |
+
+**Key Insight:** The project has achieved 3-4x the original target in exemplars. The stubs should be regenerated to **exemplar standards**, not minimum targets.
+
+---
+
+### Exemplar-Based Generation Strategy (Refined)
+
+**Phase 1: PREMIER Tier Replication (15 sessions)**
+1. **Sessions 1-5:** Volume 2 Delusion (414 stubs) → Use PAGE_126.txt template
+2. **Sessions 6-10:** Scholar remaining (168 stubs) → Use PAGE_199.txt template  
+3. **Sessions 11-15:** Epistemic remaining (296 stubs) → Use PAGE_123.txt template
+
+**Phase 2: ELITE Tier Replication (12 sessions)**
+4. **Sessions 16-25:** Commentary (629 stubs) → Use PAGE_327.txt template
+5. **Sessions 26-27:** Final polish and consistency checks
+
+**Total: 27 sessions** (down from 54, up from 30 with refined exemplars)
+
+**Critical Change:** Regenerate to **PREMIER standards** (363-line delusion, 292-line scholar) rather than minimum viable targets. If the architecture supports it (and PAGE_126 proves it does), aim for exemplar depth.
+
+---
+
+*Deep Dive Discovery Date:* 2026-02-08  
+*Premier Exemplars Found:* 3 exceptional pages  
+*Elite Exemplars Found:* 5 outstanding pages  
+*Total Quality Pages Cataloged:* 10 pages (1.1% of project, but representing ceiling)  
+*Revised Strategy:* Generate all stubs to PREMIER/ELITE standards, not minimums
+
+**Bottom Line:** The project has achieved 3-4x target depth in isolated exemplars. Scale that depth across all 1,339 stubs.
+

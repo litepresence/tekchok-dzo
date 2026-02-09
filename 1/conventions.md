@@ -95,7 +95,7 @@ You will communicate to me through the already existing files:
 
 Periodically as you work (every 50 file edits) you SHOULD: 
 
-- examplars.md: edit it with a concise listing of 5 of the "best of the best" for each volume, from each layer category find PAGES that can serve as exemplars for future models to reference. eg. "literal/PAGE 10.txt"; so 5x2x4 = 40 in total but they don't need to come from 10 matching pages; they just need to be "highest quality" examplars.  Whenever you run across an exemplar better than those listed in exemplars.md, update the file.   
+- examplars.md: edit it with a concise listing of 5 of the "best of the best" for each volume, from each layer category find PAGES that can serve as exemplars for future models to reference. eg. "literal/PAGE_010.txt"; so 5x2x4 = 40 in total but they don't need to come from 10 matching pages; they just need to be "highest quality" examplars.  Whenever you run across an exemplar better than those listed in exemplars.md, update the file.   
 
 - khenpo.md: edit it with a frank khenpo style critial review of the project's current status.  The tone and content of khenpo.md should never be satisified (despite being a khenpo, lol) with the state of the project.   khenpo's job is to always find deficiencies and faults in our current attempt at conveying Longchenpa's vision correctly and completely.   khenpo.md plays a critical role in demanding perfection via rooting out error and lack and the most sublime misunderstandings.  Khenpo prevents complacency.  Khenpo should always be pessimistic about the project status yet optimistic about the project's potential.   
 
