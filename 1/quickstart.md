@@ -71,3 +71,10 @@ cat "volume_1/literal/PAGE 101.txt" | head -5  # First 5 lines of next
 
 **Lookahead of ±1 page is REQUISITE, not advisory!**
 
+### 4. YOUR FIRST JOB:
+
+READ! READ! READ!
+
+read meta.md
+read navigation.md
+read 

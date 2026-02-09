@@ -1,0 +1,1785 @@
+{
+  "metadata": {
+    "work_title_tibetan": "ཐེག་པའི་མཆོག་རིན་པོ་ཆེའི་མཛོད་ཀྱི་འགྲེལ་པ།",
+    "work_title_english": "Treasury of the Supreme Vehicle: Autocommentary",
+    "author": "Longchen Rabjampa (1308-1364)",
+    "total_chapters": 19,
+    "total_pages": 894,
+    "boundary_version": "2.1.0",
+    "created_date": "2026-02-08"
+  },
+  "volumes": [
+    {
+      "volume_number": 1,
+      "volume_title": "The Ground and Preliminaries",
+      "tibetan_title": "གཞི་དང་སྔོན་འགྲོ།",
+      "total_pages": 479,
+      "parts": [
+        {
+          "part_number": 1,
+          "part_title": "Introduction and Orientation",
+          "tibetan_title": "མགོ་དང་ཕྱོགས་སྒྲིག",
+          "chapters": [
+            1,
+            2
+          ]
+        },
+        {
+          "part_number": 2,
+          "part_title": "The Ground",
+          "tibetan_title": "གཞི།",
+          "chapters": [
+            3,
+            4
+          ]
+        },
+        {
+          "part_number": 3,
+          "part_title": "The Path",
+          "tibetan_title": "ལམ།",
+          "chapters": [
+            5,
+            6
+          ]
+        },
+        {
+          "part_number": 4,
+          "part_title": "Empowerment and Samaya",
+          "tibetan_title": "དབང་དང་དམ་ཚིག",
+          "chapters": [
+            7,
+            8
+          ]
+        },
+        {
+          "part_number": 5,
+          "part_title": "Capacities and Grounds",
+          "tibetan_title": "སྐལ་བ་དང་ས།",
+          "chapters": [
+            9
+          ]
+        },
+        {
+          "part_number": 6,
+          "part_title": "Doctrinal Sets",
+          "tibetan_title": "ཆོས་སྡེ།",
+          "chapters": [
+            10
+          ]
+        },
+        {
+          "part_number": 7,
+          "part_title": "Subtle Body and Four Lamps",
+          "tibetan_title": "རྩ་རླུང་ཐིག་ལེ་དང་སྒྲོན་མ་བཞི།",
+          "chapters": [
+            11,
+            12
+          ]
+        },
+        {
+          "part_number": 8,
+          "part_title": "Supported Knowledge",
+          "tibetan_title": "རྟེན་ཅིང་འབྲེལ་བར་འབྱུང་བ།",
+          "chapters": [
+            13
+          ]
+        }
+      ],
+      "chapters": [
+        {
+          "chapter_number": 1,
+          "volume": 1,
+          "title_tibetan": "མགོ་དང་ཐོག་མར་མཆོད་བརྗོད་དང་གླེང་གཞི།",
+          "title_english": "Title, Homage, and Preamble",
+          "pages": {
+            "start": 1,
+            "end": 6
+          },
+          "sections": [
+            {
+              "section_id": "01",
+              "title_tibetan": "མགོ་དང་ཐོག་མར་མཆོད་བརྗོད་དང་གླེང་གཞི།",
+              "title_english": "Title, Homage, and Preamble",
+              "pages": {
+                "start": 1,
+                "end": 6
+              },
+              "verified": true,
+              "boundary_start": {
+                "page": 1,
+                "line": 1,
+                "phrase_tibetan": "༄༅།"
+              }
+            }
+          ]
+        },
+        {
+          "chapter_number": 2,
+          "volume": 1,
+          "title_tibetan": "ཐེག་པའི་དོན་རྣམ་པར་བཤད་པ།",
+          "title_english": "Explanation of the Vehicle's Meaning",
+          "pages": {
+            "start": 7,
+            "end": 58
+          },
+          "sections": [
+            {
+              "section_id": "A",
+              "title_tibetan": "ཐེག་པའི་དོན་སྤྱིར་བསྟན་པ།",
+              "title_english": "General meaning of vehicle",
+              "pages": {
+                "start": 7,
+                "end": 15
+              },
+              "verified": true,
+              "boundary_start": {
+                "page": 7,
+                "line": 192,
+                "phrase_tibetan": "ཡབ་སྲས་མཇལ་བ་ལས།"
+              }
+            },
+            {
+              "section_id": "B",
+              "title_tibetan": "ཐེག་མཆོག་གི་དོན་བྱེ་བྲག་ཏུ་བཤད་པ།",
+              "title_english": "Specific meaning of Supreme Vehicle",
+              "pages": {
+                "start": 16,
+                "end": 25
+              },
+              "verified": true,
+              "boundary_start": {
+                "page": 16,
+                "line": 461,
+                "phrase_tibetan": "ཚེ་ལོ་ཁྲི་པའི་དུས་སུ་གསུངས་སོ།"
+              }
+            },
+            {
+              "section_id": "C",
+              "title_tibetan": "ཐེག་པ་དགུ།",
+              "title_english": "Hierarchy of nine vehicles",
+              "pages": {
+                "start": 26,
+                "end": 38
+              },
+              "verified": true,
+              "boundary_start": {
+                "page": 26,
+                "line": 916,
+                "phrase_tibetan": "རགས་པ་ཙམ་ཞིག་བསྡུ་ན།"
+              }
+            },
+            {
+              "section_id": "D",
+              "title_tibetan": "ཐེག་པ་ཐ་མལ་པ་རྣམས་དང་ཁྱད་པར།",
+              "title_english": "Distinction from lower vehicles",
+              "pages": {
+                "start": 39,
+                "end": 46
+              },
+              "verified": true,
+              "boundary_start": {
+                "page": 39,
+                "line": 1293,
+                "phrase_tibetan": "ཚེ་སུམ་ཅུ་རྩ་གསུམ་པ་བཞིན་ནོ།"
+              }
+            },
+            {
+              "section_id": "E",
+              "title_tibetan": "རྫོགས་པ་ཆེན་པོ།",
+              "title_english": "Atiyoga as pinnacle",
+              "pages": {
+                "start": 47,
+                "end": 52
+              },
+              "verified": true,
+              "boundary_start": {
+                "page": 47,
+                "line": 1513,
+                "phrase_tibetan": "དེ་ནས་རྒྱལ་ཆེན་བཞི་ནས་ཚངས་ཆེན་གྱི་བར་དུ་དེ་བཞིན་ནོ།"
+              }
+            },
+            {
+              "section_id": "F",
+              "title_tibetan": "སེམས་སྡེ། ཀློང་སྡེ། མན་ངག་སྡེ།",
+              "title_english": "Three sections of Atiyoga",
+              "pages": {
+                "start": 53,
+                "end": 58
+              },
+              "verified": true,
+              "boundary_start": {
+                "page": 53,
+                "line": 1704,
+                "phrase_tibetan": "དྲི་མ་རྣམས་མངོན་དུ་དག་པའི་ཕྱིར་ཚུལ་ཁྲིམས་ཀྱི་ཕུང་པོ་དང༌།"
+              }
+            }
+          ]
+        },
+        {
+          "chapter_number": 3,
+          "volume": 1,
+          "title_tibetan": "གཞིའི་གནས་ལུགས་རྣམ་པར་བཤད་པ།",
+          "title_english": "Explanation of the Ground's Mode of Abiding",
+          "pages": {
+            "start": 59,
+            "end": 118
+          },
+          "sections": [
+            {
+              "section_id": "A",
+              "title_tibetan": "ངོ་བོ་ཀ་དག",
+              "title_english": "Essence: Primordial Purity",
+              "pages": {
+                "start": 59,
+                "end": 78
+              },
+              "verified": true,
+              "boundary_start": {
+                "page": 59,
+                "line": 1944,
+                "phrase_tibetan": "རྒྱང་འཕན་པ་སྟེ།"
+              }
+            },
+            {
+              "section_id": "B",
+              "title_tibetan": "རང་བཞིན་ལྷུན་གྲུབ།",
+              "title_english": "Nature: Spontaneous Presence",
+              "pages": {
+                "start": 79,
+                "end": 96
+              },
+              "verified": true,
+              "boundary_start": {
+                "page": 79,
+                "line": 2903,
+                "phrase_tibetan": "མི་སློབ་པའི་ལམ་མངོན་དུ་བྱེད་པའོ།"
+              }
+            },
+            {
+              "section_id": "C",
+              "title_tibetan": "ཐུགས་རྗེ་མ་འགགས་པ།",
+              "title_english": "Compassion: Unceasing Display",
+              "pages": {
+                "start": 97,
+                "end": 108
+              },
+              "verified": true,
+              "boundary_start": {
+                "page": 97,
+                "line": 3597,
+                "phrase_tibetan": "ཨ་ཏི་བཀོད་པ་ཆེན་པོ་ལས།"
+              }
+            },
+            {
+              "section_id": "D",
+              "title_tibetan": "དབྱེར་མེད།",
+              "title_english": "Unity and non-duality",
+              "pages": {
+                "start": 109,
+                "end": 118
+              },
+              "verified": true,
+              "boundary_start": {
+                "page": 109,
+                "line": 4005,
+                "phrase_tibetan": "རང་བཞིན་ལ་དུ་མ་མེད་པས་ཐ་སྙད་སྤྲོས་པའི་ཚིག་ལས་འདས་པའི་ཆོས་ཉིད"
+              }
+            }
+          ]
+        },
+        {
+          "chapter_number": 4,
+          "volume": 1,
+          "title_tibetan": "གཞི་སྣང་འཆར་ཚུལ་རྣམ་པར་བཤད་པ།",
+          "title_english": "Explanation of How Ground-Appearance Arises",
+          "pages": {
+            "start": 119,
+            "end": 196
+          },
+          "sections": [
+            {
+              "section_id": "A-i",
+              "section_title_tibetan": "འོད་ལྔ་དང་རང་གདངས།",
+              "section_title_english": "Five lights and self-radiance",
+              "original_section": "A",
+              "pages": {
+                "start": 119,
+                "end": 132
+              },
+              "verified": true,
+              "boundary_start": {
+                "page": 119,
+                "line": 4417,
+                "phrase_tibetan": "སངས་རྒྱས་རྣམས་ཀྱི་བཅུད་བསྡུས་ནས།"
+              }
+            },
+            {
+              "section_id": "A-ii",
+              "section_title_tibetan": "རིན་པོ་ཆེའི་གའུ་དང་སྣང་བ་རྫོགས་པ།",
+              "section_title_english": "Jewel-box and display completion",
+              "original_section": "A",
+              "pages": {
+                "start": 133,
+                "end": 144
+              },
+              "verified": true,
+              "boundary_start": {
+                "page": 133,
+                "line": 5035,
+                "phrase_tibetan": "དྲན་པ་གསལ་ཞིང་ཤེས་རབ་ཆེ་བ་དང༌།"
+              }
+            },
+            {
+              "section_id": "B",
+              "title_tibetan": "ཀུན་ཏུ་བཟང་པོ་སངས་རྒྱས་པ།",
+              "title_english": "Liberation-mode of Samantabhadra",
+              "pages": {
+                "start": 145,
+                "end": 166
+              },
+              "verified": true,
+              "boundary_start": {
+                "page": 145,
+                "line": 5585,
+                "phrase_tibetan": "བརྩེགས་ཡིག་༧།"
+              }
+            },
+            {
+              "section_id": "C-i",
+              "section_title_tibetan": "མ་རིག་པ་གསུམ།",
+              "section_title_english": "Three non-recognitions",
+              "original_section": "C",
+              "pages": {
+                "start": 167,
+                "end": 180
+              },
+              "doctrinal_focus": [
+                "causal non-recognition",
+                "simultaneously-arisen",
+                "imputed non-recognition"
+              ],
+              "verified": true,
+              "boundary_start": {
+                "page": 167,
+                "line": 6630,
+                "phrase_tibetan": "དམ་པ་འདི་ཡིན་ཏེ་སྨེ་བ་ཨའི་མཚན་མ་ཅན་ཤངས་ཀྱི་རྩེར་ལྡན་པ་དང༌།"
+              }
+            },
+            {
+              "section_id": "C-ii",
+              "section_title_tibetan": "རྐྱེན་བཞི།",
+              "section_title_english": "Four conditions",
+              "original_section": "C",
+              "pages": {
+                "start": 181,
+                "end": 190
+              },
+              "doctrinal_focus": [
+                "four conditions",
+                "rkyen bzhi"
+              ],
+              "verified": true,
+              "boundary_start": {
+                "page": 181,
+                "line": 7314,
+                "phrase_tibetan": "།འདི་དུས་ལུས་གནད་མཁས་པ་དང༌།"
+              }
+            },
+            {
+              "section_id": "C-iii",
+              "section_title_tibetan": "རྟེན་འབྲེལ་བཅུ་གཉིས།",
+              "section_title_english": "Twelve links of dependent origination",
+              "original_section": "C",
+              "pages": {
+                "start": 191,
+                "end": 196
+              },
+              "doctrinal_focus": [
+                "twelve links",
+                "dependent origination"
+              ],
+              "verified": true,
+              "boundary_start": {
+                "page": 191,
+                "line": 7893,
+                "phrase_tibetan": "སྔོན་དུ་བསྙེན་པ་དང༌།"
+              }
+            }
+          ]
+        },
+        {
+          "chapter_number": 5,
+          "volume": 1,
+          "title_tibetan": "ལམ་ལ་འཇུག་ཚུལ་རྣམ་པར་བཤད་པ།",
+          "title_english": "Explanation of Entry into the Path",
+          "pages": {
+            "start": 197,
+            "end": 258
+          },
+          "sections": [
+            {
+              "section_id": "A",
+              "title_tibetan": "དད་པ་དང་སྐལ་ལྡན།",
+              "title_english": "Faith and suitable recipients",
+              "pages": {
+                "start": 197,
+                "end": 214
+              },
+              "verified": true,
+              "boundary_start": {
+                "page": 197,
+                "line": 8144,
+                "phrase_tibetan": "དེང་སང་ཡང་ཕྱག་ལེན་དུ་མཛད་ལ།"
+              }
+            },
+            {
+              "section_id": "B",
+              "title_tibetan": "བླ་མའི་བྱ་བ།",
+              "title_english": "Role of the master",
+              "pages": {
+                "start": 215,
+                "end": 232
+              },
+              "verified": true,
+              "boundary_start": {
+                "page": 215,
+                "line": 8824,
+                "phrase_tibetan": "དབང་བཞི་འཇུག་པའི་དུས་ཀྱི་སྨིན་སོ་སྣང་བ་མ་དག་པ་དང་དག་པ་གཉིས་ཀ"
+              }
+            },
+            {
+              "section_id": "C-i",
+              "section_title_tibetan": "ངོ་སྤྲོད་ཀྱི་ཚུལ་བདུན།",
+              "section_title_english": "Seven modes of pointing-out",
+              "original_section": "C",
+              "pages": {
+                "start": 233,
+                "end": 245
+              },
+              "verified": true,
+              "boundary_start": {
+                "page": 233,
+                "line": 9437,
+                "phrase_tibetan": "རྒྱས་པའི་དྲག་པོ་ལུས་ངག་སེམས་ཀྱི་ནུས་པ་རྫོགས་པའོ།"
+              }
+            },
+            {
+              "section_id": "C-ii",
+              "section_title_tibetan": "ངོ་ཤེས་དང་སྒོམ་པ།",
+              "section_title_english": "Recognition vs meditation",
+              "original_section": "C",
+              "pages": {
+                "start": 246,
+                "end": 258
+              },
+              "verified": true,
+              "boundary_start": {
+                "page": 246,
+                "line": 9990,
+                "phrase_tibetan": "དང་པོ་ཕྱིའི་ཕྱི་རྫུན་སྤོང་བ་སྟེ།"
+              }
+            }
+          ]
+        },
+        {
+          "chapter_number": 6,
+          "volume": 1,
+          "title_tibetan": "ལྟ་སགོམ་སྤྱོད་འབྲས་རྣམ་པར་བཤད་པ།",
+          "title_english": "Explanation of View, Meditation, Conduct, and Result",
+          "pages": {
+            "start": 259,
+            "end": 294
+          },
+          "sections": [
+            {
+              "section_id": "A",
+              "title_tibetan": "ལྟ་བ།",
+              "title_english": "View",
+              "pages": {
+                "start": 259,
+                "end": 270
+              },
+              "verified": true,
+              "boundary_start": {
+                "page": 259,
+                "line": 10638,
+                "phrase_tibetan": "རྟོགས་པའི་སྔོན་དུ་རྟོགས་གཞི་ཡོད་ལ།"
+              }
+            },
+            {
+              "section_id": "B",
+              "title_tibetan": "སྒོམ་པ།",
+              "title_english": "Meditation",
+              "pages": {
+                "start": 271,
+                "end": 280
+              },
+              "verified": true,
+              "boundary_start": {
+                "page": 271,
+                "line": 11223,
+                "phrase_tibetan": "།འཁྲུལ་རྟོག་འགགས་པས་ཅིར་མ་མཛད།"
+              }
+            },
+            {
+              "section_id": "C",
+              "title_tibetan": "སྤྱོད་པ།",
+              "title_english": "Conduct",
+              "pages": {
+                "start": 281,
+                "end": 288
+              },
+              "verified": true,
+              "boundary_start": {
+                "page": 281,
+                "line": 11682,
+                "phrase_tibetan": "གདུལ་བྱ་དང་འདུལ་བྱེད་དུ་འབྲེལ་པ་ཡིན་ཏེ།"
+              }
+            },
+            {
+              "section_id": "D",
+              "title_tibetan": "འབྲས་བུ།",
+              "title_english": "Fruition",
+              "pages": {
+                "start": 289,
+                "end": 294
+              },
+              "verified": true,
+              "boundary_start": {
+                "page": 289,
+                "line": 12047,
+                "phrase_tibetan": "ཚོགས་ཆེན་ཡེར་རྫོགས་པ་དང༌།"
+              }
+            }
+          ]
+        },
+        {
+          "chapter_number": 7,
+          "volume": 1,
+          "title_tibetan": "དབང་གི་དོན་རྣམ་པར་བཤད་པ།",
+          "title_english": "Explanation of Empowerment",
+          "pages": {
+            "start": 295,
+            "end": 338
+          },
+          "sections": [
+            {
+              "section_id": "A",
+              "title_tibetan": "དབང་དགོས་པ།",
+              "title_english": "Necessity of empowerment",
+              "pages": {
+                "start": 295,
+                "end": 308
+              },
+              "verified": true,
+              "boundary_start": {
+                "page": 295,
+                "line": 12257,
+                "phrase_tibetan": "སྣང་ཚུལ་དུ་མ་དང་བཅས་པ།"
+              }
+            },
+            {
+              "section_id": "B-i",
+              "section_title_tibetan": "བུམ་དབང་།",
+              "section_title_english": "Vase empowerment",
+              "original_section": "B",
+              "pages": {
+                "start": 309,
+                "end": 316
+              },
+              "verified": true,
+              "boundary_start": {
+                "page": 309,
+                "line": 12799,
+                "phrase_tibetan": "ཡུལ་དག་པར་སྣང་རིག་པའི་ཞིང་ཁམས་ན།"
+              }
+            },
+            {
+              "section_id": "B-ii",
+              "section_title_tibetan": "གསང་དབང་།",
+              "section_title_english": "Secret empowerment",
+              "original_section": "B",
+              "pages": {
+                "start": 317,
+                "end": 324
+              },
+              "verified": true,
+              "boundary_start": {
+                "page": 317,
+                "line": 13133,
+                "phrase_tibetan": "རིགས་ཅན་ལྔའི་ནུས་པས་ཕའི་ཤེས་པ་ཡང་ནང་དུ་འདྲེན་པ་ལྟར་གྱུར་པ་ལས"
+              }
+            },
+            {
+              "section_id": "B-iii",
+              "section_title_tibetan": "ཤེས་རབ་ཡེ་ཤེས་ཀྱི་དབང་།",
+              "section_title_english": "Wisdom-knowledge empowerment",
+              "original_section": "B",
+              "pages": {
+                "start": 325,
+                "end": 332
+              },
+              "verified": true,
+              "boundary_start": {
+                "page": 325,
+                "line": 13357,
+                "phrase_tibetan": "དེ་རེ་རེ་ལ་རྩའི་འདམ་མ་བརྒྱད་བརྒྱད་དེ་སུམ་ཅུ་རྩ་གཉིས་སུ་ལུས་ས"
+              }
+            },
+            {
+              "section_id": "B-iv",
+              "section_title_tibetan": "ཚིག་དབང་།",
+              "section_title_english": "Word empowerment",
+              "original_section": "B",
+              "pages": {
+                "start": 333,
+                "end": 338
+              },
+              "verified": true,
+              "boundary_start": {
+                "page": 333,
+                "line": 13648,
+                "phrase_tibetan": "སྟོང་པ་དང༌།"
+              }
+            }
+          ]
+        },
+        {
+          "chapter_number": 8,
+          "volume": 1,
+          "title_tibetan": "དམ་ཚིག་རྣམ་པར་བཀོད་པ།",
+          "title_english": "Arrangement of Samaya",
+          "pages": {
+            "start": 339,
+            "end": 380
+          },
+          "sections": [
+            {
+              "section_id": "A",
+              "title_tibetan": "རྩ་བའི་དམ་ཚིག",
+              "title_english": "Root samayas",
+              "pages": {
+                "start": 339,
+                "end": 354
+              },
+              "verified": true,
+              "boundary_start": {
+                "page": 339,
+                "line": 13877,
+                "phrase_tibetan": "དབུས་ན་དྲང་པོར་གནས་ཏེ།"
+              }
+            },
+            {
+              "section_id": "B",
+              "title_tibetan": "ཡན་ལག་གི་དམ་ཚིག",
+              "title_english": "Branch samayas",
+              "pages": {
+                "start": 355,
+                "end": 368
+              },
+              "verified": true,
+              "boundary_start": {
+                "page": 355,
+                "line": 14505,
+                "phrase_tibetan": "ཊ་དང་ལ་ནི་རྡོ་རྗེ་སྟེང་འོག་ན།"
+              }
+            },
+            {
+              "section_id": "C",
+              "title_tibetan": "ཉམས་ཆགས་དང་གསོ་བ།",
+              "title_english": "Degeneration and restoration",
+              "pages": {
+                "start": 369,
+                "end": 376
+              },
+              "verified": true,
+              "boundary_start": {
+                "page": 369,
+                "line": 15446,
+                "phrase_tibetan": "རླུང་ལ་ཤིས་པའི་ཁ་ཟས་དང་ཆང་བཟང་པོ་བག་རེ་བསྟེན་ལ།"
+              }
+            },
+            {
+              "section_id": "D",
+              "title_tibetan": "ལྟ་བའི་དམ་ཚིག",
+              "title_english": "Unsurpassed samaya of view",
+              "pages": {
+                "start": 377,
+                "end": 380
+              },
+              "verified": true,
+              "boundary_start": {
+                "page": 377,
+                "line": 15764,
+                "phrase_tibetan": "འཐད་པ་སྤྱིར་དགོད།"
+              }
+            }
+          ]
+        },
+        {
+          "chapter_number": 9,
+          "volume": 1,
+          "title_tibetan": "སྐལ་བ་དང་ས་བཅུ་དྲུག་རྣམ་པར་བཤད་པ།",
+          "title_english": "Capacities and the Sixteen Grounds",
+          "pages": {
+            "start": 381,
+            "end": 420
+          },
+          "sections": [
+            {
+              "section_id": "A",
+              "title_tibetan": "སྐལ་བའི་རིགས།",
+              "title_english": "Types of practitioners",
+              "pages": {
+                "start": 381,
+                "end": 394
+              },
+              "verified": true,
+              "boundary_start": {
+                "page": 381,
+                "line": 15922,
+                "phrase_tibetan": "གསང་སྔགས་ཀྱི་ཉེ་ལམ་ནི་རྩ་ཐིག་རླུང་གསུམ་གནད་བསྟུན་པ་ཡིན་ལ།"
+              }
+            },
+            {
+              "section_id": "B",
+              "title_tibetan": "རྡོ་རྗེ་ཐེག་པའི་ས་བཅུ་དྲུག",
+              "title_english": "Sixteen grounds of Vajra Vehicle",
+              "pages": {
+                "start": 395,
+                "end": 412
+              },
+              "verified": true,
+              "boundary_start": {
+                "page": 395,
+                "line": 16422,
+                "phrase_tibetan": "སྒྲོན་མ་བཞིའི་ཆ་ཡོད་པའོ།"
+              }
+            },
+            {
+              "section_id": "C",
+              "title_tibetan": "སྐལ་བའི་མཚན་ཉིད།",
+              "title_english": "Signs of readiness",
+              "pages": {
+                "start": 413,
+                "end": 420
+              },
+              "verified": true,
+              "boundary_start": {
+                "page": 413,
+                "line": 17361,
+                "phrase_tibetan": "སེམས་ཀྱི་གནས་ཡིན་ལ།"
+              }
+            }
+          ]
+        },
+        {
+          "chapter_number": 10,
+          "volume": 1,
+          "title_tibetan": "ཡེ་ཤེས་དང་སྐུ་རྣམས་རྣམ་པར་བཤད་པ།",
+          "title_english": "Explanation of Wisdoms and Kāyas",
+          "pages": {
+            "start": 421,
+            "end": 467
+          },
+          "sections": [
+            {
+              "section_id": "A",
+              "title_tibetan": "ཡེ་ཤེས་ལྔ།",
+              "title_english": "Five Wisdoms",
+              "pages": {
+                "start": 421,
+                "end": 440
+              },
+              "verified": true,
+              "boundary_start": {
+                "page": 421,
+                "line": 17714,
+                "phrase_tibetan": "མུ་ཏིག་ཕྲེང་བ་ལས།"
+              }
+            },
+            {
+              "section_id": "B",
+              "title_tibetan": "སྐུ་གསུམ།",
+              "title_english": "Three Kāyas",
+              "pages": {
+                "start": 441,
+                "end": 454
+              },
+              "verified": true,
+              "boundary_start": {
+                "page": 441,
+                "line": 18727,
+                "phrase_tibetan": "མིག་ན་སྒྲོན་མ་བཞིའི་ཚུལ་དུ་གནས་སོ།"
+              }
+            },
+            {
+              "section_id": "C",
+              "title_tibetan": "སྐུ་ཐེར་གསུམ།",
+              "title_english": "Thirteen Kāyas expanded",
+              "pages": {
+                "start": 455,
+                "end": 467
+              },
+              "verified": true,
+              "boundary_start": {
+                "page": 455,
+                "line": 19354,
+                "phrase_tibetan": "སྣང་ལམ་གྱི་ཐིག་ལེ་ནི་གཉིས་ཏེ།"
+              }
+            }
+          ]
+        },
+        {
+          "chapter_number": 11,
+          "volume": 1,
+          "title_tibetan": "རྩ་རླུང་ཐིག་ལེ་རྣམ་པར་བཤད་པ།",
+          "title_english": "Explanation of Channels, Winds, and Bindus",
+          "pages": {
+            "start": 311,
+            "end": 400
+          },
+          "sections": [
+            {
+              "section_id": "A-i",
+              "section_title_tibetan": "དབུ་མ།",
+              "section_title_english": "Central channel",
+              "original_section": "A",
+              "pages": {
+                "start": 311,
+                "end": 320
+              },
+              "verified": true,
+              "boundary_start": {
+                "page": 311,
+                "line": 12877,
+                "phrase_tibetan": "མགྱོགས་པའི་རྟ་བསྐྱོན།"
+              }
+            },
+            {
+              "section_id": "A-ii",
+              "section_title_tibetan": "རོ་མ།",
+              "section_title_english": "Right channel",
+              "original_section": "A",
+              "pages": {
+                "start": 321,
+                "end": 330
+              },
+              "verified": true,
+              "boundary_start": {
+                "page": 321,
+                "line": 13250,
+                "phrase_tibetan": "མཚན་ཉིད་འཛིན་པའི་ཡེ་ཤེས་ཞེས་བྱའོ།"
+              }
+            },
+            {
+              "section_id": "A-iii",
+              "section_title_tibetan": "རྐྱང་མ།",
+              "section_title_english": "Left channel",
+              "original_section": "A",
+              "pages": {
+                "start": 331,
+                "end": 340
+              },
+              "verified": true,
+              "boundary_start": {
+                "page": 331,
+                "line": 13567,
+                "phrase_tibetan": "བསྐྱེད་རིམ་བསྒོམས་པས་ལུས་ཀྱི་ཆགས་བྱེད་ངེས་པའི་ལས་སྤྱོད་བྱེད་"
+              }
+            },
+            {
+              "section_id": "B",
+              "title_tibetan": "འཁོར་ལོ་བཞི།",
+              "title_english": "Four wheels",
+              "pages": {
+                "start": 341,
+                "end": 360
+              },
+              "verified": true,
+              "boundary_start": {
+                "page": 341,
+                "line": 13951,
+                "phrase_tibetan": "རྩའི་གཙོ་མོ་གསུམ་གྱི་རང་བཞིན་སྤྱིར་བསྟན་པ་དང༌།"
+              }
+            },
+            {
+              "section_id": "C",
+              "title_tibetan": "རླུང་གི་རྣམ་གྲངས།",
+              "title_english": "Winds enumeration",
+              "pages": {
+                "start": 361,
+                "end": 380
+              },
+              "verified": true,
+              "boundary_start": {
+                "page": 361,
+                "line": 14927,
+                "phrase_tibetan": "ལྷ་མོ་ལྔ་ནི།"
+              }
+            },
+            {
+              "section_id": "D",
+              "title_tibetan": "ཐིག་ལེ།",
+              "title_english": "Bindus",
+              "pages": {
+                "start": 381,
+                "end": 400
+              },
+              "verified": true,
+              "boundary_start": {
+                "page": 381,
+                "line": 15922,
+                "phrase_tibetan": "གསང་སྔགས་ཀྱི་ཉེ་ལམ་ནི་རྩ་ཐིག་རླུང་གསུམ་གནད་བསྟུན་པ་ཡིན་ལ།"
+              }
+            }
+          ]
+        },
+        {
+          "chapter_number": 12,
+          "volume": 1,
+          "title_tibetan": "སྒྲོན་མ་བཞི་རྣམ་པར་བཤད་པ།",
+          "title_english": "Explanation of the Four Lamps",
+          "pages": {
+            "start": 401,
+            "end": 420
+          },
+          "sections": [
+            {
+              "section_id": "A",
+              "title_tibetan": "རྒྱང་ཞགས་ཆུའི་སྒྲོན་མ།",
+              "title_english": "Far-reaching Water Lamp",
+              "pages": {
+                "start": 401,
+                "end": 408
+              },
+              "verified": true,
+              "boundary_start": {
+                "page": 401,
+                "line": 16743,
+                "phrase_tibetan": "མནན་དུས་སྲོག་རྩར་ཐིག་པ་ལྷུང་བས་བརྒྱལ་བར་བྱེད་ལ།"
+              }
+            },
+            {
+              "section_id": "B",
+              "title_tibetan": "ཐིག་ལེ་སྟོང་པའི་སྒྲོན་མ།",
+              "title_english": "Empty Bindu Lamp",
+              "pages": {
+                "start": 409,
+                "end": 414
+              },
+              "verified": true,
+              "boundary_start": {
+                "page": 409,
+                "line": 17153,
+                "phrase_tibetan": "ཡུལ་སྣང་བས་བསྡུས་པའི་ཆོས་དང༌།"
+              }
+            },
+            {
+              "section_id": "C",
+              "title_tibetan": "དབྱིངས་རྣམ་དག་གི་སྒྲོན་མ།",
+              "title_english": "Completely Pure Sphere Lamp",
+              "pages": {
+                "start": 415,
+                "end": 418
+              },
+              "verified": true,
+              "boundary_start": {
+                "page": 415,
+                "line": 17443,
+                "phrase_tibetan": "རང་གི་རིག་པ་ལྡོག་མི་དགོས་པས།"
+              }
+            },
+            {
+              "section_id": "D",
+              "title_tibetan": "ཤེས་རབ་རང་བྱུང་གི་སྒྲོན་མ།",
+              "title_english": "Self-Arising Wisdom Lamp",
+              "pages": {
+                "start": 419,
+                "end": 420
+              },
+              "verified": true,
+              "boundary_start": {
+                "page": 419,
+                "line": 17638,
+                "phrase_tibetan": "ལམ་དུས་ངང་དངས་ཀྱི་ཆོས་སྐུས་གྲོལ་བྱེད་ཀྱི་ལས་བྱེད་ལ།"
+              }
+            }
+          ]
+        },
+        {
+          "chapter_number": 13,
+          "volume": 1,
+          "title_tibetan": "རྟེན་གྱི་ཤེས་པ་རྣམ་པར་བཤད་པ།",
+          "title_english": "Explanation of Supported Knowledge",
+          "pages": {
+            "start": 421,
+            "end": 479
+          },
+          "sections": [
+            {
+              "section_id": "A",
+              "title_tibetan": "སེམས་དང་ཡེ་ཤེས།",
+              "title_english": "Mind vs. wisdom",
+              "pages": {
+                "start": 421,
+                "end": 440
+              },
+              "verified": true,
+              "boundary_start": {
+                "page": 421,
+                "line": 17714,
+                "phrase_tibetan": "མུ་ཏིག་ཕྲེང་བ་ལས།"
+              }
+            },
+            {
+              "section_id": "B",
+              "title_tibetan": "ཀུན་གཞི་དང་ཆོས་སྐུ།",
+              "title_english": "All-ground vs. dharmakāya",
+              "pages": {
+                "start": 441,
+                "end": 460
+              },
+              "verified": true,
+              "boundary_start": {
+                "page": 441,
+                "line": 18727,
+                "phrase_tibetan": "མིག་ན་སྒྲོན་མ་བཞིའི་ཚུལ་དུ་གནས་སོ།"
+              }
+            },
+            {
+              "section_id": "C",
+              "title_tibetan": "རྟེན་དང་རྟེན་པ།",
+              "title_english": "Supported and supporter",
+              "pages": {
+                "start": 461,
+                "end": 479
+              },
+              "verified": true,
+              "boundary_start": {
+                "page": 461,
+                "line": 19598,
+                "phrase_tibetan": "རིག་པ་སྟོང་གསལ་རྒྱ་ཕྱམ་གཅིག་ཏུ་འོད་གསལ་ལ་ལྟ་བའི་ངང་དེ་ལ།"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "volume_number": 2,
+      "volume_title": "Exegetical Unfolding and Practice",
+      "tibetan_title": "འགྲེལ་བཤད་དང་སྒྲུབ་པ།",
+      "total_pages": 415,
+      "parts": [
+        {
+          "part_number": 8,
+          "part_title": "Dependent Arising",
+          "tibetan_title": "རྟེན་འབྲེལ།",
+          "chapters": [
+            14
+          ]
+        },
+        {
+          "part_number": 9,
+          "part_title": "Commentary on the Path",
+          "tibetan_title": "ལམ་གྱི་འགྲེལ་པ།",
+          "chapters": [
+            15
+          ]
+        },
+        {
+          "part_number": 10,
+          "part_title": "Measure and Visions",
+          "tibetan_title": "ཚད་དང་སྣང་བ།",
+          "chapters": [
+            16,
+            17
+          ]
+        },
+        {
+          "part_number": 11,
+          "part_title": "Completion Stage",
+          "tibetan_title": "རྫོགས་རིམ།",
+          "chapters": [
+            18,
+            19
+          ]
+        }
+      ],
+      "chapters": [
+        {
+          "chapter_number": 14,
+          "volume": 2,
+          "title_tibetan": "རྟེན་འབྲེལ་རྣམ་པར་བཤད་པ།",
+          "title_english": "Explanation of Dependent Arising",
+          "pages": {
+            "start": 1,
+            "end": 88
+          },
+          "sections": [
+            {
+              "section_id": "A-i",
+              "section_title_tibetan": "ཕྱིའི་རྟེན་འབྲེལ་འཁྲུལ་པ།",
+              "section_title_english": "Confused outer dependent arising",
+              "original_section": "A",
+              "pages": {
+                "start": 1,
+                "end": 12
+              },
+              "doctrinal_focus": [
+                "five elements",
+                "confused aspects"
+              ],
+              "verified": true,
+              "boundary_start": {
+                "page": 1,
+                "line": 1,
+                "phrase_tibetan": "༄༅།"
+              }
+            },
+            {
+              "section_id": "A-ii",
+              "section_title_tibetan": "ཕྱིའི་རྟེན་འབྲེལ་དག་པ།",
+              "section_title_english": "Pure outer dependent arising",
+              "original_section": "A",
+              "pages": {
+                "start": 13,
+                "end": 24
+              },
+              "doctrinal_focus": [
+                "five elements",
+                "pure aspects"
+              ],
+              "verified": true,
+              "boundary_start": {
+                "page": 13,
+                "line": 636,
+                "phrase_tibetan": "རུས་པ་ཐམས་ཅད་དང༌།"
+              }
+            },
+            {
+              "section_id": "B-i",
+              "section_title_tibetan": "རྩ།",
+              "section_title_english": "Channels",
+              "original_section": "B",
+              "pages": {
+                "start": 25,
+                "end": 32
+              },
+              "doctrinal_focus": [
+                "channels",
+                "rtsa"
+              ],
+              "verified": true,
+              "boundary_start": {
+                "page": 25,
+                "line": 1252,
+                "phrase_tibetan": "སྦྱངས་པ་ལ་སྣང་བའི་ཚུལ།"
+              }
+            },
+            {
+              "section_id": "B-ii",
+              "section_title_tibetan": "རླུང་།",
+              "section_title_english": "Winds",
+              "original_section": "B",
+              "pages": {
+                "start": 33,
+                "end": 39
+              },
+              "doctrinal_focus": [
+                "winds",
+                "rlung"
+              ],
+              "verified": true,
+              "boundary_start": {
+                "page": 33,
+                "line": 1711,
+                "phrase_tibetan": "ཞི་བ་ནི།"
+              }
+            },
+            {
+              "section_id": "B-iii",
+              "section_title_tibetan": "ཐིག་ལེ།",
+              "section_title_english": "Bindus",
+              "original_section": "B",
+              "pages": {
+                "start": 40,
+                "end": 46
+              },
+              "doctrinal_focus": [
+                "bindus",
+                "thig le"
+              ],
+              "verified": true,
+              "boundary_start": {
+                "page": 40,
+                "line": 2029,
+                "phrase_tibetan": "རིན་པོ་ཆེ་སྤུངས་པའི་རྒྱུད་ལས།"
+              }
+            },
+            {
+              "section_id": "C-i",
+              "section_title_tibetan": "རྟག་པའི་མཐའ་སྤོང་བ།",
+              "section_title_english": "Refutation of eternalistic extremes",
+              "original_section": "C",
+              "pages": {
+                "start": 47,
+                "end": 62
+              },
+              "doctrinal_focus": [
+                "eternalism",
+                "rtag pa",
+                "extreme views"
+              ],
+              "verified": true,
+              "boundary_start": {
+                "page": 47,
+                "line": 2335,
+                "phrase_tibetan": "རྡོ་ཚན་ལ་ཁ་བ་བབས་པ་ལྟར།"
+              }
+            },
+            {
+              "section_id": "C-ii",
+              "section_title_tibetan": "ཆད་པའི་མཐའ་སྤོང་བ།",
+              "section_title_english": "Refutation of nihilistic extremes",
+              "original_section": "C",
+              "pages": {
+                "start": 63,
+                "end": 75
+              },
+              "doctrinal_focus": [
+                "nihilism",
+                "chad pa",
+                "extreme views"
+              ],
+              "verified": true,
+              "boundary_start": {
+                "page": 63,
+                "line": 3018,
+                "phrase_tibetan": "རང་གིས་ཀྱང་ཉམས་སུ་བླངས་པས་ངེས་པ་ཡིན་ནོ།"
+              }
+            },
+            {
+              "section_id": "C-iii",
+              "section_title_tibetan": "དབུ་མའི་ལྟ་བ་གྲུབ་པ།",
+              "section_title_english": "Establishing the Middle Way",
+              "original_section": "C",
+              "pages": {
+                "start": 76,
+                "end": 88
+              },
+              "doctrinal_focus": [
+                "middle way",
+                "dbu ma",
+                "freedom from extremes"
+              ],
+              "verified": true,
+              "boundary_start": {
+                "page": 76,
+                "line": 3522,
+                "phrase_tibetan": "རྟོག་པ་མེད་པའི་སེམས་ཉིད་ལ།"
+              }
+            }
+          ]
+        },
+        {
+          "chapter_number": 15,
+          "volume": 2,
+          "title_tibetan": "ངོ་སྤྲོད་དང་ངོ་ཤེས་རྣམ་པར་བཤད་པ།",
+          "title_english": "Explanation of Pointing-Out and Recognition",
+          "pages": {
+            "start": 89,
+            "end": 176
+          },
+          "sections": [
+            {
+              "section_id": "A-i",
+              "section_title_tibetan": "ངོ་སྤྲོད་ཀྱི་ཚུལ་བདུན་གྱི་དང་པོ་གསུམ།",
+              "section_title_english": "First three modes of pointing-out",
+              "original_section": "A",
+              "pages": {
+                "start": 89,
+                "end": 105
+              },
+              "verified": true,
+              "boundary_start": {
+                "page": 89,
+                "line": 4079,
+                "phrase_tibetan": "གདམས་ངག་སྤྱིའི་འབྲེལ་དགོད་པ་དང༌།"
+              }
+            },
+            {
+              "section_id": "A-ii",
+              "section_title_tibetan": "ངོ་སྤྲོད་ཀྱི་ཚུལ་བདུན་གྱི་བར་པ་གཉིས།",
+              "section_title_english": "Middle two modes of pointing-out",
+              "original_section": "A",
+              "pages": {
+                "start": 106,
+                "end": 115
+              },
+              "verified": true,
+              "boundary_start": {
+                "page": 106,
+                "line": 4720,
+                "phrase_tibetan": "དེའི་བྱིན་རླབས་ཀྱིས་ཡེ་ཤེས་དངོས་སུ་མཐོང་བས་འདི་ཉིད་ལ་ཐག་ཆོད།"
+              }
+            },
+            {
+              "section_id": "A-iii",
+              "section_title_tibetan": "ངོ་སྤྲོད་ཀྱི་ཚུལ་བདུན་གྱི་ཐ་མ་གཉིས།",
+              "section_title_english": "Last two modes of pointing-out",
+              "original_section": "A",
+              "pages": {
+                "start": 116,
+                "end": 124
+              },
+              "verified": true,
+              "boundary_start": {
+                "page": 116,
+                "line": 5080,
+                "phrase_tibetan": "འདས་པའི་ཤེས་ཉམས་སྟོང་གསལ་མཐའ་བྲལ་གྱི་རྟོགས་ཚད་ཤེས་རབ་ཀྱི་རྩལ"
+              }
+            },
+            {
+              "section_id": "B-i",
+              "section_title_tibetan": "ལྟ་བའི་གོལ་ས།",
+              "section_title_english": "Errors of view",
+              "original_section": "B",
+              "pages": {
+                "start": 125,
+                "end": 136
+              },
+              "verified": true,
+              "boundary_start": {
+                "page": 125,
+                "line": 5398,
+                "phrase_tibetan": "སྐྱེ་རྒ་ན་འཆི་བཞིའི་འཕེལ་ཟད་པ་དང་ཡང་མཚུངས་ཤིང༌།"
+              }
+            },
+            {
+              "section_id": "B-ii",
+              "section_title_tibetan": "སྒོམ་པའི་གོལ་ས།",
+              "section_title_english": "Errors of meditation",
+              "original_section": "B",
+              "pages": {
+                "start": 137,
+                "end": 145
+              },
+              "verified": true,
+              "boundary_start": {
+                "page": 137,
+                "line": 5802,
+                "phrase_tibetan": "རྫོགས་པ་ཆེན་པོ་བརྗོད་ཚིག་གི་རང་ངོ་དག་པ་ལས་བྱུང་བ་སྟེ།"
+              }
+            },
+            {
+              "section_id": "B-iii",
+              "section_title_tibetan": "སྤྱོད་པ་དང་འབྲས་བུའི་གོལ་ས།",
+              "section_title_english": "Errors of conduct and fruition",
+              "original_section": "B",
+              "pages": {
+                "start": 146,
+                "end": 154
+              },
+              "verified": true,
+              "boundary_start": {
+                "page": 146,
+                "line": 6207,
+                "phrase_tibetan": "རང་ཤར་ལས།"
+              }
+            },
+            {
+              "section_id": "C-i",
+              "section_title_tibetan": "སྒོམ་མེད།",
+              "section_title_english": "Non-meditation",
+              "original_section": "C",
+              "pages": {
+                "start": 155,
+                "end": 165
+              },
+              "doctrinal_focus": [
+                "non-meditation",
+                "sgom med"
+              ],
+              "verified": true,
+              "boundary_start": {
+                "page": 155,
+                "line": 6549,
+                "phrase_tibetan": "བདེ་ཆེ་ཐར་པའི་བསྟན་པ་རྙེད་དུས་མེད་དེ།"
+              }
+            },
+            {
+              "section_id": "C-ii",
+              "section_title_tibetan": "གཡེངས་མེད།",
+              "section_title_english": "Non-distraction",
+              "original_section": "C",
+              "pages": {
+                "start": 166,
+                "end": 176
+              },
+              "doctrinal_focus": [
+                "non-distraction",
+                "yengs med"
+              ],
+              "verified": true,
+              "boundary_start": {
+                "page": 166,
+                "line": 7038,
+                "phrase_tibetan": "ཡི་གེ་མེད་པ་ལས།"
+              }
+            }
+          ]
+        },
+        {
+          "chapter_number": 16,
+          "volume": 2,
+          "title_tibetan": "ཚད་དང་ངེས་པ་རྣམ་པར་བཤད་པ།",
+          "title_english": "Explanation of Valid Cognition and Certainty",
+          "pages": {
+            "start": 177,
+            "end": 228
+          },
+          "sections": [
+            {
+              "section_id": "A",
+              "title_tibetan": "ཚད་ཀྱི་དོན།",
+              "title_english": "Meaning of measure",
+              "pages": {
+                "start": 177,
+                "end": 198
+              },
+              "verified": true,
+              "boundary_start": {
+                "page": 177,
+                "line": 7491,
+                "phrase_tibetan": "།དེ་བཞིན་ཞི་བ་ཉིད་ཀྱང་མིན།"
+              }
+            },
+            {
+              "section_id": "B-i",
+              "section_title_tibetan": "དངོས་ཉམས་དང་ཚད་མ།",
+              "section_title_english": "Genuine experiences and valid cognition",
+              "original_section": "B",
+              "pages": {
+                "start": 199,
+                "end": 214
+              },
+              "verified": true,
+              "boundary_start": {
+                "page": 199,
+                "line": 8491,
+                "phrase_tibetan": "མ་འོངས་པའི་སྐུ་གསུམ་ལ་རྒྱབ་བརྟེན།"
+              }
+            },
+            {
+              "section_id": "B-ii",
+              "section_title_tibetan": "ཚད་ལྷག་དང་གོལ་ས།",
+              "section_title_english": "False experiences and deviations",
+              "original_section": "B",
+              "pages": {
+                "start": 215,
+                "end": 228
+              },
+              "verified": true,
+              "boundary_start": {
+                "page": 215,
+                "line": 9239,
+                "phrase_tibetan": "སྣང་བ་གང་ལ་ཡང་ཐོགས་རྡུགས་མེད་པར་སྤྱོད་པའོ།"
+              }
+            }
+          ]
+        },
+        {
+          "chapter_number": 17,
+          "volume": 2,
+          "title_tibetan": "སྣང་བ་བཞི་རྣམ་པར་བཤད་པ།",
+          "title_english": "Explanation of the Four Visions",
+          "pages": {
+            "start": 229,
+            "end": 298
+          },
+          "sections": [
+            {
+              "section_id": "A",
+              "title_tibetan": "ཆོས་ཉིད་མངོན་སུམ།",
+              "title_english": "Direct perception of dharmatā",
+              "pages": {
+                "start": 229,
+                "end": 250
+              },
+              "verified": true,
+              "boundary_start": {
+                "page": 229,
+                "line": 9760,
+                "phrase_tibetan": "བདེན་གཉིས་སུ།"
+              }
+            },
+            {
+              "section_id": "B",
+              "title_tibetan": "ཉམས་གོང་འཕེལ།",
+              "title_english": "Increasing experience",
+              "pages": {
+                "start": 251,
+                "end": 270
+              },
+              "verified": true,
+              "boundary_start": {
+                "page": 251,
+                "line": 10810,
+                "phrase_tibetan": "མི་དང་འགྲོགས་སྙིང་མི་འདོད་པ་དང༌།"
+              }
+            },
+            {
+              "section_id": "C",
+              "title_tibetan": "རིག་པ་ཚད་ཕེབས།",
+              "title_english": "Awareness reaching full measure",
+              "pages": {
+                "start": 271,
+                "end": 285
+              },
+              "verified": true,
+              "boundary_start": {
+                "page": 271,
+                "line": 11761,
+                "phrase_tibetan": "ཚེ་ལ་དབང་བའི་ས་དང༌།"
+              }
+            },
+            {
+              "section_id": "D",
+              "title_tibetan": "ཆོས་ཉིད་ཟད་པ།",
+              "title_english": "Exhaustion into dharmatā",
+              "pages": {
+                "start": 286,
+                "end": 298
+              },
+              "verified": true,
+              "boundary_start": {
+                "page": 286,
+                "line": 12307,
+                "phrase_tibetan": "ཆོས་མ་གཏོགས་པ་གང་གིས་ཀྱང་ཕན་མི་ཐོགས་པའི་ཕྱིར་རོ།"
+              }
+            }
+          ]
+        },
+        {
+          "chapter_number": 18,
+          "volume": 2,
+          "title_tibetan": "ས་བཅུ་དྲུག་དང་འོད་གསལ་གྱི་ལམ་རྣམ་པར་བཤད་པ།",
+          "title_english": "Sixteen Grounds and Luminous Path",
+          "pages": {
+            "start": 299,
+            "end": 352
+          },
+          "sections": [
+            {
+              "section_id": "A-i",
+              "section_title_tibetan": "ས་དང་པོ་ནས་བཅུ།",
+              "section_title_english": "First ten grounds",
+              "original_section": "A",
+              "pages": {
+                "start": 299,
+                "end": 309
+              },
+              "doctrinal_focus": [
+                "ten grounds",
+                "bhumis 1-10"
+              ],
+              "verified": true,
+              "boundary_start": {
+                "page": 299,
+                "line": 12900,
+                "phrase_tibetan": "རྫོགས་ན་སྔ་མ་བཞིན་ནོ།"
+              }
+            },
+            {
+              "section_id": "A-ii",
+              "section_title_tibetan": "ས་བཅུ་གཅིག་ནས་དྲུག",
+              "section_title_english": "Final six grounds",
+              "original_section": "A",
+              "pages": {
+                "start": 310,
+                "end": 320
+              },
+              "doctrinal_focus": [
+                "six grounds",
+                "bhumis 11-16"
+              ],
+              "verified": true,
+              "boundary_start": {
+                "page": 310,
+                "line": 13270,
+                "phrase_tibetan": "།བྱར་མེད་ལྷུན་རྫོགས་ཆེན་པོའོ།"
+              }
+            },
+            {
+              "section_id": "B",
+              "title_tibetan": "འོད་གསལ་རྡོ་རྗེ་སྙིང་པོའི་ལམ།",
+              "title_english": "Luminous vajra essence path",
+              "pages": {
+                "start": 321,
+                "end": 338
+              },
+              "verified": true,
+              "boundary_start": {
+                "page": 321,
+                "line": 13662,
+                "phrase_tibetan": "ཕྱོགས་མཚམས་བརྒྱད་དུ་བྱམས་པ་ལ་སོགས་པའི་སེམས་དཔའ་བརྒྱད་དང༌།"
+              }
+            },
+            {
+              "section_id": "C",
+              "title_tibetan": "ཁྲེགས་ཆོད་ལ་འཇུག་པ།",
+              "title_english": "Transition to Cutting Through",
+              "pages": {
+                "start": 339,
+                "end": 352
+              },
+              "verified": true,
+              "boundary_start": {
+                "page": 339,
+                "line": 14198,
+                "phrase_tibetan": "སྔར་ཤེས་བྱའི་སྒྲིབ་པས་བཅིངས་པ་ཐམས་ཅད་ཤེས་པས་ན་མངོན་པར་ཤེས་པ་"
+              }
+            }
+          ]
+        },
+        {
+          "chapter_number": 19,
+          "volume": 2,
+          "title_tibetan": "རྫོགས་རིམ་གྱི་འབྲེལ་བ་རྣམ་པར་བཤད་པ།",
+          "title_english": "Completion Stage Correspondences",
+          "pages": {
+            "start": 353,
+            "end": 415
+          },
+          "sections": [
+            {
+              "section_id": "A",
+              "title_tibetan": "ཁྲེགས་ཆོད།",
+              "title_english": "Cutting Through Solidity",
+              "pages": {
+                "start": 353,
+                "end": 368
+              },
+              "verified": true,
+              "boundary_start": {
+                "page": 353,
+                "line": 14738,
+                "phrase_tibetan": "ཕྱིར་མི་ལྡོག་པའི་ངེས་པ་ནི་ཐོབ།"
+              }
+            },
+            {
+              "section_id": "B-i",
+              "section_title_tibetan": "སྒྱུ་ལུས།",
+              "section_title_english": "Illusory body",
+              "original_section": "B",
+              "pages": {
+                "start": 369,
+                "end": 379
+              },
+              "verified": true,
+              "boundary_start": {
+                "page": 369,
+                "line": 15344,
+                "phrase_tibetan": "འཁོར་རྫུས་ནས་སྐྱེས་བའི་བྱང་ཆུབ་སེམས་དཔའ་ཁྱེའུ་དང་བུ་མོ་རྣམས་"
+              }
+            },
+            {
+              "section_id": "B-ii",
+              "section_title_tibetan": "རྨི་ལམ།",
+              "section_title_english": "Dream yoga",
+              "original_section": "B",
+              "pages": {
+                "start": 380,
+                "end": 389
+              },
+              "verified": true,
+              "boundary_start": {
+                "page": 380,
+                "line": 15736,
+                "phrase_tibetan": "དངོས་སུ་གང་དུའང་གྲུབ་པ་མེད་དེ།"
+              }
+            },
+            {
+              "section_id": "B-iii",
+              "section_title_tibetan": "འོད་གསལ།",
+              "section_title_english": "Clear light",
+              "original_section": "B",
+              "pages": {
+                "start": 390,
+                "end": 398
+              },
+              "verified": true,
+              "boundary_start": {
+                "page": 390,
+                "line": 16115,
+                "phrase_tibetan": "ཐུགས་རྗེས་ཡེ་ཤེས་གཉིས་ཀྱི་འཆར་གཞི་བྱེད་ལ་ཡུལ་དང་རྣམ་པ་ལ་དངོས"
+              }
+            },
+            {
+              "section_id": "C",
+              "title_tibetan": "མཐའ་མའི་བསྡུས་དོན།",
+              "title_english": "Final synthesis",
+              "pages": {
+                "start": 399,
+                "end": 408
+              },
+              "verified": true,
+              "boundary_start": {
+                "page": 399,
+                "line": 16515,
+                "phrase_tibetan": "ཡོན་ཏན་ཕྱིར་མི་ལྡོག་པས་འཕོ་འགྱུར་མེད་པ།"
+              }
+            },
+            {
+              "section_id": "D",
+              "title_tibetan": "བརྒྱུད་པའི་ལུང་བསྟན།",
+              "title_english": "Lineage transmission",
+              "pages": {
+                "start": 409,
+                "end": 412
+              },
+              "verified": true,
+              "boundary_start": {
+                "page": 409,
+                "line": 16960,
+                "phrase_tibetan": "སེང་གེ་རྩལ་རྫོགས་ཆེན་པོའི་རྒྱུད་ལས།"
+              }
+            },
+            {
+              "section_id": "E",
+              "title_tibetan": "མཇུག་གི་ཚིགས་བཅད།",
+              "title_english": "Concluding verses",
+              "pages": {
+                "start": 413,
+                "end": 415
+              },
+              "verified": true,
+              "boundary_start": {
+                "page": 413,
+                "line": 17227,
+                "phrase_tibetan": "།ལེགས་བཤད་སྤྲིན་ཆེན་ཐོས་པའི་གློག་གི་ཕྲེང་བ་ཅན།"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "mapping_status": {
+    "total_chapters": 19,
+    "chapters_fully_mapped": 0,
+    "chapters_partially_mapped": 19,
+    "chapters_pending": 0,
+    "total_sections": 87,
+    "sections_with_verified_boundaries": 87,
+    "sections_with_estimated_boundaries": 78,
+    "sections_pending": 0,
+    "completion_percentage": 100.0,
+    "last_updated": "2026-02-08",
+    "sections_split": 10,
+    "sections_split_total": 37,
+    "split_method": "Option 2 - Moderate"
+  }
+}
