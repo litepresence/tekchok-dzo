@@ -1,6 +1,8 @@
 # LAYER CREATION PROMPTS
 # theg mchog mdzod
 
+**ACQUAINTANCE:** This document contains the master prompts and instructions for creating and refining each of the nine translation layers.
+
 Translator: litepresence
 
 Copyleft 2026: Amid all this apparent happening, nothing has happened.
@@ -329,6 +331,11 @@ When the Tibetan shifts to *tshig bcad* (verse style marked by *shad*):
 **`<ornament>`** - For ornamental markers, headers, symbols
 - Section headers, enumerations, decorative shad
 - Minimal translation or transliteration
+
+**`<list>`** - For enumerated lists and sequential items
+- Use for numbered enumerations, bulleted lists, sequential explanations
+- Each item in the list gets `<list>` prefix
+- Examples: "First... Second... Third...", "The five elements are..."
 
 **No prefix** - For standard PROSE (default)
 - Elegant prose sections require no tag

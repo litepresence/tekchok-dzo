@@ -1,5 +1,8 @@
 # Prompt Archive
 # Theg mchog rin po che'i mdzod - Translation Project Documentation
+
+**ACQUAINTANCE:** This archive preserves original prompts used to generate each translation layer for reference and reproducibility.
+
 # Purpose: Archive original prompts used to generate each layer
 # Date Created: 2026-02-10
 

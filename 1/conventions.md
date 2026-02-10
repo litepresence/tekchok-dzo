@@ -2,6 +2,9 @@
 ## FOR AGENTIC ITERATIVE TRANSLATION OF
 # theg mchog mdzod
 
+**ACQUAINTANCE:** This document establishes editorial standards and formatting conventions for all translation work.
+
+
 Translator: litepresence
 
 Copyleft 2026: Amid all this apparent happening, nothing has happened.

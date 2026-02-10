@@ -1,5 +1,7 @@
 # Treasury of the Supreme Vehicle: Structural Contents
 
+**ACQUAINTANCE:** This document provides the complete structural overview of the text, including chapter divisions, section mappings, page numbers, and line references. It serves as the master reference for navigating the translation.
+
 ## Metadata
 - **Work**: ཐེག་པའི་མཆོག་རིན་པོ་ཆེའི་མཛོད་ཀྱི་འགྲེལ་པ།
 - **English Title**: Treasury of the Supreme Vehicle: Autocommentary

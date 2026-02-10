@@ -1,5 +1,7 @@
 ===================================================
 
+**ACQUAINTANCE:** This file is for meta-level communication about the project design and emergent system architecture.
+
 Use this file to communicate directly to the project manager; litepresence regarding: 
 
 1) the emergent system design of this project.  

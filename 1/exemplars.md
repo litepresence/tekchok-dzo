@@ -1,5 +1,7 @@
 # Exemplars: Best of the Best
 
+**ACQUAINTANCE:** This document catalogs exemplary sections from each translation layer to serve as reference models for future agents and reviewers.
+
 This document catalogs exemplary sections from each translation layer to serve as reference models for future agents and reviewers.
 
 ## 🚨 MIGRATION NOTICE (2026-02-10)

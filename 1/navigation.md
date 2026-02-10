@@ -1,5 +1,7 @@
 # Project Navigation Guide: Theg mchog rin po che'i mdzod
 
+**ACQUAINTANCE:** This document provides navigation instructions for finding and working with specific sections of the text across all translation layers.
+
 ## Overview
 
 This is a 9-layer agentic translation project for Longchenpa's "Treasury of the Supreme Vehicle" (Theg mchog rin po che'i mdzod). 

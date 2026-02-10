@@ -1,5 +1,11 @@
 # Capitalization Standards for Theg mchog rin po che'i mdzod
 # Last Updated: 2026-02-10
+#
+# ACQUAINTANCE: This document specifies which terms are capitalized and when,
+# as well as when they should not be capitalized. It provides the definitive
+# rules for proper noun treatment, distinguishing between honorific uses
+# (capitalized) and generic or descriptive uses (lowercase).
+#
 # Purpose: Ensure consistent capitalization across all translation layers
 
 ## CAPITALIZATION PHILOSOPHY

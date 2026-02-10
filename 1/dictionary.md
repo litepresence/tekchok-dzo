@@ -1,6 +1,10 @@
 # Tibetan-English Translation Dictionary
 # Theg mchog rin po che'i mdzod (Treasury of the Supreme Vehicle)
-# 
+#
+# ACQUAINTANCE: This document specifies how Tibetan lineage terms are rendered into English.
+# It serves as the authoritative source for terminology decisions, ensuring consistent
+# translation of technical terms across all layers of the translation project.
+#
 # Purpose: Ensure terminological consistency across all 9 translation layers
 # Status: Living document - append new terms as they are standardized
 #
@@ -55,6 +59,23 @@
 | rdzogs pa chen po | great completion / dzogchen | Dzogchen | "great-completion" | "Great Completion" or "Dzogchen" | Use "Dzogchen" when referring to system |
 | rang shar | self-arisen / self-luminous | Spontaneously arisen | "self-arisen" | "self-arisen" or "spontaneously arisen" | Emphasize non-fabrication |
 | gzhon nu bum sku | youth vase body | Dzogchen basis metaphor | "youth-vase-body" | "youth vase body" | "Youth" = ever-fresh, primordial; "Vase" = container of qualities; "Body" = dimension/form. Represents basis as youthful (ever-new), vase-like (containing all qualities), and embodied (manifest yet empty). |
+
+---
+
+## CHAPTER 4: PHILOSOPHICAL SYSTEMS (Doxography)
+
+| Tibetan | English | Context | Literal | Liturgical | Notes |
+|---------|---------|---------|---------|------------|-------|
+| mu stegs | tirthika / non-Buddhist | Outsider, non-Buddhist traditions | "tirthika" | "Tirthika" | Literally "ford-maker" - those who claim to cross samsara but don't reach buddhahood |
+| rtag mtha' | eternalism / extreme of permanence | View of permanent self | "eternalism" | "eternalism" or "extreme of permanence" | First of the two extremes |
+| chad mtha' | nihilism / extreme of annihilation | View that nothing exists after death | "nihilism" | "nihilism" or "extreme of annihilation" | Second of the two extremes |
+| bdag | self / ego | Atman, permanent self | "self" | "self" or "ego" | Inherent self-entity |
+| rang bzhin | self-nature / inherent nature | Essential nature of things | "self-nature" | "self-nature" or "inherent nature" | svabhāva - own-being |
+| dbu ma | madhyamaka / middle way | Middle way school | "madhyamaka" | "Madhyamaka" | The school of emptiness |
+| sems tsam | cittamatra / mind-only | Yogācāra school | "cittamatra" or "mind-only" | "Cittamatra" or "mind-only" | The school of consciousness |
+| mdo sde pa | sautrantika | Sutra-followers | "sautrantika" | "Sautrantika" | Buddhist school accepting only sutras |
+| bye brag smra ba | vaibhasika | Proponents of distinctions | "vaibhasika" | "Vaibhasika" | Buddhist school accepting abhidharma |
+| bde 'gsal mi rtog pa | bliss-clarity-nonconceptual | Three characteristics of pristine cognition | "bliss-clarity-nonconceptual" | "bliss-clarity-nonconceptual" | Key term in tantric systems |
 
 ---
 

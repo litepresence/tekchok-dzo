@@ -1,5 +1,7 @@
 ## Quick Start for New Agents
 
+**ACQUAINTANCE:** This document provides orientation and getting-started instructions for new agents joining the translation project.
+
 Hello, I'm litepresence. I'm an emergent systems engineer, cryptographer, translator, and dzogchen practitioner.
 
 You are a general AI agent tasked with revising Longchenpa's *theg pa'i mchog rin po che'i mdzod*.

@@ -1,5 +1,7 @@
 # Treasury of the Supreme Vehicle: Section Markers
 
+**ACQUAINTANCE:** This document catalogs all structural markers ("first," "second," etc.) in the Tibetan text, serving as a reference for section divisions and content organization.
+
 Complete list of all section markers (དང་པོ་, གཉིས་པ་, etc.) found in the root Tibetan text.
 
 **Total Markers**: 165

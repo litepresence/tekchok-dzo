@@ -1,5 +1,7 @@
 # KHENPO CRITICAL REVIEW: Theg mchog rin po che'i mdzod Translation Project
 
+**ACQUAINTANCE:** This document contains critical review feedback from a Dzogchen lineage holder (Khenpo) on the translation quality and doctrinal accuracy.
+
 **Review Date:** 2026-02-08 (Comprehensive Audit Complete)  
 **Reviewer:** Khenpo (Dzogchen Lineage Holder)  
 **Project Status:** Foundation Complete, Superstructure Bipolar  

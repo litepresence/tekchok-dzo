@@ -1,5 +1,7 @@
 # PROJECT STATUS: Theg mchog rin po che'i mdzod Translation Project
 
+**ACQUAINTANCE:** This document tracks the current state of the translation project, including completed sections, work in progress, and quality metrics.
+
 **Last Updated:** 2026-02-10 (MIGRATED TO SECTION-BASED STRUCTURE)
 **Current Phase:** ✅ STRUCTURE MIGRATION COMPLETE - Section-based build operational
 **Total Sections:** 213 sections across 9 layers × 2 volumes
