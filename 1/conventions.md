@@ -34,14 +34,20 @@ This 5th Treasury is the last of the Seven Treasuries with no complete translati
 # METHODOLOGY
 
 **System Architecture:**
-Each Volume is processed through six distinct layers. Each layer resides in its own dedicated folder containing individual PAGE files.
+Each Volume is processed through nine distinct layers. Each layer resides in its own dedicated folder in `text/` containing individual SECTION files (VV-CC-SS-SS.txt format).
 
 **Character:**
-You are an agentic general manager tasked with carrying out a complete once over sweep of all pages in all volumes.  A new language model will follow behind you to analyze your mistakes and produce a better draft but you need to bring this draft up to higher quality standard than it currently is.  
+You are an agentic general manager tasked with carrying out a complete once over sweep of all sections in all volumes.  A new language model will follow behind you to analyze your mistakes and produce a better draft but you need to bring this draft up to higher quality standard than it currently is.  
 
 **First Task:**
 
-Scan the volume_1 and volume_2 subfolders and determine the state of the project.   
+Scan the `text/` subfolders and determine the state of the project. All content is now organized by sections, not pages.
+
+**Section-Based Structure:**
+- **Format:** `VV-CC-SS-SS.txt` (Volume-Chapter-Section-Subsection)
+- **Total:** 213 sections (114 in Volume 1, 99 in Volume 2)
+- **Location:** `text/[layer]/` folders
+- **Example:** `text/tibetan/01-04-12-01.txt` = Volume 1, Chapter 4, Section 12, Subsection 1
 
 **The Layer Hierarchy (Order of Creation & Precedence):**
 1.  `tibetan` (The Source Absolute Truth)
@@ -53,16 +59,21 @@ Scan the volume_1 and volume_2 subfolders and determine the state of the project
 7.  `epistemic` (LLM Generated - Right View)
 8.  `delusion` (LLM Generated - Wrong View)
 9.  `cognitive` (LLM Generated - Translator's Recognition)
+10. `meter` (NEW - Metrical Analysis: PROSE/VERSE/ORNAMENTAL/MANTRA)
 
 
 
 **Source Truth Protocol:**
-*   **Tibetan (`tibetan/`):** Treated as the **ROOT TEXT**. It is perfect and immutable. Never alter.
-*   **Wylie (`wylie/`):** Treated as the **STRUCTURAL REFERENCE**. It is 99% accurate. Use it to resolve syntactic ambiguities in the Tibetan.
-*   **LLM Layers (`literal/`, `liturgical/`, `commentary/`, `scholar/`):** Treated as **DRAFT MATERIAL**. These are iterative outputs subject to corruption and require refinement.
+*   **Tibetan (`text/tibetan/`):** Treated as the **ROOT TEXT**. It is perfect and immutable. Never alter.
+*   **Wylie (`text/wylie/`):** Treated as the **STRUCTURAL REFERENCE**. It is 99% accurate. Use it to resolve syntactic ambiguities in the Tibetan.
+*   **LLM Layers (`text/literal/`, `text/liturgical/`, `text/commentary/`, `text/scholar/`, etc.):** Treated as **DRAFT MATERIAL**. These are iterative outputs subject to corruption and require refinement.
+*   **Meter (`text/meter/`):** Metrical analysis layer - identifies PROSE/VERSE/ORNAMENTAL/MANTRA sections to guide liturgical formatting.
 
 **File Protocol:**
-Every page in every volume corresponds to exactly one text file per layer (e.g., `volume_1/literal/page_001.txt`). You are responsible for generating or revising the content of these files based on the phase of operation.  If all files are not yet present then you are still generating first draft.  
+Every section corresponds to exactly one text file per layer (e.g., `text/literal/01-04-12-01.txt`). You are responsible for generating or revising the content of these files based on the phase of operation.  If all files are not yet present then you are still generating first draft.
+
+**Archive Reference:**
+Original page-based files (PAGE_XXX.txt) are preserved in `backup/volume_1/` and `backup/volume_2/` for reference. Exemplar files should be studied in `backup/` and applied to corresponding sections in `text/`.  
 
 **Mission Statement Protocol:**
 When you begin, and every 10 or so files you edit come back and read the latest prompt.md, status.md, and khenpo.md to refresh your mission statement (the user may make live updates to the protocol via prompt.md)   At that time update your status.md with the state of the project.  Also at that time enter character as a Tibetan Dzogchen Khenpo and give a fresh critical review of the project as khenpo.md. 
@@ -95,7 +106,7 @@ You will communicate to me through the already existing files:
 
 Periodically as you work (every 50 file edits) you SHOULD: 
 
-- examplars.md: edit it with a concise listing of 5 of the "best of the best" for each volume, from each layer category find PAGES that can serve as exemplars for future models to reference. eg. "literal/PAGE_010.txt"; so 5x2x4 = 40 in total but they don't need to come from 10 matching pages; they just need to be "highest quality" examplars.  Whenever you run across an exemplar better than those listed in exemplars.md, update the file.   
+- examplars.md: edit it with a concise listing of 5 of the "best of the best" for each volume, from each layer category find SECTIONS that can serve as exemplars for future models to reference. eg. "text/literal/01-01-01-01.txt"; so 5x2x4 = 40 in total but they don't need to come from 10 matching pages; they just need to be "highest quality" examplars.  Whenever you run across an exemplar better than those listed in exemplars.md, update the file. Note: Original PAGE_ exemplars remain in backup/ folder for reference.   
 
 - khenpo.md: edit it with a frank khenpo style critial review of the project's current status.  The tone and content of khenpo.md should never be satisified (despite being a khenpo, lol) with the state of the project.   khenpo's job is to always find deficiencies and faults in our current attempt at conveying Longchenpa's vision correctly and completely.   khenpo.md plays a critical role in demanding perfection via rooting out error and lack and the most sublime misunderstandings.  Khenpo prevents complacency.  Khenpo should always be pessimistic about the project status yet optimistic about the project's potential.   
 
@@ -125,18 +136,22 @@ Each layer subfolder full of PAGES will also have a draft_status.md that is your
 You must proceed layer by layer. **Do not begin Layer N until Layer N-1 is fully complete for the entire Volume.**
 
 **The Sequence:**
-1.  **LITERAL:** Generate pages 1–479 (Vol 1) referencing `tibetan` and `wylie`.
-2.  **LITURGICAL:** Generate pages 1–479 (Vol 1) referencing `tibetan`, `wylie`, and the newly created `literal`.
-3.  **COMMENTARY:** Generate pages 1–479 (Vol 1) referencing `tibetan`, `wylie`, `literal`, and `liturgical`.
-4.  **SCHOLAR:** Generate pages 1–479 (Vol 1) referencing all available layers.
-5.  **EPISTEMIC:** Generate pages 1–479 (Vol 1) referencing all available layers.
-6.  **DELUSION:** Generate pages 1–479 (Vol 1) referencing all available layers.
-7.  **COGNITIVE:** Generate pages 1–479 (Vol 1) referencing all available layers.
+1.  **LITERAL:** Generate all 114 sections (Vol 1) referencing `text/tibetan/` and `text/wylie/`.
+2.  **LITURGICAL:** Generate all 114 sections (Vol 1) referencing `text/tibetan/`, `text/wylie/`, and the newly created `text/literal/`.
+3.  **COMMENTARY:** Generate all 114 sections (Vol 1) referencing `text/tibetan/`, `text/wylie/`, `text/literal/`, and `text/liturgical/`.
+4.  **SCHOLAR:** Generate all 114 sections (Vol 1) referencing all available layers.
+5.  **EPISTEMIC:** Generate all 114 sections (Vol 1) referencing all available layers.
+6.  **DELUSION:** Generate all 114 sections (Vol 1) referencing all available layers.
+7.  **COGNITIVE:** Generate all 114 sections (Vol 1) referencing all available layers.
+8.  **METER:** Generate all 114 sections analyzing PROSE/VERSE/ORNAMENTAL/MANTRA patterns.
 
-*(Repeat for Volume 2)*
+*(Repeat for Volume 2: 99 sections)*
 
-**Generation Protocol for Each Page:**
-When creating a page file, adhere strictly to the "PROMPT" instructions defined for that specific layer (e.g., for `literal`, follow the "Precision Philological Instrument" constraints). Use the reference layers to ensure accuracy, but prioritize the specific persona and constraints of the layer you are currently writing.  Continually reference your prompt and persona as you complete pages to refresh your latest memory with the task at hand.  Just repeating what you did on the last page is never as good as returning to review the root mission statements between pages.  
+**Generation Protocol for Each Section:**
+When creating a section file (e.g., `text/literal/01-04-12-01.txt`), adhere strictly to the "PROMPT" instructions defined for that specific layer (e.g., for `literal`, follow the "Precision Philological Instrument" constraints). Use the reference layers to ensure accuracy, but prioritize the specific persona and constraints of the layer you are currently writing.  Continually reference your prompt and persona as you complete sections to refresh your latest memory with the task at hand.  Just repeating what you did on the last section is never as good as returning to review the root mission statements between sections.
+
+**Using Meter Layer for Liturgical:**
+When working on `text/liturgical/`, first check `text/meter/` for the corresponding section. Apply VERSE formatting for chantable meter, PROSE formatting for flowing exposition, and preserve ORNAMENTAL elements appropriately.  
 
 **Pause between Literal/Liturgical and Commentary/Scholar**
 

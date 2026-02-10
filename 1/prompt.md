@@ -40,7 +40,7 @@ Copyleft 2026: Amid all this apparent happening, nothing has happened.
 
 **Protocol:** Never change, modify, or "correct" the Tibetan layer based on English logic. All interpretation must bow to the Unicode text as it stands.
 
-**Location:** Individual page files in the `tibetan` subfolder.
+**Location:** Individual section files in `text/tibetan/` using VV-CC-SS-SS.txt format (e.g., 01-01-01-01.txt, 02-15-03-01.txt).
 
 ## NEVER ALTER THE TIBETAN LAYER
 
@@ -52,7 +52,7 @@ Copyleft 2026: Amid all this apparent happening, nothing has happened.
 
 **Protocol:** Treat this as a structural reference for syllable separation and parsing. Do not change the Wylie layer. If the Tibetan and Wylie disagree, the Tibetan is correct, and the Wylie should be noted as a reference only.
 
-**Location:** Individual page files in the `wylie` subfolder.
+**Location:** Individual section files in `text/wylie/` using VV-CC-SS-SS.txt format.
 
 ## NEVER ALTER THE WYLIE LAYER
 
@@ -60,7 +60,7 @@ Copyleft 2026: Amid all this apparent happening, nothing has happened.
 
 # THE LITERAL LAYER PROMPT **Dpyad kyi bshad pa** 
 
-**Location:** Individual page files in the `literal` subfolder.
+**Location:** Individual section files in `text/literal/` using VV-CC-SS-SS.txt format (213 sections).
 
 The literal layer is a *Dpyad kyi bshad pa* (Analytical Translation) produced by an LLM. It serves as a structural scaffold for the subsequent layers. 
 
@@ -117,7 +117,13 @@ Render a strict 1:1 literal mechanical mapping of the source TIBETAN lines. Adhe
 
 **Protocol:** This layer is progressing through LLM drafts towards a final polish draft. 
 
-**Location:** Individual page files in the `liturgical` subfolder.
+**Location:** Individual section files in `text/liturgical/` using VV-CC-SS-SS.txt format (213 sections).
+
+**NEW:** Reference `text/meter/` for metrical classification (PROSE/VERSE/ORNAMENTAL/MANTRA) to guide formatting:
+- VERSE sections: Apply chantable rhythm and line breaks
+- PROSE sections: Flowing, majestic paragraphs  
+- ORNAMENTAL: Preserve headings/markers
+- MANTRA: Transliterate sacred syllables
 
 ---
 
@@ -192,7 +198,7 @@ Render strictly as a 1:1 liturgical mechanical mapping of the source TIBETAN lin
 
 **Protocol:** This layer is progressing through LLM drafts towards a final polish draft. 
 
-**Location:** Individual page files in the `commentary` subfolder
+**Location:** Individual section files in `text/commentary/` using VV-CC-SS-SS.txt format (213 sections).
 
 ## WARNING: 
 (FOR AGENTS READING THIS LAYER)
@@ -247,7 +253,7 @@ Note: Line number ranges may overlap, may be a single line, and may if necessary
 
 **Protocol:** This layer is progressing through LLM drafts towards a final polish draft. 
 
-**Location:** Individual page files in the `scholar` subfolder
+**Location:** Individual section files in `text/scholar/` using VV-CC-SS-SS.txt format (213 sections).
 
 ## WARNING:
 **(FOR AGENTS READING THIS LAYER)**
@@ -343,7 +349,7 @@ Note: Line number ranges may overlap, may be a single line, and may if necessary
 
 **Protocol:** This layer is progressing through LLM drafts towards a final polish draft. 
 
-**Location:** Individual page files in the `epistemic` subfolder.
+**Location:** Individual section files in `text/epistemic/` using VV-CC-SS-SS.txt format (213 sections).
 
 ---
 
@@ -484,7 +490,7 @@ It is the **air-traffic control layer** of your entire project.
 
 **Protocol:** This layer is progressing through LLM drafts towards a final polish draft. 
 
-**Location:** Individual page files in the `delusion` subfolder.
+**Location:** Individual section files in `text/delusion/` using VV-CC-SS-SS.txt format (213 sections).
 
 ---
 
@@ -649,7 +655,7 @@ CASCADE EFFECTS:
 
 **Protocol:** This layer is progressing through LLM drafts towards a final polish draft. 
 
-**Location:** Individual page files in the `cognitive` subfolder.
+**Location:** Individual section files in `text/cognitive/` using VV-CC-SS-SS.txt format (213 sections).
 
 ---
 
@@ -818,3 +824,41 @@ Scope declaration. From vast dharma ocean to this specific mdzod exposition. The
 [28–35]
 Structural framing of Buddha activity via three kāyas. Classification, not narrative. No chronology implied. Activities, locations, and displays are indexed, not caused. This seeds later architecture and must stay non-causal. Lists must remain lists.
 ```
+
+===
+
+# THE METER LAYER **sgra dbyangs kyi rnam gzhag**
+
+## NEW LAYER (2026-02-10)
+
+**Purpose:** The meter layer provides **metrical analysis** for all 213 sections, classifying content as PROSE, VERSE, ORNAMENTAL, or MANTRA to guide liturgical formatting.
+
+**Protocol:** This layer was auto-generated using boundary.json and pyewts syllable counting. All 2,081 entries classified and verified.
+
+**Location:** Individual section files in `text/meter/` using VV-CC-SS-SS.txt format (213 sections).
+
+**Classification System:**
+
+| Type | Code | Description | Use in Liturgical |
+|------|------|-------------|-------------------|
+| **PROSE** | [PROSE] | Elegant prose exposition | Flowing paragraphs, elevated diction |
+| **VERSE** | [VERSE] | Rhythmic verse with meter | Chantable rhythm, line breaks at shad |
+| **ORNAMENTAL** | [ORNAMENTAL] | Headings, markers, symbols | Preserve formatting, minimal translation |
+| **MANTRA** | [MANTRA] | Sacred syllables | Transliterate, do not translate |
+
+**VERSE Sub-Classification:**
+- **Sang Drel** (7-syllable) - Most common meter
+- **Nor Nang** (9-syllable) - Extended verses
+- **Chudral** (6-syllable) - Short verses
+- Mixed/Other - Irregular patterns
+
+**Statistics:**
+- PROSE: 1,735 entries (82.6%)
+- VERSE: 191 entries (9.1%)
+- ORNAMENTAL: 117 entries (5.6%)
+- MANTRA: 38 entries (1.8%)
+- **Total: 2,081 metrical entries**
+
+**Usage:**
+When generating liturgical content, first read the corresponding meter file to determine formatting approach.
+

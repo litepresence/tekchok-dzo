@@ -2,9 +2,37 @@
 
 ## Overview
 
-This is a 9-layer agentic translation project for Longchenpa's "Treasury of the Supreme Vehicle" (Theg mchog rin po che'i mdzod). The project spans 894 pages across 2 volumes (479 + 415 pages).
+This is a 9-layer agentic translation project for Longchenpa's "Treasury of the Supreme Vehicle" (Theg mchog rin po che'i mdzod). 
 
-**Last Major Update:** 2026-02-08 - Comprehensive Audit Complete - Critical Gaps Identified
+**Structure:** 213 sections across 2 volumes (114 + 99 sections)
+**Format:** Section-based (VV-CC-SS-SS.txt) - Migrated from page-based (PAGE_XXX.txt)
+
+**Last Major Update:** 2026-02-10 - Migrated to `text/` folder with section-based structure
+
+---
+
+## 🚨 MIGRATION NOTICE (2026-02-10)
+
+**PRIMARY BUILD NOW IN `text/` FOLDER**
+
+The project has migrated from page-based files (PAGE_001.txt) to **section-based files** (01-01-01-01.txt):
+
+| Old Location | New Location | Status |
+|--------------|--------------|--------|
+| `volume_1/tibetan/PAGE_001.txt` | `text/tibetan/01-01-01-01.txt` | Migrated ✅ |
+| `volume_2/tibetan/PAGE_001.txt` | `text/tibetan/02-15-01-01.txt` | Migrated ✅ |
+| `volume_1/commentary/` | `text/commentary/` | Migrated ✅ |
+| `volume_2/delusion/` | `text/delusion/` | Migrated ✅ |
+
+**Section ID Format:** `VV-CC-SS-SS.txt`
+- **VV:** Volume (01 or 02)
+- **CC:** Chapter (01-25)  
+- **SS:** Section number (01-20+)
+- **SS:** Subsection (01, 02, etc.)
+
+**NEW:** `text/meter/` layer added - Contains metrical analysis (PROSE/VERSE/ORNAMENTAL/MANTRA) for all 213 sections.
+
+**Archived:** Old page-based builds moved to `backup/volume_1/` and `backup/volume_2/` for reference.
 
 ---
 
@@ -37,7 +65,7 @@ This means chapter page ranges run from the **previous chapter's end marker** to
 ## Directory Structure
 
 ```
-/home/oracle/extinction-event/EV/theg pa'i mchog rin po che'i mdzod/1/
+/home/opencode/MDZOD/1/                         # Project root
 ├── prompt.md                    # Master editorial conventions & layer prompts
 ├── status.md                    # Real-time project status & metrics
 ├── khenpo.md                    # Dzogchen lineage quality review
@@ -46,21 +74,24 @@ This means chapter page ranges run from the **previous chapter's end marker** to
 ├── contents.md                  # Detailed structural table of contents
 ├── conventions.md               # Technical translation conventions
 ├── navigation.md                #### THIS FILE #### Agent navigation guide
+├── dictionary.md                # Tibetan-English terminology standards
 ├── boundary.json                # Master structural boundaries (213 sections)
 ├── markers.md                   # Section markers reference (165 markers)
-├── python/                      # Automation scripts
+├── python/                      # Automation scripts (archived)
 │   ├── verify_boundaries.py     # Verifies boundary.json against source
 │   ├── verify_titles.py         # Validates Tibetan/English titles
 │   ├── verify_markers.py        # Syncs markers.md with boundary.json
 │   ├── repair_summaries.py      # Repairs content summaries
-│   └── [other utility scripts]
-├── backup/                      # Archive of old versions & outputs
+│   └── [72 utility scripts archived]
+├── backup/                      # Archive of old versions & PAGE-based builds
 │   ├── boundary_v2.json         # Previous boundary versions
 │   ├── contents_v2.md
 │   ├── verified.json            # Verification outputs
+│   ├── volume_1/                # [ARCHIVED] Page-based Volume 1 build
+│   ├── volume_2/                # [ARCHIVED] Page-based Volume 2 build
 │   └── [archived reports]
-├── volume_1/                    # Volume 1: Chapters 1-14, Pages 1-479
-│   ├── tibetan/                 # TSHAD MA - Source text (immutable)
+├── text/                        # PRIMARY BUILD - Section-based structure (213 sections)
+│   ├── tibetan/                 # TSHAD MA - Source text (01-01-01-01.txt, etc.)
 │   ├── wylie/                   # LAM - Extended Wylie transliteration
 │   ├── literal/                 # Dpyad kyi bshad pa - 1:1 grammatical
 │   ├── liturgical/              # sgrub pa'i gleng gzhi - Vajra speech
@@ -68,32 +99,31 @@ This means chapter page ranges run from the **previous chapter's end marker** to
 │   ├── scholar/                 # mkhas pa'i dpyod pa - Academic analysis
 │   ├── epistemic/               # lta ba'i rim pa - View stratification
 │   ├── delusion/                # log pa spang ba - Error detection
-│   └── cognitive/               # shes pa'i rjes su brjod pa - Translator log
-│
-└── volume_2/                    # Volume 2: Chapters 15-25, Pages 1-415
-    ├── tibetan/                 # TSHAD MA - Source text (immutable)
-    ├── wylie/                   # LAM - Extended Wylie transliteration
-    ├── literal/                 # 1:1 grammatical layer
-    ├── liturgical/              # Vajra speech layer
-    ├── commentary/              # Heart instruction layer
-    ├── scholar/                 # Academic analysis
-    ├── epistemic/               # View stratification
-    ├── delusion/                # Error detection
-    └── cognitive/               # Translator log
+│   ├── cognitive/               # shes pa'i rjes su brjod pa - Translator log
+│   └── meter/                   # NEW - Metrical analysis (VERSE/PROSE/MANTRA)
 ```
 
 ### Layer Subfolder Contents
-Each layer folder contains:
-- `PAGE_001.txt through PAGE_479.txt` (Volume 1) or `PAGE_001.txt through PAGE_415.txt` (Volume 2)
-- `draft_status.md` - **CRITICAL: Track your changes here**
+Each layer folder in `text/` contains:
+- `01-01-01-01.txt through 02-25-99-01.txt` - 213 sections following `VV-CC-SS-SS.txt` format
+  - **VV:** Volume (01 or 02)
+  - **CC:** Chapter (01-25)
+  - **SS:** Section number (01-20+)
+  - **SS:** Subsection (01, 02, etc.)
+- Example: `01-04-12-01.txt` = Volume 1, Chapter 4, Section 12, Subsection 1
+- Example: `02-18-05-01.txt` = Volume 2, Chapter 18, Section 5, Subsection 1
 
-**IMPORTANT:** Each layer's `draft_status.md` tracks:
-- Pages you've revised
-- What issues you found
-- What corrections you made
+**NEW:** `meter/` layer contains metrical analysis for all 213 sections:
+- `[PROSE]` - Elegant prose sections
+- `[VERSE]` - Rhythmic verse with meter classification (Sang Drel, Nor Nang, etc.)
+- `[ORNAMENTAL]` - Headings, markers, symbols
+- `[MANTRA]` - Sacred syllables
+
+**IMPORTANT:** Track your changes in the layer's documentation:
 - Line numbers affected
-- Completion percentages
+- Completion percentages  
 - Stub counts
+- Meter classifications applied
 
 ---
 
@@ -162,14 +192,17 @@ All page files follow: `PAGE_XXX.txt` (zero-padded to 3 digits)
 
 **CRITICAL:** Always use quotes around file paths:
 ```bash
-# CORRECT:
-cat "/home/oracle/extinction-event/EV/theg pa'i mchog rin po che'i mdzod/1/volume_2/epistemic/PAGE_101.txt"
+# CORRECT - Section-based format (current):
+cat "/home/opencode/MDZOD/1/text/epistemic/01-01-01-01.txt"
 
 # INCORRECT (will fail):
-cat /home/oracle/extinction-event/EV/theg pa'i mchog rin po che'i mdzod/1/volume_2/epistemic/PAGE_101.txt
+cat /home/opencode/MDZOD/1/text/epistemic/01-01-01-01.txt
+
+# ARCHIVED - Old page-based format (moved to backup/):
+# cat "/home/opencode/MDZOD/1/backup/volume_2/epistemic/PAGE_101.txt"
 ```
 
-**Recent Fix:** All files now follow consistent `PAGE_XXX.txt` naming. Previous naming inconsistencies (e.g., `PAGE 381.md`) have been resolved.
+**Recent Change:** Project migrated from PAGE-based structure (PAGE_001.txt) to section-based structure (VV-CC-SS-SS.txt format). All 213 sections follow consistent `VV-CC-SS-SS.txt` naming (e.g., `01-01-01-01.txt`, `02-18-05-01.txt`).
 
 ---
 
@@ -241,14 +274,14 @@ Files below minimums should be flagged as "stubs" needing work.
 - Are functionally useless for transmission
 - Must be identified by line count, not file existence
 
-**Always verify:** `wc -l PAGE_XXX.txt` before assuming content is substantive.
+**Always verify:** `wc -l text/[layer]/VV-CC-SS-SS.txt` before assuming content is substantive.
 
 ---
 
 ## Key Files for Reference
 
 - **PROJECT_STATE_REPORT.md** - Comprehensive analysis of real project state
-- **volume_1/*/draft_status.md** - Detailed layer status (18 files)
+- **status.md** - Project-wide status and metrics
 - **prompt.md** - Layer specifications and constraints
 - **conventions.md** - Methodology and quality standards
 - **exemplars.md** - Best-practice examples
@@ -312,22 +345,25 @@ Chapter 4 (Philosophical Systems)
 - Volume 1: Pages 1-479 (Chapters 1-14)
 - Volume 2: Pages 1-415 (Chapters 15-25)
 
-When navigating to a page:
-- If chapter ≤ 14: Use `volume_1/tibetan/PAGE_XXX.txt`
-- If chapter ≥ 15: Use `volume_2/tibetan/PAGE_XXX.txt`
+When navigating to content:
+- If chapter ≤ 14: Use `text/tibetan/01-CC-SS-SS.txt` (Volume 1 sections)
+- If chapter ≥ 15: Use `text/tibetan/02-CC-SS-SS.txt` (Volume 2 sections)
+- Section ID format: `VV-CC-SS-SS` (Volume-Chapter-Section-Subsection)
 
 #### 4. Line Numbering System
 
-All source files use bracketed line numbers:
+All source files in `text/` use bracketed line numbers with continuous line numbering per volume:
 ```
 [1] ༄༅།
 [2] །ཐེག་མཆོག་མཛོད་ཀྱི་གླེགས་བམ་དང་པོའོ།
 [3] །
 ```
 
-Line numbers are **continuous within each volume** (not per-page):
-- Volume 1: Lines 1-20,425
-- Volume 2: Lines 1-16,972 (approximately)
+Line numbers are **continuous within each volume** (not per-section):
+- Volume 1 (text/tibetan/): Lines 1-20,425
+- Volume 2 (text/tibetan/): Lines 1-16,972 (approximately)
+
+**Note:** While files are now section-based (VV-CC-SS-SS.txt), line numbering preserves the original volume-wide continuity for cross-referencing.
 
 ---
 
@@ -342,8 +378,9 @@ Line numbers are **continuous within each volume** (not per-page):
 cd /home/opencode/MDZOD/1
 python3 python/verify_boundaries.py
 ```
-**Output:** Creates `backup/verified.json` with True/False for each section  
+**Output:** Creates `backup/verified.json` with True/False for each section
 **Status:** All 213 sections verified ✅
+**Source:** References `text/tibetan/` for verification
 
 #### 2. verify_titles.py
 **Purpose:** Validates Tibetan titles (Tibetan unicode only) and English titles (Roman only)  
@@ -394,52 +431,71 @@ python3 python/repair_summaries.py
 
 ### 1. ALWAYS Verify File Paths
 
-**Spaces in paths:** The directory contains spaces. Always use quotes:
+**Primary Build Location:** All work happens in `text/` folder using section-based naming:
 ```bash
-# CORRECT:
-cat "/home/opencode/MDZOD/1/volume_2/tibetan/PAGE_001.txt"
+# CORRECT - Current section-based format:
+cat "/home/opencode/MDZOD/1/text/tibetan/01-01-01-01.txt"
+cat "/home/opencode/MDZOD/1/text/liturgical/01-04-12-01.txt"
 
 # INCORRECT (will fail):
-cat /home/opencode/MDZOD/1/volume_2/tibetan/PAGE_001.txt
+cat /home/opencode/MDZOD/1/text/tibetan/01-01-01-01.txt
+
+# ARCHIVED - Old page-based format (moved to backup/volume_1/, backup/volume_2/):
+# cat "/home/opencode/MDZOD/1/backup/volume_1/tibetan/PAGE_001.txt"
 ```
 
 ### 2. Check Line Counts, Not Just File Existence
 
-**Silent Stubs:** Many files exist but contain only 2-17 lines of placeholder content:
+**Silent Stubs:** Many files may exist but contain only 2-17 lines of placeholder content:
 ```bash
 # WRONG - assumes content exists:
-ls volume_2/delusion/PAGE_100.txt  # File exists ✓
+ls text/delusion/02-17-05-01.txt  # File exists ✓
 
 # RIGHT - verifies actual content:
-wc -l volume_2/delusion/PAGE_100.txt  # Shows 3 lines ⚠️
+wc -l text/delusion/02-17-05-01.txt  # Shows 3 lines ⚠️
 ```
 
-Always verify with `wc -l` before assuming a page is complete.
+Always verify with `wc -l` before assuming a section is complete.
+
+**Section Lookup:** Use boundary.json to find which section covers specific content:
+```bash
+# Find section for Chapter 4, Section 12:
+grep '"section_id": "01-04-12-01"' boundary.json
+
+# Find all sections in Chapter 18:
+grep '"chapter": 18' boundary.json | grep '"subsection": 1' | head -10
+```
 
 ### 3. Use Structural Files for Navigation
 
-Instead of guessing page locations:
+Instead of guessing file locations, use the section-based structure:
 ```bash
-# Look up page range for Chapter 18:
-grep -A 5 "## Chapter 18" contents.md
-# Output: Pages 91-140 (Volume 2)
+# Look up sections in Chapter 18:
+grep '"chapter": 18' boundary.json | grep -o '"section_id": "[^"]*"' | head -5
+# Output: Section IDs like 02-18-01-01, 02-18-02-01, etc.
 
-# Find which chapter contains page 200:
-grep "Pages.*200" contents.md
+# Find which section contains specific content:
+grep -B 2 "specific Tibetan phrase" text/tibetan/*.txt
+
+# List all files in Chapter 4:
+ls text/tibetan/01-04-*-*.txt | head -10
 ```
 
 ### 4. Verify Source Before Translating
 
-Before working on any page:
+Before working on any section:
 ```bash
-# 1. Check the page exists in source
-ls volume_1/tibetan/PAGE_200.txt
+# 1. Check the section exists in source
+ls text/tibetan/01-04-12-01.txt
 
 # 2. Verify it has content
-wc -l volume_1/tibetan/PAGE_200.txt
+wc -l text/tibetan/01-04-12-01.txt
 
 # 3. Check line numbering
-tail -5 volume_1/tibetan/PAGE_200.txt
+tail -5 text/tibetan/01-04-12-01.txt
+
+# 4. Check meter classification
+grep "01-04-12-01" text/meter/*.txt | head -3
 ```
 
 ### 5. Run Verification Scripts Before Major Work
@@ -454,37 +510,43 @@ python3 python/verify_markers.py
 python3 python/verify_titles.py
 ```
 
-### 6. Update draft_status.md Religiously
+### 6. Update Status Documentation Religiously
 
-After every batch of work:
+After every batch of work, document progress in the appropriate status file:
 ```bash
-# Edit the layer's draft_status.md
-nano volume_1/commentary/draft_status.md
+# Update the main status file
+nano status.md
+
+# Or append to meta.md for architectural insights
+nano meta.md
 
 # Document:
-# - Pages revised
+# - Sections revised (e.g., 01-04-12-01 through 01-04-15-01)
 # - Issues found
 # - Line numbers affected
 # - Completion percentage
+# - Meter classifications applied (VERSE/PROSE/ORNAMENTAL/MANTRA)
 ```
 
 ### 7. Use Exemplars as Templates
 
 Don't improvise—replicate:
 ```bash
-# Read the relevant exemplar first
-cat volume_1/commentary/PAGE_141.txt  # 65-line exemplar
+# Read the relevant exemplar from backup/ (page-based) or text/ (section-based)
+cat backup/volume_1/commentary/PAGE_141.txt  # 65-line exemplar (page-based)
 
-# Study the pattern, then apply to your page
+# Study the pattern, then apply to your section
 # Match structure, voice, and depth
+# Apply meter layer classifications for liturgical formatting
 ```
 
 ### 8. Mind the Volume Boundary
 
 When working across volumes:
-- Chapter 14 ends at Volume 1, Page 479
-- Chapter 15 starts at Volume 2, Page 1
+- Volume 1 sections: 01-01-01-01 through 01-14-XX-XX (Chapters 1-14)
+- Volume 2 sections: 02-15-01-01 through 02-25-XX-XX (Chapters 15-25)
 - Line numbers DO NOT continue between volumes
+- Use section IDs to navigate: 01-CC-SS-SS or 02-CC-SS-SS
 
 ### 9. Check Section Markers
 
@@ -500,17 +562,19 @@ grep -A 25 "## Chapter 4" markers.md
 ### 10. Preserve Source Integrity
 
 **NEVER modify:**
-- volume_*/tibetan/ (source text)
-- volume_*/wylie/ (transliteration)
+- text/tibetan/ (source text - TSHAD MA)
+- text/wylie/ (transliteration - LAM)
+- backup/volume_*/ (archived page-based builds)
 
 **ONLY modify:**
-- volume_*/literal/
-- volume_*/liturgical/
-- volume_*/commentary/
-- volume_*/scholar/
-- volume_*/epistemic/
-- volume_*/delusion/
-- volume_*/cognitive/
+- text/literal/
+- text/liturgical/
+- text/commentary/
+- text/scholar/
+- text/epistemic/
+- text/delusion/
+- text/cognitive/
+- text/meter/ (metrical analysis layer)
 
 ---
 
@@ -552,10 +616,14 @@ Examples:
 
 ---
 
-**Navigation Guide Version:** 3.1  
+**Navigation Guide Version:** 4.0  
 **Last Updated:** 2026-02-10  
-**Structural Documentation:** Khenpo-Grade Verified ✅  
-**Critical Path:** 1,339 pages remaining
+**Major Change:** Migrated to `text/` folder with section-based structure  
+**Primary Build:** `text/` folder (213 sections in VV-CC-SS-SS.txt format)  
+**Archived:** `backup/volume_1/` and `backup/volume_2/` (page-based builds)  
+**New Layer:** `text/meter/` (metrical analysis for all 213 sections)  
+**Structural Documentation:** Khenko-Grade Verified ✅  
+**Critical Path:** 1,339 sections remaining
 
 ---
 
@@ -607,20 +675,21 @@ The comprehensive audit revealed **7 high-quality exemplar pages** that prove qu
 
 ### Example Workflow
 
-**Task:** Repair Commentary PAGE_200.txt (currently 9-line stub)
+**Task:** Repair Commentary section 01-04-12-01.txt (currently 9-line stub)
 
 **Step 1:** Study exemplar
 ```bash
-wc -l /home/oracle/extinction-event/EV/theg\ pa\'i\ mchog\ rin\ po\ che\'i\ mdzod/1/volume_1/commentary/PAGE_141.txt
+wc -l backup/volume_1/commentary/PAGE_141.txt
 # Result: 65 lines
-cat "/home/oracle/extinction-event/EV/theg pa'i mchog rin po che'i mdzod/1/volume_1/commentary/PAGE_141.txt"
+cat "backup/volume_1/commentary/PAGE_141.txt"
 # Note: Line-by-line pattern, earthy metaphors, direct address
 ```
 
 **Step 2:** Read source
 ```bash
-cat "/home/oracle/extinction-event/EV/theg pa'i mchog rin po che'i mdzod/1/volume_1/tibetan/PAGE_200.txt"
-cat "/home/oracle/extinction-event/EV/theg pa'i mchog rin po che'i mdzod/1/volume_1/literal/PAGE_200.txt"
+cat "text/tibetan/01-04-12-01.txt"
+cat "text/literal/01-04-12-01.txt"
+cat "text/meter/01-04-12-01.txt"  # Check if VERSE or PROSE
 ```
 
 **Step 3:** Generate using exemplar pattern
@@ -628,17 +697,18 @@ cat "/home/oracle/extinction-event/EV/theg pa'i mchog rin po che'i mdzod/1/volum
 - Use line-by-line engagement (match exemplar)
 - Include earthy metaphors (match exemplar)
 - Direct "you" address (match exemplar)
+- Apply meter classification from meter layer
 
 **Step 4:** Verify
 ```bash
-wc -l /home/oracle/extinction-event/EV/theg\ pa\'i\ mchog\ rin\ po\ che\'i\ mdzod/1/volume_1/commentary/PAGE_200.txt
+wc -l text/commentary/01-04-12-01.txt
 # Should be: 50+ lines (matching exemplar's 65)
 ```
 
 **Step 5:** Document
 ```bash
-# Add to draft_status.md:
-# "Repaired using PAGE_141.txt exemplar pattern"
+# Update status.md:
+# "Repaired 01-04-12-01 using PAGE_141.txt exemplar pattern"
 ```
 
 ### Critical Path Using Exemplars

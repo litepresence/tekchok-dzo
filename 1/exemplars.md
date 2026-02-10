@@ -1,6 +1,21 @@
 # Exemplars: Best of the Best
 
-This document catalogs exemplary pages from each translation layer to serve as reference models for future agents and reviewers.
+This document catalogs exemplary sections from each translation layer to serve as reference models for future agents and reviewers.
+
+## 🚨 MIGRATION NOTICE (2026-02-10)
+
+**PRIMARY BUILD NOW IN `text/` FOLDER**
+
+The project has migrated from **page-based** files (PAGE_XXX.txt in volume_1/, volume_2/) to **section-based** files (VV-CC-SS-SS.txt in text/).
+
+**Section ID Format:** `VV-CC-SS-SS.txt`
+- **VV:** Volume (01 or 02)
+- **CC:** Chapter (01-25)
+- **SS:** Section number (01-20+)
+- **SS:** Subsection (01, 02, etc.)
+
+**Archive Reference:**
+Original PAGE_ exemplars listed below are preserved in `backup/volume_1/` and `backup/volume_2/`. Use these as templates, applying their patterns to corresponding sections in `text/`.
 
 ## Selection Criteria
 - **Literal Layer:** Strictest adherence to 1:1 word order, particle precision, no articles
@@ -10,9 +25,24 @@ This document catalogs exemplary pages from each translation layer to serve as r
 
 ---
 
+## 📍 LOCATION REFERENCE
+
+**Current Structure (text/ folder):**
+- All exemplars should be referenced in `backup/volume_X/[layer]/` (page-based originals)
+- Apply patterns to corresponding sections in `text/[layer]/` (section-based current)
+
+**Section Equivalents:**
+- PAGE_010.txt (backup/volume_1/) ≈ 01-01-02-01.txt (text/)
+- PAGE_141.txt (backup/volume_1/) ≈ 01-04-12-01.txt (text/)
+- PAGE_001.txt V2 (backup/volume_2/) ≈ 02-15-01-01.txt (text/)
+
+---
+
 ## VOLUME 1 EXEMPLARS
 
 ### LITERAL LAYER
+
+*Location: backup/volume_1/literal/* - Apply to: text/literal/
 
 1. **PAGE 10.txt** - Excellent particle handling (kyis/las), compound hyphenation
 2. **PAGE 25.txt** - Strict 1:1 word order maintenance, no articles throughout
@@ -906,4 +936,97 @@ From *Source*:
 *Revised Strategy:* Generate all stubs to PREMIER/ELITE standards, not minimums
 
 **Bottom Line:** The project has achieved 3-4x target depth in isolated exemplars. Scale that depth across all 1,339 stubs.
+
+
+---
+
+## 🆕 METER LAYER EXEMPLARS (NEW - 2026-02-10)
+
+**Location:** text/meter/
+
+The meter layer contains metrical analysis for all 213 sections, classifying content as:
+- **[PROSE]** - Elegant prose sections (doctrinal, instructional, definitional, transitional)
+- **[VERSE]** - Rhythmic verse with traditional Tibetan meter classification (Sang Drel, Nor Nang, Chudral)
+- **[ORNAMENTAL]** - Headings, markers, symbols, short text (<4 syllables)
+- **[MANTRA]** - Sacred syllables and mantra lines
+
+### Classification Examples
+
+**PROSE Example (01-01-01-01.txt):**
+```
+[1-10] [PROSE]
+- Type: Doctrinal exposition
+- Notes: Opening homage and title
+```
+
+**VERSE Example (01-04-12-01.txt):**
+```
+[7725-7775] [VERSE]
+- Primary meter: Sang Drel (7-syllable)
+- Syllable pattern: 7-7-7-7-7-8-7-7...
+- Notes: Extended verse section on primordial purity
+```
+
+**ORNAMENTAL Example (01-04-20-02.txt):**
+```
+[18271-18271] [ORNAMENTAL]
+- Type: Section marker
+- Syllables: [2]
+- Notes: Brief transitional marker
+```
+
+### Meter Layer Statistics
+
+| Type | Count | Percentage | Use in Liturgical Layer |
+|------|-------|------------|------------------------|
+| PROSE | 1,735 | 82.6% | Flowing paragraphs with elevated diction |
+| VERSE | 191 | 9.1% | Chantable rhythm, line breaks at shad markers |
+| ORNAMENTAL | 117 | 5.6% | Preserve formatting, minimal translation |
+| MANTRA | 38 | 1.8% | Transliterate sacred syllables |
+| **Total** | **2,081** | **100%** | |
+
+### Using Meter Layer in Liturgical Work
+
+When generating or revising liturgical content:
+
+1. **First, read the meter classification:**
+   ```bash
+   cat text/meter/01-04-12-01.txt
+   ```
+
+2. **Apply appropriate formatting:**
+   - **[PROSE]:** Write as flowing, majestic paragraphs
+   - **[VERSE]:** Add line breaks matching Tibetan shad, use chantable rhythm
+   - **[ORNAMENTAL]:** Preserve as formatted markers/headings
+   - **[MANTRA]:** Transliterate without translation
+
+3. **Verify meter alignment:**
+   - VERSE sections should have consistent syllable counts per line
+   - PROSE sections should flow naturally without forced meter
+   - No rhyming added (maintains Dzogchen openness)
+
+---
+
+## UPDATED LOCATION SUMMARY
+
+### Primary Build (Current)
+- **text/tibetan/** - 213 sections (VV-CC-SS-SS.txt)
+- **text/literal/** - 213 sections
+- **text/liturgical/** - 213 sections
+- **text/commentary/** - 213 sections
+- **text/scholar/** - 213 sections
+- **text/epistemic/** - 213 sections
+- **text/delusion/** - 213 sections
+- **text/cognitive/** - 213 sections
+- **text/meter/** - 213 sections (NEW)
+
+### Archive (Reference Only)
+- **backup/volume_1/** - Original page-based Volume 1 (PAGE_001-479.txt)
+- **backup/volume_2/** - Original page-based Volume 2 (PAGE_001-415.txt)
+
+### Exemplar Study Workflow
+1. Identify section ID from boundary.json or contents.md
+2. Study exemplar in backup/volume_X/[layer]/ (page-based reference)
+3. Apply pattern to text/[layer]/VV-CC-SS-SS.txt (section-based current)
+4. Reference text/meter/VV-CC-SS-SS.txt for liturgical formatting guidance
 
