@@ -54,6 +54,7 @@
 | thal 'gyur | thalgyur / consequent | Tantra of Great Completion | "thalgyur" | "Thalgyur" | Specific tantra title - transliterate |
 | rdzogs pa chen po | great completion / dzogchen | Dzogchen | "great-completion" | "Great Completion" or "Dzogchen" | Use "Dzogchen" when referring to system |
 | rang shar | self-arisen / self-luminous | Spontaneously arisen | "self-arisen" | "self-arisen" or "spontaneously arisen" | Emphasize non-fabrication |
+| gzhon nu bum sku | youth vase body | Dzogchen basis metaphor | "youth-vase-body" | "youth vase body" | "Youth" = ever-fresh, primordial; "Vase" = container of qualities; "Body" = dimension/form. Represents basis as youthful (ever-new), vase-like (containing all qualities), and embodied (manifest yet empty). |
 
 ---
 

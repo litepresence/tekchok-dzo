@@ -308,6 +308,53 @@ When the Tibetan shifts to *tshig bcad* (verse style marked by *shad*):
 *   **Enjambment:** If a Tibetan particle (*ste, zhig*) suspends the meaning, carry that suspension over into the English line break.
 *   **No Rhyme:** Never add rhyme. It creates conceptual closure that contradicts Dzogchen's open awareness.
 
+### LINE PREFIX TAGGING SYSTEM (for Proof Editor Processing)
+
+**ALL liturgical lines MUST be prefixed with one of the following tags:**
+
+**`<verse>`** - For VERSE sections (rhythmic, chantable)
+- Use for root verses, sung teachings, and metrical quotations
+- Maintain ~8-10 syllables per line when possible
+- Sacred, elevated register
+
+**`<tantra>`** - For tantra/scripture citations within PROSE
+- Use when citing specific tantras (Thalgyur, Rangshar, Klong-drug-pa, etc.)
+- Each line of the citation gets `<tantra>` prefix
+- Include attribution line
+
+**`<mantra>`** - For sacred syllables and mantras
+- Transliterate only, do not translate
+- Examples: oṃ maṇi padme hūṃ, vajra guru padma siddhi hūṃ
+
+**`<ornament>`** - For ornamental markers, headers, symbols
+- Section headers, enumerations, decorative shad
+- Minimal translation or transliteration
+
+**No prefix** - For standard PROSE (default)
+- Elegant prose sections require no tag
+- This is the default state
+
+**Tagging Examples:**
+
+```
+[10850] <tantra> From the Auspicious Beautiful Great Tantra:
+[10851] <tantra> "Realized Buddhas have not arisen.
+[10852] <tantra> Not-realized sentient beings have not arisen.
+[10853] <tantra> From before, in front,
+[10854] <tantra> Awareness, self-arisen wisdom, unmoved from the basis."
+
+[11217] <verse> Because the nature is spontaneously accomplished,
+[11218] <verse> These sentient beings are reasonably self-liberated.
+[11219] <verse> Primordially spontaneously accomplished.
+
+[1] <ornament> ༄༅།
+[2] <ornament> Treasury of the Supreme Vehicle
+
+[100] oṃ maṇi padme hūṃ (no brackets, just transliteration)
+```
+
+**Purpose:** These tags enable the proof editor to apply appropriate HTML formatting (indentation, styling) and generate properly formatted PDF output.
+
 ### QUALITY VERIFICATION
 
 **Before completing any section:**
