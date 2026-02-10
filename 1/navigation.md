@@ -7,7 +7,33 @@ This is a 9-layer agentic translation project for Longchenpa's "Treasury of the 
 **Structure:** 213 sections across 2 volumes (114 + 99 sections)
 **Format:** Section-based (VV-CC-SS-SS.txt) - Migrated from page-based (PAGE_XXX.txt)
 
-**Last Major Update:** 2026-02-10 - Migrated to `text/` folder with section-based structure
+**Last Major Update:** 2026-02-10 
+- Migrated to `text/` folder with section-based structure
+- Literal layer FROZEN (immutable foundation)
+- Added capitalize.md (capitalization standards)
+- Updated exemplars.md with section mappings
+
+---
+
+## 🖥️ SANDBOX ENVIRONMENT NOTICE
+
+**⚠️ CRITICAL: Temporary File Restrictions**
+
+This project operates in a **sandboxed environment** with the following constraints:
+
+- **NO ACCESS to `/tmp/` or system temp directories**
+- **Write operations limited to project directory only**
+- **All temporary files must be created within `/home/opencode/MDZOD/1/`**
+
+**For Agent Bots:**
+- Use the project root or subdirectories for any temp/work files
+- Example: Create temp files as `/home/opencode/MDZOD/1/temp_analysis.txt`
+- Do NOT attempt to use `/tmp/`, `/var/tmp/`, or system temp folders
+- Clean up temp files when operations complete
+
+**Python Scripts:**
+- Do not use `tempfile.gettempdir()` or default temp locations
+- Explicitly specify project directory for temp operations
 
 ---
 
@@ -100,7 +126,8 @@ This means chapter page ranges run from the **previous chapter's end marker** to
 │   ├── epistemic/               # lta ba'i rim pa - View stratification
 │   ├── delusion/                # log pa spang ba - Error detection
 │   ├── cognitive/               # shes pa'i rjes su brjod pa - Translator log
-│   └── meter/                   # NEW - Metrical analysis (VERSE/PROSE/MANTRA)
+│   ├── meter/                   # Metrical analysis (VERSE/PROSE/MANTRA)
+│   └── introduction/            # NEW - Chapter introductions (VV-CC-00-00.txt format)
 ```
 
 ### Layer Subfolder Contents
@@ -118,6 +145,11 @@ Each layer folder in `text/` contains:
 - `[VERSE]` - Rhythmic verse with meter classification (Sang Drel, Nor Nang, etc.)
 - `[ORNAMENTAL]` - Headings, markers, symbols
 - `[MANTRA]` - Sacred syllables
+
+**NEW:** `introduction/` layer contains chapter introductions (25 chapters total):
+- Format: `VV-CC-00-00.txt` (one file per chapter)
+- Example: `01-01-00-00.txt` = Volume 1, Chapter 1 introduction
+- Purpose: Contextual summaries to orient readers before each chapter
 
 **IMPORTANT:** Track your changes in the layer's documentation:
 - Line numbers affected
@@ -140,6 +172,7 @@ Each layer folder in `text/` contains:
 |-------|---------|---------|-----------|-----------|--------------|
 | **1. TIBETAN** | *tshad ma* | Source of validity - BDRC "Best Quality" text | ✅ 100% | ✅ 100% | READ ONLY |
 | **2. WYLIE** | *lam* | Extended Wylie transliteration bridge | ✅ 100% | ✅ 100% | READ ONLY |
+| **3. LITERAL** | *dpyad kyi bshad pa* | 1:1 grammatical mapping - verified | ✅ 100% | ✅ 100% | **FROZEN - FINALIZED** |
 
 ### Translation Layers (Core Rendering)
 | Layer | Tibetan | Purpose | Voice/Persona | V1 Status | V2 Status |
@@ -284,7 +317,9 @@ Files below minimums should be flagged as "stubs" needing work.
 - **status.md** - Project-wide status and metrics
 - **prompt.md** - Layer specifications and constraints
 - **conventions.md** - Methodology and quality standards
-- **exemplars.md** - Best-practice examples
+- **exemplars.md** - Best-practice examples (with section mappings)
+- **capitalize.md** - Capitalization standards for Sanskrit/Dzogchen terms
+- **dictionary.md** - Tibetan-English terminology standards
 
 ---
 

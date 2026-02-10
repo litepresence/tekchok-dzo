@@ -66,7 +66,8 @@ Scan the `text/` subfolders and determine the state of the project. All content 
 **Source Truth Protocol:**
 *   **Tibetan (`text/tibetan/`):** Treated as the **ROOT TEXT**. It is perfect and immutable. Never alter.
 *   **Wylie (`text/wylie/`):** Treated as the **STRUCTURAL REFERENCE**. It is 99% accurate. Use it to resolve syntactic ambiguities in the Tibetan.
-*   **LLM Layers (`text/literal/`, `text/liturgical/`, `text/commentary/`, `text/scholar/`, etc.):** Treated as **DRAFT MATERIAL**. These are iterative outputs subject to corruption and require refinement.
+*   **Literal (`text/literal/`):** **FROZEN - FINALIZED 2026-02-10**. Treated as **IMMUTABLE FOUNDATION**. This layer is complete, verified, and locked. Never alter. Reference only.
+*   **LLM Layers (`text/liturgical/`, `text/commentary/`, `text/scholar/`, etc.):** Treated as **DRAFT MATERIAL**. These are iterative outputs subject to corruption and require refinement.
 *   **Meter (`text/meter/`):** Metrical analysis layer - identifies PROSE/VERSE/ORNAMENTAL/MANTRA sections to guide liturgical formatting.
 
 **File Protocol:**

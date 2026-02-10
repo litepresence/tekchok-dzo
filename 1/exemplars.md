@@ -57,16 +57,67 @@ Original PAGE_ exemplars listed below are preserved in `backup/volume_1/` and `b
 
 ### LITURGICAL LAYER
 
-1. **PAGE 10.txt** - Vairotsana voice established
-2. **PAGE 25.txt** - Elegant prose flow
-3. **PAGE 50.txt** - Rhythmic verse for citations
-4. **PAGE 75.txt** - Metaphysical precision
-5. **PAGE 100.txt** - Vehicle descriptions majestic
-6. **PAGE 125.txt** - Letter exposition chantable
-7. **PAGE 150.txt** - Empowerment majesty
-8. **PAGE 200.txt** - Guru devotion resonance
-9. **PAGE 250.txt** - Samaya transmission
-10. **PAGE 300.txt** - Dzogchen view clarity
+**SECTION-BASED EXEMPLAR MAPPING:**
+
+The following sections in `text/liturgical/` represent the highest-quality Vairotsana voice:
+
+1. **01-01-02-01.txt** - Vairotsana voice established (corresponds to PAGE 10)
+   - Lines 175-578, Volume 1
+   - Majestic invocation and prostration verses
+   - [VERSE] sections with chantable rhythm
+
+2. **01-02-01-05.txt** - Elegant prose flow (corresponds to PAGE 25)
+   - Lines 999-1424, Volume 1
+   - Cosmological exposition
+   - [PROSE] doctrinal sections
+
+3. **01-02-03-01.txt** - Rhythmic verse for citations (corresponds to PAGE 50)
+   - Lines 1572-1752, Volume 1
+   - Root verses and quotations
+   - Mixed VERSE/PROSE structure
+
+4. **01-04-08-01.txt** - Metaphysical precision (corresponds to PAGE 75)
+   - Lines 2989-3017, Volume 1
+   - Technical Dzogchen view
+   - Dense PROSE exposition
+
+5. **01-05-03-01.txt** - Vehicle descriptions majestic (corresponds to PAGE 100)
+   - Lines 4848-5077, Volume 1
+   - Nine vehicle enumeration
+   - Catalog/structural PROSE
+
+6. **01-06-02-01.txt** - Letter exposition chantable (corresponds to PAGE 125)
+   - Lines 7725-7775, Volume 1
+   - Sanskrit/Tibetan letter classes
+   - [VERSE] with meter classification
+
+7. **01-07-02-01.txt** - Empowerment majesty (corresponds to PAGE 150)
+   - Lines 8399-8478, Volume 1
+   - Four empowerments
+   - Ritual/technical PROSE
+
+8. **01-09-02-01.txt** - Guru devotion resonance (corresponds to PAGE 200)
+   - Lines 10943-11113, Volume 1
+   - Guru yoga instructions
+   - Devotional PROSE/VERSE mix
+
+9. **01-11-05-01.txt** - Samaya transmission (corresponds to PAGE 250)
+   - Lines 13704-13843, Volume 1
+   - Samaya vows and commitments
+   - Instructional PROSE
+
+10. **01-14-04-01.txt** - Dzogchen view clarity (corresponds to PAGE 300)
+    - Lines 18274-18610, Volume 1
+    - Great Perfection exposition
+    - Peak PROSE exposition
+
+**LEGACY REFERENCE:**
+Original PAGE_ exemplars preserved in `backup/volume_1/liturgical/`:
+- PAGE_10.txt through PAGE_300.txt
+- Use for voice pattern analysis when working on corresponding sections
+
+**VOLUME 2 EXEMPLARS:**
+As Volume 2 liturgical is finalized, sections demonstrating exceptional quality should be added here following the same format (02-XX-XX-XX.txt).
 
 ### COMMENTARY LAYER
 
