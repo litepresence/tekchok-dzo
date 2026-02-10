@@ -16,7 +16,11 @@ def process_file(in_path, out_path):
         if m:
             out.append(m.group(1) + converter.toWylie(m.group(2)))
         else:
-            out.append(converter.toWylie(line.strip()))
+            m = re.match(r'^###.*', line)
+            if m:
+                out.append(line.strip())
+            else:
+                out.append(converter.toWylie(line.strip()))
     with open(out_path, 'w', encoding='utf-8') as f:
         f.write(chr(10).join(out) + chr(10))
 
