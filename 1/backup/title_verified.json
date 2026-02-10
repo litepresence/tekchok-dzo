@@ -1,0 +1,14 @@
+{
+  "total_sections": 213,
+  "total_issues": 0,
+  "issues": {
+    "missing_tibetan": [],
+    "missing_english": [],
+    "invalid_tibetan": [],
+    "invalid_english": [],
+    "blank_tibetan": [],
+    "blank_english": []
+  },
+  "duplicates": [],
+  "passed": true
+}

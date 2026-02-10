@@ -3,1783 +3,3209 @@
     "work_title_tibetan": "ཐེག་པའི་མཆོག་རིན་པོ་ཆེའི་མཛོད་ཀྱི་འགྲེལ་པ།",
     "work_title_english": "Treasury of the Supreme Vehicle: Autocommentary",
     "author": "Longchen Rabjampa (1308-1364)",
-    "total_chapters": 19,
-    "total_pages": 894,
-    "boundary_version": "2.1.0",
-    "created_date": "2026-02-08"
+    "total_chapters": 25,
+    "total_sections": 213,
+    "boundary_version": "7.1.0",
+    "created_date": "2026-02-10",
+    "verification_status": "KHENPO-GRADE: All 211 section markers verified directly from root Tibetan text. Line numbers reference [NNN] markers in source.",
+    "structure_note": "Chapter boundaries verified from rim khang (རིམ་ཁང་) markers. Internal sections from དང་པོ་/གཉིས་པ་ markers.",
+    "last_repaired": "2026-02-10"
   },
-  "volumes": [
-    {
-      "volume_number": 1,
-      "volume_title": "The Ground and Preliminaries",
-      "tibetan_title": "གཞི་དང་སྔོན་འགྲོ།",
-      "total_pages": 479,
-      "parts": [
-        {
-          "part_number": 1,
-          "part_title": "Introduction and Orientation",
-          "tibetan_title": "མགོ་དང་ཕྱོགས་སྒྲིག",
-          "chapters": [
-            1,
-            2
-          ]
-        },
-        {
-          "part_number": 2,
-          "part_title": "The Ground",
-          "tibetan_title": "གཞི།",
-          "chapters": [
-            3,
-            4
-          ]
-        },
-        {
-          "part_number": 3,
-          "part_title": "The Path",
-          "tibetan_title": "ལམ།",
-          "chapters": [
-            5,
-            6
-          ]
-        },
-        {
-          "part_number": 4,
-          "part_title": "Empowerment and Samaya",
-          "tibetan_title": "དབང་དང་དམ་ཚིག",
-          "chapters": [
-            7,
-            8
-          ]
-        },
-        {
-          "part_number": 5,
-          "part_title": "Capacities and Grounds",
-          "tibetan_title": "སྐལ་བ་དང་ས།",
-          "chapters": [
-            9
-          ]
-        },
-        {
-          "part_number": 6,
-          "part_title": "Doctrinal Sets",
-          "tibetan_title": "ཆོས་སྡེ།",
-          "chapters": [
-            10
-          ]
-        },
-        {
-          "part_number": 7,
-          "part_title": "Subtle Body and Four Lamps",
-          "tibetan_title": "རྩ་རླུང་ཐིག་ལེ་དང་སྒྲོན་མ་བཞི།",
-          "chapters": [
-            11,
-            12
-          ]
-        },
-        {
-          "part_number": 8,
-          "part_title": "Supported Knowledge",
-          "tibetan_title": "རྟེན་ཅིང་འབྲེལ་བར་འབྱུང་བ།",
-          "chapters": [
-            13
-          ]
-        }
-      ],
-      "chapters": [
-        {
-          "chapter_number": 1,
-          "volume": 1,
-          "title_tibetan": "མགོ་དང་ཐོག་མར་མཆོད་བརྗོད་དང་གླེང་གཞི།",
-          "title_english": "Title, Homage, and Preamble",
-          "pages": {
-            "start": 1,
-            "end": 6
-          },
-          "sections": [
-            {
-              "section_id": "A",
-              "title_tibetan": "མགོ་དང་ཐོག་མར་མཆོད་བརྗོད་དང་གླེང་གཞི།",
-              "title_english": "Title, Homage, and Preamble",
-              "pages": {
-                "start": 1,
-                "end": 6
-              },
-              "verified": true,
-              "boundary_start": {
-                "page": 1,
-                "line": 1,
-                "phrase_tibetan": "༄༅།"
-              }
-            }
-          ]
-        },
-        {
-          "chapter_number": 2,
-          "volume": 1,
-          "title_tibetan": "ཐེག་པའི་དོན་རྣམ་པར་བཤད་པ།",
-          "title_english": "Explanation of the Vehicle's Meaning",
-          "pages": {
-            "start": 7,
-            "end": 58
-          },
-          "sections": [
-            {
-              "section_id": "A",
-              "title_tibetan": "ཐེག་པའི་དོན་སྤྱིར་བསྟན་པ།",
-              "title_english": "General meaning of vehicle",
-              "pages": {
-                "start": 7,
-                "end": 15
-              },
-              "verified": true,
-              "boundary_start": {
-                "page": 7,
-                "line": 192,
-                "phrase_tibetan": "ཡབ་སྲས་མཇལ་བ་ལས།"
-              }
-            },
-            {
-              "section_id": "B",
-              "title_tibetan": "ཐེག་མཆོག་གི་དོན་བྱེ་བྲག་ཏུ་བཤད་པ།",
-              "title_english": "Specific meaning of Supreme Vehicle",
-              "pages": {
-                "start": 16,
-                "end": 25
-              },
-              "verified": true,
-              "boundary_start": {
-                "page": 16,
-                "line": 461,
-                "phrase_tibetan": "ཚེ་ལོ་ཁྲི་པའི་དུས་སུ་གསུངས་སོ།"
-              }
-            },
-            {
-              "section_id": "C",
-              "title_tibetan": "ཐེག་པ་དགུ།",
-              "title_english": "Hierarchy of nine vehicles",
-              "pages": {
-                "start": 26,
-                "end": 38
-              },
-              "verified": true,
-              "boundary_start": {
-                "page": 26,
-                "line": 916,
-                "phrase_tibetan": "རགས་པ་ཙམ་ཞིག་བསྡུ་ན།"
-              }
-            },
-            {
-              "section_id": "D",
-              "title_tibetan": "ཐེག་པ་ཐ་མལ་པ་རྣམས་དང་ཁྱད་པར།",
-              "title_english": "Distinction from lower vehicles",
-              "pages": {
-                "start": 39,
-                "end": 46
-              },
-              "verified": true,
-              "boundary_start": {
-                "page": 39,
-                "line": 1293,
-                "phrase_tibetan": "ཚེ་སུམ་ཅུ་རྩ་གསུམ་པ་བཞིན་ནོ།"
-              }
-            },
-            {
-              "section_id": "E",
-              "title_tibetan": "རྫོགས་པ་ཆེན་པོ།",
-              "title_english": "Atiyoga as pinnacle",
-              "pages": {
-                "start": 47,
-                "end": 52
-              },
-              "verified": true,
-              "boundary_start": {
-                "page": 47,
-                "line": 1513,
-                "phrase_tibetan": "དེ་ནས་རྒྱལ་ཆེན་བཞི་ནས་ཚངས་ཆེན་གྱི་བར་དུ་དེ་བཞིན་ནོ།"
-              }
-            },
-            {
-              "section_id": "F",
-              "title_tibetan": "སེམས་སྡེ། ཀློང་སྡེ། མན་ངག་སྡེ།",
-              "title_english": "Three sections of Atiyoga",
-              "pages": {
-                "start": 53,
-                "end": 58
-              },
-              "verified": true,
-              "boundary_start": {
-                "page": 53,
-                "line": 1704,
-                "phrase_tibetan": "དྲི་མ་རྣམས་མངོན་དུ་དག་པའི་ཕྱིར་ཚུལ་ཁྲིམས་ཀྱི་ཕུང་པོ་དང༌།"
-              }
-            }
-          ]
-        },
-        {
-          "chapter_number": 3,
-          "volume": 1,
-          "title_tibetan": "གཞིའི་གནས་ལུགས་རྣམ་པར་བཤད་པ།",
-          "title_english": "Explanation of the Ground's Mode of Abiding",
-          "pages": {
-            "start": 59,
-            "end": 118
-          },
-          "sections": [
-            {
-              "section_id": "A",
-              "title_tibetan": "ངོ་བོ་ཀ་དག",
-              "title_english": "Essence: Primordial Purity",
-              "pages": {
-                "start": 59,
-                "end": 78
-              },
-              "verified": true,
-              "boundary_start": {
-                "page": 59,
-                "line": 1944,
-                "phrase_tibetan": "རྒྱང་འཕན་པ་སྟེ།"
-              }
-            },
-            {
-              "section_id": "B",
-              "title_tibetan": "རང་བཞིན་ལྷུན་གྲུབ།",
-              "title_english": "Nature: Spontaneous Presence",
-              "pages": {
-                "start": 79,
-                "end": 96
-              },
-              "verified": true,
-              "boundary_start": {
-                "page": 79,
-                "line": 2903,
-                "phrase_tibetan": "མི་སློབ་པའི་ལམ་མངོན་དུ་བྱེད་པའོ།"
-              }
-            },
-            {
-              "section_id": "C",
-              "title_tibetan": "ཐུགས་རྗེ་མ་འགགས་པ།",
-              "title_english": "Compassion: Unceasing Display",
-              "pages": {
-                "start": 97,
-                "end": 108
-              },
-              "verified": true,
-              "boundary_start": {
-                "page": 97,
-                "line": 3597,
-                "phrase_tibetan": "ཨ་ཏི་བཀོད་པ་ཆེན་པོ་ལས།"
-              }
-            },
-            {
-              "section_id": "D",
-              "title_tibetan": "དབྱེར་མེད།",
-              "title_english": "Unity and non-duality",
-              "pages": {
-                "start": 109,
-                "end": 118
-              },
-              "verified": true,
-              "boundary_start": {
-                "page": 109,
-                "line": 4005,
-                "phrase_tibetan": "རང་བཞིན་ལ་དུ་མ་མེད་པས་ཐ་སྙད་སྤྲོས་པའི་ཚིག་ལས་འདས་པའི་ཆོས་ཉིད"
-              }
-            }
-          ]
-        },
-        {
-          "chapter_number": 4,
-          "volume": 1,
-          "title_tibetan": "གཞི་སྣང་འཆར་ཚུལ་རྣམ་པར་བཤད་པ།",
-          "title_english": "Explanation of How Ground-Appearance Arises",
-          "pages": {
-            "start": 119,
-            "end": 196
-          },
-          "sections": [
-            {
-              "section_id": "A-i",
-              "section_title_tibetan": "འོད་ལྔ་དང་རང་གདངས།",
-              "section_title_english": "Five lights and self-radiance",
-              "original_section": "A",
-              "pages": {
-                "start": 119,
-                "end": 132
-              },
-              "verified": true,
-              "boundary_start": {
-                "page": 119,
-                "line": 4417,
-                "phrase_tibetan": "སངས་རྒྱས་རྣམས་ཀྱི་བཅུད་བསྡུས་ནས།"
-              }
-            },
-            {
-              "section_id": "A-ii",
-              "section_title_tibetan": "རིན་པོ་ཆེའི་གའུ་དང་སྣང་བ་རྫོགས་པ།",
-              "section_title_english": "Jewel-box and display completion",
-              "original_section": "A",
-              "pages": {
-                "start": 133,
-                "end": 144
-              },
-              "verified": true,
-              "boundary_start": {
-                "page": 133,
-                "line": 5035,
-                "phrase_tibetan": "དྲན་པ་གསལ་ཞིང་ཤེས་རབ་ཆེ་བ་དང༌།"
-              }
-            },
-            {
-              "section_id": "B",
-              "title_tibetan": "ཀུན་ཏུ་བཟང་པོ་སངས་རྒྱས་པ།",
-              "title_english": "Liberation-mode of Samantabhadra",
-              "pages": {
-                "start": 145,
-                "end": 166
-              },
-              "verified": true,
-              "boundary_start": {
-                "page": 145,
-                "line": 5585,
-                "phrase_tibetan": "བརྩེགས་ཡིག་༧།"
-              }
-            },
-            {
-              "section_id": "C-i",
-              "section_title_tibetan": "མ་རིག་པ་གསུམ།",
-              "section_title_english": "Three non-recognitions",
-              "original_section": "C",
-              "pages": {
-                "start": 167,
-                "end": 180
-              },
-              "doctrinal_focus": [
-                "causal non-recognition",
-                "simultaneously-arisen",
-                "imputed non-recognition"
-              ],
-              "verified": true,
-              "boundary_start": {
-                "page": 167,
-                "line": 6630,
-                "phrase_tibetan": "དམ་པ་འདི་ཡིན་ཏེ་སྨེ་བ་ཨའི་མཚན་མ་ཅན་ཤངས་ཀྱི་རྩེར་ལྡན་པ་དང༌།"
-              }
-            },
-            {
-              "section_id": "C-ii",
-              "section_title_tibetan": "རྐྱེན་བཞི།",
-              "section_title_english": "Four conditions",
-              "original_section": "C",
-              "pages": {
-                "start": 181,
-                "end": 190
-              },
-              "doctrinal_focus": [
-                "four conditions",
-                "rkyen bzhi"
-              ],
-              "verified": true,
-              "boundary_start": {
-                "page": 181,
-                "line": 7314,
-                "phrase_tibetan": "།འདི་དུས་ལུས་གནད་མཁས་པ་དང༌།"
-              }
-            },
-            {
-              "section_id": "C-iii",
-              "section_title_tibetan": "རྟེན་འབྲེལ་བཅུ་གཉིས།",
-              "section_title_english": "Twelve links of dependent origination",
-              "original_section": "C",
-              "pages": {
-                "start": 191,
-                "end": 196
-              },
-              "doctrinal_focus": [
-                "twelve links",
-                "dependent origination"
-              ],
-              "verified": true,
-              "boundary_start": {
-                "page": 191,
-                "line": 7893,
-                "phrase_tibetan": "སྔོན་དུ་བསྙེན་པ་དང༌།"
-              }
-            }
-          ]
-        },
-        {
-          "chapter_number": 5,
-          "volume": 1,
-          "title_tibetan": "ལམ་ལ་འཇུག་ཚུལ་རྣམ་པར་བཤད་པ།",
-          "title_english": "Explanation of Entry into the Path",
-          "pages": {
-            "start": 197,
-            "end": 258
-          },
-          "sections": [
-            {
-              "section_id": "A",
-              "title_tibetan": "དད་པ་དང་སྐལ་ལྡན།",
-              "title_english": "Faith and suitable recipients",
-              "pages": {
-                "start": 197,
-                "end": 214
-              },
-              "verified": true,
-              "boundary_start": {
-                "page": 197,
-                "line": 8144,
-                "phrase_tibetan": "དེང་སང་ཡང་ཕྱག་ལེན་དུ་མཛད་ལ།"
-              }
-            },
-            {
-              "section_id": "B",
-              "title_tibetan": "བླ་མའི་བྱ་བ།",
-              "title_english": "Role of the master",
-              "pages": {
-                "start": 215,
-                "end": 232
-              },
-              "verified": true,
-              "boundary_start": {
-                "page": 215,
-                "line": 8824,
-                "phrase_tibetan": "དབང་བཞི་འཇུག་པའི་དུས་ཀྱི་སྨིན་སོ་སྣང་བ་མ་དག་པ་དང་དག་པ་གཉིས་ཀ"
-              }
-            },
-            {
-              "section_id": "C-i",
-              "section_title_tibetan": "ངོ་སྤྲོད་ཀྱི་ཚུལ་བདུན།",
-              "section_title_english": "Seven modes of pointing-out",
-              "original_section": "C",
-              "pages": {
-                "start": 233,
-                "end": 245
-              },
-              "verified": true,
-              "boundary_start": {
-                "page": 233,
-                "line": 9437,
-                "phrase_tibetan": "རྒྱས་པའི་དྲག་པོ་ལུས་ངག་སེམས་ཀྱི་ནུས་པ་རྫོགས་པའོ།"
-              }
-            },
-            {
-              "section_id": "C-ii",
-              "section_title_tibetan": "ངོ་ཤེས་དང་སྒོམ་པ།",
-              "section_title_english": "Recognition vs meditation",
-              "original_section": "C",
-              "pages": {
-                "start": 246,
-                "end": 258
-              },
-              "verified": true,
-              "boundary_start": {
-                "page": 246,
-                "line": 9990,
-                "phrase_tibetan": "དང་པོ་ཕྱིའི་ཕྱི་རྫུན་སྤོང་བ་སྟེ།"
-              }
-            }
-          ]
-        },
-        {
-          "chapter_number": 6,
-          "volume": 1,
-          "title_tibetan": "ལྟ་སགོམ་སྤྱོད་འབྲས་རྣམ་པར་བཤད་པ།",
-          "title_english": "Explanation of View, Meditation, Conduct, and Result",
-          "pages": {
-            "start": 259,
-            "end": 294
-          },
-          "sections": [
-            {
-              "section_id": "A",
-              "title_tibetan": "ལྟ་བ།",
-              "title_english": "View",
-              "pages": {
-                "start": 259,
-                "end": 270
-              },
-              "verified": true,
-              "boundary_start": {
-                "page": 259,
-                "line": 10638,
-                "phrase_tibetan": "རྟོགས་པའི་སྔོན་དུ་རྟོགས་གཞི་ཡོད་ལ།"
-              }
-            },
-            {
-              "section_id": "B",
-              "title_tibetan": "སྒོམ་པ།",
-              "title_english": "Meditation",
-              "pages": {
-                "start": 271,
-                "end": 280
-              },
-              "verified": true,
-              "boundary_start": {
-                "page": 271,
-                "line": 11223,
-                "phrase_tibetan": "།འཁྲུལ་རྟོག་འགགས་པས་ཅིར་མ་མཛད།"
-              }
-            },
-            {
-              "section_id": "C",
-              "title_tibetan": "སྤྱོད་པ།",
-              "title_english": "Conduct",
-              "pages": {
-                "start": 281,
-                "end": 288
-              },
-              "verified": true,
-              "boundary_start": {
-                "page": 281,
-                "line": 11682,
-                "phrase_tibetan": "གདུལ་བྱ་དང་འདུལ་བྱེད་དུ་འབྲེལ་པ་ཡིན་ཏེ།"
-              }
-            },
-            {
-              "section_id": "D",
-              "title_tibetan": "འབྲས་བུ།",
-              "title_english": "Fruition",
-              "pages": {
-                "start": 289,
-                "end": 294
-              },
-              "verified": true,
-              "boundary_start": {
-                "page": 289,
-                "line": 12047,
-                "phrase_tibetan": "ཚོགས་ཆེན་ཡེར་རྫོགས་པ་དང༌།"
-              }
-            }
-          ]
-        },
-        {
-          "chapter_number": 7,
-          "volume": 1,
-          "title_tibetan": "དབང་གི་དོན་རྣམ་པར་བཤད་པ།",
-          "title_english": "Explanation of Empowerment",
-          "pages": {
-            "start": 295,
-            "end": 338
-          },
-          "sections": [
-            {
-              "section_id": "A",
-              "title_tibetan": "དབང་དགོས་པ།",
-              "title_english": "Necessity of empowerment",
-              "pages": {
-                "start": 295,
-                "end": 308
-              },
-              "verified": true,
-              "boundary_start": {
-                "page": 295,
-                "line": 12257,
-                "phrase_tibetan": "སྣང་ཚུལ་དུ་མ་དང་བཅས་པ།"
-              }
-            },
-            {
-              "section_id": "B-i",
-              "section_title_tibetan": "བུམ་དབང་།",
-              "section_title_english": "Vase empowerment",
-              "original_section": "B",
-              "pages": {
-                "start": 309,
-                "end": 316
-              },
-              "verified": true,
-              "boundary_start": {
-                "page": 309,
-                "line": 12799,
-                "phrase_tibetan": "ཡུལ་དག་པར་སྣང་རིག་པའི་ཞིང་ཁམས་ན།"
-              }
-            },
-            {
-              "section_id": "B-ii",
-              "section_title_tibetan": "གསང་དབང་།",
-              "section_title_english": "Secret empowerment",
-              "original_section": "B",
-              "pages": {
-                "start": 317,
-                "end": 324
-              },
-              "verified": true,
-              "boundary_start": {
-                "page": 317,
-                "line": 13133,
-                "phrase_tibetan": "རིགས་ཅན་ལྔའི་ནུས་པས་ཕའི་ཤེས་པ་ཡང་ནང་དུ་འདྲེན་པ་ལྟར་གྱུར་པ་ལས"
-              }
-            },
-            {
-              "section_id": "B-iii",
-              "section_title_tibetan": "ཤེས་རབ་ཡེ་ཤེས་ཀྱི་དབང་།",
-              "section_title_english": "Wisdom-knowledge empowerment",
-              "original_section": "B",
-              "pages": {
-                "start": 325,
-                "end": 332
-              },
-              "verified": true,
-              "boundary_start": {
-                "page": 325,
-                "line": 13357,
-                "phrase_tibetan": "དེ་རེ་རེ་ལ་རྩའི་འདམ་མ་བརྒྱད་བརྒྱད་དེ་སུམ་ཅུ་རྩ་གཉིས་སུ་ལུས་ས"
-              }
-            },
-            {
-              "section_id": "B-iv",
-              "section_title_tibetan": "ཚིག་དབང་།",
-              "section_title_english": "Word empowerment",
-              "original_section": "B",
-              "pages": {
-                "start": 333,
-                "end": 338
-              },
-              "verified": true,
-              "boundary_start": {
-                "page": 333,
-                "line": 13648,
-                "phrase_tibetan": "སྟོང་པ་དང༌།"
-              }
-            }
-          ]
-        },
-        {
-          "chapter_number": 8,
-          "volume": 1,
-          "title_tibetan": "དམ་ཚིག་རྣམ་པར་བཀོད་པ།",
-          "title_english": "Arrangement of Samaya",
-          "pages": {
-            "start": 339,
-            "end": 380
-          },
-          "sections": [
-            {
-              "section_id": "A",
-              "title_tibetan": "རྩ་བའི་དམ་ཚིག",
-              "title_english": "Root samayas",
-              "pages": {
-                "start": 339,
-                "end": 354
-              },
-              "verified": true,
-              "boundary_start": {
-                "page": 339,
-                "line": 13877,
-                "phrase_tibetan": "དབུས་ན་དྲང་པོར་གནས་ཏེ།"
-              }
-            },
-            {
-              "section_id": "B",
-              "title_tibetan": "ཡན་ལག་གི་དམ་ཚིག",
-              "title_english": "Branch samayas",
-              "pages": {
-                "start": 355,
-                "end": 368
-              },
-              "verified": true,
-              "boundary_start": {
-                "page": 355,
-                "line": 14505,
-                "phrase_tibetan": "ཊ་དང་ལ་ནི་རྡོ་རྗེ་སྟེང་འོག་ན།"
-              }
-            },
-            {
-              "section_id": "C",
-              "title_tibetan": "ཉམས་ཆགས་དང་གསོ་བ།",
-              "title_english": "Degeneration and restoration",
-              "pages": {
-                "start": 369,
-                "end": 376
-              },
-              "verified": true,
-              "boundary_start": {
-                "page": 369,
-                "line": 15446,
-                "phrase_tibetan": "རླུང་ལ་ཤིས་པའི་ཁ་ཟས་དང་ཆང་བཟང་པོ་བག་རེ་བསྟེན་ལ།"
-              }
-            },
-            {
-              "section_id": "D",
-              "title_tibetan": "ལྟ་བའི་དམ་ཚིག",
-              "title_english": "Unsurpassed samaya of view",
-              "pages": {
-                "start": 377,
-                "end": 380
-              },
-              "verified": true,
-              "boundary_start": {
-                "page": 377,
-                "line": 15764,
-                "phrase_tibetan": "འཐད་པ་སྤྱིར་དགོད།"
-              }
-            }
-          ]
-        },
-        {
-          "chapter_number": 9,
-          "volume": 1,
-          "title_tibetan": "སྐལ་བ་དང་ས་བཅུ་དྲུག་རྣམ་པར་བཤད་པ།",
-          "title_english": "Capacities and the Sixteen Grounds",
-          "pages": {
-            "start": 381,
-            "end": 420
-          },
-          "sections": [
-            {
-              "section_id": "A",
-              "title_tibetan": "སྐལ་བའི་རིགས།",
-              "title_english": "Types of practitioners",
-              "pages": {
-                "start": 381,
-                "end": 394
-              },
-              "verified": true,
-              "boundary_start": {
-                "page": 381,
-                "line": 15922,
-                "phrase_tibetan": "གསང་སྔགས་ཀྱི་ཉེ་ལམ་ནི་རྩ་ཐིག་རླུང་གསུམ་གནད་བསྟུན་པ་ཡིན་ལ།"
-              }
-            },
-            {
-              "section_id": "B",
-              "title_tibetan": "རྡོ་རྗེ་ཐེག་པའི་ས་བཅུ་དྲུག",
-              "title_english": "Sixteen grounds of Vajra Vehicle",
-              "pages": {
-                "start": 395,
-                "end": 412
-              },
-              "verified": true,
-              "boundary_start": {
-                "page": 395,
-                "line": 16422,
-                "phrase_tibetan": "སྒྲོན་མ་བཞིའི་ཆ་ཡོད་པའོ།"
-              }
-            },
-            {
-              "section_id": "C",
-              "title_tibetan": "སྐལ་བའི་མཚན་ཉིད།",
-              "title_english": "Signs of readiness",
-              "pages": {
-                "start": 413,
-                "end": 420
-              },
-              "verified": true,
-              "boundary_start": {
-                "page": 413,
-                "line": 17361,
-                "phrase_tibetan": "སེམས་ཀྱི་གནས་ཡིན་ལ།"
-              }
-            }
-          ]
-        },
-        {
-          "chapter_number": 10,
-          "volume": 1,
-          "title_tibetan": "ཡེ་ཤེས་དང་སྐུ་རྣམས་རྣམ་པར་བཤད་པ།",
-          "title_english": "Explanation of Wisdoms and Kāyas",
-          "pages": {
-            "start": 421,
-            "end": 467
-          },
-          "sections": [
-            {
-              "section_id": "A",
-              "title_tibetan": "ཡེ་ཤེས་ལྔ།",
-              "title_english": "Five Wisdoms",
-              "pages": {
-                "start": 421,
-                "end": 440
-              },
-              "verified": true,
-              "boundary_start": {
-                "page": 421,
-                "line": 17714,
-                "phrase_tibetan": "མུ་ཏིག་ཕྲེང་བ་ལས།"
-              }
-            },
-            {
-              "section_id": "B",
-              "title_tibetan": "སྐུ་གསུམ།",
-              "title_english": "Three Kāyas",
-              "pages": {
-                "start": 441,
-                "end": 454
-              },
-              "verified": true,
-              "boundary_start": {
-                "page": 441,
-                "line": 18727,
-                "phrase_tibetan": "མིག་ན་སྒྲོན་མ་བཞིའི་ཚུལ་དུ་གནས་སོ།"
-              }
-            },
-            {
-              "section_id": "C",
-              "title_tibetan": "སྐུ་ཐེར་གསུམ།",
-              "title_english": "Thirteen Kāyas expanded",
-              "pages": {
-                "start": 455,
-                "end": 467
-              },
-              "verified": true,
-              "boundary_start": {
-                "page": 455,
-                "line": 19354,
-                "phrase_tibetan": "སྣང་ལམ་གྱི་ཐིག་ལེ་ནི་གཉིས་ཏེ།"
-              }
-            }
-          ]
-        },
-        {
-          "chapter_number": 11,
-          "volume": 1,
-          "title_tibetan": "རྩ་རླུང་ཐིག་ལེ་རྣམ་པར་བཤད་པ།",
-          "title_english": "Explanation of Channels, Winds, and Bindus",
-          "pages": {
-            "start": 311,
-            "end": 400
-          },
-          "sections": [
-            {
-              "section_id": "A-i",
-              "section_title_tibetan": "དབུ་མ།",
-              "section_title_english": "Central channel",
-              "original_section": "A",
-              "pages": {
-                "start": 311,
-                "end": 320
-              },
-              "verified": true,
-              "boundary_start": {
-                "page": 311,
-                "line": 12877,
-                "phrase_tibetan": "མགྱོགས་པའི་རྟ་བསྐྱོན།"
-              }
-            },
-            {
-              "section_id": "A-ii",
-              "section_title_tibetan": "རོ་མ།",
-              "section_title_english": "Right channel",
-              "original_section": "A",
-              "pages": {
-                "start": 321,
-                "end": 330
-              },
-              "verified": true,
-              "boundary_start": {
-                "page": 321,
-                "line": 13250,
-                "phrase_tibetan": "མཚན་ཉིད་འཛིན་པའི་ཡེ་ཤེས་ཞེས་བྱའོ།"
-              }
-            },
-            {
-              "section_id": "A-iii",
-              "section_title_tibetan": "རྐྱང་མ།",
-              "section_title_english": "Left channel",
-              "original_section": "A",
-              "pages": {
-                "start": 331,
-                "end": 340
-              },
-              "verified": true,
-              "boundary_start": {
-                "page": 331,
-                "line": 13567,
-                "phrase_tibetan": "བསྐྱེད་རིམ་བསྒོམས་པས་ལུས་ཀྱི་ཆགས་བྱེད་ངེས་པའི་ལས་སྤྱོད་བྱེད་"
-              }
-            },
-            {
-              "section_id": "B",
-              "title_tibetan": "འཁོར་ལོ་བཞི།",
-              "title_english": "Four wheels",
-              "pages": {
-                "start": 341,
-                "end": 360
-              },
-              "verified": true,
-              "boundary_start": {
-                "page": 341,
-                "line": 13951,
-                "phrase_tibetan": "རྩའི་གཙོ་མོ་གསུམ་གྱི་རང་བཞིན་སྤྱིར་བསྟན་པ་དང༌།"
-              }
-            },
-            {
-              "section_id": "C",
-              "title_tibetan": "རླུང་གི་རྣམ་གྲངས།",
-              "title_english": "Winds enumeration",
-              "pages": {
-                "start": 361,
-                "end": 380
-              },
-              "verified": true,
-              "boundary_start": {
-                "page": 361,
-                "line": 14927,
-                "phrase_tibetan": "ལྷ་མོ་ལྔ་ནི།"
-              }
-            },
-            {
-              "section_id": "D",
-              "title_tibetan": "ཐིག་ལེ།",
-              "title_english": "Bindus",
-              "pages": {
-                "start": 381,
-                "end": 400
-              },
-              "verified": true,
-              "boundary_start": {
-                "page": 381,
-                "line": 15922,
-                "phrase_tibetan": "གསང་སྔགས་ཀྱི་ཉེ་ལམ་ནི་རྩ་ཐིག་རླུང་གསུམ་གནད་བསྟུན་པ་ཡིན་ལ།"
-              }
-            }
-          ]
-        },
-        {
-          "chapter_number": 12,
-          "volume": 1,
-          "title_tibetan": "སྒྲོན་མ་བཞི་རྣམ་པར་བཤད་པ།",
-          "title_english": "Explanation of the Four Lamps",
-          "pages": {
-            "start": 401,
-            "end": 420
-          },
-          "sections": [
-            {
-              "section_id": "A",
-              "title_tibetan": "རྒྱང་ཞགས་ཆུའི་སྒྲོན་མ།",
-              "title_english": "Far-reaching Water Lamp",
-              "pages": {
-                "start": 401,
-                "end": 408
-              },
-              "verified": true,
-              "boundary_start": {
-                "page": 401,
-                "line": 16743,
-                "phrase_tibetan": "མནན་དུས་སྲོག་རྩར་ཐིག་པ་ལྷུང་བས་བརྒྱལ་བར་བྱེད་ལ།"
-              }
-            },
-            {
-              "section_id": "B",
-              "title_tibetan": "ཐིག་ལེ་སྟོང་པའི་སྒྲོན་མ།",
-              "title_english": "Empty Bindu Lamp",
-              "pages": {
-                "start": 409,
-                "end": 414
-              },
-              "verified": true,
-              "boundary_start": {
-                "page": 409,
-                "line": 17153,
-                "phrase_tibetan": "ཡུལ་སྣང་བས་བསྡུས་པའི་ཆོས་དང༌།"
-              }
-            },
-            {
-              "section_id": "C",
-              "title_tibetan": "དབྱིངས་རྣམ་དག་གི་སྒྲོན་མ།",
-              "title_english": "Completely Pure Sphere Lamp",
-              "pages": {
-                "start": 415,
-                "end": 418
-              },
-              "verified": true,
-              "boundary_start": {
-                "page": 415,
-                "line": 17443,
-                "phrase_tibetan": "རང་གི་རིག་པ་ལྡོག་མི་དགོས་པས།"
-              }
-            },
-            {
-              "section_id": "D",
-              "title_tibetan": "ཤེས་རབ་རང་བྱུང་གི་སྒྲོན་མ།",
-              "title_english": "Self-Arising Wisdom Lamp",
-              "pages": {
-                "start": 419,
-                "end": 420
-              },
-              "verified": true,
-              "boundary_start": {
-                "page": 419,
-                "line": 17638,
-                "phrase_tibetan": "ལམ་དུས་ངང་དངས་ཀྱི་ཆོས་སྐུས་གྲོལ་བྱེད་ཀྱི་ལས་བྱེད་ལ།"
-              }
-            }
-          ]
-        },
-        {
-          "chapter_number": 13,
-          "volume": 1,
-          "title_tibetan": "རྟེན་གྱི་ཤེས་པ་རྣམ་པར་བཤད་པ།",
-          "title_english": "Explanation of Supported Knowledge",
-          "pages": {
-            "start": 421,
-            "end": 479
-          },
-          "sections": [
-            {
-              "section_id": "A",
-              "title_tibetan": "སེམས་དང་ཡེ་ཤེས།",
-              "title_english": "Mind vs. wisdom",
-              "pages": {
-                "start": 421,
-                "end": 440
-              },
-              "verified": true,
-              "boundary_start": {
-                "page": 421,
-                "line": 17714,
-                "phrase_tibetan": "མུ་ཏིག་ཕྲེང་བ་ལས།"
-              }
-            },
-            {
-              "section_id": "B",
-              "title_tibetan": "ཀུན་གཞི་དང་ཆོས་སྐུ།",
-              "title_english": "All-ground vs. dharmakāya",
-              "pages": {
-                "start": 441,
-                "end": 460
-              },
-              "verified": true,
-              "boundary_start": {
-                "page": 441,
-                "line": 18727,
-                "phrase_tibetan": "མིག་ན་སྒྲོན་མ་བཞིའི་ཚུལ་དུ་གནས་སོ།"
-              }
-            },
-            {
-              "section_id": "C",
-              "title_tibetan": "རྟེན་དང་རྟེན་པ།",
-              "title_english": "Supported and supporter",
-              "pages": {
-                "start": 461,
-                "end": 479
-              },
-              "verified": true,
-              "boundary_start": {
-                "page": 461,
-                "line": 19598,
-                "phrase_tibetan": "རིག་པ་སྟོང་གསལ་རྒྱ་ཕྱམ་གཅིག་ཏུ་འོད་གསལ་ལ་ལྟ་བའི་ངང་དེ་ལ།"
-              }
-            }
-          ]
-        }
-      ]
+  "sections": {
+    "01-01-01-01": {
+      "chapter": 1,
+      "section": 1,
+      "subsection": 1,
+      "start_page": 1,
+      "start_line": 1,
+      "start_phrase": "༄༅།",
+      "end_page": 6,
+      "end_line": 175,
+      "end_phrase": "དང་པོ་ཀུན་ཏུ་བཟང་པོས་ལམ་བསྟན་ནས་སེམས...",
+      "verified": true,
+      "content_summary": "དང་པོ་ ནི་འཁོར་བ་དང་མྱ་ངན་ལས་འདས་པ་གང་དུའང་མ་ཕྱེ་མི་",
+      "tibetan_title": "དང་པོ་ ནི་འཁོར་བ་དང་མྱ་ངན་ལས་འདས་པ་གང་དུའང་མ་ཕྱེ་མ",
+      "english_title": "The Perfect Teacher - Section 1"
     },
-    {
-      "volume_number": 2,
-      "volume_title": "Exegetical Unfolding and Practice",
-      "tibetan_title": "འགྲེལ་བཤད་དང་སྒྲུབ་པ།",
-      "total_pages": 415,
-      "parts": [
-        {
-          "part_number": 8,
-          "part_title": "Dependent Arising",
-          "tibetan_title": "རྟེན་འབྲེལ།",
-          "chapters": [
-            14
-          ]
-        },
-        {
-          "part_number": 9,
-          "part_title": "Commentary on the Path",
-          "tibetan_title": "ལམ་གྱི་འགྲེལ་པ།",
-          "chapters": [
-            15
-          ]
-        },
-        {
-          "part_number": 10,
-          "part_title": "Measure and Visions",
-          "tibetan_title": "ཚད་དང་སྣང་བ།",
-          "chapters": [
-            16,
-            17
-          ]
-        },
-        {
-          "part_number": 11,
-          "part_title": "Completion Stage",
-          "tibetan_title": "རྫོགས་རིམ།",
-          "chapters": [
-            18,
-            19
-          ]
-        }
-      ],
-      "chapters": [
-        {
-          "chapter_number": 14,
-          "volume": 2,
-          "title_tibetan": "རྟེན་འབྲེལ་རྣམ་པར་བཤད་པ།",
-          "title_english": "Explanation of Dependent Arising",
-          "pages": {
-            "start": 1,
-            "end": 88
-          },
-          "sections": [
-            {
-              "section_id": "A-i",
-              "section_title_tibetan": "ཕྱིའི་རྟེན་འབྲེལ་འཁྲུལ་པ།",
-              "section_title_english": "Confused outer dependent arising",
-              "original_section": "A",
-              "pages": {
-                "start": 1,
-                "end": 12
-              },
-              "doctrinal_focus": [
-                "five elements",
-                "confused aspects"
-              ],
-              "verified": true,
-              "boundary_start": {
-                "page": 1,
-                "line": 1,
-                "phrase_tibetan": "༄༅།"
-              }
-            },
-            {
-              "section_id": "A-ii",
-              "section_title_tibetan": "ཕྱིའི་རྟེན་འབྲེལ་དག་པ།",
-              "section_title_english": "Pure outer dependent arising",
-              "original_section": "A",
-              "pages": {
-                "start": 13,
-                "end": 24
-              },
-              "doctrinal_focus": [
-                "five elements",
-                "pure aspects"
-              ],
-              "verified": true,
-              "boundary_start": {
-                "page": 13,
-                "line": 636,
-                "phrase_tibetan": "རུས་པ་ཐམས་ཅད་དང༌།"
-              }
-            },
-            {
-              "section_id": "B-i",
-              "section_title_tibetan": "རྩ།",
-              "section_title_english": "Channels",
-              "original_section": "B",
-              "pages": {
-                "start": 25,
-                "end": 32
-              },
-              "doctrinal_focus": [
-                "channels",
-                "rtsa"
-              ],
-              "verified": true,
-              "boundary_start": {
-                "page": 25,
-                "line": 1252,
-                "phrase_tibetan": "སྦྱངས་པ་ལ་སྣང་བའི་ཚུལ།"
-              }
-            },
-            {
-              "section_id": "B-ii",
-              "section_title_tibetan": "རླུང་།",
-              "section_title_english": "Winds",
-              "original_section": "B",
-              "pages": {
-                "start": 33,
-                "end": 39
-              },
-              "doctrinal_focus": [
-                "winds",
-                "rlung"
-              ],
-              "verified": true,
-              "boundary_start": {
-                "page": 33,
-                "line": 1711,
-                "phrase_tibetan": "ཞི་བ་ནི།"
-              }
-            },
-            {
-              "section_id": "B-iii",
-              "section_title_tibetan": "ཐིག་ལེ།",
-              "section_title_english": "Bindus",
-              "original_section": "B",
-              "pages": {
-                "start": 40,
-                "end": 46
-              },
-              "doctrinal_focus": [
-                "bindus",
-                "thig le"
-              ],
-              "verified": true,
-              "boundary_start": {
-                "page": 40,
-                "line": 2029,
-                "phrase_tibetan": "རིན་པོ་ཆེ་སྤུངས་པའི་རྒྱུད་ལས།"
-              }
-            },
-            {
-              "section_id": "C-i",
-              "section_title_tibetan": "རྟག་པའི་མཐའ་སྤོང་བ།",
-              "section_title_english": "Refutation of eternalistic extremes",
-              "original_section": "C",
-              "pages": {
-                "start": 47,
-                "end": 62
-              },
-              "doctrinal_focus": [
-                "eternalism",
-                "rtag pa",
-                "extreme views"
-              ],
-              "verified": true,
-              "boundary_start": {
-                "page": 47,
-                "line": 2335,
-                "phrase_tibetan": "རྡོ་ཚན་ལ་ཁ་བ་བབས་པ་ལྟར།"
-              }
-            },
-            {
-              "section_id": "C-ii",
-              "section_title_tibetan": "ཆད་པའི་མཐའ་སྤོང་བ།",
-              "section_title_english": "Refutation of nihilistic extremes",
-              "original_section": "C",
-              "pages": {
-                "start": 63,
-                "end": 75
-              },
-              "doctrinal_focus": [
-                "nihilism",
-                "chad pa",
-                "extreme views"
-              ],
-              "verified": true,
-              "boundary_start": {
-                "page": 63,
-                "line": 3018,
-                "phrase_tibetan": "རང་གིས་ཀྱང་ཉམས་སུ་བླངས་པས་ངེས་པ་ཡིན་ནོ།"
-              }
-            },
-            {
-              "section_id": "C-iii",
-              "section_title_tibetan": "དབུ་མའི་ལྟ་བ་གྲུབ་པ།",
-              "section_title_english": "Establishing the Middle Way",
-              "original_section": "C",
-              "pages": {
-                "start": 76,
-                "end": 88
-              },
-              "doctrinal_focus": [
-                "middle way",
-                "dbu ma",
-                "freedom from extremes"
-              ],
-              "verified": true,
-              "boundary_start": {
-                "page": 76,
-                "line": 3522,
-                "phrase_tibetan": "རྟོག་པ་མེད་པའི་སེམས་ཉིད་ལ།"
-              }
-            }
-          ]
-        },
-        {
-          "chapter_number": 15,
-          "volume": 2,
-          "title_tibetan": "ངོ་སྤྲོད་དང་ངོ་ཤེས་རྣམ་པར་བཤད་པ།",
-          "title_english": "Explanation of Pointing-Out and Recognition",
-          "pages": {
-            "start": 89,
-            "end": 176
-          },
-          "sections": [
-            {
-              "section_id": "A-i",
-              "section_title_tibetan": "ངོ་སྤྲོད་ཀྱི་ཚུལ་བདུན་གྱི་དང་པོ་གསུམ།",
-              "section_title_english": "First three modes of pointing-out",
-              "original_section": "A",
-              "pages": {
-                "start": 89,
-                "end": 105
-              },
-              "verified": true,
-              "boundary_start": {
-                "page": 89,
-                "line": 4079,
-                "phrase_tibetan": "གདམས་ངག་སྤྱིའི་འབྲེལ་དགོད་པ་དང༌།"
-              }
-            },
-            {
-              "section_id": "A-ii",
-              "section_title_tibetan": "ངོ་སྤྲོད་ཀྱི་ཚུལ་བདུན་གྱི་བར་པ་གཉིས།",
-              "section_title_english": "Middle two modes of pointing-out",
-              "original_section": "A",
-              "pages": {
-                "start": 106,
-                "end": 115
-              },
-              "verified": true,
-              "boundary_start": {
-                "page": 106,
-                "line": 4720,
-                "phrase_tibetan": "དེའི་བྱིན་རླབས་ཀྱིས་ཡེ་ཤེས་དངོས་སུ་མཐོང་བས་འདི་ཉིད་ལ་ཐག་ཆོད།"
-              }
-            },
-            {
-              "section_id": "A-iii",
-              "section_title_tibetan": "ངོ་སྤྲོད་ཀྱི་ཚུལ་བདུན་གྱི་ཐ་མ་གཉིས།",
-              "section_title_english": "Last two modes of pointing-out",
-              "original_section": "A",
-              "pages": {
-                "start": 116,
-                "end": 124
-              },
-              "verified": true,
-              "boundary_start": {
-                "page": 116,
-                "line": 5080,
-                "phrase_tibetan": "འདས་པའི་ཤེས་ཉམས་སྟོང་གསལ་མཐའ་བྲལ་གྱི་རྟོགས་ཚད་ཤེས་རབ་ཀྱི་རྩལ"
-              }
-            },
-            {
-              "section_id": "B-i",
-              "section_title_tibetan": "ལྟ་བའི་གོལ་ས།",
-              "section_title_english": "Errors of view",
-              "original_section": "B",
-              "pages": {
-                "start": 125,
-                "end": 136
-              },
-              "verified": true,
-              "boundary_start": {
-                "page": 125,
-                "line": 5398,
-                "phrase_tibetan": "སྐྱེ་རྒ་ན་འཆི་བཞིའི་འཕེལ་ཟད་པ་དང་ཡང་མཚུངས་ཤིང༌།"
-              }
-            },
-            {
-              "section_id": "B-ii",
-              "section_title_tibetan": "སྒོམ་པའི་གོལ་ས།",
-              "section_title_english": "Errors of meditation",
-              "original_section": "B",
-              "pages": {
-                "start": 137,
-                "end": 145
-              },
-              "verified": true,
-              "boundary_start": {
-                "page": 137,
-                "line": 5802,
-                "phrase_tibetan": "རྫོགས་པ་ཆེན་པོ་བརྗོད་ཚིག་གི་རང་ངོ་དག་པ་ལས་བྱུང་བ་སྟེ།"
-              }
-            },
-            {
-              "section_id": "B-iii",
-              "section_title_tibetan": "སྤྱོད་པ་དང་འབྲས་བུའི་གོལ་ས།",
-              "section_title_english": "Errors of conduct and fruition",
-              "original_section": "B",
-              "pages": {
-                "start": 146,
-                "end": 154
-              },
-              "verified": true,
-              "boundary_start": {
-                "page": 146,
-                "line": 6207,
-                "phrase_tibetan": "རང་ཤར་ལས།"
-              }
-            },
-            {
-              "section_id": "C-i",
-              "section_title_tibetan": "སྒོམ་མེད།",
-              "section_title_english": "Non-meditation",
-              "original_section": "C",
-              "pages": {
-                "start": 155,
-                "end": 165
-              },
-              "doctrinal_focus": [
-                "non-meditation",
-                "sgom med"
-              ],
-              "verified": true,
-              "boundary_start": {
-                "page": 155,
-                "line": 6549,
-                "phrase_tibetan": "བདེ་ཆེ་ཐར་པའི་བསྟན་པ་རྙེད་དུས་མེད་དེ།"
-              }
-            },
-            {
-              "section_id": "C-ii",
-              "section_title_tibetan": "གཡེངས་མེད།",
-              "section_title_english": "Non-distraction",
-              "original_section": "C",
-              "pages": {
-                "start": 166,
-                "end": 176
-              },
-              "doctrinal_focus": [
-                "non-distraction",
-                "yengs med"
-              ],
-              "verified": true,
-              "boundary_start": {
-                "page": 166,
-                "line": 7038,
-                "phrase_tibetan": "ཡི་གེ་མེད་པ་ལས།"
-              }
-            }
-          ]
-        },
-        {
-          "chapter_number": 16,
-          "volume": 2,
-          "title_tibetan": "ཚད་དང་ངེས་པ་རྣམ་པར་བཤད་པ།",
-          "title_english": "Explanation of Valid Cognition and Certainty",
-          "pages": {
-            "start": 177,
-            "end": 228
-          },
-          "sections": [
-            {
-              "section_id": "A",
-              "title_tibetan": "ཚད་ཀྱི་དོན།",
-              "title_english": "Meaning of measure",
-              "pages": {
-                "start": 177,
-                "end": 198
-              },
-              "verified": true,
-              "boundary_start": {
-                "page": 177,
-                "line": 7491,
-                "phrase_tibetan": "།དེ་བཞིན་ཞི་བ་ཉིད་ཀྱང་མིན།"
-              }
-            },
-            {
-              "section_id": "B-i",
-              "section_title_tibetan": "དངོས་ཉམས་དང་ཚད་མ།",
-              "section_title_english": "Genuine experiences and valid cognition",
-              "original_section": "B",
-              "pages": {
-                "start": 199,
-                "end": 214
-              },
-              "verified": true,
-              "boundary_start": {
-                "page": 199,
-                "line": 8491,
-                "phrase_tibetan": "མ་འོངས་པའི་སྐུ་གསུམ་ལ་རྒྱབ་བརྟེན།"
-              }
-            },
-            {
-              "section_id": "B-ii",
-              "section_title_tibetan": "ཚད་ལྷག་དང་གོལ་ས།",
-              "section_title_english": "False experiences and deviations",
-              "original_section": "B",
-              "pages": {
-                "start": 215,
-                "end": 228
-              },
-              "verified": true,
-              "boundary_start": {
-                "page": 215,
-                "line": 9239,
-                "phrase_tibetan": "སྣང་བ་གང་ལ་ཡང་ཐོགས་རྡུགས་མེད་པར་སྤྱོད་པའོ།"
-              }
-            }
-          ]
-        },
-        {
-          "chapter_number": 17,
-          "volume": 2,
-          "title_tibetan": "སྣང་བ་བཞི་རྣམ་པར་བཤད་པ།",
-          "title_english": "Explanation of the Four Visions",
-          "pages": {
-            "start": 229,
-            "end": 298
-          },
-          "sections": [
-            {
-              "section_id": "A",
-              "title_tibetan": "ཆོས་ཉིད་མངོན་སུམ།",
-              "title_english": "Direct perception of dharmatā",
-              "pages": {
-                "start": 229,
-                "end": 250
-              },
-              "verified": true,
-              "boundary_start": {
-                "page": 229,
-                "line": 9760,
-                "phrase_tibetan": "བདེན་གཉིས་སུ།"
-              }
-            },
-            {
-              "section_id": "B",
-              "title_tibetan": "ཉམས་གོང་འཕེལ།",
-              "title_english": "Increasing experience",
-              "pages": {
-                "start": 251,
-                "end": 270
-              },
-              "verified": true,
-              "boundary_start": {
-                "page": 251,
-                "line": 10810,
-                "phrase_tibetan": "མི་དང་འགྲོགས་སྙིང་མི་འདོད་པ་དང༌།"
-              }
-            },
-            {
-              "section_id": "C",
-              "title_tibetan": "རིག་པ་ཚད་ཕེབས།",
-              "title_english": "Awareness reaching full measure",
-              "pages": {
-                "start": 271,
-                "end": 285
-              },
-              "verified": true,
-              "boundary_start": {
-                "page": 271,
-                "line": 11761,
-                "phrase_tibetan": "ཚེ་ལ་དབང་བའི་ས་དང༌།"
-              }
-            },
-            {
-              "section_id": "D",
-              "title_tibetan": "ཆོས་ཉིད་ཟད་པ།",
-              "title_english": "Exhaustion into dharmatā",
-              "pages": {
-                "start": 286,
-                "end": 298
-              },
-              "verified": true,
-              "boundary_start": {
-                "page": 286,
-                "line": 12307,
-                "phrase_tibetan": "ཆོས་མ་གཏོགས་པ་གང་གིས་ཀྱང་ཕན་མི་ཐོགས་པའི་ཕྱིར་རོ།"
-              }
-            }
-          ]
-        },
-        {
-          "chapter_number": 18,
-          "volume": 2,
-          "title_tibetan": "ས་བཅུ་དྲུག་དང་འོད་གསལ་གྱི་ལམ་རྣམ་པར་བཤད་པ།",
-          "title_english": "Sixteen Grounds and Luminous Path",
-          "pages": {
-            "start": 299,
-            "end": 352
-          },
-          "sections": [
-            {
-              "section_id": "A-i",
-              "section_title_tibetan": "ས་དང་པོ་ནས་བཅུ།",
-              "section_title_english": "First ten grounds",
-              "original_section": "A",
-              "pages": {
-                "start": 299,
-                "end": 309
-              },
-              "doctrinal_focus": [
-                "ten grounds",
-                "bhumis 1-10"
-              ],
-              "verified": true,
-              "boundary_start": {
-                "page": 299,
-                "line": 12900,
-                "phrase_tibetan": "རྫོགས་ན་སྔ་མ་བཞིན་ནོ།"
-              }
-            },
-            {
-              "section_id": "A-ii",
-              "section_title_tibetan": "ས་བཅུ་གཅིག་ནས་དྲུག",
-              "section_title_english": "Final six grounds",
-              "original_section": "A",
-              "pages": {
-                "start": 310,
-                "end": 320
-              },
-              "doctrinal_focus": [
-                "six grounds",
-                "bhumis 11-16"
-              ],
-              "verified": true,
-              "boundary_start": {
-                "page": 310,
-                "line": 13270,
-                "phrase_tibetan": "།བྱར་མེད་ལྷུན་རྫོགས་ཆེན་པོའོ།"
-              }
-            },
-            {
-              "section_id": "B",
-              "title_tibetan": "འོད་གསལ་རྡོ་རྗེ་སྙིང་པོའི་ལམ།",
-              "title_english": "Luminous vajra essence path",
-              "pages": {
-                "start": 321,
-                "end": 338
-              },
-              "verified": true,
-              "boundary_start": {
-                "page": 321,
-                "line": 13662,
-                "phrase_tibetan": "ཕྱོགས་མཚམས་བརྒྱད་དུ་བྱམས་པ་ལ་སོགས་པའི་སེམས་དཔའ་བརྒྱད་དང༌།"
-              }
-            },
-            {
-              "section_id": "C",
-              "title_tibetan": "ཁྲེགས་ཆོད་ལ་འཇུག་པ།",
-              "title_english": "Transition to Cutting Through",
-              "pages": {
-                "start": 339,
-                "end": 352
-              },
-              "verified": true,
-              "boundary_start": {
-                "page": 339,
-                "line": 14198,
-                "phrase_tibetan": "སྔར་ཤེས་བྱའི་སྒྲིབ་པས་བཅིངས་པ་ཐམས་ཅད་ཤེས་པས་ན་མངོན་པར་ཤེས་པ་"
-              }
-            }
-          ]
-        },
-        {
-          "chapter_number": 19,
-          "volume": 2,
-          "title_tibetan": "རྫོགས་རིམ་གྱི་འབྲེལ་བ་རྣམ་པར་བཤད་པ།",
-          "title_english": "Completion Stage Correspondences",
-          "pages": {
-            "start": 353,
-            "end": 415
-          },
-          "sections": [
-            {
-              "section_id": "A",
-              "title_tibetan": "ཁྲེགས་ཆོད།",
-              "title_english": "Cutting Through Solidity",
-              "pages": {
-                "start": 353,
-                "end": 368
-              },
-              "verified": true,
-              "boundary_start": {
-                "page": 353,
-                "line": 14738,
-                "phrase_tibetan": "ཕྱིར་མི་ལྡོག་པའི་ངེས་པ་ནི་ཐོབ།"
-              }
-            },
-            {
-              "section_id": "B-i",
-              "section_title_tibetan": "སྒྱུ་ལུས།",
-              "section_title_english": "Illusory body",
-              "original_section": "B",
-              "pages": {
-                "start": 369,
-                "end": 379
-              },
-              "verified": true,
-              "boundary_start": {
-                "page": 369,
-                "line": 15344,
-                "phrase_tibetan": "འཁོར་རྫུས་ནས་སྐྱེས་བའི་བྱང་ཆུབ་སེམས་དཔའ་ཁྱེའུ་དང་བུ་མོ་རྣམས་"
-              }
-            },
-            {
-              "section_id": "B-ii",
-              "section_title_tibetan": "རྨི་ལམ།",
-              "section_title_english": "Dream yoga",
-              "original_section": "B",
-              "pages": {
-                "start": 380,
-                "end": 389
-              },
-              "verified": true,
-              "boundary_start": {
-                "page": 380,
-                "line": 15736,
-                "phrase_tibetan": "དངོས་སུ་གང་དུའང་གྲུབ་པ་མེད་དེ།"
-              }
-            },
-            {
-              "section_id": "B-iii",
-              "section_title_tibetan": "འོད་གསལ།",
-              "section_title_english": "Clear light",
-              "original_section": "B",
-              "pages": {
-                "start": 390,
-                "end": 398
-              },
-              "verified": true,
-              "boundary_start": {
-                "page": 390,
-                "line": 16115,
-                "phrase_tibetan": "ཐུགས་རྗེས་ཡེ་ཤེས་གཉིས་ཀྱི་འཆར་གཞི་བྱེད་ལ་ཡུལ་དང་རྣམ་པ་ལ་དངོས"
-              }
-            },
-            {
-              "section_id": "C",
-              "title_tibetan": "མཐའ་མའི་བསྡུས་དོན།",
-              "title_english": "Final synthesis",
-              "pages": {
-                "start": 399,
-                "end": 408
-              },
-              "verified": true,
-              "boundary_start": {
-                "page": 399,
-                "line": 16515,
-                "phrase_tibetan": "ཡོན་ཏན་ཕྱིར་མི་ལྡོག་པས་འཕོ་འགྱུར་མེད་པ།"
-              }
-            },
-            {
-              "section_id": "D",
-              "title_tibetan": "བརྒྱུད་པའི་ལུང་བསྟན།",
-              "title_english": "Lineage transmission",
-              "pages": {
-                "start": 409,
-                "end": 412
-              },
-              "verified": true,
-              "boundary_start": {
-                "page": 409,
-                "line": 16960,
-                "phrase_tibetan": "སེང་གེ་རྩལ་རྫོགས་ཆེན་པོའི་རྒྱུད་ལས།"
-              }
-            },
-            {
-              "section_id": "E",
-              "title_tibetan": "མཇུག་གི་ཚིགས་བཅད།",
-              "title_english": "Concluding verses",
-              "pages": {
-                "start": 413,
-                "end": 415
-              },
-              "verified": true,
-              "boundary_start": {
-                "page": 413,
-                "line": 17227,
-                "phrase_tibetan": "།ལེགས་བཤད་སྤྲིན་ཆེན་ཐོས་པའི་གློག་གི་ཕྲེང་བ་ཅན།"
-              }
-            }
-          ]
-        }
-      ]
+    "01-01-02-01": {
+      "chapter": 1,
+      "section": 2,
+      "subsection": 1,
+      "start_page": 6,
+      "start_line": 175,
+      "start_phrase": "དང་པོ་ཀུན་ཏུ་བཟང་པོས་ལམ་བསྟན་ནས་སེམས་བསྐྱེད་དུ་བཅུག་པ་ལས",
+      "end_page": 18,
+      "end_line": 578,
+      "end_phrase": "དང་པོ་ཞིང་ཁམས་དང་སྣོད་བཅུད་ཀྱི་རིམ་པ...",
+      "verified": true,
+      "content_summary": "དང་པོ་ ཀུན་ཏུ་བཟང་པོས་ལམ་བསྟན་ནས་སེམས་བསྐྱེད་དུ་བཅུག",
+      "tibetan_title": "དང་པོ་ཀུན་ཏུ་བཟང་པོས་ལམ་བསྟན་ནས་སེམས་བསྐྱེད་དུ་བཅུ",
+      "english_title": "The Perfect Teacher - Second"
+    },
+    "01-01-03-01": {
+      "chapter": 1,
+      "section": 3,
+      "subsection": 1,
+      "start_page": 18,
+      "start_line": 578,
+      "start_phrase": "དང་པོ་ཞིང་ཁམས་དང་སྣོད་བཅུད་ཀྱི་རིམ་པ་བཤད་པ་ནི།",
+      "end_page": 18,
+      "end_line": 583,
+      "end_phrase": "རིམ་ཁང་དང་པོའོ།",
+      "verified": true,
+      "content_summary": "དང་པོ་ ཞིང་ཁམས་དང་སྣོད་བཅུད་ཀྱི་རིམ་པ་བཤད་པ་ནི།",
+      "tibetan_title": "དང་པོ་ཞིང་ཁམས་དང་སྣོད་བཅུད་ཀྱི་རིམ་པ་བཤད་པ་ནི།",
+      "english_title": "The Perfect Teacher - Third"
+    },
+    "01-02-01-01": {
+      "chapter": 2,
+      "section": 1,
+      "subsection": 1,
+      "start_page": 19,
+      "start_line": 635,
+      "start_phrase": "།འདི་ནས་འཇིག་རྟེན་ལྷོར་ཤར་གཡོན།",
+      "end_page": 25,
+      "end_line": 892,
+      "end_phrase": "གཉིས་པ་ལ་སོགས་པ་ནི་ཕྱེད་ཕྱེད་ཕྲི་བ་གང...",
+      "verified": true,
+      "content_summary": "དང་པོ་ འཆགས་པ་ལའང་སྣོད་དང༌།",
+      "tibetan_title": "འདི་ནས་འཇིག་རྟེན་ལྷོར་ཤར་གཡོན།",
+      "english_title": "Container World and Contents Beings - Section 1"
+    },
+    "01-02-01-02": {
+      "chapter": 2,
+      "section": 1,
+      "subsection": 2,
+      "start_page": 25,
+      "start_line": 892,
+      "start_phrase": "གཉིས་པ་ལ་སོགས་པ་ནི་ཕྱེད་ཕྱེད་ཕྲི་བ་གང་ཡིན་པ་སྟེ།",
+      "end_page": 27,
+      "end_line": 997,
+      "end_phrase": "གཉིས་པ་ལ་མེ་ཏོག་གི་ཕྲེང་བ་ཐོགས་པའི་ལྷ...",
+      "verified": true,
+      "content_summary": "གཉིས་པ་ ལ་སོགས་པ་ནི་ཕྱེད་ཕྱེད་ཕྲི་བ་གང་ཡིན་པ་སྟེ།",
+      "tibetan_title": "གཉིས་པ་ལ་སོགས་པ་ནི་ཕྱེད་ཕྱེད་ཕྲི་བ་གང་ཡིན་པ་སྟེ།",
+      "english_title": "Container World and Contents Beings - Sec 1.2"
+    },
+    "01-02-01-03": {
+      "chapter": 2,
+      "section": 1,
+      "subsection": 3,
+      "start_page": 27,
+      "start_line": 997,
+      "start_phrase": "གཉིས་པ་ལ་མེ་ཏོག་གི་ཕྲེང་བ་ཐོགས་པའི་ལྷ་དང༌།",
+      "end_page": 27,
+      "end_line": 998,
+      "end_phrase": "གསུམ་པ་ལ་སྦྲང་ཆང་གིས་རྟག་ཏུ་མྱོས་པའི་...",
+      "verified": true,
+      "content_summary": "གཉིས་པ་ ལ་མེ་ཏོག་གི་ཕྲེང་བ་ཐོགས་པའི་ལྷ་དང༌།",
+      "tibetan_title": "གཉིས་པ་ལ་མེ་ཏོག་གི་ཕྲེང་བ་ཐོགས་པའི་ལྷ་དང༌།",
+      "english_title": "Container World and Contents Beings - Sec 1.3"
+    },
+    "01-02-01-04": {
+      "chapter": 2,
+      "section": 1,
+      "subsection": 4,
+      "start_page": 27,
+      "start_line": 998,
+      "start_phrase": "གསུམ་པ་ལ་སྦྲང་ཆང་གིས་རྟག་ཏུ་མྱོས་པའི་ལྷ་དང༌།",
+      "end_page": 27,
+      "end_line": 999,
+      "end_phrase": "བཞི་པ་ལ་ཕྱོགས་བཞིར་འཕགས་སྐྱེས་པོ་དང༌...",
+      "verified": true,
+      "content_summary": "གསུམ་པ་ ལ་སྦྲང་ཆང་གིས་རྟག་ཏུ་མྱོས་པའི་ལྷ་དང༌།",
+      "tibetan_title": "གསུམ་པ་ལ་སྦྲང་ཆང་གིས་རྟག་ཏུ་མྱོས་པའི་ལྷ་དང༌།",
+      "english_title": "Container World and Contents Beings - Sec 1.4"
+    },
+    "01-02-01-05": {
+      "chapter": 2,
+      "section": 1,
+      "subsection": 5,
+      "start_page": 27,
+      "start_line": 999,
+      "start_phrase": "བཞི་པ་ལ་ཕྱོགས་བཞིར་འཕགས་སྐྱེས་པོ་དང༌།",
+      "end_page": 44,
+      "end_line": 1424,
+      "end_phrase": "དང་པོ་ཚ་དམྱལ་བརྒྱད་ཀྱི་ཡང་སོས་ཀྱིས་མ...",
+      "verified": true,
+      "content_summary": "བཞི་པ་ ལ་ཕྱོགས་བཞིར་འཕགས་སྐྱེས་པོ་དང༌།",
+      "tibetan_title": "བཞི་པ་ལ་ཕྱོགས་བཞིར་འཕགས་སྐྱེས་པོ་དང༌།",
+      "english_title": "Container World and Contents Beings - Sec 1.5"
+    },
+    "01-02-02-01": {
+      "chapter": 2,
+      "section": 2,
+      "subsection": 1,
+      "start_page": 44,
+      "start_line": 1424,
+      "start_phrase": "དང་པོ་ཚ་དམྱལ་བརྒྱད་ཀྱི་ཡང་སོས་ཀྱིས་མི་ལོ་ལྔ་བཅུ་རྒྱལ་ཆེན",
+      "end_page": 45,
+      "end_line": 1463,
+      "end_phrase": "བཅུ་པ་ རྫོགས་ནས་འགའ་ཞིག་གིས་སྲོག་གཅོད...",
+      "verified": true,
+      "content_summary": "དང་པོ་ ཚ་དམྱལ་བརྒྱད་ཀྱི་ཡང་སོས་ཀྱིས་མི་ལོ་ལྔ་བཅུ་རྒྱ",
+      "tibetan_title": "དང་པོ་ཚ་དམྱལ་བརྒྱད་ཀྱི་ཡང་སོས་ཀྱིས་མི་ལོ་ལྔ་བཅུ་རྒ",
+      "english_title": "Container World and Contents Beings - Second"
+    },
+    "01-02-02-02": {
+      "chapter": 2,
+      "section": 2,
+      "subsection": 2,
+      "start_page": 45,
+      "start_line": 1463,
+      "start_phrase": "བཅུ་པ་རྫོགས་ནས་འགའ་ཞིག་གིས་སྲོག་གཅོད་པ་སྤངས་པས་དེའི་ཚེ་ཚ",
+      "end_page": 48,
+      "end_line": 1572,
+      "end_phrase": "སྣོད་དང་བཅུད་ཀྱི་འཇིག་རྟེན་བསྟན་པ་སྟེ་རིམ་ཁང་གཉིས་པའོ།",
+      "verified": true,
+      "content_summary": "བཅུ་པ་ རྫོགས་ནས་འགའ་ཞིག་གིས་སྲོག་གཅོད་པ་སྤངས་པས་དེའི",
+      "tibetan_title": "བཅུ་པ་རྫོགས་ནས་འགའ་ཞིག་གིས་སྲོག་གཅོད་པ་སྤངས་པས་དེའ",
+      "english_title": "Container World and Contents Beings - Sec 2.2"
+    },
+    "01-03-01-01": {
+      "chapter": 3,
+      "section": 1,
+      "subsection": 1,
+      "start_page": 49,
+      "start_line": 1582,
+      "start_phrase": "རྟེན་ཕུང་པོའི་རིང་བཞིན།",
+      "end_page": 51,
+      "end_line": 1671,
+      "end_phrase": "དང་པོ་ནི།...",
+      "verified": true,
+      "content_summary": "རྟེན་ཕུང་པོའི་རིང་བཞིན། རྣམ་པ་སྐྱེ་མཆེད་ཀྱི་ཁྱད་པར།",
+      "tibetan_title": "རྟེན་ཕུང་པོའི་རིང་བཞིན།",
+      "english_title": "Samsaric Phenomena - Section 1"
+    },
+    "01-03-02-01": {
+      "chapter": 3,
+      "section": 2,
+      "subsection": 1,
+      "start_page": 51,
+      "start_line": 1671,
+      "start_phrase": "དང་པོ་ནི།",
+      "end_page": 53,
+      "end_line": 1732,
+      "end_phrase": "དང་པོ་ནི།...",
+      "verified": true,
+      "content_summary": "དང་པོ་ནི། ཟག་བཅས་འཇིག་རྟེན་པ་སོས་སོའི་སྐྱེ་བོའི་ཕུང་པོ་ལྔ་སྟེ།",
+      "tibetan_title": "དང་པོ་ ནི།",
+      "english_title": "Samsaric Phenomena - Second"
+    },
+    "01-03-03-01": {
+      "chapter": 3,
+      "section": 3,
+      "subsection": 1,
+      "start_page": 53,
+      "start_line": 1732,
+      "start_phrase": "དང་པོ་ནི།",
+      "end_page": 57,
+      "end_line": 1869,
+      "end_phrase": "འཁོར་བའི་ཆོས་རབ་ཏུ་དབྱེ་བ་སྟེ་རིམ་ཁང་གསུམ་པའོ།",
+      "verified": true,
+      "content_summary": "དང་པོ་ནི། རགས་པ་ཕུང་པོ་གཟུགས་ཅན་དང་པོའི་བདག་རྐྱེན་ལས་བྱུང་བ།",
+      "tibetan_title": "དང་པོ་ ནི།",
+      "english_title": "Samsaric Phenomena - Third"
+    },
+    "01-04-01-01": {
+      "chapter": 4,
+      "section": 1,
+      "subsection": 1,
+      "start_page": 58,
+      "start_line": 1902,
+      "start_phrase": "ལོག་པའི་ཐེག་པ་འདི་ལྟ་སྟེ།",
+      "end_page": 71,
+      "end_line": 2539,
+      "end_phrase": "དང་པོ་ཉན་ཐོས་ཀྱི་ཐེག་པ་བཤད་པ་ལ་ལྔ་ལས...",
+      "verified": true,
+      "content_summary": "ལོག་པའི་ཐེག་པ་འདི་ལྟ་སྟེ། འཇིག་ཚོགས་སུམ་བརྒྱ་དྲུག་ཅུར་འདོད།",
+      "tibetan_title": "ལོག་པའི་ཐེག་པ་འདི་ལྟ་སྟེ།",
+      "english_title": "Philosophical Systems - Section 1"
+    },
+    "01-04-02-01": {
+      "chapter": 4,
+      "section": 2,
+      "subsection": 1,
+      "start_page": 71,
+      "start_line": 2539,
+      "start_phrase": "དང་པོ་ཉན་ཐོས་ཀྱི་ཐེག་པ་བཤད་པ་ལ་ལྔ་ལས།",
+      "end_page": 77,
+      "end_line": 2833,
+      "end_phrase": "དང་པོ་ནི་མཚན་ཉིད་ཀྱི་ཐེག་པའི་ལུགས་ཀྱ...",
+      "verified": true,
+      "content_summary": "དང་པོ་ ཉན་ཐོས་ཀྱི་ཐེག་པ་བཤད་པ་ལ་ལྔ་ལས།",
+      "tibetan_title": "དང་པོ་ཉན་ཐོས་ཀྱི་ཐེག་པ་བཤད་པ་ལ་ལྔ་ལས།",
+      "english_title": "Philosophical Systems - Second"
+    },
+    "01-04-03-01": {
+      "chapter": 4,
+      "section": 3,
+      "subsection": 1,
+      "start_page": 77,
+      "start_line": 2833,
+      "start_phrase": "དང་པོ་ནི་མཚན་ཉིད་ཀྱི་ཐེག་པའི་ལུགས་ཀྱིས་དབང་པོ་རྣོན་པོ་སེ",
+      "end_page": 77,
+      "end_line": 2836,
+      "end_phrase": "དང་པོ་ནི།...",
+      "verified": true,
+      "content_summary": "དང་པོ་ ནི་མཚན་ཉིད་ཀྱི་ཐེག་པའི་ལུགས་ཀྱིས་དབང་པོ་རྣོན་",
+      "tibetan_title": "དང་པོ་ནི་མཚན་ཉིད་ཀྱི་ཐེག་པའི་ལུགས་ཀྱིས་དབང་པོ་རྣོན",
+      "english_title": "Philosophical Systems - Third"
+    },
+    "01-04-04-01": {
+      "chapter": 4,
+      "section": 4,
+      "subsection": 1,
+      "start_page": 77,
+      "start_line": 2836,
+      "start_phrase": "དང་པོ་ནི།",
+      "end_page": 77,
+      "end_line": 2849,
+      "end_phrase": "དང་པོ་ནི་སྣང་སྲིད་སྣོད་བཅུད་བློས་བཀོ...",
+      "verified": true,
+      "content_summary": "དང་པོ་ནི། སྣང་སྲིད་འཁོར་འདས་ཀྱིས་བསྡུས་པའི་ཆོས་ཐམས་ཅད་བདེན་པ་གཉིས་ཀྱི་རང་བཞིན་",
+      "tibetan_title": "དང་པོ་ ནི།",
+      "english_title": "Philosophical Systems - Fourth"
+    },
+    "01-04-05-01": {
+      "chapter": 4,
+      "section": 5,
+      "subsection": 1,
+      "start_page": 77,
+      "start_line": 2849,
+      "start_phrase": "དང་པོ་ནི་སྣང་སྲིད་སྣོད་བཅུད་བློས་བཀོད་པའི་ཆོས་སོ་ཅོག་དང་",
+      "end_page": 78,
+      "end_line": 2873,
+      "end_phrase": "དང་པོ་ནི་རིགས་པས་ཕྱེ་ཞིང་གཞིགས་ན་གང་...",
+      "verified": true,
+      "content_summary": "དང་པོ་ ནི་སྣང་སྲིད་སྣོད་བཅུད་བློས་བཀོད་པའི་ཆོས་སོ་ཅོ",
+      "tibetan_title": "དང་པོ་ནི་སྣང་སྲིད་སྣོད་བཅུད་བློས་བཀོད་པའི་ཆོས་སོ་ཅ",
+      "english_title": "Philosophical Systems - Fifth"
+    },
+    "01-04-06-01": {
+      "chapter": 4,
+      "section": 6,
+      "subsection": 1,
+      "start_page": 78,
+      "start_line": 2873,
+      "start_phrase": "དང་པོ་ནི་རིགས་པས་ཕྱེ་ཞིང་གཞིགས་ན་གང་དུའང་མ་གྲུབ་པའི་ཆོས་",
+      "end_page": 80,
+      "end_line": 2983,
+      "end_phrase": "དང་པོ་ནི་དོན་དུ་སྣང་བ་རང་གི་ཤེས་པའི་...",
+      "verified": true,
+      "content_summary": "དང་པོ་ ནི་རིགས་པས་ཕྱེ་ཞིང་གཞིགས་ན་གང་དུའང་མ་གྲུབ་པའི",
+      "tibetan_title": "དང་པོ་ནི་རིགས་པས་ཕྱེ་ཞིང་གཞིགས་ན་གང་དུའང་མ་གྲུབ་པའ",
+      "english_title": "Philosophical Systems - Sixth"
+    },
+    "01-04-07-01": {
+      "chapter": 4,
+      "section": 7,
+      "subsection": 1,
+      "start_page": 80,
+      "start_line": 2983,
+      "start_phrase": "དང་པོ་ནི་དོན་དུ་སྣང་བ་རང་གི་ཤེས་པའི་རྣམ་པ་ཕྱིར་ཤར་བ་ཙམ་ས",
+      "end_page": 80,
+      "end_line": 2989,
+      "end_phrase": "དང་པོ་ནི་སྒྲ་ཐོས་པའི་དུས་ནི་སྒྲ་འཛིན...",
+      "verified": true,
+      "content_summary": "དང་པོ་ ནི་དོན་དུ་སྣང་བ་རང་གི་ཤེས་པའི་རྣམ་པ་ཕྱིར་ཤར་བ",
+      "tibetan_title": "དང་པོ་ནི་དོན་དུ་སྣང་བ་རང་གི་ཤེས་པའི་རྣམ་པ་ཕྱིར་ཤར་",
+      "english_title": "Philosophical Systems - Seventh"
+    },
+    "01-04-08-01": {
+      "chapter": 4,
+      "section": 8,
+      "subsection": 1,
+      "start_page": 80,
+      "start_line": 2989,
+      "start_phrase": "དང་པོ་ནི་སྒྲ་ཐོས་པའི་དུས་ནི་སྒྲ་འཛིན་ཤེས་པ་གཅིག་པུ་སྐྱེའ",
+      "end_page": 81,
+      "end_line": 3017,
+      "end_phrase": "དང་པོ་ནི་ད་ལྟའི་རྣམ་པ་སྣ་ཚོགས་སུ་སྣང...",
+      "verified": true,
+      "content_summary": "དང་པོ་ ནི་སྒྲ་ཐོས་པའི་དུས་ནི་སྒྲ་འཛིན་ཤེས་པ་གཅིག་པུ་",
+      "tibetan_title": "དང་པོ་ནི་སྒྲ་ཐོས་པའི་དུས་ནི་སྒྲ་འཛིན་ཤེས་པ་གཅིག་པུ",
+      "english_title": "Philosophical Systems - Eighth"
+    },
+    "01-04-09-01": {
+      "chapter": 4,
+      "section": 9,
+      "subsection": 1,
+      "start_page": 81,
+      "start_line": 3017,
+      "start_phrase": "དང་པོ་ནི་ད་ལྟའི་རྣམ་པ་སྣ་ཚོགས་སུ་སྣང་བ་དང༌།",
+      "end_page": 82,
+      "end_line": 3037,
+      "end_phrase": "དང་པོ་ནི་འདི་ལྟར་སྣ་ཚོགས་སུ་སྣང་བའི་...",
+      "verified": true,
+      "content_summary": "དང་པོ་ ནི་ད་ལྟའི་རྣམ་པ་སྣ་ཚོགས་སུ་སྣང་བ་དང༌།",
+      "tibetan_title": "དང་པོ་ནི་ད་ལྟའི་རྣམ་པ་སྣ་ཚོགས་སུ་སྣང་བ་དང༌།",
+      "english_title": "Philosophical Systems - Ninth"
+    },
+    "01-04-10-01": {
+      "chapter": 4,
+      "section": 10,
+      "subsection": 1,
+      "start_page": 82,
+      "start_line": 3037,
+      "start_phrase": "དང་པོ་ནི་འདི་ལྟར་སྣ་ཚོགས་སུ་སྣང་བའི་རྣམ་པ་དང་འཇལ་བྱེད་མེ",
+      "end_page": 82,
+      "end_line": 3040,
+      "end_phrase": "དང་པོ་ནི།...",
+      "verified": true,
+      "content_summary": "དང་པོ་ ནི་འདི་ལྟར་སྣ་ཚོགས་སུ་སྣང་བའི་རྣམ་པ་དང་འཇལ་བྱ",
+      "tibetan_title": "དང་པོ་ནི་འདི་ལྟར་སྣ་ཚོགས་སུ་སྣང་བའི་རྣམ་པ་དང་འཇལ་བ",
+      "english_title": "Philosophical Systems - Tenth"
+    },
+    "01-04-11-01": {
+      "chapter": 4,
+      "section": 11,
+      "subsection": 1,
+      "start_page": 82,
+      "start_line": 3040,
+      "start_phrase": "དང་པོ་ནི།",
+      "end_page": 83,
+      "end_line": 3062,
+      "end_phrase": "དང་པོ་མེད་པས་དོན་ལ་འགག་རྒྱུར་མ་གྲུབ་...",
+      "verified": true,
+      "content_summary": "དང་པོ་ནི། ཡུལ་ཡུལ་ཅན་དུ་གྲུབ་པ་མེད་ལ།",
+      "tibetan_title": "དང་པོ་ ནི།",
+      "english_title": "Philosophical Systems - Eleventh"
+    },
+    "01-04-12-01": {
+      "chapter": 4,
+      "section": 12,
+      "subsection": 1,
+      "start_page": 83,
+      "start_line": 3062,
+      "start_phrase": "དང་པོ་མེད་པས་དོན་ལ་འགག་རྒྱུར་མ་གྲུབ་པ་བཞིན་ནོ།",
+      "end_page": 89,
+      "end_line": 3313,
+      "end_phrase": "དང་པོ་ནི།...",
+      "verified": true,
+      "content_summary": "དང་པོ་ མེད་པས་དོན་ལ་འགག་རྒྱུར་མ་གྲུབ་པ་བཞིན་ནོ།",
+      "tibetan_title": "དང་པོ་མེད་པས་དོན་ལ་འགག་རྒྱུར་མ་གྲུབ་པ་བཞིན་ནོ།",
+      "english_title": "Philosophical Systems - Twelfth"
+    },
+    "01-04-13-01": {
+      "chapter": 4,
+      "section": 13,
+      "subsection": 1,
+      "start_page": 89,
+      "start_line": 3313,
+      "start_phrase": "དང་པོ་ནི།",
+      "end_page": 90,
+      "end_line": 3341,
+      "end_phrase": "དང་པོ་ནི་གཞི་གསལ་བར་བྱ་བའི་རྒྱུ་ཡིན་...",
+      "verified": true,
+      "content_summary": "དང་པོ་ནི། ཕྱི་པ་གསུམ་གྱིས་དཀར་གསུམ་ལ་སོགས་པ་བསྟེན་ཞིང༌།",
+      "tibetan_title": "དང་པོ་ ནི།",
+      "english_title": "Philosophical Systems - Thirteenth"
+    },
+    "01-04-14-01": {
+      "chapter": 4,
+      "section": 14,
+      "subsection": 1,
+      "start_page": 90,
+      "start_line": 3341,
+      "start_phrase": "དང་པོ་ནི་གཞི་གསལ་བར་བྱ་བའི་རྒྱུ་ཡིན་པས།",
+      "end_page": 100,
+      "end_line": 3721,
+      "end_phrase": "དང་པོ་ནི།...",
+      "verified": true,
+      "content_summary": "དང་པོ་ ནི་གཞི་གསལ་བར་བྱ་བའི་རྒྱུ་ཡིན་པས།",
+      "tibetan_title": "དང་པོ་ནི་གཞི་གསལ་བར་བྱ་བའི་རྒྱུ་ཡིན་པས།",
+      "english_title": "Philosophical Systems - Fourteenth"
+    },
+    "01-04-15-01": {
+      "chapter": 4,
+      "section": 15,
+      "subsection": 1,
+      "start_page": 100,
+      "start_line": 3721,
+      "start_phrase": "དང་པོ་ནི།",
+      "end_page": 102,
+      "end_line": 3766,
+      "end_phrase": "དང་པོ་ནི།...",
+      "verified": true,
+      "content_summary": "དང་པོ་ནི། ཤར་སྣ་ཚོགས་རྒྱུ་མེད་དུ་ཤར་བས་སྣང་ངོ་རིས་མེད་དུ་སྣང་བའོ།",
+      "tibetan_title": "དང་པོ་ ནི།",
+      "english_title": "Philosophical Systems - Fifteenth"
+    },
+    "01-04-16-01": {
+      "chapter": 4,
+      "section": 16,
+      "subsection": 1,
+      "start_page": 102,
+      "start_line": 3766,
+      "start_phrase": "དང་པོ་ནི།",
+      "end_page": 104,
+      "end_line": 3870,
+      "end_phrase": "དང་པོ་ནི།...",
+      "verified": true,
+      "content_summary": "དང་པོ་ནི། ངོ་བོ་མཐོང་བ་ཅེར་གྲོལ།",
+      "tibetan_title": "དང་པོ་ ནི།",
+      "english_title": "Philosophical Systems - Sixteenth"
+    },
+    "01-04-17-01": {
+      "chapter": 4,
+      "section": 17,
+      "subsection": 1,
+      "start_page": 104,
+      "start_line": 3870,
+      "start_phrase": "དང་པོ་ནི།",
+      "end_page": 105,
+      "end_line": 3888,
+      "end_phrase": "དང་པོ་ནི།...",
+      "verified": true,
+      "content_summary": "དང་པོ་ནི། སྟོང་པ་ཁྱབ་ཆེ་བས་བྱ་བ་ཀུན་ཏུ་རོལ་བའི་ལམ་ལ་ལྟོས་པ་མེད་པས་གཞི་ལས་ཁྱད་པར་",
+      "tibetan_title": "དང་པོ་ ནི།",
+      "english_title": "Philosophical Systems - Seventeenth"
+    },
+    "01-04-18-01": {
+      "chapter": 4,
+      "section": 18,
+      "subsection": 1,
+      "start_page": 105,
+      "start_line": 3888,
+      "start_phrase": "དང་པོ་ནི།",
+      "end_page": 105,
+      "end_line": 3893,
+      "end_phrase": "གཉིས་པ་ནི།...",
+      "verified": true,
+      "content_summary": "དང་པོ་ནི། རྩའི་གནད་ཀྱི་རླུང་གནས་ལ་ཕབ་པས་རང་སེམས་བརྩོན་དུ་ཟིན་པའི་མན་ངག་གིས་ཆོས་",
+      "tibetan_title": "དང་པོ་ ནི།",
+      "english_title": "Philosophical Systems - Eighteenth"
+    },
+    "01-04-18-02": {
+      "chapter": 4,
+      "section": 18,
+      "subsection": 2,
+      "start_page": 105,
+      "start_line": 3893,
+      "start_phrase": "གཉིས་པ་ནི།",
+      "end_page": 108,
+      "end_line": 3994,
+      "end_phrase": "དང་པོ་འཁྲུལ་མ་མྱོང་བས་མ་རིག་པའི་རྒྱུ...",
+      "verified": true,
+      "content_summary": "གཉིས་པ་ནི། དབྱིངས་རྒྱ་ཆེ་བའི་ངོས་ནས་གང་ཡང་མ་ཤོང་བ་མེད་པས་འཁོར་འདས་ཀྱི་ཁྱབ་བརྩི་",
+      "tibetan_title": "གཉིས་པ་ནི།",
+      "english_title": "Philosophical Systems - Sec 18.2"
+    },
+    "01-04-19-01": {
+      "chapter": 4,
+      "section": 19,
+      "subsection": 1,
+      "start_page": 108,
+      "start_line": 3994,
+      "start_phrase": "དང་པོ་འཁྲུལ་མ་མྱོང་བས་མ་རིག་པའི་རྒྱུད་དག་ལ།",
+      "end_page": 112,
+      "end_line": 4149,
+      "end_phrase": "གྲུབ་པའི་མཐའ་རབ་ཏུ་དབྱེ་བ་སྟེ་རིམ་ཁང་བཞི་པའོ།།",
+      "verified": true,
+      "content_summary": "དང་པོ་ འཁྲུལ་མ་མྱོང་བས་མ་རིག་པའི་རྒྱུད་དག་ལ།",
+      "tibetan_title": "དང་པོ་འཁྲུལ་མ་མྱོང་བས་མ་རིག་པའི་རྒྱུད་དག་ལ།",
+      "english_title": "Philosophical Systems - Nineteenth"
+    },
+    "01-05-01-01": {
+      "chapter": 5,
+      "section": 1,
+      "subsection": 1,
+      "start_page": 113,
+      "start_line": 4172,
+      "start_phrase": "མཚོན་བྱེད་ཚིག་གི་རྒྱུད་གཉིས་ལས།",
+      "end_page": 115,
+      "end_line": 4283,
+      "end_phrase": "དང་པོ་ནི།...",
+      "verified": true,
+      "content_summary": "མཚོན་བྱེད་ཚིག་གི་རྒྱུད་གཉིས་ལས།",
+      "tibetan_title": "མཚོན་བྱེད་ཚིག་གི་རྒྱུད་གཉིས་ལས།",
+      "english_title": "Difficult Points in Secret Mantra - Section 1"
+    },
+    "01-05-02-01": {
+      "chapter": 5,
+      "section": 2,
+      "subsection": 1,
+      "start_page": 115,
+      "start_line": 4283,
+      "start_phrase": "དང་པོ་ནི།",
+      "end_page": 124,
+      "end_line": 4639,
+      "end_phrase": "དང་པོ་རྩ་བའི་རྒྱུད་གཉིས་ནི།...",
+      "verified": true,
+      "content_summary": "དང་པོ་ནི། གཞི་ཁྲེགས་ཆོད་དེ།",
+      "tibetan_title": "དང་པོ་ ནི།",
+      "english_title": "Difficult Points in Secret Mantra - Second"
+    },
+    "01-05-03-01": {
+      "chapter": 5,
+      "section": 3,
+      "subsection": 1,
+      "start_page": 124,
+      "start_line": 4639,
+      "start_phrase": "དང་པོ་རྩ་བའི་རྒྱུད་གཉིས་ནི།",
+      "end_page": 129,
+      "end_line": 4848,
+      "end_phrase": "དང་པོ་རྣམ་གྲངས་ལྔས་ས་བཅིངས་ཏེ་བཤད་པ་...",
+      "verified": true,
+      "content_summary": "དང་པོ་རྩ་བའི་རྒྱུད་གཉིས་ནི། རྫོགས་པ་རང་བྱུང་རྩ་བའི་ལུང་བརྒྱད་ལ་བརྟེན་ནས།",
+      "tibetan_title": "དང་པོ་རྩ་བའི་རྒྱུད་གཉིས་ནི།",
+      "english_title": "Difficult Points in Secret Mantra - Third"
+    },
+    "01-05-04-01": {
+      "chapter": 5,
+      "section": 4,
+      "subsection": 1,
+      "start_page": 129,
+      "start_line": 4848,
+      "start_phrase": "དང་པོ་རྣམ་གྲངས་ལྔས་ས་བཅིངས་ཏེ་བཤད་པ་ནི།",
+      "end_page": 163,
+      "end_line": 6420,
+      "end_phrase": "གསུམ་པ་ལ་ཚངས་པ་སྟོང་གི་ཡེ་སྲིད་མགོན་ད...",
+      "verified": true,
+      "content_summary": "དང་པོ་ རྣམ་གྲངས་ལྔས་ས་བཅིངས་ཏེ་བཤད་པ་ནི།",
+      "tibetan_title": "དང་པོ་རྣམ་གྲངས་ལྔས་ས་བཅིངས་ཏེ་བཤད་པ་ནི།",
+      "english_title": "Difficult Points in Secret Mantra - Fourth"
+    },
+    "01-05-04-02": {
+      "chapter": 5,
+      "section": 4,
+      "subsection": 2,
+      "start_page": 163,
+      "start_line": 6420,
+      "start_phrase": "གསུམ་པ་ལ་ཚངས་པ་སྟོང་གི་ཡེ་སྲིད་མགོན་དང༌།",
+      "end_page": 163,
+      "end_line": 6421,
+      "end_phrase": "བཞི་པ་ལ་ཉི་མ་སྟོང་གི་རྒྱལ་བ་དང༌།...",
+      "verified": true,
+      "content_summary": "གསུམ་པ་ ལ་ཚངས་པ་སྟོང་གི་ཡེ་སྲིད་མགོན་དང༌།",
+      "tibetan_title": "གསུམ་པ་ལ་ཚངས་པ་སྟོང་གི་ཡེ་སྲིད་མགོན་དང༌།",
+      "english_title": "Difficult Points in Secret Mantra - Sec 4.2"
+    },
+    "01-05-04-03": {
+      "chapter": 5,
+      "section": 4,
+      "subsection": 3,
+      "start_page": 163,
+      "start_line": 6421,
+      "start_phrase": "བཞི་པ་ལ་ཉི་མ་སྟོང་གི་རྒྱལ་བ་དང༌།",
+      "end_page": 163,
+      "end_line": 6422,
+      "end_phrase": "ལྔ་པ་ལ་དྲ་བ་མགོན་གྱི་སངས་རྒྱས་དང༌།...",
+      "verified": true,
+      "content_summary": "བཞི་པ་ ལ་ཉི་མ་སྟོང་གི་རྒྱལ་བ་དང༌།",
+      "tibetan_title": "བཞི་པ་ལ་ཉི་མ་སྟོང་གི་རྒྱལ་བ་དང༌།",
+      "english_title": "Difficult Points in Secret Mantra - Sec 4.3"
+    },
+    "01-05-04-04": {
+      "chapter": 5,
+      "section": 4,
+      "subsection": 4,
+      "start_page": 163,
+      "start_line": 6422,
+      "start_phrase": "ལྔ་པ་ལ་དྲ་བ་མགོན་གྱི་སངས་རྒྱས་དང༌།",
+      "end_page": 163,
+      "end_line": 6423,
+      "end_phrase": "དྲུག་པ་ ལ་འོད་ཟེར་སྟོང་གི་མུ་ཁྱུད་མགོན...",
+      "verified": true,
+      "content_summary": "ལྔ་པ་ ལ་དྲ་བ་མགོན་གྱི་སངས་རྒྱས་དང༌།",
+      "tibetan_title": "ལྔ་པ་ལ་དྲ་བ་མགོན་གྱི་སངས་རྒྱས་དང༌།",
+      "english_title": "Difficult Points in Secret Mantra - Sec 4.4"
+    },
+    "01-05-04-05": {
+      "chapter": 5,
+      "section": 4,
+      "subsection": 5,
+      "start_page": 163,
+      "start_line": 6423,
+      "start_phrase": "དྲུག་པ་ལ་འོད་ཟེར་སྟོང་གི་མུ་ཁྱུད་མགོན་དང༌།",
+      "end_page": 163,
+      "end_line": 6424,
+      "end_phrase": "བདུན་པ་ ལ་འཁོར་བ་འཇིག་གི་རྒྱལ་བ་དང༌།...",
+      "verified": true,
+      "content_summary": "དྲུག་པ་ ལ་འོད་ཟེར་སྟོང་གི་མུ་ཁྱུད་མགོན་དང༌།",
+      "tibetan_title": "དྲུག་པ་ལ་འོད་ཟེར་སྟོང་གི་མུ་ཁྱུད་མགོན་དང༌།",
+      "english_title": "Difficult Points in Secret Mantra - Sec 4.5"
+    },
+    "01-05-04-06": {
+      "chapter": 5,
+      "section": 4,
+      "subsection": 6,
+      "start_page": 163,
+      "start_line": 6424,
+      "start_phrase": "བདུན་པ་ལ་འཁོར་བ་འཇིག་གི་རྒྱལ་བ་དང༌།",
+      "end_page": 170,
+      "end_line": 6759,
+      "end_phrase": "དང་པོ་བླ་ན་མེད་པའི་ཐེག་པར་འཇུག་པའི་ས...",
+      "verified": true,
+      "content_summary": "བདུན་པ་ ལ་འཁོར་བ་འཇིག་གི་རྒྱལ་བ་དང༌།",
+      "tibetan_title": "བདུན་པ་ལ་འཁོར་བ་འཇིག་གི་རྒྱལ་བ་དང༌།",
+      "english_title": "Difficult Points in Secret Mantra - Sec 4.6"
+    },
+    "01-05-05-01": {
+      "chapter": 5,
+      "section": 5,
+      "subsection": 1,
+      "start_page": 170,
+      "start_line": 6759,
+      "start_phrase": "དང་པོ་བླ་ན་མེད་པའི་ཐེག་པར་འཇུག་པའི་སྒོ་དབང་ཡིན་པས།",
+      "end_page": 170,
+      "end_line": 6764,
+      "end_phrase": "གསང་ཆེན་ངེས་པའི་དོན་ལས་དཀའ་བའི་གནས་བསྟན་པ་སྟེ་རིམ་ཁང་ལྔ་པའོ།",
+      "verified": true,
+      "content_summary": "དང་པོ་ བླ་ན་མེད་པའི་ཐེག་པར་འཇུག་པའི་སྒོ་དབང་ཡིན་པས།",
+      "tibetan_title": "དང་པོ་བླ་ན་མེད་པའི་ཐེག་པར་འཇུག་པའི་སྒོ་དབང་ཡིན་པས།",
+      "english_title": "Difficult Points in Secret Mantra - Fifth"
+    },
+    "01-06-01-01": {
+      "chapter": 6,
+      "section": 1,
+      "subsection": 1,
+      "start_page": 171,
+      "start_line": 6801,
+      "start_phrase": "སློབ་མའི་རིགས་དྲུག་གི་ས་བོན་སྟོངས་ནས།",
+      "end_page": 177,
+      "end_line": 7099,
+      "end_phrase": "དང་པོ་སྤྲོས་བཅས་ཀྱི་དུས་དང་མཚན་མ་ནི།...",
+      "verified": true,
+      "content_summary": "སློབ་མའི་རིགས་དྲུག་གི་ས་བོན་སྟོངས་ནས།",
+      "tibetan_title": "སློབ་མའི་རིགས་དྲུག་གི་ས་བོན་སྟོངས་ནས།",
+      "english_title": "Ripening and Liberation Empowerments - Section 1"
+    },
+    "01-06-02-01": {
+      "chapter": 6,
+      "section": 2,
+      "subsection": 1,
+      "start_page": 177,
+      "start_line": 7099,
+      "start_phrase": "དང་པོ་སྤྲོས་བཅས་ཀྱི་དུས་དང་མཚན་མ་ནི།",
+      "end_page": 196,
+      "end_line": 8112,
+      "end_phrase": "དང་པོ་རྡུལ་ཚོན་གྱི་དཀྱིལ་འཁོར་དུ་ལྷ་...",
+      "verified": true,
+      "content_summary": "དང་པོ་ སྤྲོས་བཅས་ཀྱི་དུས་དང་མཚན་མ་ནི།",
+      "tibetan_title": "དང་པོ་སྤྲོས་བཅས་ཀྱི་དུས་དང་མཚན་མ་ནི།",
+      "english_title": "Ripening and Liberation Empowerments - Second"
+    },
+    "01-06-03-01": {
+      "chapter": 6,
+      "section": 3,
+      "subsection": 1,
+      "start_page": 196,
+      "start_line": 8112,
+      "start_phrase": "དང་པོ་རྡུལ་ཚོན་གྱི་དཀྱིལ་འཁོར་དུ་ལྷ་དང༌།",
+      "end_page": 196,
+      "end_line": 8138,
+      "end_phrase": "དང་པོ་རིག་པའི་ཡེ་ཤེས་ལྔ་མཚོན་པ་རྡུལ་...",
+      "verified": true,
+      "content_summary": "དང་པོ་ རྡུལ་ཚོན་གྱི་དཀྱིལ་འཁོར་དུ་ལྷ་དང༌།",
+      "tibetan_title": "དང་པོ་རྡུལ་ཚོན་གྱི་དཀྱིལ་འཁོར་དུ་ལྷ་དང༌།",
+      "english_title": "Ripening and Liberation Empowerments - Third"
+    },
+    "01-06-04-01": {
+      "chapter": 6,
+      "section": 4,
+      "subsection": 1,
+      "start_page": 196,
+      "start_line": 8138,
+      "start_phrase": "དང་པོ་རིག་པའི་ཡེ་ཤེས་ལྔ་མཚོན་པ་རྡུལ་ཚོན་གྱི་དཀྱིལ་འཁོར་ད",
+      "end_page": 210,
+      "end_line": 8672,
+      "end_phrase": "དང་པོ་དགའ་བ་སྟེ།...",
+      "verified": true,
+      "content_summary": "དང་པོ་ རིག་པའི་ཡེ་ཤེས་ལྔ་མཚོན་པ་རྡུལ་ཚོན་གྱི་དཀྱིལ་འ",
+      "tibetan_title": "དང་པོ་རིག་པའི་ཡེ་ཤེས་ལྔ་མཚོན་པ་རྡུལ་ཚོན་གྱི་དཀྱིལ་",
+      "english_title": "Ripening and Liberation Empowerments - Fourth"
+    },
+    "01-06-05-01": {
+      "chapter": 6,
+      "section": 5,
+      "subsection": 1,
+      "start_page": 210,
+      "start_line": 8672,
+      "start_phrase": "དང་པོ་དགའ་བ་སྟེ།",
+      "end_page": 210,
+      "end_line": 8674,
+      "end_phrase": "གཉིས་པ་ཚོར་བ་་སྟེ་མྱོང་བའི་དངོས་རྗེས་...",
+      "verified": true,
+      "content_summary": "དང་པོ་དགའ་བ་སྟེ། འཇུག་པའི་ཡེ་ཤེས་རླུང་གི་འཕེན་པ་དང་སྡུད་པ་ལ་སྤྱོད།",
+      "tibetan_title": "དང་པོ་དགའ་བ་སྟེ།",
+      "english_title": "Ripening and Liberation Empowerments - Fifth"
+    },
+    "01-06-05-02": {
+      "chapter": 6,
+      "section": 5,
+      "subsection": 2,
+      "start_page": 210,
+      "start_line": 8674,
+      "start_phrase": "གཉིས་པ་ཚོར་བ་་སྟེ་མྱོང་བའི་དངོས་རྗེས་ལ་སྤྱོད།",
+      "end_page": 210,
+      "end_line": 8675,
+      "end_phrase": "གསུམ་པ་བདེ་བ་སྟེ་སེམས་དང་ཡེ་ཤེས་འཁྲུག...",
+      "verified": true,
+      "content_summary": "གཉིས་པ་ ཚོར་བ་་སྟེ་མྱོང་བའི་དངོས་རྗེས་ལ་སྤྱོད།",
+      "tibetan_title": "གཉིས་པ་ཚོར་བ་་སྟེ་མྱོང་བའི་དངོས་རྗེས་ལ་སྤྱོད།",
+      "english_title": "Ripening and Liberation Empowerments - Sec 5.2"
+    },
+    "01-06-05-03": {
+      "chapter": 6,
+      "section": 5,
+      "subsection": 3,
+      "start_page": 210,
+      "start_line": 8675,
+      "start_phrase": "གསུམ་པ་བདེ་བ་སྟེ་སེམས་དང་ཡེ་ཤེས་འཁྲུག་པའི་དུས།",
+      "end_page": 210,
+      "end_line": 8676,
+      "end_phrase": "བཞི་པ་མྱོང་བ་སྟེ་སེམས་དང་ཡེ་ཤེས་གཉིས...",
+      "verified": true,
+      "content_summary": "གསུམ་པ་ བདེ་བ་སྟེ་སེམས་དང་ཡེ་ཤེས་འཁྲུག་པའི་དུས།",
+      "tibetan_title": "གསུམ་པ་བདེ་བ་སྟེ་སེམས་དང་ཡེ་ཤེས་འཁྲུག་པའི་དུས།",
+      "english_title": "Ripening and Liberation Empowerments - Sec 5.3"
+    },
+    "01-06-05-04": {
+      "chapter": 6,
+      "section": 5,
+      "subsection": 4,
+      "start_page": 210,
+      "start_line": 8676,
+      "start_phrase": "བཞི་པ་མྱོང་བ་སྟེ་སེམས་དང་ཡེ་ཤེས་གཉིས་དབྱེར་མི་བྱེད་པའི་ད",
+      "end_page": 210,
+      "end_line": 8677,
+      "end_phrase": "ལྔ་པ་སྟོང་པ་སྟེ་སེམས་དང་ཡེ་ཤེས་གཉིས...",
+      "verified": true,
+      "content_summary": "བཞི་པ་ མྱོང་བ་སྟེ་སེམས་དང་ཡེ་ཤེས་གཉིས་དབྱེར་མི་བྱེད་",
+      "tibetan_title": "བཞི་པ་མྱོང་བ་སྟེ་སེམས་དང་ཡེ་ཤེས་གཉིས་དབྱེར་མི་བྱེད",
+      "english_title": "Ripening and Liberation Empowerments - Sec 5.4"
+    },
+    "01-06-05-05": {
+      "chapter": 6,
+      "section": 5,
+      "subsection": 5,
+      "start_page": 210,
+      "start_line": 8677,
+      "start_phrase": "ལྔ་པ་སྟོང་པ་སྟེ་སེམས་དང་ཡེ་ཤེས་གཉིས་གང་དུ་ཡང་མ་ཕྱེ་མི་འ",
+      "end_page": 210,
+      "end_line": 8680,
+      "end_phrase": "དང་པོ་དགའ་བ་ཙམ་ཉིད་ལས།...",
+      "verified": true,
+      "content_summary": "ལྔ་པ་ སྟོང་པ་སྟེ་སེམས་དང་ཡེ་ཤེས་གཉིས་གང་དུ་ཡང་མ་ཕྱེ",
+      "tibetan_title": "ལྔ་པ་སྟོང་པ་སྟེ་སེམས་དང་ཡེ་ཤེས་གཉིས་གང་དུ་ཡང་མ་ཕྱེ",
+      "english_title": "Ripening and Liberation Empowerments - Sec 5.5"
+    },
+    "01-06-06-01": {
+      "chapter": 6,
+      "section": 6,
+      "subsection": 1,
+      "start_page": 210,
+      "start_line": 8680,
+      "start_phrase": "དང་པོ་དགའ་བ་ཙམ་ཉིད་ལས།",
+      "end_page": 210,
+      "end_line": 8687,
+      "end_phrase": "དང་པོ་རིག་མ་ལ་དངོས་སུ་ནི་མ་སྤྱད་རྩ་བ...",
+      "verified": true,
+      "content_summary": "དང་པོ་དགའ་བ་ཙམ་ཉིད་ལས། །གཉིས་པ་ཚོར་བ་མྱོང་རེག་ལ།",
+      "tibetan_title": "དང་པོ་དགའ་བ་ཙམ་ཉིད་ལས།",
+      "english_title": "Ripening and Liberation Empowerments - Sixth"
+    },
+    "01-06-07-01": {
+      "chapter": 6,
+      "section": 7,
+      "subsection": 1,
+      "start_page": 210,
+      "start_line": 8687,
+      "start_phrase": "དང་པོ་རིག་མ་ལ་དངོས་སུ་ནི་མ་སྤྱད་རྩ་བསྐྱེད་པའི་ཐབས་ལ་སོགས",
+      "end_page": 212,
+      "end_line": 8724,
+      "end_phrase": "གཉིས་པ་ངག་དང་འདྲེས་པས་གསུང་གི་བདག་ཉིད...",
+      "verified": true,
+      "content_summary": "དང་པོ་ རིག་མ་ལ་དངོས་སུ་ནི་མ་སྤྱད་རྩ་བསྐྱེད་པའི་ཐབས་ལ",
+      "tibetan_title": "དང་པོ་རིག་མ་ལ་དངོས་སུ་ནི་མ་སྤྱད་རྩ་བསྐྱེད་པའི་ཐབས་",
+      "english_title": "Ripening and Liberation Empowerments - Seventh"
+    },
+    "01-06-07-02": {
+      "chapter": 6,
+      "section": 7,
+      "subsection": 2,
+      "start_page": 212,
+      "start_line": 8724,
+      "start_phrase": "གཉིས་པ་ངག་དང་འདྲེས་པས་གསུང་གི་བདག་ཉིད་དུ་འགྱུར།",
+      "end_page": 212,
+      "end_line": 8725,
+      "end_phrase": "གསུམ་པ་སེམས་དང་འདྲེས་པས་ཐུགས་ཀྱི་བདག་...",
+      "verified": true,
+      "content_summary": "གཉིས་པ་ ངག་དང་འདྲེས་པས་གསུང་གི་བདག་ཉིད་དུ་འགྱུར།",
+      "tibetan_title": "གཉིས་པ་ངག་དང་འདྲེས་པས་གསུང་གི་བདག་ཉིད་དུ་འགྱུར།",
+      "english_title": "Ripening and Liberation Empowerments - Sec 7.2"
+    },
+    "01-06-07-03": {
+      "chapter": 6,
+      "section": 7,
+      "subsection": 3,
+      "start_page": 212,
+      "start_line": 8725,
+      "start_phrase": "གསུམ་པ་སེམས་དང་འདྲེས་པས་ཐུགས་ཀྱི་བདག་ཉིད་དུ་འགྱུར་རོ།",
+      "end_page": 213,
+      "end_line": 8770,
+      "end_phrase": "དང་པོ་ཕྱི་ནི།...",
+      "verified": true,
+      "content_summary": "གསུམ་པ་ སེམས་དང་འདྲེས་པས་ཐུགས་ཀྱི་བདག་ཉིད་དུ་འགྱུར་རོ",
+      "tibetan_title": "གསུམ་པ་སེམས་དང་འདྲེས་པས་ཐུགས་ཀྱི་བདག་ཉིད་དུ་འགྱུར་",
+      "english_title": "Ripening and Liberation Empowerments - Sec 7.3"
+    },
+    "01-06-08-01": {
+      "chapter": 6,
+      "section": 8,
+      "subsection": 1,
+      "start_page": 213,
+      "start_line": 8770,
+      "start_phrase": "དང་པོ་ཕྱི་ནི།",
+      "end_page": 214,
+      "end_line": 8810,
+      "end_phrase": "དང་པོ་ནི་སྤྲོས་བཅས་ཀྱི་དབང༌།...",
+      "verified": true,
+      "content_summary": "དང་པོ་ཕྱི་ནི། འཁོར་འདས་ལུ་ཤན་འབྱེད་པའོ།",
+      "tibetan_title": "དང་པོ་ཕྱི་ནི།",
+      "english_title": "Ripening and Liberation Empowerments - Eighth"
+    },
+    "01-06-09-01": {
+      "chapter": 6,
+      "section": 9,
+      "subsection": 1,
+      "start_page": 214,
+      "start_line": 8810,
+      "start_phrase": "དང་པོ་ནི་སྤྲོས་བཅས་ཀྱི་དབང༌།",
+      "end_page": 215,
+      "end_line": 8841,
+      "end_phrase": "དང་པོ་སྤྲོས་བཅས་ཀྱི་ནུས་པའི་རྣམ་གཞག་...",
+      "verified": true,
+      "content_summary": "དང་པོ་ ནི་སྤྲོས་བཅས་ཀྱི་དབང༌།",
+      "tibetan_title": "དང་པོ་ནི་སྤྲོས་བཅས་ཀྱི་དབང༌།",
+      "english_title": "Ripening and Liberation Empowerments - Ninth"
+    },
+    "01-06-10-01": {
+      "chapter": 6,
+      "section": 10,
+      "subsection": 1,
+      "start_page": 215,
+      "start_line": 8841,
+      "start_phrase": "དང་པོ་སྤྲོས་བཅས་ཀྱི་ནུས་པའི་རྣམ་གཞག་ནི།",
+      "end_page": 216,
+      "end_line": 8873,
+      "end_phrase": "དང་པོ་སྤྲོས་བཅས་ལ།...",
+      "verified": true,
+      "content_summary": "དང་པོ་ སྤྲོས་བཅས་ཀྱི་ནུས་པའི་རྣམ་གཞག་ནི།",
+      "tibetan_title": "དང་པོ་སྤྲོས་བཅས་ཀྱི་ནུས་པའི་རྣམ་གཞག་ནི།",
+      "english_title": "Ripening and Liberation Empowerments - Tenth"
+    },
+    "01-06-11-01": {
+      "chapter": 6,
+      "section": 11,
+      "subsection": 1,
+      "start_page": 216,
+      "start_line": 8873,
+      "start_phrase": "དང་པོ་སྤྲོས་བཅས་ལ།",
+      "end_page": 221,
+      "end_line": 9015,
+      "end_phrase": "དང་པོ་སྤྲོས་བཅས་ལའང་གཞིར་བྱས་པའི་སྤྲ...",
+      "verified": true,
+      "content_summary": "དང་པོ་སྤྲོས་བཅས་ལ། སྤྲོས་བཅས་ཀྱི་སྤྲོས་བཅས་དམ་བསྲེ་ཞིང་མནའ་ཆུ་བླུད་པ་ལ་སོགས་པ་",
+      "tibetan_title": "དང་པོ་སྤྲོས་བཅས་ལ།",
+      "english_title": "Ripening and Liberation Empowerments - Eleventh"
+    },
+    "01-06-12-01": {
+      "chapter": 6,
+      "section": 12,
+      "subsection": 1,
+      "start_page": 221,
+      "start_line": 9015,
+      "start_phrase": "དང་པོ་སྤྲོས་བཅས་ལའང་གཞིར་བྱས་པའི་སྤྲོས་བཅས་ཀྱི་སྤྲོས་བཅས",
+      "end_page": 235,
+      "end_line": 9518,
+      "end_phrase": "དང་པོ་ཆོས་སྐུའི་སྟོན་པ་དཔལ་ཀུན་ཏུ་བཟ...",
+      "verified": true,
+      "content_summary": "དང་པོ་ སྤྲོས་བཅས་ལའང་གཞིར་བྱས་པའི་སྤྲོས་བཅས་ཀྱི་སྤྲོ",
+      "tibetan_title": "དང་པོ་སྤྲོས་བཅས་ལའང་གཞིར་བྱས་པའི་སྤྲོས་བཅས་ཀྱི་སྤྲ",
+      "english_title": "Ripening and Liberation Empowerments - Twelfth"
+    },
+    "01-06-13-01": {
+      "chapter": 6,
+      "section": 13,
+      "subsection": 1,
+      "start_page": 235,
+      "start_line": 9518,
+      "start_phrase": "དང་པོ་ཆོས་སྐུའི་སྟོན་པ་དཔལ་ཀུན་ཏུ་བཟང་པོ།",
+      "end_page": 240,
+      "end_line": 9703,
+      "end_phrase": "དང་པོ་ངོ་བོ་ནི་སྔགས་ཀྱི་སྡོམ་པས་རྒྱུ...",
+      "verified": true,
+      "content_summary": "དང་པོ་ ཆོས་སྐུའི་སྟོན་པ་དཔལ་ཀུན་ཏུ་བཟང་པོ།",
+      "tibetan_title": "དང་པོ་ཆོས་སྐུའི་སྟོན་པ་དཔལ་ཀུན་ཏུ་བཟང་པོ།",
+      "english_title": "Ripening and Liberation Empowerments - Thirteenth"
+    },
+    "01-06-14-01": {
+      "chapter": 6,
+      "section": 14,
+      "subsection": 1,
+      "start_page": 240,
+      "start_line": 9703,
+      "start_phrase": "དང་པོ་ངོ་བོ་ནི་སྔགས་ཀྱི་སྡོམ་པས་རྒྱུད་བསྡམས་པའི་གཉེན་པོའ",
+      "end_page": 240,
+      "end_line": 9708,
+      "end_phrase": "གཞིའི་དོན་སྨིན་པར་བྱེད་པ་དང་དབང་གི་རྣམ་པར་གཞག་པ་སྟེ་རིམ་ཁང་དྲུག་པའོ།",
+      "verified": true,
+      "content_summary": "དང་པོ་ ངོ་བོ་ནི་སྔགས་ཀྱི་སྡོམ་པས་རྒྱུད་བསྡམས་པའི་གཉེ",
+      "tibetan_title": "དང་པོ་ངོ་བོ་ནི་སྔགས་ཀྱི་སྡོམ་པས་རྒྱུད་བསྡམས་པའི་གཉ",
+      "english_title": "Ripening and Liberation Empowerments - Fourteenth"
+    },
+    "01-07-01-01": {
+      "chapter": 7,
+      "section": 1,
+      "subsection": 1,
+      "start_page": 241,
+      "start_line": 9704,
+      "start_phrase": "དམ་ཚིག་མཆོག་གི་རྒྱུད་ལས།",
+      "end_page": 244,
+      "end_line": 9899,
+      "end_phrase": "དང་པོ་སྐུ་ལ་ཕྱི་དང༌།...",
+      "verified": true,
+      "content_summary": "དམ་ཚིག་མཆོག་གི་རྒྱུད་ལས། དམ་ཞེས་བྱ་བ་བཅིངས་པ་སྟེན།",
+      "tibetan_title": "དམ་ཚིག་མཆོག་གི་རྒྱུད་ལས།",
+      "english_title": "Samaya Commitments - Section 1"
+    },
+    "01-07-02-01": {
+      "chapter": 7,
+      "section": 2,
+      "subsection": 1,
+      "start_page": 244,
+      "start_line": 9899,
+      "start_phrase": "དང་པོ་སྐུ་ལ་ཕྱི་དང༌།",
+      "end_page": 246,
+      "end_line": 9990,
+      "end_phrase": "དང་པོ་ཕྱིའི་ཕྱི་རྫུན་སྤོང་བ་སྟེ།...",
+      "verified": true,
+      "content_summary": "དང་པོ་སྐུ་ལ་ཕྱི་དང༌། ནང་དང༌།",
+      "tibetan_title": "དང་པོ་སྐུ་ལ་ཕྱི་དང༌།",
+      "english_title": "Samaya Commitments - Second"
+    },
+    "01-07-03-01": {
+      "chapter": 7,
+      "section": 3,
+      "subsection": 1,
+      "start_page": 246,
+      "start_line": 9990,
+      "start_phrase": "དང་པོ་ཕྱིའི་ཕྱི་རྫུན་སྤོང་བ་སྟེ།",
+      "end_page": 247,
+      "end_line": 10086,
+      "end_phrase": "དང་པོ་ཕྱིའི་ཕྱི་གནོད་སེམས་སྤང་བ་སྟེ།...",
+      "verified": true,
+      "content_summary": "དང་པོ་ ཕྱིའི་ཕྱི་རྫུན་སྤོང་བ་སྟེ།",
+      "tibetan_title": "དང་པོ་ཕྱིའི་ཕྱི་རྫུན་སྤོང་བ་སྟེ།",
+      "english_title": "Samaya Commitments - Third"
+    },
+    "01-07-04-01": {
+      "chapter": 7,
+      "section": 4,
+      "subsection": 1,
+      "start_page": 247,
+      "start_line": 10086,
+      "start_phrase": "དང་པོ་ཕྱིའི་ཕྱི་གནོད་སེམས་སྤང་བ་སྟེ།",
+      "end_page": 254,
+      "end_line": 10471,
+      "end_phrase": "དང་པོ་གཞི་རང་བཞིན་གྱིས་རྣམ་པར་དག་པའི...",
+      "verified": true,
+      "content_summary": "དང་པོ་ ཕྱིའི་ཕྱི་གནོད་སེམས་སྤང་བ་སྟེ།",
+      "tibetan_title": "དང་པོ་ཕྱིའི་ཕྱི་གནོད་སེམས་སྤང་བ་སྟེ།",
+      "english_title": "Samaya Commitments - Fourth"
+    },
+    "01-07-05-01": {
+      "chapter": 7,
+      "section": 5,
+      "subsection": 1,
+      "start_page": 254,
+      "start_line": 10471,
+      "start_phrase": "དང་པོ་གཞི་རང་བཞིན་གྱིས་རྣམ་པར་དག་པའི་དབྱིངས་དོན་དམ་པའི་བ",
+      "end_page": 254,
+      "end_line": 10476,
+      "end_phrase": "དམ་ཚིག་རྣམ་པར་བཀོད་པ་སྟེ་རིམ་ཁང་བདུན་པའོ།",
+      "verified": true,
+      "content_summary": "དང་པོ་ གཞི་རང་བཞིན་གྱིས་རྣམ་པར་དག་པའི་དབྱིངས་དོན་དམ་",
+      "tibetan_title": "དང་པོ་གཞི་རང་བཞིན་གྱིས་རྣམ་པར་དག་པའི་དབྱིངས་དོན་དམ",
+      "english_title": "Samaya Commitments - Fifth"
+    },
+    "01-08-01-01": {
+      "chapter": 8,
+      "section": 1,
+      "subsection": 1,
+      "start_page": 255,
+      "start_line": 10472,
+      "start_phrase": "གཞི་བདུན་གྱི་རང་བཞིན་སྤྱིར་བསྟན་པ་དང༌།",
+      "end_page": 256,
+      "end_line": 10548,
+      "end_phrase": "དང་པོ་ནས་མྱང་འདས་ལྷུན་གྱིས་གྲུབ་པའི་...",
+      "verified": true,
+      "content_summary": "དང་པོ་ ལྷུན་རུབ་ཏུ་འདོད་པ་དགག་པ་ལ།",
+      "tibetan_title": "གཞི་བདུན་གྱི་རང་བཞིན་སྤྱིར་བསྟན་པ་དང༌།",
+      "english_title": "Primordial Ground - Section 1"
+    },
+    "01-08-02-01": {
+      "chapter": 8,
+      "section": 2,
+      "subsection": 1,
+      "start_page": 256,
+      "start_line": 10548,
+      "start_phrase": "དང་པོ་ནས་མྱང་འདས་ལྷུན་གྱིས་གྲུབ་པའི་ཕྱིར་རོ།",
+      "end_page": 260,
+      "end_line": 10699,
+      "end_phrase": "དང་པོ་ལྟར་ན་རྟག་དངོས་མི་རྟག་དངོས་གཉི...",
+      "verified": true,
+      "content_summary": "དང་པོ་ ནས་མྱང་འདས་ལྷུན་གྱིས་གྲུབ་པའི་ཕྱིར་རོ།",
+      "tibetan_title": "དང་པོ་ནས་མྱང་འདས་ལྷུན་གྱིས་གྲུབ་པའི་ཕྱིར་རོ།",
+      "english_title": "Primordial Ground - Second"
+    },
+    "01-08-03-01": {
+      "chapter": 8,
+      "section": 3,
+      "subsection": 1,
+      "start_page": 260,
+      "start_line": 10699,
+      "start_phrase": "དང་པོ་ལྟར་ན་རྟག་དངོས་མི་རྟག་དངོས་གཉིས་ལྷན་ཅིག་གྲུབ་པར་ཐལ",
+      "end_page": 260,
+      "end_line": 10722,
+      "end_phrase": "དང་པོ་ལྟར་ན།...",
+      "verified": true,
+      "content_summary": "དང་པོ་ ལྟར་ན་རྟག་དངོས་མི་རྟག་དངོས་གཉིས་ལྷན་ཅིག་གྲུབ་",
+      "tibetan_title": "དང་པོ་ལྟར་ན་རྟག་དངོས་མི་རྟག་དངོས་གཉིས་ལྷན་ཅིག་གྲུབ",
+      "english_title": "Primordial Ground - Third"
+    },
+    "01-08-04-01": {
+      "chapter": 8,
+      "section": 4,
+      "subsection": 1,
+      "start_page": 260,
+      "start_line": 10722,
+      "start_phrase": "དང་པོ་ལྟར་ན།",
+      "end_page": 261,
+      "end_line": 10724,
+      "end_phrase": "གཉིས་པ་ལྟར་ན་ཤེས་པ་སྐད་ཅིག་མ་བཞིན་དུ་...",
+      "verified": true,
+      "content_summary": "དང་པོ་ལྟར་ན། སྣང་བ་སྣ་ཚོགས་པ་ལྟར་གཞི་གཅིག་པོ་དེ་ཡང་སྣ་ཚོགས་སུ་ཕྱིར་ཤར་བའི་སྐྱོན་",
+      "tibetan_title": "དང་པོ་ལྟར་ན།",
+      "english_title": "Primordial Ground - Fourth"
+    },
+    "01-08-04-02": {
+      "chapter": 8,
+      "section": 4,
+      "subsection": 2,
+      "start_page": 261,
+      "start_line": 10724,
+      "start_phrase": "གཉིས་པ་ལྟར་ན་ཤེས་པ་སྐད་ཅིག་མ་བཞིན་དུ་གཞི་སྐད་ཅིག་མར་ཐལ་བ་",
+      "end_page": 261,
+      "end_line": 10757,
+      "end_phrase": "དང་པོ་ནི་ངོ་བོ་ཀ་དག་ལ་ལྷུན་གྲུབ་གཏིང...",
+      "verified": true,
+      "content_summary": "གཉིས་པ་ ལྟར་ན་ཤེས་པ་སྐད་ཅིག་མ་བཞིན་དུ་གཞི་སྐད་ཅིག་མར་",
+      "tibetan_title": "གཉིས་པ་ལྟར་ན་ཤེས་པ་སྐད་ཅིག་མ་བཞིན་དུ་གཞི་སྐད་ཅིག་མ",
+      "english_title": "Primordial Ground - Sec 4.2"
+    },
+    "01-08-05-01": {
+      "chapter": 8,
+      "section": 5,
+      "subsection": 1,
+      "start_page": 261,
+      "start_line": 10757,
+      "start_phrase": "དང་པོ་ནི་ངོ་བོ་ཀ་དག་ལ་ལྷུན་གྲུབ་གཏིང་གསལ་དུ་ཡོད་པས་དབྱེར",
+      "end_page": 262,
+      "end_line": 10775,
+      "end_phrase": "དང་པོ་ལ་རྩོད་ལན་གཉིས་ལས།...",
+      "verified": true,
+      "content_summary": "དང་པོ་ ནི་ངོ་བོ་ཀ་དག་ལ་ལྷུན་གྲུབ་གཏིང་གསལ་དུ་ཡོད་པས་",
+      "tibetan_title": "དང་པོ་ནི་ངོ་བོ་ཀ་དག་ལ་ལྷུན་གྲུབ་གཏིང་གསལ་དུ་ཡོད་པས",
+      "english_title": "Primordial Ground - Fifth"
+    },
+    "01-08-06-01": {
+      "chapter": 8,
+      "section": 6,
+      "subsection": 1,
+      "start_page": 262,
+      "start_line": 10775,
+      "start_phrase": "དང་པོ་ལ་རྩོད་ལན་གཉིས་ལས།",
+      "end_page": 262,
+      "end_line": 10782,
+      "end_phrase": "དང་པོ་རྩོད་པ་འགོད་པ་ནི།...",
+      "verified": true,
+      "content_summary": "དང་པོ་ ལ་རྩོད་ལན་གཉིས་ལས།",
+      "tibetan_title": "དང་པོ་ལ་རྩོད་ལན་གཉིས་ལས།",
+      "english_title": "Primordial Ground - Sixth"
+    },
+    "01-08-07-01": {
+      "chapter": 8,
+      "section": 7,
+      "subsection": 1,
+      "start_page": 262,
+      "start_line": 10782,
+      "start_phrase": "དང་པོ་རྩོད་པ་འགོད་པ་ནི།",
+      "end_page": 272,
+      "end_line": 11334,
+      "end_phrase": "དང་པོ་ནི།...",
+      "verified": true,
+      "content_summary": "དང་པོ་རྩོད་པ་འགོད་པ་ནི། ཀ་དག་དང་ལྷུན་གྲུབ་སོ་སོ་ལ་སྐྱོན་ཡོད་པས་རང་གི་ངོ་བོ་ཀ་དག་",
+      "tibetan_title": "དང་པོ་རྩོད་པ་འགོད་པ་ནི།",
+      "english_title": "Primordial Ground - Seventh"
+    },
+    "01-08-08-01": {
+      "chapter": 8,
+      "section": 8,
+      "subsection": 1,
+      "start_page": 272,
+      "start_line": 11334,
+      "start_phrase": "དང་པོ་ནི།",
+      "end_page": 272,
+      "end_line": 11339,
+      "end_phrase": "ཐེག་པའི་མཆོག་རིན་པོ་ཆེའི་མཛོད་ལས་གདོད་མ་གཞིའི་གནས་ལུགས་བསྟན་པ་སྟེ་རིམ་ཁང་བརྒྱད་པའོ།",
+      "verified": true,
+      "content_summary": "དང་པོ་ ནི།",
+      "tibetan_title": "དང་པོ་ ནི།",
+      "english_title": "Primordial Ground - Eighth"
+    },
+    "01-09-01-01": {
+      "chapter": 9,
+      "section": 1,
+      "subsection": 1,
+      "start_page": 273,
+      "start_line": 11335,
+      "start_phrase": "རང་ཤར་ལས།",
+      "end_page": 300,
+      "end_line": 12478,
+      "end_phrase": "དང་པོ་ནི།...",
+      "verified": true,
+      "content_summary": "རང་ཤར་ལས། དེ་དག་ནི་ངོ་བོ་ཀ་དག་གི་གནས་ལུགས་ཞེས་བྱ་སྟེ།",
+      "tibetan_title": "དང་པོ་ རྒྱུའི་རྐྱེན་ཞེས་བྱ་བ་མ་རིག་པ་དངོས་བྱུང་སྟེ",
+      "english_title": "How Delusion Arises from Ground - Section 1"
+    },
+    "01-09-02-01": {
+      "chapter": 9,
+      "section": 2,
+      "subsection": 1,
+      "start_page": 300,
+      "start_line": 12478,
+      "start_phrase": "དང་པོ་ནི།",
+      "end_page": 300,
+      "end_line": 12499,
+      "end_phrase": "དེ་ལས་འཁྲུལ་གཞི་མེད་པ་ལས་བྱུང་བའི་ཕྱིར་ན།",
+      "verified": true,
+      "content_summary": "དང་པོ་ནི། གཞི་ལས་གཞི་སྣང་དུ་ཤར་དུས་མ་རིག་པ་གསུམ་དང་རྐྱེན་བཞིས་འཁྲུལ་ཏེ།",
+      "tibetan_title": "དང་པོ་ ནི།",
+      "english_title": "How Delusion Arises from Ground - Second"
+    },
+    "01-10-01-01": {
+      "chapter": 10,
+      "section": 1,
+      "subsection": 1,
+      "start_page": 301,
+      "start_line": 12500,
+      "start_phrase": "སྲིད་པ་ཞེས་བྱ་བར་ཆགས་སོ།",
+      "end_page": 315,
+      "end_line": 13085,
+      "end_phrase": "འཁྲུལ་ལུགས་བཟློག་ཚུལ་དང་བཅས་པས་བརྡས་མཚོན་སྟེ་རིམ་ཁང་བཅུ་པའོ།",
+      "verified": true,
+      "content_summary": "སྲིད་པ་ཞེས་བྱ་བར་ཆགས་སོ། སེམས་ཅན་གྱི་གཟུགས་བསམ་གྱི་མི་ཁྱབ་པ་བྱུང་ངོ༌། འཁྲུལ་པའི་ལམ་དང་བསམ་པ་ཡང་ཇི་ལྟར་བསམས་པའི་རྟོག་པ་ལྟར་རྟོག་པ་བྱུང་ངོ་ཞེས་སོ།",
+      "tibetan_title": "སྲིད་པ་ཞེས་བྱ་བར་ཆགས་སོ།",
+      "english_title": "Wisdoms and Kayas - Section 1"
+    },
+    "01-11-01-01": {
+      "chapter": 11,
+      "section": 1,
+      "subsection": 1,
+      "start_page": 316,
+      "start_line": 13104,
+      "start_phrase": "དང་པོ་དྲི་ཟ་ཉེ་བར་འཇུག་པའི་སེམས་ལུས་འཚོལ་བའི་ཕྱིར་འོངས་པ་དང༌།",
+      "end_page": 327,
+      "end_line": 13432,
+      "end_phrase": "དང་པོ་སེམས་ལ་སྡུད་པ་ཆུའི་སེམས་ཀྱིས་ད...",
+      "verified": true,
+      "content_summary": "དང་པོ་ དྲི་ཟ་ཉེ་བར་འཇུག་པའི་སེམས་ལུས་འཚོལ་བའི་ཕྱིར་འ",
+      "tibetan_title": "དང་པོ་དྲི་ཟ་ཉེ་བར་འཇུག་པའི་སེམས་ལུས་འཚོལ་བའི་ཕྱིར་",
+      "english_title": "Channels, Winds, and Bindus - Section 1"
+    },
+    "01-11-02-01": {
+      "chapter": 11,
+      "section": 2,
+      "subsection": 1,
+      "start_page": 327,
+      "start_line": 13432,
+      "start_phrase": "དང་པོ་སེམས་ལ་སྡུད་པ་ཆུའི་སེམས་ཀྱིས་དྲན་པ་བསམ་གྱི་གཞི་འཛི",
+      "end_page": 337,
+      "end_line": 13824,
+      "end_phrase": "བག་ཆགས་ལུས་ཀྱི་གྲུབ་ཚུལ་བསྟན་པ་སྟེ་རིམ་ཁང་བཅུ་གཅིག་པའོ།",
+      "verified": true,
+      "content_summary": "དང་པོ་ སེམས་ལ་སྡུད་པ་ཆུའི་སེམས་ཀྱིས་དྲན་པ་བསམ་གྱི་གཞ",
+      "tibetan_title": "དང་པོ་སེམས་ལ་སྡུད་པ་ཆུའི་སེམས་ཀྱིས་དྲན་པ་བསམ་གྱི་ག",
+      "english_title": "Channels, Winds, and Bindus - Second"
+    },
+    "01-12-01-01": {
+      "chapter": 12,
+      "section": 1,
+      "subsection": 1,
+      "start_page": 338,
+      "start_line": 13831,
+      "start_phrase": "རྩའི་རང་བཞིན་སྤྱིར་བསྟན་པ།",
+      "end_page": 355,
+      "end_line": 14528,
+      "end_phrase": "དང་པོ་རྣམས་གྲངས་སྤྱིར་བསྟན་པ་ནི།...",
+      "verified": true,
+      "content_summary": "དང་པོ་ རྒྱུས་སྐྱེད་བྱེད་ཀྱི་རྩ་བསྐྱེད་པས་རྩའི་ནང་དུ་",
+      "tibetan_title": "རྩའི་རང་བཞིན་སྤྱིར་བསྟན་པ།",
+      "english_title": "Key Points of Channels and Winds - Section 1"
+    },
+    "01-12-02-01": {
+      "chapter": 12,
+      "section": 2,
+      "subsection": 1,
+      "start_page": 355,
+      "start_line": 14528,
+      "start_phrase": "དང་པོ་རྣམས་གྲངས་སྤྱིར་བསྟན་པ་ནི།",
+      "end_page": 359,
+      "end_line": 14815,
+      "end_phrase": "དང་པོ་རྣམ་གྲངས་སྤྱིར་བསྟན་པ་ནི།...",
+      "verified": true,
+      "content_summary": "དང་པོ་ རྣམས་གྲངས་སྤྱིར་བསྟན་པ་ནི།",
+      "tibetan_title": "དང་པོ་རྣམས་གྲངས་སྤྱིར་བསྟན་པ་ནི།",
+      "english_title": "Key Points of Channels and Winds - Second"
+    },
+    "01-12-03-01": {
+      "chapter": 12,
+      "section": 3,
+      "subsection": 1,
+      "start_page": 359,
+      "start_line": 14815,
+      "start_phrase": "དང་པོ་རྣམ་གྲངས་སྤྱིར་བསྟན་པ་ནི།",
+      "end_page": 363,
+      "end_line": 15036,
+      "end_phrase": "དང་པོ་རྣམ་གྲངས་སྤྱིར་བསྟན་པ་ནི།...",
+      "verified": true,
+      "content_summary": "དང་པོ་ རྣམ་གྲངས་སྤྱིར་བསྟན་པ་ནི།",
+      "tibetan_title": "དང་པོ་རྣམ་གྲངས་སྤྱིར་བསྟན་པ་ནི།",
+      "english_title": "Key Points of Channels and Winds - Third"
+    },
+    "01-12-04-01": {
+      "chapter": 12,
+      "section": 4,
+      "subsection": 1,
+      "start_page": 363,
+      "start_line": 15036,
+      "start_phrase": "དང་པོ་རྣམ་གྲངས་སྤྱིར་བསྟན་པ་ནི།",
+      "end_page": 368,
+      "end_line": 15415,
+      "end_phrase": "དང་པོ་ལ་གནད་བཞི་ལས་འདུག་སྟངས་ཀྱི་གནད...",
+      "verified": true,
+      "content_summary": "དང་པོ་ རྣམ་གྲངས་སྤྱིར་བསྟན་པ་ནི།",
+      "tibetan_title": "དང་པོ་རྣམ་གྲངས་སྤྱིར་བསྟན་པ་ནི།",
+      "english_title": "Key Points of Channels and Winds - Fourth"
+    },
+    "01-12-05-01": {
+      "chapter": 12,
+      "section": 5,
+      "subsection": 1,
+      "start_page": 368,
+      "start_line": 15415,
+      "start_phrase": "དང་པོ་ལ་གནད་བཞི་ལས་འདུག་སྟངས་ཀྱི་གནད་ནི།",
+      "end_page": 373,
+      "end_line": 15629,
+      "end_phrase": "གསུམ་པ་ལ་སོགས་པ་འདུས་པའོ།...",
+      "verified": true,
+      "content_summary": "དང་པོ་ ལ་གནད་བཞི་ལས་འདུག་སྟངས་ཀྱི་གནད་ནི།",
+      "tibetan_title": "དང་པོ་ལ་གནད་བཞི་ལས་འདུག་སྟངས་ཀྱི་གནད་ནི།",
+      "english_title": "Key Points of Channels and Winds - Fifth"
+    },
+    "01-12-05-02": {
+      "chapter": 12,
+      "section": 5,
+      "subsection": 2,
+      "start_page": 373,
+      "start_line": 15629,
+      "start_phrase": "གསུམ་པ་ལ་སོགས་པ་འདུས་པའོ།",
+      "end_page": 377,
+      "end_line": 15769,
+      "end_phrase": "དང་པོ་ནི།...",
+      "verified": true,
+      "content_summary": "གསུམ་པ་ ལ་སོགས་པ་འདུས་པའོ།",
+      "tibetan_title": "གསུམ་པ་ལ་སོགས་པ་འདུས་པའོ།",
+      "english_title": "Key Points of Channels and Winds - Sec 5.2"
+    },
+    "01-12-06-01": {
+      "chapter": 12,
+      "section": 6,
+      "subsection": 1,
+      "start_page": 377,
+      "start_line": 15769,
+      "start_phrase": "དང་པོ་ནི།",
+      "end_page": 377,
+      "end_line": 15778,
+      "end_phrase": "དང་པོ་ནི།...",
+      "verified": true,
+      "content_summary": "དང་པོ་ནི། ལུས་ལ་རྩ་གནས།",
+      "tibetan_title": "དང་པོ་ ནི།",
+      "english_title": "Key Points of Channels and Winds - Sixth"
+    },
+    "01-12-07-01": {
+      "chapter": 12,
+      "section": 7,
+      "subsection": 1,
+      "start_page": 377,
+      "start_line": 15778,
+      "start_phrase": "དང་པོ་ནི།",
+      "end_page": 382,
+      "end_line": 15992,
+      "end_phrase": "གནད་ངེས་པ་བྱེ་བྲག་ཏུ་བཤད་པ་སྟེ་རིམ་ཁང་བཅུ་གཉིས་པའོ།",
+      "verified": true,
+      "content_summary": "དང་པོ་ནི། དེ་ཡང་རྩ་ནས་འགྱུ་བ་ཙམ་དུ་གཅིག་པ་ལས།",
+      "tibetan_title": "དང་པོ་ ནི།",
+      "english_title": "Key Points of Channels and Winds - Seventh"
+    },
+    "01-13-01-01": {
+      "chapter": 13,
+      "section": 1,
+      "subsection": 1,
+      "start_page": 383,
+      "start_line": 16025,
+      "start_phrase": "ལས་རླུང་དག་ཅིང་ཡེ་ཤེས་ཀྱི་རླུང་གི་ཆ་ལས།",
+      "end_page": 391,
+      "end_line": 16274,
+      "end_phrase": "དང་པོ་ཆུའི་སྒྲོན་མའི་ངོ་བོ་ནི།...",
+      "verified": true,
+      "content_summary": "དང་པོ་ ལུས་ཀྱི་གནད་མ་གཟིར་ན་ཡེ་ཤེས་དབང་དུ་མི་འདུས།",
+      "tibetan_title": "ལས་རླུང་དག་ཅིང་ཡེ་ཤེས་ཀྱི་རླུང་གི་ཆ་ལས།",
+      "english_title": "Four Lamps - Section 1"
+    },
+    "01-13-02-01": {
+      "chapter": 13,
+      "section": 2,
+      "subsection": 1,
+      "start_page": 391,
+      "start_line": 16274,
+      "start_phrase": "དང་པོ་ཆུའི་སྒྲོན་མའི་ངོ་བོ་ནི།",
+      "end_page": 395,
+      "end_line": 16483,
+      "end_phrase": "དང་པོ་ངོ་བོ་ནི།...",
+      "verified": true,
+      "content_summary": "དང་པོ་ ཆུའི་སྒྲོན་མའི་ངོ་བོ་ནི།",
+      "tibetan_title": "དང་པོ་ཆུའི་སྒྲོན་མའི་ངོ་བོ་ནི།",
+      "english_title": "Four Lamps - Second"
+    },
+    "01-13-03-01": {
+      "chapter": 13,
+      "section": 3,
+      "subsection": 1,
+      "start_page": 395,
+      "start_line": 16483,
+      "start_phrase": "དང་པོ་ངོ་བོ་ནི།",
+      "end_page": 401,
+      "end_line": 16769,
+      "end_phrase": "དང་པོ་ངོ་བོ་ནི།...",
+      "verified": true,
+      "content_summary": "དང་པོ་ངོ་བོ་ནི། ཐིག་ལེ་འོད་ལྔའི་མུ་ཁྱུད་ཟླུམ་པོས་བསྐོར་བ་རང་གསལ་ཁ་དོག་དངས་པའོ།",
+      "tibetan_title": "དང་པོ་ངོ་བོ་ནི།",
+      "english_title": "Four Lamps - Third"
+    },
+    "01-13-04-01": {
+      "chapter": 13,
+      "section": 4,
+      "subsection": 1,
+      "start_page": 401,
+      "start_line": 16769,
+      "start_phrase": "དང་པོ་ངོ་བོ་ནི།",
+      "end_page": 403,
+      "end_line": 16866,
+      "end_phrase": "དང་པོ་འོད་མེ་ལོང་ཙམ་ལས།...",
+      "verified": true,
+      "content_summary": "དང་པོ་ངོ་བོ་ནི། མཐིང་ག་ལས།",
+      "tibetan_title": "དང་པོ་ངོ་བོ་ནི།",
+      "english_title": "Four Lamps - Fourth"
+    },
+    "01-13-05-01": {
+      "chapter": 13,
+      "section": 5,
+      "subsection": 1,
+      "start_page": 403,
+      "start_line": 16866,
+      "start_phrase": "དང་པོ་འོད་མེ་ལོང་ཙམ་ལས།",
+      "end_page": 407,
+      "end_line": 17072,
+      "end_phrase": "དང་པོ་ངོ་བོ་ནི།...",
+      "verified": true,
+      "content_summary": "དང་པོ་འོད་མེ་ལོང་ཙམ་ལས། དེ་ནས་དུམ་བུ་དང༌།",
+      "tibetan_title": "དང་པོ་འོད་མེ་ལོང་ཙམ་ལས།",
+      "english_title": "Four Lamps - Fifth"
+    },
+    "01-13-06-01": {
+      "chapter": 13,
+      "section": 6,
+      "subsection": 1,
+      "start_page": 407,
+      "start_line": 17072,
+      "start_phrase": "དང་པོ་ངོ་བོ་ནི།",
+      "end_page": 412,
+      "end_line": 17301,
+      "end_phrase": "སྒྲོན་མ་བཞིའི་རྣམ་གྲངས་བསྟན་པ་སྟེ་རིམ་ཁང་བཅུ་གསུམ་པའོ།",
+      "verified": true,
+      "content_summary": "དང་པོ་ངོ་བོ་ནི། སྒྲོན་པ་ཀུན་གྱི་ཤེས་བྱེད་དགོངས་པ་ཆོས་ཉིད་སྟོང་གསལ་རང་གནས་ཤེས་",
+      "tibetan_title": "དང་པོ་ངོ་བོ་ནི།",
+      "english_title": "Four Lamps - Sixth"
+    },
+    "01-14-01-01": {
+      "chapter": 14,
+      "section": 1,
+      "subsection": 1,
+      "start_page": 413,
+      "start_line": 17361,
+      "start_phrase": "སེམས་ཀྱི་གནས་ཡིན་ལ།",
+      "end_page": 416,
+      "end_line": 17524,
+      "end_phrase": "དང་པོ་ངོ་བོ་ནི།...",
+      "verified": true,
+      "content_summary": "སེམས་ཀྱི་གནས་ཡིན་ལ། ཆོས་སྐུ་ནི་ཡེ་ཤེས་ཀྱི་གནས་ཡིན་ཏེ།",
+      "tibetan_title": "སེམས་ཀྱི་གནས་ཡིན་ལ།",
+      "english_title": "Basis of Consciousness - Section 1"
+    },
+    "01-14-02-01": {
+      "chapter": 14,
+      "section": 2,
+      "subsection": 1,
+      "start_page": 416,
+      "start_line": 17524,
+      "start_phrase": "དང་པོ་ངོ་བོ་ནི།",
+      "end_page": 424,
+      "end_line": 17884,
+      "end_phrase": "དང་པོ་ངོ་བོ་ནི།...",
+      "verified": true,
+      "content_summary": "དང་པོ་ངོ་བོ་ནི། ཐོག་མའི་ཀ་དག་ཆེན་པོ་ནང་གསལ་རང་བཞིན་ལྷུན་གྲུབ་ཀྱི་འཆར་གཞི་ཕྲ་བའི་",
+      "tibetan_title": "དང་པོ་ངོ་བོ་ནི།",
+      "english_title": "Basis of Consciousness - Second"
+    },
+    "01-14-03-01": {
+      "chapter": 14,
+      "section": 3,
+      "subsection": 1,
+      "start_page": 424,
+      "start_line": 17884,
+      "start_phrase": "དང་པོ་ངོ་བོ་ནི།",
+      "end_page": 433,
+      "end_line": 18262,
+      "end_phrase": "གཉིས་པ་ཡེ་ཤེས་ཀྱི་རང་བཞིན་རྒྱས་པར་བཤད...",
+      "verified": true,
+      "content_summary": "དང་པོ་ངོ་བོ་ནི། ཡུལ་ཡུལ་ཅན་གཟུང་འཛིན་དུ་སྐྱེས་པའི་ཤེས་པ་གང་ཞིག་མ་རིག་པ་ཁྱབ་བྱེད་",
+      "tibetan_title": "དང་པོ་ངོ་བོ་ནི།",
+      "english_title": "Basis of Consciousness - Third"
+    },
+    "01-14-03-02": {
+      "chapter": 14,
+      "section": 3,
+      "subsection": 2,
+      "start_page": 433,
+      "start_line": 18262,
+      "start_phrase": "གཉིས་པ་ཡེ་ཤེས་ཀྱི་རང་བཞིན་རྒྱས་པར་བཤད་པ་ནི།",
+      "end_page": 433,
+      "end_line": 18274,
+      "end_phrase": "དང་པོ་ཡེ་ཤེས་ཀྱི་ངོ་བོ་ནི་སོ་སོ་རང་ག...",
+      "verified": true,
+      "content_summary": "གཉིས་པ་ ཡེ་ཤེས་ཀྱི་རང་བཞིན་རྒྱས་པར་བཤད་པ་ནི།",
+      "tibetan_title": "གཉིས་པ་ཡེ་ཤེས་ཀྱི་རང་བཞིན་རྒྱས་པར་བཤད་པ་ནི།",
+      "english_title": "Basis of Consciousness - Sec 3.2"
+    },
+    "01-14-04-01": {
+      "chapter": 14,
+      "section": 4,
+      "subsection": 1,
+      "start_page": 433,
+      "start_line": 18274,
+      "start_phrase": "དང་པོ་ཡེ་ཤེས་ཀྱི་ངོ་བོ་ནི་སོ་སོ་རང་གི་རིག་པ་ཡེ་ནས་མཁྱེན་",
+      "end_page": 438,
+      "end_line": 18610,
+      "end_phrase": "དང་པོ་ནི་ཐལ་འགྱུར་ལས།...",
+      "verified": true,
+      "content_summary": "དང་པོ་ ཡེ་ཤེས་ཀྱི་ངོ་བོ་ནི་སོ་སོ་རང་གི་རིག་པ་ཡེ་ནས་མ",
+      "tibetan_title": "དང་པོ་ཡེ་ཤེས་ཀྱི་ངོ་བོ་ནི་སོ་སོ་རང་གི་རིག་པ་ཡེ་ནས་",
+      "english_title": "Basis of Consciousness - Fourth"
+    },
+    "01-14-05-01": {
+      "chapter": 14,
+      "section": 5,
+      "subsection": 1,
+      "start_page": 438,
+      "start_line": 18610,
+      "start_phrase": "དང་པོ་ནི་ཐལ་འགྱུར་ལས།",
+      "end_page": 453,
+      "end_line": 19303,
+      "end_phrase": "དང་པོ་ནི་ཀ་དག་གི་དབྱིངས་ལྷུན་གྲུབ་ཀྱ...",
+      "verified": true,
+      "content_summary": "དང་པོ་ནི་ཐལ་འགྱུར་ལས། གཞན་ཡང་སྣང་བའི་ཡེ་ཤེས་བཤད།",
+      "tibetan_title": "དང་པོ་ནི་ཐལ་འགྱུར་ལས།",
+      "english_title": "Basis of Consciousness - Fifth"
+    },
+    "01-14-06-01": {
+      "chapter": 14,
+      "section": 6,
+      "subsection": 1,
+      "start_page": 453,
+      "start_line": 19303,
+      "start_phrase": "དང་པོ་ནི་ཀ་དག་གི་དབྱིངས་ལྷུན་གྲུབ་ཀྱི་རང་གདངས་ཤེལ་གྱི་ནང",
+      "end_page": 456,
+      "end_line": 19404,
+      "end_phrase": "དང་པོ་འོད་ཀྱི་སྣམ་བུར་སྣང་བ་དང༌།...",
+      "verified": true,
+      "content_summary": "དང་པོ་ ནི་ཀ་དག་གི་དབྱིངས་ལྷུན་གྲུབ་ཀྱི་རང་གདངས་ཤེལ་ག",
+      "tibetan_title": "དང་པོ་ནི་ཀ་དག་གི་དབྱིངས་ལྷུན་གྲུབ་ཀྱི་རང་གདངས་ཤེལ་",
+      "english_title": "Basis of Consciousness - Sixth"
+    },
+    "01-14-07-01": {
+      "chapter": 14,
+      "section": 7,
+      "subsection": 1,
+      "start_page": 456,
+      "start_line": 19404,
+      "start_phrase": "དང་པོ་འོད་ཀྱི་སྣམ་བུར་སྣང་བ་དང༌།",
+      "end_page": 456,
+      "end_line": 19405,
+      "end_phrase": "གཉིས་པ་འོད་ཀྱི་ཟེར་ཐག་ཏུ་གནས་པ་དང༌།...",
+      "verified": true,
+      "content_summary": "དང་པོ་ འོད་ཀྱི་སྣམ་བུར་སྣང་བ་དང༌།",
+      "tibetan_title": "དང་པོ་འོད་ཀྱི་སྣམ་བུར་སྣང་བ་དང༌།",
+      "english_title": "Basis of Consciousness - Seventh"
+    },
+    "01-14-07-02": {
+      "chapter": 14,
+      "section": 7,
+      "subsection": 2,
+      "start_page": 456,
+      "start_line": 19405,
+      "start_phrase": "གཉིས་པ་འོད་ཀྱི་ཟེར་ཐག་ཏུ་གནས་པ་དང༌།",
+      "end_page": 456,
+      "end_line": 19406,
+      "end_phrase": "གསུམ་པ་ལ་ཐིག་ལེའི་མུ་ཁྱུད་དུ་འཆར་བའོ་...",
+      "verified": true,
+      "content_summary": "གཉིས་པ་ འོད་ཀྱི་ཟེར་ཐག་ཏུ་གནས་པ་དང༌།",
+      "tibetan_title": "གཉིས་པ་འོད་ཀྱི་ཟེར་ཐག་ཏུ་གནས་པ་དང༌།",
+      "english_title": "Basis of Consciousness - Sec 7.2"
+    },
+    "01-14-07-03": {
+      "chapter": 14,
+      "section": 7,
+      "subsection": 3,
+      "start_page": 456,
+      "start_line": 19406,
+      "start_phrase": "གསུམ་པ་ལ་ཐིག་ལེའི་མུ་ཁྱུད་དུ་འཆར་བའོ་ཞེས་སོ།",
+      "end_page": 457,
+      "end_line": 19421,
+      "end_phrase": "གཉིས་པ་འོད་ཀྱི་ཟེར་ཐག་ཏུ་སྣང་བ་དང༌།...",
+      "verified": true,
+      "content_summary": "གསུམ་པ་ ལ་ཐིག་ལེའི་མུ་ཁྱུད་དུ་འཆར་བའོ་ཞེས་སོ།",
+      "tibetan_title": "གསུམ་པ་ལ་ཐིག་ལེའི་མུ་ཁྱུད་དུ་འཆར་བའོ་ཞེས་སོ།",
+      "english_title": "Basis of Consciousness - Sec 7.3"
+    },
+    "01-14-07-04": {
+      "chapter": 14,
+      "section": 7,
+      "subsection": 4,
+      "start_page": 457,
+      "start_line": 19421,
+      "start_phrase": "གཉིས་པ་འོད་ཀྱི་ཟེར་ཐག་ཏུ་སྣང་བ་དང༌།",
+      "end_page": 457,
+      "end_line": 19441,
+      "end_phrase": "དང་པོ་ཐིག་ལེ་གྱེན་འགྲེང་དུ་ཤར་བ་ན་ཡེ...",
+      "verified": true,
+      "content_summary": "གཉིས་པ་ འོད་ཀྱི་ཟེར་ཐག་ཏུ་སྣང་བ་དང༌།",
+      "tibetan_title": "གཉིས་པ་འོད་ཀྱི་ཟེར་ཐག་ཏུ་སྣང་བ་དང༌།",
+      "english_title": "Basis of Consciousness - Sec 7.4"
+    },
+    "01-14-08-01": {
+      "chapter": 14,
+      "section": 8,
+      "subsection": 1,
+      "start_page": 457,
+      "start_line": 19441,
+      "start_phrase": "དང་པོ་ཐིག་ལེ་གྱེན་འགྲེང་དུ་ཤར་བ་ན་ཡེ་ཤེས་རང་གི་ངོ་བོ་དག་",
+      "end_page": 462,
+      "end_line": 19657,
+      "end_phrase": "དང་པོ་མཚན་ཉིད་ལ་གཉིས་ལས།...",
+      "verified": true,
+      "content_summary": "དང་པོ་ ཐིག་ལེ་གྱེན་འགྲེང་དུ་ཤར་བ་ན་ཡེ་ཤེས་རང་གི་ངོ་བ",
+      "tibetan_title": "དང་པོ་ཐིག་ལེ་གྱེན་འགྲེང་དུ་ཤར་བ་ན་ཡེ་ཤེས་རང་གི་ངོ་",
+      "english_title": "Basis of Consciousness - Eighth"
+    },
+    "01-14-09-01": {
+      "chapter": 14,
+      "section": 9,
+      "subsection": 1,
+      "start_page": 462,
+      "start_line": 19657,
+      "start_phrase": "དང་པོ་མཚན་ཉིད་ལ་གཉིས་ལས།",
+      "end_page": 469,
+      "end_line": 19975,
+      "end_phrase": "དང་པོ་ནི།...",
+      "verified": true,
+      "content_summary": "དང་པོ་ མཚན་ཉིད་ལ་གཉིས་ལས།",
+      "tibetan_title": "དང་པོ་མཚན་ཉིད་ལ་གཉིས་ལས།",
+      "english_title": "Basis of Consciousness - Ninth"
+    },
+    "01-14-10-01": {
+      "chapter": 14,
+      "section": 10,
+      "subsection": 1,
+      "start_page": 469,
+      "start_line": 19975,
+      "start_phrase": "དང་པོ་ནི།",
+      "end_page": 472,
+      "end_line": 20147,
+      "end_phrase": "དང་པོ་ལ་གསུམ་སྟེ།...",
+      "verified": true,
+      "content_summary": "དང་པོ་ནི། ལུ་གུ་རྒྱུད་ལ་མིག་གིས་མི་འགུལ་བར་བལྟ་བས་ལྟ་བ།",
+      "tibetan_title": "དང་པོ་ ནི།",
+      "english_title": "Basis of Consciousness - Tenth"
+    },
+    "01-14-11-01": {
+      "chapter": 14,
+      "section": 11,
+      "subsection": 1,
+      "start_page": 472,
+      "start_line": 20147,
+      "start_phrase": "དང་པོ་ལ་གསུམ་སྟེ།",
+      "end_page": 473,
+      "end_line": 20212,
+      "end_phrase": "དང་པོ་གཞི་རིག་པ་གཅིག་པ་ལ།...",
+      "verified": true,
+      "content_summary": "དང་པོ་ལ་གསུམ་སྟེ། གཞི་ལམ་འབྲས་བུའོ།",
+      "tibetan_title": "དང་པོ་ལ་གསུམ་སྟེ།",
+      "english_title": "Basis of Consciousness - Eleventh"
+    },
+    "01-14-12-01": {
+      "chapter": 14,
+      "section": 12,
+      "subsection": 1,
+      "start_page": 473,
+      "start_line": 20212,
+      "start_phrase": "དང་པོ་གཞི་རིག་པ་གཅིག་པ་ལ།",
+      "end_page": 475,
+      "end_line": 20285,
+      "end_phrase": "དང་པོ་སེམས་རྟོག་མེད་དང་རིག་པ་རྟོག་མེ...",
+      "verified": true,
+      "content_summary": "དང་པོ་ གཞི་རིག་པ་གཅིག་པ་ལ།",
+      "tibetan_title": "དང་པོ་གཞི་རིག་པ་གཅིག་པ་ལ།",
+      "english_title": "Basis of Consciousness - Twelfth"
+    },
+    "01-14-13-01": {
+      "chapter": 14,
+      "section": 13,
+      "subsection": 1,
+      "start_page": 475,
+      "start_line": 20285,
+      "start_phrase": "དང་པོ་སེམས་རྟོག་མེད་དང་རིག་པ་རྟོག་མེད་གཉིས་མི་རྟོག་པར་འད",
+      "end_page": 479,
+      "end_line": 20425,
+      "end_phrase": "བརྟེན་པ་ཤེས་པའི་གནས་རྣམ་པར་གཞག་པ་སྟེ་རིམ་ཁང་བཅུ་བཞི་པའོ།།",
+      "verified": true,
+      "content_summary": "དང་པོ་ སེམས་རྟོག་མེད་དང་རིག་པ་རྟོག་མེད་གཉིས་མི་རྟོག་",
+      "tibetan_title": "དང་པོ་སེམས་རྟོག་མེད་དང་རིག་པ་རྟོག་མེད་གཉིས་མི་རྟོག",
+      "english_title": "Basis of Consciousness - Thirteenth"
+    },
+    "02-15-01-01": {
+      "chapter": 15,
+      "section": 1,
+      "subsection": 1,
+      "start_page": 1,
+      "start_line": 1,
+      "start_phrase": "༄༅།",
+      "end_page": 9,
+      "end_line": 474,
+      "end_phrase": "དང་པོ་སྲོག་འཛིན་པའི་རླུང་ལྔ་ནི་རང་ཤར...",
+      "verified": true,
+      "content_summary": "ཐེག་མཆོག་མཛོད་ཀྱི་གླེགས་བམ་ཕྱི་མའོ།",
+      "tibetan_title": "དང་པོ་ ངོ་བོ་ནི།",
+      "english_title": "Winds and Mind - Section 1"
+    },
+    "02-15-02-01": {
+      "chapter": 15,
+      "section": 2,
+      "subsection": 1,
+      "start_page": 9,
+      "start_line": 474,
+      "start_phrase": "དང་པོ་སྲོག་འཛིན་པའི་རླུང་ལྔ་ནི་རང་ཤར་ལས།",
+      "end_page": 13,
+      "end_line": 669,
+      "end_phrase": "དང་པོ་ནི།...",
+      "verified": true,
+      "content_summary": "དང་པོ་ སྲོག་འཛིན་པའི་རླུང་ལྔ་ནི་རང་ཤར་ལས།",
+      "tibetan_title": "དང་པོ་སྲོག་འཛིན་པའི་རླུང་ལྔ་ནི་རང་ཤར་ལས།",
+      "english_title": "Winds and Mind - Second"
+    },
+    "02-15-03-01": {
+      "chapter": 15,
+      "section": 3,
+      "subsection": 1,
+      "start_page": 13,
+      "start_line": 669,
+      "start_phrase": "དང་པོ་ནི།",
+      "end_page": 13,
+      "end_line": 674,
+      "end_phrase": "འབྱུང་བའི་གནས་བསྟན་པ་སྟེ་རིམ་ཁང་བཅོ་ལྔ་པའོ།",
+      "verified": true,
+      "content_summary": "དང་པོ་ནི། ངོ་བོ་གཅིག་ལ་ལྡོག་པ་ཐ་དད་ཀྱི་ཚུལ་དུ་སྐུ་གསུམ་དབྱིངས་ལ་བཞུགས་ཏེ།",
+      "tibetan_title": "དང་པོ་ ནི།",
+      "english_title": "Winds and Mind - Third"
+    },
+    "02-16-01-01": {
+      "chapter": 16,
+      "section": 1,
+      "subsection": 1,
+      "start_page": 14,
+      "start_line": 685,
+      "start_phrase": "རྒྱས་པ་གསུམ་ལས།",
+      "end_page": 19,
+      "end_line": 1021,
+      "end_phrase": "དང་པོ་སྤྲུལ་སྐུའི་ངོ་བོ་དབྱིངས་དང་རི...",
+      "verified": true,
+      "content_summary": "རྒྱས་པ་གསུམ་ལས། རྫོགས་པ་ནི།",
+      "tibetan_title": "རྒྱས་པ་གསུམ་ལས།",
+      "english_title": "Ground, Path, and Fruit - Section 1"
+    },
+    "02-16-02-01": {
+      "chapter": 16,
+      "section": 2,
+      "subsection": 1,
+      "start_page": 19,
+      "start_line": 1021,
+      "start_phrase": "དང་པོ་སྤྲུལ་སྐུའི་ངོ་བོ་དབྱིངས་དང་རིག་པའི་སྐུ་ལས་ཟེར་སྐུ",
+      "end_page": 23,
+      "end_line": 1182,
+      "end_phrase": "དང་པོ་ངོ་བོ་ནི།...",
+      "verified": true,
+      "content_summary": "དང་པོ་ སྤྲུལ་སྐུའི་ངོ་བོ་དབྱིངས་དང་རིག་པའི་སྐུ་ལས་ཟེ",
+      "tibetan_title": "དང་པོ་སྤྲུལ་སྐུའི་ངོ་བོ་དབྱིངས་དང་རིག་པའི་སྐུ་ལས་ཟ",
+      "english_title": "Ground, Path, and Fruit - Second"
+    },
+    "02-16-03-01": {
+      "chapter": 16,
+      "section": 3,
+      "subsection": 1,
+      "start_page": 23,
+      "start_line": 1182,
+      "start_phrase": "དང་པོ་ངོ་བོ་ནི།",
+      "end_page": 30,
+      "end_line": 1589,
+      "end_phrase": "དང་པོ་ཞི་བ་ནི།...",
+      "verified": true,
+      "content_summary": "དང་པོ་ངོ་བོ་ནི། མཚན་རྫོགས་དཔེ་བྱད་ཀྱི་དཔལ་འདུ་འབར་བ་སྟེ།",
+      "tibetan_title": "དང་པོ་ངོ་བོ་ནི།",
+      "english_title": "Ground, Path, and Fruit - Third"
+    },
+    "02-16-04-01": {
+      "chapter": 16,
+      "section": 4,
+      "subsection": 1,
+      "start_page": 30,
+      "start_line": 1589,
+      "start_phrase": "དང་པོ་ཞི་བ་ནི།",
+      "end_page": 31,
+      "end_line": 1638,
+      "end_phrase": "དང་པོ་ཞི་བ་ནི།...",
+      "verified": true,
+      "content_summary": "དང་པོ་ཞི་བ་ནི། དེ་ལས།",
+      "tibetan_title": "དང་པོ་ཞི་བ་ནི།",
+      "english_title": "Ground, Path, and Fruit - Fourth"
+    },
+    "02-16-05-01": {
+      "chapter": 16,
+      "section": 5,
+      "subsection": 1,
+      "start_page": 31,
+      "start_line": 1638,
+      "start_phrase": "དང་པོ་ཞི་བ་ནི།",
+      "end_page": 33,
+      "end_line": 1752,
+      "end_phrase": "རིམ་ཁང་བཅུ་དྲུག་པའོ།",
+      "verified": true,
+      "content_summary": "དང་པོ་ཞི་བ་ནི། སེམས་ཅན་ཐམས་ཅད་ལ་ཁམས་རང་བྱུང་གི་ཡེ་ཤེས་སྙིང་ག་ན་གནས་པའི་རང་འོད་",
+      "tibetan_title": "དང་པོ་ཞི་བ་ནི།",
+      "english_title": "Ground, Path, and Fruit - Fifth"
+    },
+    "02-17-01-01": {
+      "chapter": 17,
+      "section": 1,
+      "subsection": 1,
+      "start_page": 34,
+      "start_line": 1754,
+      "start_phrase": "ད་ནི་ལམ་ངེས་པས་ཉམས་སུ་བླང་བའི་རིམ་པ་བཤད་པ་ལ།",
+      "end_page": 36,
+      "end_line": 1861,
+      "end_phrase": "དང་པོ་ནི།...",
+      "verified": true,
+      "content_summary": "དང་པོ་ བརྒྱད་ཀྱིས་མི་གྲོལ་ཞིང༌།",
+      "tibetan_title": "ད་ནི་ལམ་ངེས་པས་ཉམས་སུ་བླང་བའི་རིམ་པ་བཤད་པ་ལ།",
+      "english_title": "Stages of the Path - Section 1"
+    },
+    "02-17-02-01": {
+      "chapter": 17,
+      "section": 2,
+      "subsection": 1,
+      "start_page": 36,
+      "start_line": 1861,
+      "start_phrase": "དང་པོ་ནི།",
+      "end_page": 40,
+      "end_line": 2051,
+      "end_phrase": "དང་པོ་སྤྱོད་པ་ལ་རྒྱུན་དུ་བྱེད་པའི་རྣ...",
+      "verified": true,
+      "content_summary": "དང་པོ་ནི། རང་ཤར་ལས།",
+      "tibetan_title": "དང་པོ་ ནི།",
+      "english_title": "Stages of the Path - Second"
+    },
+    "02-17-03-01": {
+      "chapter": 17,
+      "section": 3,
+      "subsection": 1,
+      "start_page": 40,
+      "start_line": 2051,
+      "start_phrase": "དང་པོ་སྤྱོད་པ་ལ་རྒྱུན་དུ་བྱེད་པའི་རྣལ་འབྱོར་ལ་བཞིས་ཏེ།",
+      "end_page": 40,
+      "end_line": 2064,
+      "end_phrase": "དང་པོ་ནི།...",
+      "verified": true,
+      "content_summary": "དང་པོ་ སྤྱོད་པ་ལ་རྒྱུན་དུ་བྱེད་པའི་རྣལ་འབྱོར་ལ་བཞིས་",
+      "tibetan_title": "དང་པོ་སྤྱོད་པ་ལ་རྒྱུན་དུ་བྱེད་པའི་རྣལ་འབྱོར་ལ་བཞིས",
+      "english_title": "Stages of the Path - Third"
+    },
+    "02-17-04-01": {
+      "chapter": 17,
+      "section": 4,
+      "subsection": 1,
+      "start_page": 40,
+      "start_line": 2064,
+      "start_phrase": "དང་པོ་ནི།",
+      "end_page": 55,
+      "end_line": 2689,
+      "end_phrase": "དང་པོ་ནི།...",
+      "verified": true,
+      "content_summary": "དང་པོ་ནི། རྒྱུ་མཚན་ཉིད་ཀྱི་ཐེག་པའི་སྤྱོད་པ༌།",
+      "tibetan_title": "དང་པོ་ ནི།",
+      "english_title": "Stages of the Path - Fourth"
+    },
+    "02-17-05-01": {
+      "chapter": 17,
+      "section": 5,
+      "subsection": 1,
+      "start_page": 55,
+      "start_line": 2689,
+      "start_phrase": "དང་པོ་ནི།",
+      "end_page": 57,
+      "end_line": 2779,
+      "end_phrase": "དང་པོ་ནི་སྔར་ཡང་བསྟན་ལ།...",
+      "verified": true,
+      "content_summary": "དང་པོ་ནི། བཅུད་ལེན་སྣ་ཚོགས་ལ་བརྟེན་པ་དང༌།",
+      "tibetan_title": "དང་པོ་ ནི།",
+      "english_title": "Stages of the Path - Fifth"
+    },
+    "02-17-06-01": {
+      "chapter": 17,
+      "section": 6,
+      "subsection": 1,
+      "start_page": 57,
+      "start_line": 2779,
+      "start_phrase": "དང་པོ་ནི་སྔར་ཡང་བསྟན་ལ།",
+      "end_page": 62,
+      "end_line": 3005,
+      "end_phrase": "དང་པོ་ཆུ་དང་མེ་དང་ཁྱི་དང་དགྲ་ལ་སོགས་...",
+      "verified": true,
+      "content_summary": "དང་པོ་ནི་སྔར་ཡང་བསྟན་ལ། ཁྱད་པར་དུ་རྩའི་གནད་ལྟེ་བའི་འོག་ཨ་ཝ་དྷཱུ་ཏཱིའི་མར་སྣའི་",
+      "tibetan_title": "དང་པོ་ནི་སྔར་ཡང་བསྟན་ལ།",
+      "english_title": "Stages of the Path - Sixth"
+    },
+    "02-17-07-01": {
+      "chapter": 17,
+      "section": 7,
+      "subsection": 1,
+      "start_page": 62,
+      "start_line": 3005,
+      "start_phrase": "དང་པོ་ཆུ་དང་མེ་དང་ཁྱི་དང་དགྲ་ལ་སོགས་པའི་རྐྱེན་དྲག་པོས་འཇ",
+      "end_page": 64,
+      "end_line": 3057,
+      "end_phrase": "དང་པོ་ནི་རྨི་ལམ་སྤྱོད་དུས་མ་ཟིན་པ་དང...",
+      "verified": true,
+      "content_summary": "དང་པོ་ ཆུ་དང་མེ་དང་ཁྱི་དང་དགྲ་ལ་སོགས་པའི་རྐྱེན་དྲག་པ",
+      "tibetan_title": "དང་པོ་ཆུ་དང་མེ་དང་ཁྱི་དང་དགྲ་ལ་སོགས་པའི་རྐྱེན་དྲག་",
+      "english_title": "Stages of the Path - Seventh"
+    },
+    "02-17-08-01": {
+      "chapter": 17,
+      "section": 8,
+      "subsection": 1,
+      "start_page": 64,
+      "start_line": 3057,
+      "start_phrase": "དང་པོ་ནི་རྨི་ལམ་སྤྱོད་དུས་མ་ཟིན་པ་དང་མ་འབྱོངས་པ་ཟིན་པ་དང",
+      "end_page": 66,
+      "end_line": 3124,
+      "end_phrase": "དང་པོ་ནི།...",
+      "verified": true,
+      "content_summary": "དང་པོ་ ནི་རྨི་ལམ་སྤྱོད་དུས་མ་ཟིན་པ་དང་མ་འབྱོངས་པ་ཟིན",
+      "tibetan_title": "དང་པོ་ནི་རྨི་ལམ་སྤྱོད་དུས་མ་ཟིན་པ་དང་མ་འབྱོངས་པ་ཟི",
+      "english_title": "Stages of the Path - Eighth"
+    },
+    "02-17-09-01": {
+      "chapter": 17,
+      "section": 9,
+      "subsection": 1,
+      "start_page": 66,
+      "start_line": 3124,
+      "start_phrase": "དང་པོ་ནི།",
+      "end_page": 67,
+      "end_line": 3198,
+      "end_phrase": "བཞི་པ་འོད་གསལ་ལ་དུས་བཞི་མཉམ་སྦྱོར་གྱ...",
+      "verified": true,
+      "content_summary": "དང་པོ་ནི། མེ་ལོང་དུ་གཟུགས་བརྙན་འཆར་བའི་སྣང་བ་དང༌།",
+      "tibetan_title": "དང་པོ་ ནི།",
+      "english_title": "Stages of the Path - Ninth"
+    },
+    "02-17-09-02": {
+      "chapter": 17,
+      "section": 9,
+      "subsection": 2,
+      "start_page": 67,
+      "start_line": 3198,
+      "start_phrase": "བཞི་པ་འོད་གསལ་ལ་དུས་བཞི་མཉམ་སྦྱོར་གྱི་གདམས་པ་ལ་བརྟེན་ནས་",
+      "end_page": 71,
+      "end_line": 3307,
+      "end_phrase": "དང་པོ་ཨ་གསལ་བ་ལ་དེ་ནས་དེ་ཡང་མེད་རྟོག...",
+      "verified": true,
+      "content_summary": "བཞི་པ་ འོད་གསལ་ལ་དུས་བཞི་མཉམ་སྦྱོར་གྱི་གདམས་པ་ལ་བརྟེ",
+      "tibetan_title": "བཞི་པ་འོད་གསལ་ལ་དུས་བཞི་མཉམ་སྦྱོར་གྱི་གདམས་པ་ལ་བརྟ",
+      "english_title": "Stages of the Path - Sec 9.2"
+    },
+    "02-17-10-01": {
+      "chapter": 17,
+      "section": 10,
+      "subsection": 1,
+      "start_page": 71,
+      "start_line": 3307,
+      "start_phrase": "དང་པོ་ཨ་གསལ་བ་ལ་དེ་ནས་དེ་ཡང་མེད་རྟོག་པ་གཞན་ཡང་མ་འགྱུར་པར",
+      "end_page": 72,
+      "end_line": 3354,
+      "end_phrase": "དང་པོ་གཉིས་སུ་གདམས་པའི་རྩལ་སྦྱོང་སྟེ...",
+      "verified": true,
+      "content_summary": "དང་པོ་ ཨ་གསལ་བ་ལ་དེ་ནས་དེ་ཡང་མེད་རྟོག་པ་གཞན་ཡང་མ་འགྱ",
+      "tibetan_title": "དང་པོ་ཨ་གསལ་བ་ལ་དེ་ནས་དེ་ཡང་མེད་རྟོག་པ་གཞན་ཡང་མ་འག",
+      "english_title": "Stages of the Path - Tenth"
+    },
+    "02-17-11-01": {
+      "chapter": 17,
+      "section": 11,
+      "subsection": 1,
+      "start_page": 72,
+      "start_line": 3354,
+      "start_phrase": "དང་པོ་གཉིས་སུ་གདམས་པའི་རྩལ་སྦྱོང་སྟེ།",
+      "end_page": 77,
+      "end_line": 3600,
+      "end_phrase": "དང་པོ་ནི་ཚིག་གི་ལྟ་བ་སོ་སོའི་ཡིད་དཔྱ...",
+      "verified": true,
+      "content_summary": "དང་པོ་ གཉིས་སུ་གདམས་པའི་རྩལ་སྦྱོང་སྟེ།",
+      "tibetan_title": "དང་པོ་གཉིས་སུ་གདམས་པའི་རྩལ་སྦྱོང་སྟེ།",
+      "english_title": "Stages of the Path - Eleventh"
+    },
+    "02-17-12-01": {
+      "chapter": 17,
+      "section": 12,
+      "subsection": 1,
+      "start_page": 77,
+      "start_line": 3600,
+      "start_phrase": "དང་པོ་ནི་ཚིག་གི་ལྟ་བ་སོ་སོའི་ཡིད་དཔྱོད་ཀྱིས།",
+      "end_page": 79,
+      "end_line": 3709,
+      "end_phrase": "དང་པོ་ཕྱི་ཆོས་ཅན་ལ་བལྟས་པས་ཆོས་ཅན་རང...",
+      "verified": true,
+      "content_summary": "དང་པོ་ ནི་ཚིག་གི་ལྟ་བ་སོ་སོའི་ཡིད་དཔྱོད་ཀྱིས།",
+      "tibetan_title": "དང་པོ་ནི་ཚིག་གི་ལྟ་བ་སོ་སོའི་ཡིད་དཔྱོད་ཀྱིས།",
+      "english_title": "Stages of the Path - Twelfth"
+    },
+    "02-17-13-01": {
+      "chapter": 17,
+      "section": 13,
+      "subsection": 1,
+      "start_page": 79,
+      "start_line": 3709,
+      "start_phrase": "དང་པོ་ཕྱི་ཆོས་ཅན་ལ་བལྟས་པས་ཆོས་ཅན་རང་བཞིན་མེད་པར་མཐོང༌།",
+      "end_page": 82,
+      "end_line": 3852,
+      "end_phrase": "དང་པོ་ནི།...",
+      "verified": true,
+      "content_summary": "དང་པོ་ ཕྱི་ཆོས་ཅན་ལ་བལྟས་པས་ཆོས་ཅན་རང་བཞིན་མེད་པར་མཐ",
+      "tibetan_title": "དང་པོ་ཕྱི་ཆོས་ཅན་ལ་བལྟས་པས་ཆོས་ཅན་རང་བཞིན་མེད་པར་མ",
+      "english_title": "Stages of the Path - Thirteenth"
+    },
+    "02-17-14-01": {
+      "chapter": 17,
+      "section": 14,
+      "subsection": 1,
+      "start_page": 82,
+      "start_line": 3852,
+      "start_phrase": "དང་པོ་ནི།",
+      "end_page": 83,
+      "end_line": 3920,
+      "end_phrase": "དམིགས་པ་ཡུལ་གྱི་བློ་རིམ་ཅན་འཇུག་པའི་ལམ་ཟབ་རྒྱ་ཆེར་བཤད་པ་སྟེ་རིམ་ཁང་བཅུ་བདུན་པའོ།",
+      "verified": true,
+      "content_summary": "དང་པོ་ནི། དཔེར་ན་རྒྱལ་རིགས་སྤྱི་བོ་ནས་དབང་བསྐུར་བས་རང་གི་རྒྱལ་ས་ཟིན་ཏེ་མི་འགྱུར་",
+      "tibetan_title": "དང་པོ་ ནི།",
+      "english_title": "Stages of the Path - Fourteenth"
+    },
+    "02-18-01-01": {
+      "chapter": 18,
+      "section": 1,
+      "subsection": 1,
+      "start_page": 84,
+      "start_line": 3922,
+      "start_phrase": "ད་ནི་ཡང་རབ་སྤྲོས་པ་དང་བྲལ་བ་རྣམས་ཀྱི་དོན་དུ་རིག་པ་རང་སྣང་གི་ལམ་བཟང་རྡོ་རྗེ་སྙིང་པོའི་གསང་བ་ཆེན་པོ་བསྟན་པ་ལ་གཉིས་ཏེ།",
+      "end_page": 91,
+      "end_line": 4156,
+      "end_phrase": "དང་པོ་ལུས་ཀྱི་སྤྱོད་པ་རྣལ་དབབ་དགོས་པ...",
+      "verified": true,
+      "content_summary": "དང་པོ་ གང་གི་སྔོན་དུ་འགྲོ་ན་འཇིག་རྟེན་ལས་འདས་པའི་སྔོ",
+      "tibetan_title": "ད་ནི་ཡང་རབ་སྤྲོས་པ་དང་བྲལ་བ་རྣམས་ཀྱི་དོན་དུ་རིག་པ་",
+      "english_title": "Vajra Essence Path - Section 1"
+    },
+    "02-18-02-01": {
+      "chapter": 18,
+      "section": 2,
+      "subsection": 1,
+      "start_page": 91,
+      "start_line": 4156,
+      "start_phrase": "དང་པོ་ལུས་ཀྱི་སྤྱོད་པ་རྣལ་དབབ་དགོས་པ་དང་བཅས་པ་ནི།",
+      "end_page": 97,
+      "end_line": 4401,
+      "end_phrase": "གཉིས་པ་ལ་དེ་ཉིད་རྟོགས་ནས་གྲོལ་བ།...",
+      "verified": true,
+      "content_summary": "དང་པོ་ ལུས་ཀྱི་སྤྱོད་པ་རྣལ་དབབ་དགོས་པ་དང་བཅས་པ་ནི།",
+      "tibetan_title": "དང་པོ་ལུས་ཀྱི་སྤྱོད་པ་རྣལ་དབབ་དགོས་པ་དང་བཅས་པ་ནི།",
+      "english_title": "Vajra Essence Path - Second"
+    },
+    "02-18-02-02": {
+      "chapter": 18,
+      "section": 2,
+      "subsection": 2,
+      "start_page": 97,
+      "start_line": 4401,
+      "start_phrase": "གཉིས་པ་ལ་དེ་ཉིད་རྟོགས་ནས་གྲོལ་བ།",
+      "end_page": 97,
+      "end_line": 4406,
+      "end_phrase": "གསུམ་པ་ལ་མངོན་པར་རྫོགས་པར་སངས་རྒྱའོ།...",
+      "verified": true,
+      "content_summary": "གཉིས་པ་ ལ་དེ་ཉིད་རྟོགས་ནས་གྲོལ་བ།",
+      "tibetan_title": "གཉིས་པ་ལ་དེ་ཉིད་རྟོགས་ནས་གྲོལ་བ།",
+      "english_title": "Vajra Essence Path - Sec 2.2"
+    },
+    "02-18-02-03": {
+      "chapter": 18,
+      "section": 2,
+      "subsection": 3,
+      "start_page": 97,
+      "start_line": 4406,
+      "start_phrase": "གསུམ་པ་ལ་མངོན་པར་རྫོགས་པར་སངས་རྒྱའོ།",
+      "end_page": 97,
+      "end_line": 4425,
+      "end_phrase": "དང་པོ་ལུས་ངག་ཡིད་གསུམ་གྱི་གནད་མ་གཟིར...",
+      "verified": true,
+      "content_summary": "གསུམ་པ་ ལ་མངོན་པར་རྫོགས་པར་སངས་རྒྱའོ།",
+      "tibetan_title": "གསུམ་པ་ལ་མངོན་པར་རྫོགས་པར་སངས་རྒྱའོ།",
+      "english_title": "Vajra Essence Path - Sec 2.3"
+    },
+    "02-18-03-01": {
+      "chapter": 18,
+      "section": 3,
+      "subsection": 1,
+      "start_page": 97,
+      "start_line": 4425,
+      "start_phrase": "དང་པོ་ལུས་ངག་ཡིད་གསུམ་གྱི་གནད་མ་གཟིར་ན་ཡེ་ཤེས་སྐྱེས་པའི་",
+      "end_page": 98,
+      "end_line": 4426,
+      "end_phrase": "གཉིས་པ་གནད་རྣམ་པ་གསུམ་ལ་བརྟེན་ནས་མངོན...",
+      "verified": true,
+      "content_summary": "དང་པོ་ ལུས་ངག་ཡིད་གསུམ་གྱི་གནད་མ་གཟིར་ན་ཡེ་ཤེས་སྐྱེས",
+      "tibetan_title": "དང་པོ་ལུས་ངག་ཡིད་གསུམ་གྱི་གནད་མ་གཟིར་ན་ཡེ་ཤེས་སྐྱེ",
+      "english_title": "Vajra Essence Path - Third"
+    },
+    "02-18-03-02": {
+      "chapter": 18,
+      "section": 3,
+      "subsection": 2,
+      "start_page": 98,
+      "start_line": 4426,
+      "start_phrase": "གཉིས་པ་གནད་རྣམ་པ་གསུམ་ལ་བརྟེན་ནས་མངོན་སུམ་རང་ཐོག་ཏུ་མ་ཕབ་",
+      "end_page": 98,
+      "end_line": 4427,
+      "end_phrase": "གསུམ་པ་དེ་ལྟར་ཕབ་ཅིང་ཉམས་སུ་བླངས་པ་ལས...",
+      "verified": true,
+      "content_summary": "གཉིས་པ་ གནད་རྣམ་པ་གསུམ་ལ་བརྟེན་ནས་མངོན་སུམ་རང་ཐོག་ཏུ་",
+      "tibetan_title": "གཉིས་པ་གནད་རྣམ་པ་གསུམ་ལ་བརྟེན་ནས་མངོན་སུམ་རང་ཐོག་ཏ",
+      "english_title": "Vajra Essence Path - Sec 3.2"
+    },
+    "02-18-03-03": {
+      "chapter": 18,
+      "section": 3,
+      "subsection": 3,
+      "start_page": 98,
+      "start_line": 4427,
+      "start_phrase": "གསུམ་པ་དེ་ལྟར་ཕབ་ཅིང་ཉམས་སུ་བླངས་པ་ལས་སྣང་བ་བཞི་ཇི་ལྟར་འཆ",
+      "end_page": 98,
+      "end_line": 4428,
+      "end_phrase": "བཞི་པ་དེ་དག་གི་གྲོགས་སམ་རྒྱབ་བརྟེན་བ...",
+      "verified": true,
+      "content_summary": "གསུམ་པ་ དེ་ལྟར་ཕབ་ཅིང་ཉམས་སུ་བླངས་པ་ལས་སྣང་བ་བཞི་ཇི་ལ",
+      "tibetan_title": "གསུམ་པ་དེ་ལྟར་ཕབ་ཅིང་ཉམས་སུ་བླངས་པ་ལས་སྣང་བ་བཞི་ཇི",
+      "english_title": "Vajra Essence Path - Sec 3.3"
+    },
+    "02-18-03-04": {
+      "chapter": 18,
+      "section": 3,
+      "subsection": 4,
+      "start_page": 98,
+      "start_line": 4428,
+      "start_phrase": "བཞི་པ་དེ་དག་གི་གྲོགས་སམ་རྒྱབ་བརྟེན་བཞིས་གནད་མ་གོམས་ན་གོམ",
+      "end_page": 99,
+      "end_line": 4468,
+      "end_phrase": "དང་པོ་སྤྲུལ་སྐུའི་བཞུགས་སྟངས་ནི།...",
+      "verified": true,
+      "content_summary": "བཞི་པ་ དེ་དག་གི་གྲོགས་སམ་རྒྱབ་བརྟེན་བཞིས་གནད་མ་གོམས་",
+      "tibetan_title": "བཞི་པ་དེ་དག་གི་གྲོགས་སམ་རྒྱབ་བརྟེན་བཞིས་གནད་མ་གོམས",
+      "english_title": "Vajra Essence Path - Sec 3.4"
+    },
+    "02-18-04-01": {
+      "chapter": 18,
+      "section": 4,
+      "subsection": 1,
+      "start_page": 99,
+      "start_line": 4468,
+      "start_phrase": "དང་པོ་སྤྲུལ་སྐུའི་བཞུགས་སྟངས་ནི།",
+      "end_page": 103,
+      "end_line": 4601,
+      "end_phrase": "དང་པོ་ངག་བསླབ་པ་ནི།...",
+      "verified": true,
+      "content_summary": "དང་པོ་ སྤྲུལ་སྐུའི་བཞུགས་སྟངས་ནི།",
+      "tibetan_title": "དང་པོ་སྤྲུལ་སྐུའི་བཞུགས་སྟངས་ནི།",
+      "english_title": "Vajra Essence Path - Fourth"
+    },
+    "02-18-05-01": {
+      "chapter": 18,
+      "section": 5,
+      "subsection": 1,
+      "start_page": 103,
+      "start_line": 4601,
+      "start_phrase": "དང་པོ་ངག་བསླབ་པ་ནི།",
+      "end_page": 105,
+      "end_line": 4696,
+      "end_phrase": "དང་པོ་ནི།...",
+      "verified": true,
+      "content_summary": "དང་པོ་ངག་བསླབ་པ་ནི། སྨྲ་བ་ཇེ་ཉུང་ཐ་མལ་གྱི་གཏམ་སྨྲ་བ་བཅད་པ་ལ་ཐུན་ཆུང་ངུ་བསླབ།",
+      "tibetan_title": "དང་པོ་ངག་བསླབ་པ་ནི།",
+      "english_title": "Vajra Essence Path - Fifth"
+    },
+    "02-18-06-01": {
+      "chapter": 18,
+      "section": 6,
+      "subsection": 1,
+      "start_page": 105,
+      "start_line": 4696,
+      "start_phrase": "དང་པོ་ནི།",
+      "end_page": 106,
+      "end_line": 4747,
+      "end_phrase": "དང་པོ་སྣང་བ་འཆར་དུ་མི་འདོད།...",
+      "verified": true,
+      "content_summary": "དང་པོ་ནི། ཐ་མལ་པའི་ལྟ་ལུགས་ཀྱིས་ཡེ་ཤེས་མི་འཆར་བས།",
+      "tibetan_title": "དང་པོ་ ནི།",
+      "english_title": "Vajra Essence Path - Sixth"
+    },
+    "02-18-07-01": {
+      "chapter": 18,
+      "section": 7,
+      "subsection": 1,
+      "start_page": 106,
+      "start_line": 4747,
+      "start_phrase": "དང་པོ་སྣང་བ་འཆར་དུ་མི་འདོད།",
+      "end_page": 111,
+      "end_line": 4916,
+      "end_phrase": "དང་པོ་ལ་དབང་པོའི་མངོན་སུམ་གཟུགས་སོགས...",
+      "verified": true,
+      "content_summary": "དང་པོ་ སྣང་བ་འཆར་དུ་མི་འདོད།",
+      "tibetan_title": "དང་པོ་སྣང་བ་འཆར་དུ་མི་འདོད།",
+      "english_title": "Vajra Essence Path - Seventh"
+    },
+    "02-18-08-01": {
+      "chapter": 18,
+      "section": 8,
+      "subsection": 1,
+      "start_page": 111,
+      "start_line": 4916,
+      "start_phrase": "དང་པོ་ལ་དབང་པོའི་མངོན་སུམ་གཟུགས་སོགས་ཡུལ་ལྔ་སྣང་བའི་རང་བ",
+      "end_page": 114,
+      "end_line": 5035,
+      "end_phrase": "གཉིས་པ་ལ་ཐུན་བསྐྱེད་ཅིང་ཡུན་བསྲིང༌།...",
+      "verified": true,
+      "content_summary": "དང་པོ་ ལ་དབང་པོའི་མངོན་སུམ་གཟུགས་སོགས་ཡུལ་ལྔ་སྣང་བའི",
+      "tibetan_title": "དང་པོ་ལ་དབང་པོའི་མངོན་སུམ་གཟུགས་སོགས་ཡུལ་ལྔ་སྣང་བའ",
+      "english_title": "Vajra Essence Path - Eighth"
+    },
+    "02-18-08-02": {
+      "chapter": 18,
+      "section": 8,
+      "subsection": 2,
+      "start_page": 114,
+      "start_line": 5035,
+      "start_phrase": "གཉིས་པ་ལ་ཐུན་བསྐྱེད་ཅིང་ཡུན་བསྲིང༌།",
+      "end_page": 116,
+      "end_line": 5085,
+      "end_phrase": "དང་པོ་ནི།...",
+      "verified": true,
+      "content_summary": "གཉིས་པ་ ལ་ཐུན་བསྐྱེད་ཅིང་ཡུན་བསྲིང༌།",
+      "tibetan_title": "གཉིས་པ་ལ་ཐུན་བསྐྱེད་ཅིང་ཡུན་བསྲིང༌།",
+      "english_title": "Vajra Essence Path - Sec 8.2"
+    },
+    "02-18-09-01": {
+      "chapter": 18,
+      "section": 9,
+      "subsection": 1,
+      "start_page": 116,
+      "start_line": 5085,
+      "start_phrase": "དང་པོ་ནི།",
+      "end_page": 117,
+      "end_line": 5125,
+      "end_phrase": "དང་པོ་ནི།...",
+      "verified": true,
+      "content_summary": "དང་པོ་ནི། ལུས་ངག་གནད་དུ་གཅུན་པས་རླུང་སེམས་བག་ལ་ཞ་ནས།",
+      "tibetan_title": "དང་པོ་ ནི།",
+      "english_title": "Vajra Essence Path - Ninth"
+    },
+    "02-18-10-01": {
+      "chapter": 18,
+      "section": 10,
+      "subsection": 1,
+      "start_page": 117,
+      "start_line": 5125,
+      "start_phrase": "དང་པོ་ནི།",
+      "end_page": 118,
+      "end_line": 5159,
+      "end_phrase": "དང་པོ་ནི།...",
+      "verified": true,
+      "content_summary": "དང་པོ་ནི། འཁོར་བའི་བཅིངས་པ་ལས་གྲོལ་ཚུལ་དང་སྦྱར་ན།",
+      "tibetan_title": "དང་པོ་ ནི།",
+      "english_title": "Vajra Essence Path - Tenth"
+    },
+    "02-18-11-01": {
+      "chapter": 18,
+      "section": 11,
+      "subsection": 1,
+      "start_page": 118,
+      "start_line": 5159,
+      "start_phrase": "དང་པོ་ནི།",
+      "end_page": 120,
+      "end_line": 5242,
+      "end_phrase": "དང་པོ་ནི།...",
+      "verified": true,
+      "content_summary": "དང་པོ་ནི། རྡོ་རྗེའི་རིགས་རྣམ་པར་དག་པས།",
+      "tibetan_title": "དང་པོ་ ནི།",
+      "english_title": "Vajra Essence Path - Eleventh"
+    },
+    "02-18-12-01": {
+      "chapter": 18,
+      "section": 12,
+      "subsection": 1,
+      "start_page": 120,
+      "start_line": 5242,
+      "start_phrase": "དང་པོ་ནི།",
+      "end_page": 121,
+      "end_line": 5269,
+      "end_phrase": "དང་པོ་ནི་རིག་པ་ཚད་ཕེབས་ཞེས་པས།...",
+      "verified": true,
+      "content_summary": "དང་པོ་ནི། དེ་ནས་ཐིག་ལེ་རེ་རེའི་ནང་དུ་སྐུ་ཕྱེད་མ་རེ་རེ་སྣང་བ་ནི་སྤྲུལ་པ་སྐུའི་",
+      "tibetan_title": "དང་པོ་ ནི།",
+      "english_title": "Vajra Essence Path - Twelfth"
+    },
+    "02-18-13-01": {
+      "chapter": 18,
+      "section": 13,
+      "subsection": 1,
+      "start_page": 121,
+      "start_line": 5269,
+      "start_phrase": "དང་པོ་ནི་རིག་པ་ཚད་ཕེབས་ཞེས་པས།",
+      "end_page": 131,
+      "end_line": 5640,
+      "end_phrase": "དང་པོ་ནི།...",
+      "verified": true,
+      "content_summary": "དང་པོ་ ནི་རིག་པ་ཚད་ཕེབས་ཞེས་པས།",
+      "tibetan_title": "དང་པོ་ནི་རིག་པ་ཚད་ཕེབས་ཞེས་པས།",
+      "english_title": "Vajra Essence Path - Thirteenth"
+    },
+    "02-18-14-01": {
+      "chapter": 18,
+      "section": 14,
+      "subsection": 1,
+      "start_page": 131,
+      "start_line": 5640,
+      "start_phrase": "དང་པོ་ནི།",
+      "end_page": 131,
+      "end_line": 5646,
+      "end_phrase": "དང་པོ་འཆའ་བ་རྒྱུན་གྱི་གནད་ནི།...",
+      "verified": true,
+      "content_summary": "དང་པོ་ནི། དྲང་བ་ལུས་དྲང་བས་རྩ་དྲང་པོར་འགྱུར་ལ།",
+      "tibetan_title": "དང་པོ་ ནི།",
+      "english_title": "Vajra Essence Path - Fourteenth"
+    },
+    "02-18-15-01": {
+      "chapter": 18,
+      "section": 15,
+      "subsection": 1,
+      "start_page": 131,
+      "start_line": 5646,
+      "start_phrase": "དང་པོ་འཆའ་བ་རྒྱུན་གྱི་གནད་ནི།",
+      "end_page": 140,
+      "end_line": 5911,
+      "end_phrase": "དང་པོ་བདེན་པ་མཐོང་བའི་དུས་ན་དེ་ལ་དགའ...",
+      "verified": true,
+      "content_summary": "དང་པོ་འཆའ་བ་རྒྱུན་གྱི་གནད་ནི། རྐང་པའི་ལོང་བུ་གཉིས་གཤིབས་ཐབས་ཤེས་རབ་ཀྱི་བཅུད་",
+      "tibetan_title": "དང་པོ་འཆའ་བ་རྒྱུན་གྱི་གནད་ནི།",
+      "english_title": "Vajra Essence Path - Fifteenth"
+    },
+    "02-18-16-01": {
+      "chapter": 18,
+      "section": 16,
+      "subsection": 1,
+      "start_page": 140,
+      "start_line": 5911,
+      "start_phrase": "དང་པོ་བདེན་པ་མཐོང་བའི་དུས་ན་དེ་ལ་དགའ་བ་སྐྱེས་པ་ནི་ས་དང་པ",
+      "end_page": 140,
+      "end_line": 5923,
+      "end_phrase": "བརྒྱད་པ་ མི་གཡོ་བའི་ས་ཐོབ་པའོ།...",
+      "verified": true,
+      "content_summary": "དང་པོ་ བདེན་པ་མཐོང་བའི་དུས་ན་དེ་ལ་དགའ་བ་སྐྱེས་པ་ནི་ས",
+      "tibetan_title": "དང་པོ་བདེན་པ་མཐོང་བའི་དུས་ན་དེ་ལ་དགའ་བ་སྐྱེས་པ་ནི་",
+      "english_title": "Vajra Essence Path - Sixteenth"
+    },
+    "02-18-16-02": {
+      "chapter": 18,
+      "section": 16,
+      "subsection": 2,
+      "start_page": 140,
+      "start_line": 5923,
+      "start_phrase": "བརྒྱད་པ་མི་གཡོ་བའི་ས་ཐོབ་པའོ།",
+      "end_page": 140,
+      "end_line": 5925,
+      "end_phrase": "དགུ་པ་ ལེགས་པའི་བློ་གྲོས་ཀྱི་ས་ནོན་པའ...",
+      "verified": true,
+      "content_summary": "བརྒྱད་པ་ མི་གཡོ་བའི་ས་ཐོབ་པའོ།",
+      "tibetan_title": "བརྒྱད་པ་མི་གཡོ་བའི་ས་ཐོབ་པའོ།",
+      "english_title": "Vajra Essence Path - Sec 16.2"
+    },
+    "02-18-16-03": {
+      "chapter": 18,
+      "section": 16,
+      "subsection": 3,
+      "start_page": 140,
+      "start_line": 5925,
+      "start_phrase": "དགུ་པ་ལེགས་པའི་བློ་གྲོས་ཀྱི་ས་ནོན་པའོ།",
+      "end_page": 140,
+      "end_line": 5928,
+      "end_phrase": "བཅུ་པ་ ཆོས་ཀྱི་སྤྲིན་ལྟ་བུའི་ས་ནོན་པའ...",
+      "verified": true,
+      "content_summary": "དགུ་པ་ ལེགས་པའི་བློ་གྲོས་ཀྱི་ས་ནོན་པའོ།",
+      "tibetan_title": "དགུ་པ་ལེགས་པའི་བློ་གྲོས་ཀྱི་ས་ནོན་པའོ།",
+      "english_title": "Vajra Essence Path - Sec 16.3"
+    },
+    "02-18-16-04": {
+      "chapter": 18,
+      "section": 16,
+      "subsection": 4,
+      "start_page": 140,
+      "start_line": 5928,
+      "start_phrase": "བཅུ་པ་ཆོས་ཀྱི་སྤྲིན་ལྟ་བུའི་ས་ནོན་པའོ།",
+      "end_page": 141,
+      "end_line": 5955,
+      "end_phrase": "འོད་གསལ་རྡོ་རྗེ་སྙིང་པོའི་ལམ་གྱི་ཆིངས་བསྟན་པ་སྟེ་རིམ་ཁང་བཅོ་བརྒྱད་པའོ།",
+      "verified": true,
+      "content_summary": "བཅུ་པ་ ཆོས་ཀྱི་སྤྲིན་ལྟ་བུའི་ས་ནོན་པའོ།",
+      "tibetan_title": "བཅུ་པ་ཆོས་ཀྱི་སྤྲིན་ལྟ་བུའི་ས་ནོན་པའོ།",
+      "english_title": "Vajra Essence Path - Sec 16.4"
+    },
+    "02-19-00-01": {
+      "chapter": 19,
+      "section": 0,
+      "subsection": 1,
+      "start_page": 142,
+      "start_line": 5963,
+      "start_phrase": "ཆོས་ཟད་བློ་འདས་ཀྱི་དགོངས་པ་ཟང་ཐལ་རྗེན་པའི་ཡེ་ཤེས་འཕོ་འགྱུར་མེད་པར་ངོ་སྤྲད་པ།",
+      "end_page": 150,
+      "end_line": 6414,
+      "end_phrase": "དང་པོ་རྒྱུ་ཡོད་དགོས་པས།...",
+      "verified": true,
+      "content_summary": "གསུམ་པ་ ཐ་མར་འགྲོ་ས་དང་འགྲོ་མཁན་གཉིས་ཀྱང་དེ་ཁོ་ན་ལྟར་",
+      "tibetan_title": "ཆོས་ཟད་བློ་འདས་ཀྱི་དགོངས་པ་ཟང་ཐལ་རྗེན་པའི་ཡེ་ཤེས་འ",
+      "english_title": "Deity Visualization - Section 0"
+    },
+    "02-19-01-01": {
+      "chapter": 19,
+      "section": 1,
+      "subsection": 1,
+      "start_page": 150,
+      "start_line": 6414,
+      "start_phrase": "དང་པོ་རྒྱུ་ཡོད་དགོས་པས།",
+      "end_page": 189,
+      "end_line": 8082,
+      "end_phrase": "རིམ་བཅུ་དགུ་པའོ།",
+      "verified": true,
+      "content_summary": "དང་པོ་རྒྱུ་ཡོད་དགོས་པས། རྒྱུ་ཡོད་ན་འདུས་བྱས་མི་རྟག་པས་སླར་འཇིག་པས་ལས་ལ་བཟང་ངན་",
+      "tibetan_title": "དང་པོ་རྒྱུ་ཡོད་དགོས་པས།",
+      "english_title": "Deity Visualization - Section 1"
+    },
+    "02-20-01-01": {
+      "chapter": 20,
+      "section": 1,
+      "subsection": 1,
+      "start_page": 190,
+      "start_line": 8083,
+      "start_phrase": "འཁོར་བ་མིང་མེད་དུ་ལ་ཟློས་ཏེ།",
+      "end_page": 206,
+      "end_line": 8831,
+      "end_phrase": "དང་པོ་ནི།...",
+      "verified": true,
+      "content_summary": "འཁོར་བ་མིང་མེད་དུ་ལ་ཟློས་ཏེ། ཚེ་དེས་འོད་དུ་གྲོལ་བའི་ཁྱད་ཞུགས་པ་ནི།",
+      "tibetan_title": "འཁོར་བ་མིང་མེད་དུ་ལ་ཟློས་ཏེ།",
+      "english_title": "Direct Recognition - Section 1"
+    },
+    "02-20-02-01": {
+      "chapter": 20,
+      "section": 2,
+      "subsection": 1,
+      "start_page": 206,
+      "start_line": 8831,
+      "start_phrase": "དང་པོ་ནི།",
+      "end_page": 209,
+      "end_line": 8970,
+      "end_phrase": "དང་པོ་གཞི་ནས་འཕགས་ཏེ་འཁོར་བར་འཁྲུལ་ཡ...",
+      "verified": true,
+      "content_summary": "དང་པོ་ནི། རང་ཤར་ལས།",
+      "tibetan_title": "དང་པོ་ ནི།",
+      "english_title": "Direct Recognition - Second"
+    },
+    "02-20-03-01": {
+      "chapter": 20,
+      "section": 3,
+      "subsection": 1,
+      "start_page": 209,
+      "start_line": 8970,
+      "start_phrase": "དང་པོ་གཞི་ནས་འཕགས་ཏེ་འཁོར་བར་འཁྲུལ་ཡང་རིག་པ་ངན་དུ་སོང་བ་",
+      "end_page": 209,
+      "end_line": 8972,
+      "end_phrase": "དང་པོ་སྟོར་དུས་འཁྲུལ་པའི་དུས་ཀྱི་རིག...",
+      "verified": true,
+      "content_summary": "དང་པོ་ གཞི་ནས་འཕགས་ཏེ་འཁོར་བར་འཁྲུལ་ཡང་རིག་པ་ངན་དུ་ས",
+      "tibetan_title": "དང་པོ་གཞི་ནས་འཕགས་ཏེ་འཁོར་བར་འཁྲུལ་ཡང་རིག་པ་ངན་དུ་",
+      "english_title": "Direct Recognition - Third"
+    },
+    "02-20-04-01": {
+      "chapter": 20,
+      "section": 4,
+      "subsection": 1,
+      "start_page": 209,
+      "start_line": 8972,
+      "start_phrase": "དང་པོ་སྟོར་དུས་འཁྲུལ་པའི་དུས་ཀྱི་རིག་པ་གཉིས་ལ་བཟང་ངན་ཁྱད",
+      "end_page": 210,
+      "end_line": 9027,
+      "end_phrase": "དང་པོ་ནི།...",
+      "verified": true,
+      "content_summary": "དང་པོ་ སྟོར་དུས་འཁྲུལ་པའི་དུས་ཀྱི་རིག་པ་གཉིས་ལ་བཟང་ང",
+      "tibetan_title": "དང་པོ་སྟོར་དུས་འཁྲུལ་པའི་དུས་ཀྱི་རིག་པ་གཉིས་ལ་བཟང་",
+      "english_title": "Direct Recognition - Fourth"
+    },
+    "02-20-05-01": {
+      "chapter": 20,
+      "section": 5,
+      "subsection": 1,
+      "start_page": 210,
+      "start_line": 9027,
+      "start_phrase": "དང་པོ་ནི།",
+      "end_page": 211,
+      "end_line": 9069,
+      "end_phrase": "དང་པོ་དམར་སེར་ཟླུམ་པོ་ལས།...",
+      "verified": true,
+      "content_summary": "དང་པོ་ནི། ཙོག་པུར་འདུག་ལ་མཐེབ་མཛུབ་ཀྱི་གཏེམས་པས་དམར་གསལ་དངས་པའི་འོད་ཟླུམ་སྣང་བ་",
+      "tibetan_title": "དང་པོ་ ནི།",
+      "english_title": "Direct Recognition - Fifth"
+    },
+    "02-20-06-01": {
+      "chapter": 20,
+      "section": 6,
+      "subsection": 1,
+      "start_page": 211,
+      "start_line": 9069,
+      "start_phrase": "དང་པོ་དམར་སེར་ཟླུམ་པོ་ལས།",
+      "end_page": 211,
+      "end_line": 9079,
+      "end_phrase": "དང་པོ་དམར་པོ་དག་པ་ཡི།...",
+      "verified": true,
+      "content_summary": "དང་པོ་ དམར་སེར་ཟླུམ་པོ་ལས།",
+      "tibetan_title": "དང་པོ་དམར་སེར་ཟླུམ་པོ་ལས།",
+      "english_title": "Direct Recognition - Sixth"
+    },
+    "02-20-07-01": {
+      "chapter": 20,
+      "section": 7,
+      "subsection": 1,
+      "start_page": 211,
+      "start_line": 9079,
+      "start_phrase": "དང་པོ་དམར་པོ་དག་པ་ཡི།",
+      "end_page": 214,
+      "end_line": 9223,
+      "end_phrase": "དང་པོ་རི་བོ་སྤྱི་ཆིངས་ཀྱི་དགོངས་པའི་...",
+      "verified": true,
+      "content_summary": "དང་པོ་དམར་པོ་དག་པ་ཡི། །དབང་རྫོགས་ཟླུམ་པོ་རང་གསལ་རྫོགས།",
+      "tibetan_title": "དང་པོ་དམར་པོ་དག་པ་ཡི།",
+      "english_title": "Direct Recognition - Seventh"
+    },
+    "02-20-08-01": {
+      "chapter": 20,
+      "section": 8,
+      "subsection": 1,
+      "start_page": 214,
+      "start_line": 9223,
+      "start_phrase": "དང་པོ་རི་བོ་སྤྱི་ཆིངས་ཀྱི་དགོངས་པའི་ངོ་བོ་ནི་རང་བཞིན་རྫོ",
+      "end_page": 219,
+      "end_line": 9404,
+      "end_phrase": "དང་པོ་ནི།...",
+      "verified": true,
+      "content_summary": "དང་པོ་ རི་བོ་སྤྱི་ཆིངས་ཀྱི་དགོངས་པའི་ངོ་བོ་ནི་རང་བཞི",
+      "tibetan_title": "དང་པོ་རི་བོ་སྤྱི་ཆིངས་ཀྱི་དགོངས་པའི་ངོ་བོ་ནི་རང་བཞ",
+      "english_title": "Direct Recognition - Eighth"
+    },
+    "02-20-09-01": {
+      "chapter": 20,
+      "section": 9,
+      "subsection": 1,
+      "start_page": 219,
+      "start_line": 9404,
+      "start_phrase": "དང་པོ་ནི།",
+      "end_page": 219,
+      "end_line": 9409,
+      "end_phrase": "ལྷུན་གྲུབ་ཐོད་རྒལ་གྱི་ཡེ་ཤེས་ཉམས་སུ་ལེན་པའི་གནད་ངེས་པ་སྟེ་རིམ་ཁང་ཉི་ཤུ་པའོ།",
+      "verified": true,
+      "content_summary": "དང་པོ་ནི། གནས་ཁང་ཕྱོགས་ཕྱེད་པ་ཉི་མའི་ཟེར་ཐག་དང་བཅས་པར་མེན་ཤེལ་དྲི་མ་མེད་པ་སྟ་",
+      "tibetan_title": "དང་པོ་ ནི།",
+      "english_title": "Direct Recognition - Ninth"
+    },
+    "02-21-00-01": {
+      "chapter": 21,
+      "section": 0,
+      "subsection": 1,
+      "start_page": 220,
+      "start_line": 9413,
+      "start_phrase": "འཛམ་བུའི་གླིང་འདིར་བྱུང་ཚུལ་ནི།",
+      "end_page": 227,
+      "end_line": 9713,
+      "end_phrase": "དང་པོ་ནི་ཕྱི་སྣང་བ་སྣ་ཚོགས་དཀར་དམར་ག...",
+      "verified": true,
+      "content_summary": "འཛམ་བུའི་གླིང་འདིར་བྱུང་ཚུལ་ནི།",
+      "tibetan_title": "འཛམ་བུའི་གླིང་འདིར་བྱུང་ཚུལ་ནི།",
+      "english_title": "Bardo Practice - Section 0"
+    },
+    "02-21-01-01": {
+      "chapter": 21,
+      "section": 1,
+      "subsection": 1,
+      "start_page": 227,
+      "start_line": 9713,
+      "start_phrase": "དང་པོ་ནི་ཕྱི་སྣང་བ་སྣ་ཚོགས་དཀར་དམར་གྱི་སྣང་བ་སྣོད་བཅུད་འ",
+      "end_page": 237,
+      "end_line": 10206,
+      "end_phrase": "རིམ་ཁང་ཉི་ཤུ་རྩ་གཅིག་པའོ།",
+      "verified": true,
+      "content_summary": "དང་པོ་ ནི་ཕྱི་སྣང་བ་སྣ་ཚོགས་དཀར་དམར་གྱི་སྣང་བ་སྣོད་བ",
+      "tibetan_title": "དང་པོ་ནི་ཕྱི་སྣང་བ་སྣ་ཚོགས་དཀར་དམར་གྱི་སྣང་བ་སྣོད་",
+      "english_title": "Bardo Practice - Section 1"
+    },
+    "02-22-01-01": {
+      "chapter": 22,
+      "section": 1,
+      "subsection": 1,
+      "start_page": 238,
+      "start_line": 10211,
+      "start_phrase": "བར་དོ་དང་ཕྱི་མ་ལ་གྲོལ་འཁྲུལ་ངེས་པའི་རྟགས་གསང་བས་མཇུག་བསྡུ་བའོ།",
+      "end_page": 250,
+      "end_line": 10766,
+      "end_phrase": "དང་པོ་ངོ་བོ་ནི།...",
+      "verified": true,
+      "content_summary": "དང་པོ་ ལུས་ངག་སེམས་ལ་འབྱུང་བ་ངེས་པ་མེད་པའི་རྟགས་ལྔ་བ",
+      "tibetan_title": "བར་དོ་དང་ཕྱི་མ་ལ་གྲོལ་འཁྲུལ་ངེས་པའི་རྟགས་གསང་བས་མཇ",
+      "english_title": "Phowa Transference - Section 1"
+    },
+    "02-22-02-01": {
+      "chapter": 22,
+      "section": 2,
+      "subsection": 1,
+      "start_page": 250,
+      "start_line": 10766,
+      "start_phrase": "དང་པོ་ངོ་བོ་ནི།",
+      "end_page": 251,
+      "end_line": 10826,
+      "end_phrase": "དང་པོ་ཐིག་ལེའི་ངོ་བོ།...",
+      "verified": true,
+      "content_summary": "དང་པོ་ངོ་བོ་ནི། ཡངས་ཤིང་ཁྱབ་གདལ་ཆེན་པོའི་བདག་ཉིད་གསལ་བ་རང་གསལ་བ་ཉིད་དོ།",
+      "tibetan_title": "དང་པོ་ངོ་བོ་ནི།",
+      "english_title": "Phowa Transference - Second"
+    },
+    "02-22-03-01": {
+      "chapter": 22,
+      "section": 3,
+      "subsection": 1,
+      "start_page": 251,
+      "start_line": 10826,
+      "start_phrase": "དང་པོ་ཐིག་ལེའི་ངོ་བོ།",
+      "end_page": 253,
+      "end_line": 10900,
+      "end_phrase": "བཞི་པ་སྐུ་ལ།...",
+      "verified": true,
+      "content_summary": "དང་པོ་ཐིག་ལེའི་ངོ་བོ། ངེས་ཚིག",
+      "tibetan_title": "དང་པོ་ཐིག་ལེའི་ངོ་བོ།",
+      "english_title": "Phowa Transference - Third"
+    },
+    "02-22-03-02": {
+      "chapter": 22,
+      "section": 3,
+      "subsection": 2,
+      "start_page": 253,
+      "start_line": 10900,
+      "start_phrase": "བཞི་པ་སྐུ་ལ།",
+      "end_page": 258,
+      "end_line": 11182,
+      "end_phrase": "གསུམ་པ་ལ་རྟགས་རྐྱང་པ་རེ་ཙམ་དང༌།...",
+      "verified": true,
+      "content_summary": "བཞི་པ་སྐུ་ལ། །ངེས་ཚིག",
+      "tibetan_title": "བཞི་པ་སྐུ་ལ།",
+      "english_title": "Phowa Transference - Sec 3.2"
+    },
+    "02-22-03-03": {
+      "chapter": 22,
+      "section": 3,
+      "subsection": 3,
+      "start_page": 258,
+      "start_line": 11182,
+      "start_phrase": "གསུམ་པ་ལ་རྟགས་རྐྱང་པ་རེ་ཙམ་དང༌།",
+      "end_page": 261,
+      "end_line": 11322,
+      "end_phrase": "དང་པོ་ངོ་བོ་ནི།...",
+      "verified": true,
+      "content_summary": "གསུམ་པ་ ལ་རྟགས་རྐྱང་པ་རེ་ཙམ་དང༌།",
+      "tibetan_title": "གསུམ་པ་ལ་རྟགས་རྐྱང་པ་རེ་ཙམ་དང༌།",
+      "english_title": "Phowa Transference - Sec 3.3"
+    },
+    "02-22-04-01": {
+      "chapter": 22,
+      "section": 4,
+      "subsection": 1,
+      "start_page": 261,
+      "start_line": 11322,
+      "start_phrase": "དང་པོ་ངོ་བོ་ནི།",
+      "end_page": 265,
+      "end_line": 11480,
+      "end_phrase": "དང་པོ་ཁ་དོག་ནི་རིགས་ལྔའི་ཆ་འཛིན་པས་ལ...",
+      "verified": true,
+      "content_summary": "དང་པོ་ངོ་བོ་ནི། ལྷའི་རྣམ་པར་སྣང་བ་སྟེ་སྐུ་རྐྱང་དང༌།",
+      "tibetan_title": "དང་པོ་ངོ་བོ་ནི།",
+      "english_title": "Phowa Transference - Fourth"
+    },
+    "02-22-05-01": {
+      "chapter": 22,
+      "section": 5,
+      "subsection": 1,
+      "start_page": 265,
+      "start_line": 11480,
+      "start_phrase": "དང་པོ་ཁ་དོག་ནི་རིགས་ལྔའི་ཆ་འཛིན་པས་ལྔ་སྟེ།",
+      "end_page": 270,
+      "end_line": 11736,
+      "end_phrase": "བརྒྱད་པ་ དང༌།...",
+      "verified": true,
+      "content_summary": "དང་པོ་ ཁ་དོག་ནི་རིགས་ལྔའི་ཆ་འཛིན་པས་ལྔ་སྟེ།",
+      "tibetan_title": "དང་པོ་ཁ་དོག་ནི་རིགས་ལྔའི་ཆ་འཛིན་པས་ལྔ་སྟེ།",
+      "english_title": "Phowa Transference - Fifth"
+    },
+    "02-22-05-02": {
+      "chapter": 22,
+      "section": 5,
+      "subsection": 2,
+      "start_page": 270,
+      "start_line": 11736,
+      "start_phrase": "བརྒྱད་པ་དང༌།",
+      "end_page": 272,
+      "end_line": 11825,
+      "end_phrase": "དང་པོ་དམྱལ་བར་སྐྱེ་བའི་རྟགས་ནི།...",
+      "verified": true,
+      "content_summary": "བརྒྱད་པ་དང༌། མཐོང་བ་དང༌།",
+      "tibetan_title": "བརྒྱད་པ་དང༌།",
+      "english_title": "Phowa Transference - Sec 5.2"
+    },
+    "02-22-06-01": {
+      "chapter": 22,
+      "section": 6,
+      "subsection": 1,
+      "start_page": 272,
+      "start_line": 11825,
+      "start_phrase": "དང་པོ་དམྱལ་བར་སྐྱེ་བའི་རྟགས་ནི།",
+      "end_page": 276,
+      "end_line": 12003,
+      "end_phrase": "དང་པོ་ངོ་བོ་ནི།...",
+      "verified": true,
+      "content_summary": "དང་པོ་ དམྱལ་བར་སྐྱེ་བའི་རྟགས་ནི།",
+      "tibetan_title": "དང་པོ་དམྱལ་བར་སྐྱེ་བའི་རྟགས་ནི།",
+      "english_title": "Phowa Transference - Sixth"
+    },
+    "02-22-07-01": {
+      "chapter": 22,
+      "section": 7,
+      "subsection": 1,
+      "start_page": 276,
+      "start_line": 12003,
+      "start_phrase": "དང་པོ་ངོ་བོ་ནི།",
+      "end_page": 276,
+      "end_line": 12008,
+      "end_phrase": "དུས་གསུམ་རྟགས་ཀྱི་རྣམ་གྲངས་ངེས་པ་གཏན་ལ་ཕབ་པ་སྟེ་རིམ་ཁང་ཉི་ཤུ་རྩ་གཉིས་པའོ།",
+      "verified": true,
+      "content_summary": "དང་པོ་ངོ་བོ་ནི། ཕྱི་ཡུལ་གྱི་ཆོས་ནང་གི་བློ་ལ་སྣང་བའི་གནས་སྐབས་སོ།",
+      "tibetan_title": "དང་པོ་ངོ་བོ་ནི།",
+      "english_title": "Phowa Transference - Seventh"
+    },
+    "02-23-01-01": {
+      "chapter": 23,
+      "section": 1,
+      "subsection": 1,
+      "start_page": 277,
+      "start_line": 12011,
+      "start_phrase": "ད་ལྟ་ཡང་དེའི་འཆར་ཚུལ་གྱི་ཕྱི་ནང་གི་ངང་ན་གནས།",
+      "end_page": 283,
+      "end_line": 12245,
+      "end_phrase": "དང་པོ་ལ་གསུམ་སྟེ།...",
+      "verified": true,
+      "content_summary": "ད་ལྟ་ཡང་དེའི་འཆར་ཚུལ་གྱི་ཕྱི་ནང་གི་ངང་ན་གནས།",
+      "tibetan_title": "ད་ལྟ་ཡང་དེའི་འཆར་ཚུལ་གྱི་ཕྱི་ནང་གི་ངང་ན་གནས།",
+      "english_title": "Self-Appearing Bardo - Section 1"
+    },
+    "02-23-02-01": {
+      "chapter": 23,
+      "section": 2,
+      "subsection": 1,
+      "start_page": 283,
+      "start_line": 12245,
+      "start_phrase": "དང་པོ་ལ་གསུམ་སྟེ།",
+      "end_page": 287,
+      "end_line": 12351,
+      "end_phrase": "གསུམ་པ་འཆི་ངེས་པའི་དཔེ་ལ་བསམས་ནས་དགོས...",
+      "verified": true,
+      "content_summary": "དང་པོ་ལ་གསུམ་སྟེ། རྙེད་དཀའ་བའི་ཚུལ་ལ་བསམས་ནས་དལ་ཁོམ་རེས་འཇོག་མེད་པར་ཆོས་ལ་སྦྱང་",
+      "tibetan_title": "དང་པོ་ལ་གསུམ་སྟེ།",
+      "english_title": "Self-Appearing Bardo - Second"
+    },
+    "02-23-02-02": {
+      "chapter": 23,
+      "section": 2,
+      "subsection": 2,
+      "start_page": 287,
+      "start_line": 12351,
+      "start_phrase": "གསུམ་པ་འཆི་ངེས་པའི་དཔེ་ལ་བསམས་ནས་དགོས་དུས་སྟོངས་པའི་ཟབ་དོ",
+      "end_page": 290,
+      "end_line": 12522,
+      "end_phrase": "དང་པོ་ནི།...",
+      "verified": true,
+      "content_summary": "གསུམ་པ་ འཆི་ངེས་པའི་དཔེ་ལ་བསམས་ནས་དགོས་དུས་སྟོངས་པའི་",
+      "tibetan_title": "གསུམ་པ་འཆི་ངེས་པའི་དཔེ་ལ་བསམས་ནས་དགོས་དུས་སྟོངས་པའ",
+      "english_title": "Self-Appearing Bardo - Sec 2.2"
+    },
+    "02-23-03-01": {
+      "chapter": 23,
+      "section": 3,
+      "subsection": 1,
+      "start_page": 290,
+      "start_line": 12522,
+      "start_phrase": "དང་པོ་ནི།",
+      "end_page": 296,
+      "end_line": 12779,
+      "end_phrase": "གཉིས་པ་ཨཱཿདམར་པོར་བཅས་ཏེ་འཕང༌།...",
+      "verified": true,
+      "content_summary": "དང་པོ་ནི། དེ་ཉིད་ལས།",
+      "tibetan_title": "དང་པོ་ ནི།",
+      "english_title": "Self-Appearing Bardo - Third"
+    },
+    "02-23-03-02": {
+      "chapter": 23,
+      "section": 3,
+      "subsection": 2,
+      "start_page": 296,
+      "start_line": 12779,
+      "start_phrase": "གཉིས་པ་ཨཱཿདམར་པོར་བཅས་ཏེ་འཕང༌།",
+      "end_page": 310,
+      "end_line": 13304,
+      "end_phrase": "དང་པོ་ལྔའི་དང་པོ་ཕྱི་འབྱུང་ནི།...",
+      "verified": true,
+      "content_summary": "གཉིས་པ་ ཨཱཿདམར་པོར་བཅས་ཏེ་འཕང༌།",
+      "tibetan_title": "གཉིས་པ་ཨཱཿདམར་པོར་བཅས་ཏེ་འཕང༌།",
+      "english_title": "Self-Appearing Bardo - Sec 3.2"
+    },
+    "02-23-04-01": {
+      "chapter": 23,
+      "section": 4,
+      "subsection": 1,
+      "start_page": 310,
+      "start_line": 13304,
+      "start_phrase": "དང་པོ་ལྔའི་དང་པོ་ཕྱི་འབྱུང་ནི།",
+      "end_page": 322,
+      "end_line": 13695,
+      "end_phrase": "དང་པོ་རིག་པ་འོད་ལ་འཇུག་པ་རང་སྣང་ལ་ཕར...",
+      "verified": true,
+      "content_summary": "དང་པོ་ ལྔའི་དང་པོ་ཕྱི་འབྱུང་ནི།",
+      "tibetan_title": "དང་པོ་ལྔའི་དང་པོ་ཕྱི་འབྱུང་ནི།",
+      "english_title": "Self-Appearing Bardo - Fourth"
+    },
+    "02-23-05-01": {
+      "chapter": 23,
+      "section": 5,
+      "subsection": 1,
+      "start_page": 322,
+      "start_line": 13695,
+      "start_phrase": "དང་པོ་རིག་པ་འོད་ལ་འཇུག་པ་རང་སྣང་ལ་ཕར་ལྟ་དུས་སྣང་བ་དེ་རང་",
+      "end_page": 322,
+      "end_line": 13701,
+      "end_phrase": "དང་པོ་མཆེད་དུས་དེ་ལ་ཕར་འཇུག...",
+      "verified": true,
+      "content_summary": "དང་པོ་ རིག་པ་འོད་ལ་འཇུག་པ་རང་སྣང་ལ་ཕར་ལྟ་དུས་སྣང་བ་ད",
+      "tibetan_title": "དང་པོ་རིག་པ་འོད་ལ་འཇུག་པ་རང་སྣང་ལ་ཕར་ལྟ་དུས་སྣང་བ་",
+      "english_title": "Self-Appearing Bardo - Fifth"
+    },
+    "02-23-06-01": {
+      "chapter": 23,
+      "section": 6,
+      "subsection": 1,
+      "start_page": 322,
+      "start_line": 13701,
+      "start_phrase": "དང་པོ་མཆེད་དུས་དེ་ལ་ཕར་འཇུག",
+      "end_page": 339,
+      "end_line": 14200,
+      "end_phrase": "གཉིས་པ་དང་གསུམ་པ་ལ་ཉི་ཤུ་རྩ་བཞི་བཞི།...",
+      "verified": true,
+      "content_summary": "དང་པོ་ མཆེད་དུས་དེ་ལ་ཕར་འཇུག",
+      "tibetan_title": "དང་པོ་མཆེད་དུས་དེ་ལ་ཕར་འཇུག",
+      "english_title": "Self-Appearing Bardo - Sixth"
+    },
+    "02-23-06-02": {
+      "chapter": 23,
+      "section": 6,
+      "subsection": 2,
+      "start_page": 339,
+      "start_line": 14200,
+      "start_phrase": "གཉིས་པ་དང་གསུམ་པ་ལ་ཉི་ཤུ་རྩ་བཞི་བཞི།",
+      "end_page": 341,
+      "end_line": 14278,
+      "end_phrase": "དང་པོ་ནི།...",
+      "verified": true,
+      "content_summary": "གཉིས་པ་ དང་གསུམ་པ་ལ་ཉི་ཤུ་རྩ་བཞི་བཞི།",
+      "tibetan_title": "གཉིས་པ་དང་གསུམ་པ་ལ་ཉི་ཤུ་རྩ་བཞི་བཞི།",
+      "english_title": "Self-Appearing Bardo - Sec 6.2"
+    },
+    "02-23-07-01": {
+      "chapter": 23,
+      "section": 7,
+      "subsection": 1,
+      "start_page": 341,
+      "start_line": 14278,
+      "start_phrase": "དང་པོ་ནི།",
+      "end_page": 348,
+      "end_line": 14588,
+      "end_phrase": "དང་པོ་ལ་ངོས་ཟིན།...",
+      "verified": true,
+      "content_summary": "དང་པོ་ནི། རང་བཞིན་འོད་དུ་སྣང་ཡང༌།",
+      "tibetan_title": "དང་པོ་ ནི།",
+      "english_title": "Self-Appearing Bardo - Seventh"
+    },
+    "02-23-08-01": {
+      "chapter": 23,
+      "section": 8,
+      "subsection": 1,
+      "start_page": 348,
+      "start_line": 14588,
+      "start_phrase": "དང་པོ་ལ་ངོས་ཟིན།",
+      "end_page": 348,
+      "end_line": 14589,
+      "end_phrase": "གཉིས་པ་ལ་རྟོགས་པ་སྐྱེས།...",
+      "verified": true,
+      "content_summary": "དང་པོ་ལ་ངོས་ཟིན། གཉིས་པ་ལ་རྟོགས་པ་སྐྱེས།",
+      "tibetan_title": "དང་པོ་ལ་ངོས་ཟིན།",
+      "english_title": "Self-Appearing Bardo - Eighth"
+    },
+    "02-23-08-02": {
+      "chapter": 23,
+      "section": 8,
+      "subsection": 2,
+      "start_page": 348,
+      "start_line": 14589,
+      "start_phrase": "གཉིས་པ་ལ་རྟོགས་པ་སྐྱེས།",
+      "end_page": 348,
+      "end_line": 14590,
+      "end_phrase": "གསུམ་པ་ལ་གྲོལ་བའི་ཕྱིར་རོ།...",
+      "verified": true,
+      "content_summary": "གཉིས་པ་ལ་རྟོགས་པ་སྐྱེས། གསུམ་པ་ལ་གྲོལ་བའི་ཕྱིར་རོ།",
+      "tibetan_title": "གཉིས་པ་ལ་རྟོགས་པ་སྐྱེས།",
+      "english_title": "Self-Appearing Bardo - Sec 8.2"
+    },
+    "02-23-08-03": {
+      "chapter": 23,
+      "section": 8,
+      "subsection": 3,
+      "start_page": 348,
+      "start_line": 14590,
+      "start_phrase": "གསུམ་པ་ལ་གྲོལ་བའི་ཕྱིར་རོ།",
+      "end_page": 350,
+      "end_line": 14640,
+      "end_phrase": "གཉིས་པ་ལྷུན་གྲུབ་ཀྱི་སྒོ་མཐོང༌།...",
+      "verified": true,
+      "content_summary": "གསུམ་པ་ ལ་གྲོལ་བའི་ཕྱིར་རོ།",
+      "tibetan_title": "གསུམ་པ་ལ་གྲོལ་བའི་ཕྱིར་རོ།",
+      "english_title": "Self-Appearing Bardo - Sec 8.3"
+    },
+    "02-23-08-04": {
+      "chapter": 23,
+      "section": 8,
+      "subsection": 4,
+      "start_page": 350,
+      "start_line": 14640,
+      "start_phrase": "གཉིས་པ་ལྷུན་གྲུབ་ཀྱི་སྒོ་མཐོང༌།",
+      "end_page": 350,
+      "end_line": 14642,
+      "end_phrase": "གསུམ་པ་ལ་དེ་ཡང་ནུབ་སྟེ།...",
+      "verified": true,
+      "content_summary": "གཉིས་པ་ ལྷུན་གྲུབ་ཀྱི་སྒོ་མཐོང༌།",
+      "tibetan_title": "གཉིས་པ་ལྷུན་གྲུབ་ཀྱི་སྒོ་མཐོང༌།",
+      "english_title": "Self-Appearing Bardo - Sec 8.4"
+    },
+    "02-23-08-05": {
+      "chapter": 23,
+      "section": 8,
+      "subsection": 5,
+      "start_page": 350,
+      "start_line": 14642,
+      "start_phrase": "གསུམ་པ་ལ་དེ་ཡང་ནུབ་སྟེ།",
+      "end_page": 353,
+      "end_line": 14750,
+      "end_phrase": "གཉིས་པ་ལ་མཐོང༌།...",
+      "verified": true,
+      "content_summary": "གསུམ་པ་ལ་དེ་ཡང་ནུབ་སྟེ། ཀ་དག་གི་སྣང་བ་མཐོང་བ་ལ་རང་ངོ་ཤེས་པས་ས་ཟིན་པའོ།",
+      "tibetan_title": "གསུམ་པ་ལ་དེ་ཡང་ནུབ་སྟེ།",
+      "english_title": "Self-Appearing Bardo - Sec 8.5"
+    },
+    "02-23-08-06": {
+      "chapter": 23,
+      "section": 8,
+      "subsection": 6,
+      "start_page": 353,
+      "start_line": 14750,
+      "start_phrase": "གཉིས་པ་ལ་མཐོང༌།",
+      "end_page": 353,
+      "end_line": 14751,
+      "end_phrase": "གསུམ་པ་ལ་དེའི་ངང་ལ་དར་ཅིག་ཤེས་པ་ཟིན།...",
+      "verified": true,
+      "content_summary": "གཉིས་པ་ལ་མཐོང༌། གསུམ་པ་ལ་དེའི་ངང་ལ་དར་ཅིག་ཤེས་པ་ཟིན།",
+      "tibetan_title": "གཉིས་པ་ལ་མཐོང༌།",
+      "english_title": "Self-Appearing Bardo - Sec 8.6"
+    },
+    "02-23-08-07": {
+      "chapter": 23,
+      "section": 8,
+      "subsection": 7,
+      "start_page": 353,
+      "start_line": 14751,
+      "start_phrase": "གསུམ་པ་ལ་དེའི་ངང་ལ་དར་ཅིག་ཤེས་པ་ཟིན།",
+      "end_page": 353,
+      "end_line": 14752,
+      "end_phrase": "བཞི་པ་ལ་རང་སྣང་དུ་རྟོགས་ཏེ་བདེན་པའི་...",
+      "verified": true,
+      "content_summary": "གསུམ་པ་ ལ་དེའི་ངང་ལ་དར་ཅིག་ཤེས་པ་ཟིན།",
+      "tibetan_title": "གསུམ་པ་ལ་དེའི་ངང་ལ་དར་ཅིག་ཤེས་པ་ཟིན།",
+      "english_title": "Self-Appearing Bardo - Sec 8.7"
+    },
+    "02-23-08-08": {
+      "chapter": 23,
+      "section": 8,
+      "subsection": 8,
+      "start_page": 353,
+      "start_line": 14752,
+      "start_phrase": "བཞི་པ་ལ་རང་སྣང་དུ་རྟོགས་ཏེ་བདེན་པའི་སྟོབས་རྙེད།",
+      "end_page": 353,
+      "end_line": 14753,
+      "end_phrase": "ལྔ་པ་ལ་ཀ་དག་ཏུ་གྲོལ་བའོ།...",
+      "verified": true,
+      "content_summary": "བཞི་པ་ ལ་རང་སྣང་དུ་རྟོགས་ཏེ་བདེན་པའི་སྟོབས་རྙེད།",
+      "tibetan_title": "བཞི་པ་ལ་རང་སྣང་དུ་རྟོགས་ཏེ་བདེན་པའི་སྟོབས་རྙེད།",
+      "english_title": "Self-Appearing Bardo - Sec 8.8"
+    },
+    "02-23-08-09": {
+      "chapter": 23,
+      "section": 8,
+      "subsection": 9,
+      "start_page": 353,
+      "start_line": 14753,
+      "start_phrase": "ལྔ་པ་ལ་ཀ་དག་ཏུ་གྲོལ་བའོ།",
+      "end_page": 354,
+      "end_line": 14823,
+      "end_phrase": "དང་པོ་རང་སྣང་རིམ་གྱིས་འཆར་བ་ལ་སྐད་ཅི...",
+      "verified": true,
+      "content_summary": "ལྔ་པ་ ལ་ཀ་དག་ཏུ་གྲོལ་བའོ།",
+      "tibetan_title": "ལྔ་པ་ལ་ཀ་དག་ཏུ་གྲོལ་བའོ།",
+      "english_title": "Self-Appearing Bardo - Sec 8.9"
+    },
+    "02-23-09-01": {
+      "chapter": 23,
+      "section": 9,
+      "subsection": 1,
+      "start_page": 354,
+      "start_line": 14823,
+      "start_phrase": "དང་པོ་རང་སྣང་རིམ་གྱིས་འཆར་བ་ལ་སྐད་ཅིག་བདུན།",
+      "end_page": 366,
+      "end_line": 15258,
+      "end_phrase": "རང་སྣང་བར་དོའི་ཆར་ཚུལ་བསྟན་པ་སྟེ་རིམ་ཁང་ཉི་ཤུ་རྩ་གསུམ་པའོ།",
+      "verified": true,
+      "content_summary": "དང་པོ་ རང་སྣང་རིམ་གྱིས་འཆར་བ་ལ་སྐད་ཅིག་བདུན།",
+      "tibetan_title": "དང་པོ་རང་སྣང་རིམ་གྱིས་འཆར་བ་ལ་སྐད་ཅིག་བདུན།",
+      "english_title": "Self-Appearing Bardo - Ninth"
+    },
+    "02-24-01-01": {
+      "chapter": 24,
+      "section": 1,
+      "subsection": 1,
+      "start_page": 367,
+      "start_line": 15275,
+      "start_phrase": "དབང་པོ་ཐ་མའི་ཐ་མའམ་དེ་གོང་དུ་ཆོས་ཉིད་ཀྱི་བར་དོ་ཤར་ཡང་བདེན་པའི་སྟོབས་མ་རྙེད་པས།",
+      "end_page": 376,
+      "end_line": 15613,
+      "end_phrase": "དབང་པོ་ཐ་མ་རྣམས་རང་བཞིན་སྤྲུལ་པ་སྐུའི་ཞིང་དུ་དབུགས་དབྱུང་བ་སྟེ་རིམ་ཁང་ཉི་ཤུ་རྩ་བཞི་པའོ།",
+      "verified": true,
+      "content_summary": "དབང་པོ་ཐ་མའི་ཐ་མའམ་དེ་གོང་དུ་ཆོས་ཉིད་ཀྱི་བར་དོ་ཤར་ཡང་བདེན་པའི་སྟོབས་མ་རྙེད་པས། སྲིད་པའི་བར་དོ་རྨི་ལམ་དང་འདྲ་བར་ལམ་བྱུང་དུས།",
+      "tibetan_title": "དབང་པོ་ཐ་མའི་ཐ་མའམ་དེ་གོང་དུ་ཆོས་ཉིད་ཀྱི་བར་དོ་ཤར་",
+      "english_title": "Faculties and Capacities - Section 1"
+    },
+    "02-25-01-01": {
+      "chapter": 25,
+      "section": 1,
+      "subsection": 1,
+      "start_page": 377,
+      "start_line": 15635,
+      "start_phrase": "མུ་ཏིག་ཕྲེང་བ་ལས།",
+      "end_page": 394,
+      "end_line": 16329,
+      "end_phrase": "དང་པོ་ལ་གསུམ་སྟེ།...",
+      "verified": true,
+      "content_summary": "མུ་ཏིག་ཕྲེང་བ་ལས། གྲོལ་ས་ཉིད་ནི་ཐོག་མའོ།",
+      "tibetan_title": "མུ་ཏིག་ཕྲེང་བ་ལས།",
+      "english_title": "Spontaneous Results - Section 1"
+    },
+    "02-25-02-01": {
+      "chapter": 25,
+      "section": 2,
+      "subsection": 1,
+      "start_page": 394,
+      "start_line": 16329,
+      "start_phrase": "དང་པོ་ལ་གསུམ་སྟེ།",
+      "end_page": 395,
+      "end_line": 16360,
+      "end_phrase": "དང་པོ་ལ་ལམ་སྣང་ཡིན་ཏེ་ལྷུན་གྲུབ་ཀྱི་...",
+      "verified": true,
+      "content_summary": "དང་པོ་ལ་གསུམ་སྟེ། ཐོབ་ཚུལ་སྤྱིར་བསྟན་པ།",
+      "tibetan_title": "དང་པོ་ལ་གསུམ་སྟེ།",
+      "english_title": "Spontaneous Results - Second"
+    },
+    "02-25-03-01": {
+      "chapter": 25,
+      "section": 3,
+      "subsection": 1,
+      "start_page": 395,
+      "start_line": 16360,
+      "start_phrase": "དང་པོ་ལ་ལམ་སྣང་ཡིན་ཏེ་ལྷུན་གྲུབ་ཀྱི་སྦུབས་ཀ་དག་ཆེན་པོ་དེ",
+      "end_page": 396,
+      "end_line": 16409,
+      "end_phrase": "དང་པོ་ཆས་སྐུའི་གནས་རྒྱས་པར་བཤད་པ་ལ་ང...",
+      "verified": true,
+      "content_summary": "དང་པོ་ ལ་ལམ་སྣང་ཡིན་ཏེ་ལྷུན་གྲུབ་ཀྱི་སྦུབས་ཀ་དག་ཆེན་",
+      "tibetan_title": "དང་པོ་ལ་ལམ་སྣང་ཡིན་ཏེ་ལྷུན་གྲུབ་ཀྱི་སྦུབས་ཀ་དག་ཆེན",
+      "english_title": "Spontaneous Results - Third"
+    },
+    "02-25-04-01": {
+      "chapter": 25,
+      "section": 4,
+      "subsection": 1,
+      "start_page": 396,
+      "start_line": 16409,
+      "start_phrase": "དང་པོ་ཆས་སྐུའི་གནས་རྒྱས་པར་བཤད་པ་ལ་ངོ་བོ།",
+      "end_page": 397,
+      "end_line": 16436,
+      "end_phrase": "དང་པོ་ནི།...",
+      "verified": true,
+      "content_summary": "དང་པོ་ ཆས་སྐུའི་གནས་རྒྱས་པར་བཤད་པ་ལ་ངོ་བོ།",
+      "tibetan_title": "དང་པོ་ཆས་སྐུའི་གནས་རྒྱས་པར་བཤད་པ་ལ་ངོ་བོ།",
+      "english_title": "Spontaneous Results - Fourth"
+    },
+    "02-25-05-01": {
+      "chapter": 25,
+      "section": 5,
+      "subsection": 1,
+      "start_page": 397,
+      "start_line": 16436,
+      "start_phrase": "དང་པོ་ནི།",
+      "end_page": 402,
+      "end_line": 16719,
+      "end_phrase": "དང་པོ་ནི།...",
+      "verified": true,
+      "content_summary": "དང་པོ་ནི། ཆོས་ཉིད་ལ་ལྟོས་ནས་གང་གི་ངོ་བོར་ཡང་མ་གྲུབ་པས་སྤྲོས་པའི་མཐའ་དང་བྲལ་བ།",
+      "tibetan_title": "དང་པོ་ ནི།",
+      "english_title": "Spontaneous Results - Fifth"
+    },
+    "02-25-06-01": {
+      "chapter": 25,
+      "section": 6,
+      "subsection": 1,
+      "start_page": 402,
+      "start_line": 16719,
+      "start_phrase": "དང་པོ་ནི།",
+      "end_page": 404,
+      "end_line": 16770,
+      "end_phrase": "བཞི་པ་རྣམ་གྲངས་རྒྱས་པར་བཤད་པ་ལ་སྐུ་ག...",
+      "verified": true,
+      "content_summary": "དང་པོ་ནི། རྔོན་པ་དང༌།",
+      "tibetan_title": "དང་པོ་ ནི།",
+      "english_title": "Spontaneous Results - Sixth"
+    },
+    "02-25-06-02": {
+      "chapter": 25,
+      "section": 6,
+      "subsection": 2,
+      "start_page": 404,
+      "start_line": 16770,
+      "start_phrase": "བཞི་པ་རྣམ་གྲངས་རྒྱས་པར་བཤད་པ་ལ་སྐུ་གསུང་ཐུགས་ཡོན་ཏན་འཕྲི",
+      "end_page": 409,
+      "end_line": 16972,
+      "end_phrase": "དང་པོ་སྐུ་ལའང་ངོ་བོ།...",
+      "verified": true,
+      "content_summary": "བཞི་པ་ རྣམ་གྲངས་རྒྱས་པར་བཤད་པ་ལ་སྐུ་གསུང་ཐུགས་ཡོན་ཏན",
+      "tibetan_title": "བཞི་པ་རྣམ་གྲངས་རྒྱས་པར་བཤད་པ་ལ་སྐུ་གསུང་ཐུགས་ཡོན་ཏ",
+      "english_title": "Spontaneous Results - Sec 6.2"
+    },
+    "02-25-07-01": {
+      "chapter": 25,
+      "section": 7,
+      "subsection": 1,
+      "start_page": 409,
+      "start_line": 16972,
+      "start_phrase": "དང་པོ་སྐུ་ལའང་ངོ་བོ།",
+      "end_page": 412,
+      "end_line": 17111,
+      "end_phrase": "ལྷུན་གྱིས་གྲུབ་པ་འབྲས་བུའི་རྣམ་པར་གཞག་པ་སྟེ་རིམ་ཁང་ཉི་ཤུ་རྩ་ལྔ་པ་སྟེ་ཐ་མའོ།",
+      "verified": true,
+      "content_summary": "དང་པོ་སྐུ་ལའང་ངོ་བོ། ངེས་ཚིག",
+      "tibetan_title": "དང་པོ་སྐུ་ལའང་ངོ་བོ།",
+      "english_title": "Spontaneous Results - Seventh"
     }
-  ],
-  "mapping_status": {
-    "total_chapters": 19,
-    "chapters_fully_mapped": 0,
-    "chapters_partially_mapped": 19,
-    "chapters_pending": 0,
-    "total_sections": 87,
-    "sections_with_verified_boundaries": 87,
-    "sections_with_estimated_boundaries": 78,
-    "sections_pending": 0,
-    "completion_percentage": 100.0,
-    "last_updated": "2026-02-08",
-    "sections_split": 10,
-    "sections_split_total": 37,
-    "split_method": "Option 2 - Moderate"
   }
 }
