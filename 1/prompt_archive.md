@@ -28,11 +28,18 @@ The raw files contain:
 - Line numbers derived from space and non-breaking space (\u00A0) separation
 - Pages derived from double line break (\n\n) separation
 - Metadata and headers preserved in original form
-- Volume 2 includes appended commentary by Paltrul Rinpoche (excluded from partitioned sections)
+- Volume 2 includes appended commentary by Paltrul Rinpoche (lines 833-857, excluded from clean source)
+
+**Content Analysis:**
+- Total Volume 1: 717,939 Tibetan characters
+- Total Volume 2: 634,678 Tibetan characters (18,604 are Patrul Rinpoche's unrelated text)
+- After removing Patrul content: 1,334,013 Tibetan characters (verified across all source versions)
 
 ### Location
 `text/raw/UT22920_005_0001_bo,sa,zh.txt`
 `text/raw/UT22920_005_0002_bo,sa,zh.txt`
+
+**Note:** Raw files are BDRC source imports. For all work, use `text/tibetan/` (clean version without PAGE markers) or `text/artifacts/` (original with PAGE markers for reference).
 
 ---
 
@@ -46,7 +53,7 @@ The Tibetan Unicode Layer is the *Tshad ma* (Source of Validity) for this projec
 
 **Protocol:** Never change, modify, or "correct" the Tibetan layer based on English logic. All interpretation must bow to the Unicode text as it stands.
 
-**Location:** Individual page files in the `tibetan` subfolder.
+**Location:** Individual section files in the `text/tibetan/` subfolder (clean source, no PAGE markers).
 
 ### Processing Notes
 The Tibetan layer differs from the raw layer in the following ways:
@@ -55,13 +62,31 @@ The Tibetan layer differs from the raw layer in the following ways:
 - **Metadata**: Raw includes BDRC headers and technical metadata; Tibetan layer contains only the text content with line markers
 - **Content**: Volume 2 raw includes appended commentary by Paltrul Rinpoche (excluded); Tibetan layer contains only Longchenpa's original text
 - **Accessibility**: Raw files are machine-readable archives; Tibetan layer is human-navigable by structural sections
-- **Verification**: Tibetan layer verified at 100% character preservation against raw source (1,352,617/1,352,617 chars Volume 1, 616,074/634,678 chars Volume 2 with intentional exclusion of appended commentary)
+- **Verification**: Tibetan layer verified at 100% character preservation (1,334,013 Tibetan characters in clean source)
+
+### Dual Source System
+
+**Updated 2026-02-11:** The project maintains two versions of the Tibetan source:
+
+| Directory | Contents | Use Case |
+|-----------|----------|----------|
+| `text/tibetan/` | **CLEAN** - No PAGE markers, no blank lines | **PRIMARY SOURCE** for all work |
+| `text/artifacts/` | Original with PAGE markers (`### PAGE X`) and blank lines | Reference/archive only |
+| `text/raw/` | BDRC import files (includes unrelated Patrul text) | Original import archive |
+
+**Character Count Verification:**
+- `text/tibetan/`: 1,334,013 Tibetan characters
+- `text/artifacts/`: 1,334,013 Tibetan characters (identical)
+- `text/raw/`: 1,352,617 Tibetan characters (includes 18,604 extra from Patrul Rinpoche)
 
 ### Current Status
 **IMMUTABLE FOUNDATION** - Never modify. Treat as absolute truth (tshad ma).
 
 ### Location
 `text/tibetan/01-01-01-01.txt` through `text/tibetan/02-25-XX-XX.txt` (213 sections)
+
+**Always use:** `text/tibetan/` (clean source without PAGE markers)
+**Reference only:** `text/artifacts/` (original with PAGE markers)
 
 ---
 

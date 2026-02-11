@@ -9,11 +9,12 @@ This is a 9-layer agentic translation project for Longchenpa's "Treasury of the 
 **Structure:** 213 sections across 2 volumes (114 + 99 sections)
 **Format:** Section-based (VV-CC-SS-SS.txt) - Migrated from page-based (PAGE_XXX.txt)
 
-**Last Major Update:** 2026-02-10 
+**Last Major Update:** 2026-02-11 
 - Migrated to `text/` folder with section-based structure
 - Literal layer FROZEN (immutable foundation)
 - Added capitalize.md (capitalization standards)
 - Updated exemplars.md with section mappings
+- **RESTRUCTURED:** Split `text/tibetan/` into clean source + `text/artifacts/` (reference with PAGE markers)
 
 ---
 
@@ -119,7 +120,8 @@ This means chapter page ranges run from the **previous chapter's end marker** to
 │   ├── volume_2/                # [ARCHIVED] Page-based Volume 2 build
 │   └── [archived reports]
 ├── text/                        # PRIMARY BUILD - Section-based structure (213 sections)
-│   ├── tibetan/                 # TSHAD MA - Source text (01-01-01-01.txt, etc.)
+│   ├── tibetan/                 # TSHAD MA - Clean source text (NO PAGE markers/blank lines)
+│   ├── artifacts/               # Original BDRC source with PAGE markers (reference only)
 │   ├── wylie/                   # LAM - Extended Wylie transliteration
 │   ├── literal/                 # Dpyad kyi bshad pa - 1:1 grammatical
 │   ├── liturgical/              # sgrub pa'i gleng gzhi - Vajra speech
@@ -129,6 +131,7 @@ This means chapter page ranges run from the **previous chapter's end marker** to
 │   ├── delusion/                # log pa spang ba - Error detection
 │   ├── cognitive/               # shes pa'i rjes su brjod pa - Translator log
 │   ├── meter/                   # Metrical analysis (VERSE/PROSE/MANTRA)
+│   ├── raw/                     # BDRC source files (UT22920_005_0001/2 - includes unrelated Patrul text)
 │   └── introduction/            # NEW - Chapter introductions (VV-CC-00-00.txt format)
 ```
 
@@ -158,6 +161,56 @@ Each layer folder in `text/` contains:
 - Completion percentages  
 - Stub counts
 - Meter classifications applied
+
+---
+
+## 🆕 TIBETAN SOURCE FILES STRUCTURE (Updated 2026-02-11)
+
+### Dual Tibetan Source System
+
+The project maintains **two versions** of the Tibetan source text:
+
+| Directory | Contents | Use Case | Character Count |
+|-----------|----------|----------|-----------------|
+| `text/tibetan/` | **CLEAN** - No PAGE markers, no blank lines, bracketed line numbers preserved | **PRIMARY SOURCE** for all translation work | 1,334,013 |
+| `text/artifacts/` | Original with PAGE markers (`### PAGE X`) and blank lines | Reference/archive only | 1,334,013 |
+| `text/raw/` | BDRC source files (UT22920_005_0001/2) | Original BDRC import | 1,352,617* |
+
+\* Raw files contain 18,604 extra Tibetan characters from an unrelated text by Patrul Rinpoche (ཀུན་མཁྱེན་བླ་མའི་གསུང་རབ་ལ་བསྔགས་པ) appended to the BDRC source. This has been removed from the clean `text/tibetan/` version.
+
+### File Format Comparison
+
+**text/tibetan/ (CLEAN - use this for work):**
+```
+[1] ༄༅།
+[2] །ཡཱནཱགྲརཏྣཀོཥནཱམབིཛཧཱརམྲ།
+[3] ༄༅།
+```
+
+**text/artifacts/ (with artifacts - reference only):**
+```
+[1] ༄༅།
+[2] །ཡཱནཱགྲརཏྣཀོཥནཱམབིཛཧཱརམྲ།
+
+### PAGE 2
+
+[3] ༄༅།
+```
+
+### Always Use text/tibetan/
+
+All verification scripts, boundary checks, and translation work use `text/tibetan/` (the clean version):
+
+```bash
+# CORRECT - Use clean source:
+cat "/home/opencode/MDZOD/1/text/tibetan/01-01-01-01.txt"
+wc -l "/home/opencode/MDZOD/1/text/tibetan/01-01-01-01.txt"
+
+# Reference only - contains PAGE markers:
+# cat "/home/opencode/MDZOD/1/text/artifacts/01-01-01-01.txt"
+```
+
+**Verification:** All 213 files in both directories contain identical Tibetan character counts (1,334,013 total), confirming no content was lost during cleaning.
 
 ---
 
@@ -389,18 +442,22 @@ When navigating to content:
 
 #### 4. Line Numbering System
 
-All source files in `text/` use bracketed line numbers with continuous line numbering per volume:
+**Clean Source (`text/tibetan/`):**
+All files use bracketed line numbers with continuous numbering per volume:
 ```
 [1] ༄༅།
 [2] །ཐེག་མཆོག་མཛོད་ཀྱི་གླེགས་བམ་དང་པོའོ།
 [3] །
 ```
 
-Line numbers are **continuous within each volume** (not per-section):
-- Volume 1 (text/tibetan/): Lines 1-20,425
-- Volume 2 (text/tibetan/): Lines 1-16,972 (approximately)
+- **Bracketed line numbers preserved:** `[1]`, `[2]`, `[3]`, etc.
+- **PAGE markers removed:** No `### PAGE X` artifacts
+- **Blank lines removed:** Continuous text flow
+- **Line numbers are continuous within each volume** (not per-section):
+  - Volume 1 (text/tibetan/): Lines 1-20,425
+  - Volume 2 (text/tibetan/): Lines 1-16,972 (approximately)
 
-**Note:** While files are now section-based (VV-CC-SS-SS.txt), line numbering preserves the original volume-wide continuity for cross-referencing.
+**Note:** The original files with PAGE markers are preserved in `text/artifacts/` for reference, but all work uses the clean `text/tibetan/` version.
 
 ---
 
@@ -599,7 +656,8 @@ grep -A 25 "## Chapter 4" markers.md
 ### 10. Preserve Source Integrity
 
 **NEVER modify:**
-- text/tibetan/ (source text - TSHAD MA)
+- text/tibetan/ (source text - TSHAD MA - clean version)
+- text/artifacts/ (original source with PAGE markers - reference only)
 - text/wylie/ (transliteration - LAM)
 - backup/volume_*/ (archived page-based builds)
 
@@ -653,13 +711,17 @@ Examples:
 
 ---
 
-**Navigation Guide Version:** 4.0  
-**Last Updated:** 2026-02-10  
-**Major Change:** Migrated to `text/` folder with section-based structure  
+**Navigation Guide Version:** 4.1  
+**Last Updated:** 2026-02-11  
+**Major Changes:** 
+- Migrated to `text/` folder with section-based structure
+- **RESTRUCTURED:** `text/tibetan/` (clean source) + `text/artifacts/` (PAGE markers)
+- Verified: 1,334,013 Tibetan characters (identical across all source versions)  
 **Primary Build:** `text/` folder (213 sections in VV-CC-SS-SS.txt format)  
 **Archived:** `backup/volume_1/` and `backup/volume_2/` (page-based builds)  
+**Source Structure:** Clean `text/tibetan/` (use this) + `text/artifacts/` (reference) + `text/raw/` (BDRC import)  
 **New Layer:** `text/meter/` (metrical analysis for all 213 sections)  
-**Structural Documentation:** Khenko-Grade Verified ✅  
+**Structural Documentation:** Khenpo-Grade Verified ✅  
 **Critical Path:** 1,339 sections remaining
 
 ---
