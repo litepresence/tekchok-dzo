@@ -42,6 +42,269 @@ Original PAGE_ exemplars listed below are preserved in `backup/volume_1/` and `b
 
 ## VOLUME 1 EXEMPLARS
 
+### LITURGICAL LAYER - A++ GOLD STANDARD EXEMPLARS
+
+**Based on comprehensive review of Chapters 1-4 & 8 (2026-02-11)**
+
+The following sections demonstrate **A++ Gold Standard** liturgical translation quality:
+
+---
+
+#### **EXEMPLAR 1: Majestic Invocation & Prostration (Chapter 1)**
+**File:** `01-01-01-01.txt` | **Lines:** 1-23
+**Qualities:** Sanskrit precision, rhythmic homage, complete sentences
+
+```
+<ornament> [1] Yānāgratnakōśanāmavajrāhāra.
+<ornament> [2] Thus abides the Treasury of Supreme Vehicle, the Jewel Treasure.
+<ornament> [3] In the language of India:
+<ornament> [4] Yānāgratnakōśanāma
+<ornament> [5] In the language of Tibet:
+<ornament> [6] Treasury of Supreme Vehicle
+<ornament> [7] To Glorious Samantabhadra I prostrate.
+[8] Samantabhadra, whose innate nature holds the five perfections, complete in dominion,
+[9] Together with the regent of the five families, the Great Ocean, the sublime guide, the Teacher,
+[10] The five vidyādharas, hosts of the aural lineage, ornament of the three worlds together with the gods,
+[11] To that crown of all joy, the glorious source of excellence and auspiciousness, I offer homage.
+```
+
+**Why Exemplary:**
+- Proper XML tagging (`<ornament>`) for structural elements
+- Majestic Vajra Speech cadence with parallel structure
+- Technical precision in Sanskrit transliteration
+- Full, grammatically complete sentences
+- Rich, elevated diction appropriate to tantric literature
+
+---
+
+#### **EXEMPLAR 2: Poetic Doctrinal Invocation (Chapter 1)**
+**File:** `01-01-01-01.txt` | **Lines:** 16-23
+**Qualities:** Metaphorical richness, flowing meter, tantric register
+
+```
+[16] From the Dharma-sun, stainless, vast, immeasurable, ornament of space,
+[17] The unsurpassed secret vajra vehicle, supreme among all, glorious as the wish-fulfilling jewel,
+[18] Among these, the most supreme, the holy nature, the pinnacle of the Great Perfection,
+[19] Revealing the essence of suchness directly—by that, this day, protect the lotus-throne of my mind.
+[20] The place of the teaching-ocean, the throne of the makara-holder,
+[21] The sphere of the Vajra-essence, supreme among all,
+[22] Clearly revealing the profound and vast abodes—
+[23] The explanation of the Treasury of Supreme Vehicle I shall compose.
+```
+
+**Why Exemplary:**
+- Poetic, flowing prose with consistent meter
+- Rich metaphorical language ("Dharma-sun," "wish-fulfilling jewel," "lotus-throne")
+- Proper use of em-dashes for parenthetical expressions
+- Majestic invocation appropriate to tantric literature
+- Complete sentences with proper punctuation
+
+---
+
+#### **EXEMPLAR 3: Systematic Enumerative Structure (Chapter 2)**
+**File:** `01-02-01-01.txt` | **Lines:** 512-522
+**Qualities:** Parallel construction, technical precision, clear hierarchy
+
+```
+[512] The body's four external activities concern abandoning the four rivers of suffering:
+[513] The river of birth, wherein beings enter conditioned existence,
+[514] The river of marriage, binding beings to cyclic attachment,
+[515] The river of skill competition, generating pride and conflict,
+[516] The river of renunciation, even attachment to abandonment itself.
+[517] Through piṇḍapāta engagement, these are transcended.
+[518] The four internal activities:
+[519] Abandoning attachment to retinue and sensory enjoyment,
+[520] Releasing the great horse of discursive thought,
+[521] Abandoning the chariot of conceptual elaboration,
+[522] Going to the essence of bodhi beyond all extremes,
+```
+
+**Why Exemplary:**
+- Clear enumerative structure with consistent syntax
+- Parallel construction ("The river of...")
+- Technical precision in Buddhist terminology (piṇḍapāta)
+- Proper use of colons and dashes for list structures
+- Complete, well-formed sentences throughout
+
+---
+
+#### **EXEMPLAR 4: Technical Enumeration with Calculations (Chapter 2)**
+**File:** `01-02-02-02.txt` | **Lines:** 1424-1429
+**Qualities:** Precise numerics, comparative structure, logical flow
+
+```
+[1424] First, the eight hot hells: The Reviving Hell—human years fifty constitute one day for the Four Great Kings,
+[1425] Twelve months make one year; calculated thus, five hundred years equal one day in Rīrava, the Reviving Hell, enduring five hundred of its own years.
+[1426] Likewise, one thousand years of the Thirty-Three Gods equal one day in Kālakāñja, calculated thus, one thousand of its own years,
+[1427] Two thousand for Tuṣita equal one day in Saṃghāta, thus calculated, two thousand of its own years,
+[1428] Four thousand for Nirmanarati equal one day in Raurava, calculated thus, four thousand of its own years,
+[1429] Eight thousand for Paranirmitavaśavartin equal one day in Mahāraurava, thus calculated, sixteen thousand of its own years,
+```
+
+**Why Exemplary:**
+- Precise technical enumeration with calculations
+- Consistent comparative structure
+- Proper handling of time calculations
+- Sanskrit terms correctly transliterated (Rīrava, Kālakāñja, Saṃghāta)
+- Logical flow from premise to conclusion
+
+---
+
+#### **EXEMPLAR 5: Abhidharma Philosophical Exposition (Chapter 3)**
+**File:** `01-03-01-01.txt` | **Lines:** 1582-1598
+**Qualities:** Formal structure, parallel grammar, systematic presentation
+
+```
+[1582] The essential nature of basis and aggregates, wherein all conditioned phenomena are gathered and arranged as the support for cyclic existence and liberation alike.
+[1583] The distinctive characteristics of the forms and sense-sources, which serve as the gateways through which consciousness engages with its objects.
+[1584] The essential nature of the powers that grasp and apprehend, being the active forces that dominate their respective spheres of engagement.
+[1585] The various forms of objects and their possessors, comprising the entire field of what is grasped and that which grasps.
+[1586] First, regarding the elements: Due to their vast and extensive meaning, embracing all that can be known and experienced, these are termed "elements."
+...
+[1594] Earth abides with characteristics that are firm and solid, providing the foundation upon which all rests.
+[1595] Water abides with characteristics that are moist and flowing, cohering and holding all things together.
+[1596] Fire abides with characteristics that are hot and burning, ripening and transforming all that it touches.
+[1597] Wind abides with characteristics that move and uplift, animating and sustaining all activity.
+[1598] Space abides with characteristics that are vast and open, accommodating all without obstruction.
+```
+
+**Why Exemplary:**
+- Formal, systematic philosophical exposition
+- Parallel grammatical structures ("abides with characteristics...")
+- Precise Abhidharma terminology
+- Consistent use of relative clauses
+- Complete sentences with proper subject-verb agreement
+
+---
+
+#### **EXEMPLAR 6: Philosophical Doxography with XML Tagging (Chapter 4)**
+**File:** `01-04-01-01.txt` | **Lines:** 1902-1909
+**Qualities:** Proper tagging, hierarchical structure, technical precision
+
+```
+[1902] The presentation of mistaken vehicles is thus:
+[1903] These proponents hold the three hundred sixty components of the conditioned collection.
+[1904] This category has two principal aspects:
+<list> [1905] First: the generally taught self-nature of eternalism and nihilism—the two extreme views;
+<list> [1906] Second: specifically explained as the enumerated types that branch from these.
+[1907] Regarding the first, these two extremes:
+<list> [1908] The eternalist view, asserting permanent existence;
+<list> [1909] And the nihilist view, asserting complete non-existence.
+```
+
+**Why Exemplary:**
+- Proper use of `<list>` XML tags for enumerated items
+- Clear hierarchical structure (category → aspects → extremes)
+- Technical philosophical terminology precisely rendered
+- Consistent colon-semicolon usage for lists
+- Formal academic tone appropriate for doxography
+
+---
+
+#### **EXEMPLAR 7: Concise Vehicle System Summaries (Chapter 4)**
+**File:** `01-04-02-01.txt` | **Lines:** 2567-2584
+**Qualities:** Parallel formula, technical precision, balanced structure
+
+```
+[2567] Herein, the Prajñāpāramitā system:
+[2576] Realizing the three circles—subject, object, and action—as empty of inherent existence,
+[2577] Perfecting the six transcendent perfections,
+[2578] Attaining buddhahood through traversing the five paths and ten grounds.
+[2579] Thus is explained the Prajñāpāramitā system.
+[2580] Herein, the Tathāgatagarbha system:
+[2581] Recognizing the Buddha-nature endowed with all virtues as existent from the beginning,
+[2582] Purifying adventitious defilements that obscure it,
+[2583] Revealing the essence spontaneously present as the result.
+[2584] Thus is explained the Tathāgatagarbha system.
+```
+
+**Why Exemplary:**
+- Concise, precise philosophical summary
+- Consistent "Herein..." formula introducing sections
+- Proper use of em-dashes
+- Technical terms (Prajñāpāramitā, Tathāgatagarbha) correctly handled
+- Parallel structure in system descriptions
+- Balanced introduction-explanation-conclusion structure
+
+---
+
+#### **EXEMPLAR 8: Dzogchen Basis Organization (Chapter 8)**
+**File:** `01-08-01-01.txt` | **Lines:** 10472-10482
+**Qualities:** Complex exposition, parallel phrasing, organizational clarity
+
+```
+[10472] The general presentation of the nature of the seven bases upon which views are established,
+[10473] Together with the detailed explanation of the supreme basis that transcends all extremes.
+[10474] First, this extensive topic comprises three principal divisions:
+<list> [10475] First: a brief presentation of the essential nature of the seven bases,
+<list> [10476] Second: demonstrating how the seven bases that fall into conceptual extremes are fundamentally faulty,
+<list> [10477] Third: establishing the non-dual basis of primordial purity and spontaneous presence as the authentic tradition of one's own mind.
+[10479] These seven positions are held individually by those who propound various philosophical tenets,
+<list> [10480] The first: the view that holds the basis as primordially pure from the very beginning,
+<list> [10481] The second: the view that holds the basis as spontaneously present with all qualities complete,
+<list> [10482] The third: the view that holds the basis as uncertain and indeterminate,
+```
+
+**Why Exemplary:**
+- Excellent organizational structure with `<list>` tags
+- Complex philosophical exposition rendered clearly
+- Consistent parallel phrasing ("the view that holds...")
+- Proper grammatical completeness
+- Academic precision in tenet presentation
+
+---
+
+#### **EXEMPLAR 9: Dzogchen Technical Description (Chapter 8)**
+**File:** `01-08-07-01.txt` | **Lines:** 10834-10839
+**Qualities:** Sophisticated terminology, complex subordination, precise triad
+
+```
+[10834] Regarding the first: the beginning basis of all—the essence, primordially pure like a conch shell pure and unmixed with stains; the nature, spontaneously accomplished, not established as any limited thing or mark; inside the white mandala, having subtle self-light as depth-clarity shining, although conditions not existing, therefore not appearing outwardly to deluded perception—
+[10835] Outside, limitless, unobstructed and unbound, the youth vase body abides as the actual state of reality itself.
+[10836] Because the essence is primordially pure, it is empty of inherent existence;
+[10837] Although no thing exists as real, the subtle awareness with primordial resonance and self-light is not restricted by any condition, naturally self-possessed.
+[10838] Because the nature is spontaneously accomplished, although abiding as the arise-base of all appearances everywhere,
+[10839] In its own face, outwardly clear, light and body and color with limiting marks are not appearing as real.
+```
+
+**Why Exemplary:**
+- Sophisticated Dzogchen terminology rendered precisely
+- Complex sentence structures with proper subordination
+- Poetic yet technical description of the basis
+- Proper use of semicolons for related clauses
+- Clear distinction of "essence, nature, compassion" triad
+
+---
+
+#### **EXEMPLAR 10: Poetic Simile Series (Chapter 8)**
+**File:** `01-08-07-01.txt` | **Lines:** 10883-10895
+**Qualities:** Beautiful imagery, parallel structure, proper list tagging
+
+```
+[10883] Natural expression appearance is:
+<list> [10884] Like vast space appearing, direction-falling without any limit;
+<list> [10885] Like clear water appearing, thing to grasp without any nature;
+<list> [10886] Like deep-blue lapis appearing, not divided by part or section;
+<list> [10887] Like white conch appearing, order and sequence not holding;
+<list> [10888] Like yellow gold appearing, qualities spontaneously complete;
+<list> [10889] Like red ruby appearing, clarity and brightness not ceasing;
+<list> [10890] Like green emerald appearing, qualities spontaneously perfect.
+[10891] Five colors themselves abiding in unity, color not holding as separate great beyond limit.
+[10892] Rolled-up potential, yet shape without fixed form.
+[10893] Not ceasing in manifestation, yet condition without dependence.
+[10894] Not pervading partially, yet great self-resonance everywhere.
+[10895] Self-clear luminosity, outer inner together with as one.
+```
+
+**Why Exemplary:**
+- Beautiful simile series with parallel structure
+- Proper use of `<list>` tags for poetic enumeration
+- Majestic Dzogchen imagery rendered with precision
+- Consistent "Like... appearing" formula
+- Proper semicolon usage in list items
+
+---
+
 ### LITERAL LAYER
 
 *Location: backup/volume_1/literal/* - Apply to: text/literal/
