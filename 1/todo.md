@@ -1,8 +1,10 @@
 # Translation Quality TODO List
 
 **Document Type:** Quality Assurance Tracking  
-**Last Updated:** 2026-02-11  
+**Last Updated:** 2026-02-11 (Audit completed)  
 **Status:** Living document - update as sections are revised
+
+**CRITICAL AUDIT FINDING:** Line count comparison with Tibetan sources reveals significant missing content. See "MISSING LINES AUDIT" section below.
 
 **ACQUAINTANCE:** This document catalogs problematic sections across all translation layers that require revision to meet A++ Gold Standard. Use this to prioritize work and track progress.
 
@@ -255,6 +257,123 @@
 **Files Affected:** Multiple
 **Pattern:** Some lists use `<list>`, some don't
 **Fix:** Standardize tagging across all files
+
+---
+
+## MISSING LINES AUDIT (2026-02-11)
+
+**CRITICAL FINDING:** Line count comparison between Tibetan sources and liturgical translations reveals significant missing content across multiple chapters.
+
+### **CHAPTER 1: Missing 59 Lines**
+**Tibetan:** 706 lines | **Liturgical:** 647 lines | **Missing:** 59 lines
+- 01-01-01-01.txt: Tibetan 194, Liturgical 178 (-16 lines)
+- 01-01-02-01.txt: Tibetan 451, Liturgical 413 (-38 lines)
+- 01-01-03-01.txt: Tibetan 61, Liturgical 56 (-5 lines)
+
+### **CHAPTER 2: Missing 121 Lines**
+**Tibetan:** 1067 lines | **Liturgical:** 946 lines | **Missing:** 121 lines
+- 01-02-01-01.txt: Tibetan 281, Liturgical 257 (-24 lines)
+- 01-02-01-02.txt: Tibetan 113, Liturgical 105 (-8 lines)
+- 01-02-01-05.txt: Tibetan 493, Liturgical 424 (-69 lines)
+- 01-02-02-01.txt: Tibetan 43, Liturgical 39 (-4 lines)
+- 01-02-02-02.txt: Tibetan 135, Liturgical 119 (-16 lines)
+
+### **CHAPTER 3: Missing 36 Lines**
+**Tibetan:** 356 lines | **Liturgical:** 320 lines | **Missing:** 36 lines
+- 01-03-01-01.txt: Tibetan 97, Liturgical 89 (-8 lines)
+- 01-03-02-01.txt: Tibetan 69, Liturgical 61 (-8 lines)
+- 01-03-03-01.txt: Tibetan 190, Liturgical 170 (-20 lines)
+
+### **CHAPTER 4: Status OK (Liturgical has 18 extra lines)**
+**Tibetan:** 2490 lines | **Liturgical:** 2508 lines | **Note:** Extra lines may be duplicates or formatting
+
+### **CHAPTER 5: Missing 72 Lines**
+**Tibetan:** 2861 lines | **Liturgical:** 2789 lines (excluding temp file) | **Missing:** 72 lines
+- 01-05-01-01.txt: Tibetan 119, Liturgical 117 (-2 lines)
+- 01-05-02-01.txt: Tibetan 392, Liturgical 375 (-17 lines)
+- 01-05-03-01.txt: Tibetan 229, Liturgical 218 (-11 lines)
+- 01-05-04-01.txt: Tibetan 1708, Liturgical 1674 (-34 lines)
+- 01-05-04-06.txt: Tibetan 363, Liturgical 356 (-7 lines)
+- 01-05-05-01.txt: Tibetan 46, Liturgical 45 (-1 line)
+
+### **CHAPTER 8: Status OK (4 extra lines)**
+**Tibetan:** 935 lines | **Liturgical:** 939 lines | **Status:** Close enough
+
+### **CHAPTER 9: CRITICAL - Missing 859 Lines**
+**Tibetan:** 1277 lines | **Liturgical:** 418 lines | **Missing:** 859 lines (67% missing!)
+- 01-09-01-01.txt: **Tibetan 1251, Liturgical 392** (-859 lines)
+- 01-09-02-01.txt: Tibetan 26, Liturgical 26 (match)
+
+**URGENT:** Chapter 9 section 1 is severely incomplete. Only 31% translated!
+
+### **CHAPTER 10: Has 124 Extra Lines**
+**Tibetan:** 664 lines | **Liturgical:** 788 lines | **Note:** Extra lines may be duplicates
+
+### **CHAPTER 11: Missing 28 Lines**
+**Tibetan:** 815 lines | **Liturgical:** 787 lines | **Missing:** 28 lines
+- 01-11-01-01.txt: Tibetan 372, Liturgical 358 (-14 lines)
+- 01-11-02-01.txt: Tibetan 443, Liturgical 429 (-14 lines)
+
+### **CHAPTER 12: CRITICAL - Missing 1,011 Lines**
+**Tibetan:** 2374 lines | **Liturgical:** 1363 lines | **Missing:** 1011 lines (43% missing!)
+- 01-12-01-01.txt: Tibetan 765, Liturgical 559 (-206 lines)
+- 01-12-02-01.txt: Tibetan 303, Liturgical 210 (-93 lines)
+- 01-12-03-01.txt: Tibetan 237, Liturgical 118 (-119 lines)
+- 01-12-04-01.txt: Tibetan 399, Liturgical 170 (-229 lines)
+- 01-12-05-01.txt: Tibetan 234, Liturgical 122 (-112 lines)
+- 01-12-05-02.txt: Tibetan 156, Liturgical 56 (-100 lines)
+- 01-12-07-01.txt: Tibetan 271, Liturgical 116 (-155 lines)
+
+**URGENT:** Chapter 12 is severely incomplete. Nearly half the content missing!
+
+### **CHAPTER 13: Missing 432 Lines**
+**Tibetan:** 1456 lines | **Liturgical:** 1024 lines | **Missing:** 432 lines
+- 01-13-01-01.txt: Tibetan 281, Liturgical 280 (-1 line)
+- 01-13-02-01.txt: Tibetan 225, Liturgical 225 (match)
+- 01-13-03-01.txt: Tibetan 310, Liturgical 308 (-2 lines)
+- 01-13-04-01.txt: Tibetan 105, Liturgical 103 (-2 lines)
+- 01-13-05-01.txt: **Tibetan 222, Liturgical 49** (-173 lines)
+- 01-13-06-01.txt: **Tibetan 313, Liturgical 59** (-254 lines)
+
+**URGENT:** Sections 5 and 6 severely incomplete!
+
+### **CHAPTER 14: Status OK**
+**Tibetan:** 3330 lines | **Liturgical:** 3330 lines | **Status:** Perfect match
+
+### **CHAPTERS 15-17: Missing 57 Lines**
+**Tibetan:** 4253 lines | **Liturgical:** 4196 lines | **Missing:** 57 lines
+- Various sections need verification
+
+---
+
+## AUDIT SUMMARY
+
+| Chapter | Tibetan | Liturgical | Missing | Status |
+|---------|---------|------------|---------|--------|
+| 1 | 706 | 647 | 59 lines | ⚠️ Needs work |
+| 2 | 1067 | 946 | 121 lines | ⚠️ Needs work |
+| 3 | 356 | 320 | 36 lines | ⚠️ Needs work |
+| 4 | 2490 | 2508 | -18 lines | ✅ OK (duplicates?) |
+| 5 | 2861 | 2789 | 72 lines | ⚠️ Needs work |
+| 8 | 935 | 939 | -4 lines | ✅ OK |
+| 9 | 1277 | 418 | 859 lines | 🔴 CRITICAL |
+| 10 | 664 | 788 | -124 lines | ✅ Check duplicates |
+| 11 | 815 | 787 | 28 lines | ⚠️ Needs work |
+| 12 | 2374 | 1363 | 1011 lines | 🔴 CRITICAL |
+| 13 | 1456 | 1024 | 432 lines | 🔴 CRITICAL |
+| 14 | 3330 | 3330 | 0 lines | ✅ Perfect |
+| 15-17 | 4253 | 4196 | 57 lines | ⚠️ Verify |
+| **TOTAL** | **25,844** | **23,585** | **2,259 lines** | **9% missing** |
+
+**CRITICAL FILES REQUIRING IMMEDIATE ATTENTION:**
+1. **01-09-01-01.txt** - Missing 859 lines (67% incomplete)
+2. **01-12-04-01.txt** - Missing 229 lines
+3. **01-12-01-01.txt** - Missing 206 lines
+4. **01-12-05-02.txt** - Missing 100 lines
+5. **01-13-06-01.txt** - Missing 254 lines
+6. **01-13-05-01.txt** - Missing 173 lines
+
+**TOTAL MISSING:** 2,259 lines across all chapters (approximately 9% of total content)
 
 ---
 
