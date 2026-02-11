@@ -44,7 +44,6 @@ All agents working on interpretive layers (Literal, Liturgical, Commentary, Scho
 
 ### **exemplars.md** - Quality Standards
 - Contains best-practice examples for each layer
-- Maps legacy PAGE_ files to current VV-CC-SS-SS.txt sections
 - Study exemplars before generating content
 - Generate to exemplar standard, not minimum
 
@@ -213,9 +212,9 @@ Rest in the expanse of rigpa; let words emerge as the spontaneous display of the
 
 1. **Study the Exemplar:**
    - Read `exemplars.md` to identify the relevant exemplar section
-   - Read the exemplar file in `backup/volume_1/liturgical/` (e.g., PAGE_010.txt)
+   - Read the exemplar file using VV-CC-SS-SS.txt format (e.g., 01-01-02-01.txt)
    - Study its voice, cadence, vocabulary, and structure
-   - Note: PAGE_010.txt ≈ 01-01-02-01.txt, PAGE_025.txt ≈ 01-02-01-05.txt, etc.
+   - Note: All exemplars use VV-CC-SS-SS.txt naming (Volume-Chapter-Section-Subsection)
 
 2. **Analyze the Source:**
    - Read the Tibetan section thoroughly
@@ -409,7 +408,7 @@ Render strictly as a 1:1 liturgical mechanical mapping of the source TIBETAN lin
 **References:**
 - **dictionary.md** - Tibetan-English terminology standards
 - **capitalize.md** - Capitalization standards (STRICT enforcement)
-- **exemplars.md** - Best-practice reference sections (study PAGE_141.txt, etc.)
+- **exemplars.md** - Best-practice reference sections
 
 ## WARNING:
 (FOR AGENTS READING THIS LAYER)
@@ -433,9 +432,8 @@ It is an interpretive layer built by LLM inference models and may still contain 
 
 1. **Study the Exemplar:**
    - Read `exemplars.md` to identify relevant exemplar sections
-   - Study `backup/volume_1/commentary/PAGE_141.txt` (primary exemplar)
+   - Study exemplar files in VV-CC-SS-SS.txt format
    - Note Patrul Rinpoche voice characteristics: earthy metaphors, direct "you" address, "Emaho!" exclamations
-   - PAGE_141.txt ≈ 01-04-12-01.txt
 
 2. **Analyze the Source:**
    - Read Tibetan section thoroughly
@@ -443,7 +441,7 @@ It is an interpretive layer built by LLM inference models and may still contain 
    - Note potential confusion points for practitioners
 
 3. **Generate to Exemplar Standard:**
-   - Match PAGE_141.txt quality and voice
+   - Match exemplar quality and voice
    - Line-by-line engagement with text
    - Direct pointing that catalyzes recognition
 
@@ -476,17 +474,17 @@ Offer commentary on this autocommentary. This is a very dense work that has defi
 7. **Verbose:** Be as verbose as necessary to seal the deal yet leave a silence at the end of your statements that triggers recognition.  
 
 ### EXAMPLES
-	Never repeat these exact phrasing examples given in this prompt in your page output to prevent repetitive outputs.  
+	Never repeat these exact phrasing examples given in this prompt to prevent repetitive outputs.  
 
 ### NEGATIVE CONSTRAINTS 
 - NO contrived phrases like "empty yet luminous" or triad formulas that belong in the liturgical layer; teach what empty and luminous are. 
 - NO repetitive parallelism for effect.  
 - NO scholarly hedging ("This could mean...").  
-- Stick to text specifics; no wandering into general advice or topics outside of the domain of the PAGE unless the page topic bleeds into the next page.  
+- Stick to text specifics; no wandering into general advice or topics outside of the current section's domain unless the topic naturally continues into the next section.  
 - NO advice without certainty that its sound and grounded in the lineage.  
 
 ### EXAMPLE OUTPUT FORMAT  
-Note: Line number ranges may overlap, may be a single line, and may if necessary bleed into to following PAGE(s).
+Note: Line number ranges may overlap, may be a single line, and may if necessary extend into following sections.
 
 [line number range eg. 101-122] <comment that thrusts the practitioner into the heart of the teaching and catalyzes realization>
 [next range eg. 117-118] <etc.>
@@ -515,7 +513,7 @@ This is an interpretive layer built by LLM inference models and may contain erro
 
 **Character:** Eminent Tibetologist-Philologist-Linguist and Dzogchen Scholar.
 **Style:** Analytical, Structurally Precise, Historically Grounded, Third-Person Objective.
-**Location:** Individual page files in the `scholar` subfolder.
+**Location:** Individual section files in `text/scholar/` using VV-CC-SS-SS.txt format (213 sections).
 
 ### CHARACTER ACTIVATION
 You are a senior Tibetologist with mastery of classical Tibetan grammar (*sum rtags*, *thug rtags*), Nyingma doxography, and the *mdzod* genre's architectural conventions. Your task is to produce a "Scholarly Apparatus" for Longchenpa's *Theg mchog rin po che'i mdzod*. You treat the text as both sacred literature and a rigorously structured philosophical system. Your analysis must illuminate *how* Longchenpa engineers realization through textual architecture. **You are an observer and a mapmaker, not a practitioner.** Do not offer practice advice; offer structural and historical clarity.
@@ -523,7 +521,7 @@ You are a senior Tibetologist with mastery of classical Tibetan grammar (*sum rt
 **Standards:**
 - dictionary.md - Terminology standards for consistent technical usage
 - capitalize.md - Capitalization rules (STRICT enforcement)
-- exemplars.md - Study PAGE_199.txt (Volume 1) and PAGE_002.txt (Volume 2) for structural patterns
+- exemplars.md - Study exemplar sections for structural patterns
 
 ### EXEMPLAR WORKFLOW (MANDATORY)
 
@@ -531,10 +529,9 @@ You are a senior Tibetologist with mastery of classical Tibetan grammar (*sum rt
 
 1. **Study the Exemplars:**
    - Read `exemplars.md` for Scholar layer exemplars
-   - Study `backup/volume_1/scholar/PAGE_199.txt` (Volume 1 exemplar, 292 lines)
-   - Study `backup/volume_2/scholar/PAGE_002.txt` (Volume 2 exemplar, 119 lines)
+   - Study exemplar sections in VV-CC-SS-SS.txt format
    - Note Four Pillars structure: [STRUCTURE], [PHILOLOGY], [CONTEXT], [CONCEPT]
-   - PAGE_199.txt ≈ 01-07-05-01.txt, PAGE_002.txt ≈ 02-15-02-01.txt
+   - Exemplar sections: 01-07-05-01.txt (Volume 1), 02-15-02-01.txt (Volume 2)
 
 2. **Analyze the Source:**
    - Read Tibetan section with Wylie structural guide
@@ -542,7 +539,7 @@ You are a senior Tibetologist with mastery of classical Tibetan grammar (*sum rt
    - Note citations, technical terms, structural markers
 
 3. **Generate to Exemplar Standard:**
-   - Match PAGE_199.txt depth and rigor
+   - Match exemplar depth and rigor
    - Use Wylie for technical terms
    - Apply Four Pillars tagging
 
@@ -562,7 +559,7 @@ You are a senior Tibetologist with mastery of classical Tibetan grammar (*sum rt
 - Study exemplars.md for Four Pillars structure and academic voice
 
 ### FOUR PILLARS OF ANALYSIS
-Instead of trying to do everything at once, prioritize your analysis based on the content of the page. Apply these four lenses:
+Instead of trying to do everything at once, prioritize your analysis based on the content of the section. Apply these four lenses:
 
 **PILLAR 1: ARCHITECTURAL MAPPING (Structural Analysis)**
 Map the "skeleton" of the text.

@@ -100,7 +100,7 @@ The Wylie layer is the *Lam* (Bridge) between the script and translation. Mechan
 
 **Protocol:** Treat this as a structural reference for syllable separation and parsing. Do not change the Wylie layer. If the Tibetan and Wylie disagree, the Tibetan is correct, and the Wylie should be noted as a reference only.
 
-**Location:** Individual page files in the `wylie` subfolder.
+**Location:** Individual section files in `text/wylie/` using VV-CC-SS-SS.txt format (213 sections).
 
 ### Processing Notes
 The Wylie layer was generated using the **pyewts** Python library:
@@ -127,7 +127,7 @@ The Wylie layer was generated using the **pyewts** Python library:
 
 # THE LITERAL LAYER **Dpyad kyi bshad pa** 
 
-**Location:** Individual page files in the `literal` subfolder.
+**Location:** Individual section files in `text/literal/` using VV-CC-SS-SS.txt format (213 sections).
 
 The literal layer is a *Dpyad kyi bshad pa* (Analytical Translation) produced by an LLM. It serves as a structural scaffold for the subsequent layers. 
 
