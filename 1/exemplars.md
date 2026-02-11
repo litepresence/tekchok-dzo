@@ -16,8 +16,8 @@ The project has migrated from **page-based** files (PAGE_XXX.txt in volume_1/, v
 - **SS:** Section number (01-20+)
 - **SS:** Subsection (01, 02, etc.)
 
-**Archive Reference:**
-Original PAGE_ exemplars listed below are preserved in `backup/volume_1/` and `backup/volume_2/`. Use these as templates, applying their patterns to corresponding sections in `text/`.
+**Format Standard:**
+All exemplars use the section-based format (`VV-CC-SS-SS.txt`) with line numbers: `[number] <xml_tag> content`
 
 ## Selection Criteria
 - **Literal Layer:** Strictest adherence to 1:1 word order, particle precision, no articles
@@ -30,13 +30,14 @@ Original PAGE_ exemplars listed below are preserved in `backup/volume_1/` and `b
 ## 📍 LOCATION REFERENCE
 
 **Current Structure (text/ folder):**
-- All exemplars should be referenced in `backup/volume_X/[layer]/` (page-based originals)
-- Apply patterns to corresponding sections in `text/[layer]/` (section-based current)
+- All exemplars are located in `text/[layer]/VV-CC-SS-SS.txt`
+- Reference these directly for translation patterns and voice guidance
 
-**Section Equivalents:**
-- PAGE_010.txt (backup/volume_1/) ≈ 01-01-02-01.txt (text/)
-- PAGE_141.txt (backup/volume_1/) ≈ 01-04-12-01.txt (text/)
-- PAGE_001.txt V2 (backup/volume_2/) ≈ 02-15-01-01.txt (text/)
+**File Format:** `text/[layer]/VV-CC-SS-SS.txt`
+- VV = Volume (01 or 02)
+- CC = Chapter (01-25)
+- SS = Section number
+- SS = Subsection
 
 ---
 
