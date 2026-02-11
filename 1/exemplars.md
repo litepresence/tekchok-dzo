@@ -525,30 +525,36 @@ The Commentary layer quality is OUTSTANDING across all sampled pages. The Patrul
 9. **PAGE 199.txt** - Three times majestic
 10. **PAGE 241.txt** - Signs and karma clarity
 
-**NEW EXEMPLAR STANDARD - Chapter 25: Spontaneous Fruition (February 2026):**
+#### **NEW EXEMPLAR: Chapter 24 - Natural Emanation Body Fields** ⭐⭐⭐
+**File:** `02-24-01-01.txt` | **Lines:** 360
+**Tibetan Lines:** 15275-15634
+**Upgraded:** 2026-02-11
 
-11. **02-25-01-01.txt through 02-25-07-01.txt** - **SUPREME EXEMPLAR** - Fruition chapter complete upgrade
-    - **Scope:** 810+ lines across 8 sections (lines 15635-17097)
-    - **<tantra> Tags:** 398 instances - most comprehensive scripture tagging in project
-    - **<list> Tags:** 25+ enumerated classifications
-    - **Qualities:** 
-      - Majestic Vajra Speech cadence throughout
-      - Complete sentence architecture with sophisticated punctuation
-      - Technical precision: Sanskrit diacritics (kāya, Dharmakāya, saṃbhoga, etc.)
-      - Complex doctrinal exposition rendered with clarity
-      - Integration of nine tantra sources with proper attribution
-    - **Content Coverage:**
-      - Complete five-kāya taxonomy (single through five)
-      - Three-wisdom classification system
-      - Ground-path-fruition nonduality
-      - Dissolution and liberation processes
-      - Body-speech-mind-qualities-activities fivefold perfection
-    - **Why Supreme Exemplar:** Sets new benchmark for doctrinal chapters—demonstrates how to render complex Tibetan philosophical taxonomy into elevated English prose without losing technical precision or majesty
-    - **Reference Sections:**
-      - 02-25-01-01.txt: Liberation into Expanse (15635-16328) - Dissolution poetry
-      - 02-25-02-01.txt: Kāya classification (16329-16405) - Taxonomic elegance  
-      - 02-25-04-01.txt: Dharma-kāya fields (16409-16515) - Definitional precision
-      - 02-25-07-01.txt: Five completenesses (16972-17097) - Synthesis and culmination
+**Qualities:**
+- **Vajra Speech cadence:** Elevated, chantable prose with consistent rhythm
+- **Technical precision:** "dharma-nature bardo," "emanation-body fields," "twofold purity"
+- **Verse formatting:** Proper `<verse>` XML tags for tantric citations
+- **Majestic diction:** "Recognition dawns," "miraculously arise," "exhale into"
+- **Concise elegance:** Tightened prose without losing doctrinal depth
+- **Parallel structures:** Consistent syntax for enumerations
+
+**Sample Excerpts:**
+```
+[15275] Those of final faculties—beings most refined—or those lesser 
+who yet failed to recognize truth when dharma-nature bardo arose before them:
+[15276] When the path appears within the becoming bardo, dreamlike,
+[15277] Recognition dawns: "I have died."
+```
+
+**Why Exemplary:**
+- Demonstrates Volume 2 liturgical excellence matching Volume 1 standards
+- 360 lines of consistent Vajra Speech quality throughout
+- Proper balance of majesty and metaphysical precision
+- Technical terminology consistently rendered
+- Chantable verse sections with proper meter
+- Concise without being terse; elevated without being flowery
+
+**Use For:** Template for all Volume 2 liturgical sections requiring full exposition
 
 ### COMMENTARY LAYER
 
