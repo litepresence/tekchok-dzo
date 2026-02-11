@@ -304,7 +304,8 @@ Per `prompt.md`, check `text/meter/` before writing:
 - ✅ Total Files: 213 (was 257, now matching Tibetan)
 - ✅ Stub Files: 0 (verified - all 32 were legitimately short)
 - ✅ Severely Deficient: 0 (01-06-02-01.txt - **COMPLETED** with 1,015 lines)
-- Line Count Issues: 19 (10 excessive + 9 over-expanded)
+- ✅ Line Count Issues: 0 (all 19 files fixed with 1:1 correspondence)
+- 🟡 Vajra Speech Upgrade: In progress (6 of 20 files upgraded to exemplar quality)
 - XML Tagging: In progress (757 tags verified in 01-06-02-01.txt alone)
 - Capitalization: In progress (19 terms verified in 01-06-02-01.txt)
 
@@ -323,6 +324,60 @@ Per `prompt.md`, check `text/meter/` before writing:
 - Proper XML tagging throughout
 - Zero capitalization violations
 - Meter layer integration verified
+
+---
+
+## 🟡 Vajra Speech Upgrade Progress
+
+**Status:** Upgrading 20 files from literal-level to A++ Exemplar quality
+
+### ✅ COMPLETED (6 files):
+| File | Lines | Content | Quality |
+|------|-------|---------|---------|
+| 01-06-02-01.txt | 1,015 | Empowerment (dbang bskur) | ✅ EXEMPLAR |
+| 02-20-09-01.txt | 9 | Practice chamber | ✅ EXEMPLAR |
+| 02-25-02-01.txt | 31 | Three aspects of result | ✅ EXEMPLAR |
+| 02-25-06-01.txt | 51 | Emanation bodies | ✅ EXEMPLAR |
+| 02-22-02-01.txt | 60 | Vajra chains/expanse | ✅ EXEMPLAR |
+
+### 🟡 IN PROGRESS (13 files - prioritized by size):
+
+**SMALL (289-503 lines) - Priority 1:**
+| File | Lines | Content | Status |
+|------|-------|---------|--------|
+| 01-13-06-01.txt | 289 | Four seals | ✅ EXEMPLAR |
+| 01-06-12-01.txt | 503 | Empowerment obstacles | 🔴 PENDING |
+
+**MEDIUM (555-697 lines) - Priority 2:**
+| File | Lines | Content | Status |
+|------|-------|---------|--------|
+| 02-22-01-01.txt | 555 | Lamp key points | 🔴 PENDING |
+| 02-25-01-01.txt | 694 | Ground basis | 🔴 PENDING |
+| 01-14-05-01.txt | 693 | Fruition vehicles | 🔴 PENDING |
+| 01-12-01-01.txt | 697 | Natural liberation | 🔴 PENDING |
+
+**LARGE (1,143-1,669 lines) - Priority 3:**
+| File | Lines | Content | Status |
+|------|-------|---------|--------|
+| 01-09-01-01.txt | 1,143 | Delusion through symbols | 🔴 PENDING |
+| 02-19-01-01.txt | 1,669 | Trekchö obstacles | 🔴 PENDING |
+
+**COMPLETED (7 files):**
+| File | Lines | Content | Status |
+|------|-------|---------|--------|
+| 01-06-02-01.txt | 1,015 | Empowerment (dbang bskur) | ✅ EXEMPLAR |
+| 01-01-03-01.txt | 57 | Pure lands & fields | ✅ EXEMPLAR |
+| 02-23-06-01.txt | 499 | Spontaneous presence | ✅ EXEMPLAR |
+| 02-22-02-01.txt | 60 | Vajra chains/expanse | ✅ EXEMPLAR |
+| 02-20-09-01.txt | 9 | Practice chamber | ✅ EXEMPLAR |
+| 02-25-02-01.txt | 31 | Three aspects of result | ✅ EXEMPLAR |
+| 02-25-06-01.txt | 51 | Emanation bodies | ✅ EXEMPLAR |
+
+**Quality Requirements:**
+- Vajra Speech: majestic, transmissive, metaphysically precise
+- XML Tags: `<verse>`, `<tantra>`, `<list>` per meter layer
+- Capitalization: Buddha, Samantabhadra, Dharmakaya, Ground, View, Path, Fruition
+- 1:1 line correspondence: exact match with Tibetan bracketed line numbers
 
 ---
 
