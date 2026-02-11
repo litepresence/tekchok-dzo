@@ -321,6 +321,13 @@ All liturgical lines MUST follow this exact order: `[line_number] <xml_tag> cont
 - **CORRECT:** `[10850] <tantra> From the Auspicious Beautiful Great Tantra:`
 - **WRONG:** `<tantra> [10850] From the Auspicious Beautiful Great Tantra:`
 
+**STRICT 1:1 LINE COUNT RULE:**
+- Every `[number]` in the Tibetan layer MUST have exactly ONE corresponding `[number]` in the liturgical layer
+- Example: If Tibetan has `[123] དང་པོ།`, liturgical MUST have exactly one `[123] First:`
+- **NO splitting** one Tibetan line into multiple English lines
+- **NO combining** multiple Tibetan lines into one English line
+- Line counts must match exactly: `wc -l tibetan/XX.txt` = `wc -l liturgical/XX.txt`
+
 **`<verse>`** - For VERSE sections (rhythmic, chantable)
 - Use for root verses, sung teachings, and metrical quotations
 - Maintain ~8-10 syllables per line when possible
