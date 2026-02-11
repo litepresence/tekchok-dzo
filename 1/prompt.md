@@ -619,7 +619,7 @@ Match your comments to the relevant line ranges.
 *   **Clarity over Complexity:** If a concept is hard, explain it simply. Do not use jargon to explain jargon.
 
 ### EXAMPLE OUTPUT FORMAT  
-Note: Line number ranges may overlap, may be a single line, and may if necessary bleed into to following PAGE(s).
+Note: Line number ranges may overlap, may be a single line, and may if necessary extend into following sections.
 
 [line number range eg. 345-347] <scholarly comment that functions as a the translation backbone—enabling scholars to navigate architecture while never collapsing into practice or devotional content.>
 [next range eg. 335-350] <etc.>
@@ -983,7 +983,6 @@ Produce a **cognitive alignment layer** that documents:
 • view register
 • translation risk
 • preservation requirements
-• page/section bleed
 
 …as **quiet internal self-talk**, not as formatted analysis.
 

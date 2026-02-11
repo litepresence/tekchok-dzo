@@ -39,7 +39,20 @@ The raw files contain:
 `text/raw/UT22920_005_0001_bo,sa,zh.txt`
 `text/raw/UT22920_005_0002_bo,sa,zh.txt`
 
-**Note:** Raw files are BDRC source imports. For all work, use `text/tibetan/` (clean version without PAGE markers) or `text/artifacts/` (original with PAGE markers for reference).
+**Source File Evolution:**
+
+The project maintains three versions of the Tibetan source, evolving from raw BDRC import to clean production source:
+
+1. **`text/raw/`** - Original BDRC imports with metadata and appended commentary
+2. **`text/artifacts/`** - OCR output with PAGE markers (`### PAGE X`) and blank lines preserved
+3. **`text/tibetan/`** - **PRODUCTION SOURCE** - Clean, no PAGE markers, no blank lines, verified 100% character preservation
+
+**Critical Distinction:**
+- **PAGE Numbering** (in artifacts/): Physical page markers from OCR scanning that restart at Volume 2 boundary
+- **LINE Numbering** (in tibetan/): Continuous sequential line numbers [1], [2], [3]... across entire text
+
+**Always use:** `text/tibetan/` for all translation work
+**Reference only:** `text/artifacts/` for understanding original OCR structure
 
 ---
 
@@ -53,7 +66,7 @@ The Tibetan Unicode Layer is the *Tshad ma* (Source of Validity) for this projec
 
 **Protocol:** Never change, modify, or "correct" the Tibetan layer based on English logic. All interpretation must bow to the Unicode text as it stands.
 
-**Location:** Individual section files in the `text/tibetan/` subfolder (clean source, no PAGE markers).
+**Location:** Individual section files in `text/tibetan/` using VV-CC-SS-SS.txt format (213 sections, clean source).
 
 ### Processing Notes
 The Tibetan layer differs from the raw layer in the following ways:
