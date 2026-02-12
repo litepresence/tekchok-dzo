@@ -19,6 +19,30 @@ The project has migrated from **page-based** files (PAGE_XXX.txt in volume_1/, v
 **Format Standard:**
 All exemplars use the section-based format (`VV-CC-SS-SS.txt`) with line numbers: `[number] <xml_tag> content`
 
+**CRITICAL: XML Tag Placement**
+The correct format is **ALWAYS**: `[line_number] <xml_tag> content`
+- Line number in brackets FIRST: `[1]`, `[2]`, etc.
+- Then XML tag: `<ornament>`, `<verse>`, `<tantra>`, `<list>`, `<prose>`
+- Then content
+
+**Examples:**
+```
+[1] <ornament> ༄༅།
+[2] <ornament> Yānāgratnakōśanāmavajrāhāra.
+[12] <verse> Samantabhadra, whose innate nature holds the five perfections,
+[62] <tantra> From the primordial protector's manifest enlightenment,
+[1905] <list> First: the generally taught self-nature of eternalism and nihilism,
+[28] <prose> When the nectar of the Dharma-body is obtained,
+```
+
+**INCORRECT (Do Not Use):**
+```
+<ornament> [1] ༄༅།
+<verse> [12] Samantabhadra, whose innate nature...
+```
+
+This standard ensures proof editors can properly parse and format the text.
+
 ## Selection Criteria
 - **Literal Layer:** Strictest adherence to 1:1 word order, particle precision, no articles
 - **Liturgical Layer:** Best balance of majesty and metaphysical precision
@@ -186,11 +210,11 @@ The following sections demonstrate **A++ Gold Standard** liturgical translation 
 [1902] The presentation of mistaken vehicles is thus:
 [1903] These proponents hold the three hundred sixty components of the conditioned collection.
 [1904] This category has two principal aspects:
-<list> [1905] First: the generally taught self-nature of eternalism and nihilism—the two extreme views;
-<list> [1906] Second: specifically explained as the enumerated types that branch from these.
+[1905] <list> First: the generally taught self-nature of eternalism and nihilism—the two extreme views;
+[1906] <list> Second: specifically explained as the enumerated types that branch from these.
 [1907] Regarding the first, these two extremes:
-<list> [1908] The eternalist view, asserting permanent existence;
-<list> [1909] And the nihilist view, asserting complete non-existence.
+[1908] <list> The eternalist view, asserting permanent existence;
+[1909] <list> And the nihilist view, asserting complete non-existence.
 ```
 
 **Why Exemplary:**
