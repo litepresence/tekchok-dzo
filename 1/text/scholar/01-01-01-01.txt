@@ -1,56 +1,56 @@
-[001-004] <structure>
+[1-4] <structure>
 # TITLE PAGE: Sanskrit and Tibetan Titling Protocol
 **Analysis:** The text opens with a dual-title structure typical of classical Tibetan scholastic works. Lines 1-4 establish the Sanskrit title in Siddham script (*yānāgraratnakośanāmavajrāhāraṃ*), followed by the Tibetan rendering (*theg pa'i mchog rin po che'i mdzod*). This follows the *chos 'byung* (dharma history) convention of asserting Indic authenticity while grounding the text in Tibetan translation tradition. The title itself encodes the core thesis: this is a *kośa* (treasury/storehouse) of the *yānāgra* (supreme vehicle), positioning the work within the *mdzod* genre established by Vasubandhu's *Abhidharmakośa*.
 
-[001-004] <philology>
+[1-4] <philology>
 The Particle Structure of Titling
 **Analysis:** The phrase *ces bya ba bzhugs* employs the quotative *ces* followed by the existential *bzhugs*, establishing both the name and the presence of the text. The genitive *gyi* in *rin po che'i* creates a dependency relationship: it is a treasury OF the supreme vehicle, not merely containing it. The honorific *bzhugs* indicates this is a revealed or discovered text, aligning with terma (*gter ma*) conventions.
 
-[001-005] <structure>
+[1-5] <structure>
 Enumeration of the Four Auspicious Conditions
 **Analysis:** The passage opens with a four-fold enumeration (bsdus pa) listing bsod nams (merit), longs spyod (resources/provisions), dbang thang (power/sovereignty), and dar rgud (prosperity/decline). This structural device establishes the soteriological calculus framework wherein the practitioner masters elemental prognostication ('byung ba rtsis sbyor). The progression from positive to bipolar (dar rgud) conditions mirrors the tantric integration of cyclic existence patterns.
 
-[001-007] <structure>
+[1-7] <structure>
 Verse Conclusion on Individual Wind Functions
 **Analysis:** The passage presents a five-line verse (tshigs su bcad pa) from root scripture enumerating the individualized functions of winds based on karmic differentiation. The structure follows a gaṇacakra pattern: so so'i las (individual karma), las dang ye shes (karma and wisdom), nyon mongs/rtog med (afflictions/non-conceptuality), so so'i grangs/tshad (individual numbers/measures), and sgom pa po'i rnam par sbyar (yogi's analysis). The concluding line/des ni so so'i rlung tshad zin/ indicates mastery of individual wind measures as the soteriological objective.
 
-[001-007] <context>
+[1-7] <context>
 Particular Explanation of Definite Transference
 **Analysis:** This section fulfills the second division (gnyis pas) announced previously, presenting the 'pho ba nges pa'i gnad (crucial points of definite transference) in particularized explanation. The framework correlates the four seasons with elemental wind qualities: winter produces chab rom (waterfall-like) wind that transforms into me rlung (fire wind) at death-time; spring produces sa bon (seed-like) wind transforming into chu'i rlung (water wind); summer produces me stag (fire-spark) wind transforming into sa rlung (earth wind); autumn produces me tog (flower) wind transforming into rlung gi rlung (wind wind). This seasonal-elemental correspondence determines critical lifespan transitions.
 
-[001-002] <philology>
+[1-2] <philology>
 Wind-Movement Somatomotor Functions
 **Analysis:** The text lists two additional functions of sa'i rlung (earth wind): sgul skyod (movement/motion) and zha grum (shivering/trembling). These terms describe gross motor functions and thermoregulatory responses. The la sogs pa (and so forth) indicates the enumerative principle—list completion through typical exemplification rather than exhaustive cataloguing.
 
-[001-015] <structure>
+[1-15] <structure>
 Definitive Calculation of Inner Transference
 **Analysis:** This section establishes the precise calculation (nges pa'i tshad) of inner transference (nang gi 'pho ba). The base enumeration: for one healthy person in prime condition (skyes bu na tshod dar la bab pa), the daily wind count is 21,600 movements (nyi khri chig stong drug brgya). The text correlates this with chu tshod (water measures/hours) and dbyu gu (finger-widths/degrees) calculations: 8 thun (watches) per day, 32 thun tshod per watch, 64 dbyu gu, 16 'pho ba (transferences). Each 'pho ba contains 1,350 winds; each dbyu gu contains 338.5 winds; each thun contains 2,700 winds.
 
-[001-039] <structure>
+[1-39] <structure>
 Complete Correlation of External and Internal Time
 **Analysis:** This section concludes the wind calculation definitiveness (rlung gi rtsis nges par zin pa) by correlating external time (phyi rol gyi lo dang zla ba) with internal time (nang gi nyin zhag gi dus). The four seasons (dbyar dgun ston dpyid) are divided into twelve months, and if one understands this 'khrul 'khor (wheel of confusion/error) without deviation (ma log), all appearances are established with certainty (snang ba thams cad gtan la phebs). This establishes the epistemological foundation—accurate wind calculation leads to definitive knowledge of phenomenal display.
 
-[001-007] <structure>
+[1-7] <structure>
 Objection and Response: The Dual Wind Problem
 **Analysis:** This section presents the rtsod pa dgod pa (presentation of objection): If wind movement from channels is merely one ('gyu ba tsam du gcig), how can it divide into las dang ye shes gnyis so so (individual karma and wisdom)? Alternatively, if two different movements exist, how can they be one? If one, two is untenable; if merely one movement, neither saṃsāra nor nirvāṇa is tenable from a single basis. This objection invokes the principle of ekadravya (single substance) and its incompatibility with dvaya (duality).
 
-[001-013] <concept>
+[1-13] <concept>
 Wisdom Functions and Their Results
 **Analysis:** This passage elaborates the functional outcomes of wisdom wind: ground-abiding wisdom establishes that however appearances arise, they cannot alter from atop gnas lugs (abiding mode/ground condition). Characteristic-holding wisdom produces recognition of individual rigs (families), sku (bodies), ye shes (wisdoms), 'od (lights), and kha dog (colors) without possibility of transition ('da' mi srid). Wisdom gathering through knowables produces unobstructed benefit for self and others. Wisdom gathering through consciousness produces diverse worldly and transcendent knowing without self/other grasping. These four correspond to the gzhi lam 'bras gsum (ground, path, result) framework—four at cause, four at path as ultimate elements, four at result as four bodies.
 
-[001-007] <structure>
+[1-7] <structure>
 Establishing Transformation Measures
 **Analysis:** This section fulfills the third division—'gyur tshad gtan la dbab pa (definitive establishment of transformation measures). The base calculation: for one person matured in body in prime condition (lus su smin nas na tshod dar la bab pa), the daily 'byung bzhi so so'i rlung gi 'gyur tshad (individual four-element wind transformation measure) is: sa'i rlung = 5,400; chu, me, rlung winds also 5,400 each; total = 21,600. This establishes the standard wind count for prime adulthood.
 
-[001-011] <structure>
+[1-11] <structure>
 Life-span Deficiency Calculations (Continued)
 **Analysis:** This passage completes the arithmetic progression of life-span reductions based on wind deficiency: lacking 50 winds → two years; lacking 32 → three years; lacking 21 → four years; 1/8 (2,700) lacking → seven months; 1/6 (3,600) lacking → five months; 1/4 (5,400) lacking → one month; 1/10 (2,160) lacking → 29 days; lacking 20 → 18 days; lacking 30 → 10 days; lacking 40 → 7 days; lacking 60 → 5 days. The systematic reduction demonstrates the precise mathematical framework underlying Tibetan prognostic calculations.
 
-[003-020] <context>
+[3-20] <context>
 Menstrual Cycle Pathology and Prognostication
 **Analysis:** This extensive passage addresses me'i rtsa rlung (fire-channel wind) effects on reproductive physiology. The four dri chu (menstrual fluid) qualities—bsri ba (retarded), 'phrim pa (diminished), 'thor ba (scattered), khugs pa (concentrated)—determine diagnostic outcomes. Pathological manifestations include: loss of virility, constant numbness (rengs pa), untimely seminal emission, failure to rise without stimulus or failure despite stimulus for males; menstrual blockages, untimely flows, and irregular periodicity for females. The text provides specific prognostic rules: 2nd-3rd day pure flow in waxing moon → male offspring; 15th day flow → female offspring; waning moon constant flow → female/mixed offspring. Heavy clotting (khrag mang ba) on the 22nd or 5th day results in infertility (bu tsha gang yang mi 'byung).
 
-[005-011] <context>
+[5-11] <context>
 # The Fivefold Homage Structure
 **Analysis:** Longchenpa's homage (*phyag 'tshal*) follows the *rigs lnga* (five families) maṇḍala structure:
 1. **Samantabhadra** (*kun tu bzang po*) - Dharmakāya root
@@ -61,54 +61,54 @@ Menstrual Cycle Pathology and Prognostication
 
 This structure maps onto the standard Nyingma *gsol 'debs* (supplication) architecture, establishing the text's place within the *snyan brgyud* (aural/whispered lineage).
 
-[012] <philology> Analysis of *phun sum tshogs lnga*
+[12] <philology> Analysis of *phun sum tshogs lnga*
 **Analysis:** The "five perfections" (*phun sum tshogs lnga*) refers to the fivefold completeness of the Saṃbhogakāya dimension: perfect teacher, place, retinue, teaching, and time. The particle *mnga'* (possessive) connects Samantabhadra's nature (*rang bzhin*) to these perfections, establishing the hermeneutic that the entire path is already complete in the ground.
 
-[006-016] <context>
+[6-16] <context>
 Integration of Four Seasonal Cycles with Three Vajras
 **Analysis:** The text correlates the four seasonal wheels ('khor lo bzhi dus) with the three vajras (lus, ngag, yid) plus sems, creating a four-fold correspondential system. Spring (dpyid/skyed byed) correlates with body and its 'khrul 'khor, summer (dbyar/dran pa) with speech, autumn (ston/ro rnams) with mind, and winter (dgun/rtse mo) with consciousness. This framework derives from rDzogs chen physiological cosmology, where seasonal elemental shifts mirror subtle body transformations. The "one taste" (tha mi dad par) instruction indicates non-dual integration of these dimensions.
 
-[007-037] <context>
+[7-37] <context>
 Response: Channel Condition Determines Wind Quality
 **Analysis:** The lan (response) establishes that although movement is one, rtsa ma 'chus pa'i 'gyus pa (uncontracted channel movement) produces ye shes kyi rlung with functions of bliss, emptiness, and clear emptiness; rtsa'i gnas 'gyur 'chus pa (contracted/transformed channel location) produces las kyi rlung with functions of conceptual diversity, unvirtuous connections, obscurity, dullness, agitation, lethargy, and contraction. This medical-physiological explanation—channel constriction determines wind quality—provides the mechanism for dual outcomes from unitary substrate.
 
-[007-014] <philology>
+[7-14] <philology>
 Age-based and Condition-based Variations
 **Analysis:** The text notes variations: gzhon pa (youth) lacks 360 [winds] due to undeveloped elements ('byung ba ma rgyas pas); rgas pa (aged) lacks 558 due to deteriorated elemental order ('byung ba'i gral nyams pas). The prognostic correlation: rlung gi 'pho ba ring na tshe mthar skyol (long transference reaches life-end); thung na mi skyol (short does not reach). The terms drag na (if forceful), zhen na (if attached), dal na (if slow), bul na (if sluggish) establish the quality-based prognostic indicators.
 
-[008-012] <context>
+[8-12] <context>
 Threefold Structure of the Wind Chapter
 **Analysis:** This passage outlines the three-part structure (gsum ste) for determining the meaning of the foregoing scriptural citation: (1) spyir bstan pa—general presentation of definite movement locations; (2) bye brag tu bshad pa—particular explanation of definite transference ('pho ba) locations; (3) mjug bsdu ba—concluding summary through determination of ye shes/las rlung (wisdom/karma winds). This triadic structure mirrors traditional Tibetan scholastic presentation styles (bsdus don), moving from general to specific to synthesized conclusion.
 
-[008-015] <structure>
+[8-15] <structure>
 Temporal Wind Transference Patterns
 **Analysis:** The passage presents four time-based transference patterns (rim pa): daytime me rlung becoming chu rlung causes illness; nighttime chu rlung becoming sa rlung causes illness; twilight sa becoming rlung causes illness; evening rlung becoming me rlung causes illness. This four-fold temporal structure (nyin/mtshan/nang/nub dus) establishes the prognostic framework for determining inauspicious periods based on elemental disharmonies.
 
-[011-025] <philology>
+[11-25] <philology>
 Temporal Transformation Terminology
 **Analysis:** The passage establishes two-fold calculation: 'jig rten pa (worldly) calculates tshe (lifespan), bsod nams (merit), bde sdug (pleasure/pain); 'das pa (transcendent) calculates 'gyur tshad (transformation measure) and 'pho dus (transference time). Daytime (nyin mo'i cha) transforms into twelve parts for elemental function activities; nighttime (mtshan mo'i cha) transforms into sixteen parts. The 'pho dus (transference times) were previously explained (bshad zin to).
 
-[012-015] <concept>
+[12-15] <concept>
 The Ocean Metaphor and Pedagogical Hierarchy
 **Analysis:** The term *ded dpon dam pa* (supreme guide/captain) positions Samantabhadra as the navigator of the ocean of samsara. The five vidyādharas represent the five stages of realization in Nyingma classification: maturation, liberation, mahāmudrā, naturally manifest, and transcending characteristics. The three worlds (*'jig rten gsum*) refer to the desire, form, and formless realms, indicating the comprehensive scope of the maṇḍala.
 
-[013-021] <structure>
+[13-21] <structure>
 Two-fold Wind Movement Classification
 **Analysis:** This section establishes the fundamental wind classification: che ba (major) and chung ba (minor), corresponding to phyi 'gyu ba (outer movements) and nang 'gyu ba (inner movements). The text specifies that in a healthy person (skyes bu dar la bab pa nad med pa), the outer winds number 21,600 per day (nyin zhag phrug gcig). The term phrug indicates a complete day-night cycle. The inner winds, excluding the nose channels (kha sna ma gtogs pa), function as supports for conceptual consciousness (rtog pa) and wisdom consciousness (ye shes), numbering 112,600 through the 'phar rtsa (pulsing channels).
 
-[013-020] <structure>
+[13-20] <structure>
 Twelvefold Buddha Activity Correlation
 **Analysis:** The passage establishes that through considering ground, path, and result, the twelve aspects (bcu gnyis) explain the rgyu mtshan (cause/condition) for sangs rgyas kyi mdzad pa bcu gnyis (twelve Buddha activities) to occur. This numerological correspondence—four wisdoms × three stages = twelve activities—demonstrates the systematic integration of subtle body physiology with hagiographical classification. The bcu gnyis reference likely indicates the twelve great deeds of the Buddha (bdud bzhi 'dul ba, lha bab, chos 'khor, etc.).
 
-[014-036] <context>
+[14-36] <context>
 Wind Quality Pathologies and Characteristics
 **Analysis:** The passage presents extensive pathological correlations: drag → bsod nams/long, but suffering if attached; dal → illness-free cyclic existence; bul → weapon accumulation, non-virtuous mind; 'byil → constant non-virtue, fluctuating vitality; rgod → agitated mind, unkindness; rab tu rgod → quick death-time; bying → suffering, grief, lamentation; 'khyor → mind not reaching abiding mode, non-virtue; dal → life-end expansion, constant bliss; 'khyig → constant enemies, litigation basis; 'khyog → activity-attachment, short life; 'gyur → great resources but illness; rgal → unsuccessful body-speech actions; 'phel → quick accomplishment of peaceful/expanding activities.
 
-[015-027] <philology>
+[15-27] <philology>
 Temporal Measurement Terminology
 **Analysis:** The passage presents technical temporal terminology: zhag (day), thun (watch/period), thun tshod (watch measure), dbyu gu (digit/degree), 'pho ba (transference). The twelve 'byung ba'i byed las (elemental functions) produce twelve phyer zug (penetrations/extensions), showing the relationship between elemental activities and wind expansion/contraction. The text notes that 'phel 'grib (waxing/waning) is determined by 675 wind movements (drug brgya dang bdun cu rtsa lnga), correlated with seasonal changes.
 
-[016-019] <concept>
+[16-19] <concept>
 The Primordial Purity Paradigm
 **Analysis:** The homage to the "primordially pure" (*gdod nas rnam dag*) establishes the *gzhi* (ground) as:
 - **Untouched by elaborations** (*spros kun zhi ba*) - Prasaṅgika-style negation of extremes
@@ -117,19 +117,19 @@ The Primordial Purity Paradigm
 
 The seven horses (*rta bdun*) metaphor references the sun's chariot, indicating that the three kayas and their qualities shine forth naturally without dependency on extrinsic causes.
 
-[016-019] <philology>
+[16-19] <philology>
 The Syntax of Non-abiding
 **Analysis:** The phrase *srid zhir mi gnas* (not abiding in existence or peace) uses the locative *r* to indicate sphere, negated by *mi*. This establishes the madhyamaka middle way beyond eternalism (*srid*) and nihilism (*zhi*). The instrumental *gyis* in *lhun gyis grub* indicates spontaneous accomplishment as an ongoing process rather than a static state.
 
-[016-025] <philology>
+[16-25] <philology>
 Elemental Pathology Terminology
 **Analysis:** The text enumerates illness categories by element: mkhris pa (bile/fire disorders) from me rlung, bad kan (phlegm/water disorders) from chu, rlung nad (wind disorders) from rlung, and two combined categories—ldan pa (possessing/associated, i.e., two combined) and 'dus pa (accumulated, i.e., three or more combined). The term ldan pa indicates dual-element pathologies, while 'dus pa indicates complex multi-element conditions. This reflects the rgyud bzhi (Four Tantras) medical classification system integrated with subtle body energetics.
 
-[017-020] <philology>
+[17-20] <philology>
 Correspondence of Seed Syllables to Four Dharmatā States
 **Analysis:** The passage establishes a technical correspondence between seed syllables and consciousness states: (1) ཨ (A) at skyed byed's hub correlates with the diversity-emptying dharmatā state; (2) ཨཾ (AM) at dran pa correlates with dharmatā abiding; (3) ཧཱུྃ (HUM) at ro rnams correlates with dream-state dharmatā; (4) ཧ (HA) at rtse mo's hub correlates with samādhi dharmatā. The syllable selection follows tantric phonological symbolism—A represents unborn dharmatā, HUM represents vajra mind. The term gnas pa (abiding state) is used technically to denote specific modal configurations of chos nyid.
 
-[020-027] <structure>
+[20-27] <structure>
 # Introduction of the Supreme Vehicle
 **Analysis:** Longchenpa establishes the *theg mchog* (supreme vehicle) hierarchy:
 1. **General vehicles** (*theg pa*) - Causal vehicles of sūtra and lower tantra
@@ -138,51 +138,51 @@ Correspondence of Seed Syllables to Four Dharmatā States
 
 This tri-partite structure (*phyi nang gsang gsum*) mirrors the organizational logic found in the *Nyingma Gyübum*.
 
-[020-027] <context>
+[20-27] <context>
 # The Nine Yānas Framework
 **Analysis:** The *theg pa'i mchog* references the ninth vehicle in the Nyingma doxographical classification: (1) Śrāvaka, (2) Pratyekabuddha, (3) Bodhisattva, (4) Kriyā, (5) Caryā, (6) Yoga, (7) Mahāyoga, (8) Anuyoga, (9) Atiyoga. The "treasury" (*mdzod*) designation positions this text as comprehensive, containing all preceding vehicles while transcending them.
 
-[020-027] <concept>
+[20-27] <concept>
 The Sun and Sky Metaphors
 **Analysis:** The "sun of dharmatā" (*chos tshul nyi ma*) and "sky ornament" (*nam mkha'i rgyan*) metaphors establish two key Dzogchen principles: (1) dharmatā is naturally luminous and clarifies all obscurations without effort, and (2) the vehicle ornaments all phenomena like constellations ornamenting space. The "vajra vehicle" (*rdo rje'i theg pa*) specifically references the indestructible nature of recognition.
 
-[020-026] <concept>
+[20-26] <concept>
 Cognitive and Physiological Wind Functions
 **Analysis:** The passage presents comprehensive wind-function correlations: sa'i rlung produces faculties and supports, generating karma and conceptuality; rlung gi me produces six cognitive intensities (rtsal ba); rlung gi rlung controls respiration; rlung gi chu ceases conceptuality (rtog pa 'gag). The gender-specific pathologies—smig lo'i nad (conjunctivitis) for women during pregnancy conception, chang gi nad (alcohol-intoxication disorder) for men—reflect the medical understanding of wind-imbalance etiologies.
 
-[020-029] <philology>
+[20-29] <philology>
 Karma Wind Functions: Four-fold Enumeration
 **Analysis:** The passage enumerates four functions of las kyi rlung: (1) g.yas nas rgyu bas pho—rightward movement produces male [offpring]; (2) g.yon nas rgyu bas mo—leftward movement produces female; (3) phyir 'ong bas—outward return produces diverse appearance engagement; (4) nang du 'gengs pas—internal filling produces diverse conceptual proliferation. These correspond to pha dang ma'i dbang (father-mother dominance) and 'gro 'ong gi dbang (movement dominance). The outward movement produces nyin mo'i snang ba (daytime appearance); inward movement produces mtshan mo'i snang ba (nighttime appearance).
 
-[021-024] <concept>
+[21-24] <concept>
 The Four Stages of Yoga Concealment Practice
 **Analysis:** This passage presents the four progressive concealments (sba ba) of the sbyor so bzhi: (1) rtog pa tha dad pa sba ba—concealing conceptual diversity by mixing with 'gyu ba rlung; (2) gti mug dran med du sba—concealing ignorance in non-memory; (3) bag chags snga phyi rang dag tu sba—concealing former/latter karmic traces in self-purification; (4) dga' bde 'dzin med rang grol du sbas pa—concealing bliss in non-grasping self-liberation. These stages represent the severing (rgyun chad pa) of the six destinies' karma and traces, corresponding to advanced phyag rgya chen po practices of self-liberation without renunciation.
 
-[021-027] <philology>
+[21-27] <philology>
 Gender-based Wind Classification
 **Analysis:** The text establishes a tripartite gender classification of winds: (1) pho rlung—male wind moving through the right nostril (sna bug g.yas); (2) mo rlung—female wind moving through the left nostril (g.yon); (3) ma ning gi rlung—neuter wind with equal movement (cha mnyam). The technical phrase 'byung ba lnga'i rlung sems nges pas indicates that through determining the five-element winds and mind, one can correlate with the four time transference points (dus bzhi'i 'pho dus). The prescription that men train primarily in female wind, women in male wind, and both in neuter wind reflects the tantric principle of balancing polar energies for wisdom wind cultivation.
 
-[025-043] <structure>
+[25-43] <structure>
 Delineation of Dependent Wind Categories
 **Analysis:** This section initiates the second major topic (don gnyis pa) on wind-dependence classifications, citing the *Thal 'gyur* text as scriptural authority. Two primary wind categories are enumerated: 'gyu ba chen mo'i rlung (major mobile wind) at 21,600 movements, and 'gyu ba chung ba'i rlung (minor mobile wind) at 112,600 movements. The passage provides a detailed philological analysis of wind enumeration terminology: khri (10,000), 'bum (100,000), stong (1,000), brgya (100). The functional classification (byed las) into ascending (gyen la rgyu) and descending (thur du sel) movements reflects the fundamental prāṇa/apāna polarity in subtle body energetics. The gnad (crucial point) instruction indicates practical meditative application.
 
-[025-033] <concept>
+[25-33] <concept>
 Wind-Element Physiological Functions
 **Analysis:** This passage details specific physiological functions attributed to elemental wind interactions: chu'i rlung purifies chu ser (lymph) and regulates blood/flesh purification; chu'i sa constricts/expands water channels; chu'i chu governs oral and ocular moisture; sa'i sa produces flesh, fat, bones, marrow, and byang sems (bodhicitta/sexual essence) in five stages; sa'i chu performs thig le (bindu/essence) functions including conception mechanics; sa'i me produces heat for digestion and the four activities of birth, aging, sickness, death; sa'i rlung produces strength, vitality, movement, and body heat. These functions demonstrate the comprehensive somatic mapping in Tibetan subtle body theory.
 
-[025-049] <context>
+[25-49] <context>
 Introduction to Bindu (Thig Le) Classifications
 **Analysis:** This section initiates don gsum pa (third topic)—gnas pa thig le'i rab tu dbye ba (detailed classification of abiding bindu). The passage cites *Thal 'gyur* root verses establishing the framework: thig le'i chos nyid (bindu reality) is taught from don dam (ultimate) and kun rdzob (conventional) perspectives. Initially, those desiring buddhahood rely upon rigs ma (consorts) with complete mtshan nyid (characteristics)—including lha (gods), lha min (demigods), tshangs pa (brahmins), rigs ngan (low caste), mu stegs (tīrthikas). Upon seeing complete characteristics, one begins the 'gugs pa'i sbyor ba (magnetizing practice) of bsten bya (relying upon), channels, and dmigs bya (observed objects) for lus rdzogs (body completion).
 
-[026-035] <structure>
+[26-35] <structure>
 Combined Elemental Wisdom Functions
 **Analysis:** This section enumerates specialized functions from combined elements: sa'i rlung produces limb extension/retraction; me'i rlung produces diverse afflictive intensities; rlung gi rlung mixed with me produces: (1) various prajñā intensities; (2) wondrous metaphorical discernment; (3) doctrinal mastery; (4) knowledge of female service; (5) mastery of body-speech transformations. This progression demonstrates how elemental combinations yield higher cognitive faculties, reflecting the soteriological trajectory from basic physiology to wisdom capacities.
 
-[027-037] <context>
+[27-37] <context>
 Astronomical Correlation with Wind Calculation
 **Analysis:** The passage cites the 'grel pa pad+ma dkar po (White Lotus Commentary): "byang lhor bgrod tshe snon 'brid bya"—when traversing north-south, add or subtract. This indicates the correlation between solar declination (nyi ma byang du 'gro ba) and day-length variation: northward movement increases daylight by two hours monthly, shortening night; southward movement reverses this. The text establishes that wind movement calculation must account for these seasonal astronomical variations for accurate prognostication.
 
-[028-035] <structure>
+[28-35] <structure>
 # The Three Kāya Classification
 **Analysis:** Lines 28-35 present the standard *sku gsum* (three bodies) doctrine as classification (*rnam par gzhag pa*) based on:
 - **Teacher** (*ston pa*) - The Buddha as source
@@ -191,15 +191,15 @@ Astronomical Correlation with Wind Calculation
 
 This triad reflects the *Chandragomin*-style grammatical analysis (*sum rtags*) applied to buddhological categories.
 
-[028-035] <philology>
+[28-35] <philology>
 Analysis of *gnas phun sum tshogs*
 **Analysis:** The phrase "perfect place" (*gnas phun sum tshogs*) with *chos nyid 'od gsal gyi gzhi* (ground of dharmatā luminosity) uses the genitive particle *gyi* to indicate identity: the ground IS luminous dharmatā. This is crucial—Longchenpa is not saying the ground "has" luminosity, but that they are non-dual (*gcig*).
 
-[028-035] <concept>
+[28-35] <concept>
 The Ground as Unconstructed
 **Analysis:** The phrase *sus kyang mngon par 'dus ma byas pa* (not mentally constructed by anyone) establishes the gzhi as beyond all conceptual fabrication. The particle *yang* (even/also) with the negative *ma* indicates absolute negation: not constructed by buddhas, not by beings, not by any agent whatsoever. This aligns with the *Adhyāśayasañcodana Sūtra*'s teaching that the nature of mind is primordially pure like the sky.
 
-[028-035] <context>
+[28-35] <context>
 # The Three Kāya Doctrine in Nyingma Sources
 **Analysis:** The three kāya classification here draws from multiple sources:
 - *Guhyasamāja Tantra*: Dharmakāya as union of luminosity and emptiness
@@ -209,7 +209,7 @@ The Ground as Unconstructed
 
 The phrase *snang ba lhun grub* (spontaneously present appearance) specifically references the Dzogchen understanding that appearance is not created but naturally manifests from the ground.
 
-[028-035] <concept>
+[28-35] <concept>
 The Ground as Innate Purity
 **Analysis:** Longchenpa's assertion that the ground is *gdod nas rnam dag* (primordially pure) establishes the Dzogchen view that enlightenment is not an achievement but a recognition. The ground (*gzhi*) is:
 - **Naturally pure** (*rang bzhin rnam dag*) — purity is intrinsic, not acquired
@@ -218,7 +218,7 @@ The Ground as Innate Purity
 
 This contrasts with the gradualist view that purification requires extended practice. In Dzogchen, practice serves only to remove obscurations (*grib pa*) that veil the already-perfect ground.
 
-[028-035] <context>
+[28-35] <context>
 # Comparative Analysis: Dzogchen vs. Other Systems
 **Analysis:** The presentation of the three kāyas here differs from other Buddhist systems:
 - **Sūtra:** Three kāyas as fruits of long practice
@@ -228,23 +228,23 @@ This contrasts with the gradualist view that purification requires extended prac
 
 Longchenpa's innovation is synthesizing these into a comprehensive framework where all perspectives are accommodated as valid upāya for different capacities, while maintaining Dzogchen's unique emphasis on primordial completeness.
 
-[028-044] <concept>
+[28-44] <concept>
 Nine Crucial Points of Wind Yoga
 **Analysis:** This passage enumerates nine gnad (crucial points/pith instructions) for wind practice derived from three modalities: gyen rgyu (upward movement), thur sel (downward elimination), and mnyam gnas (balanced abiding). The nine techniques are: (1) steng rlung mnan pa—pressing upper winds; (2) 'og rlung bsdu ba—gathering lower winds; (3) bar rlung bskyil ba—holding middle winds; (4) mda' ltar 'phang ba—shooting like an arrow; (5) lcags kyu ltar dgug pa—hooking like an iron hook; (6) bum pa can du bskyil ba—holding like a vase; (7) chu srin chings su bsdams pa—binding like a crocodile knot; (8) ri bo ltar mnan pa—pressing like a mountain; (9) sbubs mchu ltar bsdu ba—gathering like a beak-cavity. These techniques represent a comprehensive subtle body manipulation system for wind control.
 
-[029-029] <context>
+[29-29] <context>
 Multiplication to Twenty-four Aspects
 **Analysis:** The text notes that counting the four functions as pairs (gnyis gnyis su bgrangs) yields eight; counting by partial aspects (cha shas kyis bgrangs) yields twenty-four (nyi shu rtsa bzhi). This numerological elaboration demonstrates the analytical sophistication of the tradition—systematically deriving subcategories through combinatorial logic. The twelve 'gyus pa'i byed las (contracted functions) of las rlung produce twelve external years, twelve internal months, twelve secret periods.
 
-[033-042] <context>
+[33-42] <context>
 Reproductive Physiology Technicalities
 **Analysis:** The sa'i chu (earth-water) functions govern reproductive physiology through thig le (bindu) operations. The text describes: dngul chu'i dum bu (mercury-like globule) preventing conception; rta rnga'i mdud pa (horse-drum knot) producing female offspring; mig ka chung (small eye-opening) producing male offspring. These technical terms reflect Tibetan embryological theories correlating subtle energetic patterns with gender determination, derived from both medical (gso ba rig pa) and tantric (sngags) traditions.
 
-[035-038] <philology>
+[35-38] <philology>
 Seasonal Elemental Transformation
 **Analysis:** The text presents the fundamental principle: 'byung bzhi'i skye ba'i rim pa (four elements' birth sequence) is determined by dbyar dgun ston dpyid (summer, winter, autumn, spring) transformations. The term gral 'pho (order transference) indicates systematic elemental rotation. The resulting manifestations—na ba (illness), tsha ba (fever), 'chi ba (death), and khyad par (special characteristics) of body-speech-mind activities—establish the prognostic implications of seasonal elemental dominance.
 
-[036-040] <structure>
+[36-40] <structure>
 # Perfect Teacher: Dharmakāya Level
 **Analysis:** This section elaborates the first of three-kāya classification, focusing on *ston pa phun sum tshogs pa* (perfect teacher). The structure moves from Dharmakāya (Samantabhadra) through Sambhogakāya to Nirmāṇakāya, following the classical three-kāya exposition pattern.
 
@@ -254,27 +254,27 @@ Seasonal Elemental Transformation
 [37] <concept> Non-Dual Abiding
 **Analysis:** The phrase *sku dang ye shes 'du 'bral med pa'i dgongs pa* (intention where body and wisdom are non-dual and inseparable) establishes the ground-state as beyond subject-object bifurcation. The term *'du 'bral med pa* (non-dual/non-separate) negates both identity (*gcig*) and difference (*tha dad*), indicating the *dgongs pa* (intention/state) of enlightened awareness.
 
-[036-041] <structure>
+[36-41] <structure>
 Life-span Calculation by Wind Deficiency
 **Analysis:** The text establishes specific life-span reductions based on wind deficiency from the prime 21,600: lacking 300 → one year death-time; lacking 50 → two years; lacking 32 → three years; lacking 21 → four years; 1/8 lacking → seven months; 1/6 lacking → five months; 1/4 lacking → one month; 1/10 lacking → 29 days; lacking 20 → 18 days; lacking 30 → 10 days; lacking 40 → 7 days; lacking 60 → 5 days. This establishes the precise arithmetic correlation between wind decline and temporal prognostication.
 
-[037-040] <concept>
+[37-40] <concept>
 Calculating Definite Wind Enumeration
 **Analysis:** The comprehensive calculation unfolds: one year = 12 months; 360 days; 720 meals (za ma). This yields 9,032.5 winds for the twelve periods of one day when calculated through the twelve-times-per-day method. Of these, 9,028 winds represent the measure of ye shes dag pa'i tshad (pure wisdom measure), while the remaining 4.5 represent glo bur ba rtog pa (sudden adventitious conceptuality). The five time periods (nyin lnga, mtshan lnga, nang nub gnyis) are calculated from the two equinoxes (ston dpyid kyi mnyam dus gnyis) as reference points.
 
-[037-044] <philology>
+[37-44] <philology>
 Simile and Applied Terminology
 **Analysis:** The passage employs the simile (dpe) of ba tha ra'i bu (a single child) who becomes a tiger when angry, human when calm. The technical terms include: bde dbang (blissful sovereignty), stong pa (emptiness), gsal bar stong pa (clearly empty), rnam rtog tha dad pa (diverse conceptuality), mi dge ba'i sbyor ba (unvirtuous connections), mi gsal ba (non-clarity), bying ba (dullness), rgod pa (agitation), rmugs pa (lethargy), 'khyil ba (contraction). These describe the phenomenological qualities distinguishing wisdom from karma winds.
 
-[037-044] <concept>
+[37-44] <concept>
 Rig pa'i gdang and Rtsa 'chus Ma 'chus
 **Analysis:** The key conceptual distinction emerges: rig pa'i gdang (awareness's resonance/vibration) and lus kyi rtsa nas 'gyu ba'i rlung (body's channel-moving wind) are one in movement alone. However, rtsa 'chus ma 'chus (whether channels are contracted or not) determines whether shes pa becomes las su rung ba (suitable for action/wisdom) or ma rung ba las nyon mongs su 'gyur ba (unsuitable, becoming affliction). This establishes the physiological basis for soteriological transformation—channel manipulation affects wind quality, affecting consciousness.
 
-[037-044] <structure>
+[37-44] <structure>
 Four Wisdom Functions of Wisdom Wind
 **Analysis:** The passage enumerates four ye shes (wisdoms) produced by wisdom wind's functions: (1) gzhi gnas kyi ye shes—ground-abiding wisdom from the abiding aspect; (2) mtshan nyid 'dzin pa'i ye shes—characteristic-holding wisdom from the appearance aspect; (3) shes byas bsdus pa'i ye shes—wisdom gathering knowables from the production aspect; (4) shes pas bsdus pa'i ye shes—wisdom gathering through consciousness from the movement aspect. These correspond to the four aspects (gnas pa, snang ba, skye ba, 'gyu ba) of wind function.
 
-[038-040] <context>
+[38-40] <context>
 Beyond Cause-Effect and Effort
 **Analysis:** The phrase *rgyu 'bras bya rtsol las 'das pa* (beyond cause-effect and action-effort) is a definitive Dzogchen marker. It negates:
 - *Rgyu 'bras* (cause-effect) - karmic causation
@@ -282,27 +282,27 @@ Beyond Cause-Effect and Effort
 
 This establishes the Dharmakāya as *chos nyid* (dharmatā), the nature of reality uncompounded and spontaneous. The ablative particle *las* indicates transcendence "from" these categories.
 
-[038-042] <context>
+[38-42] <context>
 Elemental Order Pathologies
 **Analysis:** The passage describes four modes of 'byung ba'i gral (elemental order) dysfunction: nyams pa (deterioration), log pa (reversal), 'grus pa (aggravation), 'gyur ba (transformation). These determine four corresponding life-course disruptions (tshe nyams pa, log pa, 'grus pa, 'gyur ba). The diagnostic principle correlates past/future lifespan length with elemental stability—the longer the past life, the greater the transformation-based elimination; the longer the future life, the more stable the present abiding.
 
-[038-049] <concept>
+[38-49] <concept>
 Two Truths Framework for Bindu Practice
 **Analysis:** The passage establishes the two-truth hermeneutic for bindu practice: (1) kun rdzob thig le (conventional bindu) involves dbab (descending), gzung (holding), bzlog (reversing), gdab (striking), bsre (mixing); (2) don dam thig le (ultimate bindu) involves bsten pa (relying upon) chos sku stong pa'i yul (dharmakaya empty objects), gtem te rig pa'i rtsal rnams sbyang (covering and training awareness's intensities), nyin mtshan med par goms sbyong (day-night uninterrupted cultivation). The result: rtsol bral mngon du snang (effortless direct appearance), the measure of 'byongs (mastery/purification).
 
-[039-042] <philology>
+[39-42] <philology>
 Root Text Citation Analysis
 **Analysis:** The passage cites *Thal 'gyur* verses establishing basic temporal correlations: bcu phrag gsum (thirty) equals one zla ba (month); twelve [months] completed equals one lo (year); nang dang dgongs mo (day and night) totaling 720 completes zhag (days) as 360 for one year. The terminology bcu phrag indicates decimal grouping; zhag ni pho mo las kyis dbye indicates gender-based day classification. The twelve-year animal cycle (byi ba glang stag, etc.) completes the elemental calculations ('byung ba'i rtsis rnams spel ba).
 
-[040-043] <philology>
+[40-43] <philology>
 Enumeration of Wind Counts and Functions
 **Analysis:** The text specifies: major wind = 21,600 movements (nyi khri chig stong drug brgyad), minor wind = 112,600 movements ('bum gcig dang khri gnyis stong drug dang brgya drug). The byed las (function) is twofold: upward movement (gyen la rgyu) and downward elimination (thur du sel). The technical term 'gyu ba is polysemous, referring both to "movement" and to the specific vital wind classification. The passage anticipates subsequent discussion of nad (illness), gdon (spirit obstacles), and tshe yi dus (life-span timing), establishing the prognostic dimension of wind calculation.
 
-[040-040] <context>
+[40-40] <context>
 Vinaya Correlation for Solstice Determination
 **Analysis:** The passage references 'dul ba (Vinaya) calculation of gso sbyong (soṣaṇa/restoration ceremony) feasibility—whether the full moon falls on the appropriate date or not. This establishes the orthographic correlation between Buddhist monastic law and astrological calculation, demonstrating the integration of vinaya observance with elemental wind prognostication.
 
-[041-045] <structure>
+[41-45] <structure>
 # Perfect Place: Sambhogakāya Field
 **Analysis:** Lines 41-45 shift to the second perfection (*gnas phun sum tshogs pa*) - the pure realm. The exposition follows the pattern: nature/blessing → field → display → teaching → wisdom.
 
@@ -316,31 +316,31 @@ This preserves the ambiguity in the source text regarding whether manifestation 
 [42] <concept> Five Lights and Five Families
 **Analysis:** The *'od lnga* (five lights) correlate with the *ye shes lnga* (five wisdoms), manifesting as the display of the five Buddha families (*rigs lnga*). The term *rang snang* (self-appearing) is crucial—it indicates these are not external existents but the spontaneous display (*rol pa*) of awareness itself.
 
-[041-044] <context>
+[41-44] <context>
 Concluding Practice Instructions
 **Analysis:** The passage concludes with four additional instructions: (1) rtsa gnas su dgram pa—arranging at the channel abode; (2) rang gnas su gzhil ba—releasing in natural abode; (3) nam mkha' ltar chos nyid du la bzla ba—reversing into dharmatā like space; (4) dgus nyams su blang bar bya'o—cultivating through the nine [techniques]. The progression moves from deliberate placement through natural release to ultimate reversal, following the rDzogs chen trajectory of effort-to-effortlessness.
 
-[041-042] <structure>
+[41-42] <structure>
 Establishing Tenability: Two Subdivisions
 **Analysis:** The first major subsection has two parts: 'thad pa dngos—actual tenability establishment, and de la rtsod pa spang ba—refutation of objections. The passage presents the fundamental premise: lus la rtsa gnas (channels abide in body), de la rlung gnas (winds abide in channels), rlung la ye shes dang las rlung gnyis su rgyu ba (wisdom and karma winds move in two ways). This establishes the ontological hierarchy: body → channels → winds → dual wind functions.
 
-[041-041] <concept>
+[41-41] <concept>
 Two-fold Soteriological Application
 **Analysis:** The passage distinguishes two applications of rlung gi rtsis sbyor (wind calculation): 'jig rten pa (worldly)—calculating tshe (lifespan), bsod nams (merit), bde sdug (pleasure/pain); 'das pa (transcendent)—divided into 'gyur tshad (transformation measure) and 'pho dus (transference time). Daytime divides into twelve transformations for elemental function activities and virtue/non-virtue conceptuality; nighttime has similar divisions but emphasizes ye shes kyi rlung 'phel (wisdom wind increase).
 
-[042-048] <structure>
+[42-48] <structure>
 Concluding Elemental Functions
 **Analysis:** The passage concludes the elemental enumeration with remaining functions: sa'i rlung produces sensory faculties (dbang po) and their supports (dbang rten); sa'i rlung generates karma and conceptual thought; rlung gi me produces cognitive intensities (shes pa'i rtsal ba)—light (yang ba), heavy (lci ba), excited (mched pa), dull ('ur ba), full (gang ba), empty (stongs pa). The section transitions to rlung gi rlung controlling respiration and specific gender-related pathologies, establishing the comprehensive scope of wind-element physiology.
 
-[042-041] <context>
+[42-41] <context>
 Conclusion of Wind Enumeration Section
 **Analysis:** This passage initiates the third and final major division (gsum pa ye shes dang las rlung nges pas mjug bsdu ba) of the wind chapter—the concluding summary through determination of wisdom and karma winds. The tripartite structure (gsum ste) establishes: (1) 'thad pa spyir dgod—general establishment of tenability; (2) byed las so sor bshad—particular explanation of functions; (3) 'gyur tshad gtan la dbab pa—definitive establishment of transformation measures. This mirrors standard Tibetan scholastic hermeneutical structure.
 
-[042-044] <concept>
+[42-44] <concept>
 Wisdom and Karma Wind Functions
 **Analysis:** The text delineates the soteriological distinction: ye shes kyi rlung matures parinirvāṇa (mya ngan las 'das pa smin par byed); las rlung matures saṃsāra ('khor ba smin par byed). This dual function theory establishes the crucial premise—one wind substrate with divergent outcomes based on channel conditions, creating the framework for subsequent objection and response.
 
-[043-045] <context>
+[43-45] <context>
 Spontaneous Accomplishment
 **Analysis:** The phrase *rang snang lhun gyis grub pa* (spontaneously accomplished self-appearance) combines two key Dzogchen terms:
 - *Rang snang* - self-appearing (not externally existent)
@@ -348,14 +348,14 @@ Spontaneous Accomplishment
 
 The *rang chas ye shes* (self-arisen wisdom) is distinguished from constructed consciousness; it is *gdul bya* (trainees) object-beyond, meaning even advanced practitioners cannot reify it as an object of experience.
 
-[046-051] <structure>
+[46-51] <structure>
 # Sixth Teacher: Complete Marks Body
 **Analysis:** This section presents the Sambhogakāya teacher as Vajradhara (*rdo rje 'chang*) with complete marks (*mtshan rdzogs*). The "sixth" refers to the five Dhyani Buddhas plus Vajradhara as the tantric adibuddha. The fivefold retinue is enumerated: earth-dwellers, awareness-holders, ḍākiṇīs, accomplished ones, and self-appearance hosts.
 
 [46] <philology> *Rtsal lam* Construction
 **Analysis:** The compound *rtsal lam* (strength/skillfulness OR path) presents translational ambiguity. Here it functions as *rtsal* (dynamic display-power) combined with *byin rlabs* (blessing) as the means of manifestation. The genitive particle *gi* connects this power to the Akanisṭha field.
 
-[047-051] <concept>
+[47-51] <concept>
 Fivefold Retinue
 **Analysis:** The enumeration uses the *dang* particle to link five categories:
 1. *Sa la gnas pa* - Earth-dwellers (bodhisattvas)
@@ -366,19 +366,19 @@ Fivefold Retinue
 
 This represents the full maṇḍala assembly receiving the ocean-like tantra teachings.
 
-[049-049] <structure>
+[49-49] <structure>
 Transition to Next Section
 **Analysis:** The passage concludes with /zhes gsungs te/ (thus it was taught), marking the completion of the *Thal 'gyur* citation. This standard citation closure indicates the transition from scriptural authority to subsequent commentary or next topic division. The structure maintains the pattern of root-text citation followed by analytical commentary throughout the chapter.
 
-[052-056] <structure>
+[52-56] <structure>
 # Perfect Teacher: Nirmāṇakāya Level
 **Analysis:** Lines 52-56 present the third kāya level—the emanation body (*sprul pa'i sku*) that appears according to trainees' capacities (*gang la gang 'dul*). This is the dimension of skillful means (*thabs*) adapting to individual needs.
 
-[052-053] <context>
+[52-53] <context>
 Self-Appearance Individuality
 **Analysis:** The phrase *'gro dag rang snang la snang ba so so* (appearing individually to beings' self-appearances) indicates the subjective nature of Nirmāṇakāya manifestation. It is not one teacher appearing to many, but manifestation tailored to each perceiver's *rang snang*.
 
-[054-056] <philology>
+[54-56] <philology>
 Three Baskets Enumeration
 **Analysis:** The *sde snod gsum* (three baskets/collections) are listed with *dang* particles:
 - *Mdo sde* (Sūtra)
@@ -387,7 +387,7 @@ Three Baskets Enumeration
 
 These appear as *theg pa sna tshogs* (various vehicles), indicating the causal vehicle teachings that prepare for the result vehicle.
 
-[057-058] <structure>
+[57-58] <structure>
 # Vehicle Hierarchy Conclusion
 **Analysis:** The page concludes by establishing the vehicle stratification: three causal vehicles serve as preparation (*rgyu dang thabs*) for the result vehicle, culminating in Dzogchen as the unsurpassable (*bla na med pa*) peak.
 
@@ -397,7 +397,7 @@ These appear as *theg pa sna tshogs* (various vehicles), indicating the causal v
 [58] <philology> *Yongs su rdzogs pa'i rtse mo*
 **Analysis:** The phrase "completely complete peak" (*yongs su rdzogs pa'i rtse mo*) uses the terminative particle *mo* to indicate culmination. The emphatic *ni* positions Dzogchen (*rang bzhin rdzogs pa chen po*) as the *'bras bu dam pa* (supreme result) and *bla na med pa'i theg pa* (unsurpassable vehicle).
 
-[059-060] <structure>
+[59-60] <structure>
 # Definite Place: Vajra Essence Teaching
 **Analysis:** Longchenpa specifies the *gnas nges pa* (definite place/certain abode) as the teaching of luminous-clarity vajra-essence (*'od gsal rdo rje snying po'i bstan pa*). This frames the Dzogchen teaching as the *thugs kyi gsang ba* (mind-secret) of all Tathāgatas—the innermost dimension beyond the body and speech secrets.
 
@@ -416,7 +416,7 @@ This is an epistemological specification—the ground is definitively determined
 
 The superlative *ngo mtshar rmad du byung ba* (wondrous, marvelous, astonishing) describes the *bdag nyid* (self-nature) of this place—not as a location but as the nature of awareness itself.
 
-[061-064] <context>
+[61-64] <context>
 # Guhyagarbha Tantra Citation
 **Analysis:** Explicit citation from *gsang ba rgyal po'i mdzod* (Guhyagarbha Tantra, Treasury of the Secret King)—the root tantra of the Nyingma tradition. The citation presents a threefold cosmogonic sequence:
 1. Primordial protector's awakening and field arrangement
@@ -428,7 +428,7 @@ This trikāya emanation structure (Dharmakāya → Sambhogakāya → Nirmāṇak
 [61] <philology> Citation Marker
 **Analysis:** The phrase *de ltar* (thus/in that way) combined with *las* (from) marks the following as scriptural quotation. The initial *de ltar* refers back to the previous exposition, indicating the Guhyagarbha as scriptural authority for what was just explained.
 
-[062-064] <concept>
+[62-64] <concept>
 Threefold Manner of Emanation
 **Analysis:** The three *tshul* (manners/modes) describe:
 - **Line 62:** *Zhing khams ji ltar bkod pa'i tshul* - How fields are arranged (Dharmakāya ground)
@@ -437,14 +437,14 @@ Threefold Manner of Emanation
 
 The ablative *las* indicates these are modes "from which" the teaching emerges.
 
-[065-071] <structure>
+[65-71] <structure>
 # Primordial Samantabhadra Narrative
 **Analysis:** This section presents the "ground-before-path" narrative—Samantabhadra's primordial enlightenment before the arising of saṃsāra-nirvāṇa duality. This is not historical narrative but ontological description of the ground-state.
 
 [65] <philology> Temporal-Atemporal Ambiguity
 **Analysis:** The phrase *kun gyi sngon rol du* (before all) uses temporal language (*sngon rol* = before) to describe an atemporal ground. The phrase *'khor ba dang mya ngan las 'das pa gang du'ang ma phye* (without division of saṃsāra-nirvāṇa anywhere) clarifies this is not temporal priority but ontological ground preceding conceptual bifurcation.
 
-[066-067] <concept>
+[66-67] <concept>
 Self-Arising from Primordial Basis
 **Analysis:** The narrative describes:
 - *Gdod ma'i mgon po* - Primordial protector (Samantabhadra)
@@ -463,7 +463,7 @@ The *rang byung* (self-arising) negates construction, causes, or conditions.
 
 This "moment" is not temporal but recognitional—the instantaneous (*skad cig*) breakthrough (*'phags*) from ground (*gzhi*) to recognition.
 
-[068-071] <concept>
+[68-71] <concept>
 Three Self-Arisen Dharmas
 **Analysis:** The *rang byung gi chos gsum* (three self-arisen dharmas) spontaneously accomplish (*lhun grub*) the jewel cavity (*rin po che'i sbubs*):
 1. **Essence** (*ngo bo*) - Emptiness
@@ -472,7 +472,7 @@ Three Self-Arisen Dharmas
 
 The *gdod ma'i zad sa* (primordial exhaustion-place) is *ka dag chen po* (great primordial purity)—the ground is pure from the beginning, not purified through effort.
 
-[070-071] <philology>
+[70-71] <philology>
 Youth Vase Body
 **Analysis:** *Gzhon nu bum pa sku* (youth vase body) describes the Sambhogakāya form:
 - *Gzhon nu* - youth (unaging, eternal)
@@ -492,7 +492,7 @@ This is the *btsan sa* (conquered ground/seat) of enlightenment—the unchanging
 
 It is not "inaccessible" but requires recognition rather than achievement.
 
-[073-075] <structure>
+[73-75] <structure>
 # Compassion Narrative
 **Analysis:** The narrative shifts to compassion arising from recognition. Long after (*de nas ring zhig na*) primordial awakening, seeing beings as dreamlike confusion without cause (*'khrul rgyu med*), compassionate responsiveness (*brtse ba'i thugs rje*) arises naturally.
 
@@ -505,23 +505,23 @@ It is not "inaccessible" but requires recognition rather than achievement.
 
 Saṃsāra appears confused but has no root cause in the ground—confusion is the failure to recognize, not a substantial entity.
 
-[074-075] <concept>
+[74-75] <concept>
 Responsive Display
 **Analysis:** Compassion arranges fields (*zhing khams bkod pa*) for beings' benefit. This manifestation emerges from *rang snang longs spyod rdzogs pa sku'i snang cha* (self-appearing Sambhogakāya appearance-aspect). The five-family Buddhas (*rigs lnga'i rgyal ba*) appear as the ocean-like display pervading space.
 
-[076-080] <structure>
+[76-80] <structure>
 # The Five Family Maṇḍala Architecture
 **Analysis:** This passage presents the elaborate maṇḍala architecture of the five buddha-families (*rigs lnga*), grounded in the visualization schema of the *Guhyasamāja* and *Kālacakra* tantric systems. The five symbols—mudrā (wheel), vajra, jewel, lotus, and cross (*rgya gram*)—correspond to the five skandhas purified into the five wisdom buddhas. The "twenty-five fields" (*zhing khams nyi shu rtsa lnga*) refers to the fivefold multiplication of five families, representing the complete maṇḍala structure.
 
-[076-080] <philology>
+[76-80] <philology>
 The Enumerative Particle *dang*
 **Analysis:** The repeated use of *dang* (and) in lines 76-79 creates an inventory list of the five family symbols. The ablative *las* in line 80 (*khong gseng las*) indicates source/origin: the lotus arises FROM within the center. This establishes the emanation principle: all manifestation proceeds from the center outward.
 
-[081-086] <concept>
+[81-86] <concept>
 The Cosmic Body as Field-Source
 **Analysis:** The imagery of perfume-water flowing from pore-holes (*ba spu'i khung*) echoes the *Avataṃsaka Sūtra*'s description of the cosmic body of Vairocana, where infinite worlds exist within each pore. This is not merely symbolic but reflects the Nyingma doctrine of *snang stong dbyer med*—the non-duality of appearance and emptiness. The five elements (*sa chu me rlung*) appearing as minute particles (*rdul phra ba snyed*) establish the atomic theory underlying Buddhist cosmology.
 
-[081-086] <context>
+[81-86] <context>
 # The Five Elements in Tantric Cosmology
 **Analysis:** The five elements (earth, water, fire, air, space) serve as the basis for:
 - **Vairocana** (center, earth, dharmadhātu wisdom)
@@ -532,31 +532,31 @@ The Cosmic Body as Field-Source
 
 The enumeration of particles "as many as exist" (*ji snyed pa*) indicates the infinite scope of the maṇḍala.
 
-[086-087] <philology>
+[86-87] <philology>
 Analysis of *byin gyis brlabs* vs. *las kyi*
 **Analysis:** The phrase pairs "buddha's blessing" (*sangs rgyas kyi byin gyis brlabs*) with "beings' karma" (*'gro ba'i las kyi*). The instrumental/ablative particle *gyis* in both cases indicates agency: Buddha-fields arise through/by the force of enlightened blessing, while ordinary realms arise through/by the force of sentient beings' karmic actions. This parallels the Yogācāra distinction between *pariniṣpanna* (perfected) and *parikalpita* (imagined) natures.
 
-[088-091] <structure>
+[88-91] <structure>
 # Enumeration of Field Configurations
 **Analysis:** The text enumerates four field shapes—round (*zlum po*), four-cornered (*gru bzhi pa*), crescent (*nar mo*), and semi-circular (*zla gam*)—representing the spatial configurations of different Buddha-fields as described in texts like the *Bhadrakalpika Sūtra*. The phrase *bsam gyis mi khyab pa* (inconceivable/incommensurable) is a standard descriptor for the scope of Buddha-activity, indicating that these configurations transcend ordinary conceptual measurement.
 
-[088-091] <philology>
+[88-91] <philology>
 The Particle *la sog pa*
 **Analysis:** The phrase *zla gam la sog pa* uses *la sog pa* (beginning with/et cetera) to indicate the enumeration is not exhaustive. This is a standard Tibetan scholarly convention for open categories. The locative *la* connects to the preceding shapes, establishing these as the primary types among infinite possibilities.
 
-[092-098] <concept>
+[92-98] <concept>
 The Fivefold Pervasion Model
 **Analysis:** Longchenpa employs a classic Buddhist cosmological schema: just as space pervades all, so do the five aspects of enlightenment—body (*sku*), speech (*gsung*), mind (*thugs*), qualities (*yon tan*), and activities (*'phrin las*). This pentadic structure derives from the *Ratnagotravibhāga* and became standardized in Nyingma doxography. The "perpetual continuous wheel" (*rtag pa rgyun gyi 'khor mo*) indicates the uninterrupted nature of enlightened activity without beginning or end.
 
-[092-098] <philology>
+[92-98] <philology>
 The Terminative Particle *du*
 **Analysis:** The phrase *khyab pa de tsam du* uses the terminative *du* to indicate extent: "to that degree that space pervades." This creates a proportional relationship: Buddha-activity pervades to the exact extent that space pervades, neither more nor less. The instrumental *gyis* in *khyab par mdzad* indicates the activity of pervasion as an accomplished function.
 
-[099-105] <structure>
+[99-105] <structure>
 # Introduction of the Threefold Field Classification
 **Analysis:** The text introduces a critical structural division: Samantabhadra's training field (*gdul zhing*) and activities (*mdzad pa*) manifest as three different fields corresponding to the three kāyas. This establishes the hermeneutic framework that will govern the subsequent presentation: Dharmakāya-fields for the ultimate, Saṃbhogakāya-fields for the subtle, and Nirmāṇakāya-fields for the manifest.
 
-[099-105] <context>
+[99-105] <context>
 # The Field (Zhing) Doctrine in Nyingma Sources
 **Analysis:** The term *zhing* (field/realm) in Nyingma literature derives from:
 - *Buddhāvataṃsaka Sūtra*: The infinite Buddha-fields (*buddha-kṣetra*)

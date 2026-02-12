@@ -1,4 +1,4 @@
-[001-011] <ontological-error> <reification-error>
+[1-11] <ontological-error> <reification-error>
 **Misreading:**
 Samantabhadra as a "primordial Buddha" suggests a historical or mythological figure existing in time and space, rather than the ground of being itself.
 
@@ -14,7 +14,7 @@ Dzogchen becomes a theistic religion rather than recognition of mind's nature. P
 **Cascade effects:**
 Triggers <eternalistic-error> (seeking permanent refuge in a being), <meditationism-error> (attempting to "contact" Samantabhadra through effort), and <hierarchical-error> (viewing the fivefold homage as climbing toward a distant goal rather than recognizing simultaneous aspects).
 
-[012-022] <temporal-error> <primordial-misunderstanding>
+[12-22] <temporal-error> <primordial-misunderstanding>
 **Misreading:**
 "From the primordial" (gdod nas) interpreted as referring to a beginning point in time, like "in the beginning" of creation narratives.
 
@@ -30,7 +30,7 @@ Elaboration-cessation (spros kun zhi ba) is misunderstood as something that happ
 **Cascade effects:**
 Supports <meditationism-error> (practicing to return to primordial state), <nostalgia-error> (romanticizing original purity), and <acquisition-error> (seeking to gain what was never lost).
 
-[023-033] <hierarchical-error> <vehicle-stratification>
+[23-33] <hierarchical-error> <vehicle-stratification>
 **Misreading:**
 The "supreme vehicle" as literally superior to other vehicles, creating a spiritual hierarchy where Dzogchen practitioners look down upon sutra practitioners.
 
@@ -46,7 +46,7 @@ The nine-vehicle framework becomes a ladder to climb rather than a pedagogical d
 **Cascade effects:**
 Generates <elitism-error>, [BYPass ERROR] (skipping necessary groundwork), and <comparative-error> (evaluating traditions hierarchically rather than contextually).
 
-[034-044] <substantialist-error> <three-kaya-reification>
+[34-44] <substantialist-error> <three-kaya-reification>
 **Misreading:**
 The three kayas (Dharmakaya, Sambhogakaya, Nirmanakaya) interpreted as three distinct bodies or levels of Buddha, like three different persons or dimensions stacked vertically.
 
@@ -62,7 +62,7 @@ Practitioners seek to "attain" Dharmakaya as if it's a higher state, creating at
 **Cascade effects:**
 Supports [DUALISTIC ERROR] (separating kayas), [ATTAINMENT ERROR] (seeking higher states), and [RITUALISM ERROR] (performing practices to "access" different kayas).
 
-[045-056] [POETIC ESCAPE ERROR] [AESTHETIC DISTRACTION]
+[45-56] <poetic-escape-error> <aesthetic-distraction>
 **Misreading:**
 The ornate verse structure, beautiful imagery ("seven horses," "lotus-lake of mind," "ocean of teaching"), and majestic homage treated as literary appreciation rather than pointing instructions.
 
@@ -76,7 +76,7 @@ The text becomes an object of admiration rather than a mirror. Practitioners col
 Dzogchen becomes a literary tradition to appreciate rather than a view to recognize. Scholars analyze the "five perfections" academically. Practitioners memorize verses for recitation without direct insight.
 
 **Cascade effects:**
-Generates [INTELLECTUALISM ERROR] (analyzing rather than recognizing), [PERFORMANCE ERROR] (reciting without realization), and [COLLECTION ERROR] (accumulating teachings as possessions).
+Generates <intellectualism-error> (analyzing rather than recognizing), <performance-error> (reciting without realization), and <collection-error> (accumulating teachings as possessions).
 
 [PAGE BLEED AWARENESS]
 
@@ -88,7 +88,7 @@ ERROR RISK: Readers may assume the "perfect place" description is complete on Pa
 
 SCHOLAR CHECK: Verify reader understands lines 34-36 as one syntactic unit spanning the page break.
 
-[057-070] [SPATIAL REIFICATION ERROR] [PURE LAND MATERIALISM]
+[57-70] <spatial-reification-error> <pure-land-materialism>
 **Misreading:**
 Akanishta (Ogmin) is interpreted as an actual location in the cosmos—a pure dimension one can travel to, inhabit, or aspire to be reborn in. The "dense array field" (stug po bkod pa'i zhing khams) becomes a literal paradise with geography, inhabitants, and activities.
 
@@ -102,9 +102,9 @@ Sambhogakaya is reified as a place rather than a modality of appearance. Practit
 The five lights become optical phenomena to perceive, rather than metaphors for wisdom-display. Vajradhara transforms from awareness-display into a deity to worship. The retinue (vidyadharas, dakinis, siddhas) becomes an actual audience rather than aspects of awareness-play.
 
 **Cascade effects:**
-Triggers [BIRTH-AND-DEATH ERROR] (seeking rebirth in pure lands), [DEITY YOGA MISPLACEMENT] (worshipping rather than recognizing Vajradhara), [SPATIAL DUALISM] (here vs. there, impure vs. pure realms), and [FUTURE-ORIENTATION ERROR] (postponing recognition to future lives).
+Triggers <birth-and-death-error> (seeking rebirth in pure lands), <deity-yoga-misplacement> (worshipping rather than recognizing Vajradhara), <spatial-dualism> (here vs. there, impure vs. pure realms), and <future-orientation-error> (postponing recognition to future lives).
 
-[071-085] [HIERARCHICAL TIMELINE ERROR] [KAYA SEQUENCING]
+[71-85] <hierarchical-timeline-error> <kaya-sequencing>
 **Misreading:**
 The three kayas interpreted as evolutionary stages—first Dharmakaya (achieved), then Sambhogakaya (developed), then Nirmanakaya (manifested)—like ascending levels of realization.
 
@@ -118,9 +118,9 @@ Practitioners believe they must "attain" Dharmakaya first before accessing Sambh
 Dzogchen becomes a gradual path with stages: first stabilize emptiness (Dharmakaya), then develop clarity (Sambhogakaya), then manifest compassion (Nirmanakaya). This is complete inversion of the view.
 
 **Cascade effects:**
-Generates <meditationism-error> (practicing to develop kayas), [ACHIEVEMENT FIXATION] (measuring progress), [STAGE HIERARCHY] (valuing Dharmakaya over Nirmanakaya), and [TEMPORAL PROJECTION] (placing kayas in time rather than recognizing as always-present aspects).
+Generates <meditationism-error> (practicing to develop kayas), <achievement-fixation> (measuring progress), <stage-hierarchy> (valuing Dharmakaya over Nirmanakaya), and <temporal-projection> (placing kayas in time rather than recognizing as always-present aspects).
 
-[086-099] [PERSONIFICATION ERROR] [DEITY EXTERNALIZATION]
+[86-99] <personification-error> <deity-externalization>
 **Misreading:**
 Samantabhadra, Vajradhara, the five family teachers, and the retinue interpreted as actual beings—enlightened persons with histories, personalities, and agency who exist "out there" in the pure field.
 
@@ -134,9 +134,9 @@ Dzogchen shifts from recognition of mind-nature to devotion to enlightened being
 The five families become five actual Buddha-personalities to invoke. The twelve links of dependent origination are personified into "the teacher who tames each according to capacity"—a cosmic tutor assigning personalized curricula.
 
 **Cascade effects:**
-Triggers [DEVOTIONALISM ERROR] (worship over recognition), [BLESSING EXTERNALIZATION] (seeking power from outside), [LINEAGE MATERIALISM] (treating transmission as physical transfer), and [SAVIOR COMPLEX] (waiting for enlightened beings to liberate).
+Triggers <devotionalism-error> (worship over recognition), <blessing-externalization> (seeking power from outside), <lineage-materialism> (treating transmission as physical transfer), and <savior-complex> (waiting for enlightened beings to liberate).
 
-[100-114] [TANTRA SUBSTITUTION ERROR] [SECRET MANTRA FIXATION]
+[100-114] <tantra-substitution-error> <secret-mantra-fixation>
 **Misreading:**
 The "secret mantra vajra vehicle" and "ocean-like tantra sections" interpreted as referring to actual tantric practices—visualizations, mantras, mudras—that must be performed to access the result.
 
@@ -150,9 +150,9 @@ Dzogchen is reduced to highest yoga tantra or mahayoga—complex practices with 
 Practitioners believe they need tantric prerequisites (ngondro, deity yoga, completion stage) before approaching Dzogchen. The three kayas become objects of generation-stage visualization. The term "secret" triggers esoteric exclusivity—"I have the secret practices you don't."
 
 **Cascade effects:**
-Generates [COMPLEXIFICATION ERROR] (adding unnecessary practices), [SECRETISM ERROR] (spiritual elitism), [PREPARATION PARALYSIS] (endlessly doing prerequisites), and [METHOD CONFUSION] (applying tantric logic to Dzogchen view).
+Generates <complexification-error> (adding unnecessary practices), <secretism-error> (spiritual elitism), <preparation-paralysis> (endlessly doing prerequisites), and <method-confusion> (applying tantric logic to Dzogchen view).
 
-[115-129] [CAUSAL INVERSION ERROR] [VEHICLE PREPARATION MYTH]
+[115-129] <causal-inversion-error> <vehicle-preparation-myth>
 **Misreading:**
 The three causal vehicles (sutra, vinaya, abhidharma) understood as necessary prerequisites one must complete before entering the result vehicle—like grade school before university.
 
@@ -166,7 +166,7 @@ Dzogchen becomes the culmination of a long causal journey rather than the ground
 The nine-yana framework becomes a ladder to climb. Sutra practitioners are viewed as "not ready" for Dzogchen. The simplicity of direct recognition is dismissed as "too advanced" for beginners, when actually it's too simple for sophisticated minds.
 
 **Cascade effects:**
-Triggers [GRADUALISM ERROR] (linear spiritual development), <elitism-error> (Dzogchen as reward for advanced practitioners), [DEFERRAL ERROR] ("I'm not ready yet"), and [SUTRA DISMISSAL] (viewing lower vehicles as obstacles rather than skillful means).
+Triggers <gradualism-error> (linear spiritual development), <elitism-error> (Dzogchen as reward for advanced practitioners), <deferral-error> ("I'm not ready yet"), and <sutra-dismissal> (viewing lower vehicles as obstacles rather than skillful means).
 
 [PAGE BLEED AWARENESS]
 
@@ -178,7 +178,7 @@ ERROR RISK: Readers may treat Page 2 as a complete cosmological description, mis
 
 SCHOLAR CHECK: Ensure reader understands Page 2 as structural exposition (ston pa/gnas/bstan pa triad) that continues developing through the chapter, not a self-contained cosmology.
 
-[130-137] [TEMPORAL ENLIGHTENMENT ERROR] [PRIMORDIAL BUDDHA HISTORICIZATION]
+[130-137] <temporal-enlightenment-error> <primordial-buddha-historicization>
 **Misreading:**
 "After the primordial protector's manifest enlightenment" (gdod ma'i mgon po mngon par byang chub nas) interpreted as describing a historical event—the moment when Samantabhadra first achieved awakening in the distant past.
 
@@ -192,9 +192,9 @@ Primordial awakening is historicized into an event with before-and-after. Samant
 Practitioners believe they must replicate this "original enlightenment" through practice. The "primordial" becomes a distant golden age rather than timeless immediacy. Awakening is understood as something that happened to someone else long ago.
 
 **Cascade effects:**
-Triggers [IMITATION ERROR] (trying to copy Samantabhadra's awakening), [TEMPORAL DISTANCE ERROR] (placing enlightenment in the past), [HISTORICIZATION ERROR] (treating timeless truth as historical event), and [LINEAGE ORIGIN MYTH] (viewing transmission as descending from first awakening).
+Triggers <imitation-error> (trying to copy Samantabhadra's awakening), <temporal-distance-error> (placing enlightenment in the past), <historicization-error> (treating timeless truth as historical event), and <lineage-origin-myth> (viewing transmission as descending from first awakening).
 
-[138-146] [EMANATION CHAIN ERROR] [COSMOLOGICAL CAUSALITY]
+[138-146] <emanation-chain-error> <cosmological-causality>
 **Misreading:**
 The sequence—from ground-appearance (gzhi snang) to Samantabhadra's awakening to field arrangement to Vajradhara emanation to trainee perception—interpreted as a causal chain: first X happened, then Y happened, then Z happened.
 
@@ -208,9 +208,9 @@ Dzogchen cosmology becomes a creation narrative—how the universe of enlightenm
 The five wisdoms (ye shes lnga) become effects of awakening rather than its nature. The five-family mandala is read as something constructed after enlightenment rather than its simultaneous display.
 
 **Cascade effects:**
-Generates [CREATIONISM ERROR] (enlightenment as world-creation), [CAUSAL SUCCESSION ERROR] (linear development model), [TEMPORAL EMANATION ERROR] (treating spontaneous display as gradual unfolding), and [COSMOGONIC LITERALISM] (reading Dzogchen as cosmology rather than phenomenology).
+Generates <creationism-error> (enlightenment as world-creation), <causal-succession-error> (linear development model), <temporal-emanation-error> (treating spontaneous display as gradual unfolding), and <cosmogonic-literalism> (reading Dzogchen as cosmology rather than phenomenology).
 
-[147-154] [COMPASSION MANUFACTURING ERROR] [ARTIFICIAL BODHICITTA]
+[147-154] <compassion-manufacturing-error> <artificial-bodhicitta>
 **Misreading:**
 "Compassionate mind arose" (brtsse ba'i thugs rje skyes te) understood as describing an emotional response—Samantabhadra felt sorry for confused beings and decided to help them.
 
@@ -224,9 +224,9 @@ Compassion is reified as an emotion that enlightened beings feel toward unenligh
 Practitioners attempt to "generate" compassion through meditation techniques, forcing emotional states. The "field arrangement for beings" is interpreted as deliberate activity rather than spontaneous responsiveness.
 
 **Cascade effects:**
-Triggers [AFFECTIVE PROJECTION] (emotional compassion onto Dzogchen), [PRACTICE COMPASSION] (techniques to generate bodhicitta), [DUALISTIC BENEVOLENCE] (I help you structure), and [ALTRUISM FIXATION] (valuing compassion as feeling).
+Triggers <affective-projection> (emotional compassion onto Dzogchen), <practice-compassion> (techniques to generate bodhicitta), <dualistic-benevolence> (I help you structure), and <altruism-fixation> (valuing compassion as feeling).
 
-[155-163] [QUOTATION REIFICATION ERROR] [SCRIPTURAL AUTHORITARIANISM]
+[155-163] <quotation-reification-error> <scriptural-authoritarianism>
 **Misreading:**
 The citation from "Treasury of the Secret King" (gsang ba rgyal po'i mdzod) interpreted as proof-texting—invoking an authoritative scripture to validate the claims being made.
 
@@ -240,9 +240,9 @@ The quotation becomes evidence for doctrinal propositions rather than poetic poi
 Practitioners seek the "original" Treasury of the Secret King as a separate text to study. The cited passage is extracted and analyzed independently of Longchenpa's integration. Textual authority is located in the cited source rather than in direct recognition.
 
 **Cascade effects:**
-Generates [CANONICAL FUNDAMENTALISM] (treating citations as proof), [SOURCE ANXIETY] (needing to verify quotations), [FRAGMENTATION ERROR] (separating citation from context), and [SCHOLASTIC AUTHORITARIANISM] (authority through scripture).
+Generates <canonical-fundamentalism> (treating citations as proof), <source-anxiety> (needing to verify quotations), <fragmentation-error> (separating citation from context), and <scholastic-authoritarianism> (authority through scripture).
 
-[164-172] [VAJRA ESSENCE SUBSTANTIALISM] [INDESTRUCTIBLE ENTITY]
+[164-172] <vajra-essence-substantialism> <indestructible-entity>
 **Misreading:**
 "Vajra-essence" (rdo rje snying po) interpreted as referring to an indestructible substance or core—something diamond-like that persists through all changes.
 
@@ -256,7 +256,7 @@ Awareness is substantialized into a thing that survives death, persists eternall
 The "vajra-essence teaching" becomes transmission of something precious and rare. Practitioners seek to "get" this essence through empowerment. The "wondrous marvel" (ngo mtshar rmad du byung ba) is interpreted as amazing object rather than ungraspable mystery.
 
 **Cascade effects:**
-Triggers [ATMAN PROJECTION] (eternal self-substance), [SUBSTANTIALIST BUDDHANATURE] (thing that becomes Buddha), [POSSESSION ERROR] (trying to get/keep the essence), and [MATERIALIST SPIRITUALITY] (treasure hunting for vajra-essence).
+Triggers <atman-projection> (eternal self-substance), <substantialist-buddhanature> (thing that becomes Buddha), <possession-error> (trying to get/keep the essence), and <materialist-spirituality> (treasure hunting for vajra-essence).
 
 [PAGE BLEED AWARENESS]
 
@@ -268,7 +268,7 @@ ERROR RISK: The "long after" (ring zhig nas) in line 73 might be read as literal
 
 SCHOLAR CHECK: Ensure reader understands "long after" as pedagogical sequencing (ground → display → response) not historical timeline.
 
-[173-174] [COSMOLOGICAL LITERALISM ERROR] [GEOGRAPHIC REIFICATION]
+[173-174] <cosmological-literalism-error> <geographic-reification>
 **Misreading:**
 The descriptions of twenty-five fields, Mount Meru, seven seas, four continents, and specific locations (Akanishta, Dense Array) interpreted as actual cosmic geography—physical places existing somewhere in the universe.
 
@@ -282,5 +282,5 @@ Dzogchen cosmology becomes either literal cosmography to be believed or outdated
 Practitioners visualize these fields as actual places during meditation, trying to "go there" through imagination. The "field of Dense Array" becomes a destination rather than recognition-state.
 
 **Cascade effects:**
-Triggers [SPATIAL DUALISM] (here vs. there), [FUNDAMENTALIST ACCEPTANCE] (believing impossible geography), [SCIENTIFIC DISMISSAL] (rejecting entire teaching), [MEDITATION TOURISM] (visualizing travel to pure lands), and [SYMBOLIC BLINDNESS] (missing metaphorical richness).
+Triggers <spatial-dualism> (here vs. there), <fundamentalist-acceptance> (believing impossible geography), <scientific-dismissal> (rejecting entire teaching), <meditation-tourism> (visualizing travel to pure lands), and <symbolic-blindness> (missing metaphorical richness).
 
