@@ -5,9 +5,8 @@
 ---
 
 [002-002] [ORNAMENTAL]
-- Type: Structural marker
-- Elements: Brief notation or enumeration marker
-
+- Type: Sanskrit title
+- Elements: Transliterated Sanskrit
 
 ---
 
@@ -17,10 +16,9 @@
 
 ---
 
-[004-004] [PROSE]
-- Type: Doctrinal exposition
-- Style: Expository prose
-- Structure: Brief passage
+[004-004] [ORNAMENTAL]
+- Type: Tibetan title
+- Elements: Main title text
 
 ---
 
@@ -36,23 +34,44 @@
 
 ---
 
-[007-035] [PROSE]
-- Type: Doctrinal exposition
-- Style: Expository prose
-- Structure: Extended analysis with multiple points
+[007-011] [ORNAMENTAL]
+- Type: Structural markers
+- Elements: Language indicators and subtitles
 
 ---
 
-[036-036] [PROSE]
-- Type: Doctrinal exposition
-- Style: Expository prose
-- Structure: Brief passage
+[012-027] [VERSE]
+- Primary meter: Prologue homage (7-syllable)
+- Syllable pattern: 7-7-7-7 with parallelism
+- Stanzas: 4 quatrains
+- Style: Majestic invocation
 
 ---
 
-[037-174] [PROSE]
+[028-060] [PROSE]
+- Type: Doctrinal exposition
+- Style: Expository prose
+- Structure: Introduction to text organization
+
+---
+
+[061-061] [PROSE]
+- Type: Citation marker
+- Style: Introduction to tantra quotation
+
+---
+
+[062-109] [VERSE]
+- Primary meter: Tantra citation (7-syllable)
+- Syllable pattern: 7-7-7-7
+- Style: Vajra speech from Treasury of Secret King
+- Content: Cosmogony and field arrangement
+
+---
+
+[110-174] [PROSE]
 - Type: Doctrinal exposition
 - Style: Philosophical argumentation
-- Structure: Extended analysis with multiple points
+- Structure: Extended analysis with citations
 
 ---
