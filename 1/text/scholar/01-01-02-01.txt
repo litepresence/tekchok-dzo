@@ -1,4 +1,4 @@
-[175-176] [STRUCTURE]
+[175-176] <structure>
 # The Emanation Doctrine
 **Analysis:** The text establishes three modes of Buddha-emanation:
 
@@ -8,14 +8,14 @@
 
 This threefold schema (*dang po, l la, l lar*) resolves potential confusion about multiple Buddha-lineages by subordinating all to the primordial Samantabhadra.
 
-[176] [PHILOLOGY] The Term *rgyud nas don mdzad*
+[176] <philology> The Term *rgyud nas don mdzad*
 **Analysis:** The phrase "purpose-accomplishment through tantra" (*rgyud nas don mdzad pa*) uses the ablative *nas* to indicate agency or instrumentality. In Nyingma doxography, this term specifically denotes the manner in which Samantabhadra's enlightened activity flows through tantric revelation—activity that is "tantric" not because of ritual complexity but because it represents the direct expression of primordial awareness.
 
-[177-179] [CONTEXT]
+[177-179] <context>
 # Common Sūtra Lineage Formula
 **Analysis:** The sequence "From Buddha comes dharma, from dharma come the ārya hosts" (*sangs rgyas las chos/ chos las 'phags pa'i tshogs*) is the standard formula for the *bsrung 'khor* (protective wheel) of transmission found in mainstream Buddhist texts. Longchenpa includes this to demonstrate that the Dzogchen view encompasses common sūtra teachings while transcending them.
 
-[180-191] [STRUCTURE]
+[180-191] <structure>
 # Refutation of Multiple Buddha-Origins
 **Analysis:** This section addresses a doxographical controversy: whether different tantras have different "first Buddhas." The text rejects the view (*'dod pa*) that different tantric systems (*rgyud gzhan*) generated different minds (*sems bskyaed*). Instead, it cites the *Magical Vairotsana* (*sgyu 'phrul drva ba*), the central tantra of the *Māyājāla* cycle:
 
@@ -27,13 +27,13 @@ The four epithets in lines 184-185:
 
 These identify Vajradhara as the singular source. The term *sa'i sangs rgyas* is particularly significant—it identifies the Buddha with the *ground* (*sa* = *bhūmi*), suggesting that enlightenment is not an attainment but recognition of the ground itself.
 
-[189] [PHILOLOGY] The Particle *zhes bya ba*
+[189] <philology> The Particle *zhes bya ba*
 **Analysis:** The phrase *zhes bya ba* ("thus it is said") functions as a quotative marker, indicating scriptural citation. The term *'gal ba* (contradiction) introduces the refutation (*dgag pa*) of the opposing view, employing standard debate terminology.
 
-[190] [CONCEPT] The Demonstration Model of Buddhahood
+[190] <concept> The Demonstration Model of Buddhahood
 **Analysis:** Longchenpa describes the emanation process as a pedagogical display (*ston pa*) rather than an ontological transformation. Ordinary beings generate mind (*sems bskyed* = bodhicitta), demonstrate Buddhahood (*sangs rgyas pa'i tshul*), and open the great play (*mdzad pa chen po rol pa*). This mirrors the *tathāgatagarbha* doctrine that enlightenment is revealed rather than achieved—Buddhas "appear" to demonstrate what is already present.
 
-[192-199] [CONTEXT]
+[192-199] <context>
 # Citations from the Yab-sras Mjal-ba and Avataṃsaka
 **Analysis:** The text quotes the *Yab sras mjal ba* (Meeting of Father and Son Sūtra), a major Mahāyāna scripture detailing the dialogues between Buddha and his son Rāhula, which became particularly important in Nyingma narrative doxography. The verses emphasize the inexhaustible nature of Buddha-activity—the "great hero" (*dpa' bo chen po*) continues demonstrating Buddhas even after attaining Buddhahood "ten-million times" (*bye ba phrag brgyar*).
 
@@ -45,11 +45,11 @@ The quotation from the *Phal po che* (Avataṃsaka/Gaṇḍavyūha) uses the "oc
 
 This rhetorical repetition (*anuprāsa*) establishes the inexhaustible (*mi 'grib*) nature of sugata-emanation.
 
-[192-199] [PHILOLOGY]
+[192-199] <philology>
 The Comparative Particle *yang*
 **Analysis:** The repeated use of *yang* (even/also/still) in lines 196-197 (*da dung du yang*) emphasizes continuity despite apparent completion. The phrase *sangs rgyas mang po ston par mdzad* uses the terminative *par* with the verb *mdzad* to indicate the performance of demonstrating many buddhas. This is an honorific construction appropriate for describing enlightened activity.
 
-[200-206] [STRUCTURE]
+[200-206] <structure>
 # The Pedagogical Emanation Narrative
 **Analysis:** Longchenpa presents a hagiographical account of the First Protector's (*thog ma'i mgon po*) emanation activity. The narrative structure follows the classic *avadāna* pattern:
 
@@ -60,7 +60,7 @@ The Comparative Particle *yang*
 
 The detailed proper names (*Yon tan 'byung ldan*, *Rin chen 'phreng*, *Sgra gcan 'od*) serve as mnemonic devices encoding specific aspects of the path.
 
-[200-206] [CONTEXT]
+[200-206] <context>
 # The Avataṃsaka in Nyingma Transmission
 **Analysis:** The *Avataṃsaka Sūtra* (particularly the *Gaṇḍavyūha* chapter) was transmitted to Tibet through multiple routes:
 - **Direct translation:** By Jinamitra, Surendrabodhi, Ye shes sde (8th century)
@@ -69,17 +69,17 @@ The detailed proper names (*Yon tan 'byung ldan*, *Rin chen 'phreng*, *Sgra gcan
 
 The ocean metaphor specifically references Sudhana's journey through 53 teachers, demonstrating that bodhisattva conduct is indeed "unceasing" (*dus kun ston* = demonstrated at all times).
 
-[207-210] [PHILOLOGY]
+[207-210] <philology>
 Temporal and Spatial Markers
 **Analysis:** The phrase *bskal pa bzang po* (Fortunate Eon) refers to the *bhadrakalpa*, the current cosmic aeon in which 1,000 Buddhas will appear. The construction *bskal pa dpag tu med pa sngon du* (before immeasurable eons) uses the terminative particle *du* with *sngon* to indicate temporal anteriority.
 
 The field name *Rang bzhin rnam par bkod pa* (Self-Nature Completely Arranged) encodes Dzogchen ontology—the field is not external but the complete arrangement (*rnam par bkod*) of one's own nature (*rang bzhin*).
 
-[207-210] [CONCEPT]
+[207-210] <concept>
 The Thought-to-Train Connection
 **Analysis:** The phrase *gdul bar dgongs nas* (intending to tame) establishes the teleological structure of emanation: all manifestation arises from compassionate intention (*thugs rje*). The instrumental *bas* in *rnam par 'phrul bas* indicates that the emanation is the MEANS by which the intention is accomplished. This reflects the *Sādharmapuṇḍarīka*'s teaching on skillful means (*upāya-kauśalya*).
 
-[211-215] [CONCEPT]
+[211-215] <concept>
 The Graduated Path as Emanation Display
 **Analysis:** The three specific births described illustrate the three-kāya path:
 
@@ -89,11 +89,11 @@ The Graduated Path as Emanation Display
 
 The ages mentioned (5 years hearing Dharma, 7 years samādhi, 75 years at enlightenment) encode numerological symbolism: 5 = five wisdoms, 7 = seven branches of enlightenment, 75 = completion of worldly existence.
 
-[211-215] [PHILOLOGY]
+[211-215] <philology>
 The Sequential Particle *de nas*
 **Analysis:** The phrase *de nas skye ba gnyis na* (then at the second birth) uses *de nas* to establish narrative progression. This temporal marker creates a framework for understanding emanation as gradual rather than instantaneous—a pedagogical concession to those who require sequential understanding. The instrumental *gyis* in *byas pa'i phyi* indicates the causal agency: the son Jewel-Garland was created BY the householder.
 
-[216-218] [STRUCTURE]
+[216-218] <structure>
 # Transition from Dharmakāya to Saṃbhogakāya
 **Analysis:** The text describes a temporal sequence (*de nas* = then/afterward):
 1. **Dharmakāya phase:** Dwelling one great eon (*bskal pa chen po gcig*) in dharma-body meaning
@@ -102,7 +102,7 @@ The Sequential Particle *de nas*
 
 This structure mirrors the Nyingma three-kāya cosmogony: primordial purity (*ka dag*) naturally displays as spontaneous presence (*lhun grub*), which further manifests as compassionate energy (*thugs rje*).
 
-[216-218] [CONTEXT]
+[216-218] <context>
 # The Thirty-Six Tantras
 **Analysis:** The "thirty-six tantras" (*rgyud sum cu rtsa drug*) refers to the Nyingma classification system:
 - **Three outer tantras:** Kriyā, Caryā, Yoga (3)
@@ -112,11 +112,11 @@ This structure mirrors the Nyingma three-kāya cosmogony: primordial purity (*ka
 
 This totals 36, representing the complete range of Nyingma tantric literature. The self-arising (*rang byung*) nature of these tantras indicates that they are not human compositions but primordially present manifestations of enlightened mind.
 
-[216-218] [PHILOLOGY]
+[216-218] <philology>
 The Particle *las* as Source
 **Analysis:** The phrase *'od zer gyi 'phro 'du las* (from light-ray radiation-convergence) uses *las* to indicate origin. This establishes the mechanics of manifestation: tantras arise from the play of light—radiation (*'phro*) and convergence (*'du*)—indicating that scripture is not static text but dynamic energetic pattern. The reflexive *rang* in *rang byung* emphasizes non-dependence on external causes.
 
-[216-218] [CONCEPT]
+[216-218] <concept>
 Light as the Medium of Transmission
 **Analysis:** The text's emphasis on light (*'od zer*) as the source of tantric revelation reflects:
 - **Physics:** Light as carrier of information and energy
@@ -126,7 +126,7 @@ Light as the Medium of Transmission
 
 The convergence and divergence of light-rays model how teachings appear to different beings based on their capacity—like a single light-source casting different shadows based on the shape of obstacles.
 
-[216-218] [CONTEXT]
+[216-218] <context>
 # Comparative Cosmogony
 **Analysis:** Longchenpa's cosmogony parallels other systems:
 - **Stoic:** *Pneuma* (breath/fire) as active principle
@@ -136,7 +136,7 @@ The convergence and divergence of light-rays model how teachings appear to diffe
 
 The distinctive Nyingma contribution is framing this cosmogony within the three-kāya doctrine, where each level of manifestation serves a specific pedagogical function while remaining non-dual with the ground.
 
-[220-221] [CONCEPT]
+[220-221] <concept>
 The Fivefold Radiation of Wisdom
 **Analysis:** The text describes a cascade of manifestation:
 
@@ -146,11 +146,11 @@ The Fivefold Radiation of Wisdom
 4. **Six syllables** (*rang byung gi yi ge drug*)—the six-syllable mantra (OṂ MAṆI PADME HŪṂ) as the acoustic signature of spontaneous presence
 5. **Activity without effort** (*mdzad pa med pa*)—compassion that radiates naturally without deliberation
 
-[220-221] [PHILOLOGY]
+[220-221] <philology>
 The Particle *las* as Agent
 **Analysis:** The construction *las 'od zer dpag tu med pa 'phros* (from [the tongue] radiated immeasurable light-rays) uses *las* to indicate the agent or source of the radiation. This establishes the tongue as an active faculty of manifestation. The term *rang byung* (self-arisen) modifying the six syllables emphasizes their non-created nature—they are not conventional words but primordial sounds.
 
-[222-228] [STRUCTURE]
+[222-228] <structure>
 # The Five Buddha Families and Their Maṇḍalas
 **Analysis:** Longchenpa systematically enumerates the five Buddha-families:
 
@@ -164,7 +164,7 @@ The Particle *las* as Agent
 
 Each appears with "individual maṇḍalas and retinues countless" (*so so'i dkyil 'khor dang bcas pa grangs med*), indicating that each wisdom-aspect contains infinite subdivisions. The phrase "Great Perfection's body blazes with light" (*rdzogs pa chen po'i skur 'od 'bar*) appears twice (lines 223 and 228), framing the enumeration as the display of Dzogchen realization.
 
-[222-228] [CONTEXT]
+[222-228] <context>
 # The Five Buddha Families in Nyingma Sources
 **Analysis:** The five-family system derives from:
 - **Early tantras:** *Tattvasaṃgraha*, *Guhyasamāja*
@@ -174,14 +174,14 @@ Each appears with "individual maṇḍalas and retinues countless" (*so so'i dky
 
 Longchenpa's innovation is framing each family within the Dzogchen context of self-arising luminosity.
 
-[229-231] [PHILOLOGY]
+[229-231] <philology>
 Proper Names as Ontological Indicators
 **Analysis:** The name "Light-House" (*'od kyi khang pa*) describes the palace of the Saṃbhogakāya as pure luminosity. "Gang-chen-mtsho" (Great Ocean of the Ganges) combines *gang*+ *chen* (Ganges) + *mtsho* (ocean/lake), evoking the inexhaustible nature of wisdom. The title "Teacher Completely Pure, Self-Knowing Awareness King" (*ston pa rnam par dag pa rang shes rig gi rgyal po*) identifies Vairocana with:
 - *rnam par dag pa* = complete purity (beyond obscuration)
 - *rang shes rig* = self-knowing awareness (*svasaṃvedana*)
 - *rgyal po* = sovereign (autonomous, unconditioned)
 
-[229-231] [STRUCTURE]
+[229-231] <structure>
 # The Palace Architecture
 **Analysis:** The text describes the "pure light-house extremely well-arranged" (*'od khyim rnam par dag pa shin tu bkod legs pa*)—the standard architecture of pure lands according to texts like the *Sukhāvatī-vyūha*:
 - Made of light (*'od*), not material
@@ -189,7 +189,7 @@ Proper Names as Ontological Indicators
 - Extremely well-arranged (*shin tu bkod legs*), indicating perfect order
 - Layered chambers (*gnas khang bu brtsegs pa*), suggesting hierarchical dimensions
 
-[232-237] [STRUCTURE]
+[232-237] <structure>
 # The Six Non-Attributes of Dharmakāya
 **Analysis:** The six negations (*med pa*) describe the Dharmakāya's transcendence of all categories:
 
@@ -202,15 +202,15 @@ Proper Names as Ontological Indicators
 
 These are not mere negative assertions but precise descriptions of the ground's (*gzhi*) relationship to manifestation: it neither comes from anywhere (*mi 'byung*), stays anywhere (*mi gnas*), nor goes anywhere (*mi g.yo*).
 
-[232-237] [PHILOLOGY]
+[232-237] <philology>
 The Verbal Prefixes *mi-*
 **Analysis:** The six negations employ the negative prefix *mi-* with active verbs, creating a systematic apophatic description. The alternation between *mi-* and *ma-* (as in *byas pa med pa*) follows Tibetan grammatical conventions: *mi-* negates present/future actions, while *ma-* negates past/completed actions. This temporal distinction is significant: the Dharmakāya is not merely not moving NOW, but never has moved and never will move.
 
-[238-248] [CONCEPT]
+[238-248] <concept>
 The Tamer of the Untamable
 **Analysis:** The paradoxical phrase "tamer of those not to be tamed" (*gdul bya ma yin gdul byed*) points to the ultimate nature of compassion: even those who seem beyond help—those who "cannot" be tamed—are naturally embraced by the display of awareness. The fivefold radiation (body, speech, mind, qualities, activities) creates a closed loop of self-recognition: what radiates forth gathers back (*spor 'dus*), indicating that manifestation and recognition are non-dual.
 
-[238-248] [CONTEXT]
+[238-248] <context>
 # The Five Aspects in Nyingma Tantras
 **Analysis:** The five aspects (*sku gsung thugs yon tan 'phrin las*) derive from:
 - **Māyājāla tantra:** The fivefold maṇḍala of body, speech, mind, qualities, activities
@@ -219,23 +219,23 @@ The Tamer of the Untamable
 
 The "jewel-ornament retinue" (*rin po che mdzes pa'i 'khor*) refers to the Saṃbhogakāya maṇḍala as infinitely precious yet naturally beautiful.
 
-[244-248] [PHILOLOGY]
+[244-248] <philology>
 The Negative Existential *ma yin*
 **Analysis:** The construction *'jig rten ma yin* (not being [ordinary] world) uses the negative existential *ma yin* rather than the negative verb *min*. This distinction is crucial: *ma yin* negates identity (these are not the ordinary worlds), while *min* would negate existence (these do not exist). The text preserves the ontological status of pure lands while distinguishing them from impure realms.
 
-[244-248] [STRUCTURE]
+[244-248] <structure>
 # The Fractal Architecture of Pure Lands
 **Analysis:** The final vision—"all appearances, upper and lower, ten directions' worlds, not being... self-arisen Buddha-field clearly became"—resolves all apparent multiplicity into the "dense arrangement" (*stug po bkod pa*) of pure appearance, which is itself the "qualities-complete body of Vajradhara" (*rdo rje 'chang gi yon tan phun sum tshogs pa'i sku*).
 
 This establishes a fractal cosmology: every point contains the whole, and the whole is present in every point. The "upper and lower" (*steng 'og*) and "ten directions" (*phyogs bcu*) create a three-dimensional coordinate system within which all fields are simultaneously present.
 
-[250-256] [PHILOLOGY]
+[250-256] <philology>
 Purification and Appearance
 **Analysis:** The phrase *bsod nams rnam par dag pas sku snang la rang bzhin med pa* (merit pure, body appears without nature) uses the instrumental *pas* to indicate causal agency. This presents the Yogācāra-tathāgatagarbha synthesis: purification of merit (*bsod nams*) leads to appearance without inherent nature (*rang bzhin med*), demonstrating that apparent form (*sku snang*) and emptiness are non-dual.
 
 The compound *rdzogs pa chen po chos nyid rdo rje* (Dzogchen dharma-nature vajra) identifies the teaching's actual nature (*dngos) as the vajra of dharmatā—the inseparability of Dzogchen view (*rdzogs pa chen po*) and the nature of phenomena (*chos nyid*).
 
-[256] [STRUCTURE] # The Five Perfections Framework
+[256] <structure> # The Five Perfections Framework
 **Analysis:** The five perfections (*phun sum tshogs pa lnga*) here refer to the completeness of the Saṃbhogakāya state. When viewing dharmatā (*chos nyid la mthong ba*), pure conduct abides as five perfections. This anticipates the standard presentation:
 1. Perfect teacher (*ston pa*)
 2. Perfect retinue (*'khor*)
@@ -243,10 +243,10 @@ The compound *rdzogs pa chen po chos nyid rdo rje* (Dzogchen dharma-nature vajra
 4. Perfect teaching (*bstan pa*)
 5. Perfect time (*dus*)
 
-[257] [CONCEPT] The Thirty-Six Activities
+[257] <concept> The Thirty-Six Activities
 **Analysis:** The "thirty-six ornament-wheel activities" (*rgyan gyi 'khor lo'i mdzad pa sum cu rtsa drug*) represents the standard Dzogchen enumeration of enlightened activity. These are divided across body, speech, and mind (12 each), with each set subdivided into outer, inner, and secret (4 each). The mathematical structure (3 × 12 = 36, or 3 × 3 × 4) reflects the three-kāya architecture.
 
-[258-272] [STRUCTURE]
+[258-272] <structure>
 # The Twelvefold Body Activity
 **Analysis:** The text enumerates body activities in three groups of four:
 
@@ -270,7 +270,7 @@ The compound *rdzogs pa chen po chos nyid rdo rje* (Dzogchen dharma-nature vajra
 
 The progression moves from negation (outer/inner) to positive description (secret), mirroring the prasaṅgika-svātantrika methodology.
 
-[273-287] [STRUCTURE]
+[273-287] <structure>
 # The Twelvefold Speech Activity
 **Analysis:** Speech activities follow the same 4×3 structure:
 
@@ -292,7 +292,7 @@ The progression moves from negation (outer/inner) to positive description (secre
 3. *rang bzhin* — natural (repeated for emphasis)
 4. *ma bcos* — unfabricated/unaltered
 
-[288-298] [STRUCTURE]
+[288-298] <structure>
 # The Twelvefold Mind Activity
 **Analysis:** Mind activities are described through specific samādhi-names rather than negations:
 
@@ -310,7 +310,7 @@ The progression moves from negation (outer/inner) to positive description (secre
 
 These samādhi-names are standard in *Guhyasamāja* and *Kālacakra* literature, indicating Longchenpa's integration of tantric terminology into the Dzogchen framework.
 
-[299-302] [PHILOLOGY]
+[299-302] <philology>
 Completion of the Secret Mind Activities
 **Analysis:** The final four secret mind-activities complete the 36-fold structure:
 1. *phyag rgya zil gyis gnon pa* — mudrā's subjugation/overwhelming (transcendent gesture)
@@ -320,7 +320,7 @@ Completion of the Secret Mind Activities
 
 The samādhi-name (*ting nge 'dzin*) explicitly identifies these as meditative absorptions, distinguishing them from ordinary mental states.
 
-[299-302] [CONTEXT]
+[299-302] <context>
 # The Thirty-Six Activities in Nyingma Tantras
 **Analysis:** The thirty-six activities (*mdzad pa sum cu rtsa drug*) derive from the *Guhyagarbha* and *Māyājāla* tantric systems:
 - **Twelve body activities:** Emanation, blessing, purification, etc.
@@ -329,15 +329,15 @@ The samādhi-name (*ting nge 'dzin*) explicitly identifies these as meditative a
 
 Each category is further divided into outer (*phyi*), inner (*nang*), and secret (*gsang*) dimensions. Longchenpa's schema synthesizes these into a comprehensive framework for understanding Saṃbhogakāya activity.
 
-[303-304] [CONCEPT]
+[303-304] <concept>
 Activity Without Agent
 **Analysis:** The crucial distinction is made between "meaning's agent activity" (*don byed kyi mdzad pa*) and true enlightened activity. The instrumental particle *kyis* in line 304 indicates instrumentality: activity is designated (*bya'o*) through/by means of (*gyur pas*) "qualities' essence and radiance" (*yon tan gyi ngo bo dang rtsal*). This establishes the Dzogchen view that activity is not intentional action but the spontaneous display (*rtsal*) of inherent qualities.
 
-[303-304] [PHILOLOGY]
+[303-304] <philology>
 The Negation *ma yin gyi*
 **Analysis:** The construction *don byed kyi mdzad pa ni ma yin gyi* (it is not the activity of a meaning-agent) uses *ma yin* to negate identity, followed by *gyi* indicating the true nature. This creates a dialectical structure: first negating the ordinary understanding, then establishing the extraordinary understanding. The verb *bya'o* (is designated/called) establishes nominal definition rather than ontological assertion.
 
-[305-308] [STRUCTURE]
+[305-308] <structure>
 # The Saṃbhogakāya Maṇḍala Architecture
 **Analysis:** The text describes the generation of the Saṃbhogakāya field through:
 1. **Source:** Unobstructed radiance (*rtsal*) of former appearance and compassion
@@ -347,7 +347,7 @@ The Negation *ma yin gyi*
 
 The simile "colors and forms like water and moon" (*chu zla 'dra ba*) refers to the *udaka-candra* (water-moon) analogy in Yogācāra: appearances are vivid and functional yet empty of inherent existence, like a moon reflected in water.
 
-[305-308] [CONTEXT]
+[305-308] <context>
 # The Thirty-Two Fields
 **Analysis:** The "twenty-five stacked" (*nyi shu rtsa lnga brtsegs*) plus additional fields creating thirty-two corresponds to:
 - **Twenty-five:** Five families × fivefold perfection (teacher, retinue, place, teaching, time)
@@ -355,7 +355,7 @@ The simile "colors and forms like water and moon" (*chu zla 'dra ba*) refers to 
 
 This numerical structure reflects the *Guhyasamāja* maṇḍala's architecture, adapted for Dzogchen presentation.
 
-[309-316] [CONCEPT]
+[309-316] <concept>
 Fractal Buddha-Field Architecture
 **Analysis:** The text presents multiple overlapping structural metaphors:
 
@@ -366,11 +366,11 @@ Fractal Buddha-Field Architecture
 
 The sixteen-sixteen fields (*bchu drug bcu drug*) refers to the 256 (16×16) palace configuration standard in *Guhyasamāja* maṇḍala architecture. The phrase "not as layered masses" (*brtsigs ma ma yin*) distinguishes some configurations from hierarchical arrangements.
 
-[309-316] [PHILOLOGY]
+[309-316] <philology>
 The Comparative Particle *lta bu*
 **Analysis:** The repeated use of *lta bu* (like/similar to) creates extended similes (*snyan ngag* conventions). The construction *rgya theb brtsegs pa lta bu* (like stacked extent-reaches) employs architectural terminology to describe three-dimensional maṇḍala space. The term *brtsegs ma* (layered/stacked) indicates vertical hierarchy, while *phan tshun* (mutual/reciprocal) suggests horizontal interconnection.
 
-[317-322] [STRUCTURE]
+[317-322] <structure>
 # Summary of Saṃbhogakāya Teaching Dimension
 **Analysis:** The text summarizes the Saṃbhogakāya realm's characteristics:
 - **Teaching nature:** Actual/real (*dngos*), not provisional
@@ -381,11 +381,11 @@ The Comparative Particle *lta bu*
 
 The transition from the general description to specific "four outer activities" of the body begins the detailed enumeration that will continue in subsequent pages.
 
-[317-322] [PHILOLOGY]
+[317-322] <philology>
 The Particle *yang* as Enumerative Marker
 **Analysis:** The repeated use of *yang* (also/furthermore/moreover) in lines 309, 311, 315, and 316 functions as an enumerative particle, indicating the continuation and proliferation of the maṇḍala structure. This rhetorical device emphasizes the inexhaustible (*mi zad pa*) nature of the display.
 
-[317-322] [CONCEPT]
+[317-322] <concept>
 The Self-Arisen Syllable Doctrine
 **Analysis:** The phrase *sus kyang byas pa med pa* (not made/created by anyone) applied to the syllables (*yi ge*) establishes the Dzogchen theory of self-arisen sound (*rang byung gi sgra*). This contrasts with:
 - **Conventional linguistics:** Sounds as arbitrary symbols
@@ -394,7 +394,7 @@ The Self-Arisen Syllable Doctrine
 
 Dzogchen posits that enlightened speech is not constructed but spontaneously present as the acoustic dimension of awareness itself.
 
-[317-322] [CONTEXT]
+[317-322] <context>
 # The Fivefold Buddha Speech in Tantra
 **Analysis:** The doctrine of self-arisen syllables relates to the fivefold classification of Buddha-speech:
 1. **Natural sound** (*rang sgra*) — spontaneous acoustic manifestation
@@ -405,7 +405,7 @@ Dzogchen posits that enlightened speech is not constructed but spontaneously pre
 
 The "thirty-six activities" framework organizes these speech-functions into a comprehensive pedagogical system, with each activity corresponding to a specific need of trainees.
 
-[317-322] [STRUCTURE]
+[317-322] <structure>
 # The Architecture of Manifestation
 **Analysis:** The detailed description of Saṃbhogakāya architecture serves multiple functions:
 - **Visualization support:** Providing structure for meditation practice
@@ -415,7 +415,7 @@ The "thirty-six activities" framework organizes these speech-functions into a co
 
 The thirty-six activities operate within this architecture like different rooms in a palace—each with specific function, all unified in the single structure of enlightened display.
 
-[323-325] [STRUCTURE]
+[323-325] <structure>
 # The Threefold Body Activity: Outer Level
 **Analysis:** The text presents three "face-hand" (*zhal phyag*) activities of the body:
 
@@ -425,7 +425,7 @@ The thirty-six activities operate within this architecture like different rooms 
 
 The term *zhal phyag* (Skt. *mukhahasta*) refers to symbolic hand-gestures (*mudrā*) combined with facial expressions that indicate specific enlightened qualities. The instrumental *kyis* indicates these are means (*thabs*) by which the body's qualities are perfected (*rdzogs par mdzad*).
 
-[326-330] [CONCEPT]
+[326-330] <concept>
 The Four Inner Body Activities
 **Analysis:** The inner activities (*nang gi bzhi*) correspond to the classical major and minor marks of a Buddha (*lakṣaṇa* and *anuvyañjana*):
 
@@ -436,7 +436,7 @@ The Four Inner Body Activities
 
 This enumeration follows the *Ratnagotravibhāga* and mainstream Buddhist buddhology, demonstrating Longchenpa's grounding in common Mahāyāna framework.
 
-[331-335] [CONCEPT]
+[331-335] <concept>
 The Four Secret Body Activities
 **Analysis:** The secret level (*gsang ba*) describes non-conceptual, non-dual qualities:
 
@@ -447,7 +447,7 @@ The Four Secret Body Activities
 
 This describes the Dzogchen realization that awareness is simultaneously empty and clear (*stong gsal*), with no separation between inner/outer, and no fixation in any direction.
 
-[336-340] [STRUCTURE]
+[336-340] <structure>
 # The Four Outer Speech Activities
 **Analysis:** The speech activities at the outer level describe emanation and communication:
 
@@ -458,7 +458,7 @@ This describes the Dzogchen realization that awareness is simultaneously empty a
 
 The father-mother symbolism (*yab yum*) represents the non-dual union of appearance (*snang*) and emptiness (*stong*), skillful means (*thabs*) and wisdom (*shes rab*).
 
-[341-345] [CONCEPT]
+[341-345] <concept>
 The Four Inner Speech Activities
 **Analysis:** Inner speech transcends ordinary verbal communication:
 
@@ -469,7 +469,7 @@ The Four Inner Speech Activities
 
 The phrase *brjod du med pa* (inexpressible) refers to the *nirabhilāpya* nature of ultimate truth in Madhyamaka philosophy.
 
-[346-349] [CONCEPT]
+[346-349] <concept>
 The Four Secret Speech Activities
 **Analysis:** Secret activities involve pure engagement through threefold practice (*spyor ba*):
 
@@ -480,7 +480,7 @@ The Four Secret Speech Activities
 
 The term *zag pa med pa* (outflow-free/without āsrava) indicates the transcendence of defilements (*kleśa*) and the impurities that bind beings to saṃsāra.
 
-[351-355] [STRUCTURE]
+[351-355] <structure>
 # The Four Outer Mind Activities
 **Analysis:** The outer mind activities (*thugs kyi phyi'i mdzad pa*) are described through four specific samādhis:
 
@@ -491,7 +491,7 @@ The term *zag pa med pa* (outflow-free/without āsrava) indicates the transcende
 
 The phrase *mngon par 'du mi byed pa* (non-composite/not mentally constructed) refers to the *nirvikalpa* state in Yogācāra—the direct perception of reality without conceptual elaboration.
 
-[351-355] [CONTEXT]
+[351-355] <context>
 # The Four Samādhis in Mahāyāna Sources
 **Analysis:** These four samādhis derive from multiple sources:
 - **Prajñāpāramitā sūtras:** The samādhi of non-attachment
@@ -501,11 +501,11 @@ The phrase *mngon par 'du mi byed pa* (non-composite/not mentally constructed) r
 
 Longchenpa's presentation integrates these into the three-kāya framework, showing how each samādhi serves a specific pedagogical function.
 
-[351-355] [PHILOLOGY]
+[351-355] <philology>
 The Instrumental Construction *kyis*
 **Analysis:** The repeated use of *kyis* (instrumental particle) indicates that samādhi is the MEANS of accomplishing each activity. The construction *bya dang rtog pa'i mdzad pa mkhyen par mdzad* uses *par* with the verb to create a resultative construction: "causes the knowing of activity and thought." This establishes samādhi as instrumental cause (*saṃprayayika-hetu*) rather than material cause.
 
-[356-360] [CONCEPT]
+[356-360] <concept>
 The Five Wisdoms at the Inner Level
 **Analysis:** The inner activities (*nang gi bzhi*) present four of the five wisdoms (*ye shes lnga*):
 
@@ -516,7 +516,7 @@ The Five Wisdoms at the Inner Level
 
 The standard fifth wisdom—Dharmadhātu wisdom (*chos dkyil gyi ye shes*)—is implied as the ground from which these four function. The instrumental *kyis* indicates that these wisdoms are the means by which enjoyment occurs.
 
-[356-360] [CONTEXT]
+[356-360] <context>
 # The Five Wisdoms in Buddhist Tantra
 **Analysis:** The five wisdoms (*pañca-jñāna*) systematize enlightened cognition:
 - **Śrāvakayāna:** Five wisdoms not explicitly taught
@@ -526,7 +526,7 @@ The standard fifth wisdom—Dharmadhātu wisdom (*chos dkyil gyi ye shes*)—is 
 
 The *me long* (mirror) metaphor indicates that these wisdoms reflect all phenomena without modification, like a mirror reflecting images without being changed by them.
 
-[361-365] [CONCEPT]
+[361-365] <concept>
 The Four Secret Mind Activities: Non-dual Pairs
 **Analysis:** The secret level presents four non-dual (*dbyer med*) abidings that dissolve dualistic fixations:
 
@@ -537,15 +537,15 @@ The Four Secret Mind Activities: Non-dual Pairs
 
 This is the heart of Dzogchen view: all apparent dualities resolve in the recognition of non-duality. The term *mtha' chod* (cutting the limit/extreme) refers to transcending both eternalism and nihilism—the two extremes (*mtha' gnyis*) in Madhyamaka dialectic.
 
-[361-365] [PHILOLOGY]
+[361-365] <philology>
 The Term *dbyer med*
 **Analysis:** The compound *dbyer med* (without difference/non-dual) combines *dbyer* (difference/distinction) with the negative *med*. This is more precise than *gnyis med* (without two), indicating not merely the absence of two but the impossibility of making distinctions. The particle *du* in *bzhugs pas* creates a continuative: "through abiding in the state of..."
 
-[366-369] [STRUCTURE]
+[366-369] <structure>
 # Transition to Nirmāṇakāya: The Third Kāya
 **Analysis:** The text transitions (*gsum pa* = third) to the emanation-body (*sprul pa'i sku*) and its wheel-turning method (*'khor lo bskor ba'i tshul*). The enumeration "twelve earth teachers in twelve abodes" (*gnas ris bcu gnyis sa ston pa bcu gnyis*) refers to the standard presentation of twelve major Buddha-fields or the twelve deeds of a Buddha. The "five-five perfections" (*phun sum tshogs pa lnga lnga*) indicates that each teacher possesses all five perfections.
 
-[366-369] [CONTEXT]
+[366-369] <context>
 # The Twelve Emanations
 **Analysis:** The twelve emanations (*sprul pa bcu gnyis*) represent:
 - **Twelve aspects of Buddhahood:** Pervading all directions and times
@@ -555,7 +555,7 @@ The Term *dbyer med*
 
 In Nyingma doxography, the twelve emanations demonstrate that enlightened activity is omni-directional and omni-temporal.
 
-[370-372] [CONTEXT]
+[370-372] <context>
 # The Threefold Emanation Structure
 **Analysis:** The text presents three modes of emanation activity:
 
@@ -565,11 +565,11 @@ In Nyingma doxography, the twelve emanations demonstrate that enlightened activi
 
 This threefold structure (*sku gsum*) represents the complete pedagogical manifestation: the teaching exists as blessing (Dharmakāya), as scripture (Saṃbhogakāya), and as physical teacher (Nirmāṇakāya). The phrase "filling the hands of people" (*mi rnams kyi phyag gang ba*) indicates direct transmission—the teachings being held, practiced, and embodied.
 
-[370-372] [PHILOLOGY]
+[370-372] <philology>
 The Particle *las* as Blessing Source
 **Analysis:** The phrase *byin rlabs las rang shar* (self-arisen from blessing) uses *las* to indicate origin. This establishes blessing (*adhiṣṭhāna*) as the source of manifestation rather than conventional causation. The term *rang 'khrungs* (self-born) emphasizes non-dependence on parents or conditions, paralleling the Buddha's "miraculous birth" (*upapāduka*) in mainstream Buddhism.
 
-[370-372] [CONCEPT]
+[370-372] <concept>
 The Hundred and One Jewels
 **Analysis:** The "hundred and one jewels" (*rin po che brgya rtsa gcig*) likely refers to:
 - **One hundred:** Completion, fullness
@@ -579,19 +579,19 @@ The Hundred and One Jewels
 
 These serve as the causal basis (*rgyu*) for the self-arisen manifestations, though causality here must be understood conventionally: the jewels are conditions rather than true causes in the Madhyamaka sense.
 
-[373-374] [CONCEPT]
+[373-374] <concept>
 The Self-Arisen Nature of the Three Emanations
 **Analysis:** The text emphasizes the non-manufactured (*sus kyang ma byas pa*) nature of the three emanations. The particle *sus kyang* (by anyone whatsoever) with the negative *ma* indicates absolute non-origination through agency. This aligns with the *svayaṃbhū* (self-arisen) doctrine in tantric Buddhism: enlightened manifestation is not created but naturally emerges from dharmatā. The term *mi 'jigs pa* (fearless) indicates that because these emanations are not fabricated, they transcend all fear—they cannot be destroyed, altered, or obstructed.
 
-[373-374] [PHILOLOGY]
+[373-374] <philology>
 The Absolute Negation *sus kyang ma byas*
 **Analysis:** The construction *sus kyang ma byas pa* (not made by anyone whatsoever) uses the interrogative-indefinite *su* (who) + *s* (emphatic) + *kyang* (even/also) to create a universal negative: not made by ANYONE, not even by the Buddha. The phrase *sus kyang ma byas pas* uses the instrumental *pas* to indicate that this non-creation is the CAUSE of fearlessness: BECAUSE they are not made, they are fearless.
 
-[375-376] [PHILOLOGY]
+[375-376] <philology>
 Immediate Liberation Through Contact
 **Analysis:** The phrase *gang dang phrad pa* (meeting with whichever) uses the ablative/locative *dang* to indicate contact or conjunction. The construction *rang dengs su grol* (self-immediately liberated) employs *rang* (self) + *dengs* (immediate/on the spot) + *grol* (liberated)—a quintessential Dzogchen formulation indicating instantaneous liberation without gradual path. The instrumental *gyis* in *byed pa'i 'phrin las* indicates that this is the activity (*'phrin las*) performed through/by means of this meeting.
 
-[375-376] [CONTEXT]
+[375-376] <context>
 # Contact Liberation (*Phrad Grol*) in Nyingma Tradition
 **Analysis:** The concept of liberation through contact (*phrad grol*) appears in multiple Nyingma sources:
 - **Zhi khro tantras:** Liberation through hearing (*thos grol*), seeing (*mthong grol*), wearing (*btags grol*)
@@ -600,7 +600,7 @@ Immediate Liberation Through Contact
 
 Longchenpa's formulation here integrates these: the supports are physical (*rdo rje*, *yi ge*, *sku gzugs*), but their function is recognition-based.
 
-[377-382] [STRUCTURE]
+[377-382] <structure>
 # The Three Supports (*rten gsum*) for Liberation
 **Analysis:** The text presents three supports corresponding to the three doors (*sgo gsum*) of liberation:
 
@@ -610,7 +610,7 @@ Longchenpa's formulation here integrates these: the supports are physical (*rdo 
 
 These supports (*rten*) are not mere symbols but "power objects" (*byin brlabs can*) in Nyingma understanding—material forms infused with enlightened blessing that serve as gateways for recognition.
 
-[377-382] [CONCEPT]
+[377-382] <concept>
 The Three Doors of Liberation
 **Analysis:** The three supports map onto the three doors (*sgo gsum*):
 - **Body door:** Contact with form → liberation into light
@@ -619,7 +619,7 @@ The Three Doors of Liberation
 
 This is the *trikāya* applied to the individual practitioner: one's body, speech, and mind become the vehicles of liberation when they contact enlightened body, speech, and mind.
 
-[383-392] [CONTEXT]
+[383-392] <context>
 # The Chronology of the Three Teachings
 **Analysis:** The text presents a complex chronology correlating life-span with teaching modality:
 
@@ -634,11 +634,11 @@ This is the *trikāya* applied to the individual practitioner: one's body, speec
 
 These numbers reflect the *kalpa* cosmology where human life-span gradually decreases from 80,000 years to 10 years before the next Buddha (Maitreya) appears. The phrase *dus ma yin gyi* (not time but) clarifies that these are pedagogical categories (*'dul ba'i lo grangs*) rather than literal historical periods.
 
-[383-392] [PHILOLOGY]
+[383-392] <philology>
 The Particle *zhing* as Contrast
 **Analysis:** The construction *zhing gzhon las ches 'phags* (surpasses other [world-systems]) uses *zhing* (and/but) to create contrast. The superlative *ches* (most/very) with *'phags* (to be superior) establishes a hierarchy: Jambudvīpa excels all other worlds. The genitive *gi* in *dus kyi* creates a temporal dependency: the different times OF the teachings.
 
-[393-397] [CONTEXT]
+[393-397] <context>
 # Locations of the Hidden Treasures
 **Analysis:** The text identifies specific locations for the three supports:
 
@@ -650,7 +650,7 @@ The Particle *zhing* as Contrast
 
 These locations correspond to terma (*gter ma*) geography in Nyingma tradition—the Vajra is concealed in the earthly realm (Uḍḍiyāna), the letter in the aerial/celestial realm (sky ḍākinīs), and the body bridges both. The occasional emanations (*skabs su*) indicate that these are not static objects but dynamic manifestations appearing when conditions ripen.
 
-[393-397] [STRUCTURE]
+[393-397] <structure>
 # The Three Realms of Terma Concealment
 **Analysis:** Nyingma terma geography recognizes three concealment realms:
 - **Earth treasures (*sa gter*):** Concealed in physical locations
@@ -659,11 +659,11 @@ These locations correspond to terma (*gter ma*) geography in Nyingma tradition�
 
 The three supports here follow this schema: vajra in earth (Uḍḍiyāna), letter in sky (above Vajra-seat), body transcending both.
 
-[393-397] [PHILOLOGY]
+[393-397] <philology>
 The Term *skabs su*
 **Analysis:** The phrase *skabs su 'od dang sgra dang dge slong...* uses *skabs su* (occasionally/at times) to indicate intermittent manifestation. This temporal marker distinguishes between the supports' continuous abiding (*gnas*) and their occasional active emanation ('*byung*). The instrumental *dang* (with) in *rdzu 'phrul dang ldan pa* creates an adjectival phrase: "possessing miraculous powers."
 
-[393-397] [CONCEPT]
+[393-397] <concept>
 The Temporal Structure of Revelation
 **Analysis:** The distinction between continuous abiding and occasional emanation establishes a crucial Dzogchen principle:
 - **Ground:** Always present, never changing
@@ -672,7 +672,7 @@ The Temporal Structure of Revelation
 
 The supports abide continuously as the ground-nature but appear occasionally as the path-condition. This explains why terma revelation occurs at specific historical moments—when the conjunction of teacher, time, and trainee capacity creates the optimal conditions for transmission.
 
-[393-397] [CONTEXT]
+[393-397] <context>
 # The Three Bodies as Supports
 **Analysis:** The three supports correlate with the three bodies:
 - **Vajra (mind-support):** Dharmakāya — indestructible emptiness
@@ -681,7 +681,7 @@ The supports abide continuously as the ground-nature but appear occasionally as 
 
 This tripartite structure ensures that liberation is accessible through all three doors—mind recognizing the vajra-nature, speech hearing the self-arisen sound, body contacting the liberating form.
 
-[398-405] [CONTEXT]
+[398-405] <context>
 # The Three Supports During Speech and Mind Teaching Periods
 **Analysis:** The text details the locations of the three supports during different phases:
 
@@ -692,18 +692,18 @@ This tripartite structure ensures that liberation is accessible through all thre
 
 The protective function is described: when teaching is threatened (*bstan pa la gnod pa byung*), the body emanates light, the face emits HŪṂ, and the eyes produce fire—the threefold protective mechanism of tantric Buddhism representing light (wisdom), sound (mantra), and fire (transformative power).
 
-[398-405] [PHILOLOGY]
+[398-405] <philology>
 The Verb *byed* in Ritual Context
 **Analysis:** The phrase *phyag byed* (render homage) uses *byed* (to do/make) in a specialized ritual sense. The construction *gnod pa byung* (harm arose) uses *byung* (to arise/come forth) to indicate the emergence of obstacles. The verb *bzlog par byed* (causes to turn back/repel) employs the causative *bzlog* (to turn) with *byed* to indicate protective activity.
 
-[406-409] [STRUCTURE]
+[406-409] <structure>
 # The Three Supports During Mind Teaching Period
 **Analysis:** During the mind-taming teaching period:
 - **Vajra** abides in Vajra-seat's sky (*rdo rje gdan gyi nam mkha'*)
 - **Letter** in the "extremely wrathful sage's cave" (*rab tu khros pa drang srong gi phug*)—a reference to Vajrapāṇi's wrathful manifestation
 - **Body** in the thirty-three gods' measureless palace (*sum cu rtsa gsum gyi lha rnams kyi gzhal med khang*), specifically in the upper story (*yang thog*) of the hand-vajra house (*lag na rdo rje'i khang pa*)
 
-[406-409] [CONTEXT]
+[406-409] <context>
 # The Thirty-Three Heavens
 **Analysis:** The "thirty-three" (*sum cu rtsa gsum*) refers to the *trāyastriṃśa* heaven, the second of the desire realm heavens, located on the summit of Mount Meru. In Buddhist cosmology:
 - **Residence:** Śakra (Indra) and the thirty-two chief gods
@@ -712,10 +712,10 @@ The Verb *byed* in Ritual Context
 
 The specific location in Vajrapāṇi's house (*lag na rdo rje'i khang pa*) indicates the tantric nature of this manifestation.
 
-[410] [PHILOLOGY] The Superlative *ches 'phags*
+[410] <philology> The Superlative *ches 'phags*
 **Analysis:** The phrase *'dzam bu'i gling gzhon las ches 'phags* (Jambudvīpa surpasses others) uses the superlative *ches* (most/very) with the verb *'phags* (to be superior/excel). This establishes the preeminence of our world system due to the presence of these three emanations, a standard trope in Buddhist cosmology where Jambudvīpa is considered optimal for spiritual practice.
 
-[410] [CONCEPT] The Preeminence of Jambudvīpa
+[410] <concept> The Preeminence of Jambudvīpa
 **Analysis:** Buddhist cosmology holds Jambudvīpa (our world-system) as superior because:
 - **Suffering is evident:** Motivates renunciation
 - **Buddhas appear here:** Most frequent manifestations
@@ -724,17 +724,17 @@ The specific location in Vajrapāṇi's house (*lag na rdo rje'i khang pa*) indi
 
 Longchenpa's assertion that it "surpasses others" (*ches 'phags*) due to the three supports emphasizes the Nyingma view that terma revelation makes this era and location particularly blessed.
 
-[411-413] [STRUCTURE]
+[411-413] <structure>
 # The Twelve Emanations Framework
 **Analysis:** Longchenpa introduces the systematic presentation of twelve emanation-bodies (*sprul sku bcu gnyis*) appearing in twelve abode-types (*gnas ris bcu gnyis*). The purpose (*cir*) is specified: to purify beings' five aggregates (*phung po lnga dag par bya ba*). This establishes the soteriological function of the emanation doctrine—manifestation serves purification.
 
 The phrase *phun sum tshogs pa lnga'i rang bzhin lan bcu gnyis su snang bar mdzad pa* indicates that the self-nature (*rang bzhin*) of the five perfections appears twelve times, suggesting a systematic multiplication of the basic pedagogical structure.
 
-[411-413] [PHILOLOGY]
+[411-413] <philology>
 The Purpose Construction *cir*
 **Analysis:** The particle *cir* (for the purpose of) establishes teleological structure: emanations appear FOR THE PURPOSE OF purifying the five aggregates. The instrumental *gyis* in *dag par bya ba'i phyir* indicates that purification is the goal. The phrase *lan bcu gnyis su* (into twelve times/occurrences) uses the terminative *su* to indicate distribution: the five perfections distributed across twelve manifestations.
 
-[414-423] [CONTEXT]
+[414-423] <context>
 # First Emanation: Tuṣita Heaven
 **Analysis:** The first emanation is situated in:
 - **Field:** Tuṣita (*dga' ldan*) — the "contented" heaven where future Buddhas abide before final birth
@@ -744,7 +744,7 @@ The Purpose Construction *cir*
 
 The teaching is identified as *sGra thal 'gyur gyi rgyud* (Sound Thalgyur Tantra), the root of all teachings, taught during Amitāyus's life-span by compilers (*sdud pa po*) Nandīśvara (*dga' byed dbang phyug*) and Sun Greatly-Illuminating (*nyi ma rab tu snang byed*).
 
-[414-423] [STRUCTURE]
+[414-423] <structure>
 # The Five Perfections in Emanation Context
 **Analysis:** Each emanation possesses the five perfections:
 1. **Teacher perfection:** The specific emanated teacher
@@ -755,15 +755,15 @@ The teaching is identified as *sGra thal 'gyur gyi rgyud* (Sound Thalgyur Tantra
 
 This structure allows for infinite variation while maintaining systematic coherence.
 
-[424-425] [CONTEXT]
+[424-425] <context>
 # Second Emanation: Sahā World
 **Analysis:** The second emanation appears in the Sahā world (*'jig rten mi mjed*)—our "endurable" world of suffering. The teacher is identified as Light Akṣobhya (*'od mi 'khrugs pa*), born from a "five-light egg" (*'od lnga'i sgo nga*). This connects to the standard narrative of Akṣobhya Buddha in the eastern direction, emphasizing the luminous nature of the emanation.
 
-[424-425] [PHILOLOGY]
+[424-425] <philology>
 The Locative *du* in Spatial Designation
 **Analysis:** The phrase *'jig rten mi mjed du* (in the endurable world) uses the terminative/locative *du* to indicate location. The construction *'od lnga'i sgo nga las* (from a five-light egg) uses the ablative *las* to indicate origin. The verb *'khrungs* (was born) emphasizes miraculous birth rather than ordinary generation.
 
-[424-425] [CONCEPT]
+[424-425] <concept>
 The Five-Light Egg as Embryological Metaphor
 **Analysis:** The "five-light egg" (*'od lnga'i sgo nga*) combines embryology with cosmology:
 - **Egg:** Potentiality contained within protective enclosure
@@ -773,7 +773,7 @@ The Five-Light Egg as Embryological Metaphor
 
 This metaphor parallels tantric embryology where the developing fetus is described in terms of elemental and wisdom transformations. The egg represents the ground-state containing all possibilities; the five lights represent the spontaneous display of those possibilities.
 
-[424-425] [CONTEXT]
+[424-425] <context>
 # Akṣobhya in Buddhist Cosmology
 **Analysis:** Akṣobhya ("Immovable") is the Buddha of the eastern direction:
 - **Vow:** Never to become angry until all beings are liberated
@@ -784,13 +784,13 @@ This metaphor parallels tantric embryology where the developing fetus is describ
 
 In Longchenpa's presentation, Akṣobhya appears as "Light Akṣobhya" (*'od mi 'khrugs pa*)—emphasizing the luminous dimension of immovability. This reflects the Dzogchen integration of directional Buddhism (Akṣobhya as east) with essential Buddhism (light as mind-nature).
 
-[426-428] [CONTEXT]
+[426-428] <context>
 # Second Emanation Continued: Akṣobhya's Teaching
 **Analysis:** The second emanation (Light Akṣobhya) teaches the fivefold tantra structure (*sku gsung thugs yon tan 'phrin las kyi rgyud lnga*) to a retinue of 200,000 ḍākinīs. The lifespan is specified as *bye ba gzig thub pa'i dus*—one hundred million years. This astronomical timeframe reflects the cosmic scale of Saṃbhogakāya dimensions, where time functions differently than in the human realm.
 
 The five tantras correspond to the five aspects (*sku gsung thugs yon tan 'phrin las*) that permeate Nyingma tantric classification.
 
-[429-435] [STRUCTURE]
+[429-435] <structure>
 # Third Emanation: Heat-Moisture-Gathering
 **Analysis:** The third emanation appears at:
 - **Abode:** *Drod gsher 'dus pa* (Heat-Moisture-Gathering), surrounded by light
@@ -804,7 +804,7 @@ The five tantras correspond to the five aspects (*sku gsung thugs yon tan 'phrin
 
 The location name suggests the primordial conditions of manifestation—the gathering of heat and moisture as the basis for organic life, illuminated by wisdom-light.
 
-[436-441] [STRUCTURE]
+[436-441] <structure>
 # Fourth Emanation: Attachment-Arising Womb
 **Analysis:** The fourth emanation:
 - **Abode:** *Chags 'byung mangal* (Attachment-Arising Womb)
@@ -817,7 +817,7 @@ The location name suggests the primordial conditions of manifestation—the gath
 
 The *sems sde* (mind class) tantras are a major category of Dzogchen literature, focusing on the nature of mind (*sems nyid*) as the ground of liberation.
 
-[442-447] [STRUCTURE]
+[442-447] <structure>
 # Fifth Emanation: Āmrapālī's Garden
 **Analysis:** The fifth emanation:
 - **Abode:** *'Tsho byed gzhon nu'i ldum ra* (Youth Āmrapālī's garden)
@@ -828,7 +828,7 @@ The *sems sde* (mind class) tantras are a major category of Dzogchen literature,
 
 The reference to Āmrapālī (*'tsho byed* = "life-giver/mango-tree") invokes the famous courtesan who donated her mango grove to the Buddha, symbolizing the transformation of ordinary pleasure into the path. The six pāramitās represent the mainstream Mahāyāna path integrated into the Dzogchen framework.
 
-[448-455] [STRUCTURE]
+[448-455] <structure>
 # Sixth Emanation: Raurava Charnel Ground
 **Analysis:** The sixth emanation:
 - **Abode:** Meru's north, charnel-ground Raurava (*dur khrod mi re 'bar*—"roaring" cremation ground)
@@ -842,7 +842,7 @@ The reference to Āmrapālī (*'tsho byed* = "life-giver/mango-tree") invokes th
 
 The Raurava charnel ground is one of the eight major charnel grounds (*dur khrod chen po brgyad*) in tantric cosmology, associated with wrathful deities and direct confrontation with death/impermanence.
 
-[456-460] [STRUCTURE]
+[456-460] <structure>
 # Seventh Emanation: Ruru Sound Cave
 **Analysis:** The seventh emanation:
 - **Abode:** *Srin po'i yul ru lu'i sgra dang ldan pa'i phug* (Rākṣasa land Ruru sound-possessing cave)
@@ -853,7 +853,7 @@ The Raurava charnel ground is one of the eight major charnel grounds (*dur khrod
 
 The progression through emanations shows a movement from celestial/celestial locations toward increasingly "worldly" or challenging environments, corresponding to different capacities and needs of beings.
 
-[461-467] [STRUCTURE]
+[461-467] <structure>
 # Eighth Emanation: Gṛdhrakūṭa
 **Analysis:** The eighth emanation:
 - **Abode:** Gṛdhrakūṭa (*bya rgod spungs pa*—Vulture Peak), the famous mountain near Rājagṛha where the Buddha taught the *Prajñāpāramitā* and *Sukhāvatīvyūha* sūtras
@@ -864,7 +864,7 @@ The progression through emanations shows a movement from celestial/celestial loc
 
 This emanation specifically focuses on monastic discipline (*vinaya*), demonstrating that the Dzogchen framework encompasses the full spectrum of Buddhist practice, including mainstream monasticism.
 
-[468-474] [STRUCTURE]
+[468-474] <structure>
 # Ninth Emanation: Mongolian Turquoise Land
 **Analysis:** The ninth emanation:
 - **Abode:** *Sog po g.yu'i smin ma can gyi yul* (Mongolian turquoise-eyebrow land), beneath the bodhi-tree
@@ -875,7 +875,7 @@ This emanation specifically focuses on monastic discipline (*vinaya*), demonstra
 
 The location indicates the geographic expansion of Buddhist teaching into Central Asian territories (*sog po* = Mongolian/Sogdian regions).
 
-[475-482] [STRUCTURE]
+[475-482] <structure>
 # Tenth Emanation: Kāśyapa at Gṛdhrakūṭa
 **Analysis:** The tenth emanation:
 - **Abode:** Gṛdhrakūṭa again
@@ -887,7 +887,7 @@ The location indicates the geographic expansion of Buddhist teaching into Centra
   - Anu yoga (*lung a nu*)—1,800 texts
 - **Duration:** 500-year lifespan
 
-[483-488] [STRUCTURE]
+[483-488] <structure>
 # Eleventh Emanation: Abhisaṃbodhi King
 **Analysis:** The eleventh emanation:
 - **Abode:** Vajrāsana (*rdo rje gdan*), the diamond throne at Bodh Gayā
@@ -898,7 +898,7 @@ The location indicates the geographic expansion of Buddhist teaching into Centra
 
 The specification "definitive-meaning vehicle only" (*'ba' zhig* = solely/only) indicates a focus on the ultimate teachings (*nītārtha*) rather than provisional meaning (*neyārtha*).
 
-[489-497] [STRUCTURE]
+[489-497] <structure>
 # Twelfth Emanation: Śākyamuni
 **Analysis:** The twelfth and final emanation:
 - **Abode:** Vārāṇasī (*wa ra Na si*) and other locations
@@ -909,7 +909,7 @@ The specification "definitive-meaning vehicle only" (*'ba' zhig* = solely/only) 
 
 The progressive shortening of lifespans—from immeasurable to 100 years—reflects the Buddhist cosmological theory of declining dharma (*saddharma-vipralopa*), where human lifespan and spiritual capacity decrease over cosmic time.
 
-[498-509] [CONTEXT]
+[498-509] <context>
 # Quotation from Rig-pa-rang-shar-chen-po'i-rgyud
 **Analysis:** The text cites the *Rig pa rang shar chen po'i rgyud* (Great Self-Arising Awareness Tantra), a major Dzogchen terma text. The passage describes:
 
@@ -925,7 +925,7 @@ The progressive shortening of lifespans—from immeasurable to 100 years—refle
 
 This narrative encapsulates the Dzogchen soteriological framework: primordial ignorance, the process of delusion, and the path of return through tantric practice.
 
-[511-518] [STRUCTURE]
+[511-518] <structure>
 # Nirmāṇakāya Body Activities
 **Analysis:** The thirty-six activities framework continues, now applied specifically to the Nirmāṇakāya emanation-body. The body's external four activities (*sku'i phyi'i mdzad pa bzhi*) relate to the historical Buddha's life-events (*bde bar gshegs pa'i mdzad pa*):
 
@@ -937,7 +937,7 @@ This narrative encapsulates the Dzogchen soteriological framework: primordial ig
 
 The "four rivers of suffering" (*sdug bsngal gyi chu bo bzhi*) are the classical formulation: birth, aging, sickness, and death.
 
-[519-525] [STRUCTURE]
+[519-525] <structure>
 # Internal Body Activities
 **Analysis:** The internal four activities symbolize renunciation and bodhisattva activity:
 
@@ -947,7 +947,7 @@ The "four rivers of suffering" (*sdug bsngal gyi chu bo bzhi*) are the classical
 4. **Emanating light-rays** (*'od zer bkaye ba*)
 5. **Transforming weapon-rain to flowers** (*mtshon cha'i char pa me tog tu sgyur ba*) — the famous episode of subduing Māra's army
 
-[526-531] [STRUCTURE]
+[526-531] <structure>
 # Secret Body Activities
 **Analysis:** The secret four activities (*gsang ba'i bzhi*) focus on samādhi mastery:
 
@@ -956,7 +956,7 @@ The "four rivers of suffering" (*sdug bsngal gyi chu bo bzhi*) are the classical
 3. **Precious casket samādhi** (*rin po che za ma tog gi ting nge 'dzin*) — constant abiding
 4. **Vajra-like samādhi** (*rdo rje lta bu'i ting nge 'dzin*) — achieving bodhi
 
-[532-536] [STRUCTURE]
+[532-536] <structure>
 # Speech Activities: The Twelve Divisions
 **Analysis:** The speech activities correspond to the standard twelve divisions of Buddhist scripture (*gsung rab yan lag bcu gnyis*):
 
@@ -966,7 +966,7 @@ The "four rivers of suffering" (*sdug bsngal gyi chu bo bzhi*) are the classical
 3. *lung bstan pa* — Vyākaraṇa (prophecy)
 4. *tshigs su bcad pa'i sde* — Gāthā (verse section)
 
-[537-541] [STRUCTURE]
+[537-541] <structure>
 # Internal Speech Activities
 **Analysis:** The internal four:
 1. *shin tu rgyas pa* — Vaipulya (extensive sūtras)
@@ -974,7 +974,7 @@ The "four rivers of suffering" (*sdug bsngal gyi chu bo bzhi*) are the classical
 3. *gleng gzhi brjod pa* — Nidāna (origin stories)
 4. *de ltar byung ba* — Itivṛttaka ("thus it was said")
 
-[542-546] [STRUCTURE]
+[542-546] <structure>
 # Secret Speech Activities
 **Analysis:** The secret four:
 1. *ched du brjod pa* — Udāna (inspired utterances)
@@ -982,7 +982,7 @@ The "four rivers of suffering" (*sdug bsngal gyi chu bo bzhi*) are the classical
 3. *glegs bam lung* — Nipāta (miscellaneous collections)
 4. *rmad du byung ba'i chos* — Adbhūtadharma (marvelous events)
 
-[547-561] [STRUCTURE]
+[547-561] <structure>
 # Mind Activities: Samādhi Enumerations
 **Analysis:** Mind activities are presented through specific samādhi names:
 
@@ -1004,21 +1004,21 @@ The "four rivers of suffering" (*sdug bsngal gyi chu bo bzhi*) are the classical
 3. *rin po che sgron ma'i ting nge 'dzin* — Jewel-lamp
 4. *bde ba mchog gi ting nge 'dzin* — Supreme good/bliss
 
-[562-564] [STRUCTURE]
+[562-564] <structure>
 # Summary: 108 Activities
 **Analysis:** The text summarizes that the three kāyas (emanation, enjoyment, and dharma-body) manifest 108 activities (*mdzad pa brgya dang brgyad*). This number (108 = 36 × 3) represents the complete mandala of enlightened activity. The mathematical structure reflects the systematic nature of Nyingma doxography.
 
-[565-569] [CONCEPT]
+[565-569] <concept>
 The Unitive Nature of All Emanations
 **Analysis:** The text synthesizes the twelve emanations into a single principle: the activity of Vajradhara's quality-complete self-nature (*rdo rje 'chang yon tan rdzogs pa'i bdag nyid gcig gi mdzad pa*). This is called the "succession transmitted by the Victor's intention" (*rgyal ba dgongs pas brgyud pa'i rim pa*), emphasizing that all apparent diversity is unified in the single intention (*dgongs pa*) of the Buddha.
 
 The crucial point: although Vajradhara appears at different times (*dus tha dad par byon pa*), this is merely appearance—essentially (*ngo bo*) all are one in Vajradhara's self-nature. This establishes the non-dual hermeneutic that underlies the entire text.
 
-[565-569] [PHILOLOGY]
+[565-569] <philology>
 The Limitative Particle *tsam*
 **Analysis:** The phrase *dus tha dad par byon pa tsam las* (merely/only appearing at different times) uses *tsam* to limit the apparent diversity. This is crucial: the diversity is ONLY apparent, not substantial. The ablative *las* indicates that from this mere appearance, the unity of intention (*dgongs pa*) is distinguished. The phrase *ngo bo... gcig pa* establishes essential identity beneath apparent difference.
 
-[570-573] [STRUCTURE]
+[570-573] <structure>
 # Lineage Transmission Types
 **Analysis:** The text distinguishes three modes of transmission:
 1. **Victor's intention succession** (*rgyal ba dgongs pa'i brgyud pa*) — the ultimate lineage
@@ -1027,7 +1027,7 @@ The Limitative Particle *tsam*
 
 These correspond to the *brda brgyud* (sign lineage), *snyan brgyud* (aural lineage), and *gdams ngag brgyud* (instruction lineage) in Nyingma classification. The text directs readers to individual biographies (*so so'i rnam thar*) and the Great Chronicles (*lo rgyus chen mo*) for details.
 
-[570-573] [CONTEXT]
+[570-573] <context>
 # The Six Lineages of Nyingma
 **Analysis:** Nyingma tradition recognizes six lineages (*brgyud pa drug*):
 1. **Vajra prophecy** (*rdo rje'i lung*)
@@ -1039,7 +1039,7 @@ These correspond to the *brda brgyud* (sign lineage), *snyan brgyud* (aural line
 
 Longchenpa's threefold schema synthesizes these into a pedagogical framework: the intention lineage for those of highest capacity, the sign lineage for those of intermediate capacity, and the oral lineage for those requiring gradual instruction.
 
-[574-576] [STRUCTURE]
+[574-576] <structure>
 # End of First Chapter
 **Analysis:** Lines 574-576 mark the conclusion of the first chapter (*rim khang dang po*):
 - **Title:** *Theg pa'i mchog rin po che'i mdzod* (Treasury of the Supreme Vehicle)
@@ -1048,7 +1048,7 @@ Longchenpa's threefold schema synthesizes these into a pedagogical framework: th
 
 The phrase *las... ste* (from... is) establishes the chapter as a subsection of the larger work. The particle *o* is a final emphatic, indicating definitive completion.
 
-[574-576] [PHILOLOGY]
+[574-576] <philology>
 The Chapter-Close Formula
 **Analysis:** The construction *las... de rim khang dang po'o* follows the standard Tibetan chapter-closing formula:
 - *las* — from [the text]
@@ -1058,7 +1058,7 @@ The Chapter-Close Formula
 
 This mirrors Sanskrit chapter colophons (*iti... prathamaṃ paricchedaḥ*), demonstrating the text's alignment with Indo-Tibetan scholastic conventions.
 
-[577-577] [STRUCTURE]
+[577-577] <structure>
 # Beginning of Second Chapter: The Abode
 **Analysis:** The text transitions to the second major section, explaining:
 - **Topic:** The definite abode (*gnas nges pa*) where the teacher tames
@@ -1068,7 +1068,7 @@ The cosmology presented: From Vajradhara's quality-complete bodhi, abiding as Sa
 
 Specifically, our Sahā world (*mi mjed 'di*) abides at the thirteenth level of twenty-five stacked appearances (*nyi shu rtsa lnga brtsigs mar snang ba*) upon the jewel lotus (*padma rin po che*). The construction "upper-lower and directions-intervals" (*steng 'og dang phyogs mtshams*) indicates a three-dimensional maṇḍala architecture.
 
-[577-577] [CONCEPT]
+[577-577] <concept>
 The Container-Contained Cosmology
 **Analysis:** The pair *snod bcud* (container and contained) refers to:
 - **Container (*snod*):** The universe, Buddha-fields, the physical environment

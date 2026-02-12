@@ -1,4 +1,4 @@
-[18610-18640] [PHILOLOGY]
+[18610-18640] <philology>
 Lamp terminology synthesis:
 - *sgron ma* (lamp): Clarifying, illuminating
 - *me long* (mirror): Reflecting, not grasping
@@ -7,41 +7,41 @@ Lamp terminology synthesis:
 - *shes rab* (wisdom): Knowing, discriminating
 - *rang byung* (self-arisen): Unmade, spontaneous
 
-[18610-18610] [CONCEPT]
+[18610-18610] <concept>
 Third category: yul la khyab pa'i ye shes
 **Analysis:** The wisdom pervasive of objects is identified with:
 - nang gi rang gdangs 'od lnga (inner self-resonance five lights)
 - de las kha dog lnga'i snang ba (five-colored appearances from that)
 - ye shes bzhi sbyor gyi snang ba (appearances of four wisdom conjunctions)
 
-[18610-18610] [CONCEPT]
+[18610-18610] <concept>
 yul la khyab pa'i ye shes
 **Analysis:** Wisdom pervasive of objects:
 - nang gi rang gdangs 'od lnga (inner self-resonance five lights)
 - de las kha dog lnga'i snang ba (five-colored appearances)
 - ye shes bzhi sbyor gyi snang ba (appearances of four wisdom conjunctions)
 
-[18611-18641] [CONTEXT]
+[18611-18641] <context>
 Citation from Thal 'gyur on three wisdom appearances
 **Analysis:** The citation presents:
 1. **snang ba'i ye shes (wisdom of appearance):** Emerging from the five elements, marvelous to behold
 2. **stong pa'i ye shes (wisdom of emptiness):** Not found through analysis, cutting through the three realms, severing five-door attachment objects
 3. **yul gyi ye shes (wisdom of objects):** Beyond all reference points, transcending words and concepts, self-liberated in original purity
 
-[18642] [STRUCTURE] Transition to fourth topic
+[18642] <structure> Transition to fourth topic
 **Analysis:** The particle don marks transition to the fourth major division: individual meanings (so so'i don).
 
-[18611-18641] [CONTEXT]
+[18611-18641] <context>
 Thal 'gyur on three wisdom appearances
 **Analysis:**
 1. **snang ba'i ye shes:** Emerging from five elements, marvelous
 2. **stong pa'i ye shes:** Not found through analysis, cutting three realms, severing five-door attachment
 3. **yul gyi ye shes:** Beyond reference points, transcending words/concepts, self-liberated
 
-[18642] [STRUCTURE] Transition
+[18642] <structure> Transition
 **Analysis:** Don marks transition to fourth major division: individual meanings (so so'i don).
 
-[18641-18680] [CONTEXT]
+[18641-18680] <context>
 Citations on lamp integration:
 From *sgron ma 'bar ba*:
 - Four lamps thus
@@ -49,7 +49,7 @@ From *sgron ma 'bar ba*:
 - Self-arisen essence
 - Spontaneously perfect
 
-[18643-18655] [CONTEXT]
+[18643-18655] <context>
 Citation on yul gyi ye shes
 **Analysis:** The citation establishes:
 - From forms and sounds (gzugs dang sgra), fivefold trainings arise
@@ -57,7 +57,7 @@ Citation on yul gyi ye shes
 - Progress like waxing moon (yar ngo)
 - Signs (rtags) of warmth (drod), measure (tshad), and marks indicate
 
-[18643-18655] [CONTEXT]
+[18643-18655] <context>
 Citation on yul gyi ye shes
 **Analysis:**
 - From gzugs dang sgra, fivefold trainings arise
@@ -65,7 +65,7 @@ Citation on yul gyi ye shes
 - Progress like waxing moon
 - Signs: drod, tshad, rtags indicate progress
 
-[18643-18655] [CONTEXT]
+[18643-18655] <context>
 Citation on object wisdom
 **Analysis:** The citation establishes:
 - From gzugs dang sgra (forms and sounds), fivefold trainings arise
@@ -73,7 +73,7 @@ Citation on object wisdom
 - Progress like waxing moon (yar ngo)
 - Signs (rtags) of warmth (drod), measure (tshad) indicate realization stages
 
-[18656-18673] [CONTEXT]
+[18656-18673] <context>
 Scriptural citations on tathagatagarbha
 **Analysis:** Multiple authorities establish the universality of buddha-nature:
 1. **Thun mong:** Tathagatagarbha Sutra - buddha-essence abides primordially in all beings
@@ -84,7 +84,7 @@ Scriptural citations on tathagatagarbha
 3. **Thun mong ma yin pa (Uncommon):** Brtag gnyis - beings are buddhas obscured by adventitious stains
 4. **Doha:** Masters commenting on treatises have not recognized buddha in mind
 
-[18656-18673] [CONTEXT]
+[18656-18673] <context>
 Scriptural authorities on tathagatagarbha
 **Analysis:**
 
@@ -100,7 +100,7 @@ Scriptural authorities on tathagatagarbha
 
 4. **Doha:** Masters commenting on treatises have not recognized buddha in mind
 
-[18656-18673] [CONTEXT]
+[18656-18673] <context>
 Tathagatagarbha authorities
 **Analysis:** Multiple authorities establish buddha-nature universality:
 
@@ -116,7 +116,7 @@ Tathagatagarbha authorities
 
 4. **Doha:** Saraha's verse—mkhas pa thams cad bstan bcos 'chad pa yis las la sangs rgyas yod pa ma rtogs so (scholars commenting on treatises have not recognized buddha in mind)
 
-[18674-18693] [CONCEPT]
+[18674-18693] <concept>
 The obscured nature of buddha-nature
 **Analysis:** Longchenpa explains why buddha-nature is not directly visible:
 - sku'i snang ba 'od dang bcas pa rdos bcas kyis gtum (body-appearance with light obscured by the egg-shell of body)
@@ -124,7 +124,7 @@ The obscured nature of buddha-nature
 - Can be pointed out (ngo sprad) through signs (rtags thig le stong pa'i sgron ma)
 - Speech obscured by words; mind obscured by conceptual mind
 
-[18674-18693] [CONCEPT]
+[18674-18693] <concept>
 Obscured nature of buddha-nature
 **Analysis:** Why buddha-nature not directly visible:
 - sku'i snang ba 'od dang bcas pa rdos bcas kyis gtum (body-appearance with light obscured by egg-shell of body)
@@ -133,7 +133,7 @@ Obscured nature of buddha-nature
 - gsung la ngag gis bsgribs (speech obscured by words)
 - thugs la sems kyis bsgribs (mind obscured by conceptual mind)
 
-[18674-18693] [CONCEPT]
+[18674-18693] <concept>
 Why buddha-nature is hidden
 **Analysis:** Longchenpa explains the non-visibility of buddha-nature:
 - sku'i snang ba 'od dang bcas pa rdos bcas kyis gtum (body-appearance with light obscured by egg-shell of body)
@@ -144,7 +144,7 @@ Why buddha-nature is hidden
 - For diligent practitioner (skyes bu brtson 'grus can), four appearances (snang bzhi) can be cultivated now
 - In bardo (bar do), self-appearance purity arises as it truly is
 
-[18681-18720] [CONCEPT]
+[18681-18720] <concept>
 Eleven-Topic Structure Review:
 Each lamp analyzed through:
 1. Essence (*ngo bo*): What it is
@@ -165,7 +165,7 @@ This schema reflects the *mdzod* genre's encyclopedic comprehensiveness.
 
 **Summary:** Page 417 provides the final integration of the four lamps, establishing their progressive structure, kaya correspondences, and eleven-topic analytical schema. This synthesis represents the heart of Longchenpa's presentation.
 
-[18694-18718] [CONTEXT]
+[18694-18718] <context>
 Citation from Seng ge rtsal rdzogs chen po'i rgyud
 **Analysis:** The citation from the Great Lion Power Perfection Tantra establishes:
 - Ye shes dag pa'i snang ba gnas (pure wisdom appearance abides)
@@ -175,7 +175,7 @@ Citation from Seng ge rtsal rdzogs chen po'i rgyud
 - Ye nas gnas pa'i rang rig (primordially abiding self-awareness)
 - Ngo bo rtog med mthong bar 'gyur (essence without conceptions becomes seen)
 
-[18694-18718] [CONTEXT]
+[18694-18718] <context>
 Seng ge rtsal rdzogs chen po'i rgyud citation
 **Analysis:** Great Lion Power Perfection Tantra establishes:
 - Ye shes dag pa'i snang ba gnas (pure wisdom appearance abides)
@@ -185,7 +185,7 @@ Seng ge rtsal rdzogs chen po'i rgyud citation
 - Ye nas gnas pa'i rang rig (primordially abiding self-awareness)
 - Ngo bo rtog med mthong bar 'gyur (essence without conceptions becomes seen)
 
-[18694-18718] [CONTEXT]
+[18694-18718] <context>
 Seng ge rtsal rdzogs chen po'i rgyud citation
 **Analysis:** Great Lion Power Perfection Tantra establishes:
 - Ye shes dag pa'i snang ba gnas (pure wisdom appearance abides in all beings' bodies)
@@ -197,7 +197,7 @@ Seng ge rtsal rdzogs chen po'i rgyud citation
 - Ngo bo rtog med mthong bar 'gyur (essence without conceptions becomes seen)
 - Ye shes dag pa'i snang ba dang sangs rgyas bden pa mthong bar 'gyur (sees pure wisdom appearance and buddha truth)
 
-[18719-18740] [CONCEPT]
+[18719-18740] <concept>
 Detailed anatomy of wisdom manifestation
 **Analysis:** The passage provides precise subtle body localization:
 - snying dbus 'od rtsa (central light-channel of heart)
@@ -214,7 +214,7 @@ The emanation structure:
 - thig le (spheres)
 - thig phran (subtle spheres)
 
-[18719-18740] [CONCEPT]
+[18719-18740] <concept>
 Detailed anatomy of wisdom manifestation
 **Analysis:** Subtle body localization:
 - snying dbus 'od rtsa (central light-channel of heart)
@@ -231,7 +231,7 @@ Emanation structure:
 - thig le (spheres)
 - thig phran (subtle spheres)
 
-[18719-18740] [CONCEPT]
+[18719-18740] <concept>
 Anatomy of wisdom manifestation
 **Analysis:** Precise subtle body localization:
 - snying dbus 'od rtsa dag pa'i gzhal yas (pure mansion of central heart light-channel)
@@ -244,7 +244,7 @@ Anatomy of wisdom manifestation
 Emanation structure:
 - 'od (light) → zer (rays) → thig le (spheres) → thig phran (subtle spheres)
 
-[18721-18760] [STRUCTURE]
+[18721-18760] <structure>
 # Scriptural Citations and Authority
 **Analysis:** Longchenpa demonstrates the scriptural basis (*lung*) for the four lamps presentation through extensive citation:
 
@@ -274,30 +274,30 @@ Emanation structure:
    - Sleep-dream analogy
    - Distinction analysis
 
-[18727-18731] [STRUCTURE]
+[18727-18731] <structure>
 ## Subsection: The Four Lamps (sgron ma bzhi)
 **Analysis:** This section presents the four lamps (*sgron ma bzhi*) of Dzogchen subtle body cosmology—a foundational schema mapping consciousness to physiological locations. The four lamps establish the somatic basis for the ground (*gzhi*) presentation in Volume 1, functioning as the bridge between metaphysical principle and embodied experience.
 
-[18727-18731] [PHILOLOGY]
+[18727-18731] <philology>
 **Technical Terminology Analysis:**
 - *sgron ma bzhi* (four lamps): Derived from the root *sgron* (to illuminate/light), this compound denotes the fourfold luminous gateways through which awareness manifests
 - *citta rin chen gzhal yas*: "citta jewel immeasurable"—here *citta* (Skt.) functions not as psychological "mind" but as the heart-center as locus of primordial awareness
 - *Bhuguta* (*b+h+ri gu ta*): Sanskritic term designating the junction point between channels at the heart, the "vajra knot" (*rdo rje lu gu rgyud*)
 - Particle *na* (locative): Establishes the spatial topology—"in the eye," "in the channels," indicating the distributed somatic architecture of awareness
 
-[18727-18731] [CONTEXT]
+[18727-18731] <context>
 **Doxographical Placement:**
 This passage draws from the *Sengge Tsal Dzog* (Lion's Perfected Power), a tantra of the *Thal 'gyur* (Penetrating Transmission) class within the Atiyoga corpus. The four-lamp schema represents a distinctively Nyingma subtle body cartography, differing from Sarma (New Translation) schools' focus on the six chakras (*'khor lo drug*). Longchenpa synthesizes these somatic mappings as part of his systematic presentation of the ground (*gzhi*) in Volume 1, establishing the basis for Volume 2's path (*lam*) presentations.
 
-[18732-18743] [STRUCTURE]
+[18732-18743] <structure>
 ## Quotation from *Sengge Tsal Dzog*
 **Analysis:** Lines 18732-18752 constitute a direct citation marked by *las/* (from) and terminated by *ces so/* (thus it is said). This embedded verse (*tshig bcad*) provides scriptural authority for the four-lamp schema. The citation structure follows the *mdzod* genre convention of grounding technical presentations in tantric revelation.
 
-[18732-18743] [CONCEPT]
+[18732-18743] <concept>
 **The Buddha-Nature Somatic Thesis:**
 The verse articulates a core Dzogchen axiom: the natural state (*gnas lugs*) abides unchangingly (*'gyur ba med pa*) in all sentient beings as it does in Buddhas. This is not merely a metaphysical claim but a somatic one—the four immeasurable mansions (*gzhal yas*) are locations within the subtle body where primordial awareness (*rig pa*) abides as essence (*ngo bo*). The distinction between Buddhas and sentient beings is not ontological but phenomenological—a matter of recognition (*ngo shes*) versus non-recognition (*ma nges*).
 
-[18741-18760] [PHILOLOGY]
+[18741-18760] <philology>
 Subtle body terminology
 **Analysis:** Technical terms:
 - 'od rtsa (light-channel): central wisdom channel
@@ -305,7 +305,7 @@ Subtle body terminology
 - gdangs (resonance): dynamic aspect of awareness
 - rtsa chen bzhi (four great channels): primary subtle body pathways
 
-[18741-18760] [PHILOLOGY]
+[18741-18760] <philology>
 Subtle body terminology
 **Analysis:**
 - 'od rtsa: central wisdom channel
@@ -313,7 +313,7 @@ Subtle body terminology
 - gdangs: resonance (dynamic aspect of awareness)
 - rtsa chen bzhi: four great channels
 
-[18741-18760] [PHILOLOGY]
+[18741-18760] <philology>
 Subtle body terminology
 **Analysis:** Technical terms for the wisdom anatomy:
 - **'od rtsa (light-channel):** Central wisdom channel in heart
@@ -321,7 +321,7 @@ Subtle body terminology
 - **gdangs (resonance):** Dynamic, radiating aspect of awareness
 - **rtsa chen bzhi (four great channels):** Primary subtle body pathways (ra, roma, uma, central channel)
 
-[18744-18780] [STRUCTURE]
+[18744-18780] <structure>
 ## Expanded Analysis: Characteristics of the Four Lamps
 **Analysis:** Lines 18744-18780 present a systematic typology (*dbye ba*) organized by four categories:
 1. Body (*sku*) characteristics (18764-18766)
@@ -331,11 +331,11 @@ Subtle body terminology
 
 This quadripartite structure reflects the *mdzod* genre's architectural logic, where each element is analyzed through multiple dimensions to prevent reification of any single aspect.
 
-[18744-18780] [PHILOLOGY]
+[18744-18780] <philology>
 **Particle Analysis and Philosophical Implications:**
 The instrumental particle *kyis* (18748, 18751) functions causally—"by means of that, the sutra of abiding is demonstrated"—establishing the hermeneutical principle that scriptural authority depends upon direct recognition of the somatic ground. The ablative *las* (18755) marks derivation: "from that itself" (*de nyid las*), indicating the non-dual source of both awareness (*rig pa*) and ignorance (*ma rig pa*).
 
-[18756-18763] [CONCEPT]
+[18756-18763] <concept>
 **Rigpa vs. Marigpa: The Ground's Self-Differentiation:**
 Longchenpa distinguishes rigpa and marigpa not as two separate substances but as two modalities of the same ground:
 - *rig dang ma rig snang ba nyid/* (18756): "Awareness and ignorance—vision itself"
@@ -343,7 +343,7 @@ Longchenpa distinguishes rigpa and marigpa not as two separate substances but as
 
 This is crucial for preventing the error of substantializing ignorance as an independent entity. Both arise from the same display (*rtsal*), differentiated only by recognition versus non-recognition.
 
-[18761-18800] [CONTEXT]
+[18761-18800] <context>
 Citation methodology:
 Longchenpa's citation pattern:
 - Root verse quoted in full
@@ -357,7 +357,7 @@ Longchenpa's citation pattern:
 3. Expansion: Additional details
 4. Confirmation: Multiple attestations
 
-[18761-18800] [STRUCTURE]
+[18761-18800] <structure>
 Summary of Volume 1 Part 1
 **Analysis:** This page marks the concluding section of the first major division of Volume 1. Having established:
 1. The distinction between sems and ye shes (Pages 421-426)
@@ -369,7 +369,7 @@ Summary of Volume 1 Part 1
 
 The section prepares for transition to the systematic presentation of ground, path, and fruition that will occupy subsequent volumes.
 
-[18761-18800] [STRUCTURE]
+[18761-18800] <structure>
 Summary of Volume 1 Part 1
 **Analysis:** Pages 421-440 conclude the first major division, having established:
 1. Distinction between sems and ye shes (421-426)
@@ -381,7 +381,7 @@ Summary of Volume 1 Part 1
 
 Prepares for systematic presentation of ground, path, fruition in subsequent volumes.
 
-[18761-18800] [STRUCTURE]
+[18761-18800] <structure>
 Synthesis and transition
 **Analysis:** Pages 421-440 complete Volume 1 Part 1 by:
 1. Establishing absolute distinction between sems ('khrul rtog) and ye shes (rig pa)
@@ -395,7 +395,7 @@ Synthesis and transition
 4. Authorizing through comprehensive scriptural citation
 5. Preparing ground for Volume 2's systematic gzhi-lam-'bras presentation
 
-[18764-18780] [CONCEPT]
+[18764-18780] <concept>
 **Phenomenological Characteristics:**
 The passage enumerates characteristics (*mtshan nyid*) that function as phenomenological descriptors rather than metaphysical properties:
 
@@ -413,29 +413,29 @@ The passage enumerates characteristics (*mtshan nyid*) that function as phenomen
 
 This typology prevents reification by presenting mutually corrective descriptors: rigpa is both "knot-like" (structured) and "moving" (dynamic), both "subtle" (hidden) and "radiating" (manifest).
 
-[18781-18782] [STRUCTURE]
+[18781-18782] <structure>
 ## Transition: Esoteric Characteristics
 **Analysis:** Lines 18781-18782 mark the conclusion of the characteristics section with the standard closing formula "*gsang sngags mtshan nyid dag tu 'dod/*" (considered to be the characteristics of Secret Mantra) followed by "*ces so/*" (thus it is said). This signals the end of one topical unit (*sa bcad*) and prepares for the next major division: the expanded explanation (*rgyas par bshad pa*) of the wisdom abiding in the body.
 
-[18783-18797] [STRUCTURE]
+[18783-18797] <structure>
 ## New Section: Wisdom Abiding in the Body
 **Analysis:** Lines 18783-18797 present a detailed somatic mapping of primordial wisdom (*ye shes*), establishing the physiological loci for the subtle body practices to be elaborated in Volume 2. The architecture follows the "ground-path-fruition" (*gzhi-lam-'bras bu*) structure:
 - Ground: Heart (*snying*) as location of body (*sku*)
 - Path: Skull cavity (*dung kha*) as location of wisdom (*ye shes*)
 - Fruition: Vajra knot (*b+h+ri gu ta*) as location of rigpa (*rig pa*)
 
-[18783-18797] [PHILOLOGY]
+[18783-18797] <philology>
 **Somatic Terminology:**
 - *snying na sku/* (18783): "In the heart, body"—*sku* here refers not to the form body but to the pristine dimension of embodiment
 - *dung kha na ye shes/* (18784): "In the skull cavity, wisdom"—the cranial vault as the terminal point of ascending consciousness
 - *b+h+ri gu ta na rig pa/* (18785): "In the vajra knot, awareness"—the cardiac plexus as the nodal intersection of channels
 - *rtsa bzhi/* (18786): "Four channels"—*ro ma* (left), *rkyang ma* (right), *kun 'dar ma* (central), *ka ti* (auricular/ascending)
 
-[18783-18797] [CONTEXT]
+[18783-18797] <context>
 **Tantric Sources:**
 The verse from *Rang shar* (Self-Arising, 18787-18797) establishes the channel (*rtsa*) cosmology. The *Rang shar* is a fundamental *Thal 'gyur* tantra presenting the spontaneous (*lhun grub*) dimension of Dzogchen. The four channels listed (*dkar 'jam*, *rin chen 'phro ba*, *rnam par grol byed*, *shel dkar rgyu ba*) represent a distinctively Nyingma classification differing from the three-channel model (*rtsa gsum*) of Anuttarayoga tantras.
 
-[18783-18797] [CONCEPT]
+[18783-18797] <concept>
 **The Wind-Riding Consciousness:**
 The passage describes the *vāyu* (*rlung*) mechanics of consciousness:
 - *rnam shes rlung la zhon nas ni/* (18792): "Consciousness mounted upon the wind"
@@ -444,17 +444,17 @@ The passage describes the *vāyu* (*rlung*) mechanics of consciousness:
 
 This presents the subtle body dynamics wherein consciousness (*rnam shes*), mounted on the vital energy (*rlung*), travels through the central channel system, emerging through the cardiac gateway (*b+h+ri gu ta*) and dissolving into the dharmadhatu.
 
-[18798-18824] [STRUCTURE]
+[18798-18824] <structure>
 ## Technical Explanation: The Self-Arising Wisdom
 **Analysis:** Lines 18798-18824 present Longchenpa's autocommentary on the subtle body mechanics. This section bridges scriptural quotation with systematic exposition, employing the *mdzod* genre's characteristic movement from citation to analysis. The passage explains how self-arising wisdom (*rang shar ye shes*) abides within the heart channels.
 
-[18798-18824] [PHILOLOGY]
+[18798-18824] <philology>
 **Compound Analysis:**
 - *gdangs gsal bar rang 'od ye shes kyi rang gdangs la bzhugs pa/* (18798): "Abiding in the self-radiance of self-light wisdom clearly manifest"—a dense nominal compound typical of Longchenpa's philosophical Tibetan, where multiple genitive chains establish nested ontological relationships
 - *tsak+shu'i nang gi sgron ma bzhi/* (18799): "The four lamps within the cakshu (eye)"—Sanskrit *cakṣus* incorporated into Tibetan technical discourse
 - *ji lta ba'i ye shes thig le stong pa'i sgron ma/*: "The emptiness-thigle lamp of wisdom as-it-is"—*ji lta ba* (Skt. *yathā*) indicating unmediated, direct perception
 
-[18798-18824] [CONCEPT]
+[18798-18824] <concept>
 **The Four Lamps Detailed:**
 The passage distinguishes four lamps (*sgron ma bzhi*) functioning as gateways (*sgo*) of wisdom:
 
@@ -463,7 +463,7 @@ The passage distinguishes four lamps (*sgron ma bzhi*) functioning as gateways (
 3. **Far-Reaching Water Lamp** (*rgyang zhags chu'i sgron ma*): The distal vision function, connecting to external perception
 4. **Self-Arising Wisdom Lamp** (*shes rab rang byung gi sgron ma*): The discriminative awareness that emerges spontaneously
 
-[18798-18824] [CONTEXT]
+[18798-18824] <context>
 **Somatic Hermeneutics:**
 The citation from *Thal 'gyur* (18801-18824) establishes the physiological basis (*ten*) for wisdom practice. The text presents a complete subtle body cosmology:
 - *rtem*: Form aggregate (*gzugs kyi phung po*)—the physical basis
@@ -477,7 +477,7 @@ The citation from *Thal 'gyur* (18801-18824) establishes the physiological basis
 
 This eightfold schema (*brgyad las*) exemplifies the systematic completeness of Longchenpa's *mdzod* architecture.
 
-[18801-18840] [PHILOLOGY]
+[18801-18840] <philology>
 Tantric terminology:
 Terms from highest yoga tantra reinterpreted:
 - *dbang bzhi* (four empowerments): Correspond to four lamps
@@ -485,7 +485,7 @@ Terms from highest yoga tantra reinterpreted:
 - *stong gsal* (empty-luminous): Essence of all lamps
 - *ka dag lhun grub* (primordial purity-spontaneous accomplishment): Ground nature
 
-[18801-18850] [CONTEXT]
+[18801-18850] <context>
 Integration of scriptural authorities
 **Analysis:** Throughout pages 421-440, Longchenpa has integrated:
 - **Sutras:** Aṣṭasāhasrikā Prajñāpāramitā, Tathāgatagarbha Sutra
@@ -495,7 +495,7 @@ Integration of scriptural authorities
 
 This demonstrates the comprehensive scriptural foundation of Longchenpa's presentation.
 
-[18801-18850] [CONTEXT]
+[18801-18850] <context>
 Integration of scriptural authorities
 **Analysis:** Throughout 421-440, Longchenpa integrates:
 
@@ -524,7 +524,7 @@ Integration of scriptural authorities
 
 Demonstrates comprehensive scriptural foundation.
 
-[18801-18850] [CONTEXT]
+[18801-18850] <context>
 Scriptural integration summary
 **Analysis:** The scriptural range across 421-440 demonstrates Longchenpa's encyclopedic command:
 
@@ -548,11 +548,11 @@ Scriptural integration summary
 - Saraha's Doha trilogy
 - Kṛṣṇācārya's yogic instructions
 
-[18825-18853] [STRUCTURE]
+[18825-18853] <structure>
 ## Section Continuation: Eightfold Somatic Framework
 **Analysis:** Lines 18825-18853 complete the eightfold schema (*brgyad*) introduced on the previous page: (1) basis (*rten*), (2) location (*gnas*), (3) path (*lam*), (4) gate (*sgo*), (5) object (*yul*), (6) time (*dus*), (7) destination (*'gro sa*), and (8) liberation site (*grol sa*). This enumerative structure demonstrates the *mdzod* genre's architectural precision, ensuring comprehensive coverage of all somatic parameters relevant to wisdom practice.
 
-[18825-18853] [PHILOLOGY]
+[18825-18853] <philology>
 **Analogical Terminology:**
 The passage employs eight similes (*dpe*) drawn from everyday Tibetan life to illustrate subtle body functions:
 - *khra tshang na nyal ba lta bu* (18843): "Like sleeping in an eagle's nest"—the form aggregate as unstable basis
@@ -564,7 +564,7 @@ The passage employs eight similes (*dpe*) drawn from everyday Tibetan life to il
 - *yi ge naro lta bu* (18849): "Like the letter Na-ro"—the expanse-awareness lamp's form
 - *me long gi dkyil 'khor lta bu* (18851): "Like a mirror's mandala"—the bardo vision as reflective surface
 
-[18825-18853] [CONCEPT]
+[18825-18853] <concept>
 **The Somatic Topology of Recognition:**
 The eightfold schema establishes a complete framework for understanding how wisdom (*ye shes*) manifests through the subtle body:
 
@@ -579,7 +579,7 @@ The eightfold schema establishes a complete framework for understanding how wisd
 9. **Destination** ('gro sa): Precious body as the vehicle for journey—like a mountain path
 10. **Liberation** (*grol sa*): Purity vision as the terminus—return to the vase-body heart
 
-[18841-18880] [CONCEPT]
+[18841-18880] <concept>
 Integration with Sutra and Tantra:
 Dzogchen transcends yet includes:
 - **Sutra**: Emptiness (*stong pa nyid*), two truths (*bden gnyis*)
@@ -591,7 +591,7 @@ The four lamps integrate:
 - Tantra's visionary methods
 - Dzogchen's direct recognition
 
-[18851-18900] [CONCEPT]
+[18851-18900] <concept>
 Methodological synthesis
 **Analysis:** The methodology employed across these pages includes:
 1. **Apophatic description:** Via negativa elimination of characteristics
@@ -601,7 +601,7 @@ Methodological synthesis
 5. **Logical consequence:** Thal gyur arguments
 6. **Subtle body mapping:** Anatomical localization of psychological states
 
-[18851-18900] [CONCEPT]
+[18851-18900] <concept>
 Methodological synthesis
 **Analysis:** Methodology across these pages:
 1. **Apophatic:** Via negativa elimination
@@ -611,7 +611,7 @@ Methodological synthesis
 5. **Logical consequence:** Thal gyur arguments
 6. **Subtle body mapping:** Anatomical localization
 
-[18851-18900] [CONCEPT]
+[18851-18900] <concept>
 Methodological achievements
 **Analysis:** The methodological sophistication includes:
 
@@ -625,17 +625,17 @@ Methodological achievements
 
 5. **Logical rigor:** Use of thal 'gyur (prasaṅga) reasoning and logical pervasion (khyab byed)
 
-[18854-18873] [STRUCTURE]
+[18854-18873] <structure>
 ## New Citation: *Rdo rje sems dpa' snying gi me long*
 **Analysis:** Lines 18854-18873 introduce a new scriptural source, the *Vajrasattva Heart Mirror* (*Rdo rje sems dpa' snying gi me long*), another *Thal 'gyur* tantra. This citation expands on the eightfold schema with additional anatomical detail, demonstrating Longchenpa's method of layering multiple tantric sources to build comprehensive authority.
 
-[18854-18873] [PHILOLOGY]
+[18854-18873] <philology>
 **Technical Anatomical Terms:**
 - *gzhal yas* (immeasurable mansion): From Skt. *kūṭāgāra*, indicating the palace-structure of the subtle body
 - *ka dag gi snang ba'i 'od khyim kyi tshul du gnas* (18859): "Abiding in the manner of a light-house within the purity vision"—*'od khyim* (light-house) as the radiance-container
 - *srog pa tsa na 'od gsal gyi rlung lnga'i gdangs* (18873): "Life-force Tsa-na, luminosity of five winds"—uncertain orthography; possibly *tsa na* for "channel" or textual variant
 
-[18854-18873] [CONCEPT]
+[18854-18873] <concept>
 **The Heart-Head Axis:**
 The passage establishes the vertical axis of subtle body practice:
 - **Heart** (*snying*): Location of Samantabhadra (*kun tu bzang po*) in the "cowrie-shell gate" (*ga'u kha sbyor*)—the primordial Buddha as the ground of awareness
@@ -644,7 +644,7 @@ The passage establishes the vertical axis of subtle body practice:
 
 This vertical architecture (*dbus ma tshangs buq la zug go*, 18871) connects the cardiac plexus to the cranial aperture (*tshangs buq*), the Brahma-hole through which consciousness exits at death.
 
-[18854-18873] [CONTEXT]
+[18854-18873] <context>
 **Nyingma Distinctiveness:**
 The detailed channel mappings here differ significantly from Sarma presentations:
 - Nyingma: Four primary channels (*rtsa bzhi*) with specific physiological correspondences
@@ -652,14 +652,14 @@ The detailed channel mappings here differ significantly from Sarma presentations
 
 Longchenpa's presentation preserves the *Thal 'gyur* system's unique somatic cartography, emphasizing the *b+h+ri gu ta* (vajra knot) as the central cardiac node rather than the navel chakra (*lte ba*) found in Anuttarayoga systems.
 
-[18874-18880] [STRUCTURE]
+[18874-18880] <structure>
 ## Transition to Path Section
 **Analysis:** Lines 18874-18880 mark a transition from ground (*gzhi*) presentation to path (*lam*) methodology. The text introduces three subdivisions (*gsum*) for the detailed explanation of the wisdom object of engagement (*blang bya*):
 1. The location of abiding and the channels to be purified (*gnas pa'i rten rtsa sbyong ba*)
 2. The gate of arising to be grasped (*'char ba'i sgo sgron ma gzung ba*)
 3. The manifestation of vision radiance and luminosity (*snang ba'i gdangs 'od gsal bstan pa*)
 
-[18874-18880] [PHILOLOGY]
+[18874-18880] <philology>
 **Grammatical Structure:**
 The construction *blang bya'i gnad bye brag tu bshad pa la gsum te/* (18874) uses:
 - *blang bya*: Object of engagement/focus (Skt. *grāhya*)
@@ -669,18 +669,18 @@ The construction *blang bya'i gnad bye brag tu bshad pa la gsum te/* (18874) use
 
 This formulaic structure typifies Longchenpa's methodical approach, signaling clear topical divisions for the reader.
 
-[18875-18911] [STRUCTURE]
+[18875-18911] <structure>
 ## Section: Path Methods—The Two Essential Points
 **Analysis:** Lines 18875-18911 present the practical application (*nyams su len pa*) of the somatic ground established previously. The section is structured around two essential points (*gnad gnyis*) for introducing wisdom into the path: (1) the general essential point of gathering wind-mind (*rlung sems gcud la bor*), and (2) the specific essential points of the four wheels and three channel-mothers (*'khor lo bzhi dang gtso mo gsum*).
 
-[18875-18911] [PHILOLOGY]
+[18875-18911] <philology>
 **Technical Instructional Vocabulary:**
 - *rlung sems gcud la bor* (18877): "Cast the wind-mind into the vital essence"—*gcud* (vital essence) indicating the refined energetic substrate
 - *sgron mar ar la gtad* (18877): "Direct [attention] to the lamp at 'Ar'"—"Ar" likely refers to the letter A (*a*), the white Tibetan letter visualized at the heart center in subtle body practices
 - *dbyings rig gi 'phel zad par bya ba* (18877): "To be made to increase and decrease the expanse-awareness"—the oscillation technique for stabilizing recognition
 - *gnad gcun pa* (18912): "Binding the essential point"—the somatic technique of channel constriction
 
-[18875-18911] [CONCEPT]
+[18875-18911] <concept>
 **The Fivefold Correspondence System:**
 The *Thal 'gyur* citation (18878-18911) establishes a complex homological structure mapping multiple pentads:
 
@@ -695,7 +695,7 @@ The *Thal 'gyur* citation (18878-18911) establishes a complex homological struct
 
 This pentadic structure reflects the integration of Yogacara five-wisdom theory (*ye shes lnga*) with Dzogchen somatic cartography.
 
-[18875-18911] [CONTEXT]
+[18875-18911] <context>
 **The Eight Channels (*rtsa brgyad*) and Three Channel-Mothers:**
 The text references:
 - *ro ma* (left channel, associated with lunar energy)
@@ -705,7 +705,7 @@ The text references:
 
 These four primary channels bifurcate into eight, corresponding to the eight consciousnesses (*rnam shes brgyad*) in Yogacara psychology. The "three channel-mothers" (*ma gsum*) likely refers to the three main channels (left, right, central) as maternal sources for the subsidiary channels.
 
-[18875-18911] [CONCEPT]
+[18875-18911] <concept>
 **The Thigle Mechanics:**
 The passage presents detailed techniques for manipulating the thigle (*thig le*)—the energetic drop or sphere:
 - *thig le bskyil zhing dkrugs pas 'grub/* (18899): "Accomplished by rolling and agitating the thigle"
@@ -714,7 +714,7 @@ The passage presents detailed techniques for manipulating the thigle (*thig le*)
 
 These describe subtle body praxis wherein the practitioner manipulates energetic spheres within the channels to induce recognition of the natural state.
 
-[18881-18920] [CONTEXT]
+[18881-18920] <context>
 Citations from *gsang ba snying po*:
 The root tantra of Nyingma, cited for:
 - Ground as vajra nature
@@ -726,7 +726,7 @@ The root tantra of Nyingma, cited for:
 
 **Summary:** Page 418 examines the scriptural foundation of the four lamps presentation, analyzing Longchenpa's citation methodology and the integration of sutra, tantra, and Dzogchen sources.
 
-[18901-18950] [STRUCTURE]
+[18901-18950] <structure>
 Transition preparation to Volume 2
 **Analysis:** The pages 421-440 serve as the synthesis and conclusion of Volume 1's foundational presentation. They:
 - Establish the absolute distinction between samsaric mind and nirvanic wisdom
@@ -738,7 +738,7 @@ Transition preparation to Volume 2
   - Path (lam) in subsequent volumes
   - Fruition ('bras bu) in final volumes
 
-[18901-18950] [STRUCTURE]
+[18901-18950] <structure>
 Transition preparation to Volume 2
 **Analysis:** Pages 421-440 serve as synthesis and conclusion of Volume 1's foundational presentation. They:
 - Establish absolute distinction between samsaric mind and nirvanic wisdom
@@ -747,7 +747,7 @@ Transition preparation to Volume 2
 - Authorize through scriptural citation
 - Prepare for systematic presentation of gzhi, lam, 'bras bu
 
-[18901-18950] [STRUCTURE]
+[18901-18950] <structure>
 Doxographical positioning
 **Analysis:** Longchenpa positions Dzogchen vis-à-vis:
 - **Sūtrayāna:** Causal vehicles (rgyu'i theg pa) taking sems as gzhi/lam/'bras
@@ -758,7 +758,7 @@ Doxographical positioning
 
 The superiority claim (ches 'phags pa) is grounded not in sectarian polemic but in phenomenological immediacy.
 
-[18912-18961] [STRUCTURE]
+[18912-18961] <structure>
 ## Expanded Explanation: The Three Channel-Mothers
 **Analysis:** Lines 18912-18961 present the detailed function of the three channel-mothers (*ma gsum*) and their six subsidiary techniques (*yan lag drug po*). The structure follows:
 1. Ro ma (left channel) functions
@@ -767,7 +767,7 @@ The superiority claim (ches 'phags pa) is grounded not in sectarian polemic but 
 4. Kun 'dar ma (all-pervasive channel) functions
 5. Application of the six techniques
 
-[18912-18961] [PHILOLOGY]
+[18912-18961] <philology>
 **Channel-Specific Terminology:**
 - *ro ma*: "Taste channel"—associated with gustatory/nutritive functions and left-side energetics
 - *rkyang ma*: "Single/isolated channel"—associated with right-side solar energy
@@ -775,7 +775,7 @@ The superiority claim (ches 'phags pa) is grounded not in sectarian polemic but 
 - *sgal tshigs*: Vertebrae—literally "lion joints," the spinal segments
 - *btar zhing bsregs*: "Stretched and burned"—somatic manipulation techniques
 
-[18912-18961] [CONCEPT]
+[18912-18961] <concept>
 **The Channel Functions:**
 
 **Ro Ma (Left/Taste Channel):**
@@ -798,7 +798,7 @@ The superiority claim (ches 'phags pa) is grounded not in sectarian polemic but 
 - *rtse mo'i 'khor lo bsdus pas smin/* (18947): Ripens through gathering the peak chakra
 - *las rlung bzlog zhing ye shes 'dzin/* (18948): Reverses karmic wind and holds wisdom
 
-[18912-18961] [CONTEXT]
+[18912-18961] <context>
 **The Twelve Branches (*yan lag bcu gnyis*):**
 The six techniques (*yan lag drug*) applied twice (left and right) yield twelve branches. These correspond to:
 - Outer: Physical manipulations (stretching, pressing, rubbing)
@@ -807,7 +807,7 @@ The six techniques (*yan lag drug*) applied twice (left and right) yield twelve 
 
 This twelvefold structure echoes the twelve links of dependent origination (*rten 'brel bcu gnyis*), subtly suggesting that these somatic practices reverse the cyclic process.
 
-[18921-18960] [STRUCTURE]
+[18921-18960] <structure>
 # Concluding Synthesis of Volume 1
 **Analysis:** Longchenpa moves toward the conclusion of Volume 1's major sections:
 
@@ -820,7 +820,7 @@ This twelvefold structure echoes the twelve links of dependent origination (*rte
 6. **Four Lamps** (*sgron ma bzhi*): Visionary progression
 7. **Supported Cognition** (*brten pa shes pa*): Mind and wisdom
 
-[18951-19000] [CONCEPT]
+[18951-19000] <concept>
 The Four Lamps integration
 **Analysis:** Throughout these pages, the four lamps (sgron ma bzhi) are implicitly integrated:
 1. **sgyu ma'i sgron ma:** The illusory nature of sems-based appearances
@@ -830,7 +830,7 @@ The Four Lamps integration
 
 This integration demonstrates how the four lamps framework underlies the entire presentation.
 
-[18951-19000] [CONCEPT]
+[18951-19000] <concept>
 Four Lamps integration
 **Analysis:** Throughout these pages, four lamps (sgron ma bzhi) implicitly integrated:
 1. **sgyu ma'i sgron ma:** Illusory nature of sems-based appearances
@@ -840,7 +840,7 @@ Four Lamps integration
 
 Integration demonstrates how four lamps framework underlies entire presentation.
 
-[18951-19000] [CONCEPT]
+[18951-19000] <concept>
 The four lamps as underlying structure
 **Analysis:** The four lamps (sgron ma bzhi) implicitly organize the entire presentation:
 
@@ -851,7 +851,7 @@ The four lamps as underlying structure
 
 This integration demonstrates that the detailed phenomenology serves the soteriological purpose of pointing out recognition.
 
-[18961-19000] [CONCEPT]
+[18961-19000] <concept>
 The Central Message:
 Volume 1 establishes:
 - **Ground**: Primordial purity, spontaneous accomplishment
@@ -863,7 +863,7 @@ The Dzogchen view (*lta ba*):
 - Direct recognition (*ngo sprod*)
 - Self-liberated (*rang grol*)
 
-[18962-19007] [STRUCTURE]
+[18962-19007] <structure>
 ## Section: The Gate and Lamp—Vision Practice
 **Analysis:** Lines 18962-19007 transition from internal channel work to the external practice of vision (*snang ba*). The section is bifurcated into:
 1. The gate essential point (*sgo'i gnad*): Eye gazing techniques
@@ -871,14 +871,14 @@ The Dzogchen view (*lta ba*):
 
 This represents the classical Dzogchen progression from internal (*nang*) to external (*phyi*) practice.
 
-[18962-19007] [PHILOLOGY]
+[18962-19007] <philology>
 **Vision Terminology:**
 - *tsak+shu/* (18966): Skt. *cakṣus*, the eye as faculty
 - *gnyis kyi cha 'dzin snang ba ston/* (18967): "Shows the vision holding the aspect of twoness"—the initial dualistic appearance
 - *a 'bras zhes pa dkar nag phyed/* (18975): "Called A-fruit, half white and black"—technical term for the ocular anatomy as viewed in dark retreat
 - *skyon yon dangs 'byed pa'i ba men rwa 'dra/* (18974): "Like a yak-horn deer [marking] the distinction of fault and quality, pure and impure"—archaic anatomical reference
 
-[18962-19007] [CONCEPT]
+[18962-19007] <concept>
 **The Four Lamps as Vision Gateways:**
 The passage revisits the four lamps from page 441, now contextualized as the actual appearance (*snang ba*) that arises in vision practice:
 
@@ -889,7 +889,7 @@ The passage revisits the four lamps from page 441, now contextualized as the act
 
 This fourfold schema provides the phenomenological map for dark retreat (*mun mtshams*) and sky gazing (*nam mkha' lta ba*) practices.
 
-[19001-19040] [PHILOLOGY]
+[19001-19040] <philology>
 Concluding terminology:
 - *mdzod* (treasury): Complete, organized, accessible
 - *theg mchog* (supreme vehicle): Dzogchen as highest
@@ -897,7 +897,7 @@ Concluding terminology:
 - *nying thig* (heart essence): Innermost, essential
 - *rdzogs chen* (great perfection): Complete, perfect
 
-[19001-19050] [CONTEXT]
+[19001-19050] <context>
 Preparation for Volume 2
 **Analysis:** The concluding pages establish the necessary foundation for Volume 2's systematic presentation:
 
@@ -913,11 +913,11 @@ Preparation for Volume 2
 
 Volume 2 will build on this foundation to present the gzhi (ground) in its triune structure of ka dag, lhun grub, and thugs rje.
 
-[19008-19039] [STRUCTURE]
+[19008-19039] <structure>
 ## Continuation: Lamp Essential Points and Celestial Gazing
 **Analysis:** Lines 19008-19039 complete the section on the lamp essential points (*sgron ma'i gnad*), transitioning from the four lamps to the celestial gazing practices involving sun and moon. The structural marker "*de nyid las/*" (from that very [text]) at 19002 introduces additional *Thal 'gyur* citations, demonstrating Longchenpa's method of layering scriptural authorities.
 
-[19008-19039] [PHILOLOGY]
+[19008-19039] <philology>
 **Technical Instructional Grammar:**
 The passage uses imperative and optative constructions typical of instructional tantra:
 - *bsgyur zhing ye shes snang ba ston/* (18996): "Transform and show the wisdom vision"
@@ -927,7 +927,7 @@ The passage uses imperative and optative constructions typical of instructional 
 
 These verbal formations employ the connective *-te/-de* to link sequential practices, while the auxiliary *byed/bya* marks causative or hortative force.
 
-[19008-19039] [CONCEPT]
+[19008-19039] <concept>
 **The Three Essential Points (*gnad gsum*) and Tenfold Ripening (*smin pa bcu*):**
 The passage distinguishes three essential points that collectively effect ten types of ripening:
 
@@ -942,7 +942,7 @@ The passage distinguishes three essential points that collectively effect ten ty
 - *gnad gsum bcud du smin pa yis/*: Through these three essential points ripening the vital essence
 - *'khor ba nyin ni spong bar byed/*: Abandoning samsara immediately
 
-[19008-19039] [CONTEXT]
+[19008-19039] <context>
 **The Three Stages of Vision Practice:**
 The passage outlines three temporal phases for celestial gazing:
 1. *dus thun mtshams su lta stangs gsum dang sbyar/* (19015): During session breaks, apply three gazes
@@ -951,7 +951,7 @@ The passage outlines three temporal phases for celestial gazing:
 
 This structure reflects the standard Tibetan meditation format of main practice (*dngos gzhi*), post-meditation (*rjes thob*), and enhancement practices (*bog 'don*).
 
-[19008-19039] [CONCEPT]
+[19008-19039] <concept>
 **Sun and Moon Gazing:**
 The text introduces solar and lunar meditation techniques:
 - *nyi ma'i bslab thabs rnal 'byor pas/* (19023): "Yogins' training method of the sun"
@@ -965,7 +965,7 @@ These practices involve:
 
 The goal is the spontaneous vision of pristine wisdom light (*dag pa ye shes lnga yi 'od*) pervading the apparent world.
 
-[19040-19114] [STRUCTURE]
+[19040-19114] <structure>
 ## Major Division: The Fivefold Manifestation Explained
 **Analysis:** Lines 19040-19114 mark a major structural transition with "*gsum pa snang ba'i gdangs 'od gsal bstan pa la lnga ste/*" (Third: showing the radiance-appearance luminosity, fivefold). This introduces the expanded explanation (*rgyas par bshad pa*) of the five categories:
 1. Body (*sku*)
@@ -974,13 +974,13 @@ The goal is the spontaneous vision of pristine wisdom light (*dag pa ye shes lng
 4. Thigle (*thig le*)
 5. Nature of rigpa (*rig pa'i rang bzhin*)
 
-[19040-19114] [PHILOLOGY]
+[19040-19114] <philology>
 **Enumerative Syntax:**
 The passage employs the formula *la lnga ste/* (regarding this, five) followed by itemized lists using the quotative *zhes pa/* or *ces so/*. This creates a layered, hierarchical structure typical of scholastic Tibetan:
 - *dang po la gnyis te mdor bstan pa dang rgyas par bshad pa'o/* (19045): "First, two: brief indication and expanded explanation"
 - *de'i gdangs rigs lnga'i sku ma 'dres pa/* (19057): "Its radiance, the five-family body unmixed"
 
-[19040-19114] [CONCEPT]
+[19040-19114] <concept>
 **The Body (*sku*) as Wisdom's Ground:**
 The first category presents the body's relationship to wisdom through four modes:
 
@@ -991,7 +991,7 @@ The first category presents the body's relationship to wisdom through four modes
 
 The enumeration (5+6+3+8=22) exceeds the stated totals, suggesting overlapping categories or progressive refinement through practice.
 
-[19040-19114] [CONTEXT]
+[19040-19114] <context>
 **The Thirteen Bodies of the Thal 'gyur:**
 The *Thal 'gyur* tantra (cited at 19046-19056) presents a distinctive Dzogchen classification of bodies that differs from the standard Mahayana three-body (*sku gsum*) or four-body (*sku bzhi*) systems:
 
@@ -1001,7 +1001,7 @@ The *Thal 'gyur* tantra (cited at 19046-19056) presents a distinctive Dzogchen c
 
 This reflects the *mdzod* genre's function as a Nyingma doxographical compendium, preserving distinctive classifications from the *Thal 'gyur* corpus.
 
-[19041-19080] [CONTEXT]
+[19041-19080] <context>
 Citations from concluding verses:
 Longchenpa cites on the completion of presentation:
 - Thus explained treasury
@@ -1009,11 +1009,11 @@ Longchenpa cites on the completion of presentation:
 - For fortunate beings
 - May they realize
 
-[19057-19114] [STRUCTURE]
+[19057-19114] <structure>
 ## Expanded Body Classification
 **Analysis:** Lines 19057-19114 present Longchenpa's autocommentary on the *Thal 'gyur* citation, explaining the fourfold body typology in detail. The structure alternates between scriptural quotation and explanatory prose, the characteristic *bshad pa* (explanation) format of the *mdzod*.
 
-[19057-19114] [PHILOLOGY]
+[19057-19114] <philology>
 **Grammatical Complexities:**
 - *tsitta na ngo bo sku'i 'char gzhir yod pas de'i gdangs rigs lnga'i sku ma 'dres pa tshad phebs kyi dus su snang ba'o/* (19057): A complex sentence with multiple embedded clauses:
   - Main clause: *snang ba'o* (it appears)
@@ -1023,7 +1023,7 @@ Longchenpa cites on the completion of presentation:
 
 This syntactic density requires careful parsing to distinguish the causal relationships between ground, path, and appearance.
 
-[19057-19114] [CONCEPT]
+[19057-19114] <concept>
 **The Body as Appearance:**
 Longchenpa clarifies that "body" (*sku*) in this context does not mean a physical form but a mode of appearance (*snang tshul*) of wisdom:
 - *sku las zer 'phro bas/* (19058): "From the body, rays radiate"
@@ -1031,7 +1031,7 @@ Longchenpa clarifies that "body" (*sku*) in this context does not mean a physica
 
 The "bodies" are phenomenological categories—ways that wisdom manifests to the practitioner—rather than metaphysical entities. This prevents the error of substantializing the "body" as a thing possessed by the practitioner.
 
-[19081-19120] [CONCEPT]
+[19081-19120] <concept>
 Preparation for Volume 2:
 The text anticipates subsequent volumes:
 - **Volume 2**: Direct introduction (*ngo sprod*)
@@ -1045,7 +1045,7 @@ The four lamps establish the basis for direct introduction.
 
 **Summary:** Page 419 provides the concluding synthesis of Volume 1, summarizing completed topics, restating the central message, and preparing for subsequent volumes.
 
-[19115-19168] [STRUCTURE]
+[19115-19168] <structure>
 ## Expanded Explanation: Common and Uncommon Divisions
 **Analysis:** Lines 19115-19168 continue the body classification, now distinguishing between:
 1. Common divisions (*thun mong gi dbye ba*)
@@ -1053,7 +1053,7 @@ The four lamps establish the basis for direct introduction.
 
 This bipartite structure reflects the *mdzod* genre's concern with distinguishing Dzogchen's unique presentations from shared Buddhist doctrines—a hallmark of Nyingma doxography.
 
-[19115-19168] [PHILOLOGY]
+[19115-19168] <philology>
 **Taxonomic Terminology:**
 - *thun mong*: "Common"—doctrines shared with lower vehicles
 - *khyad par*: "Uncommon/particular"—distinctively Dzogchen presentations
@@ -1062,7 +1062,7 @@ This bipartite structure reflects the *mdzod* genre's concern with distinguishin
 
 The terminology reflects the *drang nges* (provisional/definitive) hermeneutical framework, where teachings are classified by their scope and ultimate validity.
 
-[19115-19168] [CONCEPT]
+[19115-19168] <concept>
 **Common Division: Two Bodies:**
 The common presentation distinguishes two bodies from the *Nyi zla kha sbyor* (Sun-Moon Union) tantra:
 
@@ -1075,11 +1075,11 @@ The common presentation distinguishes two bodies from the *Nyi zla kha sbyor* (S
    - Body holding path characteristics (*lam gyi mtshan nyid 'dzin pa'i sku*)
    - Body of suchness (*ye ji bzhin pa'i sku*)
 
-[19115-19168] [CONTEXT]
+[19115-19168] <context>
 **The *Nyi zla kha sbyor* Tantra:**
 This tantra (cited at 19067-19069, 19073-19076, 19082-19086) is a key *Thal 'gyur* source for the thirteen-body system. Its title—"Sun-Moon Union" or "Union of Solar and Lunar Energies"—indicates its focus on the integration of opposites (method/wisdom, red/white essences) in the central channel. The *mdzod* relies heavily on this source for its unique body classifications.
 
-[19115-19168] [CONCEPT]
+[19115-19168] <concept>
 **Suchness Body (*ye ji bzhin pa'i sku*):**
 The second body category presents three modes of "suchness":
 1. **Ground self-arising wisdom** (*gzhi rang byung gi ye shes*): Body abiding from primordial wisdom
@@ -1088,7 +1088,7 @@ The second body category presents three modes of "suchness":
 
 This tripartite structure maps the body onto the standard Buddhist ground-path-fruition (*gzhi-lam-'bras bu*) framework while maintaining the Dzogchen emphasis on primordial presence (*ye gnas*) and spontaneous perfection (*lhun grub*).
 
-[19121-19160] [STRUCTURE]
+[19121-19160] <structure>
 # Final Section of Volume 1 Part 1
 **Analysis:** Longchenpa completes the thirteenth major section and the first part of Volume 1:
 
@@ -1102,7 +1102,7 @@ This tripartite structure maps the body onto the standard Buddhist ground-path-f
 **Transition Marker:**
 The text indicates completion (*ste*) and prepares for the next major division.
 
-[19161-19200] [CONCEPT]
+[19161-19200] <concept>
 Key Insights Summary:
 1. **Alaya-Dharmakaya**: Fundamental distinction between deluded basis and pure ground
 2. **Four Lamps**: Progressive visionary methodology
@@ -1110,15 +1110,15 @@ Key Insights Summary:
 4. **Three Kayas**: Fruition display structure
 5. **Primordial Purity**: Unchanging essence throughout
 
-[19167-19225] [STRUCTURE]
+[19167-19225] <structure>
 ## Continuation: The Thirteen Bodies—Completion of Enumeration
 **Analysis:** Lines 19167-19225 complete the enumeration of the thirteen bodies (*sku bcu gsum*) introduced on previous pages. The section begins with the conclusion of the "unchanging vajra body" (*mi 'gyur ba rdo rje'i sku*) and continues through the remaining bodies: purity-bliss body, mistaken-mind body, liberation-through-seeing body, single-thigle body, uninterrupted space body, non-falling sun-moon body, and non-attachment self-liberation body.
 
-[19167-19225] [PHILOLOGY]
+[19167-19225] <philology>
 **Scribal Variant Note:**
 Line 19167 *ma bsags pa'i tshogs so/* appears to be a concluding phrase from a previous section ("the unaccumulated collections"), while line 19168 *de ni mi 'gyur ba rdo rje'i sku'o/* properly begins the next body category. This may indicate a pagination overlap in the manuscript tradition.
 
-[19167-19225] [CONCEPT]
+[19167-19225] <concept>
 **The Three Bodies of Purity, Bliss, and Universality:**
 Lines 19182-19191 present the "purity-bliss body" (*dag pa bde ba'i sku*) through a series of all-pervasive (*khyab*) qualities:
 
@@ -1134,7 +1134,7 @@ Lines 19182-19191 present the "purity-bliss body" (*dag pa bde ba'i sku*) throug
 
 The repetition of *khyab* (pervade) emphasizes the non-localized, all-encompassing nature of this body—not a spatial entity but an omnipresent field of pure bliss.
 
-[19167-19225] [CONCEPT]
+[19167-19225] <concept>
 **The Mistaken-Mind Body (*log pa sems kyi sku*):**
 Lines 19192-19198 present the samsaric counterpart:
 - *sna tshogs 'byung ba/*: Various arisings
@@ -1146,7 +1146,7 @@ Lines 19192-19198 present the samsaric counterpart:
 
 This "body" is not ultimately existent but represents the misrecognition of the ground's display as separate, dualistic phenomena.
 
-[19167-19225] [CONCEPT]
+[19167-19225] <concept>
 **The Liberation-through-Seeing Body (*mthong ba rang grol gyi sku*):**
 Lines 19199-19211 present paradoxical pairs:
 - *mi 'gyur te 'gyu ba/*: Unchanging yet moving
@@ -1158,7 +1158,7 @@ Lines 19199-19211 present paradoxical pairs:
 
 These paradoxes deconstruct conventional categories, pointing to liberation not as attainment but as recognition.
 
-[19167-19225] [STRUCTURE]
+[19167-19225] <structure>
 ## Completion of Thirteen Bodies
 **Analysis:** Lines 19212-19225 present the final bodies. The "single thigle body" (*gcig pa thig le'i sku*, 19212-19220) enumerates seven wisdoms (*ye shes bdun*) as "arising-all-pervading" (*'byung ba kun khyab*):
 1. Wisdom of arising-all-pervading elements
@@ -1171,11 +1171,11 @@ These paradoxes deconstruct conventional categories, pointing to liberation not 
 
 These seven map the progressive recognition of the single thigle as the ground of all manifestation.
 
-[19167-19225] [CONTEXT]
+[19167-19225] <context>
 **The *Rang shar* Continuation:**
 The passage draws from the *Rang shar* (Self-Arising) tantra, a fundamental *Thal 'gyur* source. The sevenfold enumeration reflects this tantra's emphasis on spontaneous (*rang byung*) arising without causal conditions.
 
-[19169-19220] [STRUCTURE]
+[19169-19220] <structure>
 ## Uncommon Division: The Thirteen Bodies
 **Analysis:** Lines 19169-19220 present the uncommon (*khyad par*) classification of thirteen bodies from the *Rang shar* tantra. This is the distinctive Dzogchen presentation, differing markedly from shared Buddhist body-taxonomies. The passage enumerates:
 1. Root rigpa body (*rtsa ba rig pa'i sku*)
@@ -1191,7 +1191,7 @@ The passage draws from the *Rang shar* (Self-Arising) tantra, a fundamental *Tha
 11. Non-dual lamp body (*tha mi dad pa cig shos kyi sku*)
 12. Non-attachment self-liberation body (*zhen med rang grol gyi sku*)
 
-[19169-19220] [PHILOLOGY]
+[19169-19220] <philology>
 **Poetic Enumerations:**
 The passage employs highly poetic, paradoxical language characteristic of *Thal 'gyur* revelation:
 - *sangs rgyas med pa'i 'bras bu/* (19155): "Fruition without Buddhas"
@@ -1202,7 +1202,7 @@ The passage employs highly poetic, paradoxical language characteristic of *Thal 
 
 These oxymoronic phrases function as *med dgag* (non-affirming negations), deconstructing conventional categories while pointing to the inexpressible.
 
-[19169-19220] [CONCEPT]
+[19169-19220] <concept>
 **The Thirteen Bodies as Deconstructive Categories:**
 Each "body" functions not as a metaphysical entity but as a perspective (*lta ba*) that dissolves a particular type of attachment:
 
@@ -1219,7 +1219,7 @@ Each "body" functions not as a metaphysical entity but as a perspective (*lta ba
 11. **Non-Dual Lamp Body**: Integration of method and wisdom
 12. **Non-Attachment Self-Liberation Body**: Liberation through non-attachment, not through rejection
 
-[19169-19220] [CONTEXT]
+[19169-19220] <context>
 **Doxographical Significance:**
 This thirteen-body system represents one of the most distinctive contributions of Nyingma *Thal 'gyur* literature to Buddhist phenomenology. Unlike the systematic ontologies of Sarma tantra or the negative dialectics of Prasaṅgika-Madhyamaka, this classification functions as:
 - A deconstructive tool (*spang blang med pa*—without acceptance or rejection)
@@ -1228,7 +1228,7 @@ This thirteen-body system represents one of the most distinctive contributions o
 
 Longchenpa's inclusion of this system in the *mdzod* ensures its preservation and transmission as authoritative Nyingma doctrine.
 
-[19201-19240] [PHILOLOGY]
+[19201-19240] <philology>
 Final definitions:
 - *gzhi* (ground): Basis of both samsara and nirvana
 - *lam* (path): Four lamps' familiarization
@@ -1236,15 +1236,15 @@ Final definitions:
 - *thod rgal* (direct transcendence): Leap-over, spontaneous
 - *treg chod* (cutting through): Primordial purity recognition
 
-[19221-19275] [STRUCTURE]
+[19221-19275] <structure>
 ## Completion of Body Classification
 **Analysis:** Lines 19221-19275 complete the thirteen-body enumeration and transition to the next major category: wisdom (*ye shes*). The structural marker "*ces gsuṅs so/*" (19275) closes the body section, while "*gnyis pa ye shes kyi rang bzhin rgyas par bshad pa/*" (19276) opens the wisdom section.
 
-[19221-19275] [PHILOLOGY]
+[19221-19275] <philology>
 **Repetition as Emphasis:**
 Notable repetition of line 19233: *ma rig pa dang rig pa rgya ma chad/* (uninterrupted ignorance and awareness). This scribal repetition (possibly intentional for emphasis or textual corruption) underscores the non-dual relationship between the two—neither is privileged, neither can exist without the other as the ground's self-display.
 
-[19221-19275] [CONCEPT]
+[19221-19275] <concept>
 **The Non-Duality of Opposites:**
 The "uninterrupted space body" (*rgya ma chad pa nam mkha'i sku*, 19221-19335) presents a series of non-dual pairs:
 - *snang ba dang ye shes rgya ma chad/*: Appearance and wisdom uninterrupted
@@ -1258,7 +1258,7 @@ The "uninterrupted space body" (*rgya ma chad pa nam mkha'i sku*, 19221-19335) p
 
 This catalog serves a deconstructive function: each pair represents a conventional dichotomy that is revealed as non-dual in the natural state.
 
-[19221-19275] [CONCEPT]
+[19221-19275] <concept>
 **The Non-Falling Sun-Moon Body:**
 The tenth body (*phyogs su ma lhung ba nyi zla'i sku*, 19236) addresses the middle way (*dbu ma*) between extremes:
 - *'dzin pa med pa'i rang grol/*: Self-liberation without grasping
@@ -1268,7 +1268,7 @@ The tenth body (*phyogs su ma lhung ba nyi zla'i sku*, 19236) addresses the midd
 
 The "non-falling" (*ma lhung ba*) indicates freedom from the extremes of existence and non-existence, eternalism and nihilism.
 
-[19221-19275] [CONCEPT]
+[19221-19275] <concept>
 **The Non-Attachment Self-Liberation Body:**
 The thirteenth body (*zhen med rang grol gyi sku*, 19249-19274) presents the culmination of the system—liberation through non-attachment rather than rejection. The passage lists pairs of non-dual practice:
 
@@ -1292,11 +1292,11 @@ The thirteenth body (*zhen med rang grol gyi sku*, 19249-19274) presents the cul
 
 This body represents the Dzogchen view of spontaneous liberation (*rang grol*)—freedom is the natural state itself, not something achieved through effort.
 
-[19226-19278] [STRUCTURE]
+[19226-19278] <structure>
 ## Completion of Thirteen Bodies and Transition
 **Analysis:** Lines 19226-19278 complete the thirteen-body enumeration with the "uninterrupted space body" (*rgya ma chad pa nam mkha'i sku*) and present the concluding "non-attachment self-liberation body" (*zhen med rang grol gyi sku*). The structural marker "*ces gsuṅs so/*" (19275) closes the body section, while the transition to wisdom (*ye shes*) begins at 19276.
 
-[19226-19278] [PHILOLOGY]
+[19226-19278] <philology>
 **Repetition as Emphasis:**
 Lines 19232-19233 contain apparent repetition: *ma rig pa dang rig pa rgya ma chad/* appears twice. This may be:
 1. Intentional scribal emphasis on the non-duality of ignorance and awareness
@@ -1305,7 +1305,7 @@ Lines 19232-19233 contain apparent repetition: *ma rig pa dang rig pa rgya ma ch
 
 The scholarly approach treats this as potentially significant—highlighting that rigpa and marigpa are "uninterrupted" (*rgya ma chad*) in their mutual dependence.
 
-[19226-19278] [CONCEPT]
+[19226-19278] <concept>
 **The Uninterrupted Space Body:**
 Lines 19221-19235 enumerate twelve pairs of uninterrupted (*rgya ma chad*) non-dualities:
 
@@ -1325,7 +1325,7 @@ Lines 19221-19235 enumerate twelve pairs of uninterrupted (*rgya ma chad*) non-d
 
 This catalog functions as a deconstructive device—each pair represents a conventional duality that is "uninterrupted" (non-dual) in the space body.
 
-[19226-19278] [CONCEPT]
+[19226-19278] <concept>
 **The Non-Attachment Self-Liberation Body:**
 Lines 19249-19274 present the culmination of the thirteen-body system through paired negations:
 
@@ -1361,15 +1361,15 @@ Lines 19249-19274 present the culmination of the thirteen-body system through pa
 
 This is the Dzogchen view in its most radical form: liberation through non-action (*bya ba med pa*), not through rejection or acceptance.
 
-[19226-19278] [STRUCTURE]
+[19226-19278] <structure>
 ## Transition to Wisdom Section
 **Analysis:** Line 19275 "*ces gsuṅs so/*" (thus it was spoken) marks the formal conclusion of the body section. Line 19276 "*'di dag rgyas par bshad na gsal ba mtha' yas pa'i phyir spros pas chog go/*" acknowledges that detailed expansion would be infinite—thus the ground presentation (*gzhi'i rnam bzhag*) of Volume 1 concludes.
 
-[19226-19278] [CONTEXT]
+[19226-19278] <context>
 **Volume 2 Preview:**
 The transition formula "*gnyis pa ye shes kyi rang bzhin rgyas par bshad pa la gnyis te/*" (19276) previews Volume 2's structure: the expanded explanation of wisdom's nature in two parts—basis-abiding wisdom (*gzhi gnas kyi ye shes*) and characteristic-holding wisdom (*mtshan nyid 'dzin pa'i ye shes*). This establishes the relationship between Volume 1 (Ground) and Volume 2 (Path).
 
-[19241-19280] [CONTEXT]
+[19241-19280] <context>
 Citations on completion:
 From *sgron ma 'bar ba*:
 - Thus four lamps explained
@@ -1377,13 +1377,13 @@ From *sgron ma 'bar ba*:
 - For practitioners' benefit
 - May realization dawn
 
-[19276-19302] [STRUCTURE]
+[19276-19302] <structure>
 ## New Section: The Nature of Wisdom
 **Analysis:** Lines 19276-19311 introduce the second of the five categories: wisdom (*ye shes*). The section is bifurcated into:
 1. Wisdom of basis-abiding (*gzhi gnas kyi ye shes*)
 2. Wisdom holding characteristics (*mtshan nyid 'dzin pa'i ye shes*)
 
-[19276-19302] [PHILOLOGY]
+[19276-19302] <philology>
 **Genitive Chains:**
 The passage employs complex genitive constructions typical of Longchenpa's prose:
 - *ngo bo rang bzhin thugs rje gsum las/* (19278): "From the three—essence, nature, compassion"
@@ -1392,7 +1392,7 @@ The passage employs complex genitive constructions typical of Longchenpa's prose
 
 These genitive chains (*'brel sgra*) establish causal and constitutive relationships between ontological categories.
 
-[19276-19302] [CONCEPT]
+[19276-19302] <concept>
 **The Triad: Essence-Nature-Compassion:**
 The basis-abiding wisdom arises from the threefold structure:
 1. **Essence** (*ngo bo*): Manifests as body (*sku ru snang*)
@@ -1401,7 +1401,7 @@ The basis-abiding wisdom arises from the threefold structure:
 
 This triad (*ngo bo rang bzhin thugs rje gsum*) is the fundamental architectonic of Dzogchen cosmology, mapping the ground's self-display onto the three dimensions of manifestation.
 
-[19276-19302] [CONTEXT]
+[19276-19302] <context>
 **The *Nyi zla kha sbyor* on Wisdom:**
 The citation (19282-19286) distinguishes three basis-abiding wisdoms:
 1. **Essence primordial purity wisdom** (*ngo bo ka dag gi ye shes*)
@@ -1410,7 +1410,7 @@ The citation (19282-19286) distinguishes three basis-abiding wisdoms:
 
 This parallels the triad above while specifying the characteristic (*mtshan nyid*) of each: primordial purity, spontaneous perfection, and self-appearance.
 
-[19276-19302] [CONCEPT]
+[19276-19302] <concept>
 **The Five Wisdoms as Emergent Properties:**
 The wisdom holding characteristics (*mtshan nyid 'dzin pa'i ye shes lnga*, 19286-19299) are not primordial but emergent—they arise from the body's relationship to the expanse:
 
@@ -1422,17 +1422,17 @@ The wisdom holding characteristics (*mtshan nyid 'dzin pa'i ye shes lnga*, 19286
 
 This derivation (*byung tshul*) establishes the five wisdoms as dependent arisings (*rten 'brel*), not independent substances.
 
-[19279-19302] [STRUCTURE]
+[19279-19302] <structure>
 ## Volume 2 Preview: Wisdom's Nature
 **Analysis:** Lines 19279-19311 present the preview of Volume 2's content, establishing the two-fold structure of wisdom (*ye shes*) presentation. While these lines technically belong to the Volume 1 conclusion, they function as a bridge to Volume 2's systematic path teachings. The structure distinguishes:
 1. Basis-abiding wisdom (*gzhi gnas kyi ye shes*)
 2. Characteristic-holding wisdom (*mtshan nyid 'dzin pa'i ye shes*)
 
-[19279-19302] [PHILOLOGY]
+[19279-19302] <philology>
 **Architectural Transition Formula:**
 The formula *la gnyis te/* (regarding this, two) at 19276 establishes the bipartite division. The subsequent *dang po ni/* (first is) at 19278 and *gnyis pa/* (second) at 19286 mirror the structural conventions used throughout Volume 1, maintaining consistency across the volume boundary.
 
-[19279-19302] [CONCEPT]
+[19279-19302] <concept>
 **The Triad as Generative Matrix:**
 Lines 19278-19281 present the threefold generative structure (*ngo bo rang bzhin thugs rje gsum*):
 
@@ -1442,7 +1442,7 @@ Lines 19278-19281 present the threefold generative structure (*ngo bo rang bzhin
 
 This triad is the fundamental architectonic of Dzogchen cosmology. Unlike Sarma presentations where essence-nature-compassion describes the ground's attributes, here they function as generative modalities—the ground's self-display into manifestation.
 
-[19279-19302] [CONTEXT]
+[19279-19302] <context>
 **The *Nyi zla kha sbyor* on Wisdom:**
 The citation from *Nyi zla kha sbyor* (Sun-Moon Union, 19282-19285) distinguishes three basis-abiding wisdoms:
 1. *ngo bo ka dag gi ye shes/*: Essence primordial purity wisdom
@@ -1451,7 +1451,7 @@ The citation from *Nyi zla kha sbyor* (Sun-Moon Union, 19282-19285) distinguishe
 
 This parallels the essence-nature-compassion triad while specifying the characteristic (*mtshan nyid*) of each wisdom type.
 
-[19279-19302] [CONCEPT]
+[19279-19302] <concept>
 **The Five Wisdoms as Emergent Properties:**
 Lines 19286-19299 present the five wisdoms (*ye shes lnga*) as emergent rather than primordial:
 
@@ -1464,17 +1464,17 @@ Lines 19286-19299 present the five wisdoms (*ye shes lnga*) as emergent rather t
 
 This *because... therefore* (*...phyir/*) structure establishes the five wisdoms as dependent arisings (*rten 'brel*), not independent substances. They emerge from the body's relationship to the expanse, not from a separate ontological realm.
 
-[19279-19302] [PHILOLOGY]
+[19279-19302] <philology>
 **Causal Particles:**
 The instrumental particle *phyir/* (because/therefore) functions as a logical connector, establishing causal derivation without implying temporal sequence. This is crucial for the Dzogchen view: the five wisdoms are not created in time but are the logical expression of the ground's inherent qualities.
 
-[19279-19302] [STRUCTURE]
+[19279-19302] <structure>
 ## Light as Wisdom's Self-Radiance
 **Analysis:** Lines 19300-19311 introduce light (*'od*) as the self-radiance (*rang gdangs*) of wisdom. This section distinguishes:
 1. Inner clear subtle light (*nang gsal phra ba*): Beyond color, ground's self-display
 2. Outer clear coarse light (*phyir gsal rag pa*): Holding color, path's visionary appearances
 
-[19279-19302] [CONCEPT]
+[19279-19302] <concept>
 **The Two Lights:**
 The passage distinguishes two modalities of luminosity:
 
@@ -1494,7 +1494,7 @@ The passage distinguishes two modalities of luminosity:
 
 This distinction maps onto the ground-path relationship: inner light is the ground's inherent luminosity; outer light is its phenomenal expression.
 
-[19281-19302] [CONCEPT]
+[19281-19302] <concept>
 Significance for Dzogchen Tradition:
 Volume 1 establishes:
 - **Doctrinal foundation**: Ground of Dzogchen
@@ -1515,13 +1515,13 @@ Longchenpa's contribution:
 **Pages 401-420 Summary:**
 These twenty pages complete the detailed exposition of the Four Lamps system, particularly the third lamp (Completely Pure Sphere) and fourth lamp (Self-Arising Wisdom), followed by extensive analysis of alaya-dharmakaya, the three kayas' ninefold classification, and the mind-wisdom distinction. The section demonstrates Longchenpa's encyclopedic method and scriptural mastery.
 
-[19300-19302] [STRUCTURE]
+[19300-19302] <structure>
 ## Section: Light (*'od*) as Wisdom's Self-Radiance
 **Analysis:** Lines 19300-19332 present the third category: light (*'od*) as the self-radiance (*rang gdangs*) of wisdom. The section distinguishes two types:
 1. Inner clear subtle light (*nang gsal phra ba*)—beyond color, the ground's self-display
 2. Outer clear coarse light (*phyir gsal rag pa*)—holding color, the path's visionary appearances
 
-[19300-19302] [PHILOLOGY]
+[19300-19302] <philology>
 **Color Terminology:**
 The passage presents the five colors (*kha dog lnga*) with specific characteristics:
 - *dri ma med pa'i dkar po/*: Stainless white
@@ -1532,7 +1532,7 @@ The passage presents the five colors (*kha dog lnga*) with specific characterist
 
 These are not merely colors but phenomenological descriptors of wisdom's self-display.
 
-[19300-19302] [CONCEPT]
+[19300-19302] <concept>
 **The Five Lights as Self-Purified:**
 Each light is "self-purified" (*rang sar dag*):
 - White: *snang ba gang du yang mi 'byed/*—Appearance not distinguished anywhere
@@ -1543,11 +1543,11 @@ Each light is "self-purified" (*rang sar dag*):
 
 This "self-purification" (*rang sar dag*) is crucial: the lights are not purified by an external agent but are primordially pure as the ground's self-display.
 
-[19300-19302] [CONTEXT]
+[19300-19302] <context>
 **Source Citation:**
 The citation from *Nyi zla kha sbyor* (19304-19311) establishes the five lights as "non-abiding wisdom" (*mi gnas pa'i ye shes*). The term "non-abiding" (*mi gnas pa*) indicates that these lights do not establish themselves in any specific location or essence—they are the dynamic display of the ground without fixation.
 
-[19300-19302] [CONCEPT]
+[19300-19302] <concept>
 **The Two Grounds of Arising and Dissolution:**
 The passage distinguishes two temporal phases:
 1. **Arising ground** (*'char gzhi*): The five lights arise externally (*phyir 'char*) during this life, the bardo, or ground-appearances

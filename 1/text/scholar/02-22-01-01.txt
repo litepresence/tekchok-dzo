@@ -1,20 +1,20 @@
 [10211-10256]
 . Mapping textual architecture and topical divisions.
 
-[10211-10226] [STRUCTURE]
+[10211-10226] <structure>
 **Analysis:** Opening section establishing thematic framework. Examining textual placement within broader doctrinal exposition.
 
-[10211-10256] [PHILOLOGY]
+[10211-10256] <philology>
 **Analysis:** Grammatical and terminological examination:
 - Critical terminology identified:
   * sems: mind
 
-[10211-10256] [CONTEXT]
+[10211-10256] <context>
 **Analysis:** Doctrinal and historical contextualization:
 - Doctrinal framework: Dzogchen (rdzogs chen) Great Perfection teachings
 - Textual genre: mdzod (treasury) - systematic philosophical exposition
 
-[10211-10256] [CONCEPT]
+[10211-10256] <concept>
 **Analysis:** Philosophical concept delineation:
 2. Trikaya (sku gsum) doctrine:
    - Dharmakaya (chos sku): Essence body
@@ -24,29 +24,29 @@
 - Doxographical positioning within Nyingma tradition
 - Pedagogical structure and soteriological function
 
-[10226-10241] [STRUCTURE]
+[10226-10241] <structure>
 **Analysis:** Core doctrinal exposition. Analyzing logical progression and argumentative structure.
 
-[10241-10256] [STRUCTURE]
+[10241-10256] <structure>
 **Analysis:** Concluding synthesis and transition markers. Identifying connective logic to subsequent sections.
 
 [10257-10322]
 . Mapping textual architecture and topical divisions.
 
-[10257-10279] [STRUCTURE]
+[10257-10279] <structure>
 **Analysis:** Opening section establishing thematic framework. Examining textual placement within broader doctrinal exposition.
 
-[10257-10322] [PHILOLOGY]
+[10257-10322] <philology>
 **Analysis:** Grammatical and terminological examination:
 - Technical terminology under examination
 
-[10257-10322] [CONTEXT]
+[10257-10322] <context>
 **Analysis:** Doctrinal and historical contextualization:
 - Citation markers detected (zhes so/ces so): Quotations from tantric or scriptural sources
 - Doctrinal framework: Dzogchen (rdzogs chen) Great Perfection teachings
 - Textual genre: mdzod (treasury) - systematic philosophical exposition
 
-[10257-10322] [CONCEPT]
+[10257-10322] <concept>
 **Analysis:** Philosophical concept delineation:
 2. Trikaya (sku gsum) doctrine:
    - Dharmakaya (chos sku): Essence body
@@ -56,61 +56,61 @@
 - Doxographical positioning within Nyingma tradition
 - Pedagogical structure and soteriological function
 
-[10279-10301] [STRUCTURE]
+[10279-10301] <structure>
 **Analysis:** Core doctrinal exposition. Analyzing logical progression and argumentative structure.
 
-[10301-10322] [STRUCTURE]
+[10301-10322] <structure>
 **Analysis:** Concluding synthesis and transition markers. Identifying connective logic to subsequent sections.
 
 [10323-10384]
 . Mapping textual architecture and topical divisions.
 
-[10323-10343] [STRUCTURE]
+[10323-10343] <structure>
 **Analysis:** Opening section establishing thematic framework. Examining textual placement within broader doctrinal exposition.
 
-[10323-10384] [PHILOLOGY]
+[10323-10384] <philology>
 **Analysis:** Grammatical and terminological examination:
 - Critical terminology identified:
   * sku gsum: three bodies/kaya
   * sems: mind
 
-[10323-10384] [CONTEXT]
+[10323-10384] <context>
 **Analysis:** Doctrinal and historical contextualization:
 - Citation markers detected (zhes so/ces so): Quotations from tantric or scriptural sources
 - Doctrinal framework: Dzogchen (rdzogs chen) Great Perfection teachings
 - Textual genre: mdzod (treasury) - systematic philosophical exposition
 
-[10323-10384] [CONCEPT]
+[10323-10384] <concept>
 **Analysis:** Philosophical concept delineation:
 2. Trikaya (sku gsum) doctrine:
    - Dharmakaya (chos sku): Essence body
    - Sambhogakaya (longs sku): Enjoyment body
    - Nirmanakaya (sprul sku): Emanation body
 
-[10343-10364] [STRUCTURE]
+[10343-10364] <structure>
 **Analysis:** Core doctrinal exposition. Analyzing logical progression and argumentative structure.
 
-[10364-10384] [STRUCTURE]
+[10364-10384] <structure>
 **Analysis:** Concluding synthesis and transition markers. Identifying connective logic to subsequent sections.
 
 [10385-10427]
 . Mapping textual architecture and topical divisions.
 
-[10385-10399] [STRUCTURE]
+[10385-10399] <structure>
 **Analysis:** Opening section establishing thematic framework. Examining textual placement within broader doctrinal exposition.
 
-[10385-10427] [PHILOLOGY]
+[10385-10427] <philology>
 **Analysis:** Grammatical and terminological examination:
 - Critical terminology identified:
   * sems: mind
 
-[10385-10427] [CONTEXT]
+[10385-10427] <context>
 **Analysis:** Doctrinal and historical contextualization:
 - Citation markers detected (zhes so/ces so): Quotations from tantric or scriptural sources
 - Doctrinal framework: Dzogchen (rdzogs chen) Great Perfection teachings
 - Textual genre: mdzod (treasury) - systematic philosophical exposition
 
-[10385-10427] [CONCEPT]
+[10385-10427] <concept>
 **Analysis:** Philosophical concept delineation:
 2. Trikaya (sku gsum) doctrine:
    - Dharmakaya (chos sku): Essence body
@@ -120,30 +120,30 @@
 - Doxographical positioning within Nyingma tradition
 - Pedagogical structure and soteriological function
 
-[10399-10413] [STRUCTURE]
+[10399-10413] <structure>
 **Analysis:** Core doctrinal exposition. Analyzing logical progression and argumentative structure.
 
-[10413-10427] [STRUCTURE]
+[10413-10427] <structure>
 **Analysis:** Concluding synthesis and transition markers. Identifying connective logic to subsequent sections.
 
 [10428-10468]
 . Mapping textual architecture and topical divisions.
 
-[10428-10441] [STRUCTURE]
+[10428-10441] <structure>
 **Analysis:** Opening section establishing thematic framework. Examining textual placement within broader doctrinal exposition.
 
-[10428-10468] [PHILOLOGY]
+[10428-10468] <philology>
 **Analysis:** Grammatical and terminological examination:
 - Critical terminology identified:
   * rig pa: awareness/pristine cognition
   * sems: mind
 
-[10428-10468] [CONTEXT]
+[10428-10468] <context>
 **Analysis:** Doctrinal and historical contextualization:
 - Doctrinal framework: Dzogchen (rdzogs chen) Great Perfection teachings
 - Textual genre: mdzod (treasury) - systematic philosophical exposition
 
-[10428-10468] [CONCEPT]
+[10428-10468] <concept>
 **Analysis:** Philosophical concept delineation:
 2. Trikaya (sku gsum) doctrine:
    - Dharmakaya (chos sku): Essence body
@@ -153,89 +153,89 @@
 - Doxographical positioning within Nyingma tradition
 - Pedagogical structure and soteriological function
 
-[10441-10455] [STRUCTURE]
+[10441-10455] <structure>
 **Analysis:** Core doctrinal exposition. Analyzing logical progression and argumentative structure.
 
-[10455-10468] [STRUCTURE]
+[10455-10468] <structure>
 **Analysis:** Concluding synthesis and transition markers. Identifying connective logic to subsequent sections.
 
 [10469-10516]
 . Mapping textual architecture and topical divisions.
 
-[10469-10485] [STRUCTURE]
+[10469-10485] <structure>
 **Analysis:** Opening section establishing thematic framework. Examining textual placement within broader doctrinal exposition.
 
-[10469-10516] [PHILOLOGY]
+[10469-10516] <philology>
 **Analysis:** Grammatical and terminological examination:
 - Critical terminology identified:
   * sems: mind
 
-[10469-10516] [CONTEXT]
+[10469-10516] <context>
 **Analysis:** Doctrinal and historical contextualization:
 - Doctrinal framework: Dzogchen (rdzogs chen) Great Perfection teachings
 - Textual genre: mdzod (treasury) - systematic philosophical exposition
 - Citation from Seng ge rtsal rdzogs tantra identified
 
-[10469-10516] [CONCEPT]
+[10469-10516] <concept>
 **Analysis:** Philosophical concept delineation:
 - Core concepts under analysis
 - Doxographical positioning within Nyingma tradition
 - Pedagogical structure and soteriological function
 
-[10485-10501] [STRUCTURE]
+[10485-10501] <structure>
 **Analysis:** Core doctrinal exposition. Analyzing logical progression and argumentative structure.
 
-[10501-10516] [STRUCTURE]
+[10501-10516] <structure>
 **Analysis:** Concluding synthesis and transition markers. Identifying connective logic to subsequent sections.
 
 [10517-10550]
 . Mapping textual architecture and topical divisions.
 
-[10517-10528] [STRUCTURE]
+[10517-10528] <structure>
 **Analysis:** Opening section establishing thematic framework. Examining textual placement within broader doctrinal exposition.
 
-[10517-10550] [PHILOLOGY]
+[10517-10550] <philology>
 **Analysis:** Grammatical and terminological examination:
 - Critical terminology identified:
   * sku gsum: three bodies/kaya
   * sems: mind
 
-[10517-10550] [CONTEXT]
+[10517-10550] <context>
 **Analysis:** Doctrinal and historical contextualization:
 - Doctrinal framework: Dzogchen (rdzogs chen) Great Perfection teachings
 - Textual genre: mdzod (treasury) - systematic philosophical exposition
 
-[10517-10550] [CONCEPT]
+[10517-10550] <concept>
 **Analysis:** Philosophical concept delineation:
 2. Trikaya (sku gsum) doctrine:
    - Dharmakaya (chos sku): Essence body
    - Sambhogakaya (longs sku): Enjoyment body
    - Nirmanakaya (sprul sku): Emanation body
 
-[10528-10539] [STRUCTURE]
+[10528-10539] <structure>
 **Analysis:** Core doctrinal exposition. Analyzing logical progression and argumentative structure.
 
-[10539-10550] [STRUCTURE]
+[10539-10550] <structure>
 **Analysis:** Concluding synthesis and transition markers. Identifying connective logic to subsequent sections.
 
 [10551-10574]
 . Mapping textual architecture and topical divisions.
 
-[10551-10559] [STRUCTURE]
+[10551-10559] <structure>
 **Analysis:** Opening section establishing thematic framework. Examining textual placement within broader doctrinal exposition.
 
-[10551-10574] [PHILOLOGY]
+[10551-10574] <philology>
 **Analysis:** Grammatical and terminological examination:
 - Critical terminology identified:
   * sems: mind
   * mngon shes: superknowledge/abhijna
 
-[10551-10574] [CONTEXT]
+[10551-10574] <context>
 **Analysis:** Doctrinal and historical contextualization:
 - Doctrinal framework: Dzogchen (rdzogs chen) Great Perfection teachings
 - Textual genre: mdzod (treasury) - systematic philosophical exposition
 
-[10551-10574] [CONCEPT]
+[10551-10574] <concept>
 **Analysis:** Philosophical concept delineation:
 2. Trikaya (sku gsum) doctrine:
    - Dharmakaya (chos sku): Essence body
@@ -245,49 +245,49 @@
    - Classical Buddhist attainments integrated into Dzogchen path
    - Signs of progression, not ultimate goal
 
-[10559-10567] [STRUCTURE]
+[10559-10567] <structure>
 **Analysis:** Core doctrinal exposition. Analyzing logical progression and argumentative structure.
 
-[10567-10574] [STRUCTURE]
+[10567-10574] <structure>
 **Analysis:** Concluding synthesis and transition markers. Identifying connective logic to subsequent sections.
 
 [10575-10606]
 . Mapping textual architecture and topical divisions.
 
-[10575-10585] [STRUCTURE]
+[10575-10585] <structure>
 **Analysis:** Opening section establishing thematic framework. Examining textual placement within broader doctrinal exposition.
 
-[10575-10606] [PHILOLOGY]
+[10575-10606] <philology>
 **Analysis:** Grammatical and terminological examination:
 - Critical terminology identified:
   * rig pa: awareness/pristine cognition
   * sems: mind
   * ye shes: primordial wisdom
 
-[10575-10606] [CONTEXT]
+[10575-10606] <context>
 **Analysis:** Doctrinal and historical contextualization:
 - Doctrinal framework: Dzogchen (rdzogs chen) Great Perfection teachings
 - Textual genre: mdzod (treasury) - systematic philosophical exposition
 
-[10575-10606] [CONCEPT]
+[10575-10606] <concept>
 **Analysis:** Philosophical concept delineation:
 1. Samadhi (ting 'dzin) progression system:
    - Graduated stages of meditative absorption
    - Spontaneous accomplishment (lhun grub) vs. effortful practice
 
-[10585-10596] [STRUCTURE]
+[10585-10596] <structure>
 **Analysis:** Core doctrinal exposition. Analyzing logical progression and argumentative structure.
 
-[10596-10606] [STRUCTURE]
+[10596-10606] <structure>
 **Analysis:** Concluding synthesis and transition markers. Identifying connective logic to subsequent sections.
 
 [10607-10661]
 . Mapping textual architecture and topical divisions.
 
-[10607-10625] [STRUCTURE]
+[10607-10625] <structure>
 **Analysis:** Opening section establishing thematic framework. Examining textual placement within broader doctrinal exposition.
 
-[10607-10661] [PHILOLOGY]
+[10607-10661] <philology>
 **Analysis:** Grammatical and terminological examination:
 - Critical terminology identified:
   * rig pa: awareness/pristine cognition
@@ -295,13 +295,13 @@
   * sems: mind
   * mngon shes: superknowledge/abhijna
 
-[10607-10661] [CONTEXT]
+[10607-10661] <context>
 **Analysis:** Doctrinal and historical contextualization:
 - Citation markers detected (zhes so/ces so): Quotations from tantric or scriptural sources
 - Doctrinal framework: Dzogchen (rdzogs chen) Great Perfection teachings
 - Textual genre: mdzod (treasury) - systematic philosophical exposition
 
-[10607-10661] [CONCEPT]
+[10607-10661] <concept>
 **Analysis:** Philosophical concept delineation:
 2. Trikaya (sku gsum) doctrine:
    - Dharmakaya (chos sku): Essence body
@@ -314,63 +314,63 @@
    - Classical Buddhist attainments integrated into Dzogchen path
    - Signs of progression, not ultimate goal
 
-[10625-10643] [STRUCTURE]
+[10625-10643] <structure>
 **Analysis:** Core doctrinal exposition. Analyzing logical progression and argumentative structure.
 
-[10643-10661] [STRUCTURE]
+[10643-10661] <structure>
 **Analysis:** Concluding synthesis and transition markers. Identifying connective logic to subsequent sections.
 
 [10662-10709]
 . Mapping textual architecture and topical divisions.
 
-[10662-10678] [STRUCTURE]
+[10662-10678] <structure>
 **Analysis:** Opening section establishing thematic framework. Examining textual placement within broader doctrinal exposition.
 
-[10662-10709] [PHILOLOGY]
+[10662-10709] <philology>
 **Analysis:** Grammatical and terminological examination:
 - Critical terminology identified:
   * rig pa: awareness/pristine cognition
   * snying rje: compassion
   * sems: mind
 
-[10662-10709] [CONTEXT]
+[10662-10709] <context>
 **Analysis:** Doctrinal and historical contextualization:
 - Citation markers detected (zhes so/ces so): Quotations from tantric or scriptural sources
 - Doctrinal framework: Dzogchen (rdzogs chen) Great Perfection teachings
 - Textual genre: mdzod (treasury) - systematic philosophical exposition
 
-[10662-10709] [CONCEPT]
+[10662-10709] <concept>
 **Analysis:** Philosophical concept delineation:
 3. Clear light (od gsal) phenomenology:
    - Luminous nature of mind
    - Thod rgal (direct transcendence) appearances
 
-[10678-10694] [STRUCTURE]
+[10678-10694] <structure>
 **Analysis:** Core doctrinal exposition. Analyzing logical progression and argumentative structure.
 
-[10694-10709] [STRUCTURE]
+[10694-10709] <structure>
 **Analysis:** Concluding synthesis and transition markers. Identifying connective logic to subsequent sections.
 
 [10710-10760]
 . Mapping textual architecture and topical divisions.
 
-[10710-10727] [STRUCTURE]
+[10710-10727] <structure>
 **Analysis:** Opening section establishing thematic framework. Examining textual placement within broader doctrinal exposition.
 
-[10710-10760] [PHILOLOGY]
+[10710-10760] <philology>
 **Analysis:** Grammatical and terminological examination:
 - Critical terminology identified:
   * rig pa: awareness/pristine cognition
   * sems: mind
   * ye shes: primordial wisdom
 
-[10710-10760] [CONTEXT]
+[10710-10760] <context>
 **Analysis:** Doctrinal and historical contextualization:
 - Citation markers detected (zhes so/ces so): Quotations from tantric or scriptural sources
 - Doctrinal framework: Dzogchen (rdzogs chen) Great Perfection teachings
 - Textual genre: mdzod (treasury) - systematic philosophical exposition
 
-[10710-10760] [CONCEPT]
+[10710-10760] <concept>
 **Analysis:** Philosophical concept delineation:
 1. Samadhi (ting 'dzin) progression system:
    - Graduated stages of meditative absorption
@@ -379,19 +379,19 @@
    - Luminous nature of mind
    - Thod rgal (direct transcendence) appearances
 
-[10727-10744] [STRUCTURE]
+[10727-10744] <structure>
 **Analysis:** Core doctrinal exposition. Analyzing logical progression and argumentative structure.
 
-[10744-10760] [STRUCTURE]
+[10744-10760] <structure>
 **Analysis:** Concluding synthesis and transition markers. Identifying connective logic to subsequent sections.
 
 [10761-10765]
 . Mapping textual architecture and topical divisions.
 
-[10761-10765] [STRUCTURE]
+[10761-10765] <structure>
 **Analysis:** Opening section establishing thematic framework. Examining textual placement within broader doctrinal exposition.
 
-[10761-10765] [PHILOLOGY]
+[10761-10765] <philology>
 **Analysis:** Grammatical and terminological examination:
 - Critical terminology identified:
   * rig pa: awareness/pristine cognition
@@ -399,13 +399,13 @@
   * sems: mind
   * ye shes: primordial wisdom
 
-[10761-10765] [CONTEXT]
+[10761-10765] <context>
 **Analysis:** Doctrinal and historical contextualization:
 - Citation markers detected (zhes so/ces so): Quotations from tantric or scriptural sources
 - Doctrinal framework: Dzogchen (rdzogs chen) Great Perfection teachings
 - Textual genre: mdzod (treasury) - systematic philosophical exposition
 
-[10761-10765] [CONCEPT]
+[10761-10765] <concept>
 **Analysis:** Philosophical concept delineation:
 2. Trikaya (sku gsum) doctrine:
    - Dharmakaya (chos sku): Essence body

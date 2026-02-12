@@ -1,4 +1,4 @@
-[17361-17374] [CONTEXT]
+[17361-17374] <context>
 Citation from *kun tu bzang po klong drug pa'i rgyud*:
 - Hey mahasattva
 - Mind's abode is alaya
@@ -10,7 +10,7 @@ Citation from *kun tu bzang po klong drug pa'i rgyud*:
 
 **Summary:** Page 407 completes the fourth lamp with its simile, concludes the four-lamps section, and inaugurates the second major division on supported cognition. The alaya-dharmakaya distinction establishes the fundamental ground for understanding samsara-nirvana differentiation.
 
-[17375-17406] [CONTEXT]
+[17375-17406] <context>
 Polemical Analysis: Alaya as Dharmakaya?
 **Analysis:** Longchenpa addresses the erroneous view (*'dod pa*) that identifies alaya with dharmakaya. This view has proponents among:
 1. Common treatises (*thun mong gi bstan bcos*): Alaya as support of pure-impure all; dharmakaya as pure's stainless thusness
@@ -20,7 +20,7 @@ Scriptural citations used to support this view:
 - "Alaya is all's basis / nirvana's basis mother also is"
 - "Alaya transformed abode is dharmadhatu wisdom, essence body"
 
-[17387-17406] [CONCEPT]
+[17387-17406] <concept>
 Logical Refutation (*gnod pa*):
 If alaya were dharmakaya, two absurd consequences (*thal ba*) follow:
 1. Dharmakaya would be stained (*dri ma can du thal*)
@@ -32,7 +32,7 @@ Scriptural refutations (*lung gis gnod*):
 - *kun tu bzang po thugs kyi me long*: "Considering alaya as dharmakaya is deviating from me"
 - *rig pa rang shar*: "Some consider alaya as dharmakaya / To give answer, teaching established / Alaya's characteristic thus / Then that spoke answer / All complete therefore alaya / From that all complete / Buddha becoming sentient being reason / Why all complete / Intermittent possessor becomes / Why various arises / Sometimes buddha becomes / Sometimes sentient being becomes / Why definite abiding / Then asked words reversed / Then if alaya nonexistent / Then asked answer given / Alaya conceptualization holder / Various delusion knowing stained / Alaya ignorance entity is"
 
-[17420-17447] [CONCEPT]
+[17420-17447] <concept>
 Essential Distinction (*dbye dgos*) and Simile:
 The distinction is essential. From *klong drug pa*: "Therefore alaya and dharmakaya not distinguished: like form one different-holding knowing, cannot appear objects individually."
 
@@ -46,7 +46,7 @@ The *rang shar* citation (17436-17439):
 - Sleep and waking manner
 - Faculty distinction possessing
 
-[17440-17447] [CONCEPT]
+[17440-17447] <concept>
 Fundamental Asymmetry:
 Rigpa unstained dharmakaya's essence at all times not reversing, exists as final liberation basis. Alaya like sleep, delusion-appearance all dreams' basis became, must be awakened from—distinction extremely great.
 
@@ -56,7 +56,7 @@ Sleep and dream must be reversed; self-rigpa need not be reversed. Dharmakaya is
 
 **Summary:** Page 408 presents Longchenpa's refutation of the alaya-dharmakaya identity view, using logical consequences and scriptural citations. The ocean-boat simile illustrates the fundamental asymmetry between the unstained ground and the deluded support.
 
-[17448-17476] [STRUCTURE]
+[17448-17476] <structure>
 # Expanded Explanation of Alaya and Dharmakaya
 **Analysis:** Longchenpa presents the expanded explanation (*rgyas par bshad pa*) in two sections:
 1. Alaya expanded explanation
@@ -80,7 +80,7 @@ Fivefold analysis of alaya:
    - *bag chags lus kyi kun gzhi* (Latency body alaya)
    - *bag chags sna tshogs pa'i kun gzhi* (Latency various alaya)
 
-[17477-17493] [CONCEPT]
+[17477-17493] <concept>
 Four Alayas Detailed:
 1. **Primordial meaning alaya**: Samsara dharmas all's sphere first basis; investigating doer first movement rigpa considering, coeminent ignorance, from reversal spoken
 2. **Connection meaning alaya**: That knowing itself self ignorance, samsara connection; knowing, nirvana connection aspect spoken
@@ -89,7 +89,7 @@ Four Alayas Detailed:
 
 Though four names, one knowing's aspect four distinctions turned, labeled.
 
-[17494-17507] [CONCEPT]
+[17494-17507] <concept>
 Alaya as Eight Consciousnesses:
 From first movement until now, all knowing's support alaya, dependent aggregates eight abiding; individually distinguished, root samsara basis-opening arising basis: primordial meaning and samsara-nirvana connection; body appearing as body; mind latencies dependent alaya basis established. That time knowing's aspect outer-inner not severed, alaya consciousness labeled.
 
@@ -114,7 +114,7 @@ Names-entry reasons (*sgras 'jug pa'i rgyu mtshan*):
 
 **Summary:** Page 409 provides the expanded explanation of alaya with its fivefold analysis (essence, definition, classification, function, name-entry). The four alayas map different aspects of the deluded basis across ground, connection, body, and latencies.
 
-[17508-17523] [STRUCTURE]
+[17508-17523] <structure>
 # Dharmakaya Expanded Explanation
 **Analysis:** Longchenpa presents the expanded explanation of dharmakaya (*chos sku rgyas par bshad pa*) following the same fivefold structure:
 1. Essence (*ngo bo*)

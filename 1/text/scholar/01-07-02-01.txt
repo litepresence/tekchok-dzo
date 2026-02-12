@@ -1,4 +1,4 @@
-[9899-9910] [STRUCTURE]
+[9899-9910] <structure>
 Ground's Characteristics and Nature
 
 **Ground's Six Characteristics:**
@@ -27,13 +27,13 @@ Primordial, natural, complete
 Threefold purity
 Ground thus"
 
-[9899-9901] [STRUCTURE]
+[9899-9901] <structure>
 # The Ninefold Body Samaya Schema
 **Analysis:** The three-vajra system subdivides each vajra into outer (*phyi*), inner (*nang*), and secret (*gsang ba*), then each of those into three subcategories (*phyi'i phyi* etc.), yielding 27 total, though the text focuses on the first three.
 
 **The Initial Three Body Samayas:**
 
-[9902-9914] [CONTEXT]
+[9902-9914] <context>
 Citation from *Dam tshig rin chen rnam par spungs pa'i rgyud*
 **Analysis:** The citation from the *Samaya-Jewel Heap Tantra* (*Dam tshig rin chen rnam par spungs pa'i rgyud*) establishes the body samaya violations and their signs:
 
@@ -54,7 +54,7 @@ Citation from *Dam tshig rin chen rnam par spungs pa'i rgyud*
   - *don snod* = vital organs, entrails (lit. "meaning-vessels")
   - *rnal 'byor pa* = yogi (Skt. *yogin*)
 
-[9911-9970] [PHILOLOGY]
+[9911-9970] <philology>
 Ground and Path Relationship
 
 **Ground as Basis:**
@@ -90,7 +90,7 @@ Result not added
 Ground natural perfection
 Result thus"
 
-[9915-9921] [CONTEXT]
+[9915-9921] <context>
 Restoration Rituals from *Dam tshig mchog gi rgyud*
 **Analysis:** The text prescribes specific restoration (*bskang ba*) rituals:
 
@@ -108,18 +108,18 @@ Restoration Rituals from *Dam tshig mchog gi rgyud*
   - *'dag* = purified, cleansed (from *dwag*)
   - The instrumental *pas* marks the means of purification
 
-[9922-9935] [STRUCTURE]
+[9922-9935] <structure>
 # Restoration Rituals for Inner and Secret Body Samaya
 **Analysis:** Following the outer body samaya restoration, Longchenpa presents the restoration methods for inner (*nang*) and secret (*gsang ba*) body samaya violations, with specific material offerings and consecration rituals.
 
-[9922] [PHILOLOGY] Inner Violation Restoration
+[9922] <philology> Inner Violation Restoration
 **Analysis:** *de bzhin du nang gi nyams na nang gi lha'i lugs sku bdun no*—"Likewise, if inner [samaya] deteriorates, seven deity lugs sku"
 
 - *de bzhin du* = likewise, similarly (responding to the outer restoration)
 - *lugs sku* = patterned/form image (a specific type of constructed image)
 - *bdun* = seven (the complete number for inner restoration)
 
-[9923] [CONTEXT] Secret Violation Restoration
+[9923] <context> Secret Violation Restoration
 **Analysis:** *gsang ba la rdo rje dril bu bdun nam bcu gcig bla ma la phul bas bskangs*—"For secret [samaya], seven or eleven vajra bells offered to guru—restored"
 
 The graduated offering:
@@ -127,7 +127,7 @@ The graduated offering:
 - Eleven (*bcu gcig*) for greater violation
 - Offered (*phul bas*) to the guru (the living embodiment of samaya)
 
-[9924-9935] [CONTEXT]
+[9924-9935] <context>
 Scriptural Authority from *De nyid*
 **Analysis:** The citation establishes the specific restoration rituals:
 
@@ -145,16 +145,16 @@ Scriptural Authority from *De nyid*
   - *dge dang zhi ba'i las 'grub*—virtuous and pacifying actions accomplished
   - *'gro ba rnams ni byams par 'gyur*—beings become loving
 
-[9936-9953] [STRUCTURE]
+[9936-9953] <structure>
 # Inner Body Samaya: Three Subdivisions
 **Analysis:** The body samaya's inner category subdivides into outer-inner, inner-inner, and secret-inner, each with specific prohibitions from the *gSer gyi khang bu brtsegs pa'i rgyud* (Golden House Stacked Tantra).
 
-[9937] [PHILOLOGY] Tantra Reference
+[9937] <philology> Tantra Reference
 **Analysis:** *gser gyi khang bu brtsegs pa'i rgyud*—"Golden House Stacked Tantra"
 
 A Nyingma tantra in the *sPyi rgyud* (General Tantra) category. The "golden house" (*gser gyi khang bu*) metaphor indicates precious, valuable teachings.
 
-[9938-9940] [CONCEPT]
+[9938-9940] <concept>
 Outer-Inner Prohibition: Family Respect
 **Analysis:**
 
@@ -165,7 +165,7 @@ The prohibition extends to:
 2. Parents (*pha dang ma*)—including guru as spiritual parent
 3. One's own body (*rang gi lus*)—the vessel of practice
 
-[9941-9946] [CONCEPT]
+[9941-9946] <concept>
 Inner-Inner Prohibition: Vehicle Disparagement
 **Analysis:**
 
@@ -178,7 +178,7 @@ Prohibits disparaging:
 - **Lines 9945-9946:** *smad cing mtho btsams rgyan smad na / sangs rgyas kun gyi brgya phrag bslus*—"If disparaging and haughtily demeaning ornament, deceived by hundreds of all buddhas"
   - Disparagement alienates the entire lineage
 
-[9947-9953] [CONCEPT]
+[9947-9953] <concept>
 Secret-Inner: Body as Mandala
 **Analysis:**
 
@@ -190,23 +190,23 @@ The prohibition against:
 - Taking hundreds of leak-possessing bodies (line 9951)
 - Experiencing hot hells subsequently (line 9952)
 
-[9954-9987] [STRUCTURE]
+[9954-9987] <structure>
 # Secret Body Samaya: Three Subdivisions
 **Analysis:** The secret level of body samaya further divides into outer-secret, inner-secret, and secret-secret, representing increasingly subtle transgressions with proportionally severe consequences.
 
-[9955-9961] [CONTEXT]
+[9955-9961] <context>
 Outer-Secret: Vajra Sibling Respect
 **Analysis:**
 
 - **Lines 9956-9961:** Prohibits disparaging vajra siblings' (*rdo rje'i spun*) body ornaments, striking with haughty gesture, or causing others to do so. If violated: *mnar med rgyud 'phel 'gyur*—"hell-without-respite continuum will increase"
 
-[9962-9967] [CONTEXT]
+[9962-9967] <context>
 Inner-Secret: Tantric Partner Prohibitions
 **Analysis:**
 
 - **Lines 9962-9967:** Prohibits striking or attempting to strike the "inner extremely mixed sibling" (*nang gi shin tu 'dres pa'i mched*)—the tantric consort—even in jest (*ku re rtsed mo*), or playing with the mother (*yum*) in dreams. If not immediately confessed: *sngar dang sdig mnyam*—"equal sin to before"
 
-[9968-9987] [CONTEXT]
+[9968-9987] <context>
 Secret-Secret: Guru Body Reverence
 **Analysis:** The most severe prohibitions concern the guru's body:
 
@@ -226,17 +226,17 @@ Secret-Secret: Guru Body Reverence
 
 - **Lines 9985-9986:** Disparaging siblings' bodies: *rnams smin brjod mi nus*—"ripened result is inexpressible"
 
-[9988] [STRUCTURE] Summary Enumeration
+[9988] <structure> Summary Enumeration
 **Analysis:** *de ltar na sku'i dam tshig la phyi nang gsang ba gsum du phye bas dgu yod do*—"Thus, body samaya divided into outer, inner, secret—nine exist"
 
 Confirms the ninefold structure: 3 categories × 3 subdivisions each = 9 body samayas
 
-[9989] [STRUCTURE] Transition to Speech Samaya
+[9989] <structure> Transition to Speech Samaya
 **Analysis:** *gnyis pa gsung gi dam tshig la'ang gsum las*—"Second: speech samaya also from three"
 
 Transitions to the second of the three vajras: speech (*gsung*), which will similarly divide into nine.
 
-[9971-9989] [CONTEXT]
+[9971-9989] <context>
 Ground Beyond Effort
 
 **No Need for Effort:**

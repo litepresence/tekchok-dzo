@@ -1,4 +1,4 @@
-[997-1000] [CONTEXT]
+[997-1000] <context>
 # Teaching Perfection: The Three Baskets
 **Analysis:** The teaching is presented as the (*sde snod gsum*) three baskets:
 
@@ -8,7 +8,7 @@
 
 Plus the tantras (*rgyud*), which in Nyingma understanding are the esoteric dimension of the Buddha's teaching. The total enumeration: (*khri phrag brgyad*) 18,000 texts — indicating completeness.
 
-[997-999] [PHILOLOGY]
+[997-999] <philology>
 The Four Desire Realm Tiers (*bang rim bzhi*)
 **Analysis:**
 
@@ -23,7 +23,7 @@ Within these six heavens exist four specific tiers characterized by unique attri
 
 **Structural Transition:** Having established the cosmological container (*snod*) from hells to highest desire heaven, Longchenpa will next analyze form realm (*gzugs khams*) and formless realm (*gzugs med khams*) gods, completing the trikāya cosmological framework.
 
-[1000-1002] [PHILOLOGY]
+[1000-1002] <philology>
 The Four Great Kings (*rgyal chen bzhi*)
 **Analysis:**
 
@@ -37,7 +37,7 @@ Longchenpa names three of the Four Great Kings (Lokapālas) who guard the cardin
 
 Each king dwells with his individual retinue (*so so'i 'khor*), establishing the hierarchical structure of the desire realm's lower heavens.
 
-[1001-1010] [STRUCTURE]
+[1001-1010] <structure>
 # Time Perfection: The Teaching's Duration
 **Analysis:** The temporal dimension includes:
 
@@ -53,7 +53,7 @@ Each king dwells with his individual retinue (*so so'i 'khor*), establishing the
 
 The current era is considered the latter part of the degenerate age when the Dharma exists in form but beings' capacities are diminished.
 
-[1003-1007] [CONCEPT]
+[1003-1007] <concept>
 Aesthetics of the Divine Realms
 **Analysis:**
 
@@ -72,7 +72,7 @@ The description employs traditional Indian motifs of paradise:
 
 This reflects the *kalpavṛkṣa* (wish-fulfilling tree) mythology common to Indian cosmologies, where divine realms are characterized by natural abundance and sensory perfection.
 
-[1008-1019] [CONTEXT]
+[1008-1019] <context>
 Celestial Mechanics: Sun, Moon, and Stars
 **Analysis:**
 
@@ -106,7 +106,7 @@ Formed from any of four elements (*'byung ba bzhi*):
 
 Floating at 40,000 leagues altitude, radiating light (*'od zer du 'phro ba*).
 
-[1011-1020] [CONCEPT]
+[1011-1020] <concept>
 # The Five Perfections as Maṇḍala
 **Analysis:** The five perfections map onto the five-Buddha maṇḍala:
 
@@ -120,7 +120,7 @@ Floating at 40,000 leagues altitude, radiating light (*'od zer du 'phro ba*).
 
 This integration demonstrates that the historical teaching is not separate from the cosmic maṇḍala structure—it is the maṇḍala manifesting in time and space.
 
-[1020-1032] [STRUCTURE]
+[1020-1032] <structure>
 The Thirty-three Gods (*sum cu rtsa gsum pa*)
 **Analysis:**
 
@@ -145,7 +145,7 @@ The Thirty-three Gods (*sum cu rtsa gsum pa*)
 
 **Doxographical Note:** This corresponds to the Trayastriṃśa heaven in standard Buddhist cosmology, ruled by Śakra/Indra, representing the pinnacle of the desire realm's "horizontal" dimension before ascending to the "vertical" higher heavens.
 
-[1021-1030] [CONTEXT]
+[1021-1030] <context>
 # The First Turning of the Dharma-Wheel
 **Analysis:** The initial teaching at Deer Park (*ri dwags 'dab*) included:
 
@@ -164,7 +164,7 @@ The Thirty-three Gods (*sum cu rtsa gsum pa*)
 - **Eightfold Path** (*'phags lam yan lag brgyad*):
   Right view, intention, speech, action, livelihood, effort, mindfulness, concentration
 
-[1031-1040] [PHILOLOGY]
+[1031-1040] <philology>
 Analysis of *chos 'khor*
 **Analysis:** The term (*chos 'khor*) "Dharma-wheel" combines:
 - *chos* = Dharma, truth, phenomena
@@ -178,7 +178,7 @@ The wheel imagery suggests:
 
 The verb (*bskor ba*) "turned" uses the causative form, indicating the Buddha actively set the wheel in motion.
 
-[1033-1040] [PHILOLOGY]
+[1033-1040] <philology>
 The Four Pleasure-groves (*skyed mos tshal bzhi*)
 **Analysis:**
 
@@ -201,7 +201,7 @@ Each grove contains:
 
 **Structural Transition:** Having detailed the Thirty-three gods' realm—the highest desire-realm heaven on Meru—Longchenpa will next ascend to the higher desire heavens (Conflict-free, Joy-possess, etc.) and then to the form realm (*gzugs khams*), completing the cosmological survey before analyzing how beings arise within these realms.
 
-[1041-1050] [STRUCTURE]
+[1041-1050] <structure>
 # The Middle Period Teachings
 **Analysis:** Between the first and final turnings:
 
@@ -218,7 +218,7 @@ Each grove contains:
 - **Ānanda** (*kun dga' bo*) — personal attendant
 - **Mahākāśyapa** (*'od srung chen po*) — head of the saṅgha after Buddha
 
-[1042-1044] [STRUCTURE]
+[1042-1044] <structure>
 The Common City (*spyi'i 'gro khyer*)
 **Analysis:**
 
@@ -234,7 +234,7 @@ Longchenpa distinguishes between:
 
 This reflects the *kalpavṛkṣa* motif where divine environments spontaneously produce sensory delights.
 
-[1043] [CONCEPT] Architectural Dimensions
+[1043] <concept> Architectural Dimensions
 **Analysis:**
 
 **Jewel Mansions (*rin po che'i khang brtsegs*):**
@@ -243,7 +243,7 @@ This reflects the *kalpavṛkṣa* motif where divine environments spontaneously
 
 These dimensions exceed physical possibility, indicating symbolic or visionary geography rather than literal measurement.
 
-[1045-1047] [CONTEXT]
+[1045-1047] <context>
 Urban Hydrology and Flora
 **Analysis:**
 
@@ -261,7 +261,7 @@ Urban Hydrology and Flora
 
 This represents the fusion of natural beauty with technological marvel in divine realms.
 
-[1048-1049] [PHILOLOGY]
+[1048-1049] <philology>
 The Intermediate Cities (*mtshams gyi grong*)
 **Analysis:**
 
@@ -279,7 +279,7 @@ The Intermediate Cities (*mtshams gyi grong*)
 
 These correspond to the Four Great Kings' extended retinue, protecting the periphery of the central divine realm.
 
-[1050-1054] [CONTEXT]
+[1050-1054] <context>
 The Four Directional Gardens
 **Analysis:**
 
@@ -309,7 +309,7 @@ The Four Directional Gardens
 
 **Doxographical Note:** These four gardens correspond to the four immeasurables (*tshad med bzhi*) in corrupted form—practiced with attachment, they produce god-realm experiences rather than liberation.
 
-[1051-1060] [CONTEXT]
+[1051-1060] <context>
 # The Final Turning and Parinirvāṇa
 **Analysis:** The last phase:
 
@@ -324,7 +324,7 @@ The Four Directional Gardens
 - **Position:** Right side (*gyas phyogs*), head north (*byang*), face west (*nub*)
 - **Last words:** "All conditioned phenomena are impermanent. Strive diligently!" (*'du byed thams cad mi rtag pa'o| 'bad pa nyid kyis so|*)
 
-[1055-1058] [PHILOLOGY]
+[1055-1058] <philology>
 Detailed Garden Features
 **Analysis:**
 
@@ -343,7 +343,7 @@ Detailed Garden Features
 
 **Structural Note:** The recursive naming (*de dag dang ming mtshungs pa*) suggests fractal or holographic cosmology where macrocosm and microcosm mirror each other—a key theme in Dzogchen metaphysics that Longchenpa will develop later in the text.
 
-[1060-1063] [CONTEXT]
+[1060-1063] <context>
 The Wish-fulfilling Tree (*yongs 'dus brtol*)
 **Analysis:**
 
@@ -361,7 +361,7 @@ The Wish-fulfilling Tree (*yongs 'dus brtol*)
 
 **Doxographical Note:** The *kalpavṛkṣa* (wish-fulfilling tree) motif appears across Indian religions. In Buddhism, it represents the abundance of merit. In Dzogchen, it symbolizes the natural display (*rang snang*) of awareness's creativity.
 
-[1064] [PHILOLOGY] Indra's Throne and the White Rock Slab
+[1064] <philology> Indra's Throne and the White Rock Slab
 **Analysis:**
 
 **Location:** Near (*drung na*) the wish-fulfilling tree
@@ -374,7 +374,7 @@ The Wish-fulfilling Tree (*yongs 'dus brtol*)
 
 **Symbolism:** The white rock (*rdo leb dkar po*) represents the vajra seat (*rdo rje'i gdan*) — the immovable ground of enlightenment. Indra's throne here prefigures the universal monarch's connection to dharmic sovereignty.
 
-[1061-1070] [CONCEPT]
+[1061-1070] <concept>
 # The Teaching's Continuation
 **Analysis:** After parinirvāṇa:
 
@@ -390,7 +390,7 @@ The Wish-fulfilling Tree (*yongs 'dus brtol*)
 
 The Nyingma lineage (*snyan rgyud*) traces through these transmissions to the present.
 
-[1065-1067] [STRUCTURE]
+[1065-1067] <structure>
 The Assembly-place Dharma Good (*chos bzangs*)
 **Analysis:**
 
@@ -408,7 +408,7 @@ The Assembly-place Dharma Good (*chos bzangs*)
 
 This assembly-place functions as the cosmic court where divine governance occurs.
 
-[1068-1072] [CONCEPT]
+[1068-1072] <concept>
 Celestial Distances and Higher Heavens
 **Analysis:**
 
@@ -426,7 +426,7 @@ Celestial Distances and Higher Heavens
 - How concentrated mind (*bsam gtan*) produces increasingly subtle bodies in higher realms
 - The graduated path of Buddhist cosmology
 
-[1071-1080] [STRUCTURE]
+[1071-1080] <structure>
 # Summary and Transition
 **Analysis:** Longchenpa concludes the presentation of our world's five perfections and transitions to:
 
@@ -438,7 +438,7 @@ Celestial Distances and Higher Heavens
 
 This systematic presentation establishes the cosmological and soteriological framework within which the Dzogchen teaching manifests.
 
-[1073-1079] [CONTEXT]
+[1073-1079] <context>
 Cosmogony: World Formation
 **Analysis:**
 
@@ -455,7 +455,7 @@ Mountains and hills develop:
 
 This describes the *vivartakalpa* (eon of formation) when the world-system evolves from primordial elements.
 
-[1080-1082] [PHILOLOGY]
+[1080-1082] <philology>
 The Genesis of Sentient Beings (*bcud chags tshul*)
 **Analysis:**
 
@@ -474,7 +474,7 @@ The Genesis of Sentient Beings (*bcud chags tshul*)
 
 **Structural Transition:** Having established the cosmological container (*snod*) in exhaustive detail, Longchenpa will now turn to the contained (*bcud*)—how sentient beings arise and evolve within these realms.
 
-[1083-1086] [CONTEXT]
+[1083-1086] <context>
 The Cosmic Invitation: Elemental Deities and the Awakening of Latent Consciousness
 **Analysis:**
 
@@ -488,7 +488,7 @@ The "mind entering" (*yid zhugs pa*) of these elemental deities combines with Pa
 
 **Dzogchen Significance:** This mirrors the Dzogchen concept of spontaneous display (*lhun grub*) arising from the sound, light, and rays (*sgra 'od zer gsum*) of primordial awareness.
 
-[1087-1093] [PHILOLOGY]
+[1087-1093] <philology>
 The Ontological Status of the First Beings
 **Analysis:**
 
@@ -520,7 +520,7 @@ These beings exist in a liminal state:
 
 **Doxographical Context:** This corresponds to the intermediate state (*bar do*) between formless and form realms, and anticipates the Madhyamaka analysis of dependent origination beyond the extremes of existence and non-existence.
 
-[1094-1095] [CONCEPT]
+[1094-1095] <concept>
 The Paradoxical Nature of Samādhi-Bodies
 **Analysis:**
 
@@ -533,7 +533,7 @@ The samādhi-emanation body (*ting nge 'dzin rnam par 'phrul pa'i lus*) manifest
 
 **Grammar Note:** *res* (part/portion) with the comparative (*ltar*) creates a simile structure indicating apparent but not actual partition.
 
-[1096-1098] [STRUCTURE]
+[1096-1098] <structure>
 Abode and Expansion of the First Beings
 **Analysis:**
 
@@ -548,7 +548,7 @@ Abode and Expansion of the First Beings
 
 **Doxographical Note:** The Sūraṅgama Samādhi is a key meditative absorption in Mahāyāna Buddhism, mentioned in the *Sūraṅgama-samādhi-sūtra*. It represents the highest accomplishment of śrāvakas before entering Mahāyāna paths.
 
-[1099-1101] [CONTEXT]
+[1099-1101] <context>
 The Golden Vajra and the Cause of Falling
 **Analysis:**
 
@@ -564,7 +564,7 @@ The upper realm beings, traveling by samādhi-emanation bodies, see (*mthong*) t
 
 **Philosophical Significance:** This is the first instance of *'khrul pa* (delusion/confusion) entering the narrative—the arising of attraction (*'dod chags*) toward beautiful form.
 
-[1102-1106] [PHILOLOGY]
+[1102-1106] <philology>
 The Mechanics of Cosmic Devolution
 **Analysis:**
 
@@ -588,7 +588,7 @@ The Mechanics of Cosmic Devolution
 
 **Structural Transition:** Longchenpa is explaining the origin of the form realm (*gzugs khams*) gods—the first "fall" from pure absorption into differentiated existence, establishing the mechanism by which all saṃsāric realms arise through subtle attachment.
 
-[1107-1110] [PHILOLOGY]
+[1107-1110] <philology>
 The Realm of Nothing-Perception (*'du shes med pa'i snyoms 'jug*)
 **Analysis:**
 
@@ -603,7 +603,7 @@ These correspond to the third and fourth formless absorptions:
 
 **Grammar Note:** *tsam* (only/merely) with *du* creates an adverbial phrase indicating exclusive existence of perception without content.
 
-[1111-1117] [CONCEPT]
+[1111-1117] <concept>
 The Mechanics of Cosmic Devolution
 **Analysis:**
 
@@ -623,7 +623,7 @@ As beings "go increasingly bad below" (*'og mar je ngan du song ba*):
 
 This describes the form realm gods whose attachment is subtle but present as latent tendencies.
 
-[1118] [CONTEXT] The Jewel Box Samādhi (*rin po che za ma tog*)
+[1118] <context> The Jewel Box Samādhi (*rin po che za ma tog*)
 **Analysis:**
 
 These beings dwell in the "Jewel Box" samādhi—an enclosure of subtle enjoyment where:
@@ -633,7 +633,7 @@ These beings dwell in the "Jewel Box" samādhi—an enclosure of subtle enjoymen
 
 **Dzogchen Parallel:** This corresponds to the "all-ground of habitual tendencies" (*bag chags kyi kun gzhi*) in Dzogchen psychology.
 
-[1119-1128] [CONTEXT]
+[1119-1128] <context>
 Doctrinal Citations and Synthesis
 **Analysis:**
 
@@ -648,7 +648,7 @@ Longchenpa identifies this as "noble tenet arrangement from common vehicle" (*th
 
 **Synthesis Strategy:** Longchenpa uses common vehicle (abhidharmic) cosmology as the framework, then reveals its Dzogchen interpretation through tantric citations.
 
-[1129-1133] [PHILOLOGY]
+[1129-1133] <philology>
 The Dzogchen Critique: New Birth vs. Primordial Purity
 **Analysis:**
 
@@ -668,7 +668,7 @@ The Dzogchen Critique: New Birth vs. Primordial Purity
 
 **Philosophical Significance:** This establishes the Dzogchen view that confusion is adventitious (*glo bur*) and purification reveals primordial purity (*ka dag*) — a position distinct from gradualist views that see purification as removing inherent defilements.
 
-[1134-1139] [STRUCTURE]
+[1134-1139] <structure>
 Descent to the Mind-Activity Realm
 **Analysis:**
 
@@ -689,7 +689,7 @@ Descent to the Mind-Activity Realm
 
 **Structural Transition:** Having explained the philosophical framework for the arising of beings, Longchenpa will now describe the specific evolution of realms and bodies as descent continues.
 
-[1140-1147] [PHILOLOGY]
+[1140-1147] <philology>
 The Infinite Consciousness Āyatana (*rnam shes mtha' yas kyi skye mched*)
 **Analysis:**
 
@@ -706,7 +706,7 @@ The Infinite Consciousness Āyatana (*rnam shes mtha' yas kyi skye mched*)
 
 **Etymological Note:** *skye mched* (āyatana) derives from *skye* (arise) + *mched* (expand/increase), indicating the expansive nature of this meditative attainment.
 
-[1148-1151] [CONCEPT]
+[1148-1151] <concept>
 Degradation of Life, Body, and Concentration
 **Analysis:**
 
@@ -720,7 +720,7 @@ Degradation of Life, Body, and Concentration
 
 **Buddhist Principle:** Cosmic and bodily characteristics directly correlate with accumulated merit (*bsod nams*) and meditative stability.
 
-[1152-1156] [STRUCTURE]
+[1152-1156] <structure>
 Descent to the Great Cloud Realm
 **Analysis:**
 
@@ -736,7 +736,7 @@ Descent to the Great Cloud Realm
 
 **Technical Designation:** *nam mkha' mtha' yas pa'i skye mched* — Sky/Space Infinite sense-base (first formless absorption).
 
-[1157-1161] [CONTEXT]
+[1157-1161] <context>
 Lifespans of the Four Formless Realms
 **Analysis:**
 
@@ -751,7 +751,7 @@ Lifespans of the Four Formless Realms
 
 **Pattern:** Each lower realm has half the lifespan of the realm above it, reflecting the inverse relationship between subtlety and duration.
 
-[1162-1169] [PHILOLOGY]
+[1162-1169] <philology>
 Resolving the Apparent Contradiction: Form vs. Formless
 **Analysis:**
 
@@ -773,7 +773,7 @@ Resolving the Apparent Contradiction: Form vs. Formless
 
 **Philosophical Significance:** This establishes the Yogācāra principle that appearances (*snang ba*) and consciousness (*rnam shes*) are inseparable—there is no "formless" that is absolutely non-appearing.
 
-[1170-1172] [CONTEXT]
+[1170-1172] <context>
 Scriptural Citation: Perfection of Wisdom
 **Analysis:**
 
@@ -788,7 +788,7 @@ Scriptural Citation: Perfection of Wisdom
 
 **Structural Transition:** Having established the cosmological framework of all realms from hells to peak of existence, Longchenpa has completed the "container" (*snod*) section and will now proceed to detailed analysis of how sentient beings arise, evolve, and experience within these realms—the "contained" (*bcud*) section proper.
 
-[1173-1174] [CONTEXT]
+[1173-1174] <context>
 Scriptural Confirmation: Abhisamayālaṃkāra
 **Analysis:**
 
@@ -798,7 +798,7 @@ Scriptural Confirmation: Abhisamayālaṃkāra
 
 **Doxographical Significance:** This citation from the *prajñāpāramitā* commentarial tradition establishes the superiority of Buddha-nature over even the highest god-realms, a key Mahāyāna tenet.
 
-[1175-1181] [STRUCTURE]
+[1175-1181] <structure>
 Transition to the Form Realm (*gzugs kyi khams*)
 **Analysis:**
 
@@ -823,7 +823,7 @@ The name derives from:
 - Form realm (subtle manifestation)
 - It embodies the "highest" (*kanistha* superlative) of conditioned existence before transcending entirely.
 
-[1182-1183] [PHILOLOGY]
+[1182-1183] <philology>
 The Form Realm Body: A Qualitative Distinction
 **Analysis:**
 
@@ -840,7 +840,7 @@ Unlike the four limitless āyatanas (*skye mched mu bzhi*) where consciousness-e
 
 **Dzogchen Connection:** The rainbow body analogy (*'ja' lus*) anticipates Dzogchen's highest attainment, suggesting Longchenpa's implicit mapping of Buddhist cosmology onto the path to liberation.
 
-[1184-1185] [CONCEPT]
+[1184-1185] <concept>
 Dimensions and Lifespan of 'Og Min
 **Analysis:**
 
@@ -849,7 +849,7 @@ Dimensions and Lifespan of 'Og Min
 
 **Pattern Recognition:** The 6:6 ratio (6,000 leagues : 6,000 eons) suggests numerical correspondence between spatial and temporal magnitude in form realm cosmology.
 
-[1186-1193] [CONTEXT]
+[1186-1193] <context>
 The Second Form Heaven: Clear Sight
 **Analysis:**
 
@@ -869,7 +869,7 @@ The Second Form Heaven: Clear Sight
 
 **Inverse Pattern:** Notice the lifespan increases (6,000 → 8,000) as we descend from 'Og min, reversing the formless realm pattern where lifespans decreased with subtlety.
 
-[1194-1198] [PHILOLOGY]
+[1194-1198] <philology>
 The Third and Fourth Form Heavens
 **Analysis:**
 
@@ -888,7 +888,7 @@ The Third and Fourth Form Heavens
 
 **Structural Transition:** Longchenpa continues the descending enumeration of form realm heavens, with each successive level representing greater "grossness" of form, longer lifespans, and increased capacity for sense-contact, moving toward the transition to the desire realm.
 
-[1199-1201] [PHILOLOGY]
+[1199-1201] <philology>
 The Not-Sorrow Heaven (*mi gdung ba*)
 **Analysis:**
 
@@ -902,7 +902,7 @@ The Not-Sorrow Heaven (*mi gdung ba*)
 
 **Pattern:** The 2:2 ratio continues the form realm numerical correspondence.
 
-[1202-1206] [CONTEXT]
+[1202-1206] <context>
 The Not-Great Heaven (*mi che ba*)
 **Analysis:**
 
@@ -918,7 +918,7 @@ The Not-Great Heaven (*mi che ba*)
 
 **Philosophical Significance:** The decreasing attachment (*'dod sred*) correlates with decreasing lifespan and body size, demonstrating the inverse relationship between subtlety and duration in form realm cosmology.
 
-[1207] [STRUCTURE] The Five Pure Abodes (*gtsang ma ris kyi lha lnga*)
+[1207] <structure> The Five Pure Abodes (*gtsang ma ris kyi lha lnga*)
 **Analysis:**
 
 **Classification:** *gnas ris lnga po* — Five place classes
@@ -938,7 +938,7 @@ The Not-Great Heaven (*mi che ba*)
 4. *mi gdung ba* — Not Sorrow (Atapa)
 5. *mi che ba* — Not Great (Avṛha)
 
-[1208-1210] [PHILOLOGY]
+[1208-1210] <philology>
 The Ordinary Being Heavens Begin
 **Analysis:**
 
@@ -957,7 +957,7 @@ The Ordinary Being Heavens Begin
 
 **Pattern Continuation:** The 500:500 ratio maintains the body-lifespan correspondence.
 
-[1211-1214] [CONTEXT]
+[1211-1214] <context>
 Merit-Born Heaven (*bsod nams skyes*)
 **Analysis:**
 
@@ -973,7 +973,7 @@ Merit-Born Heaven (*bsod nams skyes*)
 - Body: 250 leagues (*dpag tshad nyis brgya lnga bcu*)
 - Lifespan: 250 intermediate eons
 
-[1215-1220] [PHILOLOGY]
+[1215-1220] <philology>
 Cloudless and Light-Emitting Heavens
 **Analysis:**
 
@@ -1003,7 +1003,7 @@ This geometric progression reflects the systematic nature of Buddhist cosmologic
 
 **Transition:** Having enumerated all nine form realm heavens accessible to ordinary beings (plus the five Pure Abodes), Longchenpa will now complete the form realm description and transition to the desire realm heavens.
 
-[1221-1222] [PHILOLOGY]
+[1221-1222] <philology>
 Virtue Increase Heaven (*dge rgyas*) Dimensions
 **Analysis:**
 
@@ -1015,7 +1015,7 @@ Virtue Increase Heaven (*dge rgyas*) Dimensions
 
 **Pattern Continuation:** The 64:64 ratio maintains the numerical correspondence between body size and lifespan, though the halving pattern is now becoming less strict.
 
-[1223-1227] [CONTEXT]
+[1223-1227] <context>
 Measureless Virtue Heaven (*tshad med dge*)
 **Analysis:**
 
@@ -1031,7 +1031,7 @@ Measureless Virtue Heaven (*tshad med dge*)
 
 **Variant Reading:** Line [1227] notes that some sources place Measureless Virtue above Virtue Increase, indicating textual variation in cosmological ordering.
 
-[1228-1231] [PHILOLOGY]
+[1228-1231] <philology>
 Small Virtue Heaven (*dge chung*)
 **Analysis:**
 
@@ -1047,7 +1047,7 @@ Small Virtue Heaven (*dge chung*)
 
 **Geometric Progression:** The halving pattern resumes: 64 → 32 → 16
 
-[1232-1234] [CONCEPT]
+[1232-1234] <concept>
 Clear Light Heaven (*'od gsal*)
 **Analysis:**
 
@@ -1063,7 +1063,7 @@ Clear Light Heaven (*'od gsal*)
 
 **Dzogchen Connection:** The term *'od gsal* anticipates the Dzogchen concept of clear light nature of mind, though here referring to bodily radiance.
 
-[1235-1237] [PHILOLOGY]
+[1235-1237] <philology>
 Measureless Light Heaven (*tshad med 'od*)
 **Analysis:**
 
@@ -1079,7 +1079,7 @@ Measureless Light Heaven (*tshad med 'od*)
 
 **Numerical Pattern:** Halving continues: 16 → 8 → 4
 
-[1238-1241] [CONTEXT]
+[1238-1241] <context>
 Small Light Heaven (*'od chung*)
 **Analysis:**
 
@@ -1093,7 +1093,7 @@ Small Light Heaven (*'od chung*)
 - Body: 2 leagues
 - Lifespan: 2 intermediate eons
 
-[1242-1244] [PHILOLOGY]
+[1242-1244] <philology>
 Great Brahma Heaven (*tshangs chen pa*)
 **Analysis:**
 
@@ -1110,7 +1110,7 @@ Great Brahma Heaven (*tshangs chen pa*)
 
 **Structural Significance:** The appearance of fractional dimensions (*phyed* = half) indicates approaching the boundary where form realm transitions to desire realm.
 
-[1245] [STRUCTURE] Transition to Brahma's Retinue
+[1245] <structure> Transition to Brahma's Retinue
 **Analysis:**
 
 **Heaven Name:** *rin po che sa mi ka* — "Jewel Samika"
@@ -1121,7 +1121,7 @@ Great Brahma Heaven (*tshangs chen pa*)
 
 **Summary Pattern:** Page 36 completes the systematic enumeration of form realm heavens from Virtue Increase (64 leagues) down to Great Brahma (2.5 leagues), demonstrating the graduated nature of existence from subtle to gross, from long lifespan to short, from virtue-based to light-based to Brahma-based classification.
 
-[1246-1248] [PHILOLOGY]
+[1246-1248] <philology>
 Brahma's Ministers (*tshangs pa mdun na 'don*)
 **Analysis:**
 
@@ -1135,7 +1135,7 @@ Brahma's Ministers (*tshangs pa mdun na 'don*)
 
 This completes the pattern of decreasing size: 2.5 → 1 leagues
 
-[1249-1251] [CONTEXT]
+[1249-1251] <context>
 Brahma's Retinue (*tshangs pa*)
 **Analysis:**
 
@@ -1151,7 +1151,7 @@ Brahma's Retinue (*tshangs pa*)
 
 **Structural Significance:** The fractional dimensions indicate approaching the threshold between form and desire realms.
 
-[1252-1258] [STRUCTURE]
+[1252-1258] <structure>
 Transition to the Desire Realm (*'dod pa'i khams*)
 **Analysis:**
 
@@ -1176,7 +1176,7 @@ Transition to the Desire Realm (*'dod pa'i khams*)
 - Body: 2.5 leagues (*rgyang grags phyed dang gnyis*)
 - Alternative measurement: 625 bow-lengths (*gzhu 'dom*)
 
-[1259-1263] [PHILOLOGY]
+[1259-1263] <philology>
 Emanation-Joy Heaven (*'phrul dga'*)
 **Analysis:**
 
@@ -1194,7 +1194,7 @@ Emanation-Joy Heaven (*'phrul dga'*)
 - Human years: 800
 - God years: 8,000
 
-[1264-1267] [CONTEXT]
+[1264-1267] <context>
 Joy-Possess Heaven (*dga' ldan*)
 **Analysis:**
 
@@ -1221,7 +1221,7 @@ Joy-Possess Heaven (*dga' ldan*)
 - Lifespan: 16,000 → 8,000 → 4,000 god years
 - Body size decreasing progressively
 
-[1268] [STRUCTURE] Transition to Higher Desire Heavens
+[1268] <structure> Transition to Higher Desire Heavens
 **Analysis:**
 
 **Next Heaven:** *dpag bsam gyi shing yid 'gyur* — "Wish-fulfilling Tree Mind Change" (Nirmāṇarati)
@@ -1234,7 +1234,7 @@ Joy-Possess Heaven (*dga' ldan*)
 3. Bodhisattva cosmology (Tuṣita heaven)
 4. The three highest desire heavens before descending to the lower levels
 
-[1269-1272] [PHILOLOGY]
+[1269-1272] <philology>
 Conflict-Free Heaven (*'thab bral*)
 **Analysis:**
 
@@ -1252,7 +1252,7 @@ Conflict-Free Heaven (*'thab bral*)
 
 **Structural Position:** Fourth of the six desire heavens, marking the descent toward the lower celestial realms.
 
-[1273-1277] [CONTEXT]
+[1273-1277] <context>
 The Thirty-three Gods (*sum cu rtsa gsum*)
 **Analysis:**
 
@@ -1280,7 +1280,7 @@ The Thirty-three Gods (*sum cu rtsa gsum*)
 - Human years: 100
 - God years: 1,000
 
-[1278-1284] [STRUCTURE]
+[1278-1284] <structure>
 The Four Great Kings (*rgyal chen ris bzhi*)
 **Analysis:**
 
@@ -1320,7 +1320,7 @@ The Four Great Kings (*rgyal chen ris bzhi*)
 
 **Pattern:** Consistent halving of both body size and lifespan as descent progresses.
 
-[1286-1292] [CONTEXT]
+[1286-1292] <context>
 The Four Asura Classes (*lha min la ris bzhi*)
 **Analysis:**
 
@@ -1349,7 +1349,7 @@ The Four Asura Classes (*lha min la ris bzhi*)
 
 **Structural Completion:** Having enumerated all six desire heavens and four asura classes, Longchenpa has completed the survey of the upper realms. He will now turn to the lower realms (animals, pretas, hells) and then to human existence.
 
-[1293-1294] [PHILOLOGY]
+[1293-1294] <philology>
 Classification Summary: Asuras
 **Analysis:**
 
@@ -1362,7 +1362,7 @@ Classification Summary: Asuras
 
 **Lifespan Reference:** The Thirty-three gods' lifespan is used as the comparative standard.
 
-[1295-1302] [CONTEXT]
+[1295-1302] <context>
 The Origin of Humanity on Jambudvīpa
 **Analysis:**
 
@@ -1384,7 +1384,7 @@ The Origin of Humanity on Jambudvīpa
 
 **Dzogchen Connection:** This narrative parallels Dzogchen cosmogony where beings arise from the clear light nature of mind (*'od gsal*) through spontaneous display.
 
-[1303-1309] [CONCEPT]
+[1303-1309] <concept>
 The Golden Age: Primordial Human Abilities
 **Analysis:**
 
@@ -1413,7 +1413,7 @@ The Golden Age: Primordial Human Abilities
 
 **Philosophical Significance:** This "golden age" description represents humanity in its primordial purity before the decline into coarse material existence—analogous to the Dzogchen concept of primordial purity (*ka dag*).
 
-[1310-1315] [CONTEXT]
+[1310-1315] <context>
 Resolving Variant Accounts
 **Analysis:**
 
@@ -1428,7 +1428,7 @@ Resolving Variant Accounts
 
 **Hermeneutical Principle:** All views are non-contradictory (*thams cad kyi ltar 'gal ba med par*) because beings fell from multiple upper realms at different times.
 
-[1316-1319] [PHILOLOGY]
+[1316-1319] <philology>
 The Name: Joy Possess Pile (*dga' ldan brtsegs pa*)
 **Analysis:**
 
@@ -1442,7 +1442,7 @@ The Name: Joy Possess Pile (*dga' ldan brtsegs pa*)
 
 **Doxographical Connection:** This connects to the heaven called Tuṣita (*dga' ldan*) mentioned earlier, suggesting the first human realm mirrored the divine realm in its qualities.
 
-[1320] [STRUCTURE] Introduction of the Teacher
+[1320] <structure> Introduction of the Teacher
 **Analysis:**
 
 **The Sixth Teacher:** *ston pa drug pa* — The sixth in the series of cosmic teachers
@@ -1455,7 +1455,7 @@ The Name: Joy Possess Pile (*dga' ldan brtsegs pa*)
 
 **Transition:** Having established the origin and golden age of humanity, Longchenpa will now describe the gradual decline into the present condition of human existence.
 
-[1321-1324] [CONTEXT]
+[1321-1324] <context>
 The Teacher's Appearance: Vajradhara's Birth
 **Analysis:**
 
@@ -1475,7 +1475,7 @@ The teacher gazes at beings with three forms of gaze, through which arise:
 
 This is the "sign of arising as teacher taming beings" (*'gro ba 'dul ba'i ston par byung ba'i rtags*).
 
-[1325-1326] [PHILOLOGY]
+[1325-1326] <philology>
 The Thousand Buddhas Prophecy
 **Analysis:**
 
@@ -1485,7 +1485,7 @@ The Thousand Buddhas Prophecy
 
 **Doxographical Context:** This refers to the "Fortunate Eon" (*bskal pa bzang po*) in which 1,000 Buddhas will appear, with Śākyamuni being the fourth.
 
-[1327-1329] [CONTEXT]
+[1327-1329] <context>
 The Naming of Humanity
 **Analysis:**
 
@@ -1499,7 +1499,7 @@ The Naming of Humanity
 
 **Etymological Play:** *mi* (human) is associated with *mi snang* (not appearing clearly), suggesting the obscured nature of human perception compared to divine clarity.
 
-[1330-1332] [PHILOLOGY]
+[1330-1332] <philology>
 The Androgynous Primordial Body
 **Analysis:**
 
@@ -1518,7 +1518,7 @@ The Androgynous Primordial Body
 
 **Dzogchen Significance:** This primordial androgyny represents the state before dualistic split, analogous to the non-dual nature of awareness (*rig pa*) in Dzogchen.
 
-[1333-1335] [CONTEXT]
+[1333-1335] <context>
 Cosmic Omens: The Great Perfection Teachings
 **Analysis:**
 
@@ -1531,7 +1531,7 @@ Cosmic Omens: The Great Perfection Teachings
 
 **Numerical Significance:** These numbers correspond to the vast corpus of Dzogchen teachings, establishing Longchenpa's tradition within the prophetic framework of cosmic history.
 
-[1336-1337] [STRUCTURE]
+[1336-1337] <structure>
 The First Teaching: Sound Thalgyur
 **Analysis:**
 
@@ -1546,7 +1546,7 @@ The First Teaching: Sound Thalgyur
 
 **Temporal Marker:** *bstan pa kun la snga ba* — Earliest of all teachings
 
-[1338-1343] [PHILOLOGY]
+[1338-1343] <philology>
 The Beginning of Decline
 **Analysis:**
 
@@ -1563,7 +1563,7 @@ The Beginning of Decline
 
 **Structural Transition:** Having established the golden age of humanity with Vajradhara's teaching, Longchenpa now sets up the narrative of gradual decline that will explain the current human condition—the basis for the need for Dharma practice.
 
-[1344-1346] [PHILOLOGY]
+[1344-1346] <philology>
 The Mechanism of Degeneration
 **Analysis:**
 
@@ -1579,7 +1579,7 @@ The Mechanism of Degeneration
 
 **Doxographical Context:** This reflects the standard Buddhist view that karmic maturation (*vipāka*) occurs when conditions ripen, causing cyclic existence to manifest.
 
-[1345-1349] [CONTEXT]
+[1345-1349] <context>
 Human Expansion to the Four Continents
 **Analysis:**
 
@@ -1599,7 +1599,7 @@ Human Expansion to the Four Continents
 
 **Cosmological Significance:** The directional expansion represents the universal nature of saṃsāric existence—human condition extends throughout the world-system.
 
-[1350-1354] [STRUCTURE]
+[1350-1354] <structure>
 The World-Endurable Epoch (*'jig rten mi mjed*)
 **Analysis:**
 
@@ -1617,7 +1617,7 @@ The World-Endurable Epoch (*'jig rten mi mjed*)
 
 **Golden Age Continuation:** Despite decline from primordial state, still maintains extraordinary qualities and natural virtue.
 
-[1355-1358] [PHILOLOGY]
+[1355-1358] <philology>
 The Heat-Moisture Gathered Epoch
 **Analysis:**
 
@@ -1639,7 +1639,7 @@ The Heat-Moisture Gathered Epoch
 - Clothes: good tree leaves (*shing lo bzang po*)
 - One human birth per tree
 
-[1360-1364] [CONTEXT]
+[1360-1364] <context>
 The Attachment-Arising Epoch
 **Analysis:**
 
@@ -1654,7 +1654,7 @@ The Attachment-Arising Epoch
 
 **Emergence of Sexuality:** The "opening" of male-female sense powers marks the arising of sexual differentiation and desire.
 
-[1365-1369] [STRUCTURE]
+[1365-1369] <structure>
 The Beginning of Affliction Manifestation
 **Analysis:**
 
@@ -1669,7 +1669,7 @@ The Beginning of Affliction Manifestation
 
 **Dzogchen Parallel:** This narrative of decline mirrors the Dzogchen teaching that sentient beings have fallen from primordial awareness (*rig pa*) into dualistic consciousness (*sems*), requiring the path of liberation to return.
 
-[1370-1371] [PHILOLOGY]
+[1370-1371] <philology>
 The Arising of Sexual Desire and Womb Birth
 **Analysis:**
 
@@ -1688,7 +1688,7 @@ The Arising of Sexual Desire and Womb Birth
 - Food and clothes from trees
 - Domesticated animals: *'dod 'jo'i ba* (desire-satisfying cow) and *cang shes kyi rta* (sensible horse)
 
-[1372-1377] [CONTEXT]
+[1372-1377] <context>
 The Arising of Violence and Physical Decline
 **Analysis:**
 
@@ -1710,7 +1710,7 @@ The Arising of Violence and Physical Decline
 - Honey-like taste
 - Soft tree fiber for clothes
 
-[1378-1379] [STRUCTURE]
+[1378-1379] <structure>
 The Origin of Theft and Famine
 **Analysis:**
 
@@ -1725,7 +1725,7 @@ The Origin of Theft and Famine
 - Many years of suffering
 - Karmic consequence of greed and hoarding
 
-[1380-1386] [CONTEXT]
+[1380-1386] <context>
 The Origin of Sun and Moon
 **Analysis:**
 
@@ -1744,7 +1744,7 @@ The Origin of Sun and Moon
 - Similar to sun
 - *zla ba* (moon) etymology: sits as companion (*zla bor 'dug*)
 
-[1387-1391] [PHILOLOGY]
+[1387-1391] <philology>
 The Waxing and Waning of the Moon
 **Analysis:**
 
@@ -1766,7 +1766,7 @@ The Waxing and Waning of the Moon
 
 **Cosmological Principle:** Celestial mechanics arise from collective karma and wishes of beings.
 
-[1392] [CONTEXT] Self-Grown Grain Agriculture
+[1392] <context> Self-Grown Grain Agriculture
 **Analysis:**
 
 **Agricultural Revolution:**
@@ -1782,7 +1782,7 @@ The Waxing and Waning of the Moon
 
 **Decline Pattern:** Each epoch shows progressive loss of spontaneous blessings, requiring increasing effort for survival.
 
-[1393-1397] [PHILOLOGY]
+[1393-1397] <philology>
 The Origin of Shelter and Shame
 **Analysis:**
 
@@ -1802,7 +1802,7 @@ The Origin of Shelter and Shame
 - *'jag khyim skyil po* — Thatch-house dome
 - First human dwellings arose from protection needs
 
-[1398-1402] [CONTEXT]
+[1398-1402] <context>
 The Origin of Property, Theft, and Social Decline
 **Analysis:**
 
@@ -1820,7 +1820,7 @@ The Origin of Property, Theft, and Social Decline
 - Five poisons manifested: desire, hatred, delusion, pride, jealousy
 - Previous qualities submerged (*de yang nub bo*)
 
-[1403-1406] [STRUCTURE]
+[1403-1406] <structure>
 The First King
 **Analysis:**
 
@@ -1837,7 +1837,7 @@ The First King
 
 **Political Philosophy:** Kingship arises from merit and service, not force.
 
-[1407-1412] [CONTEXT]
+[1407-1412] <context>
 Agricultural and Urban Development
 **Analysis:**
 
@@ -1855,7 +1855,7 @@ Agricultural and Urban Development
 - Good harvests (*lo legs pa*)
 - Filled with beings and people
 
-[1413-1419] [PHILOLOGY]
+[1413-1419] <philology>
 The Origin of Lower Realms from Human Karma
 **Analysis:**
 
@@ -1874,7 +1874,7 @@ The Origin of Lower Realms from Human Karma
 
 **Doxographical Note:** Lower realms don't exist independently—they manifest from collective human karma as the world-system evolves.
 
-[1421-1422] [CONTEXT]
+[1421-1422] <context>
 Karma and Lower Realm Rebirth
 **Analysis:**
 
@@ -1889,7 +1889,7 @@ Karma and Lower Realm Rebirth
 - Desire → Pretas
 - Delusion → Animals
 
-[1423-1423] [STRUCTURE]
+[1423-1423] <structure>
 Lifespan Calculations for Hell Beings
 **Analysis:**
 

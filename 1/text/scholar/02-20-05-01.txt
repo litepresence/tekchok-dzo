@@ -1,48 +1,48 @@
 [9027-9042]
 . Mapping textual architecture and topical divisions.
 
-[9027-9029] [STRUCTURE]
+[9027-9029] <structure>
 **Analysis:** Core doctrinal exposition. Analyzing logical progression and argumentative structure.
 
-[9027-9042] [PHILOLOGY]
+[9027-9042] <philology>
 **Analysis:** Grammatical and terminological examination:
 - Critical terminology identified:
   * rig pa: awareness/pristine cognition
 
-[9027-9042] [CONTEXT]
+[9027-9042] <context>
 **Analysis:** Doctrinal and historical contextualization:
 - Citation markers detected (zhes so/ces so): Quotations from tantric or scriptural sources
 - Doctrinal framework: Dzogchen (rdzogs chen) Great Perfection teachings
 - Textual genre: mdzod (treasury) - systematic philosophical exposition
 
-[9027-9042] [CONCEPT]
+[9027-9042] <concept>
 **Analysis:** Philosophical concept delineation:
 - Core concepts under analysis
 - Doxographical positioning within Nyingma tradition
 - Pedagogical structure and soteriological function
 
-[9029-9042] [STRUCTURE]
+[9029-9042] <structure>
 **Analysis:** Concluding synthesis and transition markers. Identifying connective logic to subsequent sections.
 
 [9043-9068]
 . Mapping textual architecture and topical divisions.
 
-[9043-9063] [STRUCTURE]
+[9043-9063] <structure>
 **Analysis:** Opening section establishing thematic framework. Examining textual placement within broader doctrinal exposition.
 
-[9043-9068] [PHILOLOGY]
+[9043-9068] <philology>
 **Analysis:** Grammatical and terminological examination:
 - Critical terminology identified:
   * sems: mind
   * ye shes: primordial wisdom
 
-[9043-9068] [CONTEXT]
+[9043-9068] <context>
 **Analysis:** Doctrinal and historical contextualization:
 - Citation markers detected (zhes so/ces so): Quotations from tantric or scriptural sources
 - Doctrinal framework: Dzogchen (rdzogs chen) Great Perfection teachings
 - Textual genre: mdzod (treasury) - systematic philosophical exposition
 
-[9043-9068] [CONCEPT]
+[9043-9068] <concept>
 **Analysis:** Philosophical concept delineation:
 2. Trikaya (sku gsum) doctrine:
    - Dharmakaya (chos sku): Essence body
@@ -52,6 +52,6 @@
 - Doxographical positioning within Nyingma tradition
 - Pedagogical structure and soteriological function
 
-[9063-9068] [STRUCTURE]
+[9063-9068] <structure>
 **Analysis:** Core doctrinal exposition. Analyzing logical progression and argumentative structure.
 

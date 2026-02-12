@@ -1,4 +1,4 @@
-[685-705] [CONTEXT]
+[685-705] <context>
 The Threefold Completion (*rdzogs pa gsum*) of the Three Kayas
 **Analysis:** Longchenpa presents three interrelated aspects of the kayas from the *rang shar* tantra:
 
@@ -11,7 +11,7 @@ The Threefold Completion (*rdzogs pa gsum*) of the Three Kayas
 
 The refrain "complete in a single moment" (*dus gcig rdzogs*) indicates the instantaneous perfection (*skad cig rdzogs pa*) character of Dzogchen fruition.
 
-[706-714] [CONCEPT]
+[706-714] <concept>
 Awakening (*sangs pa*) as Absence of Dualistic Grasping
 **Analysis:** Awakening is defined negatively: "being without the aspect of dualistic grasping delusion" (*gnyis 'dzin 'khrul pa'i cha med pa*). The fivefold awakening structure:
 
@@ -25,14 +25,14 @@ Awakening (*sangs pa*) as Absence of Dualistic Grasping
 
 This reflects the *prasangika* negation strategy applied to Dzogchen: awakening is not an acquisition but a release from afflictive obscurations.
 
-[715-727] [CONCEPT]
+[715-727] <concept>
 Expansion (*rgyas pa*) of Primordially Accomplished Qualities
 **Analysis:** The third aspect—expansion—emphasizes that qualities (*yon tan*) are not developed but "primordially spontaneously accomplished" (*ye nas lhun grub*). The verse structure parallels the completion section:
 - Five lights clear, wisdom expansive (*'od lnga gsal bas ye shes rgyas*)
 - Without perceived object, three kayas expand (*dmigs pa'i yul med sku gsum rgyas*)
 - Without grasping mind, five lights expand (*'dzin pa'i sems med 'od lnga rgyas*)
 
-[728-742] [STRUCTURE]
+[728-742] <structure>
 Tenfold Analysis of Dharmakaya
 **Analysis:** The "expansive explanation of the place" (*gnas rgyas par bshad pa*) proceeds through three kayas. Dharmakaya is analyzed through ten categories (*bcu*):
 
@@ -49,7 +49,7 @@ Tenfold Analysis of Dharmakaya
 
 This tenfold schema (*dbye ba bcu*) reflects the systematizing tendency of the *mdzod* genre, organizing tantric material into pedagogically accessible frameworks.
 
-[743-748] [PHILOLOGY]
+[743-748] <philology>
 Essence of Dharmakaya: *stong gsal 'gag med rang dangs*
 **Analysis:** The essence is defined through four qualities:
 - *stong* (empty) - empty of inherent existence
@@ -59,7 +59,7 @@ Essence of Dharmakaya: *stong gsal 'gag med rang dangs*
 
 The citation (*de nyid las*) emphasizes the "three pervasions" (*khyab pa gsum*): unchanging (*'gyur med*), unceasing (*'gag med*), and all-pervading (*khyab pa*). These correspond to the threefold indivisibility of Dzogchen ground.
 
-[749-750] [PHILOLOGY]
+[749-750] <philology>
 Definition: *dbyings ye dag lhun gyis grub pa'i chos nyid 'od gsal ba'i sku*
 **Analysis:** The definition (*nges tshig*) strings together key Dzogchen technical terms:
 - *dbyings* (expanse/dhatu) - the spatial metaphor for ground
@@ -70,7 +70,7 @@ Definition: *dbyings ye dag lhun gyis grub pa'i chos nyid 'od gsal ba'i sku*
 
 The definition culminates in identifying dharmakaya with "essence primordially pure, unchanging, without delusion" (*ngo bo ka dag mi 'gyur ba 'khrul med kyi chos*), establishing it as the unconditioned ground beyond alteration or obscuration.
 
-[751-756] [PHILOLOGY]
+[751-756] <philology>
 Definition Continued: Six Metaphors for Dharmakaya
 **Analysis:** The definition (*nges tshig*) of dharmakaya continues, emphasizing it as:
 - Naturally spontaneous (*rang bzhin lhun grub*) - not fabricated
@@ -79,7 +79,7 @@ Definition Continued: Six Metaphors for Dharmakaya
 
 The citation (*de nyid las*) adds: "Fearless, empty, and clear, all actions complete" (*mi 'jigs stong dang gsal ba dang / bya ba thams cad rdzogs pa*). "Fearless" (*mi 'jigs*) indicates the ground's transcendence of all threatening conditions.
 
-[757-762] [CONCEPT]
+[757-762] <concept>
 Self-Body (*rang lus*) as Freedom from Elaboration
 **Analysis:** The self-body is defined negatively: "freed from all extremes of elaboration, without accomplishment anywhere" (*spros pa'i mtha' thams cad dang bral bas gang du'ang grub pa med pa*). 
 
@@ -90,7 +90,7 @@ The *rang shar* citation eliminates spatial categories:
 
 This threefold negation (*med gsum*) reflects the Madhyamaka analysis of dharmakaya as unlocatable and ungraspable.
 
-[763-774] [CONTEXT]
+[763-774] <context>
 Six Metaphors (*mtshon dpe drug*) for Dharmakaya
 **Analysis:** Longchenpa presents six natural metaphors, each corresponding to a quality:
 
@@ -105,7 +105,7 @@ Six Metaphors (*mtshon dpe drug*) for Dharmakaya
 
 The citation collapses these into "three" (*gsum*), likely grouping: (1) sun/ocean/lotus as luminosity/depth/purity, (2) mountain/space as stability/vastness, and (3) lion as sovereign power.
 
-[775-779] [CONCEPT]
+[775-779] <concept>
 Sign (*rtags*) as Transcendence of Movement
 **Analysis:** The sign of dharmakaya is "transcending going and coming" (*'gro 'ong las 'das pa*). The *rang shar* citation presents the threefold transcendence:
 - Without going (*'gro med*)
@@ -114,7 +114,7 @@ Sign (*rtags*) as Transcendence of Movement
 
 This negates all categories of motion, establishing dharmakaya as the unmoved mover, the static ground of dynamic appearance.
 
-[780-784] [PHILOLOGY]
+[780-784] <philology>
 Appearance (*snang ba*) as Empty-Clarity
 **Analysis:** Appearance is "like the empty-clarity of sky's expanse" (*stong gsal nam mkha'i dbyings lta bu*). The *rang shar* citation:
 - *'gag med* (unceasing) - appearance continues without interruption
@@ -123,7 +123,7 @@ Appearance (*snang ba*) as Empty-Clarity
 
 This triad (*'gag med/gsal gdangs/ngo bos stong*) encapsulates the Dzogchen view of appearance as luminosity-emptiness inseparable.
 
-[785-789] [CONCEPT]
+[785-789] <concept>
 Place (*gnas*) as Pure Memory-Thought
 **Analysis:** The place is "great pure memory-thought" (*dran bsam rnam dag chen po*). The citation presents threefold freedom:
 - Without limit (*dpag med*) - not measurable
@@ -132,7 +132,7 @@ Place (*gnas*) as Pure Memory-Thought
 
 This indicates dharmakaya as the "place" (*gnas*) that is no-place, the unlocatable ground of all location.
 
-[790-795] [CONTEXT]
+[790-795] <context>
 Characteristic (*mtshan nyid*) as Triune Inseparability
 **Analysis:** The characteristic is the inseparability (*dbyer med pa*) of the triad:
 - Essence (*ngo bo*)
@@ -144,7 +144,7 @@ This reflects the classic Dzogchen *ngo bo/rang bzhin/thugs rje* triad, mapping 
 - Sambhogakaya (nature/luminosity)
 - Nirmanakaya (compassion/appearance)
 
-[796-802] [PHILOLOGY]
+[796-802] <philology>
 Object (*yul*) as Triple Inseparability
 **Analysis:** The object (*yul*) is analyzed through three aspects:
 1. Self-clear awareness, empty without extremity cut (*stong pa phyang ma chad pas rig pa rang gsal*)
@@ -153,7 +153,7 @@ Object (*yul*) as Triple Inseparability
 
 The *rang shar* citation condenses this to: clear (*gsal*), luminous (*gdangs*), and unmixed (*ma 'dres*)—three.
 
-[803-806] [STRUCTURE]
+[803-806] <structure>
 Intent (*dgongs pa*): View, Meditation, Conduct
 **Analysis:** The intent is presented as threefold practice instruction:
 
@@ -163,7 +163,7 @@ Intent (*dgongs pa*): View, Meditation, Conduct
 
 This initiates the practical application of dharmakaya theory, transitioning from descriptive ontology to prescriptive soteriology.
 
-[807-823] [CONTEXT]
+[807-823] <context>
 Citation on Dharmakaya's Six Aspects
 **Analysis:** A structured citation (*de nyid las*) from the tantra enumerates six dimensions of dharmakaya practice:
 
@@ -178,7 +178,7 @@ Citation on Dharmakaya's Six Aspects
 
 The refrain "This is dharmakaya's X" (*chos kyi sku yi X yin*) establishes each dimension as inherent to the nature of reality, not cultivated.
 
-[824-829] [STRUCTURE]
+[824-829] <structure>
 Transition to Sambhogakaya
 **Analysis:** Having completed the tenfold analysis of dharmakaya, Longchenpa transitions to "Sambhogakaya's basis—five expansive explanations" (*longs sku'i gnas rgyas par bshad pa la lnga*):
 1. Essence (*ngo bo*)
@@ -189,7 +189,7 @@ Transition to Sambhogakaya
 
 This fivefold structure contrasts with dharmakaya's tenfold analysis, reflecting the greater accessibility of sambhogakaya as the "enjoyment body" versus dharmakaya's absolute subtlety.
 
-[830-839] [CONTEXT]
+[830-839] <context>
 Citation on Sambhogakaya's Essence
 **Analysis:** The *rang shar* citation presents sambhogakaya through fivefold enumerations:
 
@@ -203,11 +203,11 @@ Citation on Sambhogakaya's Essence
 
 The refrain "Possessing" (*dang ldan*) indicates the integrative nature of sambhogakaya as the dimension where all enlightened qualities are fully present.
 
-[840-841] [CONCEPT]
+[840-841] <concept>
 Birth Without Self-Characteristic
 **Analysis:** Longchenpa clarifies the ontological status of sambhogakaya's "birth": though "expressed as birth from the aspect of arising as self-appearance from expanse" (*dbyings las rang snang du shar ba'i cha nas skye bar brjod kyang*), in ultimate meaning (*don la*) "birth lacks self-characteristic" (*skye ba rang mtshan pa med pa*). This is death-free (*'chi ba med*) because the demon of death-lord (*'chi bdag gi bdud*)—Mara as lord of death—is conquered.
 
-[842-847] [CONTEXT]
+[842-847] <context>
 Citation from Sengge Rtsal Dzog
 **Analysis:** The citation from *Sengge Rtsal Dzog* (Lion's Perfected Power tantra) presents four aspects:
 - Interior-free, precious jewel treasury emerges (*nang med nang nas nor bu rin chen mdzod*)
@@ -215,7 +215,7 @@ Citation from Sengge Rtsal Dzog
 - Realizing wisdom transforms within meaning (*rtogs pa'i shes rab don la rnam par bsgyur*)
 - Outer and inner aspects clear in vast kayas (*yangs pa'i sku la phyi nang rnam par gsal*)
 
-[848-852] [PHILOLOGY]
+[848-852] <philology>
 Five Lights (*'od lnga*)
 **Analysis:** The five lights are enumerated:
 1. *mthing ga* (dark blue/navy)
@@ -226,7 +226,7 @@ Five Lights (*'od lnga*)
 
 These correspond to the five wisdoms, five elements, and five Buddha families.
 
-[853-858] [CONTEXT]
+[853-858] <context>
 Five Kayas (*sku lnga*)
 **Analysis:** The five kayas are enumerated:
 1. *dbyings ngo bo nyid kyi sku* (Essence-expanse kaya / svabhavikakaya)
@@ -237,7 +237,7 @@ Five Kayas (*sku lnga*)
 
 This fivefold structure reflects Nyingma hermeneutics, expanding the classical trikaya to include the "essence body" (*ngo bo nyid sku*) and "vajra body" as foundational dimensions.
 
-[859-863] [CONTEXT]
+[859-863] <context>
 Five Fathers (*yab lnga*)
 **Analysis:** The five male Buddhas of the mandala:
 1. *rnam snang* (Vairocana) - center/white/dharmadhatu wisdom
@@ -246,11 +246,11 @@ Five Fathers (*yab lnga*)
 4. (Amitabha) - west/red/discriminating wisdom
 5. *don grub* (Amoghasiddhi) - north/green/all-accomplishing wisdom
 
-[864-865] [PHILOLOGY]
+[864-865] <philology>
 Five Mothers Beginning
 **Analysis:** The enumeration of five mothers (*yum lnga*) begins with *nam mkha' dbyings phyug ma* (Akashadhateshvari, consort of Vairocana). This represents the feminine (prajna/wisdom) counterpart to the five male Buddhas (upaya/method).
 
-[866-869] [CONTEXT]
+[866-869] <context>
 Five Mothers (*yum lnga*)
 **Analysis:** The five female Buddhas (prajna consorts) completing the mandala:
 1. *nam mkha' dbyings phyug ma* (Akashadhateshvari) - consort of Vairocana
@@ -261,14 +261,14 @@ Five Mothers (*yum lnga*)
 
 These represent the feminine wisdom (*shes rab*) aspect complementing the five male Buddhas' method (*thabs*).
 
-[870-871] [CONCEPT]
+[870-871] <concept>
 Five Clusters (*tshom bu lnga*)
 **Analysis:** The mandala structure: "surrounded by five—Akshobhya and others—periphery ornamented by enclosure of five lights" (*mi bskyod la sogs pa lnga la lnga lngas bskor ba'i mtha' 'od lnga'i mu khyud kyis mdzes pa*). This describes:
 - Central mandala with five main deities
 - Five surrounding circles/clusters
 - Periphery (*mtha'*) adorned by five lights as boundary/enclosure (*mu khyud*)
 
-[872-877] [PHILOLOGY]
+[872-877] <philology>
 Five Primordials (*ye lnga*)
 **Analysis:** The five primordially accomplished (*ye*) aspects:
 - Five paths primordially complete (*lam lnga ye rdzogs*)
@@ -279,7 +279,7 @@ Five Primordials (*ye lnga*)
 
 The *ye* (primordial) prefix indicates these are not achieved but recognized as already present.
 
-[878-884] [CONCEPT]
+[878-884] <concept>
 Five Knowledges (*shes lnga*)
 **Analysis:** From the "extent of realization" (*rtogs pa'i tshad*), one knows:
 1. As five kayas (*sku lngar shes*)
@@ -290,7 +290,7 @@ Five Knowledges (*shes lnga*)
 
 This is the hermeneutical move of recognizing all phenomena as expressions of the five Buddha families.
 
-[885-890] [CONTEXT]
+[885-890] <context>
 Five Realizations (*rtogs pa lnga*)
 **Analysis:** The fivefold realization pattern:
 1. Realize field as expanse (*yul dbyings su rtogs*)
@@ -301,7 +301,7 @@ Five Realizations (*rtogs pa lnga*)
 
 This represents the completion stage (*rdzogs rim*) hermeneutic of transmuting ordinary perception into pure vision.
 
-[891-896] [CONCEPT]
+[891-896] <concept>
 Five Bases (*gzhi lnga*)
 **Analysis:** The five foundations or bases:
 
@@ -315,7 +315,7 @@ Five Bases (*gzhi lnga*)
 
 This schema distinguishes between the confused basis (*kun gzhi/sems*) and the liberated basis (*rig pa/shes rab*).
 
-[897-908] [CONTEXT]
+[897-908] <context>
 Two Sets of Five Paths
 **Analysis:** 
 
@@ -333,7 +333,7 @@ Two Sets of Five Paths
 4. Path of trekcho as arise-liberation (*khregs chod kyi lam shar grol*)
 5. Path of thogal as expanse-rigpa (*thod rgal gyi lam dbyings rig*)
 
-[909-914] [CONCEPT]
+[909-914] <concept>
 Five Fruitions (*'bras bu lnga*)
 **Analysis:** The fivefold fruition structure:
 1. Wisdom fruition: liberated in rig (*ye shes kyi 'bras bu rigs su grol ba*)
@@ -342,7 +342,7 @@ Five Fruitions (*'bras bu lnga*)
 4. Self-appearance fruition: brought to exhaustion (*rang snang gi 'bras bu zad sar skyol ba*)
 5. Final fruition: dissolves into expanse (*mthar thug gi 'bras bu dbyings la thim pa*)
 
-[915-920] [PHILOLOGY]
+[915-920] <philology>
 Five Abodes (*gnas lnga*)
 **Analysis:** The five locations in the subtle body:
 1. Thigle abode: tsitta (heart) (*thig le'i gnas tsit+ta*)
@@ -351,7 +351,7 @@ Five Abodes (*gnas lnga*)
 4. Expanse-appearance abode: sky (*dbyings snang gi gnas nam mkha'*)
 5. Liberation-place abode: primordial purity (*grol sa'i gnas ka dag*)
 
-[921-926] [CONTEXT]
+[921-926] <context>
 Five Fields (*yul lnga*)
 **Analysis:** The five fields or domains:
 1. Rigpa's field: expanse (*rig pa'i yul dbyings*)
@@ -360,7 +360,7 @@ Five Fields (*yul lnga*)
 4. Light's field: self-appearance (*'od gyi yul rang snang*)
 5. Sambhogakaya's field: cluster (*longs sku'i yul tshom bu*)
 
-[927-933] [PHILOLOGY]
+[927-933] <philology>
 Five Essences (*ngo bo lnga*)
 **Analysis:** The five essential natures:
 1. Rigpa's essence: primordial purity (*rig pa'i ngo bo ka dag*)
@@ -371,11 +371,11 @@ Five Essences (*ngo bo lnga*)
 
 The summary (*de ltar lnga tshom du snang ba las*) indicates that "some are sambhogakaya's essence" (*la la ni longs sku'i snying po*), identifying which of these fivefold categories pertain specifically to the enjoyment body.
 
-[934-937] [STRUCTURE]
+[934-937] <structure>
 Summary of Sambhogakaya's Fivefold Analysis
 **Analysis:** Longchenpa synthesizes the preceding fivefold enumerations: "Some are the field, some are the method, some are the appearance, some are wisdom itself—thus Sambhogakaya is explained as one unified essence" (*la la yul / la la thabs / la la snang ba / la la shes rab yin pas longs sku zhes chun gcig tu bshad pa yin*). This indicates that the multiple fivefold categories (fields, bases, paths, etc.) are not separate ontological entities but different aspects of the single sambhogakaya dimension.
 
-[938-943] [PHILOLOGY]
+[938-943] <philology>
 Etymology of Sambhogakaya (*longs spyod rdzogs pa'i sku*)
 **Analysis:** The term is etymologized through five aspects (*lnga'i sgras*):
 1. "Complete with qualities" (*yon tan du longs pa*) - possessing all enlightened attributes
@@ -386,7 +386,7 @@ Etymology of Sambhogakaya (*longs spyod rdzogs pa'i sku*)
 
 The phrase "the term 'five' denotes" (*lnga'i sgras...brjod*) indicates that the *longs* (complete) in sambhogakaya encompasses these five dimensions.
 
-[944-949] [CONTEXT]
+[944-949] <context>
 Citation on "Complete" (*longs*) - Part 1
 **Analysis:** From *rang shar*, the first five aspects of completeness:
 1. "Abiding in the state of empty dharmata—complete" (*chos nyid stong pa'i ngang du gnas pas longs*) - the ground of emptiness
@@ -395,7 +395,7 @@ Citation on "Complete" (*longs*) - Part 1
 4. "Unequal to all, endowed with individual marks—complete" (*kun dang mi mnyam so so'i mtshan dang ldan pas longs*) - unique characteristics
 5. "Method and wisdom, gathering and separating not, abiding—complete" (*thabs dang shes rab 'du 'bral med par gnas pas longs*) - union of upaya and prajna
 
-[950-959] [CONTEXT]
+[950-959] <context>
 Citation on "Engage" (*spyod*) - Part 2
 **Analysis:** The "engagement" (*spyod pa*) aspect of sambhogakaya includes ten dimensions (lines 950-959):
 
@@ -413,7 +413,7 @@ Citation on "Engage" (*spyod*) - Part 2
 
 The repetition (*sang nge sal le...* appears twice) suggests either textual transmission variation or deliberate emphasis.
 
-[960-964] [CONTEXT]
+[960-964] <context>
 Citation on "Complete" (*rdzogs*) - Part 3
 **Analysis:** Five aspects of completion:
 1. Outer, inner, secret actions transcended (*phyi nang gsang ba'i bya ba kun las 'das pas*)
@@ -422,7 +422,7 @@ Citation on "Complete" (*rdzogs*) - Part 3
 4. Arisen from state, not made
 5. All actions transcended
 
-[965-969] [PHILOLOGY]
+[965-969] <philology>
 Five Endowments (*chas pa lnga*)
 **Analysis:** Five qualities "endowed" (*chas pa*):
 1. Emptiness-wisdom endowed in itself (*stong pa'i ye shes rang la chas pa*)
@@ -431,7 +431,7 @@ Five Endowments (*chas pa lnga*)
 4. Clear without thought, grasping not existent
 5. Ornaments, forms, marks, characteristics held
 
-[970-976] [CONTEXT]
+[970-976] <context>
 Citation on "Kaya" (*sku*) - Part 4
 **Analysis:** Seven dimensions of the "body" aspect:
 1. Grasping-free, self-clear, abiding as essence
@@ -444,10 +444,10 @@ Citation on "Kaya" (*sku*) - Part 4
 
 The structure progresses from internal essence (lines 970-972) through appearance (973-974) to manifestation (975-976).
 
-[978] [STRUCTURE] Transition to Characteristics
+[978] <structure> Transition to Characteristics
 **Analysis:** "Third, the characteristics" (*gsum pa mtshan nyid ni*)—transitioning from etymology/definition to the specific characteristics (*mtshan nyid*) of sambhogakaya.
 
-[979-985] [CONTEXT]
+[979-985] <context>
 Characteristics of Sambhogakaya
 **Analysis:** From *rang shar*, sambhogakaya's characteristics (*mtshan nyid*) are:
 1. Individual colors unmixed, marks held (*kha dog ma 'dres so so'i mtshan 'dzin pa*)
@@ -456,7 +456,7 @@ Characteristics of Sambhogakaya
 
 This describes the iconographic specificity of sambhogakaya deities: distinct colors, major/minor marks (*mtshan/dpe byad*), and union of male-female (*yab yum*) pairs in the mandala structure.
 
-[986-993] [CONCEPT]
+[986-993] <concept>
 Mode of Appearance (*snang lugs*)
 **Analysis:** Sambhogakaya appears "from the single nature of rigpa" (*rang bzhin rig pa gcig las*) in two aspects:
 1. **Outward radiation** (*phyogs bcur 'phro*): From the kaya of expanse (*dbyings kyi sku*), light-kaya radiates to perform benefit
@@ -464,7 +464,7 @@ Mode of Appearance (*snang lugs*)
 
 The *rang shar* citation encapsulates this: "In one nature, two essences—this is the appearance of sambhogakaya" (*rang bzhin gcig la ngo bo gnyis / longs spyod rdzogs pa'i snang ba yin*). This reflects the classic Dzogchen paradox: single ground, multiple manifestations.
 
-[994-997] [PHILOLOGY]
+[994-997] <philology>
 Mode of Abiding (*gnas lugs*)
 **Analysis:** Sambhogakaya abides as:
 - The expanse without acceptance or rejection (*spang blang med pa'i dbyings*)
@@ -472,7 +472,7 @@ Mode of Abiding (*gnas lugs*)
 - The vast expanse (*klong*) of five complete lights
 - The great continuity (*ring bzhin chen po*) of radiating emanations
 
-[998-1014] [CONTEXT]
+[998-1014] <context>
 Citation on Self-Liberation and Emanation
 **Analysis:** The *rang shar* citation presents a sequence of transcendent negations:
 
@@ -490,7 +490,7 @@ Citation on Self-Liberation and Emanation
 
 This establishes the ground from which nirmanakaya emanations spontaneously arise.
 
-[1015-1020] [STRUCTURE]
+[1015-1020] <structure>
 Transition to Nirmanakaya Analysis
 **Analysis:** Having completed sambhogakaya's fivefold analysis, Longchenpa transitions to "extensively explained, the ground of Nirmanakaya—five aspects" (*sprul sku'i gnas rgyas par bshad pa la lnga*):
 1. Essence (*ngo bo*)
@@ -499,6 +499,6 @@ Transition to Nirmanakaya Analysis
 4. Division (*dbye ba*)
 5. Method of examination (*brtag thabs*)
 
-[1021] [CONCEPT] Essence of Nirmanakaya
+[1021] <concept> Essence of Nirmanakaya
 **Analysis:** "From the kaya of expanse and rigpa, radiating as light-kaya and so forth, performing benefit for others" (*dbyings dang rig pa'i sku las zer sku la sogs par 'phros nas gzhan don byed pa*). This establishes nirmanakaya as the extension of dharmakaya/sambhogakaya into the dimension of compassionate activity for others.
 

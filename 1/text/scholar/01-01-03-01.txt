@@ -1,4 +1,4 @@
-[578-585] [STRUCTURE]
+[578-585] <structure>
 # Beginning of Second Chapter: The Abode
 **Analysis:** The text transitions to the second major section, explaining:
 - **Topic:** The definite abode (*gnas nges pa*) where the teacher tames
@@ -8,7 +8,7 @@ The cosmology presented: From Vajradhara's quality-complete bodhi, abiding as Sa
 
 Specifically, our Sahā world (*mi mjed 'di*) abides at the thirteenth level of twenty-five stacked appearances (*nyi shu rtsa lnga brtsigs mar snang ba*) upon the jewel lotus (*padma rin po che*). The construction "upper-lower and directions-intervals" (*steng 'og dang phyogs mtshams*) indicates a three-dimensional maṇḍala architecture.
 
-[578-585] [CONCEPT]
+[578-585] <concept>
 The Container-Contained Cosmology
 **Analysis:** The pair *snod bcud* (container and contained) refers to:
 - **Container (*snod*):** The universe, Buddha-fields, the physical environment
@@ -16,7 +16,7 @@ The Container-Contained Cosmology
 
 This dual framework derives from Abhidharma cosmology, adapted here for Dzogchen presentation. The "sequence" (*rim pa*) indicates systematic presentation from macrocosm to microcosm.
 
-[586-634] [CONTEXT]
+[586-634] <context>
 # Quotation from sGra thal 'gyur: The Thirteen Fields
 **Analysis:** The text extensively quotes the *sGra thal 'gyur* (Sound Unobstructed/Thalgyur) tantra, describing thirteen field-types (*zhing khams rnam pa bcu gsum*) arrayed around Sahā:
 
@@ -30,11 +30,11 @@ This dual framework derives from Abhidharma cosmology, adapted here for Dzogchen
 
 The term "Thal" (*thal*) relates to the Dzogchen concept of *thal 'gyur* — unobstructed, penetrating, direct. Each field description follows a pattern: name, location relative to Sahā, shape/configuration, and teaching function.
 
-[586-634] [PHILOLOGY]
+[586-634] <philology>
 The Particle Structure in Thalgyur Verses
 **Analysis:** The verses use the terminative particle *la* (lines 587, 588) to indicate direction toward the thirteen fields and the world below. The verb *bya ba yin* (line 589) establishes categorical identity. The construction *dpag dka'* (immeasurable) + *rab tu mdzes* (extremely beautiful) employs standard *snyan ngag* (poetic) conventions.
 
-[587-590] [STRUCTURE]
+[587-590] <structure>
 # The Thal-ba-dbyangs Field
 **Analysis:** The first field described is Thal-ba-dbyangs (Thal of Melody/Sound):
 - **Location:** Below this world (*'di nas 'jig rten 'og na*)
@@ -43,7 +43,7 @@ The Particle Structure in Thalgyur Verses
 
 The phrase *rgyu dang rkyen dang rang bzhin dang* establishes the fourfold causal framework of Abhidharma and Yogācāra: cause (*hetu*), condition (*pratyaya*), inherent nature (*svabhāva*), and the teaching assembly.
 
-[591-599] [STRUCTURE]
+[591-599] <structure>
 # The Thal-ba-'dzin Field
 **Analysis:** The second field, Thal-ba-'dzin (Thal of Holding), appears:
 - **Location:** Six worlds below (*'jig rten drug 'og na*)
@@ -52,7 +52,7 @@ The phrase *rgyu dang rkyen dang rang bzhin dang* establishes the fourfold causa
 
 The term *zang thal* (completely open/scattered) describes a field without boundaries or obstructions, reflecting the Dzogchen emphasis on unobstructed awareness.
 
-[600-606] [STRUCTURE]
+[600-606] <structure>
 # The Thal-ba-skyob Field
 **Analysis:** The third field, Thal-ba-skyob (Thal of Protection), appears:
 - **Location:** Three to the right of the three worlds (*'jig rten gsum g.yas na*)
@@ -61,7 +61,7 @@ The term *zang thal* (completely open/scattered) describes a field without bound
 
 The "three worlds" (*'jig rten gsum*) refer to desire, form, and formless realms. The "mothers/nurses" (*ma rged*) likely refer to the prajñāpāramitā as mother of all Buddhas.
 
-[607-614] [STRUCTURE]
+[607-614] <structure>
 # The Thal-ba-brdal Field
 **Analysis:** The fourth field, Thal-ba-brdal (Thal of Diffusion), appears:
 - **Location:** Six worlds above (*'jig rten drug gi steng*)
@@ -71,7 +71,7 @@ The "three worlds" (*'jig rten gsum*) refer to desire, form, and formless realms
 
 The lotus shape (*padma rgyas pa*) indicates purity rising from impurity, while the colors (white and red) suggest the union of method and wisdom.
 
-[615-622] [STRUCTURE]
+[615-622] <structure>
 # The Thal-ba'i be-con Field
 **Analysis:** The fifth field, Thal-ba'i be-con (Thal's Club/Mace), appears:
 - **Location:** Above this world, beyond nineteen worlds (*bcu dgu 'das pa'i yang steng na*)
@@ -80,7 +80,7 @@ The lotus shape (*padma rgyas pa*) indicates purity rising from impurity, while 
 
 The "nineteen worlds" (*bcu dgu*) suggests a specific cosmological calculation—likely referring to the realms below the fourth dhyāna. The skull-garland (*thod pa'i phreng ba*) indicates this is a cremation-ground field (*dur khrod*), associated with wrathful practice.
 
-[615-622] [CONTEXT]
+[615-622] <context>
 # Cremation Ground Symbolism
 **Analysis:** The skull-garland imagery connects to:
 - **Cakrasaṃvara maṇḍala:** Eight cremation grounds as outer boundaries
@@ -89,7 +89,7 @@ The "nineteen worlds" (*bcu dgu*) suggests a specific cosmological calculation�
 
 The "two completions" (*rdzogs gnyis ldan*) likely refers to the completion stage (*rdzogs rim*) of both father (*pha rgyud*) and mother (*ma rgyud*) tantras.
 
-[623-634] [STRUCTURE]
+[623-634] <structure>
 # The Remaining Thal Fields
 **Analysis:** The text continues describing additional fields:
 
@@ -105,7 +105,7 @@ The "two completions" (*rdzogs gnyis ldan*) likely refers to the completion stag
 - **Appearance:** External and internal completely open/scattered
 - **Function:** Demonstrates the arising of teaching, completely pervading causal conditions
 
-[623-634] [PHILOLOGY]
+[623-634] <philology>
 The Particle *kyis* as Instrumental
 **Analysis:** The phrase *bkod pa lnga yis yongs su spras* (completely ornamented by five arrangements) uses *yis* (instrumental) to indicate means. The construction *rab tu thal bas khyab* (extremely pervading with thal) uses the instrumental *bas* to indicate manner. The verb *'byung* (arise) in *'byung ba ston* (demonstrates arising) establishes the teaching function: these fields DEMONSTRATE the principles they embody.
 

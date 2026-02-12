@@ -1,16 +1,16 @@
 [5125-5130]
 . The passage employs enumerative logic (eight like-similes) and causal explanations (cause is.../phyir ro).
 
-[PHILOLOGY] Line [5092]: rlung nyams (wind experience): technical term for energetic/visionary instability in subtle body practice. snang cha (vision part/aspect): indicates these are components of larger visionary taxonomy.
+<philology> Line [5092]: rlung nyams (wind experience): technical term for energetic/visionary instability in subtle body practice. snang cha (vision part/aspect): indicates these are components of larger visionary taxonomy.
 
 Lines
 
 [5125-5125]
 : 'ja' lus (rainbow body): manifestation of realization as light-form. sku gsum (three kāyas): dharmakāya (chos sku), sambhogakāya (longs sku), nirmāṇakāya (sprul sku). rig 'dzin (vidyādhara): awareness-holder, five types enumerated.
 
-[CONTEXT] This material situates within the "four visions" (snang ba bzhi) framework of the Tögal path, the result vehicle (Dzogchen) completion practice. The technical terms derive from the Bla ma yang thig, Mthong ba don ldan, and other seminal Dzogchen tantras. The passage represents Longchenpa's systematic presentation of the stageless stages—though Dzogchen transcends gradualism, the four visions provide a descriptive framework for recognition. The "original abiding" (ye bzhugs) terminology distinguishes this from constructed meditation states (bcos ma).
+<context> This material situates within the "four visions" (snang ba bzhi) framework of the Tögal path, the result vehicle (Dzogchen) completion practice. The technical terms derive from the Bla ma yang thig, Mthong ba don ldan, and other seminal Dzogchen tantras. The passage represents Longchenpa's systematic presentation of the stageless stages—though Dzogchen transcends gradualism, the four visions provide a descriptive framework for recognition. The "original abiding" (ye bzhugs) terminology distinguishes this from constructed meditation states (bcos ma).
 
-[CONCEPT]
+<concept>
 • Four visions taxonomy:
   - Dharmatā vision (chos nyid snang ba): direct manifestation of nature-of-things
   - Increasing experience (nyams gong 'phel): visions multiply and intensify
@@ -40,9 +40,9 @@ Line
 [5136-5140]
 : zung 'jug (union): integration of appearance-emptiness, bliss-emptiness, awareness-emptiness. gzhi (ground/basis): primordial state preceding samsara-nirvana bifurcation. gdangs (resonance/radiance): self-display of awareness without external cause.
 
-[CONTEXT] The six ornaments (rgyan drug) derive from tantric classification systems, particularly the Guhyagarbha and Māyājāla cycles, adapted for Dzogchen presentation. The distinction between inner and outer vision (nang phyir snang) reflects epistemological debates in Tibetan Buddhism about the status of meditative experiences—are they purely subjective (nang) or do they possess objective ontological status (phyir)? Longchenpa's position affirms the non-dual nature of these appearances as self-display (rang snang) of awareness, neither purely inner nor outer.
+<context> The six ornaments (rgyan drug) derive from tantric classification systems, particularly the Guhyagarbha and Māyājāla cycles, adapted for Dzogchen presentation. The distinction between inner and outer vision (nang phyir snang) reflects epistemological debates in Tibetan Buddhism about the status of meditative experiences—are they purely subjective (nang) or do they possess objective ontological status (phyir)? Longchenpa's position affirms the non-dual nature of these appearances as self-display (rang snang) of awareness, neither purely inner nor outer.
 
-[CONCEPT]
+<concept>
 • Six ornaments phenomenology:
   - Sounds: dharmatā resonance (chos nyid kyi sgra)
   - Lights: five-colored radiance (lnga ldan gyi 'od)
@@ -79,9 +79,9 @@ Line
 [5156-5158]
 : chos zad pa (exhaustion of phenomena): fourth vision where phenomena dissolve into ground. spros pa (elaboration): conceptual proliferation. sgrub pa (accomplishment): achieved without effort.
 
-[CONTEXT] This page contains the classical presentation of the four visions (snang ba bzhi) that defines Tögal practice. The schema derives from the Thod rgal section of the Snying thig ya bzhi and Longchenpa's own Mthong ba don ldan commentary. The progression mirrors the classical Buddhist stages of insight but reconceived within Dzogchen's spontaneous framework: (1) recognition of nature (chos nyid), (2) maturation through repetition (nyams gong 'phel), (3) complete measurement (tshad phebs), (4) exhaustion into ground (chos zad). Each vision builds on the previous while representing distinct qualitative shifts in perception.
+<context> This page contains the classical presentation of the four visions (snang ba bzhi) that defines Tögal practice. The schema derives from the Thod rgal section of the Snying thig ya bzhi and Longchenpa's own Mthong ba don ldan commentary. The progression mirrors the classical Buddhist stages of insight but reconceived within Dzogchen's spontaneous framework: (1) recognition of nature (chos nyid), (2) maturation through repetition (nyams gong 'phel), (3) complete measurement (tshad phebs), (4) exhaustion into ground (chos zad). Each vision builds on the previous while representing distinct qualitative shifts in perception.
 
-[CONCEPT]
+<concept>
 • Four visions progressive schema:
   1. Dharmatā vision: Initial recognition, like recognizing one's face in mirror
   2. Increasing experience: Visions multiply spontaneously, like stars filling sky

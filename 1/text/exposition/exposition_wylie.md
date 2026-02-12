@@ -1,0 +1,124 @@
+# Editorial Conventions: Wylie Layer
+
+## What Is the Wylie Layer?
+
+The Wylie Layer serves as the *Lam*—the Bridge—between Tibetan script
+and English translation. It provides a precise Extended Wylie
+transliteration that enables readers to parse Tibetan syllables even
+without knowledge of Tibetan script.
+
+## Purpose and Function
+
+While the Tibetan Layer presents the sacred source, the Wylie Layer
+offers:
+
+1. **Structural Clarity:** Syllable boundaries are explicit
+2. **Searchability:** Wylie is ASCII-compatible and searchable
+3. **Learning Aid:** Students can correlate script with pronunciation
+4. **Technical Reference:** For database and computational processing
+
+## Generation Method
+
+The Wylie Layer was generated using **pyewts** (Python Extended Wylie
+Transliteration System), which provides:
+- 99% accurate mechanical transliteration
+- Proper handling of stacked consonants
+- Accurate representation of Tibetan orthography
+- Consistent output across the entire corpus
+
+## Editorial Status
+
+**This layer is mechanically generated and preserved.**
+
+Unlike interpretive layers, the Wylie Layer is not "written" but
+"transliterated." It represents the direct transformation of Tibetan
+Unicode characters into their Wylie equivalents according to the
+Extended Wylie Transliteration Scheme.
+
+**If the Tibetan and Wylie disagree, the Tibetan is correct.**
+
+## Limitations and Use
+
+**Structural, Not Phonetic**
+
+Wylie transliteration represents Tibetan orthography, not Tibetan
+pronunciation. For example:
+- Tibetan: སྐྱོངས
+- Wylie: skyongs
+- Pronunciation: kyong (the 's' is silent)
+
+**Reference Only**
+
+Use the Wylie Layer to:
+- Verify syllable boundaries
+- Look up terms in dictionaries
+- Parse grammatical structures
+- Cross-reference with scholarly sources
+
+Do not use Wylie to:
+- Determine pronunciation (use oral transmission)
+- Translate meaning (use Literal/Liturgical layers)
+- Establish doctrinal points (use Tibetan layer)
+
+## File Format
+
+**Naming Convention**
+
+Files follow: `VV-CC-SS-SS.txt`
+
+**Line Structure**
+
+```
+[1] /theg pa'i mchog rin po che'i mdzod/
+[2] /ces bya ba bzhugs/
+```
+
+Each line is prefixed with its line number, matching the Tibetan Layer
+exactly. The Wylie text follows, enclosed in forward slashes.
+
+## Relationship to Other Layers
+
+Tibetan → Wylie → [All English Layers]
+
+The Wylie Layer serves as a structural guide for the interpretive
+layers. Translators may consult it for parsing, but all meaning must
+ultimately derive from the Tibetan Layer itself.
+
+## Using This Layer
+
+**For Students of Tibetan**
+
+The Wylie Layer provides a bridge between script you cannot yet read
+and the meaning you seek. Use it alongside the Tibetan to build your
+recognition of characters and syllables.
+
+**For Scholars**
+
+Wylie enables:
+- Precise citation and search
+- Database integration
+- Computational analysis
+- Cross-reference with academic sources
+
+**For Practitioners**
+
+Most practitioners will not need this layer unless they are studying
+Tibetan language. For Dharma practice, see the Liturgical and
+Commentary layers.
+
+## Technical Notes
+
+**pyewts Library**
+
+The transliteration was performed using pyewts version 1.0+, which
+follows the Extended Wylie Transliteration Scheme established by
+Turrell Wylie (1959) with contemporary extensions for Unicode Tibetan.
+
+**Verification**
+
+While mechanically generated, the Wylie output was spot-checked
+against the Tibetan to ensure proper handling of:
+- Complex stacks (e.g., སྒྲོན → sgron)
+- Vowel markers (e.g., ཨི → i, ཨུ → u)
+- Special characters (e.g., ༀ → oṃ, ཨྃ → aṃ)
+

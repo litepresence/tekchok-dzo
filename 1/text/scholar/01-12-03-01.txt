@@ -1,4 +1,4 @@
-[14815-14861] [STRUCTURE]
+[14815-14861] <structure>
 Throat Cakra (Mgrin pa longs spyod kyi 'khor lo)
 **Analysis:** Third cakra introduction:
 
@@ -75,7 +75,7 @@ Characteristics:
 - thim/zlog/gnas: three phases of wind/channel interaction
 - rig pa'i sku: awareness body (distinct from three kayas)
 
-[14862-14926] [CONTEXT]
+[14862-14926] <context>
 Concluding Throat Cakra Section
 **Analysis:** From root text on throat wheel dynamics:
 
@@ -157,11 +157,11 @@ Key sources cited:
 - Gnad yig (Vimalamitra)
 - Tsit+ta rin chen gzhal yas
 
-[14927-14929] [STRUCTURE]
+[14927-14929] <structure>
 Completion of Throat Cakra Analysis and Transition to External Channels
 **Analysis:** This section completes the analysis of the five wisdom goddesses (lha mo lnga) associated with the throat cakra, identifying them as the five purified winds (rlung lnga dag pa) coiled within the wisdom space (ye shes dbyings). The text then transitions via structural marker "གཉིས་པ་" (second) to a new topic: detailed explanation of external channels (phyi rtsa'i 'dam ma so sor bshad pa), sourcing from "དེ་ལས་" (from that [text]).
 
-[14930-14942] [PHILOLOGY]
+[14930-14942] <philology>
 Terminology of Throat Cakra Channels
 **Analysis:** The passage introduces technical terminology for channels (rtsa) at the throat cakra (mgrin pa 'khor lo):
 - Line 14934: "me stag lta bu" - like fire/spark, describing the anterior-posterior channels
@@ -170,7 +170,7 @@ Terminology of Throat Cakra Channels
 - Line 14940: "long kha" - possibly "klung kha" (wind channel) or related to spatial expanse
 - Particle analysis: Extensive use of locative particles (la, na) and instrumental (gis) to establish spatial relationships and agency.
 
-[14943-14964] [STRUCTURE]
+[14943-14964] <structure>
 Enumeration of External Channel Divisions
 **Analysis:** Systematic architectural mapping of the saṃbhoga-cakra (longs spyod 'khor lo) channels:
 1. Right/left sides (g.yas g.yon): "sing 'bru" (kapāla-like) channels → shoulders (dpung pa'i mgo)
@@ -181,11 +181,11 @@ Enumeration of External Channel Divisions
 6. Remaining petals: "nyi zer" (sun rays) channels at shoulder corners (dpung zur)
 Each location follows a consistent enumerative pattern with numerical precision (gnyis gnyis, re re).
 
-[14965-14966] [CONTEXT]
+[14965-14966] <context>
 Citation Formula
 **Analysis:** Standard Tibetan citation closure "ཞེས་སོ་" (zhes so) marking the end of the quoted passage. Transition via "གསུམ་པ་" (third) introduces the next section on detailed essential points (gnad bye brag tu bshad pa).
 
-[14967-14972] [PHILOLOGY]
+[14967-14972] <philology>
 The Sabhāta Cakra Structure
 **Analysis:** Introduction of "ས་བྷ་ཏ་" (sa b+ha ta, Skt. sabhāta/sabhāva) cakra:
 - "'dab ma bcu drug" - sixteen petals, standard configuration for throat cakra in tantric physiology
@@ -194,7 +194,7 @@ The Sabhāta Cakra Structure
 - "shes pa'i zungs" - the pair/union of consciousness (wisdom and consciousness dichotomy)
 The terminology bridges medical (rtsa rlung) and yogic (thig le, ye shes) discourses.
 
-[14973-14983] [CONCEPT]
+[14973-14983] <concept>
 Taxonomy of Channel-Wind-Bindu Relationships
 **Analysis:** Sophisticated classification system organizing channels by their functional capacities:
 1. "gtem du rung ba'i rtsa bzhi" - four channels suitable for piercing/cutting (bloodletting)
@@ -208,10 +208,10 @@ Taxonomy of Channel-Wind-Bindu Relationships
    - Support "gsang ba'i thig le bzhi" - four secret bindus
 This establishes a tripartite classification (pierceable/non-pierceable/equal) with corresponding wind and bindu typologies.
 
-[14983] [STRUCTURE] Enumeration Continuation
+[14983] <structure> Enumeration Continuation
 **Analysis:** Enumeration continues with "'phar ba'i rtsa ni bcu gcig" - eleven channels of projection/expansion. The numerical progression (4+4+4+11) suggests systematic coverage of the 72,000 channel system through categorical aggregation.
 
-[14984-14989] [STRUCTURE]
+[14984-14989] <structure>
 Completion of Channel Enumeration
 **Analysis:** Continues numerical enumeration from previous page:
 - Line 14984: "gseng du rung ba brgyad" - eight suitable for incising/cutting
@@ -220,11 +220,11 @@ Completion of Channel Enumeration
 - Line 14988: Summary statement "de ni gnas pa'i gnad yin no" - these are the essential points of abiding
 - Line 14989: Citation closure "ཞེས་སོ་"
 
-[14990-14991] [CONTEXT]
+[14990-14991] <context>
 Transition to Medical Application
 **Analysis:** Structural transition via "བཞི་པ་" (fourth) introduces practical medical application: "rtsa gnas 'dir nad byung na bcos su rung ba'i thabs" - methods for treating diseases when they arise at these channel locations. Cites "gnad yig" - text on essential points/procedures, indicating medical literature lineage.
 
-[14992-15001] [PHILOLOGY]
+[14992-15001] <philology>
 Bloodletting Channel Nomenclature (Right/Left Throat)
 **Analysis:** Technical medical terminology for bloodletting (gtar) channels:
 - Line 14992-14993: Right throat ascending channel (mgrin pa g.yas na gyen la rgyug), letter E (ཨེ་), named "rtse chung g.yas" - small-tip right
@@ -237,7 +237,7 @@ Bloodletting Channel Nomenclature (Right/Left Throat)
   - Indication: "nad rnams kun" - all diseases
 The enumeration associates specific seed syllables (yi ge) with anatomical locations and therapeutic applications.
 
-[15004-15014] [CONCEPT]
+[15004-15014] <concept>
 Physiological Mapping of Nāḍī System
 **Analysis:** Continued mapping of shoulder channels with specific therapeutic targets:
 - Right shoulder center (nyi dkyil g.yas): letter A, "dug rtsa yon po" - twisted poison channel
@@ -250,7 +250,7 @@ Physiological Mapping of Nāḍī System
   - Indication: "rtsa yi nad rnams sel" - dispels all channel diseases
 The naming conventions reflect zoomorphic (toad) and mineral (gold) classifications common in Tibetan medical literature.
 
-[15015-15033] [PHILOLOGY]
+[15015-15033] <philology>
 Additional Bloodletting Locations and Syllables
 **Analysis:** Extended list of seed syllables and channel names:
 - Line 15015-15017: Sog pa'i me long dkyil (center of cheek mirror), letter O, "glo rtsa chen po" - great lung channel
@@ -265,7 +265,7 @@ Additional Bloodletting Locations and Syllables
   - stag dkyil (tiger center)
   - mdun dkyil (front center)
 
-[15027-15034] [CONCEPT]
+[15027-15034] <concept>
 Esoteric Practice Integration
 **Analysis:** Lines 15027-15034 transition from external medical application to internal yogic practice:
 - Warning: "'di kun gtem zhing dkrugs pa min" - these are not to be pierced or agitated (inappropriately)
@@ -274,7 +274,7 @@ Esoteric Practice Integration
 - Assurance: "'di shes 'byung ba 'khrugs mi srid" - knowing this, elemental disturbances become impossible
 This demonstrates the integration of external medicine (gtar) with internal yoga (rlung sgom), where channel knowledge serves dual purposes.
 
-[15035-15035] [STRUCTURE]
+[15035-15035] <structure>
 Transition to Great Bliss Cakra
 **Analysis:** Structural transition via "བཞི་པ་" (fourth) introduces the analysis of the Great Bliss Cakra (bde chen 'khor lo). Sub-division "དང་པོ་" (first) presents general enumeration (rnam grangs spyir bstan pa). The passage establishes quantitative parameters: 360 major channels branch from 32 major petals ('dab), with 2,009 minor petals ('dab phran). The source text is identified as "rtsa gnas rin po che'i 'khor lo" - The Jewel Cakra of Channel Locations.
 

@@ -1,4 +1,4 @@
-[4747-4748] [CONCEPT]
+[4747-4748] <concept>
 Field-Pith: Outer and Inner Dimensions
 **Analysis:** The section treats the second pith: field (*yul gyi gnad*). Two dimensions are established:
 1. **Outer field** (4734-4740): Sky-space empty, separate from clouds (*sprin dang bral ba*)
@@ -8,7 +8,7 @@ The inner field creates specific visionary experiences (*dbyings snang mthing ga
 
 The prohibition at 4746-4748 against using coarse elements (*'byung bzhi'i dngos po*) as objects reflects the critique of *kasina* practices and similar concentration techniques in favor of "objectless" (*yul med*) meditation.
 
-[4749-4767] [STRUCTURE]
+[4749-4767] <structure>
 Sky-Gazing and Scriptural Citations
 **Analysis:** The section develops the field-pith through the sky-gazing technique (*nam mkha'i lta ba*). The structure:
 1. Technical description (4749-4752): Empty awareness placed on empty sky produces compatible experience
@@ -20,11 +20,11 @@ Sky-Gazing and Scriptural Citations
 
 The transition at 4768 introduces the third pith: wind-awareness (*rlung rig gi gnad*).
 
-[4749-4767] [PHILOLOGY]
+[4749-4767] <philology>
 Comparative Particle Usage and Vision Terminology
 **Analysis:** The comparative particle *dang mthun pa* (compatible with) at 4750 establishes the relationship between sky (*nam mkha'*) and experience (*nyams*). The term *mthun* appears frequently in this section, indicating correspondence rather than identity. The ablative *las* in *sems sde las* (4752) and other citations marks textual source. The term *snang ba* (vision/appearance) appears with multiple qualifiers: *dbyings snang* (dhatu-vision), *ye shes snang* (wisdom-vision), *nyams snang* (experiential vision)—distinguishing ontological levels of appearance. The phrase *ris med* (limitless/boundaryless) at 4761 indicates the non-discriminating nature of this view.
 
-[4749-4788] [CONTEXT]
+[4749-4788] <context>
 Multiple View Classifications
 **Analysis:** The text presents three equivalent formulations:
 1. *Mnyam pa ris med kyi lta ba* (equal limitless view): Outer and inner fields mixed
@@ -38,7 +38,7 @@ These correspond to three levels of realization:
 
 The citation from *Bstan bu* (Instruction-Child) at 4764-4767 provides the lineage transmission (*brgyud pa*) authority.
 
-[4768-4788] [CONCEPT]
+[4768-4788] <concept>
 Wind-Awareness Pith: Mechanics and Functions
 **Analysis:** The third pith (*rlung rig gi gnad*) operates through slowness (*dal ba*):
 1. **External function** (4772): Life-extending helper (*tshe rgyas pa'i grogs*)
@@ -50,7 +50,7 @@ The technical term *dal ba* (slow/easy) indicates both temporal slowness and "ea
 
 The threefold repetition of the *Thal 'gyur* verse (4776-4788) emphasizes the severing of body-mind connection (*lus sems kyi 'brel chad*) as the central mechanism.
 
-[4789-4801] [STRUCTURE]
+[4789-4801] <structure>
 Awareness Pith and Practice Integration
 **Analysis:** The section treats the awareness pith (*rig pa'i gnad*) using the *lu gu rgyud* (hanging-cord) metaphor. The structure:
 1. Technical description (4789-4793): Awareness as hanging-cord in dhatu-fence
@@ -62,11 +62,11 @@ Awareness Pith and Practice Integration
 
 The section bridges technical description and practical application, a characteristic Dzogchen pedagogical move.
 
-[4789-4801] [PHILOLOGY]
+[4789-4801] <philology>
 Technical Terms of Awareness Stabilization
 **Analysis:** The term *lu gu rgyud* (hanging-cord) functions as a central metaphor. Etymologically: *lu* (water conduit), *gu* (that which curves), *rgyud* (continuum)—suggesting a curved connecting thread. The particle *la* in *dbYings kyi ra bar* (4792, 4796) marks location: the dhatu-fence (*ra ba*). The phrase *mi 'gul bar byed* (makes unmoving) at 4789 uses the causative *byed* with negative *mi*, indicating deliberate stabilization. The term *rang chod* (self-cut) at 4799 and 4815 appears in both verb and noun forms, indicating the auto-liberating quality of awareness.
 
-[4790-4801] [CONTEXT]
+[4790-4801] <context>
 Scriptural Sources and Lineage
 **Analysis:** The two scriptural citations establish lineage authority:
 1. *Rang ngo rig pa* (Self-face awareness): Likely from the *Rig pa rang shar* (Self-Arising Awareness), a key *sems sde* (Mind Section) text
@@ -74,7 +74,7 @@ Scriptural Sources and Lineage
 
 The explanation at 4798-4801 presents the mechanism: slow wind (*rlung dal ba*) produces action-separation (*bya dang bral ba*), meaning arises in mind (*don rgyud la skye*). This reflects the *prana-citta* (wind-mind) correlation central to Tibetan Buddhist physiology.
 
-[4802-4811] [CONCEPT]
+[4802-4811] <concept>
 Practice Schedule and Epistemic Prerequisites
 **Analysis:** The text presents a graduated practice schedule:
 1. **First** (*dang po*): 5-6 days relying on body-pith (*lus kyi gnad*)
@@ -90,7 +90,7 @@ The epistemic requirements at 4808-4811 distinguish three levels:
 
 The warning at 4807-4808 against "this or that" (*'al ma 'ol*) practice reflects the critique of eclecticism (*khu tshur*) in favor of single-pointed practice.
 
-[4812-4830] [STRUCTURE]
+[4812-4830] <structure>
 Direct Introduction to Awareness Nature
 **Analysis:** The section presents the second major topic (*don gnyis pa*): direct introduction (*ngo sprod*) to awareness' own face (*rig pa'i rang ngo*). The structure follows the "pointing-out" (*ngo sprod*) genre:
 1. Technical description (4813-4815): Awareness as vajra hanging-cord with clear light
@@ -101,7 +101,7 @@ Direct Introduction to Awareness Nature
 
 The phrase *ngo bo rang bzhin thugs rje gsum* (essence, nature, compassion three) at 4856 (in next page) indicates the section prepares for this triadic analysis.
 
-[4812-4830] [PHILOLOGY]
+[4812-4830] <philology>
 Metaphorical Language and Ontological Claims
 **Analysis:** The extended metaphor at 4813 uses multiple images:
 - *Rdo rje'i lu gu rgyud* (vajra hanging-cord)
@@ -115,7 +115,7 @@ These metaphors establish awareness as:
 
 The term *kadag* (*ka dag*) at 4814, 4828 appears as *ka dag* (primordial purity), distinct from *dag* (merely purified). The phrase *sgyu ma'i skur grol* (liberated into illusory body) at 4824 uses the standard Dzogchen formulation that recognizes the body as illusory without denying its appearance.
 
-[4816-4830] [CONTEXT]
+[4816-4830] <context>
 Soteriological Outcomes and Lineage
 **Analysis:** Three soteriological outcomes are presented at 4816-4819:
 1. **Complete habituation** (*goms pa tshad du phyin na*): Liberation with stones into light (*rdos bcas 'od du 'grol*)
@@ -128,7 +128,7 @@ The lineage citations at 4821-4830 establish:
 
 The term *kun tu bzang po* (Samantabhadra) at 4816, 4823 refers to the primordial Buddha, establishing the practitioner as originally enlightened (*gdod ma'i sangs rgyas*).
 
-[4831-4845] [CONCEPT]
+[4831-4845] <concept>
 Vision Mechanics and Dhatu-Awareness Integration
 **Analysis:** The section introduces the four visions (*snang ba bzhi*) at 4845:
 1. *dByings 'od lnga'i rang gdangs* (five light dhatu self-resonance)
@@ -138,7 +138,7 @@ Vision Mechanics and Dhatu-Awareness Integration
 
 The technical description at 4841-4844 presents the mechanism: looking at outer luminous-clear (*phyi 'od gsal*) separates inner conceptuality (*nang rnam rtog*), liberating into equal-limitless. This establishes the *ka dag* (primordial purity) awareness-resonance and *lhun grub* (spontaneous completion) light-resonance as outer-inner pair-connected (*phyi nang zung du 'brel*). The term *'dres pa* (mixed) at 4844 indicates non-dual integration, not merely juxtaposition.
 
-[4845-4857] [STRUCTURE]
+[4845-4857] <structure>
 Four Visions Framework
 **Analysis:** The section presents the *don gsum pa* (third topic): the sequence of four visions (*snang ba bzhi 'char ba'i rim pa*). The structure:
 1. Brief indication of essence (*ngo bo mdor bstan pa*) at 4846
@@ -148,7 +148,7 @@ Four Visions Framework
 
 This mirrors the classical *prakriti* (essence) and *prabhava* (nature) distinction from Abhidharma, applied to visionary experience.
 
-[4845-4877] [PHILOLOGY]
+[4845-4877] <philology>
 Vision Terminology and Numerical Determination
 **Analysis:** The term *rim pa* (sequence/order) at 4845 indicates progressive stages. The phrase *ngang gis 'byongs nas* (naturally purified) at 4852 uses *ngang* (mode/state) to indicate effortless process. The numerological analysis at 4877-4881 presents four-fold determinations (*nges pa*):
 - **External**: Moon waxing-waning (*zla ba 'phel zad*), four seasons
@@ -158,7 +158,7 @@ Vision Terminology and Numerical Determination
 
 This four-fold analysis reflects the *caturmukha* (four-faced) hermeneutics of Buddhist tantra.
 
-[4848-4857] [CONTEXT]
+[4848-4857] <context>
 Integration of Practice Elements
 **Analysis:** The text at 4848-4853 integrates all previously discussed elements:
 - Body in posture (*lus bzhugs stangs*)
@@ -167,7 +167,7 @@ Integration of Practice Elements
 
 The requirement that "not relying on effort, mode naturally purifies" (*rtsol ba la ma ltos par ngang gis 'byongs*) distinguishes Dzogchen from *tsa-lung* (channel-wind) practices requiring deliberate manipulation. The definition of awareness at 4855-4857 uses the *ngo bo rang bzhin thugs rje* (essence-nature-compassion) triad from *Zab chos zhi khro dgongs pa rang grol* (Karma Lingpa's revelation).
 
-[4858-4890] [CONCEPT]
+[4858-4890] <concept>
 Vajra Hanging-Cord: Detailed Analysis
 **Analysis:** The section provides an etymological (*nges tshig*) analysis of *rdo rje lu gu rgyud*:
 
@@ -189,7 +189,7 @@ The verse citation from *Thal 'gyur* (4866-4877) presents the four visions as li
 
 The sequence (*go rims*) analysis at 4882-4889 establishes logical necessity: first vision provides basis (*rten*), without which others lack foundation (*gzhi*).
 
-[4891-4905] [STRUCTURE]
+[4891-4905] <structure>
 Vision Completion and Soteriological Results
 **Analysis:** The section presents the completion dynamics of the four visions and their soteriological results. The structure:
 1. Third vision dynamics (4891-4894): Awareness arriving at measure
@@ -199,11 +199,11 @@ Vision Completion and Soteriological Results
 
 The term *thug pa* (arriving at/concluding) at 4899 indicates the terminus of the path, distinguishing Dzogchen's "path of exhaustion" (*zad lam*) from gradualist paths.
 
-[4891-4905] [PHILOLOGY]
+[4891-4905] <philology>
 Particle Functions in Vision Dynamics
 **Analysis:** The particle *yang* in *de dag kyang* (4897) marks continuation from previous discussion. The locative *la* in *lam du byas pa* (4899) indicates instrumental usage: made into path. The term *thim pa* (dissolution) at 4894, 4900 appears with both transitive and intransitive senses—vision dissolves into base, potency dissolves into awareness mode. The phrase *theg pa gzhan nas* (from other vehicles) at 4903 uses ablative *nas* to mark exclusion: this essence not even heard of (*ming yang mi grag*) in other vehicles.
 
-[4891-4905] [CONTEXT]
+[4891-4905] <context>
 Kaya-Vision Correspondences
 **Analysis:** The text establishes the classical Nyingma correspondence:
 | Vision | Kaya | Characteristic |
@@ -214,7 +214,7 @@ Kaya-Vision Correspondences
 
 This differs from Sarma presentations where the four visions typically map to four kayas (including *svabhavikakaya*). The voice at 4902-4905 is Longchenpa's authoritative summary: this is the *snying po* (essence) and *theg pa rgyal po* (vehicle-king's) intent, using royal metaphor for Dzogchen's supremacy.
 
-[4906-4915] [CONCEPT]
+[4906-4915] <concept>
 Direct Perception: Conventional and Ultimate
 **Analysis:** The section transitions to the second subtopic (*gnys pa*): individual natures. The analysis of *mngon sum* (direct perception) at 4914-4931 presents four types:
 1. **Sense-power direct** (*dbang po'i mngon sum*): Forms, etc., five objects

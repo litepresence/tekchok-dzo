@@ -1,4 +1,4 @@
-[1424-1432] [STRUCTURE]
+[1424-1432] <structure>
 Lifespan Calculations for Hell Beings
 **Analysis:**
 
@@ -24,7 +24,7 @@ Lifespan Calculations for Hell Beings
 
 **Suffering Duration:** *sdug bsngal rgyun ring po la spyod do* — Dwell in long continuous suffering
 
-[1433-1443] [PHILOLOGY]
+[1433-1443] <philology>
 The Eight Cold Hells
 **Analysis:**
 
@@ -44,7 +44,7 @@ The Eight Cold Hells
 - When all removed: lifespan of first cold hell ends
 - Each subsequent hell: 20× longer
 
-[1444-1446] [CONTEXT]
+[1444-1446] <context>
 Preta and Animal Lifespans
 **Analysis:**
 
@@ -58,7 +58,7 @@ Preta and Animal Lifespans
 
 **Pattern Recognition:** Lifespans correlate with karmic severity and realm subtlety.
 
-[1447-1455] [STRUCTURE]
+[1447-1455] <structure>
 The Three-thousand-fold World System
 **Analysis:**
 
@@ -71,11 +71,11 @@ The Three-thousand-fold World System
 
 **Scale:** One hundred billion (*bye ba phrag brgya*) Merus etc.
 
-[1447-1455] [PHILOLOGY]
+[1447-1455] <philology>
 The Partitive Particle *las*
 **Analysis:** The phrase *skad cig dar re nyin re tsam las mi thub pa* (cannot [survive] even a moment, instant, or day) uses the ablative *las* to indicate the minimal extent. This establishes a comparative: even the shortest temporal unit is too long for certain beings. The construction *de ltar na* (thus/in this way) introduces the cosmological calculation that follows.
 
-[1447-1455] [CONTEXT]
+[1447-1455] <context>
 # Kalpa Cosmology in Buddhist Sources
 **Analysis:** The *kalpa* (Tib. *bskal pa*) cosmology derives from:
 - **Abhidharma:** *Abhidharmakośa* Book III
@@ -85,15 +85,15 @@ The Partitive Particle *las*
 
 The "formation eon" (*bskal pa chags pa*) is one of four eon-types: formation, abiding, destruction, and great eon (containing the previous three).
 
-[1448-1450] [CONCEPT]
+[1448-1450] <concept>
 The Formation Eon and Avīci Hell
 **Analysis:** The text establishes that the formation eon begins when the first being falls into Avīci hell (*mnar med*). This creates a stark juxtaposition: the beginning of cosmic formation coincides with the extreme of suffering. The phrase *sems can gcig dmyal ba'i sdug bsngal myong ba la skyes pa'i bar la chags pa'i bskal pa* (the formation eon [extends] until a being is born experiencing the suffering of hell) establishes the duration as contingent on the first sentient being's fall.
 
-[1451-1453] [PHILOLOGY]
+[1451-1453] <philology>
 The Hierarchical Particle *la*
 **Analysis:** The construction *de stong la stong gnyis pa* (on that thousand, the second thousand) uses the locative *la* to indicate hierarchical levels. This creates a multiplicative structure: each level is "on" or "built upon" the previous. The genitive *gyi* in *stong gsum gyi stong chen po* creates a possessive relationship: the great thousand OF three thousand.
 
-[1451-1453] [STRUCTURE]
+[1451-1453] <structure>
 # The Three-thousand Structure
 **Analysis:** The three-thousand system (*stong gsum*) represents:
 - **One thousand worlds:** The basic unit (galaxy/cluster)
@@ -105,10 +105,10 @@ This corresponds roughly to modern astronomy's:
 
 The scale "one hundred billion Merus" indicates that each world-system contains its own central mountain, supporting the model of multiple world-systems rather than a single universe.
 
-[1454] [PHILOLOGY] The Locative *na* in Spatial Specification
+[1454] <philology> The Locative *na* in Spatial Specification
 **Analysis:** The phrase *'di na ri rab la sogs pa bye ba phrag brgya brgya gnas so* (here on Meru etc. one hundred billion abide) uses the locative *na* to specify location. The number *bye ba phrag brgya brgya* (one hundred billion = 100 × 100 × 10,000,000) follows the Indian large number system.
 
-[1455-1459] [STRUCTURE]
+[1455-1459] <structure>
 The Twenty Intermediate Eons of Abiding
 **Analysis:**
 
@@ -138,7 +138,7 @@ The Twenty Intermediate Eons of Abiding
 
 **Correspondence:** Form and enjoyments increase/decrease with lifespan.
 
-[1455-1459] [CONTEXT]
+[1455-1459] <context>
 # The Twenty Eons in Buddhist Cosmology
 **Analysis:** The twenty intermediate eons (*bar bskal nyi shu*) constitute one "great eon" (*bskal pa chen po*):
 - 4 eons of formation
@@ -149,11 +149,11 @@ The Twenty Intermediate Eons of Abiding
 
 This structure appears in *Abhidharmakośa* III.83-89 and is standard across Buddhist schools.
 
-[1456-1462] [PHILOLOGY]
+[1456-1462] <philology>
 The Distributive Particle *re re*
 **Analysis:** The phrase *lo nyis brgya na re re 'bri* (decreases one every 200 years) uses *re re* (each/every) to indicate distributive iteration. The verb *'bri* (to decrease/decline) with the directional *yo* (downward implied) establishes the trajectory of degeneration. The instrumental *pas* in *spangs pas* indicates that abandoning [each fault] is the CAUSE of the corresponding lifespan increase.
 
-[1456-1462] [CONCEPT]
+[1456-1462] <concept>
 The Moral-Cosmic Correlation
 **Analysis:** The text presents a strict correlation between ethics and cosmology:
 - **Killing** (most serious) → 20 years

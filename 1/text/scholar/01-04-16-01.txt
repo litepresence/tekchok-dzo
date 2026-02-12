@@ -1,11 +1,11 @@
-[3766-3770] [CONTEXT]
+[3766-3770] <context>
 Three Traditions of Instruction Section
 **Analysis:** Lines 3761-3770 would present:
 - *khyung chen* — Great Garuda tradition
 - *bi ma snying thig* — Vima Nyingthig
 - *mkha' 'gro snying thig* — Dakini Nyingthig
 
-[3766-3768] [CONCEPT]
+[3766-3768] <concept>
 White Expanse: Action-Vast
 **Analysis:** Lines 3764-3768 present the first White Expanse division:
 
@@ -21,7 +21,7 @@ White Expanse: Action-Vast
 
 **Key Insight:** Liberation through seeing, not through action or effort.
 
-[3769-3785] [STRUCTURE]
+[3769-3785] <structure>
 Ocean Expanse: Two Divisions
 **Analysis:** Lines 3769-3785 present the Ocean Expanse (*rgya mtsho'i klong*):
 
@@ -31,7 +31,7 @@ Ocean Expanse: Two Divisions
 
 **Great Ocean Expanse
 
-[3771-3780] [CONCEPT]
+[3771-3780] <concept>
 Atiyoga Synthesis
 **Analysis:** Lines 3771-3780 would synthesize the three sections:
 - Mind Section for conceptual minds
@@ -53,7 +53,7 @@ Atiyoga Synthesis
 
 **Small Ocean Expanse
 
-[3781-3790] [PHILOLOGY]
+[3781-3790] <philology>
 Key Terms in Dzogchen
 **Analysis:** Lines 3781-3790 would define crucial Dzogchen terminology:
 - *ka dag* — primordial purity
@@ -68,7 +68,7 @@ Key Terms in Dzogchen
 - Particularly abiding pure
 - Circumstances inexpressible from primordial time
 
-[3786-3796] [CONCEPT]
+[3786-3796] <concept>
 Space Expanse
 **Analysis:** Lines 3786-3796 present the Space Expanse (*nam mkha'i klong*):
 
@@ -88,7 +88,7 @@ Space Expanse
 
 **Sun-Moon Expanse
 
-[3791-3800] [CONTEXT]
+[3791-3800] <context>
 Longchenpa's Synthesis
 **Analysis:** Lines 3791-3800 would note:
 - Longchenpa's unique contribution
@@ -111,7 +111,7 @@ Longchenpa's Synthesis
 - Dharmatā spontaneously accomplished
 - Cause-conditions self-pure
 
-[3797-3808] [CONCEPT]
+[3797-3808] <concept>
 Vast Expanse: Four Divisions
 **Analysis:** Lines 3797-3808 introduce the Vast Expanse (*klong rab 'byams*):
 
@@ -133,7 +133,7 @@ Vast Expanse: Four Divisions
 
 **Outer Vast
 
-[3801-3810] [STRUCTURE]
+[3801-3810] <structure>
 Transition to Next Topic
 **Analysis:** Lines 3801-3810 would mark the end of the vehicle presentation and transition to the next major topic of the text, likely the detailed presentation of Dzogchen view, meditation, conduct, and result.
 
@@ -144,7 +144,7 @@ Transition to Next Topic
   2. Conditionless, thus appearing not harmed by anything
   3. Both cause-condition non-existent, samsara-nirvana unestablished
 
-[3810-3821] [CONCEPT]
+[3810-3821] <concept>
 Inner Vast: Beyond Eight Vehicles
 **Analysis:** Lines 3810-3821 present the Inner Vast:
 
@@ -159,7 +159,7 @@ Inner Vast: Beyond Eight Vehicles
 
 **Great Perfection Tenets
 
-[3811-3820] [CONCEPT]
+[3811-3820] <concept>
 Summary of Vehicle Hierarchy
 **Analysis:** Lines 3811-3820 would summarize:
 - Nine vehicles presented hierarchically
@@ -188,7 +188,7 @@ Summary of Vehicle Hierarchy
 - Recollection-thought dharmatā perfect
 - Changing empty purity
 
-[3821-3830] [CONTEXT]
+[3821-3830] <context>
 Doctrinal Context
 **Analysis:** Lines 3821-3830 would place this chapter within:
 - Nyingma doxography (*grub mtha'*) literature
@@ -196,7 +196,7 @@ Doctrinal Context
 - Longchenpa's *Mdzod* corpus
 - Significance for contemporary practitioners
 
-[3822-3829] [CONCEPT]
+[3822-3829] <concept>
 Thatness Vast and Summary
 **Analysis:** Lines 3822-3829 conclude the Vast Expanse:
 
@@ -220,7 +220,7 @@ Thatness Vast and Summary
 :**
 - Immeasurable enumerations
 
-[3830-3837] [CONCEPT]
+[3830-3837] <concept>
 Thatness Vast: Crucial Point
 **Analysis:** Lines 3830-3837 present the fourth Vast division:
 
@@ -233,7 +233,7 @@ Thatness Vast: Crucial Point
 
 **Crucial Points
 
-[3831-3840] [PHILOLOGY]
+[3831-3840] <philology>
 Technical Terminology Review
 **Analysis:** Lines 3831-3840 would review key terms from the chapter:
 - *theg pa dgu* — nine vehicles
@@ -253,7 +253,7 @@ Technical Terminology Review
 **Summary [3837]:**
 - These gathered in three
 
-[3838-3840] [STRUCTURE]
+[3838-3840] <structure>
 Free-from-Action Expanse
 
 **Analysis:** Lines 3838-3840 present the fourth of the expanse categories (*klong*) — the Free-from-Action Expanse (*bya ba dang bral ba'i klong*).
@@ -285,13 +285,13 @@ Free-from-Action Expanse
 
 This confirms that no deliberate effort (*bya ba*) is required for liberation in Atiyoga.
 
-[3841-3850] [STRUCTURE]
+[3841-3850] <structure>
 Chapter Conclusion
 **Analysis:** Lines 3841-3850 would mark the end of the vehicle classification chapter, preparing for the next major section on Dzogchen proper.
 
 **Note:** This page (100) continues the detailed presentation of the Expanse Section (*klong sde*) of Atiyoga, specifically covering the "Black Expanse" (*klong nag po*) subsection and its three divisions (activity, compassion, emanation). The text then proceeds to enumerate the other three main expanse section divisions (variegated, white, vast) before transitioning to the Instruction Section (*man ngag sde*), the pinnacle of Atiyoga teachings.
 
-[3841-3858] [PHILOLOGY]
+[3841-3858] <philology>
 Three Additional Expanses
 
 **Analysis:** Lines 3841-3858 present three more expanse categories with their associated scriptural quotations.
@@ -349,7 +349,7 @@ Three Additional Expanses
 
 **Philological Note:** The progression shows increasing subtlety: ornament (appearances), play (activity), dharmatā (ground).
 
-[3859-3869] [CONTEXT]
+[3859-3869] <context>
 Introduction to Instruction Section
 
 **Analysis:** Lines 3859-3869 transition to the Instruction Section (*man ngag gi sde*), establishing its superiority through simile.

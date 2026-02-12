@@ -1,4 +1,4 @@
-[4283-4327] [CONCEPT]
+[4283-4327] <concept>
 Indicating Method Tantra
 **Analysis:** Lines 4271-4327 present the indicating method tantra:
 
@@ -68,7 +68,7 @@ Indicating Method Tantra
 - Indicator method
 - Continuously abides, therefore tantra
 
-[4319-4327] [STRUCTURE]
+[4319-4327] <structure>
 Technical Tantra Definitions
 
 **Analysis:** Lines 4319-4327 establish the definition of "tantra" (*rgyud*) through three aspects: indicated meaning, indicator, and continuum.
@@ -95,7 +95,7 @@ Technical Tantra Definitions
 2. **Indicator** (*mtshon byed*): The tantra text itself as method (*thabs*)
 3. **Continuum** (*rgyud*): Abiding continuity (*rgyun du gnas pa*) in practitioner
 
-[4328-4346] [PHILOLOGY]
+[4328-4346] <philology>
 Nature Tantra Etymology
 
 **Analysis:** Lines 4328-4346 present the etymological analysis of Nature Tantra (*rang bzhin gyi rgyud*).
@@ -139,7 +139,7 @@ Nature Tantra Etymology
 | Nature | *rang bzhin* | Spontaneously accomplished | Awareness clear as light |
 | Compassion | *thugs rje* | Pervading all | Arising-source unceasing |
 
-[4347-4357] [CONTEXT]
+[4347-4357] <context>
 Essence and Essence-Nature Tantras
 
 **Analysis:** Lines 4347-4357 present the Essence (*snying po*) and Essence-Nature (*bcud*) tantras.
@@ -175,7 +175,7 @@ Essence and Essence-Nature Tantras
 **Three Clarities (*dangs ma gsum*) [4357]:**
 - To be detailed in subsequent lines
 
-[4358-4387] [CONCEPT]
+[4358-4387] <concept>
 Ground-Path-Result Integration
 
 **Analysis:** Lines 4358-4387 elaborate the three clarities and other triadic classifications that complete the Nature Tantra framework.
@@ -190,7 +190,7 @@ Ground-Path-Result Integration
 
 **Three Gdings (*gdings gsum*)
 
-[4358-4376] [STRUCTURE]
+[4358-4376] <structure>
 Completion of Path Classifications
 
 **Analysis:** Lines 4358-4376 complete the enumerative framework of the Nature Tantra path.
@@ -246,7 +246,7 @@ The text establishes a complex interplay between external appearance and interna
 | 2 | Appearance | *snang ba mi ldog* | Awareness kāya manifestation |
 | 3 | Realization | *rtogs pa'i gdeng rnyed* | Dharmatā appearing variously |
 
-[4377-4387] [PHILOLOGY]
+[4377-4387] <philology>
 Appearance and Emptiness Terminology
 
 **Analysis:** Lines 4377-4387 establish the technical vocabulary of liberation.
@@ -297,7 +297,7 @@ This represents the characteristic Dzogchen view of "primordial enlightenment" (
 - *rang yal* — self-dissolved
 - *dong sprugs* — expelled/driven out
 
-[4388-4406] [CONTEXT]
+[4388-4406] <context>
 Unity of Three Tantras
 
 **Analysis:** Lines 4388-4406 establish that ground, essence, and essence-nature tantras are ultimately unified.
@@ -310,7 +310,7 @@ Unity of Three Tantras
 
 **Mañjuśrīnāmasaṃgīti Quotation
 
-[4393-4416] [STRUCTURE]
+[4393-4416] <structure>
 Three Tantras: Proof and Purpose
 
 **Analysis:** Lines 4393-4416 establish the three tantras through logical reasoning (*gtan tshigs*) and demonstrate their functional interdependence.
@@ -332,7 +332,7 @@ Three Tantras: Proof and Purpose
 - Recognition transforms the continuum
 - Non-recognition maintains cyclic existence
 
-[4395-4406] [PHILOLOGY]
+[4395-4406] <philology>
 Method Tantra Etymology
 
 **Analysis:** Lines 4395-4406 analyze the Method Tantra (*thabs kyi rgyud*) terminology.
@@ -358,7 +358,7 @@ Method Tantra Etymology
 - Therefore called "indicator-method tantra" (*mtshon byed thabs kyi rgyud*)
 - Method transmitted one-to-one (*thabs de gcig nas gcig tu brgyud pas*)
 
-[4407-4416] [CONCEPT]
+[4407-4416] <concept>
 Essence Tantra as Direct Awareness
 
 **Analysis:** Lines 4407-4416 present the Essence Tantra (*snying po rang bzhin gyi rgyud*) as the most direct approach.
@@ -381,7 +381,7 @@ Essence Tantra as Direct Awareness
 
 **Flower Tantra
 
-[4407-4416] [CONTEXT]
+[4407-4416] <context>
 Essence Tantra Lineages
 
 **Analysis:** Lines 4407-4416 present the Essence Tantra as the culmination of the three.
@@ -440,7 +440,7 @@ All three converge on the same nature (*ngo bo gcig*) but accommodate different 
 **Scriptural Citation [4416]:**
 From Seventeen Tantras (*gsang chen nges pa'i rgyud bcu bdun*) — the core Dzogchen corpus.
 
-[4416-4430] [CONCEPT]
+[4416-4430] <concept>
 Functional Unity of Three Tantras
 
 **Analysis:** The three tantras operate as an integrated system rather than separate paths.
@@ -480,7 +480,7 @@ The text implies that:
 **Integration Statement:**
 *gzhis gtad, rtogs pa'i rgyud, mthong ba'i rgyud* — ground, realizing continuum, seeing continuum — all three aspects of the same awareness (*rig pa*).
 
-[4417-4501] [CONTEXT]
+[4417-4501] <context>
 Scriptural Quotations on Tantra
 **Analysis:** Lines 4417-4501 present extensive scriptural support:
 
@@ -568,7 +568,7 @@ Scriptural Quotations on Tantra
 - Nature descent established
 - Nature itself tantra called
 
-[4488-4501] [STRUCTURE]
+[4488-4501] <structure>
 Five Names, One Nature
 
 **Analysis:** Lines 4488-4501 establish the unity of five names referring to a single nature.
@@ -602,7 +602,7 @@ Five Names, One Nature
 
 **Analogy:** Person with many names — called from anywhere, thus appears, but unchanging nature remains the same.
 
-[4491-4501] [PHILOLOGY]
+[4491-4501] <philology>
 Mañjuśrīnāmasaṃgīti Quotation
 
 **Analysis:** Lines 4491-4501 quote the *Mañjuśrīnāmasaṃgīti* to establish the unity thesis.
@@ -631,7 +631,7 @@ Mañjuśrīnāmasaṃgīti Quotation
 
 **Philological Note:** The *Mañjuśrīnāmasaṃgīti* is a tantra of the Yoga class, quoted here to establish Dzogchen's continuity with earlier tantric traditions.
 
-[4502-4518] [STRUCTURE]
+[4502-4518] <structure>
 Word Tantra Introduction
 **Analysis:** Lines 4502-4518 transition to word tantra:
 
@@ -645,7 +645,7 @@ Word Tantra Introduction
 
 **First: Ten Tantras
 
-[4502-4518] [CONTEXT]
+[4502-4518] <context>
 Twelve Great Perfection Tantras
 
 **Analysis:** Lines 4502-4518 enumerate the twelve core Atiyoga tantras with their characteristic functions.
@@ -684,7 +684,7 @@ Twelve Great Perfection Tantras
 11. *ngo sprod spras pa* — Introduction ornament (mirror example meaning joined, mirror)
 12. *mu tig phreng ba'i rgyud* — Pearl garland tantra (like excellent tantra, instruction connected)
 
-[4519-4541] [CONCEPT]
+[4519-4541] <concept>
 Tantra Classifications and Pedagogical Functions
 
 **Analysis:** Lines 4519-4541 complete the nineteen tantra system and establish their pedagogical organization.
@@ -706,7 +706,7 @@ Tantra Classifications and Pedagogical Functions
 
 **Thal 'gyur Quotation
 
-[4519-4541] [STRUCTURE]
+[4519-4541] <structure>
 Nineteen Tantra System Completion
 
 **Analysis:** Lines 4519-4541 complete the enumeration of the nineteen Great Perfection tantras.
@@ -761,7 +761,7 @@ The nineteen tantra system demonstrates:
 
 The unity of five names (ground, essence, essence, method, nature) underpinning all nineteen tantras establishes the fundamental Dzogchen view: all distinctions are conventional (*btags pa tsam*), the nature is singular (*ngo bo gcig*).
 
-[4528-4541] [PHILOLOGY]
+[4528-4541] <philology>
 Thal 'gyur Root Enumeration
 
 **Analysis:** Lines 4528-4541 enumerate the sixteen tantras derived from the Great Sound Direct Transmission (*sgra thal 'gyur chen po*).
@@ -787,7 +787,7 @@ Thal 'gyur Root Enumeration
 
 **Etymological Note:** *'phros pa* (spread/emanated) indicates these tantras are derived from the root *Thal 'gyur* rather than independent revelations.
 
-[4542-4558] [CONTEXT]
+[4542-4558] <context>
 Mañjuśrīnāmasaṃgīti Quotation on Tantra Locations
 
 **Analysis:** Lines 4542-4558 cite the *Mañjuśrīnāmasaṃgīti* establishing where the tantras are located.
@@ -805,7 +805,7 @@ Mañjuśrīnāmasaṃgīti Quotation on Tantra Locations
 **Hermeneutical Significance:**
 The quotation from *Mañjuśrīnāmasaṃgīti* — a Yoga-class tantra — establishes Dzogchen's continuity with the broader tantric tradition while asserting its superiority as the culmination.
 
-[4559-4570] [CONCEPT]
+[4559-4570] <concept>
 Eleven Purpose Sections Framework
 
 **Analysis:** Line 4559 introduces eleven purpose sections (*sde tshan bcu gcig*), establishing a comprehensive pedagogical framework.
@@ -844,7 +844,7 @@ The distinction between:
 
 demonstrates the Nyingma classification system's attention to both soteriological content and ritual function.
 
-[4560-4569] [CONCEPT]
+[4560-4569] <concept>
 Three Essences of Tantra
 **Analysis:** Lines 4560-4569 present the first section — three essences of tantra:
 
@@ -872,7 +872,7 @@ Three Essences of Tantra
 - Three gathered like conquering kingdom
 - Controls all tantra sections
 
-[4570-4582] [CONCEPT]
+[4570-4582] <concept>
 Three Clarities and Three Flowers
 **Analysis:** Lines 4570-4582 present the second and third sections:
 
@@ -898,7 +898,7 @@ Three Clarities and Three Flowers
 - Purpose: dispelling world darkness
 - No ignorance of tantra meaning and words
 
-[4583-4611] [CONCEPT]
+[4583-4611] <concept>
 Remaining Eight Sections
 **Analysis:** Lines 4583-4611 present sections four through eleven:
 
@@ -965,7 +965,7 @@ Remaining Eight Sections
 - Like good gatekeeper
 - Protects against adversaries and obstacles
 
-[4612-4636] [CONTEXT]
+[4612-4636] <context>
 Mañjusrinamasamgiti Summary Verses
 **Analysis:** Lines 4612-4636 quote summary verses:
 
@@ -994,7 +994,7 @@ Mañjusrinamasamgiti Summary Verses
 - "Knowing weapon-like tantra"
 - "Like having armor gatekeeper"
 
-[4637-4638] [STRUCTURE]
+[4637-4638] <structure>
 Eight Order Sections
 **Analysis:** Lines 4637-4663 present the eight order sections:
 

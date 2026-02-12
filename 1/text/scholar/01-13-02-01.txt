@@ -1,11 +1,11 @@
-[16274-16276] [PHILOLOGY]
+[16274-16276] <philology>
 Analysis of *'khor 'das gnyis ka'i cha 'dzin pas*:
 The instrumental *kyis* following the genitive *ka'i* creates a compound causal construction: "by means of holding the parts of both samsara and nirvana." The term *dbang rten* (power-support) denotes the supporting condition for the arising of appearances, not the appearances themselves.
 
-[16276-16282] [CONTEXT]
+[16276-16282] <context>
 Citation from *gser gyi me tog mdzes pa rin po che'i sgron ma 'bar ba'i rgyud* (*Beautiful Golden Flower: Blazing Jewel Lamp Tantra*). This tantra belongs to the esoteric *thod rgal* cycle of the *sNying thig* tradition. The verse employs the technical term *mthong byed* (seeing-agent) rather than *mig* (eye), indicating a distinction between the physical organ and the cognitive function of visual apprehension.
 
-[16283-16292] [CONCEPT]
+[16283-16292] <concept>
 Etymological Analysis of *rgyang zhags* (Far-Casting Snare):
 
 **Rgyang (Distance):**
@@ -18,16 +18,16 @@ Etymological Analysis of *rgyang zhags* (Far-Casting Snare):
 - Self-appearance (*rang snang*) binds impurity when seen
 - Non-recognition (*ma rtogs*) binds self-awareness through attachment to deluded appearance
 
-[16290-16292] [PHILOLOGY]
+[16290-16292] <philology>
 The comparative particle *lta bu* (like/as) following *chos mthun pa* (similar with the Dharma) establishes the rope-snare simile. The particle *kyang* in line 16292 functions as concessive: "although when examined..." This sets up the Madhyamika-style analysis that follows.
 
-[16292] [CONTEXT] The analysis of *'khrul snang* and *'khrul 'dzin* reflects the standard Yogācāra-Svātantrika distinction between deluded appearance and deluded apprehension. The phrase *dpyad na gzhi med* (when examined, groundless) invokes the emptiness of inherent nature (*ngo bo nyid kyis stong*).
+[16292] <context> The analysis of *'khrul snang* and *'khrul 'dzin* reflects the standard Yogācāra-Svātantrika distinction between deluded appearance and deluded apprehension. The phrase *dpyad na gzhi med* (when examined, groundless) invokes the emptiness of inherent nature (*ngo bo nyid kyis stong*).
 
-[16293-16295] [PHILOLOGY]
+[16293-16295] <philology>
 Analysis of *ma brtags na* (if not examined):
 The conditional *na* with the negative *ma* creates a hypothetical epistemic frame: the binding appears real to non-analytical cognition. The particle *las* following *snang ba* in 16294 and 16295 is ablative: "from the time of appearing bound/liberated" — indicating temporal origination rather than simple cessation.
 
-[16293-16295] [CONCEPT]
+[16293-16295] <concept>
 The Paradox of Liberation:
 Longchenpa presents a dialectical structure:
 1. When unexamined, mind and appearance appear as binding self-awareness
@@ -37,17 +37,17 @@ Longchenpa presents a dialectical structure:
 
 This parallels the Prasaṅgika analysis of bondage and liberation as mere dependent designations.
 
-[16296-16302] [CONTEXT]
+[16296-16302] <context>
 Citation from *sgyu 'phrul* (Illusion/Māyā) tantra:
 The quoted verse employs the double-negation structure typical of Nyingma *thod rgal* literature: "Not bound, binding does not exist" (*sus yang ma bcings bcings med de*). The phrase *ye nas lhun rdzogs* (primordially spontaneously complete) grounds the soteriological claim in the Dzogchen view of original buddhahood (*ye nas sangs rgyas*).
 
-[16303-16305] [PHILOLOGY]
+[16303-16305] <philology>
 Analysis of *yas su mi 'jug pa* (not entering into vastness):
 The term *yas* (vast) derives from *yas pa* (expanse/scope), with the negative *mi* indicating non-appropriation. The instrumental *kyis* in *'ching bas* establishes the binding function: "by means of the binding [of what does not enter into vastness]."
 
 The term *rlan* (moisten) in 16304 functions metaphorically — the water element moistens through the bliss of samādhi (*ting nge 'dzin*), indicating that "water" refers to the non-attachment that "waters" the mind rather than a literal aqueous substance.
 
-[16306-16309] [CONCEPT]
+[16306-16309] <concept>
 The Fourfold Naming (*ming bzhi*) of the Lamp:
 Longchenpa establishes four etymological justifications (*nges tshig*):
 
@@ -58,7 +58,7 @@ Longchenpa establishes four etymological justifications (*nges tshig*):
 
 The negative *ma yin* in 16308 is emphatic: "is definitively not" — excluding the mistaken view that appearances arise from the base.
 
-[16310-16343] [CONTEXT]
+[16310-16343] <context>
 Extended citation from *sgron ma 'bar ba* (*Blazing Lamp Tantra*):
 The tantric citation provides etymological glosses (*nges pa'i tshig*) for each component:
 
@@ -93,17 +93,17 @@ The tantric citation provides etymological glosses (*nges pa'i tshig*) for each 
 
 This extended citation demonstrates the tantric basis for Longchenpa's hermeneutical framework.
 
-[16342-16343] [PHILOLOGY]
+[16342-16343] <philology>
 The construction *phyi yi dbyings bzhag pas* (having set [awareness] in outer space) employs the perfective *bzhag* with the instrumental *pas*, indicating a completed action that results in the purification of inner space.
 
-[16344-16350] [PHILOLOGY]
+[16344-16350] <philology>
 Analysis of verse structure:
 The particle *ste* (16344) functions as continuative, suspending meaning across the line break — a formal marker of verse (*tshig bcad*) style. The phrase *dbyings rigs 'dres pas* (space-race mixed) employs *rigs* (race/type) in the tantric sense of "aspect" or "category," not ethnic or biological race.
 
-[16344-16350] [CONTEXT]
+[16344-16350] <context>
 The term *ma* (mother) here operates within the Nyingma *thod rgal* technical vocabulary: the "mother" is the supporting base (*rten gzhi*) for all sense powers, not a procreative metaphor. The *mu tig 'phreng ba* (*Pearl Garland Tantra*) citation establishes this as scriptural authority for the terminology.
 
-[16351-16367] [STRUCTURE]
+[16351-16367] <structure>
 # Threefold Classification of the Water Lamp
 **Analysis:** Longchenpa establishes a tripartite typology (*dbye ba rnam pa gsum*):
 
@@ -120,36 +120,36 @@ The term *ma* (mother) here operates within the Nyingma *thod rgal* technical vo
    - Produces the power-support clarity as what sees forms
    - Does not see pristine awareness appearances
 
-[16355-16359] [PHILOLOGY]
+[16355-16359] <philology>
 Analysis of *dbang po'i dngas ma mig gi a 'bras dkyil na*:
 The term *a 'bras* (a-berry) is a technical anatomical term in Tibetan medical and tantric literature, referring to the crystalline structure within the eye. The genitive chain (*dbang po'i dngas ma mig gi a 'bras*) creates a nested structure: "the essence of the sense powers [within] the eye's a-berry."
 
-[16356-16360] [CONCEPT]
+[16356-16360] <concept>
 The distinction between *chos can* and *chos nyid*:
 Longchenpa asserts that the actual (*dngos*) Water Lamp is the second category (pristine-awareness-gathered), while the other two function merely as supporting conditions (*rten byed pa'i cha nas*). This reflects the Dzogchen distinction between the apparent phenomenon (*chos can*) and the definitive nature (*chos nyid*).
 
 The phrase *'di shes pa gal che'o* (16360) — "knowing this is extremely important" — is an emphatic pedagogical marker typical of Longchenpa's autocommentary style.
 
-[16361-16367] [CONTEXT]
+[16361-16367] <context>
 Citation from *sgron ma 'bar ba*:
 The tantric citation confirms the threefold classification using parallel structure:
 - *'byung ba'i dngas ma rang 'dus pa'i rgyang zhag chu yi sgron ma*
 - *ye shes 'dus pa'i rgyang zhags*
 - *dbang po 'dus pa'i rgyang zhags*
 
-[16368-16373] [STRUCTURE]
+[16368-16373] <structure>
 # Characteristics Analysis
 **Analysis:** Longchenpa distinguishes:
 - General characteristic (*spy'i mtshan nyid*): produces capable form-appearance as object-appearance
 - Own characteristics (*rang gi mtshan nyid*): threefold corresponding to the three classifications
 
-[16371-16373] [CONCEPT]
+[16371-16373] <concept>
 The three own characteristics:
 1. **Element-gathered**: Abides in the aspect of gathering, holding, and expanding appearance
 2. **Pristine-awareness-gathered**: Holds the self-appearance of light-clarity clearly
 3. **Sense-power-gathered**: Holds appearance, appearance-object, and eye-consciousness self-knowing
 
-[16374-16379] [PHILOLOGY]
+[16374-16379] <philology>
 Distinction between *snang ba* and *snang yul*:
 Longchenpa clarifies the technical terminology:
 - *Snang ba*: initially appears as object — placed as mountains, etc.
@@ -159,13 +159,13 @@ Longchenpa clarifies the technical terminology:
 
 This distinction reflects the standard Sautrāntika-Yogācāra epistemological framework adapted for *thod rgal* context.
 
-[16380] [CONTEXT] Transitional marker (*yang de nyid las*) indicating continuation of tantric citation for the characteristics section.
+[16380] <context> Transitional marker (*yang de nyid las*) indicating continuation of tantric citation for the characteristics section.
 
-[16381-16392] [CONTEXT]
+[16381-16392] <context>
 Citation from *sgron ma 'bar ba* (*Blazing Lamp Tantra*):
 The verse provides the characteristic analysis in poetic form. The particle *yis* (*kyis*) in 16382 functions as instrumental, indicating agency: "by means of unceasing arising."
 
-[16381-16392] [PHILOLOGY]
+[16381-16392] <philology>
 Technical terms in the citation:
 - *'char byed* (arising-maker): causative agent
 - *pad+ma'i spyan* (lotus eye): synonym for eye in tantric physiology
@@ -179,7 +179,7 @@ Technical terms in the citation:
 - *gong ma* (above): hierarchical superior aspect
 - *rang 'dzin* (self-hold): reflexive self-apprehension
 
-[16393-16396] [CONCEPT]
+[16393-16396] <concept>
 Gloss on citation terminology:
 Longchenpa provides a threefold gloss (*'grel pa*) on the verse:
 1. *Yul snang rung gi gzugs rnams* — forms capable of appearing as objects
@@ -188,7 +188,7 @@ Longchenpa provides a threefold gloss (*'grel pa*) on the verse:
 
 The "double-moon" (*zla gnyis*) refers to the visual phenomenon seen when pressing the eye, a standard example in Buddhist epistemology of perceptual error.
 
-[16397-16405] [STRUCTURE]
+[16397-16405] <structure>
 # Location Analysis
 **Analysis:** Longchenpa identifies the location (*gnas*) as the eye's "a-berry" (*mig gi a 'bras*). The exposition traces the embryological development:
 
@@ -199,7 +199,7 @@ The "double-moon" (*zla gnyis*) refers to the visual phenomenon seen when pressi
 5. Path: navel → heart (*snying*) → spine branches (*sgal tshigs 'dab*) → inside surface of ears → skull membrane (*klad rgya'i spris*) → pierce two eye a-berries
 6. Two channels without blood/yellow-water, like ram-horns, filled with light filaments (*'od kyi snal ma*) → pierce as door Water Lamp
 
-[16399-16405] [PHILOLOGY]
+[16399-16405] <philology>
 Anatomical terminology:
 - *Rtsa mdud* (channel-knot): energetic constriction point
 - *Grus gsum* (triangle): geometric energetic configuration
@@ -211,7 +211,7 @@ Anatomical terminology:
 - *'Od kyi snal ma* (light filaments): energetic channels of luminosity
 - *Sgo chu'i sgron ma* (door Water Lamp): the channel aperture functioning as lamp
 
-[16406-16417] [CONTEXT]
+[16406-16417] <context>
 Extended citation from *sgron ma 'bar ba*:
 The tantric verse provides the anatomical location in metered form:
 - Location is the eye
@@ -223,9 +223,9 @@ The tantric verse provides the anatomical location in metered form:
 - Arising for objects of sense powers
 - Abides inside the channel
 
-[16406] [PHILOLOGY] The phrase *dngos su gnas te* (actually abides) with the continuative *te* suspends meaning, linking the assertion of actual location to the subsequent scriptural citation.
+[16406] <philology> The phrase *dngos su gnas te* (actually abides) with the continuative *te* suspends meaning, linking the assertion of actual location to the subsequent scriptural citation.
 
-[16418-16421] [CONCEPT]
+[16418-16421] <concept>
 The Five-Aggregate Ninefold Arising:
 Longchenpa describes the subtle physiology:
 - The channel, at the pulsation branch (*rgyungs pa'i 'dab*), has one upward root
@@ -238,9 +238,9 @@ Longchenpa describes the subtle physiology:
 
 The "five" and "nine" refer to configurations of bindus (*thig le*) that appear in *thod rgal* vision.
 
-[16421] [PHILOLOGY] The term *brtsegs ma* (stacked/layered) with the locative *la* indicates the configuration of bindus as stacked or arranged in layers, not merely piled randomly.
+[16421] <philology> The term *brtsegs ma* (stacked/layered) with the locative *la* indicates the configuration of bindus as stacked or arranged in layers, not merely piled randomly.
 
-[16422-16429] [STRUCTURE]
+[16422-16429] <structure>
 # Correspondence with Four Lamps
 **Analysis:** Longchenpa establishes the relationship between the bindu/dot structure and the Four Lamps:
 
@@ -251,13 +251,13 @@ The "five" and "nine" refer to configurations of bindus (*thig le*) that appear 
 
 This establishes a hierarchical and functional correspondence between the subtle body physiology and the fourfold *thod rgal* framework.
 
-[16430-16433] [CONTEXT]
+[16430-16433] <context>
 Citation from *mu tig 'phreng ba* (*Pearl Garland Tantra*):
 The verse cites the tantric source for the bindu-wisdom correspondence: "Thought-free awareness vajra necklace / appears from the door of Great Bliss Brahma."
 
-[16430] [PHILOLOGY] The genitive *las* following *mu tig 'phreng ba* indicates source: "from the Pearl Garland."
+[16430] <philology> The genitive *las* following *mu tig 'phreng ba* indicates source: "from the Pearl Garland."
 
-[16434-16445] [STRUCTURE]
+[16434-16445] <structure>
 # Manner of Arising
 **Analysis:** Longchenpa explains the embryological genesis (*skyed tshul*) of the Water Lamp:
 - Arises from navel (*lte ba nas*)
@@ -268,7 +268,7 @@ The verse cites the tantric source for the bindu-wisdom correspondence: "Thought
 - Eye fruit forms
 - Father-mother portions mixed: white-black (*dkar nag 'dres pa*)
 
-[16434-16445] [PHILOLOGY]
+[16434-16445] <philology>
 Embryological terminology:
 - *Ma'i mngal* (mother's womb): embryological container
 - *Rgyu rkyen* (cause-condition): standard Buddhist causal terminology
@@ -276,15 +276,15 @@ Embryological terminology:
 - *Cha gnyis* (two portions): parental contributions
 - *Dkar nag 'dres pa* (white-black mixed): reference to red/white essences (*dkar dmar*)
 
-[16446-16452] [STRUCTURE]
+[16446-16452] <structure>
 # Door Analysis
 **Analysis:** The door (*sgo*) is identified as the straight center of the eye's a-berry clarity (*mig gi a 'bras dngas ma'i dkyil drang po*).
 
-[16449-16452] [CONTEXT]
+[16449-16452] <context>
 Citation from *sgron ma 'bar ba*:
 "The door of arising is the two eyes themselves / arising for objects of sense powers / all this appears from the channel."
 
-[16453-16460] [STRUCTURE]
+[16453-16460] <structure>
 # Simile Analysis
 **Analysis:** Longchenpa introduces the hook (*lcags kyu*) simile:
 - Object-appearance holding is like a hook
@@ -292,10 +292,10 @@ Citation from *sgron ma 'bar ba*:
 - Just as whatever appears is held by the nose [of the hook]
 - This holds the two nostrils of samsara and nirvana
 
-[16453-16460] [PHILOLOGY]
+[16453-16460] <philology>
 The comparative structure *lta bu* (like) establishes the simile. The instrumental *yis* indicates agency: "by means of the hook."
 
-[16461-16469] [STRUCTURE]
+[16461-16469] <structure>
 # Measure Analysis
 **Analysis:** Longchenpa establishes three measures (*tshad gsum*):
 
@@ -303,11 +303,11 @@ The comparative structure *lta bu* (like) establishes the simile. The instrument
 2. **Ye shes kyi tshad** — Pristine awareness measure: seeing the necklace
 3. **Dngas ma 'dus pa'i tshad** — Essence-gathered measure: distinguishing particular form-appearances
 
-[16465-16469] [CONTEXT]
+[16465-16469] <context>
 Citation from *sgron ma 'bar ba*:
 "The lamp that makes appearances / objects form-appearances, and awareness / the measure of necklace-appearance / thus."
 
-[16470-16482] [STRUCTURE]
+[16470-16482] <structure>
 # Transition to Second Lamp
 **Analysis:** Longchenpa transitions to the Lamp of Empty Bindus (*thig le stong pa'i sgron ma*) with a twelvefold schema:
 

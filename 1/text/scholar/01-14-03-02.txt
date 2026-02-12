@@ -1,12 +1,12 @@
-[18262-18269] [CONTEXT]
+[18262-18269] <context>
 Citation from Thal 'gyur
 **Analysis:** The Thal 'gyur citation establishes the framework for analyzing ye shes through four categories (ngo bo, nges tshig, dbye ba, so so'i don), mirroring the earlier analysis of sems.
 
-[18262-18269] [STRUCTURE]
+[18262-18269] <structure>
 Transition to ye shes
 **Analysis:** Don marks transition to detailed explanation of ye shes nature. Thal 'gyur provides framework for fourfold analysis (ngo bo, nges tshig, dbye ba, so so'i don).
 
-[18270-18273] [CONCEPT]
+[18270-18273] <concept>
 The fourfold analysis of ye shes
 **Analysis:**
 1. **ngo bo:** so so rang gi rig pa ye nas mkhyen char gnas pa (individual self-awareness abiding as primordial knowing-rain)
@@ -14,7 +14,7 @@ The fourfold analysis of ye shes
 3. **dbye ba:** gzhi gnas, mtshan nyid 'dzin pa, yul la khyab pa (three types)
 4. **so so'i don:** To be detailed subsequently
 
-[18270-18273] [CONCEPT]
+[18270-18273] <concept>
 Fourfold analysis of ye shes
 **Analysis:**
 1. ngo bo: so so rang gi rig pa ye nas mkhyen char gnas pa (individual self-awareness as primordial knowing-rain)

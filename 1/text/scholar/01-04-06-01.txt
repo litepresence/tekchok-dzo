@@ -1,4 +1,4 @@
-[2873-2902] [STRUCTURE]
+[2873-2902] <structure>
 Path and Ground Structure
 **Analysis:**
 
@@ -62,7 +62,7 @@ Through three aspects:
 
 Thus the ten grounds are obtained.
 
-[2873-2902] [CONTEXT]
+[2873-2902] <context>
 Uttaratantra and Two Truths
 **Analysis:**
 
@@ -91,7 +91,7 @@ The peaceful aspect of elaboration, is the ultimate truth.
 
 The relationship between analytical reasoning and direct realization established.
 
-[2903-2963] [STRUCTURE]
+[2903-2963] <structure>
 Path of Non-Learner and Heat Stages
 **Analysis:**
 
@@ -135,7 +135,7 @@ The peaceful body, like a wish-fulfilling tree, becomes clear.
 
 Through these stages, the bodhisattva traverses the ten grounds (*sa bcu*).
 
-[2960-2962] [STRUCTURE]
+[2960-2962] <structure>
 # Threefold Analysis of Meditative Heat (drod)
 **Analysis:** This section presents the three types of meditative "heat" (*drod*)—the initial signs of approaching realization in the Mahāyāna path. The term *drod* (Skt. *ūṣma-gata*) literally means "warmth" and refers to the first of the four stages of "root of virtue" (*dge ba'i rtsa ba*) that precede the path of seeing. Longchenpa organizes these as:
 
@@ -148,7 +148,7 @@ Through these stages, the bodhisattva traverses the ten grounds (*sa bcu*).
 [2962-2966]
 2. **Inner heat** (*nang gi drod*)
 
-[2962-2967] [PHILOLOGY]
+[2962-2967] <philology>
 Analysis of Outer Heat and the Second Ground
 **Analysis:** The phrase *gnyis pa dri ma med pa las* (from the second [ground], Stainless) identifies the outer heat as arising on the second bodhisattva bhūmi. The instrumental/locative particle *las* here indicates the ground as the supporting condition (*rten*).
 
@@ -159,7 +159,7 @@ The crucial line *dngos por snang ba stong pa skye* (entities appearing as empty
 
 This is not saying "emptiness arises" (which would be a contradiction) but that the *recognition* of appearances-as-empty arises. The verb *skye* applies to the understanding/wisdom, not to emptiness itself.
 
-[2966] [CONTEXT] Reference to Bodhisattva Bhūmis
+[2966] <context> Reference to Bodhisattva Bhūmis
 **Analysis:** The "two grounds" (*sa gnyis*) refers to the second bodhisattva bhūmi (*dri ma med pa*, Stainless). In the standard enumeration:
 1. Rab tu dga' ba (Great Joy)
 2. Dri ma med pa (Stainless)
@@ -167,7 +167,7 @@ This is not saying "emptiness arises" (which would be a contradiction) but that 
 
 Longchenpa is mapping the four stages of the path of preparation (heat, summit, patience, supreme dharma) onto the bodhisattva grounds, a common doxographical technique in Tibetan scholasticism.
 
-[2964-2982] [CONTEXT]
+[2964-2982] <context>
 Mind-Only School Introduction
 **Analysis:**
 
@@ -203,7 +203,7 @@ Appearing in four apertures, entering and looking — illustrating how conscious
 [2967-2968]
 3. **Heat of both** (*gnyi ka'i drod*)
 
-[2967-2972] [CONCEPT]
+[2967-2972] <concept>
 Four Stages of the Path of Preparation
 **Analysis:** Longchenpa presents the standard Mahāyāna sequence:
 
@@ -225,7 +225,7 @@ This threefold schema reflects the standard Nyingma approach to *sbyor lam* (pat
 
 The "ten grounds" (*sa bcu*) mentioned in [2974] refers to the complete bodhisattva path from Great Joy to Cloud of Dharma (*chos kyi sprin*).
 
-[2975-2978] [PHILOLOGY]
+[2975-2978] <philology>
 Defining the Bodhisattva Vehicle
 **Analysis:** The phrase *byang chub theg pa* (Bodhisattva vehicle) is here characterized by:
 - *stong pa'i tshig med yi ge med* — emptiness without words, without letters
@@ -233,7 +233,7 @@ Defining the Bodhisattva Vehicle
 
 The term *cang med* (completely without/utterly non-existent) is emphatic absolute negation. This positions the Bodhisattva vehicle as the prajñāpāramitā tradition that emphasizes the emptiness (*śūnyatā*) of all phenomena.
 
-[2979-2980] [STRUCTURE]
+[2979-2980] <structure>
 Transition to Established Tenets
 **Analysis:** This marks a major structural shift (*rim khams*) in the text. Having completed the presentation of the Bodhisattva vehicle's path structure, Longchenpa now turns to *grub pa'i mtha'* (established tenets/siddhānta). The phrase *don gnyis pa* (second meaning) indicates this is the second major section of the chapter.
 
@@ -243,7 +243,7 @@ The bipartite structure announced here:
 
 This follows the standard Tibetan doxographical (*grub mtha'*) organization from lower to higher philosophical views.
 
-[2981-2982] [CONTEXT]
+[2981-2982] <context>
 Cittamātra Subdivisions
 **Analysis:** Longchenpa identifies two main branches of Cittamātra:
 
@@ -252,7 +252,7 @@ Cittamātra Subdivisions
 
 The first school holds that appearances (*snang ba*) are true aspects (*rnam par bden pa*) of consciousness. The second holds they are false/illusory (*rdzun pa*). This distinction reflects the historical split between the True Aspectarians (*satyākāravādin*) and False Aspectarians (*alīkākāravādin*) in Indian Yogācāra.
 
-[2984] [CONCEPT] The Jewel-Reflection Simile
+[2984] <concept> The Jewel-Reflection Simile
 **Analysis:** The simile of the jewel's reflection (*nor bu ke ke ru'i gzugs brnyan*) in water illustrates the Cittamātra position:
 - The jewel hanging on a branch (*shing gi yal ga la btags pa*)
 - Its reflection appears in the water (*chu nang du shar ba*)

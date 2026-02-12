@@ -1,4 +1,4 @@
-[8770-8780] [CONCEPT]
+[8770-8780] <concept>
 From Effort to Beyond Effort
 
 The five stages trace a progression from effort to spontaneity:
@@ -15,7 +15,7 @@ This corresponds to the Dzogchen progression from khrul 'khor ( Yantra ) through
 
 Pages 202 continues the completion stage exposition with detailed analysis of the Har ti family characteristics, channel typology of the five families, six body postures, thigle refinement methods, and the five stages of blissful wisdom. The philological analysis reveals systematic use of causative constructions, imperative mood for practice instructions, and ordinal enumeration for progressive stages. Contextual sources include Hevajra Tantra, Guhyasamaja, Six Yogas of Naropa, and Kalachakra systems integrated into Nyingma presentation. Conceptually, the section presents the transition from deliberate practice to spontaneous wisdom through progressive refinement of subtle body elements.
 
-[8770-8780] [CONTEXT]
+[8770-8780] <context>
 Kalachakra and Hevajra Bliss Taxonomy
 
 The five bliss stages correspond to:
@@ -27,7 +27,7 @@ The five bliss stages correspond to:
 
 These align with Kalachakra's progressive bliss system leading to clear light.
 
-[8770-8780] [CONCEPT]
+[8770-8780] <concept>
 Progressive Mudra Realization
 
 The mudras represent stages of capacity:
@@ -48,7 +48,7 @@ Each generates specific realization:
 
 Page 204 presents the essential points for thigle retention through six body postures, three-location refinement, and the four mudras system. Philologically, the text employs extensive causative constructions, directional commands, and definitive particles. Contextual sources include Hevajra Tantra, Guhyasamaja, Vajrayogini practices, and Thalgyur citations. Conceptually, the section demonstrates how physical postures target specific samsaric patterns, how thigle refinement generates three kaya bliss, and how mudra practice progresses from physical to non-dual realization.
 
-[8770-8776] [CONCEPT]
+[8770-8776] <concept>
 From Effort to Beyond Effort
 
 The stages trace a progression:
@@ -61,9 +61,9 @@ This mirrors Dzogchen's four visions (snang ba bzhi) or trekchö (khregs chod) p
 
 ---
 
-[STRUCTURE] View Stabilization and Three Kaya Ground
+<structure> View Stabilization and Three Kaya Ground
 
-[8770-8780] [CONTEXT]
+[8770-8780] <context>
 Prana and Nadi Systems
 
 The wind practices correspond to:
@@ -75,7 +75,7 @@ The wind practices correspond to:
 
 Control of these five through the four postures stabilizes the energetic body.
 
-[8770-8774] [PHILOLOGY]
+[8770-8774] <philology>
 Accomplishment and Capacity Terminology
 
 The text employs achievement vocabulary:
@@ -87,7 +87,7 @@ The text employs achievement vocabulary:
 
 The particle "ni" marks cause: "rtsa 'byongs pas nad mi 'byung" (channel release causes no illness). The instrumental "pas" indicates means.
 
-[8770-8778] [CONCEPT]
+[8770-8778] <concept>
 Appearance-Arising Recognition
 
 The wind control reveals:
@@ -108,9 +108,9 @@ The wind control reveals:
 
 ---
 
-[STRUCTURE] Benefits of Bodhicitta Refinement
+<structure> Benefits of Bodhicitta Refinement
 
-[8770-8794] [CONTEXT]
+[8770-8794] <context>
 Three Kaya Realization in Completion Stage
 
 The three kayas correspond to:
@@ -123,7 +123,7 @@ The ground (sa) indicates:
 - Sa bcu (ten grounds): Bodhisattva stages
 - Sa gsum (three grounds): Three kaya bases
 
-[8770-8792] [PHILOLOGY]
+[8770-8792] <philology>
 Mantra and Wind Terminology
 
 The speech integration employs sonic vocabulary:
@@ -135,7 +135,7 @@ The speech integration employs sonic vocabulary:
 
 The particle "ni" marks definition: "ngag ni yi ge gsum / sems ni rlung gi 'phen sdu" (speech is three syllables, mind is wind projection-withdrawal). The equative "ni" establishes identity.
 
-[8770-8772] [CONTEXT]
+[8770-8772] <context>
 Third Empowerment and Conduct Boundaries
 
 The third empowerment (gsang dbang/ye shes shes rab dbang) represents:
@@ -149,12 +149,12 @@ The section emphasizes:
 - Rang gi yul (one's own place): Proper return
 - Gsang ba chen po: Extremely secret meaning
 
-[8770-8787] [STRUCTURE]
+[8770-8787] <structure>
 Unelaborated Empowerment: Speech Purification
 
 This section presents the unelaborated empowerment (spros med dbang) focusing on speech purification (ngag gi gnas dag pa) through syllables (yi ge) and channel-pressing bliss (rtsa 'tsir ba'i bde ba). The structure establishes the transition from elaborated external rituals to unelaborated internal practices.
 
-[8770-8776] [PHILOLOGY]
+[8770-8776] <philology>
 Unelaboration and Purification Terminology
 
 The text employs contrastive vocabulary:
@@ -166,7 +166,7 @@ The text employs contrastive vocabulary:
 
 The particle "ste" marks definition: "'di spros med gsang dbang ste" (this is unelaborated secret empowerment). The emphatic "o" confirms identity.
 
-[8773-8798] [CONCEPT]
+[8773-8798] <concept>
 Ritual Technology and Invisibility
 
 The invisibility method operates through:
@@ -189,9 +189,9 @@ The invisibility method operates through:
 
 ---
 
-[STRUCTURE] Unelaborated Empowerment and Mandala Entry
+<structure> Unelaborated Empowerment and Mandala Entry
 
-[8775-8800] [CONTEXT]
+[8775-8800] <context>
 Six Yogas and Extraordinary Powers
 
 The accomplishments correspond to Six Yogas:
@@ -204,7 +204,7 @@ The accomplishments correspond to Six Yogas:
 
 These represent the thun mong gi dngos grub (common accomplishments).
 
-[8777-8806] [PHILOLOGY]
+[8777-8806] <philology>
 Stabilization and Ground Terminology
 
 The text employs achievement vocabulary:
@@ -214,7 +214,7 @@ The text employs achievement vocabulary:
 
 The construction: "sku gsum po'i sa la gshegs" (gone to the ground of three kayas). The emphatic "ni" marks definitive attainment: "lta ba brten pa'i dus" (time of stabilized view).
 
-[8777-8802] [CONTEXT]
+[8777-8802] <context>
 Four-fold Classification of Unelaborated
 
 The unelaborated empowerment contains four levels:
@@ -234,7 +234,7 @@ The unelaborated empowerment contains four levels:
    - All phenomena empty and selfless
    - Perfect dimension complete
 
-[8779-8804] [PHILOLOGY]
+[8779-8804] <philology>
 Accomplishment Enumeration and Markers
 
 The benefits employ achievement vocabulary:
@@ -246,7 +246,7 @@ The benefits employ achievement vocabulary:
 
 The particle "ni" marks outcome: "rtsa 'byongs pas nad mi 'byung" (channel release causes illness not to arise). The enumerative progression establishes hierarchy.
 
-[8781-8806] [CONCEPT]
+[8781-8806] <concept>
 Effort to Effortless Progression
 
 The stages trace wisdom development:
@@ -263,7 +263,7 @@ This mirrors Dzogchen's progression from rushen (preliminary separation) to trek
 
 Page 203 presents the alchemical preparations for bodhicitta expansion, five family channel typology, training methodology, six body postures, thigle refinement through three syllables, and the five stages of blissful wisdom. The philological analysis reveals extensive use of causative constructions, imperative mood for practice, and ordinal enumeration. Contextual sources include Guhyasamaja, Hevajra, Cakrasamvara, and Kalachakra systems integrated with Tibetan medical rasayana practices. Conceptually, the section demonstrates the progression from material/physical practices to subtle energetic transformation and ultimately to wisdom realization.
 
-[8781-8806] [CONCEPT]
+[8781-8806] <concept>
 Benefits of Thigle Refinement
 
 The comprehensive benefits include:
@@ -277,14 +277,14 @@ The comprehensive benefits include:
 
 ---
 
-[STRUCTURE] Conventional and Ultimate Bodhicitta
+<structure> Conventional and Ultimate Bodhicitta
 
-[8788-8809] [STRUCTURE]
+[8788-8809] <structure>
 Completely Unelaborated: Four-fold Perfection
 
 This section presents the completely unelaborated empowerment (rab tu spros med dbang) through its four-fold structure: outer (phyi), inner (nang), secret (gsang), and perfect (yongs rdzogs). The structure establishes the culmination of empowerment as spontaneous recognition beyond all constructs.
 
-[8788-8806] [PHILOLOGY]
+[8788-8806] <philology>
 Four-fold Partition and Spontaneity Terms
 
 The text employs completion vocabulary:
@@ -296,7 +296,7 @@ The text employs completion vocabulary:
 
 The particle "ni" marks partition: "phyi nang gsang ba yongs rdzogs bzhi las" (from the four: outer, inner, secret, perfect). The enumerative "las" indicates source.
 
-[8793-8809] [CONTEXT]
+[8793-8809] <context>
 Six Yogas and Inner Heat Integration
 
 The wind practices derive from:
@@ -310,7 +310,7 @@ The three syllables:
 - AH: Throat center, speech vajra
 - HUM: Heart center, mind vajra
 
-[8795-8809] [CONCEPT]
+[8795-8809] <concept>
 Three Stages of View Development
 
 The view stabilizes through:
@@ -331,9 +331,9 @@ The view stabilizes through:
 
 ---
 
-[STRUCTURE] Channel Closing and Post-Practice Care
+<structure> Channel Closing and Post-Practice Care
 
-[8799-8809] [PHILOLOGY]
+[8799-8809] <philology>
 Unelaborated and Elaborated Distinctions
 
 The text employs classification vocabulary:
@@ -345,7 +345,7 @@ The text employs classification vocabulary:
 
 The particle "ni" marks distinction: "'di spros med gsang dbang ste / ngag gi gnas dag pa yi ge dang rtsa 'tsir ba'i bde bas ngo sprod pa'o" (this is unelaborated secret empowerment: speech place purification through syllable and channel-pressing bliss introduction). The emphatic "ste" marks definition.
 
-[8801-8809] [CONCEPT]
+[8801-8809] <concept>
 Progressive Unfoldment of Powers
 
 The powers develop sequentially:
@@ -358,9 +358,9 @@ This progression reflects the natural unfoldment of subtle body mastery from coa
 
 ---
 
-[STRUCTURE] Conventional and Ultimate Bodhicitta Completion
+<structure> Conventional and Ultimate Bodhicitta Completion
 
-[8803-8809] [CONCEPT]
+[8803-8809] <concept>
 Progressive Recognition Through Unelaboration
 
 The progression moves from:
@@ -380,9 +380,9 @@ This follows the tantric principle of dbang (ripening) leading to grol (liberati
 
 ---
 
-[STRUCTURE] Thoroughly Unelaborated: Samsara-Nirvana Distinction
+<structure> Thoroughly Unelaborated: Samsara-Nirvana Distinction
 
-[8805-8809] [CONTEXT]
+[8805-8809] <context>
 Eight Accomplishments and Siddha Powers
 
 The accomplishments correspond to:
@@ -397,7 +397,7 @@ Specific accomplishments:
 - Nam mkha' 'phur: Flying (garima)
 - Tshe nyi zla mnyam: Long life (longevity siddhi)
 
-[8807-8809] [CONTEXT]
+[8807-8809] <context>
 Durkhrod Tragtsal Gyü Citation
 
 The citation from Durkhrod Tragtsal Gyü (dur khrod khang bu brtsegs pa'i rgyud):
@@ -405,7 +405,7 @@ The citation from Durkhrod Tragtsal Gyü (dur khrod khang bu brtsegs pa'i rgyud)
 
 This establishes the textual authority for thigle refinement practices and their results.
 
-[8807-8809] [PHILOLOGY]
+[8807-8809] <philology>
 Conventional-Ultimate Distinction
 
 The text employs ontological vocabulary:
@@ -416,7 +416,7 @@ The text employs ontological vocabulary:
 
 The particle "ni" marks distinction: "don dam pa byang chub kyi sems 'byongs pas ni" (as for ultimate bodhicitta release). The instrumental "kyis" indicates means.
 
-[8807-8809] [CONTEXT]
+[8807-8809] <context>
 Thalgyur Citation and Natural Spontaneity
 
 The Thalgyur citation:

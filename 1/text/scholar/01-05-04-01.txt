@@ -1,4 +1,4 @@
-[4848-4878] [CONTEXT]
+[4848-4878] <context>
 Five Enumerations and Faults/Benefits
 **Analysis:** Lines 4847-4878 present the second explanation method:
 
@@ -15,7 +15,7 @@ Five Enumerations and Faults/Benefits
 
 **Faults of Not Explaining
 
-[4853-4873] [STRUCTURE]
+[4853-4873] <structure>
 Five Purposes of Explanation
 
 **Analysis:** Lines 4853-4873 establish the five purposes (*dgos pa lnga*) that must be explained in scholarly presentations.
@@ -69,7 +69,7 @@ Quoting *de nyid las* (from that very [text]):
 - "Thus abandoning faults"
 - "All qualities become complete"
 
-[4874-4884] [PHILOLOGY]
+[4874-4884] <philology>
 Benefits of Proper Explanation
 
 **Analysis:** Lines 4874-4884 establish the benefits of correct explanation.
@@ -82,7 +82,7 @@ Benefits of Proper Explanation
 
 **Purpose from Self-Liberated Awareness
 
-[4879-4952] [CONTEXT]
+[4879-4952] <context>
 Purpose and 28/5 Explanation Methods
 **Analysis:** Lines 4879-4952 present the extensive explanation methods:
 
@@ -174,7 +174,7 @@ Quoting *rig pa rang grol las*:
   - These explanation methods
   - Order knowing should know
 
-[4885-4952] [CONTEXT]
+[4885-4952] <context>
 Twenty-Eight Explanation Methods
 
 **Analysis:** Lines 4885-4952 enumerate twenty-eight similes for explanation methods from *sna tshogs rin po che*.
@@ -213,7 +213,7 @@ Twenty-Eight Explanation Methods
 | 28 | Flower clear | *gsal ba me tog* | Two lamps like |
 | 29 | Fruit ripened | *smin pa 'bras bu* | Result non-reversing |
 
-[4951-5020] [CONCEPT]
+[4951-5020] <concept>
 Hermeneutics of Explanation
 
 **Analysis:** Lines 4951+ establish the comprehensive framework for explaining Dzogchen teachings.
@@ -264,7 +264,7 @@ The elaborate explanation framework serves the ultimate purpose: *sangs rgya ba*
 - Refuting misconceptions (*gzhan gyi grub mtha' sun 'byin*)
 - Direct recognition (*rig pa mngon sum du mthong ba*)
 
-[4953-4976] [CONTEXT]
+[4953-4976] <context>
 Speaker, Setting, and Dedication
 **Analysis:** Lines 4953-4976 establish the transmission context:
 
@@ -316,7 +316,7 @@ Speaker, Setting, and Dedication
 - Day and night dharma practice
 - Self-other two aims spontaneously accomplished
 
-[4977-4991] [STRUCTURE]
+[4977-4991] <structure>
 Letter Cloud Nature
 **Analysis:** Lines 4977-4991 introduce the letter analysis section:
 
@@ -349,7 +349,7 @@ Letter Cloud Nature
   - "Mind nature letter nature"
   - "Letter wish-fulfilling jewel cloud"
 
-[4992-4994] [PHILOLOGY]
+[4992-4994] <philology>
 Body Channel Letters
 **Analysis:** Lines 4992-4994 present the second division:
 
@@ -364,7 +364,7 @@ Body Channel Letters
 - Self-arisen letters three
 - Colors white, red, blue abiding
 
-[4995-5010] [CONCEPT]
+[4995-5010] <concept>
 Three Levels of Letters
 **Analysis:** Lines 4995-5010 present the three levels of letters:
 
@@ -395,7 +395,7 @@ Three Levels of Letters
 - Single, doubled, attached, limbs divided
 - 84,000 places
 
-[5011-5034] [PHILOLOGY]
+[5011-5034] <philology>
 Sanskrit Letter Analysis
 **Analysis:** Lines 5011-5034 present detailed Sanskrit letter analysis:
 
@@ -434,7 +434,7 @@ Sanskrit Letter Analysis
 - Letters and similar light five appearances
 - Fine drawn white red wind center self-clear
 
-[5035-5058] [STRUCTURE]
+[5035-5058] <structure>
 Four Categories of Letters
 **Analysis:** Lines 5035-5058 present the architectural framework for classifying letters into four categories:
 
@@ -477,7 +477,7 @@ Four Categories of Letters
 - Location and enjoyment explanation
 - Pronunciation methods demonstration
 
-[5064-5071] [PHILOLOGY]
+[5064-5071] <philology>
 Root Letter Enumeration
 **Analysis:** Lines 5064-5071 present the thirty-four root letters (*rtsa ba'i yi ge*) according to place of articulation (*gnas*):
 
@@ -492,7 +492,7 @@ Root Letter Enumeration
 
 The particle *ste* (line 5072) functions as a continuative, linking this enumeration to the assertion that all letters are contained within thirty-four locations.
 
-[5072-5148] [CONTEXT]
+[5072-5148] <context>
 Letter-Dharma Correspondences from *Rig pa rang shar*
 **Analysis:** Lines 5072-5148 extensively quote from the *Rig pa rang shar gyi rgyud* (Self-Arising Awareness Tantra), presenting the symbolic correspondences between Sanskrit letters and dharmatological concepts:
 
@@ -525,7 +525,7 @@ Letter-Dharma Correspondences from *Rig pa rang shar*
 
 This exegetical method follows the *sandhya-bhasa* (intentional language) tradition of Buddhist tantra, where phonemes encode profound meanings.
 
-[5149-5152] [STRUCTURE]
+[5149-5152] <structure>
 Division of Vowel Analysis
 **Analysis:** Lines 5149-5152 introduce the second major section on branch vowels (*yan lag gi 'dogs bshad*), presenting two subdivisions:
 
@@ -534,7 +534,7 @@ Division of Vowel Analysis
 
 The term *'dogs* (vowel) refers to the dependent marking (*'dogs* = to hang/append) of vocalic modifications on consonantal bases. The structural marker *ni* introduces the first subsection.
 
-[5150-5186] [PHILOLOGY]
+[5150-5186] <philology>
 Root and Branch Vowel Systems
 **Analysis:** Lines 5150-5186 detail the phonetic analysis of Sanskrit-Tibetan correspondences in the letter system:
 
@@ -551,7 +551,7 @@ Root and Branch Vowel Systems
 
 **Sanskrit Phonetic Grid
 
-[5153-5176] [PHILOLOGY]
+[5153-5176] <philology>
 Root Vowels and Sanskrit Phonetics
 **Analysis:** Lines 5153-5176 analyze the thirty-four root letters with vowel system:
 
@@ -610,13 +610,13 @@ demonstrates the text's grounding in Nyingma tantric sources.
 [5172-5176]
 validates this hermeneutical approach.
 
-[5177-5227] [CONCEPT]
+[5177-5227] <concept>
 The Three Levels of Letters
 **Analysis:** Lines 5177-5227 present the sophisticated hermeneutical framework of three letter levels:
 
 **1. Root Letters (*rtsa ba'i yi ge*)
 
-[5177-5206] [STRUCTURE]
+[5177-5206] <structure>
 The Five Branch Vowels
 **Analysis:** Lines 5177-5206 analyze the five appendages (*btags*) that modify root letters:
 
@@ -649,7 +649,7 @@ When these five are appended, they symbolize (*mtshon pa*):
 
 **3. Appendix of Appendix (*'dogs kyi 'dogs*)
 
-[5187-5206] [STRUCTURE]
+[5187-5206] <structure>
 Vowel System Architecture
 **Analysis:** Lines 5187-5206 continue the analysis of the vowel system (*'dogs*) architecture:
 
@@ -723,7 +723,7 @@ provides authoritative grounding:
 - "Nirvana letter explanation mode"
 - "Samsara letter explanation mode"
 
-[5228-5260] [CONCEPT]
+[5228-5260] <concept>
 Location and Enjoyment of Letters
 **Analysis:** Lines 5228-5260 analyze the place (*gnas*) and enjoyment (*longs spyod*) of letters:
 
@@ -764,7 +764,7 @@ The citation from *Rang shar*
 [5245-5260]
 enumerates these correspondences in verse form.
 
-[5261-5306] [CONCEPT]
+[5261-5306] <concept>
 Symbolic Language Theory
 **Analysis:** Lines 5261-5306 present the theory of symbolic language (*brda*) underlying the letter system:
 
@@ -799,7 +799,7 @@ The text addresses potential contradictions between different tantric sources:
 
 **Resolution:** These are not contradictory (*mi 'gal*) but depend on context (*skabs kyis go bar bya ba la dgongs pa*). When explaining that Buddha-nature pervades sentient beings in samsara, the base A is made samsara and vowels/branches nirvana. When explaining how samsara-nirvana diverge from awareness-nature, base A represents awareness (*rig pa*), vowels samsara, and branches nirvana.
 
-[5307-5344] [CONTEXT]
+[5307-5344] <context>
 Application Across Doxographical Categories
 **Analysis:** Lines 5307-5344 demonstrate how the same letter system applies across all doxographical categories:
 
@@ -844,7 +844,7 @@ Application Across Doxographical Categories
 :**
 Whatever is being symbolized, the principal is base letter A, with its retinue as vowels and branches.
 
-[5327-5344] [PHILOLOGY]
+[5327-5344] <philology>
 Four Types of Sound Duration
 **Analysis:** Lines 5327-5344 analyze sound duration according to *Rang grol*:
 
@@ -862,7 +862,7 @@ From *Rang grol*: "Four aspects demonstrate sound: short, long, great, and base 
 
 When vital force agrees (*srog mthun*), read as one; when not agreeing, read separately.
 
-[5345-5417] [PHILOLOGY]
+[5345-5417] <philology>
 Detailed Pronunciation Rules
 **Analysis:** Lines 5345-5417 present extensive phonetic analysis of letter combinations:
 
@@ -878,7 +878,7 @@ The text distinguishes four sound types:
 
 **Extensive Letter Combinations
 
-[5345-5418] [STRUCTURE]
+[5345-5418] <structure>
 Tibetan Phonetic System
 
 **Analysis:** Lines 5345-5418 present the phonetic classification of Tibetan letters (*yi ge*).
@@ -911,7 +911,7 @@ Tibetan Phonetic System
 
 **Ground Letters
 
-[5346-5387] [PHILOLOGY]
+[5346-5387] <philology>
 Sanskrit-Tibetan Phonetic Correspondence
 
 **Analysis:** Lines 5346-5387 establish the correspondence between Sanskrit and Tibetan phonetic systems.
@@ -996,7 +996,7 @@ The text provides detailed lists showing which appended letters create which sou
 
 **Long Letters
 
-[5387-5418] [CONTEXT]
+[5387-5418] <context>
 Extended Phonetic Combinations
 
 **Analysis:** Lines 5387-5418 present extended phonetic combination rules.
@@ -1082,7 +1082,7 @@ Extended Phonetic Combinations
 
 **Stacked Letter Class 3
 
-[5414-5464] [STRUCTURE]
+[5414-5464] <structure>
 Pronunciation Rules and Doubled Letters
 
 **Analysis:** Lines 5414-5464 present detailed pronunciation rules for Tibetan stacked letters.
@@ -1095,7 +1095,7 @@ Pronunciation Rules and Doubled Letters
 
 **Doubled Letter Pronunciation
 
-[5416-5441] [CONCEPT]
+[5416-5441] <concept>
 Phonetics as Dharma Gate
 
 **Analysis:** Lines 5416-5441 complete the phonetic system and establish its soteriological significance.
@@ -1108,7 +1108,7 @@ Phonetics as Dharma Gate
 
 **Additional Letters
 
-[5418-5432] [CONTEXT]
+[5418-5432] <context>
 Origins of Non-Sanskrit Letters
 **Analysis:** Lines 5418-5432 address the origin of letters not found in classical Sanskrit:
 
@@ -1143,7 +1143,7 @@ Correct pronunciation (*ngag*) serves as:
 - **Connection** to lineage blessings (*byin rlabs*)
 - **Expression** of ultimate meaning (*don*)
 
-[5433-5451] [STRUCTURE]
+[5433-5451] <structure>
 Stacked Letter Analysis
 **Analysis:** Lines 5433-5451 analyze stacked letter (*brtsegs ma*) pronunciation:
 
@@ -1174,7 +1174,7 @@ Similar pattern of vital force agreement. For a letter like KA with:
 
 This creates fourteen ma-mo occurrences.
 
-[5452-5507] [PHILOLOGY]
+[5452-5507] <philology>
 Complex Letter Stacking
 **Analysis:** Lines 5452-5507 provide detailed analysis of stacked letter (*brtsegs yig*) forms:
 
@@ -1191,7 +1191,7 @@ Examples of complex stacked forms:
 
 **Vowel Distribution Rule
 
-[5465-5507] [PHILOLOGY]
+[5465-5507] <philology>
 Advanced Vowel Combinations
 **Analysis:** Lines 5465-5507 present advanced Sanskrit-Tibetan phonetic combinations:
 
@@ -1286,7 +1286,7 @@ Ya-btags, ra-btags, and zhabs kyu (three) are called support letters (*rten gyi 
 :**
 Ya-btags, ra-btags, zhabs kyu (three) called end-support (*mthar rten*) or support letters.
 
-[5508-5528] [CONCEPT]
+[5508-5528] <concept>
 Mantra Sound Significance
 **Analysis:** Lines 5508-5528 decode the profound meaning embedded in Sanskrit mantra sounds:
 
@@ -1300,7 +1300,7 @@ Mantra Sound Significance
 
 **Mantra Decoding
 
-[5508-5512] [PHILOLOGY]
+[5508-5512] <philology>
 Double-Stacked Pronunciation
 **Analysis:** Lines 5508-5512 analyze double-stacked vowel pronunciation:
 
@@ -1310,7 +1310,7 @@ Double-Stacked Pronunciation
 
 **Na-ro Stacking
 
-[5508-5538] [STRUCTURE]
+[5508-5538] <structure>
 Stacked Letter Pronunciation System
 
 **Analysis:** Lines 5508-5538 present the systematic pronunciation rules for Tibetan stacked letters.
@@ -1379,7 +1379,7 @@ Each syllable corresponds to specific dharmatological meaning:
 - TRI = permanent wisdom (*rtag pa'i ye shes*)
 - ṬAṂ = emptiness without cessation (*stong pa 'gag pa med pa*)
 
-[5521-5538] [PHILOLOGY]
+[5521-5538] <philology>
 Mantra Etymological Decoding
 
 **Analysis:** Lines 5521-5538 decode the meaning of the mantra OṂ KO ŚO MI TRI ṬAṂ.
@@ -1397,7 +1397,7 @@ Mantra Etymological Decoding
 
 **Dharmatological Integration
 
-[5521-5538] [PHILOLOGY]
+[5521-5538] <philology>
 Dharmatological Meaning Extraction
 
 **Analysis:** Lines 5521-5538 extract the profound meanings from the stacked letter mantras.
@@ -1450,14 +1450,14 @@ Dharmatological Meaning Extraction
 
 **Technical Term:** *mtshon du med* — "without symbol" — indicates the subtle nature of primordial wisdom that cannot be conceptually grasped.
 
-[5533-5584] [CONTEXT]
+[5533-5584] <context>
 Additional Mantra Decodings
 
 **Analysis:** Lines 5533-5584 present additional mantra decodings.
 
 **Stacked Letters 5
 
-[5533-5584] [CONTEXT]
+[5533-5584] <context>
 Extended Mantra Series
 
 **Analysis:** Lines 5533-5584 present additional mantras in the stacked letter series.
@@ -1488,7 +1488,7 @@ Within gathered sounds: DHARMA KĀYA SIDDHI BHA RA present
 
 **Stacked Letters 6
 
-[5539-5584] [CONCEPT]
+[5539-5584] <concept>
 Dharma Body and Wisdom Analysis
 **Analysis:** Lines 5539-5584 analyze the Dharma body (*chos sku*) and wisdom systems through mantra decoding:
 
@@ -1599,7 +1599,7 @@ All are non-dual wisdom nature, not transcending great equality dharmatā.
 
 These three are of one taste (*ro gcig pa*) in dharmadhatu expanse, not transcending the supreme unchanging great equality.
 
-[5585-5625] [CONCEPT]
+[5585-5625] <concept>
 Mantra as Compressed Teaching
 
 **Analysis:** Lines 5585-5625 present additional mantra decodings and establish their comprehensive nature.
@@ -1620,7 +1620,7 @@ Decoding:
 
 **Stacked Letters 8
 
-[5585-5625] [CONCEPT]
+[5585-5625] <concept>
 Tantric Hermeneutics and Transition
 
 **Analysis:** Lines 5585-5625 complete the mantra analysis and transition to preamble topics.
@@ -1640,7 +1640,7 @@ Tantric Hermeneutics and Transition
 
 **Stacked Letters 8
 
-[5585-5593] [CONTEXT]
+[5585-5593] <context>
 Wisdom and Timelessness
 **Analysis:** Lines 5585-5593 present additional mantra analysis:
 
@@ -1658,7 +1658,7 @@ Mantra: ŚAṂ PRAJÑĀ MU TA DA YA BYA NYA PRA PA RA DUS TA NA KA HĪḤ
 - Three pervasions as always existing in self (*rang la rtag par yod pas khyab pa gsum*)
 - Self-dawning equality wisdom (*mnyam pa nyid kyi ye shes rang shar ba*)
 
-[5585-5625] [STRUCTURE]
+[5585-5625] <structure>
 Final Mantra Decodings
 
 **Analysis:** Lines 5585-5625 complete the mantra analysis section with final decodings.
@@ -1772,7 +1772,7 @@ For many stacked letters: give 'greng-bu and na-ro downwards successively, then 
 
 **Hermeneutical Conclusion
 
-[5619-5625] [PHILOLOGY]
+[5619-5625] <philology>
 Pronunciation and Hermeneutics
 
 **Analysis:** Lines 5619-5625 establish pronunciation rules and the hermeneutical significance of the mantra system.
@@ -1814,7 +1814,7 @@ Line 5626 marks shift from letter analysis (*yi ge'i dka' ba*) to preamble enume
 | Origin | Samantabhadra's mind mirror (*kun tu bzang po thugs kyi me long*) |
 | Function | Resolves difficult points (*dka' ba'i gnas*) of tantra |
 
-[5626] [CONTEXT] Transition to Preamble Topics
+[5626] <context> Transition to Preamble Topics
 
 **Analysis:** Line 5626 marks the major transition from letter analysis to preamble (*gleng gzhi*) topics.
 
@@ -1849,7 +1849,7 @@ The transition to preambles shifts focus from:
 - **Where** (place)
 - **When** (time)
 
-[5626-5700] [CONCEPT]
+[5626-5700] <concept>
 Mantra as Complete Path
 
 **Analysis:** The mantra decodings presented in this section encode the entire Dzogchen path.
@@ -1881,7 +1881,7 @@ Proper mantra practice accomplishes:
 
 The transition to preamble topics marks the shift from **methodology** (how to practice) to **content** (what is realized), completing the preparatory framework for the actual Dzogchen teachings.
 
-[5627-5662] [STRUCTURE]
+[5627-5662] <structure>
 Preamble Framework
 **Analysis:** Lines 5627-5662 introduce the structural framework for preamble (*gleng gzhi*) analysis:
 
@@ -1925,7 +1925,7 @@ For liberating beings of different intellects:
 **Structural Note:**
 This four-fold schema reflects the Nyingma hermeneutical principle of graded teachings according to capacity.
 
-[5663-5710] [STRUCTURE]
+[5663-5710] <structure>
 Four-fold Definiteness System
 **Analysis:** Lines 5663-5710 present the four-fold system for establishing Secret Mantra's definitive meaning:
 
@@ -1961,7 +1961,7 @@ These four aspects establish Secret Mantra's definitive meaning, called "root va
 
 **First: Preamble Connection
 
-[5711-5778] [STRUCTURE]
+[5711-5778] <structure>
 Five Perfections Framework
 **Analysis:** Lines 5711-5778 present the five perfections (*phun sum tshogs pa lnga*) framework:
 
@@ -2044,7 +2044,7 @@ Time also three-four gathered:
 - "Sum" — past and present
 - "Assembly" — definite complete
 
-[5765-5822] [CONCEPT]
+[5765-5822] <concept>
 Common and Uncommon Preambles
 **Analysis:** Lines 5765-5822 distinguish common and uncommon preambles (*thun mong gi gleng gzhi* vs. *thun mong ma yin pa'i gleng gzhi*):
 
@@ -2094,7 +2094,7 @@ And from *Gsang ba chen po'i rang dbyings*:
 - "Not grasped place mode"
 - "Great play first arose"
 
-[5803-5851] [STRUCTURE]
+[5803-5851] <structure>
 Five Perfections Framework
 
 **Analysis:** Lines 5803-5851 present the fivefold perfection (*phun sum tshogs pa lnga*) framework for understanding the preamble context.
@@ -2109,7 +2109,7 @@ This verse establishes the Dzogchen view of primordial manifestation without cau
 
 **Five Perfections
 
-[5808-5851] [STRUCTURE]
+[5808-5851] <structure>
 Body Configuration Five Perfections
 **Analysis:** Lines 5808-5851 present the five perfections as they abide in the body:
 
@@ -2132,7 +2132,7 @@ In Cittavajra (*tsitta rin po che*) precious palace, center of great channel pur
 | 4 | Teaching | *chos phun sum tshogs pa* | Channel-wind-thigle crucial points, bliss-clear non-conceptual wisdom instructions |
 | 5 | Time | *dus phun sum tshogs pa* | Self-arisen from self through becoming familiar with awareness meaning |
 
-[5808-5831] [PHILOLOGY]
+[5808-5831] <philology>
 Teacher and Retinue Perfection
 
 **Analysis:** Lines 5808-5831 detail the teacher and retinue components.
@@ -2210,7 +2210,7 @@ From *nyi zla kha sbyor* (Sun Moon Union):
 :**
 Extensive presentation of how enlightened activity spontaneously accomplishes two benefits.
 
-[5832-5851] [CONTEXT]
+[5832-5851] <context>
 Thal 'gyur Quotation on Primordial Arising
 
 **Analysis:** Lines 5832-5851 quote from *Thal 'gyur* establishing the spontaneous nature of manifestation.
@@ -2239,7 +2239,7 @@ Thal 'gyur Quotation on Primordial Arising
 | 5848 | *ma phye 'byed pa yongs su med* | Unseparated separation completely non-existent |
 | 5849 | *thams cad rang byung ye shes so* | All is self-arisen wisdom |
 
-[5851-5900] [CONCEPT]
+[5851-5900] <concept>
 Preamble as Dharmatā Manifestation
 
 **Analysis:** Lines 5851+ establish the five perfections as spontaneous expressions of dharmatā.
@@ -2292,7 +2292,7 @@ The preamble (*gleng gzhi*) serves as:
 
 In Dzogchen, the preamble is not merely introductory but reveals the primordial teaching situation that has always been present.
 
-[5852-5867] [CONCEPT]
+[5852-5867] <concept>
 Samsara as Five Perfections
 **Analysis:** Lines 5852-5867 present the philosophical inversion where samsara itself appears as five perfections:
 
@@ -2335,7 +2335,7 @@ In brief, mind's deluded appearance arising, own-mind samsara dharmas five, gath
 :**
 "From appearance-grasping aspect, outer objects appear like retinue."
 
-[5868-5934] [CONTEXT]
+[5868-5934] <context>
 Common Preamble Explanation
 **Analysis:** Lines 5868-5934 present the common preamble as taught in other vehicles:
 
@@ -2383,7 +2383,7 @@ These words too from hearer's vijnana, no sound or letter in meaning. Like echo,
 
 3. **Nirmanakaya location**: Tushita, etc., teacher Vajradhara Vajrasattva wisdom-maya kaya, retinue world-transcending fortunate guides, Bodhisattvas, siddhas, wisdom dakinis, worldly gods, humans, asuras, nagas, etc., dharma sutra-tantra inconceivable, time from infinite years to hundred years teaches.
 
-[5989-6019] [PHILOLOGY]
+[5989-6019] <philology>
 "Thus I Heard" Analysis
 **Analysis:** Lines 5989-6019 analyze the grammatical and philosophical significance of the preamble formula "Thus I heard at one time" (*'di skad bdag gis thos pa dus gcig na*):
 
@@ -2439,7 +2439,7 @@ Melody section would not be possible — absurd. Title also twice shown would be
 :**
 Meaning-tantra arising shown by uncommon preamble; word-tantra arising shown by common preamble. Without contradiction, moreover extremely connected shown.
 
-[6020-6059] [STRUCTURE]
+[6020-6059] <structure>
 Definitive Scriptures Section
 **Analysis:** Lines 6020-6059 mark the transition to the third topic: definitive prophecy (*dam pa nges pa'i lung bstan*):
 
@@ -2486,7 +2486,7 @@ Miraculous birth, womb-born, heat and womb-born, ripen beings. From this taming 
 
 Depending on body, speech, mind, appeared to taming object beings."
 
-[6065-6120] [CONTEXT]
+[6065-6120] <context>
 Teaching Transmission Timeline
 **Analysis:** Lines 6065-6120 present the detailed timeline of teaching transmission:
 
@@ -2559,7 +2559,7 @@ Extensive verses describing the king with six fingers, green-faced so-lha, black
 
 Each location has specific duration of teaching preservation, from 120 years to 1400 years, followed by dark aeons of varying lengths.
 
-[6121-6196] [CONTEXT]
+[6121-6196] <context>
 Continued Transmission History
 **Analysis:** Lines 6121-6196 continue the detailed transmission timeline:
 
@@ -2571,7 +2571,7 @@ Then east Beneficial River (*bde ba'i klung*), Diamond Arising Mountain peak, te
 
 **West Auspicious Continent
 
-[6139-6176] [CONTEXT]
+[6139-6176] <context>
 Continued Transmission Narrative
 **Analysis:** Lines 6139-6176 continue the detailed transmission timeline across world-systems:
 
@@ -2635,13 +2635,13 @@ In this Jambudvipa too, from now until life's ten years, seven-fold flourishing 
 
 **Citation from *A ti bkod pa chen po*
 
-[6197-6281] [CONTEXT]
+[6197-6281] <context>
 Detailed Prophecy of Degeneration
 **Analysis:** Lines 6197-6281 present extensive prophecies from *Thal 'gyur* about teaching decline:
 
 **Citation from *Thal 'gyur*
 
-[6197-6281] [CONTEXT]
+[6197-6281] <context>
 Prophecy of Teaching Decline
 **Analysis:** Lines 6197-6281 present detailed prophecies about the decline of the teaching:
 
@@ -2781,7 +2781,7 @@ Thus seven stages Jambudvipa flourishing and decline makes.
 :**
 Then at Vulture Peak, monk Beautiful-youth (*mdzes byed gzhon nu*) holds it for 550 years. After that, in Jambudvipa's border, Kashmir land, sound-endowed city, a bird-body human-face being born into low caste family causes sixty years of darkness ten years after birth.
 
-[6282-6295] [CONTEXT]
+[6282-6295] <context>
 Transference of Teachings
 **Analysis:** Lines 6282-6295 explain the transference of teachings to other world-systems:
 
@@ -2796,7 +2796,7 @@ Again those three north Vast-protection (*yangspy ob*) world transfer. Buddha Ut
 
 **Seven Hundred Thousand Years
 
-[6282-6295] [CONTEXT]
+[6282-6295] <context>
 Teaching Transference to Other Fields
 **Analysis:** Lines 6282-6295 complete the teaching transference narrative:
 
@@ -2817,7 +2817,7 @@ After seven cycles complete, and life's ten years pass, teaching's three support
 
 **Citations from *Thal 'gyur*
 
-[6282-6347] [CONTEXT]
+[6282-6347] <context>
 Transference and Renewal
 **Analysis:** Lines 6282-6347 complete the cyclical narrative of teaching transference:
 
@@ -2903,7 +2903,7 @@ Teaching's three supports, Vajradhara's great deeds completed, dissolve into dha
 
 **Cyclic Renewal
 
-[6296-6341] [CONTEXT]
+[6296-6341] <context>
 Cyclic Renewal of Teachings
 **Analysis:** Lines 6296-6341 describe the cyclic renewal process:
 
@@ -2915,7 +2915,7 @@ Then again beings appearing from expanse, emanation arranges Brahma, from aeon s
 
 **Citation from *Thal 'gyur*
 
-[6296-6341] [CONTEXT]
+[6296-6341] <context>
 Cyclic Renewal of Teachings
 **Analysis:** Lines 6296-6341 describe the cyclical renewal of teachings:
 
@@ -3005,7 +3005,7 @@ This completes the scholar analysis of Volume 1, Pages 133-160 of the *Theg mcho
 
 The analysis demonstrates Longchenpa's sophisticated integration of Indian tantric phonetics, Tibetan grammatical science, and Dzogchen philosophical interpretation.
 
-[6343-6382] [STRUCTURE]
+[6343-6382] <structure>
 Three Kayas as Teaching Modalities
 
 [6343-6346]
@@ -3027,7 +3027,7 @@ These manifest only in superior human and god realms (lha mi bsod nams khyad par
 **Terma and Blessing Power:**
 Quotations from *Thal 'gyur* demonstrate that through encountering this Secret Great Vehicle (gsang chen nges pa 'di), liberation occurs without effort ('bad med par grol ba). The teaching's color (bstan pa'i kha dog) inscribed and worn at the left armpit (mchan khung gya
 
-[6383-6419] [PHILOLOGY]
+[6383-6419] <philology>
 Technical Terminology Analysis
 
 **Key Terms:**

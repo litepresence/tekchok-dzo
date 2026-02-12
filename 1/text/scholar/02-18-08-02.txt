@@ -1,4 +1,4 @@
-[5035-5037] [CONTEXT]
+[5035-5037] <context>
 Multiple Tantric Sources
 **Analysis:** The section integrates sources from various classes:
 - *Atiyoga* (*Yi ge med pa*, *Thal 'gyur*): Highest yoga
@@ -7,7 +7,7 @@ Multiple Tantric Sources
 
 This reflects Longchenpa's encyclopedic approach, integrating sources across the *nine vehicles* (*theg pa dgu*). The voice alternates between citation and commentary, with *zhes so* marking quotations and *zhes bya* marking definitional statements.
 
-[5035-5037] [CONCEPT]
+[5035-5037] <concept>
 Vision Characteristics and Practice Methods
 **Analysis:** The section presents the characteristics (*mtshan nyid*) of dharmata direct perception vision:
 
@@ -28,7 +28,7 @@ The practice method at 5034-5037 presents a graduated approach:
 
 This mirrors the standard *bsgom rim* (meditation stages) but adapted to Dzogchen's direct approach.
 
-[5038-5062] [STRUCTURE]
+[5038-5062] <structure>
 Result and Liberation Dynamics
 **Analysis:** The section presents the result (*'bras bu*) of dharmata direct perception practice. The structure:
 1. Citation from *Sgron ma 'bar ba* (5038-5042): Dhatu makes awareness's field; vajra is hanging-cord
@@ -37,7 +37,7 @@ Result and Liberation Dynamics
 
 The phrase *rang bzhin gyis gnas* (5048) indicates natural abiding, the *prakrti-stha* concept of innate liberation.
 
-[5038-5062] [PHILOLOGY]
+[5038-5062] <philology>
 Dissolution Terminology and Liberation Mechanics
 **Analysis:** The result description uses a cascade of dissolutions:
 - Outer dhatu-vision, eye unmoving → inner awareness abides in base (*gzhis*)
@@ -48,7 +48,7 @@ Dissolution Terminology and Liberation Mechanics
 
 The term *thim* (dissolve) appears multiple times (5045, 5047, 5057), marking the progressive deepening of realization. The negative determinations at 5055-5058 establish the *apophatic* nature of liberation: not untying (*bkrol ba ma yin*), nature aimless (*rang bzhin dmigs med*), partless (*cha shas med*).
 
-[5038-5062] [CONTEXT]
+[5038-5062] <context>
 Scriptural Authority and Terminological Integration
 **Analysis:** The citation from *Sgron ma 'bar ba* (Blazing Lamp) at 5038-5042 establishes the technical terms:
 - Dhatu (*dbyings*): Makes awareness's self-field (*rang yul*)
@@ -60,7 +60,7 @@ The *Thal 'gyur* citation at 5050-5062 presents the progressive epistemic struct
 
 This reflects the *pratyaksa-parijna* (direct perception-complete knowledge) to *vimukti* (liberation) progression in Buddhist soteriology.
 
-[5063-5079] [CONCEPT]
+[5063-5079] <concept>
 Increasing Experience Vision
 **Analysis:** The section transitions to the second vision (*snang ba gnyis pa*): experience increasing above (*nyams gong 'phel*). The structure:
 1. Brief indication (5065-5068): Purifying dhatu-awareness above-above

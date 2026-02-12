@@ -1,9 +1,9 @@
 [5963-5975]
 : gzhi (ground), lam (path), 'bras bu (result): classical Buddhist triad. sems nyid chos sku (mind itself dharmakāya): mind's nature is dharmakāya—not transformation but recognition.
 
-[CONTEXT] This passage concludes the detailed analysis of Tögal practice with the mind's three immovabilities. The progression from body (physical) to wind (energetic) to mind (cognitive) represents the standard subtle-body hierarchy in tantric Buddhism. The verse citation emphasizes mind-itself (sems nyid) as dharmakāya—a key Dzogchen formulation distinguishing between ordinary mind (sems) and mind-nature (sems nyid). The integration of ground-path-result (gzhi-lam-'bras bu) provides the overarching framework for understanding Dzogchen as both transcendence of and completion within Buddhist soteriology.
+<context> This passage concludes the detailed analysis of Tögal practice with the mind's three immovabilities. The progression from body (physical) to wind (energetic) to mind (cognitive) represents the standard subtle-body hierarchy in tantric Buddhism. The verse citation emphasizes mind-itself (sems nyid) as dharmakāya—a key Dzogchen formulation distinguishing between ordinary mind (sems) and mind-nature (sems nyid). The integration of ground-path-result (gzhi-lam-'bras bu) provides the overarching framework for understanding Dzogchen as both transcendence of and completion within Buddhist soteriology.
 
-[CONCEPT]
+<concept>
 • Mind's three immovabilities:
   - Without thought: non-conceptual presence
   - Without distraction: continuous awareness
@@ -33,7 +33,7 @@ Line
 [5981-6020]
 , concluding with synthesis statements. The passage employs comparative reasoning and teleological analysis.
 
-[PHILOLOGY] Line
+<philology> Line
 
 [5981-5990]
 : sa bcu (ten bhūmis): rab tu dga' ba (Perfect Joy), dri ma med pa (Stainless), 'od byed pa (Luminous), 'od 'phro ba (Radiant), sbyang dka' ba (Difficult to Purify), mngon du gyur pa (Manifest), ring du song ba (Gone Far), mi g.yo ba (Immovable), legs pa'i blo gros (Perfect Intellect), chos kyi sprin (Cloud of Dharma).
@@ -43,9 +43,9 @@ Line
 [5991-6020]
 : Detailed correspondence between each bhūmi and Dzogchen realization stages: bden pa mthong ba (truth-seeing), rang gi snang ba (self-display), goms pa (familiarization), 'od kyi snang ba (light vision), ye shes kyi snang ba (wisdom vision), 'od las thal ba'i sku (body from light ashes), nyon mongs pa ring du song ba (afflictions gone far), mi g.yo ba (non-moving), yon tan rdzogs pa (qualities complete), chos thams cad kyi sprin lta bur (like cloud of all dharmas).
 
-[CONTEXT] This passage addresses the crucial question of Dzogchen's relationship to classical Mahāyāna soteriology. Rather than rejecting the ten bhūmis, Longchenpa integrates them as descriptive categories for stages of recognition. Each bhūmi corresponds to specific Dzogchen phenomenology: first bhūmi to initial truth-seeing, second to recognizing self-display, and so forth. This integration demonstrates Nyingma's synthetic approach—affirming the validity of gradual paths while asserting Dzogchen's superiority as direct recognition.
+<context> This passage addresses the crucial question of Dzogchen's relationship to classical Mahāyāna soteriology. Rather than rejecting the ten bhūmis, Longchenpa integrates them as descriptive categories for stages of recognition. Each bhūmi corresponds to specific Dzogchen phenomenology: first bhūmi to initial truth-seeing, second to recognizing self-display, and so forth. This integration demonstrates Nyingma's synthetic approach—affirming the validity of gradual paths while asserting Dzogchen's superiority as direct recognition.
 
-[CONCEPT]
+<concept>
 • Ten bhūmi-Dzogchen correspondence:
   1. Perfect Joy: truth-seeing, joy arises
   2. Stainless: recognizing self-display
@@ -83,14 +83,14 @@ Line
 [6061-6080]
 . The structure employs enumeration, comparative analysis, and phenomenological description of advanced stages.
 
-[PHILOLOGY] Line
+<philology> Line
 
 [6061-6080]
 : Verse citation on thugs ka (heart center), ye shes kyi zer thag (wisdom light-rays), nam mkha'i mthongs (sky's expanse), 'od kyi tshom bu lnga (five light spheres), 'khor lo (wheel/chakra).
 
-[CONTEXT] This passage extends the bhūmi analysis beyond the classical ten to eleven and twelve, reflecting Dzogchen's expansion of the bodhisattva path. The distinction between those who maintain (sbubs ma bor ba) and abandon (sbubs bor ba) the retreat center reflects the institutional context of Dzogchen practice—long-term retreat (sbubs) as prerequisite for advanced realization. The eleventh bhūmi (Universal Light) marks cessation of delusory appearance, while the twelfth (Lotus Holder Non-Attachment) indicates complete freedom from all phenomenal stains. The heart-center imagery and five light spheres reflect subtle body physiology integrated with cosmic symbolism.
+<context> This passage extends the bhūmi analysis beyond the classical ten to eleven and twelve, reflecting Dzogchen's expansion of the bodhisattva path. The distinction between those who maintain (sbubs ma bor ba) and abandon (sbubs bor ba) the retreat center reflects the institutional context of Dzogchen practice—long-term retreat (sbubs) as prerequisite for advanced realization. The eleventh bhūmi (Universal Light) marks cessation of delusory appearance, while the twelfth (Lotus Holder Non-Attachment) indicates complete freedom from all phenomenal stains. The heart-center imagery and five light spheres reflect subtle body physiology integrated with cosmic symbolism.
 
-[CONCEPT]
+<concept>
 • Eleventh and twelfth bhūmis:
   - Universal Light: delusion ceases, sphere vision
   - Lotus Holder: non-attachment to all dharmas

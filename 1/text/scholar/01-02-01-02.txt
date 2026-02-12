@@ -1,4 +1,4 @@
-[892-900] [CONTEXT]
+[892-900] <context>
 # The Reversal and Maitreya
 **Analysis:** After reaching the nadir (100-year lifespan, extreme degeneration), the cycle reverses:
 - Lifespan gradually increases again
@@ -11,7 +11,7 @@ This cyclical cosmology (*bskal pa'i 'khor lo*) represents:
 - **Regressive phase:** Accumulation of virtue
 - **Complete cycle:** One Fortunate Aeon (*bskal pa bzang po*)
 
-[901-910] [CONCEPT]
+[901-910] <concept>
 # The Essence of Cosmology
 **Analysis:** Longchenpa concludes this section by emphasizing that all these cosmological descriptions serve one purpose: pointing to the nature of mind. The:
 - External elements (*'byung bzhi*) → Internal winds (*rlung*)
@@ -21,7 +21,7 @@ This cyclical cosmology (*bskal pa'i 'khor lo*) represents:
 
 The Dzogchen view transcends literal cosmology—whether the world lasts 80,000 years or will be destroyed tomorrow, the (*chos nyid*) nature of phenomena remains unchanged. Recognition is equally available in all circumstances.
 
-[911-920] [STRUCTURE]
+[911-920] <structure>
 # Transition to the Next Topic
 **Analysis:** The text transitions from cosmology to the specific field where our teacher (*ston pa*) manifests. Having established the general container (*snod*), Longchenpa now focuses on:
 - The specific location (*gnas*)
@@ -32,7 +32,7 @@ The Dzogchen view transcends literal cosmology—whether the world lasts 80,000 
 
 This fivefold structure (*phun sum tshogs pa lnga*) will organize the next section.
 
-[916-918] [STRUCTURE]
+[916-918] <structure>
 # Transition to the Six Realms (ṣaḍgatī)
 **Analysis:** Having established the five perfections of the Buddha's appearance in our world-system, Longchenpa transitions to describing the cosmological framework within which sentient beings arise. This section delineates the six realms of saṃsāric existence.
 
@@ -42,7 +42,7 @@ This fivefold structure (*phun sum tshogs pa lnga*) will organize the next secti
 
 This binary division reflects the fundamental saṃsāric dichotomy between severe suffering and relative pleasure.
 
-[919-922] [PHILOLOGY]
+[919-922] <philology>
 Analysis of Hell Realm Terminology
 **Analysis:**
 - *dmyal ba* (hell): From root meaning "torture, affliction." The eight hot hells (*tsha dmyal brgyad*) are enumerated from Yama-soothed (*yang sos*) upward in intensity.
@@ -52,7 +52,7 @@ Analysis of Hell Realm Terminology
 
 **Grammar Note:** *dpag tshad nyi khri nyi khri* (twenty-thousand twenty-thousand leagues) uses reduplication for emphasis, indicating vast depth rather than precise measurement.
 
-[921-930] [STRUCTURE]
+[921-930] <structure>
 # The Five Perfections Framework
 **Analysis:** Longchenpa introduces the (*phun sum tshogs pa lnga*) five perfections as the organizing principle for describing our world's Buddha-field:
 
@@ -64,7 +64,7 @@ Analysis of Hell Realm Terminology
 
 This schema derives from *sūtra* literature (particularly *Avataṃsaka*) but is here applied specifically to the Dzogchen manifestation in our Sahā world.
 
-[923-926] [CONTEXT]
+[923-926] <context>
 The Preta and Animal Realms in Buddhist Cosmology
 **Analysis:**
 
@@ -78,7 +78,7 @@ The Preta and Animal Realms in Buddhist Cosmology
 - Dispersed manifestation: Scattered throughout human/god realms
 - Doxographical note: In Yogācāra systems, animals represent delusion (*gti mug*), one of the three poisons.
 
-[927-928] [CONCEPT]
+[927-928] <concept>
 The Asura and Deva Realms
 **Analysis:**
 
@@ -91,7 +91,7 @@ The Asura and Deva Realms
 - Location: Above Mount Meru's tiers (*bang rim*), ascending hierarchically
 - Twenty-seven levels in standard Buddhist cosmology, from Four Great Kings up to Neither Perception Nor Non-Perception
 
-[929-935] [CONTEXT]
+[929-935] <context>
 The Four Great Kings and Their Domains
 **Analysis:**
 
@@ -110,7 +110,7 @@ Seven concentric mountain rings (*ri bdun*) surround Mount Meru, containing:
 
 These yakshas embody the forces that govern worldly fortune and misfortune.
 
-[931-940] [CONTEXT]
+[931-940] <context>
 # Field Perfection: Our Location
 **Analysis:** The specific field is identified as:
 - **Name:** Sahā (*mi mjed*) — "endurable," the world of forbearance
@@ -121,7 +121,7 @@ These yakshas embody the forces that govern worldly fortune and misfortune.
 
 The "endurable" quality indicates that beings here can endure suffering—and thus are motivated to seek liberation.
 
-[936-940] [CONCEPT]
+[936-940] <concept>
 The Karmic Function of Guardian Deities
 **Analysis:**
 
@@ -135,7 +135,7 @@ Longchenpa describes these yakshas as actively sending (*gtong*) the four calami
 
 The seven "paralyzing mother-goddesses" (*rengs byed kyi ma mo bdun*) function as karmic administrators, controlling (*dbang byed*) specific actions. This connects to the larger Buddhist framework of dharmapalas and lokapalas who manage the ripening of karma.
 
-[941-950] [CONCEPT]
+[941-950] <concept>
 # The Cosmic Context
 **Analysis:** Our world exists within nested containers:
 
@@ -148,7 +148,7 @@ The seven "paralyzing mother-goddesses" (*rengs byed kyi ma mo bdun*) function a
 
 This hierarchical structure demonstrates both the specificity and universality of the teaching—manifesting precisely here while simultaneously pervading all worlds.
 
-[941-952] [CONTEXT]
+[941-952] <context>
 The Eight Naga Kings and Elemental Cosmology
 **Analysis:**
 
@@ -166,7 +166,7 @@ The Eight Naga Kings and Elemental Cosmology
 
 **Philological Note:** *las nye bar ston par byed* — "make showing near the action" — indicates their role as immediate (*nye bar*) karmic instruments rather than primary causes.
 
-[951-960] [PHILOLOGY]
+[951-960] <philology>
 Analysis of *mi mjed*
 **Analysis:** The term (*mi mjed*) "endurable" derives from the root meaning "to bear, endure, tolerate." In Buddhist cosmology:
 - **Etymology:** *mi* (not) + *mjed* (unable to bear) = able to bear
@@ -175,7 +175,7 @@ Analysis of *mi mjed*
 
 The double negative (*mi mjed* = "not-unable-to-bear" = "able to bear") reflects the dialectical structure of Buddhist thought—suffering itself becomes the path.
 
-[953-954] [STRUCTURE]
+[953-954] <structure>
 The Yakṣa Guardians of the Cardinal Directions
 **Analysis:**
 
@@ -185,7 +185,7 @@ At the four corners (*grwa bzhi*) of Meru's base tier reside the "raising-time y
 
 **Transition:** Having established the container (*snod*) — the cosmic environment — the text will now turn to the contained (*bcud*) — the sentient beings who inhabit these realms.
 
-[955-959] [CONTEXT]
+[955-959] <context>
 Seasonal Cycles and Cosmic Administration
 **Analysis:**
 
@@ -197,7 +197,7 @@ The yakshas and guardian deities regulate the four seasons (*dus bzhi*):
 
 This reflects the Indian agricultural calendar integrated with Buddhist cosmology, where elemental forces are personified as deities managing natural processes.
 
-[960-965] [STRUCTURE]
+[960-965] <structure>
 Definition of "Action Beings" (*las kyi 'gro ba*)
 **Analysis:**
 
@@ -215,7 +215,7 @@ These beings arise simultaneously (*mnyam*) with world-formation (*'jig rten 'ch
 - Beings born from concentration (*bsam gtan*)
 - Beings born from emanation (*sprul pa*)
 
-[961-970] [CONTEXT]
+[961-970] <context>
 # Teacher Perfection: Śākyamuni
 **Analysis:** The teacher of our era:
 - **Clan:** Śākya (*shAkya*) — the solar warrior clan
@@ -225,7 +225,7 @@ These beings arise simultaneously (*mnyam*) with world-formation (*'jig rten 'ch
 
 This is the historical Buddha who appeared approximately 2,500 years ago in the Magadha region of India.
 
-[966-980] [PHILOLOGY]
+[966-980] <philology>
 The Asura Realm: Paradox of Proximity
 **Analysis:**
 
@@ -251,7 +251,7 @@ The Asura Realm: Paradox of Proximity
 - *bzod par dka' ba* — Difficult-to-endure (elephant)
 - *rab myur* — Very Swift (horse)
 
-[971-980] [STRUCTURE]
+[971-980] <structure>
 # The Twelve Deeds
 **Analysis:** The teacher's activity is summarized through the twelve deeds (*mdzad pa bcu gnyis*):
 
@@ -268,7 +268,7 @@ The Asura Realm: Paradox of Proximity
 11. **Turning** the Dharma-wheel
 12. **Parinirvāṇa** at Kuśinagara
 
-[981-990] [CONCEPT]
+[981-990] <concept>
 # Retinue Perfection
 **Analysis:** The teaching audience includes:
 
@@ -279,7 +279,7 @@ The Asura Realm: Paradox of Proximity
 
 The assembly is described as (*dpag tu med pa*) "immeasurable" and (*grangs med pa*) "countless" — indicating the teaching's universal scope.
 
-[981-988] [CONCEPT]
+[981-988] <concept>
 The Nature of Asura Enjoyment
 **Analysis:**
 
@@ -291,7 +291,7 @@ The text enumerates asura possessions:
 
 **Dzogchen Relevance:** This parallels the distinction between ordinary mind (*sems*) and pristine awareness (*rig pa*) — one can have all external conditions without recognition.
 
-[989-994] [CONTEXT]
+[989-994] <context>
 The Six Desire God Realms (*'dod lha'i gnas drug*)
 **Analysis:**
 
@@ -311,7 +311,7 @@ These map onto celestial bodies and geographical features:
 - Four continents (*gling bzhi*) centering on snow mountain
 - Groves, cities, and various abodes
 
-[991-996] [CONTEXT]
+[991-996] <context>
 # Teaching Perfection: The Three Baskets
 **Analysis:** The teaching is presented as the (*sde snod gsum*) three baskets:
 
@@ -321,7 +321,7 @@ These map onto celestial bodies and geographical features:
 
 Plus the tantras (*rgyud*), which in Nyingma understanding are the esoteric dimension of the Buddha's teaching. The total enumeration: (*khri phrag brgyad*) 18,000 texts — indicating completeness.
 
-[995-996] [PHILOLOGY]
+[995-996] <philology>
 The Four Desire Realm Tiers (*bang rim bzhi*)
 **Analysis:**
 
