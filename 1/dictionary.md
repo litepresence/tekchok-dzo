@@ -56,9 +56,21 @@
 | spyod pa | conduct / behavior | Activity | "conduct" | "conduct" or "activity" | Integration of view in action |
 | 'bras bu | fruition | Result | "fruition" | "Fruition" | Third of view-meditation-fruition |
 | thal 'gyur | thalgyur / consequent | Tantra of Great Completion | "thalgyur" | "Thalgyur" | Specific tantra title - transliterate |
+| rig pa rang shar | Rigpa Rangshar / Great Tantra of Rigpa Rangshar | Self-arisen awareness tantra | "rigpa rangshar" | "Rigpa Rangshar" or "Great Tantra of Rigpa Rangshar" | Specific tantra title - always capitalize |
+| rgyud | tantra | Continuity/scripture | "tantra" | "Tantra" (when referring to specific texts) | Capitalize when part of title |
 | rdzogs pa chen po | great completion / dzogchen | Dzogchen | "great-completion" | "Great Completion" or "Dzogchen" | Use "Dzogchen" when referring to system |
 | rang shar | self-arisen / self-luminous | Spontaneously arisen | "self-arisen" | "self-arisen" or "spontaneously arisen" | Emphasize non-fabrication |
 | gzhon nu bum sku | youth vase body | Dzogchen basis metaphor | "youth-vase-body" | "youth vase body" | "Youth" = ever-fresh, primordial; "Vase" = container of qualities; "Body" = dimension/form. Represents basis as youthful (ever-new), vase-like (containing all qualities), and embodied (manifest yet empty). |
+
+---
+
+## RITUAL AND PRACTICE TERMS
+
+| Tibetan | English | Context | Literal | Liturgical | Notes |
+|---------|---------|---------|---------|------------|-------|
+| dbang | empowerment | Initiation ritual | "empowerment" | "Empowerment" (capitalized when technical) | Four Empowerments = dbang bzhi; bestows authority to practice |
+| dam tshig | samaya | Sacred commitment | "samaya" | "Samaya" (capitalized when technical) | Vows and commitments in Vajrayana; root and branch samayas |
+| dkyil 'khor | mandala | Sacred enclosure / cosmic diagram | "mandala" | "Maṇḍala" (capitalized with diacritic) | Diacritic on 'ṇ' in technical contexts; represents pure vision of reality |
 
 ---
 

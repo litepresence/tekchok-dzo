@@ -50,13 +50,20 @@ Capitalization in Dharma translations follows these principles:
 - **Anuyoga**
 
 ### Technical Terms (When Technical/Specific)
-- **Ground** (gzhi as ontological foundation)
+- **Ground** / **Basis** (gzhi as ontological foundation)
 - **View** (lta ba as philosophical position)
 - **Path** (lam as the method)
 - **Fruition** ('bras bu as the result)
 - **Base** (alternative to Ground)
 - **Great Perfection** (rdzogs pa chen po as system)
 - **Supreme Vehicle** (theg pa'i mchog as title)
+
+### Classes of Beings (When Referring to Categories)
+- **Preta** / **Pretas** (hungry ghosts)
+- **Naga** / **Nagas** (serpent beings) - also **Naga-king** / **Naga kings**
+- **Yaksha** / **Yakshas** (nature spirits)
+- **Asura** / **Asuras** (demigods)
+- **Demigod** / **Demigods** (when referring to the class)
 
 ### Sanskrit Terms (Technical Usage)
 - **Vidya** (rig pa as primordial awareness)
@@ -74,6 +81,8 @@ Capitalization in Dharma translations follows these principles:
 
 ### Textual References (Specific Titles)
 - **Thalgyur** / **Thal 'Gyur** (specific tantra)
+- **Rigpa Rangshar** / **Great Tantra of Rigpa Rangshar** (specific tantra)
+- **Great Magical Net of Vajrasattva** (specific tantra)
 - **Guhyagarbha** (if referenced)
 - **Treasury of the Supreme Vehicle** (as title of this text)
 - **Seven Treasuries** (Longchenpa's collection)
@@ -82,6 +91,7 @@ Capitalization in Dharma translations follows these principles:
 - **Akanishta** / **Akaniṣṭha** ('og min)
 - **Sukhavati** (bde ba can)
 - **Mount Meru** / **Sumeru** (ri rab)
+- **Jambu-continent** / **Jambudvīpa** ('dzam bu gling)
 - **Vajra-peak** / **Vajrasana** (when referring to the site of enlightenment)
 
 ### Ritual & Practice Terms (When Technical)
@@ -261,5 +271,5 @@ Before finalizing any translation layer, verify:
 
 **Living Document**: Update this file as new terminology standards emerge or project needs evolve.
 
-**Last Updated**: 2026-02-10
+**Last Updated**: 2026-02-13
 **Status**: Active
