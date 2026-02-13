@@ -9,16 +9,16 @@
 
 ---
 
-## CRITICAL PURPOSE: POINTING, NOT EXPLAINING
+## CRITICAL PURPOSE: RESONATING, NOT FORCING
 
 **The Commentary Layer serves transmission by:**
-- **POINTING to recognition** (not explaining concepts)
-- **UNLOCKING terma code** (not academic analysis)
+- **RESONATING from recognition** (heart-to-heart, not head-to-head)
+- **CREATING CONDITIONS** for recognition to arise naturally (not forcing it)
 - **SPEAKING FROM realization** (not ABOUT realization)
-- **SHAKING complacency** with plain speech
+- **INVITING through heart-essence** (snying po) rather than demanding
 - **DEMONSTRATING real-time understanding** in preparation for translation
 
-**Traditional Function:** In Dzogchen, commentary (*'grel pa*) transmits heart-instructions (*man ngag*) that cut through to recognition. It does not explain the text academically—it embodies what the text points to.
+**Traditional Function:** In Dzogchen, commentary (*'grel pa*) transmits heart-instructions (*man ngag*) that create the atmosphere where recognition can dawn. It does not explain academically, nor does it force recognition—it embodies the warm, realized presence that invites recognition.
 
 ---
 
@@ -73,9 +73,9 @@ Example:
 - ❌ "Longchenpa teaches that..." (about)
 - ✅ "This is what you are..." (from)
 
-**POINTING not EXPLAINING:**
-- ❌ "The aggregates are five skandhas..." (explaining)
-- ✅ "Look at your mind right now—what do you see?" (pointing)
+**RESONATING not FORCING:**
+- ❌ "Look at your mind right now—you must see this!" (forcing)
+- ✅ "This old fool watched his mind for years before seeing..." (resonating)
 
 **UNLOCKING TERMA CODE:**
 - Use traditional unlocking phrases
@@ -125,8 +125,9 @@ Example:
 **Voice 01 (First Point) - Intensity 0.95:**
 ```
 [start-end]
-Three words. Recognize. Stop. The searching itself is what you seek.
-Do not look. Do not try. Just—this.
+Three words. See what is. Rest. The searching itself reveals what
+was never lost. No need to look elsewhere. This very awareness—
+already complete.
 ```
 
 **Voice 13 (Vagabond) - Intensity 0.70:**
@@ -138,12 +139,13 @@ Finally his last stick of tsampa ran out and he laughed. The hunger
 was the teaching.
 ```
 
-**Voice 20 (Lion-Faced) - Intensity 1.0 [SHOCKING]:**
+**Voice 20 (Lion-Faced) - Intensity 1.0 [FIERCE YET SPACIOUS]:**
 ```
 [start-end]
-The obstacle is not removed. It is liberated where it stands. Cut
-through now. Not tomorrow. Not after practice. NOW. The hesitation
-itself is the only enemy.
+This very hesitation—look closely. Does it have a root? A center? A
+place where it holds? The looking itself is the cutting. No need to
+force. No need to wait. This moment, complete as it is, already
+contains what you seek.
 ```
 
 **Voice 10 (Longchenpa) - Intensity 0.60 [BRIDGE]:**
@@ -210,15 +212,67 @@ remaining undisturbed.
 - "The framework reveals..."
 - "Analysis proceeds..."
 
-### Lion-Faced (Varied cutting):
-- "Cut through."
-- "Liberate NOW."
-- "Sever immediately."
-- "Slash through hesitation."
-- "Break through."
-- "Cut!"
-- "Liberate!"
-- "Sever!"
+### Lion-Faced (Fierce yet spacious):
+- "This very hesitation—look closely. Does it have a root?"
+- "The looking itself is the cutting. No need to force."
+- "What waits for tomorrow? Tomorrow never arrives. This moment is already complete."
+- "See the nature of what binds. Is there anything truly holding?"
+- "The obstacle is not removed. It is recognized as never having been."
+- "Where is the hesitation? Look now, and it dissolves itself."
+- "Complete as it is, already. No need to wait. No need to struggle."
+
+---
+
+## FIERCE YET SPACIOUS: THE WRATHFUL HEART
+
+**Wrathful voices remain essential to Dzogchen transmission**, but their energy shifts from **commanding** to **inviting through intensity**.
+
+### The Difference:
+
+**OLD (Commanding):**
+- "CUT THROUGH NOW! Liberate immediately!"
+- Demands action from the reader
+- Creates pressure and urgency
+- Suggests the reader is failing if they don't comply
+
+**NEW (Fierce yet spacious):**
+- "This very hesitation—does it have a root? Look closely."
+- Invites investigation through intensity
+- Creates space while maintaining edge
+- Points to the nature of what is, not what should be
+
+### Wrathful Voice Guidelines:
+
+**DO:**
+- Use sharp, penetrating language that cuts conceptual mind
+- Maintain intensity and directness
+- Point to the immediacy of recognition
+- Show the futility of delay and hesitation
+- Create urgency through insight, not pressure
+
+**DON'T:**
+- Command the reader to "do" something
+- Create guilt or inadequacy
+- Use aggressive imperatives ("You must," "Stop now!")
+- Imply the reader is failing if they don't immediately recognize
+
+### Examples of Fierce-Resonating Wrathful:
+
+**Lion-Faced:**
+❌ "Wake up! Stop dreaming! The time is NOW!"
+✓ "This very dream—who is dreaming it? Look. The dreamer cannot be found."
+
+**Diamond Wrath:**
+❌ "Sever attachment immediately! Cut through NOW!"
+✓ "Attachment appears—but where does it hold? Search for the one who clings. Empty."
+
+**Great Wrath:**
+❌ "Stop seeking! You are already enlightened! See it NOW!"
+✓ "Seeking for what was never lost—the search itself is the finding. Rest here."
+
+### The Heart of Wrath:
+
+Wrathful compassion is **fierce love**, not angry command. It cuts through delusion by revealing its groundless nature, not by forcing recognition. The wrathful voice says: "See how futile your struggle is—not to make you feel bad, but to show you the freedom already present."
 
 ---
 
@@ -243,11 +297,13 @@ remaining undisturbed.
 **Before completing each section:**
 1. ✅ Are voices distinct? (Know who's speaking without labels?)
 2. ✅ Are metaphors fresh? (No repetition within 5 sections?)
-3. ✅ Is there shocking variety? (Not all peaceful?)
+3. ✅ Is there variety? (Peaceful, fierce-yet-spacious, earthy?)
 4. ✅ Does Longchenpa bridge effectively?
 5. ✅ Are there authentic "Patrul-like" moments?
+6. ✅ Is the tone resonating rather than forcing? (Heart-essence, not demand)
+7. ✅ Do wrathful voices invite through intensity rather than command?
 
-**Final Test:** Read aloud. Should feel like **living masters gathered**, each speaking from recognition.
+**Final Test:** Read aloud. Should feel like **living masters gathered around a fire**, each speaking from heart-recognition, creating warmth and space where insight can arise naturally—not a demanding teacher forcing recognition.
 
 ---
 
@@ -309,12 +365,14 @@ See metaphors.md for complete tracking.
 5. ✅ **Shocking Variety:** Is there shocking variety? (Not all peaceful, not all wrathful?)
 6. ✅ **Longchenpa Bridging:** Does Longchenpa bridge effectively between voices?
 7. ✅ **Patrul Authenticity:** Are there authentic "Patrul-like" moments without being repetitive?
-8. ✅ **No Attribution:** Are voices anonymous? (No "Garab Dorje said...")
-9. ✅ **No Modern References:** Are all metaphors natural/pre-industrial?
-10. ✅ **Terminology Check:** Core Dzogchen terms consistent with `dictionary.md`
-11. ✅ **Capitalization Audit:** Every proper noun checked against `capitalize.md`
+8. ✅ **Resonance Check:** Is the tone resonating rather than forcing? (Heart-essence, not demand)
+9. ✅ **Fierce Yet Spacious:** Do wrathful voices invite through intensity rather than command?
+10. ✅ **No Attribution:** Are voices anonymous? (No "Garab Dorje said...")
+11. ✅ **No Modern References:** Are all metaphors natural/pre-industrial?
+12. ✅ **Terminology Check:** Core Dzogchen terms consistent with `dictionary.md`
+13. ✅ **Capitalization Audit:** Every proper noun checked against `capitalize.md`
 
-**Final Test:** Read aloud. Should feel like a lively gathering of realized masters, each speaking from their recognition, creating a polyphonic transmission impossible to replicate with AI pattern-matching.
+**Final Test:** Read aloud. Should feel like **living masters gathered in heart-recognition**, each voice resonating the snying po (heart-essence) of the text—warm, inviting, and spacious, even in fierce voices.
 
 ---
 

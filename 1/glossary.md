@@ -158,3 +158,218 @@ This glossary documents lineage-specific terms, proper names, and technical voca
 ---
 
 *Last Updated: Chapter 4 documentation created*
+
+---
+
+## SANSKRIT TERMS IN EWTS (Extended Wylie Transliteration)
+
+**ACQUAINTANCE:** This section documents Sanskrit loanwords as they appear in the Wylie transliteration layer. The Wylie layer uses THL Extended Wylie (EWTS) conventions, which employ capital letters to represent Sanskrit characters not found in standard Tibetan.
+
+### EWTS Capitalization Conventions
+
+| Convention | EWTS | Represents | IAST Equivalent |
+|------------|------|------------|-----------------|
+| **Long vowels** | A I U | ā ī ū | ā ī ū |
+| **Retroflex consonants** | Ta Tha Da Na | ṭa ṭha ḍa ṇa | ṭa ṭha ḍa ṇa |
+| **Retroflex sibilants** | Sha | śa | śa |
+| **Anusvara** | M | ṃ | ṃ |
+| **Visarga** | H | ḥ | ḥ |
+| **Subscribed letters** | + | stacked/subjoined | (varies) |
+
+**Reference:** [THL Extended Wylie Transliteration Scheme](https://www.thlib.org/reference/transliteration/#!essay=/thl/ewts)
+
+### Common Sanskrit Terms
+
+| EWTS | IAST | Tibetan | Meaning | Context |
+|------|------|---------|---------|---------|
+| yA na | yāna | ཡཱ་ན་ | vehicle, path | nine vehicles (theg pa dgu) |
+| maN+Dal | maṇḍala | མཎྜལ་ | cosmic diagram | ritual and cosmological |
+| shAkya | śākya | ཤཱཀྱ་ | Buddha's clan | historical Buddha |
+| hU~M | hūṃ | ཧཱུྂ་ | mantra syllable | seed syllable of vajra |
+| phaT | phaṭ | ཕཊ་ | mantra syllable | wrathful mantra syllable |
+| kA ya | kāya | ཀཱ་ཡ་ | body, dimension | three kayas |
+| DharmakAya | dharmakāya | ཆོས་སྐུ་ | truth body | dharmakaya |
+| Samantabhadra | samantabhadra | ཀུན་ཏུ་བཟང་པོ་ | primordial Buddha | Adi-Buddha |
+| b+ha ga | bhaga | བྷ་ག་ | fortune, glory | epithet of Buddha |
+| badz+ra | vajra | བཛྲ་ | diamond, thunderbolt | vajra vehicle |
+| rat+na | ratna | རཏྣ་ | jewel, gem | three jewels |
+| pad+ma | padma | པདྨ་ | lotus | lotus family |
+| ku mA ra | kumāra | ཀུ་མཱ་ར་ | youth, prince | name forms |
+| krI ya | kriyā | ཀྲི་ཡ་ | action | kriya tantra |
+| ma hA | mahā | མ་ཧཱ་ | great | maha-anuyoga |
+| A nu | anu | ཨ་ནུ་ | after, subsequent | anuyoga |
+| yo ga | yoga | ཡོ་ག་ | union | yogatantra |
+| gaN+Da | gaṇḍa | གཎྜ་ | portion, chapter | gaṇḍavyūha |
+| saM b+ha | saṃbha | སམྦྷ་ | together-born | sambhogakaya |
+| AhU~M | aḥhūṃ | ཨཿཧཱུྂ་ | mantra syllables | combined syllables |
+| hrIH | hrīḥ | ཧྲཱིཿ | mantra syllable | compassion syllable |
+| oM | oṃ | ཨོཾ་ | mantra syllable | universal seed syllable |
+| AH | aḥ | ཨཿ | mantra syllable | visarga ending |
+| ba DU r+ya | vaidūrya | བཻ་དཱུ་རྱ་ | lapis lazuli | precious substance |
+| rA ga | rāga | རཱ་ག་ | passion, color | red gem |
+| shaM | śam | ཤམ་ | peace | shamatha |
+| ka ri | kari | ཀ་རི་ | doer, maker | place names |
+| sA lu | śālu | ཤཱ་ལུ་ | rice | food offering |
+| in dra nI | indrāṇī | ཨིནྡྲཱ་ཎཱི་ | Indra's consort | deity name |
+| va rA Na sI | vārāṇasī | བཱ་རཱ་ཎ་སཱི་ | Benares | holy city |
+| ai ND+ra | aiṇḍra | ཨཻཎྜྲ་ | of Indra | directional |
+| Ai rA va ta | airāvata | ཨཻ་རཱ་ཝ་ཏ་ | elephant king | cosmic mountain |
+
+### Extended Wylie Markers
+
+| Marker | Meaning | Example | IAST |
+|--------|---------|---------|------|
+| **~** | nasalization/candrabindu | hU~M | hūṃ |
+| **+** | subscribed/stacked letter | rat+na | ratna |
+| **@#/ ** | ornamental symbol (yig mgo) | @#/ | (yig mgo) |
+| ***/ ** | closing symbol | */ | (shad at line end) |
+
+### Usage Notes
+
+1. **For Scholars:** The Wylie layer maintains EWTS standard throughout. For IAST (academic standard) equivalents, consult this glossary or the Scholar layer analysis.
+
+2. **For Practitioners:** Capital letters in Wylie indicate Sanskrit loanwords. They do not affect pronunciation or meaning—simply recognize them as Tibetan renderings of Sanskrit terms.
+
+3. **Reversibility:** EWTS maintains 1:1 reversibility with Tibetan Unicode. Converting to IAST would lose this reversibility.
+
+4. **Standard:** This project uses THL Extended Wylie as the authoritative standard for transliteration. See THL documentation for complete specification.
+
+---
+
+*Last Updated: 2026-02-13 - Sanskrit EWTS section added*
+
+---
+
+## CHAPTER 11: Channels, Winds, and Bindus
+
+### Subtle Body Anatomy
+
+| Term | Definition | First Appearance |
+|------|------------|------------------|
+| **channel** (rtsa) | Subtle energy channels (nāḍī) through which winds circulate; distinct from physical arteries. | 01-11-01-01:13704 |
+| **wind** (rlung) | Vital energy (prāṇa, vāyu); five winds (life, fire, pervasive, upward, downward) support consciousness. | 01-11-01-01:13704 |
+| **bindu** (thig le) | Energy drops or essences; white and red bindus at crown and navel; basis of subtle experience. | 01-11-02-01:13843 |
+
+### Practice Terms
+
+| Term | Definition | First Appearance |
+|------|------------|------------------|
+| **concentration** (ting nge 'dzin) | Meditative absorption, samādhi; one-pointed stability of mind. | 01-11-03-01:14007 |
+| **absorption** (bsdu) | Gathering or dissolving; elements absorbing into one another at death. | 01-11-04-01:14172 |
+
+---
+
+## CHAPTER 14: All-Ground and Dharmakāya
+
+### Critical Distinctions
+
+| Term | Definition | First Appearance |
+|------|------------|------------------|
+| **all-ground** (kun gzhi) | The ālaya or basis that contains all seeds of samsara; distinct from dharmakāya which is free from all-ground's stains. | 01-14-01-01:17361 |
+| **suchness** (chos nyid) | Dharmatā; reality itself; the nature of phenomena as they are; dharmakāya as suchness-body. | 01-14-02-01:17427 |
+
+---
+
+## CHAPTER 15: Winds and Mind
+
+### Elemental and Energetic Terms
+
+| Term | Definition | First Appearance |
+|------|------------|------------------|
+| **life-wind** (srog rlung) | The vital wind that sustains life; located at the heart. | 01-15-01-01:9765 |
+| **fire-accompanying wind** (me dang mnyam pa'i rlung) | Wind associated with digestion and metabolism. | 01-15-01-01:9775 |
+| **upward-moving wind** (gyen rgyu) | Wind that moves upward; speech and respiratory function. | 01-15-01-01:9780 |
+| **downward-clearing wind** | Wind that moves downward; excretion and reproduction. | 01-15-01-01:9785 |
+| **pervading wind** (khyab byed) | Wind that pervades the entire body; movement and circulation. | 01-15-01-01:9790 |
+
+---
+
+## CHAPTER 17-25: Path and Fruition Terms
+
+### Practice and Realization
+
+| Term | Definition | First Appearance |
+|------|------------|------------------|
+| **empowerment** (dbang) | Abhiṣeka; tantric initiation that authorizes practice; four empowerments. | 02-17-01-01:9820 |
+| **samaya** (dam tshig) | Binding pledge or vow; commitment to the path; root and branch samayas. | 02-17-01-01:9704 |
+| **method** (thabs) | Skillful means, upāya; paired with wisdom; skillful means for liberating beings. | 02-18-01-01:10441 |
+| **wisdom** (shes rab) | Prajñā; discernment that realizes emptiness; transcendent wisdom. | 02-18-01-01:10441 |
+| **mudra** (phyag rgya) | Seal, symbolic gesture, consort; four mudras of Dzogchen. | 02-18-03-01:10750 |
+
+### Liberation and Obscurations
+
+| Term | Definition | First Appearance |
+|------|------------|------------------|
+| **liberation** (grol ba) | Freedom, release; self-liberation (rang grol) recognizes bondage as empty. | 02-18-05-01:11021 |
+| **obscuration** (sgrib pa) | Veil, covering; two obscurations (afflictive and cognitive) obscure the nature. | 02-19-01-01:11200 |
+| **binding** (bcings pa) | Fetter, shackle; samaya as dam ('dam) meaning binding or holding. | 02-19-02-01:11370 |
+
+---
+
+## BARDO CHAPTERS (19, 23)
+
+### Intermediate States
+
+| Term | Definition | First Appearance |
+|------|------------|------------------|
+| **bardo** (bar do) | Intermediate state between death and rebirth; also moment-to-moment gaps in this life. | 02-19-01-01:11200 |
+| **clear light** ('od gsal) | Luminous clarity; dharmakāya at death; fundamental nature of mind. | 02-19-01-01:11250 |
+| **dharmatā-bardo** (chos nyid bar do) | Bardo of reality itself; displays of sounds, lights, rays. | 02-19-02-01:11430 |
+| **becoming-bardo** (srid pa bar do) | Bardo of becoming; seeking rebirth; karmic visions appear. | 02-19-03-01:11600 |
+
+---
+
+## UNIVERSAL TERMS (Appearing Throughout)
+
+### Fundamental Concepts
+
+| Term | Definition | First Appearance |
+|------|------------|------------------|
+| **appearance** (snang ba) | Phenomenal display, manifestation; rang snang (self-appearance), snang stong (appearance-emptiness). | 01-01-01-01:35 |
+| **purity** (dag pa) | Pure, cleansed; primordial purity (ka dag), twofold purity (dag pa gnyis). | 01-08-05-01:10758 |
+| **impure** (ma dag) | Impure, defiled; impure perception vs pure perception. | 01-08-07-01:10870 |
+| **compounded** ('dus byas) | Conditioned, produced; phenomena arising from causes and conditions. | 01-01-01-01:18 |
+| **uncompounded** ('dus ma byas) | Unconditioned, not produced; nirvana is uncompounded. | 01-01-01-01:18 |
+| **effort** (rtsol) | Striving, exertion; effortful practice vs effortless recognition. | 02-18-01-01:10441 |
+| **prostration** (phyag 'tshal) | Homage, reverence; physical and mental homage to enlightened ones. | 01-01-01-01:11 |
+| **mandala** (dkyil 'khor) | Celestial palace, sacred circle; five-family mandala, deity mandalas. | 01-01-02-01:587 |
+
+### Epithets and Titles
+
+| Term | Definition | First Appearance |
+|------|------------|------------------|
+| **Sugata** (bde gshegs) | Bliss-Gone One; epithet of Buddha who has gone to bliss/blissful liberation. | 01-01-01-01:19 |
+| **three kayas** (sku gsum) | The three dimensions of enlightenment: dharmakāya, sambhogakāya, nirmāṇakāya. | 01-01-01-01:17 |
+| **trainee** (gdul bya) | Disciple, one to be tamed/educated; recipient of teachings. | 01-01-01-01:45 |
+| **qualities** (yon tan) | Virtues, enlightened attributes; the qualities of buddhahood. | 01-01-01-01:17 |
+| **emanation** (sprul) | Manifestation, display; nirmāṇa means emanation. | 01-01-01-01:30 |
+
+### Technical Compounds
+
+| Term | Definition | First Appearance |
+|------|------------|------------------|
+| **view-meditation-conduct** (lta sgom spyod) | The three aspects of practice: view (understanding), meditation (familiarization), conduct (integration). | 01-08-01-01:10472 |
+| **cause-and-result** (rgyu 'bras) | Causality; causal vehicle (sutra) vs result vehicle (tantra). | 01-04-02-01:2567 |
+| **vessel-and-contents** (snod bcud) | Container world (universe) and contents (sentient beings). | 01-02-01-01:712 |
+
+### Technical Terms from Literal Layer Review
+
+| Term | Definition | First Appearance |
+|------|------------|------------------|
+| **vital-point** (gnad) | Critical juncture or key point; essential point in subtle body practice. | 01-11-02-01:13127 |
+| **channel-petal** (rtsa 'dab) | Petals of the chakra wheels; subtle energetic structures. | 01-11-01-01:13112 |
+| **light-body** ('od lus) | Body of light; form of manifestation in thögal practice. | 02-18-01-01:3952 |
+| **rigpa-radiance** (rig gdangs) | Self-expression or display of awareness; natural manifestation of rigpa. | 02-18-01-01:3968 |
+| **wind-radiance** (rlung gdangs) | Expression or display of prāṇa/wind energy. | 02-18-01-01:3967 |
+
+### Universal Compounds
+
+| Term | Definition | First Appearance |
+|------|------------|------------------|
+| **view-meditation-conduct** (lta sgom spyod) | The three aspects of practice: understanding, familiarization, and integration. | Throughout |
+| **cause-and-result** (rgyu 'bras) | Causality; the relationship between causes and their effects. | 01-04-02-01:2567 |
+| **vessel-and-contents** (snod bcud) | The container world (universe) and its contents (sentient beings). | 01-02-01-01:712 |
+
+---
+
+*Last Updated: 2026-02-13 - Comprehensive Dzogchen terms added (25+ new entries), literal layer terms added*
