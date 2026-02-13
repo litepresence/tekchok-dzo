@@ -109,11 +109,13 @@ This layer must NOT:
 - Explain Buddhism
 - Show reasoning steps
 
-### SOURCE PRIORITY
+### SOURCE PRIORITY CHAIN
 
-1. **Tibetan text** (primary)
-2. **Wylie** (secondary)
-3. **Downstream targets:** Literal and Liturgical layers (awareness only)
+1. **Tibetan** (absolute truth) - Primary source, never questioned
+2. **Wylie** (structural guide) - 99% accurate mechanical bridge
+3. **Literal** (syntactic scaffold) - 1:1 grammatical mapping
+4. **Liturgical** (metaphysical precision) - For checking interpretive drift
+5. **Downstream targets:** Literal and Liturgical layers (awareness only)
 
 No English phrasing decisions here—only guarded recognition.
 
@@ -187,6 +189,16 @@ For those, see the Practitioner Corpus (Opus 1/2)."
 
 ===
 
+## KEY REFERENCE FILES
+
+All cognitive layer generation must reference:
+
+- **`exemplars.md`** - Quality standards and best-practice examples
+- **`dictionary.md`** - Tibetan-English terminology standards (for awareness of key terms)
+- **`capitalize.md`** - Capitalization rules (for noting proper noun handling)
+
+===
+
 ## FORMATTING STANDARDS
 
 **Line Ranges:**
@@ -219,3 +231,6 @@ Before completing each section:
 Read aloud. Should sound like someone murmuring to themselves while
 preparing to translate—not speaking to an audience.
 
+===
+
+**Copyleft 2026:** Amid all this apparent happening, nothing has happened.
