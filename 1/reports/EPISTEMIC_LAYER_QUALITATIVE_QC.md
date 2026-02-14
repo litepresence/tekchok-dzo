@@ -65,6 +65,12 @@ A file achieves A++ status when it demonstrates:
 | 04 | 04-07 | 01-04-07-01.txt | 2983-3016 | ✅ A++ COMPLETE | Reformatted - Cittamatra analysis |
 | 04 | 04-08 | 01-04-08-01.txt | 2983-3350 | ✅ A++ COMPLETE | Reformatted - bardo and rainbow body |
 | 04 | 04-09 | 01-04-09-01.txt | 3017-3250 | ✅ A++ COMPLETE | Reformatted - direct introduction |
+| 04 | 04-10 | 01-04-10-01.txt | 3037-3039 | ✅ A++ COMPLETE | Reformatted - Svatantrika/Prasangika distinction |
+| 04 | 04-11 | 01-04-11-01.txt | 3037-3250 | ✅ A++ COMPLETE | Reformatted - direct introduction and self-liberation |
+| 04 | 04-12 | 01-04-12-01.txt | 3062-3500 | ✅ A++ COMPLETE | Reformatted - self-liberation and natural meditation |
+| 04 | 04-13 | 01-04-13-01.txt | 3313-3750 | ✅ A++ COMPLETE | Reformatted - inexpressibility and beyond-mind |
+| 04 | 04-14 | 01-04-14-01.txt | 3341-3623 | ✅ A++ COMPLETE | Reformatted - synthesis of Dzogchen practice |
+| 04 | 04-15 | 01-04-15-01.txt | 3731-3765 | ✅ A++ COMPLETE | Reformatted - khra bo and klong dkar po |
 
 ### VOLUME 2 (Chapters 15-25)
 
