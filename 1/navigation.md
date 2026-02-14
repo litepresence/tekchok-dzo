@@ -153,7 +153,7 @@ This means chapter page ranges run from the **previous chapter's end marker** to
 ## Absolute Navigation Rules
 
 1) **NEVER CREATE NEW FOLDERS**
-2) **NEVER NAVIGATE UPSTREAM** from `/home/oracle/extinction-event/EV/theg pa'i mchog rin po che'i mdzod/1/`
+2) **NEVER NAVIGATE UPSTREAM** from `/home/opencode/MDZOD/1/`
 3) **WORK WITHIN THE EXISTING DIRECTORY STRUCTURE**
 4) **ALWAYS READ prompt.md BEFORE STARTING** - User may have updated conventions
 
@@ -174,44 +174,63 @@ This means chapter page ranges run from the **previous chapter's end marker** to
 ├── dictionary.md                # Tibetan-English terminology standards
 ├── boundary.json                # Master structural boundaries (213 sections)
 ├── markers.md                   # Section markers reference (165 markers)
-├── python/                      # Automation scripts (archived)
+├── python/                      # Automation scripts (82 scripts)
 │   ├── verify_boundaries.py     # Verifies boundary.json against source
 │   ├── verify_titles.py         # Validates Tibetan/English titles
 │   ├── verify_markers.py        # Syncs markers.md with boundary.json
 │   ├── repair_summaries.py      # Repairs content summaries
-│   └── [72 utility scripts archived]
-├── backup/                      # Archive of old versions & PAGE-based builds
+│   ├── 02_extract_content*.py   # Content extraction (4 versions)
+│   ├── 03_verify_migration*.py  # Migration verification
+│   ├── partition_*.py           # Content partitioning scripts
+│   ├── create_liturgical*.py    # Liturgical layer generation
+│   ├── cycle_*_*.py             # QC cycle scripts (cycles 2-7)
+│   └── [65+ additional utility scripts]
+├── backup/                      # Archive of old versions & PAGE-based builds (8,363 files)
+│   ├── volume_1/                # [ARCHIVED] Page-based Volume 1 build
+│   ├── volume_2/                # [ARCHIVED] Page-based Volume 2 build
+│   ├── volume_1_processed/      # Processed Volume 1 files
+│   ├── volume_2_processed/      # Processed Volume 2 files
+│   ├── layers_2026-02-12/       # Dated layer snapshots
+│   ├── literal_repair/          # Repair artifacts
+│   ├── reviews/                 # Review documentation
 │   ├── boundary_v2.json         # Previous boundary versions
 │   ├── contents_v2.md
 │   ├── verified.json            # Verification outputs
-│   ├── volume_1/                # [ARCHIVED] Page-based Volume 1 build
-│   ├── volume_2/                # [ARCHIVED] Page-based Volume 2 build
 │   └── [archived reports]
-├── text/                        # PRIMARY BUILD - Section-based structure (213 sections)
-│   ├── tibetan/                 # TSHAD MA - Clean source text (NO PAGE markers/blank lines)
-│   ├── artifacts/               # Original BDRC source with PAGE markers (reference only)
-│   ├── wylie/                   # LAM - Extended Wylie transliteration
-│   ├── literal/                 # Dpyad kyi bshad pa - 1:1 grammatical
-│   ├── liturgical/              # sgrub pa'i gleng gzhi - Vajra speech
-│   ├── commentary/              # ngo sprod kyi bshad pa - Heart instruction
-│   ├── scholar/                 # mkhas pa'i dpyod pa - Academic analysis
-│   ├── epistemic/               # lta ba'i rim pa - View stratification
-│   ├── delusion/                # log pa spang ba - Error detection
-│   ├── cognitive/               # shes pa'i rjes su brjod pa - Translator log
-│   ├── meter/                   # Metrical analysis (VERSE/PROSE/MANTRA)
-│   ├── raw/                     # BDRC source files (UT22920_005_0001/2 - includes unrelated Patrul text)
-│   └── introduction/            # NEW - Chapter introductions (VV-CC-00-00.txt format)
+├── reports/                     # QC and processing reports (74 files)
+│   ├── FINAL_CERTIFICATION_Chapter_*.md  # Chapter certification reports
+│   ├── QC_Completion_Reports/   # Quality control completion docs
+│   ├── Metrical_QC_Reports/     # Meter layer analysis
+│   └── [layer-specific reviews]
+├── scripts/                     # Utility scripts
+├── text/                        # PRIMARY BUILD - Section-based structure (241 unique sections, 2,515 files)
+│   ├── tibetan/                 # TSHAD MA - Clean source text (213 files)
+│   ├── wylie/                   # LAM - Extended Wylie transliteration (213 files)
+│   ├── literal/                 # Dpyad kyi bshad pa - 1:1 grammatical (208 files)
+│   ├── liturgical/              # sgrub pa'i gleng gzhi - Vajra speech (213 files)
+│   ├── scholar/                 # mkhas pa'i dpyod pa - Academic analysis (213 files)
+│   ├── meter/                   # Metrical analysis (213 files) [VERSE/PROSE/ORNAMENTAL/MANTRA]
+│   ├── commentary/              # ngo sprod kyi bshad pa - Heart instruction (190 files)
+│   ├── delusion/                # log pa spang ba - Error detection (178 files)
+│   ├── epistemic/               # lta ba'i rim pa - View stratification (146 files)
+│   ├── cognitive/               # shes pa'i rjes su brjod pa - Translator log (37 files)
+│   ├── introduction/            # Chapter introductions (28 files) [VV-CC-00-00.txt format]
+│   ├── artifacts/               # Processing artifacts (213 files)
+│   ├── backup/                  # Text layer backups (213 files)
+│   ├── raw/                     # BDRC source files (2 files)
+│   └── [additional utility subdirs]
 ```
 
 ### Layer Subfolder Contents
 Each layer folder in `text/` contains:
-- `01-01-01-01.txt through 02-25-99-01.txt` - 213 sections following `VV-CC-SS-SS.txt` format
+- `01-01-01-01.txt through 02-25-99-01.txt` - 241 unique sections following `VV-CC-SS-SS.txt` format
   - **VV:** Volume (01 or 02)
   - **CC:** Chapter (01-25)
   - **SS:** Section number (01-20+)
   - **SS:** Subsection (01, 02, etc.)
 - Example: `01-04-12-01.txt` = Volume 1, Chapter 4, Section 12, Subsection 1
 - Example: `02-18-05-01.txt` = Volume 2, Chapter 18, Section 5, Subsection 1
+- **Note:** 213 main sections + 48 subsections = 241 total unique section files
 
 **NEW:** `meter/` layer contains metrical analysis for all 213 sections:
 - `[PROSE]` - Elegant prose sections
@@ -448,6 +467,7 @@ Files below minimums should be flagged as "stubs" needing work.
 - **exemplars.md** - Best-practice examples (with section mappings)
 - **capitalize.md** - Capitalization standards for Sanskrit/Dzogchen terms
 - **dictionary.md** - Tibetan-English terminology standards
+- **reports/** - QC reports and certification documents (74 files)
 
 ---
 
@@ -484,11 +504,12 @@ Chapter markers (རིམ་ཁང་) appear at chapter **ENDS**, not beginnin
 - Chapter 14 ends: "རིམ་ཁང་བཅུ་བཞི་པའོ།" (Page 479, line 20425)
 - Chapter 25 ends: "རིམ་ཁང་ཉི་ཤུ་རྩ་ལྔ་པ་སྟེ་ཐ་མའོ།" (Page 409, line ~16972)
 
-#### 2. Section Structure: 213 Sections
+#### 2. Section Structure: 241 Unique Sections
 
-Total sections across all chapters: **213**
+Total unique section files across all chapters: **241**
 - Main sections (subsection 1): **165** (documented in markers.md)
-- Subsections (subsection 2+): **48** (within main sections)
+- Subsections (subsection 2+): **48** additional files
+- **Note:** 165 + 48 = 241 total files representing 213 logical sections
 
 Example structure:
 ```
@@ -762,38 +783,46 @@ Examples:
 
 ### Chapter Distribution
 
-| Volume | Chapters | Pages | Sections |
-|--------|----------|-------|----------|
-| 1 | 1-14 | 1-479 | 114 |
-| 2 | 15-25 | 1-415 | 99 |
-| **Total** | **25** | **894** | **213** |
+| Volume | Chapters | Pages | Sections | Files |
+|--------|----------|-------|----------|-------|
+| 1 | 1-14 | 1-479 | 114 | ~130 |
+| 2 | 15-25 | 1-415 | 99 | ~111 |
+| **Total** | **25** | **894** | **213** | **241** |
 
-### Layer Completion Status (Updated 2026-02-13)
+**Note:** 213 logical sections expand to 241 unique files (48 sections have subsections split into separate files)
 
-| Layer | V1 Status | V2 Status | Priority |
-|-------|-----------|-----------|----------|
-| Tibetan | ✅ 100% | ✅ 100% | Immutable |
-| Wylie | ✅ 100% | ✅ 100% | Immutable |
-| Literal | ✅ 99% | ✅ 100% | Low |
-| Liturgical | ✅ 97% | ✅ 96% | Medium |
-| **Commentary** | **✅ A+ (Exemplary)** | **✅ A+ (Exemplary)** | **COMPLETE 🏆** |
-| Scholar | 🟡 90% | 🟡 71% | High |
-| Epistemic | 🟡 85% | 🔴 46% | High |
-| Delusion | ✅ 100% | ⚫ 0.2% | **CRITICAL** |
-| Cognitive | ⚪ 0% | ⚪ 0% | Low |
+### Layer Completion Status (Updated 2026-02-14)
+
+| Layer | Files | V1 Status | V2 Status | Priority |
+|-------|-------|-----------|-----------|----------|
+| Tibetan | 213 | ✅ 100% | ✅ 100% | Immutable |
+| Wylie | 213 | ✅ 100% | ✅ 100% | Immutable |
+| Literal | 208 | ✅ 99% | ✅ 100% | Low |
+| Liturgical | 213 | ✅ 97% | ✅ 96% | Medium |
+| **Commentary** | 190 | **✅ A+ (Exemplary)** | **✅ A+ (Exemplary)** | **COMPLETE 🏆** |
+| Scholar | 213 | 🟡 90% | 🟡 71% | High |
+| Epistemic | 146 | 🟡 85% | 🔴 46% | High |
+| Delusion | 178 | ✅ 100% | ⚫ 0.2% | **CRITICAL** |
+| Cognitive | 37 | ⚪ 17% | ⚪ 0% | Low |
+| Meter | 213 | ✅ 100% | ✅ 100% | Complete |
+| Introduction | 28 | - | - | Reference |
 
 ---
 
-**Navigation Guide Version:** 5.0  
-**Last Updated:** 2026-02-13  
+**Navigation Guide Version:** 5.1  
+**Last Updated:** 2026-02-14  
 **Major Changes:** 
-- ✅ **COMMENTARY LAYER COMPLETE:** 8 cycles, 14,793 changes, A+ quality
-- ✅ **Volume 2 TRANSFORMED:** C+ to A+ (exemplar quality achieved)
-- ✅ **All 25 Chapters:** A+ or A++ (exemplary completion)
+- ✅ **FILE STRUCTURE AUDIT:** Updated all layer file counts based on actual directory crawl
+- ✅ **241 UNIQUE SECTIONS:** 213 main sections + 48 subsections (was: 213 sections)
+- ✅ **PATH CORRECTIONS:** Fixed outdated `/home/oracle/` references to `/home/opencode/MDZOD/1/`
+- ✅ **PYTHON SCRIPTS:** Documented 82 automation scripts (was: 72 archived)
+- ✅ **LAYER STATUS:** Updated commentary (190 files), delusion (178), epistemic (146), cognitive (37)
+- ✅ **NEW LAYERS DOCUMENTED:** introduction (28 files), meter (213 files)
 - Migrated to `text/` folder with section-based structure
 - **RESTRUCTURED:** `text/tibetan/` (clean source) + `text/artifacts/` (PAGE markers)
 - Verified: 1,334,013 Tibetan characters (identical across all source versions)  
-**Primary Build:** `text/` folder (213 sections in VV-CC-SS-SS.txt format)  
+**Primary Build:** `text/` folder (241 unique sections in VV-CC-SS-SS.txt format)  
+**Total Files:** 2,515 text files across 17 layer directories  
 **Archived:** `backup/volume_1/` and `backup/volume_2/` (page-based builds)  
 **Source Structure:** Clean `text/tibetan/` (use this) + `text/artifacts/` (reference) + `text/raw/` (BDRC import)  
 **New Layer:** `text/meter/` (metrical analysis for all 213 sections)  
@@ -821,7 +850,7 @@ The comprehensive audit revealed **7 high-quality exemplar pages** that prove qu
 
 1. **Read the exemplar file completely**
    ```bash
-   cat "/home/oracle/extinction-event/EV/theg pa'i mchog rin po che'i mdzod/1/volume_1/commentary/PAGE_141.txt"
+   cat "/home/opencode/MDZOD/1/backup/volume_1/commentary/PAGE_141.txt"
    ```
 
 2. **Study the pattern:**
