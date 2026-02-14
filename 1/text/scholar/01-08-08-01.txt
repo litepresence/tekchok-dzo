@@ -1,12 +1,50 @@
 [11334] <structure>
-# Structural Marker: First Division of the Eighth Chapter
-**Analysis:** This minimal structural marker (*dang po ni*) initiates the first (*dang po*) division or subsection within Chapter 8 on the Seven Views on the Basis (*gzhir lta ba bdun*). The emphatic particle *ni* (as for/indeed) following the ordinal *dang po* serves to isolate and emphasize this as a major topical division. This brief entry suggests this is a transitional marker within a larger structural framework, likely introducing the first of the seven views or a preliminary section to the sevenfold enumeration. The absence of content indicates this file serves as a structural placeholder or section header within the chapter's architecture.
+# First Division: Introduction to the Seven Views on the Basis
+**Architectural Context:** This minimal structural marker (དང་པོ་ནི་ dang po ni) initiates the first (དང་པོ་ dang po) division or subsection within Chapter 8 on the Seven Views on the Basis (གཞི་ལ་ལྟ་བ་བདུན་ gzhi la lta ba bdun). The emphatic particle ནི་ (ni, "as for/indeed") following the ordinal དང་པོ་ serves to isolate and emphasize this as a major topical division. The absence of content beyond this marker indicates this file serves as a structural placeholder or section header within the chapter's architecture—a pure enumerative marker indicating where detailed exposition will follow.
+
+**Structural Function:** This marker functions as:
+1. **Section Header:** Indicating the beginning of a major subdivision
+2. **Enumerative Marker:** Establishing the ordinal position (first) in a sequence
+3. **Topical Isolator:** The particle ནི་ isolates this topic for emphasis
+
+This is characteristic of Tibetan scholastic architecture where headings are minimal but establish clear structural expectations for the exposition that follows.
 
 [11334] <philology>
-**Analysis:** The construction *dang po ni* employs the ordinal number *dang po* (first) with the emphatic/topicalizing particle *ni*. This particle serves multiple functions: (1) isolative—marking the first section as distinct from what follows; (2) emphatic—giving prominence to this division; (3) continuative—indicating exposition will follow. In classical Tibetan expository prose, *ni* often marks major topical divisions (*sa bcad*), particularly when introducing the first item in an enumeration. The absence of additional grammatical elements suggests this is a heading or transition marker rather than a complete sentence.
+**Particle Analysis:**
+- དང་པོ་ (dang po): ordinal "first"—establishing enumerative position
+- ནི་ (ni): emphatic/topicalizing particle with multiple functions:
+  1. **Isolative:** Marking the first section as distinct from what follows
+  2. **Emphatic:** Giving prominence to this division
+  3. **Continuative:** Indicating exposition will follow
+
+**Grammatical Note:** In classical Tibetan expository prose, ནི་ (ni) often marks major topical divisions (ས་བཅད་ sa bcad), particularly when introducing the first item in an enumeration. The absence of additional grammatical elements suggests this is a heading or transition marker rather than a complete sentence.
 
 [11334] <context>
-**Analysis:** This marker appears within Chapter 8, which presents the seven views on the basis (*gzhir lta ba bdun*) according to the Great Perfection system. The seven views are typically enumerated as: (1) basis as primordially pure; (2) basis as spontaneously present; (3) basis as uncertain; (4) basis as certain; (5) basis as transformable; (6) basis as accepting; (7) basis as manifold. This "first" (*dang po*) likely introduces either the general presentation of all seven or specifically the first view (basis as primordially pure). The marker serves the *rtsa ba dang yal ga* (root and branch) structure of Tibetan scholastic presentation—establishing the first branch (*yal ga dang po*) of the root topic (*rtsa ba*).
+**Doxographical Placement:** This marker appears within Chapter 8, which presents the seven views on the basis (གཞི་ལ་ལྟ་བ་བདུན་ gzhi la lta ba bdun) according to the རྫོགས་ཆེན་ (Great Perfection) system.
+
+**The Seven Views:** The seven views are typically enumerated as:
+1. གཞི་ཁ་དག་ (gzhi ka dag): basis as primordially pure
+2. གཞི་ལྷུན་གྱིས་གྲུབ་ (gzhi lhun gyis grub): basis as spontaneously present
+3. གཞི་མི་ངེས་ (gzhi mi nges): basis as uncertain
+4. གཞི་ངེས་ (gzhi nges): basis as certain
+5. གཞི་འགྱུར་བ་ (gzhi 'gyur ba): basis as transformable
+6. གཞི་བླང་བ་ (gzhi blang ba): basis as accepting
+7. གཞི་སྣ་ཚོགས་ (gzhi sna tshogs): basis as manifold
+
+**Scholastic Structure:** This "first" (དང་པོ་) likely introduces either:
+- The general presentation of all seven views
+- Specifically the first view (basis as primordially pure / གཞི་ཁ་དག་)
+
+The marker serves the རྩ་དང་ཡོ་བ་ (rtsa ba dang yal ga, "root and branch") structure of Tibetan scholastic presentation—establishing the first branch (ཡོ་བ་དང་པོ་ yal ga dang po) of the root topic (རྩ་བ་ rtsa ba).
 
 [11334] <concept>
-**Analysis:** The seven views on the basis represent seven *limited* (*tha dad*) perspectives on the single basis (*gzhi gcig*), all of which are ultimately partial. Each view captures one aspect of the basis while missing others: the first view (primordial purity) captures emptiness but may miss spontaneous presence; the second (spontaneous presence) captures luminosity but may miss primordial purity; and so forth. The complete realization requires transcending all seven partial views to recognize the *gzhi mchog* (supreme basis) beyond conceptual extremes. This marker initiates the analytical (*dpyad pa*) phase of the chapter wherein each view is examined and its limitations demonstrated.
+**Philosophical Framework:** The seven views on the basis represent seven limited (ཐ་དད་ tha dad) perspectives on the single basis (གཞི་གཅིག་ gzhi gcig), all of which are ultimately partial (ཕྱེད་པ་ shyed pa).
+
+**Each View's Limitation:**
+1. **First View (Primordial Purity):** Captures emptiness (སྟོང་པ་ stong pa) but may miss spontaneous presence (ལྷུན་གྱིས་གྲུབ་)
+2. **Second View (Spontaneous Presence):** Captures luminosity (གསལ་བ་ gsal ba) but may miss primordial purity (ཁ་དག་)
+3. **Third-Seventh Views:** Each captures partial aspects while missing others
+
+**Complete Realization:** The complete realization requires transcending all seven partial views to recognize the གཞི་མཆོག་ (gzhi mchog, "supreme basis") beyond conceptual extremes—neither pure nor impure, neither one nor many.
+
+**Analytical Phase:** This marker initiates the དཔྱད་པ་ (dpyad pa, "analytical") phase of the chapter wherein each view is examined and its limitations demonstrated, ultimately leading to the recognition of the viewless view (ལྟ་བ་མི་ལྟ་བ་ lta ba mi lta ba).
