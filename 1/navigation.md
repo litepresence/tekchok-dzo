@@ -62,6 +62,51 @@ This project operates in a **sandboxed environment** with the following constrai
 
 ---
 
+## 📝 TECHNIQUE: PRESERVING 1:1 LINE MAPPING IN QC EDITS
+
+**CRITICAL:** The line numbers `[XXXX]` in liturgical files maintain 1:1 alignment with Tibetan source. **NEVER** add or remove lines - this breaks the mapping.
+
+### Fixing Breathless Lines (>45 words)
+
+When editing long sentences, use PUNCTUATION to create breath points instead of line breaks:
+
+**❌ WRONG (breaks line count):**
+```
+[46] <prose> Long sentence that needs breaking,
+[47] <prose> Continuation of the sentence...
+```
+
+**✅ CORRECT (preserves line count):**
+```
+[46] <prose> Long sentence that needs breaking; continuation of the sentence...
+```
+
+### Approved Techniques:
+1. **SEMICOLONS (;)** - Best for prose separation
+2. **EM-DASHES (—)** - Best for dramatic pauses and appositives
+3. **PERIODS (.)** - Replace commas where appropriate
+4. **COMBINING** - Merge fragment lines into complete lines
+
+### Example Transformation:
+**Before:**
+```
+[46] <prose> Furthermore, from the strength and blessing of that nature, in Akanisṭha, the field of the Vajradhara of complete marks, dense arrangement, the sixth teacher Vajradhara arises in the form of the body of complete qualities,
+```
+
+**After:**
+```
+[46] <prose> Furthermore, from the strength and blessing of that nature; in Akanisṭha, the field of the Vajradhara of complete marks and dense arrangement; the sixth teacher Vajradhara arises in the form of the body of complete qualities,
+```
+
+**Result:** Same line count, improved breathability
+
+### Verification:
+After edits, verify line count unchanged:
+```bash
+wc -l file.txt  # Should match original
+```
+
+---
 
 ## 🚨 MIGRATION NOTICE (2026-02-10)
 
