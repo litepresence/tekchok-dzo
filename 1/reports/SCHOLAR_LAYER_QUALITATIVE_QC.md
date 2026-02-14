@@ -91,16 +91,17 @@ A file achieves A++ status when it demonstrates:
 
 **Update Date:** 2026-02-14  
 **Total Files:** 120 (verified count)  
-**Aligned (Line ranges match):** 92 files (77%)  
-**Line Range Mismatches:** 19 files (16%) - Reduced from 21  
+**Aligned (Line ranges match):** 100 files (83%) - Up from 92  
+**Line Range Mismatches:** 11 files (9%) - Reduced from 21  
 **A++ Verified:** 27 files (23% - comprehensive Four Pillars coverage)  
-**Pending Four Pillars Verification:** 65 aligned files  
-**Critical Rewrites Completed:** 2/2 (100%)
+**Pending Four Pillars Verification:** 73 aligned files  
+**Critical Rewrites Completed:** 2/2 (100%)  
+**Moderate Fixes Completed:** 8/8 (100%)
 
 ### Correction Priority - UPDATED:
 - 🔴 **0 Critical:** Complete rewrite (wrong content) - **ALL COMPLETE**
-- 🟡 **8 Moderate:** Trim/adjust (content aligned but wrong line ranges) - In progress
-- 🟢 **11 Minor:** Quick fixes (small line gaps) - Pending
+- 🟡 **0 Moderate:** Trim/adjust (content aligned but wrong line ranges) - **ALL COMPLETE**
+- 🟢 **11 Minor:** Quick fixes (small line gaps) - In progress
 
 ### Chapter 1.1 Complete (3/3 files):
 - ✅ 01-01-01-01.txt (lines 1-175)
@@ -128,21 +129,21 @@ A file achieves A++ status when it demonstrates:
 - ✅ **01-04-12-01.txt** - Excellent coverage: 26 philology, 38 context, 27 concept tags
 
 **Require Correction (4 files):**
-- 🟡 01-04-05-01.txt (scholar[2833] vs tibetan[2849]) - Minor gap
-- 🟡 01-04-08-01.txt (scholar[2983] vs tibetan[2989]) - Minor gap
-- 🟡 01-04-11-01.txt (scholar[3017] vs tibetan[3040]) - Minor gap
-- 🟡 01-04-18-02.txt (scholar[3888] vs tibetan[3893]) - Minor gap
+- ✅ 01-04-05-01.txt (FIXED: scholar[2849] now matches tibetan[2849])
+- ✅ 01-04-08-01.txt (FIXED: scholar[2989] now matches tibetan[2989])
+- ✅ 01-04-11-01.txt (FIXED: scholar[3040] now matches tibetan[3040])
+- ✅ 01-04-18-02.txt (FIXED: scholar[3893] now matches tibetan[3893])
 - 🔴 01-04-08-01.txt (scholar[2983] vs tibetan[2989]) - Minor gap
 - 🔴 01-04-11-01.txt (scholar[3017] vs tibetan[3040]) - Minor gap
 - 🔴 01-04-18-02.txt (scholar[3888] vs tibetan[3893]) - Minor gap
 
 ### Chapters 1.5-1.9 Complete (40/46 files):
 **Verified A++ (40 files):**
-- Chapter 1.5: 9/10 files (One mismatch: 01-05-04-06.txt)
-- Chapter 1.6: 15/20 files (Five mismatches: 01-06-04/05-04/07-01/07-03/09-01)
-- Chapter 1.7: 4/5 files (One mismatch: 01-07-01-01.txt)
-- Chapter 1.8: 5/8 files (Three mismatches: 01-08-01/04-02/07-01)
-- Chapter 1.9: 1/2 files (One mismatch: 01-09-01-01.txt)
+- Chapter 1.5: 9/10 files (🟢 One minor mismatch: 01-05-04-06.txt)
+- Chapter 1.6: 18/20 files (✅ 01-06-04 and 01-06-09 FIXED; 🟢 Three minor mismatches remain)
+- Chapter 1.7: 4/5 files (🟢 One minor mismatch: 01-07-01-01.txt)
+- Chapter 1.8: 7/8 files (✅ 01-08-04-02 and 01-08-07-01 FIXED; 🟢 One minor mismatch: 01-08-01-01.txt)
+- Chapter 1.9: 1/2 files (🟢 One minor mismatch: 01-09-01-01.txt)
 - **Highlights:**
   - ✅ **01-08-02-01.txt** - Excellent coverage: 18 structure, 17 philology, 16 context, 18 concept tags
 
