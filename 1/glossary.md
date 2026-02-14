@@ -145,6 +145,33 @@ This glossary documents lineage-specific terms, proper names, and technical voca
 
 ---
 
+## CHAPTER 14: Wisdom (Ye Shes)
+
+### Types of Wisdom
+
+| Term | Definition | First Appearance |
+|------|------------|------------------|
+| **Wisdom of Primordial Purity** (ngo bo ka dag gi ye shes) | Wisdom that transcends existence and non-existence, empty and pure from the beginning; first of the three basis-abiding wisdoms. | 01-14-04-01:18295 |
+| **Wisdom of Spontaneous Perfection** (rang bzhin lhun grub kyi ye shes) | Wisdom primordially complete with qualities, naturally manifesting without effort; second basis-abiding wisdom. | 01-14-04-01:18316 |
+| **Wisdom of All-Pervading Compassion** (thugs rje kun khyab kyi ye shes) | Wisdom manifesting as the root force pervading all appearance; third basis-abiding wisdom. | 01-14-04-01:18334 |
+| **Mirror-like Wisdom** (me long lta bu'i ye shes) | Wisdom reflecting all phenomena without distortion; first of the five characteristic-holding wisdoms. | 01-14-04-01:18352 |
+| **Wisdom of Equality** (mnyam nyid ye shes) | Wisdom recognizing all phenomena as equal in emptiness; second characteristic-holding wisdom. | 01-14-04-01:18354 |
+| **Discriminating Wisdom** (so sor rtog pa'i ye shes) | Wisdom distinctly knowing all phenomena without confusion; third characteristic-holding wisdom. | 01-14-04-01:18355 |
+| **All-Accomplishing Wisdom** (bya grub ye shes) | Wisdom effortlessly completing all enlightened activities; fourth characteristic-holding wisdom. | 01-14-04-01:18356 |
+| **Dharmadhātu Wisdom** (chos dbyings ye shes) | Wisdom of the ultimate dimension pervading all phenomena; fifth characteristic-holding wisdom. | 01-14-04-01:18352 |
+
+### Technical Terms
+
+| Term | Definition | First Appearance |
+|------|------------|------------------|
+| **basis-abiding wisdom** (gzhi gnas kyi ye shes) | Wisdom that dwells primordially as the ground of all experience. | 01-14-04-01:18286 |
+| **characteristic-holding wisdom** (mtshan nyid 'dzin pa'i ye shes) | Wisdom that apprehends the defining characteristics of phenomena. | 01-14-04-01:18287 |
+| **wisdom pervading objects** (yul la khyab pa'i ye shes) | Wisdom extending to and encompassing all objects of knowledge. | 01-14-04-01:18288 |
+| **wisdom gathered by knowing** (shes pas bsdus pa'i ye shes) | Wisdom that knows the extent of knowable phenomena. | 01-14-04-01:18328 |
+| **wisdom gathered by objects** (shes byas bsdus pa'i ye shes) | Wisdom that distinguishes specific aspects of phenomena. | 01-14-04-01:18340 |
+
+---
+
 ## Usage Notes
 
 1. **Capitalization**: Proper names (Buddhas, schools, tantras) are capitalized. Technical terms are lowercase unless they begin sentences.

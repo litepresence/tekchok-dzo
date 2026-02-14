@@ -91,6 +91,27 @@
 
 ---
 
+## CHAPTER 14: WISDOM TERMS
+
+| Tibetan | English | Context | Literal | Liturgical | Notes |
+|---------|---------|---------|---------|------------|-------|
+| ye shes | jñana / wisdom / pristine cognition | Timeless knowing transcending duality | "jñana" | "Jñana" or "pristine cognition" | Capitalize when technical; distinguishes ye shes from shes rab (prajñā) |
+| ngo bo ka dag | primordial purity of essence | Empty and pure from the beginning | "essence-primordial-purity" | "primordial purity of essence" | First of the three basis-abiding wisdoms |
+| rang bzhin lhun grub | spontaneous perfection of nature | Naturally complete qualities | "nature-spontaneous-presence" | "spontaneous perfection of nature" | Second of the three basis-abiding wisdoms |
+| thugs rje kun khyab | all-pervading compassion | Compassion pervading all manifestation | "compassion-all-pervading" | "all-pervading compassion" | Third of the three basis-abiding wisdoms |
+| gzhi gnas kyi ye shes | wisdom of basis-abiding | Wisdom dwelling primordially | "basis-abiding wisdom" | "Wisdom of Basis-Abiding" | First of the three wisdom divisions |
+| mtshan nyid 'dzin pa'i ye shes | wisdom of characteristic-holding | Wisdom apprehending defining marks | "characteristic-holding wisdom" | "Wisdom of Characteristic-Holding" | Second of the three wisdom divisions |
+| yul la khyab pa'i ye shes | wisdom pervading objects | Wisdom encompassing all phenomena | "object-pervading wisdom" | "Wisdom Pervading Objects" | Third of the three wisdom divisions |
+| me long lta bu'i ye shes | mirror-like wisdom | Wisdom reflecting without distortion | "mirror-like wisdom" | "Mirror-like Wisdom" | First of the five characteristic wisdoms |
+| mnyam nyid ye shes | wisdom of equality | Wisdom of equal emptiness | "equality wisdom" | "Wisdom of Equality" | Second of the five characteristic wisdoms |
+| so sor rtog pa'i ye shes | discriminating wisdom | Distinct knowing without confusion | "discriminating wisdom" | "Discriminating Wisdom" | Third of the five characteristic wisdoms |
+| bya grub ye shes | all-accomplishing wisdom | Wisdom completing all activities | "all-accomplishing wisdom" | "All-Accomplishing Wisdom" | Fourth of the five characteristic wisdoms |
+| chos dbyings ye shes | dharmadhātu wisdom | Wisdom of ultimate dimension | "dharmadhātu wisdom" | "Dharmadhātu Wisdom" | Fifth of the five characteristic wisdoms |
+| shes pas bsdus pa'i ye shes | wisdom gathered by knowing | Knowing extent of phenomena | "knowing-gathered wisdom" | "Wisdom Gathered by Knowing" | First aspect of wisdom pervading objects |
+| shes byas bsdus pa'i ye shes | wisdom gathered by objects | Knowing specific aspects | "object-gathered wisdom" | "Wisdom Gathered by Objects" | Second aspect of wisdom pervading objects |
+
+---
+
 ## KEY PARTICLES (Literal Layer)
 
 | Tibetan | English | Function | Literal | Notes |
