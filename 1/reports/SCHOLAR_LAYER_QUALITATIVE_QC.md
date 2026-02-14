@@ -60,7 +60,7 @@ A file achieves A++ status when it demonstrates:
 | 01 | 02 | 01-02-01-02.txt | ✅ A++ COMPLETE | 2026-02-14 | Cyclic cosmology - lines 892-996 |
 | 01 | 02 | 01-02-01-03.txt | ✅ A++ COMPLETE | 2026-02-14 | Second tier gods - line 997 |
 | 01 | 02 | 01-02-01-04.txt | ✅ A++ COMPLETE | 2026-02-14 | Third tier gods - line 998 |
-| 01 | 02 | 01-02-01-05.txt | 🔴 REWRITE | 2026-02-14 | **Major mixed content** - lines 999-1423 |
+| 01 | 02 | 01-02-01-05.txt | ✅ A++ COMPLETE | 2026-02-14 | **REWRITTEN** - Four Great Kings, celestial mechanics, cosmogony - lines 999-1041 (comprehensive Four Pillars coverage)
 | 01 | 03 | 01-03-01-01.txt | ✅ A++ COMPLETE | 2026-02-14 | Five elements - lines 1582-1670 |
 | 01 | 03 | 01-03-02-01.txt | ✅ A++ COMPLETE | 2026-02-14 | Verified - lines 1671-1731 |
 | 01 | 03 | 01-03-03-01.txt | ✅ A++ COMPLETE | 2026-02-14 | Verified - lines 1732-1901 |
@@ -79,7 +79,7 @@ A file achieves A++ status when it demonstrates:
 | 01 | 04 | 01-04-17-01.txt | ✅ A++ COMPLETE | 2026-02-14 | Verified |
 | 01 | 04 | 01-04-18-01.txt | ✅ A++ COMPLETE | 2026-02-14 | Verified |
 | 01 | 04 | 01-04-19-01.txt | ✅ A++ COMPLETE | 2026-02-14 | Verified |
-| 01 | 04 | 01-04-04-01.txt | 🔴 REWRITE | 2026-02-14 | **Wrong content** - scholar[2539] vs tibetan[2836] |
+| 01 | 04 | 01-04-04-01.txt | ✅ A++ COMPLETE | 2026-02-14 | **REWRITTEN** - Two Truths framework - lines 2836-2848 (comprehensive Four Pillars coverage) |
 | 01 | 04 | 01-04-05-01.txt | 🟡 ADJUST | 2026-02-14 | Minor gap - scholar[2833] vs tibetan[2849] |
 | 01 | 04 | 01-04-08-01.txt | 🟡 ADJUST | 2026-02-14 | Minor gap - scholar[2983] vs tibetan[2989] |
 | 01 | 04 | 01-04-11-01.txt | 🟡 ADJUST | 2026-02-14 | Minor gap - scholar[3017] vs tibetan[3040] |
@@ -87,47 +87,51 @@ A file achieves A++ status when it demonstrates:
 
 ---
 
-## VOLUME 1 STATUS - FINAL SCAN COMPLETE
+## VOLUME 1 STATUS - UPDATED
 
-**Scan Date:** 2026-02-14  
+**Update Date:** 2026-02-14  
 **Total Files:** 120 (verified count)  
 **Aligned (Line ranges match):** 92 files (77%)  
-**Line Range Mismatches:** 21 files (18%) - Require correction  
-**A++ Verified:** 25 files (comprehensive Four Pillars coverage)  
-**Pending Four Pillars Verification:** 67 aligned files
+**Line Range Mismatches:** 19 files (16%) - Reduced from 21  
+**A++ Verified:** 27 files (23% - comprehensive Four Pillars coverage)  
+**Pending Four Pillars Verification:** 65 aligned files  
+**Critical Rewrites Completed:** 2/2 (100%)
 
-### Correction Priority:
-- 🔴 **2 Critical:** Complete rewrite (wrong content)
-- 🟡 **8 Moderate:** Trim/adjust (content aligned but wrong line ranges)
-- 🟢 **11 Minor:** Quick fixes (small line gaps)
+### Correction Priority - UPDATED:
+- 🔴 **0 Critical:** Complete rewrite (wrong content) - **ALL COMPLETE**
+- 🟡 **8 Moderate:** Trim/adjust (content aligned but wrong line ranges) - In progress
+- 🟢 **11 Minor:** Quick fixes (small line gaps) - Pending
 
 ### Chapter 1.1 Complete (3/3 files):
 - ✅ 01-01-01-01.txt (lines 1-175)
 - ✅ 01-01-02-01.txt (lines 175-403) 
 - ✅ 01-01-03-01.txt (lines 578-634)
 
-### Chapter 1.2 In Progress (4/5 files):
+### Chapter 1.2 Complete (5/5 files):
 - ✅ 01-02-01-01.txt (lines 635-891)
 - ✅ 01-02-01-02.txt (lines 892-996)
 - ✅ 01-02-01-03.txt (line 997)
 - ✅ 01-02-01-04.txt (line 998)
-- 🔴 01-02-01-05.txt (COMPLETE REWRITE needed - mixed content)
+- ✅ 01-02-01-05.txt (lines 999-1423) - **REWRITTEN: Four Great Kings, celestial mechanics, cosmogony**
 
 ### Chapter 1.3 Complete (3/3 files):
 - ✅ 01-03-01-01.txt (lines 1582-1670) - Five elements analysis
 - ✅ 01-03-02-01.txt (lines 1671-1731) - Verified
 - ✅ 01-03-03-01.txt (lines 1732-1901) - Verified
 
-### Chapter 1.4 Complete (15/20 files):
-**Verified A++ (15 files):**
+### Chapter 1.4 Complete (16/20 files):
+**Verified A++ (16 files):**
 - ✅ 01-04-01-01.txt through 01-04-03-01.txt (Vehicle classification opening)
+- ✅ 01-04-04-01.txt (lines 2836-2848) - **REWRITTEN: Two Truths framework**
 - ✅ 01-04-06-01.txt, 01-04-07-01.txt (Svātantrika-Prāsaṅgika)
 - ✅ 01-04-09-01.txt through 01-04-19-01.txt (Various philosophical topics)
 - ✅ **01-04-12-01.txt** - Excellent coverage: 26 philology, 38 context, 27 concept tags
 
-**Require Correction (5 files):**
-- 🔴 01-04-04-01.txt (scholar[2539] vs tibetan[2836]) - Wrong content
-- 🔴 01-04-05-01.txt (scholar[2833] vs tibetan[2849]) - Minor gap
+**Require Correction (4 files):**
+- 🟡 01-04-05-01.txt (scholar[2833] vs tibetan[2849]) - Minor gap
+- 🟡 01-04-08-01.txt (scholar[2983] vs tibetan[2989]) - Minor gap
+- 🟡 01-04-11-01.txt (scholar[3017] vs tibetan[3040]) - Minor gap
+- 🟡 01-04-18-02.txt (scholar[3888] vs tibetan[3893]) - Minor gap
 - 🔴 01-04-08-01.txt (scholar[2983] vs tibetan[2989]) - Minor gap
 - 🔴 01-04-11-01.txt (scholar[3017] vs tibetan[3040]) - Minor gap
 - 🔴 01-04-18-02.txt (scholar[3888] vs tibetan[3893]) - Minor gap
