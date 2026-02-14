@@ -1,0 +1,203 @@
+# PRIORITY 2 EDIT SCRIPT
+## Breathless Lines & Fragment Fixes
+## Theg mchog rin po che'i mdzod
+
+---
+
+## OVERVIEW
+
+**Total edits:** 41 breathless lines across 17 files
+**Estimated time:** 3-4 hours
+**Impact:** Enhances readability, brings grade from A- to A
+
+---
+
+## CHAPTER 19: FRUITION
+**File:** 02-19-01-01.txt
+**Total breathless lines:** 24 (after Priority 1 fixes)
+
+### EDIT 2.1 [Line 217]
+**Current:** 72 words
+**Fix:** Break after "beings," and "demonstrating,"
+
+### EDIT 2.2 [Line 225]
+**Current:** 85 words
+**Fix:** Break after "emanations," "mind-generation," "Buddhahood,"
+
+### EDIT 2.3 [Line 256]
+**Current:** 133 words
+**Fix:** Break into 3 lines at natural transition points
+
+### EDIT 2.4 [Line 278]
+**Current:** 65 words
+**Fix:** Break after "realm,"
+
+### EDIT 2.5 [Lines 300-320 range]
+**Multiple lines:** 50-65 words each
+**Fix:** Break each at transition points
+
+**[Additional 19 lines in 02-19-01-01.txt with similar treatment]**
+
+---
+
+## CHAPTER 23: FRUITION COMPLETENESS
+
+### FILE: 02-23-03-01.txt
+**Breathless lines:** 8
+
+### EDIT 2.6 [Line 150]
+**Current:** 74 words
+**Fix:**
+```
+[150] <prose> Through the manner of the progressive dissolution of the elements at the time of death,
+[151] <prose> The earth element dissolving into water,
+[152] <prose> One experiences the appearance of a mirage-like vision.
+```
+
+### EDIT 2.7 [Line 168]
+**Current:** 55 words
+**Fix:** Break after "appearance,"
+
+### EDIT 2.8 [Line 184]
+**Current:** 46 words
+**Fix:** Break after "consciousness,"
+
+### EDIT 2.9 [Line 205]
+**Current:** 64 words
+**Fix:** Break after "body," and "speech,"
+
+### EDIT 2.10 [Line 206]
+**Current:** 69 words
+**Fix:** Break after "elements," and "mind,"
+
+**[Lines 207, 210, 215: Similar treatment]**
+
+---
+
+### FILE: 02-23-03-02.txt
+**Breathless lines:** 7
+
+### EDIT 2.11 [Line 27]
+**Current:** 122 words - PROCEDURAL DESCRIPTION
+**Analysis:** This is a long procedural instruction
+**Fix:** Break into 4 lines at logical steps:
+```
+[27] <prose> First, the yogin should abandon all attachment to the realm of desire,
+[28] <prose> Transcending the form realm through the dissolution of the coarse elements,
+[29] <prose> Entering the formless realm where consciousness becomes subtle and clear,
+[30] <prose> Finally dissolving into the clear light of dharmatā itself.
+```
+
+### EDIT 2.12 [Line 75]
+**Current:** 92 words
+**Fix:** Break after "meditation," and "clear light,"
+
+### EDIT 2.13 [Line 77]
+**Current:** 65 words
+**Fix:** Break after "experience,"
+
+### EDIT 2.14 [Line 87]
+**Current:** 63 words
+**Fix:** Break after "perception,"
+
+**[Lines 94, 108: Similar treatment]**
+
+---
+
+## CHAPTER 18: MANDALA
+
+### FILE: 02-18-07-01.txt
+**Breathless lines:** 4
+
+### EDIT 2.15 [Line ~50]
+**Current:** ~55 words
+**Fix:** Break after mandala description
+
+### EDIT 2.16 [Line ~75]
+**Current:** ~58 words
+**Fix:** Break after deity names
+
+### EDIT 2.17 [Line ~110]
+**Current:** ~62 words
+**Fix:** Break after offering description
+
+### EDIT 2.18 [Line ~145]
+**Current:** ~55 words
+**Fix:** Break after ritual implements
+
+---
+
+## CHAPTER 22: SIGNS OF DEATH
+
+### FILE: 02-22-06-01.txt
+
+### EDIT 2.19 [Line 15]
+**Current:** 67 words
+**Fix:**
+```
+[15] <prose> The sign of birth as a hungry ghost: At the time of death, the sky becomes unclear,
+[16] <prose> Rays fade like the western sunset;
+[17] <prose> Sun and moon "die";
+```
+
+---
+
+## CHAPTER 25: COLOPHON
+
+### FILE: 02-25-01-01.txt
+
+### EDIT 2.20 [Line 256]
+**Current:** 133 words
+**Fix:** Break into 3 lines at:
+- After "Vehicle,"
+- After "doctrine,"
+
+---
+
+## MISCELLANEOUS BREATHLESS LINES
+
+### 01-02-01-01.txt
+
+### EDIT 2.21 [Line 774]
+**Current:** 35 words (borderline)
+**Fix:** Break after "consciousness,"
+
+### EDIT 2.22 [Line 780]
+**Current:** 38 words (borderline)
+**Fix:** Break after "seed A,"
+
+### EDIT 2.23 [Line 831]
+**Current:** 45 words
+**Fix:** Break after "three-thousand,"
+
+### EDIT 2.24 [Line 865]
+**Current:** 45 words
+**Fix:** Break after "world-system,"
+
+---
+
+## VERIFICATION
+
+After all Priority 2 edits, run:
+```bash
+for file in 02-19-01-01.txt 02-23-03-01.txt 02-23-03-02.txt 02-18-07-01.txt 02-22-06-01.txt 02-25-01-01.txt 01-02-01-01.txt; do
+  echo "=== $file ==="
+  awk 'NF>45 {print "Line " NR ": " NF " words"}' "$file"
+done
+```
+
+Expected output: Minimal or no lines reported
+
+---
+
+## TIME ESTIMATE
+
+- Chapter 19 (24 lines): 90 minutes
+- Chapter 23 (15 lines): 60 minutes
+- Other files (6 lines): 30 minutes
+- **Total: ~3 hours**
+
+---
+
+**Ready for implementation**
+**Date:** 2026-02-13

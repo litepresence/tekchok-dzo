@@ -1,0 +1,263 @@
+# PRIORITY 3 EDIT SCRIPT
+## Cosmetic Fixes & Formatting
+## Theg mchog rin po che'i mdzod
+
+---
+
+## NOTE ON SHORT FILES
+
+**IMPORTANT:** Short files (1-3 lines) are INTENTIONAL and match Tibetan source split at traditional markers. DO NOT combine them. They will be handled in proof editing phase.
+
+**List of 28 short files to LEAVE AS IS:**
+- 01-02-01-03.txt, 01-02-01-04.txt (2 lines each)
+- 01-05-04-02.txt through 01-05-04-05.txt (1 line each)
+- 01-06-05-01.txt (2 lines), 01-06-05-02.txt through 01-06-05-04.txt (1 line each)
+- 01-06-07-02.txt, 01-06-14-01.txt (1 line each)
+- 01-07-05-01.txt (2 lines)
+- 01-08-04-01.txt (2 lines), 01-08-08-01.txt (1 line)
+- 01-14-07-01.txt, 01-14-07-02.txt (1 line each)
+- 02-18-03-01.txt, 02-18-03-02.txt, 02-18-03-03.txt (1 line each)
+- 02-18-16-02.txt (2 lines), 02-18-16-03.txt (3 lines)
+- 02-20-03-01.txt (2 lines)
+- 02-23-08-01.txt, 02-23-08-02.txt, 02-23-08-04.txt (2 lines)
+- 02-23-08-06.txt, 02-23-08-07.txt, 02-23-08-08.txt (1 line each)
+
+**Status:** ACCEPTABLE - These are structural markers, not errors
+
+---
+
+## COSMETIC FIXES TO IMPLEMENT
+
+### WHITESPACE CLEANUP
+
+#### FILE: 01-02-01-02.txt
+**Lines:** [944-951] - 8 blank lines at end
+**Fix:** Remove 7 blank lines, keep 1
+
+**Current:**
+```
+[943] <prose><tantra> Sarva maṅgalam—auspicious recognition of mind's true nature.
+[944] <prose> 
+[945] <prose> 
+[946] <prose> 
+[947] <prose> 
+[948] <prose> 
+[949] <prose> 
+[950] <prose> 
+[951] <prose> 
+```
+
+**Fix:**
+```
+[943] <prose><tantra> Sarva maṅgalam—auspicious recognition of mind's true nature.
+[944] <prose> 
+```
+
+---
+
+#### FILE: 01-02-02-01.txt
+**Line:** [1446] - Blank line fragment
+**Fix:** Remove line 1446
+
+**Current:**
+```
+[1445] <prose> The great eight nāgas and so forth each endure for intermediate ages:
+[1446] <prose> 
+[1447] <prose> Bees and so forth exist merely for an instant, flourishing not even for a single day.
+```
+
+**Fix:**
+```
+[1445] <prose> The great eight nāgas and so forth each endure for intermediate ages:
+[1446] <prose> Bees and so forth exist merely for an instant, flourishing not even for a single day.
+```
+
+---
+
+#### FILE: 01-03-03-01.txt
+**Lines:** [1820-1863] - Multiple blank lines
+**Fix:** Remove excess, keep max 1 between sections
+
+---
+
+### FRAGMENT FIXES
+
+#### FILE: 01-01-02-01.txt
+**Line:** [206] - Hanging dash
+**Context:** Check what follows
+
+**Current:**
+```
+[206] <prose> Therefore, the first Protector, intending to tame this realm, displayed through emanations that manner of mind-generation—
+[207] <ornament> Regarding this Fortunate Eon, before immeasurable eons past,
+```
+
+**Fix:** Remove dash or add completion
+```
+[206] <prose> Therefore, the first Protector, intending to tame this realm, displayed through emanations that manner of mind-generation.
+[207] <ornament> Regarding this Fortunate Eon, before immeasurable eons past,
+```
+
+---
+
+#### FILE: 01-01-01-01.txt
+**Lines:** [31-33] - Fragment cluster
+
+**Current:**
+```
+[31] <prose> The ocean of Dharma-principles spoken also depends upon teacher and
+[32] <prose> Place and
+[33] <prose> Teaching, whereby through classification into three aspects it is arranged:
+```
+
+**Fix:**
+```
+[31] <prose> The ocean of Dharma-principles spoken also depends upon teacher, place, and teaching,
+[32] <prose> Whereby through classification into three aspects it is arranged:
+```
+
+---
+
+#### FILE: 01-01-01-01.txt
+**Line:** [71] - Isolated "Thus,"
+
+**Current:**
+```
+[70] <prose> <tantra> Seizing the conquered place in the youth vase body's field, || 70 ||
+[71] <prose> Thus, <tantra> Having reached the end of abandon-realize qualities, becoming Buddha in the nature of dharmakāya, abiding in inner clarity.
+```
+
+**Fix:**
+```
+[70] <prose> <tantra> Seizing the conquered place in the youth vase body's field, || 70 ||
+[71] <prose> <tantra> Thus: Having reached the end of abandon-realize qualities,
+[72] <prose> <tantra> Becoming Buddha in the nature of dharmakāya, abiding in inner clarity.
+```
+
+---
+
+### FORMATTING STANDARDIZATION
+
+#### TANTRA CITATION FORMAT
+**Standardize all to:**
+```
+<prose><tantra> From [Source]:
+<verse> "First line of verse,
+<verse> Second line of verse,
+<verse> Third line of verse."
+<verse> Thus it is said.
+```
+
+**Files needing review:**
+- All files with tantra citations (check 50+ files)
+
+**Consistency items:**
+1. Quotation marks at start/end of verse blocks
+2. "Thus it is said" placement (inside/outside verse tags)
+3. Colon after source attribution
+
+---
+
+### VERSE FORMATTING
+
+#### LINE BREAK ISSUE
+**FILE:** 02-23-06-02.txt
+**Line:** [14229]
+
+**Current:**
+```
+[14228] <verse> Where exhausted, exhausted in one's own continuum; <verse>How exhausted? The appearance-rain of the above qualities <verse>Exhausted in the manner of dharmatā's purity.
+```
+
+**Fix:**
+```
+[14228] <verse> Where exhausted, exhausted in one's own continuum;
+[14229] <verse> How exhausted? The appearance-rain of the above qualities
+[14230] <verse> Exhausted in the manner of dharmatā's purity.
+```
+
+---
+
+### LIST FORMATTING
+
+#### STANDARDIZE LIST TAGS
+**Ensure consistent use of:**
+- `<list>` for enumerated items
+- `<prose>` for descriptive text
+- `<verse>` for poetic enumeration
+
+**Review files with lists:**
+- Chapter 1 (homage verses)
+- Chapter 2 (cosmological lists)
+- Chapter 4 (philosophical arguments)
+- Chapter 6 (four convictions)
+- Chapter 14 (wisdoms)
+- Chapter 18 (mandala deities)
+
+---
+
+## PUNCTUATION STANDARDIZATION
+
+### DASH USAGE
+**Standard:** Use em-dash (—) not hyphen (-) for:
+- Caesuras in verse
+- Parenthetical breaks in prose
+- Attributions before tantra citations
+
+**Files to review:** All 213 files
+
+### QUOTATION MARKS
+**Standard:** Use straight quotes (") for:
+- Tantra verse citations
+- Direct speech
+- Translated terms
+
+**Check for consistency:** Mixed curly/straight quotes
+
+### SEMICOLONS
+**Usage:** In lists and compound sentences
+**Review:** Ensure consistent application
+
+---
+
+## VERIFICATION COMMANDS
+
+### After Priority 3 fixes:
+
+**Check whitespace:**
+```bash
+grep -n "^\[.*\] <prose> $" *.txt | head -20
+```
+
+**Check isolated words:**
+```bash
+grep -n "Thus,$" *.txt
+```
+
+**Check XML tag balance:**
+```bash
+# Count opening/closing tags (approximate)
+for file in *.txt; do
+  prose_open=$(grep -o "<prose>" "$file" | wc -l)
+  verse_open=$(grep -o "<verse>" "$file" | wc -l)
+  tantra_open=$(grep -o "<tantra>" "$file" | wc -l)
+  echo "$file: prose=$prose_open verse=$verse_open tantra=$tantra_open"
+done
+```
+
+---
+
+## TIME ESTIMATE
+
+- Whitespace cleanup: 30 minutes
+- Fragment fixes: 30 minutes
+- Formatting standardization: 2 hours
+- Punctuation review: 1 hour
+- **Total: ~4 hours**
+
+---
+
+**Note:** These are cosmetic enhancements. Text is publication-ready without them.
+
+**Ready for implementation**
+**Date:** 2026-02-13

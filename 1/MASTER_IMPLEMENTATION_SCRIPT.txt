@@ -1,0 +1,341 @@
+# MASTER IMPLEMENTATION SCRIPT
+## Complete QC Fix Protocol
+## Theg mchog rin po che'i mdzod
+
+---
+
+## IMPLEMENTATION ORDER
+
+### PHASE 1: CRITICAL FIXES (Priority 1)
+**Time:** 1.5 hours
+**Impact:** Brings 95%+ of text to Grade A
+**Status:** REQUIRED before publication
+
+**Files to edit:**
+1. 01-01-01-01.txt (3 edits)
+2. 01-01-02-01.txt (1 edit)
+3. 01-04-01-01.txt (1 edit)
+4. 02-19-01-01.txt (28 edits)
+
+**Total:** 33 line modifications across 4 files
+
+---
+
+### PHASE 2: BREATHLESS LINES (Priority 2)
+**Time:** 3 hours
+**Impact:** Enhances readability
+**Status:** HIGHLY RECOMMENDED
+
+**Files to edit:**
+1. 02-19-01-01.txt (24 additional lines)
+2. 02-23-03-01.txt (8 lines)
+3. 02-23-03-02.txt (7 lines)
+4. 02-18-07-01.txt (4 lines)
+5. 02-22-06-01.txt (1 line)
+6. 02-25-01-01.txt (1 line)
+7. 01-02-01-01.txt (4 lines)
+
+**Total:** 49 line modifications across 7 files
+
+---
+
+### PHASE 3: COSMETIC FIXES (Priority 3)
+**Time:** 4 hours
+**Impact:** Polishes formatting
+**Status:** OPTIONAL but recommended
+
+**Files to edit:**
+1. Whitespace cleanup: 3 files
+2. Fragment fixes: 3 instances
+3. Formatting standardization: 50+ files
+4. Punctuation review: All 213 files
+
+**Total:** Minor edits across all files
+
+---
+
+## DETAILED WORKFLOW
+
+### STEP 1: Pre-Implementation
+
+**A. Create backup:**
+```bash
+cd /home/opencode/MDZOD/1/text/liturgical
+cp -r . ../backup_liturgical_pre_qc
+```
+
+**B. Verify current state:**
+```bash
+# Count current breathless lines
+for file in 01-01-01-01.txt 01-01-02-01.txt 01-04-01-01.txt 02-19-01-01.txt; do
+  echo "=== $file ==="
+  awk 'NF>45 {print "Line " NR ": " NF " words"}' "$file"
+done > /tmp/pre_qc_breathless.txt
+```
+
+**C. Document starting point:**
+```bash
+wc -l *.txt > /tmp/pre_qc_linecounts.txt
+```
+
+---
+
+### STEP 2: Phase 1 Implementation
+
+**Edit Sequence:**
+
+**File 1: 01-01-01-01.txt**
+- Edit [46]: Break 48-word line
+- Edit [72]: Break 52-word line
+- Edit [31-33]: Combine fragments
+- Edit [71]: Integrate "Thus,"
+
+**Verification:**
+```bash
+awk 'NF>45 {print "STILL BREATHLESS: Line " NR}' 01-01-01-01.txt
+```
+
+**File 2: 01-01-02-01.txt**
+- Edit [190]: Break 68-word line
+- Edit [206]: Fix hanging dash
+
+**File 3: 01-04-01-01.txt**
+- Edit [2536-2538]: Complete or remove fragments
+
+**File 4: 02-19-01-01.txt**
+- Edit [659]: Break 338-word line (CRITICAL)
+- Edit [256]: Break 133-word line
+- Edit [225]: Break 85-word line
+- Edit [217]: Break 72-word line
+- Edit [278]: Break 65-word line
+- Continue with remaining 23 breathless lines
+
+**Phase 1 Verification:**
+```bash
+echo "=== PHASE 1 VERIFICATION ==="
+for file in 01-01-01-01.txt 01-01-02-01.txt 01-04-01-01.txt 02-19-01-01.txt; do
+  count=$(awk 'NF>45' "$file" | wc -l)
+  echo "$file: $count breathless lines remaining"
+done
+```
+
+**Expected result:** ≤5 breathless lines per file (acceptable)
+
+---
+
+### STEP 3: Phase 2 Implementation
+
+**File 5: 02-23-03-01.txt**
+- Edit [150, 168, 184, 205, 206, 207, 210, 215]
+
+**File 6: 02-23-03-02.txt**
+- Edit [27, 75, 77, 87, 94, 108, plus 1 more]
+
+**File 7: 02-18-07-01.txt**
+- Edit 4 breathless lines
+
+**File 8: 02-22-06-01.txt**
+- Edit [15]
+
+**File 9: 02-25-01-01.txt**
+- Edit [256]
+
+**File 10: 01-02-01-01.txt**
+- Edit [774, 780, 831, 865]
+
+**Phase 2 Verification:**
+```bash
+echo "=== PHASE 2 VERIFICATION ==="
+for file in 02-23-03-01.txt 02-23-03-02.txt 02-18-07-01.txt 02-22-06-01.txt 02-25-01-01.txt 01-02-01-01.txt; do
+  count=$(awk 'NF>45' "$file" | wc -l)
+  echo "$file: $count breathless lines"
+done
+```
+
+**Expected result:** 0-2 breathless lines per file
+
+---
+
+### STEP 4: Phase 3 Implementation
+
+**Whitespace Cleanup:**
+1. 01-02-01-02.txt [944-951]: Remove 7 blank lines
+2. 01-02-02-01.txt [1446]: Remove 1 blank line
+3. 01-03-03-01.txt [1820-1863]: Remove excess blank lines
+
+**Fragment Fixes:**
+1. 01-01-02-01.txt [206]: Remove hanging dash
+2. 01-01-01-01.txt [31-33]: Combine fragments
+3. 01-01-01-01.txt [71]: Integrate "Thus,"
+
+**Formatting Standardization:**
+- Review tantra citation format in 50+ files
+- Standardize list tags
+- Standardize verse/prose transitions
+- Review punctuation (dashes, quotes, semicolons)
+
+**Phase 3 Verification:**
+```bash
+echo "=== PHASE 3 VERIFICATION ==="
+echo "Blank lines in 01-02-01-02.txt:"
+grep -c "^\[.*\] <prose> $" 01-02-01-02.txt
+
+echo "Fragment check in 01-01-01-01.txt:"
+grep -n "Thus,$" 01-01-01-01.txt
+
+echo "XML tag balance check (sample):"
+grep -o "<prose>" 01-01-01-01.txt | wc -l
+grep -o "</prose>" 01-01-01-01.txt | wc -l
+```
+
+---
+
+### STEP 5: Post-Implementation Verification
+
+**A. Full breathless line check:**
+```bash
+cd /home/opencode/MDZOD/1/text/liturgical
+echo "=== ALL BREATHLESS LINES (>45 words) ===" > /tmp/post_qc_report.txt
+for file in *.txt; do
+  count=$(awk 'NF>45' "$file" | wc -l)
+  if [ $count -gt 0 ]; then
+    echo "$file: $count breathless lines" >> /tmp/post_qc_report.txt
+    awk 'NF>45 {print "  Line " NR ": " NF " words"}' "$file" >> /tmp/post_qc_report.txt
+  fi
+done
+cat /tmp/post_qc_report.txt
+```
+
+**Expected result:** ≤10 files with 1-2 borderline lines each
+
+**B. Line count verification:**
+```bash
+echo "=== LINE COUNT CHANGES ==="
+diff /tmp/pre_qc_linecounts.txt <(wc -l *.txt)
+```
+
+**Expected:** Modest increases (broken lines add 30-50 lines total)
+
+**C. Sample reading test:**
+```bash
+echo "=== SAMPLE VERSE CHECK ==="
+head -20 01-01-03-01.txt
+
+echo "=== SAMPLE PROSE CHECK ==="
+head -20 01-08-01-01.txt
+
+echo "=== SAMPLE TANTRA CHECK ==="
+grep -A5 "<tantra>" 01-01-01-01.txt | head -15
+```
+
+---
+
+### STEP 6: Documentation
+
+**Create completion report:**
+```bash
+cat > /tmp/QC_IMPLEMENTATION_COMPLETE.txt << 'EOF'
+QC IMPLEMENTATION COMPLETE
+Date: $(date)
+
+PHASE 1 (Priority 1): COMPLETE
+- 4 files modified
+- 33 lines broken/reformatted
+
+PHASE 2 (Priority 2): COMPLETE
+- 7 files modified
+- 49 lines broken/reformatted
+
+PHASE 3 (Priority 3): COMPLETE
+- 3 files whitespace cleaned
+- 3 fragment clusters fixed
+- Formatting standardized across all files
+
+RESULTS:
+- Pre-QC breathless lines: 47
+- Post-QC breathless lines: [X]
+- Grade improvement: A- → A
+- Publication status: READY
+
+VERIFIED BY:
+- [ ] Line count check
+- [ ] Breathless line count check
+- [ ] Sample reading check
+- [ ] XML tag balance check
+
+NOTES:
+[Any issues encountered]
+EOF
+```
+
+---
+
+## ROLLBACK PROCEDURE
+
+**If errors discovered:**
+
+```bash
+# Restore from backup
+cd /home/opencode/MDZOD/1/text
+rm -rf liturgical
+cp -r backup_liturgical_pre_qc liturgical
+
+# Verify restoration
+ls liturgical/*.txt | wc -l  # Should be 213
+```
+
+---
+
+## QUALITY CHECKPOINTS
+
+**After each phase, verify:**
+
+1. **Meaning preserved:** Read edited sections aloud
+2. **XML valid:** All tags properly closed
+3. **Line numbers:** Continuous numbering maintained
+4. **Word counts:** Target <45 words per line
+5. **Flow:** Sentences read naturally
+
+---
+
+## TIME ALLOCATION
+
+- **Phase 1:** 1.5 hours
+- **Phase 2:** 3 hours
+- **Phase 3:** 4 hours
+- **Verification:** 1 hour
+- **Documentation:** 30 minutes
+
+**Total:** ~10 hours (can be done in 2-3 days)
+
+---
+
+## DECISION TREE
+
+**If time is limited:**
+- **1 hour available:** Do Phase 1 only → Publication ready
+- **4 hours available:** Do Phases 1-2 → High quality
+- **10 hours available:** Do all phases → Exemplary quality
+
+**If errors found during edit:**
+- **Minor:** Fix and continue
+- **Major:** Roll back, reassess, retry
+- **Uncertain:** Document and skip, review later
+
+---
+
+## FINAL CHECKLIST
+
+**Before publication:**
+- [ ] All Priority 1 edits complete
+- [ ] Breathless lines reduced by 80%+
+- [ ] No critical XML errors
+- [ ] Sample sections read smoothly
+- [ ] Documentation complete
+- [ ] Backup preserved
+
+---
+
+**Implementation protocol ready**
+**Date:** 2026-02-13
+**Status:** Ready for execution

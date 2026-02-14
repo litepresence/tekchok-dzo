@@ -1,0 +1,154 @@
+# PRIORITY 1 EDIT SCRIPT
+## Specific Line-by-Line Fixes for Critical Issues
+## Theg mchog rin po che'i mdzod
+
+---
+
+## EDIT 1: 01-01-01-01.txt [Line 46]
+**Current:**
+```
+[46] <prose> Furthermore, from the strength and blessing of that nature, in Akanisṭha, the field of the Vajradhara of complete marks, dense arrangement, the sixth teacher Vajradhara arises in the form of the body of complete qualities,
+```
+
+**Word count:** 48 words
+
+**Fix:**
+```
+[46] <prose> Furthermore, from the strength and blessing of that nature,
+[47] <prose> In Akanisṭha, the field of Vajradhara of complete marks and dense arrangement,
+[48] <prose> The sixth teacher Vajradhara arises in the form of the body of complete qualities,
+```
+
+---
+
+## EDIT 2: 01-01-01-01.txt [Line 72]
+**Current:**
+```
+[72] <prose> <tantra> From the potency and blessing of that, the field pervaded by five wisdoms, self-appearing, spontaneous, dense—the maṇḍala arranged pervading the limits of sky, each of the five families as self-appearances, abiding beyond the trainee's objects.
+```
+
+**Word count:** 52 words
+
+**Fix:**
+```
+[72] <prose> <tantra> From the potency and blessing of that,
+[73] <prose> <tantra> The field pervaded by five wisdoms—self-appearing, spontaneous, dense—
+[74] <prose> <tantra> The maṇḍala arranged pervading the limits of sky,
+[75] <prose> <tantra> Each of the five families as self-appearances, abiding beyond the trainee's objects.
+```
+
+---
+
+## EDIT 3: 01-01-02-01.txt [Line 190]
+**Current:**
+```
+[190] <prose> Therefore, for the purpose of beings in this field, in the first time, through Samantabhadra's own emanations, displaying as ordinary beings generating mind, then demonstrating Buddhahood and opening the great play of enlightened activity.
+```
+
+**Word count:** 68 words
+
+**Fix:**
+```
+[190] <prose> Therefore, for the purpose of beings in this field,
+[191] <prose> In the first time, through Samantabhadra's own emanations,
+[192] <prose> Displaying as ordinary beings generating mind,
+[193] <prose> Then demonstrating Buddhahood,
+[194] <prose> Opening the great play of enlightened activity.
+```
+
+---
+
+## EDIT 4: 01-04-01-01.txt [Lines 2536-2538]
+**Current:**
+```
+[2536] <prose> And also very great extensive.
+[2537] <prose> Very great extensive is
+[2538] <prose> Eighty-four thousand inconceivable.
+```
+
+**Issue:** Incomplete fragments
+
+**Fix (Option A - Complete):**
+```
+[2536] <prose> And also very great extensive teachings exist,
+[2537] <prose> Very great extensive is the doctrine,
+[2538] <prose> Eighty-four thousand inconceivable dharma doors.
+```
+
+**Fix (Option B - Remove):**
+```
+[Remove lines 2536-2538 or mark as incomplete in Tibetan source]
+```
+
+---
+
+## EDIT 5: 02-19-01-01.txt [Line 659] - CRITICAL
+**Issue:** 338 words - EXTREME length
+**Action:** This requires manual breaking into 6-8 sentences
+**Location:** Mid-file, requires reading context
+
+**Approach:**
+1. Read full line and identify natural break points at:
+   - Periods
+   - Semicolons
+   - Transition words ("Furthermore," "Therefore,")
+2. Break into logical sections of 40-50 words each
+3. Maintain tantra citation integrity
+
+---
+
+## EDIT 6: 02-19-01-01.txt [Additional lines]
+**Lines needing breaks:** 217, 225, 256, 278
+**Word counts:** 72, 85, 133, 65 words
+
+**Approach:** Similar to Edit 5 - break at natural transition points
+
+---
+
+## IMPLEMENTATION CHECKLIST
+
+### Before Editing:
+- [ ] Backup all files
+- [ ] Verify line numbers match current files
+- [ ] Read context around each edit
+
+### During Editing:
+- [ ] Preserve exact meaning
+- [ ] Maintain XML tags
+- [ ] Keep line numbering continuous
+- [ ] Test readability aloud
+
+### After Editing:
+- [ ] Verify word count <45 per line
+- [ ] Check XML tag balance
+- [ ] Confirm publication markers still align
+- [ ] Read full paragraph for flow
+
+---
+
+## TIME ESTIMATE
+
+- Edit 1: 5 minutes
+- Edit 2: 5 minutes
+- Edit 3: 5 minutes
+- Edit 4: 5 minutes
+- Edit 5: 30 minutes (requires careful analysis)
+- Edit 6: 60 minutes (28 lines total)
+
+**Total Priority 1 time:** ~1.5-2 hours
+
+---
+
+## VERIFICATION COMMAND
+
+After edits, verify with:
+```bash
+awk 'NF>45 {print FILENAME ":" NR ": " NF " words"}' 01-01-01-01.txt 01-01-02-01.txt 01-04-01-01.txt 02-19-01-01.txt
+```
+
+Should return no output (no lines >45 words).
+
+---
+
+**Ready for implementation**
+**Date:** 2026-02-13

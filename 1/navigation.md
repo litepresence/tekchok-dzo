@@ -4,7 +4,7 @@
 
 ## Overview
 
-This is a 9-layer agentic translation project for Longchenpa's "Treasury of the Supreme Vehicle" (Theg mchog rin po che'i mdzod). 
+This is a 12-layer agentic translation project for Longchenpa's "Treasury of the Supreme Vehicle" (Theg mchog rin po che'i mdzod). 
 
 **Structure:** 213 sections across 2 volumes (114 + 99 sections)
 **Format:** Section-based (VV-CC-SS-SS.txt) - Migrated from page-based (PAGE_XXX.txt)
@@ -39,6 +39,29 @@ This project operates in a **sandboxed environment** with the following constrai
 - Explicitly specify project directory for temp operations
 
 ---
+
+## NOTE ON SHORT FILES
+
+**IMPORTANT:** Short files (1-3 lines) are INTENTIONAL and match Tibetan source split at traditional markers. DO NOT combine them. They will be handled in proof editing phase.
+
+**List of 28 short files to LEAVE AS IS:**
+- 01-02-01-03.txt, 01-02-01-04.txt (2 lines each)
+- 01-05-04-02.txt through 01-05-04-05.txt (1 line each)
+- 01-06-05-01.txt (2 lines), 01-06-05-02.txt through 01-06-05-04.txt (1 line each)
+- 01-06-07-02.txt, 01-06-14-01.txt (1 line each)
+- 01-07-05-01.txt (2 lines)
+- 01-08-04-01.txt (2 lines), 01-08-08-01.txt (1 line)
+- 01-14-07-01.txt, 01-14-07-02.txt (1 line each)
+- 02-18-03-01.txt, 02-18-03-02.txt, 02-18-03-03.txt (1 line each)
+- 02-18-16-02.txt (2 lines), 02-18-16-03.txt (3 lines)
+- 02-20-03-01.txt (2 lines)
+- 02-23-08-01.txt, 02-23-08-02.txt, 02-23-08-04.txt (2 lines)
+- 02-23-08-06.txt, 02-23-08-07.txt, 02-23-08-08.txt (1 line each)
+
+**Status:** ACCEPTABLE - These are structural markers, not errors
+
+---
+
 
 ## 🚨 MIGRATION NOTICE (2026-02-10)
 
