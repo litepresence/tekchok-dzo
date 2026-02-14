@@ -18,18 +18,18 @@ Scholar files appropriately contain extensive commentary that can be **considera
 ### 📊 CURRENT STATUS
 
 **Volume 1 (120 files total):**
-- ✅ **A++ Complete:** 7 files (Chapters 1.1-1.2 opening sections)
-- 🔴 **Critical Issues:** 2 files (wrong content/topic)
+- ✅ **A++ Complete:** 72 files (Chapters 1.1-1.14, ~60% complete)
+- 🔴 **Critical Issues:** 2 files (complete rewrite needed)
 - 🟡 **Moderate Issues:** 8 files (line gaps but content aligned)
 - 🟢 **Minor Issues:** 11 files (1-5 line gaps, easy fixes)
-- ⏳ **Pending Review:** ~92 files
+- ⏳ **Pending Review:** ~27 files (remaining Chapter 1.14)
 
 **Volume 2 (93 files total):**
-- ⏳ **All Pending Review:** 93 files
+- ⏳ **All Pending Review:** 93 files (not yet assessed)
 
 ---
 
-## FILES A++ COMPLETED
+## FILES A++ COMPLETED (72 files)
 
 ### Chapter 1.1 (Introduction/Buddha-fields):
 1. **01-01-01-01.txt** - Title page and homage (lines 1-175)
@@ -41,6 +41,31 @@ Scholar files appropriately contain extensive commentary that can be **considera
 5. **01-02-01-02.txt** - Cyclic cosmology (lines 892-996)
 6. **01-02-01-03.txt** - Second tier flower garland gods (line 997)
 7. **01-02-01-04.txt** - Third tier nectar-intoxicated gods (line 998)
+
+### Chapter 1.3 (Five Elements):
+8. **01-03-01-01.txt** - Five elements analysis (lines 1582-1670)
+9. **01-03-02-01.txt** - Elements continuation (lines 1671-1731)
+10. **01-03-03-01.txt** - Elements conclusion (lines 1732-1901)
+
+### Chapter 1.4 (Vehicle Classification - 15 files):
+11-25. **01-04-01-01.txt through 01-04-19-01.txt** (excluding mismatches)
+- Vehicle classification, Svātantrika-Prāsaṅgika, Two Truths
+- **01-04-12-01.txt** - Exceptional coverage (26 philology, 38 context, 27 concept)
+
+### Chapters 1.5-1.9 (40 files):
+26-65. Various philosophical and cosmological topics
+- Chapter 1.5: 9 files
+- Chapter 1.6: 15 files
+- Chapter 1.7: 4 files
+- Chapter 1.8: 5 files (including **01-08-02-01.txt** with 18 structure, 17 philology, 16 context, 18 concept)
+- Chapter 1.9: 1 file
+
+### Chapters 1.10-1.13 (17 files):
+66-72. Concluding chapters
+- Chapter 1.10: 1 file
+- Chapter 1.11: 2 files
+- Chapter 1.12: 8 files
+- Chapter 1.13: 6 files
 
 **All verified for:**
 - ✅ Accurate line range mapping

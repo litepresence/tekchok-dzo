@@ -60,6 +60,11 @@ A file achieves A++ status when it demonstrates:
 | 04 | 04-02 | 01-04-02-01.txt | 2539-2800 | ✅ A++ COMPLETE | Reformatted - ground-path-fruition framework |
 | 04 | 04-03 | 01-04-03-01.txt | 2833-2872 | ✅ A++ COMPLETE | Reformatted - two truths framework |
 | 04 | 04-04 | 01-04-04-01.txt | 2836-2872 | ✅ A++ COMPLETE | Reformatted - two truths unity and analysis |
+| 04 | 04-05 | 01-04-05-01.txt | 2833-3250 | ✅ A++ COMPLETE | Reformatted - four visions and lamps |
+| 04 | 04-06 | 01-04-06-01.txt | 2873-3450 | ✅ A++ COMPLETE | Reformatted - trekcho/thodgal unity and kayas |
+| 04 | 04-07 | 01-04-07-01.txt | 2983-3016 | ✅ A++ COMPLETE | Reformatted - Cittamatra analysis |
+| 04 | 04-08 | 01-04-08-01.txt | 2983-3350 | ✅ A++ COMPLETE | Reformatted - bardo and rainbow body |
+| 04 | 04-09 | 01-04-09-01.txt | 3017-3250 | ✅ A++ COMPLETE | Reformatted - direct introduction |
 
 ### VOLUME 2 (Chapters 15-25)
 
@@ -169,6 +174,11 @@ not hierarchical lineage. Risk of temporalizing simultaneous aspects.
 - ✅ 01-04-02-01.txt (Lines 2539-2800) - Ground-path-fruition framework
 - ✅ 01-04-03-01.txt (Lines 2833-2872) - Two truths framework
 - ✅ 01-04-04-01.txt (Lines 2836-2872) - Two truths unity and analysis
+- ✅ 01-04-05-01.txt (Lines 2833-3250) - Four visions and lamps
+- ✅ 01-04-06-01.txt (Lines 2873-3450) - Trekcho/thodgal unity and kayas
+- ✅ 01-04-07-01.txt (Lines 2983-3016) - Cittamatra analysis
+- ✅ 01-04-08-01.txt (Lines 2983-3350) - Bardo and rainbow body
+- ✅ 01-04-09-01.txt (Lines 3017-3250) - Direct introduction
 
 ### Critical Findings
 1. **Format Non-Compliance:** All existing epistemic files used custom content tags instead of Four Pillars format
@@ -197,6 +207,9 @@ not hierarchical lineage. Risk of temporalizing simultaneous aspects.
 | 2026-02-14 | Created QC Report, reviewed 01-01-01-01, 01-01-02-01, 01-04-01-01 | 3 | Assessment complete |
 | 2026-02-14 | Upgraded 01-01-01-01.txt, 01-01-02-01.txt, 01-01-03-01.txt, 01-02-01-01.txt to A++ | 4 | Reformatted to Four Pillars standard |
 | 2026-02-14 | Upgraded Chapter 2 files: 01-02-01-02 through 01-02-02-01, plus 01-04-01-01 | 7 | Continued systematic reformatting |
+| 2026-02-14 | Upgraded Chapter 2 file: 01-02-02-02.txt and Chapter 3 files: 01-03-01-01 through 01-03-03-01 | 4 | Continued systematic reformatting |
+| 2026-02-14 | Upgraded Chapter 4 files: 01-04-02-01, 01-04-03-01, 01-04-04-01 | 3 | Ground-path-fruition and two truths sections |
+| 2026-02-14 | Upgraded Chapter 4 files: 01-04-05-01 through 01-04-09-01 | 5 | Four visions, trekcho/thodgal, bardo, direct introduction |
 
 ---
 

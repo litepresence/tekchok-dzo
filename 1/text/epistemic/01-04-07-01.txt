@@ -1,19 +1,20 @@
-[2983-2988] <cittamatra-analysis>
-<classification>
-The Cittamatra (sems tsam, Mind-Only) school is presented with its core thesis: all appearances are aspects (rnam pa) of consciousness, with no external reality separate from mind. The example of the jewel reflected in water illustrates the principle—appearance without external object. The three positions on consciousness and aspect are outlined: equal number of aspects and consciousnesses, aspects and consciousness like shell and kernel, or non-dual. <provisional-meaning> from Dzogchen perspective; corrects external realism but retains subtle reification of consciousness.
-</classification>
+[2983-2988]
+<view>dzogchen-rigpa
+<pedagogy>polemical-distinction
+<classification> Cittamatra core thesis: all appearances are aspects of consciousness, no external reality separate from mind. Jewel reflected in water illustrating appearance without external object. Three positions on consciousness and aspect outlined. Provisional meaning from Dzogchen perspective—corrects external realism but retains subtle reification of consciousness.
 
-[2989-2996] <cittamatra-variants>
-<classification>
-The three Cittamatra positions on perception: (1) each aspect has its own consciousness; (2) aspects and consciousness are contained like shell and kernel; (3) aspects and consciousness are non-dual. The first posits multiple consciousnesses; the second suggests containment; the third approaches non-duality. All three deny external objects while affirming the true existence of consciousness. From <dzogchen-view>, all remain within reification—consciousness itself is empty.
-</classification>
+[2989-2996]
+<view>dzogchen-rigpa
+<pedagogy>polemical-distinction
+<classification> Three Cittamatra positions on perception: each aspect with own consciousness; aspects and consciousness like shell and kernel; aspects and consciousness non-dual. All deny external objects while affirming true existence of consciousness. Polemical distinction establishing that all three remain within reification—consciousness itself is empty.
 
-[2997-3008] <non-dual-perception>
-<classification>
-The non-dual position: consciousness alone perceives, entering the five sense doors like a monkey in a tower looking in four directions. Both perceived-aspect and perceiving-consciousness are of one nature in non-dual wisdom. This is compared to dream appearance and perceiver being non-dual in sleep consciousness. The Cittamatra stops here, affirming this non-dual consciousness as truly existent; <dzogchen-view> recognizes even this as empty display.
-</classification>
+[2997-3008]
+<view>dzogchen-rigpa
+<pedagogy>polemical-distinction
+<classification> Non-dual position: consciousness alone perceives, entering five sense doors. Perceived-aspect and perceiving-consciousness of one nature in non-dual wisdom. Compared to dream appearance and perceiver being non-dual. Cittamatra affirms this non-dual consciousness as truly existent; Dzogchen view recognizing even this as empty display.
 
-[3009-3016] <false-aspect-position>
-<classification>
-The false aspectarians (rnam brdzun pa) hold that external objects do not exist, but the aspects appearing as such are false habit-energy. The perceiving consciousness is not truly existent either—the meeting-consciousness is also false. The position: both object-aspect and perceiving-consciousness are of deluded appearance-nature, only the experiencing self-awareness (rang rig) is ultimately existent. This is Cittamatra's subtle eternalism—reifying self-awareness.
-</classification>
+[3009-3016]
+<view>dzogchen-rigpa
+<pedagogy>polemical-distinction
+<risk>eternalism
+<classification> False aspectarians holding external objects do not exist, aspects as false habit-energy. Perceiving consciousness not truly existent—meeting-consciousness also false. Both object-aspect and perceiving-consciousness of deluded appearance-nature, only experiencing self-awareness ultimately existent. Risk of eternalism through reifying self-awareness.
