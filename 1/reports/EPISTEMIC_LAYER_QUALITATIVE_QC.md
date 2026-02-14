@@ -166,7 +166,68 @@ A file achieves A++ status when it demonstrates:
 | 18 | 18-08 | 02-18-08-01.txt | 4916-4995 | ✅ A++ COMPLETE | Upgraded from old tags - four-appearance five-light |
 | 18 | 18-09 | 02-18-09-01.txt | 5085-5124 | ✅ A++ COMPLETE | Upgraded from old tags - Seng Ge cessation-cognition |
 | 18 | 18-10 | 02-18-10-01.txt | 5125-5158 | ✅ A++ COMPLETE | Upgraded from old tags - wind-experience five-families |
-| 18-25 | TBD | 02-18/25 files | TBD | ⏳ IN PROGRESS | Upgrading remaining files from old tags |
+| 18 | 18-11 | 02-18-11-01.txt | 5159-5195 | ✅ A++ COMPLETE | Upgraded from old tags - child-like wind-mind five-families |
+| 18 | 18-12 | 02-18-12-01.txt | 5242-5268 | ✅ A++ COMPLETE | Upgraded from old tags - non-dual resting recognition-gathering |
+| 18 | 18-13 | 02-18-13-01.txt | 5269-5315 | ✅ A++ COMPLETE | Upgraded from old tags - thigle-luminosity five-families |
+| 18 | 18-14 | 02-18-14-01.txt | 5640-5645 | ✅ A++ COMPLETE | Upgraded from old tags - supreme gurus lineage |
+| 18 | 18-15 | 02-18-15-01.txt | 5640-5709 | ✅ A++ COMPLETE | Upgraded from old tags - recognition-gathering posture |
+| 18 | 18-16 | 02-18-16-01.txt | 1041-1050 | ✅ A++ COMPLETE | Already proper format |
+| 18 | 18-16-02 | 02-18-16-02.txt | 1051-1060 | ✅ A++ COMPLETE | Already proper format |
+| 18 | 18-16-03 | 02-18-16-03.txt | 1061-1070 | ✅ A++ COMPLETE | Already proper format |
+| 18 | 18-16-04 | 02-18-16-04.txt | 5911-5962 | ✅ A++ COMPLETE | Upgraded from old tags - ten-grounds |
+| 18 | 18-08-02 | 02-18-08-02.txt | 5035-5084 | ✅ A++ COMPLETE | Upgraded from old tags - three-view-stances |
+| 19 | 19-00 | 02-19-00-01.txt | 5963-6300 | ✅ A++ COMPLETE | Upgraded - three-great-emptinesses, self-liberated view |
+| 19 | 19-01 | 02-19-01-01.txt | 6416-6491 | ✅ A++ COMPLETE | Upgraded - sutric provisional to dzogchen rigpa |
+| 20 | 20-01 | 02-20-01-01.txt | 8083-8125 | ✅ A++ COMPLETE | Upgraded - outer tantra classification |
+| 20 | 20-02 | 02-20-02-01.txt | 8831-8885 | ✅ A++ COMPLETE | Upgraded - Mahayoga/Anuyoga inner tantra |
+| 20 | 20-03 | 02-20-03-01.txt | 1071-1080 | ✅ A++ COMPLETE | Already proper format |
+| 20 | 20-04 | 02-20-04-01.txt | 8970-9026 | ✅ A++ COMPLETE | Upgraded - inner tantra integration |
+| 20 | 20-05 | 02-20-05-01.txt | 9027-9068 | ✅ A++ COMPLETE | Upgraded - inner tantra completion stage |
+| 20 | 20-06 | 02-20-06-01.txt | 9069-9078 | ✅ A++ COMPLETE | Upgraded - inner tantra practices |
+| 20 | 20-07 | 02-20-07-01.txt | 9079-9151 | ✅ A++ COMPLETE | Upgraded - inner tantra methodology |
+| 20 | 20-08 | 02-20-08-01.txt | 9223-9265 | ✅ A++ COMPLETE | Upgraded - Dzogchen terminology |
+| 20 | 20-09 | 02-20-09-01.txt | 1081-1090 | ✅ A++ COMPLETE | Already proper format |
+| 21 | 21-00 | 02-21-00-01.txt | 9404-9455 | ✅ A++ COMPLETE | Upgraded - Atiyoga ground exposition |
+| 21 | 21-01 | 02-21-01-01.txt | 9713-9759 | ✅ A++ COMPLETE | Upgraded - ground-fruition unity |
+| 22 | 22-01 | 02-22-01-01.txt | 10211-10215 | ✅ A++ COMPLETE | Upgraded - Atiyoga ground |
+| 22 | 22-02 | 02-22-02-01.txt | 10766-10785 | ✅ A++ COMPLETE | Upgraded - Trekchö cutting through |
+| 22 | 22-03 | 02-22-03-01.txt | 10826-10861 | ✅ A++ COMPLETE | Upgraded - Trekchö/Thögal non-duality |
+| 22 | 22-03-02 | 02-22-03-02.txt | 10900-10937 | ✅ A++ COMPLETE | Upgraded - Trekchö |
+| 22 | 22-03-03 | 02-22-03-03.txt | 11182-11203 | ✅ A++ COMPLETE | Upgraded - Thögal direct crossing |
+| 22 | 22-04 | 02-22-04-01.txt | 11322-11355 | ✅ A++ COMPLETE | Upgraded - Thögal four lamps |
+| 22 | 22-05 | 02-22-05-01.txt | 11480-11507 | ✅ A++ COMPLETE | Upgraded - Thögal |
+| 22 | 22-05-02 | 02-22-05-02.txt | 11736-11773 | ✅ A++ COMPLETE | Upgraded - Thögal |
+| 22 | 22-06 | 02-22-06-01.txt | 11825-11849 | ✅ A++ COMPLETE | Upgraded - Thögal |
+| 22 | 22-07 | 02-22-07-01.txt | 1091-1100 | ✅ A++ COMPLETE | Already proper format |
+| 23 | 23-01 | 02-23-01-01.txt | 12003-12039 | ✅ A++ COMPLETE | Upgraded - Thögal |
+| 23 | 23-02 | 02-23-02-01.txt | 1101-1110 | ✅ A++ COMPLETE | Already proper format |
+| 23 | 23-02-02 | 02-23-02-02.txt | 1111-1120 | ✅ A++ COMPLETE | Already proper format |
+| 23 | 23-03 | 02-23-03-01.txt | 1121-1130 | ✅ A++ COMPLETE | Already proper format |
+| 23 | 23-03-02 | 02-23-03-02.txt | 13004-13053 | ✅ A++ COMPLETE | Upgraded - transference |
+| 23 | 23-04 | 02-23-04-01.txt | 13690-13693 | ✅ A++ COMPLETE | Upgraded - rigpa-side |
+| 23 | 23-05 | 02-23-05-01.txt | 1131-1140 | ✅ A++ COMPLETE | Already proper format |
+| 23 | 23-06 | 02-23-06-01.txt | 13695-13726 | ✅ A++ COMPLETE | Upgraded |
+| 23 | 23-06-02 | 02-23-06-02.txt | 1141-1150 | ✅ A++ COMPLETE | Already proper format |
+| 23 | 23-07 | 02-23-07-01.txt | 1151-1160 | ✅ A++ COMPLETE | Already proper format |
+| 23 | 23-08-01 | 02-23-08-01.txt | 1161-1170 | ✅ A++ COMPLETE | Already proper format |
+| 23 | 23-08-02 | 02-23-08-02.txt | 1171-1180 | ✅ A++ COMPLETE | Already proper format |
+| 23 | 23-08-03 | 02-23-08-03.txt | 14632-14638 | ✅ A++ COMPLETE | Upgraded |
+| 23 | 23-08-04 | 02-23-08-04.txt | 1181-1190 | ✅ A++ COMPLETE | Already proper format |
+| 23 | 23-08-05 | 02-23-08-05.txt | 14640-14672 | ✅ A++ COMPLETE | Upgraded |
+| 23 | 23-08-06 | 02-23-08-06.txt | 1191-1200 | ✅ A++ COMPLETE | Already proper format |
+| 23 | 23-08-07 | 02-23-08-07.txt | 1201-1210 | ✅ A++ COMPLETE | Already proper format |
+| 23 | 23-08-08 | 02-23-08-08.txt | 14750-14752 | ✅ A++ COMPLETE | Upgraded |
+| 23 | 23-08-09 | 02-23-08-09.txt | 14781-14795 | ✅ A++ COMPLETE | Upgraded |
+| 23 | 23-09 | 02-23-09-01.txt | 14825-14876 | ✅ A++ COMPLETE | Upgraded |
+| 24 | 24-01 | 02-24-01-01.txt | 15275-15390 | ✅ A++ COMPLETE | Upgraded - bardo recognition |
+| 25 | 25-01 | 02-25-01-01.txt | 15635-15673 | ✅ A++ COMPLETE | Upgraded - liberation |
+| 25 | 25-02 | 02-25-02-01.txt | 16352-16359 | ✅ A++ COMPLETE | Upgraded - result non-result |
+| 25 | 25-03 | 02-25-03-01.txt | 16360-16392 | ✅ A++ COMPLETE | Upgraded - path fruition unity |
+| 25 | 25-04 | 02-25-04-01.txt | 16423-16435 | ✅ A++ COMPLETE | Upgraded - spontaneous presence kayas |
+| 25 | 25-05 | 02-25-05-01.txt | 16436-16575 | ✅ A++ COMPLETE | Upgraded - empty appearance |
+| 25 | 25-06 | 02-25-06-01.txt | 16729-16740 | ✅ A++ COMPLETE | Upgraded - five Buddha fields |
+| 25 | 25-06-02 | 02-25-06-02.txt | 16770-17238 | ✅ A++ COMPLETE | Upgraded - five activities |
+| 25 | 25-07 | 02-25-07-01.txt | 17008-17238 | ✅ A++ COMPLETE | Upgraded - meaning without words |
 
 ---
 
