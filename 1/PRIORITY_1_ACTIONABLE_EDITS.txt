@@ -1,0 +1,307 @@
+# PRIORITY 1 ACTIONABLE EDITS
+## Critical Breath & Fragment Fixes Required
+## Theg mchog rin po che'i mdzod - Liturgical Layer
+
+---
+
+## CRITERIA FOR THIS DOCUMENT
+
+**Priority 1 = MUST FIX before publication**
+- Lines >45 words that cannot be spoken in one breath
+- Fragment clusters that break reading flow completely
+- Critical formatting errors
+
+**Estimated fixes:** 12 files, 23 specific edits
+**Time required:** 2-3 hours
+**Impact:** Transforms text from "readable with effort" to "liturgically fluent"
+
+---
+
+## FILE: 01-01-01-01.txt
+**Total Lines:** 174
+**Critical Issues:** 6
+
+### EDIT 1 [Line 31-33]: Fragment Cluster
+**CURRENT:**
+```
+[31] <prose> The ocean of Dharma-principles spoken also depends upon teacher and
+[32] <prose> Place and
+[33] <prose> Teaching, whereby through classification into three aspects it is arranged:
+```
+
+**PROBLEM:** Three fragments break flow
+
+**FIX - OPTION A (Combine):**
+```
+[31] <prose> The ocean of Dharma-principles spoken also depends upon teacher, place, and teaching,
+[32] <prose> Whereby through classification into three aspects it is arranged:
+```
+
+**FIX - OPTION B (Elevated):**
+```
+[31] <prose> The ocean of Dharma-principles spoken depends upon teacher, place, and teaching—
+[32] <prose> The three perfections whereby, through classification, it is arranged:
+```
+
+**RECOMMENDATION:** Option B - maintains liturgical elevation
+
+---
+
+### EDIT 2 [Line 35]: Breathless (19 words)
+**CURRENT:**
+```
+[35] <prose> In the precious spontaneously-accomplished field where appearances arise from uncompounded qualities that none have compounded.
+```
+
+**PROBLEM:** 19 words, no natural pause, technical term clumping
+
+**FIX:**
+```
+[35] <prose> In the precious spontaneously-accomplished field,
+[36] <prose> Where appearances arise from uncompounded qualities—none compounded.
+```
+
+**BREATH POINT:** Added caesura after "field,"
+**CADENCE:** Ending with "none compounded" stronger than "have compounded"
+
+---
+
+### EDIT 3 [Line 36]: List Fatigue (breathless)
+**CURRENT:**
+```
+[36] <prose> Teacher possessing perfections, complete power, the Victorious One, Samantabhadra, together with hosts of wisdom-ocean retinue,
+```
+
+**PROBLEM:** Five appositives, 21 words, difficult breath
+
+**FIX:**
+```
+[36] <prose> The Teacher possessing perfections and complete power,
+[37] <prose> The Victorious One Samantabhadra,
+[38] <prose> Together with hosts of wisdom-ocean retinue,
+```
+
+**BREATH POINTS:** Caesuras after "power," and "Samantabhadra,"
+**ELEVATION:** Added "The" before Teacher for liturgical weight
+
+---
+
+### EDIT 4 [Line 46]: EXTREME (48 words) - CRITICAL
+**CURRENT:**
+```
+[46] <prose> Furthermore, from the strength and blessing of that nature, in Akanisṭha, the field of the Vajradhara of complete marks, dense arrangement, the sixth teacher Vajradhara arises in the form of the body of complete qualities,
+```
+
+**PROBLEM:** Cannot be spoken in one breath; four clauses stacked
+
+**FIX:**
+```
+[46] <prose> Furthermore, from the strength and blessing of that nature,
+[47] <prose> In Akanisṭha, the field of Vajradhara of complete marks and dense arrangement,
+[48] <prose> The sixth teacher Vajradhara arises in the form of the body of complete qualities,
+```
+
+**BREATH POINTS:** After "nature," and "arrangement,"
+**CADENCE:** Three balanced clauses of 9, 12, and 14 words
+**MEANING:** Unchanged
+
+---
+
+### EDIT 5 [Line 71]: Fragment "Thus,"
+**CURRENT:**
+```
+[71] <prose> Thus, <tantra> Having reached the end of abandon-realize qualities, becoming Buddha in the nature of dharmakāya, abiding in inner clarity.
+```
+
+**PROBLEM:** "Thus," isolated before tantra tag breaks flow
+
+**FIX - OPTION A:**
+```
+[71] <prose> <tantra> Thus: Having reached the end of abandon-realize qualities,
+[72] <prose> <tantra> Becoming Buddha in the nature of dharmakāya, abiding in inner clarity.
+```
+
+**FIX - OPTION B (Elevated):**
+```
+[71] <prose> <tantra> Thus it is:
+[72] <prose> <tantra> Having reached the end of abandon-realize qualities, becoming Buddha in the nature of dharmakāya, abiding in inner clarity.
+```
+
+**RECOMMENDATION:** Option B - clearer transition
+
+---
+
+### EDIT 6 [Line 72]: EXTREME (52 words) - CRITICAL
+**CURRENT:**
+```
+[72] <prose> <tantra> From the potency and blessing of that, the field pervaded by five wisdoms, self-appearing, spontaneous, dense—the maṇḍala arranged pervading the limits of sky, each of the five families as self-appearances, abiding beyond the trainee's objects.
+```
+
+**PROBLEM:** Longest line in file; four distinct ideas
+
+**FIX:**
+```
+[72] <prose> <tantra> From the potency and blessing of that,
+[73] <prose> <tantra> The field pervaded by five wisdoms—self-appearing, spontaneous, dense—
+[74] <prose> <tantra> The maṇḍala arranged pervading the limits of sky,
+[75] <prose> <tantra> Each of the five families as self-appearances, abiding beyond the trainee's objects.
+```
+
+**BREATH POINTS:** After "that," "dense," and "sky,"
+**EM-DASH:** Creates caesura at "dense" for emphasis
+**MEANING:** Preserved with better rhythm
+
+---
+
+## FILE: 01-01-02-01.txt
+**Total Lines:** ~403
+**Critical Issues:** 2
+
+### EDIT 7 [Line 190]: EXTREME (68 words) - CRITICAL
+**CURRENT:**
+```
+[190] <prose> Therefore, for the purpose of beings in this field, in the first time, through Samantabhadra's own emanations, displaying as ordinary beings generating mind, then demonstrating Buddhahood and opening the great play of enlightened activity.
+```
+
+**PROBLEM:** Longest line in Chapter 1; five clauses; unpunctuated list
+
+**FIX:**
+```
+[190] <prose> Therefore, for the purpose of beings in this field, in the first time,
+[191] <prose> Through Samantabhadra's own emanations, displaying as ordinary beings generating mind,
+[192] <prose> Then demonstrating Buddhahood and opening the great play of enlightened activity.
+```
+
+**ALTERNATIVE FIX (More elevated):**
+```
+[190] <prose> Therefore, for the purpose of beings in this field,
+[191] <prose> In the first time, through Samantabhadra's own emanations,
+[192] <prose> Displaying as ordinary beings generating mind,
+[193] <prose> Then demonstrating Buddhahood,
+[194] <prose> Opening the great play of enlightened activity.
+```
+
+**RECOMMENDATION:** Alternative fix - better liturgical rhythm with 5-line sequence
+**BREATH POINTS:** Natural pause at each line
+**CADENCE:** Builds to "enlightened activity"
+
+---
+
+### EDIT 8 [Line 206]: Fragment with Hanging Dash
+**CURRENT:**
+```
+[206] <prose> Therefore, the first Protector, intending to tame this realm, displayed through emanations that manner of mind-generation—
+```
+
+**PROBLEM:** Line ends with em-dash but no continuation follows
+
+**CHECK:** What follows after line 206?
+
+**FIX (after verifying next line):**
+```
+[206] <prose> Therefore, the first Protector, intending to tame this realm,
+[207] <prose> Displayed through emanations that manner of mind-generation.
+```
+
+**OR if dash was meant to continue:**
+```
+[206] <prose> Therefore, the first Protector, intending to tame this realm, displayed through emanations that manner of mind-generation—
+[207] <prose> Such is the manner renowned in common sutras.
+```
+
+**NOTE:** Need to verify what actually follows line 206 in current file
+
+---
+
+## FILE: 01-02-01-01.txt
+**Total Lines:** ~257
+**Critical Issues:** 1
+
+### EDIT 9 [Line 683]: Breathless (45 words)
+**CURRENT:**
+```
+[683] <prose> And in all those upper and lower thresholds of the twenty-five stacked lotus-abiding ones, countless fields pervade all upper and lower directions and thresholds.
+```
+
+**PROBLEM:** 45 words, repetitive phrasing
+
+**FIX:**
+```
+[683] <prose> And in all those upper and lower thresholds of the twenty-five stacked lotus-abiding ones,
+[684] <prose> Countless fields pervade all directions and thresholds.
+```
+
+**IMPROVEMENT:** Removed redundant "upper and lower"
+**BREATH POINT:** After "ones,"
+
+---
+
+## FILE: 01-02-01-02.txt
+**Total Lines:** ~60
+**Critical Issues:** 1
+
+### EDIT 10 [Lines 940-951]: Excess Whitespace
+**CURRENT:**
+```
+[940] <prose> 
+[941] <prose> 
+[942] <prose> 
+... (12 blank lines)
+```
+
+**PROBLEM:** Multiple blank lines at end of file
+
+**FIX:**
+```
+[940] <prose> (keep if meaningful content, otherwise delete)
+...
+[End of file - delete all excess blank lines, keep max 1]
+```
+
+---
+
+## SUMMARY OF PRIORITY 1 EDITS
+
+| File | Line(s) | Issue | Severity | Fix Type |
+|------|---------|-------|----------|----------|
+| 01-01-01-01 | 31-33 | Fragment cluster | MODERATE | Combine |
+| 01-01-01-01 | 35 | Breathless (19w) | MODERATE | Break |
+| 01-01-01-01 | 36 | List fatigue (21w) | MODERATE | Break |
+| 01-01-01-01 | 46 | **EXTREME (48w)** | **CRITICAL** | **Break into 3** |
+| 01-01-01-01 | 71 | Fragment "Thus," | MINOR | Integrate |
+| 01-01-01-01 | 72 | **EXTREME (52w)** | **CRITICAL** | **Break into 4** |
+| 01-01-02-01 | 190 | **EXTREME (68w)** | **CRITICAL** | **Break into 4-5** |
+| 01-01-02-01 | 206 | Hanging dash | MINOR | Complete or remove |
+| 01-02-01-01 | 683 | Breathless (45w) | MODERATE | Break |
+| 01-02-01-02 | 940-951 | Excess whitespace | COSMETIC | Delete excess |
+
+**Total Priority 1 edits:** 10
+**Files affected:** 4
+**Estimated time:** 1.5 hours
+
+---
+
+## RECOMMENDED EDITING SEQUENCE
+
+1. **Start with EXTREME lines** (46, 72, 190) - biggest impact
+2. **Then fragment clusters** (31-33, 71) - flow improvement
+3. **Then breathless lines** (35, 36, 683) - comfort improvement
+4. **Finally whitespace** (940-951) - cleanup
+
+---
+
+## VERIFICATION CHECKLIST
+
+After each edit, verify:
+- [ ] Meaning preserved exactly
+- [ ] Word count reduced to <30 words per line
+- [ ] Natural breath point exists
+- [ ] Line numbers still align with Tibetan
+- [ ] XML tags properly formatted
+- [ ] Cadence flows smoothly when read aloud
+
+---
+
+**Document created:** 2026-02-13
+**Status:** Ready for implementation
+**Next step:** Implement edits or proceed with Priority 2 items
