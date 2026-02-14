@@ -1,0 +1,44 @@
+TIBETAN TEXT VERIFICATION REPORT
+=================================
+
+Based on direct reading of the Tibetan root text files:
+
+VOLUME 1 - ACTUAL CHAPTER BOUNDARIES:
+--------------------------------------
+Chapter 1:  Page 1 (start of text)
+Chapter 2:  Page 48 (line 1572)
+Chapter 3:  Page 57 (line 1869)
+Chapter 4:  Page 112 (line 4149)
+Chapter 5:  Page 170 (line 6756)
+Chapter 6:  Page 240 (line 9687)
+Chapter 7:  Page 254 (line 10468)
+Chapter 8:  Page 272 (line 11324)
+Chapter 9:  Page 300 (line 12475) - SHORT CHAPTER (25 lines)
+Chapter 10: Page 315 (line 13085)
+Chapter 11: Page 337 (line 13824)
+Chapter 12: Page 382 (line 15992)
+Chapter 13: Page 412 (line 17301)
+Chapter 14: Page 479 (line 20425)
+
+VOLUME 2 - ACTUAL CHAPTER BOUNDARIES:
+--------------------------------------
+Chapter 15: Page 13 (line 657)
+Chapter 16: Page 33 (line 1752)
+Chapter 17: Page 83 (line 3920)
+Chapter 18: Page 141 (line 5955)
+Chapter 19: MISSING OR NOT LABELED (content spans pages 142-218)
+Chapter 20: Page 219 (line 9397) - This appears in the text!
+
+CRITICAL FINDINGS:
+------------------
+1. Chapter 9 exists at page 300 (not 381-420 as in contents.md)
+2. Chapter 9 is very short (only page 300, ~25 lines)
+3. Chapter 19 header not found in expected location
+4. Chapter 20 header found at page 219, suggesting different chapter numbering
+5. Multiple chapter page ranges in contents.md are incorrect
+
+DISCREPANCIES WITH boundary.json:
+----------------------------------
+- Chapter 9 was completely missing (now added)
+- Chapter page ranges don't match actual Tibetan text
+- Chapter 19 location unclear
