@@ -1,19 +1,57 @@
-[7099-7130]
+[7099-7110]
 <view>sutric-provisional
 <pedagogy>instructional-provisionality
-<classification> Bodhisattva path framework establishing foundational pedagogical structure. Apparent gradualism as skillful means for practitioners requiring graduated engagement. Dzogchen view recognizing path-discourse resolves into primordial purity without transformation.
+<classification> Opening section establishing bodhisattva path framework: elaborate empowerment times and signs (སྤྲོས་བཅས་ཀྱི་དུས་དང་མཚན་མ). Empowerment ritual details: vajra, bell, dorje, phurbu, precious jewel, lotus, sword, wheel, hook, snare, bell, drum - various implements used in empowerment ceremony. Four elements (dragon, horse, elephant, garuda) for different types of trainees. This is the sutric-provisional level presenting the bodhisattva path as graduated practice. From Dzogchen view, these are skillful means for those who need structured approach to awakening.
 
-[7131-7190]
-<view>dzogchen-rigpa
-<pedagogy>declarative-finality
-<classification> Hermeneutical strategy maintaining apparent vehicle hierarchy while dissolving distinctions through recognition of awareness as single ground. Definitive meaning transcends yet incorporates provisional meaning.
-
-[7191-7250]
-<view>dzogchen-rigpa
-<pedagogy>declarative-finality
-<classification> Three kayas organizing apparent pedagogical hierarchy while demonstrating inseparability in single gnosis. Ground as dharmata encompassing all vehicles without distinction.
-
-[7251-7310]
+[7111-7130]
 <view>sutric-provisional
 <pedagogy>instructional-provisionality
-<classification> Seven treasures structure organizing apparent complexity while maintaining ultimate simplicity of recognition. Integration with treasury structure demonstrating systematic exposition.
+<classification> Empowerment prerequisites: qualified disciple with samaya (དམ་ཚིག་ཅན). If lacking prerequisites, empowerment fails - disciple must have correct motivation, receive proper instructions, maintain pure view. Ritual details: counting vajra, bell, dorje, precious jewel, lotus, sword, wheel, hook, snare - each representing different aspects of enlightenment. Time of empowerment: half-day, morning or evening, specific astrological conditions. This presents the bodhisattva path as requiring specific conditions and preparations - pedagogical structure for gradual practitioners.
+
+[7131-7150]
+<view>dzogchen-sems
+<pedagogy>instructional-provisionality
+<risk>view-collapse
+<classification> Second section: non-elaborate empowerment times and signs (སྤྲོས་མེད་ཀྱི་དུས་དང་མཚན་མ). This is the sems (mind) side - entry through mind rather than elaborate ritual. Unlike elaborate version, this focuses on inner rather than outer conditions. Signs include: seeing Buddha in dream, experiencing profound peace, recognizing mind's nature. This is transition from sutric to tantric view - still provisionally presented but pointing to more direct recognition. Risk of view-collapse: treating these signs as guaranteed indicators rather than potential indicators.
+
+[7151-7170]
+<view>dzogchen-sems
+<pedagogy>instructional-provisionality
+<classification> Non-elaborate empowerment: practitioners who have some faculties but not fully ripened. Seven or more worthy disciples gathered. Visualization of vajra, bell,Dorje, Phurba as internal rather than external. Focus on mantra recitation rather than elaborate ritual. Inner empowerment (ནང་གི་དབང་) rather than outer. This is the middle way between sutra and tantra - not as elaborate as vajrayana ritual but more structured than Dzogchen direct introduction. Represents transitional category between causal vehicle (པའི་ཐེག) and result vehicle (འབྲས་པའི་ཐེག).
+
+[7171-7190]
+<view>tantric-transformative
+<pedagogy>instructional-provisionality
+<classification> Third section: totally non-elaborate empowerment (ཤིན་ཏུ་སྤྲོས་མེད). This is the secret mantra (གསང་སྔགས) level - empowerment through blessing rather than ritual. Direct transmission from guru to disciple without elaborate preparation. Recognition of mind's nature as the empowerment - not receiving something external but recognizing what was always present. This is the tantric-transformative view where transformation occurs through recognizing awareness's nature, not through accumulating merit or wisdom. The signs are subtle: inner heat (tummo), clear light dreams, spontaneous devotion.
+
+[7191-7210]
+<view>tantric-transformative
+<pedagogy>instructional-provisionality
+<risk>reification
+<classification> Transformation through tantric methods: vajra body, vajra speech, vajra mind. The three vajras correspond to three kayas: nirmanakaya as vajra body, sambhogakaya as vajra speech, dharmakaya as vajra mind. Empowerment creates capacity for recognizing these within oneself. Risk of reification: taking vajra body as physical transformation rather than recognition of body's emptiness-Luminosity. Tantric view holds that transformation happens through tantric methods (visualization, mantra, mudra) but these are upaya - skillful means for recognizing primordial wisdom.
+
+[7211-7230]
+<view>dzogchen-rigpa
+<pedagogy>declarative-finality
+<classification> Dzogchen view: all three empowerment types resolve into single recognition. The elaborate, non-elaborate, and totally non-elaborate are not three different empowerments but three ways of pointing to the same rigpa. Whether through ritual, visualization, or direct introduction - the result is the same: recognition of awareness's own nature. Declarative assertion: no transformation is needed because awareness was never confused - only appears confused to unrecogized awareness. This is the final view that transcends yet includes all previous presentations.
+
+[7231-7250]
+<view>dzogchen-rigpa
+<pedagogy>declarative-finality
+<risk>nihilism
+<classification> Ground of all empowerment: rigpa as basis. Whether sutric, tantric, or Dzogchen - all point to the same ground. This ground is not created by empowerment but recognized through empowerment. The guru's role is to point, not to give something the disciple didn't have. Risk of nihilism: misreading this as "no need for empowerment" - still requires proper pointing and suitable vessel. Declarative: empowerment is for removing obscurations (which are none) and revealing wisdom (which was always present). The entire bodhisattva path structure is provisional scaffolding for recognizing what is always already the case.
+
+[7251-7270]
+<view>sutric-provisional
+<pedagogy>instructional-provisionality
+<classification> Seven treasures (ནོར་བུ་བདུན) structure: as preliminary to empowerment. These represent qualities of suitable vessel: faith, diligence, mindfulness, concentration, wisdom. Each treasure corresponds to paramita: generosity, morality, patience, diligence, concentration, wisdom. Integration with bodhisattva path: these are accumulated through practice but from Dzogchen view, they are naturally present as qualities of rigpa. Provisional presentation for those who need to "accumulate" before "recognizing."
+
+[7271-7290]
+<view>tantric-transformative
+<pedagogy>instructional-provisionality
+<classification> Completion stage (རྫོགས་པ་ལམ) correspondence: empowerment creates foundation for completion stage practices. Tummo (དམར་པོ) inner heat arises from empowerment blessings. Illusory body (སྣང་བ་སྤྲུལ་སྤྲུལ་) recognized through empowerment. Clear light (འོད་གསལ) manifests as empowerment fruit. These are not separate from empowerment but different aspects of same process. Tantric view: empowerment initiates transformation that completes through practice.
+
+[7291-7310]
+<view>dzogchen-rigpa
+<pedagogy>declarative-finality
+<classification> Final synthesis: all paths lead to same recognition. Bodhisattva path through sutra, tantra, and Dzogchen - all resolve into rigpa. The apparent difference is due to trainee capacity, not different results. Declarative: there is only one enlightenment (སངས་རྒྱས་གཅིག), one vehicle (ཐེག་པ་གཅིག), one result (འབྲས་བུ་གཅིག). The elaborate classification is for guiding different capacities, not establishing ontological difference. Final view: all eight consciousnesses are already the five wisdoms (ཡེ་ཤེས་ལྔ), all appearances are already the mandala (དཀྱིལ་འཁོར), all sounds are already mantra (མནྡྷ་). Empowerment reveals this, doesn't create it.

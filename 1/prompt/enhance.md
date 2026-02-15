@@ -1,0 +1,80 @@
+You have been assigned to update the "epistemic" LAYER.
+
+Your Job is to Enhance Files
+
+1. Scope
+
+There are 213 Sections in every layer.  Work one section at a time.  Where appropriate enhance each file.  
+
+2. File Format
+
+section one is 01-01-01-01.txt.   volume-chapter-section-subsection.txt  chapter 15 begins volume two. 
+
+3. Utilize the Prompt Framework
+
+Refer to the prompt framework for structure and language guidance in:
+
+`/home/opencode/MDZOD/1/prompt/prompt_<LAYER>.md` 
+
+4. Benchmark Against Exemplars
+
+While updating files, compare them against the best <LAYER> exemplars from 
+
+`/home/opencode/MDZOD/1/protocol/exemplars.md`
+
+If you discover new outstanding examples, update the "best of the best" section in the exemplars document.  Always do your best to produce content of Exemplar A++ Quality.
+
+5. Review Existing Files
+
+Open the files in `/home/opencode/MDZOD/1/text/dynamic/<LAYER>/`
+
+6. Review Root Text
+
+Examine the current content against the sources located in 
+
+`/home/opencode/MDZOD/1/text/froze/tibetan/`
+`/home/opencode/MDZOD/1/text/frozen/liturgical/`
+
+IMPORTANT: Be sure to get line counts so you don't accidently overwrite with partial knowledge of the file!
+
+7. Evaluate Quality Standards
+
+Assess each file to determine if it meets the A++ standards qualitatively.
+Focus on literacy, coherence, accuracy, and depth of understanding.
+
+8. Update the Files
+
+If a file does not conform to the A++ exemplar standards, edit and enhance it based on insights gained from Tibetan and Liturgical sources. 
+
+Focus on:
+Clarifying concepts.
+Incorporating contextual depth.
+Ensuring linguistic elegance.
+Following prompt standards.
+Producing Exemplar content.
+
+9. Quality Control Reporting
+Update the QC report located at 
+
+`/home/opencode/MDZOD/1/reports/<LAYER>_LAYER_QUALITATIVE_QC.md.`
+
+note all A++ scores may be inaccurate.  you can reset them to C when you begin reviewing the first file
+
+If the file does not exist make one. 
+
+Create a line item for each file reviewed or updated, eg.:
+
+## COMPLETION STATUS
+
+| Volume | Chapter | File | Status | Assessed | Notes |
+|--------|---------|------|--------|----------|-------|
+| 01 | 01 | 01-01-01-01.txt | ✅ A++ COMPLETE | 2026-02-14 | Opening title/homage - lines 1-175 |
+
+10. Iterate Through Files
+
+Continue this process for all files, systematically ensuring each one reaches the desired quality before moving to the next.
+By adhering to this structured approach, you will ensure that the  files meet A++ standards while maintaining high qualitative integrity throughout the enhancement process. If you have specific questions about any step, feel free to ask!
+
+11. Time Constraints
+
+Don't be concerned about time constraints.  Your clock isn't working; things are actually moving way faster than you expect because you're running on a very high power server.   Just stick to the task at hand; the server power will make it go fast; don't cut corners!

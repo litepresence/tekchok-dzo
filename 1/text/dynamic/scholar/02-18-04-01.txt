@@ -1,90 +1,228 @@
-[4468-4511]
-<view>sutric-provisional
-<pedagogy>instructional-provisionality
-<risk>reification
-<classification> Four immeasurables: love, compassion, joy, equanimity. Longchenpa's systematic presentation of four brahmaviharas (tshad med bzhi). Structural markers rim pa organize immeasurables from coarse to subtle: love countering hostility, compassion countering cruelty, joy countering jealousy, equanimity countering attachment-aversion. Graduated approach reflects Buddhist lam rim structure adapted to Dzogchen. Risk of reification: treating immeasurables as achievements rather than natural expressions.
+[4468-4475] <structure>
+# Emanation Body Postures: Three Buddha-Bodies
+**Analysis:** This section (lines 4468-4475) presents three types of emanation-body postures (*sprul pa'i sku*), each corresponding to a Buddha-body:
 
-[4468-4472]
-<view>ordinary-cognition
-<pedagogy>instructional-provisionality
-<risk>view-collapse
-<classification> Structural analysis: passage demonstrates Longchenpa's systematic presentation. Rim pa markers organize four brahmaviharas from coarse to subtle. Graduated approach reflects Buddhist lam rim adapted to Dzogchen. Risk of view-collapse: mistaking structural analysis for doctrinal assertion.
+1. **Nirmāṇakāya posture** (lines 4468-4472): The "solitary ascetic" (*dgra bcom pa*) posture, characterized by crossed legs and back straight—arising as liberation through exertion
+2. **Saṃbhogakāya posture** (lines 4473-4475): The "lion" posture, characterized by sitting with legs spread—arising as liberation through spontaneous accomplishment
 
-[4473-4487]
-<view>ordinary-cognition
-<pedagogy>instructional-provisionality
-<risk>view-collapse
-<classification> Philological analysis: term byams pa (love/maitri) carries technical sense of wishing happiness for all beings. Compound snying rje (compassion/karuna) appears alongside near-synonyms requiring precision. Instrumental particles indicate how each immeasurable serves as antidote to specific affliction. Causative construction sgom pa establishes active nature—they must be deliberately developed before becoming spontaneous. Risk of view-collapse: treating philological analysis as doctrinal position.
+**Structural Logic:** The presentation follows a three-fold pattern: posture type → exemplars → liberation result. The section establishes physical postures as embodied representations of Buddhist cosmology.
 
-[4488-4502]
-<view>tantric-transformative
-<pedagogy>instructional-provisionality
-<risk>reification
-<classification> Contextual analysis: citations from Thal 'gyur, Rang shar, Nyi zla kha sbyor establish doctrinal authority. Four immeasurables represent common Mahayana foundation that Atiyoga presupposes—Dzogchen does not bypass conventional bodhicitta but includes it within ultimate bodhicitta recognition. Risk of reification: treating context as endorsement of hierarchical vehicle structure.
+[4468-4475] <philology>
+## Particle Analysis and Terminology
+**Analysis:** Key grammatical elements in this passage:
 
-[4501-4511]
-<view>dzogchen-sems
-<pedagogy>instructional-provisionality
-<risk>view-collapse
-<classification> Structural progression: from specific immeasurables to equanimity reflects graduated pedagogical approach—first cultivate partial love/compassion, then expand to all beings equally. Section follows Nyingma doxographical conventions presenting relative bodhicitta practices as indispensable foundation for absolute bodhicitta realization. Risk of view-collapse: treating relative bodhicitta as necessary cause rather than recognition-facilitating condition.
+- *dgra bcom pa* — "victor over enemies" (Śrāvaka Arhat), not merely "solitary"
+- *rdzogs pa* — completion (implies both culmination and perfection)
+- *lhan cig* — together with (indicates non-dual relationship)
+- *'phral du* — immediately (temporal qualifier for spontaneous arising)
 
-[4503-4546]
-<view>dzogchen-rigpa
-<pedagogy>declarative-finality
-<risk>reification
-<classification> Conclusion of posture section: Dharmakaya manner and liberation modalities. Closing verse summarizes using term tshul (manner/way) as hermeneutical marker indicating systematic completeness. Rhetorical question establishes epistemic authority—posture efficacious for whoever understands body-piths in harmony. Phrase rnal 'byor dag tu byed pa signals section's soteriological function within treatise progression from theory to application. Risk of reification: treating manner as technique rather than recognition-facilitating condition.
+The Tibetan syntax uses correlative structures (*ji ltar*...*de bzhin*...): "As [example], similar to [example], thus [result]."
 
-[4547-4565]
-<view>dzogchen-sems
-<pedagogy>instructional-provisionality
-<risk>view-collapse
-<classification> Continuation: structural pivot linking posture instructions to soteriological result. Ablative -las indicates separation from cycle; instrumental marks three bodies as agents of intent. Term brda (sign/indication) with temporal qualifiers establishes postures as prophetic indicators of future liberation modalities: asceticism for Nirmanakaya, spontaneous completion for Sambhogakaya, fearlessness for Dharmakaya. Risk of view-collapse: treating indicators as predictions rather than recognition-descriptions.
+[4468-4475] <context>
+## Doxographical Context: Three Kāyas and Posture
+**Analysis:** This section participates in Nyingma doxographical discourse on the three Buddha-bodies (*sku gsum*):
 
-[4547-4565]
-<view>tantric-transformative
-<pedagogy>instructional-provisionality
-<risk>reification
-<classification> Context: Longchenpa articulates metaphysical premise—three bodies exist as innate endowments within heart, posture merely manifests what is already present. Reflects Nyingma result vehicle position contrasting with Causal Vehicle gradualism. Element-body correlation: cold constitution Nirmanakaya, hot Dharmakaya, balanced Sambhogakaya. Traditional Tibetan medical constitutional theory integrated with Dzogchen soteriology. Risk of reification: treating constitutional correlations as deterministic rather than recognition-facilitating.
+- **Nirmāṇakāya** posture corresponds to liberation through practice (path)
+- **Saṃbhogakāya** posture corresponds to liberation through spontaneous presence (result)
+- **Dharmakāya** transcends both (ground)
 
-[4547-4565]
-<view>dzogchen-rigpa
-<pedagogy>declarative-finality
-<risk>view-collapse
-<classification> Conceptual analysis: distinction between ordinary sitting and precious posture. Snake-limb metaphor illustrates principle—just as snake's limbs manifest only when coiled, wisdom manifests only through specific bodily arrangement. Three epistemic conditions: blocking (without bending body, channels blocked), raising (vision increases with proper gaze), coiling (precious posture enables wisdom when ordinary sitting fails). Risk of view-collapse: treating conditions as causes rather than recognition-facilitating circumstances.
+The enumeration reflects the *rnal 'byor chen po'i rgyud* (Mahāyoga/Anuyoga) classification of physical postures as soteriological methods. Longchenpa integrates this with Dzogchen view—the postures are not causes of liberation but expressions of already-accomplished realization.
 
-[4566-4596]
-<view>dzogchen-sems
-<pedagogy>instructional-provisionality
-<risk>reification
-<classification> Section transitions from posture theory to application through soteriological principle—three poisons manifest as three bodies. Structure: thesis (three afflictions bind to three realms, liberated through three postures), analysis by poison type (desire, ignorance, aversion), conclusion (three postures determinate). Uses rebirth typology—bird, pig, snake—from wheel of existence tradition. Risk of reification: treating typology as permanent categories rather than provisional recognition-patterns.
+[4468-4475] <concept>
+## Three Poisons and Three Bodies Correspondence
+**Analysis:** The passage establishes correspondence between three poisons and three Buddha-bodies:
 
-[4568-4591]
-<view>ordinary-cognition
-<pedagogy>instructional-provisionality
-<risk>view-collapse
-<classification> Philological analysis: ablative las marks causal origin of rebirth forms. Particle ni serves topicalizing function introducing each rebirth type. Term smos pa (ripened/manifested) appears indicating smin pa process by which karmic predispositions manifest as specific embodied forms. Logical connector relates analysis to prescription. Risk of view-collapse: treating causal language as literal rather than pedagogical.
+1. **Desire** (*'dod chags*) → Bird-type → Nirmāṇakāya
+2. **Ignorance** (*gti mug*) → Pig-type → Saṃbhogakāya  
+3. **Aversion** (*zhe sdang*) → Snake-type → Dharmakāya
 
-[4568-4591]
-<view>tantric-transformative
-<pedagogy>instructional-provisionality
-<risk>reification
-<classification> Contextual integration: three systems—karmic causality (three poisons produce three rebirth destinies), constitutional psychology (each rebirth type exhibits specific somatic/psychological characteristics), somatic remediation (each type harmonizes with specific postures). Bird-type (desire-dominated) speech-predominant, harmonizes with Sambhogakaya posture. Pig-type (ignorance-dominated) mind-predominant, harmonizes with Dharmakaya posture. Snake-type (aversion-dominated) body-predominant, harmonizes with Nirmanakaya posture. Risk of reification: treating correlations as fixed rather than recognition-facilitating.
+This mapping derives from the *khor lo sdom pa* (wheel of existence) tradition and reflects traditional Tibetan medical constitutional theory integrated with Buddhist soteriology. The "horse of mind" metaphor indicates that mental functions ride upon these energetic configurations.
 
-[4568-4591]
-<view>dzogchen-rigpa
-<pedagogy>declarative-finality
-<risk>view-collapse
-<classification> Two liberation principles: path-obstacle clearing (three postures liberate from binding of body, speech, mind), numerical sufficiency (exactly three postures required—more unnecessary, fewer incomplete). Transition to ngag gi gnad section using term smra ba bcad pa as pivot. Triadic structure: body postures established, now speech training, mind to follow. Risk of view-collapse: treating sufficiency as ontological rather than pedagogical.
+**Key Dzogchen Distinction:** While presenting these correspondences, Longchenpa maintains the Dzogchen view that these are recognition-facilitating conditions, not causes of liberation. The three bodies exist as innate endowments within the heart; postures merely manifest what is already present.
 
-[4597-4600]
-<view>dzogchen-sems
-<pedagogy>instructional-provisionality
-<risk>reification
-<classification> Speech pith introduction: training, abiding, swallowing. Opens with citation from Thal 'gyur establishing scriptural authority for three aspects of speech training. Verse structure uses tricolon with anaphora, common in Dzogchen instructional literature. Maintains triadic pattern from posture section. Risk of reification: treating training stages as sequential achievements.
+[4476-4502] <structure>
+# Three Buddha-Bodies as Innate Endowments
+**Analysis:** Lines 4476-4502 elaborate the doctrine that the three Buddha-bodies are innate endowments (*ngo bo nyid*) within the heart, not achievements to be gained:
 
-[4597-4600]
-<view>ordinary-cognition
-<pedagogy>instructional-provisionality
-<risk>view-collapse
-<classification> Philological: continuative de ltar links preceding posture instructions to speech training. Term bslab pa (training) appears with progressive intensification: brief sessions then extended. Verb bcad pa (cut) appears in compounds establishing semantics of restriction. Term la bzla ba (swallowing) glossed as not uttering mantra—total cessation of verbalization. Risk of view-collapse: treating cessation as technique rather than natural state.
+- Lines 4476-4491: Dharmakāya as luminous mind's essence
+- Lines 4492-4502: Liberation modalities through recognizing these endowments
 
+**Structural Logic:** The section moves from ontological claim (bodies are innate) to soteriological method (liberation through recognition).
+
+[4476-4502] <philology>
+## Key Technical Terms
+**Analysis:**
+- *ngo bo nyid* — own-nature/essence (Skt. *svabhāva*)
+- *rdzu 'phrul* — magical manifestation (not "magic" but "spontaneous display")
+- *chos kyi sku* — Dharma-body (not merely "Dharma-kaya" but "body of reality")
+- *nges par 'byung ba* — definite emergence/ascertainment
+
+The phrase *chos nyid mngon par rtogs pa* indicates direct realization of reality-nature, distinct from conceptual understanding.
+
+[4476-4502] <context>
+## Scriptural Sources
+**Analysis:** This passage draws from multiple sources:
+- *Thal 'gyur* (Consequence School) for logical argumentation
+- *Rang shar* (Self-Arisen) for Dzogchen tantric context
+- *Nyi zla kha sbyor* (Sun-Moon Union) for subtle energetics
+
+The four immeasurables (*tshad med bzhi*) represent common Mahayana foundation that Atiyoga presupposes—Dzogchen does not bypass conventional bodhicitta but includes it within ultimate bodhicitta recognition.
+
+[4476-4502] <concept>
+## Posture as Recognition-Facilitating Condition
+**Analysis:** The passage distinguishes between:
+- **Ordinary sitting**: Body-mind disturbance, wisdom obscured
+- **Precious posture**: Channels aligned, wisdom manifests
+
+The snake-limb metaphor illustrates: just as snake's limbs exist coiled within, wisdom manifests only through specific bodily arrangement. Three epistemic conditions:
+1. Blocking: Without bending body, channels blocked
+2. Raising: Vision increases with proper gaze  
+3. Coiling: Precious posture enables wisdom when ordinary sitting fails
+
+These are not causes but conditions facilitating recognition.
+
+[4503-4546] <structure>
+# Liberation Modalities Through Posture
+**Analysis:** Lines 4503-4546 present three liberation modalities:
+1. Liberation through Nirmāṇakāya posture
+2. Liberation through Saṃbhogakāya posture
+3. Liberation through Dharmakāya posture
+
+Each follows pattern: description → liberation result → scriptural citation.
+
+[4503-4546] <philology>
+## Ablative and Instrumental Constructions
+**Analysis:** 
+- Ablative *las* indicates separation from cycle (*'khor ba las 'das pa*)
+- Instrumental marks three bodies as agents of intent
+- *brda* (sign/indication) with temporal qualifiers establishes postures as prophetic indicators
+
+The Tibetan grammatical structure uses *de ltar* (thus) as continuative, linking posture instructions to their soteriological function.
+
+[4503-4546] <context>
+## Constitutional Correlations
+**Analysis:** Traditional Tibetan medical constitutional theory integrated with Dzogchen:
+- Cold constitution → Nirmāṇakāya posture
+- Hot constitution → Dharmakāya posture
+- Balanced constitution → Saṃbhogakāya posture
+
+This reflects the Nyingma result vehicle position (*'bras bu'i theg pa*) contrasting with causal vehicle (*rgyu'i theg pa*) gradualism.
+
+[4503-4546] <concept>
+## Two Liberation Principles
+**Analysis:** Two principles govern posture practice:
+1. **Path-obstacle clearing**: Three postures liberate from binding of body, speech, mind
+2. **Numerical sufficiency**: Exactly three postures required—more unnecessary, fewer incomplete
+
+Transition to *ngag gi gnad* (speech pith) section uses *smra ba bcad pa* (speech cutting) as pivot. Triadic structure: body postures established, speech training follows, mind to follow.
+
+[4547-4565] <structure>
+# Constitutional Theory and Body Types
+**Analysis:** Lines 4547-4565 elaborate the correlation between body constitution and Buddha-body:
+- Cold constitution → Nirmāṇakāya
+- Hot constitution → Dharmakāya  
+- Balanced → Saṃbhogakāya
+
+The section explains how body temperature correlates with karmic predisposition and appropriate practice.
+
+[4547-4565] <philology>
+## Medical-Buddhist Terminology
+**Analysis:**
+- *drod* — heat/warmth (also means "spiritual heat" or *tummo*)
+- *bsil ba* — cooling (correlates with peace practices)
+- *mtshang* — constitutional balance
+- *yang dag* — authentic/genuine (not merely "true")
+
+The medical terminology reflects integration of Tibetan medicine (*gso ba rig pa*) with Buddhist practice.
+
+[4547-4565] <context>
+## Tibetan Medical Integration
+**Analysis:** This passage demonstrates Longchenpa's synthesis of Tibetan medical theory with Dzogchen:
+- Three constitutional types derive from *khrag 'thung* (drinking blood) tradition
+- Four elements (*'byung ba*) correlate with bodily humors
+- Channel-wind (*rtsa rlung*) system underlies energetic basis
+
+This reflects Nyingma整合 (integration) of indigenous Tibetan knowledge with Buddhist soteriology.
+
+[4547-4565] <concept>
+## Three Liberation Modalities
+**Analysis:** Three types of liberation through posture:
+1. **Through exertion** (*rtsol ba*): Nirmāṇakāya path
+2. **Through spontaneity** (*Ihun grub*): Saṃbhogakāya result
+3. **Through fearlessness** (*mi 'jigs pa*): Dharmakāya nature
+
+The snake-limb simile: as snake's limbs exist coiled within body but don't appear until needed, wisdom manifests only through specific bodily arrangements.
+
+[4566-4596] <structure>
+# Three Poisons as Three Bodies
+**Analysis:** Lines 4566-4596 present the core correspondence:
+- Desire → Bird-type → Nirmāṇakāya
+- Ignorance → Pig-type → Saṃbhogakāya
+- Aversion → Snake-type → Dharmakāya
+
+Each poison-manifestation results in specific rebirth type and corresponding liberation posture.
+
+[4566-4596] <philology>
+## Rebirth Terminology Analysis
+**Analysis:**
+- *byol song* — beings in cyclic existence (not merely "sentient beings")
+- *smin pa* — ripening (karmic maturation process)
+- *gzugs* — form/body (specifically rebirth form)
+- *'gro ba* — going/migration (cyclic movement)
+
+The ablative *las* marks causal origin of rebirth forms; *ni* serves topicalizing function introducing each rebirth type.
+
+[4566-4596] <context>
+## Three Systems Synthesis
+**Analysis:** Three integrated systems:
+1. **Karmic causality**: Three poisons produce three rebirth destinies
+2. **Constitutional psychology**: Each rebirth type exhibits specific somatic/psychological characteristics
+3. **Somatic remediation**: Each type harmonizes with specific postures
+
+This demonstrates Longchenpa's comprehensive synthesis of Buddhist, medical, and yogic traditions.
+
+[4566-4596] <concept>
+## Liberation Through Recognition
+**Analysis:** Key Dzogchen principle: The three bodies are not achieved but recognized. Liberation modalities:
+- Body liberation: Through posture alignment
+- Speech liberation: Through breath control
+- Mind liberation: Through recognition of awareness
+
+The passage concludes with transition to speech training (*ngag gi gnad*), establishing triadic pattern: body → speech → mind.
+
+[4597-4600] <structure>
+# Speech Training Introduction
+**Analysis:** Lines 4597-4600 introduce speech training (*ngag gi brda*) with three aspects:
+1. Training (*bslab pa*)
+2. Abiding (*gnas pa*)
+3. Swallowing (*la bzla ba*)
+
+Opens with citation from *Thal 'gyur* establishing scriptural authority.
+
+[4597-4600] <philology>
+## Speech Technical Terms
+**Analysis:**
+- *bslab pa* — training (deliberate cultivation)
+- *la bzla ba* — swallowing (not uttering mantras, total cessation)
+- *smra ba bcad pa* — speech cutting (restriction of verbalization)
+- *de ltar* — thus/continuative (links to preceding)
+
+The verb *bcad pa* (cut) appears in compounds establishing semantics of restriction.
+
+[4597-4600] <context>
+## Speech in Dzogchen Practice
+**Analysis:** Speech training in Dzogchen differs from tantric mantra practice:
+- Not external recitation but internal refinement
+- Focus on breath-wind relationship
+- Culmination in *ngag gi gnad* (speech pith)
+
+This reflects the inner tantra (*gsang rgyud*) emphasis on subtle energetics over external ritual.
+
+[4597-4600] <concept>
+## Progressive Intensification
+**Analysis:** Speech training follows progressive intensification:
+- Brief sessions initially
+- Extended practice over time
+- Culmination in total cessation (*la bzla ba*)
+
+The pattern mirrors body posture development: from deliberate training to spontaneous expression.
