@@ -11,14 +11,14 @@
 [6434] <prose> The teaching of all, the number of sixty-four hundred-thousand.
 [6435] <prose> The primordial first Buddha:
 [6436] <verse> "First, the superior Smṛti-protector,
-[6437] <prose> Mudrā of self-remembering wheel,
-[6438] <prose> The word distinguishing superior from base,
+[6437] <break> <prose> Mudrā of self-remembering wheel,
+[6438] <break> <prose> The word distinguishing superior from base,
 [6439] <prose> Śikhin, arisen at the previous beginning.
 [6440] <prose> By seventy myriads of this time,
 [6441] <prose> This mudrā is supreme."
 [6442] <prose> To:
-[6443] <verse> "The wisdom-protector of exhausted mindfulness, || 20 ||
-[6444] <prose> The essence, self-word, secret understood,
+[6443] <break> <verse> "The wisdom-protector of exhausted mindfulness, || 20 ||
+[6444] <break> <prose> The essence, self-word, secret understood,
 [6445] <prose> To the aeon of strife-possessing,
 [6446] <prose> By the nineteen lineage-holders,
 [6447] <prose> The definitive mudrā supreme held."
@@ -96,8 +96,8 @@
 [6519] <verse> "Listen, fortunate monk Pal:
 [6520] <prose> I, from not abiding here,
 [6521] <prose> Until sixty years of life,
-[6522] <prose> One thousand results of liberation
-[6523] <prose> Arising as self-release: || 100 ||
+[6522] <break> <prose> One thousand results of liberation
+[6523] <break> <prose> Arising as self-release: || 100 ||
 [6524] <prose> Monk form, half of that;
 [6525] <prose> Remainder, bodhisattvas.
 [6526] <prose> Then until fifty,
@@ -149,8 +149,8 @@
 [6572] <prose> The enumeration of liberation in the bardo:
 [6573] <prose> Also from the former: || 150 ||
 [6574] <verse> "Between the two births, manifestly Buddha,
-[6575] <prose> In the interval of ten years of life, these:
-[6576] <prose> Seven thousand meet the mother of appearances;
+[6575] <break> <prose> In the interval of ten years of life, these:
+[6576] <break> <prose> Seven thousand meet the mother of appearances;
 [6577] <prose> Males, indeed six thousand;
 [6578] <prose> Female form, one thousand.
 [6579] <prose> Thus males and females, boys and girls,
@@ -272,8 +272,8 @@
 [6695] <prose> By Wheel Lightning Garland,
 [6696] <prose> Will appear to the Bhagavān.
 [6697] <prose> Then, three hundred years,
-[6698] <prose> Thus, below the passing of three,
-[6699] <prose> The teaching's mind-vajra also
+[6698] <break> <prose> Thus, below the passing of three,
+[6699] <break> <prose> The teaching's mind-vajra also
 [6700] <prose> Will appear to that teacher.
 [6701] <prose> Then, in five hundred years,
 [6702] <prose> The teaching's kāya also descended there;
@@ -286,10 +286,10 @@
 [6709] <prose> Definitely held, manifestly appeared.
 [6710] <prose> That, etc., the teacher's retinue:
 [6711] <prose> Ārya śrāvakas, twenty thousand,
-[6712] <prose> Vinaya teaching, one eon
-[6713] <prose> Placed in the arhat result itself; || 290 ||
-[6714] <prose> Then six dark aeons,
-[6715] <prose> After that passed, two hundred-thousand arhats,
+[6712] <break> <prose> Vinaya teaching, one eon
+[6713] <break> <prose> Placed in the arhat result itself; || 290 ||
+[6714] <break> <prose> Then six dark aeons,
+[6715] <break> <prose> After that passed, two hundred-thousand arhats,
 [6716] <prose> Gathered in one's own retinue;
 [6717] <prose> Sūtra teaching, eight aeons,
 [6718] <prose> Placed at the end of provisional-definitive action.

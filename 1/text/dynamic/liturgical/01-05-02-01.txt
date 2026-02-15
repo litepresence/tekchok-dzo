@@ -33,8 +33,8 @@
 [4315] <prose> Mind remains changeless, memory clear,
 [4316] <prose> Awareness unchanging, three bodies clear,
 [4317] <prose> Mind, mind, slow—the memory stream ceases.
-[4318] <prose> Body and speech become slack, free from suffering.
-[4319] <prose> Awareness becomes slack, five bodies arise.
+[4318] <break> <prose> Body and speech become slack, free from suffering.
+[4319] <break> <prose> Awareness becomes slack, five bodies arise.
 [4320] <prose> Awareness arisen, conditions cease.
 [4321] <prose> Expanse-awareness arisen, realm and mind cease.
 [4322] <prose><tantra> Thus is indicated the method's Tantra. || 40 ||
@@ -88,9 +88,9 @@
 [4370] <prose> Now the three non-returns:
 [4371] <prose> When saṃsāra itself is known as primordially Buddha,
 [4372] <prose> Awareness has no continuum—so no return. || 90 ||
-[4373] <prose> Awareness kāya appears manifestly; delusion-appearances fall into pure-appearances—so appearances do not return.
+[4373] <break> <prose> Awareness kāya appears manifestly; delusion-appearances fall into pure-appearances—so appearances do not return.
 [4374] <prose> Dharmatā appears as manifold.
-[4375] <prose> That realization's confidence gained—so no return.
+[4375] <break> <prose> That realization's confidence gained—so no return.
 [4376] <prose> Now the three appearances:
 [4377] <prose> Dimension: appearance without day or night.
 [4378] <prose> Awareness: appearance without clear-dimming.
@@ -133,8 +133,8 @@
 [4415] <prose> From <tantra>the Continuation of the Buddha Tantras:
 [4416] <prose> The Buddha's all essence gathered,
 [4417] <prose> Placed into all beings' hearts.
-[4418] <prose> That essence: the intestine-continuum.
-[4419] <prose> Since clarity not gathered, called "essence."
+[4418] <break> <prose> That essence: the intestine-continuum.
+[4419] <break> <prose> Since clarity not gathered, called "essence."
 [4420] <prose> Thus,
 [4421] <prose> From <tantra>the Diligent Meaning-Possessing Tantra:
 [4422] <prose> All teachings' supreme essence: || 140 ||
@@ -151,8 +151,8 @@
 [4433] <prose> Basis, nature, methods:
 [4434] <prose> Relying, even to the Buddha-field,
 [4435] <prose><tantra> Effortless, easy—so placed as Tantra.
-[4436] <prose> Thus.
-[4437] <prose> The Determination of These Meanings
+[4436] <break> <prose> Thus.
+[4437] <break> <prose> The Determination of These Meanings
 [4438] <prose> From <tantra>the Pearl Garland:
 [4439] <prose><tantra> Nature-Tantra is this:
 [4440] <prose> Basis, essence, quintessence itself.
@@ -160,11 +160,11 @@
 [4442] <prose> Compassion pervading all, arisen, || 160 ||
 [4443] <prose> Possessing self-nature of three primordial wisdoms,
 [4444] <prose> Primordially pure from stains,
-[4445] <prose> The unique one of indivisibility.
-[4446] <prose> All Buddhas' great secret.
+[4445] <break> <prose> The unique one of indivisibility.
+[4446] <break> <prose> All Buddhas' great secret.
 [4447] <prose> Kāya: perfected essence-awareness.
-[4448] <prose><tantra> Kāya's Tantra: pervading emptiness.
-[4449] <prose> Clarity itself is self-appearance.
+[4448] <break> <prose><tantra> Kāya's Tantra: pervading emptiness.
+[4449] <break> <prose> Clarity itself is self-appearance.
 [4450] <prose> Non-appearance possessing clarity's nature.
 [4451] <prose><tantra> Perfect essence's nature-Tantra.
 [4452] <prose><tantra> All appearances are Tantra, || 170 ||
@@ -252,8 +252,8 @@
 [4534] <prose> Body-relic intermediate, jewel heap,
 [4535] <prose> Blazing lamp, six great spaces—
 [4536] <prose> Thus the sixteen sequences.
-[4537] <prose> Arisen certainly from sudden sound, appearing to disciples and sentient beings.
-[4538] <prose> Thus,
+[4537] <break> <prose> Arisen certainly from sudden sound, appearing to disciples and sentient beings.
+[4538] <break> <prose> Thus,
 [4539] <prose> The Abode of These, Determined:
 [4540] <prose> From <tantra>the Pearl Garland:
 [4541] <prose><tantra> Word tantras, clearly divided in sequence.
@@ -326,10 +326,10 @@
 [4608] <prose> Striking contradiction, protecting all obstacles.
 [4609] <prose> These too, from <tantra>the Pearl Garland:
 [4610] <prose> Vajra-holder, certainly united.
-[4611] <prose><tantra> Knowing tantras' three heart essences:
-[4612] <prose> Like king, minister, and subject gathered. || 330 ||
-[4613] <prose><tantra> Knowing tantras' three essences:
-[4614] <prose> Like reaching three mountains' peaks.
+[4611] <break> <prose><tantra> Knowing tantras' three heart essences:
+[4612] <break> <prose> Like king, minister, and subject gathered. || 330 ||
+[4613] <break> <prose><tantra> Knowing tantras' three essences:
+[4614] <break> <prose> Like reaching three mountains' peaks.
 [4615] <prose><tantra> Knowing tantras' three flowers:
 [4616] <prose> Like three suns rising in the sky.
 [4617] <prose><tantra> Knowing tantras' one summary:

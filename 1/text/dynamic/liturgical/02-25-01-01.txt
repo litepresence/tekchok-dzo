@@ -81,8 +81,8 @@
 [15715] <prose> Result, expression, unable.
 [15716] <prose> Phenomena exhaustion ground reached.
 [15717] <prose> Own established view also ceased.
-[15718] <prose> This time, guru's instruction sunk.
-[15719] <prose> View, meditation, conduct, end, emptied.
+[15718] <break> <prose> This time, guru's instruction sunk.
+[15719] <break> <prose> View, meditation, conduct, end, emptied.
 [15720] <prose> Phenomena appearance, existence, non-existence.
 [15721] <prose> Body, wisdom, stream, ceased.
 [15722] <prose> Buddha without, beings without.
@@ -138,8 +138,8 @@
 [15772] <prose> Primordial purity, inner sphere, clear light, elements great, five, sphere.
 [15773] <prose> Individual, abiding, becoming, parts, counted.
 [15774] <prose> Impure elements, actual, pure elements, abiding, becoming, ground, latent, non. || 140 ||
-[15775] <prose> Impure five, pure force, wisdom pure, five, elements great, appearance, relied.
-[15776] <prose> Pure result, parts, established.
+[15775] <break> <prose> Impure five, pure force, wisdom pure, five, elements great, appearance, relied.
+[15776] <break> <prose> Pure result, parts, established.
 [15777] <prose> Wind, Vajra cross, arranged, well, samaya goddess, space, rolled, unmoving, wind, sphere, sunk.
 [15778] <prose> Earth, precious, five, stupa, even, manner, essence.
 [15779] <prose> Hard without, earth sphere, sunk.
@@ -160,20 +160,20 @@
 [15794] <prose> Precious space, end, center, without. || 160 ||
 [15795] <prose> Precious empty mandala, drawn, well.
 [15796] <prose> Precious relic, burning, stupa, arranged, well.
-[15797] <prose> Introduction, adorned.
-[15798] <prose> Eye, eye consciousness.
+[15797] <break> <prose> Introduction, adorned.
+[15798] <break> <prose> Eye, eye consciousness.
 [15799] <prose> Ear, ear consciousness.
 [15800] <prose> Nose, smell consciousness.
 [15801] <prose> Tongue, tongue consciousness.
 [15802] <prose> Body, body consciousness, suchness, knowing.
-[15803] <prose> Body completely beyond sorrow, form aggregate, purified.
-[15804] <prose> Space completely beyond sorrow, consciousness aggregate, purified. || 170 ||
-[15805] <prose> Earth completely beyond sorrow, feeling aggregate, purified.
-[15806] <prose> Fire completely beyond sorrow, aggregate, purified.
-[15807] <prose> Wind completely beyond sorrow, aggregate, purified.
-[15808] <prose> Thus it is.
-[15809] <prose> Second, wisdom sphere sunk.
-[15810] <prose> Five afflictions, wisdom five, purified, self-radiance five, inner sphere, clear light, sunk.
+[15803] <break> <prose> Body completely beyond sorrow, form aggregate, purified.
+[15804] <break> <prose> Space completely beyond sorrow, consciousness aggregate, purified. || 170 ||
+[15805] <break> <prose> Earth completely beyond sorrow, feeling aggregate, purified.
+[15806] <break> <prose> Fire completely beyond sorrow, aggregate, purified.
+[15807] <break> <prose> Wind completely beyond sorrow, aggregate, purified.
+[15808] <break> <prose> Thus it is.
+[15809] <break> <prose> Second, wisdom sphere sunk.
+[15810] <break> <prose> Five afflictions, wisdom five, purified, self-radiance five, inner sphere, clear light, sunk.
 [15811] <prose> Deep radiance, color five, ground, abiding.
 [15812] <prose><tantra> From Six Expanses.
 [15813] <prose> Self-radiance moved, white part.
@@ -203,9 +203,9 @@
 [15837] <prose> Perfected, peak, abiding.
 [15838] <prose> With signs, signs, self-purified.
 [15839] <prose> Deep clear, great, ground, abiding.
-[15840] <prose> Thus and.
+[15840] <break> <prose> Thus and.
 [15841] <prose><tantra> From Rigpa Self-Arisen.
-[15842] <prose> Precious arrangement, net, even, called.
+[15842] <break> <prose> Precious arrangement, net, even, called.
 [15843] <prose> Fourth, clear light sphere rolled, four.
 [15844] <prose> Sunk, non-dulled. || 210 ||
 [15845] <prose> Clear, conception, without.
@@ -293,8 +293,8 @@
 [15927] <prose> Buddha capacity, abandonment, obtainment, end, beyond, lion-like.
 [15928] <prose> Buddha qualities, empty, end, beyond, wish-fulfilling jewel, precious, like.
 [15929] <prose> Buddha essence, self, thought, end, beyond, all-pervading, wisdom, itself.
-[15930] <prose> Buddha abiding, faculties, objects, beyond, self-appearance, itself.
-[15931] <prose> Self-arisen meaning, itself, speech.
+[15930] <break> <prose> Buddha abiding, faculties, objects, beyond, self-appearance, itself.
+[15931] <break> <prose> Self-arisen meaning, itself, speech.
 [15932] <prose> Thus and.
 [15933] <prose><tantra> From Rigpa Self-Arisen.
 [15934] <prose> Perfectly perfected Buddha, meaning, end, without. || 300 ||
@@ -332,8 +332,8 @@
 [15966] <prose> Self-place exhausted Dharmatā.
 [15967] <prose> Elements exhausted, with signs, ceased.
 [15968] <prose> Atoms, smallest, end, ceased.
-[15969] <prose> Parts, even, abiding, non.
-[15970] <prose> Afflictions exhausted, delusion.
+[15969] <break> <prose> Parts, even, abiding, non.
+[15970] <break> <prose> Afflictions exhausted, delusion.
 [15971] <prose> Thought-free, attachment, abiding, non.
 [15972] <prose> Habitual patterns, all, rising.
 [15973] <prose> Dust, part, even, abiding, non.
@@ -381,8 +381,8 @@
 [16015] <prose> Moreover, wisdom three, existence, body, wisdom, all, source, became, Dharmakāya, unmoving, form body, activity, disciples, appearance, capable, capacity, ground, arising.
 [16016] <prose> Thus, non, Buddha, Dharmakāya, taste, one.
 [16017] <prose> Wisdom, without, beings, meaning, Buddha, phenomena, measure, without, completely, without, becomes, therefore.
-[16018] <prose><tantra> From Collection.
-[16019] <prose> Wisdom, without, qualities, increase, without, enlightenment.
+[16018] <break> <prose><tantra> From Collection.
+[16019] <break> <prose> Wisdom, without, qualities, increase, without, enlightenment.
 [16020] <prose> Ocean, like, Buddha, phenomena, without, becomes.
 [16021] <prose> Thus it is.
 [16022] <prose> Thus wisdom, without, expression, anywhere, unestablished, refutation.
@@ -398,19 +398,19 @@
 [16032] <prose> Primordially pure, stain, exhausted.
 [16033] <prose> Essence, primordially, delusion, without.
 [16034] <prose> Arising, unceased, spontaneous presence. || 400 ||
-[16035] <prose> Thus it is.
-[16036] <prose> Thus primordial purity, sphere, spontaneous presence, abiding, essence, nature, compassion, part, subtle, actual, appearance.
+[16035] <break> <prose> Thus it is.
+[16036] <break> <prose> Thus primordial purity, sphere, spontaneous presence, abiding, essence, nature, compassion, part, subtle, actual, appearance.
 [16037] <prose> Ground, abiding, wisdom, three, other, two, arising ground, made.
 [16038] <prose><tantra> From that source.
 [16039] <prose> Thus liberation, mind.
 [16040] <prose> Compassion, without, non.
-[16041] <prose> Ground, abiding, wisdom, nature, force, arising ground, made.
-[16042] <prose> Characteristics, apprehending, wisdom, conditions, pure, ripened, made.
+[16041] <break> <prose> Ground, abiding, wisdom, nature, force, arising ground, made.
+[16042] <break> <prose> Characteristics, apprehending, wisdom, conditions, pure, ripened, made.
 [16043] <prose> Known, knowing, wisdom, devotion, capable, siddhi, given.
 [16044] <prose> Thus it is. || 410 ||
 [16045] <prose> Ground, abiding, three, arising ground, made, manner.
-[16046] <prose> Essence, three bodies, arising ground, made, three bodies, difference, appearance, part, unestablished.
-[16047] <prose> Nature, five lights, arising ground, made, color, self-characteristics, unestablished.
+[16046] <break> <prose> Essence, three bodies, arising ground, made, three bodies, difference, appearance, part, unestablished.
+[16047] <break> <prose> Nature, five lights, arising ground, made, color, self-characteristics, unestablished.
 [16048] <prose> Compassion, wisdom, two, arising ground, made, object, parts, actual, measure, without.
 [16049] <prose><tantra> From Thal Gyur.
 [16050] <prose> Thus essence, body, abiding.
@@ -418,8 +418,8 @@
 [16052] <prose> Not divided, dividing, without, manner.
 [16053] <prose> Descended, established, from.
 [16054] <prose> Body, color, etc., mind, object, without. || 420 ||
-[16055] <prose> Nature, arising, light, manner.
-[16056] <prose> White, red, yellow, green, blue.
+[16055] <break> <prose> Nature, arising, light, manner.
+[16056] <break> <prose> White, red, yellow, green, blue.
 [16057] <prose> Signs, characteristics, without.
 [16058] <prose> Without class, known, descended, established.
 [16059] <prose> Compassion, appearance, various, from.
@@ -432,8 +432,8 @@
 [16066] <prose> Pervading, pervaded, itself, empty.
 [16067] <prose> Partial, from, cut, without, appearance.
 [16068] <prose> Clear, appearance, part, unceased.
-[16069] <prose> Essence, all, essence, gathered.
-[16070] <prose> Stain, without, self-pure.
+[16069] <break> <prose> Essence, all, essence, gathered.
+[16070] <break> <prose> Stain, without, self-pure.
 [16071] <prose> Buddhas, secret, great, nature, part, abiding.
 [16072] <prose> Compassion, appearance, part, various, from.
 [16073] <prose> Empty, part, cessation, without, itself.
@@ -442,8 +442,8 @@
 [16076] <prose> Nature, force, compassion.
 [16077] <prose> Activity, effort, without.
 [16078] <prose> Without, appearance, manner, pure.
-[16079] <prose> Primordially, dividing, without, appearance.
-[16080] <prose> Sun, light, like.
+[16079] <break> <prose> Primordially, dividing, without, appearance.
+[16080] <break> <prose> Sun, light, like.
 [16081] <prose> Own, made, non.
 [16082] <prose> Own, nature, thus, appearance.
 [16083] <prose> Thus and.
@@ -498,11 +498,11 @@
 [16132] <prose> Dharmatā, known, non.
 [16133] <prose> That, knowing, capable, non.
 [16134] <prose> Thus spoken. || 500 ||
-[16135] <prose> Madhyamaka, Prasangikas, Buddha, actual, Dharmakāya, pure, empty, that, asserted.
-[16136] <prose> Self-place, existence, non-existence, elaboration, ceased, body, wisdom, only, unestablished.
-[16137] <prose> Other, appearance, Buddha, compassion.
+[16135] <break> <prose> Madhyamaka, Prasangikas, Buddha, actual, Dharmakāya, pure, empty, that, asserted.
+[16136] <break> <prose> Self-place, existence, non-existence, elaboration, ceased, body, wisdom, only, unestablished.
+[16137] <break> <prose> Other, appearance, Buddha, compassion.
 [16138] <prose> Disciples, prayer, form body, activity, appearance.
-[16139] <prose> Space, garuda's, offering, pillar, jewel, wish-fulfilling, tree, like, asserted.
+[16139] <break> <prose> Space, garuda's, offering, pillar, jewel, wish-fulfilling, tree, like, asserted.
 [16140] <prose><tantra> From Entry.
 [16141] <prose> Peaceful, body, wish-fulfilling, tree, clear, become.
 [16142] <prose> Wish-fulfilling, jewel, like, non-conceptual.
@@ -543,8 +543,8 @@
 [16177] <prose> Path, sphere, wisdom, two, experience, practice.
 [16178] <prose> Result, Dharmakāya, two, clear, meaning, end, complete.
 [16179] <prose><tantra> From Thal Gyur.
-[16180] <prose> Dharmakāya, form body, clear.
-[16181] <prose> Thus it is.
+[16180] <break> <prose> Dharmakāya, form body, clear.
+[16181] <break> <prose> Thus it is.
 [16182] <prose> Body, three, division.
 [16183] <prose> Essence, part, empty, knowing, wisdom, Dharmakāya.
 [16184] <prose> Self-appearance, clear light, enjoyment body. || 550 ||
@@ -588,9 +588,9 @@
 [16222] <prose> Who, existence, how long, until.
 [16223] <prose> Beings, benefit, various.
 [16224] <prose> Equal, enacted, body, that. || 590 ||
-[16225] <prose> Sage's, emanation, stream, unceasing.
+[16225] <break> <prose> Sage's, emanation, stream, unceasing.
 [16226] <prose> Thus, indeed.
-[16227] <prose> Body, five, division.
+[16227] <break> <prose> Body, five, division.
 [16228] <prose> Abandonment, realization, liberation, end, peace, obtained, perfect enlightenment, body.
 [16229] <prose> Sphere, primordial purity, change, without, unchanging, Vajra, body.
 [16230] <prose> Dharmakāya, enjoyment, body, emanation, body, five.
@@ -602,9 +602,9 @@
 [16236] <prose> Thus it is.
 [16237] <prose> Body, divisions, these, other, also, measure, without, elaboration, enough.
 [16238] <prose> Second, meaning, connection, established, time, meaning, explained, two.
-[16239] <prose> Thus the ground basis chapter complete.
+[16239] <break> <prose> Thus the ground basis chapter complete.
 [16240] <prose> The spontaneous presence of Dharmatā.
-[16241] <prose> The Dharmakāya of Samantabhadra.
+[16241] <break> <prose> The Dharmakāya of Samantabhadra.
 [16242] <prose> The clear light of the bindu.
 [16243] <prose> May all realize.
 [16244] <prose> The natural state. || 610 ||
@@ -617,9 +617,9 @@
 [16251] <prose> The Dharmakāya, Saṃbhogakāya, Nirmāṇakāya.
 [16252] <prose> Complete in the three kayas.
 [16253] <prose> The Buddha Samantabhadra.
-[16254] <prose> The teacher of all. || 620 ||
+[16254] <break> <prose> The teacher of all. || 620 ||
 [16255] <prose> The ground of spontaneous presence.
-[16256] <prose> May all recognize.
+[16256] <break> <prose> May all recognize.
 [16257] <prose> The true nature of mind.
 [16258] <prose> The clear light Dharmatā.
 [16259] <prose> The end of the ground basis chapter.
@@ -658,8 +658,8 @@
 [16292] <prose> Body and mind reversed.
 [16293] <prose> Ultimate bindu meditation,
 [16294] <prose> Dharmakāya emptiness objects obtained. || 660 ||
-[16295] <prose> Empty bindu lamp itself,
-[16296] <prose> Sealed, awareness' channels purified.
+[16295] <break> <prose> Empty bindu lamp itself,
+[16296] <break> <prose> Sealed, awareness' channels purified.
 [16297] <prose> Day and night without distinction, familiarizing,
 [16298] <prose> This itself effortlessness manifest.
 [16299] <prose> That is the measure of mastery.
@@ -673,8 +673,8 @@
 [16307] <prose> Mudra searching,
 [16308] <prose> Attracting,
 [16309] <prose> Meditating,
-[16310] <prose> Channel searching,
-[16311] <prose> Holding,
+[16310] <break> <prose> Channel searching,
+[16311] <break> <prose> Holding,
 [16312] <prose> Practice doing,
 [16313] <prose> Actual bindu directing,
 [16314] <prose> Holding, || 680 ||
@@ -689,6 +689,6 @@
 [16323] <prose> Non-elaboration yogin,
 [16324] <prose> Clear light bindu direct path making, || 690 ||
 [16325] <prose> Posture and gaze definite,
-[16326] <prose> Beginner time, empty bindu lamp sealed, meditated,
-[16327] <prose> Clear light appearance day-night mixed, engaging.
+[16326] <break> <prose> Beginner time, empty bindu lamp sealed, meditated,
+[16327] <break> <prose> Clear light appearance day-night mixed, engaging.
 [16328] <prose> Moreover, conventional bindu dwelling at Roma,

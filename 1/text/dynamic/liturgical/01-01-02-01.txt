@@ -211,10 +211,10 @@
 [385] <prose> That also, from Amitayus life, from the time of thousand Buddhas, the body-taming teaching,
 [386] <prose> Exists three times five hundred five thousand years.
 [387] <prose> Then until seventy years of life, the speech-taming teaching,
-[388] <prose> One five hundred five thousand years.
-[389] <prose> Then until ten years of life, the mind-taming teaching,
-[390] <prose> One five hundred five thousand years.
-[391] <prose> In the interval of those life years, that much year exists but not time,
+[388] <break> <prose> One five hundred five thousand years.
+[389] <break> <prose> Then until ten years of life, the mind-taming teaching,
+[390] <break> <prose> One five hundred five thousand years.
+[391] <break> <prose> In the interval of those life years, that much year exists but not time,
 [392] <prose> The year numbers tamed by those teachings are explained.
 [393] <prose> That also, at the time of body teaching, that Vajra exists in the island possessing salty taste, Uddiyana land ocean,
 [394] <prose> Occasionally making countless emanations possessing light, sound, and monk miracle arise. || 220 ||
@@ -227,8 +227,8 @@
 [401] <prose> Making offering-fields for special assemblies of gods and humans;
 [402] <prose> When harm arises to the teaching,
 [403] <prose><tantra> From body comes light,
-[404] <prose> hūṃ || 230 ||
-[405] <prose><tantra> From eyes comes fire, turning back the harm.
+[404] <break> <prose> hūṃ || 230 ||
+[405] <break> <prose><tantra> From eyes comes fire, turning back the harm.
 [406] <prose> At the time of mind's teaching, the vajra abides in Vajrāsana's sky.
 [407] <prose> The syllable abides in the extremely wrathful ṛṣi's cave.
 [408] <prose> The body in the thirty-three gods' measureless palace,
@@ -269,8 +269,8 @@
 [443] <prose> Abode complete-abiding at Āmrapāli youth's garden,
 [444] <prose> Teacher sixth Vajradhara, || 270 ||
 [445] <prose> To retinue Buddhas succession seven appearing, self-arranged,
-[446] <prose> Dharma six pāramitās,
-[447] <prose> Taught during seventy-thousand year lifespan.
+[446] <break> <prose> Dharma six pāramitās,
+[447] <break> <prose> Taught during seventy-thousand year lifespan.
 [448] <ornament> Sixth:
 [449] <prose> Abode complete-abiding at Meru's north, charnel-ground Raurava,
 [450] <prose> Teacher complete-abiding youth Hero Power Great,
@@ -310,8 +310,8 @@
 [484] <prose> Abode complete-abiding at Vajrāsana, || 310 ||
 [485] <prose> Teacher Abhisaṃbodhi King,
 [486] <prose> To retinue three-family protectors,
-[487] <prose> Dharma definitive-meaning vehicle only,
-[488] <prose> Taught during three-hundred year lifespan.
+[487] <break> <prose> Dharma definitive-meaning vehicle only,
+[488] <break> <prose> Taught during three-hundred year lifespan.
 [489] <prose> Twelfth:
 [490] <prose> Abode complete-abiding at Vārāṇasī and so forth,
 [491] <prose> Teacher complete-abiding Śākyamuni,
@@ -372,8 +372,8 @@
 [546] <prose> Mind's four external activities:
 [547] <prose> Sūraṅgama samādhi of heroic majesty and power,
 [548] <prose> Jewel-crest samādhi radiating infinite light,
-[549] <prose> Vicāra samādhi of analytical discernment,
-[550] <prose> Casket samadhi containing all dharma treasures.
+[549] <break> <prose> Vicāra samādhi of analytical discernment,
+[550] <break> <prose> Casket samadhi containing all dharma treasures.
 [551] <prose> The four internal activities:
 [552] <prose> Entering all objects with equanimous awareness,
 [553] <prose> Manifest appearance free from grasping and fixation,

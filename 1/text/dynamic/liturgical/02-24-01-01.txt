@@ -39,8 +39,8 @@
 [15313] <prose> No hidden instruction exists.
 [15314] <ornament> Regarding the manner of exhaling into natural emanation: || 40 ||
 [15315] <verse> "Nature" has two aspects:
-[15316] <prose> The nature of abiding, and
-[15317] <prose> The nature of enumeration.
+[15316] <break> <prose> The nature of abiding, and
+[15317] <break> <prose> The nature of enumeration.
 [15318] <prose> Abiding nature thus:
 [15319] <prose><tantra> From primordial time this abides as path-appearance;
 [15320] <prose> Four directions of enjoyment-body gate, spontaneous ground-appearance.
@@ -53,8 +53,8 @@
 [15327] <prose> When they see that body, knowable obscurations are exhausted and they are considered Buddhas.
 [15328] <prose> This itself is also named the Dharma Body of accumulated merit.
 [15329] <prose><tantra> Therefore, from the Six Spheres Tantra:
-[15330] <verse> "The merit-accumulated Dharma Body
-[15331] <prose> And omniscient wisdom—
+[15330] <break> <verse> "The merit-accumulated Dharma Body
+[15331] <break> <prose> And omniscient wisdom—
 [15332] <prose> Similar, similar indeed, O treasure!"
 [15333] <prose> Thus.
 [15334] <verse> "Emanation" thus: || 60 ||
@@ -98,12 +98,12 @@
 [15372] <prose> Jewel Source, Lotus Dance-Horse,
 [15373] <prose> Meaning Accomplished Teacher purifies knowable obscurations.
 [15374] <prose> White, yellow, red, green—colors clear, || 100 ||
-[15375] <prose> Presence-pleasing, mind-pleasing, bird voices proclaiming,
-[15376] <prose> Fragrance gentle—beyond description;
+[15375] <break> <prose> Presence-pleasing, mind-pleasing, bird voices proclaiming,
+[15376] <break> <prose> Fragrance gentle—beyond description;
 [15377] <prose> Faculties pleased, excellence possessed.
 [15378] <prose> Color complete, body complete; food, clothes complete in one;
-[15379] <prose> Body effort-free, wind-moved, going, abiding.
-[15380] <prose> No wind, bile, phlegm diseases, no combinations;
+[15379] <break> <prose> Body effort-free, wind-moved, going, abiding.
+[15380] <break> <prose> No wind, bile, phlegm diseases, no combinations;
 [15381] <prose> Water eight-limbed, hundred tastes—
 [15382] <prose> Drinking pleases; body softens.
 [15383] <prose> Earth, water, fire, wind arise, benefit and harm separated;
@@ -166,8 +166,8 @@
 [15440] <prose> Sba-ba,
 [15441] <prose> Zer-mo,
 [15442] <prose> Divine bird bell-voiced,
-[15443] <prose> Bya-kri-ti-pa golden vajra form—
-[15444] <prose> Blue like turquoise, || 170 ||
+[15443] <break> <prose> Bya-kri-ti-pa golden vajra form—
+[15444] <break> <prose> Blue like turquoise, || 170 ||
 [15445] <prose> White like conch,
 [15446] <prose> Red like coral,
 [15447] <prose> Green like indranila—
@@ -181,13 +181,13 @@
 [15455] <prose> Dawn, inner Dharma;
 [15456] <prose> Solar noon, Great Completion supreme result Dharma.
 [15457] <prose> Thus four Dharma sessions arise each day.
-[15458] <prose> Bodhisattvas abiding there mostly bound by one birth,
-[15459] <prose> Sustaining life five hundred fifty years.
+[15458] <break> <prose> Bodhisattvas abiding there mostly bound by one birth,
+[15459] <break> <prose> Sustaining life five hundred fifty years.
 [15460] <prose> In that field-realm, food, thirst satisfied by mere memory;
 [15461] <prose> No weariness—supreme bliss.
 [15462] <prose> Even in existence, drinking eight-limbed water cleanses.
-[15463] <prose> Various flowers worship that emanation body.
-[15464] <prose> Four corners of celestial palace: four pearl stupas; || 190 ||
+[15463] <break> <prose> Various flowers worship that emanation body.
+[15464] <break> <prose> Four corners of celestial palace: four pearl stupas; || 190 ||
 [15465] <prose> Between them connected by tinkling bell net threads;
 [15466] <prose> Wind moves threads,
 [15467] <prose> Bell sounds emerge, various, mind-pleasing.
@@ -205,8 +205,8 @@
 [15479] <prose> Seven lakes birds,
 [15480] <prose> Water eight limbs, iron mountain;
 [15481] <prose> Throne and Dharma as above.
-[15482] <prose> Those bodhisattvas bound by one birth,
-[15483] <prose> In emanation-body Jewel Source field-realm, such excellence.
+[15482] <break> <prose> Those bodhisattvas bound by one birth,
+[15483] <break> <prose> In emanation-body Jewel Source field-realm, such excellence.
 [15484] <prose><tantra> From here, western Lotus Stacked field-realm, || 210 ||
 [15485] <prose> Emanation body Infinite Light exists;
 [15486] <prose> There also, excellence equal to above.
@@ -254,26 +254,26 @@
 [15528] <prose> Dawn, conduct Dharma;
 [15529] <prose> Noon, view-meditation Dharma.
 [15530] <prose> Thus four Dharma sessions each day, liberating retinue's mindstream.
-[15531] <prose> Bodhisattvas dwelling there bound by one birth,
-[15532] <prose> Attaining life thousand years.
+[15531] <break> <prose> Bodhisattvas dwelling there bound by one birth,
+[15532] <break> <prose> Attaining life thousand years.
 [15533] <prose> Field-realm: food, thirst satisfied by mere memory.
 [15534] <prose> No phlegm-produced diseases, || 260 ||
 [15535] <prose> No wind-produced,
 [15536] <prose> No bile-produced,
 [15537] <prose> No combination-produced diseases.
-[15538] <prose> Various flowers worship emanation body.
+[15538] <break> <prose> Various flowers worship emanation body.
 [15539] <prose> Those bodhisattvas green,
 [15540] <prose> Horses, mounts green,
 [15541] <prose> Boys, girls in form, merely appearing;
-[15542] <prose> All no mental thought.
+[15542] <break> <prose> All no mental thought.
 [15543] <prose> Field-realm: three sentient-being types not exist;
 [15544] <prose> Six sense-bases not exist; || 270 ||
 [15545] <prose> Six afflictions not exist;
 [15546] <prose> Ignorance not exist;
 [15547] <prose> Four conditions not exist;
 [15548] <prose> Mind similar to ignorance not exist;
-[15549] <prose> All merely free from thought.
-[15550] <prose> Celestial palace retinue qualities:
+[15549] <break> <prose> All merely free from thought.
+[15550] <break> <prose> Celestial palace retinue qualities:
 [15551] <prose> Four corners: four crystal jewel stupas, nine stories;
 [15552] <prose> Between them connected by gold bell tinkling nets;
 [15553] <prose> Wind moves these, various pleasant bell sounds emerge.
@@ -325,8 +325,8 @@
 [15599] <prose> Turning secret mantra supreme Dharma wheel for retinue,
 [15600] <prose> Liberating peaceful emanation-body bodhisattvas,
 [15601] <prose> All possessing wrathful garlands.
-[15602] <prose> Celestial palace possesses very vast extent.
-[15603] <prose> Those two also five-five.
+[15602] <break> <prose> Celestial palace possesses very vast extent.
+[15603] <break> <prose> Those two also five-five.
 [15604] <prose><tantra> From the center of that cakra, || 330 ||
 [15605] <prose> Those persons of final faculties,
 [15606] <prose> Like pearls, two channels exist.
@@ -339,11 +339,11 @@
 [15613] <prose> Thus, extensively explained ground and path steps of liberation through essential points of certain secret supreme meaning,
 [15614] <prose> Now, where that method attains completion—fruit step to be ascertained—two: || 340 ||
 [15615] <prose> General presentation of manifest enlightenment manner upon ground of inner primordially pure space,
-[15616] <prose> Specific explanation of appearance manner of body and wisdom from arising basis of spontaneously accomplished luminosity.
-[15617] <prose> First has three:
+[15616] <break> <prose> Specific explanation of appearance manner of body and wisdom from arising basis of spontaneously accomplished luminosity.
+[15617] <break> <prose> First has three:
 [15618] <prose> Holding with essence of liberation place,
-[15619] <prose> Explaining individually nature of liberation,
-[15620] <prose> Ascertaining arising basis of body and wisdom.
+[15619] <break> <prose> Explaining individually nature of liberation,
+[15620] <break> <prose> Ascertaining arising basis of body and wisdom.
 [15621] <ornament> First:
 [15622] <prose> Self-arisen awareness, pure by nature, pure of all adventitious stains;
 [15623] <prose> Twofold purity, non-dual space and wisdom of Dharma Body—primordially pure jewel secret recess—ultimate liberation place.

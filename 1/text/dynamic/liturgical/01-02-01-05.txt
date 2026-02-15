@@ -13,8 +13,8 @@
 [1011] <prose> With four jewel towers
 [1012] <prose> Adorned by the cities of the gods.
 [1013] <prose> The Moon extends fifty leagues,
-[1014] <prose> The great stars eighteen leagues and a quarter,
-[1015] <prose> The medium ranging between seventeen and two,
+[1014] <break> <prose> The great stars eighteen leagues and a quarter,
+[1015] <break> <prose> The medium ranging between seventeen and two,
 [1016] <prose> The small one league, above with the cities of the gods,
 [1017] <prose> Possessing the miracle of circling the four continents by nature each day,
 [1018] <prose> Formed from any of four—gold, copper, water-crystal, or iron— || 20 ||
@@ -26,8 +26,8 @@
 [1024] <prose> Tree,
 [1025] <prose> And five excellent assembly-places,
 [1026] <prose> Surrounding the city lies Indra's palace,
-[1027] <prose> While the common city appears beautiful to behold,
-[1028] <prose><tantra> From three intermediate places, || 30 ||
+[1027] <break> <prose> While the common city appears beautiful to behold,
+[1028] <break> <prose><tantra> From three intermediate places, || 30 ||
 [1029] <prose> The Completely Victorious Palace stands at the center,
 [1030] <prose> Each side extending one hundred fifty leagues,
 [1031] <prose> Rising five and a half leagues upward from the beautiful grounds,
@@ -284,8 +284,8 @@
 [1282] <prose> Body leagues four portion one,
 [1283] <prose> Bow-lengths hundred twenty-five,
 [1284] <prose> Life human-years fifty, day one calculated, own-years five-hundred enduring.
-[1285] <prose> These desire-gods types six.
-[1286] <prose> Asuras types four:
+[1285] <break> <prose> These desire-gods types six.
+[1286] <break> <prose> Asuras types four:
 [1287] <prose> Life-glory god's type thirty-three, body and life equal,
 [1288] <prose> Great-power yakṣa's type Great-king four's body life enjoyment equal, || 290 ||
 [1289] <prose> Fierce nāga's type nāgas equal,
@@ -304,8 +304,8 @@
 [1302] <prose> Some miraculous birth god sons expanded.
 [1303] <prose> Those joy when seeing each other, greatly clear light appearance, activity by miracle:
 [1304] <prose> Those beings go, also go to sky.
-[1305] <prose> Sit, also sit in sky.
-[1306] <prose> Food as meditation, dwell in joy bliss.
+[1305] <break> <prose> Sit, also sit in sky.
+[1306] <break> <prose> Food as meditation, dwell in joy bliss.
 [1307] <prose> Body extends immeasurable light ray groups, where wish to go, by mere thought arrive,
 [1308] <prose> Life years immeasurable last, || 310 ||
 [1309] <prose> No afflictions manifestly move.
@@ -354,8 +354,8 @@
 [1352] <prose> Light clear seven human fathoms, going to sky,
 [1353] <prose> Food eat elements essence,
 [1354] <prose> Became naked without clothes, good lake to wash attached stain also exist.
-[1355] <prose> These also merely engage in ten virtues by nature.
-[1356] <prose> Then by previous action power, life also gradually decrease,
+[1355] <break> <prose> These also merely engage in ten virtues by nature.
+[1356] <break> <prose> Then by previous action power, life also gradually decrease,
 [1357] <prose> Light and merit also degenerated,
 [1358] <prose> Land name called Heat-Moisture Gathered Light-Gathered. || 360 ||
 [1359] <prose> That time elements hot made heat, cool became cause condition, beings all birth from tree sap heat-moisture,

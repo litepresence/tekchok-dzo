@@ -36,8 +36,8 @@
 [12535] <prose>Then seeing a house with eight doors, they laughed and lost themselves in spontaneous presence.
 [12536] <prose>These metaphorical forms point to the meaning of primordial wisdom manifesting as Saṃbhogakāya.
 [12537] <prose>The Teacher Light Diffusion represents self-arising wisdom, the Buddha nature within all beings.
-[12538] <prose>The two sons represent the wisdom of primordial purity and spontaneous presence united.
-[12539] <prose>Being imprisoned in the cave represents how spontaneous appearance lacks wisdom and is bound by non-recognition. || 40 ||
+[12538] <break> <prose>The two sons represent the wisdom of primordial purity and spontaneous presence united.
+[12539] <break> <prose>Being imprisoned in the cave represents how spontaneous appearance lacks wisdom and is bound by non-recognition. || 40 ||
 [12540] <prose>The five men conquering from the stone fortress represents how the five poisons disturb Rigpa's self-abiding nature.
 [12541] <prose>The two sons blocked by the old woman represents Rigpa entering the valley of existence, blocked by non-recognition.
 [12542] <prose>Being captured by four men and separating five from horses represents how the four wisdoms purify the five afflictions.
@@ -99,16 +99,16 @@
 [12598] <prose>Listen, noble child, in the Uncontrived Appearance Land dwells a crystal stupa of Dharmakāya.
 [12599] <prose>Upon its wheel are four silver mirrors of the four lamps, so go from Malaya's peak. || 100 ||
 [12600] <prose>Put it in the rim enclosure, climb the jewel stairs carrying a jewel vessel of wisdom.
-[12601] <verse>At the stupa's peak dwells a teacher Unchanging Light, the Dharmakāya Buddha.
+[12601] <break> <verse>At the stupa's peak dwells a teacher Unchanging Light, the Dharmakāya Buddha.
 [12602] <verse>From his right foot comes a light-ray rope of compassion, so hold it without fear and go.
-[12603] <prose>Then your appearance's father is there, so run there with devotion.
+[12603] <break> <prose>Then your appearance's father is there, so run there with devotion.
 [12604] <prose>Beyond that is a crystal house with eight doors, where your mother Various Appearance dwells.
 [12605] <prose>At that time you will not recognize your mother due to habitual patterns.
 [12606] <prose>Beyond that is a house of various jewels, your true abode, so take your seat there.
 [12607] <prose>Thus prophesied by the Teacher, the boy Chain Puller spoke thus with gratitude.
 [12608] <prose>Great Teacher, we shall do so, he said to his sister with determination.
-[12609] <prose>We shall do as the Teacher prophesied, following the path of liberation. || 110 ||
-[12610] <verse>Riding the sun's rays of wisdom, wearing rainbow armor of the elements.
+[12609] <break> <prose>We shall do as the Teacher prophesied, following the path of liberation. || 110 ||
+[12610] <break> <verse>Riding the sun's rays of wisdom, wearing rainbow armor of the elements.
 [12611] <verse>With a pearl garland binding the waist of channels, holding a crystal spear of awareness.
 [12612] <prose>A path appeared in space and they reached the jewel house without obstruction.
 [12613] <ornament>The meaning is thus, profound and vast.
@@ -122,9 +122,9 @@
 [12621] <prose>The bindu and empty lamp arise from the sphere of pure appearance and bindu of empty space.
 [12622] <prose>The parents instructing the children represents the sphere appearance and bindu maturing in the senses.
 [12623] <prose>The son not following instructions represents dull faculties and beginner's attachment to appearances.
-[12624] <prose>If attached, self-awareness is bound by demons of apprehension and grasping.
+[12624] <break> <prose>If attached, self-awareness is bound by demons of apprehension and grasping.
 [12625] <prose>Aunt represents coemergent non-recognition with Rigpa that must be recognized.
-[12626] <prose>The single mirror represents the experience of object investigation revealing emptiness.
+[12626] <break> <prose>The single mirror represents the experience of object investigation revealing emptiness.
 [12627] <prose>The five with sword and mirrors represents how appearance is not Rigpa's object.
 [12628] <prose>Lost in delusion, Rigpa wanders there, needing the five wisdoms as companions.
 [12629] <prose>The son asking the method represents seeking liberation from delusion through inquiry. || 130 ||
@@ -133,10 +133,10 @@
 [12632] <prose>The four wisdoms liberate, distinguish, gather, and move to the expanse.
 [12633] <prose>Going there represents delusion from ground appearance into existence.
 [12634] <prose>Captured by demons represents Rigpa falling under afflictions' power.
-[12635] <verse>Aunt's grief not releasing represents cyclic existence not liberated by words alone.
+[12635] <break> <verse>Aunt's grief not releasing represents cyclic existence not liberated by words alone.
 [12636] <verse>The three messengers represent the three baskets, skillfully conveying symbolic meaning.
 [12637] <verse>The boy represents Rigpa bound in existence yet seeking liberation.
-[12638] <prose>Calling the four lamps as allies, wisdom and realization arise to conquer.
+[12638] <break> <prose>Calling the four lamps as allies, wisdom and realization arise to conquer.
 [12639] <prose>The prison irons break, the old woman of non-recognition is expelled. || 140 ||
 [12640] <prose>The five poisons' afflictions with their wind-horses are separated from Rigpa.
 [12641] <prose>Rigpa recognizes its nature without departing from its place, capturing the essence.
@@ -163,8 +163,8 @@
 [12662] <prose>In the Pure Appearance Land dwells a fortress with eight doors of liberation.
 [12663] <prose>The boy Self-Arising Rigpa Knowledge rules there as the natural state.
 [12664] <prose>An old woman Mushroom Hat dwells there, and the king Arrow Guard Fame Power.
-[12665] <prose>He has five princely sons who went to play, capturing the old woman of ignorance.
-[12666] <prose>Then the boy went to the daughter's playground, captured and put in chains.
+[12665] <break> <prose>He has five princely sons who went to play, capturing the old woman of ignorance.
+[12666] <break> <prose>Then the boy went to the daughter's playground, captured and put in chains.
 [12667] <ornament>The meaning is thus, profound symbolism of the path.
 [12668] <prose>The Pure Appearance Land represents Rigpa's pure realm of Dharmakāya.
 [12669] <prose>The eight-door fortress represents spontaneous presence's eight gateways of liberation. || 170 ||
@@ -175,25 +175,25 @@
 [12674] <prose>Capturing the old woman represents non-recognition grasped by the five poisons.
 [12675] <prose>The five poisons become one with non-recognition, unified in deluded essence.
 [12676] <prose>This is how non-recognition appears in each sense when meeting the five poisons.
-[12677] <prose>Going to the daughter's playground represents how non-recognition's essence exists in Rigpa.
-[12678] <prose>Rigpa captured in its place represents conceptual grasping wherever attachment and aversion arise.
+[12677] <break> <prose>Going to the daughter's playground represents how non-recognition's essence exists in Rigpa.
+[12678] <break> <prose>Rigpa captured in its place represents conceptual grasping wherever attachment and aversion arise.
 [12679] <prose>The essence is Rigpa, the reverse is non-recognition, knowing which liberates completely. || 180 ||
 [12680] <ornament>The fifth section on reversing delusion presents another profound teaching.
 [12681] <prose>In the Jewel Heap Land, an old woman possessed a precious jewel of awareness.
 [12682] <prose>Five thieves stole it, causing her suffering in cyclic existence.
-[12683] <prose>Then the thieves were pursued and went to the Thorn Land of difficulties.
-[12684] <prose>The five thieves stealing caused the old woman to faint into ignorance.
-[12685] <prose>Pursuing the thieves from the Thorn Land, the old woman revived through wisdom.
-[12686] <verse>Then the old woman's son White Fire God spoke thus with inquiry.
+[12683] <break> <prose>Then the thieves were pursued and went to the Thorn Land of difficulties.
+[12684] <break> <prose>The five thieves stealing caused the old woman to faint into ignorance.
+[12685] <break> <prose>Pursuing the thieves from the Thorn Land, the old woman revived through wisdom.
+[12686] <break> <verse>Then the old woman's son White Fire God spoke thus with inquiry.
 [12687] <verse>Has my jewel been lost, he asked, seeking his true nature.
-[12688] <prose>The five men replied, the jewel is not lost, but kill your old woman of ignorance.
+[12688] <break> <prose>The five men replied, the jewel is not lost, but kill your old woman of ignorance.
 [12689] <prose>If you do not kill the old woman, we will not give the jewel of wisdom. || 190 ||
-[12690] <prose>So he killed her, ate the flesh, drank the blood, sucked the bones completely.
+[12690] <break> <prose>So he killed her, ate the flesh, drank the blood, sucked the bones completely.
 [12691] <prose>Making everything non-existent, the thieves gave the jewel of liberation.
 [12692] <ornament>The meaning is thus, a profound teaching on self-liberation.
 [12693] <prose>The Jewel Heap Land represents the mind as the source of all.
-[12694] <prose>The old woman is non-recognition, the jewel is Rigpa, the thieves are the five poisons.
-[12695] <prose>Suffering represents Rigpa mixed with attachment and aversion, not experiencing its own nature.
+[12694] <break> <prose>The old woman is non-recognition, the jewel is Rigpa, the thieves are the five poisons.
+[12695] <break> <prose>Suffering represents Rigpa mixed with attachment and aversion, not experiencing its own nature.
 [12696] <prose>Pursuing represents severing, going to the Thorn Land of practice.
 [12697] <prose>The old woman fainting represents temporary ignorance overcome by wisdom.
 [12698] <prose>Wisdom investigates Rigpa and its coemergent non-recognition with the five poisons.
@@ -255,8 +255,8 @@
 [12754] <prose>The true meaning essence is seen, the nature of Dharmakāya.
 [12755] <prose>Because the five hundred lamps adorn the mandala of self-arising wisdom.
 [12756] <prose>All sentient beings brought under self-power of Rigpa.
-[12757] <prose>Gathered, becoming powerful with the strength of awareness.
-[12758] <prose>Because wisdom is without attachment or aversion.
+[12757] <break> <prose>Gathered, becoming powerful with the strength of awareness.
+[12758] <break> <prose>Because wisdom is without attachment or aversion.
 [12759] <prose>All god hosts captured in prison, bound by non-recognition. || 260 ||
 [12760] <prose>Captured, siddhi becomes near through practice.
 [12761] <prose>Because Rigpa is universally vast, beyond limit.
@@ -275,8 +275,8 @@
 [12774] <prose>The manner of wisdom realization is similar throughout.
 [12775] <ornament>The meaning of these is thus, profound and vast.
 [12776] <prose>Liberating the three realms and siddhi arising represents cutting the root.
-[12777] <prose>Body, speech, and mind liberated in the expanse.
-[12778] <prose>The three realms and the vajra teacher transferred to the ocean of wisdom.
+[12777] <break> <prose>Body, speech, and mind liberated in the expanse.
+[12778] <break> <prose>The three realms and the vajra teacher transferred to the ocean of wisdom.
 [12779] <prose>Knowing Dharma through gaze, direct perception of Rigpa. || 280 ||
 [12780] <prose>Sitting in view, mind and consciousness not thinking anywhere.
 [12781] <prose>Clear direct perception of the natural state.
@@ -329,8 +329,8 @@
 [12828] <prose>Until appearance increase not exhausted, practice capacity not exhausted.
 [12829] <prose>Method wisdom separation finds meaning naturally. || 330 ||
 [12830] <prose>Wisdom with duality, apprehension and grasping separate.
-[12831] <prose>Self-arising self-abiding clear, the natural state.
-[12832] <prose>Rigpa naked one is the reason for all practice.
+[12831] <break> <prose>Self-arising self-abiding clear, the natural state.
+[12832] <break> <prose>Rigpa naked one is the reason for all practice.
 [12833] <prose>Clear in whatever recollection relaxation time.
 [12834] <prose>Cause effect reversal attains result spontaneously.
 [12835] <prose>Not found by doing, found by relaxing, whatever time.
@@ -358,8 +358,8 @@
 [12857] <prose>Without doubt, Naraka, the hell realms purified.
 [12858] <ornament>The eighth section presents symbolic meaning dissolved in clear light expanse.
 [12859] <prose><tantra>From Thal Gyur Tantra, other symbolic meaning connections explained. || 360 ||
-[12860] <prose>In the eon fire heap expanse center, a person not burned.
-[12861] <prose>From mouth explaining scripture Dharma, actively killing others' lives.
+[12860] <break> <prose>In the eon fire heap expanse center, a person not burned.
+[12861] <break> <prose>From mouth explaining scripture Dharma, actively killing others' lives.
 [12862] <prose>Virtue practice increasing, indeed, through wisdom.
 [12863] <prose>In the iron house without door, in unseen darkness expanse center.
 [12864] <prose>Sun moon clear light, whoever not seeing.
@@ -538,8 +538,8 @@
 [13037] <ornament>The precious teaching of the Great Perfection.
 [13038] <ornament>The Ati Yoga path of spontaneous liberation.
 [13039] <ornament>Complete and perfect in every way. || 540 ||
-[13040] <ornament>The essence of all Buddha's teachings.
-[13041] <verse>May the three jewels bestow their blessings.
+[13040] <break> <ornament>The essence of all Buddha's teachings.
+[13041] <break> <verse>May the three jewels bestow their blessings.
 [13042] <verse>May the guru's wisdom mind transfer to the disciple.
 [13043] <verse>May the yidams grant their siddhis.
 [13044] <verse>May the dakinis support the practice.

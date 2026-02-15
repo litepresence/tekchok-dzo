@@ -16,8 +16,8 @@
 [12537] <verse> In sixteen days, cannot but befall.
 [12538] <verse> If between mountain and plain,
 [12539] <verse> Wish-fulfilling tree trunk breaks,
-[12540] <verse> These too should be examined by the wise.
-[12541] <prose>  || 20 ||
+[12540] <break> <verse> These too should be examined by the wise.
+[12541] <break> <prose>  || 20 ||
 [12542] <prose> 
 [12543] <prose> 
 [12544] <prose> 
@@ -26,8 +26,8 @@
 [12547] <verse> In earth's villages and cities,
 [12548] <verse> If the monk's smoke itself breaks,
 [12549] <verse> In nine days he will thus perish.
-[12550] <verse> On the peak of Mount Meru,
-[12551] <verse> If the unchanging sun sets, || 30 ||
+[12550] <break> <verse> On the peak of Mount Meru,
+[12551] <break> <verse> If the unchanging sun sets, || 30 ||
 [12552] <verse> In three days he will also die.
 [12553] <verse> Completely abandon rites,
 [12554] <verse> Examine the meaning of self-awareness essence.
@@ -116,8 +116,8 @@
 [12637] <verse> Make prayers according to each individual's desire.
 [12638] <verse> Thinking of the elemental god in the center,
 [12639] <verse> Recite and insert the number of letters.
-[12640] <verse> Then in a fitted clay vessel,
-[12641] <verse> Inserting all those wheels, || 120 ||
+[12640] <break> <verse> Then in a fitted clay vessel,
+[12641] <break> <verse> Inserting all those wheels, || 120 ||
 [12642] <verse> Bind crosswise with five colored threads.
 [12643] <verse> Wood, water, fire, and earth,
 [12644] <verse> In the mouth-vapor of disagreeing races,
@@ -133,8 +133,8 @@
 [12654] <verse> Also elemental substances like that,
 [12655] <verse> Mix with food and form.
 [12656] <verse> With wool-colors, silk, and feathers,
-[12657] <verse> Adorn those forms.
-[12658] <verse> Also tormas agreeing with those,
+[12657] <break> <verse> Adorn those forms.
+[12658] <break> <verse> Also tormas agreeing with those,
 [12659] <verse> Those too are like that.
 [12660] <verse> In the last of that form, the dough-food,
 [12661] <verse> Surround by the yogin's number of years. || 140 ||
@@ -204,8 +204,8 @@
 [12725] <prose> That also resembling now's clear-light send-ma, like intermediate-state's clear-light early-ma; for reason of joining those two middle, showing appearance like space-awareness send-ma:
 [12726] <verse> "Exclamation! Son of the race, this present clear-light is actual self-arisen Jñana; in this nature, put mind without fabricating, and you are Buddha in upward penetrate-through. Also look at this appearance not changing; this present clear-light becomes mixed with dharmatā Mother's clear-light, all appearances arising in Buddha-field. At that time, do recognize as self-appearance. At that time, you are Buddha in primordially-pure ground."
 [12727] <prose> Moreover, if not recognized there, at time of clear-light dissolving in spontaneous presence, body and Jñana's appearance arises. From that, Jñana four preparation's appearance arises. From that, spontaneous presence's hundred doors arise—by you, do recognize as self-appearance. After recognizing self-face, recite three times "you are well gone to primordially-pure ground"; self also putting equally moment in that appearance, and also giving clear in that. Liberated certain by that.
-[12728] <prose> <tantra>From Sun-Moon Union:
-[12729] <verse> If space-awareness not clear,
+[12728] <break> <prose> <tantra>From Sun-Moon Union:
+[12729] <break> <verse> If space-awareness not clear,
 [12730] <verse> In dharmatā bliss intermediate state,
 [12731] <verse> For grasping awareness's appearance, || 210 ||
 [12732] <verse> Do in mind lights shown before;
@@ -228,12 +228,12 @@
 [12749] <prose> 
 [12750] <prose> 
 [12751] <prose>  || 230 ||
-[12752] <prose> 
-[12753] <prose> 
+[12752] <break> <prose> 
+[12753] <break> <prose> 
 [12754] <prose> 
 [12755] <prose> 
-[12756] <prose> 
-[12757] <prose> 
+[12756] <break> <prose> 
+[12757] <break> <prose> 
 [12758] <prose> 
 [12759] <prose> 
 [12760] <prose> 

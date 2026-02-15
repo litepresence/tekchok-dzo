@@ -23,8 +23,8 @@
 [9726] <prose> <list] Practice,
 [9727] <list> Common,
 [9728] <list> Particular Body-Speech-Mind,
-[9729] <ornament> Branches,
-[9730] <list> And crucial, certain samaya—
+[9729] <break> <ornament> Branches,
+[9730] <break> <list> And crucial, certain samaya—
 [9731] <prose> <tantra> From the Self-Arisen:
 [9732] <prose> <tantra> "The hundred-thousand-fold spoken samayas,
 [9733] <prose> <tantra> Briefly taught—well hold these in mind." || 30 ||
@@ -35,8 +35,8 @@
 [9738] <verse> The samaya of general commonality,
 [9739] <verse> The samaya of Body-Speech-Mind,
 [9740] <verse> The samaya of branch enumerations,
-[9741] <verse> And the crucial, certain samaya."
-[9742] <prose> These and other samayas
+[9741] <break> <verse> And the crucial, certain samaya."
+[9742] <break> <prose> These and other samayas
 [9743] <prose> Are extensively summarized, great in scope. || 40 ||
 [9744] <prose> Thus it is spoken.
 [9745] <prose> The basis is teacher and student, vajra siblings.
@@ -119,8 +119,8 @@
 [9822] <prose> <tantra> Epidemic, harming diseases, and
 [9823] <prose> <tantra> Fever-diseases various arise. || 120 ||
 [9824] <prose> <tantra> Spirits and misleading ones also,
-[9825] <ornament> —
-[9826] <prose> <tantra> Kill sentient beings, go to hell.
+[9825] <break> <ornament> —
+[9826] <break> <prose> <tantra> Kill sentient beings, go to hell.
 [9827] <prose> <tantra> Eyes not see form.
 [9828] <prose> <tantra> Ears hearing and actions not accomplished.
 [9829] <prose> <tantra> Leprosy and itch diseases arise.

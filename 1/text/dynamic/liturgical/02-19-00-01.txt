@@ -39,16 +39,16 @@
 [6001] <prose> Ungoing;
 [6002] <prose> Uncoming; || 40 ||
 [6003] <prose> Unthinking;
-[6004] <prose> Unconceptualizing;
-[6005] <prose> Unobserving;
+[6004] <break> <prose> Unconceptualizing;
+[6005] <break> <prose> Unobserving;
 [6006] <prose> Unequaling;
 [6007] <prose> Unchanging.
 [6008] <prose> Before: not experiencing delusion;
 [6009] <prose> Now: not abiding in delusion;
 [6010] <prose> End: delusion impossible.
 [6011] <prose> Before: not experiencing freedom;
-[6012] <prose> Now: not entering freedom; || 50 ||
-[6013] <prose> End: freedom impossible.
+[6012] <break> <prose> Now: not entering freedom; || 50 ||
+[6013] <break> <prose> End: freedom impossible.
 [6014] <prose> Before: no transcendence;
 [6015] <prose> Now: no abiding;
 [6016] <prose> Future: no arising.
@@ -91,10 +91,10 @@
 [6053] <prose> Not-doing: nothing to accomplish.
 [6054] <prose> Not abandoning saṃsāra;
 [6055] <prose> Not taking nirvāṇa;
-[6056] <prose> Accomplishment: direction placed.
-[6057] <prose> Primordially equal, leveled-vast, original, nameless.
-[6058] <prose> Whatever vision, abiding as primordially Buddha-ed without basis from the ground—bind-free effort self-ceases.
-[6059] <prose> Whatever dawn, everywhere limitlessly level-placed, primordially pure, self-empty, vastly.
+[6056] <break> <prose> Accomplishment: direction placed.
+[6057] <break> <prose> Primordially equal, leveled-vast, original, nameless.
+[6058] <break> <prose> Whatever vision, abiding as primordially Buddha-ed without basis from the ground—bind-free effort self-ceases.
+[6059] <break> <prose> Whatever dawn, everywhere limitlessly level-placed, primordially pure, self-empty, vastly.
 [6060] <prose> Whatever Buddha-ed, interior vastness of self-mind without doing, effort ceasing everywhere without equal level, abiding as primordially empty and self-pure without trace.
 [6061] <prose> Applying scripture to the meaning realized by oneself—all dharmas primordially self-dawning in the abide-manner of great perfection nature.
 [6062] <prose><tantra> From the Rinpoche spungs pa Tantra: || 100 ||
@@ -103,14 +103,14 @@
 [6065] <prose> Non-vision, objectless, without conceptuality,
 [6066] <prose> Uncut, naturally cutting at self-ground.
 [6067] <prose> Non-awareness of not experiencing delusion severed,
-[6068] <prose> Unexamined, primordially cutting, abiding.
-[6069] <prose> Above, who has not felt all this?
+[6068] <break> <prose> Unexamined, primordially cutting, abiding.
+[6069] <break> <prose> Above, who has not felt all this?
 [6070] <prose> All these coarse elements also,
 [6071] <prose> Naturally ceasing from the first,
 [6072] <prose> Without place to go, naturally going, || 110 ||
 [6073] <prose> Self-body primordially non-existent,
-[6074] <prose> Known here without before or after.
-[6075] <prose> All this, timeless, vastly timed,
+[6074] <break> <prose> Known here without before or after.
+[6075] <break> <prose> All this, timeless, vastly timed,
 [6076] <prose> By one, two, and six-three:
 [6077] <prose> Non-vision, vision, and half-vision,
 [6078] <prose> In self-sound of non-vision doing,
@@ -122,12 +122,12 @@
 [6084] <prose> Not seen before—dull self-knowing.
 [6085] <prose> Intention of non-abiding samadhi:
 [6086] <prose> Primordially abiding without meditation.
-[6087] <prose> This also: who did not know before?
-[6088] <prose> The object of attachment to self and grasping:
+[6087] <break> <prose> This also: who did not know before?
+[6088] <break> <prose> The object of attachment to self and grasping:
 [6089] <prose><tantra> From the very first, in dharmatā,
 [6090] <prose> All this self-vision by self—
-[6091] <prose> Not knowing primordial vision before.
-[6092] <prose> Five afflictions binding self-concept, || 130 ||
+[6091] <break> <prose> Not knowing primordial vision before.
+[6092] <break> <prose> Five afflictions binding self-concept, || 130 ||
 [6093] <prose> Primordially self-dawning awareness,
 [6094] <prose> Abiding together, faces not meeting.
 [6095] <prose> Four elements—earth, water, fire, wind—
@@ -182,15 +182,15 @@
 [6144] <prose> Thus, non-deluded vision
 [6145] <prose> Arises from the split vital point primordially.
 [6146] <prose> Buddha-body of beings' aggregates,
-[6147] <prose> Primordially existing—who did not know?
-[6148] <prose> Aggregates as Buddha-lord,
+[6147] <break> <prose> Primordially existing—who did not know?
+[6148] <break> <prose> Aggregates as Buddha-lord,
 [6149] <prose> Arising from letters abiding in channels.
 [6150] <prose> Wisdom in bubbles and eyes—
 [6151] <prose> Who has not seen as self-vision?
 [6152] <prose><tantra> From the Mu tig phreng ba: || 190 ||
 [6153] <ornament> Regarding nature-vision dharmas:
 [6154] <prose> Subtle and coarse reversed through non-defilement;
-[6155] <prose> Delusion reversed through non-grasping-holding;
+[6155] <break> <prose> Delusion reversed through non-grasping-holding;
 [6156] <prose> Action-wind reversed through non-movement;
 [6157] <prose> Entity reversed through copper-shining;
 [6158] <prose> Emptiness reversed through clarity;
@@ -205,7 +205,7 @@
 [6167] <prose> Mental examination reversed through non-grasping;
 [6168] <prose> Number-end reversed through uniqueness;
 [6169] <prose> Other arising and ceasing through all-pervading.
-[6170] <prose> Darkness Buddha-ed through self-dawning;
+[6170] <break> <prose> Darkness Buddha-ed through self-dawning;
 [6171] <prose> Dharmakāya pervading through essence;
 [6172] <prose> Sambhogakāya expanding through clear vision; || 210 ||
 [6173] <prose> Emanation body arising through mother-child meeting;
@@ -288,11 +288,11 @@
 [6250] <prose> Discrimination and marks, path of words,
 [6251] <prose> Self-place pure dharmatā without action-effort,
 [6252] <prose> Ub chub samadhi entering dharmatā-object. || 290 ||
-[6253] <prose> Pure and impure terms non-existent as dharmas;
-[6254] <prose> Primordially abiding meaning exceeding one and two,
-[6255] <prose> Ub by one bindu in the manner of self-body.
+[6253] <break> <prose> Pure and impure terms non-existent as dharmas;
+[6254] <break> <prose> Primordially abiding meaning exceeding one and two,
+[6255] <break> <prose> Ub by one bindu in the manner of self-body.
 [6256] <prose> 
-[6257] <prose> 
+[6257] <break> <prose> 
 [6258] <prose> 
 [6259] <prose> 
 [6260] <prose> 
@@ -440,8 +440,8 @@
 [6402] <prose> Moreover: if this called "mind" exists, from what cause does it arise? || 440 ||
 [6403] <prose> If non-existent, what are this movement and memory-knowing wheel?
 [6404] <prose> Upon what condition do these memory-knowing aspects depend to arise?
-[6405] <prose> Without condition, these sudden memory-knowings are unsuitable.
-[6406] <prose> If this mind exists as one with body, it would also be destroyed when body is destroyed;
+[6405] <break> <prose> Without condition, these sudden memory-knowings are unsuitable.
+[6406] <break> <prose> If this mind exists as one with body, it would also be destroyed when body is destroyed;
 [6407] <prose> If non-existent, with uncertain following-return, body-sickness would come to mind.
 [6408] <prose> Unsuitable for before-after birth wheel to come.
 [6409] <prose> If "mind" here is one, through one realm's powers ceasing, other realms should also die;

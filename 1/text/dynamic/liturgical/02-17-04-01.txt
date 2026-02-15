@@ -41,8 +41,8 @@
 [2104] <prose> /delusion cause-become objects all abandon/.
 [2105] <prose> /mute like conduct by/.
 [2106] <prose> /delusion word completely abandon/.
-[2107] <prose> /peacock like conduct by/.
-[2108] <prose> /secret mantra doubt sever/.
+[2107] <break> <prose> /peacock like conduct by/.
+[2108] <break> <prose> /secret mantra doubt sever/.
 [2109] <prose> /madman like conduct by/.
 [2110] <prose> /one-together dwell objects all abandon/.
 [2111] <prose> /lion like conduct by/.
@@ -56,8 +56,8 @@
 [2119] <prose> /elephant like conduct by/.
 [2120] <prose> /world agree words-by guide/.
 [2121] <prose> /great-elephant like conduct by/.
-[2122] <prose> /saṃsāra battles depth-from turn.
-[2123] <prose> /ri-dwags lta-bu'i spyod-pa yis/. || 60 ||
+[2122] <break> <prose> /saṃsāra battles depth-from turn.
+[2123] <break> <prose> /ri-dwags lta-bu'i spyod-pa yis/. || 60 ||
 [2124] <prose> /bu dang dgra-yi 'du-shes spang*/.
 [2125] <prose> /rgya-mo lta-bu'i spyod-pa yis/.
 [2126] <prose> /'dod-pa'i chog-shes dus-tshod bcad/.
@@ -68,8 +68,8 @@
 [2131] <prose> /dpa'-mo lta-bu'i spyod-pa yis/.
 [2132] <prose> /'khor-'das rnams-kyi ru-shan dbye/.
 [2133] <prose> /chu-yig lta-bu'i spyod-pa yis/. || 70 ||
-[2134] <prose> /dran-pa'i rten nyid rang-sar gzhag.
-[2135] <prose> /nam-mkha'i mdung-skor spyod-pa yis/.
+[2134] <break> <prose> /dran-pa'i rten nyid rang-sar gzhag.
+[2135] <break> <prose> /nam-mkha'i mdung-skor spyod-pa yis/.
 [2136] <prose> /dngos-po rnams la zang-thal spyad/.
 [2137] <prose> /bar-snang rlung-'dra'i spyod-pa yis/.
 [2138] <prose> /gzung dang 'dzin-pa'i rtog-pa spang*/.
@@ -98,8 +98,8 @@
 [2161] <prose> /mi rtog bsam-gtan gnas-pa'i grogs/.
 [2162] <prose> /spyod-pa kun-gyi sngon-du 'gro/.
 [2163] <prose> /de-phyir rdo-rje'i glu nyid blang*/. || 100 ||
-[2164] <prose> /tshogs dang dbang-bskur dkyil-'khor 'jug.
-[2165] <prose> /de-dus glu la brtson-par bya/.
+[2164] <break> <prose> /tshogs dang dbang-bskur dkyil-'khor 'jug.
+[2165] <break> <prose> /de-dus glu la brtson-par bya/.
 [2166] <prose> /mi rtog rgyud la bsten-dus-su/.
 [2167] <prose> /'di nyid skabs-su blang-bar bya/.
 [2168] <prose> /zhes so/.
@@ -112,8 +112,8 @@
 [2175] <prose> /self-aware great-bliss expanse-by strike*/.
 [2176] <prose> /mudra great self-with join*/.
 [2177] <prose> /say-so/.
-[2178] <prose> /two song dance actual body of ritual/.
-[2179] <prose> /mind of meditation/.
+[2178] <break> <prose> /two song dance actual body of ritual/.
+[2179] <break> <prose> /mind of meditation/.
 [2180] <prose> Speech of action and three from/.
 [2181] <prose> Body of ritual-to implements and dance two/.
 [2182] <prose> That also feast and mandala-to enter and samadhi expand time/.
@@ -145,8 +145,8 @@
 [2208] <prose> Left-extend right-bend etcetera transform having/.
 [2209] <prose> Speech of action vowels and consonants of letter long and short and*/.
 [2210] <prose> Crooked-by sound pleasant say having/.
-[2211] <prose> Om and e and hum and he and lyei shag etcetera nose-breath draw having/.
-[2212] <prose> Supreme secret unsurpassable vajra of word take/.
+[2211] <break> <prose> Om and e and hum and he and lyei shag etcetera nose-breath draw having/.
+[2212] <break> <prose> Supreme secret unsurpassable vajra of word take/.
 [2213] <prose> E ma ki ri ki ri/. || 150 ||
 [2214] <prose> /mashta ba li ba li/.
 [2215] <prose> SA MI TA PU RU PU RU/.
@@ -203,9 +203,9 @@
 [2266] <prose> /sound nonexistent vajra song-by/.
 [2267] <prose> /Buddha all mind also satisfy/.
 [2268] <prose> /yogis experience companion/.
-[2269] <prose> /dakini mind all capture/.
+[2269] <break> <prose> /dakini mind all capture/.
 [2270] <prose> /lineages six saṃsāra attachment turn.
-[2271] <prose> /fortune possess nature gather ground/.
+[2271] <break> <prose> /fortune possess nature gather ground/.
 [2272] <prose> /mind mindstream all self-settle obtain/.
 [2273] <prose> /self-rigpa bliss clarity beat/. || 210 ||
 [2274] <prose> /awareness one army do/.
@@ -338,24 +338,24 @@
 [2401] <prose> /thus and */.
 [2402] <prose> Six-Vastnesses from/.
 [2403] <prose> Six-aggregates appearance mind-itself in/. || 340 ||
-[2404] <prose> /thought-assembly self-place pure.
-[2405] <prose> /sound word appearance mind-itself in/.
-[2406] <prose> /concept names self-place pure.
-[2407] <prose> /coarse appearance mind-itself in/.
-[2408] <prose> /elements four conditions self-place pure.
-[2409] <prose> /grasp hold appearance mind-itself in/.
-[2410] <prose> /bind self-grasp pure.
-[2411] <prose> /exist appearance mind-itself in/.
-[2412] <prose> /phenomena self-place pure.
-[2413] <prose> /not-exist appearance mind-itself in/. || 350 ||
-[2414] <prose> /emptinesses self-place pure.
-[2415] <prose> /exist not-exist mind-itself in/.
-[2416] <prose> /establish extremes self-place pure.
-[2417] <prose> /dharma appearance mind-itself in/.
-[2418] <prose> /self characteristic pure.
-[2419] <prose> /dharma-not appearance mind-itself in/.
-[2420] <prose> /delusion self-place pure.
-[2421] <prose> /thus/.
+[2404] <break> <prose> /thought-assembly self-place pure.
+[2405] <break> <prose> /sound word appearance mind-itself in/.
+[2406] <break> <prose> /concept names self-place pure.
+[2407] <break> <prose> /coarse appearance mind-itself in/.
+[2408] <break> <prose> /elements four conditions self-place pure.
+[2409] <break> <prose> /grasp hold appearance mind-itself in/.
+[2410] <break> <prose> /bind self-grasp pure.
+[2411] <break> <prose> /exist appearance mind-itself in/.
+[2412] <break> <prose> /phenomena self-place pure.
+[2413] <break> <prose> /not-exist appearance mind-itself in/. || 350 ||
+[2414] <break> <prose> /emptinesses self-place pure.
+[2415] <break> <prose> /exist not-exist mind-itself in/.
+[2416] <break> <prose> /establish extremes self-place pure.
+[2417] <break> <prose> /dharma appearance mind-itself in/.
+[2418] <break> <prose> /self characteristic pure.
+[2419] <break> <prose> /dharma-not appearance mind-itself in/.
+[2420] <break> <prose> /delusion self-place pure.
+[2421] <break> <prose> /thus/.
 [2422] <prose> /meaning second meditation progressive do yogin in four */.
 [2423] <prose> Day-night mouth-join meditation/. || 360 ||
 [2424] <prose> That instruction ocean all-placement method/.
@@ -401,13 +401,13 @@
 [2464] <prose> Nose-tip a white shine one meditate from/.
 [2465] <prose> Wind out go time a also out go/.
 [2466] <prose> In draw time a also in come think wind mix meditate/.
-[2467] <prose> /that also body hot disease exist a cold touch.
-[2468] <prose> /cold disease hot touch think day-night train by/.
+[2467] <break> <prose> /that also body hot disease exist a cold touch.
+[2468] <break> <prose> /cold disease hot touch think day-night train by/.
 [2469] <prose> Mind emanate-gather free experience common not arise/.
 [2470] <prose> /body pith wind pith all equal/.
 [2471] <prose> /that dull letter pha mind hold breath one awareness distract put/.
-[2472] <prose> Phat fierce say awareness thought-free ha-de-ba one come thought not-arise until mind hold also phat day-night experience take mind emptiness-clear self-resonance meditation arise/.
-[2473] <prose> /also wrathful pleasure laugh mind hold */. || 410 ||
+[2472] <break> <prose> Phat fierce say awareness thought-free ha-de-ba one come thought not-arise until mind hold also phat day-night experience take mind emptiness-clear self-resonance meditation arise/.
+[2473] <break> <prose> /also wrathful pleasure laugh mind hold */. || 410 ||
 [2474] <prose> Ha fierce short say before like mind place thought-free clear resonance experience arise/.
 [2475] <prose> /asura quarrel dispute mind hold */.
 [2476] <prose> Mountain-peak or rock-top etcetera sit/.
@@ -424,9 +424,9 @@
 [2487] <prose> See appearance self-liberate experience arise/.
 [2488] <prose> /this time wind suitable food rely/.
 [2489] <prose> /navel letter ram mind place/.
-[2490] <prose> /thought hum expel mind hold hum long vowel with wind mix mind that nature other not-distract hold/.
+[2490] <break> <prose> /thought hum expel mind hold hum long vowel with wind mix mind that nature other not-distract hold/.
 [2491] <prose> Occasion hum short say thought dharmatā purify experience arise/.
-[2492] <prose> /likewise navel ram meditate wind body pith accord and */.
+[2492] <break> <prose> /likewise navel ram meditate wind body pith accord and */.
 [2493] <prose> Deity body meditate/. || 430 ||
 [2494] <prose> Nose-tip pore gate body subtle emanate do mind place awareness clear pure great experience arise/.
 [2495] <prose> /second body-mind grasp attachment forehead pith seven */.
@@ -434,8 +434,8 @@
 [2497] <prose> /eyebrow-center bindu white-red mix pea locket mind hold/.
 [2498] <prose> /that wind experience arise/.
 [2499] <prose> /body center channel three stick straight like skeleton nose two nose-hole in exist wind hold/.
-[2500] <prose> Arrow like shoot demon obstacle sin obscuration purify.
-[2501] <prose> /hook like in draw central mother-nose enter/.
+[2500] <break> <prose> Arrow like shoot demon obstacle sin obscuration purify.
+[2501] <break> <prose> /hook like in draw central mother-nose enter/.
 [2502] <prose> Channel three wheel four wisdom wind fill mind hold rigpa emptiness-clear experience arise/.
 [2503] <prose> /nose-tip wind white arrow from mile distance between draw two out go in come mind hold thought-free clear experience arise/. || 440 ||
 [2504] <prose> /body give light five fence rainbow like clear not-blur not-scatter not-dissipate not-distract mind hold light-clear pure experience arise/.
@@ -470,19 +470,19 @@
 [2533] <prose> Extreme non emptiness great experience arise/. || 470 ||
 [2534] <prose> /that meaning also sun-moon union from/.
 [2535] <prose> Letter a mind place-by-means-of/.
-[2536] <prose> /thing attachment self place reverse.
-[2537] <prose> /produce god mind place-by-means-of/.
+[2536] <break> <prose> /thing attachment self place reverse.
+[2537] <break> <prose> /produce god mind place-by-means-of/.
 [2538] <prose> /body stain purify do/.
 [2539] <prose> /speech vajra song by-means-of is/.
 [2540] <prose> /that mind satisfy do/.
-[2541] <prose> /letter hU~M from mind place-by-means-of/.
-[2542] <prose> /that speech stain purify.
-[2543] <prose> /raM mind who grasp/. || 480 ||
+[2541] <break> <prose> /letter hU~M from mind place-by-means-of/.
+[2542] <break> <prose> /that speech stain purify.
+[2543] <break> <prose> /raM mind who grasp/. || 480 ||
 [2544] <prose> /that thing all purify */.
 [2545] <prose> /letter ha who abide/.
 [2546] <prose> /ignorance all cease do/.
-[2547] <prose> /who phaT mind abide/.
-[2548] <prose> /that body speech harm abandon */.
+[2547] <break> <prose> /who phaT mind abide/.
+[2548] <break> <prose> /that body speech harm abandon */.
 [2549] <prose> /nose-tip bindu meditate/.
 [2550] <prose> /this wind familiar become/.
 [2551] <prose> /stick tip mind grasp/.
@@ -498,37 +498,37 @@
 [2561] <prose> /who heart mind grasp/.
 [2562] <prose> /this thought self place pure/.
 [2563] <prose> /emptiness who abide/. || 500 ||
-[2564] <prose> /this thing attachment cease.
-[2565] <prose> /emptiness sudden meditate/.
+[2564] <break> <prose> /this thing attachment cease.
+[2565] <break> <prose> /emptiness sudden meditate/.
 [2566] <prose> /remember all instantaneous empty/.
 [2567] <prose> /impermanence mind who purify/.
-[2568] <prose> /this saṃsāra attachment reverse.
-[2569] <prose> /element five mind hold/.
+[2568] <break> <prose> /this saṃsāra attachment reverse.
+[2569] <break> <prose> /element five mind hold/.
 [2570] <prose> /that body sign arise */.
 [2571] <prose> /non-think wisdom meditate/.
-[2572] <prose> /this mark attachment cease.
-[2573] <prose> /gnyis 'jug bde ba su bsgom pa/. || 510 ||
+[2572] <break> <prose> /this mark attachment cease.
+[2573] <break> <prose> /gnyis 'jug bde ba su bsgom pa/. || 510 ||
 [2574] <prose> /'dis ni 'dod yon lam du byed/.
 [2575] <prose> /bar snang lam du su byed pa/.
 [2576] <prose> /'dis ni sems la dbang yang thob/.
 [2577] <prose> /ces so/.
 [2578] <prose> /'di dag gi zhar la snang ba'i yul gzugs sgra dri ro  reg lnga la sems gzung ba'i thabs kyang*/.
 [2579] <prose> Thal 'gyur las/.
-[2580] <prose> Mig gzugs sgra dri ro dang reg.
-[2581] <prose> /'dod yon lnga yi gnas sbyangs te/.
+[2580] <break> <prose> Mig gzugs sgra dri ro dang reg.
+[2581] <break> <prose> /'dod yon lnga yi gnas sbyangs te/.
 [2582] <prose> /gzugs ni kha dgo dbyibs rnams dang*/.
 [2583] <prose> /bzo dang sgyu rtsal tha dad dang*/. || 520 ||
 [2584] <prose> /mig 'phrul la sogs sna tshogs pa'o/.
 [2585] <prose> /sgra ni pi wang bum ldir dang*/.
 [2586] <prose> /rgyud mangs rdza rnga gling bu dang*/.
 [2587] <prose> /pheg dang har la sogs pa'o/.
-[2588] <prose> /dri ni ngad dang sbyar ma dang.
-[2589] <prose> /yid mthun rten 'brel zab mos bya/.
+[2588] <break> <prose> /dri ni ngad dang sbyar ma dang.
+[2589] <break> <prose> /yid mthun rten 'brel zab mos bya/.
 [2590] <prose> /ro ni bu ram drug  ldan dang*/.
 [2591] <prose> /rgun chang sbyar ma sna tshogs bsgyur/.
 [2592] <prose> /rten 'brel yan lag sbyor ba'o/.
-[2593] <prose> /reg ni mkhas pas khri stengs 'dug. || 530 ||
-[2594] <prose> /gzhung bsnol sbyor ba'i 'byung ba dang*/.
+[2593] <break> <prose> /reg ni mkhas pas khri stengs 'dug. || 530 ||
+[2594] <break> <prose> /gzhung bsnol sbyor ba'i 'byung ba dang*/.
 [2595] <prose> /shing gi lo ma 'ga' zhig gis/.
 [2596] <prose> /reg pa tsam gyis chos nyid la/.
 [2597] <prose> /'bral med sems kyis gnas pa'o/.
@@ -537,8 +537,8 @@
 [2600] <prose> /de las gsungs pa/.
 [2601] <prose> Sku gsum bslab pa'i rim pa nyid/.
 [2602] <prose> /'byung ba'i yon tan gtsor byas te/.
-[2603] <prose> /mchog tu sa chu me rlung gi. || 540 ||
-[2604] <prose> /sgra la bslabs pas nges par 'grub/.
+[2603] <break> <prose> /mchog tu sa chu me rlung gi. || 540 ||
+[2604] <break> <prose> /sgra la bslabs pas nges par 'grub/.
 [2605] <prose> /chu yi sgra ni bshad pa la/.
 [2606] <prose> /mkha' 'gro ma yi sgra dbyangs 'dzin/.
 [2607] <prose> /'di la rtag tu goms byas na/.
@@ -551,8 +551,8 @@
 [2614] <prose> /khyab 'jug chen po'i gsung dbyangs ston/.
 [2615] <prose> /'di la nyan pa sus spyod pa/.
 [2616] <prose> /chos sku'i yon tan nges par thob/.
-[2617] <prose> /rlung gi sgra ni gzir zhing grag.
-[2618] <prose> /mkha' lding rgyal po sbyor ba'i gsung*/.
+[2617] <break> <prose> /rlung gi sgra ni gzir zhing grag.
+[2618] <break> <prose> /mkha' lding rgyal po sbyor ba'i gsung*/.
 [2619] <prose> /'di ni rtag tu zlos shes na/.
 [2620] <prose> /sku gsum thun mong bslab bya'o/.
 [2621] <prose> /de ltar 'byung bzhi'i sgra don ni/.

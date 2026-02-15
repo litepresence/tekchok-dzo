@@ -5,8 +5,8 @@
 [1467] <prose> Abandoning idle speech, five hundred years,
 [1468] <prose> Abandoning harsh speech, one thousand years,
 [1469] <prose> Abandoning covetousness, two thousand years,
-[1470] <prose> Abandoning harmful intent, ten thousand years,
-[1471] <prose> Abandoning wrong view, twenty thousand years,
+[1470] <break> <prose> Abandoning harmful intent, ten thousand years,
+[1471] <break> <prose> Abandoning wrong view, twenty thousand years,
 [1472] <prose> Abandoning ignorant attachment to desire, forty thousand years, || 10 ||
 [1473] <prose> Abandoning wrong practice of dharma, eighty thousand years become the norm.
 [1474] <prose> As life increases, so too form and enjoyment increase,
@@ -33,8 +33,8 @@
 [1495] <prose> Enjoyment,
 [1496] <prose> Engaging various pleasures and pains through light.
 [1497] <prose> Then twenty intermediate eons of destruction:
-[1498] <prose><tantra> From complete abiding, the light of change arises,
-[1499] <prose> That also: nineteen intermediate eons destroy the essence,
+[1498] <break> <prose><tantra> From complete abiding, the light of change arises,
+[1499] <break> <prose> That also: nineteen intermediate eons destroy the essence,
 [1500] <prose> One destroys the vessel—twenty pass.
 [1501] <prose> The manner of beings' destruction:
 [1502] <prose> Beginning from the hell realms, no new births arise in this world-forest, || 40 ||
@@ -59,19 +59,19 @@
 [1521] <prose> Six arise, drying the great land with snow-mountains.
 [1522] <prose> Seven arise, burning all hundred ten-million spontaneously-arisen seven mountains and so forth, || 60 ||
 [1523] <prose><tantra> From swirling blazing flames,
-[1524] <prose> Below reaching the gold ground of the hell realm,
-[1525] <prose> Above thoroughly blazing between the world of Brahmā.
+[1524] <break> <prose> Below reaching the gold ground of the hell realm,
+[1525] <break> <prose> Above thoroughly blazing between the world of Brahmā.
 [1526] <prose> Seven times burned by all thorough blazing, not even ash remains.
-[1527] <prose> Seven suns and seven blazes, seven fires.
-[1528] <prose> Then below, the base of clear pure water is disturbed and scattered, pervading seven times the extent of the second concentration,
+[1527] <break> <prose> Seven suns and seven blazes, seven fires.
+[1528] <break> <prose> Then below, the base of clear pure water is disturbed and scattered, pervading seven times the extent of the second concentration,
 [1529] <prose> Destroyed with measureless palaces like salt dissolved in water.
 [1530] <prose> That water seven times.
 [1531] <prose> Then below, a wind vajra-cross arises, all scattered, destroyed below the third concentration, becoming one sky.
 [1532] <prose> Thus after the destruction of form's abiding, one nature sky remains empty. || 70 ||
 [1533] <prose> That also: in the common vehicle likewise, twenty-eight tens of intermediate eons are regarded as one great eon.
 [1534] <prose> The pure: birth, aging, sickness, and death—four that join inner form's destruction and emptiness.
-[1535] <prose><tantra> From result-transmission,
-[1536] <prose> Meaning: destruction and form,
+[1535] <break> <prose><tantra> From result-transmission,
+[1536] <break> <prose> Meaning: destruction and form,
 [1537] <prose> Abiding itself and emptiness,
 [1538] <prose> Birth, aging, sickness, and death,
 [1539] <prose> Existence's illusion-wheel itself.

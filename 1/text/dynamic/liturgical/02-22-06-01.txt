@@ -1,6 +1,6 @@
 [11825] <ornament> First, the sign of birth in hell:
-[11826] <list> At the time of death, the sky gathers with black clouds,
-[11827] <prose> And one proceeds as if darkness were spreading.
+[11826] <break> <list> At the time of death, the sky gathers with black clouds,
+[11827] <break> <prose> And one proceeds as if darkness were spreading.
 [11828] <prose> When rain,
 [11829] <prose> Mist,
 [11830] <prose> Great wind,
@@ -24,8 +24,8 @@
 [11848] <prose> <tantra> Whoever toward the vajra guru.
 [11849] <verse> Bears evil mind, derides,
 [11850] <verse> Great samaya-breaking—
-[11851] <verse> As long as from the great ocean.
-[11852] <verse> The water is exhausted drop by drop,
+[11851] <break> <verse> As long as from the great ocean.
+[11852] <break> <verse> The water is exhausted drop by drop,
 [11853] <verse> Strand by strand of hair,
 [11854] <verse> That water poured out exhausted— || 30 ||
 [11855] <verse> For that many ocean-kalpas.
@@ -84,8 +84,8 @@
 [11908] <prose> Bad—wind and.
 [11909] <prose> Hail etcetera, sent by angry non-humans, or.
 [11910] <prose> Other evil persons dying—these signs may also be possible.
-[11911] <prose> Good—rainbow light and clear sky etcetera, may also be possible for excellent persons transferring to fields, achieving samādhi, life-transference, and so forth.
-[11912] <prose> Achieving samādhi,
+[11911] <break> <prose> Good—rainbow light and clear sky etcetera, may also be possible for excellent persons transferring to fields, achieving samādhi, life-transference, and so forth.
+[11912] <break> <prose> Achieving samādhi,
 [11913] <prose> Life-transference, and so forth—
 [11914] <prose> Here, possessing the power for signs to arise in one's own mind, || 90 ||
 [11915] <prose> While alive, good mind and conduct; at death, good signs of that race—
@@ -102,8 +102,8 @@
 [11926] <verse> Likewise rain and steam and wind,
 [11927] <verse> Hail and dust-whirlwinds arise—
 [11928] <verse> To whoever these befall,
-[11929] <verse> Without intermediate state,
-[11930] <verse> They become in hell's birth-place,
+[11929] <break> <verse> Without intermediate state,
+[11930] <break> <verse> They become in hell's birth-place,
 [11931] <verse> O Ḍākinī.
 [11932] <verse> Sky like mist, light yellow,
 [11933] <verse> Sun and moon die,
@@ -172,7 +172,7 @@
 [11996] <verse> Appearance pattern,
 [11997] <verse> And ground boundary—five aspects.
 [11998] <prose> Thus have been extensively shown the arrangement of signs of the three times.
-[11999] <verse> Definition,
-[12000] <verse> Division,
+[11999] <break> <verse> Definition,
+[12000] <break> <verse> Division,
 [12001] <verse> Appearance pattern,
 [12002] <verse> And ground boundary—four aspects.

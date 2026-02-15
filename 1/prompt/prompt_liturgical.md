@@ -181,9 +181,11 @@ All liturgical lines MUST follow this exact order: `[line_number] <xml_tag> cont
 - Each item in the list gets `<list>` prefix
 - Examples: "First... Second... Third...", "The five elements are..."
 
-**No prefix** - For standard PROSE (default)
-- Elegant prose sections require no tag
-- This is the default state
+**`<break>`** - For double line breaks.
+- Indicates beginning of paragraph, tantra section, verse section, or prose section
+- Proof editor will add double line break *before* the line with the `<break>`  
+- DO NOT add actual line breaks.  The proof editor will handle this!
+- each numbered [line] in liturgical must match 1:1 to original tibetan numbered [line]
 
 **Tagging Examples:**
 

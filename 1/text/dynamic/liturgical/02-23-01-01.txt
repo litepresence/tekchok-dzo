@@ -18,8 +18,8 @@
 [12028] <list> First: the nature-remaining intermediate state (rang bzhin gnas pa'i bar do)
 [12029] <list> Second: the death-time intermediate state ('chi kha'i bar do)
 [12030] <list> Third: the dharmatā intermediate state (chos nyid kyi bar do) || 20 ||
-[12031] <list> Fourth: the existence intermediate state (srid pa'i bar do)
-[12032] <prose><tantra> From the Thalgyur Tantra:
+[12031] <break> <list> Fourth: the existence intermediate state (srid pa'i bar do)
+[12032] <break> <prose><tantra> From the Thalgyur Tantra:
 [12033] <prose><tantra> "Such is the dharmatā of intermediate state,
 [12034] <prose><tantra> The greatly secret dharmatā explained;
 [12035] <prose><tantra> Divided, from four aspects—thus."
@@ -36,8 +36,8 @@
 [12046] <prose> Various appearances arise as different cause-effect actions for future good and evil karma.
 [12047] <prose> In brief, whatever appears to anyone is like the various good and bad dreams of last night:
 [12048] <prose> Though appearing, they are unestablished—existing clearly as emptiness without existence.
-[12049] <prose> Second, the detailed explanation of the four:
-[12050] <list> First, the appearance of the nature-remaining intermediate state: || 40 ||
+[12049] <break> <prose> Second, the detailed explanation of the four:
+[12050] <break> <list> First, the appearance of the nature-remaining intermediate state: || 40 ||
 [12051] <list> Hence, bound by the five aggregates of form and so forth, the appearance of the five kāyas self-dissolves;
 [12052] <list> Bound by elements and sense-sources, the appearance of light and color self-dissolves;
 [12053] <list> Bound by karma and afflictions, the appearance of pristine cognition and dharmatā self-dissolves.
@@ -77,10 +77,10 @@
 [12087] <prose><tantra> Elements and afflictions appear as objects,
 [12088] <prose><tantra> Death-time's mist-gloom rising,
 [12089] <prose><tantra> Consciousness not remaining as one.
-[12090] <prose><tantra> Dharmatā intermediate state: body and || 80 ||
-[12091] <prose><tantra> Wisdom, light and color,
-[12092] <prose><tantra> Drops expanding and elements appearing,
-[12093] <prose><tantra> Whatever appears: dharmatā's measured palace.
+[12090] <break> <prose><tantra> Dharmatā intermediate state: body and || 80 ||
+[12091] <break> <prose><tantra> Wisdom, light and color,
+[12092] <break> <prose><tantra> Drops expanding and elements appearing,
+[12093] <break> <prose><tantra> Whatever appears: dharmatā's measured palace.
 [12094] <prose><tantra> Existence's appearance flickering,
 [12095] <prose><tantra> Flashing like dream appearance,
 [12096] <prose><tantra> True-appearance false, mind's object,
@@ -89,8 +89,8 @@
 [12099] <prose> Fifth, the ground-boundaries: from four.
 [12100] <prose> The ground boundary of the nature-remaining intermediate state is from exiting the mother's womb until struck by the disease of the final death condition. || 90 ||
 [12101] <prose><tantra> From there until breath is cut by gasping is the death-time intermediate state.
-[12102] <prose><tantra> From inner breath being cut, clear light arises; the interval of spontaneously accomplished appearance is the dharmatā intermediate state.
-[12103] <prose><tantra> From there, spontaneously accomplished dissolves, appearing like flashing dreams until entering the mother's womb is the ground boundary of the existence intermediate state.
+[12102] <break> <prose><tantra> From inner breath being cut, clear light arises; the interval of spontaneously accomplished appearance is the dharmatā intermediate state.
+[12103] <break> <prose><tantra> From there, spontaneously accomplished dissolves, appearing like flashing dreams until entering the mother's womb is the ground boundary of the existence intermediate state.
 [12104] <prose> These introductions shown at the final time of death are called the instruction of giving a robe-shake to the traveler crossing.
 [12105] <prose> That traveler has entered the path of death.
 [12106] <verse> The suffering of death is great,
@@ -98,9 +98,9 @@
 [12108] <verse> If known, there is danger of appearing as helpers.
 [12109] <verse> To hit that shake at death,
 [12110] <verse> Is called the instruction of hitting with robe-shake; the example and meaning fit. || 100 ||
-[12111] <prose> These are the general establishment of the intermediate state.
+[12111] <break> <prose> These are the general establishment of the intermediate state.
 [12112] <prose> There is need to divide in half for ease.
-[12113] <ornament> Second, regarding the extensive explanation of individual natures, there are four:
+[12113] <break> <ornament> Second, regarding the extensive explanation of individual natures, there are four:
 [12114] <list> For the nature-remaining intermediate state, the tone-instruction like entering a box with rope cut, deciding the class of knowables;
 [12115] <list> For the death-time intermediate state, the instruction like looking in a beautiful woman's mirror, giving clarity to what is unclear;
 [12116] <list> Thus, for the dharmatā intermediate state, the instruction like meeting a familiar person or a child entering the mother's lap through confidence in own-appearance;
@@ -122,11 +122,11 @@
 [12132] <prose> When seeing whatever appears, whatever arises, whatever is heard, all as the play of self-dissolved emptiness, without hand to correct or discard the blockage of appearance,
 [12133] <prose> Appearance liberates from the ground of appearance, confusion liberates as groundless, arising only as the peak of illusion, liberated from saṃsāra of grasping outer objects.
 [12134] <prose> The dharmas—pieces of mountains, excellent-born women, etc.—whatever first arises as appearing object, cut in pieces, put greatly wherever it appears,
-[12135] <prose> Without entering the great consciousness as investigator,
+[12135] <break> <prose> Without entering the great consciousness as investigator,
 [12136] <prose> Appearance is not changed by mind.
 [12137] <prose> Mind is not seized by appearance; dissolve in self-place.
 [12138] <prose> Without preventing the six consciousness groups, putting in self-place, dharmatā appearance arises spontaneously.
-[12139] <prose> Thus looking at outer dharmas, when knowing as the self-form of objectless emptiness, grasping is pure like objectless space.
+[12139] <break> <prose> Thus looking at outer dharmas, when knowing as the self-form of objectless emptiness, grasping is pure like objectless space.
 [12140] <prose> This is called realizing grasping as without nature. || 130 ||
 [12141] <prose> Thus looking at the consciousness of the outer looker,
 [12142] <prose> Moving dissolves in emptiness without outline,
@@ -151,18 +151,18 @@
 [12161] <prose> Awareness, free from meditation mind and antidote, wide view of pure vast nature,
 [12162] <prose> Clear meditation of self-descended nature-remaining,
 [12163] <prose> Without accepting or rejecting in clear light conduct,
-[12164] <prose> Through obtaining the fruit of primordially pure self-clear,
-[12165] <prose> Abandon delusion appearance without abandoning,
+[12164] <break> <prose> Through obtaining the fruit of primordially pure self-clear,
+[12165] <break> <prose> Abandon delusion appearance without abandoning,
 [12166] <prose> Block delusion thought without preventing,
 [12167] <prose> Pure without training dual-grasping,
-[12168] <prose> Pure from the beginning without abandoning faults,
-[12169] <prose> Spontaneously accomplished qualities without seeking.
+[12168] <break> <prose> Pure from the beginning without abandoning faults,
+[12169] <break> <prose> Spontaneously accomplished qualities without seeking.
 [12170] <verse> The meaning of complete liberation of the three realms, || 160 ||
 [12171] <verse> Transcending the object of view,
 [12172] <verse> Transcending the mind of meditation,
 [12173] <verse> Transcending the calculation of conduct,
-[12174] <verse> Transcending the Dharma of result,
-[12175] <verse> In the fortune of emptying saṃsāra,
+[12174] <break> <verse> Transcending the Dharma of result,
+[12175] <break> <verse> In the fortune of emptying saṃsāra,
 [12176] <verse> The field of dharmatā manifest appearance is spacious.
 [12177] <verse> In the good circle of the land of the source of bliss,
 [12178] <verse> Having obtained the self-arisen palace according to desire,
@@ -183,8 +183,8 @@
 [12193] <prose> Thus meanings are condensed.
 [12194] <verse> These are that result:
 [12195] <verse> Who sees the space-lamp
-[12196] <verse> Manifestly exercises in dharma-space;
-[12197] <verse> Who sees the drop-lamp
+[12196] <break> <verse> Manifestly exercises in dharma-space;
+[12197] <break> <verse> Who sees the drop-lamp
 [12198] <verse> Obtains the hope-base of those with effort;
 [12199] <verse> Who sees the wisdom-lamp
 [12200] <verse> Realizes general and self-characteristic; || 190 ||
@@ -194,8 +194,8 @@
 [12204] <verse> Awarenesses obtain balance.
 [12205] <verse> By that result of three bodies,
 [12206] <verse> All these are self-awareness ground.
-[12207] <verse> In the intermediate state of nature-remaining,
-[12208] <verse> The birth-being habituated to these,
+[12207] <break> <verse> In the intermediate state of nature-remaining,
+[12208] <break> <verse> The birth-being habituated to these,
 [12209] <verse> All elements as self-vanish,
 [12210] <verse> Become in this without doubt. || 200 ||
 [12211] <prose><tantra> These dharmas I proclaimed,

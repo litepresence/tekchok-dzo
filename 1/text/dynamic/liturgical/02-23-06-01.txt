@@ -1,5 +1,5 @@
 [13701] <prose> At first, when the light rays expand, they extend outward.
-[13702] <prose> When they dissolve, they withdraw inward and enter.
+[13702] <break> <prose> When they dissolve, they withdraw inward and enter.
 [13703] <prose> The oral instruction is that these lights resemble silk.
 [13704] <prose> They dissolve into the heart center of the self-knowing mother, like a child entering the lap.
 [13705] <prose> Through blending into Dharmatā, liberation upon the ground of primordial purity occurs.
@@ -99,8 +99,8 @@
 [13799] <prose> The essence of discriminating wisdom, a bindu of five lights extremely clear, like an inverted mirror, radiating with five-colored rays.
 [13800] <prose> Radiating greatly with the light rays of wisdom. || 100 ||
 [13801] <prose> Moreover, in the four directions and center of that, naturally adorned with five bindus as small as mustard seeds, appears as before.
-[13802] <prose> That discriminating is the twenty-one sense faculties of superior, medium, and inferior.
-[13803] <prose> Condensed from that, nine.
+[13802] <break> <prose> That discriminating is the twenty-one sense faculties of superior, medium, and inferior.
+[13803] <break> <prose> Condensed from that, nine.
 [13804] <prose> Condensed from that, superior, medium, and inferior, three.
 [13805] <prose> Extremely condensed from that, self-manifest awareness and.
 [13806] <prose> The intellect of focused objects, realizing with both.
@@ -246,8 +246,8 @@
 [13946] <prose> Impure is delusion.
 [13947] <prose> The sense doors unaltered.
 [13948] <prose> Resting evenly is the essential point.
-[13949] <prose> Transformation from that is the oral instruction.
-[13950] <prose> In appearance without grasping. || 250 ||
+[13949] <break> <prose> Transformation from that is the oral instruction.
+[13950] <break> <prose> In appearance without grasping. || 250 ||
 [13951] <prose> Mind without fixation arises.
 [13952] <prose> Seen with the eye without analysis.
 [13953] <prose> Drawn from the path of Dharmatā.
@@ -255,9 +255,9 @@
 [13955] <prose> Without action, free from effort, guided to the result.
 [13956] <prose> Here appearance and extreme do not abide.
 [13957] <prose> Thus it is said.
-[13958] <prose> At this time, six recollections.
+[13958] <break> <prose> At this time, six recollections.
 [13959] <prose> Six clairvoyances.
-[13960] <prose> The form of non-forgetting. || 260 ||
+[13960] <break> <prose> The form of non-forgetting. || 260 ||
 [13961] <prose> Therefore, continuous samādhi, and fourteen, are shown to be empowered by the power of knowing one's own face.
 [13962] <prose> Although these recollections are spoken of after clairvoyance in the tantra.
 [13963] <prose> Here they are explained earlier according to the order of arising in the continuum.
@@ -279,14 +279,14 @@
 [13979] <prose> Clairvoyance of pure vision of wisdom.
 [13980] <prose> Clairvoyance of seeing Dharmatā without error. || 280 ||
 [13981] <prose> Clairvoyance of seeing the Buddha's cognition without error.
-[13982] <prose> These are each divided by parts into six, making thirty-six.
+[13982] <break> <prose> These are each divided by parts into six, making thirty-six.
 [13983] <prose> First, the six clairvoyances of the faculties begin with the clairvoyance of the eye arising.
-[13984] <prose><tantra> From the pure water-bubble eye.
+[13984] <break> <prose><tantra> From the pure water-bubble eye.
 [13985] <prose> Seeing phenomena as totally open without opening or closing the eye.
-[13986] <prose> With the pure flesh eye, seeing coarse hidden phenomena up to five yojanas away.
+[13986] <break> <prose> With the pure flesh eye, seeing coarse hidden phenomena up to five yojanas away.
 [13987] <prose> With the completely pure flesh eye, seeing the four continents and Mount Meru as one.
 [13988] <prose> With extremely pure vision, seeing two and three.
-[13989] <prose> With extremely thoroughly pure vision, seeing up to ten thousand and a hundred thousand.
+[13989] <break> <prose> With extremely thoroughly pure vision, seeing up to ten thousand and a hundred thousand.
 [13990] <prose> With supremely thoroughly pure vision, seeing ten million and countless numbers without error. || 290 ||
 [13991] <prose> Then with the wisdom eye, seeing a hundred Nirmāṇakāya realms simultaneously.
 [13992] <prose> With pure vision, seeing eight hundred thousand Nirmāṇakāya realms.
@@ -294,16 +294,16 @@
 [13994] <prose> With extremely thoroughly pure vision, seeing nine million.
 [13995] <prose> With supremely thoroughly pure vision, seeing ninety-one.
 [13996] <prose> Then with the all-knowing eye, seeing a hundred Saṃbhogakāya realms simultaneously.
-[13997] <prose> With pure vision, seeing five hundred thousand.
-[13998] <prose> With extremely pure vision, seeing five million.
+[13997] <break> <prose> With pure vision, seeing five hundred thousand.
+[13998] <break> <prose> With extremely pure vision, seeing five million.
 [13999] <prose> With thoroughly pure vision, seeing countless millions, seventy simultaneously.
 [14000] <prose> Then with the eye knowing all aspects, seeing countless Dharmakāya realms simultaneously. || 300 ||
-[14001] <prose> With pure vision, seeing countless Saṃbhogakāya realms simultaneously.
+[14001] <break> <prose> With pure vision, seeing countless Saṃbhogakāya realms simultaneously.
 [14002] <prose> With extremely pure vision, seeing countless Nirmāṇakāya realms simultaneously.
-[14003] <prose> With thoroughly pure vision, seeing endless realms of the display of the three Buddha-bodies simultaneously.
+[14003] <break> <prose> With thoroughly pure vision, seeing endless realms of the display of the three Buddha-bodies simultaneously.
 [14004] <prose> Then the clairvoyance of the ear.
-[14005] <prose> With the divine ear, hearing actual sounds, and hearing the sounds of hidden beings.
-[14006] <prose> With pure vision, hearing up to a thousand yojanas.
+[14005] <break> <prose> With the divine ear, hearing actual sounds, and hearing the sounds of hidden beings.
+[14006] <break> <prose> With pure vision, hearing up to a thousand yojanas.
 [14007] <prose> With extremely pure vision, five thousand.
 [14008] <prose> With thoroughly pure vision, two hundred thousand.
 [14009] <prose> With the flesh ear, hearing the sounds of the lower realms up to a hundred thousand yojanas.
@@ -315,11 +315,11 @@
 [14015] <prose> With pure vision, hearing the sounds of bodhisattvas who travel by command.
 [14016] <prose> With extremely pure vision, hearing the speech of countless Buddhas.
 [14017] <prose> With thoroughly pure vision, hearing the dialogue of the teachings of seven countless Buddhas.
-[14018] <prose> Countless means the name of the final number in sixty other number places.
-[14019] <prose> Then the clairvoyance of the nose is with the divine nose, smelling invisible scents.
+[14018] <break> <prose> Countless means the name of the final number in sixty other number places.
+[14019] <break> <prose> Then the clairvoyance of the nose is with the divine nose, smelling invisible scents.
 [14020] <prose> With pure vision, smelling the scents of material objects. || 320 ||
-[14021] <prose> With extremely pure vision, smelling the scents of formless beings.
-[14022] <prose> With thoroughly pure vision, smelling the scents of space-dwellers.
+[14021] <break> <prose> With extremely pure vision, smelling the scents of formless beings.
+[14022] <break> <prose> With thoroughly pure vision, smelling the scents of space-dwellers.
 [14023] <prose> With the nose endowed with marks, smelling the scents of the six classes of beings simultaneously.
 [14024] <prose> With pure vision, smelling the scents of śrāvakas and pratyekabuddhas.
 [14025] <prose> With extremely pure vision, smelling the scents of bodhisattvas.
@@ -332,14 +332,14 @@
 [14032] <prose> With extremely pure vision, tasting the nectar blessed by five thousand Buddhas.
 [14033] <prose> With thoroughly pure vision, tasting the nectar blessed by Buddhas of seven hundred thousand eons.
 [14034] <prose> The clairvoyance of the body is with the body completely at the limit of subtle atoms, touched by the melodious sounds.
-[14035] <prose> With pure vision, touching the body of Maitreya, the stainless protector.
+[14035] <break> <prose> With pure vision, touching the body of Maitreya, the stainless protector.
 [14036] <prose> With extremely pure vision, touching the heart equal to that adorned by a thousand suns.
 [14037] <prose> With the body of exhausted defilements, touching the hearts of past Buddhas.
 [14038] <prose> With pure vision, the present and.
-[14039] <prose> With extremely pure vision, the future.
+[14039] <break> <prose> With extremely pure vision, the future.
 [14040] <prose> With thoroughly pure vision, touching the hearts of Buddhas of the three times as one. || 340 ||
-[14041] <prose> The clairvoyance of the mind is.
-[14042] <prose> With the ordinary self-purified mind, power over ten samādhis.
+[14041] <break> <prose> The clairvoyance of the mind is.
+[14042] <break> <prose> With the ordinary self-purified mind, power over ten samādhis.
 [14043] <prose> With pure vision, power over a hundred.
 [14044] <prose> With extremely pure vision, power over a thousand.
 [14045] <prose> With thoroughly pure vision, power over ten thousand.
@@ -348,14 +348,14 @@
 [14048] <prose> With extremely pure vision, able to mutually transform the abodes of the six realms.
 [14049] <prose> With thoroughly pure vision, able to steal the power of miracles of śrāvakas and pratyekabuddhas.
 [14050] <prose> Thus for the six faculties of eye. || 350 ||
-[14051] <prose> Ear.
-[14052] <prose> Nose.
+[14051] <break> <prose> Ear.
+[14052] <break> <prose> Nose.
 [14053] <prose> Tongue.
 [14054] <prose> Body.
 [14055] <prose> And mind.
 [14056] <prose> Progressively, six for the eye.
-[14057] <prose> Three for the ear.
-[14058] <prose> And two each for the remaining four, making seventeen.
+[14057] <break> <prose> Three for the ear.
+[14058] <break> <prose> And two each for the remaining four, making seventeen.
 [14059] <prose> Counting four sets of four makes sixty-eight, which is the clairvoyance of the faculties.
 [14060] <prose> Included within six subdivisions. || 360 ||
 [14061] <prose> The second, six clairvoyances of the workable mind are.
@@ -364,12 +364,12 @@
 [14064] <prose> The vision of perfect knowledge of those to be trained.
 [14065] <prose> The vision that makes the unseen into the path.
 [14066] <prose> The vision of perfectly completing all beings.
-[14067] <prose> And the pure vision of the mind liberated from mistaken faculties.
-[14068] <prose> At this stage, if there were no body or mind, it would be unreasonable for the clairvoyances of the faculties and mind to arise.
+[14067] <break> <prose> And the pure vision of the mind liberated from mistaken faculties.
+[14068] <break> <prose> At this stage, if there were no body or mind, it would be unreasonable for the clairvoyances of the faculties and mind to arise.
 [14069] <prose> Therefore it is said that the obscurations of the clairvoyances of body and mind are purified at this time by the power of appearance.
 [14070] <prose> Like the five afflictions becoming the ground of wisdom. || 370 ||
-[14071] <prose><tantra> From the power of purifying afflictions, wisdom self-luminous.
-[14072] <prose> Afflictions cannot become wisdom themselves.
+[14071] <break> <prose><tantra> From the power of purifying afflictions, wisdom self-luminous.
+[14072] <break> <prose> Afflictions cannot become wisdom themselves.
 [14073] <prose> Because virtue and non-virtue are cause and result, this is absolutely impossible.
 [14074] <prose> However, one should understand this as it is designated.
 [14075] <prose> If one has wisdom, there is a crucial essential point here.
@@ -383,8 +383,8 @@
 [14083] <prose> With extremely pure vision, mind.
 [14084] <prose> With thoroughly pure vision, seeing the characteristics of body, speech, and mind simultaneously.
 [14085] <prose> Through the mind's vision of perfect knowledge of those to be trained.
-[14086] <prose> Seeing the characteristics of the bodies of countless beings assembled over a hundred thousand lives.
-[14087] <prose> With pure vision, speech and.
+[14086] <break> <prose> Seeing the characteristics of the bodies of countless beings assembled over a hundred thousand lives.
+[14087] <break> <prose> With pure vision, speech and.
 [14088] <prose> With extremely pure vision, mind.
 [14089] <prose> With thoroughly pure vision, seeing all three simultaneously.
 [14090] <prose> Through the mind's vision that makes the unseen into the path. || 390 ||
@@ -399,48 +399,48 @@
 [14099] <prose> With thoroughly pure vision, seeing the numbers of both virtue and non-virtue simultaneously.
 [14100] <prose> Through the mind's vision liberated from mistaken faculties. || 400 ||
 [14101] <prose> Seeing the characteristics of the places where one took birth in the past.
-[14102] <prose> With pure vision, seeing the past birthplaces of others.
-[14103] <prose> With extremely pure vision, knowing the conduct of body, speech, and mind at those times.
+[14102] <break> <prose> With pure vision, seeing the past birthplaces of others.
+[14103] <break> <prose> With extremely pure vision, knowing the conduct of body, speech, and mind at those times.
 [14104] <prose> With thoroughly pure vision, knowing simultaneously the characteristics of past birthplaces of both, and what was done with the three doors.
 [14105] <prose> Thus the six clairvoyances of the mind, divided into four each, make twenty-four aspects.
 [14106] <prose> The third, six clairvoyances of power over wisdom.
-[14107] <prose> The vision of wisdom free from intellect and.
-[14108] <prose> Free from words.
+[14107] <break> <prose> The vision of wisdom free from intellect and.
+[14108] <break> <prose> Free from words.
 [14109] <prose> Free from conceptualization.
 [14110] <prose> Free from analysis. || 410 ||
-[14111] <prose> The vision of wisdom analyzing characteristics and.
-[14112] <prose> The vision of wisdom free from characteristics.
-[14113] <prose> Through being free from intellect, seeing one's own mind's characteristics instantly.
-[14114] <prose> With pure vision, with others, and with extremely pure vision, with both self and other.
+[14111] <break> <prose> The vision of wisdom analyzing characteristics and.
+[14112] <break> <prose> The vision of wisdom free from characteristics.
+[14113] <break> <prose> Through being free from intellect, seeing one's own mind's characteristics instantly.
+[14114] <break> <prose> With pure vision, with others, and with extremely pure vision, with both self and other.
 [14115] <prose> With thoroughly pure vision, seeing all remaining without exception.
 [14116] <prose> Moreover, through the vision of wisdom free from words, seeing the words of the scriptural teachings simultaneously.
-[14117] <prose> With pure vision, knowing their meaning without error, both correct and incorrect.
-[14118] <prose> With extremely pure vision, knowing their results and liberations.
+[14117] <break> <prose> With pure vision, knowing their meaning without error, both correct and incorrect.
+[14118] <break> <prose> With extremely pure vision, knowing their results and liberations.
 [14119] <prose> With thoroughly pure vision, seeing their individual engagements.
-[14120] <prose> The uncommon secret of the meaning of scriptures without error and. || 420 ||
-[14121] <prose> The common mistaken views and conduct of analysis.
+[14120] <break> <prose> The uncommon secret of the meaning of scriptures without error and. || 420 ||
+[14121] <break> <prose> The common mistaken views and conduct of analysis.
 [14122] <prose> Through the vision of wisdom free from conceptualization, knowing the nature of all phenomena.
 [14123] <prose> With pure vision, seeing the sharp and dull faculties of persons practicing them.
 [14124] <prose> With extremely pure vision, knowing their liberations.
 [14125] <prose> With thoroughly pure vision, knowing the similar phenomena of faculties.
-[14126] <prose> Through the vision of wisdom beyond analysis, seeing all general meanings.
+[14126] <break> <prose> Through the vision of wisdom beyond analysis, seeing all general meanings.
 [14127] <prose> With pure vision, seeing one's own meaning and.
-[14128] <prose> With extremely pure vision, seeing both general and specific characteristics as insight.
+[14128] <break> <prose> With extremely pure vision, seeing both general and specific characteristics as insight.
 [14129] <prose> With thoroughly pure vision, seeing meaning beyond words and letters.
 [14130] <prose> Through the vision of wisdom that severs birth, seeing the causes of saṃsāric phenomena. || 430 ||
 [14131] <prose> With pure vision, seeing the characteristics of the conditions, the afflictions.
 [14132] <prose> With extremely pure vision, seeing their times and characteristics.
 [14133] <prose> With thoroughly pure vision, seeing liberation from them.
-[14134] <prose> Through the vision of wisdom free from characteristics, recognizing the measure of the mind's changes.
-[14135] <prose> With pure vision, seeing the characteristics of the mind itself as just looking.
+[14134] <break> <prose> Through the vision of wisdom free from characteristics, recognizing the measure of the mind's changes.
+[14135] <break> <prose> With pure vision, seeing the characteristics of the mind itself as just looking.
 [14136] <prose> With extremely pure vision, seeing the changes of the minds of other beings.
 [14137] <prose> With thoroughly pure vision, knowing simultaneously the changes of other beings' minds in the three times.
 [14138] <prose> Conceptual thought and.
 [14139] <prose> Non-conceptual and.
 [14140] <prose> Differences of intention. || 440 ||
 [14141] <prose> Thus the six clairvoyances of wisdom, divided into four sets, make twenty-four.
-[14142] <prose> The fourth, six clairvoyances of pure vision of wisdom.
-[14143] <prose> Through the clairvoyance of the Dharmadhātu wisdom becoming manifest, knowing simultaneously the birthplaces of future beings.
+[14142] <break> <prose> The fourth, six clairvoyances of pure vision of wisdom.
+[14143] <break> <prose> Through the clairvoyance of the Dharmadhātu wisdom becoming manifest, knowing simultaneously the birthplaces of future beings.
 [14144] <prose> Through mirror-like, knowing the past.
 [14145] <prose> Through equality, knowing the present.
 [14146] <prose> Through discrimination, knowing the transmigrations of future beings.
@@ -449,8 +449,8 @@
 [14149] <prose> The fifth, when the six clairvoyances of seeing Dharmatā without error arise, self-benefit is completed and one engages in the activity of benefiting others.
 [14150] <prose> Through the clairvoyance of realizing all phenomena free from elaboration, seeing the hell realms simultaneously and being able to emanate countless millions there. || 450 ||
 [14151] <prose> Through realizing signless Dharmatā, seeing the hungry ghost realms, lifespans, and.
-[14152] <prose> Suffering and.
-[14153] <prose> Actions and results, compassion arises and one can emanate three countless ones.
+[14152] <break> <prose> Suffering and.
+[14153] <break> <prose> Actions and results, compassion arises and one can emanate three countless ones.
 [14154] <prose> Through realizing all phenomena as naturally clear light, seeing the animal realms, and.
 [14155] <prose> Suffering and.
 [14156] <prose> Lifespans and.
@@ -464,8 +464,8 @@
 [14164] <prose> Two animals and.
 [14165] <prose> Four humans and.
 [14166] <prose> Three asuras and.
-[14167] <prose> Gods with many distinctions, included in the three realms.
-[14168] <prose> The six god realms and.
+[14167] <break> <prose> Gods with many distinctions, included in the three realms.
+[14168] <break> <prose> The six god realms and.
 [14169] <prose> Forms and.
 [14170] <prose> Enjoyments and. || 470 ||
 [14171] <prose> Conduct and.

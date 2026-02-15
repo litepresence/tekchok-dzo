@@ -14,13 +14,13 @@
 [9531] <prose> Four results—eight, arising from ripening.
 [9532] <list> Saṃbhogakāya Teacher: Vairocana Gaṅgā Lake.
 [9533] <prose> Abode: Dense Array.
-[9534] <prose> Teaching: Self-arisen six syllables' sound from tongue's light rays—sole teaching-son.
-[9535] <prose> Retinue: Four Family Buddhas, self-awareness-eye.
+[9534] <break> <prose> Teaching: Self-arisen six syllables' sound from tongue's light rays—sole teaching-son.
+[9535] <break> <prose> Retinue: Four Family Buddhas, self-awareness-eye.
 [9536] <prose> Time: Great natural purity.
 [9537] <prose> Field: Upon equanimity's ground || 20 ||
 [9538] <prose> Twenty-five stacked above.
-[9539] <prose> Sixteen below vajra posture.
-[9540] <prose> Viewed vertically like stacked slates, pure space between.
+[9539] <break> <prose> Sixteen below vajra posture.
+[9540] <break> <prose> Viewed vertically like stacked slates, pure space between.
 [9541] <prose> Mutually like spread tents below one another.
 [9542] <prose> Each divided by iron mountains and oceans, abiding.
 [9543] <prose> Dharma: Engaging great purity's self-nature.
@@ -30,8 +30,8 @@
 [9547] <prose> Field and emanation—two, making eight || 30 ||
 [9548] <prose> This too: Result of eight empowerments.
 [9549] <list> Nirmāṇakāya Teacher: Sixth Vajradhara.
-[9550] <prose> Abode: Tuṣita—Ogmin, name distinction.
-[9551] <prose> Teaching: Great Perfection of innate nature.
+[9550] <break> <prose> Abode: Tuṣita—Ogmin, name distinction.
+[9551] <break> <prose> Teaching: Great Perfection of innate nature.
 [9552] <prose> Retinue: Worldly and transcendent.
 [9553] <prose> Time: Time of taming through form.
 [9554] <prose> Field: Vast Brahma realm.
@@ -43,15 +43,15 @@
 [9560] <prose> Abode: Beyond thought, free from characteristics and basis.
 [9561] <prose> Teaching: Without dust or stain.
 [9562] <prose> Retinue: Ocean of wisdom.
-[9563] <prose> Field: Great bliss, completely pure.
-[9564] <prose> Dharma: Without distinguishing faces.
+[9563] <break> <prose> Field: Great bliss, completely pure.
+[9564] <break> <prose> Dharma: Without distinguishing faces.
 [9565] <prose> Activity: Mind itself beyond perversion—eight.
 [9566] <prose> All these—their nature: Four Kāyas of marks.
 [9567] <list> Dharmakāya Teacher: Unfabricated nature || 50 ||
 [9568] <prose> Abode: Emptiness, all-pervading.
-[9569] <prose> Teaching: Pure conduct of taming.
+[9569] <break> <prose> Teaching: Pure conduct of taming.
 [9570] <prose> Retinue: Naturally pure.
-[9571] <prose> Time: Unlimited variety.
+[9571] <break> <prose> Time: Unlimited variety.
 [9572] <prose> Dharma: Outflows self-extinguished.
 [9573] <prose> Established: Dharmas' aggregates gathered—Dharmakāya.
 [9574] <prose> Activity: Action without self-doer—eight.
@@ -65,8 +65,8 @@
 [9582] <prose> Established: Purifying form atoms and particles—Rūpakāya.
 [9583] <prose> Activity: Exhausting karmic forms' activities—eight.
 [9584] <list> Incidentally: Śāntikāya Teacher: Self-knowing Rigpa King, uncompounded.
-[9585] <prose> Abode: Cittaratna palace, measureless.
-[9586] <prose> Teaching: Pith instructions of all channels and winds.
+[9585] <break> <prose> Abode: Cittaratna palace, measureless.
+[9586] <break> <prose> Teaching: Pith instructions of all channels and winds.
 [9587] <prose> Retinue: Five wisdoms and || 70 ||
 [9588] <prose> Five winds and.
 [9589] <prose> Five prajñās and.
@@ -79,8 +79,8 @@
 [9596] <prose> Established: Relying on this, body-mind suffering pacified—Śāntikāya.
 [9597] <prose> Activity: Liberating from three realms—eight || 80 ||
 [9598] <list> Wrathful Kāya Teacher: Five wisdom Herukas.
-[9599] <prose> Abode: Blazing Bhanda palace—white skull-cup brain temple.
-[9600] <prose> Teaching: Great bliss blazing and flowing.
+[9599] <break> <prose> Abode: Blazing Bhanda palace—white skull-cup brain temple.
+[9600] <break> <prose> Teaching: Great bliss blazing and flowing.
 [9601] <prose> Retinue: Four lamp goddesses.
 [9602] <prose> Time: Time of self-coiling wisdom.
 [9603] <prose> Field: Eye faculty seeing unceasingly.
@@ -176,8 +176,8 @@
 [9693] <prose> Ground meaning ripening subject and empowerment arrangements—sixth story.
 [9694] <prose> Thus after well-explaining empowerment's gate.
 [9695] <prose> Its definite abode is samaya, therefore.
-[9696] <prose> Explaining it: For all entering unexcelled Secret Mantra gate, samaya alone is crucial.
-[9697] <prose> Here to be established: Three || 180 ||
+[9696] <break> <prose> Explaining it: For all entering unexcelled Secret Mantra gate, samaya alone is crucial.
+[9697] <break> <prose> Here to be established: Three || 180 ||
 [9698] <prose> Samaya's nature generally shown.
 [9699] <prose> Body-speech-mind samaya specifically explained.
 [9700] <prose> Unexcelled samaya supremely shown.

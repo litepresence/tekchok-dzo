@@ -1,7 +1,7 @@
 [13304] <prose> First, the first of the five outer elements dissolves:
 [13305] <prose> The five inner earth elements dissolve into the five outer earth elements, whereby the body's power is lost and memory declines.
-[13306] <prose> The five water elements dissolve into water, whereby the body's fluids drip, and in that silk-like moment the mouth and nose become dry while the eyes roll upward.
-[13307] <prose> The five fire elements dissolve into fire, whereby the body's heat rises, memory ceases, and the lamp is no longer seen.
+[13306] <break> <prose> The five water elements dissolve into water, whereby the body's fluids drip, and in that silk-like moment the mouth and nose become dry while the eyes roll upward.
+[13307] <break> <prose> The five fire elements dissolve into fire, whereby the body's heat rises, memory ceases, and the lamp is no longer seen.
 [13308] <prose> The five wind elements dissolve into wind, whereby the body's luster fades and breath becomes rough, ceasing in that silk-like moment.
 [13309] <prose> Then the manner of the inner elements dissolving is thus:
 [13310] <prose> The five space elements dissolve into the sphere of awareness; at that time, the face is grasped.
@@ -57,18 +57,18 @@
 [13360] <prose> Inner earth dissolving into outer earth.
 [13361] <prose> The time of outer earth dissolving into inner earth is:
 [13362] <prose> The first time.
-[13363] <prose> The inner five elements dissolving outward || 60 ||
-[13364] <prose> Time is: inner earth dissolving into outer earth sign, the body's power is lost.
+[13363] <break> <prose> The inner five elements dissolving outward || 60 ||
+[13364] <break> <prose> Time is: inner earth dissolving into outer earth sign, the body's power is lost.
 [13365] <prose> That also is thus:
 [13366] <prose> The sign of earth dissolving where all appears: outer consciousness dulls.
 [13367] <prose> The sign of unchanging vajra earth dissolving: the body's power is lost.
 [13368] <prose> The sign of all-arising precious earth dissolving: declining in capacity, unable to rise.
 [13369] <prose> The sign of appearance-revealing Samantabhadra earth dissolving: losing perfectly complete power, intention unclear.
-[13370] <prose> The sign of accomplishment-completing earth dissolving: the lamp's appearance ceases.
-[13371] <prose> The sign of inner water dissolving into outer water: water unable to be held.
+[13370] <break> <prose> The sign of accomplishment-completing earth dissolving: the lamp's appearance ceases.
+[13371] <break> <prose> The sign of inner water dissolving into outer water: water unable to be held.
 [13372] <prose> That also is thus:
-[13373] <prose> The sign of unchanging water dissolving: water dripping from mouth and nose. || 70 ||
-[13374] <prose> Thus, the sign of peaceful clear pure water dissolving: unable to hold water from the secret place.
+[13373] <break> <prose> The sign of unchanging water dissolving: water dripping from mouth and nose. || 70 ||
+[13374] <break> <prose> Thus, the sign of peaceful clear pure water dissolving: unable to hold water from the secret place.
 [13375] <prose> The sign of quality-arising spreading water dissolving: eyes rolling upward.
 [13376] <prose> The sign of attachment-free water dissolving: mouth and nose dry.
 [13377] <prose> The sign of grasping-free perfectly complete water dissolving: ears unable to hear sound.
@@ -193,8 +193,8 @@
 [13496] <prose> Awareness not abiding, emerging, appearing in space,
 [13497] <prose> Within the expanse of awareness, five ye-shes winds existing, spreading, luminosity appearance appearing as rainbow patterns, filling space,
 [13498] <prose> Five ye-shes individually clear, unmixed self-resoundings,
-[13499] <prose> Consequently, mirror-like ye-shes, primordially pure of stain, self-resounding white clearly appearing, also not mixed with the other four, clear in its own place:
-[13500] <prose> At the bardo time, in the eastern direction, by oneself—
+[13499] <break> <prose> Consequently, mirror-like ye-shes, primordially pure of stain, self-resounding white clearly appearing, also not mixed with the other four, clear in its own place:
+[13500] <break> <prose> At the bardo time, in the eastern direction, by oneself—
 [13501] <prose> At the time of capacity, one's own forward direction is one's own place,
 [13502] <prose><tantra> From that, rays self-pure and
 [13503] <prose> Intertwined and || 200 ||
@@ -234,9 +234,9 @@
 [13537] <prose> Third instant: liberated, dissolving into primordial purity, after that no appearance whatsoever.
 [13538] <prose> Those also, if scripture elaborates, beautiful to the wise,
 [13539] <prose> And explained to open the eye of intelligence for the foolish.
-[13540] <prose> <tantra> From Sun Moon Union:
+[13540] <break> <prose> <tantra> From Sun Moon Union:
 [13541] <prose> Hey! Great thought-free Sage, listen!
-[13542] <prose> Naturally pure appearance is thus:
+[13542] <break> <prose> Naturally pure appearance is thus:
 [13543] <prose> The consciousness of beings dissolving into luminosity is called || 240 ||
 [13544] <prose> Breath outer-inner travel severed immediately,
 [13545] <prose> One's own senses
@@ -266,8 +266,8 @@
 [13569] <prose> That also, colors are five:
 [13570] <prose> White clear in self-place, rays spreading, and
 [13571] <prose> Likewise yellow clear in self-place, rays spreading, and
-[13572] <prose> Red clear in self-place, rays spreading, and
-[13573] <prose> Green itself clear in self-place, rays spreading, and || 270 ||
+[13572] <break> <prose> Red clear in self-place, rays spreading, and
+[13573] <break> <prose> Green itself clear in self-place, rays spreading, and || 270 ||
 [13574] <prose> Likewise deep-blue itself clear in self-place, rays spreading,
 [13575] <prose> Those also, not touching in contact, individually self-clear as colors,
 [13576] <prose> Extremely spontaneously thick abiding, thus taught.
@@ -353,8 +353,8 @@
 [13656] <prose> Vajra and
 [13657] <prose> Jewel and
 [13658] <prose> Lotus and
-[13659] <prose> Crossed-vajra holding,
-[13660] <prose> Feet in vajra-posture,
+[13659] <break> <prose> Crossed-vajra holding,
+[13660] <break> <prose> Feet in vajra-posture,
 [13661] <prose> Individual family mandalas' center, family lord father-mother, four directions Akshobhya etc. Buddhas father-mother,
 [13662] <prose> Eight directions Maitreya etc. Bodhisattvas eight and
 [13663] <prose> Lasya etc. goddesses eight and || 360 ||
@@ -381,8 +381,8 @@
 [13684] <prose> Moreover, at this time, although self has no self-marked body, thinking "exists" is like a dream from former body's self-grasping habitual pattern power,
 [13685] <prose> Habitual pattern seeds not exhausted until, light,
 [13686] <prose> Self-nature at that time existing as light-body,
-[13687] <prose> Heart center awareness possessing realm-appearance sound, outward spreading,
-[13688] <prose> Each Sku's heart-center sphere mandala clearly appearing, like mirror face arising.
+[13687] <break> <prose> Heart center awareness possessing realm-appearance sound, outward spreading,
+[13688] <break> <prose> Each Sku's heart-center sphere mandala clearly appearing, like mirror face arising.
 [13689] <prose> Thus, at that time, from all those Sambhogakayas' heart-centers, horse-drum-tip light-rays from ten directions to self heart-center entering, and
 [13690] <prose><tantra> From self heart-center also to those heart-centers entering:
 [13691] <prose> Demonstrating the connection of self-resounding,

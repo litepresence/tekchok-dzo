@@ -1,6 +1,6 @@
 [10900] <ornament> Fourth Section: The Three Kayas.
-[10901] <ornament> Definition.
-[10902] <ornament> Divisions.
+[10901] <break> <ornament> Definition.
+[10902] <break> <ornament> Divisions.
 [10903] <ornament> Characteristics.
 [10904] <ornament> Fruition and the Fivefold Presentation.
 [10905] <prose> Essence:
@@ -34,8 +34,8 @@
 [10933] <prose> the inner clear Three Kayas dwell merely as the basis of arising.
 [10934] <prose> Through familiarization with such path-appearance kaya-dharmatā,
 [10935] <prose> from Blazing Relics, the signs of obtained Three Kayas are:
-[10936] <prose> The measure of kayas trained:
-[10937] <verse> Whoever has familiarized with the kaya,
+[10936] <break> <prose> The measure of kayas trained:
+[10937] <break> <verse> Whoever has familiarized with the kaya,
 [10938] <verse> For the person endowed with fortune,
 [10939] <verse> Prior signs are like this: || 40 ||
 [10940] <verse> Whoever has familiarized with Dharma-kaya,
@@ -65,8 +65,8 @@
 [10964] <verse> Thus familiar in the continuum,
 [10965] <verse> Speech clear, possessing voice,
 [10966] <verse> Words of lying speech.
-[10967] <prose> Likewise, words of non-virtuous action:
-[10968] <verse> Always spoken expression ends, ceases.
+[10967] <break> <prose> Likewise, words of non-virtuous action:
+[10968] <break> <verse> Always spoken expression ends, ceases.
 [10969] <verse> Thus that one possessing signs, || 70 ||
 [10970] <verse> If this meaning is practiced,
 [10971] <verse> Flying in the sky,
@@ -83,8 +83,8 @@
 [10982] <verse> What person endowed with fortune,
 [10983] <verse> Having familiarized with Nirmana-kaya,
 [10984] <verse> This person who has gained confidence:
-[10985] <prose> These signs of body, speech, and mind:
-[10986] <verse> In whom arise such signs,
+[10985] <break> <prose> These signs of body, speech, and mind:
+[10986] <break> <verse> In whom arise such signs,
 [10987] <verse> This one also becomes fortunate.
 [10988] <verse> Dharmas heard before,
 [10989] <verse> Their meaning in one's own continuum, || 90 ||
@@ -93,8 +93,8 @@
 [10992] <verse> Likewise, various words.
 [10993] <verse> Of dharma not heard before,
 [10994] <verse> Speak from the mouth in nature.
-[10995] <prose> Likewise, words of other secret mantra tantras:
-[10996] <verse> Tantra words as they are,
+[10995] <break> <prose> Likewise, words of other secret mantra tantras:
+[10996] <break> <verse> Tantra words as they are,
 [10997] <verse> In order, become clearly manifest.
 [10998] <verse> Likewise, all dharmas,
 [10999] <verse> All forms of word and meaning, || 100 ||
@@ -114,8 +114,8 @@
 [11013] <verse> Growing self-grown like that,
 [11014] <verse> Compassion not existing before,
 [11015] <verse> Arises from depth in this,
-[11016] <prose> After that, enters benefit of beings.
-[11017] <verse> When beings arise for benefit.
+[11016] <break> <prose> After that, enters benefit of beings.
+[11017] <break> <verse> When beings arise for benefit.
 [11018] <verse> Of one's own body,
 [11019] <verse> This one can give body || 120 ||
 [11020] <verse> And limbs as desired,
@@ -123,8 +123,8 @@
 [11022] <verse> Likewise, to one's own guru,
 [11023] <verse> Can give body and so forth as before,
 [11024] <verse> Thus the person in whom this arises,
-[11025] <prose> Touches Nirmana-kaya by this.
-[11026] <prose> <tantra> Thus it is said.
+[11025] <break> <prose> Touches Nirmana-kaya by this.
+[11026] <break> <prose> <tantra> Thus it is said.
 [11027] <prose> Thus, that one possessing Nirmana-kaya signs, if desiring, takes miraculous birth in the field of natural Nirmana-kaya, dwells sixty-eight thousand years for the benefit of beings,
 [11028] <prose> from that state emanates in many millions of four continents, doing immeasurable benefit for beings,
 [11029] <prose> crosses the ground with primordial purity. || 130 ||
@@ -174,8 +174,8 @@
 [11073] <prose> Small grasping at outer and inner dharmas,
 [11074] <prose> Without attachment and clinging to body,
 [11075] <prose> thus it is said.
-[11076] <ornament> Fifth Section: Rigpa (Awareness)
-[11077] <ornament> Definition.
+[11076] <break> <ornament> Fifth Section: Rigpa (Awareness)
+[11077] <break> <ornament> Definition.
 [11078] <ornament> Divisions.
 [11079] <ornament> Characteristics || 180 ||
 [11080] <ornament> Fruition and the Fivefold Presentation.

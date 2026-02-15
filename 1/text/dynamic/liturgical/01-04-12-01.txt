@@ -46,8 +46,8 @@
 [3107] <prose> <tantra> I am only without faults."
 [3108] <prose> Thus it is taught.
 [3109] <prose> Since there is nothing to refute,
-[3110] <prose> I refute nothing.
-[3111] <prose> Therefore, it is said that one refutes. || 50 ||
+[3110] <break> <prose> I refute nothing.
+[3111] <break> <prose> Therefore, it is said that one refutes. || 50 ||
 [3112] <prose> You have imposed that imputation.
 [3113] <prose> Thus it is taught.
 [3114] <prose> And this also, since no view is established by intellect, one wishes for the cessation of elaboration.
@@ -59,9 +59,9 @@
 [3120] <list> The Root Wisdom,
 [3121] <list> The Sixty Verses on Reasoning, || 60 ||
 [3122] <list> The Seventy on Emptiness,
-[3123] <list> The Fine Analysis,
+[3123] <break> <list> The Fine Analysis,
 [3124] <list> The Refutation of Objections,
-[3125] <list> The Conventional Establishment.
+[3125] <break> <list> The Conventional Establishment.
 [3126] <prose> Also this, from the speech of the noble Nāgārjuna:
 [3127] <prose> Composed the collection of words on the explanation of the first teaching, the dharma-wheel of the four truths.
 [3128] <prose> Composed the collection of reasoning on the explanation of the dharma-wheel of the middle, characteristic-less dharmas.
@@ -74,8 +74,8 @@
 [3135] <ornament> First: Through the vehicle of characteristics, one must strive greatly with difficulty, accomplishing through great perseverance.
 [3136] <prose> Through depending on causes, mantras ripen results with little effort, attaining Buddhahood, surpassing the lower vehicle.
 [3137] <prose> Through causes, the path of five paths, the ten grounds with great difficulty, over countless eons, to reach the Buddha.
-[3138] <prose> Mantra: Excellent life alone.
-[3139] <prose> The intermediate bardo.
+[3138] <break> <prose> Mantra: Excellent life alone.
+[3139] <break> <prose> The intermediate bardo.
 [3140] <prose> Through least birth, through Buddha, quickly surpassing.
 [3141] <prose> Even seeing the first truth of cause requires boundless collections and so forth. || 80 ||
 [3142] <prose> Even accomplishing through subtle mantras, maṇḍalas, offerings, and so forth, surpasses.

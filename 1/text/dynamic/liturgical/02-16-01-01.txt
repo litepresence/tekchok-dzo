@@ -47,8 +47,8 @@
 [731] <list> Nirmāṇakāya—three places' expansive explanations.
 [732] <prose> The first also has:
 [733] <list> Essence,
-[734] <list> Definition, || 50 ||
-[735] <list> Self-body,
+[734] <break> <list> Definition, || 50 ||
+[735] <break> <list> Self-body,
 [736] <list> Metaphor,
 [737] <list> Sign,
 [738] <list> Appearance,
@@ -68,8 +68,8 @@
 [752] <prose><tantra> From that same nature:
 [753] <verse> Fearless, empty, and clear,
 [754] <prose> All actions complete— || 70 ||
-[755] <prose> This is Dharmakāya's definition.
-[756] <prose> <tantra> Thus it is spoken.
+[755] <break> <prose> This is Dharmakāya's definition.
+[756] <break> <prose> <tantra> Thus it is spoken.
 [757] <prose> Self-body is this:
 [758] <prose> Freed from all elaboration extremes, without anywhere accomplishment—
 [759] <prose><tantra> From Self-Arisen:
@@ -139,8 +139,8 @@
 [823] <prose> <tantra> Thus it is spoken.
 [824] <ornament> Second: Sambhogakāya's basis—five expansive explanations: || 140 ||
 [825] <list> Essence,
-[826] <list> Definitive meaning,
-[827] <list> Characteristics,
+[826] <break> <list> Definitive meaning,
+[827] <break> <list> Characteristics,
 [828] <list> Appearance mode,
 [829] <list> Abiding mode—thus.
 [830] <ornament> First: Essence—from Self-Arisen:
@@ -221,8 +221,8 @@
 [905] <prose> Five abodes:
 [906] <list> Thigle abode: heart,
 [907] <list> Wisdom abode: crown,
-[908] <list> Lamp abode: eyes,
-[909] <list> Expanse-appearance abode: sky,
+[908] <break> <list> Lamp abode: eyes,
+[909] <break> <list> Expanse-appearance abode: sky,
 [910] <list> Liberation-place abode: primordial purity.
 [911] <prose> Five fields:
 [912] <list> Rigpa's field: expanse,
@@ -231,18 +231,18 @@
 [915] <list> Light's field: self-appearance,
 [916] <list> Sambhogakāya's field: cluster.
 [917] <prose> Five essences:
-[918] <list> Rigpa's essence: primordial purity,
-[919] <list> Wisdom's essence: spontaneous accomplishment,
-[920] <list> Light's essence: five aspects,
-[921] <list> Wisdom's essence: realization,
+[918] <break> <list> Rigpa's essence: primordial purity,
+[919] <break> <list> Wisdom's essence: spontaneous accomplishment,
+[920] <break> <list> Light's essence: five aspects,
+[921] <break> <list> Wisdom's essence: realization,
 [922] <list> Lamp's essence: empty-clarity.
 [923] <prose> Thus in five aspects appearing, some are Sambhogakāya's essence,
 [924] <prose> Some are the field, || 240 ||
 [925] <prose> Some are the method,
 [926] <prose> Some are the appearance,
 [927] <prose> Some are wisdom itself—thus Sambhogakāya is explained as one unified essence.
-[928] <prose> Second, the etymology:
-[929] <prose> Complete with qualities,
+[928] <break> <prose> Second, the etymology:
+[929] <break> <prose> Complete with qualities,
 [930] <prose> Engaging in pure light-clarity,
 [931] <prose> Both benefits spontaneously complete,
 [932] <prose> Wisdom arrived at its full measure,
@@ -330,7 +330,7 @@
 [1014] <prose>  || 330 ||
 [1015] <prose> 
 [1016] <prose> 
-[1017] <prose> 
-[1018] <prose> 
+[1017] <break> <prose> 
+[1018] <break> <prose> 
 [1019] <prose> 
 [1020] <prose> 
