@@ -1,68 +1,31 @@
 [12003-12010] <structure>
-# First: The Nature of Bardo
-**Architectural Context:** This passage introduces the bardo (བར་དོ་) topic with systematic classification and analysis. The structure follows the standard Tibetan scholastic exposition format: establishing the nature (ངོ་བོ་ ngo bo), etymology (ངེས་ཚིག་ nges tshig), divisions (དབྱེ་བ་ bye ba), appearance mode (སྣང་ལུགས་ snang lugs), and boundary/limit (ས་མཚམས་ sa mtshams).
+## Bardo: The Intermediate State
 
-**General to Specific:** The passage first establishes the general definition of bardo as the state where external phenomena appear to internal mind (lines 12003-12004), then presents the two-fold typology: pure dharmatā bardo (line 12006) vs. impure delusion bardo (line 12007).
+**Core Definition:** Bardo is the state where external phenomena appear to internal mind—the intermediate state between death and rebirth.
 
-**Section Transition:** The text marks major transition with section colophon at 11991-11993, then begins the SECOND MAJOR TOPIC: bardo detailed exposition for intermediate practitioners (འབུད་པ་ rnams "intermediate practitioners").
+**Twofold Typology:**
+1. **Pure Dharmatā Bardo:** Appearance as empty essence and wisdom—self-radiance of ground-appearance
+2. **Impure Delusion Bardo:** Appearance of six realms as confused—ordinary samsaric experience
 
-**Fourfold Bardo Typology:** This passage introduces the classic fourfold bardo classification:
-1. བར་དོ་སྤྱི་ (bardo spyi): natural existence bardo
-2. འཆི་ཁའི་བར་དོ་ ('chi kha'i bardo): death-moment bardo
-3. ཆོས་ཉིད་བར་དོ་ (chos nyid bardo): dharmatā bardo
-4. སྤྱོད་ཡུལ་བར་དོ་ (spyod yul bardo): existence bardo
+**Key Question:** Between pure and impure dharmas, where does bardo exist? Answer: In the interval of primordial purity—from space of primordial purity, dissolves back into primordial purity.
 
 [12003-12010] <philology>
-**Key Terminology:**
-- བར་དོ་ (bardo): "intermediate state"—the state between death and rebirth
-- ངོ་བོ་ (ngo bo): "nature, essence"—the intrinsic nature
-- ཕྱི་ཡུལ་ (phyi yul): "external object"—the objective world
-- ནང་གི་བློ་ (nang gi blo): "internal mind"—the subjective consciousness
-- སྣང་བ་ (snang ba): "appearance"—the appearing of phenomena
-- ཀ་དག་ (ka dag): "primordially pure"—original purity
-- འཁྲུལ་སྣང་ ('khrul snang): "deluded appearance"—confused appearance
-- ཆོས་ཉིད་ (chos nyid): "dharmatā"—the nature of phenomena
+**Terms:**
+- bardo (bar do): intermediate state
+- ka dag: primordial purity
+- lhun grub: spontaneous presence
+- chos nyid: dharmatā
+- snang ba: appearance
+- 'khrul snang: deluded appearance
+- gzhi snang: ground appearance
 
-**Sentence Analysis:**
-- Line 12003-12004: General definition—bardo is the state/occasion where external phenomena appear to internal mind
-- Line 12005: Explanation from primordial purity—all appearances are bardo states
-- Line 12006: Pure dharmatā bardo—appearance as empty essence and wisdom
-- Line 12007: Impure delusion bardo—appearance of the six realms as confused
-- Line 12008-12009: Location of both—where they exist and the path of return
+**Fourfold Classification:**
+1. Natural existence bardo
+2. Death-moment bardo  
+3. Dharmatā bardo
+4. Existence bardo
 
-**Technical Terms:**
-- གཞི་སྣང་ (gzhi snang): "ground appearance"—appearance arising from the ground
-- སྐུ་ (sku): "body"—form body
-- ཡེ་ཤེས་ (ye shes): "wisdom"—pristine awareness
-- གཉིས་ (gnyis): "two"—the pair of pure and impure
+[12003-12010] <context>
+**Doxographical Context:** This presents the Nyingma four bardo classification from the Karling Zhitro terma cycle. The passage establishes that both pure and impure bardos exist within primordial purity—impure can return to purity through recognition.
 
-[12003-12003] <context>
-**Doxographical Placement:** This passage belongs to Chapter 22 (རིམ་ཁང་ཉི་ཤུ་རྩ་གཉིས་པ་ rims khang nyi shu rtsa gnyis pa), indicating this text's place within the larger Treasury structure. The chapter addresses the bardo (intermediate state) for practitioners of intermediate capacity (འབུད་པ་ rnams).
-
-**Pedagogical Structure:** The transition to bardo exposition for "intermediate practitioners" (འབུད་པ་ rnams) reflects the three-level pedagogical structure common to Tibetan graded path (ལམ་རིམ་ lam rim) literature:
-1. མཐོ་རིམ་ (mtsho rim): superior practitioners
-2. འབུད་པ་ (bring pa): intermediate practitioners  
-3. ཐ་རིམ་ (tha rim): inferior practitioners
-
-**Nyingma Perspective:** The four bardo classification derives from the �kar gling zhi khro (Karling Zhitro) and related གཏེར་ (terma) cycles, representing specifically རྙིང་མ་ (Nyingma) tantric perspective distinct from common vehicle (ཐུབ་པ་ thun mong) classifications.
-
-**Textual Source:** The colophon references དུས་གསུམ་རྟགས་ཀྱི་རྣམ་གྲངས་ (determining the classification of the three times' signs), establishing the textual lineage.
-
-[12003-12003] <concept>
-**Ontological Foundation:** Bardo is defined as "the state/condition where external phenomena appear to internal mind" (ཕྱི་ཡུལ་གྱི་ཆོས་ནང་གི་བློ་ལ་སྣང་བའི་གནས་སྐབས་). This establishes the དྲང་པོ་ (Yogācāra) epistemological basis—bardo is fundamentally a mode of cognition, not an external location.
-
-**Two-Fold Typology:** The fundamental distinction is between:
-1. **Pure Dharmatā Bardo (དག་པ་ཆོས་ཉིད་བར་དོ་):** Appearance as empty essence (ངོ་བོ་) and wisdom (ཡེ་ཤེས་)—the ground's self-manifestation as luminosity
-2. **Impure Delusion Bardo (འཁྲུལ་པའི་བར་དོ་):** Appearance of the six realms (འཁོར་དྲུག་) as confused—ordinary samsaric experience
-
-**rDzogs chen Distinction:** This reflects the fundamental རྫོགས་ཆེན་ distinction between:
-- ཁ་དག་ (ka dag): "original purity"—the ground's essence
-- ལྷུན་གྱིས་གྲུབ་པ་ (lhun gyis grub pa): "spontaneous presence"—the ground's manifestation
-
-These are modes of recognition vs. delusion—the same appearances can be recognized as wisdom or experienced as confusion.
-
-**Path Implication:** The passage establishes that both pure and impure bardos exist "within the space of primordial purity" (ཀ་དག་གི་དབྱིངས་), and that the impure can be "returned to purity" (ཀ་དག་ཏུ་ནུབ་) through recognition practice.
-
----
-END OF PAGE 276
-
+The question "between which does it exist?" points to the key insight: bardo is not a place but a mode of appearance—same appearances can be recognized as wisdom (dharmatā) or experienced as confusion (samsara).
