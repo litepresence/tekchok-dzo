@@ -161,6 +161,29 @@ A file achieves A++ status when it demonstrates:
   - ✅ 01-14-08-01.txt (scholar[19441] now matches tibetan[19441])
   - ✅ 01-14-12-01.txt (scholar[20212] now matches tibetan[20212]) - Overshoot FIXED  
 
+## 2026-02-14 QC RUN UPDATE - Volume 1 Status
+
+### Verified Correctly Aligned (No Action Needed):
+- 01-05-04-06.txt - ✅ Verified: starts at line 6424 (matches Tibetan)
+- 01-06-04-01.txt - ✅ Verified: starts at line 8138 (matches Tibetan)
+- 01-07-01-01.txt - ✅ Verified: starts at line 9704 (matches Tibetan)
+
+### Files Requiring Minor Adjustment:
+- 01-08-01-01.txt - scholar[10471] vs tibetan[10472] (-1 line)
+
+### Critical Fixes Completed:
+- **02-17-04-01.txt** - COMPLETE REWRITE - Now covers Tibetan lines 2064-2688 (previously incorrectly started at line 2506, 442-line gap)
+- **02-16-05-01.txt** - FIXED - Now covers Tibetan lines 1638-1737 (added 27 lines of missing content)
+
+### Qualitative Assessment:
+All reviewed scholar files demonstrate excellent Four Pillars framework application:
+- Structure tags properly applied with section analysis
+- Philology tags include particle analysis and Wylie terminology
+- Context tags provide doxographical placement and citations
+- Concept tags unpack philosophical content
+
+The primary issue was LINE RANGE ALIGNMENT, not content quality. Content quality is A++ across sampled files.
+
 ---
 
 ## VOLUME 2 STATUS - INITIAL SCAN COMPLETE
@@ -193,11 +216,11 @@ A file achieves A++ status when it demonstrates:
   - 02-18-02-03.txt - scholar[4401] vs tibetan[4406] (+5)
   
 - 🟡 **Moderate (2 files):**
-  - 02-16-05-01.txt - scholar[1665] vs tibetan[1638] (-27)
+  - 02-16-05-01.txt - ✅ FIXED: scholar now starts at line 1638 (previously 1665, +27)
   - 02-18-16-04.txt - scholar[5911] vs tibetan[5928] (+17)
   
 - 🔴 **Major (1 file):**
-  - 02-17-04-01.txt - scholar[2506] vs tibetan[2064] (-442 lines - significant gap)  
+  - 02-17-04-01.txt - ✅ FIXED: complete rewrite covering lines 2064-2688 (previously 2506+, -442 gap)  
 
 ---
 
@@ -282,5 +305,44 @@ A file achieves A++ status when it demonstrates:
 - 2026-02-14: Initial report creation
 
 ---
+
+## FINAL QC SUMMARY - 2026-02-14
+
+### Summary of Work Completed:
+
+**Critical Fixes Made:**
+1. **02-17-04-01.txt** - COMPLETE REWRITE (442-line gap)
+   - Was: Incorrectly started at line 2506, analyzing wrong content
+   - Now: Correctly covers Tibetan lines 2064-2688
+   - Content: Three Meditative Experiences (nyams gsum)
+   
+2. **02-16-05-01.txt** - FIXED (27-line gap)
+   - Was: Started at line 1665, missing content 1638-1664
+   - Now: Correctly starts at line 1638
+   - Content: Four Appearances (snang ba bzhi)
+
+### Qualitative Assessment Results:
+
+**A++ Quality Confirmed** - All sampled files demonstrate:
+- ✅ Comprehensive Four Pillars framework application
+- ✅ Structure tags with section analysis and placement logic
+- ✅ Philology tags with particle analysis and Wylie terminology
+- ✅ Context tags with doxographical placement and citations
+- ✅ Concept tags with philosophical unpacking
+- ✅ Third-person scholarly voice
+- ✅ No practice advice (correct scholarly tone)
+
+### Volume 1 Status:
+- Most files verified A++ complete
+- Line ranges match Tibetan source
+- Content quality excellent
+
+### Volume 2 Status:
+- Critical fix completed: 02-17-04-01.txt
+- Moderate fix completed: 02-16-05-01.txt
+- Minor mismatches remain (see list above)
+
+### Conclusion:
+The Scholar layer files are at **A++ Exemplar quality** for content. The Four Pillars framework is consistently applied with proper structure, philology, context, and concept tags. The main remaining issues are minor line range adjustments.
 
 **Copyleft 2026:** Amid all this apparent happening, nothing has happened.
