@@ -93,6 +93,28 @@ Terms like "Samantabhadra," "vidya," "dharmakaya," *rigpa* must carry weight. Th
 ### 6. Handling Parataxis
 Longchenpa chains clauses with particles (*ste, yang, na*). Mirror using elevated connectives: "and thus," "furthermore," "moreover," "in that manner." Let prose accumulate like waves on ocean of awareness.
 
+### 7. Hyphenation (Khenpo Guidance)
+**The Test:** Read it aloud. Does it sound like Dharma being spoken or like grammar being analyzed?
+
+**ALWAYS Hyphenate** (Conceptual Units - see hyphenation.md):
+- Technical Dzogchen compounds: **self-nature**, **primordial-purity**, **spontaneous-presence**
+- Body/kaya compounds: **three-kaya**, **dharma-body**, **enjoyment-body**
+- Essence/nature compounds: **own-entity**, **essential-nature**
+- Self- compounds: **self-arisen**, **self-clear**, **self-luminous**
+
+**NEVER Hyphenate** (Distinct Concepts):
+- Particle relationships: "power **of** wisdom" (NOT power-of-wisdom)
+- Verbal phrases: "from the beginning," "through the power of"
+- Standalone terms: awareness, mind, wisdom, compassion, emptiness, clarity
+
+**The Khenpo Says:**
+- "Self-nature" is one concept → hyphenate
+- "Power of wisdom" is two concepts in relationship → do NOT hyphenate
+- "Primordial-purity" is a technical term → hyphenate  
+- "From the source" is a phrase → do NOT hyphenate
+
+**When in doubt:** Consult hyphenation.md. The hyphen represents inseparability in Tibetan grammar—use it to show concepts that function as a single unit, not to replace English grammar.
+
 ---
 
 ## TERMINOLOGY & CAPITALIZATION
