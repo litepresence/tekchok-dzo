@@ -9,7 +9,7 @@ There are 213 Sections in every layer.  Work one section at a time.  Where appro
 Familiarize yourself with the project here: 
 
 `/home/opencode/MDZOD/1/protocol/navigation.md`  // folder/file structure of the project
-`/home/opencode/MDZOD/1/protocol/contents.md`  // table of contents of the text we're working on
+`/home/opencode/MDZOD/1/contents/contents.md`  // table of contents of the text we're working on
 
 
 2. File Format
