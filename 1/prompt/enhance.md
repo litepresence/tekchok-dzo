@@ -194,19 +194,11 @@ Producing exemplar content.
 
 9. Quality Control Reporting
 
-Update the QC report located at 
+If one already exists, **DELETE** the existing QC report for your respective layer
 
 `/home/opencode/MDZOD/1/quality/<LAYER>_QUALITATIVE_QC.md.`
 
-If the file does not exist make one using the `quality/Template.md` 
-
-Create a line item for each file reviewed or updated, eg.:
-
-## COMPLETION STATUS
-
-| Volume | Chapter | File | Status | Assessed | Notes |
-|--------|---------|------|--------|----------|-------|
-| 01 | 01 | 01-01-01-01.txt | ✅ A++ COMPLETE | 2026-02-14 | Exemplar quality.  No remaining enhancement required! |
+Make a new one using the `quality/Template.md` 
 
 10. Iterate Through Files
 
@@ -219,7 +211,15 @@ Don't be concerned about time constraints.  Your clock isn't working correctly; 
 
 12.  Report
 
-Fill out the **COMPLETE** QUALITATIVE QC form when you're done! (Do not simply do quant statistical analysis!!!)
+Fill out the **COMPLETE** QUALITATIVE_QC.md form when you're done! (Do not simply do quant statistical analysis!!!)
+
+Create a line item for each file reviewed or updated, eg.:
+
+## COMPLETION STATUS
+
+| Volume | Chapter | File | Status | Assessed | Notes |
+|--------|---------|------|--------|----------|-------|
+| 01 | 01 | 01-01-01-01.txt | ✅ A++ COMPLETE | 2026-02-14 | Exemplar quality.  No remaining enhancement required! |
 
 13.  Note:
 
