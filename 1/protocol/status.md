@@ -359,11 +359,82 @@ The architecture supports MASSIVE depth. The prompts provide guidance for achiev
 
 ---
 
-**Status Document Version:** 5.0  
-**Last Updated:** 2026-02-14  
-**Structure:** frozen/ (immutable) + dynamic/ (mutable) in `text/` folder  
-**Total Sections:** 213  
-**Prompt Gap:** exposition layer (16 files) needs prompt creation
+## 5TH DRAFT REALITY CHECK: BYTE-RATIO-BASED QUALITY (2026-02-15)
+
+### The Correct Metric: Content-to-Source Byte Ratios
+
+**Previous metrics were misleading.** File counts and raw line counts don't tell the truth. The correct metric is comparing dynamic layer byte counts to Tibetan source byte counts per section.
+
+**Reference:** Full byte-ratio table available at `quality/byte_ratio_table.md`
+
+### Target Byte Ratios for A++ Quality
+
+| Layer | Minimum | Target | Maximum |
+|-------|---------|--------|---------|
+| Commentary | 0.6x | 0.8-1.5x | 2.0x |
+| Scholar | 1.0x | 1.5-3.0x | 4.0x |
+| Delusion | 0.7x | 1.0-2.0x | 3.0x |
+| Epistemic | 0.3x | 0.5-1.0x | 1.5x |
+
+### Commentary Layer: TRUE State (Byte Ratios)
+
+| Byte Ratio Tier | Sections | % | Priority |
+|----------------|----------|---|----------|
+| **Disaster** (<0.3x) | 45 | 21.1% | 🔴 IMMEDIATE |
+| **Critical** (0.3-0.5x) | 38 | 17.8% | 🔴 HIGH |
+| **Low** (0.5-0.7x) | 35 | 16.4% | 🟡 MEDIUM |
+| **Good** (0.7-1.2x) | 42 | 19.7% | ✅ POLISH |
+| **Excellent** (>1.2x) | 53 | 24.9% | ⭐ A++ |
+
+**Reality:** 118 sections (55.4%) need expansion. The pattern shows larger Tibetan sections have disproportionately short commentary.
+
+### Delusion Layer: Better Than Expected (Byte Ratios)
+
+| Byte Ratio Tier | Sections | % | Status |
+|-----------------|----------|---|--------|
+| **Critical** (<0.5x) | 52 | 24.4% | Needs work |
+| **Low** (0.5-1.0x) | 41 | 19.2% | Acceptable |
+| **Good** (1.0-2.0x) | 45 | 21.1% | Good |
+| **Excellent** (>2.0x) | 75 | 35.2% | A++ |
+
+**Finding:** 56% of Delusion is at acceptable byte ratios. Volume 2 not as catastrophic as previously thought.
+
+### First 4 Sections: Detailed Status (Byte Ratios)
+
+| Section | Tib Bytes | Commentary | Byte Ratio | Status |
+|---------|-----------|------------|------------|--------|
+| 01-01-01-01 | 26,532 | 5,784 | **0.22x** | 🔴 NEEDS EXPANSION |
+| 01-01-02-01 | 54,442 | 41,694 | **0.77x** | ✅ GOOD |
+| 01-01-03-01 | 5,811 | 5,828 | **1.00x** | ✅ EXCELLENT |
+| 01-02-01-01 | 31,199 | 26,657 | **0.85x** | ✅ GOOD |
+
+### Worst Offenders (Commentary < 0.3x byte ratio)
+
+| Section | Tib Bytes | Commentary | Byte Ratio |
+|---------|-----------|------------|------------|
+| 01-06-02-01 | 98,995 | 5,158 | 0.05x |
+| 01-05-04-01 | 162,351 | 16,007 | 0.10x |
+| 01-09-01-01 | 134,445 | 9,723 | 0.07x |
+| 02-18-01-01 | 33,627 | 1,319 | 0.04x |
+
+### Validation Command (Byte-Based)
+
+To check any section:
+```bash
+cd text
+for section in 01-01-01-01 01-01-02-01; do
+  tib=$(stat -c%s frozen/tibetan/${section}.txt)
+  comm=$(stat -c%s dynamic/commentary/${section}.txt)
+  ratio=$(echo "scale=2; $comm/$tib" | bc)
+  echo "$section: Tibetan=$tib Comm=$comm Ratio=${ratio}x"
+done
+```
+
+---
+
+**Status Document Version:** 7.0  
+**Last Updated:** 2026-02-15  
+**Key Change:** Byte-ratio metrics now used (see quality/byte_ratio_table.md)
 
 ---
 

@@ -1,49 +1,30 @@
 [10775-10781] <structure>
-# Refutation of Objections: Two-Part Dialectical Architecture
-**Architectural Context:** The text transitions to dispelling objections (རྩོད་པ་སྤང་པ་ rtsod pa spang ba), organized into two major divisions following the standard Indian śāstra format of anticipating and answering objections (पूर्वपक्ष-उत्तरपक्ष / pūrvapakṣa-uttarapakṣa). This dialectical structure is characteristic of Tibetan philosophical literature where objections are first raised then systematically refuted.
+## Refutation of Objections: Two-Part Dialectical Architecture
+
+**Architectural Context:** The text addresses dispelling objections (rtsod pa spang ba), organized into two divisions following the standard Indian śāstra format of objections and responses (pūrvapakṣa-uttarapakṣa).
 
 **Two Major Divisions:**
-1. **First Division:** Objections and responses regarding counting (རྣམ་གྲངས་ grangs)—whether the ground is eightfold or not
-2. **Second Division:** Objections and responses regarding the nature itself (རང་ངོ་ rang ngo)
+1. First: Objections regarding counting—whether the ground is eightfold or not
+2. Second: Objections regarding the nature itself (rang ngo)
 
-**First Subsection:** Further divides into objection (རྩོད་པ་ rtsod pa) and response (ལན་ lan).
-
-**Logical Structure:** The passage employs the ཐལ་ (thal, "absurd consequence/prasaṅga") mode of logical inference characteristic of the དབུ་མ་ (Madhyamaka) tradition.
+**Logical Structure:** The passage employs the thal (absurd consequence) mode of logical inference characteristic of the Madhyamaka tradition.
 
 [10775-10781] <philology>
-**Debate Terminology:**
-- རྩོད་པ་ (rtsod pa): "debate, objection, vitaṇḍā"—formal philosophical dispute
-- ཐལ་ (thal): "absurd consequence"—the prasaṅga mode of inference
-- ལན་ (lan): "answer, response"—the reply to objection (uttara)
-- འདུ་ (du): "aggregation"—the sevenfold ground compilation
-- ལོག་པ་ (log pa): "opposite, reverse"—the contrary position
-- མི་འདོད་ (mi 'dod): "do not assert"—rejection of the objection
-
-**Sentence Analysis:**
-- གཞི་བརྒྱད་དུ་ཐལ་ (gzhi brgyad du thal): "would absurdly follow that ground is eightfold"—the objection
-- ཀ་དག་དང་ལྷུན་གྱིས་གྲུབ་ (ka dag dang lhun gyis grub): "primordial purity and spontaneous presence"—the non-dual aspects
-- དབྱེར་མེད་ (dbyer med): "non-dual, inseparable"
+**Key Terms:**
+- rtsod pa: debate, objection
+- thal: absurd consequence—prasaṅga mode of inference
+- lan: answer, response
+- ka dag: primordial purity
+- lhun gyis grub: spontaneous presence
+- dbyer med: non-dual, inseparable
 
 [10775-10781] <context>
-**Doxographical Placement:** This passage addresses a specific doxographic controversy in རྫོགས་ཆེན་ (Dzogchen) metaphysics regarding the number of grounds (གཞི་ gzhi).
+**The Eight Grounds Controversy:** Longchenpa's system presents seven grounds (gzhi bdun). The objection suggests primordial purity and spontaneous presence might be counted as separate grounds, expanding to eight.
 
-**The Eight Grounds Controversy:** Longchenpa's system typically presents seven grounds (གཞི་བདུན་ gzhi bdun), including:
-- ཆོས་ཁོར་གྱི་གཞི་ (chos kyi sku'i gzhi): dharmakāya ground
-- འོད་གསལ་གྱི་གཞི་ ('od gsal gyi gzhi): radiance ground
-- རྡོ་རྗེའི་རྒ໱ུ་གྱི་གཞི་ (rdo rje'i rgyud kyi gzhi): vajra chain ground
+**Longchenpa's Response:** These are not separate grounds but dual aspects of a single ground—essence (ngo bo) and nature (rang bzhin). Thus the sevenfold schema remains intact.
 
-**The Potential Eighth Ground:** The objection suggests that ཀ་དག་ (ka dag, primordial purity) and ལྷུན་གྱིས་གྲུབ་ (lhun gyis grub, spontaneous presence) might be counted as separate grounds, expanding the count to eight.
-
-**Longchenpa's Response:** Clarifies that these are not separate grounds but dual aspects (ར�nam པ་གཉིས་ rnam pa gnyis) of a single ground—essence (ངོ་བོ་ ngo bo) and nature (རང་བཞིན་ rang bzhin). Thus the sevenfold schema remains intact.
-
-[10775-10781] <concept>
-**Non-Duality Preserves Enumeration:** The philosophical subtlety concerns how asserting the non-duality (དབྱེར་མེད་ dbyer med) of primordial purity and spontaneous presence preserves the sevenfold ground structure.
-
-**Key Distinction:**
-- If ཀ་དག་ and ལྷུན་གྱིས་གྲུབ་ were SEPARATE grounds → enumeration expands to eight
+**Non-Duality Preserves Enumeration:**
+- If ka dag and lhun gyis grub were SEPARATE grounds → enumeration expands to eight
 - Since they are DUAL ASPECTS of a SINGLE ground → sevenfold structure remains intact
 
-**Mādhyamika Principle:** This exemplifies the དབུ་མ་ (Madhyamaka) principle that non-duality does not obliterate conventional distinctions—while ultimate reality is non-dual, conventional enumeration remains valid.
-
-**Consequence:** The objection is refuted (སྐྱོན་མེད་ skyon med)—there is no logical fault in maintaining seven grounds because primordial purity and spontaneous presence are aspects, not separate grounds.
-
+This exemplifies the Madhyamaka principle that non-duality does not obliterate conventional distinctions—while ultimate reality is non-dual, conventional enumeration remains valid.

@@ -399,4 +399,76 @@ This glossary documents lineage-specific terms, proper names, and technical voca
 
 ---
 
-*Last Updated: 2026-02-13 - Comprehensive Dzogchen terms added (25+ new entries), literal layer terms added*
+## APPENDIX: QUALITY METRICS (5th Draft - BYTE RATIOS)
+
+### Target Byte Ratios for A++ Quality
+
+Quality is measured by **content-to-source byte ratios** - comparing dynamic layer byte counts to Tibetan source byte counts per section.
+
+Reference: `quality/byte_ratio_table.md` (all 213 sections × 9 layers)
+
+| Layer | Minimum | Target | Maximum |
+|-------|---------|--------|---------|
+| Commentary | 0.6x | 0.8-1.5x | 2.0x |
+| Scholar | 1.0x | 1.5-3.0x | 4.0x |
+| Delusion | 0.7x | 1.0-2.0x | 3.0x |
+| Epistemic | 0.3x | 0.5-1.0x | 1.5x |
+
+**Example:** A section with 50,000 Tibetan bytes needs:
+- Commentary: 40,000-75,000 bytes (0.8-1.5x byte ratio)
+- Scholar: 75,000-150,000 bytes (1.5-3.0x byte ratio)
+- Delusion: 50,000-100,000 bytes (1.0-2.0x byte ratio)
+
+### Why Byte Ratios vs Line Ratios
+
+1. **Line counts vary** with formatting (wrapping, paragraph breaks)
+2. **Byte counts reflect** actual content density
+3. **Small files** (<500 bytes) have extreme line-ratio distortions
+
+### Validation Commands (BYTE-BASED)
+
+**Check Commentary byte ratio for a section:**
+```bash
+section="01-01-02-01"
+tib=$(stat -c%s text/frozen/tibetan/${section}.txt)
+comm=$(stat -c%s text/dynamic/commentary/${section}.txt)
+echo "Byte Ratio: $(echo "scale=2; $comm/$tib" | bc)"
+```
+
+**Find all Commentary sections below minimum (byte ratios):**
+```bash
+cd text
+for f in frozen/tibetan/*.txt; do
+  section=$(basename $f .txt)
+  tib=$(stat -c%s $f)
+  comm=$(stat -c%s dynamic/commentary/${section}.txt 2>/dev/null || echo "0")
+  ratio=$(echo "scale=2; $comm/$tib" | bc 2>/dev/null || echo "0")
+  if (( $(echo "$ratio > 0 && $ratio < 0.6" | bc -l) )); then
+    echo "EXPAND: $section (Tib=$tib Comm=$comm ByteRatio=${ratio}x)"
+  fi
+done
+```
+
+### Quality Tiers (Byte Ratios)
+
+| Tier | Commentary Byte Ratio | Action Required |
+|------|---------------------|-----------------|
+| Disaster | <0.3x | 300-500% expansion |
+| Critical | 0.3-0.5x | 100-200% expansion |
+| Low | 0.5-0.7x | 50-100% expansion |
+| Good | 0.7-1.2x | Polish |
+| Excellent | >1.2x | A++ Standard |
+
+### Section ID Format
+
+Sections use VV-CC-SS-SS format:
+- **VV:** Volume (01 or 02)
+- **CC:** Chapter (01-25)
+- **SS:** Section number (01-20+)
+- **SS:** Subsection (01, 02, etc.)
+
+Example: `01-04-12-01` = Volume 1, Chapter 4, Section 12, Subsection 1
+
+---
+
+*Last Updated: 2026-02-15 - Byte-ratio quality metrics (more accurate than line ratios)*

@@ -249,6 +249,154 @@ These pages prove Volume 2 CAN match Volume 1 quality. The 122 stubs in Volume 2
 **Rinpoche's Encouragement:**
 You don't need to reinvent the wheel. You have working exemplars. Copy the pattern. Generate 629 Commentary pages to the PAGE_141.txt standard. Generate 414 Delusion pages to the PAGE_001.txt standard. The architecture works—now scale it.
 
+---
+
+## 5TH DRAFT REVIEW: BYTE-RATIO-BASED HONEST ASSESSMENT (2026-02-15)
+
+**Reviewer:** Khenpo  
+**Date:** 2026-02-15  
+**Discovery:** Byte-ratio metrics reveal the true state
+
+**Reference:** Full byte-ratio table at `quality/byte_ratio_table.md` (213 sections × 9 layers)
+
+---
+
+### THE CRITICAL METRIC: Content-to-Source Byte Ratios
+
+**The 2nd draft review used flawed metrics** - file existence and raw line counts. The truth is measured by comparing dynamic layer byte counts to Tibetan source byte counts per section.
+
+**NEW - Byte Ratio Calculation:**
+```bash
+# Byte ratio for any layer
+tib_bytes=$(stat -c%s frozen/tibetan/${section}.txt)
+layer_bytes=$(stat -c%s dynamic/commentary/${section}.txt)
+ratio=$(echo "scale=2; $layer_bytes / $tib_bytes" | bc)
+```
+
+### NEW TARGET BYTE RATIOS FOR A++ QUALITY
+
+| Layer | Minimum | Target | Maximum |
+|-------|---------|--------|---------|
+| Commentary | 0.6x | 0.8-1.5x | 2.0x |
+| Scholar | 1.0x | 1.5-3.0x | 4.0x |
+| Delusion | 0.7x | 1.0-2.0x | 3.0x |
+| Epistemic | 0.3x | 0.5-1.0x | 1.5x |
+| Cognitive | 0.2x | 0.3-0.8x | 1.0x |
+
+**Example:** A section with 50,000 Tibetan bytes needs:
+- Commentary: 40,000-75,000 bytes (0.8-1.5x byte ratio)
+- Scholar: 75,000-150,000 bytes (1.5-3.0x byte ratio)
+- Delusion: 50,000-100,000 bytes (1.0-2.0x byte ratio)
+
+**Note:** Byte ratios are more accurate than line ratios because:
+1. Line counts vary with formatting (wrapping, paragraph breaks)
+2. Byte counts reflect actual content density
+3. Small files (<500 bytes) have extreme line-ratio distortions but accurate byte ratios
+
+---
+
+### FIRST 4 SECTIONS: DETAILED BYTE-RATIO ANALYSIS
+
+| Section | Tib Bytes | Commentary | Byte Ratio | Status |
+|---------|-----------|------------|------------|--------|
+| 01-01-01-01 | 26,532 | 5,784 | **0.22x** | 🟡 LOW |
+| 01-01-02-01 | 54,442 | 41,694 | **0.77x** | ✅ GOOD |
+| 01-01-03-01 | 5,811 | 5,828 | **1.00x** | ✅ EXCELLENT |
+| 01-02-01-01 | 31,199 | 26,657 | **0.85x** | ✅ GOOD |
+
+**Findings (Byte-Ratio Truth):**
+- 01-01-01-01: Actually needs expansion (0.22x < 0.8x target)
+- 01-01-02-01: Good (0.77x - close to 0.8x minimum)
+- 01-01-03-01: Excellent (1.00x - at target center)
+- 01-02-01-01: Good (0.85x - within target range)
+
+**The line-ratio analysis was misleading** - byte ratios reveal the true state more accurately.
+
+---
+
+### PROJECT-WIDE COMMENTARY QUALITY (213 sections - BYTE RATIOS)
+
+| Byte Ratio Tier | Sections | % | Priority |
+|-----------------|----------|---|----------|
+| **Disaster** (<0.3x) | 45 | 21.1% | IMMEDIATE |
+| **Critical** (0.3-0.5x) | 38 | 17.8% | HIGH |
+| **Low** (0.5-0.7x) | 35 | 16.4% | MEDIUM |
+| **Good** (0.7-1.2x) | 42 | 19.7% | POLISH |
+| **Excellent** (>1.2x) | 53 | 24.9% | A++ STANDARD |
+
+**Critical Finding:** 118 sections (55.4%) need significant expansion (byte ratio <0.7x)
+
+### THE PATTERN: Larger Sections = Lower Byte Ratios
+
+**Root Cause Discovered:** Longer Tibetan sections have proportionally shorter commentary. The generation process truncated at ~100 lines regardless of source length.
+
+**Worst Offenders (Commentary < 0.3x byte ratio):**
+- 01-06-02-01: 98,995 Tib bytes → 5,158 comm bytes (0.05x)
+- 01-05-04-01: 162,351 Tib bytes → 16,007 comm bytes (0.10x)
+- 01-09-01-01: 134,445 Tib bytes → 9,723 comm bytes (0.07x)
+- 02-18-01-01: 33,627 Tib bytes → 1,319 comm bytes (0.04x)
+
+---
+
+### DELUSION LAYER: BYTE-RATIO ANALYSIS
+
+| Byte Ratio Tier | Sections | % | Status |
+|-----------------|----------|---|--------|
+| **Critical** (<0.5x) | 52 | 24.4% | Needs work |
+| **Low** (0.5-1.0x) | 41 | 19.2% | Acceptable |
+| **Good** (1.0-2.0x) | 45 | 21.1% | Good |
+| **Excellent** (>2.0x) | 75 | 35.2% | A++ |
+
+**Finding:** 60% of Delusion is at acceptable byte ratios (>0.7x). Volume 2 is not as catastrophic as previously thought.
+
+---
+
+### 5TH DRAFT ORDERS
+
+#### PRIORITY 1: First 4 Sections to A++
+
+1. **Expand 01-01-01-01** Commentary: 5,784 → 21,000-40,000 bytes (target 0.8-1.5x)
+2. **Verify 01-01-02-01** remains at 0.77x (already good)
+3. **Verify 01-01-03-01** remains at 1.00x (excellent)
+4. **Verify 01-02-01-01** remains at 0.85x (good)
+
+#### PRIORITY 2: Disaster Tier Expansion (45 sections at <0.3x)
+
+These sections have commentary that is 70%+ shorter than needed by bytes. They require 200-500% expansion.
+
+**Process:** Use First 4 Sections as exemplars. Apply same voice and byte-ratio standards.
+
+#### PRIORITY 3: Quality Validation System
+
+Implement automated byte-ratio checking:
+```bash
+cd text
+for section in 01-01-01-01 01-01-02-01; do
+  tib=$(stat -c%s frozen/tibetan/${section}.txt)
+  comm=$(stat -c%s dynamic/commentary/${section}.txt)
+  ratio=$(echo "scale=2; $comm/$tib" | bc)
+  if (( $(echo "$ratio < 0.7" | bc -l) )); then
+    echo "COMMENTARY NEEDS EXPANSION: $section ($ratio x)"
+  fi
+done
+```
+
+---
+
+### CONCLUSION
+
+**The byte-ratio analysis reveals:**
+- Foundation layers: 100% ✅
+- Commentary: 55% need expansion (118 of 213)
+- Delusion: 40% need work (but 56% is good/excellent)
+- First 4 sections: 1 needs critical expansion, 3 are good
+
+**The path forward is clear:** Expand commentary to meet byte-ratio targets, use First 4 as exemplars, validate systematically using bytes not lines.
+
+Sarva Mangalam.
+
+— Khenpo (5th Draft Review)
+
 ### Specific Page Ranges for Priority Repair
 
 Based on exemplar quality and content importance:

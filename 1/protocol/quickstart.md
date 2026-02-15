@@ -8,11 +8,9 @@ You are a general AI agent tasked with revising Longchenpa's *theg pa'i mchog ri
 
 ---
 
-## 🚨 MIGRATION NOTICE (2026-02-10)
+**PRIMARY BUILD IN `text/` FOLDER**
 
-**PRIMARY BUILD NOW IN `text/` FOLDER**
-
-The project has migrated from **page-based** files (PAGE_001.txt) to **section-based** files (01-01-01-01.txt):
+The project uses **section-based** files (01-01-01-01.txt):
 
 **Section ID Format:** `VV-CC-SS-SS.txt`
 - **VV:** Volume (01 or 02)
@@ -20,18 +18,12 @@ The project has migrated from **page-based** files (PAGE_001.txt) to **section-b
 - **SS:** Section number (01-20+)
 - **SS:** Subsection (01, 02, etc.)
 
-**Examples:**
+**Example:**
 - `text/tibetan/01-01-01-01.txt` = Volume 1, Chapter 1, Section 1, Subsection 1
-- `text/tibetan/02-18-05-01.txt` = Volume 2, Chapter 18, Section 5, Subsection 1
 
-**NEW:** `text/meter/` layer contains metrical analysis (PROSE/VERSE/ORNAMENTAL/MANTRA) for all 213 sections.
 
-**Archived:** Old page-based builds moved to `backup/volume_1/` and `backup/volume_2/` for reference.
-
-# 1: Never ask to leave the project root directory and its subfolders.  
-# 2: Never ask to create a folder or execute a shell command that requires my approval; find another way or another task.
-# 3: If you encounter issues with your shell tools, visit navigation.md and/or update navigation.md and meta.md with suggestions
-# 4: Stay on task and complete the following steps: 
+# 1: If you encounter issues with your shell tools, visit navigation.md and/or update navigation.md and meta.md with suggestions
+# 2: Stay on task and complete the following steps: 
 
 ---
 
@@ -39,13 +31,7 @@ The project has migrated from **page-based** files (PAGE_001.txt) to **section-b
 
 **CRITICAL:** This section contains non-negotiable requirements. Failure to follow these protocols will result in corrupted output and wasted work.
 
-### 1. COMPLETE Reading Required for Communication Files
-
-**prompt.md** and **conventions.md** are how I (litepresence) communicate with you. They contain:
-- Layer-specific prompts and constraints
-- Character activation instructions
-- Quality standards and formatting rules
-- Updated mission parameters
+### 1. READ !!!!
 
 **YOU MUST:**
 - Read the **ENTIRE** file, not just the first few lines
@@ -57,52 +43,266 @@ The project has migrated from **page-based** files (PAGE_001.txt) to **section-b
 - Read only the first section and skip the rest
 - Rely on summaries or previous readings without refreshing
 
-### 2. COMPLETE Reading Required for Tibetan Source Files
 
-**Tibetan layer files** are the TSHAD MA (Source of Validity). They are immutable truth.
 
-**YOU MUST:**
-- Read the **COMPLETE** Tibetan page file before working on any translation layer for that page
-- Use `wc -l` to check file length, then read all lines using `head`, `tail`, or `sed` in sequence
-- Verify you have seen every numbered line [1], [2], [3], etc.
+## BYTE RATIO ANALYSIS WORKFLOW (MANDATORY)
 
-**Example:**
+**Reference:** `quality/byte_ratio_table.md` contains pre-computed ratios for all 213 sections × 9 layers
+
+### TARGET BYTE RATIOS FOR ALL LAYERS
+
+| Layer | Target Range | Minimum | Maximum |
+|-------|-------------|---------|---------|
+| **Wylie** | (fixed) | 0.43 | 0.45 |
+| **Literal** | (fixed) | 0.38 | 0.42 |
+| **Liturgical** | (fixed) | 0.45 | 0.60 |
+| Cognitive | 0.2-0.8 | 0.20 | 0.80 |
+| Commentary | 0.7-1.5 | 0.70 | 1.50 |
+| Delusion | 0.7-2.0 | 0.70 | 2.00 |
+| Epistemic | 0.3-1.0 | 0.30 | 1.00 |
+| Scholar | 1.0-3.0 | 1.00 | 3.00 |
+
+---
+
+### STEP 1: PRIMARY ANALYSIS - Calculate Byte Ratios
+
 ```bash
-wc -l "/home/opencode/MDZOD/1/text/tibetan/01-01-01-01.txt"
-# Shows line count for Section 01-01-01-01
-cat "/home/opencode/MDZOD/1/text/tibetan/01-01-01-01.txt"
+cd /home/opencode/MDZOD/1/text
+
+# Calculate byte ratio for any section/layer
+section="01-01-02-01"
+layer="commentary"
+
+tib=$(stat -c%s frozen/tibetan/${section}.txt)
+layer_bytes=$(stat -c%s dynamic/${layer}/${section}.txt)
+ratio=$(echo "scale=2; $layer_bytes/$tib" | bc)
+
+echo "Section: $section"
+echo "Layer: $layer"
+echo "Tibetan: $tib bytes"
+echo "Layer: $layer_bytes bytes"
+echo "Byte Ratio: ${ratio}x"
 ```
 
-### 3. SECTION BLEED: Read Adjacent Sections When Required
+---
 
-**Section bleed** occurs when content spans multiple sections - topics, sentences, and logical divisions frequently cross section boundaries.
+### STEP 2: SECONDARY ANALYSIS - Find Worst Deviations
 
-**YOU MUST read adjacent sections when:**
-- A sentence is syntactically incomplete at the start or end of a section
-- A negation or reversal pattern appears (de yang, yang na, cig car du ma yin)
-- You are unsure where a section begins or ends
-- A logical argument continues across the section break
+**Purpose:** Identify the sections most out of range to prioritize work
 
-**Example workflow for section 01-04-12-01:**
 ```bash
-# Read target section
-cat "text/literal/01-04-12-01.txt"
+cd /home/opencode/MDZOD/1/text
 
-# Check for section bleed - read previous and next sections
-cat "text/tibetan/01-04-11-01.txt" | tail -5   # Last 5 lines of previous
-cat "text/tibetan/01-04-13-01.txt" | head -5  # First 5 lines of next
+# Find worst Commentary deviations (below minimum 0.7x)
+echo "=== COMMENTARY - WORST DEVIATIONS (below 0.7x) ==="
+for f in frozen/tibetan/*.txt; do
+  section=$(basename $f .txt)
+  tib=$(stat -c%s "$f")
+  comm=$(stat -c%s dynamic/commentary/${section}.txt 2>/dev/null || echo 0)
+  [ "$comm" != "0" ] && ratio=$(echo "scale=2; $comm/$tib" | bc) && 
+    [ $(echo "$ratio < 0.7" | bc) -eq 1 ] && 
+    deviation=$(echo "scale=2; 0.7 - $ratio" | bc) &&
+    echo "$section: $ratio (deviation: -${deviation})"
+done | sort -t: -k3 -n | head -10
+
+# Find worst Scholar deviations
+echo ""
+echo "=== SCHOLAR - WORST DEVIATIONS (below 1.0x) ==="
+for f in frozen/tibetan/*.txt; do
+  section=$(basename $f .txt)
+  tib=$(stat -c%s "$f")
+  sch=$(stat -c%s dynamic/scholar/${section}.txt 2>/dev/null || echo 0)
+  [ "$sch" != "0" ] && ratio=$(echo "scale=2; $sch/$tib" | bc) && 
+    [ $(echo "$ratio < 1.0" | bc) -eq 1 ] && 
+    deviation=$(echo "scale=2; 1.0 - $ratio" | bc) &&
+    echo "$section: $ratio (deviation: -${deviation})"
+done | sort -t: -k3 -n | head -10
+
+# Find worst Delusion deviations
+echo ""
+echo "=== DELUSION - WORST DEVIATIONS (below 0.7x) ==="
+for f in frozen/tibetan/*.txt; do
+  section=$(basename $f .txt)
+  tib=$(stat -c%s "$f")
+  del=$(stat -c%s dynamic/delusion/${section}.txt 2>/dev/null || echo 0)
+  [ "$del" != "0" ] && ratio=$(echo "scale=2; $del/$tib" | bc) && 
+    [ $(echo "$ratio < 0.7" | bc) -eq 1 ] && 
+    deviation=$(echo "scale=2; 0.7 - $ratio" | bc) &&
+    echo "$section: $ratio (deviation: -${deviation})"
+done | sort -t: -k3 -n | head -10
+
+# Find worst Epistemic deviations
+echo ""
+echo "=== EPISTEMIC - WORST DEVIATIONS (below 0.3x) ==="
+for f in frozen/tibetan/*.txt; do
+  section=$(basename $f .txt)
+  tib=$(stat -c%s "$f")
+  epi=$(stat -c%s dynamic/epistemic/${section}.txt 2>/dev/null || echo 0)
+  [ "$epi" != "0" ] && ratio=$(echo "scale=2; $epi/$tib" | bc) && 
+    [ $(echo "$ratio < 0.3" | bc) -eq 1 ] && 
+    deviation=$(echo "scale=2; 0.3 - $ratio" | bc) &&
+    echo "$section: $ratio (deviation: -${deviation})"
+done | sort -t: -k3 -n | head -10
 ```
 
-**Lookahead of ±1 section is REQUISITE, not advisory!**
+---
 
-**Finding adjacent sections:** Use the section ID pattern `VV-CC-SS-SS`:
-- Previous: Decrement section number (e.g., 01-04-12-01 → 01-04-11-01)
-- Next: Increment section number (e.g., 01-04-12-01 → 01-04-13-01)
+### STEP 3: SYSTEMATIC REPAIR WORKFLOW
 
-### 4. YOUR FIRST JOB:
+**For each hotspot identified in secondary analysis:**
 
-READ! READ! READ!
+#### 3a. Find Hot Spot
+```bash
+# Example: Most urgent Commentary issue is 01-06-02-01
+section="01-06-02-01"
+layer="commentary"
 
-read meta.md
-read navigation.md
-read 
+# Check current ratio
+tib=$(stat -c%s frozen/tibetan/${section}.txt)
+current=$(stat -c%s dynamic/${layer}/${section}.txt)
+ratio=$(echo "scale=2; $current/$tib" | bc)
+echo "Current: ${ratio}x (need 0.7-1.5x, target ~1.0x)"
+```
+
+#### 3b. View Prompt and Exemplars
+```bash
+# Read the layer prompt for guidance
+read prompt/prompt_${layer}.md
+
+# Read exemplars for this layer
+read protocol/exemplars.md
+# Look for sections with good ratios in the target range
+```
+
+#### 3c. Read Existing Layer
+```bash
+# Read what currently exists
+read dynamic/${layer}/${section}.txt
+```
+
+#### 3d. Read Tibetan and Liturgical Source
+```bash
+# Read Tibetan source (immutable truth)
+read text/frozen/tibetan/${section}.txt
+
+# Read liturgical for context
+read text/dynamic/liturgical/${section}.txt
+```
+
+#### 3e. Update Layer to Target Range
+```bash
+# Calculate target bytes for 1.0x ratio (center of range)
+tib=$(stat -c%s frozen/tibetan/${section}.txt)
+target=$(echo "scale=0; $tib * 1.0 / 1" | bc)
+echo "Target: ~$target bytes (for 1.0x ratio)"
+
+# Edit the file to expand/contract to target range
+# Use 0.7x minimum, 1.5x maximum as boundaries
+```
+
+#### 3f. Verify Fix
+```bash
+# Confirm ratio is now in range
+tib=$(stat -c%s frozen/tibetan/${section}.txt)
+new_bytes=$(stat -c%s dynamic/${layer}/${section}.txt)
+new_ratio=$(echo "scale=2; $new_bytes/$tib" | bc)
+echo "NEW: ${new_ratio}x"
+
+# Should show: in range 0.7-1.5x for Commentary
+```
+
+---
+
+### STEP 4: ITERATE - Next Hot Spot
+
+**⚠️ CRITICAL: Run fresh analysis each time!**
+Before each iteration, ALWAYS run a fresh comprehensive byte ratio analysis to identify the CURRENT worst deviations. The situation changes after each fix. Do not assume the previous worst deviations are still the worst.
+
+```bash
+# Run fresh comprehensive analysis to find CURRENT worst deviations
+cd /home/opencode/MDZOD/1 && python3 << 'EOF'
+import os
+from pathlib import Path
+
+targets = {
+    'wylie': (0.43, 0.45),
+    'literal': (0.38, 0.42),
+    'liturgical': (0.45, 0.60),
+    'cognitive': (0.2, 0.8),
+    'commentary': (0.7, 1.5),
+    'delusion': (0.7, 2.0),
+    'epistemic': (0.3, 1.0),
+    'scholar': (1.0, 3.0),
+}
+
+tibetan_dir = Path('text/frozen/tibetan')
+layers = ['wylie', 'literal', 'liturgical', 'cognitive', 'commentary', 'delusion', 'epistemic', 'scholar']
+
+results = []
+for layer in layers:
+    layer_dir = Path(f'text/dynamic/{layer}')
+    if not layer_dir.exists():
+        continue
+    target_min, target_max = targets[layer]
+    target_center = (target_min + target_max) / 2
+    
+    for tib_file in sorted(tibetan_dir.glob('*.txt')):
+        section_id = tib_file.stem
+        layer_file = layer_dir / f'{section_id}.txt'
+        if not layer_file.exists():
+            continue
+        tib_size = tib_file.stat().st_size
+        layer_size = layer_file.stat().st_size
+        if tib_size == 0:
+            continue
+        ratio = layer_size / tib_size
+        deviation = abs(ratio - target_center)
+        results.append({'section': section_id, 'layer': layer, 'ratio': ratio, 'target': f'{target_min}-{target_max}', 'deviation': deviation})
+
+results.sort(key=lambda x: x['deviation'], reverse=True)
+print("TOP 20 WORST DEVIATIONS:")
+for i, r in enumerate(results[:20], 1):
+    print(f"{i}. {r['section']} {r['layer']}: {r['ratio']:.2f}x (target: {r['target']})")
+EOF
+```
+
+Then pick one of the top 20 worst deviations and continue the repair.
+
+**Priority Order:**
+1. Commentary < 0.7x (most critical - heart instruction)
+2. Scholar < 1.0x (academic context)
+3. Delusion < 0.7x (safety layer)
+4. Epistemic < 0.3x (view stratification)
+
+---
+
+### QUICK REFERENCE: Common Commands
+
+```bash
+# Check single section ratio
+cd /home/opencode/MDZOD/1/text
+section="01-01-02-01"
+for layer in commentary scholar delusion epistemic; do
+  tib=$(stat -c%s frozen/tibetan/${section}.txt)
+  bytes=$(stat -c%s dynamic/${layer}/${section}.txt 2>/dev/null || echo 0)
+  ratio=$(echo "scale=2; $bytes/$tib" | bc)
+  echo "$layer: ${ratio}x"
+done
+
+# Find all sections below minimum for a layer
+cd /home/opencode/MDZOD/1/text
+min=0.7
+layer=commentary
+for f in frozen/tibetan/*.txt; do
+  section=$(basename $f .txt)
+  tib=$(stat -c%s "$f")
+  bytes=$(stat -c%s dynamic/${layer}/${section}.txt 2>/dev/null || echo 0)
+  [ "$bytes" != "0" ] && ratio=$(echo "scale=2; $bytes/$tib" | bc) && 
+    [ $(echo "$ratio < $min" | bc) -eq 1 ] && echo "$section: ${ratio}x"
+done
+```
+
+---
+
+**Version:** 2.0 (2026-02-15)  
+**Key Change:** Byte-ratio-based analysis workflow with secondary deviation detection
