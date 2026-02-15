@@ -91,3 +91,8 @@ Don't be concerned about time constraints.  Your clock isn't working correctly; 
 12.  Report
 
 Fill out the **COMPLETE** QUALITATIVE QC form when you're done! (Do not simply do quant statistical analysis!!!)
+
+
+13. Exemplars
+
+Finally update exemplars.md when you're done if you've found any content better than existing exemplars.  
