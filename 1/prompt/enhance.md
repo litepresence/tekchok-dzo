@@ -4,7 +4,9 @@ We're translating a one of Longchenpa's Treasuries.  Your Job is to ENHANCE exis
 
 1. Scope
 
-There are 213 Sections in every layer.  Work one section at a time.  Where appropriate enhance each file.  Familiarize yourself with the project here: 
+There are 213 Sections in every layer.  Work one section at a time.  Where appropriate enhance each file.  
+
+Familiarize yourself with the project here: 
 
 `/home/opencode/MDZOD/1/protocol/navigation.md`  // folder/file structure of the project
 `/home/opencode/MDZOD/1/protocol/contents.md`  // table of contents of the text we're working on
@@ -39,12 +41,16 @@ Examine the current content against the sources located in
 `/home/opencode/MDZOD/1/text/froze/tibetan/`
 `/home/opencode/MDZOD/1/text/frozen/liturgical/`
 
-IMPORTANT: Be sure to get line counts so you don't accidently overwrite with partial knowledge of the file!
+IMPORTANT: Be sure to get line counts so you don't accidently overwrite with partial knowledge of the file resulting in DATA LOSS!
 
 7. Evaluate Quality Standards
 
 Assess each file to determine if it meets the A++ standards qualitatively.
 Focus on literacy, coherence, accuracy, and depth of understanding.
+
+Be sure to check ALL section files for EACH chapter; don't just presume because some sections are good a whole chapter is good. 
+
+Systematically verify each file's current content quality!
 
 8. Update the Files
 
@@ -55,14 +61,13 @@ Clarifying concepts.
 Incorporating contextual depth.
 Ensuring linguistic elegance.
 Following prompt standards.
-Producing Exemplar content.
+Producing exemplar content.
 
 9. Quality Control Reporting
+
 Update the QC report located at 
 
 `/home/opencode/MDZOD/1/quality/<LAYER>_LAYER_QUALITATIVE_QC.md.`
-
-note all A++ scores may be inaccurate.  you can reset them to C when you begin reviewing the first file
 
 If the file does not exist make one using the `Template_LAYER_QUALITATIVE_QC.md` 
 
@@ -72,7 +77,7 @@ Create a line item for each file reviewed or updated, eg.:
 
 | Volume | Chapter | File | Status | Assessed | Notes |
 |--------|---------|------|--------|----------|-------|
-| 01 | 01 | 01-01-01-01.txt | ✅ A++ COMPLETE | 2026-02-14 | Opening title/homage - lines 1-175 |
+| 01 | 01 | 01-01-01-01.txt | ✅ A++ COMPLETE | 2026-02-14 | Exemplar quality.  No remaining enhancement required! |
 
 10. Iterate Through Files
 
@@ -81,6 +86,8 @@ By adhering to this structured approach, you will ensure that the  files meet A+
 
 11. Time Constraints
 
-Don't be concerned about time constraints.  Your clock isn't working; things are actually moving way faster than you expect because you're running on a very high power server.   Just stick to the task at hand; the server power will make it go fast; don't cut corners!
+Don't be concerned about time constraints.  Your clock isn't working correctly; things are actually moving way faster than you expect because you're running on a very high power server.   Just stick to the task at hand; the server power will make it go fast; don't cut corners!
 
-12.  Fill out the COMPLETE QUALITATIVE QC form when you're done! (do not simply do quant statistical analysis!!!)
+12.  Report
+
+Fill out the COMPLETE QUALITATIVE QC form when you're done! (do not simply do quant statistical analysis!!!)
