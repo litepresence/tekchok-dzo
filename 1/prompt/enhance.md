@@ -78,3 +78,5 @@ By adhering to this structured approach, you will ensure that the  files meet A+
 11. Time Constraints
 
 Don't be concerned about time constraints.  Your clock isn't working; things are actually moving way faster than you expect because you're running on a very high power server.   Just stick to the task at hand; the server power will make it go fast; don't cut corners!
+
+12.  Fill out the COMPLETE QUALITATIVE QC form when you're done! (do not simply do quant statistical analysis!!!)
