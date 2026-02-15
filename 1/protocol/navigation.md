@@ -180,9 +180,11 @@ This means chapter page ranges run from the **previous chapter's end marker** to
 │   ├── prompt_delusion.md      # Delusion layer guidance
 │   ├── prompt_cognitive.md     # Cognitive layer guidance
 │   ├── prompt_meter.md        # Meter layer guidance
+│   ├── prompt_volume.md        # Volume 1 and 2 Introduction guidance
+│   ├── prompt_chapter.md       # Chapter Introduction guidance
 │   ├── prompt_introduction.md  # Introduction layer guidance
-│   ├── prompt_exposition.md   # Editorial conventions guidance
-│   ├── prompt_corpus.md       # Volume introduction guidance
+│   ├── prompt_conventions.md   # Editorial conventions guidance
+│   ├── prompt_corpus.md       # Corpus 1,2,3,4 introduction guidance
 │   └── backup/                # Previous prompt versions
 ├── protocol/                   # Agent operational protocols
 │   ├── navigation.md           #### THIS FILE #### Agent navigation guide
@@ -215,16 +217,17 @@ This means chapter page ranges run from the **previous chapter's end marker** to
 │   │   ├── meter/             # Metrical analysis (213 files)
 │   │   ├── artifacts/         # Source with PAGE markers (213 files)
 │   │   ├── raw/               # BDRC source files (2 files)
-│   │   ├── exposition/        # Editorial conventions (12 files)
-│   │   └── corpus/            # Volume introductions (4 files)
+│   │   ├── conventions/        # Editorial conventions (12 files)
+│   │   └── corpus/            # Corpus introductions (4 files)
 │   └── dynamic/                # Mutable translation layers (WORK HERE)
 │       ├── commentary/         # ngo sprod kyi bshad pa - Heart instruction (190 files)
 │       ├── scholar/            # mkhas pa'i dpyod pa - Academic analysis (213 files)
 │       ├── epistemic/          # lta ba'i rim pa - View stratification (182 files)
 │       ├── delusion/          # log pa spang ba - Error detection (213 files)
 │       ├── cognitive/         # shes pa'i rjes su brjod pa - Translator log (73 files)
-│       └── introduction/      # Chapter introductions (28 files)
-└── todo/                      # Task tracking
+│       ├── volume/         # Volume Introductions (2 files)
+│       └── chapter/      # Chapter introductions (28 files)│       
+└── quality/                      # Quality Assurance tracking
 ```
 
 ### Current File Counts (Accurate as of 2026-02-14)

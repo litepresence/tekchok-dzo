@@ -1,10 +1,14 @@
-You have been assigned to update the "epistemic" LAYER.
+You have been assigned to update the "epistemic" `<LAYER>`.
 
-Your Job is to Enhance Files
+We're translating a one of Longchenpa's Treasuries.  Your Job is to ENHANCE existing files!
 
 1. Scope
 
-There are 213 Sections in every layer.  Work one section at a time.  Where appropriate enhance each file.  
+There are 213 Sections in every layer.  Work one section at a time.  Where appropriate enhance each file.  Familiarize yourself with the project here: 
+
+`/home/opencode/MDZOD/1/protocol/navigation.md`  // folder/file structure of the project
+`/home/opencode/MDZOD/1/protocol/contents.md`  // table of contents of the text we're working on
+
 
 2. File Format
 
@@ -18,7 +22,7 @@ Refer to the prompt framework for structure and language guidance in:
 
 4. Benchmark Against Exemplars
 
-While updating files, compare them against the best <LAYER> exemplars from 
+While updating files, compare them against the best `<LAYER>` exemplars from 
 
 `/home/opencode/MDZOD/1/protocol/exemplars.md`
 
@@ -56,11 +60,11 @@ Producing Exemplar content.
 9. Quality Control Reporting
 Update the QC report located at 
 
-`/home/opencode/MDZOD/1/reports/<LAYER>_LAYER_QUALITATIVE_QC.md.`
+`/home/opencode/MDZOD/1/quality/<LAYER>_LAYER_QUALITATIVE_QC.md.`
 
 note all A++ scores may be inaccurate.  you can reset them to C when you begin reviewing the first file
 
-If the file does not exist make one. 
+If the file does not exist make one using the `Template_LAYER_QUALITATIVE_QC.md` 
 
 Create a line item for each file reviewed or updated, eg.:
 
