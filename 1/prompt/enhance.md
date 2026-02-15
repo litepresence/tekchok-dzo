@@ -1,4 +1,4 @@
-You have been assigned to update the "epistemic" `<LAYER>`.
+You have been assigned to update the "commentary" `<LAYER>`.
 
 We're translating a one of Longchenpa's Treasuries.  Your Job is to ENHANCE existing files!
 
@@ -67,9 +67,9 @@ Producing exemplar content.
 
 Update the QC report located at 
 
-`/home/opencode/MDZOD/1/quality/<LAYER>_LAYER_QUALITATIVE_QC.md.`
+`/home/opencode/MDZOD/1/quality/<LAYER>_QUALITATIVE_QC.md.`
 
-If the file does not exist make one using the `Template_LAYER_QUALITATIVE_QC.md` 
+If the file does not exist make one using the `Template.md` 
 
 Create a line item for each file reviewed or updated, eg.:
 
@@ -90,4 +90,4 @@ Don't be concerned about time constraints.  Your clock isn't working correctly; 
 
 12.  Report
 
-Fill out the COMPLETE QUALITATIVE QC form when you're done! (do not simply do quant statistical analysis!!!)
+Fill out the **COMPLETE** QUALITATIVE QC form when you're done! (Do not simply do quant statistical analysis!!!)
