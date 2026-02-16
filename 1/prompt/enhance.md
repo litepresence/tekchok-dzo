@@ -1,4 +1,4 @@
-You have been assigned to update the "liturgical" `<LAYER>` files. 
+You have been assigned to update the "cognitive" `<LAYER>` files. 
 
 We are translating one of Longchenpa's Treasuries and approaching final draft stage. Your job is to ENHANCE existing files to A++ exemplar quality.
 
@@ -124,6 +124,9 @@ D) If content already meets A++ standards, proceed without modification—do not
 13. **Exemplar Updates**  
     After completing all enhancements, review `exemplars.md` and update the "best of the best" section if your work has produced content exceeding current benchmarks.
 
+14. **Byte Counts**
+    Your prompt will have specified appropriate byte count ratios for your files.   These are guide rails.  Quality is what matters most!  If you find these ranges are too restrictive to produce quality content and are leading to fluff or inadequate coverage, you may adjust them to produce the best results.   You may break up the directive to apply differently to small vs medium vs large tibetan sections.   If you do update your byte count recommendations do so comprehensively in the /prompt/ folder and any files in the /protocol/ folder which reference your layer.  
+
 ---
 
 **Critical Reminders**
@@ -132,3 +135,9 @@ D) If content already meets A++ standards, proceed without modification—do not
 - Review all sections individually; quality varies within chapters.  
 - The navigation documentation may not reflect current frozen/dynamic file states—verify actual filesystem structure.  
 - Focus on qualitative excellence, not quantitative metrics.
+
+**Final Note**
+
+- Many of the files may already be high quality.   
+- Your primary job is to find those that are weak and improve them.  
+- Work on the weakest files first!

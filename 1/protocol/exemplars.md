@@ -1148,7 +1148,7 @@ echo "Ratio: ${ratio}x"
 **Interpretation:**
 - **Ratio <0.50x:** Check qualitatively—may be missing coverage
 - **Ratio 0.50-1.50x:** Normal range (verify qualitatively)
-- **Ratio >2.50x:** Check for redundancy/padding
+- **Ratio >2.50x:** Check for redundancy/padding (does not apply to structural fragments <500b)
 
 **Key Rule:** A section with 0.30x ratio can be A++ if every doctrinal point is comprehensively mapped. A section with 1.50x ratio can be C if filled with generic padding.
 

@@ -113,7 +113,7 @@ Example:
 | **Typical Range** | 0.80-1.50x | Most sections should fall here |
 | **Target Center** | 1.0x | Ideal proportionality |
 | **Maximum (Soft)** | 1.50x | Dense technical content may approach |
-| **Diagnostic Review** | >2.50x | Check for fluff/padding |
+| **Diagnostic Review** | >2.50x | Check for fluff/padding (does not apply to structural fragments <500b) |
 
 **Content-Specific Guidelines:**
 
@@ -123,9 +123,11 @@ Example:
 - Simple narrative/descriptive: 0.80-1.0x preferred
 
 **Structural Fragments (Tibetan <500 bytes):**
-- May exceed 1.50x ratio
-- Quality assessed by coverage depth, not ratio
-- Examples: List markers, transitional phrases, section headers
+- **Ratio range: 1.0x to 30.0x+ acceptable** - Tiny sources require substantial commentary
+- **Diagnostic threshold: >50.0x** (not >2.50x) - High ratios expected and appropriate
+- Quality assessed by coverage depth and voice variety, not ratio
+- Examples: List markers ("Second:", "Third:"), transitional phrases, section headers
+- A 1-line Tibetan fragment with 20-30 lines of quality commentary is exemplary, not fluffy
 
 **Complex Sections (Tibetan >5000 bytes):**
 - May be slightly below 1.0x if coverage is comprehensive

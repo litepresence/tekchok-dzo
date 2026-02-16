@@ -148,7 +148,7 @@ done | sort -t= -k3 -n | tail -20
 |--------------|----------|---------------|----------|-------------------|-------|
 | **Standard Sections** (1000-5000b) | 0.70x | 0.80-1.20x | 1.50x | >2.50x | Most commentary files |
 | **Dense Technical** (philosophy/tantra) | 0.70x | 1.00-1.50x | 1.50x | >2.50x | Samaya, thogal, madhyamaka |
-| **Structural Fragments** (<500b) | 0.50x | Variable | N/A | >10.0x | Markers, lists, headers |
+| **Structural Fragments** (<500b) | 0.50x | 1.0-30.0x+ | N/A | >50.0x | Markers, lists, headers |
 | **Complex Sections** (>5000b) | 0.60x | 0.80-1.20x | 1.50x | >2.00x | Extended teachings |
 
 **Quality Priority:** Comprehensive coverage > byte ratio. A file at 0.65x with excellent content coverage is better than 1.5x with fluff.

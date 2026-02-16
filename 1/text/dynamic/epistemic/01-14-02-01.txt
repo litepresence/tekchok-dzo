@@ -1,50 +1,71 @@
 [17524-17547]
-<view>dzogchen-rigpa
-<pedagogy>declarative-finality
-<classification> Dharmakaya essence (ngo bo): Primordial great primordial purity, inner clarity, nature spontaneous presence arising-ground, subtle wisdom abiding (thog ma'i ka dag chen po nang gsal rang bzhin lhun grub kyi 'char gzhi phra ba'i ye shes su gnas pa). Delusion time that potency placed, mind actual elaboration-free single realization with experience aspect (de'i gdangs la bzhag pa blo dngos spros bral nyag gcig tu rtogs nas nyams su myong cha dang bcas pa). Citation: Abiding mode ground-nature two aspects—abiding in primordial ground, abiding in delusion's objects. Primordial essence, nature, and compassion threefold abiding. That also essence abiding as body (ngo bo skur gnas pas), Dharma, enjoyment, emanation aspects, not divided or dividing manner, from blessing accomplished, body color etc. mind object beyond. Natural arising light manner, white, red, yellow, green, blue, not mark-possessing appearance, markless blessing accomplished. Compassion arising manifold, thus one undetermined, called "ground" as manifold appearing. Delusion's objects self-placed, settling self-liberated blessing. Definitive assertion of Dharmakaya as primordial, non-dual, spontaneously present.
+<view>dzogchen-rigpa</view>
+<pedagogy>declarative-finality</pedagogy>
+<risk>reification—treating Dharmakaya characteristics (ngo bo, rang bzhin, thugs rje) as substantial entities rather than pedagogical designations for recognition</risk>
+<classification>Chos sku ngo bo: thog ma'i ka dag chen po nang gsal rang bzhin lhun grub kyi 'char gzhi phra ba'i ye shes ('ཐོག་མའི་ཀ་དག་ཆེན་པོ་ནང་གསལ་རང་བཞིན་ལྷུན་གྲུབ་ཀྱི་འཆར་གཞི་ཕྲ་བའི་ཡེ་ཤེས')—primordial great primordial purity, inner clarity, nature spontaneous presence as subtle wisdom abiding. De'i gdangs la bzhag pas blo dngos spros bral nyag gcig tu rtogs ('དེའི་གདངས་ལ་བཞག་པས་བློ་དངོས་སྤྲོས་བྲལ་ཉག་གཅིག་ཏུ་རྟོགས')—placed in that potency, mind's actuality free of elaboration, single realization. Gzhugs tshul gnas lugs rnam pa gnyis ('བཞུགས་ཚུལ་གནས་ལུགས་རྣམ་པ་གཉིས'): thog ma'i gzhi la gnas pa ('ཐོག་མའི་གཞི་ལ་གནས་པ')—abiding in primordial ground; 'khrul pa'i yul la gnas pa ('འཁྲུལ་པའི་ཡུལ་ལ་གནས་པ')—abiding in delusion's objects. Thog ma'i ngo bo rang bzhin dang / thugs rje rnam pa gsum du gnas ('ཐོག་མའི་ངོ་བོ་རང་བཞིན་དང་། ཐུགས་རྗེ་རྣམ་པ་གསུམ་དུ་གནས')—threefold abiding. Definitive assertion of Dharmakaya as primordial, spontaneously present.</classification>
 
 [17548-17567]
-<view>dzogchen-rigpa
-<pedagogy>declarative-finality
-<classification> Rang shar citation: Dharmakaya great wisdom scripture (chos sku ye shes chen po'i lung), three characteristics (mtshan nyid rnam pa gsum dang ldan), essence, nature, compassion three, Dharmakaya's characteristics. Location: heart glorious vase jewel secret treasury exists (snying ga dpal gyi be'u rin po che gsang ba'i mdzod). Citation: Dharmakaya's palace unchanging this, clearly abiding in each own mind's center (rang rang tsittai dkyil na gsal bar gnas), emptiness wisdom essence (stong pa ye shes snying po), clarity light essence (gsal ba 'od kyi snying po), self-arisen awareness essence (rang byung rig pa'i snying po), three-essence-possessing Dharmakaya. Definitive assertion of Dharmakaya as already present, not achieved.
+<view>dzogchen-rigpa</view>
+<pedagogy>declarative-finality</pedagogy>
+<risk>view-collapse—confusing "location" (snying ga) with anatomical heart rather than recognition-reference point</risk>
+<classification>Rang shar citation: chos sku ye shes chen po'i lung ('ཆོས་སྐུ་ཡེ་ཤེས་ཆེན་པོའི་ལུང'), mtshan nyid rnam pa gsum dang ldan ('མཚན་ཉིད་རྣམ་པ་གསུམ་དང་ལྡན'), ngo bo rang bzhin thugs rje gsum ('ངོ་བོ་རང་བཞིན་ཐུགས་རྗེ་གསུམ'). Location: snying ga dpal gyi be'u rin po che gsang ba'i mdzod ('སྙིང་ག་དཔལ་གྱི་བེའུ་རིན་པོ་ཆེ་གསང་བའི་མཛོད')—heart's glorious jewel vase secret treasury. Citation: chos kyi sku yi pho brang du 'gyur med 'di ('ཆོས་ཀྱི་སྐུ་ཡི་ཕོ་བྲང་དུ་འགྱུར་མེད་འདི')—Dharmakaya's palace unchanging; rang rang tsittai dkyil na gsal bar gnas ('རང་རང་ཙིཏྟའི་དཀྱིལ་ན་གསལ་བར་གནས')—clearly abiding in each mind's center; snying po gsum ldan chos kyi sku ('སྙིང་པོ་གསུམ་ལྡན་ཆོས་ཀྱི་སྐུ')—three-essence Dharmakaya. Definitive assertion of Dharmakaya as already present, not achieved.</classification>
 
 [17568-17582]
-<view>dzogchen-rigpa
-<pedagogy>instructional-provisionality
-<classification> Terminological clarification: Sometimes called ground abiding wisdom (res gzhi gnas kyi ye shes), sometimes Dharmakaya (res chos skur btgs), sometimes liberation ground (res grol gzhir btgs)—single essence, different expressions. Knowing body and wisdom inseparable intention. Instructional provisionality of terminology.
+<view>dzogchen-rigpa</view>
+<pedagogy>instructional-provisionality</pedagogy>
+<risk>reification—treating terminological variations as referring to different ontological realities</risk>
+<classification>Terminological clarification: res gzhi gnas kyi ye shes su btags ('རེས་གཞི་གནས་ཀྱི་ཡེ་ཤེས་སུ་བཏགས')—sometimes called ground-abiding wisdom; res chos skur btags ('རེས་ཆོས་སྐུར་བཏགས')—sometimes Dharmakaya; res grol gzhir btags ('རེས་གྲོལ་གཞིར་བཏགས')—sometimes liberation-ground. Ngo bo gcig la ldog pa'i cha nas brjod ('ངོ་བོ་གཅིག་ལ་ལྡོག་པའི་ཆ་ནས་བརྗོད')—single essence, different expressions. Sku dang ye shes 'du 'bral med pa'i dgongs pa ('སྐུ་དང་ཡེ་ཤེས་འདུ་འབྲལ་མེད་པའི་དགོངས་པ')—intention of body and wisdom inseparability. Instructional provisionality of terminology serving recognition.</classification>
 
 [17583-17620]
-<view>dzogchen-rigpa
-<pedagogy>declarative-finality
-<classification> Definitive meaning: Profound and vast dharma essence gathered, called Dharmakaya (zab pa dang rgya che ba'i chos kyi snying po 'dus pas chos sku). Divisions: ground great primordial purity meaning nature pure (gzhi ka dag chen po'i don rang bzhin rnam dag), that existing in body (de lus la yod pa), adventitious purity excellent Dharmakaya three—become nine through body division. Rang shar citation: Though body inconceivable, summarized in three. What? Dharmakaya mark-object beyond, enjoyment body great marks complete, emanation body taming various means. Definitive assertion of three kayas as display of single essence.
+<view>dzogchen-rigpa</view>
+<pedagogy>declarative-finality</pedagogy>
+<risk>view-collapse—dividing three kayas into separate ontological existences rather than recognizing as display of single essence</risk>
+<classification>Definitive meaning: zab pa dang rgya che ba'i chos kyi snying po 'dus pas chos sku ('ཟབ་པ་དང་རྒྱ་ཆེ་བའི་ཆོས་ཀྱི་སྙིང་པོ་འདུས་པས་ཆོས་སྐུ')—profound and vast dharma essence gathered, called Dharmakaya. Divisions: gzhi ka dag chen po'i don rang bzhin rnam dag ('གཞི་ཀ་དག་ཆེན་པོའི་དོན་རང་བཞིན་རྣམ་དག')—ground great primordial purity meaning nature pure; de lus la yod pa ('དེ་ལུས་ལ་ཡོད་པ')—that existing in body; glo bur dri bral gyi chos sku dam pa ('གློ་བུར་དྲི་བྲལ་གྱི་ཆོས་སྐུ་དམ་པ')—adventitious purity excellent Dharmakaya—three becoming nine through body division. Rang shar citation: though body inconceivable, summarized in three. Chos sku'i chos sku ('ཆོས་སྐུའི་ཆོས་སྐུ'), chos sku'i longs sku ('ཆོས་སྐུའི་ལོངས་སྐུ'), chos sku'i sprul pa'i sku ('ཆོས་སྐུའི་སྤྲུལ་པའི་སྐུ'). Definitive assertion of three kayas as display of single essence.</classification>
 
 [17621-17680]
-<view>dzogchen-rigpa
-<pedagogy>declarative-finality
-<classification> Complete manifestation: Dharmakaya as complete recognition. Five wisdoms spontaneously present. Not achieved through practice but recognized as always present. Definitive meaning of spontaneous perfection.
+<view>dzogchen-rigpa</view>
+<pedagogy>declarative-finality</pedagogy>
+<risk>reification—treating skulful divisions as ontological realities rather than recognition-facilitating frameworks</risk>
+<classification>Complete manifestation framework: chos sku'i chos sku as rig pa—awareness; chos kyi dbyings kyi ye shes ngo bo nyid kyi sku ('ཆོས་ཀྱི་དབྱིངས་ཀྱི་ཡེ་ཤེས་ངོ་བོ་ཉིད་ཀྱི་སྐུ'). Chos sku'i longs sku as 'od lnga ('འོད་ལྔ')—five lights. Chos sku'i sprul sku as mig gi dbang po la mthong ba ma 'gags pa ('མིག་གི་དབང་པོ་ལ་མཐོང་བ་མ་འགགས་པ')—unceasing visual perception. Gnas ('གནས'): nam mkha' rnam par dag pa ('ནམ་མཁའ་རྣམ་པར་དག་པ'); tsitta ('ཙིཏྟ'); rin po che shel gyi sbug gu can ('རིན་པོ་ཆེ་ཤེལ་གྱི་སྦུ་གུ་ཅན')—jewel crystal tube. Longs sku'i chos sku as ye shes lnga'i snang ma 'gags par sang nge gnas pa ('ཡེ་ཤེས་ལྔའི་སྣང་མ་འགགས་པར་སང་ངེ་གནས་པ'). Longs sku'i longs sku as thig le rnam pa lnga'i lam ('ཐིག་ལེ་རྣམ་པ་ལྔའི་ལམ'). Definitive assertion through detailed anatomical-energetic correspondence.</classification>
 
 [17681-17740]
-<view>dzogchen-rigpa
-<pedagogy>declarative-finality
-<risk>nihilism
-<classification> Ultimate fruition: Beyond all concepts of attainment. No achiever, nothing achieved. Recognition itself is fruition. Risk of nihilistic reading as denying path and result rather than recognizing their empty nature.
+<view>dzogchen-rigpa</view>
+<pedagogy>declarative-finality</pedagogy>
+<risk>nihilism—reading "beyond path and result" as denial of practice rather than recognition of spontaneous presence</risk>
+<classification>Ultimate fruition: ye shes don rtogs sa lam bgrod du med ('ཡེ་ཤེས་དོན་རྟོགས་ས་ལམ་བགྲོད་དུ་མེད')—wisdom meaning-realization without traversing paths and stages. Brjod pa'i mtha' bral chos sku chen po 'di ('བརྗོད་པའི་མཐའ་བྲལ་ཆོས་སྐུ་ཆེན་པོ་འདི')—this great Dharmakaya beyond expression's limit. Kun la gnas te kun gyis rtogs pa med ('ཀུན་ལ་གནས་ཏེ་ཀུན་གྱིས་རྟོགས་པ་མེད')—abiding in all, recognized by none. Yid med sems med ma rig 'khrul pa med ('ཡིད་མེད་སེམས་མེད་མ་རིག་འཁྲུལ་པ་མེད')—no mind, no consciousness, no ignorance-delusion. Risk of nihilistic reading as denying path and result rather than recognizing their empty nature—thus thugs rje spontaneously present without effort.</classification>
 
-[17741-17800]
-<view>dzogchen-rigpa
-<pedagogy>instructional-provisionality
-<classification> Practical application: Dharmakaya recognition in meditation and daily life. Not special state but ordinary awareness recognizing itself. Instructional provisionality pointing to always-present nature.
+[17741-17867]
+<view>dzogchen-rigpa</view>
+<pedagogy>declarative-finality</pedagogy>
+<risk>view-collapse between sems and ye shes—failing to distinguish mind as defiled from wisdom as undefiled recognition</risk>
+<classification>Sems dang ye shes kyi khyad par ('སེམས་དང་ཡེ་ཤེས་ཀྱི་ཁྱད་པར') distinction: Mu tig phreng ba citation—sems ni bag chags kun gyi gzhi ('སེམས་ནི་བག་ཆགས་ཀུན་གྱི་གཞི')—mind as basis of all imprints; lus can rnams kyi dri ma yin ('ལུས་ཅན་རྣམས་ཀྱི་དྲི་མ་ཡིན')—defilement of embodied beings; gzung ba yul la 'dzin pa sems ('གཟུང་བ་ཡུལ་ལ་འཛིན་པ་སེམས')—grasping objects, holding mind; de phyir 'khor ba'i chos nyid do ('དེ་ཕྱིར་འཁོར་བའི་ཆོས་ཉིད་དོ')—thus samsara's nature. Ye shes: dran gzhi nyid dang bral ('དྲན་གཞི་ཉིད་དང་བྲལ')—free from memory-basis; chos sku dang mtshungs par ldan pa dri ma med ('ཆོས་སྐུ་དང་མཚུངས་པར་ལྡན་པ་དྲི་མ་མེད')—endowed with Dharmakaya, stainless. Sems like clouds ('sprin') obscuring sun ('nyi ma') of ye shes. Klong drug pa: sems dang ye shes rang gi ngo bo ma phyed na ('སེམས་དང་ཡེ་ཤེས་རང་གི་ངོ་བོ་མ་ཕྱེད་ན')—if not distinguished, like sun obscured by clouds. Definitive distinction.</classification>
 
-[17801-17860]
-<view>dzogchen-rigpa
-<pedagogy>declarative-finality
-<classification> Scriptural synthesis: Citations from Rang shar and other sources establishing Dharmakaya as ground, path, and fruition. Definitive meaning beyond all elaboration.
+[17868-18047]
+<view>dzogchen-rigpa</view>
+<pedagogy>instructional-provisionality</pedagogy>
+<risk>nihilism—treating "mind without entity" as non-existence rather than empty-yet-appearing</risk>
+<classification>Rig pa rang shar gi rgyud citation: sems kyis dngos po ci tsam lags ('སེམས་ཀྱི་དངོས་པོ་ཅི་ཙམ་ལགས')—"What is mind's entity?" Response: sems la dngos po med pa'i phyir ('སེམས་ལ་དངོས་པོ་མེད་པའི་ཕྱིར')—mind lacks entity. Chos nyid gzung 'dzin ga la yod ('ཆོས་ཉིད་གཟུང་འཛིན་ག་ལ་ཡོད')—how could suchness have subject-object? Dper na nam mkha'i mtshan nyid bzhin ('དཔེར་ན་ནམ་མཁའི་མཚན་ཉིད་བཞིན')—like space's characteristic. Yet: sems la gzung dang 'dzin yod kyang ('སེམས་ལ་གཟུང་དང་འཛིན་ཡོད་ཀྱང')—mind has subject-object, while chos nyid gzung 'dzin med pa'i phyir ('ཆོས་ཉིད་གཟུང་འཛིན་མེད་པའི་ཕྱིར')—suchness lacks them. Dialogue refutes sems-dharmakaya identity while establishing sems la 'bras bu mi 'tshol ('སེམས་ལ་འབྲས་བུ་མི་འཚོལ')—not seeking result in mind; rig pa'i ye shes yod pa'i phyir ('རིག་པའི་ཡེ་ཤེས་ཡོད་པའི་ཕྱིར')—because awareness-wisdom exists. Rig pa ye shes mtshan nyid ni stong dang gsal dang khyab pa yin ('རིག་པའི་ཡེ་ཤེས་མཚན་ཉིད་ནི་སྟོང་དང་གསལ་དང་ཁྱབ་པ་ཡིན')—awareness-wisdom's characteristics: emptiness, clarity, pervasion.</classification>
 
-[17861-17883]
-<view>dzogchen-rigpa
-<pedagogy>instructional-provisionality
-<classification> Relationship to trekcho: Trekcho as cutting through to Dharmakaya recognition. Direct pointing to always-present nature. Integration of view, meditation, and conduct.
+[18048-18167]
+<view>dzogchen-rigpa</view>
+<pedagogy>instructional-provisionality</pedagogy>
+<risk>reification—treating anatomical correspondences as substantial rather than recognition-facilitating pointers</risk>
+<classification>Sems kyi rten gnas lam sgo ngo bo rtsal byed las 'bras bu brgyad ('སེམས་ཀྱི་རྟེན་གནས་ལམ་སྒོ་ངོ་བོ་རྩལ་བྱེད་ལས་འབྲས་བུ་བརྒྱད'): rten ni gzugs kyi phung po byang khog stod ('རྟེན་ནི་གཟུགས་ཀྱི་ཕུང་པོ་བྱང་ཁོག་སྟོད')—support: upper body's form aggregate; gnas ni snying nas glo bar 'brel ba'i bar na rtsa sog ma'i sbug gu ('གནས་ནི་སྙིང་ནས་གློ་བར་འབྲེལ་བའི་བར་ན་རྩ་སོག་མའི་སྦུ་གུ')—location: between heart and lungs, channels' subtle tube; lam ni srog rtsa nas 'gyu ('ལམ་ནི་སྲོག་རྩ་ནས་འགྱུ')—path: from life-channel; sgo ni kha sna gnyis ('སྒོ་ནི་ཁ་སྣ་གཉིས')—doors: mouth and nose; ngo bo ni 'khor ba'i rang bzhin gzung 'dzin ('ངོ་བོ་ནི་འཁོར་བའི་རང་བཞིན་གཟུང་འཛིན')—essence: samsara's nature as subject-object; rtsal ni yul la 'dzin zhing nga bdag tu zhen ('རྩལ་ནི་ཡུལ་ལ་འཛིན་ཞིང་ང་བདག་ཏུ་ཞེན')—potency: grasping objects, clinging to self; byed las ni 'khor ba'i bde sdug sna tshogs byed ('བྱེད་ལས་ནི་འཁོར་བའི་བདེ་སྡུག་སྣ་ཚོགས་བྱེད')—function: creating samsara's various pleasures and pains. Definitive framework for recognizing sems as adventitious.</classification>
 
-[17524-17524]
-<view>dzogchen-rigpa
-<pedagogy>declarative-finality
-<classification> Final resolution: All distinctions dissolve in Dharmakaya. Ground, path, fruition non-dual. Definitive meaning of complete perfection.
+[18168-18287]
+<view>tantric-transformative</view>
+<pedagogy>instructional-provisionality</pedagogy>
+<risk>view-collapse—literalizing rlung and rig gdangs as substantial entities rather than energetic-recognition dynamics</risk>
+<classification>Rlung dang rig gdangs ('རླུང་དང་རིག་གདངས') inseparability: rlung as rta lta rta rkang can—horse with blind eyes and feet; rig gdangs as mi 'phyed mig can—undivided with eyes. Yet ma 'dres na mi 'gyu dgu 'gyur mi 'byung ('མ་འདྲེས་ན་མི་འགྱུ་དགུ་འགྱུར་མི་འབྱུང')—if not mixed, no delusion or liberation. Rlung dang rig pa 'byed pa'i rgyun mtshan ('རླུང་དང་རིག་པ་འབྱེད་པའི་རྒྱུན་མཚན'): rig gdangs rang chas su gnas pas yul snang yang de la mi rtog par shes pa dangs sangs phyed pa 'byung ('རིག་གདངས་རང་ཆས་སུ་གནས་པས་ཡུལ་སྣང་ཡང་དེ་ལ་མི་རྟོག་པར་ཤེས་པ་དངས་སངས་ཕྱེད་པ་འབྱུང')—awareness-potency abiding in its own state, objects appear but unthought, clear consciousness separate. rDo rje sems dpa' snying gi me long gi rgyud citation: sems can thams cad la nyon mongs pa ma rig pa zhes bya ba shas cher gnas ('སེམས་ཅན་ཐམས་ཅད་ལ་ཉོན་མོངས་པ་མ་རིག་པ་ཞེས་བྱ་བ་ཤས་ཆེར་གནས')—affliction-ignorance strongly abides in all beings. Threefold conjunction: ma rig pa, sems, yid. He bajra citation: sems can rnams ni sangs rgyas nyid/'on kyang glo bur dri mas bsgrigs ('སེམས་ཅན་རྣམས་ནི་སངས་རྒྱས་ཉིད། འོན་ཀྱང་གློ་བུར་དྲི་མས་བསྒྲིབས')—beings are Buddhas, obscured by adventitious defilements. rNam 'grel: sems kyi rang bzhin 'od gsal ba/dri ma rnams ni glo bur ba ('སེམས་ཀྱི་རང་བཞིན་འོད་གསལ་བ། དྲི་མ་རྣམས་ནི་གློ་བུར་བ')—mind's nature luminous, defilements adventitious.</classification>
+
+[18288-18347]
+<view>dzogchen-rigpa</view>
+<pedagogy>declarative-finality</pedagogy>
+<risk>view-collapse—treating sems lam du byas as equivalent to sems ma 'dres pa rather than provisional vs. definitive distinction</risk>
+<classification>'Jam dpal bstod pa citation: rnam rtog ma rig chen po ste/'khor ba'i rgya mtshor ltung byed yin ('རྣམ་རྟོག་མ་རིག་ཆེན་པོ་སྟེ། འཁྲུར་བའི་རྒྱ་མཚོར་ལྟུང་བྱེད་ཡིན')—discursive thought is great ignorance, cause of falling into samsara's ocean. Rnam rtog de dang bral bas na/khyod nyid rtag tu mya ngan 'das ('རྣམ་རྟོག་དེ་དང་བྲལ་བས་ན། ཁྱོད་ཉིད་རྟག་ཏུ་མྱ་ངན་འདས')—free from that thought, always liberated. Sems lam du byas ('སེམས་ལམ་དུ་བྱས') from dBu ma and sNgon 'gro approaches: sems dang sems nyid gnyis su phyed ('སེམས་དང་སེམས་ཉིད་གཉིས་སུ་ཕྱེ')—dividing sems and sems nyid; sems tshogs brgyad spong byar bsdus ('སེམས་ཚོགས་བརྒྱད་སྤང་བྱར་བསྡུས')—eight consciousnesses as objects of abandonment. Contrasts with this passage's sems ma 'dres pa rig pa mngon sum ('སེམས་མ་འདྲེས་པ་རིག་པ་མངོན་སུམ')—direct awareness unmixed with sems. Definitive recognition transcending gradual sems-nyid discrimination.</classification>
+
+[18348-18431]
+<view>dzogchen-rigpa</view>
+<pedagogy>declarative-finality</pedagogy>
+<risk>nihilism—interpreting "defilements adventitious" as license for ignoring conventional practice</risk>
+<classification>Glo bur dri ma ('གློ་བུར་དྲི་མ') teaching culmination: dri ma bsal na sangs rgyas nyid ('དྲི་མ་བསལ་ན་སངས་རྒྱས་ཉིད')—when defilements cleared, Buddhahood. Ma dag pa'i gnas lugs ('མ་དག་པའི་གནས་ལུགས') analysis serves not conceptual elimination but recognition of sems nyid as spontaneously pure (rang bzhin gyis dag pa). Rang shar citation: sems can kun gyi rang rgyud la/ma dag sum brtsegs gnas pa'o ('སེམས་ཅན་ཀུན་གྱི་རང་རྒྱུད་ལ། མ་དག་སུམ་བརྩེགས་གནས་པའོ')—in all beings' continuum, threefold impure stack abides. Snying dang glo ba'i bar na yang/brtsegs ma gsum du gnas pa'o ('སྙིང་དང་གློ་བའི་བར་ན་ཡང་། བརྩེགས་མ་གསུམ་དུ་གནས་པའོ')—between heart and lungs, three stacks. De nas rtsa nas 'gyu ba'o ('དེ་ནས་རྩ་ནས་འགྱུ་བའོ')—from there channels move. Srog pa rtsa nas lam byung ngo ('སྲོག་པ་རྩ་ནས་ལམ་བྱུང་ངོ་')—life-channel from channel path. Sgo ni khang dang sna nas byung ('སྒོ་ནི་ཁང་དང་སྣ་ནས་བྱུང་')—doors from cavity and nose. De las stong phrag brgyad cu'o ('དེ་ལས་སྟོང་ཕྲག་བརྒྱད་ཅུའོ')—from that, eighty-four thousand. All taxonomy dissolves in recognition of sems nyid as spontaneously pure.</classification>

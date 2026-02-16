@@ -1,272 +1,469 @@
 [2064-2072] <structure>
-Three Meditative Experiences: Foundational Framework
-**Analysis:** This section introduces the three principal categories of meditative experience (*nyams gsum*) within the Anuyoga/Dzogchen framework. Longchenpa presents these as distinct approaches to spiritual realization:
+Three Vehicles of Practice (*spyod pa gsum*)
 
-1. **First:** Causational Vehicle characteristic practice (*rtsen mtshan theg pa'i spyod pa*) - the foundational approach through non-attachment
-2. **Second:** General secret mantra practice (*gsang snags spyi'i spyod pa*) - the intermediate approach through mantra recitation
-3. **Third:** Great Completion spontaneous practice (*rdzogs pa chen po lhun gyis grub pa'i spyod pa*) - the supreme approach through non-meditation
+**Analysis:** Lines 2064-2072 present the threefold classification of practice-vehicles (*theg pa*) that structures the entire section:
 
-**Section Placement:** This triadic framework serves as an introduction to the chapter's main exposition on the sevenfold dharma-nature vision. The progression from causal to result-oriented practice mirrors the Nyingma doxographical presentation of vehicles.
+1. **First:** Causal-characteristic vehicle (*rgyu mtshan nyid kyi theg pa'i spyod pa*) - sutra approach
+2. **Second:** General secret mantra (*gsang sngas spyi'i spyod pa*) - outer/inner tantra
+3. **Third:** Great Completion spontaneous practice (*rdzogs pa chen po lhun gyis grub pa'i spyod pa*) - Atiyoga
 
-**Connection:** Following the previous section's presentation of preparatory stabilizations, these three experiences represent the actual meditative methodologies practitioners employ to generate realization.
+**Architectural Logic:** This triad reflects the Nyingma *nine vehicle* (*theg pa dgu*) classification:
+- Vehicles 1-3: Causal (*rgyu'i theg pa*) - Sutra
+- Vehicles 4-6: Method (*thabs kyi theg pa*) - Outer tantra
+- Vehicles 7-9: Fruition (*'bras bu'i theg pa*) - Inner tantra/Dzogchen
 
-[2064-2072] <philology>
-## Particle and Terminology Analysis
+The three practices here correspond to:
+- Sutra (Vehicle 3: Mahāyāna)
+- Tantra (Vehicles 4-6)
+- Dzogchen (Vehicle 9: Atiyoga)
 
-**Analysis:** Key grammatical elements:
-- *rgyu mtshan* (causation/characteristic) - distinguishes causal from fruit vehicles
-- *spyod pa* (practice/conduct) - denotes activity, not mere meditation
-- *lhun gyis grub* (spontaneously accomplished) - hallmark of Dzogchen
-- *spyi'i* (general/common) - distinguishes common mantra from specific tantric systems
+**Section Placement:** This serves as the introduction to the detailed presentation of the twenty-one vajra songs (*rdo rje'i glu*). The three practices establish the framework—only the third (Great Completion) fully manifests the songs' meaning.
 
-The honorific *bzhugs* is absent here, indicating this is instruction, not revealed text. The instrumental *gyis* marks the means (*byed sgra*) of practice.
+[2064-2086] <philology>
+## Terminology: The Three Practices
 
-**Terminological Precision:**
-- *nyams* — experience (distinct from *sgom* [meditation])
-- *rtsen mtshan* — characteristics (causal conditions)
-- *gsang snags* — secret mantra (anuyoga method)
-- *rdzogs pa chen po* — Great Completion (Dzogchen result)
+**Grammatical Structures:**
 
-[2073-2086] <context>
-The Second Experience: Secret Mantra Practice
-**Analysis:** The second category covers general secret mantra practice within the Anuyoga (*rnal 'byor*) tradition. Longchenpa distinguishes this from both sutric and pure Dzogchen approaches:
+The instrumental *kyis* marks means:
+- *rgyu mtshan nyid kyis theg pa* - vehicle by means of causal characteristics
+- *lhun gyis grub pa* - spontaneously accomplished (genitive/instrumental fusion)
 
-- **Method:** Outer-inner secret mantra practice (*gsang snags phyi nang gi spyod pa*)
-- **Function:** Neither abandoning afflictions nor accomplishing wisdom—connecting word and meaning
-- **Result:** Superior method through great attachment (*chen pos btul ba*) - transformation through engagement
+**Critical Distinctions:**
 
-This represents a transitional category—neither fully sutric (abandoning) nor fully Dzogchen (recognizing). The practice engages with phenomena rather than disidentifying from them.
+1. **Sutra practice:** *ma chags 'dzin pa'i spyod pa* - practice of non-attachment without grasping
+   - Problem: *don gyis chags pa chen pos bcing* - bound by great attachment to meaning
+   - Limitation: *thabs med grol bar ga la 'gyur* - no means, how liberation?
 
-[2087-2096] <concept>
-The Third Experience: Great Completion
-**Analysis:** The third category presents the highest approach:
+2. **Tantra practice:** *dgag sgrub med pa'i spyod pa* - practice without negation/affirmation
+   - Outer-inner (*phyi nang*) distinction
+   - Neither abandoning nor accomplishing
+   - Word-meaning connection (*tshig don 'brel ba*)
 
-**Key Distinctions:**
-- *rtog med rang gnas chen po'i bsam gtan* — great meditation of thought-free self-abiding
-- No acceptance or rejection (*blang dor med pa*)
-- No doing (*byed med pa*)
-- No arising ground (*bye brag med pa*)
-- No going (*'gro med pa*)
-- No attachment to attachment (*chags med pa*)
+3. **Dzogchen practice:** *chags la ma zhen spyod pa* - practice without attachment to attachment
+   - *byar med byas med byung sa med* - no doing, no done, no arising ground
+   - *'gro med 'ong med gnas pa med* - no going, no coming, no abiding
 
-This represents the Atiyoga view where practice itself is recognized as already accomplished—spontaneous presence (*lhun grub*) rather than effortful achievement. The negations are not nihilistic but point to the already-perfect nature of awareness.
+**Particle Analysis:**
+The locative *na* marks the locus:
+- *chos nyid du* - in dharmatā
+- *gnas pa med* - no abiding
+
+The negative *ma* + verb creates technical terms:
+- *ma chags* - non-attached
+- *ma zhen* - not fixated
+- *ma yin* - not existent (not mere negation but "otherness")
+
+[2064-2096] <context>
+## Doxographical Framework: Vehicles Comparison
+
+**Nyingma Nine Vehicles Classification:**
+
+| # | Vehicle | Practice Type | Liberation Speed |
+|---|---------|---------------|------------------|
+| 1-2 | Śrāvaka/Pratyekabuddha | Renunciation | Slow (*thur du grol*) |
+| 3 | Mahāyāna Causal | Non-attachment | Slow (*myur du mi grol*) |
+| 4-6 | Kriyā/Caryā/Yoga | Deity yoga | Medium (*'bring du grol*) |
+| 7-8 | Mahā/Maha-anu | Transformation | Fast (*myur du grol*) |
+| 9 | Atiyoga | Recognition | Immediate (*cig car grol*) |
+
+**Longchenpa's Critique:**
+- Sutra: Has view but lacks skillful means (*thabs med*)
+- Tantra: Has means but involves effort (*rtsol sgrub*)
+- Dzogchen: Neither lacks means nor requires effort
+
+**Scriptural Sources:** Lines 2067, 2075, 2090 cite *Rang shar* (Self-Arisen), a major Nyingma tantra:
+
+> "Non-attachment grasping practice is characteristic vehicle practice..."
+> "Without negation/affirmation practice is outer-inner secret mantra practice..."
+> "Non-fixation on attachment practice is Great Completion Ati practice..."
+
+**Comparative Framework:** This threefold division appears in:
+- *Man ngag lta ba'i phreng ba* (Garland of View Instructions)
+- *Theg mchog mdzod* (Treasury of Supreme Vehicles)
+- *Shing rta chen po* (Great Chariot) commentary
+
+[2064-2096] <concept>
+## The Paradox of Practice
+
+**Analysis:** Each practice contains an internal paradox:
+
+**Sutra Paradox:**
+- Intention: Non-attachment (*ma chags*)
+- Result: Bound by attachment (*chags pas bcing*)
+- Reason: Without skillful means (*thabs med*), conceptual effort becomes bondage
+
+**Tantra Paradox:**
+- Intention: No affirmation/negation (*dgag sgrub med*)
+- Method: Word-meaning connection (*tshig don 'brel ba*)
+- Limitation: Still involves "practice" (*spyod pa*), not naturalness
+
+**Dzogchen Resolution:**
+- *Chags la ma zhen* - not "non-attached" (which still references attachment) but "not fixated even on attachment"
+- *Nam mkha' ltar* - like space: no direction, no limit
+- *Ye grol ye spyod* - naturally liberated, naturally active
+
+**Philosophical Implications:**
+This reflects the *prasaṅga* (consequence) vs *svātantrika* (autonomous) distinction:
+- Sutra/Tantra: Gradual removal of defilements (*rtsol sgrub*)
+- Dzogchen: Recognition of primordial freedom (*gshis grol*)
 
 [2097-2145] <structure>
-Twenty-One Vajra Songs Practice Framework
-**Analysis:** Lines 2097-2145 present the detailed enumeration of twenty-one Vajra song practices (*rdo rje glu*), each compared to an animal or natural phenomenon:
+## Twenty-One Vajra Songs Practice
 
-1. Bee practice (*bung ba ltar*) - gather but don't harm
-2. Fish practice (*nya ltar*) - see but don't grasp  
-3. Monkey practice (*spre'u ltar*) - mind but don't fixate
-4. etc.
+**Analysis:** Lines 2097-2145 present the twenty-one-fold practice system (*spyod pa nyer gcig*) derived from the *Nyi zla kha sbyor* tantra. The practices are organized as animal/natural metaphors:
 
-**Structural Logic:** These represent the refinement of the Great Completion practice into specific applications. Each animal metaphor illustrates a quality to cultivate or abandon. The progression from simple (bees) to complex (elephant) suggests graduated training.
+1. *Bung ba ltar* - Like bee (gather essence)
+2. *Ri dwags ltar* - Like deer (avoid confusion)
+3. *lkugs pa ltar* - Like mute (abandon confused speech)
+4. *thi bya ltar* - Like peacock (cut doubt about secret mantra)
+5. *smyon pa ltar* - Like madman (abandon fixation on single abode)
+6. *Seng ge ltar* - Like lion (abandon fear, roam charnel grounds)
+7. *Khyi phag ltar* - Like dog/pig (abandon pure/impure distinction)
+8. *ldom bu ltar* - Like hunched one (dwell without memory/thought)
+9. *Bu chung ltar* - Like child (abandon long fixation on confusion)
+10. *Rng mo ltar* - Like donkey (attract with worldly speech)
+11. *Glang chen ltar* - Like elephant (reverse saṃsāra's battle)
+12. *Ri dwags ltar* - Like wild animal (abandon child/enemy concepts)
+13. *Rgya mo ltar* - Like turtle (contentment, fixed timing)
+14. *Dred mo ltar* - Like bear (don't increase saṃsāra's seed)
+15. *Bram ze ltar* - Like brahmin (abandon others' enjoyments)
+16. *Dpa' mo ltar* - Like heroine (distinguish saṃsāra/nirvāṇa)
+17. *Chu yig ltar* - Like fishhook (leave memory-support in its place)
+18. *Nam mkha'i mdung skor* - Sky-dart (use everything without fixation)
+19. *Bar snang rlung 'dra* - Like mid-space wind (abandon grasping/fixation thoughts)
+20. *Bya khyung ltar* - Like garuḍa (cut abysses with waves)
+21. *Ri bo ltar* - Like mountain (dwell in unchanging self-purity)
+
+**Note:** Lines 2123-2144 include additional practices, with *gter chen ltar* (like great vulture) as #21.
 
 [2097-2145] <philology>
-## Vajra Song Terminology
-**Analysis:** 
-- *rdo rje glu* — Vajra songs (mystical verses in tantric practice)
-- *mdangs* — energy/luster (indicates subtle body refinement)
-- *phrin las* — enlightened activity
-- *ye shes* — wisdom (primordial knowing)
+## Animal Metaphor Analysis
 
-The repeated *ltar* (like/as) creates the simile structure. Instrumental case marks the model (*bung ba ltar gyi spyod pas*).
+**Simile Structure:**
+Each practice follows the pattern:
+- *[Animal] ltar gyi spyod pas* - by practice like [animal]
+- *[Result]* - what is achieved
 
-[2097-2145] <concept>
-Animal Metaphors and Spiritual Qualities
-**Analysis:** Each animal practice represents a specific aspect of spiritual training:
-- **Bee:** Non-harmful gathering (collecting teachings without damaging)
-- **Fish:** Bare observation (seeing without conceptual overlay)
-- **Monkey:** Mind without fixation (awareness without grasping)
-- ** Elephant:** Breaking through attachments (heavy but penetrating)
-- **Snake:** Subtle movement (kundalini-like energy)
-- **Bird:** Soaring liberation (transcending conditional existence)
+**Particle Analysis:**
+- *ltar* (like/as) creates the simile
+- *gyis* (instrumental) marks the practice as means
+- *pas* (ergative) indicates agency
 
-These metaphors integrate the natural world into the path, reflecting tantric ecology where all phenomena can serve as spiritual instruction.
+**Terminological Precision:**
 
-[2150-2163] <context>
-Vajra Song Times: The Three Phases
-**Analysis:** Each of the twenty-one practices includes:
-1. **Time** (dkyil) - when to practice
-2. **Actual practice** (dngos) - what to do
-3. **Benefit** (phan yon) - result of practice
+| Practice | Tibetan | Sanskrit Equivalent | Function |
+|----------|---------|---------------------|----------|
+| Bee gathering | *bung ba tshang 'tshol ba* | *bhramara* | Collect teachings without harm |
+| Deer avoidance | *ri dwags gnong gis mi rgyu* | *mṛga* | Avoid confusion-causes |
+| Mute silence | *lkugs pa ngag spangs* | *mūka* | Abandon conceptual speech |
+| Peacock cutting | *thi bya the tshom bcad* | *mayūra* | Resolve mantra doubts |
+| Madman spontaneity | *smyon pa gzhag gttad med* | *unmatta* | Non-fixated conduct |
+| Lion fearlessness | *seng ge 'jigs spangs* | *siṃha* | Transcend fear |
+| Dog/pig equality | *khyi phag gtsang sme spangs* | *kukkura/varāha* | Pure/impure non-dual |
+| Hunched non-memory | *ldom bu dran bsam thog bab* | *kubja* | Beyond memory/thought |
+| Child short-fixation | *bu chung 'khrul zhen rgyun ring spangs* | *bāla* | Brief confusion-period |
+| Donkey attraction | *rng mo 'jig rten tshig drangs* | *khara* | Skillful worldly means |
+| Elephant reversal | *glang chen 'khor ba'i g.yul bzlog* | *gaja* | Turn saṃsāra back |
+| Deer non-concept | *ri dwags bu dgra 'du shes spangs* | *mṛga* | Abandon friend/enemy |
+| Turtle contentment | *rgya mo 'dod chogs dus bcad* | *kūrma* | Contentment, timing |
+| Bear non-increase | *dred mo 'khor sa bon spel mi bya* | *ṛkṣa* | Don't plant saṃsāra seeds |
+| Brahmin non-appropriation | *bram ze gzhan long zas spangs* | *brāhmaṇa* | Abandon others' food |
+| Heroine distinction | *dpa' mo 'khor 'das ru shan dbye* | *vīra/vīrā* | Differentiate saṃsāra/nirvāṇa |
+| Fishhook memory | *chu yig dran rten rang sar gzhag* | *matsya-āṅkuśa* | Memory in its place |
+| Sky-dart use | *nam mkha'i mdung skor zang thal spyod* | *kha-śūla* | Use everything freely |
+| Mid-space wind | *bar snang rlung 'dra bzung 'dzin rtog spangs* | *antarikṣa-vāyu* | No grasping/fixation |
+| Garuḍa cutting | *bya khyung g.yangs rlabs bcad* | *garuḍa* | Cut through abyss |
+| Mountain dwelling | *ri bo 'gyur med bde steng spyod* | *giri* | Unchanging abiding |
 
-This structured approach shows the systematic methodology underlying seemingly spontaneous practices. The threefold division (*gsum du*) indicates comprehensive training covering all aspects of the path.
+[2097-2150] <context>
+## Vajra Song Contexts
 
-**Citation:** The *rdo rje glu* text derives from the *Rang shar* (Self-Arisen) cycle, a key Anuyoga tantra. Longchenpa's quotation demonstrates his reliance on this source for practice methodology.
+**The *Rdo rje glu* Tradition:**
 
-[2165-2170] <structure>
-Integration with Clear Light Practice
-**Analysis:** The section transitions from Vajra songs to clear light (*'od gsal*) integration:
+Vajra songs (*rdo rje glu*) are mystical verses sung in tantric practice:
+- Originated in mahāsiddha circles (India, 8th-12th c.)
+- Brought to Tibet by *Padmasambhava* and *Vimalamitra*
+- Collected in *Rnying ma rgyud 'bum*
 
-- Clear light arising from the heart (*snying gar 'od gsal 'byung*)
-- Union of appearance and emptiness (*snang stong zung 'jug*)
-- Three bodies arising from this (*sku gsum byung*)
+**Performance Context:** Lines 2147-2150 specify three phases:
+1. **Time** (*dus*) - when to sing: tsok, empowerment, maṇḍala entry, samādhi enhancement
+2. **Actual** (*dngos*) - body costume, mental deity, speech mantra
+3. **Benefit** (*phan yon*) - ten benefits including satisfying all Buddhas
 
-This connects the analytical practices (Vajra songs) with direct realization (clear light), showing the progression from method to wisdom.
+**Scriptural Source:** Explicitly from *Nyi zla kha sbyor gyi rgyud* (Sun-Moon Union Tantra):
 
-[2171-2190] <concept>
-Clear Light as the Ultimate Practice
-**Analysis:** Clear light (*'od gsal*) represents the culmination of all three experience categories:
+> "Whatever yogin is suitable... in charnel grounds... take vajra song again and again..."
 
-1. **From causal practice:** Clear light arises as result
-2. **From mantra practice:** Sound becomes light (sgra thig)
-3. **From Great Completion:** Recognition is itself clear light
+**Historical Context:** This tantra is attributed to the *Atiyoga* class, specifically *spy ti* (general) level. Its presence here establishes the song-practice as Dzogchen, not merely tantric.
 
-The text emphasizes that clear light is not something created but what has always been present—*gdod ma'i 'od gsal* (primordial luminosity). This aligns with the Dzogchen view that enlightenment is recognition, not achievement.
+[2097-2177] <concept>
+## Esoteric Body of the Songs
 
-[2191-2205] <context>
-Doxographical Placement: Nyingma vs Sarma
-**Analysis:** This presentation differs from Sarma (new translation) schools:
+**Analysis:** Lines 2178-2211 present the "actual vajra song" (*glu dngos*) in three aspects:
 
-- **Nyingma:** Three experiences as natural expressions of rigpa
-- **Sarma:** Emphasize deity yoga (yidam) as primary method
-- **Kagyu:** Emphasize mahamudra (phyag rgya chen po)
-- **Sakya:** Emphasize lamdre (path-result)
+**1. Body Posture (*lus kyi cho ga*):**
+- Peaceful (*zhi*) costume: silks, jewels, crown, vajra/bell
+- Wrathful (*khro*) costume: bone ornaments, ash, tiger skin, kila
+- Dance (*bro gar*) - divine mudrā display
 
-Longchenpa's presentation is inclusive—acknowledging multiple approaches while positioning Great Completion as the definitive method. This reflects Nyingma ecumenism (*khor la gtong*) regarding other traditions.
+**2. Mind Meditation (*sems kyi bsgom pa*):**
+- Deity body visualization
+- Three trainings: deity body, rigpa introduction, self-abiding samādhi
 
-[2210-2230] <structure>
-Progression to Sevenfold Dharma-Nature Vision
-**Analysis:** The three experiences prepare for the sevenfold dharma-nature vision (*chos nyid bdun tshan*):
+**3. Speech Activity (*ngag gi bya ba*):**
+- Mantra and essence recitation (*sngags dang snying po*)
+- Seed syllables: *oṃ, e, hūṃ, he, lye* etc.
+- The 21 mystical verses (lines 2213-2236)
 
-1. Dharma-nature vision (what is)
-2. Arising vision (how it appears)
-3. Consciousness vision (who experiences)
-4. etc.
+**Philosophical Structure:**
+The three correspond to:
+- Body → Nirmāṇakāya
+- Speech → Saṃbhogakāya
+- Mind → Dharmakāya
 
-This progression shows how initial experiences mature into complete realization. Each of the three experiences contributes to different aspects of the sevenfold vision.
+**Critical Passage:** Lines 2195-2205 describe the "distinguishing saṃsāra/nirvāṇa" phase:
 
-[2231-2260] <philology>
-Key Particle Analysis: *phrin las*
-**Analysis:** The term *phrin las* (enlightened activity) functions critically:
-- In Sarma: Generated through initiation and commitment
-- In Nyingma: Recognized as already present
+> "Naked body, ordinary abiding... various mudrās, various dances..."
 
-The genitive *kyi* in *ye she'i phrin las* marks wisdom-activity as the activity OF wisdom, not separate from it. This distinguishes Nyingma from Sarma understanding.
+This represents the *phyogs thun* (differentiating juncture) where practitioner recognizes the nature of apparent reality.
 
-[2261-2280] <concept>
-The Integration of Method and Wisdom
-**Analysis:** Longchenpa presents the three experiences as integrating method (*thabs*) and wisdom (*shes rab*):
+[2178-2288] <philology>
+## Mantra and Seed Syllables
 
-- First experience: Method predominant (technique)
-- Second experience: Method-wisdom balance
-- Third experience: Wisdom predominant (non-method)
+**The Twenty-One Syllable Verses:**
 
-This integration avoids both extreme: neither pure method (insufficient) nor pure wisdom (inaccessible). The three experiences provide complete training covering both aspects.
+Lines 2213-2236 present untranslated Sanskrit-derived mantras:
 
-[2281-2300] <context>
-Practical Application for Practitioners
-**Analysis:** The text addresses practitioners at different levels:
+```
+e ma ki ri ki ri
+maṣṭa vāli vāli
+sa mi ta pu ru pu ru
+ku ta li ma su ma su
+i kā rā su li bha ta ye
+tsa ki ra bhu li sa la ye
+sa mun tsa ra ya su bha yai
+bhe ta sa bhya ku le yai
+sa ka ri dhū ka na
+ma ta ri vai ta na
+va ra li hi sā na
+ma khar ta ki la nāṃ
+saṃ bha ra ta me ka caṃṭaṃ pa
+sur ya ta ra e pa śa na pa
+ra na bhi ti sa bhu ra lā pa
+ma smi na sa gu li ta ya pa
+'gu ra 'gu rā sa ga kha ra na lī
+na ra na rā i thar pa ṭā la
+si rna si rṇe bhe sa ra sa laṃ
+bhu n ra bhu n ra tṣiṣa sa ke laṃ
+sa sā / ri rī / li lī / a āi / mi mī / ra rā ra
+```
 
-- **Beginners:** Start with first experience
-- **Intermediate:** Progress to second
-- **Advanced:** Rest in third
+**Linguistic Analysis:**
+- Mix of Sanskrit, Prakrit, and possibly tribal languages
+- Seed syllables (*bīja*): *ki, ri, li, bha, su*
+- Phonetic patterns: repetition (*ki ri ki ri*), rhyme (*vāli vāli*)
+- Untranslated: Preserves *mantra-vāc* power
 
-This gradual approach (*rim gyis pa*) makes Dzogchen accessible while maintaining the view's radical simplicity. The three experiences function as skillful means (*thabs*) to lead practitioners to the view.
+**Function:** These are not semantic but *dhvani* (sonic) vehicles:
+- *Oṃ* - body
+- *Āḥ* - speech
+- *Hūṃ* - mind
 
-[2301-2320] <structure>
-Summary: The Completeness of the Three Experiences
-**Analysis:** The three experiences represent a complete path:
+**Performance Notes:** Lines 2206-2210 specify:
+- Long/short vowels (*dbyangs dang gsal byed kyi yi ge ring po dang thung ngu*)
+- Melodic modulation (*'khyog por gdangs snyan pos*)
+- Element invocation (*sa sna drangs*)
 
-1. **Foundation:** Correct view through analytical practice
-2. **Meditation:** Stability through mantra/song practice  
-3. **Action:** Natural expression through Great Completion
+[2178-2314] <context>
+## Comparative Conduct Systems
 
-This completeness is characteristic of the Dzogchen presentation—unlike other vehicles which may emphasize one aspect, Great Completion integrates all aspects of the path.
+**The Twenty-One Practices Comparison:**
 
-[2321-2350] <concept>
-Why Three? The Pedagogical Logic
-**Analysis:** Three categories serve specific functions:
-- **Three** corresponds to the three kayas (*sku gsum*)
-- **Three** matches the three wisdoms (*ye shes gsum*)
-- **Three** reflects the three entrances to dzogchen (*rdzogs pa chen po la gsob pa gsum*)
+| Tradition | System | Number | Relation to This |
+|-----------|--------|--------|------------------|
+| *Hevajra* | *Caturdevī* conduct | 4 yoginīs | Subset |
+| *Cakrasamvara* | *Daśa-karma* | 10 activities | Different |
+| *Guhyasamaja* | *Carya* | Various | Parallel |
+| *Kalacakra* | *Yoga* conduct | 6 branches | Structural overlap |
+| Nyingma | *Spyod pa nyer gcig* | 21 | This system |
 
-This numerological structure embeds the practices within the broader cosmological framework, making the path not arbitrary but systematically related to reality's nature.
+**Indian Mahāsiddha Parallel:**
+The twenty-one animal practices echo the *carya* (conduct) descriptions in:
+- *Caryāgiti* (Bengal, 10th c.)
+- *Dohākośa* (Saraha, 11th c.)
 
-[2351-2380] <context>
-Historical Context: Longchenpa's Synthesis
-**Analysis:** Longchenpa synthesizes earlier Nyingma teachings:
-- Draws from *Gyübum* (Nine Treasures)
-- Integrates *Nyingthig* (Heart Essence) teachings
-- References *Rang shar* (Self-Arisen) tantras
+**Tibetan Innovations:**
+Longchenpa's presentation is distinctive in:
+1. Systematic organization (*dang po, gnyis pa, gsum pa*)
+2. Integration with Dzogchen view (*lta ba*)
+3. Explicit scriptural sourcing (*nyi zla kha sbyor*)
 
-This synthesis represents the mature Nyingma presentation, consolidating diverse lineages into a unified system. The three experiences reflect Longchenpa's pedagogical skill in making complex material accessible.
+[2289-2350] <philology>
+## Conduct and Time Categories
 
-[2381-2400] <structure>
-Transitional Passage: Moving to Sevenfold Vision
-**Analysis:** The section concludes by preparing for the sevenfold dharma-nature vision:
+**Threefold Conduct Timing:**
 
-- The three experiences establish the foundation
-- The sevenfold vision presents the full realization
-- This progression represents path to fruition
+Lines 2289-2292 present three stages:
 
-This marks a structural shift (*gnas 'gyur*) from practice methodology to direct realization. The three experiences are explicitly preparation (* preparations*) for the main exposition.
+1. **Beginner conduct** (*las dang po pa'i spyod pa*):
+   - Ten dharmas (*chos spyod bcu*)
+   - From *Dbus mtha'* (Mādhyamaka text)
+   - Writing, worship, giving, hearing, reading, holding, explaining, recitation, contemplating, meditating
 
-[2401-2450] <concept>
-The Nature of Dharma-Nature Vision
-**Analysis:** The sevenfold dharma-nature vision (*chos nyid bdun tshan*) represents:
-1. Direct perception of reality (*chos nyid mngon sum*)
-2. Non-conceptual engagement (*rtog med*)
-3. Spontaneous presence (*lhun grub*)
-4. Complete integration (*zung 'jug*)
-5. etc.
+2. **Saṃsāra/nirvāṇa distinguishing conduct** (*'khor 'das ru shan 'byed pa'i spyod pa*):
+   - Deep oral instructions (*gdams ngag zab mo*)
+   - Three empowerments preparation
+   - Three gates (*lus ngag yid*) conduct
 
-This vision is not a vision IN the sense of visual perception, but rather the nature of experience when conceptual construction ceases. The seven aspects capture all dimensions of this recognition.
+3. **Tulku path conduct** (*br tul zhugs lam du bslangs pa'i spyod pa*):
+   - Seven of the twenty-one emphasized
+   - Charnel ground behavior
 
-[2451-2500] <philology>
-Terminological Refinement: *bdun tshan*
-**Analysis:** 
-- *bdun* — seven (the number of aspects)
-- *tshan* — similar/like (the comparative structure)
-- *chos nyid* — dharma-nature (the object of vision)
+**Terminological Precision:**
 
-The compound means "seven likenesses of dharma-nature"—not seven different things but seven perspectives on the single reality. This shows the richness of Tibetan technical vocabulary for expressing subtle philosophical points.
+The term *ru shan* (line 2291, 2152) requires analysis:
+- Literal: Border/boundary
+- Technical: Distinction/demarcation
+- Context: Distinguishing saṃsāra from nirvāṇa
+- Function: The critical juncture where recognition occurs
 
-[2501-2550] <context>
-Comparison with Other Presentations
-**Analysis:** Similar sevenfold structures appear elsewhere:
-- **Mahayana:** Seven bhumis (grounds)
-- **Tantric:** Seven initiations  
-- **Dzogchen:** Seven dimensions of rigpa
+**Particle Patterns:**
+- *dang* (connective): Links the ten dharmas
+- *te* (quotative): Marks cited passages
+- *zhing* (continuative): Indicates ongoing practice
 
-Longchenpa's presentation is distinctive in connecting these seven directly to dharma-nature rather than to stages of progression. This reflects the Dzogchen view that realization is immediate, not gradual.
+[2351-2418] <structure>
+## Advanced Practice: Direct Introduction
 
-[2551-2600] <structure>
-The First Three Visions: Foundational
-**Analysis:** The first three of seven:
-1. **Dharma-nature vision:** The basis (what is)
-2. **Arising vision:** The manifestation (how it appears)
-3. **Consciousness vision:** The experiencer (who sees)
+**Analysis:** Lines 2351-2418 present the advanced conduct where appearances become the path:
 
-These three establish the fundamental framework: reality, appearance, and awareness. The subsequent four elaborate on this foundation.
+**Five Key Instructions:**
 
-[2601-2650] <concept>
-The Middle Four Visions: Refinement
-**Analysis:** The middle four:
-4. **Quality vision:** The qualities present
-5. **Activity vision:** The dynamic expression
-6. **Base vision:** The ground (gzhi)
-7. **Path and fruition vision:** Integration
+1. **Whatever appears, stare intensely** (*cher gyis bltas*):
+   - Result: *Zang thal* - unobstructed liberation
+   - Mechanism: Intensity dissolves fixation
 
-These show the full development from base to fruit, demonstrating that the three experiences lead to complete realization.
+2. **Let mind relax intensely** (*ye re mnyam par 'jog*):
+   - Result: *Gnyis med* - non-dual experience
+   - Mechanism: Relaxation reveals natural state
 
-[2651-2688] <context>
-Conclusion: The Integration Complete
-**Analysis:** The three experiences and sevenfold vision together represent the complete Anuyoga/Dzogchen path:
+3. **Appearance-thought self-liberated** (*snang rtog rang grol*):
+   - Result: Like snow on stone
+   - Mechanism: Natural dissolving without intervention
 
-- **Method:** The three experiences (practical training)
-- **View:** The sevenfold vision (correct understanding)
-- **Result:** Spontaneous liberation
+4. **Five elements as path** (*'byung ba lnga lam du byed*):
+   - Result: Body signs (*lus kyi rtags*) emerge
+   - Mechanism: Elemental transformation
 
-Longchenpa concludes by emphasizing that this presentation synthesizes the essence of all Nyingma teachings, representing the mature expression of the tradition.
+5. **Non-conceptual wisdom** (*mi rtog ye shes*):
+   - Result: Concept-fixation ceases
+   - Mechanism: Beyond thought yet luminously aware
 
-[2651-2688] <structure>
-Final Synthesis: Why This Matters
-**Analysis:** This section demonstrates:
-1. Nyingma practices are systematic, not arbitrary
-2. The path progresses from foundation to fruition
-3. Integration of method and wisdom is essential
-4. The presentation represents Longchenpa's synthesis
+**Critical Passage:** Lines 2386-2401 cite *Mu tig phreng ba*:
 
-This reflects the mdzod genre's purpose: providing comprehensive doxographical coverage while maintaining practical accessibility.
+> "Aggregates, elements, sense-bases... liberated into families and family-lords..."
+
+This establishes the *sngags* (mantra) view that defilements are themselves liberated—not removed but recognized as wisdom-display.
+
+[2418-2520] <philology>
+## Meditation Techniques: Sevenfold Mind-Fixation
+
+**The Seven Bindu Trainings:**
+
+Lines 2462-2516 present seven methods of mind-fixation (*sems 'dzin bdun*):
+
+1. **White A at nose-tip** (*sna rtser a dkar*):
+   - *Dang po'i phra mo'i ngang* - first subtle state
+   - Coordinates with exhalation (*phyir 'gro*) and inhalation (*nang 'gengs*)
+
+2. **Phat sudden shock** (*phat drag por*):
+   - For lethargy/heaviness
+   - *Had de ba* - shock-awareness
+
+3. **Wrathful laughter** (*khro bo dgyes pa'i gad mo*):
+   - *Ha drag la thung bar* - forceful short HA
+   - Generates clear-luminosity
+
+4. **Non-god conflict** (*lha ma yin rtsod 'gyed*):
+   - At mountain peak (*ri rtse*) or rock (*brag*)
+   - Body movement (*lus bskyod*) and compression (*sgri*)
+   - Result: External visions (*phyi'i snang ba*) transform
+
+5. **Hum repulsion** (*hūṃ yi ge*):
+   - Coordinate with wind (*rlung dang bsres*)
+   - *Rnam rtog chos nyid du sangs* - thoughts dissolve into dharmatā
+
+6. **Ram at navel** (*lte bar rāṃ*):
+   - Fire visualization
+   - *Rnam rtog* eliminated
+
+7. **Deity body** (*lha'i sku*):
+   - Hair-pore (*ba spu*) emanation
+   - *'Od gsal dag pa* - pure luminosity
+
+**Technical Terminology:**
+- *Yid byed* - mental engagement
+- *Rtse gcig* - one-pointed
+- *Ye re mnyam par 'jog* - relax evenly
+- *Thog tu 'phebs* - arrive at threshold
+- *Gzer 'jug* - penetrate
+- *Mnyam par bzhag* - equipoise
+
+[2418-2688] <context>
+## Comparative Meditation Systems
+
+**Nyingma *Sems 'dzin* vs Other Systems:**
+
+| System | Mind-Fixation | Characteristics |
+|--------|---------------|-----------------|
+| Theravāda | *Samādhi-bhāvanā* | Breath at nose-tip, stages of *jhāna* |
+| Zen | *Zazen* | Just sitting, koan introspection |
+| Mahāmudrā | *Phyag chen* | Mahāmudrā pointing-out, non-meditation |
+| This System | *Sems 'dzin bdun* | Deity, bindu, sound, shock methods |
+
+**Dzogchen Distinctions:**
+- Not concentration (*bsdu*) but natural abiding (*rang gnas*)
+- Not transformation (*bsgyur*) but recognition (*ngo shes*)
+- Not achievement (*sgrub*) but spontaneity (*lhun grub*)
+
+**Longchenpa's Synthesis:**
+Lines 2672-2688 distinguish:
+- *Rang bzhin gyi bsam gtan* - natural samādhi (effortless)
+- *Bcos ma'i bsam gtan* - artificial samādhi (effortful)
+
+This distinction is unique to Dzogchen and differentiates it from all other Buddhist meditation systems.
+
+[2500-2688] <concept>
+## Bodhisattva Samādhi Systems
+
+**Analysis:** Lines 2638-2688 present the bodhisattva samādhi (*byang chub sems dpa'i bsam gtan*) system:
+
+**Three Types:**
+
+1. **Nature-force samādhi** (*rang bzhin shugs kyi bsam gtan*):
+   - Naturally non-conceptual (*mi rtog pa ngang gis*)
+   - Spontaneously accomplished (*lhun grub*)
+   - Mere body-speech settling (*lus ngag rnal du 'bebs pa*)
+
+2. **Reference-support samādhi** (*dmigs pa rgyud rten gyi bsam gtan*):
+   - Afflictions without self-nature
+   - View-antidote meditation
+   - Mere suppression (*mgo gnon pa*)
+
+3. **Ground-abiding samādhi** (*sa la gnas pa'i bsam gtan*):
+   - Ground-level samādhi
+   - Self-ground latency purification (*rang sa'i bag chags sbyong ba*)
+
+**Philosophical Implications:**
+These three represent:
+- Natural state (*gshis*) - Dzogchen
+- Path method (*lam thabs*) - Sutra/Tantra
+- Fruition ground (*'bras sa*) - Bodhisattva bhūmis
+
+**Key Distinction:** Only the first (natural samādhi) can "indicate the great meaning" (*don chen mtshon*). The others are preparatory.
+
+**Scriptural Source:** Lines 2663-2671 cite *Nyi zla kha sbyor*:
+
+> "Mahāyāna samādhi: By nature-force samādhi, unconditioned body-speech settles..."
+
+This establishes the natural samādhi as the pinnacle of practice.
