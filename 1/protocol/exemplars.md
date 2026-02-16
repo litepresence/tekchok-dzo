@@ -852,7 +852,7 @@ Full documentation: `/home/opencode/MDZOD/1/quality/LITURGICAL_AND_METER_QUALITA
 ### EXEMPLAR 1: Cosmological Description (Adequate Coverage)
 **File:** `01-02-01-05.txt` | **Lines:** 999-1008
 **Tibetan:** ~15KB | **Delusion:** ~10KB | **Ratio:** ~0.66x
-**Qualitative:** 🟡 Adequate—comprehensive cascade mapping, distinct error types, page bleed awareness
+**Qualitative:** 🟡 Adequate—comprehensive cascade mapping, distinct error types
 **Content:** Four Great Kings, celestial palaces, cosmic measurements
 
 ```
@@ -1060,7 +1060,7 @@ Page 6414-6688 presents Trekcho completion and Thogal introduction—culmination
 4. **Cascade Chains:** Minimum 3-4 triggered errors per root error
 5. **No Corrections:** Never state correct view or offer practice guidance
 6. **Clinical Tone:** Unsentimental, exact, unsensational
-7. **Cross-Layer Awareness:** Note page bleed, continuity, related sections
+7. **Cross-Layer Awareness:** Note continuity, related sections
 8. **Scholar Coordination:** Flag when scholar layer check needed
 
 ### Expansion Protocol for Critical Gaps (Qualitative Priority):
@@ -1070,8 +1070,7 @@ When qualitative assessment reveals insufficient coverage:
 1. **Identify all doctrinal points** in Tibetan source
 2. **Generate 2-3 error types per point** (literalization, psychologization, nihilism, etc.)
 3. **Map cascade chains** for each error type
-4. **Add page bleed analysis** for context
-5. **Verify qualitatively** - comprehensive coverage? distinct errors? cascade chains?
+4. **Verify qualitatively** - comprehensive coverage? distinct errors? cascade chains?
 6. **Byte ratio check** - diagnostic only, not target
 
 **NOTE:** Line counts are irrelevant. Byte ratios are diagnostic guide rails. Qualitative comprehensiveness is primary.
@@ -1858,8 +1857,7 @@ The following section files demonstrate exceptional cognitive layer quality afte
 
 #### Priority 2 (Quality Polish):
 4. Review sentence length in liturgical layer (target <40 words)
-5. Verify page bleed continuity at major transitions
-6. Cross-check Dzogchen terminology consistency
+5. Cross-check Dzogchen terminology consistency
 
 #### Priority 3 (Maintenance):
 7. Continue batch review through remaining 872 pages

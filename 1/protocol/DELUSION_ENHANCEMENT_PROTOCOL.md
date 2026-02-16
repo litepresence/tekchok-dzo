@@ -17,7 +17,7 @@
 ✅ Multi-layer "Why it arises" (cognitive, cultural, linguistic, historical)
 ✅ Four-dimensional consequence mapping (primary, secondary, long-term, social)
 ✅ Clear cascade effect chains
-✅ Cross-layer awareness (related errors, page bleed)
+✅ Cross-layer awareness (related errors)
 ✅ Safety-critical flagging where appropriate
 ✅ Precise line references [start-end]
 ✅ Realistic, recognizable misreading scenarios

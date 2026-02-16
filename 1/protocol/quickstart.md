@@ -67,7 +67,7 @@ The project uses **section-based** files (01-01-01-01.txt):
 ✅ **Deep Analysis** - Multi-layer "Why it arises" (cognitive, cultural, historical)  
 ✅ **Consequence Mapping** - Primary, secondary, long-term, and social effects  
 ✅ **Cascade Effects** - Clear error propagation chains  
-✅ **Cross-Layer Awareness** - Related errors and page bleed noted  
+✅ **Cross-Layer Awareness** - Related errors noted  
 ✅ **Safety Flags** - Critical errors marked explicitly  
 
 **Byte Ratio Diagnostics:**

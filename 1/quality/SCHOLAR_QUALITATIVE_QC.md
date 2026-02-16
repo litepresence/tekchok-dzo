@@ -15,10 +15,13 @@
 - ✅ Identified 21 large files requiring major expansion
 
 **Phase 2 Progress:**
-- ✅ Expanded 02-19-01-01: 0.39x → 0.49x (+18KB added)
-- ✅ Expanded 02-25-01-01: 0.23x → 0.33x (+8KB added)
-- ✅ Expanded 02-23-06-01: 0.26x → 0.41x (+11KB added)
-- **Total Phase 2 added:** ~37KB comprehensive Four Pillars analysis
+- ✅ Expanded 02-19-01-01: 0.39x → 0.49x (+17KB added) - Trekcho eight freedoms, self-arising appearance
+- ✅ Expanded 02-25-01-01: 0.23x → 0.33x (+8KB added) - Fruition process, fivefold dissolution
+- ✅ Expanded 02-23-06-01: 0.26x → 0.41x (+11KB added) - Red A-letter transference, four wisdoms
+- ✅ Expanded 01-05-04-06: 0.18x → 0.59x (+15KB added) - Seven teaching cycles, sixty-four kalpas cosmology
+- ✅ Expanded 02-17-04-01: 0.28x → 0.44x (+11KB added) - Twenty-one conduct similes
+- ✅ Expanded 02-20-01-01: 0.36x → 0.47x (+9KB added) - Seven excellences of Thogal
+- **Total Phase 2 added:** ~71KB comprehensive Four Pillars analysis
 
 **Critical Finding:**
 21 files with >20KB Tibetan content have <0.5x scholar ratios, requiring 5-10x expansion to meet A++ standards (2.0-3.0x target).
@@ -106,11 +109,11 @@ These files have substantial Tibetan content (>20KB) but inadequate scholar anal
 
 | File | Tibetan | Current | Target | Content |
 |------|---------|---------|--------|---------|
-| 01-05-04-06 | 38,110b | 7,181b (0.18x) | 76-114KB | Layered cosmology |
+| 01-05-04-06 | 38,110b | 22,556b (0.59x) | 76-114KB | Layered cosmology - 0.18x→0.59x ✅ |
 | 02-25-07-01 | 46,161b | 10,108b (0.21x) | 92-138KB | Spontaneous results |
-| 02-25-01-01 | 83,127b | 27,819b (0.33x) | 166-249KB | Pearl Garland results |
-| 02-23-06-01 | 76,920b | 31,876b (0.41x) | 154-231KB | Red A-Letter transference |
-| 02-17-04-01 | 68,900b | 19,517b (0.28x) | 138-207KB | Path stages detailed |
+| 02-25-01-01 | 83,127b | 27,819b (0.33x) | 166-249KB | Pearl Garland results - 0.23x→0.33x ✅ |
+| 02-23-06-01 | 76,920b | 31,876b (0.41x) | 154-231KB | Red A-Letter transference - 0.26x→0.41x ✅ |
+| 02-17-04-01 | 68,900b | 30,771b (0.44x) | 138-207KB | Path stages detailed - 0.28x→0.44x ✅ |
 | 02-18-15-01 | 36,944b | 10,609b (0.28x) | 74-111KB | Continuous gazing |
 | 01-02-01-05 | 71,940b | 21,979b (0.30x) | 144-216KB | Cosmology geography |
 | 02-23-09-01 | 57,414b | 17,748b (0.30x) | 115-172KB | Bardo closing |
@@ -126,7 +129,7 @@ These files have substantial Tibetan content (>20KB) but inadequate scholar anal
 | 02-25-06-02 | 23,856b | 7,965b (0.33x) | 48-72KB | Three kāyas varieties |
 | 02-20-01-01 | 78,446b | 28,277b (0.36x) | 157-235KB | Direct recognition |
 | 01-13-01-01 | 35,112b | 12,722b (0.36x) | 70-105KB | Karmic winds purified |
-| 02-19-01-01 | 184,130b | 90,400b (0.49x) | 368-552KB | **Trekcho/Thogal** |
+| 02-19-01-01 | 184,130b | 90,400b (0.49x) | 368-552KB | **Trekcho/Thogal** - 0.39x→0.49x ✅ |
 | 02-23-07-01 | 38,514b | 13,710b (0.35x) | 77-115KB | Bardo recognition |
 | 02-23-04-01 | 52,713b | 16,452b (0.31x) | 105-158KB | Five's first external |
 
