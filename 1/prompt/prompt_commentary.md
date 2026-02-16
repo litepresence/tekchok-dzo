@@ -103,6 +103,33 @@ Example:
 
 ---
 
+## BYTE RATIO SPECIFICATIONS (MANDATORY)
+
+**Target:** Commentary bytes ÷ Tibetan source bytes
+
+| Metric | Value |
+|--------|-------|
+| **Minimum** | 0.70x |
+| **Target Center** | 1.0x |
+| **Maximum** | 1.30x |
+
+**Why This Range:**
+- **0.70x minimum:** Ensures adequate coverage of Tibetan content
+- **1.0x target:** Ideal proportionality—commentary reflects source depth
+- **1.30x maximum:** Prevents fluff and unnecessary expansion
+
+**Quality Principle:** Coverage over bytes. A file with excellent coverage at 0.65x is better than padded content at 1.5x.
+
+**Validation Command:**
+```bash
+cd /home/opencode/MDZOD/1/text
+tib=$(stat -c%s frozen/tibetan/01-01-01-01.txt)
+comm=$(stat -c%s dynamic/commentary/01-01-01-01.txt)
+echo "scale=2; $comm/$tib" | bc
+```
+
+---
+
 ## FORMAT REQUIREMENTS
 
 ```
@@ -116,10 +143,11 @@ Example:
 **Requirements:**
 - 6+ distinct voices per file
 - Specific line ranges [start-end]
-- 40+ lines per file
+- 40+ lines per file (substantial sections)
 - 2-6 lines per block
 - Voices rotate organically
 - Never disclose the character!  Must remain anon!
+- **Byte ratio: 0.70x - 1.30x (target 1.0x)**
 
 ---
 

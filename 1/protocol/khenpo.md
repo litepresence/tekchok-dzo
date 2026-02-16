@@ -2,6 +2,8 @@
 
 **ACQUAINTANCE:** This document contains critical review feedback from a Dzogchen lineage holder (Khenpo) on the translation quality and doctrinal accuracy.
 
+> **⚠️ PROTOCOL UPDATE (2026-02-16):** This review references "lines per page" metrics for historical context. **Current quality standards prioritize:** (1) Full coverage of Tibetan source material, (2) Zero fluff/repetition, (3) Byte ratios as proportionality checks (not quotas). Line counts are irrelevant due to extreme variation in Tibetan source length (1 line to 1000+ lines per section).
+
 **Review Date:** 2026-02-08 (Comprehensive Audit Complete)  
 **Reviewer:** Khenpo (Dzogchen Lineage Holder)  
 **Project Status:** Foundation Complete, Superstructure Bipolar  

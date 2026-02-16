@@ -36,12 +36,12 @@ text/
 
 Reference: `quality/byte_ratio_table.md` (all 213 sections)
 
-| Layer | Min | Target | Max |
-|-------|-----|--------|-----|
-| Commentary | 0.6x | 0.8-1.5x | 2.0x |
-| Scholar | 1.0x | 1.5-3.0x | 4.0x |
-| Delusion | 0.7x | 1.0-2.0x | 3.0x |
-| Epistemic | 0.3x | 0.5-1.0x | 1.5x |
+| Layer | Min | Target Center | Max |
+|-------|-----|---------------|-----|
+| Commentary | 0.70x | 1.0x | 1.30x |
+| Scholar | 1.0x | 2.0x | 4.0x |
+| Delusion | 0.7x | 1.5x | 3.0x |
+| Epistemic | 0.3x | 0.75x | 1.5x |
 
 **Why Bytes, Not Lines:**
 - Line counts vary with formatting
@@ -56,7 +56,8 @@ for f in frozen/tibetan/*.txt; do
   tib=$(stat -c%s $f)
   comm=$(stat -c%s dynamic/commentary/$s.txt 2>/dev/null || echo 0)
   ratio=$(echo "scale=2; $comm/$tib" | bc 2>/dev/null || echo 0)
-  [ "$ratio" != "0" ] && [ $(echo "$ratio < 0.6" | bc) -eq 1 ] && echo "$s: $ratio"
+  [ "$ratio" != "0" ] && [ $(echo "$ratio < 0.70" | bc) -eq 1 ] && echo "$s: $ratio (BELOW MIN)"
+  [ "$ratio" != "0" ] && [ $(echo "$ratio > 1.30" | bc) -eq 1 ] && echo "$s: $ratio (ABOVE MAX)"
 done
 ```
 
@@ -113,5 +114,18 @@ done
 
 ---
 
-**Version:** 9.0 (2026-02-15)  
-**Last Updated:** Byte-ratio quality system (more accurate than line ratios)
+**CRITICAL QUALITY PRINCIPLES:**
+
+1. **Full Coverage of Root Material** - Every significant concept, term, and doctrinal point in the Tibetan source must be addressed in the dynamic layer
+2. **Zero Fluff** - No padding, repetition, or generic filler content 
+3. **Byte Ratios as Guidelines** - The byte ratio targets are standards to check proportionality, NOT quotas to fill
+4. **Line Counts Are Irrelevant** - Tibetan sources vary from 1 line to 1000+ lines; line count is never a valid quality metric
+
+**Quality Hierarchy:**
+- ✅ A++: Comprehensive coverage, precise terminology, no fluff, appropriate byte ratio
+- ✅ A+: Minor gaps but solid coverage, good terminology
+- ⚠️  B: Inadequate coverage or excessive fluff despite "good" byte ratio
+- 🔴 C: Missing major content or filled with repetitive/generic text
+
+**Version:** 9.1 (2026-02-16)  
+**Last Updated:** Quality-first standards (coverage > bytes > lines)
