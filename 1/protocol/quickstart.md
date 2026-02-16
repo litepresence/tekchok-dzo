@@ -53,10 +53,7 @@ The project uses **section-based** files (01-01-01-01.txt):
 
 | Layer | Target Range | Minimum | Maximum |
 |-------|-------------|---------|---------|
-| **Wylie** | (fixed) | 0.43 | 0.45 |
-| **Literal** | (fixed) | 0.38 | 0.42 |
-| **Liturgical** | (fixed) | 0.45 | 0.60 |
-| Cognitive | 0.2-0.8 | 0.20 | 0.80 |
+| Cognitive | 0.3-0.7 | 0.30 | 0.70 |
 | Commentary | 0.7-1.5 | 0.70 | 1.50 |
 | Delusion | 0.7-2.0 | 0.70 | 2.00 |
 | Epistemic | 0.3-1.0 | 0.30 | 1.00 |
@@ -169,6 +166,8 @@ echo "Current: ${ratio}x (need 0.7-1.5x, target ~1.0x)"
 # Read the layer prompt for guidance
 read prompt/prompt_${layer}.md
 
+# The commentary prompt is particularly tricky! PAY ATTENTION!
+
 # Read exemplars for this layer
 read protocol/exemplars.md
 # Look for sections with good ratios in the target range
@@ -228,7 +227,7 @@ targets = {
     'wylie': (0.43, 0.45),
     'literal': (0.38, 0.42),
     'liturgical': (0.45, 0.60),
-    'cognitive': (0.2, 0.8),
+    'cognitive': (0.3, 0.7),
     'commentary': (0.7, 1.5),
     'delusion': (0.7, 2.0),
     'epistemic': (0.3, 1.0),
