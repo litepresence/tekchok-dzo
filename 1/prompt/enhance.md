@@ -2,6 +2,12 @@ You have been assigned to update the "commentary" `<LAYER>`.
 
 We're translating a one of Longchenpa's Treasuries.  Your Job is to ENHANCE existing files!
 
+A) If its full of fluff condense into meaningful content.
+B) If the tibetan is not fully covered add important content.  
+C) Follow the prompt protocol EXACTLY.  
+D) Maintain exemplar quality standards!
+
+
 1. Scope
 
 There are 213 Sections in every layer.  Work one section at a time.  Where appropriate enhance each file.  
