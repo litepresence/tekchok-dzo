@@ -101,7 +101,7 @@ D) If content already meets A++ standards, proceed without modification—do not
 9. **Quality Control Reporting**  
    - **Delete** any existing QC report:  
      - `/home/opencode/MDZOD/1/quality/<LAYER>_QUALITATIVE_QC.md`  
-   - Create fresh reports using `quality/Template.md`  
+   - Create fresh reports using `quality/Template.md`  and your layer name eg. `<LAYER>_QUALITATIVE_QC.md`  
    - Document every reviewed file with completion status:
 
    ```
