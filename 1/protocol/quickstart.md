@@ -49,28 +49,63 @@ The project uses **section-based** files (01-01-01-01.txt):
 
 **Reference:** `quality/byte_ratio_table.md` contains pre-computed ratios for all 213 sections × 9 layers
 
-### TARGET BYTE RATIOS FOR ALL LAYERS
+### QUALITY CRITERIA WITH BYTE RATIO AS DIAGNOSTIC
 
-| Layer | Target Range | Hard Min | Hard Max | Center | Notes |
-|-------|-------------|----------|----------|--------|-------|
-| Cognitive | 0.3-0.7x | 0.30 | 0.70 | 0.50x | Translator logs |
-| Commentary | 0.8-1.5x | 0.70 | 2.00 | 1.00x | Heart instruction |
-| **Delusion** | **1.0-1.8x** | **0.70** | **2.50** | **1.40x** | **Quality-critical safety layer** |
-| **Epistemic** | **0.6-1.0x** | **0.40** | **1.50** | **0.75x** | **View stratification - concise but comprehensive** |
-| Scholar | 1.5-3.0x | 1.00 | 4.00 | 2.00x | Academic context |
+**Core Principle:** Qualitative depth over quantitative targets. Use byte ratio to identify potential gaps, not as rigid requirements.
 
-**Delusion Layer Priority Adjustments:**
-- Standard sections: Aim for 1.0-1.5x
-- Philosophical chapters (Ch 4, 5, 11, 12, 18-25): Aim for 1.5-1.8x
-- Structural fragments (<50 lines): Minimum 0.7x acceptable
-- Never exceed 2.5x (indicates fluff, not quality)
+| Layer | Typical Range | Diagnostic Min | Diagnostic Max | Notes |
+|-------|---------------|----------------|----------------|-------|
+| Cognitive | 0.3-0.7x | 0.20 | 1.00x | Translator logs - concise |
+| Commentary | 0.8-1.5x | 0.60 | 2.50x | Heart instruction - needs space |
+| **Delusion** | **0.8-1.5x** | **0.50** | **2.50x** | **Safety layer - quality over quantity** |
+| **Epistemic** | **0.5-1.0x** | **0.40** | **1.50x** | **View stratification - precise** |
+| Scholar | 1.5-3.0x | 1.00 | 4.00x | Academic context - comprehensive |
 
-**Epistemic Layer Priority Adjustments:**
-- Standard sections (100-500 bytes): Aim for 0.6-1.0x
-- Complex philosophical sections (500+ bytes): Aim for 0.8-1.2x
-- Brief fragments (<100 bytes): 0.4-0.8x acceptable
-- Never exceed 1.5x (indicates generic template language, not quality)
-- Below 0.4x on doctrinal material indicates missing view distinctions
+**DELUSION LAYER QUALITY CHECKLIST (More Important Than Byte Ratio):**
+
+✅ **Comprehensive Coverage** - All significant misinterpretations identified  
+✅ **Deep Analysis** - Multi-layer "Why it arises" (cognitive, cultural, historical)  
+✅ **Consequence Mapping** - Primary, secondary, long-term, and social effects  
+✅ **Cascade Effects** - Clear error propagation chains  
+✅ **Cross-Layer Awareness** - Related errors and page bleed noted  
+✅ **Safety Flags** - Critical errors marked explicitly  
+
+**Byte Ratio Diagnostics:**
+- **<0.5x**: ALERT - Likely missing critical error coverage. Verify comprehensiveness.
+- **0.5x-0.8x**: CAUTION - Check if cascade mapping and secondary consequences are adequate
+- **0.8x-1.5x**: NOMINAL - Typical range for well-covered sections
+- **>2.0x**: REVIEW - Check for redundancy or fluff
+
+**Section-Type Guidance:**
+- **Structural Fragments** (<50 lines): 1-3 error blocks, minimal ratio concern
+- **Standard Sections** (50-200 lines): 5-15 blocks with full cascade mapping
+- **Philosophical Chapters** (>200 lines): 15-30+ blocks with cross-references
+
+**NEVER add content solely to hit a ratio. Stop when errors are comprehensively mapped.**
+
+---
+
+**EPISTEMIC LAYER QUALITY CHECKLIST (More Important Than Byte Ratio):**
+
+✅ **Comprehensive Coverage** - Every major doctrinal point from Tibetan source classified  
+✅ **Specific Terminology** - Technical terms (ka-dag, lhun-grub, kun gzhi, chos sku, rig pa) explicitly named  
+✅ **Zero Generic Content** - No template phrases ("This passage presents...", "sophisticated hermeneutical strategy...")  
+✅ **View Precision** - Specific view-register (dzogchen-rigpa, tantric-transformative, sutric-provisional)  
+✅ **Citation Integration** - Root text citations identified with functional context  
+✅ **Risk Contextualization** - Specific doctrinal tension points flagged (not generic "reification")
+
+**Byte Ratio Diagnostics:**
+- **<0.4x**: ALERT - Likely missing view distinctions. Verify comprehensive coverage.
+- **0.4x-0.8x**: CAUTION - Check if all technical terms and citations are classified
+- **0.8x-1.2x**: NOMINAL - Typical range for well-classified sections
+- **>1.5x**: REVIEW - Check for generic fluff patterns
+
+**Section-Type Guidance:**
+- **Brief sections** (<100 bytes): 0.4-0.8x, focus on precise view classification
+- **Standard sections** (100-500 bytes): 0.6-1.0x, comprehensive doctrinal analysis
+- **Complex sections** (500+ bytes): 0.8-1.2x, detailed view stratification
+
+**NEVER add content to meet ratio. Stop when all doctrinal points are specifically classified.**
 
 ---
 
@@ -143,14 +178,14 @@ done | sort -t: -k3 -n | head -10
 
 # Find worst Epistemic deviations
 echo ""
-echo "=== EPISTEMIC - WORST DEVIATIONS (below 0.3x) ==="
+echo "=== EPISTEMIC - WORST DEVIATIONS (below 0.4x) ==="
 for f in frozen/tibetan/*.txt; do
   section=$(basename $f .txt)
   tib=$(stat -c%s "$f")
   epi=$(stat -c%s dynamic/epistemic/${section}.txt 2>/dev/null || echo 0)
   [ "$epi" != "0" ] && ratio=$(echo "scale=2; $epi/$tib" | bc) && 
-    [ $(echo "$ratio < 0.3" | bc) -eq 1 ] && 
-    deviation=$(echo "scale=2; 0.3 - $ratio" | bc) &&
+    [ $(echo "$ratio < 0.4" | bc) -eq 1 ] && 
+    deviation=$(echo "scale=2; 0.4 - $ratio" | bc) &&
     echo "$section: $ratio (deviation: -${deviation})"
 done | sort -t: -k3 -n | head -10
 ```

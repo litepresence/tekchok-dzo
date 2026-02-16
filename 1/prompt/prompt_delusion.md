@@ -37,32 +37,67 @@ Your tone: clinical, exact, unsentimental.
 
 ---
 
-## BYTE RATIO TARGET
+## QUALITY CRITERIA (QUALITATIVE PRIORITY)
 
-**Optimal Range:** 1.0x - 1.8x of Tibetan source bytes  
-**Center Target:** ~1.4x (produces highest quality coverage)  
-**Hard Minimum:** 0.7x (never go below - safety critical)  
-**Hard Maximum:** 2.5x (prevents fluff while allowing complex cascade mapping)
+**Core Principle:** Depth of insight matters more than byte count. Analyze until the section's failure modes are fully mapped—then stop. No padding.
 
-**Section-Type Guidance:**
-- **Structural Fragments** (under 50 lines): 0.7x - 1.0x (minimal content, key errors only)
-- **Standard Sections**: 1.0x - 1.5x (comprehensive error coverage)
-- **Philosophical Chapters** (Madhyamaka/Dzogchen): 1.5x - 1.8x (extensive cascade mapping)
-- **Maximum Exception**: Up to 2.5x only for extraordinarily complex sections with multiple intersecting errors
+### A++ Quality Markers
 
-**Why This Range Produces Highest Quality:**
-- **Below 0.7x**: Misses critical failure modes, cascade effects, and contextual nuance
-- **0.7x - 1.0x**: Adequate for simple sections but risks being too sparse for safety-critical content
-- **1.0x - 1.8x**: OPTIMAL - Comprehensive error coverage with clear cascade mapping without redundancy
-- **Above 2.5x**: Diminishing returns; excess verbiage obscures rather than clarifies
+**1. Comprehensive Error Coverage**
+- Every significant misinterpretation identified
+- No high-risk error unaddressed
+- Distinct errors remain separate (don't merge)
+- Safety-critical errors flagged explicitly
 
-**Quality Check:**
+**2. Depth of Analysis**
+**Misreading:** Specific, realistic, and immediately recognizable to practitioners who've fallen into this trap
+**Why it arises:** Multi-layer explanation including:
+- Cognitive attractor (why it feels intuitively right)
+- Cultural projection (Western/Buddhist/historical context)
+- Linguistic ambiguity (word choices that invite misreading)
+- Historical precedents (how this error has manifested)
+
+**3. Consequence Mapping**
+**Primary:** Immediate, inevitable degradation if adopted
+**Secondary:** Downstream effects days/weeks later
+**Long-term:** Years of practice distortion
+**Social:** Community/lineage transmission damage
+
+**4. Cascade Effects**
+Clear chains showing how errors propagate:
+```
+<root-error> → <secondary-error> → <tertiary-error>
+[Specific mechanism of each transition]
+```
+
+**5. Cross-Layer Awareness**
+- Related errors in same chapter
+- Propagation to subsequent sections
+- Page bleed (how errors here affect later understanding)
+
+### Byte Ratio as Diagnostic Tool
+
+**Purpose:** Identify potentially undersized sections, not rigid targets
+
 ```bash
 tib=$(stat -c%s frozen/tibetan/01-01-01-01.txt)
 del=$(stat -c%s dynamic/delusion/01-01-01-01.txt)
 ratio=$(echo "scale=2; $del/$tib" | bc)
-echo "Ratio: ${ratio}x (Target: 1.0-1.8x, Center: ~1.4x)"
+echo "Diagnostic ratio: ${ratio}x"
 ```
+
+**Interpretation:**
+- **<0.5x**: ALERT - Likely missing critical error coverage (verify comprehensiveness)
+- **0.5x-0.8x**: CAUTION - May be sparse on cascade mapping or secondary consequences
+- **0.8x-1.5x**: NOMINAL - Typical range for adequate coverage
+- **>2.0x**: REVIEW - Check for redundancy or fluff
+
+**Section-Type Guidance:**
+- **Structural Fragments** (<50 lines): 1-3 error blocks covering key risks
+- **Standard Sections** (50-200 lines): 5-15 blocks with full cascade mapping
+- **Philosophical Chapters** (>200 lines): 15-30+ blocks with extensive cross-references
+
+**Never add content solely to hit a ratio. Stop when errors are comprehensively mapped.**
 
 ---
 

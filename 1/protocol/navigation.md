@@ -117,13 +117,39 @@ done | sort -t= -k3 -n | tail -20
 
 ### ALL LAYER TARGETS (Reference)
 
-| Layer | Hard Min | Optimal Range | Center | Hard Max |
-|-------|----------|---------------|--------|----------|
-| Commentary | 0.70x | 0.8-1.5x | 1.0x | 2.0x |
-| **Scholar** | **0.5x** | **1.5-3.0x** | **2.0x** | **5.0x** |
-| **Delusion** | **0.7x** | **1.0-1.8x** | **1.4x** | **2.5x** |
-| **Epistemic** | **0.4x** | **0.6-1.0x** | **0.75x** | **1.5x** |
-| Cognitive | 0.2x | 0.3-0.8x | 0.5x | 1.0x |
+| Layer | Typical Range | Diagnostic Alert | Diagnostic Review | Focus |
+|-------|---------------|------------------|-------------------|-------|
+| Commentary | 0.8-1.5x | <0.60x | >2.50x | Heart instruction |
+| **Scholar** | **1.5-3.0x** | **<1.00x** | **>5.00x** | **Four Pillars depth** |
+| **Delusion** | **0.8-1.5x** | **<0.50x** | **>2.50x** | **Error coverage quality** |
+| **Epistemic** | **0.5-1.0x** | **<0.40x** | **>1.50x** | **View precision** |
+| Cognitive | 0.3-0.8x | <0.20x | >1.00x | Translator notes |
+
+**Note:** Ratios are diagnostic tools, not targets. Prioritize qualitative criteria over byte counts.
+
+### EPISTEMIC LAYER QUALITY CRITERIA (A++ Standard)
+
+**⚠️ QUALITATIVE ASSESSMENT IS PRIMARY**
+
+**A++ Requirements:**
+1. **Comprehensive Coverage** - Every major doctrinal point classified
+2. **Specific Terminology** - Technical terms (ka-dag, lhun-grub, kun gzhi, chos sku) explicitly named
+3. **Zero Generic Content** - No template phrases ("This passage presents...")
+4. **View Precision** - Specific view-register (dzogchen-rigpa, tantric-transformative, sutric-provisional)
+5. **Citation Integration** - Root text citations identified with functional context
+6. **Risk Contextualization** - Specific doctrinal tension points flagged
+
+**Diagnostic Indicators:**
+
+| Warning | Ratio | Meaning | Action |
+|---------|-------|---------|--------|
+| INCOMPLETE | <0.4x on doctrinal material | May miss view distinctions | Check coverage of major points |
+| FLUFF | >1.5x | May contain generic padding | Check: Is every sentence passage-specific? |
+| HEALTHY | 0.5-1.2x | Proportionate | Verify 6 qualitative criteria above |
+
+**⚠️ CRITICAL:** Files can have adequate byte ratios but be LOW QUALITY (generic content).
+Files can have low byte ratios but be HIGH QUALITY (minimal but specific).
+**ALWAYS prioritize qualitative assessment.**
 
 ---
 
