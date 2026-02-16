@@ -8,7 +8,7 @@ This document catalogs exemplary sections from each translation layer to serve a
 
 **PRIMARY BUILD NOW IN `text/` FOLDER**
 
-The project has migrated from **page-based** files (PAGE_XXX.txt in volume_1/, volume_2/) to **section-based** files (VV-CC-SS-SS.txt in text/).
+The project uses files (VV-CC-SS-SS.txt in text/).
 
 **Section ID Format:** `VV-CC-SS-SS.txt`
 - **VV:** Volume (01 or 02)
@@ -21,9 +21,9 @@ All exemplars use the section-based format (`VV-CC-SS-SS.txt`) with line numbers
 
 **CRITICAL: XML Tag Placement**
 The correct format is **ALWAYS**: `[line_number] <xml_tag> content`
-- Line number in brackets FIRST: `[1]`, `[2]`, etc.
-- Then XML tag: `<ornament>`, `<verse>`, `<tantra>`, `<list>`, `<prose>`
-- Then content
+1) Line number in brackets FIRST: `[1]`, `[2]`, etc.
+2) Then XML tag: `<ornament>`, `<verse>`, `<tantra>`, `<list>`, `<prose>`
+3) Then content
 
 **Examples:**
 ```
@@ -40,6 +40,8 @@ The correct format is **ALWAYS**: `[line_number] <xml_tag> content`
 <ornament> [1] ༄༅།
 <verse> [12] Samantabhadra, whose innate nature...
 ```
+
+Never use close tags, eg. `</ornament>` this is not real XML its just proof editor content tagging.  
 
 This standard ensures proof editors can properly parse and format the text.
 
@@ -80,13 +82,13 @@ The following sections demonstrate **A++ Gold Standard** liturgical translation 
 **Qualities:** Sanskrit precision, rhythmic homage, complete sentences
 
 ```
-<ornament> [1] Yānāgratnakōśanāmavajrāhāra.
-<ornament> [2] Thus abides the Treasury of Supreme Vehicle, the Jewel Treasure.
-<ornament> [3] In the language of India:
-<ornament> [4] Yānāgratnakōśanāma
-<ornament> [5] In the language of Tibet:
-<ornament> [6] Treasury of Supreme Vehicle
-<ornament> [7] To Glorious Samantabhadra I prostrate.
+[1] <ornament> Yānāgratnakōśanāmavajrāhāra.
+[2] <ornament> Thus abides the Treasury of Supreme Vehicle, the Jewel Treasure.
+[3] <ornament> In the language of India:
+[4] <ornament> Yānāgratnakōśanāma
+[5] <ornament> In the language of Tibet:
+[6] <ornament> Treasury of Supreme Vehicle
+[7] <ornament> To Glorious Samantabhadra I prostrate.
 [8] Samantabhadra, whose innate nature holds the five perfections, complete in dominion,
 [9] Together with the regent of the five families, the Great Ocean, the sublime guide, the Teacher,
 [10] The five vidyādharas, hosts of the aural lineage, ornament of the three worlds together with the gods,
@@ -132,21 +134,22 @@ The following sections demonstrate **A++ Gold Standard** liturgical translation 
 
 ```
 [512] The body's four external activities concern abandoning the four rivers of suffering:
-[513] The river of birth, wherein beings enter conditioned existence,
-[514] The river of marriage, binding beings to cyclic attachment,
-[515] The river of skill competition, generating pride and conflict,
-[516] The river of renunciation, even attachment to abandonment itself.
+[513] <list> The river of birth, wherein beings enter conditioned existence,
+[514] <list> The river of marriage, binding beings to cyclic attachment,
+[515] <list> The river of skill competition, generating pride and conflict,
+[516] <list> The river of renunciation, even attachment to abandonment itself.
 [517] Through piṇḍapāta engagement, these are transcended.
 [518] The four internal activities:
-[519] Abandoning attachment to retinue and sensory enjoyment,
-[520] Releasing the great horse of discursive thought,
-[521] Abandoning the chariot of conceptual elaboration,
-[522] Going to the essence of bodhi beyond all extremes,
+[519] <list> Abandoning attachment to retinue and sensory enjoyment,
+[520] <list> Releasing the great horse of discursive thought,
+[521] <list> Abandoning the chariot of conceptual elaboration,
+[522] <list> Going to the essence of bodhi beyond all extremes,
 ```
 
 **Why Exemplary:**
 - Clear enumerative structure with consistent syntax
 - Parallel construction ("The river of...")
+- `<list>`  tags correctly executed
 - Technical precision in Buddhist terminology (piṇḍapāta)
 - Proper use of colons and dashes for list structures
 - Complete, well-formed sentences throughout
@@ -186,11 +189,11 @@ The following sections demonstrate **A++ Gold Standard** liturgical translation 
 [1585] The various forms of objects and their possessors, comprising the entire field of what is grasped and that which grasps.
 [1586] First, regarding the elements: Due to their vast and extensive meaning, embracing all that can be known and experienced, these are termed "elements."
 ...
-[1594] Earth abides with characteristics that are firm and solid, providing the foundation upon which all rests.
-[1595] Water abides with characteristics that are moist and flowing, cohering and holding all things together.
-[1596] Fire abides with characteristics that are hot and burning, ripening and transforming all that it touches.
-[1597] Wind abides with characteristics that move and uplift, animating and sustaining all activity.
-[1598] Space abides with characteristics that are vast and open, accommodating all without obstruction.
+[1594] <list> Earth abides with characteristics that are firm and solid, providing the foundation upon which all rests.
+[1595] <list> Water abides with characteristics that are moist and flowing, cohering and holding all things together.
+[1596] <list> Fire abides with characteristics that are hot and burning, ripening and transforming all that it touches.
+[1597] <list> Wind abides with characteristics that move and uplift, animating and sustaining all activity.
+[1598] <list> Space abides with characteristics that are vast and open, accommodating all without obstruction.
 ```
 
 **Why Exemplary:**
@@ -231,12 +234,12 @@ The following sections demonstrate **A++ Gold Standard** liturgical translation 
 **Qualities:** Parallel formula, technical precision, balanced structure
 
 ```
-[2567] Herein, the Prajñāpāramitā system:
+[2567] <break> Herein, the Prajñāpāramitā system:
 [2576] Realizing the three circles—subject, object, and action—as empty of inherent existence,
 [2577] Perfecting the six transcendent perfections,
 [2578] Attaining buddhahood through traversing the five paths and ten grounds.
 [2579] Thus is explained the Prajñāpāramitā system.
-[2580] Herein, the Tathāgatagarbha system:
+[2580] <break> Herein, the Tathāgatagarbha system:
 [2581] Recognizing the Buddha-nature endowed with all virtues as existent from the beginning,
 [2582] Purifying adventitious defilements that obscure it,
 [2583] Revealing the essence spontaneously present as the result.
@@ -244,6 +247,7 @@ The following sections demonstrate **A++ Gold Standard** liturgical translation 
 ```
 
 **Why Exemplary:**
+- `<break>` signals to the proof editor to add a double line break
 - Concise, precise philosophical summary
 - Consistent "Herein..." formula introducing sections
 - Proper use of em-dashes
@@ -260,14 +264,15 @@ The following sections demonstrate **A++ Gold Standard** liturgical translation 
 ```
 [10472] The general presentation of the nature of the seven bases upon which views are established,
 [10473] Together with the detailed explanation of the supreme basis that transcends all extremes.
-[10474] First, this extensive topic comprises three principal divisions:
-<list> [10475] First: a brief presentation of the essential nature of the seven bases,
-<list> [10476] Second: demonstrating how the seven bases that fall into conceptual extremes are fundamentally faulty,
-<list> [10477] Third: establishing the non-dual basis of primordial purity and spontaneous presence as the authentic tradition of one's own mind.
-[10479] These seven positions are held individually by those who propound various philosophical tenets,
-<list> [10480] The first: the view that holds the basis as primordially pure from the very beginning,
-<list> [10481] The second: the view that holds the basis as spontaneously present with all qualities complete,
-<list> [10482] The third: the view that holds the basis as uncertain and indeterminate,
+[10474] <break> First, this extensive topic comprises three principal divisions:
+[10475 <list>  First: a brief presentation of the essential nature of the seven bases,
+[10476 <list>  Second: demonstrating how the seven bases that fall into conceptual extremes are fundamentally faulty,
+[10477 <list>  Third: establishing the non-dual basis of primordial purity 
+[10478] and spontaneous presence as the authentic tradition of one's own.  
+[10479] <break> These seven positions are held individually by those who propound various philosophical tenets:
+[10480 <list>  The first: the view that holds the basis as primordially pure from the very beginning,
+[10481 <list>  The second: the view that holds the basis as spontaneously present with all qualities complete,
+[10482] <list>  The third: the view that holds the basis as uncertain and indeterminate,
 ```
 
 **Why Exemplary:**
@@ -307,13 +312,13 @@ The following sections demonstrate **A++ Gold Standard** liturgical translation 
 
 ```
 [10883] Natural expression appearance is:
-<list> [10884] Like vast space appearing, direction-falling without any limit;
-<list> [10885] Like clear water appearing, thing to grasp without any nature;
-<list> [10886] Like deep-blue lapis appearing, not divided by part or section;
-<list> [10887] Like white conch appearing, order and sequence not holding;
-<list> [10888] Like yellow gold appearing, qualities spontaneously complete;
-<list> [10889] Like red ruby appearing, clarity and brightness not ceasing;
-<list> [10890] Like green emerald appearing, qualities spontaneously perfect.
+[10884] <list>  Like vast space appearing, direction-falling without any limit;
+[10885] <list>  Like clear water appearing, thing to grasp without any nature;
+[10886] <list>  Like deep-blue lapis appearing, not divided by part or section;
+[10887] <list>  Like white conch appearing, order and sequence not holding;
+[10888] <list>  Like yellow gold appearing, qualities spontaneously complete;
+[10889] <list>  Like red ruby appearing, clarity and brightness not ceasing;
+[10890] <list> Like green emerald appearing, qualities spontaneously perfect.
 [10891] Five colors themselves abiding in unity, color not holding as separate great beyond limit.
 [10892] Rolled-up potential, yet shape without fixed form.
 [10893] Not ceasing in manifestation, yet condition without dependence.
