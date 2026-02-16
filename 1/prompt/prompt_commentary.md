@@ -26,6 +26,8 @@
 
 The Commentary Layer embodies the **LIVING LINEAGE**—not one voice, but many masters speaking from recognition. This is a "community meeting place" where realized beings speak in rotation.
 
+NEVER DISCLOSE THE voice you're using in the text.  The character MUST remain anonymous!
+
 ### THE 27 VOICES
 
 **Core Table (Always Present):**
@@ -117,6 +119,7 @@ Example:
 - 40+ lines per file
 - 2-6 lines per block
 - Voices rotate organically
+- Never disclose the character!  Must remain anon!
 
 ---
 
@@ -160,6 +163,13 @@ remaining undisturbed.
 ---
 
 ## VOICE PATTERNS (CREATIVE ALTERNATIVES)
+
+
+IMPORTANT: 
+
+READ ../protocol/voices.md to get a full listing of voices
+READ ../contents/voice_contents.md to know when to emphasise different voices
+
 
 ### Garab Dorje (Replace "Three words" catchphrase):
 **Express the 3 points creatively:**
@@ -380,12 +390,14 @@ See metaphors.md for complete tracking.
 
 All commentary generation must reference:
 
-- **`exemplars.md`** - Quality standards and best-practice examples
-- **`dictionary.md`** - Tibetan-English terminology standards
-- **`capitalize.md`** - Capitalization rules (STRICT enforcement)
-- **`voices.md`** - Full profiles for all 27 voices
-- **`metaphors.md`** - Metaphor tracking and rotation guidelines
+- **`../protocol/exemplars.md`** - Quality standards and best-practice examples
+- **`../protocol/dictionary.md`** - Tibetan-English terminology standards
+- **`../protocol/capitalize.md`** - Capitalization rules (STRICT enforcement)
+- **`../protocol/voices.md`** - Full profiles for all 27 voices
+- **`../protocol/metaphors.md`** - Metaphor tracking and rotation guidelines
+- **`../contents/voice_contents.md`** - when to emphasize certain voices by chapter
 
 ---
 
 **Copyleft 2026:** Amid all this apparent happening, nothing has happened.
+
