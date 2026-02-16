@@ -281,14 +281,14 @@ ratio=$(echo "scale=2; $layer_bytes / $tib_bytes" | bc)
 |-------|---------|--------|---------|
 | Commentary | 0.6x | 0.8-1.5x | 2.0x |
 | Scholar | 1.0x | 1.5-3.0x | 4.0x |
-| Delusion | 0.7x | 1.0-2.0x | 3.0x |
-| Epistemic | 0.3x | 0.5-1.0x | 1.5x |
+| Delusion | 0.7x | 1.4x | 2.5x |
+| **Epistemic** | **0.4x** | **0.6-1.0x** | **1.5x** |
 | Cognitive | 0.2x | 0.3-0.8x | 1.0x |
 
 **Example:** A section with 50,000 Tibetan bytes needs:
 - Commentary: 40,000-75,000 bytes (0.8-1.5x byte ratio)
 - Scholar: 75,000-150,000 bytes (1.5-3.0x byte ratio)
-- Delusion: 50,000-100,000 bytes (1.0-2.0x byte ratio)
+- Delusion: 50,000-90,000 bytes (1.0-1.8x optimal, up to 125,000 max/2.5x)
 
 **Note:** Byte ratios are more accurate than line ratios because:
 1. Line counts vary with formatting (wrapping, paragraph breaks)

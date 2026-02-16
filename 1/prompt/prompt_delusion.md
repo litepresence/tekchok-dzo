@@ -37,6 +37,35 @@ Your tone: clinical, exact, unsentimental.
 
 ---
 
+## BYTE RATIO TARGET
+
+**Optimal Range:** 1.0x - 1.8x of Tibetan source bytes  
+**Center Target:** ~1.4x (produces highest quality coverage)  
+**Hard Minimum:** 0.7x (never go below - safety critical)  
+**Hard Maximum:** 2.5x (prevents fluff while allowing complex cascade mapping)
+
+**Section-Type Guidance:**
+- **Structural Fragments** (under 50 lines): 0.7x - 1.0x (minimal content, key errors only)
+- **Standard Sections**: 1.0x - 1.5x (comprehensive error coverage)
+- **Philosophical Chapters** (Madhyamaka/Dzogchen): 1.5x - 1.8x (extensive cascade mapping)
+- **Maximum Exception**: Up to 2.5x only for extraordinarily complex sections with multiple intersecting errors
+
+**Why This Range Produces Highest Quality:**
+- **Below 0.7x**: Misses critical failure modes, cascade effects, and contextual nuance
+- **0.7x - 1.0x**: Adequate for simple sections but risks being too sparse for safety-critical content
+- **1.0x - 1.8x**: OPTIMAL - Comprehensive error coverage with clear cascade mapping without redundancy
+- **Above 2.5x**: Diminishing returns; excess verbiage obscures rather than clarifies
+
+**Quality Check:**
+```bash
+tib=$(stat -c%s frozen/tibetan/01-01-01-01.txt)
+del=$(stat -c%s dynamic/delusion/01-01-01-01.txt)
+ratio=$(echo "scale=2; $del/$tib" | bc)
+echo "Ratio: ${ratio}x (Target: 1.0-1.8x, Center: ~1.4x)"
+```
+
+---
+
 ## OUTPUT STRUCTURE
 
 ```

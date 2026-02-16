@@ -34,32 +34,96 @@ text/
 
 **Measure:** Dynamic layer bytes ÷ Tibetan source bytes
 
-Reference: `quality/byte_ratio_table.md` (all 213 sections)
-
-| Layer | Min | Target Center | Max |
-|-------|-----|---------------|-----|
-| Commentary | 0.70x | 1.0x | 1.30x |
-| Scholar | 1.0x | 2.0x | 4.0x |
-| Delusion | 0.7x | 1.5x | 3.0x |
-| Epistemic | 0.3x | 0.75x | 1.5x |
-
 **Why Bytes, Not Lines:**
 - Line counts vary with formatting
 - Bytes reflect actual content density
 - Small files have extreme line-ratio distortions
 
-**Validation (byte-based):**
+### SCHOLAR LAYER BYTE RATIO TARGETS
+
+**Critical for preventing fluff and ensuring complete coverage:**
+
+**Based on analysis of 213 sections:**
+- 162 complex sections (2000+ bytes): Currently averaging 1.01x - **NEED EXPANSION**
+- 31 standard sections (200-2000 bytes): Currently averaging 7.57x - **NEED TRIMMING**
+- 20 tiny fragments (<200 bytes): Currently averaging 31.88x - **MASSIVE OVER-ANALYSIS**
+
+| Content Type | Hard Min | Optimal Range | Hard Max | Current Avg | Action |
+|--------------|----------|---------------|----------|-------------|--------|
+| **Tiny Fragments** (<200 bytes) | 0.5x | 1.0-2.0x | 3.0x | 31.88x | **TRIM** - Brief annotation only |
+| **Standard** (200-2000 bytes) | 1.0x | 1.5-3.0x | 4.0x | 7.57x | **TRIM** - Four Pillars coverage |
+| **Complex** (2000+ bytes) | 1.5x | 2.0-4.0x | 5.0x | 1.01x | **EXPAND** - Comprehensive analysis |
+
+**Content-Specific Guidance:**
+
+**Trim These (Currently Over-Analyzed):**
+- Single-verse structural markers (Tibetan <200 bytes)
+- List item annotations ("First:", "Second:")
+- Brief transitional phrases
+- Section headers without doctrinal content
+- Current ratios 10-60x = excessive
+
+**Expand These (Currently Under-Analyzed):**
+- Chapter 4: Philosophical doxography (Sāṃkhya, Lokāyata, etc.)
+- Chapter 8: Ground/basis analysis with objections/responses
+- Chapters 11-14: Detailed tantric physiology (channels, winds, bindus)
+- Chapters 18-23: Thögal, bardo, phowa instructions
+- Extended tantra citations requiring unpacking
+- Current ratios <1.0x on material >5000 bytes = incomplete
+
+**Anti-Fluff Safeguards:**
+- **>5.0x on complex material = FLUFF ALERT** - Review for padding
+- **>10.0x on any material = MAJOR FLUFF** - Significant trimming required
+- **<1.0x on material >2000 bytes = INCOMPLETE** - Missing doctrinal content
+- **<0.5x = STRUCTURAL FAILURE** - Needs complete rewrite
+- Every paragraph must serve a pillar (Structure/Philology/Context/Concept)
+
+**Validation Commands:**
+
 ```bash
+# Check single section
+cd /home/opencode/MDZOD/1/text
+section="01-01-01-01"
+tib=$(stat -c%s frozen/tibetan/${section}.txt)
+sch=$(stat -c%s dynamic/scholar/${section}.txt)
+ratio=$(echo "scale=2; $sch/$tib" | bc)
+echo "Scholar ratio: ${ratio}x (target: 1.5-3.0x)"
+
+# Find sections needing expansion (large material <1.5x)
 cd /home/opencode/MDZOD/1/text
 for f in frozen/tibetan/*.txt; do
-  s=$(basename $f .txt)
-  tib=$(stat -c%s $f)
-  comm=$(stat -c%s dynamic/commentary/$s.txt 2>/dev/null || echo 0)
-  ratio=$(echo "scale=2; $comm/$tib" | bc 2>/dev/null || echo 0)
-  [ "$ratio" != "0" ] && [ $(echo "$ratio < 0.70" | bc) -eq 1 ] && echo "$s: $ratio (BELOW MIN)"
-  [ "$ratio" != "0" ] && [ $(echo "$ratio > 1.30" | bc) -eq 1 ] && echo "$s: $ratio (ABOVE MAX)"
-done
+  section=$(basename $f .txt)
+  tib=$(stat -c%s "$f")
+  # Focus on substantial sections (>2000 bytes)
+  [ "$tib" -lt 2000 ] && continue
+  sch=$(stat -c%s dynamic/scholar/${section}.txt 2>/dev/null || echo 0)
+  [ "$sch" != "0" ] && ratio=$(echo "scale=2; $sch/$tib" | bc) && 
+    [ $(echo "$ratio < 1.5" | bc) -eq 1 ] && 
+    echo "$section: Tibetan=${tib} Ratio=${ratio}x (NEEDS EXPANSION)"
+done | sort -t= -k3 -n | head -20
+
+# Find sections needing trimming (tiny material >10x)
+cd /home/opencode/MDZOD/1/text
+for f in frozen/tibetan/*.txt; do
+  section=$(basename $f .txt)
+  tib=$(stat -c%s "$f")
+  [ "$tib" -gt 200 ] && continue  # Only tiny files
+  sch=$(stat -c%s dynamic/scholar/${section}.txt 2>/dev/null || echo 0)
+  [ "$sch" != "0" ] && ratio=$(echo "scale=2; $sch/$tib" | bc) && 
+    [ $(echo "$ratio > 10" | bc) -eq 1 ] && 
+    echo "$section: Tibetan=${tib} Ratio=${ratio}x (NEEDS TRIMMING)"
+done | sort -t= -k3 -n | tail -20
 ```
+
+### ALL LAYER TARGETS (Reference)
+
+| Layer | Hard Min | Optimal Range | Center | Hard Max |
+|-------|----------|---------------|--------|----------|
+| Commentary | 0.70x | 0.8-1.5x | 1.0x | 2.0x |
+| **Scholar** | **0.5x** | **1.5-3.0x** | **2.0x** | **5.0x** |
+| **Delusion** | **0.7x** | **1.0-1.8x** | **1.4x** | **2.5x** |
+| **Epistemic** | **0.4x** | **0.6-1.0x** | **0.75x** | **1.5x** |
+| Cognitive | 0.2x | 0.3-0.8x | 0.5x | 1.0x |
 
 ---
 
@@ -127,5 +191,6 @@ done
 - ⚠️  B: Inadequate coverage or excessive fluff despite "good" byte ratio
 - 🔴 C: Missing major content or filled with repetitive/generic text
 
-**Version:** 9.1 (2026-02-16)  
-**Last Updated:** Quality-first standards (coverage > bytes > lines)
+**Version:** 9.2 (2026-02-16)  
+**Last Updated:** Data-driven byte ratio targets (coverage > bytes > lines)
+

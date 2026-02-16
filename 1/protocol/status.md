@@ -373,8 +373,8 @@ The architecture supports MASSIVE depth. The prompts provide guidance for achiev
 |-------|---------|--------|---------|
 | Commentary | 0.6x | 0.8-1.5x | 2.0x |
 | Scholar | 1.0x | 1.5-3.0x | 4.0x |
-| Delusion | 0.7x | 1.0-2.0x | 3.0x |
-| Epistemic | 0.3x | 0.5-1.0x | 1.5x |
+| Delusion | 0.7x | 1.4x | 2.5x |
+| **Epistemic** | **0.4x** | **0.6-1.0x** | **1.5x** |
 
 ### Commentary Layer: TRUE State (Byte Ratios)
 

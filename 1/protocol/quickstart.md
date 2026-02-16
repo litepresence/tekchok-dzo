@@ -51,13 +51,26 @@ The project uses **section-based** files (01-01-01-01.txt):
 
 ### TARGET BYTE RATIOS FOR ALL LAYERS
 
-| Layer | Target Range | Minimum | Maximum |
-|-------|-------------|---------|---------|
-| Cognitive | 0.3-0.7 | 0.30 | 0.70 |
-| Commentary | 0.7-1.5 | 0.70 | 1.50 |
-| Delusion | 0.7-2.0 | 0.70 | 2.00 |
-| Epistemic | 0.3-1.0 | 0.30 | 1.00 |
-| Scholar | 1.0-3.0 | 1.00 | 3.00 |
+| Layer | Target Range | Hard Min | Hard Max | Center | Notes |
+|-------|-------------|----------|----------|--------|-------|
+| Cognitive | 0.3-0.7x | 0.30 | 0.70 | 0.50x | Translator logs |
+| Commentary | 0.8-1.5x | 0.70 | 2.00 | 1.00x | Heart instruction |
+| **Delusion** | **1.0-1.8x** | **0.70** | **2.50** | **1.40x** | **Quality-critical safety layer** |
+| **Epistemic** | **0.6-1.0x** | **0.40** | **1.50** | **0.75x** | **View stratification - concise but comprehensive** |
+| Scholar | 1.5-3.0x | 1.00 | 4.00 | 2.00x | Academic context |
+
+**Delusion Layer Priority Adjustments:**
+- Standard sections: Aim for 1.0-1.5x
+- Philosophical chapters (Ch 4, 5, 11, 12, 18-25): Aim for 1.5-1.8x
+- Structural fragments (<50 lines): Minimum 0.7x acceptable
+- Never exceed 2.5x (indicates fluff, not quality)
+
+**Epistemic Layer Priority Adjustments:**
+- Standard sections (100-500 bytes): Aim for 0.6-1.0x
+- Complex philosophical sections (500+ bytes): Aim for 0.8-1.2x
+- Brief fragments (<100 bytes): 0.4-0.8x acceptable
+- Never exceed 1.5x (indicates generic template language, not quality)
+- Below 0.4x on doctrinal material indicates missing view distinctions
 
 ---
 
@@ -227,11 +240,11 @@ targets = {
     'wylie': (0.43, 0.45),
     'literal': (0.38, 0.42),
     'liturgical': (0.45, 0.60),
-    'cognitive': (0.3, 0.7),
-    'commentary': (0.7, 1.5),
-    'delusion': (0.7, 2.0),
-    'epistemic': (0.3, 1.0),
-    'scholar': (1.0, 3.0),
+    'cognitive': (0.30, 0.70),
+    'commentary': (0.70, 2.00),
+    'delusion': (0.70, 2.50),  # Optimal: 1.0-1.8x, Center: 1.4x
+    'epistemic': (0.40, 1.50),  # Min 0.4x, Optimal 0.6-1.0x
+    'scholar': (1.00, 4.00),
 }
 
 tibetan_dir = Path('text/frozen/tibetan')
@@ -271,7 +284,7 @@ Then pick one of the top 20 worst deviations and continue the repair.
 1. Commentary < 0.7x (most critical - heart instruction)
 2. Scholar < 1.0x (academic context)
 3. Delusion < 0.7x (safety layer)
-4. Epistemic < 0.3x (view stratification)
+4. Epistemic < 0.4x (view stratification - indicates missing view distinctions)
 
 ---
 

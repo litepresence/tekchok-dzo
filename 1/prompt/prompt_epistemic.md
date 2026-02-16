@@ -57,6 +57,28 @@ Prevent collapse of multiple epistemic registers.
 
 ---
 
+## BYTE RATIO TARGETS (Quality Control)
+
+**Measure:** Epistemic bytes ÷ Tibetan bytes
+
+| Content Type | Target Range | Hard Max | Notes |
+|--------------|--------------|----------|-------|
+| Brief sections (<100 bytes) | 0.4-0.8x | 1.2x | List items, markers |
+| Standard sections (100-500 bytes) | 0.6-1.0x | 1.5x | Most doctrinal content |
+| Complex sections (500+ bytes) | 0.8-1.2x | 1.5x | Philosophical debates |
+
+**Quality Indicators:**
+- **0.6-0.9x:** Optimal - comprehensive coverage without fluff
+- **1.0-1.2x:** Acceptable for complex material with multiple view shifts
+- **<0.4x:** Likely incomplete - missing view distinctions
+- **>1.5x:** Likely fluff - generic template language, repetition
+
+**Anti-Fluff Rules:**
+- No repetitive phrases ("sophisticated hermeneutical strategy...")
+- No generic filler ("this section is important because...")
+- Every classification must identify SPECIFIC view-register
+- Classify FROM WHERE spoken, not what content says
+
 ## ABSOLUTE CONSTRAINTS
 
 - **NO** practice advice

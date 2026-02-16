@@ -43,7 +43,7 @@ Reference: `quality/byte_ratio_table.md` (213 sections × 9 layers)
 - Commentary: 0.8-1.5x
 - Scholar: 1.5-3.0x
 - Delusion: 1.0-2.0x
-- Epistemic: 0.5-1.0x
+- **Epistemic: 0.6-1.0x** (0.4x minimum for brief sections, 0.8-1.2x for complex material)
 
 **First 4 Sections Priority (Byte Ratios):**
 
