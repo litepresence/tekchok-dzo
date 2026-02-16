@@ -1,55 +1,12 @@
 [5923-5924] <structure>
-# Eighth Ground and Ninth Perfection: Sequential Fruition
-**Architectural Context:** This passage marks the transition between the eighth ground (བརྒྱད་པ་ brgyad pa) and the ninth perfection (ཡོན་ཏན་ rdzogs pa yon tan) within the ten-ground (ས་བཅུ་ sa bcu) system. The structure follows the classical ten-ground enumeration found in the མཛད་པ་པོ་ (Mañjuśrī, Ornament of Clear Realization) and ཡོན་ཏན་ (Yon tan, qualities) literature. Each ground is marked by an ordinal followed by the specific attainment characteristic of that stage.
-
-**Enumerative Structure:**
-- Line 5923: བརྒྱད་པ་ (eighth ground)—Immovable Ground (མི་གཡོ་བའི་ས་)
-- Line 5924: དེ་ནས་ (thereafter)—Perfection of Excellent Qualities (ཡོན་ཏན་རྫོགས་པ་)
-
-**Transitional Marker:** The particle དེ་ནས་ (de nas, "thereafter/then") indicates sequential progression through the bodhisattva grounds, marking this as a major transitional point between the eighth and ninth stages.
+Eighth: Immovable Ground Attained
+Sequential markers for eighth ground and ninth perfection in the ten-ground system.
 
 [5923-5924] <philology>
-**Line 5923 Analysis:**
-- བརྒྱད་པ་ (brgyad pa): ordinal "eighth"—the eighth of the ten grounds
-- མི་གཡོ་བའི་ (mi g.yo ba'i): genitive "of the Immovable"—the ground characterized by immoveability
-- ས་ (sa): "ground, stage, bhūmi"—the tenth ground in the bodhisattva path
-- ཐོབ་པའོ་ (thob pa'o): "attainment is [it]"—past tense attainment verb with emphatic terminative
-
-**Line 5924 Analysis:**
-- དེ་ནས་ (de nas): temporal "thereafter, then"—marks sequential transition
-- ཡོན་ཏན་ (yon tan): "excellent qualities, virtues"—the perfections as qualities
-- རྫོགས་པ་ (rdzogs pa): "completion, perfection"—the ninth perfection
-- ནི་ (ni): emphatic particle isolating the topic
-
-**Terminology:**
-- མི་གཡོ་ (mi g.yo): "immovable, non-shifting"—the eighth ground where realization becomes irreversible
-- ཡོན་ཏན་ (yon tan): "excellent qualities"—the perfections viewed as qualities of a buddha
-- རྫོགས་པ་ (rdzogs pa): "completion"—the perfection of these qualities
+*brgyad pa mi g.yo ba'i sa thob pa'o* — "Eighth: attainment of the Immovable Ground." *mi g.yo* (immovable) with genitive *ba'i*; *thob pa'o* (attainment) with emphatic. *de nas yon tan rdzogs pa ni* — "Thereafter: the perfection of excellent qualities."
 
 [5923-5924] <context>
-**Doxographical Placement:** These lines belong to Chapter 18's presentation of the ten grounds (ས་བཅུ་ sa bcu) and ten perfections (ཕ་རོལ་ཏུ་འབུད་པ་བཅུ་ pha rol tu phyin pa bcu), specifically marking the transition from the eighth to ninth stages within the Mahāyāna bodhisattva path.
-
-**The Eighth Ground (Acalā):** The eighth ground, called "Immovable" (མི་གཡོ་བ་ mi g.yo ba), is named for the bodhisattva's irreversibility (ཕྱི་མི་འོངས་པ་ phyir mi ldog pa)—they cannot fall back into lower paths or worldly concerns. At this stage, bodhisattvas achieve:
-1. ཉོན་སྒ໲་ (nyon sgrib): cessation of all afflictive obscurations
-2. མཉམ་གཤེགས་ (mnyam gzhag): continuous meditative equipoise
-3. སྤྲུལ་པ་ (sprul pa): ability to manifest infinite emanations for beings
-
-**The Ninth Perfection:** The "Perfection of Excellent Qualities" (ཡོན་ཏན་རྫོགས་པ་ yon tan rdzogs pa) refers to the ninth pāramitā, often identified as:
-- བྱིན་རློབས་ (byin rlabs): power/perfection of spiritual powers (བྱིན་རློབས་པ་འབུད་པ་ byin rlabs pāramitā)
-- ཡོན་ཏན་ (yon tan): excellence as the perfection of qualities
-
-This pairing follows the མཛད་པ་པོའི་རྒ໱ུད་ (Abhisamayālaṃkāra) structure where each ground corresponds to a specific perfection.
+Transition from eighth ground (*mi g.yo ba'i sa*, Acalā) to ninth perfection (*yon tan rdzogs pa*) in Chapter 18's ten-ground presentation. Eighth ground marks irreversibility (*phyir mi ldog pa*)—cessation of afflictive obscurations, continuous equipoise, manifestation power.
 
 [5923-5924] <concept>
-**Philosophical Framework:** The Eighth Ground represents a watershed in bodhisattva attainment—the transition from shared (མཐུན་པ་ mthun pa) to uncommon (མི་མཐུན་པ་ mi mthun pa) path. Before this ground, bodhisattvas and śrāvakas share similar realizations of emptiness (སྟོང་པ་ stong pa); at the Eighth Ground, bodhisattvas realize the non-duality of emptiness and compassion (སྟོང་གི་སྙིང་རྗེ་ཟུམ་འབྲེལ་ stong nyid snying rje zung 'jug), which śrāvakas do not achieve.
-
-**Immoveability (མི་གཡོ་):** Has two aspects:
-1. ཡེ་ཤེས་མི་གཡོ་ (ye shes mi g.yo): immovable wisdom—continuous realization without regression
-2. ཐུགས་རྗེ་མི་གཡོ་ (thugs rje mi g.yo): immovable compassion—unceasing benefit for beings
-
-**Excellent Qualities (ཡོན་ཏན་):** At this stage, all bodhisattva qualities become fully manifest:
-- བྱིན་རློབས་བཅུ་ (byin rlabs bcu): ten powers
-- མི་འཇིགས་པ་བཞི་ (mi 'jigs pa bzhi): four fearlessnesses
-- མི་འབྲེལ་པ་བཅོ་བརྒ໱་ (ma 'dres pa brgyad): eighteen distinctive qualities
-
-This perfection completes the འབུལ་ཁོར་ (sambhogakāya, enjoyment body's) qualities in preparation for the ཆོས་ཁོར་ (dharmakāya, truth body's) full revelation at the tenth ground.
+Eighth Ground: watershed attainment where bodhisattvas realize emptiness-compassion non-duality (*stong nyid snying rje zung 'jug*), surpassing śrāvaka realization. Immovability has two aspects: wisdom (*ye shes mi g.yo*) and compassion (*thugs rje mi g.yo*). Ninth perfection manifests ten powers, four fearlessnesses, eighteen distinctive qualities.

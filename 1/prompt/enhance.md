@@ -89,6 +89,8 @@ D) If content already meets A++ standards, proceed without modification—do not
    - Depth of contextual understanding  
    - Usefulness to the end reader. 
 
+   Provide HONEST Assessment!  Don't sugar coat the remaining work.
+
    **Important**: Assess every section individually. Do not assume chapter-wide consistency—quality varies within chapters.
 
 8. **File Enhancement**  
