@@ -1,260 +1,134 @@
-You have been assigned to update the "commentary" `<LAYER>`.
+You have been assigned to update the "liturgical" `<LAYER>` files. 
+
+We are translating one of Longchenpa's Treasuries and approaching final draft stage. Your job is to ENHANCE existing files to A++ exemplar quality.
+
+**Core Enhancement Principles**
+
+A) If content is verbose or full of fluff, condense to its most meaningful essence.  
+B) If the Tibetan source is not fully covered, incorporate the most important missing content.  
+C) If phrasing can better serve the reader's understanding, reword for clarity and utility.  
+D) If content already meets A++ standards, proceed without modification—do not force unnecessary changes.
+
+**Mandatory Requirements**
+
+- Follow the prompt protocol for your assigned `<LAYER>` EXACTLY.  
+- Maintain exemplar quality standards throughout all work.
+
+---
+
+**Workflow Protocol**
+
+1. **Scope**  
+   - 213 sections exist across all layers. Process one section at a time.  
+   - Before beginning, familiarize yourself with the project:  
+     - `/home/opencode/MDZOD/1/protocol/navigation.md` (folder/file structure)  
+     - `/home/opencode/MDZOD/1/contents/contents.md` (table of contents)  
+   - **Important**: The navigation document may be outdated regarding frozen/dynamic file states. Always verify actual file locations in the filesystem.
+
+2. **File Format**  
+   - Naming convention: `volume-chapter-section-subsection.txt`  
+     Example: `01-01-01-01.txt` = Volume 1, Chapter 1, Section 1, Subsection 1  
+   - Chapter 15 begins Volume 2.
+
+3. **Prompt Framework**  
+   - Consult structure and language guidance specific to your assigned layer:  
+     - `/home/opencode/MDZOD/1/prompt/prompt_<LAYER>.md` 
+   - If you have been assigned the commentary layer, pay close attention to all directives as it is complex.  
+
+4. **Review Existing Files**  
+   Open files from:  
+   - `/home/opencode/MDZOD/1/text/dynamic/<LAYER>`  
+
+   Create a create a comprehensive task list / TODO checklist in your working notes:
+
+   ```
+   Review and enhance Volume 1 Chapter 1 (3 sections)
+   Review and enhance Volume 1 Chapter 2 (7 sections)
+   Review and enhance Volume 1 Chapter 3 (3 sections)
+   Review and enhance Volume 1 Chapter 4 (20 sections)
+   Review and enhance Volume 1 Chapter 5 (10 sections)
+   Review and enhance Volume 1 Chapter 6 (20 sections)
+   Review and enhance Volume 1 Chapter 7 (5 sections)
+   Review and enhance Volume 1 Chapter 8 (9 sections)
+   Review and enhance Volume 1 Chapter 9 (2 sections)
+   Review and enhance Volume 1 Chapter 10 (1 section)
+   Review and enhance Volume 1 Chapter 11 (2 sections)
+   Review and enhance Volume 1 Chapter 12 (8 sections)
+   Review and enhance Volume 1 Chapter 13 (6 sections)
+   Review and enhance Volume 1 Chapter 14 (17 sections)
+   Review and enhance Volume 2 Chapter 15 (3 sections)
+   Review and enhance Volume 2 Chapter 16 (5 sections)
+   Review and enhance Volume 2 Chapter 17 (15 sections)
+   Review and enhance Volume 2 Chapter 18 (25 sections)
+   Review and enhance Volume 2 Chapter 19 (2 sections)
+   Review and enhance Volume 2 Chapter 20 (9 sections)
+   Review and enhance Volume 2 Chapter 21 (2 sections)
+   Review and enhance Volume 2 Chapter 22 (10 sections)
+   Review and enhance Volume 2 Chapter 23 (20 sections)
+   Review and enhance Volume 2 Chapter 24 (1 section)
+   Review and enhance Volume 2 Chapter 25 (8 sections)
+   ```
+
+5. **Source Verification**  
+   Examine current content against root sources:  
+   - `/home/opencode/MDZOD/1/text/frozen/tibetan/`  
+   - `/home/opencode/MDZOD/1/text/dynamic/liturgical/`  
+
+   **CRITICAL**: Always verify line counts before editing to prevent data loss from partial overwrites.
+
+6. **Exemplar Benchmarking**  
+   - Compare all work against best examples in:  
+     - `/home/opencode/MDZOD/1/protocol/exemplars.md`  
+   - If you discover content surpassing existing exemplars, update the "best of the best" section accordingly.
+
+7. **Quality Assessment**  
+   Evaluate each file against A++ standards focusing on:  
+   - Literary quality and linguistic elegance  
+   - Conceptual coherence  
+   - Translation accuracy relative to Tibetan sources  
+   - Depth of contextual understanding  
+   - Usefulness to the end reader. 
+
+   **Important**: Assess every section individually. Do not assume chapter-wide consistency—quality varies within chapters.
+
+8. **File Enhancement**  
+   For files below A++ standard, enhance by:  
+   - Clarifying ambiguous or obscure concepts  
+   - Incorporating contextual depth from Tibetan and liturgical sources  
+   - Adhering strictly to layer-specific prompt standards  
+   - Producing content worthy of exemplar status
+
+9. **Quality Control Reporting**  
+   - **Delete** any existing QC report:  
+     - `/home/opencode/MDZOD/1/quality/<LAYER>_QUALITATIVE_QC.md`  
+   - Create fresh reports using `quality/Template.md`  
+   - Document every reviewed file with completion status:
 
-We're translating a one of Longchenpa's Treasuries.  Your Job is to ENHANCE existing files!
+   ```
+   ## COMPLETION STATUS
 
-A) If its full of fluff condense into meaningful content.
-B) If the tibetan is not fully covered add important content.  
-C) Follow the prompt protocol EXACTLY.  
-D) Maintain exemplar quality standards!
+   | Volume | Chapter | File | Status | Assessed | Notes |
+   |--------|---------|------|--------|----------|-------|
+   | 01 | 01 | 01-01-01-01.txt | ✅ A++ COMPLETE | 2026-02-16 | Exemplar quality. No enhancement required. |
+   ```
 
+10. **Iteration**  
+    Process all 213 sections systematically until every file meets A++ standards. Maintain quality integrity throughout—do not cut corners.
 
-1. Scope
+11. **Time Constraints**  
+    Do not concern yourself with time limitations. The system operates on high-power infrastructure enabling rapid processing without quality compromise. Focus solely on producing exemplary work.
 
-There are 213 Sections in every layer.  Work one section at a time.  Where appropriate enhance each file.  
+12. **Final Reporting**  
+    Complete a FULL QUALITATIVE_QC.md report upon finishing all sections. Focus on qualitative assessment—do not substitute statistical analysis for substantive evaluation.
 
-Familiarize yourself with the project here: 
+13. **Exemplar Updates**  
+    After completing all enhancements, review `exemplars.md` and update the "best of the best" section if your work has produced content exceeding current benchmarks.
 
-`/home/opencode/MDZOD/1/protocol/navigation.md`  // folder/file structure of the project
-`/home/opencode/MDZOD/1/contents/contents.md`  // table of contents of the text we're working on
+---
 
+**Critical Reminders**
 
-2. File Format
-
-section one is 01-01-01-01.txt.   volume-chapter-section-subsection.txt  chapter 15 begins volume two. 
-
-3. Utilize the Prompt Framework
-
-Refer to the prompt framework for structure and language guidance in:
-
-`/home/opencode/MDZOD/1/prompt/prompt_<LAYER>.md` 
-
-4. Benchmark Against Exemplars
-
-While updating files, compare them against the best `<LAYER>` exemplars from 
-
-`/home/opencode/MDZOD/1/protocol/exemplars.md`
-
-If you discover new outstanding examples, update the "best of the best" section in the exemplars document.  Always do your best to produce content of Exemplar A++ Quality.
-
-5. Review Existing Files
-
-Open the files in `/home/opencode/MDZOD/1/text/dynamic/<LAYER>/`
-
-create a TODO checklist in your thinking dialog:
-
-Review and enhance Volume 1 Chapter 1 (3 sections)
-Review and enhance Volume 1 Chapter 2 (7 sections)
-Review and enhance Volume 1 Chapter 3 (3 sections)
-Review and enhance Volume 1 Chapter 4 (20 sections)
-Review and enhance Volume 1 Chapter 5 (10 sections)
-Review and enhance Volume 1 Chapter 6 (20 sections)
-Review and enhance Volume 1 Chapter 7 (5 sections)
-Review and enhance Volume 1 Chapter 8 (9 sections)
-Review and enhance Volume 1 Chapter 9 (2 sections)
-Review and enhance Volume 1 Chapter 10 (1 section)
-Review and enhance Volume 1 Chapter 11 (2 sections)
-Review and enhance Volume 1 Chapter 12 (8 sections)
-Review and enhance Volume 1 Chapter 13 (6 sections)
-Review and enhance Volume 1 Chapter 14 (17 sections)
-Review and enhance Volume 2 Chapter 15 (3 sections)
-Review and enhance Volume 2 Chapter 16 (5 sections)
-Review and enhance Volume 2 Chapter 17 (15 sections)
-Review and enhance Volume 2 Chapter 18 (25 sections)
-Review and enhance Volume 2 Chapter 19 (2 sections)
-Review and enhance Volume 2 Chapter 20 (9 sections)
-Review and enhance Volume 2 Chapter 21 (2 sections)
-Review and enhance Volume 2 Chapter 22 (10 sections)
-Review and enhance Volume 2 Chapter 23 (20 sections)
-Review and enhance Volume 2 Chapter 24 (1 section)
-Review and enhance Volume 2 Chapter 25 (8 sections)
-
-6. Review Root Text
-
-Examine the current content against the sources located in 
-
-`/home/opencode/MDZOD/1/text/froze/tibetan/`
-`/home/opencode/MDZOD/1/text/frozen/liturgical/`
-
-IMPORTANT: Be sure to get line counts so you don't accidently overwrite with partial knowledge of the file resulting in DATA LOSS!
-
-7. Evaluate Quality Standards
-
-Assess each file to determine if it meets the A++ standards qualitatively.
-Focus on literacy, coherence, accuracy, and depth of understanding.
-
-Be sure to check ALL section files for EACH chapter; don't just presume because some sections are good a whole chapter is good. 
-
-Systematically verify each file's current content quality!
-
-8. Update the Files
-
-If a file does not conform to the A++ exemplar standards, edit and enhance it based on insights gained from Tibetan and Liturgical sources. 
-
-Focus on:
-Clarifying concepts.
-Incorporating contextual depth.
-Ensuring linguistic elegance.
-Following prompt standards.
-Producing exemplar content.
-
-9. Quality Control Reporting
-
-Update the QC report located at 
-
-`/home/opencode/MDZOD/1/quality/<LAYER>_QUALITATIVE_QC.md.`
-
-If the file does not exist make one using the `Template.md` 
-
-Create a line item for each file reviewed or updated, eg.:
-
-## COMPLETION STATUS
-
-| Volume | Chapter | File | Status | Assessed | Notes |
-|--------|---------|------|--------|----------|-------|
-| 01 | 01 | 01-01-01-01.txt | ✅ A++ COMPLETE | 2026-02-14 | Exemplar quality.  No remaining enhancement required! |
-
-10. Iterate Through Files
-
-Continue this process for all files, systematically ensuring each one reaches the desired quality before moving to the next.
-By adhering to this structured approach, you will ensure that the  files meet A++ standards while maintaining high qualitative integrity throughout the enhancement process. If you have specific questions about any step, feel free to ask!
-
-11. Time Constraints
-
-Don't be concerned about time constraints.  Your clock isn't working correctly; things are actually moving way faster than you expect because you're running on a very high power server.   Just stick to the task at hand; the server power will make it go fast; don't cut corners!
-
-12.  Report
-
-Fill out the **COMPLETE** QUALITATIVE QC form when you're done! (Do not simply do quant statistical analysis!!!)
-
-
-13. Exemplars
-
-Finally update exemplars.md when you're done if you've found any content better than existing exemplars.  
-
-
-You have been assigned to update the "liturgical" `<LAYER>` and "meter" `<LAYER>` which go hand in hand.
-
-We're translating a one of Longchenpa's Treasuries and approaching a final draft.  Your Job is to ENHANCE existing files!
-
-1. Scope
-
-There are 213 Sections in every layer.  Work one section at a time.  Where appropriate enhance each file.  
-
-Familiarize yourself with the project here: 
-
-`/home/opencode/MDZOD/1/protocol/navigation.md`  // folder/file structure of the project
-`/home/opencode/MDZOD/1/contents/contents.md`  // table of contents of the text we're working on
-
-NOTE: the navigation document might be confused as to whether files are in dynamic or frozen state check the true file structure yourself!
-
-2. File Format
-
-section one is 01-01-01-01.txt.   volume-chapter-section-subsection.txt  chapter 15 begins volume two. 
-
-3. Utilize the Prompt Framework
-
-Refer to the prompt framework for structure and language guidance in:
-
-`/home/opencode/MDZOD/1/prompt/prompt_<LAYER>.md` 
-
-4. Benchmark Against Exemplars
-
-While updating files, compare them against the best `<LAYER>` exemplars from 
-
-`/home/opencode/MDZOD/1/protocol/exemplars.md`
-
-If you discover new outstanding examples, update the "best of the best" section in the exemplars document.  Always do your best to produce content of Exemplar A++ Quality.
-
-5. Review Existing Files
-
-Open the files in `/home/opencode/MDZOD/1/text/dynamic/<LAYER>/`
-
-6. Review Root Text
-
-Examine the current content against the sources located in 
-
-`/home/opencode/MDZOD/1/text/frozen/tibetan/`
-`/home/opencode/MDZOD/1/text/frozen/literal/`
-
-IMPORTANT: Be sure to get line counts so you don't accidently overwrite with partial knowledge of the file resulting in DATA LOSS!
-
-7. Evaluate Quality Standards
-
-Assess each file to determine if it meets the A++ standards qualitatively.
-Focus on literacy, coherence, accuracy, and depth of understanding.
-
-Be sure to check ALL section files for EACH chapter; don't just presume because some sections are good a whole chapter is good. 
-
-Systematically verify each file's current content quality!
-
-8. Update the Files
-
-If a file does not conform to the A++ exemplar standards, edit and enhance it based on insights gained from Tibetan and Liturgical sources. 
-
-Focus on:
-Clarifying concepts.
-Incorporating contextual depth.
-Ensuring linguistic elegance.
-Following prompt standards.
-Producing exemplar content.
-
-9. Quality Control Reporting
-
-If one already exists, **DELETE** the existing QC report for your respective layer
-
-`/home/opencode/MDZOD/1/quality/<LAYER>_QUALITATIVE_QC.md.`
-
-Make a new one using the `quality/Template.md` 
-
-10. Iterate Through Files
-
-Continue this process for all files, systematically ensuring each one reaches the desired quality before moving to the next.
-By adhering to this structured approach, you will ensure that the  files meet A++ standards while maintaining high qualitative integrity throughout the enhancement process. If you have specific questions about any step, feel free to ask!
-
-11. Time Constraints
-
-Don't be concerned about time constraints.  Your clock isn't working correctly; things are actually moving way faster than you expect because you're running on a very high power server.   Just stick to the task at hand; the server power will make it go fast; don't cut corners!
-
-12.  Report
-
-Fill out the **COMPLETE** QUALITATIVE_QC.md form when you're done! (Do not simply do quant statistical analysis!!!)
-
-Create a line item for each file reviewed or updated, eg.:
-
-## COMPLETION STATUS
-
-| Volume | Chapter | File | Status | Assessed | Notes |
-|--------|---------|------|--------|----------|-------|
-| 01 | 01 | 01-01-01-01.txt | ✅ A++ COMPLETE | 2026-02-14 | Exemplar quality.  No remaining enhancement required! |
-
-13.  Note:
-
-(None)
-
-14. Exemplars
-
-Finally if you have found any exemplary content better than what is in the exemplar.md file then update it with the best of the best!
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+- Never overwrite files without verifying complete content via line count comparison.  
+- Review all sections individually; quality varies within chapters.  
+- The navigation documentation may not reflect current frozen/dynamic file states—verify actual filesystem structure.  
+- Focus on qualitative excellence, not quantitative metrics.
