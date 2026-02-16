@@ -2,17 +2,23 @@
 **Layer:** Scholar (Four Pillars Analysis)  
 **Project:** Theg mchog rin po che'i mdzod (Treasury of Supreme Vehicle)  
 **Date:** 2026-02-16  
-**Status:** PHASE 1 COMPLETE - Critical Trimming Done, Major Expansion Required
+**Status:** PHASE 2 IN PROGRESS - Major Expansion Underway
 
 ---
 
 ## EXECUTIVE SUMMARY
 
-**Completed:**
+**Phase 1 Completed:**
 - ✅ Deleted outdated QC report
 - ✅ Trimmed 13 structural fragments (ratios 16-62x → 1-3x)
 - ✅ Verified Four Pillars coverage across all 213 files
 - ✅ Identified 21 large files requiring major expansion
+
+**Phase 2 Progress:**
+- ✅ Expanded 02-19-01-01: 0.39x → 0.49x (+18KB added)
+- ✅ Expanded 02-25-01-01: 0.23x → 0.33x (+8KB added)
+- ✅ Expanded 02-23-06-01: 0.26x → 0.41x (+11KB added)
+- **Total Phase 2 added:** ~37KB comprehensive Four Pillars analysis
 
 **Critical Finding:**
 21 files with >20KB Tibetan content have <0.5x scholar ratios, requiring 5-10x expansion to meet A++ standards (2.0-3.0x target).
@@ -46,7 +52,53 @@
 
 ---
 
-### CRITICAL FILES REQUIRING EXPANSION (21 Files)
+### PHASE 2 EXPANSION COMPLETED (3 Files)
+
+| File | Tibetan | Before | After | Added | Coverage |
+|------|---------|--------|-------|-------|----------|
+| 02-19-01-01 | 184,130b | 72,730b (0.39x) | 90,400b (0.49x) | +17,670b | Trekcho eight freedoms, self-arising appearance, tantra citations |
+| 02-25-01-01 | 83,127b | 19,418b (0.23x) | 27,819b (0.33x) | +8,401b | Fruition process, fivefold dissolution, crystal metaphor |
+| 02-23-06-01 | 76,920b | 20,627b (0.26x) | 31,876b (0.41x) | +11,249b | Red A-letter transference, four wisdoms, five Buddha families |
+| **TOTAL** | **344,177b** | **112,775b** | **150,095b** | **+37,320b** | **Average ratio: 0.44x** |
+
+**Expansion Methodology:**
+- Comprehensive Four Pillars coverage for each major doctrinal section
+- Detailed philological analysis of technical terms in Wylie
+- Extensive contextual citations from tantras and Nyingma sources
+- Philosophical unpacking of complex Dzogchen concepts
+- Soteriological implications and practice instructions (as scholarly description)
+- Preservation of third-person scholarly voice throughout
+- XML tagging with accurate line range mapping
+
+**Content Added:**
+
+**02-19-01-01 (Trekcho/Thogal):**
+- Eightfold liberation perspective (*chugr*) analysis
+- Self-arising self-appearance (*rang shar rang snang*) framework
+- Citations from *Klong drug pa*, *Nor bu 'phrul 'khyil*, *Mu tig phreng ba*
+- Fourfold direct introduction (*ngo sprod bzhi*)
+- Three ways of sustaining the view (*bskyang ba gsum*)
+- Sixteen dharmas and three results analysis
+
+**02-25-01-01 (Fruition):**
+- Single bindu (*thig le nyag gcig*) theory
+- Fivefold dissolution process
+- Space-merging metaphors
+- Three modes of liberation (this life, bardo, pure fields)
+- Crystal (*shel gong*) metaphor analysis
+- Samantabhadra fruition state
+
+**02-23-06-01 (Bardo):**
+- Red A-letter transference mechanics
+- Light dissolution stages (mother-child union)
+- Four wisdoms framework (Dharmadhatu, Mirror-like, Equality, Discriminating)
+- Five Buddha families mandala architecture
+- Deity recognition instructions
+- Bardo liberation methodology
+
+---
+
+### CRITICAL FILES REQUIRING EXPANSION (18 Files Remaining)
 
 These files have substantial Tibetan content (>20KB) but inadequate scholar analysis (<0.5x ratio). They require 5-10x expansion to reach A++ standards.
 
@@ -56,8 +108,8 @@ These files have substantial Tibetan content (>20KB) but inadequate scholar anal
 |------|---------|---------|--------|---------|
 | 01-05-04-06 | 38,110b | 7,181b (0.18x) | 76-114KB | Layered cosmology |
 | 02-25-07-01 | 46,161b | 10,108b (0.21x) | 92-138KB | Spontaneous results |
-| 02-25-01-01 | 83,127b | 19,418b (0.23x) | 166-249KB | Pearl Garland results |
-| 02-23-06-01 | 76,920b | 20,627b (0.26x) | 154-231KB | Red A-Letter transference |
+| 02-25-01-01 | 83,127b | 27,819b (0.33x) | 166-249KB | Pearl Garland results |
+| 02-23-06-01 | 76,920b | 31,876b (0.41x) | 154-231KB | Red A-Letter transference |
 | 02-17-04-01 | 68,900b | 19,517b (0.28x) | 138-207KB | Path stages detailed |
 | 02-18-15-01 | 36,944b | 10,609b (0.28x) | 74-111KB | Continuous gazing |
 | 01-02-01-05 | 71,940b | 21,979b (0.30x) | 144-216KB | Cosmology geography |
@@ -74,7 +126,7 @@ These files have substantial Tibetan content (>20KB) but inadequate scholar anal
 | 02-25-06-02 | 23,856b | 7,965b (0.33x) | 48-72KB | Three kāyas varieties |
 | 02-20-01-01 | 78,446b | 28,277b (0.36x) | 157-235KB | Direct recognition |
 | 01-13-01-01 | 35,112b | 12,722b (0.36x) | 70-105KB | Karmic winds purified |
-| 02-19-01-01 | 184,130b | 72,730b (0.39x) | 368-552KB | **Trekcho/Thogal** |
+| 02-19-01-01 | 184,130b | 90,400b (0.49x) | 368-552KB | **Trekcho/Thogal** |
 | 02-23-07-01 | 38,514b | 13,710b (0.35x) | 77-115KB | Bardo recognition |
 | 02-23-04-01 | 52,713b | 16,452b (0.31x) | 105-158KB | Five's first external |
 
