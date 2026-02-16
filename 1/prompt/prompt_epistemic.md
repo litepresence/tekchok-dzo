@@ -108,18 +108,39 @@ Risk flags must specify exact doctrinal tension:
 
 ---
 
-### DIAGNOSTIC BYTE RATIOS (Detect Problems, NOT Targets)
+### DIAGNOSTIC BYTE RATIOS (Epistemic Layer - Minimal but Specific)
+
+**⚠️ EPISTEMIC LAYER IS VIEW CLASSIFICATION, NOT COMMENTARY**
+
+This layer provides concise view-stratification with precise terminology. Expected ratios are LOWER than commentary/scholar layers due to focused classification format.
 
 | Indicator | Ratio | Check This |
 |-----------|-------|------------|
-| **INCOMPLETE Warning** | <0.4x on doctrinal material | Are all major doctrinal points classified? |
-| **FLUFF Warning** | >1.5x | Is every sentence specific to this passage? Could it apply to any Dzogchen text? |
-| **Healthy** | 0.5-1.2x | Verify Six Criteria above are met |
+| **INCOMPLETE Warning** | <0.05x on material >50KB | Are major doctrinal points unclassified? |
+| **INCOMPLETE Check** | <0.1x on material 10-50KB | Are view distinctions missing? |
+| **FLUFF Warning** | >0.8x | Is content padded with generic phrases? |
+| **Healthy Range** | 0.05-0.4x | Verify Six Criteria above are met |
 
-**⚠️ CRITICAL DISCOVERY:**
-- Files can have GOOD ratios but be LOW QUALITY (generic content)
-- Files can have LOW ratios but be HIGH QUALITY (minimal but specific)
-- **ALWAYS prioritize qualitative assessment over byte counts**
+**Layer-Specific Guidance:**
+- **Trekcho/Thogal, Bardo, Phowa sections:** 0.05-0.15x (highly technical, concise classification)
+- **Doxography, philosophical analysis:** 0.1-0.25x (view distinctions clearly marked)
+- **Tantric physiology, channels/winds:** 0.08-0.2x (technical classification)
+- **Structural markers, brief sections:** 0.2-0.8x (proportional to content)
+
+**⚠️ CRITICAL PRINCIPLES:**
+- **Epistemic layer = classification, not explanation**
+- **A++ Quality = comprehensive coverage + precision, not byte count**
+- A file at 0.08x with all view distinctions precisely marked = A++
+- A file at 0.6x with generic content = C (regardless of ratio)
+- **Qualitative criteria ALWAYS override quantitative metrics**
+
+**Quality Checklist (NOT byte targets):**
+- [ ] Every major doctrinal shift classified?
+- [ ] View registers precise (dzogchen-rigpa, tantric-transformative, sutric-provisional)?
+- [ ] Risk flags specific and contextualized?
+- [ ] Tibetan terms used for technical concepts?
+- [ ] Zero generic template phrases?
+- [ ] Citations identified with functional context?
 
 ## ABSOLUTE CONSTRAINTS
 

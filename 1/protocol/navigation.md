@@ -184,17 +184,30 @@ done | sort -t= -k3 -n | tail -20
 5. **Citation Integration** - Root text citations identified with functional context
 6. **Risk Contextualization** - Specific doctrinal tension points flagged
 
-**Diagnostic Indicators:**
+**Diagnostic Indicators (Epistemic Layer - Minimal but Specific):**
 
 | Warning | Ratio | Meaning | Action |
 |---------|-------|---------|--------|
-| INCOMPLETE | <0.4x on doctrinal material | May miss view distinctions | Check coverage of major points |
-| FLUFF | >1.5x | May contain generic padding | Check: Is every sentence passage-specific? |
-| HEALTHY | 0.5-1.2x | Proportionate | Verify 6 qualitative criteria above |
+| INCOMPLETE | <0.05x on doctrinal material (>5000 bytes) | Major doctrinal points unclassified | Check: Are all key view distinctions identified? |
+| FLUFF | >0.8x | May contain generic padding | Check: Is every classification passage-specific? |
+| HEALTHY | 0.05-0.4x | Proportionate for view classification | Verify 6 qualitative criteria above |
 
-**⚠️ CRITICAL:** Files can have adequate byte ratios but be LOW QUALITY (generic content).
-Files can have low byte ratios but be HIGH QUALITY (minimal but specific).
-**ALWAYS prioritize qualitative assessment.**
+**⚠️ CRITICAL:** Epistemic layer is VIEW CLASSIFICATION, not commentary. Ratios will naturally be lower than commentary/scholar layers. A file at 0.1x with comprehensive view coverage is A++; a file at 0.6x with generic content is C.
+
+**Epistemic Layer Ratio Guidance:**
+- **Complex doctrinal sections (50KB+ Tibetan):** 0.05-0.2x is healthy (concise classification)
+- **Standard sections (10-50KB):** 0.1-0.4x is healthy
+- **Brief sections (<10KB):** 0.2-0.8x is healthy
+- **Critical threshold:** <0.03x on major doctrinal material suggests insufficient coverage
+
+**ALWAYS prioritize qualitative assessment:**
+- ✅ Are all major doctrinal points classified?
+- ✅ Are view registers precisely identified?
+- ✅ Are risk flags specific and contextualized?
+- ✅ Is Tibetan terminology used appropriately?
+- ✅ Zero generic template content?
+
+Files can have LOW ratios but be HIGH QUALITY (minimal but specific).
 
 ---
 
