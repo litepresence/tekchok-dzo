@@ -838,6 +838,241 @@ Full documentation: `/home/opencode/MDZOD/1/quality/LITURGICAL_AND_METER_QUALITA
 
 ---
 
+## DELUSION LAYER EXEMPLARS
+
+**Purpose:** Error analysis that is clinical, exact, and unsentimental. No correct view stated. No practice guidance offered.
+
+**Metrics:** Byte ratios are diagnostic tools—qualitative assessment is primary. Line counts are irrelevant.
+
+### EXEMPLAR 1: Cosmological Description (Adequate Coverage)
+**File:** `01-02-01-05.txt` | **Lines:** 999-1008
+**Tibetan:** ~15KB | **Delusion:** ~10KB | **Ratio:** ~0.66x
+**Qualitative:** 🟡 Adequate—comprehensive cascade mapping, distinct error types, page bleed awareness
+**Content:** Four Great Kings, celestial palaces, cosmic measurements
+
+```
+[999-1008] <guardian-deity-dependence> <protective-externalization>
+**Misreading:**
+The Four Great Kings (*'phags skyes po*, etc.) interpreted as actual protective deities who guard practitioners and directions—external powers to rely upon.
+
+**Why it arises:**
+"Guardian" suggests protection. Directional symbolism is universal. Fear seeks external security.
+
+**Primary consequence:**
+Dharma practice becomes seeking divine protection. Kings are worshipped for safety. Self-reliance is abandoned.
+
+**Secondary consequences:**
+Rituals for invoking guardians proliferate. Fear of "unprotected" directions. The natural protection of awareness is missed.
+
+**Cascade effects:**
+Triggers <guardian-worship> (deity reliance), <directional-fear> (unprotected quarters), <external-protection> (seeking safety outside), <ritual-security> (ceremonies for protection).
+```
+
+**Why Exemplary:**
+- Specific line range anchors error to source
+- Tibetan term (*'phags skyes po*) included for precision
+- Multiple cascade chains showing propagation
+- No correction offered—pure error cartography
+- Clinical tone without sensationalism
+
+---
+
+### EXEMPLAR 2: Advanced Dzogchen - Trekcho/Thogal (CRITICAL GAP)
+**File:** `02-19-01-01.txt` | **Lines:** 6414-6433
+**Tibetan:** ~85KB | **Delusion:** ~13KB | **Ratio:** ~0.15x ⚠️
+**Qualitative:** 🔴 CRITICAL—insufficient error coverage for advanced practice material
+**Content:** Trekcho completion, Thogal introduction, mind-nature analysis
+**Required:** Expansion to ~40-60KB (0.5-0.7x) with exhaustive cascade mapping
+
+```
+[6414-6433] <cause-effect-nihilism> <rgyu-bras-chad-pa>
+**Misreading:**
+The investigation showing mind has no cause interpreted as establishing nihilism—nothing has causes, karma doesn't function, actions have no consequences.
+
+**Why it arises:**
+"No cause" suggests absence of causality. Madhyamaka critiques of inherent causation. Fear of determinism. Libertarian free will fantasy.
+
+**Primary consequence:**
+Nihilistic rejection of dependent origination. "Nothing matters" becomes justification. Ethical conduct abandoned.
+
+**Secondary consequences:**
+- Rejecting karma while claiming Dzogchen
+- Spiritual license: "it's all empty"
+- Missing that conventional causality functions
+
+**Cascade effects:**
+Triggers <karma-denial> (no consequences), <ethical-nihilism> (anything goes), <conventional-rejection> (emptiness as license), <recognition-prevention> (nihilism obscures natural virtue).
+```
+
+**Why Exemplary:**
+- Philosophical precision (Madhyamaka reference)
+- Cultural context (Western libertarianism)
+- Ethical implications foregrounded
+- Root tag <recognition-prevention> shows ultimate consequence
+- Tibetan term (*rgyu-bras-chad-pa*) for technical accuracy
+
+**CRITICAL NOTE:** This section requires expansion from 250 to ~800-1000 lines to achieve adequate coverage of the 1669-line Tibetan source.
+
+---
+
+### EXEMPLAR 3: Formless Realm Analysis
+**File:** `01-02-01-05.txt` | **Lines:** 1080-1095
+
+```
+[1080-1095] <formless-samadhi-addiction> <blankness-chasing>
+**Misreading:**
+The formless realm attainments (*gzugs med khams*)—infinite space, infinite consciousness, nothingness, neither perception nor non-perception—interpreted as advanced meditation goals to achieve through effort.
+
+**Why it arises:**
+"Formless" sounds superior. "Infinite" suggests profundity. The four attainments appear progressive.
+
+**Primary consequence:**
+Formlessness is substantialized as special state. Meditation becomes blankness-seeking. Recognition is confused with absence.
+
+**Secondary consequences:**
+Practitioners chase void-experiences. "Nothingness" becomes something to get. The natural clarity is obscured by seeking blankness.
+
+**Cascade effects:**
+Triggers <void-chasing> (seeking emptiness), <blankness-addiction> (need for absence), <formless-fixation> (obsession with no-form), <absence-fetishism> (valuing lack).
+```
+
+**Why Exemplary:**
+- Recognizes progressive appearance of attainments as trap
+- Distinguishes recognition from absence
+- Shows how "advanced" concepts become obstacles
+- Multiple cascade paths from single root
+
+---
+
+### EXEMPLAR 4: Neither-Nor Paradox
+**File:** `02-19-01-01.txt` | **Lines:** 1096-1110
+
+```
+[1096-1110] <neither-nor-paradox> <cognitive-exhaustion>
+**Misreading:**
+The "neither perception nor non-perception" (*'du shes med 'du shes med min*) interpreted as ultimate cognitive achievement—transcending all categories through mental gymnastics.
+
+**Why it arises:**
+Paradox sounds profound. "Neither-nor" suggests transcendence. Philosophical sophistication appeals.
+
+**Primary consequence:**
+The attainment is intellectualized into conceptual puzzle. Practitioners try to "think neither-nor." The natural simplicity is replaced by cognitive strain.
+
+**Secondary consequences:**
+Mental exhaustion from attempting paradox. "I can't grasp it" becomes pride. The obvious nature is obscured by complexity.
+
+**Cascade effects:**
+Triggers <paradox-fetishism> (valuing contradictions), <cognitive-strain> (mental exhaustion), <neither-nor-obsession> (obsessive negation), <intellectual-spirituality> (thinking as meditation).
+```
+
+**Why Exemplary:**
+- Identifies sophistication as trap
+- Shows how "profound" becomes obstacle
+- Cognitive exhaustion as consequence
+- Pride in not-grasping as secondary error
+
+---
+
+### EXEMPLAR 5: Page Bleed Awareness
+**File:** `02-19-01-01.txt` | **Lines:** PAGE BLEED
+
+```
+[PAGE BLEED AWARENESS]
+
+Page 6414-6688 presents Trekcho completion and Thogal introduction—culmination of Dzogchen practice. This is extremely advanced material with maximum error risk.
+
+**ERROR RISK:** Trekcho/Thogal teachings are commonly misunderstood as sequential practices, visualization techniques, or special states to achieve. The subtlety of "direct perception" invites both nihilism (nothing to do) and grasping (special experiences to have).
+
+**SCHOLAR CHECK:** Ensure reader understands Trekcho and Thogal are not separate practices or levels—they are two aspects or languages pointing to the same recognition. Neither requires completion of the other; both point to ever-present nature.
+
+**CONTINUITY NOTE:** Lines 6689+ continue with fruition teachings. The Trekcho/Thogal material represents the pinnacle of the text's instructions.
+```
+
+**Why Exemplary:**
+- Section-level context provided
+- Specific error risks for advanced material
+- Scholar layer coordination
+- Continuity awareness for surrounding sections
+- Maximum error risk flagged appropriately
+
+---
+
+## DELUSION LAYER QUALITY STANDARDS
+
+### CURRENT DELUSION LAYER STATUS (Byte-Based Analysis)
+
+**Analysis Date:** 2026-02-16  
+**Total Files:** 213 sections  
+**Critical Finding:** Multiple files fail BOTH quantitative and qualitative standards
+
+#### By Quantitative Tier (Byte Ratio):
+
+| Tier | Ratio Range | File Count | Status |
+|------|-------------|------------|--------|
+| 🔴 **CRITICAL** | <0.10x | 1 (02-19-01-01) | Emergency expansion required |
+| 🟠 **WARNING** | 0.10-0.30x | 45 files | Likely insufficient coverage |
+| 🟡 **CAUTION** | 0.30-0.50x | 52 files | Verify qualitatively |
+| 🟢 **NOMINAL** | 0.50-2.0x | 98 files | Normal range |
+| ✅ **ADEQUATE** | >2.0x (tiny files only) | 17 files | High ratio appropriate for <200B |
+
+#### Representative Examples by Tier:
+
+| Section | Tibetan | Delusion | Ratio | Tier | Content Type |
+|---------|---------|----------|-------|------|--------------|
+| **02-19-01-01** | **184KB** | **11KB** | **0.059x** | 🔴 **CRITICAL** | Trekcho/Thogal - Advanced practice |
+| 02-25-05-01 | 28KB | 2KB | 0.072x | 🔴 **CRITICAL** | Spontaneous results |
+| 02-23-07-01 | 39KB | 3KB | 0.073x | 🔴 **CRITICAL** | Bardo instructions |
+| 02-23-09-01 | 57KB | 4KB | 0.073x | 🔴 **CRITICAL** | Bardo closing |
+| 01-04-01-01 | 67KB | 11KB | 0.163x | 🟠 **WARNING** | Philosophical systems |
+| 01-05-04-01 | 162KB | 29KB | 0.177x | 🟠 **WARNING** | Tantra difficult points |
+| 01-02-01-05 | 72KB | 14KB | 0.195x | 🟠 **WARNING** | Cosmology |
+| 02-22-01-01 | 59KB | 17KB | 0.281x | 🟡 **CAUTION** | Bardo (better but needs check) |
+| 01-06-12-01 | 65KB | 22KB | 0.341x | 🟡 **CAUTION** | Empowerment deep explanation |
+| 01-02-02-02 | 15KB | 15KB | 0.954x | 🟢 **NOMINAL** | Hells duration |
+| 01-07-01-01 | 17KB | 15KB | 0.888x | 🟢 **NOMINAL** | Samaya commitments |
+| 01-06-02-01 | 99KB | 317KB | 3.200x | ✅ **ADEQUATE*** | *Tiny structural fragment context |
+
+*Note: 01-06-02-01 shows high ratio but is a large file with extensive analysis—verify qualitatively for potential padding.
+
+#### Critical Gap Detail:
+
+**02-19-01-01 (Trekcho/Thogal Completion)**
+- **Tibetan:** 184KB (~1700 lines of advanced Dzogchen)
+- **Current Delusion:** 11KB (~250 lines of error analysis)
+- **Ratio:** 0.059x (CRITICAL)
+- **Required:** Expansion to ~55-75KB (0.30-0.40x)
+- **Why critical:** 
+  - Pinnacle of Dzogchen practice instructions
+  - Maximum error risk for practitioners
+  - Currently missing analysis for ~90% of doctrinal points
+  - Qualitative assessment: Only 10 error blocks for 1700 lines = severe under-coverage
+
+### Required Elements for A++ Delusion Analysis:
+
+1. **Line Range Precision:** Always cite [start-end] from Tibetan source
+2. **Error Type Tags:** Use specific tags from prompt_delusion.md taxonomy
+3. **Tibetan Terms:** Include key Tibetan terms in parentheses for technical precision
+4. **Cascade Chains:** Minimum 3-4 triggered errors per root error
+5. **No Corrections:** Never state correct view or offer practice guidance
+6. **Clinical Tone:** Unsentimental, exact, unsensational
+7. **Cross-Layer Awareness:** Note page bleed, continuity, related sections
+8. **Scholar Coordination:** Flag when scholar layer check needed
+
+### Expansion Protocol for Critical Gaps (Qualitative Priority):
+
+When qualitative assessment reveals insufficient coverage:
+
+1. **Identify all doctrinal points** in Tibetan source
+2. **Generate 2-3 error types per point** (literalization, psychologization, nihilism, etc.)
+3. **Map cascade chains** for each error type
+4. **Add page bleed analysis** for context
+5. **Verify qualitatively** - comprehensive coverage? distinct errors? cascade chains?
+6. **Byte ratio check** - diagnostic only, not target
+
+**NOTE:** Line counts are irrelevant. Byte ratios are diagnostic guide rails. Qualitative comprehensiveness is primary.
+
+---
+
 ## Usage Notes
 
 When revising or generating new content, reference these exemplars for:
@@ -846,10 +1081,119 @@ When revising or generating new content, reference these exemplars for:
 2. **Liturgical Layer:** Balance elegance with precision—majestic but not flowery
 3. **Commentary Layer:** Be earthy and direct—Patrul's voice is intimate, not academic
 4. **Scholar Layer:** Use Four Pillars consistently—tag all analysis
+5. **Delusion Layer:** Be clinical and exact—map errors without correction
 
 **Remember:** These are "best of the best" but still first drafts. Second and third drafts will refine further.
 
 **EXCEPTION:** The Liturgical and Meter layers (as of 2026-02-15) are FINAL DRAFT quality and ready for publication. No further revision required.
+
+**PRIORITY:** The Delusion layer section 02-19-01-01 requires immediate expansion from ~0.15x (~13KB) to ~0.5-0.7x (~40-60KB) based on qualitative assessment of coverage gaps in advanced Dzogchen material.
+
+**METRICS HIERARCHY:**
+1. **Qualitative assessment** (comprehensive coverage, distinct errors, cascade chains)
+2. **Byte ratios** (diagnostic guide rails)
+3. **Line counts** (irrelevant, ignore)
+
+---
+
+## QUALITATIVE ASSESSMENT FRAMEWORK (PRIMARY)
+
+**Principle:** Quality is determined by insight depth, not byte count or line count. Stop when errors are fully mapped, not when a ratio is hit.
+
+### A++ Quality Markers (Delusion Layer)
+
+**1. Comprehensive Coverage**
+- Every doctrinal point that could be misinterpreted has error mapping
+- No "obvious" errors assumed—spell out even common misreadings
+- Distinct errors kept separate (don't merge similar but different failures)
+
+**2. Specificity Over Generality**
+- ❌ BAD: "This could be misinterpreted as nihilism"
+- ✅ GOOD: "The phrase 'no cause' interpreted as 'karma doesn't function' rather than 'no inherent cause'"
+
+**3. Cascade Chain Clarity**
+Every root error shows propagation:
+```
+<root-error> → <secondary-error> [mechanism]
+<secondary-error> → <tertiary-error> [mechanism]
+```
+
+**4. Consequence Depth**
+- **Primary:** What necessarily degrades immediately
+- **Secondary:** Downstream effects (days/weeks)
+- **Long-term:** Practice distortion over years
+- **Social:** Community/lineage damage
+
+**5. Tibetan Precision**
+- Key terms in Tibetan with phonetic rendering
+- Shows understanding of linguistic nuances
+- Enables cross-reference to dictionary.md
+
+**6. Clinical Tone**
+- No sensationalism
+- No moralizing
+- No "correct view" stated
+- Exact, unsentimental, precise
+
+### Byte Ratio Diagnostic (NOT TARGET)
+
+```bash
+# Check section
+tib=$(stat -c%s frozen/tibetan/VV-CC-SS-SS.txt)
+del=$(stat -c%s dynamic/delusion/VV-CC-SS-SS.txt)
+ratio=$(echo "scale=2; $del/$tib" | bc)
+echo "Ratio: ${ratio}x"
+```
+
+**Interpretation:**
+- **Ratio <0.50x:** Check qualitatively—may be missing coverage
+- **Ratio 0.50-1.50x:** Normal range (verify qualitatively)
+- **Ratio >2.50x:** Check for redundancy/padding
+
+**Key Rule:** A section with 0.30x ratio can be A++ if every doctrinal point is comprehensively mapped. A section with 1.50x ratio can be C if filled with generic padding.
+
+### Qualitative vs Quantitative Examples
+
+**EXAMPLE 1: Low Ratio, High Quality**
+- Tibetan: 5KB | Delusion: 2KB | Ratio: 0.40x
+- Qualitative: 8 distinct error types, all doctrinal points mapped, cascade chains clear
+- Verdict: ✅ A++ (ratio is diagnostic, not binding)
+
+**EXAMPLE 2: High Ratio, Low Quality**
+- Tibetan: 5KB | Delusion: 8KB | Ratio: 1.60x
+- Qualitative: Generic statements, merged errors, no cascade chains, template phrases
+- Verdict: ❌ C (padding inflates ratio without adding insight)
+
+**EXAMPLE 3: Critical Gap (Both Low)**
+- Tibetan: 85KB | Delusion: 13KB | Ratio: 0.15x
+- Qualitative: Many doctrinal points unmapped, missing cascade chains, insufficient for advanced material
+- Verdict: 🔴 CRITICAL (both ratio AND qualitative assessment flag gap)
+
+### How to Assess Without Metrics
+
+**Step 1: Read Tibetan Source**
+- Identify every doctrinal point
+- Note technical terms, analogies, instructions
+- Mark potential misreading traps
+
+**Step 2: Review Delusion Analysis**
+- Does every point have error mapping?
+- Are errors distinct and specific?
+- Do cascade chains show propagation?
+- Are consequences mapped at multiple levels?
+
+**Step 3: Judge Comprehensiveness**
+- Could a practitioner fall into a trap not mentioned?
+- Are the errors immediately recognizable?
+- Do cascade chains reveal hidden consequences?
+
+**Step 4: Byte Ratio Check (Last)**
+- Diagnostic only—confirms qualitative assessment
+- <0.50x = verify comprehensiveness
+- >2.50x = check for padding
+- Normal range = no action needed
+
+**Golden Rule:** If you've mapped every significant failure mode and the ratio is 0.30x, it's complete. If you've padded to 1.50x but missed key errors, it's incomplete.
 
 ---
 

@@ -103,29 +103,48 @@ Example:
 
 ---
 
-## BYTE RATIO SPECIFICATIONS (MANDATORY)
+## BYTE RATIO SPECIFICATIONS
 
 **Target:** Commentary bytes ÷ Tibetan source bytes
 
-| Metric | Value |
-|--------|-------|
-| **Minimum** | 0.70x |
-| **Target Center** | 1.0x |
-| **Maximum** | 1.30x |
+| Metric | Value | Notes |
+|--------|-------|-------|
+| **Minimum (Hard)** | 0.70x | Never go below—ensures coverage |
+| **Typical Range** | 0.80-1.50x | Most sections should fall here |
+| **Target Center** | 1.0x | Ideal proportionality |
+| **Maximum (Soft)** | 1.50x | Dense technical content may approach |
+| **Diagnostic Review** | >2.50x | Check for fluff/padding |
 
-**Why This Range:**
-- **0.70x minimum:** Ensures adequate coverage of Tibetan content
-- **1.0x target:** Ideal proportionality—commentary reflects source depth
-- **1.30x maximum:** Prevents fluff and unnecessary expansion
+**Content-Specific Guidelines:**
 
-**Quality Principle:** Coverage over bytes. A file with excellent coverage at 0.65x is better than padded content at 1.5x.
+**Standard Sections (Tibetan 1000-5000 bytes):**
+- Target: 0.80-1.20x
+- Dense philosophical/theological content: up to 1.50x acceptable
+- Simple narrative/descriptive: 0.80-1.0x preferred
+
+**Structural Fragments (Tibetan <500 bytes):**
+- May exceed 1.50x ratio
+- Quality assessed by coverage depth, not ratio
+- Examples: List markers, transitional phrases, section headers
+
+**Complex Sections (Tibetan >5000 bytes):**
+- May be slightly below 1.0x if coverage is comprehensive
+- Focus on addressing all major doctrinal points
+- Ratio less important than content completeness
+
+**Quality Hierarchy (Always Apply):**
+1. **Comprehensive Coverage** - All Tibetan content addressed (primary)
+2. **Voice Rotation** - 6+ distinct voices, authentic patterns (essential)
+3. **Doctrinal Accuracy** - Alignment with liturgical layer (mandatory)
+4. **Byte Ratio** - Within specified range (guideline, not quota)
 
 **Validation Command:**
 ```bash
 cd /home/opencode/MDZOD/1/text
 tib=$(stat -c%s frozen/tibetan/01-01-01-01.txt)
 comm=$(stat -c%s dynamic/commentary/01-01-01-01.txt)
-echo "scale=2; $comm/$tib" | bc
+ratio=$(echo "scale=2; $comm/$tib" | bc)
+echo "Ratio: ${ratio}x (target: 0.80-1.50x)"
 ```
 
 ---

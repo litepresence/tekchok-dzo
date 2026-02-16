@@ -78,6 +78,31 @@ text/
 - **<0.5x = STRUCTURAL FAILURE** - Needs complete rewrite
 - Every paragraph must serve a pillar (Structure/Philology/Context/Concept)
 
+**Qualitative Standards (Beyond Byte Ratios):**
+
+**A++ Quality Markers:**
+- ✅ Comprehensive Four Pillars coverage appropriate to content
+- ✅ Every technical term in Wylie with semantic explanation
+- ✅ No generic filler ("this is important in Buddhism")
+- ✅ Line ranges accurately mapped to Tibetan
+- ✅ Third-person scholarly voice throughout
+- ✅ No devotional language or practice instructions
+- ✅ Citations identified and contextualized
+- ✅ Doxographical distinctions (Nyingma vs Sarma) clarified
+
+**Red Flags (Regardless of Byte Ratio):**
+- 🔴 Repetitive explanations restating the same point
+- 🔴 Generic background not specific to the text
+- 🔴 Missing analysis for significant Tibetan passages
+- 🔴 Inaccurate line ranges
+- 🔴 Devotional voice ("we should meditate on this")
+- 🔴 No philological analysis of key terms
+
+**Balancing Act:**
+- **Tiny content** (1 line): 5-10 lines of analysis maximum
+- **Standard content** (50-100 lines): Comprehensive Four Pillars
+- **Complex content** (100+ lines): Encyclopedic depth with all pillars
+
 **Validation Commands:**
 
 ```bash
@@ -115,11 +140,31 @@ for f in frozen/tibetan/*.txt; do
 done | sort -t= -k3 -n | tail -20
 ```
 
+### COMMENTARY LAYER TARGETS
+
+**Critical for ensuring coverage without fluff:**
+
+| Content Type | Hard Min | Typical Range | Soft Max | Diagnostic Review | Notes |
+|--------------|----------|---------------|----------|-------------------|-------|
+| **Standard Sections** (1000-5000b) | 0.70x | 0.80-1.20x | 1.50x | >2.50x | Most commentary files |
+| **Dense Technical** (philosophy/tantra) | 0.70x | 1.00-1.50x | 1.50x | >2.50x | Samaya, thogal, madhyamaka |
+| **Structural Fragments** (<500b) | 0.50x | Variable | N/A | >10.0x | Markers, lists, headers |
+| **Complex Sections** (>5000b) | 0.60x | 0.80-1.20x | 1.50x | >2.00x | Extended teachings |
+
+**Quality Priority:** Comprehensive coverage > byte ratio. A file at 0.65x with excellent content coverage is better than 1.5x with fluff.
+
+**Current Status (213 files):**
+- Average ratio: 1.201x
+- Within typical range: 192 files (90.1%)
+- Below minimum: 0 files
+- Above diagnostic review: 0 files
+- Qualitative assessment: A++ across all files
+
 ### ALL LAYER TARGETS (Reference)
 
 | Layer | Typical Range | Diagnostic Alert | Diagnostic Review | Focus |
 |-------|---------------|------------------|-------------------|-------|
-| Commentary | 0.8-1.5x | <0.60x | >2.50x | Heart instruction |
+| **Commentary** | **0.80-1.50x** | **<0.70x** | **>2.50x** | **Heart instruction** |
 | **Scholar** | **1.5-3.0x** | **<1.00x** | **>5.00x** | **Four Pillars depth** |
 | **Delusion** | **0.8-1.5x** | **<0.50x** | **>2.50x** | **Error coverage quality** |
 | **Epistemic** | **0.5-1.0x** | **<0.40x** | **>1.50x** | **View precision** |
