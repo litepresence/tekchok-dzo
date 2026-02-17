@@ -4,7 +4,7 @@
 **Layer:** 6 of 12
 **Type:** Translation Layer (LLM Generated)
 **Purpose:** Sgrub pa'i gleng gzhi (Basis for Practice) - Ritual recitation text
-**Output:** `/text/liturgical/VV-CC-SS-SS.txt`
+**Output:** `/text/frozen/liturgical/VV-CC-SS-SS.txt`
 **Format:** Elegant prose/verse with meter classification
 
 ---

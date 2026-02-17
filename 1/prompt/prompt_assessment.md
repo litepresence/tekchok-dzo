@@ -36,9 +36,9 @@ read("/home/opencode/MDZOD/1/text/frozen/literal/VV-CC-SS-SS.txt")
 read("/home/opencode/MDZOD/1/text/frozen/liturgical/VV-CC-SS-SS.txt")
 read("/home/opencode/MDZOD/1/text/dynamic/commentary/VV-CC-SS-SS.txt")
 read("/home/opencode/MDZOD/1/text/dynamic/scholar/VV-CC-SS-SS.txt")
-read("/home/opencode/MDZOD/1/text/dynamic/epistemic/VV-CC-SS-SS.txt")
+read("/home/opencode/MDZOD/1/text/frozen/epistemic/VV-CC-SS-SS.txt")
 read("/home/opencode/MDZOD/1/text/dynamic/delusion/VV-CC-SS-SS.txt")
-read("/home/opencode/MDZOD/1/text/dynamic/cognitive/VV-CC-SS-SS.txt")
+read("/home/opencode/MDZOD/1/text/frozen/cognitive/VV-CC-SS-SS.txt")
 
 # Reference materials
 read("/home/opencode/MDZOD/1/protocol/exemplars.md")

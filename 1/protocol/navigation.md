@@ -14,14 +14,19 @@ text/
 │   ├── wylie/          # Transliteration: 213 files
 │   ├── literal/        # 1:1 mapping: 213 files
 │   ├── liturgical/     # Vajra speech: 213 files
-│   ├── meter/         # PROSE/VERSE/ORNAMENTAL
-│   └── conventions/   # Editorial
+│   ├── epistemic/      # View stratification: 213 files
+│   └── cognitive/      # Translator log: 213 files
 ├── dynamic/            # Mutable (WORK HERE)
 │   ├── commentary/    # Heart instruction: 213 files
 │   ├── scholar/       # Four Pillars: 213 files
-│   ├── epistemic/     # View stratification: 213 files
 │   ├── delusion/      # Error detection: 213 files
-│   └── cognitive/     # Translator log: 213 files
+│   ├── collated/      # Combined frozen layers: 213 files
+│   ├── meter/         # PROSE/VERSE/ORNAMENTAL: 213 files
+│   └── assessment/    # Quality metadata: 8 files
+├── root/               # Source materials (READ ONLY)
+│   ├── artifacts/     # Reference materials
+│   └── raw/          # Original source files
+└── preface/            # Front matter
 ```
 
 **Section ID:** `VV-CC-SS-SS` (Volume-Chapter-Section-Subsection)

@@ -185,7 +185,7 @@ echo "=== EPISTEMIC - WORST DEVIATIONS (below 0.4x) ==="
 for f in frozen/tibetan/*.txt; do
   section=$(basename $f .txt)
   tib=$(stat -c%s "$f")
-  epi=$(stat -c%s dynamic/epistemic/${section}.txt 2>/dev/null || echo 0)
+  epi=$(stat -c%s frozen/epistemic/${section}.txt 2>/dev/null || echo 0)
   [ "$epi" != "0" ] && ratio=$(echo "scale=2; $epi/$tib" | bc) && 
     [ $(echo "$ratio < 0.4" | bc) -eq 1 ] && 
     deviation=$(echo "scale=2; 0.4 - $ratio" | bc) &&
@@ -236,7 +236,7 @@ read dynamic/${layer}/${section}.txt
 read text/frozen/tibetan/${section}.txt
 
 # Read liturgical for context
-read text/dynamic/liturgical/${section}.txt
+read text/frozen/liturgical/${section}.txt
 ```
 
 #### 3e. Update Layer to Target Range

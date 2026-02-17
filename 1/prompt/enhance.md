@@ -42,7 +42,7 @@ D) If content already meets A++ standards, proceed without modification—do not
 5. **Source Verification**  
    Examine current content against root sources:  
    - `/home/opencode/MDZOD/1/text/frozen/tibetan/`  
-   - `/home/opencode/MDZOD/1/text/dynamic/liturgical/`  
+   - `/home/opencode/MDZOD/1/text/frozen/liturgical/`  
 
    **CRITICAL**: Always verify line counts before editing to prevent data loss from partial overwrites.
 

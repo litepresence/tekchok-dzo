@@ -55,7 +55,7 @@
 - **Purpose:** Sgrub pa'i gleng gzhi (Basis for Practice)
 - **Content:** Elegant prose/verse for ritual recitation
 - **Status:** Active - Iterative refinement
-- **Location:** `text/liturgical/`
+- **Location:** `text/frozen/liturgical/`
 - **Key Constraint:** Balance metaphysical precision with vibratory effect
 
 ---

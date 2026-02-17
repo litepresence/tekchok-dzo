@@ -4,7 +4,7 @@
 **Layer:** 10 of 12
 **Type:** Analytical Layer (LLM Generated)
 **Purpose:** View-stratification and epistemic classification
-**Output:** `/text/epistemic/VV-CC-SS-SS.txt`
+**Output:** `/text/frozen/epistemic/VV-CC-SS-SS.txt`
 **Format:** XML-tagged view classification with risk flags
 
 ---
