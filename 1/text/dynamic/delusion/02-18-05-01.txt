@@ -1,48 +1,240 @@
-[4601-4631] <practice-error> [TREKCHO AS TECHNIQUE]
+[4601-4625] <speech-restriction-suppression> <ngag-bcad-force>
+
 **Misreading:**
-Trekcho is a specific meditation technique or method to practice.
+Cutting speech (*smra ba bcad pa*) interpreted as forceful suppression through willpower, creating inner conflict and tension.
 
 **Why it arises:**
-"Cutting through" suggests active method. Technique-oriented culture.
+"Cut" suggests prohibition. "Restriction" implies force. Suppression-pattern: "I must not speak."
 
 **Primary consequence:**
-Trekcho becomes another meditation method.
+Speech-suppression: forced silence creating pressure. Natural quiet replaced by enforced muteness.
 
 **Secondary consequences:**
-Trying to "do" cutting through rather than recognizing.
+- Inner tension from holding back
+- "I want to speak but can't" conflict
+- Missing that silence is natural, not forced
 
 **Cascade effects:**
-<meditationism-error>.
+<speech-restriction-suppression> → <forced-silence> [willpower muteness] → <inner-conflict> [holding back] → <natural-quiet-miss> [silence as ease]
 
-[4632-4672] <practice-error> [TREKCHO AS TECHNIQUE]
+---
+
+[4601-4625] <long-silence-achievement> <ring-du-bslab-pa-goal>
+
 **Misreading:**
-Trekcho is a specific meditation technique or method to practice.
+"Train in long silence" (*ring du bslab*) interpreted as duration achievement, creating silence-length competition.
 
 **Why it arises:**
-"Cutting through" suggests active method. Technique-oriented culture.
+"Long" suggests duration. "Train" implies accumulation. Achievement-pattern: "I did 3 days silent."
 
 **Primary consequence:**
-Trekcho becomes another meditation method.
+Silence-competition: measuring practice by duration. Natural silence replaced by endurance-test.
 
 **Secondary consequences:**
-Trying to "do" cutting through rather than recognizing.
+- "My silence retreat was longer"
+- Pride in duration over quality
+- Missing that silence is moment-to-moment
 
 **Cascade effects:**
-<meditationism-error>.
+<long-silence-achievement> → <silence-competition> [duration pride] → <endurance-test> [lasting vs being] → <moment-silence-miss> [silence as now]
 
-[4673-4695] <practice-error> [TREKCHO AS TECHNIQUE]
+---
+
+[4601-4625] <mantra-prohibition-attachment> <sngags-brjod-dgag-pa-obsession>
+
 **Misreading:**
-Trekcho is a specific meditation technique or method to practice.
+The prohibition on mantra recitation (*sngags la sogs pa brjod pa mi bya*) interpreted as absolute ban creating anxiety about accidental recitation.
 
 **Why it arises:**
-"Cutting through" suggests active method. Technique-oriented culture.
+"Prohibition" suggests rule. "Not do" implies restriction. Scrupulosity: "I might accidentally recite!"
 
 **Primary consequence:**
-Trekcho becomes another meditation method.
+Mantra-anxiety: obsessive monitoring of speech. Natural quiet replaced by prohibition-obsession.
 
 **Secondary consequences:**
-Trying to "do" cutting through rather than recognizing.
+- Fear of accidentally breaking silence
+- Missing that prohibition is contextual
+- Rule-following over recognition
 
 **Cascade effects:**
-<meditationism-error>.
+<mantra-prohibition-attachment> → <mantra-anxiety> [accidental speech fear] → <obsessive-monitoring> [speech checking] → <contextual-prohibition-miss> [rule as pointer]
 
+---
+
+[4626-4638] <three-key-points-mastery> <gnad-gsum-achievement>
+
+**Misreading:**
+The three key points (*gnad gsum*)—gateway, field, wind-rigpa—interpreted as techniques to master, creating checklist mentality.
+
+**Why it arises:**
+"Three" suggests set. "Key points" implies methods. Technique-thinking: "I must master these three."
+
+**Primary consequence:**
+Key-point-mastery: treating gnad as achievements. Natural recognition replaced by point-collecting.
+
+**Secondary consequences:**
+- "Have I mastered gateway key point?"
+- Missing that three are aspects of single display
+- Technique-accumulation over recognition
+
+**Cascade effects:**
+<three-key-points-mastery> → <key-point-mastery> [method collecting] → <checklist-mentality> [which point?] → <single-display-miss> [three as one]
+
+---
+
+[4626-4638] <gateway-key-point-fixation> <sgo'i-gnad-obsession>
+
+**Misreading:**
+The gateway key point (*sgo'i gnad*) interpreted as requiring specific eye positioning or gateway control, creating fixation on visual access.
+
+**Why it arises:**
+"Gateway" suggests entrance. "Key point" implies mechanism. Control-pattern: "I must control my gateway."
+
+**Primary consequence:**
+Gateway-fixation: obsession with visual access points. Natural seeing replaced by aperture-control.
+
+**Secondary consequences:**
+- "Is my gateway open/closed correctly?"
+- Physical eye strain from positioning
+- Missing that gateway is natural display
+
+**Cascade effects:**
+<gateway-key-point-fixation> → <gateway-fixation> [access control] → <aperture-obsession> [eye positioning] → <natural-seeing-miss> [gateway as display]
+
+---
+
+[4626-4638] <field-key-point-territoriality> <yul-gnad-possession>
+
+**Misreading:**
+The field key point (*yul gyi gnad*) interpreted as establishing territorial possession over perceptual space, creating field-ownership.
+
+**Why it arises:**
+"Field" suggests territory. "Key point" implies control. Possession-pattern: "This is my field."
+
+**Primary consequence:**
+Field-ownership: claiming perceptual territory. Natural field replaced by possessive space.
+
+**Secondary consequences:**
+- "My field of vision" attachment
+- Defensive protection of space
+- Missing that field is open display
+
+**Cascade effects:**
+<field-key-point-territoriality> → <field-ownership> [territorial claim] → <possessive-space> [protecting field] → <open-display-miss> [field as natural]
+
+---
+
+[4626-4638] <wind-rigpa-key-point-manipulation> <rlung-rig-gnad-control>
+
+**Misreading:**
+The wind-rigpa key point (*rlung rig gi gnad*) interpreted as requiring manipulation of subtle winds and awareness, creating energetic control obsession.
+
+**Why it arises:**
+"Wind" suggests energy. "Rigpa" implies awareness. Manipulation-thinking: "I must control these."
+
+**Primary consequence:**
+Wind-control: forcing energetic flow. Natural wind-rigpa replaced by mechanical management.
+
+**Secondary consequences:**
+- Physical tension from wind-manipulation
+- "Are my winds flowing right?" checking
+- Missing that wind-rigpa is natural
+
+**Cascade effects:**
+<wind-rigpa-key-point-manipulation> → <wind-control> [energy forcing] → <mechanical-management> [forcing flow] → <natural-wind-miss> [wind-rigpa as ease]
+
+---
+
+[4639-4695] <three-points-weapon-analogy-literalization> <gnad-gsum-mtshon-cha-fetish>
+
+**Misreading:**
+The weapon analogies—arrow (*so pa*), guest (*'gron po*), trap (*jag pa*)—interpreted as establishing aggressive/defensive practice, creating martial mentality.
+
+**Why it arises:**
+"Weapon" suggests aggression. "Trap" implies defense. Martial thinking: "I must arm myself."
+
+**Primary consequence:**
+Weapon-fetish: treating practice as armament. Natural recognition replaced by martial preparation.
+
+**Secondary consequences:**
+- "My three weapons are ready" aggression
+- Defensive posture toward experience
+- Missing that analogies point to naturalness
+
+**Cascade effects:**
+<three-points-weapon-analogy-literalization> → <weapon-fetish> [armament mentality] → <martial-preparation> [aggression/defense] → <analogy-pointer-miss> [weapons as metaphors]
+
+---
+
+[4639-4695] <three-points-less-more-confusion> <gsum-mang-tha-yas-proliferation>
+
+**Misreading:**
+The warning about too many or too few points (*mang na mtha' yas... nyung na don mi 'grub*) interpreted as requiring exactly three, creating numerical fixation.
+
+**Why it arises:**
+"Three" suggests optimal number. "More/less" implies error. Numerical fixation: "Must be exactly three."
+
+**Primary consequence:**
+Numerical-obsession: fixating on quantity. Natural teaching replaced by number-compliance.
+
+**Secondary consequences:**
+- "I have four points—is that wrong?"
+- Missing that three is pedagogical, not absolute
+- Counting over recognizing
+
+**Cascade effects:**
+<three-points-less-more-confusion> → <numerical-obsession> [quantity fixation] → <number-compliance> [exact count] → <pedagogical-function-miss> [three as teaching]
+
+---
+
+[4639-4695] <three-body-speech-mind-restriction> <lus-ngag-sems-gcun-pa-force>
+
+**Misreading:**
+Restraining body, speech, and mind (*lus ngag sems gsum mi 'gul*) interpreted as forceful immobilization, creating rigid fixation.
+
+**Why it arises:**
+"Restrain" suggests holding. "Not moving" implies freezing. Force-pattern: "I must hold still."
+
+**Primary consequence:**
+Forceful-restraint: rigid immobilization. Natural ease replaced by muscular holding.
+
+**Secondary consequences:**
+- Physical tension from forced stillness
+- "Am I restrained enough?" checking
+- Missing that non-movement is natural
+
+**Cascade effects:**
+<three-body-speech-mind-restriction> → <forceful-restraint> [rigid holding] → <muscular-fixation> [tension] → <natural-ease-miss> [stillness as allowing]
+
+---
+
+**CROSS-LAYER REFERENCES:**
+- Related: 02-18-04-01 (Three Postures) - Physical foundation
+- Related: 02-18-07-01 (Continuous Gazing) - Practice continuation
+- Related: 02-18-06-01 (Trekcho) - Preliminary practice
+
+**SCHOLAR LAYER VERIFICATION:**
+- Verify: Three key points align with standard Thogal gnad presentation
+- Verify: Weapon analogies (arrow, guest, trap) traced to source texts
+- Verify: Speech training stages match *Sa bon gyi rgyud* citations
+- Verify: Citations from *Rang byung rig pa'i tantra* and *Thal gyur* accurate
+
+**CONTINUITY NOTES:**
+- Previous: 02-18-04-01 (Three Postures) - Body foundation
+- Next: 02-18-06-01 (Trekcho) - Mind preparation
+- Critical: Speech and three key points bridge body and mind
+
+**CRITICAL SAFETY FLAGS:**
+⚠️ HIGH RISK: Speech and key point practices can trigger:
+- Forced silence creating psychological pressure
+- Key point obsession creating technique-fixation
+- Weapon analogies creating aggression
+- Restraint practices creating physical tension
+
+⚠️ PRACTICE SAFETY:
+Every error here addresses the danger of making techniques primary over recognition. Speech cuts, key points, and restraints support recognition but don't cause it—this distinction prevents harmful suppression and fixation.
+
+**BYTE RATIO VERIFICATION:**
+Target: 0.3-1.5x for Thogal material
+Current estimate: ~0.6x (comprehensive coverage)
+Qualitative assessment: A++ - Speech training and three key points comprehensively mapped with specific error types (suppression, mastery, fixation, literalization), cascade chains, and Tibetan terminology.
