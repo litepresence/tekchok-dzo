@@ -1,20 +1,111 @@
 [1-4]
-<view>dzogchen-rigpa
-<pedagogy>declarative-finality
-<classification> Volume 2 opening - Treasury of Supreme Vehicle, Latter Volume. Title establishes continuation of definitive meaning presentation from Volume 1. Declarative assertion of nges don (definitive meaning) register through textual protocol.
+<view>dzogchen-rigpa</view>
+<pedagogy>declarative-finality</pedagogy>
+<risk>view-collapse</risk>
+<classification>
+Volume 2 opening: Treasury of Supreme Vehicle, Latter Volume (gleg bam phyi ma). Title establishes continuation of definitive meaning (nges don) presentation. Textual protocol marking Dzogchen register through structural placement.
+</classification>
 
 [5-14]
-<view>dzogchen-rigpa
-<pedagogy>instructional-provisionality
-<classification> Transition from alaya-ground/Dharmakāya distinctions to dependent arising (rten 'byung) nature explanation. Two-fold structure: common distinction and extensive individual natures. Pedagogical framework organizing elemental wisdom teachings into accessible progression. Outer-arising and inner-arising typology from Self-Arisen tantra establishing nondual foundation for elemental correspondences.
+<view>dzogchen-rigpa</view>
+<pedagogy>instructional-provisionality</pedagogy>
+<risk>practice-misread-as-ontology</risk>
+<classification>
+Transition from alaya-ground/Dharmakāya distinctions to dependent arising (rten 'byung) nature explanation. Two-fold pedagogical structure: common distinction (thun mong gi dbye ba) and extensive individual natures (so so'i rang bzhin rgyas par bshad pa). *Rang shar* citation establishes nondual foundation for elemental correspondences.
+</classification>
 
 [15-22]
-<view>dzogchen-rigpa
-<pedagogy>declarative-finality
-<risk>view-collapse
-<classification> Outer elements (earth, water, etc.) as basis for inner-arising—connected as basis and dependent, twofold. No beings or buddhas without these two. Sentient beings move within confused expanse of five-arising, possessing great arising self-nature. Buddhas dwell in five pure-arisings' expanse: earth without solidity, etc. Great arising possesses luminosity-wisdom and five colors; small arisings are earth, water, fire, wind, space. Declarative assertion that elements are wisdom-display, not substances to purify. Risk of view-collapse: taking "pure" vs "confused" as ontological hierarchy rather than recognition-distinction.
+<view>dzogchen-rigpa</view>
+<pedagogy>declarative-finality</pedagogy>
+<risk>view-collapse</risk>
+<classification>
+Outer-inner element nonduality: Outer elements (earth, water, fire, wind, space) as basis for inner-arising—connected as basis and dependent (rten dang brten par 'brel ba). Sentient beings move within confused expanse of five-arising ('byung lnga 'khrul pa'i dbyings); Buddhas dwell in five pure-arisings' expanse (don dag pa'i 'byung lnga). Great arising ('byung ba chen po) = luminosity-wisdom with five colors; small arisings ('byung chung) = conventional elements. Risk: ontological hierarchy between "pure" and "confused."
+</classification>
 
 [23-30]
-<view>dzogchen-rigpa
-<pedagogy>declarative-finality
-<classification> Five pure arisings: clear, warm, bright, cool, spacious—holding self-nature of movement. Confused five arisings arriving in luminosity-five expanse, meeting inner expanse. Elemental characteristics (mtshan nyid) correspond to awareness-wisdom (rig pa'i ye shes): wind's upliftment ('degs pa) with awareness-wisdom free from birth-cessation; fire's burning (sreg pa) with unobstructed wisdom; water's moistening (brlan pa) with wisdom entering all objects; space's vastness (yang pa) with awareness-characteristic without rupture. Declarative assertion: correspondences operate pedagogically, not ontologically—elements don't become wisdom, already-established identity.
+<view>dzogchen-rigpa</view>
+<pedagogy>declarative-finality</pedagogy>
+<risk>reification</risk>
+<classification>
+Five pure arisings' characteristics: Clear (gsal ba), warm (dro ba), bright/moving (yang ba), cool (bsil ba), spacious/vast (yang sa)—holding self-nature of movement (g.yo ba'i bdag nyid 'dzin pa). Elemental characteristics correspond to awareness-wisdom (rig pa'i ye shes): wind's upliftment ('degs pa) = awareness-wisdom free from birth-cessation; fire's burning (sreg pa) = unobstructed wisdom; water's moistening (brlan pa) = wisdom entering all objects; space's vastness = awareness-characteristic without rupture. Correspondences operate pedagogically, not ontologically.
+</classification>
+
+[31-55]
+<view>dzogchen-rigpa</view>
+<pedagogy>declarative-finality</pedagogy>
+<risk>ordinary-cognition</risk>
+<classification>
+Elemental form vs. essence: Outer-arising form ('byung gzugs) = visible earth, water, fire, wind, space; inner-arising essence ('byung dngos) = body's subtle elements, support for inner-arising. *Rang shar* citation: "Five great elements Bhagavan, abide as nature in all beings; three realms' sentient beings, move in five elements' expanse." Before elements, no Buddha or sentient being names. Five elements not separate from expanse; no beings established without five elements. Risk: ordinary-cognition literalizing elements as physical substances.
+</classification>
+
+[56-99]
+<view>dzogchen-rigpa</view>
+<pedagogy>instructional-provisionality</pedagogy>
+<risk>view-collapse</risk>
+<classification>
+Outer-arising extensive explanation: Ten aspects—essence (ngo bo), etymology (nges tshig), purpose (dgos ched), characteristics (mtshan nyid), action-sequence (las rim), dharmatā (chos nyid), meaning-application (don sbyar), liberation-manner (grol tshul), divisions (dbye ba), completeness-manner (tshang tshul). Essence: Outer-arising forms are inner-arising's display ('byung dngos kyi rol pa), therefore included within inner as five elements. *Rang shar*: "Earth, water, fire, likewise wind and space." Outer forms appear as sentient beings' support-container; inner essence establishes as mind and awareness' support. *Thal 'gyur*: Outer elements' purpose—dependent on elements, karma, sustenance, faculties, retinue, birth complete.
+</classification>
+
+[88-127]
+<view>dzogchen-rigpa</view>
+<pedagogy>instructional-provisionality</pedagogy>
+<risk>reification</risk>
+<classification>
+Element etymology from *Rang shar*: "Not made by actions, spontaneously accomplished; producing/giving birth therefore 'byung ba' (arising); pervading all beings therefore 'byung ba chen po' (great element); arising simultaneously therefore great element; existing in self therefore great element; unchanging therefore great element; appearing harmoniously therefore great element." Etymology establishes spontaneous presence (lhun grub), not causal production.
+</classification>
+
+[100-127]
+<view>dzogchen-rigpa</view>
+<pedagogy>instructional-provisionality</pedagogy>
+<risk>practice-misread-as-ontology</risk>
+<classification>
+Element purposes from *Thal 'gyur*: Water—collects essence, divides waste, knows hot/cold; Earth—holds basis, firmness, growth actions, ripens channels, knows conventional thigle; Fire—spreads elements, ripens/clears, burns/blazes, produces eyes; Wind—stirs, lifts, moves, body-activity, knows mind's abiding; Four elements form self-maṇḍala, body etc. established, abide as support, final destruction. One cause (elements), various actions, lord of all. Pedagogical correspondences for recognition, not elemental magic.
+</classification>
+
+[128-145]
+<view>dzogchen-rigpa</view>
+<pedagogy>instructional-provisionality</pedagogy>
+<risk>ordinary-cognition</risk>
+<classification>
+Five element characteristics: Earth—firmness (sra ba); Water—moisture (gser ba); Fire—heat (dro ba); Wind—movement (g.yo ba); Space—spaciousness/expanse (go 'byed la yangs pa). Action-sequence: Earth—body's basis, produces flesh; Water— gathers body, ripens as blood; Fire—ripens body, ripens as heat; Wind—lifts body, ripens as breath. Risk: literalizing elemental production as physical causation.
+</classification>
+
+[146-166]
+<view>dzogchen-rigpa</view>
+<pedagogy>declarative-finality</pedagogy>
+<risk>view-collapse</risk>
+<classification>
+Element dharmatā: Not merely emptiness but self-characteristic-holding dharmatā. *Rang shar*: "Element cause is earth; element prajñā is fire; element emanation is wind; element lord is water; element dharmatā is space." Element-wisdom correspondences: Dharmakāya's primordial purity = earth (unchanging nature); Rigpa's wisdom engaging objects = fire; Rigpa's wisdom unmoved in expanse = wind; Rigpa's wisdom three cavities rolled into one = water; Wisdom empty-clear nondual absorption = space. Risk: collapsing elements into wisdom without distinction.
+</classification>
+
+[167-194]
+<view>dzogchen-rigpa</view>
+<pedagogy>instructional-provisionality</pedagogy>
+<risk>view-collapse</risk>
+<classification>
+Meaning-application (don sbyar): *Norbu 'phr bkod*—outer five elements are common self-continuum dharmas; all outer-appearing elements join with one's own rigpa, therefore common dharmas. Distinctions: Earth's firmness = rigpa's wisdom free from birth-cessation; Wind's lifting = rigpa's wisdom unobstructed; Fire's burning = rigpa's wisdom unobstructed by afflictions; Water's moistening = rigpa's wisdom entering all objects; Space's spaciousness = rigpa's characteristic without rupture.
+</classification>
+
+[182-194]
+<view>dzogchen-rigpa</view>
+<pedagogy>instructional-provisionality</pedagogy>
+<risk>nihilism</risk>
+<classification>
+Element liberation-manner from *Mu tig phreng ba*: "Space itself is pervasive emptiness, space itself liberated as object. Wind ungraspable appearance, liberated as gathering object's action. Fire ripens, consumes, liberated as stirring/dividing clear-waste. Earth lifts, limitless emptiness liberated. Water gathers/moistens, liberated as burning/ripening action." Liberation through recognition of elemental nature, not elemental destruction.
+</classification>
+
+[195-239]
+<view>tantric-transformative</view>
+<pedagogy>instructional-provisionality</pedagogy>
+<risk>practice-misread-as-ontology</risk>
+<classification>
+Twenty-five element distinctions: Each of five elements contains five (space, wind, fire, water, earth), creating twenty-five categories. *Rang shar*: "Space's wind acts on object; space's fire gathers; space's water burns; space's earth creates opportunity; space's space is appearance." *Sgra thal 'gyur* and *Gsang spyod sa bon rgyud* citations on accomplishing common siddhi through element sound-meaning familiarity. Tantric transformative framework for elemental practice.
+</classification>
+
+[240-250]
+<view>dzogchen-rigpa</view>
+<pedagogy>declarative-finality</pedagogy>
+<risk>reification</risk>
+<classification>
+Conclusion: Outer elements are sentient beings' support and abode. Saṃsāra-nirvāṇa's dharmas complete in yogin's body-mind: Method-prajñā as father-mother; dharmakāya-awakening as karma-wind; five families' self-resonance as five elements' seed; two accumulations' method-prajñā union as equal-entry essence. All primordially complete, self-arisen.
+</classification>
