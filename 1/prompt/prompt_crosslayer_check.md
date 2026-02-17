@@ -104,6 +104,87 @@ For EACH section, gather:
 - Delusion: <0.15x on sections >30KB (especially Ch 17-25)
 - Epistemic: <0.08x on sections >50KB
 
+### STRICTER GRADING CRITERIA (Enforce Mandatory Distribution)
+
+**A++ (🔵) - EXEMPLARY (15% target = ~255 assessments):**
+- Commentary: 8+ distinct voices, fresh metaphors every block, complete line coverage [XXX-XXX] for every Tibetan line
+- Scholar: All Four Pillars present AND balanced, IAST Sanskrit with Wylie, root text citations verified
+- Delusion: 4-5 level cascade chains with clear mechanisms, specific error-type tags, safety warnings
+- Epistemic: <view>, <pedagogy>, <risk> tags every 30-50 lines, not just every 50-100
+- Wylie: Perfect alignment, 0.45-0.55x ratio
+
+**A (🟢) - MEETS ALL (25% target = ~425 assessments):**
+- Commentary: 6+ voices, good metaphors, line ranges mostly complete
+- Scholar: All Four Pillars present, minor imbalance acceptable
+- Delusion: 3-4 level cascades, good error specificity
+- Epistemic: Tags present every 50-100 lines, some risk assessment
+- Wylie: Good alignment, 0.40-0.60x ratio
+- **STRICT:** Only award A if no significant gaps exist
+
+**B (🟡) - ADEQUATE BUT THIN (25% target = ~425 assessments):**
+- Commentary: 4-5 voices, adequate metaphors, some line gaps [XXX-???]
+- Scholar: 3 of 4 Pillars present, one pillar thin
+- Delusion: 2-3 level cascades, generic error types
+- Epistemic: Tags present but sparse, minimal risk assessment
+- Commentary ratio: 0.40-0.60x on medium sections
+- **MUST IDENTIFY:** What could expand 20-30% to reach A
+
+**C (🟠) - SIGNIFICANT GAPS (20% target = ~340 assessments):**
+- Commentary: 2-3 voices, repetitive metaphors, many line gaps
+- Scholar: 2 of 4 Pillars present, major gaps in philology or context
+- Delusion: 1-2 level cascades, missing error chains
+- Epistemic: Tags inconsistent, no risk assessment
+- Commentary ratio: 0.25-0.40x on medium sections
+- Delusion ratio: 0.15-0.30x on sections >20KB
+- **MUST IDENTIFY:** Needs 50-100% expansion
+
+**D (🔴) - MAJOR UNDER-COVERAGE (10% target = ~170 assessments):**
+- Commentary: <4 voices, same voice dominates, large line gaps
+- Scholar: 1-2 Pillars only, missing key analysis
+- Delusion: Single-level errors, no cascade analysis
+- Commentary ratio: 0.15-0.25x on sections >30KB
+- Delusion ratio: 0.08-0.15x on sections >20KB
+- **MUST REQUIRE:** Major rewrite with target line counts
+
+**F (🟣) - ESSENTIALLY EMPTY (5% target = ~85 assessments):**
+- Commentary: <0.15x on sections >50KB OR <0.10x on any section >20KB
+- Delusion: <0.10x on sections >30KB (especially Ch 17-25)
+- Placeholder content (repeated blocks, [VIEW COLLAPSE], generic tags)
+- Missing layers entirely
+- Corrupted files
+- **AUTOMATIC F:** Any advanced practice section (Ch 17-25) with delusion <0.15x
+- **AUTOMATIC F:** Commentary <0.20x with <3 voices on section >40KB
+
+### PRECISION DOWNGRADE TRIGGERS
+
+**Downgrade A→B if:**
+- Same voice appears 3+ times consecutively in commentary
+- Metaphors repeat within same section
+- Line ranges missing for >20% of Tibetan content
+- Scholar layer missing <context> or <philology>
+- Delusion has <4 distinct error types
+
+**Downgrade B→C if:**
+- Commentary <5 voices on section >30KB
+- Delusion cascades only 2 levels
+- Scholar missing <structure> or <concept>
+- Epistemic tags <50% coverage
+- Commentary ratio <0.35x on medium section
+
+**Downgrade C→D if:**
+- Commentary <4 voices on section >30KB
+- Same voice dominates (>40% of content)
+- Delusion no cascade chains (single errors only)
+- Missing Tibetan terms in error analysis
+- Commentary ratio <0.25x on section >20KB
+
+**Downgrade D→F if:**
+- Placeholder content detected (repeated identical blocks)
+- [VIEW COLLAPSE] or [TEXT FETISHISM] type generic tags
+- Commentary <0.15x on section >50KB
+- Delusion <0.10x in Ch 17-25
+- <3 voices on large section (>40KB)
+
 ---
 
 ## NOTES COLUMN - REPAIR INSTRUCTIONS
