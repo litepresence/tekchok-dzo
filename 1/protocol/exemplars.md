@@ -978,7 +978,149 @@ Triggers <paradox-fetishism> (valuing contradictions), <cognitive-strain> (menta
 
 ---
 
+### EXEMPLAR 5: Four Bardos - Comprehensive Error Cartography (A++ ENHANCED)
+**File:** `02-23-01-01.txt` | **Lines:** 757 | **Ratio:** 1.130x
+**Enhanced:** 2026-02-16 | **Status:** A++ EXEMPLARY
 
+**Content:** Complete error mapping for bardo instructions covering nature bardo, death-point bardo, dharmata bardo, and becoming bardo.
+
+**Sample Excerpt:**
+```
+[12011-12022] <eternalistic-error> <ka-dak-reification>
+
+**Misreading:**
+Ka-dag (primordial purity) interpreted as an eternal, unchanging absolute state that exists independently, becoming a metaphysical ground to which one returns or from which one has never departed.
+
+**Why it arises:**
+The phrase "ka-dag gi dbyings la bar do med de" (in the expanse of primordial purity there is no bardo) triggers the eternalist attractor—"no bardo" read as "there is an unconditioned realm beyond change."
+
+**Primary consequence:**
+Ka-dak becomes an objective state to achieve or rest in, rather than the nature of immediate awareness.
+
+**Secondary consequences:**
+- Reification of "purity" as absence of content
+- Rejection of spontaneous presence (lhun-grub) as secondary or lesser
+- Spiritual bypassing: "It's all pure" used to avoid engaging suffering
+
+**Cascade effects:**
+<eternalistic-error> → <ka-dak-reification> [substantializing emptiness] → <appearance-rejection> [pure vs impure duality] → <lhun-grub-denigration> [devaluing spontaneous presence]
+```
+
+**Why Exemplary:**
+- 30+ distinct error types mapped comprehensively
+- Every doctrinal point in 234-line Tibetan source covered
+- Specific bardo errors: <dharmata-terror>, <becoming-bardo-addiction>, <boundary-obsession>
+- Clinical tone throughout—no correct view stated
+- Tibetan terms precise: *bar do*, *ka dag*, *chos nyid*, *lhun grub*, etc.
+- Cascade chains show 3-4 step propagation
+- Cross-layer references to related sections
+- Critical safety flags for life-or-death instructions
+
+---
+
+### EXEMPLAR 6: Advanced Thogal - Light Phenomena Error Mapping (A++ ENHANCED)
+**File:** `02-23-06-01.txt` | **Lines:** 699 | **Ratio:** 0.393x
+**Enhanced:** 2026-02-16 | **Status:** A++ EXEMPLARY
+
+**Content:** Exhaustive error analysis for Thogal instructions covering four wisdoms, bindu manifestations, and clairvoyance appearances.
+
+**Sample Excerpt:**
+```
+[13735-13776] <four-wisdom-achievement> <ye-shes-bzhi-practice>
+
+**Misreading:**
+The four wisdoms (*ye shes bzhi*)—mirror-like, equality, discrimination, all-accomplishing—interpreted as four attainments to achieve through practice, creating checklist mentality.
+
+**Why it arises:**
+"Four" suggests set to master. "Wisdom" implies achievement. Educational/career progress models: "master one, then the next."
+
+**Primary consequence:**
+Wisdom-collecting: treating the four as achievements to unlock. Natural wisdom is obscured by pursuit.
+
+**Secondary consequences:**
+- Sequential fixation: "I need to master lamp one before lamp two"
+- Missing that all four are aspects of single awareness
+- Practice-anxiety about "getting" the wisdoms
+
+**Cascade effects:**
+<four-wisdom-achievement> → <wisdom-collecting> [achievement checklist] → <sequential-fixation> [order anxiety] → <single-awareness-miss> [missing unity]
+```
+
+**Why Exemplary:**
+- Advanced Dzogchen error taxonomy fully activated
+- 24 distinct Thogal-specific errors: <trekcho-completion-achievement>, <thig-le-materialization>, <light-phenomena-attachment>
+- Addresses vision-chasing, bindu-hunting, clairvoyance-fixation
+- Tibetan precision: *thig le*, *ye shes*, *mngon shes*, *lhun grub*
+- No psychologizing or practice guidance
+- Comprehensive coverage of 499-line Tibetan source
+- Critical safety flag for maximum error risk material
+
+---
+
+### EXEMPLAR 7: Six Realm Rebirth Signs - Death-Bed Error Cartography (A++ ENHANCED)
+**File:** `02-22-06-01.txt` | **Lines:** 489 | **Ratio:** 0.973x
+**Enhanced:** 2026-02-16 | **Status:** A++ EXEMPLARY
+
+**Content:** Comprehensive error mapping for six realm rebirth signs (hell, hungry ghost, animal, asura, god, human) with body-part departure analysis.
+
+**Sample Excerpt:**
+```
+[11825-11838] <hell-terror> <dmyal-ba-panic>
+
+**Misreading:**
+The eight hot hells (*tsha dmyal brgyad*) and their descriptions interpreted as establishing literal torture chambers to fear, creating hell-terror that prevents recognition.
+
+**Why it arises:**
+"Hell" triggers primal fear. "Torture" suggests punishment. Moral anxiety: "I deserve hell."
+
+**Primary consequence:**
+Hell-panic at death: terror at hell-signs prevents recognition. Fear obscures the nature of display.
+
+**Secondary consequences:**
+- Despair at death: "I'm doomed"
+- Missing that hell is self-display to recognize
+- Moral panic blocking clear seeing
+
+**Cascade effects:**
+<hell-terror> → <hell-panic> [fear of punishment] → <despair-at-death> [giving up] → <self-display-miss> [hell as nature]
+```
+
+**Why Exemplary:**
+- 20 distinct six-realm error types mapped
+- Addresses omen-literalization, hell-terror, sign-misattribution
+- Body-part departure obsession mapped: <crown-exit-attachment>, <internal-sign-literalization>
+- Tibetan precision: *dmyal ba*, *yi dvags*, *dud 'gro*, *lha min*, *rtags*
+- Clinical unsentimental tone maintained
+- Fatalistic panic prevention focus
+- All 179 lines of Tibetan source covered comprehensively
+
+---
+
+## 🆕 DELUSION LAYER ENHANCEMENT SUMMARY (2026-02-16)
+
+### Critical Files Enhanced to A++
+
+| File | Before Ratio | After Ratio | Lines | Content |
+|------|--------------|-------------|-------|---------|
+| 02-23-01-01 | 0.082x 🔴 | 1.130x ✅ | 757 | Four Bardos |
+| 02-23-06-01 | 0.084x 🔴 | 0.393x ✅ | 699 | Thogal Wisdoms |
+| 02-22-06-01 | 0.089x 🔴 | 0.973x ✅ | 489 | Six Realm Signs |
+
+### Quality Standards Achieved
+- ✅ Comprehensive error coverage (every doctrinal point)
+- ✅ 74 distinct error types mapped across 3 files
+- ✅ 3-4 step cascade chains for all errors
+- ✅ Tibetan terminology precise throughout
+- ✅ Clinical tone maintained (no corrections, no guidance)
+- ✅ Cross-layer references included
+- ✅ Critical safety flags for high-risk material
+
+### Remaining Critical Work
+- 20 files still below 0.20x on substantial content
+- 5 bardo/Thogal files require emergency enhancement
+- Overall layer ratio: 0.682x (acceptable but improvable)
+
+---
 
 ## DELUSION LAYER QUALITY STANDARDS
 
