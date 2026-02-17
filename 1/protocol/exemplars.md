@@ -1105,6 +1105,12 @@ Hell-panic at death: terror at hell-signs prevents recognition. Fear obscures th
 | 02-23-01-01 | 0.082x 🔴 | 1.130x ✅ | 757 | Four Bardos |
 | 02-23-06-01 | 0.084x 🔴 | 0.393x ✅ | 699 | Thogal Wisdoms |
 | 02-22-06-01 | 0.089x 🔴 | 0.973x ✅ | 489 | Six Realm Signs |
+| 02-18-12-01 | ~0.01x 🔴 | 4.568x ✅ | 377 | Vision of Awareness Arriving at Measure |
+| 02-25-02-01 | ~0.01x 🔴 | 5.183x ✅ | 423 | Three Kayas as Result |
+| 02-20-05-01 | Mixed ⚠️ | 7.151x ✅ | 626 | Direct Recognition (first block fixed) |
+| 01-06-04-01 | PLACEHOLDER 🔴 | 0.415x ✅ | 563 | Four Empowerments & Mudra (complete rewrite) |
+| 01-14-05-01 | Bracket tags ⚠️ | 0.998x ✅ | ~1500 | Three Object Wisdoms (tag formatting fixed) |
+| 02-25-04-01 | PLACEHOLDER 🔴 | 0.320x ✅ | 604 | Results Section (tag formatting fixed) |
 
 ### Quality Standards Achieved
 - ✅ Comprehensive error coverage (every doctrinal point)
@@ -1116,9 +1122,9 @@ Hell-panic at death: terror at hell-signs prevents recognition. Fear obscures th
 - ✅ Critical safety flags for high-risk material
 
 ### Remaining Critical Work
-- 20 files still below 0.20x on substantial content
-- 5 bardo/Thogal files require emergency enhancement
-- Overall layer ratio: 0.682x (acceptable but improvable)
+- 17 files still below 0.20x on substantial content
+- 3 bardo/Thogal files require emergency enhancement
+- Overall layer ratio: 0.71x (acceptable but improvable)
 
 ---
 
