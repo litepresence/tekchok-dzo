@@ -1,6 +1,6 @@
-[17524-17547] <structure>
+<architectural-analysis>
 # Dharmakaya Expanded Explanation
-**Analysis:** Longchenpa presents the expanded explanation of dharmakaya (*chos sku rgyas par bshad pa*) following the same fivefold structure:
+**Investigation:** Longchenpa presents the expanded explanation of dharmakaya (*chos sku rgyas par bshad pa*) following the same fivefold structure:
 1. Essence (*ngo bo*)
 2. Definition (*nges tshig*)
 3. Classification (*dbye ba*)
@@ -16,7 +16,7 @@ From *thal 'gyur* (17511-17522):
 - Definition: dharma true path
 - Body from that accomplished
 
-[17524-17547] <concept>
+<concept>
 Dharmakaya Essence and Classification:
 **Essence**: Primordial ka dag great inner-clear nature spontaneous arising basis, subtle ye shes abiding; deluded time that resound placed, mind-entity elaboration-free one-taste realized, experience possessing.
 
@@ -41,7 +41,7 @@ From *sgron ma 'bar ba* (17528-17547):
 - Delusion object self-placed
 - Resting self-liberation spread-bestowal
 
-[17548-17602] <context>
+<doxographical-placement>
 Citations from *rang shar* and *de nyid*:
 From *rang shar* (17549-17553):
 - Dharmakaya ye shes great scripture
@@ -61,7 +61,7 @@ From *de nyid* (17556-17567):
 - All abiding, all realize not
 - Mind nonexistent, sems nonexistent, ignorance delusion nonexistent
 
-[17568-17593] <concept>
+<concept>
 Ninefold Classification of Three Kayas:
 Sometimes labeled ground-abiding ye shes, sometimes dharmakaya, sometimes liberation-basis—one essence different aspects spoken. Body and ye shes gathering-separation free intent known.
 
@@ -93,7 +93,7 @@ Sprul sku abode: head
 Sprul sku path: eye
 Sprul sku object: delusion appearance
 
-[17594-17643] <concept>
+<concept>
 Resolution of Apparent Contradiction:
 Question: Dharmakaya without mind and afflictions; its classification longs sprul of three kayas, sprul sku's sprul sku two—five doors' knowing and afflictions called—contradiction?
 
@@ -103,11 +103,11 @@ Answer: No contradiction. Consciousness and afflictions' own time rigpa's self-r
 
 **Summary:** Page 410 completes the expanded explanation of dharmakaya with its fivefold analysis and presents the complex ninefold classification of the three kayas (each kaya having three aspects). The resolution of the apparent contradiction between dharmakaya's purity and the three kayas' classification maintains rigpa's self-resound as the bridge.
 
-[17636-17643] <concept>
+<concept>
 Dharmakaya Function (*byed las*):
 The essence ka dag's dharmakaya makes liberation basis; path time empty-clear dharmakaya's part makes liberating action; those three kayas make purifying and purification basis action.
 
-[17644-17650] <context>
+<historical-context>
 Dharmakaya Name-Entry Reason (*sgras 'jug pa'i rgyu mtshan*):
 - Primordially dust-free and stainless
 - Abiding in state possessing but not recognizing
@@ -115,9 +115,9 @@ Dharmakaya Name-Entry Reason (*sgras 'jug pa'i rgyu mtshan*):
 - Final meaning sought-after fruition existing dharma
 - Therefore dharmakaya word spoken
 
-[17644-17711] <structure>
+<structural-mapping>
 # Second Topic: Mind (*sems*) and Wisdom (*ye shes*) Distinction
-**Analysis:** Longchenpa presents the second major topic in two sections:
+**Consideration:** Longchenpa presents the second major topic in two sections:
 1. Essence brief presentation
 2. Respective natures expanded explanation
 
@@ -145,7 +145,7 @@ From *klong drug pa* (17666-17667):
 - Like sun cloud-mass obscured
 - Outer appearance's objects cannot do
 
-[17668-17711] <concept>
+<concept>
 Mind Detailed Analysis:
 Mind is all action and afflictions and latencies' basis, source, maturation-maker, all-awakener, ignorance home always abiding, ye shes's sun contradicting, obscuring.
 
@@ -177,7 +177,7 @@ Scriptural support:
 
 **Summary:** Page 411 provides dharmakaya's function and name-entry reason, then inaugurates the mind-wisdom distinction. The analysis establishes mind as the stained, deluded basis of samsara, contrasted with ye shes as the unstained sun-like dharmakaya.
 
-[17712-17736] <concept>
+<concept>
 Ye Shes (Wisdom) Detailed Analysis:
 Ye shes is sky-like elaboration-ceased, buddha dharmas measureless basis and source, dharmakaya's home always abiding, afflictions and latencies thicket all burned, fire-like abiding.
 
@@ -206,42 +206,42 @@ From *sgron ma 'bar ba* (17714-17736):
 - Equality: knowing samsara-nirvana equal
 - Discriminating: knowing particulars without confusion
 
-[17714-17719] <context>
+<doxographical-placement>
 Citation from Mu tig phreng ba (Pearl Garland Tantra)
-**Analysis:** Longchenpa opens with a scriptural citation establishing the nature of ye shes (jnana) as empty-luminous awareness. The pearl garland (mu tig phreng ba) is cited to authorize the view that conceptions burned away reveal wisdom like fire consuming fuel, equal to space.
+**Close reading:** Longchenpa opens with a scriptural citation establishing the nature of ye shes (jnana) as empty-luminous awareness. The pearl garland (mu tig phreng ba) is cited to authorize the view that conceptions burned away reveal wisdom like fire consuming fuel, equal to space.
 
-[17720-17725] <philology>
+<grammatical-examination>
 Analysis of sems med (mindless) misconception
-**Analysis:** The particle kyang (also/though) in line 17722 marks a concessive construction: "Though mind does not exist, jnana exists." The instrumental particle kyis in 17723 indicates the causal mechanism by which non-awareness ceases. Longchenpa employs the analogy of dawn breaking (mtshan mo sangs pas) to illustrate the emergence of clear wisdom when deluded mind ceases.
+**Examination:** The particle kyang (also/though) in line 17722 marks a concessive construction: "Though mind does not exist, jnana exists." The instrumental particle kyis in 17723 indicates the causal mechanism by which non-awareness ceases. Longchenpa employs the analogy of dawn breaking (mtshan mo sangs pas) to illustrate the emergence of clear wisdom when deluded mind ceases.
 
-[17726-17731] <concept>
+<concept>
 The pervasion (khyab byed) error
-**Analysis:** Longchenpa refutes the claim that non-awareness (ma rig pa) pervades awareness (rig pa), which would imply that when mind ceases, awareness also ceases. The technical term khyab byed (pervader) is used in its logical sense. The directional pervasion (phar khyab/tshur khyab) follows Dharma-kirtian epistemological conventions where outward pervasion does not imply inward pervasion.
+**Philological analysis:** Longchenpa refutes the claim that non-awareness (ma rig pa) pervades awareness (rig pa), which would imply that when mind ceases, awareness also ceases. The technical term khyab byed (pervader) is used in its logical sense. The directional pervasion (phar khyab/tshur khyab) follows Dharma-kirtian epistemological conventions where outward pervasion does not imply inward pervasion.
 
-[17732-17737] <structure>
+<structure>
 # SA BCAD: The nature of basis (gzhi)
-**Analysis:** This section establishes that when mind ceases, the basis with its aspects of non-awareness ceases, but awareness itself does not cease because awareness constitutes the basis of cessation ('gags gzhi). The reasoning particle phyir ro marks a logical conclusion.
+**Investigation:** This section establishes that when mind ceases, the basis with its aspects of non-awareness ceases, but awareness itself does not cease because awareness constitutes the basis of cessation ('gags gzhi). The reasoning particle phyir ro marks a logical conclusion.
 
-[17737-17750] <context>
+<historical-context>
 Citation from *sgron ma 'bar ba*:
 "Ye shes mirror-like like / All dharmas arising clear / Various knowings emanate / Play emanation unceased / Uncontrived spontaneous nature / Suchness time three knowledge-free / Dharmadhatu wisdom great / Samsara-nirvana equal knowing / Equality wisdom great / Particulars distinct knowing / Discriminating wisdom great / Play activities accomplish knowing / All-accomplishing wisdom great"
 
-[17738-17743] <context>
+<doxographical-placement>
 Second citation from Mu tig phreng ba
-**Analysis:** The citation demonstrates that mind, free from all movement, is not inanimate (bems po) but possesses clear awareness. This refutes the nihilistic interpretation that absence of conceptual mind equals dead matter.
+**Consideration:** The citation demonstrates that mind, free from all movement, is not inanimate (bems po) but possesses clear awareness. This refutes the nihilistic interpretation that absence of conceptual mind equals dead matter.
 
-[17744-17749] <concept>
+<concept>
 The distinction between sems and sems nyid
-**Analysis:** Longchenpa distinguishes:
+**Close reading:** Longchenpa distinguishes:
 - sems (mind): conceptual, samsaric phenomena
 - sems nyid (mind-itself): free from elaboration, nirvanic phenomena
 - The distinction is made even in common body (thun mong gi lus), establishing it as phenomenologically available rather than merely theoretical.
 
-[17750-17752] <context>
+<context>
 Citation from Aṣṭasāhasrikā Prajñāpāramitā
-**Analysis:** The citation from the Perfection of Wisdom in 8,000 Lines establishes that mind's nature is luminosity ('od gsal). The phrase sems la sems ma mchis te (mind does not exist within mind) anticipates the Mādhyamika deconstruction of self-cognizing cognition while affirming luminosity as the ground.
+**Examination:** The citation from the Perfection of Wisdom in 8,000 Lines establishes that mind's nature is luminosity ('od gsal). The phrase sems la sems ma mchis te (mind does not exist within mind) anticipates the Mādhyamika deconstruction of self-cognizing cognition while affirming luminosity as the ground.
 
-[17751-17782] <concept>
+<concept>
 Mind-Ye Shes Distinction Summary:
 Mind (*sems*):
 - Stained with ignorance, afflictions, latencies
@@ -263,31 +263,31 @@ Ye shes:
 4. Discriminating wisdom: particulars distinct knowing
 5. All-accomplishing wisdom: activities accomplishing
 
-[17753-17756] <philology>
+<linguistic-analysis>
 Analysis of sems kyi rang bzhin and sems kyi gnas lugs
-**Analysis:** These two terms—mind's nature (rang bzhin) and mind's natural state (gnas lugs)—function as nominal designations (ming gi rnam grangs) for the same primordial luminosity. The particle ste (connective) marks a definitional equivalence. The de (that very) in de nyid emphasizes identity between the terms and the actual ground.
+**Philological analysis:** These two terms—mind's nature (rang bzhin) and mind's natural state (gnas lugs)—function as nominal designations (ming gi rnam grangs) for the same primordial luminosity. The particle ste (connective) marks a definitional equivalence. The de (that very) in de nyid emphasizes identity between the terms and the actual ground.
 
-[17757-17762] <context>
+<context>
 Polemical distinction from common vehicles
-**Analysis:** Longchenpa critiques those who conflate ground (gzhi), path (lam), and fruition ('bras bu) with mind alone, a position he associates with lower vehicles (thun mong pa). The phrase thun mong pa dmigs pa bcas kyi theg pa refers to vehicles with conceived objects, indicating the Causal Vehicle (rgyu'i theg pa).
+**Investigation:** Longchenpa critiques those who conflate ground (gzhi), path (lam), and fruition ('bras bu) with mind alone, a position he associates with lower vehicles (thun mong pa). The phrase thun mong pa dmigs pa bcas kyi theg pa refers to vehicles with conceived objects, indicating the Causal Vehicle (rgyu'i theg pa).
 
-[17763-17767] <context>
+<context>
 Citation from Kun tu bzang po thugs kyi me long
-**Analysis:** The citation from the Mind Mirror of Samantabhadra establishes the fundamental error (gol ba): seeking buddhahood from mind. The emphatic particle yin marks this as definitive statement.
+**Consideration:** The citation from the Mind Mirror of Samantabhadra establishes the fundamental error (gol ba): seeking buddhahood from mind. The emphatic particle yin marks this as definitive statement.
 
-[17768-17773] <concept>
+<concept>
 Analysis of the error's mechanism
-**Analysis:** Longchenpa demonstrates that if one takes mind as ground, path, and fruition, this entails grasping-with-grasping (gzung 'dzin) at all three levels. The consequence (thal lo) is that buddhahood, if achieved, would be erroneous (phyin ci log), never free from grasping.
+**Close reading:** Longchenpa demonstrates that if one takes mind as ground, path, and fruition, this entails grasping-with-grasping (gzung 'dzin) at all three levels. The consequence (thal lo) is that buddhahood, if achieved, would be erroneous (phyin ci log), never free from grasping.
 
-[17774-17777] <philology>
+<philology>
 The thal ba (consequence) argument
-**Analysis:** The construction yang...thal la (also...follows as consequence) employs formal logical reasoning. The argument proceeds: just as mind accumulates latencies and karma, so too ground, path, and fruition would be so entailed. The optative particle 'dod na marks the opponent's position being considered.
+**Examination:** The construction yang...thal la (also...follows as consequence) employs formal logical reasoning. The argument proceeds: just as mind accumulates latencies and karma, so too ground, path, and fruition would be so entailed. The optative particle 'dod na marks the opponent's position being considered.
 
-[17778-17783] <structure>
+<structure>
 # SA BCAD: Response to objection
-**Analysis:** This subsection addresses an opponent's objection: "If no mind, buddhahood is not tenable." The opponent argues that buddhas are distinguished by bodhicitta, which presupposes mind. The lan smras pa (response spoken) marks the transition to Longchenpa's reply.
+**Hermeneutical Frame:** This subsection addresses an opponent's objection: "If no mind, buddhahood is not tenable." The opponent argues that buddhas are distinguished by bodhicitta, which presupposes mind. The lan smras pa (response spoken) marks the transition to Longchenpa's reply.
 
-[17783-17798] <context>
+<context>
 Citations from *rnal 'byor grub pa'i lung*:
 "Mirror-like wisdom like / All dharmas arising clear / Self-face dharmata knowing / Dharmadhatu wisdom great / Samsara-nirvana equal knowing / Equality wisdom great / Particulars distinct knowing / Discriminating wisdom great / Activities accomplish knowing / All-accomplishing wisdom great"
 
@@ -300,32 +300,32 @@ Citations from *rnal 'byor grub pa'i lung*:
 
 **Summary:** Page 412 provides extensive analysis of ye shes with its five/fourfold classifications, characteristics, and distinctions from mind. The five ye shes structure parallels standard Buddhist phenomenology while being reinterpreted through the Dzogchen lens.
 
-[17784-17786] <concept>
+<concept>
 Dharmakaya jnana as the criterion
-**Analysis:** Longchenpa shifts the criterion from mind-existence to dharmakaya-jnana (chos sku'i ye shes). Buddhahood is determined not by mind's presence or absence but by the presence of dharmakaya wisdom. This reframes the debate from ontological to gnoseological terms.
+**Doxographical Placement:** Longchenpa shifts the criterion from mind-existence to dharmakaya-jnana (chos sku'i ye shes). Buddhahood is determined not by mind's presence or absence but by the presence of dharmakaya wisdom. This reframes the debate from ontological to gnoseological terms.
 
-[17787-17793] <context>
+<context>
 Scriptural authorities: common and uncommon
-**Analysis:** Longchenpa cites:
+**Comparative Analysis:** Longchenpa cites:
 1. **Common:** Madhyamakāvatāra (Dbu ma 'jug pa) - "When mind ceases, the body reveals it directly"
 2. **Uncommon:** Rdo rje rtse mo - "The five purified consciousnesses are the nature of the five wisdoms"
 The distinction between thun mong (common) and thun mong ma yin pa (uncommon) reflects tantric hermeneutics.
 
-[17794-17806] <context>
+<context>
 Highest citation from Rig pa rang shar
-**Analysis:** The extensive citation from the Self-Arising Rigpa Tantra (Rig pa rang shar gyi rgyud), Chapter 86 on refuting opponents, employs dialogical format (questions and answers). The structure follows:
+**Investigation:** The extensive citation from the Self-Arising Rigpa Tantra (Rig pa rang shar gyi rgyud), Chapter 86 on refuting opponents, employs dialogical format (questions and answers). The structure follows:
 1. Opponent's position stated
 2. Refutation offered
 3. Counter-argument anticipated
 4. Final resolution
 
-[17799-17823] <structure>
+<structure>
 # Third Topic: Distinct Dharmas Analysis
-**Analysis:** Longchenpa presents the third major topic: analysis of distinct dharmas (*khyad par can gyi chos gshan rnam par bshad pa*). This section systematically examines various categories that distinguish the Dzogchen view.
+**Tradition Context:** Longchenpa presents the third major topic: analysis of distinct dharmas (*khyad par can gyi chos gshan rnam par bshad pa*). This section systematically examines various categories that distinguish the Dzogchen view.
 
 The page begins with citations from *sgron ma 'bar ba* and *rnal 'byor grub pa'i lung* on the five ye shes, then transitions to distinct dharmas analysis.
 
-[17799-17820] <context>
+<context>
 Extended citations establishing ye shes classifications:
 From *sgron ma 'bar ba*:
 - Ye shes mirror-like like
@@ -341,41 +341,41 @@ From *rnal 'byor grub pa'i lung*:
 - Discriminating particular distinct
 - All-accomplishing activities accomplish
 
-[17807-17813] <philology>
+<philology>
 Analysis of the dialogue particles
-**Analysis:** The passage uses:
+**Morphological Breakdown:** The passage uses:
 - 'di lta ste (it is like this) - introducing the opponent's view
 - dris lan rgyas par btab pa (extensive answer given to the question) - marking responses
 - The conditional particle gal te introduces hypothetical scenarios
 
-[17814-17825] <concept>
+<concept>
 Comprehensive list of sixteen factors
-**Analysis:** The enumeration of sixteen factors follows the standard abhidharma format but is here applied to demonstrate the samsaric nature of mind-based cognition. The items progress from fundamental non-awareness through cognitive, perceptual, and emotional factors.
+**Examination:** The enumeration of sixteen factors follows the standard abhidharma format but is here applied to demonstrate the samsaric nature of mind-based cognition. The items progress from fundamental non-awareness through cognitive, perceptual, and emotional factors.
 
-[17821-17850] <concept>
+<concept>
 Integration of Ground-Path-Fruition:
 The distinct dharmas are presented across three stages:
 1. **Ground** (*gzhi*): Primordial purity (*ka dag*), spontaneous accomplishment (*lhun grub*), thigle, lamp aspects
 2. **Path** (*lam*): Vision (*snang ba*), measure (*tshad*), familiarization (*goms*), signs (*rtags*)
 3. **Fruition** ('bras bu): Dharmakaya, exhaustion (*zad pa*), liberation (*grol ba*), buddhahood (*sangs rgyas*)
 
-[17826-17838] <context>
+<context>
 Concluding citation and transition
-**Analysis:** The section concludes with the opponent's position being thoroughly refuted. The transition marker de nas bzlog pa'i tshig smras pa (then words of reversal were spoken) indicates the shift to the positive presentation of the view.
+**Examination:** The section concludes with the opponent's position being thoroughly refuted. The transition marker de nas bzlog pa'i tshig smras pa (then words of reversal were spoken) indicates the shift to the positive presentation of the view.
 
-[17839-17849] <concept>
+<concept>
 The three characteristics of rig pa's ye shes
-**Analysis:** Longchenpa establishes the defining characteristics (mtshan nyid) of awareness-wisdom:
+**Technical Examination:** Longchenpa establishes the defining characteristics (mtshan nyid) of awareness-wisdom:
 1. stong (empty) - free from inherent existence
 2. gsal (clear/luminous) - cognitively present
 3. khyab pa (pervasive) - unobstructed scope
 This triad is foundational to Dzogchen phenomenology.
 
-[17850-17856] <concept>
+<concept>
 The gzhi-byed-lam-byed-'bras-bu-byed function of rig pa
-**Analysis:** Longchenpa demonstrates that rig pa serves as ground (gzhi), path (lam), and fruition ('bras bu), contrasting with the opponent's position that sems serves these functions. This triadic structure mirrors the three-kaya framework but is here applied to gnoseology.
+**Lexical Analysis:** Longchenpa demonstrates that rig pa serves as ground (gzhi), path (lam), and fruition ('bras bu), contrasting with the opponent's position that sems serves these functions. This triadic structure mirrors the three-kaya framework but is here applied to gnoseology.
 
-[17851-17870] <philology>
+<philology>
 Key terminology of distinct dharmas:
 - *rang byung* (self-arisen): Not made by causes-conditions, primordially existing
 - *lhun grub* (spontaneously accomplished): Without effort, naturally perfect
@@ -383,44 +383,44 @@ Key terminology of distinct dharmas:
 - *gcer grol* (direct liberation): Without antidote, self-liberated
 - *thod rgal* (direct transcendence): Spontaneous, leap-over progression
 
-[17851-17866] <structure>
+<structure>
 # SA BCAD: Detailed presentation of ye shes divisions
-**Analysis:** This section initiates the systematic exposition of the threefold ye shes (gnosis/wisdom) as established in the previous page:
+**Technical Examination:** This section initiates the systematic exposition of the threefold ye shes (gnosis/wisdom) as established in the previous page:
 1. gzhi gnas kyi ye shes (wisdom of primordially pure basis)
 2. mtshan nyid 'dzin pa'i ye shes (wisdom holding characteristics)
 3. yul la khyab pa'i ye shes (wisdom pervasive of objects)
 
-[17857-17866] <philology>
+<philology>
 Dialogue structure analysis
-**Analysis:** The passage continues the question-answer format from the previous page:
+**Close Reading:** The passage continues the question-answer format from the previous page:
 - ci phyir (why/because) - causal interrogative
 - de la dris lan 'di ltar bya (to that, answer should be made thus) - formulaic response marker
 - The suffix 'o marks assertions as quotations or established truths
 
-[17867-17869] <structure>
+<structure>
 # RIM_KHANG: Expanded explanation of individual natures
-**Analysis:** This initiates the second major division of the section on distinguishing sems and ye shes. The structure marker gnyis te indicates two subsections:
+**Structural Mapping:** This initiates the second major division of the section on distinguishing sems and ye shes. The structure marker gnyis te indicates two subsections:
 1. Detailed explanation of sems and ye shes natures
 2. [to follow] Their individual meanings
 
-[17867-17869] <structure>
+<structure>
 # RIM_KHANG: Expanded explanation of individual natures
-**Analysis:** The text marks the beginning of the second major division with gnyis te (two-fold):
+**Doxographical Placement:** The text marks the beginning of the second major division with gnyis te (two-fold):
 1. Detailed explanation of sems and ye shes natures (just completed)
 2. Individual meanings (so so'i don) to follow
 
-[17870-17879] <context>
+<context>
 Citation from Thal 'gyur (Thalpa Tantra)
-**Analysis:** The Thal 'gyur (Gradual/Consequence Tantra) provides the framework for analyzing sems and ye shes through four categories:
+**Consideration:** The Thal 'gyur (Gradual/Consequence Tantra) provides the framework for analyzing sems and ye shes through four categories:
 - ngo bo (essence)
 - nges tshig (definition)
 - dbye ba (divisions)
 - so so'i don (individual meaning)
 This mirrors abhidharma analytical methodology but applies it to Dzogchen categories.
 
-[17870-17879] <context>
+<context>
 Thal 'gyur framework for analysis
-**Analysis:** The Thal 'gyur (Consequence/Gradual Tantra) provides the fourfold analytical framework:
+**Etymological Note:** The Thal 'gyur (Consequence/Gradual Tantra) provides the fourfold analytical framework:
 - ngo bo (essence)
 - nges tshig (definitional etymology)
 - dbye ba (divisions)
@@ -428,7 +428,7 @@ Thal 'gyur framework for analysis
 
 This mirrors abhidharma methodology but applies to Dzogchen categories.
 
-[17871-17883] <context>
+<context>
 Citation from *kun tu bzang po thugs kyi me long*:
 The text cites extensively on the spontaneously accomplished nature:
 - Spontaneous accomplishment thus
@@ -438,18 +438,18 @@ The text cites extensively on the spontaneously accomplished nature:
 - Unchanging great bliss
 - Without seeking, self-obtained
 
-[17880-17883] <concept>
+<concept>
 The fourfold analysis of sems
-**Analysis:** Longchenpa analyzes sems (mind) according to the four categories:
+**Detailed Analysis:** Longchenpa analyzes sems (mind) according to the four categories:
 1. **Essence (ngo bo):** Recognition arising as subject-object, pervaded by non-awareness
 2. **Definition (nges tshig):** That which cognizes subject and object as such
 3. **Divisions (dbye ba):** Pure and impure
 4. **Individual meaning:** To be determined subsequently
 The analysis includes reference to samadhi-one-pointedness (ting nge 'dzin rtse gcig), showing awareness of yogacara categories.
 
-[17880-17883] <concept>
+<concept>
 Fourfold analysis of sems (mind)
-**Analysis:**
+**Close Reading:**
 1. **Essence (ngo bo):** Recognition arising as subject-object, pervaded by non-awareness (ma rig pa khyab byed)
 2. **Definition (nges tshig):** That which cognizes (sems pa) subject and object as such (gzung 'dzin du skyes pas yul dang yul can du sems pas)
 3. **Divisions (dbye ba):** dag pa dang ma dag pa (pure and impure)

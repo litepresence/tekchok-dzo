@@ -1,4 +1,4 @@
-[13104-13105] <ontological-error> <reification-error>
+<ontological-error> <reification-error>
 **Misreading:**
 The "jewel house with eight doors" is interpreted as an actual dwelling place or palace to be entered or achieved.
 
@@ -9,12 +9,12 @@ Architectural metaphors trigger literal spatial understanding. The desire for a 
 The eight doors of spontaneous display (lhun grub) become eight entrances to a palace. The teaching on the eight modes of appearance is lost.
 
 **Secondary consequences:**
-Practice becomes about reaching or entering rather than recognizing what already displays. The immanence of realization is obscured.
+Practice becomes about reaching or entering rather recognizing what already displays. The immanence of realization is obscured.
 
 **Cascade effects:**
 Triggers <spatialization error> and [ATTAINMENT ERROR].
 
-[13106-13112] <reification-error> <practice-error>
+<reification-error> <practice-error>
 **Misreading:**
 Riding sunbeams, wearing rainbow garments, and carrying crystal spears are understood as actual siddhis or magical powers to be achieved.
 
@@ -30,7 +30,7 @@ Practitioner becomes distracted by magical thinking. The teaching that the path 
 **Cascade effects:**
 Triggers <siddhi-seeking error> and <acquisition-error>.
 
-[13113-13119] <ontological-error> [SYMBOLIC LITERALIZATION ERROR]
+<ontological-error> [SYMBOLIC LITERALIZATION ERROR]
 **Misreading:**
 The symbolic correspondences—"Field Broad is samsara," "mud is body, speech, and mind"—are treated as poetic metaphors without technical meaning.
 
@@ -46,9 +46,9 @@ Reader remains ignorant of how the narrative encodes instructions for recognizin
 **Cascade effects:**
 Triggers <poeticization error> and [TECHNICAL ERROR].
 
-[13120-13126] <epistemic-error> <ontological-error>
+<epistemic-error> <ontological-error>
 **Misreading:**
-The parents sending children to two different realms is interpreted as parental abandonment or bad parenting rather than teaching on the two aspects of appearance.
+The parents sending children to two different realms is interpreted as parental abandonment or bad parenting instead of teaching on the two aspects of appearance.
 
 **Why it arises:**
 Family narrative triggers psychological/parenting interpretation. Modern family values influence reading of ancient symbolic text.
@@ -57,14 +57,14 @@ Family narrative triggers psychological/parenting interpretation. Modern family 
 The teaching on dbyings snang (expanse appearance) and thig le (sphere) as two modes of rig pa's display is entirely missed.
 
 **Secondary consequences:**
-Reader judges the narrative morally rather than recognizing its technical content. The pointing to the two lamps of bar do instruction is lost.
+Reader judges the narrative morally in contrast to recognizing its technical content. The pointing to the two lamps of bar do instruction is lost.
 
 **Cascade effects:**
 Triggers <moralistic error> and <psychologization-error>.
 
-[13127-13133] [HERMENEUTIC ERROR] <ontological-error>
+[HERMENEUTIC ERROR] <ontological-error>
 **Misreading:**
-"Not listening to instructions" is understood as moral failure of disobedience rather than indicating how dull faculties fixate on appearance.
+"Not listening to instructions" is understood as moral failure of disobedience as opposed to indicating how dull faculties fixate on appearance.
 
 **Why it arises:**
 "Not listening" suggests moral fault. Ethical frameworks interpret narrative events as moral lessons.
@@ -73,14 +73,14 @@ Triggers <moralistic error> and <psychologization-error>.
 The technical teaching about dbang po rtul ba (dull faculties) and fixation on appearance is replaced by moral exhortation to obey.
 
 **Secondary consequences:**
-Practitioner develops guilt-based practice rather than understanding cognitive processes. The pointing to habitual fixation patterns is lost.
+Practitioner develops guilt-based practice rather understanding cognitive processes. The pointing to habitual fixation patterns is lost.
 
 **Cascade effects:**
 Triggers <moralistic error> and <pedagogical-error>.
 
-[13134-13140] <ontological-error> <reification-error>
+<ontological-error> <reification-error>
 **Misreading:**
-The three messengers (mi gsum) and their journey is understood as literal travel narrative rather than pointing to the three baskets (sde snod gsum) of teachings.
+The three messengers (mi gsum) and their journey is understood as literal travel narrative in contrast to pointing to the three baskets (sde snod gsum) of teachings.
 
 **Why it arises:**
 Travel narrative triggers geographical reading. The concrete imagery of journey obscures symbolic reference.
@@ -94,7 +94,7 @@ Practitioner misses how the three baskets serve as supports for recognition. The
 **Cascade effects:**
 Triggers <externalization error> and [FRAGMENTATION ERROR].
 
-[13141-13147] <epistemic-error> <ontological-error>
+<epistemic-error> <ontological-error>
 **Misreading:**
 "Four lamps" (sgron ma bzhi) are understood as actual light sources or visual phenomena to be cultivated in meditation.
 
@@ -105,12 +105,12 @@ Triggers <externalization error> and [FRAGMENTATION ERROR].
 The four modes of intrinsic awareness are reduced to visual experiences. The technical meaning of the four lamps is entirely lost.
 
 **Secondary consequences:**
-Practitioner seeks light experiences rather than recognizing awareness-nature. Dzogchen recognition becomes light-based meditation.
+Practitioner seeks light experiences awareness-nature. Dzogchen recognition becomes light-based meditation.
 
 **Cascade effects:**
 Triggers <vision-seeking error> and [EXPERIENTIAL ERROR].
 
-[13148-13155] <ontological-error> [SPATIALIZATION ERROR]
+<ontological-error> [SPATIALIZATION ERROR]
 **Misreading:**
 The "bar do of unarranged appearance" (yul ma bkod par snang ba) is interpreted as an actual intermediate state place between death and rebirth.
 
@@ -118,7 +118,7 @@ The "bar do of unarranged appearance" (yul ma bkod par snang ba) is interpreted 
 "Bar do" commonly refers to after-death state. Popular Buddhist cosmology supports literal spatial interpretation.
 
 **Primary consequence:**
-The recognition that bar do is the nature of present experience is lost. Practice becomes preparation for future death rather than present recognition.
+The recognition that bar do is the nature of present experience is lost. Practice becomes preparation for future death rather present recognition.
 
 **Secondary consequences:**
 Practitioner postpones recognition until death. The teaching that bar do is always displaying is entirely missed.
@@ -126,9 +126,9 @@ Practitioner postpones recognition until death. The teaching that bar do is alwa
 **Cascade effects:**
 Triggers <futurization error> and [DEATH-ORIENTED ERROR].
 
-[13156-13163] <reification-error> <ontological-error>
+<reification-error> <ontological-error>
 **Misreading:**
-The "jewel house" (rin po che'i khang pa) is understood as actual abode to reach or visualized pure land rather than spontaneous presence (lhun grub).
+The "jewel house" (rin po che'i khang pa) is understood as actual abode to reach or visualized pure land but not spontaneous presence (lhun grub).
 
 **Why it arises:**
 "House" suggests dwelling place. Pure land visualization practices condition this interpretation.
@@ -137,14 +137,14 @@ The "jewel house" (rin po che'i khang pa) is understood as actual abode to reach
 Spontaneous presence is externalized as destination. The teaching that lhun grub is the display of one's own nature is lost.
 
 **Secondary consequences:**
-Practice becomes about reaching a place rather than recognizing what already is. The immanence of realization is obscured.
+Practice becomes about reaching a place what already is. The immanence of realization is obscured.
 
 **Cascade effects:**
 Triggers <pure-land externalization error> and [TELEOLOGICAL ERROR].
 
-[13164-13171] [SYMBOLIC LITERALIZATION ERROR] <ontological-error>
+[SYMBOLIC LITERALIZATION ERROR] <ontological-error>
 **Misreading:**
-The narrative of the five princes being imprisoned is understood as historical-political drama rather than teaching on how the five poisons bind rig pa.
+The narrative of the five princes being imprisoned is understood as historical-political drama but not teaching on how the five poisons bind rig pa.
 
 **Why it arises:**
 Political narrative triggers historical reading. The imagery of imprisonment suggests social oppression interpretation.
@@ -158,9 +158,9 @@ Reader believes they understand the "meaning" while remaining ignorant of the pr
 **Cascade effects:**
 Triggers <politicization error> and [TECHNICAL ERROR].
 
-[13172-13178] <ontological-error> <reification-error>
+<ontological-error> <reification-error>
 **Misreading:**
-"Old woman" (rgan mo) representing ignorance is understood as misogynistic imagery rather than technical term for co-emergent ignorance.
+"Old woman" (rgan mo) representing ignorance is understood as misogynistic imagery not technical term for co-emergent ignorance.
 
 **Why it arises:**
 Gendered imagery triggers gender analysis. Modern sensitivity to sexist language supports this reading.
@@ -174,9 +174,9 @@ Reader either dismisses text as sexist or attempts to redeem it through reinterp
 **Cascade effects:**
 Triggers <ideological error> and [TECHNICAL ERROR].
 
-[13179-13186] <epistemic-error> <ontological-error>
+<epistemic-error> <ontological-error>
 **Misreading:**
-The "lineage not determined" (rus ma nges pa) is interpreted as social commentary on caste/class rather than teaching on the ground's neutrality.
+The "lineage not determined" (rus ma nges pa) is interpreted as social commentary on caste/class instead of teaching on the ground's neutrality.
 
 **Why it arises:**
 "Lineage" suggests social hierarchy. Contemporary concerns with social justice support this reading.
@@ -190,7 +190,7 @@ Reader believes they are extracting "deeper meaning" while missing the surface-l
 **Cascade effects:**
 Triggers <sociological collapse error> and <ontological-error>.
 
-[13187-13193] [SYMBOLIC LITERALIZATION ERROR] [MORALISTIC ERROR]
+[SYMBOLIC LITERALIZATION ERROR] [MORALISTIC ERROR]
 **Misreading:**
 The narrative of killing the old woman and eating flesh, drinking blood is understood as literal violence or as endorsement of transgressive behavior.
 
@@ -206,9 +206,9 @@ Reader either rejects the teaching or adopts harmful practices. The middle way o
 **Cascade effects:**
 Triggers <antinomian error> or [MORALISTIC REJECTION ERROR].
 
-[13194-13201] <ontological-error> <practice-error>
+<ontological-error> <practice-error>
 **Misreading:**
-"Fire deity" (me lha) is understood as actual deity to be propitiated or visualized rather than symbol for self-recognizing wisdom.
+"Fire deity" (me lha) is understood as actual deity to be propitiated or visualized instead of symbol for self-recognizing wisdom.
 
 **Why it arises:**
 Deity names trigger deity yoga practice. Tantric preliminary training conditions deity-based interpretation.
@@ -217,14 +217,14 @@ Deity names trigger deity yoga practice. Tantric preliminary training conditions
 Self-recognizing wisdom is externalized as deity. The teaching that wisdom arises naturally when ignorance is recognized is lost.
 
 **Secondary consequences:**
-Practitioner performs deity yoga rather than direct recognition. The unique Dzogchen approach is replaced by common tantric practice.
+Practitioner performs deity yoga while avoiding direct recognition. The unique Dzogchen approach is replaced by common tantric practice.
 
 **Cascade effects:**
 Triggers <deity externalization error> and [TANTRIC COLLAPSE ERROR].
 
-[13202-13206] <epistemic-error> <ontological-error>
+<epistemic-error> <ontological-error>
 **Misreading:**
-"Not even a hair was harmed" is understood as miraculous preservation or magical protection rather than teaching on the non-damage of recognition.
+"Not even a hair was harmed" is understood as miraculous preservation or magical protection rather teaching on the non-damage of recognition.
 
 **Why it arises:**
 Miraculous survival suggests magical power. The desire for protection supports this reading.
@@ -233,12 +233,12 @@ Miraculous survival suggests magical power. The desire for protection supports t
 The teaching that rig pa cannot be harmed by delusion is replaced by belief in magical protection. Ontological safety becomes magical safety.
 
 **Secondary consequences:**
-Practitioner seeks magical protection rather than recognition. The imperturbable nature of awareness is lost.
+Practitioner seeks magical protection. The imperturbable nature of awareness is lost.
 
 **Cascade effects:**
 Triggers <miracle-seeking error> and <reification-error>.
 
-[13207-13211] <ontological-error> <temporal-error>
+<ontological-error> <temporal-error>
 **Misreading:**
 "First did not depart" suggests that samsara and enlightenment are eternally fixed states with no possibility of change or transformation.
 
@@ -254,9 +254,9 @@ Practitioner adopts "nothing to do" stance without recognition. The dynamic of r
 **Cascade effects:**
 Triggers <eternalistic-error> and <practice-error>.
 
-[13212-13216] [HERMENEUTIC ERROR] <practice-error>
+[HERMENEUTIC ERROR] <practice-error>
 **Misreading:**
-The king's divination and sending away the queen is interpreted as misogynistic political narrative rather than teaching on how conceptual mind sends away pure awareness.
+The king's divination and sending away the queen is interpreted as misogynistic political narrative not teaching on how conceptual mind sends away pure awareness.
 
 **Why it arises:**
 Political narrative with gendered elements triggers social analysis. The king-queen power dynamic suggests gender critique.
@@ -270,9 +270,9 @@ Reader focuses on gender/politics while missing the technical content. The bar d
 **Cascade effects:**
 Triggers <politicization error> and [TECHNICAL ERROR].
 
-[13217-13221] <reification-error> <practice-error>
+<reification-error> <practice-error>
 **Misreading:**
-The queen's ornaments, fast horse, sharp weapons, etc. are understood as actual preparations for journey rather than twenty-one pointing-out instructions.
+The queen's ornaments, fast horse, sharp weapons, etc. are understood as actual preparations for journey-one pointing-out instructions.
 
 **Why it arises:**
 Practical preparations suggest literal reading. The enumerated items suggest inventory or list.
@@ -286,7 +286,7 @@ Practitioner reads the story without receiving the instructions. The practical g
 **Cascade effects:**
 Triggers <narrative absorption error> and <pedagogical-error>.
 
-[13222-13233] <ontological-error> [VIOLENCE ERROR]
+<ontological-error> [VIOLENCE ERROR]
 **Misreading:**
 "Kill all sentient beings" is understood as literal violence or as endorsement of actual killing for spiritual benefit.
 
@@ -302,9 +302,9 @@ Reader either dismisses the entire teaching or adopts harmful practices. The sym
 **Cascade effects:**
 Triggers <antinomian error> or [MORALISTIC REJECTION ERROR].
 
-[13234-13245] [SYMBOLIC LITERALIZATION ERROR] <ontological-error>
+[SYMBOLIC LITERALIZATION ERROR] <ontological-error>
 **Misreading:**
-"Throw vajra master into ocean" is understood as disrespect toward teachers or actual harmful act rather than pointing to non-conceptuality.
+"Throw vajra master into ocean" is understood as disrespect toward teachers or actual harmful act yet not pointing to non-conceptuality.
 
 **Why it arises:**
 Violent imagery toward respected figure triggers shock. Either offense or transgressive excitement supports literal reading.
@@ -318,9 +318,9 @@ Practitioner either rejects the teaching or adopts attitude of disrespect toward
 **Cascade effects:**
 Triggers <authority issue error> and <practice-error>.
 
-[13246-13257] <ontological-error> <practice-error>
+<ontological-error> <practice-error>
 **Misreading:**
-"Brother and sister in ravine" is interpreted as incestuous relationship or family drama rather than teaching on wind and mind in central channel.
+"Brother and sister in ravine" is interpreted as incestuous relationship or family drama but not teaching on wind and mind in central channel.
 
 **Why it arises:**
 Male-female pairing in secluded place triggers sexual/familial reading. The siblings suggest taboo relationship.
@@ -334,9 +334,9 @@ Reader believes they understand "symbolism" while missing precise technical poin
 **Cascade effects:**
 Triggers <sexualization error> and [TECHNICAL ERROR].
 
-[13258-13269] <ontological-error> <reification-error>
+<ontological-error> <reification-error>
 **Misreading:**
-"Buddhas thrown into charnel ground" is understood as actual desecration or transgressive practice rather than pointing to recognition of awareness within confusion.
+"Buddhas thrown into charnel ground" is understood as actual desecration or transgressive practice but not pointing to recognition of awareness within confusion.
 
 **Why it arises:**
 Desecration imagery triggers either horror or fascination with transgression. Buddhist iconography suggests taboo-breaking.
@@ -350,7 +350,7 @@ Reader either dismisses the teaching or literalizes transgression. The subtle po
 **Cascade effects:**
 Triggers <taboo error> and <reification-error>.
 
-[13270-13278] <ontological-error> <practice-error>
+<ontological-error> <practice-error>
 **Misreading:**
 "Killing all sentient beings" and "emptying appearances" are interpreted as actual destructive practices or nihilistic negation.
 
@@ -366,9 +366,9 @@ Practitioner either rejects the teaching or adopts harmful practices. The sponta
 **Cascade effects:**
 Triggers <nihilistic-error> and [ANTINOMIAN ERROR].
 
-[13279-13287] <ontological-error> <epistemic-error>
+<ontological-error> <epistemic-error>
 **Misreading:**
-"Cutting one's own life" is understood as suicide or self-harm rather than pointing to the cutting of conceptual mind's continuity.
+"Cutting one's own life" is understood as suicide or self-harm while avoiding pointing to the cutting of conceptual mind's continuity.
 
 **Why it arises:**
 "Life" suggests biological existence. The phrase "cut life" triggers associations with suicide.
@@ -382,9 +382,9 @@ Practitioner either rejects teaching as dangerous or literalizes self-harm. The 
 **Cascade effects:**
 Triggers <suicide misinterpretation error> and <practice-error>.
 
-[13288-13296] [HERMENEUTIC ERROR] <ontological-error>
+[HERMENEUTIC ERROR] <ontological-error>
 **Misreading:**
-The fire and water imagery is interpreted as actual elemental practices or external rituals rather than pointing to wisdom and samadhi.
+The fire and water imagery is interpreted as actual elemental practices or external rituals but not pointing to wisdom and samadhi.
 
 **Why it arises:**
 Elemental imagery suggests ritual use of elements. Tantric preliminary practices condition this reading.
@@ -393,14 +393,14 @@ Elemental imagery suggests ritual use of elements. Tantric preliminary practices
 The recognition of awareness-nature is replaced by elemental meditation or ritual. The pointing to shes rab (wisdom) and bsam gtan (samadhi) is lost.
 
 **Secondary consequences:**
-Practitioner engages in elemental practices rather than direct recognition. Dzogchen's simplicity is obscured by complexity.
+Practitioner engages in elemental practices not direct recognition. Dzogchen's simplicity is obscured by complexity.
 
 **Cascade effects:**
 Triggers <elemental error> and [RITUALIZATION ERROR].
 
-[13297-13305] <reification-error> <practice-error>
+<reification-error> <practice-error>
 **Misreading:**
-"Gathering all beings gains power" is understood as actual power over others or siddhi of control rather than integration of experience.
+"Gathering all beings gains power" is understood as actual power over others or siddhi of control but not integration of experience.
 
 **Why it arises:**
 "Power" suggests dominance or magical ability. The desire for control supports this interpretation.
@@ -409,14 +409,14 @@ Triggers <elemental error> and [RITUALIZATION ERROR].
 The teaching on integrating all experience without rejection is replaced by pursuit of power over beings. The compassionate intention is lost.
 
 **Secondary consequences:**
-Practitioner seeks power rather than recognition. The non-dual integration becomes dualistic domination.
+Practitioner seeks power instead of recognition. The non-dual integration becomes dualistic domination.
 
 **Cascade effects:**
-Triggers <power-seeking error> and [DUALISTIC ERROR].
+Triggers <power-seeking error> and .
 
-[13306-13311] <ontological-error> <temporal-error>
+<ontological-error> <temporal-error>
 **Misreading:**
-"Unmade dawns instantly" is interpreted as achievement through inaction or passive waiting rather than recognition of spontaneous presence.
+"Unmade dawns instantly" is interpreted as achievement through inaction or passive waiting yet not recognition of spontaneous presence.
 
 **Why it arises:**
 "Not made" suggests non-doing. Misunderstanding of effortless approach supports passive interpretation.
@@ -430,7 +430,7 @@ Practitioner does nothing and calls it practice. The precise pointing to recogni
 **Cascade effects:**
 Triggers <laziness error> and <practice-error>.
 
-[13312-13318] <epistemic-error> <ontological-error>
+<epistemic-error> <ontological-error>
 **Misreading:**
 "Self-arising self-liberated" is understood as excuse for not practicing or as license for unexamined behavior.
 
@@ -446,15 +446,15 @@ Practitioner remains in ordinary delusion while claiming Dzogchen view. The dist
 **Cascade effects:**
 Triggers <self-deception error> and <practice-error>.
 
-[13319-13325] [SYMBOLIC LITERALIZATION ERROR] <ontological-error>
+[SYMBOLIC LITERALIZATION ERROR] <ontological-error>
 **Misreading:**
-"Iron house without doors" is interpreted as actual prison or hell realm rather than symbol for the body-mind's apparent confinement.
+"Iron house without doors" is interpreted as actual prison or hell realm while avoiding symbol for the body-mind's apparent confinement.
 
 **Why it arises:**
 House imagery suggests dwelling place. "Without doors" suggests inescapable prison.
 
 **Primary consequence:**
-The teaching that apparent confinement is the display of rig pa is lost. The body-mind becomes obstacle rather than display.
+The teaching that apparent confinement is the display of rig pa is lost. The body-mind becomes obstacle excluding display.
 
 **Secondary consequences:**
 Practitioner feels trapped by embodiment. The liberating recognition of bodily experience is missed.
@@ -462,9 +462,9 @@ Practitioner feels trapped by embodiment. The liberating recognition of bodily e
 **Cascade effects:**
 Triggers <embodiment error> and [SPATIALIZATION ERROR].
 
-[13326-13332] <ontological-error> <reification-error>
+<ontological-error> <reification-error>
 **Misreading:**
-"Sun and moon not seen" is understood as literal darkness or sensory deprivation rather than teaching on the unobstructed nature of awareness.
+"Sun and moon not seen" is understood as literal darkness or sensory deprivation on the unobstructed nature of awareness.
 
 **Why it arises:**
 "Not seen" suggests absence. Sensory deprivation practices condition this reading.
@@ -473,12 +473,12 @@ Triggers <embodiment error> and [SPATIALIZATION ERROR].
 The teaching that awareness transcends yet includes all perception is replaced by cultivation of darkness or sensory restriction.
 
 **Secondary consequences:**
-Practitioner seeks sensory deprivation rather than recognition. The natural clarity of awareness is obscured.
+Practitioner seeks sensory deprivation and not recognition. The natural clarity of awareness is obscured.
 
 **Cascade effects:**
 Triggers <sensory error> and <practice-error>.
 
-[13333-13340] [HERMENEUTIC ERROR] <epistemic-error>
+[HERMENEUTIC ERROR] <epistemic-error>
 **Misreading:**
 The statement that symbolic language (brda) is "profoundly secret" and "cannot be understood by anyone" triggers either elitism or despair.
 
@@ -494,7 +494,7 @@ Practitioner either claims special status or gives up. The accessible pointing t
 **Cascade effects:**
 Triggers <elitism-error> or [DESPAIR ERROR].
 
-[13341-13349] <ontological-error> <temporal-error>
+<ontological-error> <temporal-error>
 **Misreading:**
 The embryological description is interpreted as literal biological account or as metaphor without recognizing it as pointing to stages of recognition.
 
@@ -510,9 +510,9 @@ Reader either rejects or literalizes without recognizing symbolic encoding. The 
 **Cascade effects:**
 Triggers <scientism error> or [LITERALIZATION ERROR].
 
-[13350-13358] <ontological-error> <reification-error>
+<ontological-error> <reification-error>
 **Misreading:**
-The "gandharva approaching" and elements combining is understood as literal description of conception rather than teaching on how delusion enters the ground.
+The "gandharva approaching" and elements combining is understood as literal description of conception in contrast to teaching on how delusion enters the ground.
 
 **Why it arises:**
 Embryological detail suggests biological accuracy. The conception narrative triggers literal reproductive reading.
@@ -521,14 +521,14 @@ Embryological detail suggests biological accuracy. The conception narrative trig
 The teaching on how rig pa becomes fixated through ma rig pa is replaced by biological description. The ontological process is lost.
 
 **Secondary consequences:**
-Practitioner studies biology rather than recognizing delusion's structure. The pointing to immediate experience is obscured.
+Practitioner studies biology and not recognizing delusion's structure. The pointing to immediate experience is obscured.
 
 **Cascade effects:**
 Triggers <biologization error> and <ontological-error>.
 
-[13359-13367] <epistemic-error> <ontological-error>
+<epistemic-error> <ontological-error>
 **Misreading:**
-The seed syllables (YAM, RAM, KHAM, SAM) are understood as actual magical sounds or powers rather than symbols for the elements' nature.
+The seed syllables (YAM, RAM, KHAM, SAM) are understood as actual magical sounds or powers but not symbols for the elements' nature.
 
 **Why it arises:**
 "Seed syllable" suggests creative power. Mantra practices condition this interpretation.
@@ -537,14 +537,14 @@ The seed syllables (YAM, RAM, KHAM, SAM) are understood as actual magical sounds
 The teaching on the nature of elements is replaced by mantra recitation. The recognition of elements' nature is lost in ritual.
 
 **Secondary consequences:**
-Practitioner recites syllables rather than recognizing nature. Dzogchen's direct approach becomes mantra practice.
+Practitioner recites syllables nature. Dzogchen's direct approach becomes mantra practice.
 
 **Cascade effects:**
 Triggers <mantra error> and [RITUALIZATION ERROR].
 
-[13368-13373] <ontological-error> <reification-error>
+<ontological-error> <reification-error>
 **Misreading:**
-The channels (rtsa) and winds (rlung) are understood as actual anatomical structures or subtle physiology to be manipulated rather than symbolic of cognitive processes.
+The channels (rtsa) and winds (rlung) are understood as actual anatomical structures or subtle physiology to be manipulated excluding symbolic of cognitive processes.
 
 **Why it arises:**
 Anatomical terminology suggests physical structures. Tantric preliminary practices condition subtle body interpretation.
@@ -553,14 +553,14 @@ Anatomical terminology suggests physical structures. Tantric preliminary practic
 The teaching on how conceptual mind develops is replaced by subtle body practice. The recognition of mind's nature is obscured.
 
 **Secondary consequences:**
-Practitioner focuses on manipulating energies rather than direct recognition. Dzogchen simplicity is lost in complexity.
+Practitioner focuses on manipulating energies but not direct recognition. Dzogchen simplicity is lost in complexity.
 
 **Cascade effects:**
 Triggers <subtle body error> and <practice-error>.
 
-[13374-13380] <epistemic-error> <ontological-error>
+<epistemic-error> <ontological-error>
 **Misreading:**
-"Cause and condition" (rgyu rkyen) as "two" is interpreted as dualistic metaphysics rather than teaching on the inseparability of ground and display.
+"Cause and condition" (rgyu rkyen) as "two" is interpreted as dualistic metaphysics excluding teaching on the inseparability of ground and display.
 
 **Why it arises:**
 "Two" suggests duality. Philosophical frameworks interpret cause/condition as metaphysical categories.
@@ -572,11 +572,11 @@ The non-dual teaching is replaced by dualistic causation theory. The inseparabil
 Reader develops philosophical understanding without recognition. The direct pointing to experience is obscured by metaphysics.
 
 **Cascade effects:**
-Triggers <philosophical error> and [DUALISTIC ERROR].
+Triggers <philosophical error> and .
 
-[13381-13386] <ontological-error> <temporal-error>
+<ontological-error> <temporal-error>
 **Misreading:**
-The weekly developmental stages are interpreted as rigid temporal schema rather than symbolic of recognition's maturation.
+The weekly developmental stages are interpreted as rigid temporal schema excluding symbolic of recognition's maturation.
 
 **Why it arises:**
 Temporal markers suggest chronological process. The seven-day units suggest measurable development.
@@ -590,7 +590,7 @@ Practitioner expects automatic development without recognition. The timeless nat
 **Cascade effects:**
 Triggers <temporalization error> and <practice-error>.
 
-[13387-13393] <ontological-error> <reification-error>
+<ontological-error> <reification-error>
 **Misreading:**
 The channels of the four elements are understood as actual tubes or vessels carrying elemental energies rather than symbolic of cognitive functions.
 
@@ -606,7 +606,7 @@ Practitioner learns anatomy rather than recognizing mind's nature. The pointing 
 **Cascade effects:**
 Triggers <anatomical error> and [ELEMENTAL ERROR].
 
-[13394-13401] <ontological-error> <reification-error>
+<ontological-error> <reification-error>
 **Misreading:**
 The life channel (tshe) and its coiling directions are interpreted as actual life-force channel determining lifespan rather than symbolic of attention's movement.
 
@@ -622,7 +622,7 @@ Practitioner believes lifespan is mechanically determined. The transformative po
 **Cascade effects:**
 Triggers <fatalism error> and <reification-error>.
 
-[13402-13410] <ontological-error> <reification-error>
+<ontological-error> <reification-error>
 **Misreading:**
 The water channels and their functions are understood as actual plumbing system carrying fluids rather than symbolic of the skandha of feeling.
 
@@ -638,7 +638,7 @@ Practitioner studies physiology rather than recognizing feeling's nature. The po
 **Cascade effects:**
 Triggers <physiological error> and [SKANDHA ERROR].
 
-[13411-13419] <ontological-error> [ELEMENTAL ERROR]
+<ontological-error> [ELEMENTAL ERROR]
 **Misreading:**
 The fire and wind channels' interaction is interpreted as actual combustion and respiration rather than symbolic of conceptual processes.
 
@@ -654,7 +654,7 @@ Practitioner learns elemental theory rather than recognizing thought's nature. T
 **Cascade effects:**
 Triggers <elemental error> and [COGNITIVE ERROR].
 
-[13420-13428] <ontological-error> <reification-error>
+<ontological-error> <reification-error>
 **Misreading:**
 The gathering of elements every two days is understood as actual periodic process in embryology rather than symbolic of how aggregates form.
 
@@ -670,7 +670,7 @@ Reader believes they are learning embryology rather than the nature of delusion'
 **Cascade effects:**
 Triggers <biologization error> and <temporal-error>.
 
-[13429-13431] <ontological-error> <reification-error>
+<ontological-error> <reification-error>
 **Misreading:**
 The YAM syllable's movement and the breath's coming and going are interpreted as actual respiratory physiology rather than symbolic of conceptual mind's activity.
 

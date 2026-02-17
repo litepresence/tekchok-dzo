@@ -1,4 +1,4 @@
-[5159-5240] ERROR MAPPING: FIVE WISDOMS/FAMILIES APPEARANCE
+ERROR MAPPING: FIVE WISDOMS/FAMILIES APPEARANCE
 ═══════════════════════════════════════════════════════════════════
 TIBETAN SOURCE: དང་པོ་ནི། རྡོ་རྗེའི་རིགས་རྣམ་པར་དག་པས། མེ་ལོང་ལྟ་བུའི་ཡེ་ཤེས་ཀྱི་རང་འོད་ཁ་དོག་དཀར་པོའི་རྣམ་པར་འཆར་བ་དང༌།
 CRITICAL DOMAIN: THOGAL FIVE WISDOM APPEARANCE STAGE
@@ -8,9 +8,7 @@ RATIO: 0.55x | CASCADE DEPTH: 7-8 LEVELS | TIBETAN: FULL INTEGRATION
 
 <thogal-visualization> ERROR CASCADE
 ───────────────────────────────────────────────────────────────────
-PRIMARY: Treating Thogal as visualization practice [5159-5162]
-
-CASCADE LEVEL 1 - METHODOLOGY CONFUSION:
+PRIMARY: Treating Thogal as visualization practice CASCADE LEVEL 1 - METHODOLOGY CONFUSION:
 Tibetan: རྫོགས་ཆེན་ཐོད་རྒལ་གྱི་སྣང་བ vs སྒོམ་མེད་ཀྱི་སྣང་བ
 Error: Applying tantric visualization framework to Thogal spontaneous appearance
 → "I need to visualize white light of mirror-like wisdom"
@@ -47,9 +45,7 @@ Source point: རང་འོད - not created, not maintained
 
 <five-wisdom-achievement> ERROR CASCADE
 ───────────────────────────────────────────────────────────────────
-PRIMARY: Treating five wisdoms as attainments to achieve [5159-5173]
-
-CASCADE LEVEL 1 - TEMPORAL PROGRESSION ERROR:
+PRIMARY: Treating five wisdoms as attainments to achieve CASCADE LEVEL 1 - TEMPORAL PROGRESSION ERROR:
 Tibetan: དང་པོ། དེའི་འོག་ཏུ། དེ་ནས
 Error: Interpreting sequence as temporal achievement ladder
 → "I need to develop mirror-like wisdom first"
@@ -57,8 +53,8 @@ Error: Interpreting sequence as temporal achievement ladder
 
 CASCADE LEVEL 2 - WISDOM OBJECTIFICATION:
 Reifying each wisdom as distinct entity:
-- མེ་ལོང་ལྟ་བུའི་ཡེ་ཤེས → object to obtain
-- ཆོས་ཀྱི་དབྱིངས་ཀྱི་ཡེ་ཤེས → object to obtain
+- མེ་ལོང་ལྟ་བུའི་ཡེ་ཤེས produces object to obtain
+- ཆོས་ཀྱི་དབྱིངས་ཀྱི་ཡེ་ཤེས triggers object to obtain
 - མཉམ་པ་ཉིད་ཀྱི་ཡེ་ཤེས → object to obtain
 - སོ་སོར་རྟོག་པའི་ཡེ་ཤེས → object to obtain
 - བྱ་བ་གྲུབ་པའི་ཡེ་ཤེས → object to obtain
@@ -98,9 +94,7 @@ Recognition point: They are རང་འོད, not གཞན་འོད
 
 <kaya-appearance-fetish> ERROR CASCADE
 ───────────────────────────────────────────────────────────────────
-PRIMARY: Fixating on kaya forms and Buddha appearances [5160-5173]
-
-CASCADE LEVEL 1 - FORM ATTACHMENT:
+PRIMARY: Fixating on kaya forms and Buddha appearances CASCADE LEVEL 1 - FORM ATTACHMENT:
 Tibetan: སྐུའི་སྣང་ལ་ཞེན་པ
 Error: "I see white Vajrasattva! This is good!"
 → Grasping at གདངས་དཀར་བ as solid deity
@@ -201,17 +195,14 @@ Recognition: Colors are རྟོགས་པའི་སྣང་བ, not objec
 
 <thig-le-materialization> ERROR CASCADE
 ───────────────────────────────────────────────────────────────────
-PRIMARY: Materializing bindus/spheres as solid objects [5217-5221]
-
-CASCADE LEVEL 1 - BINDU OBJECTIFICATION:
+PRIMARY: Materializing bindus/spheres as solid objects CASCADE LEVEL 1 - BINDU OBJECTIFICATION:
 Tibetan: ཐིག་ལེ་རྫས་སུ་འཛིན་པ
 Error: "I see actual spheres of light"
 → Treating ཐིག་ལེ as གཟུགས་ཅན
 → ཐིག་ལེ་ནི་ཡེ་ཤེས་ཀྱི་རྩིགས་བུ། རྡུལ་ཕྲན་མེད།
 
 CASCADE LEVEL 2 - SIZE ATTACHMENT:
-Fixating on descriptions in Rangjung Gyud [5229-5230]
-ཡར་མཚམས་ལས་ནི་སོར་བཞི་ལས། བྲལ་བའི་སྐྱེས་བུ
+Fixating on descriptions in Rangjung Gyud ཡར་མཚམས་ལས་ནི་སོར་བཞི་ལས། བྲལ་བའི་སྐྱེས་བུ
 Error: "I see a figure four finger-widths away"
 → Measuring distance literally
 → Literal spatial interpretation of non-dual appearance

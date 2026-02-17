@@ -1,4 +1,4 @@
-[8680-8686] <structure>
+<structure>
 # Fivefold Classification of Experience: From Joy to Emptiness
 **Architectural Context:** This passage presents a pentadic (ལྔ་པ་ lnga pa) classification of meditative experiences bridging the Four Joys (དགའ་བ་ bzhi dga' ba) and the ལྷན་ཅིག་སྐྱེས་ (lhan cig skyes pa, co-emergent) tradition. The structure employs the ordinal-genitive pattern (དང་པོ་ dang po, "first"; གཉིས་པ་ gnyis pa, "second", etc.) + substantive + classification marker (ཅེས་བྱ་ ces bya, "called"; ཅེས་སོ་ ces so, "thus called"). This pentadic progression forms a complete phenomenology of meditative experience within the Four Convictions (དོན་བསྡུ་པ་ bzhi gtan la phab pa) framework, specifically addressing the twelfth point (བཅུ་གཉིས་པ་ bcu gnyis pa).
 
@@ -11,7 +11,7 @@
 
 **Enumeration Logic:** This five-stage phenomenology represents the progressive refinement from ordinary conditioned experience to unconditioned wisdom: coarse bliss → subtle feeling → essential bliss → co-emergent non-duality → ultimate emptiness. Each stage marks a transition in the practitioner's realization, with later stages incorporating and transcending earlier ones.
 
-[8680-8686] <philology>
+<philology>
 **Particle Analysis:**
 - ཙམ་�ིད་ (tsam nyid): "only, merely, just"—marks limitation and insufficiency, indicating this stage is merely ordinary joy without deeper realization
 - ཉིད་ (nyid): essential identity marker—signifies "itself" or "as such," indicating the essential nature of a phenomenon
@@ -33,7 +33,7 @@
 
 **Distinction:** The quotative markers ཅེས་བྱ་ (ces bya, "called/named") versus ཅེས་སོ་ (ces so, "thus called") distinguish definitional assertions (ces bya) from enumerative conclusions (ces so).
 
-[8680-8686] <context>
+<context>
 **Doxographical Placement:** This fivefold schema integrates multiple tantric classification systems: the Four Joys (དགའ་བ་བཞི་) as stages of bliss; the སྐྱེ་མཆེད་ (skye mched, sense-bases) phenomenology of contact and feeling; and the ལྷན་ཅིག་སྐྱེས་ (lhan cig skyes, co-emergent) tradition of natural, spontaneous presence from the Mahāyāna and Vajrayāna.
 
 **Vehicle Context:** This progression operates within the *anuttarayogatantra* framework, specifically the completion stage (རྫོགས་རིམ་ rdzogs rim) practices where the practitioner manipulates wind-energy to generate bliss and realize emptiness.
@@ -44,7 +44,7 @@
 
 **Correlation:** The enumeration concludes with the twelfth point (བཅུ་གཉིས་པ་ bcu gnyis pa)—viewing that itself (དེ་ཉིད་ལྟ་བ་ de nyid lta ba) and applying the crucial point of change (འགྱུར་བ་རྩི་བ་ 'gyur ba rtsi ba)—indicating this is part of a larger twelve-point system within the Four Convictions chapter. This correlates with either the twelve links of dependent origination (འབྲེལ་འབྱུང་བཅུ་གཉིས་) or the twelve aspects of the four truths (བདེན་པ་བཞི་ཡི་དཀར་པོ་བཅུ་གཉིས་).
 
-[8680-8686] <concept>
+<concept>
 **Philosophical Framework:** This pentadic schema maps the progression from ordinary pleasure to ultimate emptiness:
 1. དགའ་བ་ཙམ་ (dga' ba tsam)—ordinary conditioned joy arising from wind manipulation but remaining within ordinariness
 2. ཚོར་བ་ (tshor ba)—sensory affect that perpetuates saṃsāra, the feeling aggregate

@@ -1,4 +1,4 @@
-[18262-18273] <structure>
+<structure>
 
 **Organizational Context:** This passage introduces the fourfold analytical framework for understanding wisdom (ye shes), paralleling the earlier analysis of mind (sems). The text transitions from the analysis of mind to the analysis of wisdom, following the standard Buddhist scholastic format of examining phenomena through four categories: essence (ngo bo), definition (nges tshig), divisions (dbye ba), and individual meanings (so so'i don). The citation from the Tselgyur Tantra (Thal 'gyur) establishes scriptural authority for this analytical framework.
 
@@ -8,7 +8,7 @@
 
 This follows the standard format: root text citation followed by systematic enumeration of analytical categories.
 
-[18262-18273] <philology>
+<philology>
 
 **Tibetan Text Analysis:**
 
@@ -34,7 +34,7 @@ This follows the standard format: root text citation followed by systematic enum
 3. དབྱེ་བ (dbye ba): Divisions - the types it encompasses
 4. སོ་སོའི་དོན (so so'i don): Individual meanings - the specific meaning of each
 
-[18262-18269] <context>
+<historical-context>
 
 **Doctrinal Context:** This passage engages the classic Buddhist analysis of wisdom (ye shes) as distinct from ordinary mind (sems). The key insight from the Tantric citation is that wisdom is "not conceptual thought" (rtog pa ma yin te) - this distinguishes direct non-conceptual realization from intellectual understanding.
 
@@ -42,7 +42,7 @@ This follows the standard format: root text citation followed by systematic enum
 
 **Tantric Authority:** The citation from the Tselgyur Tantra (Thal 'gyur) establishes this as an authoritative scriptural source, typical of the Nyingma tradition's emphasis on the "pure vision" (dag snang) of the ancient translations.
 
-[18270-18273] <context>
+<context>
 
 **Four Topics Enumeration:** The passage lists four topics for analysis of wisdom:
 1. Essence (ngo bo) - the nature of wisdom itself
@@ -52,7 +52,7 @@ This follows the standard format: root text citation followed by systematic enum
 
 This fourfold schema is standard in Buddhist epistemology (pramāṇa) and logic, providing a comprehensive framework for analyzing any phenomenon.
 
-[18262-18273] <concept>
+<concept>
 
 **Nature of Wisdom:** The Tantric citation establishes that wisdom is "not conceptual thought" - this is a crucial point distinguishing Buddhist wisdom from intellectual understanding. Wisdom (ye shes) is the direct, non-conceptual apprehension of reality, while conceptual thought (rtog pa) involves the mental constructions that obscure this direct perception.
 

@@ -1,14 +1,14 @@
-[1-4] <structure>
+<structural-mapping>
 # Title Page: Dual Titling Protocol and Genre Placement
-**Analysis:** The text opens with classical Tibetan dual-title architecture: Sanskrit Siddham script (*yānāgraratnakośanāmavajrāhāraṃ*) establishing Indic authenticity, followed by Tibetan rendering (*theg pa'i mchog rin po che'i mdzod ces bya ba bzhugs*) grounding the work in translation tradition. This follows the *chos 'byung* (dharma history) convention. The title positions the work within the *mdzod* genre established by Vasubandhu's *Abhidharmakośa*, but elevates it to *yānāgra* (supreme vehicle)—the ninth vehicle in Nyingma doxography.
+**Consideration:** The text opens with classical Tibetan dual-title architecture: Sanskrit Siddham script (*yānāgraratnakośanāmavajrāhāraṃ*) establishing Indic authenticity, followed by Tibetan rendering (*theg pa'i mchog rin po che'i mdzod ces bya ba bzhugs*) grounding the work in translation tradition. This follows the *chos 'byung* (dharma history) convention. The title positions the work within the *mdzod* genre established by Vasubandhu's *Abhidharmakośa*, but elevates it to *yānāgra* (supreme vehicle)—the ninth vehicle in Nyingma doxography.
 
 **Section Placement:** This titling protocol establishes the hermeneutical frame: what follows is not merely scholarly exposition but the "mind-secret" (*thugs kyi gsang ba*) of all Tathāgatas. The section serves as *gleng gzhi* (introductory narrative) establishing authority and scope before the main exposition.
 
 **Connection to Following Sections:** The title's promise of "supreme vehicle" is immediately fulfilled through the homage to Samantabhadra (lines 11-19), creating continuity between titular claim and content.
 
-[1-4] <philology>
+<linguistic-analysis>
 ## Particle Structure of Titling
-**Analysis:** The phrase *ces bya ba bzhugs* employs:
+**Examination:** The phrase *ces bya ba bzhugs* employs:
 - *ces* — quotative particle, marking what follows as a naming
 - *bya ba* — verbal noun, "that which is to be called/named"
 - *bzhugs* — honorific existential, indicating presence/abiding
@@ -20,9 +20,9 @@ The genitive *gyi* in *rin po che'i* creates dependency: it is a treasury OF the
 - *rin po che'i mdzod* — jewel treasury (*mdzod* = storehouse, not merely container)
 - *bzhugs* — formulaic presence marker in Tibetan titling
 
-[5-11] <structure>
+<architectural-analysis>
 # Homage as Maṇḍala Architecture
-**Analysis:** The prostration (*phyag 'tshal*) follows the five-family (*rigs lnga*) maṇḍala structure, enumerated through the instrumental *kyis* and connective *dang*:
+**Philological analysis:** The prostration (*phyag 'tshal*) follows the five-family (*rigs lnga*) maṇḍala structure, enumerated through the instrumental *kyis* and connective *dang*:
 
 1. **Line 12:** Samantabhadra as Dharmakāya root (*kun tu bzang po*)
 2. **Line 13:** Five families' regent + Great Ocean Teacher (*rgyal tshab rigs lnga gang chen mtsho*)—Saṃbhogakāya dimension
@@ -31,9 +31,9 @@ The genitive *gyi* in *rin po che'i* creates dependency: it is a treasury OF the
 
 This structure maps onto the standard Nyingma *gsol 'debs* (supplication) architecture, establishing the text's place within the *snyan brgyud* (aural/whispered lineage).
 
-[5-11] <philology>
+<grammatical-examination>
 ## Analysis of *phun sum tshogs lnga*
-**Analysis:** The "five perfections" (*phun sum tshogs lnga*, line 12) refers to the fivefold completeness of Saṃbhogakāya:
+**Investigation:** The "five perfections" (*phun sum tshogs lnga*, line 12) refers to the fivefold completeness of Saṃbhogakāya:
 1. Perfect teacher (*ston pa*)
 2. Perfect place (*gnas*)
 3. Perfect retinue (*'khor*)
@@ -42,14 +42,14 @@ This structure maps onto the standard Nyingma *gsol 'debs* (supplication) archit
 
 The possessive particle *mnga'* (having/possessing) connects Samantabhadra's nature (*rang bzhin*) to these perfections. The genitive *gyi* in *rin po che'i* creates hierarchical relationship.
 
-**Key Terms:**
+**Terminology:**
 - *mnga' dbang rdzogs pa* — complete dominion (*mnga'* = possessive sovereignty, *dbang* = power, *rdzogs* = complete)
 - *ded dpon dam pa* — supreme guide/captain (*ded dpon* = navigator, *dam pa* = sublime)
 - *snyan brgyud* — aural lineage (not "whispered"—refers to unbroken transmission through sound)
 
-[11-15] <context>
+<historical-context>
 ## The Fivefold Homage in Nyingma Doxography
-**Analysis:** Longchenpa's homage structure draws from multiple sources:
+**Close reading:** Longchenpa's homage structure draws from multiple sources:
 - *Guhyasamāja Tantra*: Five-family maṇḍala as spontaneous display
 - *Kun byed rgyal po*: Samantabhadra as primordial teacher
 - *sNyan brgyud* corpus: Lineage of vidyādharas
@@ -58,9 +58,9 @@ The "three worlds ornament" (*'jig rten gsum gyi rgyan*, line 14) indicates comp
 
 **Doxographical Placement:** The homage positions the text beyond causal vehicles (*rgyu 'bras* distinction). Samantabhadra is not "a" Buddha but Dharmakāya itself—the ground from which all manifestation arises.
 
-[16-19] <structure>
+<structural-mapping>
 # Second Homage: Dharmakāya as Ground
-**Analysis:** Lines 16-19 present a second homage focusing on Dharmakāya qualities, shifting from maṇḍala architecture to ontological description. The structure follows apophatic theology:
+**Consideration:** Lines 16-19 present a second homage focusing on Dharmakāya qualities, shifting from maṇḍala architecture to ontological description. The structure follows apophatic theology:
 - Line 16: Primordial purity (*gdod nas rnam dag*), cessation of elaborations (*spros kun zhi ba*)
 - Line 17: Ever-abiding nature (*rang bzhin rtag bzhugs*), clear light (*'od gsal*), seven horses (*rta bdun*)
 - Line 18: Non-abiding in existence or peace (*srid zhir mi gnas*), uncompounded (*'dus ma byas*), spontaneously accomplished (*lhun gyis grub*)
@@ -68,9 +68,9 @@ The "three worlds ornament" (*'jig rten gsum gyi rgyan*, line 14) indicates comp
 
 **Structural Logic:** This homage establishes the *gzhi* (ground) that will be elaborated throughout the text—the Dzogchen view of primordial completeness.
 
-[16-19] <philology>
+<linguistic-analysis>
 ## Syntax of Non-Abiding
-**Analysis:** The phrase *srid zhir mi gnas* (line 18, "not abiding in existence or peace") uses:
+**Examination:** The phrase *srid zhir mi gnas* (line 18, "not abiding in existence or peace") uses:
 - *srid* — cyclic existence (*saṃsāra*)
 - *zhi* — peace (*nirvāṇa*)
 - *r* — locative case marker (in/at)
@@ -79,14 +79,14 @@ The "three worlds ornament" (*'jig rten gsum gyi rgyan*, line 14) indicates comp
 
 This establishes the Madhyamaka middle way beyond eternalism (*srid*) and nihilism (*zhi*). The instrumental *gyis* in *lhun gyis grub* indicates spontaneous accomplishment as ongoing process, not static state.
 
-**Key Terms:**
+**Technical Terms:**
 - *rta bdun* — seven horses (solar chariot metaphor—sun's light shines naturally without effort)
 - *sku gsum* — three bodies (*kāya*): Dharmakāya, Saṃbhogakāya, Nirmāṇakāya
 - *yon tan* — qualities (fivefold: body, speech, mind, qualities, activities)
 
-[16-19] <concept>
+<concept>
 ## The Primordial Purity Paradigm
-**Analysis:** This homage establishes core Dzogchen tenets:
+**Philological analysis:** This homage establishes core Dzogchen tenets:
 
 **Ground (*gzhi*):**
 - *Gdod nas rnam dag* — primordially pure (not purified through effort)
@@ -101,9 +101,9 @@ This establishes the Madhyamaka middle way beyond eternalism (*srid*) and nihili
 
 The seven horses (*rta bdun*) metaphor—sun's chariot shining naturally—indicates that enlightenment requires no push, no achievement, only recognition.
 
-[20-27] <structure>
+<architectural-analysis>
 # Doctrinal Invocation: The Nine Vehicles
-**Analysis:** Lines 20-27 shift from homage to doctrinal invocation, establishing the vehicle hierarchy:
+**Investigation:** Lines 20-27 shift from homage to doctrinal invocation, establishing the vehicle hierarchy:
 - Lines 20-21: Dharma-sun metaphor → secret vajra vehicle
 - Lines 21-22: Supreme among all → Great Perfection pinnacle
 - Line 23: Direct revelation of suchness-essence
@@ -111,9 +111,9 @@ The seven horses (*rta bdun*) metaphor—sun's chariot shining naturally—indic
 
 **Structural Function:** This section bridges homage and main text, establishing the pedagogical context: the Treasury contains the nine vehicles, with Dzogchen as peak.
 
-[20-27] <context>
+<doxographical-placement>
 ## Vehicle Hierarchy Framework
-**Analysis:** The *theg pa dgu* (nine vehicles) in Nyingma doxography:
+**Close reading:** The *theg pa dgu* (nine vehicles) in Nyingma doxography:
 
 **Three Causal Vehicles:**
 1. *nyan thos* — Śrāvaka
@@ -132,9 +132,9 @@ The seven horses (*rta bdun*) metaphor—sun's chariot shining naturally—indic
 
 The "most supreme" (*ches mchog*) positions Dzogchen beyond all others—not hierarchically superior but pedagogically ultimate.
 
-[20-27] <philology>
+<grammatical-examination>
 ## Key Metaphorical Terms
-**Analysis:**
+**Consideration:**
 - *chos tshul nyi ma* — Dharma-sun (*chos tshul* = Dharma-principle, *nyi ma* = sun)
 - *drimed* — stainless (*dri* = stain, *med* = without)
 - *dpag yas* — immeasurable (*dpag* = measure, *yas* = beyond)
@@ -143,18 +143,18 @@ The "most supreme" (*ches mchog*) positions Dzogchen beyond all others—not hie
 
 The phrase *snying po'i de nyid* (suchness-essence, line 23) uses *de nyid* (*tattva*) to indicate ultimate nature, while *snying po* (heart/essence) indicates this is not abstract philosophy but pointing to immediate recognition.
 
-[28-40] <structure>
+<structural-mapping>
 # The Three Kāya Classification Framework
-**Analysis:** Lines 28-40 present the *sku gsum* (three bodies) as classification (*rnam par gzhag pa*) based on three aspects:
+**Examination:** Lines 28-40 present the *sku gsum* (three bodies) as classification (*rnam par gzhag pa*) based on three aspects:
 1. **Teacher** (*ston pa*, lines 28-30) — Dharmakāya → Saṃbhogakāya → Nirmāṇakāya progression
 2. **Place** (*gnas*, lines 34-35) — Perfect place as luminous dharmatā ground
 3. **Teaching** (*bstan pa*, line 38) — Beyond cause-effect and effort
 
 **Structural Logic:** This triadic structure (*ston pa/gnas/bstan pa*) reflects the *sum rtags* (three grammatical categories) applied to buddhological exposition. The progression moves from Dharmakāya (ground) through Saṃbhogakāya (display) to Nirmāṇakāya (manifestation).
 
-[28-40] <concept>
+<concept>
 ## Three Kāyas in Dzogchen Perspective
-**Analysis:** Longchenpa presents the three kāyas as pedagogical categories:
+**Philological analysis:** Longchenpa presents the three kāyas as pedagogical categories:
 
 **Dharmakāya (Lines 36-40):**
 - Teacher: Samantabhadra with wisdom-ocean retinue
@@ -169,9 +169,9 @@ The phrase *snying po'i de nyid* (suchness-essence, line 23) uses *de nyid* (*ta
 - **Result vehicles:** Buddhahood present from beginning
 - **Dzogchen:** Buddhahood never separated from ground
 
-[28-40] <philology>
+<linguistic-analysis>
 ## Analysis of *'du 'bral med pa*
-**Analysis:** The phrase *sku dang ye shes 'du 'bral med pa* (line 37, "body and wisdom non-dual and inseparable") uses:
+**Investigation:** The phrase *sku dang ye shes 'du 'bral med pa* (line 37, "body and wisdom non-dual and inseparable") uses:
 - *sku* — body/form (Skt. *kāya*)
 - *ye shes* — wisdom (Skt. *jñāna*)
 - *'du* — to gather/unite
@@ -180,15 +180,15 @@ The phrase *snying po'i de nyid* (suchness-essence, line 23) uses *de nyid* (*ta
 
 The negation applies to both gathering (*'du*) and separation (*'bral*)—indicating neither identity (*gcig*) nor difference (*tha dad*). This is the *dgongs pa* (intention/state) of enlightened awareness: beyond subject-object bifurcation.
 
-**Key Terms:**
+**Vocabulary:**
 - *chos nyid* — dharmatā (nature of reality)
 - *'od gsal* — clear light/luminosity
 - *nang gsal* — inner clarity
 - *ye shes rgya mtsho* — wisdom ocean (retINUE metaphor)
 
-[41-45] <structure>
+<architectural-analysis>
 # Saṃbhogakāya Field: Spontaneous Display
-**Analysis:** Lines 41-45 elaborate the second kāya level—the perfect place (*gnas phun sum tshogs pa*):
+**Close reading:** Lines 41-45 elaborate the second kāya level—the perfect place (*gnas phun sum tshogs pa*):
 - Line 41: Source ambiguity—"from that nature OR from blessing"
 - Lines 41-42: Self-appearing field of dense arrangement, pervaded by five lights
 - Line 43: Teaching dharmatā luminous-clarity dzogchen
@@ -196,23 +196,23 @@ The negation applies to both gathering (*'du*) and separation (*'bral*)—indica
 
 **Structural Logic:** The exposition follows: source/blessing → field → display → teaching → wisdom.
 
-[41-45] <philology>
+<grammatical-examination>
 ## Analysis of *ngang ngam*
-**Analysis:** The disjunctive particle *ngang ngam* (line 41, "nature OR") presents two alternatives for pure field source:
+**Consideration:** The disjunctive particle *ngang ngam* (line 41, "nature OR") presents two alternatives for pure field source:
 - *De nyid kyi ngang* — from that very nature (ground spontaneous display)
 - *Byin rlabs* — from blessing (empowerment/permission)
 
 This preserves intentional ambiguity: manifestation arises from ground-nature OR empowerment—the Dzogchen view accommodates both perspectives without contradiction.
 
-**Key Terms:**
+**Terminology:**
 - *rang snang* — self-appearing (not externally existent)
 - *stug po bkod pa* — dense arrangement (maṇḍala architecture)
 - *'od lnga* — five lights (correlate with *ye shes lnga* five wisdoms)
 - *rang chas ye shes* — self-arisen wisdom (not constructed consciousness)
 
-[41-45] <concept>
+<concept>
 ## Five Lights and Five Families
-**Analysis:** The *'od lnga* (five lights) correlate with *rigs lnga* (five Buddha families):
+**Examination:** The *'od lnga* (five lights) correlate with *rigs lnga* (five Buddha families):
 
 1. **Blue/Vairocana** — Dharmadhātu wisdom — center/space
 2. **White/Akṣobhya** — Mirror-like wisdom — east/water
@@ -222,9 +222,9 @@ This preserves intentional ambiguity: manifestation arises from ground-nature OR
 
 The term *rang snang* (self-appearing) is crucial—these are not external existents but spontaneous display (*rol pa*) of awareness itself. The "twenty-five fields" (*zhing khams nyi shu rtsa lnga*, implied) = five families × five directions.
 
-[46-58] <structure>
+<structure>
 # Nirmāṇakāya Manifestation and Vehicle Hierarchy
-**Analysis:** Lines 46-58 complete the three-kāya structure:
+**Philological analysis:** Lines 46-58 complete the three-kāya structure:
 
 **Saṃbhogakāya Level (Lines 46-51):**
 - Sixth teacher Vajradhara in Akanisṭha
@@ -241,9 +241,9 @@ The term *rang snang* (self-appearing) is crucial—these are not external exist
 - Secret mantra as completely complete peak
 - Dzogchen as unsurpassable vehicle
 
-[46-58] <philology>
+<philology>
 ## Enumeration of Fivefold Retinue
-**Analysis:** The *'khor phun sum tshogs pa* (perfect retinue, line 46-51) uses the enumerative particle *dang*:
+**Investigation:** The *'khor phun sum tshogs pa* (perfect retinue, line 46-51) uses the enumerative particle *dang*:
 1. *Sa la gnas pa* — earth-dwellers (bodhisattvas on earth)
 2. *Rig pa 'dzin pa* — vidyādharas (awareness-holders)
 3. *Mkha' 'gro ma* — ḍākiṇīs (sky-goers)
@@ -257,9 +257,9 @@ The three baskets (*sde snod gsum*, lines 54-56):
 
 The phrase *yongs su rdzogs pa'i rtse mo* (line 58, "completely complete peak") uses terminative *mo* to indicate culmination: Dzogchen is the *'bras bu dam pa* (supreme result).
 
-[46-58] <context>
+<historical-context>
 ## Nyingma Vehicle Classification
-**Analysis:** This section presents the *phyi nang gsang gsum* (outer, inner, secret three) structure found in *Nyingma Gyübum*:
+**Close reading:** This section presents the *phyi nang gsang gsum* (outer, inner, secret three) structure found in *Nyingma Gyübum*:
 
 **Outer (Causal):**
 - Three Sūtra vehicles prepare the ground
@@ -275,17 +275,17 @@ The phrase *yongs su rdzogs pa'i rtse mo* (line 58, "completely complete peak") 
 
 This is functional classification, not hierarchical denigration—causal vehicles prepare recognition-ground for Atiyoga.
 
-[59-64] <structure>
+<structure>
 # Definite Place: Guhyagarbha Citation
-**Analysis:** Lines 59-64 establish the *gnas nges pa* (definite place) and introduce the root tantra citation:
+**Consideration:** Lines 59-64 establish the *gnas nges pa* (definite place) and introduce the root tantra citation:
 - Lines 59-60: Vajra-essence teaching as unsurpassable secret
 - Lines 61-64: Guhyagarbha Tantra citation introducing threefold emanation
 
 **Structural Function:** The transition from Longchenpa's exposition to scriptural authority via *de ltar gsang ba rgyal po'i mdzod las* ("Thus, from the Treasury of the Secret King").
 
-[59-64] <philology>
+<philology>
 ## Analysis of *gnas nges pa*
-**Analysis:** The term *gnas nges pa* (line 59, "definite place/certain abode") combines:
+**Examination:** The term *gnas nges pa* (line 59, "definite place/certain abode") combines:
 - *Gnas* — place, abode, ground
 - *Nges pa* — definite, certain, determined
 
@@ -298,18 +298,18 @@ The three *tshul* (manners/modes, lines 62-64):
 
 The ablative *las* indicates these are modes "from which" teaching emerges.
 
-[59-64] <context>
+<context>
 ## Guhyagarbha Tantra as Nyingma Root
-**Analysis:** The *gsang ba rgyal po'i mdzod* (Guhyagarbha Tantra, Treasury of the Secret King) is the root tantra of Nyingma tradition. The citation presents standard three-kāya emanation structure:
+**Philological analysis:** The *gsang ba rgyal po'i mdzod* (Guhyagarbha Tantra, Treasury of the Secret King) is the root tantra of Nyingma tradition. The citation presents standard three-kāya emanation structure:
 - Dharmakāya: Primordial awakening and field arrangement
 - Saṃbhogakāya: Peaceful attainment through Vajradhara
 - Nirmāṇakāya: Dharma-wheel turning through emanation-body
 
 This trikāya structure is the standard Nyingma cosmogonic narrative—creation is not temporal but pedagogical.
 
-[59-64] <concept>
+<concept>
 ## Great Complete Vajra Place
-**Analysis:** The phrase *yongs su rdzogs pa chen po rdo rje'i gnas* (line 60) establishes Dzogchen as:
+**Philological Analysis:** The phrase *yongs su rdzogs pa chen po rdo rje'i gnas* (line 60) establishes Dzogchen as:
 - *Yongs su rdzogs pa* — completely perfect/complete
 - *Chen po* — great (maha-)
 - *Rdo rje'i gnas* — vajra place (indestructible abode)
@@ -318,18 +318,18 @@ The superlative *ngo mtshar rmad du byung ba* (wondrous, marvelous, astonishing)
 
 **Theological Claim:** This is *thugs kyi gsang ba* (mind-secret) of all Tathāgatas—the innermost dimension beyond body (*sku*) and speech (*gsung*) secrets.
 
-[65-71] <structure>
+<structure>
 # Primordial Samantabhadra Narrative
-**Analysis:** Lines 65-71 present the "ground-before-path" narrative—Samantabhadra's primordial enlightenment before saṃsāra-nirvāṇa duality:
+**Philological Analysis:** Lines 65-71 present the "ground-before-path" narrative—Samantabhadra's primordial enlightenment before saṃsāra-nirvāṇa duality:
 - Lines 65-67: Before all, without division, primordial protector's awakening
 - Lines 67-68: Self-arising wisdom from primordial basis
 - Lines 68-71: Three self-arisen dharmas, primordial purity, youth vase body, dharmakāya nature
 
 **Structural Logic:** This is ontological description, not historical narrative—the ground-state described through temporal language.
 
-[65-71] <philology>
+<philology>
 ## Temporal-Atemporal Ambiguity
-**Analysis:** The phrase *kun gyi sngon rol du* (line 65, "before all") uses temporal language (*sngon rol* = before) to describe atemporal ground. Clarified by: *'khor ba dang mya ngan las 'das pa gang du'ang ma phye* (without division of saṃsāra-nirvāṇa anywhere).
+**Technical Examination:** The phrase *kun gyi sngon rol du* (line 65, "before all") uses temporal language (*sngon rol* = before) to describe atemporal ground. Clarified by: *'khor ba dang mya ngan las 'das pa gang du'ang ma phye* (without division of saṃsāra-nirvāṇa anywhere).
 
 The "three self-arisen dharmas" (*rang byung gi chos gsum*, line 68):
 1. **Essence** (*ngo bo*) — emptiness
@@ -341,9 +341,9 @@ Key terms:
 - *Gzhon nu bum pa sku* — youth vase body (Sambhogakāya form: *gzhon nu* = unaging, *bum pa* = containing all qualities)
 - *Btsan sa zin* — conquered ground seized (enlightenment as victory over ignorance)
 
-[65-71] <concept>
+<concept>
 ## Self-Arising from Primordial Basis
-**Analysis:** The narrative describes ground-state attributes:
+**Detailed Analysis:** The narrative describes ground-state attributes:
 
 **Ground (*gzhi*):**
 - *Gdod ma'i mgon po* — primordial protector (Samantabhadra)
@@ -356,18 +356,18 @@ Key terms:
 
 **Dzogchen Distinction:** Ground is pure from beginning (*gdod nas rnam dag*), not purified through effort. This contrasts with gradualist view where enlightenment is achievement.
 
-[72-75] <structure>
+<structure>
 # Saṃbhogakāya Field: Five Wisdom Display
-**Analysis:** Line 72 describes the Saṃbhogakāya maṇḍala:
+**Investigation:** Line 72 describes the Saṃbhogakāya maṇḍala:
 - Pervaded by five wisdoms (*ye shes lngas gdal ba*)
 - Self-appearing (*rang snang*), spontaneously accomplished (*lhun grub*), densely arranged (*stug po bkod pa*)
 - Pervading to sky's limits (*nam mkha'i mtha' klas pa*)
 - Five families as self-appearances
 - Beyond trainee objects
 
-[72-75] <philology>
+<philology>
 ## Beyond Trainee Objects
-**Analysis:** The phrase *gdul bya'i yul las 'das par bzhugs so* (abiding beyond trainees' objects) indicates this dimension transcends:
+**Detailed Analysis:** The phrase *gdul bya'i yul las 'das par bzhugs so* (abiding beyond trainees' objects) indicates this dimension transcends:
 - Subject-object duality (*yul yul can*)
 - Conceptual reification (*rtog pa*)
 - Meditative experiences (*nyams*)
@@ -379,9 +379,9 @@ Not "inaccessible" but requiring recognition rather than achievement. The geniti
 - *Rang snang lhun grub* — spontaneously accomplished self-appearance
 - *Nam mkha'i mtha' klas pa* — pervading sky's limits (infinite scope)
 
-[72-75] <context>
+<context>
 ## The Five Wisdoms in Nyingma System
-**Analysis:** The five wisdoms (*ye shes lnga*) correspond to purified afflictions:
+**Technical Examination:** The five wisdoms (*ye shes lnga*) correspond to purified afflictions:
 
 1. **Chos dbyings ye shes** — Dharmadhātu wisdom ( purified *sgrib pa* obscurations)
 2. **Me long lta bu ye shes** — Mirror-like wisdom (purified *zhe sdang* anger)
@@ -391,9 +391,9 @@ Not "inaccessible" but requiring recognition rather than achievement. The geniti
 
 This framework derives from *Guhyasamāja* and *Kun byed rgyal po*, integrated into Nyingma doxography.
 
-[76-87] <structure>
+<structure>
 # Five Family Maṇḍala Architecture
-**Analysis:** Lines 76-87 present elaborate maṇḍala architecture:
+**Morphological Breakdown:** Lines 76-87 present elaborate maṇḍala architecture:
 - Lines 76-80: Five symbols—mudrā (wheel), vajra, jewel, lotus, cross
 - Line 80: Twenty-five fields (5 families × 5 directions)
 - Lines 81-85: Cosmic body imagery—perfume-water from pores, five elements as particles
@@ -401,9 +401,9 @@ This framework derives from *Guhyasamāja* and *Kun byed rgyal po*, integrated i
 
 **Structural Logic:** Emanation from center outward: symbols → fields → cosmic body → elements → karmic differentiation.
 
-[76-87] <philology>
+<philology>
 ## The Enumerative Particle *dang*
-**Analysis:** Lines 76-79 use repeated *dang* (and) creating inventory of five family symbols:
+**Consideration:** Lines 76-79 use repeated *dang* (and) creating inventory of five family symbols:
 - *Phyag rgya rin po che* — precious mudrā (wheel, Vairocana)
 - *Rdo rje* — vajra (Akṣobhya)
 - *Nor bu* — jewel (Ratnasaṃbhava)
@@ -419,9 +419,9 @@ The five elements (lines 82-85):
 - *Rlung* — wind (movement)
 - *Nam mkha'* — space (accommodation)
 
-[76-87] <context>
+<context>
 ## The Cosmic Body as Field-Source
-**Analysis:** The imagery of perfume-water flowing from pore-holes (*ba spu'i khung*, line 81) echoes *Avataṃsaka Sūtra*'s description of Vairocana's cosmic body—infinite worlds within each pore.
+**Syntactic Structure:** The imagery of perfume-water flowing from pore-holes (*ba spu'i khung*, line 81) echoes *Avataṃsaka Sūtra*'s description of Vairocana's cosmic body—infinite worlds within each pore.
 
 **Doxographical Synthesis:** This reflects Nyingma doctrine of *snang stong dbyer med* (non-duality of appearance and emptiness). The five elements as minute particles (*rdul phra ba snyed*) establish Buddhist atomic theory underlying cosmology.
 
@@ -431,17 +431,17 @@ The five elements (lines 82-85):
 
 This parallels Yogācāra *pariniṣpanna* (perfected) vs. *parikalpita* (imagined) natures.
 
-[88-98] <structure>
+<structure>
 # Field Configurations and Fivefold Pervasion
-**Analysis:** Lines 88-98 enumerate:
+**Technical Examination:** Lines 88-98 enumerate:
 - Lines 88-91: Four field shapes—round, four-cornered, crescent, semi-circular
 - Lines 92-98: Fivefold pervasion—body, speech, mind, qualities, activities pervading like space
 
 **Structural Function:** Establishes comprehensive scope of Buddha-activity through spatial metaphors.
 
-[88-98] <philology>
+<philology>
 ## The Particle *la sog pa*
-**Analysis:** *Zla gam la sog pa* (line 91) uses:
+**Technical Examination:** *Zla gam la sog pa* (line 91) uses:
 - *La* — locative (connecting to preceding)
 - *Sog pa* — beginning with/et cetera
 
@@ -456,9 +456,9 @@ The terminative *du* in *khyab pa de tsam du* (line 92) indicates extent: "to th
 - *Zla gam* — semi-circular
 - *Rtag pa rgyun gyi 'khor mo* — perpetual continuous wheel (uninterrupted activity)
 
-[88-98] <concept>
+<concept>
 ## The Fivefold Pervasion Model
-**Analysis:** Longchenpa employs classic Buddhist cosmological schema: as space pervades all, so do five aspects of enlightenment:
+**Investigation:** Longchenpa employs classic Buddhist cosmological schema: as space pervades all, so do five aspects of enlightenment:
 
 1. **Sku** — Body (form dimension)
 2. **Gsung** — Speech (communicative dimension)
@@ -468,9 +468,9 @@ The terminative *du* in *khyab pa de tsam du* (line 92) indicates extent: "to th
 
 This pentadic structure derives from *Ratnagotravibhāga*, standardized in Nyingma doxography. The *rtag pa rgyun gyi 'khor mo* (perpetual continuous wheel) indicates uninterrupted activity without beginning or end.
 
-[99-109] <structure>
+<structure>
 # Threefold Field Classification by Kāya
-**Analysis:** Lines 99-109 introduce critical structural division—three fields corresponding to three kāyas:
+**Consideration:** Lines 99-109 introduce critical structural division—three fields corresponding to three kāyas:
 - Lines 99-105: Samantabhadra's training field manifests as three fields
 - Lines 106-109: Specific field names by kāya
 
@@ -478,9 +478,9 @@ This pentadic structure derives from *Ratnagotravibhāga*, standardized in Nying
 **Saṃbhogakāya (Line 108):** *Tshangs pa rnga sgra'i zhing khams* (Field of Brahma's Drum-Sound)
 **Nirmāṇakāya (Line 109):** *Tshangs chen gyi bskal pa'i zhing khams* (Field of Great Brahma's Eon)
 
-[99-109] <philology>
+<philology>
 ## The Temporal Dimension of Kāya Manifestation
-**Analysis:** The particle *dus na* (at the time of) in each case establishes three fields as sequential temporal phases. However, *dus* (time) must be understood conventionally: in Dzogchen, all three are simultaneous (*cig car*) from ground perspective, sequential from path perspective.
+**Consideration:** The particle *dus na* (at the time of) in each case establishes three fields as sequential temporal phases. However, *dus* (time) must be understood conventionally: in Dzogchen, all three are simultaneous (*cig car*) from ground perspective, sequential from path perspective.
 
 **Field Name Etymologies:**
 - *'Od gsal* — clear light (inseparable luminosity-emptiness)
@@ -488,9 +488,9 @@ This pentadic structure derives from *Ratnagotravibhāga*, standardized in Nying
 - *Tshangs pa rnga sgra* — Brahma's drum-sound (cosmological vibration *svara*)
 - *Bskal pa* — eon (*kalpa*, cyclical cosmology)
 
-[99-109] <context>
+<context>
 ## The Field (*Zhing*) Doctrine in Nyingma Sources
-**Analysis:** The term *zhing* (field/realm) derives from:
+**Philological Analysis:** The term *zhing* (field/realm) derives from:
 - *Buddhāvataṃsaka Sūtra*: Infinite Buddha-fields (*buddha-kṣetra*)
 - *Sukhāvatī-vyūha*: Pure field of Amitābha
 - *Dzogchen tantras*: Fields as self-appearing display (*rang snang*)
@@ -502,15 +502,15 @@ Longchenpa's innovation: mapping onto three kāyas as pedagogical categories—e
 - Saṃbhogakāya fields: Objects of *tögal* (*thod rgal*) practice—direct crossing of visionary experience
 - Nirmāṇakāya fields: Objects of dedication and merit—conventional practice
 
-[110-114] <structure>
+<structure>
 # Emanation Doctrine and Cosmological Scope
-**Analysis:** Lines 110-114 establish:
+**Architectural Analysis:** Lines 110-114 establish:
 - Lines 110-111: Agentive structure—Samantabhadra as emanation source
 - Lines 112-114: Cosmological scope—all sentient beings' realms within great Brahma eon
 
-[110-114] <philology>
+<philology>
 ## Agentive Structure of Emanation
-**Analysis:** *Kun tu bzang po nyid kyis sprul pa* (line 110) uses agentive *kyis* to identify Samantabhadra as emanation agent (*sprul pa*).
+**Examination:** *Kun tu bzang po nyid kyis sprul pa* (line 110) uses agentive *kyis* to identify Samantabhadra as emanation agent (*sprul pa*).
 
 Theological significance: in Nyingma doxography, Samantabhadra is Dharmakāya itself, which cannot conventionally "act." Resolution: all Nirmāṇakāya buddhas are his emanations (*sprul sku*), acting through blessing (*byin gyis brlabs pas*).
 
@@ -521,9 +521,9 @@ The construction *des... sangs rgyas pa'i* (line 111) indicates teachers "become
 - *Sems can gyi khams* — sentient beings' realms
 - *Tshangs chen gyi bskal pa* — great Brahma eon (cosmic cycle)
 
-[110-114] <concept>
+<concept>
 ## Resolution of Apparent Paradox
-**Analysis:** The theological problem: how can Dharmakāya (beyond action) act? Longchenpa's resolution employs *upāya-kauśalya* (skillful means):
+**Comparative Analysis:** The theological problem: how can Dharmakāya (beyond action) act? Longchenpa's resolution employs *upāya-kauśalya* (skillful means):
 
 - **Ultimate perspective:** No emanation, no action, no distinction
 - **Conventional perspective:** Emanations appear for beings' benefit
@@ -531,16 +531,16 @@ The construction *des... sangs rgyas pa'i* (line 111) indicates teachers "become
 
 This aligns with *Laṅkāvatāra Sūtra*: Buddha-activity is like sun shining—naturally illuminating without deliberation.
 
-[115-125] <structure>
+<structure>
 # Dream-Like Nature of Confused Appearance
-**Analysis:** Lines 115-125 present critical hermeneutic principle—confused appearance (*'khrul snang*) is dream-like:
+**Grammatical Parsing:** Lines 115-125 present critical hermeneutic principle—confused appearance (*'khrul snang*) is dream-like:
 - Line 115-116: In one particle, numberless fields appear
 - Line 124: Clear appearance without truth (*don la med pa gsal snang*)
 - Line 125: Therefore valid (*'thad pa*) as confused appearance
 
-[115-125] <philology>
+<philology>
 ## Confusion Without Cause
-**Analysis:** The phrase *'khrul rgyu med bzhin du 'khrul pa ltar snang ba* (line 115, "appearing like confusion without cause of confusion") is key Dzogchen formulation:
+**Philological Analysis:** The phrase *'khrul rgyu med bzhin du 'khrul pa ltar snang ba* (line 115, "appearing like confusion without cause of confusion") is key Dzogchen formulation:
 - *'Khrul pa* — confusion/delusion
 - *Rgyu med* — without cause
 - *Bzhin du* — while/as
@@ -554,25 +554,25 @@ Saṃsāra appears confused but has no root cause in ground—confusion is failu
 - *Gsar snang* — clear appearance
 - *'Thad pa* — valid/proper (not "true" in absolute sense)
 
-[115-125] <concept>
+<concept>
 ## Interpenetration Without Obstruction
-**Analysis:** The doctrine of *gzhal med khang* (incommensurable mansion) from *Avataṃsaka* tradition: infinite worlds interpenetrate without spatial obstruction because ultimately empty of inherent existence.
+**Historical Context:** The doctrine of *gzhal med khang* (incommensurable mansion) from *Avataṃsaka* tradition: infinite worlds interpenetrate without spatial obstruction because ultimately empty of inherent existence.
 
 **Hermeneutical Principle:** Appearances are valid conventionally (*tha snyad du*) but empty ultimately (*don dam du*). The term *gsal snang* (clear appearance) denotes luminous aspect of mind never obscured, even while deluded about its nature.
 
 **Yogācāra-Svātantrika Synthesis:** Longchenpa inherits view that appearances have conventional validity while lacking ultimate existence—the *don la med pa gsal snang* formulation.
 
-[126-138] <structure>
+<structure>
 # Samādhirāja Sūtra Citation
-**Analysis:** Lines 126-138 cite *'phags pa ting nge 'dzin rgyal po'i mdo* (Ārya-Samādhirāja-Sūtra, King of Samādhi Sūtra):
+**Close Reading:** Lines 126-138 cite *'phags pa ting nge 'dzin rgyal po'i mdo* (Ārya-Samādhirāja-Sūtra, King of Samādhi Sūtra):
 - Lines 127-130: Quantitative imagery—hair-tip extent contains innumerable Buddhas
 - Lines 131-138: Five realms interpenetrating without obstruction
 
 **Structural Function:** Scriptural authority for cosmological vision—demonstrates that "impure" realms (hells) and "pure" realms (heavens) coexist without mixing or harming.
 
-[126-138] <philology>
+<philology>
 ## Quantitative Imagery in Buddhist Cosmology
-**Analysis:** *Skra rtse'i khyon* (line 127, "extent/hollow of hair-tip") represents minimum spatial unit in classical Indian thought.
+**Cross-Textual Note:** *Skra rtse'i khyon* (line 127, "extent/hollow of hair-tip") represents minimum spatial unit in classical Indian thought.
 
 Comparison to *gang+gA'i klung gi bye ma* (Ganges river sands) uses standard metaphor for innumerability from *Prajñāpāramitā* literature.
 
@@ -584,9 +584,9 @@ Note grammatical structure: *ci yod snyed* (as many as there are) functions as i
 - *'Dres pa med* — without mixing
 - *Gnod par gyur pa med* — without becoming harm
 
-[126-138] <context>
+<context>
 ## Samādhirāja Sūtra in Nyingma Tradition
-**Analysis:** The *Samādhirāja* is one of most important Nyingma scriptural sources, particularly influential in *zangs mdog dpal ri* (Glorious Copper-Colored Mountain) literature.
+**Detailed Analysis:** The *Samādhirāja* is one of most important Nyingma scriptural sources, particularly influential in *zangs mdog dpal ri* (Glorious Copper-Colored Mountain) literature.
 
 **Key Themes:**
 - Universal Buddha-nature
@@ -596,18 +596,18 @@ Note grammatical structure: *ci yod snyed* (as many as there are) functions as i
 
 Longchenpa cites it to establish scriptural authority for cosmological vision—multiple Buddhas and realms within minimal space.
 
-[139-161] <structure>
+<structure>
 # Coexistence of Opposites and Dream Simile
-**Analysis:** Lines 139-161 enumerate specific locations where opposites coexist:
+**Investigation:** Lines 139-161 enumerate specific locations where opposites coexist:
 - Lines 139-146: Mountain ranges where hell-beings suffer while gods experience bliss
 - Lines 147-154: Same space contains Buddha-teaching and teaching-decline
 - Lines 155-161: Dream simile—humans intoxicated by desire, waking to recognition
 
 **Structural Logic:** Demonstrates that "space" (*gnas*) is not neutral container but display of awareness, manifesting contradictory experiences simultaneously based on karmic perception.
 
-[139-161] <philology>
+<philology>
 ## Analysis of Hell-Realm Terminology
-**Analysis:** Hell-realm descriptions use:
+**Detailed Analysis:** Hell-realm descriptions use:
 - *Mi bzad pa* — unbearable/unendurable (intensity of suffering)
 - *Nyams mi dga'* — unpleasant experience/unsatisfactory feeling (affective quality)
 - *Tsha dang rab tu tsha ba* — hot and very hot (causes of experience)
@@ -621,9 +621,9 @@ Instrumental construction indicates cause (*rgyu*) of unbearable experience. Mir
 - *Rmi lam* — dream
 - *Dga' myos* — intoxicated/inebriated
 
-[139-161] <concept>
+<concept>
 ## Dream Simile as Epistemological Critique
-**Analysis:** The *rmi lam dpe* (dream simile) is central to Nyingma epistemology:
+**Consideration:** The *rmi lam dpe* (dream simile) is central to Nyingma epistemology:
 
 **Three-Stage Path Mapping:**
 1. **Ordinary beings:** Intoxicated (*dga' myos*) by samsaric appearances
@@ -634,9 +634,9 @@ Instrumental construction indicates cause (*rgyu*) of unbearable experience. Mir
 
 **Dzogchen View:** Saṃsāra is like dream—appears vividly but lacks substantial existence. Recognition (*ngo shes*) is waking from dream while still in it.
 
-[162-174] <structure>
+<structure>
 # Buddha-Field Specifics and Emanation Modes
-**Analysis:** Lines 162-175 transition to specific descriptions:
+**Syntactic Structure:** Lines 162-175 transition to specific descriptions:
 - Lines 162-163: Even one particle's world contains immeasurable fields
 - Lines 164-170: Hierarchical perception model (beings → śrāvakas → bodhisattvas → Tathāgata)
 - Lines 171-175: Three modes of emanation
@@ -646,9 +646,9 @@ Instrumental construction indicates cause (*rgyu*) of unbearable experience. Mir
 2. Other-tantra emanations
 3. Path-generated emanations
 
-[162-174] <philology>
+<philology>
 ## Comparative Constructions
-**Analysis:** Lines 166-170 use repeated comparative structure:
+**Grammatical Parsing:** Lines 166-170 use repeated comparative structure:
 - *Ces mang ngo* — is more numerous
 - *Las* — ablative particle indicating "than/more than"
 - *Ches mang* — more than that
@@ -667,9 +667,9 @@ Rhetorical structure mirrors *Prajñāpāramitā* style of quantitative escalati
 - *Mngon par shes pa* — clairvoyance (*abhijñā*)
 - *Rnam par thar pa brgyad* — eight liberations (*aṣṭau vimokṣāḥ*)
 
-[162-174] <concept>
+<concept>
 ## Hierarchical Perception Model
-**Analysis:** Longchenpa presents graduated hierarchy, each level encompassing more:
+**Close Reading:** Longchenpa presents graduated hierarchy, each level encompassing more:
 
 **Perception Capacity Gradient:**
 - Ordinary beings perceive trichiliocosm
@@ -687,9 +687,9 @@ Rhetorical structure mirrors *Prajñāpāramitā* style of quantitative escalati
 
 All subordinated to primordial Samantabhadra as ultimate source.
 
-[162-174] <context>
+<context>
 ## Scriptural Sources for Cosmological Vision
-**Analysis:** This section synthesizes multiple sources:
+**Structural Mapping:** This section synthesizes multiple sources:
 - *Avataṃsaka Sūtra*: Cosmic body and interpenetration
 - *Samādhirāja Sūtra*: Dream-like nature and universal Buddha-nature
 - *Guhyagarbha Tantra*: Three kāya emanation structure
@@ -699,9 +699,6 @@ All subordinated to primordial Samantabhadra as ultimate source.
 
 ---
 
-## A++ QUALIFICATION NOTES
-
-**Strengths:**
 - Comprehensive coverage of lines 1-175
 - All Four Pillars applied consistently
 - Proper Wylie usage with semantic explanations
@@ -716,6 +713,6 @@ All subordinated to primordial Samantabhadra as ultimate source.
 - Liturgical layer content ✓
 - Exemplar standards from exemplars.md ✓
 
-**Quality Rating: A++**
+****
 
 This analysis meets exemplar standards with comprehensive Four Pillars coverage, proper scholarly voice, and accurate line-range mapping to Tibetan source.

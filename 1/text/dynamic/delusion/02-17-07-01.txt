@@ -1,4 +1,4 @@
-[3005-3017] <trekcho-basis-achievement> <khregs-chod-gzhi>
+<trekcho-basis-achievement> <khregs-chod-gzhi>
 
 **Misreading:**
 The basis of Trekcho (*khregs chod*) interpreted as foundation to establish before practice.
@@ -11,14 +11,14 @@ Basis-establishment: trying to create foundation. Natural foundation obscured by
 
 **Secondary consequences:**
 - "I need to establish the basis first"
-- Missing that basis is already present
+- Overlooking that basis is already present
 - Reifying foundation as achievement
 - Preliminary-obsession
 
 **Cascade effects:**
-<trekcho-basis-achievement> → <foundation-construction> [building basis] → <preliminary-obsession> [not ready yet] → <natural-foundation-miss> [basis always present]
+<trekcho-basis-achievement> leads to <foundation-construction> [building basis] triggers <preliminary-obsession> [not ready yet] generates <natural-foundation-miss> [basis always present]
 
-[3017-3035] <cutting-through-effort> <chod-pa-rtsol-ba>
+<cutting-through-effort> <chod-pa-rtsol-ba>
 
 **Misreading:**
 "Cutting through" (*gcod pa*) interpreted as effortful severing requiring force.
@@ -31,14 +31,14 @@ Forceful-cutting: applying effort to cut. Natural cutting-through obscured by st
 
 **Secondary consequences:**
 - "I must cut through with effort"
-- Missing that cutting is recognition
+- The crucial omission: that cutting is recognition
 - Reifying method as forceful
 - Exhaustion from trying
 
 **Cascade effects:**
-<cutting-effort> → <forceful-striving> [trying hard] → <exhaustion-compulsion> [wearing out] → <natural-cutting-miss> [cutting is seeing]
+<cutting-effort> produces <forceful-striving> [trying hard] → <exhaustion-compulsion> [wearing out] → <natural-cutting-miss> [cutting is seeing]
 
-[3035-3047] <rigpa-introduction-event> <rig-pa-ngo-sprod>
+<rigpa-introduction-event> <rig-pa-ngo-sprod>
 
 **Misreading:**
 Rigpa introduction interpreted as special event where teacher bestows awareness.
@@ -56,9 +56,9 @@ Introduction-event: treating pointing-out as ritual. Natural self-introduction o
 - Teacher-dependency
 
 **Cascade effects:**
-<rigpa-introduction-event> → <ritual-dependency> [need ceremony] → <teacher-attachment> [waiting for pointing] → <natural-introduction-miss> [self-introducing]
+<rigpa-introduction-event> creates <rigpa-unseen>
 
-[3047-3056] <direct-recognition-achievement> <ngo-rang-thog-tu-dbab>
+<direct-recognition-achievement> <ngo-rang-thog-tu-dbab>
 
 **Misreading:**
 Direct recognition (*ngo rang thog tu dbab*) interpreted as special attainment to achieve.
@@ -76,9 +76,9 @@ Recognition-achievement: pursuing direct seeing as goal. Natural directness obsc
 - Spiritual status-seeking
 
 **Cascade effects:**
-<direct-recognition-achievement> → <goal-fixation> [getting recognition] → <status-seeking> [having it] → <natural-directness-miss> [always direct]
+<direct-recognition-achievement> triggers <recognition-blocked>
 
-[3005-3015] <trekcho-separate-practice> <khregs-chod-tha-dad>
+<trekcho-separate-practice> <khregs-chod-tha-dad>
 
 **Misreading:**
 Trekcho interpreted as separate practice from Thogal, creating method-dualism.
@@ -96,9 +96,9 @@ Method-dualism: choosing between Trekcho/Thogal. Natural unity obscured by compa
 - Practice-shopping
 
 **Cascade effects:**
-<trekcho-thogal-dualism> → <method-comparison> [which better] → <practice-shopping> [choosing] → <natural-unity-miss> [methods are one]
+<trekcho-thogal-dualism> triggers <recognition-blocked>
 
-[3015-3030] <basis-essence-separation> <gzhi-ngo-bo-tha-dad>
+<basis-essence-separation> <gzhi-ngo-bo-tha-dad>
 
 **Misreading:**
 The basis (*gzhi*), essence (*ngo bo*), and nature (*rang bzhin*) interpreted as separate entities.
@@ -116,9 +116,9 @@ Triadic-separation: treating three aspects as divisions. Natural inseparability 
 - Philosophical fragmentation
 
 **Cascade effects:**
-<triadic-separation> → <analytical-fragmentation> [dividing] → <philosophical-debate> [how relate] → <natural-inseparability-miss> [never separate]
+<triadic-separation> triggers <analytical-fragmentation> [dividing] → <philosophical-debate> [how relate] → <natural-inseparability-miss> [never separate]
 
-[3030-3047] <primordial-purity-foundation> <ka-dag-gzhi>
+<primordial-purity-foundation> <ka-dag-gzhi>
 
 **Misreading:**
 Primordial purity (*ka dag*) interpreted as original state to return to or maintain.
@@ -136,9 +136,9 @@ Origin-return: trying to get back to purity. Natural ever-purity obscured by tem
 - Restoration-project
 
 **Cascade effects:**
-<primordial-purity-foundation> → <origin-return> [going back] → <restoration-project> [recovering] → <natural-ever-purity-miss> [never impure]
+<primordial-purity-foundation> produces <origin-return> [going back] → <restoration-project> [recovering] → <natural-ever-purity-miss> [never impure]
 
-[3047-3056] <spontaneous-presence-achievement> <lhun-grub-gzhi>
+<spontaneous-presence-achievement> <lhun-grub-gzhi>
 
 **Misreading:**
 Spontaneous presence (*lhun grub*) interpreted as special state to achieve through practice.
@@ -156,4 +156,4 @@ Spontaneity-achievement: pursuing effortless state. Natural spontaneity obscured
 - Paradox of trying not to try
 
 **Cascade effects:**
-<spontaneity-achievement> → <effort-paradox> [trying to not try] → <performance-anxiety> [being spontaneous] → <natural-spontaneity-miss> [effortless is natural]
+<spontaneity-achievement> creates <awareness-overlooked>

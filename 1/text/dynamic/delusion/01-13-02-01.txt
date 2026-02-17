@@ -1,4 +1,4 @@
-[16274-16302] <water-lamp-ontologization> <chu'i-sgro-ma-dngos-po>
+<water-lamp-ontologization> <chu'i-sgro-ma-dngos-po>
 
 **Misreading:**
 Water lamp (*chu'i sgro ma*) interpreted as establishing liquid-entity—actual water-like substance, fluid phenomenon, moist appearance.
@@ -13,11 +13,11 @@ Lamp substantialized as watery. Recognition displaced by liquid-concept. The wat
 "Water-lamp meditation" practice. Liquid-visualization. Moisture-focus. The dryness (*skam pa) remains unrecognizable.
 
 **Cascade effects:**
-<water-lamp-ontologization> [fluid-grasping] → <liquid-entity> [moisture-concept] → <water-meditation> [liquid-practice] → <water-free-miss> [recognition-displacement]
+<water-lamp-ontologization> [fluid-grasping] generates <recognition-blocked>
 
 ---
 
-[16283-16302] <far-reaching-hook-reification> <rgyang-zhags-dngos-po>
+<far-reaching-hook-reification> <rgyang-zhags-dngos-po>
 
 **Misreading:**
 "Far-reaching hook" (*rgyang zhags*) interpreted as establishing visual instrument—device that extends perception, tool for seeing distant objects.
@@ -32,11 +32,11 @@ Hook substantialized as device. Recognition displaced by instrument-concept. The
 "Using the hook" effort. Device-manipulation. Distance-penetration attempt. The ungraspable (*gzung du med pa) remains unrecognizable.
 
 **Cascade effects:**
-<far-reaching-hook-reification> [instrument-grasping] → <visual-device> [tool-concept] → <hook-manipulation> [device-effort] → <hook-free-miss> [recognition-displacement]
+<far-reaching-hook-reification> [instrument-grasping] leads to <visual-device> [tool-concept] triggers <hook-manipulation> [device-effort] leads to <hook-free-miss> [recognition-displacement]
 
 ---
 
-[16283-16302] <samsara-nirvana-dual-appearance> <khor-das-snang-gnyis>
+<samsara-nirvana-dual-appearance> <khor-das-snang-gnyis>
 
 **Misreading:**
 "Abiding in aspects of both samsara and nirvana" (*'khor 'das gnyis ka'i cha 'dzin*) interpreted as establishing two-different-appearances—samsaric vs nirvanic, impure vs pure vision.
@@ -51,11 +51,11 @@ Appearances substantialized as dual. Recognition fragmented by samsara-nirvana-d
 "Choosing nirvana" preference. Samsara-rejection. Pure-vision pursuit. The beyond-samsara-nirvana (*khor 'das dang bral ba) remains unrecognizable.
 
 **Cascade effects:**
-<samsara-nirvana-dual-appearance> [dualistic-grasping] → <two-appearances> [separation-concept] → <nirvana-preference> [rejection-effort] → <non-dual-miss> [recognition-fragmentation]
+<samsara-nirvana-dual-appearance> [dualistic-grasping] creates <two-appearances> [separation-concept] → <nirvana-preference> [rejection-effort] → <non-dual-miss> [recognition-fragmentation]
 
 ---
 
-[16303-16350] <binding-liberation-reification> <bcings-grol-dngos-po>
+<binding-liberation-reification> <bcings-grol-dngos-po>
 
 **Misreading:**
 "Binding" (*'ching ba*) and "liberation" (*grol ba*) interpreted as establishing real states—actually bound or actually free, two different conditions.
@@ -70,11 +70,11 @@ Binding/liberation substantialized as states. Recognition displaced by condition
 "Seeking liberation" pursuit. Freedom-achievement. Release-effort. The always-free (*ye nas thar pa) remains unrecognizable.
 
 **Cascade effects:**
-<binding-liberation-reification> [state-grasping] → <bound-free-conditions> [constraint-freedom-thinking] → <liberation-pursuit> [achievement-effort] → <never-bound-miss> [recognition-displacement]
+<binding-liberation-reification> [state-grasping] creates <bound-free-conditions> [constraint-freedom-thinking] → <liberation-pursuit> [achievement-effort] → <never-bound-miss> [recognition-displacement]
 
 ---
 
-[16351-16367] <threefold-lamp-division> <sgro-ma-gsum-dbye>
+<threefold-lamp-division> <sgro-ma-gsum-dbye>
 
 **Misreading:**
 Threefold division of water lamp (*byung ba 'dus pa*, *ye shes 'dus pa*, *dbang po 'dus pa*) interpreted as establishing three-separate-types—distinct lamps with different compositions.
@@ -89,11 +89,11 @@ Lamps substantialized as three-types. Recognition fragmented by categorical-thin
 "Which type?" analysis. Type-identification. Categorical-investigation. The undivided (*dbyer med) remains unrecognizable.
 
 **Cascade effects:**
-<threefold-lamp-division> [categorical-grasping] → <three-separate-types> [division-thinking] → <type-analysis> [identification-practice] → <three-as-one-miss> [recognition-fragmentation]
+<threefold-lamp-division> [categorical-grasping] generates <three-separate-types> [division-thinking] → <type-analysis> [identification-practice] → <three-as-one-miss> [recognition-fragmentation]
 
 ---
 
-[16368-16396] <appearance-field-objectification> <snang-yul-dngos-po>
+<appearance-field-objectification> <snang-yul-dngos-po>
 
 **Misreading:**
 "Appearance field" (*snang yul*) interpreted as establishing visible-objects—actual things that appear, external phenomena, sensory data.
@@ -108,11 +108,11 @@ Field substantialized as objects. Recognition displaced by object-thinking. The 
 "Observing appearances" practice. Object-investigation. Sensory-focus. The objectless (*yul med) remains unrecognizable.
 
 **Cascade effects:**
-<appearance-field-objectification> [phenomenal-grasping] → <visible-objects> [object-thinking] → <appearance-observation> [sensory-practice] → <field-free-miss> [recognition-displacement]
+<appearance-field-objectification> [phenomenal-grasping] leads to <visible-objects> [object-thinking] → <appearance-observation> [sensory-practice] → <field-free-miss> [recognition-displacement]
 
 ---
 
-[16397-16423] <eye-channel-anatomy> <mig-rtsa-gnas-lugs>
+<eye-channel-anatomy> <mig-rtsa-gnas-lugs>
 
 **Misreading:**
 "Eye channel" (*mig gi rtsa*) and anatomical descriptions interpreted as establishing physiological-structure—actual pathway in body, subtle-body geography.
@@ -127,11 +127,11 @@ Channel substantialized as anatomy. Recognition displaced by physiological-fixat
 "Locating eye-channel" investigation. Anatomical-mapping. Structure-navigation. The beyond-channels (*rtsa las 'das pa) remains unrecognizable.
 
 **Cascade effects:**
-<eye-channel-anatomy> [anatomical-grasping] → <physiological-pathway> [structure-thinking] → <channel-location> [mapping-investigation] → <channel-free-miss> [recognition-displacement]
+<eye-channel-anatomy> [anatomical-grasping] triggers <physiological-pathway> [structure-thinking] → <channel-location> [mapping-investigation] → <channel-free-miss> [recognition-displacement]
 
 ---
 
-[16424-16450] <vajra-chain-bindu-structure> <rdo-rje-lu-gu-rgyud-thig-le>
+<vajra-chain-bindu-structure> <rdo-rje-lu-gu-rgyud-thig-le>
 
 **Misreading:**
 Vajra chain and bindu stack (*rdo rje lu gu rgyud*, *thig le brtsegs ma*) interpreted as establishing layered-structure—hierarchical arrangement, stacked levels.
@@ -146,11 +146,11 @@ Chain/bindu substantialized as layered. Recognition displaced by hierarchical-th
 "Navigating levels" effort. Layer-climbing. Stack-ascension. The beyond-levels (*thog dman dang bral ba) remains unrecognizable.
 
 **Cascade effects:**
-<vajra-chain-bindu-structure> [hierarchical-grasping] → <layered-arrangement> [level-thinking] → <level-navigation> [climbing-effort] → <flat-miss> [recognition-displacement]
+<vajra-chain-bindu-structure> [hierarchical-grasping] produces <nature-missed>
 
 ---
 
-[16274-16450] <four-lamp-water-essentialization> <sgro-ma-bzhi-chu-ngo-bo>
+<four-lamp-water-essentialization> <sgro-ma-bzhi-chu-ngo-bo>
 
 **Misreading:**
 Water lamp as one of four lamps interpreted as establishing essential-element—water as fundamental nature, core constituent.
@@ -165,11 +165,11 @@ Water substantialized as essential. Recognition displaced by elemental-thinking.
 "Water-nature meditation" practice. Elemental-essence focus. Core-constituent investigation. The essence-free (*ngo bo dang bral ba) remains unrecognizable.
 
 **Cascade effects:**
-<four-lamp-water-essentialization> [elemental-grasping] → <essential-element> [constituent-thinking] → <water-essence-practice> [elemental-meditation] → <element-free-miss> [recognition-displacement]
+<four-lamp-water-essentialization> [elemental-grasping] creates <essential-element> [constituent-thinking] → <water-essence-practice> [elemental-meditation] → <element-free-miss> [recognition-displacement]
 
 ---
 
-[16274-16450] <pure-vision-achievement> <dag-snang-grub-pa>
+<pure-vision-achievement> <dag-snang-grub-pa>
 
 **Misreading:**
 "Pure vision" (*dag snang*) interpreted as establishing purified-perception—cleaned-up seeing, corrected vision, improved sight.
@@ -184,11 +184,11 @@ Vision substantialized as purifiable. Recognition displaced by correction-projec
 "Purifying vision" effort. Correction-practice. Sight-improvement. The never-impure (*dri ma dang bral ba) remains unrecognizable.
 
 **Cascade effects:**
-<pure-vision-achievement> [purification-grasping] → <purified-perception> [correction-concept] → <vision-correction> [improvement-effort] → <naturally-pure-miss> [recognition-displacement]
+<pure-vision-achievement> [purification-grasping] creates <purified-perception> [correction-concept] → <vision-correction> [improvement-effort] → <naturally-pure-miss> [recognition-displacement]
 
 ---
 
-[16274-16450] <deluded-appearance-rejection> <khrul-snang-spong-ba>
+<deluded-appearance-rejection> <khrul-snang-spong-ba>
 
 **Misreading:**
 "Deluded appearance" (*'khrul snang*) interpreted as establishing rejectable-phenomena—error to be eliminated, mistake to be corrected.
@@ -203,11 +203,11 @@ Appearance substantialized as error. Recognition displaced by rejection-attitude
 "Rejecting delusion" effort. Error-elimination. Correction-practice. The never-deluded (*ma 'khrul ba) remains unrecognizable.
 
 **Cascade effects:**
-<deluded-appearance-rejection> [rejection-grasping] → <rejectable-phenomena> [error-concept] → <delusion-elimination> [correction-effort] → <error-free-miss> [recognition-displacement]
+<deluded-appearance-rejection> [rejection-grasping] leads to <rejectable-phenomena> [error-concept] → <delusion-elimination> [correction-effort] → <error-free-miss> [recognition-displacement]
 
 ---
 
-[16274-16450] <distance-projection-temporalization> <rgyang-phreng-dus-kyis>
+<distance-projection-temporalization> <rgyang-phreng-dus-kyis>
 
 **Misreading:**
 "Projecting far" (*rgyang du 'phen pa*) interpreted as establishing temporal-distance—future projection, postponement, delay.
@@ -222,11 +222,11 @@ Distance substantialized as temporal. Recognition displaced by future-thinking. 
 "Distant liberation" waiting. Future-achievement. Postponed-recognition. The always-present (*ye nas gnas pa) remains unrecognizable.
 
 **Cascade effects:**
-<distance-projection-temporalization> [temporal-grasping] → <future-projection> [delay-concept] → <postponed-recognition> [waiting-practice] → <immediate-miss> [recognition-displacement]
+<distance-projection-temporalization> [temporal-grasping] generates <future-projection> [delay-concept] → <postponed-recognition> [waiting-practice] → <immediate-miss> [recognition-displacement]
 
 ---
 
-[16274-16450] <self-recognition-binding> <rang-rig-'ching-ba>
+<self-recognition-binding> <rang-rig-'ching-ba>
 
 **Misreading:**
 "Binding through self-recognition" (*rang rig 'ching ba*) interpreted as establishing self-trap—awareness captures itself, recognition creates bondage.
@@ -241,11 +241,11 @@ Recognition substantialized as self-trap. Recognition displaced by paradox-fear.
 "Avoiding self-recognition" defense. Trap-prevention. Paradox-avoidance. The never-trapped (*ma chings pa) remains unrecognizable.
 
 **Cascade effects:**
-<self-recognition-binding> [paradox-grasping] → <self-trap> [reflexivity-concept] → <avoidance-defense> [prevention-practice] → <trap-free-miss> [recognition-displacement]
+<self-recognition-binding> [paradox-grasping] leads to <self-trap> [reflexivity-concept] → <avoidance-defense> [prevention-practice] → <trap-free-miss> [recognition-displacement]
 
 ---
 
-[16274-16450] <rope-snare-comparison-literalization> <thag-zhags-dpe>
+<rope-snare-comparison-literalization> <thag-zhags-dpe>
 
 **Misreading:**
 Rope and snare comparisons (*thag pa*, *zhags pa*) interpreted as establishing literal-traps—actual ropes that bind, real snares that catch.
@@ -260,11 +260,11 @@ Comparisons substantialized as materials. Recognition displaced by literal-think
 "Understanding ropes" analysis. Material-trap study. Literal-snare investigation. The beyond-comparison (*dpe las 'das pa) remains unrecognizable.
 
 **Cascade effects:**
-<rope-snare-comparison-literalization> [literal-grasping] → <material-traps> [physical-thinking] → <rope-analysis> [literal-study] → <comparison-free-miss> [recognition-displacement]
+<rope-snare-comparison-literalization> [literal-grasping] leads to <material-traps> [physical-thinking] → <rope-analysis> [literal-study] → <comparison-free-miss> [recognition-displacement]
 
 ---
 
-[16274-16450] <element-gathering-accumulation> <byung-ba-'dus-pa>
+<element-gathering-accumulation> <byung-ba-'dus-pa>
 
 **Misreading:**
 "Element gathering" (*byung ba 'dus pa*) interpreted as establishing accumulative-process—collecting elements, assembling constituents, building up.
@@ -279,11 +279,11 @@ Gathering substantialized as accumulation. Recognition displaced by collection-c
 "Gathering elements" effort. Component-collection. Building-up practice. The never-gathered (*ma sdud pa) remains unrecognizable.
 
 **Cascade effects:**
-<element-gathering-accumulation> [collection-grasping] → <accumulative-process> [assembly-concept] → <element-collection> [gathering-effort] → <gathered-free-miss> [recognition-displacement]
+<element-gathering-accumulation> [collection-grasping] creates <accumulative-process> [assembly-concept] → <element-collection> [gathering-effort] → <gathered-free-miss> [recognition-displacement]
 
 ---
 
-[16274-16450] <wisdom-gathering-achievement> <ye-shes-'dus-pa>
+<wisdom-gathering-achievement> <ye-shes-'dus-pa>
 
 **Misreading:**
 "Wisdom gathering" (*ye shes 'dus pa*) interpreted as establishing knowledge-accumulation—collecting wisdom, acquiring insight, building understanding.
@@ -298,11 +298,11 @@ Wisdom substantialized as accumulable. Recognition displaced by acquisition-thin
 "Gathering wisdom" study. Insight-accumulation. Understanding-building. The beyond-wisdom (*ye shes las 'das pa) remains unrecognizable.
 
 **Cascade effects:**
-<wisdom-gathering-achievement> [acquisition-grasping] → <knowledge-accumulation> [learning-concept] → <wisdom-study> [gathering-practice] → <wisdom-free-miss> [recognition-displacement]
+<wisdom-gathering-achievement> [acquisition-grasping] generates <knowledge-accumulation> [learning-concept] → <wisdom-study> [gathering-practice] → <wisdom-free-miss> [recognition-displacement]
 
 ---
 
-[16274-16450] <faculty-gathering-perception> <dbang-po-'dus-pa>
+<faculty-gathering-perception> <dbang-po-'dus-pa>
 
 **Misreading:**
 "Faculty gathering" (*dbang po 'dus pa*) interpreted as establishing sensory-collection—aggregating senses, combining perceptions, building experience.
@@ -317,11 +317,11 @@ Faculties substantialized as aggregable. Recognition displaced by sensory-thinki
 "Gathering faculties" practice. Sense-aggregation. Experience-collection. The beyond-faculties (*dbang po las 'das pa) remains unrecognizable.
 
 **Cascade effects:**
-<faculty-gathering-perception> [sensory-grasping] → <sense-aggregation> [experience-concept] → <faculty-practice> [collection-effort] → <faculty-free-miss> [recognition-displacement]
+<faculty-gathering-perception> [sensory-grasping] produces <sense-aggregation> [experience-concept] → <faculty-practice> [collection-effort] → <faculty-free-miss> [recognition-displacement]
 
 ---
 
-[16274-16450] <characteristic-attribution-property> <mtshan-nyid-ldan-pa>
+<characteristic-attribution-property> <mtshan-nyid-ldan-pa>
 
 **Misreading:**
 "Possessing characteristics" (*mtshan nyid ldan pa*) interpreted as establishing property-ownership—qualities belonging to things, inherent attributes.
@@ -336,11 +336,11 @@ Characteristics substantialized as properties. Recognition displaced by attribut
 Characteristic-inventory. Property-analysis. Attribution-study. The beyond-characteristics (*mtshan ma las 'das pa) remains unrecognizable.
 
 **Cascade effects:**
-<characteristic-attribution-property> [property-grasping] → <quality-ownership> [attribution-concept] → <characteristic-inventory> [analysis-practice] → <characteristic-free-miss> [recognition-displacement]
+<characteristic-attribution-property> [property-grasping] produces <quality-ownership> [attribution-concept] → <characteristic-inventory> [analysis-practice] → <characteristic-free-miss> [recognition-displacement]
 
 ---
 
-[16274-16450] <eye-pupil-location> <mig-gi-a-bras-gnas>
+<eye-pupil-location> <mig-gi-a-bras-gnas>
 
 **Misreading:**
 "Eye pupil" (*mig gi a 'bras*) as location interpreted as establishing ocular-anatomy—actual physical eye part, biological structure.
@@ -355,11 +355,11 @@ Pupil substantialized as anatomy. Recognition displaced by biological-fixation. 
 "Eye-pupil meditation" focus. Ocular-concentration. Anatomical-fixation. The beyond-body (*lus las 'das pa) remains unrecognizable.
 
 **Cascade effects:**
-<eye-pupil-location> [biological-grasping] → <ocular-anatomy> [organ-concept] → <pupil-focus> [anatomical-meditation] → <anatomy-free-miss> [recognition-displacement]
+<eye-pupil-location> [biological-grasping] leads to <ocular-anatomy> [organ-concept] → <pupil-focus> [anatomical-meditation] → <anatomy-free-miss> [recognition-displacement]
 
 ---
 
-[16274-16450] <four-lamp-complete-set> <sgro-ma-bzhi-tshang-tshul>
+<four-lamp-complete-set> <sgro-ma-bzhi-tshang-tshul>
 
 **Misreading:**
 Four lamps as complete set interpreted as establishing total-collection—comprehensive group, full assembly, finished set.
@@ -374,11 +374,11 @@ Lamps substantialized as set. Recognition displaced by collection-thinking. The 
 "Completing four lamps" project. Set-achievement. Collection-filling. The beyond-collection (*tshogs las 'das pa) remains unrecognizable.
 
 **Cascade effects:**
-<four-lamp-complete-set> [collection-grasping] → <total-assembly> [completeness-thinking] → <set-completion> [achievement-project] → <set-free-miss> [recognition-displacement]
+<four-lamp-complete-set> [collection-grasping] triggers <total-assembly>  → <set-completion> [achievement-project] → <set-free-miss> [recognition-displacement]
 
 ---
 
-[16274-16450] <water-essence-moisture-retention> <chu-dangs-ma-len-pa>
+<water-essence-moisture-retention> <chu-dangs-ma-len-pa>
 
 **Misreading:**
 "Water essence" (*chu'i dangs ma*) interpreted as establishing moisture-retention—keeping wetness, preserving fluid, maintaining liquid.
@@ -393,11 +393,11 @@ Essence substantialized as retainable. Recognition displaced by preservation-con
 "Retaining water-essence" effort. Moisture-preservation. Fluid-maintenance. The never-retained (*ma blangs pa) remains unrecognizable.
 
 **Cascade effects:**
-<water-essence-moisture-retention> [retention-grasping] → <moisture-preservation> [preservation-concept] → <essence-retention> [maintenance-effort] → <essence-free-miss> [recognition-displacement]
+<water-essence-moisture-retention> [retention-grasping] generates <moisture-preservation> [preservation-concept] → <essence-retention> [maintenance-effort] → <essence-free-miss> [recognition-displacement]
 
 ---
 
-[16274-16450] < lamp-illumination-function-activation> <sgro-ma-mun-sel>
+< lamp-illumination-function-activation> <sgro-ma-mun-sel>
 
 **Misreading:**
 "Lamp removes darkness" (*sgro mas mun pa sel) interpreted as establishing active-function—must turn on lamp, activate illumination, engage light-source.
@@ -412,11 +412,11 @@ Lamp substantialized as activatable. Recognition displaced by activation-effort.
 "Turning on lamp" effort. Activation-practice. Illumination-engagement. The always-lit (*ye nas gsal ba) remains unrecognizable.
 
 **Cascade effects:**
-<lamp-illumination-function-activation> [activation-grasping] → <activatable-source> [effort-concept] → <lamp-activation> [engagement-practice] → <spontaneously-luminous-miss> [recognition-displacement]
+<lamp-illumination-function-activation> [activation-grasping] leads to <activatable-source> [effort-concept] → <lamp-activation> [engagement-practice] → <spontaneously-luminous-miss> [recognition-displacement]
 
 ---
 
-[16274-16450] <mirror-peacock-comparison-substantialization> <me-long-rma-bya-dpe-dngos-po>
+<mirror-peacock-comparison-substantialization> <me-long-rma-bya-dpe-dngos-po>
 
 **Misreading:**
 Mirror and peacock comparisons (*me long*, *rma bya*) interpreted as establishing literal-objects—actual mirrors and peacocks needed for practice.
@@ -431,4 +431,4 @@ Comparisons substantialized as objects. Recognition displaced by prop-dependency
 "Using mirrors/peacocks" practice. Object-dependence. Prop-acquisition. The self-sufficient (*rang rkya thub pa) remains unrecognizable.
 
 **Cascade effects:**
-<mirror-peacock-comparison-substantialization> [literal-grasping] → <physical-props> [object-dependency] → <prop-practice> [acquisition-effort] → <prop-free-miss> [recognition-displacement]
+<mirror-peacock-comparison-substantialization> [literal-grasping] creates <physical-props> [object-dependency] → <prop-practice> [acquisition-effort] → <prop-free-miss> [recognition-displacement]

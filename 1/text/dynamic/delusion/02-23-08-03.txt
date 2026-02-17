@@ -1,4 +1,4 @@
-[14590-14597] <liberation-timing-quantification> <skad-cig-bsdebs>
+<liberation-timing-quantification> <skad-cig-bsdebs>
 
 **Misreading:**
 The distinction between momentary recognition (*skad cig ma*) and samadhi days (*bsam gtan gyi zhag*) interpreted as quantifiable time units for liberation, creating measurement obsession.
@@ -11,14 +11,14 @@ Liberation-scheduling: treating awakening as time-calculable event. Natural time
 
 **Secondary consequences:**
 - "I need three moments to liberate"
-- Missing that moments are pedagogical, not chronological
+- Not seeing that moments are pedagogical, not chronological
 - Clock-watching during practice
 - Reifying liberation as temporal endpoint
 
 **Cascade effects:**
-<liberation-timing-quantification> → <temporal-obsession> [clock-watching] → <measurement-anxiety> [not enough time] → <natural-timelessness-miss> [liberation outside time]
+<liberation-timing-quantification> triggers <temporal-obsession> [clock-watching] generates <measurement-anxiety> [not enough time] leads to <natural-timelessness-miss> [liberation outside time]
 
-[14598-14601] <recognition-coverage-delusion> <rtogs-pas-khyab>
+<recognition-coverage-delusion> <rtogs-pas-khyab>
 
 **Misreading:**
 The statement that recognition (*ngo shes*) pervades/covers all moments interpreted as intellectual understanding being sufficient for liberation.
@@ -31,14 +31,14 @@ Understanding-pride: equating knowledge with liberation. Natural recognition obs
 
 **Secondary consequences:**
 - "I understand the teaching, therefore I'm liberated"
-- Missing that recognition is direct, not intellectual
+- Unrecognized: that recognition is direct, not intellectual
 - Confusing explanation with realization
 - Reifying comprehension as achievement
 
 **Cascade effects:**
-<recognition-coverage-delusion> → <intellectual-pride> [understanding as mastery] → <explanation-conflation> [teaching as realization] → <natural-recognition-miss> [knowing vs seeing]
+<recognition-coverage-delusion> generates <intellectual-pride> [understanding as mastery] → <explanation-conflation> [teaching as realization] → <natural-recognition-miss> [knowing vs seeing]
 
-[14601-14604] <samadhi-non-recognition-waiting> <bsam-gtan-lhun-grub>
+<samadhi-non-recognition-waiting> <bsam-gtan-lhun-grub>
 
 **Misreading:**
 The existence of natural samadhi without recognition interpreted as permission to wait for spontaneous liberation without effort.
@@ -56,9 +56,9 @@ Spontaneity-complacency: using naturalness as excuse for non-practice. Natural r
 - Waiting-mindset instead of recognizing
 
 **Cascade effects:**
-<samadhi-non-recognition-waiting> → <passive-complacency> [waiting for natural] → <recognition-neglect> [not seeing] → <natural-samadhi-miss> [nature already present]
+<samadhi-non-recognition-waiting> creates <passive-complacency> [waiting for natural] → <recognition-neglect> [not seeing] → <natural-samadhi-miss> [nature already present]
 
-[14604-14609] <three-moment-samadhi-dichotomy> <skad-cig-gsum-zhag>
+<three-moment-samadhi-dichotomy> <skad-cig-gsum-zhag>
 
 **Misreading:**
 The dichotomy between three moments and samadhi days interpreted as two distinct liberation paths requiring choice.
@@ -76,9 +76,9 @@ Path-comparison: ranking moment-recognition vs samadhi-stability. Natural unity 
 - Choosing sides in non-dual recognition
 
 **Cascade effects:**
-<three-moment-samadhi-dichotomy> → <method-dualism> [either/or] → <hierarchy-creation> [ranking paths] → <natural-unity-miss> [all methods one]
+<three-moment-samadhi-dichotomy> generates <method-dualism> [either/or] → <hierarchy-creation> [ranking paths] → <natural-unity-miss> [all methods one]
 
-[14609-14617] <present-day-misinterpretation> <da-lta'i-zhag>
+<present-day-misinterpretation> <da-lta'i-zhag>
 
 **Misreading:**
 The interpretation of "samadhi days" as present calendar days interpreted as literal 24-hour periods, creating calendar-obsession.
@@ -96,9 +96,9 @@ Calendar-fixation: counting literal days of samadhi. Natural timelessness obscur
 - Reifying duration as achievement
 
 **Cascade effects:**
-<present-day-misinterpretation> → <calendar-obsession> [counting days] → <duration-pride> [time spent] → <natural-timelessness-miss> [beyond duration]
+<present-day-misinterpretation> generates <obscuration>
 
-[14617-14621] <bardo-samadhi-transfer> <bar-do-ting-dzin>
+<bardo-samadhi-transfer> <bar-do-ting-dzin>
 
 **Misreading:**
 The application of samadhi days to bardo interpreted as transferring clock-time measurements to intermediate state.
@@ -116,9 +116,9 @@ Bardo-temporalization: imposing time on intermediate state. Natural timelessness
 - Time-anxiety about bardo duration
 
 **Cascade effects:**
-<bardo-samadhi-transfer> → <intermediate-state-temporalization> [time in gap] → <duration-anxiety> [how long] → <natural-timelessness-miss> [bardo timeless]
+<bardo-samadhi-transfer> creates <intermediate-state-temporalization> [time in gap] → <duration-anxiety> [how long] → <natural-timelessness-miss> [bardo timeless]
 
-[14621-14628] <three-faculty-hierarchy> <dbang-po-rab-bring-tha>
+<three-faculty-hierarchy> <dbang-po-rab-bring-tha>
 
 **Misreading:**
 The three faculties—best, middling, least—interpreted as fixed spiritual castes determining liberation potential.
@@ -136,9 +136,9 @@ Faculty-determinism: believing one's category limits awakening. Natural equality
 - Reifying categories as destiny
 
 **Cascade effects:**
-<three-faculty-hierarchy> → <caste-determinism> [fixed capacity] → <resignation-complacency> [not best] → <natural-equality-miss> [all equally capable]
+<three-faculty-hierarchy> generates <obscuration>
 
-[14628-14633] <shooting-star-liberation> <skar-mda'-nam-mkhar>
+<shooting-star-liberation> <skar-mda'-nam-mkhar>
 
 **Misreading:**
 The simile of shooting star racing through space interpreted as liberation being a fast, spectacular event to achieve.
@@ -156,9 +156,9 @@ Speed-obsession: pursuing rapid liberation. Natural non-haste obscured by veloci
 - Reifying speed as spiritual virtue
 
 **Cascade effects:**
-<shooting-star-liberation> → <velocity-fetish> [speed desire] → <impatience-compulsion> [rushing] → <natural-non-haste-miss> [no speed needed]
+<shooting-star-liberation> triggers <velocity-fetish> [speed desire] → <impatience-compulsion> [rushing] → <natural-non-haste-miss> [no speed needed]
 
-[14630-14638] <emanation-benefit-achievement> <sprul-pa-don-byed>
+<emanation-benefit-achievement> <sprul-pa-don-byed>
 
 **Misreading:**
 The capacity for emanation (*sprul pa*) to benefit beings interpreted as special power to develop for helping others.
@@ -176,9 +176,9 @@ Power-accumulation: pursuing emanation ability. Natural benefit obscured by capa
 - Reifying help as special ability
 
 **Cascade effects:**
-<emanation-benefit-achievement> → <power-accumulation> [capacity seeking] → <bodhisattva-romanticism> [heroic fantasy] → <natural-benefit-miss> [help already happening]
+<emanation-benefit-achievement> triggers <power-accumulation> [capacity seeking] → <bodhisattva-romanticism> [heroic fantasy] → <natural-benefit-miss> [help already happening]
 
-[14633-14638] <ka-dag-non-division-pride> <ka-dag-mi-gyed>
+<ka-dag-non-division-pride> <ka-dag-mi-gyed>
 
 **Misreading:**
 The statement that emanations don't divide from ka-dag interpreted as achievement of non-dual state preventing all activity.
@@ -196,9 +196,9 @@ Non-dual-complacency: using unity as excuse for non-engagement. Natural display 
 - Withdrawal mistaken for realization
 
 **Cascade effects:**
-<ka-dag-non-division-pride> → <non-dual-complacency> [unity as excuse] → <withdrawal-mistake> [inactivity] → <natural-display-miss> [activity in unity]
+<ka-dag-non-division-pride> produces <non-dual-complacency> [unity as excuse] → <withdrawal-mistake> [inactivity] → <natural-display-miss> [activity in unity]
 
-[14638-14645] <lhun-grub-manifestation-dependency> <lhun-grub-gzhi-snang>
+<lhun-grub-manifestation-dependency> <lhun-grub-gzhi-snang>
 
 **Misreading:**
 The manifestation from lhun grub basis interpreted as dependent arising requiring specific conditions.
@@ -216,9 +216,9 @@ Condition-dependency: waiting for right basis-manifestation. Natural spontaneity
 - Waiting for spontaneous appearance
 
 **Cascade effects:**
-<lhun-grub-manifestation-dependency> → <condition-waiting> [basis required] → <causal-thinking> [dependent arising] → <natural-spontaneity-miss> [self-arising]
+<lhun-grub-manifestation-dependency> produces <condition-waiting> [basis required] → <causal-thinking> [dependent arising] → <natural-spontaneity-miss> [self-arising]
 
-[14645-14649] <dream-benefit-illusion> <rmi-lam-don-byed>
+<dream-benefit-illusion> <rmi-lam-don-byed>
 
 **Misreading:**
 The simile of benefiting beings in dreams interpreted as dream yoga technique for practice.
@@ -236,9 +236,9 @@ Dream-technique: treating dream simile as method. Natural dreamless-benefit obsc
 - Technique-dependence for benefit
 
 **Cascade effects:**
-<dream-benefit-illusion> → <dream-technique> [method fixation] → <illusory-practice> [dream yoga obsession] → <natural-benefit-miss> [benefit without technique]
+<dream-benefit-illusion> creates <obscuration>
 
-[14649-14651] <grub-mtha'-difficulty-elitism> <grub-mtha'-rtogs-dka'>
+<grub-mtha'-difficulty-elitism> <grub-mtha'-rtogs-dka'>
 
 **Misreading:**
 The statement that this view is difficult to realize interpreted as establishing elitist esotericism.
@@ -256,9 +256,9 @@ Difficulty-pride: believing oneself special for understanding. Natural accessibi
 - Exclusion of "unready" practitioners
 
 **Cascade effects:**
-<grub-mtha'-difficulty-elitism> → <esoteric-pride> [special knowledge] → <exclusion-hierarchy> [insider status] → <natural-accessibility-miss> [available to all]
+<grub-mtha'-difficulty-elitism> leads to <recognition-blocked>
 
-[14639-14642] <three-moments-sequentiality> <skad-cig-gsum-du-byed>
+<three-moments-sequentiality> <skad-cig-gsum-du-byed>
 
 **Misreading:**
 The "three moments" interpreted as sequential stages to progress through during dissolution.
@@ -276,9 +276,9 @@ Moment-sequencing: treating three as progressive steps. Natural simultaneity obs
 - Reifying progression as necessary
 
 **Cascade effects:**
-<three-moments-sequentiality> → <stage-progression> [step-by-step] → <completion-anxiety> [finishing moments] → <natural-simultaneity-miss> [all present now]
+<three-moments-sequentiality> creates <stage-progression> [step-by-step] → <completion-anxiety> [finishing moments] → <natural-simultaneity-miss> [all present now]
 
-[14650-14651] <four-wisdom-sphere-cessation> <ye-shes-bzhi-tshom-bu>
+<four-wisdom-sphere-cessation> <ye-shes-bzhi-tshom-bu>
 
 **Misreading:**
 The four wisdoms with spheres ceasing interpreted as loss of positive qualities, creating cessation-fear.

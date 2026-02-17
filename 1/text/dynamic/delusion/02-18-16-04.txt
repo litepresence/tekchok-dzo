@@ -1,4 +1,4 @@
-[5928-5930] <ground-achievement> <sa-bcu-progression>
+<ground-achievement> <sa-bcu-progression>
 
 **Misreading:**
 The enumeration of grounds 10-16 (*sa bcu drug*, the sixteen grounds) interpreted as progressive achievements to attain through practice, creating a hierarchical advancement model.
@@ -11,14 +11,14 @@ Ground-chasing: treating the sixteen as rungs on ladder. Natural luminosity obsc
 
 **Secondary consequences:**
 - Sequential fixation: "I am on ground 3, need to reach ground 10"
-- Missing that all grounds are displays of single awareness
+- Not seeing that all grounds are displays of single awareness
 - Practice-anxiety about "attaining" higher grounds
 - Discouragement when signs don't match descriptions
 
 **Cascade effects:**
-<ground-achievement> → <hierarchical-spirituality> [vertical climb model] → <single-awareness-miss> [missing unity] → <recognition-prevention> [ground-chasing obscures nature]
+<ground-achievement> leads to <obscuration>
 
-[5931-5933] <universal-light-reification> <kun-tu-'od-attachment>
+<universal-light-reification> <kun-tu-'od-attachment>
 
 **Misreading:**
 The eleventh ground "universal light" (*kun tu 'od*) interpreted as a special luminous state to achieve where confusion has ceased and appearances arise as spheres.
@@ -31,14 +31,14 @@ Light-seeking: pursuing luminous experiences as sign of ground-eleven achievemen
 
 **Secondary consequences:**
 - Reifying light as external phenomenon to see
-- Missing that universal light is nature of awareness itself
+- Failing to recognize that universal light is nature of awareness itself
 - Fixation on spherical appearances as signs of progress
 - Disappointment when light-phenomena don't arise
 
 **Cascade effects:**
-<universal-light-reification> → <light-phenomena-attachment> [clinging to visions] → <vision-chasing> [seeking signs] → <natural-clarity-miss> [missing ever-present light]
+<universal-light-reification> triggers <nature-missed>
 
-[5932-5933] <non-attachment-achievement> <ma-chags-padma-can>
+<non-attachment-achievement> <ma-chags-padma-can>
 
 **Misreading:**
 The twelfth ground "lotus holder non-attachment" (*ma chags padma can*) interpreted as a state of non-attachment to achieve through effort, where inner and outer phenomena no longer affect the practitioner.
@@ -52,13 +52,13 @@ Attachment-seeking: pursuing non-attachment as something to get. Natural freedom
 **Secondary consequences:**
 - Spiritual bypassing: "I'm beyond all this" while avoiding experience
 - Reifying detachment as superior state
-- Missing that non-attachment is nature, not achievement
+- Failing to recognize that non-attachment is nature, not achievement
 - Coldness mistaken for spiritual advancement
 
 **Cascade effects:**
-<non-attachment-achievement> → <detachment-reification> [solidifying separation] → <experience-avoidance> [bypassing engagement] → <natural-freedom-miss> [freedom already present]
+<non-attachment-achievement> leads to <detachment-reification> [solidifying separation] → <experience-avoidance> [bypassing engagement] → <natural-freedom-miss> [freedom already present]
 
-[5934-5935] <wheel-of-letters-materialization> <yi-ge-'khor-lo>
+<wheel-of-letters-materialization> <yi-ge-'khor-lo>
 
 **Misreading:**
 The thirteenth ground "wheel of letters great assembly" (*yi ge 'khor lo tshogs chen*) interpreted as literal wheels of Sanskrit/Tibetan letters manifesting in space with light-rays from the heart, representing an advanced meditative vision.
@@ -71,12 +71,12 @@ Letter-wheel chasing: seeking visionary experiences of wheels and assemblies. Na
 
 **Secondary consequences:**
 - Reifying wheels as external objects to perceive
-- Missing that wheel of letters represents self-arising wisdom
+- Unrecognized: that wheel of letters represents self-arising wisdom
 - Frustration when visionary phenomena don't match descriptions
 - Treating symbolic description as literal goal
 
 **Cascade effects:**
-<wheel-of-letters-materialization> → <symbol-literalization> [taking metaphors as real] → <visionary-obsession> [chasing specific appearances] → <natural-display-miss> [missing self-arising nature]
+<wheel-of-letters-materialization> triggers <symbol-literalization> [taking metaphors as real] → <visionary-obsession> [chasing specific appearances] → <natural-display-miss> [missing self-arising nature]
 
 [5936] <samadhi-achievement> <ting-nge-'dzin-chen-po>
 
@@ -91,12 +91,12 @@ Samadhi-seeking: pursuing meditative absorption as ultimate goal. Natural contem
 
 **Secondary consequences:**
 - Fixation on stability as sign of accomplishment
-- Missing that great samadhi is nature of awareness, not state
+- Overlooking that great samadhi is nature of awareness, not state
 - Reifying absorption as something to enter and exit
 - Meditation becomes escape rather than recognition
 
 **Cascade effects:**
-<samadhi-achievement> → <absorption-reification> [solidifying meditative state] → <stability-fixation> [clinging to unmoving] → <natural-contemplation-miss> [contemplation already present]
+<samadhi-achievement> leads to <absorption-reification> [solidifying meditative state] → <stability-fixation> [clinging to unmoving] → <natural-contemplation-miss> [contemplation already present]
 
 [5937] <vajra-holder-attainment> <rdo-rje-'dzin-sa>
 
@@ -111,14 +111,14 @@ Status-seeking: pursuing vajra-holder identity as spiritual credential. Natural 
 
 **Secondary consequences:**
 - Identity fixation: "I am/am becoming a vajra holder"
-- Missing that vajra-holder is metaphor for nature, not person
+- Failing to recognize that vajra-holder is metaphor for nature, not person
 - Spiritual pride in "attaining" high ground
 - Using title to assert authority over others
 
 **Cascade effects:**
-<vajra-holder-attainment> → <status-identification> [title as identity] → <spiritual-pride> [achievement arrogance] → <natural-vajra-miss> [vajra-nature already present]
+<vajra-holder-attainment> leads to <status-identification> [title as identity] → <spiritual-pride> [achievement arrogance] → <natural-vajra-miss> [vajra-nature already present]
 
-[5938-5939] <wisdom-teacher-hierarchy> <ye-shes-bla-ma-sa>
+<wisdom-teacher-hierarchy> <ye-shes-bla-ma-sa>
 
 **Misreading:**
 The sixteenth ground "wisdom teacher ground" (*ye shes bla ma'i sa*) interpreted as achieving the status of wisdom teacher—becoming a guru or master who guides others, representing the pinnacle of spiritual accomplishment.
@@ -136,9 +136,9 @@ Teacher-identity: adopting guru status as spiritual achievement. Natural wisdom-
 - Spiritual narcissism: "I have reached the highest ground"
 
 **Cascade effects:**
-<wisdom-teacher-hierarchy> → <authority-identification> [role as achievement] → <premature-teaching> [unripe instruction] → <natural-wisdom-miss> [wisdom already self-displaying]
+<wisdom-teacher-hierarchy> leads to <authority-identification> [role as achievement] → <premature-teaching> [unripe instruction] → <natural-wisdom-miss> [wisdom already self-displaying]
 
-[5940-5941] <bodhisattva-ground-conflation> <byang-chub-sems-dpa'-sa>
+<bodhisattva-ground-conflation> <byang-chub-sems-dpa'-sa>
 
 **Misreading:**
 The statement that these sixteen grounds are "similar in manner of appearance" (*snang tshul gyis cha mtshungs*) to bodhisattva grounds but not the actual bodhisattva ten grounds interpreted as the sixteen being superior replacements for traditional Mahayana grounds.
@@ -156,9 +156,9 @@ Ground-superiority: viewing Dzogchen grounds as trumping bodhisattva grounds. Na
 - Disrespect for bodhisattva path practitioners
 
 **Cascade effects:**
-<bodhisattva-ground-conflation> → <tradition-hierarchy> [comparative spirituality] → <method-superiority> [ Dzogchen elitism] → <natural-equality-miss> [missing same taste]
+<bodhisattva-ground-conflation> leads to <recognition-blocked>
 
-[5941-5942] <single-ground-substantialization> <rig-pa-sa-gcig>
+<single-ground-substantialization> <rig-pa-sa-gcig>
 
 **Misreading:**
 The teaching that these various grounds are displays of "the single ground of rigpa clarity without traversing or training" (*rig pa 'od gsal sbyang bgrod med pa'i sa gcig*) interpreted as establishing a singular metaphysical ground that is the true reality behind all appearances.
@@ -176,9 +176,9 @@ Ground-reification: treating single ground as ontological base. Natural groundle
 - Reifying clarity as something that exists
 
 **Cascade effects:**
-<single-ground-substantialization> → <essentialism> [inherent existence] → <eternalistic-clinging> [permanence fixation] → <groundlessness-miss> [missing no-foundation]
+<single-ground-substantialization> produces <essentialism> [inherent existence] → <eternalistic-clinging> [permanence fixation] → <groundlessness-miss> [missing no-foundation]
 
-[5942-5944] <vajradhara-achievement> <rdo-rje-'chang-thob-pa>
+<vajradhara-achievement> <rdo-rje-'chang-thob-pa>
 
 **Misreading:**
 The statement that "there is no need for causal grounds when attaining Vajradhara" (*rgyu'i sa gos su yong mi dgos*) interpreted as Vajradhara being the final goal to achieve, reached by bypassing gradual grounds through Dzogchen methods.
@@ -196,9 +196,9 @@ Vajradhara-chasing: pursuing supreme buddhahood as future acquisition. Natural b
 - Spiritual materialism of "attaining" supreme state
 
 **Cascade effects:**
-<vajradhara-achievement> → <bypass-mentality> [shortcut seeking] → <goal-orientation> [future attainment] → <natural-buddha-miss> [buddha-nature already present]
+<vajradhara-achievement> produces <bypass-mentality> [shortcut seeking] → <goal-orientation> [future attainment] → <natural-buddha-miss> [buddha-nature already present]
 
-[5944-5946] <common-path-rejection> <thun-mong-rgyu-'bras>
+<common-path-rejection> <thun-mong-rgyu-'bras>
 
 **Misreading:**
 The distinction between "common path causal progression" (*thun mong rgyu 'bras kyi rim pas*) and Dzogchen's unique approach interpreted as rejecting all common Buddhist paths as inferior or unnecessary.
@@ -216,9 +216,9 @@ Path-dismissal: rejecting gradual methods as irrelevant. Natural inclusivity obs
 - Inability to communicate with practitioners of other vehicles
 
 **Cascade effects:**
-<common-path-rejection> → <exclusivism> [superiority complex] → <foundational-neglect> [skipping basics] → <natural-inclusivity-miss> [missing all paths lead to same]
+<common-path-rejection> creates <exclusivism> [superiority complex] → <foundational-neglect> [skipping basics] → <natural-inclusivity-miss> [missing all paths lead to same]
 
-[5946-5950] <generation-completion-eschewal> <bskyed-rdzogs-rtsol-sgrub>
+<generation-completion-eschewal> <bskyed-rdzogs-rtsol-sgrub>
 
 **Misreading:**
 The statement that "like outer and inner mantra, there is no need to train in or purify the grounds of generation and completion effortful accomplishment" (*bskyed rdzogs rtsol sgrub kyi sa*) interpreted as tantric practices being unnecessary obstacles to abandon.
@@ -236,9 +236,9 @@ Tantra-dismissal: viewing generation/completion stages as inferior. Natural inte
 - Superficial "directness" without foundation
 
 **Cascade effects:**
-<generation-completion-eschewal> → <tantra-dismissal> [rejection of method] → <method-dualism> [either/or thinking] → <natural-integration-miss> [missing all methods valid]
+<generation-completion-eschewal> leads to <ground-ignored>
 
-[5950-5953] <untransformed-rigpa-achievement> <ma-bsgyur-rig-pa>
+<untransformed-rigpa-achievement> <ma-bsgyur-rig-pa>
 
 **Misreading:**
 The citation from Kunjed Gyalpo (*kun byed*) that "rigpa is spontaneously perfect without transformation or training" (*ma bsgyur ma sbyangs rig pa lhun rdzogs*) interpreted as establishing rigpa as a pre-existing state that one must recognize and then rest in without any further engagement.
@@ -256,9 +256,9 @@ Rigpa-complacency: using spontaneity as excuse for non-practice. Natural dynamis
 - Avoiding necessary engagement with circumstances
 
 **Cascade effects:**
-<untransformed-rigpa-achievement> → <spontaneity-complacency> [passivity as practice] → <dynamic-avoidance> [resisting engagement] → <natural-dynamism-miss> [missing active spontaneity]
+<untransformed-rigpa-achievement> → <rigpa-unseen>
 
-[5954-5960] <trekcho-method-reification> <khregs-chod-mann-ngag>
+<trekcho-method-reification> <khregs-chod-mann-ngag>
 
 **Misreading:**
 The introduction of Trekcho (*khregs chod*) as "the supreme secret method of liberation without meditation for those of highest faculties" interpreted as a specific technique or set of instructions to apply, with three subdivisions to master.
@@ -276,9 +276,9 @@ Method-fixation: treating Trekcho as technique to apply. Natural cutting-through
 - Secrecy-fetish: "supreme secret" as elite possession
 
 **Cascade effects:**
-<trekcho-method-reification> → <technique-collection> [method accumulation] → <checklist-mentality> [subdivision completion] → <natural-cutting-through-miss> [cutting already accomplished]
+<trekcho-method-reification> generates <nature-missed>
 
-[5961-5964] <introduction-achievement> <ngo-rang-thog-tu-dbab>
+<introduction-achievement> <ngo-rang-thog-tu-dbab>
 
 **Misreading:**
 The first subdivision "introducing face-to-face" (*ngo rang thog tu dbab*) interpreted as a special pointing-out instruction (*ngo sprod*) that must be received from a teacher to be introduced to the nature of mind.
@@ -296,7 +296,7 @@ Introduction-seeking: pursuing pointing-out as initiation ritual. Natural self-r
 - "Have/haven't received introduction" as status marker
 
 **Cascade effects:**
-<introduction-achievement> → <transmission-fetish> [ritual dependency] → <teacher-dependency> [external authority] → <natural-recognition-miss> [self-introduction always present]
+<introduction-achievement> generates <transmission-fetish> [ritual dependency] → <teacher-dependency> [external authority] → <natural-recognition-miss> [self-introduction always present]
 
 [5959] <decisive-phrase-attachment> <thag-tshig-thog-tu-gcod>
 
@@ -336,9 +336,9 @@ Confidence-building: pursuing certainty as goal. Natural confidence obscured by 
 - Self-doubt: "I lack the necessary confidence"
 
 **Cascade effects:**
-<confidence-liberation-achievement> → <certainty-seeking> [confidence as goal] → <self-improvement-project> [building qualities] → <natural-confidence-miss> [confidence already inherent]
+<confidence-liberation-achievement> triggers <certainty-seeking> [confidence as goal] → <self-improvement-project> [building qualities] → <natural-confidence-miss> [confidence already inherent]
 
-[5961-5964] <great-perfection-nature-reification> <rang-bzhin-rdzogs-pa-chen-po>
+<great-perfection-nature-reification> <rang-bzhin-rdzogs-pa-chen-po>
 
 **Misreading:**
 The description of "nature of great perfection free from acceptance, rejection, and effort, like space" (*spang blang bya rtsol las 'das pa'i gshis nam mkha' lta bu*) interpreted as establishing Great Perfection as a metaphysical nature or state of reality that exists independently, characterized by spaciousness.
@@ -356,9 +356,9 @@ Nature-reification: treating Great Perfection as ontological category. Natural p
 - Reifying "freedom from effort" as special condition
 
 **Cascade effects:**
-<great-perfection-nature-reification> → <essentialism> [inherent existence] → <metaphysical-abstraction> [conceptual perfection] → <natural-perfection-miss> [perfection already the case]
+<great-perfection-nature-reification> triggers <essentialism> [inherent existence] → <metaphysical-abstraction> [conceptual perfection] → <natural-perfection-miss> [perfection already the case]
 
-[5941-5942] <no-traversing-complacency> <sbyang-bgrod-med-pa>
+<no-traversing-complacency> <sbyang-bgrod-med-pa>
 
 **Misreading:**
 The phrase "without traversing or training" (*sbyang bgrod med pa*) interpreted as meaning there is absolutely nothing to do, no engagement required, and no development possible—complete passivity as spiritual practice.
@@ -378,7 +378,7 @@ Spiritual complacency: using "nothing to do" as excuse for non-engagement. Natur
 **Cascade effects:**
 <no-traversing-complacency> → <passivity-as-practice> [inaction as method] → <ethical-negligence> [perfection excuse] → <natural-dynamism-miss> [missing engaged spontaneity]
 
-[5945-5946] <path-method-dualism> <lam-thabs-tha-dad>
+<path-method-dualism> <lam-thabs-tha-dad>
 
 **Misreading:**
 The statement that these grounds are distinguished by "different crucial points of entry to the path" (*lam gyi gnad tha dad pa'i 'jug sgo*) interpreted as establishing Dzogchen as one method among many, with unique entry points that are superior to other approaches.
@@ -396,7 +396,7 @@ Method-comparison: ranking approaches by effectiveness. Natural uniqueness obscu
 - Missing that distinction is pedagogical, not evaluative
 
 **Cascade effects:**
-<path-method-dualism> → <sectarianism> [method competition] → <comparison-obsession> [practice shopping] → <natural-uniqueness-miss> [missing each path appropriate]
+<path-method-dualism> generates <sectarianism> [method competition] → <comparison-obsession> [practice shopping] → <natural-uniqueness-miss> [missing each path appropriate]
 
 [5930] <obstacle-negation-denial> <rnam-par-non-pa-med>
 
@@ -416,9 +416,9 @@ Denial-practice: suppressing recognition of difficulties. Natural integration ob
 - Inability to address genuine hindrances
 
 **Cascade effects:**
-<obstacle-negation-denial> → <toxic-positivity> [forced optimism] → <suppression-practice> [ignoring difficulties] → <natural-integration-miss> [missing obstacles as display]
+<obstacle-negation-denial> generates <toxic-positivity> [forced optimism] → <suppression-practice> [ignoring difficulties] → <natural-integration-miss> [missing obstacles as display]
 
-[5948-5950] <wisdom-entity-achievement> <ye-shes-ngo-bo>
+<wisdom-entity-achievement> <ye-shes-ngo-bo>
 
 **Misreading:**
 The statement that "although there are inconceivable sentient beings, they are not other than the single nature of wisdom" (*ye shes kyi ngo bo gcig las med*) interpreted as establishing wisdom (*ye shes*) as a singular entity or substance that all beings share as common essence.
@@ -436,9 +436,9 @@ Wisdom-essentialism: treating wisdom as ontological stuff. Natural wisdom-displa
 - Confusing wisdom-nature with universal consciousness
 
 **Cascade effects:**
-<wisdom-entity-achievement> → <wisdom-essentialism> [substantializing wisdom] → <monistic-metaphysics> [all-is-one] → <natural-wisdom-miss> [wisdom as display, not entity]
+<wisdom-entity-achievement> generates <wisdom-essentialism> [substantializing wisdom] → <monistic-metaphysics> [all-is-one] → <natural-wisdom-miss> [wisdom as display, not entity]
 
-[5949-5950] <ground-path-reification> <sa-dang-lam-gud-na-yod>
+<ground-path-reification> <sa-dang-lam-gud-na-yod>
 
 **Misreading:**
 The statement that "grounds and paths do not exist elsewhere" (*sa dang lam zhes bya ba gud na yod pa ma yin*) interpreted as grounds and paths being non-existent illusions that should be dismissed as meaningless concepts.
@@ -456,9 +456,9 @@ Path-nihilism: rejecting all gradual methods as worthless. Natural convention ob
 - Inability to use path language skillfully
 
 **Cascade effects:**
-<ground-path-reification> → <path-nihilism> [rejection of method] → <extreme-view-adoption> [nihilistic emptiness] → <natural-convention-miss> [missing skillful means]
+<ground-path-reification> creates <path-nihilism> [rejection of method] → <extreme-view-adoption> [nihilistic emptiness] → <natural-convention-miss> [missing skillful means]
 
-[5956-5957] <direct-liberation-achievement> <ma-bsgoms-par-grol-ba>
+<direct-liberation-achievement> <ma-bsgoms-par-grol-ba>
 
 **Misreading:**
 The phrase "liberation without meditation" (*ma bsgoms par grol ba*) interpreted as a special state or attainment achieved without formal meditation practice, representing advanced spiritual status.

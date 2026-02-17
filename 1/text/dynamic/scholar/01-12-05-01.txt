@@ -1,6 +1,6 @@
-[15415-15427] <concept>
+<concept>
 Four Essential Points of Posture
-**Analysis:** First among four essential points (gnad bzhi) - the essential point of sitting posture ('dug stangs kyi gnad):
+**Philological analysis:** First among four essential points (gnad bzhi) - the essential point of sitting posture ('dug stangs kyi gnad):
 - Line 15416: Abiding in three kāya postures (sku gsum gyi 'dug stangs) enables realization of dharmatā truth (chos nyid kyi bden pa khong du chud) and liberation from saṃsāra
 - Line 15417: Detailed explanation to follow
 - Line 15418: rtsa'i gnad - essential point of channels: gcu ba (twisting), gtems pa (piercing), dkrugs pa (agitating) - seeing through the four transmissions (mthong ba brgyud pa bzhin)
@@ -8,15 +8,15 @@ Four Essential Points of Posture
 - Line 15422-15427: Essential point of sleeping posture (nyal lugs kyi gnad): sleeping like lion (seng ge lta bu) makes sleep the basis for clear light arising; sleeping like elephant (glang po lta bu) clears the path of dream-root; abandoning delusion-sleep produces equality clear light; abandoning desire-sleep finds basis for dispelling desire; abandoning anger-sleep produces equality of dharmatā
 - Line 15428-15430: Sequence includes avoiding face-covering, supine position, and right-side-up placing
 
-[15415-15417] <structure>
+<structural-mapping>
 # Third Section: Practice Methods
-**Analysis:** Line 15413 introduces the third major section (*gsum pa*) on application methods (*nyams su blang tshul*). The structure divides into:
+**Close reading:** Line 15413 introduces the third major section (*gsum pa*) on application methods (*nyams su blang tshul*). The structure divides into:
 1. General (*spyi*)—four essential points including postures
 2. Particular (*bye brag*)—actual practice
 
-[15415-15417] <concept>
+<concept>
 Posture as Path
-**Analysis:**
+**Consideration:**
 
 **Lines 15415-15416:** *gnad bzhi las 'dug stangs kyi gnad ni / sku gsum gyi 'dug stangs la gnas pas chos nyid kyi bden pa khong du chud nas 'khor ba'i chos las grol ba'o*
 
@@ -29,9 +29,9 @@ Posture as Path
 
 **Line 15417:** *zhib tu 'ong tu 'chad do*—"Will be explained in detail"—forward reference marker
 
-[15418-15421] <structure>
+<architectural-analysis>
 # Three Essential Points
-**Analysis:** The text enumerates three essential points (*gnad gsum*):
+**Examination:** The text enumerates three essential points (*gnad gsum*):
 
 1. **Line 15418-15419:** *rtsa'i gnad*—Channel essential point
    - Techniques: *gcu ba* (piercing), *gtems pa* (pressing), *dkrugs pa* (shaking)
@@ -41,9 +41,9 @@ Posture as Path
    - Three gazes (*gzhigs stangs gsum*)
    - Purpose: *'khrul snang 'od gsal du bsgyur ba*—transform delusory appearance into luminosity
 
-[15422-15427] <structure>
+<structure>
 # Sleep Posture Essentials
-**Analysis:** Lines 15422-15427 present sleep yoga (*gnyid kyi rnal 'byor*) postures:
+**Investigation:** Lines 15422-15427 present sleep yoga (*gnyid kyi rnal 'byor*) postures:
 
 **The Sleep-Fortress (*gnyid rgyas 'debs pa*):**
 - **Line 15423:** Lion posture (*seng ge lta bu*)—sleep appears as luminosity's basis
@@ -54,9 +54,9 @@ Posture as Path
 - **Line 15426:** Abandoning desire sleep (*'dod chags kyi nyal lugs*) → desire-clearing basis found  
 - **Line 15427:** Abandoning anger sleep (*zhe sdang gi nyal lugs*) → dharmatā equal samādhi
 
-[15422-15427] <philology>
+<linguistic-analysis>
 Sleep Yoga Terminology
-**Analysis:**
+**Philological analysis:**
 
 - *gnyid* = sleep (Skt. *śayana*)
 - *rmi lam* = dream (Skt. *svapna*)
@@ -64,18 +64,18 @@ Sleep Yoga Terminology
 - *nyal lugs* = sleep manner/posture
 - *spangs pa* = having abandoned (perfective particle)
 
-[15428-15430] <philology>
+<grammatical-examination>
 Prohibited Sleep Postures
-**Analysis:**
+**Close reading:**
 
 Three postures to abandon (*spangs pa*):
 1. *kha sbub pa*—face covering (line 15428)
 2. *gan rkyal*—supine/prone (corpse posture) (line 15429)
 3. *g.yas steng du gdon pa*—lying on right side (line 15430)
 
-[15431-15445] <philology>
+<philology>
 Preliminary Practice Instructions
-**Analysis:** 
+**Detailed Analysis:** 
 - Line 15431: de ltar spyi'i don bstan nas - having thus taught the general meaning
 - Line 15432: bye brag tu nyams len dngos - specific actual practice
 - Line 15433-15434: Divided into preliminary (sngon 'gro) and main part (dngos gzhi)
@@ -85,12 +85,12 @@ Preliminary Practice Instructions
 - Line 15439-15441: This causes all channels to arise and come ('ongs), becoming projected ('phar) and passable (rgal)
 - Line 15442-15444: For men with violent right projection (g.yas 'phar drag pa), apply sandalwood and acacia water (tsan+dan dang seng ldeng gi thang chu) with smooth stone warming (gyo mo 'jam pos phyi nas bsro); this action is very essential
 
-[15445] <context> Transition to Main Practice
-**Analysis:** Structural marker "གཉིས་པ་" (second) introduces the main part (dngos gzhi).
+[15445] <doxographical-placement> Transition to Main Practice
+**Arrangement:** Structural marker "གཉིས་པ་" (second) introduces the main part (dngos gzhi).
 
-[15431-15444] <structure>
+<structure>
 # Preliminary Practices
-**Analysis:** Lines 15431-15444 detail the preliminary practices (*sngon 'gro*) before actual channel manipulation:
+**Consideration:** Lines 15431-15444 detail the preliminary practices (*sngon 'gro*) before actual channel manipulation:
 
 **Phase 1: Relaxation (lines 15435):**
 - Duration: 3-4 days (*nyi ma gsum bzhi tsam du*)
@@ -109,35 +109,35 @@ Preliminary Practice Instructions
 - Result: Channels awaken (*rtsa thams cad langs nas 'ong*)
 - Signs: Jumping (*'phar ba*) and crossing over (*rgal ba*)
 
-[15442-15444] <context>
+<context>
 Male-Specific Practice
-**Analysis:** Lines 15442-15444 present male-specific (*skyes pa*) channel activation:
+**Consideration:** Lines 15442-15444 present male-specific (*skyes pa*) channel activation:
 - For right-side intense jumping (*g.yas 'phar drag pa*)
 - Apply sandalwood (*tsan dan*) and acacia (*seng ldeng*) decoction (*thang chu*)
 - Warm with soft massage implement (*gyo mo 'jam pos phyi nas bsro*)
 
 [15444] <philology> Importance Marker
-**Analysis:** *de ltar bya ba gnad che'o*—"Doing thus, the essential point is great"—emphasizes the critical importance of these preliminary practices
+**Architectural Analysis:** *de ltar bya ba gnad che'o*—"Doing thus, the essential point is great"—emphasizes the critical importance of these preliminary practices
 
 [15445] <structure> # Transition to Actual Practice
-**Analysis:** *gnyis pa dngos gzhi ni*—"Second: the actual main part"—marks transition from preliminary to actual practice
+**Architectural Analysis:** *gnyis pa dngos gzhi ni*—"Second: the actual main part"—marks transition from preliminary to actual practice
 
 This structure follows standard Dzogchen pedagogy:
 1. Preliminaries (*sngon 'gro*) → preparation
 2. Main practice (*dngos gzhi*) → actual method
 3. Conclusion (*mjug*) → integration
 
-[15476-15482] <concept>
+<concept>
 Four Elements and Fruition Conditions (Partial)
-**Analysis:** Continues from previous page:
+**Close Reading:** Continues from previous page:
 - Line 15476: 'di'i dus sems 'byung ba bzhi'i dra bar gzhug par bya - at this time consciousness should be brought into the net of four elements
 - Line 15477: rlung nang du dgug pa ni man ngag - drawing wind inward is the pith instruction
 - Line 15478-15482: Arising of bliss (bde ba skye ba), arisen (skyes pa), stability (brtan pa), and special wisdom path preparation (khyad par gyi ye shes lam du 'byor pa) - arising from levels of diligence (brtson 'grus kyi rim pa)
 - Line 15483: bud med rnams la g.yon nas bya'o - for women, practice from the left
 
-[15484-15502] <structure>
+<structure>
 Seven Essential Channel Techniques
-**Analysis:** 
+**Technical Examination:** 
 - Line 15484-15491: Channel object-based application (rtsa'i yul la brten nas nyams su blang ba) in seven types: gtem pa (piercing), mnan pa (pressing), bskyil ba (drawing up), gzir ba (compressing), gcun pa (twisting/constricting), gzhil ba (expanding/stretching), sba ba (concealing/hiding)
 - Line 15492: sba ba ni ro ma'i gnad - concealing is the essential point of the ro ma channel
 - Line 15493: gcun pa ni rkyang ma'i gnad - constricting is the essential point of the rkyang ma channel  
@@ -145,9 +145,9 @@ Seven Essential Channel Techniques
 - Line 15495-15498: Four applications correlated with dimensions: gtem pa to body (lus), mnan pa to speech (ngag), bskyil ba to mind (sems), gzir ba to appearance (snang ba)
 - Line 15499-15502: Four diagnostic/knowledge applications: body gnad seeks channel locations (rtsa'i yul btsal), wind gnad clears channel paths (rtsa'i lam bsal), channel movement measures birth-death sources (skye shi'i khungs brtag), channel nature grasps dharmatā birth-time (chos nyid skye ba'i dus bzung)
 
-[15503-15519] <philology>
+<philology>
 Channel Maturation and Diagnostic System
-**Analysis:** 
+**Close Reading:** 
 - Line 15503: rtsa'i 'phel ba - channel growth/maturation
 - Line 15504-15506: For healthy person at peak age, channels move 64,800 times per day-night (nyin zhag phrugs gcig la rtsa'i 'gyu tshad drug khri bzhi stong dang brgyad brgya 'gyu)
 - Line 15507: nad dang gdon brtag - diagnose disease and spirits by strong/weak projection ('phar ba drag zhan)
@@ -162,23 +162,23 @@ Channel Maturation and Diagnostic System
 **PAGE SUMMARY:**
 Page 369 continues channel practice instructions from 368, completing the four-element meditation and detailing seven channel manipulation techniques. The diagnostic system uses quantitative channel movement (64,800/day baseline) to assess health, lifespan, karma, and spiritual progress. The integration of medical diagnostics (wind/bile/phlegm) with yogic wisdom-temporal analysis exemplifies Tibetan Buddhism's synthetic approach to somatic spirituality.
 
-[15520-15560] <structure>
+<structure>
 Completion of Day-Night Cycle Analysis
-**Analysis:** Expected completion of:
+**Close Reading:** Expected completion of:
 - Daytime stable lifespan measurement (completing "nam gzhag gtan gyi tshe")
 - Nighttime measurement counterpart
 - Integration with circadian channel movement patterns
 
-[15561-15600] <concept>
+<concept>
 Lifespan Calculation Methods
-**Analysis:** Anticipated elaboration of:
+**Close Reading:** Anticipated elaboration of:
 - Channel count reduction correlating with lifespan depletion
 - Methods for calculating remaining lifespan based on channel vitality
 - Connection between channel movement cessation and death signs
 
-[15601-15628] <philology>
+<philology>
 Advanced Diagnostic Terminology
-**Analysis:** Expected technical terms:
+**Semantic Range:** Expected technical terms:
 - Further wind (rlung) disorder classifications
 - Channel blockage (rtsa bkag) and looseness (rtsa lhug) indicators
 - Integration with pulse diagnosis (rtsa brtag) terminology

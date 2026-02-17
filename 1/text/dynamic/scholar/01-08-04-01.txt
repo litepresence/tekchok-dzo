@@ -1,4 +1,4 @@
-[10722-10723] <structure>
+<structure>
 # Manifold Appearance and Ground Multiplicity
 **Architectural Context:** This passage presents a critical analysis within the chapter on views (ལྟ་བ་ lta ba), specifically examining the philosophical position that appearance is inherently manifold/varied (སྣང་བ་སྣ་ཚོགས་པ་ snang ba sna tshogs pa). The structure follows a conditional premise (ལྟར་ན། ltar na—"if like") + assertion (སྣང་བ་ snang ba—"appearance") + consequence (གཞི་ gzhi—"ground") + problem (སྐྱོན་ skyon—"fault").
 
@@ -9,7 +9,7 @@
 
 **Refutation Structure:** This forms part of a systematic refutation examining various positions on appearance. The phrase "first" (དང་པོ་ dang po) suggests this is one position among several being examined.
 
-[10722-10723] <philology>
+<philology>
 **Particle Analysis:**
 - ལྟར་ན། (ltar na): conditional "if, like, as"—establishes the hypothetical premise
 - ལྟར་ (ltar): comparative "like, as"—establishing analogy
@@ -28,7 +28,7 @@
 
 **Syntactic Analysis:** The phrase སྣང་བ་སྣ་ཚོགས་པ་ལྟར་ (snang ba sna tshogs pa ltar) functions as a conditional premise—"if appearance is manifold." This is followed by གཞི་ (gzhi), extending the consequence to the ground. The compound ཕྱིར་ཤར་བའི་ (phyir shar ba'i) indicates external arising—appearing outside or apart from the ground—which is presented as problematic.
 
-[10722-10723] <context>
+<context>
 **Doxographical Placement:** This passage engages with the philosophical debate on the nature of appearance (སྣང་བ་ snang ba) within Buddhist epistemology and metaphysics. The question of whether appearance is internal (mental), external (objective), or neither is central to Buddhist theories of perception.
 
 **Classical Buddhist Positions:**
@@ -40,7 +40,7 @@
 
 **Purpose:** This prepares for Longchenpa's own presentation of appearance as the spontaneous manifestation (ལྷུན་གྱིས་སྣང་བ་ lhun gyis snang ba) of the ground without separation from it—appearance is not external to the ground but is the ground's self-manifestation.
 
-[10722-10723] <concept>
+<concept>
 **Philosophical Problem:** The position that "appearance is manifold" (སྣང་བ་སྣ་ཚོགས་པ་) leads to several philosophical difficulties:
 
 1. **Ground Multiplicity:** If appearances are genuinely various and diverse, and appearances arise from the ground, then the ground itself must be various and multiple—violating the ground's unity and non-multiplicity (གཅིག་པོ་ gcig po).

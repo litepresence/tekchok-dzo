@@ -1,8 +1,8 @@
-[5085-5087] <structure>
+<structure>
 # Three Experiences: Bliss, End-Change, and Vision
-**Analysis:** This passage presents the three experiences (ཉམས་གསུམ་, *nyams gsum*) of Dzogchen Tögal practice. The structure follows: (1) First—knowing bliss experience (དང་པོ་, *dang po*): binding body-speech at the essential point (གནད་དུ་གཅུན་པ), wind-mind settling (རླུང་སེམས་བག་ལ་ཞ), inner samadhi (ནང་ཏིང་ངེ་འཛིན), luminous-emptiness; (2) Second—end-change experience (མཐར་འགྱུར་, *mthar 'gyur*): eight visionary signs; (3) Third—vision experience (སྣང་བའི་ཉམས, *snang ba'i nyams*): awareness self-resonance (རིག་པའི་རང་གདངས). The enumeration marker *dang po* (first), *gnyis pa* (second), *gsum pa* (third) establishes the progressive presentation.
+**Particle Analysis:** This passage presents the three experiences (ཉམས་གསུམ་, *nyams gsum*) of Dzogchen Tögal practice. The structure follows: (1) First—knowing bliss experience (དང་པོ་, *dang po*): binding body-speech at the essential point (གནད་དུ་གཅུན་པ), wind-mind settling (རླུང་སེམས་བག་ལ་ཞ), inner samadhi (ནང་ཏིང་ངེ་འཛིན), luminous-emptiness; (2) Second—end-change experience (མཐར་འགྱུར་, *mthar 'gyur*): eight visionary signs; (3) Third—vision experience (སྣང་བའི་ཉམས, *snang ba'i nyams*): awareness self-resonance (རིག་པའི་རང་གདངས). The enumeration marker *dang po* (first), *gnyis pa* (second), *gsum pa* (third) establishes the progressive presentation.
 
-[5085-5087] <philology>
+<philology>
 **Particle Analysis:**
 - *dang po* (first): ordinal establishing enumeration position
 - *gcun pa* (bound/tied): verbal noun from *gcun ba* (to bind)
@@ -17,13 +17,13 @@
 - *khrol chags* (bliss-expansion): mahāyogic bliss experience
 - *thod rgal* (direct transcendence): Dzogchen path
 
-[5085-5087] <context>
+<doxographical-placement>
 
 Line [5088]: bag yangs (spacious/open): term for non-dual spaciousness. gzung 'dzin (grasping and holding): shorthand for subject-object duality. khrol chags su skyes (arisen as spread-desire): technical term for bliss-expansion in Dzogchen physiology.
 
 Line [5089]: bcos ma (fabricated/artificial): key dialectical term contrasting with rang bzhin (natural). 'khrab pa (throbbing): coarse somatic experience indicating non-authentic meditation.
 
-<context> This passage operates within Result Vehicle (Dzogchen) framework, specifically the Tögal (thod rgal) visionary path. The three experiences correspond to classical Dzogchen taxonomy from tantras such as the Kun byed rgyal po and commentarial traditions of the Vima snying thig and Mkha' 'gro snying thig. The "eight" (brgyad) mentioned line [5100] refers to the eight major visionary signs (sna tshogs snang ba) preceding full awakening, distinct from the "four visions" (snang ba bzhi) schema. The distinction between bcos ma (fabricated) and rang bzhin (natural) meditation reflects the Nyingma critique of contrived practice versus spontaneous self-liberation (rang grol).
+<historical-context> This passage operates within Result Vehicle (Dzogchen) framework, specifically the Tögal (thod rgal) visionary path. The three experiences correspond to classical Dzogchen taxonomy from tantras such as the Kun byed rgyal po and commentarial traditions of the Vima snying thig and Mkha' 'gro snying thig. The "eight" (brgyad) mentioned line [5100] refers to the eight major visionary signs (sna tshogs snang ba) preceding full awakening, distinct from the "four visions" (snang ba bzhi) schema. The distinction between bcos ma (fabricated) and rang bzhin (natural) meditation reflects the Nyingma critique of contrived practice versus spontaneous self-liberation (rang grol).
 
 <concept>
 • Three experiences typology:
@@ -41,20 +41,16 @@ Line [5089]: bcos ma (fabricated/artificial): key dialectical term contrasting w
   - Inner samadhi (nang ting nge 'dzin) → luminous-emptiness pervasion
   - Self-resonance dissolution (rang gdangs thim pa) → pure spontaneous domain
 
-[5092-5101]
 to cataloging eight visionary signs of the "end-change experience"
 
-[5093-5100]
 : Eight similes for visionary progression: firefly (srin bu me khyer), cloud (sprin), smoke (du ba), haze (smug zil), moon-dawn (zla ba shar ba), star-dawn (skar ma shar ba), sky-brightening (nam sros pa), sun-dawn (nyi ma shar ba). These follow classical Tögal visionary sequence from dim to clear appearances.
 
 Line [5102]: mi brtan (not firm) + tshugs mi thub (cannot stand): diagnostic language for unstable visionary states requiring purification. 'gyur 'gro (change-go): continuous transformation indicating wind-agitation.
 
 Line
 
-[5102-5124]
 , concluding with their diagnostic significance
 
-[5105-5111]
 : rig pa'i rang gdangs (awareness self-resonance): key Dzogchen term for natural luminosity not dependent on conditions. 'od gsal chen po (great luminous-clear): refers to dharmakāya luminosity. gnas skabs (occasion/state): technical term for practice stage.
 
 <context> The eight visionary signs catalogued here derive from the Thod rgal bar do'i ngo sprod and similar visionary tantras of the Atiyoga class. The progression from firefly to sun-dawn represents the standard four-stage schema of Tögal vision: (1) dharmatā (chos nyid snang ba), (2) increased experience (nyams gong 'phel), (3) awareness reaching full measure (rig pa tshad phebs), and (4) exhaustion of phenomena (chos zad). The physiological basis in wind (rlung) purification reflects the Completion Stage (rdzogs rim) physiology of the subtle body (lus).
@@ -80,17 +76,14 @@ Line
   - Reverses to inner (nang du bzlog pa)
   - Dissolves into spontaneous-completion pure dhatu (lhun grub ka dag gi dbyings)
 
-[5112-5115]
 : ye bzhugs (original abiding): technical term for primordial non-constructed presence. lhun grub chen po (great spontaneous completion): highest classification of manifestation. 'pho 'gyur med pa (not-existing change): immutability of awareness-display.
 
 Line
 
-[5116-5120]
 : snang ba bzhi (four visions): core Tögal taxonomy—(1) chos nyid snang ba (dharmatā vision), (2) nyams gong 'phel (increasing experience), (3) rig pa tshad phebs (awareness reaching full measure), (4) chos zad pa (exhaustion of phenomena). thod rgal (direct transcendence): the path using these visions.
 
 Line
 
-[5121-5124]
 : 'ja' lus (rainbow body): manifestation of realization as light-form. sku gsum (three kāyas): dharmakāya (chos sku), sambhogakāya (longs sku), nirmāṇakāya (sprul sku). rig 'dzin (vidyādhara): awareness-holder, five types enumerated.
 
 <context> This material situates within the "four visions" (snang ba bzhi) framework of the Tögal path, the result vehicle (Dzogchen) completion practice. The technical terms derive from the Bla ma yang thig, Mthong ba don ldan, and other seminal Dzogchen tantras. The passage represents Longchenpa's systematic presentation of the stageless stages—though Dzogchen transcends gradualism, the four visions provide a descriptive framework for recognition. The "original abiding" (ye bzhugs) terminology distinguishes this from constructed meditation states (bcos ma).

@@ -1,4 +1,4 @@
-[16719-16735] <closing-verse-authority-submission> <mjug-tshigs-yi-ge>
+<closing-verse-authority-submission> <mjug-tshigs-yi-ge>
 
 **Misreading:**
 The author's closing verses interpreted as authoritative pronouncements requiring submission.
@@ -11,14 +11,14 @@ Authority-submission: accepting without recognition. Natural authority obscured 
 
 **Secondary consequences:**
 - "Longchenpa said it, so it's true"
-- Missing that text points to self-recognition
+- The error obscures that text points to self-recognition
 - Reifying author as ultimate source
 - Dependency on external validation
 
 **Cascade effects:**
-<closing-verse-authority> → <textual-submission> [believing] → <external-dependency> [outside authority] → <natural-authority-miss> [self-evident]
+<closing-verse-authority> → <ground-ignored>
 
-[16735-16750] <completion-blessing-receptivity> <rdzogs-pa-byin-rlabs>
+<completion-blessing-receptivity> <rdzogs-pa-byin-rlabs>
 
 **Misreading:**
 Completion blessings interpreted as transmitted power received passively.
@@ -31,14 +31,14 @@ Blessing-receptivity: waiting for transmitted power. Natural blessing obscured b
 
 **Secondary consequences:**
 - "I receive the completion blessing"
-- Missing that blessing is recognition
+- Failing to recognize that blessing is recognition
 - Reifying blessing as transferable
 - Passive waiting for grace
 
 **Cascade effects:**
-<blessing-receptivity> → <transmission-waiting> [receiving power] → <passive-grace> [waiting] → <natural-blessing-miss> [blessing is seeing]
+<blessing-receptivity> produces <transmission-waiting> [receiving power] → <passive-grace> [waiting] → <natural-blessing-miss> [blessing is seeing]
 
-[16750-16769] <text-conclusion-closure-seeking> <gzhung-mjug>
+<text-conclusion-closure-seeking> <gzhung-mjug>
 
 **Misreading:**
 The conclusion of text interpreted as closure providing completion-satisfaction.
@@ -56,9 +56,9 @@ Closure-satisfaction: feeling complete after reading. Natural incompleteness obs
 - Stopping at conclusion
 
 **Cascade effects:**
-<text-conclusion-closure> → <completion-illusion> [feeling done] → <practice-stopping> [not engaging] → <natural-incompleteness-miss> [never finished]
+<text-conclusion-closure> generates <completion-illusion> [feeling done] → <practice-stopping> [not engaging] → <natural-incompleteness-miss> [never finished]
 
-[16719-16728] <author-humility- dismissal> <rtsom-pa-po-dk humility>
+<author-humility- dismissal> <rtsom-pa-po-dk humility>
 
 **Misreading:**
 Author's humility interpreted as genuine inferiority rather than conventional modesty.
@@ -78,7 +78,7 @@ Humility-literalism: dismissing text due to author's modesty. Natural humility o
 **Cascade effects:**
 <author-humility-dismissal> → <literalism> [taking seriously] → <text-rejection> [not authoritative] → <natural-humility-miss> [convention not truth]
 
-[16728-16750] <dedication-merit-externalization> <bsngo-ba-bskul-gzhi>
+<dedication-merit-externalization> <bsngo-ba-bskul-gzhi>
 
 **Misreading:**
 Dedication of merit interpreted as transferring benefit to others externally.
@@ -96,9 +96,9 @@ Merit-transaction: treating virtue as currency. Natural dedication obscured by e
 - Virtue-banking
 
 **Cascade effects:**
-<merit-transaction> → <virtue-banking> [accumulating] → <exchange-mentality> [giving merit] → <natural-dedication-miss> [dedication is view]
+<merit-transaction> triggers <virtue-banking> [accumulating] → <exchange-mentality> [giving merit] → <natural-dedication-miss> [dedication is view]
 
-[16750-16769] <colophon-historical-fetishization> <mjug-byang-lo-rgyus>
+<colophon-historical-fetishization> <mjug-byang-lo-rgyus>
 
 **Misreading:**
 The colophon and history interpreted as important for authenticating the teaching.
