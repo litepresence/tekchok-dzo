@@ -32,6 +32,7 @@ Your job is to find PROBLEMS, not celebrate successes.
 
 **Critical Insight:** Byte ratios measure COVERAGE, not QUALITY. A section with 0.30x ratio may have EXCELLENT quality where present but insufficient quantity. A section with 0.05x ratio is essentially EMPTY regardless of quality.
 
+
 ---
 
 ## ASSESSMENT METHODOLOGY
@@ -263,13 +264,18 @@ Before completing assessment:
 
 3. **Tiny fragments (<200 bytes) are acceptable with high ratios.** 20-30x ratios on list markers/structural elements are appropriate.
 
-4. **Commentary quality depends on voice rotation.** Single voice = C/D grade for large sections. 6+ voices rotating = A/A+ grade.
+4. **Commentary quality depends on voice rotation.** see `protocol/voices.md` and `contents/voice_contents.md` Single voice = C/D grade for large sections. 6+ voices rotating = A/A+ grade.  voice_contents.md requirements matches chapter = A++.
 
 5. **Delusion layer requires cascade chains.** Individual error blocks without propagation analysis = B grade max. 4-5 level cascades = A/A+ grade.
 
 6. **Pattern recognition is critical.** If Ch 17-25 all show delusion 0.10-0.15x, this is a systematic issue requiring systematic repair approach.
 
 ---
+
+
+## BRING THE URGENCY!
+
+dive deeper on each section.  read all layers for that section then move to the next section.  when you're done with a chapter, update the QC report on disk.  then proceed to the next chapter.  agents are actively making repairs and need your latest assessment.  work systematically updating rows precisely until you reach the end of chapter 25! 
 
 **Copyleft 2026:** Amid all this apparent happening, nothing has happened.
 **Version:** 3.0 (2026-02-16) - Updated with comprehensive QC experience
