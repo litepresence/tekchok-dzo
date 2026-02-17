@@ -87,7 +87,7 @@
 - **Purpose:** Technical right view
 - **Content:** Correct philosophical positions
 - **Status:** Active
-- **Location:** `text/epistemic/`
+- **Location:** `text/frozen/epistemic/`
 - **Key Constraint:** Rigorous logical analysis
 
 **11. DELUSION** `prompt_delusion.md`
@@ -101,7 +101,7 @@
 - **Purpose:** Real-time understanding demonstration
 - **Content:** Shows recognition in preparation for translation
 - **Status:** Active
-- **Location:** `text/cognitive/`
+- **Location:** `text/frozen/cognitive/`
 - **Key Constraint:** Demonstrate understanding process
 
 ---

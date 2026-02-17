@@ -6,7 +6,8 @@
 **Purpose:** Systematic assessment using Template.md format
 **Input:** `/home/opencode/MDZOD/1/quality/Template.md`
 **Output:** `/home/opencode/MDZOD/1/quality/QUALITATIVE_QC.md`
-**Scope:** All 213 sections × 8 layers (Wylie, Literal, Liturgical, Commentary, Scholar, Epistemic, Delusion, Cognitive)
+**Scope:** 213 sections × 3 ACTIVE layers (Commentary, Scholar, Delusion)
+**Status:** Wylie, Literal, Liturgical, Epistemic, Cognitive layers COMPLETE
 
 ---
 
@@ -32,7 +33,6 @@ Your job is to find PROBLEMS, not celebrate successes.
 
 **Critical Insight:** Byte ratios measure COVERAGE, not QUALITY. A section with 0.30x ratio may have EXCELLENT quality where present but insufficient quantity. A section with 0.05x ratio is essentially EMPTY regardless of quality.
 
-
 ---
 
 ## ASSESSMENT METHODOLOGY
@@ -41,20 +41,16 @@ Your job is to find PROBLEMS, not celebrate successes.
 
 For EACH section, gather:
 1. **Tibetan source size** (bytes and lines)
-2. **Layer sizes** (bytes) for all 8 layers
+2. **Layer sizes** (bytes) for all 3 ACTIVE layers
 3. **Calculate ratios** (layer_bytes / tibetan_bytes)
 
 **Ratio Guidelines by Layer:**
 
 | Layer | Small (<2KB) | Medium (2-50KB) | Large (>50KB) |
 |-------|--------------|-----------------|---------------|
-| **Wylie/Literal** | 1.0x | 1.0x | 1.0x |
-| **Liturgical** | 0.8-3.0x | 0.6-1.5x | 0.5-1.2x |
 | **Commentary** | 0.8-10x | 0.6-2.0x | 0.5-1.5x |
 | **Scholar** | 0.5-15x | 0.8-3.0x | 0.8-2.0x |
-| **Epistemic** | 0.3-10x | 0.15-1.0x | 0.10-0.5x |
 | **Delusion** | 0.5-15x | 0.4-2.0x | 0.3-1.5x |
-| **Cognitive** | 0.3-10x | 0.2-1.0x | 0.15-0.6x |
 
 ### Phase 2: Qualitative Content Review
 
@@ -79,12 +75,6 @@ For EACH section, gather:
 - [ ] Cascade chains with 4-5 levels?
 - [ ] Safety-critical warnings for advanced practice sections?
 
-**Epistemic Layer - Check For:**
-- [ ] <view> tags (dzogchen-rigpa, etc.)?
-- [ ] <pedagogy> tags (declarative, instructional, etc.)?
-- [ ] <risk> tags where applicable?
-- [ ] Coverage every 50-100 lines for large sections?
-
 ### Phase 3: Grade Assignment
 
 **Grade Definitions:**
@@ -102,43 +92,36 @@ For EACH section, gather:
 - Commentary: <0.15x on sections >50KB
 - Scholar: <0.30x on sections >50KB
 - Delusion: <0.15x on sections >30KB (especially Ch 17-25)
-- Epistemic: <0.08x on sections >50KB
 
 ### STRICTER GRADING CRITERIA (Enforce Mandatory Distribution)
 
-**A++ (🔵) - EXEMPLARY (15% target = ~255 assessments):**
+**A++ (🔵) - EXEMPLARY (15% target = ~96 assessments):**
 - Commentary: 8+ distinct voices, fresh metaphors every block, complete line coverage [XXX-XXX] for every Tibetan line
 - Scholar: All Four Pillars present AND balanced, IAST Sanskrit with Wylie, root text citations verified
 - Delusion: 4-5 level cascade chains with clear mechanisms, specific error-type tags, safety warnings
-- Epistemic: <view>, <pedagogy>, <risk> tags every 30-50 lines, not just every 50-100
-- Wylie: Perfect alignment, 0.45-0.55x ratio
 
-**A (🟢) - MEETS ALL (25% target = ~425 assessments):**
+**A (🟢) - MEETS ALL (25% target = ~160 assessments):**
 - Commentary: 6+ voices, good metaphors, line ranges mostly complete
 - Scholar: All Four Pillars present, minor imbalance acceptable
 - Delusion: 3-4 level cascades, good error specificity
-- Epistemic: Tags present every 50-100 lines, some risk assessment
-- Wylie: Good alignment, 0.40-0.60x ratio
 - **STRICT:** Only award A if no significant gaps exist
 
-**B (🟡) - ADEQUATE BUT THIN (25% target = ~425 assessments):**
+**B (🟡) - ADEQUATE BUT THIN (25% target = ~160 assessments):**
 - Commentary: 4-5 voices, adequate metaphors, some line gaps [XXX-???]
 - Scholar: 3 of 4 Pillars present, one pillar thin
 - Delusion: 2-3 level cascades, generic error types
-- Epistemic: Tags present but sparse, minimal risk assessment
 - Commentary ratio: 0.40-0.60x on medium sections
 - **MUST IDENTIFY:** What could expand 20-30% to reach A
 
-**C (🟠) - SIGNIFICANT GAPS (20% target = ~340 assessments):**
+**C (🟠) - SIGNIFICANT GAPS (20% target = ~128 assessments):**
 - Commentary: 2-3 voices, repetitive metaphors, many line gaps
 - Scholar: 2 of 4 Pillars present, major gaps in philology or context
 - Delusion: 1-2 level cascades, missing error chains
-- Epistemic: Tags inconsistent, no risk assessment
 - Commentary ratio: 0.25-0.40x on medium sections
 - Delusion ratio: 0.15-0.30x on sections >20KB
 - **MUST IDENTIFY:** Needs 50-100% expansion
 
-**D (🔴) - MAJOR UNDER-COVERAGE (10% target = ~170 assessments):**
+**D (🔴) - MAJOR UNDER-COVERAGE (10% target = ~64 assessments):**
 - Commentary: <4 voices, same voice dominates, large line gaps
 - Scholar: 1-2 Pillars only, missing key analysis
 - Delusion: Single-level errors, no cascade analysis
@@ -146,12 +129,11 @@ For EACH section, gather:
 - Delusion ratio: 0.08-0.15x on sections >20KB
 - **MUST REQUIRE:** Major rewrite with target line counts
 
-**F (🟣) - ESSENTIALLY EMPTY (5% target = ~85 assessments):**
+**F (🟣) - ESSENTIALLY EMPTY (5% target = ~32 assessments):**
 - Commentary: <0.15x on sections >50KB OR <0.10x on any section >20KB
 - Delusion: <0.10x on sections >30KB (especially Ch 17-25)
 - Placeholder content (repeated blocks, [VIEW COLLAPSE], generic tags)
 - Missing layers entirely
-- Corrupted files
 - **AUTOMATIC F:** Any advanced practice section (Ch 17-25) with delusion <0.15x
 - **AUTOMATIC F:** Commentary <0.20x with <3 voices on section >40KB
 
@@ -168,7 +150,6 @@ For EACH section, gather:
 - Commentary <5 voices on section >30KB
 - Delusion cascades only 2 levels
 - Scholar missing <structure> or <concept>
-- Epistemic tags <50% coverage
 - Commentary ratio <0.35x on medium section
 
 **Downgrade C→D if:**
@@ -213,7 +194,7 @@ Every row MUST include specific repair instructions in the Notes column:
 
 1. **List all sections** in the chapter: `ls frozen/tibetan/01-XX-*.txt`
 2. **Assess each section**:
-   - Get byte ratios for all 8 layers
+   - Get byte ratios for all 3 ACTIVE layers
    - Read content if ratios outside targets
    - Assign grades with specific notes
 3. **Update QUALITATIVE_QC.md** with complete chapter table
@@ -240,11 +221,10 @@ Every row MUST include specific repair instructions in the Notes column:
 Chapters 17-25 show systematic under-coverage in delusion layer (average 0.10x). This is CRITICAL for advanced practice safety. Every section in Ch 17-25 with delusion <0.20x needs F or D grade with explicit repair instructions.
 
 **Exemplary Sections** (use as benchmarks):
-- 01-01-01-01 (Opening) - A++ all layers
-- 01-01-02-01 (Opening cont.) - 8+ voices
-- 01-07-01-01 through 01-07-03-01 (Samaya) - Certified per exemplars.md
+- 01-01-01-01 (Opening) - A++ commentary
 - 01-04-12-01 (Philosophical) - Scholar 2.21x excellent
 - 01-06-01-01, 01-06-02-01 (Empowerment) - Delusion 2.99x, 3.20x excellent
+- 02-20-02-01 (Trekcho) - Delusion A++ with cascade chains
 
 ---
 
@@ -257,12 +237,14 @@ Produce output in `/home/opencode/MDZOD/1/quality/QUALITATIVE_QC.md`:
 
 **Project:** MDZOD (Theg mchog rin po che'i mdzod)  
 **Assessment Date:** [YYYY-MM-DD]
+**Scope:** 213 sections × 3 ACTIVE layers (Commentary, Scholar, Delusion)
+**Status:** Wylie, Literal, Liturgical, Epistemic, Cognitive layers COMPLETE
 
 ---
 
 ## GRADE DISTRIBUTION SUMMARY
 
-[Table with grade counts and percentages]
+[Table with grade counts and percentages for 3 layers only]
 
 ---
 
@@ -278,9 +260,9 @@ Produce output in `/home/opencode/MDZOD/1/quality/QUALITATIVE_QC.md`:
 ## COMPLETE SECTION-BY-SECTION ASSESSMENT
 
 ### CHAPTER X (Title)
-| File | Wylie | Literal | Liturgical | Comm | Scholar | Epist | Delusion | Cog | Notes |
-|------|-------|---------|------------|------|---------|-------|----------|-----|-------|
-| XX-XX-XX-XX.txt | [grade] | [grade] | [grade] | [grade] | [grade] | [grade] | [grade] | [grade] | [specific repair note] |
+| File | Commentary | Scholar | Delusion | Notes |
+|------|------------|---------|----------|-------|
+| XX-XX-XX-XX.txt | [grade] | [grade] | [grade] | [specific repair note] |
 
 [Repeat for all chapters]
 
@@ -289,6 +271,7 @@ Produce output in `/home/opencode/MDZOD/1/quality/QUALITATIVE_QC.md`:
 ## SUMMARY STATISTICS
 
 **Total Sections:** 213
+**Active Assessments:** 639 (3 layers)
 **Grade Distribution:** [counts per grade]
 **Critical Sections:** [count] requiring immediate repair
 **Patterns Identified:** [key findings]
@@ -302,16 +285,16 @@ Produce output in `/home/opencode/MDZOD/1/quality/QUALITATIVE_QC.md`:
 
 ## MANDATORY GRADE DISTRIBUTION
 
-Across all 213 sections × 8 layers = 1,704 total grades:
+Across all 213 sections × 3 layers = 639 total assessments:
 
 | Grade | Color | Target | Percentage |
 |-------|-------|--------|------------|
-| A++ | 🔵 | ~255 | 15% |
-| A | 🟢 | ~425 | 25% |
-| B | 🟡 | ~425 | 25% |
-| C | 🟠 | ~340 | 20% |
-| D | 🔴 | ~170 | 10% |
-| F | 🟣 | ~85 | 5% |
+| A++ | 🔵 | ~96 | 15% |
+| A | 🟢 | ~160 | 25% |
+| B | 🟡 | ~160 | 25% |
+| C | 🟠 | ~128 | 20% |
+| D | 🔴 | ~64 | 10% |
+| F | 🟣 | ~32 | 5% |
 
 **ENFORCEMENT RULES:**
 - If >20% are A++ → Inflating. Downgrade immediately.
@@ -325,7 +308,7 @@ Across all 213 sections × 8 layers = 1,704 total grades:
 Before completing assessment:
 
 - [ ] All 213 sections assessed
-- [ ] All 8 layers graded for each section
+- [ ] All 3 ACTIVE layers graded for each section
 - [ ] Specific repair notes in every row
 - [ ] F-grade sections identified with line count targets
 - [ ] Volume 2 Ch 17-25 delusion layers carefully reviewed
@@ -343,20 +326,13 @@ Before completing assessment:
 
 2. **Volume 2 (Ch 17-25) requires extra scrutiny.** Advanced practice sections (bardo, phowa, trekcho/thogal) have safety implications. Delusion layer <0.15x = automatic F.
 
-3. **Tiny fragments (<200 bytes) are acceptable with high ratios.** 20-30x ratios on list markers/structural elements are appropriate.
+3. **Commentary quality depends on voice rotation.** Single voice = C/D grade for large sections. 6+ voices rotating = A grade. 8+ voices with fresh metaphors = A++.
 
-4. **Commentary quality depends on voice rotation.** see `protocol/metaphor.md` `protocol/voices.md` and `contents/voice_contents.md` Single voice = C/D grade for large sections. 6+ voices rotating = A/A+ grade.  voice_contents.md requirements matches chapter = A++.
+4. **Delusion layer requires cascade chains.** Individual error blocks without propagation analysis = B grade max. 4-5 level cascades = A/A+ grade.
 
-5. **Delusion layer requires cascade chains.** Individual error blocks without propagation analysis = B grade max. 4-5 level cascades = A/A+ grade.
-
-6. **Pattern recognition is critical.** If Ch 17-25 all show delusion 0.10-0.15x, this is a systematic issue requiring systematic repair approach.
+5. **Pattern recognition is critical.** If Ch 17-25 all show delusion 0.10-0.15x, this is a systematic issue requiring systematic repair approach.
 
 ---
 
-
-## BRING THE URGENCY!
-
-dive deeper on each section.  read all layers for that section then move to the next section.  when you're done with a chapter, update the QC report on disk.  then proceed to the next chapter.  agents are actively making repairs and need your latest assessment.  work systematically updating rows precisely until you reach the end of chapter 25! 
-
 **Copyleft 2026:** Amid all this apparent happening, nothing has happened.
-**Version:** 3.0 (2026-02-16) - Updated with comprehensive QC experience
+**Version:** 5.0 (2026-02-17) - Updated for 3-layer assessment only
