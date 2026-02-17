@@ -108,102 +108,27 @@ Clear chains showing how errors propagate:
 - Propagation to subsequent sections
 - Page bleed (how errors here affect later understanding)
 
-### Byte Ratio as Diagnostic Tool (NOT TARGET)
+### Byte Ratio Guidance
 
-**Purpose:** Identify potentially undersized sections. Qualitative assessment ALWAYS takes precedence.
+**Reference:** `/protocol/byte_ratios.md` — Contains complete Delusion layer targets and calculation methods.
 
-```bash
-# Check single section byte ratio
-cd /home/opencode/MDZOD/1/text
-section="01-01-01-01"
-tib=$(stat -c%s frozen/tibetan/${section}.txt)
-del=$(stat -c%s dynamic/delusion/${section}.txt)
-ratio=$(echo "scale=2; $del/$tib" | bc)
-echo "Ratio: ${ratio}x (qualitative assessment primary)"
+**Quick Reference:**
+- Tiny (<200b): 2.0-15.0x
+- Small (200-2000b): 1.0-3.0x
+- Medium (2000-10000b): 0.4-1.5x
+- Large (10000-50000b): 0.2-1.0x
+- Huge (>50000b): 0.2-0.8x
 
-# Find undersized sections (byte-based)
-for f in frozen/tibetan/*.txt; do
-  section=$(basename $f .txt)
-  tib=$(stat -c%s "$f")
-  del=$(stat -c%s dynamic/delusion/${section}.txt 2>/dev/null || echo 0)
-  [ "$del" != "0" ] && ratio=$(echo "scale=2; $del/$tib" | bc) && 
-    [ $(echo "$ratio < 0.5" | bc) -eq 1 ] && 
-    echo "$section: ${ratio}x - verify comprehensiveness"
-done | head -20
-```
+**Critical Alert:** Advanced Dzogchen material (Trekcho/Thogal/Bardo/Phowa) needs minimum 0.3x regardless of other factors.
 
-**Byte Ratio Interpretation (Fine-Tuned):**
+**Philosophy:** Byte ratios catch potential gaps but never override qualitative judgment. If you've exhaustively mapped all failure modes for a section, stop—even if the ratio seems low. If targets consistently misidentify quality content, update `/protocol/byte_ratios.md`.
 
-| Tibetan Size | Byte Ratio Range | Diagnostic Meaning | Qualitative Action |
-|--------------|------------------|-------------------|-------------------|
-| **<200 bytes** (structural fragments) | 1.0-10.0x | Tiny files need context | Verify minimal analysis appropriate |
-| **200-2000 bytes** (standard sections) | 0.5-2.0x | Normal range | Check comprehensive coverage |
-| **2000-10000 bytes** (philosophical chapters) | 0.3-1.5x | Content-dependent | Deep cascade mapping required |
-| **10000-50000 bytes** (major treatises) | 0.2-1.0x | Size-appropriate | Exhaustive error catalog expected |
-| **>50000 bytes** (advanced Dzogchen) | 0.3-0.8x | Critical material | Every paragraph needs analysis |
-
-**FINE-TUNED ALERT INDICATORS:**
-
-🔴 **CRITICAL (Immediate attention required):**
-- <0.10x on material >10000 bytes = Severe under-coverage
-- <0.20x on material >50000 bytes = Emergency for advanced practice material
-- Example: 02-19-01-01 at 0.059x (184KB → 11KB) = CRITICAL GAP
-
-🟠 **WARNING (Verify qualitatively):**
-- <0.30x on material >5000 bytes = Likely missing coverage
-- <0.50x on advanced Dzogchen (Trekcho/Thogal/Bardo) = Check comprehensiveness
-
-🟡 **CAUTION (Diagnostic check):**
-- <0.50x on standard material = May be adequate, verify qualitatively
-- >3.0x on any material = Check for padding (except tiny <200 byte files)
-
-🟢 **NOMINAL (No action needed):**
-- 0.5-2.0x on material <5000 bytes = Normal range
-- 0.3-1.0x on material >10000 bytes = Acceptable if qualitatively comprehensive
-
-**CRITICAL INSIGHT:** 
-- Tiny structural fragments naturally have high ratios (5-10x) — this is appropriate
-- Large advanced Dzogchen files need minimum 0.3x regardless of qualitative judgment
-- 02-19-01-01 at 0.059x fails both quantitative AND qualitative standards
-
-**CONTENT-SPECIFIC GUIDANCE:**
-
-**Advanced Dzogchen** (Trekcho/Thogal/Bardo/Phowa):
-- **No ratio target**—exhaustive coverage required
-- **Critical Alert**: <0.30x on material >5000 bytes
-- **Examples:** 02-19-01-01 (Trekcho), 02-23-03-02 (Phowa), 02-22-01-01 (Bardo)
-- **Qualitative check:** Every doctrinal point has error mapping? Cascade chains present?
-
-**Samaya/Ethical Sections:**
-- Target: 0.8-1.5x (bytes)
-- Check: Ethical implications fully mapped?
-- Example: 01-07-01-01 (Samaya)
-
-### Current Status Reference (Byte-Based)
-
-| Section | Tibetan Bytes | Delusion Bytes | Ratio | Qualitative |
-|---------|---------------|----------------|-------|-------------|
-| 01-02-01-05 (Karma/Cause-Effect) | ~15KB | ~10KB | 66% | 🟡 Adequate |
-| 01-07-01-01 (Samaya) | ~8KB | ~7KB | 88% | 🟡 Adequate |
-| **02-19-01-01 (Deity Yoga/Trekcho)** | ~85KB | ~13KB | **15%** | 🔴 **CRITICAL GAP** |
-| 02-22-01-01 (Bardo) | ~18KB | ~13KB | 70% | 🟡 Adequate |
-| 02-23-03-02 (Phowa) | ~14KB | ~10KB | 74% | 🟡 Adequate |
-
-**CRITICAL GAP PROTOCOL:**
-When ratio <0.50x on material >5000 bytes:
-1. Immediate priority for expansion
-2. Multiple error types per doctrinal point
-3. Cascade chains for every major concept
-4. Cross-reference to related sections
-5. Page bleed analysis mandatory
-
-**QUALITATIVE VERIFICATION CHECKLIST:**
+**Quality Checklist (Primary):**
 - [ ] Every doctrinal point has at least one error mapped?
 - [ ] Distinct errors remain separate (not merged)?
 - [ ] Cascade effects show propagation chains?
 - [ ] Consequences mapped at primary/secondary/long-term levels?
 - [ ] Tibetan terms included for technical precision?
-- [ ] Page bleed awareness noted where applicable?
 - [ ] No generic padding or template phrases?
 
 **Never add content solely to hit a ratio. Stop when errors are comprehensively mapped.**

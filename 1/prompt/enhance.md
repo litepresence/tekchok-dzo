@@ -114,6 +114,13 @@ D) If content already meets A++ standards, proceed without modification—do not
    | 01 | 01 | 01-01-01-01.txt | ✅ A++ COMPLETE | 2026-02-16 | Exemplar quality. No enhancement required. |
    ```
 
+   Every QC Report MUST INCLUDE:
+
+    "⚠️ WEAKEST 10 FILES: [list]"
+    "🔴 MOST CRITICAL GAPS: [list]"
+    "💡 SUGGESTED IMPROVEMENTS: [minimum 5]"
+
+
 10. **Iteration**  
     Process all 213 sections systematically until every file meets A++ standards. Maintain quality integrity throughout—do not cut corners.
 
@@ -126,8 +133,15 @@ D) If content already meets A++ standards, proceed without modification—do not
 13. **Exemplar Updates**  
     After completing all enhancements, review `exemplars.md` and update the "best of the best" section if your work has produced content exceeding current benchmarks.
 
-14. **Byte Counts**
-    Your prompt will have specified appropriate byte count ratios for your files.   These are guide rails.  Quality is what matters most!  If you find these ranges are too restrictive to produce quality content and are leading to fluff or inadequate coverage, you may adjust them to produce the best results.   You may break up the directive to apply differently to small vs medium vs large tibetan sections.   If you do update your byte count recommendations do so comprehensively in the /prompt/ folder and any files in the /protocol/ folder which reference your layer.  
+14. **Byte Ratios (CRITICAL - Reference `/protocol/byte_ratios.md`)**
+    - **ALWAYS** consult `/protocol/byte_ratios.md` before starting work
+    - Byte ratios are diagnostic guide rails, NOT quotas or targets
+    - **Quality is King:** If content is excellent but outside ratio range, quality wins
+    - Calculate ratios using the standard method in byte_ratios.md
+    - **Agents may update targets:** If you find ranges consistently produce false alarms (flagging good content as too high/low), update `/protocol/byte_ratios.md` comprehensively
+    - When updating, also update any prompts in `/prompt/` that reference your layer
+    - Never sacrifice quality to hit a byte target
+    - Use ratios to catch potential gaps, not to mandate content volume  
 
 ---
 

@@ -405,7 +405,7 @@ This glossary documents lineage-specific terms, proper names, and technical voca
 
 Quality is measured by **content-to-source byte ratios** - comparing dynamic layer byte counts to Tibetan source byte counts per section.
 
-Reference: `quality/byte_ratio_table.md` (all 213 sections × 9 layers)
+**Reference:** Byte ratio targets at `/protocol/byte_ratios.md`
 
 | Layer | Minimum | Target | Maximum |
 |-------|---------|--------|---------|

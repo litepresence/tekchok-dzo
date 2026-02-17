@@ -24,26 +24,23 @@
 
 **THE METRIC:** Content ÷ Tibetan source bytes
 
-Reference: `quality/byte_ratio_table.md` (213 sections × 9 layers)
-
-| Byte Ratio Tier | Sections | % |
-|-----------------|----------|---|
-| Disaster | <0.3x | 45 (21%) |
-| Critical | 0.3-0.5x | 38 (18%) |
-| Low | 0.5-0.7x | 35 (16%) |
-| Good | 0.7-1.2x | 42 (20%) |
-| Excellent | >1.2x | 53 (25%) |
+**Primary Reference:** `/protocol/byte_ratios.md` — Single source of truth for all byte ratio targets
 
 **Why Byte Ratios vs Line Ratios:**
 1. Line counts vary with formatting (wrapping, paragraph breaks)
 2. Byte counts reflect actual content density
 3. Small files (<500 bytes) have extreme line-ratio distortions
 
-**Target Byte Ratios for A++ Quality:**
-- Commentary: 0.8-1.5x
-- Scholar: 1.5-3.0x
-- Delusion: 1.0-2.0x
-- **Epistemic: 0.6-1.0x** (0.4x minimum for brief sections, 0.8-1.2x for complex material)
+**Key Principle:** Quality > Byte Ratios. Ratios are diagnostic guide rails, not quotas.
+
+**Targets Vary by Tibetan Source Size:**
+- Tiny (<200b): High ratios expected (2-15x)
+- Small (200-2000b): Moderate ratios (0.5-6x)
+- Medium (2000-10000b): Standard ratios (0.3-2.5x)
+- Large (10000-50000b): Lower ratios (0.2-1.5x)
+- Huge (>50000b): Minimal ratios (0.05-1.2x)
+
+**See `/protocol/byte_ratios.md` for complete layer-specific targets.**
 
 **First 4 Sections Priority (Byte Ratios):**
 
@@ -65,9 +62,11 @@ Reference: `quality/byte_ratio_table.md` (213 sections × 9 layers)
 ## Workflow
 
 1. Read Tibetan source
-2. Write to target byte ratio (see quality/byte_ratio_table.md)
-3. Validate with byte-ratio script
-4. Reference exemplars in `protocol/exemplars.md`
+2. Check byte ratio targets in `/protocol/byte_ratios.md`
+3. Generate content (quality over quantity)
+4. Calculate actual byte ratio
+5. Validate comprehensiveness (not just ratio)
+6. Reference exemplars in `protocol/exemplars.md`
 
 **Validation Command:**
 ```bash
@@ -77,7 +76,12 @@ comm=$(stat -c%s dynamic/commentary/01-01-02-01.txt)
 echo "Byte ratio: $(echo "scale=2; $comm/$tib" | bc)x"
 ```
 
+**Note:** Agents may update `/protocol/byte_ratios.md` if targets consistently produce false alarms.
+
 ---
 
-**Version:** 3.0 (2026-02-15)  
-**Key Change:** Byte-ratio-based quality system (more accurate than line ratios)
+**Version:** 3.1 (2026-02-16)
+**Key Changes:**
+- Byte-ratio-based quality system (more accurate than line ratios)
+- Centralized targets in `/protocol/byte_ratios.md`
+- Quality > Quantity philosophy throughout

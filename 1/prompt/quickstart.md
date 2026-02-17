@@ -47,19 +47,43 @@ The project uses **section-based** files (01-01-01-01.txt):
 
 ## BYTE RATIO ANALYSIS WORKFLOW (MANDATORY)
 
-**Reference:** `quality/byte_ratio_table.md` contains pre-computed ratios for all 213 sections × 9 layers
+**Primary Reference:** `/protocol/byte_ratios.md` — Single source of truth for all byte ratio targets
 
-### QUALITY CRITERIA WITH BYTE RATIO AS DIAGNOSTIC
+**Core Principle:** Qualitative depth over quantitative targets. Use byte ratios to identify potential gaps, not as rigid requirements.
 
-**Core Principle:** Qualitative depth over quantitative targets. Use byte ratio to identify potential gaps, not as rigid requirements.
+### Quick Reference
 
-| Layer | Typical Range | Diagnostic Min | Diagnostic Max | Notes |
-|-------|---------------|----------------|----------------|-------|
-| Cognitive | 0.3-0.7x | 0.20 | 1.00x | Translator logs - concise |
-| Commentary | 0.8-1.5x | 0.60 | 2.50x | Heart instruction - needs space |
-| **Delusion** | **0.8-1.5x** | **0.50** | **2.50x** | **Safety layer - quality over quantity** |
-| **Epistemic** | **0.5-1.0x** | **0.40** | **1.50x** | **View stratification - precise** |
-| Scholar | 1.5-3.0x | 1.00 | 4.00x | Academic context - comprehensive |
+| Layer | Primary Reference | Key Point |
+|-------|------------------|-----------|
+| **Commentary** | `/protocol/byte_ratios.md` | 0.4-2.0x (size-dependent) |
+| **Scholar** | `/protocol/byte_ratios.md` | 0.5-10.0x (size-dependent) |
+| **Delusion** | `/protocol/byte_ratios.md` | 0.2-15.0x (size-dependent) |
+| **Epistemic** | `/protocol/byte_ratios.md` | 0.05-10.0x (naturally lower) |
+| **Cognitive** | `/protocol/byte_ratios.md` | 0.2-1.0x (concise recognition) |
+
+**Frozen/Root/Preface Layers:** No byte targets (immutable or non-textual)
+
+### Quality Philosophy
+
+✅ **Quality is King** - Excellent content outside ratio ranges beats mediocre content that hits targets  
+✅ **Diagnostic Tool** - Ratios catch potential gaps, not mandate volume  
+✅ **Agent Updatable** - If targets consistently produce false alarms, update `/protocol/byte_ratios.md`  
+✅ **Size Matters** - Targets vary dramatically by Tibetan source size (tiny <200b vs huge >50000b)
+
+### Calculation Method
+
+```bash
+cd /home/opencode/MDZOD/1/text
+section="01-01-01-01"
+tib=$(stat -c%s frozen/tibetan/${section}.txt)
+layer=$(stat -c%s dynamic/commentary/${section}.txt)  # Replace with your layer
+ratio=$(echo "scale=2; $layer/$tib" | bc)
+echo "Byte ratio: ${ratio}x"
+```
+
+**See `/protocol/byte_ratios.md` for complete targets, tiers, and quality guidelines.**
+
+---
 
 **DELUSION LAYER QUALITY CHECKLIST (More Important Than Byte Ratio):**
 
@@ -70,18 +94,7 @@ The project uses **section-based** files (01-01-01-01.txt):
 ✅ **Cross-Layer Awareness** - Related errors noted  
 ✅ **Safety Flags** - Critical errors marked explicitly  
 
-**Byte Ratio Diagnostics:**
-- **<0.5x**: ALERT - Likely missing critical error coverage. Verify comprehensiveness.
-- **0.5x-0.8x**: CAUTION - Check if cascade mapping and secondary consequences are adequate
-- **0.8x-1.5x**: NOMINAL - Typical range for well-covered sections
-- **>2.0x**: REVIEW - Check for redundancy or fluff
-
-**Section-Type Guidance:**
-- **Structural Fragments** (<50 lines): 1-3 error blocks, minimal ratio concern
-- **Standard Sections** (50-200 lines): 5-15 blocks with full cascade mapping
-- **Philosophical Chapters** (>200 lines): 15-30+ blocks with cross-references
-
-**NEVER add content solely to hit a ratio. Stop when errors are comprehensively mapped.**
+**Never add content solely to hit a ratio. Stop when errors are comprehensively mapped.**
 
 ---
 
@@ -93,16 +106,6 @@ The project uses **section-based** files (01-01-01-01.txt):
 ✅ **View Precision** - Specific view-register (dzogchen-rigpa, tantric-transformative, sutric-provisional)  
 ✅ **Citation Integration** - Root text citations identified with functional context  
 ✅ **Risk Contextualization** - Specific doctrinal tension points flagged (not generic "reification")
-
-**Byte Ratio Diagnostics:**
-- **<0.4x**: ALERT - Likely missing view distinctions. Verify comprehensive coverage.
-- **0.4x-0.8x**: CAUTION - Check if all technical terms and citations are classified
-- **0.8x-1.2x**: NOMINAL - Typical range for well-classified sections
-- **>1.5x**: REVIEW - Check for generic fluff patterns
-
-**Section-Type Guidance:**
-- **Brief sections** (<100 bytes): 0.4-0.8x, focus on precise view classification
-- **Standard sections** (100-500 bytes): 0.6-1.0x, comprehensive doctrinal analysis
 - **Complex sections** (500+ bytes): 0.8-1.2x, detailed view stratification
 
 **NEVER add content to meet ratio. Stop when all doctrinal points are specifically classified.**

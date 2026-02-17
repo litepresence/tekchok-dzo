@@ -87,10 +87,10 @@ For each layer, verify against its specific prompt:
 
 #### COMMENTARY LAYER (Dynamic)
 **Prompt Reference:** prompt_commentary.md
+**Byte Ratio Reference:** `/protocol/byte_ratios.md`
 **Verification Points:**
 - Line-range tagged blocks: [start-end]
-- **MINIMUM 40 lines** (flag if below)
-- **TARGET 150-250 lines** for standard sections
+- **Byte ratio:** Check against `/protocol/byte_ratios.md` targets (quality over quantity)
 - **CRITICAL: Check for empty blocks** [X-Y] with no content
 - Multiple voices (aim for 6+ distinct)
 - No attribution (no "Garab Dorje said...")
@@ -100,12 +100,14 @@ For each layer, verify against its specific prompt:
 - Fresh metaphors (check against banned list in prompt)
 - Longchenpa bridging between voices
 
-**Grade Scale:**
-- A++ (200+ lines, 10+ voices, exemplary)
-- A+ (150+ lines, 8+ voices, excellent)
-- A (100+ lines, 6+ voices, very good)
-- B+ (61-99 lines, good but SHORT)
-- **CRITICAL (≤60 lines or empty blocks):** Major expansion needed
+**Grade Scale (Byte-Based, with Qualitative Priority):**
+- A++ (0.9-1.5x ratio, 10+ voices, exemplary)
+- A+ (0.8-1.2x ratio, 8+ voices, excellent)
+- A (0.7-1.0x ratio, 6+ voices, very good)
+- B+ (0.5-0.7x ratio, good but may need expansion)
+- **CRITICAL (<0.5x or empty blocks):** Major expansion needed
+
+**Note:** Quality content outside ratio ranges (e.g., concise but complete coverage at 0.4x) can still receive high grades. Byte ratios catch potential gaps, they don't mandate content volume.
 
 #### SCHOLAR LAYER (Dynamic)
 **Prompt Reference:** prompt_scholar.md
@@ -143,18 +145,19 @@ For each layer, verify against its specific prompt:
   - **Primary consequence:** [What degrades]
   - **Secondary consequences:** [Downstream effects]
   - **Cascade effects:** <error-type> → <error-type>
-- PAGE BLEED AWARENESS notes
 - Clinical tone (no softening)
 - No stating correct view
 - Realistic misreadings
 
-**Grade Scale:**
-- A++ (300+ lines, 15+ error types)
-- A+ (200+ lines, 10+ error types)
-- A (100+ lines, 8+ error types)
+**Grade Scale (Byte-Based, with Qualitative Priority):**
+- A++ (1.0-3.0x ratio, 15+ error types, exhaustive coverage)
+- A+ (0.8-2.0x ratio, 10+ error types, comprehensive)
+- A (0.5-1.5x ratio, 8+ error types, adequate)
+- **Note:** Advanced Dzogchen material needs minimum 0.3x regardless of other factors
 
 #### COGNITIVE LAYER (Dynamic)
 **Prompt Reference:** prompt_cognitive.md
+**Byte Ratio Reference:** `/protocol/byte_ratios.md`
 **Verification Points:**
 - Line ranges: [start-end]
 - Quiet, non-didactic tone
@@ -168,11 +171,13 @@ For each layer, verify against its specific prompt:
   3. Translation Risks
   4. Preservation Requirements
 
-**Grade Scale:**
-- A+ (150+ lines, detailed)
-- A (100-149 lines, good)
-- A- (50-99 lines, short but adequate)
-- **NEEDS EXPANSION (<50 lines)**
+**Grade Scale (Byte-Based, with Qualitative Priority):**
+- A+ (0.5-0.7x ratio, detailed recognition)
+- A (0.35-0.5x ratio, good coverage)
+- A- (0.25-0.35x ratio, short but adequate)
+- **NEEDS EXPANSION (<0.25x on substantial content)**
+
+**Note:** Cognitive layer has naturally lower ratios (concise recognition notes). Quality = precision, not volume.
 
 ### Phase 3: Cross-Layer Consistency Check
 
@@ -195,15 +200,16 @@ For each layer, verify against its specific prompt:
 **CRITICAL (Blocks Publication):**
 - Missing files
 - Corrupted content
-- <50 lines in Commentary for standard sections
+- Byte ratio <0.5x in Commentary for standard sections (check `/protocol/byte_ratios.md`)
 - Empty blocks in Commentary
 - Wylie contamination in Literal
-- Major line-count mismatches
+- Major byte-count mismatches
 
 **MODERATE (Needs Fix):**
-- 61-99 lines in Commentary (short but usable)
-- 50-99 lines in Cognitive
-- Repetitive content in Commentary
+- Commentary byte ratio 0.5-0.7x (short but usable—verify qualitatively)
+- Cognitive byte ratio <0.25x on substantial content
+- Delusion byte ratio <0.3x on advanced Dzogchen material
+- Repetitive content (regardless of ratio)
 - Minor voice distinctiveness issues
 - Missing closing tags
 
@@ -211,6 +217,7 @@ For each layer, verify against its specific prompt:
 - Stylistic inconsistencies
 - Single word choice issues
 - Formatting micro-errors
+- Byte ratio outside range but qualitatively excellent
 
 ### Phase 5: Grade Assignment
 
@@ -323,22 +330,24 @@ File VV-CC-SS-SS.txt contains [brief content description].
 Before completing each assessment:
 
 1. ✅ **All files read:** Tibetan + 7 translation layers + exemplars.md
-2. ✅ **Line counts verified:** wc -l for each file
+2. ✅ **Byte ratios calculated:** Check against `/protocol/byte_ratios.md` targets
 3. ✅ **Exemplar comparison:** Matched against relevant exemplar in exemplars.md
 4. ✅ **Prompt alignment:** Each layer checked against its prompt
-5. ✅ **Critical issues flagged:** Missing files, corruption, severe under-length
+5. ✅ **Critical issues flagged:** Missing files, corruption, severe under-coverage
 6. ✅ **Cross-layer consistency:** Terminology and line ranges aligned
-7. ✅ **Grades assigned:** Using A++, A+, A, B+ scale
+7. ✅ **Grades assigned:** Using A++, A+, A, B+ scale (byte-based, quality priority)
 8. ✅ **Recommendations clear:** Specific actions for remediation
 
 ## CRITICAL BOUNDARIES
 
 - **NEVER** skip reading the Tibetan source
-- **NEVER** assume a layer is complete without checking line count
+- **NEVER** assume a layer is complete without checking byte ratio
+- **ALWAYS** reference `/protocol/byte_ratios.md` for layer-specific targets
 - **ALWAYS** check for empty blocks in Commentary
 - **ALWAYS** compare against exemplar standards
 - **NEVER** inflate grades—be honest about quality
 - **ALWAYS** document specific line numbers for issues
+- **REMEMBER:** Quality > Byte Ratio—excellent content outside ratio ranges still deserves high grades
 
 ## EXAMPLE OUTPUT STRUCTURE
 
@@ -354,10 +363,10 @@ Follow their format precisely.
 
 1. **Read all files** (Tibetan + 7 layers + exemplars.md)
 2. **Analyze layer by layer** against prompts
-3. **Check line counts** with wc -l
+3. **Calculate byte ratios** (layer bytes ÷ Tibetan bytes) and check against `/protocol/byte_ratios.md`
 4. **Verify exemplar alignment**
 5. **Identify issues** (critical/moderate/minor)
-6. **Assign grades**
+6. **Assign grades** (quality-first, byte ratios diagnostic only)
 7. **Write cross-layer consistency check**
 8. **Summarize findings**
 9. **Write to:** `/home/opencode/MDZOD/1/text/dynamic/assessment/VV-CC-SS-SS.txt`

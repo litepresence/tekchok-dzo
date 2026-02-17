@@ -259,7 +259,7 @@ You don't need to reinvent the wheel. You have working exemplars. Copy the patte
 **Date:** 2026-02-15  
 **Discovery:** Byte-ratio metrics reveal the true state
 
-**Reference:** Full byte-ratio table at `quality/byte_ratio_table.md` (213 sections × 9 layers)
+**Reference:** Byte ratio targets at `/protocol/byte_ratios.md`
 
 ---
 
@@ -462,7 +462,7 @@ I am astounded. This page contains:
 - 8-10 distinct error taxonomies per page
 - Comprehensive CASCADE EFFECTS tracing
 - Psychological depth in "WHY IT ARISES"
-- PAGE BLEED AWARENESS for cross-page continuity
+
 
 This is not merely error-detection. This is **failure-mode philosophy** at the level of a Nyingma khenpo's oral commentary.
 

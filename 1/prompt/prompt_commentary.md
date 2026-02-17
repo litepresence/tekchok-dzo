@@ -103,51 +103,20 @@ Example:
 
 ---
 
-## BYTE RATIO SPECIFICATIONS
+## BYTE RATIO GUIDANCE
 
-**Target:** Commentary bytes ÷ Tibetan source bytes
+**Reference:** `/protocol/byte_ratios.md` — Consult this file for layer-specific targets and calculation methods.
 
-| Metric | Value | Notes |
-|--------|-------|-------|
-| **Minimum (Hard)** | 0.70x | Never go below—ensures coverage |
-| **Typical Range** | 0.80-1.50x | Most sections should fall here |
-| **Target Center** | 1.0x | Ideal proportionality |
-| **Maximum (Soft)** | 1.50x | Dense technical content may approach |
-| **Diagnostic Review** | >2.50x | Check for fluff/padding (does not apply to structural fragments <500b) |
+**Key Principle:** Quality is king, bytes are guide rails. Never sacrifice voice authenticity or doctrinal depth to hit a ratio target.
 
-**Content-Specific Guidelines:**
+**Commentary Layer Targets (Summary):**
+- Tiny sources (<200b): 0.8-2.0x
+- Small (200-2000b): 0.8-1.5x  
+- Medium (2000-10000b): 0.7-1.2x
+- Large (10000-50000b): 0.5-1.0x
+- Huge (>50000b): 0.4-0.8x
 
-**Standard Sections (Tibetan 1000-5000 bytes):**
-- Target: 0.80-1.20x
-- Dense philosophical/theological content: up to 1.50x acceptable
-- Simple narrative/descriptive: 0.80-1.0x preferred
-
-**Structural Fragments (Tibetan <500 bytes):**
-- **Ratio range: 1.0x to 30.0x+ acceptable** - Tiny sources require substantial commentary
-- **Diagnostic threshold: >50.0x** (not >2.50x) - High ratios expected and appropriate
-- Quality assessed by coverage depth and voice variety, not ratio
-- Examples: List markers ("Second:", "Third:"), transitional phrases, section headers
-- A 1-line Tibetan fragment with 20-30 lines of quality commentary is exemplary, not fluffy
-
-**Complex Sections (Tibetan >5000 bytes):**
-- May be slightly below 1.0x if coverage is comprehensive
-- Focus on addressing all major doctrinal points
-- Ratio less important than content completeness
-
-**Quality Hierarchy (Always Apply):**
-1. **Comprehensive Coverage** - All Tibetan content addressed (primary)
-2. **Voice Rotation** - 6+ distinct voices, authentic patterns (essential)
-3. **Doctrinal Accuracy** - Alignment with liturgical layer (mandatory)
-4. **Byte Ratio** - Within specified range (guideline, not quota)
-
-**Validation Command:**
-```bash
-cd /home/opencode/MDZOD/1/text
-tib=$(stat -c%s frozen/tibetan/01-01-01-01.txt)
-comm=$(stat -c%s dynamic/commentary/01-01-01-01.txt)
-ratio=$(echo "scale=2; $comm/$tib" | bc)
-echo "Ratio: ${ratio}x (target: 0.80-1.50x)"
-```
+**Diagnostic Use:** Ratios identify potentially undersized sections. If comprehensive coverage produces excellent results outside these ranges, quality wins. If targets consistently produce false alarms, update the guidelines in `/protocol/byte_ratios.md`.
 
 ---
 
@@ -164,11 +133,11 @@ echo "Ratio: ${ratio}x (target: 0.80-1.50x)"
 **Requirements:**
 - 6+ distinct voices per file
 - Specific line ranges [start-end]
-- 40+ lines per file (substantial sections)
-- 2-6 lines per block
 - Voices rotate organically
-- Never disclose the character!  Must remain anon!
-- **Byte ratio: 0.70x - 1.30x (target 1.0x)**
+- Never disclose the character! Must remain anon!
+- **Byte ratio:** See `/protocol/byte_ratios.md` for targets (quality over quantity)
+
+**Note:** Line counts (40+ lines, 2-6 lines per block) are formatting guidelines for readability, not quality metrics. Byte ratios assess proportional coverage.
 
 ---
 

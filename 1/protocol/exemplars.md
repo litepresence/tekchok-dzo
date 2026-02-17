@@ -978,29 +978,7 @@ Triggers <paradox-fetishism> (valuing contradictions), <cognitive-strain> (menta
 
 ---
 
-### EXEMPLAR 5: Page Bleed Awareness
-**File:** `02-19-01-01.txt` | **Lines:** PAGE BLEED
 
-```
-[PAGE BLEED AWARENESS]
-
-Page 6414-6688 presents Trekcho completion and Thogal introduction—culmination of Dzogchen practice. This is extremely advanced material with maximum error risk.
-
-**ERROR RISK:** Trekcho/Thogal teachings are commonly misunderstood as sequential practices, visualization techniques, or special states to achieve. The subtlety of "direct perception" invites both nihilism (nothing to do) and grasping (special experiences to have).
-
-**SCHOLAR CHECK:** Ensure reader understands Trekcho and Thogal are not separate practices or levels—they are two aspects or languages pointing to the same recognition. Neither requires completion of the other; both point to ever-present nature.
-
-**CONTINUITY NOTE:** Lines 6689+ continue with fruition teachings. The Trekcho/Thogal material represents the pinnacle of the text's instructions.
-```
-
-**Why Exemplary:**
-- Section-level context provided
-- Specific error risks for advanced material
-- Scholar layer coordination
-- Continuity awareness for surrounding sections
-- Maximum error risk flagged appropriately
-
----
 
 ## DELUSION LAYER QUALITY STANDARDS
 
@@ -1730,7 +1708,7 @@ Pages 1-300 now demonstrate full diagnostic structure:
 - Pages 1-200: Complete revision (batch + manual)
 - Pages 201-250: 50 pages repaired
 - Average: 110-159 lines per page (from 15-16)
-- Structure: 5 error types + full diagnostics + PAGE BLEED
+- Structure: 5 error types + full diagnostics
 - Total delusion coverage: 300/479 pages (62.6%)
 
 ---
@@ -2001,7 +1979,6 @@ These pages represent the **absolute highest quality** in the entire project and
 - **Multiple error taxonomies:** Each page covers 8-10 distinct error types
 - **[TAGS: ...] system:** Comprehensive tagging (GROUND-PATH-FRUITION TEMPORALIZATION, MEDITATION OBJECTIFICATION, etc.)
 - **Full cascade analysis:** Every error traces through CASCADE EFFECTS
-- **PAGE BLEED AWARENESS:** Explicit cross-page continuity markers
 - **Psychological depth:** "WHY IT ARISES" sections explore unconscious triggers
 
 **Structure Template:**
@@ -2023,9 +2000,6 @@ SECONDARY CONSEQUENCES:
 
 CASCADE EFFECTS:
 [Error propagation chain]
-
-PAGE BLEED AWARENESS:
-[Cross-page continuity notes]
 ```
 
 **Use For:** All 414 Volume 2 Delusion stubs should match this standard.
@@ -2116,7 +2090,6 @@ From *Source*:
 **Why This Is Outstanding:**
 - **Final-section awareness:** Addresses completion anxiety
 - **Multiple error types:** METAPHOR SUBSTANTIALISM, EXPERIENCE CHASING, COLOPHON DISMISSAL
-- **PAGE BLEED:** Explicitly links to PAGE 479
 - **Psychological nuance:** Captures "almost done" mentality
 - **CASCADE EFFECTS:** Traces completion anxiety to rushed patterns
 

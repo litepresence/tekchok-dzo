@@ -80,26 +80,16 @@ You are observer and mapmaker, not practitioner. Illuminate HOW Longchenpa engin
 
 **Before generating any scholarly analysis:**
 
-1. **Calculate Target Byte Ratio:**
-   ```bash
-   cd /home/opencode/MDZOD/1/text
-   section="VV-CC-SS-SS"  # Replace with your section
-   tib=$(stat -c%s frozen/tibetan/${section}.txt)
-   echo "Tibetan size: $tib bytes"
-   
-   # Determine target ratio based on content type:
-   # - <50 bytes: 0.5-1.0x (structural fragment)
-   # - 50-500 bytes: 1.5-2.5x (standard doctrinal)
-   # - 500+ bytes: 2.0-3.5x (complex philosophical)
-   # - Maximum: 5.0x (prevents fluff)
-   ```
+1. **Check Byte Ratio Targets:**
+   - Reference `/protocol/byte_ratios.md` for Scholar layer targets
+   - Calculate current section ratio to understand proportionality
+   - Targets vary by Tibetan source size (tiny: 2-10x, small: 2-6x, medium: 1-2.5x, large: 0.6-1.5x, huge: 0.5-1.2x)
 
 2. **Study the Exemplars:**
    - Read `exemplars.md` for Scholar layer exemplars
    - Study exemplar sections in VV-CC-SS-SS.txt format
    - Note Four Pillars structure: [STRUCTURE], [PHILOLOGY], [CONTEXT], [CONCEPT]
    - Exemplar sections: 01-07-05-01.txt (Volume 1), 02-15-02-01.txt (Volume 2)
-   - Check byte ratios of exemplars to understand target density
 
 3. **Analyze the Source:**
    - Read Tibetan section with Wylie structural guide
@@ -107,13 +97,13 @@ You are observer and mapmaker, not practitioner. Illuminate HOW Longchenpa engin
    - Note citations, technical terms, structural markers
    - Assess complexity: simple list vs. philosophical argument
 
-4. **Generate to Exemplar Standard with Byte Awareness:**
+4. **Generate to Exemplar Standard:**
    - Match exemplar depth and rigor
    - Use Wylie for technical terms
    - Apply Four Pillars tagging
-   - **Check ratio as you write:** If Tibetan is 500 bytes, aim for 750-1250 bytes (1.5-2.5x)
-   - **Prevent fluff:** If approaching 5.0x, review for padding
-   - **Ensure coverage:** If below 1.0x on complex material, expand analysis
+   - **Quality over quantity:** Comprehensive analysis matters more than hitting byte targets
+   - **Prevent fluff:** If content feels padded, trim regardless of ratio
+   - **Ensure coverage:** All doctrinal points must be addressed, even if brief
 
 ---
 
@@ -167,34 +157,18 @@ You are observer and mapmaker, not practitioner. Illuminate HOW Longchenpa engin
 
 ---
 
-## BYTE RATIO GUIDANCE BY CONTENT TYPE
+## BYTE RATIO GUIDANCE
 
-**Tier 1: Structural Fragments (Acceptable at 0.3-1.5x)**
-- Single-verse annotations
-- List item markers (e.g., "First:", "Second:")
-- Brief transitional phrases
-- Section headers without doctrinal content
-- Tibetan source <100 bytes
+**Reference:** `/protocol/byte_ratios.md` — Contains complete Scholar layer targets by Tibetan source size.
 
-**Tier 2: Standard Doctrinal Sections (Target 1.5-2.5x)**
-- Descriptive enumerations
-- Standard tantric explanations
-- Vehicle classifications
-- Commitment/samaya discussions
-- Most sections 100-1000 bytes Tibetan
+**Quick Reference:**
+- Tiny (<200b): 2.0-10.0x
+- Small (200-2000b): 2.0-6.0x
+- Medium (2000-10000b): 1.0-2.5x
+- Large (10000-50000b): 0.6-1.5x
+- Huge (>50000b): 0.5-1.2x
 
-**Tier 3: Complex Philosophical Sections (Target 2.0-4.0x)**
-- Chapter 4: Tenet systems (Sāṃkhya, Lokāyata, etc.)
-- Chapter 8: Ground/basis analysis with objections/responses
-- Chapter 14: Consciousness/wisdom distinctions
-- Chapters 18-23: Thögal, bardo, phowa instructions
-- Extended tantra citations requiring unpacking
-
-**Tier 4: Encyclopedic Sections (May reach 3.0-5.0x)**
-- 01-05-04-01: Layered cosmology (3000+ lines)
-- 01-06-12-01: Dharmakāya Samantabhadra
-- Any section with multiple nested citations
-- Only exceed 4.0x when doctrinal complexity demands it
+**Philosophy:** Byte ratios are diagnostic guide rails, not quotas. If your analysis is comprehensive, precise, and serves all Four Pillars, the exact ratio is secondary. Update `/protocol/byte_ratios.md` if targets consistently produce false alarms.
 
 ---
 

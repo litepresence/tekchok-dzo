@@ -217,6 +217,21 @@ All cognitive layer generation must reference:
 
 ===
 
+## BYTE RATIO GUIDANCE
+
+**Reference:** `/protocol/byte_ratios.md` — Contains complete Cognitive layer targets.
+
+**Quick Reference:**
+- Tiny (<200b): 0.4-1.0x
+- Small (200-2000b): 0.4-0.7x
+- Medium (2000-10000b): 0.3-0.6x
+- Large (10000-50000b): 0.25-0.5x
+- Huge (>50000b): 0.2-0.4x
+
+**Note:** Cognitive layer has the lowest ratios because it is concise recognition notes, not expansive analysis. Quality is measured by precision of recognition, not volume.
+
+---
+
 ## QUALITY VERIFICATION
 
 Before completing each section:

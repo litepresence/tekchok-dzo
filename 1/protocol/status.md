@@ -365,7 +365,7 @@ The architecture supports MASSIVE depth. The prompts provide guidance for achiev
 
 **Previous metrics were misleading.** File counts and raw line counts don't tell the truth. The correct metric is comparing dynamic layer byte counts to Tibetan source byte counts per section.
 
-**Reference:** Full byte-ratio table available at `quality/byte_ratio_table.md`
+**Reference:** Byte ratio targets at `/protocol/byte_ratios.md`
 
 ### Target Byte Ratios for A++ Quality
 
@@ -434,7 +434,7 @@ done
 
 **Status Document Version:** 7.0  
 **Last Updated:** 2026-02-15  
-**Key Change:** Byte-ratio metrics now used (see quality/byte_ratio_table.md)
+**Key Change:** Byte-ratio metrics now used (see `/protocol/byte_ratios.md`)
 
 ---
 

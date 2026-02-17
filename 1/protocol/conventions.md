@@ -209,17 +209,6 @@ The Agent must perform a "Quality Control Sweep." You will move through the volu
 Do **not** attempt to edit all layers of a page at once. Focus your effort on the single weakest layer per page iteration to maximize overall quality improvement efficiency. Continue sweeping through the pages until the draft meets the standards defined in the layer prompts.
 
 
-### IMPORTANT NOTE ON PAGE BLEED: 
-
-In subsequent LLM drafts it will become increasingly important to pay attention to how themes span multiple pages so the phrases are translated correctly. Thus in all subsequent draft revisions:
-
-Due to Page Bleed, lookahead of ±1 page is **required** when:
-
-- A sentence is syntactically incomplete
-- A negation or reversal appears (de yang, yang na, cig car du ma yin patterns)
-
-Lookahead is **requisite** not advisory!
-
 ===
 
 # THE LAYERS

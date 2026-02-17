@@ -108,33 +108,25 @@ Risk flags must specify exact doctrinal tension:
 
 ---
 
-### DIAGNOSTIC BYTE RATIOS (Epistemic Layer - Minimal but Specific)
+### Byte Ratio Guidance
 
-**⚠️ EPISTEMIC LAYER IS VIEW CLASSIFICATION, NOT COMMENTARY**
+**Reference:** `/protocol/byte_ratios.md` — Contains complete Epistemic layer targets.
 
-This layer provides concise view-stratification with precise terminology. Expected ratios are LOWER than commentary/scholar layers due to focused classification format.
+**Key Point:** Epistemic layer ratios are naturally LOWER than other layers because this is classification, not explanation. A file at 0.08x with all view distinctions precisely marked = A++. A file at 0.6x with generic content = C.
 
-| Indicator | Ratio | Check This |
-|-----------|-------|------------|
-| **INCOMPLETE Warning** | <0.05x on material >50KB | Are major doctrinal points unclassified? |
-| **INCOMPLETE Check** | <0.1x on material 10-50KB | Are view distinctions missing? |
-| **FLUFF Warning** | >0.8x | Is content padded with generic phrases? |
-| **Healthy Range** | 0.05-0.4x | Verify Six Criteria above are met |
-
-**Layer-Specific Guidance:**
-- **Trekcho/Thogal, Bardo, Phowa sections:** 0.05-0.15x (highly technical, concise classification)
-- **Doxography, philosophical analysis:** 0.1-0.25x (view distinctions clearly marked)
-- **Tantric physiology, channels/winds:** 0.08-0.2x (technical classification)
-- **Structural markers, brief sections:** 0.2-0.8x (proportional to content)
+**Quick Reference:**
+- Tiny (<200b): 1.0-10.0x
+- Small (200-2000b): 0.5-2.0x
+- Medium (2000-10000b): 0.2-1.0x
+- Large (10000-50000b): 0.1-0.5x
+- Huge (>50000b): 0.05-0.3x
 
 **⚠️ CRITICAL PRINCIPLES:**
 - **Epistemic layer = classification, not explanation**
 - **A++ Quality = comprehensive coverage + precision, not byte count**
-- A file at 0.08x with all view distinctions precisely marked = A++
-- A file at 0.6x with generic content = C (regardless of ratio)
 - **Qualitative criteria ALWAYS override quantitative metrics**
 
-**Quality Checklist (NOT byte targets):**
+**Quality Checklist (Primary):**
 - [ ] Every major doctrinal shift classified?
 - [ ] View registers precise (dzogchen-rigpa, tantric-transformative, sutric-provisional)?
 - [ ] Risk flags specific and contextualized?
