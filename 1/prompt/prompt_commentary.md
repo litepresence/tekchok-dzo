@@ -9,6 +9,15 @@
 
 ---
 
+## FIRST:
+
+**Commentary quality depends on voice rotation.** see `protocol/metaphor.md` `protocol/voices.md` and `contents/voice_contents.md` 
+
+Single voice = C/D grade for large sections. 
+6+ voices rotating = A grade.  
+voice_contents.md + metaphor.md requirements matches chapter = A++.
+
+
 ## CRITICAL PURPOSE: RESONATING, NOT FORCING
 
 **The Commentary Layer serves transmission by:**
@@ -416,6 +425,14 @@ All commentary generation must reference:
 - **`../contents/voice_contents.md`** - when to emphasize certain voices by chapter
 
 ---
+
+### REMEMBER!!!
+
+**Commentary quality depends on voice rotation.** see `protocol/metaphor.md` `protocol/voices.md` and `contents/voice_contents.md` 
+
+Single voice = C/D grade for large sections. 
+6+ voices rotating = A grade.  
+voice_contents.md + metaphor.md requirements matches chapter = A++.
 
 **Copyleft 2026:** Amid all this apparent happening, nothing has happened.
 
