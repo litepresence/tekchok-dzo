@@ -264,7 +264,7 @@ Before completing assessment:
 
 3. **Tiny fragments (<200 bytes) are acceptable with high ratios.** 20-30x ratios on list markers/structural elements are appropriate.
 
-4. **Commentary quality depends on voice rotation.** see `protocol/voices.md` and `contents/voice_contents.md` Single voice = C/D grade for large sections. 6+ voices rotating = A/A+ grade.  voice_contents.md requirements matches chapter = A++.
+4. **Commentary quality depends on voice rotation.** see `protocol/metaphor.md` `protocol/voices.md` and `contents/voice_contents.md` Single voice = C/D grade for large sections. 6+ voices rotating = A/A+ grade.  voice_contents.md requirements matches chapter = A++.
 
 5. **Delusion layer requires cascade chains.** Individual error blocks without propagation analysis = B grade max. 4-5 level cascades = A/A+ grade.
 
