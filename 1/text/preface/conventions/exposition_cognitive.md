@@ -150,3 +150,45 @@ It represents modern accountability applied to ancient wisdom.
 
 All translation and commentary layers were generated using Kimi K2.5 over three weeks with extensive human prompting and curation by one practitioner.
 
+**Process:**
+1. Tibetan text sections analyzed for internal translator recognition
+2. AI-generated cognitive documentation
+3. Human verification of translation-critical recognitions
+4. Curation of most significant preparatory notes
+5. Final selection for publication
+
+**What the AI Did:**
+- Generated internal recognition notes across 213 sections
+- Documented structural and register awareness
+- Flagged preservation requirements
+- Maintained confident, non-didactic tone
+
+**What the Human Did:**
+- Designed the cognitive documentation approach
+- Verified recognition of key doctrinal structures
+- Directed attention to translation-critical moments
+- Curated which recognitions to document
+- Made final editorial judgments
+
+**Result:**
+AI-generated process documentation, human-curated. One documentation approach among many possible.
+
+**Use it as:** Translation process transparency, study aid, methodological insight
+**Not as:** Definitive documentation, substitute for teacher guidance, traditional Lotsawa notes
+
+## How to Read This Layer
+
+**For Students of Translation**
+
+This layer reveals:
+- What must be recognized before rendering
+- How understanding prepares articulation
+- The pre-verbal space of comprehension
+
+**For Practitioners**
+
+Not essential for practice. Use if interested in translation methodology.
+
+**For Scholars**
+
+Provides unique insight into translation preparation and cognitive processing.

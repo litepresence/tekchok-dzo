@@ -1,6 +1,6 @@
 # Editorial Conventions: Scholar Layer
 
-## What This Layer Does
+## What Is the Scholar Layer?
 
 The Scholar Layer is *mkhas pa'i dpyod pa*—the analytical apparatus of the competent scholar. It maps textual architecture, analyzes grammar, situates doxography, and delineates concepts without collapsing into practice instruction or devotional language. This is scholarship in service of understanding, not scholarship claiming definitive authority.
 
@@ -159,4 +159,3 @@ Read alongside Commentary to:
 - Distinguish Nyingma view (one doxography)
 
 Remember: Analysis supports practice but does not replace teacher guidance.
-

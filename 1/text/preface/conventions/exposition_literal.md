@@ -105,3 +105,47 @@ The Liturgical Layer transforms Literal's grammatical precision into elegant, re
 ## Methodology Note
 
 All translation and commentary layers were generated using Kimi K2.5 over three weeks with extensive human prompting and curation by one practitioner.
+
+**Process:**
+1. Tibetan text analyzed for grammatical structure
+2. AI-generated 1:1 grammatical mapping
+3. Human verification of syntactic accuracy
+4. Refinement of particle representations
+5. Final selection for publication
+
+**What the AI Did:**
+- Generated grammatical mappings across 213 sections
+- Preserved Tibetan word order
+- Represented all particles explicitly
+- Maintained mechanical, non-interpretive tone
+
+**What the Human Did:**
+- Designed grammatical mapping conventions
+- Verified accuracy of key syntactic structures
+- Directed particle representation choices
+- Curated which mappings to preserve
+- Made final editorial judgments
+
+**Result:**
+AI-generated grammatical mapping, human-curated. One mapping among many possible. Not definitive.
+
+**Use it as:** Grammatical reference, translation scaffold, syntactic analysis
+**Not as:** Elegant translation, definitive grammar, reading text
+
+## How to Read This Layer
+
+**For Students of Tibetan**
+
+Use this layer to:
+- Understand Tibetan grammar in action
+- See how particles function
+- Learn syntactic structures
+- Build translation skills
+
+**For Practitioners**
+
+Not for daily reading. Use as reference when studying Tibetan.
+
+**For Scholars**
+
+Provides precise grammatical data for philological analysis.

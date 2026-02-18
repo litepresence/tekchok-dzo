@@ -132,6 +132,32 @@ Use as the reading text for:
 
 All translation and commentary layers were generated using Kimi K2.5 over three weeks with extensive human prompting and curation by one practitioner.
 
+**Process:**
+1. Literal Layer analyzed as grammatical foundation
+2. AI-generated elegant rendering preserving metaphysical precision
+3. Human verification of Dzogchen view accuracy
+4. Refinement of vajra speech qualities
+5. Final selection for publication
+
+**What the AI Did:**
+- Generated liturgical renderings across 213 sections
+- Balanced elegance with metaphysical precision
+- Maintained vajra speech cadence
+- Applied consistent capitalization standards
+
+**What the Human Did:**
+- Designed liturgical voice parameters
+- Verified metaphysical accuracy of key passages
+- Directed elegance-precision balance
+- Curated which renderings to preserve
+- Made final editorial judgments
+
+**Result:**
+AI-generated liturgical translation, human-curated. One rendering among many possible. Not definitive.
+
+**Use it as:** Primary reading text, practice support, transmission aid
+**Not as:** Definitive translation, substitute for teacher guidance, peer-reviewed academic work
+
 ## Editorial Standards
 
 - Metaphysically precise
@@ -139,4 +165,3 @@ All translation and commentary layers were generated using Kimi K2.5 over three 
 - No explanatory footnotes
 - No scholarly apparatus
 - Pure text only
-

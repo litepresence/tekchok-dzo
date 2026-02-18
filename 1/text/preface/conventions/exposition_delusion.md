@@ -1,6 +1,6 @@
 # Editorial Conventions: Delusion Layer
 
-## What This Layer Does
+## What Is the Delusion Layer?
 
 The Delusion Layer is *log pa spang ba'i srung skyob*—protection through abandoning error. It identifies where readers go wrong, why those errors are attractive, and how they propagate downstream. This is a diagnostic system, not a corrective teaching. The layer is stark because errors are stark. Wrong view in Dzogchen blocks liberation. We do not soften the language because the consequences are real.
 
@@ -153,4 +153,3 @@ This maps common errors. Use it to:
 - Protect your practice
 
 **Not as:** The only possible errors. Other misreadings exist.
-

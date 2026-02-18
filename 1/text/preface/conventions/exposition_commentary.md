@@ -170,3 +170,27 @@ The voices represent stylized channeling of historical masters, not their actual
 **Use it as:** Support for understanding, one perspective among many, study aid
 **Not as:** Historical master's actual words, substitute for teacher guidance, definitive authority
 
+## How to Read This Layer
+
+**For Practice**
+
+Read alongside the Liturgical text:
+- Receive the transmission through Liturgical
+- Understand what you received through Commentary
+- Return to Liturgical with recognition
+
+**For Study**
+
+Use this layer to:
+- Understand difficult passages
+- Recognize multiple perspectives on the same pointing
+- See how the lineage speaks
+- Deepen your connection to the text
+
+**For Teaching**
+
+Use as:
+- Source material for explanations
+- Examples of different teaching styles
+- Support for oral commentary
+- Inspiration for pointing-out instructions

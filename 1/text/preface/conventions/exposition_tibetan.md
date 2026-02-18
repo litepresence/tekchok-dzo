@@ -71,7 +71,7 @@ layers, the Tibetan Layer remains:
 
 **For Translators**
 
-This is your source. Every interpretion ultimately bows to the Tibetan Layer.
+This is your source. Every interpretation ultimately bows to the Tibetan Layer.
 
 ## Relationship to Other Layers
 
@@ -85,3 +85,22 @@ No English layer can override the Tibetan. Where questions arise, return to this
 
 In creating this layer, we have followed the traditional Tibetan editorial principle: *Tshad mar byas*—establishing valid cognition. The Tibetan Layer is not our interpretation of Longchenpa; it is Longchenpa's words themselves, preserved and presented with fidelity.
 
+## Methodology Note
+
+The Tibetan Layer was extracted from BDRC sources and formatted for this publication.
+
+**Source:**
+- BDRC UT22920_005_0001_bo,sa,zh.txt
+- BDRC UT22920_005_0002_bo,sa,zh.txt
+- BDRC "BEST QUALITY" designation
+
+**What Was Done:**
+- Spaces converted to line breaks
+- Line numbers added for cross-reference
+- UTF-8 encoding verified
+
+**Result:**
+BDRC-sourced Tibetan text, formatted for publication. The authoritative source for all translations.
+
+**Use it as:** Sacred source, ultimate authority, philological foundation
+**Not as:** Interpretation, translation, or commentary

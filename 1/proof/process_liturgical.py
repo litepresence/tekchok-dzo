@@ -3,6 +3,11 @@
 Liturgical Batch Parser
 Parses all matching files in 'liturgical/' folder and outputs a single 
 combined HTML file optimized for PDF rendering.
+
+Updates:
+- Consecutive tags of the same type are now joined into single blocks.
+- Prose sections join with spaces; all other sections join with <br> to maintain line breaks.
+- Line spacing and margins reduced for tighter PDF layout.
 """
 
 import os
@@ -44,7 +49,7 @@ HTML_CSS = """
         --color-muted: #666;
         --color-accent: #8b4513;
         --color-mantra: #8b0000;
-        --line-height: 1.5;
+        --line-height: 1.3; /* Reduced from 1.5 */
     }
 
     * {
@@ -71,8 +76,8 @@ HTML_CSS = """
 
     /* File separators for organization */
     .file-separator {
-        margin-top: 3em;
-        margin-bottom: 1.5em;
+        margin-top: 2em; /* Reduced from 3em */
+        margin-bottom: 1em; /* Reduced from 1.5em */
         padding-top: 1em;
         border-top: 1px solid #ddd;
         text-align: center;
@@ -87,7 +92,7 @@ HTML_CSS = """
     .prose {
         display: block;
         margin-top: 0;
-        margin-bottom: 0;
+        margin-bottom: 0.5em; /* Added space between paragraphs */
         text-align: justify;
         hyphens: auto;
         -webkit-hyphens: auto;
@@ -102,14 +107,14 @@ HTML_CSS = """
         display: block;
         text-align: center;
         font-style: italic;
-        margin: 1em 0;
+        margin: 0.4em 0; /* Reduced from 1em */
         color: #333;
         page-break-inside: avoid;
     }
 
     .tantra {
         display: block;
-        margin: 0.5em 0;
+        margin: 0.2em 0; /* Reduced from 0.5em */
         padding-left: 1.5em;
         border-left: 2px solid var(--color-accent);
         color: #4a3728;
@@ -123,7 +128,7 @@ HTML_CSS = """
         font-variant: small-caps;
         font-weight: bold;
         color: var(--color-accent);
-        margin: 2em 0 1em 0;
+        margin: 1.5em 0 0.8em 0; /* Reduced */
         letter-spacing: 1.5px;
         font-size: 1.05em;
         page-break-after: avoid;
@@ -141,8 +146,8 @@ HTML_CSS = """
         display: list-item;
         list-style-type: disc;
         margin-left: 1.5em;
-        margin-top: 0.2em;
-        margin-bottom: 0.2em;
+        margin-top: 0.1em; /* Reduced */
+        margin-bottom: 0.1em; /* Reduced */
     }
 
     .verse-marker {
@@ -155,20 +160,20 @@ HTML_CSS = """
 
     /* Table of Contents */
     .toc {
-        margin-bottom: 3em;
+        margin-bottom: 2em; /* Reduced */
         page-break-after: always;
     }
     .toc h1 {
         text-align: center;
         font-variant: small-caps;
-        margin-bottom: 1.5em;
+        margin-bottom: 1em; /* Reduced */
     }
     .toc ul {
         list-style: none;
         padding-left: 0;
     }
     .toc li {
-        margin-bottom: 0.5em;
+        margin-bottom: 0.3em; /* Reduced */
         color: var(--color-accent);
     }
     .toc a {
@@ -222,17 +227,54 @@ def parse_line(raw_line):
     }
 
 def generate_file_html(parsed_lines, filename):
-    """Generates HTML content for a single file."""
+    """Generates HTML content for a single file.
+    
+    Updates: Groups consecutive lines with the same tag and no break 
+    into single HTML elements. Prose joins with spaces; others join with <br>.
+    """
     html_parts = []
     
     # File separator header
     file_title = filename.replace('.txt', '').replace('-', ' ')
     html_parts.append(f'<div class="file-separator" id="file-{filename.replace(".txt", "")}">{file_title}</div>')
 
+    # --- Grouping Logic for Consecutive Tags ---
+    groups = []
+    current_group = None
+
     for item in parsed_lines:
         if not item:
             continue
 
+        can_merge = False
+        if current_group:
+            # Merge if same tag, and neither the existing group nor the new item 
+            # forces a break (paragraph start)
+            if (item['tag'] == current_group['tag'] and 
+                not current_group['is_break'] and 
+                not item['is_break']):
+                can_merge = True
+
+        if can_merge:
+            # Append content based on tag type
+            if item['tag'] == 'prose':
+                # Prose flows naturally with spaces
+                current_group['content'] += " " + item['content']
+            else:
+                # Other tags (verse, tantra, etc.) maintain visual line breaks
+                current_group['content'] += "<br>" + item['content']
+        else:
+            # Save previous group and start new one
+            if current_group:
+                groups.append(current_group)
+            current_group = item.copy()
+
+    # Don't forget the last group
+    if current_group:
+        groups.append(current_group)
+    # -------------------------------------------
+
+    for item in groups:
         tag = item['tag']
         content = item['content']
         is_break = item['is_break']

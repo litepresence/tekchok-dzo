@@ -150,3 +150,54 @@ Use to:
 ## Methodology Note
 
 All translation and commentary layers were generated using Kimi K2.5 over three weeks with extensive human prompting and curation by one practitioner.
+
+**Process:**
+1. Tibetan text analyzed for view classification and register shifts
+2. AI-generated epistemic tagging and risk assessment
+3. Human verification of view stratification accuracy
+4. Curation of most significant register boundaries
+5. Final selection for publication
+
+**What the AI Did:**
+- Generated view classifications across 213 sections
+- Identified pedagogical functions and risk flags
+- Mapped register shifts and transitions
+- Maintained neutral analytical tone
+
+**What the Human Did:**
+- Designed view taxonomy and tag system
+- Verified doctrinal accuracy of classifications
+- Directed analysis toward critical passages
+- Curated which stratifications to emphasize
+- Made final editorial judgments
+
+**Result:**
+AI-generated view mapping, human-curated. One mapping among many possible. Not definitive.
+
+**Use it as:** Hermeneutical guide, study aid, analytical support
+**Not as:** Definitive classification, substitute for teacher guidance, peer-reviewed academic work
+
+## How to Read This Layer
+
+**For Scholars**
+
+The Epistemic Layer reveals Longchenpa's hermeneutical sophistication:
+- How he employs different views strategically
+- Where he shifts registers
+- How provisional and definitive teachings interrelate
+
+**For Practitioners**
+
+This layer guards against:
+- Taking every statement literally
+- Confusing different levels of teaching
+- Reifying descriptions of awareness
+- Missing the pointing because of the finger
+
+**For Teachers**
+
+Use to:
+- Clarify when Longchenpa is teaching vs. negating
+- Distinguish upaya from ultimate truth
+- Prevent student confusion about view levels
+- Navigate complex hermeneutical passages

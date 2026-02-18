@@ -81,5 +81,21 @@ Wylie enables:
 
 Most Western practitioners will not need this layer unless they are studying Tibetan language. For Dharma practice, see the Liturgical and Commentary layers.
 
+## Methodology Note
 
+The Wylie Layer was generated using **pyewts** (Python Extended Wylie Transliteration System), which provides 99% accurate mechanical transliteration. The Wylie Layer was then lightly polished by Kimi K2.5 in context.
 
+**What the AI Did:**
+- Contextual polishing of mechanical output
+- Consistency verification across 213 sections
+
+**What the Human Did:**
+- Software selection and configuration
+- Quality verification of sample sections
+- Final editorial review
+
+**Result:**
+Mechanically generated Wylie transliteration, AI-polished in context, human-reviewed. One transliteration among many possible.
+
+**Use it as:** Reference tool, parsing aid, technical resource
+**Not as:** Phonetic guide, definitive transliteration, pronunciation authority
