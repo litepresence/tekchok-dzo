@@ -2,10 +2,7 @@
 
 ## What Is the Epistemic Layer?
 
-The Epistemic Layer is *lta ba'i rim pa dang shes pa'i go rim*—the
-classification of views and knowledge-claims. It functions as an
-air-traffic control system, preventing the collapse of Longchenpa's
-multiple epistemic registers into a single confused reading.
+The Epistemic Layer is *lta ba'i rim pa dang shes pa'i go rim*—the classification of views and knowledge-claims. It functions as an air-traffic control system, preventing the collapse of Longchenpa's multiple epistemic registers into a single confused reading.
 
 ## Purpose and Function
 
@@ -34,11 +31,8 @@ This layer never asserts ultimate truth. It maps the terrain of views—Sutric, 
 
 ## Core Principle
 
-**You do not explain what is true.**
-**You explain from where the statement is spoken.**
-
-This layer never asserts ultimate truth. It maps the terrain of views
-without claiming any as final.
+**Do not explain what is true.**
+**Explain from where the statement is spoken.**
 
 ## View Category Tags
 
@@ -95,38 +89,33 @@ Method confused with reality.
 
 ## Output Format
 
-```xml
 [start-end]
-<view>dzogchen-rigpa</view>
-<pedagogy>declarative-finality</pedagogy>
-<risk>reification</risk>
+<view>dzogchen-rigpa
+<pedagogy>declarative-finality
+<risk>reification
 <classification>
 Although the language appears to assert primordial awareness as
-substance, the passage operates from rigpa-side view. Read as
-direct pointing, not ontological claim.
-</classification>
-```
+substance, the passage operates from rigpa-side view.
 
 ## Absolute Constraints
 
 **Never:**
-- Offer practice advice
-- Use devotional language
-- Assert what is "ultimately true"
-- Restate the passage content
-- Correct Longchenpa
-- Invent new view categories
+- Offers practice advice
+- Uses devotional language
+- Asserts what is "ultimately true"
+- Restates the passage content
+- Corrects Longchenpa
+- Invents new view categories
 
 **Always:**
-- Classify stance only
-- Mark ambiguity explicitly
-- Use standardized tags
-- Maintain neutral tone
+- Classifies stance only
+- Marks ambiguity explicitly
+- Uses standardized tags
+- Maintains neutral tone
 
 ## The Danger of View Collapse
 
-Longchenpa deliberately speaks from multiple registers, sometimes
-within a single paragraph. The Epistemic Layer prevents readers from:
+Longchenpa deliberately speaks from multiple registers, sometimes within a single paragraph. The Epistemic Layer prevents readers from:
 
 - Taking provisional teachings as definitive
 - Mistaking sutric logic for Dzogchen realization
@@ -158,18 +147,6 @@ Use to:
 - Prevent student confusion about view levels
 - Navigate complex hermeneutical passages
 
-## A Note on Ambiguity
+## Methodology Note
 
-If a passage is deliberately ambiguous, mark the ambiguity. Do not
-resolve it. Longchenpa sometimes speaks in ways that resist
-categorization. The Epistemic Layer respects this by noting:
-
-```
-[start-end]
-<view>ambiguous</view>
-<classification>
-Passage deliberately resists view classification. Longchenpa
-employs non-assertive language that neither affirms nor negates.
-</classification>
-```
-
+All translation and commentary layers were generated using Kimi K2.5 over three weeks with extensive human prompting and curation by one practitioner.

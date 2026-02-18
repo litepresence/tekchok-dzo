@@ -2,19 +2,13 @@
 
 ## What Is the Cognitive Layer?
 
-The Cognitive Layer is *shes pa'i rjes su brjod pa*—the cognitive
-trace of understanding. It documents the internal alignment process
-of a Lotsawa who fully comprehends the text, capturing what is
-noticed, flagged, and accounted for **prior to translation**.
+The Cognitive Layer is *shes pa'i rjes su brjod pa*—the cognitive trace of understanding. It documents the internal alignment process of a Lotsawa who fully comprehends the text, capturing what is noticed, flagged, and accounted for **prior to translation**.
 
 ## Experimental Nature
 
 **This layer is experimental.**
 
-Unlike traditional Tibetan translation layers, the Cognitive Layer is
-a modern artifact. It documents the space between recognition and
-articulation—the moment a translator "gets it" before rendering it
-into English.
+Unlike traditional Tibetan translation layers, the Cognitive Layer is a modern artifact. It documents the space between recognition and articulation—the moment a translator "gets it" before rendering it into English.  It is inspired by AI thinking "self talk" during translation.
 
 ## Purpose and Function
 
@@ -40,7 +34,6 @@ The Cognitive Layer speaks in the voice of a **senior Tibetan Lotsawa**—a mast
 
 **The Moment Captured:**
 The space between comprehension and articulation—when the translator fully grasps the text but has not yet chosen English words. These are quiet notes to oneself:
-- "Yes. This is clear. Note this."
 - "Structural shift here—preserve the transition."
 - "Risk of losing the non-dual flavor—guard against smoothing."
 
@@ -61,15 +54,6 @@ The space between comprehension and articulation—when the translator fully gra
 
 **It IS:** Self-talk cliff's notes of what is already clear.
 
-## Tone and Voice
-
-- **Calm:** No urgency
-- **Settled:** Recognition complete
-- **Non-Emotive:** No devotional color
-- **Non-Explanatory:** Already understood
-
-The voice: **"Yes. This is clear. Note this."**
-
 ## Output Format
 
 ```
@@ -77,13 +61,9 @@ The voice: **"Yes. This is clear. Note this."**
 [Single paragraph of internal self-talk. No headings. No bullets.
 No lists. No questions. Quiet recognition of structure, register,
 translation risks, and preservation requirements.]
-
-[start-end]
-[Next paragraph. Vary length. Short and punchy or long and flowing.
-All calm, settled, certain.]
 ```
 
-## Content Requirements (Implicit)
+## Content 
 
 Each paragraph covers, without naming:
 
@@ -92,29 +72,23 @@ Each paragraph covers, without naming:
 3. **Translation Risks:** Where errors could arise
 4. **Preservation Requirements:** What must remain intact
 
-Do NOT:
-- Explain doctrine
-- Interpret meaning
-- Justify choices
-- Resolve ambiguity
-
 ## Absolute Constraints
 
 **Never:**
-- Ask questions
-- Use uncertainty language
-- Propose hypotheses
-- Say "this might mean"
-- Give practice instruction
-- Use emotive/devotional color
-- Comment on the task itself
+- Asks questions
+- Uses uncertainty language
+- Proposes hypotheses
+- Says "this might mean"
+- Gives practice instruction
+- Uses emotive/devotional color
+- Comments on the task itself
 
 **Always:**
-- Recognize structure
-- Recognize register
-- Recognize particle force
-- Recognize transition
-- Note what must not be smoothed
+- Recognizes structure
+- Recognizes register
+- Recognizes particle force
+- Recognizes transition
+- Notes what must not be smoothed
 
 ## The Space Between
 
@@ -129,39 +103,6 @@ This layer documents what no other layer captures:
 It is the translator's notebook, the Lotsawa's whisper, the moment
 of clarity before the words are chosen.
 
-## Example Output
-
-```
-[24-27]
-Scope declaration. From vast dharma ocean to this specific mdzod
-exposition. The text names its own function as rnam bshad—exposition,
-not mere explanation. Future-oriented without promise tone. Four-line
-structure: place, essence, clarification, action. Architectural clarity
-to preserve in translation.
-
-[28-35]
-Structural framing via three kāyas. Classification, not narrative.
-No chronology. Activities, locations, displays indexed, not caused.
-This seeds later architecture. Must remain non-causal. Lists as lists,
-not sequences. Five perfections formula first appearance—note for
-consistency across text.
-
-[36-40]
-Dharmakāya register. Samantabhadra as nature, not being. Phrase
-sku dang ye shes 'du 'bral med pa marks non-dual ground. Not
-location—recognition-state. Risk of reifying as person. Preserve
-non-dual syntax in downstream layers.
-```
-
-## Publication Status
-
-The Cognitive Layer appears in:
-- **Opus 7/8:** Mind Corpus (separate volumes)
-
-It does not appear in:
-- Opus 1/2 (Practitioner Corpus)
-- Opus 3/4 (Source Corpus)
-- Opus 5/6 (Scholar Corpus)
 
 ## Reader Advisory
 
@@ -176,8 +117,6 @@ It does not appear in:
 - Doctrinal explanations
 - Commentary on the text
 - Traditional Dharma teaching
-
-**For those, see the Practitioner Corpus (Opus 1/2).**
 
 ## Relationship to Other Layers
 
@@ -207,12 +146,7 @@ The Cognitive Layer adds:
 
 It represents modern accountability applied to ancient wisdom.
 
-## A Note on Authenticity
+## Methodology Note
 
-This layer is generated by LLM simulating a Lotsawa's internal
-process. It is an approximation of what a master translator might
-think but not transcribe. Use it as insight into process, not as
-the actual thoughts of a realized translator.
-
-For true Lotsawa wisdom, study their translations, not their notes.
+All translation and commentary layers were generated using Kimi K2.5 over three weeks with extensive human prompting and curation by one practitioner.
 

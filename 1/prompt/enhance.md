@@ -8,6 +8,7 @@ A) If content is verbose or full of fluff, condense to its most meaningful essen
 B) If the Tibetan source is not fully covered, incorporate the most important missing content.  
 C) If phrasing can better serve the reader's understanding, reword for clarity and utility.  
 D) If content already meets A++ standards, proceed without modification—do not force unnecessary changes.
+E) NEVER update the QC.md document.  
 
 **Mandatory Requirements**
 
@@ -37,7 +38,7 @@ D) If content already meets A++ standards, proceed without modification—do not
 
 4. **Review Existing Files**  
 
-   - Read QUALITATIVE_QC.md and find the worst sections in your `<LAYER>`
+   - Read QC.md and find the worst sections in your `<LAYER>`
 
 5. **Source Verification**  
    Examine current content against root sources:  
@@ -66,7 +67,7 @@ D) If content already meets A++ standards, proceed without modification—do not
     Do not concern yourself with time limitations. The system operates on high-power infrastructure enabling rapid processing without quality compromise. Focus solely on producing exemplary work.
 
 10. **Final Reporting**  
-    Complete a FULL QUALITATIVE_QC.md report upon finishing all sections. Focus on qualitative assessment—do not substitute statistical analysis for substantive evaluation.
+    Complete a FULL QC.md report upon finishing all sections. Focus on qualitative assessment—do not substitute statistical analysis for substantive evaluation.
 
 11. **Exemplar Updates**  
     After completing all enhancements, review `exemplars.md` and update the "best of the best" section if your work has produced content exceeding current benchmarks.
@@ -92,4 +93,4 @@ D) If content already meets A++ standards, proceed without modification—do not
 
     - Many of the files may already be high quality.   
     - Your primary job is to find those that are weak and improve them.  
-    - Work on the weakest files first!  READ QUALITATIVE_QC.md, it gets updated frequently!
+    - Work on the weakest files first!  READ QC.md, it gets updated frequently!
