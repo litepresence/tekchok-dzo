@@ -35,17 +35,17 @@ This assessment provides comprehensive qualitative analysis of all 1,491 files (
 
 | Color | Grade | Count | Percentage | Assessment |
 |-------|-------|-------|------------|------------|
-| 🔵 | **A++** | 675 | 45.3% | Exemplary: Meets all criteria plus exceeds standards |
+| 🔵 | **A++** | 679 | 45.5% | Exemplary: Meets all criteria plus exceeds standards |
 | 🟢 | **A** | 624 | 41.9% | Good: Meets all requirements |
 | 🟡 | **B** | 99 | 6.6% | Adequate: Functional coverage |
 | 🟠 | **C** | 47 | 3.2% | Thin: Limited coverage (mostly structural fragments) |
 | 🔴 | **D** | 0 | 0% | Major under-coverage |
-| 🟣 | **F** | 20 | 1.3% | Critical: Wylie contamination or insufficient coverage |
+| 🟣 | **F** | 16 | 1.1% | Critical: Wylie contamination or insufficient coverage |
 
 **Total Assessments:** 1,491 (213 sections × 7 layers)  
-**Publication Ready (🔵/🟢/🟡):** 1,424 (95.5%)  
+**Publication Ready (🔵/🟢/🟡):** 1,428 (95.8%)  
 **Could Enhance (🟠):** 47 (3.2%)  
-**Critical Repair (🟣):** 20 (1.3%)
+**Critical Repair (🟣):** 16 (1.1%)
 
 ### By Layer
 
@@ -54,7 +54,7 @@ This assessment provides comprehensive qualitative analysis of all 1,491 files (
 | **Cognitive** | 0 | 213 | 0 | 0 | 0 | 0 | Frozen/Complete |
 | **Epistemic** | 0 | 213 | 0 | 0 | 0 | 0 | Frozen/Complete |
 | **Scholar** | 188 | 25 | 0 | 0 | 0 | 0 | Excellent |
-| **Literal** | 161 | 33 | 0 | 0 | 0 | 19 | Frozen/Complete - Wylie contamination in 19 files |
+| **Literal** | 165 | 33 | 0 | 0 | 0 | 15 | Frozen/Complete - Wylie contamination in 15 files (4 fixed) |
 | **Liturgical** | 180 | 33 | 0 | 0 | 0 | 0 | Frozen/Complete |
 | **Delusion** | 146 | 30 | 6 | 30 | 0 | 1 | Excellent - 99.5% functional |
 | **Commentary** | 0 | 103 | 93 | 17 | 0 | 0 | 92% functional, 17 thin files |
@@ -103,43 +103,45 @@ Qualitative analysis identified 17 sections with thin commentary (functional but
 
 ---
 
-## WYLIE CONTAMINATION IN LITERAL LAYER - REPAIR REQUIRED
+## WYLIE CONTAMINATION IN LITERAL LAYER - REPAIR IN PROGRESS
 
-**Status: 19 FILES WITH TIBETAN ROMANIZATION CONTAMINATION**
+**Status: 15 FILES WITH TIBETAN ROMANIZATION CONTAMINATION** (4 files repaired)
 
 Qualitative scan detected Wylie (Tibetan romanization) terms embedded in Literal layer files. The Literal layer should be English grammatical mapping only, without Tibetan terms.
 
-### Affected Files:
+### Progress Update:
+- **Original contamination:** 19 files
+- **Repaired:** 4 files (01-08-02-01.txt, 02-22-05-02.txt, 02-23-06-01.txt, 02-23-07-01.txt)
+- **Remaining:** 15 files
+
+### Remaining Affected Files:
 
 | File | Contaminated Terms | Issue |
 |------|-------------------|-------|
 | 01-07-04-01.txt | klong (2x) | "klong" should be "expanse" |
 | 01-08-01-01.txt | klong (1x) | "klong" should be "expanse" |
-| 01-08-02-01.txt | klong (3x), ngag (1x) | Multiple Wylie terms |
 | 01-10-01-01.txt | rgyud (1x) | "rgyud" should be "continuity" or "tantra" |
-| 01-12-01-01.txt | ngag (4x) | "ngag" should be "instruction" or "speech" |
-| 01-13-04-01.txt | dbyings (10x), rig-pa (1x) | "dbyings" should be "space" or "expanse" |
+| 01-12-01-01.txt | chos (1x) | "chos" should be "dharma" or "phenomena" |
+| 01-13-04-01.txt | dbyings (9x) | "dbyings" should be "space" or "expanse" |
 | 01-14-01-01.txt | klong (1x) | "klong" should be "expanse" |
-| 01-14-02-01.txt | klong (1x) | "klong" should be "expanse" |
-| 02-17-02-01.txt | klong (1x) | "klong" should be "expanse" |
-| 02-17-04-01.txt | klong (3x) | "klong" should be "expanse" |
-| 02-17-11-01.txt | klong (1x) | "klong" should be "expanse" |
-| 02-22-05-02.txt | klong (1x) | "klong" should be "expanse" |
-| 02-22-06-01.txt | klong (1x) | "klong" should be "expanse" |
-| 02-23-01-01.txt | klong (1x) | "klong" should be "expanse" |
-| 02-23-04-01.txt | klong (1x) | "klong" should be "expanse" |
-| 02-23-06-01.txt | klong (1x) | "klong" should be "expanse" |
-| 02-23-06-02.txt | klong (1x) | "klong" should be "expanse" |
-| 02-23-07-01.txt | klong (1x) | "klong" should be "expanse" |
-| 02-23-08-03.txt | klong (1x) | "klong" should be "expanse" |
-| 02-23-09-01.txt | klong (1x) | "klong" should be "expanse" |
+| 01-14-02-01.txt | sku (1x) | "sku" should be "body" or "kaya" |
+| 02-17-04-01.txt | gsum (7x), sku (5x), rgyud (5x), ngag (2x), chos (2x) | Multiple Wylie terms |
+| 02-17-11-01.txt | klong (4x) | "klong" should be "expanse" |
+| 02-22-06-01.txt | sku (1x) | "sku" should be "body" or "kaya" |
+| 02-23-01-01.txt | rgyud (1x) | "rgyud" should be "continuity" or "tantra" |
+| 02-23-04-01.txt | gsum (2x), ngag (1x) | Multiple Wylie terms |
+| 02-23-06-02.txt | chos (9x), rgyud (3x), gsum (2x) | Multiple Wylie terms |
+| 02-23-08-03.txt | gsum (4x) | "gsum" should be "three" |
+| 02-23-09-01.txt | chos (5x), gsum (3x) | Multiple Wylie terms |
 
 ### Common Wylie Terms Found:
 - **klong** = expanse, space, dimension
 - **dbyings** = space, expanse, realm
 - **rgyud** = continuity, tantra, lineage
+- **chos** = dharma, phenomena, religion
+- **sku** = body, kaya
+- **gsum** = three
 - **ngag** = instruction, precept, speech
-- **rig-pa** = awareness, knowledge
 
 ### Repair Instructions:
 1. Replace all Wylie terms with appropriate English equivalents
@@ -147,7 +149,7 @@ Qualitative scan detected Wylie (Tibetan romanization) terms embedded in Literal
 3. Ensure hyphenation reflects Tibetan compound structure
 4. Verify against Tibetan source for accuracy
 
-**Estimated Repair Time:** 2-3 hours for all 19 files
+**Estimated Repair Time:** 1-2 hours for remaining 15 files
 
 ---
 
@@ -744,14 +746,14 @@ Qualitative scan detected Wylie (Tibetan romanization) terms embedded in Literal
 
 | Grade | Count | Percentage |
 |-------|-------|------------|
-| 🔵 | 161 | 75.6% |
+| 🔵 | 165 | 77.5% |
 | 🟢 | 33 | 15.5% |
 | 🟡 | 0 | 0% |
 | 🟠 | 0 | 0% |
 | 🔴 | 0 | 0% |
-| 🟣 | 19 | 8.9% |
+| 🟣 | 15 | 7.0% |
 
-**Status:** 91.1% functional. 1:1 line matching with Tibetan verified. **Wylie contamination detected in 19 files** - Tibetan romanization terms (klong, dbyings, etc.) mixed with English grammatical mapping. See Wylie Contamination section below for repair instructions.
+**Status:** 93.0% functional. 1:1 line matching with Tibetan verified. **Wylie contamination detected in 15 files** (down from 19) - Tibetan romanization terms (klong, dbyings, etc.) mixed with English grammatical mapping. 4 files have been repaired. See Wylie Contamination section below for repair instructions.
 
 #### Liturgical Layer (Frozen)
 
@@ -877,14 +879,14 @@ These files have placeholder/stub content that must be regenerated:
 
 **Key Findings:**
 - 1 🟣 (F-grade) file detected: 01-05-04-03 (delusion layer - insufficient coverage)
-- 19 🟣 (F-grade) files in Literal layer with Wylie contamination (Tibetan romanization mixed with English)
+- 15 🟣 (F-grade) files in Literal layer with Wylie contamination (Tibetan romanization mixed with English) - **4 files repaired**
 - All commentary contains meaningful content adequate to liturgical material
 - No placeholder content requiring regeneration
 - All safety-critical advanced practice sections (Ch 17-25) have adequate or better delusion coverage
 
-**Volume 1:** 113/113 sections functional (91.2% optimal, 8.8% needs Wylie repair)  
-**Volume 2:** 100/100 sections functional (95% optimal, 5% needs Wylie repair)  
-**Overall:** 213/213 sections functional (95.5% optimal, 4.5% needs repair)
+**Volume 1:** 113/113 sections functional (93.0% optimal, 7.0% needs Wylie repair)  
+**Volume 2:** 100/100 sections functional (96% optimal, 4% needs Wylie repair)  
+**Overall:** 213/213 sections functional (96.8% optimal, 3.2% needs repair)
 
 ### Recommendation
 
@@ -892,7 +894,7 @@ These files have placeholder/stub content that must be regenerated:
 
 **CRITICAL REPAIR:**
 - 1 delusion file (01-05-04-03) needs regeneration with comprehensive error analysis
-- 19 literal files need Wylie term replacement with English equivalents
+- 15 literal files need Wylie term replacement with English equivalents
 
 **OPTIONAL ENHANCEMENT:**
 - 17 commentary files (🟠 grade) could be enhanced with additional voice rotation
@@ -900,10 +902,10 @@ These files have placeholder/stub content that must be regenerated:
 
 **Estimated Repair Time:** 
 - 1 hour (delusion critical file)
-- 2-3 hours (19 literal files with Wylie contamination)
-- **Total: 3-4 hours**
+- 1-2 hours (15 literal files with Wylie contamination)
+- **Total: 2-3 hours**
 
-**Current Publication Readiness:** 98.7% functional, 95.5% optimal  
+**Current Publication Readiness:** 98.9% functional, 96.8% optimal  
 **Target with Critical Repair:** 100% functional
 
 ---
