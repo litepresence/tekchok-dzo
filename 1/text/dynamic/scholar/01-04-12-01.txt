@@ -1,6 +1,6 @@
-<historical-context>
+[3062-3086] <context>
 Illusion and Ultimate Truth
-**Examination:**
+**Analysis:**
 
 **Dream and Illusion:**
 
@@ -35,7 +35,7 @@ In ultimate truth, not even illusion abides.
 
 Since conventional truth is not true, ultimate truth is non-abiding.
 
-<structural-mapping>
+[3062-3086] <structure>
 This page completes the Svātantrika presentation and introduces Prāsaṅgika. The architectural structure:
 
 1. **Lines 3049-3052**: Completion of Illusion-like Ultimate view — interpretation of dream/illusion similes applied to all phenomena
@@ -58,16 +58,16 @@ This page completes the Svātantrika presentation and introduces Prāsaṅgika. 
 - Prāsaṅgika: thal 'gyur — consequentialist, no autonomous positions
 
 ================================================================================
-<linguistic-analysis> Grammatical Analysis and Word Definitions
+<philology> Grammatical Analysis and Word Definitions
 ================================================================================
 
-<grammatical-examination>
+[3062-3062] <philology>
 **yul dang rnam pa med pas de med par myong ba'i so so rang rig kyang med pa ni / mo gsham gyi bu med pas de 'jal byed kyi shes pa med pa bzhin no**
 - **mo gsham gyi bu**: Son of a barren woman (vandhyā-putra) — classic example of absolute non-existence in Indian philosophy
 - **med pas**: Because of not existing (causal)
 - **bzhin no**: Just like — equative simile particle
 
-<linguistic-analysis>
+[3062-3062] <philology>
 **kun rdzob la bden par med pas don dam la gang yang mi gnas te / rmi lam sad pa'i dus na rta glang gi snang 'gags kyang / dang po med pas don la 'gag rgyur ma grub pa bzhin no**
 - **kun rdzob**: Conventional, relative (saṃvṛti)
 - **'gags**: Cessation, stopping
@@ -75,18 +75,18 @@ This page completes the Svātantrika presentation and introduces Prāsaṅgika. 
 - **don la**: Ultimately, in reality
 - **'gag rgyur ma grub pa**: Not established as something to cease
 
-<doxographical-placement>
+[3062-3076] <context>
 **Higher Svātantrika (Rang rgyud gong ma ba)**: Also called "non-abiding Svātantrika" or "Prāsaṅgika-like Svātantrika." Associated with later Indian masters like Jñānaśrībhadra and some Tibetan interpreters. This school:
 - Does not even abide in the illusion-like ultimate
 - Refutes all positions including conventional establishments
 - Is closer to Prāsaṅgika while still using svātantrika methods
 
-[3062] <historical-context> **Son of a Barren Woman (mo gsham gyi bu)**: This is the classical Indian philosophical example of absolute impossibility. In the *Pramāṇavārttika*, Dharmakīrti uses this to illustrate that if the cause doesn't exist, the effect cannot exist. Here it's applied: if objects and aspects don't exist, the self-cognizing awareness that cognizes their absence also cannot be established.
+[3062] <context> **Son of a Barren Woman (mo gsham gyi bu)**: This is the classical Indian philosophical example of absolute impossibility. In the *Pramāṇavārttika*, Dharmakīrti uses this to illustrate that if the cause doesn't exist, the effect cannot exist. Here it's applied: if objects and aspects don't exist, the self-cognizing awareness that cognizes their absence also cannot be established.
 
-<doxographical-placement>
+[3062-3062] <context>
 **Dream Analogy**: When you wake from a dream, the dream appearances (horse, ox) cease. But since they never truly existed from the start (dang po med pas), there is no real cessation (don la 'gag rgyur ma grub pa). This illustrates the Prāsaṅgika view that saṃsāra is not truly something that needs to be "stopped"—it never truly existed.
 
-<concept>
+[3062-3062] <concept>
 **The Logic of Non-existence**: This is one of the most sophisticated arguments in Madhyamaka:
 
 **The Argument**:
@@ -96,7 +96,7 @@ This page completes the Svātantrika presentation and introduces Prāsaṅgika. 
 
 **What's Being Said**: You cannot have a cognition of "non-X" unless X at least has some conceptual or conventional status. Absolute non-existence cannot be cognized. This undermines the Cittamātra's self-cognizing awareness that knows the emptiness of objects.
 
-<concept>
+[3062-3062] <concept>
 **The Dream-Waking Analogy**: When you wake up, the dream stops. But ask yourself:
 
 - Did the dream "go" somewhere?
@@ -105,7 +105,7 @@ This page completes the Svātantrika presentation and introduces Prāsaṅgika. 
 
 The answer to all is "no." The dream never truly existed, so there's nothing to cease. This is how saṃsāra is — it appears, but since it never truly existed, Buddhahood is not the "cessation" of something real but the recognition of what was always the case.
 
-<grammatical-examination>
+[3064-3067] <philology>
 **don dam par ni 'khor ba yang med / mya ngan las 'das pa yang med / stong pa nyid kyang med de / tshig gis bla dgas tsam du bas lags so**
 - **'khor ba**: Saṃsāra, cyclic existence
 - **stong pa nyid**: Emptiness (śūnyatā)
@@ -113,10 +113,10 @@ The answer to all is "no." The dream never truly existed, so there's nothing to 
 - **lags so**: Polite/honorific "it is"
 - **de**: Because (connecting to previous)
 
-<historical-context>
+[3064-3067] <context>
 **Aṣṭasāhasrikā Citation (continued)**: This verse from the Perfection of Wisdom sūtra establishes the emptiness even of emptiness. If emptiness itself were truly existent, it would be a reification. The text says emptiness is only a verbal designation (tshig gi bla dgas tsam) — a finger pointing at the moon, not the moon itself.
 
-<concept>
+[3064-3067] <concept>
 **The Emptiness of Emptiness**: This is crucial:
 
 - If emptiness were truly existent, it would be permanent
@@ -127,7 +127,7 @@ The answer to all is "no." The dream never truly existed, so there's nothing to 
 
 **Practical Implication**: Don't cling to "emptiness" as your view. Any view, even the view of emptiness, is an obstruction.
 
-<linguistic-analysis>
+[3068-3076] <philology>
 **kun rdzob rab tu mi gnas pa dang / rgyu mtshan mi gnas pa dang / ldog cha mi gnas pa dang / ldog byed mi gnas pa dang / gcig mi gnas pa dang / du ma mi gnas pa dang / gcig dang du ma dang bral ba mi gnas pa dang / snang tsam rab tu mi gnas pa**
 - **rgyu mtshan**: Reason, cause, characteristic (hetu)
 - **ldog cha**: Opposite aspect, exclusion (vyāvṛtti)
@@ -137,7 +137,7 @@ The answer to all is "no." The dream never truly existed, so there's nothing to 
 - **bral ba**: Free from, separated from
 - **snang tsam**: Mere appearance
 
-<doxographical-placement>
+[3068-3076] <context>
 **Eight-fold Non-abiding**: The "higher" Svātantrika establishes eight types of non-abiding:
 1. Not abiding in conventional existence
 2. Not abiding in reasons/characteristics
@@ -150,7 +150,7 @@ The answer to all is "no." The dream never truly existed, so there's nothing to 
 
 This thorough-going negation prepares the ground for Prāsaṅgika.
 
-<concept>
+[3068-3076] <concept>
 **The Eight-fold Non-abiding**: The higher Svātantrika refuses to abide anywhere:
 
 1. **Not in conventional existence**: Don't reify the conventional
@@ -164,7 +164,7 @@ This thorough-going negation prepares the ground for Prāsaṅgika.
 
 **Why So Thorough?**: Because any position (khas len) becomes a place of attachment. Even "I don't have a position" becomes a position. The only solution is complete openness.
 
-<grammatical-examination>
+[3077-3086] <philology>
 **thal 'gyur ba ni / de ltar don dam par ma grub pa dang / kun rdzob tu snang tsam sgyu mar grub pa la sogs pa thams cad bkag nas / yod med kyi mtha' las 'das pa'i rang bzhin khas len thams cad dang bral bar 'dod de**
 - **thal 'gyur ba**: Prāsaṅgika — "Consequentialist" school
 - **bkag nas**: Having rejected/refuted (perfective)
@@ -172,10 +172,10 @@ This thorough-going negation prepares the ground for Prāsaṅgika.
 - **las 'das pa'i rang bzhin**: Nature transcending, nature beyond
 - **khas len thams cad**: All assertions, all acceptances
 
-<historical-context>
+[3077-3086] <context>
 **Prāsaṅgika Madhyamaka**: Founded by Buddhapālita (c. 470-540 CE), developed by Candrakīrti (c. 600-650 CE). The name means "consequentialist" — they use reductio ad absurdum arguments rather than autonomous syllogisms. Key texts: Candrakīrti's *Prasannapadā* (commentary on Nāgārjuna's *Mūlamadhyamakakārikā*).
 
-<concept>
+[3077-3086] <concept>
 **Prāsaṅgika: The Ultimate Refutation**: Prāsaṅgika goes beyond Svātantrika in key ways:
 
 **Svātantrika**: Uses autonomous syllogisms — "Sound is impermanent because it is produced, like a pot"
@@ -209,7 +209,7 @@ SCHOLAR NOTES
 END OF SCHOLAR LAYER - PAGE 83
 ================================================================================
 
-<doxographical-placement>
+[3078-3080] <context>
 **Prāsaṅgika Distinctive Tenets**:
 - No autonomous inferences (rang rgyud kyi gtan tshigs)
 - No inherent existence even conventionally
@@ -217,7 +217,7 @@ END OF SCHOLAR LAYER - PAGE 83
 - No ālaya-vijñāna (kun gzhi) in the Cittamātra sense
 - No acceptance (khas len) of any position
 
-<linguistic-analysis>
+[3081-3086] <philology>
 **'phags pa ting nge 'dzin gyi rgyal po las / rtag dang mi rtag 'di yang mtha' yin te / yod dang med ces bya ba gnyis ka mtha' / de phyir gnyis ka'i mtha' ni rnam spangs nas / mkhas pas dbus la'ang gnas par mi byed do**
 - **ting nge 'dzin**: Samādhi, concentration
 - **rtag dang mi rtag**: Permanent and impermanent
@@ -227,17 +227,17 @@ END OF SCHOLAR LAYER - PAGE 83
 - **mkhas pas**: By the wise one, the learned one
 
 ================================================================================
-<historical-context> Citations, History, and Doxography
+<context> Citations, History, and Doxography
 ================================================================================
 
-<doxographical-placement>
+[3081-3086] <context>
 **Samādhirāja Sūtra Citation**: This sūtra (King of Samādhi Sūtra) is one of the most important texts for Prāsaṅgika. The verse cited is the famous "eight extremes" passage. Not only are permanent/impermanent and existence/non-existence extremes, but even "the middle" (dbus) is not to be abided in. This is the perfection of the Middle Way.
 
 ================================================================================
 <concept> Breaking Down Complex Ideas
 ================================================================================
 
-<architectural-analysis>
+[3087-3130] <structure>
 This page presents the culmination of Prāsaṅgika philosophy through authoritative citations and establishes the synthesis of Buddha's three turnings. The architectural progression:
 
 1. **Lines 3087-3092**: Citation from Ratnakūṭa Sūtra — unborn nature of Tathāgatas
@@ -255,10 +255,10 @@ This page presents the culmination of Prāsaṅgika philosophy through authorita
 - Validates through Nāgārjuna's six-fold textual corpus
 
 ================================================================================
-<grammatical-examination> Grammatical Analysis and Word Definitions
+<philology> Grammatical Analysis and Word Definitions
 ================================================================================
 
-<linguistic-analysis>
+[3087-3092] <philology>
 **dkon mchog ta la la'i mdo las / de bzhin gshegs pa rtag tu skye med chos / chos rnams thams cad bde bar gshegs dang 'dra / byis pa'i blo can mtshan mar 'dzin pas na / 'jig rten dag na med pa'i chos la spyod / ces pa dang**
 - **dkon mchog ta la la'i mdo**: Ratnakūṭa Sūtra (Kāśyapaparivarta)
 - **de bzhin gshegs pa**: Tathāgata — "Thus Gone/come"
@@ -269,12 +269,12 @@ This page presents the culmination of Prāsaṅgika philosophy through authorita
 - **mtshan mar 'dzin pa**: Grasping at signs/characteristics (nimittagrāha)
 - **med pa'i chos la spyod**: Engaging in dharmas that do not exist
 
-<historical-context>
+[3087-3092] <context>
 **Ratnakūṭa Sūtra (dkon mchog ta la la'i mdo)**: Specifically the *Kāśyapaparivarta* (Chapter for Kāśyapa), which is Chapter 7 of the Great Ratnakūṭa collection. This sūtra is foundational for Madhyamaka, teaching the equality of all dharmas and the unborn nature of Buddha. The verse cited emphasizes that ordinary beings grasp at non-existent signs (mtshan ma).
 
-[3088] <doxographical-placement> **Tathāgatas as Permanent Unborn Dharmas**: This phrase is paradoxical — "permanent" (rtag) is normally an extreme to be refuted. Here it means the Tathāgata's dharmakāya is beyond arising and ceasing, not "permanent" in the substantial sense. The unborn nature refers to the fact that the Tathāgata was never truly born from a womb, having realized the unborn nature.
+[3088] <context> **Tathāgatas as Permanent Unborn Dharmas**: This phrase is paradoxical — "permanent" (rtag) is normally an extreme to be refuted. Here it means the Tathāgata's dharmakāya is beyond arising and ceasing, not "permanent" in the substantial sense. The unborn nature refers to the fact that the Tathāgata was never truly born from a womb, having realized the unborn nature.
 
-<concept>
+[3087-3092] <concept>
 **The Unborn Tathāgata**: This teaching addresses the apparent paradox: The Buddha appeared to be born in Lumbini, to have attained enlightenment, and to have passed into parinirvāṇa. But the ultimate truth is:
 
 1. **Never Born**: The Tathāgata's true nature is the dharmakāya, which has no birth
@@ -284,7 +284,7 @@ This page presents the culmination of Prāsaṅgika philosophy through authorita
 
 **Practical Implication**: When you feel constrained by "I was born, I will die," remember this teaching. The "you" that was born and will die is a conventional designation, like a character in a story. The awareness reading these words was never born.
 
-<philology>
+[3093-3102] <philology>
 **rtsa ba shes rab las / gang gi rten cing 'brel par 'byung / 'gag pa med pas skye med pa / chad pa med pas rtag med pa / 'ong ba med pas 'gro med pa / tha dad don min don gcig min / spros pa nyer zhi zhir bstan pa / rdzogs pa'i sangs rgyas smra rnams kyi / dam pa de la phyag 'tshal lo / zhes pa dang**
 - **rtsa ba shes rab**: Mūlamadhyamakakārikā (Root Wisdom)
 - **rten cing 'brel par 'byung**: Dependent origination (pratītyasamutpāda)
@@ -295,7 +295,7 @@ This page presents the culmination of Prāsaṅgika philosophy through authorita
 - **spros pa nyer zhi**: Cessation of elaborations/proliferations
 - **rdzogs pa'i sangs rgyas**: Perfect/complete Buddha
 
-<context>
+[3093-3102] <context>
 **Mūlamadhyamakakārikā XXIV:18-19**: This is the most famous verse in all of Madhyamaka. Nāgārjuna (c. 150-250 CE) composed this work as the foundation of Middle Way philosophy. The "Eight No's" (aṣṭau nāstīti):
 1. No cessation ('gag pa med)
 2. No arising (skye med)
@@ -308,7 +308,7 @@ This page presents the culmination of Prāsaṅgika philosophy through authorita
 
 This describes dependent origination free from all extremes.
 
-<concept>
+[3093-3102] <concept>
 **The Eight No's Explained**: These are not mere negations but a complete description of reality:
 
 **No Cessation, No Arising**: Things don't "start" and "stop" — they dependently originate. A wave doesn't "begin" when it rises; it is the ocean manifesting.
@@ -321,7 +321,7 @@ This describes dependent origination free from all extremes.
 
 **Why This Matters**: These eight describe dependent origination — the middle way between extremes. Things appear and function without existing inherently.
 
-<philology>
+[3103-3113] <philology>
 **rtsod bzlog las / gal te ngas dam bcas 'ga' yod / de tshe nga la skyon 'di yod / nga la dam bca' med pas na / nga ni skyon med kho na yin / ces pa dang / dgag bya ci yang med pas na / nga ni ci yang mi 'gog go / de phyir dgag pa byed do zhes / skur pa de ni khyod kyis btab / ces so**
 - **rtsod bzlog**: Vigrahavyāvartanī (Refutation of Objections)
 - **dam bcas**: Thesis, assertion, commitment (pratijñā)
@@ -331,10 +331,10 @@ This describes dependent origination free from all extremes.
 - **skur pa**: Superimposition, imputation (samāropa)
 - **btab**: Thrust upon, imposed (past of 'debs)
 
-<context>
+[3103-3113] <context>
 **Vigrahavyāvartanī**: Nāgārjuna's response to Nyāya critics who accused Madhyamaka of self-contradiction (if everything is empty, the statement "everything is empty" is also empty, therefore meaningless). Nāgārjuna's reply: I have no thesis (dam bca' med), so I cannot have faults. Since there is nothing to be negated (dgag bya med), I am not negating anything. This is the essence of Prāsaṅgika methodology.
 
-<concept>
+[3103-3113] <concept>
 **The Defense of Emptiness**: Critics say: "If everything is empty, then your statement 'everything is empty' is also empty, therefore meaningless. Your position is self-refuting."
 
 **Nāgārjuna's Brilliant Reply**:
@@ -345,7 +345,7 @@ This describes dependent origination free from all extremes.
 
 **Analogy**: It's like someone saying "Stop imagining a pink elephant!" If you say "I can't stop, you told me to imagine it," the reply is "I didn't tell you to imagine it — you did that yourself." Similarly, Nāgārjuna doesn't "refute" inherent existence — he points out you imagined it.
 
-<philology>
+[3114-3117] <philology>
 **de'ang blos bkod pa'i grub mtha' gang yang med de spros pa zhi ba'i phyir ro zhes 'dod cing / sna tshogs su snang tsam 'jig rten pa ji ltar 'jog pa ltar brda shes pa'i yan lag tu bzhag kyang / de yang khas len med pas / chos su snang ba bden rdzun las 'das pas yod med kyi mtha' dang da lta'i dus nas bral bar 'dod do**
 - **blos bkod pa'i grub mtha'**: Tenet/position established by intellect
 - **spros pa zhi ba**: Pacification of elaborations
@@ -353,12 +353,12 @@ This describes dependent origination free from all extremes.
 - **yan lag tu bzhag**: Placed as a branch/limb, subsidiary position
 - **da lta'i dus nas bral**: Free from present time — timeless freedom
 
-<context>
+[3114-3117] <context>
 **Prāsaṅgika Method**: The text explains that Prāsaṅgikas conventionally accept appearances as worldly convention (jig rten pa ji ltar 'jog pa ltar), understanding them as symbolic/conventional (brda shes pa). But ultimately, they accept nothing (khas len med). This transcendence (bden rdzun las 'das) is freedom from the extremes of existence/non-existence and from temporal limitation.
 
 [3118] <context> **Summit of All Philosophies**: The assertion that Prāsaṅgika is the "summit" (rtse mo) of all Buddhist philosophical schools is a standard claim in Tibetan doxography, particularly in Geluk and Nyingma traditions. This doesn't mean Prāsaṅgika "wins" in a debate sense, but that it most accurately describes the ultimate nature without reification.
 
-<concept>
+[3114-3117] <concept>
 **Prāsaṅgika Methodology**: How does a Prāsaṅgika function without positions?
 
 1. **Conventional Level**: Accepts whatever worldly convention accepts (jig rten pa ji ltar 'jog pa). If people say "fire burns," Prāsaṅgika says "yes, conventionally."
@@ -371,7 +371,7 @@ This describes dependent origination free from all extremes.
 
 **Key Insight**: Prāsaṅgika is not "skepticism" (doubting everything). It is the recognition that all positions are conventional tools, not ultimate truths.
 
-<philology>
+[3118-3130] <philology>
 **'di ni sangs rgyas pa rnams kyi grub pa'i mtha' smra ba rnams kyi rtse mo yin no / 'di'i gzhung chen po dbu ma rigs pa'i tshogs drug ste / rtsa ba shes rab / rig pa drug cu pa / stong nyid bdun cu pa / zhib mo rnam 'thag / rtsod pa bzlog pa / tha snyad bsgrub pa'o / de yang 'phags pa klu sgrub kyi zhal snga nas / bka' dang po...bar pa...tha ma...chos kyi 'khor lo'i 'grel bar...mdzad do**
 - **grub pa'i mtha' smra ba**: Proponents of tenets/philosophical schools
 - **rtse mo**: Summit, peak, highest point
@@ -384,7 +384,7 @@ This describes dependent origination free from all extremes.
 <context> Citations, History, and Doxography
 ================================================================================
 
-<concept>
+[3118-3125] <concept>
 **Why Six Treatises?**: Nāgārjuna wrote six works to address different needs:
 
 1. **Mūlamadhyamakakārikā**: Comprehensive presentation
@@ -396,7 +396,7 @@ This describes dependent origination free from all extremes.
 
 **The Point**: Emptiness is not one teaching among many — it is the nature of all teachings. Different works approach it from different angles.
 
-<context>
+[3119-3125] <context>
 **Six Collections of Middle Way Reasoning (dbu ma rigs pa'i tshogs drug)**:
 1. **Mūlamadhyamakakārikā** (rtsa ba shes rab) — Root verses on emptiness
 2. **Yuktiṣaṣṭikā** (rig pa drug cu pa) — Sixty verses on reasoning
@@ -407,7 +407,7 @@ This describes dependent origination free from all extremes.
 
 These are Nāgārjuna's six major philosophical works, establishing the logical foundation of Madhyamaka.
 
-<context>
+[3126-3130] <context>
 **Three Turnings of the Dharma Wheel (chos kyi 'khor lo gsum)**:
 1. **First Turning**: Four Noble Truths at Deer Park, Sarnath. Explained through *Catuḥsatya*.
 2. **Second Turning**: Perfection of Wisdom at Vulture Peak. Emptiness of characteristics. Explained through *Prajñāpāramitā* sūtras.
@@ -419,7 +419,7 @@ Nāgārjuna is regarded as the second Buddha who elucidated the middle turning.
 <concept> Breaking Down Complex Ideas
 ================================================================================
 
-<concept>
+[3126-3130] <concept>
 **Nāgārjuna as Second Buddha**: Why is Nāgārjuna called "the second Buddha who turned the wheel"?
 
 **The Three Turnings**:
@@ -446,7 +446,7 @@ SCHOLAR NOTES
 END OF SCHOLAR LAYER - PAGE 84
 ================================================================================
 
-<structural-mapping>
+[3131-3165] <structure>
 This page marks a major transition from Sūtra to Tantra vehicles. The structural architecture:
 
 1. **Line 3131**: Concluding statement — Nāgārjuna's treatises are non-dual with the Buddha's word
@@ -478,7 +478,7 @@ This page marks a major transition from Sūtra to Tantra vehicles. The structura
 - **khyad par med pa**: Without distinction, non-dual
 - **yin no**: Emphatic "is" — concluding statement
 
-<philology>
+[3132-3134] <philology>
 **don bzhi pa bya ba rgyud kyi theg pa gtan la dbab pa la gnyis te / rgyu'i theg pa las khyad par du 'phags tshul bstan pa dang / khyad par can gyi theg pa nyid bshad pa'o**
 - **don bzhi pa**: Fourth topic (enumeration from earlier in the text)
 - **bya ba rgyud**: Kriyā Tantra (Action Tantra) — lowest of the four tantra classes
@@ -487,7 +487,7 @@ This page marks a major transition from Sūtra to Tantra vehicles. The structura
 - **khyad par du 'phags**: Superior, surpassing
 - **khyad par can**: That which has distinction, the distinguished one
 
-<context>
+[3132-3134] <context>
 **Kriyā Tantra (bya ba rgyud)**: The first and lowest of the four classes of tantra in the Sarma (new translation) tradition:
 1. Kriyā (bya ba rgyud) — Action Tantra
 2. Caryā (spyod pa rgyud) — Performance Tantra
@@ -500,7 +500,7 @@ Kriyā emphasizes external ritual activity and purity. The practitioner sees the
 - Five paths (lam lnga): Accumulation, Preparation, Seeing, Meditation, No-more-learning
 - Ten grounds (sa bcu): From Joyful to Cloud of Dharma
 
-<concept>
+[3132-3146] <concept>
 **Causal vs. Resultant Vehicle**: This is the fundamental distinction:
 
 **Causal Vehicle (Sūtra)**:
@@ -517,7 +517,7 @@ Kriyā emphasizes external ritual activity and purity. The practitioner sees the
 
 **Analogy**: The causal vehicle is like building a house brick by brick. The resultant vehicle is like recognizing you've been living in a mansion all along — you just had your eyes closed.
 
-<philology>
+[3135-3137] <philology>
 **mtshan nyid kyi theg pa rgyu la 'bad pa cher byas nas tshegs chen pos bsgrub dgos pa las / sngags ni rgyu la ltos nas 'bras bu smin zin pas 'bad rtsol chung ngus sangs rgyas thob pas 'phags pa dang**
 - **mtshan nyid kyi theg pa**: Vehicle of characteristics — Pāramitāyāna
 - **rgyu la 'bad pa**: Exertion in causes
@@ -526,7 +526,7 @@ Kriyā emphasizes external ritual activity and purity. The practitioner sees the
 - **'bras bu smin zin pa**: Result already ripened
 - **'bad rtsol chung ngus**: With little effort/exertion
 
-<context>
+[3136-3140] <context>
 **Three Temporal Possibilities in Tantra**: Tantra offers three speeds of attainment:
 1. **Best (rab)**: In one lifetime (tshe gcig)
 2. **Middle ('bring)**: In the bardo (bar do)
@@ -534,7 +534,7 @@ Kriyā emphasizes external ritual activity and purity. The practitioner sees the
 
 This is contrasted with the sūtra vehicle which requires three countless eons (bskal pa grangs med gsum).
 
-<philology>
+[3137-3140] <philology>
 **rgyu nas lam lnga sa bcu dka' ba chen pos bskal pa grangs med mang po na sangs rgya la / sngags ni rab tshe gcig / 'bring bar do / tha mas kyang skye ba brgyud nas sangs rgyas bas dus myur bas kyang 'phags pa dang**
 - **lam lnga**: Five paths (pañcamārga)
 - **sa bcu**: Ten grounds/bhūmis (daśabhūmi)
@@ -544,7 +544,7 @@ This is contrasted with the sūtra vehicle which requires three countless eons (
 - **skye ba brgyud nas**: Through successive births
 - **dus myur ba**: Swift time, quick
 
-<concept>
+[3137-3140] <concept>
 **Timeframes Compared**: The contrast is dramatic:
 
 **Sūtra Path**: Three countless eons (immeasurable time)
@@ -559,7 +559,7 @@ This is contrasted with the sūtra vehicle which requires three countless eons (
 
 **Why the Difference?**: Tantra works with the nature of reality directly. Instead of accumulating causes to produce a result, it recognizes the result is already present. It's like the difference between walking around the world to prove it's round (sūtra) and simply looking at a globe (tantra).
 
-<philology>
+[3141-3146] <philology>
 **rgyus dang po bden pa mthong ba la'ang tshogs dpag med sogs dgos la / sngags kyi dkyil 'khor tshogs mchod la sogs pa phra mos 'grub pas kyang 'phags pa dang / rgyus lam thad drang du stong par mi byed de...sngags ni lam cig car thang drang du bstan pas nye zho dang bar chad med pa'i phyir 'phags pa yin no**
 - **dang po bden pa mthong ba**: First seeing of truth (darśana-mārga)
 - **tshogs dpag med**: Countless accumulations (merit and wisdom)
@@ -574,10 +574,10 @@ This is contrasted with the sūtra vehicle which requires three countless eons (
 - **cig car**: Simultaneous, all-at-once
 - **nye zho**: Near and quick (immediate)
 
-<context>
+[3141-3142] <context>
 **Accumulations in Sūtra vs. Tantra**: In the sūtra path, even to reach the first bhūmi (first seeing of truth) requires countless accumulations of merit and wisdom. In tantra, through maṇḍala offerings, feast offerings (gaṇacakra), and other skillful means, one can accomplish the same accumulations swiftly. This is because tantra works with the result (the Buddha nature already present) rather than building up causes from scratch.
 
-<concept>
+[3141-3142] <concept>
 **Accumulations: Quantity vs. Quality**: The sūtra path requires vast accumulations:
 - Making offerings to countless Buddhas
 - Practicing perfections for eons
@@ -590,7 +590,7 @@ Tantra accomplishes the same through:
 
 **The Principle**: In tantra, it's not the quantity but the quality of recognition. Offering a single flower with pure wisdom view equals offering countless universes with ordinary mind.
 
-<context>
+[3143-3146] <context>
 **Expedient vs. Definitive in Sūtra**: The sūtra vehicle teaches gradually:
 - Some teachings are expedient (drang don) — stepping stones
 - Some are definitive (nges don) — the final meaning
@@ -599,7 +599,7 @@ Tantra accomplishes the same through:
 
 Tantra teaches directly (thad drang) without these distinctions, showing emptiness and appearance simultaneously (cig car).
 
-<concept>
+[3143-3146] <concept>
 **Direct vs. Gradual Teaching**: The sūtra vehicle uses progressive pedagogy:
 - First teach selflessness of person
 - Then teach selflessness of phenomena
@@ -615,21 +615,21 @@ Some teachings are "hidden intent" — the Buddha taught them to lead beings gra
 
 **Analogy**: Sūtra is like learning to read by starting with the alphabet, then words, then sentences. Tantra is like being shown that you can already read — you just need to trust your ability.
 
-<philology>
+[3148-3158] <philology>
 **mdor bsdu na / rgyu'i theg pa bas sngags kyi theg pa 'dod pa'i don bsgrub pa la / thabs mang ba dang / dka' ba med pa dang / ma rmongs pa dang / dbang po rnon pos myur du 'grub pa'i tshul gyis 'phags te / tshul gsum pa'i sgron me las / don gcig na yang ma rmongs dang / thabs mang dka' ba med pa dang / dbang po rnon po'i dbang byas nas / sngags kyi theg pa khyad par 'phags / zhes so**
 - **mdor bsdu na**: In brief, to summarize
 - **'dod pa'i don**: Desired goal/objective
 - **tshul gsum pa'i sgron me**: Lamp of the Three Methods/Principles — text by Tripiṭakamāla
 - **dbang byas nas**: Having been empowered/having controlled
 
-<context>
+[3148-3158] <context>
 **Four Points of Superiority**: From Tripiṭakamāla's *Nāyatrayapradīpa* (tshul gsum pa'i sgron me), an eighth-century text that systematized the superiority of tantra. The four points are:
 1. **More methods**: Many skillful means (upāya) beyond the six perfections
 2. **Without difficulty**: Using desire itself as path rather than suppressing it
 3. **Without delusion**: Working directly with the nature of mind
 4. **Sharp faculties**: For those who can handle intense practices
 
-<concept>
+[3148-3158] <concept>
 **Four Points of Superiority Explained**:
 
 1. **More Methods (thabs mang ba)**: Tantra has many skillful means beyond the six perfections — deity yoga, channels/winds/drops, sexual yoga, etc.
@@ -640,7 +640,7 @@ Some teachings are "hidden intent" — the Buddha taught them to lead beings gra
 
 4. **Sharp Faculties (dbang po rnon po)**: Tantra is for those who can handle intense, rapid transformation. It's like the difference between walking and flying — both get you there, but flying requires more skill and is faster.
 
-<philology>
+[3159-3165] <philology>
 **gnyis pa la lnga las / ngo bo ni rang byung gi ye shes dbyings 'od gsal gyi bden pa thad drang du rtogs pa'i thabs mchog tu gsang ba / bskyed rdzogs lhun grub kyi dbyings la 'jal ba'i rnam grangs so / nges tshig ni nyon mongs pa las skyob pa dang byang chub myur du 'grub pa la mchog tu bsngags pas na sngags so / dgos pa ni dbang po rnon po'i rnon po myur du grol bar byed pa'o / 'bras bu ni tshe gcig gam bar do'am rgyud nas mgon po rdo rje 'chang gis mchog 'grub pa'o / dbye na gnyis te**
 - **ngo bo**: Essence, nature (svabhāva)
 - **rang byung gi ye shes**: Self-arisen primordial wisdom (svayaṃbhū-jñāna)
@@ -662,7 +662,7 @@ Some teachings are "hidden intent" — the Buddha taught them to lead beings gra
 
 [3131] <context> **Nāgārjuna's Treatises as Buddha Word**: In the Tibetan tradition, Nāgārjuna's treatises are considered to be of the same nature as the Buddha's word because they accurately elucidate the profound meaning taught in the Perfection of Wisdom sūtras. This is not to say Nāgārjuna is a Buddha, but that his writings have the same authority as scripture for understanding emptiness.
 
-<context>
+[3159-3165] <context>
 **Five-fold Analysis**: Standard hermeneutic framework for analyzing any vehicle/tenet system:
 1. **Essence (ngo bo)**: What is it fundamentally?
 2. **Etymology (nges tshig)**: Why is it called by this name?
@@ -699,7 +699,7 @@ The Tibetan rendering "sngags" is from the Sanskrit "mantra" — "mind-protectio
 
 Nāgārjuna's works are "reasoning" that accurately explains the "scripture" of Perfection of Wisdom. They are not "Buddha word" literally, but they have the same authority because they correctly explain the profound meaning. Like a commentary that is so accurate it becomes essential reading.
 
-<concept>
+[3159-3165] <concept>
 **The Five-fold Framework**:
 
 1. **Essence**: Tantra's essence is self-arisen wisdom — the clear light nature of mind that is spontaneously present (lhun grub). This is not created through practice; it is recognized.
@@ -730,24 +730,25 @@ SCHOLAR NOTES
 END OF SCHOLAR LAYER - PAGE 85
 ================================================================================
 
-<structure>
+[3166-3173] <structure>
 # Outer Tantra Classification: The Two Systems
-**Consideration:** This section introduces the classification of Outer Tantras (*phyi pa'i rgyud*), dividing them into two main categories:
+**Analysis:** This section introduces the classification of Outer Tantras (*phyi pa'i rgyud*), dividing them into two main categories:
 
 1. **Outer Tantra of Asceticism** (*phyi thub pa rgyud kyi theg pa*) — Kriya Tantra
 2. **Inner Tantra of Method** (*nang pa thabs kyi rgyud kyi theg pa*) — Upa and Yoga Tantras
 
 This bipartite division reflects the standard Nyingma doxographical schema found in the *Mdo dgongs pa 'dus pa* and the *Manjusrinamasamgiti* commentaries. The verse citation
 
+[3169-3172]
 from the *Rig pa rang shar* (lines 3170-3172) establishes scriptural authority for this division.
 
 **Key Terminology:**
 - *thub pa* — Asceticism/renunciation (tapas), emphasizing purification
 - *thabs* — Method/skillful means (upāya), emphasizing transformation
 
-<philology>
+[3174-3175] <philology>
 Etymology of "Tantra" (rgyud)
-**Philological analysis:** The section addresses why mantra teachings are called "tantra" (*sngags la rgyud du 'jog pa ci yin*).
+**Analysis:** The section addresses why mantra teachings are called "tantra" (*sngags la rgyud du 'jog pa ci yin*).
 
 **Etymological Explanation:**
 - *gtso bor* — Primarily
@@ -757,9 +758,9 @@ Etymology of "Tantra" (rgyud)
 
 The term *rgyud* (tantra) means "continuum" — specifically the continuum of the individual's connection with the luminous nature of reality. This connects to the Sanskrit root "tan" (to stretch/extend), indicating the thread of awakening running through the practitioner.
 
-<structure>
+[3176-3184] <structure>
 Threefold Division of Outer Tantras
-**Close reading:** The text presents the standard threefold schema:
+**Analysis:** The text presents the standard threefold schema:
 
 1. **Kriya** (*bya ba rgyud*) — Action Tantra [3177]
 2. **Upa** (*gnyis ka rgyud*) — Dual/Performance Tantra [3178]  
@@ -769,9 +770,9 @@ The citation from *De nyid las* (lines 3182-3183) provides scriptural support: "
 
 This classification reflects the Sarma tradition's standard organization, which Longchenpa integrates into his Nyingma framework.
 
-<concept>
+[3185-3194] <concept>
 Kriya Tantra: Practice and Purification
-**Investigation:** Kriya Tantra (*bya ba rgyud*) is characterized by:
+**Analysis:** Kriya Tantra (*bya ba rgyud*) is characterized by:
 
 **Core Practice:**
 - *dag pa gsum* — Three purities (body, speech, mind)
@@ -781,21 +782,23 @@ Kriya Tantra: Practice and Purification
 
 **Two Sub-divisions
 
+[3187-3189]
 :**
 1. **Emphasizing purity** (*dag pa gtso bor byed pa*) — External purification rituals
 2. **Emphasizing visualization** (*dmigs pa gtso bor byed pa*) — Internal deity meditation
 
 **Purity Practices
 
+[3190-3194]
 :**
 - *khrus gsum* — Three ablutions (bathing rituals)
 - *gos gsum brje ba* — Changing three garments
 - *dkar gsum bsten pa* — Adopting three white foods (milk, butter, curd)
 - *dngar gsum bsten pa* — Adopting three sweet foods (sugar, honey, molasses)
 
-<context>
+[3195-3205] <context>
 Superiority Over Lower Vehicles
-**Examination:** This section explains why Kriya Tantra surpasses (*'phags*) the lower causal vehicles:
+**Analysis:** This section explains why Kriya Tantra surpasses (*'phags*) the lower causal vehicles:
 
 **Key Distinction:**
 - Does not posit conventional appearances as truly existent (*kun rdzob snang tshod du bden par mi 'jog par*)
@@ -809,9 +812,9 @@ Superiority Over Lower Vehicles
 - Without falling into the four extremes of production (*mu bzhi'i skye ba*)
 - Ultimately (*don dam par*), the yidam is wisdom-being (*ye shes sems dpa'*)
 
-<philology>
+[3202-3204] <philology>
 Analysis of Meditation Transformations
-**Consideration:** The text describes how the three meditations transform perception:
+**Analysis:** The text describes how the three meditations transform perception:
 
 **Line 3202-3203:**
 - *dran bsam thams cad* — All mindfulness and thought
@@ -824,9 +827,9 @@ Analysis of Meditation Transformations
 
 This indicates a more profound view than lower vehicles—emptiness is integrated with appearance, not mere negation.
 
-<philology>
+[3206-3208] <philology>
 Lord-Servant Relationship in Kriya
-**Philological analysis:** Lines 3206-3208 elaborate the "lord and servant" (*rje dang 'bangs*) structure of Kriya Tantra practice:
+**Analysis:** Lines 3206-3208 elaborate the "lord and servant" (*rje dang 'bangs*) structure of Kriya Tantra practice:
 
 **Key Phrases:**
 - *bdag dang tshig sems dpa' gnyis* — Self and pledge-being (*samayasattva*) two
@@ -839,12 +842,13 @@ Lord-Servant Relationship in Kriya
 
 The superiority (*khyad par du 'phags*) comes from not rejecting conventionality (*kun rdzob mi spong*) while not constructing ultimacy (*don dam pa mi bsgrub*).
 
-<structure>
+[3209-3212] <structure>
 Two Types of Kriya Practice
-**Close reading:** The text distinguishes two approaches to deity yoga in Kriya:
+**Analysis:** The text distinguishes two approaches to deity yoga in Kriya:
 
 1. **Visualization-focused** (*dmigs pa gtso bo*)
 
+[3209-3210]
 :
    - *bskyed rim dang rdzogs rim phra mo* — Generation stage and subtle completion stage
    - *'phro 'du dmigs pa'i lha sgom pa* — Meditating on deity of dispersal-gathering meditation
@@ -852,39 +856,45 @@ Two Types of Kriya Practice
 
 2. **Purity-focused** (*dag pas gtso bo*)
 
+[3211-3212]
 :
    - Physical and verbal purity (*lus ngag gi gtsang sgra*) as primary
    - Mental meditation (*sems kyi sgom pa*) through visualization as primary
 
 **Distinction:** The first emphasizes internal transformation; the second emphasizes external purification.
 
-<context>
+[3213-3234] <context>
 Scriptural Authority: Rig pa rang shar
-**Investigation:** Lines 3214-3233 quote extensively from the *Rig pa rang shar tantra* to establish Kriya view and practice:
+**Analysis:** Lines 3214-3233 quote extensively from the *Rig pa rang shar tantra* to establish Kriya view and practice:
 
 **Key Verses:**
 -
 
+[3215-3216]
 : "Kriya vehicle's established tenet: entry door is three purities"
 - [3217]: "Entering through bathing and cleanliness"
 -
 
+[3218-3220]
 : Protecting samaya (vows)
 -
 
+[3221-3225]
 : Three purities defined — deity/mandala purity, substance/enjoyment purity, mantra/samadhi purity
 -
 
+[3226-3228]
 : View of realization — deity and yogi as two, viewed in lord-servant manner
 -
 
+[3229-3233]
 : Stages of abandonment — giving up meat, fish, garlic, alcohol; attachment to samadhi
 
 This extensive quotation establishes the *Rig pa rang shar* as the root tantra for Kriya exposition.
 
-<structure>
+[3235-3244] <structure>
 Introduction to Upa Tantra
-**Close Reading:** Line 3235 introduces the fifth topic (*don lnga pa*) — Upa (Dual) Tantra (*gnyis ka rgyud kyi theg pa u pa ya*):
+**Analysis:** Line 3235 introduces the fifth topic (*don lnga pa*) — Upa (Dual) Tantra (*gnyis ka rgyud kyi theg pa u pa ya*):
 
 **Defining Characteristic:**
 - *sp yod pa kri ya ltar byed* — Conduct like Kriya
@@ -893,6 +903,7 @@ Introduction to Upa Tantra
 
 **Practice Elements
 
+[3238-3239]
 :**
 - Abiding in bathing and cleanliness (*khrus dang gtsang sbra*)
 - Purifying three doors (*sgo gsum dag par byas*)
@@ -900,16 +911,17 @@ Introduction to Upa Tantra
 
 **Scriptural Quotation
 
+[3240-3244]
 :** From *Rig pa rang shar*:
 - "Upa is like this: view like Yoga, conduct like Kriya"
 - "Therefore called Dual Tantra"
 
 [3246] <structure> Introduction to Yoga Tantra
-**Architectural Analysis:** Line 3246 marks the transition to the sixth topic (*don drug pa*) — Yoga Tantra (*rnal 'byor rgyud kyi theg pa yo ga*). This structural marker uses the standard enumeration formula.
+**Analysis:** Line 3246 marks the transition to the sixth topic (*don drug pa*) — Yoga Tantra (*rnal 'byor rgyud kyi theg pa yo ga*). This structural marker uses the standard enumeration formula.
 
-<concept>
+[3247-3248] <concept>
 Yoga Tantra: Five Enlightenments Framework
-**Philological Analysis:** Yoga Tantra practice is characterized by:
+**Analysis:** Yoga Tantra practice is characterized by:
 
 **Core View:**
 - *mngon byang lnga'i sgo nas* — Through the door of five enlightenments
@@ -921,42 +933,45 @@ Yoga Tantra: Five Enlightenments Framework
 
 The shift from "lord-servant" (Kriya) to "siblings/friends" (Yoga) represents a progression in the practitioner-deity relationship.
 
-<structure>
+[3249-3250] <structure>
 Two Divisions of Yoga Tantra
-**Detailed Analysis:** Yoga Tantra divides into two:
+**Analysis:** Yoga Tantra divides into two:
 
 1. **Action-focused** (*las gtso bo*) — Emphasizing ritual activities
 2. **Samadhi-focused** (*ting nge 'dzin gtso bo*) — Emphasizing meditation
 
 This division reflects the two aspects of tantric practice: external ritual and internal yoga.
 
-<concept>
+[3251-3264] <concept>
 Action-Focused Yoga Tantra
-**Close Reading:** The action-focused approach (*las gtso bo*) involves:
+**Analysis:** The action-focused approach (*las gtso bo*) involves:
 
 **Three Types of Ritual Activity:**
 
 1. **Scattered action** (*las thor bu ba*)
 
+[3256-3260]
 :
    - Depending on any ritual limb (*cho ga'i yan lag gang rung*)
    - Continuous effort in one practice: offerings (*mchod pa*), torma (*gtor ma*), fire offering (*sbyin sreg*), recitation (*bsnyen pa*)
 
 2. **Supreme action** (*las rgyal mchog*)
 
+[3261-3262]
 :
    - Taking all these as limbs of mandala accomplishment
    - Aspiring to buddhahood through five or six activities
 
 3. **Supreme mandala** (*dkyil 'khor rgyal mchog*)
 
+[3263-3264]
 :
    - From earth ritual (*sa'i cho ga*) through empowerment (*dbang bskur ba*)
    - Accomplishing single individual as Buddha
 
-<concept>
+[3265-3277] <concept>
 Samadhi-Focused Yoga Tantra: Five Enlightenments
-**Consideration:** The samadhi-focused approach (*ting nge 'dzin gtso bo*) uses:
+**Analysis:** The samadhi-focused approach (*ting nge 'dzin gtso bo*) uses:
 
 **Two Types of Samadhi:**
 1. *sbyor ba dang po'i ting nge 'dzin* — First application samadhi
@@ -979,6 +994,7 @@ Samadhi-Focused Yoga Tantra: Five Enlightenments
 
 4. **Enlightenment through mind** (*thugs phyag mtshan*)
 
+[3274-3275]
 :
    - Vajra, wheel, jewel, etc. (*rdo rje dang 'khor lo dang rin po che*)
    - Individual family buddhas
@@ -988,9 +1004,9 @@ Samadhi-Focused Yoga Tantra: Five Enlightenments
 
 These five correspond to the five Buddha families and purify the five aggregates, elements, and sense-bases.
 
-<concept>
+[3278-3284] <concept>
 Three-Level Purification in Yoga Tantra
-**Consideration:** Lines 3278-3284 present the threefold purification schema of Yoga Tantra:
+**Analysis:** Lines 3278-3284 present the threefold purification schema of Yoga Tantra:
 
 **Three Levels:**
 1. **Outer** (*phyi*) [3278]: Purification of five aggregates (*phung po lnga*) and five elements (*'byung ba lnga*)
@@ -1008,10 +1024,10 @@ Three-Level Purification in Yoga Tantra
 - *sgyu lus lha'i skur gsal* — Illusory body clearly as deity body [3284]
 - Superior to lower approaches (*'og ma las khyad par du 'phags*)
 
-<structure>
+[3278-3312] <structure>
 Three-Level Purification Schema
 
-**Investigation:** Lines 3278-3316 present the threefold (*rnam pa gsum*) purification framework of Yoga Tantra, establishing its superiority over Outer Tantra approaches.
+**Analysis:** Lines 3278-3316 present the threefold (*rnam pa gsum*) purification framework of Yoga Tantra, establishing its superiority over Outer Tantra approaches.
 
 **Hierarchical Purification Model:**
 
@@ -1026,10 +1042,10 @@ Three-Level Purification Schema
 
 This represents the characteristic Yoga Tantra method of rapid self-deification through visualization, distinct from the gradual approaches of Kriya and Charya.
 
-<philology>
+[3281-3286] <philology>
 Non-Duality Terminology
 
-**Detailed Analysis:** Lines 3281-3286 establish the key doctrinal terminology distinguishing Yoga Tantra's view.
+**Analysis:** Lines 3281-3286 establish the key doctrinal terminology distinguishing Yoga Tantra's view.
 
 **Deity-Self Relationship:**
 - *yi dam gyi lha dang bdag gnyis spun dang grogs ltar bsgoms pas* — Deity and self meditated as siblings/friends
@@ -1040,9 +1056,9 @@ Non-Duality Terminology
 
 **Non-Duality Formulation
 
-<philology>
+[3285-3286] <philology>
 Non-Duality of Deity and Self
-**Philological Analysis:** Key doctrinal statement:
+**Analysis:** Key doctrinal statement:
 
 **Line 3285:**
 - *bskyed rgyu'i lha dang bdag gnyis gnyis su med par rtogs* — Realizing generated-cause deity and self are non-dual
@@ -1052,6 +1068,7 @@ Non-Duality of Deity and Self
 
 This indicates the Yoga Tantra view transcends both the dualistic structure of Kriya (lord-servant) and even the conventional framework itself.
 
+[3285-3286]
 :**
 
 | Line | Tibetan | Translation | Significance |
@@ -1061,9 +1078,9 @@ This indicates the Yoga Tantra view transcends both the dualistic structure of K
 
 **Grammatical Note:** The double *gnyis* (*gnyis gnyis su*) emphasizes absolute non-duality, not merely cooperative practice.
 
-<context>
+[3287-3310] <context>
 Scriptural Quotation: Rig pa rang shar
-**Consideration:** Lines 3288-3309 quote from *Rig pa rang shar* establishing Yoga Tantra view:
+**Analysis:** Lines 3288-3309 quote from *Rig pa rang shar* establishing Yoga Tantra view:
 
 **Key Elements:**
 - [3289]: "Yoga's established tenet is like this"
@@ -1073,10 +1090,10 @@ Scriptural Quotation: Rig pa rang shar
 - [3293]: Conduct without rejection-acceptance (*dgag sgrub med pa*)
 -
 
-<context>
+[3287-3310] <context>
 Scriptural Quotation: Rigpa Rangshar
 
-**Architectural Analysis:** Lines 3287-3310 quote from *Rig pa rang shar gyi rgyud* (Self-Arisen Awareness Tantra), a seminal Anuyoga/Dzogchen tantra, establishing the complete Yoga Tantra path structure.
+**Analysis:** Lines 3287-3310 quote from *Rig pa rang shar gyi rgyud* (Self-Arisen Awareness Tantra), a seminal Anuyoga/Dzogchen tantra, establishing the complete Yoga Tantra path structure.
 
 **Complete Path Framework:**
 
@@ -1089,10 +1106,12 @@ Scriptural Quotation: Rigpa Rangshar
 
 **Five Enlightenments (*byang chub lnga*)
 
+[3294-3299]
 : Enumeration of five enlightenments through seat, body, mudra, generation, letters
 - [3300]: "Thus practicing the five enlightenments"
 -
 
+[3294-3299]
 :**
 
 | # | Tibetan | Translation | Aspect |
@@ -1105,9 +1124,11 @@ Scriptural Quotation: Rigpa Rangshar
 
 **Three Non-Shames (*ma khrel gsum*)
 
+[3301-3304]
 : Three non-shames: by yidam deity, by master-disciple, by one's own mind
 -
 
+[3301-3304]
 :**
 - *yi dam lha yis ma khrel* — Non-shame by yidam deity
 - *dpon slob mched kyis ma khrel* — Non-shame by master-disciple
@@ -1115,19 +1136,20 @@ Scriptural Quotation: Rigpa Rangshar
 
 **Technical Note:** *ma khrel* (literally "not embarrassed/ashamed") refers to the spontaneous, uninhibited nature of tantric practice when conducted with pure view.
 
+[3305-3309]
 : Deity and yogi as siblings; non-dual mandala; deity arises from and dissolves into self
 
-<structure>
+[3311-3312] <structure>
 Introduction to Mahayoga
-**Philological Analysis:** Line 3311 introduces the seventh topic (*don bdun pa*) — Mahayoga Tantra (*rgyud ma ha yo ga'i theg pa*).
+**Analysis:** Line 3311 introduces the seventh topic (*don bdun pa*) — Mahayoga Tantra (*rgyud ma ha yo ga'i theg pa*).
 
 **Superiority Over Lower Tantras:**
 1. **Outer three** (*phyi pa gsum*) abstain from meat, etc.; practice bathing/cleanliness; endure austerities — causing distress (*gdungs*)
 
-<concept>
+[3311-3312] <concept>
 Superiority Framework and Mahāyoga Introduction
 
-**Comparative Analysis:** Lines 3311-3316 introduce the seventh topic — Mahāyoga Tantra — establishing the hierarchical superiority framework over lower approaches.
+**Analysis:** Lines 3311-3316 introduce the seventh topic — Mahāyoga Tantra — establishing the hierarchical superiority framework over lower approaches.
 
 **Superiority Schema:**
 

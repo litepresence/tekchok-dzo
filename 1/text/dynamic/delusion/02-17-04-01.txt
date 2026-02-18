@@ -1,10 +1,10 @@
-<conduct-hierarchy> <vehicle-stratification>
+[2064-2120] <conduct-hierarchy> <vehicle-stratification>
 
 **Misreading:**
 The three types of conduct (sutra non-clinging, tantra without-acceptance-rejection, Dzogchen non-attachment) represent hierarchical progression—sutra conduct is beginner-level, tantra is intermediate, Dzogchen is advanced. One must graduate from lower to higher conduct.
 
 **Why it arises:**
-The threefold structure suggests stages. Buddhist traditions often present progressive paths (sutra produces tantra produces Dzogchen). The criticism of first two types implies superiority of third.
+The threefold structure suggests stages. Buddhist traditions often present progressive paths (sutra → tantra → Dzogchen). The criticism of first two types implies superiority of third.
 
 **Primary consequence:**
 The distinction becomes achievement hierarchy. Practitioners attempt to "reach" Dzogchen conduct, believing they must master lower forms first. The teaching that Dzogchen conduct is spontaneous expression becomes goal to attain.
@@ -13,14 +13,14 @@ The distinction becomes achievement hierarchy. Practitioners attempt to "reach" 
 - Believing one must "complete" sutra conduct before tantra
 - Looking down on sutra practitioners as "lower"
 - Attempting to "do" Dzogchen conduct before recognition
-- Not seeing that the difference is recognition, not conduct-level
+- Missing that the difference is recognition, not conduct-level
 
 **Cascade effects:**
-<conduct-hierarchy> triggers <graduated-practice> (working through levels) triggers <elitism> (Dzogchen superiority) triggers <recognition-prevention-error> (seeking advanced conduct).
+<conduct-hierarchy> → <graduated-practice> (working through levels) → <elitism> (Dzogchen superiority) → <recognition-prevention-error> (seeking advanced conduct).
 
 ---
 
-<behavioral-mimicry> <animal-conduct-literalism>
+[2100-2145] <behavioral-mimicry> <animal-conduct-literalism>
 
 **Misreading:**
 The twenty-one animal conduct similes (bee-like, deer-like, mute-like, peacock-like, madman-like, lion-like, dog-pig-like, owl-like, child-like, elephant-like, etc.) describe actual behavioral prescriptions—practitioners should literally imitate these animals' behaviors.
@@ -34,15 +34,15 @@ Conduct becomes behavioral imitation. Practitioners attempt to "act like a madma
 **Secondary consequences:**
 - Deliberately trying to "be spontaneous like a child"
 - Affected madness or unpredictability as "practice"
-- The blind spot: that the similes point to natural qualities, not behaviors
+- Missing that the similes point to natural qualities, not behaviors
 - Creating new persona: "Dzogchen practitioner who acts like..."
 
 **Cascade effects:**
-<behavioral-mimicry> leads to <affected-conduct> (pretending to be natural) generates <identity-formation> (adopting yogi persona) leads to <recognition-prevention-error> (role substitutes for authenticity).
+<behavioral-mimicry> → <affected-conduct> (pretending to be natural) → <identity-formation> (adopting yogi persona) → <recognition-prevention-error> (role substitutes for authenticity).
 
 ---
 
-<performance-obsession> <vajra-song-ritual>
+[2146-2200] <performance-obsession> <vajra-song-ritual>
 
 **Misreading:**
 The vajra song (rdo rje'i glu) and dance instructions describe actual performances—specific times, methods, and benefits of singing and dancing as ritual practices that produce spiritual results.
@@ -56,15 +56,15 @@ Vajra song becomes ritual performance. Practitioners attempt to "do" the songs a
 **Secondary consequences:**
 - Learning ritual songs and dances as "Dzogchen practice"
 - Believing performance at specific times is necessary
-- What's missed: that song/dance are natural outpouring, not ritual
+- Missing that song/dance are natural outpouring, not ritual
 - Creating performance anxiety about "doing it right"
 
 **Cascade effects:**
-<performance-obsession> produces <ritual-obligation> (performing songs/dances) leads to <effortful-spontaneity> (trying to be natural) → <recognition-prevention-error> (ceremony substitutes for recognition).
+<performance-obsession> → <ritual-obligation> (performing songs/dances) → <effortful-spontaneity> (trying to be natural) → <recognition-prevention-error> (ceremony substitutes for recognition).
 
 ---
 
-<temporal-ritualism> <five-times-obligation>
+[2201-2250] <temporal-ritualism> <five-times-obligation>
 
 **Misreading:**
 The five times for secret conduct (distinguishing saṃsāra-nirvāṇa, feast gathering, empowerment, maṇḍala accomplishment, meditation enhancement) create a ritual calendar—practitioners must perform conduct at these specific times.
@@ -73,12 +73,12 @@ The five times for secret conduct (distinguishing saṃsāra-nirvāṇa, feast g
 "Five times" suggests schedule. Vajrayāna has elaborate ritual calendars. The specificity ("feast time," "empowerment time") implies temporal requirements.
 
 **Primary consequence:**
-Conduct becomes time-bound obligation. The error suggests that they must "do" secret conduct at specific times, creating ritual schedule. The teaching that conduct is timeless natural expression becomes temporal performance.
+Conduct becomes time-bound obligation. Practitioners believe they must "do" secret conduct at specific times, creating ritual schedule. The teaching that conduct is timeless natural expression becomes temporal performance.
 
 **Secondary consequences:**
 - Creating conduct-calendar: "today is feast time, must do..."
 - Believing conduct is only appropriate at certain times
-- Unrecognized: that spontaneous conduct is timeless
+- Missing that spontaneous conduct is timeless
 - Time-anxiety about "missing" right moment
 
 **Cascade effects:**
@@ -86,7 +86,7 @@ Conduct becomes time-bound obligation. The error suggests that they must "do" se
 
 ---
 
-<secrecy-fetish> <hidden-practice-exclusivity>
+[2251-2300] <secrecy-fetish> <hidden-practice-exclusivity>
 
 **Misreading:**
 The emphasis on "secret conduct" (gsang spyod) and "not seen by ordinary people" means these practices are esoteric, advanced, and hidden from beginners—requiring special initiation, qualification, or secrecy.
@@ -95,20 +95,20 @@ The emphasis on "secret conduct" (gsang spyod) and "not seen by ordinary people"
 "Secret" suggests esotericism. Vajrayāna has secret teachings (guhyamantra). The phrase "not seen by ordinary" implies exclusivity. Special advanced practices appeal to spiritual ambition.
 
 **Primary consequence:**
-Conduct becomes secret club. Students think they need special permission or qualification, creating hierarchy of "those who know" vs. "ordinary people." The teaching that conduct is natural becomes esoteric mystique.
+Conduct becomes secret club. Practitioners believe they need special permission or qualification, creating hierarchy of "those who know" vs. "ordinary people." The teaching that conduct is natural becomes esoteric mystique.
 
 **Secondary consequences:**
 - Believing one needs initiation for secret conduct
 - Creating exclusivity around "advanced" practices
 - Spiritual pride in "knowing the secrets"
-- Unrecognized: that "secret" means spontaneously hidden, not deliberately concealed
+- Missing that "secret" means spontaneously hidden, not deliberately concealed
 
 **Cascade effects:**
-<secrecy-fetish> produces <obscuration>
+<secrecy-fetish> → <esoteric-elitism> (special knowledge) → <initiation-dependence> (waiting for permission) → <recognition-prevention-error> (exclusivity substitutes for universality).
 
 ---
 
-<literal-madness> <crazy-wisdom-fetish>
+[2301-2350] <literal-madness> <crazy-wisdom-fetish>
 
 **Misreading:**
 The "madman-like conduct" and other transgressive behaviors (dog-pig-like, eating others' food, roaming charnel grounds) license actual antisocial, unethical, or insane behavior in the name of Dzogchen—"crazy wisdom" justifies anything.
@@ -123,14 +123,14 @@ Dzogchen becomes license for unethical behavior. Practitioners claim "crazy wisd
 - Justifying harmful behavior as "beyond ethics"
 - Actual mental illness confused with crazy wisdom
 - Narcissistic acting-out claiming Dzogchen authority
-- What remains unseen is that genuine transcendence is compassionate, not chaotic
+- Missing that genuine transcendence is compassionate, not chaotic
 
 **Cascade effects:**
-<literal-madness> produces <unethical-justification> (harm as wisdom) → <spiritual-narcissism> (me above rules) → <recognition-prevention-error> (chaos substitutes for wisdom).
+<literal-madness> → <unethical-justification> (harm as wisdom) → <spiritual-narcissism> (me above rules) → <recognition-prevention-error> (chaos substitutes for wisdom).
 
 ---
 
-<ascetic-fetish> <charnel-ground-romanticism>
+[2351-2400] <ascetic-fetish> <charnel-ground-romanticism>
 
 **Misreading:**
 The references to charnel-ground roaming, fearlessness, and transcending pure/impure mean one should literally go to cemeteries, burial grounds, and frightening places as practice—physical asceticism proves spiritual attainment.
@@ -139,20 +139,20 @@ The references to charnel-ground roaming, fearlessness, and transcending pure/im
 Charnel-ground practice is documented in Buddhism. Fearlessness is admired quality. The descriptions ("abandon fear mind, go to charnel ground") sound like instructions.
 
 **Primary consequence:**
-Conduct becomes physical ordeal. It's commonly thought that they must go to scary places, court danger, or endure hardship to prove/practice Dzogchen. The teaching that fearlessness is recognition's natural quality becomes stunt performance.
+Conduct becomes physical ordeal. Practitioners believe they must go to scary places, court danger, or endure hardship to prove/practice Dzogchen. The teaching that fearlessness is recognition's natural quality becomes stunt performance.
 
 **Secondary consequences:**
 - Deliberately seeking frightening experiences
 - Believing danger-proving shows attainment
 - Creating new suffering as "practice"
-- What remains unseen is that natural fearlessness is not forced courage
+- Missing that natural fearlessness is not forced courage
 
 **Cascade effects:**
-<ascetic-fetish> leads to <ordeal-seeking> (danger as practice) → <suffering-creation> (new obstacles) → <recognition-prevention-error> (hardship substitutes for ease).
+<ascetic-fetish> → <ordeal-seeking> (danger as practice) → <suffering-creation> (new obstacles) → <recognition-prevention-error> (hardship substitutes for ease).
 
 ---
 
-<method-accumulation> <twenty-one-conduct-mastery>
+[2401-2500] <method-accumulation> <twenty-one-conduct-mastery>
 
 **Misreading:**
 The twenty-one (or twenty-two) conducts constitute a comprehensive system that practitioners should study, memorize, and progressively master—like a curriculum of conduct to complete.
@@ -167,14 +167,14 @@ Conduct becomes academic subject. Practitioners attempt to "learn all twenty-one
 - Memorizing and cataloging the twenty-one conducts
 - Attempting to "practice" each conduct type
 - Believing mastery of all twenty-one is necessary
-- Unrecognized: that the twenty-one describe one natural conduct
+- Missing that the twenty-one describe one natural conduct
 
 **Cascade effects:**
 <method-accumulation> → <curriculum-approach> (studying conducts) → <completion-quest> (mastering all) → <recognition-prevention-error> (knowledge substitutes for being).
 
 ---
 
-<linguistic-fixation> <tibetan-language-requirement>
+[2501-2600] <linguistic-fixation> <tibetan-language-requirement>
 
 **Misreading:**
 The vajra song instructions and specific terminology require Tibetan language proficiency—only those who can sing in Tibetan, understand the terms, or receive oral instruction in Tibetan can practice these conducts.
@@ -183,20 +183,20 @@ The vajra song instructions and specific terminology require Tibetan language pr
 Tibetan terms are untranslated. Vajrayāna emphasizes correct pronunciation. The text is in Tibetan. Language barriers create mystique around "authentic" practice.
 
 **Primary consequence:**
-Conduct becomes language-dependent. One might assume they need Tibetan to "really" practice, creating dependence on translators/teachers. The teaching that conduct is universal becomes culturally bound.
+Conduct becomes language-dependent. Practitioners believe they need Tibetan to "really" practice, creating dependence on translators/teachers. The teaching that conduct is universal becomes culturally bound.
 
 **Secondary consequences:**
 - Believing one must learn Tibetan for authentic practice
 - Dependence on "authorized" translators/teachers
-- Failing to recognize that recognition transcends language
+- Missing that recognition transcends language
 - Cultural appropriation anxiety
 
 **Cascade effects:**
-<linguistic-fixation> produces <language-dependence> (needing Tibetan) → <authority-dependence> (authorized teachers) → <recognition-prevention-error> (language substitutes for recognition).
+<linguistic-fixation> → <language-dependence> (needing Tibetan) → <authority-dependence> (authorized teachers) → <recognition-prevention-error> (language substitutes for recognition).
 
 ---
 
-<non-dual-confusion> <beyond-ethics-misuse>
+[2601-2688] <non-dual-confusion> <beyond-ethics-misuse>
 
 **Misreading:**
 The description of conduct "beyond directions and divisions, like space" means Dzogchen practitioners are "beyond ethics," "beyond rules," and can do anything without karmic consequence—complete license.
@@ -214,11 +214,11 @@ Dzogchen becomes excuse for unethical behavior. Practitioners claim "beyond good
 - Missing that genuine non-dual is compassionate, not amoral
 
 **Cascade effects:**
-<non-dual-confusion> → <awareness-overlooked>
+<non-dual-confusion> → <ethical-nihilism> (rejecting morality) → <harmful-justification> (hurting as wisdom) → <recognition-prevention-error> (license substitutes for liberation).
 
 ---
 
-<trekcho-completion-fixation> <cutting-through-striving>
+[2689-2750] <trekcho-completion-fixation> <cutting-through-striving>
 
 **Misreading:**
 The teaching on trekcho (khregs chod) cutting through represents a practice to complete before moving to thogal (thod rgal) leap-over. One must "finish" trekcho through diligent cutting-through practice to qualify for advanced thogal visions.
@@ -236,11 +236,11 @@ Trekcho becomes obstacle to cross. Practitioners obsess over "completing" trekch
 - Creating hierarchical view of Dzogchen phases
 
 **Cascade effects:**
-<trekcho-completion-fixation> triggers <progress-measurement> (assessing cutting-through) → <thogal-anticipation> (waiting for visions) → <recognition-prevention-error> (sequence substitutes for simultaneity).
+<trekcho-completion-fixation> → <progress-measurement> (assessing cutting-through) → <thogal-anticipation> (waiting for visions) → <recognition-prevention-error> (sequence substitutes for simultaneity).
 
 ---
 
-<thogal-vision-attachment> <light-phenomena-grasping>
+[2751-2820] <thogal-vision-attachment> <light-phenomena-grasping>
 
 **Misreading:**
 The thogal (thod rgal) visions (thig le, rigs lnga, mtha' drug) are spiritual attainments to achieve through practice—successful practitioners will definitely experience these light phenomena, and their presence indicates progress.
@@ -258,11 +258,11 @@ Thogal becomes vision-quest. Practitioners practice specifically to see light ph
 - Comparing vision-experiences with other practitioners
 
 **Cascade effects:**
-<thogal-vision-attachment> creates <phenomena-expectation> (waiting for lights) → <experience-validation> (needing visions) → <recognition-prevention-error> (appearances substitute for essence).
+<thogal-vision-attachment> → <phenomena-expectation> (waiting for lights) → <experience-validation> (needing visions) → <recognition-prevention-error> (appearances substitute for essence).
 
 ---
 
-<rainbow-body-obsession> <ja-lus-chasing>
+[2821-2890] <rainbow-body-obsession> <ja-lus-chasing>
 
 **Misreading:**
 The rainbow body ('ja' lus) is the ultimate goal of Dzogchen practice—the practitioner should work toward achieving this dissolution of physical body into light, which proves complete realization.
@@ -284,7 +284,7 @@ Rainbow body becomes spiritual trophy. Practitioners view Dzogchen as means to a
 
 ---
 
-<bardo-preparation-fixation> <bar-do-technique-accumulation>
+[2891-2960] <bardo-preparation-fixation> <bar-do-technique-accumulation>
 
 **Misreading:**
 The bardo (bar do) teachings provide techniques to practice and master for navigating the death-intermediate state—one must prepare extensively through specific bardophobic practices to ensure favorable rebirth or liberation.
@@ -302,11 +302,11 @@ Bardo becomes fear-driven curriculum. Practitioners obsess over memorizing bardo
 - Missing that bardo recognition is same as present recognition
 
 **Cascade effects:**
-<bardo-preparation-fixation> triggers <death-anxiety> (future preparation) → <technique-insurance> (accumulating methods) → <recognition-prevention-error> (preparation substitutes for presence).
+<bardo-preparation-fixation> → <death-anxiety> (future preparation) → <technique-insurance> (accumulating methods) → <recognition-prevention-error> (preparation substitutes for presence).
 
 ---
 
-<phowa-technique-obsession> <consciousness-transference-fixation>
+[2961-3030] <phowa-technique-obsession> <consciousness-transference-fixation>
 
 **Misreading:**
 The phowa ('pho ba) consciousness-transference practice is a technique to perfect through repetition, ensuring one can "eject" consciousness through the crown aperture at death for guaranteed pure land rebirth.
@@ -324,11 +324,11 @@ Phowa becomes mechanical technique. Practitioners obsess over "hitting the mark"
 - Missing that phowa is spontaneous when recognition is stable
 
 **Cascade effects:**
-<phowa-technique-obsession> triggers <mechanical-practice> (repetition training) → <death-control-illusion> (mastering transference) → <recognition-prevention-error> (technique substitutes for freedom).
+<phowa-technique-obsession> → <mechanical-practice> (repetition training) → <death-control-illusion> (mastering transference) → <recognition-prevention-error> (technique substitutes for freedom).
 
 ---
 
-<ground-path-result-sequentiality> <gzhi-lam-'bras-bu-linearization>
+[3031-3100] <ground-path-result-sequentiality> <gzhi-lam-'bras-bu-linearization>
 
 **Misreading:**
 The ground (gzhi), path (lam), and result ('bras bu) schema represents three sequential stages: first discovering ground, then traversing path, finally achieving result—like journey with distinct phases.
@@ -337,7 +337,7 @@ The ground (gzhi), path (lam), and result ('bras bu) schema represents three seq
 "Ground-path-result" sounds like developmental progression. Buddhist traditions describe paths and stages. Temporal mind structures experience chronologically. Result seems future attainment.
 
 **Primary consequence:**
-Dzogchen becomes three-stage journey. The belief forms that they must "establish" ground recognition, then "traverse" path of practice, eventually "attaining" result—when these are actually simultaneous.
+Dzogchen becomes three-stage journey. Practitioners believe they must "establish" ground recognition, then "traverse" path of practice, eventually "attaining" result—when these are actually simultaneous.
 
 **Secondary consequences:**
 - Searching for "ground" as something separate
@@ -346,11 +346,11 @@ Dzogchen becomes three-stage journey. The belief forms that they must "establish
 - Missing that gzhi-lam-'bras bu are one moment's view
 
 **Cascade effects:**
-<ground-path-result-sequentiality> produces <temporal-projection> (chronologizing) → <attainment-future> (waiting for result) → <recognition-prevention-error> (sequence substitutes for simultaneity).
+<ground-path-result-sequentiality> → <temporal-projection> (chronologizing) → <attainment-future> (waiting for result) → <recognition-prevention-error> (sequence substitutes for simultaneity).
 
 ---
 
-<ka-dag-reification> <primordial-purity-essence>
+[3101-3170] <ka-dag-reification> <primordial-purity-essence>
 
 **Misreading:**
 Ka-dag (ka dag), primordial purity, refers to an original state or essence that exists prior to contamination—a pure ground-nature that is the true self waiting to be discovered.
@@ -368,11 +368,11 @@ Ka-dag becomes metaphysical essence. Practitioners seek "the primordially pure n
 - Missing that ka-dag negates essence, not affirms it
 
 **Cascade effects:**
-<ka-dag-reification> creates <essence-grasping> (original nature) → <eternalistic-view> (substrate-belief) → <recognition-prevention-error> (thing-found substitutes for emptiness).
+<ka-dag-reification> → <essence-grasping> (original nature) → <eternalistic-view> (substrate-belief) → <recognition-prevention-error> (thing-found substitutes for emptiness).
 
 ---
 
-<lhun-grub-reification> <spontaneous-presence-thing>
+[3171-3240] <lhun-grub-reification> <spontaneous-presence-thing>
 
 **Misreading:**
 Lhun-grub (lhun grub), spontaneous presence/self-perfection, describes an inherent quality or capacity of the ground—something the base possesses that allows spontaneous manifestation.
@@ -390,11 +390,11 @@ Lhun-grub becomes inherent quality. Practitioners believe awareness "has" sponta
 - Missing that lhun-grub is unfindable as attribute
 
 **Cascade effects:**
-<lhun-grub-reification> creates <attribute-fixation> (characteristic-grasping) → <inherent-quality-view> (possession-belief) → <recognition-prevention-error> (quality substitutes for empty nature).
+<lhun-grub-reification> → <attribute-fixation> (characteristic-grasping) → <inherent-quality-view> (possession-belief) → <recognition-prevention-error> (quality substitutes for empty nature).
 
 ---
 
-<thugs-rje-reification> <responsive-compassion-substance>
+[3241-3310] <thugs-rje-reification> <responsive-compassion-substance>
 
 **Misreading:**
 Thugs-rje (thugs rje), compassion/responsive emanation, refers to an active power or energy that arises from the ground and manifests as compassionate response to beings' needs.
@@ -412,11 +412,11 @@ Thugs-rje becomes metaphysical energy. Practitioners view compassion as power fl
 - Missing that thugs-rje is empty display, not force
 
 **Cascade effects:**
-<thugs-rje-reification> triggers <nature-missed>
+<thugs-rje-reification> → <energy-substantialization> (power-view) → <emanation-duality> (source-product) → <recognition-prevention-error> (force substitutes for empty display).
 
 ---
 
-<essence-nature-compartmentalization> <ngo-bo-rang-bzhin-thugs-rje-separation>
+[3311-3380] <essence-nature-compartmentalization> <ngo-bo-rang-bzhin-thugs-rje-separation>
 
 **Misreading:**
 The essence-nature-compassion trinity (ngo bo, rang bzhin, thugs rje) represents three distinct aspects or dimensions of the base that can be understood and experienced separately—like facets of a jewel.
@@ -434,11 +434,11 @@ Trinity becomes compartmentalized. Practitioners study "essence" separately from
 - Missing that they are one reality's view
 
 **Cascade effects:**
-<essence-nature-compartmentalization> creates <awareness-overlooked>
+<essence-nature-compartmentalization> → <analytical-fragmentation> (separating unity) → <partial-grasping> (holding one aspect) → <recognition-prevention-error> (parts substitute for whole).
 
 ---
 
-<direct-recognition-achievement> <ngo-shes-goal-state>
+[3381-3450] <direct-recognition-achievement> <ngo-shes-goal-state>
 
 **Misreading:**
 Direct recognition (ngo shes pa, ngo sprod) is a special achievement, attainment, or goal-state that practitioners work toward through practice, pointing-out instructions, and meditation.
@@ -456,11 +456,11 @@ Recognition becomes prize to win. Practitioners view direct recognition as peak 
 - Missing that recognition is not an achievement
 
 **Cascade effects:**
-<direct-recognition-achievement> leads to <experience-goal> (target state) → <present-rejection> (current state inadequate) → <recognition-prevention-error> (attainment substitutes for presence).
+<direct-recognition-achievement> → <experience-goal> (target state) → <present-rejection> (current state inadequate) → <recognition-prevention-error> (attainment substitutes for presence).
 
 ---
 
-<spontaneous-perfection-waiting> <lhun-rdzogs-passivity>
+[3451-3520] <spontaneous-perfection-waiting> <lhun-rdzogs-passivity>
 
 **Misreading:**
 Spontaneous perfection (lhun rdzogs) means everything will automatically work out—one doesn't need to do anything because reality is already perfect, so waiting is the practice.
@@ -478,11 +478,11 @@ Spontaneous perfection becomes excuse for inaction. Practitioners justify lazine
 - Using Dzogchen to avoid change
 
 **Cascade effects:**
-<spontaneous-perfection-waiting> triggers <passive-complacency> (inaction-justification) → <ordinary-mind-fixation> (habits-affirmed) → <recognition-prevention-error> (waiting substitutes for recognition).
+<spontaneous-perfection-waiting> → <passive-complacency> (inaction-justification) → <ordinary-mind-fixation> (habits-affirmed) → <recognition-prevention-error> (waiting substitutes for recognition).
 
 ---
 
-<self-liberation-complacency> <rang-grol-license>
+[3521-3590] <self-liberation-complacency> <rang-grol-license>
 
 **Misreading:**
 Self-liberation (rang grol) means all phenomena liberate themselves automatically—one doesn't need to do anything about thoughts, emotions, or actions because they self-liberate.
@@ -500,11 +500,11 @@ Self-liberation becomes license for non-engagement. Practitioners allow harmful 
 - Missing that self-liberation requires recognition
 
 **Cascade effects:**
-<self-liberation-complacency> produces <bypassing-behavior> (unchecked-patterns) → <ethical-dismissal> (morality-rejected) → <recognition-prevention-error> (license substitutes for liberation).
+<self-liberation-complacency> → <bypassing-behavior> (unchecked-patterns) → <ethical-dismissal> (morality-rejected) → <recognition-prevention-error> (license substitutes for liberation).
 
 ---
 
-<recognition-pressure> <ngo-shes-performance-anxiety>
+[3591-3660] <recognition-pressure> <ngo-shes-performance-anxiety>
 
 **Misreading:**
 Direct recognition is something one should be able to "get" or maintain consistently—pressure to recognize creates anxiety about not recognizing, which blocks natural recognition.
@@ -522,11 +522,11 @@ Recognition becomes performance pressure. Practitioners create anxiety about "ge
 - Missing that recognition is not personal achievement
 
 **Cascade effects:**
-<recognition-pressure> creates <awareness-overlooked>
+<recognition-pressure> → <performance-anxiety> (recognition-striving) → <grasping-recognition> (trying to hold) → <recognition-prevention-error> (pressure substitutes for ease).
 
 ---
 
-<vision-achievement-anxiety> <thogal-mtha'-drug-striving>
+[3661-3730] <vision-achievement-anxiety> <thogal-mtha'-drug-striving>
 
 **Misreading:**
 The six visions/limits (mtha' drug) of thogal are achievements to work toward through practice—successful practitioners will progress through these stages, and failure to experience them indicates insufficient practice.
@@ -544,11 +544,11 @@ Thogal visions become competitive achievements. Practitioners create anxiety abo
 - Missing that visions are recognition's display, not goals
 
 **Cascade effects:**
-<vision-achievement-anxiety> generates <progress-comparison> (measuring-visions) → <expectation-creation> (waiting for stages) → <recognition-prevention-error> (achievement substitutes for presence).
+<vision-achievement-anxiety> → <progress-comparison> (measuring-visions) → <expectation-creation> (waiting for stages) → <recognition-prevention-error> (achievement substitutes for presence).
 
 ---
 
-<pure-land-destination> <de-bzhin-gshegs-pa'i-sngon-bsgrub>
+[3731-3800] <pure-land-destination> <de-bzhin-gshegs-pa'i-sngon-bsgrub>
 
 **Misreading:**
 The pure land (zhing khams) teachings describe actual destinations to achieve or be reborn in through practice, visualization, and merit accumulation—Sukhāvatī, Abhirati, etc. are places to reach.
@@ -566,11 +566,11 @@ Pure land becomes geographical goal. Practitioners visualize pure lands as desti
 - Missing that zhing khams is inseparable from rig pa
 
 **Cascade effects:**
-<pure-land-destination> triggers <spatial-projection> (place-fantasy) → <rebirth-goal> (destination-striving) → <recognition-prevention-error> (there substitutes for here).
+<pure-land-destination> → <spatial-projection> (place-fantasy) → <rebirth-goal> (destination-striving) → <recognition-prevention-error> (there substitutes for here).
 
 ---
 
-<deity-yoga-identification> <lha'i-rnal-'byor-fixation>
+[3801-3870] <deity-yoga-identification> <lha'i-rnal-'byor-fixation>
 
 **Misreading:**
 Deity yoga (lha'i rnal 'byor) involves identifying with a specific deity through visualization, mantra, and mudra, creating the sense that "I am the deity" as practice achievement.
@@ -588,11 +588,11 @@ Deity yoga becomes identity-achievement. Practitioners work to "become" the deit
 - Missing that lha is rang snang, not transformation
 
 **Cascade effects:**
-<deity-yoga-identification> creates <identity-achievement> (becoming-practice) → <duality-reinforcement> (practitioner-deity) → <recognition-prevention-error> (transformation substitutes for nature).
+<deity-yoga-identification> → <identity-achievement> (becoming-practice) → <duality-reinforcement> (practitioner-deity) → <recognition-prevention-error> (transformation substitutes for nature).
 
 ---
 
-<ground-path-result-reification> <gzhi-lam-'bras-bhu-thingification>
+[3871-3940] <ground-path-result-reification> <gzhi-lam-'bras-bhu-thingification>
 
 **Misreading:**
 Ground, path, and result are three distinct realities or things—the ground is the base, the path is what we traverse, and the result is what we achieve—like three separate entities.
@@ -610,11 +610,11 @@ Gzhi-lam-'bras-bu become reified as things. Practitioners view ground as "thing 
 - Missing that they are one reality's three views
 
 **Cascade effects:**
-<ground-path-result-reification> → <rigpa-unseen>
+<ground-path-result-reification> → <triple-thingification> (three-entities) → <attainment-separation> (finding-traveling-getting) → <recognition-prevention-error> (things substitute for view).
 
 ---
 
-<primordial-purity-waiting> <ka-dag-temporal-projection>
+[3941-4010] <primordial-purity-waiting> <ka-dag-temporal-projection>
 
 **Misreading:**
 Primordial purity (ka dag) refers to an original state before time that one can return to or recover through practice—"primordial" means "long ago" and "purity" means uncontaminated.
@@ -632,11 +632,11 @@ Ka-dag becomes lost golden age. Practitioners view themselves as separated from 
 - Missing that ka-dag is timeless, not "long ago"
 
 **Cascade effects:**
-<primordial-purity-waiting> → <nature-missed>
+<primordial-purity-waiting> → <temporal-fallacy> (then-now) → <recovery-project> (return-striving) → <recognition-prevention-error> (past substitutes for present).
 
 ---
 
-<spontaneous-presence-achievement> <lhun-grub-striving>
+[4011-4080] <spontaneous-presence-achievement> <lhun-grub-striving>
 
 **Misreading:**
 Spontaneous presence (lhun grub) is a quality to develop or increase through practice—one should work to make awareness more "spontaneously present" and self-perfected.
@@ -654,11 +654,11 @@ Lhun-grub becomes self-improvement goal. Practitioners attempt to "increase" spo
 - Missing that lhun-grub is never absent
 
 **Cascade effects:**
-<spontaneous-presence-achievement> generates <quality-development> (improving-presence) → <effort-toward-effortlessness> (striving-to-spontaneity) → <recognition-prevention-error> (development substitutes for nature).
+<spontaneous-presence-achievement> → <quality-development> (improving-presence) → <effort-toward-effortlessness> (striving-to-spontaneity) → <recognition-prevention-error> (development substitutes for nature).
 
 ---
 
-<compassion-accumulation> <thugs-rje-cultivation>
+[4081-4150] <compassion-accumulation> <thugs-rje-cultivation>
 
 **Misreading:**
 Compassion (thugs rje) is a quality to cultivate, develop, and increase through practice—one should work on becoming more compassionate, expanding thugs-rje as attribute of realization.
@@ -676,9 +676,9 @@ Thugs-rje becomes cultivation project. Practitioners attempt to "develop" compas
 - Missing that thugs-rje is empty display, not quality
 
 **Cascade effects:**
-<compassion-accumulation> leads to <virtue-cultivation> (developing-thugs-rje) → <attainment-hierarchy> (more-compassionate) → <recognition-prevention-error> (cultivation substitutes for nature).
+<compassion-accumulation> → <virtue-cultivation> (developing-thugs-rje) → <attainment-hierarchy> (more-compassionate) → <recognition-prevention-error> (cultivation substitutes for nature).
 
 ---
 
-<complete-section-note>
+[4151-4200] <complete-section-note>
 

@@ -1,6 +1,6 @@
-<vehicle-elitism> <sravaka-dismissal>
+[2539-2542] <vehicle-elitism> <sravaka-dismissal>
 **Misreading:**
-The Sravaka vehicle described as seeking "liberation for oneself alone" interpreted as selfish individualism to be morally condemned, rather than than recognizing it as an appropriate path for certain capacities.
+The Sravaka vehicle described as seeking "liberation for oneself alone" interpreted as selfish individualism to be morally condemned, rather than recognizing it as an appropriate path for certain capacities.
 
 **Why it arises:**
 Mahayana rhetoric emphasizes compassion for all beings. "Self-liberation" sounds selfish. Moral superiority of bodhisattva path seems obvious.
@@ -16,7 +16,7 @@ Triggers <sectarian-superiority> (looking down on others), <foundation-neglect> 
 
 ---
 
-<atomistic-reification> <partless-particle-fetish>
+[2543-2551] <atomistic-reification> <partless-particle-fetish>
 **Misreading:**
 The Vaibhasika "partless atoms" (*rdul phran cha med*) interpreted as Buddhist physics confirming the ultimate existence of smallest units—substantialism smuggled into analysis.
 
@@ -34,7 +34,7 @@ Triggers <scientific-materialism> (Buddhist physics), <reductionist-fixation> (a
 
 ---
 
-<conventional-ultimate-dualism> <two-truth-reification>
+[2552-2558] <conventional-ultimate-dualism> <two-truth-reification>
 **Misreading:**
 The distinction between conventional truth (*kun rdzob bden pa*) and ultimate truth (*don dam bden pa*) interpreted as establishing two levels of reality—conventional illusion vs. ultimate reality.
 
@@ -52,7 +52,7 @@ Triggers <hierarchical-dualism> (ultimate > conventional), <experience-seeking> 
 
 ---
 
-<momentary-reification> <instantaneous-substantialism>
+[2559-2566] <momentary-reification> <instantaneous-substantialism>
 **Misreading:**
 The Sautrantika "momentary dharmas" (*skad cig ma*) interpreted as establishing the ultimate truth of momentary existence—time-slices as fundamental reality.
 
@@ -70,7 +70,7 @@ Triggers <temporal-atomism> (moments as real), <continuity-denial> (rejecting fl
 
 ---
 
-<four-noble-truths-ontologization> <truth-entities>
+[2567-2574] <four-noble-truths-ontologization> <truth-entities>
 **Misreading:**
 The four noble truths (*bden pa bzhi*) interpreted as describing four ultimate facts about existence—ontological claims about how reality is structured.
 
@@ -88,7 +88,7 @@ Triggers <doctrinal-fundamentalism> (believing truths), <ontological-buddhism> (
 
 ---
 
-<antidote-accumulation> <medication-model>
+[2575-2584] <antidote-accumulation> <medication-model>
 **Misreading:**
 The specific antidotes (impurity for desire, love for anger, dependent arising for delusion) interpreted as spiritual medications to be applied—technique accumulation for affliction-management.
 
@@ -106,7 +106,7 @@ Triggers <technique-accumulation> (collecting antidotes), <symptom-management> (
 
 ---
 
-<faculty-hierarchy> <capacity-elitism>
+[2585-2597] <faculty-hierarchy> <capacity-elitism>
 **Misreading:**
 The three faculties (dull, medium, sharp) interpreted as establishing spiritual castes—sharp practitioners as superior, dull as defective.
 
@@ -124,7 +124,7 @@ Triggers <spiritual-caste> (faculty as identity), <capacity-shame> (feeling dull
 
 ---
 
-<rhinoceros-romanticism> <solitude-fetish>
+[2598-2606] <rhinoceros-romanticism> <solitude-fetish>
 **Misreading:**
 The Pratyekabuddha as "rhinoceros-like" (*bse ru lta bu*) solitary practitioner interpreted as idealizing isolation—withdrawal from society as spiritually superior.
 
@@ -142,7 +142,7 @@ Triggers <isolation-obsession> (avoiding people), <social-aversion> (rejecting c
 
 ---
 
-<bodhisattva-vow-burden> <savior-complex>
+[2607-2618] <bodhisattva-vow-burden> <savior-complex>
 **Misreading:**
 The bodhisattva vow to liberate all beings interpreted as literal obligation creating crushing responsibility—impossible task generating guilt.
 
@@ -160,7 +160,7 @@ Triggers <savior-complex> (must save all), <vow-guilt> (failing beings), <imposs
 
 ---
 
-<six-perfections-accumulation> <paramita-shopping>
+[2619-2632] <six-perfections-accumulation> <paramita-shopping>
 **Misreading:**
 The six perfections (*pha rol tu phyin pa drug*) interpreted as six qualities to acquire through practice—accumulation project spanning countless lifetimes.
 
@@ -178,7 +178,7 @@ Triggers <perfection-accumulation> (getting qualities), <lifetimes-project> (end
 
 ---
 
-<ground-stage-obsession> <bhumi-ladder>
+[2633-2650] <ground-stage-obsession> <bhumi-ladder>
 **Misreading:**
 The ten grounds (*sa bcu*) and five paths (*lam lnga*) interpreted as mandatory curriculum—practitioner must progress through each sequentially.
 
@@ -196,7 +196,7 @@ Triggers <stage-obsession> (tracking progress), <ground-hierarchy> (higher is be
 
 ---
 
-<tathagatagarbha-essentialism> <buddha-nature-substantialism>
+[2651-2660] <tathagatagarbha-essentialism> <buddha-nature-substantialism>
 **Misreading:**
 The Tathagatagarbha system "Buddha-nature endowed with virtues from beginning" interpreted as confirming essential self—permanent Buddha-core as true identity.
 
@@ -214,7 +214,7 @@ Triggers <buddha-nature-atman> (essential self), <possession-error> (having budd
 
 ---
 
-<empowerment-dependence> <external-bestowal>
+[2661-2680] <empowerment-dependence> <external-bestowal>
 **Misreading:**
 The tenth ground empowerment by Buddhas interpreted as literal transmission requiring external validation—buddhahood impossible without others' blessing.
 
@@ -222,7 +222,7 @@ The tenth ground empowerment by Buddhas interpreted as literal transmission requ
 "Empowerment" suggests power transfer. "Surrounded by Buddhas" sounds like ceremony. Ritual frameworks expect external validation.
 
 **Primary consequence:**
-Recognition is made dependent on external authority. Practitioners wait for empowerment nature.
+Recognition is made dependent on external authority. Practitioners wait for empowerment rather than recognizing nature.
 
 **Secondary consequences:**
 Guru-dependence intensifies. Self-recognition is distrusted. External ritual replaces direct insight.
@@ -232,6 +232,9 @@ Triggers <empowerment-obsession> (seeking blessings), <external-validation> (nee
 
 ---
 
+
 Page 2539-2680 presents the three vehicles (Sravaka, Pratyekabuddha, Bodhisattva) with their respective paths, grounds, and systems. This is foundational doxography that continues into subsequent pages analyzing result vehicles (tantra) and Dzogchen.
+
+
 
 **CONTINUITY NOTE:** Lines 2681+ transition to result vehicle (tantra) analysis. The vehicle framework established here continues but becomes increasingly subtle as Atiyoga is approached.

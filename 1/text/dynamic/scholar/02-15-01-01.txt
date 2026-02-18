@@ -1,60 +1,60 @@
-<architectural-analysis>
+[1-2] <structure>
 # Volume 2 Introduction
-**Examination:** This page opens the second volume (glegs bam phyi ma) of the *Theg mchog mdzod*. Following traditional Tibetan textual architecture, the volume begins with the *yig mgo* (head mark) ༄༅། signaling the start of a new section.
+**Analysis:** This page opens the second volume (glegs bam phyi ma) of the *Theg mchog mdzod*. Following traditional Tibetan textual architecture, the volume begins with the *yig mgo* (head mark) ༄༅། signaling the start of a new section.
 
-<structural-mapping>
+[005-008] <structure>
 ## Major Division: Presentation of Dependent Arising
-**Consideration:** Having established the distinction between *kun gzhi* (alaya) and *chos sku* (dharmakaya) in Volume 1, Longchenpa now transitions to analyzing *rten 'byung ba'i rang bzhin* (the nature of dependent arising). This follows the standard Nyingma *mdzod* progression: first establishing Ground (*gzhi*), then explaining how phenomena manifest through dependent arising.
+**Analysis:** Having established the distinction between *kun gzhi* (alaya) and *chos sku* (dharmakaya) in Volume 1, Longchenpa now transitions to analyzing *rten 'byung ba'i rang bzhin* (the nature of dependent arising). This follows the standard Nyingma *mdzod* progression: first establishing Ground (*gzhi*), then explaining how phenomena manifest through dependent arising.
 
-[5] <grammatical-examination> Particle Analysis: *de ltar*
-**Investigation:** The opening particle *de ltar* (thus/having thus) establishes continuity with the preceding volume. This is not a new topic but a continuation of the systematic presentation of the Ground.
+[5] <philology> Particle Analysis: *de ltar*
+**Analysis:** The opening particle *de ltar* (thus/having thus) establishes continuity with the preceding volume. This is not a new topic but a continuation of the systematic presentation of the Ground.
 
 [10] <concept> The Two Types of Arising
-**Philological analysis:** Longchenpa presents a twofold division:
+**Analysis:** Longchenpa presents a twofold division:
 1. *Thun mong gi dbye ba* (common distinction) - presented first
 2. *So so'i rang bzhin rgyas par bshad pa* (extensive explanation of individual natures) - to follow
 
 This mirrors the structure found in other *mdzod* literature where general classifications precede detailed analyses.
 
-<linguistic-analysis>
+[010-013] <philology>
 Terminological Precision: *'byung ba*
-**Close reading:** The term *'byung ba* (arising/element) functions polysemously here:
+**Analysis:** The term *'byung ba* (arising/element) functions polysemously here:
 - In the context of *'byung ba chen po lnga* (five great elements), it refers to the mahabhuta system
 - In the compound *phyi'i 'byung ba*, it denotes externally manifest phenomena
 - The particle *'i* marks the genitive relationship between outer/inner and arising
 
-[15] <historical-context> Doxographical Situating
-**Examination:** This presentation of the five elements (*'byung ba lnga*) operates within the tantric framework where:
+[15] <context> Doxographical Situating
+**Analysis:** This presentation of the five elements (*'byung ba lnga*) operates within the tantric framework where:
 - Samsaric experience involves the *confused* (*'khrul pa*) five elements
 - Nirvanic realization involves the *pure* (*dag pa*) five elements
 This distinguishes Nyingma presentation from Sarma schools, which often present the five elements solely as samsaric constituents to be purified.
 
 [17] <concept> The Five Confused Arising
-**Consideration:** Sentient beings (*sems can*) operate within:
+**Analysis:** Sentient beings (*sems can*) operate within:
 - *'Byung lnga 'khrul pa'i dbyings* (the expanse of the five confused arising)
 - This refers to the ordinary perception of earth, water, fire, wind, and space as solid, liquid, etc.
 - The *dbyings* (expanse/basis) here indicates the dimension in which ordinary experience unfolds
 
-<concept>
+[019-020] <concept>
 The Five Pure Arising
-**Investigation:** Buddhas dwell in the expanse where:
+**Analysis:** Buddhas dwell in the expanse where:
 - Earth lacks solidity (*sa sra ba med pa*)
 - Water lacks liquidity, etc.
 - The stains (*dri ma*) of the five great arising are completely ceased (*shin tu zad pa*)
 
 This represents the tantric transformation where elemental perception shifts from coarse to subtle.
 
-<grammatical-examination>
+[021-022] <philology>
 Technical Distinction: *'byung ba chen po* vs. *'byung chung*
-**Philological analysis:** Longchenpa distinguishes:
+**Analysis:** Longchenpa distinguishes:
 - *'Byung ba chen po* (great arising) = *'od gsal ba'i ye shes* (luminosity wisdom) possessing five colors
 - *'byung chung* (small arising) = the conventional five elements (earth, water, fire, wind, space)
 
 This distinction is crucial for understanding Dzogchen cosmology, where the "great" elements are primordial wisdom manifestations, while the "small" elements are their coarse crystallizations.
 
-<concept>
+[024-029] <concept>
 The Five Characteristics of Pure Elements
-**Close reading:** The five pure arising possess:
+**Analysis:** The five pure arising possess:
 1. *gsal ba* (clear/limpid) - corresponding to the clarity aspect
 2. *dro ba* (warm) - the temperature aspect  
 3. *yang ba* (bright/light) - the luminous aspect
@@ -63,50 +63,50 @@ The Five Characteristics of Pure Elements
 
 These qualities (*g.yo ba'i bdag nyid 'dzin pa*) represent the dynamic, self-nature of movement within pure appearance.
 
-<doxographical-placement>
+[030-031] <context>
 Tantric Technical Language
-**Examination:** The phrase *'od gsal lnga klong du phebs* describes the process where the five confused arising dissolve into the five luminosities arriving in the expanse (*klong*). This language derives from *Guhyagarbha* and *Kulayaraja* tantra cycles, where elemental dissolution (*'byung 'jig*) precedes realization.
+**Analysis:** The phrase *'od gsal lnga klong du phebs* describes the process where the five confused arising dissolve into the five luminosities arriving in the expanse (*klong*). This language derives from *Guhyagarbha* and *Kulayaraja* tantra cycles, where elemental dissolution (*'byung 'jig*) precedes realization.
 
-<concept>
+[034-035] <concept>
 Two Types of Small Arising
-**Consideration:** Within *'byung chung* (small arising), Longchenpa distinguishes:
+**Analysis:** Within *'byung chung* (small arising), Longchenpa distinguishes:
 1. *'byung gzugs* (arising-form) - externally appearing elements
 2. *'byung ba dngos* (actual arising) - the five body qualities (*lus kyi chos srab pa la sogs pa lnga*) that serve as the basis for inner arising
 
-[37] <linguistic-analysis> Terminology: *chos 'byung*
-**Investigation:** *Chos 'byung* (dharma-arising) here refers to the five individual pure realm supports (*khams dag pa pa'i rten*). This is distinct from ordinary usage where *chos 'byung* might mean "source of dharma."
+[37] <philology> Terminology: *chos 'byung*
+**Analysis:** *Chos 'byung* (dharma-arising) here refers to the five individual pure realm supports (*khams dag pa pa'i rten*). This is distinct from ordinary usage where *chos 'byung* might mean "source of dharma."
 
-<historical-context>
+[038-039] <context>
 Dzogchen View Statement
-**Philological analysis:** The assertion that *'khor 'das thams cad 'byung lnga'i dbyings las ma g.yos* (all samsara and nirvana have not moved from the expanse of the five arising) encapsulates the Dzogchen view:
+**Analysis:** The assertion that *'khor 'das thams cad 'byung lnga'i dbyings las ma g.yos* (all samsara and nirvana have not moved from the expanse of the five arising) encapsulates the Dzogchen view:
 - Samsara and nirvana are not different locations but different modalities of recognition
 - Both arise from the same basis (*gzhi*) of the five elements
 - This distinguishes the Nyingma "same taste" (*ro gcig*) view from dualistic presentations
 
-<architectural-analysis>
+[040-055] <structure>
 Root Text Quotation
-**Close reading:** Lines 40-55 comprise a verse quotation from the *Rang shar* (Self-Arisen) tantra, a key Nyingma *Atiyoga* text. The formula *rang shar las/* followed by citation markers indicates this is direct scriptural quotation, not Longchenpa's own composition.
+**Analysis:** Lines 40-55 comprise a verse quotation from the *Rang shar* (Self-Arisen) tantra, a key Nyingma *Atiyoga* text. The formula *rang shar las/* followed by citation markers indicates this is direct scriptural quotation, not Longchenpa's own composition.
 
-[41] <grammatical-examination> Interjection: *kye ho*
-**Examination:** *Kye ho* is a vocative interjection calling attention, here addressing *gsang ba'i bdag po* (Lord of Secrets, i.e., Vajrapani). This marks the citation as tantric revelation rather than sutra.
+[41] <philology> Interjection: *kye ho*
+**Analysis:** *Kye ho* is a vocative interjection calling attention, here addressing *gsang ba'i bdag po* (Lord of Secrets, i.e., Vajrapani). This marks the citation as tantric revelation rather than sutra.
 
-[44] <doxographical-placement> Terminology: *bcom ldan 'das*
-**Consideration:** *Bcom ldan 'das* (Bhagavan) is one of the standard epithets for Buddha, indicating the text's reverence for the enlightened source of the teaching.
+[44] <context> Terminology: *bcom ldan 'das*
+**Analysis:** *Bcom ldan 'das* (Bhagavan) is one of the standard epithets for Buddha, indicating the text's reverence for the enlightened source of the teaching.
 
 [50] <concept> The "Mother Expanse"
-**Investigation:** The phrase *ma yi dbyings* (mother expanse) identifies the five arising themselves as the primordial source. In Dzogchen, *ma* (mother) refers to the spontaneous presence (*lhun grub*) aspect of the ground, as distinguished from *ka dag* (primordial purity).
+**Analysis:** The phrase *ma yi dbyings* (mother expanse) identifies the five arising themselves as the primordial source. In Dzogchen, *ma* (mother) refers to the spontaneous presence (*lhun grub*) aspect of the ground, as distinguished from *ka dag* (primordial purity).
 
-<structural-mapping>
+[056-057] <structure>
 Transition Marker
-**Philological analysis:** *Gnyis pa* (second) marks the transition to the second major division: the extensive explanation of individual natures. This formal structural marker (*sa bcad*) is typical of Tibetan scholastic writing.
+**Analysis:** *Gnyis pa* (second) marks the transition to the second major division: the extensive explanation of individual natures. This formal structural marker (*sa bcad*) is typical of Tibetan scholastic writing.
 
-<architectural-analysis>
+[057-058] <structure>
 # Major Division: Extensive Explanation of Outer and Inner Arising
-**Close reading:** Following the structural marker from page 1, Longchenpa now presents the *rgyas par bshad pa* (extensive explanation) of both outer and inner arising. This creates the detailed analytical framework (*sa bcad*) for the remainder of this section.
+**Analysis:** Following the structural marker from page 1, Longchenpa now presents the *rgyas par bshad pa* (extensive explanation) of both outer and inner arising. This establishes the detailed analytical framework (*sa bcad*) for the remainder of this section.
 
-<structure>
+[059-069] <structure>
 ## The Tenfold Presentation Framework
-**Examination:** The outer-arising is presented through ten analytical categories (*tshang tshul dang bcu*):
+**Analysis:** The outer-arising is presented through ten analytical categories (*tshang tshul dang bcu*):
 1. *ngo bo* (essence)
 2. *nges tshig* (definitive terminology/etymology)
 3. *dgos ched* (purpose/function)
@@ -118,40 +118,40 @@ Transition Marker
 9. *dbye ba* (divisions)
 10. *tshang tshul* (manner of completeness)
 
-This tenfold structure shows the formal scholastic methodology (*mkhas pa'i bsdus grwa*) typical of Tibetan *mdzod* literature, ensuring exhaustive analysis of each topic.
+This tenfold structure reflects the formal scholastic methodology (*mkhas pa'i bsdus grwa*) typical of Tibetan *mdzod* literature, ensuring exhaustive analysis of each topic.
 
-<concept>
+[070-072] <concept>
 The Essence: Container and Contents
-**Consideration:** The essence (*ngo bo*) is explained through the relationship between:
+**Analysis:** The essence (*ngo bo*) is explained through the relationship between:
 - *Phyir 'byung gzugs* (outer-arising form) = the container-world (*snod kyi snang ba*)
 - *Nang 'byung dngos* (inner-arising actuality) = the play (*rol pa*) that manifests outwardly
 
 This establishes the fundamental Dzogchen principle: external phenomena are the display of internal subtle physiology.
 
-[71] <linguistic-analysis> Particle Analysis: *yin pas*
-**Investigation:** The causal connective *yin pas* (because it is) establishes the logical foundation: outer form appears AS the play of inner actuality. This is not merely correlation but identity—the outer IS the inner's manifestation.
+[71] <philology> Particle Analysis: *yin pas*
+**Analysis:** The causal connective *yin pas* (because it is) establishes the logical foundation: outer form appears AS the play of inner actuality. This is not merely correlation but identity—the outer IS the inner's manifestation.
 
-[72] <grammatical-examination> Terminology: *khongs su 'du*
-**Philological analysis:** *Khongs su 'du* (gathered within the category/domain) indicates taxonomic inclusion. The five outer elements are categorized (*'du*) as included within the inner domain, reversing ordinary perception where the inner appears contained by the outer.
+[72] <philology> Terminology: *khongs su 'du*
+**Analysis:** *Khongs su 'du* (gathered within the category/domain) indicates taxonomic inclusion. The five outer elements are categorized (*'du*) as included within the inner domain, reversing ordinary perception where the inner appears contained by the outer.
 
-<historical-context>
+[073-077] <context>
 Citation from the Rang Shar
-**Close reading:** The verse citation beginning *sa dang chu dang me dang ni/* lists the conventional five elements in standard order. This appears in the *Rang shar gyi rgyud* (Self-Arisen Tantra), a major *Atiyoga* text of the *Ma rgyud* (Mother Tantra) cycle within the Nyingma canon.
+**Analysis:** The verse citation beginning *sa dang chu dang me dang ni/* lists the conventional five elements in standard order. This appears in the *Rang shar gyi rgyud* (Self-Arisen Tantra), a major *Atiyoga* text of the *Ma rgyud* (Mother Tantra) cycle within the Nyingma canon.
 
-<concept>
+[078-079] <concept>
 The Two Supports
-**Examination:** Longchenpa distinguishes two types of support (*rten*):
+**Analysis:** Longchenpa distinguishes two types of support (*rten*):
 - *Semis can gyi rten snod* (sentient beings' container-support) = the external world
 - *Sems dang rig pa'i rten* (support for mind and awareness) = the internal subtle physiology
 
 This distinction (*snod bcud*) is fundamental to Buddhist cosmology, where the environment is the "container" and beings are the "contents."
 
-[80] <doxographical-placement> Source Text: Thalgyur
-**Consideration:** *Thal 'gyur* (Penetration of Sound/Resonance) is a major *Atiyoga* tantra within the *Ma rgyud* cycle. Its name refers to the spontaneous penetration (*thal*) of realization through sound (*'gyur*), a characteristic teaching of *Semde* (Mind Series) Dzogchen.
+[80] <context> Source Text: Thalgyur
+**Analysis:** *Thal 'gyur* (Penetration of Sound/Resonance) is a major *Atiyoga* tantra within the *Ma rgyud* cycle. Its name refers to the spontaneous penetration (*thal*) of realization through sound (*'gyur*), a characteristic teaching of *Semde* (Mind Series) Dzogchen.
 
-<concept>
+[082-086] <concept>
 Karma and the Elements
-**Investigation:** The Thalgyur verse presents a causal chain:
+**Analysis:** The Thalgyur verse presents a causal chain:
 1. *Spyi mthun las kyi bye brag* (particularities of general-common karma)
 2. *Sems can las kyi rten so yis* (by individual karma-supports)
 3. *Phyi yi 'byung ba la brten nas* (relying on outer-arising)
@@ -159,12 +159,12 @@ Karma and the Elements
 
 This establishes the dependent origination (*rten 'brel*) relationship between karma, elements, and embodied existence.
 
-[85] <linguistic-analysis> Terminology: *gsos*
-**Philological analysis:** *Gso* (sustenance/nutriment) refers to the ayurvedic/buddhist concept of nourishing essence that sustains the body-mind continuum.
+[85] <philology> Terminology: *gsos*
+**Analysis:** *Gso* (sustenance/nutriment) refers to the ayurvedic/buddhist concept of nourishing essence that sustains the body-mind continuum.
 
-<concept>
+[088-099] <concept>
 Seven Definitions of Great Arising
-**Close reading:** From the Rang Shar, seven etymological definitions (*nges tshig*) of *'byung ba chen po* (great arising):
+**Analysis:** From the Rang Shar, seven etymological definitions (*nges tshig*) of *'byung ba chen po* (great arising):
 
 1. **Not arisen through fabrication** (*byas pas ma byung*) - contrasts with created phenomena
 2. **Spontaneously complete** (*lhun gyis grub*) - naturally accomplished without effort
@@ -176,12 +176,12 @@ Seven Definitions of Great Arising
 
 These seven definitions collectively establish the *'byung ba chen po* as primordial wisdom-elements, not merely material constituents.
 
-[91] <grammatical-examination> Particle: *lhun gyis*
-**Examination:** *Lhun gyis* (spontaneously/naturally) is the adverbial form of *lhun grub*. The instrumental particle *kyis* here indicates manner: "by way of spontaneous presence."
+[91] <philology> Particle: *lhun gyis*
+**Analysis:** *Lhun gyis* (spontaneously/naturally) is the adverbial form of *lhun grub*. The instrumental particle *kyis* here indicates manner: "by way of spontaneous presence."
 
-<concept>
+[100-127] <concept>
 Detailed Functions of the Five Elements
-**Consideration:** The Thalgyur presents specific physiological functions:
+**Analysis:** The Thalgyur presents specific physiological functions:
 
 **Water:**
 - Gathers clear essence (*dwangs ma sdud*)
@@ -206,15 +206,15 @@ Detailed Functions of the Five Elements
 - Holds body through movement (*'gul zhing 'phrig pas lus 'dzin*)
 - Known as: abode of mind (*sems kyi gnas pa*)
 
-[110] <historical-context> Technical Term: *Thigle*
-**Investigation:** *Thig le* (bindu/drop) here refers to the subtle essences (*dwangs ma*) that constitute the material basis of the body in tantric physiology.
+[110] <context> Technical Term: *Thigle*
+**Analysis:** *Thig le* (bindu/drop) here refers to the subtle essences (*dwangs ma*) that constitute the material basis of the body in tantric physiology.
 
 [118] <concept> Mind's Abode
-**Philological analysis:** The identification of wind as *sems kyi gnas pa* (mind's abode) reflects the standard Buddhist principle that wind/vayu is the vehicle of mind (*sems kyi rgyu*). In subtle body yogas, the winds (*rlung*) carry the mind to different locations.
+**Analysis:** The identification of wind as *sems kyi gnas pa* (mind's abode) reflects the standard Buddhist principle that wind/vayu is the vehicle of mind (*sems kyi rgyu*). In subtle body yogas, the winds (*rlung*) carry the mind to different locations.
 
-<concept>
+[119-124] <concept>
 The Great Mandala of Four Arising
-**Close reading:** The verse describes the four elements (excluding space) as:
+**Analysis:** The verse describes the four elements (excluding space) as:
 - Great mandala (*dkyil 'khor che*)
 - Cause for accomplishing body
 - Abiding in the middle (sustaining)
@@ -223,17 +223,17 @@ The Great Mandala of Four Arising
 
 This presents the elements as both singularity (*rgyu gcig*) and multiplicity (*sna tshogs*).
 
-<philology>
+[125-126] <philology>
 Closing Formula
-**Examination:** *Des na dgongs pa rang dang gzhan bya ba rdzogs pa'i don la mkhas* concludes the citation with a standard tantric closing: "Thus, regarding intention, self and other, skilled in the meaning of completed action." This indicates mastery (*mkhas*) of the topic has been conveyed.
+**Analysis:** *Des na dgongs pa rang dang gzhan bya ba rdzogs pa'i don la mkhas* concludes the citation with a standard tantric closing: "Thus, regarding intention, self and other, skilled in the meaning of completed action." This indicates mastery (*mkhas*) of the topic has been conveyed.
 
-<structure>
+[128-129] <structure>
 ## Fourth Category: Characteristics
-**Consideration:** The transition to the fourth of ten categories (*mtshan nyid*), beginning with earth's characteristic of solidity (*sa'i mtshan nyid sra ba*). This marks the beginning of a systematic presentation of each element's defining qualities.
+**Analysis:** The transition to the fourth of ten categories (*mtshan nyid*), beginning with earth's characteristic of solidity (*sa'i mtshan nyid sra ba*). This marks the beginning of a systematic presentation of each element's defining qualities.
 
-<concept>
+[130-133] <concept>
 The Five Characteristics (Completion)
-**Investigation:** Completing the characteristics (*mtshan nyid*) section begun on page 2:
+**Analysis:** Completing the characteristics (*mtshan nyid*) section begun on page 2:
 - Earth (*sa*): Solidity (*sra ba*)
 - Water (*chu*): Moisture (*gsher ba*)
 - Fire (*me*): Warmth (*dro ba*)
@@ -242,9 +242,9 @@ The Five Characteristics (Completion)
 
 These characteristics represent the irreducible qualities that define each element.
 
-<concept>
+[134-145] <concept>
 The Sequence of Functions: Embryological Development
-**Philological analysis:** The Thalgyur presents a sequential (*rim pa*) account of embryological development, mapping each element to a specific physiological function:
+**Analysis:** The Thalgyur presents a sequential (*rim pa*) account of embryological development, mapping each element to a specific physiological function:
 
 **Earth** → Body's basis (*lus kyi gzhi*) → Ripens as flesh (*sha*)
 **Water** → Gathers entire body (*lus kun bsdus*) → Ripens as blood (*khrag*)
@@ -254,11 +254,11 @@ The Sequence of Functions: Embryological Development
 This follows Indian ayurvedic embryology (found in texts like the *Caraka Samhita* and Buddhist *Abhidharma* literature), where the elements successively manifest during gestation.
 
 [138] <philology> Terminology: *smin sor 'dod*
-**Close reading:** *Smin* (ripen/mature) is the technical term for the process by which elements transform into specific bodily constituents. The passive construction *smin par 'dod* (is asserted to ripen) indicates this is established doctrine rather than observation.
+**Analysis:** *Smin* (ripen/mature) is the technical term for the process by which elements transform into specific bodily constituents. The passive construction *smin par 'dod* (is asserted to ripen) indicates this is established doctrine rather than observation.
 
-<concept>
+[146-155] <concept>
 The Dharma-Nature of Elements
-**Examination:** Longchenpa distinguishes:
+**Analysis:** Longchenpa distinguishes:
 - General emptiness (*spyi stong pa*) - the Madhyamaka view
 - Specific dharma-nature (*rang gi mtshan nyid 'dzin pa'i chos nyid*) - the Dzogchen view
 
@@ -270,20 +270,20 @@ The Rang Shar assigns specific roles to each element:
 5. **Space** = dharma-nature of arising (*chos nyid*) - the open, unobstructed nature
 
 [150] <philology> Particle: *Yin no*
-**Consideration:** The emphatic *yin no* (is indeed) appears five times in this section, underscoring the definitive nature of these correspondences.
+**Analysis:** The emphatic *yin no* (is indeed) appears five times in this section, underscoring the definitive nature of these correspondences.
 
 [151] <context> Terminology: *Shes rab*
-**Investigation:** *Shes rab* (prajna/wisdom) here is identified with fire. This reflects the standard Buddhist correspondence where:
+**Analysis:** *Shes rab* (prajna/wisdom) here is identified with fire. This reflects the standard Buddhist correspondence where:
 - Fire = discriminating awareness (*shes rab*)
 - Water = meditative stability (*ting nge 'dzin*)
 - Wind = effort (*brtson 'grus*)
 
 [152] <concept> Wind as Emanation
-**Philological analysis:** Wind (*rlung*) as *sprul pa* (emanation/nirmana) indicates the dynamic, kinetic aspect of manifestation. In tantric physiology, winds carry the mind and enable all movement, both physical and mental.
+**Analysis:** Wind (*rlung*) as *sprul pa* (emanation/nirmana) indicates the dynamic, kinetic aspect of manifestation. In tantric physiology, winds carry the mind and enable all movement, both physical and mental.
 
-<concept>
+[156-166] <concept>
 First Type: Application of Meaning to Essence
-**Close reading:** The *ngo bo'i don sbyar* connects each element to primordial wisdom (*ye shes*):
+**Analysis:** The *ngo bo'i don sbyar* connects each element to primordial wisdom (*ye shes*):
 
 **Earth** → Dharmakaya's primordial purity, essence without change
 **Fire** → Awareness-wisdom engaging meaning (*don la spyod pa*)
@@ -294,54 +294,54 @@ First Type: Application of Meaning to Essence
 This represents the "pure" or tantric correlation, where elements are wisdom manifestations.
 
 [160] <philology> Terminology: *Gdod nas*
-**Examination:** *Gdod nas* (from the beginning/primordially) is a key Dzogchen temporal marker indicating that purity is not achieved but always already the case.
+**Analysis:** *Gdod nas* (from the beginning/primordially) is a key Dzogchen temporal marker indicating that purity is not achieved but always already the case.
 
 [164] <concept> Three Cavities
-**Consideration:** *Sbubs gsum* (three cavities/channels) refers to the central energetic channels in subtle body yoga:
+**Analysis:** *Sbubs gsum* (three cavities/channels) refers to the central energetic channels in subtle body yoga:
 - Central channel (*rtsa dbu ma*)
 - Right channel (*rtsa ro ma*)
 - Left channel (*rtsa rkyang ma*)
 
 Water corresponds to the gathering/convergence of these channels.
 
-<context>
+[167-172] <context>
 Source Text: Norbu Phradak
-**Investigation:** *Norbu 'phra bkod* (Jewel Array/Net) is a major Dzogchen tantra of the *Ma rgyud* (Mother Tantra) cycle. Its title refers to the jeweled net of Indra metaphor—each element reflecting all others.
+**Analysis:** *Norbu 'phra bkod* (Jewel Array/Net) is a major Dzogchen tantra of the *Ma rgyud* (Mother Tantra) cycle. Its title refers to the jeweled net of Indra metaphor—each element reflecting all others.
 
-<concept>
+[169-170] <concept>
 Common Dharma of Self-Continuum
-**Philological analysis:** The five outer arising are identified as:
+**Analysis:** The five outer arising are identified as:
 - *Thun mong* (common) = shared by all sentient beings
 - *Rang rgyud kyi chos* (dharma of self-continuum) = phenomena of one's own mental continuum
 
 The phrase *rang gi rig pa nyid dang sbyor bas* (by connecting with self-awareness itself) establishes that external elements are not separate from internal awareness—a hallmark of Dzogchen "inner-outer nonduality" (*phyi nang gnyis med*).
 
-<structure>
+[171-172] <structure>
 Transition to Detailed Analysis
-**Close reading:** *De yang dbye ba 'di lta ste* (the divisions are thus) signals the beginning of a detailed, element-by-element analysis. The discussion of earth's characteristic making solidity (*sa'i mtshan nyid sra bar byed pa*) indicates the beginning of individual element presentations.
+**Analysis:** *De yang dbye ba 'di lta ste* (the divisions are thus) signals the beginning of a detailed, element-by-element analysis. The discussion of earth's characteristic making solidity (*sa'i mtshan nyid sra bar byed pa*) indicates the beginning of individual element presentations.
 
-<concept>
+[174-175] <concept>
 Wind-Awareness Connection
-**Examination:** Wind's characteristic of lifting (*'degs par byed pa*) connects with awareness-wisdom without obstruction (*thogs pa med pa*). The lifting/pushing quality of wind corresponds to the unimpeded nature of awareness.
+**Analysis:** Wind's characteristic of lifting (*'degs par byed pa*) connects with awareness-wisdom without obstruction (*thogs pa med pa*). The lifting/pushing quality of wind corresponds to the unimpeded nature of awareness.
 
-<concept>
+[176-177] <concept>
 Fire-Awareness Connection
-**Technical Examination:** Fire's characteristic of burning (*sreg par byed pa*) connects with awareness-wisdom that has gone under the authority of afflictions (*nyon mongs pa'i dbang du song ba*). This demonstrates that the transformative/burning quality of fire corresponds to wisdom's capacity to "burn" through afflictions.
+**Analysis:** Fire's characteristic of burning (*sreg par byed pa*) connects with awareness-wisdom that has gone under the authority of afflictions (*nyon mongs pa'i dbang du song ba*). This indicates that the transformative/burning quality of fire corresponds to wisdom's capacity to "burn" through afflictions.
 
-<concept>
+[178-179] <concept>
 Water-Awareness Connection
-**Technical Examination:** Water's characteristic of moistening (*brlan par byed pa*) connects with awareness-wisdom entering all objects (*yul kun la 'jug pa*). The pervasive, flowing nature of water corresponds to wisdom's omnipresence.
+**Analysis:** Water's characteristic of moistening (*brlan par byed pa*) connects with awareness-wisdom entering all objects (*yul kun la 'jug pa*). The pervasive, flowing nature of water corresponds to wisdom's omnipresence.
 
-<concept>
+[180-181] <concept>
 Space-Awareness Connection
-**Technical Examination:** Space's characteristic of vastness (*yangs pa*) connects with the characteristic of awareness without break in continuity (*rgya ma chad pa*). Space's unobstructed openness corresponds to awareness's unbroken continuum.
+**Analysis:** Space's characteristic of vastness (*yangs pa*) connects with the characteristic of awareness without break in continuity (*rgya ma chad pa*). Space's unobstructed openness corresponds to awareness's unbroken continuum.
 
 [181] <philology> Closing Formula
-**Tradition Context:** *Sbyar bar bya'o zhes so* (should be connected, thus stated) marks the completion of the connection (*sbyor ba*) section, establishing that these correspondences are intentional doctrinal formulations.
+**Analysis:** *Sbyar bar bya'o zhes so* (should be connected, thus stated) marks the completion of the connection (*sbyor ba*) section, establishing that these correspondences are intentional doctrinal formulations.
 
-<context>
+[182-194] <context>
 Source Text: Mutik Trengwa
-**Consideration:** *Mu tig phreng ba* (Pearl Garland) is a Dzogchen tantra. The citation presents the "liberation manner" (*grol tshul*)—how each element naturally liberates into its true nature:
+**Analysis:** *Mu tig phreng ba* (Pearl Garland) is a Dzogchen tantra. The citation presents the "liberation manner" (*grol tshul*)—how each element naturally liberates into its true nature:
 
 **Space** → By pervading emptiness → Liberates as entity itself
 **Wind** → By appearing without graspable object → Liberates into gathering function
@@ -350,19 +350,19 @@ Source Text: Mutik Trengwa
 **Water** → By moistening and gathering → Liberates into ripening function
 
 [184] <philology> Particle: *Khyab stong pas*
-**Structural Framework:** *Khyab* (pervade) + *stong pa* (empty) + *pas* (instrumental) indicates the means by which liberation occurs: "through/by pervading emptiness."
+**Analysis:** *Khyab* (pervade) + *stong pa* (empty) + *pas* (instrumental) indicates the means by which liberation occurs: "through/by pervading emptiness."
 
-<concept>
+[195-197] <concept>
 The Twenty-Five Element Analysis
-**Close Reading:** Longchenpa introduces a complex analytical framework (*dbye ba*) where each of the five elements manifests five aspects (*lnga tshan lnga*):
+**Analysis:** Longchenpa introduces a complex analytical framework (*dbye ba*) where each of the five elements manifests five aspects (*lnga tshan lnga*):
 - Earth of earth, water of earth, fire of earth, wind of earth, space of earth
 - Earth of water, water of water, fire of water, etc.
 
 Total: 25 (*nyi shu rtsa lnga*) element-element interactions.
 
-<concept>
+[199-203] <concept>
 Space's Five Aspects
-**Examination:** The five aspects of space (*nam mkha'i...*):
+**Analysis:** The five aspects of space (*nam mkha'i...*):
 1. Space's wind: toward entity (active movement)
 2. Space's fire: makes gathering (cohesion)
 3. Space's water: makes burning (transformation)
@@ -371,27 +371,27 @@ Space's Five Aspects
 
 This demonstrates how space (the "container") manifests through the functions of the other elements.
 
-<concept>
+[204-208] <concept>
 Wind's Five Aspects
-**Philological Analysis:** The five aspects of wind (*rlung gi...*):
+**Analysis:** The five aspects of wind (*rlung gi...*):
 1. Wind's wind: toward stability (grounding movement)
 2. Wind's space: great sound-potential (*ye gdangs che*)
 3. Wind's water: great quickness and speed
 4. Wind's fire: great projection and gathering
 5. Wind's earth: clear form-reflection
 
-<concept>
+[209-213] <concept>
 Water's Five Aspects
-**Examination:** The five aspects of water (*chu yi...*):
+**Analysis:** The five aspects of water (*chu yi...*):
 1. Water's water: sound-echo (*sgra brnyan*)
 2. Water's space: without obstruction
 3. Water's wind: flows attachment-free
 4. Water's fire: makes gathering
 5. Water's earth: makes pervading
 
-<concept>
+[214-218] <concept>
 Fire's Five Aspects
-**Philological Analysis:** The five aspects of fire (*me yi...*):
+**Analysis:** The five aspects of fire (*me yi...*):
 1. Fire's earth: makes producing
 2. Fire's space: burns entity
 3. Fire's wind: makes blazing
@@ -400,9 +400,9 @@ Fire's Five Aspects
 
 Note: Fire's earth appears twice (214, 218), likely reflecting different functional aspects.
 
-<concept>
+[219-223] <concept>
 Earth's Five Aspects
-**Technical Examination:** The five aspects of earth (*sa yi...*):
+**Analysis:** The five aspects of earth (*sa yi...*):
 1. Earth's earth: pervades migrators
 2. Earth's space: is the Mahayana (*theg chen*)
 3. Earth's wind: makes snow-empty (*gangs stongs*)
@@ -410,14 +410,14 @@ Earth's Five Aspects
 5. Earth's fire: dries
 
 [220] <context> Technical Term: *Theg chen*
-**Doctrinal Comparison:** *Theg chen* (Mahayana/great vehicle) here refers not to the Buddhist vehicle but to the expansive, all-pervading quality of earth's space-aspect. This demonstrates the tantric appropriation of conventional terminology for elemental symbolism.
+**Analysis:** *Theg chen* (Mahayana/great vehicle) here refers not to the Buddhist vehicle but to the expansive, all-pervading quality of earth's space-aspect. This demonstrates the tantric appropriation of conventional terminology for elemental symbolism.
 
 [225] <philology> Closing with Forward Reference
-**Technical Examination:** The final line indicates that detailed training (*bslabs pa*) in these distinctions leads to distinguished qualities (*yon tan khyad par can*), and that this is explained in the commentary (*'grel pa*)—a self-referential nod to the autocommentary format of the *mdzod* literature.
+**Analysis:** The final line indicates that detailed training (*bslabs pa*) in these distinctions leads to distinguished qualities (*yon tan khyad par can*), and that this is explained in the commentary (*'grel pa*)—a self-referential nod to the autocommentary format of the *mdzod* literature.
 
-<concept>
+[227-232] <concept>
 Five Sound-Meanings and Powers
-**Close Reading:** The verse presents five specific trainings and their results:
+**Analysis:** The verse presents five specific trainings and their results:
 1. **Forms** (*gzugs*) → Body exhaustion/transmutation (*lus zad*)
 2. **Sound** (*sgra*) → Knowledge of languages (*skad rnams shes*)
 3. **Smell** (*dri*) → Accomplishment of extracting essence (*bcud kyis len*)
@@ -426,31 +426,31 @@ Five Sound-Meanings and Powers
 Note: The fifth (touch) is implicit or omitted in this citation.
 
 [229] <philology> Terminology: *Lus zad*
-**Doxographical Placement:** *Lus zad* (body exhaustion/dissolution) refers to the tantric attainment where the coarse physical body is transmuted into a subtle body of light—a common goal in completion stage (*rdzogs rim*) practices.
+**Analysis:** *Lus zad* (body exhaustion/dissolution) refers to the tantric attainment where the coarse physical body is transmuted into a subtle body of light—a common goal in completion stage (*rdzogs rim*) practices.
 
 [234] <context> Source Text: Secret Conduct Seed Tantra
-**Philological Analysis:** *Gsang ba spyod pa sa bon gyi rgyud* (Secret Conduct Seed Tantra) is a major *Atiyoga* text. "Seed" (*sa bon*) indicates the potentiality aspect of practice.
+**Analysis:** *Gsang ba spyod pa sa bon gyi rgyud* (Secret Conduct Seed Tantra) is a major *Atiyoga* text. "Seed" (*sa bon*) indicates the potentiality aspect of practice.
 
-<concept>
+[235-238] <concept>
 Four Elements and Clairvoyance
-**Close Reading:** By becoming familiar (*goms pa*) with sounds/meanings of the four elements (earth, water, fire, wind), one accomplishes:
+**Analysis:** By becoming familiar (*goms pa*) with sounds/meanings of the four elements (earth, water, fire, wind), one accomplishes:
 - Knowledge of the self-sounds (*rang skad*) of the six races (*rigs drug*)
 - Arising of clairvoyance (*mngon shes*)
 
 The "six races" refers to the six classes of beings in Buddhist cosmology: gods, demigods, humans, animals, hungry ghosts, and hell beings.
 
 [240] <structure> Concluding Outer Arising Section
-**Structural Mapping:** This line concludes the presentation of outer elements (*phyi'i 'byung ba*), summarizing them as the support (*rten*) and abode (*gnas*) of all sentient beings.
+**Analysis:** This line concludes the presentation of outer elements (*phyi'i 'byung ba*), summarizing them as the support (*rten*) and abode (*gnas*) of all sentient beings.
 
 [241] <structure> # Tenth Category: Manner of Completeness
-**Doctrinal Comparison:** The tenth of ten categories (*bcu pa*) addresses how samsara-nirvana Dharmas are complete (*tshang tshul*) in the yogi's body-mind. This is threefold:
+**Analysis:** The tenth of ten categories (*bcu pa*) addresses how samsara-nirvana Dharmas are complete (*tshang tshul*) in the yogi's body-mind. This is threefold:
 1. Generally showing partial-similarity completeness
 2. Explaining in particular completeness in body-mind
 3. Making understood through great definite symbols
 
-<concept>
+[246-258] <concept>
 The Body-Mind as Path
-**Investigation:** This dense passage presents homologies between embryological development and the spiritual path:
+**Analysis:** This dense passage presents homologies between embryological development and the spiritual path:
 
 **Body Components** | **Path Correspondences**
 ---|---
@@ -468,28 +468,28 @@ Death | Dharmakaya empty nature
 This is the doctrine of "complete in oneself" (*rang la tshang*), where the body-mind already contains all aspects of the path and result.
 
 [247] <philology> Particle: *Char*
-**Tradition Context:** *Char* (portion/aspect) is used repeatedly to establish correspondences. Literally meaning "fall" or "portion," it indicates that each physiological component "falls into" or corresponds with a spiritual category.
+**Analysis:** *Char* (portion/aspect) is used repeatedly to establish correspondences. Literally meaning "fall" or "portion," it indicates that each physiological component "falls into" or corresponds with a spiritual category.
 
 [252] <context> Technical Term: *Khams bdun*
-**Historical Context:** *Khams bdun* (seven elements/pure components) refers to the seven constituents of the body in ayurvedic medicine: chyle, blood, flesh, fat, bone, marrow, and regenerative fluids. Here they are correlated with seven stages of path completion.
+**Analysis:** *Khams bdun* (seven elements/pure components) refers to the seven constituents of the body in ayurvedic medicine: chyle, blood, flesh, fat, bone, marrow, and regenerative fluids. Here they are correlated with seven stages of path completion.
 
-<context>
+[259-264] <context>
 Pearl Garland Citation on Effortless Liberation
-**Doctrinal Comparison:** The Mutik Trengwa citation establishes the Dzogchen view that liberation is not achieved through effort (*'bad pas*) but recognized as already accomplished primordially (*ye nyid nas*). The union of method (*thabs*) and wisdom (*shes rab*)—symbolized by father and mother—is the natural cause of this recognition.
+**Analysis:** The Mutik Trengwa citation establishes the Dzogchen view that liberation is not achieved through effort (*'bad pas*) but recognized as already accomplished primordially (*ye nyid nas*). The union of method (*thabs*) and wisdom (*shes rab*)—symbolized by father and mother—is the natural cause of this recognition.
 
-<concept>
+[261-262] <concept>
 Effort vs. Primordial Liberation
-**Detailed Analysis:** This encapsulates the Dzogchen distinction between:
+**Analysis:** This encapsulates the Dzogchen distinction between:
 - **Path of effort** (*'bad pa'i lam*): gradual, causal vehicles
 - **Path of primordial liberation** (*ye grol*): Dzogchen, recognition of already-accomplished state
 
-<concept>
+[263-264] <concept>
 Method-Wisdom Union
-**Hermeneutical Frame:** Father (*pha*) = method (*thabs*), mother (*ma*) = wisdom (*shes rab*). Their union generates the recognition of primordial liberation—an important doctrine in both *Atiyoga* and *Anuyoga* tantras.
+**Analysis:** Father (*pha*) = method (*thabs*), mother (*ma*) = wisdom (*shes rab*). Their union generates the recognition of primordial liberation—an important doctrine in both *Atiyoga* and *Anuyoga* tantras.
 
-<context>
+[265-283] <context>
 Pearl Garland Citation Continued
-**Technical Examination:** Continuing from page 5, this citation from the Mutik Trengwa elaborates the correspondences:
+**Analysis:** Continuing from page 5, this citation from the Mutik Trengwa elaborates the correspondences:
 
 **Projecting wind's movement** → Self-aware awakening, great bliss
 **Five arising's causal seed** → Arises from emptiness-field
@@ -505,11 +505,11 @@ Pearl Garland Citation Continued
 **Death** → Liberation into empty dharma-nature
 
 [265] <philology> Terminology: *'Phen pa'i rlung*
-**Examination:** *'Phen pa'i rlung* (projecting wind) is the subtle energy that projects consciousness into the womb at conception. In Tibetan medicine and tantra, this wind carries the consciousness from the bardo into the next embodiment.
+**Analysis:** *'Phen pa'i rlung* (projecting wind) is the subtle energy that projects consciousness into the womb at conception. In Tibetan medicine and tantra, this wind carries the consciousness from the bardo into the next embodiment.
 
-<concept>
+[284-290] <concept>
 Reversing Delusion
-**Philological Analysis:** This section presents the "reversal" (*ldog tshul*) of ordinary perception:
+**Analysis:** This section presents the "reversal" (*ldog tshul*) of ordinary perception:
 
 **Ordinary** | **Realized**
 ---|---
@@ -521,50 +521,50 @@ Aging | Awakening truth-clinging confusion
 Death | Arrival at primordial purity ground
 
 [288] <philology> Terminology: *Ngo 'phrod*
-**Close Reading:** *Ngo 'phrod* (face-to-face meeting/recognition) is a key Dzogchen term for direct, unmediated encounter with awareness—the goal of pointing-out instructions (*ngo sprod*).
+**Analysis:** *Ngo 'phrod* (face-to-face meeting/recognition) is a key Dzogchen term for direct, unmediated encounter with awareness—the goal of pointing-out instructions (*ngo sprod*).
 
 [290] <concept> Death as Final Arrival
-**Examination:** Death (*shi ba*) is presented not as termination but as the moment of knowing self-face (*rang ngo shes*), arriving at the ground of primordial purity (*ka dag gi sa*) in the inner dimension. This is the Dzogchen view of death as the supreme opportunity for recognition.
+**Analysis:** Death (*shi ba*) is presented not as termination but as the moment of knowing self-face (*rang ngo shes*), arriving at the ground of primordial purity (*ka dag gi sa*) in the inner dimension. This is the Dzogchen view of death as the supreme opportunity for recognition.
 
-<concept>
+[291-293] <concept>
 Three Methods of Liberation
-**Examination:** Because these are primordially arisen (*ye nas shar*), liberation can occur through:
+**Analysis:** Because these are primordially arisen (*ye nas shar*), liberation can occur through:
 1. **Introduction** (*gdams ngag ngo sprod*) - pointing-out instructions
 2. **Empowerment** (*dbang*) - initiation/permission
 3. **Meditation** (*bsgom pa*) - cultivation practice
 
 This establishes the three traditional doors of entry to Dzogchen realization.
 
-<concept>
+[294-295] <concept>
 Partial Similarity vs. Clear Showing
-**Cross-Textual Note:** A crucial distinction:
+**Analysis:** A crucial distinction:
 - If only *partial similarity* (*cha mthun*) exists primordially, instruction alone cannot liberate
 - By clearly showing that partial similarity exists, this becomes "buddha's dharma"
 
 This explains why the teacher's role is essential—mere existence of primordial purity is insufficient; recognition (*rig pa*) must be triggered.
 
-<concept>
+[296-297] <concept>
 Symbols and Meaning
-**Structural Framework:** What the Buddha taught as symbols (*brda*) and meaning (*don*) all arrives at (*thug*) this essential point: the primordial completeness of base-path (*gzhi lam ye tshad*). This is the hermeneutical key to understanding all Buddhist teachings.
+**Analysis:** What the Buddha taught as symbols (*brda*) and meaning (*don*) all arrives at (*thug*) this essential point: the primordial completeness of base-path (*gzhi lam ye tshad*). This is the hermeneutical key to understanding all Buddhist teachings.
 
-<structure>
+[298-301] <structure>
 Second Subdivision: Particular Completeness in Body-Mind
-**Technical Examination:** The second of three approaches to completeness (*tshang tshul*) examines body-mind specifically, divided into:
+**Analysis:** The second of three approaches to completeness (*tshang tshul*) examines body-mind specifically, divided into:
 1. Completeness in body (*lus*)
 2. Completeness in mind (*sems*)
 3. Completeness in awareness (*rig pa*)
 
-<concept>
+[302-304] <concept>
 Body as Complete Container
-**Investigation:** The aggregate of four gathered elements contains:
+**Analysis:** The aggregate of four gathered elements contains:
 - Outer container-world portion (*phyi snod kyi 'jig rten*)
 - Inner essence-migrator portion (*nang bcud kyi skye 'gro*)
 
 This is the classical *snod bcud* (container-contents) cosmology applied to the individual body.
 
-<context>
+[305-313] <context>
 Pearl Garland Citation on Body Completeness
-**Technical Examination:** The Mutik Trengwa enumerates what is complete within the body:
+**Analysis:** The Mutik Trengwa enumerates what is complete within the body:
 - Five elements: earth, water, fire, wind, space
 - Sun and moon (symbolizing method and wisdom)
 - Male and female forms
@@ -577,11 +577,11 @@ Pearl Garland Citation on Body Completeness
 This demonstrates the microcosm-macrocosm identity: the body contains all phenomena of the universe.
 
 [306] <philology> Enumeration Style
-**Historical Context:** The verse uses the traditional *dang...dang* (and...and) list structure typical of Tibetan verse (*tshig bcad*), creating a rhythmic inventory of correspondences.
+**Analysis:** The verse uses the traditional *dang...dang* (and...and) list structure typical of Tibetan verse (*tshig bcad*), creating a rhythmic inventory of correspondences.
 
-<context>
+[314-318] <context>
 Pearl Garland Citation on Body Completeness
-**Technical Examination:** Continuing the Mutik Trengwa citation from page 6, the verse enumerates ritual and cosmic elements that are complete (*tshang*) in the yogi's body (*rnal 'byor nyid kyi lus*):
+**Analysis:** Continuing the Mutik Trengwa citation from page 6, the verse enumerates ritual and cosmic elements that are complete (*tshang*) in the yogi's body (*rnal 'byor nyid kyi lus*):
 - Music (*rol mo*)
 - Canopies (*'phan gdugs*)
 - Banners (*rgyal mtshan*)
@@ -589,9 +589,9 @@ Pearl Garland Citation on Body Completeness
 
 These "surrounding" (*'khor*) dharmas represent the ritual environment of tantric practice, now identified as intrinsically present in the practitioner's body.
 
-<concept>
+[319-347] <concept>
 The Correspondence System: Microcosm as Macrocosm
-**Investigation:** This section presents an exhaustive correspondence system (*cha shas*) mapping cosmic/ritual elements to body constituents. This is the *rnal 'byor lus* (yogi's body) as *mandala*:
+**Analysis:** This section presents an exhaustive correspondence system (*cha shas*) mapping cosmic/ritual elements to body constituents. This is the *rnal 'byor lus* (yogi's body) as *mandala*:
 
 **Five Elements:**
 - Earth → Flesh (*sha*)
@@ -631,24 +631,24 @@ The Correspondence System: Microcosm as Macrocosm
 - Upper-canopy → Breath/steam (*rlangs pa*)
 
 [325] <philology> Terminology: *Nyi zla*
-**Close Reading:** *Nyi zla* (sun-moon) is the standard Tibetan symbol for the union of method (*thabs*, male/skillful means) and wisdom (*shes rab*, female/understanding). Their correspondence to the two eyes reflects the perceptual basis of recognition.
+**Analysis:** *Nyi zla* (sun-moon) is the standard Tibetan symbol for the union of method (*thabs*, male/skillful means) and wisdom (*shes rab*, female/understanding). Their correspondence to the two eyes reflects the perceptual basis of recognition.
 
 [328] <concept> Planets and Desire
-**Close Reading:** Planets (*gza'*) correspond to *'dod pa'i sgo khang* (gate-house of desire) and nostrils. This reflects astrological associations where planetary influences affect desire and the respiratory system (prana/vital energy).
+**Analysis:** Planets (*gza'*) correspond to *'dod pa'i sgo khang* (gate-house of desire) and nostrils. This reflects astrological associations where planetary influences affect desire and the respiratory system (prana/vital energy).
 
 [343] <concept> Music as Internal Organs
-**Doxographical Placement:** *Rol mo* (music/ritual music) corresponds to *rgyu ma la sogs pa'i nang khrol* (channels and internal organs). This represents the vibratory, resonant quality of the subtle body where channels carry energy like musical tones carry sound.
+**Analysis:** *Rol mo* (music/ritual music) corresponds to *rgyu ma la sogs pa'i nang khrol* (channels and internal organs). This represents the vibratory, resonant quality of the subtle body where channels carry energy like musical tones carry sound.
 
-<context>
+[348-370] <context>
 Pearl Garland Verification
-**Structural Mapping:** The Mutik Trengwa provides a parallel enumeration with slight variations, reinforcing these correspondences as authentic scriptural authority. The closing *rnal 'byor lus la de dag rdzogs* (these are complete in the yogi's body) affirms the microcosmic completeness.
+**Analysis:** The Mutik Trengwa provides a parallel enumeration with slight variations, reinforcing these correspondences as authentic scriptural authority. The closing *rnal 'byor lus la de dag rdzogs* (these are complete in the yogi's body) affirms the microcosmic completeness.
 
 [371] <structure> Second Subdivision: Mind Completeness
-**Detailed Analysis:** Having covered body completeness, Longchenpa transitions to mind completeness (*sems la tshang tshul*). This section demonstrates how all dharmas of samsara, nirvana, base, and path are complete in mind.
+**Analysis:** Having covered body completeness, Longchenpa transitions to mind completeness (*sems la tshang tshul*). This section demonstrates how all dharmas of samsara, nirvana, base, and path are complete in mind.
 
-<concept>
+[373-389] <concept>
 Comprehensive Dharma Inventory
-**Detailed Analysis:** The verse from Mutik Trengwa enumerates a comprehensive list of Buddhist practices and attainments complete in body-mind:
+**Analysis:** The verse from Mutik Trengwa enumerates a comprehensive list of Buddhist practices and attainments complete in body-mind:
 
 **Tantric Elements:**
 - Mandala, deity, offering
@@ -670,11 +670,11 @@ Comprehensive Dharma Inventory
 - Ten virtues (*dge bcu*)
 
 [375] <philology> Technical Term: *'Das stong*
-**Tradition Context:** *'Das stong* (empty of transcendence/beyond) indicates that samsara dharmas are empty of any inherent existence separate from nirvana. This is the Dzogchen view of *'khor 'das dbyer med* (non-duality of samsara and nirvana).
+**Analysis:** *'Das stong* (empty of transcendence/beyond) indicates that samsara dharmas are empty of any inherent existence separate from nirvana. This is the Dzogchen view of *'khor 'das dbyer med* (non-duality of samsara and nirvana).
 
-<context>
+[376-379] <context>
 Tantric Terminology
-**Technical Examination:** These lines cover standard tantric practice elements:
+**Analysis:** These lines cover standard tantric practice elements:
 - *Dkyil 'khor* (mandala) - sacred space
 - *Lha* (deity) - enlightened form
 - *Sngags* (mantra) - sonic invocation
@@ -686,21 +686,21 @@ Tantric Terminology
 
 This demonstrates how all tantric methodology is already complete within the practitioner.
 
-<context>
+[390-392] <context>
 Citation Conclusion
-**Structural Framework:** The Mutik Trengwa citation concludes, affirming that all dharmas indicating transcendence (*myang 'das mtshon pa'i chos*)—the practices and attainments listed on page 7—abide completely in body and mind.
+**Analysis:** The Mutik Trengwa citation concludes, affirming that all dharmas indicating transcendence (*myang 'das mtshon pa'i chos*)—the practices and attainments listed on page 7—abide completely in body and mind.
 
-<structure>
+[393-425] <structure>
 Third Division: Completeness in Awareness
-**Detailed Analysis:** The third of three completeness divisions addresses *rig pa* (awareness/pristine cognition) rather than body or mind. This is the Dzogchen perspective where all phenomena are complete in the nature of awareness itself.
+**Analysis:** The third of three completeness divisions addresses *rig pa* (awareness/pristine cognition) rather than body or mind. This is the Dzogchen perspective where all phenomena are complete in the nature of awareness itself.
 
-<concept>
+[395-397] <concept>
 Self-Appearing Awareness
-**Investigation:** *Rang snang rig pa* (self-appearing awareness) is a key Dzogchen term indicating that phenomena do not appear to an external perceiver but are self-manifestations of awareness. The verse asserts that all dharmas, however they appear (*ji ltar snang ba*), are complete in whatever "face" (*ngo*) of awareness they manifest.
+**Analysis:** *Rang snang rig pa* (self-appearing awareness) is a key Dzogchen term indicating that phenomena do not appear to an external perceiver but are self-manifestations of awareness. The verse asserts that all dharmas, however they appear (*ji ltar snang ba*), are complete in whatever "face" (*ngo*) of awareness they manifest.
 
-<concept>
+[398-425] <concept>
 Awareness Correspondences
-**Detailed Analysis:** The verse presents awareness-based correspondences (as distinguished from body-based on pages 6-7):
+**Analysis:** The verse presents awareness-based correspondences (as distinguished from body-based on pages 6-7):
 
 **Celestial:**
 - Sun-Moon → Method and wisdom
@@ -734,50 +734,50 @@ Awareness Correspondences
 - Banner → Manifest realization/buddhahood
 
 [400] <philology> Gender Symbolism
-**Investigation:** The correlation *skyes pa gzhi la bud med lam* (male as base, female as path) reflects the tantric symbolic system where:
+**Analysis:** The correlation *skyes pa gzhi la bud med lam* (male as base, female as path) reflects the tantric symbolic system where:
 - Male (*pho*) = space/ground/emptiness (*gzhi*)
 - Female (*mo*) = appearance/path/compassion (*lam*)
 
 [404] <concept> Mountain as Unchanging View
-**Doxographical Placement:** *Ri ni lta ba 'gyur ba med* (mountain is view without change) evokes the metaphor of the mountain as unshakeable meditative stability and the view of primordial purity that cannot be altered.
+**Analysis:** *Ri ni lta ba 'gyur ba med* (mountain is view without change) evokes the metaphor of the mountain as unshakeable meditative stability and the view of primordial purity that cannot be altered.
 
-<context>
+[406-407] <context>
 Bodhi Branch System
-**Investigation:** The terms *byang chub yan lag* (branch of awakening) reference the classical *bodhyaṅga* system from Abhidharma (seven factors of enlightenment), here applied to botanical correspondences.
+**Analysis:** The terms *byang chub yan lag* (branch of awakening) reference the classical *bodhyaṅga* system from Abhidharma (seven factors of enlightenment), here applied to botanical correspondences.
 
 [408] <concept> One Taste
-**Examination:** *Ro gcig* (one taste) is a seminal Dzogchen term indicating that all phenomena have the same fundamental nature—whatever appears is of one taste in emptiness. This is the "taste" of non-duality.
+**Analysis:** *Ro gcig* (one taste) is a seminal Dzogchen term indicating that all phenomena have the same fundamental nature—whatever appears is of one taste in emptiness. This is the "taste" of non-duality.
 
-<concept>
+[421-424] <concept>
 Mere Imputation
-**Detailed Analysis:** The closing lines establish the *Madhyamaka* ontology underlying Dzogchen:
+**Analysis:** The closing lines establish the *Madhyamaka* ontology underlying Dzogchen:
 - All dharmas in the face of mind itself (*sems nyid ngo la*) abide primordially spontaneously complete
 - Therefore, dharmas of mind (*blo*) and entity (*dngos po*) are merely imputed/labelled (*btags pa tsam*)
 
 This echoes the *Cittamatra* and *Madhyamaka* doctrine that phenomena are nominal designations without inherent existence.
 
 [426] <structure> Major Transition: Inner Arising
-**Technical Examination:** *Don gnyis pa* (second meaning) marks the transition to the second major topic: *nang 'byung* (inner arising). This is divided into:
+**Analysis:** *Don gnyis pa* (second meaning) marks the transition to the second major topic: *nang 'byung* (inner arising). This is divided into:
 1. Common divisions (*thun mong gi bar tu dbye ba*)
 2. Nature of individual divisions (*dbye ba so so'i rang bzhin*)
 
-<concept>
+[430-435] <concept>
 Coarse and Subtle Elements
-**Examination:** The distinction between:
+**Analysis:** The distinction between:
 - *Lus kyi 'byung lnga rags pa* (coarse five arising of body) = the physical elements
 - *Dngas ma'i 'byung lnga* (essence five arising) = the subtle energetic elements
 
 The subtle relies upon (*brten*) the coarse, thus "inner arising" (*nang 'byung*).
 
 [435] <philology> Enumeration: Twenty-Five Limbs
-**Philological Analysis:** Each of five elements (wind, fire, earth, water, space) abides as five-fold, yielding 25 limbs (*yan lag nyi shu rtsa lnga*). This is the subtle body system of channels and energies.
+**Analysis:** Each of five elements (wind, fire, earth, water, space) abides as five-fold, yielding 25 limbs (*yan lag nyi shu rtsa lnga*). This is the subtle body system of channels and energies.
 
 [436] <philology> Definite Suitability
-**Historical Context:** *Nges pa'i 'thad pa* (definite suitability) is established by depending (*ltos nas*) on five different functions (*byed las mi 'dra ba lnga*). This is the logical justification for the five-fold division based on functional diversity.
+**Analysis:** *Nges pa'i 'thad pa* (definite suitability) is established by depending (*ltos nas*) on five different functions (*byed las mi 'dra ba lnga*). This is the logical justification for the five-fold division based on functional diversity.
 
-<context>
+[438-443] <context>
 Rang Shar Citation on Inner Elements
-**Investigation:** The Self-Arisen tantra affirms that the five great arising are complete (*tshang*) in one's own body. Then enumerates the wisdom-functions of each set of five:
+**Analysis:** The Self-Arisen tantra affirms that the five great arising are complete (*tshang*) in one's own body. Then enumerates the wisdom-functions of each set of five:
 
 **Five Winds** → Make wisdom potential (*ye shes kyi gdangs*)
 **Five Fires** → Make wisdom potency (*rtsal*)
@@ -786,29 +786,29 @@ Rang Shar Citation on Inner Elements
 **Five Spaces** → Make wisdom abode (*gnas*)
 
 [439] <philology> Terminology: *Gdangs*
-**Terminological Precision:** *Gdangs* (potential/radiance/resonance) is a key Dzogchen term indicating the luminous, manifesting capacity of awareness—often translated as "sound-potential" or "luminous resonance."
+**Analysis:** *Gdangs* (potential/radiance/resonance) is a key Dzogchen term indicating the luminous, manifesting capacity of awareness—often translated as "sound-potential" or "luminous resonance."
 
 [440] <philology> Terminology: *Rtsal*
-**Architectural Analysis:** *Rtsal* (potency/power/expression) indicates the dynamic, creative expression of wisdom—the active manifestation of realization.
+**Analysis:** *Rtsal* (potency/power/expression) indicates the dynamic, creative expression of wisdom—the active manifestation of realization.
 
-<structure>
+[445-449] <structure>
 Five Elements Overview
-**Consideration:** This enumeration lists the five elements to be covered in the extensive explanation of inner arising (*nang 'byung*):
+**Analysis:** This enumeration lists the five elements to be covered in the extensive explanation of inner arising (*nang 'byung*):
 1. Wind (*rlung*)
 2. Fire (*me*)
 3. Earth (*sa*)
 4. Water (*chu*)
 5. Space (*nam mkha'*)
 
-<structure>
+[450-451] <structure>
 Analytical Framework for Wind
-**Etymological Note:** The presentation of wind is divided into:
+**Analysis:** The presentation of wind is divided into:
 1. Root division (*rtsa ba'i dbye ba*) - the five primary winds
 2. Branch division (*yan lag gi dbye ba*) - the 25 subsidiary winds (5 × 5)
 
-<context>
+[452-460] <context>
 Rang Shar Citation: Five Primary Winds
-**Close Reading:** The Self-Arisen tantra enumerates the five primary winds (*rlung rnam pa lnga*):
+**Analysis:** The Self-Arisen tantra enumerates the five primary winds (*rlung rnam pa lnga*):
 
 1. **Life-holding wind** (*srog 'dzin pa'i rlung*) - maintains vitality
 2. **Color-radiance producing wind** (*bkrag dang gzi mdangs skyed pa'i rlung*) - generates vitality and luster
@@ -817,18 +817,18 @@ Rang Shar Citation: Five Primary Winds
 5. **Karma wind without compassion** (*snying rje med pa bskal pa las kyi rlung*) - carries karmic imprints
 
 [459] <philology> Terminology: *Bskal pa las kyi rlung*
-**Examination:** *Bskal pa* (eon/kalpa) + *las* (karma) + *rlung* indicates the wind that sustains karmic patterns across lifetimes—"karmic wind of the eon." The phrase *snying rje med pa* (without compassion) suggests this wind operates mechanically, without emotional coloring.
+**Analysis:** *Bskal pa* (eon/kalpa) + *las* (karma) + *rlung* indicates the wind that sustains karmic patterns across lifetimes—"karmic wind of the eon." The phrase *snying rje med pa* (without compassion) suggests this wind operates mechanically, without emotional coloring.
 
 [460] <concept> Wind Locations: Head and Tail
-**Close Reading:** The five winds abide in the "head and tail" (*mgo mjug*) of the body. In subtle body anatomy:
+**Analysis:** The five winds abide in the "head and tail" (*mgo mjug*) of the body. In subtle body anatomy:
 - Head (*mgo*) = crown/brain
 - Tail (*mjug*) = genitals/base of spine
 
 This establishes the vertical axis along which winds operate.
 
-<concept>
+[461-465] <concept>
 Specific Wind Locations
-**Detailed Analysis:** Detailed anatomical correspondences:
+**Analysis:** Detailed anatomical correspondences:
 
 **Life-holding wind** → *Srog pa rtsa* (life channel) - the central channel at the heart
 **Color-radiance wind** → *Smin phrag* (chest) - upper body radiance
@@ -836,18 +836,18 @@ Specific Wind Locations
 **All-pervading wind** → Throughout body (*lus kun la khyab*)
 **Karma wind** → Between heart and heart-membrane (*snying dang snying shun gyi bar*)
 
-<concept>
+[466-471] <concept>
 Five Wind Functions
-**Consideration:** Each wind performs specific functions in sequence:
+**Analysis:** Each wind performs specific functions in sequence:
 1. **Life-holding** → Maintains life (*srog gnas pa*)
 2. **Color-radiance** → Produces vitality (*mdangs bskyed pa*)
 3. **Fire-equal** → Digests food (*zas 'ju ba*)
 4. **All-pervading** → Enables movement: going/sitting (*'gro 'dug*)
 5. **Karma wind** → Life transference (*tshe 'pho ba*) - the ejection of consciousness at death
 
-<concept>
+[472-473] <concept>
 Branch Division: Five-fold Analysis
-**Semantic Range:** Each of five winds divides into five subsidiary winds, beginning with life-holding wind:
+**Analysis:** Each of five winds divides into five subsidiary winds, beginning with life-holding wind:
 
 **Five Life-Holding Winds:**
 1. Root-holding life (*rtsa ba 'dzin pa'i srog*)

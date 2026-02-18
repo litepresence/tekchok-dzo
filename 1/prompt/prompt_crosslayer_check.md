@@ -5,7 +5,7 @@
 **Role:** Multi-Layer Quality Auditor
 **Purpose:** Systematic assessment using Template.md format
 **Input:** `/home/opencode/MDZOD/1/quality/Template.md`
-**Output:** `/home/opencode/MDZOD/1/quality/QUALITATIVE_QC.md`
+**Output:** `/home/opencode/MDZOD/1/quality/QC.md`
 **Scope:** 213 sections × 3 ACTIVE layers (Commentary, Scholar, Delusion)
 **Status:** Wylie, Literal, Liturgical, Epistemic, Cognitive layers COMPLETE
 
@@ -17,9 +17,11 @@ Before beginning assessment, read these files:
 
 1. **Read** `/home/opencode/MDZOD/1/quality/exemplars.md` - Understand what A++ quality looks like for each layer
 2. **Read** `/home/opencode/MDZOD/1/protocol/byte_ratios.md` - Understand expected coverage ratios
-3. **Read** `/home/opencode/MDZOD/1/prompt/prompt_commentary.md` - Understand voice rotation requirements
-4. **Read** `/home/opencode/MDZOD/1/prompt/prompt_scholar.md` - Understand Four Pillars structure
-5. **Read** `/home/opencode/MDZOD/1/prompt/prompt_delusion.md` - Understand error cascade requirements
+
+3. **Read** `/home/opencode/MDZOD/1/prompt/prompt_scholar.md` - Understand Four Pillars structure
+4. **Read** `/home/opencode/MDZOD/1/prompt/prompt_delusion.md` - Understand error cascade requirements
+5. **Read** `/home/opencode/MDZOD/1/prompt/prompt_commentary.md` - Understand voice rotation requirements
+
 6. **Read** `/home/opencode/MDZOD/1/protocol/voices.md` - 27 voices used in commentary layer
 7. **Read** `/home/opencode/MDZOD/1/contents/voice_contents.md` - When to emphasize commentary voices by chapter
 8. **Read** `/home/opencode/MDZOD/1/protocol/metaphors` - Metaphors to use by commentary voices.
@@ -27,7 +29,7 @@ Before beginning assessment, read these files:
 
 # IMPORTANT 
 
-9. **Read** `/home/opencode/MDZOD/1/quality/QUALITATIVE_QC.md` - This is the exact format of the report you are expected to produce!   You will be overwritting this file with latest data.  DO NOT CHANGE THE FORMAT!!!
+9. **Read** `/home/opencode/MDZOD/1/quality/QC.md` - This is the exact format of the report you are expected to produce!   You will be overwritting this file with latest data.  DO NOT CHANGE THE FORMAT!!!
 
 
 ## CHARACTER ACTIVATION
@@ -237,7 +239,7 @@ Chapters 17-25 show systematic under-coverage in delusion layer (average 0.10x).
 
 ## OUTPUT FORMAT
 
-Produce output in `/home/opencode/MDZOD/1/quality/QUALITATIVE_QC.md`:
+Produce output in `/home/opencode/MDZOD/1/quality/QC.md`:
 
 ```markdown
 # MULTI LAYER QUALITATIVE QC REPORT
@@ -269,7 +271,7 @@ Produce output in `/home/opencode/MDZOD/1/quality/QUALITATIVE_QC.md`:
 ### CHAPTER X (Title)
 | File | Commentary | Scholar | Delusion | Notes |
 |------|------------|---------|----------|-------|
-| XX-XX-XX-XX.txt | [grade] | [grade] | [grade] | [specific repair note] |
+| XX-XX-XX-XX.txt | 🟢 | 🟢 | 🟢 | [specific repair note] |
 
 [Repeat for all chapters]
 
@@ -300,7 +302,7 @@ Across all 213 sections × 3 layers = 639 total assessments:
 | A | 🟢 | ~160 | 25% |
 | B | 🟡 | ~160 | 25% |
 | C | 🟠 | ~128 | 20% |
-| D | 🔴 | ~64 | 10% |
+| 🔴 | 🔴 | ~64 | 10% |
 | F | 🟣 | ~32 | 5% |
 
 **ENFORCEMENT RULES:**

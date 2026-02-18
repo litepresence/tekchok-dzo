@@ -1,4 +1,4 @@
-<omen-literalization> <weather-sign-fatalism>
+[11825-11838] <omen-literalization> <weather-sign-fatalism>
 
 **Misreading:**
 The weather signs of hell—dark clouds, storms, hail, winds—interpreted as actual external omens determining inevitable rebirth, creating fatalistic weather-obsession at death.
@@ -11,15 +11,15 @@ Weather-fatalism: interpreting atmospheric conditions as destiny. Recognition is
 
 **Secondary consequences:**
 - Panic at storms: "It's a sign!"
-- Failing to recognize that signs are self-display to recognize
+- Missing that signs are self-display to recognize
 - Weather-avoidance as practice
 
 **Cascade effects:**
-<omen-literalization> leads to <weather-fatalism> [external destiny] leads to <panic-at-signs> [storm fear] leads to <recognition-miss> [signs as omens vs display]
+<omen-literalization> → <weather-fatalism> [external destiny] → <panic-at-signs> [storm fear] → <recognition-miss> [signs as omens vs display]
 
 ---
 
-<hell-terror> <dmyal-ba-panic>
+[11825-11838] <hell-terror> <dmyal-ba-panic>
 
 **Misreading:**
 The eight hot hells (*tsha dmyal brgyad*) and their descriptions interpreted as establishing literal torture chambers to fear, creating hell-terror that prevents recognition.
@@ -32,15 +32,15 @@ Hell-panic at death: terror at hell-signs prevents recognition. Fear obscures th
 
 **Secondary consequences:**
 - Despair at death: "I'm doomed"
-- The error obscures that hell is self-display to recognize
+- Missing that hell is self-display to recognize
 - Moral panic blocking clear seeing
 
 **Cascade effects:**
-<hell-terror> produces <awareness-overlooked>
+<hell-terror> → <hell-panic> [fear of punishment] → <despair-at-death> [giving up] → <self-display-miss> [hell as nature]
 
 ---
 
-<avici-hell-anxiety> <mnar-med-obsession>
+[11838-11847] <avici-hell-anxiety> <mnar-med-obsession>
 
 **Misreading:**
 The description of Avici hell (*sems can dmyal ba mnar med*) for samaya-breakers interpreted as creating specific anxiety about vajra master commitment violations, creating paranoia about past samaya.
@@ -53,15 +53,15 @@ Samaya-paranoia: obsessive review of commitments. Recognition is replaced by gui
 
 **Secondary consequences:**
 - Confessing to "avoid" Avici
-- What's missed: that even Avici is display
-- Guru-dependence out of fear in contrast to devotion
+- Missing that even Avici is display
+- Guru-dependence out of fear rather than devotion
 
 **Cascade effects:**
-<avici-hell-anxiety> produces <samaya-paranoia> [commitment obsession] → <guilt-scanning> [past review] → <display-miss> [even Avici is nature]
+<avici-hell-anxiety> → <samaya-paranoia> [commitment obsession] → <guilt-scanning> [past review] → <display-miss> [even Avici is nature]
 
 ---
 
-<samaya-breaking-fear> <dam-tshig-nyams-pa-terror>
+[11838-11847] <samaya-breaking-fear> <dam-tshig-nyams-pa-terror>
 
 **Misreading:**
 The warning about breaking samaya with the vajra master (*rdo rje bla ma la dam tshig chen po nyams pa*) interpreted as establishing unforgivable sin requiring terror-level avoidance.
@@ -74,18 +74,18 @@ Samaya-terror: paralyzing fear of commitment violations. Recognition is blocked 
 
 **Secondary consequences:**
 - Over-scrupulosity about samaya
-- Guru-fear-trust
-- Failing to recognize that recognition transcends broken/kept
+- Guru-fear rather than guru-trust
+- Missing that recognition transcends broken/kept
 
 **Cascade effects:**
-<samaya-breaking-fear> triggers <samaya-terror> [violation panic] → <over-scrupulosity> [excessive caution] → <recognition-blocking> [moral panic]
+<samaya-breaking-fear> → <samaya-terror> [violation panic] → <over-scrupulosity> [excessive caution] → <recognition-blocking> [moral panic]
 
 ---
 
-<vajra-hell-literalization> <rdo-rje-dmyal-materialization>
+[11847-11858] <vajra-hell-literalization> <rdo-rje-dmyal-materialization>
 
 **Misreading:**
-The "vajra hell" (*rdo rje'i dmyal ba*) described in *Dam tshig mchog tu bkod pa* interpreted as literal iron-walled prison to fear, in contrast to the experience of awareness unrecognized.
+The "vajra hell" (*rdo rje'i dmyal ba*) described in *Dam tshig mchog tu bkod pa* interpreted as literal iron-walled prison to fear, rather than the experience of awareness unrecognized.
 
 **Why it arises:**
 "Vajra" suggests indestructible. "Hell" implies inescapable place. The practitioner imagines actual vajra-prison.
@@ -96,14 +96,14 @@ Vajra-hell-fear: terror of indestructible punishment. Recognition is obscured by
 **Secondary consequences:**
 - Literal vajra-hell visualization
 - "Inescapable" as despair-inducing
-- Failing to recognize that vajra-hell is unrecognized rigpa
+- Missing that vajra-hell is unrecognized rigpa
 
 **Cascade effects:**
-<vajra-hell-literalization> produces <vajra-hell-fear> [indestructible prison] → <inescapable-despair> [no way out] → <unrecognized-rigpa-miss> [hell as awareness]
+<vajra-hell-literalization> → <vajra-hell-fear> [indestructible prison] → <inescapable-despair> [no way out] → <unrecognized-rigpa-miss> [hell as awareness]
 
 ---
 
-<hungry-ghost-weather-obsession> <yi-dvags-sign-reading>
+[11859-11871] <hungry-ghost-weather-obsession> <yi-dvags-sign-reading>
 
 **Misreading:**
 The weather signs of hungry ghost realm—dim light, dying sun/moon, rain at dusk—interpreted as meteorological determinism requiring weather-monitoring at death.
@@ -124,7 +124,7 @@ Light-monitoring: "Is it bright enough?" Recognition is replaced by illumination
 
 ---
 
-<obstruction-cataloging> <sgrib-pa-enumeration>
+[11859-11871] <obstruction-cataloging> <sgrib-pa-enumeration>
 
 **Misreading:**
 The five obstructions (*sgrib pa lnga*) of hungry ghosts—external, internal, circumstantial, particular, inverted—interpreted as categories to diagnose, creating obstruction-checklist.
@@ -133,19 +133,19 @@ The five obstructions (*sgrib pa lnga*) of hungry ghosts—external, internal, c
 "Five" suggests classification. "Obstruction" implies barrier. Diagnostic mindset: "Which obstruction do I have?"
 
 **Primary consequence:**
-Obstruction-diagnosis: cataloging barriers but not recognizing. Recognition is replaced by problem-identification.
+Obstruction-diagnosis: cataloging barriers rather than recognizing. Recognition is replaced by problem-identification.
 
 **Secondary consequences:**
 - "I have external obstruction" as identity
 - Missing that obstructions are display
-- Problem-focused rather than than nature-focused
+- Problem-focused rather than nature-focused
 
 **Cascade effects:**
-<obstruction-cataloging> creates <obstruction-diagnosis> [barrier identification] → <obstruction-identity> [I am obstructed] → <display-miss> [obstructions as nature]
+<obstruction-cataloging> → <obstruction-diagnosis> [barrier identification] → <obstruction-identity> [I am obstructed] → <display-miss> [obstructions as nature]
 
 ---
 
-<animal-sign-animalization> <dud-'gro-degradation>
+[11872-11880] <animal-sign-animalization> <dud-'gro-degradation>
 
 **Misreading:**
 The animal realm signs—fog, darkness, dullness—interpreted as establishing animal rebirth as degrading fall to avoid, creating terror of "becoming an animal."
@@ -162,11 +162,11 @@ Animal-terror: fear of becoming "lower" life-form. Recognition is blocked by hie
 - Status-obsession over recognition
 
 **Cascade effects:**
-<animal-sign-animalization> produces <animal-terror> [lower status fear] → <hierarchical-thinking> [realm ranking] → <equal-display-miss> [all realms as nature]
+<animal-sign-animalization> → <animal-terror> [lower status fear] → <hierarchical-thinking> [realm ranking] → <equal-display-miss> [all realms as nature]
 
 ---
 
-<asura-sign-aggression> <lha-min-competition>
+[11881-11890] <asura-sign-aggression> <lha-min-competition>
 
 **Misreading:**
 The asura signs—fierce winds, dark clouds, thunder—interpreted as establishing asura realm as violent domain of jealousy and competition to fear.
@@ -183,11 +183,11 @@ Asura-fear: terror of competitive realm. Recognition is blocked by violence-aver
 - Peace-preference over recognition
 
 **Cascade effects:**
-<asura-sign-aggression> produces <obscuration>
+<asura-sign-aggression> → <asura-fear> [violence terror] → <avoidance-assertion> [rejecting power] → <aggression-display-miss> [violence as nature]
 
 ---
 
-<god-sign-attachment> <lha-skye-grasping>
+[11891-11897] <god-sign-attachment> <lha-skye-grasping>
 
 **Misreading:**
 The god realm signs—clear sky, bright sun/moon, pleasant weather—interpreted as desirable destination to seek, creating attachment to "good" rebirth.
@@ -204,11 +204,11 @@ God-realm-craving: seeking pleasant signs. Recognition is replaced by destinatio
 - Rebirth-aspiration over recognition
 
 **Cascade effects:**
-<god-sign-attachment> creates <ground-ignored>
+<god-sign-attachment> → <god-realm-craving> [seeking pleasant] → <sign-preference> [good vs bad] → <equal-display-miss> [all signs as nature]
 
 ---
 
-<human-sign-romanticism> <mi-skye-idealization>
+[11898-11905] <human-sign-romanticism> <mi-skye-idealization>
 
 **Misreading:**
 The human realm signs—clear sky, white clouds, rainbow light—interpreted as establishing human rebirth as ideal opportunity, creating romanticism about "precious human birth."
@@ -225,11 +225,11 @@ Human-romanticism: attachment to human realm. Recognition is obscured by form-pr
 - Attachment to "precious" status
 
 **Cascade effects:**
-<human-sign-romanticism> triggers <obscuration>
+<human-sign-romanticism> → <human-attachment> [form preference] → <rebirth-aspiration> [wanting human] → <display-miss> [human as nature]
 
 ---
 
-<jewel-birth-elitism> <rin-po-che-skya-exclusivity>
+[11898-11905] <jewel-birth-elitism> <rin-po-che-skya-exclusivity>
 
 **Misreading:**
 The "jewel birth" (*rin po che'i skye gnas*) of human realm interpreted as establishing spiritual elitism about those born in favorable conditions, creating class-condescension.
@@ -246,11 +246,11 @@ Birth-elitism: hierarchical view of rebirth conditions. Recognition is replaced 
 - Missing that all births are equal opportunity
 
 **Cascade effects:**
-<jewel-birth-elitism> generates <birth-hierarchy> [status ranking] → <condemnation-of-lower> [judgment] → <equal-opportunity-miss> [all births as path]
+<jewel-birth-elitism> → <birth-hierarchy> [status ranking] → <condemnation-of-lower> [judgment] → <equal-opportunity-miss> [all births as path]
 
 ---
 
-<sign-misattribution-anxiety> <rtags-misidentification>
+[11906-11922] <sign-misattribution-anxiety> <rtags-misidentification>
 
 **Misreading:**
 The warning about sign-misattribution—taking others' death signs as one's own or vice versa—interpreted as creating anxiety about "reading signs wrong," creating diagnostic paralysis.
@@ -267,11 +267,11 @@ Sign-paralysis: inability to trust any sign-reading. Recognition is blocked by e
 - Doubt-loop preventing action
 
 **Cascade effects:**
-<sign-misattribution-anxiety> generates <recognition-blocked>
+<sign-misattribution-anxiety> → <sign-paralysis> [diagnostic doubt] → <epistemic-doubt> [what do I know?] → <recognition-blocking> [doubt preventing seeing]
 
 ---
 
-<other-sign-contamination> <gzhan-gyi-rtags-fear>
+[11906-11922] <other-sign-contamination> <gzhan-gyi-rtags-fear>
 
 **Misreading:**
 The possibility of encountering others' signs (*skye bo gzhan*) interpreted as establishing contamination-fear—one's good signs might be "infected" by others' bad signs.
@@ -292,7 +292,7 @@ Sign-purity-obsession: fear of others' influences. Recognition is replaced by co
 
 ---
 
-<rainbow-meeting-attachment> <'ja'-don-misunderstanding>
+[11919-11922] <rainbow-meeting-attachment> <'ja'-don-misunderstanding>
 
 **Misreading:**
 The phrase "meeting rainbow aspirations" (*'ja' don gner ba dang phrad pa*) interpreted as literal encounter with rainbow phenomena that fulfills wishes, creating wish-fulfillment obsession.
@@ -309,11 +309,11 @@ Rainbow-materialism: seeking signs for gain. Recognition is replaced by manifest
 - Materialism disguised as spirituality
 
 **Cascade effects:**
-<rainbow-meeting-attachment> produces <rainbow-materialism> [signs for gain] → <manifestation-desire> [wishing] → <display-miss> [rainbow as nature]
+<rainbow-meeting-attachment> → <rainbow-materialism> [signs for gain] → <manifestation-desire> [wishing] → <display-miss> [rainbow as nature]
 
 ---
 
-<tantra-citation-authority> <rgyud-lung-dependence>
+[11923-11975] <tantra-citation-authority> <rgyud-lung-dependence>
 
 **Misreading:**
 The citation from *Sku gdung 'bar ba rtags kyi rgyud* interpreted as establishing textual authority for sign-interpretation, creating scripture-dependence over direct recognition.
@@ -330,11 +330,11 @@ Textual-validation: deferring to scripture over seeing. Recognition is replaced 
 - Scripture-dependence over experience
 
 **Cascade effects:**
-<tantra-citation-authority> leads to <textual-validation> [deferring to text] → <citation-confirmation> [proof-seeking] → <immediate-recognition-miss> [scripture over seeing]
+<tantra-citation-authority> → <textual-validation> [deferring to text] → <citation-confirmation> [proof-seeking] → <immediate-recognition-miss> [scripture over seeing]
 
 ---
 
-<mkha'-'gro-ma-address-romanticism>
+[11923-11975] <mkha'-'gro-ma-address-romanticism>
 
 **Misreading:**
 The address to *mkha' 'gro ma* (dakini) in the tantra citation interpreted as establishing romantic/mysterious relationship with feminine spiritual powers, creating dakini-fetish.
@@ -351,11 +351,11 @@ Dakini-fetish: obsession with feminine spiritual powers. Recognition is replaced
 - Missing that dakini is nature itself
 
 **Cascade effects:**
-<mkha'-'gro-ma-address-romanticism> generates <dakini-fetish> [feminine power obsession] → <external-blessing-seeking> [outside help] → <nature-itself-miss> [dakini as display]
+<mkha'-'gro-ma-address-romanticism> → <dakini-fetish> [feminine power obsession] → <external-blessing-seeking> [outside help] → <nature-itself-miss> [dakini as display]
 
 ---
 
-<body-part-departure-obsession> <lus-yal-monitoring>
+[11985-11990] <body-part-departure-obsession> <lus-yal-monitoring>
 
 **Misreading:**
 The departure signs through body parts—feet, mouth, navel, throat, armpits, crown—interpreted as requiring precise somatic monitoring, creating death-bed body-scanning.
@@ -372,11 +372,11 @@ Body-scanning-obsession: tracking warmth-leaving. Recognition is replaced by som
 - Body-monitoring over recognition
 
 **Cascade effects:**
-<body-part-departure-obsession> → <recognition-blocked>
+<body-part-departure-obsession> → <body-scanning> [somatic monitoring] → <departure-anxiety> [where is it?] → <display-miss> [departure as nature]
 
 ---
 
-<crown-exit-attachment> <spyi-bo-grasping>
+[11985-11990] <crown-exit-attachment> <spyi-bo-grasping>
 
 **Misreading:**
 The crown exit (*spyi bo*) interpreted as the "correct" and "best" departure point, creating attachment to top-of-head dying and anxiety about "wrong" exits.
@@ -393,11 +393,11 @@ Crown-attachment: obsession with top-exit. Recognition is obscured by exit-prefe
 - Exit-hierarchy over recognition
 
 **Cascade effects:**
-<crown-exit-attachment> leads to <recognition-blocked>
+<crown-exit-attachment> → <crown-obsession> [top exit fixation] → <exit-anxiety> [wrong departure] → <equal-exit-miss> [all exits as nature]
 
 ---
 
-<internal-sign-literalization> <nang-gi-rtags-materialization>
+[11991-12002] <internal-sign-literalization> <nang-gi-rtags-materialization>
 
 **Misreading:**
 The internal signs of six realms—fire of hell, hunger/thirst of pretas, dullness of animals, etc.—interpreted as establishing literal internal experiences to monitor, creating somatic death-bed scanning.
@@ -414,11 +414,11 @@ Internal-scanning: monitoring inner sensations for realm-indicators. Recognition
 - Somatic obsession at death
 
 **Cascade effects:**
-<internal-sign-literalization> produces <obscuration>
+<internal-sign-literalization> → <internal-scanning> [somatic monitoring] → <sensation-panic> [symptom fear] → <display-miss> [sensations as nature]
 
 ---
 
-<six-realms-internal-mapping> <'gro-drug-nang-cartography>
+[11991-12002] <six-realms-internal-mapping> <'gro-drug-nang-cartography>
 
 **Misreading:**
 The six realms' internal signs interpreted as establishing literal internal geography where different body parts correspond to different realms, creating body-realm mapping obsession.
@@ -435,11 +435,11 @@ Body-cartography: mapping sensations to destinations. Recognition is replaced by
 - Internal geography over recognition
 
 **Cascade effects:**
-<six-realms-internal-mapping> produces <body-cartography> [sensation mapping] → <destination-determinism> [this means that] → <single-display-miss> [all as one]
+<six-realms-internal-mapping> → <body-cartography> [sensation mapping] → <destination-determinism> [this means that] → <single-display-miss> [all as one]
 
 ---
 
-<sign-recognition-certitude> <rtags-nges-pa-arrogance>
+[12003-12010] <sign-recognition-certitude> <rtags-nges-pa-arrogance>
 
 **Misreading:**
 The phrase "certainly know the signs of each birth place" (*skye gnas so so'i rtags su nges par shes par bya'o*) interpreted as establishing diagnostic certainty about rebirth, creating sign-reading arrogance.
@@ -456,7 +456,7 @@ Sign-arrogance: over-confidence in reading. Recognition is obscured by diagnosti
 - Pride in sign-reading ability
 
 **Cascade effects:**
-<sign-recognition-certitude> triggers <sign-arrogance> [diagnostic pride] → <rebirth-judgment> [I know your fate] → <recognition-certainty-miss> [certainty as seeing]
+<sign-recognition-certitude> → <sign-arrogance> [diagnostic pride] → <rebirth-judgment> [I know your fate] → <recognition-certainty-miss> [certainty as seeing]
 
 ---
 

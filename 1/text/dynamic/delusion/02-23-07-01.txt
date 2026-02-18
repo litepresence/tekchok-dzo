@@ -1,4 +1,4 @@
-<dharmata-view-achievement> <chos-nyid-understanding>
+[14278-14281] <dharmata-view-achievement> <chos-nyid-understanding>
 **Misreading:**
 "Dharmata view" (*chos nyid lta ba*) interpreted as philosophical comprehension—conceptual understanding of emptiness to acquire.
 
@@ -11,14 +11,14 @@ Dharmata reduced to concept. "I understand emptiness." Non-conceptual recognitio
 **Secondary consequences:**
 - Philosophical pride
 - Conceptual mastery mistake
-- The crucial omission: that view is direct, not understood
+- Missing that view is direct, not understood
 
 **Cascade effects:**
-Triggers <view-concept> (understanding as view), <dharmata-intellectualism> (philosophical emptiness), <ground-ignored> (concept obscures non-concept).
+Triggers <view-concept> (understanding as view), <dharmata-intellectualism> (philosophical emptiness), <recognition-prevention> (concept obscures non-concept).
 
 ---
 
-<meditation-stabilization> <bsgom-pa-achievement>
+[14282-14285] <meditation-stabilization> <bsgom-pa-achievement>
 **Misreading:**
 "Meditation" (*bsgom pa*) interpreted as stabilization practice—making mind calm and steady through effort.
 
@@ -31,14 +31,14 @@ Meditation substantialized as calming. "I need to stabilize my mind." Natural st
 **Secondary consequences:**
 - Calm-chasing
 - Stability-effort
-- Overlooking that meditation is recognition
+- Missing that meditation is recognition
 
 **Cascade effects:**
-Triggers <meditation-stabilization> (calm making), <calm-effort> (producing peace), <ground-ignored> (doing obscures natural).
+Triggers <meditation-stabilization> (calm making), <calm-effort> (producing peace), <recognition-prevention> (doing obscures natural).
 
 ---
 
-<confidence-as-certainty> <gdeng-dogmatism>
+[14286-14290] <confidence-as-certainty> <gdeng-dogmatism>
 **Misreading:**
 "Confidence" (*gdeng*) interpreted as intellectual certainty—being absolutely sure one's understanding is correct.
 
@@ -51,14 +51,14 @@ Confidence substantialized as certainty. "I am confident I understand." Natural 
 **Secondary consequences:**
 - Dogmatic assertion
 - Inquiry suppression
-- Not seeing that confidence is natural to recognition
+- Missing that confidence is natural to recognition
 
 **Cascade effects:**
-Triggers <certainty-dogmatism> (forced confidence), <intellectual-arrogance> (sure I'm right), <awareness-overlooked> (certainty obscures natural).
+Triggers <certainty-dogmatism> (forced confidence), <intellectual-arrogance> (sure I'm right), <recognition-prevention> (certainty obscures natural).
 
 ---
 
-<light-release-technique> <od-snal-grol-ba-method>
+[14291-14295] <light-release-technique> <od-snal-grol-ba-method>
 **Misreading:**
 "Liberation into light" (*'od snang chos nyid du grol ba*) interpreted as technique—method to transform appearances into light.
 
@@ -71,14 +71,14 @@ Liberation substantialized as technique. "I liberate appearances into light." Na
 **Secondary consequences:**
 - Light-making meditation
 - Transformation technique
-- Not seeing that light is natural display
+- Missing that light is natural display
 
 **Cascade effects:**
-Triggers <light-technique> (making luminosity), <transformation-method> (changing appearances), <rigpa-unseen> (doing obscures natural-display).
+Triggers <light-technique> (making luminosity), <transformation-method> (changing appearances), <recognition-prevention> (doing obscures natural-display).
 
 ---
 
-<compassion-projection> <thugs-rje-externalization>
+[14296-14305] <compassion-projection> <thugs-rje-externalization>
 **Misreading:**
 Compassion (*thugs rje*) interpreted as emotion to project—feeling sent out toward suffering beings.
 
@@ -91,14 +91,14 @@ Compassion substantialized as projected feeling. "I send compassion to beings." 
 **Secondary consequences:**
 - Compassion-fatigue
 - Emotional projection
-- Not seeing that compassion is natural display
+- Missing that compassion is natural display
 
 **Cascade effects:**
-Triggers <compassion-projection> (sending feeling), <emotional-exhaustion> (burnout), <awareness-overlooked> (projection obscures natural-responsiveness).
+Triggers <compassion-projection> (sending feeling), <emotional-exhaustion> (burnout), <recognition-prevention> (projection obscures natural-responsiveness).
 
 ---
 
-<instruction-secrecy-elitism> <man-ngag-exclusivity>
+[14306-14310] <instruction-secrecy-elitism> <man-ngag-exclusivity>
 **Misreading:**
 "Most secret instruction" (*yang gsang*) interpreted as esoteric knowledge—teachings reserved for select initiates.
 
@@ -111,14 +111,14 @@ Instructions substantialized as secrets. "I know the secret teachings." Open ava
 **Secondary consequences:**
 - Esoteric elitism
 - Gatekeeping
-- Failing to recognize that instructions point to obvious
+- Missing that instructions point to obvious
 
 **Cascade effects:**
-Triggers <secrecy-elitism> (hidden knowledge), <man-ngag-exclusivity> (select access), <recognition-blocked> (secret obscures open).
+Triggers <secrecy-elitism> (hidden knowledge), <man-ngag-exclusivity> (select access), <recognition-prevention> (secret obscures open).
 
 ---
 
-<self-recognition-achievement> <rang-rtogs-pride>
+[14311-14314] <self-recognition-achievement> <rang-rtogs-pride>
 **Misreading:**
 "Self-recognized" (*rang gis rtogs*) interpreted as personal accomplishment—something one achieves through effort.
 
@@ -131,14 +131,14 @@ Recognition substantialized as achievement. "I achieved recognition." Natural re
 **Secondary consequences:**
 - Recognition-pride
 - Self-aggrandizement
-- Overlooking that recognition is not done
+- Missing that recognition is not done
 
 **Cascade effects:**
-Triggers <recognition-achievement> (personal accomplishment), <self-pride> (I did it), <awareness-overlooked> (doing obscures natural).
+Triggers <recognition-achievement> (personal accomplishment), <self-pride> (I did it), <recognition-prevention> (doing obscures natural).
 
 ---
 
-<text-study-substitution> <lung-dpe-intellectualism>
+[14315-14327] <text-study-substitution> <lung-dpe-intellectualism>
 **Misreading:**
 Scriptural citations interpreted as study requirement—understanding texts as path to recognition.
 
@@ -154,11 +154,11 @@ Study substantialized as path. "I need to study the texts." Direct recognition r
 - Missing that texts point beyond themselves
 
 **Cascade effects:**
-Triggers <text-substitution> (study for recognition), <scriptural-fundamentalism> (text authority), <recognition-blocked> (reading obscures seeing).
+Triggers <text-substitution> (study for recognition), <scriptural-fundamentalism> (text authority), <recognition-prevention> (reading obscures seeing).
 
 ---
 
-<three-points-doctrine> <gnad-gsum-system>
+[14328-14335] <three-points-doctrine> <gnad-gsum-system>
 **Misreading:**
 Three key points (*gnad gsum*) interpreted as doctrinal system—comprehensive teaching structure to master.
 
@@ -174,11 +174,11 @@ Points substantialized as framework. "I know the three points." Pointers obscure
 - Missing that points point beyond
 
 **Cascade effects:**
-Triggers <point-system> (doctrinal structure), <comprehensive-knowledge> (knowing all), <obscuration> (system obscures beyond-system).
+Triggers <point-system> (doctrinal structure), <comprehensive-knowledge> (knowing all), <recognition-prevention> (system obscures beyond-system).
 
 ---
 
-<transmission-ritual-magic> <lung-empowerment>
+[14336-14345] <transmission-ritual-magic> <lung-empowerment>
 **Misreading:**
 Transmission (*lung*) interpreted as ritual empowerment—ceremony conferring authority or ability.
 
@@ -194,11 +194,11 @@ Transmission substantialized as ritual. "I received transmission." Self-recognit
 - Missing that transmission points
 
 **Cascade effects:**
-Triggers <transmission-ritual> (ceremony), <empowerment-magic> (power receipt), <recognition-blocked> (external obscures internal).
+Triggers <transmission-ritual> (ceremony), <empowerment-magic> (power receipt), <recognition-prevention> (external obscures internal).
 
 ---
 
-<propagation-missionary> <bstan-pa-conversion>
+[14346-14355] <propagation-missionary> <bstan-pa-conversion>
 **Misreading:**
 "Spread the teachings" (*bstan pa spel*) interpreted as missionary duty—converting others to the religion.
 
@@ -214,11 +214,11 @@ Propagation substantialized as conversion. "I must spread Dzogchen." Natural sha
 - Missing that propagation is pointing
 
 **Cascade effects:**
-Triggers <propagation-mission> (converting others), <religious-imperialism> (spreading truth), <recognition-blocked> (aggression obscures natural).
+Triggers <propagation-mission> (converting others), <religious-imperialism> (spreading truth), <recognition-prevention> (aggression obscures natural).
 
 ---
 
-<preservation-museum> <bstan-pa-conservation>
+[14356-14365] <preservation-museum> <bstan-pa-conservation>
 **Misreading:**
 "Preserve the teachings" interpreted as museum conservation—protecting texts and traditions from change.
 
@@ -234,11 +234,11 @@ Preservation substantialized as fossilization. "We must preserve exactly." Livin
 - Missing that preservation is living transmission
 
 **Cascade effects:**
-Triggers <preservation-fundamentalism> (unchanging), <museum-dharma> (fossilized), <recognition-blocked> (rigid obscures dynamic).
+Triggers <preservation-fundamentalism> (unchanging), <museum-dharma> (fossilized), <recognition-prevention> (rigid obscures dynamic).
 
 ---
 
-<teacher-disciple-hierarchy> <bla-slob-ranking>
+[14366-14375] <teacher-disciple-hierarchy> <bla-slob-ranking>
 **Misreading:**
 Teacher-disciple relationship interpreted as hierarchical—superior instructor and inferior student.
 
@@ -254,11 +254,11 @@ Relationship substantialized as hierarchy. "Teacher knows, I don't." Mutual reco
 - Missing that both point to same nature
 
 **Cascade effects:**
-Triggers <hierarchical-relationship> (superior-inferior), <student-dependency> (needing teacher), <recognition-blocked> (division obscures unity).
+Triggers <hierarchical-relationship> (superior-inferior), <student-dependency> (needing teacher), <recognition-prevention> (division obscures unity).
 
 ---
 
-<practice-lineage-elitism> <sgrub-brgyud-exclusivity>
+[14376-14385] <practice-lineage-elitism> <sgrub-brgyud-exclusivity>
 **Misreading:**
 Practice lineage (*sgrub brgyud*) interpreted as exclusive club—only members have authentic access.
 
@@ -274,11 +274,11 @@ Lineage substantialized as exclusive access. "Only our lineage has it." Universa
 - Missing that lineage points to what all have
 
 **Cascade effects:**
-Triggers <lineage-elitism> (exclusive access), <sectarian-pride> (our tradition), <rigpa-unseen> (exclusivity obscures universality).
+Triggers <lineage-elitism> (exclusive access), <sectarian-pride> (our tradition), <recognition-prevention> (exclusivity obscures universality).
 
 ---
 
-<experience-description-achievement> <nyams-mistake>
+[14386-14395] <experience-description-achievement> <nyams-mistake>
 **Misreading:**
 Experience descriptions interpreted as goals—states to achieve and possess.
 
@@ -294,11 +294,11 @@ Experiences substantialized as achievements. "I want that experience." Natural d
 - Missing that experiences are empty
 
 **Cascade effects:**
-Triggers <experience-goal> (achieving states), <state-accumulation> (collecting nyams), <ground-ignored> (experiences obscure experiencer-less).
+Triggers <experience-goal> (achieving states), <state-accumulation> (collecting nyams), <recognition-prevention> (experiences obscure experiencer-less).
 
 ---
 
-<view-collapse-rigidity> <lta-ba-dogmatism>
+[14396-14405] <view-collapse-rigidity> <lta-ba-dogmatism>
 **Misreading:**
 "View" (*lta ba*) interpreted as fixed position—doctrinal stance to defend and promote.
 
@@ -314,11 +314,11 @@ View substantialized as position. "My view is correct." Natural openness obscure
 - Missing that view is recognition
 
 **Cascade effects:**
-Triggers <view-position> (fixed stance), <doctrinal-battle> (defending view), <awareness-overlooked> (rigidity obscures openness).
+Triggers <view-position> (fixed stance), <doctrinal-battle> (defending view), <recognition-prevention> (rigidity obscures openness).
 
 ---
 
-<meditation-state-accumulation> <sgom-pa-collection>
+[14406-14415] <meditation-state-accumulation> <sgom-pa-collection>
 **Misreading:**
 Meditation interpreted as state-collection—accumulating calm, clarity, bliss through practice.
 
@@ -334,11 +334,11 @@ Meditation substantialized as state-production. "I got a good meditation today."
 - Missing that meditation is recognition
 
 **Cascade effects:**
-Triggers <state-accumulation> (collecting experiences), <meditation-attachment> (wanting good), <obscuration> (production obscures natural).
+Triggers <state-accumulation> (collecting experiences), <meditation-attachment> (wanting good), <recognition-prevention> (production obscures natural).
 
 ---
 
-<conduct-rule-following> <spyod-pa-morality>
+[14416-14425] <conduct-rule-following> <spyod-pa-morality>
 **Misreading:**
 Conduct (*spyod pa*) interpreted as moral rule-following—ethical behavior as spiritual path.
 
@@ -354,11 +354,11 @@ Conduct substantialized as morality. "I must behave properly." Natural expressio
 - Missing that conduct is natural flow
 
 **Cascade effects:**
-Triggers <conduct-morality> (rule following), <ethical-pride> (proper behavior), <ground-ignored> (rules obscure natural).
+Triggers <conduct-morality> (rule following), <ethical-pride> (proper behavior), <recognition-prevention> (rules obscure natural).
 
 ---
 
-<fruition-future-achievement> <bras-bu-goal>
+[14426-14435] <fruition-future-achievement> <bras-bu-goal>
 **Misreading:**
 Fruition (*'bras bu*) interpreted as future goal—result to achieve at path's end.
 
@@ -374,11 +374,11 @@ Fruition substantialized as future. "I will achieve enlightenment." Already-pres
 - Missing that fruition is now
 
 **Cascade effects:**
-Triggers <fruition-future> (future goal), <achievement-delay> (not yet), <nature-missed> (future obscures present).
+Triggers <fruition-future> (future goal), <achievement-delay> (not yet), <recognition-prevention> (future obscures present).
 
 ---
 
-<dedication-merit-transfer> <bsngo-ba-transaction>
+[14436-14445] <dedication-merit-transfer> <bsngo-ba-transaction>
 **Misreading:**
 Dedication (*bsngo ba*) interpreted as merit-transfer—giving accumulated virtue to others.
 
@@ -394,11 +394,11 @@ Dedication substantialized as transaction. "I transfer my merit." Natural virtue
 - Missing that dedication is natural
 
 **Cascade effects:**
-Triggers <merit-transaction> (spiritual exchange), <dedication-accounting> (tracking virtue), <ground-ignored> (transaction obscures gift).
+Triggers <merit-transaction> (spiritual exchange), <dedication-accounting> (tracking virtue), <recognition-prevention> (transaction obscures gift).
 
 ---
 
-<aspiration-wish-making> <smon-lam-request>
+[14446-14455] <aspiration-wish-making> <smon-lam-request>
 **Misreading:**
 Aspiration (*smon lam*) interpreted as wish-making—requests to higher power for desired outcomes.
 
@@ -414,11 +414,11 @@ Aspiration substantialized as wish. "I pray for results." Empty nature obscured.
 - Missing that aspiration points
 
 **Cascade effects:**
-Triggers <aspiration-wish> (requesting), <prayer-magic> (wish fulfillment), <awareness-overlooked> (wishing obscures nature).
+Triggers <aspiration-wish> (requesting), <prayer-magic> (wish fulfillment), <recognition-prevention> (wishing obscures nature).
 
 ---
 
-<recitation-accumulation> <bzlas-pa-counting>
+[14456-14465] <recitation-accumulation> <bzlas-pa-counting>
 **Misreading:**
 Recitation (*bzlas pa*) interpreted as mantra-accumulation—counting repetitions for merit.
 
@@ -434,9 +434,10 @@ Recitation substantialized as counting. "I did 100,000 mantras." Meaning obscure
 - Missing that recitation is recognition
 
 **Cascade effects:**
-Triggers <recitation-quantity> (counting), <mantra-accumulation> (number pride), <recognition-blocked> (quantity obscures quality).
+Triggers <recitation-quantity> (counting), <mantra-accumulation> (number pride), <recognition-prevention> (quantity obscures quality).
 
 ---
+
 
 Lines 14278-14465 present recognition, meditation, confidence, light liberation, compassion, instructions, self-recognition, transmission, propagation, preservation, and completion practices. This is CRITICAL bardo and fruition material.
 
@@ -462,5 +463,6 @@ Lines 14278-14465 present recognition, meditation, confidence, light liberation,
 - Merit transaction
 - Wish-making
 - Number counting
+
 
 **COVERAGE STATUS:** Enhanced version provides comprehensive error mapping (25 blocks). Tibetan: 38KB / Delusion: 15KB+ / Ratio: 0.40x+ (MINIMUM STANDARD MET).

@@ -1,4 +1,4 @@
-<epistemic-error> [RECOGNITION AS EVENT]
+[4428-4461] <epistemic-error> [RECOGNITION AS EVENT]
 **Misreading:**
 Recognition (ngo shes pa) is a special event, insight, or experience that happens in time.
 
@@ -12,11 +12,11 @@ Waiting for recognition to "happen."
 Disappointment that it's "just this."
 
 **Cascade effects:**
-<meditationism-error> triggers <waiting-syndrome> (future-event) creates <experience-seeking> (special-moment) generates <recognition-prevention-error> (event substitutes for nature).
+<meditationism-error> → <waiting-syndrome> (future-event) → <experience-seeking> (special-moment) → <recognition-prevention-error> (event substitutes for nature).
 
 ---
 
-<trekcho-completion-striving> <khregs-chod-mastery-quest>
+[4462-4467] <trekcho-completion-striving> <khregs-chod-mastery-quest>
 
 **Misreading:**
 Trekcho (khregs chod), cutting through, is a preliminary practice to complete before advancing to thogal (thod rgal). One must master cutting-through through sustained practice to qualify for leap-over teachings.
@@ -31,14 +31,14 @@ Trekcho becomes obstacle course. Practitioners obsess over "completing" cutting-
 - Creating trekcho/thogal hierarchy
 - Measuring "readiness" for thogal
 - Believing one must "finish" trekcho first
-- What remains unseen is that khregs chod is instantaneous recognition
+- Missing that khregs chod is instantaneous recognition
 
 **Cascade effects:**
-<trekcho-completion-striving> leads to <progress-measurement> (cutting-through-levels) produces <thogal-anticipation> (waiting-for-visions) produces <recognition-prevention-error> (sequence substitutes for immediacy).
+<trekcho-completion-striving> → <progress-measurement> (cutting-through-levels) → <thogal-anticipation> (waiting-for-visions) → <recognition-prevention-error> (sequence substitutes for immediacy).
 
 ---
 
-<thogal-vision-fixation> <thod-rgal-snang-ba-grasping>
+[4468-4485] <thogal-vision-fixation> <thod-rgal-snang-ba-grasping>
 
 **Misreading:**
 Thogal visions (thod rgal gyi snang ba)—circles of light (thig le), Buddha-forms (rigs lnga), six limits (mtha' drug)—are attainments to achieve through practice, indicating progress and realization level.
@@ -53,14 +53,14 @@ Thogal becomes vision-chasing. Practitioners practice specifically to see lights
 - Anxiety about not seeing visions
 - Pride in vision-experiences
 - Believing lights = realization
-- Not seeing that visions are natural display, not goal
+- Missing that visions are natural display, not goal
 
 **Cascade effects:**
-<thogal-vision-fixation> produces <phenomena-grasping> (light-forms) → <experience-validation> (needing-visions) → <recognition-prevention-error> (appearances substitute for essence).
+<thogal-vision-fixation> → <phenomena-grasping> (light-forms) → <experience-validation> (needing-visions) → <recognition-prevention-error> (appearances substitute for essence).
 
 ---
 
-<rainbow-body-goal> <ja-lus-achievement-fantasy>
+[4486-4503] <rainbow-body-goal> <ja-lus-achievement-fantasy>
 
 **Misreading:**
 Rainbow body ('ja' lus), the dissolution of physical body into light at death, is the ultimate goal of Dzogchen practice that practitioners should work toward achieving.
@@ -75,14 +75,14 @@ Rainbow body becomes spiritual trophy. Practitioners view Dzogchen as means to s
 - Secretly hoping for dramatic dissolution
 - Believing rainbow body validates practice
 - Anxiety about "ordinary" death
-- Overlooking that 'ja' lus is spontaneous, not achieved
+- Missing that 'ja' lus is spontaneous, not achieved
 
 **Cascade effects:**
-<rainbow-body-goal> creates <result-grasping> (wanting-dissolution) → <death-anxiety> (ordinary-vs-special) → <recognition-prevention-error> (phenomenon substitutes for freedom).
+<rainbow-body-goal> → <result-grasping> (wanting-dissolution) → <death-anxiety> (ordinary-vs-special) → <recognition-prevention-error> (phenomenon substitutes for freedom).
 
 ---
 
-<light-phenomena-attachment> <od-kyi-thig-le-clinging>
+[4504-4521] <light-phenomena-attachment> <od-kyi-thig-le-clinging>
 
 **Misreading:**
 The circles of light ('od kyi thig le) appearing in thogal practice are special phenomena to cultivate, sustain, and develop—indicating successful practice and approaching realization.
@@ -97,14 +97,14 @@ Light circles become cultivation object. Practitioners attempt to "hold" or "inc
 - Trying to "make" lights appear
 - Anxiety when lights fade
 - Believing more light = more realization
-- The crucial omission: that thig le are empty display
+- Missing that thig le are empty display
 
 **Cascade effects:**
-<light-phenomena-attachment> triggers <phenomena-manipulation> (controlling-lights) → <experience-grasping> (holding-visions) → <recognition-prevention-error> (objects substitute for nature).
+<light-phenomena-attachment> → <phenomena-manipulation> (controlling-lights) → <experience-grasping> (holding-visions) → <recognition-prevention-error> (objects substitute for nature).
 
 ---
 
-<bardo-technique-accumulation> <bar-do-sgrub-pa-collection>
+[4522-4539] <bardo-technique-accumulation> <bar-do-sgrub-pa-collection>
 
 **Misreading:**
 Bardo (bar do) teachings provide techniques to master for navigating death—the liberating instructions (grol khrid) must be practiced extensively to ensure recognition during the death process.
@@ -119,14 +119,14 @@ Bardo becomes fear-driven curriculum. Practitioners obsess over memorizing stage
 - Treating death as exam to study for
 - Anxiety about forgetting instructions
 - Accumulating techniques as insurance
-- The error obscures that bar do is this moment's nature
+- Missing that bar do is this moment's nature
 
 **Cascade effects:**
 <bardo-technique-accumulation> → <death-preparation-anxiety> (future-obsession) → <technique-insurance> (accumulating-methods) → <recognition-prevention-error> (preparation substitutes for presence).
 
 ---
 
-<phowa-mastery-quest> <pho-ba-rig-phrul-training>
+[4540-4557] <phowa-mastery-quest> <pho-ba-rig-phrul-training>
 
 **Misreading:**
 Phowa ('pho ba), consciousness transference, is a skill to perfect through repetition—one must train to "eject" consciousness through the crown aperture at will, guaranteeing pure land rebirth.
@@ -141,14 +141,14 @@ Phowa becomes mechanical training. Practitioners obsess over "hitting the mark" 
 - Anxiety about "missing" the aperture
 - Believing repetition creates death-mastery
 - Viewing Dzogchen through phowa lens
-- The error obscures that 'pho ba is spontaneous when recognition is stable
+- Missing that 'pho ba is spontaneous when recognition is stable
 
 **Cascade effects:**
-<phowa-mastery-quest> generates <mechanical-training> (repetition-obsession) → <death-control-delusion> (mastering-transference) → <recognition-prevention-error> (technique substitutes for freedom).
+<phowa-mastery-quest> → <mechanical-training> (repetition-obsession) → <death-control-delusion> (mastering-transference) → <recognition-prevention-error> (technique substitutes for freedom).
 
 ---
 
-<spontaneous-perfection-passivity> <lhun-rdzogs-laziness>
+[4558-4575] <spontaneous-perfection-passivity> <lhun-rdzogs-laziness>
 
 **Misreading:**
 Spontaneous perfection (lhun rdzogs) means everything is already perfect, so no practice is needed—one can simply wait for enlightenment to happen naturally without effort.
@@ -162,15 +162,15 @@ Spontaneous perfection becomes license for inaction. Practitioners justify ordin
 **Secondary consequences:**
 - Dismissing all effort as "dualistic"
 - Justifying habits as "perfection"
-- Not seeing that spontaneity is dynamic
+- Missing that spontaneity is dynamic
 - Using Dzogchen to avoid practice
 
 **Cascade effects:**
-<spontaneous-perfection-passivity> leads to <complacent-inaction> (laziness-justified) → <ordinary-mind-fixation> (habits-affirmed) → <recognition-prevention-error> (waiting substitutes for recognition).
+<spontaneous-perfection-passivity> → <complacent-inaction> (laziness-justified) → <ordinary-mind-fixation> (habits-affirmed) → <recognition-prevention-error> (waiting substitutes for recognition).
 
 ---
 
-<recognition-achievement-anxiety> <ngo-shes-performance-pressure>
+[4576-4593] <recognition-achievement-anxiety> <ngo-shes-performance-pressure>
 
 **Misreading:**
 Direct recognition (ngo shes pa, ngo sprod) is something one should be able to "get" consistently—pressure to recognize creates performance anxiety about maintaining recognition.
@@ -188,11 +188,11 @@ Recognition becomes performance pressure. Practitioners create anxiety about "ge
 - Missing that ngo shes is not personal performance
 
 **Cascade effects:**
-<recognition-achievement-anxiety> generates <performance-pressure> (recognition-striving) → <grasping-awareness> (trying-to-hold) → <recognition-prevention-error> (pressure substitutes for ease).
+<recognition-achievement-anxiety> → <performance-pressure> (recognition-striving) → <grasping-awareness> (trying-to-hold) → <recognition-prevention-error> (pressure substitutes for ease).
 
 ---
 
-<ground-path-result-temporalization> <gzhi-lam-'bras-bu-chronology>
+[4594-4611] <ground-path-result-temporalization> <gzhi-lam-'bras-bu-chronology>
 
 **Misreading:**
 Ground (gzhi), path (lam), and result ('bras bu) represent three sequential stages—first find ground, then traverse path, finally achieve result—a journey with clear timeline.
@@ -201,7 +201,7 @@ Ground (gzhi), path (lam), and result ('bras bu) represent three sequential stag
 Three words suggest sequence. Developmental thinking. Buddhist path-language. Result seems future.
 
 **Primary consequence:**
-Dzogchen becomes three-stage journey. Many assume they must "establish" ground, "traverse" path, "attain" result—when these are simultaneous aspects of one view.
+Dzogchen becomes three-stage journey. Practitioners believe they must "establish" ground, "traverse" path, "attain" result—when these are simultaneous aspects of one view.
 
 **Secondary consequences:**
 - Searching for "ground" as separate
@@ -210,11 +210,11 @@ Dzogchen becomes three-stage journey. Many assume they must "establish" ground, 
 - Missing gzhi-lam-'bras bu unity
 
 **Cascade effects:**
-<ground-path-result-temporalization> leads to <chronological-projection> (past-present-future) → <attainment-futurization> (waiting-for-result) → <recognition-prevention-error> (sequence substitutes for simultaneity).
+<ground-path-result-temporalization> → <chronological-projection> (past-present-future) → <attainment-futurization> (waiting-for-result) → <recognition-prevention-error> (sequence substitutes for simultaneity).
 
 ---
 
-<ka-dag-essentialism> <primordial-purity-substance>
+[4612-4629] <ka-dag-essentialism> <primordial-purity-substance>
 
 **Misreading:**
 Ka-dag (ka dag), primordial purity, refers to an original essence or substance existing prior to contamination—a pure ground-nature as true self.
@@ -232,11 +232,11 @@ Ka-dag becomes metaphysical essence. Practitioners search for "primordially pure
 - Missing that ka-dag negates essence
 
 **Cascade effects:**
-<ka-dag-essentialism> creates <essence-grasping> (original-nature) → <eternalistic-view> (substrate-belief) → <recognition-prevention-error> (thing-found substitutes for emptiness).
+<ka-dag-essentialism> → <essence-grasping> (original-nature) → <eternalistic-view> (substrate-belief) → <recognition-prevention-error> (thing-found substitutes for emptiness).
 
 ---
 
-<lhun-grub-attribution> <spontaneous-presence-quality>
+[4630-4647] <lhun-grub-attribution> <spontaneous-presence-quality>
 
 **Misreading:**
 Lhun-grub (lhun grub), spontaneous presence/self-perfection, describes an inherent quality or capacity of awareness—something the mind possesses allowing spontaneous manifestation.
@@ -245,7 +245,7 @@ Lhun-grub (lhun grub), spontaneous presence/self-perfection, describes an inhere
 "Spontaneous presence" sounds like attribute. Quality-language. Self-perfection implies possession. Analytical habits.
 
 **Primary consequence:**
-Lhun-grub becomes inherent quality. It's commonly thought that awareness "has" spontaneous presence as characteristic, making lhun grub into attribute of something else.
+Lhun-grub becomes inherent quality. Practitioners believe awareness "has" spontaneous presence as characteristic, making lhun grub into attribute of something else.
 
 **Secondary consequences:**
 - Attributing qualities to awareness
@@ -254,11 +254,11 @@ Lhun-grub becomes inherent quality. It's commonly thought that awareness "has" s
 - Missing that lhun-grub is unfindable quality
 
 **Cascade effects:**
-<lhun-grub-attribution> generates <ground-ignored>
+<lhun-grub-attribution> → <quality-fixation> (characteristic-grasping) → <inherent-property-view> (possession-belief) → <recognition-prevention-error> (attribute substitutes for empty nature).
 
 ---
 
-<thugs-rje-substantialization> <compassion-energy-reification>
+[4648-4665] <thugs-rje-substantialization> <compassion-energy-reification>
 
 **Misreading:**
 Thugs-rje (thugs rje), responsive compassion/emanation, refers to an active power or energy arising from ground—compassionate response as metaphysical force.
@@ -276,11 +276,11 @@ Thugs-rje becomes metaphysical energy. Practitioners view compassion as power fl
 - Missing that thugs-rje is empty display
 
 **Cascade effects:**
-<thugs-rje-substantialization> creates <energy-reification> (power-view) → <emanation-duality> (source-product) → <recognition-prevention-error> (force substitutes for empty display).
+<thugs-rje-substantialization> → <energy-reification> (power-view) → <emanation-duality> (source-product) → <recognition-prevention-error> (force substitutes for empty display).
 
 ---
 
-<essence-nature-separation> <ngo-bo-rang-bzhin-division>
+[4666-4683] <essence-nature-separation> <ngo-bo-rang-bzhin-division>
 
 **Misreading:**
 Essence (ngo bo), nature (rang bzhin), and compassion (thugs rje) are three distinct aspects of base to be understood separately—like three facets of a jewel.
@@ -302,7 +302,7 @@ Trinity becomes compartmentalized. Practitioners study essence, nature, compassi
 
 ---
 
-<direct-recognition-grasping> <ngo-sprod-goal-state>
+[4684-4701] <direct-recognition-grasping> <ngo-sprod-goal-state>
 
 **Misreading:**
 Direct recognition (ngo shes pa, ngo sprod) is a special state, experience, or attainment that practitioners work toward through practice and pointing-out.
@@ -320,11 +320,11 @@ Recognition becomes prize to win. Practitioners view direct recognition as peak 
 - Missing that ngo shes is not achievement
 
 **Cascade effects:**
-<direct-recognition-grasping> creates <awareness-overlooked>
+<direct-recognition-grasping> → <experience-goal> (target-state) → <present-rejection> (current-inadequate) → <recognition-prevention-error> (attainment substitutes for presence).
 
 ---
 
-<self-liberation-license> <rang-grol-permission>
+[4702-4719] <self-liberation-license> <rang-grol-permission>
 
 **Misreading:**
 Self-liberation (rang grol) means all phenomena liberate themselves automatically—no need to engage with thoughts, emotions, or actions since they self-liberate.
@@ -342,11 +342,11 @@ Self-liberation becomes license. Practitioners allow harmful patterns to continu
 - Missing that rang grol requires recognition
 
 **Cascade effects:**
-<self-liberation-license> leads to <bypassing-justification> (unchecked-patterns) → <ethical-dismissal> (morality-unnecessary) → <recognition-prevention-error> (license substitutes for liberation).
+<self-liberation-license> → <bypassing-justification> (unchecked-patterns) → <ethical-dismissal> (morality-unnecessary) → <recognition-prevention-error> (license substitutes for liberation).
 
 ---
 
-<vision-progress-comparison> <mtha'-drug-competition>
+[4720-4737] <vision-progress-comparison> <mtha'-drug-competition>
 
 **Misreading:**
 The six limits/visions (mtha' drug) of thogal are progressive stages to work through—successful practitioners advance through these, and failure indicates insufficient practice.
@@ -364,11 +364,11 @@ Thogal visions become competitive ladder. Practitioners create anxiety about "pr
 - Missing that visions are recognition's display
 
 **Cascade effects:**
-<vision-progress-comparison> leads to <competitive-measurement> (comparing-visions) → <expectation-creation> (waiting-for-stages) → <recognition-prevention-error> (achievement substitutes for presence).
+<vision-progress-comparison> → <competitive-measurement> (comparing-visions) → <expectation-creation> (waiting-for-stages) → <recognition-prevention-error> (achievement substitutes for presence).
 
 ---
 
-<pure-land-spatialization> <zhing-khams-place-fantasy>
+[4738-4755] <pure-land-spatialization> <zhing-khams-place-fantasy>
 
 **Misreading:**
 Pure lands (zhing khams)—Sukhāvatī, Abhirati, etc.—are actual destinations to reach through practice, visualization, and merit accumulation for favorable rebirth.
@@ -386,11 +386,11 @@ Pure land becomes geographical goal. Practitioners visualize pure lands as desti
 - Missing that zhing khams is rig pa's display
 
 **Cascade effects:**
-<pure-land-spatialization> generates <place-projection> (spatial-fantasy) → <rebirth-goal> (destination-striving) → <recognition-prevention-error> (there substitutes for here).
+<pure-land-spatialization> → <place-projection> (spatial-fantasy) → <rebirth-goal> (destination-striving) → <recognition-prevention-error> (there substitutes for here).
 
 ---
 
-<deity-yoga-transformation> <lha'i-rnal-'byor-becoming>
+[4756-4773] <deity-yoga-transformation> <lha'i-rnal-'byor-becoming>
 
 **Misreading:**
 Deity yoga (lha'i rnal 'byor) involves identifying with a deity through visualization, mantra, mudra—creating sense that "I become the deity" as practice achievement.
@@ -408,11 +408,11 @@ Deity yoga becomes identity-achievement. Practitioners work to "become" deity th
 - Missing that lha is rang snang
 
 **Cascade effects:**
-<deity-yoga-transformation> triggers <rigpa-unseen>
+<deity-yoga-transformation> → <identity-achievement> (becoming-practice) → <self-duality> (practitioner-deity) → <recognition-prevention-error> (transformation substitutes for nature).
 
 ---
 
-<ground-reification> <gzhi-thingification>
+[4774-4791] <ground-reification> <gzhi-thingification>
 
 **Misreading:**
 The ground (gzhi) is a thing, base, or foundation that exists as support for manifestation—a metaphysical substrate underlying all phenomena.
@@ -430,11 +430,11 @@ Ground becomes metaphysical thing. Practitioners search for "the ground" as unde
 - Missing that gzhi is unfindable as thing
 
 **Cascade effects:**
-<ground-reification> triggers <substrate-grasping> (foundation-belief) → <support-duality> (ground-supported) → <recognition-prevention-error> (thing substitutes for empty base).
+<ground-reification> → <substrate-grasping> (foundation-belief) → <support-duality> (ground-supported) → <recognition-prevention-error> (thing substitutes for empty base).
 
 ---
 
-<path-traversal> <lam-travel-concept>
+[4792-4809] <path-traversal> <lam-travel-concept>
 
 **Misreading:**
 The path (lam) is something to traverse, travel, or progress along—like a road from here to enlightenment requiring movement and effort.
@@ -443,7 +443,7 @@ The path (lam) is something to traverse, travel, or progress along—like a road
 "Path" suggests journey. Buddhist path-language. Developmental thinking. Effort seems necessary for progress.
 
 **Primary consequence:**
-Path becomes territory to cover. The error suggests that they must "traverse" path through practice, creating sense of distance between current state and goal.
+Path becomes territory to cover. Practitioners believe they must "traverse" path through practice, creating sense of distance between current state and goal.
 
 **Secondary consequences:**
 - Measuring "progress" on path
@@ -452,11 +452,11 @@ Path becomes territory to cover. The error suggests that they must "traverse" pa
 - Missing that lam is view, not territory
 
 **Cascade effects:**
-<path-traversal> generates <awareness-overlooked>
+<path-traversal> → <journey-illusion> (distance-creation) → <progress-measurement> (path-coverage) → <recognition-prevention-error> (travel substitutes for view).
 
 ---
 
-<result-attainment> <bras-bu-future-acquisition>
+[4810-4827] <result-attainment> <bras-bu-future-acquisition>
 
 **Misreading:**
 The result ('bras bu) is something to achieve, attain, or acquire in the future—like a prize waiting at the end of successful practice.
@@ -474,11 +474,11 @@ Result becomes future acquisition. Practitioners wait to "attain" result, believ
 - Missing that 'bras bu is already so
 
 **Cascade effects:**
-<result-attainment> produces <future-anticipation> (waiting-for-fruit) → <earning-illusion> (practice-deserves-result) → <recognition-prevention-error> (acquisition substitutes for presence).
+<result-attainment> → <future-anticipation> (waiting-for-fruit) → <earning-illusion> (practice-deserves-result) → <recognition-prevention-error> (acquisition substitutes for presence).
 
 ---
 
-<trekcho-thogal-hierarchy> <khregs-chod-thod-rgal-elitism>
+[4828-4845] <trekcho-thogal-hierarchy> <khregs-chod-thod-rgal-elitism>
 
 **Misreading:**
 Trekcho is beginner-level Dzogchen while thogal is advanced—practitioners should master cutting-through before attempting the higher leap-over practices with their visions.
@@ -487,7 +487,7 @@ Trekcho is beginner-level Dzogchen while thogal is advanced—practitioners shou
 Two-phase structure suggests hierarchy. "Leap-over" sounds advanced. Elitism around thogal secrecy. Comparison with others' practice levels.
 
 **Primary consequence:**
-Dzogchen becomes stratified system. The misunderstanding leads to thogal is "higher," creating spiritual materialism around vision-practices and looking down on "mere" trekcho.
+Dzogchen becomes stratified system. Practitioners believe thogal is "higher," creating spiritual materialism around vision-practices and looking down on "mere" trekcho.
 
 **Secondary consequences:**
 - Believing thogal practitioners are "advanced"
@@ -496,11 +496,11 @@ Dzogchen becomes stratified system. The misunderstanding leads to thogal is "hig
 - Missing that both are aspects of recognition
 
 **Cascade effects:**
-<trekcho-thogal-hierarchy> creates <rigpa-unseen>
+<trekcho-thogal-hierarchy> → <practice-elitism> (thogal-superiority) → <recognition-devaluation> (trekcho-dismissal) → <recognition-prevention-error> (hierarchy substitutes for unity).
 
 ---
 
-<spontaneous-presence-development> <lhun-grub-cultivation>
+[4846-4863] <spontaneous-presence-development> <lhun-grub-cultivation>
 
 **Misreading:**
 Spontaneous presence (lhun grub) is a quality to develop, increase, or enhance through practice—one should cultivate lhun-grub as attribute of growing realization.
@@ -522,7 +522,7 @@ Lhun-grub becomes cultivation goal. Practitioners attempt to "increase" spontane
 
 ---
 
-<primordial-purity-retrieval> <ka-dag-recovery-project>
+[4864-4881] <primordial-purity-retrieval> <ka-dag-recovery-project>
 
 **Misreading:**
 Primordial purity (ka dag) refers to original state before time that one can return to or recover through practice—"primordial" means "long ago," "purity" means uncontaminated.
@@ -540,11 +540,11 @@ Ka-dag becomes lost golden age. Practitioners view themselves as separated from 
 - Missing that ka-dag is timeless
 
 **Cascade effects:**
-<primordial-purity-retrieval> creates <temporal-dualism> (then-now) → <recovery-striving> (return-project) → <recognition-prevention-error> (past substitutes for present).
+<primordial-purity-retrieval> → <temporal-dualism> (then-now) → <recovery-striving> (return-project) → <recognition-prevention-error> (past substitutes for present).
 
 ---
 
-<compassion-quantification> <thugs-rje-measurement>
+[4882-4899] <compassion-quantification> <thugs-rje-measurement>
 
 **Misreading:**
 Compassion (thugs rje) is a measurable quality that increases with realization—one can have "more" or "less" compassion, and advanced practitioners have greater thugs-rje.

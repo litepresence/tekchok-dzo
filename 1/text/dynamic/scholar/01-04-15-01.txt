@@ -1,8 +1,8 @@
-<structure>
+[3721-3730] <structure>
 # The Four Expanses: Black, Variegated, White
-**Close reading:** This passage presents the four expanses (*klong bzhi*) classification within the Expanse Section (ཀློང་སྡེ་, *klong sde*). The structure follows: (1) Black Expanse (ཀློང་ནག་, *klong nag*)—three divisions: Activity (ལས་, *las*), Compassion (སྙམ་དུ་, *snyam du*), Emanation (སྤྲུལ་པ་, *sprul pa*); (2) Variegated Expanse (ཀློང་ཁྲ་བོ་, *klong khra bo*)—three positions: existence, non-existence, both; (3) White Expanse (ཀློང་དཀར་པོ་, *klong dkar po*)—action-vast and view-meditation. The enumeration marker *dang po* (first), *gnyis pa* (second), *gsum pa* (third) establishes the progressive presentation typical of tantric classification.
+**Analysis:** This passage presents the four expanses (*klong bzhi*) classification within the Expanse Section (ཀློང་སྡེ་, *klong sde*). The structure follows: (1) Black Expanse (ཀློང་ནག་, *klong nag*)—three divisions: Activity (ལས་, *las*), Compassion (སྙམ་དུ་, *snyam du*), Emanation (སྤྲུལ་པ་, *sprul pa*); (2) Variegated Expanse (ཀློང་ཁྲ་བོ་, *klong khra bo*)—three positions: existence, non-existence, both; (3) White Expanse (ཀློང་དཀར་པོ་, *klong dkar po*)—action-vast and view-meditation. The enumeration marker *dang po* (first), *gnyis pa* (second), *gsum pa* (third) establishes the progressive presentation typical of tantric classification.
 
-<linguistic-analysis>
+[3721-3730] <philology>
 **Particle Analysis:**
 - *dang po* (first): ordinal establishing enumeration position
 - *yin* (is): copular verb establishing identity
@@ -19,12 +19,13 @@
 - *rang bzhin* (nature): intrinsic characteristic
 - *lhan cig skyes pa* (co-emergent): simultaneous arising
 
-<concept>
+[3721-3730] <concept>
 Black Expanse: Activity and Compassion
-**Philological analysis:** Lines 3721-3730 present first two black expanse divisions:
+**Analysis:** Lines 3721-3730 present first two black expanse divisions:
 
 **Activity Expanse
 
+[3721-3724]
 :**
 - Various arising causelessly
 - Appearances without border (*ris med*)
@@ -35,6 +36,7 @@ Black Expanse: Activity and Compassion
 
 **Compassion Expanse
 
+[3725-3730]
 :**
 - Arising is wisdom, knowledge not depending on other
 - Liberation is mind, reversing in cause-conditions
@@ -43,21 +45,22 @@ Black Expanse: Activity and Compassion
 - Harmonious-appearance self-pure reasoning
 - Great Perfection liberated at appearance-place
 
-<concept>
+[3731-3740] <concept>
 Black Expanse: Emanation
-**Examination:** Lines 3731-3740 would continue with the third black expanse division (emanation), followed by the other three main expanse sections (variegated, white, vast).
+**Analysis:** Lines 3731-3740 would continue with the third black expanse division (emanation), followed by the other three main expanse sections (variegated, white, vast).
 
 **Emanation Expanse:**
 - Emanations of wisdom display
 - Not established as samsaric existence
 - Self-arisen, self-liberated
 
-<concept>
+[3731-3735] <concept>
 Emanation Expanse: Beyond Existence-Non-existence
-**Consideration:** Lines 3731-3735 complete the third Black Expanse division (emanation):
+**Analysis:** Lines 3731-3735 complete the third Black Expanse division (emanation):
 
 **Core View
 
+[3731-3734]
 :**
 - Free from existence-non-existence aspect assignment (*yin min phyogs gtad dang bral*)
 - Nature without dependent reference (*rang bzhin gyi ltos pa med*)
@@ -71,12 +74,13 @@ Emanation Expanse: Beyond Existence-Non-existence
 - Called: Reasoning reversing in confused mind
 - Imputed self-liberated in own place
 
-<concept>
+[3736-3749] <concept>
 Variegated Expanse: Three Subdivisions
-**Investigation:** Lines 3736-3749 introduce the Variegated (*khra bo*) Expanse:
+**Analysis:** Lines 3736-3749 introduce the Variegated (*khra bo*) Expanse:
 
 **Essence
 
+[3736-3739]
 :**
 - Variegated existence (*yin sna tshogs*)
 - Non-existence aspectless, universally self-arisen
@@ -84,6 +88,7 @@ Variegated Expanse: Three Subdivisions
 
 **Three Divisions
 
+[3740-3743]
 :**
 1. *yod par smra ba sems sde dang mthun pa* — Asserting existence, agreeing with Mind Section
 2. *med par smra ba rang gnad dang mthun pa* — Asserting non-existence, agreeing with own crucial point
@@ -91,13 +96,14 @@ Variegated Expanse: Three Subdivisions
 
 **First: Existence-Asserting
 
-<historical-context>
+[3741-3750] <context>
 Expanse Section: Scriptural Corpus
-**Philological Analysis:** Lines 3741-3750 would enumerate the scriptures of the Expanse Section:
+**Analysis:** Lines 3741-3750 would enumerate the scriptures of the Expanse Section:
 - Various tantras and instructions
 - Classified by the four main divisions
 - Extensive literature comparable to Mind Section
 
+[3744-3749]
 :**
 - Essence: Self-pure abiding-liberation, nowhere divided
 - Nature not established as negation-affirmation
@@ -107,12 +113,13 @@ Expanse Section: Scriptural Corpus
 - Unceasing play
 - Called: Appearance-mind non-dually liberated
 
-<concept>
+[3750-3761] <concept>
 Second and Third Variegated Divisions
-**Close Reading:** Lines 3750-3761 present the remaining subdivisions:
+**Analysis:** Lines 3750-3761 present the remaining subdivisions:
 
 **Second: Non-Existence-Asserting
 
+[3750-3753]
 :**
 - Essence: Seeing-appearance self-liberated in own place
 - Mind-dharmatā variously arising
@@ -122,9 +129,9 @@ Second and Third Variegated Divisions
 
 **Third: Existence-Non-Existence
 
-<concept>
+[3751-3760] <concept>
 Instruction Section: Quintessential Atiyoga
-**Consideration:** Lines 3751-3760 would introduce the Instruction Section (*man ngag sde*), the pinnacle of Atiyoga:
+**Analysis:** Lines 3751-3760 would introduce the Instruction Section (*man ngag sde*), the pinnacle of Atiyoga:
 
 **Characteristics:**
 - Beyond mind and expanse
@@ -132,6 +139,7 @@ Instruction Section: Quintessential Atiyoga
 - Thodgal and trekchö practices
 - Most direct path to realization
 
+[3754-3761]
 :**
 - Essence: Empty primordially pure
 - Not depending on action cause-result
@@ -146,7 +154,7 @@ Instruction Section: Quintessential Atiyoga
 - Mind without change
 - Samsara-nirvana's aspect arises
 
-<philology>
+[3761-3765] <philology>
 **Particle Analysis:**
 - *khyung chen* (great garuda): mythical bird symbolizing swift realization
 - *bi ma snying thig* (Vima Nyingthig): "Vima's Heart Essence"—the crucial instruction
@@ -161,16 +169,16 @@ Instruction Section: Quintessential Atiyoga
 - *thod rgal* (direct transcendence): leap-over practice
 - *trekchö* (cutting through): severing confusion
 
-<context>
+[3761-3765] <context>
 Three Traditions of Instruction Section
-**Historical Context:** Lines 3761-3770 would present:
+**Analysis:** Lines 3761-3770 would present:
 - *khyung chen* — Great Garuda tradition
 - *bi ma snying thig* — Vima Nyingthig
 - *mkha' 'gro snying thig* — Dakini Nyingthig
 
-<concept>
+[3762-3763] <concept>
 White Expanse Introduction
-**Consideration:** Lines 3762-3763 introduce the White Expanse (*klong dkar po*):
+**Analysis:** Lines 3762-3763 introduce the White Expanse (*klong dkar po*):
 
 **Essence:**
 - Appearance-conditions self-liberated
@@ -181,9 +189,9 @@ White Expanse Introduction
 - Action-vast inexpressibly explained
 - View-meditation joined White Expanse
 
-<concept>
+[3764-3765] <concept>
 White Expanse: Action-Vast
-**Philological Analysis:** Lines 3764-3768 present the first White Expanse division:
+**Analysis:** Lines 3764-3768 present the first White Expanse division:
 
 **Characterization:**
 - *las rgya che ba brjod med du bshad pa'i klong dkar po* — White Expanse of vast action explained inexpressibly

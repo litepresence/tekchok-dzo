@@ -30,7 +30,7 @@ missing that all vehicles lead to same realization.
 <vehicle-selection-confusion>
 **Misreading:**
 The nine yanas as different entry points are interpreted as requiring the 
-practitioner to choose and commit to ONE correct vehicle not allowing 
+practitioner to choose and commit to ONE correct vehicle rather than allowing 
 natural progression.
 
 **Why it arises:**
@@ -174,7 +174,7 @@ Foundation-neglect. The practitioner attempts advanced Dzogchen practices
 without preliminary practices (*sngon 'gro*), ethics, or concentration training.
 
 **Secondary consequences:**
-Confusion; unstable practice; "already enlightened" 
+Confusion rather than recognition; unstable practice; "already enlightened" 
 complacency masking lack of basic stability.
 
 **Tibetan terms:** *a ti yo ga*, *rdzogs pa chen po*, *sngon 'gro*, *rtogs pa*
@@ -280,7 +280,7 @@ Vajrayana-elitism. The practitioner believes Secret Mantra makes them superior
 to sutra practitioners, whom they view as "mere scholars."
 
 **Secondary consequences:**
-Hiding practice for status but not appropriate caution; dismissing 
+Hiding practice for status rather than appropriate caution; dismissing 
 profound sutra teachings; possession without understanding.
 
 **Tibetan terms:** *gsang sngags*, *gsang ba*, *phyi rgyud*, *nang rgyud*, *gsang ba'i rgyud*
@@ -357,7 +357,7 @@ framed reality.
 
 <vehicle-identity-formation>
 **Misreading:**
-The vehicle one practices becomes a central identity marker 
+The vehicle one practices becomes a central identity marker rather than a 
 skillful means for realization.
 
 **Why it arises:**
@@ -400,7 +400,7 @@ commitment overload.
 <textual-hierarchy>
 **Misreading:**
 The root tantras (*rtsa ba'i rgyud*) and explanatory tantras (*bshad rgyud*) 
-from different yanas are ranked by superiority rather than than function.
+from different yanas are ranked by superiority rather than function.
 
 **Why it arises:**
 Text-elitism. "Root" as supreme. Possession as proxy for practice.
@@ -421,7 +421,7 @@ masking realization equality.
 <teacher-vehicle-assessment>
 **Misreading:**
 The primary criterion for evaluating teachers becomes "Which yana do they 
-teach?" rather than than their realization or ability to help the student.
+teach?" rather than their realization or ability to help the student.
 
 **Why it arises:**
 External validation seeking. Vehicle as teacher quality proxy. Status by 
@@ -684,10 +684,10 @@ complacency preventing actual awakening.
 ;; Total error blocks: 30
 ;; Target coverage: Nine yanas, three kayas, vehicle hierarchy confusion
 ;; Tibetan terms: theg pa, theg pa dgu, rdzogs pa chen po, ma ha yo ga,
-;; a nu yo ga, a ti yo ga, sku gsum, gsang sngags, dbang, dam tshig,
-;; zhing khams, brgyud pa, rtsa ba'i rgyud, sngon 'gro, tshul khrims,
-;; bsam gtan, rtsa, rlung, thig le, bskyed rim, rdzogs rim, cog bzhag,
-;; dbang po, 'bras bu, lung, man ngag, rgyud sde, dkyil 'khor, yi dam,
-;; chos sku, longs sku, sprul sku, phyi rgyud, nang rgyud, gsang ba'i rgyud,
-;; rgyu 'bras, las 'bras, rang byung, rang shar, lhun grub, 'bad med
+;;   a nu yo ga, a ti yo ga, sku gsum, gsang sngags, dbang, dam tshig,
+;;   zhing khams, brgyud pa, rtsa ba'i rgyud, sngon 'gro, tshul khrims,
+;;   bsam gtan, rtsa, rlung, thig le, bskyed rim, rdzogs rim, cog bzhag,
+;;   dbang po, 'bras bu, lung, man ngag, rgyud sde, dkyil 'khor, yi dam,
+;;   chos sku, longs sku, sprul sku, phyi rgyud, nang rgyud, gsang ba'i rgyud,
+;;   rgyu 'bras, las 'bras, rang byung, rang shar, lhun grub, 'bad med
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

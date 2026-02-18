@@ -1,7 +1,7 @@
-<architectural-analysis>
+[175-191] <structure>
 # Saṃbhogakāya Activities: The Thirty-Sixfold Enumeration
 
-**Close reading:** This section transitions from Dharmakāya to Saṃbhogakāya exposition through a systematic thirty-sixfold classification of Buddha activities (*'phrin las*). The architecture follows a 3×3×4 matrix:
+**Analysis:** This section transitions from Dharmakāya to Saṃbhogakāya exposition through a systematic thirty-sixfold classification of Buddha activities (*'phrin las*). The architecture follows a 3×3×4 matrix:
 
 - **Three doors:** Body (*sku*), Speech (*gsung*), Mind (*thugs*)
 - **Three levels:** Outer (*phyi*), Inner (*nang*), Secret (*gsang ba*)
@@ -15,10 +15,10 @@ This enumeration (lines 175-191) serves as the bridge between absolute Dharmakā
 
 ---
 
-<grammatical-examination>
+[175-176] <philology>
 # Technical Terms: *Sbyor ba* and *Longs spyod*
 
-**Philological analysis:** The passage employs two critical technical terms:
+**Analysis:** The passage employs two critical technical terms:
 
 1. **Sbyor ba** (*sbyor ba*) — "preparation" or "engagement":
    - *Thugs kyi sbyor ba* (mind-preparation): Mental cultivation that purifies (*dag pas*) cognitive obscurations
@@ -34,10 +34,10 @@ The construction *ye shes la longs spyod par mdzad* (lines 175-176) employs the 
 
 ---
 
-<doxographical-placement>
+[175-191] <context>
 # Five Wisdoms and Five Families Correspondence
 
-**Examination:** The thirty-six activities embed the five wisdoms (*ye shes lnga*) system:
+**Analysis:** The thirty-six activities embed the five wisdoms (*ye shes lnga*) system:
 
 **Outer Mind Activities (177-181):**
 - *Mngon par 'du mi byed pa'i ting nge 'dzin* → Dharmadhātu wisdom (non-conceptual)
@@ -61,10 +61,10 @@ These correspondences demonstrate the *Guhyagarbha Tantra*'s influence on Longch
 
 ---
 
-<concept>
+[175-191] <concept>
 # The Three-Level Activity Schema
 
-**Consideration:** The thirty-six activities operate through progressive subtlety:
+**Analysis:** The thirty-six activities operate through progressive subtlety:
 
 **Outer Level (*phyi*):**
 Addresses conventional practitioners through perceptible demonstrations:
@@ -88,10 +88,10 @@ This tri-level schema reflects Nyingma hermeneutics: outer for those with faith,
 
 ---
 
-<structural-mapping>
+[192-229] <structure>
 # Nirmāṇakāya Emanation: The Three Great Manifestations
 
-**Investigation:** This section introduces the Nirmāṇakāya emanation doctrine through the *sprul pa chen po gsum* (three great emanations):
+**Analysis:** This section introduces the Nirmāṇakāya emanation doctrine through the *sprul pa chen po gsum* (three great emanations):
 
 1. **Mind-Emanation** (*thugs kyi sprul pa*, lines 196-204):
    - Vajra of Amitāyus (*rdo rje tshe lo dpag med*)
@@ -116,10 +116,10 @@ This tri-level schema reflects Nyingma hermeneutics: outer for those with faith,
 
 ---
 
-<linguistic-analysis>
+[192-229] <philology>
 # Emanation Terminology: *Byin rlabs* and *Rang shar*
 
-**Close reading:** The passage employs critical Dzogchen technical terms:
+**Analysis:** The passage employs critical Dzogchen technical terms:
 
 1. **Byin rlabs** (*byin gyis brlabs pa*) — "blessing" or "transformation":
    - Instrumental *gyis* (by *byin*) + perfect verb *brlabs*
@@ -145,10 +145,10 @@ This tri-level schema reflects Nyingma hermeneutics: outer for those with faith,
 
 ---
 
-<historical-context>
+[192-229] <context>
 # Temporal Schema: The Five-Five-Hundred Calculation
 
-**Philological analysis:** Lines 211-216 present the *lnga brgya lnga stong* (five-five-hundred) temporal framework:
+**Analysis:** Lines 211-216 present the *lnga brgya lnga stong* (five-five-hundred) temporal framework:
 
 **Duration Calculation:**
 - Body-emanation teaching: 500 × 3 = 1,500 years (line 211-212: *lnga brgya lnga stong phrag gsum*)
@@ -162,10 +162,10 @@ The text explicitly states these are NOT literal chronological durations (*dus m
 
 ---
 
-<concept>
+[192-229] <concept>
 # The Three-Support Emanation System
 
-**Examination:** The three emanations correspond to three supports (*rten gsum*):
+**Analysis:** The three emanations correspond to three supports (*rten gsum*):
 
 **Mind-Support (*thugs kyi rten*) — Vajra:**
 - Location: Uḍḍiyāna, salt-water island (line 219)
@@ -186,10 +186,10 @@ This tri-support system demonstrates the interdependence of enlightened body, sp
 
 ---
 
-<structure>
+[230-257] <structure>
 # Transition to the Twelve Emanations
 
-**Consideration:** Lines 230-257 function as a bridge passage that:
+**Analysis:** Lines 230-257 function as a bridge passage that:
 1. Concludes the three-great-emanations exposition (230-236)
 2. Introduces the twelve-emanation doctrine (237-257)
 
@@ -205,10 +205,10 @@ The standard Nyingma enumeration formula appears:
 
 ---
 
-<philology>
+[230-257] <philology>
 # The Particle *Nas* and Ablative Constructions
 
-**Investigation:** The passage employs multiple ablative (*nas*) constructions indicating source or origin:
+**Analysis:** The passage employs multiple ablative (*nas*) constructions indicating source or origin:
 
 1. **Temporal ablative (line 230):**
    - *De nas* (from that [time]) — sequential marker
@@ -232,10 +232,10 @@ The standard Nyingma enumeration formula appears:
 
 ---
 
-<context>
+[230-257] <context>
 # The Five Perfections (*Phun sum tshogs pa lnga*)
 
-**Technical Examination:** The twelve emanations embody five perfections repeated twelve times:
+**Analysis:** The twelve emanations embody five perfections repeated twelve times:
 
 **The Five Perfections Schema:**
 1. **Teacher perfection** (*ston pa phun sum tshogs pa*)
@@ -259,10 +259,10 @@ Longchenpa's schema adapts this to the Nirmāṇakāya context, showing that eve
 
 ---
 
-<concept>
+[230-257] <concept>
 # Emanation as Pedagogical Display
 
-**Examination:** The twelve emanations are not ontological realities but *snang ba* (appearances/display):
+**Analysis:** The twelve emanations are not ontological realities but *snang ba* (appearances/display):
 
 **Ontological Status:**
 - *Longs sku las sprul pa'i skur...byon* (line 237): "from Saṃbhogakāya came as emanation body"
@@ -279,14 +279,14 @@ All emanations serve *'dul bya* (trainees) through:
 - *Smin pa* (ripening)
 - *Grol ba* (liberating)
 
-This demonstrates the *Sādharmapuṇḍarīka* doctrine: Buddhas appear according to the needs of beings, not as substantial entities.
+This reflects the *Sādharmapuṇḍarīka* doctrine: Buddhas appear according to the needs of beings, not as substantial entities.
 
 ---
 
-<structure>
+[258-365] <structure>
 # The Thirty-Six Activities Detailed Enumeration
 
-**Architectural Analysis:** Lines 258-365 systematically enumerate the thirty-six activities across three doors (body, speech, mind) and three levels (outer, inner, secret), with four activities each.
+**Analysis:** Lines 258-365 systematically enumerate the thirty-six activities across three doors (body, speech, mind) and three levels (outer, inner, secret), with four activities each.
 
 **Enumeration Structure:**
 
@@ -310,10 +310,10 @@ The thirty-six activities combined with the 108 activities of the three kāyas c
 
 ---
 
-<philology>
+[258-365] <philology>
 # Activity Terminology: *Mdad pa* and *'Phrin las*
 
-**Examination:** The enumeration employs specific terminology for Buddha activities:
+**Analysis:** The enumeration employs specific terminology for Buddha activities:
 
 1. **Mdzad pa** (*mdzad pa*) — "activity/deed":
    - Honorific verb for enlightened action
@@ -340,10 +340,10 @@ The thirty-six activities combined with the 108 activities of the three kāyas c
 
 ---
 
-<context>
+[258-365] <context>
 # Source Text: *Rig pa rang shar chen po'i rgyud*
 
-**Arrangement:** The thirty-six activities derive from the *Rig pa rang shar chen po'i rgyud* (Great Tantra of Self-Arisen Awareness), a central Nyingma tantra of the *sGyu 'phrul drva ba* (Māyājāla) cycle.
+**Analysis:** The thirty-six activities derive from the *Rig pa rang shar chen po'i rgyud* (Great Tantra of Self-Arisen Awareness), a central Nyingma tantra of the *sGyu 'phrul drva ba* (Māyājāla) cycle.
 
 **Citation Structure:**
 Line 511 explicitly cites the source: *Rig pa rang shar chen po'i rgyud las* (from the Great Tantra of Self-Arisen Awareness).
@@ -358,10 +358,10 @@ The Māyājāla cycle presents the "like-an-illusion" (*sgyu ma lta bu*) view: a
 
 ---
 
-<concept>
+[258-365] <concept>
 # The Activity Matrix: Philosophical Analysis
 
-**Close Reading:** The 3×3×4 activity matrix encodes key Dzogchen principles:
+**Analysis:** The 3×3×4 activity matrix encodes key Dzogchen principles:
 
 **Progressive Subtlety Principle:**
 - Outer (*phyi*) → conventional appearance
@@ -387,10 +387,10 @@ The thirty-six activities (*sum cu rtsa drug*) combined with previous enumeratio
 
 ---
 
-<structure>
+[366-403] <structure>
 # First Four Emanations of the Twelve
 
-**Consideration:** Lines 366-403 present the first four emanations of the twelvefold system, each following a standardized formula:
+**Analysis:** Lines 366-403 present the first four emanations of the twelvefold system, each following a standardized formula:
 
 **Enumeration Template:**
 1. **Ordinal marker** (*dang po*, *gnyis pa*, etc.)
@@ -432,10 +432,10 @@ The thirty-six activities (*sum cu rtsa drug*) combined with previous enumeratio
 
 ---
 
-<philology>
+[366-403] <philology>
 # Emanation Names and Epithets
 
-**Philological Analysis:** The emanation names encode specific aspects of the path:
+**Analysis:** The emanation names encode specific aspects of the path:
 
 **First Emanation Names:**
 - *Khye'u snang ba dam pa* — "Youth Illumination Supreme"
@@ -469,10 +469,10 @@ The thirty-six activities (*sum cu rtsa drug*) combined with previous enumeratio
 
 ---
 
-<context>
+[366-403] <context>
 # Scriptural Citations: The *Ati bkod pa chen po*
 
-**Investigation:** Lines 498-510 quote from the *Ati bkod pa chen po* (Great Ati Arrangement), another key Nyingma tantra.
+**Analysis:** Lines 498-510 quote from the *Ati bkod pa chen po* (Great Ati Arrangement), another key Nyingma tantra.
 
 **Verses Quoted (499-508):**
 ```
@@ -503,10 +503,10 @@ The *g.yu yig can* (Turquoise Letter) refers to the *Rig pa rang shar* tantra's 
 
 ---
 
-<concept>
+[366-403] <concept>
 # The Fivefold Perfection Hermeneutic
 
-**Close Reading:** Each emanation demonstrates the *phun sum tshogs pa lnga* (five perfections) schema:
+**Analysis:** Each emanation demonstrates the *phun sum tshogs pa lnga* (five perfections) schema:
 
 **Location Perfection:**
 Each location (*gnas*) is described as:
@@ -549,10 +549,10 @@ Each perfection can be read on all four levels simultaneously.
 
 ---
 
-<structure>
+[366-403] <structure>
 # Transition to the Next Section
 
-**Close Reading:** Lines 573-577 conclude the section and transition to the next major topic:
+**Analysis:** Lines 573-577 conclude the section and transition to the next major topic:
 
 **Closing Formula (lines 573-574):**
 - *De dag gis ston pa dang bstan pa'i babs lugs legs par bshad pa'o*
@@ -576,10 +576,10 @@ This marks the end of the first *rim khang* (major division) on the teacher's em
 
 ---
 
-<philology>
+[366-403] <philology>
 # Textual Architecture Terms
 
-**Doxographical Placement:** The closing employs specific textual architecture terminology:
+**Analysis:** The closing employs specific textual architecture terminology:
 
 1. **Babs lugs** (*babs lugs*) — "manner of arising/occurrence":
    - *Babs* (descended/arisen) + *lugs* (manner/system)
@@ -611,10 +611,10 @@ The *mdzod* (treasury) genre follows specific structural conventions:
 
 ---
 
-<context>
+[366-403] <context>
 # Nyingma vs Sarma Emanation Doctrines
 
-**Investigation:** The twelve-emanation system represents distinctively Nyingma doxography:
+**Analysis:** The twelve-emanation system represents distinctively Nyingma doxography:
 
 **Nyingma Twelve Emanations:**
 1. Tuṣita — Thalgyur Tantra
@@ -640,10 +640,10 @@ Line 569 explicitly states: *ngo bo rdo rje 'chang 'di kho na'i rang bzhin du gc
 
 ---
 
-<concept>
+[366-403] <concept>
 # The Single Buddha-Multiple Emanations Paradox
 
-**Investigation:** The twelve-emanation doctrine presents a philosophical paradox resolved through Dzogchen principles:
+**Analysis:** The twelve-emanation doctrine presents a philosophical paradox resolved through Dzogchen principles:
 
 **The Paradox:**
 - If all twelve emanations are one Buddha (Vajradhara), why multiple appearances?

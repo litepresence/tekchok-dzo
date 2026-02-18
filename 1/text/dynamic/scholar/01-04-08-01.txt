@@ -1,6 +1,6 @@
-<doxographical-placement>
+[2989-2999] <context>
 Mind-Only School Introduction
-**Examination:**
+**Analysis:**
 
 Longchenpa transitions to the Cittamatra (*sems tsam pa*) presentation:
 
@@ -31,9 +31,9 @@ Response: "It does not become. It does not change. That aspect consciousness is 
 
 Appearing in four apertures, entering and looking — illustrating how consciousness moves among objects while remaining single.
 
-<grammatical-examination>
+[2989-2993] <philology>
 Three Subschools of True Aspectarian Cittamātra
-**Close reading:** The text presents three subschools (*dbye na*):
+**Analysis:** The text presents three subschools (*dbye na*):
 
 1. **Equal number thesis** (*rnam pa'i grangs de nyid la shes pa'i grangs kyang de snyed du 'dod pa*) [2992]: The number of aspects equals the number of consciousnesses
 
@@ -43,16 +43,17 @@ Three Subschools of True Aspectarian Cittamātra
 
 The first position
 
+[2995-2998]
 argues that just as when hearing a sound, only sound-consciousness arises (not form-consciousness, etc.), so each object produces only its corresponding consciousness. This establishes a 1:1 correspondence between objects and consciousnesses.
 
-[2999] <structural-mapping> Transition to False Aspectarian View
-**Examination:** Line 2993 introduces the second major Cittamātra subdivision with *gnyis pa* (the second). This structural marker indicates the shift from True Aspectarian to False Aspectarian positions.
+[2999] <structure> Transition to False Aspectarian View
+**Analysis:** Line 2993 introduces the second major Cittamātra subdivision with *gnyis pa* (the second). This structural marker indicates the shift from True Aspectarian to False Aspectarian positions.
 
 The key phrase *phyi rol sna tshogs su snang ba'ang shes pa las byung* (outer various appearances also arise from consciousness) establishes the shared foundation: both subschools deny external reality, differing only on whether consciousness-aspects are truly or falsely established.
 
-<concept>
+[3000-3016] <concept>
 Cittamatra Non-Dual Wisdom
-**Philological Analysis:**
+**Analysis:**
 
 **Holding Consciousness:**
 
@@ -96,7 +97,7 @@ Objects appear as various white and red aspects, like reflections.
 
 Both measurer and measured non-existent, yet appearing.
 
-<structure>
+[3000-3016] <structure>
 This section continues the exposition of False Aspectarian (rnam rdzun pa) Cittamātra from the True Aspectarian (rnam bden pa) discussion on previous pages. The structure follows a threefold analytical framework:
 
 1. **Lines 2994-3001**: Analysis of the nature of perception through the egg-split simile (sgo nga bkas pa), addressing the apparent duality of perceived aspect (rnam pa) and perceiving consciousness (shes pa)
@@ -110,10 +111,10 @@ This section continues the exposition of False Aspectarian (rnam rdzun pa) Citta
 The section concludes with the assertion that ultimately nothing is established as consciousness (rnam shes su grub pa ni ci yang med), pointing to the dharmakāya.
 
 ================================================================================
-<linguistic-analysis> Grammatical Analysis and Word Definitions
+<philology> Grammatical Analysis and Word Definitions
 ================================================================================
 
-[3000] <grammatical-examination> **de 'dzin pa'i shes pa'ang sems las byung bas** — "The consciousness that apprehends that also arises from mind"
+[3000] <philology> **de 'dzin pa'i shes pa'ang sems las byung bas** — "The consciousness that apprehends that also arises from mind"
 - **de 'dzin pa**: Apprehending that (object)
 - **shes pa**: Consciousness (cognitive function)
 - **sems las byung ba**: Arisen from mind (cittānvaya)
@@ -124,10 +125,10 @@ The section concludes with the assertion that ultimately nothing is established 
 - **bkas pa**: Split, cracked open (past tense of 'gebs)
 - This simile illustrates how from one source (the egg/mind), two apparent aspects emerge (the shell halves / perceiver and perceived)
 
-<historical-context>
+[3000-3016] <context>
 **Cittamātra School Background**: This section represents the classical Yogācāra philosophical position as developed by Vasubandhu (dbyig gnyen), Dharmapāla (chos skyong), and Sthiramati (blo brtan). The False Aspectarian (rnam rdzun pa = sa-sākāra-vijñāna-vādin) position holds that both the perceived aspect (nimitta) and perceiving consciousness are false/provisionally real.
 
-[3001] <doxographical-placement> **The Egg Simile**: This is a traditional Yogācāra metaphor found in Vasubandhu's commentarial tradition. Just as a chick emerges when an egg splits, and the two halves appear distinct but came from one source, so too do perceiver and perceived arise from the single mind. This simile appears in texts like the *Triṃśikā* commentaries.
+[3001] <context> **The Egg Simile**: This is a traditional Yogācāra metaphor found in Vasubandhu's commentarial tradition. Just as a chick emerges when an egg splits, and the two halves appear distinct but came from one source, so too do perceiver and perceived arise from the single mind. This simile appears in texts like the *Triṃśikā* commentaries.
 
 [3003] <context> **Beginningless Latent Tendencies (thog ma med pa'i bag chags)**: This refers to the ālaya-vijñāna (kun gzhi rnam par shes pa) and its latent tendencies that cause the dualistic appearance of subject and object. The concept originates in the *Saṃdhinirmocana Sūtra* (dgongs pa nges par 'grel pa'i mdo) and is extensively developed in the Yogācārabhūmi.
 
@@ -135,29 +136,29 @@ The section concludes with the assertion that ultimately nothing is established 
 
 [3014] <context> **Dream Analogy (rmi lam gyi snang ba)**: The comparison to dream consciousness is fundamental to Yogācāra epistemology. In dreams, the dream appearance and the dream consciousness are not different in nature (gnyid gcig gi shes par tha mi dad pa). This appears in the *Vijñaptimātratāsiddhi* and is cited by Dharmakīrti.
 
-<concept>
+[3000-3004] <concept>
 **The Apparent Duality of Perception**: The text addresses a fundamental epistemological problem: when we perceive an object, there appears to be a duality between the perceiver (subject) and the perceived (object). The Cittamātra analysis reveals this duality is illusory. When you look at a mountain (yul), where exactly is the boundary between the seeing and the seen? Can you find a point where "seeing" ends and "the mountain" begins? The Yogācārins argue that both arise simultaneously from the same mind-stuff, like two halves of a split egg.
 
 **Key Insight**: The apparent duality is not in the reality itself but in the mode of appearance (snang tshul), caused by beginningless habitual tendencies that project a subject-object structure onto what is actually a single continuum of awareness.
 
-<philology>
+[3002-3004] <philology>
 **yul 'dzin pa na phyi rnam pa'i shes pa gcig la nang 'dzin byed kyi shes pa gcig shar ba yang / thog ma med pa'i bag chags kyis de ltar gnyis su snang yang / rang rig pa gcig pu las gzhan du grub pa med pas**
 - **thog ma med pa'i bag chags**: Beginningless latent tendencies (ādi-anavasthā-vāsanā)
 - **rang rig pa gcig pu**: Only self-cognizing awareness (svasaṃvedana)
 - **gzhan du grub pa med**: Not established as other (na para-siddha)
 - Grammatical construction uses **yang** (although) to set up the apparent paradox: although appearing as two due to beginningless habits, only one self-awareness exists
 
-<concept>
+[3005-3007] <concept>
 **Objection and Response**: An objector asks: If both outer-perceived-aspect consciousness and inner-apprehending consciousness arise simultaneously from one mind, doesn't this create two conceptual cognitions (rtog gnyis cig car 'gyur)? 
 
 The response is subtle: The aspect-consciousness (rnam pa'i shes pa) is non-conceptual (rtog med). Therefore, there is no conflict. This preserves the single-stream-of-consciousness model while accounting for the apparent duality in perception.
 
-<concept>
+[3008-3014] <concept>
 **The Unity of Consciousness Across Senses**: The monkey-fortress simile illustrates a profound point: your consciousness is not fragmented into five separate consciousnesses (eye-consciousness, ear-consciousness, etc.). Rather, one consciousness operates through five sense doors. The monkey doesn't become five monkeys when it looks through four windows—it's still the same monkey. Similarly, when you simultaneously see, hear, and feel, it's one awareness manifesting in multiple modes.
 
 **The Dream Analogy**: Just as in a dream, both the dream appearance (horse, mountain, person) and the dream consciousness appear distinct, yet both are equally the nature of the sleep-consciousness (gnyid shes), so in waking life, perceiver and perceived are equally the nature of one mind.
 
-<philology>
+[3010-3012] <philology>
 **mkhar gyi nang na spre'u cig 'jug pa myur bas / glo skar bzhir ske rib rib byung nas blta blta ba ltar / sgo lnga la shes pa gcig gis zhugs nas yul rig pa'o**
 - **mkhar**: Fortress, castle
 - **spre'u**: Monkey
@@ -166,12 +167,12 @@ The response is subtle: The aspect-consciousness (rnam pa'i shes pa) is non-conc
 - **sgo lnga**: Five doors (pañca-dvāra, five sense faculties)
 - The grammatical structure **ltar** (like, as) introduces the simile
 
-<concept>
+[3015-3016] <concept>
 **False Appearance (rnam rdzun pa) Explained**: The False Aspectarian holds that the external object aspect (phyi don yi rnam pa) that appears to consciousness is a mistaken appearance caused by false latent tendencies ('khrul par snang ba'i bag chags rdzun pa ba). However, this does not mean there is no valid cognition. The experiencing itself (myong ba) is conventionally valid; what is false is the imputation of an external, truly established object.
 
 **Critical Distinction**: This is not nihilism. The Cittamātra is not saying "nothing exists." It's saying: appearances exist but not as they appear to. The appearance of externality is false; the appearance itself (as mental content) is provisionally real.
 
-<philology>
+[3016-3016] <philology>
 **'khrul par snang ba'i bag chags rdzun pa ba**
 - **'khrul par snang ba**: Mistaken appearance (bhrānti-pratibhāsa)
 - **rdzun pa ba**: False/provisionally real (tathya-asatya)
@@ -187,7 +188,7 @@ The response is subtle: The aspect-consciousness (rnam pa'i shes pa) is non-conc
 <context> Citations, History, and Doxography
 ================================================================================
 
-<context>
+[2989-2989] <context>
 **Division of False Aspectarians**: 
 - **dri bcas rdzun pa ba** (Sanskrit: *sā-kaḍuṣṭa-sākāra-vijñāna-vādin*): Those who hold that the appearance aspect is tainted by mental defilements. Associated with some followers of Dharmapāla.
 - **dri med dag pa ba** (Sanskrit: *nir-kaḍuṣṭa-sākāra-vijñāna-vādin*): Those who hold that the appearance is pure, like a reflection (gzugs brnyan).

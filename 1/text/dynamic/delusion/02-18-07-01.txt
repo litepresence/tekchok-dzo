@@ -1,4 +1,4 @@
-<appearance-suppression> <snang-ba-mi-'dod-force>
+[4747-4751] <appearance-suppression> <snang-ba-mi-'dod-force>
 
 **Misreading:**
 "Not wanting appearances to arise" (*snang ba 'char du mi 'dod*) interpreted as actively suppressing visions through effort, creating blank-mind fixation.
@@ -11,15 +11,15 @@ Appearance-suppression: forceful non-seeing. Natural clarity is replaced by blan
 
 **Secondary consequences:**
 - Dullness mistaken for meditation
-- Unrecognized: that not-wanting is non-grasping, not suppression
+- Missing that not-wanting is non-grasping, not suppression
 - Rejection of natural display
 
 **Cascade effects:**
-<appearance-suppression> leads to <blank-mind-fixation> [forceful non-seeing] → <dullness-practice> [dull as meditation] produces <natural-clarity-miss> [suppression vs openness]
+<appearance-suppression> → <blank-mind-fixation> [forceful non-seeing] → <dullness-practice> [dull as meditation] → <natural-clarity-miss> [suppression vs openness]
 
 ---
 
-<coarse-appearance-attachment> <rag-po-snang-ba-clinging>
+[4747-4751] <coarse-appearance-attachment> <rag-po-snang-ba-clinging>
 
 **Misreading:**
 The instruction that when appearances arise they should not be coarse (*rag po*) interpreted as requiring "subtle" visions, creating preference for less-manifest displays.
@@ -32,15 +32,15 @@ Subtlety-preference: rejecting vivid displays. Natural appearance is obscured by
 
 **Secondary consequences:**
 - "My visions are too coarse" anxiety
-- What's missed: that all appearances are equal
+- Missing that all appearances are equal
 - Preference for "advanced" signs
 
 **Cascade effects:**
-<coarse-appearance-attachment> triggers <subtlety-preference> [refined over vivid] → <refinement-fetish> [discriminating] → <equal-appearance-miss> [all same nature]
+<coarse-appearance-attachment> → <subtlety-preference> [refined over vivid] → <refinement-fetish> [discriminating] → <equal-appearance-miss> [all same nature]
 
 ---
 
-<sky-gazing-visualization> <nam-mkha'lta-ba-imagination>
+[4752-4767] <sky-gazing-visualization> <nam-mkha'lta-ba-imagination>
 
 **Misreading:**
 Space-gazing (*nam mkha'i lta ba*) interpreted as visualizing space or imagining emptiness, creating visualization-practice instead of direct seeing.
@@ -53,15 +53,15 @@ Space-visualization: imagining instead of seeing. Direct recognition is replaced
 
 **Secondary consequences:**
 - "I'm visualizing blue sky" practice
-- What remains unseen is that space is awareness-nature
+- Missing that space is awareness-nature
 - Imagination over perception
 
 **Cascade effects:**
-<sky-gazing-visualization> produces <space-visualization> [imagining space] → <mental-image> [blue sky mind] → <direct-seeing-miss> [space as nature]
+<sky-gazing-visualization> → <space-visualization> [imagining space] → <mental-image> [blue sky mind] → <direct-seeing-miss> [space as nature]
 
 ---
 
-<emptiness-without-clarity> <stong-nyid-gsal-med-void>
+[4752-4767] <emptiness-without-clarity> <stong-nyid-gsal-med-void>
 
 **Misreading:**
 "Emptiness without thought" (*stong nyid bsam du med pa*) interpreted as blank void without clarity, creating nihilistic emptiness-meditation.
@@ -78,11 +78,11 @@ Void-meditation: sitting in blank absence. Clarity-emptiness unity is missed.
 - Missing that emptiness is clear
 
 **Cascade effects:**
-<emptiness-without-clarity> leads to <void-meditation> [blank absence] → <nihilistic-emptiness> [nothing exists] → <clarity-emptiness-miss> [unity overlooked]
+<emptiness-without-clarity> → <void-meditation> [blank absence] → <nihilistic-emptiness> [nothing exists] → <clarity-emptiness-miss> [unity overlooked]
 
 ---
 
-<slow-wind-control> <rlung-dal-rtsol-ba>
+[4768-4788] <slow-wind-control> <rlung-dal-rtsol-ba>
 
 **Misreading:**
 Slowing the wind/breath (*rlung dal ba bsten pa*) interpreted as breath-control technique, creating pranayama-obsession.
@@ -99,11 +99,11 @@ Breath-control: mechanical slowing. Natural ease is replaced by manipulation.
 - Missing that slowness is natural ease
 
 **Cascade effects:**
-<slow-wind-control> triggers <ground-ignored>
+<slow-wind-control> → <breath-control> [mechanical slowing] → <manipulation> [forcing ease] → <natural-ease-miss> [slowness as allowing]
 
 ---
 
-<wind-throwing-force> <rlung-rab-tu-'phans-aggression>
+[4768-4788] <wind-throwing-force> <rlung-rab-tu-'phans-aggression>
 
 **Misreading:**
 The "throwing wind far out" (*phyir rgyang ring po 'phen*) interpreted as forceful projection technique, creating aggressive wind-work.
@@ -120,11 +120,11 @@ Forceful-projection: aggressive wind practice. Natural release is replaced by vi
 - Missing that throwing is natural release
 
 **Cascade effects:**
-<wind-throwing-force> creates <forceful-projection> [aggressive wind] → <violent-effort> [forcing release] → <natural-release-miss> [throwing as allowing]
+<wind-throwing-force> → <forceful-projection> [aggressive wind] → <violent-effort> [forcing release] → <natural-release-miss> [throwing as allowing]
 
 ---
 
-<rainbow-body-materialization> <lu-gu-rgyud-physical>
+[4789-4801] <rainbow-body-materialization> <lu-gu-rgyud-physical>
 
 **Misreading:**
 The rainbow body (*lu gu rgyud*) interpreted as physical transformation to achieve, creating body-obsession about light-phenomena.
@@ -141,11 +141,11 @@ Body-materialization: seeking physical signs. Natural display is obscured by som
 - Physical-sign anxiety
 
 **Cascade effects:**
-<rainbow-body-materialization> triggers <body-materialization> [physical transformation] → <somatic-fixation> [body checking] → <natural-display-miss> [form as display]
+<rainbow-body-materialization> → <body-materialization> [physical transformation] → <somatic-fixation> [body checking] → <natural-display-miss> [form as display]
 
 ---
 
-<vajra-thread-manipulation> <rdo-rje-sku-gud-control>
+[4789-4801] <vajra-thread-manipulation> <rdo-rje-sku-gud-control>
 
 **Misreading:**
 The vajra thread (*rdo rje'i lu gu rgyud*) interpreted as actual energetic cord to manipulate or stabilize, creating thread-fixation.
@@ -162,11 +162,11 @@ Thread-fixation: trying to grasp/stabilize. Natural presence is replaced by obje
 - Object-attachment over nature
 
 **Cascade effects:**
-<vajra-thread-manipulation> produces <thread-fixation> [grasping cord] → <object-attachment> [stabilizing thread] → <natural-presence-miss> [thread as display]
+<vajra-thread-manipulation> → <thread-fixation> [grasping cord] → <object-attachment> [stabilizing thread] → <natural-presence-miss> [thread as display]
 
 ---
 
-<practice-timeline-anxiety> <nyi-ma-lnga-drug-obsession>
+[4802-4811] <practice-timeline-anxiety> <nyi-ma-lnga-drug-obsession>
 
 **Misreading:**
 The five-six day timeline (*nyi ma lnga drug tu bya'o*) interpreted as strict schedule requiring completion, creating timeline-pressure.
@@ -183,11 +183,11 @@ Timeline-pressure: rushing to meet days. Natural unfoldment is replaced by deadl
 - Schedule over recognition
 
 **Cascade effects:**
-<practice-timeline-anxiety> leads to <timeline-pressure> [deadline stress] → <rushing-unfoldment> [forcing progress] → <natural-timing-miss> [days as flexible]
+<practice-timeline-anxiety> → <timeline-pressure> [deadline stress] → <rushing-unfoldment> [forcing progress] → <natural-timing-miss> [days as flexible]
 
 ---
 
-<face-introduction-dependence> <ngo-sprod-bla-ma-reliance>
+[4812-4830] <face-introduction-dependence> <ngo-sprod-bla-ma-reliance>
 
 **Misreading:**
 The introduction of face (*ngo sprod*) interpreted as requiring external master to point out, creating guru-dependence for recognition.
@@ -204,11 +204,11 @@ Introduction-dependence: waiting for external validation. Self-recognition defer
 - External validation seeking
 
 **Cascade effects:**
-<face-introduction-dependence> leads to <nature-missed>
+<face-introduction-dependence> → <introduction-dependence> [external pointing] → <master-waiting> [validation seeking] → <self-recognition-miss> [immediate seeing]
 
 ---
 
-<four-appearances-stages> <snang-bzhi-rim-pa-sequential>
+[4831-4844] <four-appearances-stages> <snang-bzhi-rim-pa-sequential>
 
 **Misreading:**
 The four appearances (*snang ba bzhi*) interpreted as sequential stages to progress through, creating stage-checklist mentality.
@@ -225,11 +225,11 @@ Stage-fixation: tracking progress through four. Natural display is replaced by a
 - Progress-tracking over recognition
 
 **Cascade effects:**
-<four-appearances-stages> triggers <rigpa-unseen>
+<four-appearances-stages> → <stage-fixation> [progress tracking] → <advancement-anxiety> [which stage?] → <simultaneous-aspects-miss> [four as one]
 
 ---
 
-<bindu-color-preference> <thig-le-kha-dog-discrimination>
+[4831-4844] <bindu-color-preference> <thig-le-kha-dog-discrimination>
 
 **Misreading:**
 The five-colored bindus (*thig le kha dog lnga ldan*) interpreted as establishing color hierarchy, creating preference for certain colors.
@@ -250,7 +250,7 @@ Color-hierarchy: preferring certain appearances. Natural display is obscured by 
 
 ---
 
-<space-rigpa-dualism> <dbyings-rig-gnyis-fixation>
+[4845-4857] <space-rigpa-dualism> <dbyings-rig-gnyis-fixation>
 
 **Misreading:**
 Space and rigpa (*dbyings rig*) interpreted as two things to unite, creating dualistic meditation on merging.
@@ -267,7 +267,7 @@ Space-rigpa-dualism: treating as separate entities. Non-duality replaced by unif
 - Effort to create non-duality
 
 **Cascade effects:**
-<space-rigpa-dualism> produces <awareness-overlooked>
+<space-rigpa-dualism> → <space-rigpa-separation> [two things] → <unification-project> [merging effort] → <never-separate-miss> [already non-dual]
 
 ---
 

@@ -1,4 +1,4 @@
-<rigpa-measure-achievement> <rig-pa-tshad-goal>
+[5269-5278] <rigpa-measure-achievement> <rig-pa-tshad-goal>
 **Misreading:**
 "Measure of recognition reached" (*rig pa tshad phebs*) interpreted as accomplishment—specific goal achieved in practice.
 
@@ -11,14 +11,14 @@ Recognition substantialized as measurable attainment. "I've reached the measure.
 **Secondary consequences:**
 - Measurement-obsession
 - Progress-tracking
-- Not seeing that recognition has no measure
+- Missing that recognition has no measure
 
 **Cascade effects:**
-Triggers <measure-goal> (quantifiable target), <recognition-attainment> (reaching), <progress-obsession> (tracking advancement), <ground-ignored> (measure obscures measure-less).
+Triggers <measure-goal> (quantifiable target), <recognition-attainment> (reaching), <progress-obsession> (tracking advancement), <recognition-prevention> (measure obscures measure-less).
 
 ---
 
-<ground-awareness-ontological> <gZhi-gnas-rig-pa>
+[5279-5290] <ground-awareness-ontological> <gZhi-gnas-rig-pa>
 **Misreading:**
 "Ground awareness" (*gZhi gnas kyi rig pa*) interpreted as ontological entity—special type of consciousness that exists as ground.
 
@@ -31,14 +31,14 @@ Awareness substantialized as ground-entity. "Ground awareness is the basis." The
 **Secondary consequences:**
 - Ground-awareness fetish
 - Ontological speculation
-- Failing to recognize that awareness is not entity
+- Missing that awareness is not entity
 
 **Cascade effects:**
-Triggers <ground-entity> (ontological basis), <awareness-reification> (consciousness thing), <recognition-blocked> (entity obscures non-entity).
+Triggers <ground-entity> (ontological basis), <awareness-reification> (consciousness thing), <recognition-prevention> (entity obscures non-entity).
 
 ---
 
-<path-entry-gradual> <lam-srol-sequential>
+[5291-5300] <path-entry-gradual> <lam-srol-sequential>
 **Misreading:**
 "Entered the path system" (*lam srol du tshud pa*) interpreted as gradual progression—step-by-step entry into practice.
 
@@ -51,14 +51,14 @@ Path substantialized as progression. "I'm entering the path stages." Immediate p
 **Secondary consequences:**
 - Stage-fixation
 - Entry-anxiety
-- The blind spot: that path is immediate recognition
+- Missing that path is immediate recognition
 
 **Cascade effects:**
-Triggers <path-progression> (step-by-step), <entry-hierarchy> (stages of access), <nature-missed> (sequence obscures immediate).
+Triggers <path-progression> (step-by-step), <entry-hierarchy> (stages of access), <recognition-prevention> (sequence obscures immediate).
 
 ---
 
-<ground-appearance-projection> <gZhi-snang-external>
+[5301-5310] <ground-appearance-projection> <gZhi-snang-external>
 **Misreading:**
 "Ground appearance" (*gZhi snang*) interpreted as external projection—something that appears from the ground to the practitioner.
 
@@ -71,14 +71,14 @@ Appearance substantialized as external. "Ground appearances are happening to me.
 **Secondary consequences:**
 - Appearance-obsession
 - Externalization
-- The error obscures that appearances are own display
+- Missing that appearances are own display
 
 **Cascade effects:**
-Triggers <ground-external> (outside appearance), <projection-dualism> (appearing to me), <nature-missed> (external obscures self-display).
+Triggers <ground-external> (outside appearance), <projection-dualism> (appearing to me), <recognition-prevention> (external obscures self-display).
 
 ---
 
-<spontaneous-perfection-magic> <lhun-grub-power>
+[5311-5320] <spontaneous-perfection-magic> <lhun-grub-power>
 **Misreading:**
 "Spontaneously perfected door of appearance" (*lhun grub kyi 'char sgo*) interpreted as magical opening—special portal producing visions.
 
@@ -91,14 +91,14 @@ Perfection substantialized as magic-door. "The spontaneous door is opening." Nat
 **Secondary consequences:**
 - Door-obsession
 - Vision-production
-- What's missed: that perfection is natural
+- Missing that perfection is natural
 
 **Cascade effects:**
-Triggers <door-magic> (portal power), <vision-production> (making appearances), <nature-missed> (magic obscures natural).
+Triggers <door-magic> (portal power), <vision-production> (making appearances), <recognition-prevention> (magic obscures natural).
 
 ---
 
-<path-appearance-exhaustion> <lam-snang-zad>
+[5321-5330] <path-appearance-exhaustion> <lam-snang-zad>
 **Misreading:**
 "Path appearances exhausted" (*lam snang zad du ne ba*) interpreted as completion—reaching end of visionary path.
 
@@ -111,14 +111,14 @@ Exhaustion substantialized as achievement. "I've exhausted path appearances." Na
 **Secondary consequences:**
 - Exhaustion-goal
 - Path-completion pride
-- The error obscures that exhaustion is natural resolution
+- Missing that exhaustion is natural resolution
 
 **Cascade effects:**
-Triggers <exhaustion-achievement> (ending as goal), <path-completion> (finishing), <nature-missed> (goal obscures natural).
+Triggers <exhaustion-achievement> (ending as goal), <path-completion> (finishing), <recognition-prevention> (goal obscures natural).
 
 ---
 
-<mandala-completion-achievement> <dkyil-'khor-rdzogs-pa>
+[5331-5340] <mandala-completion-achievement> <dkyil-'khor-rdzogs-pa>
 **Misreading:**
 "Mandala complete" (*dkyil 'khor rdzogs pa*) interpreted as accomplishment—successfully visualized or manifested mandala.
 
@@ -131,14 +131,14 @@ Completion substantialized as success. "I've completed the mandala." Natural com
 **Secondary consequences:**
 - Mandala-completion pride
 - Visualization-achievement
-- Overlooking that mandala is always complete
+- Missing that mandala is always complete
 
 **Cascade effects:**
-Triggers <mandala-success> (completion achievement), <visualization-pride> (I made it), <ground-ignored> (doing obscures natural-complete).
+Triggers <mandala-success> (completion achievement), <visualization-pride> (I made it), <recognition-prevention> (doing obscures natural-complete).
 
 ---
 
-<measure-limit-quantification> <tshad-quantified>
+[5341-5350] <measure-limit-quantification> <tshad-quantified>
 **Misreading:**
 "Measure" (*tshad*) interpreted as quantifiable limit—specific amount or extent of practice.
 
@@ -151,14 +151,14 @@ Measure substantialized as number. "The measure is half complete." The immeasura
 **Secondary consequences:**
 - Number-obsession
 - Percentage-tracking
-- Overlooking that measure is metaphorical
+- Missing that measure is metaphorical
 
 **Cascade effects:**
-Triggers <measure-quantification> (counting), <limit-obsession> (boundaries), <ground-ignored> (measure obscures immeasurable).
+Triggers <measure-quantification> (counting), <limit-obsession> (boundaries), <recognition-prevention> (measure obscures immeasurable).
 
 ---
 
-<beyond-limit-transcendence> <yal-sa-meditation>
+[5351-5360] <beyond-limit-transcendence> <yal-sa-meditation>
 **Misreading:**
 "Beyond limit" (*yal sa med pa*) interpreted as transcendent state—special condition beyond ordinary boundaries.
 
@@ -171,14 +171,14 @@ Beyond substantialized as state. "I've gone beyond limits." Natural limitlessnes
 **Secondary consequences:**
 - Transcendence-pride
 - Limit-breaking ego
-- Overlooking that beyond is natural, not achieved
+- Missing that beyond is natural, not achieved
 
 **Cascade effects:**
-Triggers <beyond-state> (transcendent condition), <limit-breaking> (surpassing), <awareness-overlooked> (transcendence obscures natural).
+Triggers <beyond-state> (transcendent condition), <limit-breaking> (surpassing), <recognition-prevention> (transcendence obscures natural).
 
 ---
 
-<full-moon-analogy-literal> <zla-ba-nyi-visual>
+[5361-5370] <full-moon-analogy-literal> <zla-ba-nyi-visual>
 **Misreading:**
 "Full moon appearance" analogy interpreted literally—visions should look like actual full moon.
 
@@ -191,14 +191,14 @@ Analogy substantialized as prescription. "I should see a moon-like vision." Meta
 **Secondary consequences:**
 - Moon-vision expectation
 - Literal interpretation
-- Failing to recognize that analogy points to nature
+- Missing that analogy points to nature
 
 **Cascade effects:**
-Triggers <moon-literalism> (seeing moon), <analogy-prescription> (should look like), <ground-ignored> (literal obscures metaphorical).
+Triggers <moon-literalism> (seeing moon), <analogy-prescription> (should look like), <recognition-prevention> (literal obscures metaphorical).
 
 ---
 
-<waxing-waning-process> <yar-gyi-'phel-zad-cyclical>
+[5371-5380] <waxing-waning-process> <yar-gyi-'phel-zad-cyclical>
 **Misreading:**
 "Waxing and waning" (*yar gyi 'phel zad*) interpreted as cyclical process—ongoing fluctuation to observe.
 
@@ -211,14 +211,14 @@ Fluctuation substantialized as cycle. "I observe the waxing and waning." Natural
 **Secondary consequences:**
 - Cycle-obsession
 - Change-monitoring
-- The blind spot: that waxing/waning is metaphor
+- Missing that waxing/waning is metaphor
 
 **Cascade effects:**
-Triggers <cycle-observation> (watching fluctuation), <process-monitoring> (tracking change), <obscuration> (temporal obscures timeless).
+Triggers <cycle-observation> (watching fluctuation), <process-monitoring> (tracking change), <recognition-prevention> (temporal obscures timeless).
 
 ---
 
-<irreparability-helplessness> <bcos-su-med-pa-passivity>
+[5381-5390] <irreparability-helplessness> <bcos-su-med-pa-passivity>
 **Misreading:**
 "Irreparable" (*bcos su med pa*) interpreted as helplessness—cannot be fixed or improved, leading to passivity.
 
@@ -231,14 +231,14 @@ Irreparability substantialized as defect. "Nothing can be fixed." Natural perfec
 **Secondary consequences:**
 - Helplessness-depression
 - Improvement-resignation
-- Failing to recognize that irreparable is naturally perfect
+- Missing that irreparable is naturally perfect
 
 **Cascade effects:**
-Triggers <irreparable-defect> (brokenness), <helpless-resignation> (can't fix), <obscuration> (defect obscures perfection).
+Triggers <irreparable-defect> (brokenness), <helpless-resignation> (can't fix), <recognition-prevention> (defect obscures perfection).
 
 ---
 
-<three-measures-hierarchy> <tshad-gsum-ranking>
+[5391-5400] <three-measures-hierarchy> <tshad-gsum-ranking>
 **Misreading:**
 Three measures (*tshad gsum*) interpreted as progressive hierarchy—levels from external to secret.
 
@@ -251,14 +251,14 @@ Measures substantialized as levels. "I'm at the secret measure now." Equal natur
 **Secondary consequences:**
 - Measure-ranking
 - Advancement-pride
-- Not seeing that all measures are equal aspects
+- Missing that all measures are equal aspects
 
 **Cascade effects:**
-Triggers <measure-hierarchy> (levels), <secret-elitism> (higher is better), <rigpa-unseen> (ranking obscures equality).
+Triggers <measure-hierarchy> (levels), <secret-elitism> (higher is better), <recognition-prevention> (ranking obscures equality).
 
 ---
 
-<external-appearance-vision> <phyi-snang-objective>
+[5401-5410] <external-appearance-vision> <phyi-snang-objective>
 **Misreading:**
 "External appearance" (*phyi snang*) interpreted as objective vision—seeing actual external phenomena.
 
@@ -271,14 +271,14 @@ Appearance substantialized as objective. "I see external visions." Self-display 
 **Secondary consequences:**
 - Vision-objectification
 - External-reality
-- Failing to recognize that appearances are mind
+- Missing that appearances are mind
 
 **Cascade effects:**
-Triggers <external-objectivity> (outside reality), <vision-realism> (actual seeing), <recognition-blocked> (external obscures self-display).
+Triggers <external-objectivity> (outside reality), <vision-realism> (actual seeing), <recognition-prevention> (external obscures self-display).
 
 ---
 
-<body-measure-somatic> <lus-kyi-tshad-physical>
+[5411-5420] <body-measure-somatic> <lus-kyi-tshad-physical>
 **Misreading:**
 "Body measure" (*lus kyi tshad*) interpreted as physical transformation—actual bodily changes occurring.
 
@@ -291,14 +291,14 @@ Body substantialized as transforming. "My body is changing." The illusory nature
 **Secondary consequences:**
 - Body-change obsession
 - Physical-proof seeking
-- Unrecognized: that body is empty display
+- Missing that body is empty display
 
 **Cascade effects:**
-Triggers <body-transformation> (physical change), <somatic-obsession> (bodily signs), <recognition-blocked> (physical obscures empty).
+Triggers <body-transformation> (physical change), <somatic-obsession> (bodily signs), <recognition-prevention> (physical obscures empty).
 
 ---
 
-<secret-awareness-esoteric> <gsang-ba-rig-pa-hidden>
+[5421-5430] <secret-awareness-esoteric> <gsang-ba-rig-pa-hidden>
 **Misreading:**
 "Secret awareness" (*gsang ba rig pa'i tshad*) interpreted as esoteric knowledge—hidden teaching for select few.
 
@@ -311,14 +311,14 @@ Awareness substantialized as secret. "I know the secret measure." Open availabil
 **Secondary consequences:**
 - Esoteric elitism
 - Secret-keeping
-- Unrecognized: that awareness is openly present
+- Missing that awareness is openly present
 
 **Cascade effects:**
-Triggers <secret-elitism> (hidden knowledge), <esoteric-exclusivity> (select access), <ground-ignored> (secret obscures obvious).
+Triggers <secret-elitism> (hidden knowledge), <esoteric-exclusivity> (select access), <recognition-prevention> (secret obscures obvious).
 
 ---
 
-<light-mastery-control> <od-gsal-dbang-bsgrur>
+[5431-5440] <light-mastery-control> <od-gsal-dbang-bsgrur>
 **Misreading:**
 "Mastery over light" (*'od gsal dbang bsgyur*) interpreted as control—ability to manipulate luminosity.
 
@@ -331,14 +331,14 @@ Light substantialized as controllable. "I master the light." Natural display obs
 **Secondary consequences:**
 - Light-control obsession
 - Power-fantasy
-- Failing to recognize that light is naturally self-liberated
+- Missing that light is naturally self-liberated
 
 **Cascade effects:**
-Triggers <light-mastery> (controlling luminosity), <power-obsession> (ability pride), <recognition-blocked> (control obscures natural).
+Triggers <light-mastery> (controlling luminosity), <power-obsession> (ability pride), <recognition-prevention> (control obscures natural).
 
 ---
 
-<pure-field-destination> <zhung-khams-dag-pa-place>
+[5441-5450] <pure-field-destination> <zhung-khams-dag-pa-place>
 **Misreading:**
 "Pure field of luminosity" (*zhung khams 'od gsal*) interpreted as destination—place to reach or dwell in.
 
@@ -354,11 +354,11 @@ Field substantialized as place. "I reach the pure field." Non-local nature obscu
 - Missing that field is mind-nature
 
 **Cascade effects:**
-Triggers <field-destination> (place seeking), <pure-land-tourism> (going there), <awareness-overlooked> (place obscures place-less).
+Triggers <field-destination> (place seeking), <pure-land-tourism> (going there), <recognition-prevention> (place obscures place-less).
 
 ---
 
-<certainty-arrival-achievement> <nges-pa-thob-pa>
+[5451-5460] <certainty-arrival-achievement> <nges-pa-thob-pa>
 **Misreading:**
 "Certainty obtained" (*nges pa thob pa*) interpreted as achievement—definitely reaching a conclusion.
 
@@ -374,11 +374,11 @@ Certainty substantialized as possession. "I have obtained certainty." Natural ce
 - Missing that certainty is natural, not obtained
 
 **Cascade effects:**
-Triggers <certainty-possession> (having knowledge), <conclusion-arrogance> (definite answer), <ground-ignored> (obtained obscures natural).
+Triggers <certainty-possession> (having knowledge), <conclusion-arrogance> (definite answer), <recognition-prevention> (obtained obscures natural).
 
 ---
 
-<direct-appearance-cessation> <thad-ka'i-snang-'gags>
+[5461-5470] <direct-appearance-cessation> <thad-ka'i-snang-'gags>
 **Misreading:**
 "Direct appearance ceases" (*thad ka'i dngos snang 'gags pa*) interpreted as suppression—stopping ordinary perception.
 
@@ -394,11 +394,11 @@ Cessation substantialized as suppression. "I must stop appearances." Natural res
 - Missing that cessation is natural
 
 **Cascade effects:**
-Triggers <cessation-suppression> (stopping), <appearance-rejection> (avoiding ordinary), <rigpa-unseen> (suppression obscures natural).
+Triggers <cessation-suppression> (stopping), <appearance-rejection> (avoiding ordinary), <recognition-prevention> (suppression obscures natural).
 
 ---
 
-<earth-stone-dissolution> <sa-rdo-snang-ba>
+[5471-5480] <earth-stone-dissolution> <sa-rdo-snang-ba>
 **Misreading:**
 "Earth and stone appearance dissolves" interpreted literally—physical matter actually melting.
 
@@ -414,11 +414,11 @@ Dissolution substantialized as physical. "The earth is melting." Metaphorical me
 - Missing that dissolution is cognitive
 
 **Cascade effects:**
-Triggers <literal-dissolution> (physical melting), <matter-magic> (transforming earth), <ground-ignored> (literal obscures metaphorical).
+Triggers <literal-dissolution> (physical melting), <matter-magic> (transforming earth), <recognition-prevention> (literal obscures metaphorical).
 
 ---
 
-<self-knowledge-penetration> <rang-shes-tshud-pa>
+[5481-5490] <self-knowledge-penetration> <rang-shes-tshud-pa>
 **Misreading:**
 "Self-knowing penetrates all" (*rang shes ci la'ang tshud pa*) interpreted as omniscience—knowing everything about everything.
 
@@ -434,11 +434,11 @@ Penetration substantialized as omniscience. "I know everything now." Natural kno
 - Missing that penetration is non-conceptual
 
 **Cascade effects:**
-Triggers <omniscience-claim> (knowing all), <knowledge-god> (all-penetrating), <obscuration> (conceptual obscures non-conceptual).
+Triggers <omniscience-claim> (knowing all), <knowledge-god> (all-penetrating), <recognition-prevention> (conceptual obscures non-conceptual).
 
 ---
 
-<inert-matter-movement> <bems-po-'gul-ba>
+[5491-5500] <inert-matter-movement> <bems-po-'gul-ba>
 **Misreading:**
 "Inert matter moves" (*bems po 'gul ba*) interpreted as physical miracle—dead things actually moving.
 
@@ -454,11 +454,11 @@ Movement substantialized as miracle. "I made the stone move." Symbolic meaning o
 - Missing that movement is metaphorical
 
 **Cascade effects:**
-Triggers <miracle-movement> (animating matter), <physical-power> (making things move), <rigpa-unseen> (miracle obscures metaphor).
+Triggers <miracle-movement> (animating matter), <physical-power> (making things move), <recognition-prevention> (miracle obscures metaphor).
 
 ---
 
-<wind-movement-control> <rlung-gi-'gyu-ba>
+[5501-5510] <wind-movement-control> <rlung-gi-'gyu-ba>
 **Misreading:**
 "Wind movement measure" (*rlung gi 'gyu ba'i tshad zin*) interpreted as controlled—mastering the movement of energy.
 
@@ -474,11 +474,11 @@ Wind substantialized as controllable. "I control wind movements." Natural flow o
 - Missing that wind is naturally self-liberated
 
 **Cascade effects:**
-Triggers <wind-control> (controlling energy), <movement-mastery> (power over flow), <recognition-blocked> (control obscures natural).
+Triggers <wind-control> (controlling energy), <movement-mastery> (power over flow), <recognition-prevention> (control obscures natural).
 
 ---
 
-<atomic-particle-vision> <rdul-phran-mthong-ba>
+[5511-5520] <atomic-particle-vision> <rdul-phran-mthong-ba>
 **Misreading:**
 "Sees atomic particles" (*rdul phran mthong ba 'byung*) interpreted as microscopic vision—actually seeing tiny physical particles.
 
@@ -494,11 +494,11 @@ Vision substantialized as physical. "I see atoms." The empty nature of perceptio
 - Missing that particles are metaphorical
 
 **Cascade effects:**
-Triggers <atomic-vision> (seeing particles), <microscopic-power> (tiny seeing), <rigpa-unseen> (physical obscures empty).
+Triggers <atomic-vision> (seeing particles), <microscopic-power> (tiny seeing), <recognition-prevention> (physical obscures empty).
 
 ---
 
-<form-body-completion> <gzugs-sku-rdzogs-pa>
+[5521-5530] <form-body-completion> <gzugs-sku-rdzogs-pa>
 **Misreading:**
 "Form body complete" (*gzugs skur rdzogs pa*) interpreted as achievement—successfully creating or manifesting form body.
 
@@ -514,11 +514,11 @@ Completion substantialized as making. "I've completed the form body." Natural co
 - Missing that form body is naturally present
 
 **Cascade effects:**
-Triggers <form-body-making> (creating), <completion-pride> (achievement), <obscuration> (making obscures natural).
+Triggers <form-body-making> (creating), <completion-pride> (achievement), <recognition-prevention> (making obscures natural).
 
 ---
 
-<yabyum-union-literal> <yab-yum-sbyor-ba>
+[5531-5540] <yabyum-union-literal> <yab-yum-sbyor-ba>
 **Misreading:**
 "Father-mother union" (*yab yum 'khril ba*) interpreted literally—sexual union of deities or practitioners.
 
@@ -534,11 +534,11 @@ Union substantialized as sexual. "The deities are uniting." Symbolic meaning obs
 - Missing that union is non-dual symbol
 
 **Cascade effects:**
-Triggers <sexual-union-literal> (physical joining), <gender-duality> (male/female), <recognition-blocked> (literal obscures symbolic).
+Triggers <sexual-union-literal> (physical joining), <gender-duality> (male/female), <recognition-prevention> (literal obscures symbolic).
 
 ---
 
-<five-five-pattern-numerology> <lnga-lnga-yab-yum>
+[5541-5550] <five-five-pattern-numerology> <lnga-lnga-yab-yum>
 **Misreading:**
 "Five and five father and mother" interpreted as numerological pattern—magical significance of number five.
 
@@ -554,11 +554,11 @@ Pattern substantialized as numerology. "Five is the magic number." Pedagogical f
 - Missing that five is conventional designation
 
 **Cascade effects:**
-Triggers <five-numerology> (magic number), <pattern-mysticism> (significance in numbers), <obscuration> (numerology obscures pointing).
+Triggers <five-numerology> (magic number), <pattern-mysticism> (significance in numbers), <recognition-prevention> (numerology obscures pointing).
 
 ---
 
-<periphery-circle-geometry> <mu-khyud-zlum-po>
+[5551-5560] <periphery-circle-geometry> <mu-khyud-zlum-po>
 **Misreading:**
 "Round periphery" (*mu khyud zlum po*) interpreted as geometric requirement—mandala must be circular.
 
@@ -574,11 +574,11 @@ Periphery substantialized as shape. "The circle must be perfect." Symbolic funct
 - Missing that shape is conventional
 
 **Cascade effects:**
-Triggers <circle-geometry> (perfect round), <periphery-shape> (boundary form), <ground-ignored> (shape obscures nature).
+Triggers <circle-geometry> (perfect round), <periphery-shape> (boundary form), <recognition-prevention> (shape obscures nature).
 
 ---
 
-<yogin-body-luminosity> <rnal-'byor-lus-od-gsal>
+[5561-5570] <yogin-body-luminosity> <rnal-'byor-lus-od-gsal>
 **Misreading:**
 "Yogin's body luminous" (*rnal 'byor lus kyang 'od gsal*) interpreted as physical glow—body actually shining with light.
 
@@ -594,11 +594,11 @@ Luminosity substantialized as physical light. "My body is glowing." The empty na
 - Missing that luminosity is nature, not light
 
 **Cascade effects:**
-Triggers <body-glow> (physical shining), <luminosity-physical> (actual light), <obscuration> (physical obscures empty).
+Triggers <body-glow> (physical shining), <luminosity-physical> (actual light), <recognition-prevention> (physical obscures empty).
 
 ---
 
-<going-coming-sitting-motion> <gro-'ong-dug-snang>
+[5571-5580] <going-coming-sitting-motion> <gro-'ong-dug-snang>
 **Misreading:**
 "Going, coming, and sitting appear" interpreted as actual movement—practitioner physically moving in visions.
 
@@ -614,11 +614,11 @@ Motion substantialized as physical. "I'm moving in the vision." The still nature
 - Missing that going/coming is metaphorical
 
 **Cascade effects:**
-Triggers <physical-movement> (actual going), <vision-activity> (doing in appearances), <awareness-overlooked> (motion obscures stillness).
+Triggers <physical-movement> (actual going), <vision-activity> (doing in appearances), <recognition-prevention> (motion obscures stillness).
 
 ---
 
-<rigpa-measure-complete> <rig-pa-tshad-phebs-full>
+[5581-5590] <rigpa-measure-complete> <rig-pa-tshad-phebs-full>
 **Misreading:**
 "Recognition measure reached" interpreted as full completion—practice is finished, nothing more to do.
 
@@ -634,11 +634,11 @@ Reaching substantialized as ending. "I've fully reached recognition." Continuous
 - Missing that recognition is ongoing
 
 **Cascade effects:**
-Triggers <completion-arrogance> (finished), <practice-cessation> (stopping), <rigpa-unseen> (ending obscures continuous).
+Triggers <completion-arrogance> (finished), <practice-cessation> (stopping), <recognition-prevention> (ending obscures continuous).
 
 ---
 
-<body-purification-cessation> <lus-kyi-rdos-pa-dag>
+[5591-5600] <body-purification-cessation> <lus-kyi-rdos-pa-dag>
 **Misreading:**
 "Body's coarse elements purified" interpreted as physical cleansing—body actually becoming pure substance.
 
@@ -654,11 +654,11 @@ Purification substantialized as physical. "My body is becoming pure." The empty 
 - Missing that purification is recognition
 
 **Cascade effects:**
-Triggers <physical-purity> (cleansing body), <element-transmutation> (changing matter), <ground-ignored> (physical obscures empty).
+Triggers <physical-purity> (cleansing body), <element-transmutation> (changing matter), <recognition-prevention> (physical obscures empty).
 
 ---
 
-<heart-center-white-A> <snying-dbus-a-dkar>
+[5601-5610] <heart-center-white-A> <snying-dbus-a-dkar>
 **Misreading:**
 "White A in heart center" interpreted literally—actual white letter in physical heart.
 
@@ -674,11 +674,11 @@ A-letter substantialized as object. "I see the white A in my heart." Symbolic me
 - Missing that A is symbol for unborn
 
 **Cascade effects:**
-Triggers <A-letter-vision> (seeing white A), <heart-location> (center fixation), <recognition-blocked> (object obscures symbol).
+Triggers <A-letter-vision> (seeing white A), <heart-location> (center fixation), <recognition-prevention> (object obscures symbol).
 
 ---
 
-<five-light-rays-coils> <od-zer-lnga-sgril>
+[5611-5620] <five-light-rays-coils> <od-zer-lnga-sgril>
 **Misreading:**
 "Five light rays coiled" interpreted as physical phenomenon—actual light rays twisting together.
 
@@ -694,11 +694,11 @@ Rays substantialized as physical. "I see five rays coiling." The empty nature ob
 - Missing that rays are empty display
 
 **Cascade effects:**
-Triggers <ray-coiling> (seeing twist), <light-shape> (form obsession), <awareness-overlooked> (visual obscures empty).
+Triggers <ray-coiling> (seeing twist), <light-shape> (form obsession), <recognition-prevention> (visual obscures empty).
 
 ---
 
-<aperture-window-opening> <mthong-khung>
+[5621-5630] <aperture-window-opening> <mthong-khung>
 **Misreading:**
 "Aperture/window" (*mthong khung*) interpreted as actual opening—physical hole or window to see through.
 
@@ -714,11 +714,11 @@ Aperture substantialized as physical. "I see through the window." Metaphorical m
 - Missing that aperture is metaphor for perception
 
 **Cascade effects:**
-Triggers <window-literal> (seeing through), <aperture-physical> (actual opening), <obscuration> (spatial obscures metaphorical).
+Triggers <window-literal> (seeing through), <aperture-physical> (actual opening), <recognition-prevention> (spatial obscures metaphorical).
 
 ---
 
-<light-finger-cubits> <od-zer-'dom-gang>
+[5631-5640] <light-finger-cubits> <od-zer-'dom-gang>
 **Misreading:**
 "Cubit-measure light rays" (*'od zer 'dom gang*) interpreted as precise size—light exactly one cubit long.
 
@@ -734,11 +734,11 @@ Light substantialized as measurable. "The light is exactly one cubit." Empty nat
 - Missing that measurement is conventional
 
 **Cascade effects:**
-Triggers <light-measurement> (precise size), <cubit-exactness> (one cubit exactly), <obscuration> (measure obscures immeasurable).
+Triggers <light-measurement> (precise size), <cubit-exactness> (one cubit exactly), <recognition-prevention> (measure obscures immeasurable).
 
 ---
 
-<crown-protrusion-wind-support> <thor-tshugs-rlung-gis-
+[5641-5650] <crown-protrusion-wind-support> <thor-tshugs-rlung-gis-
 **Misreading:**
 "Crown protrusion supported by wind" interpreted as physical phenomenon—actual topknot held up by energy.
 
@@ -754,11 +754,11 @@ Protrusion substantialized as physical. "My crown is held up by wind." Symbolic 
 - Missing that protrusion is symbol
 
 **Cascade effects:**
-Triggers <crown-physical> (actual protrusion), <wind-support> (energy holding), <recognition-blocked> (physical obscures symbolic).
+Triggers <crown-physical> (actual protrusion), <wind-support> (energy holding), <recognition-prevention> (physical obscures symbolic).
 
 ---
 
-<peaceful-body-fingers-light> <zhi-sku-sor-mo-od>
+[5651-5660] <peaceful-body-fingers-light> <zhi-sku-sor-mo-od>
 **Misreading:**
 "Peaceful body, fingers, light garlands" interpreted as physical description—actual body parts emitting light.
 
@@ -774,11 +774,11 @@ Description substantialized as physical. "My fingers emit light garlands." Symbo
 - Missing that description is metaphor
 
 **Cascade effects:**
-Triggers <finger-light> (emitting from digits), <body-part-radiance> (anatomy glow), <obscuration> (physical obscures metaphorical).
+Triggers <finger-light> (emitting from digits), <body-part-radiance> (anatomy glow), <recognition-prevention> (physical obscures metaphorical).
 
 ---
 
-<soundless-mind-activity> <sgra-med-sems-spyod>
+[5661-5670] <soundless-mind-activity> <sgra-med-sems-spyod>
 **Misreading:**
 "Soundless mind activity" interpreted as silent thought—mental activity without verbalization.
 
@@ -794,11 +794,11 @@ Activity substantialized as mental. "My mind is active but silent." The non-ment
 - Missing that mind is not entity
 
 **Cascade effects:**
-Triggers <silent-mental> (non-verbal thinking), <mind-activity> (mental doing), <awareness-overlooked> (mental obscures non-mental).
+Triggers <silent-mental> (non-verbal thinking), <mind-activity> (mental doing), <recognition-prevention> (mental obscures non-mental).
 
 ---
 
-<skull-cranium-palace> <mgo-bo-thod-pa-gzhal-yas>
+[5671-5680] <skull-cranium-palace> <mgo-bo-thod-pa-gzhal-yas>
 **Misreading:**
 "Skull cranium as palace" interpreted literally—actual skull becoming ornate building.
 
@@ -814,11 +814,11 @@ Palace substantialized as physical. "My skull is a palace." Symbolic meaning obs
 - Missing that palace is metaphor for mind
 
 **Cascade effects:**
-Triggers <skull-palace> (head as building), <cranial-architecture> (anatomy structure), <recognition-blocked> (literal obscures symbolic).
+Triggers <skull-palace> (head as building), <cranial-architecture> (anatomy structure), <recognition-prevention> (literal obscures symbolic).
 
 ---
 
-<heruka-manifestation-deity> <he-ru-ka-mngon-byung>
+[5681-5690] <heruka-manifestation-deity> <he-ru-ka-mngon-byung>
 **Misreading:**
 "Herukas manifest" interpreted as deity-appearance—actual gods emerging from skull.
 
@@ -834,11 +834,11 @@ Manifestation substantialized as deity. "Herukas are appearing." Empty display o
 - Missing that herukas are own display
 
 **Cascade effects:**
-Triggers <deity-manifestation> (gods appearing), <heruka-worship> (deity devotion), <ground-ignored> (external obscures self-display).
+Triggers <deity-manifestation> (gods appearing), <heruka-worship> (deity devotion), <recognition-prevention> (external obscures self-display).
 
 ---
 
-<body-measure-reached-full> <lus-tshad-phebs>
+[5691-5700] <body-measure-reached-full> <lus-tshad-phebs>
 **Misreading:**
 "Body measure reached" interpreted as complete transformation—body fully transformed into light.
 
@@ -854,11 +854,11 @@ Reaching substantialized as physical change. "My body is fully transformed." Nat
 - Missing that body is always empty
 
 **Cascade effects:**
-Triggers <body-transformation> (physical change), <measure-completion> (full achievement), <ground-ignored> (change obscures always-empty).
+Triggers <body-transformation> (physical change), <measure-completion> (full achievement), <recognition-prevention> (change obscures always-empty).
 
 ---
 
-<spontaneous-perfection-three-kaya> <zang-thal-sku-gsum>
+[5701-5710] <spontaneous-perfection-three-kaya> <zang-thal-sku-gsum>
 **Misreading:**
 "Spontaneous perfection, three kayas as one" interpreted as achievement—unifying three bodies into one.
 
@@ -874,11 +874,11 @@ Perfection substantialized as unification. "I've unified the three kayas." Natur
 - Missing that kayas are never separate
 
 **Cascade effects:**
-Triggers <kaya-unification> (making one), <three-to-one> (reducing plurality), <awareness-overlooked> (unification obscures never-separated).
+Triggers <kaya-unification> (making one), <three-to-one> (reducing plurality), <recognition-prevention> (unification obscures never-separated).
 
 ---
 
-<coarse-subtle-mind-purification> <phra-rags-sems-dag>
+[5711-5720] <coarse-subtle-mind-purification> <phra-rags-sems-dag>
 **Misreading:**
 "Coarse and subtle mind purified" interpreted as mental cleansing—removing bad thoughts and impulses.
 
@@ -894,11 +894,11 @@ Purification substantialized as mental hygiene. "I've purified my mind." Natural
 - Missing that purification is recognition
 
 **Cascade effects:**
-Triggers <mind-purification> (cleaning thoughts), <psychological-cleansing> (mental hygiene), <nature-missed> (cleaning obscures naturally-pure).
+Triggers <mind-purification> (cleaning thoughts), <psychological-cleansing> (mental hygiene), <recognition-prevention> (cleaning obscures naturally-pure).
 
 ---
 
-<alaya-consciousness-only> <kun-gzhi-rnam-shes-tsam>
+[5721-5730] <alaya-consciousness-only> <kun-gzhi-rnam-shes-tsam>
 **Misreading:**
 "Alaya consciousness only" interpreted as idealism—only mind exists, matter is illusion.
 
@@ -914,11 +914,11 @@ Alaya substantialized as metaphysics. "Only consciousness is real." The empty na
 - Missing that alaya is empty too
 
 **Cascade effects:**
-Triggers <idealism-position> (mind-only philosophy), <matter-illusion> (denying physical), <awareness-overlooked> (position obscures emptiness-of-position).
+Triggers <idealism-position> (mind-only philosophy), <matter-illusion> (denying physical), <recognition-prevention> (position obscures emptiness-of-position).
 
 ---
 
-<awareness-qualities-possession> <rig-pa-yon-tan-mngon-shes>
+[5731-5740] <awareness-qualities-possession> <rig-pa-yon-tan-mngon-shes>
 **Misreading:**
 "Awareness qualities and clairvoyance" interpreted as powers—special abilities that come with recognition.
 
@@ -934,11 +934,11 @@ Qualities substantialized as powers. "Recognition gives me clairvoyance." Natura
 - Missing that qualities are natural display
 
 **Cascade effects:**
-Triggers <quality-power> (special abilities), <clairvoyance-claim> (knowing minds), <awareness-overlooked> (power obscures power-less).
+Triggers <quality-power> (special abilities), <clairvoyance-claim> (knowing minds), <recognition-prevention> (power obscures power-less).
 
 ---
 
-<near-far-phenomena-knowing> <ring-lkog-chos-shes>
+[5741-5750] <near-far-phenomena-knowing> <ring-lkog-chos-shes>
 **Misreading:**
 "Knows near and far phenomena" interpreted as omniscience—knowing everything about everything everywhere.
 
@@ -954,11 +954,11 @@ Knowing substantialized as omniscience. "I know all phenomena." Natural knowing 
 - Missing that knowing is non-conceptual
 
 **Cascade effects:**
-Triggers <omniscience-knowing> (all phenomena), <scope-infinity> (near and far), <recognition-blocked> (conceptual obscures non-conceptual).
+Triggers <omniscience-knowing> (all phenomena), <scope-infinity> (near and far), <recognition-prevention> (conceptual obscures non-conceptual).
 
 ---
 
-<innumerable-fields-buddhas> <tshad-med-sangs-rgyas>
+[5751-5760] <innumerable-fields-buddhas> <tshad-med-sangs-rgyas>
 **Misreading:**
 "Innumerable fields and buddhas" interpreted literally—actually seeing countless pure lands and enlightened beings.
 
@@ -974,11 +974,11 @@ Vision substantialized as objective. "I see infinite buddhas." Self-display natu
 - Missing that all are own display
 
 **Cascade effects:**
-Triggers <buddha-vision> (seeing beings), <field-tourism> (visiting pure lands), <ground-ignored> (external obscures self-display).
+Triggers <buddha-vision> (seeing beings), <field-tourism> (visiting pure lands), <recognition-prevention> (external obscures self-display).
 
 ---
 
-<mind-purification-stain-removal> <sems-dri-ma-zad>
+[5761-5770] <mind-purification-stain-removal> <sems-dri-ma-zad>
 **Misreading:**
 "Stains of mind exhausted" interpreted as cleaning—removing defilements from consciousness.
 
@@ -994,11 +994,11 @@ Purification substantialized as stain-removal. "I've removed all stains." Natura
 - Missing that stains were never real
 
 **Cascade effects:**
-Triggers <stain-removal> (cleaning mind), <defilement-paranoia> (finding dirt), <ground-ignored> (cleaning obscures never-stained).
+Triggers <stain-removal> (cleaning mind), <defilement-paranoia> (finding dirt), <recognition-prevention> (cleaning obscures never-stained).
 
 ---
 
-<nature-unmoving-attainment> <rang-bzhin-mi-gyo>
+[5771-5780] <nature-unmoving-attainment> <rang-bzhin-mi-gyo>
 **Misreading:**
 "Nature unmoving" interpreted as stability achievement—reaching unshakeable state of mind.
 
@@ -1014,11 +1014,11 @@ Unmoving substantialized as stability-goal. "I've attained unmoving nature." Nat
 - Missing that unmoving is natural, not attained
 
 **Cascade effects:**
-Triggers <unmoving-goal> (stability achievement), <permanence-fantasy> (never changing), <ground-ignored> (attained obscures natural).
+Triggers <unmoving-goal> (stability achievement), <permanence-fantasy> (never changing), <recognition-prevention> (attained obscures natural).
 
 ---
 
-<empty-clarity-reached> <stong-gsal-bral-brayes>
+[5781-5790] <empty-clarity-reached> <stong-gsal-bral-brayes>
 **Misreading:**
 "Empty clarity reached" interpreted as destination—arriving at special state of emptiness and clarity.
 
@@ -1034,11 +1034,11 @@ Reaching substantialized as state-attainment. "I've reached empty clarity." Natu
 - Missing that empty-clarity is always present
 
 **Cascade effects:**
-Triggers <empty-clarity-state> (destination), <reaching-attainment> (arrival), <obscuration> (state obscures state-less).
+Triggers <empty-clarity-state> (destination), <reaching-attainment> (arrival), <recognition-prevention> (state obscures state-less).
 
 ---
 
-<unmixed-complete-pervasion> <ma-dres-mnyam-rdzogs-khyab>
+[5791-5800] <unmixed-complete-pervasion> <ma-dres-mnyam-rdzogs-khyab>
 **Misreading:**
 "Unmixed, completely perfect, pervasive" interpreted as attributes—qualities of advanced realization.
 
@@ -1054,11 +1054,11 @@ Attributes substantialized as possession. "I have these qualities." Natural attr
 - Missing that attributes are natural display
 
 **Cascade effects:**
-Triggers <quality-possession> (having attributes), <unmixed-purity> (special state), <recognition-blocked> (attributes obscure attribute-less).
+Triggers <quality-possession> (having attributes), <unmixed-purity> (special state), <recognition-prevention> (attributes obscure attribute-less).
 
 ---
 
-<display-clear-many-freed> <snang-mdzad-gsal-ba-du-ma-bral>
+[5801-5810] <display-clear-many-freed> <snang-mdzad-gsal-ba-du-ma-bral>
 **Misreading:**
 "Display and clarity, freed from many" interpreted as multiplicity-overcome—transcending diversity into unity.
 
@@ -1074,9 +1074,10 @@ Freedom substantialized as overcoming. "I've transcended multiplicity." Natural 
 - Missing that many/one are equally empty
 
 **Cascade effects:**
-Triggers <multiplicity-transcendence> (overcoming many), <unity-achievement> (oneness), <obscuration> (transcendence obscures natural-diversity).
+Triggers <multiplicity-transcendence> (overcoming many), <unity-achievement> (oneness), <recognition-prevention> (transcendence obscures natural-diversity).
 
 ---
+
 
 Lines 5269-5810 present the three measures of recognition in Thogal practice—external appearances, body measure, and secret awareness. This is CRITICAL advanced material on spontaneous visions, body dissolution, and awareness qualities.
 
@@ -1104,5 +1105,6 @@ Lines 5269-5810 present the three measures of recognition in Thogal practice—e
 - Power claims
 - Stain removal
 - State attainment
+
 
 **COVERAGE STATUS:** Enhanced version provides comprehensive error mapping (35+ blocks). Tibetan: 44KB / Delusion: 18KB+ / Ratio: 0.40x+ (MINIMUM STANDARD MET).

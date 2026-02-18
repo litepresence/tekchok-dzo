@@ -1,4 +1,4 @@
-<speech-restriction-suppression> <ngag-bcad-force>
+[4601-4625] <speech-restriction-suppression> <ngag-bcad-force>
 
 **Misreading:**
 Cutting speech (*smra ba bcad pa*) interpreted as forceful suppression through willpower, creating inner conflict and tension.
@@ -12,14 +12,14 @@ Speech-suppression: forced silence creating pressure. Natural quiet replaced by 
 **Secondary consequences:**
 - Inner tension from holding back
 - "I want to speak but can't" conflict
-- The error obscures that silence is natural, not forced
+- Missing that silence is natural, not forced
 
 **Cascade effects:**
-<speech-restriction-suppression> triggers <forced-silence> [willpower muteness] leads to <inner-conflict> [holding back] generates <natural-quiet-miss> [silence as ease]
+<speech-restriction-suppression> → <forced-silence> [willpower muteness] → <inner-conflict> [holding back] → <natural-quiet-miss> [silence as ease]
 
 ---
 
-<long-silence-achievement> <ring-du-bslab-pa-goal>
+[4601-4625] <long-silence-achievement> <ring-du-bslab-pa-goal>
 
 **Misreading:**
 "Train in long silence" (*ring du bslab*) interpreted as duration achievement, creating silence-length competition.
@@ -33,14 +33,14 @@ Silence-competition: measuring practice by duration. Natural silence replaced by
 **Secondary consequences:**
 - "My silence retreat was longer"
 - Pride in duration over quality
-- What remains unseen is that silence is moment-to-moment
+- Missing that silence is moment-to-moment
 
 **Cascade effects:**
 <long-silence-achievement> → <silence-competition> [duration pride] → <endurance-test> [lasting vs being] → <moment-silence-miss> [silence as now]
 
 ---
 
-<mantra-prohibition-attachment> <sngags-brjod-dgag-pa-obsession>
+[4601-4625] <mantra-prohibition-attachment> <sngags-brjod-dgag-pa-obsession>
 
 **Misreading:**
 The prohibition on mantra recitation (*sngags la sogs pa brjod pa mi bya*) interpreted as absolute ban creating anxiety about accidental recitation.
@@ -53,15 +53,15 @@ Mantra-anxiety: obsessive monitoring of speech. Natural quiet replaced by prohib
 
 **Secondary consequences:**
 - Fear of accidentally breaking silence
-- The blind spot: that prohibition is contextual
+- Missing that prohibition is contextual
 - Rule-following over recognition
 
 **Cascade effects:**
-<mantra-prohibition-attachment> triggers <rigpa-unseen>
+<mantra-prohibition-attachment> → <mantra-anxiety> [accidental speech fear] → <obsessive-monitoring> [speech checking] → <contextual-prohibition-miss> [rule as pointer]
 
 ---
 
-<three-key-points-mastery> <gnad-gsum-achievement>
+[4626-4638] <three-key-points-mastery> <gnad-gsum-achievement>
 
 **Misreading:**
 The three key points (*gnad gsum*)—gateway, field, wind-rigpa—interpreted as techniques to master, creating checklist mentality.
@@ -78,11 +78,11 @@ Key-point-mastery: treating gnad as achievements. Natural recognition replaced b
 - Technique-accumulation over recognition
 
 **Cascade effects:**
-<three-key-points-mastery> leads to <obscuration>
+<three-key-points-mastery> → <key-point-mastery> [method collecting] → <checklist-mentality> [which point?] → <single-display-miss> [three as one]
 
 ---
 
-<gateway-key-point-fixation> <sgo'i-gnad-obsession>
+[4626-4638] <gateway-key-point-fixation> <sgo'i-gnad-obsession>
 
 **Misreading:**
 The gateway key point (*sgo'i gnad*) interpreted as requiring specific eye positioning or gateway control, creating fixation on visual access.
@@ -99,11 +99,11 @@ Gateway-fixation: obsession with visual access points. Natural seeing replaced b
 - Missing that gateway is natural display
 
 **Cascade effects:**
-<gateway-key-point-fixation> leads to <gateway-fixation> [access control] → <aperture-obsession> [eye positioning] → <natural-seeing-miss> [gateway as display]
+<gateway-key-point-fixation> → <gateway-fixation> [access control] → <aperture-obsession> [eye positioning] → <natural-seeing-miss> [gateway as display]
 
 ---
 
-<field-key-point-territoriality> <yul-gnad-possession>
+[4626-4638] <field-key-point-territoriality> <yul-gnad-possession>
 
 **Misreading:**
 The field key point (*yul gyi gnad*) interpreted as establishing territorial possession over perceptual space, creating field-ownership.
@@ -120,11 +120,11 @@ Field-ownership: claiming perceptual territory. Natural field replaced by posses
 - Missing that field is open display
 
 **Cascade effects:**
-<field-key-point-territoriality> produces <rigpa-unseen>
+<field-key-point-territoriality> → <field-ownership> [territorial claim] → <possessive-space> [protecting field] → <open-display-miss> [field as natural]
 
 ---
 
-<wind-rigpa-key-point-manipulation> <rlung-rig-gnad-control>
+[4626-4638] <wind-rigpa-key-point-manipulation> <rlung-rig-gnad-control>
 
 **Misreading:**
 The wind-rigpa key point (*rlung rig gi gnad*) interpreted as requiring manipulation of subtle winds and awareness, creating energetic control obsession.
@@ -141,11 +141,11 @@ Wind-control: forcing energetic flow. Natural wind-rigpa replaced by mechanical 
 - Missing that wind-rigpa is natural
 
 **Cascade effects:**
-<wind-rigpa-key-point-manipulation> creates <wind-control> [energy forcing] → <mechanical-management> [forcing flow] → <natural-wind-miss> [wind-rigpa as ease]
+<wind-rigpa-key-point-manipulation> → <wind-control> [energy forcing] → <mechanical-management> [forcing flow] → <natural-wind-miss> [wind-rigpa as ease]
 
 ---
 
-<three-points-weapon-analogy-literalization> <gnad-gsum-mtshon-cha-fetish>
+[4639-4695] <three-points-weapon-analogy-literalization> <gnad-gsum-mtshon-cha-fetish>
 
 **Misreading:**
 The weapon analogies—arrow (*so pa*), guest (*'gron po*), trap (*jag pa*)—interpreted as establishing aggressive/defensive practice, creating martial mentality.
@@ -162,11 +162,11 @@ Weapon-fetish: treating practice as armament. Natural recognition replaced by ma
 - Missing that analogies point to naturalness
 
 **Cascade effects:**
-<three-points-weapon-analogy-literalization> creates <nature-missed>
+<three-points-weapon-analogy-literalization> → <weapon-fetish> [armament mentality] → <martial-preparation> [aggression/defense] → <analogy-pointer-miss> [weapons as metaphors]
 
 ---
 
-<three-points-less-more-confusion> <gsum-mang-tha-yas-proliferation>
+[4639-4695] <three-points-less-more-confusion> <gsum-mang-tha-yas-proliferation>
 
 **Misreading:**
 The warning about too many or too few points (*mang na mtha' yas... nyung na don mi 'grub*) interpreted as requiring exactly three, creating numerical fixation.
@@ -183,11 +183,11 @@ Numerical-obsession: fixating on quantity. Natural teaching replaced by number-c
 - Counting over recognizing
 
 **Cascade effects:**
-<three-points-less-more-confusion> generates <nature-missed>
+<three-points-less-more-confusion> → <numerical-obsession> [quantity fixation] → <number-compliance> [exact count] → <pedagogical-function-miss> [three as teaching]
 
 ---
 
-<three-body-speech-mind-restriction> <lus-ngag-sems-gcun-pa-force>
+[4639-4695] <three-body-speech-mind-restriction> <lus-ngag-sems-gcun-pa-force>
 
 **Misreading:**
 Restraining body, speech, and mind (*lus ngag sems gsum mi 'gul*) interpreted as forceful immobilization, creating rigid fixation.
@@ -204,7 +204,7 @@ Forceful-restraint: rigid immobilization. Natural ease replaced by muscular hold
 - Missing that non-movement is natural
 
 **Cascade effects:**
-<three-body-speech-mind-restriction> produces <forceful-restraint> [rigid holding] → <muscular-fixation> [tension] → <natural-ease-miss> [stillness as allowing]
+<three-body-speech-mind-restriction> → <forceful-restraint> [rigid holding] → <muscular-fixation> [tension] → <natural-ease-miss> [stillness as allowing]
 
 ---
 

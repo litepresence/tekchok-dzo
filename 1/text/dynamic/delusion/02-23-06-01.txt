@@ -1,25 +1,25 @@
-<thogal-visualization> <light-phenomena-attachment>
+[13701-13705] <thogal-visualization> <light-phenomena-attachment>
 
 **Misreading:**
-The "light entering the mother's heart" (*ma'i snying gar thim pa*) and "entering the lap" (*pang du 'jug pa*) interpreted as actual visualized light rays moving through space to a physical destination, while avoiding the natural dissolution of display into awareness.
+The "light entering the mother's heart" (*ma'i snying gar thim pa*) and "entering the lap" (*pang du 'jug pa*) interpreted as actual visualized light rays moving through space to a physical destination, rather than the natural dissolution of display into awareness.
 
 **Why it arises:**
-"Entering" suggests spatial movement. "Heart" implies location. The practitioner visualizes light-travel and not recognizing the nature of dissolution.
+"Entering" suggests spatial movement. "Heart" implies location. The practitioner visualizes light-travel rather than recognizing the nature of dissolution.
 
 **Primary consequence:**
 Spatial fixation: light becomes object moving through space. The natural dissolution (*thim pa*) is replaced by directed visualization. Recognition is lost in technique.
 
 **Secondary consequences:**
 - Light-chasing: trying to "make" light enter
-- What remains unseen is that dissolution is recognition itself
+- Missing that dissolution is recognition itself
 - Geographic confusion about "where" light goes
 
 **Cascade effects:**
-<thogal-visualization> generates <awareness-overlooked>
+<thogal-visualization> → <spatial-fixation> [light as moving object] → <dissolution-miss> [missing natural recognition] → <technique-obsession> [doing vs being]
 
 ---
 
-<trekcho-completion-achievement> <ka-dag-result>
+[13701-13705] <trekcho-completion-achievement> <ka-dag-result>
 
 **Misreading:**
 "Liberated into the ground of ka-dag" (*ka dag gi sa la grol ba*) interpreted as achieving a final state of primordial purity through the completion of trekcho practice, creating a before-and-after narrative.
@@ -32,15 +32,15 @@ Trekcho-completion project: practicing to "get" to ka-dag. The ever-present natu
 
 **Secondary consequences:**
 - Future-orientation: "when I complete trekcho"
-- What remains unseen is that ka-dag is immediate presence
+- Missing that ka-dag is immediate presence
 - Practice-anxiety about "progress"
 
 **Cascade effects:**
-<trekcho-completion-achievement> leads to <ka-dag-future> [achieving presence] generates <progress-anxiety> [completion timeline] leads to <immediate-miss> [ever-present overlooked]
+<trekcho-completion-achievement> → <ka-dag-future> [achieving presence] → <progress-anxiety> [completion timeline] → <immediate-miss> [ever-present overlooked]
 
 ---
 
-<citation-fetishism> <lung-dependence>
+[13706-13726] <citation-fetishism> <lung-dependence>
 
 **Misreading:**
 The citation from *Nyi zla kha sbyor* interpreted as establishing authority through textual reference, leading to dependence on scriptural validation rather than direct recognition.
@@ -53,21 +53,21 @@ Textual validation-seeking: "Where does it say this?" Direct experience deferred
 
 **Secondary consequences:**
 - Scripture-dependence over recognition
-- Debating citations as opposed to seeing
-- Failing to recognize that citation points to experience
+- Debating citations rather than seeing
+- Missing that citation points to experience
 
 **Cascade effects:**
-<citation-fetishism> triggers <scripture-dependence> [external validation] triggers <experience-deferral> [text over seeing] produces <citation-debate> [argument over practice]
+<citation-fetishism> → <scripture-dependence> [external validation] → <experience-deferral> [text over seeing] → <citation-debate> [argument over practice]
 
 ---
 
-<bindu-materialization> <thig-le-vision-chasing>
+[13724-13733] <bindu-materialization> <thig-le-vision-chasing>
 
 **Misreading:**
-The "extremely subtle light appearing from the heart" (*snying gar 'od shin tu phra ba cig 'char*) and "bindus appearing on the light-ray" (*zer thig de la yang thig le phra mo*) interpreted as actual visual phenomena to seek and observe, but not the natural display of awareness.
+The "extremely subtle light appearing from the heart" (*snying gar 'od shin tu phra ba cig 'char*) and "bindus appearing on the light-ray" (*zer thig de la yang thig le phra mo*) interpreted as actual visual phenomena to seek and observe, rather than the natural display of awareness.
 
 **Why it arises:**
-"Light" suggests visible phenomenon. "Appearing" implies observation. The practitioner looks for lights instead of recognizing awareness-display.
+"Light" suggests visible phenomenon. "Appearing" implies observation. The practitioner looks for lights rather than recognizing awareness-display.
 
 **Primary consequence:**
 Vision-hunting: seeking specific light-phenomena. Natural clarity is replaced by expectation of special experiences.
@@ -75,14 +75,14 @@ Vision-hunting: seeking specific light-phenomena. Natural clarity is replaced by
 **Secondary consequences:**
 - Disappointment when no lights appear
 - Manufacturing visions through expectation
-- The crucial omission: that display is awareness-nature
+- Missing that display is awareness-nature
 
 **Cascade effects:**
-<bindu-materialization> generates <nature-missed>
+<bindu-materialization> → <vision-chasing> [seeking lights] → <expectation-manufacturing> [creating experiences] → <natural-display-miss> [awareness overlooked]
 
 ---
 
-<four-wisdom-achievement> <ye-shes-bzhi-practice>
+[13735-13776] <four-wisdom-achievement> <ye-shes-bzhi-practice>
 
 **Misreading:**
 The four wisdoms (*ye shes bzhi*)—mirror-like, equality, discrimination, all-accomplishing—interpreted as four attainments to achieve through practice, creating checklist mentality.
@@ -95,7 +95,7 @@ Wisdom-collecting: treating the four as achievements to unlock. Natural wisdom i
 
 **Secondary consequences:**
 - Sequential fixation: "I need to get mirror-like first"
-- Overlooking that all four are aspects of single awareness
+- Missing that all four are aspects of single awareness
 - Practice-anxiety about "getting" wisdoms
 
 **Cascade effects:**
@@ -103,13 +103,13 @@ Wisdom-collecting: treating the four as achievements to unlock. Natural wisdom i
 
 ---
 
-<blue-curtain-fixation> <mthing-ga-snam-bu>
+[13737-13754] <blue-curtain-fixation> <mthing-ga-snam-bu>
 
 **Misreading:**
 The "blue curtain" (*mthing ga'i snam bu*)—the field of blue light—interpreted as a specific visionary target to stabilize and maintain, creating fixation on blue appearance.
 
 **Why it arises:**
-"Blue" suggests color to see. "Curtain" implies phenomenon. The practitioner stabilizes on blue but not recognizing mirror-like wisdom.
+"Blue" suggests color to see. "Curtain" implies phenomenon. The practitioner stabilizes on blue rather than recognizing mirror-like wisdom.
 
 **Primary consequence:**
 Color-fixation: obsession with blue field. The mirror-like nature is missed in favor of blue appearance.
@@ -117,14 +117,14 @@ Color-fixation: obsession with blue field. The mirror-like nature is missed in f
 **Secondary consequences:**
 - Anxiety about "losing" the blue
 - Discrimination between good/bad visions
-- The blind spot: that blue is self-display of awareness
+- Missing that blue is self-display of awareness
 
 **Cascade effects:**
-<blue-curtain-fixation> creates <color-attachment> [fixating on blue] → <stability-anxiety> [maintaining vision] → <mirror-wisdom-miss> [missing nature]
+<blue-curtain-fixation> → <color-attachment> [fixating on blue] → <stability-anxiety> [maintaining vision] → <mirror-wisdom-miss> [missing nature]
 
 ---
 
-<wisdom-radiance-addiction> <ye-shes-gting-gdangs>
+[13744-13784] <wisdom-radiance-addiction> <ye-shes-gting-gdangs>
 
 **Misreading:**
 The "wisdom depth-radiance" (*ye shes kyi gting gdangs*) interpreted as special luminous intensity to cultivate and increase, creating attachment to clarity states.
@@ -138,35 +138,35 @@ Radiance-chasing: seeking and maintaining luminous experiences. Natural luminosi
 **Secondary consequences:**
 - Anxiety about "losing" radiance
 - Rejection of "dim" states
-- Not seeing that all experience is wisdom-display
+- Missing that all experience is wisdom-display
 
 **Cascade effects:**
-<wisdom-radiance-addiction> produces <radiance-chasing> [seeking intensity] → <clarity-anxiety> [losing it] → <natural-luminosity-miss> [all is wisdom]
+<wisdom-radiance-addiction> → <radiance-chasing> [seeking intensity] → <clarity-anxiety> [losing it] → <natural-luminosity-miss> [all is wisdom]
 
 ---
 
-<thig-le-five-color-fixation> <kha-dog-lnga-compartmentalization>
+[13751-13784] <thig-le-five-color-fixation> <kha-dog-lnga-compartmentalization>
 
 **Misreading:**
 The bindus with five colors (*thig le 'od lnga*) interpreted as five distinct phenomena to be seen separately, creating compartmentalized vision-obsession about color arrangement.
 
 **Why it arises:**
-"Five" suggests enumeration. "Colors" implies distinct phenomena. The practitioner catalogs colors but not recognizing five-wisdom unity.
+"Five" suggests enumeration. "Colors" implies distinct phenomena. The practitioner catalogs colors rather than recognizing five-wisdom unity.
 
 **Primary consequence:**
 Color-compartmentalization: treating five colors as separate things. The indivisibility of five wisdoms is lost.
 
 **Secondary consequences:**
 - Cataloging visions: "I saw red, then blue..."
-- The error obscures that colors are wisdom-display
+- Missing that colors are wisdom-display
 - Preference for certain colors over others
 
 **Cascade effects:**
-<thig-le-five-color-fixation> leads to <recognition-blocked>
+<thig-le-five-color-fixation> → <color-compartmentalization> [separate phenomena] → <vision-cataloging> [inventory of sights] → <wisdom-unity-miss> [indivisibility lost]
 
 ---
 
-<mirror-analogy-misunderstanding> <me-long-externalization>
+[13764-13784] <mirror-analogy-misunderstanding> <me-long-externalization>
 
 **Misreading:**
 The mirror-like wisdom (*me long lta bu'i ye shes*) interpreted through the analogy of actual mirrors and reflections, creating dualism between "mirror" (awareness) and "reflections" (appearances).
@@ -180,20 +180,20 @@ Mirror-fetish: seeking awareness apart from appearances. The indivisibility of m
 **Secondary consequences:**
 - Rejection of appearances to find "pure" awareness
 - Dualistic meditation: "rest in the mirror"
-- The crucial omission: that mirror IS the reflections
+- Missing that mirror IS the reflections
 
 **Cascade effects:**
-<mirror-analogy-misunderstanding> creates <mirror-fetish> [pure awareness apart] → <appearance-rejection> [seeking behind reflections] → <indivisibility-miss> [dualistic meditation]
+<mirror-analogy-misunderstanding> → <mirror-fetish> [pure awareness apart] → <appearance-rejection> [seeking behind reflections] → <indivisibility-miss> [dualistic meditation]
 
 ---
 
-<equality-wisdom-intellectualization> <mnyam-nyid-conceptualization>
+[13776-13816] <equality-wisdom-intellectualization> <mnyam-nyid-conceptualization>
 
 **Misreading:**
 The equality wisdom (*mnyam pa nyid kyi ye shes*) interpreted as philosophical position about equality of all phenomena, leading to conceptual meditation on "everything is equal."
 
 **Why it arises:**
-"Equality" suggests concept. "Wisdom" implies understanding. The practitioner thinks about equality in contrast to resting in equal nature.
+"Equality" suggests concept. "Wisdom" implies understanding. The practitioner thinks about equality rather than resting in equal nature.
 
 **Primary consequence:**
 Conceptual-equality: "All is equal" as thought. The natural equality is replaced by philosophical position.
@@ -204,11 +204,11 @@ Conceptual-equality: "All is equal" as thought. The natural equality is replaced
 - "Everything is equal" as dismissive bypass
 
 **Cascade effects:**
-<equality-wisdom-intellectualization> creates <conceptual-equality> [thought about equal] → <philosophical-pride> [understanding vs being] → <natural-equality-miss> [position over nature]
+<equality-wisdom-intellectualization> → <conceptual-equality> [thought about equal] → <philosophical-pride> [understanding vs being] → <natural-equality-miss> [position over nature]
 
 ---
 
-<discrimination-wisdom-analytical-obsession> <so-sor-rtog-pa-investigation>
+[13798-13816] <discrimination-wisdom-analytical-obsession> <so-sor-rtog-pa-investigation>
 
 **Misreading:**
 The discrimination wisdom (*so sor rtog pa'i ye shes*) interpreted as analytical investigation of phenomena, leading to obsessive discernment practice.
@@ -225,11 +225,11 @@ Analytical-obsession: endless investigation of appearances. The natural discernm
 - Deferring recognition until "analysis complete"
 
 **Cascade effects:**
-<discrimination-wisdom-analytical-obsession> creates <ground-ignored>
+<discrimination-wisdom-analytical-obsession> → <analytical-compulsion> [investigation obsession] → <spontaneous-discernment-miss> [natural clarity overlooked] → <intellectual-proliferation> [thinking vs seeing]
 
 ---
 
-<all-accomplishing-incomplete> <bya-grub-rtsal-ma-rdzogs>
+[13811-13819] <all-accomplishing-incomplete> <bya-grub-rtsal-ma-rdzogs>
 
 **Misreading:**
 The all-accomplishing wisdom (*bya ba grub pa'i ye shes*) appearing "incomplete" (*rtsal ma rdzogs*) interpreted as failure to achieve full enlightenment, creating deficiency-anxiety about "unfinished" practice.
@@ -246,11 +246,11 @@ Deficiency-anxiety: "My wisdom is incomplete." Natural completeness is obscured 
 - Practice-anxiety about "getting there"
 
 **Cascade effects:**
-<all-accomplishing-incomplete> triggers <deficiency-anxiety> [sense of lack] → <future-fixation> [awaiting completion] → <natural-completeness-miss> [already accomplished]
+<all-accomplishing-incomplete> → <deficiency-anxiety> [sense of lack] → <future-fixation> [awaiting completion] → <natural-completeness-miss> [already accomplished]
 
 ---
 
-<spontaneous-presence-achievement> <lhun-grub-rin-po-che>
+[13820-13856] <spontaneous-presence-achievement> <lhun-grub-rin-po-che>
 
 **Misreading:**
 The "jewel-like appearance of spontaneous presence" (*lhun grub rin po che'i snang ba*) interpreted as precious visionary attainment to achieve through practice, commodifying lhun-grub.
@@ -267,11 +267,11 @@ Lhun-grub-commodification: treating spontaneous presence as product. Natural spo
 - Missing that spontaneity cannot be achieved
 
 **Cascade effects:**
-<spontaneous-presence-achievement> generates <lhun-grub-commodification> [product to acquire] → <production-mentality> [making spontaneity] → <natural-spontaneity-miss> [achievement paradox]
+<spontaneous-presence-achievement> → <lhun-grub-commodification> [product to acquire] → <production-mentality> [making spontaneity] → <natural-spontaneity-miss> [achievement paradox]
 
 ---
 
-<eight-arising-modes-cataloging> <shar-lugs-brgyad-obsession>
+[13850-13896] <eight-arising-modes-cataloging> <shar-lugs-brgyad-obsession>
 
 **Misreading:**
 The eight modes of arising (*shar lugs brgyad*) interpreted as eight distinct visionary patterns to identify and catalog, creating taxonomic obsession about appearance-types.
@@ -288,11 +288,11 @@ Taxonomic-obsession: "Which mode is this?" The natural arising is missed in favo
 - Missing that modes are single display
 
 **Cascade effects:**
-<eight-arising-modes-cataloging> → <awareness-overlooked>
+<eight-arising-modes-cataloging> → <taxonomic-obsession> [classification mania] → <vision-cataloging> [inventory over recognition] → <single-display-miss> [modes as one]
 
 ---
 
-<compassion-appearance-attachment> <thugs-rje-fixation>
+[13857-13896] <compassion-appearance-attachment> <thugs-rje-fixation>
 
 **Misreading:**
 "Arising like compassion" (*thugs rje ltar shar ba*) interpreted as establishing compassion as special quality of display, creating attachment to "compassionate" visions over others.
@@ -309,11 +309,11 @@ Compassion-discrimination: preferring certain displays. The equal nature of all 
 - Missing that all arising is compassionate display
 
 **Cascade effects:**
-<compassion-appearance-attachment> generates <compassion-discrimination> [preferential recognition] → <selective-vision> [rejecting some displays] → <equal-nature-miss> [all is compassion]
+<compassion-appearance-attachment> → <compassion-discrimination> [preferential recognition] → <selective-vision> [rejecting some displays] → <equal-nature-miss> [all is compassion]
 
 ---
 
-<sambhogakaya-wrathful-peaceful-dualism> <longs-sku-khro-zhi-separation>
+[13869-13896] <sambhogakaya-wrathful-peaceful-dualism> <longs-sku-khro-zhi-separation>
 
 **Misreading:**
 The wrathful (*khro bo*) and peaceful (*zhi ba*) sambhogakaya displays interpreted as two distinct types of appearance requiring different responses, creating dualistic approach to kayas.
@@ -330,11 +330,11 @@ Kaya-dualism: different approaches to wrathful/peaceful. The single nature of bo
 - Missing that both are self-display
 
 **Cascade effects:**
-<sambhogakaya-wrathful-peaceful-dualism> creates <awareness-overlooked>
+<sambhogakaya-wrathful-peaceful-dualism> → <kaya-dualism> [different responses] → <wrathful-fear> [danger perception] → <single-nature-miss> [both are display]
 
 ---
 
-<mahapradzna-arrow-literalization> <dpag-chen-mdar-force>
+[13880-13896] <mahapradzna-arrow-literalization> <dpag-chen-mdar-force>
 
 **Misreading:**
 The "arrow of mahapradzna shot without return" (*dpag chen gyi mda' phyir 'phangs pa thogs med du song*) interpreted as aggressive forceful intervention to "shoot through" obstacles, creating violent approach to recognition.
@@ -347,15 +347,15 @@ Aggressive-intervention: forcing recognition. The natural non-return is replaced
 
 **Secondary consequences:**
 - Battle mentality toward mind
-- Forcing clarity in contrast to allowing
+- Forcing clarity rather than allowing
 - Missing that non-return is natural, not forced
 
 **Cascade effects:**
-<mahapradzna-arrow-literalization> leads to <aggressive-intervention> [forcing recognition] → <battle-mentality> [war with mind] → <natural-non-return-miss> [effort vs allowing]
+<mahapradzna-arrow-literalization> → <aggressive-intervention> [forcing recognition] → <battle-mentality> [war with mind] → <natural-non-return-miss> [effort vs allowing]
 
 ---
 
-<rainbow-body-materialization> <lu-gu-rgyud-physicalization>
+[13897-13909] <rainbow-body-materialization> <lu-gu-rgyud-physicalization>
 
 **Misreading:**
 The rainbow body (*lu gu rgyud*) and light-phenomena interpreted as physical transformation to achieve, creating body-obsession about dissolution signs.
@@ -376,7 +376,7 @@ Body-materialization: looking for physical dissolution. Natural display is obscu
 
 ---
 
-<six-recollections-compartmentalization> <rjes-dran-drug-checklist>
+[13910-13928] <six-recollections-compartmentalization> <rjes-dran-drug-checklist>
 
 **Misreading:**
 The six recollections (*rjes dran drug*)—guru, path, birth, samadhi, instructions, view—interpreted as six practices to complete sequentially, creating checklist mentality.
@@ -390,14 +390,14 @@ Recollection-checklist: going through six items. Natural recognition is replaced
 **Secondary consequences:**
 - Missing that all six are single recognition
 - Anxiety about "remembering" all six
-- Mechanical recitation rather than than recognition
+- Mechanical recitation rather than recognition
 
 **Cascade effects:**
-<six-recollections-compartmentalization> creates <recollection-checklist> [sequential practice] → <memory-anxiety> [remembering all] → <single-recognition-miss> [six as one]
+<six-recollections-compartmentalization> → <recollection-checklist> [sequential practice] → <memory-anxiety> [remembering all] → <single-recognition-miss> [six as one]
 
 ---
 
-<guru-vision-dependence> <blama-appearance-reliance>
+[13921-13928] <guru-vision-dependence> <blama-appearance-reliance>
 
 **Misreading:**
 The "guru appearing in space" (*blama rjes su dran ma thag nam mkha' la byon*) interpreted as actual guru manifestation to wait for, creating dependence on visionary validation.
@@ -411,14 +411,14 @@ Visionary-dependence: waiting for guru appearance. Self-recognition is deferred 
 **Secondary consequences:**
 - Missing that guru-appearance is self-display
 - Disappointment when guru doesn't appear
-- External seeking rather than than recognition
+- External seeking rather than recognition
 
 **Cascade effects:**
-<guru-vision-dependence> generates <visionary-dependence> [waiting for appearance] → <self-recognition-deferral> [external vs internal] → <appearance-disappointment> [missing nature]
+<guru-vision-dependence> → <visionary-dependence> [waiting for appearance] → <self-recognition-deferral> [external vs internal] → <appearance-disappointment> [missing nature]
 
 ---
 
-<yidam-vision-fetish> <lha-zhal-mthong-addiction>
+[13924-13928] <yidam-vision-fetish> <lha-zhal-mthong-addiction>
 
 **Misreading:**
 The "seeing the yidam's face" (*lha'i zhal mthong ba*) interpreted as visionary goal to achieve, creating deity-appearance obsession.
@@ -435,11 +435,11 @@ Deity-appearance-addiction: seeking yidam visions. Natural display is obscured b
 - Missing that all display is yidam-nature
 
 **Cascade effects:**
-<yidam-vision-fetish> generates <deity-appearance-addiction> [vision chasing] → <manufactured-visions> [creating appearances] → <natural-display-miss> [all is yidam]
+<yidam-vision-fetish> → <deity-appearance-addiction> [vision chasing] → <manufactured-visions> [creating appearances] → <natural-display-miss> [all is yidam]
 
 ---
 
-<view-recollection-intellectualization> <lta-ba-rjes-dran-concept>
+[13928-13944] <view-recollection-intellectualization> <lta-ba-rjes-dran-concept>
 
 **Misreading:**
 The "recollection of view" (*lta ba rjes su dran pa*) interpreted as remembering conceptual understanding of view, leading to philosophical rehearsal.
@@ -453,14 +453,14 @@ Conceptual-rehearsal: "The view is emptiness..." Direct recognition is replaced 
 **Secondary consequences:**
 - Philosophical pride: "I know the view"
 - Missing that view is immediate seeing
-- Thinking about view rather than than resting in it
+- Thinking about view rather than resting in it
 
 **Cascade effects:**
 <view-recollection-intellectualization> → <conceptual-rehearsal> [mental repetition] → <philosophical-pride> [knowing vs seeing] → <immediate-view-miss> [thinking over being]
 
 ---
 
-<six-clairvoyances-cataloging> <mngon-shes-drug-enumeration>
+[13945-13961] <six-clairvoyances-cataloging> <mngon-shes-drug-enumeration>
 
 **Misreading:**
 The six clairvoyances (*mngon shes drug*) with thirty-six subdivisions interpreted as psychic powers to develop and catalog, creating supernatural-ability obsession.
@@ -477,11 +477,11 @@ Clairvoyance-collecting: pursuing psychic abilities. Natural clarity is obscured
 - Supernatural-power arrogance
 
 **Cascade effects:**
-<six-clairvoyances-cataloging> creates <clairvoyance-collecting> [power pursuit] → <psychic-pride> [ability arrogance] → <natural-clarity-miss> [display as power]
+<six-clairvoyances-cataloging> → <clairvoyance-collecting> [power pursuit] → <psychic-pride> [ability arrogance] → <natural-clarity-miss> [display as power]
 
 ---
 
-<divine-eye-hierarchy> <lha-mig-levels>
+[13983-13996] <divine-eye-hierarchy> <lha-mig-levels>
 
 **Misreading:**
 The levels of divine eye (*lha'i mig*)—seeing one world-system, two, three, up to countless—interpreted as spiritual hierarchy to climb, creating competitive progression mindset.
@@ -502,7 +502,7 @@ Clairvoyance-competition: "I can see more worlds than you." Natural vision is ob
 
 ---
 
-<divine-ear-sensationalism> <lha-rna-sound-addiction>
+[14004-14018] <divine-ear-sensationalism> <lha-rna-sound-addiction>
 
 **Misreading:**
 The divine ear (*lha'i rna*) hearing increasingly vast ranges interpreted as supernatural hearing ability to develop, creating sound-addiction and eavesdropping obsession.
@@ -519,11 +519,11 @@ Sound-addiction: pursuing clairaudience. Natural hearing is obscured by supernat
 - Sensory overload from "opening" hearing
 
 **Cascade effects:**
-<divine-ear-sensationalism> generates <rigpa-unseen>
+<divine-ear-sensationalism> → <sound-addiction> [hearing obsession] → <eavesdropping-compulsion> [listening to others] → <natural-hearing-miss> [sound as display]
 
 ---
 
-<divine-smell-fetish> <lha-sna-olfactory-obsession>
+[14019-14026] <divine-smell-fetish> <lha-sna-olfactory-obsession>
 
 **Misreading:**
 The divine nose (*lha'i sna*) smelling increasingly subtle fragrances interpreted as olfactory enhancement to pursue, creating scent-obsession.
@@ -540,11 +540,11 @@ Scent-obsession: seeking subtle fragrances. Natural perception is obscured by ol
 - Sensory discrimination based on scent
 
 **Cascade effects:**
-<divine-smell-fetish> produces <scent-obsession> [fragrance pursuit] → <olfactory-discrimination> [pure vs impure smells] → <natural-perception-miss> [scent as display]
+<divine-smell-fetish> → <scent-obsession> [fragrance pursuit] → <olfactory-discrimination> [pure vs impure smells] → <natural-perception-miss> [scent as display]
 
 ---
 
-<divine-taste-hedonism> <lha-lce-flavor-addiction>
+[14027-14033] <divine-taste-hedonism> <lha-lce-flavor-addiction>
 
 **Misreading:**
 The divine tongue (*lha'i lce*) tasting ambrosia (*bdud rtsi*) interpreted as gustatory enhancement for sensory pleasure, creating taste-addiction.
@@ -561,11 +561,11 @@ Flavor-addiction: seeking ambrosial tastes. Natural taste is obscured by gustato
 - Sensory seeking disguised as practice
 
 **Cascade effects:**
-<divine-taste-hedonism> generates <flavor-addiction> [taste pursuit] → <gustatory-hedonism> [sensory pleasure] → <natural-taste-miss> [flavor as display]
+<divine-taste-hedonism> → <flavor-addiction> [taste pursuit] → <gustatory-hedonism> [sensory pleasure] → <natural-taste-miss> [flavor as display]
 
 ---
 
-<divine-body-contact-fixation> <lha-lus-touch-obsession>
+[14034-14041] <divine-body-contact-fixation> <lha-lus-touch-obsession>
 
 **Misreading:**
 The divine body (*lha'i lus*) contact with increasingly subtle forms interpreted as tactile enhancement to pursue, creating touch-addiction.
@@ -582,11 +582,11 @@ Touch-addiction: seeking refined tactile experiences. Natural touch is obscured 
 - Sensory seeking as spiritual practice
 
 **Cascade effects:**
-<divine-body-contact-fixation> triggers <touch-addiction> [tactile pursuit] → <sensory-preference> [seeking refined touch] → <natural-touch-miss> [contact as display]
+<divine-body-contact-fixation> → <touch-addiction> [tactile pursuit] → <sensory-preference> [seeking refined touch] → <natural-touch-miss> [contact as display]
 
 ---
 
-<mental-clairvoyance-control> <yid-kyi-mngon-shes-dominion>
+[14042-14061] <mental-clairvoyance-control> <yid-kyi-mngon-shes-dominion>
 
 **Misreading:**
 The mental clairvoyance (*yid kyi mngon shes*) controlling increasingly vast numbers of samadhis interpreted as mental domination and power over experience, creating control-obsession.
@@ -603,11 +603,11 @@ Mental-dominion: seeking control over samadhis. Natural mind is obscured by powe
 - Control-freak mentality as practice
 
 **Cascade effects:**
-<mental-clairvoyance-control> creates <mental-dominion> [power seeking] → <spiritual-arrogance> [mastery pride] → <natural-mind-miss> [control over display]
+<mental-clairvoyance-control> → <mental-dominion> [power seeking] → <spiritual-arrogance> [mastery pride] → <natural-mind-miss> [control over display]
 
 ---
 
-<mind-made-serviceability-misunderstanding> <sems-las-su-rung-ba>
+[14062-14076] <mind-made-serviceability-misunderstanding> <sems-las-su-rung-ba>
 
 **Misreading:**
 The mind-made-serviceable clairvoyances (*sems las su rung ba'i mngon shes*) interpreted as making mind obedient to will, creating subservience-obsession about controlling one's own mind.
@@ -624,11 +624,11 @@ Mind-control-project: forcing mind into obedience. Natural serviceability is obs
 - Self-aggression as practice
 
 **Cascade effects:**
-<mind-made-serviceability-misunderstanding> creates <rigpa-unseen>
+<mind-made-serviceability-misunderstanding> → <mind-control-project> [forcing obedience] → <inner-conflict> [mind vs self] → <natural-serviceability-miss> [domination over allowing]
 
 ---
 
-<affliction-wisdom-confusion> <nyon-mongs-ye-shes-conflation>
+[14076-14100] <affliction-wisdom-confusion> <nyon-mongs-ye-shes-conflation>
 
 **Misreading:**
 The statement that afflictions become wisdom (*nyon mongs lnga gnas gyur pas ye shes su gyur*) interpreted literally as afflictions transforming into wisdom, creating permission for unexamined emotional expression.
@@ -645,11 +645,11 @@ Affliction-expression: justifying emotions as wisdom. Discrimination is abandone
 - Harmful behavior justified as "wisdom display"
 
 **Cascade effects:**
-<affliction-wisdom-confusion> leads to <affliction-expression> [emotion as wisdom] → <discrimination-abandonment> [no discernment] → <harmful-behavior> [wisdom-justified harm]
+<affliction-wisdom-confusion> → <affliction-expression> [emotion as wisdom] → <discrimination-abandonment> [no discernment] → <harmful-behavior> [wisdom-justified harm]
 
 ---
 
-<past-life-recollection-obsession> <sngon-gyi-skye-ba-dran-pa>
+[14077-14100] <past-life-recollection-obsession> <sngon-gyi-skye-ba-dran-pa>
 
 **Misreading:**
 The past life recollection (*sngon gyi skye ba dran pa*) interpreted as fascination with previous identities, creating past-life tourism and identity-attachment.
@@ -666,7 +666,7 @@ Past-life-tourism: seeking previous identities. Recognition is replaced by histo
 - Identity-continuity obsession
 
 **Cascade effects:**
-<past-life-recollection-obsession> triggers <recognition-blocked>
+<past-life-recollection-obsession> → <past-life-tourism> [identity curiosity] → <status-attachment> [past life prestige] → <single-display-miss> [all lives as one]
 
 ---
 

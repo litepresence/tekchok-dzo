@@ -1,4 +1,4 @@
-<ontological-error> <seven-bases-reification>
+[10472-10477] <ontological-error> <seven-bases-reification>
 
 **Misreading:**
 The seven bases (gzhi bdun) interpreted as seven ontologically distinct ways that reality actually exists—seven different metaphysical systems each claiming truth about the basis.
@@ -13,11 +13,11 @@ Dzogchen becomes doxographic cafeteria—practitioners pick which "base" appeals
 Practitioners debate which base is "correct." Lineages identify with specific bases. The single nature of rigpa is obscured by sevenfold proliferation.
 
 **Cascade effects:**
-<ontological-error> creates <ground-ignored>
+<ontological-error> → <doxographic-confusion> → <base-selection> → <non-duality-fragmentation>
 
 ---
 
-<view-fetishism> <base-grasping>
+[10478-10486] <view-fetishism> <base-grasping>
 
 **Misreading:**
 The seven views as legitimate alternatives—each capturing some aspect of truth, with practitioners free to adopt whichever view resonates with their disposition.
@@ -32,7 +32,7 @@ Dzogchen reduced to seven philosophical options. Practitioners shop for preferre
 View relativism dominates. Critique of fixation dismissed as "intolerance." The single flavor of realization is obscured by perspectivalism.
 
 **Cascade effects:**
-<view-fetishism> leads to <philosophical-consumerism> leads to <critique-neglect> → <realization-obscuration>
+<view-fetishism> → <philosophical-consumerism> → <critique-neglect> → <realization-obscuration>
 
 ---
 
@@ -51,7 +51,7 @@ Ka dag temporalized as original state. Practitioners seek to "return" to primord
 Purification practices justified as "returning to original." Present awareness seen as "fallen." Nostalgia for primordial state dominates.
 
 **Cascade effects:**
-<eternalistic-error> generates <temporal-purity> → <nostalgia-obsession> → <present-rejection>
+<eternalistic-error> → <temporal-purity> → <nostalgia-obsession> → <present-rejection>
 
 ---
 
@@ -70,7 +70,7 @@ Awareness substantialized as quality-possessor. Practitioners expect to "discove
 Quality-mining mentality. Practitioners dig for inherent Buddha-attributes. Dzogchen becomes treasure hunt for hidden qualities.
 
 **Cascade effects:**
-<reification-error> triggers <quality-possession> → <attribution-obsession> → <emptiness-miss>
+<reification-error> → <quality-possession> → <attribution-obsession> → <emptiness-miss>
 
 ---
 
@@ -89,7 +89,7 @@ Awareness reduced to blank void. Practitioners cultivate empty states. The lumin
 Dull meditation mistaken for ka dag. Practitioners pride themselves on "not knowing." The discerning wisdom of rigpa atrophies.
 
 **Cascade effects:**
-<nihilistic-error> → <recognition-blocked>
+<nihilistic-error> → <void-fixation> → <dullness-cultivation> → <clarity-obscuration>
 
 ---
 
@@ -127,7 +127,7 @@ Awareness treated as raw material for practice. Recognition displaced by transfo
 Practice obsession dominates. Recognition never "complete enough." Dzogchen becomes endless self-improvement project.
 
 **Cascade effects:**
-<practice-error> leads to <transformation-obsession> → <completeness-denial> → <endless-practice>
+<practice-error> → <transformation-obsession> → <completeness-denial> → <endless-practice>
 
 ---
 
@@ -146,7 +146,7 @@ Awareness substantialized as container-space. Subject-object duality maintained.
 Practitioners cultivate spacious acceptance. Phenomena are "allowed" by awareness. Co-emergence is lost in subject-object model.
 
 **Cascade effects:**
-<ontological-error> generates <container-model> → <subject-object> → <co-emergence-miss>
+<ontological-error> → <container-model> → <subject-object> → <co-emergence-miss>
 
 ---
 
@@ -165,11 +165,11 @@ Dzogchen reduced to aesthetic appreciation. Practitioners chase diverse experien
 Experience-collecting mentality. Practitioners seek "variety" in practice. The sameness of samsara-nirvana is missed.
 
 **Cascade effects:**
-<multiplicity-fetish> triggers <diversity-chasing> → <single-taste-miss> → <experience-accumulation>
+<multiplicity-fetish> → <diversity-chasing> → <single-taste-miss> → <experience-accumulation>
 
 ---
 
-<perspectivalism-error> <aspect-fixation
+[10487-10496] <perspectivalism-error> <aspect-fixation
 
 **Misreading:**
 "Seven views are all posited merely by seeing one limited aspect" interpreted as perspectival truth—all views are partially true, capturing different aspects of the whole.
@@ -184,11 +184,11 @@ Dzogchen becomes perspectivalism—seven partial truths. The critique of fixatio
 Critique of views dismissed as "intolerance." Practitioners feel justified in their preferred view. The thoroughgoing refutation is ignored.
 
 **Cascade effects:**
-<perspectivalism-error> creates <awareness-overlooked>
+<perspectivalism-error> → <partial-truth> → <critique-dismissal> → <thorough-recognition-miss>
 
 ---
 
-<solar-metaphor-literalization> <sun-rays-duality
+[10490-10491] <solar-metaphor-literalization> <sun-rays-duality
 
 **Misreading:**
 "Spontaneously possessing all qualities like the sun and its rays" interpreted as establishing a model of essence and expression—awareness as sun, qualities as rays, two related but distinct entities.
@@ -203,7 +203,7 @@ Awareness and display are reified as sun-rays duality. Essence-expression model 
 Practitioners seek "sun" beyond "rays." Display treated as secondary. The indivisibility of emptiness and appearance is lost.
 
 **Cascade effects:**
-<solar-metaphor-literalization> produces <recognition-blocked>
+<solar-metaphor-literalization> → <essence-expression> → <core-periphery> → <indivisibility-miss>
 
 ---
 
@@ -222,7 +222,7 @@ Practitioners become view-paranoid, unable to say anything. All positions reject
 Communication breakdown. Teaching impossible. Practitioners pride themselves on having "no view." The precise Dzogchen view is obscured.
 
 **Cascade effects:**
-<freedom-from-extremes-fetish> generates <position-paranoia> → <speechless-pride> → <view-obscuration>
+<freedom-from-extremes-fetish> → <position-paranoia> → <speechless-pride> → <view-obscuration>
 
 ---
 
@@ -241,11 +241,11 @@ Awareness substantialized as frozen essence. Practitioners seek static meditatio
 Dull stability mistaken for ka dag. Practitioners reject change as "not it." The flowing display is seen as obstacle.
 
 **Cascade effects:**
-<changeless-fetish> creates <stasis-seeking> → <dull-meditation> → <dynamic-display-rejection>
+<changeless-fetish> → <stasis-seeking> → <dull-meditation> → <dynamic-display-rejection>
 
 ---
 
-<tantra-quotation-proof> <scriptural-validation
+[10498-10535] <tantra-quotation-proof> <scriptural-validation
 
 **Misreading:**
 The extensive tantra quotations interpreted as proof-texting—scriptural evidence establishing the validity of the seven bases presentation.
@@ -254,17 +254,17 @@ The extensive tantra quotations interpreted as proof-texting—scriptural eviden
 Multiple citations suggest building case. Tantra names carry authority. Quotation format resembles proof-texting.
 
 **Primary consequence:**
-Seven bases accepted because "in tantras" while avoiding recognized directly. Authority located in scripture yet not experience.
+Seven bases accepted because "in tantras" rather than recognized directly. Authority located in scripture rather than experience.
 
 **Secondary consequences:**
 Canonical fundamentalism. Alternative presentations rejected as "not in tantra." Dzogchen becomes scriptural literalism.
 
 **Cascade effects:**
-<tantra-quotation-proof> generates <scriptural-fundamentalism> → <authority-externalization> → <direct-recognition-loss>
+<tantra-quotation-proof> → <scriptural-fundamentalism> → <authority-externalization> → <direct-recognition-loss>
 
 ---
 
-<polemical-dismissing> <other-views-contempt
+[10536-10547] <polemical-dismissing> <other-views-contempt
 
 **Misreading:**
 The refutation of the seven bases interpreted as establishing Dzogchen superiority—our view refutes theirs, making ours the correct one.
@@ -273,13 +273,13 @@ The refutation of the seven bases interpreted as establishing Dzogchen superiori
 Polemical tone invites partisan reading. Refutation suggests competition. Victory in debate implies truth.
 
 **Primary consequence:**
-Dzogchen becomes sectarian triumphalism. Practitioners look down on other views. The critique is used for superiority rather than than self-recognition.
+Dzogchen becomes sectarian triumphalism. Practitioners look down on other views. The critique is used for superiority rather than self-recognition.
 
 **Secondary consequences:**
 Inter-view hostility. Debate obsession. The self-reflexive nature of critique (seeing one's own fixation) is missed.
 
 **Cascade effects:**
-<polemical-dismissing> → <ground-ignored>
+<polemical-dismissing> → <sectarian-superiority> → <debate-obsession> → <self-reflexive-miss>
 
 ---
 
@@ -298,11 +298,11 @@ Critique softened into "everyone has some truth." The thoroughgoing error of fix
 No view thoroughly abandoned. All views maintained as "partial truth." The single nature of recognition is lost in perspectivalism.
 
 **Cascade effects:**
-<elephant-parable-literalization> generates <partial-truth> → <thorough-abandonment-miss> → <perspectival-dzogchen>
+<elephant-parable-literalization> → <partial-truth> → <thorough-abandonment-miss> → <perspectival-dzogchen>
 
 ---
 
-<spontaneous-accomplishment-fetish> <effortless-justification
+[10540-10547] <spontaneous-accomplishment-fetish> <effortless-justification
 
 **Misreading:**
 The critique of lhun grub interpreted as establishing that "spontaneously accomplished" is an error—practitioners should avoid this view and adopt the critique as correct view.
@@ -317,11 +317,11 @@ Critique reified as alternative view. Practitioners adopt "anti-lhun-grub" posit
 Endless debate about lhun grub. No recognition beyond views. The view-transcending nature of Dzogchen is obscured by view-battle.
 
 **Cascade effects:**
-<spontaneous-accomplishment-fetish> produces <view-tennis> → <debate-endlessness> → <recognition-obscuration>
+<spontaneous-accomplishment-fetish> → <view-tennis> → <debate-endlessness> → <recognition-obscuration>
 
 ---
 
-<bondage-liberation-substantialism> <samsara-nirvana-duality
+[10546-10547] <bondage-liberation-substantialism> <samsara-nirvana-duality
 
 **Misreading:**
 The critique's point (if lhun grub from first, no liberation from samsara) interpreted as establishing that samsara and nirvana are actually different, and liberation is real escape.
@@ -336,9 +336,11 @@ Samsara and nirvana reified as distinct. Liberation substantialized as escape. T
 Escape-mentality dominates. Practitioners reject samsara. The non-dual view is replaced by dualistic liberation-project.
 
 **Cascade effects:**
-<bondage-liberation-substantialism> triggers <escape-obsession> → <samsara-rejection> → <non-duality-miss>
+<bondage-liberation-substantialism> → <escape-obsession> → <samsara-rejection> → <non-duality-miss>
 
 ---
 
+
 Lines 10472-10547 present the seven bases framework and its critique—a core Dzogchen doctrinal teaching. This exposition continues into subsequent pages (10548+) where each of the seven views will be thoroughly refuted.
+
 

@@ -1,8 +1,8 @@
-<structural-mapping>
+[19441-19511] <structure>
 ## Completion of Thigle Section
-**Examination:** Lines 19418-19511 complete the detailed explanation of the thigle's visionary manifestations. The section enumerates the progressive signs (*rtags*) that appear as the thigle ripens through practice, organized hierarchically from coarse to subtle.
+**Analysis:** Lines 19418-19511 complete the detailed explanation of the thigle's visionary manifestations. The section enumerates the progressive signs (*rtags*) that appear as the thigle ripens through practice, organized hierarchically from coarse to subtle.
 
-<linguistic-analysis>
+[19441-19511] <philology>
 **Vision Terminology:**
 The passage lists specific visionary appearances:
 - *gru chad/* (19418): Broken vessel (semicircular)
@@ -16,7 +16,7 @@ The passage lists specific visionary appearances:
 
 These terms constitute a technical vocabulary for dark retreat (*mun mtshams*) phenomenology.
 
-<concept>
+[19441-19511] <concept>
 **Progressive Vision Schema:**
 The passage presents three stages of visionary development:
 
@@ -34,7 +34,7 @@ The passage presents three stages of visionary development:
 
 This progression—from diffused light to structured rays to concentrated spheres—mirrors the meditative trajectory from dispersion to stability.
 
-<concept>
+[19441-19511] <concept>
 **The Nine Thigle Locations:**
 The citation from *Rang shar* (19519-19540) enumerates nine anatomical locations where the Buddha-thigle abides:
 
@@ -50,11 +50,11 @@ The citation from *Rang shar* (19519-19540) enumerates nine anatomical locations
 
 These nine locations map the entire subtle body architecture, from heart to head to eyes to world.
 
-<doxographical-placement>
+[19441-19511] <context>
 **The *Rang shar* (Self-Arising) Tantra:**
 This fundamental *Thal 'gyur* tantra provides the scriptural basis for the thigle cosmology. Its title—"Self-Arising"—indicates the spontaneous (*rang byung*) nature of all appearances, requiring no external cause for their emergence. Longchenpa's reliance on this source throughout Volume 1 establishes the *Rang shar* as a pillar of Nyingma ground-hermeneutics.
 
-<concept>
+[19441-19511] <concept>
 **The Three Entry Thigles and Five Birth Thigles:**
 The passage distinguishes:
 
@@ -75,7 +75,7 @@ Manifesting at the wisdom fortress (*ye shes mkhar thab*):
 
 These five represent progressive stages of visionary embodiment.
 
-<grammatical-examination>
+[19441-19511] <philology>
 **Numerical Enumeration:**
 The passage employs specific enumeration markers:
 - *mthson cha dang/* (19462): Weapons
@@ -85,16 +85,16 @@ The passage employs specific enumeration markers:
 
 Each category represents a specific type of vision (*snang ba*) that emerges as the thigle ripens.
 
-<architectural-analysis>
+[19441-19462] <structure>
 ## Fruition Thigles: Progressive Vision
-**Investigation:** Lines 19418-19462 present the third thigle category: the fruition self-ripened thigle (*'bras bu rang smin pa'i thig le*). The *Nyi zla kha sbyor* citation (19431-19435) distinguishes three types:
+**Analysis:** Lines 19418-19462 present the third thigle category: the fruition self-ripened thigle (*'bras bu rang smin pa'i thig le*). The *Nyi zla kha sbyor* citation (19431-19435) distinguishes three types:
 1. Light-ripened thigle (*'od rnams smin pa'i thig le*)
 2. Wisdom-ripened thigle (*ye shes smin pa'i thig le*)
 3. Rigpa-ripened thigle (*rig pa smin pa'i thig le*)
 
 This threefold structure represents progressive stages of visionary maturation.
 
-<linguistic-analysis>
+[19441-19462] <philology>
 **Vision Terminology:**
 - *gru chad/*: Broken vessel (semicircular shape)
 - *ban bun/*: Smoke-like wisps
@@ -106,7 +106,7 @@ This threefold structure represents progressive stages of visionary maturation.
 
 These terms constitute the technical vocabulary for dark retreat phenomenology—describing the progressive refinement of visionary appearances.
 
-<concept>
+[19441-19462] <concept>
 **Progressive Vision Schema:**
 The passage presents three stages of visionary development:
 
@@ -124,7 +124,7 @@ The passage presents three stages of visionary development:
 
 This progression—from diffused light to structured rays to concentrated spheres—mirrors the meditative trajectory from dispersion (*'khrul snang*) to stability (*gnas pa*).
 
-<historical-context>
+[19441-19462] <context>
 **The *Nyi zla kha sbyor* on Fruition Thigles:**
 The citation (19437-19439) describes the light-ripened thigle:
 - *'od rnams smin pa'i thig le 'greng bar gnas/*: "The light-ripened thigle abides standing vertically"
@@ -133,7 +133,7 @@ The citation (19437-19439) describes the light-ripened thigle:
 
 This describes the actual appearance in advanced practice—the thigle standing vertically, rainbow-like, extremely clear.
 
-<concept>
+[19441-19462] <concept>
 **Wisdom-Fortress Appearance:**
 Lines 19442-19445 describe the light-ripened thigle's manifestation:
 - *tshe za 'og gi gur khyim lta bu/*: Like a tent-house of the tshe za 'og (subterranean spirits)
@@ -142,18 +142,18 @@ Lines 19442-19445 describe the light-ripened thigle's manifestation:
 
 This "wisdom fortress" (*ye shes mkhar thab*) is a standard visionary appearance in Dzogchen dark retreat, representing the stabilization of recognition.
 
-<grammatical-examination>
+[19441-19462] <philology>
 **Comparative Syntax:**
 The construction *dper na/* (for example) + *bar snang gi 'ja' tshon gzhi du snang ba'o/* (appears as the basis of a rainbow in the atmosphere) uses the simile to ground the visionary experience in natural phenomena—the practitioner sees something "like" a rainbow, not conceptually but phenomenologically.
 
-<structural-mapping>
+[19441-19462] <structure>
 ## Wisdom-Ripened Thigle
-**Consideration:** Lines 19452-19462 transition to the second fruition thigle: wisdom-ripened (*ye shes smin pa*). The *Nyi zla kha sbyor* citation (19454-19456) describes:
+**Analysis:** Lines 19452-19462 transition to the second fruition thigle: wisdom-ripened (*ye shes smin pa*). The *Nyi zla kha sbyor* citation (19454-19456) describes:
 - *ye shes smin pa'i thig le rtsibs la gnas/*: "Wisdom-ripened thigle abides at the ribs/horizontally"
 - *kha dog dang gsal nyi ma'i dkyil 'khor 'dra/*: "Like the sun's mandala in color and clarity"
 - *'di la goms pas yang ni rang snang mthong/*: "Through familiarity, self-appearance is seen"
 
-<concept>
+[19441-19462] <concept>
 **Horizontal vs. Vertical:**
 The distinction between vertical (*gyen 'greng*) light-thigle and horizontal (*rtsibs* or *'phred*) wisdom-thigle represents different modalities of visionary appearance:
 - Vertical: Ascending, associated with light-transcendence
@@ -161,11 +161,11 @@ The distinction between vertical (*gyen 'greng*) light-thigle and horizontal (*r
 
 Both are five-colored (*kha dog lnga*), radiating (*zer 'phro ba*), like the sun—indicating their shared nature as wisdom-display.
 
-<architectural-analysis>
+[19483-19511] <structure>
 ## Completion of Fruition Thigles
-**Close reading:** Lines 19463-19511 complete the presentation of fruition thigles and introduce the synthesis of all thigle categories. The passage enumerates the advanced visionary appearances that emerge from sustained practice, culminating in the "arrangement thigles" (*bkod pa'i thig le*) that unify all phenomena into single taste.
+**Analysis:** Lines 19463-19511 complete the presentation of fruition thigles and introduce the synthesis of all thigle categories. The passage enumerates the advanced visionary appearances that emerge from sustained practice, culminating in the "arrangement thigles" (*bkod pa'i thig le*) that unify all phenomena into single taste.
 
-<linguistic-analysis>
+[19483-19511] <philology>
 **Advanced Vision Terminology:**
 - *mdung rts/*: Spear-point
 - *mtshon rts gsum pa/*: Trident (three-pointed weapon)
@@ -177,7 +177,7 @@ Both are five-colored (*kha dog lnga*), radiating (*zer 'phro ba*), like the sun
 
 These terms describe the sophisticated visionary geometry that emerges in advanced practice—structured mandalic appearances replacing the earlier diffuse lights.
 
-<concept>
+[19483-19511] <concept>
 **The Six Arrangement Thigles:**
 Lines 19487-19505 present six thigles that "arrange" (*bkod pa*) visionary diversity into the single expanse:
 
@@ -190,7 +190,7 @@ Lines 19487-19505 present six thigles that "arrange" (*bkod pa*) visionary diver
 
 These six function as the mandalic architecture of advanced realization—every vision is recognized as the thigle's display.
 
-<doxographical-placement>
+[19483-19511] <context>
 **The *Thal 'gyur* Synthesis:**
 The *Thal 'gyur* citation (19507-19516) synthesizes the entire thigle path:
 
@@ -204,7 +204,7 @@ The *Thal 'gyur* citation (19507-19516) synthesizes the entire thigle path:
 
 This eight-line verse encapsulates the entire thigle path from channels to unification.
 
-<concept>
+[19483-19511] <concept>
 **Entry, Birth, and Arrangement:**
 The passage distinguishes three functional categories:
 
@@ -225,15 +225,15 @@ Manifesting at the wisdom fortress:
 **Arrangement Thigles (*bkod pa'i thigle*)—Six:**
 Condensing all into single taste (*ro gcig*).
 
-<philology>
+[19483-19511] <philology>
 **Genitive Chains:**
 Complex constructions like *rnal 'byor nyams kyi dkyil 'khor/* (mandala of yogic experience) and *chos nyid du ma ro gcig/* (single taste as dharmata) employ genitive and terminative particles to establish hierarchical relationships between practice, appearance, and realization.
 
-<structural-mapping>
+[19483-19511] <structure>
 ## Nine Thigle Locations
-**Philological analysis:** Lines 19517-19540 present the *Rang shar* citation enumerating nine anatomical locations where the Buddha-thigle abides. This completes the thigle cosmology with somatic specificity.
+**Analysis:** Lines 19517-19540 present the *Rang shar* citation enumerating nine anatomical locations where the Buddha-thigle abides. This completes the thigle cosmology with somatic specificity.
 
-<concept>
+[19483-19511] <concept>
 **The Nine Locations:**
 
 1. **Heart** (*tsitta rin chen gzhal yas*): Pure body thigle
@@ -248,15 +248,15 @@ Complex constructions like *rnal 'byor nyams kyi dkyil 'khor/* (mandala of yogic
 
 The progression from heart to head to eyes to world maps the vertical axis of subtle body cosmology.
 
-<historical-context>
+[19483-19511] <context>
 **Universal Buddha-Nature:**
 The citation concludes (19539-19540): *de bzhin sems can thams cad la dbyer med tshul gyis gnas pa yin/* (Thus in all sentient beings, they abide indivisibly). This underscores the thigle's universality—all beings possess these nine thigles, not just advanced practitioners.
 
-<architectural-analysis>
+[19532-19561] <structure>
 ## Transition: Arrangement Thigles
-**Examination:** Lines 19512-19561 introduce the "arrangement thigles" (*bkod pa'i thig le*) that unify all phenomena into single taste (*ro gcig*). This represents the culmination of thigle theory—the movement from multiplicity to unity, from visions to their ground.
+**Analysis:** Lines 19512-19561 introduce the "arrangement thigles" (*bkod pa'i thig le*) that unify all phenomena into single taste (*ro gcig*). This represents the culmination of thigle theory—the movement from multiplicity to unity, from visions to their ground.
 
-<philology>
+[19532-19561] <philology>
 **Unification Terminology:**
 - *chos nyid du ma ro gcig sdud/* (19513): "Condense to single taste in dharmata"
 - *chos kun mnyam pa'i bdag nyid/* (19515): "Identity of all dharmas as equal"
@@ -264,7 +264,7 @@ The citation concludes (19539-19540): *de bzhin sems can thams cad la dbyer med 
 
 The terminology emphasizes non-dual condensation (*bsdus pa*) rather than conceptual synthesis.
 
-<concept>
+[19532-19561] <concept>
 **The Six Arrangement Thigles:**
 These six condense all visionary diversity into the single expanse:
 
@@ -277,7 +277,7 @@ These six condense all visionary diversity into the single expanse:
 
 Each represents a category of vision that, when "arranged" (*bkod pa*) through recognition, reveals its true nature as the expanse itself.
 
-<context>
+[19532-19561] <context>
 **Thal 'gyur Synthesis:**
 The *Thal 'gyur* citation (19507-19516) synthesizes the entire thigle cosmology:
 - *rtsa yi nang na thig le ste/*: "Thigle within the channels"
@@ -290,21 +290,21 @@ The *Thal 'gyur* citation (19507-19516) synthesizes the entire thigle cosmology:
 
 This eight-line verse encapsulates the entire thigle path: from channels to entry to connection to birth to mandala to arrangement to unification.
 
-<structure>
+[19532-19561] <structure>
 ## Thigle Synthesis and Transition to Rigpa
-**Investigation:** Lines 19512-19561 complete the thigle section and transition to the fifth and final category: the nature of rigpa (*rig pa'i rang bzhin*). The structural marker "*de'ang snying nang gi 'od gdangs nang gi rtsa dang phyir nam mkha' la snang ba rnams zhib tu phye na de ltar yod do/*" (19542-19543) provides a bridging statement: the internal channels of heart-radiance and external appearances in space, when analyzed in detail, exist in this manner.
+**Analysis:** Lines 19512-19561 complete the thigle section and transition to the fifth and final category: the nature of rigpa (*rig pa'i rang bzhin*). The structural marker "*de'ang snying nang gi 'od gdangs nang gi rtsa dang phyir nam mkha' la snang ba rnams zhib tu phye na de ltar yod do/*" (19542-19543) provides a bridging statement: the internal channels of heart-radiance and external appearances in space, when analyzed in detail, exist in this manner.
 
-<philology>
+[19532-19561] <philology>
 **Bridging Formula:**
 The formula *zhib tu phye na de ltar yod do/* (when analyzed in detail, exists in that way) functions as a transitional device—summing up the thigle presentation while preparing for the rigpa analysis. The demonstrative *de ltar/* (in that way) refers back to the entire thigle cosmology.
 
-<structure>
+[19532-19561] <structure>
 ## Fifth Category: Nature of Rigpa
-**Consideration:** Lines 19544-19561 introduce the final category with the formula "*lnga pa rig pa'i rang bzhin rgyas par bshad pa la gnyis te/*" (Fifth: expanded explanation of rigpa's nature, twofold). The two divisions are:
+**Analysis:** Lines 19544-19561 introduce the final category with the formula "*lnga pa rig pa'i rang bzhin rgyas par bshad pa la gnyis te/*" (Fifth: expanded explanation of rigpa's nature, twofold). The two divisions are:
 1. Connected arrangement (*'brel bkod pa*)
 2. Rigpa itself explained (*rig pa nyid rgyas par bshad pa*)
 
-<concept>
+[19532-19561] <concept>
 **The Emanation Chain:**
 Lines 19547-19560 present the chain of dependent manifestation:
 
@@ -312,11 +312,11 @@ Lines 19547-19560 present the chain of dependent manifestation:
 
 Each link arises from the previous through logical dependence (*rten 'brel*), not temporal sequence.
 
-<philology>
+[19532-19561] <philology>
 **Derivational Particle *las byung/*:**
 The construction *...las byung ngo/* (arose from) functions causally, establishing the logical derivation of each level from its predecessor. The quotative *zhes so/* (19560) marks this as citation from *Rang shar*.
 
-<context>
+[19532-19561] <context>
 **Ontological vs. Phenomenological Reading:**
 Lines 19555-19556 provide a crucial clarification:
 - *dngos po la rigpa de ltar med kyang/*: "Rigpa does not exist in that way in things"
@@ -324,22 +324,22 @@ Lines 19555-19556 provide a crucial clarification:
 
 This prevents reification: the emanation chain describes appearances (*snang tshul*), not ontological structure (*yod tshul*).
 
-<structure>
+[19532-19561] <structure>
 ## The Two Rigpas
-**Close reading:** The preview of the rigpa section (concluded on page 460) distinguishes:
+**Analysis:** The preview of the rigpa section (concluded on page 460) distinguishes:
 1. Basis-holding rigpa (*gzhi 'dzin pa'i rig pa*)
 2. Characteristic-holding rigpa (*mtshan nyid 'dzin pa'i rig pa*)
 
 This mirrors the two wisdoms and establishes the framework for Volume 2's path presentation.
 
-<concept>
+[19532-19561] <concept>
 **Basis-Holding Rigpa:**
 - *dngos rang byung gi ye shes yin la/*: "It is actual self-arising wisdom"
 - *gdangs rdo rje lu gu rgyud kyi snang ba las rnam grangs bco lnga r phyed ba rnams/*: "The fifteenfold varieties from vajra knot display-appearance"
 
 This is the ground-rigpa, the primordial awareness that holds all phenomena as its basis.
 
-<concept>
+[19532-19561] <concept>
 **Characteristic-Holding Rigpa:**
 - *ye shes lnga'i bdag nyid sku gsum gyi rang bzhin/*: "The identity of five wisdoms, nature of three bodies"
 - *dbyings kyi grub pa'i sangs rgyas/*: "The established Buddha of the expanse"
@@ -347,13 +347,13 @@ This is the ground-rigpa, the primordial awareness that holds all phenomena as i
 
 This is the functional rigpa, the cognitive awareness that "holds characteristics"—the five wisdoms as active functions.
 
-<context>
+[19532-19561] <context>
 **Completion of Volume 1:**
 The conclusion of the rigpa preview (line 19561 "*gnyis pa la gnyis te/*") marks the formal end of Volume 1's ground presentation. The "second" (*gnyis pa*) refers to Volume 2's systematic path teaching, establishing the architectural relationship between the two volumes.
 
-<structure>
+[19532-19561] <structure>
 ## Summary: Volume 1's Five Categories
-**Philological analysis:** The conclusion reveals the systematic architecture of Volume 1:
+**Analysis:** The conclusion reveals the systematic architecture of Volume 1:
 
 1. **Body** (*sku*): Thirteen bodies from *Rang shar*
 2. **Wisdom** (*ye shes*): Three basis-abiding wisdoms, five characteristic-holding wisdoms
@@ -363,13 +363,13 @@ The conclusion of the rigpa preview (line 19561 "*gnyis pa la gnyis te/*") marks
 
 This fivefold structure provides the complete ground (*gzhi*) for Volume 2's path (*lam*) presentation.
 
-<structure>
+[19582-19607] <structure>
 ## Final Category: The Nature of Rigpa
-**Structural Framework:** Lines 19562-19607 introduce the fifth and final category: the nature of rigpa (*rig pa'i rang bzhin*). The section has two parts:
+**Analysis:** Lines 19562-19607 introduce the fifth and final category: the nature of rigpa (*rig pa'i rang bzhin*). The section has two parts:
 1. Connected arrangement (*'brel bkod pa*): How rigpa relates to expanse, vajra knot, bodies, wisdom, light, and rays
 2. Rigpa itself explained (*rig pa nyid rgyas par bshad pa*)
 
-<philology>
+[19582-19607] <philology>
 **Relational Terminology:**
 The passage uses the construction *las byung/* (arose from) to establish derivative relationships:
 - *dbyings la rigpa yod pas de'i gdangs rdo rje lu gu rgyud dang/* (19547): "Because rigpa exists in the expanse, its radiance [manifests as] the vajra knot"
@@ -380,7 +380,7 @@ The passage uses the construction *las byung/* (arose from) to establish derivat
 
 This creates a hierarchical emanation schema without reifying the levels as separate substances.
 
-<concept>
+[19582-19607] <concept>
 **The Emanation Chain:**
 The passage presents a chain of dependent manifestation:
 
@@ -388,7 +388,7 @@ The passage presents a chain of dependent manifestation:
 
 This is not a temporal sequence but a logical structure—each level is the condition (*rkyen*) for the next, while all are simultaneously present in the ground.
 
-<context>
+[19582-19607] <context>
 **Ontological vs. Phenomenological Reading:**
 Longchenpa clarifies the status of this emanation chain:
 - *dngos po la rigpa de ltar med kyang/* (19555): "Rigpa does not exist in that way in things"
@@ -396,22 +396,22 @@ Longchenpa clarifies the status of this emanation chain:
 
 This prevents reification: the chain describes how phenomena appear (*snang tshul*), not how reality is ontologically structured (*yod tshul*).
 
-<structure>
+[19582-19607] <structure>
 ## Continuation: The Two Rigpas
-**Structural Framework:** Lines 19562-19607 distinguish two types of rigpa from the *Nyi zla kha sbyor*:
+**Analysis:** Lines 19562-19607 distinguish two types of rigpa from the *Nyi zla kha sbyor*:
 1. Basis-holding rigpa (*gzhi 'dzin pa'i rig pa*)
 2. Characteristic-holding rigpa (*mtshan nyid 'dzin pa'i rig pa*)
 
 This bipartite structure reflects the standard Dzogchen distinction between the ground's self-awareness and its cognitive functions.
 
-<philology>
+[19582-19607] <philology>
 **Technical Distinctions:**
 - *gzhi 'dzin pa/*: "Basis-holding"—the rigpa that abides as the ground, holding all phenomena without distinction
 - *mtshan nyid 'dzin pa/*: "Characteristic-holding"—the rigpa that cognizes specific characteristics, the five wisdoms as active functions
 
 The genitive constructions establish possessive relationships: rigpa "of" basis-holding versus rigpa "of" characteristic-holding.
 
-<concept>
+[19582-19607] <concept>
 **Basis-Holding Rigpa:**
 This is the rigpa of the ground (*gzhi*) itself:
 - *dngos rang byung gi ye shes yin la/* (19567): "It is the actual self-arising wisdom"
@@ -419,9 +419,9 @@ This is the rigpa of the ground (*gzhi*) itself:
 
 The "fifteenfold varieties" (*rnam grangs bco lnga*) are enumerated in the following passage, each representing a different metaphorical modality of rigpa.
 
-<structure>
+[19565-19582] <structure>
 # Two-Fold Classification of Awareness
-**Close Reading:** Longchenpa initiates a systematic typology of awareness (*rig pa*) based on the *Nyi zla kha sbyor* (Sun-Moon Conjunction) tantra. The structure establishes a fundamental bifurcation:
+**Analysis:** Longchenpa initiates a systematic typology of awareness (*rig pa*) based on the *Nyi zla kha sbyor* (Sun-Moon Conjunction) tantra. The structure establishes a fundamental bifurcation:
 
 1. **Basis-holding awareness** (*gzhi 'dzin pa'i rig pa*)—awareness that holds/recognizes the ground
 2. **Characteristic-holding awareness** (*mtshan nyid 'dzin pa'i rig pa*)—awareness that holds/recognizes characteristics
@@ -429,13 +429,13 @@ The "fifteenfold varieties" (*rnam grangs bco lnga*) are enumerated in the follo
 This binary classification reflects the broader Indo-Tibetan epistemological framework distinguishing between fundamental cognition and discriminative cognition, adapted here to Dzogchen phenomenology.
 
 [19562] <philology> Citation Marker
-**Detailed Analysis:** *nyi zla kha sbyor las*—"From the Sun-Moon Conjunction"
+**Analysis:** *nyi zla kha sbyor las*—"From the Sun-Moon Conjunction"
 
 The *Nyi zla kha sbyor gyi rgyud* is a major Anuyoga/Atiyoga tantra in the Nyingma canon. The ablative *las* marks scriptural authority for the following classification.
 
-<philology>
+[19563-19565] <philology>
 Particle Analysis
-**Consideration:**
+**Analysis:**
 
 - **Line 19563:** *rig pa ni gnyis te*—"Awareness is two, indeed"
   - *ni* = topical marker emphasizing the subject
@@ -449,9 +449,9 @@ Particle Analysis
   - *mtshan nyid* = characteristic, defining quality (Skt. *lakṣaṇa*)
   - Terminative *o* + quotative *zhes so* marking citation closure
 
-<concept>
+[19566-19568] <concept>
 Basis-Holding Awareness Defined
-**Investigation:**
+**Analysis:**
 
 **Line 19566-19568:** *dang po gzhi 'dzin pa'i rig pa ni / dngos rang byung gi ye shes yin la / gdangs rdo rje lu gu rgyud kyi snang ba las rnam grangs bco lngar phye ba rnams so*
 
@@ -467,9 +467,9 @@ Basis-Holding Awareness Defined
 - *Rdo rje lu gu rgyud* = vajra-intertwined (symbol of inseparable emptiness-appearance)
 - *Bco lnga* = fifteen (complete enumeration)
 
-<concept>
+[19569-19571] <concept>
 Characteristic-Holding Awareness Defined
-**Examination:**
+**Analysis:**
 
 **Lines 19569-19571:** *gnyis pa mtshan nyid 'dzin pa'i rig pa ni / ye shes lnga'i bdag nyid sku gsum gyi rang bzhin dbyings kyi grub pa'i sangs rgyas / 'khor 'das thams cad dbri bsnan med par khyab pa de yin no*
 
@@ -481,9 +481,9 @@ Characteristic-Holding Awareness Defined
 
 This awareness is **omnipresent** (*khyab pa*)—already present in all beings, not created through practice.
 
-<context>
+[19572-19576] <context>
 Scriptural Citations
-**Investigation:**
+**Analysis:**
 
 **Line 19572-19574:** *de'ang de nyid las / gzhi 'dzin pa'i rig 'dzin rdo rje lu gu rgyud du snang ba'i rig pa chen po ste / rgyang zhag chu'i sgron ma las rig pa gcer bu rang thon pa'o*
 
@@ -496,9 +496,9 @@ Citation from *Nyi zla kha sbyor*:
 
 **Line 19576:** *mtshan nyid 'dzin pa'i rig pa ni sems can thams cad la rang khyab tu gnas pa'o*—"Characteristic-holding awareness abides self-pervading all sentient beings"
 
-<structure>
+[19577-19596] <structure>
 # The Fifteen-Fold Typology of Awareness
-**Close Reading:** The text transitions to enumerate fifteen types of awareness (*rig pa rnam pa bco lnga*) from the *Rang shar* (Self-Arisen) tantra. This represents a phenomenological typology describing qualities of recognition rather than cognitive categories.
+**Analysis:** The text transitions to enumerate fifteen types of awareness (*rig pa rnam pa bco lnga*) from the *Rang shar* (Self-Arisen) tantra. This represents a phenomenological typology describing qualities of recognition rather than cognitive categories.
 
 **The Fifteen Awareness-Typologies:**
 
@@ -548,18 +548,18 @@ Citation from *Nyi zla kha sbyor*:
     - Spontaneous, self-arising without obstruction
 
 [19595] <philology> Enumeration Conclusion
-**Technical Examination:** *de ni rig pa'i grangs bstan pa'o*—"That is the enumeration of awarenesses shown"
+**Analysis:** *de ni rig pa'i grangs bstan pa'o*—"That is the enumeration of awarenesses shown"
 
 - *Grangs* = number, enumeration, calculation
 - *Bstan pa* = shown, taught, presented
 
 [19596] <context> Integration with Vajra-Intertwined
-**Arrangement:** *de yang yang dag par rig pa rdo rje lu gu rgyud du yod do*—"That also exists as correctly-known vajra-intertwined"
+**Analysis:** *de yang yang dag par rig pa rdo rje lu gu rgyud du yod do*—"That also exists as correctly-known vajra-intertwined"
 
 The fifteen awareness-typologies all exist within the vajra-intertwined (*rdo rje lu gu rgyud*)—the symbol of inseparable emptiness and appearance. They are not separate from the fundamental nature.
 
 [19597] <structure> Transition to Experiential Integration
-**Technical Examination:** *de dag kyang mngon sum dbang po'i yul la gnad gzir dus rnal 'byor pa gcig la ldog pas dbye na cha tshang du yod de*
+**Analysis:** *de dag kyang mngon sum dbang po'i yul la gnad gzir dus rnal 'byor pa gcig la ldog pas dbye na cha tshang du yod de*
 
 "These also, when striking the essential point in the perceptual field of manifest sense-power, divided by reversals—one yogi has them complete"
 
@@ -570,11 +570,11 @@ This indicates that:
 
 The transition indicates the next section will discuss how these awareness-typologies manifest in practice.
 
-<structure>
+[19628-19635] <structure>
 ## The Fifteenfold Rigpa
-**Syntactic Structure:** Lines 19608-19635 enumerate fifteen modalities of rigpa from the *Rang shar*, each compared to an animal, element, or natural phenomenon. This catalog serves both descriptive and prescriptive functions—describing rigpa's qualities while indicating different approaches to recognition.
+**Analysis:** Lines 19608-19635 enumerate fifteen modalities of rigpa from the *Rang shar*, each compared to an animal, element, or natural phenomenon. This catalog serves both descriptive and prescriptive functions—describing rigpa's qualities while indicating different approaches to recognition.
 
-<philology>
+[19628-19635] <philology>
 **Comparative Syntax:**
 The passage uses the formula *...lta bu'i rig pa/* (rigpa like...):
 - *zil gyis mi non pa seng ge lta bu/*: "Unsuppressable like a lion"
@@ -593,7 +593,7 @@ The passage uses the formula *...lta bu'i rig pa/* (rigpa like...):
 - *rgyun chad med pa chu bo'i gzhung lta bu/*: "Like a river's course, uninterrupted"
 - *'gag pa med pa lw ba lta bu/*: "Like a bush, unceasing"
 
-<concept>
+[19628-19635] <concept>
 **The Fifteen Metaphors as Recognition Aids:**
 Each metaphor points to a specific quality of rigpa:
 
@@ -613,11 +613,11 @@ Each metaphor points to a specific quality of rigpa:
 14. **River**: Continuity—rigpa is uninterrupted by moments
 15. **Bush**: Vitality—rigpa is ever-growing, ever-present
 
-<context>
+[19628-19635] <context>
 **The *Rang shar* on Rigpa:**
 The citation from *Rang shar* (19578-19595) presents rigpa as "vajra knot vision" (*rdo rje lu gu rgyud du snang ba'i rig pa chen po*). This terminology integrates the subtle body location (vajra knot at the heart) with the cognitive function (rigpa as great awareness).
 
-<concept>
+[19628-19635] <concept>
 **Characteristic-Holding Rigpa:**
 The second type of rigpa is:
 - *ye shes lnga'i bdag nyid sku gsum gyi rang bzhin/* (19570): "The identity of five wisdoms, the nature of three bodies"
@@ -626,20 +626,20 @@ The second type of rigpa is:
 
 This is the functional, cognitive rigpa that "holds characteristics"—the discriminating awareness that operates within the expanse.
 
-<philology>
+[19628-19635] <philology>
 **Technical Note:**
 Line 19576 contains an apparent scribal duplication: *mtshan nyid 'dzin pa'i rig pa ni sems can thams cad la rang khyab tu gnas pa'i rig pa ni/*... The repetition of *rig pa ni/* may be intentional for emphasis or may represent a textual variant. The sense is clear: characteristic-holding rigpa abides as self-pervasive in all sentient beings.
 
-<structure>
+[19656-19656] <structure>
 ## Transition to Volume 2
-**Technical Examination:** Lines 19636-19677 mark the conclusion of Volume 1 and transition to Volume 2. The structural formula "*'di dag rgyas par bshad na gsal ba mtha' yas pa'i phyir spros pas chog go/*" (19636) indicates that detailed expansion would be infinite—thus concluding the ground presentation.
+**Analysis:** Lines 19636-19677 mark the conclusion of Volume 1 and transition to Volume 2. The structural formula "*'di dag rgyas par bshad na gsal ba mtha' yas pa'i phyir spros pas chog go/*" (19636) indicates that detailed expansion would be infinite—thus concluding the ground presentation.
 
-<philology>
+[19656-19656] <philology>
 **Conclusion Formula:**
 - *spros pas chog go/*: "Elaboration is sufficient"—standard scholastic closing formula
 - *gnyis pa ye shes kyi rang bzhin rgyas par bshad pa/*: "Second: expanded explanation of wisdom's nature"—this appears to be a transitional error; the "second" refers to the next major division, which is Volume 2's systematic path presentation
 
-<concept>
+[19656-19656] <concept>
 **The Ground-Path Relationship:**
 The closing lines establish the relationship between Volume 1 (Ground) and Volume 2 (Path):
 - Volume 1 has established the *gzhi gnas kyi ye shes/* (wisdom abiding as basis)
@@ -647,13 +647,13 @@ The closing lines establish the relationship between Volume 1 (Ground) and Volum
 
 This mirrors the two rigpas distinguished above: the ground-rigpa (Volume 1) and the path-rigpa (Volume 2).
 
-<context>
+[19656-19656] <context>
 **Completion of Volume 1:**
 The text marks the completion of the ground presentation (*gzhi'i rnam bzhag*). The somatic cosmology, subtle body architecture, and wisdom-taxonomies established in Volume 1 provide the foundation for Volume 2's path instructions. This structure follows the standard Buddhist pedagogical sequence: first establish the ground, then teach the path, then describe the fruition.
 
-<structure>
+[19656-19656] <structure>
 ## Summary: Volume 1's Architecture
-**Technical Examination:** The conclusion of Volume 1 reveals the *mdzod* genre's systematic structure:
+**Analysis:** The conclusion of Volume 1 reveals the *mdzod* genre's systematic structure:
 
 **Volume 1: The Ground (*gzhi*)**
 - Homage and introduction
@@ -670,7 +670,7 @@ The text marks the completion of the ground presentation (*gzhi'i rnam bzhag*). 
 
 This architectural clarity demonstrates Longchenpa's mastery of the *mdzod* genre—comprehensive, systematic, and progressive.
 
-<concept>
+[19656-19656] <concept>
 **The Non-Dual Ground-Path:**
 Despite the structural distinction between ground (Volume 1) and path (Volume 2), the text emphasizes their non-duality:
 - *gzhi gnas kyi ye shes/* (wisdom abiding as basis) is not different from *mtshan nyid 'dzin pa'i ye shes/* (wisdom holding characteristics)

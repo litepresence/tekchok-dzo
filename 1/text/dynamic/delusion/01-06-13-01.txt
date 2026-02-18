@@ -4,286 +4,286 @@
 # Generated: Tibetan Buddhism - Dharmakaya/Sambhogakaya/Nirmanakaya Analysis
 
 <dharmakaya-teacher-externality>
- LINE: 9518
- TIBETAN: "ཆོས་སྐུའི་སྟོན་པ་དཔལ་ཀུན་ཏུ་བཟང་པོ"
- DELUSION: Treating *chos sku* (Dharmakaya) teacher Samantabhadra (*kun tu bzang po*) as external deity to be worshipped from afar as one's own nature. Reifying dharmakaya as "out there" separate from immediate awareness.
- ERROR_TYPE: Externality_projection
- SEVERITY: CRITICAL
+  LINE: 9518
+  TIBETAN: "ཆོས་སྐུའི་སྟོན་པ་དཔལ་ཀུན་ཏུ་བཟང་པོ"
+  DELUSION: Treating *chos sku* (Dharmakaya) teacher Samantabhadra (*kun tu bzang po*) as external deity to be worshipped from afar rather than recognizing as one's own nature. Reifying dharmakaya as "out there" separate from immediate awareness.
+  ERROR_TYPE: Externality_projection
+  SEVERITY: CRITICAL
 </dharmakaya-teacher-externality>
 
 <five-perfections-checklist>
- LINES: 9519-9525
- TIBETAN: "གནས་ཆོས་ཀྱི་དབྱིངས། བསྟན་པ་སངས་རྒྱས་ཐམས་ཅད་ཀྱི་ཐུགས་ཀྱི་བསྟན་པ། འཁོར་འདུས་མ་བྱས་པ། དུས་ཆོས་ཉིད་ལ་འཕོ་འགྱུར་མེད་པ་དང་ལྔ"
- DELUSION: Approaching the five perfections (teacher, place, teaching, retinue, time) as a checklist to be completed or attained through effort, as opposed to recognizing their spontaneous perfection (*lhun gyis grub pa*) beyond achievement.
- ERROR_TYPE: Achievement_mentality
- SEVERITY: HIGH
+  LINES: 9519-9525
+  TIBETAN: "གནས་ཆོས་ཀྱི་དབྱིངས། བསྟན་པ་སངས་རྒྱས་ཐམས་ཅད་ཀྱི་ཐུགས་ཀྱི་བསྟན་པ། འཁོར་འདུས་མ་བྱས་པ། དུས་ཆོས་ཉིད་ལ་འཕོ་འགྱུར་མེད་པ་དང་ལྔ"
+  DELUSION: Approaching the five perfections (teacher, place, teaching, retinue, time) as a checklist to be completed or attained through effort, rather than recognizing their spontaneous perfection (*lhun gyis grub pa*) beyond achievement.
+  ERROR_TYPE: Achievement_mentality
+  SEVERITY: HIGH
 </five-perfections-checklist>
 
 <sambhogakaya-pure-land-escapism>
- LINE: 9532
- TIBETAN: "ལོངས་སྐུའི་སྟོན་པ་རྣམ་པར་སྣང་མཛད་གང་ཆེན་མཚོ"
- DELUSION: Viewing *longs sku* (Sambhogakaya) pure lands (*zhing khams*) like "Gangchen Tso" as literal destinations to escape to after death, in contrast to recognizing them as the display of one's own clear light nature in this very moment.
- ERROR_TYPE: Escapist_fantasy
- SEVERITY: CRITICAL
+  LINE: 9532
+  TIBETAN: "ལོངས་སྐུའི་སྟོན་པ་རྣམ་པར་སྣང་མཛད་གང་ཆེན་མཚོ"
+  DELUSION: Viewing *longs sku* (Sambhogakaya) pure lands (*zhing khams*) like "Gangchen Tso" as literal destinations to escape to after death, rather than recognizing them as the display of one's own clear light nature in this very moment.
+  ERROR_TYPE: Escapist_fantasy
+  SEVERITY: CRITICAL
 </sambhogakaya-pure-land-escapism>
 
 <nirmanakaya-historical-fixation>
- LINE: 9549
- TIBETAN: "སྤྲུལ་པ་སྐུའི་སྟོན་པ་དྲུག་པ་རྡོ་རྗེ་འཆང༌"
- DELUSION: Fixating on *sprul sku* (Nirmanakaya) teacher Vajradhara (*rdo rje 'chang*) as historical figure in "Lchanglocan" (*lcang lo can*), failing to see that nirmanakaya manifests wherever there is recognition of mind's nature.
- ERROR_TYPE: Historical_literalism
- SEVERITY: HIGH
+  LINE: 9549
+  TIBETAN: "སྤྲུལ་པ་སྐུའི་སྟོན་པ་དྲུག་པ་རྡོ་རྗེ་འཆང༌"
+  DELUSION: Fixating on *sprul sku* (Nirmanakaya) teacher Vajradhara (*rdo rje 'chang*) as historical figure in "Lchanglocan" (*lcang lo can*), failing to see that nirmanakaya manifests wherever there is recognition of mind's nature.
+  ERROR_TYPE: Historical_literalism
+  SEVERITY: HIGH
 </nirmanakaya-historical-fixation>
 
 <four-kaya-accumulation>
- LINES: 9566-9567
- TIBETAN: "སྐུ་བཞི་ནི། ཆོས་སྐུའི་སྟོན་པ་རང་བཞིན་མ་བཅོས་པ"
- DELUSION: Collecting knowledge of the four kayas (*sku bzhi*) as conceptual accumulation, believing understanding descriptions equals realization. Treating kayas as objects of knowledge not recognition of one's own display.
- ERROR_TYPE: Conceptual_hoarding
- SEVERITY: CRITICAL
+  LINES: 9566-9567
+  TIBETAN: "སྐུ་བཞི་ནི། ཆོས་སྐུའི་སྟོན་པ་རང་བཞིན་མ་བཅོས་པ"
+  DELUSION: Collecting knowledge of the four kayas (*sku bzhi*) as conceptual accumulation, believing understanding descriptions equals realization. Treating kayas as objects of knowledge rather than recognition of one's own display.
+  ERROR_TYPE: Conceptual_hoarding
+  SEVERITY: CRITICAL
 </four-kaya-accumulation>
 
 <buddha-field-tourism>
- LINES: 9537, 9554, 9563, 9580
- TIBETAN: "ཞིང་ཁམས་རྣམ་པར་དག་པ" "ཞིང་ཁམས་ཕྱག་མཉམ་གཞག་གི་མཐིལ" "ཞིང་ཁམས་བདེ་ཆེན་རྣམ་དག" "ཞིང་ཁམས་ཕྱི་ནས་བལྟས་པས་ནང་གསལ་བ"
- DELUSION: Buddha-field (*zhing khams*) tourism mentality - wanting to visit Akanishta (*'og min*), Sukhavati (*bde ba can*), or other pure lands as external locations, missing that all fields are displays of one's own awareness-emptiness.
- ERROR_TYPE: Spatial_reification
- SEVERITY: HIGH
+  LINES: 9537, 9554, 9563, 9580
+  TIBETAN: "ཞིང་ཁམས་རྣམ་པར་དག་པ" "ཞིང་ཁམས་ཕྱག་མཉམ་གཞག་གི་མཐིལ" "ཞིང་ཁམས་བདེ་ཆེན་རྣམ་དག" "ཞིང་ཁམས་ཕྱི་ནས་བལྟས་པས་ནང་གསལ་བ"
+  DELUSION: Buddha-field (*zhing khams*) tourism mentality - wanting to visit Akanishta (*'og min*), Sukhavati (*bde ba can*), or other pure lands as external locations, missing that all fields are displays of one's own awareness-emptiness.
+  ERROR_TYPE: Spatial_reification
+  SEVERITY: HIGH
 </buddha-field-tourism>
 
 <self-arisen-wisdom-achievement>
- LINES: 9534, 9551
- TIBETAN: "རང་བྱུང་གི་ཡི་གེ་དྲུག་གི་རང་སྒྲ" "རང་བཞིན་རྫོགས་པ་ཆེན་པོ"
- DELUSION: Believing *rang byung ye shes* (self-arisen wisdom) is something to achieve through practice or time, while avoiding recognizing it as what is already present but unnoticed. Seeking to "get" what one has never been separate from.
- ERROR_TYPE: Attainment_delusion
- SEVERITY: CRITICAL
+  LINES: 9534, 9551
+  TIBETAN: "རང་བྱུང་གི་ཡི་གེ་དྲུག་གི་རང་སྒྲ" "རང་བཞིན་རྫོགས་པ་ཆེན་པོ"
+  DELUSION: Believing *rang byung ye shes* (self-arisen wisdom) is something to achieve through practice or time, rather than recognizing it as what is already present but unnoticed. Seeking to "get" what one has never been separate from.
+  ERROR_TYPE: Attainment_delusion
+  SEVERITY: CRITICAL
 </self-arisen-wisdom-achievement>
 
 <teacher-identity-attachment>
- LINE: 9518
- TIBETAN: "སྟོན་པ་དཔལ་ཀུན་ཏུ་བཟང་པོ"
- DELUSION: Attaching to specific teacher forms - Samantabhadra, Vairocana (*rnam par snang mdzad*), Vajradhara - as ultimate identities as opposed to skillful displays. Creating hierarchy of "better" teachers based on kaya level.
- ERROR_TYPE: Identity_fixation
- SEVERITY: HIGH
+  LINE: 9518
+  TIBETAN: "སྟོན་པ་དཔལ་ཀུན་ཏུ་བཟང་པོ"
+  DELUSION: Attaching to specific teacher forms - Samantabhadra, Vairocana (*rnam par snang mdzad*), Vajradhara - as ultimate identities rather than skillful displays. Creating hierarchy of "better" teachers based on kaya level.
+  ERROR_TYPE: Identity_fixation
+  SEVERITY: HIGH
 </teacher-identity-attachment>
 
 <place-pilgrimage-obsession>
- LINE: 9533
- TIBETAN: "གནས་རྣམས་དག་སྟུག་པོ་བཀོད་པ"
- DELUSION: Pilgrimage obsession to "holy" locations like "Rnam Dag Stugpo Bkodpa" believing physical presence grants blessing, while missing that the true place (*gnas*) is dharmadhatu (*chos kyi dbyings*) never separate from awareness.
- ERROR_TYPE: Geographic_spiritualism
- SEVERITY: MEDIUM
+  LINE: 9533
+  TIBETAN: "གནས་རྣམས་དག་སྟུག་པོ་བཀོད་པ"
+  DELUSION: Pilgrimage obsession to "holy" locations like "Rnam Dag Stugpo Bkodpa" believing physical presence grants blessing, while missing that the true place (*gnas*) is dharmadhatu (*chos kyi dbyings*) never separate from awareness.
+  ERROR_TYPE: Geographic_spiritualism
+  SEVERITY: MEDIUM
 </place-pilgrimage-obsession>
 
 <teaching-collection-hoarding>
- LINES: 9520, 9534, 9551, 9569
- TIBETAN: "བསྟན་པ་སངས་རྒྱས་ཐམས་ཅད་ཀྱི་ཐུགས་ཀྱི་བསྟན་པ" "བསྟན་པ་རང་བྱུང་གི་ཡི་གེ་དྲུག་གི་རང་སྒྲ" "བསྟན་པ་རང་བཞིན་རྫོགས་པ་ཆེན་པོ" "བསྟན་པ་འདུལ་སྟངས་རྣམ་དག"
- DELUSION: Collecting teachings (*bstan pa*) like precious objects, accumulating transmissions without integrating. Believing more empowerments, more teachings equals more progress, while missing the single teaching of recognizing mind nature.
- ERROR_TYPE: Spiritual_materialism
- SEVERITY: HIGH
+  LINES: 9520, 9534, 9551, 9569
+  TIBETAN: "བསྟན་པ་སངས་རྒྱས་ཐམས་ཅད་ཀྱི་ཐུགས་ཀྱི་བསྟན་པ" "བསྟན་པ་རང་བྱུང་གི་ཡི་གེ་དྲུག་གི་རང་སྒྲ" "བསྟན་པ་རང་བཞིན་རྫོགས་པ་ཆེན་པོ" "བསྟན་པ་འདུལ་སྟངས་རྣམ་དག"
+  DELUSION: Collecting teachings (*bstan pa*) like precious objects, accumulating transmissions without integrating. Believing more empowerments, more teachings equals more progress, while missing the single teaching of recognizing mind nature.
+  ERROR_TYPE: Spiritual_materialism
+  SEVERITY: HIGH
 </teaching-collection-hoarding>
 
 <retinue-exclusivity>
- LINES: 9521, 9535, 9552, 9562
- TIBETAN: "འཁོར་འདུས་མ་བྱས་པ" "འཁོར་ཉིད་ལས་མིག་པ་རིགས་བཞིའི་སངས་རྒྱས" "འཁོར་འཇིག་རྟེན་དང་འཇིག་རྟེན་ལས་འདས་པ" "འཁོར་ཡེ་ཤེས་རྒྱ་མཚོ"
- DELUSION: Creating exclusivity around retinue (*'khor*) - "uncompounded assembly," "four buddha families," "wisdom ocean" - as special groups one must belong to, excluding seeing all beings as retinue of one's own awareness display.
- ERROR_TYPE: Ingroup_elitism
- SEVERITY: MEDIUM
+  LINES: 9521, 9535, 9552, 9562
+  TIBETAN: "འཁོར་འདུས་མ་བྱས་པ" "འཁོར་ཉིད་ལས་མིག་པ་རིགས་བཞིའི་སངས་རྒྱས" "འཁོར་འཇིག་རྟེན་དང་འཇིག་རྟེན་ལས་འདས་པ" "འཁོར་ཡེ་ཤེས་རྒྱ་མཚོ"
+  DELUSION: Creating exclusivity around retinue (*'khor*) - "uncompounded assembly," "four buddha families," "wisdom ocean" - as special groups one must belong to, rather than seeing all beings as retinue of one's own awareness display.
+  ERROR_TYPE: Ingroup_elitism
+  SEVERITY: MEDIUM
 </retinue-exclusivity>
 
 <timing-conditional-waiting>
- LINES: 9522, 9536, 9553, 9571
- TIBETAN: "དུས་ཆོས་ཉིད་ལ་འཕོ་འགྱུར་མེད་པ" "དུས་རང་བཞིན་རྣམ་དག་ཆེན་པོ" "དུས་སྐུ་འདུལ་བའི་དུས" "དུས་ངེས་མེད་སྣ་ཚོགས"
- DELUSION: Waiting for special "time" (*dus*) - death, auspicious moment, future life - to recognize dharmakaya or enter pure lands. Missing that timelessness (*dus med*) means available now, not later.
- ERROR_TYPE: Procrastination_spiritual
- SEVERITY: CRITICAL
+  LINES: 9522, 9536, 9553, 9571
+  TIBETAN: "དུས་ཆོས་ཉིད་ལ་འཕོ་འགྱུར་མེད་པ" "དུས་རང་བཞིན་རྣམ་དག་ཆེན་པོ" "དུས་སྐུ་འདུལ་བའི་དུས" "དུས་ངེས་མེད་སྣ་ཚོགས"
+  DELUSION: Waiting for special "time" (*dus*) - death, auspicious moment, future life - to recognize dharmakaya or enter pure lands. Missing that timelessness (*dus med*) means available now, not later.
+  ERROR_TYPE: Procrastination_spiritual
+  SEVERITY: CRITICAL
 </timing-conditional-waiting>
 
 <kaya-hierarchy-ranking>
- DELUSION: Ranking the three kayas hierarchically - dharmakaya "highest," sambhogakaya "middle," nirmanakaya "lowest" - and striving only for dharmakaya while devaluing the others, failing to see they are inseparable displays of single nature.
- ERROR_TYPE: Hierarchical_delusion
- SEVERITY: HIGH
+  DELUSION: Ranking the three kayas hierarchically - dharmakaya "highest," sambhogakaya "middle," nirmanakaya "lowest" - and striving only for dharmakaya while devaluing the others, failing to see they are inseparable displays of single nature.
+  ERROR_TYPE: Hierarchical_delusion
+  SEVERITY: HIGH
 </kaya-hierarchy-ranking>
 
 <perfection-five-elitism>
- LINES: 9526-9528
- TIBETAN: "ཕུན་སུམ་ཚོགས་པ་ལྔ། བརྗོད་དུ་མེད་པ་དང༌། ལྷུན་གྱིས་གྲུབ་པ་གཉིས་ཏེ།"
- DELUSION: Elitism around "five perfections" (*phun sum tshogs pa lnga*) - believing those who know this framework are spiritually superior, using it to judge others' practice as "impure" or "incomplete."
- ERROR_TYPE: Doctrinal_elitism
- SEVERITY: MEDIUM
+  LINES: 9526-9528
+  TIBETAN: "ཕུན་སུམ་ཚོགས་པ་ལྔ། བརྗོད་དུ་མེད་པ་དང༌། ལྷུན་གྱིས་གྲུབ་པ་གཉིས་ཏེ།"
+  DELUSION: Elitism around "five perfections" (*phun sum tshogs pa lnga*) - believing those who know this framework are spiritually superior, using it to judge others' practice as "impure" or "incomplete."
+  ERROR_TYPE: Doctrinal_elitism
+  SEVERITY: MEDIUM
 </perfection-five-elitism>
 
 <wisdom-ocean-quantification>
- LINE: 9562
- TIBETAN: "འཁོར་ཡེ་ཤེས་རྒྱ་མཚོ"
- DELUSION: Quantifying "wisdom ocean" (*ye shes rgya mtsho*) - trying to measure, count, or limit the limitless. Believing one can "fill up" on wisdom like accumulating merit points toward enlightenment.
- ERROR_TYPE: Quantification_fallacy
- SEVERITY: MEDIUM
+  LINE: 9562
+  TIBETAN: "འཁོར་ཡེ་ཤེས་རྒྱ་མཚོ"
+  DELUSION: Quantifying "wisdom ocean" (*ye shes rgya mtsho*) - trying to measure, count, or limit the limitless. Believing one can "fill up" on wisdom like accumulating merit points toward enlightenment.
+  ERROR_TYPE: Quantification_fallacy
+  SEVERITY: MEDIUM
 </wisdom-ocean-quantification>
 
 <dharmadhatu-reification>
- LINE: 9519
- TIBETAN: "གནས་ཆོས་ཀྱི་དབྱིངས"
- DELUSION: Reifying dharmadhatu (*chos kyi dbyings*) as a "place" one can go to or abide in, as opposed to recognizing it as the emptiness-clarity that is the nature of all experience without separation.
- ERROR_TYPE: Spatial_reification
- SEVERITY: HIGH
+  LINE: 9519
+  TIBETAN: "གནས་ཆོས་ཀྱི་དབྱིངས"
+  DELUSION: Reifying dharmadhatu (*chos kyi dbyings*) as a "place" one can go to or abide in, rather than recognizing it as the emptiness-clarity that is the nature of all experience without separation.
+  ERROR_TYPE: Spatial_reification
+  SEVERITY: HIGH
 </dharmadhatu-reification>
 
 <effortless-spontaneity-grasping>
- LINES: 9525, 9528
- TIBETAN: "འབད་མེད་ལྷུན་གྱིས་གྲུབ་པའི་ཆོས་ཉིད" "ལྷུན་གྱིས་གྲུབ་པ་གཉིས་ཏེ།"
- DELUSION: Grasping at "effortless spontaneous presence" (*'bad med lhun gyis grub pa*) as something to achieve through effort, paradoxically turning spontaneity into another practice goal requiring striving.
- ERROR_TYPE: Paradoxical_grasping
- SEVERITY: CRITICAL
+  LINES: 9525, 9528
+  TIBETAN: "འབད་མེད་ལྷུན་གྱིས་གྲུབ་པའི་ཆོས་ཉིད" "ལྷུན་གྱིས་གྲུབ་པ་གཉིས་ཏེ།"
+  DELUSION: Grasping at "effortless spontaneous presence" (*'bad med lhun gyis grub pa*) as something to achieve through effort, paradoxically turning spontaneity into another practice goal requiring striving.
+  ERROR_TYPE: Paradoxical_grasping
+  SEVERITY: CRITICAL
 </effortless-spontaneity-grasping>
 
 <kaya-four-separation>
- LINES: 9566-9588
- DELUSION: Separating the four kayas (dharmakaya, sambhogakaya, nirmanakaya, svabhavikakaya) as truly distinct entities aspects or modes of the same single nature of mind. Creating divisions where none exist.
- ERROR_TYPE: False_dichotomy
- SEVERITY: HIGH
+  LINES: 9566-9588
+  DELUSION: Separating the four kayas (dharmakaya, sambhogakaya, nirmanakaya, svabhavikakaya) as truly distinct entities rather than different aspects or modes of the same single nature of mind. Creating divisions where none exist.
+  ERROR_TYPE: False_dichotomy
+  SEVERITY: HIGH
 </kaya-four-separation>
 
 <pure-land-geoattachment>
- LINES: 9537-9542
- TIBETAN: "ཞིང་ཁམས་ཕྱག་མཉམ་གཞག་གི་མཐིལ་ན། ཡས་མར་བརྩེགས་པའི་ཉི་ཤུ་རྩ་ལྔ།"
- DELUSION: Geographical attachment to pure lands described as stacked realms "twenty-five above and below," literalizing metaphors about spatial dimensions of enlightened display.
- ERROR_TYPE: Literalism
- SEVERITY: MEDIUM
+  LINES: 9537-9542
+  TIBETAN: "ཞིང་ཁམས་ཕྱག་མཉམ་གཞག་གི་མཐིལ་ན། ཡས་མར་བརྩེགས་པའི་ཉི་ཤུ་རྩ་ལྔ།"
+  DELUSION: Geographical attachment to pure lands described as stacked realms "twenty-five above and below," literalizing metaphors about spatial dimensions of enlightened display.
+  ERROR_TYPE: Literalism
+  SEVERITY: MEDIUM
 </pure-land-geoattachment>
 
 <vajradhara-mythologization>
- LINE: 9549
- TIBETAN: "སྤྲུལ་པ་སྐུའི་སྟོན་པ་དྲུག་པ་རྡོ་རྗེ་འཆང༌"
- DELUSION: Mythologizing the "sixth nirmanakaya teacher Vajradhara" as literal historical being who existed in specific time/place, excluding symbol of mind's indestructible nature manifesting in every moment.
- ERROR_TYPE: Mythic_literalism
- SEVERITY: HIGH
+  LINE: 9549
+  TIBETAN: "སྤྲུལ་པ་སྐུའི་སྟོན་པ་དྲུག་པ་རྡོ་རྗེ་འཆང༌"
+  DELUSION: Mythologizing the "sixth nirmanakaya teacher Vajradhara" as literal historical being who existed in specific time/place, rather than symbol of mind's indestructible nature manifesting in every moment.
+  ERROR_TYPE: Mythic_literalism
+  SEVERITY: HIGH
 </vajradhara-mythologization>
 
 <samantabhadra-external-deity>
- LINE: 9518
- TIBETAN: "དཔལ་ཀུན་ཏུ་བཟང་པོ"
- DELUSION: Treating Samantabhadra as external primordial buddha separate from oneself, praying to "him" for realization, excluding recognizing *kun tu bzang po* as the all-good nature of one's own awareness.
- ERROR_TYPE: Theistic_projection
- SEVERITY: CRITICAL
+  LINE: 9518
+  TIBETAN: "དཔལ་ཀུན་ཏུ་བཟང་པོ"
+  DELUSION: Treating Samantabhadra as external primordial buddha separate from oneself, praying to "him" for realization, rather than recognizing *kun tu bzang po* as the all-good nature of one's own awareness.
+  ERROR_TYPE: Theistic_projection
+  SEVERITY: CRITICAL
 </samantabhadra-external-deity>
 
 <vairocana-light-form-attachment>
- LINE: 9532
- TIBETAN: "རྣམ་པར་སྣང་མཛད"
- DELUSION: Attachment to Vairocana (*rnam par snang mdzad*) as luminous form with specific iconography, believing visualization of his appearance equals sambhogakaya realization, while missing the light is one's own awareness-display.
- ERROR_TYPE: Form_fixation
- SEVERITY: HIGH
+  LINE: 9532
+  TIBETAN: "རྣམ་པར་སྣང་མཛད"
+  DELUSION: Attachment to Vairocana (*rnam par snang mdzad*) as luminous form with specific iconography, believing visualization of his appearance equals sambhogakaya realization, while missing the light is one's own awareness-display.
+  ERROR_TYPE: Form_fixation
+  SEVERITY: HIGH
 </vairocana-light-form-attachment>
 
 <empowerment-quantity-competition>
- LINES: 9591-9610
- TIBETAN: "བརྒྱ་དང་ཉེར་བརྒྱད་ནི་དབང་བསྐུར་བའི་འབྲས་བུ་ཕུན་སུམ་ཚོགས་པའོ།"
- DELUSION: Competing over empowerment counts - "128 perfections," "four sets of sixteen" - treating spiritual development as numerical accumulation game instead of recognition of nature.
- ERROR_TYPE: Quantification_spiritual
- SEVERITY: MEDIUM
+  LINES: 9591-9610
+  TIBETAN: "བརྒྱ་དང་ཉེར་བརྒྱད་ནི་དབང་བསྐུར་བའི་འབྲས་བུ་ཕུན་སུམ་ཚོགས་པའོ།"
+  DELUSION: Competing over empowerment counts - "128 perfections," "four sets of sixteen" - treating spiritual development as numerical accumulation game rather than recognition of nature.
+  ERROR_TYPE: Quantification_spiritual
+  SEVERITY: MEDIUM
 </empowerment-quantity-competition>
 
 <clarity-void-dualism>
- LINES: 9563, 9576, 9580
- TIBETAN: "བདེ་ཆེན་རྣམ་དག" "ཕྱི་དང་ནང་མེད་པ་ཀུན་ཏུ་ཡང་ནང་དུ་གྱུར་པ" "ཕྱི་ནས་བལྟས་པས་ནང་གསལ་བ"
- DELUSION: Maintaining subtle dualism between clarity/appearance (*gsal ba*) and emptiness/void (*stong pa*), believing they must be "combined" while avoiding recognized as never-separated.
- ERROR_TYPE: Subtle_dualism
- SEVERITY: CRITICAL
+  LINES: 9563, 9576, 9580
+  TIBETAN: "བདེ་ཆེན་རྣམ་དག" "ཕྱི་དང་ནང་མེད་པ་ཀུན་ཏུ་ཡང་ནང་དུ་གྱུར་པ" "ཕྱི་ནས་བལྟས་པས་ནང་གསལ་བ"
+  DELUSION: Maintaining subtle dualism between clarity/appearance (*gsal ba*) and emptiness/void (*stong pa*), believing they must be "combined" rather than recognized as never-separated.
+  ERROR_TYPE: Subtle_dualism
+  SEVERITY: CRITICAL
 </clarity-void-dualism>
 
 <self-liberation-future-achievement>
- LINE: 9572
- TIBETAN: "ཆོས་ཟག་པ་རང་ཟད"
- DELUSION: Believing "self-liberation" (*rang grol*) and "natural exhaustion" (*rang zad*) are future results of practice as opposed to immediate qualities of afflictions when recognized as dharmakaya display.
- ERROR_TYPE: Temporal_displacement
- SEVERITY: HIGH
+  LINE: 9572
+  TIBETAN: "ཆོས་ཟག་པ་རང་ཟད"
+  DELUSION: Believing "self-liberation" (*rang grol*) and "natural exhaustion" (*rang zad*) are future results of practice rather than immediate qualities of afflictions when recognized as dharmakaya display.
+  ERROR_TYPE: Temporal_displacement
+  SEVERITY: HIGH
 </self-liberation-future-achievement>
 
 <three-kaya-practice-sequence>
- DELUSION: Believing one must "progress" through kayas sequentially - first stabilize nirmanakaya practice, then advance to sambhogakaya, finally reach dharmakaya - missing their simultaneous presence.
- ERROR_TYPE: Sequential_delusion
- SEVERITY: CRITICAL
+  DELUSION: Believing one must "progress" through kayas sequentially - first stabilize nirmanakaya practice, then advance to sambhogakaya, finally reach dharmakaya - missing their simultaneous presence.
+  ERROR_TYPE: Sequential_delusion
+  SEVERITY: CRITICAL
 </three-kaya-practice-sequence>
 
 <kaya-display-ownership>
- LINES: 9575-9582
- TIBETAN: "སྐུ་སྣང་ལ་རང་བཞིན་མེད་པ" "འཁོར་སྣང་བ་དང་མི་སྣང་བ"
- DELUSION: Claiming ownership of kaya displays - "my dharmakaya," "my sambhogakaya retinue" - while the very concept of possessor is what obscures natural presence.
- ERROR_TYPE: Ownership_delusion
- SEVERITY: MEDIUM
+  LINES: 9575-9582
+  TIBETAN: "སྐུ་སྣང་ལ་རང་བཞིན་མེད་པ" "འཁོར་སྣང་བ་དང་མི་སྣང་བ"
+  DELUSION: Claiming ownership of kaya displays - "my dharmakaya," "my sambhogakaya retinue" - while the very concept of possessor is what obscures natural presence.
+  ERROR_TYPE: Ownership_delusion
+  SEVERITY: MEDIUM
 </kaya-display-ownership>
 
 <deity-yoga-identification>
- LINES: 9597-9604
- TIBETAN: "ཁྲོ་བོའི་སྐུའི་སྟོན་པ་ཡེ་ཤེས་ཀྱི་ཧེ་རུ་ཀ་ལྔ།"
- DELUSION: Identification with wrathful forms (*khro bo*) as "I am Heruka" rather than recognition that all forms are spontaneous self-display of awareness without identifiable self.
- ERROR_TYPE: Identification_misplacement
- SEVERITY: HIGH
+  LINES: 9597-9604
+  TIBETAN: "ཁྲོ་བོའི་སྐུའི་སྟོན་པ་ཡེ་ཤེས་ཀྱི་ཧེ་རུ་ཀ་ལྔ།"
+  DELUSION: Identification with wrathful forms (*khro bo*) as "I am Heruka" rather than recognition that all forms are spontaneous self-display of awareness without identifiable self.
+  ERROR_TYPE: Identification_misplacement
+  SEVERITY: HIGH
 </deity-yoga-identification>
 
 <peaceful-wrathful-dichotomy>
- LINES: 9584-9604
- TIBETAN: "ཞི་བའི་སྐུ" "ཁྲོ་བོའི་སྐུ"
- DELUSION: Maintaining dichotomy between peaceful (*zhi ba*) and wrathful (*khro bo*) kayas as truly different excluding modes of same display, preferring one over other.
- ERROR_TYPE: Preference_delusion
- SEVERITY: MEDIUM
+  LINES: 9584-9604
+  TIBETAN: "ཞི་བའི་སྐུ" "ཁྲོ་བོའི་སྐུ"
+  DELUSION: Maintaining dichotomy between peaceful (*zhi ba*) and wrathful (*khro bo*) kayas as truly different rather than modes of same display, preferring one over other.
+  ERROR_TYPE: Preference_delusion
+  SEVERITY: MEDIUM
 </peaceful-wrathful-dichotomy>
 
 <jnana-mirror-obsession>
- LINE: 9617
- TIBETAN: "མེ་ལོང་ལྟ་བུའི་ཡེ་ཤེས"
- DELUSION: Obsessive focus on "mirror-like wisdom" (*me long lta bu'i ye shes*) as special state to achieve, excluding recognizing all experience already mirrors without obstruction.
- ERROR_TYPE: State_chasing
- SEVERITY: MEDIUM
+  LINE: 9617
+  TIBETAN: "མེ་ལོང་ལྟ་བུའི་ཡེ་ཤེས"
+  DELUSION: Obsessive focus on "mirror-like wisdom" (*me long lta bu'i ye shes*) as special state to achieve, rather than recognizing all experience already mirrors without obstruction.
+  ERROR_TYPE: State_chasing
+  SEVERITY: MEDIUM
 </jnana-mirror-obsession>
 
 <five-wisdom-collection>
- LINES: 9617-9622
- TIBETAN: "མེ་ལོང་ལྟ་བུའི་ཡེ་ཤེས" "མཉམ་པ་ཉིད་ཀྱི" "སོ་སོར་རྟོག་པའི" "བྱ་བ་གྲུབ་པའི" "ཆོས་ཀྱི་དབྱིངས་ཀྱི"
- DELUSION: Collecting the five wisdoms (*ye shes lnga*) as achievements to accumulate, believing one must "develop" each wisdom separately rather than than recognizing them as natural facets of awareness.
- ERROR_TYPE: Development_delusion
- SEVERITY: HIGH
+  LINES: 9617-9622
+  TIBETAN: "མེ་ལོང་ལྟ་བུའི་ཡེ་ཤེས" "མཉམ་པ་ཉིད་ཀྱི" "སོ་སོར་རྟོག་པའི" "བྱ་བ་གྲུབ་པའི" "ཆོས་ཀྱི་དབྱིངས་ཀྱི"
+  DELUSION: Collecting the five wisdoms (*ye shes lnga*) as achievements to accumulate, believing one must "develop" each wisdom separately rather than recognizing them as natural facets of awareness.
+  ERROR_TYPE: Development_delusion
+  SEVERITY: HIGH
 </five-wisdom-collection>
 
 <abhijna-quantification>
- LINES: 9614-9670
- TIBETAN: "མངོན་པར་ཤེས་པ་དྲུག" "མངོན་ཤེས་སུམ་ཅུ"
- DELUSION: Quantifying higher knowledges (*mngon shes*) - "six clairvoyances," "thirty knowledges" - treating them as psychic powers to acquire rather than than natural functioning of unobstructed awareness.
- ERROR_TYPE: Power_chasing
- SEVERITY: MEDIUM
+  LINES: 9614-9670
+  TIBETAN: "མངོན་པར་ཤེས་པ་དྲུག" "མངོན་ཤེས་སུམ་ཅུ"
+  DELUSION: Quantifying higher knowledges (*mngon shes*) - "six clairvoyances," "thirty knowledges" - treating them as psychic powers to acquire rather than natural functioning of unobstructed awareness.
+  ERROR_TYPE: Power_chasing
+  SEVERITY: MEDIUM
 </abhijna-quantification>
 
 <six-superknowledges-competition>
- LINES: 9614-9624
- TIBETAN: "མིག་གི་མངོན་ཤེས་དྲུག་གིས་གཟུགས་ཐམས་ཅད་ཤེས། རྣ་བའི་མངོན་ཤེས་དྲུག་གིས་བརྗོད་པའི་སྒྲ་ཐམས་ཅད་གཏན་ལ་ཕེབས་སོ།"
- DELUSION: Competitive pursuit of six superknowledges (*mngon shes drug*) as signs of spiritual advancement, displaying them to prove realization, while missing that true knowing is non-conceptual.
- ERROR_TYPE: Spiritual_competition
- SEVERITY: MEDIUM
+  LINES: 9614-9624
+  TIBETAN: "མིག་གི་མངོན་ཤེས་དྲུག་གིས་གཟུགས་ཐམས་ཅད་ཤེས། རྣ་བའི་མངོན་ཤེས་དྲུག་གིས་བརྗོད་པའི་སྒྲ་ཐམས་ཅད་གཏན་ལ་ཕེབས་སོ།"
+  DELUSION: Competitive pursuit of six superknowledges (*mngon shes drug*) as signs of spiritual advancement, displaying them to prove realization, while missing that true knowing is non-conceptual.
+  ERROR_TYPE: Spiritual_competition
+  SEVERITY: MEDIUM
 </six-superknowledges-competition>
 
 <omniscience-accumulation-model>
- LINES: 9653, 9670
- TIBETAN: "སངས་རྒྱས་ཀྱི་མཁྱེན་པ་མ་ལུས་པ་རྫོགས་པའོ།"
- DELUSION: Viewing omniscience (*thams cad mkhyen pa*) as accumulation of all possible knowledge points, like filling a database, rather than than recognition that knows without object/subject division.
- ERROR_TYPE: Cognitive_model_misapplication
- SEVERITY: HIGH
+  LINES: 9653, 9670
+  TIBETAN: "སངས་རྒྱས་ཀྱི་མཁྱེན་པ་མ་ལུས་པ་རྫོགས་པའོ།"
+  DELUSION: Viewing omniscience (*thams cad mkhyen pa*) as accumulation of all possible knowledge points, like filling a database, rather than recognition that knows without object/subject division.
+  ERROR_TYPE: Cognitive_model_misapplication
+  SEVERITY: HIGH
 </omniscience-accumulation-model>
 
 <kaya-manifestation-control>
- LINES: 9654-9659
- TIBETAN: "སྐུ་དངོས་ཀྱི་མཐོང་བ་དག་པའི་མངོན་ཤེས་དྲུག་ཤར་བས་སངས་རྒྱས་ཀྱི་སྐུ་ཐམས་ཅད་མཐོང་ཞིང་རང་གིས་ཀྱང་བརྙེས་པའོ།"
- DELUSION: Believing one can "control" kaya manifestations or "make" buddha-fields appear through practice, rather than than recognizing display as self-liberated without controller.
- ERROR_TYPE: Control_delusion
- SEVERITY: HIGH
+  LINES: 9654-9659
+  TIBETAN: "སྐུ་དངོས་ཀྱི་མཐོང་བ་དག་པའི་མངོན་ཤེས་དྲུག་ཤར་བས་སངས་རྒྱས་ཀྱི་སྐུ་ཐམས་ཅད་མཐོང་ཞིང་རང་གིས་ཀྱང་བརྙེས་པའོ།"
+  DELUSION: Believing one can "control" kaya manifestations or "make" buddha-fields appear through practice, rather than recognizing display as self-liberated without controller.
+  ERROR_TYPE: Control_delusion
+  SEVERITY: HIGH
 </kaya-manifestation-control>
 
 <timeless-time-confusion>
- LINES: 9571, 9601
- TIBETAN: "དུས་ངེས་མེད་སྣ་ཚོགས" "དུས་ཡེ་ཤེས་རང་འཁྱིལ་བའི་དུས།"
- DELUSION: Confusing timelessness with infinite time - believing "timeless" (*dus med*) means existing for eternity rather than than being free of temporal conceptualization entirely.
- ERROR_TYPE: Conceptual_conflation
- SEVERITY: MEDIUM
+  LINES: 9571, 9601
+  TIBETAN: "དུས་ངེས་མེད་སྣ་ཚོགས" "དུས་ཡེ་ཤེས་རང་འཁྱིལ་བའི་དུས།"
+  DELUSION: Confusing timelessness with infinite time - believing "timeless" (*dus med*) means existing for eternity rather than being free of temporal conceptualization entirely.
+  ERROR_TYPE: Conceptual_conflation
+  SEVERITY: MEDIUM
 </timeless-time-confusion>
 
 # END DELUSION LAYER

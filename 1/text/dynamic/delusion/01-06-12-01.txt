@@ -1,4 +1,4 @@
-<empowerment-accumulation> [ELABORATE EMPOWERMENTS AS CHECKLIST]
+[9015-9019] <empowerment-accumulation> [ELABORATE EMPOWERMENTS AS CHECKLIST]
 **Misreading:**
 The elaborate outer empowerments (tooth-stick, mandala offering, protection cord, dream divination) are interpreted as establishing a checklist of requirements to complete. The practitioner believes they must receive all four elements or the empowerment is incomplete.
 
@@ -13,20 +13,20 @@ Empowerment-checking. The practitioner believes they must receive all elaborate 
 
 **Secondary consequences:**
 [Immediate] Ritual-accumulation; seeking multiple empowerments.
-[Weeks] Not seeing that all point to same recognition.
+[Weeks] Missing that all point to same recognition.
 [Months] Formalism over substance.
-[Years] Empowerment-shopping while avoiding recognition.
+[Years] Empowerment-shopping rather than recognition.
 [Social] Comparing "empowerment collections" as status.
 
 **Cascade effects:**
-<ritual-formalism> creates <obscuration>
+<ritual-formalism> → checklist-completion → <empowerment-shopping> → accumulation → <recognition-miss> → formal possession over genuine understanding.
 
 **Safety-critical:** MEDIUM. Creates unnecessary accumulation pressure.
 **Page bleed:** Connects to all enumeration-based empowerment passages.
 
 ---
 
-<unelaborate-confusion> [WASHING/SOLICITING AS MECHANICAL]
+[9020-9033] <unelaborate-confusion> [WASHING/SOLICITING AS MECHANICAL]
 **Misreading:**
 The unelaborate empowerments (washing, soliciting, vajra summoning) are interpreted as mechanical procedures that automatically confer empowerment through correct performance.
 
@@ -47,14 +47,14 @@ Procedure-obsession. The practitioner believes performing actions causes empower
 [Social] "I got the empowerment" claims without change.
 
 **Cascade effects:**
-<ritual-mechanism> produces procedure-causality triggers <externalization> triggers action-dependence generates <recognition-obstruction> → missing empowerment is about recognition, not ritual.
+<ritual-mechanism> → procedure-causality → <externalization> → action-dependence → <recognition-obstruction> → missing empowerment is about recognition, not ritual.
 
 **Safety-critical:** MEDIUM. Creates empty ritualism.
 **Page bleed:** Applies to all procedural empowerment descriptions.
 
 ---
 
-<oath-magic> [SAMAYA OATHS AS BINDING CONTRACTS]
+[9023-9026] <oath-magic> [SAMAYA OATHS AS BINDING CONTRACTS]
 **Misreading:**
 The four samaya oaths (renouncing samsara, accepting nirvana, not abandoning beings, etc.) are interpreted as binding magical contracts with automatic punitive consequences for violation.
 
@@ -71,18 +71,18 @@ Oath-anxiety. The practitioner fears breaking samaya as contract-violation with 
 [Immediate] Paralysis; afraid to act lest break samaya.
 [Weeks] Guilt-complex; obsessive samaya-monitoring.
 [Months] Missing that samaya is recognition, not contract.
-[Years] Samaya becomes source of fear in contrast to support.
+[Years] Samaya becomes source of fear rather than support.
 [Social] Using samaya threats to control students.
 
 **Cascade effects:**
-<anxiety-amplification> generates contract-fear → <guilt-complex> → through oath-breaking → <recognition-miss> → samaya as obstacle excluding expression.
+<anxiety-amplification> → contract-fear → <guilt-complex> → through oath-breaking → <recognition-miss> → samaya as obstacle rather than expression.
 
 **Safety-critical:** HIGH. Samaya anxiety used to control students; creates paralyzing fear.
 **Page bleed:** Connects to 01-07-01-01 (Samaya Commitments); CRITICAL cross-reference.
 
 ---
 
-<mandala-entry-fetishism> [ENTERING MANDALA AS INITIATION GATE]
+[9027-9042] <mandala-entry-fetishism> [ENTERING MANDALA AS INITIATION GATE]
 **Misreading:**
 The "entering mandala" (dkyil 'khor du 'jug pa) is interpreted as establishing a literal spatial initiation rite required for practice authorization—physical entry as prerequisite.
 
@@ -103,14 +103,14 @@ Mandala-entry dependency. The practitioner believes they must physically enter m
 [Social] Elitism about who has "entered mandala."
 
 **Cascade effects:**
-<spatial-reification> leads to mandala-literalism → <initiation-dependency> → entry-requirement → <recognition-obstruction> → missing mandala is everywhere.
+<spatial-reification> → mandala-literalism → <initiation-dependency> → entry-requirement → <recognition-obstruction> → missing mandala is everywhere.
 
 **Safety-critical:** MEDIUM. Creates unnecessary spatial/accessibility barriers.
 **Page bleed:** Connects to all mandala passages throughout tantra sections.
 
 ---
 
-<sravaka-mandala-confusion> [HINAYANA EMPOWERMENT AS REAL]
+[9034-9047] <sravaka-mandala-confusion> [HINAYANA EMPOWERMENT AS REAL]
 **Misreading:**
 The description of sravaka (hearer) mandala entry is interpreted as establishing that even Hinayana practitioners receive tantric empowerments, conflating vehicles.
 
@@ -131,14 +131,14 @@ Vehicle-conflation. The practitioner believes all vehicles have same empowerment
 [Social] "All paths are one" oversimplification.
 
 **Cascade effects:**
-<vehicle-confusion> generates <recognition-blocked>
+<vehicle-confusion> → universal-empowerment → <inappropriate-practice> → vehicle-mixing → <methodological-confusion> → losing precision.
 
 **Safety-critical:** LOW-MEDIUM. Creates confusion but not immediate danger.
 **Page bleed:** Applies to all inter-vehicle comparison passages.
 
 ---
 
-<kriya-upa-yoga-enumeration> [27 EMPOWERMENTS AS REQUIREMENTS]
+[9048-9056] <kriya-upa-yoga-enumeration> [27 EMPOWERMENTS AS REQUIREMENTS]
 **Misreading:**
 The enumeration of 27 empowerments across Kriya, Upa, and Yoga tantras is interpreted as establishing requirements that must all be received before advancement.
 
@@ -159,14 +159,14 @@ Empowerment-overwhelm. The practitioner believes they need all 27, creating para
 [Social] Status through empowerment-count.
 
 **Cascade effects:**
-<accumulation-mindset> → <ground-ignored>
+<accumulation-mindset> → enumeration-anxiety → <empowerment-paralysis> → 27-requirement → <deferral-indefinite> → never starting practice.
 
 **Safety-critical:** MEDIUM. Creates overwhelming requirements that block practice.
 **Page bleed:** Connects to all large-number enumeration passages.
 
 ---
 
-<twelve-empowerment-hierarchy> [MAHA EMPOWERMENTS AS SUPERIOR]
+[9057-9069] <twelve-empowerment-hierarchy> [MAHA EMPOWERMENTS AS SUPERIOR]
 **Misreading:**
 The twelve Maha yoga empowerments are interpreted as establishing superiority over the 27 lesser vehicle empowerments, creating elitism.
 
@@ -187,14 +187,14 @@ Empowerment-elitism. The practitioner seeks Maha empowerments as "higher," dismi
 [Social] Looking down on "lower" empowerments.
 
 **Cascade effects:**
-<vehicle-hierarchy-elitism> triggers empowerment-ranking → <premature-practice> → Maha-seeking → <dangerous-practice> → without foundation → <harm-risk> → psychological/spiritual damage.
+<vehicle-hierarchy-elitism> → empowerment-ranking → <premature-practice> → Maha-seeking → <dangerous-practice> → without foundation → <harm-risk> → psychological/spiritual damage.
 
 **Safety-critical:** HIGH. Skipping foundations leads to dangerous premature advanced practice.
 **Page bleed:** Connects to all vehicle hierarchy passages.
 
 ---
 
-<sexual-empowerment-abuse> [CONSORT PRACTICE AS ABUSE JUSTIFICATION]
+[9070-9097] <sexual-empowerment-abuse> [CONSORT PRACTICE AS ABUSE JUSTIFICATION]
 **Misreading:**
 **CRITICAL SAFETY ISSUE:** The Anu and Ati yoga empowerments involving "consort" (rig ma), "bliss" (bde ba), "bodhicitta" (byang sems), and "union" (sbyor ba) are interpreted as justifying sexual activity between teacher and student as "empowerment transmission." This is the primary vector for abuse in Vajrayana.
 
@@ -215,7 +215,7 @@ Empowerment-elitism. The practitioner seeks Maha empowerments as "higher," dismi
 [Social] Community cover-ups; victim-blaming; institutional protection of abusers.
 
 **Cascade effects:**
-<sexual-empowerment-misreading> → <awareness-overlooked>
+<sexual-empowerment-misreading> → abuse-justification → <sexual-exploitation> → trauma → <spiritual-crisis> → rejection of path → <institutional-coverup> → enabling further abuse.
 
 **Safety-critical:** **CRITICAL - HIGHEST PRIORITY.** This misreading has caused the most harm in Western Vajrayana. Must be flagged prominently.
 
@@ -237,7 +237,7 @@ Empowerment-elitism. The practitioner seeks Maha empowerments as "higher," dismi
 
 ---
 
-<substance-transmission-fetish> [BODILY FLUIDS AS SACRED SUBSTANCES]
+[9098-9114] <substance-transmission-fetish> [BODILY FLUIDS AS SACRED SUBSTANCES]
 **Misreading:**
 The empowerments involving "nectar" (bdud rtsi), "bodhicitta" (often semen in tantric contexts), and physical substances are interpreted as establishing that receiving bodily fluids from teacher transmits realization.
 
@@ -258,14 +258,14 @@ Substance-transmission belief. The practitioner believes consuming teacher's bod
 [Social] Secretive substance use; health code violations.
 
 **Cascade effects:**
-<substantialist-error> produces substance-dependence → <health-risks> → disease transmission → <symbol-miss> → literalism over meaning → <dependency-creation> → substance required for practice.
+<substantialist-error> → substance-dependence → <health-risks> → disease transmission → <symbol-miss> → literalism over meaning → <dependency-creation> → substance required for practice.
 
 **Safety-critical:** HIGH. Health risks; disease transmission; substance abuse patterns.
 **Page bleed:** Connects to all substance/nectar passages.
 
 ---
 
-<empowerment-number-obsession> [HUNDREDS OF EMPOWERMENTS AS NECESSARY]
+[9115-9261] <empowerment-number-obsession> [HUNDREDS OF EMPOWERMENTS AS NECESSARY]
 **Misreading:**
 The elaborate enumeration systems (64, 289, 209, 9498, etc. empowerments) are interpreted as establishing that hundreds or thousands of empowerments are necessary for complete realization.
 
@@ -286,14 +286,14 @@ Empowerment-number obsession. The practitioner believes they need hundreds/thous
 [Social] Status through empowerment-count.
 
 **Cascade effects:**
-<number-obsession> generates quantitative-chasing → <commercial-exploitation> → paying for empowerments → <completion-anxiety> → never enough → <recognition-miss> → substituting numbers for insight.
+<number-obsession> → quantitative-chasing → <commercial-exploitation> → paying for empowerments → <completion-anxiety> → never enough → <recognition-miss> → substituting numbers for insight.
 
 **Safety-critical:** HIGH. Creates endless commercial demand; exploitation opportunity.
 **Page bleed:** Applies to all large enumeration passages.
 
 ---
 
-<empowerment-result-magic> [POWERS AS AUTOMATIC RESULT]
+[9262-9277] <empowerment-result-magic> [POWERS AS AUTOMATIC RESULT]
 **Misreading:**
 The descriptions of results from empowerments (siddhis, powers, attainments) are interpreted as establishing that empowerment automatically confers these abilities.
 
@@ -314,14 +314,14 @@ Power-expectation. The practitioner believes empowerment automatically gives sid
 [Social] Competition over "who has powers."
 
 **Cascade effects:**
-<automatic-result-belief> leads to power-expectation → <disappointment-delusion> → either/or response → <recognition-miss> → seeking powers over wisdom.
+<automatic-result-belief> → power-expectation → <disappointment-delusion> → either/or response → <recognition-miss> → seeking powers over wisdom.
 
 **Safety-critical:** MEDIUM. Creates disappointment or false claims.
 **Page bleed:** Connects to all siddhi/result passages.
 
 ---
 
-<vidyadhara-stage-fetish> [FOUR STAGES AS CAREER LADDER]
+[9278-9344] <vidyadhara-stage-fetish> [FOUR STAGES AS CAREER LADDER]
 **Misreading:**
 The four vidyadhara stages (yoga, great yoga, yoga of penetration, yoga of realization) are interpreted as establishing a career ladder of spiritual attainment—progressing through stages as achievement.
 
@@ -342,14 +342,14 @@ Stage-careerism. The practitioner treats vidyadhara stages as titles to earn, cr
 [Social] Hierarchical community; stage-snobbery.
 
 **Cascade effects:**
-<stage-fetishism> triggers career-ladder → <comparison-culture> → measuring progress → <achievement-anxiety> → wanting to advance → <natural-recognition-miss> → stages are descriptions, not goals.
+<stage-fetishism> → career-ladder → <comparison-culture> → measuring progress → <achievement-anxiety> → wanting to advance → <natural-recognition-miss> → stages are descriptions, not goals.
 
 **Safety-critical:** MEDIUM. Creates hierarchical elitism.
 **Page bleed:** Connects to all stage/path structure passages.
 
 ---
 
-<magical-power-materialism> [SIDDHIS AS MEASURE]
+[9345-9448] <magical-power-materialism> [SIDDHIS AS MEASURE]
 **Misreading:**
 The extensive lists of magical powers (controling elements, flying, reading minds, etc.) are interpreted as establishing siddhis as measure of realization—practitioner with powers is advanced; without is not.
 
@@ -370,14 +370,14 @@ Power-materialism. Realization measured by power-manifestation. Practitioners ch
 [Social] Hierarchy based on claimed powers.
 
 **Cascade effects:**
-<siddhi-materialism> triggers power-chasing → <fake-abilities> → imagination as proof → <recognition-substitution> → powers over wisdom → <harm-potential> → using powers unethically.
+<siddhi-materialism> → power-chasing → <fake-abilities> → imagination as proof → <recognition-substitution> → powers over wisdom → <harm-potential> → using powers unethically.
 
-**Safety-critical:** HIGH. Powers become goal but not recognition; ethical dangers.
+**Safety-critical:** HIGH. Powers become goal rather than recognition; ethical dangers.
 **Page bleed:** Connects to all siddhi/magical power passages.
 
 ---
 
-<buddhahood-temporal-delay> [FRUITION AS FUTURE EVENT]
+[9449-9516] <buddhahood-temporal-delay> [FRUITION AS FUTURE EVENT]
 **Misreading:**
 The temporal descriptions of Buddhahood attainment (one life, one aeon, etc.) are interpreted as establishing that full realization is delayed future event, not present recognition.
 
@@ -398,7 +398,7 @@ Future-deferral. The practitioner believes full Buddhahood is future attainment,
 [Social] "We're not Buddhas yet" consensus.
 
 **Cascade effects:**
-<temporal-delay> triggers future-deferral → <waiting-game> → postponing recognition → <present-miss> → missing now → <life-long-search> → death without recognition.
+<temporal-delay> → future-deferral → <waiting-game> → postponing recognition → <present-miss> → missing now → <life-long-search> → death without recognition.
 
 **Safety-critical:** HIGH. Defers recognition indefinitely; defeats purpose of Dzogchen.
 **Page bleed:** Connects to all temporal fruition passages.
@@ -412,31 +412,31 @@ Future-deferral. The practitioner believes full Buddhahood is future attainment,
 This chapter on empowerment classification presents **THE HIGHEST RISK** in the entire Treasury for abuse, exploitation, and harm. Key dangers:
 
 1. **SEXUAL ABUSE JUSTIFICATION** (lines 9070-9097)
- - Consort practice misused for teacher-student sexual contact
- - "Empowerment" used to coerce sexual compliance
- - **ACTION REQUIRED:** Clear statement that sexual teacher-student contact is ALWAYS abuse
+   - Consort practice misused for teacher-student sexual contact
+   - "Empowerment" used to coerce sexual compliance
+   - **ACTION REQUIRED:** Clear statement that sexual teacher-student contact is ALWAYS abuse
 
 2. **SUBSTANCE DEPENDENCY** (lines 9098-9114)
- - Bodily fluids presented as transmission vehicles
- - Health risks; coercive "blessings"
- - **ACTION REQUIRED:** Substances symbolic only; literal use dangerous
+   - Bodily fluids presented as transmission vehicles
+   - Health risks; coercive "blessings"
+   - **ACTION REQUIRED:** Substances symbolic only; literal use dangerous
 
 3. **EMPOWERMENT ACCUMULATION TRAP** (lines 9115-9261)
- - Hundreds/thousands of empowerments presented as necessary
- - Creates endless commercial demand
- - **ACTION REQUIRED:** Single recognition more valuable than 10,000 empowerments
+   - Hundreds/thousands of empowerments presented as necessary
+   - Creates endless commercial demand
+   - **ACTION REQUIRED:** Single recognition more valuable than 10,000 empowerments
 
 4. **GURU DEPENDENCY CREATION** (throughout)
- - Empowerment structures create need for continuous teacher access
- - Authority concentration enables abuse
- - **ACTION REQUIRED:** Recognition ultimately self-reliant; teachers point, don't create
+   - Empowerment structures create need for continuous teacher access
+   - Authority concentration enables abuse
+   - **ACTION REQUIRED:** Recognition ultimately self-reliant; teachers point, don't create
 
 5. **MAGICAL THINKING** (lines 9262-9516)
- - Powers/siddhis as automatic results
- - Disappointment or delusion
- - **ACTION REQUIRED:** Powers not measure of realization
+   - Powers/siddhis as automatic results
+   - Disappointment or delusion
+   - **ACTION REQUIRED:** Powers not measure of realization
 
-**ROOT ERROR:** Empowerment understood as something received from outside rather than than recognition of intrinsic nature. All empowerments point to self-recognition; none confer it.
+**ROOT ERROR:** Empowerment understood as something received from outside rather than recognition of intrinsic nature. All empowerments point to self-recognition; none confer it.
 
 **REQUIRED STUDENT PROTECTIONS:**
 - Informed consent about empowerment meaning
@@ -454,7 +454,7 @@ This chapter on empowerment classification presents **THE HIGHEST RISK** in the 
 **FINAL SAFETY WARNING:**
 Empowerment systems have been weaponized for abuse throughout Vajrayana history. This chapter's elaborate enumeration and esoteric elements create maximum exploitation opportunity. Reader must understand:
 - Empowerment is recognition, not magic
-- Physical substances don't transmit realization 
+- Physical substances don't transmit realization  
 - Sexual contact is never Dharma instruction
 - Numbers of empowerments don't matter
 - Powers don't prove realization

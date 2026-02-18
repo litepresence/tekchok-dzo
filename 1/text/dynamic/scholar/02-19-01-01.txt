@@ -1,36 +1,36 @@
-<architectural-analysis>
+[6414-6423] <structure>
 Analysis of One and Many Applied to Mind
-**Close reading:** This section applies the classical Buddhist logical dilemma of one (*gcig*) and many (*tha dad*) to the nature of mind (*sems*). The structure presents a trilemma: (1) if mind were singular, absurd consequences follow (all beings would die simultaneously); (2) if minds were multiple, shared perception would be impossible; (3) the body-mind analogy demonstrates the impossibility of consciousnesses uniting into a single stream. This follows the standard Madhyamaka deconstructive methodology applied to the specific case of mind.
+**Analysis:** This section applies the classical Buddhist logical dilemma of one (*gcig*) and many (*tha dad*) to the nature of mind (*sems*). The structure presents a trilemma: (1) if mind were singular, absurd consequences follow (all beings would die simultaneously); (2) if minds were multiple, shared perception would be impossible; (3) the body-mind analogy demonstrates the impossibility of consciousnesses uniting into a single stream. This follows the standard Madhyamaka deconstructive methodology applied to the specific case of mind.
 
-[6414] <grammatical-examination> *Ldog pa med na*
-**Philological analysis:** The phrase *ldog pa med na* (if there is no reversal/return) introduces a conditional analysis. The term *ldog pa* denotes logical reversal or return to a previous state. Without such reversal, the aggregates (*phung po*) of beings would arise in absurd ways. The particle *na* marks the protasis (if-clause) of a conditional construction.
+[6414] <philology> *Ldog pa med na*
+**Analysis:** The phrase *ldog pa med na* (if there is no reversal/return) introduces a conditional analysis. The term *ldog pa* denotes logical reversal or return to a previous state. Without such reversal, the aggregates (*phung po*) of beings would arise in absurd ways. The particle *na* marks the protasis (if-clause) of a conditional construction.
 
-<concept>
+[6417-6423] <concept>
 Consequences of Plural Minds
-**Investigation:** If minds were various/plural (*sna tshogs pa*):
+**Analysis:** If minds were various/plural (*sna tshogs pa*):
 - Self and other thought (*rang gzhan gyi rtog pa*) would arise simultaneously (*thang cig tu*)
 - Mutual intermingling (*phan tshun 'chol ba*) would prevent distinct experiences
 - Self-conquest (*rang rgyal ba*), not dying (*ma shi ba*), absence of suffering, and defeat of others would all be impossible
 - The entire structure of samsaric experience would collapse
 
-<doxographical-placement>
+[6424-6428] <context>
 Classical Buddhist Debate
-**Consideration:** The *gal te tha dad pa yin na ni* construction engages with the classical Indian philosophical debate between:
+**Analysis:** The *gal te tha dad pa yin na ni* construction engages with the classical Indian philosophical debate between:
 - Ātmavādins (eternalists asserting a singular self)
 - Buddhist *anātmavādins* (denying both singular and plural self)
 
 The argument that one dying implies all die (*gcig shi bas kun shi ba*) references the standard critique of universal self theories found in Nāgārjuna's *Mūlamadhyamakakārikā*.
 
-<structural-mapping>
+[6429-6431] <structure>
 Search and Non-Finding
-**Examination:** Having exhausted logical analysis (*rgal bas brtags te btsal bas*), the text arrives at the quintessential realization: not finding anything (*gang yang ma rnyed pa*) constitutes the realization (*rtogs pa*) through wisdom-power (*shes rab kyi dbang pos*) of the meaning pure from the beginning in reality (*chos nyid ka nas dag pa'i don*).
+**Analysis:** Having exhausted logical analysis (*rgal bas brtags te btsal bas*), the text arrives at the quintessential realization: not finding anything (*gang yang ma rnyed pa*) constitutes the realization (*rtogs pa*) through wisdom-power (*shes rab kyi dbang pos*) of the meaning pure from the beginning in reality (*chos nyid ka nas dag pa'i don*).
 
-[6430] <linguistic-analysis> *Chos nyid ka nas dag pa*
-**Close reading:** The phrase *chos nyid ka nas dag pa* (pure from the beginning in dharmatā/reality) employs *ka nas* (from the primordial) to indicate timeless purity, not achieved through purification. The term *chos nyid* (dharmatā) denotes the ultimate nature of phenomena, distinct from conventional characterizations.
+[6430] <philology> *Chos nyid ka nas dag pa*
+**Analysis:** The phrase *chos nyid ka nas dag pa* (pure from the beginning in dharmatā/reality) employs *ka nas* (from the primordial) to indicate timeless purity, not achieved through purification. The term *chos nyid* (dharmatā) denotes the ultimate nature of phenomena, distinct from conventional characterizations.
 
-<concept>
+[6431-6439] <concept>
 The Causal Dilemma
-**Philological analysis:** The text presents a trilemma regarding mind's causation:
+**Analysis:** The text presents a trilemma regarding mind's causation:
 
 1. **If mind has no cause** (*sems la rgyu med*):
    - Return/reversal (*ldog pa*) is impossible
@@ -48,21 +48,21 @@ The Causal Dilemma
 
 The resolution: *rigs gcig tu 'du bas shes so* (known through gathering into one family) transcends the dilemma.
 
-<historical-context>
+[6440-6453] <context>
 Scriptural Citations from *Kun byed rgyal po*
-**Investigation:** The citations from the All-Creating King (*Kun byed rgyal po*) establish the Dzogchen view:
+**Analysis:** The citations from the All-Creating King (*Kun byed rgyal po*) establish the Dzogchen view:
 - *Ma rig 'khrul 'khor 'di la zad med 'phel ba med* (This ignorance-illusion-wheel has no exhaustion, no increase)
 - *Sems can khams kyi rang bzhin de yang ma mtha' med* (The nature of the realm of beings is also without end)
 
 These establish the non-arising (*skye ba med pa*) and non-increase (*'phel ba med pa*) of mind, foundational to the self-liberation (*rang grol*) view.
 
-<architectural-analysis>
+[6454-6459] <structure>
 Causal Implications: No Increase, No Birth
-**Consideration:** This section traces the logical implications of mind having no cause (*rgyu med*). The structure follows a chain: no increase → no birth → no death → no agent/receiver (*las po*). Each negation builds upon the previous, culminating in scriptural citation from the *Samādhirāja-sūtra* (*Ting nge 'dzin rgyal po mdo*).
+**Analysis:** This section traces the logical implications of mind having no cause (*rgyu med*). The structure follows a chain: no increase → no birth → no death → no agent/receiver (*las po*). Each negation builds upon the previous, culminating in scriptural citation from the *Samādhirāja-sūtra* (*Ting nge 'dzin rgyal po mdo*).
 
-<grammatical-examination>
+[6454-6455] <philology>
 *'Phel ba med pas skye ba med*
-**Examination:** The causal chain uses the ablative particle *pas* (because of/from) to indicate logical consequence:
+**Analysis:** The causal chain uses the ablative particle *pas* (because of/from) to indicate logical consequence:
 - *'phel ba med pas* (from no increase)
 - *skye ba med par shes* (know no birth)
 - *skye ba med pas 'chi ba med par shes* (from no birth, know no death)
@@ -70,42 +70,42 @@ Causal Implications: No Increase, No Birth
 This demonstrates the Madhyamaka method of deconstructing temporal processes applied to mind.
 
 [6456] <concept> Agent Without Object
-**Close reading:** The phrase *las la po'ang ngan med par shes te* (and one knows there is also no bad/harm for the agent) demonstrates that without birth and death, the entire structure of karma—agent, action, and recipient—collapses. The term *las po* (agent/doer) finds no referent.
+**Analysis:** The phrase *las la po'ang ngan med par shes te* (and one knows there is also no bad/harm for the agent) indicates that without birth and death, the entire structure of karma—agent, action, and recipient—collapses. The term *las po* (agent/doer) finds no referent.
 
-<doxographical-placement>
+[6457-6459] <context>
 *Samādhirāja-sūtra* Citation
-**Philological analysis:** The citation *yod dang med pa 'di gnyis med pa'i chos yin te* (existence and non-existence, these two are dharmas of non-existence) from the King of Samādhi Sūtra sets up the transcendence of binary conceptual extremes. This situates the text within the *Prajñāpāramitā* tradition of non-dual wisdom.
+**Analysis:** The citation *yod dang med pa 'di gnyis med pa'i chos yin te* (existence and non-existence, these two are dharmas of non-existence) from the King of Samādhi Sūtra establishes the transcendence of binary conceptual extremes. This situates the text within the *Prajñāpāramitā* tradition of non-dual wisdom.
 
-<linguistic-analysis>
+[6460-6462] <philology>
 *Ye gdod ma nas rang gdod med*
-**Investigation:** The phrase *ye gdod ma nas rang gdod med pa* (primordially, from the beginning, without self-establishment) employs *gdod ma nas* (from the primordial) and *rang gdod med* (without self-establishment) to indicate that mind has never arisen as a substantial entity. The rhetorical question *sems can skye bar ga la 'gyur* (how could beings arise?) underscores the impossibility of samsaric emergence.
+**Analysis:** The phrase *ye gdod ma nas rang gdod med pa* (primordially, from the beginning, without self-establishment) employs *gdod ma nas* (from the primordial) and *rang gdod med* (without self-establishment) to indicate that mind has never arisen as a substantial entity. The rhetorical question *sems can skye bar ga la 'gyur* (how could beings arise?) underscores the impossibility of samsaric emergence.
 
-<structural-mapping>
+[6463-6471] <structure>
 Critique of Conditions Applied to Mind
-**Consideration:** The text shifts to analyze conditions (*rkyen*) applied to mind, presenting another trilemma:
+**Analysis:** The text shifts to analyze conditions (*rkyen*) applied to mind, presenting another trilemma:
 1. If conditions exist: mind would become various (*sna tshogs su 'gyur*), preventing unified memory-thought streams
 2. If conditions exist: mind would necessarily be impermanent (*g tan 'jig par 'gyur*)
 3. Without conditions: present memory-thought would be impossible
 
 The resolution maintains *sgyu ma ltar gnas pa tsam* (merely existing like illusion) as the Middle Way.
 
-<concept>
+[6463-6465] <concept>
 Condition Analysis
-**Examination:** The argument *sems la rkyen med pa* (mind has no conditions) parallels the earlier causal analysis:
+**Analysis:** The argument *sems la rkyen med pa* (mind has no conditions) parallels the earlier causal analysis:
 - If conditions exist: colors/appearances would vary (*kha dog sogs pa sna tshogs su 'gyur*)
 - This would make unified consciousness impossible (*dran bsam gcig tu mi rigs*)
 - The body-color and sense-faculties (*lus kyi kha dog dang skye mched*) would all differ even while occupying a body
 
-<grammatical-examination>
+[6466-6471] <philology>
 Terminological Precision
-**Close reading:** Key terms in the condition critique:
+**Analysis:** Key terms in the condition critique:
 - *Rkyen* (condition): distinguished from *rgyu* (cause)—conditions are external supporting factors
 - *Gtan 'jig pa* (certain destruction/impermanence): marks the necessary consequence of conditioned existence
 - *Sgyu ma ltar gnas pa tsam* (merely existing like illusion): the *māyā-upamā* (illusion simile) common to both Madhyamaka and Yogācāra, indicating apparent existence without substantial nature
 
-<historical-context>
+[6472-6488] <context>
 *Rtsa ba shes rab* and *Kun byed rgyal po* Citations
-**Philological analysis:** The page cites two authoritative sources:
+**Analysis:** The page cites two authoritative sources:
 
 1. **Nāgārjuna's *Mūlamadhyamakakārikā* (lines 6480-6484):**
    - *Sa bon zhing dang ma zhing las/myu gu skye ba ma yin te* (From seed, field, or no-field, sprout is not born)
@@ -116,80 +116,80 @@ Terminological Precision
 
 These establish the intertextual continuity with both Indian Madhyamaka and Tibetan Nyingma tantric sources.
 
-<concept>
+[6472-6476] <concept>
 Dream and Illusion Analogies
-**Investigation:** The text employs the *svapnopamā* (dream simile):
+**Analysis:** The text employs the *svapnopamā* (dream simile):
 - Present memory-thought (*da lta'i dran bsam*) is compared to joy at finding jewels in last night's dream (*mdang gi rmi lam gyi nor bu rnyed pa la dga' ba*)
 - Upon waking (*sad du*), nothing exists (*ci yang med pa*)
 - Similarly, present fixation (*zhen*) on apparent reality reveals no true existence (*rjes la ci yang med pa*)
 
 This illustrates *gnas skabs kyi bden rdzun* (apparent truth of the temporary state)—appearances without substantial existence.
 
-<concept>
+[6477-6479] <concept>
 Cloud and Sky Simile
-**Consideration:** The simile of clouds (*sprin*) in space (*nam mkha'*):
+**Analysis:** The simile of clouds (*sprin*) in space (*nam mkha'*):
 - Clouds gather temporarily (*glo bur du 'khrigs pa*) without going anywhere when they dissipate (*gar song cha med glo bur du yal ba*)
 - Even while clouds appear (*snang ba*), they do not exist in space (*nam mkha' la med kyang de'i ngang na snang ba*)
 - Similarly, appearances arise without cause/condition in mind
 
 This demonstrates the *āgantuka* (adventitious) nature of appearances while mind remains unobscured.
 
-<architectural-analysis>
+[6489-6490] <structure>
 Conclusion of Causal Analysis
-**Examination:** The section concludes with citation from the All-Creating King establishing the "path without cause and condition" (*rgyu dang rkyen med zhi ba mchog gi lam*). This marks a transition from deconstructive analysis to the positive assertion of Dzogchen view—primordial peace (*zhi ba*) as the supreme path without dependence on causal conditions.
+**Analysis:** The section concludes with citation from the All-Creating King establishing the "path without cause and condition" (*rgyu dang rkyen med zhi ba mchog gi lam*). This marks a transition from deconstructive analysis to the positive assertion of Dzogchen view—primordial peace (*zhi ba*) as the supreme path without dependence on causal conditions.
 
-[6489] <linguistic-analysis> *Rgyu dang rkyen med zhi ba mchog gi lam*
-**Close reading:** The phrase employs:
+[6489] <philology> *Rgyu dang rkyen med zhi ba mchog gi lam*
+**Analysis:** The phrase employs:
 - *Rgyu dang rkyen med* (without cause and condition): ablative construction indicating freedom from
 - *Zhi ba* (peace/cessation): the primordial state, not achieved through effort
 - *Mchog gi lam* (supreme path): superlative indicating this transcends all lower vehicles
 
 This is the *niṣprapañca* (non-conceptual) path distinguished from causal vehicles.
 
-<structural-mapping>
+[6491-6493] <structure>
 Ontological Status of Mind
-**Philological analysis:** The text shifts to direct ontological inquiry: *sems yod na* (if mind exists), is it:
+**Analysis:** The text shifts to direct ontological inquiry: *sems yod na* (if mind exists), is it:
 1. Material/formed (*dngos po gzugs can du yod dam*)
 2. Formless (*gzugs med du yod*)
 
 This binary presents the standard options for mind's substantial existence, both of which the text will negate.
 
 [6494] <concept> Refutation of Material Mind
-**Investigation:** The argument against material mind:
+**Analysis:** The argument against material mind:
 - If material: would be perceptible to sense-faculties (*dbang po'i mngon sum*)
 - Would be visible/observable (*bltar rung ba*)
 - But no such observable mind is perceived (*dmigs pa'i mngon sum*)
 
 This follows standard Buddhist critique of materialism (*bhautika*), distinguishing mind from physical form (*rupa*).
 
-<grammatical-examination>
+[6495-6501] <philology>
 Movement Analysis
-**Consideration:** The analysis of movement (*'gyu ba*) employs the standard Buddhist causal triad:
+**Analysis:** The analysis of movement (*'gyu ba*) employs the standard Buddhist causal triad:
 - *'Das ma 'ongs da lta gsum* (past, future, present three)
 - *Phrad pa* (contact/meeting): the necessary condition for causation
 
 The argument: if past and present movement meet (*'gyu ba sna ma dang da lta'i 'gyu ba phrad na*), then past memory would still exist unceased (*ma 'gags par yod dgos*). But this contradicts pastness (*sna ma yin par 'gal*). If they don't meet (*ma phrad na*), present cognition would arise without cause (*rgyu med 'gyur*).
 
-<doxographical-placement>
+[6495-6501] <context>
 Classical Buddhist Kinematic Analysis
-**Examination:** This analysis of motion references:
+**Analysis:** This analysis of motion references:
 - The *Kālakārīya* analysis of time and motion
 - Nāgārjuna's critique of motion in *Mūlamadhyamakakārikā* Chapter II
 - The broader Buddhist project of deconstructing temporal processes
 
 The conclusion *khegs so* (refuted/defeated) marks the successful negation of movement as a substantial entity.
 
-<architectural-analysis>
+[6502-6504] <structure>
 One or Many Movement
-**Close reading:** Applying the one/many dilemma to movement itself:
+**Analysis:** Applying the one/many dilemma to movement itself:
 1. If one (*gcig*): variety (*sna tshogs par*) would be lost—movement could not appear in diverse forms
 2. If different/plural (*tha dad*): mover (*'gyu byed*) being one would be lost—the unity of the moving subject collapses
 
 Both options lead to *nyams* (loss/deficiency), demonstrating the untenability of substantialized movement.
 
-<concept>
+[6505-6521] <concept>
 Fourfold Direct Introduction (*ngo sprod*)
-**Philological analysis:** The text presents four methods of direct introduction to mind's nature:
+**Analysis:** The text presents four methods of direct introduction to mind's nature:
 
 1. **Space-Without (*nam med*)** [6508]:
    - Without space, memory-thought cannot be introduced (*ngo sprad*)
@@ -198,6 +198,7 @@ Fourfold Direct Introduction (*ngo sprod*)
 
 2. **Appearance-Awareness (*snang shes*)**
 
+[6512-6516]
 :
    - Introduction between former and later appearances
    - Mind not established as cause or characteristic (*rgyu dang mtshan nyid du ma grub*)
@@ -205,6 +206,7 @@ Fourfold Direct Introduction (*ngo sprod*)
 
 3. **Mind Former-Later (*blo sna phyis*)**
 
+[6518-6521]
 :
    - Introduction between former and later mind
    - Mind has no root (*rts ba med*)
@@ -212,130 +214,132 @@ Fourfold Direct Introduction (*ngo sprod*)
 
 Each method progressively refines the recognition of mind's nature through direct introduction rather than conceptual analysis.
 
-[6505] <linguistic-analysis> *Sems yod par ma grub*
-**Investigation:** The phrase *sems yod par ma grub* (mind is not established as existing) employs the negative perfective *ma grub* (not established/proven) to indicate that mind cannot be substantiated through either existence or non-existence. This is the Madhyamaka *niḥsvabhāva* (without own-nature) applied specifically to mind.
+[6505] <philology> *Sems yod par ma grub*
+**Analysis:** The phrase *sems yod par ma grub* (mind is not established as existing) employs the negative perfective *ma grub* (not established/proven) to indicate that mind cannot be substantiated through either existence or non-existence. This is the Madhyamaka *niḥsvabhāva* (without own-nature) applied specifically to mind.
 
 [6506] <concept> Rootless as Space
-**Consideration:** The simile *rtsa bral nam mkha' 'dra* (like space without root) establishes:
+**Analysis:** The simile *rtsa bral nam mkha' 'dra* (like space without root) establishes:
 - No birth (*skye ba med*)
 - No birthplace (*skye gzhi med*)
 - Therefore no reversal place (*ldog pa'i sa med*)
 
 Space (*nam mkha'*) serves as the quintessential example of uncaused, unconditioned, non-substantial existence.
 
-[6510] <grammatical-examination> *Khams gsum ming med chen po*
-**Examination:** The phrase *khams gsum ming med chen po* (three realms, great namelessness) employs:
+[6510] <philology> *Khams gsum ming med chen po*
+**Analysis:** The phrase *khams gsum ming med chen po* (three realms, great namelessness) employs:
 - *Ming med* (nameless): beyond all designation and conceptual imputation
 - *Chen po* (great): superlative indicating the vastness of this realization
 
 This marks the transcendence of the entire samsaric structure through recognition of mind's nature.
 
 [6511] <concept> Beyond Karma
-**Close reading:** The realization that *las dge sdig gi phan gnon med* (no benefit or harm from virtuous or non-virtuous karma) does not constitute antinomianism but rather the transcendence of karma's operation from the perspective of realized mind. The phrase *blo bde ba* (mind at ease/peace) indicates the soteriological fruit of this recognition.
+**Analysis:** The realization that *las dge sdig gi phan gnon med* (no benefit or harm from virtuous or non-virtuous karma) does not constitute antinomianism but rather the transcendence of karma's operation from the perspective of realized mind. The phrase *blo bde ba* (mind at ease/peace) indicates the soteriological fruit of this recognition.
 
-<structural-mapping>
+[6522-6527] <structure>
 Breaking the House of Mind: Sixteen Dharmas
-**Philological analysis:** This page synthesizes previous analyses into the "destruction of mind's house" (*sems kyi khang bu bshig pa*). The structure presents four similes (*dpe*) for self-destruction through analysis, culminating in the "fourfold direct introduction" (*ngo sprod pa bzhi*) and sixteen dharmas of non-existence (*med pa'i chos bcu drug*).
+**Analysis:** This page synthesizes previous analyses into the "destruction of mind's house" (*sems kyi khang bu bshig pa*). The structure presents four similes (*dpe*) for self-destruction through analysis, culminating in the "fourfold direct introduction" (*ngo sprod pa bzhi*) and sixteen dharmas of non-existence (*med pa'i chos bcu drug*).
 
-[6522] <linguistic-analysis> *Blo bde ba*
-**Investigation:** The term *blo bde ba* (mind at ease/peace) marks the soteriological conclusion of analysis. The particle *pas* indicates causal consequence: through cutting (*chod pa*) the misconception of mind's existence, one realizes the non-existence from which no deviation is possible (*ma rtogs pa'i logs pa med*).
+[6522] <philology> *Blo bde ba*
+**Analysis:** The term *blo bde ba* (mind at ease/peace) marks the soteriological conclusion of analysis. The particle *pas* indicates causal consequence: through cutting (*chod pa*) the misconception of mind's existence, one realizes the non-existence from which no deviation is possible (*ma rtogs pa'i logs pa med*).
 
-<concept>
+[6523-6527] <concept>
 Fourfold Direct Introduction
-**Consideration:** The four introductions continue from previous page:
+**Analysis:** The four introductions continue from previous page:
 4. **Dharmatā Former-Later**
 
+[6523-6527]
 : Introduction between former and later dharmatā reveals mind without birth. Knowing this: propensities (*bag chags*) and body alaya cannot harm. The "house of mind" is like a child's sandcastle—built while dissolving.
 
-<architectural-analysis>
+[6528-6532] <structure>
 Fruition of Non-Existence
-**Examination:** The conclusion of the four times analysis (*dus bzhi*):
+**Analysis:** The conclusion of the four times analysis (*dus bzhi*):
 - No buddha exists → buddha is merely name (*ming tsam*)
 - Hope for fruition (*'bras bu la re ba*) is reversed (*blo ldog*)
 - Therefore no path of effort (*'bad rtsol*)
 - Liberation's measure (*grol ba'i tshad*) means not finding anything in existence or non-existence
 
-<grammatical-examination>
+[6528-6532] <philology>
 Terminological Precision
-**Close reading:** Key terms:
+**Analysis:** Key terms:
 - *Sangs rgyas med pas* (because buddha does not exist): ablative *pas* indicating consequence
 - *Ming tsam* (mere name): nominalist critique of substantial buddhahood
 - *'Khor 'das su btags pa* (designated as samsara/nirvana): the merely nominal status of all dichotomies
 
-<structural-mapping>
+[6533-6548] <structure>
 Sixteen Dharmas and Three Results
-**Philological analysis:** The sixteen dharmas (*chos can bcu drug*) break mind's house through four sets of four analyses each, culminating in three results (*'bras bu gsum*):
+**Analysis:** The sixteen dharmas (*chos can bcu drug*) break mind's house through four sets of four analyses each, culminating in three results (*'bras bu gsum*):
 
 1. **Appearance-mind nondual without fixation** (*bem rig gnyis med*) [6571]
 2. **Mind's house self-destructed, movement-thoughts cleared** (*'gyu ba rtogs sangs*) [6573]
 3. **Knowing the dissolution place** (*yal sa*) of nondual matter-awareness [6574]
 
-<concept>
+[6536-6548] <concept>
 Four Similes of Destruction
-**Investigation:** The destruction of mind's house (*sems kyi khang bu bshig pa*) employs four similes:
+**Analysis:** The destruction of mind's house (*sems kyi khang bu bshig pa*) employs four similes:
 
 1. **Child's sandcastle** (*byis pa'i khang bu*) [6538]: Built while collapsing—illusory construction
 2. **Iron destroyed by iron** (*lcags kyis lcags 'jig*) [6539]: Mind analyzes mind into non-existence
 3. **Impermanent destroyed by impermanent** (*mi rtag pas mi rtag pa 'jig*)
 
+[6540-6542]
 :
    - Illusory person destroys illusory city (*sgyu ma'i mi sgru ma'i grong khyer bcom*)
    - Compounded destroyed by compounded (*byas pas mi rtag pa 'jig*) like corpses heaped (*ro la ro brtsegs*)
    - Awareness destroys previous unawareness (*rig pa da ltar bas ma rig pa sna ma 'jig*)
 
-<historical-context>
+[6543-6546] <context>
 Scriptural Analogies
-**Consideration:** The similes draw on:
+**Analysis:** The similes draw on:
 - *Laṅkāvatāra-sūtra*: illusory city and illusory beings
 - *Prajñāpāramitā*: dream and magical display analogies
 - *Cintāmaṇi* (wish-fulfilling jewel) [6544]: Like a poor person searching in a poor house, there is no finding-place (*rnyed pa'i gnas med*)
 - Letters on water (*chu la yi ge bris pa*) [6543]: Mind's traces dissolve without residue
 
-<linguistic-analysis>
+[6547-6548] <philology>
 *Sems med pa'i don*
-**Examination:** The phrase *sems med pa'i don ma shes par* (without understanding the meaning of mind's non-existence) sets up the critique: those who seek through view, meditation, and conduct (*lta sgom spyod pa*) while searching in mind are like those grasping at water when waves subside (*rdib pa'i tshe chu la 'dzin pa*)—there is no place to grasp.
+**Analysis:** The phrase *sems med pa'i don ma shes par* (without understanding the meaning of mind's non-existence) sets up the critique: those who seek through view, meditation, and conduct (*lta sgom spyod pa*) while searching in mind are like those grasping at water when waves subside (*rdib pa'i tshe chu la 'dzin pa*)—there is no place to grasp.
 
-<architectural-analysis>
+[6549-6551] <structure>
 Objection and Response: The Nature of Dissolution
-**Close reading:** This page addresses objections to the analysis of mind's non-existence. The structure presents: (1) objection that dissolution (*yal ba*) implies transformation from existence to non-existence; (2) response that dissolution was never established and is adventitious; (3) objection that destroying mind's house is futile; (4) response that recognizing primordial non-existence is the destruction itself.
+**Analysis:** This page addresses objections to the analysis of mind's non-existence. The structure presents: (1) objection that dissolution (*yal ba*) implies transformation from existence to non-existence; (2) response that dissolution was never established and is adventitious; (3) objection that destroying mind's house is futile; (4) response that recognizing primordial non-existence is the destruction itself.
 
-<grammatical-examination>
+[6549-6551] <philology>
 *Sems yal zhes yod pa*
-**Philological analysis:** The objection *sems yal zhes yod pa de med par song ba ma yin nam* (doesn't "mind dissolved" mean it went from existence to non-existence?) employs the terminative *par* indicating transformation. The response uses *yal rgyu dang yal rkyen gang du yang med* (nowhere is there cause or condition of dissolution) to deny that dissolution is an event requiring causal support.
+**Analysis:** The objection *sems yal zhes yod pa de med par song ba ma yin nam* (doesn't "mind dissolved" mean it went from existence to non-existence?) employs the terminative *par* indicating transformation. The response uses *yal rgyu dang yal rkyen gang du yang med* (nowhere is there cause or condition of dissolution) to deny that dissolution is an event requiring causal support.
 
-<doxographical-placement>
+[6552-6556] <context>
 *Kun tu bzang po thugs kyi me long* Citation
-**Investigation:** The citation from Samantabhadra's Mirror of Mind presents three obscurations (*sgrib pa gsum*):
+**Analysis:** The citation from Samantabhadra's Mirror of Mind presents three obscurations (*sgrib pa gsum*):
 1. *Snang ba chos skur 'dod pa* (viewing appearances as dharmakāya) - subtle reification
 2. *Cir snang sems su 'dod pa* (viewing whatever appears as mind) - idealism
 3. *Rang byung gzhan 'dod pa* (desiring self-arising as other) - dualism
 
 These represent the Nyingma critique of both eternalist and nihilist extremes, as well as the error of reifying even nondual awareness.
 
-<concept>
+[6557-6561] <concept>
 Dissolution Without Transformation
-**Consideration:** The concept of *yal ba* (dissolution) is carefully distinguished from transformation:
+**Analysis:** The concept of *yal ba* (dissolution) is carefully distinguished from transformation:
 - Upon analysis (*dpyad na*): never established (*ma grub pa*)
 - Without analysis (*ma dpyad na*): adventitious thought (*glo bur gyi dran bsam*) dissolves
 - Never was there a "mind-owning continuum" (*sems rang rgyud pa*) to undergo transformation
 
 This preserves the *niḥsvabhāva* (without own-nature) of mind without falling into nihilism.
 
-<structural-mapping>
+[6562-6574] <structure>
 Three Results of Recognition
-**Examination:** The three results (*'bras bu gsum*) represent the fruitional dimension of analysis:
+**Analysis:** The three results (*'bras bu gsum*) represent the fruitional dimension of analysis:
 
-<linguistic-analysis>
+[6562-6571] <philology>
 *Tha snyad kyi 'bras bu*
-**Close reading:** The term *tha snyad kyi 'bras bu* (conventional result) indicates that these results are pedagogical designations, not ultimate attainments. Key phrases:
+**Analysis:** The term *tha snyad kyi 'bras bu* (conventional result) indicates that these results are pedagogical designations, not ultimate attainments. Key phrases:
 - *Dran pa'i khungs chos nyid du song bas* (source of memory having gone to reality)
 - *Med pa go bar byas pa* (made the non-existent understood)
 - *Bem po'i snang ba* (inert appearance) - matter/appearance
 - *Yul sems gnyis med* (object-mind nondual)
 
-<concept>
+[6572-6574] <concept>
 Nondual Matter-Awareness Wisdom
-**Philological analysis:** The progression of three results:
+**Analysis:** The progression of three results:
 
 1. **Nondual without fixation** [6571]: 
    - Inert appearances placed on object (*yul gyi gnad*)
@@ -353,112 +357,114 @@ Nondual Matter-Awareness Wisdom
    - Dissolution place (*yal sa*) recognized
    - Result of non-existence (*med pa'i 'bras bu*)
 
-<architectural-analysis>
+[6575-6595] <structure>
 Great Secret Definitive Essence
-**Investigation:** The page transitions to the *gsang chen nges pa snying thig* (Great Secret Definitive Essence/Heart Essence) section. The structure presents:
+**Analysis:** The page transitions to the *gsang chen nges pa snying thig* (Great Secret Definitive Essence/Heart Essence) section. The structure presents:
 - *Khregs chod* (Cutting Through) instruction: *sems ye med rang sangs* (mind primordially non-existent, self-liberated)
 - Distinction from other instructions: some merely provisional (*drang ba*), not definitive (*nges don*)
 
-<historical-context>
+[6581-6589] <context>
 Doxographical Distinctions
-**Consideration:** The text distinguishes Dzogchen from other approaches:
+**Analysis:** The text distinguishes Dzogchen from other approaches:
 - *Lta sgom sems la lam byed gnyis* (view and meditation making mind the path) - lower approaches
 - *Rang grol rang shar rang gzhag* (self-liberated, self-arisen, self-placed) - Dzogchen
 - The distinction of *don mi mthun* (meaning not discordant) despite apparent differences
 - *Zung 'jug* (union) here means non-dual in non-existence, not two things united
 
-<structural-mapping>
+[6581-6589] <structure>
 Self-Liberated, Self-Arisen, Self-Settled
-**Examination:** This page presents the third major aspect: appearances as the great evenness (*mnyam pa chen po*) projected in mind's mirror. The structure distinguishes lower vehicles' view-meditation (*lta sgom*) from Dzogchen's triad: *rang grol* (self-liberated), *rang shar* (self-arisen), *rang gzhag* (self-settled). The page addresses *zung 'jug* (union), contrasting lower interpretations with Dzogchen's primordial non-duality.
+**Analysis:** This page presents the third major aspect: appearances as the great evenness (*mnyam pa chen po*) projected in mind's mirror. The structure distinguishes lower vehicles' view-meditation (*lta sgom*) from Dzogchen's triad: *rang grol* (self-liberated), *rang shar* (self-arisen), *rang gzhag* (self-settled). The page addresses *zung 'jug* (union), contrasting lower interpretations with Dzogchen's primordial non-duality.
 
-<grammatical-examination>
+[6581-6583] <philology>
 Terminological Distinctions
-**Close reading:** The compound *rang grol rang shar rang gzhag* (self-liberated, self-arisen, self-settled) captures the spontaneous (*lhun grub*) nature of Dzogchen. The phrase *don mi mthun* (meaning not discordant) indicates that despite apparent differences, the meaning is consistent. The contrast between *ye med* (primordial non-existence) and *gzhan yod* (other-existence) marks the distinction between Dzogchen and lower approaches.
+**Analysis:** The compound *rang grol rang shar rang gzhag* (self-liberated, self-arisen, self-settled) captures the spontaneous (*lhun grub*) nature of Dzogchen. The phrase *don mi mthun* (meaning not discordant) indicates that despite apparent differences, the meaning is consistent. The contrast between *ye med* (primordial non-existence) and *gzhan yod* (other-existence) marks the distinction between Dzogchen and lower approaches.
 
-<concept>
+[6584-6589] <concept>
 True Union
-**Philological analysis:** The distinction of *zung 'jug* (union/yuganaddha):
+**Analysis:** The distinction of *zung 'jug* (union/yuganaddha):
 - **Lower view:** Two separate things united (*gzhan du yod pa gnyis gcig la 'brel*)
 - **Dzogchen view:** Primordial non-existence means nothing to unite; non-dual essence without division (*th dad ris med pa gnyis tha mi dad pas gnyis med zung 'jug*)
 
 This is "twofold non-existence" (*gnyis med*): neither one nor two, neither existence nor non-existence.
 
-<concept>
+[6590-6595] <concept>
 Pinnacle of All Vehicles
-**Investigation:** The phrase *theg pa kun las rtse mor gyur pa'i gnad* (key point that is the pinnacle of all vehicles) establishes Dzogchen's superiority within the Nyingma doxography. The instruction encompasses:
+**Analysis:** The phrase *theg pa kun las rtse mor gyur pa'i gnad* (key point that is the pinnacle of all vehicles) establishes Dzogchen's superiority within the Nyingma doxography. The instruction encompasses:
 - Not viewing appearances as mind (*snang ba sems su mi 'dod pa*)
 - Mind never experienced as ground (*sems yod ma myong gzhi sangs*)
 - Heart Essence (*snying thig*) intent of direct introduction
 
-<doxographical-placement>
+[6590-6595] <context>
 Pinnacle of All Vehicles
-**Consideration:** The phrase *theg pa kun las rtse mor gyur pa'i gnad* (key point that is the pinnacle of all vehicles) asserts Dzogchen's superiority within Nyingma doxography. This encompasses:
+**Analysis:** The phrase *theg pa kun las rtse mor gyur pa'i gnad* (key point that is the pinnacle of all vehicles) asserts Dzogchen's superiority within Nyingma doxography. This encompasses:
 - Not viewing appearances as mind (*snang ba sems su mi 'dod pa*)
 - Mind never experienced as ground (*sems yod ma myong gzhi sangs*)
 - Heart Essence (*snying thig*) intent
 
-<architectural-analysis>
+[6596-6624] <structure>
 The "Let Be" Litany
-**Examination:** The permissive litany (*...du chug*) allows all conceptual designations without interference. The structure presents pairs of opposites, all "let be":
+**Analysis:** The permissive litany (*...du chug*) allows all conceptual designations without interference. The structure presents pairs of opposites, all "let be":
 - Existence/non-existence (*yod du chug/med du chug*)
 - Appearance/emptiness (*snang du chug/stong du chug*)
 - Confusion/liberation ('*khrul du chug/grol du chug*)
 - Good/evil (*bzang du chug/ngan du chug*)
 - Mind/other (*sems su chug/gzhan du chug*)
 
-<linguistic-analysis>
+[6620-6624] <philology>
 *Btags pa mi 'gal*
-**Close reading:** The phrase *btags pa sems yin/sems med pa yin* (designation is mind/mind is non-existent) indicates:
+**Analysis:** The phrase *btags pa sems yin/sems med pa yin* (designation is mind/mind is non-existent) indicates:
 - From appearance-perspective (*snang ba'i ngos nas*): designations are non-contradictory (*mi 'gal*)
 - From emptiness-perspective (*stong pa'i ngos nas*): whatever designation is made is primordially empty
 - No upholder of designation (*'dogs mkhan med pa*)
 - Like dream-activities and magical displays
 
-<historical-context>
+[6625-6675] <context>
 Multiple Scriptural Citations
-**Philological analysis:** The page cites several authoritative sources:
+**Analysis:** The page cites several authoritative sources:
 
 1. **Klong drug pa**
 
-<structural-mapping>
+[6625-6675] <structure>
 Appearances as Self-Display
-**Investigation:** This page presents appearances (*snang ba*) as spontaneous self-display (*rang shar rang snang*) within awareness. The structure emphasizes that virtue/non-virtue (*dge ba/mi dge ba*) are adventitious (*glo bur*), their essence baseless and self-liberated (*gshis med rang sangs*). Multiple citations establish that all phenomena arise from awareness's display.
+**Analysis:** This page presents appearances (*snang ba*) as spontaneous self-display (*rang shar rang snang*) within awareness. The structure emphasizes that virtue/non-virtue (*dge ba/mi dge ba*) are adventitious (*glo bur*), their essence baseless and self-liberated (*gshis med rang sangs*). Multiple citations establish that all phenomena arise from awareness's display.
 
-<grammatical-examination>
+[6625-6627] <philology>
 Key Terminology
-**Consideration:** 
+**Analysis:** 
 - *Glo bur ba* (adventitious): appearances arise temporarily, not inherent to awareness
 - *Gshis med rang sangs* (baseless, self-liberated): without essence yet spontaneously free
 - *Rig pa'i ye gdangs cha la yod* (exists as the dynamic display of awareness): appearances are awareness's expressive energy
 
-<concept>
+[6628-6631] <concept>
 Mirror of Mind
-**Examination:** The phrase *snang srid 'khor 'das kyi chos so cog rig pa'i ngang na med pa gsal snang gi snang ba chen po* (all phenomena of appearance-existence, saṃsāra-nirvāṇa, as great clear appearance of non-existence in awareness's state) captures the Dzogchen view:
+**Analysis:** The phrase *snang srid 'khor 'das kyi chos so cog rig pa'i ngang na med pa gsal snang gi snang ba chen po* (all phenomena of appearance-existence, saṃsāra-nirvāṇa, as great clear appearance of non-existence in awareness's state) captures the Dzogchen view:
 - Phenomena appear (*snang*) yet do not exist (*med*)
 - They are clear (*gsal*) appearances
 - Self-arisen (*rang shar*), self-display (*rang snang*)
 
-<architectural-analysis>
+[6632-6636] <structure>
 Threefold Non-Seeing
-**Close reading:** The "threefold non-seeing" (*ma mthong gsum*):
+**Analysis:** The "threefold non-seeing" (*ma mthong gsum*):
 1. *Rig pas 'khrul snang 'khor ba ma mthong* - Awareness does not see confused appearance as saṃsāra
 2. *Dag snang 'das pa ma mthong* - Does not see pure appearance as transcended
 3. *'Khor 'das kyis rig pa ma mthong* - Saṃsāra-nirvāṇa do not see awareness
 
 This indicates complete nonduality where neither awareness nor appearances are established as separate.
 
-<doxographical-placement>
+[6637-6675] <context>
 Scriptural Citations
-**Philological analysis:** 
+**Analysis:** 
 
 1. **Klong drug pa**
 
+[6643-6648]
 : 
    - *Dri ma med pa'i sems nyid la/yul rkyen bral ba'i snang ba ni*
    - Self-purity great intention (*rang dag chen po'i dgongs pa*)
 
 2. **Nor bu 'phrul bkod**
 
+[6643-6648]
 :
    - Unstained mind-nature
    - Appearances without object-conditions
@@ -466,6 +472,7 @@ Scriptural Citations
 
 2. **Nor bu 'phrul bkod**
 
+[6649-6656]
 :
    - Entities of nothing don't fall into any direction
    - Appear as confusion (*'khrul pa*) but do not arise as real (*don mi skye*)
@@ -473,6 +480,7 @@ Scriptural Citations
 
 3. **Mu tig phreng ba**
 
+[6649-6656]
 :
    - Entity of nothing (*ci yang med pa'i dngos po*)
    - Does not fall into any direction
@@ -481,11 +489,13 @@ Scriptural Citations
 
 3. **Mu tig phreng ba**
 
+[6660-6675]
 :
    - All phenomena as "I" (*nga yin*)
    - Saṃsāra-nirvāṇa as "I myself" (*nga rang yin*)
    - Five elements arise from this
 
+[6660-6675]
 :
    - Cosmic identification: "That is I, that is beings" (*de ni nga yin 'gro ba yin*)
    - "Mind is I, arisen from mind" (*sems yin sems las byung ba yin*)
@@ -493,13 +503,13 @@ Scriptural Citations
    - "Saṃsāra-nirvāṇa is I myself" (*'khor ba myang 'das nga rang yin*)
    - Five elements (*sa chu me rlung nam mkha'i 'byung ba*) arise from this
 
-<structural-mapping>
+[6676-6739] <structure>
 Clouds in Space: The Self-Liberation of Afflictions
-**Investigation:** This page continues the sky-cloud metaphor with extensive citations from *Mu tig phreng ba*, *Rin chen spungs pa*, and the *Samādhirāja Sūtra*. The structure presents afflictions (*nyon mongs*) as clouds in space—adventitious, arising from conditions, dissolving back into space. The "eight amazing things" (*ngo mtshar chen po brgyad*) systematically negate the ground of all cognitive categories.
+**Analysis:** This page continues the sky-cloud metaphor with extensive citations from *Mu tig phreng ba*, *Rin chen spungs pa*, and the *Samādhirāja Sūtra*. The structure presents afflictions (*nyon mongs*) as clouds in space—adventitious, arising from conditions, dissolving back into space. The "eight amazing things" (*ngo mtshar chen po brgyad*) systematically negate the ground of all cognitive categories.
 
-<linguistic-analysis>
+[6676-6693] <philology>
 Affliction as Cloud Metaphor
-**Consideration:** The metaphorical structure:
+**Analysis:** The metaphorical structure:
 - *Chos sku nam mkha' lta bu* (Dharmakāya like space)
 - *Glo bur sems can sprin gyis bsgrigs* (adventitious beings obscuring like clouds)
 - *Sprin de nam mkha' nyid las byung* (clouds arise from space itself)
@@ -508,43 +518,52 @@ Affliction as Cloud Metaphor
 
 The particle *bzhin du* (like/as) establishes the simile, while *de bzhin* (thus/like that) draws the analogy.
 
-<historical-context>
+[6676-6693] <context>
 *Mu tig phreng ba* Citation
-**Examination:** The citation presents the self-liberation of afflictions:
+**Analysis:** The citation presents the self-liberation of afflictions:
 - *'Khrul pa gdod nas med pa* (confusion primordially non-existent)
 - *Ma 'khrul gnas pa'i chos nyid* (unconfused abiding dharmatā)
 - *Blo la 'khrul pa'i tshul du snang* (appearing as confusion to mind)
 - Five afflictions (*sems can nyon mongs lnga*) non-existent in reality
 - Self-arisen, self-liberated (*rang byung rang zhi*)
 
-<architectural-analysis>
+[6694-6739] <structure>
 Eight Amazing Things and Samādhirāja Citations
-**Close reading:** The *Rin chen spungs pa* citation presents the "eight amazing things" (*ya re ch*) about the unsupported nature:
+**Analysis:** The *Rin chen spungs pa* citation presents the "eight amazing things" (*ya re ch*) about the unsupported nature:
 
 1. Mind without abiding (*gnas pa med pa'i sems nyid*) [6698]
 2. Consciousness without destination (*'gro sa med pa*) [6699]
 3. Mind entering six consciousnesses without support (*brten pa'i sa med*)
 
+[6700-6701]
 4. Foundation without placement (*bzhag pa'i sa med*)
 
+[6702-6703]
 5. Ignorance without change-power ('*gyur ba'i dbang med*)
 
+[6704-6705]
 6. Afflictions without root-ground (*gzhis rtsa med pa*)
 
+[6706-6707]
 7. Defilements without cessation-place (*'chags sa med pa*)
 
+[6708-6709]
 8. Elements without fixation-place (*gtad pa'i sa med*)
 
+[6710-6711]
 9. Life-force without temporal-determination (*dus btabs med pa*)
 
+[6712-6713]
 10. Six collections without permanence (*rtag pa med pa*)
 
+[6714-6715]
 11. Mental events without exhaustion (*zad pa med pa*)
 
-<doxographical-placement>
+[6719-6727] <context>
 Samādhirāja Sūtra Echo Simile
-**Philological analysis:** The *Samādhirāja Sūtra* (*Ting nge 'dzin rgyal po*) citation
+**Analysis:** The *Samādhirāja Sūtra* (*Ting nge 'dzin rgyal po*) citation
 
+[6727-6738]
 presents:
 - **Cloud simile:** Clouds appear in empty sky momentarily, arising from nowhere (*thog ma gang las byung ba*)
 - **Echo simile:** Sounds in canyon depend on conditions (*rkyen la brten te*) but never transfer from sound (*sgra las dbyangs de nam yang 'phos pa med*)
@@ -552,477 +571,477 @@ presents:
 Both illustrate dependent origination (*rten 'brel*) without substantial transfer.
 
 [6739] <philology> Transition Formula
-**Investigation:** The line *don gnyis pa chos zad blo 'das kyi dgongs pa* (second topic: intent of dharmas exhausted, beyond mind) marks the transition to the next major section on transcending phenomena and mind.
+**Analysis:** The line *don gnyis pa chos zad blo 'das kyi dgongs pa* (second topic: intent of dharmas exhausted, beyond mind) marks the transition to the next major section on transcending phenomena and mind.
 
-<structural-mapping>
+[6740-6792] <structure>
 Page 159 Analysis
-**Consideration:** This section extends theg mchog mdzod with detailed
+**Analysis:** This page continues the exposition of theg mchog mdzod with detailed
 examination of Dzogchen view, practice, and realization. Line range 6740-6792.
 
-[6740] <architectural-analysis> # Structural Overview
-**Examination:** Lines begin at 6740 and extends through 6792,
+[6740] <structure> # Structural Overview
+**Analysis:** The page begins at line 6740 and extends through 6792,
 presenting sequential development of the Dzogchen teachings on mind, appearance,
 and liberation.
 
-<philology>
+[6740-6742] <philology>
 Key Terminology
-**Close reading:** Technical vocabulary requires precise philological attention.
+**Analysis:** Technical terms in this section require precise philological attention.
 The Tibetan text employs standard Dzogchen vocabulary with specific nuances.
 
-[6766] <historical-context> Doctrinal Context
-**Philological analysis:** This connects to the broader Nyingma doxographical discourse,
+[6766] <context> Doctrinal Context
+**Analysis:** This section participates in the broader Nyingma doxographical discourse,
 distinguishing Dzogchen view from lower vehicles through unique terminological choices.
 
-<concept>
+[6740-6792] <concept>
 Philosophical Developments
-**Investigation:** This conceptual structure advances the understanding of:
+**Analysis:** The conceptual framework presented here advances the understanding of:
 1. Primordial purity (*ka dag*) and spontaneous accomplishment (*lhun grub*)
 2. Self-liberation (*rang grol*) of thoughts and appearances
 3. Direct introduction (*ngo sprod*) to mind-nature
 4. Great perfection (*rdzogs chen*) view and practice
 
-<structural-mapping>
+[6793-6837] <structure>
 Page 160 Analysis
-**Consideration:** This page continues theg mchog mdzod with detailed
+**Analysis:** This page continues the exposition of theg mchog mdzod with detailed
 examination of Dzogchen view, practice, and realization. Line range 6793-6837.
 
-[6793] <architectural-analysis> # Structural Overview
-**Examination:** Page commences at line 6793 and extends through 6837,
+[6793] <structure> # Structural Overview
+**Analysis:** The page begins at line 6793 and extends through 6837,
 presenting sequential development of the Dzogchen teachings on mind, appearance,
 and liberation.
 
-<philology>
+[6793-6795] <philology>
 Key Terminology
-**Close reading:** Terminology here requires precise philological attention.
+**Analysis:** Technical terms in this section require precise philological attention.
 The Tibetan text employs standard Dzogchen vocabulary with specific nuances.
 
-[6815] <doxographical-placement> Doctrinal Context
-**Philological analysis:** This section fits within Nyingma doxographical discourse,
+[6815] <context> Doctrinal Context
+**Analysis:** This section participates in the broader Nyingma doxographical discourse,
 distinguishing Dzogchen view from lower vehicles through unique terminological choices.
 
-<concept>
+[6793-6837] <concept>
 Philosophical Developments
-**Investigation:** This framework develops the understanding of:
+**Analysis:** The conceptual framework presented here advances the understanding of:
 1. Primordial purity (*ka dag*) and spontaneous accomplishment (*lhun grub*)
 2. Self-liberation (*rang grol*) of thoughts and appearances
 3. Direct introduction (*ngo sprod*) to mind-nature
 4. Great perfection (*rdzogs chen*) view and practice
 
-<structural-mapping>
+[6838-6879] <structure>
 Page 161 Analysis
-**Consideration:** This continues the exposition theg mchog mdzod with detailed
+**Analysis:** This page continues the exposition of theg mchog mdzod with detailed
 examination of Dzogchen view, practice, and realization. Line range 6838-6879.
 
-[6838] <architectural-analysis> # Structural Overview
-**Examination:** Text begins at line 6838 and extends through 6879,
+[6838] <structure> # Structural Overview
+**Analysis:** The page begins at line 6838 and extends through 6879,
 presenting sequential development of the Dzogchen teachings on mind, appearance,
 and liberation.
 
-<philology>
+[6838-6840] <philology>
 Key Terminology
-**Close reading:** Technical terms here require precise philological attention.
+**Analysis:** Technical terms in this section require precise philological attention.
 The Tibetan text employs standard Dzogchen vocabulary with specific nuances.
 
 [6859] <context> Doctrinal Context
-**Philological analysis:** This section connects to Nyingma doxographical discourse,
+**Analysis:** This section participates in the broader Nyingma doxographical discourse,
 distinguishing Dzogchen view from lower vehicles through unique terminological choices.
 
-<concept>
+[6838-6879] <concept>
 Philosophical Developments
-**Investigation:** The framework here advances the understanding of:
+**Analysis:** The conceptual framework presented here advances the understanding of:
 1. Primordial purity (*ka dag*) and spontaneous accomplishment (*lhun grub*)
 2. Self-liberation (*rang grol*) of thoughts and appearances
 3. Direct introduction (*ngo sprod*) to mind-nature
 4. Great perfection (*rdzogs chen*) view and practice
 
-<structural-mapping>
+[6880-6918] <structure>
 Page 162 Analysis
-**Consideration:** This page further develops theg mchog mdzod with detailed
+**Analysis:** This page continues the exposition of theg mchog mdzod with detailed
 examination of Dzogchen view, practice, and realization. Line range 6880-6918.
 
-[6880] <architectural-analysis> # Structural Overview
-**Examination:** Section opens at line 6880 and extends through 6918,
+[6880] <structure> # Structural Overview
+**Analysis:** The page begins at line 6880 and extends through 6918,
 presenting sequential development of the Dzogchen teachings on mind, appearance,
 and liberation.
 
-<philology>
+[6880-6882] <philology>
 Key Terminology
-**Close reading:** This section's terms require precise philological attention.
+**Analysis:** Technical terms in this section require precise philological attention.
 The Tibetan text employs standard Dzogchen vocabulary with specific nuances.
 
 [6899] <context> Doctrinal Context
-**Philological analysis:** This participates in the larger Nyingma doxographical discourse,
+**Analysis:** This section participates in the broader Nyingma doxographical discourse,
 distinguishing Dzogchen view from lower vehicles through unique terminological choices.
 
-<concept>
+[6880-6918] <concept>
 Philosophical Developments
-**Investigation:** The presented framework advances the understanding of:
+**Analysis:** The conceptual framework presented here advances the understanding of:
 1. Primordial purity (*ka dag*) and spontaneous accomplishment (*lhun grub*)
 2. Self-liberation (*rang grol*) of thoughts and appearances
 3. Direct introduction (*ngo sprod*) to mind-nature
 4. Great perfection (*rdzogs chen*) view and practice
 
-<structure>
+[6919-6956] <structure>
 Page 163 Analysis
-**Consideration:** This section extends theg mchog mdzod with detailed
+**Analysis:** This page continues the exposition of theg mchog mdzod with detailed
 examination of Dzogchen view, practice, and realization. Line range 6919-6956.
 
 [6919] <structure> # Structural Overview
-**Examination:** Lines begin at 6919 and extends through 6956,
+**Analysis:** The page begins at line 6919 and extends through 6956,
 presenting sequential development of the Dzogchen teachings on mind, appearance,
 and liberation.
 
-<philology>
+[6919-6921] <philology>
 Key Terminology
-**Close reading:** Technical vocabulary requires precise philological attention.
+**Analysis:** Technical terms in this section require precise philological attention.
 The Tibetan text employs standard Dzogchen vocabulary with specific nuances.
 
 [6938] <context> Doctrinal Context
-**Philological analysis:** This connects to the broader Nyingma doxographical discourse,
+**Analysis:** This section participates in the broader Nyingma doxographical discourse,
 distinguishing Dzogchen view from lower vehicles through unique terminological choices.
 
-<concept>
+[6919-6956] <concept>
 Philosophical Developments
-**Investigation:** This conceptual structure advances the understanding of:
+**Analysis:** The conceptual framework presented here advances the understanding of:
 1. Primordial purity (*ka dag*) and spontaneous accomplishment (*lhun grub*)
 2. Self-liberation (*rang grol*) of thoughts and appearances
 3. Direct introduction (*ngo sprod*) to mind-nature
 4. Great perfection (*rdzogs chen*) view and practice
 
-<structure>
+[6957-6995] <structure>
 Page 164 Analysis
-**Structural Framework:** This page continues theg mchog mdzod with detailed
+**Analysis:** This page continues the exposition of theg mchog mdzod with detailed
 examination of Dzogchen view, practice, and realization. Line range 6957-6995.
 
 [6957] <structure> # Structural Overview
-**Technical Examination:** Page commences at line 6957 and extends through 6995,
+**Analysis:** The page begins at line 6957 and extends through 6995,
 presenting sequential development of the Dzogchen teachings on mind, appearance,
 and liberation.
 
-<philology>
+[6957-6959] <philology>
 Key Terminology
-**Tradition Context:** Terminology here requires precise philological attention.
+**Analysis:** Technical terms in this section require precise philological attention.
 The Tibetan text employs standard Dzogchen vocabulary with specific nuances.
 
 [6976] <context> Doctrinal Context
-**Close Reading:** This section fits within Nyingma doxographical discourse,
+**Analysis:** This section participates in the broader Nyingma doxographical discourse,
 distinguishing Dzogchen view from lower vehicles through unique terminological choices.
 
-<concept>
+[6957-6995] <concept>
 Philosophical Developments
-**Technical Examination:** This framework develops the understanding of:
+**Analysis:** The conceptual framework presented here advances the understanding of:
 1. Primordial purity (*ka dag*) and spontaneous accomplishment (*lhun grub*)
 2. Self-liberation (*rang grol*) of thoughts and appearances
 3. Direct introduction (*ngo sprod*) to mind-nature
 4. Great perfection (*rdzogs chen*) view and practice
 
-<structure>
+[6996-7037] <structure>
 Page 165 Analysis
-**Architectural Analysis:** This continues the exposition theg mchog mdzod with detailed
+**Analysis:** This page continues the exposition of theg mchog mdzod with detailed
 examination of Dzogchen view, practice, and realization. Line range 6996-7037.
 
 [6996] <structure> # Structural Overview
-**Detailed Analysis:** Text begins at line 6996 and extends through 7037,
+**Analysis:** The page begins at line 6996 and extends through 7037,
 presenting sequential development of the Dzogchen teachings on mind, appearance,
 and liberation.
 
-<philology>
+[6996-6998] <philology>
 Key Terminology
-**Tradition Context:** Technical terms here require precise philological attention.
+**Analysis:** Technical terms in this section require precise philological attention.
 The Tibetan text employs standard Dzogchen vocabulary with specific nuances.
 
 [7017] <context> Doctrinal Context
-**Technical Examination:** This section connects to Nyingma doxographical discourse,
+**Analysis:** This section participates in the broader Nyingma doxographical discourse,
 distinguishing Dzogchen view from lower vehicles through unique terminological choices.
 
-<concept>
+[6996-7037] <concept>
 Philosophical Developments
-**Investigation:** The framework here advances the understanding of:
+**Analysis:** The conceptual framework presented here advances the understanding of:
 1. Primordial purity (*ka dag*) and spontaneous accomplishment (*lhun grub*)
 2. Self-liberation (*rang grol*) of thoughts and appearances
 3. Direct introduction (*ngo sprod*) to mind-nature
 4. Great perfection (*rdzogs chen*) view and practice
 
-<structure>
+[7038-7084] <structure>
 Page 166 Analysis
-**Arrangement:** This page further develops theg mchog mdzod with detailed
+**Analysis:** This page continues the exposition of theg mchog mdzod with detailed
 examination of Dzogchen view, practice, and realization. Line range 7038-7084.
 
 [7038] <structure> # Structural Overview
-**Investigation:** Section opens at line 7038 and extends through 7084,
+**Analysis:** The page begins at line 7038 and extends through 7084,
 presenting sequential development of the Dzogchen teachings on mind, appearance,
 and liberation.
 
-<philology>
+[7038-7040] <philology>
 Key Terminology
-**Hermeneutical Frame:** This section's terms require precise philological attention.
+**Analysis:** Technical terms in this section require precise philological attention.
 The Tibetan text employs standard Dzogchen vocabulary with specific nuances.
 
 [7061] <context> Doctrinal Context
-**Technical Examination:** This participates in the larger Nyingma doxographical discourse,
+**Analysis:** This section participates in the broader Nyingma doxographical discourse,
 distinguishing Dzogchen view from lower vehicles through unique terminological choices.
 
-<concept>
+[7038-7084] <concept>
 Philosophical Developments
-**Philological Analysis:** The presented framework advances the understanding of:
+**Analysis:** The conceptual framework presented here advances the understanding of:
 1. Primordial purity (*ka dag*) and spontaneous accomplishment (*lhun grub*)
 2. Self-liberation (*rang grol*) of thoughts and appearances
 3. Direct introduction (*ngo sprod*) to mind-nature
 4. Great perfection (*rdzogs chen*) view and practice
 
-<structure>
+[7085-7150] <structure>
 Page 167 Analysis
-**Structural Mapping:** This section extends theg mchog mdzod with detailed
+**Analysis:** This page continues the exposition of theg mchog mdzod with detailed
 examination of Dzogchen view, practice, and realization. Line range 7085-7150.
 
 [7085] <structure> # Structural Overview
-**Consideration:** Lines begin at 7085 and extends through 7150,
+**Analysis:** The page begins at line 7085 and extends through 7150,
 presenting sequential development of the Dzogchen teachings on mind, appearance,
 and liberation.
 
-<philology>
+[7085-7087] <philology>
 Key Terminology
-**Doxographical Placement:** Technical vocabulary requires precise philological attention.
+**Analysis:** Technical terms in this section require precise philological attention.
 The Tibetan text employs standard Dzogchen vocabulary with specific nuances.
 
 [7118] <context> Doctrinal Context
-**Investigation:** This connects to the broader Nyingma doxographical discourse,
+**Analysis:** This section participates in the broader Nyingma doxographical discourse,
 distinguishing Dzogchen view from lower vehicles through unique terminological choices.
 
-<concept>
+[7085-7150] <concept>
 Philosophical Developments
-**Detailed Analysis:** This conceptual structure advances the understanding of:
+**Analysis:** The conceptual framework presented here advances the understanding of:
 1. Primordial purity (*ka dag*) and spontaneous accomplishment (*lhun grub*)
 2. Self-liberation (*rang grol*) of thoughts and appearances
 3. Direct introduction (*ngo sprod*) to mind-nature
 4. Great perfection (*rdzogs chen*) view and practice
 
-<structure>
+[7151-7195] <structure>
 Page 168 Analysis
-**Architectural Analysis:** This page continues theg mchog mdzod with detailed
+**Analysis:** This page continues the exposition of theg mchog mdzod with detailed
 examination of Dzogchen view, practice, and realization. Line range 7151-7195.
 
 [7151] <structure> # Structural Overview
-**Close Reading:** Page commences at line 7151 and extends through 7195,
+**Analysis:** The page begins at line 7151 and extends through 7195,
 presenting sequential development of the Dzogchen teachings on mind, appearance,
 and liberation.
 
-<philology>
+[7151-7153] <philology>
 Key Terminology
-**Doxographical Placement:** Terminology here requires precise philological attention.
+**Analysis:** Technical terms in this section require precise philological attention.
 The Tibetan text employs standard Dzogchen vocabulary with specific nuances.
 
 [7173] <context> Doctrinal Context
-**Close Reading:** This section fits within Nyingma doxographical discourse,
+**Analysis:** This section participates in the broader Nyingma doxographical discourse,
 distinguishing Dzogchen view from lower vehicles through unique terminological choices.
 
-<concept>
+[7151-7195] <concept>
 Philosophical Developments
-**Technical Examination:** This framework develops the understanding of:
+**Analysis:** The conceptual framework presented here advances the understanding of:
 1. Primordial purity (*ka dag*) and spontaneous accomplishment (*lhun grub*)
 2. Self-liberation (*rang grol*) of thoughts and appearances
 3. Direct introduction (*ngo sprod*) to mind-nature
 4. Great perfection (*rdzogs chen*) view and practice
 
-<structure>
+[7196-7230] <structure>
 Page 169 Analysis
-**Structural Framework:** This continues the exposition theg mchog mdzod with detailed
+**Analysis:** This page continues the exposition of theg mchog mdzod with detailed
 examination of Dzogchen view, practice, and realization. Line range 7196-7230.
 
 [7196] <structure> # Structural Overview
-**Philological Analysis:** Text begins at line 7196 and extends through 7230,
+**Analysis:** The page begins at line 7196 and extends through 7230,
 presenting sequential development of the Dzogchen teachings on mind, appearance,
 and liberation.
 
-<philology>
+[7196-7198] <philology>
 Key Terminology
-**Historical Context:** Technical terms here require precise philological attention.
+**Analysis:** Technical terms in this section require precise philological attention.
 The Tibetan text employs standard Dzogchen vocabulary with specific nuances.
 
 [7213] <context> Doctrinal Context
-**Consideration:** This section connects to Nyingma doxographical discourse,
+**Analysis:** This section participates in the broader Nyingma doxographical discourse,
 distinguishing Dzogchen view from lower vehicles through unique terminological choices.
 
-<concept>
+[7196-7230] <concept>
 Philosophical Developments
-**Philological Analysis:** The framework here advances the understanding of:
+**Analysis:** The conceptual framework presented here advances the understanding of:
 1. Primordial purity (*ka dag*) and spontaneous accomplishment (*lhun grub*)
 2. Self-liberation (*rang grol*) of thoughts and appearances
 3. Direct introduction (*ngo sprod*) to mind-nature
 4. Great perfection (*rdzogs chen*) view and practice
 
-<structure>
+[7231-7263] <structure>
 Page 170 Analysis
-**Architectural Analysis:** This page further develops theg mchog mdzod with detailed
+**Analysis:** This page continues the exposition of theg mchog mdzod with detailed
 examination of Dzogchen view, practice, and realization. Line range 7231-7263.
 
 [7231] <structure> # Structural Overview
-**Close Reading:** Section opens at line 7231 and extends through 7263,
+**Analysis:** The page begins at line 7231 and extends through 7263,
 presenting sequential development of the Dzogchen teachings on mind, appearance,
 and liberation.
 
-<philology>
+[7231-7233] <philology>
 Key Terminology
-**Tradition Context:** This section's terms require precise philological attention.
+**Analysis:** Technical terms in this section require precise philological attention.
 The Tibetan text employs standard Dzogchen vocabulary with specific nuances.
 
 [7247] <context> Doctrinal Context
-**Philological Analysis:** This participates in the larger Nyingma doxographical discourse,
+**Analysis:** This section participates in the broader Nyingma doxographical discourse,
 distinguishing Dzogchen view from lower vehicles through unique terminological choices.
 
-<concept>
+[7231-7263] <concept>
 Philosophical Developments
-**Examination:** The presented framework advances the understanding of:
+**Analysis:** The conceptual framework presented here advances the understanding of:
 1. Primordial purity (*ka dag*) and spontaneous accomplishment (*lhun grub*)
 2. Self-liberation (*rang grol*) of thoughts and appearances
 3. Direct introduction (*ngo sprod*) to mind-nature
 4. Great perfection (*rdzogs chen*) view and practice
 
-<structure>
+[7264-7290] <structure>
 Page 171 Analysis
-**Arrangement:** This section extends theg mchog mdzod with detailed
+**Analysis:** This page continues the exposition of theg mchog mdzod with detailed
 examination of Dzogchen view, practice, and realization. Line range 7264-7290.
 
 [7264] <structure> # Structural Overview
-**Examination:** Lines begin at 7264 and extends through 7290,
+**Analysis:** The page begins at line 7264 and extends through 7290,
 presenting sequential development of the Dzogchen teachings on mind, appearance,
 and liberation.
 
-<philology>
+[7264-7266] <philology>
 Key Terminology
-**Tradition Context:** Technical vocabulary requires precise philological attention.
+**Analysis:** Technical terms in this section require precise philological attention.
 The Tibetan text employs standard Dzogchen vocabulary with specific nuances.
 
 [7277] <context> Doctrinal Context
-**Philological Analysis:** This connects to the broader Nyingma doxographical discourse,
+**Analysis:** This section participates in the broader Nyingma doxographical discourse,
 distinguishing Dzogchen view from lower vehicles through unique terminological choices.
 
-<concept>
+[7264-7290] <concept>
 Philosophical Developments
-**Close Reading:** This conceptual structure advances the understanding of:
+**Analysis:** The conceptual framework presented here advances the understanding of:
 1. Primordial purity (*ka dag*) and spontaneous accomplishment (*lhun grub*)
 2. Self-liberation (*rang grol*) of thoughts and appearances
 3. Direct introduction (*ngo sprod*) to mind-nature
 4. Great perfection (*rdzogs chen*) view and practice
 
-<structure>
+[7291-7320] <structure>
 Page 172 Analysis
-**Structural Framework:** This page continues theg mchog mdzod with detailed
+**Analysis:** This page continues the exposition of theg mchog mdzod with detailed
 examination of Dzogchen view, practice, and realization. Line range 7291-7320.
 
 [7291] <structure> # Structural Overview
-**Technical Examination:** Page commences at line 7291 and extends through 7320,
+**Analysis:** The page begins at line 7291 and extends through 7320,
 presenting sequential development of the Dzogchen teachings on mind, appearance,
 and liberation.
 
-<philology>
+[7291-7293] <philology>
 Key Terminology
-**Hermeneutical Frame:** Terminology here requires precise philological attention.
+**Analysis:** Technical terms in this section require precise philological attention.
 The Tibetan text employs standard Dzogchen vocabulary with specific nuances.
 
 [7306] <context> Doctrinal Context
-**Detailed Analysis:** This section fits within Nyingma doxographical discourse,
+**Analysis:** This section participates in the broader Nyingma doxographical discourse,
 distinguishing Dzogchen view from lower vehicles through unique terminological choices.
 
-<concept>
+[7291-7320] <concept>
 Philosophical Developments
-**Consideration:** This framework develops the understanding of:
+**Analysis:** The conceptual framework presented here advances the understanding of:
 1. Primordial purity (*ka dag*) and spontaneous accomplishment (*lhun grub*)
 2. Self-liberation (*rang grol*) of thoughts and appearances
 3. Direct introduction (*ngo sprod*) to mind-nature
 4. Great perfection (*rdzogs chen*) view and practice
 
-<structure>
+[7321-7357] <structure>
 Page 173 Analysis
-**Arrangement:** This continues the exposition theg mchog mdzod with detailed
+**Analysis:** This page continues the exposition of theg mchog mdzod with detailed
 examination of Dzogchen view, practice, and realization. Line range 7321-7357.
 
 [7321] <structure> # Structural Overview
-**Close Reading:** Text begins at line 7321 and extends through 7357,
+**Analysis:** The page begins at line 7321 and extends through 7357,
 presenting sequential development of the Dzogchen teachings on mind, appearance,
 and liberation.
 
-<philology>
+[7321-7323] <philology>
 Key Terminology
-**Doxographical Placement:** Technical terms here require precise philological attention.
+**Analysis:** Technical terms in this section require precise philological attention.
 The Tibetan text employs standard Dzogchen vocabulary with specific nuances.
 
 [7339] <context> Doctrinal Context
-**Technical Examination:** This section connects to Nyingma doxographical discourse,
+**Analysis:** This section participates in the broader Nyingma doxographical discourse,
 distinguishing Dzogchen view from lower vehicles through unique terminological choices.
 
-<concept>
+[7321-7357] <concept>
 Philosophical Developments
-**Consideration:** The framework here advances the understanding of:
+**Analysis:** The conceptual framework presented here advances the understanding of:
 1. Primordial purity (*ka dag*) and spontaneous accomplishment (*lhun grub*)
 2. Self-liberation (*rang grol*) of thoughts and appearances
 3. Direct introduction (*ngo sprod*) to mind-nature
 4. Great perfection (*rdzogs chen*) view and practice
 
-<structure>
+[7358-7394] <structure>
 Page 174 Analysis
-**Architectural Analysis:** This page further develops theg mchog mdzod with detailed
+**Analysis:** This page continues the exposition of theg mchog mdzod with detailed
 examination of Dzogchen view, practice, and realization. Line range 7358-7394.
 
 [7358] <structure> # Structural Overview
-**Philological Analysis:** Section opens at line 7358 and extends through 7394,
+**Analysis:** The page begins at line 7358 and extends through 7394,
 presenting sequential development of the Dzogchen teachings on mind, appearance,
 and liberation.
 
-<philology>
+[7358-7360] <philology>
 Key Terminology
-**Tradition Context:** This section's terms require precise philological attention.
+**Analysis:** Technical terms in this section require precise philological attention.
 The Tibetan text employs standard Dzogchen vocabulary with specific nuances.
 
 [7376] <context> Doctrinal Context
-**Technical Examination:** This participates in the larger Nyingma doxographical discourse,
+**Analysis:** This section participates in the broader Nyingma doxographical discourse,
 distinguishing Dzogchen view from lower vehicles through unique terminological choices.
 
-<concept>
+[7358-7394] <concept>
 Philosophical Developments
-**Investigation:** The presented framework advances the understanding of:
+**Analysis:** The conceptual framework presented here advances the understanding of:
 1. Primordial purity (*ka dag*) and spontaneous accomplishment (*lhun grub*)
 2. Self-liberation (*rang grol*) of thoughts and appearances
 3. Direct introduction (*ngo sprod*) to mind-nature
 4. Great perfection (*rdzogs chen*) view and practice
 
-<structure>
+[7395-7451] <structure>
 Page 175 Analysis
-**Structural Framework:** This section extends theg mchog mdzod with detailed
+**Analysis:** This page continues the exposition of theg mchog mdzod with detailed
 examination of Dzogchen view, practice, and realization. Line range 7395-7451.
 
 [7395] <structure> # Structural Overview
-**Close Reading:** Lines begin at 7395 and extends through 7451,
+**Analysis:** The page begins at line 7395 and extends through 7451,
 presenting sequential development of the Dzogchen teachings on mind, appearance,
 and liberation.
 
-<philology>
+[7395-7397] <philology>
 Key Terminology
-**Tradition Context:** Technical vocabulary requires precise philological attention.
+**Analysis:** Technical terms in this section require precise philological attention.
 The Tibetan text employs standard Dzogchen vocabulary with specific nuances.
 
 [7423] <context> Doctrinal Context
-**Consideration:** This connects to the broader Nyingma doxographical discourse,
+**Analysis:** This section participates in the broader Nyingma doxographical discourse,
 distinguishing Dzogchen view from lower vehicles through unique terminological choices.
 
-<concept>
+[7395-7451] <concept>
 Philosophical Developments
-**Philological Analysis:** This conceptual structure advances the understanding of:
+**Analysis:** The conceptual framework presented here advances the understanding of:
 1. Primordial purity (*ka dag*) and spontaneous accomplishment (*lhun grub*)
 2. Self-liberation (*rang grol*) of thoughts and appearances
 3. Direct introduction (*ngo sprod*) to mind-nature
 4. Great perfection (*rdzogs chen*) view and practice
 
-<structure>
+[7452-7454] <structure>
 Self-Liberation Chapter Opening
-**Arrangement:** This page initiates the *rang grol* (self-liberation) methodology section within the Ati Vajra Heart Essence (*ati rdo rje snying po*) chapter. The tripartite structure follows classical Tibetan exegetical format: *spyir bstan pa* (general explanation), *bye brag tu bshad pa* (particular explanation), and *rgyas par brjod pa* (extensive expression). The text positions Atiyoga against seven soteriological methods through systematic negation.
+**Analysis:** This page initiates the *rang grol* (self-liberation) methodology section within the Ati Vajra Heart Essence (*ati rdo rje snying po*) chapter. The tripartite structure follows classical Tibetan exegetical format: *spyir bstan pa* (general explanation), *bye brag tu bshad pa* (particular explanation), and *rgyas par brjod pa* (extensive expression). The text positions Atiyoga against seven soteriological methods through systematic negation.
 
 [7452] <philology> *Rang grol gyi go don*
-**Tradition Context:** The term *rang grol* (self-liberation) derives from *rang* (self/own) + *grol* (liberate/release). The compound suggests reflexive liberation without external agency. This opening formula (*go don spyir bstan pa*) establishes the hermeneutical framework for the section.
+**Analysis:** The term *rang grol* (self-liberation) derives from *rang* (self/own) + *grol* (liberate/release). The compound suggests reflexive liberation without external agency. This opening formula (*go don spyir bstan pa*) establishes the hermeneutical framework for the section.
 
-<context>
+[7455-7490] <context>
 Seven Soteriological Methods
-**Close Reading:** The page systematically negates lower approaches to establish *rang grol* uniqueness:
+**Analysis:** The page systematically negates lower approaches to establish *rang grol* uniqueness:
 
 1. **Hearer/Self-Realized Vehicle** (*nyan rang*): abandonment methodology
 2. **Bodhisattva Vehicle** (*sems dpa'*): gradual practice  
@@ -1034,9 +1053,9 @@ Seven Soteriological Methods
 
 This doxographical arrangement maps the broader Tibetan Buddhist landscape while asserting Dzogchen's primacy.
 
-<concept>
+[7456-7490] <concept>
 The Self-Liberation Paradox
-**Investigation:** The philosophical argumentation proceeds through logical analysis (*gtan tshigs*):
+**Analysis:** The philosophical argumentation proceeds through logical analysis (*gtan tshigs*):
 
 **Impossibility of Abandonment** (*spong ba mi rigs pa*):
 - If mind abandons afflictions: single substance (*rdzas gcig*) renders separation impossible
@@ -1050,98 +1069,98 @@ The Self-Liberation Paradox
 - No temporal interval for abandonment to occur
 - Direct knowledge (*mngon sum rig*) transcends methodological accumulations
 
-<philology>
+[7479-7490] <philology>
 *Nyi zla kha sbyor* Citation
-**Arrangement:** The citation from Sun-Moon Union (*Nyi zla kha sbyor*) demonstrates intertextual continuity within the Nyingma tradition. The simile of *lus dang grib ma* (body and shadow) illustrates simultaneity and inseparability of afflictions from mind's nature. The particle *ste* marks the citation as authoritative textual support.
+**Analysis:** The citation from Sun-Moon Union (*Nyi zla kha sbyor*) demonstrates intertextual continuity within the Nyingma tradition. The simile of *lus dang grib ma* (body and shadow) illustrates simultaneity and inseparability of afflictions from mind's nature. The particle *ste* marks the citation as authoritative textual support.
 
-<structure>
+[7491-7532] <structure>
 Page 177 Analysis
-**Structural Mapping:** This page continues theg mchog mdzod with detailed
+**Analysis:** This page continues the exposition of theg mchog mdzod with detailed
 examination of Dzogchen view, practice, and realization. Line range 7491-7532.
 
 [7491] <structure> # Structural Overview
-**Investigation:** Page commences at line 7491 and extends through 7532,
+**Analysis:** The page begins at line 7491 and extends through 7532,
 presenting sequential development of the Dzogchen teachings on mind, appearance,
 and liberation.
 
-<philology>
+[7491-7493] <philology>
 Key Terminology
-**Doxographical Placement:** Terminology here requires precise philological attention.
+**Analysis:** Technical terms in this section require precise philological attention.
 The Tibetan text employs standard Dzogchen vocabulary with specific nuances.
 
 [7512] <context> Doctrinal Context
-**Technical Examination:** This section fits within Nyingma doxographical discourse,
+**Analysis:** This section participates in the broader Nyingma doxographical discourse,
 distinguishing Dzogchen view from lower vehicles through unique terminological choices.
 
-<concept>
+[7491-7532] <concept>
 Philosophical Developments
-**Consideration:** This framework develops the understanding of:
+**Analysis:** The conceptual framework presented here advances the understanding of:
 1. Primordial purity (*ka dag*) and spontaneous accomplishment (*lhun grub*)
 2. Self-liberation (*rang grol*) of thoughts and appearances
 3. Direct introduction (*ngo sprod*) to mind-nature
 4. Great perfection (*rdzogs chen*) view and practice
 
-<structure>
+[7533-7582] <structure>
 Page 178 Analysis
-**Structural Mapping:** This continues the exposition theg mchog mdzod with detailed
+**Analysis:** This page continues the exposition of theg mchog mdzod with detailed
 examination of Dzogchen view, practice, and realization. Line range 7533-7582.
 
 [7533] <structure> # Structural Overview
-**Technical Examination:** Text begins at line 7533 and extends through 7582,
+**Analysis:** The page begins at line 7533 and extends through 7582,
 presenting sequential development of the Dzogchen teachings on mind, appearance,
 and liberation.
 
-<philology>
+[7533-7535] <philology>
 Key Terminology
-**Tradition Context:** Technical terms here require precise philological attention.
+**Analysis:** Technical terms in this section require precise philological attention.
 The Tibetan text employs standard Dzogchen vocabulary with specific nuances.
 
 [7558] <context> Doctrinal Context
-**Technical Examination:** This section connects to Nyingma doxographical discourse,
+**Analysis:** This section participates in the broader Nyingma doxographical discourse,
 distinguishing Dzogchen view from lower vehicles through unique terminological choices.
 
-<concept>
+[7533-7582] <concept>
 Philosophical Developments
-**Close Reading:** The framework here advances the understanding of:
+**Analysis:** The conceptual framework presented here advances the understanding of:
 1. Primordial purity (*ka dag*) and spontaneous accomplishment (*lhun grub*)
 2. Self-liberation (*rang grol*) of thoughts and appearances
 3. Direct introduction (*ngo sprod*) to mind-nature
 4. Great perfection (*rdzogs chen*) view and practice
 
-<structure>
+[7583-7627] <structure>
 Page 179 Analysis
-**Arrangement:** This page further develops theg mchog mdzod with detailed
+**Analysis:** This page continues the exposition of theg mchog mdzod with detailed
 examination of Dzogchen view, practice, and realization. Line range 7583-7627.
 
 [7583] <structure> # Structural Overview
-**Examination:** Section opens at line 7583 and extends through 7627,
+**Analysis:** The page begins at line 7583 and extends through 7627,
 presenting sequential development of the Dzogchen teachings on mind, appearance,
 and liberation.
 
-<philology>
+[7583-7585] <philology>
 Key Terminology
-**Historical Context:** This section's terms require precise philological attention.
+**Analysis:** Technical terms in this section require precise philological attention.
 The Tibetan text employs standard Dzogchen vocabulary with specific nuances.
 
 [7605] <context> Doctrinal Context
-**Close Reading:** This participates in the larger Nyingma doxographical discourse,
+**Analysis:** This section participates in the broader Nyingma doxographical discourse,
 distinguishing Dzogchen view from lower vehicles through unique terminological choices.
 
-<concept>
+[7583-7627] <concept>
 Philosophical Developments
-**Consideration:** The presented framework advances the understanding of:
+**Analysis:** The conceptual framework presented here advances the understanding of:
 1. Primordial purity (*ka dag*) and spontaneous accomplishment (*lhun grub*)
 2. Self-liberation (*rang grol*) of thoughts and appearances
 3. Direct introduction (*ngo sprod*) to mind-nature
 4. Great perfection (*rdzogs chen*) view and practice
 
-<structure>
+[7628-7689] <structure>
 Five Liberations and Nine Assertions
-**Investigation:** This page presents the five types of liberation (*grol ba lnga*) and nine assertions (*thag chod dgu*) that characterize Dzogchen's unique approach. The structure establishes: (1) liberation through mere settling (*bzhag pa tsam gyis grol ba*), (2) liberation through mere knowing (*shes pa tsam gyis grol ba*), (3) primordial liberation (*ye grol*), (4) self-liberation (*rang grol*), (5) naked liberation (*cer grol*).
+**Analysis:** This page presents the five types of liberation (*grol ba lnga*) and nine assertions (*thag chod dgu*) that characterize Dzogchen's unique approach. The structure establishes: (1) liberation through mere settling (*bzhag pa tsam gyis grol ba*), (2) liberation through mere knowing (*shes pa tsam gyis grol ba*), (3) primordial liberation (*ye grol*), (4) self-liberation (*rang grol*), (5) naked liberation (*cer grol*).
 
-<philology>
+[7628-7632] <philology>
 Five Liberations
-**Investigation:** The fivefold typology:
+**Analysis:** The fivefold typology:
 - *Bzhag pa tsam gyis grol ba*: liberation through mere settling/placement
 - *Shes pa tsam gyis grol ba*: liberation through mere knowing/awareness
 - *Ye grol*: primordial liberation (never bound)
@@ -1150,275 +1169,276 @@ Five Liberations
 
 Each represents a different aspect of Dzogchen's non-action approach.
 
-<concept>
+[7672-7674] <concept>
 Simile of Fruit
-**Technical Examination:** The simile of *a li ka'i 'bras bu* (āli-kā fruit) illustrates primordial ripeness:
+**Analysis:** The simile of *a li ka'i 'bras bu* (āli-kā fruit) illustrates primordial ripeness:
 - Fruit primordially ripe (*ye nas smin pa*)
 - No need for further ripening (*da smin rgyu med pa*)
 - Already accomplished, not needing cause
 
 This distinguishes Dzogchen from gradualist paths requiring cultivation.
 
-<structure>
+[7672-7717] <structure>
 Page 181 Analysis
-**Structural Mapping:** This section extends theg mchog mdzod with detailed
+**Analysis:** This page continues the exposition of theg mchog mdzod with detailed
 examination of Dzogchen view, practice, and realization. Line range 7672-7717.
 
 [7672] <structure> # Structural Overview
-**Consideration:** Lines begin at 7672 and extends through 7717,
+**Analysis:** The page begins at line 7672 and extends through 7717,
 presenting sequential development of the Dzogchen teachings on mind, appearance,
 and liberation.
 
-<philology>
+[7672-7674] <philology>
 Key Terminology
-**Hermeneutical Frame:** Technical vocabulary requires precise philological attention.
+**Analysis:** Technical terms in this section require precise philological attention.
 The Tibetan text employs standard Dzogchen vocabulary with specific nuances.
 
 [7695] <context> Doctrinal Context
-**Detailed Analysis:** This connects to the broader Nyingma doxographical discourse,
+**Analysis:** This section participates in the broader Nyingma doxographical discourse,
 distinguishing Dzogchen view from lower vehicles through unique terminological choices.
 
-<concept>
+[7672-7717] <concept>
 Philosophical Developments
-**Consideration:** This conceptual structure advances the understanding of:
+**Analysis:** The conceptual framework presented here advances the understanding of:
 1. Primordial purity (*ka dag*) and spontaneous accomplishment (*lhun grub*)
 2. Self-liberation (*rang grol*) of thoughts and appearances
 3. Direct introduction (*ngo sprod*) to mind-nature
 4. Great perfection (*rdzogs chen*) view and practice
 
-<structure>
+[7675-7689] <structure>
 Understanding Primordial Liberation
-**Philological Analysis:** The three aspects of *ye grol*:
+**Analysis:** The three aspects of *ye grol*:
 1. **Understanding** (*go ba*): recognition of primordial freedom
 2. **Placement** (*'jog pa*): resting in natural state
 3. **Validity** (*'thad pa*): logical demonstration
 
-<context>
+[7686-7689] <context>
 Causal Vehicle Critique
-**Consideration:** The text distinguishes Dzogchen from lower approaches:
+**Analysis:** The text distinguishes Dzogchen from lower approaches:
 - Not relying on other conditions (*yul gzhan la brten pa'i bsgom pa*)
 - Not adopting views that accept/reject (*lta ba*)
 - Not engaging in conduct with faults (*spyod pa skyon can*)
 
 The phrase *ye nas dag pa'i phyir ro* (because primordially pure) establishes the logical basis for non-action.
 
-<structure>
+[7718-7764] <structure>
 Page 182 Analysis
-**Architectural Analysis:** This page continues theg mchog mdzod with detailed
+**Analysis:** This page continues the exposition of theg mchog mdzod with detailed
 examination of Dzogchen view, practice, and realization. Line range 7718-7764.
 
 [7718] <structure> # Structural Overview
-**Consideration:** Page commences at line 7718 and extends through 7764,
+**Analysis:** The page begins at line 7718 and extends through 7764,
 presenting sequential development of the Dzogchen teachings on mind, appearance,
 and liberation.
 
-<philology>
+[7718-7720] <philology>
 Key Terminology
-**Historical Context:** Terminology here requires precise philological attention.
+**Analysis:** Technical terms in this section require precise philological attention.
 The Tibetan text employs standard Dzogchen vocabulary with specific nuances.
 
 [7741] <context> Doctrinal Context
-**Investigation:** This section fits within Nyingma doxographical discourse,
+**Analysis:** This section participates in the broader Nyingma doxographical discourse,
 distinguishing Dzogchen view from lower vehicles through unique terminological choices.
 
-<concept>
+[7718-7764] <concept>
 Philosophical Developments
-**Examination:** This framework develops the understanding of:
+**Analysis:** The conceptual framework presented here advances the understanding of:
 1. Primordial purity (*ka dag*) and spontaneous accomplishment (*lhun grub*)
 2. Self-liberation (*rang grol*) of thoughts and appearances
 3. Direct introduction (*ngo sprod*) to mind-nature
 4. Great perfection (*rdzogs chen*) view and practice
 
-<structure>
+[7765-7816] <structure>
 Page 183 Analysis
-**Architectural Analysis:** This continues the exposition theg mchog mdzod with detailed
+**Analysis:** This page continues the exposition of theg mchog mdzod with detailed
 examination of Dzogchen view, practice, and realization. Line range 7765-7816.
 
 [7765] <structure> # Structural Overview
-**Close Reading:** Text begins at line 7765 and extends through 7816,
+**Analysis:** The page begins at line 7765 and extends through 7816,
 presenting sequential development of the Dzogchen teachings on mind, appearance,
 and liberation.
 
-<philology>
+[7765-7767] <philology>
 Key Terminology
-**Hermeneutical Frame:** Technical terms here require precise philological attention.
+**Analysis:** Technical terms in this section require precise philological attention.
 The Tibetan text employs standard Dzogchen vocabulary with specific nuances.
 
 [7791] <context> Doctrinal Context
-**Philological Analysis:** This section connects to Nyingma doxographical discourse,
+**Analysis:** This section participates in the broader Nyingma doxographical discourse,
 distinguishing Dzogchen view from lower vehicles through unique terminological choices.
 
-<concept>
+[7765-7816] <concept>
 Philosophical Developments
-**Philological Analysis:** The framework here advances the understanding of:
+**Analysis:** The conceptual framework presented here advances the understanding of:
 1. Primordial purity (*ka dag*) and spontaneous accomplishment (*lhun grub*)
 2. Self-liberation (*rang grol*) of thoughts and appearances
 3. Direct introduction (*ngo sprod*) to mind-nature
 4. Great perfection (*rdzogs chen*) view and practice
 
-<structure>
+[7817-7870] <structure>
 Page 184 Analysis
-**Arrangement:** This page further develops theg mchog mdzod with detailed
+**Analysis:** This page continues the exposition of theg mchog mdzod with detailed
 examination of Dzogchen view, practice, and realization. Line range 7817-7870.
 
 [7817] <structure> # Structural Overview
-**Close Reading:** Section opens at line 7817 and extends through 7870,
+**Analysis:** The page begins at line 7817 and extends through 7870,
 presenting sequential development of the Dzogchen teachings on mind, appearance,
 and liberation.
 
-<philology>
+[7817-7819] <philology>
 Key Terminology
-**Historical Context:** This section's terms require precise philological attention.
+**Analysis:** Technical terms in this section require precise philological attention.
 The Tibetan text employs standard Dzogchen vocabulary with specific nuances.
 
 [7844] <context> Doctrinal Context
-**Consideration:** This participates in the larger Nyingma doxographical discourse,
+**Analysis:** This section participates in the broader Nyingma doxographical discourse,
 distinguishing Dzogchen view from lower vehicles through unique terminological choices.
 
-<concept>
+[7817-7870] <concept>
 Philosophical Developments
-**Close Reading:** The presented framework advances the understanding of:
+**Analysis:** The conceptual framework presented here advances the understanding of:
 1. Primordial purity (*ka dag*) and spontaneous accomplishment (*lhun grub*)
 2. Self-liberation (*rang grol*) of thoughts and appearances
 3. Direct introduction (*ngo sprod*) to mind-nature
 4. Great perfection (*rdzogs chen*) view and practice
 
-<structure>
+[7871-7922] <structure>
 Page 185 Analysis
-**Architectural Analysis:** This section extends theg mchog mdzod with detailed
+**Analysis:** This page continues the exposition of theg mchog mdzod with detailed
 examination of Dzogchen view, practice, and realization. Line range 7871-7922.
 
 [7871] <structure> # Structural Overview
-**Consideration:** Lines begin at 7871 and extends through 7922,
+**Analysis:** The page begins at line 7871 and extends through 7922,
 presenting sequential development of the Dzogchen teachings on mind, appearance,
 and liberation.
 
-<philology>
+[7871-7873] <philology>
 Key Terminology
-**Doxographical Placement:** Technical vocabulary requires precise philological attention.
+**Analysis:** Technical terms in this section require precise philological attention.
 The Tibetan text employs standard Dzogchen vocabulary with specific nuances.
 
 [7897] <context> Doctrinal Context
-**Philological Analysis:** This connects to the broader Nyingma doxographical discourse,
+**Analysis:** This section participates in the broader Nyingma doxographical discourse,
 distinguishing Dzogchen view from lower vehicles through unique terminological choices.
 
-<concept>
+[7871-7922] <concept>
 Philosophical Developments
-**Detailed Analysis:** This conceptual structure advances the understanding of:
+**Analysis:** The conceptual framework presented here advances the understanding of:
 1. Primordial purity (*ka dag*) and spontaneous accomplishment (*lhun grub*)
 2. Self-liberation (*rang grol*) of thoughts and appearances
 3. Direct introduction (*ngo sprod*) to mind-nature
 4. Great perfection (*rdzogs chen*) view and practice
 
-<structure>
+[7923-7964] <structure>
 Page 186 Analysis
-**Arrangement:** This page continues theg mchog mdzod with detailed
+**Analysis:** This page continues the exposition of theg mchog mdzod with detailed
 examination of Dzogchen view, practice, and realization. Line range 7923-7964.
 
 [7923] <structure> # Structural Overview
-**Detailed Analysis:** Page commences at line 7923 and extends through 7964,
+**Analysis:** The page begins at line 7923 and extends through 7964,
 presenting sequential development of the Dzogchen teachings on mind, appearance,
 and liberation.
 
-<philology>
+[7923-7925] <philology>
 Key Terminology
-**Doxographical Placement:** Terminology here requires precise philological attention.
+**Analysis:** Technical terms in this section require precise philological attention.
 The Tibetan text employs standard Dzogchen vocabulary with specific nuances.
 
 [7944] <context> Doctrinal Context
-**Examination:** This section fits within Nyingma doxographical discourse,
+**Analysis:** This section participates in the broader Nyingma doxographical discourse,
 distinguishing Dzogchen view from lower vehicles through unique terminological choices.
 
-<concept>
+[7923-7964] <concept>
 Philosophical Developments
-**Investigation:** This framework develops the understanding of:
+**Analysis:** The conceptual framework presented here advances the understanding of:
 1. Primordial purity (*ka dag*) and spontaneous accomplishment (*lhun grub*)
 2. Self-liberation (*rang grol*) of thoughts and appearances
 3. Direct introduction (*ngo sprod*) to mind-nature
 4. Great perfection (*rdzogs chen*) view and practice
 
-<structure>
+[7965-8012] <structure>
 Page 187 Analysis
-**Structural Framework:** This continues the exposition theg mchog mdzod with detailed
+**Analysis:** This page continues the exposition of theg mchog mdzod with detailed
 examination of Dzogchen view, practice, and realization. Line range 7965-8012.
 
 [7965] <structure> # Structural Overview
-**Technical Examination:** Text begins at line 7965 and extends through 8012,
+**Analysis:** The page begins at line 7965 and extends through 8012,
 presenting sequential development of the Dzogchen teachings on mind, appearance,
 and liberation.
 
-<philology>
+[7965-7967] <philology>
 Key Terminology
-**Historical Context:** Technical terms here require precise philological attention.
+**Analysis:** Technical terms in this section require precise philological attention.
 The Tibetan text employs standard Dzogchen vocabulary with specific nuances.
 
 [7989] <context> Doctrinal Context
-**Technical Examination:** This section connects to Nyingma doxographical discourse,
+**Analysis:** This section participates in the broader Nyingma doxographical discourse,
 distinguishing Dzogchen view from lower vehicles through unique terminological choices.
 
-<concept>
+[7965-8012] <concept>
 Philosophical Developments
-**Philological Analysis:** The framework here advances the understanding of:
+**Analysis:** The conceptual framework presented here advances the understanding of:
 1. Primordial purity (*ka dag*) and spontaneous accomplishment (*lhun grub*)
 2. Self-liberation (*rang grol*) of thoughts and appearances
 3. Direct introduction (*ngo sprod*) to mind-nature
 4. Great perfection (*rdzogs chen*) view and practice
 
-<structure>
+[8013-8051] <structure>
 Page 188 Analysis
-**Structural Framework:** This page further develops theg mchog mdzod with detailed
+**Analysis:** This page continues the exposition of theg mchog mdzod with detailed
 examination of Dzogchen view, practice, and realization. Line range 8013-8051.
 
 [8013] <structure> # Structural Overview
-**Technical Examination:** Section opens at line 8013 and extends through 8051,
+**Analysis:** The page begins at line 8013 and extends through 8051,
 presenting sequential development of the Dzogchen teachings on mind, appearance,
 and liberation.
 
-<philology>
+[8013-8015] <philology>
 Key Terminology
-**Historical Context:** This section's terms require precise philological attention.
+**Analysis:** Technical terms in this section require precise philological attention.
 The Tibetan text employs standard Dzogchen vocabulary with specific nuances.
 
 [8032] <context> Doctrinal Context
-**Philological Analysis:** This participates in the larger Nyingma doxographical discourse,
+**Analysis:** This section participates in the broader Nyingma doxographical discourse,
 distinguishing Dzogchen view from lower vehicles through unique terminological choices.
 
-<concept>
+[8013-8051] <concept>
 Philosophical Developments
-**Close Reading:** The presented framework advances the understanding of:
+**Analysis:** The conceptual framework presented here advances the understanding of:
 1. Primordial purity (*ka dag*) and spontaneous accomplishment (*lhun grub*)
 2. Self-liberation (*rang grol*) of thoughts and appearances
 3. Direct introduction (*ngo sprod*) to mind-nature
 4. Great perfection (*rdzogs chen*) view and practice
 
-<structure>
+[8052-8082] <structure>
 Page 189 Analysis
-**Architectural Analysis:** This section extends theg mchog mdzod with detailed
+**Analysis:** This page continues the exposition of theg mchog mdzod with detailed
 examination of Dzogchen view, practice, and realization. Line range 8052-8082.
 
 [8052] <structure> # Structural Overview
-**Technical Examination:** Lines begin at 8052 and extends through 8082,
+**Analysis:** The page begins at line 8052 and extends through 8082,
 presenting sequential development of the Dzogchen teachings on mind, appearance,
 and liberation.
 
-<philology>
+[8052-8054] <philology>
 Key Terminology
-**Tradition Context:** Technical vocabulary requires precise philological attention.
+**Analysis:** Technical terms in this section require precise philological attention.
 The Tibetan text employs standard Dzogchen vocabulary with specific nuances.
 
 [8067] <context> Doctrinal Context
-**Close Reading:** This connects to the broader Nyingma doxographical discourse,
+**Analysis:** This section participates in the broader Nyingma doxographical discourse,
 distinguishing Dzogchen view from lower vehicles through unique terminological choices.
 
-<concept>
+[8052-8082] <concept>
 Philosophical Developments
-**Consideration:** This conceptual structure advances the understanding of:
+**Analysis:** The conceptual framework presented here advances the understanding of:
 1. Primordial purity (*ka dag*) and spontaneous accomplishment (*lhun grub*)
 2. Self-liberation (*rang grol*) of thoughts and appearances
 3. Direct introduction (*ngo sprod*) to mind-nature
 4. Great perfection (*rdzogs chen*) view and practice
 
-<structure>
+
+[6744-6765] <structure>
 Self-Abiding Natural Direct Awareness: The First Key Point
 **Architectural Analysis:** This passage presents the first of three key points (*gnad gsum*) of Trekcho: direct introduction to self-abiding awareness (*rang babs kyi rig pa*). The structure follows the *ngo sprod* (pointing-out) formula:
 1. Posture: Not projecting, not gathering, not contemplating
@@ -1441,7 +1461,7 @@ Lines 6751-6762 present twelve characteristics of self-abiding awareness:
 11. Pristine and pure like sun and moon
 12. Vast and open like space
 
-<philology>
+[6744-6765] <philology>
 **Terminological Analysis:**
 
 *Rang babs* (རང་བབས་) - Self-abiding: *rang* (self) + *babs* (descended/abiding). Indicates awareness naturally settled in its own state without contrivance. Distinguished from *bcos babs* (artificially settled).
@@ -1466,7 +1486,7 @@ Lines 6751-6762 present twelve characteristics of self-abiding awareness:
 3. *Nam mkha' lta bu* (like space): Vast without limit, accommodating all without obstruction
 4. *Ri rgyal lta bu* (like king-mountain): Stable, immovable, foundation of all
 
-<context>
+[6744-6765] <context>
 **Trekcho Context:**
 This passage presents the *ngo sprod* (direct introduction) phase of Trekcho practice. In the *Khrid chen bdun* (Seven Great Instructions) tradition:
 1. Preliminaries (*sngon 'gro*)
@@ -1490,7 +1510,7 @@ This passage reflects the *khrid* (instruction) lineage of:
 - Śrī Siṃha: Four Nails (*zer bzhi*)
 - Jñānasūtra and Vimalamitra: Transmission to Tibet
 
-<concept>
+[6744-6765] <concept>
 **The View of Self-Abiding Awareness**
 
 **Postural Analysis:**
@@ -1544,14 +1564,14 @@ Dzogchen distinction: Not merely "ordinary mind" but primordially pure awareness
 
 ---
 
-<structure>
+[6766-6806] <structure>
 Tantra Citations: Authenticating Self-Abiding View
 **Architectural Function:** These citations from *Seng ge rtsal rdzogs*, *Klong drug pa*, and *Rtsal rdzogs* provide scriptural authority for the view. The structure presents:
 1. The path of the lion (*seng ge*): pathless path
 2. Fourfold view without extremes (*rtag chad med pa*)
 3. Non-dual dharmatā (*gnyis med chos nyid*)
 
-<philology>
+[6766-6806] <philology>
 **Citation Analysis:**
 
 *Seng ge rtsal rdzogs* (6766-6774):
@@ -1586,7 +1606,7 @@ Extensive presentation of effortless dharmatā:
 - *Dag dang ma dag tha snyad chos su med* (pure and impure conventionally nonexistent)
 - *Rang lus ngang du thig le gcig tu 'dub* (self-body gathered into single sphere)
 
-<context>
+[6766-6806] <context>
 **Nyingma Tantra Sources:**
 
 **Seng ge rtsal rdzogs (Lion Perfection):** One of the most important *Man ngag sde* tantras. Presents the view of effortless perfection (*bya rtsol med pa*).
@@ -1606,7 +1626,7 @@ These three tantras represent the three classes:
 - *Dzogchen*: "Form is awareness's display, awareness naturally present as form"
 - Distinction: Dzogchen adds the recognition (*ngo shes*) dimension
 
-<concept>
+[6766-6806] <concept>
 **The Fourfold Freedom Framework**
 
 **Structure of the Four Verses:**
@@ -1659,7 +1679,7 @@ The lion (*seng ge*) symbolizes:
 
 ---
 
-<structure>
+[6807-6850] <structure>
 Three Ways of Sustaining the View
 **Architectural Analysis:** This section presents the three ways of sustaining (*bskyang ba*) the recognition of awareness:
 1. Sustaining as great transcending of view-meditation object (*lta sgom yul 'das chen po*)
@@ -1668,7 +1688,7 @@ Three Ways of Sustaining the View
 
 This structure follows the *bskyang ba* (sustaining) phase of Trekcho, where initial recognition is stabilized into continuous awareness.
 
-<philology>
+[6807-6850] <philology>
 **Terminological Analysis:**
 
 *Bskyang ba* (བསྐྱང་བ་) - Sustaining/maintaining: from *bskyang* (to sustain/maintain). Technical term for the practice phase after initial recognition (*ngo sprod*). Not creating something new but maintaining what is recognized.
@@ -1687,7 +1707,7 @@ This structure follows the *bskyang ba* (sustaining) phase of Trekcho, where ini
 
 *Gang shar char phog* (གང་ཤར་ཅར་ཕོག་) - Whatever arises immediately strikes: instant recognition without delay.
 
-<context>
+[6807-6850] <context>
 **Practice Context:**
 The three sustenances represent progressive deepening:
 1. **View-meditation transcended**: Moving beyond deliberate practice
@@ -1707,7 +1727,7 @@ These three sustenances derive from:
 
 Distinction: Dzogchen emphasizes the primordial (*ye nas*) nature of the sustenance.
 
-<concept>
+[6807-6850] <concept>
 **The Three Sustenances (*Bskyang ba gsum*)**
 
 **1. Great Transcending of View-Meditation Object (*Lta sgom yul 'das chen po*)**

@@ -1,10 +1,10 @@
-<structure>
+[2983-2984] <structure>
 # Cittamātra: Two Branches and Three Subschools
-**Close reading:** This passage presents the classification of Cittamātra (སྤྱོད་པ་སྣ་ཚོགས་པ་, *sems tsam*) into two main schools, then subdivides the first into three subschools. The structure follows: (1) Introduction to the two branches—True Aspect (རྣམ་པ་དེ་དག་པའི་, *rnam pa bden pa*) vs. False Aspect (རྣམ་པ་བཟང་པོའི་, *rnam pa brdzun pa*); (2) The jewel-reflection simile (རྫིང་འགྲམ་ནོར་བུའི་གཟུགས་བརྙན) illustrating the relationship between consciousness and its aspects; (3) The threefold subdivision (དབྱེ་ན་, *dbye na*) of True Aspectarians. The enumeration marker *dang po* (first) establishes the topical presentation, followed by *de lta bu* (such as) introducing the example, and *dbye na* (if divided) introducing subdivisions.
+**Analysis:** This passage presents the classification of Cittamātra (སྤྱོད་པ་སྣ་ཚོགས་པ་, *sems tsam*) into two main schools, then subdivides the first into three subschools. The structure follows: (1) Introduction to the two branches—True Aspect (རྣམ་པ་དེ་དག་པའི་, *rnam pa bden pa*) vs. False Aspect (རྣམ་པ་བཟང་པོའི་, *rnam pa brdzun pa*); (2) The jewel-reflection simile (རྫིང་འགྲམ་ནོར་བུའི་གཟུགས་བརྙན) illustrating the relationship between consciousness and its aspects; (3) The threefold subdivision (དབྱེ་ན་, *dbye na*) of True Aspectarians. The enumeration marker *dang po* (first) establishes the topical presentation, followed by *de lta bu* (such as) introducing the example, and *dbye na* (if divided) introducing subdivisions.
 
-<context>
+[2983-2984] <context>
 # Cittamātra Subdivisions
-**Detailed Analysis:** Longchenpa identifies two main branches of Cittamātra:
+**Analysis:** Longchenpa identifies two main branches of Cittamātra:
 
 1. **Sems tsam rnam bden pa** — Mind-Only Aspect-True (asserting consciousness aspects are truly existent)
 2. **Sems tsam brdzun pa** — Mind-Only Aspect-False (asserting consciousness aspects are false)
@@ -13,14 +13,14 @@ The first school holds that appearances (*snang ba*) are true aspects (*rnam par
 
 [2984] <concept>
 # The Jewel-Reflection Simile
-**Examination:** The simile of the jewel's reflection (*nor bu ke ke ru'i gzugs brnyan*) in water illustrates the Cittamātra position:
+**Analysis:** The simile of the jewel's reflection (*nor bu ke ke ru'i gzugs brnyan*) in water illustrates the Cittamātra position:
 - The jewel hanging on a branch (*shing gi yal ga la btags pa*): external object
 - Its reflection appears in the water (*chu nang du shar ba*): appearing aspect
 - The reflection has the *aspect* (*rnam pa*) of the jewel but is not the jewel itself: consciousness-only
 
 **Philosophical Significance:** This demonstrates that external appearances (*phyi rol*) are merely reflections/aspects of internal consciousness, lacking independent existence. The *rnam pa* (aspect/characteristic) is central to Yogācāra epistemology—consciousness never perceives objects directly but only its own representations. This parallels the *vijñapti-mātra* (consciousness-only) doctrine that all phenomena are "mere representations" (བྱེད་པ་ཙམ་, *byed pa tsam*) of consciousness.
 
-<philology>
+[2985-2988] <philology>
 # Three Subschools of True Aspectarian Cittamātra
 
 **Technical Terminology:**
@@ -28,7 +28,7 @@ The first school holds that appearances (*snang ba*) are true aspects (*rnam par
 - *sgong bkas pa ltar* (egg-split metaphor)
 - *sna tshogs gnyis med* (various yet nondual)
 
-**Close Reading:** The text presents three subschools:
+**Analysis:** The text presents three subschools:
 
 1. **Equal number thesis:** Number of aspects equals number of consciousnesses
 

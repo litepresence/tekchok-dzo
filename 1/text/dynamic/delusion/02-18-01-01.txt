@@ -1,4 +1,4 @@
-<ontological-error> <reification-error>
+[3922-3926] <ontological-error> <reification-error>
 
 **Misreading:**
 The "Vajra Essence" (rdo rje snying po) understood as a specific, definable teaching or substance that one can possess, transmit, or be initiated into—a secret core essence hidden within the tradition.
@@ -13,11 +13,11 @@ Dzogchen becomes another esoteric system with secret initiations, core teachings
 Practitioners seek empowerments to "get" the Vajra Essence. Lineage becomes gatekeeping. The simplicity of direct recognition is rejected as "too simple to be the real thing."
 
 **Cascade effects:**
-<reification-error> creates <recognition-blocked>
+<reification-error> → <secretism-error> → <elitism-error> → <meditationism-error> (practicing to access the secret)
 
 ---
 
-<epistemic-error> <attainment-hierarchy>
+[3927-3928] <epistemic-error> <attainment-hierarchy>
 
 **Misreading:**
 The seven pith instructions interpreted as seven progressively superior stages—first one masters direct perception, then intellectual independence, then word-transcendence, etc.—a staircase of spiritual development.
@@ -29,10 +29,10 @@ The enumeration (seven) and comparative language (superior to other paths) natur
 Dzogchen becomes a graded path with stages to complete. The simultaneity of recognition is lost. Practitioners attempt to "master" each pith instruction sequentially, measuring progress.
 
 **Secondary consequences:**
-Teachers create curricula for "completing" the seven piths. Students compare their "level" with others. The first pith (direct perception) is approached as preliminary in itself.
+Teachers create curricula for "completing" the seven piths. Students compare their "level" with others. The first pith (direct perception) is approached as preliminary rather than complete in itself.
 
 **Cascade effects:**
-<epistemic-error> produces <meditationism-error> produces <achievement-fixation> triggers <comparative-error>
+<epistemic-error> → <meditationism-error> → <achievement-fixation> → <comparative-error>
 
 ---
 
@@ -51,7 +51,7 @@ Practitioners abandon all discipline, meditation, and engagement, claiming Dzogc
 Dzogchen communities become centers of spiritual lethargy. Genuine recognition capacity atrophies without support. Practitioners look down on "strivers" while remaining confused themselves.
 
 **Cascade effects:**
-<practice-error> triggers <spiritual-bypassing> generates <nihilistic-error> (rejecting all method) produces <stagnation-error>
+<practice-error> → <spiritual-bypassing> → <nihilistic-error> (rejecting all method) → <stagnation-error>
 
 ---
 
@@ -61,7 +61,7 @@ Dzogchen communities become centers of spiritual lethargy. Genuine recognition c
 "Not relying on intellectual confidence" interpreted as anti-intellectualism—reason, study, and philosophical understanding are obstacles to Dzogchen realization.
 
 **Why it arises:**
-Reaction against scholarly Buddhism. Romantic attraction to "direct experience" over "book learning." Misunderstanding of Tibetan "yid dpyod" (intellectual certainty) as mere conceptualization instead of preliminary recognition.
+Reaction against scholarly Buddhism. Romantic attraction to "direct experience" over "book learning." Misunderstanding of Tibetan "yid dpyod" (intellectual certainty) as mere conceptualization rather than preliminary recognition.
 
 **Primary consequence:**
 Practitioners abandon study, philosophical precision, and critical thinking. Dzogchen becomes vague "direct experience" without content. Inability to distinguish genuine recognition from self-deception.
@@ -70,7 +70,7 @@ Practitioners abandon study, philosophical precision, and critical thinking. Dzo
 Communities become philosophically naive. Cult dynamics flourish without critical scrutiny. Practitioners cannot articulate or recognize the view. Historical transmission context is lost.
 
 **Cascade effects:**
-<epistemic-error> triggers <anti-intellectualism> → <guru-dependence> → <cult-vulnerability>
+<epistemic-error> → <anti-intellectualism> → <guru-dependence> → <cult-vulnerability>
 
 ---
 
@@ -80,7 +80,7 @@ Communities become philosophically naive. Cult dynamics flourish without critica
 "Words do not make Buddha" understood as language being an obstacle to realization—silence, non-conceptuality, and abandoning description are the path.
 
 **Why it arises:**
-Mystical traditions valorize the "ineffable." Buddhist teachings on emptiness seem to negate all concepts. The limit of language is mistaken for language as barrier not language as functional pointer.
+Mystical traditions valorize the "ineffable." Buddhist teachings on emptiness seem to negate all concepts. The limit of language is mistaken for language as barrier rather than language as functional pointer.
 
 **Primary consequence:**
 Practitioners reject description, instruction, and philosophical language. Dzogchen becomes inarticulate "being beyond words." Critical distinctions collapse into "everything is empty anyway."
@@ -99,7 +99,7 @@ Inability to teach or communicate the view. Transmission breaks down because no 
 "Not relying on ground, path, and fruit as mind-made objects" interpreted as denying the framework entirely—there is no ground to recognize, no path to traverse, no fruit to attain.
 
 **Why it arises:**
-The rejection of temporal progression (not relying on time) seems to deny all structure. Practitioners want to shortcut to "already enlightened." Misunderstanding of "mind-made" as "any conception" not "reified as object."
+The rejection of temporal progression (not relying on time) seems to deny all structure. Practitioners want to shortcut to "already enlightened." Misunderstanding of "mind-made" as "any conception" rather than "reified as object."
 
 **Primary consequence:**
 Complete framework collapse—no recognition, no practice, no result. Dzogchen becomes license for doing nothing because "nothing to do." Ground, path, and fruit as pedagogical structure is abandoned.
@@ -108,7 +108,7 @@ Complete framework collapse—no recognition, no practice, no result. Dzogchen b
 Practitioners claim enlightenment without basis. Lineage transmission dissolves. No criteria for recognizing confusion vs. wisdom. Dzogchen becomes pure subjectivism.
 
 **Cascade effects:**
-<temporal-error> leads to <nihilistic-error> → <framework-collapse> → <spiritual-narcissism>
+<temporal-error> → <nihilistic-error> → <framework-collapse> → <spiritual-narcissism>
 
 ---
 
@@ -146,7 +146,7 @@ Complete rejection of subtle body practices, channels, winds, and bindus. Import
 Recognition remains unstable. Clear light experiences are misinterpreted or missed entirely. Body-mind integration necessary for advanced practice never develops. Dzogchen becomes purely cognitive.
 
 **Cascade effects:**
-<practice-error> generates <body-rejection> → <recognition-instability> → <advanced-practice-failure>
+<practice-error> → <body-rejection> → <recognition-instability> → <advanced-practice-failure>
 
 ---
 
@@ -165,11 +165,11 @@ Dzogchen becomes another attainment vehicle. Practitioners practice to "develop"
 Progress tracking toward "kaya manifestation." Meditation states evaluated by "clarity of kayas." The simplicity of recognition replaced by complex visualization and generation stage practices.
 
 **Cascade effects:**
-<ontological-error> leads to <attainment-goal> → <meditationism-error> → <visualization-complexity>
+<ontological-error> → <attainment-goal> → <meditationism-error> → <visualization-complexity>
 
 ---
 
-<hierarchical-error> <ati-superiority
+[3934-3942] <hierarchical-error> <ati-superiority
 
 **Misreading:**
 The question "Does it surpass Ati as well?" and the answer interpreted as establishing a hierarchy even within Dzogchen—this text's approach superior to Mind, Vast Expanse, and Instruction sections of Ati.
@@ -178,23 +178,23 @@ The question "Does it surpass Ati as well?" and the answer interpreted as establ
 The comparative language (surpassing, distinction) naturally suggests hierarchy. The enumeration of Ati sections invites ranking. Practitioners want to know "which is highest."
 
 **Primary consequence:**
-Sectarianism within Dzogchen—"we practice the highest Ati, others practice lower Ati." The distinctions become evaluative yet not descriptive. Practitioners dismiss other Nyingma lineages.
+Sectarianism within Dzogchen—"we practice the highest Ati, others practice lower Ati." The distinctions become evaluative rather than descriptive. Practitioners dismiss other Nyingma lineages.
 
 **Secondary consequences:**
 Lineage fragmentation. Superiority complexes develop. Important complementary approaches (Mind section's confidence, Instruction section's bardo timing) are rejected as "inferior."
 
 **Cascade effects:**
-<hierarchical-error> produces <rigpa-unseen>
+<hierarchical-error> → <sectarianism> → <lineage-contempt> → <approach-rejection>
 
 ---
 
-<view-collapse> <mind-section-reduction
+[3937-3939] <view-collapse> <mind-section-reduction
 
 **Misreading:**
 The Mind section (sems sde) described as establishing "confidence in the wide ground-free expanse" interpreted as Mind section being merely conceptual—only intellectual confidence, not actual realization—thus inferior.
 
 **Why it arises:**
-The contrast with this path's "direct perception" suggests Mind section lacks it. "Confidence" (gdeng) sounds like belief in contrast to recognition. The sequence (Mind, then this) implies progression from inferior to superior.
+The contrast with this path's "direct perception" suggests Mind section lacks it. "Confidence" (gdeng) sounds like belief rather than recognition. The sequence (Mind, then this) implies progression from inferior to superior.
 
 **Primary consequence:**
 Mind section teachings abandoned as "preliminary." Important foundation for recognizing ground is missed. Practitioners attempt direct perception without ground-confidence, leading to unstable recognition.
@@ -203,11 +203,11 @@ Mind section teachings abandoned as "preliminary." Important foundation for reco
 Historical Mind section lineages dismissed. Semde teachings collected but not practiced. The sophisticated phenomenology of Mind section (kun gzhi, rig pa distinction) lost.
 
 **Cascade effects:**
-<view-collapse> creates <obscuration>
+<view-collapse> → <foundation-loss> → <recognition-instability> → <direct-perjection-failure>
 
 ---
 
-<pedagogical-error> <bardo-timing-fixation
+[3940-3942] <pedagogical-error> <bardo-timing-fixation
 
 **Misreading:**
 The Instruction section's "relying on bardo time" interpreted as meaning Dzogchen practice only works at death—one must wait for the bardo to apply these instructions, making Dzogchen a "death practice."
@@ -222,11 +222,11 @@ Dzogchen practice deferred to deathbed. Practitioners don't recognize present aw
 Present life becomes preparation for death practice. Dzogchen reduced to phowa/bardo instructions. The living recognition of rigpa never occurs because always "not yet."
 
 **Cascade effects:**
-<pedagogical-error> triggers <temporal-deferral> → <present-neglect> → <death-obsession>
+<pedagogical-error> → <temporal-deferral> → <present-neglect> → <death-obsession>
 
 ---
 
-<practice-error> <coarse-channel-rejection
+[3943-3946] <practice-error> <coarse-channel-rejection
 
 **Misreading:**
 "Abandoning the coarse" (conventional channels and winds) interpreted as abandoning all channel-wind practices—physical practices, body postures, and energetic work entirely rejected.
@@ -241,11 +241,11 @@ All subtle body practices abandoned. Important supports for clear light recognit
 Practitioners develop "Dzogchen posture" of just sitting without method. Thogal body postures abandoned as "tantric." Recognition remains unstable without energetic support.
 
 **Cascade effects:**
-<practice-error> creates <body-neglect> → <recognition-fragility> → <thogal-obstruction>
+<practice-error> → <body-neglect> → <recognition-fragility> → <thogal-obstruction>
 
 ---
 
-<ontological-error> <delusion-as-path
+[3947-3950] <ontological-error> <delusion-as-path
 
 **Misreading:**
 "Making delusion the path" understood as deliberately cultivating confusion, accepting neurosis as wisdom, or using deluded states as meditation objects—"everything is path so my confusion is practice."
@@ -260,11 +260,11 @@ Practitioners cultivate confusion or accept their neurosis as "the path." No att
 Mental illness goes untreated. Practitioners suffer needlessly. Genuine recognition (which transcends delusion) is replaced by delusion-embrace. Communities become dysfunctional.
 
 **Cascade effects:**
-<ontological-error> leads to <recognition-blocked>
+<ontological-error> → <confusion-cultivation> → <psychological-damage> → <community-pathology>
 
 ---
 
-<epistemic-error> <deviation-paranoia
+[3951-3953] <epistemic-error> <deviation-paranoia
 
 **Misreading:**
 The discussion of "deviations and deviation-places" interpreted as Dzogchen being full of dangers, traps, and potential wrong turns—practitioners must be hypervigilant about subtle errors.
@@ -273,17 +273,17 @@ The discussion of "deviations and deviation-places" interpreted as Dzogchen bein
 "Deviation" (gol sa) sounds like sin or error. The detailed discussion suggests many dangers. Practitioners conditioned to fear "wrong view" in Dzogchen.
 
 **Primary consequence:**
-Paralysis through hypervigilance. Practitioners obsess over whether they're "deviating" rather than simply recognizing. Dzogchen becomes anxious self-monitoring recognition.
+Paralysis through hypervigilance. Practitioners obsess over whether they're "deviating" rather than simply recognizing. Dzogchen becomes anxious self-monitoring rather than spacious recognition.
 
 **Secondary consequences:**
 Teachers exploit deviation-fear for control. Practitioners constantly seek validation. Natural fluctuations in practice pathologized as "deviations."
 
 **Cascade effects:**
-<epistemic-error> triggers <obscuration>
+<epistemic-error> → <hypervigilance> → <practice-paralysis> → <teacher-dependence>
 
 ---
 
-<ontological-error> <experience-validation
+[3954-3961] <ontological-error> <experience-validation
 
 **Misreading:**
 "Clear light's self-resonance, appearance-experience without deception, is certainty-grasped" interpreted as validating all experiences that feel clear or luminous—if it feels like clear light, it is clear light.
@@ -298,11 +298,11 @@ All luminous experiences accepted as wisdom without discrimination. Deluded clar
 Practitioners accumulate "clear light experiences" as attainments. Manic states interpreted as realization. Depression interpreted as "groundless." Psychological instability normalized.
 
 **Cascade effects:**
-<ontological-error> generates <nature-missed>
+<ontological-error> → <experience-fetishism> → <mania-normalization> → <psychological-instability>
 
 ---
 
-<pedagogical-error> <simile-literalization
+[3962-3968] <pedagogical-error> <simile-literalization
 
 **Misreading:**
 The simile of "jewel-light and lamp-light" interpreted as teaching about actual optical phenomena—practitioners study light physics or look for specific visual experiences to validate practice.
@@ -317,11 +317,11 @@ Practitioners look for "jewel-like" vs. "lamp-like" lights in meditation. The me
 Thogal visions evaluated by jewel/lamp criteria. Natural light phenomena misinterpreted as signs. The actual distinction (recognizing display vs. not recognizing) lost in phenomenology.
 
 **Cascade effects:**
-<pedagogical-error> triggers <metaphor-literalization> → <phenomenology-obsession> → <recognition-miss>
+<pedagogical-error> → <metaphor-literalization> → <phenomenology-obsession> → <recognition-miss>
 
 ---
 
-<quotation-reification> <scriptural-authority
+[3969-3983] <quotation-reification> <scriptural-authority
 
 **Misreading:**
 The extensive quotations from Thalgyur and other tantras interpreted as proof-texting—Longchenpa citing scriptures to prove his points, establishing authority through canonical citation.
@@ -330,17 +330,17 @@ The extensive quotations from Thalgyur and other tantras interpreted as proof-te
 Quotation format resembles proof-texting. Multiple citations suggest building case. Religious traditions use scripture for authority. Readers expect doctrinal validation.
 
 **Primary consequence:**
-Text approached as doctrinal argument requiring scriptural support. The quotations become evidence but not resonant echo. Readers evaluate validity by citation count.
+Text approached as doctrinal argument requiring scriptural support. The quotations become evidence rather than resonant echo. Readers evaluate validity by citation count.
 
 **Secondary consequences:**
-Attempt to extract "Thalgyur teaching on Dzogchen" from quotes. Citations analyzed independently of context. Dzogchen view validated by external authority but not direct recognition.
+Attempt to extract "Thalgyur teaching on Dzogchen" from quotes. Citations analyzed independently of context. Dzogchen view validated by external authority rather than direct recognition.
 
 **Cascade effects:**
-<quotation-reification> generates <canonical-fundamentalism> → <authority-externalization> → <recognition-displacement>
+<quotation-reification> → <canonical-fundamentalism> → <authority-externalization> → <recognition-displacement>
 
 ---
 
-<pedagogical-error> <ripening-liberation-sequencing
+[3984-3986] <pedagogical-error> <ripening-liberation-sequencing
 
 **Misreading:**
 "Empowerments that ripen the unripened, instructions that liberate the ripened" interpreted as strict sequence—first one must be ripened through empowerments, then later liberated through instructions.
@@ -349,17 +349,17 @@ Attempt to extract "Thalgyur teaching on Dzogchen" from quotes. Citations analyz
 The grammatical structure suggests temporal order. "Unripened" → "ripened" implies development. Empowerments typically precede instructions in tantric curriculum.
 
 **Primary consequence:**
-A practitioner might conclude they cannot approach instructions until "sufficiently ripened." Liberation deferred until empowerment-completion. The simultaneity of ripening and liberation is lost.
+Practitioners believe they cannot approach instructions until "sufficiently ripened." Liberation deferred until empowerment-completion. The simultaneity of ripening and liberation is lost.
 
 **Secondary consequences:**
 Endless empowerment-seeking without instruction-practice. "Not ready yet" becomes permanent state. Teachers gatekeep instructions behind empowerment barriers.
 
 **Cascade effects:**
-<pedagogical-error> leads to <temporal-deferral> → <empowerment-chasing> → <instruction-neglect>
+<pedagogical-error> → <temporal-deferral> → <empowerment-chasing> → <instruction-neglect>
 
 ---
 
-<ritualism-error> <empowerment-dependence
+[3987-4002] <ritualism-error> <empowerment-dependence
 
 **Misreading:**
 The four empowerments (outer, inner, secret, unsurpassed) interpreted as ritual requirements that must be received in proper order from qualified guru—without these rituals, Dzogchen is impossible.
@@ -374,11 +374,11 @@ Dzogchen becomes impossible without ritual empowerments. Recognition made contin
 Practitioners collect empowerments without recognition. Guru-shopping for "complete set." Dzogchen practitioners who haven't received rituals feel invalid. Ritual performance replaces recognition.
 
 **Cascade effects:**
-<ritualism-error> leads to <ground-ignored>
+<ritualism-error> → <empowerment-fetishism> → <lineage-ritualism> → <recognition-inaccessibility>
 
 ---
 
-<practice-error> <posture-magic
+[4003-4010] <practice-error> <posture-magic
 
 **Misreading:**
 "Body-posture's pith reliance: liberating into the three bodies' postures" interpreted as specific physical postures having inherent power—adopting the posture causes liberation.
@@ -393,11 +393,11 @@ Postures treated as mechanical causes of liberation. Practitioners obsess over "
 Posture-correction dominates practice. Physical discomfort pathologized as "wrong posture." Recognition that can occur in any posture is missed.
 
 **Cascade effects:**
-<practice-error> generates <posture-obsession> → <physical-fixation> → <recognition-obstruction>
+<practice-error> → <posture-obsession> → <physical-fixation> → <recognition-obstruction>
 
 ---
 
-<temporal-error> <ripening-completism
+[4011-4017] <temporal-error> <ripening-completism
 
 **Misreading:**
 "Body's ripening complete, arising-stage instant clear; speech's ripening complete..." interpreted as progressive completion—first body ripens, then speech, then mind, in developmental sequence.
@@ -412,11 +412,11 @@ Practitioners track "ripening progress" through body-speech-mind. Incomplete rip
 Body-practice emphasized until "complete," then speech, then mind. Dzogchen practice deferred until preliminary "ripening" achieved. Never "ready" for main practice.
 
 **Cascade effects:**
-<temporal-error> leads to <obscuration>
+<temporal-error> → <developmental-sequencing> → <practice-deferral> → <ripening-incompletion>
 
 ---
 
-<devotionalism-error> <guru-pleasing-project
+[4018-4068] <devotionalism-error> <guru-pleasing-project
 
 **Misreading:**
 The extensive guru service instructions interpreted as establishing that guru's pleasure is the path—one must please the guru through service, offerings, and devotion to receive blessings and siddhi.
@@ -435,7 +435,7 @@ Abuse dynamics flourish. Guru's arbitrary pleasure becomes criterion. Practition
 
 ---
 
-<pedagogical-error> <introduction-instruction-hierarchy
+[4069-4075] <pedagogical-error> <introduction-instruction-hierarchy
 
 **Misreading:**
 The three "hitting manners" (guiding, introduction, complete challenge) interpreted as three levels of instruction—first guiding, then introduction, then complete challenge as progressive teaching method.
@@ -454,7 +454,7 @@ Teachers parcel out instructions progressively. Students compare "level" of inst
 
 ---
 
-<practice-error> <preliminary-actual-sequence
+[4076-4081] <practice-error> <preliminary-actual-sequence
 
 **Misreading:**
 Preliminaries (sngon 'gro) and actual practice (dngos gzhi) interpreted as strict sequence—preliminaries must be completed before actual Dzogchen practice can begin.
@@ -469,11 +469,11 @@ Dzogchen practice deferred until preliminaries completed. Recognition made conti
 Endless preliminary practice. Dzogchen instruction withheld until "ready." Practitioners burn out in ngondro without tasting recognition. Preliminaries become obstacle.
 
 **Cascade effects:**
-<practice-error> → <obscuration>
+<practice-error> → <preliminary-obsession> → <actual-deferral> → <practice-burnout>
 
 ---
 
-<ontological-error> <sin-purification
+[4082-4102] <ontological-error> <sin-purification
 
 **Misreading:**
 Preliminaries as "liberating body, speech, mind's sin accumulated over countless eons" interpreted literally—purification of actual past misdeeds creating obstacles to practice.
@@ -485,14 +485,14 @@ Preliminaries as "liberating body, speech, mind's sin accumulated over countless
 Preliminaries become guilt-driven purification of past misdeeds. Practitioners obsess over "karmic obstacles." Dzogchen approached with sense of unworthiness requiring cleansing.
 
 **Secondary consequences:**
-Morbid focus on past misdeeds. Purification practices become obsessive. Recognition approached as reward for sufficient purification excluding always-available nature.
+Morbid focus on past misdeeds. Purification practices become obsessive. Recognition approached as reward for sufficient purification rather than always-available nature.
 
 **Cascade effects:**
-<ontological-error> leads to <guilt-obsession> → <purification-compulsion> → <worthiness-anxiety>
+<ontological-error> → <guilt-obsession> → <purification-compulsion> → <worthiness-anxiety>
 
 ---
 
-<pedagogical-error> <preliminary-type-fixation
+[4103-4120] <pedagogical-error> <preliminary-type-fixation
 
 **Misreading:**
 The three types of preliminaries (three bodies' guiding, rigpa's guiding, mind's guiding) interpreted as three categories one must complete—practitioners must do all three types before proceeding.
@@ -507,11 +507,11 @@ Preliminary practice multiplies—must complete body preliminaries, then speech,
 Practitioners accumulate preliminary practices. Comparison of "which preliminaries done." Dzogchen never practiced because "not done with preliminaries yet."
 
 **Cascade effects:**
-<pedagogical-error> triggers <preliminary-multiplication> → <practice-complexification> → <actual-never-reached>
+<pedagogical-error> → <preliminary-multiplication> → <practice-complexification> → <actual-never-reached>
 
 ---
 
-<quotation-reification> <tantra-proof-texting
+[4121-4155] <quotation-reification> <tantra-proof-texting
 
 **Misreading:**
 Multiple tantra quotations interpreted as proof that these preliminaries are required—scriptural evidence establishing the necessity of these specific practices.
@@ -520,10 +520,10 @@ Multiple tantra quotations interpreted as proof that these preliminaries are req
 Multiple citations suggest building case. Tantra names (Thalgyur, Lamp Blaze) carry authority. Quotation format resembles proof-texting.
 
 **Primary consequence:**
-Preliminaries validated by scriptural authority rather than than functional necessity. Practitioners accept preliminaries as "what Buddha said" rather than than recognizing their pedagogical purpose.
+Preliminaries validated by scriptural authority rather than functional necessity. Practitioners accept preliminaries as "what Buddha said" rather than recognizing their pedagogical purpose.
 
 **Secondary consequences:**
-Canonical fundamentalism—practices done because "in tantra" rather than than because helpful. Rejection of alternative approaches not in cited texts. Dzogchen orthodoxy established.
+Canonical fundamentalism—practices done because "in tantra" rather than because helpful. Rejection of alternative approaches not in cited texts. Dzogchen orthodoxy established.
 
 **Cascade effects:**
-<quotation-reification> creates <canonical-fundamentalism> → <practice-dogmatism> → <recognition-obstruction>
+<quotation-reification> → <canonical-fundamentalism> → <practice-dogmatism> → <recognition-obstruction>

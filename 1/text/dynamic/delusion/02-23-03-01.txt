@@ -1,4 +1,4 @@
-<death-timing-determinism> <tse-dus-calculation-fatalism>
+[12522-12540] <death-timing-determinism> <tse-dus-calculation-fatalism>
 
 **Misreading:**
 The specific timeframes for death (4 months if limbs severed, 3 months if head severed, etc.) interpreted as deterministic fate that cannot be changed, creating fatalism about death timing.
@@ -11,15 +11,15 @@ Timing-fatalism: accepting calculated death as inevitable. Reversal methods aban
 
 **Secondary consequences:**
 - Giving up when signs appear
-- Overlooking that signs are warnings, not destiny
+- Missing that signs are warnings, not destiny
 - Fatalistic despair instead of practice
 
 **Cascade effects:**
-<death-timing-determinism> creates <timing-fatalism> [calculated destiny] triggers <reversal-abandonment> [giving up] triggers <warning-miss> [signs as opportunity]
+<death-timing-determinism> → <timing-fatalism> [calculated destiny] → <reversal-abandonment> [giving up] → <warning-miss> [signs as opportunity]
 
 ---
 
-<death-sign-cataloging> <rtags-enumeration-obsession>
+[12522-12540] <death-sign-cataloging> <rtags-enumeration-obsession>
 
 **Misreading:**
 The various death signs (toenail luster fading, eye color fading, etc.) interpreted as diagnostic checklist to monitor obsessively, creating hypochondriacal sign-watching.
@@ -32,15 +32,15 @@ Sign-monitoring-obsession: constant body-scanning for death indicators. Recognit
 
 **Secondary consequences:**
 - Hypochondria about death signs
-- What's missed: that signs indicate practice opportunity
+- Missing that signs indicate practice opportunity
 - Medical paranoia over natural changes
 
 **Cascade effects:**
-<death-sign-cataloging> leads to <sign-monitoring> [obsessive checking] triggers <hypochondria> [symptom obsession] triggers <practice-opportunity-miss> [signs as indicators]
+<death-sign-cataloging> → <sign-monitoring> [obsessive checking] → <hypochondria> [symptom obsession] → <practice-opportunity-miss> [signs as indicators]
 
 ---
 
-<body-part-death-association> <yan-lag-severance-fear>
+[12522-12540] <body-part-death-association> <yan-lag-severance-fear>
 
 **Misreading:**
 The association of specific body parts (limbs, head, teeth roots) with death timeframes interpreted as establishing hierarchy of body-part importance, creating anxiety about "lesser" losses.
@@ -54,14 +54,14 @@ Part-fear: terror at specific body signs. Recognition is obscured by somatic com
 **Secondary consequences:**
 - Panic at toenail changes
 - Relief at "minor" signs
-- What remains unseen is that all signs point to impermanence
+- Missing that all signs point to impermanence
 
 **Cascade effects:**
-<body-part-death-association> triggers <part-fear> [specific terror] → <hierarchy-anxiety> [major vs minor] → <impermanence-miss> [all signs equal]
+<body-part-death-association> → <part-fear> [specific terror] → <hierarchy-anxiety> [major vs minor] → <impermanence-miss> [all signs equal]
 
 ---
 
-<reversal-ritual-magic> <bzlog-pa-thabs-superstition>
+[12541-12605] <reversal-ritual-magic> <bzlog-pa-thabs-superstition>
 
 **Misreading:**
 The reversal methods (*bzlog pa'i thabs*)—accumulating merit, elemental wheels, ransom rituals—interpreted as magical interventions that mechanically avert death, creating ritual-superstition.
@@ -74,15 +74,15 @@ Ritual-magic: treating reversal as cause-effect mechanism. Recognition replaced 
 
 **Secondary consequences:**
 - "I did the ritual, why did they die?" disillusionment
-- Overlooking that reversal requires recognition
+- Missing that reversal requires recognition
 - Ritual commercialization
 
 **Cascade effects:**
-<reversal-ritual-magic> leads to <ritual-superstition> [mechanistic magic] → <disillusionment> [failed expectations] → <recognition-miss> [reversal as seeing]
+<reversal-ritual-magic> → <ritual-superstition> [mechanistic magic] → <disillusionment> [failed expectations] → <recognition-miss> [reversal as seeing]
 
 ---
 
-<element-wheel-construction-obsession> <byung-'khor-making-compulsion>
+[12541-12605] <element-wheel-construction-obsession> <byung-'khor-making-compulsion>
 
 **Misreading:**
 The instruction to construct elemental wheels (*byung 'khor*) on palm leaves interpreted as requiring precise material construction, creating craft-obsession about ritual objects.
@@ -95,15 +95,15 @@ Craft-obsession: perfectionism about ritual materials. Recognition replaced by a
 
 **Secondary consequences:**
 - "Is my wheel correct?" worry
-- The blind spot: that wheel symbolizes recognition
+- Missing that wheel symbolizes recognition
 - Artisan pride over understanding
 
 **Cascade effects:**
-<element-wheel-construction-obsession> leads to <obscuration>
+<element-wheel-construction-obsession> → <craft-obsession> [material perfection] → <artisan-pride> [making vs knowing] → <symbol-miss> [wheel as pointer]
 
 ---
 
-<ransom-effigy-attachment> <glud-gzugs-fetish>
+[12541-12605] <ransom-effigy-attachment> <glud-gzugs-fetish>
 
 **Misreading:**
 The ransom effigy (*glud gzugs*) ritual interpreted as creating actual substitute body that literally takes one's place, creating effigy-attachment.
@@ -116,7 +116,7 @@ Effigy-fetish: treating substitute as real exchange. Recognition replaced by sca
 
 **Secondary consequences:**
 - "The effigy took my death" superstition
-- The crucial omission: that effigy represents letting go
+- Missing that effigy represents letting go
 - Externalization of death
 
 **Cascade effects:**
@@ -124,7 +124,7 @@ Effigy-fetish: treating substitute as real exchange. Recognition replaced by sca
 
 ---
 
-<elemental-offering-commodification> <byung-rdzas-transaction>
+[12541-12605] <elemental-offering-commodification> <byung-rdzas-transaction>
 
 **Misreading:**
 The offerings of elemental substances (*byung rdzas*) interpreted as commercial transaction with spirits—"I give you this, you give me life"—creating spiritual materialism.
@@ -137,7 +137,7 @@ Offering-transaction: treating rituals as purchases. Recognition replaced by spi
 
 **Secondary consequences:**
 - "How much offering is enough?" anxiety
-- Not seeing that offering is recognition-expression
+- Missing that offering is recognition-expression
 - Cost-benefit analysis of rituals
 
 **Cascade effects:**
@@ -145,7 +145,7 @@ Offering-transaction: treating rituals as purchases. Recognition replaced by spi
 
 ---
 
-<yogic-age-calculation> <rnal-'byor-lo-grangs-obsession>
+[12606-12663] <yogic-age-calculation> <rnal-'byor-lo-grangs-obsession>
 
 **Misreading:**
 The instruction to rotate the effigy "yogic years" (*rnal 'byor lo grangs*) interpreted as requiring precise numerical calculation, creating computational obsession.
@@ -162,11 +162,11 @@ Rotation-calculation: mathematical precision over recognition. Ritual replaced b
 - Missing that rotation symbolizes release
 
 **Cascade effects:**
-<yogic-age-calculation> produces <ground-ignored>
+<yogic-age-calculation> → <rotation-calculation> [counting obsession] → <enough-doubt> [quantity anxiety] → <release-symbol-miss> [rotation as pointer]
 
 ---
 
-<mantra-recitation-quantification> <lan-gsum-bzlas-grangs-fixation>
+[12606-12663] <mantra-recitation-quantification> <lan-gsum-bzlas-grangs-fixation>
 
 **Misreading:**
 "Recite three times" (*lan gsum*) interpreted as establishing minimum numerical requirement, creating mantra-counting obsession.
@@ -183,11 +183,11 @@ Mantra-quantification: counting over meaning. Recognition replaced by numerical 
 - Speed-recitation to meet quota
 
 **Cascade effects:**
-<mantra-recitation-quantification> generates <mantra-counting> [numerical obsession] → <checkbox-mentality> [completion focus] → <expression-miss> [recitation as pointer]
+<mantra-recitation-quantification> → <mantra-counting> [numerical obsession] → <checkbox-mentality> [completion focus] → <expression-miss> [recitation as pointer]
 
 ---
 
-<element-dissolution-symptom-checking> <byung-thim-rtags-monitoring>
+[12664-12688] <element-dissolution-symptom-checking> <byung-thim-rtags-monitoring>
 
 **Misreading:**
 The signs of element dissolution (body heavy, saliva flowing then drying, heat leaving from extremities, breath stacked) interpreted as medical symptoms to monitor, creating death-bed somatic obsession.
@@ -204,11 +204,11 @@ Symptom-obsession: monitoring every bodily change. Recognition replaced by somat
 - Medical anxiety over natural process
 
 **Cascade effects:**
-<element-dissolution-symptom-checking> triggers <symptom-obsession> [body monitoring] → <element-checking> [tracking components] → <recognition-opportunity-miss> [dissolution as display]
+<element-dissolution-symptom-checking> → <symptom-obsession> [body monitoring] → <element-checking> [tracking components] → <recognition-opportunity-miss> [dissolution as display]
 
 ---
 
-<salivation-flow-panic> <kha-snu-chu-'dzag-anxiety>
+[12664-12688] <salivation-flow-panic> <kha-snu-chu-'dzag-anxiety>
 
 **Misreading:**
 "Saliva flows from mouth and nose then dries" (*kha snu'i chu 'dzag*) interpreted as alarming fluid loss requiring intervention, creating panic about oral moisture.
@@ -225,11 +225,11 @@ Moisture-panic: terror at drying. Recognition blocked by hydration-anxiety.
 - Missing that drying is water-dissolution
 
 **Cascade effects:**
-<salivation-flow-panic> triggers <moisture-panic> [fluid loss fear] → <forced-hydration> [intervention] → <water-dissolution-miss> [drying as natural]
+<salivation-flow-panic> → <moisture-panic> [fluid loss fear] → <forced-hydration> [intervention] → <water-dissolution-miss> [drying as natural]
 
 ---
 
-<breath-stacking-terror> <dbugs-brtsegs-ma-panic>
+[12664-12688] <breath-stacking-terror> <dbugs-brtsegs-ma-panic>
 
 **Misreading:**
 "Breath does not come in stacks" (*dbugs brtsegs ma 'byung*) interpreted as respiratory failure requiring medical intervention, creating panic about breathing pattern.
@@ -246,11 +246,11 @@ Breath-pattern-terror: panic at irregular respiration. Recognition blocked by re
 - Missing that breath-change is element
 
 **Cascade effects:**
-<breath-stacking-terror> produces <recognition-blocked>
+<breath-stacking-terror> → <breath-pattern-panic> [irregularity fear] → <respiratory-intervention> [forcing breath] → <wind-dissolution-miss> [breath-change as natural]
 
 ---
 
-<phowa-force-transference> <pho-ba-aggressive>
+[12689-12709] <phowa-force-transference> <pho-ba-aggressive>
 
 **Misreading:**
 The phowa (*'pho ba*) instruction to eject consciousness interpreted as forceful projection requiring muscular effort, creating aggressive ejection attempt.
@@ -267,11 +267,11 @@ Forceful-phowa: aggressive consciousness-projection. Natural transference replac
 - Missing that phowa is recognition, not force
 
 **Cascade effects:**
-<phowa-force-transference> → <awareness-overlooked>
+<phowa-force-transference> → <forceful-phowa> [aggressive projection] → <physical-straining> [muscular effort] → <recognition-phowa-miss> [force vs nature]
 
 ---
 
-<lion-posture-rigidity> <seng-ge-nyal-lugs-fixation>
+[12689-12709] <lion-posture-rigidity> <seng-ge-nyal-lugs-fixation>
 
 **Misreading:**
 The lion posture (*seng ge'i nyal lugs*) interpreted as requiring precise physical position, creating posture-obsession about body arrangement.
@@ -288,11 +288,11 @@ Posture-rigidity: forcing body into position. Recognition replaced by anatomical
 - Missing that posture supports recognition
 
 **Cascade effects:**
-<lion-posture-rigidity> triggers <posture-obsession> [position fixation] → <anatomical-anxiety> [correct form] → <support-miss> [posture as aid]
+<lion-posture-rigidity> → <posture-obsession> [position fixation] → <anatomical-anxiety> [correct form] → <support-miss> [posture as aid]
 
 ---
 
-<instant-liberation-achievement> <skad-cig-grol-ba-goal>
+[12689-12709] <instant-liberation-achievement> <skad-cig-grol-ba-goal>
 
 **Misreading:**
 "Liberated in an instant" (*skad cig yur gyi zang thal du grol*) interpreted as result to achieve through correct phowa, creating achievement-anxiety about immediate success.
@@ -309,11 +309,11 @@ Instant-achievement: seeking rapid result. Natural liberation obscured by speed-
 - Performance anxiety about "success"
 
 **Cascade effects:**
-<instant-liberation-achievement> leads to <instant-achievement> [speed goal] → <performance-anxiety> [success pressure] → <natural-liberation-miss> [instant as nature]
+<instant-liberation-achievement> → <instant-achievement> [speed goal] → <performance-anxiety> [success pressure] → <natural-liberation-miss> [instant as nature]
 
 ---
 
-<solitary-death-elitism> <gcig-pur-chi-ba-preference>
+[12710-12718] <solitary-death-elitism> <gcig-pur-chi-ba-preference>
 
 **Misreading:**
 The praise for dying alone (*gcig pur 'chi ba*) interpreted as establishing solitary death as superior to supported death, creating isolation-elitism.
@@ -330,11 +330,11 @@ Isolation-elitism: rejecting support at death. Recognition replaced by solitary-
 - Missing that support can aid recognition
 
 **Cascade effects:**
-<solitary-death-elitism> creates <isolation-elitism> [rejecting support] → <solitary-pride> [alone is better] → <support-value-miss> [context sensitivity]
+<solitary-death-elitism> → <isolation-elitism> [rejecting support] → <solitary-pride> [alone is better] → <support-value-miss> [context sensitivity]
 
 ---
 
-<hi-kara-force-projection> <hig-gi-sgra-aggressive>
+[12718-12736] <hi-kara-force-projection> <hig-gi-sgra-aggressive>
 
 **Misreading:**
 The HIK (*hig*) sound instruction for consciousness projection interpreted as requiring loud forceful vocalization, creating aggressive sound-projection.
@@ -355,7 +355,7 @@ Sound-aggression: forceful HIK projection. Natural ejection replaced by vocal vi
 
 ---
 
-<guru-visualization-dependence> <blama-sku-rten-externalization>
+[12718-12736] <guru-visualization-dependence> <blama-sku-rten-externalization>
 
 **Misreading:**
 Visualizing guru's form (*blama'i sku tsom*) at the crown interpreted as requiring external guru to appear and pull consciousness up, creating dependence on visionary rescue.
@@ -372,11 +372,11 @@ Guru-rescue-dependence: waiting for external savior. Self-recognition deferred t
 - External validation seeking
 
 **Cascade effects:**
-<guru-visualization-dependence> produces <nature-missed>
+<guru-visualization-dependence> → <guru-rescue-dependence> [external savior] → <visionary-anxiety> [where is guru?] → <self-recognition-miss> [guru as self-display]
 
 ---
 
-<space-rigpa-separation> <dbyings-rig-gnyis-su-med-du-rtog-pa>
+[12737-12754] <space-rigpa-separation> <dbyings-rig-gnyis-su-med-du-rtog-pa>
 
 **Misreading:**
 The instruction on space and rigpa (*dbyings rig*) interpreted as establishing two things to unite, creating dualistic meditation on merging space and awareness.
@@ -393,11 +393,11 @@ Space-rigpa-dualism: treating space and awareness as separate. Non-duality repla
 - Effort to create non-duality
 
 **Cascade effects:**
-<space-rigpa-separation> produces <rigpa-unseen>
+<space-rigpa-separation> → <space-rigpa-dualism> [two to merge] → <unification-project> [effort to join] → <never-separate-miss> [already non-dual]
 
 ---
 
-<introduction-instruction-dependence> <ngo-sprod-gdams-ngag-reliance>
+[12737-12754] <introduction-instruction-dependence> <ngo-sprod-gdams-ngag-reliance>
 
 **Misreading:**
 The pith instruction for introduction (*ngo sprod kyi gdams ngag*) interpreted as external teaching required for recognition, creating instruction-dependence.
@@ -414,11 +414,11 @@ Instruction-dependence: waiting for external introduction. Natural recognition d
 - Teacher-dependence over self-seeing
 
 **Cascade effects:**
-<introduction-instruction-dependence> produces <instruction-dependence> [external teaching] → <pointing-anxiety> [waiting for introduction] → <immediate-recognition-miss> [natural seeing]
+<introduction-instruction-dependence> → <instruction-dependence> [external teaching] → <pointing-anxiety> [waiting for introduction] → <immediate-recognition-miss> [natural seeing]
 
 ---
 
-<recognition-repetition-compulsion> <ngo-shes-lan-gsum-obsession>
+[12742-12754] <recognition-repetition-compulsion> <ngo-shes-lan-gsum-obsession>
 
 **Misreading:**
 "Say three times 'you recognize, you are liberated'" (*ngo shes...lan gsum*) interpreted as magical formula requiring exact repetition, creating verbal-obsession.
@@ -435,7 +435,7 @@ Verbal-compulsion: mechanical repetition. Recognition replaced by incantation.
 - Missing that words point to recognition
 
 **Cascade effects:**
-<recognition-repetition-compulsion> generates <recognition-blocked>
+<recognition-repetition-compulsion> → <verbal-compulsion> [mechanical repetition] → <enough-doubt> [counting anxiety] → <pointer-miss> [words as signs]
 
 ---
 

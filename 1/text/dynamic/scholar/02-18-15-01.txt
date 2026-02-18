@@ -1,4 +1,4 @@
-<structural-mapping>
+[5646-5718] <structure>
 Thogal Body Postures: Key Points of Continuous Gazing and Resting Wisdom
 **Architectural Analysis:** This passage presents the specific body postures (*bzhugs stangs*) and key points (*gnad*) for Thogal practice. The structure is divided into three major sections:
 
@@ -15,7 +15,7 @@ Each posture section follows the pattern:
 - Inner experience (wisdom generation)
 - Outer appearance (pure vision)
 
-<linguistic-analysis>
+[5646-5718] <philology>
 **Technical Terminology:**
 
 *'Cha' ba rgyun* (འཆའ་བ་རྒྱུན་) - Continuous gazing: from 'cha' ba (to stare/gaze) + rgyun (continuity). The sustained visual engagement with clear light appearances.
@@ -48,7 +48,7 @@ Each posture section follows the pattern:
 *Dgyes* (དགྱེས་) - Lifted/slightly raised: chin position
 *Bskyur* (བསྐྱུར་) - Supported: chin resting
 
-<context>
+[5646-5718] <context>
 **Thogal Practice Framework:**
 
 This passage belongs to the practical instruction (*man ngag*) section of Thogal (*thod rgal*). In the Nyingma tradition, Thogal practice requires:
@@ -95,7 +95,7 @@ The postures work with:
 **Gender Adaptations:**
 While these postures are generally described for male practitioners, the principles apply to all genders with appropriate modifications.
 
-<concept>
+[5646-5718] <concept>
 **Body Posture as Wisdom Technology**
 
 **The Principle:**
@@ -216,7 +216,7 @@ Practitioners cycle through:
 
 This creates a comprehensive physical support for the non-physical recognition at the heart of Thogal practice.
 
-<structure>
+[5719-5752] <structure>
 Gaze Directions and Non-Moving States
 **Architectural Analysis:** This section presents the specific gaze directions for each of the three kāyas and the three non-moving states:
 
@@ -233,7 +233,7 @@ Gaze Directions and Non-Moving States
 **Structural Pattern:**
 Each non-moving state follows: (1) physical configuration, (2) effect on karmic winds, (3) result in wisdom manifestation.
 
-<philology>
+[5719-5752] <philology>
 **Technical Terminology:**
 
 *Gzig stangs* (གཟིགས་སྟངས་) - Gaze mode/manner of looking: specific eye positions for different practices.
@@ -258,7 +258,7 @@ Each non-moving state follows: (1) physical configuration, (2) effect on karmic 
 
 *Lu gu rgyud* (ལུ་གུ་རྒྱུད་) - Chain/rope: metaphor for continuous samsaric existence.
 
-<context>
+[5719-5752] <context>
 **Tantric Physiology of Gaze:**
 
 In Tibetan Buddhism, eye position is not arbitrary but affects consciousness directly:

@@ -1,4 +1,4 @@
-<element-dissolution-materialization> <byung-lnga-thim-pa-literalization>
+[13304-13308] <element-dissolution-materialization> <byung-lnga-thim-pa-literalization>
 
 **Misreading:**
 The five elements dissolving (*'byung lnga thim pa*) interpreted as actual physical elements literally leaving the body, creating materialistic understanding of death process.
@@ -11,15 +11,15 @@ Physical-death-obsession: monitoring body for signs of elemental departure. Reco
 
 **Secondary consequences:**
 - "Is my earth element gone yet?" monitoring
-- Not seeing that dissolution is recognition opportunity
+- Missing that dissolution is recognition opportunity
 - Medicalization of death process
 
 **Cascade effects:**
-<element-dissolution-materialization> produces <physical-death-obsession> [somatic monitoring] leads to <element-monitoring> [tracking components] produces <recognition-miss> [dissolution as display]
+<element-dissolution-materialization> → <physical-death-obsession> [somatic monitoring] → <element-monitoring> [tracking components] → <recognition-miss> [dissolution as display]
 
 ---
 
-<body-strength-loss-terror> <lus-kyi-stobs-shor-panic>
+[13304-13308] <body-strength-loss-terror> <lus-kyi-stobs-shor-panic>
 
 **Misreading:**
 "Body strength is lost" (*lus kyi stobs shor*) interpreted as terrifying physical failure to fight against, creating panic about bodily collapse.
@@ -32,15 +32,15 @@ Strength-loss-panic: terror at bodily collapse. Recognition is blocked by somati
 
 **Secondary consequences:**
 - Fighting to "hold on" to strength
-- What's missed: that weakness is natural process
+- Missing that weakness is natural process
 - Medical intervention to prevent dissolution
 
 **Cascade effects:**
-<body-strength-loss-terror> triggers <strength-loss-panic> [fighting collapse] triggers <holding-on> [resisting process] produces <natural-process-miss> [weakness as display]
+<body-strength-loss-terror> → <strength-loss-panic> [fighting collapse] → <holding-on> [resisting process] → <natural-process-miss> [weakness as display]
 
 ---
 
-<memory-loss-anxiety> <dran-pa-nyams-obsession>
+[13304-13308] <memory-loss-anxiety> <dran-pa-nyams-obsession>
 
 **Misreading:**
 "Memory declines" (*dran pa nyams*) interpreted as Alzheimer's/dementia to fear, creating anxiety about cognitive dissolution.
@@ -54,14 +54,14 @@ Memory-anxiety: panic about forgetting. Recognition is obscured by cognitive-pre
 **Secondary consequences:**
 - Clinging to mental clarity
 - Fear of "losing one's mind"
-- What's missed: that memory-fade is natural
+- Missing that memory-fade is natural
 
 **Cascade effects:**
-<memory-loss-anxiety> leads to <cognitive-panic> [faculty fear] creates <mental-clinging> [preserving cognition] → <natural-fade-miss> [memory as display]
+<memory-loss-anxiety> → <cognitive-panic> [faculty fear] → <mental-clinging> [preserving cognition] → <natural-fade-miss> [memory as display]
 
 ---
 
-<salivation-obsession> <kha-sna-chu-drying-fixation>
+[13305-13308] <salivation-obsession> <kha-sna-chu-drying-fixation>
 
 **Misreading:**
 The sign of water dissolving—saliva drying, nose/mouth drying (*kha sna skam*)—interpreted as medical symptom requiring intervention, creating fixation on oral moisture.
@@ -74,15 +74,15 @@ Moisture-obsession: seeking water at death. Recognition is replaced by thirst-an
 
 **Secondary consequences:**
 - Forcing fluids at death
-- What remains unseen is that drying is water-element dissolution
+- Missing that drying is water-element dissolution
 - Medical concern over natural process
 
 **Cascade effects:**
-<salivation-obsession> leads to <awareness-overlooked>
+<salivation-obsession> → <moisture-obsession> [seeking water] → <forced-hydration> [intervention] → <dissolution-miss> [drying as element]
 
 ---
 
-<eyes-rolling-terror> <mig-gyen-du-ldog-fear>
+[13306-13308] <eyes-rolling-terror> <mig-gyen-du-ldog-fear>
 
 **Misreading:**
 "Eyes roll upward" (*mig gyen du ldog*) interpreted as frightening loss of control, creating terror about eye movement.
@@ -96,14 +96,14 @@ Eye-movement-terror: panic at physical sign. Recognition is blocked by somatic a
 **Secondary consequences:**
 - Trying to control eye position
 - Fear of "looking" wrong
-- The blind spot: that eye-rolling is dissolution sign
+- Missing that eye-rolling is dissolution sign
 
 **Cascade effects:**
-<eyes-rolling-terror> creates <eye-movement-panic> [loss of control] → <position-control> [forcing eyes] → <dissolution-sign-miss> [rolling as natural]
+<eyes-rolling-terror> → <eye-movement-panic> [loss of control] → <position-control> [forcing eyes] → <dissolution-sign-miss> [rolling as natural]
 
 ---
 
-<heat-loss-terror> <lus-kyi-drod-shor-anxiety>
+[13307-13308] <heat-loss-terror> <lus-kyi-drod-shor-anxiety>
 
 **Misreading:**
 "Body heat is lost" (*lus kyi drod 'chor*) interpreted as hypothermia/danger to fight against, creating panic about coldness.
@@ -117,14 +117,14 @@ Cold-panic: terror at heat loss. Recognition is blocked by thermoregulation anxi
 **Secondary consequences:**
 - Seeking warmth at death
 - Fighting natural cooling
-- Failing to recognize that cold is fire-dissolution
+- Missing that cold is fire-dissolution
 
 **Cascade effects:**
-<heat-loss-terror> produces <cold-panic> [hypothermia fear] → <warmth-seeking> [fighting cold] → <fire-dissolution-miss> [cold as element]
+<heat-loss-terror> → <cold-panic> [hypothermia fear] → <warmth-seeking> [fighting cold] → <fire-dissolution-miss> [cold as element]
 
 ---
 
-<lamp-extinction-terror> <sgron-ma-mi-snang-panic>
+[13307-13308] <lamp-extinction-terror> <sgron-ma-mi-snang-panic>
 
 **Misreading:**
 "The lamp is not visible" (*sgron ma mi snang*) interpreted as terrifying blindness/darkness to fear, creating panic about loss of light.
@@ -138,14 +138,14 @@ Darkness-terror: panic at light-extinction. Recognition is blocked by visual-los
 **Secondary consequences:**
 - Fear of "going dark"
 - Clinging to visual experience
-- Not seeing that darkness is dissolution sign
+- Missing that darkness is dissolution sign
 
 **Cascade effects:**
-<lamp-extinction-terror> generates <darkness-panic> [blindness fear] → <light-clinging> [holding vision] → <extinction-sign-miss> [darkness as natural]
+<lamp-extinction-terror> → <darkness-panic> [blindness fear] → <light-clinging> [holding vision] → <extinction-sign-miss> [darkness as natural]
 
 ---
 
-<breath-stop-terror> <dbugs-chad-panic>
+[13308-13308] <breath-stop-terror> <dbugs-chad-panic>
 
 **Misreading:**
 "Breath stops" (*dbugs chad*) interpreted as suffocation/emergency to fight against, creating panic about respiratory arrest.
@@ -162,11 +162,11 @@ Breath-panic: terror at respiratory cessation. Recognition is blocked by asphyxi
 - Missing that breath-stop is wind-dissolution
 
 **Cascade effects:**
-<breath-stop-terror> triggers <breath-panic> [suffocation fear] → <respiratory-fight> [forcing breath] → <wind-dissolution-miss> [cessation as element]
+<breath-stop-terror> → <breath-panic> [suffocation fear] → <respiratory-fight> [forcing breath] → <wind-dissolution-miss> [cessation as element]
 
 ---
 
-<space-dissolution-void-fear> <nam-mkha-thim-pa-terror>
+[13309-13317] <space-dissolution-void-fear> <nam-mkha-thim-pa-terror>
 
 **Misreading:**
 Space dissolving (*nam mkha thim pa*) interpreted as terrifying void/annihilation to fear, creating existential panic about "becoming nothing."
@@ -183,14 +183,14 @@ Void-panic: terror at space-dissolution. Recognition is blocked by annihilation 
 - Missing that space-dissolution is dharmata
 
 **Cascade effects:**
-<space-dissolution-void-fear> → <awareness-overlooked>
+<space-dissolution-void-fear> → <void-panic> [annihilation terror] → <existential-clinging> [holding on] → <dharmata-miss> [void as nature]
 
 ---
 
-<internal-external-dualism> <phyi-nang-dissolution-separation>
+[13309-13317] <internal-external-dualism> <phyi-nang-dissolution-separation>
 
 **Misreading:**
-The distinction between external elements dissolving into internal elements, then internal into secret (*gsang 'byung*) interpreted as three separate processes instead of layers of a single dissolution.
+The distinction between external elements dissolving into internal elements, then internal into secret (*gsang 'byung*) interpreted as three separate processes rather than layers of a single dissolution.
 
 **Why it arises:**
 "External/Internal/Secret" suggests categories. Layered thinking: "First this, then that."
@@ -204,11 +204,11 @@ Dissolution-compartmentalization: treating layers as separate phases. Missing th
 - Missing that all three are simultaneous aspects
 
 **Cascade effects:**
-<internal-external-dualism> generates <awareness-overlooked>
+<internal-external-dualism> → <dissolution-compartmentalization> [separate phases] → <level-anxiety> [which stage?] → <single-process-miss> [layers as one]
 
 ---
 
-<life-wind-grasping> <srog-rlung-attachment>
+[13318-13336] <life-wind-grasping> <srog-rlung-attachment>
 
 **Misreading:**
 The life-holding wind (*srog rlung*) dissolving interpreted as actual life-force leaving that must be held onto, creating panic about "losing one's life."
@@ -229,7 +229,7 @@ Life-force-panic: terror at life-wind departure. Recognition is blocked by survi
 
 ---
 
-<bindu-house-fetish> <thig-le-od-kyi-khang-pa-attachment>
+[13318-13336] <bindu-house-fetish> <thig-le-od-kyi-khang-pa-attachment>
 
 **Misreading:**
 "Awareness with the house of light" (*rig pa 'od kyi khang pa can*) interpreted as precious vessel to preserve, creating attachment to light-body.
@@ -246,11 +246,11 @@ Light-house-attachment: clinging to bindu-structure. Recognition is obscured by 
 - Missing that house is display, not dwelling
 
 **Cascade effects:**
-<bindu-house-fetish> creates <light-house-attachment> [clinging to structure] → <house-preservation> [maintaining vessel] → <display-miss> [house as nature]
+<bindu-house-fetish> → <light-house-attachment> [clinging to structure] → <house-preservation> [maintaining vessel] → <display-miss> [house as nature]
 
 ---
 
-<ka-dag-arrival-achievement> <ka-dag-rang-sa-zin-pa-goal>
+[13325-13336] <ka-dag-arrival-achievement> <ka-dag-rang-sa-zin-pa-goal>
 
 **Misreading:**
 "Arriving at ka-dag, one's own ground" (*ka dag rang sa zin pa*) interpreted as achieving final destination through dissolution, creating goal-oriented death practice.
@@ -267,11 +267,11 @@ Arrival-achievement: treating ka-dag as destination reached. Missing that ka-dag
 - Missing that ka-dag is immediate
 
 **Cascade effects:**
-<ka-dag-arrival-achievement> produces <arrival-achievement> [destination reached] → <future-orientation> [when I arrive] → <immediate-miss> [ka-dag ever-present]
+<ka-dag-arrival-achievement> → <arrival-achievement> [destination reached] → <future-orientation> [when I arrive] → <immediate-miss> [ka-dag ever-present]
 
 ---
 
-<bardo-place-reification> <bar-do-as-location>
+[13337-13343] <bardo-place-reification> <bar-do-as-location>
 
 **Misreading:**
 The bardo (*bar do*) described as intermediate state interpreted as actual location/place one enters, creating spatial confusion about "where" bardo is.
@@ -288,11 +288,11 @@ Bardo-geography: treating bardo as place. Recognition is replaced by location-an
 - Missing that bardo is nature of mind
 
 **Cascade effects:**
-<bardo-place-reification> creates <bardo-geography> [location confusion] → <duration-anxiety> [how long?] → <nature-of-mind-miss> [bardo as display]
+<bardo-place-reification> → <bardo-geography> [location confusion] → <duration-anxiety> [how long?] → <nature-of-mind-miss> [bardo as display]
 
 ---
 
-<twenty-five-winds-cataloging> <rlung-nyi-shu-nga-enumeration>
+[13344-13436] <twenty-five-winds-cataloging> <rlung-nyi-shu-nga-enumeration>
 
 **Misreading:**
 The 25 winds (*rlung nyi shu nga*) dissolving interpreted as list to memorize and track, creating cataloging obsession about wind-names.
@@ -301,7 +301,7 @@ The 25 winds (*rlung nyi shu nga*) dissolving interpreted as list to memorize an
 "Twenty-five" suggests enumeration. Names imply categories. Academic habit: catalog the winds.
 
 **Primary consequence:**
-Wind-cataloging: reciting names rather than than recognizing. Recognition is replaced by memorization.
+Wind-cataloging: reciting names rather than recognizing. Recognition is replaced by memorization.
 
 **Secondary consequences:**
 - "Which wind is dissolving now?" quiz
@@ -309,11 +309,11 @@ Wind-cataloging: reciting names rather than than recognizing. Recognition is rep
 - Name-recitation over recognition
 
 **Cascade effects:**
-<twenty-five-winds-cataloging> produces <obscuration>
+<twenty-five-winds-cataloging> → <wind-cataloging> [name memorization] → <which-wind-quiz> [identification obsession] → <single-rigpa-miss> [winds as one]
 
 ---
 
-<wisdom-light-chasing> <ye-shes-snam-bu-attachment>
+[13437-13493] <wisdom-light-chasing> <ye-shes-snam-bu-attachment>
 
 **Misreading:**
 The five wisdom lights appearing (*ye shes snam bu*) interpreted as phenomena to chase/stabilize, creating fixation on colored lights.
@@ -330,11 +330,11 @@ Light-chasing: seeking and stabilizing colored appearances. Recognition is obscu
 - Missing that lights are self-display
 
 **Cascade effects:**
-<wisdom-light-chasing> creates <light-chasing> [seeking visions] → <color-preference> [discrimination] → <self-display-miss> [lights as nature]
+<wisdom-light-chasing> → <light-chasing> [seeking visions] → <color-preference> [discrimination] → <self-display-miss> [lights as nature]
 
 ---
 
-<five-color-discrimination> <kha-dog-lnga-preference>
+[13437-13493] <five-color-discrimination> <kha-dog-lnga-preference>
 
 **Misreading:**
 The five colors (white, yellow, red, green, blue) interpreted as establishing preference hierarchy, creating color-ranking obsession.
@@ -351,11 +351,11 @@ Color-hierarchy: ranking wisdom lights. Recognition is blocked by preferential t
 - Missing that all five are single display
 
 **Cascade effects:**
-<five-color-discrimination> generates <color-hierarchy> [ranking lights] → <preferential-thinking> [better/worse] → <single-display-miss> [five as one]
+<five-color-discrimination> → <color-hierarchy> [ranking lights] → <preferential-thinking> [better/worse] → <single-display-miss> [five as one]
 
 ---
 
-<thogal-moment-achievement> <skad-cig-sum-completion>
+[13493-13534] <thogal-moment-achievement> <skad-cig-sum-completion>
 
 **Misreading:**
 The "three instants" (*skad cig gsum*) of recognition, liberation, and dissolution into ka-dag interpreted as timeline to complete, creating moment-counting anxiety.
@@ -376,7 +376,7 @@ Instant-counting: tracking progression through three moments. Recognition is rep
 
 ---
 
-<rainbow-body-materialism> <od-kyi-lus-physicalization>
+[13534-13577] <rainbow-body-materialism> <od-kyi-lus-physicalization>
 
 **Misreading:**
 The "light body" (*'od kyi lus*) appearing interpreted as physical transformation to achieve, creating body-obsession about dissolution.
@@ -393,11 +393,11 @@ Body-materialization: looking for physical light-form. Recognition is obscured b
 - Physical-sign fixation
 
 **Cascade effects:**
-<rainbow-body-materialism> triggers <body-materialization> [physical transformation] → <dissolution-obsession> [monitoring body] → <display-miss> [light-body as nature]
+<rainbow-body-materialism> → <body-materialization> [physical transformation] → <dissolution-obsession> [monitoring body] → <display-miss> [light-body as nature]
 
 ---
 
-<union-vision-romanticism> <zung-jug-idealization>
+[13577-13613] <union-vision-romanticism> <zung-jug-idealization>
 
 **Misreading:**
 The union vision (*zung 'jug tshom bu*) interpreted as romantic/spiritual union to achieve, creating relationship-idealism about wisdom meeting space.
@@ -414,11 +414,11 @@ Union-romanticism: seeking mystical union experience. Recognition is replaced by
 - Missing that union is non-dual nature
 
 **Cascade effects:**
-<union-vision-romanticism> produces <union-romanticism> [relationship fantasy] → <union-seeking> [experience chasing] → <non-dual-miss> [union as nature]
+<union-vision-romanticism> → <union-romanticism> [relationship fantasy] → <union-seeking> [experience chasing] → <non-dual-miss> [union as nature]
 
 ---
 
-<five-family-mandala-fetish> <rigs-lnga-dkyil-khor-obsession>
+[13614-13693] <five-family-mandala-fetish> <rigs-lnga-dkyil-khor-obsession>
 
 **Misreading:**
 The five family mandalas (*rigs lnga dkyil 'khor*) appearing interpreted as elaborate visionary achievement to stabilize, creating mandala-obsession.
@@ -435,11 +435,11 @@ Mandala-obsession: seeking and stabilizing elaborate visions. Recognition is obs
 - Complex-vision addiction
 
 **Cascade effects:**
-<five-family-mandala-fetish> triggers <mandala-obsession> [vision complexity] → <elaboration-preference> [rich detail] → <simple-display-miss> [mandala as nature]
+<five-family-mandala-fetish> → <mandala-obsession> [vision complexity] → <elaboration-preference> [rich detail] → <simple-display-miss> [mandala as nature]
 
 ---
 
-<deity-appearance-dependence> <lha-snang-externalization>
+[13614-13693] <deity-appearance-dependence> <lha-snang-externalization>
 
 **Misreading:**
 The deities appearing (*lha snang*) interpreted as external saviors to rely on, creating dependence on visionary validation.
@@ -456,11 +456,11 @@ Deity-dependence: waiting for external rescue. Self-recognition is deferred to v
 - Rescue-fantasy over recognition
 
 **Cascade effects:**
-<deity-appearance-dependence> triggers <deity-dependence> [external saviors] → <rescue-waiting> [validation seeking] → <self-display-miss> [deities as nature]
+<deity-appearance-dependence> → <deity-dependence> [external saviors] → <rescue-waiting> [validation seeking] → <self-display-miss> [deities as nature]
 
 ---
 
-<light-ray-connection-attachment> <od-zer-thig-attachment>
+[13684-13693] <light-ray-connection-attachment> <od-zer-thig-attachment>
 
 **Misreading:**
 The light-rays connecting heart to heart (*snying ga'i zer thig*) interpreted as actual energetic cords to maintain, creating attachment to light-connections.
@@ -477,11 +477,11 @@ Ray-attachment: clinging to light-connections. Recognition is obscured by connec
 - Missing that rays are natural display
 
 **Cascade effects:**
-<light-ray-connection-attachment> produces <ray-attachment> [clinging to connection] → <connection-preservation> [maintaining bond] → <natural-display-miss> [rays as nature]
+<light-ray-connection-attachment> → <ray-attachment> [clinging to connection] → <connection-preservation> [maintaining bond] → <natural-display-miss> [rays as nature]
 
 ---
 
-<non-conceptual-samadhi-achievement> <mi-rtog-bsam-gtan-goal>
+[13693-13694] <non-conceptual-samadhi-achievement> <mi-rtog-bsam-gtan-goal>
 
 **Misreading:**
 "Resting naturally in non-conceptual samadhi" (*mi rtog pa'i bsam gtan la rang bzhin gyis gnas pa*) interpreted as advanced meditative state to achieve, creating samadhi-chasing.
@@ -498,7 +498,7 @@ Samadhi-chasing: seeking non-conceptual state. Natural rest is replaced by effor
 - Missing that natural rest IS samadhi
 
 **Cascade effects:**
-<non-conceptual-samadhi-achievement> generates <samadhi-chasing> [state seeking] → <non-conceptual-forcing> [trying to be] → <natural-rest-miss> [rest as samadhi]
+<non-conceptual-samadhi-achievement> → <samadhi-chasing> [state seeking] → <non-conceptual-forcing> [trying to be] → <natural-rest-miss> [rest as samadhi]
 
 ---
 

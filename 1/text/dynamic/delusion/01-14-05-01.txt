@@ -1,4 +1,4 @@
-<moon-phase-literalization> <zla-ba-gnas-skabs-goal>
+[18610-18612] <moon-phase-literalization> <zla-ba-gnas-skabs-goal>
 **Misreading:**
 Lines 18643-18652 compare wisdom's increase to "the waxing moon" from new to full. The reader literalizes this as practice phases.
 
@@ -14,7 +14,7 @@ Practitioners evaluate themselves by "moon phase."
 **Cascade effects:**
 Triggers <phase fixation> where lunar stages map to practice and [CALENDAR ERROR] where days are counted.
 
-<sign-fixation> <rtags-mtshan-indicator-obsession>
+[18613-18627] <sign-fixation> <rtags-mtshan-indicator-obsession>
 **Misreading:**
 Lines 18653-18660 describe "signs" and "marks" of wisdom. The reader treats these as reliable indicators.
 
@@ -30,7 +30,7 @@ Practitioners become obsessed with sign-watching.
 **Cascade effects:**
 Triggers <sign fixation> where indicators are watched and [PRODUCTION ERROR] where signs are manufactured.
 
-<completion-goal> <rdzogs-pa-achievement>
+[18628-18642] <completion-goal> <rdzogs-pa-achievement>
 **Misreading:**
 Lines 18643-18652 mention "full moon complete" as goal. The reader understands this as final attainment.
 
@@ -48,7 +48,7 @@ Triggers <goal error> where completion is pursued and [DISSATISFACTION] where cu
 
 Page 438 completes the wisdom section with progress markers. The developmental framework continues themes from previous pages.
 
-<buddha-nature-reification> <sangs-rgyas-snying-po-essence>
+[18643-18650] <buddha-nature-reification> <sangs-rgyas-snying-po-essence>
 **Misreading:**
 Lines 18661-18685 extensively quote tathagatagarbha scriptures stating "all sentient beings possess Buddha-nature" and "all sentient beings are Buddhas." The reader reifies Buddha-nature as an actual entity or essence within beings.
 
@@ -64,7 +64,7 @@ Practitioners search for "inner Buddha" or assume they are "already perfect."
 **Cascade effects:**
 Triggers <treasure hunting error> → <ETERNALISM ERROR>.
 
-<obscuration-removal> <sgrib-pa-cleaning>
+[18651-18659] <obscuration-removal> <sgrib-pa-cleaning>
 **Misreading:**
 Lines 18686-18705 describe Buddha-nature as "covered by bodily obscurations" like sun covered by clouds. The reader sees this as real veils needing removal.
 
@@ -80,7 +80,7 @@ Practitioners try to "remove veils" through practice.
 **Cascade effects:**
 Triggers <purification error> → <LAYERS ERROR>.
 
-<scriptural-fundamentalism> <mdo-lung-dogma>
+[18660-18668] <scriptural-fundamentalism> <mdo-lung-dogma>
 **Misreading:**
 Lines 18661-18685 quote Tathagatagarbha Sutra extensively. The citations are treated as authoritative proofs.
 
@@ -96,7 +96,7 @@ Debates about interpretation substitute for practice.
 **Cascade effects:**
 Triggers <fundamentalism error> → <BIBLIOGRAPHY ERROR>.
 
-<treatise-scholasticism> <bstan-bcos-philosophical-fixation>
+[18669-18677] <treatise-scholasticism> <bstan-bcos-philosophical-fixation>
 **Misreading:**
 Lines 18661-18685 quote Maitreya's Uttaratantra. The reader treats this as definitive philosophical position.
 
@@ -112,7 +112,7 @@ Philosophical study substitutes for recognition.
 **Cascade effects:**
 Triggers <scholasticism error> → <PHILOSOPHICAL FIXATION>.
 
-<poetic-literalism> <mgur-experiential-seeking>
+[18678-18686] <poetic-literalism> <mgur-experiential-seeking>
 **Misreading:**
 Lines 18661-18685 quote Saraha's Doha. The poetic language is literalized.
 
@@ -130,7 +130,7 @@ Triggers <poetic literalism> → <EXPERIENTIAL ERROR>.
 
 Page 439 concludes the tathagatagarbha section with extensive scriptural citations.
 
-<buddha-nature-reification> <sangs-rgyas-snying-po-essence>
+[18687-18694] <buddha-nature-reification> <sangs-rgyas-snying-po-essence>
 **Misreading:**
 Lines 18661-18685 extensively quote tathagatagarbha scriptures (Tathagatagarbha Sutra, Uttaratantra, Saraha's Doha) stating all sentient beings possess Buddha-nature. The reader reifies Buddha-nature as an actual entity, essence, or latent capacity within beings.
 
@@ -146,7 +146,7 @@ Practitioners may search for their "inner Buddha," creating subtle self-grasping
 **Cascade effects:**
 Triggers <treasure hunting error> where Buddha-nature is sought as object, <eternalism error> where emptiness is reified as essence, <latent error> where potential is grasped, <actualization error> where nature must be made manifest, and [PASSIVITY ERROR] where "already Buddha" justifies inaction.
 
-<obscuration-removal> <sgrib-pa-cleaning>
+[18695-18702] <obscuration-removal> <sgrib-pa-cleaning>
 **Misreading:**
 Lines 18686-18705 explain why Buddha-nature isn't seen—"covered by bodily obscurations" (sgrib g.yogs) and "affliction-obscurations"—and compare it to the sun covered by clouds. The reader understands this as describing real veils that need removal through practice.
 
@@ -162,7 +162,7 @@ Practitioners may attempt to "remove veils" through various practices—purifica
 **Cascade effects:**
 Triggers <purification error> where practice becomes cleansing, <layers error> where reality appears stratified into true nature and obscurations, <removal error> where defilements are seen as eliminable, and [EFFORT ERROR] where doing increases.
 
-[CLOUD ERROR] [COVERING ERROR]
+[18703-18710] [CLOUD ERROR] [COVERING ERROR]
 **Misreading:**
 Lines 18686-18705 specifically compare Buddha-nature covered by obscurations to "the sun covered by clouds." The reader literalizes this as accurate description of the relationship between Buddha-nature and afflictions.
 
@@ -178,7 +178,7 @@ Practitioners may wait for "clouds to clear" or try to "blow them away." The met
 **Cascade effects:**
 Triggers <metaphor literalism> → <WAITING ERROR>.
 
-[RECOGNITION ERROR] [SEEING ERROR]
+[18711-18718] [RECOGNITION ERROR] [SEEING ERROR]
 **Misreading:**
 Lines 18706-18720 discuss how Buddha-nature is seen when obscurations are cleared. The reader understands this as describing actual visual or cognitive recognition.
 
@@ -194,7 +194,7 @@ Practitioners try to "see" Buddha-nature or achieve recognition as experience.
 **Cascade effects:**
 Triggers <experiential error> → <ATTAINMENT ERROR>.
 
-[CONCLUSION ERROR] [SUMMARY ERROR]
+[18719-18726] [CONCLUSION ERROR] [SUMMARY ERROR]
 **Misreading:**
 Lines 18715-18720 conclude the section with summary statements. The reader treats these as definitive final positions.
 
@@ -212,23 +212,23 @@ Triggers <dogmatism error> → <FIXATION ERROR>.
 
 Page 440 concludes the section on Buddha-nature and wisdom. This page completes the arc from mind and afflictions through wisdom types to Buddha-nature. The tathagatagarbha theme serves as capstone to the section. The extensive use of metaphor throughout these pages (sun/clouds, moon phases, water/waves, etc.) requires consistent recognition as pointing language. The reification risks established in pages 421-439 culminate here and must be seen through.
 
-<reification-error> <practice-error>
+[18727-18736] <reification-error> <practice-error>
 **Misreading:**
 The "four lamps" (སྒྲོན་མ་བཞི་) are interpreted as literal physical organs or anatomical structures—eye, heart, channels, skull cavity—that can be manipulated, stimulated, or focused upon as objects of meditation.
 
 **Why it arises:**
-The detailed anatomical terminology (channels, bindu, bhṛguta) triggers materialist reading. Western practitioners habitually conflate energetic topology with physical anatomy. "In the eye dwells" is taken as literal spatial containment in contrast to modal abiding.
+The detailed anatomical terminology (channels, bindu, bhṛguta) triggers materialist reading. Western practitioners habitually conflate energetic topology with physical anatomy. "In the eye dwells" is taken as literal spatial containment rather than modal abiding.
 
 **Primary consequence:**
 Thodgal practice degrades into visual fixation exercises—staring at light sources, pressing eyeballs, or attempting to force inner light experiences through physical manipulation. The natural self-arising of awareness-display (*rtsal*) is replaced by deliberate effort to generate sensations.
 
 **Secondary consequences:**
-The distinction between trekcho (cutting through) and thodgal (direct crossing) collapses. Thodgal becomes another technique yet not the spontaneous display of already-recognized rigpa. Practitioners develop attachment to light experiences (*thig le*, *'od zer*) as signs of progress.
+The distinction between trekcho (cutting through) and thodgal (direct crossing) collapses. Thodgal becomes another technique rather than the spontaneous display of already-recognized rigpa. Practitioners develop attachment to light experiences (*thig le*, *'od zer*) as signs of progress.
 
 **Cascade effects:**
-Without understanding that these "locations" are modalities of awareness-display, practitioners develop <eternalistic-error>—believing bindus and light rays are truly existent subtle entities. This triggers <meditationism-error> where thodgal becomes fixation on internal visual phenomena while avoiding recognition of mind's nature.
+Without understanding that these "locations" are modalities of awareness-display, practitioners develop <eternalistic-error>—believing bindus and light rays are truly existent subtle entities. This triggers <meditationism-error> where thodgal becomes fixation on internal visual phenomena rather than recognition of mind's nature.
 
-<ontological-error> <reification-error>
+[18737-18747] <ontological-error> <reification-error>
 **Misreading:**
 The "immeasurable palaces" (*གཞལ་ཡས་) are interpreted as actual locations or containers within the body where rigpa resides—physical spaces that can be entered, explored, or visualized during meditation.
 
@@ -236,15 +236,15 @@ The "immeasurable palaces" (*གཞལ་ཡས་) are interpreted as actual lo
 The term "palace" (*གཞལ་ཡས་) triggers architectural imagination. Combined with anatomical references (heart, channels), practitioners imagine actual chambers or spaces. The phrase "rigpa's essence appears as display" is read as something emerging from these locations.
 
 **Primary consequence:**
-Body-based reification of awareness. Rigpa is spatialized—located in particular body parts not recognized as the groundless ground pervading all experience. Meditation becomes a journey through internal landscapes excluding direct recognition.
+Body-based reification of awareness. Rigpa is spatialized—located in particular body parts rather than recognized as the groundless ground pervading all experience. Meditation becomes a journey through internal landscapes rather than direct recognition.
 
 **Secondary consequences:**
-The citadel (*ཙིཏྟ*), channels, and skull cavity are treated as sacred geography to be visualized or manipulated. The immediacy of rigpa recognition is lost in elaborate body-mapping practices. "Natural state" (*གནས་ལུགས*) becomes a place to find yet not what already is.
+The citadel (*ཙིཏྟ*), channels, and skull cavity are treated as sacred geography to be visualized or manipulated. The immediacy of rigpa recognition is lost in elaborate body-mapping practices. "Natural state" (*གནས་ལུགས*) becomes a place to find rather than what already is.
 
 **Cascade effects:**
 This <reification-error> breeds <pedagogical-error>—teachers instruct students in complex body-scanning techniques as preparation for Dzogchen. Students spend years "purifying channels" before being introduced to direct pointing, perpetuating gradualist frameworks within Atiyoga.
 
-<epistemic-error> <ontological-error>
+[18748-18758] <epistemic-error> <ontological-error>
 **Misreading:**
 The statement that Buddhas and sentient beings both possess this abiding is interpreted as asserting a universal essence or shared soul that makes all beings fundamentally identical—an underlying monistic substance.
 
@@ -255,12 +255,12 @@ The statement that Buddhas and sentient beings both possess this abiding is inte
 The crucial distinction between *kun gzhi* (neutral ground) and *rig pa* (awareness) collapses. Practitioners assume they "already are" the enlightened state without recognition, leading to <nihilistic-error>—no need for practice or teacher since one already possesses Buddhahood.
 
 **Secondary consequences:**
-The phrase "victorious ones excellently explained" is dismissed as conventional praise to necessary recognition. Students claim "I am already Buddha" while remaining ordinary sentient beings. The path of liberation (*grol lam*) is denied.
+The phrase "victorious ones excellently explained" is dismissed as conventional praise rather than pointing to necessary recognition. Students claim "I am already Buddha" while remaining ordinary sentient beings. The path of liberation (*grol lam*) is denied.
 
 **Cascade effects:**
 This <ontological-error> triggers <practice-error> and <pedagogical-error>. Practitioners reject all method (*thabs*) and discernment (*shes rab*) as dualistic, leading to antinomian behavior while claiming Dzogchen view. Authentic lineage transmission becomes impossible without recognition.
 
-<epistemic-error> <view-collapse-error>
+[18759-18769] <epistemic-error> <view-collapse-error>
 **Misreading:**
 The statement that "rigpa and non-rigpa are appearance itself" is interpreted as meaning there is no real difference between awareness and ignorance, awakening and confusion—ultimately it's all the same.
 
@@ -276,12 +276,12 @@ The path (*lam*) collapses into the ground (*gzhi*). Since rigpa and ignorance a
 **Cascade effects:**
 Without understanding that appearances arise differently for those who recognize versus those who don't, practitioners develop <epistemic-error>—incapable of distinguishing correct from incorrect view. This breeds <pedagogical-error> where students are told "everything is rigpa" without the recognition that makes it so.
 
-<reification-error> <meditationism-error>
+[18770-18780] <reification-error> <meditationism-error>
 **Misreading:**
 The characteristics of kāya, rigpa, expanse, and wisdom are treated as objects of meditation or contemplation—qualities to be cultivated, experienced, or stabilized through practice.
 
 **Why it arises:**
-The list format (unchanging, luminous, empty, etc.) triggers checklist mentality. Western practitioners habitually transform descriptions into prescriptions—"these are the qualities I need to develop." The text becomes a meditation manual instead of pointing-out instruction.
+The list format (unchanging, luminous, empty, etc.) triggers checklist mentality. Western practitioners habitually transform descriptions into prescriptions—"these are the qualities I need to develop." The text becomes a meditation manual rather than pointing-out instruction.
 
 **Primary consequence:**
 Dzogchen degrades into qualities-acquisition. Practitioners attempt to "become" unchanging, luminous, and empty through effort, missing that these are natural characteristics of awareness already present. Trekcho becomes a technique for achieving stability.
@@ -292,7 +292,7 @@ The term "wisdom" (*ཡེ་ཤེས་) is reified as a special state to atta
 **Cascade effects:**
 This <meditationism-error> produces <practice-error> where thodgal light-experiences are deliberately cultivated, trekcho becomes a concentrative state, and the direct recognition of mind's nature is buried under technique. <scholarly-collapse-error> follows as complex meditation systems are read back into Dzogchen texts.
 
-<ontological-error> <reification-error>
+[18781-18791] <ontological-error> <reification-error>
 **Misreading:**
 The identification of body, wisdom, and rigpa with specific anatomical locations (heart, skull cavity, bhṛguta) is interpreted as a literal physiological mapping—asserting that awareness literally resides in these physical places and can be accessed through physical manipulation.
 
@@ -303,12 +303,12 @@ The precision of anatomical terminology (channels, bhṛguta, four roots) trigge
 Thodgal practice becomes anatomical exploration—attempting to locate awareness in specific body parts, pressing on the bhṛguta, or manipulating channels. The non-local nature of rigpa is lost as practitioners search for "where" awareness is.
 
 **Secondary consequences:**
-The "channel-roots" (*རྩ་བཞི་) are treated as actual physical channels and not energetic modalities. Expansive display (*དབྱིངས་སྣང་) of light and bindu becomes something to stimulate or force through practice. Natural self-arising is replaced by deliberate activation.
+The "channel-roots" (*རྩ་བཞི་) are treated as actual physical channels rather than energetic modalities. Expansive display (*དབྱིངས་སྣང་) of light and bindu becomes something to stimulate or force through practice. Natural self-arising is replaced by deliberate activation.
 
 **Cascade effects:**
 This <reification-error> triggers <practice-error> and <eternalistic-error>. Practitioners develop subtle attachment to body-based spirituality—believing enlightenment is achieved through perfecting energetic anatomy. The formless nature of dharmakaya is obscured by focus on form.
 
-<epistemic-error> <practice-error>
+[18792-18802] <epistemic-error> <practice-error>
 **Misreading:**
 The description of consciousness riding the wind (*རླུང་ལ་ཞོན་) through channels and dissolving into emptiness is interpreted as a meditation technique to be performed—deliberately guiding consciousness through channels to achieve dissolution experiences.
 
@@ -324,7 +324,7 @@ The phrase "without dissolver, clear luminosity" (*ཐིམ་བྱེད་�
 **Cascade effects:**
 This <practice-error> leads to <meditationism-error> where Dzogchen is reduced to advanced subtle-body practice. Practitioners spend years developing wind-control abilities while missing direct recognition. <scholarly-collapse-error> follows as tantric completion stage methods are read into Dzogchen.
 
-<reification-error> <ontological-error>
+[18803-18813] <reification-error> <ontological-error>
 **Misreading:**
 The four lamps (*སྒྲོན་མ་བཞི་) and five wisdoms (*ཡེ་ཤེས་ལྔ་) are interpreted as actual entities or structures within the body—literal lamps that illuminate and wisdoms that can be contacted or activated through practice.
 
@@ -338,11 +338,11 @@ Thodgal becomes a quest to locate and activate the four lamps. Practitioners sea
 The "distant water lamp" (*རྒྱང་ཞགས་ཆུའི་སྒྲོན་མ་) and "self-arisen wisdom lamp" (*ཤེས་རབ་རང་བྱུང་གི་སྒྲོན་མ་) are treated as advanced attainments or visions to achieve. Thodgal degrades into progressive stages of lamp-activation. Self-arising rigpa is replaced by achievement-based spirituality.
 
 **Cascade effects:**
-This <reification-error> produces <pedagogical-error> where teachers present lamp-activation as the path. Students become fixated on having specific experiences—seeing lights, bindus, visions. <meditationism-error> follows as thodgal becomes goal-oriented practice , avoiding natural display.
+This <reification-error> produces <pedagogical-error> where teachers present lamp-activation as the path. Students become fixated on having specific experiences—seeing lights, bindus, visions. <meditationism-error> follows as thodgal becomes goal-oriented practice rather than natural display.
 
-<epistemic-error> <scholarly-collapse-error>
+[18814-18825] <epistemic-error> <scholarly-collapse-error>
 **Misreading:**
-The distinction between method (*ཐབས་) and wisdom (*ཤེས་རབ་) is interpreted through sutric or tantric frameworks—understanding them as dualistic complements to be united, while avoiding recognizing their primordial non-duality in Dzogchen.
+The distinction between method (*ཐབས་) and wisdom (*ཤེས་རབ་) is interpreted through sutric or tantric frameworks—understanding them as dualistic complements to be united, rather than recognizing their primordial non-duality in Dzogchen.
 
 **Why it arises:**
 Familiarity with lower yana frameworks causes projection onto Dzogchen. "Method and wisdom" triggers standard Mahayana understanding (compassion and emptiness). Practitioners unconsciously apply gradualist hermeneutics to Atiyoga.
@@ -354,9 +354,9 @@ Dzogchen view is collapsed into sutric or tantric frameworks. The primordial uni
 The statement "by training in that, one comes to know" (*དེ་ལ་བསླབས་པས་ཤེས་པར་འགྱུར་) is interpreted as endorsing gradual training. Thodgal and trekcho become sequential practices—first develop wisdom, then apply method. Spontaneous presence (*ལྷུན་གྲུབ་) is undermined.
 
 **Cascade effects:**
-This <view-collapse-error> leads to <practice-error> where Dzogchen is treated as highest tantra vehicle. Practitioners apply tantric stage-completion logic to thodgal instructions. The directness of Atiyoga is lost in elaborate preparatory practices.
+This <view-collapse-error> leads to <practice-error> where Dzogchen is treated as highest tantra rather than distinct vehicle. Practitioners apply tantric stage-completion logic to thodgal instructions. The directness of Atiyoga is lost in elaborate preparatory practices.
 
-<meditationism-error> <reification-error>
+[18826-18834] <meditationism-error> <reification-error>
 **Misreading:**
 The detailed specifications for thodgal practice—basis (*རྟེན་), location (*གནས་), path (*ལམ་), gate (*སྒོ་), object (*ཡུལ་), time (*དུས་), destination (*འགྲོ་ས་), liberation-place (*གྲོལ་ས་)—are interpreted as literal instructions for a meditation technique to be performed under specific conditions.
 
@@ -367,20 +367,20 @@ The systematic enumeration (eight factors) triggers procedural reading. Technica
 Thodgal becomes a complex technique with prerequisites—specific postures, times (dawn, dusk), visual fields (cloudless sky), and destinations to aim for. The natural display of rigpa is replaced by deliberate practice. "Liberation-place" becomes a goal to reach.
 
 **Secondary consequences:**
-The "eight spontaneous doors of arising" (*ལྷུན་གྲུབ་ཀྱི་འཆར་སྒོ་བརྒྱད་) are treated as visual experiences to achieve. Those who recognize go to the expanse, those who don't wander in samsara—is interpreted literally as destinations , avoiding modal abiding. Practice becomes achievement-oriented.
+The "eight spontaneous doors of arising" (*ལྷུན་གྲུབ་ཀྱི་འཆར་སྒོ་བརྒྱད་) are treated as visual experiences to achieve. Those who recognize go to the expanse, those who don't wander in samsara—is interpreted literally as destinations rather than modal abiding. Practice becomes achievement-oriented.
 
 **Cascade effects:**
 This <practice-error> produces <eternalistic-error> where specific visions (*སྣང་བ*) become markers of progress. <pedagogical-error> follows as teachers prescribe thodgal techniques with elaborate preparations. <scholarly-collapse-error> occurs when these instructions are compared to tantric completion stage practices.
 
-<pedagogical-error> <ontological-error>
+[18835-18843] <pedagogical-error> <ontological-error>
 **Misreading:**
-The similes (*དཔེ་) provided for each factor—like a wolf in a plain, like a vase-kāya, like a pearl garland—are interpreted as visualization objects or meditation supports yet not illustrative analogies pointing to naturally abiding qualities.
+The similes (*དཔེ་) provided for each factor—like a wolf in a plain, like a vase-kāya, like a pearl garland—are interpreted as visualization objects or meditation supports rather than illustrative analogies pointing to naturally abiding qualities.
 
 **Why it arises:**
 The concrete imagery triggers visualization practice. "Like a butter lamp inside a vase" suggests a specific image to hold in mind. Western practitioners, familiar with visualization-based practices, unconsciously transform similes into meditation objects.
 
 **Primary consequence:**
-Thodgal practice becomes visualization exercise—imagining channels as pearl garlands, wisdom as butter lamps, etc. The direct recognition of naturally abiding rigpa is obscured by deliberate fabrication. Similes become supports and not pointers.
+Thodgal practice becomes visualization exercise—imagining channels as pearl garlands, wisdom as butter lamps, etc. The direct recognition of naturally abiding rigpa is obscured by deliberate fabrication. Similes become supports rather than pointers.
 
 **Secondary consequences:**
 The "conch-shell house" (*དུང་ཁང་) as location for wisdom is visualized as an actual structure. The "great gate of bhṛguta" becomes a visualization portal. Natural self-arising (*རང་ཤར་) is replaced by constructed imagery. The formless is forced into form.
@@ -388,7 +388,7 @@ The "conch-shell house" (*དུང་ཁང་) as location for wisdom is visua
 **Cascade effects:**
 This <ontological-error> triggers <meditationism-error> where thodgal becomes another visualization practice like deity yoga. <reification-error> follows as similes are taken literally. <pedagogical-error> proliferates as elaborate visualization curricula are developed for "thodgal preparation."
 
-<reification-error> <epistemic-error>
+[18844-18853] <reification-error> <epistemic-error>
 **Misreading:**
 The specification that rigpa abides "in the heart-jewel eight-cornered, in the center of the pure light-channel, within the five lights" is interpreted as locating awareness in a specific physical place—a spatial claim about where consciousness resides in the body.
 
@@ -396,15 +396,15 @@ The specification that rigpa abides "in the heart-jewel eight-cornered, in the c
 Precise anatomical coordinates trigger literal spatial reading. "In the heart" suggests physical location. Western neuroscience bias unconsciously interprets these as claims about consciousness-brain/body relationship.
 
 **Primary consequence:**
-Rigpa is spatialized and localized—reduced to a phenomenon residing in a specific body location. The all-pervading (*ཁྱབ་པ་), groundless nature of awareness is lost. Practitioners search for rigpa "in" the heart but not recognizing what pervades all experience.
+Rigpa is spatialized and localized—reduced to a phenomenon residing in a specific body location. The all-pervading (*ཁྱབ་པ་), groundless nature of awareness is lost. Practitioners search for rigpa "in" the heart rather than recognizing what pervades all experience.
 
 **Secondary consequences:**
-The eight-cornered heart-jewel becomes an object of fixation or visualization. The "five lights" are sought as internal experiences. "Abides" (*གནས་) is read as static occupation in contrast to modal dwelling. Dynamic awareness-display (*རྩལ་) is frozen into location.
+The eight-cornered heart-jewel becomes an object of fixation or visualization. The "five lights" are sought as internal experiences. "Abides" (*གནས་) is read as static occupation rather than modal dwelling. Dynamic awareness-display (*རྩལ་) is frozen into location.
 
 **Cascade effects:**
 This <reification-error> produces <practice-error> where practitioners focus attention on the heart center attempting to "find" rigpa there. <ontological-error> follows—believing awareness is a subtle entity located in the body. The formless dharmakaya is reduced to subtle form.
 
-<ontological-error> <reification-error>
+[18854-18860] <ontological-error> <reification-error>
 **Misreading:**
 The detailed anatomical description of channels connecting heart to head to eyes is interpreted as literal physiological claim—that wisdom actually travels through physical channels from heart to eyes, and thodgal visions result from this physiological process.
 
@@ -420,7 +420,7 @@ The "channel-root" (*ཡར་རྩེ་) is treated as a physical structure t
 **Cascade effects:**
 This <reification-error> triggers <scholarly-collapse-error> where thodgal is compared to other traditions' subtle-body practices. <practice-error> follows as practitioners attempt to activate channels physically. <ontological-error> proliferates—believing awareness is a subtle energy flowing in tubes.
 
-<practice-error> <meditationism-error>
+[18861-18867] <practice-error> <meditationism-error>
 **Misreading:**
 The description of channels piercing the heart, throat, and crown is interpreted as instructions for a yoga practice—guiding energy through these centers as a technique to achieve wisdom.
 
@@ -436,7 +436,7 @@ The five lights of luminosity (*འོད་གསལ་གྱི་རླུང
 **Cascade effects:**
 This <practice-error> produces <eternalistic-error> where specific energetic experiences become markers of progress. <pedagogical-error> follows as elaborate subtle-body preparation is taught as prerequisite for Dzogchen. <view-collapse-error> occurs when tantric completion stage is read into Atiyoga.
 
-<reification-error> <ontological-error>
+[18868-18874] <reification-error> <ontological-error>
 **Misreading:**
 The Tathāgatagarbha simile—"like sesame oil pervading sesame seeds"—is interpreted as asserting a literal essence or substance within beings that is Buddhahood, a truly existing seed or potentiality.
 
@@ -444,7 +444,7 @@ The Tathāgatagarbha simile—"like sesame oil pervading sesame seeds"—is inte
 Garbha language (*སྙིང་པོ་) triggers essentialist reading. The simile suggests physical containment. Western spiritual seekers interpret such statements as evidence of innate divinity or soul-like essence.
 
 **Primary consequence:**
-Buddha-nature is reified as an entity or substance truly present within beings. The emptiness (*སྟོང་པ་ཉིད་) of Buddha-nature is missed. The assumption arises that they possess a hidden treasure that needs uncovering yet not to recognizing what has never been obscured.
+Buddha-nature is reified as an entity or substance truly present within beings. The emptiness (*སྟོང་པ་ཉིད་) of Buddha-nature is missed. Practitioners believe they possess a hidden treasure that needs uncovering rather than recognizing what has never been obscured.
 
 **Secondary consequences:**
 The "vase-kāya" (*བུམ་སྐུ་) simile is taken literally—awareness contained like light in a vase. "Pervading" (*ཁྱབ་པ་) is read as spatial occupation. The groundless ground is given form and location. Dzogchen becomes excavation of inner essence.
@@ -452,7 +452,7 @@ The "vase-kāya" (*བུམ་སྐུ་) simile is taken literally—awarene
 **Cascade effects:**
 This <reification-error> triggers <eternalistic-error>—belief in truly existing Buddha-nature substance. <practice-error> follows as practitioners attempt to "access" or "uncover" this essence. <pedagogical-error> proliferates as teachers present gradual purification to reveal innate perfection.
 
-<meditationism-error> <reification-error>
+[18875-18893] <meditationism-error> <reification-error>
 **Misreading:**
 The detailed "essential points" (*གནད་) for channels, winds, and wisdom are interpreted as a graduated practice curriculum—specific techniques to be applied sequentially to achieve thodgal visions and stabilize wisdom.
 
@@ -463,12 +463,12 @@ Systematic enumeration (gathering, dissolving, holding) triggers procedural read
 Trekcho/thodgal becomes complex wind-energy (*རླུང་) and bindu (*ཐིག་ལེ་) manipulation practice. The direct recognition of rigpa is buried under technique. Natural self-arising is replaced by deliberate effort to "cause" experiences.
 
 **Secondary consequences:**
-"Body's luster and radiance" (*ལུས་ཀྱི་བཀྲག་དང་གཟི་མདངས་) becomes something to enhance through practice. "Wisdom moistening" (*ཡེ་ཤེས་བརླན་གྱིས་ཁྱབ་) is interpreted as technique-result. The five kāyas and five wisdoms become achievements instead of natural display.
+"Body's luster and radiance" (*ལུས་ཀྱི་བཀྲག་དང་གཟི་མདངས་) becomes something to enhance through practice. "Wisdom moistening" (*ཡེ་ཤེས་བརླན་གྱིས་ཁྱབ་) is interpreted as technique-result. The five kāyas and five wisdoms become achievements rather than natural display.
 
 **Cascade effects:**
 This <practice-error> triggers <eternalistic-error> where specific experiences (*སྣང་བ*) become progress markers. <scholarly-collapse-error> follows as these practices are equated with tantric completion stage. <pedagogical-error> proliferates—years of technique taught before " Dzogchen proper."
 
-<epistemic-error> <view-collapse-error>
+[18894-18912] <epistemic-error> <view-collapse-error>
 **Misreading:**
 The description of kāya through essential point of resonance, wisdom through posture, bindu through circulation, and light through expansion/contraction is interpreted through tantric framework—as completion stage practices for generating the deity.
 
@@ -482,9 +482,9 @@ Dzogchen view collapses into highest yoga tantra. Trekcho becomes dissolution pr
 "Holding, releasing, guiding" (*བསྡོམས་, *དབྱུང་, *གཏད་) are interpreted as wind-control techniques. "Expanse's essential point" (*དབྱིངས་ཀྱི་གནད་) becomes another manipulation target. Natural luminosity is replaced by fabricated experiences.
 
 **Cascade effects:**
-This produces <practice-error> where students spend years on wind-bindu practices before being introduced to direct recognition. <scholarly-collapse-error> follows as texts are interpreted through tantric hermeneutics. <pedagogical-error> proliferates.
+This [VIEW COLLAPSE] produces <practice-error> where students spend years on wind-bindu practices before being introduced to direct recognition. <scholarly-collapse-error> follows as texts are interpreted through tantric hermeneutics. <pedagogical-error> proliferates.
 
-<reification-error> <practice-error>
+[18913-18931] <reification-error> <practice-error>
 **Misreading:**
 The description of four wheels (*འཁོར་ལོ་བཞི་) and three mothers (*མ་གསུམ་) supporting the body and maturing the lamp is interpreted as literal anatomy to be mastered through physical manipulation—pressing, rubbing, and channel-control.
 
@@ -492,7 +492,7 @@ The description of four wheels (*འཁོར་ལོ་བཞི་) and three
 Anatomical specificity triggers literal reading. Terms like "pressing essential point" (*གནད་གཅུན་) suggest physical action. Western body-oriented spirituality interprets these as somatic practices.
 
 **Primary consequence:**
-Thodgal becomes physical yoga—pressing points, rubbing channels, manipulating winds. The recognition of mind's nature is obscured by body-focus. "Maturing the lamp" becomes somatic achievement yet not to recognition deepening.
+Thodgal becomes physical yoga—pressing points, rubbing channels, manipulating winds. The recognition of mind's nature is obscured by body-focus. "Maturing the lamp" becomes somatic achievement rather than recognition deepening.
 
 **Secondary consequences:**
 The three kāyas are treated as products of channel-manipulation. "Wisdom fire ceasing" (*ཡེ་ཤེས་འགག་) is interpreted as result of physical technique. Natural self-liberation (*རང་གྲོལ་) is replaced by deliberate effort.
@@ -500,7 +500,7 @@ The three kāyas are treated as products of channel-manipulation. "Wisdom fire c
 **Cascade effects:**
 This <reification-error> triggers <meditationism-error> where thodgal is reduced to advanced kuṇḍalinī practice. <ontological-error> follows as subtle body is reified. <pedagogical-error> proliferates as physical prerequisites multiply.
 
-<practice-error> <meditationism-error>
+[18932-18948] <practice-error> <meditationism-error>
 **Misreading:**
 The detailed instructions for rubbing, pressing, and channel manipulation are interpreted as a graduated training regimen—physical techniques to be practiced systematically to achieve wisdom and extend life.
 
@@ -508,20 +508,20 @@ The detailed instructions for rubbing, pressing, and channel manipulation are in
 Prescriptive language (*བྱེད་, *བསྐྱེད་, *སྡུད་) triggers procedural reading. "Essential point" (*གནད་) sounds like crucial technique. Health benefits (*ཚེ་ཉིད་སྤེལ་) attract wellness-oriented practitioners.
 
 **Primary consequence:**
-Dzogchen degrades into longevity yoga (*ཚེ་སྒྲུབ་) and subtle-body fitness. The direct recognition of rigpa is lost in physical technique. "Wisdom path" (*ཡེ་ཤེས་ལམ་) becomes somatic achievement yet not to recognition.
+Dzogchen degrades into longevity yoga (*ཚེ་སྒྲུབ་) and subtle-body fitness. The direct recognition of rigpa is lost in physical technique. "Wisdom path" (*ཡེ་ཤེས་ལམ་) becomes somatic achievement rather than recognition.
 
 **Secondary consequences:**
-Bindus with body (*ཐིག་ལེ་སྐུ་དང་བཅས་པ་) are treated as something to manufacture through technique. Wind as "going and coming" (*འགྲོ་འོང་) is controlled , avoiding recognized as spontaneous display. Mind becomes servant of body-practice.
+Bindus with body (*ཐིག་ལེ་སྐུ་དང་བཅས་པ་) are treated as something to manufacture through technique. Wind as "going and coming" (*འགྲོ་འོང་) is controlled rather than recognized as spontaneous display. Mind becomes servant of body-practice.
 
 **Cascade effects:**
 This <practice-error> produces <eternalistic-error> where physical vitality becomes spiritual progress marker. <scholarly-collapse-error> follows as these practices are equated with āyurveda or qigong. <pedagogical-error> proliferates.
 
-<ontological-error> <reification-error>
+[18949-18965] <ontological-error> <reification-error>
 **Misreading:**
 The description of the eye as gate (*སྒོ་) and the channel-root with five branches is interpreted as literal physiological claim—that wisdom actually exits through physical eyes, and thodgal visions are literally seen through ocular apparatus.
 
 **Why it arises:**
-Anatomical precision triggers literal reading. "Gate" suggests physical portal. Western visual culture interprets thodgal as "seeing with eyes" rather than than non-dual display of awareness.
+Anatomical precision triggers literal reading. "Gate" suggests physical portal. Western visual culture interprets thodgal as "seeing with eyes" rather than non-dual display of awareness.
 
 **Primary consequence:**
 Thodgal is reduced to visual phenomenon—external light experiences interpreted as wisdom-display. The non-dual nature of rigpa's self-display (*རང་སྣང་) is lost. "Looking without moving" (*མི་འགུལ་བར་བལྟ་) becomes physical fixation.
@@ -532,9 +532,9 @@ The "true essential point" (*ཡང་དག་གནད་) is sought in visual
 **Cascade effects:**
 This <reification-error> triggers <practice-error>—staring at skies, forcing visions, seeking light-experiences. <epistemic-error> follows as students cannot distinguish recognition from sensation. <meditationism-error> proliferates.
 
-<epistemic-error> <view-collapse-error>
+[18966-18983] <epistemic-error> <view-collapse-error>
 **Misreading:**
-The explanation of gate and lamp is interpreted through tantric or sutric frameworks—understanding them as faculties to be purified or developed through practice, rather than than naturally abiding display of already-perfect rigpa.
+The explanation of gate and lamp is interpreted through tantric or sutric frameworks—understanding them as faculties to be purified or developed through practice, rather than naturally abiding display of already-perfect rigpa.
 
 **Why it arises:**
 Familiarity with lower yanas causes projection onto Dzogchen. "Gate" and "lamp" terminology overlaps with tantra. Practitioners unconsciously apply gradualist hermeneutics to Atiyoga.
@@ -548,7 +548,7 @@ Dzogchen view collapses into path-based framework. The four lamps become objects
 **Cascade effects:**
 This <view-collapse-error> leads to <practice-error> where Dzogchen is practiced as advanced tantra. <pedagogical-error> follows as gradual curricula are imposed. <scholarly-collapse-error> proliferates when texts are read through lower-yana lenses.
 
-<meditationism-error> <reification-error>
+[18984-19002] <meditationism-error> <reification-error>
 **Misreading:**
 The four lamps (*སྒྲོན་མ་བཞི་) are interpreted as meditation objects or techniques to be applied—specifically that one should practice with distant water lamp, empty bindu lamp, and self-arisen wisdom lamp as graduated stages.
 
@@ -564,7 +564,7 @@ Thodgal becomes systematic lamp-cultivation practice. Natural self-arising of aw
 **Cascade effects:**
 This <reification-error> triggers <eternalistic-error> where lamp-experiences become progress markers. <practice-error> follows as practitioners fixate on achieving specific visions. <pedagogical-error> proliferates as lamp-stages are taught sequentially.
 
-<practice-error> <meditationism-error>
+[19003-19021] <practice-error> <meditationism-error>
 **Misreading:**
 The detailed instructions for looking posture, sun and moon training, and "drawing" with expanse are interpreted as specific techniques to be practiced regularly to achieve thodgal visions and eventually manifest the body of light.
 
@@ -575,12 +575,12 @@ Prescriptive language (*བསླབ་, *བྱ་, *སྦྱར་) triggers 
 Thodgal becomes goal-oriented practice with stages—first stabilize looking posture, then train with sun and moon, eventually achieve rainbow body. Natural display is replaced by deliberate cultivation. Spontaneity is undermined.
 
 **Secondary consequences:**
-"Cutting off deluded appearances" (*འཁྲུལ་པའི་སྣང་བ་རྒྱུན་ཆད་) is interpreted as result of practice rather than than recognition. "Five wisdoms' light" (*ཡེ་ཤེས་ལྔ་ཡི་འོད་) becomes something to achieve. The formless is forced into form.
+"Cutting off deluded appearances" (*འཁྲུལ་པའི་སྣང་བ་རྒྱུན་ཆད་) is interpreted as result of practice rather than recognition. "Five wisdoms' light" (*ཡེ་ཤེས་ལྔ་ཡི་འོད་) becomes something to achieve. The formless is forced into form.
 
 **Cascade effects:**
 This <practice-error> produces <eternalistic-error> where rainbow body becomes the goal. <pedagogical-error> follows as progressive stages are institutionalized. <ontological-error> proliferates—believing light-body is truly existent attainment.
 
-<epistemic-error> <view-collapse-error>
+[19022-19041] <epistemic-error> <view-collapse-error>
 **Misreading:**
 The statement that the lamps "cut the connected stream of habitual patterns" and "abandon samsara" is interpreted as asserting that thodgal practice gradually purifies obscurations through the force of experience—gradualist framework applied to Atiyoga.
 
@@ -594,9 +594,9 @@ Dzogchen view collapses into gradual purification. The direct recognition of pri
 The four lamps become purifying agents. "Essential point gathering Buddha's intent" (*སངས་རྒྱས་དགོངས་པའི་གནད་འདུས་) is interpreted as achieved through effort. Natural liberation becomes gradual elimination.
 
 **Cascade effects:**
-This triggers <practice-error> where thodgal is practiced as purification method. <pedagogical-error> follows as gradual paths are mapped onto Dzogchen. <scholarly-collapse-error> proliferates when sutric frameworks are applied to Atiyoga.
+This [VIEW COLLAPSE] triggers <practice-error> where thodgal is practiced as purification method. <pedagogical-error> follows as gradual paths are mapped onto Dzogchen. <scholarly-collapse-error> proliferates when sutric frameworks are applied to Atiyoga.
 
-<ontological-error> <reification-error>
+[19042-19053] <ontological-error> <reification-error>
 **Misreading:**
 The enumeration of kāyas (resonance kāya, ray kāya, pure kāya, manifestation kāya) is interpreted as asserting multiple truly-existing bodies that manifest progressively as one advances in practice—literal multiplication of forms.
 
@@ -612,7 +612,7 @@ The unity of dharmakāya is obscured by multiplicity of forms. Practitioners see
 **Cascade effects:**
 This <reification-error> triggers <eternalistic-error>—belief in truly existing subtle bodies. <practice-error> follows as practitioners strive to manifest specific kāyas. <pedagogical-error> proliferates as kāya-hierarchy is taught as path.
 
-<epistemic-error> <view-collapse-error>
+[19054-19065] <epistemic-error> <view-collapse-error>
 **Misreading:**
 The presentation of kāyas as "abiding in the citadel" and appearing "when appropriate" is interpreted through tantric framework—as deity yoga where forms are generated through practice and stabilized through time.
 
@@ -626,9 +626,9 @@ Dzogchen view collapses into tantric deity yoga. Thodgal becomes advanced genera
 "Self-existing essence kāya" (*ངོ་བོ་སྐུ་) is interpreted as generated deity. "Eight manifestation kāyas" (*རྣམ་པའི་སྐུ་བརྒྱད་) are treated as advanced attainments. Trekcho becomes dissolution; thodgal becomes generation.
 
 **Cascade effects:**
-This produces <practice-error> where thodgal is practiced as completion-stage deity yoga. <scholarly-collapse-error> follows as texts are interpreted through tantric hermeneutics. <pedagogical-error> proliferates.
+This [VIEW COLLAPSE] produces <practice-error> where thodgal is practiced as completion-stage deity yoga. <scholarly-collapse-error> follows as texts are interpreted through tantric hermeneutics. <pedagogical-error> proliferates.
 
-<ontological-error> <reification-error>
+[19066-19077] <ontological-error> <reification-error>
 **Misreading:**
 The statement that "from the kāya light-rays radiate causing bindu resonance in channels" is interpreted as literal physiological process—asserting that wisdom-forms actually emit light that creates physical effects in energetic anatomy.
 
@@ -644,7 +644,7 @@ The "sphere of the basis" (*གཞི་གནས་ཀྱི་དབྱིང�
 **Cascade effects:**
 This <reification-error> triggers <scholarly-collapse-error> where Dzogchen is compared to other energy-based systems. <practice-error> follows as practitioners seek to manipulate these processes. <ontological-error> proliferates.
 
-<ontological-error> <reification-error>
+[19078-19088] <ontological-error> <reification-error>
 **Misreading:**
 The thirteen kāyas are interpreted as literally existing forms or bodies that manifest progressively—achievable states that appear as one advances through thodgal stages.
 
@@ -660,23 +660,23 @@ The natural display of rigpa is replaced by progressive embodiment project. Prac
 **Cascade effects:**
 This <reification-error> triggers <eternalistic-error>—belief in truly existing subtle bodies. <practice-error> follows as practitioners strive to manifest specific kāyas. <pedagogical-error> proliferates as kāya-hierarchy is taught as graduated path.
 
-<epistemic-error> <view-collapse-error>
+[19089-19099] <epistemic-error> <view-collapse-error>
 **Misreading:**
-The threefold division (basis, path, fruition kāyas) is interpreted as temporal progression—forms that appear sequentially as one traverses the path, rather than than simultaneous aspects of naturally abiding display.
+The threefold division (basis, path, fruition kāyas) is interpreted as temporal progression—forms that appear sequentially as one traverses the path, rather than simultaneous aspects of naturally abiding display.
 
 **Why it arises:**
 Sequential language (*གཞི་, *ལམ་, *འབྲས་བུ་) triggers developmental reading. "From the beginning" (*ཡེ་གནས་) is taken as temporal origin. Western spiritual frameworks project linear progression onto Dzogchen.
 
 **Primary consequence:**
-Dzogchen view collapses into gradual path. The primordial completeness is missed. "Spontaneously accomplished three kāyas" (*སྐུ་གསུམ་ལྷུན་གྲུབ་) becomes something to achieve rather than than what always is.
+Dzogchen view collapses into gradual path. The primordial completeness is missed. "Spontaneously accomplished three kāyas" (*སྐུ་གསུམ་ལྷུན་གྲུབ་) becomes something to achieve rather than what always is.
 
 **Secondary consequences:**
-"Basis self-arisen wisdom" (*གཞི་རང་བྱུང་གི་ཡེ་ཤེས་) is interpreted as starting point. "Path light-resonance expanse kāya" becomes intermediate stage. Fruition is treated as endpoint rather than than recognition of what never changed.
+"Basis self-arisen wisdom" (*གཞི་རང་བྱུང་གི་ཡེ་ཤེས་) is interpreted as starting point. "Path light-resonance expanse kāya" becomes intermediate stage. Fruition is treated as endpoint rather than recognition of what never changed.
 
 **Cascade effects:**
-This produces <practice-error> where thodgal is practiced as progressive attainment. <scholarly-collapse-error> follows when texts are read through gradualist hermeneutics. <pedagogical-error> proliferates.
+This [VIEW COLLAPSE] produces <practice-error> where thodgal is practiced as progressive attainment. <scholarly-collapse-error> follows when texts are read through gradualist hermeneutics. <pedagogical-error> proliferates.
 
-<ontological-error> <eternalistic-error>
+[19100-19111] <ontological-error> <eternalistic-error>
 **Misreading:**
 The special division of eleven kāyas is interpreted as asserting eleven distinct truly-existing subtle bodies, each with specific characteristics—an elaborate ontology of form-levels.
 
@@ -692,7 +692,7 @@ The single dharmakāya is fragmented into multiplicity. Practitioners study "the
 **Cascade effects:**
 This <ontological-error> triggers <scholarly-collapse-error> where Dzogchen is reduced to elaborate ontology. <reification-error> follows as forms are taken literally. <pedagogical-error> proliferates as students memorize kāya-lists.
 
-<epistemic-error> <view-collapse-error>
+[19112-19124] <epistemic-error> <view-collapse-error>
 **Misreading:**
 The root awareness kāya as "vajra chain-linked body not ceased in own eye sense-power" is interpreted as asserting that thodgal visions are literally perceived through physical eyes as external objects—sensory experience of subtle forms.
 
@@ -708,7 +708,7 @@ Thodgal is reduced to visual phenomenon—external light forms seen with eyes. T
 **Cascade effects:**
 This <epistemic-error> triggers <practice-error>—staring at skies, pressing eyes, seeking visions. <reification-error> follows as visions are taken as wisdom itself. <meditationism-error> proliferates.
 
-<nihilistic-error> <ontological-error>
+[19125-19138] <nihilistic-error> <ontological-error>
 **Misreading:**
 The statement "no ignorance, no mind, no intellect, no grasping" is interpreted as nihilistic denial—that these phenomena literally do not exist at all, neither conventionally nor ultimately, resulting in blank voidism.
 
@@ -724,7 +724,7 @@ The two truths collapse. The conventional reality of mind and ignorance is denie
 **Cascade effects:**
 This <nihilistic-error> produces <practice-error> where meditation becomes blanking out. <epistemic-error> follows as students cannot distinguish nihilism from emptiness. <scholarly-collapse-error> proliferates.
 
-<eternalistic-error> <reification-error>
+[19139-19152] <eternalistic-error> <reification-error>
 **Misreading:**
 The positive characterizations—"spontaneously accomplished Buddha," "dharmatā free from elaboration," "pure great appearance"—are interpreted as asserting truly existing positive attributes of the ground, reifying the basis as having inherent qualities.
 
@@ -740,7 +740,7 @@ The ground (*གཞི་) is reified as possessing inherent qualities—spontan
 **Cascade effects:**
 This <eternalistic-error> triggers <ontological-error> where ground is conceived as substratum with properties. <practice-error> follows as practitioners seek to stabilize in these qualities. <pedagogical-error> proliferates.
 
-<ontological-error> <reification-error>
+[19153-19166] <ontological-error> <reification-error>
 **Misreading:**
 The extensive expanse kāya (*གདལ་བ་དབྱིངས་ཀྱི་སྐུ་) with its fifteen characteristics is interpreted as asserting a truly existing vast container or field that has specific properties—an elaborate metaphysics of space.
 
@@ -756,7 +756,7 @@ Dharmadhātu is reified as container or field. The fifteen characteristics becom
 **Cascade effects:**
 This <ontological-error> triggers <scholarly-collapse-error> where Dzogchen is reduced to elaborate metaphysics. <eternalistic-error> follows as expanse is reified. <pedagogical-error> proliferates as students study characteristics.
 
-<nihilistic-error> <ontological-error>
+[19167-19180] <nihilistic-error> <ontological-error>
 **Misreading:**
 The "unchanging vajra kāya" with its paradoxical formulations—"life-cut Buddha," "non-accomplished deity," "non-meditated meditation"—is interpreted as asserting absolute non-existence of all phenomena, resulting in blank nihilism.
 
@@ -772,7 +772,7 @@ The middle way collapses into extreme nihilism. All distinctions—Buddha and se
 **Cascade effects:**
 This <nihilistic-error> produces <practice-error> where meditation becomes blanking out. <epistemic-error> follows as practitioners cannot distinguish emptiness from nihilism. <pedagogical-error> proliferates as antinomian behavior is justified.
 
-<epistemic-error> <view-collapse-error>
+[19181-19195] <epistemic-error> <view-collapse-error>
 **Misreading:**
 The "nature kāya" characteristics—"no established tenet, no definite reason, no dual characteristic"—are interpreted as endorsing radical skepticism or anti-intellectualism, rejecting all philosophical discernment.
 
@@ -786,9 +786,9 @@ Dzogchen collapses into anti-philosophical stance. Discrimination between correc
 "View without falling to extremes" becomes "no view at all." "Meditation without seeing" becomes non-meditation. "Conduct without doing" becomes inaction. The subtle middle way is lost.
 
 **Cascade effects:**
-This triggers <practice-error> where effort is rejected as dualistic. <epistemic-error> follows as students cannot navigate view. <pedagogical-error> proliferates as all discrimination is discouraged.
+This [VIEW COLLAPSE] triggers <practice-error> where effort is rejected as dualistic. <epistemic-error> follows as students cannot navigate view. <pedagogical-error> proliferates as all discrimination is discouraged.
 
-<ontological-error> <reification-error>
+[19196-19210] <ontological-error> <reification-error>
 **Misreading:**
 The fifteen forms of awareness (lion-like, elephant-like, space-like, etc.) are interpreted as literally existing types or species of awareness—an elaborate typology of consciousness-states.
 
@@ -804,7 +804,7 @@ Single rigpa is fragmented into multiplicity. Practitioners study "the fifteen a
 **Cascade effects:**
 This <ontological-error> triggers <scholarly-collapse-error> where Dzogchen is reduced to typology. <reification-error> follows as awareness is objectified. <pedagogical-error> proliferates as students memorize categories.
 
-<epistemic-error> <view-collapse-error>
+[19211-19225] <epistemic-error> <view-collapse-error>
 **Misreading:**
 The vajra chain-linked appearances (*རྡོ་རྗེ་ལུ་གུ་རྒྱུད་ཀྱི་སྣང་བ་) are interpreted as specific visual phenomena to be perceived during thodgal practice—particular light patterns or visionary experiences.
 
@@ -820,7 +820,7 @@ Thodgal is reduced to seeking specific visionary experiences. The non-dual self-
 **Cascade effects:**
 This <epistemic-error> triggers <practice-error>—deliberately seeking visions. <reification-error> follows as experiences are taken as wisdom. <meditationism-error> proliferates as thodgal becomes visualization practice.
 
-<ontological-error> <eternalistic-error>
+[19226-19238] <ontological-error> <eternalistic-error>
 **Misreading:**
 The "uninterrupted space kāya" with its twenty characteristics of non-separation is interpreted as asserting a monistic unity where all distinctions literally collapse into undifferentiated oneness—absolute holistic metaphysics.
 
@@ -836,7 +836,7 @@ Emptiness and clarity are treated as identical substance. "Lhun grub and kadag u
 **Cascade effects:**
 This <eternalistic-error> produces <nihilistic-error> simultaneously—since all is "one," nothing matters. <practice-error> follows as effort is rejected. <pedagogical-error> proliferates as distinctions are discouraged.
 
-<epistemic-error> <practice-error>
+[19239-19251] <epistemic-error> <practice-error>
 **Misreading:**
 The "attachment-free self-liberated kāya" with its extensive negations—"not grasping at appearance, not attached to emptiness"—is interpreted as license for antinomian behavior since nothing needs to be done.
 
@@ -852,7 +852,7 @@ Ethical conduct collapses. Virtue and non-virtue are dismissed as dualistic conc
 **Cascade effects:**
 This <epistemic-error> triggers <pedagogical-error> of the worst kind—students are told "everything is permitted." <practice-error> proliferates as antinomian communities form. <nihilistic-error> spreads as ethics are abandoned.
 
-<ontological-error> <reification-error>
+[19252-19264] <ontological-error> <reification-error>
 **Misreading:**
 The five wisdoms with their specific correlations (dharmadhātu wisdom from kāya's expanse, mirror-like from clarity, etc.) are interpreted as asserting five truly-existing wisdom-entities that arise sequentially from practice.
 
@@ -868,7 +868,7 @@ Wisdom is objectified as achievement. Practitioners seek to "develop" or "manife
 **Cascade effects:**
 This <ontological-error> triggers <practice-error> where wisdom-cultivation becomes goal. <eternalistic-error> follows as wisdoms are reified. <pedagogical-error> proliferates as five-wisdom curriculum is institutionalized.
 
-<ontological-error> <reification-error>
+[19265-19278] <ontological-error> <reification-error>
 **Misreading:**
 The inner and outer lights (*ནང་གསལ་, *ཕྱིར་གསལ་) are interpreted as literal light phenomena—physical radiance that can be seen and cultivated through thodgal practice.
 
@@ -884,7 +884,7 @@ Thodgal becomes light-experience practice. The metaphorical "light" of awareness
 **Cascade effects:**
 This <reification-error> triggers <practice-error>—pressing eyes, staring at light sources. <epistemic-error> follows as students confuse sensation with recognition. <meditationism-error> proliferates.
 
-<ontological-error> <reification-error>
+[19279-19289] <ontological-error> <reification-error>
 **Misreading:**
 The three types of bindu (*ཐིག་ལེ་)—basis-holding, path-appearance, fruition-maturing—are interpreted as literally existing substances or entities that transform through practice, like physical particles that evolve.
 
@@ -900,7 +900,7 @@ Bindu is reified as subtle substance. Practitioners attempt to manipulate, move,
 **Cascade effects:**
 This <reification-error> triggers <practice-error> where bindu-manipulation becomes technique. <eternalistic-error> follows as bindus are treated as truly existent. <pedagogical-error> proliferates as bindu-physiology is taught.
 
-<epistemic-error> <scholarly-collapse-error>
+[19290-19300] <epistemic-error> <scholarly-collapse-error>
 **Misreading:**
 The presentation of bindu as "nature light bindu" and "Samantabhadra bindu" is interpreted through tantric framework—as completion-stage subtle-body practice involving manipulation of sexual essences.
 
@@ -914,9 +914,9 @@ Dzogchen view collapses into tantric completion stage. Thodgal becomes advanced 
 "Unchanging bindu" (*མི་འགྱུར་ཐིག་ལེ་) from *Guhyasamāja* is equated with Dzogchen bindu. Practices from mother tantras are read into Atiyoga. The distinctiveness of Dzogchen is lost.
 
 **Cascade effects:**
-This produces <practice-error> where thodgal requires sexual yoga preparation. <scholarly-collapse-error> follows as texts are conflated. <pedagogical-error> proliferates.
+This [VIEW COLLAPSE] produces <practice-error> where thodgal requires sexual yoga preparation. <scholarly-collapse-error> follows as texts are conflated. <pedagogical-error> proliferates.
 
-<ontological-error> <reification-error>
+[19301-19302] <ontological-error> <reification-error>
 **Misreading:**
 The conventional bindu of cause (*ཀུན་རྫོབ་རྒྱུའི་ཐིག་ལེ་) is interpreted as literal genetic or sexual substance from parents—asserting that enlightenment potential is physically inherited through biological processes.
 

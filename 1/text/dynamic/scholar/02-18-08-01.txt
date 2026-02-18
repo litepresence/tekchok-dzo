@@ -1,27 +1,27 @@
-<concept>
+[4916-4931] <concept>
 Direct Perception: Conventional and Ultimate
-**Close reading:** The section transitions to the second subtopic (*gnys pa*): individual natures. The analysis of *mngon sum* (direct perception) at 4914-4931 presents four types:
+**Analysis:** The section transitions to the second subtopic (*gnys pa*): individual natures. The analysis of *mngon sum* (direct perception) at 4914-4931 presents four types:
 1. **Sense-power direct** (*dbang po'i mngon sum*): Forms, etc., five objects
 2. **Mind direct** (*yid kyi mngon sum*): Object near enjoyment, certain cause
 3. **Self-awareness direct** (*rang rig pa'i mngon sum*): Within pleasure, pain, etc.
 4. **Yogin's direct** (*rnal 'byor gyi mngon sum*): Particular correct awareness, grasp-hold separate
 
-The Yogin's direct is distinguished from the others by its object (*yul*): entry into *de kho na nyid* (thusness/thatness). This shows the *yogipratyaksa* (yogi perception) concept from *Pramana* (epistemology) traditions, particularly Dharmakirti's *Pramanavarttika*.
+The Yogin's direct is distinguished from the others by its object (*yul*): entry into *de kho na nyid* (thusness/thatness). This reflects the *yogipratyaksa* (yogi perception) concept from *Pramana* (epistemology) traditions, particularly Dharmakirti's *Pramanavarttika*.
 
 The citation from *Rnam 'grel* (Pramanavarttika) at 4920-4925 establishes epistemic authority for direct perception, with Longchenpa's commentary adapting pramana theory to Dzogchen realization.
 
-<structural-mapping>
+[4926-4953] <structure>
 Dharmata Direct Perception Analysis
-**Investigation:** The section continues the analysis of dharmata direct perception (*chos nyid mngon sum*), presenting:
+**Analysis:** The section continues the analysis of dharmata direct perception (*chos nyid mngon sum*), presenting:
 1. Ontological location (4926-4928): Awareness' essence in heart
 2. Epistemic certainty (4928-4931): Yogic versus worldly perception
 3. Technical definition (4932-4953): Terminological analysis of *chos nyid*
 
 The structure follows *abhidharma* methodology: establishing the locus (*gnas*), then the distinguishing characteristics (*mtshan nyid*). The phrase *nges tshig* (definitive word) at 4932 marks the transition to etymological analysis.
 
-<grammatical-examination>
+[4926-4953] <philology>
 Terminological Distinctions
-**Examination:** The term *chos nyid* (dharmata) is analyzed through four semantic fields:
+**Analysis:** The term *chos nyid* (dharmata) is analyzed through four semantic fields:
 1. **Samsara-nirvana distinction** (4934-4935): Samsara = *chos* (phenomena); Nirvana = *chos nyid* (dharmata)
 2. **Appearance-emptiness distinction** (4936-4937): Appearance = *chos*; Emptiness = *chos nyid*
 3. **Bondage-liberation distinction** (4938-4939): Without pith = *chos*; With pith, certain liberation = *chos nyid*
@@ -29,27 +29,27 @@ Terminological Distinctions
 
 The final definition (4941) presents the Nyingma non-dual position: both considered non-different (*dbyer med*). The term *mngon sum* (direct) at 4942 is defined as "directly visible to sense-power object" (*dbang po'i spyod yul la dngos su bltar yod*), distinguishing yogic direct perception from ordinary perception.
 
-<doxographical-placement>
+[4926-4953] <context>
 Pramana Theory and Dzogchen Adaptation
-**Consideration:** The section engages with *Pramana* (epistemology) tradition:
+**Analysis:** The section engages with *Pramana* (epistemology) tradition:
 - Distinction between worldly (*'jig rten pa*) and supramundane (*'das pa*) direct perception (4928)
 - Dharmakirti's influence evident in the fourfold direct perception typology
 - Longchenpa's adaptation: "This is called awareness direct" (*'di rig pa'i mngon sum zhes bya*)
 
 The critique of intellect-searching (*yid dpyod*) at 4943-4946 reflects the Dzogchen emphasis on direct recognition over inferential cognition (*rjes dpag*). The citation from *Sdud pa* (Dharmakirti's *Sambandhapariksa* or similar) at 4947-4949 establishes that discriminating awareness cannot find the aggregates' depth, supporting the "objectless" meditation approach.
 
-<concept>
+[4950-4953] <concept>
 Luminous Appearance and Formlessness
-**Philological analysis:** The section presents the ontological status of luminous-clear appearance (*'od gsal gyi snang ba*):
+**Analysis:** The section presents the ontological status of luminous-clear appearance (*'od gsal gyi snang ba*):
 - Not conventionally famous form-possessing (*th snyad la grags pa'i gzugs can min*)
 - Neither subtle particle (*phra ba rdul phran*) nor coarse particular (*rags pa dngos po rang mtshan*)
 - Indestructible by four elements (*'byung bzhi'i gnod pas gzhig cing gzhom du mi rung*)
 
 The form-possessing (*gzugs can*) at 4952 is defined as "possessing the characteristic of form" (*gzugs kyi mtshan nyid de*), i.e., destructible. This establishes luminous appearance as *nimitta* (markless) in the sense of lacking defining characteristics (*mtshan nyid*), while still being perceptible.
 
-<structure>
+[4954-4983] <structure>
 Threefold Enumeration of "Three"
-**Philological Analysis:** The section presents a complex numerological analysis establishing why "three" is the determinate number for direct perception. The structure:
+**Analysis:** The section presents a complex numerological analysis establishing why "three" is the determinate number for direct perception. The structure:
 1. Outer: Three piths establish base (*gzhis gsum gyis gzhis bchas pa*)
 2. Inner: Three paths clear obstacles (*lam gsum gyis geegs bsal ba*)
 3. Secret: Three measures deliver to measure (*tshad gsum gyis tshad la phab pa*)
@@ -57,9 +57,9 @@ Threefold Enumeration of "Three"
 
 Each level uses *gsum* (three) with different referents, creating a hermeneutical spiral that reinforces the triadic structure.
 
-<philology>
+[4954-4971] <philology>
 Enumerative Logic and Negative Determination
-**Cross-Textual Note:** The section uses *rtags* (sign/reason) logic to establish determinations:
+**Analysis:** The section uses *rtags* (sign/reason) logic to establish determinations:
 - Base: Three piths → no difference in entity (*dngos po la tha dad med pa*)
 - Path: Three paths → no near-far in going path (*'gro lam la nye ring med pa*)
 - Measure: Three measures → no similar-different-random (*'dra min dang chal chol med pa*)
@@ -67,9 +67,9 @@ Enumerative Logic and Negative Determination
 
 The negative determinations (*med pa*) establish the *apophatic* (via negativa) character of Dzogchen realization. The term *gsum tshig* (three group) at 4963 indicates the grammatical structure: three items grouped as four determinations.
 
-<context>
+[4954-4983] <context>
 Integration of Practice and Result
-**Technical Examination:** The text presents the correspondence between ordinary and yogic experience:
+**Analysis:** The text presents the correspondence between ordinary and yogic experience:
 | Ordinary | Yogic |
 |----------|-------|
 | Pleasant (*dga'*) | Dharmata direct (*chos nyid mngon sum*) |
@@ -87,9 +87,9 @@ The definition of vision at 4979-4981 uses threefold structure:
 - Whatever field, dhatu dawns  
 - Whatever manner, light-light-house-awareness hanging-cord dawns
 
-<concept>
+[4974-4983] <concept>
 Dharmata Self-Exhaustion
-**Investigation:** The section presents the *chos nyid zad pa* (dharmata exhausting) as the culmination:
+**Analysis:** The section presents the *chos nyid zad pa* (dharmata exhausting) as the culmination:
 1. Pith without intellect-word addition (*yid dpyod tshig gi sgro 'dogs su med pa*)
 2. Habituation: Three bodies' light-point, delusion self-ceases
 3. Measure-arriving: Direct seeing of clear-empty-pleasure three
@@ -97,9 +97,9 @@ Dharmata Self-Exhaustion
 
 The phrase *gsum zhes grangs kyi gnas gzhan la brten nas* (4978) indicates that "three" is a conventional enumeration relying on other bases, but the fruit liberates simultaneously (*cig car*). This reflects the *ekaksana* (one-instant) liberation teaching of the *Prajnaparamita*.
 
-<structure>
+[4984-5011] <structure>
 Essence, Definition, and Purpose
-**Detailed Analysis:** The section presents the classical *mtshan nyid* (definition) structure for dharmata direct perception:
+**Analysis:** The section presents the classical *mtshan nyid* (definition) structure for dharmata direct perception:
 1. Essence (*ngo bo*) at 4984-4991: Unborn direct, object-pure vision
 2. Definition (*nges tshig*) at 4992-4997: Seeing three bodies' vision, arriving at field-realm
 3. Purpose (*dgos pa*) at 4998-5002: Liberation without obstacle
@@ -107,9 +107,9 @@ Essence, Definition, and Purpose
 
 This mirrors the *laksana* (characteristic), *vyakti* (definition), and *prayojana* (purpose) structure from Indian philosophical texts.
 
-<philology>
+[4984-5011] <philology>
 Scriptural Citations and Technical Definitions
-**Investigation:** Multiple scriptural sources are cited:
+**Analysis:** Multiple scriptural sources are cited:
 - *Yi ge med pa* (Letterless): Unborn direct, object-pure (4984-4987)
 - *Sgyu 'phrul* (Maya): Jewel, desire, glory—all buddhas' direct (4988-4991)
 - *Rin po che rnam par brtsegs pa'i rgyud* (Ratnakuta): Direct = seeing; three = three bodies (4993-4997)
@@ -118,18 +118,18 @@ Scriptural Citations and Technical Definitions
 
 The definition at 4992 uses *mtshan nyid* (definition) in the technical sense: seeing three bodies' vision (*sku gsum gyi snang ba mthong ba*). The term *rgyang zhags* (rope/snare) at 5004 appears in Dzogchen as a metaphor for immovable awareness.
 
-<context>
+[4984-5034] <context>
 Multiple Tantric Sources
-**Philological Analysis:** The section integrates sources from various classes:
+**Analysis:** The section integrates sources from various classes:
 - *Atiyoga* (*Yi ge med pa*, *Thal 'gyur*): Highest yoga
 - *Yoga tantra* (*Sgyu 'phrul drva ba*): Illusion Net
 - *Sutra* (*Rin po che brtsegs pa*): Ratnakuta collection
 
 This reflects Longchenpa's encyclopedic approach, integrating sources across the *nine vehicles* (*theg pa dgu*). The voice alternates between citation and commentary, with *zhes so* marking quotations and *zhes bya* marking definitional statements.
 
-<concept>
+[5012-5034] <concept>
 Vision Characteristics and Practice Methods
-**Investigation:** The section presents the characteristics (*mtshan nyid*) of dharmata direct perception vision:
+**Analysis:** The section presents the characteristics (*mtshan nyid*) of dharmata direct perception vision:
 
 1. From *Thal 'gyur* (5013-5017):
    - Exits certainly from sense-power gate

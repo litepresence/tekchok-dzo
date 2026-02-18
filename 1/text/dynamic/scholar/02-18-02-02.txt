@@ -1,10 +1,10 @@
-<structure>
+[4401-4405] <structure>
 Second Category: Liberation Through Realization of Suchness
-**Examination:** This passage addresses the second category of liberation instruction - the direct realization of Suchness (*de bzhin nyid*) leading to liberation. The structure employs a simile from worldly experience (the weaver's knot) to illustrate the paradoxical nature of spiritual liberation: just as a knot is released through understanding its mechanism, so liberation comes through recognizing the nature of things. This is a key Dzogchen teaching on the nature of liberation.
+**Analysis:** This passage addresses the second category of liberation instruction - the direct realization of Suchness (*de bzhin nyid*) leading to liberation. The structure employs a simile from worldly experience (the weaver's knot) to illustrate the paradoxical nature of spiritual liberation: just as a knot is released through understanding its mechanism, so liberation comes through recognizing the nature of things. This is a key Dzogchen teaching on the nature of liberation.
 
-<philology>
+[4401-4403] <philology>
 Philological Analysis of the Simile
-**Consideration:** The Tibetan terms require careful parsing:
+**Analysis:** The Tibetan terms require careful parsing:
 - *De nyid rtogs nas grol ba* (liberation through realizing Suchness) - the main doctrinal statement
 - *Ling 'de'u'i mu* (weaver's knot) - a specific type of knot used in Tibetan weaving
 - *Shes pas* (through knowing) - instrumental case indicating the means
@@ -15,9 +15,9 @@ The weaver's knot (*mu* or *mdud pa*) is a particularly apt metaphor:
 - But when one understands its mechanism, it easily releases
 - Similarly, the apparent complexity of samsara dissolves through recognizing its nature
 
-<doxographical-placement>
+[4401-4403] <context>
 Liberation as Recognition, Not Creation
-**Close reading:** This passage teaches a key Dzogchen doctrine:
+**Analysis:** This passage teaches a key Dzogchen doctrine:
 - Liberation is not something achieved through effort
 - It is the recognition of what has always been the case
 - The "knot" of confusion is not destroyed but seen through
@@ -29,7 +29,7 @@ This reflects the "self-liberation" (*rang grol*) principle:
 
 [4404] <philology>
 Philological Analysis of Wisdom Eye
-**Philological Analysis:** The second half addresses the moment of recognition:
+**Analysis:** The second half addresses the moment of recognition:
 - *Shes rab kyi mig* (eye of sublime wisdom) - the faculty of insight
 - *Mthong na* (when seen) - the moment of direct perception
 - *Skad cig dang po la* (in the first instant) - the initial moment of recognition
@@ -42,7 +42,7 @@ This describes the nature of direct realization:
 
 [4404] <concept>
 The Nature of Wisdom Eye Realization
-**Philological Analysis:** The "eye of sublime wisdom" (*shes rab kyi mig*) refers to:
+**Analysis:** The "eye of sublime wisdom" (*shes rab kyi mig*) refers to:
 - The faculty of discriminating awareness (*so so rang rig pa*)
 - The ability to see the nature of phenomena directly
 - What in Dzogchen is called *rig pa* (awareness)
@@ -54,7 +54,7 @@ The "first instant" (*skad cig dang po*) indicates:
 
 [4405] <context>
 Subtle Channels and Direct Realization
-**Structural Mapping:** The second point addresses the subtle body (*rtsa rlung*):
+**Analysis:** The second point addresses the subtle body (*rtsa rlung*):
 - *Rlu rgyud kyi mtshan nyid* (characteristic signs of subtle channels) - the energetic structures
 - *Mngon du rtogs* (directly realized) - immediate, non-mediated recognition
 
@@ -63,9 +63,9 @@ This indicates:
 - The practitioner sees through the apparent substantiality of channels
 - This is the integration of Anuyoga and Atiyoga - working with energy while recognizing its empty nature
 
-<concept>
+[4401-4405] <concept>
 Doctrinal Synthesis
-**Close Reading:** This passage synthesizes several key teachings:
+**Analysis:** This passage synthesizes several key teachings:
 1. **Suchness realization** - the nature of all phenomena
 2. **Simile of the knot** - liberation through understanding mechanism
 3. **Wisdom eye** - the faculty of direct recognition

@@ -1,4 +1,4 @@
-<session-extension-obsession> <thun-bskyed-yun-bsrings>
+[5035-5037] <session-extension-obsession> <thun-bskyed-yun-bsrings>
 
 **Misreading:**
 The instruction to extend sessions and duration (*thun bskyed yun bsrings*) interpreted as longer meditation being better, creating time-quantification fixation.
@@ -11,14 +11,14 @@ Time-obsession: equating length with depth. Natural recognition obscured by cloc
 
 **Secondary consequences:**
 - "I must sit for hours" compulsion
-- Failing to recognize that recognition is timeless
+- Missing that recognition is timeless
 - Physical strain from forcing long sessions
 - Pride in "sitting all night"
 
 **Cascade effects:**
-<session-extension-obsession> triggers <time-quantification> [clock-watching] leads to <duration-pride> [length as achievement] leads to <natural-timelessness-miss> [recognition outside duration]
+<session-extension-obsession> → <time-quantification> [clock-watching] → <duration-pride> [length as achievement] → <natural-timelessness-miss> [recognition outside duration]
 
-<expanse-rigpa-containment> <dbyings-rig-bzhag>
+[5037-5042] <expanse-rigpa-containment> <dbyings-rig-bzhag>
 
 **Misreading:**
 Placing rigpa in the expanse (*dbyings kyis rig pa'i rang yul byed*) interpreted as putting awareness somewhere specific, creating localization.
@@ -31,17 +31,17 @@ Rigpa-localization: treating awareness as object in space. Natural non-locality 
 
 **Secondary consequences:**
 - "I put my rigpa in the expanse"
-- Overlooking that expanse and rigpa are inseparable
+- Missing that expanse and rigpa are inseparable
 - Reifying dbyings as container
 - Location-fixation
 
 **Cascade effects:**
-<rigpa-containment> triggers <obscuration>
+<rigpa-containment> → <localization> [placing awareness] → <container-reification> [dbyings as vessel] → <natural-non-locality-miss> [nowhere and everywhere]
 
-<vajra-chain-binding> <rdo-rje-lu-gu-rgyud>
+[5042-5050] <vajra-chain-binding> <rdo-rje-lu-gu-rgyud>
 
 **Misreading:**
-The vajra chain (*rdo rje lu gu rgyud*) simile interpreted as bondage or constraint to escape, rather than than inseparability of expanse and awareness.
+The vajra chain (*rdo rje lu gu rgyud*) simile interpreted as bondage or constraint to escape, rather than inseparability of expanse and awareness.
 
 **Why it arises:**
 "Chain" suggests imprisonment. Binding implies restriction. Freedom-seeking mentality.
@@ -51,14 +51,14 @@ Chain-aversion: seeing vajra chain as obstacle. Natural inseparability obscured 
 
 **Secondary consequences:**
 - "I must break the vajra chain"
-- What's missed: that chain represents non-separation
+- Missing that chain represents non-separation
 - Reifying bondage as problem
 - Liberation-fantasy from chain
 
 **Cascade effects:**
-<vajra-chain-binding> triggers <bondage-aversion> [seeing constraint] triggers <separation-desire> [wanting freedom] → <natural-inseparability-miss> [never bound]
+<vajra-chain-binding> → <bondage-aversion> [seeing constraint] → <separation-desire> [wanting freedom] → <natural-inseparability-miss> [never bound]
 
-<result-achievement-arrival> <bras-bu-thob-pa>
+[5043-5062] <result-achievement-arrival> <bras-bu-thob-pa>
 
 **Misreading:**
 The result (*bras bu*) of dissolution into dharmadhatu interpreted as final destination reached, creating arrival-complacency.
@@ -71,14 +71,14 @@ Arrival-pride: believing one has reached the goal. Natural non-arrival obscured 
 
 **Secondary consequences:**
 - "I attained the result"
-- What's missed: that result is recognition, not destination
+- Missing that result is recognition, not destination
 - Reifying buddhahood as place arrived at
 - Spiritual materialism of attainment
 
 **Cascade effects:**
-<result-achievement-arrival> leads to <arrival-pride> [reaching endpoint] → <attainment-materialism> [having result] → <natural-non-arrival-miss> [never traveled]
+<result-achievement-arrival> → <arrival-pride> [reaching endpoint] → <attainment-materialism> [having result] → <natural-non-arrival-miss> [never traveled]
 
-<external-expanse-visual-fixation> <phyi-dbyings-mi-gyur>
+[5044-5050] <external-expanse-visual-fixation> <phyi-dbyings-mi-gyur>
 
 **Misreading:**
 "External expanse, eyes unmoving" (*phyi dbyings snang la mig mi gyur*) interpreted as visual fixation technique - staring at space.
@@ -91,14 +91,14 @@ Staring-obsession: forcing eyes still. Natural seeing obscured by fixation.
 
 **Secondary consequences:**
 - Eye strain from forced stillness
-- Unrecognized: that unmoving is non-wandering, not fixation
+- Missing that unmoving is non-wandering, not fixation
 - Reifying technique as cause
 - Discomfort mistaken for practice
 
 **Cascade effects:**
-<visual-fixation> leads to <staring-compulsion> [forcing stillness] → <eye-strain> [physical tension] → <natural-seeing-miss> [non-wandering not fixation]
+<visual-fixation> → <staring-compulsion> [forcing stillness] → <eye-strain> [physical tension] → <natural-seeing-miss> [non-wandering not fixation]
 
-<wisdom-sky-dissolution> <ye-shes-nam-mkhar-thim>
+[5047-5050] <wisdom-sky-dissolution> <ye-shes-nam-mkhar-thim>
 
 **Misreading:**
 Wisdom dissolving into sky of wisdom-space (*ye shes kyi nam mkha dbyings kyi nam mkha la thim*) interpreted as special sky-meditation experience.
@@ -111,14 +111,14 @@ Sky-experience-chasing: pursuing vast dissolution visions. Natural dissolution o
 
 **Secondary consequences:**
 - "I dissolved into the wisdom sky"
-- Not seeing that dissolution is nature, not experience
+- Missing that dissolution is nature, not experience
 - Reifying sky as special state
 - Vastness-fetish
 
 **Cascade effects:**
-<wisdom-sky-dissolution> leads to <sky-experience-chasing> [vastness pursuit] → <phenomenon-hunting> [seeking dissolution] → <natural-dissolution-miss> [always dissolving]
+<wisdom-sky-dissolution> → <sky-experience-chasing> [vastness pursuit] → <phenomenon-hunting> [seeking dissolution] → <natural-dissolution-miss> [always dissolving]
 
-<primordial-purity-unmoving-pride> <ka-dag-ma-gyos>
+[5048-5049] <primordial-purity-unmoving-pride> <ka-dag-ma-gyos>
 
 **Misreading:**
 "Primordially pure rigpa unmoving in expanse" interpreted as special achievement of stability, creating unmoving-pride.
@@ -131,14 +131,14 @@ Stability-pride: boasting of unmoving rigpa. Natural stability obscured by achie
 
 **Secondary consequences:**
 - "My rigpa never moves"
-- What's missed: that unmoving is nature, not accomplishment
+- Missing that unmoving is nature, not accomplishment
 - Reifying stability as quality gained
 - Comparison with "moving" practitioners
 
 **Cascade effects:**
-<unmoving-pride> leads to <stability-achievement> [never moving] → <superiority-complex> [better than others] → <natural-stability-miss> [never was moving]
+<unmoving-pride> → <stability-achievement> [never moving] → <superiority-complex> [better than others] → <natural-stability-miss> [never was moving]
 
-<three-realms-annihilation-fantasy> <srid-gsum-gdar-sha>
+[5049-5062] <three-realms-annihilation-fantasy> <srid-gsum-gdar-sha>
 
 **Misreading:**
 "Three realms become corpse of nameless empty husk" (*srid gsum gdar sha chod*) interpreted as literal destruction or violent ending of samsara.
@@ -156,9 +156,9 @@ Annihilation-fantasy: destructive liberation imagery. Natural emptiness obscured
 - Aggressive spirituality
 
 **Cascade effects:**
-<three-realms-annihilation> leads to <ground-ignored>
+<three-realms-annihilation> → <violent-imagery> [destructive fantasy] → <aggressive-spirituality> [hating samsara] → <natural-emptiness-miss> [peaceful dissolution]
 
-<dharmata-direct-pointing-achievement> <chos-nyid-mngon-sum-gnad>
+[5050-5062] <dharmata-direct-pointing-achievement> <chos-nyid-mngon-sum-gnad>
 
 **Misreading:**
 "Dharmata direct, point of seeing" (*chos nyid mngon sum gnad*) interpreted as special direct perception achieved, creating seeing-pride.
@@ -176,9 +176,9 @@ Direct-perception-pride: believing one sees reality directly. Natural directness
 - Elitism about "direct" vs "indirect"
 
 **Cascade effects:**
-<direct-pointing-achievement> creates <seeing-pride> [direct perception] → <special-access-elitism> [privileged seeing] → <natural-directness-miss> [always direct]
+<direct-pointing-achievement> → <seeing-pride> [direct perception] → <special-access-elitism> [privileged seeing] → <natural-directness-miss> [always direct]
 
-<seeing-knowledging-recognizing-sequence> <mthong-shes-rtogs>
+[5051-5054] <seeing-knowledging-recognizing-sequence> <mthong-shes-rtogs>
 
 **Misreading:**
 The sequence "seeing, knowing, recognizing, liberated" (*mthong shes rtogs grol*) interpreted as progressive stages to achieve, creating step-collecting.
@@ -196,9 +196,9 @@ Step-accumulation: treating four as checklist. Natural simultaneity obscured by 
 - Stage-hopping anxiety
 
 **Cascade effects:**
-<four-step-sequence> triggers <step-accumulation> [checking off] → <stage-anxiety> [not there yet] → <natural-simultaneity-miss> [all at once]
+<four-step-sequence> → <step-accumulation> [checking off] → <stage-anxiety> [not there yet] → <natural-simultaneity-miss> [all at once]
 
-<liberation-as-event> <grol-bkrol>
+[5055-5058] <liberation-as-event> <grol-bkrol>
 
 **Misreading:**
 "Liberated" (*grol*) distinguished from "explained/liberated by words" (*bkrol*) interpreted as two different types of liberation to debate.
@@ -216,9 +216,9 @@ Liberation-taxonomy: categorizing types of freedom. Natural liberation obscured 
 - Semantic debate
 
 **Cascade effects:**
-<liberation-taxonomy> → <obscuration>
+<liberation-taxonomy> → <classification-obsession> [types of freedom] → <semantic-debate> [word analysis] → <natural-liberation-miss> [beyond categories]
 
-<markless-partless-reification> <ris-med-cha-shas>
+[5058-5062] <markless-partless-reification> <ris-med-cha-shas>
 
 **Misreading:**
 "Without marks, without parts" (*ris med cha shas*) interpreted as special state of undifferentiated void, creating blankness-fetish.
@@ -236,9 +236,9 @@ Blankness-fetish: pursuing undifferentiated state. Natural marklessness obscured
 - Dissociation as practice
 
 **Cascade effects:**
-<markless-reification> creates <blankness-fetish> [undifferentiated void] → <dissociation-practice> [spacing out] → <natural-marklessness-miss> [clear without marks]
+<markless-reification> → <blankness-fetish> [undifferentiated void] → <dissociation-practice> [spacing out] → <natural-marklessness-miss> [clear without marks]
 
-<experience-enhancement-accumulation> <nyams-gong-phel>
+[5063-5068] <experience-enhancement-accumulation> <nyams-gong-phel>
 
 **Misreading:**
 "Experience enhancement" (*nyams gong 'phel*) interpreted as accumulating better and better experiences, creating spiritual-materialism.
@@ -256,9 +256,9 @@ Experience-accumulation: collecting improved nyams. Natural display obscured by 
 - Comparison with previous experiences
 
 **Cascade effects:**
-<experience-enhancement> leads to <awareness-overlooked>
+<experience-enhancement> → <accumulation-mentality> [collecting nyams] → <comparison-compulsion> [better vs worse] → <natural-display-miss> [nyams as self-liberated]
 
-<expanse-rigpa-cord-union> <dbyings-rig-lu-gu-rgyud>
+[5065-5068] <expanse-rigpa-cord-union> <dbyings-rig-lu-gu-rgyud>
 
 **Misreading:**
 The cord (*lu gu rgyud*) between expanse and rigpa interpreted as connection needing maintenance, creating union-preservation anxiety.
@@ -276,9 +276,9 @@ Union-anxiety: worrying about maintaining connection. Natural inseparability obs
 - Fear of separation
 
 **Cascade effects:**
-<cord-union-anxiety> generates <nature-missed>
+<cord-union-anxiety> → <connection-maintenance> [preserving union] → <separation-fear> [losing connection] → <natural-inseparability-miss> [never separate]
 
-<clear-light-mother-son-merger> <od-gsal-ma-bu-dres>
+[5067-5068] <clear-light-mother-son-merger> <od-gsal-ma-bu-dres>
 
 **Misreading:**
 Clear light mother-son merging (*od gsal ma bu 'dres*) interpreted as special experience of union to achieve, creating merger-fantasy.
@@ -296,9 +296,9 @@ Merger-seeking: pursuing mother-son union experience. Natural non-duality obscur
 - Oedipal projection
 
 **Cascade effects:**
-<merger-fantasy> creates <union-experience-chasing> [mother-son event] → <oedipal-projection> [relational spirituality] → <natural-non-duality-miss> [always merged]
+<merger-fantasy> → <union-experience-chasing> [mother-son event] → <oedipal-projection> [relational spirituality] → <natural-non-duality-miss> [always merged]
 
-<experience-appearance-multiplication> <nyams-snang-gong-phel>
+[5070-5075] <experience-appearance-multiplication> <nyams-snang-gong-phel>
 
 **Misreading:**
 Experiences and appearances enhancing/progressing (*nyams snang gong 'phel*) interpreted as goal to multiply visions and experiences.
@@ -316,9 +316,9 @@ Multiplication-obsession: seeking more and more nyams. Natural sufficiency obscu
 - Never-enough syndrome
 
 **Cascade effects:**
-<multiplication-obsession> leads to <abundance-seeking> [more nyams] → <never-enough> [insatiability] → <natural-sufficiency-miss> [enough already present]
+<multiplication-obsession> → <abundance-seeking> [more nyams] → <never-enough> [insatiability] → <natural-sufficiency-miss> [enough already present]
 
-<wisdom-color-externalization> <ye-shes-kha-dog>
+[5071-5074] <wisdom-color-externalization> <ye-shes-kha-dog>
 
 **Misreading:**
 Wisdom colors appearing externally (*ye shes kha dog phyir byung*) interpreted as external light phenomena to perceive, creating color-chasing.
@@ -336,9 +336,9 @@ Color-chasing: pursuing chromatic visions. Natural luminosity obscured by hue-hu
 - Disappointment without colors
 
 **Cascade effects:**
-<color-externalization> → <ground-ignored>
+<color-externalization> → <chromatic-chasing> [color pursuit] → <vision-signs> [colors as progress] → <natural-luminosity-miss> [light without color]
 
-<upright-standing-spokes-rising> <gyen-greng-rtsibs-shar>
+[5072-5074] <upright-standing-spokes-rising> <gyen-greng-rtsibs-shar>
 
 **Misreading:**
 The description of rising vertically and spokes appearing (*gyen 'greng rtsibs shar*) interpreted as specific visionary architecture to construct.
@@ -356,9 +356,9 @@ Architecture-fantasy: building visionary structures. Natural appearance obscured
 - Blueprint-meditation
 
 **Cascade effects:**
-<architecture-fantasy> triggers <obscuration>
+<architecture-fantasy> → <form-construction> [building visions] → <blueprint-meditation> [following specs] → <natural-appearance-miss> [spontaneous display]
 
-<bindu-form-body-variety> <thig-le-sku-sna-tshogs>
+[5073-5074] <bindu-form-body-variety> <thig-le-sku-sna-tshogs>
 
 **Misreading:**
 Various bindu forms as bodies (*thig le sna tshogs sku nyid du*) interpreted as collecting different bindu visions, creating form-accumulation.
@@ -378,7 +378,7 @@ Bindu-collection: gathering different thig le visions. Natural bindu obscured by
 **Cascade effects:**
 <bindu-collection> → <form-accumulation> [gathering thig le] → <variety-seeking> [different types] → <natural-bindu-miss> [one bindu many forms]
 
-<coarse-appearance-objectification> <rags-par-snang>
+[5074-5075] <coarse-appearance-objectification> <rags-par-snang>
 
 **Misreading:**
 "Appearing coarsely" (*rags par snang*) interpreted as impure denser state to refine, creating purification-project.
@@ -396,9 +396,9 @@ Refinement-project: trying to purify coarse appearances. Natural coarseness obsc
 - Rejection of ordinary
 
 **Cascade effects:**
-<coarse-refinement> leads to <purification-project> [polishing visions] → <ordinary-rejection> [coarse as bad] → <natural-coarseness-miss> [coarse is display]
+<coarse-refinement> → <purification-project> [polishing visions] → <ordinary-rejection> [coarse as bad] → <natural-coarseness-miss> [coarse is display]
 
-<experience-worldly-transcendent-duality> <nyams-jig-rten-das>
+[5077-5081] <experience-worldly-transcendent-duality> <nyams-jig-rten-das>
 
 **Misreading:**
 Worldly experiences vs transcendent experiences (*'jig rten pa'i nyams* vs *'das pa'i nyams*) interpreted as hierarchy where worldly is lesser.
@@ -418,7 +418,7 @@ Experience-hierarchy: ranking nyams by type. Natural equality obscured by compar
 **Cascade effects:**
 <experience-hierarchy> → <worldly-transcendent-dualism> [ranking nyams] → <world-rejection> [ordinary as bad] → <natural-equality-miss> [all nyams same nature]
 
-<samadhi-pleasure-attachment> <ting-dzin-dga-bde>
+[5079-5083] <samadhi-pleasure-attachment> <ting-dzin-dga-bde>
 
 **Misreading:**
 Samadhi bliss/pleasure (*ting nge 'dzin gyis thob pa'i dga' bde*) interpreted as meditative pleasure to pursue, creating bliss-chasing.
@@ -436,9 +436,9 @@ Bliss-chasing: pursuing meditative pleasure. Natural bliss obscured by sensation
 - Addiction to positive states
 
 **Cascade effects:**
-<bliss-chasing> leads to <hedonic-spirituality> [pleasure pursuit] → <positive-state-addiction> [need bliss] → <natural-bliss-miss> [bliss not sensation]
+<bliss-chasing> → <hedonic-spirituality> [pleasure pursuit] → <positive-state-addiction> [need bliss] → <natural-bliss-miss> [bliss not sensation]
 
-<desire-song-dance-expression> <snying-dod-glu-gar>
+[5081-5083] <desire-song-dance-expression> <snying-dod-glu-gar>
 
 **Misreading:**
 Desire for song and dance (*snying 'dod glu gar*) interpreted as spiritual expression to indulge, creating aesthetic-spirituality.
@@ -456,9 +456,9 @@ Aesthetic-indulgence: using spirituality for artistic expression. Natural expres
 - Performance-ego
 
 **Cascade effects:**
-<aesthetic-spirituality> triggers <artistic-indulgence> [creative expression] → <performance-ego> [identity as artist] → <natural-expression-miss> [expression without performer]
+<aesthetic-spirituality> → <artistic-indulgence> [creative expression] → <performance-ego> [identity as artist] → <natural-expression-miss> [expression without performer]
 
-<initial-middle-final-familiarity> <tho-mar-bar-mthar-goms>
+[5081-5084] <initial-middle-final-familiarity> <tho-mar-bar-mthar-goms>
 
 **Misreading:**
 Familiarity at beginning, middle, and end (*tho ma bar dang mthar goms pa*) interpreted as progressive development through stages.

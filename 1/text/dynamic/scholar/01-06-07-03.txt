@@ -1,4 +1,4 @@
-<historical-context>
+[8725-8755] <context>
 View Stabilization and Physical Postures
 
 **View Integration:**
@@ -22,7 +22,7 @@ Refined bodhicitta arriving at holding measure—channels spread, body-mind non-
 - Waist held: Saṃbhogakāya bliss experienced
 - Tip held: Nirmāṇakāya bliss experienced
 
-<concept>
+[8725-8755] <concept>
 Postures, Signs, and Benefits
 
 **Postures for Channel Mouth Sealing:**
@@ -63,7 +63,7 @@ This certainly accomplishes."
 **Holding Measure:**
 Bindu falling into bhaga but wind-power returning to mother's bindu—not escaping measure.
 
-<linguistic-analysis>
+[8725-8728] <philology>
 Ordinal Enumeration and Definitive Markers
 
 The five stages employ systematic enumeration:
@@ -74,7 +74,7 @@ The five stages employ systematic enumeration:
 
 The construction "dus" (time/moment) marks the temporal progression: "sems dang ye shes 'khrug pa'i dus" (the time of mind-wisdom disturbance).
 
-<concept>
+[8725-8728] <concept>
 Progressive and Simultaneous Unification
 
 Two modes of thigle practice:
@@ -91,9 +91,9 @@ Both lead to phyag rgya chen po (great mudra) realization.
 
 ---
 
-<architectural-analysis> Five Stages of Blissful Wisdom Development
+<structure> Five Stages of Blissful Wisdom Development
 
-<grammatical-examination>
+[8725-8728] <philology>
 Mudra Classification Terminology
 
 The four mudras employ technical vocabulary:
@@ -104,7 +104,7 @@ The four mudras employ technical vocabulary:
 
 The particle "ni" defines: "phyag rgya chen po zhes bya'o" (is called great mudra). The causal "bas" indicates reason for liberation.
 
-<concept>
+[8725-8728] <concept>
 Three-fold Release System
 
 The complete release operates through three dimensions:
@@ -126,7 +126,7 @@ The complete release operates through three dimensions:
 
 Page 205 presents the three-syllable generation of vajra body-speech-mind, the four mudras system, and the three-fold thigle release with its indicators. Philologically, the text employs systematic causative constructions, perfective aspect markers, and resultative particles. Contextual sources include Guhyasamaja Tantra, Hevajra, Cakrasamvara, and Thalgyur root text. Conceptually, the section demonstrates how syllable generation creates three-vajra architecture, how mudra practice progresses from action to non-dual realization, and how thigle refinement generates external, internal, and secret signs of accomplishment corresponding to the three kayas.
 
-<doxographical-placement>
+[8725-8748] <context>
 Kalachakra and Hevajra Bliss Systems
 
 The five bliss stages correspond to:
@@ -138,7 +138,7 @@ The five bliss stages correspond to:
 
 These align with Kalachakra's progressive dissolution and Hevajra's four joys expanded to five.
 
-<concept>
+[8725-8728] <concept>
 Obstruction Removal Through Posture
 
 Each posture removes specific obstructions:
@@ -156,9 +156,9 @@ Each posture removes specific obstructions:
 
 ---
 
-<structural-mapping> Wind Control and Channel Opening
+<structure> Wind Control and Channel Opening
 
-<concept>
+[8725-8748] <concept>
 Lower Gate Control and Wisdom Generation
 
 The tigress posture specifically targets:
@@ -171,9 +171,9 @@ The posture reverses ordinary downward flow, creating upward momentum for wind a
 
 ---
 
-<architectural-analysis> Benefits of Bodhicitta Refinement
+<structure> Benefits of Bodhicitta Refinement
 
-<linguistic-analysis>
+[8725-8726] <philology>
 Wind Direction and Perception Verbs
 
 The wind practices employ directional verbs:
@@ -184,7 +184,7 @@ The wind practices employ directional verbs:
 
 The particle "ni" marks result: "rlung nang du 'then pas snang ba'i skye tshul mthon pa" (drawing wind inward reveals how appearances arise). The instrumental "pas" indicates means.
 
-<concept>
+[8725-8742] <concept>
 Progressive Non-dual Recognition
 
 The stages trace wisdom development:
@@ -202,12 +202,12 @@ This progression mirrors:
 
 <structure> View Stabilization and Three Kaya Ground
 
-<structure>
+[8725-8726] <structure>
 Guru-Disciple Transmission and Three Vajra Integration
 
 This section presents the completion of guru-disciple transmission through three-fold integration of body, speech, and mind. The structure moves from sequential mixing to simultaneous recognition, establishing the mechanism for complete blessing transmission (byin rlabs).
 
-<historical-context>
+[8725-8740] <context>
 Four Empowerments and Adhisthana
 
 The three-fold integration corresponds to:
@@ -222,7 +222,7 @@ This follows:
 - Hevajra: Catur-abhisheka
 - Nyingma: Dbang bzhi with Atiyoga additions
 
-<concept>
+[8725-8755] <concept>
 Integration of Method and Wisdom
 
 The final section presents the integration of:
@@ -245,12 +245,12 @@ The structure follows:
 
 Key tantric sources include Guhyagarbha Tantra, Hevajra Tantra, Thalgyur Root Tantra (kun 'byed rgyal po), and Cakrasamvara traditions adapted into Nyingma presentation.
 
-<structure>
+[8725-8754] <structure>
 Completion of Empowerment and Invisibility Methods
 
 This section presents the completion of third empowerment (dbang gsum pa) difficulties and methods for rendering the consort invisible (mi mthong ba) through ritual substances (rdzas) and dependent connection (rten 'brel). The structure moves from empowerment completion to advanced practices, establishing the boundaries of proper conduct.
 
-<philology>
+[8725-8746] <philology>
 Empowerment Completion and Invisibility Terms
 
 The text employs protective vocabulary:
@@ -262,7 +262,7 @@ The text employs protective vocabulary:
 
 The particle "ni" marks completion: "de dag gis dbang gsum pa'i rtogs dka' ba'i gnas bshad pa" (by these, the difficult-to-realize points of third empowerment are explained). The emphatic "ste" marks elaboration.
 
-<context>
+[8727-8752] <context>
 Prana-Vayu and Clear Light
 
 The wind practices correspond to:
@@ -276,7 +276,7 @@ Specific winds:
 - Thur sel (downward-clearing): Downward movement
 - Me mnyam (equalizing fire): Balanced heat
 
-<context>
+[8729-8754] <context>
 Hevajra and Kalachakra Bliss Stages
 
 The five bliss stages correspond to:
@@ -288,7 +288,7 @@ The five bliss stages correspond to:
 
 These align with Kalachakra (dus 'khor) five-fold bliss system mapped onto completion stage.
 
-<philology>
+[8729-8754] <philology>
 Ordinal Enumeration and Temporal Markers
 
 The five stages employ systematic ordering:
@@ -299,7 +299,7 @@ The five stages employ systematic ordering:
 
 The construction "ni...ste" marks definition and elaboration.
 
-<context>
+[8729-8754] <context>
 Hevajra and Kalachakra Mudra Systems
 
 The four mudras derive from:
@@ -309,7 +309,7 @@ The four mudras derive from:
 
 The progression from las to chos to chen po mirrors the four empowerments (dbang bzhi).
 
-<philology>
+[8729-8754] <philology>
 Wind and Channel Action Verbs
 
 The wind practices employ directional verbs:
@@ -320,7 +320,7 @@ The wind practices employ directional verbs:
 
 The particle "ni" marks technique: "rlung yur 'then mar phul ba'i gnad kyis tshod bzung" (the essential point of wind upward-draw-downward-send measures and holds). The instrumental "gyis" indicates control.
 
-<concept>
+[8741-8766] <concept>
 Progressive Identification Process
 
 The integration proceeds through:
@@ -345,7 +345,7 @@ Result: Complete byin rlabs (blessing) transfer.
 
 <structure> Mantra Integration and Energetic Communication
 
-<philology>
+[8743-8768] <philology>
 Stabilization and Attainment Terminology
 
 The text employs achievement vocabulary:
@@ -357,7 +357,7 @@ The text employs achievement vocabulary:
 
 The construction: "sku gsum po'i sa la gshegs" (gone to the ground of three kayas). The emphatic "ni" marks definitive attainment.
 
-<context>
+[8747-8769] <context>
 Third Empowerment and Conduct Boundaries
 
 The third empowerment (gsang dbang/ye shes shes rab dbang) represents:
@@ -371,7 +371,7 @@ The section emphasizes:
 - Rang gi yul (one's own place): Proper return
 - Gsang ba chen po: Extremely secret meaning
 
-<concept>
+[8749-8769] <concept>
 From Effort to Beyond Effort
 
 The stages trace a progression:
@@ -386,7 +386,7 @@ This mirrors Dzogchen's four visions (snang ba bzhi) or trekchö (khregs chod) p
 
 <structure> View Stabilization and Three Kaya Ground
 
-<philology>
+[8749-8769] <philology>
 Accomplishment and Capacity Terminology
 
 The text employs achievement vocabulary:
@@ -398,7 +398,7 @@ The text employs achievement vocabulary:
 
 The particle "ni" marks cause: "rtsa 'byongs pas nad mi 'byung" (channel release causes no illness). The instrumental "pas" indicates means.
 
-<concept>
+[8753-8769] <concept>
 Appearance-Arising Recognition
 
 The wind control reveals:
@@ -421,7 +421,7 @@ The wind control reveals:
 
 <structure> Benefits of Bodhicitta Refinement
 
-<concept>
+[8755-8769] <concept>
 From Effort to Beyond Effort
 
 The five stages trace a progression from effort to spontaneity:
@@ -438,7 +438,7 @@ This corresponds to the Dzogchen progression from khrul 'khor ( Yantra ) through
 
 Pages 202 continues the completion stage exposition with detailed analysis of the Har ti family characteristics, channel typology of the five families, six body postures, thigle refinement methods, and the five stages of blissful wisdom. The philological analysis reveals systematic use of causative constructions, imperative mood for practice instructions, and ordinal enumeration for progressive stages. Contextual sources include Hevajra Tantra, Guhyasamaja, Six Yogas of Naropa, and Kalachakra systems integrated into Nyingma presentation. Conceptually, the section presents the transition from deliberate practice to spontaneous wisdom through progressive refinement of subtle body elements.
 
-<context>
+[8755-8769] <context>
 Kalachakra and Hevajra Bliss Taxonomy
 
 The five bliss stages correspond to:
@@ -450,7 +450,7 @@ The five bliss stages correspond to:
 
 These align with Kalachakra's progressive bliss system leading to clear light.
 
-<concept>
+[8755-8769] <concept>
 Progressive Mudra Realization
 
 The mudras represent stages of capacity:
@@ -471,7 +471,7 @@ Each generates specific realization:
 
 Page 204 presents the essential points for thigle retention through six body postures, three-location refinement, and the four mudras system. Philologically, the text employs extensive causative constructions, directional commands, and definitive particles. Contextual sources include Hevajra Tantra, Guhyasamaja, Vajrayogini practices, and Thalgyur citations. Conceptually, the section demonstrates how physical postures target specific samsaric patterns, how thigle refinement generates three kaya bliss, and how mudra practice progresses from physical to non-dual realization.
 
-<context>
+[8755-8769] <context>
 Prana and Nadi Systems
 
 The wind practices correspond to:
@@ -483,7 +483,7 @@ The wind practices correspond to:
 
 Control of these five through the four postures stabilizes the energetic body.
 
-<concept>
+[8756-8769] <concept>
 Empowerment Classifications Summary
 
 **Four Empowerments' Definite Divisions:**
@@ -508,7 +508,7 @@ With elaboration's 16 purify outer four elements' four each = 16
 Body, speech, mind, consciousness purified through four empowerments matched to three kāyas = 12
 Completing 16-fold purification of karmic and afflictive obscurations.
 
-<structure>
+[8756-8769] <structure>
 Empowerment Classifications Summary
 
 **Four Empowerments' Definite Divisions:**

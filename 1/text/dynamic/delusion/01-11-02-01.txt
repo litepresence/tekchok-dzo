@@ -1,6 +1,6 @@
-<ontological-error> <reification-error>
+[13432-13437] <ontological-error> <reification-error>
 **Misreading:**
-The YAM syllable's movement and the breath's coming and going are interpreted as actual respiratory physiology of conceptual mind's activity.
+The YAM syllable's movement and the breath's coming and going are interpreted as actual respiratory physiology rather than symbolic of conceptual mind's activity.
 
 **Why it arises:**
 Breath terminology suggests respiratory system. The movement imagery suggests physiological process.
@@ -9,14 +9,14 @@ Breath terminology suggests respiratory system. The movement imagery suggests ph
 The teaching on how conceptual mind moves is replaced by breath control practice. The recognition of mind's nature is obscured.
 
 **Secondary consequences:**
-Practitioner practices breath control mind. Dzogchen's direct approach becomes pranayama.
+Practitioner practices breath control rather than recognizing mind. Dzogchen's direct approach becomes pranayama.
 
 **Cascade effects:**
 Triggers <breath error> and <practice-error>.
 
-<ontological-error> <reification-error>
+[13438-13446] <ontological-error> <reification-error>
 **Misreading:**
-The five seed syllables (JRAM, KHAM, TAM, MAM, BYAM) as ornaments are understood as actual magical protections or empowerments instead of symbols of the skandhas' purification.
+The five seed syllables (JRAM, KHAM, TAM, MAM, BYAM) as ornaments are understood as actual magical protections or empowerments rather than symbols of the skandhas' purification.
 
 **Why it arises:**
 Ornament imagery suggests decoration. Seed syllables suggest magical power.
@@ -30,9 +30,9 @@ Practitioner seeks empowerment through syllables rather than recognition. The sp
 **Cascade effects:**
 Triggers <empowerment error> and [RITUALIZATION ERROR].
 
-<ontological-error> <reification-error>
+[13447-13455] <ontological-error> <reification-error>
 **Misreading:**
-The "foundation gnosis" (gzhi gnas kyi ye shes) is interpreted as actual state to achieve or base-consciousness to establish yet not the naturally present awareness.
+The "foundation gnosis" (gzhi gnas kyi ye shes) is interpreted as actual state to achieve or base-consciousness to establish rather than the naturally present awareness.
 
 **Why it arises:**
 "Foundation" suggests base or support. "Gnoses" suggests knowledge to acquire.
@@ -46,7 +46,7 @@ Practitioner seeks to establish or achieve foundation gnosis. The recognition of
 **Cascade effects:**
 Triggers <establishment error> and [TELEOLOGICAL ERROR].
 
-<epistemic-error> <ontological-error>
+[13456-13464] <epistemic-error> <ontological-error>
 **Misreading:**
 The four elements' channels with non-analyzed gnosis are interpreted as actual subtle body channels carrying specific types of consciousness.
 
@@ -57,12 +57,12 @@ Channel-syllable correspondences suggest mapping system. The color-coding sugges
 The teaching on the inseparability of appearance and awareness is replaced by categorical system. The non-dual recognition is lost in classification.
 
 **Secondary consequences:**
-Practitioner learns classification system not recognizing awareness. The pointing to direct experience is obscured by categories.
+Practitioner learns classification system rather than recognizing awareness. The pointing to direct experience is obscured by categories.
 
 **Cascade effects:**
-Triggers <classification error> and .
+Triggers <classification error> and [DUALISTIC ERROR].
 
-<ontological-error> <reification-error>
+[13465-13473] <ontological-error> <reification-error>
 **Misreading:**
 The detailed embryological process is interpreted as literal scientific account or as entirely symbolic without recognizing it encodes stages of practice.
 
@@ -78,9 +78,9 @@ Reader either rejects or enjoys the text without receiving the instruction. The 
 **Cascade effects:**
 Triggers <scientism error> or [LITERARY ERROR].
 
-<ontological-error> <temporal-error>
+[13474-13482] <ontological-error> <temporal-error>
 **Misreading:**
-The nine months of gestation is understood as literal temporal requirement for spiritual development of recognition's maturation.
+The nine months of gestation is understood as literal temporal requirement for spiritual development rather than symbolic of recognition's maturation.
 
 **Why it arises:**
 "Nine months" suggests pregnancy duration. Temporal markers trigger chronological reading.
@@ -94,9 +94,9 @@ Practitioner expects automatic development without effort. The active recognitio
 **Cascade effects:**
 Triggers <temporalization error> and <practice-error>.
 
-<epistemic-error> <ontological-error>
+[13483-13491] <epistemic-error> <ontological-error>
 **Misreading:**
-The "four empowerments" (dbang bzhi) are interpreted as actual initiations to receive from a teacher instead of natural results of recognition.
+The "four empowerments" (dbang bzhi) are interpreted as actual initiations to receive from a teacher rather than natural results of recognition.
 
 **Why it arises:**
 "Empowerment" suggests ritual transmission. Teacher-student framework supports this interpretation.
@@ -105,14 +105,14 @@ The "four empowerments" (dbang bzhi) are interpreted as actual initiations to re
 The natural unfolding of recognition is replaced by ritual dependency. The self-existing nature of realization is lost.
 
 **Secondary consequences:**
-Practitioner seeks external empowerments as opposed to recognizing intrinsic awareness. Dzogchen autonomy becomes institutional dependency.
+Practitioner seeks external empowerments rather than recognizing intrinsic awareness. Dzogchen autonomy becomes institutional dependency.
 
 **Cascade effects:**
 Triggers <ritualization error> and [EXTERNALIZATION ERROR].
 
-<ontological-error> <reification-error>
+[13492-13500] <ontological-error> <reification-error>
 **Misreading:**
-The "buddhahood through transformation of basis" is understood as actual transformation process or achievement of altered state of what already is.
+The "buddhahood through transformation of basis" is understood as actual transformation process or achievement of altered state rather than recognition of what already is.
 
 **Why it arises:**
 "Transformation" suggests change. "Buddhahood" suggests goal to achieve.
@@ -121,14 +121,14 @@ The "buddhahood through transformation of basis" is understood as actual transfo
 Recognition of innate nature is replaced by transformative process. The immanence of buddhahood is lost in teleological striving.
 
 **Secondary consequences:**
-Practitioner strives for transformation not recognition. The "already accomplished" nature is obscured by becoming.
+Practitioner strives for transformation rather than recognition. The "already accomplished" nature is obscured by becoming.
 
 **Cascade effects:**
 Triggers <transformation error> and [TELEOLOGICAL ERROR].
 
-<ontological-error> <reification-error>
+[13501-13508] <ontological-error> <reification-error>
 **Misreading:**
-The channels and their functions are interpreted as actual subtle anatomy to be mastered as opposed to symbolic of cognitive processes to recognize.
+The channels and their functions are interpreted as actual subtle anatomy to be mastered rather than symbolic of cognitive processes to recognize.
 
 **Why it arises:**
 Anatomical detail suggests physical reality. Technical terminology suggests specialized knowledge to acquire.
@@ -142,9 +142,9 @@ Practitioner becomes expert in subtle anatomy without recognition. The pointing 
 **Cascade effects:**
 Triggers <learning error> and [MASTERY ERROR].
 
-<epistemic-error> <ontological-error>
+[13509-13517] <epistemic-error> <ontological-error>
 **Misreading:**
-"Co-emergent ignorance" (lhan cig skyes pa'i ma rig pa) is understood as original sin or inherent flaw but not simultaneous arising with awareness.
+"Co-emergent ignorance" (lhan cig skyes pa'i ma rig pa) is understood as original sin or inherent flaw rather than simultaneous arising with awareness.
 
 **Why it arises:**
 "Ignorance" suggests deficiency. "Co-emergent" suggests paired existence.
@@ -156,11 +156,11 @@ The teaching on the non-duality of awareness and its display is replaced by dual
 Practitioner develops guilt or sees ignorance as enemy. The recognition that ignorance and awareness share the same nature is missed.
 
 **Cascade effects:**
-Triggers <original sin error> and .
+Triggers <original sin error> and [DUALISTIC ERROR].
 
-<ontological-error> <reification-error>
+[13518-13525] <ontological-error> <reification-error>
 **Misreading:**
-The "wisdoms" (ye shes) are interpreted as actual knowledge to acquire or states to achieve yet not self-existing qualities of recognition.
+The "wisdoms" (ye shes) are interpreted as actual knowledge to acquire or states to achieve rather than self-existing qualities of recognition.
 
 **Why it arises:**
 "Wisdom" suggests knowledge. Enumeration suggests progressive attainment.
@@ -169,14 +169,14 @@ The "wisdoms" (ye shes) are interpreted as actual knowledge to acquire or states
 Self-existing qualities are replaced by achievements to accomplish. The immanence of wisdom is lost in teleological striving.
 
 **Secondary consequences:**
-Practitioner seeks to acquire wisdoms and not recognizing their intrinsic presence. The "already accomplished" is obscured.
+Practitioner seeks to acquire wisdoms rather than recognizing their intrinsic presence. The "already accomplished" is obscured.
 
 **Cascade effects:**
 Triggers <acquisition-error> and [TELEOLOGICAL ERROR].
 
-<ontological-error> <temporal-error>
+[13526-13534] <ontological-error> <temporal-error>
 **Misreading:**
-The stages of fetal development are interpreted as rigid developmental schema that must be traversed not symbolic of recognition's immediacy.
+The stages of fetal development are interpreted as rigid developmental schema that must be traversed rather than symbolic of recognition's immediacy.
 
 **Why it arises:**
 Sequential stages suggest necessary progression. Developmental language suggests growth over time.
@@ -190,9 +190,9 @@ Practitioner believes they must develop through stages. The recognition that tra
 **Cascade effects:**
 Triggers <gradualist error> and [TEMPORALIZATION ERROR].
 
-<ontological-error> <reification-error>
+[13535-13544] <ontological-error> <reification-error>
 **Misreading:**
-The "four elements" ('byung bzhi) are interpreted as actual physical elements or subtle energies to balance excluding symbolic of cognitive functions.
+The "four elements" ('byung bzhi) are interpreted as actual physical elements or subtle energies to balance rather than symbolic of cognitive functions.
 
 **Why it arises:**
 Elemental terminology suggests physics. The four-element system suggests cosmological framework.
@@ -201,14 +201,14 @@ Elemental terminology suggests physics. The four-element system suggests cosmolo
 The teaching on the nature of mind is replaced by elemental theory. The pointing to immediate experience is obscured by physics.
 
 **Secondary consequences:**
-Practitioner studies elements mind. The simplicity of Dzogchen is lost in elemental complexity.
+Practitioner studies elements rather than recognizing mind. The simplicity of Dzogchen is lost in elemental complexity.
 
 **Cascade effects:**
 Triggers <elemental error> and [COSMOLOGICAL ERROR].
 
-<epistemic-error> <ontological-error>
+[13545-13554] <epistemic-error> <ontological-error>
 **Misreading:**
-The channels (rtsa) and winds (rlung) are understood as actual subtle body structures requiring purification not symbols for conceptual processes.
+The channels (rtsa) and winds (rlung) are understood as actual subtle body structures requiring purification rather than symbols for conceptual processes.
 
 **Why it arises:**
 "Channel" suggests conduit. "Wind" suggests energy. Subtle body vocabulary suggests anatomy.
@@ -217,14 +217,14 @@ The channels (rtsa) and winds (rlung) are understood as actual subtle body struc
 The recognition of conceptual mind's nature is replaced by subtle body purification. Direct recognition becomes energy work.
 
 **Secondary consequences:**
-Practitioner manipulates channels and winds excluding recognizing mind. Dzogchen's simplicity is obscured by technique.
+Practitioner manipulates channels and winds rather than recognizing mind. Dzogchen's simplicity is obscured by technique.
 
 **Cascade effects:**
 Triggers <subtle body error> and [TECHNIQUE ERROR].
 
-<ontological-error> <reification-error>
+[13555-13564] <ontological-error> <reification-error>
 **Misreading:**
-The seed syllables are interpreted as actual creative sounds or mantras with magical power and not symbols for recognition of elemental nature.
+The seed syllables are interpreted as actual creative sounds or mantras with magical power rather than symbols for recognition of elemental nature.
 
 **Why it arises:**
 "Seed syllable" suggests generative power. Mantra traditions support this interpretation.
@@ -233,12 +233,12 @@ The seed syllables are interpreted as actual creative sounds or mantras with mag
 Recognition of elemental nature is replaced by mantra recitation. The direct pointing becomes vocal practice.
 
 **Secondary consequences:**
-Practitioner recites syllables and not recognizing nature. The immediacy of Dzogchen is lost in vocalization.
+Practitioner recites syllables rather than recognizing nature. The immediacy of Dzogchen is lost in vocalization.
 
 **Cascade effects:**
 Triggers <mantra error> and [VOCALIZATION ERROR].
 
-<ontological-error> <reification-error>
+[13565-13575] <ontological-error> <reification-error>
 **Misreading:**
 The "skandhas" (phung po) becoming "buddha" is understood as actual transformation of aggregates or achievement of enlightened form.
 
@@ -249,12 +249,12 @@ The "skandhas" (phung po) becoming "buddha" is understood as actual transformati
 The teaching that skandhas are already display of awareness is replaced by belief in transformation. The immanence is lost.
 
 **Secondary consequences:**
-Practitioner seeks to transform aggregates and not recognizing their nature. The "already accomplished" is obscured.
+Practitioner seeks to transform aggregates rather than recognizing their nature. The "already accomplished" is obscured.
 
 **Cascade effects:**
 Triggers <transformation error> and [TELEOLOGICAL ERROR].
 
-<ontological-error> <reification-error>
+[13576-13584] <ontological-error> <reification-error>
 **Misreading:**
 The detailed subtle body anatomy is interpreted as literal physiology to be mastered or as entirely fictional rather than encoded pointing instructions.
 
@@ -270,9 +270,9 @@ Reader either rejects or literalizes without recognizing the pointing. The pract
 **Cascade effects:**
 Triggers <scientism error> or [FANTASY ERROR].
 
-<epistemic-error> <ontological-error>
+[13585-13593] <epistemic-error> <ontological-error>
 **Misreading:**
-The "three wisdoms" (ye shes gsum) are understood as actual types of consciousness to develop or achieve and not aspects of recognition.
+The "three wisdoms" (ye shes gsum) are understood as actual types of consciousness to develop or achieve rather than aspects of recognition.
 
 **Why it arises:**
 "Wisdom" suggests knowledge. "Three" suggests classification. Enumeration suggests progressive development.
@@ -281,14 +281,14 @@ The "three wisdoms" (ye shes gsum) are understood as actual types of consciousne
 Aspects of recognition are replaced by types of consciousness to cultivate. The simplicity of recognition is lost in typology.
 
 **Secondary consequences:**
-Practitioner studies types of wisdom , avoiding recognizing. The pointing to immediate experience is obscured by categories.
+Practitioner studies types of wisdom rather than recognizing. The pointing to immediate experience is obscured by categories.
 
 **Cascade effects:**
 Triggers <typology error> and [CATEGORIZATION ERROR].
 
-<ontological-error> <reification-error>
+[13594-13602] <ontological-error> <reification-error>
 **Misreading:**
-The "foundation" (gzhi) is interpreted as actual ground or base supporting existence non-dual nature of appearance.
+The "foundation" (gzhi) is interpreted as actual ground or base supporting existence rather than the non-dual nature of appearance.
 
 **Why it arises:**
 "Foundation" suggests support. Ontological language suggests metaphysical base.
@@ -302,9 +302,9 @@ Practitioner seeks to find or realize a ground. The groundlessness of Dzogchen i
 **Cascade effects:**
 Triggers <essentialism error> and [METAPHYSICAL ERROR].
 
-<ontological-error> <temporal-error>
+[13603-13611] <ontological-error> <temporal-error>
 **Misreading:**
-The birth process is interpreted as literal event to be reversed or transcended as opposed to symbolic of delusion's entry into ground.
+The birth process is interpreted as literal event to be reversed or transcended rather than symbolic of delusion's entry into ground.
 
 **Why it arises:**
 Birth imagery suggests beginning. Process language suggests temporal sequence.
@@ -318,9 +318,9 @@ Practitioner seeks to reverse birth or transcend embodiment. The recognition wit
 **Cascade effects:**
 Triggers <birth error> and [EMBODIMENT ERROR].
 
-<ontological-error> <reification-error>
+[13612-13623] <ontological-error> <reification-error>
 **Misreading:**
-The "channels of the four elements" are understood as actual subtle anatomy requiring purification or manipulation rather than than symbols for cognitive processes.
+The "channels of the four elements" are understood as actual subtle anatomy requiring purification or manipulation rather than symbols for cognitive processes.
 
 **Why it arises:**
 "Channel" suggests physical conduit. Elemental language suggests energy system.
@@ -329,14 +329,14 @@ The "channels of the four elements" are understood as actual subtle anatomy requ
 The teaching on recognizing the nature of conceptual mind is replaced by subtle body work. Direct recognition is obscured by technique.
 
 **Secondary consequences:**
-Practitioner manipulates channels rather than than recognizing mind. Dzogchen's simplicity becomes complex energy practice.
+Practitioner manipulates channels rather than recognizing mind. Dzogchen's simplicity becomes complex energy practice.
 
 **Cascade effects:**
 Triggers <subtle body error> and [TECHNIQUE ERROR].
 
-<epistemic-error> <ontological-error>
+[13624-13636] <epistemic-error> <ontological-error>
 **Misreading:**
-The "wisdoms not distinguished" are interpreted as actual states yet to be differentiated or achieved rather than than the non-dual ground itself.
+The "wisdoms not distinguished" are interpreted as actual states yet to be differentiated or achieved rather than the non-dual ground itself.
 
 **Why it arises:**
 "Not distinguished" suggests potential awaiting differentiation. Developmental language supports this reading.
@@ -350,9 +350,9 @@ Practitioner seeks to differentiate or develop wisdoms. The "already accomplishe
 **Cascade effects:**
 Triggers <potentiality error> and [TELEOLOGICAL ERROR].
 
-<ontological-error> <reification-error>
+[13637-13648] <ontological-error> <reification-error>
 **Misreading:**
-The syllables (OM, JRAM, AH, etc.) are understood as actual seed mantras with inherent power rather than than designations for the nature of aggregates.
+The syllables (OM, JRAM, AH, etc.) are understood as actual seed mantras with inherent power rather than designations for the nature of aggregates.
 
 **Why it arises:**
 Syllable names suggest mantras. Seed syllable tradition supports this interpretation.
@@ -366,7 +366,7 @@ Practitioner recites syllables without recognizing nature. The immediacy of Dzog
 **Cascade effects:**
 Triggers <mantra error> and [RITUALIZATION ERROR].
 
-<ontological-error> <reification-error>
+[13649-13661] <ontological-error> <reification-error>
 **Misreading:**
 The "buddhahood of the five aggregates" is interpreted as actual transformation of physical constituents or achievement of rainbow body.
 
@@ -382,7 +382,7 @@ Practitioner seeks to transform aggregates or achieve rainbow body. The recognit
 **Cascade effects:**
 Triggers <rainbow body error> and [TELEOLOGICAL ERROR].
 
-<ontological-error> [PHYSICAL REIFICATION]
+[13662-13668] <ontological-error> [PHYSICAL REIFICATION]
 **Misreading:**
 Channels (rtsa), winds (rlung), and pristine awareness are physical anatomical structures.
 
@@ -397,10 +397,10 @@ Confusing subtle body anatomy with gross physiology.
 Attempting to locate channels through dissection or imaging.
 
 **Cascade effects:**
-[EMBRYOLOGICAL LITERALISM ERROR]
+[13669-13675] [EMBRYOLOGICAL LITERALISM ERROR]
 [SUBTLE BODY MATERIALIZATION ERROR]
 
-[TEMPORAL LITERALISM] [KALPA CALCULATION ERROR]
+[13676-13682] [TEMPORAL LITERALISM] [KALPA CALCULATION ERROR]
 **Misreading:**
 Time references (zhag bdun - seven days) indicate precise chronological measurements of embryonic development.
 
@@ -417,7 +417,7 @@ Missing symbolic significance of septenary cycles in completion stage practice.
 **Cascade effects:**
 <scholarly-collapse-error>
 
-<ontological-error> [TRIKAYA REIFICATION]
+[13683-13689] <ontological-error> [TRIKAYA REIFICATION]
 **Misreading:**
 The three kayas (sku gsum) exist as localized entities within the body at specific developmental stages.
 
@@ -434,7 +434,7 @@ Temporalizing what is atemporal.
 **Cascade effects:**
 [MEDITATION PROGRESS ERROR]
 
-<ontological-error> [ELEMENTAL HYLOMORPHISM]
+[13690-13701] <ontological-error> [ELEMENTAL HYLOMORPHISM]
 **Misreading:**
 The four elements ('byung bzhi) literally assemble like building blocks to construct the embryo.
 
@@ -451,7 +451,7 @@ Confusing conventional manifestation with ultimate nature.
 **Cascade effects:**
 <substantialist-error>
 
-<ontological-error> [SYLLABLE ESSENTIALISM]
+[13702-13713] <ontological-error> [SYLLABLE ESSENTIALISM]
 **Misreading:**
 Seed syllables (yi ge) have inherent creative power as causal agents.
 
@@ -463,12 +463,12 @@ Attributing inherent existence to symbolic representations.
 
 **Secondary consequences:**
 Reifying sound and letter as independently existent creative principles.
-The error obscures that syllables are self-arisen (rang byung) manifestations of awareness.
+Missing that syllables are self-arisen (rang byung) manifestations of awareness.
 
 **Cascade effects:**
 [MANTRA MATERIALISM ERROR]
 
-[NUMERICAL LITERALISM] [ENUMERATION ERROR]
+[13714-13726] [NUMERICAL LITERALISM] [ENUMERATION ERROR]
 **Misreading:**
 Numerical counts of bugs/worms (srin bu), channels (rtsa), and syllables are exact quantitative descriptions.
 
@@ -485,7 +485,7 @@ Quantifying the unquantifiable nature of awareness-display.
 **Cascade effects:**
 <scholarly-collapse-error>
 
-<ontological-error> [WIND PATHOLOGY REIFICATION]
+[13727-13735] <ontological-error> [WIND PATHOLOGY REIFICATION]
 **Misreading:**
 Wind disorders (rlung mkhris bad kan) in the embryo are identical to Tibetan medical pathologies.
 
@@ -502,7 +502,7 @@ Missing the primordially pure nature of even "disordered" winds.
 **Cascade effects:**
 [SUBTLE BODY MEDICALIZATION ERROR]
 
-[NUMERICAL LITERALISM] [KALPA CALCULATION ERROR]
+[13736-13744] [NUMERICAL LITERALISM] [KALPA CALCULATION ERROR]
 **Misreading:**
 "Five hundred" (lnga brgya) at line 13328 refers to a specific historical period.
 
@@ -519,7 +519,7 @@ Missing the timeless availability of recognition.
 **Cascade effects:**
 [ESCHATOLOGICAL ANXIETY ERROR]
 
-<ontological-error> [AGGREGATE SUBSTANTIALISM]
+[13745-13754] <ontological-error> [AGGREGATE SUBSTANTIALISM]
 **Misreading:**
 The eighteen dhatus (khams bco brgyad) are substantial existents that "form" (chags) in sequence.
 
@@ -527,7 +527,7 @@ The eighteen dhatus (khams bco brgyad) are substantial existents that "form" (ch
 Sequential description of formation of elements and aggregates.
 
 **Primary consequence:**
-Viewing the sense bases as newly created entities rather than than displays of rigpa.
+Viewing the sense bases as newly created entities rather than displays of rigpa.
 
 **Secondary consequences:**
 Missing the simultaneously arisen nature of all apparent phenomena.
@@ -536,7 +536,7 @@ Temporalizing what is timeless manifestation.
 **Cascade effects:**
 [APPEARANCE-REALITY DICHOTOMY ERROR]
 
-<ontological-error> [SENSORY FACULTY REIFICATION]
+[13755-13764] <ontological-error> [SENSORY FACULTY REIFICATION]
 **Misreading:**
 Sense faculties (dbang po) develop as functional apparatuses for perceiving external objects.
 
@@ -553,7 +553,7 @@ Missing the self-recognition nature of perception.
 **Cascade effects:**
 [PERCEPTUAL DUALISM ERROR]
 
-<ontological-error> [AFFLICTION SUBSTANTIALISM]
+[13765-13774] <ontological-error> [AFFLICTION SUBSTANTIALISM]
 **Misreading:**
 Afflictions (nyon mongs pa) arise as real entities to be eliminated.
 
@@ -570,7 +570,7 @@ Missing primordial purity of all that appears.
 **Cascade effects:**
 [PURIFICATION PROJECT ERROR]
 
-[TEMPORAL LITERALISM] [DEVELOPMENTAL STAGING ERROR]
+[13775-13784] [TEMPORAL LITERALISM] [DEVELOPMENTAL STAGING ERROR]
 **Misreading:**
 The 35 days, 49 days, etc., mark discrete developmental stages like trimesters.
 
@@ -587,7 +587,7 @@ Literalizing the temporal dimension of atemporal wisdom display.
 **Cascade effects:**
 <scholarly-collapse-error>
 
-<ontological-error> [WISDOM PATH SUBSTANTIALISM]
+[13785-13792] <ontological-error> [WISDOM PATH SUBSTANTIALISM]
 **Misreading:**
 The wisdom path (ye shes kyi lam) is a channel or conduit through which something travels.
 
@@ -604,7 +604,7 @@ Confusing wisdom with energy flow.
 **Cascade effects:**
 [KUNDALINI MATERIALISM ERROR]
 
-<ontological-error> [ESSENCE/REFUSE DUALISM]
+[13793-13800] <ontological-error> [ESSENCE/REFUSE DUALISM]
 **Misreading:**
 Essence (dangs ma) and refuse (snyigs ma) are inherently different substances.
 
@@ -612,17 +612,17 @@ Essence (dangs ma) and refuse (snyigs ma) are inherently different substances.
 Description of pure essence producing dharmakaya while refuse produces samsara.
 
 **Primary consequence:**
-Viewing the two as ontologically distinct rather than than inseparable display.
+Viewing the two as ontologically distinct rather than inseparable display.
 
 **Secondary consequences:**
 Rejection of "impure" aspects of experience.
 Missing that both are equally mind's display.
 
 **Cascade effects:**
-[ASCETICISM ERROR]
+[13801-13808] [ASCETICISM ERROR]
 [PURITY OBSESSION ERROR]
 
-[NUMERICAL LITERALISM] [COMPONENT ENUMERATION ERROR]
+[13809-13816] [NUMERICAL LITERALISM] [COMPONENT ENUMERATION ERROR]
 **Misreading:**
 Counts like "32 channels" and "80,000 worms" are exact inventory of subtle body anatomy.
 
@@ -639,7 +639,7 @@ Quantifying what transcends quantification.
 **Cascade effects:**
 <scholarly-collapse-error>
 
-<ontological-error> [SAMANTABHADRA DUALISM]
+[13817-13826] <ontological-error> [SAMANTABHADRA DUALISM]
 **Misreading:**
 Samantabhadra father-mother (kun bzang yab yum) are deities external to oneself who generate the body.
 
@@ -656,7 +656,7 @@ Reifying deities as separate from awareness.
 **Cascade effects:**
 [THEISTIC PROJECTION ERROR]
 
-[NUMERICAL LITERALISM] [ENUMERATION HYPNOSIS]
+[13827-13830] [NUMERICAL LITERALISM] [ENUMERATION HYPNOSIS]
 **Misreading:**
 The extensive numerical calculations (sum brgya, bcu tham pa, etc.) are mathematical truths.
 
@@ -664,7 +664,7 @@ The extensive numerical calculations (sum brgya, bcu tham pa, etc.) are mathemat
 Detailed numerical progression of ye shes, yi ge, 'od, and yab yum counts.
 
 **Primary consequence:**
-Becoming obsessed with numerical accuracy rather than than recognition.
+Becoming obsessed with numerical accuracy rather than recognition.
 
 **Secondary consequences:**
 Missing that calculations represent wisdom's play, not inventory.

@@ -1,4 +1,4 @@
-<trekcho-completion-achievement> <three-kaya-gaze-training>
+[4696-4704] <trekcho-completion-achievement> <three-kaya-gaze-training>
 
 **Misreading:**
 The instruction to "train in the three gazes of the three kayas" (*sku gsum gyi gzigs stangs gsum la bslab ste*) interpreted as a sequential training program where one masters Trekcho first through specific kaya-gaze techniques, creating a curriculum-based approach to recognition.
@@ -11,15 +11,15 @@ Curriculum-approach: treating three gazes as lessons to master. Natural recognit
 
 **Secondary consequences:**
 - Sequential fixation: "I need to master Dharmakaya gaze first"
-- The crucial omission: that all three gazes point to same recognition
+- Missing that all three gazes point to same recognition
 - Practice-anxiety about "progress" through curriculum
 
 **Cascade effects:**
-<trekcho-completion-achievement> triggers <ground-ignored>
+<trekcho-completion-achievement> → <curriculum-fixation> [training program mindset] → <sequential-mastery> [lesson-by-lesson approach] → <natural-recognition-miss> [training over being]
 
 ---
 
-<thogal-visualization> <kaya-gaze-externalization>
+[4696-4704] <thogal-visualization> <kaya-gaze-externalization>
 
 **Misreading:**
 The three gazes (*gzigs stangs gsum*)—Dharmakaya reversal (*bzlog*), Sambhogakaya side-glance (*zur*), Nirmanakaya downward (*phab*)—interpreted as specific physical eye positions to adopt and hold, creating fixation on external posture.
@@ -32,18 +32,18 @@ Posture-fixation: holding specific eye positions. Natural recognition is obscure
 
 **Secondary consequences:**
 - Eye strain from "holding" gazes
-- What's missed: that gazes indicate recognition, not cause it
+- Missing that gazes indicate recognition, not cause it
 - Posture pride: "I can hold the Dharmakaya gaze"
 
 **Cascade effects:**
-<thogal-visualization> leads to <posture-fixation> [physical eye position] triggers <performance-anxiety> [holding gaze correctly] triggers <recognition-miss> [posture over nature]
+<thogal-visualization> → <posture-fixation> [physical eye position] → <performance-anxiety> [holding gaze correctly] → <recognition-miss> [posture over nature]
 
 ---
 
-<citation-fetishism> <scriptural-validation-seeking>
+[4699-4704] <citation-fetishism> <scriptural-validation-seeking>
 
 **Misreading:**
-The citation from *dpal nam mkha' dang mnyam pa'i rgyud* interpreted as establishing authority through textual reference, creating dependence on tantric proof-texts and not direct recognition.
+The citation from *dpal nam mkha' dang mnyam pa'i rgyud* interpreted as establishing authority through textual reference, creating dependence on tantric proof-texts rather than direct recognition.
 
 **Why it arises:**
 "From the Tantra" suggests proof. Citation implies validation. Religious dependence: "The text says so." Academic habit of sourcing claims.
@@ -53,15 +53,15 @@ Textual-dependence: deferring to scriptural authority. Direct experience is repl
 
 **Secondary consequences:**
 - "Where is this in the texts?" over direct seeing
-- Not seeing that citation points to experience, not replaces it
-- Argumentation about textual sources excluding practice
+- Missing that citation points to experience, not replaces it
+- Argumentation about textual sources rather than practice
 
 **Cascade effects:**
-<citation-fetishism> triggers <scriptural-dependence> [external validation] → <experience-deferral> [text over seeing] leads to <citation-debate> [argument over recognition]
+<citation-fetishism> → <scriptural-dependence> [external validation] → <experience-deferral> [text over seeing] → <citation-debate> [argument over recognition]
 
 ---
 
-<etymological-literalism> <yige-med-visualization>
+[4705-4707] <etymological-literalism> <yige-med-visualization>
 
 **Misreading:**
 The phrase "from no letter" (*yi ge med pa las*) interpreted as starting visualization practice from a blank or empty state, creating fixation on absence as starting point.
@@ -74,15 +74,15 @@ Blank-state-fixation: seeking letterless origin. Natural awareness is obscured b
 
 **Secondary consequences:**
 - "Emptying" as prerequisite practice
-- What remains unseen is that no-letter is nature, not state to achieve
+- Missing that no-letter is nature, not state to achieve
 - Preparatory fixation: "I must get to no-letter first"
 
 **Cascade effects:**
-<etymological-literalism> generates <ground-ignored>
+<etymological-literalism> → <blank-state-fixation> [emptiness as origin] → <preparatory-obsession> [getting to ground] → <natural-awareness-miss> [construction over nature]
 
 ---
 
-<three-gaze-enumeration> <gzigs-stangs-compartmentalization>
+[4708-4711] <three-gaze-enumeration> <gzigs-stangs-compartmentalization>
 
 **Misreading:**
 The three gazes enumerated from *gsang ba sgra rgyud* interpreted as three distinct techniques to practice separately, creating checklist mentality about gaze-mastery.
@@ -95,15 +95,15 @@ Gaze-checklist: going through three items separately. Natural recognition is rep
 
 **Secondary consequences:**
 - "I've done gaze one, now gaze two"
-- Unrecognized: that three gazes are aspects of single recognition
+- Missing that three gazes are aspects of single recognition
 - Anxiety about "completing" all three
 
 **Cascade effects:**
-<three-gaze-enumeration> generates <obscuration>
+<three-gaze-enumeration> → <gaze-checklist> [separate practices] → <sequential-anxiety> [completing all three] → <single-recognition-miss> [three as one]
 
 ---
 
-<kaya-dualism> <three-kaya-separation>
+[4712-4714] <kaya-dualism> <three-kaya-separation>
 
 **Misreading:**
 The distinction between Nirmanakaya gazing at disciples (*gdul bya la gzigs*), Sambhogakaya gazing at pure lands (*zhing khams la gzigs*), and Dharmakaya gazing at ground (*gzhi la gzigs*) interpreted as three separate activities of three separate entities, creating tritheistic conception of kayas.
@@ -116,15 +116,15 @@ Kaya-tritheism: three separate entities with different activities. Indivisible t
 
 **Secondary consequences:**
 - Preference for "higher" kaya (Dharmakaya)
-- Not seeing that three kayas are single display
+- Missing that three kayas are single display
 - Hierarchical conception of enlightenment
 
 **Cascade effects:**
-<kaya-dualism> triggers <kaya-tritheism> [three separate entities] → <hierarchical-preference> [higher/lower kayas] → <indivisibility-miss> [single display lost]
+<kaya-dualism> → <kaya-tritheism> [three separate entities] → <hierarchical-preference> [higher/lower kayas] → <indivisibility-miss> [single display lost]
 
 ---
 
-<therapeutic-instrumentalization> <eye-condition-adaptation>
+[4715-4717] <therapeutic-instrumentalization> <eye-condition-adaptation>
 
 **Misreading:**
 The matching of gazes to eye conditions—poor eyesight (*mig shas ngan pas*) with Nirmanakaya, eye defects (*mig la skyon chags pas*) with Sambhogakaya, good eyesight (*mig shas bzang bas*) with Dharmakaya—interpreted as therapeutic prescription where practice is adapted to physical limitations, creating medicalized approach.
@@ -137,15 +137,15 @@ Therapeutic-reduction: treating recognition as vision therapy. Natural recogniti
 
 **Secondary consequences:**
 - "My eyes aren't good enough for Dharmakaya gaze"
-- The blind spot: that gazes transcend physical conditions
+- Missing that gazes transcend physical conditions
 - Physical limitation as spiritual limitation
 
 **Cascade effects:**
-<therapeutic-instrumentalization> generates <therapeutic-reduction> [medical approach] → <physical-limitation> [body as obstacle] → <recognition-medicalization> [therapy over nature]
+<therapeutic-instrumentalization> → <therapeutic-reduction> [medical approach] → <physical-limitation> [body as obstacle] → <recognition-medicalization> [therapy over nature]
 
 ---
 
-<talent-meritocracy> <mig-shas-spiritual-hierarchy>
+[4715-4717] <talent-meritocracy> <mig-shas-spiritual-hierarchy>
 
 **Misreading:**
 The correlation between good eyesight and Dharmakaya gaze interpreted as spiritual hierarchy where physical faculties indicate spiritual capacity, creating meritocratic elitism about "advanced" practitioners.
@@ -158,15 +158,15 @@ Faculty-elitism: "I have good eyesight, therefore Dharmakaya gaze is for me." Na
 
 **Secondary consequences:**
 - Discrimination against "lesser" practitioners
-- What remains unseen is that recognition is equally accessible
+- Missing that recognition is equally accessible
 - Physical privilege as spiritual attainment
 
 **Cascade effects:**
-<talent-meritocracy> leads to <faculty-elitism> [physical superiority] → <spiritual-discrimination> [hierarchy of practitioners] → <equal-recognition-miss> [faculty over nature]
+<talent-meritocracy> → <faculty-elitism> [physical superiority] → <spiritual-discrimination> [hierarchy of practitioners] → <equal-recognition-miss> [faculty over nature]
 
 ---
 
-<three-eye-enumeration> <spyan-gsum-compartmentalization>
+[4718-4724] <three-eye-enumeration> <spyan-gsum-compartmentalization>
 
 **Misreading:**
 The three wisdom eyes (*spyan gsum*)—Dharmata eye (*chos nyid kyi spyan*), Wisdom eye (*ye shes kyi spyan*), Discriminating eye (*shes rab kyi spyan*)—interpreted as three separate attainments to develop sequentially, creating progressive checklist.
@@ -179,15 +179,15 @@ Eye-collecting: treating three eyes as achievements to unlock. Natural wisdom is
 
 **Secondary consequences:**
 - Sequential fixation: "I need to get Dharmata eye first"
-- Unrecognized: that all three are aspects of single awareness
+- Missing that all three are aspects of single awareness
 - Practice-anxiety about "getting" all three eyes
 
 **Cascade effects:**
-<three-eye-enumeration> triggers <rigpa-unseen>
+<three-eye-enumeration> → <eye-collecting> [achievement checklist] → <sequential-fixation> [order anxiety] → <single-awareness-miss> [missing unity]
 
 ---
 
-<byin-rlabs-dependence> <blessing-externalization>
+[4719-4720] <byin-rlabs-dependence> <blessing-externalization>
 
 **Misreading:**
 The phrase "by the power of its blessing" (*de'i byin rlabs kyis*) interpreted as actual transmission or empowerment flowing from external source, creating dependence on external blessing-power.
@@ -200,15 +200,15 @@ Blessing-dependence: seeking external empowerment. Natural recognition is deferr
 
 **Secondary consequences:**
 - "I haven't received the blessing yet"
-- The crucial omission: that blessing is self-recognition
-- External seeking but not direct seeing
+- Missing that blessing is self-recognition
+- External seeking rather than direct seeing
 
 **Cascade effects:**
-<byin-rlabs-dependence> creates <recognition-blocked>
+<byin-rlabs-dependence> → <blessing-externalization> [seeking transmission] → <empowerment-waiting> [awaiting power] → <self-recognition-deferral> [external over internal]
 
 ---
 
-<ye-shes-mthong-achievement> <wisdom-seeing-acquisition>
+[4720-4724] <ye-shes-mthong-achievement> <wisdom-seeing-acquisition>
 
 **Misreading:**
 The phrase "actually seeing wisdom" (*ye shes dngos su mthong ba*) interpreted as achieving special capacity to perceive wisdom as object, creating subject-object dualism in recognition.
@@ -221,15 +221,15 @@ Wisdom-perception: treating wisdom as object to see. Non-dual recognition is rep
 
 **Secondary consequences:**
 - "What does wisdom look like?"
-- The crucial omission: that wisdom is not object but nature
-- Perceptual seeking
+- Missing that wisdom is not object but nature
+- Perceptual seeking rather than recognition
 
 **Cascade effects:**
-<ye-shes-mthong-achievement> leads to <wisdom-perception> [object to see] → <subject-object-dualism> [seer and seen] → <non-dual-miss> [perception over nature]
+<ye-shes-mthong-achievement> → <wisdom-perception> [object to see] → <subject-object-dualism> [seer and seen] → <non-dual-miss> [perception over nature]
 
 ---
 
-<rang-gsal-externalization> <self-clarity-objectification>
+[4721-4722] <rang-gsal-externalization> <self-clarity-objectification>
 
 **Misreading:**
 The phrase "seeing self-clarity" (*rang gsal du mthong ba*) interpreted as observing one's own clear nature as object of perception, creating self-reflexive observation loop.
@@ -246,11 +246,11 @@ Self-obsession: watching oneself for clarity. Natural self-clarity is obscured b
 - Narcissistic self-fascination as practice
 
 **Cascade effects:**
-<rang-gsal-externalization> creates <self-obsession> [watching oneself] → <self-monitoring> [checking clarity] → <natural-clarity-miss> [observation over being]
+<rang-gsal-externalization> → <self-obsession> [watching oneself] → <self-monitoring> [checking clarity] → <natural-clarity-miss> [observation over being]
 
 ---
 
-<thugs-gsang-externalization> <mind-secret-reification>
+[4723-4724] <thugs-gsang-externalization> <mind-secret-reification>
 
 **Misreading:**
 The phrase "seeing without words" (*sgra tshig dang bral bar mthong ba*) in relation to Nirmanakaya's mind-secret (*thugs gsang*) interpreted as accessing hidden mind-content beyond language, creating esoteric fascination with secret teachings.
@@ -267,11 +267,11 @@ Esoteric-fixation: pursuing secret transmissions. Natural recognition is obscure
 - Secret-hunting as spiritual practice
 
 **Cascade effects:**
-<thugs-gsang-externalization> produces <recognition-blocked>
+<thugs-gsang-externalization> → <esoteric-fixation> [secret pursuit] → <mystery-seeking> [hidden knowledge] → <open-presence-miss> [secret over obvious]
 
 ---
 
-<gnad-fetishism> <key-point-obsession>
+[4725-4727] <gnad-fetishism> <key-point-obsession>
 
 **Misreading:**
 The three "key points" (*gnad*)—Dharmata eye reversing upward (*gyen la bzlog pa*), Wisdom eye gazing equally at side (*zur la mnyam por bltas pa*), Discriminating eye looking downward (*phab nas bltas pa*)—interpreted as secret techniques or crucial methods that must be precisely executed, creating obsession with getting the "key" right.
@@ -288,7 +288,7 @@ Technique-obsession: trying to hit the "key point." Natural recognition is repla
 - Technical perfectionism as practice
 
 **Cascade effects:**
-<gnad-fetishism> triggers <ground-ignored>
+<gnad-fetishism> → <key-point-obsession> [secret technique] → <technical-perfectionism> [executing correctly] → <recognition-miss> [technique over nature]
 
 ---
 
@@ -309,7 +309,7 @@ Purification-project: treating traces as stains to eliminate. Natural purity is 
 - Moral anxiety about past actions
 
 **Cascade effects:**
-<bag-chags-purification-project> produces <karmic-trace-elimination> [stain removal] → <moral-anxiety> [past actions] → <natural-purity-miss> [cleaning over nature]
+<bag-chags-purification-project> → <karmic-trace-elimination> [stain removal] → <moral-anxiety> [past actions] → <natural-purity-miss> [cleaning over nature]
 
 ---
 
@@ -351,11 +351,11 @@ Display-chasing: seeking special wisdom-appearances. Natural display is obscured
 - Missing that all display is wisdom-nature
 
 **Cascade effects:**
-<ye-shes-snang-ba-attachment> triggers <wisdom-display-chasing> [seeking visions] → <expectation-manufacturing> [creating experiences] → <natural-display-miss> [vision over nature]
+<ye-shes-snang-ba-attachment> → <wisdom-display-chasing> [seeking visions] → <expectation-manufacturing> [creating experiences] → <natural-display-miss> [vision over nature]
 
 ---
 
-<temperament-determinism> <le-lo-btson-snyoms-typology>
+[4728-4731] <temperament-determinism> <le-lo-btson-snyoms-typology>
 
 **Misreading:**
 The classification of gazes by temperament—lazy (*le lo can*) gets Sambhogakaya, diligent (*brtson 'grus can*) gets Nirmanakaya, equanimous (*btang snyoms can*) gets Dharmakaya—interpreted as fixed typology where one's innate character determines practice, creating deterministic approach.
@@ -372,11 +372,11 @@ Type-fixation: "I am lazy, therefore Sambhogakaya gaze." Natural recognition is 
 - Type-pride or type-shame about practice
 
 **Cascade effects:**
-<temperament-determinism> creates <type-fixation> [personality category] → <practice-limitation> [type-appropriate methods] → <transcendent-recognition-miss> [type over nature]
+<temperament-determinism> → <type-fixation> [personality category] → <practice-limitation> [type-appropriate methods] → <transcendent-recognition-miss> [type over nature]
 
 ---
 
-<btson-'grus-addiction> <diligence-pride>
+[4728-4731] <btson-'grus-addiction> <diligence-pride>
 
 **Misreading:**
 The assignment of Nirmanakaya gaze to the diligent (*brtson 'grus can*) interpreted as valorization of effortful practice, creating pride in hard work and spiritual achievement-through-struggle.
@@ -393,11 +393,11 @@ Effort-pride: "I am diligent, therefore advanced." Natural recognition is obscur
 - Burnout from excessive effort
 
 **Cascade effects:**
-<btson-'grus-addiction> creates <effort-pride> [virtue of hard work] → <spiritual-workaholism> [achievement through struggle] → <effortless-recognition-miss> [work over being]
+<btson-'grus-addiction> → <effort-pride> [virtue of hard work] → <spiritual-workaholism> [achievement through struggle] → <effortless-recognition-miss> [work over being]
 
 ---
 
-<btang-snyoms-romanticization> <equanimity-spiritual-superiority>
+[4730-4731] <btang-snyoms-romanticization> <equanimity-spiritual-superiority>
 
 **Misreading:**
 The assignment of Dharmakaya gaze to the equanimous (*btang snyoms can*) interpreted as spiritual hierarchy where equanimity indicates advanced realization, creating elitism about "balanced" practitioners.
@@ -414,11 +414,11 @@ Equanimity-elitism: "I am balanced, therefore Dharmakaya-level." Natural recogni
 - Spiritual hierarchy based on temperament
 
 **Cascade effects:**
-<btang-snyoms-romanticization> triggers <equanimity-elitism> [spiritual maturity marker] → <affectation-pride> [status display] → <equal-access-miss> [hierarchy over nature]
+<btang-snyoms-romanticization> → <equanimity-elitism> [spiritual maturity marker] → <affectation-pride> [status display] → <equal-access-miss> [hierarchy over nature]
 
 ---
 
-<etymological-essentialism> <nges-tshig-word-magic>
+[4732-4733] <etymological-essentialism> <nges-tshig-word-magic>
 
 **Misreading:**
 The etymological explanation of "gzigs" as "seeing Dharmata" and "stangs" as "liberating from samsara" interpreted as word-magic where knowing definitions produces understanding, creating dictionary-dependence.
@@ -435,11 +435,11 @@ Etymological-essentialism: believing word-origins convey reality. Direct recogni
 - Philological pride over direct seeing
 
 **Cascade effects:**
-<etymological-essentialism> leads to <word-magic> [definitions as power] → <dictionary-dependence> [lexical knowledge] → <experience-miss> [words over seeing]
+<etymological-essentialism> → <word-magic> [definitions as power] → <dictionary-dependence> [lexical knowledge] → <experience-miss> [words over seeing]
 
 ---
 
-<phyi-dbyings-externalization> <external-sphere-objectification>
+[4734-4735] <phyi-dbyings-externalization> <external-sphere-objectification>
 
 **Misreading:**
 The "external sphere" (*phyi dbyings*) described as "sky-space empty of clouds" (*nam mkha' stong pa sprin dang bral ba*) interpreted as actual physical sky to observe, creating fixation on external environment.
@@ -456,11 +456,11 @@ Environment-fixation: seeking external sky-space. Internal recognition is replac
 - Weather-dependence for practice
 
 **Cascade effects:**
-<phyi-dbyings-externalization> creates <environment-fixation> [external observation] → <landscape-obsession> [sky-gazing] → <internal-recognition-miss> [external over internal]
+<phyi-dbyings-externalization> → <environment-fixation> [external observation] → <landscape-obsession> [sky-gazing] → <internal-recognition-miss> [external over internal]
 
 ---
 
-<smin-mtshams-fetishism> <eyebrow-point-fixation>
+[4735-4736] <smin-mtshams-fetishism> <eyebrow-point-fixation>
 
 **Misreading:**
 The instruction to place attention at the eyebrow-point (*smin mtshams kyi mdzod spu*) interpreted as specific physical location to focus on, creating fixation on anatomical point.
@@ -477,11 +477,11 @@ Point-fixation: concentrating on eyebrow-location. Natural recognition is obscur
 - Physical discomfort from fixation
 
 **Cascade effects:**
-<smin-mtshams-fetishism> creates <point-fixation> [anatomical location] → <concentration-anxiety> [holding focus] → <recognition-miss> [point over nature]
+<smin-mtshams-fetishism> → <point-fixation> [anatomical location] → <concentration-anxiety> [holding focus] → <recognition-miss> [point over nature]
 
 ---
 
-<dbyings-snang-mthing-ga-attachment> <blue-field-visualization>
+[4735-4736] <dbyings-snang-mthing-ga-attachment> <blue-field-visualization>
 
 **Misreading:**
 The "blue appearance of the sphere" (*dbyings snang mthing ga*) interpreted as specific blue visionary target to stabilize and maintain, creating fixation on blue color-experience.
@@ -502,7 +502,7 @@ Color-fixation: obsession with blue appearance. Natural clarity is replaced by c
 
 ---
 
-<rnam-lnga-rang-gdangs-attachment> <five-phenomena-compartmentalization>
+[4735-4736] <rnam-lnga-rang-gdangs-attachment> <five-phenomena-compartmentalization>
 
 **Misreading:**
 The "self-radiance of the five" (*rnam lnga'i rang gdangs*) interpreted as five distinct visionary phenomena to identify and catalog, creating taxonomic obsession about appearance-types.
@@ -516,14 +516,14 @@ Phenomena-compartmentalization: treating five as separate things. Natural unity 
 **Secondary consequences:**
 - "I saw two of the five today"
 - Missing that five are single display
-- Cataloging visions yet not to recognizing
+- Cataloging visions rather than recognizing
 
 **Cascade effects:**
-<rnam-lnga-rang-gdangs-attachment> produces <phenomena-compartmentalization> [separate items] → <vision-cataloging> [inventory of sights] → <unity-miss> [five as one]
+<rnam-lnga-rang-gdangs-attachment> → <phenomena-compartmentalization> [separate items] → <vision-cataloging> [inventory of sights] → <unity-miss> [five as one]
 
 ---
 
-<thal-'gyur-citation-fetishism> <tantra-textual-dependence>
+[4737-4742] <thal-'gyur-citation-fetishism> <tantra-textual-dependence>
 
 **Misreading:**
 The citation from *Thal 'gyur* interpreted as scriptural proof establishing authority, creating dependence on textual validation from highest tantra.
@@ -540,7 +540,7 @@ Tantric-dependence: seeking validation from highest source. Direct recognition i
 - Hierarchical textual competition
 
 **Cascade effects:**
-<thal-'gyur-citation-fetishism> leads to <tantric-dependence> [highest authority] → <scriptural-competition> [textual hierarchy] → <experience-miss> [authority over seeing]
+<thal-'gyur-citation-fetishism> → <tantric-dependence> [highest authority] → <scriptural-competition> [textual hierarchy] → <experience-miss> [authority over seeing]
 
 ---
 
@@ -561,11 +561,11 @@ Void-fixation: pursuing empty consciousness. Natural awareness is obscured by bl
 - Nihilistic emptiness as goal
 
 **Cascade effects:**
-<sprin-bral-blankness-addiction> produces <void-fixation> [empty state] → <thought-clearing> [mental vacuum] → <natural-awareness-miss> [blank over nature]
+<sprin-bral-blankness-addiction> → <void-fixation> [empty state] → <thought-clearing> [mental vacuum] → <natural-awareness-miss> [blank over nature]
 
 ---
 
-<bag-rdul-dengs-purification> <dust-mist-cleansing>
+[4739-4740] <bag-rdul-dengs-purification> <dust-mist-cleansing>
 
 **Misreading:**
 The phrase "when dust-mist clears" (*bag rdul char gyis dengs dus su*) interpreted as gradual purification process where obstacles slowly dissipate, creating timeline-based approach.
@@ -586,7 +586,7 @@ Gradual-purification: expecting obstacles to slowly clear. Immediate recognition
 
 ---
 
-<mkhas-pa-mngon-gsum-elitism> <direct-perception-mastery>
+[4740-4741] <mkhas-pa-mngon-gsum-elitism> <direct-perception-mastery>
 
 **Misreading:**
 The phrase "the skilled directly perceive and strike the key point" (*mkhas pa mngon gsum gnad gzir*) interpreted as special direct-perception ability that masters achieve, creating elitism about "skilled" practitioners.
@@ -603,11 +603,11 @@ Skill-elitism: "I am skilled, therefore I perceive directly." Natural recognitio
 - Spiritual hierarchy based on perceived skill
 
 **Cascade effects:**
-<mkhas-pa-mngon-gsum-elitism> leads to <awareness-overlooked>
+<mkhas-pa-mngon-gsum-elitism> → <skill-elitism> [expertise hierarchy] → <direct-perception-pride> [mastery status] → <equal-recognition-miss> [skill over nature]
 
 ---
 
-<nang-sgron-lam-technique> <inner-lamp-path-method>
+[4741-4742] <nang-sgron-lam-technique> <inner-lamp-path-method>
 
 **Misreading:**
 The phrase "make the inner lamp the path" (*nang gi sgron ma lam du bya'o*) interpreted as specific technique of inner light meditation to practice, creating method-obsession.
@@ -624,11 +624,11 @@ Technique-fixation: treating inner lamp as practice method. Natural recognition 
 - Method-seeking over recognition
 
 **Cascade effects:**
-<nang-sgron-lam-technique> generates <technique-fixation> [method obsession] → <method-seeking> [how-to pursuit] → <recognition-miss> [technique over nature]
+<nang-sgron-lam-technique> → <technique-fixation> [method obsession] → <method-seeking> [how-to pursuit] → <recognition-miss> [technique over nature]
 
 ---
 
-<phyi-rig-'char-externalization> <external-awareness-arising>
+[4743-4744] <phyi-rig-'char-externalization> <external-awareness-arising>
 
 **Misreading:**
 The "external arising of awareness" (*phyi rig pa 'char ba*) interpreted as awareness manifesting outside oneself in external space, creating spatial dualism.
@@ -645,11 +645,11 @@ Spatial-dualism: seeking awareness externally. Non-spatial recognition is replac
 - Geographic confusion about awareness-location
 
 **Cascade effects:**
-<phyi-rig-'char-externalization> creates <spatial-dualism> [inside/outside] → <external-seeking> [looking outside] → <non-spatial-miss> [location over nature]
+<phyi-rig-'char-externalization> → <spatial-dualism> [inside/outside] → <external-seeking> [looking outside] → <non-spatial-miss> [location over nature]
 
 ---
 
-<nang-nyams-'phel-internalization> <internal-experience-development>
+[4744-4745] <nang-nyams-'phel-internalization> <internal-experience-development>
 
 **Misreading:**
 The "internal development of experience" (*nang nyams 'phel ba*) interpreted as cultivating inner states or experiences, creating internal-state obsession.
@@ -666,7 +666,7 @@ State-cultivation: developing internal experiences. Natural recognition is repla
 - Internal-state anxiety
 
 **Cascade effects:**
-<nang-nyams-'phel-internalization> produces <state-cultivation> [experience building] → <internal-anxiety> [state monitoring] → <natural-display-miss> [cultivation over nature]
+<nang-nyams-'phel-internalization> → <state-cultivation> [experience building] → <internal-anxiety> [state monitoring] → <natural-display-miss> [cultivation over nature]
 
 ---
 
@@ -684,10 +684,10 @@ Conceptual-non-duality: "awareness and experience are one" as thought. Natural n
 **Secondary consequences:**
 - Intellectual pride: "I understand non-duality"
 - Missing that non-duality is not position but nature
-- Thinking about unity rather than than resting in it
+- Thinking about unity rather than resting in it
 
 **Cascade effects:**
-<rig-nyams-gnyis-med-confusion> → <obscuration>
+<rig-nyams-gnyis-med-confusion> → <conceptual-non-duality> [thought about unity] → <philosophical-pride> [understanding vs being] → <natural-non-duality-miss> [position over nature]
 
 ---
 
@@ -708,11 +708,11 @@ Technique-mixing: treating union as practice method. Natural indivisibility is r
 - Method-seeking for natural unity
 
 **Cascade effects:**
-<khor-'das-'dres-pa-blending> leads to <technique-mixing> [method approach] → <combining-effort> [union practice] → <natural-indivisibility-miss> [technique over nature]
+<khor-'das-'dres-pa-blending> → <technique-mixing> [method approach] → <combining-effort> [union practice] → <natural-indivisibility-miss> [technique over nature]
 
 ---
 
-<sa-chu-me-rlung-materialization> <element-objectification>
+[4746-4747] <sa-chu-me-rlung-materialization> <element-objectification>
 
 **Misreading:**
 The reference to earth, water, fire, wind (*sa chu me rlung*) interpreted as actual material elements to observe or work with, creating elemental-materialism.
@@ -729,11 +729,11 @@ Element-materialization: treating elements as external objects. Symbolic indicat
 - Literalism about symbolic language
 
 **Cascade effects:**
-<sa-chu-me-rlung-materialization> triggers <element-materialization> [external objects] → <literal-observation> [watching elements] → <symbolic-miss> [objects over indications]
+<sa-chu-me-rlung-materialization> → <element-materialization> [external objects] → <literal-observation> [watching elements] → <symbolic-miss> [objects over indications]
 
 ---
 
-<rag-pa-yul-fixation> <coarse-object-focus>
+[4746-4747] <rag-pa-yul-fixation> <coarse-object-focus>
 
 **Misreading:**
 The phrase "taking coarse objects as focal point" (*dngos po rag pa la yul du gtad pa*) interpreted as permission to focus on ordinary phenomena, creating permission for distraction.
@@ -750,14 +750,14 @@ Distraction-permission: using coarse objects as meditation subjects. Recognition
 - Dilution of practice into ordinary mind
 
 **Cascade effects:**
-<rag-pa-yul-fixation> produces <recognition-blocked>
+<rag-pa-yul-fixation> → <distraction-permission> [ordinary focus] → <dilution-excuse> [everything is practice] → <recognition-miss> [distraction over nature]
 
 ---
 
-<ma-grol-neglect-justification> <non-liberation-permission>
+[4746-4751] <ma-grol-neglect-justification> <non-liberation-permission>
 
 **Misreading:**
-The statement that focusing on coarse elements "does not liberate" (*mi grol*) interpreted as acknowledging some practices don't work, creating hierarchy where some methods are "ineffective" rather than than understanding why.
+The statement that focusing on coarse elements "does not liberate" (*mi grol*) interpreted as acknowledging some practices don't work, creating hierarchy where some methods are "ineffective" rather than understanding why.
 
 **Why it arises:**
 "Does not liberate" suggests failure. Comparison implies hierarchy. Method-evaluation mindset: some work, some don't. The practitioner seeks "effective" methods.
@@ -771,7 +771,7 @@ Method-hierarchy: categorizing practices as liberating/non-liberating. Natural r
 - Arrogance about "correct" practice
 
 **Cascade effects:**
-<ma-grol-neglect-justification> triggers <method-hierarchy> [effective vs ineffective] → <technique-evaluation> [practice comparison] → <recognition-miss> [method over nature]
+<ma-grol-neglect-justification> → <method-hierarchy> [effective vs ineffective] → <technique-evaluation> [practice comparison] → <recognition-miss> [method over nature]
 
 ---
 

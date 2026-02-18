@@ -1,6 +1,6 @@
-<concept>
+[1732-1739] <concept>
 The Faculties (*dbang po*)
-**Philological analysis:**
+**Analysis:**
 
 **Etymology:** *yul 'dzin pa las dbang byed pas na dbang po* — "they are called faculties because they have power over grasping objects."
 
@@ -20,9 +20,9 @@ The Faculties (*dbang po*)
 
 This division maps onto the standard five (*pancha-indriya*) plus one (*yid bde*) from the Abhidharma-samuccaya tradition.
 
-<philology>
+[1740-1756] <philology>
 The Elemental and Wisdom Faculties
-**Close reading:**
+**Analysis:**
 
 **The Six Form Faculties and Their Elements:**
 
@@ -44,9 +44,9 @@ This elemental correspondence reflects the standard Ayurvedic-Buddhist physiogno
 5. **Wisdom** (*shes rab kyi dbang po*) — *lta ba'i don la 'jug pa* — engaging the meaning of view
 6. **Mental Peace** (*yid bde ba'i dbang po*) — *rtog pa med pa'i don sgrub pa* — producing non-conceptual meaning
 
-<architectural-analysis>
+[1757-1781] <structure>
 Objects and Non-Objects
-**Investigation:**
+**Analysis:**
 
 Longchenpa presents the fifth category: *yul dang yul can gyi rnam pa* (aspects of objects and possessors of objects).
 
@@ -76,9 +76,9 @@ Longchenpa presents the fifth category: *yul dang yul can gyi rnam pa* (aspects 
 
 This tripartite structure prefigures the prasangika distinction between conventional and ultimate truths, with the addition of the "beyond extremes" (*mtha' las 'das pa*) category that characterizes Dzogchen's unique ontological position.
 
-<historical-context>
+[1782-1810] <context>
 The Uttaratantra Citation
-**Consideration:**
+**Analysis:**
 
 Longchenpa cites the *Rgyud bla ma* (Uttaratantra/Ratnagotravibhaga), the seminal treatise on buddha-nature attributed to Maitreya via Asanga. This citation provides the metaphysical grounding for the entire presentation.
 
@@ -114,9 +114,9 @@ This presents a hierarchical dependent origination (*rten 'brel*):
 
 **The Ultimate Point:** *sems kyi rang bzhin chos rnams ni / thams cad yang gnas ma yin* — "the phenomena of mind's self-nature do not abide anywhere."
 
-<concept>
+[1811-1822] <concept>
 The Three Types of Action
-**Examination:**
+**Analysis:**
 
 From the previous analysis emerge three types of action (*las gsum*):
 
@@ -138,7 +138,7 @@ From the previous analysis emerge three types of action (*las gsum*):
 **Dzogchen Critique:** All three are still *'khor ba'i las* — actions of samsara. True liberation transcends even meritorious action.
 
 [1823] <structure> The Six Afflictions
-**Philological analysis:**
+**Analysis:**
 
 The text introduces the six root afflictions (*nyon mongs pa drug*), which serve as the foundation for all contaminated actions. These are:
 
@@ -151,9 +151,9 @@ The text introduces the six root afflictions (*nyon mongs pa drug*), which serve
 
 These six function as the proximate cause for the arising of action, which in turn produces the aggregates, elements, and faculties that constitute the ground of delusion.
 
-<context>
+[1824-1836] <context>
 The Sun-Moon-Union Analysis of Afflictions
-**Lexical Analysis:**
+**Analysis:**
 
 The *Nyi zla kha sbyor* (Sun-Moon-Union Tantra) provides the scriptural authority for the six root afflictions. Each represents confusion (*'khrul pa*) arising from a specific dimension of experience:
 
@@ -171,9 +171,9 @@ The *Nyi zla kha sbyor* (Sun-Moon-Union Tantra) provides the scriptural authorit
 - Memory grasping recollections (*dran pa rnam rjes su 'dzin pa'i yid*)
 - Concepts becoming the basis of habitual tendencies and doubt
 
-<structure>
+[1837-1841] <structure>
 The 84,000 Afflictions
-**Hermeneutical Frame:**
+**Analysis:**
 
 Longchenpa presents the traditional enumeration: the conceptual masses (*rtog tshogs*) generate 84,000 (*brgyad khri bzhi stong*) afflictions.
 
@@ -185,9 +185,9 @@ Longchenpa presents the traditional enumeration: the conceptual masses (*rtog ts
 
 This taxonomy derives from the *Abhidharmakosa* and reflects the standard Yogacara classification of defilements.
 
-<concept>
+[1842-1863] <concept>
 The Rope-Snake Metaphor
-**Architectural Analysis:**
+**Analysis:**
 
 The text presents the classic *thag pa sbrul 'dzin* (rope-snake grasping) metaphor from the *Mu tig phreng ba* (Pearl-Garland):
 
@@ -215,19 +215,19 @@ All aspects of that are liberated
 **Dzogchen Synthesis:** The aggregates are *sgyu ma sprul pa bzhin* — "like illusory emanations" — the same term used to describe the Buddha's display (*sprul pa*).
 
 [1864] <structure> Transition to Vehicle Analysis
-**Tradition Context:**
+**Analysis:**
 
 The text completes the presentation of samsaric phenomena (*'khor ba'i chos*) and transitions to the vehicles (*theg pa*). Knowing these confused appearances (*'khrul snang*) leads to entry into the ultimate truth (*don dam pa'i bden pa*).
 
-<context>
+[1865-1867] <context>
 Chapter Transition
-**Architectural Analysis:**
+**Analysis:**
 
 The text marks the completion of the second major section with a citation from the Sun-Moon-Union Tantra: *de kun 'khor ba'i rgyu 'ba' zhig lags* — "all of these are merely the causes of samsara." This establishes that the preceding analysis of aggregates, elements, sense sources, and faculties serves as the foundation for understanding cyclic existence.
 
-<structure>
+[1868-1880] <structure>
 Chapter III: Detailed Division of Samsaric Phenomena
-**Architectural Analysis:**
+**Analysis:**
 
 The chapter heading establishes the scope: *'khor ba'i chos rab tu dbye ba ste rim khang gsum pa* — "The detailed division of samsaric phenomena—third chapter."
 
@@ -247,9 +247,9 @@ Samsara and nirvana.
 1. **Worldly Vehicle** (*'jig rten pa'i theg pa*)
 2. **Transcendent Vehicle** (*'jig rten las 'das pa'i theg pa*)
 
-<concept>
+[1881-1897] <concept>
 The Worldly Vehicle Analysis
-**Close Reading:**
+**Analysis:**
 
 Longchenpa applies the fivefold analysis (*lnga*) to the worldly vehicle:
 
@@ -281,9 +281,9 @@ This vehicle accumulates merit (*bsod nams*) through:
 
 **Technical Term:** *sor bzhag* (fixated/established separately) indicates that this vehicle establishes samsara as the basis (*rten*) without transcending it.
 
-<philology>
+[1898-1901] <philology>
 Transition to Mistaken Vehicles
-**Investigation:**
+**Analysis:**
 
 The text transitions to *phyin ci log gi theg pa* (mistaken vehicles), citing the *Rang shar* (Self-Arisen Tantra) as the authoritative source. These represent the non-Buddhist (*mu stegs*) philosophical systems that grasp at erroneous views.
 

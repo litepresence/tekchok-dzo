@@ -1,13 +1,13 @@
-<structural-mapping>
+[19657-19677] <structure>
 ## Transition to Volume 2
-**Close reading:** Lines 19636-19677 mark the conclusion of Volume 1 and transition to Volume 2. The structural formula "*'di dag rgyas par bshad na gsal ba mtha' yas pa'i phyir spros pas chog go/*" (19636) indicates that detailed expansion would be infinite—thus concluding the ground presentation.
+**Analysis:** Lines 19636-19677 mark the conclusion of Volume 1 and transition to Volume 2. The structural formula "*'di dag rgyas par bshad na gsal ba mtha' yas pa'i phyir spros pas chog go/*" (19636) indicates that detailed expansion would be infinite—thus concluding the ground presentation.
 
-<grammatical-examination>
+[19657-19677] <philology>
 **Conclusion Formula:**
 - *spros pas chog go/*: "Elaboration is sufficient"—standard scholastic closing formula
 - *gnyis pa ye shes kyi rang bzhin rgyas par bshad pa/*: "Second: expanded explanation of wisdom's nature"—this appears to be a transitional error; the "second" refers to the next major division, which is Volume 2's systematic path presentation
 
-<concept>
+[19657-19677] <concept>
 **The Ground-Path Relationship:**
 The closing lines establish the relationship between Volume 1 (Ground) and Volume 2 (Path):
 - Volume 1 has established the *gzhi gnas kyi ye shes/* (wisdom abiding as basis)
@@ -15,13 +15,13 @@ The closing lines establish the relationship between Volume 1 (Ground) and Volum
 
 This mirrors the two rigpas distinguished above: the ground-rigpa (Volume 1) and the path-rigpa (Volume 2).
 
-<doxographical-placement>
+[19657-19677] <context>
 **Completion of Volume 1:**
 The text marks the completion of the ground presentation (*gzhi'i rnam bzhag*). The somatic cosmology, subtle body architecture, and wisdom-taxonomies established in Volume 1 provide the foundation for Volume 2's path instructions. This structure follows the standard Buddhist pedagogical sequence: first establish the ground, then teach the path, then describe the fruition.
 
-<architectural-analysis>
+[19657-19677] <structure>
 ## Summary: Volume 1's Architecture
-**Philological analysis:** The conclusion of Volume 1 reveals the *mdzod* genre's systematic structure:
+**Analysis:** The conclusion of Volume 1 reveals the *mdzod* genre's systematic structure:
 
 **Volume 1: The Ground (*gzhi*)**
 - Homage and introduction
@@ -38,32 +38,32 @@ The text marks the completion of the ground presentation (*gzhi'i rnam bzhag*). 
 
 This architectural clarity demonstrates Longchenpa's mastery of the *mdzod* genre—comprehensive, systematic, and progressive.
 
-<concept>
+[19657-19677] <concept>
 **The Non-Dual Ground-Path:**
 Despite the structural distinction between ground (Volume 1) and path (Volume 2), the text emphasizes their non-duality:
 - *gzhi gnas kyi ye shes/* (wisdom abiding as basis) is not different from *mtshan nyid 'dzin pa'i ye shes/* (wisdom holding characteristics)
 - The path does not create what the ground lacks; it recognizes what the ground always is
 - This is the Dzogchen distinction between *ye gnas/* (primordially abiding) and *sbyang ba/* (purification)—the latter is recognition, not transformation
 
-<concept>
+[19822-19839] <concept>
 The Expanse Lamp: Five-Light Self-Resonance
 
-**Examination:**
-- **<structural-mapping>** Fourth lamp: expanse lamp (*dbyings kyi sgron ma*). Its object is five-light self-resonance (*'od lnga'i rang gdangs*).
+**Analysis:**
+- **<structure>** Fourth lamp: expanse lamp (*dbyings kyi sgron ma*). Its object is five-light self-resonance (*'od lnga'i rang gdangs*).
 
-- **<linguistic-analysis>** Technical terminology: *dbyings kyi sgron ma* (expanse lamp), *'od lnga'i rang gdangs* (five-light self-resonance), *stong pa* (emptiness), *gsal* (clear), *sgrib bral* (free from obscuration), *gdangs phyin pa* (radiance pervaded), *khyab cing yangs pa* (pervasive and expansive), *gcig 'dus pa* (gathered as one), *bag rdul dengs pa* (bag full of dust), *mnyam rdzogs chos nyid* (equally complete nature), *'od gsal dag pa'i lus* (light clear pure body).
+- **<philology>** Technical terminology: *dbyings kyi sgron ma* (expanse lamp), *'od lnga'i rang gdangs* (five-light self-resonance), *stong pa* (emptiness), *gsal* (clear), *sgrib bral* (free from obscuration), *gdangs phyin pa* (radiance pervaded), *khyab cing yangs pa* (pervasive and expansive), *gcig 'dus pa* (gathered as one), *bag rdul dengs pa* (bag full of dust), *mnyam rdzogs chos nyid* (equally complete nature), *'od gsal dag pa'i lus* (light clear pure body).
 
-- **<historical-context>** Citation from *Thal 'gyur*: expanse's object is emptiness; clear and obscuration-free radiance pervaded; pervasive expansive gathered as one; in sky full of dust; equally complete pure nature; clear pristine cognition five's resonance; light clear pure body itself.
+- **<context>** Citation from *Thal 'gyur*: expanse's object is emptiness; clear and obscuration-free radiance pervaded; pervasive expansive gathered as one; in sky full of dust; equally complete pure nature; clear pristine cognition five's resonance; light clear pure body itself.
 
 ---
 
-<architectural-analysis>
+[19840-19867] <structure>
 Supports of the Four Lamps: General and Specific
 
-**Investigation:**
+**Analysis:**
 - **<structure>** Third topic: supports (*rten*). Two divisions: (1) general support of lamps, (2) specific supports for each lamp.
 
-- **<grammatical-examination>** Technical terminology: *sgron ma spyi'i rten* (lamps' general support), *'khor ba dbyings su grol ba'i rten byed* (support that liberates samsara into expanse), *so so'i rten* (individual supports), *rgyang zhags* (far-cast), *shes rab* (wisdom), *thig le* (sphere), *dbyings* (expanse), *dag ma dag gnyis snang ba* (appearance of pure and impure two), *las dang tshogs pa* (karma and assembly), *tshig don* (word-meaning), *yid min rtog pa* (mind-not discrimination), *grub pa'i mtha'* (established extreme), *phyi nang gi snang shes gnyis* (outer inner appearance consciousness two), *rnam shes* (consciousness), *bar snang* (intermediate space), *rtsa rlung thig le* (channel wind sphere).
+- **<philology>** Technical terminology: *sgron ma spyi'i rten* (lamps' general support), *'khor ba dbyings su grol ba'i rten byed* (support that liberates samsara into expanse), *so so'i rten* (individual supports), *rgyang zhags* (far-cast), *shes rab* (wisdom), *thig le* (sphere), *dbyings* (expanse), *dag ma dag gnyis snang ba* (appearance of pure and impure two), *las dang tshogs pa* (karma and assembly), *tshig don* (word-meaning), *yid min rtog pa* (mind-not discrimination), *grub pa'i mtha'* (established extreme), *phyi nang gi snang shes gnyis* (outer inner appearance consciousness two), *rnam shes* (consciousness), *bar snang* (intermediate space), *rtsa rlung thig le* (channel wind sphere).
 
 - **<concept>** General support: liberates samsara into expanse. The *Thal 'gyur* citation: pure pristine cognition lamp's support—generally support and supported—cause samsara-nirvana seed to develop.
 
@@ -75,10 +75,10 @@ Specific supports:
 
 ---
 
-<concept>
+[19868-19877] <concept>
 Distinction Between Support and Object
 
-**Etymological Note:**
+**Analysis:**
 - **<philology>** Technical terminology: *rten dang yul gyi khyad par* (distinction of support and object), *ldan chos kyi yon tan* (possessed dharma qualities), *rten dang brten par bzhag* (established as support and supported), *yul yul snang* (object object-appearance), *chos nyid mngon sum snang ba* (nature direct appearance), *rtog dpyod zad pa* (exhausted investigation), *sgom pa* (meditation).
 
 - **<concept>** Crucial distinction: near (support, supported, supported manner) vs. far (object, object-appearance). Support (*rten*) is the three gathered; object (*yul*) is the three gathered as object-dharma.
@@ -89,10 +89,10 @@ Specific functions:
   - Sphere lamp: seeing the flower expands appearance.
   - Expanse lamp: light clear arising empties delusion-appearance.
 
-<context>
+[19878-19901] <context>
 Cessation to Original Purity: The Thal 'gyur Citation on Support-Object Distinction
 
-**Structural Framework:**
+**Analysis:**
 - **<structure>** Extended citation from *Thal 'gyur* elaborating the distinction between support and object with specific outcomes for each lamp.
 
 - **<philology>** Technical terminology: *chos nyid zad pa* (nature exhausted), *ka dag gi la gshegs* (proceed to original purity), *rtan yul khyad par* (support-object distinction), *gsum gyi byed 'dus* (three's function gathering), *skyon med bya byed* (faultless actor-action), *chos nyid ma spyod* (not manipulate nature), *las dang bag chags dag byed* (purify karma and latencies), *'khor ba dong sprugs* (churn samsara), *myang 'das mtshams su reg nus* (able to touch nirvana-juncture), *rtog dpyod zad pa'i sems nyid* (mind itself with exhausted investigation), *'khor ba rgyang du 'phangs* (throw samsara far away).
@@ -106,10 +106,10 @@ Cessation to Original Purity: The Thal 'gyur Citation on Support-Object Distinct
 
 ---
 
-<structure>
+[19902-19926] <structure>
 The Channel-Root Residence: Fourfold Practice Integration
 
-**Structural Mapping:**
+**Analysis:**
 - **<structure>** Synthesis: seeing four lamps' meaning through familiarization causes body-wisdom appearances to fill space. These arise from inner resonance of channels.
 
 - **<philology>** Technical terminology: *goms pa* (familiarization), *sku dang ye shes kyi snang ba* (body and wisdom appearances), *nam mkha' gang ba* (fill space), *nang gdangs* (inner resonance), *rtsa ba nang bzhugs* (channel-root inner-residing), *nor bu 'phra bkod* (Jewel Subtle Array), *rig pa'i gnas lugs* (awareness's natural condition), *thugs kyi dkyil* (heart center), *yab yum gnyis kyi cha 'dzin* (holding father's and mother's parts), *thabs dang shes rab* (means and wisdom), *lhun rdzogs thig le chen po* (spontaneously complete great sphere).
@@ -123,10 +123,10 @@ The Channel-Root Residence: Fourfold Practice Integration
   - Clear measure: like sun-moon mandala.
   - Also: clear brilliant glory; going, coming, abiding; without action going-coming; self-complete at complete ground.
 
-<concept>
+[19927-19947] <concept>
 The Four Wrathful Deities and Fourfold Practice
 
-**Architectural Analysis:**
+**Analysis:**
 - **<structure>** Extended presentation of the four wrathful deities and the fourfold practice of view-meditation-conduct-result.
 
 - **<philology>** Technical terminology: *rang rang du khong khro bor gnas* (each residing as inner wrath), *yab dang yum du mngon par snang* (manifest as father and mother), *khro dang khro mo'i tshul 'chang* (holding wrathful male-female manner), *sku yi ye shes re re la* (for each body wisdom), *dbu yi ye shes lnga lnga* (five head wisdoms each), *nyams su gang gis len* (whoever takes into experience), *lta sgom spyod 'bras* (view-meditation-conduct-result).
@@ -143,10 +143,10 @@ Fourfold practice:
 
 ---
 
-<structure>
+[19948-19972] <structure>
 Localization of the Four Aspects and Four Palaces
 
-**Structural Mapping:**
+**Analysis:**
 - **<structure>** Specific localization (*gnas*) of view-meditation-conduct-result in the subtle body.
 
 - **<philology>** Technical terminology: *lta ba'i ngo bo* (view's essence), *'gag med zang thal* (ceaseless penetration), *sgom pa'i ngo bo* (meditation's essence), *rtog med mnyam gnas* (non-conceptual equal-abiding), *spyod pa'i ngo bo* (conduct's essence), *thal byung shugs grol* (spontaneous force-liberation), *'bras bu'i ngo bo* (result's essence), *dbyings rig rang gsal* (expanse-awareness self-luminous), *citta na* (in citta), *rtsa bzhi 'phro* (four channels spread), *dung khang* (conch house), *rin chen zur brgyad* (eight-cornered jewel), *rtsa yi gzhal yas* (channel palace), *dung khang bhandha* (conch-shell house bhandha), *lt byed mig gi gzhal yas* (view-doing eye palace).
@@ -161,10 +161,10 @@ Localization of the Four Aspects and Four Palaces
 
 ---
 
-<structure>
+[19973-19974] <structure>
 Introduction to Four Topics: Continuous Yoga
 
-**Arrangement:**
+**Analysis:**
 - **<structure>** Transition to four topics: (1) four continuous yogas (*rnal 'byor bzhi goms pa'i tshul*), (2) cutting deviations (*gol sa bcad tshul*), (3) gateway appearances (*sgo la snang tshul*), (4) temporal determination (*dus tshad ngos pa'i man ngag*).
 
 - **<philology>** Technical terminology: *rnal 'byor bzhi* (four yogas), *gol sa* (deviation/error), *sgo la snang tshul* (gateway appearance manner), *dus tshad* (temporal measure), *man ngag* (esoteric instruction).

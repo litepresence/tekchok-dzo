@@ -1,7 +1,7 @@
-<architectural-analysis>
+[2064-2072] <structure>
 Three Vehicles of Practice (*spyod pa gsum*)
 
-**Philological analysis:** Lines 2064-2072 present the threefold classification of practice-vehicles (*theg pa*) that structures the entire section:
+**Analysis:** Lines 2064-2072 present the threefold classification of practice-vehicles (*theg pa*) that structures the entire section:
 
 1. **First:** Causal-characteristic vehicle (*rgyu mtshan nyid kyi theg pa'i spyod pa*) - sutra approach
 2. **Second:** General secret mantra (*gsang sngas spyi'i spyod pa*) - outer/inner tantra
@@ -19,7 +19,7 @@ The three practices here correspond to:
 
 **Section Placement:** This serves as the introduction to the detailed presentation of the twenty-one vajra songs (*rdo rje'i glu*). The three practices establish the framework—only the third (Great Completion) fully manifests the songs' meaning.
 
-<grammatical-examination>
+[2064-2086] <philology>
 ## Terminology: The Three Practices
 
 **Grammatical Structures:**
@@ -53,7 +53,7 @@ The negative *ma* + verb creates technical terms:
 - *ma zhen* - not fixated
 - *ma yin* - not existent (not mere negation but "otherness")
 
-<historical-context>
+[2064-2096] <context>
 ## Doxographical Framework: Vehicles Comparison
 
 **Nyingma Nine Vehicles Classification:**
@@ -82,10 +82,10 @@ The negative *ma* + verb creates technical terms:
 - *Theg mchog mdzod* (Treasury of Supreme Vehicles)
 - *Shing rta chen po* (Great Chariot) commentary
 
-<concept>
+[2064-2096] <concept>
 ## The Paradox of Practice
 
-**Close reading:** Each practice contains an internal paradox:
+**Analysis:** Each practice contains an internal paradox:
 
 **Sutra Paradox:**
 - Intention: Non-attachment (*ma chags*)
@@ -107,10 +107,10 @@ This reflects the *prasaṅga* (consequence) vs *svātantrika* (autonomous) dist
 - Sutra/Tantra: Gradual removal of defilements (*rtsol sgrub*)
 - Dzogchen: Recognition of primordial freedom (*gshis grol*)
 
-<structure>
+[2097-2145] <structure>
 ## Twenty-One Vajra Songs Practice
 
-**Investigation:** Lines 2097-2145 present the twenty-one-fold practice system (*spyod pa nyer gcig*) derived from the *Nyi zla kha sbyor* tantra. The practices are organized as animal/natural metaphors:
+**Analysis:** Lines 2097-2145 present the twenty-one-fold practice system (*spyod pa nyer gcig*) derived from the *Nyi zla kha sbyor* tantra. The practices are organized as animal/natural metaphors:
 
 1. *Bung ba ltar* - Like bee (gather essence)
 2. *Ri dwags ltar* - Like deer (avoid confusion)
@@ -136,7 +136,7 @@ This reflects the *prasaṅga* (consequence) vs *svātantrika* (autonomous) dist
 
 **Note:** Lines 2123-2144 include additional practices, with *gter chen ltar* (like great vulture) as #21.
 
-<linguistic-analysis>
+[2097-2145] <philology>
 ## Animal Metaphor Analysis
 
 **Simile Structure:**
@@ -149,7 +149,7 @@ Each practice follows the pattern:
 - *gyis* (instrumental) marks the practice as means
 - *pas* (ergative) indicates agency
 
-**Terminology:**
+**Terminological Precision:**
 
 | Practice | Tibetan | Sanskrit Equivalent | Function |
 |----------|---------|---------------------|----------|
@@ -175,7 +175,7 @@ Each practice follows the pattern:
 | Garuḍa cutting | *bya khyung g.yangs rlabs bcad* | *garuḍa* | Cut through abyss |
 | Mountain dwelling | *ri bo 'gyur med bde steng spyod* | *giri* | Unchanging abiding |
 
-<context>
+[2097-2150] <context>
 ## Vajra Song Contexts
 
 **The *Rdo rje glu* Tradition:**
@@ -196,10 +196,10 @@ Vajra songs (*rdo rje glu*) are mystical verses sung in tantric practice:
 
 **Historical Context:** This tantra is attributed to the *Atiyoga* class, specifically *spy ti* (general) level. Its presence here establishes the song-practice as Dzogchen, not merely tantric.
 
-<concept>
+[2097-2177] <concept>
 ## Esoteric Body of the Songs
 
-**Close Reading:** Lines 2178-2211 present the "actual vajra song" (*glu dngos*) in three aspects:
+**Analysis:** Lines 2178-2211 present the "actual vajra song" (*glu dngos*) in three aspects:
 
 **1. Body Posture (*lus kyi cho ga*):**
 - Peaceful (*zhi*) costume: silks, jewels, crown, vajra/bell
@@ -227,7 +227,7 @@ The three correspond to:
 
 This represents the *phyogs thun* (differentiating juncture) where practitioner recognizes the nature of apparent reality.
 
-<philology>
+[2178-2288] <philology>
 ## Mantra and Seed Syllables
 
 **The Twenty-One Syllable Verses:**
@@ -274,7 +274,7 @@ sa sā / ri rī / li lī / a āi / mi mī / ra rā ra
 - Melodic modulation (*'khyog por gdangs snyan pos*)
 - Element invocation (*sa sna drangs*)
 
-<context>
+[2178-2314] <context>
 ## Comparative Conduct Systems
 
 **The Twenty-One Practices Comparison:**
@@ -298,7 +298,7 @@ Longchenpa's presentation is distinctive in:
 2. Integration with Dzogchen view (*lta ba*)
 3. Explicit scriptural sourcing (*nyi zla kha sbyor*)
 
-<philology>
+[2289-2350] <philology>
 ## Conduct and Time Categories
 
 **Threefold Conduct Timing:**
@@ -332,10 +332,10 @@ The term *ru shan* (line 2291, 2152) requires analysis:
 - *te* (quotative): Marks cited passages
 - *zhing* (continuative): Indicates ongoing practice
 
-<structure>
+[2351-2418] <structure>
 ## Advanced Practice: Direct Introduction
 
-**Investigation:** Lines 2351-2418 present the advanced conduct where appearances become the path:
+**Analysis:** Lines 2351-2418 present the advanced conduct where appearances become the path:
 
 **Five Key Instructions:**
 
@@ -365,7 +365,7 @@ The term *ru shan* (line 2291, 2152) requires analysis:
 
 This establishes the *sngags* (mantra) view that defilements are themselves liberated—not removed but recognized as wisdom-display.
 
-<philology>
+[2418-2520] <philology>
 ## Meditation Techniques: Sevenfold Mind-Fixation
 
 **The Seven Bindu Trainings:**
@@ -409,7 +409,7 @@ Lines 2462-2516 present seven methods of mind-fixation (*sems 'dzin bdun*):
 - *Gzer 'jug* - penetrate
 - *Mnyam par bzhag* - equipoise
 
-<context>
+[2418-2688] <context>
 ## Comparative Meditation Systems
 
 **Nyingma *Sems 'dzin* vs Other Systems:**
@@ -433,10 +433,10 @@ Lines 2672-2688 distinguish:
 
 This distinction is unique to Dzogchen and differentiates it from all other Buddhist meditation systems.
 
-<concept>
+[2500-2688] <concept>
 ## Bodhisattva Samādhi Systems
 
-**Examination:** Lines 2638-2688 present the bodhisattva samādhi (*byang chub sems dpa'i bsam gtan*) system:
+**Analysis:** Lines 2638-2688 present the bodhisattva samādhi (*byang chub sems dpa'i bsam gtan*) system:
 
 **Three Types:**
 
@@ -467,7 +467,7 @@ These three represent:
 > "Mahāyāna samādhi: By nature-force samādhi, unconditioned body-speech settles..."
 
 This establishes the natural samādhi as the pinnacle of practice.
-<structure>
+[2100-2143] <structure>
 The Twenty-One Vajra Conducts: Simile-Based Practice Framework
 **Architectural Analysis:** This passage presents the twenty-one conduct similes (*spyod pa nyi shu rtsa gcig gi dpe*) from the *Nyi zla kha sbyor* (Sun-Moon Union) tantra. These are the definitive Dzogchen conduct instructions, each using an animal or natural metaphor to illustrate a specific aspect of unfabricated practice.
 
@@ -515,7 +515,7 @@ The twenty-one conducts are organized in seven triads, each representing:
 20. **Garuda** (*bya khyung*): Cut precipices with waves
 21. **Mountain** (*ri bo*): Engage self-pure unchanging on high
 
-<philology>
+[2100-2143] <philology>
 **Terminological Analysis:**
 
 *Lta bu'i spyod pa* (ལྟ་བུའི་སྤྱོད་པ་) - Conduct like/similar: The simile-based conduct instructions. *Lta bu* indicates similarity without identity.
@@ -545,7 +545,7 @@ The twenty-one conducts are organized in seven triads, each representing:
 *Nas* (ablative): Indicates source or origin
 *Kyis* (instrumental): Means of conduct
 
-<context>
+[2100-2143] <context>
 **Tantra Sources:**
 
 *Nyi zla kha sbyor* (Sun-Moon Union): Major Anuyoga tantra, primary source for the twenty-one conducts. Presents the conduct of indivisibility (*zung 'jug spyod pa*).
@@ -569,7 +569,7 @@ The twenty-one conducts are transmitted through:
 
 The twenty-one similes represent Dzogchen's "conduct beyond conduct"—spontaneous activity without deliberate observance.
 
-<concept>
+[2100-2143] <concept>
 **The Twenty-One Conducts Decoded**
 
 **Group 1: Essence Extraction and Silence**

@@ -1,6 +1,6 @@
-<architectural-analysis>
+[1582-1586] <structure>
 Fivefold Analysis Framework
-**Investigation:**
+**Analysis:**
 
 **The Five Topics:**
 1. *yul khams* — Object-elements
@@ -11,9 +11,9 @@ Fivefold Analysis Framework
 
 **Opening:** *dang po ni* — First [topic]: Object-elements
 
-<linguistic-analysis>
+[1587-1606] <philology>
 The Five Outer Elements
-**Philological analysis:**
+**Analysis:**
 
 **Definition:** *mang zhing rgya che ba'i don gyis na khams* — Element (*dhatu*) means extensive and vast
 
@@ -33,9 +33,9 @@ The Five Outer Elements
 
 **Etymological Analysis:** Each element "holds" (*khams* from *'dzin*) its own nature and function.
 
-<context>
+[1607-1617] <context>
 The Inner Elements: Container and Contained
-**Consideration:**
+**Analysis:**
 
 **Bifurcation:**
 - *snod* — Container (world)
@@ -58,9 +58,9 @@ The Inner Elements: Container and Contained
 
 **Source:** *nyi zla kha sbyor* — Sun-Moon Lip-Union Tantra
 
-<concept>
+[1618-1622] <concept>
 Mind-Collection Elements
-**Close reading:**
+**Analysis:**
 
 **Two Types:**
 1. *snod kyi khams* — Container element: gathers sentient beings
@@ -72,9 +72,9 @@ Mind-Collection Elements
 
 **Dzogchen Insight:** Even the "outer" physical elements are ultimately manifestations of mind's potency (*snang rtsal*), not independent material realities.
 
-<philology>
+[1623-1624] <philology>
 Form and Formless Realms from Mindfulness
-**Technical Examination:**
+**Analysis:**
 
 **Form Realm Element:**
 - *dran pa yas pa* — Immeasurable mindfulness
@@ -86,9 +86,9 @@ Form and Formless Realms from Mindfulness
 
 **Key Insight:** Different types of mindfulness/memory produce different realm-experiences.
 
-<concept>
+[1625-1629] <concept>
 Spontaneous Arising from Awareness-Potency
-**Close Reading:**
+**Analysis:**
 
 **Core Mechanism:**
 - *nang sems snang rtsal las rang bzhin du shar ba* — Inner mind-appearance-potency spontaneously arisen by nature
@@ -105,9 +105,9 @@ Spontaneous Arising from Awareness-Potency
 - With branches, flowers, leaves spontaneously arising
 - **No external cause needed** — everything arises from mind-nature
 
-<structure>
+[1630-1642] <structure>
 Threefold Analysis: Object, Sense, Feeling
-**Close Reading:**
+**Analysis:**
 
 **Three Categories:**
 1. *yul* — Object
@@ -134,9 +134,9 @@ Threefold Analysis: Object, Sense, Feeling
 - Sense-consciousness = present apprehension
 - Feeling = subsequent experience
 
-<philology>
+[1643-1652] <philology>
 The Eighteen Elements from Mind Itself
-**Detailed Analysis:**
+**Analysis:**
 
 **Mechanism:** *yul dang shes pa 'dus pa las* — From object and consciousness gathering
 - Produces feeling (*tshor ba*) in that form
@@ -155,9 +155,9 @@ From *sems nyid las byung ba'i khams* — Elements arisen from mind itself:
 
 **Dzogchen Synthesis:** All eighteen elements reduce to knowing/awareness (*shes pa/rig pa*) — nothing exists outside mind's nature.
 
-<philology>
+[1653-1664] <philology>
 The Six Contact Elements from Mind-Nature
-**Syntactic Structure:**
+**Analysis:**
 
 Longchenpa completes the presentation of the eighteen elements (*drug tshan gsum*), demonstrating how the six contact elements (*'dus te reg pa'i khams*) arise from the same mind-source as the preceding twelve sense-consciousness elements.
 
@@ -171,9 +171,9 @@ Longchenpa completes the presentation of the eighteen elements (*drug tshan gsum
 2. Object (*yul*)
 3. Consciousness (*rnam shes*)
 
-<structure>
+[1665-1666] <structure>
 Summary: Elements as Object-Holding
-**Philological Analysis:**
+**Analysis:**
 
 Longchenpa synthesizes: *khams de dag rnams kyang yul 'dzin par byed pa yin no* — "these elements also accomplish the holding of objects." This reveals the functional unity underlying the apparent diversity of the eighteen elements.
 
@@ -181,9 +181,9 @@ The concluding statement *de yang 'khrul pa nyid nang du 'dzin pa'i cha las byun
 
 **Architectural Significance:** This completes the first major section on *khams* (elements), transitioning to *phung po* (aggregates).
 
-<concept>
+[1667-1670] <concept>
 The Two-Fold Aggregate Classification
-**Structural Framework:**
+**Analysis:**
 
 The text shifts to the second major category: *rten phung po* (basis-aggregates). Longchenpa establishes a fundamental bifurcation:
 

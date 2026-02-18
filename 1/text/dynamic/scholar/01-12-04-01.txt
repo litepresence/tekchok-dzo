@@ -1,17 +1,17 @@
-<architectural-analysis>
+[15036-15038] <structure>
 Transition to Great Bliss Cakra
-**Examination:** Structural transition via "བཞི་པ་" (fourth) introduces the analysis of the Great Bliss Cakra (bde chen 'khor lo). Sub-division "དང་པོ་" (first) presents general enumeration (rnam grangs spyir bstan pa). The passage establishes quantitative parameters: 360 major channels branch from 32 major petals ('dab), with 2,009 minor petals ('dab phran). The source text is identified as "rtsa gnas rin po che'i 'khor lo" - The Jewel Cakra of Channel Locations.
+**Analysis:** Structural transition via "བཞི་པ་" (fourth) introduces the analysis of the Great Bliss Cakra (bde chen 'khor lo). Sub-division "དང་པོ་" (first) presents general enumeration (rnam grangs spyir bstan pa). The passage establishes quantitative parameters: 360 major channels branch from 32 major petals ('dab), with 2,009 minor petals ('dab phran). The source text is identified as "rtsa gnas rin po che'i 'khor lo" - The Jewel Cakra of Channel Locations.
 
-<linguistic-analysis>
+[15039-15043] <philology>
 Crown Cakra Numerology
-**Close reading:** Crown cakra (spyi gtsug bde ba'i 'khor lo) specifications:
+**Analysis:** Crown cakra (spyi gtsug bde ba'i 'khor lo) specifications:
 - "sum brgya drug cu" - 360 major channels (shin tu che ba'i rtsa)
 - "rtsa phran nyis stong rtsa dgu" - 2,009 minor channels
 This numerical system (360 major, 2,009 minor) reflects tantric calculations based on lunar and solar cycles integrated with anatomical mapping.
 
-<structural-mapping>
+[15044-15062] <structure>
 Taxonomy of the 360 Channels
-**Consideration:** Systematic sevenfold classification of the 360 major channels by functional and ontological categories:
+**Analysis:** Systematic sevenfold classification of the 360 major channels by functional and ontological categories:
 1. 'du ba'i rtsa - gathering channels: 24 (lines 15044-15046)
 2. ye shes rtsa - wisdom channels: 50 (lines 15047-15048)
 3. sku'i rtsa - body channels: 38 (line 15049)
@@ -26,18 +26,18 @@ Secondary categories:
 11. lhag ma nyon mongs rtsa - remaining affliction channels: balance
 Verification: 24+50+38+20+32+50+28+10+10+12 = 274; remaining 86 channels allocated to nyon mongs.
 
-<concept>
+[15058-15062] <concept>
 Sub-categorization of Gathering Channels
-**Investigation:** The 24 gathering channels subdivide by affliction/element:
+**Analysis:** The 24 gathering channels subdivide by affliction/element:
 - Drug (6) - ma rig 'dus pa'i rtsa: ignorance-gathering channels
 - Drug (6) - 'dod chags bad kan rtsa: desire-phlegm channels
 - Drug (6) - gti mug mkhris pa'i rtsa: delusion-bile channels
 - Drug (6) - rlung gi rtsa: wind channels
 This reflects the integration of three poisons (dug gsum) with three humors (nyes pa gsum) in subtle body physiology.
 
-<context>
+[15063-15068] <context>
 Wisdom Channels and Five Jñānas
-**Philological analysis:** The 50 wisdom channels correspond to the five wisdoms (ye shes lnga):
+**Analysis:** The 50 wisdom channels correspond to the five wisdoms (ye shes lnga):
 - Line 15064: chos dbyings ye shes - dharmadhātu wisdom: 10 channels
 - Line 15065: me long ye shes - mirror wisdom: 10 channels
 - Line 15066: mnyam nyid ye shes - equality wisdom: equivalent number (de tsam mo)
@@ -45,9 +45,9 @@ Wisdom Channels and Five Jñānas
 - Line 15068: bya grub ye shes - all-accomplishing wisdom: same number
 Each jñāna allocated approximately 10 channels, maintaining numerical symmetry.
 
-<grammatical-examination>
+[15069-15083] <philology>
 Body Channels and the Eight Bodies
-**Examination:** The 38 body channels (sku yi rtsa) subdivide into pairs (gnyis gnyis) corresponding to different body typologies in Buddhist phenomenology:
+**Analysis:** The 38 body channels (sku yi rtsa) subdivide into pairs (gnyis gnyis) corresponding to different body typologies in Buddhist phenomenology:
 - Line 15071: rtsa yi sku - nirmāṇakāya (channel body)
 - Line 15072: dbyings kyi sku - dharmakāya (space body)
 - Line 15073: yangs pa'i sku - saṃbhogakāya (enjoyment body)
@@ -61,9 +61,9 @@ Body Channels and the Eight Bodies
 - Line 15081: gcig pa thig le 'ong - single bindu-arising
 This demonstrates the integration of trikāya doctrine with advanced Mahāyāna five-body theories.
 
-<concept>
+[15084-15090] <concept>
 Awareness Channels and Zoomorphic Symbolism
-**Close reading:** The 20 awareness channels (rig pa'i rtsa) incorporate zoomorphic symbolism typical of Tibetan visionary anatomy:
+**Analysis:** The 20 awareness channels (rig pa'i rtsa) incorporate zoomorphic symbolism typical of Tibetan visionary anatomy:
 - Line 15085: seng ge lta bu - lion-like: 2 channels
 - Line 15086: glang lta bu - bull-like: 2 channels
 - Line 15087: khyung chen lta bu - great garuḍa-like: 2 channels
@@ -72,9 +72,9 @@ Awareness Channels and Zoomorphic Symbolism
 - Line 15090: lhag ma - remaining: 1 each (10 total)
 These animal and elemental metaphors encode functional characteristics—lion (power), bull (stability), garuḍa (penetration), rainbow (display), fire (transformation).
 
-<linguistic-analysis>
+[15091-15098] <philology>
 Bindu and Element Channel Taxonomy
-**Consideration:** 
+**Analysis:** 
 Bindu channels (thig le'i rtsa): 32 total, divided into three groups of 10:
 - Line 15092: gzhi lam thig le - ground/path bindus
 - Line 15093: stong pa'i thig le - empty bindus
@@ -85,25 +85,25 @@ Element channels ('byung ba'i rtsa): 50 total, corresponding to five elements wi
 - Line 15098: chu yi sdud byed khrag - water-gathering blood
 This establishes correlations between channels, bindus, and elements through numerical parallelism (10 channels per category).
 
-<grammatical-examination>
+[15099-15102] <philology>
 Completion of Element Channel Analysis
-**Investigation:** Concludes enumeration of element channels ('byung ba'i rtsa):
+**Analysis:** Concludes enumeration of element channels ('byung ba'i rtsa):
 - Line 15099: sa yi skyed byed sha - earth-producing flesh: 10 channels
 - Line 15100: nam mkha'i spor byed sems - space-dispersing mind: 10 channels
 This completes the five-element system (wind, fire, water, earth, space) with 10 channels each, totaling 50 channels.
 
-<architectural-analysis>
+[15101-15108] <structure>
 Prajñā Channels Classification
-**Philological analysis:** The 28 prajñā channels (shes rab rtsa) subdivide functionally:
+**Analysis:** The 28 prajñā channels (shes rab rtsa) subdivide functionally:
 - Line 15102: dgu na 'byed byed pradz+nyA - nine analytical/differentiating prajñā channels
 - Line 15103: dgu na sdud byed dngas ma'o - nine gathering channels of essence
 - Line 15104: lnga na sgrol byed shes rab - five liberating prajñā channels
 - Line 15105: lnga na skyod par byed pa - five activating/moving channels
 Verification: 9+9+5+5 = 28 channels
 
-<concept>
+[15106-15116] <concept>
 Mind and Ignorance Channel Taxonomy
-**Examination:** 
+**Analysis:** 
 Mind channels (sems kyi rtsa): 10 total
 - Line 15107-15108: Distributed one each (re re), or two in one location (gcig na gnyis su)
 Ignorance channels (ma rig rtsa): 10 total, subdivided into four categories (line 15109):
@@ -113,9 +113,9 @@ Ignorance channels (ma rig rtsa): 10 total, subdivided into four categories (lin
 - Line 15113: 'dzin pa rtog pa'i gnas - apprehending-conceptual abiding: 2 channels
 - Line 15114: lhag ma - remaining: 1 each (2 total)
 
-<philology>
+[15115-15125] <philology>
 Affliction Channel Enumeration
-**Close reading:** Mind channels (yid rtsa): 12 total - two for each mind (yid re rtsa ni gnyis gnyis)
+**Analysis:** Mind channels (yid rtsa): 12 total - two for each mind (yid re rtsa ni gnyis gnyis)
 Affliction channels (nyon mongs rtsa): 28 total, categorized by klesha:
 - Line 15118: bcu na zhe sdang gnas - ten channels of anger
 - Line 15119: lnga na 'dod chags gnas - five channels of desire
@@ -125,13 +125,13 @@ Affliction channels (nyon mongs rtsa): 28 total, categorized by klesha:
 Verification: 10+5+5+4+4 = 28 channels
 Line 15123-15125: Citation closure with summary statement on sequential abiding and manifestation of channels and winds.
 
-<context>
+[15126-15127] <context>
 Transition to Function Analysis
-**Consideration:** Structural transition marking shift from enumeration (rnam grangs) to function (byed las). Sources from "de nyid las" (from that very [text]).
+**Analysis:** Structural transition marking shift from enumeration (rnam grangs) to function (byed las). Sources from "de nyid las" (from that very [text]).
 
-<structural-mapping>
+[15128-15134] <structure>
 Seven Abodes with Fifty Channels Each
-**Investigation:** The crown cakra contains seven abodes (gnas bdun po), each with 50 channels:
+**Analysis:** The crown cakra contains seven abodes (gnas bdun po), each with 50 channels:
 1. rig - awareness
 2. ye shes - wisdom
 3. rlung - wind
@@ -141,18 +141,18 @@ Seven Abodes with Fifty Channels Each
 7. shes pa - consciousness
 Each abode (gnas) corresponds to specific directional and functional movements (lines 15134-15137).
 
-<concept>
+[15135-15147] <concept>
 Directional Movement and Essence Gathering
-**Philological analysis:** Channels classified by directional movement and function:
+**Analysis:** Channels classified by directional movement and function:
 - Line 15134-15135: 50 channels move upward (steng du 'gro ba), gathering consciousness essence (shes pa'i dngas ma sdud)
 - Line 15136-15137: 50 channels move left (g.yon du 'gro ba), gathering mind essence (sems kyi dngas ma)
 - Line 15138-15139: 50 channels abide at spokes (rtsibs la gnas), holding object essences (yul gyi dngas ma 'dzin)
 - Line 15140-15141: 50 channels abide at center (dbus na gnas), holding respective consciousness aspects (rang rang shes pa'i cha)
 - Line 15142-15144: 50 channels pervade everywhere (kun tu khyab pa), comprising breath, essence, mind-mount, body, and sense faculties
 
-<philology>
+[15148-15164] <philology>
 Gate Channels and Agitation Channels
-**Examination:**
+**Analysis:**
 - Line 15145: sgo la mi dbyung nyi shu - twenty not sent out gates
 - Line 15146: dbugs kyi rta byed sum cu - thirty breath-mount makers
 - Line 15147: 'khrug ma and las rlung rta - agitation and karma-wind mounts
@@ -163,9 +163,9 @@ Gate Channels and Agitation Channels
   - Ma bsgrungs pa - uncontrolled/unguarded
 Symptoms include trembling heart, trembling hands, tears, spinning head, yawning limbs - signs of elemental disturbance.
 
-<concept>
+[15165-15182] <concept>
 Six Abiding Categories and Channel Functions
-**Investigation:** Six abiding categories (gzhi la gnas pa drug):
+**Analysis:** Six abiding categories (gzhi la gnas pa drug):
 1. gnas - abiding
 2. stong - empty
 3. 'byung ba - elements
@@ -174,13 +174,13 @@ Six Abiding Categories and Channel Functions
 6. dngas ma spro - essence emanation
 Line 15166-15182: Channels as causes (rgyu) with thousandfold causes and great gathering (stong rgyu 'ju ba che). Body heat and all karma arise from this completion (rdzogs). One fruit gathers and moves diversely. From each consciousness essence (shes pa'i dngas ma), two wisdom winds (ye shes rlung). Seventy-two moving winds ('gyu byed rlung). From 21,600 breaths (dbugs), 140,000 channels move in 7,000 [cycles]. Crown bliss cakra channels arise in five phases: gathering ('khrigs), agitation ('khrugs), abiding (gnas), moving ('gyu), emptying (stongs), and entering ('jug). Gathering dissolves into the state of disappearance (yal ba'i ngang du thim).
 
-<structure>
+[15184-15186] <structure>
 External Limbs of the Bliss Cakra
-**Terminological Precision:** Introduction of external channels (phyi yi yan lag) associated with the bliss cakra (bde ba'i 'khor lo). The rim pa (stages/sequences) of the cakra correlate with external stages (phyir rol rim pa), establishing an isomorphism between internal cakra architecture and external body geography.
+**Analysis:** Introduction of external channels (phyi yi yan lag) associated with the bliss cakra (bde ba'i 'khor lo). The rim pa (stages/sequences) of the cakra correlate with external stages (phyir rol rim pa), establishing an isomorphism between internal cakra architecture and external body geography.
 
-<philology>
+[15187-15206] <philology>
 Crown and Forehead Channel Terminology
-**Investigation:** 
+**Analysis:** 
 - Line 15188: dung dkar 'khyil ba'i mdog - white conch coiled color
 - Line 15189: spyi gtsug tshangs pa'i bu ga - crown Brahma aperture (fontanelle)
 - Line 15190: padma lta bu'i rtsa chen - lotus-like great channel
@@ -188,57 +188,57 @@ Crown and Forehead Channel Terminology
 - Line 15192-15193: Two branches divide into six (rnam pa drug tu gyes)
 - Line 15195-15206: Channels extending from left side of cakra (g.yon phyogs), lotus-like, right and left pairs (g.yas g.yon), branching from ears (rna ba'i ltag) at four finger-widths (sor bzhi), four each side; wish-fulfilling tree form (dpag bsam shing) at crown peak (mtshog ma spyi bo) near ma he'i lce ( buffalo tongue), yielding 40 channels.
 
-<structure>
+[15207-15237] <structure>
 Sequential Cakra Rim Channel Mapping
-**Technical Examination:** Systematic mapping by cakra rims/rings:
+**Analysis:** Systematic mapping by cakra rims/rings:
 1. First rim (mu khyud): Line 15207-15212 - Great channels (rtsa chen) dividing to right/left shoulder bumps (ltag pa'i 'bur), bee-like forms (sbrang bu tre la), 10 gathering channels ('dus pa'i rtsa) each
 2. Left side channels (line 15213-15217): "phyi dril lta bu" - like outer scroll/cover, one channel each near appropriate sides (ldan pa'i phyogs), 10 each
 3. Third rim (line 15218-15225): Ant-wheel-like channels (grog mo'i 'khor), three action channels (las byed rtsa), golden needle-like (gser gyi khab) channels at forehead center (dpral ba dkyil), 10 branches
 4. Right/left of cakra (line 15226-15243): Two appearing channels ('char te) with grasping flow ('dzin byed rgyu), white-black border of eye (tsakshu lta byed dkar nag mtshams), one each side; right side has beautiful lotus (padma mdzes pa) and white silk thread (dar dkar snal ma), 5 each; left side has vajra-like (rdo rje lta bu) and hook-like (lcags kyu lta bu), 5 each; center has two pearl-like (mu tig lta bu) channels, 5 each
 
-<concept>
+[15238-15263] <concept>
 Eye and Face Channel Physiology
-**Consideration:** 
+**Analysis:** 
 - Line 15244-15249: Fourth cakra channels: finger-like (lag sor lta bu) channels at eye sockets (mig gi phugs), fish-eye-like (nya mo lta bu), red color blazing with light rays ('od zer 'bar), 10 each
 - Line 15250-15254: Moon-like (zla ba lta bu) channels from front/back of cakra, emerging at two peaks (rtse ltag gnyis), white pure light rays, 10 each
 - Line 15255-15260: Sun-eye-like (nya mig lta bu) great channels from cakra corners (mtshams), coiling form, one each at right/left nose-eye socket, 5 each
 - Line 15261-15263: Fifth rim illusion-like (sgyu ma lta bu) great coiling channel (rnam par 'khyil ba'i sdong po)
 
 [15264] <philology> Channel Structural Description
-**Close Reading:** 
+**Analysis:** 
 - "kha ni sdong po gnyis su ldan" - mouth endowed with two stems/branches
 - "gcig ni padma lta bu" - one lotus-like
 - Located on tongue (lce yi steng na), two each (gnyis gnyis)
 - Conch-color (bye ru'i mdog) and brown (ldong ros mdog), two forms, 10 each
 
-<concept>
+[15265-15287] <concept>
 Five Elements and Channel Functions
-**Cross-Textual Note:**
+**Analysis:**
 - Line 15271-15275: Hollow moon of channels (rtsa yi stong zla) with three-fold petals ('dab ma ldan pa gsum), black color hook-form (lcags kyu'i dbyibs), three twisted (sgril ma), 10 each
 - Line 15276-15281: These channel forms are methods of arising ('byung ba'i thabs) and essential causes (gnad kyi rgyu). Practitioner should understand five each of: wind (rlung), bindu gathering (thig le 'du), essential point (gnad), consciousness-mount (shes pa'i rta), essence (dngas ma)
 - Line 15282-15289: Fourfold classification of wind, bile, phlegm, gathering; desire, delusion, anger; each with three characteristics (mtshan nyid gsum gsum): object (yul), measure (dud tshod), location (gnas), and engagement ('jug byed)
 - Line 15290-15310: Two types of wind: wisdom wind (ye shes rlung) and karma wind (las rlung); hot and cold; wisdom wind has four types; bindu also twofold (karma cause and wisdom); wisdom has two (wind sound and light cause); gathering twofold (warm and cold); consciousness-mount similar; gathering through mind and prajñā; essence twofold (blood, serum, flesh, light, wind color)
 
-<philology>
+[15288-15310] <philology>
 Completion of Five-Fold Analysis
-**Structural Mapping:** Continues the systematic enumeration of the five categories (rlung, thig le, gnad, shes pa'i rta, dngas ma):
+**Analysis:** Continues the systematic enumeration of the five categories (rlung, thig le, gnad, shes pa'i rta, dngas ma):
 - Line 15309: "de ltar kun la shes par bya" - one should understand all thus
 - Line 15310: Citation closure "ཞེས་སོ་"
 
-<structure>
+[15311-15312] <structure>
 Transition to Essential Points
-**Examination:** Structural marker "གསུམ་པ་" (third) introduces detailed presentation of essential points (gnad bye brag tu bstan pa). Sources from "de nyid las" (from that very text).
+**Analysis:** Structural marker "གསུམ་པ་" (third) introduces detailed presentation of essential points (gnad bye brag tu bstan pa). Sources from "de nyid las" (from that very text).
 
-<concept>
+[15313-15318] <concept>
 Crown Cakra Perception Physiology
-**Examination:** At the crown bliss cakra (spyi gtsug bde ba'i tsakra):
+**Analysis:** At the crown bliss cakra (spyi gtsug bde ba'i tsakra):
 - Remaining pervading petals (lhag ma khyab kyis 'dab ma rnams) appear to all (kun la snang ba)
 - These channel forms contain abiding winds (gnas pa'i rlung), bindus (thig le), and consciousness-mounts (shes pa'i rta)
 The passage establishes the crown as the locus of perception (snang ba) and consciousness support.
 
-<structure>
+[15319-15337] <structure>
 Detailed Channel-Wind Enumeration
-**Consideration:** Systematic enumeration of channels by functional capacity:
+**Analysis:** Systematic enumeration of channels by functional capacity:
 - Line 15319-15321: Four pierceable channels (gtem du rung ba'i rtsa) with four suitable channels (shar du rung ba), containing four appearing bindus (snang ba'i thig le)
 - Line 15322-15324: From pierceable wind gates (gtem du rung ba'i rlung sgo), 50 entering channels ('jug pa'i rtsa), achieving obtained result (thob pa'i 'bras bu)
 - Line 15325-15327: From five extremely stable channels (rab tu brtan pa'i rtsa lnga), one essence each (shes pa'i dngas ma re re); piercing completes heat instruction (gtems drod kyi gdams ngag rdzogs)
@@ -246,22 +246,22 @@ Detailed Channel-Wind Enumeration
 - Line 15332-15336: From these 50 reversing channels (zlog par 'gyur ba), one dull wind (rmugs pa'i rlung) each; entering winds from these; remaining abide at ground (gzhi la gnas)
 - Line 15337-15346: 32 projecting channels ('phar ba'i rtsa), equal wind sounds (rlung gi gdangs), channel-wind portions and deluded winds ('khrul pa'i rlung); 72 abiding winds (bdun phrag gnyis); from these, bliss channels (bde ba'i rtsa) with appearing and non-appearing supports for delusion
 
-<philology>
+[15347-15351] <philology>
 Harmful Channel Enumeration
-**Detailed Analysis:** Channels causing faults (skyon 'gyur) when manipulated:
+**Analysis:** Channels causing faults (skyon 'gyur) when manipulated:
 - Line 15347: gseng na skyon 'gyur nyi shu brgyad - 28 faults if incised
 - Line 15348: ma gseng skyon 'gyur bcu dgu - 19 faults if not incised properly
 - Line 15349: bsregs na skyon 'gyur bdun - 7 faults if cauterized
 - Line 15350: ma bsregs skyon 'gyur nyi shu - 20 faults if not cauterized
 - Line 15351: Citation closure
 
-<context>
+[15352-15353] <context>
 Transition to Treatment Methods
-**Structural Framework:** Structural marker "བཞི་པ་" (fourth) introduces instructions for treating gathering diseases ('du ba'i nad ji ltar bcos pa'i man ngag). Sources from "gnad kyi yi ge" - text on essential syllables/letters.
+**Analysis:** Structural marker "བཞི་པ་" (fourth) introduces instructions for treating gathering diseases ('du ba'i nad ji ltar bcos pa'i man ngag). Sources from "gnad kyi yi ge" - text on essential syllables/letters.
 
-<structure>
+[15354-15404] <structure>
 Detailed Bloodletting Channel Locations
-**Investigation:** Comprehensive mapping of bloodletting (gtar) channels with seed syllables:
+**Analysis:** Comprehensive mapping of bloodletting (gtar) channels with seed syllables:
 - Line 15354-15357: Crown (spyi bo'i gtsug), straight, letter A (ཨ་), "sman skad gnyan gyi re thag" - doctor's speech harsh rope; treats heart fever (snying gi rims nad)
 - Line 15358-15361: Right one finger-width (tshon gang), letter KA (ཀཱ་), "bo d+hi g.yas pa" - right bodhi; treats right flank (gzhogs g.yas)
 - Line 15362-15364: Left one finger-width, letter KI (ཀཱི་), "bo d+hi g.yon pa" - left bodhi; treats left flank
@@ -280,9 +280,9 @@ Detailed Bloodletting Channel Locations
 - Line 15399-15401: Eye socket, letter THI (ཐི་), "mig rtsa ldum bu" - eye channel bush; treats eye channel diseases
 - Line 15402-15404: Left socket, letter THI (ཐཱི་), "mig rtsa gang po" - full eye channel; sharpens the eyes
 
-<philology>
+[15405-15412] <philology>
 Tongue Channel Nomenclature
-**Examination:** 
+**Analysis:** 
 - Line 15405: lce steng g.yas phyogs ya rkan phyogs - right side upper surface of tongue, ya cartilage side
 - Line 15406: dkar ba'i rtsa chen gnyis - two great white channels
 - Line 15407: thu dang thu gnyis 'khril ba'i tshul - manner of two THU and THU entwining
@@ -291,18 +291,18 @@ Tongue Channel Nomenclature
 - Line 15410-15412: Yogis should recite (gdon zhing bzlas) to dispel elemental disturbances ('byung ba 'khrugs pa sel)
 - Citation closure "ཅེས་སོ་"
 
-<structure>
+[15405-15412] <structure>
 # Tongue Channel Anatomy and Therapy
-**Detailed Analysis:** Lines 15405-15412 complete the throat cakra channel enumeration with the tongue channels (*lce rtsa*). The structure follows the therapeutic pattern: anatomical location → seed syllables → name → therapeutic application → mantra recitation → benefit.
+**Analysis:** Lines 15405-15412 complete the throat cakra channel enumeration with the tongue channels (*lce rtsa*). The structure follows the therapeutic pattern: anatomical location → seed syllables → name → therapeutic application → mantra recitation → benefit.
 
 **Anatomical Mapping:**
 - *lce steng g.yas phyogs ya rkan phyogs*—upper tongue, right side, YA area
 - Two major white channels (*dkar ba'i rtsa chen gnyis*)
 - Configuration: THU and THU syllables intertwined (*'khril ba'i tshul*)
 
-<philology>
+[15405-15412] <philology>
 Technical Terminology
-**Comparative Reading:**
+**Analysis:**
 
 - **Line 15408:** *lce rtsa nag po*—"black tongue channel" (named by color/contrast)
 - **Line 15409:** *gtar lce phugs bros la phan*—"benefits for tongue bloodletting cavity abscess"
@@ -312,15 +312,15 @@ Technical Terminology
 - **Line 15411:** *'byung ba 'khrugs pa sel*—"clears elemental disturbances"
 
 [15412] <philology> Section Marker
-**Architectural Analysis:** *ces so*—quotative particle marking conclusion of citation/method
+**Analysis:** *ces so*—quotative particle marking conclusion of citation/method
 
-<structure>
+[15413-15414] <structure>
 Transition to Practice Methods
-**Structural Mapping:** Structural marker "གསུམ་པ་" (third) introduces methods of application/implementation (nyams su blang tshul). Divided into general (spyi) and specific (bye brag).
+**Analysis:** Structural marker "གསུམ་པ་" (third) introduces methods of application/implementation (nyams su blang tshul). Divided into general (spyi) and specific (bye brag).
 
-<structure>
+[15413-15414] <structure>
 # Third Section: Practice Methods
-**Investigation:** Line 15413 introduces the third major section (*gsum pa*) on application methods (*nyams su blang tshul*). The structure divides into:
+**Analysis:** Line 15413 introduces the third major section (*gsum pa*) on application methods (*nyams su blang tshul*). The structure divides into:
 1. General (*spyi*)—four essential points including postures
 2. Particular (*bye brag*)—actual practice
 

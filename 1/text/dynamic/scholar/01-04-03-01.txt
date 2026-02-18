@@ -1,6 +1,6 @@
-<structure>
+[2833-2835] <structure>
 Introduction to Two Truths Framework
-**Close reading:** Longchenpa initiates the discussion of the two truths (bden pa gnyis) as the framework for understanding the paths of the vehicles (*theg pa*). The structure follows the standard threefold presentation:
+**Analysis:** Longchenpa initiates the discussion of the two truths (bden pa gnyis) as the framework for understanding the paths of the vehicles (*theg pa*). The structure follows the standard threefold presentation:
 
 1. **Ground** (*gzh*): Knowing the nature of the two truths [2833]
 2. **Path** (*lam*): How to practice having understood [2834]
@@ -8,7 +8,7 @@ Introduction to Two Truths Framework
 
 This structure reflects the *gzh-lam-'bras* topology common in Tibetan Buddhist literature, particularly in *sngags* (tantric) presentations.
 
-<philology>
+[2833-2833] <philology>
 Two Truths: Conventional and Ultimate
 **Key Terms:**
 
@@ -22,7 +22,7 @@ Two Truths: Conventional and Ultimate
 - *Don*: meaning, object
 - Literally "truth of the sublime meaning"
 
-**Analysis of :**
+**Analysis of [2833-2833]:**
 The citation from Nāgārjuna's *Mūlamadhyamakakārikā* establishes scriptural authority:
 
 *Sangs rgyas rnams kyis chos bstan pa dang / bden pa gnyis la yang dag brten / 'jig rten kun rdzob bden pa dang / dam pa'i don gyi bden pa'o*
@@ -35,9 +35,9 @@ Grammatical structure:
 **Doctrinal Context:**
 This verse (MMK 24:8-9) is the locus classicus for the two truths doctrine in Madhyamaka. Nāgārjuna argues that without the conventional, the ultimate cannot be taught; without the ultimate, nirvāṇa cannot be attained.
 
-<concept>
+[2833-2833] <concept>
 Conventional Truth and Its Divisions
-**Cross-Textual Note:**
+**Analysis:**
 
 The definition of conventional truth at [2835]: *chos can mtshan mar snang ba blo'i yul du snang rung rnams ni kun rdzobs kyi bden pa*—"all phenomena appearing as signs within the sphere of mind are conventional truth."
 
@@ -51,11 +51,11 @@ This division originates with Candrakīrti's *Madhyamakāvatāra* and is standar
 **Epistemological Point:**
 The definition emphasizes *blo'i yul* (mind's object/scope)—conventional truth is that which can appear to mind. This is crucial: conventional truth is not "false" in a simple sense, but is mind-dependent (*blo btags*).
 
-<context>
+[2833-2833] <context>
 True and False Conventional in Detail
-**Consideration:**
+**Analysis:**
 
-**False Conventional** :
+**False Conventional** [2833-2833]:
 *Snang srid snod bcud blos bkod pa'i chos so cog dang bcas pa thams cad log pa'i kun rdzob*—"All phenomena included in the container and contained, fabricated by mind, are false conventional."
 
 The four characteristics (*sgyu ma'i dpe brgyad*):
@@ -64,7 +64,7 @@ The four characteristics (*sgyu ma'i dpe brgyad*):
 3. *Brtags na ngo bo nyid kyis dben pa* — empty of inherent nature when examined
 4. *Sgyu ma'i dpe brgyad* — illustrated by eight similes of illusion
 
-**True Conventional** :
+**True Conventional** [2833-2833]:
 *'Khrul par snang yang bde 'gro dang thar pa'i rgyu byed pa*—"Appearing as confusion yet causing higher realms and liberation."
 
 This includes:
@@ -78,9 +78,9 @@ The distinction is functional: false conventional leads to suffering, true conve
 **Dharmakīrti's Influence:**
 The definition reflects Dharmakīrti's epistemology: *don byed nus pa* (able to perform functions) is the mark of the real conventionally.
 
-<concept>
+[2833-2833] <concept>
 Ultimate Truth: Definition and Divisions
-**Detailed Analysis:**
+**Analysis:**
 
 **Definition** [2835]:
 *Chos nyid rang bzhin du gnas pa stong pa nyid kyi ngo bo*—"Dharmatā naturally abiding, the essence of emptiness."
@@ -90,7 +90,7 @@ Key terms:
 - *Rang bzhin*: inherent nature, but here meaning "natural state"
 - *Stong pa nyid*: emptiness (śūnyatā)
 
-**Two-fold Division** :
+**Two-fold Division** [2833-2833]:
 1. **Rnam grangs pa**: Nominal ultimate—meaning indicated by words/signs
 2. **Rnam grangs pa ma yin pa**: Non-nominal ultimate—actual reality
 

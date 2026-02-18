@@ -1,4 +1,4 @@
-<concept>
+[9704-9731] <concept>
 Ground as Basis of Saṃsāra and Nirvāṇa
 
 **Ground Definition:**
@@ -42,27 +42,27 @@ Basis, origin, support
 Threefold modes
 Ground complete"
 
-<structural-mapping>
+[9705-9742] <structure>
 Enumeration of Seven Samaya Categories
 The text presents a comprehensive taxonomy of samaya (dam tshig) organized into seven distinct categories: (1) view samaya (lta ba), (2) conduct samaya (spyod pa), (3) practice samaya (bsgrub pa), (4) general samaya (thun mong), (5) special body-speech-mind samaya (sku gsung thugs), (6) branch samaya (yan lag), and (7) key-point definitive samaya (gal mdo nges pa). This enumerative structure follows classical tantric pedagogical conventions.
 
-<grammatical-examination>
+[9705-9707] <philology>
 Root Tantra Citation
 The opening citation from Dam tshig mchog gi rgyud employs the hermeneutical key "dam" as "bound" (bcings pa) and "indestructible vajra pledge" (rdo rje 'da' dka' gtan gyi gnyer), demonstrating etymological derivation typical of Nyingma tantric exposition. The term 'da' dka' (difficult to transcend) functions as a technical qualifier emphasizing the binding nature of these commitments.
 
-<historical-context>
+[9709-9713] <context>
 General Definition Framework
-The general definition (spyi) of samaya as "one's own mind without deception, free from deceit and pretense" (rang sems tshig pa med pa la g.yo sgyu rnams dang bral ba) defines the foundation for understanding tantric commitments not merely as external rules but as expressions of authentic mind-nature. This formulation bridges sutric ethics with tantric view.
+The general definition (spyi) of samaya as "one's own mind without deception, free from deceit and pretense" (rang sems tshig pa med pa la g.yo sgyu rnams dang bral ba) establishes the foundation for understanding tantric commitments not merely as external rules but as expressions of authentic mind-nature. This formulation bridges sutric ethics with tantric view.
 
-<concept>
+[9715-9722] <concept>
 Root and Branch Typology
 The twofold classification into root (rtsa ba) and branch (yan lag) samaya—with root encompassing the three vajras (sku gsung thugs) and branch comprising twenty-five subdivisions organized into five groups of five—represents a classical organizational schema found throughout Sarma and Nyingma tantric literature. This structure demonstrates the systematic integration of ethical precepts with the three-body doctrine.
 
-<linguistic-analysis>
+[9724-9742] <philology>
 Enumerative Terminology Analysis
 The sevenfold classification employs technical terminology distinguishing view (lta ba), conduct (spyod pa), practice (bsgrub pa), general (thun mong), particular (khyad par), branches (yan lag), and definitive key-points (gal mdo nges pa). The phrase "mdor bstan legs par yid la zung" (properly retain the abbreviated presentation) signals pedagogical intent for memorization and contemplation.
 
-<architectural-analysis>
+[9733-9790] <structure>
 Essence, Nature, Compassion Triad
 
 **Essence (*Ngo bo*):**
@@ -103,17 +103,17 @@ Nature clear
 Compassion expressive
 Inseparable thus"
 
-<structural-mapping>
+[9744-9765] <structure>
 # The Basis of Samaya: Guru, Disciple, and Siblings
-**Investigation:** Lines 9743-9765 establish the relational foundation (*rten*) of samaya through three categories: (1) guru (*slob dpon*), (2) disciple (*slob ma*), and (3) spiritual siblings (*mched lcam*). This triadic structure demonstrates the communal dimension of tantric practice.
+**Analysis:** Lines 9743-9765 establish the relational foundation (*rten*) of samaya through three categories: (1) guru (*slob dpon*), (2) disciple (*slob ma*), and (3) spiritual siblings (*mched lcam*). This triadic structure reflects the communal dimension of tantric practice.
 
 **Line 9745:** *rten ni slob dpon dang slob ma mched lcam ste*—"The basis is teacher, student, and siblings"
 - *rten* = basis, support, foundation
 - Enumerative *ste* marks the threefold listing
 
-<doxographical-placement>
+[9747-9753] <context>
 Guru-Disciple Protection Dynamic
-**Philological analysis:** The citation from *de nyid* (the same text) creates the protection dynamic:
+**Analysis:** The citation from *de nyid* (the same text) establishes the protection dynamic:
 
 **Lines 9747-9750:** *bsam gyis mi khyab dam tshig rnams / rnam pa gnyis su 'dus par gsungs / slob dpon dang ni slob ma gnyis / bsrung ba'i rgyu zhes kun tu grags*
 
@@ -125,9 +125,9 @@ Guru-Disciple Protection Dynamic
 
 **Key insight:** The guru embodies the samaya (*bsrung ba'i rgyu* = cause to be protected), while the disciple actively protects it (*srung bar byed pa* = protector/agent).
 
-<architectural-analysis>
+[9755-9764] <structure>
 # Fourfold Classification of Spiritual Siblings
-**Consideration:** Lines 9754-9764 present the four types of vajra siblings (*rdo rje'i spun*):
+**Analysis:** Lines 9754-9764 present the four types of vajra siblings (*rdo rje'i spun*):
 
 **Line 9756-9758:** *rdo rje'i spun la don bzhis bstan / spyi dang nye dang 'dres pa dang / dkyil 'khor bum pa 'dres pa'o*
 
@@ -152,22 +152,22 @@ Guru-Disciple Protection Dynamic
    - Same empowerment time (*dbang dus gcig*)
    - Highest degree of samaya bond
 
-[9765] <grammatical-examination> Sevenfold Territory Marker
-**Examination:** *'di dag kyang yul bdun 'gyur gyis gnyan par shes par bya'o*—"These should be known as dangerous through sevenfold territory"
+[9765] <philology> Sevenfold Territory Marker
+**Analysis:** *'di dag kyang yul bdun 'gyur gyis gnyan par shes par bya'o*—"These should be known as dangerous through sevenfold territory"
 
 - *yul bdun* = seven territories/regions
 - *'gyur gyis* = through becoming/transforming
 - *gnyan pa* = dangerous, risky, heavy
 - Indicates samaya violations occur across seven types of spatial/social boundaries
 
-[9766] <structural-mapping> # Transition to Guru Classifications
-**Close reading:** *slob dpon la'ang thams cad kyis slob dpon du bkur ba'i spyi'i slob dpon dang*—"As for the teacher: the general teacher honored by all as teacher..."
+[9766] <structure> # Transition to Guru Classifications
+**Analysis:** *slob dpon la'ang thams cad kyis slob dpon du bkur ba'i spyi'i slob dpon dang*—"As for the teacher: the general teacher honored by all as teacher..."
 
 This introduces the next section on four types of gurus, continuing the systematic classification of samaya relationships.
 
-<structure>
+[9767-9768] <structure>
 # The Fourfold Guru Typology
-**Investigation:** Longchenpa presents a quadripartite classification (*dbye ba bzhi*) of spiritual teachers (*slob dpon*), establishing a graduated hierarchy of transmission roles. This typology maps onto the standard Nyingma *dbang lung khrid* (empowerment, transmission, instruction) triad with the addition of the "general" (*spyi*) category.
+**Analysis:** Longchenpa presents a quadripartite classification (*dbye ba bzhi*) of spiritual teachers (*slob dpon*), establishing a graduated hierarchy of transmission roles. This typology maps onto the standard Nyingma *dbang lung khrid* (empowerment, transmission, instruction) triad with the addition of the "general" (*spyi*) category.
 
 **The Four Teachers:**
 1. **Dharma-Connection Teacher** (*rang nyid chos la sbyor ba 'dren pa'i slob dpon*)—The guru who initially introduces one to the Dharma path
@@ -177,9 +177,9 @@ This introduces the next section on four types of gurus, continuing the systemat
 
 The citation marker *de nyid las* (from that [text] itself) introduces scriptural authority for this classification.
 
-<linguistic-analysis>
+[9771-9772] <philology>
 Analysis of the Etymological Verses
-**Philological analysis:** The versified etymology employs paronomasia (*sgra sbyor*) typical of tantric doxography:
+**Analysis:** The versified etymology employs paronomasia (*sgra sbyor*) typical of tantric doxography:
 
 - **Line 9770-9772:** *slob dpon la yang don bzhi ste*—"As for the teacher, moreover, [there are] four meanings"
   - *spyi* (general)
@@ -189,9 +189,9 @@ Analysis of the Etymological Verses
 
 The particle *yang* (also/moreover) indicates this enumeration supplements the previous categorization.
 
-<philology>
+[9778-9778] <philology>
 Etymology of "Teacher" (*slob dpon*)
-**Consideration:** The text provides a Sanskrit-derived Tibetan etymology:
+**Analysis:** The text provides a Sanskrit-derived Tibetan etymology:
 
 - **Line 9777:** *mi shes shes par 'grol phyir slob*—"Trains (*slob*) in order to liberate (*'grol*) not-knowing (*mi shes*) into knowing (*shes pa*)"
   - The ablative *phyir* indicates purpose/cause: training FOR liberation
@@ -203,9 +203,9 @@ Etymology of "Teacher" (*slob dpon*)
 
 The instrumental *bas* indicates agency: "through/by means of connecting."
 
-<philology>
+[9780-9781] <philology>
 Etymology of "Student" (*slob ma*)
-**Examination:**
+**Analysis:**
 
 - **Line 9780:** *ma yengs tshul gyis nyan pas slob*—"Trains through listening without distraction"
   - *ma yengs* = undistracted (negation of *yengs*—distraction)
@@ -216,9 +216,9 @@ Etymology of "Student" (*slob ma*)
   - *snod* = vessel, receptacle (Skt. *bhājana*)
   - This establishes the receptivity requirement: the student must be capable of receiving teachings
 
-<concept>
+[9783-9784] <concept>
 The Proper Guru-Disciple Relationship
-**Close reading:** Lines 9782-9784 establish the prerequisites for authentic transmission:
+**Analysis:** Lines 9782-9784 establish the prerequisites for authentic transmission:
 
 - **Line 9782:** *de ltar don ldan dpon slob ni*—"Such meaningful guru-disciple [relationship]"
   - *don ldan* = possessing meaning/substance (not merely formal)
@@ -231,9 +231,9 @@ The Proper Guru-Disciple Relationship
 - **Line 9784:** *dam tshig ldan na de bzhin no*—"If possessing samaya, it is like that"
   - The conditional *na* establishes samaya as the necessary condition for the relationship's authenticity
 
-<historical-context>
+[9787-9791] <context>
 Scriptural Authority on Samaya Benefits
-**Investigation:** The citation from *de nyid* (likely referring to a root tantra or commentary) establishes the soteriological efficacy of samaya:
+**Analysis:** The citation from *de nyid* (likely referring to a root tantra or commentary) establishes the soteriological efficacy of samaya:
 
 - **Line 9788:** *dam tshig sdom pa ji bzhin gnas*—"Abiding in samaya-vow as-it-is"
   - *ji bzhin* = as-it-is, correctly, properly
@@ -243,7 +243,7 @@ Scriptural Authority on Samaya Benefits
 
 This establishes samaya observance as the sufficient condition for accomplishing all aims.
 
-<philology>
+[9792-9850] <philology>
 Synonyms and Distinctions
 
 **Essence Synonyms:**
@@ -292,9 +292,9 @@ Nature not mere clarity
 Compassion not mere power
 Each complete thus"
 
-<context>
+[9793-9796] <context>
 *Māyājāla* Citation on Blessing
-**Philological analysis:** The citation from *sgyu 'phrul* (Guhyamāyājāla-tantra) establishes the lineage transmission dynamic:
+**Analysis:** The citation from *sgyu 'phrul* (Guhyamāyājāla-tantra) establishes the lineage transmission dynamic:
 
 - **Line 9793:** *dam tshig mchog la gang gnas pa*—"One who abides in supreme samaya"
 - **Line 9795:** *sras dang spun dgongs byin gyis rlob*—"Sons and siblings [receive] mind-blessing"
@@ -305,16 +305,16 @@ Each complete thus"
 
 The instrumental *yis* (variant of *gyis*) indicates the means by which blessing occurs.
 
-<structure>
+[9798-9819] <structure>
 # The Three Samaya Categories and Their Violation
-**Consideration:** The text transitions from benefits to consequences, establishing:
+**Analysis:** The text transitions from benefits to consequences, establishing:
 1. The three doors (*sgo gsum*) of samaya: Body, Speech, Mind
 2. The graduated consequences of transgression
 3. The distinction between teacher's and student's violations
 
-<context>
+[9799-9805] <context>
 *Rang shar* Citation on Mutual Destruction
-**Examination:** The citation from *rang shar* (Self-Arisen) Tantra establishes:
+**Analysis:** The citation from *rang shar* (Self-Arisen) Tantra establishes:
 
 - **Line 9799:** *nyams na gnyis ka 'tshig par 'gyur*—"If declined, both burn/are destroyed"
   - *nyams* = decline, degenerate, transgress
@@ -325,9 +325,9 @@ The instrumental *yis* (variant of *gyis*) indicates the means by which blessing
 
 This asymmetry reflects the tantric hierarchy: the teacher's violation is more severe and irreparable.
 
-<concept>
+[9801-9802] <concept>
 Body Samaya Violation Consequences
-**Close reading:**
+**Analysis:**
 
 - **Line 9800-9802:** Violation of body samaya (*sku yi dam tshig*) results in:
   1. *rdo rje dmyal ba chen por 'tshed*—Burning in great vajra hell
@@ -335,9 +335,9 @@ Body Samaya Violation Consequences
 
 The term *rdo rje dmyal ba* (vajra hell) indicates the most severe torment reserved for those who break vajrayāna commitments.
 
-<concept>
+[9807-9810] <concept>
 Speech Samaya Violation Consequences
-**Close Reading:**
+**Analysis:**
 
 - **Line 9806-9808:** Violation of speech samaya (*gsung gi dam tshig*) results in:
   1. *snang ba 'gags par 'gyur*—Cessation of appearances (sensory deprivation)
@@ -348,9 +348,9 @@ Speech Samaya Violation Consequences
 
 This establishes a karmic continuity where speech-violation results in communicative impairment across lifetimes.
 
-<concept>
+[9812-9818] <concept>
 Mind Samaya Violation Consequences
-**Examination:**
+**Analysis:**
 
 - **Line 9811-9814:** Violation of mind samaya (*thugs kyi dam tshig*) results in:
   1. *yid 'khrugs chen po'i gnas su skye*—Birth in the "great mind-disturbance" realm
@@ -366,9 +366,9 @@ Mind Samaya Violation Consequences
 
 The enumeration demonstrates the graduated severity: body-violation leads to hell, speech-violation to sensory deprivation, mind-violation to mental illness and interpersonal conflict.
 
-<structure>
+[9821-9835] <structure>
 # Portents of Samaya Deterioration
-**Investigation:** Longchenpa presents a graduated typology of negative portents (*snga ltas*) that indicate samaya deterioration. The structure moves from general misfortune to specific physiological, environmental, and interpersonal signs.
+**Analysis:** Longchenpa presents a graduated typology of negative portents (*snga ltas*) that indicate samaya deterioration. The structure moves from general misfortune to specific physiological, environmental, and interpersonal signs.
 
 **The Portent Categories:**
 1. **General Misfortune** (9821)—Various forms of unhappiness
@@ -379,15 +379,15 @@ The enumeration demonstrates the graduated severity: body-violation leads to hel
 6. **Existential Futility** (9834)—Actions becoming meaningless
 
 [9821] <philology> Analysis of *snga ltas*
-**Morphological Breakdown:** The term *snga ltas* (early signs/portents) combines:
+**Analysis:** The term *snga ltas* (early signs/portents) combines:
 - *snga* = early, before, prior (temporal precedence)
 - *ltas* = sign, omen, portent (indicative phenomenon)
 
 The genitive *nyams pa'i* (of deterioration) establishes these as signs belonging-to/samaya-transgression. The locative *su* marks the context: "in the case of/at the time of."
 
-<context>
+[9822-9824] <context>
 The Buddhist Theory of Misfortune
-**Detailed Analysis:** This enumeration reflects the Indo-Tibetan Buddhist understanding that spiritual transgression manifests in worldly misfortune. The sequence follows the *karma-vipāka* (action-ripening) framework:
+**Analysis:** This enumeration reflects the Indo-Tibetan Buddhist understanding that spiritual transgression manifests in worldly misfortune. The sequence follows the *karma-vipāka* (action-ripening) framework:
 
 - **Line 9821:** *mi bde rnam pa sna tshogs*—"Various forms of unhappiness"—the general category
 - **Line 9822:** *yams dang 'tshe ba'i nad*—"Epidemic and harming diseases"—collective calamity
@@ -397,7 +397,7 @@ The Buddhist Theory of Misfortune
 The particle *kyis* (instrumental) in line 9824 establishes agency: these spirits cause harm.
 
 [9827] <philology> Analysis of Hell Rebirth Formula
-**Consideration:** *bsad nas sems can dmyal bar 'gro*—"Having been killed, go to hell"
+**Analysis:** *bsad nas sems can dmyal bar 'gro*—"Having been killed, go to hell"
 
 - *bsad nas* = having been killed (past participle of *gsod*)
 - *sems can* = sentient beings
@@ -406,9 +406,9 @@ The particle *kyis* (instrumental) in line 9824 establishes agency: these spirit
 
 This laconic formulation encapsulates the tantric warning: malevolent spirits kill the transgressor, who then takes rebirth in hell.
 
-<concept>
+[9828-9829] <concept>
 Sensory Karmic Retribution
-**Consideration:** The text establishes specific correspondences between samaya-transgression and sensory impairment:
+**Analysis:** The text establishes specific correspondences between samaya-transgression and sensory impairment:
 
 - **Eye damage** (9827): *mig gis gzugs mi mthong*—"Eyes not see form"
   - Corresponds to failing to "see" the guru's nature
@@ -418,9 +418,9 @@ Sensory Karmic Retribution
 - **Skin disease** (9829): *mdze dang shu ba*—"Leprosy and itch"
   - Physical manifestation of "impurity"
 
-<context>
+[9831-9834] <context>
 Social and Environmental Consequences
-**Close Reading:** The enumeration extends to the socio-political realm:
+**Analysis:** The enumeration extends to the socio-political realm:
 
 - **Line 9830:** *chom rkun rgyal po'i chad pa*—"Thieves and royal punishment"—breakdown of law and order
 - **Line 9831:** *gzhan la med pa'i rims nad*—"Fevers non-existent to others"—unique/unusual plagues marking the individual
@@ -430,9 +430,9 @@ Social and Environmental Consequences
 
 The instrumental *zhing* (and) in 9833 connects the land-enmity with the meaninglessness.
 
-<structure>
+[9837-9866] <structure>
 # The Threefold Restoration (bskang thabs)
-**Architectural Analysis:** Having established the consequences of transgression, Longchenpa presents the three methods of restoration corresponding to body, speech, and mind samayas.
+**Analysis:** Having established the consequences of transgression, Longchenpa presents the three methods of restoration corresponding to body, speech, and mind samayas.
 
 **The Structure:**
 1. Body samaya restoration (9837-9842)
@@ -440,9 +440,9 @@ The instrumental *zhing* (and) in 9833 connects the land-enmity with the meaning
 3. Mind samaya restoration (9851-9859)
 4. General protection methods (9860-9866)
 
-<context>
+[9838-9842] <context>
 Body Samaya Restoration
-**Examination:** The citation from *de nyid* (the same [text]) prescribes:
+**Analysis:** The citation from *de nyid* (the same [text]) prescribes:
 
 - **Line 9839:** *gsung rab rgya chen bklag pa*—"Reading extensive scriptures"
 - **Line 9840:** *tshogs kyi 'khor lo rgya chen bskor*—"Extensively turning the gaṇacakra"
@@ -455,9 +455,9 @@ Body Samaya Restoration
     3. Offerings (substances)
   - "Correct" (*yang dag*) implies non-dual operation
 
-<context>
+[9844-9850] <context>
 Speech Samaya Restoration
-**Close Reading:**
+**Analysis:**
 
 - **Line 9845:** *mar me brgya rtsa'i cho ga*—"Ritual of the hundred [butter] lamps"
   - *brgya rtsa* = "hundred base"—a standard complete number
@@ -472,7 +472,7 @@ Speech Samaya Restoration
   - Identifies this practice as the *Narakāntaka* (Hell-ender) confession
   - *rgyun* = continuous, stream
 
-<structure>
+[9852-9898] <structure>
 Ground's Characteristics and Nature
 
 **Ground's Six Characteristics:**
@@ -501,9 +501,9 @@ Primordial, natural, complete
 Threefold purity
 Ground thus"
 
-<context>
+[9852-9859] <context>
 Mind Samaya Restoration
-**Examination:** The restoration of mind samaya focuses on guru-pleasure (*mnyes pa*):
+**Analysis:** The restoration of mind samaya focuses on guru-pleasure (*mnyes pa*):
 
 - **Line 9853:** *slob dpon mnyes pa'i rdzas kyis mchod*—"Offering with substances pleasing to the teacher"
   - *rdzas* = substance, material
@@ -518,9 +518,9 @@ Mind Samaya Restoration
   - *'dod pa thams cad skong*—All desires fulfilled
   - *bya ba thams cad rdzogs*—All actions completed
 
-<concept>
+[9861-9866] <concept>
 Methods of Protection
-**Detailed Analysis:** Prevention supersedes restoration:
+**Analysis:** Prevention supersedes restoration:
 
 - **Line 9861:** *skyon yon mthong nas*—"Having seen faults and qualities"
   - Discriminative awareness of what to abandon and adopt
@@ -535,9 +535,9 @@ Methods of Protection
   - *bskal pa* = aeon (Skt. *kalpa*)
   - Emphasizes absolute commitment without temporal limit
 
-<philology>
+[9868-9868] <philology>
 Teacher-Student Responsibility Distinction
-**Technical Examination:** The text distinguishes protection responsibilities:
+**Analysis:** The text distinguishes protection responsibilities:
 
 - **Teacher (9867):** *slob dpon gyis rgyud dang dam tshig gi rim pa shes pas zhes bcus bsrungs*—"The teacher protects through knowing the stages of continuum and samaya"
   - The instrumental *pas* marks knowledge as the means
@@ -547,9 +547,9 @@ Teacher-Student Responsibility Distinction
   - The causal *pas* (from not-knowing) establishes student-deference
   - *bka' bzhin* = according to command/instruction (Skt. *ājñā*)
 
-<structure>
+[9870-9871] <structure>
 Introduction to the Ten Knowledges
-**Tradition Context:** The text transitions to enumerating the ten knowledges (*shes pa bcu*) required for samaya protection:
+**Analysis:** The text transitions to enumerating the ten knowledges (*shes pa bcu*) required for samaya protection:
 
 1. **Line 9870:** *tshig don gyi gnas shes pa*—"Knowing the places of word-meaning"
    - Hermeneutical competence: understanding what the teachings mean
@@ -559,9 +559,9 @@ Introduction to the Ten Knowledges
 
 The text will continue enumerating the remaining eight knowledges on subsequent pages.
 
-<structure>
+[9873-9878] <structure>
 # Completion of the Ten Knowledges
-**Examination:** Longchenpa completes the enumeration of ten knowledges (*shes pa bcu*) begun on the previous page. These knowledges constitute the pedagogical and soteriological competencies required for authentic samaya protection.
+**Analysis:** Longchenpa completes the enumeration of ten knowledges (*shes pa bcu*) begun on the previous page. These knowledges constitute the pedagogical and soteriological competencies required for authentic samaya protection.
 
 **The Ten Knowledges (completing from 9870-9871):**
 
@@ -593,9 +593,9 @@ The text will continue enumerating the remaining eight knowledges on subsequent 
    - *chos can* = dharma-bearer, subject (Skt. *dharmin*)
    - *mtshan nyid* = defining characteristic (Skt. *lakṣaṇa*)
 
-<context>
+[9880-9885] <context>
 Scriptural Summary on Protection Methods
-**Comparative Analysis:** The citation from *de nyid* encapsulates the relationship between knowledge and protection:
+**Analysis:** The citation from *de nyid* encapsulates the relationship between knowledge and protection:
 
 - **Line 9881-9882:** *shes pa gcig gi khyad par gyis / khyad par bcu yis bsrung thabs 'phags*—"Through the distinction of one knowledge, the protection method distinguished by ten is transcendent/exalted"
   - One comprehensive knowledge (*gcig*) gives rise to tenfold differentiated application (*bcu*)
@@ -607,9 +607,9 @@ Scriptural Summary on Protection Methods
 - **Line 9884:** *dam tshig rgyal po de bzhin spyod*—"Act accordingly as the king of samaya"
   - *rgyal po* = king (indicating supremacy of these commitments)
 
-<structure>
+[9887-9895] <structure>
 # Introduction to Three-Vajra Samaya
-**Arrangement:** Longchenpa transitions to the second major section (*gnyis pa*): the particular explanation (*bye brag tu bshad pa*) of body-speech-mind (*sku gsung thugs*) samaya. This follows the general discussion with specific enumeration.
+**Analysis:** Longchenpa transitions to the second major section (*gnyis pa*): the particular explanation (*bye brag tu bshad pa*) of body-speech-mind (*sku gsung thugs*) samaya. This follows the general discussion with specific enumeration.
 
 The structure follows the *Thal 'gyur* (Consequence) tradition:
 1. Empowerment-based commitments (*dbang la brten pa'i dam tshig*)
@@ -619,13 +619,13 @@ The structure follows the *Thal 'gyur* (Consequence) tradition:
 5. Distinguished by protective domain
 
 [9888] <philology> Reference to *Thal 'gyur*
-**Architectural Analysis:** *thal 'gyur las*—"From the Consequence [Tantra]"
+**Analysis:** *thal 'gyur las*—"From the Consequence [Tantra]"
 
 The *Thal 'gyur* (*Thal pa'i 'gyur* or *Prasāraṅga*) is a major Nyingma tantra, one of the *sPyi rgyud* (General Tantras). Citation establishes scriptural authority for the three-vajra framework.
 
-<philology>
+[9889-9895] <philology>
 The Six-Line Summary
-**Philological Analysis:** The citation provides a mnemonic summary (*mdor bsdus*):
+**Analysis:** The citation provides a mnemonic summary (*mdor bsdus*):
 
 - **Line 9888:** Empowerment-based samaya explained
 - **Line 9890:** Aggregated: body, speech, and mind
@@ -635,9 +635,9 @@ The Six-Line Summary
 - **Line 9894:** Vows gathered into body and empowerment
 - **Line 9895:** Vajra-secret place should be held
 
-<structure>
+[9897-9898] <structure>
 # The Ninefold Body Samaya Schema
-**Investigation:** The three-vajra system subdivides each vajra into outer (*phyi*), inner (*nang*), and secret (*gsang ba*), then each of those into three subcategories (*phyi'i phyi* etc.), yielding 27 total, though the text focuses on the first three.
+**Analysis:** The three-vajra system subdivides each vajra into outer (*phyi*), inner (*nang*), and secret (*gsang ba*), then each of those into three subcategories (*phyi'i phyi* etc.), yielding 27 total, though the text focuses on the first three.
 
 **The Initial Three Body Samayas:**
 

@@ -1,42 +1,45 @@
+[14590-14615]
 . Liberation criteria: momentary recognition versus meditation days.
 
-<structural-mapping>
+[14590-14615] <structure>
 This section presents the criterion for liberation (grol ba'i mtshan nyid), distinguishing between momentary recognition (skad cig ngo sprod) and meditation days (sgom pa'i nyin mtshan). The structure follows: (1) scriptural citation from Ye shes sgron me (Wisdom Lamp), (2) analysis of pervasion (khyab pa) between recognition and meditation, (3) refutation of erroneous views, (4) definition of meditation days as duration of contemplative stability. The structural logic demonstrates that momentary recognition and meditation days are not identical—recognition can occur without extended meditation, and meditation can occur without realization.
 
-<context>
-The citation from Wisdom Lamp tantra establishes scriptural authority: "Momentary recognition divides in half, Meditation days comprise the abiding portion." This indicates the Nyingma distinction between instantaneous recognition (cig car ba) and gradual familiarization (rim gyis pa). The refutation of those who hold meditation days as "present days" (da lta'i nyin mtshan) reflects doxographical debates within Tibetan Buddhism about the nature of progress on the path. The passage asserts that some practitioners may "abide in natural contemplation" (gnas lugs bzhag pa) even without full realization—indicating the distinction between stability and recognition.
+[14590-14615] <context>
+The citation from Wisdom Lamp tantra establishes scriptural authority: "Momentary recognition divides in half, Meditation days comprise the abiding portion." This reflects the Nyingma distinction between instantaneous recognition (cig car ba) and gradual familiarization (rim gyis pa). The refutation of those who hold meditation days as "present days" (da lta'i nyin mtshan) reflects doxographical debates within Tibetan Buddhism about the nature of progress on the path. The passage asserts that some practitioners may "abide in natural contemplation" (gnas lugs bzhag pa) even without full realization—indicating the distinction between stability and recognition.
 
-<grammatical-examination>
+[14590-14615] <philology>
 The term skad cig (moment/instant) carries its technical sense of the shortest unit of time—recognition can occur in such moments. The compound sgom pa'i nyin mtshan (meditation days) refers to the duration of sustained contemplative practice, not calendar days. The phrase khyab pa (pervasion/logical pervasion) indicates the relationship between two categories—here, whether recognition pervades meditation and vice versa. The term lhun grub (spontaneous presence) appears as "like the end of spontaneous presence" (lhun grub kyi mtha' lta bu), indicating a state of natural abiding without full recognition. The verb grol (liberate) indicates freedom achieved through recognition.
 
-<concept>
-The philosophical distinction here is crucial: recognition (ngo sprod) is epistemic—seeing the nature of mind; meditation (sgom pa) is sustaining that recognition. The concept of skad cig ngo sprod shows that recognition can be instantaneous, while sgom pa'i nyin mtshan indicates that stabilization requires time. The distinction between "endowed" (ldan pa) and "non-endowed" (mi ldan pa) suggests different capacities—some recognize immediately, others require extended practice. The "limit connected with meditation" (sgom pa dang 'brel ba'i mtha') indicates that there is a boundary beyond which meditation without recognition becomes stagnation. This reflects the Dzogchen teaching that recognition is primary, stabilization secondary.
+[14590-14615] <concept>
+The philosophical distinction here is crucial: recognition (ngo sprod) is epistemic—seeing the nature of mind; meditation (sgom pa) is sustaining that recognition. The concept of skad cig ngo sprod indicates that recognition can be instantaneous, while sgom pa'i nyin mtshan indicates that stabilization requires time. The distinction between "endowed" (ldan pa) and "non-endowed" (mi ldan pa) suggests different capacities—some recognize immediately, others require extended practice. The "limit connected with meditation" (sgom pa dang 'brel ba'i mtha') indicates that there is a boundary beyond which meditation without recognition becomes stagnation. This reflects the Dzogchen teaching that recognition is primary, stabilization secondary.
 
+[14616-14639]
 . Superior faculties' liberation: shooting star metaphor and emanation divergence.
 
-<structure>
+[14616-14639] <structure>
 This subsection presents the liberation of superior faculties (dbang po rab), organized into seven aspects. The structure describes: (1) perfection of the supreme, (2) liberation without connection to meditation days in three moments, (3) liberation in three moments for others with varying connection to meditation days, (4) the shooting star metaphor, (5) entering self-appearance as primordial purity, (6) emanation divergence from primordial purity, (7) the unique Dzogchen tenet of ground-appearance. The progression moves from recognition through liberation to compassionate activity.
 
-<context>
+[14616-14639] <context>
 The extended explanation of faculties' liberation (dbang po grol ba rgyas par bshad pa) follows the standard threefold classification: superior, middling, and inferior. The "shooting star racing through space" (gnam la 'phar ba'i skar mda' lta bu) metaphor illustrates the rapidity of superior practitioners' liberation. The concept of "three moments" (skad cig gsum) indicates the brief temporal framework for liberation: first moment perception, second moment recognition, third moment liberation. This reflects the Dzogchen teaching that recognition can be immediate for those with superior faculties.
 
-<philology>
+[14616-14639] <philology>
 The term dbang po rab (superior faculties) indicates practitioners of highest capacity. The compound skad cig gsum (three moments) refers to the instantaneous process of perception-recognition-liberation. The phrase rang snang ka dag (self-appearance as primordial purity) indicates that the appearances themselves are recognized as primordially pure. The term sprul pa (emanation) refers to the compassionate manifestation that arises from recognition. The phrase gzhi snang (ground-appearance) indicates the dimension from which emanations arise. The compound 'pho ba chen po'i sku (body of great transference) refers to the rainbow body achieved through thod rgal practice.
 
-<concept>
+[14616-14639] <concept>
 The soteriology presented here is distinctively Dzogchen: superior practitioners recognize that "emanation does not diverge from primordial purity" (sprul pa ka dag las mi 'phro)—compassionate activity arises naturally from recognition without leaving the ultimate state. The concept of gzhi snang lhun grub (ground-appearance spontaneous presence) indicates the dimension where spontaneous presence shines forth from primordial purity. The "body of great transference" ('pho ba chen po'i sku) represents the highest accomplishment—transference not to another realm but into the nature of reality itself. The unique tenet of Dzogchen (rdzogs chen khyad chos) is that benefit for beings occurs through "self-appearance as saṃsāra" (rang snang 'khor ba) without actual separation from primordial purity.
 
-<structure>
+[14616-14639] <structure>
 The final lines describe the first of three moments: "the sphere-appearance together with the four pristine cognitions and their connections ceases" (thig le'i snang ba ye shes bzhi dang de 'brel ba zad). This indicates the progressive dissolution of even the most subtle appearances into primordial purity.
 
-<context>
+[14616-14639] <context>
 The citation from nges dbye (Definitive Distinction) on erroneous paths provides scriptural grounding for rejecting gradualist views. The refutation of those who misunderstand meditation days reflects Longchenpa's polemical engagement with competing interpretations.
 
-<philology>
+[14616-14639] <philology>
 The term thig le (sphere/bindu) carries its technical sense as the subtle essence-drops that manifest as visionary appearances. The phrase ye shes bzhi (four pristine cognitions) refers to the wisdoms associated with the four directions or elements. The verb zad (cease/exhaust) indicates not destruction but recognition of their empty nature.
 
-<concept>
+[14616-14639] <concept>
 The philosophical culmination here is profound: even the most sublime appearances—spheres of light, pristine cognitions—must be transcended in the final recognition. The concept of zad pa (exhaustion/cessation) indicates the ultimate stage where even the path itself is released. This reflects the Dzogchen teaching that the fruition is not the accumulation of experiences but their release into primordial purity.
+
 
 ---
 

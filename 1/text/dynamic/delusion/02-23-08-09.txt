@@ -1,4 +1,4 @@
-<bardo-completion-achievement> <bar-do-rdzogs>
+[14753-14770] <bardo-completion-achievement> <bar-do-rdzogs>
 
 **Misreading:**
 The completion of bardo (*bar do rdzogs*) interpreted as successfully finishing a stage, creating completion-pride.
@@ -11,14 +11,14 @@ Stage-completion-pride: pride in finishing bardo. Natural non-stage obscured by 
 
 **Secondary consequences:**
 - "I completed the bardo successfully"
-- What remains unseen is that completion is recognition, not achievement
+- Missing that completion is recognition, not achievement
 - Reifying bardo as level to complete
 - Next-stage anxiety
 
 **Cascade effects:**
-<bardo-completion-achievement> generates <stage-pride> [finishing] triggers <next-stage-anxiety> [what's next] → <natural-non-stage-miss> [no levels]
+<bardo-completion-achievement> → <stage-pride> [finishing] → <next-stage-anxiety> [what's next] → <natural-non-stage-miss> [no levels]
 
-<no-bardo-liberation-elitism> <bar-do-med-par-grol>
+[14770-14780] <no-bardo-liberation-elitism> <bar-do-med-par-grol>
 
 **Misreading:**
 Liberation without bardo (*bar do med par grol*) interpreted as elite achievement for advanced practitioners.
@@ -31,14 +31,14 @@ Bypass-elitism: pride in not needing bardo. Natural immediacy obscured by superi
 
 **Secondary consequences:**
 - "I'm advanced enough to skip bardo"
-- The blind spot: that no-bardo is nature, not achievement
+- Missing that no-bardo is nature, not achievement
 - Reifying bypass as status
 - Disparaging bardo practitioners
 
 **Cascade effects:**
-<no-bardo-elitism> generates <bypass-pride> [skipping] → <superiority-complex> [better than] → <natural-immediacy-miss> [always immediate]
+<no-bardo-elitism> → <bypass-pride> [skipping] → <superiority-complex> [better than] → <natural-immediacy-miss> [always immediate]
 
-<dharmata-bardo-terror> <chos-nyid-bar-do>
+[14780-14800] <dharmata-bardo-terror> <chos-nyid-bar-do>
 
 **Misreading:**
 The dharmata bardo interpreted as terrifying void-state to endure.
@@ -56,9 +56,9 @@ Dharmata-terror: fear of reality-ground. Natural ground obscured by groundlessne
 - Resistance to reality
 
 **Cascade effects:**
-<dharmata-bardo-terror> creates <awareness-overlooked>
+<dharmata-bardo-terror> → <groundlessness-anxiety> [no ground] → <void-fear> [terror of empty] → <natural-ground-miss> [ground is nature]
 
-<becoming-bardo-dread> <srid-pa-bar-do>
+[14800-14810] <becoming-bardo-dread> <srid-pa-bar-do>
 
 **Misreading:**
 The becoming bardo (*srid pa bar do*) interpreted as terrifying descent into rebirth.
@@ -76,9 +76,9 @@ Rebirth-dread: horror at becoming-process. Natural becoming obscured by formatio
 - Panic at formation
 
 **Cascade effects:**
-<becoming-bardo-dread> → <ground-ignored>
+<becoming-bardo-dread> → <formation-panic> [taking shape] → <rebirth-horror> [returning] → <natural-becoming-miss> [becoming is display]
 
-<rebirth-destination-fear> <skye-sa>
+[14810-14822] <rebirth-destination-fear> <skye-sa>
 
 **Misreading:**
 The destination of rebirth interpreted as random terrifying lottery.
@@ -96,9 +96,9 @@ Destination-terror: fear of where rebirth leads. Natural flow obscured by outcom
 - Pre-death panic
 
 **Cascade effects:**
-<rebirth-destination-fear> generates <outcome-anxiety> [where to] → <lottery-terror> [random chance] → <natural-flow-miss> [flow is display]
+<rebirth-destination-fear> → <outcome-anxiety> [where to] → <lottery-terror> [random chance] → <natural-flow-miss> [flow is display]
 
-<consciousness-transference-completion-pride> <rnam-shes-pho-ba-rdzogs>
+[14753-14765] <consciousness-transference-completion-pride> <rnam-shes-pho-ba-rdzogs>
 
 **Misreading:**
 Successful consciousness transference (*pho ba*) interpreted as achievement proving spiritual advancement.
@@ -118,7 +118,7 @@ Phowa-pride: believing transference proves attainment. Natural movement obscured
 **Cascade effects:**
 <phowa-completion-pride> → <technique-mastery> [skill pride] → <status-seeking> [advanced practitioner] → <natural-movement-miss> [no transfer needed]
 
-<final-recognition-pressure> <tha-ma'i-ngo-shes>
+[14765-14780] <final-recognition-pressure> <tha-ma'i-ngo-shes>
 
 **Misreading:**
 The final recognition opportunity interpreted as last-chance pressure cooker.
@@ -136,9 +136,9 @@ Last-chance-panic: desperation to recognize. Natural recognition obscured by pre
 - Desperation-paralysis
 
 **Cascade effects:**
-<final-recognition-pressure> triggers <desperation-panic> [last chance] → <recognition-paralysis> [forcing seeing] → <natural-recognition-miss> [always available]
+<final-recognition-pressure> → <desperation-panic> [last chance] → <recognition-paralysis> [forcing seeing] → <natural-recognition-miss> [always available]
 
-<intermediate-state-liminality-terror> <bar-do>
+[14780-14822] <intermediate-state-liminality-terror> <bar-do>
 
 **Misreading:**
 The intermediate state interpreted as dangerous gap between known states.
@@ -156,4 +156,4 @@ Gap-terror: fear of being between. Natural continuity obscured by discontinuity-
 - Continuity-clinging
 
 **Cascade effects:**
-<intermediate-terror> triggers <liminal-fear> [between states] → <discontinuity-terror> [no ground] → <natural-continuity-miss> [no gap exists]
+<intermediate-terror> → <liminal-fear> [between states] → <discontinuity-terror> [no ground] → <natural-continuity-miss> [no gap exists]

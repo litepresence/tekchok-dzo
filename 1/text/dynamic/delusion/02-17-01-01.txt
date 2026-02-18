@@ -1,4 +1,4 @@
-<intellectualism-error> <word-yogin-fallacy>
+[1754-1830] <intellectualism-error> <word-yogin-fallacy>
 
 **Misreading:**
 The criticism of "characteristic word yogin" who "attaches to words and engages with words" means one should avoid study, scholarship, or conceptual understanding—true practice is beyond words entirely, so intellectual engagement is obstacles to liberation.
@@ -13,14 +13,14 @@ The distinction between conceptual fixation (criticized) and precise understandi
 - Refusing to study texts or terminology as "just words"
 - Believing one can "go beyond" intellect without understanding
 - Dismissing philosophical precision as "conceptual"
-- Failing to recognize that the critic is criticizing attachment to words, not words themselves
+- Missing that the critic is criticizing attachment to words, not words themselves
 
 **Cascade effects:**
-<intellectualism-error> produces <anti-intellectualism> (rejecting study) creates <obscurantism> (avoiding clarity) → <recognition-prevention-error> (confusing ignorance with wisdom).
+<intellectualism-error> → <anti-intellectualism> (rejecting study) → <obscurantism> (avoiding clarity) → <recognition-prevention-error> (confusing ignorance with wisdom).
 
 ---
 
-<meditationism-error> <non-thought-yogin-trap>
+[1754-1830] <meditationism-error> <non-thought-yogin-trap>
 
 **Misreading:**
 The criticism of "nature-definite yogin" who "meditates one-pointedly, variously not-thinking" means one should avoid meditation altogether—meditation is criticized, so liberation must come from some other method.
@@ -35,14 +35,14 @@ The subtle distinction between deliberate meditation (criticized) and natural ab
 - Rejecting all meditative practice as "effort"
 - Searching for "the method that works" since meditation doesn't
 - Believing liberation happens without any practice whatsoever
-- Overlooking that the criticism is of deliberate doing, not of natural recognition
+- Missing that the criticism is of deliberate doing, not of natural recognition
 
 **Cascade effects:**
-<meditationism-error> creates <method-agnosticism> (rejecting all techniques) → <passivity> (waiting for recognition) → <recognition-prevention-error> (substituting inertia for spontaneity).
+<meditationism-error> → <method-agnosticism> (rejecting all techniques) → <passivity> (waiting for recognition) → <recognition-prevention-error> (substituting inertia for spontaneity).
 
 ---
 
-<idealism-error> <mind-only-yogin-illusion>
+[1754-1830] <idealism-error> <mind-only-yogin-illusion>
 
 **Misreading:**
 The criticism of "appearance-mind yogin" who says "all arisen from my mind, realizing mind-itself, what is there to do?" means one should reject idealism or mind-only philosophy—the criticism shows that idealist realization is insufficient.
@@ -64,7 +64,7 @@ The difference between mind-only (view) and awareness-display (recognition) is l
 
 ---
 
-<action-fixation> <doing-yogin-dilemma>
+[1754-1830] <action-fixation> <doing-yogin-dilemma>
 
 **Misreading:**
 The criticism of "enter-action yogin" and "action-cause yogin" means one should avoid all action, practice, or effort—liberation comes from doing nothing, not from virtuous deeds or causes.
@@ -82,11 +82,11 @@ The distinction between deliberate doing (criticized) and spontaneous activity (
 - Missing that spontaneous virtue is not "doing" in criticized sense
 
 **Cascade effects:**
-<action-fixation> leads to <effort-guilt> (feeling wrong about practice) or <spiritual-laziness> (claiming non-action) → <ethical-confusion> (not knowing how to engage) → <recognition-prevention-error> (either effort or inertia).
+<action-fixation> → <effort-guilt> (feeling wrong about practice) or <spiritual-laziness> (claiming non-action) → <ethical-confusion> (not knowing how to engage) → <recognition-prevention-error> (either effort or inertia).
 
 ---
 
-<attainment-error> <path-ground-confusion>
+[1754-1830] <attainment-error> <path-ground-confusion>
 
 **Misreading:**
 The praise of "end-arrive-fruit yogin" who "does not dwell in ground-path, from seeing self that-ness, is regarded as great authentic liberation" means one should skip ground and path, jumping directly to fruition—ground and path are unnecessary.
@@ -104,11 +104,11 @@ The distinction between foundationless jumping (dangerous) and recognition witho
 - Missing that "beyond path" requires recognition, not just ignoring path
 
 **Cascade effects:**
-<attainment-error> creates <foundationless-jumping> (skipping preparation) → <spiritual-bypassing> (claiming realization) → <recognition-prevention-error> (pretending without seeing).
+<attainment-error> → <foundationless-jumping> (skipping preparation) → <spiritual-bypassing> (claiming realization) → <recognition-prevention-error> (pretending without seeing).
 
 ---
 
-<hierarchical-error> <twelve-yogin-ranking>
+[1754-1830] <hierarchical-error> <twelve-yogin-ranking>
 
 **Misreading:**
 The twelve yogins represent hierarchical stages through which practitioners progress—from word-yogin (lowest) to done-complete yogin (highest)—like twelve steps on a path to enlightenment.
@@ -130,9 +130,14 @@ The teaching that these are categories of approach, not stages to traverse, is l
 
 ---
 
+
 Line 1754 marks the beginning of Chapter 17, transitioning from Chapter 16's kaya/wisdom/activity teachings to the path-stage (lam rim) presentation. The twelve yogins serve as introduction to the graded path.
 
+
+
 ---
+
+[COMPLETE SECTION NOTE]
 
 This section (02-17-01-01.txt) presents twelve types of yogins, one of the most pedagogically important teachings in the mdzod. Error-potential is extreme because:
 

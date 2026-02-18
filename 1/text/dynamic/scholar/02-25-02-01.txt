@@ -1,4 +1,4 @@
-<structure>
+[16329-16351] <structure>
 # Three Kayas and Maṇḍala Architecture
 **Architectural Context:** This section presents detailed exposition of the three kayas (སྐུ་གསུམ་ sku gsum) and their maṇḍala architecture. The passage addresses the theoretical framework before detailing specific manifestations. The structure delineates:
 1. General presentation (ཐོབ་ཚུལ་སྤྱིར་བསྟན་ thob tshul spyi r bstan)
@@ -13,7 +13,7 @@
 
 **Maṇḍala Organization:** The organizational markers (རིམ་པ་ rim pa, དབྱེ་བ་ bye ba) indicate a graduated pedagogical approach. The detailed enumeration of maṇḍala components demonstrates the comprehensive nature of the presentation.
 
-<grammatical-examination>
+[16329-16351] <philology>
 **Key Terminology:**
 - སྐུ་གསུམ་ (sku gsum): "three bodies"—the three aspects of Buddha: ཆོས་སྐུ་ (chos sku, Dharmakāya), ལོངས་སྐུ་ (longs sku, Sambhogakāya), སྤྲུལ་པའི་སྐུ་ (sprul pa'i sku, Nirmāṇakāya)
 - ལོངས་སྤྱོད་རྫོགས་པའི་སྐུ་ (longs spyod rdzogs pa'i sku): "complete enjoyment body"—the body that enjoys/experiences the Dharma and appears to bodhisattvas
@@ -28,7 +28,7 @@
 
 **Philosophical Particles:** The contrast between ཐོབ་ (thob, "obtained") and འབྲས་ (bras, "fruit") establishes the relationship between path and result.
 
-<doxographical-placement>
+[16329-16351] <context>
 **Doxographical Placement:** This section participates in རྙིང་མ་ (Nyingma) doxographical discourse, delineating pure realm architecture (ཞིང་ཁམས་ zhing khams) and Buddha-field cosmology. The presentation draws from གསང་བ་སྙིང་པོ་ (Guhyagarbha, "Secret Essence") and related tantric sources.
 
 **Synthesis:** The passage synthesizes creation-phase (བསྲུབ་རིམ་ bskyed rim) and completion-phase (རྫོགས་རིམ་ rdzogs rim) views—showing how maṇḍala architecture functions in both generating the view and completing the realization.
@@ -37,7 +37,7 @@
 
 **Textual Authority:** The citation formulas (ཞེས་སོ་ zhes so, དེ་ལས་སྤྱོན་པ་ de las gsungs pa) establish textual authority through tantric source validation, demonstrating Longchenpa's synthetic methodology.
 
-<concept>
+[16329-16351] <concept>
 **Three Kayas as Emanation Architecture:**
 
 1. **Dharmakāya (ཆོས་སྐུ་ chos sku):** The ultimate nature (ཆོས་ཉིད་ chos nyid)—formless, empty essence
@@ -52,13 +52,13 @@
 
 **Field (ཞིང་ zhing):** These are not merely symbolic representations but actual dimensions of enlightened manifestation accessible through practice.
 
-<structure>
+[16352-16359] <structure>
 # Dharmakāya Pure Realm: Samantabhadra and Consort
 **Architectural Context:** This subsection presents the ཆོས་སྐུ་ (Dharmakāya) dimension of the maṇḍala: Samantabhadra (ཀུན་ཏེ་བཟང་པོ་ Kun tu bzang po) and consort (ཀུན་ཏེ་བཟང་མོ་ Kun tu bzang mo) in the center, representing the union of ultimate nature and luminous display.
 
 **Nyingma Schema:** The presentation follows the རྙིང་མ་ schema where ཆོས་སྐུ་ is not formless absence but the ground of all appearance—manifesting in visionary form even while being ultimate.
 
-<philology>
+[16352-16359] <philology>
 **Key Terms:**
 - ཀུན་ཏེ་བཟང་པོ་ (Kun tu bzang po): "Samantabhadra/All-Good"—primordial purity with all qualities complete
 - ཡབ་ཡུམ་ (yab yum): "Father-Mother"—union of method (ཐབས་ thabs) and wisdom (ཤེལ་རབ་ sh+r+ab), or space (དབྱིངས་ dbyings) and awareness (རིག་པ་ rig pa)
@@ -68,7 +68,7 @@
 - གྱི་ (gyi): genitive—possessive relationship
 - འི་ (i): genitive marker
 
-<context>
+[16352-16359] <context>
 **Doxographical Placement:** This depiction reflects the རྙིང་མ་ understanding of primordial Buddha (དང་པོའི་སངས་རྒ໱ད་ dang po'i sangs rgyas) as the source of all manifestation.
 
 **Union (ཡབ་ཡུམ་ yab yum):** Represents the non-duality of:
@@ -77,7 +77,7 @@
 
 **Atiyoga Sources:** This presentation draws from the རྫོགས་ཆེན་ (Atiyoga) tantras, particularly those of the instruction class (མན་འབྱོན་ sde), where the primordial state is depicted as enlightened from the beginning (ཡེ་ནས་སངས་རྒ໱ད་ ye nas sangs rgyas).
 
-<concept>
+[16352-16359] <concept>
 **Ground as Already Enlightened:** The philosophical architecture presents the ground (གཞི་ gzhi) as already enlightened—Samantabhadra represents awareness (རིག་པ་ rig pa) and his consort represents the expanse (དབྱིངས་ dbyings), their union representing the non-dual nature of mind.
 
 **Dzogchen Teaching:** This reflects the རྫོགས་ཆེན་ teaching that Buddhahood is not achieved but recognized—Samantabhadra is the symbol of that recognition.

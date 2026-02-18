@@ -1,16 +1,18 @@
-<structure>
+[5269-5281] <structure>
 # Third Vision: Awareness Reaching Full Measure
-**Investigation:** This passage presents the third of the four visions (སྣང་བ་བཞི་, *snang ba bzhi*) in Dzogchen Tögal practice—awareness reaching full measure (རིག་པ་ཚད་ལ་ཕེབས་པ, *rig pa tshad la phebs pa*). The structure follows: (1) Citation from Thal 'gyur and Bstan bu establishing canonical authority; (2) The three measures (ཚད་གསུམ, *tshad gsum*)—outer vision, inner body, secret awareness; (3) Ten signs of body measure completion; (4) The physiology of transformation—crown aperture, white A, five light-rays; (5) The secret awareness measure and its dimensions; (6) Fourth vision characteristics—exhaustion, body-mind separation; (7) Philosophical analysis of exhaustion modalities; (8) Definitional schema; (9) Soteriological attainment; (10) Critique of nihilistic interpretations. The enumeration uses *dang po* (first), *gnyis pa* (second), *gsum pa* (third), *bzhi pa* (fourth) for the four visions, with detailed subdivisions.
+**Analysis:** This passage presents the third of the four visions (སྣང་བ་བཞི་, *snang ba bzhi*) in Dzogchen Tögal practice—awareness reaching full measure (རིག་པ་ཚད་ལ་ཕེབས་པ, *rig pa tshad la phebs pa*). The structure follows: (1) Citation from Thal 'gyur and Bstan bu establishing canonical authority; (2) The three measures (ཚད་གསུམ, *tshad gsum*)—outer vision, inner body, secret awareness; (3) Ten signs of body measure completion; (4) The physiology of transformation—crown aperture, white A, five light-rays; (5) The secret awareness measure and its dimensions; (6) Fourth vision characteristics—exhaustion, body-mind separation; (7) Philosophical analysis of exhaustion modalities; (8) Definitional schema; (9) Soteriological attainment; (10) Critique of nihilistic interpretations. The enumeration uses *dang po* (first), *gnyis pa* (second), *gsum pa* (third), *bzhi pa* (fourth) for the four visions, with detailed subdivisions.
 
-<linguistic-analysis> Line
+[5269-5281] <philology> Line
 
+[5269-5271]
 : rang bzhin bye brag tu bshad pa (nature particular explanation): structural marker introducing detailed analysis. gzhi gnas kyi rig pa (ground-abiding awareness): awareness naturally present at the base, now made manifest.
 
 Line
 
+[5275-5281]
 : tshad gsum (three measures): (1) phyis snang (outer vision), (2) nang lus kyi tshad (inner body measure), (3) gsang ba rig pa'i tshad (secret awareness measure). zla ba nya gang ba (full moon): metaphor for complete mandala manifestation.
 
-<doxographical-placement> This passage situates within the Thod rgal (Direct Transcendence) completion practice of Dzogchen, specifically the third of four visions. The citations from Thal 'gyur (Thal 'gyur sku gsum 'od kyi snang ba) and Bstan bu (likely Gsang ba snying po) authenticate the visionary taxonomy. The three-measure schema reflects physiological, perceptual, and cognitive dimensions of realization. The emphasis on "beyond limitation" ('das sa med pa) distinguishes Dzogchen's spontaneous approach from gradual path constraints.
+<context> This passage situates within the Thod rgal (Direct Transcendence) completion practice of Dzogchen, specifically the third of four visions. The citations from Thal 'gyur (Thal 'gyur sku gsum 'od kyi snang ba) and Bstan bu (likely Gsang ba snying po) authenticate the visionary taxonomy. The three-measure schema reflects physiological, perceptual, and cognitive dimensions of realization. The emphasis on "beyond limitation" ('das sa med pa) distinguishes Dzogchen's spontaneous approach from gradual path constraints.
 
 <concept>
 • Three measures (tshad gsum) taxonomy:
@@ -28,19 +30,23 @@ Line
   - Self-resonance display through body-door (sku snang)
   - Path-vision exhaustion (lam snang zad du ne ba)
 
+[5285-5300]
 followed by phenomenological description
 
+[5285-5300]
 : Thal 'gyur citation enumerating ten signs: thad ka'i dngos snang 'gags pa (direct objects cease), sa rdo'i snang ba bzhu ba (earth-stone vision dissolve), rang shes ci la'ang tshud pa (self-knowing enters everything), de btsud bems po 'gul ba (inserted inert moves), rlung gi 'gyu ba'i tshad zin (wind movement measure grasped), lus kyi rdul phran mthong ba 'byung (body's subtle atoms seen appear), cir snang gzugs kur rdzogs pa (whatever appears as form-kāya completes), de las yab yum 'khril ba (from that father-mother embrace), lnga lnga yab dang yum sbyor (five-five father-mother union), kun kyang mu khyud zlum po la (all in round rim encirclement).
 
 Line
 
+[5301-5315]
 . The structure moves from external signs (visionary appearances) to internal physiology (channels, winds, drops), concluding with teleological implications. Enumerative markers (gnyis pa...gsum pa) organize the progression.
 
-<grammatical-examination> Line
+<philology> Line
 
+[5301-5306]
 : 'A dkar po (white A): seed syllable at heart center. 'od zer lnga (five light-rays): corresponding to five elements/wisdoms. thor tshugs (topknot/crown): cranial fontanelle as visionary aperture. rdul phran (subtle atoms): paramāṇu-level perception. lhun grub kyi sgo brgyad (eight doors of spontaneous completion): visionary apertures of the body.
 
-<historical-context> The ten signs derive from classical Dzogchen visionary literature, particularly the Thod rgal sections of Snying thig ya bzhi. The physiology described operates within subtle body (phra ba'i lus) theory—central channel (rtsa dbu ma), heart cakra (snying ga), crown aperture (thor tshugs). The eight doors (sgo brgyad) correspond to sensory and cognitive apertures through which spontaneous vision manifests. This represents the interfacing of tantric subtle body theory with Dzogchen's direct vision approach.
+<context> The ten signs derive from classical Dzogchen visionary literature, particularly the Thod rgal sections of Snying thig ya bzhi. The physiology described operates within subtle body (phra ba'i lus) theory—central channel (rtsa dbu ma), heart cakra (snying ga), crown aperture (thor tshugs). The eight doors (sgo brgyad) correspond to sensory and cognitive apertures through which spontaneous vision manifests. This represents the interfacing of tantric subtle body theory with Dzogchen's direct vision approach.
 
 <concept>
 • Ten signs of body measure completion:
@@ -59,23 +65,28 @@ Line
   - Self-elevating wind (rang bzhin gyis 'deg pa)
   - Five-colored lights ('od zer lnga)
 
+[5316-5332]
 and definition
 
+[5316-5332]
 : Citation on body transformation: rdul dang bral (free from atoms), bar snang 'od kyi skar khung (sky light apertures), lcags kyu'i dbyibs (hook shapes), zang thal dri med 'od kyi lus (unimpeded stainless light body), A yi mtshan ma (A mark/sign), thor tshugs rlung gis 'deg (crown wind elevates), zhi sku (peaceful kāya), thod pa'i gzhal yas (skull palace), he ru ka mngon 'byung (Heruka manifest).
 
 Line
 
+[5333-5350]
 . The structure employs verse quotation followed by prose exegesis, with concluding synthesis using des na (therefore). The passage connects physiological transformation with cognitive perfection.
 
-<linguistic-analysis> Line
+<philology> Line
 
+[5333-5340]
 : gsang ba (secret): hidden dimension beyond outer/inner. phra rags 'gyu ba'i sems (subtle-gross moving mind): range of mind from coarse to refined. kun gzhi rnam shes (all-base consciousness): ālayavijñāna as reference point. mngon shes (clairvoyance): five or six superknowledges.
 
 Line
 
+[5341-5350]
 : spyan chags pa (attachment): cognitive obstacle even at advanced stages. rang gis shes pa zin (self-knowing grasped): subtle duality. snang ba lhug par shar (vision freely dawn): unobstructed manifestation. chos kyi sprin (cloud of dharmas): tenth bhūmi metaphor.
 
-<doxographical-placement> This passage operates at the intersection of tantric subtle body completion and Dzogchen awareness perfection. The citation describes rainbow body ('ja' lus) formation through light-transformation. The distinction between outer, inner, and secret measures reflects the trikāya structure—nirmāṇakāya (body), sambhogakāya (perception), dharmakāya (awareness). The critique of mngon shes without spyan chags liberation reflects Nyingma concerns about siddhis without realization.
+<context> This passage operates at the intersection of tantric subtle body completion and Dzogchen awareness perfection. The citation describes rainbow body ('ja' lus) formation through light-transformation. The distinction between outer, inner, and secret measures reflects the trikāya structure—nirmāṇakāya (body), sambhogakāya (perception), dharmakāya (awareness). The critique of mngon shes without spyan chags liberation reflects Nyingma concerns about siddhis without realization.
 
 <concept>
 • Secret awareness measure dimensions:
@@ -93,18 +104,22 @@ Line
   - Three kāyas as one entwined (sku gsum gcig 'dril)
   - Body exhausted to measure (lus zad tshad las grol)
 
+[5358-5382]
 and scriptural citation
 
+[5358-5363]
 : rlung phir 'phangs (wind outward projected): energetic release from internal circulation. nang du ma bzung (not held internally): absence of reabsorption. rtog pa skad cig gnyis par mi sdod (thought not abide two moments): instantaneous thought-flow. lus sems 'brel chod (body-mind connection severed): somatic liberation marker.
 
 Line [5361]: rnam shes kun gzhi'i cha (all-base consciousness aspect): residual cognitive structure. rtog med yul rig pa (non-conceptual object awareness): non-dual perception. me stag 'phro ba (sparks shooting): metaphor for energetic display.
 
 Line
 
+[5364-5382]
 . The structure moves from causal explanation (las/byung) to teleological conclusion (don gyi 'bras bu), using comparative metaphors (skar mda', me stag). The passage employs technical terms for body-mind separation (lus sems 'brel chod).
 
 <philology> Line
 
+[5370-5382]
 : mthong byed (seer/witness): subject pole. mthong bya (seen/objects): object pole. zag bcas (with outflows): conditioned phenomena. zag med (without outflows): unconditioned liberation. 'pho ba chen mo (great transference): highest attainment.
 
 <context> This material presents the culmination of Tögal practice—exhaustion of phenomena into dharmatā. The body-mind separation represents a key Dzogchen concept distinct from ordinary death; here the body becomes translucent (zang thal) while awareness expands limitlessly. The "great transference" ('pho ba chen mo) refers to the Vimalamitra tradition of leaving the body as light without remainder. The three realms (khams gsum) non-return (phyir mi ldog) marks irreversible liberation.
@@ -126,24 +141,30 @@ Line
   - Light body completion ('od gsal sku)
   - Beyond death and birth ('chi skye dang bral)
 
+[5398-5401]
 , existential implications
 
+[5402-5411]
 , and definitional analysis
 
+[5402-5411]
 : 'khrul pa'i chos (delusion dharmas): phenomena of error. chos nyid don dam (dharmatā ultimate): ultimate truth. chos can dang chos nyid (dharmin and dharmatā): subject and nature distinction.
 
 Line
 
+[5412-5428]
 . The structure employs analogy (birth-death four), causal reasoning (pas/bas), and enumeration (rim gyis/cig car). The passage concludes with technical definitions distinguishing conditioned vs. unconditioned exhaustion.
 
 <philology> Line [5398]: skye rga na 'chi bzhi'i 'phel zad pa (birth-aging-illness-death four's waxing-waning): biological metaphor for cosmic cycles. phyis snod (outer vessel/container): inanimate environment. nang bcud (inner essence): sentient beings.
 
 Line
 
+[5412-5418]
 : kun gzhi'i cha sgo gsum (all-base's three doors): body-speech-mind as expressions of fundamental ignorance (ma rig pa). rtsa ba'i ma rig pa (root ignorance): original non-recognition.
 
 Line
 
+[5424-5428]
 : rim gyis (gradual) vs. cig car (instantaneous): classical distinction in Buddhist praxis. snang ba bzhi tshad du phyin pa (four visions arriving at measure): completion of visionary path as prerequisite for gradual exhaustion.
 
 <context> This passage addresses a critical juncture in Dzogchen theory—the "exhaustion" of phenomena into dharmatā. The distinction between gradual (rim gyis) and instantaneous (cig car) exhaustion reflects broader Tibetan debates about realization modalities. The cosmic metaphor (outer vessel/inner essence) derives from Abhidharma cosmology but reinterpreted through Dzogchen's lens of spontaneous perfection. The critique of denying form-kāya (sku) and wisdom (ye shes) in result-phase reflects Nyingma polemics against nihilistic interpretations of emptiness.
@@ -166,14 +187,17 @@ Line
   - Inner essence lifespan limits
   - Three realms non-liberation if incomplete
 
+[5432-5457]
 : essence (ngo bo), definition (nges tshig), nature (rang bzhin), dharmatā proper (chos nyid), and boundary (sa mtshams). The structure employs scriptural citation (Thal 'gyur), etymological analysis, and dialectical reasoning to establish precise technical understanding.
 
 <philology> Line
 
+[5438-5441]
 : phyi 'od lnga'i snang ba (outer five-light vision): perceptual dimension of exhaustion. nang rdos bcas rtog tshogs (inner with subtle body thought-aggregates): cognitive-somatic dimension. nyams snang gi yul (experience-vision objects): phenomenal content.
 
 Line
 
+[5450-5456]
 : chos (dharma/phenomena): lus ngag sems kyi tshogs pa (body-speech-mind aggregates) including nyon mongs (afflictions). zad pa (exhaustion): stong pa (emptiness/void), blo'i sgom pa yul snang dang bcas pa rang log nas med (meditation's objects with appearance self-reverse into non-existence).
 
 Line [5457]: mi dmigs pa (non-observation): epistemological state where subject-object duality collapses; Madhyamaka term adapted for Dzogchen context.
@@ -199,22 +223,28 @@ Line [5457]: mi dmigs pa (non-observation): epistemological state where subject-
   - Beyond conceptuality yet not void
   - Dharmatā as ultimate fact (don gyi 'bras bu)
 
+[5477-5481]
 , scriptural citation
 
+[5477-5478]
 : rgyun gyi ting nge 'dzin (continuum samadhi): unbroken meditative absorption. chos nyid kyi 'khor lo (dharmatā wheel/chakra): mandala of ultimate nature. spyan dang mngon shes chen po (eyes and great superknowledges): five eyes and six clairvoyances. khams gsum chos kyi rgyal po'i rgyal tshab (regent of dharma-king of three realms): attainment equivalence with Buddha.
 
 Line
 
+[5482-5498]
 , and philosophical synthesis
 
+[5482-5498]
 : Thal 'gyur citation on dissolution: 'byung ba dengs pa (elements dissolving), rdos pa 'gag (subtle body ceasing), rdul dang phra rab (atoms and particles), nyon mongs dengs pa (afflictions dissolving), bag la nyal (latency), kun nas ldang (arising).
 
 Line
 
+[5499-5515]
 . The structure moves from soteriological attainment (empowerment as regent) to cosmological transformation (elements dissolving), concluding with critical distinctions about emptiness interpretation.
 
 <philology> Line
 
+[5499-5502]
 : stong pa'i chos nyid (emptiness dharmatā): rtsa rlung rags pa (channels winds coarse) exhaustion leading to sems dang sems byung (mind and mental factors) exhaustion. nang dbyings (inner expanse): dimension into which visions dissolve.
 
 <context> This passage marks the culmination of the four visions discussion, establishing the soteriological result of exhaustion-practice. The "regent of the dharma-king" (chos kyi rgyal po'i rgyal tshab) terminology reflects Mahāyāna political metaphors for buddhahood. The Thal 'gyur citation describes the somatic transformation—progressive dissolution of elements (earth-water-fire-air-space) followed by subtle body (rdos pa) cessation, culminating in wisdom-kāya. The critique of "snying tig pa" who deny form-kāya and wisdom in result-phase reflects internal Nyingma debates about the status of manifestation post-realization.
@@ -240,20 +270,25 @@ Line
   - Manifestation ground for sentient beings' welfare
   - Samantabhadra's compassion display requires basis
 
+[5516-5523]
 , followed by boundary-marker analysis
 
+[5516-5518]
 : 'bras bu'i ka dag (result pure-from-beginning): term for fruition-phase primordial purity. snying tig pa: follower of Snying thig tradition (possibly pejorative in this context). shel 'od (crystal light): metaphor for transparent luminosity. dgongs pa ma lon pa (intent not realized): failure to understand implicit meaning.
 
 Line
 
+[5519-5523]
 : lhun grub (spontaneous completion): one of two aspects of ground (gzhi) along with ka dag. 'dus ma byas (uncompounded): asaṃskṛta, unconditioned. gtan brlag (annihilation): nihilistic destruction, denied as implication. 'char gzhi (manifestation ground): basis from which appearance arises for others' benefit.
 
 Line
 
+[5524-5539]
 . The structure employs dialectical reasoning (gal ba/contradiction), teleological analysis, and phenomenological description of the transition point (sa mtshams) between measure-completion and exhaustion.
 
 <philology> Line
 
+[5524-5539]
 : sa mtshams (boundary/limit): transition between phases. rkang lag bzhi'i sor mo (four limbs' digits): fingers-toes as somatic markers. 'od lnga (five lights): elemental colors. 'khyil ba (coiled/withdrawn): description of awareness absorbed into dharmakāya.
 
 <context> This passage represents Longchenpa's philosophical defense of Dzogchen against nihilistic interpretation. The critique targets those who, understanding emptiness (stong pa nyid) literally, deny all manifestation in the result-phase. Longchenpa argues this contradicts: (1) spontaneous completion (lhun grub), (2) uncompounded nature (not annihilation), (3) compassionate activity for beings, and (4) Samantabhadra's own display. This reflects Nyingma internal debates and broader Tibetan Buddhist concerns about Hva-shang-style "emptiness of everything" misinterpretations. The boundary-marker description provides concrete phenomenological criteria for transition between third and fourth visions.
@@ -277,24 +312,31 @@ Line
   - Body and vision's self-resonance reverses
   - Inner-clear spontaneous-completion jewel treasury
 
+[5540-5557]
 through simile
 
+[5540-5542]
 , scriptural authority
 
+[5540-5542]
 : me long gi gzugs brnyan (mirror image): simile for delusory appearance—apparent yet insubstantial. chu'i zla ba (water-moon): classical metaphor for reflection-emptiness. ye shes sgyu ma'i sku (wisdom illusion-kāya): nirmāṇakāya as wisdom-display. zang thal (unimpeded): quality of realized manifestation. rdo rje'i sku (vajra-kāya): indestructible body of awakening.
 
 Line
 
+[5543-5545]
 , and functional description
 
+[5543-5545]
 : slob dpon chen po bi ma la (great teacher Vimalamitra): Indian master who transmitted Dzogchen to Tibet. padma bzhin no: Padmasambhava, "Like Padma," indicating equivalent attainment.
 
 Line
 
+[5546-5557]
 . The structure employs analogical reasoning (mirror, water-moon), causal markers (pas/bas), and enumerative logic (two powers). The passage concludes with teleological implications for benefitting beings.
 
 <philology> Line
 
+[5546-5557]
 : skye ba la dbang ba (power over birth): capacity to emanate at will. 'jug pa la dbang ba (power over entry/engagement): capacity to interact with phenomena. sems can gsum stong (three thousand sentient beings): standard Buddhist numerical expression for vast numbers.
 
 <context> This passage establishes the soteriological result of Dzogchen practice—attainment equivalent to Vimalamitra and Padmasambhava. The "great transference body" ('pho ba chen mo'i sku) represents the highest Nyingma classification of realization, where the practitioner leaves the body as light without remainder. The two powers (over birth and engagement) correspond to nirmāṇakāya capacities—spontaneous emanation and skillful interaction. The emphasis on others' vision (gzhan gyi mig ma dag pa) explains why ordinary beings perceive the master's physical body while realized beings perceive the light-form.
@@ -318,14 +360,18 @@ Line
   - Self-power mastery (rang dbang 'byor ba)
   - Benefitting beings until samsara empties
 
+[5566-5589]
 , metaphorical illustration
 
+[5567-5589]
 : Verse citation on: sor mo (fingers) as locus of light-emanation, 'byung ba rang dengs (elements self-dissolve), skye 'jug khyad par (birth-entry distinction), chos kun zad pa (all dharmas exhausted), 'dzin pa med (without grasping), sprul pa'i sku (nirmāṇakāya), 'jug shugs (entry-momentum), skye ba rang dbang (birth self-power), snang ba'i rang sgra (vision's self-sound), sil snyad (rustling), 'khrul par snang (appear as delusion), sems can don kun (all beings' welfare), rig pa mnyam gcig (awareness singular equality), 'pho ba chen mo (great transference), rim dang cig car (gradual and instantaneous), sa mchog dkyil 'khor chen po (supreme ground great mandala).
 
 Line
 
+[5590-5591]
 , and comparative analysis
 
+[5590-5591]
 : skas kyi gdang bu (stairway steps): metaphor for progressive yet connected stages. Lam skye ba'i rim pa (path-arising stages): Dzogchen equivalent to bodhisattva bhūmis.
 
 <context> This passage synthesizes the four visions as stages of path-arising (lam skye ba'i rim pa)—a Dzogchen reconceptualization of the bodhisattva path. The Gsang ba snying po citation grounds the presentation in canonical tantra. The stairway metaphor captures Dzogchen's unique position: stages exist as descriptive categories yet are simultaneously transcended in instantaneous recognition. The comparison with "common vehicles" (theg pa thun mong ba) establishes Dzogchen's superiority while acknowledging shared soteriological goals. The emphasis on diligent practice (brtson pas nyams su len pa) despite the rhetoric of spontaneity reflects Longchenpa's balanced presentation.
@@ -349,26 +395,32 @@ Line
   - Buddha-appearance in this life
   - Result-vehicle distinction
 
+[5592-5599]
 . The structure employs citation markers (zhes so), comparative particles ('dra'o), and superlative reasoning (khyad par du 'phags pa).
 
 <philology> Line [5566]: gsang ba spyod pa sa bon gyi rgyud (Secret Practice Seed Tantra): citation from Gsang ba snying po or related tantra. nang lus zad pa'i sar phyin (arriving at inner body exhaustion stage): technical description of completion-phase.
 
 Line
 
+[5600-5615]
 , structural markers defining diligence (brtson 'grus)
 
+[5600-5615]
 : Verse citation on 'gro ba'i don (beings' welfare), pha rol phyin (pāramitā), dngos grub (siddhis), tshogs gnyis (two accumulations), lam 'di (this path), snying po (essence), gces pa (precious), zad pa'i lus (exhausted body), dngos med (non-substantial), gsang sngags (secret mantra), rdzogs rim (completion stage), blo yi yul (mind's object), sbyor drug (six applications), yon tan (qualities), dgos 'dod (needs and desires).
 
 Line
 
+[5616-5639]
 , and concluding exhortation. The passage employs enumeration (seven branches), quotative authentication, and teleological reasoning.
 
 <philology> Line
 
+[5616-5620]
 : brtson 'grus (diligence/vīrya): defined as dam pa'i chos la dga' ba (joy in sublime dharma) + nyams su len pa (putting into practice).
 
 Line
 
+[5621-5639]
 : Seven branches (yan lag bdun): snyan ngag (poetry/kāvya), brda' gsang (secret symbols/sandhabhāṣa), grub mtha' (philosophical systems), bsdus don (condensed meaning), mchan 'grel (annotations), le'u 'grel (chapter commentary), gal mdo (critical analysis)—the complete scholarly apparatus for textual study.
 
 <context> This passage establishes the practical requirements for Dzogchen realization—diligent practice supported by comprehensive study. The seven branches represent the complete Tibetan monastic curriculum applied to Dzogchen texts. The emphasis on "this life's body" (tshe 'di'i lus) reflects Nyingma assertions about attainability of full awakening in a single lifetime, distinct from gradualist paths requiring countless eons. The reference to six applications (sbyor drug) of Guhyasamāja completion stage demonstrates Dzogchen's integration of classical tantric methodology while transcending it.

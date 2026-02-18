@@ -1,10 +1,10 @@
-<architectural-analysis>
+[20285-20300] <structure>
 Introduction to the Sixteen Distinctions: Similarities and Crucial Differences
 
-**Investigation:**
-- **<structural-mapping>** Transition to the second major section (*gnyis pa*): distinctions of certain meaning (*don nges pa bye brag tu dbye ba*). This introduces the sixteen similar grounds (*'dra gzhi bcu drug*)—appearances that seem identical but differ crucially. The passage presents distinctions 1-4 of the sixteen, organized by numerical markers.
+**Analysis:**
+- **<structure>** Transition to the second major section (*gnyis pa*): distinctions of certain meaning (*don nges pa bye brag tu dbye ba*). This introduces the sixteen similar grounds (*'dra gzhi bcu drug*)—appearances that seem identical but differ crucially. The passage presents distinctions 1-4 of the sixteen, organized by numerical markers.
 
-- **<linguistic-analysis>** Technical terminology: *don nges pa* (meaning certain/definite), *bye brag tu dbye ba* (particular distinctions), *'dra gzhi* (similar ground/basis), *sems rtog med* (mind without thought), *rig pa rtog med* (awareness without thought), *zang thal* (unobstructed/pure), *lhan ne gnas shing 'khyil ba* (settled and coiled), *gting gsal* (depth clarity), *yul la ma shar* (not arisen as object), *rang gnas lhan ne ba* (self-abiding settled), *yul can* (object-possessor), *'dzin pa* (grasping), *bsam gtan* (contemplation), *rtsa rlung ngal so* (channel-wind rest), *yid rtse gcig* (one-pointed mind), *rang babs* (self-descended), *rlan* (moisture/continuity), *bying rgod* (dullness-excitement), *rtsol ba* (effort), *thal byung* (spontaneous), *gar shor* (distracted/wandering).
+- **<philology>** Technical terminology: *don nges pa* (meaning certain/definite), *bye brag tu dbye ba* (particular distinctions), *'dra gzhi* (similar ground/basis), *sems rtog med* (mind without thought), *rig pa rtog med* (awareness without thought), *zang thal* (unobstructed/pure), *lhan ne gnas shing 'khyil ba* (settled and coiled), *gting gsal* (depth clarity), *yul la ma shar* (not arisen as object), *rang gnas lhan ne ba* (self-abiding settled), *yul can* (object-possessor), *'dzin pa* (grasping), *bsam gtan* (contemplation), *rtsa rlung ngal so* (channel-wind rest), *yid rtse gcig* (one-pointed mind), *rang babs* (self-descended), *rlan* (moisture/continuity), *bying rgod* (dullness-excitement), *rtsol ba* (effort), *thal byung* (spontaneous), *gar shor* (distracted/wandering).
 
 - **<concept>** Four distinctions presented:
   1. **Thought-free mind vs. thought-free awareness:** Both non-thinking (*mi rtog pa*), but awareness is unobstructed (*zang thal*) while mind is settled and coiled (*lhan ne gnas shing 'khyil ba*).
@@ -12,57 +12,57 @@ Introduction to the Sixteen Distinctions: Similarities and Crucial Differences
   3. **Self-abiding awareness contemplation vs. channel-wind rest meditation:** Both one-pointed, but self-descended contemplation has continuous moisture while channel-wind meditation depends on effort and suffers from dullness/excitement.
   4. **Self-arisen awareness appearance vs. thought distraction:** Both effuse toward objects, but awareness liberates spontaneously without grasping while thought draws objects outward through fixation.
 
-- **<historical-context>** These distinctions constitute a doxographical taxonomy distinguishing authentic Dzogchen (*snying thig*) from similar-appearing practices (generation stage, channel-wind yoga, calm-abiding). The format follows classical Tibetan debate structure: establishing similarity (*'dra*), then crucial difference (*khyad*).
+- **<context>** These distinctions constitute a doxographical taxonomy distinguishing authentic Dzogchen (*snying thig*) from similar-appearing practices (generation stage, channel-wind yoga, calm-abiding). The format follows classical Tibetan debate structure: establishing similarity (*'dra*), then crucial difference (*khyad*).
 
-<concept>
+[20301-20305] <concept>
 Fifth Distinction: Natural Bardo vs. Yidam Illusion Body
 
-**Close reading:**
-- **<grammatical-examination>** Technical terminology: *chos nyid kyi bar do* (intermediate state of nature/reality), *yidam lha'i sgyu lus* (yidam deity's illusion body), *snang tsum* (mere appearance), *snang ba rgya che chung* (vast/small appearance), *rang snang* (self-appearance), *chos nyid bar do rig gdangs* (intermediate state of nature's awareness resonance), *rtog pa goms rjes* (thought familiarity traces).
+**Analysis:**
+- **<philology>** Technical terminology: *chos nyid kyi bar do* (intermediate state of nature/reality), *yidam lha'i sgyu lus* (yidam deity's illusion body), *snang tsum* (mere appearance), *snang ba rgya che chung* (vast/small appearance), *rang snang* (self-appearance), *chos nyid bar do rig gdangs* (intermediate state of nature's awareness resonance), *rtog pa goms rjes* (thought familiarity traces).
 
 - **<concept>** Fifth distinction: Both the natural bardo and yidam illusion body appear as mere deity-forms. The crucial difference lies in: (1) scale (*rgya che chung*—vast vs. small), and (2) liberation upon recognition. The bardo-awareness-appearance liberates when recognized; the yidam body, produced by familiarization with conceptual thought, does not. This establishes the fundamental Dzogchen distinction between spontaneous appearance (*rang snang*) and fabricated visualization (*rtog pa*).
 
 ---
 
-<concept>
+[20306-20310] <concept>
 Sixth Distinction: Natural Emanation Field vs. Traversed Buddha Field
 
-**Examination:**
-- **<linguistic-analysis>** Technical terminology: *rang bzhin sprul sku'i zhing snang* (self-nature emanation body's field-appearance), *mas bgrod sangs rgyas nas dag pa'i zhing* (mother-traversed buddha-pure field), *longs sku'i snang cha* (enjoyment body's appearance aspect), *lhun grub kyi sgo* (spontaneous presence doorway), *rang snang* (self-appearance), *gzhun snang* (other-appearance), *'khrul snang* (delusion-appearance).
+**Analysis:**
+- **<philology>** Technical terminology: *rang bzhin sprul sku'i zhing snang* (self-nature emanation body's field-appearance), *mas bgrod sangs rgyas nas dag pa'i zhing* (mother-traversed buddha-pure field), *longs sku'i snang cha* (enjoyment body's appearance aspect), *lhun grub kyi sgo* (spontaneous presence doorway), *rang snang* (self-appearance), *gzhun snang* (other-appearance), *'khrul snang* (delusion-appearance).
 
 - **<concept>** Sixth distinction: Both the natural emanation field (*rang bzhin sprul sku'i zhing*) and the traversed pure field (*mas bgrod kyi zhing*) appear similar. The crucial difference: the former arises spontaneously from the doorway of self-appearance (*rang snang lhun grub*), while the latter appears as stiff delusion-appearance (*reng bu*) similar to the traversed field. This distinguishes Dzogchen's spontaneous pure-vision from path-based pure-land visualization practices.
 
 ---
 
-<concept>
+[20311-20313] <concept>
 Seventh Distinction: Ultimate Liberation Ground vs. Groundless Spontaneous Presence
 
-**Consideration:**
-- **<grammatical-examination>** Technical terminology: *mthar thug gi grol sa* (ultimate liberation ground), *ka dag* (original purity), *nges med gzhi'i lhun grub* (groundless spontaneous presence), *rig pa'i yon tan* (awareness's quality), *ngo bo rang bzhin thugs rje* (essence, nature, compassion—the triad), *dri ma dag ma dag* (stain pure/not-pure), *'khrul gzhi* (delusion ground).
+**Analysis:**
+- **<philology>** Technical terminology: *mthar thug gi grol sa* (ultimate liberation ground), *ka dag* (original purity), *nges med gzhi'i lhun grub* (groundless spontaneous presence), *rig pa'i yon tan* (awareness's quality), *ngo bo rang bzhin thugs rje* (essence, nature, compassion—the triad), *dri ma dag ma dag* (stain pure/not-pure), *'khrul gzhi* (delusion ground).
 
 - **<concept>** Seventh distinction: Both the ultimate liberation ground (ka dag) and groundless spontaneous presence (lhun grub) appear as the triad of essence-nature-compassion. The crucial difference lies in purity and delusion-capacity. Ka dag is pure without stain; lhun grub serves as the ground of delusion (*'khrul gzhi byed*). This distinguishes the result from the path-ground.
 
 ---
 
-<architectural-analysis>
+[20314-20318] <structure>
 Crucial Importance Warning and Eighth Distinction
 
-**Philological analysis:**
+**Analysis:**
 - **<structure>** Interruption of the enumeration for a crucial warning (*gal che ba*) against speaking carelessly (*rtsing por ma smra*) about these distinctions—particularly the error of claiming result-ground liberation without recognizing these differences. This marks the rhetorical pivot to the second half of the sixteen distinctions (8-16).
 
-- **<linguistic-analysis>** Technical terminology: *rang gi sde* (own section/our tradition), *gal che ba* (crucially important), *'bras bu gzhi thog tu grol* (result ground-peak liberated), *rtsing por ma smra* (do not speak carelessly/coarsely), *'og ma* (lower/below), *yid dpyod* (intellectual determination), *lt sgom* (view meditation), *mngon sum* (direct perception), *dbang po* (sense power), *rig pa la snang mi snang* (appearance/non-appearance to awareness).
+- **<philology>** Technical terminology: *rang gi sde* (own section/our tradition), *gal che ba* (crucially important), *'bras bu gzhi thog tu grol* (result ground-peak liberated), *rtsing por ma smra* (do not speak carelessly/coarsely), *'og ma* (lower/below), *yid dpyod* (intellectual determination), *lt sgom* (view meditation), *mngon sum* (direct perception), *dbang po* (sense power), *rig pa la snang mi snang* (appearance/non-appearance to awareness).
 
 - **<concept>** Eighth distinction: Intellectual view-meditation vs. direct perception view-meditation. Both bear the name "view-meditation," but the crucial difference lies in appearance to senses vs. awareness. Direct perception (*mngon sum*) transcends conceptual determination.
 
-- **<doxographical-placement>** The warning reflects the esoteric nature of these instructions. The phrase *'bras bu gzhi thog tu grol* refers to the error of claiming Dzogchen result-level liberation while failing to distinguish authentic awareness from conceptual mind—a cardinal error in Dzogchen practice.
+- **<context>** The warning reflects the esoteric nature of these instructions. The phrase *'bras bu gzhi thog tu grol* refers to the error of claiming Dzogchen result-level liberation while failing to distinguish authentic awareness from conceptual mind—a cardinal error in Dzogchen practice.
 
 ---
 
-<concept>
+[20319-20328] <concept>
 Ninth Through Eleventh Distinctions: Body, Appearance, and Sphere
 
-**Investigation:**
-- **<grammatical-examination>** Technical terminology: *rig pa'i sku* (awareness body), *rtog pa'i lha sku* (thought deity body), *rtag mi rtag* (permanent/impermanent), *rig pa'i snang yul* (awareness's appearance object), *'khrul snang sna tshogs* (various delusion appearances), *chu zla* (water-moon/reflection), *rmi lam* (dream), *bden med* (without true existence), *'od gsal ye gdangs* (light clear primordial resonance), *thig le* (sphere/bindu), *rlung sems bzung ba* (held wind-mind), *'ja' 'od* (rainbow light), *stong gzugs* (empty form), *rang bzhin rnam dag* (self-nature completely pure), *dbyings rig gi snang ba* (expanse-awareness appearance).
+**Analysis:**
+- **<philology>** Technical terminology: *rig pa'i sku* (awareness body), *rtog pa'i lha sku* (thought deity body), *rtag mi rtag* (permanent/impermanent), *rig pa'i snang yul* (awareness's appearance object), *'khrul snang sna tshogs* (various delusion appearances), *chu zla* (water-moon/reflection), *rmi lam* (dream), *bden med* (without true existence), *'od gsal ye gdangs* (light clear primordial resonance), *thig le* (sphere/bindu), *rlung sems bzung ba* (held wind-mind), *'ja' 'od* (rainbow light), *stong gzugs* (empty form), *rang bzhin rnam dag* (self-nature completely pure), *dbyings rig gi snang ba* (expanse-awareness appearance).
 
 - **<concept>** 
   - **Ninth distinction:** Awareness body vs. thought deity body. Both appear as mere deity-visions, but differ in: scale, permanence, and necessity of familiarization traces.
@@ -71,10 +71,10 @@ Ninth Through Eleventh Distinctions: Body, Appearance, and Sphere
 
 - **<philology>** Line 20328 is incomplete in this page, continuing the description of the distinction. The line breaks mid-description (*dang* / "and").
 
-<concept>
+[20329-20343] <concept>
 Continuation of Eleventh Distinction and Introduction of Twelfth
 
-**Lexical Analysis:**
+**Analysis:**
 - **<philology>** Technical terminology (continued from previous page): *dang* (and), *re zhig gong 'phel du* (gradually expanding upward), *dkyil 'khor* (mandala), *rtsa rlung* (channel-wind), *rtsa rlung gi rtags bcu* (ten signs of channel-wind), *rnam dag gi rlung gi rtsol ba* (pure wind effort), *cha'i 'grib pa* (diminution of portion/part), *gnas cha'i brlan* (dwelling part's moisture/continuity), *'phel 'grib* (development-decrease/fluctuation), *mi brtan pa* (not stable).
 
 - **<concept>** Completion of eleventh distinction: The wind-mind held sphere requires wind-holding (*rlung bzung ba*) without depending on it, depends on ten channel-wind signs (*rtags bcu*), involves effort (*rtsol ba*), experiences fluctuation and instability, diminished clarity and partial decrease, and produces coarse afflictions and thoughts later. These distinctions are very great (*khyad shin tu che*). The contrast establishes Dzogchen's effort-free natural clarity (*rang dangs*) vs. tantric wind-manipulation.
@@ -83,50 +83,50 @@ Continuation of Eleventh Distinction and Introduction of Twelfth
 
 ---
 
-<concept>
+[20343-20348] <concept>
 Twelfth Distinction: Liberation Ground Expanse vs. Practice-Time Expanse
 
-**Semantic Range:**
+**Analysis:**
 - **<philology>** Technical terminology: *grol sa'i dbyings ka dag* (liberation ground's expanse original purity), *nyams su len dus* (practice time), *phyi nang gi dbyings ka dag* (outer inner expanse original purity), *rig pa rgya chad med pa* (awareness without gap/interruption), *yul snang dag* (objects appearing pure), *rlung sems dag pa* (wind-mind pure), *'khor 'das ka dag* (samsara-nirvana pure), *rkyen dbang res 'ga'* (occasional condition-power), *dri ma dang bcas pa* (with stain).
 
 - **<concept>** Twelfth distinction: Both the liberation ground expanse (ka dag) and practice-time outer/inner expanse involve awareness without gap and merely pure object-appearances. The crucial difference: the liberation ground abides as pure samsara-nirvana through pure wind-mind, while present impure wind-mind experiences occasional condition-power and unclear stained states.
 
 ---
 
-<concept>
+[20349-20354] <concept>
 Thirteenth Distinction: Awareness Variety vs. Mental Events Proliferation
 
-**Semantic Range:**
+**Analysis:**
 - **<philology>** Technical terminology: *rig pa nang gsal* (awareness inner clear), *rjen la bud* (naked at), *sna tshogs snang ba* (various appearances), *rig pa mi 'gags* (awareness not ceasing), *sems byung* (mental events/mind-arising), *rtog tshogs* (thought groups), *snang sems 'char ba* (appearance-mind arising), *rkyen dbang du mi 'gro* (not go under condition-power), *ngang dangs* (state clear), *thal byung du shar* (spontaneously arisen), *dus mnyam* (time simultaneous), *ris med* (without border/mark), *byung tshor rtog pa* (arising feeling thought), *yul la yengs* (distracted toward objects), *tha mal rang ka* (ordinary self-only).
 
 - **<concept>** Thirteenth distinction: Both awareness inner-clear variety and mental events proliferation appear as mind-arising. The crucial difference: awareness does not go under condition-power, does not separate from clarity, abides spontaneously arisen and liberated simultaneously without borders, while mental feelings and thoughts wander toward objects with ordinary self-clinging.
 
 ---
 
-<concept>
+[20355-20360] <concept>
 Fourteenth and Fifteenth Distinctions: Wisdom Power vs. Thought Scattering, Pinnacle vs. Lower Teachings
 
-**Etymological Note:**
+**Analysis:**
 - **<philology>** Technical terminology: *shes rab rtsal* (wisdom potency/power), *rnam rtog yul la 'phro ba* (conceptual thought spreading toward objects), *zang nge* (clearly), *thal le thad kar* (directly straight), *phyir 'khor rgyu med* (no outward returning circling), *phyir yul 'dzin* (outward grasping objects), *tshur log* (returning inward), *gzung 'dzin* (grasping-holding), *sngags kyi rtse mo* (pinnacle of mantra), *thad drang du bstan pa* (directly shown), *don dam ma skyes pa* (ultimate not-born), *dgongs gzhi re la ltos nas* (depending on individual intended ground), *stong gsal spros bral* (empty clear free from elaboration), *rang byung ye shes* (self-arisen primordial wisdom), *gnad la phab pa* (placed at essential point), *don khong nas 'char ba* (meaning arising from within), *mun rdo* (dark stone), *stong sgom* (emptiness meditation), *'od gsal snying po lnga ldan* (light clear fivefold essence).
 
 - **<concept>** 
   - **Fourteenth distinction:** Wisdom power perfected vs. thought memory outward-scattering. Both appear outwardly, but wisdom dissolves clearly and directly without outward circling, while thought grasps outward objects and returns inward continuing grasping-holding.
   - **Fifteenth distinction:** Pinnacle of mantra teaching vs. lower teachings. Both use terms like "ultimate not-born" and "empty clear elaboration-free self-arisen wisdom," but the pinnacle teaching places meaning at the essential point so it arises from within without depending on intellect, while lower teachings involve intellectual thought like "throwing stones in darkness."
 
-<concept>
+[20361-20369] <concept>
 Sixteenth Distinction: Direct Perception vs. Secret Cycle Triad Examination
 
-**Lexical Analysis:**
+**Analysis:**
 - **<philology>** Technical terminology: *yul dang lus dang rig pa gsum* (object, body, and awareness three), *gnad la gcun* (gathered at essential point), *rig pa mngon sum du gzhal* (awareness direct as measure), *gsang skor* (secret cycle), *dpe don rtags gsum* (triad of example, meaning, sign), *mig can* (eye-possessor/sighted person), *dmus long* (blind person), *dung* (conch), *bshad rol can* (explained enjoy-possessor).
 
 - **<concept>** Sixteenth distinction: Both direct perception through gathering the three (object, body, awareness) at the essential point and examination through the secret cycle triad (example, meaning, sign) appear similar. The crucial difference: the former is like a sighted person examining a conch (sees directly), while the latter is like a blind person explaining a conch's color (only hears descriptions).
 
 ---
 
-<context>
+[20370-20420] <context>
 The Twenty-One False Friends: Citation from Kun tu bzang po klong drug pa
 
-**Arrangement:**
+**Analysis:**
 - **<context>** Extended citation from the *Kun tu bzang po klong drug pa* (Samantabhadra Six Expanses), a major Atiyoga tantra of the Nyingtik tradition. The citation enumerates twenty-one pairs of "false friends" (*nor ra*)—appearances that seem similar but differ in authenticity. The refrain *'dra'o 'dra'o nor ra re* ("similar, similar, false friend") structures each pair.
 
 - **<structure>** The twenty-one pairs are organized in verse form with alternating lines establishing the pair and the refrain marking them as "false friends." The progression moves from fundamental distinctions (self-mind vs. self-awareness) through meditative states, visionary appearances, bodies, fields, up to textual hermeneutics.
@@ -155,17 +155,17 @@ The Twenty-One False Friends: Citation from Kun tu bzang po klong drug pa
 
 [20421] <structure> Identification of the Crucial Point
 
-**Structural Framework:**
+**Analysis:**
 - **<structure>** Conclusion of the citation identifying this teaching as the essential point (*gnad*) of the *Rdzogs chen gsang ba snying thig* (Great Completion Secret Heart Essence). The superlative *gal po che* (great importance) marks this as the text's climactic instruction.
 
 - **<philology>** Technical terminology: *gnas 'di* (this place/passage), *rang bzhin rdzogs pa chen po gsang ba snying tig* (self-nature great completion secret heart essence), *gnad gal po che* (essential point great importance).
 
 - **<context>** This verse marks the culmination of the fourteenth section (*rim khang bcu bzhi pa*) on the presentation of the place of dependent knowing (*brten pa shes pa'i gnas rnam par gzhag pa*). The identification of these distinctions as the "great essential point" of the Heart Essence tradition establishes the Nyingtik as the gold standard (*gser*) against which other practices are measured as copper (*ra gan*).
 
-<structure>
+[20422-20423] <structure>
 Sealing Statement: Esoteric Restrictions
 
-**Structural Framework:**
+**Analysis:**
 - **<structure>** Sealing statement (*rgya chings*) restricting the circulation of these teachings. The classic formulation prohibits promulgation in the ten directions to all beings, establishing the esoteric nature of the instructions.
 
 - **<philology>** Technical terminology: *legs par khong du chud* (well understand/internalize), *rgyud la nyams su blang* (practice in continuity), *phyogs bcu* (ten directions), *thams cad la bsgrags* (proclaim to all), *bshad pa'i gnas ma yin* (not a place for explanation).
@@ -174,10 +174,10 @@ Sealing Statement: Esoteric Restrictions
 
 ---
 
-<context>
+[20424-20426] <context>
 Colophon: Section Completion
 
-**Tradition Context:**
+**Analysis:**
 - **<context>** Standard colophon formula marking the end of the fourteenth section (*rim khang bcu bzhi pa*) and identifying the source text: *Theg pa'i mchog rin po che'i mdzod* (Treasury of the Supreme Vehicle). The double shad (*//*) marks textual closure.
 
 - **<philology>** Technical terminology: *theg pa'i mchog rin po che'i mdzod las* (from the Treasury of the Supreme Vehicle), *brten pa shes pa'i gnas rnam par gzhag pa* (the presentation of the place of dependent knowing), *rim khang bcu bzhi pa* (the fourteenth section).

@@ -1,6 +1,6 @@
-<structural-mapping>
+[16769-16797] <structure>
 # The Third Lamp: dbyings rnam par dag pa'i sgron ma
-**Philological Analysis:** Longchenpa inaugurates the third of the Four Lamps (*sgron ma bzhi*): The Lamp of the Completely Pure Sphere. The structural schema follows the established eleven-topic format:
+**Analysis:** Longchenpa inaugurates the third of the Four Lamps (*sgron ma bzhi*): The Lamp of the Completely Pure Sphere. The structural schema follows the established eleven-topic format:
 1. ngo bo (essence)
 2. nges tshig (definition)
 3. dbye ba (classification)
@@ -15,7 +15,7 @@
 
 This architectural consistency reflects the *mdzod* genre's encyclopedic imperative toward systematic classification.
 
-<philology>
+[16770-16773] <philology>
 Technical terminology:
 - *mthing ga* (blue): The base color (*khya ba chen po*) from which the five colors spread (*lnga ldan du mched*)
 - *mu khyud* (rim): The circular perimeter of light
@@ -23,13 +23,13 @@ Technical terminology:
 - *za 'og ber khyim* (house under a barrel): Technical simile for the enclosed, stable nature of this lamp's appearance
 - *lu gu rgyud* (snake noose): The channel structure (*ra ba*) from which awareness shoots rays (*gzer 'debs*)
 
-<doxographical-placement>
+[16774-16783] <context>
 Citation from *sgron ma 'bar ba*:
 The text quotes: "The lamps of completely-pure nature and sphere gather the essence of awareness / appear at the snake-noose fence / for one familiarized with this, that meaning itself / blue unchanging self-luminous / abides at the rim's fence / self-luminous appears as outer object / essence itself is unfabricated."
 
 This establishes the third lamp as integrative—gathering (*sdud*) the scattered elements into the *lu gu rgyud* structure while maintaining the *ka dag* (primordial purity) character.
 
-<concept>
+[16784-16797] <concept>
 The visionary phenomenology:
 The lamp manifests through progressive stages:
 1. Initial gaze (*dang po*) to treasury-brow space (*mdzod spu'i thad*): sky-blue pervading light appears
@@ -42,7 +42,7 @@ The citation from *mu tig phreng ba* (lines 16787-16796) provides scriptural aut
 
 **Summary:** Page 401 transitions from the second lamp (*thig le stong pa'i sgron ma*) to the third lamp (*dbyings rnam par dag pa'i sgron ma*), completing the twelve similes and initiating the eleven-topic structural analysis of the sphere lamp. The progression moves from bindu particle phenomenology to the expansive sphere (*dbyings*) as integrating ground.
 
-<philology>
+[16798-16805] <philology>
 Etymological analysis of *dbyings rnam par dag pa'i sgron ma*:
 - *dbyings* (sphere/expanse): From *rig pa'i rang yul* (awareness's own object) and *snang ba'i 'char gzhi* (appearance's arising basis)
 - *rnam par dag pa* (completely pure): Absence of stains (*dri ma med pa*) in appearing objects (*yul du snang ba*)
@@ -50,13 +50,13 @@ Etymological analysis of *dbyings rnam par dag pa'i sgron ma*:
 
 The definition emphasizes the lamp's dual function: establishing the sphere as both the basis of awareness and the ground of appearance.
 
-<context>
+[16801-16817] <context>
 Extended citation from *sgron ma 'bar ba*:
 "The sphere makes awareness's own object / Vajra itself is the snake-noose / This itself enters within / Self-essence free of conceptualization / Also at the inner sphere's fence / Not grasped, not abiding, by this manner / Without separation continuously appears / To appearing objects / Purity exhausts stain numbers / Lamp's vajra snake-noose / Sky itself is focused / Without nature causes appearance / Mind holds that meaning / Therefore is definition of nature / From primordial time abides without gathering-separation."
 
 This verse establishes the ungraspable (*ma bzung*) yet continuously appearing (*rgyun du snang*) character of the sphere lamp.
 
-<concept>
+[16818-16835] <concept>
 Threefold classification (*dbye ba*) of the sphere lamp:
 1. *gzhi la gnas pa'i dbyings rnam dag gi sgron ma* (Ground-abiding sphere lamp): Wisdom and light body spontaneously arising within the cit
 2. *lam la snang ba'i dbyings rnam dag gi sgron ma* (Path-appearance sphere lamp): Five-rim fence gathering the bindu's clarity at the lotus-petal bindu
@@ -64,7 +64,7 @@ Threefold classification (*dbye ba*) of the sphere lamp:
 
 This triad maps the same lamp across ground-path-fruition (*gzhi lam 'bras bu*) structure characteristic of Dzogchen presentation.
 
-<concept>
+[16836-16849] <concept>
 The nature (*rang bzhin*) as nonduality:
 The nature is identified as the nonduality of primordial purity (*ka dag*) and spontaneous accomplishment (*lhun grub*). The citation from *sgron ma 'bar ba* (lines 16838-16849) describes:
 - Nature appearance not ceasing
@@ -79,7 +79,7 @@ The nature is identified as the nonduality of primordial purity (*ka dag*) and s
 - Without outer-inner in sphere
 - Abides in great ease
 
-<concept>
+[16850-16862] <concept>
 Characteristic (*mtshan nyid*) analysis:
 The characteristic is defined as the equal purity (*zang ma*) of:
 - Outer light sphere empty-luminous (*phyi 'od kyi dbyings stong gsal zang ma*)
@@ -87,9 +87,9 @@ The characteristic is defined as the equal purity (*zang ma*) of:
 
 The *sgron ma 'bar ba* citation (lines 16854-16862) establishes this through the metaphor of unfabricated primordial purity (*ye nas ka dag chen por*).
 
-<structure>
+[16863-16865] <structure>
 # Familiarization Method Section
-**Consideration:** Longchenpa presents the sixth topic (*goms tshul*): the method of familiarization. The procedure involves:
+**Analysis:** Longchenpa presents the sixth topic (*goms tshul*): the method of familiarization. The procedure involves:
 1. Separating samsara-nirvana boundary (*'khor 'das ru shan phye*)
 2. Placing body-speech in natural state (*lus ngag rnal du phab*)
 3. Introducing awareness in the sphere's fence directly (*dbyings kyi ra bar rig pa bcu*)
