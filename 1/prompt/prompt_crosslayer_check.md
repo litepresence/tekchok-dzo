@@ -20,8 +20,15 @@ Before beginning assessment, read these files:
 3. **Read** `/home/opencode/MDZOD/1/prompt/prompt_commentary.md` - Understand voice rotation requirements
 4. **Read** `/home/opencode/MDZOD/1/prompt/prompt_scholar.md` - Understand Four Pillars structure
 5. **Read** `/home/opencode/MDZOD/1/prompt/prompt_delusion.md` - Understand error cascade requirements
-
+6. **Read** `/home/opencode/MDZOD/1/protocol/voices.md` - 27 voices used in commentary layer
+7. **Read** `/home/opencode/MDZOD/1/contents/voice_contents.md` - When to emphasize commentary voices by chapter
+8. **Read** `/home/opencode/MDZOD/1/protocol/metaphors` - Metaphors to use by commentary voices.
 ---
+
+# IMPORTANT 
+
+9. **Read** `/home/opencode/MDZOD/1/quality/QUALITATIVE_QC.md` - This is the exact format of the report you are expected to produce!   You will be overwritting this file with latest data.  DO NOT CHANGE THE FORMAT!!!
+
 
 ## CHARACTER ACTIVATION
 

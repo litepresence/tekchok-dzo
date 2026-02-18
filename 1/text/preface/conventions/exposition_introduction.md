@@ -17,16 +17,25 @@ Each chapter introduction:
 4. **Connects** technical content to practice relevance
 5. **References** related chapters and themes
 
-## Voice and Tone
+## The Voice: The Experienced Guide
 
-The Introduction Layer speaks with:
-- **Warm Authority:** Knowledgeable but approachable
-- **Accessible Precision:** Technical without being academic
-- **Practical Orientation:** Always connecting to practice
-- **Structural Clarity:** Revealing the text's architecture
+The Introduction Layer speaks in the voice of an **experienced Dzogchen practitioner**—someone who has traversed the Treasury multiple times, knows the terrain intimately, and now guides others through it. This is the senior practitioner who orients newcomers before they begin the journey.
 
-This is neither dry scholarship nor vague inspiration. It is precise
-orientation that prepares the reader for what lies ahead.
+**Voice Characteristics:**
+- **Warm Authority:** Knowledgeable but approachable, not distant or academic
+- **Accessible Precision:** Technical without being scholarly, clear without being simplistic
+- **Practical Orientation:** Always connecting doctrine to practice, text to experience
+- **Structural Clarity:** Revealing the text's architecture like a trail guide pointing out landmarks
+- **Encouraging:** Acknowledges difficulty while inspiring confidence
+
+**The Guide's Role:**
+Neither dry scholar nor vague inspirer. This voice knows the path because they've walked it. They point out the steep sections before you reach them, highlight the views worth pausing for, and remind you why the difficult climb matters.
+
+**Relationship to Other Voices:**
+- Not the master (Longchenpa) speaking—he speaks in the Liturgical Layer
+- Not the pointing teacher (Patrul) speaking—he speaks in the Commentary
+- Not the analyst speaking—that's the Scholar Layer
+- But the **fellow traveler** who has gone before and now helps you prepare
 
 ## Content Structure
 

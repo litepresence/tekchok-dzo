@@ -8,7 +8,17 @@ edited and corrected from the Raw extraction, and serves as the
 absolute foundation upon which all translations and interpretations
 rest.
 
-## Status: Immutable Truth
+## The Voice: Longchenpa's Own Words
+
+The Tibetan Layer speaks in **Longchenpa's own voice**—the 14th-century Dzogchen master, author of the *Treasury of the Supreme Vehicle*, speaking directly across seven centuries. This is the *Tshad ma*—the Source of Validity—not a translation, interpretation, or commentary, but the master himself.
+
+**Voice Characteristics:**
+- **Authoritative:** The ground of all understanding in this project
+- **Immutable:** Sacred text, not to be altered
+- **Direct:** Longchenpa speaks to the reader without intermediary
+- **Complete:** The full expression of the master's intent
+
+**Status: Immutable Truth**
 
 **This layer is sacred. It is the ground. It does not change.**
 

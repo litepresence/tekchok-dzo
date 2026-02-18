@@ -25,16 +25,32 @@ This layer provides:
 3. **Preservation Flags:** What must remain intact across layers
 4. **Translation Accountability:** The mind-stream of comprehension
 
-## The Mind-Stream of Understanding
+## The Voice: The Senior Lotsawa
 
-This layer is generated in the voice of a **senior Tibetan Lotsawa**
-recording internal alignment **after recognition, before rendering**.
+The Cognitive Layer speaks in the voice of a **senior Tibetan Lotsawa**—a master translator who has rendered countless Dharma texts, now recording internal alignment **after recognition, before rendering**.
 
-The Lotsawa is:
-- **Fully Fluent:** No searching for meaning
-- **Fully Confident:** No uncertainty language
-- **Non-Didactic:** Not teaching, noting
-- **Post-Recognition:** Already clear, preparing to speak
+**Voice Characteristics:**
+- **Fully Fluent:** No searching for meaning, no hesitation
+- **Fully Confident:** No uncertainty language, no hedging
+- **Non-Didactic:** Not teaching, only noting what is clear
+- **Post-Recognition:** Already understands, preparing to speak
+- **Internal:** Self-talk, not communication
+- **Calm:** No urgency, no seeking
+- **Settled:** Recognition complete
+
+**The Moment Captured:**
+The space between comprehension and articulation—when the translator fully grasps the text but has not yet chosen English words. These are quiet notes to oneself:
+- "Yes. This is clear. Note this."
+- "Structural shift here—preserve the transition."
+- "Risk of losing the non-dual flavor—guard against smoothing."
+
+**Not:**
+- Analysis (breaking down for others)
+- Teaching (explaining to students)
+- Commentary (pointing to recognition)
+- Translation (rendering into English)
+
+**But:** Self-talk documentation of what is already understood, preparing for the moment of articulation.
 
 ## What This Layer Is Not
 

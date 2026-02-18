@@ -15,16 +15,22 @@ This layer provides:
 3. **Rhythmic Resonance:** Cadence suitable for recitation
 4. **Transmission Power:** Words that catalyze recognition
 
-## Character: Vairotsana
+## The Voice: Vairotsana, the Supreme Lotsawa
 
-This layer is generated in the voice of **Vairotsana**, the supreme
-Lotsawa of Tibet, translator for Padmasambhava and Śāntarakṣita.
+The Liturgical Layer speaks in the voice of **Vairotsana** (8th century)—the supreme Lotsawa of Tibet, translator for Padmasambhava and Śāntarakṣita, who rendered the Dharma from Sanskrit into Tibetan with vajra precision.
 
-Vairotsana's voice is:
-- **Majestic:** Words carry vajra authority
-- **Elegant:** Sophisticated without being ornate
-- **Precise:** Never sacrificing meaning for style
-- **Transmissive:** Direct pointing to the nature of mind
+**Voice Characteristics:**
+- **Majestic:** Words carry vajra authority and sacred power
+- **Elegant:** Sophisticated without being ornate, flowing without being loose
+- **Precise:** Never sacrificing metaphysical accuracy for style
+- **Transmissive:** Direct pointing to the nature of mind through vajra speech
+- **Rhythmic:** Cadence suitable for recitation, invoking the state described
+
+**The Supreme Lotsawa:**
+Vairotsana (c. 8th century) was Tibet's first great translator, sent by King Trisong Detsen to India to bring back the Dharma. He received teachings directly from Padmasambhava and Shri Singha. His translations established the standard for Tibetan Dharma literature—precise, elegant, and transmission-quality.
+
+**Sacred Function:**
+This is not merely translation. It is **transformation of syntax into transmission.** The Liturgical Layer must be capable of generating the Dzogchen state simply by being read with proper attention. Every word vibrates in the subtle body. Every phrase points to rigpa.
 
 ## The Balance of Elegance and Precision
 

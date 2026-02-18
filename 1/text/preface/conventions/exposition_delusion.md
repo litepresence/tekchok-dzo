@@ -1,67 +1,49 @@
 # Editorial Conventions: Delusion Layer
 
-## What Is the Delusion Layer?
+## What This Layer Does
 
-The Delusion Layer is *log pa spang ba'i srung skyob*—protection
-through abandoning error. It identifies where readers go wrong, why
-those errors are attractive, and how they propagate downstream. This
-is a diagnostic system, not a corrective teaching.
+The Delusion Layer is *log pa spang ba'i srung skyob*—protection through abandoning error. It identifies where readers go wrong, why those errors are attractive, and how they propagate downstream. This is a diagnostic system, not a corrective teaching.
+
+The layer is stark because errors are stark. Wrong view in Dzogchen blocks liberation. We do not soften the language because the consequences are real.
 
 ## Purpose and Function
 
-This layer provides:
+**Error Detection:** Naming specific misreadings before they stabilize
+**Attractor Analysis:** Documenting why errors feel right
+**Consequence Mapping:** Showing what degrades if adopted
+**Cascade Containment:** Tracing how errors breed errors
 
-1. **Error Detection:** Naming specific misreadings
-2. **Attractor Analysis:** Why errors feel right
-3. **Consequence Mapping:** What degrades if adopted
-4. **Cascade Containment:** How errors breed errors
+## The Voice: The Clinical Error Analyst
 
-## The Error Analyst
+The Delusion Layer speaks in the voice of a **senior Nyingma mkhas pa**—a scholar-practitioner who has witnessed centuries of misreadings and watched the same errors recur in new costumes. This is the *log pa spang ba*—one who abandons error through precise diagnosis.
 
-This layer is generated in the voice of a **senior Nyingma mkhas pa**
-trained in:
-- *drang nges* hermeneutics
-- Dzogchen polemical literature
-- Historical misreadings of *mdzod* texts
-- Modern distortions (psychological, academic, AI-mediated)
-
-The Error Analyst is:
+**Voice Characteristics:**
 - **Clinical:** Exact, unsentimental, stark
-- **Descriptive:** Maps without correcting
+- **Descriptive:** Maps errors without correcting them (the text does that)
 - **Experienced:** "Same errors recur—only costumes change"
-- **Unflinching:** Names errors without softening
+- **Unflinching:** Names errors without softening or psychologizing
+- **Protective:** Acts as firebreak between wrong view and realization
 
-## Error Classification
+**Background:**
+- Trained in *drang nges* hermeneutics
+- Studied Dzogchen polemical literature
+- Documented historical misreadings of *mdzod* texts
+- Analyzed modern distortions (psychological, academic, reductionist)
 
-**<ontological-error>**
-Misapprehension of reality—what is.
+**Tone:** Like a physician diagnosing disease—compassionate but clinical. Wrong view blocks liberation. Consequences are real. The voice does not soften because the stakes are high.
 
-**<epistemic-error>**
-Failure of knowledge claims—how we know.
+## Error Classification Taxonomy
 
-**<pedagogical-error>**
-Misapplication of teachings—wrong learning.
-
-**<practice-error>**
-Methodological mistakes—wrong doing.
-
-**<reification-error>**
-Substantializing emptiness—making solid what is empty.
-
-**<nihilistic-error>**
-Negating into annihilation—destroying what exists.
-
-**<eternalistic-error>**
-Affirming permanence—solidifying what changes.
-
-**<psychologization-error>**
-Reducing to psychology—making mundane what is sacred.
-
-**<meditationism-error>**
-Reifying method—worshipping the technique.
-
-**<scholarly-collapse-error>**
-Academic misreading—knowledge without wisdom.
+**<ontological-error>** — Misapprehension of reality
+**<epistemic-error>** — Failure of knowledge claims
+**<pedagogical-error>** — Misapplication of teachings
+**<practice-error>** — Methodological mistakes
+**<reification-error>** — Substantializing emptiness
+**<nihilistic-error>** — Negating into annihilation
+**<eternalistic-error>** — Affirming permanence
+**<psychologization-error>** — Reducing to psychology
+**<meditationism-error>** — Reifying method
+**<scholarly-collapse-error>** — Academic misreading
 
 ## Output Structure
 
@@ -69,46 +51,35 @@ Academic misreading—knowledge without wisdom.
 [start-end] <error-type> [additional-tags]
 
 **Misreading:**
-[Specific, realistic misinterpretation in plain language]
+[Specific, realistic misinterpretation]
 
 **Why it arises:**
-[Cognitive or cultural attractor—why this error feels right]
+[Cognitive or cultural attractor]
 
 **Primary consequence:**
-[What necessarily degrades if adopted]
+[What necessarily degrades]
 
 **Secondary consequences:**
-[Non-trivial downstream effects only]
+[Downstream effects]
 
 **Cascade effects:**
-<eternalistic-error> → <meditationism-error> → <psychologization-error>
-[Clear recurrent error chains only]
+<error-type> → <error-type> → <error-type>
 ```
 
 ## Absolute Constraints
 
 **Never:**
-- State the correct view
+- State the correct view (the text does that)
 - Offer practice guidance
 - Quote other texts
 - Soften or psychologize errors
 - Merge distinct errors
-- Add explanatory footnotes
 
 **Always:**
 - Be stark and clinical
 - Map specific failure modes
 - Trace actual consequences
 - Name cascade effects when clear
-
-## If No High-Risk Error
-
-```
-[start-end]
-No high-risk misinterpretation detected.
-```
-
-Silence is preferable to invention.
 
 ## Three Safety Functions
 
@@ -119,16 +90,7 @@ Names specific misreadings before they stabilize into wrong view.
 Shows what inevitably degrades if the error is adopted.
 
 **3. Cascade Containment**
-Exposes how one error breeds others—prevents chain reactions.
-
-## The Firebreak
-
-The Delusion Layer acts as firebreak between:
-- Translation and realization
-- Philosophy and practice
-- Human cognition and AI amplification
-
-It stops wrong view before it spreads.
+Exposes how one error breeds others.
 
 ## Example Analysis
 
@@ -140,49 +102,76 @@ Samantabhadra as a "primordial Buddha" suggests a historical figure
 existing in time and space, rather than the ground of being.
 
 **Why it arises:**
-Western religious frameworks impose theistic interpretations. The
-term "Buddha" triggers associations with Śākyamuni-type figures.
-The ornate homage structure resembles theistic liturgy.
+Western religious frameworks impose theistic interpretations.
 
 **Primary consequence:**
-Ground (gzhi) is reified into metaphysical entity or god-substitute.
-The five perfections become attributes of a supreme being.
-
-**Secondary consequences:**
-Dzogchen becomes theistic religion. Practice shifts to worship.
-Supreme vehicle becomes path to reach "Buddha."
+Ground (gzhi) is reified into metaphysical entity.
 
 **Cascade effects:**
 <eternalistic-error> → <meditationism-error> → <hierarchical-error>
 ```
 
-## Using This Layer
+## Methodology Note
 
-**For Scholars**
+This layer was generated using Kimi K2.5 (Moonshot AI) over three weeks with extensive human prompting and curation.
 
-The Delusion Layer maps hermeneutical failure modes:
-- Historical patterns of misreading
-- Cultural lenses that distort
-- Modern reductionisms
+**Process:**
+1. Each section analyzed for common misinterpretations
+2. AI-generated error taxonomy application
+3. Human verification of doctrinal accuracy
+4. Curation of most relevant errors
+5. Final selection for publication
 
-**For Practitioners**
+**What the AI Did:**
+- Generated error classifications across 213 sections
+- Mapped cascade effects and consequences
+- Maintained clinical tone
 
-This layer guards your practice:
-- Flags attractive errors before you fall into them
-- Shows consequences of wrong view
-- Protects against common pitfalls
+**What the Human Did:**
+- Designed error taxonomy (10 types)
+- Directed analysis toward most common errors
+- Verified safety-critical warnings (Ch 17-25)
+- Curated which errors to document
+- Made final editorial judgments
 
-**For Teachers**
+**Result:**
+AI-generated error mapping, human-curated. Based on:
+- Classical Dzogchen polemical literature
+- Historical misreadings documented in commentaries
+- Modern Western misinterpretations (psychological, academic)
 
-Use to:
-- Warn students about predictable mistakes
-- Clarify subtle distinctions
-- Prevent transmission errors
-- Maintain lineage purity
+One mapping among many possible. Not definitive.
 
-## A Note on Severity
+**Use it as:** Warning system, study aid, protection against common errors
+**Not as:** Definitive error catalog, substitute for teacher guidance, peer-reviewed academic work
 
-The Delusion Layer is stark because errors are stark. Wrong view in
-Dzogchen is not merely intellectual confusion—it blocks liberation.
-We do not soften the language because the consequences are real.
+## How to Read This Layer
 
+**For Study:**
+
+This maps common errors. Use it to:
+- Recognize attractive misinterpretations
+- Understand consequences of wrong view
+- Protect your practice
+
+**Not as:** The only possible errors. Other misreadings exist.
+
+## ⚠️ Limitations
+
+**One Person's Mapping:** This represents one analysis of errors. Other practitioners or scholars might identify different or additional errors.
+
+**AI-Assisted:** Generated with Kimi 2.5 assistance. Human curated, but AI produced much of the content.
+
+**Not Exhaustive:** Documents common errors, not every possible misinterpretation.
+
+**Not Peer-Reviewed:** No lineage board has verified these classifications.
+
+**Safety-Critical Sections:** Extra attention to Chapters 17-25 (advanced practices), but no guarantee of catching all dangers.
+
+**Restricted Source:** Analysis of restricted Dzogchen text. Use responsibly.
+
+---
+
+**For further reading:**
+- Error taxonomy: /protocol/error_types.md
+- Safety guidelines: /protocol/advanced_practices.md

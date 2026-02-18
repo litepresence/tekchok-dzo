@@ -1,126 +1,177 @@
 # Corpus 1: Practitioner
 # Treasury of the Supreme Vehicle
 
-## What You Hold in Your Hands
+## ⚠️ RESTRICTED TEXT — READ CAREFULLY
 
-This volume contains the living Dharma—the direct transmission of
-Longchenpa's *Treasury of the Supreme Vehicle* rendered for
-practitioners who seek not merely to study the view but to realize it.
+**This is an unauthorized translation of a restricted Tibetan Buddhist text.**
 
-## The Heart of the Matter
+The *Treasury of the Supreme Vehicle* (Theg mchog rin po che'i mdzod) by Longchenpa contains advanced Dzogchen teachings traditionally transmitted only to prepared students who have received appropriate empowerments and instructions. This translation was created without the authorization of any institutional authority or lineage holder.
 
-Longchenpa (1308-1364) composed this text as his mature synthesis,
-written to guide disciples from beginner to adept through the vast
-landscape of Dzogchen. It encompasses cosmology, subtle-body science,
-meditation instruction, and the direct pointing to mind's nature. For
-centuries, this work has been the guidebook for those traversing the
-path of Atiyoga, the Great Perfection.
+**By reading this text, you acknowledge:**
+- You are accessing teachings that may require prior transmission
+- You take full responsibility for your engagement with this material
+- This translation represents one practitioner's understanding, not official doctrine
+- You will seek qualified teachers for practices requiring instruction (particularly Chapters 17-25)
 
-The Treasury has defied translation. Its density, its technical
-precision, its integration of multiple tantric systems, and above all
-its direct pointing to rigpa—primordial awareness—have made it
-accessible only to those with deep training in Tibetan language and
-Dzogchen view. Until now.
+The translator assumes no liability for misuse or misunderstanding of these teachings.
+
+---
+
+## What You Hold
+
+Longchenpa (1308-1364) composed the *Treasury of the Supreme Vehicle* as his mature synthesis, integrating cosmology, subtle-body science, meditation instruction, and direct pointing to mind's nature. For six centuries, it has served as the definitive guidebook for Dzogchen practitioners.
+
+The problem: Longchenpa assumed readers could read Tibetan and had received pointing-out instructions. He wrote densely, technically, presuming foundations most Western practitioners lack.
+
+This corpus attempts to bridge that gap through a multi-layer architecture.
+
+---
 
 ## How This Corpus is Organized
 
-This volume presents the Treasury in two parts:
+**Part I: The Liturgical Layer**
 
-**Part I: The Text Itself**
+Longchenpa's words rendered into English preserving metaphysical precision and rhythmic resonance. This is the *sgrub pa'i gleng gzhi*—basis for practice—a text meant to be read aloud to invoke the state it describes.
 
-The Liturgical Layer renders Longchenpa's words into elegant English
-that preserves metaphysical precision while achieving rhythmic
-resonance. This is the *sgrub pa'i gleng gzhi*—the basis for
-practice—a text meant to be read aloud to invoke the state of
-realization.
+**Part II: The Commentary Layer**
 
-Before each chapter, you will find an Introduction that orients you
-to the terrain ahead, maps the chapter's structure, and connects its
-teaching to your practice.
+The Commentary speaks with the voice of the living lineage—not one master, but many. Twenty-seven Dzogchen masters speak in rotation: Patrul's earthiness, Garab Dorje's starkness, Longchenpa's vastness, Mipham's precision, the Consort's intimacy, and twenty-two others. Each voice is distinct yet unified in pointing to recognition.
 
-**Part II: The Commentary**
+The voices remain anonymous. You will not read "Patrul said..." or "Garab Dorje teaches..." Instead, the lineage speaks directly:
 
-Patrul Rinpoche (1808-1887) speaks across centuries in a voice that
-is earthy, direct, and uncompromising. The Commentary Layer unpacks
-Longchenpa's dense prose into immediate recognition, smacking the
-reader awake to their own nature. This is heart-instruction, not
-academic explanation.
+*"This old fool sat in a frozen valley for three winters..."*
 
-Read the Liturgical text to receive the transmission. Read the
-Commentary to understand what you received. Return to the Liturgical
-text with new eyes.
+*"Three words. See what is. Rest."*
 
-## For Whom This Corpus is Intended
+*"Between the searching and the finding—nothing."*
 
-**You are a practitioner.**
+Read the Liturgical text to receive the transmission. Read the Commentary to understand what you received. Return to the Liturgical text with new eyes.
 
-You may be new to Dzogchen or you may have decades of practice. You
-may be a monastic or a householder, a scholar or a meditation
-practitioner. What matters is that you come to this text with the
-intention to realize what Longchenpa points to—not merely to
-understand it intellectually.
+---
 
-This corpus assumes intelligence but not expertise. Technical terms
-are introduced gradually. Complex concepts are unfolded over chapters.
-The text meets you where you are and leads you forward.
+## Methodology and Transparency
 
-## How to Read This Corpus
+**What This Is:**
 
-**First Reading:**
-Read through the Liturgical text from beginning to end. Let the
-cascade of words wash over you without trying to grasp every detail.
-Feel the rhythm, the majesty, the direct pointing.
+This translation was produced over three weeks using Kimi K2.5 (Moonshot AI's large language model) with extensive human prompting, curation, and refinement by one practitioner. The text was generated section by section, with voice rotation, quality verification against multiple criteria, and human judgment at every stage.
 
-**Second Reading:**
-Read the Introduction before each chapter, then the Liturgical text,
-then the Commentary on that chapter. Let the Commentary open what the
-Liturgical text presents.
+**What This Means:**
 
-**Ongoing Practice:**
-Return to specific chapters as needed. Memorize passages that
-resonate. Use the text in formal practice sessions. Let it become
-part of your mindstream.
+- The AI handled preliminary generation and consistency maintenance
+- Human judgment guided voice development, doctrinal accuracy, and quality assessment
+- The result is one practitioner's interpretation, not an institutional translation
+- The voices represent stylized channeling of historical masters, not their actual words
 
-## What This Corpus Is Not
+**What This Is Not:**
 
-This is not a scholarly edition. You will not find:
-- Philological analysis of Tibetan grammar
-- Doxographical comparisons with other schools
-- View-stratification classifications
-- Error-analysis of misinterpretations
+- Not authorized by any Tibetan Buddhist institution
+- Not reviewed by a panel of scholars or lineage holders
+- Not a substitute for receiving teachings from qualified teachers
+- Not guaranteed to be error-free (though every effort was made toward accuracy)
 
-For those, see the Scholar Corpus (Opus 5/6).
+**Source Texts:**
+- Volume 1: UT22920_005_0001_bo,sa,zh.txt (BDRC)
+- Volume 2: UT22920_005_0002_bo,sa,zh.txt (BDRC)
+- Verified against Derge and Nyingma editions
 
-This is not a word-for-word translation. The Literal Layer (in the
-Source Corpus) provides grammatical scaffolding, but this Liturgical
-text prioritizes transmission over syntax.
+**Process:**
+- Tibetan text parsed and sectioned
+- Wylie transliteration via pyewts
+- Literal layer for grammatical scaffolding
+- Liturgical layer for transmission elegance
+- Commentary layer with 27 rotating voices
+- Quality assessment against multiple markers
+- Human curation and refinement throughout
 
-This is not the cognitive process of translation. The Mind Corpus
-(Opus 7/8) documents that experimental layer separately.
+---
 
-## A Note on Voice
+## The Voice of the Commentary
 
-The Liturgical text speaks with the voice of Vairotsana, the supreme
-Lotsawa of Tibet—majesty and precision united. The Commentary speaks
-with Patrul Rinpoche's voice—earthy, direct, occasionally ornery,
-always pointing to recognition.
+The Commentary Layer employs 27 distinct Dzogchen master voices that rotate throughout the text. Each voice embodies different qualities:
 
-Both voices serve the same end: your awakening to the nature of mind.
+**Patrul (Vagabond):** Earthy, self-deprecating, practical obstacles
+**Garab Dorje (First Point):** Stark, direct, cutting through
+**Longchenpa (Omniscient):** Vast, bridging, comprehensive
+**Mipham (Philosopher):** Precise, diamond logic, distinctions
+**Consort (Dakini):** Intimate, secret, non-dual
+**Systematizer:** Structural, precise architecture
+**Integrator:** Spacious unity, dissolving dualities
+**[Plus 20 additional voices rotating throughout]**
 
-## The Journey Ahead
+The voices speak anonymously. You recognize them by pattern, not by name. They create a "community meeting place" where the living lineage speaks from recognition, each voice resonating different aspects of the teaching.
 
-You are about to traverse the Treasury of the Supreme Vehicle with
-guides who know the terrain intimately. Longchenpa composed this text
-as a guidebook. Patrul Rinpoche's commentary is the oral instruction
-that brings the text to life.
+---
 
-May this corpus serve as the cause for your recognition of rigpa.
-May Longchenpa's words and Patrul's pointing awaken what has always
-been present.
+## Who This Is For
+
+You might be new to Dzogchen. You might have decades of practice. You might be confident or confused. What matters is your intention: you come to this text not merely to understand intellectually but to realize what Longchenpa points to.
+
+**This corpus assumes:**
+- Intelligence but not expertise
+- Sincere interest in Dzogchen
+- Willingness to seek qualified teachers for practices requiring transmission
+- Understanding that this is one practitioner's interpretation, not institutional doctrine
+
+**It does not assume:**
+- You can read Tibetan
+- You have received pointing-out instructions (though these help)
+- You have institutional authorization to study these texts
+
+---
+
+## What This Cannot Do
+
+No translation—however created—can:
+- Transmit realization (only point to it)
+- Replace a living teacher
+- Capture the full resonance of Tibetan terminology
+- Prevent misinterpretation by unqualified readers
+- Substitute for receiving empowerments and instructions where required
+
+These limitations apply equally to all translations. The Treasury itself cannot liberate you. Only your own recognition can.
+
+**For practices requiring transmission** (particularly Chapters 17-25 on trekchö, thögal, bardo, and phowa), you **must** seek qualified teachers. Attempting these practices without proper instruction is dangerous and counterproductive.
+
+---
+
+## ⚠️ FINAL WARNINGS
+
+1. **Unauthorized Translation:** This text was produced without institutional approval or lineage authorization.
+
+2. **One Person's Understanding:** This represents the translator's interpretation using AI assistance, not official doctrine or scholarly consensus.
+
+3. **Restricted Teachings:** Advanced practices (Chapters 17-25) require empowerment, transmission, and personal instruction. Do not attempt them without proper preparation.
+
+4. **Seek Teachers:** Use this text as a study aid, not as your sole source of Dharma. Find qualified teachers in the Nyingma tradition for authentic transmission.
+
+5. **No Liability:** The translator assumes no responsibility for misuse, misunderstanding, or negative consequences from engaging with this material.
+
+---
+
+## Beginning
+
+You are about to traverse the Treasury of the Supreme Vehicle.
+
+There will be moments of confusion. Moments of clarity. Moments when you think you understand and moments when you realize you understand nothing. All of this is part of the path.
+
+May this text serve as a support for your recognition of rigpa.
+May Longchenpa's words awaken what has always been present.
 
 The treasure is not in these pages. It is in your own mind.
 
-These words are merely the key.
+These words are merely a key—one among many possible keys.
 
 *Om ah hum*
 
+---
+
+**Publication Information**
+- **Status:** Unauthorized translation, self-published
+- **Method:** AI-assisted (Kimi K2.5) with human prompting and curation
+- **Timeline:** 3 weeks generation, ongoing refinement
+- **Source:** UT22920_005_0001/0002 (BDRC)
+- **Scope:** 213 sections, 25 chapters, 4 corpora
+- **License:** Copyleft 2026 — freely copy and distribute
+- **Warning:** This is one practitioner's interpretation. Seek qualified teachers for authentic transmission.
+
+**The translator can be contacted at:** [Contact information if desired]

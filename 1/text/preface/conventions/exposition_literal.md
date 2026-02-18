@@ -15,8 +15,20 @@ The Literal Layer provides:
 3. **Semantic Precision:** No smoothing or interpretation
 4. **Translation Scaffold:** Foundation for Liturgical layer
 
-## Approach: The Analytical Scalpel
+## The Voice: The Grammatical Technician
 
+The Literal Layer speaks in the voice of a **grammatical technician**—a philological specialist whose only concern is syntactic fidelity. This is the *Dpyad kyi bshad pa*—the analytical exposition—stripped of all interpretive flourish.
+
+**Voice Characteristics:**
+- **Mechanical:** Grammar mapped with 1:1 precision
+- **Non-Interpretive:** No smoothing, no elegance, no paraphrase
+- **Syntactic:** Tibetan word order preserved
+- **Transparent:** Every particle visible, every suffix accounted for
+- **Ugly:** Sacrifices English fluency to expose Tibetan structure
+
+**Not a Translator:** This voice does not translate meaning—it maps grammar. It is the scaffold upon which real translation is built, not the building itself.
+
+**The Analytical Scalpel:**
 This is not a reading text. It is a *grammatical instrument* calibrated
 for syntactic decomposition.
 

@@ -1,95 +1,64 @@
 # Corpus 3: Scholar
 # Treasury of the Supreme Vehicle
 
-## The Critical Apparatus
+## ⚠️ RESTRICTED TEXT — SCHOLARLY ANALYSIS
 
-This volume provides the scholarly infrastructure for understanding
-Longchenpa's *Treasury of the Supreme Vehicle* as a textual artifact,
-a philosophical system, and a sophisticated work of Buddhist
-hermeneutics. It is the *mkhas pa'i dpyod pa*—the analytical
-apparatus of the competent scholar.
+**This corpus contains scholarly analysis of an unauthorized translation of a restricted text.**
 
-## Beyond the Surface
+The analysis herein represents one practitioner's interpretation using AI assistance (Kimi K2.5). It has not been peer-reviewed by academic institutions or verified by lineage holders.
 
-Longchenpa's Treasury is not merely a collection of Dzogchen
-instructions. It is a rigorously structured work that integrates:
-- Multiple tantric systems (Mahāyoga, Anuyoga, Atiyoga)
-- Complex soteriological frameworks (nine vehicles)
-- Sophisticated subtle-body science
-- Detailed cosmological mapping
-- Philosophical polemics against competing views
+**Use this material as:**
+- One perspective among many
+- A study aid, not authoritative doctrine
+- A starting point for your own investigation
 
-To read this text well requires more than understanding the words. It
-requires understanding the architecture, the grammar, the doxography,
-and the hermeneutical strategies Longchenpa employs.
+**Not as:**
+- Official scholarly consensus
+- Substitute for qualified teachers
+- Authorization to practice advanced techniques
 
-This corpus provides that understanding.
+---
+
+## The Problem This Corpus Addresses
+
+The Treasury of the Supreme Vehicle has been mistranslated repeatedly—not through malice, but because readers collapse Longchenpa's carefully stratified viewpoints into confusion. They mistake Sutric logic for Dzogchen realization. They reduce Tantric symbolism to ontology. They fail to recognize when Longchenpa is teaching, negating, distinguishing, or revealing.
+
+This corpus provides analytical tools to read Longchenpa more carefully.
 
 ## Three Analytical Layers
 
 **The Scholar Layer: Four Pillars**
 
-Analysis organized through four lenses:
+Analysis through four lenses applied to all 213 sections:
 
-*Structure* — The architectural mapping of the text:
-- Major divisions (*rim khang*)
-- Topical subdivisions (*sa bcad*)
-- Logical progression
-- Connection between sections
+*Structure* — Architectural mapping: major divisions (*rim khang*), topical subdivisions (*sa bcad*), logical progression, connections between sections.
 
-*Philology* — Grammatical precision:
-- Particle function (*kyis*, *las*, *la*)
-- Terminology in Wylie with semantic field
-- Manuscript notes and variants
-- Syntax and clause relationships
+*Philology* — Grammatical precision: particle function (*kyis*, *las*, *la*), terminology in Wylie with semantic field, manuscript notes, syntax and clause relationships.
 
-*Context* — Doxographical placement:
-- Citations from tantras and sutras
-- Vehicle classification
-- Nyingma vs Sarma distinctions
-- Historical positioning
+*Context* — Doxographical placement: citations from tantras and sutras, vehicle classification, Nyingma vs Sarma distinctions, voice identification.
 
-*Concept* — Philosophical unpacking:
-- Complex enumerations
-- Relationships between terms
-- Sub-parts and distinctions
-- Doctrinal precision
+*Concept* — Philosophical unpacking: complex enumerations, relationships between terms, sub-parts, doctrinal precision.
 
 **The Epistemic Layer: View-Stratification**
 
-Longchenpa deliberately speaks from multiple epistemic registers,
-sometimes within a single paragraph. The Epistemic Layer prevents the
-collapse of these distinct viewpoints into a confused reading.
-
-It classifies:
-- Which view each passage employs
+Longchenpa speaks from multiple epistemic registers—sometimes within a single paragraph. This layer classifies:
+- Which view each passage employs (Sutric, Tantric, Dzogchen-sems, Dzogchen-rigpa)
 - Pedagogical function (upāya, negation, declaration)
 - Risk flags for misinterpretation
 
-This is the air-traffic control layer—ensuring that Sutric logic is
-not mistaken for Dzogchen realization, that Tantric symbolism is not
-reduced to ontology, and that readers know when Longchenpa is
-teaching, negating, distinguishing, or revealing.
+This is air-traffic control for hermeneutics.
 
 **The Delusion Layer: Error Cartography**
 
-This layer maps predictable misinterpretations—where readers go wrong,
-why those errors are attractive, and how they propagate downstream.
-
-It provides:
+Maps predictable misinterpretations across 213 sections:
 - Specific misreadings named and described
 - Cognitive attractors (why errors feel right)
 - Consequence mapping (what degrades if adopted)
 - Cascade analysis (how errors breed errors)
 
-The Delusion Layer is clinical, stark, and unsentimental. It acts as
-a firebreak between translation and realization, between philosophy
-and practice, between human cognition and wrong view.
+The Delusion Layer is clinical and stark. Wrong view in Dzogchen blocks liberation.
 
 ## Interleaved Format
-
-This corpus presents the three analytical layers interleaved by
-section. For each of the 213 sections, you will find:
 
 ```
 === SECTION VV-CC-SS-SS ===
@@ -105,111 +74,125 @@ section. For each of the 213 sections, you will find:
 <ontological-error>
 **Misreading:** ...
 **Why it arises:** ...
+**Consequence:** ...
 ```
 
-This format enables comprehensive analysis of each textual unit while
-maintaining navigability.
+Comprehensive analysis of each textual unit while maintaining navigability.
 
-## For Whom This Corpus is Intended
+## Methodology and Transparency
 
-**Academic Scholars**
+**What This Is:**
 
-You are researching Tibetan Buddhism, Nyingma history, or Dzogchen
-philosophy. This corpus provides:
-- Philological precision for textual analysis
-- Doxographical context for comparative work
-- Hermeneutical mapping for theory building
-- Citation trails for further research
+Scholarly analysis generated over three weeks using Kimi K2.5 (Moonshot AI) with extensive human prompting, curation, and refinement by one practitioner with background in computer programming and quantitative analysis.
+
+The AI handled preliminary analysis and consistency maintenance across 213 sections. Human judgment guided:
+- Voice and tone calibration
+- Doctrinal accuracy checks against traditional sources
+- Quality assessment against multiple criteria
+- Final curation and refinement
+
+**What This Means:**
+
+- This is one person's interpretation using AI assistance
+- Analysis draws on traditional sources (commentaries, doxographies)
+- Not reviewed by academic peers or lineage institutions
+- Represents a practitioner's understanding, not institutional doctrine
+
+**What This Is Not:**
+
+- Not peer-reviewed academic scholarship
+- Not verified by a panel of Tibetologists
+- Not authorized by any Buddhist institution
+- Not a substitute for studying with qualified teachers
+
+**Scope:**
+- 213 sections analyzed
+- Four Pillars methodology applied throughout
+- 27 error types classified
+- View stratification (9 yanas) documented
+
+## For Whom This Corpus Is Intended
+
+**Independent Scholars**
+
+You are researching Tibetan Buddhism without institutional affiliation. This corpus provides:
+- One analytical perspective on textual architecture
+- Doctrinal mapping (one interpretation among many possible)
+- Error classification framework
+- Starting point for your own analysis
+
+Verify all claims against the Source Corpus. Challenge interpretations. Improve upon them.
 
 **Advanced Practitioners**
 
-You have foundational Dzogchen training and seek deeper understanding.
-This corpus provides:
-- Terminological precision
-- Historical context for teachings
-- Protection against misinterpretation
-- Grounding of practice in textual accuracy
+You have foundational Dzogchen training and seek deeper textual understanding. This corpus offers:
+- Terminological precision (one rendering of technical terms)
+- Historical context (one interpretation of doxography)
+- Protection against misinterpretation (common errors mapped)
+- Grounding in textual analysis (one approach to the source)
 
-**Translators**
+Cross-reference with Commentary for experiential understanding. Neither layer alone is sufficient.
 
-You are working with Tibetan Buddhist texts. This corpus provides:
-- Grammatical analysis
-- Doctrinal context
-- Error-prevention frameworks
-- Scholarly standards for translation
+**Students of Dzogchen**
+
+You are studying the view and need analytical support. This corpus answers "What does this say?" so Commentary can answer "What does this mean?"
 
 **Teachers**
 
-You are transmitting these teachings to students. This corpus provides:
-- Clarification of subtle points
-- Warning about common errors
-- Historical and doxographical context
-- Precision in presenting the view
+You are transmitting these teachings. This corpus provides:
+- One perspective on structural points
+- Common errors to warn students about
+- Doctrinal context (one interpretation)
+- Analytical framework for explaining subtle distinctions
 
-## How to Use This Corpus
+You remain responsible for accuracy and authenticity.
 
-**For Research:**
+## ⚠️ CRITICAL LIMITATIONS
 
-Use the Scholar Layer to navigate the text's architecture. Reference
-the Epistemic Layer to understand hermeneutical complexity. Consult
-the Delusion Layer to understand failure modes.
+**One Person's Work:** This analysis was produced by one practitioner using AI assistance over three weeks. It does not represent scholarly consensus or institutional authority.
 
-**For Study:**
+**Not Peer-Reviewed:** No academic board has verified these claims. No lineage holder has authorized this interpretation.
 
-Read the section in the Source Corpus first. Then read the
-interleaved analysis in this corpus. Cross-reference with the
-Practitioner Corpus for experiential understanding.
+**AI-Assisted:** The analytical framework was generated with Kimi K2.5. Human judgment guided direction and curation, but AI handled much of the detailed analysis.
 
-**For Teaching:**
+**Interpretive, Not Definitive:** This is one reading of Longchenpa. Other readings are possible and may be more accurate.
 
-Use the Scholar Layer to explain structural points. Reference the
-Epistemic Layer to clarify different levels of teaching. Draw on the
-Delusion Layer to warn about common mistakes.
+**Restricted Text:** This is analysis of a restricted text containing advanced Dzogchen teachings. Use responsibly.
 
-## Editorial Standards
+**No Practice Authorization:** This corpus presents analysis, not instruction. For practice guidance, seek qualified teachers.
+
+## Editorial Standards (As Applied)
 
 **Objectivity:**
-
-The Scholar Layer maintains analytical distance. It does not offer
-practice advice. It observes and maps without prescribing.
+Maintains analytical distance. Does not offer practice advice. Observes and maps without prescribing.
 
 **Neutrality:**
-
-The Epistemic Layer classifies without endorsing. It maps viewpoints
-without claiming any as ultimately true.
+Classifies without endorsing. Maps viewpoints without claiming ultimate truth.
 
 **Clinical Precision:**
+The Delusion Layer is stark because errors are stark. We do not soften language because consequences are real.
 
-The Delusion Layer is stark and exact. It names errors without
-softening or psychologizing.
+**Transparency:**
+Methodology disclosed. AI assistance acknowledged. Limitations stated clearly.
 
-## Relationship to Other Corpora
+## What This Corpus Cannot Do
 
-**Scholar analyzes Source:**
+This corpus presents scholarly analysis, not Dharma instruction:
+- The Epistemic Layer classifies views without endorsing them
+- The Delusion Layer maps errors without correcting them (the text does that)
+- The Scholar Layer analyzes structure without prescribing practice
 
-The Tibetan, Wylie, and Literal layers (Corpus 2) are the objects of
-analysis in this corpus.
+For practice guidance, see Commentary. For direct transmission, seek qualified teachers.
 
-**Scholar supports Practitioner:**
+This corpus provides one map. The territory is your own mind. You must traverse it yourself.
 
-The Liturgical and Commentary layers (Corpus 1) can be verified and
-deepened through reference to this corpus.
+---
 
-**Scholar differs from Mind:**
-
-The Cognitive layer (Corpus 4) documents pre-verbal understanding.
-This corpus provides post-verbal analysis. They serve different
-purposes and should not be confused.
-
-## A Note on Authority
-
-This corpus presents scholarly analysis, not Dharma instruction. The
-Epistemic Layer classifies views without endorsing them. The Delusion
-Layer maps errors without correcting them. The Scholar Layer analyzes
-structure without prescribing practice.
-
-For practice guidance, see the Commentary in the Practitioner Corpus.
-For direct transmission, read the Liturgical text.
-
-This corpus provides the map. The territory is in your own mind.
-
+**Publication Information**
+- **Status:** Unauthorized analysis, self-published
+- **Method:** AI-assisted (Kimi K2.5) with human prompting and curation
+- **Timeline:** 3 weeks generation
+- **Source:** UT22920_005_0001/0002 (BDRC)
+- **Scope:** 213 sections, Four Pillars methodology
+- **License:** Copyleft 2026
+- **Warning:** This is one practitioner's interpretation. Not peer-reviewed. Not institutionally authorized. Seek qualified teachers for authentic transmission.

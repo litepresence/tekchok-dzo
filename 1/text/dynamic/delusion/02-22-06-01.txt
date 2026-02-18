@@ -138,7 +138,7 @@ Obstruction-diagnosis: cataloging barriers but not recognizing. Recognition is r
 **Secondary consequences:**
 - "I have external obstruction" as identity
 - Missing that obstructions are display
-- Problem-focused rather than nature-focused
+- Problem-focused rather than than nature-focused
 
 **Cascade effects:**
 <obstruction-cataloging> creates <obstruction-diagnosis> [barrier identification] → <obstruction-identity> [I am obstructed] → <display-miss> [obstructions as nature]
