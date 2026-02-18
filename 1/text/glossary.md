@@ -4,171 +4,121 @@
 
 **ACQUAINTANCE:** This glossary functions like a traditional glossary in the back of a translated religious work. It provides definitions, context, and first appearances for lineage-specific terms, proper names, and technical vocabulary. Readers should consult this glossary to understand specialized terminology encountered throughout the text.
 
-This glossary documents lineage-specific terms, proper names, and technical vocabulary used throughout the translation. These terms should be maintained consistently across all layers.
+Terms are listed alphabetically by their English rendering. Tibetan and Sanskrit equivalents are provided in parentheses.
 
 ---
 
-## CHAPTER 1: The Perfect Teacher
-
-### Cosmological Terms
+## Alphabetical Glossary
 
 | Term | Definition | First Appearance |
 |------|------------|------------------|
-| **Samantabhadra** (Kun tu bzang po) | The primordial Buddha; the perfectly enlightened teacher who embodies the five perfections. Not to be confused with the bodhisattva of the same name. | 01-01-01-01:6 |
-| **Thal-ba field** (Thal-ba'i zhing) | One of the thirteen pure realms described in the Sound Thalgyur Tantra; characterized by specific qualities and teachings. | 01-01-03-01:1 |
-| **five perfections** (phun sum tshogs pa lnga) | Perfect teacher, teaching, retinue, place, and time—the complete manifestation of enlightenment. | 01-01-01-01:6 |
-
-### Body Terms (Kaya)
-
-| Term | Definition | First Appearance |
-|------|------------|------------------|
-| **Dharmakaya** (chos sku) | Truth body; the formless dimension of enlightenment beyond all concepts. | 01-01-01-01:6 |
-| **Sambhogakaya** (longs sku) | Enjoyment body; the dimension of enlightened communication and blessing. | 01-01-01-01:6 |
-| **Nirmanakaya** (sprul sku) | Emanation body; the dimension through which enlightenment manifests in the world. | 01-01-01-01:6 |
-
-### Technical Terms
-
-| Term | Definition | First Appearance |
-|------|------------|------------------|
-| **vidya** (rig pa) | Primordial awareness; knowing without duality or confusion. Distinct from ordinary awareness. | 01-01-01-01:6 |
-| **jñana** (ye shes) | Pristine cognition; timeless knowing transcending subject-object duality. | 01-01-01-01:6 |
-| **wisdom-mind** (thugs) | The enlightened mind as embodiment of wisdom and compassion. | 01-01-01-01:6 |
-
----
-
-## CHAPTER 2: Container World and Contents
-
-### Cosmological Terms
-
-| Term | Definition | First Appearance |
-|------|------------|------------------|
-| **Thal-ba-dbyangs** | A pure realm located below this world, immeasurable and extremely beautiful. | 01-01-03-01:587 |
-| **Thal-ba-'dzin** | A wheel-shaped realm piercing through space. | 01-01-03-01:596 |
-| **Thal-ba-skyob** | A realm ornamented by mothers and nurses. | 01-01-03-01:601 |
-| **Thal-ba-brdal** | A realm resembling a lotus in full bloom. | 01-01-03-01:607 |
-
-### Element Terms
-
-| Term | Definition | First Appearance |
-|------|------------|------------------|
-| **life-wind** (srog rlung) | The vital energy wind that supports consciousness. | 01-01-03-01:613 |
-| **elemental formation** | The process by which the five elements manifest worlds. | 01-02-01-01:712 |
-
----
-
-## CHAPTER 3: Aggregates and Sense-Sources
-
-### Abhidharma Terms
-
-| Term | Definition | First Appearance |
-|------|------------|------------------|
-| **aggregate** (phung po) | The five components of personality: form, feeling, perception, formation, consciousness. | 01-03-01-01:1588 |
-| **sense-source** (skye mched) | The twelve bases of perception: six faculties and six objects. | 01-03-01-01:1650 |
-| **element** (khams) | The eighteen elements: six faculties, six objects, six consciousnesses. | 01-03-01-01:1650 |
+| **absorption** (bsdu) | Gathering or dissolving; elements absorbing into one another at death. | 01-11-04-01:14172 |
+| **acceptance of anything** (ci yang rung) | The view that the basis accepts and manifests all phenomena without distinction. | 01-08-01-01:10485 |
 | **affliction** (nyon mongs) | Mental factors that disturb the mind and create suffering. | 01-03-03-01:1821 |
-
-### Technical Distinctions
-
-| Term | Definition | First Appearance |
-|------|------------|------------------|
-| **contaminated** (zag bcas) | Phenomena associated with afflictions and karma. | 01-03-02-01:1584 |
-| **uncontaminated** (zag med) | Phenomena free from afflictions; nirvanic. | 01-03-02-01:1584 |
-| **latencies** (bag chags) | Subtle imprints left by past experiences and actions. | 01-03-03-01:1812 |
-
----
-
-## CHAPTER 4: Mistaken Tenets
-
-### Non-Buddhist Schools
-
-| Term | Definition | First Appearance |
-|------|------------|------------------|
-| **Sāṃkhya** (grangs can pa) | Hindu school propounding eternalism; holds that a permanent self (purusha) exists distinct from nature (prakriti). | 01-04-01-01:1911 |
-| **Vaiśeṣika** (bye brag pa) | Hindu school holding atomic realism and categories of existence. | 01-04-01-01:1937 |
-| **Lokāyata** (rgyang 'phen pa) | Materialist school denying karma, rebirth, and liberation; holds that only physical elements exist. | 01-04-01-01:1944 |
-| **Jaina** (gcer bu pa) | Non-Buddhist school emphasizing extreme asceticism and non-violence. | 01-04-01-01:1986 |
-| **Tirthika** (mu stegs pa) | General term for non-Buddhist spiritual practitioners. | 01-04-01-01:1910 |
-
-### Buddhist Tenet Systems
-
-| Term | Definition | First Appearance |
-|------|------------|------------------|
-| **Vaibhāṣika** (bye brag smra ba) | Buddhist school accepting both sutras and abhidharma; holds direct realism. | 01-04-02-01:2103 |
-| **Sautrantika** (mdo sde pa) | Buddhist school accepting only sutras as authoritative; represents subtle realism. | 01-04-02-01:2103 |
-| **Yogācāra** (rnal 'byor spyod pa) | Buddhist school of "mind-only"; holds that only consciousness is truly existent. | 01-04-02-01:2103 |
-| **Madhyamaka** (dbu ma pa) | Buddhist school of the Middle Way; holds that all phenomena are empty of inherent existence. | 01-04-02-01:2103 |
-
-### Philosophical Concepts
-
-| Term | Definition | First Appearance |
-|------|------------|------------------|
-| **eternalism** (rtag mtha') | The extreme view that things exist permanently and unchangingly. | 01-04-01-01:1905 |
-| **nihilism** (chad mtha') | The extreme view that things are utterly non-existent and nothing continues after death. | 01-04-01-01:1905 |
-| **self-nature** (rang bzhin) | Inherent essence; svabhāva; own-being. | 01-04-01-01:1914 |
-| **partless particle** (rdul phra rab) | The smallest unit of matter in Buddhist atomism. | 01-04-02-01:2103 |
-| **cognition-only** (rnam rig tsam) | The Yogācāra view that only consciousness exists. | 01-04-02-01:2103 |
-
----
-
-## CHAPTER 8: The Seven Views on the Basis
-
-### The Seven Views on the Basis (gshi bdun)
-
-| Term | Definition | First Appearance |
-|------|------------|------------------|
-| **primordial purity** (ka dag) | The view that the basis is empty and pure from the beginning, free from all elaborations. | 01-08-01-01:10480 |
-| **spontaneous presence** (lhun grub) | The view that the basis naturally possesses all enlightened qualities without effort. | 01-08-01-01:10481 |
-| **uncertainty** (ma nges pa) | The view that the basis is indeterminate and cannot be fixed as any one thing. | 01-08-01-01:10482 |
+| **aggregate** (phung po) | The five components of personality: form, feeling, perception, formation, consciousness. | 01-03-01-01:1588 |
+| **Kunzhi** (kun gzhi) "All-Ground" | The universal ground or basis of both saṃsāra and nirvāṇa; the neutral ground of all experience. In Dzogchen, distinguished from Dharmakāya (primordially pure wisdom) and from Kunzhi consciousness (the defiled aspect). Literal layer: "kunzhi" (lowercase); Liturgical layer: "Kunzhi" (capitalized). | 01-14-01-01:17361 |
+| **Kunzhi consciousness** (kun gzhi rnam shes) | The defiled aspect of the all-ground; the eighth consciousness in the Yogācāra system; distinct from pure Kunzhi. | 01-03-01-01:1627 |
+| **All-Accomplishing Wisdom** (bya grub ye shes) | Wisdom effortlessly completing all enlightened activities; fourth characteristic-holding wisdom. | 01-14-04-01:18356 |
+| **appearance** (snang ba) | Phenomenal display, manifestation; rang snang (self-appearance), snang stong (appearance-emptiness). | 01-01-01-01:35 |
+| **bardo** (bar do) | Intermediate state between death and rebirth; also moment-to-moment gaps in this life. | 02-19-01-01:11200 |
+| **basis-abiding wisdom** (gzhi gnas kyi ye shes) | Wisdom that dwells primordially as the ground of all experience. | 01-14-04-01:18286 |
+| **bindu** (thig le) | Energy drops or essences; white and red bindus at crown and navel; basis of subtle experience. | 01-11-02-01:13843 |
+| **binding** (bcings pa) | Fetter, shackle; samaya as dam ('dam) meaning binding or holding. | 02-19-02-01:11370 |
 | **certainty** (nges pa) | The view that the basis is determinate and unchanging in its nature. | 01-08-01-01:10483 |
 | **changeability** (bsgyur rung) | The view that the basis can transform into anything whatsoever. | 01-08-01-01:10484 |
-| **acceptance of anything** (ci yang rung) | The view that the basis accepts and manifests all phenomena without distinction. | 01-08-01-01:10485 |
-| **multiplicity** (sna tshogs) | The view that the basis appears as variegated and manifold without ceasing. | 01-08-01-01:10486 |
-
-### Metaphysical Terms
-
-| Term | Definition | First Appearance |
-|------|------------|------------------|
-| **youth vase body** (gzhon nu bum sku) | A metaphor for the basis: youthful (ever-fresh), vase-like (containing qualities), embodied (manifest). | 01-08-05-01:10762 |
-| **primordial resonance** (ye gdangs) | The self-arisen expression of awareness; primordial radiance. | 01-08-05-01:10758 |
-| **depth clarity** (gting gsal) | The inner luminous clarity of awareness. | 01-08-05-01:10758 |
-| **self-resonance** (rang gdangs) | Natural self-expression without external cause. | 01-08-07-01:10895 |
-| **unobscured** (ma bsgribs) | Free from veils or obscurations; naturally clear. | 01-08-07-01:10870 |
-
-### Tantra Citations
-
-| Term | Definition | First Appearance |
-|------|------------|------------------|
-| **Thalgyur** (thal 'gyur) | The Tantra of the Great Completion; supreme among Dzogchen tantras. | 01-08-01-01:10498 |
+| **channel** (rtsa) | Subtle energy channels (nāḍī) through which winds circulate; distinct from physical arteries. | 01-11-01-01:13704 |
+| **channel-petal** (rtsa 'dab) | Petals of the chakra wheels; subtle energetic structures. | 01-11-01-01:13112 |
+| **characteristic-holding wisdom** (mtshan nyid 'dzin pa'i ye shes) | Wisdom that apprehends the defining characteristics of phenomena. | 01-14-04-01:18287 |
+| **clear light** ('od gsal) | Luminous clarity; dharmakāya at death; fundamental nature of mind. | 02-19-01-01:11250 |
+| **cognition-only** (rnam rig tsam) | The Yogācāra view that only consciousness exists. | 01-04-02-01:2103 |
+| **compounded** ('dus byas) | Conditioned, produced; phenomena arising from causes and conditions. | 01-01-01-01:18 |
+| **concentration** (ting nge 'dzin) | Meditative absorption, samādhi; one-pointed stability of mind. | 01-11-03-01:14007 |
+| **contaminated** (zag bcas) | Phenomena associated with afflictions and karma. | 01-03-02-01:1584 |
+| **Dharmadhātu Wisdom** (chos dbyings ye shes) | Wisdom of the ultimate dimension pervading all phenomena; fifth characteristic-holding wisdom. | 01-14-04-01:18352 |
+| **dharmatā-bardo** (chos nyid bar do) | Bardo of reality itself; displays of sounds, lights, rays. | 02-19-02-01:11430 |
+| **Dharmakāya** (chos sku) | Truth body; the formless dimension of enlightenment beyond all concepts. | 01-01-01-01:6 |
+| **Discriminating Wisdom** (so sor rtog pa'i ye shes) | Wisdom distinctly knowing all phenomena without confusion; third characteristic-holding wisdom. | 01-14-04-01:18355 |
+| **downward-clearing wind** | Wind that moves downward; excretion and reproduction. | 01-15-01-01:9785 |
+| **effort** (rtsol) | Striving, exertion; effortful practice vs effortless recognition. | 02-18-01-01:10441 |
+| **element** (khams) | The eighteen elements: six faculties, six objects, six consciousnesses. | 01-03-01-01:1650 |
+| **elemental formation** | The process by which the five elements manifest worlds. | 01-02-01-01:712 |
+| **emanation** (sprul) | Manifestation, display; nirmāṇa means emanation. | 01-01-01-01:30 |
+| **empowerment** (dbang) | Abhiṣeka; tantric initiation that authorizes practice; four empowerments. | 02-17-01-01:9820 |
+| **eternalism** (rtag mtha') | The extreme view that things exist permanently and unchangingly. | 01-04-01-01:1905 |
+| **five perfections** (phun sum tshogs pa lnga) | Perfect teacher, teaching, retinue, place, and time—the complete manifestation of enlightenment. | 01-01-01-01:6 |
+| **impure** (ma dag) | Impure, defiled; impure perception vs pure perception. | 01-08-07-01:10870 |
+| **Jaina** (gcer bu pa) | Non-Buddhist school emphasizing extreme asceticism and non-violence. | 01-04-01-01:1986 |
+| **jñana** (ye shes) | Pristine cognition; timeless knowing transcending subject-object duality. | 01-01-01-01:6 |
 | **Klong-drug-pa** (klong drug pa) | The Six Expanses tantra; important Dzogchen scripture. | 01-08-01-01:10509 |
-| **Rangshar** (rang shar) | The Self-Arisen tantra; key text on spontaneous presence. | 01-08-05-01:10761 |
+| **latencies** (bag chags) | Subtle imprints left by past experiences and actions. | 01-03-03-01:1812 |
+| **liberation** (grol ba) | Freedom, release; self-liberation (rang grol) recognizes bondage as empty. | 02-18-05-01:11021 |
+| **life-wind** (srog rlung) | The vital energy wind that supports consciousness. | 01-01-03-01:613 |
+| **life-wind** (srog rlung) | The vital wind that sustains life; located at the heart. | 01-15-01-01:9765 |
+| **light-body** ('od lus) | Body of light; form of manifestation in thögal practice. | 02-18-01-01:3952 |
+| **Lokāyata** (rgyang 'phen pa) | Materialist school denying karma, rebirth, and liberation; holds that only physical elements exist. | 01-04-01-01:1944 |
+| **Lugu Gyud** (lu gu rgyud) | "Spiral Continuity"; a narrative figure/entity representing the principle of continuous wisdom lineage. In the liturgical layer rendered as "Spiral Continuity." | 01-10-01-01:12672 |
+| **Madhyamaka** (dbu ma pa) | Buddhist school of the Middle Way; holds that all phenomena are empty of inherent existence. | 01-04-02-01:2103 |
+| **mandala** (dkyil 'khor) | Celestial palace, sacred circle; five-family mandala, deity mandalas. | 01-01-02-01:587 |
+| **method** (thabs) | Skillful means, upāya; paired with wisdom; skillful means for liberating beings. | 02-18-01-01:10441 |
+| **Mirror-like Wisdom** (me long lta bu'i ye shes) | Wisdom reflecting all phenomena without distortion; first of the five characteristic-holding wisdoms. | 01-14-04-01:18352 |
+| **mudra** (phyag rgya) | Seal, symbolic gesture, consort; four mudras of Dzogchen. | 02-18-03-01:10750 |
 | **Mu-tig-phreng-ba** | The Pearl Garland tantra; teaching on primordial purity. | 01-08-07-01:11021 |
-
----
-
-## CHAPTER 14: Wisdom (Ye Shes)
-
-### Types of Wisdom
-
-| Term | Definition | First Appearance |
-|------|------------|------------------|
+| **multiplicity** (sna tshogs) | The view that the basis appears as variegated and manifold without ceasing. | 01-08-01-01:10486 |
+| **Thogal** (thod rgal) "Leap-Over" | The Dzogchen practice of spontaneous leap-over; direct recognition through visionary experience. The advanced practice following trekcho (cutting-through). Literal layer: "thogal" (lowercase); Liturgical layer: "Thogal" (capitalized). | 02-20-01-01:8104 |
+| **Nirmanakāya** (sprul sku) | Emanation body; the dimension through which enlightenment manifests in the world. | 01-01-01-01:6 |
+| **nihilism** (chad mtha') | The extreme view that things are utterly non-existent and nothing continues after death. | 01-04-01-01:1905 |
+| **obscuration** (sgrib pa) | Veil, covering; two obscurations (afflictive and cognitive) obscure the nature. | 02-19-01-01:11200 |
+| **partless particle** (rdul phra rab) | The smallest unit of matter in Buddhist atomism. | 01-04-02-01:2103 |
+| **pervading wind** (khyab byed) | Wind that pervades the entire body; movement and circulation. | 01-15-01-01:9790 |
+| **primordial purity** (ka dag) | The view that the basis is empty and pure from the beginning, free from all elaborations. | 01-08-01-01:10480 |
+| **primordial resonance** (ye gdangs) | The self-arisen expression of awareness; primordial radiance. | 01-08-05-01:10758 |
+| **prostration** (phyag 'tshal) | Homage, reverence; physical and mental homage to enlightened ones. | 01-01-01-01:11 |
+| **purity** (dag pa) | Pure, cleansed; primordial purity (ka dag), twofold purity (dag pa gnyis). | 01-08-05-01:10758 |
+| **qualities** (yon tan) | Virtues, enlightened attributes; the qualities of buddhahood. | 01-01-01-01:17 |
+| **Rangshar** (rang shar) | The Self-Arisen tantra; key text on spontaneous presence. | 01-08-05-01:10761 |
+| **rigpa-radiance** (rig gdangs) | Self-expression or display of awareness; natural manifestation of rigpa. | 02-18-01-01:3968 |
+| **Sāṃkhya** (grangs can pa) | Hindu school propounding eternalism; holds that a permanent self (purusha) exists distinct from nature (prakriti). | 01-04-01-01:1911 |
+| **Samantabhadra** (Kun tu bzang po) | The primordial Buddha; the perfectly enlightened teacher who embodies the five perfections. Not to be confused with the bodhisattva of the same name. | 01-01-01-01:6 |
+| **samaya** (dam tshig) | Binding pledge or vow; commitment to the path; root and branch samayas. | 02-17-01-01:9704 |
+| **Sambhogakāya** (longs sku) | Enjoyment body; the dimension of enlightened communication and blessing. | 01-01-01-01:6 |
+| **self-nature** (rang bzhin) | Inherent essence; svabhāva; own-being. | 01-04-01-01:1914 |
+| **self-resonance** (rang gdangs) | Natural self-expression without external cause. | 01-08-07-01:10895 |
+| **sense-source** (skye mched) | The twelve bases of perception: six faculties and six objects. | 01-03-01-01:1650 |
+| **Sugata** (bde gshegs) | Bliss-Gone One; epithet of Buddha who has gone to bliss/blissful liberation. | 01-01-01-01:19 |
+| **suchness** (chos nyid) | Dharmatā; reality itself; the nature of phenomena as they are; dharmakāya as suchness-body. | 01-14-02-01:17427 |
+| **Thal-ba-brdal** | A realm resembling a lotus in full bloom. | 01-01-03-01:607 |
+| **Thal-ba-dbyangs** | A pure realm located below this world, immeasurable and extremely beautiful. | 01-01-03-01:587 |
+| **Thal-ba field** (Thal-ba'i zhing) | One of the thirteen pure realms described in the Sound Thalgyur Tantra; characterized by specific qualities and teachings. | 01-01-03-01:1 |
+| **Thal-ba-skyob** | A realm ornamented by mothers and nurses. | 01-01-03-01:601 |
+| **Thal-ba-'dzin** | A wheel-shaped realm piercing through space. | 01-01-03-01:596 |
+| **Thalgyur** (thal 'gyur) | The Tantra of the Great Completion; supreme among Dzogchen tantras. | 01-08-01-01:10498 |
+| **three kayas** (sku gsum) | The three dimensions of enlightenment: dharmakāya, sambhogakāya, nirmāṇakāya. | 01-01-01-01:17 |
+| **Tirthika** (mu stegs pa) | General term for non-Buddhist spiritual practitioners. | 01-04-01-01:1910 |
+| **trainee** (gdul bya) | Disciple, one to be tamed/educated; recipient of teachings. | 01-01-01-01:45 |
+| **uncertainty** (ma nges pa) | The view that the basis is indeterminate and cannot be fixed as any one thing. | 01-08-01-01:10482 |
+| **uncontaminated** (zag med) | Phenomena free from afflictions; nirvanic. | 01-03-02-01:1584 |
+| **uncompounded** ('dus ma byas) | Unconditioned, not produced; nirvana is uncompounded. | 01-01-01-01:18 |
+| **unobscured** (ma bsgribs) | Free from veils or obscurations; naturally clear. | 01-08-07-01:10870 |
+| **upward-moving wind** (gyen rgyu) | Wind that moves upward; speech and respiratory function. | 01-15-01-01:9780 |
+| **Vaiśeṣika** (bye brag pa) | Hindu school holding atomic realism and categories of existence. | 01-04-01-01:1937 |
+| **Vaibhāṣika** (bye brag smra ba) | Buddhist school accepting both sutras and abhidharma; holds direct realism. | 01-04-02-01:2103 |
+| **vidya** (rig pa) | Primordial awareness; knowing without duality or confusion. Distinct from ordinary awareness. | 01-01-01-01:6 |
+| **vessel-and-contents** (snod bcud) | Container world (universe) and contents (sentient beings). | 01-02-01-01:712 |
+| **vital-point** (gnad) | Critical juncture or key point; essential point in subtle body practice. | 01-11-02-01:13127 |
+| **view-meditation-conduct** (lta sgom spyod) | The three aspects of practice: view (understanding), meditation (familiarization), conduct (integration). | 01-08-01-01:10472 |
+| **wind** (rlung) | Vital energy (prāṇa, vāyu); five winds (life, fire, pervasive, upward, downward) support consciousness. | 01-11-01-01:13704 |
+| **wind-radiance** (rlung gdangs) | Expression or display of prāṇa/wind energy. | 02-18-01-01:3967 |
+| **Wisdom of All-Pervading Compassion** (thugs rje kun khyab kyi ye shes) | Wisdom manifesting as the root force pervading all appearance; third basis-abiding wisdom. | 01-14-04-01:18334 |
+| **Wisdom of Equality** (mnyam nyid ye shes) | Wisdom recognizing all phenomena as equal in emptiness; second characteristic-holding wisdom. | 01-14-04-01:18354 |
 | **Wisdom of Primordial Purity** (ngo bo ka dag gi ye shes) | Wisdom that transcends existence and non-existence, empty and pure from the beginning; first of the three basis-abiding wisdoms. | 01-14-04-01:18295 |
 | **Wisdom of Spontaneous Perfection** (rang bzhin lhun grub kyi ye shes) | Wisdom primordially complete with qualities, naturally manifesting without effort; second basis-abiding wisdom. | 01-14-04-01:18316 |
-| **Wisdom of All-Pervading Compassion** (thugs rje kun khyab kyi ye shes) | Wisdom manifesting as the root force pervading all appearance; third basis-abiding wisdom. | 01-14-04-01:18334 |
-| **Mirror-like Wisdom** (me long lta bu'i ye shes) | Wisdom reflecting all phenomena without distortion; first of the five characteristic-holding wisdoms. | 01-14-04-01:18352 |
-| **Wisdom of Equality** (mnyam nyid ye shes) | Wisdom recognizing all phenomena as equal in emptiness; second characteristic-holding wisdom. | 01-14-04-01:18354 |
-| **Discriminating Wisdom** (so sor rtog pa'i ye shes) | Wisdom distinctly knowing all phenomena without confusion; third characteristic-holding wisdom. | 01-14-04-01:18355 |
-| **All-Accomplishing Wisdom** (bya grub ye shes) | Wisdom effortlessly completing all enlightened activities; fourth characteristic-holding wisdom. | 01-14-04-01:18356 |
-| **Dharmadhātu Wisdom** (chos dbyings ye shes) | Wisdom of the ultimate dimension pervading all phenomena; fifth characteristic-holding wisdom. | 01-14-04-01:18352 |
-
-### Technical Terms
-
-| Term | Definition | First Appearance |
-|------|------------|------------------|
-| **basis-abiding wisdom** (gzhi gnas kyi ye shes) | Wisdom that dwells primordially as the ground of all experience. | 01-14-04-01:18286 |
-| **characteristic-holding wisdom** (mtshan nyid 'dzin pa'i ye shes) | Wisdom that apprehends the defining characteristics of phenomena. | 01-14-04-01:18287 |
-| **wisdom pervading objects** (yul la khyab pa'i ye shes) | Wisdom extending to and encompassing all objects of knowledge. | 01-14-04-01:18288 |
+| **wisdom** (shes rab) | Prajñā; discernment that realizes emptiness; transcendent wisdom. | 02-18-01-01:10441 |
 | **wisdom gathered by knowing** (shes pas bsdus pa'i ye shes) | Wisdom that knows the extent of knowable phenomena. | 01-14-04-01:18328 |
 | **wisdom gathered by objects** (shes byas bsdus pa'i ye shes) | Wisdom that distinguishes specific aspects of phenomena. | 01-14-04-01:18340 |
+| **wisdom-mind** (thugs) | The enlightened mind as embodiment of wisdom and compassion. | 01-01-01-01:6 |
+| **wisdom pervading objects** (yul la khyab pa'i ye shes) | Wisdom extending to and encompassing all objects of knowledge. | 01-14-04-01:18288 |
+| **youth vase body** (gzhon nu bum sku) | A metaphor for the basis: youthful (ever-fresh), vase-like (containing qualities), embodied (manifest). | 01-08-05-01:10762 |
+| **Yogācāra** (rnal 'byor spyod pa) | Buddhist school of "mind-only"; holds that only consciousness is truly existent. | 01-04-02-01:2103 |
 
 ---
 
@@ -176,15 +126,13 @@ This glossary documents lineage-specific terms, proper names, and technical voca
 
 1. **Capitalization**: Proper names (Buddhas, schools, tantras) are capitalized. Technical terms are lowercase unless they begin sentences.
 
-2. **Sanskrit vs. Tibetan**: When available, Sanskrit terms are preferred for Buddhist philosophical concepts (e.g., "dharma" not "chos"). 
+2. **Sanskrit vs. Tibetan**: When available, Sanskrit terms are preferred for Buddhist philosophical concepts (e.g., "dharma" not "chos").
 
 3. **Consistency**: Once a term is glossed here, it should be used consistently throughout all translation layers.
 
 4. **Context Sensitivity**: Some terms have different meanings in different contexts (e.g., "awareness" as vidya vs. ordinary awareness). Context should always be clear.
 
----
-
-*Last Updated: Chapter 4 documentation created*
+5. **Layer-Specific Rendering**: Some terms have different renderings in different layers (e.g., **Lugu Gyud** in literal layer, **Spiral Continuity** in liturgical layer). The glossary documents the base form; context determines the appropriate rendering.
 
 ---
 
@@ -263,142 +211,6 @@ This glossary documents lineage-specific terms, proper names, and technical voca
 
 ---
 
-*Last Updated: 2026-02-13 - Sanskrit EWTS section added*
-
----
-
-## CHAPTER 11: Channels, Winds, and Bindus
-
-### Subtle Body Anatomy
-
-| Term | Definition | First Appearance |
-|------|------------|------------------|
-| **channel** (rtsa) | Subtle energy channels (nāḍī) through which winds circulate; distinct from physical arteries. | 01-11-01-01:13704 |
-| **wind** (rlung) | Vital energy (prāṇa, vāyu); five winds (life, fire, pervasive, upward, downward) support consciousness. | 01-11-01-01:13704 |
-| **bindu** (thig le) | Energy drops or essences; white and red bindus at crown and navel; basis of subtle experience. | 01-11-02-01:13843 |
-
-### Practice Terms
-
-| Term | Definition | First Appearance |
-|------|------------|------------------|
-| **concentration** (ting nge 'dzin) | Meditative absorption, samādhi; one-pointed stability of mind. | 01-11-03-01:14007 |
-| **absorption** (bsdu) | Gathering or dissolving; elements absorbing into one another at death. | 01-11-04-01:14172 |
-
----
-
-## CHAPTER 14: All-Ground and Dharmakāya
-
-### Critical Distinctions
-
-| Term | Definition | First Appearance |
-|------|------------|------------------|
-| **all-ground** (kun gzhi) | The ālaya or basis that contains all seeds of samsara; distinct from dharmakāya which is free from all-ground's stains. | 01-14-01-01:17361 |
-| **suchness** (chos nyid) | Dharmatā; reality itself; the nature of phenomena as they are; dharmakāya as suchness-body. | 01-14-02-01:17427 |
-
----
-
-## CHAPTER 15: Winds and Mind
-
-### Elemental and Energetic Terms
-
-| Term | Definition | First Appearance |
-|------|------------|------------------|
-| **life-wind** (srog rlung) | The vital wind that sustains life; located at the heart. | 01-15-01-01:9765 |
-| **fire-accompanying wind** (me dang mnyam pa'i rlung) | Wind associated with digestion and metabolism. | 01-15-01-01:9775 |
-| **upward-moving wind** (gyen rgyu) | Wind that moves upward; speech and respiratory function. | 01-15-01-01:9780 |
-| **downward-clearing wind** | Wind that moves downward; excretion and reproduction. | 01-15-01-01:9785 |
-| **pervading wind** (khyab byed) | Wind that pervades the entire body; movement and circulation. | 01-15-01-01:9790 |
-
----
-
-## CHAPTER 17-25: Path and Fruition Terms
-
-### Practice and Realization
-
-| Term | Definition | First Appearance |
-|------|------------|------------------|
-| **empowerment** (dbang) | Abhiṣeka; tantric initiation that authorizes practice; four empowerments. | 02-17-01-01:9820 |
-| **samaya** (dam tshig) | Binding pledge or vow; commitment to the path; root and branch samayas. | 02-17-01-01:9704 |
-| **method** (thabs) | Skillful means, upāya; paired with wisdom; skillful means for liberating beings. | 02-18-01-01:10441 |
-| **wisdom** (shes rab) | Prajñā; discernment that realizes emptiness; transcendent wisdom. | 02-18-01-01:10441 |
-| **mudra** (phyag rgya) | Seal, symbolic gesture, consort; four mudras of Dzogchen. | 02-18-03-01:10750 |
-
-### Liberation and Obscurations
-
-| Term | Definition | First Appearance |
-|------|------------|------------------|
-| **liberation** (grol ba) | Freedom, release; self-liberation (rang grol) recognizes bondage as empty. | 02-18-05-01:11021 |
-| **obscuration** (sgrib pa) | Veil, covering; two obscurations (afflictive and cognitive) obscure the nature. | 02-19-01-01:11200 |
-| **binding** (bcings pa) | Fetter, shackle; samaya as dam ('dam) meaning binding or holding. | 02-19-02-01:11370 |
-
----
-
-## BARDO CHAPTERS (19, 23)
-
-### Intermediate States
-
-| Term | Definition | First Appearance |
-|------|------------|------------------|
-| **bardo** (bar do) | Intermediate state between death and rebirth; also moment-to-moment gaps in this life. | 02-19-01-01:11200 |
-| **clear light** ('od gsal) | Luminous clarity; dharmakāya at death; fundamental nature of mind. | 02-19-01-01:11250 |
-| **dharmatā-bardo** (chos nyid bar do) | Bardo of reality itself; displays of sounds, lights, rays. | 02-19-02-01:11430 |
-| **becoming-bardo** (srid pa bar do) | Bardo of becoming; seeking rebirth; karmic visions appear. | 02-19-03-01:11600 |
-
----
-
-## UNIVERSAL TERMS (Appearing Throughout)
-
-### Fundamental Concepts
-
-| Term | Definition | First Appearance |
-|------|------------|------------------|
-| **appearance** (snang ba) | Phenomenal display, manifestation; rang snang (self-appearance), snang stong (appearance-emptiness). | 01-01-01-01:35 |
-| **purity** (dag pa) | Pure, cleansed; primordial purity (ka dag), twofold purity (dag pa gnyis). | 01-08-05-01:10758 |
-| **impure** (ma dag) | Impure, defiled; impure perception vs pure perception. | 01-08-07-01:10870 |
-| **compounded** ('dus byas) | Conditioned, produced; phenomena arising from causes and conditions. | 01-01-01-01:18 |
-| **uncompounded** ('dus ma byas) | Unconditioned, not produced; nirvana is uncompounded. | 01-01-01-01:18 |
-| **effort** (rtsol) | Striving, exertion; effortful practice vs effortless recognition. | 02-18-01-01:10441 |
-| **prostration** (phyag 'tshal) | Homage, reverence; physical and mental homage to enlightened ones. | 01-01-01-01:11 |
-| **mandala** (dkyil 'khor) | Celestial palace, sacred circle; five-family mandala, deity mandalas. | 01-01-02-01:587 |
-
-### Epithets and Titles
-
-| Term | Definition | First Appearance |
-|------|------------|------------------|
-| **Sugata** (bde gshegs) | Bliss-Gone One; epithet of Buddha who has gone to bliss/blissful liberation. | 01-01-01-01:19 |
-| **three kayas** (sku gsum) | The three dimensions of enlightenment: dharmakāya, sambhogakāya, nirmāṇakāya. | 01-01-01-01:17 |
-| **trainee** (gdul bya) | Disciple, one to be tamed/educated; recipient of teachings. | 01-01-01-01:45 |
-| **qualities** (yon tan) | Virtues, enlightened attributes; the qualities of buddhahood. | 01-01-01-01:17 |
-| **emanation** (sprul) | Manifestation, display; nirmāṇa means emanation. | 01-01-01-01:30 |
-
-### Technical Compounds
-
-| Term | Definition | First Appearance |
-|------|------------|------------------|
-| **view-meditation-conduct** (lta sgom spyod) | The three aspects of practice: view (understanding), meditation (familiarization), conduct (integration). | 01-08-01-01:10472 |
-| **cause-and-result** (rgyu 'bras) | Causality; causal vehicle (sutra) vs result vehicle (tantra). | 01-04-02-01:2567 |
-| **vessel-and-contents** (snod bcud) | Container world (universe) and contents (sentient beings). | 01-02-01-01:712 |
-
-### Technical Terms from Literal Layer Review
-
-| Term | Definition | First Appearance |
-|------|------------|------------------|
-| **vital-point** (gnad) | Critical juncture or key point; essential point in subtle body practice. | 01-11-02-01:13127 |
-| **channel-petal** (rtsa 'dab) | Petals of the chakra wheels; subtle energetic structures. | 01-11-01-01:13112 |
-| **light-body** ('od lus) | Body of light; form of manifestation in thögal practice. | 02-18-01-01:3952 |
-| **rigpa-radiance** (rig gdangs) | Self-expression or display of awareness; natural manifestation of rigpa. | 02-18-01-01:3968 |
-| **wind-radiance** (rlung gdangs) | Expression or display of prāṇa/wind energy. | 02-18-01-01:3967 |
-
-### Universal Compounds
-
-| Term | Definition | First Appearance |
-|------|------------|------------------|
-| **view-meditation-conduct** (lta sgom spyod) | The three aspects of practice: understanding, familiarization, and integration. | Throughout |
-| **cause-and-result** (rgyu 'bras) | Causality; the relationship between causes and their effects. | 01-04-02-01:2567 |
-| **vessel-and-contents** (snod bcud) | The container world (universe) and its contents (sentient beings). | 01-02-01-01:712 |
-
----
-
 ## APPENDIX: QUALITY METRICS (5th Draft - BYTE RATIOS)
 
 ### Target Byte Ratios for A++ Quality
@@ -471,4 +283,6 @@ Example: `01-04-12-01` = Volume 1, Chapter 4, Section 12, Subsection 1
 
 ---
 
-*Last Updated: 2026-02-15 - Byte-ratio quality metrics (more accurate than line ratios)*
+*Last Updated: 2026-02-18 - Alphabetical reorganization complete*
+
+---
