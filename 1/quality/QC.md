@@ -35,16 +35,16 @@ This assessment provides comprehensive qualitative analysis of all 1,491 files (
 
 | Color | Grade | Count | Percentage | Assessment |
 |-------|-------|-------|------------|------------|
-| 🔵 | **A++** | 679 | 45.5% | Exemplary: Meets all criteria plus exceeds standards |
-| 🟢 | **A** | 624 | 41.9% | Good: Meets all requirements |
-| 🟡 | **B** | 99 | 6.6% | Adequate: Functional coverage |
+| 🔵 | **A++** | 499 | 33.4% | Exemplary: Meets all criteria plus exceeds standards |
+| 🟢 | **A** | 656 | 44.0% | Good: Meets all requirements |
+| 🟡 | **B** | 247 | 16.6% | Adequate: Functional coverage with enhancement suggestions |
 | 🟠 | **C** | 47 | 3.2% | Thin: Limited coverage (mostly structural fragments) |
 | 🔴 | **D** | 0 | 0% | Major under-coverage |
 | 🟣 | **F** | 16 | 1.1% | Critical: Wylie contamination or insufficient coverage |
 
 **Total Assessments:** 1,491 (213 sections × 7 layers)  
-**Publication Ready (🔵/🟢/🟡):** 1,428 (95.8%)  
-**Could Enhance (🟠):** 47 (3.2%)  
+**Publication Ready (🔵/🟢/🟡):** 1,402 (94.0%)  
+**Could Enhance (🟠/🟡):** 295 (19.8%)  
 **Critical Repair (🟣):** 16 (1.1%)
 
 ### By Layer
@@ -55,7 +55,7 @@ This assessment provides comprehensive qualitative analysis of all 1,491 files (
 | **Epistemic** | 0 | 213 | 0 | 0 | 0 | 0 | Frozen/Complete |
 | **Scholar** | 188 | 25 | 0 | 0 | 0 | 0 | Excellent |
 | **Literal** | 165 | 33 | 0 | 0 | 0 | 15 | Frozen/Complete - Wylie contamination in 15 files (4 fixed) |
-| **Liturgical** | 180 | 33 | 0 | 0 | 0 | 0 | Frozen/Complete |
+| **Liturgical** | 0 | 65 | 148 | 0 | 0 | 0 | 69.5% adequate, 30.5% good - dharmic vocab could be enhanced |
 | **Delusion** | 146 | 30 | 6 | 30 | 0 | 1 | Excellent - 99.5% functional |
 | **Commentary** | 0 | 103 | 93 | 17 | 0 | 0 | 92% functional, 17 thin files |
 
@@ -759,14 +759,14 @@ Qualitative scan detected Wylie (Tibetan romanization) terms embedded in Literal
 
 | Grade | Count | Percentage |
 |-------|-------|------------|
-| 🔵 | 180 | 84.5% |
-| 🟢 | 33 | 15.5% |
-| 🟡 | 0 | 0% |
+| 🔵 | 0 | 0% |
+| 🟢 | 65 | 30.5% |
+| 🟡 | 148 | 69.5% |
 | 🟠 | 0 | 0% |
 | 🔴 | 0 | 0% |
 | 🟣 | 0 | 0% |
 
-**Status:** All files functional. 1:1 line matching with Tibetan verified. No placeholder content. Elegant Vairotsana voice maintained throughout.
+**Status:** 100% functional with 1:1 line matching. All files have proper XML tags (<verse>, <prose>, <tantra>, etc.). 65 files (30.5%) show excellent dharmic vocabulary and elegant phrasing. 148 files (69.5%) are adequate but could enhance vocabulary with more terms like Dharmakaya, Samantabhadra, primordial, spontaneous, self-arisen.
 
 #### Delusion Layer (Dynamic)
 
