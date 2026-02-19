@@ -44,7 +44,8 @@ This binary division reflects the fundamental saṃsāric dichotomy between seve
 
 [919-922] <philology>
 Analysis of Hell Realm Terminology
-**Analysis:**
+**Analysis:** This section presents the philological analysis of hell realm terminology, examining the etymological roots of Tibetan terms used to describe the sufferings of the lower realms (*ngan song*). The analysis draws from the *Abhidharmakośa* system of Vasubandhu, which classifies the eight hot hells (*tsha dmyal brgyad*) in ascending order of intensity based on karmic severity.
+
 - *dmyal ba* (hell): From root meaning "torture, affliction." The eight hot hells (*tsha dmyal brgyad*) are enumerated from Yama-soothed (*yang sos*) upward in intensity.
 - *chu bur can* (bubble-possessing): Refers to hells where beings blister like bubbles in extreme cold.
 - *nyi tshe ba* (occasional): From *nyi* (sun/day) + *tshe* (life), implying transient, intermittent manifestation.
@@ -66,7 +67,7 @@ This schema derives from *sūtra* literature (particularly *Avataṃsaka*) but i
 
 [923-926] <context>
 The Preta and Animal Realms in Buddhist Cosmology
-**Analysis:**
+**Analysis:** Longchenpa presents the intermediate realms between the hells and the higher god realms, focusing on the *yi dwags* (preta) and *dud 'gro* (animal) realms as cosmological locations characterized by specific types of suffering. These realms reflect the karmic maturation of stinginess (*ser sna*) and delusion (*gti mug*) respectively, following the standard Abhidharma classification found in the *Śrāvakabhūmi* and other Yogācāra sources.
 
 **Preta Realm (*yi dwags*):**
 - Etymology: From Sanskrit *preta*, "departed one, ghost"
@@ -80,7 +81,7 @@ The Preta and Animal Realms in Buddhist Cosmology
 
 [927-928] <concept>
 The Asura and Deva Realms
-**Analysis:**
+**Analysis:** This section delineates the upper realms of saṃsāric existence, contrasting the *lha ma yin* (asura/demigod) realm characterized by jealousy (*phrag dog*) and the *lha* (deva/god) realms marked by pleasure. The cosmological distinction reflects the three poisons (*dug gsum*) framework, with asuras representing the aggressive/competitive aspect of saṃsāric existence as described in the *Kāraṇḍavyūha Sūtra*.
 
 **Demigods (*lha ma yin* / Asura):**
 - Location: Below Mount Meru's water-line (*chu mtshams*), in hollow space (*khong gseng*)
@@ -93,7 +94,7 @@ The Asura and Deva Realms
 
 [929-935] <context>
 The Four Great Kings and Their Domains
-**Analysis:**
+**Analysis:** Longchenpa describes the architecture of the lower celestial realms (*'dod khams*), focusing on the *rgyal chen bzhi* (Four Great Kings) who serve as the primary guardians of the cardinal directions in Buddhist cosmology. Their residences on the seven mountain rings (*ri bdun*) surrounding Mount Meru reflect the Indian cosmographic model transmitted through the *Vibhāṣā* commentaries and integrated into Tibetan tantric mandala systems.
 
 **Cosmographic Structure:**
 Seven concentric mountain rings (*ri bdun*) surround Mount Meru, containing:
@@ -123,9 +124,7 @@ The "endurable" quality indicates that beings here can endure suffering—and th
 
 [936-940] <concept>
 The Karmic Function of Guardian Deities
-**Analysis:**
-
-Longchenpa describes these yakshas as actively sending (*gtong*) the four calamities:
+**Analysis:** This section examines the functional role of guardian deities (*gnod sbyin*) and yakshas as karmic administrators who regulate worldly conditions through the four calamities (*mu ge'i bskal pa bzhi*). Longchenpa describes these yakshas as actively sending (*gtong*) the four calamities:
 1. Human disease (*mi nad*)
 2. Animal disease (*phyugs nad*)
 3. Weapons/war (*mtshon*)
@@ -150,7 +149,7 @@ This hierarchical structure demonstrates both the specificity and universality o
 
 [941-952] <context>
 The Eight Naga Kings and Elemental Cosmology
-**Analysis:**
+**Analysis:** Longchenpa enumerates the eight great naga kings (*klu'i rgyal po brgyad*) who control precipitation and weather patterns in Jambudvīpa, drawing from Indian elemental cosmology transmitted through the *Mahābhārata* and Buddhist *sūtra* traditions. These naga-kings represent the hydraulic cycle essential to agriculture, embodying the interdependence between cosmic forces and human survival.
 
 **The Eight Great Nagas (*klu'i rgyal po brgyad*):**
 1. *dga' bo* (Joyful / Nanda)
@@ -177,7 +176,7 @@ The double negative (*mi mjed* = "not-unable-to-bear" = "able to bear") reflects
 
 [953-954] <structure>
 The Yakṣa Guardians of the Cardinal Directions
-**Analysis:**
+**Analysis:** This section completes the cosmological mandala-structure by identifying the four directional yakshas (*'degs dus kyi gnod sbyin*) who guard the cardinal points at Meru's base. These guardians represent the cosmographic completion of the container (*snod*) before the text transitions to the contained (*bcud*) — sentient beings and their karmic evolution.
 
 At the four corners (*grwa bzhi*) of Meru's base tier reside the "raising-time yakshas" (*'degs dus kyi gnod sbyin*) — four extremely powerful (*rab tu stobs dang ldan pa*) guardians.
 
@@ -187,7 +186,7 @@ At the four corners (*grwa bzhi*) of Meru's base tier reside the "raising-time y
 
 [955-959] <context>
 Seasonal Cycles and Cosmic Administration
-**Analysis:**
+**Analysis:** Longchenpa presents the cyclical temporal structure of the Indian agricultural calendar as integrated with Buddhist cosmology, where elemental forces (*'byung bzhi*) are personified as deities managing natural processes. The four seasons (*dus bzhi*) reflect the rhythmic alternation of cosmic forces that sustain life in Jambudvīpa.
 
 The yakshas and guardian deities regulate the four seasons (*dus bzhi*):
 1. **Summer** (*dbyar*): Rainfall (*char 'bab pa*) for crops
@@ -199,7 +198,7 @@ This reflects the Indian agricultural calendar integrated with Buddhist cosmolog
 
 [960-965] <structure>
 Definition of "Action Beings" (*las kyi 'gro ba*)
-**Analysis:**
+**Analysis:** This section introduces the technical classification of *las kyi 'gro ba* (action beings) distinguished from ordinary sentient beings by their collective karma (*spyi mthun gyi las*). These beings arise simultaneously with world-formation and perish with world-destruction, representing a specific category in Buddhist cosmological taxonomy derived from the *Abhidharmakośa*.
 
 Longchenpa introduces a technical classification:
 
@@ -227,7 +226,7 @@ This is the historical Buddha who appeared approximately 2,500 years ago in the 
 
 [966-980] <philology>
 The Asura Realm: Paradox of Proximity
-**Analysis:**
+**Analysis:** This philological analysis examines the *lha ma yin* (asura) realm's paradoxical status — physically proximate to the gods yet psychologically distant due to jealousy. The term *lha ma yin* literally "non-god" (*ma* negating) reflects their intermediate position in the saṃsāric hierarchy as described in the *Devāsura-saṅgraha* narratives.
 
 **Etymology:** *lha ma yin* (non-god, demigod) — the *ma* negates full divine status while acknowledging quasi-divine characteristics.
 
@@ -281,7 +280,7 @@ The assembly is described as (*dpag tu med pa*) "immeasurable" and (*grangs med 
 
 [981-988] <concept>
 The Nature of Asura Enjoyment
-**Analysis:**
+**Analysis:** Longchenpa analyzes the psychological condition of asuras who, despite possessing abundant enjoyments (*longs spyod*), cannot experience happiness due to obsessive jealousy (*phrag dog*). This illustrates the Buddhist teaching that mental afflictions (*kleśa*) obstruct satisfaction regardless of external circumstances — a principle central to the *Dhammapada* and Abhidharma psychology.
 
 The text enumerates asura possessions:
 - Trees, groves, horses, elephants
@@ -293,7 +292,7 @@ The text enumerates asura possessions:
 
 [989-994] <context>
 The Six Desire God Realms (*'dod lha'i gnas drug*)
-**Analysis:**
+**Analysis:** This section presents the six heavens (*'dod lha'i gnas drug*) of the desire realm (*kāma-dhātu*), mapping them onto celestial bodies and geographical features. The cosmographic correlation reflects the integration of Indian astronomical observations with Buddhist soteriology, where progressively subtle realms correspond to increasingly refined states of consciousness.
 
 Longchenpa enumerates the six heavens of the desire realm:
 
@@ -323,7 +322,7 @@ Plus the tantras (*rgyud*), which in Nyingma understanding are the esoteric dime
 
 [995-996] <philology>
 The Four Desire Realm Tiers (*bang rim bzhi*)
-**Analysis:**
+**Analysis:** Longchenpa identifies four hierarchical tiers (*bang rim bzhi*) within the desire realm heavens, characterized by distinct attributes that reflect progressive refinement of divine enjoyment. This quadripartite structure parallels the four material elements (*'byung bzhi*) and establishes cosmological correspondences fundamental to tantric practice.
 
 Within these six heavens exist four specific tiers characterized by unique attributes:
 

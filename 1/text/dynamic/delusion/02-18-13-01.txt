@@ -14,7 +14,10 @@ Recognition substantialized as measurable attainment. "I've reached the measure.
 - Missing that recognition has no measure
 
 **Cascade effects:**
-Triggers <measure-goal> (quantifiable target), <recognition-attainment> (reaching), <progress-obsession> (tracking advancement), <recognition-prevention> (measure obscures measure-less).
+<measure-goal> → quantifiable target
+<recognition-attainment> → reaching
+<progress-obsession> → tracking advancement
+<recognition-prevention> → measure obscures measure-less
 
 ---
 
@@ -34,7 +37,9 @@ Awareness substantialized as ground-entity. "Ground awareness is the basis." The
 - Missing that awareness is not entity
 
 **Cascade effects:**
-Triggers <ground-entity> (ontological basis), <awareness-reification> (consciousness thing), <recognition-prevention> (entity obscures non-entity).
+<ground-entity> → ontological basis
+<awareness-reification> → consciousness thing
+<recognition-prevention> → entity obscures non-entity
 
 ---
 
@@ -54,7 +59,9 @@ Path substantialized as progression. "I'm entering the path stages." Immediate p
 - Missing that path is immediate recognition
 
 **Cascade effects:**
-Triggers <path-progression> (step-by-step), <entry-hierarchy> (stages of access), <recognition-prevention> (sequence obscures immediate).
+<path-progression> → step-by-step
+<entry-hierarchy> → stages of access
+<recognition-prevention> → sequence obscures immediate
 
 ---
 
@@ -74,7 +81,9 @@ Appearance substantialized as external. "Ground appearances are happening to me.
 - Missing that appearances are own display
 
 **Cascade effects:**
-Triggers <ground-external> (outside appearance), <projection-dualism> (appearing to me), <recognition-prevention> (external obscures self-display).
+<ground-external> → outside appearance
+<projection-dualism> → appearing to me
+<recognition-prevention> → external obscures self-display
 
 ---
 
@@ -94,7 +103,9 @@ Perfection substantialized as magic-door. "The spontaneous door is opening." Nat
 - Missing that perfection is natural
 
 **Cascade effects:**
-Triggers <door-magic> (portal power), <vision-production> (making appearances), <recognition-prevention> (magic obscures natural).
+<door-magic> → portal power
+<vision-production> → making appearances
+<recognition-prevention> → magic obscures natural
 
 ---
 
@@ -114,7 +125,9 @@ Exhaustion substantialized as achievement. "I've exhausted path appearances." Na
 - Missing that exhaustion is natural resolution
 
 **Cascade effects:**
-Triggers <exhaustion-achievement> (ending as goal), <path-completion> (finishing), <recognition-prevention> (goal obscures natural).
+<exhaustion-achievement> → ending as goal
+<path-completion> → finishing
+<recognition-prevention> → goal obscures natural
 
 ---
 
@@ -134,7 +147,9 @@ Completion substantialized as success. "I've completed the mandala." Natural com
 - Missing that mandala is always complete
 
 **Cascade effects:**
-Triggers <mandala-success> (completion achievement), <visualization-pride> (I made it), <recognition-prevention> (doing obscures natural-complete).
+<mandala-success> → completion achievement
+<visualization-pride> → I made it
+<recognition-prevention> → doing obscures natural-complete
 
 ---
 
@@ -154,7 +169,9 @@ Measure substantialized as number. "The measure is half complete." The immeasura
 - Missing that measure is metaphorical
 
 **Cascade effects:**
-Triggers <measure-quantification> (counting), <limit-obsession> (boundaries), <recognition-prevention> (measure obscures immeasurable).
+<measure-quantification> → counting
+<limit-obsession> → boundaries
+<recognition-prevention> → measure obscures immeasurable
 
 ---
 
@@ -174,7 +191,9 @@ Beyond substantialized as state. "I've gone beyond limits." Natural limitlessnes
 - Missing that beyond is natural, not achieved
 
 **Cascade effects:**
-Triggers <beyond-state> (transcendent condition), <limit-breaking> (surpassing), <recognition-prevention> (transcendence obscures natural).
+<beyond-state> → transcendent condition
+<limit-breaking> → surpassing
+<recognition-prevention> → transcendence obscures natural
 
 ---
 
@@ -194,7 +213,9 @@ Analogy substantialized as prescription. "I should see a moon-like vision." Meta
 - Missing that analogy points to nature
 
 **Cascade effects:**
-Triggers <moon-literalism> (seeing moon), <analogy-prescription> (should look like), <recognition-prevention> (literal obscures metaphorical).
+<moon-literalism> → seeing moon
+<analogy-prescription> → should look like
+<recognition-prevention> → literal obscures metaphorical
 
 ---
 
@@ -214,7 +235,9 @@ Fluctuation substantialized as cycle. "I observe the waxing and waning." Natural
 - Missing that waxing/waning is metaphor
 
 **Cascade effects:**
-Triggers <cycle-observation> (watching fluctuation), <process-monitoring> (tracking change), <recognition-prevention> (temporal obscures timeless).
+<cycle-observation> → watching fluctuation
+<process-monitoring> → tracking change
+<recognition-prevention> → temporal obscures timeless
 
 ---
 
@@ -234,7 +257,9 @@ Irreparability substantialized as defect. "Nothing can be fixed." Natural perfec
 - Missing that irreparable is naturally perfect
 
 **Cascade effects:**
-Triggers <irreparable-defect> (brokenness), <helpless-resignation> (can't fix), <recognition-prevention> (defect obscures perfection).
+<irreparable-defect> → brokenness
+<helpless-resignation> → can't fix
+<recognition-prevention> → defect obscures perfection
 
 ---
 
@@ -254,7 +279,9 @@ Measures substantialized as levels. "I'm at the secret measure now." Equal natur
 - Missing that all measures are equal aspects
 
 **Cascade effects:**
-Triggers <measure-hierarchy> (levels), <secret-elitism> (higher is better), <recognition-prevention> (ranking obscures equality).
+<measure-hierarchy> → levels
+<secret-elitism> → higher is better
+<recognition-prevention> → ranking obscures equality
 
 ---
 
@@ -274,7 +301,9 @@ Appearance substantialized as objective. "I see external visions." Self-display 
 - Missing that appearances are mind
 
 **Cascade effects:**
-Triggers <external-objectivity> (outside reality), <vision-realism> (actual seeing), <recognition-prevention> (external obscures self-display).
+<external-objectivity> → outside reality
+<vision-realism> → actual seeing
+<recognition-prevention> → external obscures self-display
 
 ---
 
@@ -294,7 +323,9 @@ Body substantialized as transforming. "My body is changing." The illusory nature
 - Missing that body is empty display
 
 **Cascade effects:**
-Triggers <body-transformation> (physical change), <somatic-obsession> (bodily signs), <recognition-prevention> (physical obscures empty).
+<body-transformation> → physical change
+<somatic-obsession> → bodily signs
+<recognition-prevention> → physical obscures empty
 
 ---
 
@@ -314,7 +345,9 @@ Awareness substantialized as secret. "I know the secret measure." Open availabil
 - Missing that awareness is openly present
 
 **Cascade effects:**
-Triggers <secret-elitism> (hidden knowledge), <esoteric-exclusivity> (select access), <recognition-prevention> (secret obscures obvious).
+<secret-elitism> → hidden knowledge
+<esoteric-exclusivity> → select access
+<recognition-prevention> → secret obscures obvious
 
 ---
 
@@ -334,7 +367,9 @@ Light substantialized as controllable. "I master the light." Natural display obs
 - Missing that light is naturally self-liberated
 
 **Cascade effects:**
-Triggers <light-mastery> (controlling luminosity), <power-obsession> (ability pride), <recognition-prevention> (control obscures natural).
+<light-mastery> → controlling luminosity
+<power-obsession> → ability pride
+<recognition-prevention> → control obscures natural
 
 ---
 
@@ -354,7 +389,9 @@ Field substantialized as place. "I reach the pure field." Non-local nature obscu
 - Missing that field is mind-nature
 
 **Cascade effects:**
-Triggers <field-destination> (place seeking), <pure-land-tourism> (going there), <recognition-prevention> (place obscures place-less).
+<field-destination> → place seeking
+<pure-land-tourism> → going there
+<recognition-prevention> → place obscures place-less
 
 ---
 
@@ -374,7 +411,9 @@ Certainty substantialized as possession. "I have obtained certainty." Natural ce
 - Missing that certainty is natural, not obtained
 
 **Cascade effects:**
-Triggers <certainty-possession> (having knowledge), <conclusion-arrogance> (definite answer), <recognition-prevention> (obtained obscures natural).
+<certainty-possession> → having knowledge
+<conclusion-arrogance> → definite answer
+<recognition-prevention> → obtained obscures natural
 
 ---
 
@@ -394,7 +433,9 @@ Cessation substantialized as suppression. "I must stop appearances." Natural res
 - Missing that cessation is natural
 
 **Cascade effects:**
-Triggers <cessation-suppression> (stopping), <appearance-rejection> (avoiding ordinary), <recognition-prevention> (suppression obscures natural).
+<cessation-suppression> → stopping
+<appearance-rejection> → avoiding ordinary
+<recognition-prevention> → suppression obscures natural
 
 ---
 
@@ -414,7 +455,9 @@ Dissolution substantialized as physical. "The earth is melting." Metaphorical me
 - Missing that dissolution is cognitive
 
 **Cascade effects:**
-Triggers <literal-dissolution> (physical melting), <matter-magic> (transforming earth), <recognition-prevention> (literal obscures metaphorical).
+<literal-dissolution> → physical melting
+<matter-magic> → transforming earth
+<recognition-prevention> → literal obscures metaphorical
 
 ---
 
@@ -434,7 +477,9 @@ Penetration substantialized as omniscience. "I know everything now." Natural kno
 - Missing that penetration is non-conceptual
 
 **Cascade effects:**
-Triggers <omniscience-claim> (knowing all), <knowledge-god> (all-penetrating), <recognition-prevention> (conceptual obscures non-conceptual).
+<omniscience-claim> → knowing all
+<knowledge-god> → all-penetrating
+<recognition-prevention> → conceptual obscures non-conceptual
 
 ---
 
@@ -454,7 +499,9 @@ Movement substantialized as miracle. "I made the stone move." Symbolic meaning o
 - Missing that movement is metaphorical
 
 **Cascade effects:**
-Triggers <miracle-movement> (animating matter), <physical-power> (making things move), <recognition-prevention> (miracle obscures metaphor).
+<miracle-movement> → animating matter
+<physical-power> → making things move
+<recognition-prevention> → miracle obscures metaphor
 
 ---
 
@@ -474,7 +521,9 @@ Wind substantialized as controllable. "I control wind movements." Natural flow o
 - Missing that wind is naturally self-liberated
 
 **Cascade effects:**
-Triggers <wind-control> (controlling energy), <movement-mastery> (power over flow), <recognition-prevention> (control obscures natural).
+<wind-control> → controlling energy
+<movement-mastery> → power over flow
+<recognition-prevention> → control obscures natural
 
 ---
 
@@ -494,7 +543,9 @@ Vision substantialized as physical. "I see atoms." The empty nature of perceptio
 - Missing that particles are metaphorical
 
 **Cascade effects:**
-Triggers <atomic-vision> (seeing particles), <microscopic-power> (tiny seeing), <recognition-prevention> (physical obscures empty).
+<atomic-vision> → seeing particles
+<microscopic-power> → tiny seeing
+<recognition-prevention> → physical obscures empty
 
 ---
 
@@ -514,7 +565,9 @@ Completion substantialized as making. "I've completed the form body." Natural co
 - Missing that form body is naturally present
 
 **Cascade effects:**
-Triggers <form-body-making> (creating), <completion-pride> (achievement), <recognition-prevention> (making obscures natural).
+<form-body-making> → creating
+<completion-pride> → achievement
+<recognition-prevention> → making obscures natural
 
 ---
 
@@ -534,7 +587,9 @@ Union substantialized as sexual. "The deities are uniting." Symbolic meaning obs
 - Missing that union is non-dual symbol
 
 **Cascade effects:**
-Triggers <sexual-union-literal> (physical joining), <gender-duality> (male/female), <recognition-prevention> (literal obscures symbolic).
+<sexual-union-literal> → physical joining
+<gender-duality> → male/female
+<recognition-prevention> → literal obscures symbolic
 
 ---
 
@@ -554,7 +609,9 @@ Pattern substantialized as numerology. "Five is the magic number." Pedagogical f
 - Missing that five is conventional designation
 
 **Cascade effects:**
-Triggers <five-numerology> (magic number), <pattern-mysticism> (significance in numbers), <recognition-prevention> (numerology obscures pointing).
+<five-numerology> → magic number
+<pattern-mysticism> → significance in numbers
+<recognition-prevention> → numerology obscures pointing
 
 ---
 
@@ -574,7 +631,9 @@ Periphery substantialized as shape. "The circle must be perfect." Symbolic funct
 - Missing that shape is conventional
 
 **Cascade effects:**
-Triggers <circle-geometry> (perfect round), <periphery-shape> (boundary form), <recognition-prevention> (shape obscures nature).
+<circle-geometry> → perfect round
+<periphery-shape> → boundary form
+<recognition-prevention> → shape obscures nature
 
 ---
 
@@ -594,7 +653,9 @@ Luminosity substantialized as physical light. "My body is glowing." The empty na
 - Missing that luminosity is nature, not light
 
 **Cascade effects:**
-Triggers <body-glow> (physical shining), <luminosity-physical> (actual light), <recognition-prevention> (physical obscures empty).
+<body-glow> → physical shining
+<luminosity-physical> → actual light
+<recognition-prevention> → physical obscures empty
 
 ---
 
@@ -614,7 +675,9 @@ Motion substantialized as physical. "I'm moving in the vision." The still nature
 - Missing that going/coming is metaphorical
 
 **Cascade effects:**
-Triggers <physical-movement> (actual going), <vision-activity> (doing in appearances), <recognition-prevention> (motion obscures stillness).
+<physical-movement> → actual going
+<vision-activity> → doing in appearances
+<recognition-prevention> → motion obscures stillness
 
 ---
 
@@ -634,7 +697,9 @@ Reaching substantialized as ending. "I've fully reached recognition." Continuous
 - Missing that recognition is ongoing
 
 **Cascade effects:**
-Triggers <completion-arrogance> (finished), <practice-cessation> (stopping), <recognition-prevention> (ending obscures continuous).
+<completion-arrogance> → finished
+<practice-cessation> → stopping
+<recognition-prevention> → ending obscures continuous
 
 ---
 
@@ -654,7 +719,9 @@ Purification substantialized as physical. "My body is becoming pure." The empty 
 - Missing that purification is recognition
 
 **Cascade effects:**
-Triggers <physical-purity> (cleansing body), <element-transmutation> (changing matter), <recognition-prevention> (physical obscures empty).
+<physical-purity> → cleansing body
+<element-transmutation> → changing matter
+<recognition-prevention> → physical obscures empty
 
 ---
 
@@ -674,7 +741,9 @@ A-letter substantialized as object. "I see the white A in my heart." Symbolic me
 - Missing that A is symbol for unborn
 
 **Cascade effects:**
-Triggers <A-letter-vision> (seeing white A), <heart-location> (center fixation), <recognition-prevention> (object obscures symbol).
+<A-letter-vision> → seeing white A
+<heart-location> → center fixation
+<recognition-prevention> → object obscures symbol
 
 ---
 
@@ -694,7 +763,9 @@ Rays substantialized as physical. "I see five rays coiling." The empty nature ob
 - Missing that rays are empty display
 
 **Cascade effects:**
-Triggers <ray-coiling> (seeing twist), <light-shape> (form obsession), <recognition-prevention> (visual obscures empty).
+<ray-coiling> → seeing twist
+<light-shape> → form obsession
+<recognition-prevention> → visual obscures empty
 
 ---
 
@@ -714,7 +785,9 @@ Aperture substantialized as physical. "I see through the window." Metaphorical m
 - Missing that aperture is metaphor for perception
 
 **Cascade effects:**
-Triggers <window-literal> (seeing through), <aperture-physical> (actual opening), <recognition-prevention> (spatial obscures metaphorical).
+<window-literal> → seeing through
+<aperture-physical> → actual opening
+<recognition-prevention> → spatial obscures metaphorical
 
 ---
 
@@ -734,7 +807,9 @@ Light substantialized as measurable. "The light is exactly one cubit." Empty nat
 - Missing that measurement is conventional
 
 **Cascade effects:**
-Triggers <light-measurement> (precise size), <cubit-exactness> (one cubit exactly), <recognition-prevention> (measure obscures immeasurable).
+<light-measurement> → precise size
+<cubit-exactness> → one cubit exactly
+<recognition-prevention> → measure obscures immeasurable
 
 ---
 
@@ -754,7 +829,9 @@ Protrusion substantialized as physical. "My crown is held up by wind." Symbolic 
 - Missing that protrusion is symbol
 
 **Cascade effects:**
-Triggers <crown-physical> (actual protrusion), <wind-support> (energy holding), <recognition-prevention> (physical obscures symbolic).
+<crown-physical> → actual protrusion
+<wind-support> → energy holding
+<recognition-prevention> → physical obscures symbolic
 
 ---
 
@@ -774,7 +851,9 @@ Description substantialized as physical. "My fingers emit light garlands." Symbo
 - Missing that description is metaphor
 
 **Cascade effects:**
-Triggers <finger-light> (emitting from digits), <body-part-radiance> (anatomy glow), <recognition-prevention> (physical obscures metaphorical).
+<finger-light> → emitting from digits
+<body-part-radiance> → anatomy glow
+<recognition-prevention> → physical obscures metaphorical
 
 ---
 
@@ -794,7 +873,9 @@ Activity substantialized as mental. "My mind is active but silent." The non-ment
 - Missing that mind is not entity
 
 **Cascade effects:**
-Triggers <silent-mental> (non-verbal thinking), <mind-activity> (mental doing), <recognition-prevention> (mental obscures non-mental).
+<silent-mental> → non-verbal thinking
+<mind-activity> → mental doing
+<recognition-prevention> → mental obscures non-mental
 
 ---
 
@@ -814,7 +895,9 @@ Palace substantialized as physical. "My skull is a palace." Symbolic meaning obs
 - Missing that palace is metaphor for mind
 
 **Cascade effects:**
-Triggers <skull-palace> (head as building), <cranial-architecture> (anatomy structure), <recognition-prevention> (literal obscures symbolic).
+<skull-palace> → head as building
+<cranial-architecture> → anatomy structure
+<recognition-prevention> → literal obscures symbolic
 
 ---
 
@@ -834,7 +917,9 @@ Manifestation substantialized as deity. "Herukas are appearing." Empty display o
 - Missing that herukas are own display
 
 **Cascade effects:**
-Triggers <deity-manifestation> (gods appearing), <heruka-worship> (deity devotion), <recognition-prevention> (external obscures self-display).
+<deity-manifestation> → gods appearing
+<heruka-worship> → deity devotion
+<recognition-prevention> → external obscures self-display
 
 ---
 
@@ -854,7 +939,9 @@ Reaching substantialized as physical change. "My body is fully transformed." Nat
 - Missing that body is always empty
 
 **Cascade effects:**
-Triggers <body-transformation> (physical change), <measure-completion> (full achievement), <recognition-prevention> (change obscures always-empty).
+<body-transformation> → physical change
+<measure-completion> → full achievement
+<recognition-prevention> → change obscures always-empty
 
 ---
 
@@ -874,7 +961,9 @@ Perfection substantialized as unification. "I've unified the three kayas." Natur
 - Missing that kayas are never separate
 
 **Cascade effects:**
-Triggers <kaya-unification> (making one), <three-to-one> (reducing plurality), <recognition-prevention> (unification obscures never-separated).
+<kaya-unification> → making one
+<three-to-one> → reducing plurality
+<recognition-prevention> → unification obscures never-separated
 
 ---
 
@@ -894,7 +983,9 @@ Purification substantialized as mental hygiene. "I've purified my mind." Natural
 - Missing that purification is recognition
 
 **Cascade effects:**
-Triggers <mind-purification> (cleaning thoughts), <psychological-cleansing> (mental hygiene), <recognition-prevention> (cleaning obscures naturally-pure).
+<mind-purification> → cleaning thoughts
+<psychological-cleansing> → mental hygiene
+<recognition-prevention> → cleaning obscures naturally-pure
 
 ---
 
@@ -914,7 +1005,9 @@ Alaya substantialized as metaphysics. "Only consciousness is real." The empty na
 - Missing that alaya is empty too
 
 **Cascade effects:**
-Triggers <idealism-position> (mind-only philosophy), <matter-illusion> (denying physical), <recognition-prevention> (position obscures emptiness-of-position).
+<idealism-position> → mind-only philosophy
+<matter-illusion> → denying physical
+<recognition-prevention> → position obscures emptiness-of-position
 
 ---
 
@@ -934,7 +1027,9 @@ Qualities substantialized as powers. "Recognition gives me clairvoyance." Natura
 - Missing that qualities are natural display
 
 **Cascade effects:**
-Triggers <quality-power> (special abilities), <clairvoyance-claim> (knowing minds), <recognition-prevention> (power obscures power-less).
+<quality-power> → special abilities
+<clairvoyance-claim> → knowing minds
+<recognition-prevention> → power obscures power-less
 
 ---
 
@@ -954,7 +1049,9 @@ Knowing substantialized as omniscience. "I know all phenomena." Natural knowing 
 - Missing that knowing is non-conceptual
 
 **Cascade effects:**
-Triggers <omniscience-knowing> (all phenomena), <scope-infinity> (near and far), <recognition-prevention> (conceptual obscures non-conceptual).
+<omniscience-knowing> → all phenomena
+<scope-infinity> → near and far
+<recognition-prevention> → conceptual obscures non-conceptual
 
 ---
 
@@ -974,7 +1071,9 @@ Vision substantialized as objective. "I see infinite buddhas." Self-display natu
 - Missing that all are own display
 
 **Cascade effects:**
-Triggers <buddha-vision> (seeing beings), <field-tourism> (visiting pure lands), <recognition-prevention> (external obscures self-display).
+<buddha-vision> → seeing beings
+<field-tourism> → visiting pure lands
+<recognition-prevention> → external obscures self-display
 
 ---
 
@@ -994,7 +1093,9 @@ Purification substantialized as stain-removal. "I've removed all stains." Natura
 - Missing that stains were never real
 
 **Cascade effects:**
-Triggers <stain-removal> (cleaning mind), <defilement-paranoia> (finding dirt), <recognition-prevention> (cleaning obscures never-stained).
+<stain-removal> → cleaning mind
+<defilement-paranoia> → finding dirt
+<recognition-prevention> → cleaning obscures never-stained
 
 ---
 
@@ -1014,7 +1115,9 @@ Unmoving substantialized as stability-goal. "I've attained unmoving nature." Nat
 - Missing that unmoving is natural, not attained
 
 **Cascade effects:**
-Triggers <unmoving-goal> (stability achievement), <permanence-fantasy> (never changing), <recognition-prevention> (attained obscures natural).
+<unmoving-goal> → stability achievement
+<permanence-fantasy> → never changing
+<recognition-prevention> → attained obscures natural
 
 ---
 
@@ -1034,7 +1137,9 @@ Reaching substantialized as state-attainment. "I've reached empty clarity." Natu
 - Missing that empty-clarity is always present
 
 **Cascade effects:**
-Triggers <empty-clarity-state> (destination), <reaching-attainment> (arrival), <recognition-prevention> (state obscures state-less).
+<empty-clarity-state> → destination
+<reaching-attainment> → arrival
+<recognition-prevention> → state obscures state-less
 
 ---
 
@@ -1054,7 +1159,9 @@ Attributes substantialized as possession. "I have these qualities." Natural attr
 - Missing that attributes are natural display
 
 **Cascade effects:**
-Triggers <quality-possession> (having attributes), <unmixed-purity> (special state), <recognition-prevention> (attributes obscure attribute-less).
+<quality-possession> → having attributes
+<unmixed-purity> → special state
+<recognition-prevention> → attributes obscure attribute-less
 
 ---
 
@@ -1074,7 +1181,9 @@ Freedom substantialized as overcoming. "I've transcended multiplicity." Natural 
 - Missing that many/one are equally empty
 
 **Cascade effects:**
-Triggers <multiplicity-transcendence> (overcoming many), <unity-achievement> (oneness), <recognition-prevention> (transcendence obscures natural-diversity).
+<multiplicity-transcendence> → overcoming many
+<unity-achievement> → oneness
+<recognition-prevention> → transcendence obscures natural-diversity
 
 ---
 
