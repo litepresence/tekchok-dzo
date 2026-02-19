@@ -1,5 +1,4 @@
-[11335-11348] [lines 10742-10754]
-[ONTOLOGICAL ERROR, REIFICATION ERROR, MEDITATIONISM ERROR]
+[11335-11348] <ontological-error> <reification-error> <meditationism-error>
 **Misreading:**
 The text presents the seventh position: self-arisen wisdom transcends existence and non-existence, beyond elaboration. A reader might think: "This is the ultimate truth! The base is pure wisdom that transcends all conceptual extremes."
 
@@ -7,7 +6,7 @@ The text presents the seventh position: self-arisen wisdom transcends existence 
 The enumeration sounds like the highest teaching—beyond existence/non-existence, beyond elaboration. This is what seekers want: the final, definitive description of ultimate reality. It feels like arriving home.
 
 **Primary consequence:**
-The practitioner reifies "wisdom" (ye shes) as the ultimate reality, transcending all conceptual extremes. This mutates into a new supreme entity—"Wisdom" with a capital W. The Great Perfection warps into the Great Reification.
+The practitioner reifies "wisdom" (ye shes) as the ultimate reality, transcending all conceptual extremes. This mutates into new supreme entity—"Wisdom" with a capital W. The Great Perfection warps into the Great Reification.
 
 **Secondary consequences:**
 1. Clinging to "wisdom" as a state or attainment
@@ -16,10 +15,11 @@ The practitioner reifies "wisdom" (ye shes) as the ultimate reality, transcendin
 4. Missing that even "wisdom" is a concept
 
 **Cascade effects:**
-This triggers ETERNALISTIC ERROR (reified wisdom) → MEDITATIONISM ERROR (seeking experiences of "wisdom") → PEDAGOGICAL ERROR (teaching "wisdom" rather than pointing). The practitioner creates a cult of ineffable wisdom.
+<eternalistic-error> → reified wisdom
+<meditationism-error> → seeking experiences of "wisdom"
+<pedagogical-error> → teaching "wisdom" rather than pointing. The practitioner creates <a cult of ineffable wisdom.
 
-[11349-11363] [lines 10746-10754]
-[ONTOLOGICAL ERROR, EPISTEMIC ERROR, NIHILISTIC ERROR]
+[11349-11363] <ontological-error> <epistemic-error> <nihilistic-error>
 **Misreading:**
 The text refutes the position that wisdom is nothing at all, no nature anywhere. A reader might think: "This proves there IS something—wisdom exists, Buddha-nature exists, even if we can't say what it is."
 
@@ -36,10 +36,11 @@ The practitioner insists that wisdom/awareness/Buddha-nature "exists" in some se
 4. Missing that existence/non-existence are both extremes
 
 **Cascade effects:**
-This generates ETERNALISTIC ERROR (affirming existence) → PSYCHOLOGIZATION ERROR (needing something to exist for psychological security) → SCHOLARLY COLLAPSE ERROR (debating existence vs non-existence). The practitioner is caught in the same dualism.
+<eternalistic-error> → affirming existence
+<psychologization-error> → needing something to exist for psychological security
+<scholarly-collapse-error> → debating existence vs non-existence. The practitioner is caught in the same dualism.
 
-[11364-11379] [lines 10755-10757]
-[ONTOLOGICAL ERROR, EPISTEMIC ERROR, SCHOLARLY COLLAPSE ERROR]
+[11364-11379] <ontological-error> <epistemic-error> <scholarly-collapse-error>
 **Misreading:**
 The text transitions to establishing the author's own view: primordially pure and spontaneously accomplished are non-dual. A reader might think: "Finally, the positive teaching! The base is the non-dual unity of purity and spontaneity."
 
@@ -50,16 +51,16 @@ Relief after pages of negation. The mind desperately wants something positive to
 The practitioner reifies "non-duality" as a metaphysical principle. "The base is the non-dual unity of X and Y" warps into the new creed. Non-duality inverts into a dualistic position (non-dual vs dual).
 
 **Secondary consequences:**
-1. "Non-dual" mutates into a badge of spiritual attainment
+1. "Non-dual" mutates into badge of spiritual attainment
 2. Debates about what is "really" non-dual
 3. Missing that non-duality is not a position
 4. Conceptual confusion masquerading as realization
 
 **Cascade effects:**
-This triggers ETERNALISTIC ERROR (reified non-duality) → SCHOLARLY COLLAPSE ERROR (philosophical system-building around non-duality) → PEDAGOGICAL ERROR (teaching non-duality as doctrine). The tradition mutates into a school of non-dual metaphysics.
+This triggers <eternalistic-error> (reified non-duality) → SCHOLARLY COLLAPSE ERROR (philosophical system-building around non-duality) → PEDAGOGICAL ERROR (teaching non-duality as doctrine). The tradition mutates into school of non-dual metaphysics.
 
-[11380-11387] [lines 10758-10765]
-[ONTOLOGICAL ERROR, REIFICATION ERROR, EPISTEMIC ERROR]
+[11380-11387] 
+<ontological-error> <reification-error> <epistemic-error>
 **Misreading:**
 The text describes the base as having two aspects: primordially pure essence (ka dag) and spontaneously accomplished nature (lhun grub). A reader might think: "So the base HAS these two aspects - they are real characteristics of the ultimate reality."
 
@@ -67,7 +68,7 @@ The text describes the base as having two aspects: primordially pure essence (ka
 The mind naturally categorizes and reifies descriptive language into inherent properties. When taught "two aspects," we assume dual attributes belonging to a substratum. This is how language structures perception.
 
 **Primary consequence:**
-The base devolves into an entity possessing two qualities, like an object with two sides. "Primordial purity" and "spontaneous accomplishment" are reified as metaphysical features, creating a subtle dualism within non-duality.
+The base devolves inton entity possessing two qualities, like an object with two sides. "Primordial purity" and "spontaneous accomplishment" are reified as metaphysical features, creating a subtle dualism within non-duality.
 
 **Secondary consequences:**
 1. Philosophical debates about which aspect is primary
@@ -76,10 +77,10 @@ The base devolves into an entity possessing two qualities, like an object with t
 4. Creating a map of reality rather than recognizing it
 
 **Cascade effects:**
-This leads to SCHOLARLY COLLAPSE ERROR (endless categorization) → MEDITATIONISM ERROR (seeking experiences of aspects) → PEDAGOGICAL ERROR (teaching the two aspects as doctrine). The Dzogchen mutates into a philosophical system.
+This leads to <scholarly-collapse-error> (endless categorization) → MEDITATIONISM ERROR (seeking experiences of aspects) → PEDAGOGICAL ERROR (teaching the two aspects as doctrine). The Dzogchen mutates into philosophical system.
 
-[11388-11395] [lines 10766-10773]
-[ONTOLOGICAL ERROR, EPISTEMIC ERROR, Nihilistic ERROR]
+[11388-11395] 
+<ontological-error> <epistemic-error> <nihilistic-error>
 **Misreading:**
 The text extensively negates: no essence, no nature, no Buddha, no sentient beings, nothing established. A reader might think: "This is utter emptiness, absolute nothingness. The base is a void, a blankness without any characteristics whatsoever."
 
@@ -87,7 +88,7 @@ The text extensively negates: no essence, no nature, no Buddha, no sentient bein
 Western interpretation of Buddhist emptiness often slides into nihilism. When told "nothing exists," we imagine a vacuity, an absence of all qualities. This is the shadow side of scientific materialism - existential meaninglessness.
 
 **Primary consequence:**
-The practitioner understands the base as "nothing at all" - empty in the sense of vacant, absent, non-existent. This leads to despair, disengagement, or quietistic withdrawal from life.
+The practitioner understands the base as "nothing at all" - empty in the sense of vacant, absent, non-existent. This leads to <despair, disengagement, or quietistic withdrawal from life.
 
 **Secondary consequences:**
 1. Nihilistic interpretation of emptiness
@@ -96,10 +97,10 @@ The practitioner understands the base as "nothing at all" - empty in the sense o
 4. Missing that emptiness is not absence but fullness without fixation
 
 **Cascade effects:**
-This triggers NIHILISTIC ERROR → MEDITATIONISM ERROR (seeking void states) → PRACTICE ERROR (disengagement from compassionate activity). The practitioner mutates into a spiritual nihilist.
+This triggers <NIHILISTIC error> → MEDITATIONISM ERROR (seeking void states) → PRACTICE ERROR (disengagement from compassionate activity). The practitioner mutates into spiritual nihilist.
 
-[11396-11403] [lines 10774-10790]
-[ONTOLOGICAL ERROR, REIFICATION ERROR, EPISTEMIC ERROR]
+[11396-11403] 
+<ontological-error> <reification-error> <epistemic-error>
 **Misreading:**
 The text presents extensive logical arguments defending the non-dual position against objections. A reader might think: "This is a rigorous philosophical proof establishing the correct view. The reasoning demonstrates that the base really is non-dual."
 
@@ -107,7 +108,7 @@ The text presents extensive logical arguments defending the non-dual position ag
 Western education values logical argumentation as the path to truth. When we encounter philosophical reasoning, we assume it's meant to prove something. The more sophisticated the logic, the more "true" the conclusion seems.
 
 **Primary consequence:**
-The practitioner treats the logical arguments as proofs establishing ontological facts. Non-duality mutates into a philosophical position defended by reasoning, rather than a direct recognition beyond intellect.
+The practitioner treats the logical arguments as proofs establishing ontological facts. Non-duality mutates into philosophical position defended by reasoning, rather than a direct recognition beyond intellect.
 
 **Secondary consequences:**
 1. Intellectual understanding mistaken for realization
@@ -116,10 +117,10 @@ The practitioner treats the logical arguments as proofs establishing ontological
 4. Missing that reasoning is a finger pointing, not the moon
 
 **Cascade effects:**
-This generates SCHOLARLY COLLAPSE ERROR (intellectual fixation) → EPISTEMIC ERROR (thinking logic leads to truth) → PEDAGOGICAL ERROR (teaching through argumentation). The practitioner mutates into a philosopher of emptiness.
+This generates <scholarly-collapse-error> (intellectual fixation) → EPISTEMIC ERROR (thinking logic leads to <truth) → PEDAGOGICAL ERROR (teaching through argumentation). The practitioner mutates into philosopher of emptiness.
 
-[11404-11411] [lines 10791-10794]
-[ONTOLOGICAL ERROR, PRACTICE ERROR, MEDITATIONISM ERROR]
+[11404-11411] 
+<ontological-error> <practice-error> <meditationism-error>
 **Misreading:**
 The text describes liberation as "without effort, self-liberated, nothing newly arisen." A reader might think: "This means I don't need to do anything. Practice is unnecessary because everything is already liberated. I can just relax and let things be."
 
@@ -127,7 +128,7 @@ The text describes liberation as "without effort, self-liberated, nothing newly 
 of "effortless liberation" appeals to spiritual laziness and the desire for quick results. It promises freedom without work, realization without practice. This resonates with modern quick-fix spirituality.
 
 **Primary consequence:**
-The practitioner abandons practice, thinking "it's all already perfect." This devolves into an excuse for not engaging, a spiritual bypass that avoids the challenging work of transformation.
+The practitioner abandons practice, thinking "it's all already perfect." This devolves inton excuse for not engaging, a spiritual bypass that avoids the challenging work of transformation.
 
 **Secondary consequences:**
 1. Abandonment of meditation and practice
@@ -136,10 +137,10 @@ The practitioner abandons practice, thinking "it's all already perfect." This de
 4. Missing that effortlessness arises from prior effort
 
 **Cascade effects:**
-This leads to NIHILISTIC ERROR (nothing matters) → PSYCHOLOGIZATION ERROR (avoiding real work) → PRACTICE ERROR (non-practice as practice). The practitioner becomes spiritually stagnant.
+This leads to <nihilistic-error> (nothing matters) → PSYCHOLOGIZATION ERROR (avoiding real work) → PRACTICE ERROR (non-practice as practice). The practitioner becomes spiritually stagnant.
 
-[11412-11417] [lines 10795-10808]
-[ONTOLOGICAL ERROR, REIFICATION ERROR, EPISTEMIC ERROR]
+[11412-11417] 
+<ontological-error> <reification-error> <epistemic-error>
 **Misreading:**
 The text explains that from the conventional perspective there is spontaneous accomplishment, while from the ultimate perspective there is primordial purity. A reader might think: "So there ARE two truths - conventional and ultimate. These are two levels of reality, with ultimate truth being 'more real' than conventional."
 
@@ -156,10 +157,10 @@ The two truths become two realities - one more real than the other. The practiti
 4. Missing that the two truths are not two but one taste
 
 **Cascade effects:**
-This leads to ETERNALISTIC ERROR (reified ultimate truth) → MEDITATIONISM ERROR (seeking ultimate states) → SCHOLARLY COLLAPSE ERROR (debating two truths). The practitioner mutates into a two-truths dualist.
+This leads to <eternalistic-error> (reified ultimate truth) → MEDITATIONISM ERROR (seeking ultimate states) → SCHOLARLY COLLAPSE ERROR (debating two truths). The practitioner mutates into two-truths dualist.
 
-[11418-11423] [lines 10809-10819]
-[ONTOLOGICAL ERROR, EPISTEMIC ERROR, SCHOLARLY COLLAPSE ERROR]
+[11418-11423] 
+<ontological-error> <epistemic-error> <scholarly-collapse-error>
 **Misreading:**
 The text presents a dialogue format with questions from bodhisattvas and answers from the teacher. A reader might think: "These are the definitive answers to the key philosophical questions. This dialogue settles the doctrinal matters once and for all."
 
@@ -167,7 +168,7 @@ The text presents a dialogue format with questions from bodhisattvas and answers
 We naturally treat authoritative texts as repositories of final answers. The dialogue format suggests these are the definitive responses to objections. We want certainty, settled doctrines, finished philosophy.
 
 **Primary consequence:**
-The dialogue mutates into a catechism of correct answers. The practitioner memorizes the positions and treats them as established truth rather than skillful means pointing beyond itself.
+The dialogue mutates into catechism of correct answers. The practitioner memorizes the positions and treats them as established truth rather than skillful means pointing beyond itself.
 
 **Secondary consequences:**
 1. Treating doctrinal positions as final truths
@@ -176,15 +177,15 @@ The dialogue mutates into a catechism of correct answers. The practitioner memor
 4. Missing that the dialogue is meant to provoke insight, not settle matters
 
 **Cascade effects:**
-This generates SCHOLARLY COLLAPSE ERROR (doctrinal fixation) → PEDAGOGICAL ERROR (teaching answers not inquiry) → EPISTEMIC ERROR (mistaking words for realization). The tradition becomes scholastic.
+This generates <scholarly-collapse-error> (doctrinal fixation) → PEDAGOGICAL ERROR (teaching answers not inquiry) → EPISTEMIC ERROR (mistaking words for realization). The tradition becomes scholastic.
 
-[11424-11429] [lines 10820-10829]
-[ONTOLOGICAL ERROR, REIFICATION ERROR, MEDITATIONISM ERROR]
+[11424-11429] 
+<ontological-error> <reification-error> <meditationism-error>
 **Misreading:**
 The text states that words cannot harm or establish the nature of the base. A reader might think: "So the truth is beyond words - it's an ineffable reality that can only be experienced directly, not described."
 
 **Why it arises:**
-Mystical traditions often emphasize the ineffability of ultimate truth. We romanticize direct experience as superior to conceptual understanding. "Beyond words" mutates into a marker of profound truth.
+Mystical traditions often emphasize the ineffability of ultimate truth. We romanticize direct experience as superior to conceptual understanding. "Beyond words" mutates into marker of profound truth.
 
 **Primary consequence:**
 The practitioner seeks "ineffable experiences" beyond language, dismissing conceptual understanding entirely. "Beyond words" becomes a new metaphysical category - a realm of pure experience.
@@ -196,10 +197,10 @@ The practitioner seeks "ineffable experiences" beyond language, dismissing conce
 4. Missing that "beyond words" is also a concept
 
 **Cascade effects:**
-This triggers MEDITATIONISM ERROR (seeking ineffable states) → EPISTEMIC ERROR (privileging experience over understanding) → PEDAGOGICAL ERROR (anti-intellectual transmission). The practitioner mutates into a wordless mystic.
+This triggers <meditationism-error> (seeking ineffable states) → EPISTEMIC ERROR (privileging experience over understanding) → PEDAGOGICAL ERROR (anti-intellectual transmission). The practitioner mutates into wordless mystic.
 
-[11430-11436] [lines 10830-10838]
-[ONTOLOGICAL ERROR, REIFICATION ERROR, EPISTEMIC ERROR]
+[11430-11436] 
+<ontological-error> <reification-error> <epistemic-error>
 **Misreading:**
 The text describes the base as primordially pure like a crystal without stains, yet with spontaneous accomplishment present within it. A reader might think: "So the base is like a crystal - a pure, clear medium in which things appear. The crystal is the essence, appearances arise from it."
 
@@ -207,7 +208,7 @@ The text describes the base as primordially pure like a crystal without stains, 
 The crystal metaphor is powerful and evocative. We naturally visualize it - a clear, pure substance. The metaphor warps into the reality in our minds. We imagine a "pure base" as a substratum.
 
 **Primary consequence:**
-The practitioner reifies the base as a metaphysical substance - pure, clear, primordial. The crystal mutates into a thing, the base becomes a container or medium in which appearances arise.
+The practitioner reifies the base as a metaphysical substance - pure, clear, primordial. The crystal mutates into thing, the base becomes a container or medium in which appearances arise.
 
 **Secondary consequences:**
 1. Reifying the base as a substratum
@@ -216,10 +217,10 @@ The practitioner reifies the base as a metaphysical substance - pure, clear, pri
 4. Missing that the crystal is a metaphor, not an entity
 
 **Cascade effects:**
-This leads to REIFICATION ERROR (substantializing the base) → MEDITATIONISM ERROR (seeking clarity experiences) → ONTOLOGICAL ERROR (dualism of base/appearances). The Dzogchen becomes substantialist metaphysics.
+This leads to <REIFICATION ERROR (substantializing the base) → MEDITATIONISM ERROR (seeking clarity experiences) → ONTOLOGICAL ERROR (dualism of base/appearances). The Dzogchen becomes substantialist metaphysics.
 
-[11437-11446] [lines 10839-10848]
-[ONTOLOGICAL ERROR, REIFICATION ERROR, EPISTEMIC ERROR]
+[11437-11446] 
+<ontological-error> <reification-error> <epistemic-error>
 **Misreading:**
 The text describes the base as having three aspects: essence (ngo bo), nature (rang bzhin), and compassion (thugs rje). A reader might think: "So the base IS these three - it's a triune reality with three distinct characteristics. This is the true nature of things."
 
@@ -236,10 +237,10 @@ The three aspects become reified as the inherent structure of reality. The pract
 4. Missing that these are pedagogical distinctions, not ontological categories
 
 **Cascade effects:**
-This generates ONTOLOGICAL ERROR (reified trinity) → SCHOLARLY COLLAPSE ERROR (system-building) → PEDAGOGICAL ERROR (teaching three aspects as doctrine). The Dzogchen mutates into a trinitarian theology.
+This generates <ONTOLOGICAL ERROR (reified trinity) → SCHOLARLY COLLAPSE ERROR (system-building) → PEDAGOGICAL ERROR (teaching three aspects as doctrine). The Dzogchen mutates into trinitarian theology.
 
-[11447-11456] [lines 10849-10864]
-[ONTOLOGICAL ERROR, REIFICATION ERROR, ETERNALISTIC ERROR]
+[11447-11456] 
+<ontological-error> <reification-error> <eternalistic-error>
 **Misreading:**
 The text states that before realized Buddhas or unrealized sentient beings arose, there was self-arisen wisdom unmoving from the base. A reader might think: "So wisdom exists eternally, prior to all manifestation. It's an eternal presence that has always been there."
 
@@ -247,7 +248,7 @@ The text states that before realized Buddhas or unrealized sentient beings arose
 Eternalism is deeply comforting. that "wisdom has always been" provides ontological security. We want something permanent, unchanging, reliable in a world of flux. This is the mind's grasping for permanence.
 
 **Primary consequence:**
-The practitioner reifies wisdom (ye shes) as an eternal, ever-present reality. This mutates into a subtle form of atman - a permanent awareness underlying all phenomena. Dzogchen becomes Vedanta.
+The practitioner reifies wisdom (ye shes) as an eternal, ever-present reality. This mutates into subtle form of atman - a permanent awareness underlying all phenomena. Dzogchen becomes Vedanta.
 
 **Secondary consequences:**
 1. Reifying awareness as eternal presence
@@ -256,10 +257,10 @@ The practitioner reifies wisdom (ye shes) as an eternal, ever-present reality. T
 4. Missing that "unmoving" is not ontological permanence
 
 **Cascade effects:**
-This leads to ETERNALISTIC ERROR (reified eternal wisdom) → MEDITATIONISM ERROR (seeking eternal presence) → ONTOLOGICAL ERROR (atman-like awareness). The practitioner devolves into an eternalist.
+This leads to <eternalistic-error> (reified eternal wisdom) → MEDITATIONISM ERROR (seeking eternal presence) → ONTOLOGICAL ERROR (atman-like awareness). The practitioner devolves inton eternalist.
 
-[11457-11466] [lines 10865-10876]
-[ONTOLOGICAL ERROR, REIFICATION ERROR, MEDITATIONISM ERROR]
+[11457-11466] 
+<ontological-error> <reification-error> <meditationism-error>
 **Misreading:**
 The text describes the base as being like a body but not abiding as a body, like emptiness but not abiding as emptiness, like five lights but not abiding as colors. A reader might think: "This paradox means the base is beyond all categories - it's a transcendent reality that is like things but not those things."
 
@@ -267,7 +268,7 @@ The text describes the base as being like a body but not abiding as a body, like
 Paradoxical language suggests something beyond ordinary reality. When we hear "like X but not X," we imagine a "higher" reality that transcends categories. This appeals to our desire for the extraordinary.
 
 **Primary consequence:**
-The practitioner creates a category of "transcendent beyond-category reality." The base devolves into an ineffable something that is like things but not things - a new metaphysical ultimate.
+The practitioner creates <a category of "transcendent beyond-category reality." The base devolves inton ineffable something that is like things but not things - a new metaphysical ultimate.
 
 **Secondary consequences:**
 1. Reifying "beyond categories" as a category
@@ -276,18 +277,18 @@ The practitioner creates a category of "transcendent beyond-category reality." T
 4. Missing that "not abiding" means not fixating, not transcending
 
 **Cascade effects:**
-This generates ONTOLOGICAL ERROR (transcendent metaphysics) → MEDITATIONISM ERROR (seeking beyond-form states) → EPISTEMIC ERROR (paradox as higher truth). The practitioner chases the transcendent.
+This generates <ONTOLOGICAL ERROR (transcendent metaphysics) → MEDITATIONISM ERROR (seeking beyond-form states) → EPISTEMIC ERROR (paradox as higher truth). The practitioner chases the transcendent.
 
-[11467-11476] [lines 10877-10896]
-[ONTOLOGICAL ERROR, REIFICATION ERROR, EPISTEMIC ERROR]
+[11467-11476] 
+<ontological-error> <reification-error> <epistemic-error>
 **Misreading:**
 The text describes the nature's display as vast, clear, unchanging, with various colors (blue, white, yellow, red, green) each having specific qualities. A reader might think: "So the display has these real characteristics - colors, qualities, features. These are the true properties of the nature's manifestation."
 
 **Why it arises:**
-Descriptive language naturally creates reification. When we read detailed descriptions, we imagine the described features are real. The five lights and their qualities become ontological facts.
+Descriptive language naturally creates <reification. When we read detailed descriptions, we imagine the described features are real. The five lights and their qualities become ontological facts.
 
 **Primary consequence:**
-The practitioner reifies the "five lights" and their associated qualities as real characteristics of enlightened manifestation. This mutates into a colorful metaphysics of sacred display.
+The practitioner reifies the "five lights" and their associated qualities as real characteristics of enlightened manifestation. This mutates into colorful metaphysics of sacred display.
 
 **Secondary consequences:**
 1. Reifying five lights as real phenomena
@@ -296,10 +297,10 @@ The practitioner reifies the "five lights" and their associated qualities as rea
 4. Missing that lights are metaphors for clarity, not colored phenomena
 
 **Cascade effects:**
-This leads to REIFICATION ERROR (literal lights) → MEDITATIONISM ERROR (seeking light experiences) → SCHOLARLY COLLAPSE ERROR (elaborate light metaphysics). The practitioner becomes a light-mystic.
+This leads to <REIFICATION ERROR (literal lights) → MEDITATIONISM ERROR (seeking light experiences) → SCHOLARLY COLLAPSE ERROR (elaborate light metaphysics). The practitioner becomes a light-mystic.
 
-[11477-11488] [lines 10897-10908]
-[ONTOLOGICAL ERROR, REIFICATION ERROR, PSYCHOLOGIZATION ERROR]
+[11477-11488] 
+<ontological-error> <reification-error> <psychologization-error>
 **Misreading:**
 The text describes compassion's display as appearing like emptiness yet clear, without elaboration yet great elaboration. A reader might think: "This describes the nature of compassion itself - it's paradoxical, appearing empty yet full, simple yet vast."
 
@@ -307,7 +308,7 @@ The text describes compassion's display as appearing like emptiness yet clear, w
 We seek to understand compassion as an entity with characteristics. The paradoxical description seems profound, suggesting a deep mystery about compassion. We want to "get" what compassion really is.
 
 **Primary consequence:**
-Compassion becomes reified as a metaphysical principle with inherent paradoxical qualities. The practitioner studies "compassion" as an object of knowledge rather than living it as an activity.
+Compassion solidifies as a metaphysical principle with inherent paradoxical qualities. The practitioner studies "compassion" as an object of knowledge rather than living it as an activity.
 
 **Secondary consequences:**
 1. Reifying compassion as a thing with qualities
@@ -316,10 +317,10 @@ Compassion becomes reified as a metaphysical principle with inherent paradoxical
 4. Missing that compassion is activity, not an entity
 
 **Cascade effects:**
-This triggers REIFICATION ERROR (compassion as entity) → PSYCHOLOGIZATION ERROR (studying instead of being compassionate) → PEDAGOGICAL ERROR (teaching about compassion). The practitioner studies love.
+This triggers <REIFICATION ERROR (compassion as entity) → PSYCHOLOGIZATION ERROR (studying instead of being compassionate) → PEDAGOGICAL ERROR (teaching about compassion). The practitioner studies love.
 
-[11489-11501] [lines 10909-10921]
-[ONTOLOGICAL ERROR, REIFICATION ERROR, SCHOLARLY COLLAPSE ERROR]
+[11489-11501] 
+<ontological-error> <reification-error> <scholarly-collapse-error>
 **Misreading:**
 The text quotes the Thal 'gyur tantra describing how essence abides as form, nature manifests as light, and compassion is the mode of arising. A reader might think: "This is the definitive tantric teaching on the structure of reality. These are the three fundamental principles."
 
@@ -327,7 +328,7 @@ The text quotes the Thal 'gyur tantra describing how essence abides as form, nat
 Tantric quotations carry authority. We treat scriptural citations as revelations of ultimate truth. The poetic, technical language feels like it encodes profound metaphysical facts about reality's structure.
 
 **Primary consequence:**
-The tantric description mutates into a metaphysical system. The practitioner maps reality according to essence-nature-compassion, treating this as the definitive architecture of existence.
+The tantric description mutates into metaphysical system. The practitioner maps reality according to essence-nature-compassion, treating this as the definitive architecture of existence.
 
 **Secondary consequences:**
 1. Creating systematic metaphysics from tantric poetry
@@ -336,10 +337,10 @@ The tantric description mutates into a metaphysical system. The practitioner map
 4. Missing that tantra uses skillful means, not ontology
 
 **Cascade effects:**
-This generates SCHOLARLY COLLAPSE ERROR (tantric scholasticism) → ONTOLOGICAL ERROR (reified tantric metaphysics) → MEDITATIONISM ERROR (seeking tantric experiences). The practitioner mutates into a tantric metaphysician.
+This generates <scholarly-collapse-error> (tantric scholasticism) → ONTOLOGICAL ERROR (reified tantric metaphysics) → MEDITATIONISM ERROR (seeking tantric experiences). The practitioner mutates into tantric metaphysician.
 
-[11502-11513] [lines 10922-10935]
-[ONTOLOGICAL ERROR, EPISTEMIC ERROR, NIHILISTIC ERROR]
+[11502-11513] 
+<ontological-error> <epistemic-error> <nihilistic-error>
 **Misreading:**
 The text argues that if primordial purity were the only aspect, there would be no ground for the arising of form and wisdom. If things arise from it, does this mean they exist or not? A reader might think: "This is showing that things both exist and don't exist - the middle way between extremes."
 
@@ -347,7 +348,7 @@ The text argues that if primordial purity were the only aspect, there would be n
 We want to resolve the paradox. The middle way seems like the answer - things neither exist nor don't exist. We imagine a "middle" that transcends both extremes, a subtle ontological position.
 
 **Primary consequence:**
-The practitioner adopts "neither existent nor non-existent" as a metaphysical position. This mutates into a new extreme - the extreme of the middle, a subtle reification of indeterminacy.
+The practitioner adopts "neither existent nor non-existent" as a metaphysical position. This mutates into new extreme - the extreme of the middle, a subtle reification of indeterminacy.
 
 **Secondary consequences:**
 1. Creating metaphysics of "neither/nor"
@@ -356,10 +357,10 @@ The practitioner adopts "neither existent nor non-existent" as a metaphysical po
 4. Missing that the middle is not a position but freedom from positions
 
 **Cascade effects:**
-This leads to EPISTEMIC ERROR (middle as position) → SCHOLARLY COLLAPSE ERROR (middle way debates) → MEDITATIONISM ERROR (seeking middle way experiences). The practitioner becomes a Madhyamika.
+This leads to <EPISTEMIC ERROR (middle as position) → SCHOLARLY COLLAPSE ERROR (middle way debates) → MEDITATIONISM ERROR (seeking middle way experiences). The practitioner becomes a Madhyamika.
 
-[11514-11526] [lines 10936-10944]
-[ONTOLOGICAL ERROR, EPISTEMIC ERROR, REIFICATION ERROR]
+[11514-11526] 
+<ontological-error> <epistemic-error> <reification-error>
 **Misreading:**
 The text concludes that the nature of primordial purity is spontaneous accomplishment, containing subtle wisdom-display as inner clarity. A reader might think: "So the base actually DOES contain wisdom and display - they're just subtle, internal, not gross outer phenomena."
 
@@ -376,10 +377,10 @@ The practitioner reifies "subtle wisdom" and "inner clarity" as the true nature 
 4. Missing that "subtle" is still a conceptual designation
 
 **Cascade effects:**
-This generates REIFICATION ERROR (subtle as real) → MEDITATIONISM ERROR (seeking subtle states) → ONTOLOGICAL ERROR (subtle metaphysics). The practitioner chases the subtle.
+This generates <REIFICATION ERROR (subtle as real) → MEDITATIONISM ERROR (seeking subtle states) → ONTOLOGICAL ERROR (subtle metaphysics). The practitioner chases the subtle.
 
-[11527-11538] [lines 10945-10961]
-[ONTOLOGICAL ERROR, Nihilistic ERROR, EPISTEMIC ERROR]
+[11527-11538] 
+<ontological-error> <nihilistic-error> <epistemic-error>
 **Misreading:**
 The text negates everything: no rigpa, no ignorance, no Buddha, no sentient beings, no samsara, no nirvana, no paths, no results. A reader might think: "This is absolute negation. Nothing exists at all. All concepts are empty, all distinctions are false."
 
@@ -387,7 +388,7 @@ The text negates everything: no rigpa, no ignorance, no Buddha, no sentient bein
 Radical negation appeals to the desire for absolute freedom from limitation. If nothing exists, there are no constraints, no responsibilities, no problems. This is spiritual escapism dressed as wisdom.
 
 **Primary consequence:**
-The practitioner adopts nihilism as liberation. "Nothing exists" mutates into a justification for not engaging, not practicing, not caring. All distinctions collapse into a vacuous "everything is empty."
+The practitioner adopts nihilism as liberation. "Nothing exists" mutates into justification for not engaging, not practicing, not caring. All distinctions collapse into a vacuous "everything is empty."
 
 **Secondary consequences:**
 1. Nihilistic interpretation of emptiness
@@ -396,10 +397,10 @@ The practitioner adopts nihilism as liberation. "Nothing exists" mutates into a 
 4. Missing that negation is medicine, not food
 
 **Cascade effects:**
-This leads to NIHILISTIC ERROR → PRACTICE ERROR (abandoning practice) → PSYCHOLOGIZATION ERROR (avoiding engagement). The practitioner mutates into a nihilist.
+This leads to <NIHILISTIC error> → PRACTICE ERROR (abandoning practice) → PSYCHOLOGIZATION ERROR (avoiding engagement). The practitioner mutates into nihilist.
 
-[11539-11550] [lines 10962-10976]
-[ONTOLOGICAL ERROR, SCHOLARLY COLLAPSE ERROR, EPISTEMIC ERROR]
+[11539-11550] 
+<ontological-error> <scholarly-collapse-error> <epistemic-error>
 **Misreading:**
 The text presents the negation in a systematic way - no this, no that, nothing at all. A reader might think: "This is a complete philosophical system of negation. These are the definitive negations that establish the view."
 
@@ -407,7 +408,7 @@ The text presents the negation in a systematic way - no this, no that, nothing a
 We naturally systematize teachings into comprehensive frameworks. The extensive list of negations seems like a complete map of what doesn't exist. We want the whole picture, all the negations.
 
 **Primary consequence:**
-The practitioner memorizes the negations as a doctrinal system. The "list of what doesn't exist" mutates into a catechism, a checklist of emptiness. Intellectual mastery substitutes for insight.
+The practitioner memorizes the negations as a doctrinal system. The "list of what doesn't exist" mutates into catechism, a checklist of emptiness. Intellectual mastery substitutes for insight.
 
 **Secondary consequences:**
 1. Memorizing negations as doctrine
@@ -416,10 +417,10 @@ The practitioner memorizes the negations as a doctrinal system. The "list of wha
 4. Missing that negation is skillful means, not philosophy
 
 **Cascade effects:**
-This generates SCHOLARLY COLLAPSE ERROR (negation scholasticism) → EPISTEMIC ERROR (intellectual mastery) → PEDAGOGICAL ERROR (teaching negation lists). The tradition becomes nihilistic scholasticism.
+This generates <scholarly-collapse-error> (negation scholasticism) → EPISTEMIC ERROR (intellectual mastery) → PEDAGOGICAL ERROR (teaching negation lists). The tradition becomes nihilistic scholasticism.
 
-[11551-11562] [lines 10977-10988]
-[ONTOLOGICAL ERROR, REIFICATION ERROR, EPISTEMIC ERROR]
+[11551-11562] 
+<ontological-error> <reification-error> <epistemic-error>
 **Misreading:**
 The text quotes the "Bkrashis mdzes ldan" tantra describing the great primordial purity where no Buddha arose, no sentient beings, unmoving rigpa's great resonance. A reader might think: "This is describing the primordial state before manifestation - the original ground of being, pure and untouched."
 
@@ -427,7 +428,7 @@ The text quotes the "Bkrashis mdzes ldan" tantra describing the great primordial
 of a "primordial state" before anything arose is deeply evocative. We imagine a pre-manifest purity, an original innocence. This appeals to our desire to return to some fundamental, pure condition.
 
 **Primary consequence:**
-The practitioner reifies the "primordial" as a state before time, a pre-creation ground of being. This mutates into a metaphysical origin story - the eternal purity from which everything (mistakenly) emerged.
+The practitioner reifies the "primordial" as a state before time, a pre-creation ground of being. This mutates into metaphysical origin story - the eternal purity from which everything (mistakenly) emerged.
 
 **Secondary consequences:**
 1. Reifying "primordial" as a temporal origin
@@ -436,10 +437,10 @@ The practitioner reifies the "primordial" as a state before time, a pre-creation
 4. Missing that primordial means not created, not "before"
 
 **Cascade effects:**
-This leads to REIFICATION ERROR (primordial as origin) → ETERNALISTIC ERROR (pre-existent purity) → MEDITATIONISM ERROR (seeking primordial state). The practitioner seeks the origin.
+This leads to <REIFICATION ERROR (primordial as origin) → ETERNALISTIC ERROR (pre-existent purity) → MEDITATIONISM ERROR (seeking primordial state). The practitioner seeks the origin.
 
-[11563-11574] [lines 10989-10998]
-[ONTOLOGICAL ERROR, EPISTEMIC ERROR, Nihilistic ERROR]
+[11563-11574] 
+<ontological-error> <epistemic-error> <nihilistic-error>
 **Misreading:**
 The text says samsara doesn't see this, this doesn't see samsara, this is not samsara, not nirvana, not the base, not appearance, not darkness. A reader might think: "This is totally beyond everything - a complete transcendence of all categories and distinctions."
 
@@ -447,7 +448,7 @@ The text says samsara doesn't see this, this doesn't see samsara, this is not sa
 Total transcendence seems like the ultimate achievement. Beyond samsara and nirvana, beyond base and appearance - this suggests something absolutely beyond all limitation. We want that absolute freedom.
 
 **Primary consequence:**
-The practitioner creates a category of "total transcendence" beyond all pairs. This mutates into a new ultimate - the absolutely ineffable, the totally beyond. This is extreme spiritual ambition.
+The practitioner creates <a category of "total transcendence" beyond all pairs. This mutates into new ultimate - the absolutely ineffable, the totally beyond. This is extreme spiritual ambition.
 
 **Secondary consequences:**
 1. Reifying "beyond all" as the supreme
@@ -456,10 +457,10 @@ The practitioner creates a category of "total transcendence" beyond all pairs. T
 4. Missing that "beyond" is still a concept
 
 **Cascade effects:**
-This generates ONTOLOGICAL ERROR (transcendence as category) → MEDITATIONISM ERROR (seeking absolute transcendence) → EPISTEMIC ERROR (extreme non-conceptuality). The practitioner chases infinity.
+This generates <ONTOLOGICAL ERROR (transcendence as category) → MEDITATIONISM ERROR (seeking absolute transcendence) → EPISTEMIC ERROR (extreme non-conceptuality). The practitioner chases infinity.
 
-[11575-11585] [lines 10999-11014]
-[ONTOLOGICAL ERROR, EPISTEMIC ERROR, PEDAGOGICAL ERROR]
+[11575-11585] 
+<ontological-error> <epistemic-error> <pedagogical-error>
 **Misreading:**
 The text continues the negation: no path, no non-path, no result, no abandonment, no attainment. A reader might think: "This means there's nothing to do, nowhere to go, nothing to achieve. All spiritual paths are equal and equally empty."
 
@@ -467,7 +468,7 @@ The text continues the negation: no path, no non-path, no result, no abandonment
 We want relief from the pressure of spiritual practice. that "there's nothing to do" is liberating - no more striving, no more goals. This appeals to exhaustion and spiritual burnout.
 
 **Primary consequence:**
-The practitioner concludes that all paths are empty, therefore any path is fine, or no path is needed. This mutates into a spiritual relativism where nothing matters and practice is arbitrary.
+The practitioner concludes that all paths are empty, therefore any path is fine, or no path is needed. This mutates into spiritual relativism where nothing matters and practice is arbitrary.
 
 **Secondary consequences:**
 1. Relativistic dismissal of practice distinctions
@@ -476,10 +477,10 @@ The practitioner concludes that all paths are empty, therefore any path is fine,
 4. Missing that emptiness doesn't negate functionality
 
 **Cascade effects:**
-This leads to NIHILISTIC ERROR (nothing matters) → PRACTICE ERROR (arbitrary practice) → PEDAGOGICAL ERROR (teaching emptiness as license). The practitioner becomes spiritually undisciplined.
+This leads to <nihilistic-error> (nothing matters) → PRACTICE ERROR (arbitrary practice) → PEDAGOGICAL ERROR (teaching emptiness as license). The practitioner becomes spiritually undisciplined.
 
-[11586-11596] [lines 11015-11020]
-[ONTOLOGICAL ERROR, REIFICATION ERROR, PSYCHOLOGIZATION ERROR]
+[11586-11596] 
+<ontological-error> <reification-error> <psychologization-error>
 **Misreading:**
 The text calls this "the great expanse of rigpa." A reader might think: "So this is rigpa - the great expanse, vast and unlimited. Rigpa is the primordially pure base, the ultimate nature of mind."
 
@@ -487,7 +488,7 @@ The text calls this "the great expanse of rigpa." A reader might think: "So this
 Rigpa is a key term in Dzogchen, and we naturally want to understand what it is. "Great expanse" suggests something vast and all-encompassing. We reify rigpa as the ultimate reality.
 
 **Primary consequence:**
-Rigpa becomes reified as the ultimate ground of being, the great expanse, the true nature. The practitioner seeks to "abide in rigpa" as if it were a place or state.
+Rigpa solidifies as the ultimate ground of being, the great expanse, the true nature. The practitioner seeks to "abide in rigpa" as if it were a place or state.
 
 **Secondary consequences:**
 1. Reifying rigpa as the ultimate reality
@@ -496,10 +497,10 @@ Rigpa becomes reified as the ultimate ground of being, the great expanse, the tr
 4. Missing that rigpa is a verb, not a noun
 
 **Cascade effects:**
-This generates REIFICATION ERROR (rigpa as entity) → MEDITATIONISM ERROR (seeking rigpa states) → ONTOLOGICAL ERROR (rigpa metaphysics). The practitioner chases rigpa.
+This generates <REIFICATION ERROR (rigpa as entity) → MEDITATIONISM ERROR (seeking rigpa states) → ONTOLOGICAL ERROR (rigpa metaphysics). The practitioner chases rigpa.
 
-[11597-11607] [lines 11021-11030]
-[ONTOLOGICAL ERROR, REIFICATION ERROR, SCHOLARLY COLLAPSE ERROR]
+[11597-11607] 
+<ontological-error> <reification-error> <scholarly-collapse-error>
 **Misreading:**
 The text quotes the "Mu tig phreng ba" tantra with another extensive list of negations. A reader might think: "This tantra gives the complete list of what doesn't exist. Combined with other sources, I can build the comprehensive map of emptiness."
 
@@ -516,10 +517,10 @@ The practitioner collects negations from various sources, building a comprehensi
 4. Missing that one negation is enough
 
 **Cascade effects:**
-This leads to SCHOLARLY COLLAPSE ERROR (accumulating negations) → EPISTEMIC ERROR (scholarship as wisdom) → PEDAGOGICAL ERROR (teaching empty lists). The tradition becomes negation cataloging.
+This leads to <scholarly-collapse-error> (accumulating negations) → EPISTEMIC ERROR (scholarship as wisdom) → PEDAGOGICAL ERROR (teaching empty lists). The tradition becomes negation cataloging.
 
-[11608-11618] [lines 11031-11042]
-[ONTOLOGICAL ERROR, Nihilistic ERROR, PRACTICE ERROR]
+[11608-11618] 
+<ontological-error> <nihilistic-error> <practice-error>
 **Misreading:**
 The text negates elements, aggregates, sense fields, objects, perceivers - all components of experience. A reader might think: "This shows that experience itself is empty. All of reality is a fiction, a construction with no basis."
 
@@ -536,10 +537,10 @@ The practitioner denies the reality of all experience. Everything becomes "mere 
 4. Missing that emptiness is fullness, not absence
 
 **Cascade effects:**
-This generates NIHILISTIC ERROR (denying all experience) → PRACTICE ERROR (withdrawal from life) → PSYCHOLOGIZATION ERROR (avoidance). The practitioner mutates into a world-denier.
+This generates <nihilistic-error> (denying all experience) → PRACTICE ERROR (withdrawal from life) → PSYCHOLOGIZATION ERROR (avoidance). The practitioner mutates into world-denier.
 
-[11619-11628] [lines 11043-11054]
-[ONTOLOGICAL ERROR, REIFICATION ERROR, SCHOLARLY COLLAPSE ERROR]
+[11619-11628] 
+<ontological-error> <reification-error> <scholarly-collapse-error>
 **Misreading:**
 The text quotes "Klong drug pa" tantra describing the base free from elaboration, primordially pure, beyond words and concepts. A reader might think: "This tantra reveals the ultimate truth about the base - it's ineffable, pure, beyond all description."
 
@@ -547,7 +548,7 @@ The text quotes "Klong drug pa" tantra describing the base free from elaboration
 Tantric sources carry authority. When a tantra describes the base, we assume this is definitive revelation. The poetic language seems to encode metaphysical truths about ultimate reality.
 
 **Primary consequence:**
-The practitioner treats tantric descriptions as revealed metaphysics. "Beyond words" mutates into a property of the base, "primordially pure" becomes its inherent nature. Tantra becomes ontology.
+The practitioner treats tantric descriptions as revealed metaphysics. "Beyond words" mutates into property of the base, "primordially pure" becomes its inherent nature. Tantra becomes ontology.
 
 **Secondary consequences:**
 1. Reifying tantric language as ontology
@@ -556,10 +557,10 @@ The practitioner treats tantric descriptions as revealed metaphysics. "Beyond wo
 4. Missing that tantras are skillful means
 
 **Cascade effects:**
-This leads to SCHOLARLY COLLAPSE ERROR (tantric literalism) → REIFICATION ERROR (tantric metaphysics) → MEDITATIONISM ERROR (tantric experiences). The practitioner becomes tantra-obsessed.
+This leads to <scholarly-collapse-error> (tantric literalism) → REIFICATION ERROR (tantric metaphysics) → MEDITATIONISM ERROR (tantric experiences). The practitioner becomes tantra-obsessed.
 
-[11629-11639] [lines 11055-11076]
-[ONTOLOGICAL ERROR, EPISTEMIC ERROR, ETERNALISTIC ERROR]
+[11629-11639] 
+<ontological-error> <epistemic-error> <eternalistic-error>
 **Misreading:**
 The text quotes the "Yi ge med pa" tantra with positive descriptions: complete teachings, complete clarity, complete appearances, complete self-appearance, complete five rigpas. A reader might think: "This reveals that everything is actually complete and perfect - it's all the complete display of the base, inherently whole."
 
@@ -567,7 +568,7 @@ The text quotes the "Yi ge med pa" tantra with positive descriptions: complete t
 After so much negation, positive descriptions are a relief. "Complete" suggests wholeness, perfection, fullness. We want to hear that everything is actually okay, perfect, complete as it is.
 
 **Primary consequence:**
-The practitioner adopts "everything is complete" as an ontological claim. This mutates into a form of metaphysical optimism - everything is inherently perfect, nothing needs to change.
+The practitioner adopts "everything is complete" as an ontological claim. This mutates into form of metaphysical optimism - everything is inherently perfect, nothing needs to change.
 
 **Secondary consequences:**
 1. Reifying "completeness" as inherent perfection
@@ -576,15 +577,15 @@ The practitioner adopts "everything is complete" as an ontological claim. This m
 4. Missing that completeness is recognition, not description
 
 **Cascade effects:**
-This generates ETERNALISTIC ERROR (inherent perfection) → PRACTICE ERROR (no need for change) → PSYCHOLOGIZATION ERROR (spiritual bypassing). The practitioner adopts false completion.
+This generates <eternalistic-error> (inherent perfection) → PRACTICE ERROR (no need for change) → PSYCHOLOGIZATION ERROR (spiritual bypassing). The practitioner adopts false completion.
 
-[11640-11649] [lines 11077-11090]
-[ONTOLOGICAL ERROR, REIFICATION ERROR, MEDITATIONISM ERROR]
+[11640-11649] 
+<ontological-error> <reification-error> <meditationism-error>
 **Misreading:**
 The text quotes "Rang shar" describing the original base as vast, clear, unchanging, wisdom not ceasing, various thigles radiating. A reader might think: "This is the description of the actual base - vast awareness, clear light, eternal wisdom radiating as thigles."
 
 **Why it arises:**
-Vivid imagery creates strong impressions. "Vast, clear, unchanging" with "thigles radiating" evokes a cosmic landscape. We naturally visualize this and take the visualization for reality.
+Vivid imagery creates <strong impressions. "Vast, clear, unchanging" with "thigles radiating" evokes a cosmic landscape. We naturally visualize this and take the visualization for reality.
 
 **Primary consequence:**
 The practitioner reifies the base as a luminous field with radiating thigles. This warps into the sought-after vision - the true nature of mind as light-display with thigles.
@@ -596,10 +597,10 @@ The practitioner reifies the base as a luminous field with radiating thigles. Th
 4. Missing that thigles are metaphors, not objects
 
 **Cascade effects:**
-This leads to REIFICATION ERROR (thigles as real) → MEDITATIONISM ERROR (seeking light visions) → ONTOLOGICAL ERROR (luminous metaphysics). The practitioner chases lights.
+This leads to <REIFICATION ERROR (thigles as real) → MEDITATIONISM ERROR (seeking light visions) → ONTOLOGICAL ERROR (luminous metaphysics). The practitioner chases lights.
 
-[11650-11660] [lines 11091-11102]
-[ONTOLOGICAL ERROR, EPISTEMIC ERROR, REIFICATION ERROR]
+[11650-11660] 
+<ontological-error> <epistemic-error> <reification-error>
 **Misreading:**
 The text explains that this shows wisdom and light-display in primordial purity, refuting that primordial purity is mere nothingness. A reader might think: "So primordial purity IS something - it's wisdom, light, display. It's not empty in a nihilistic sense but full of positive qualities."
 
@@ -607,7 +608,7 @@ The text explains that this shows wisdom and light-display in primordial purity,
 Fear of nihilism drives us to find positive content. The assurance that primordial purity is not "nothing" but contains wisdom and light is comforting. We want the base to be something positive.
 
 **Primary consequence:**
-The practitioner reifies primordial purity as containing real wisdom and light. This mutates into a subtle eternalism - the base has positive qualities that survive all negation.
+The practitioner reifies primordial purity as containing real wisdom and light. This mutates into subtle eternalism - the base has positive qualities that survive all negation.
 
 **Secondary consequences:**
 1. Attributing inherent qualities to the base
@@ -616,15 +617,15 @@ The practitioner reifies primordial purity as containing real wisdom and light. 
 4. Missing that qualities are imputed, not inherent
 
 **Cascade effects:**
-This generates ETERNALISTIC ERROR (positive qualities) → REIFICATION ERROR (wisdom as inherent) → MEDITATIONISM ERROR (seeking pure experiences). The practitioner seeks positive emptiness.
+This generates <eternalistic-error> (positive qualities) → REIFICATION ERROR (wisdom as inherent) → MEDITATIONISM ERROR (seeking pure experiences). The practitioner seeks positive emptiness.
 
-[11661-11673] [lines 11103-11126]
-[ONTOLOGICAL ERROR, REIFICATION ERROR, MEDITATIONISM ERROR]
+[11661-11673] 
+<ontological-error> <reification-error> <meditationism-error>
 **Misreading:**
 The text describes spontaneous accomplishment's mode: uninterrupted, without falling into extremes, the place where form and wisdom arise, inner clarity subtle yet outer vast, the wish-fulfilling jewel's meaning. A reader might think: "This is describing the actual nature of spontaneous accomplishment - a vast, clear, uninterrupted field from which all manifestation arises."
 
 **Why it arises:**
-Rich descriptive language creates vivid mental imagery. "Wish-fulfilling jewel," "inner clarity," "vast expanse" - these are evocative and seem to describe a real metaphysical domain.
+Rich descriptive language creates <vivid mental imagery. "Wish-fulfilling jewel," "inner clarity," "vast expanse" - these are evocative and seem to describe a real metaphysical domain.
 
 **Primary consequence:**
 The practitioner reifies spontaneous accomplishment as a metaphysical field or medium - the "space" from which all manifestation arises, like a cosmic womb of manifestation.
@@ -636,10 +637,10 @@ The practitioner reifies spontaneous accomplishment as a metaphysical field or m
 4. Missing that spontaneous means uncreated, not a source
 
 **Cascade effects:**
-This leads to REIFICATION ERROR (spontaneous as source) → MEDITATIONISM ERROR (seeking source experiences) → ONTOLOGICAL ERROR (source metaphysics). The practitioner seeks the source.
+This leads to <REIFICATION ERROR (spontaneous as source) → MEDITATIONISM ERROR (seeking source experiences) → ONTOLOGICAL ERROR (source metaphysics). The practitioner seeks the source.
 
-[11674-11687] [lines 11127-11143]
-[ONTOLOGICAL ERROR, REIFICATION ERROR, SCHOLARLY COLLAPSE ERROR]
+[11674-11687] 
+<ontological-error> <reification-error> <scholarly-collapse-error>
 **Misreading:**
 The text lists the five kayas, five speeches, five minds, five qualities, five activities, five wisdoms, five lights arising from spontaneous accomplishment. A reader might think: "This is the complete taxonomy of enlightened manifestation. These are the real components of the display."
 
@@ -647,7 +648,7 @@ The text lists the five kayas, five speeches, five minds, five qualities, five a
 Systematic lists appeal to our desire for completeness. Five of this, five of that - it feels like a comprehensive map of reality. We imagine understanding the structure of enlightened manifestation.
 
 **Primary consequence:**
-The practitioner reifies the "fives" as real categories of enlightened manifestation. This mutates into a complex metaphysics with five-fold structures throughout reality.
+The practitioner reifies the "fives" as real categories of enlightened manifestation. This mutates into complex metaphysics with five-fold structures throughout reality.
 
 **Secondary consequences:**
 1. Memorizing the five-fold taxonomy
@@ -656,10 +657,10 @@ The practitioner reifies the "fives" as real categories of enlightened manifesta
 4. Missing that fives are pedagogical, not ontological
 
 **Cascade effects:**
-This generates SCHOLARLY COLLAPSE ERROR (five-fold scholasticism) → REIFICATION ERROR (fives as real) → MEDITATIONISM ERROR (seeking five-fold experiences). The practitioner counts to five.
+This generates <scholarly-collapse-error> (five-fold scholasticism) → REIFICATION ERROR (fives as real) → MEDITATIONISM ERROR (seeking five-fold experiences). The practitioner counts to five.
 
-[11688-11701] [lines 11144-11162]
-[ONTOLOGICAL ERROR, REIFICATION ERROR, MEDITATIONISM ERROR]
+[11688-11701] 
+<ontological-error> <reification-error> <meditationism-error>
 **Misreading:**
 The text describes the five lights (white, yellow, red, green, blue) and their associations with different aspects of wisdom. A reader might think: "These five lights are real phenomena - the actual colors of enlightened awareness. I should seek to experience these lights in meditation."
 
@@ -676,10 +677,10 @@ The practitioner seeks visionary experiences of colored lights. The five lights 
 4. Missing that lights are metaphors for clarity
 
 **Cascade effects:**
-This leads to MEDITATIONISM ERROR (chasing light visions) → REIFICATION ERROR (lights as real signs) → ONTOLOGICAL ERROR (luminous metaphysics). The practitioner mutates into a light-chaser.
+This leads to <meditationism-error> (chasing light visions) → REIFICATION ERROR (lights as real signs) → ONTOLOGICAL ERROR (luminous metaphysics). The practitioner mutates into light-chaser.
 
-[11702-11715] [lines 11163-11184]
-[ONTOLOGICAL ERROR, EPISTEMIC ERROR, PEDAGOGICAL ERROR]
+[11702-11715] 
+<ontological-error> <epistemic-error> <pedagogical-error>
 **Misreading:**
 The text quotes "Klong drug pa" tantra with extensive poetic description of the nature's display: white radiance of unproduced self-resonance, deep clarity, yellow aspect of self-liberated appearance, etc. A reader might think: "This tantra is giving the definitive description of the display's nature - the actual characteristics of each color and aspect."
 
@@ -687,7 +688,7 @@ The text quotes "Klong drug pa" tantra with extensive poetic description of the 
 Poetic tantric language seems authoritative and descriptive. We assume it encodes real information about the nature of display. The specificity suggests insider knowledge of enlightened manifestation.
 
 **Primary consequence:**
-The practitioner treats tantric poetry as technical descriptions. The "white radiance of unproduced self-resonance" mutates into a technical term for a specific phenomenon.
+The practitioner treats tantric poetry as technical descriptions. The "white radiance of unproduced self-resonance" mutates into technical term for a specific phenomenon.
 
 **Secondary consequences:**
 1. Memorizing tantric descriptions as technical data
@@ -696,18 +697,18 @@ The practitioner treats tantric poetry as technical descriptions. The "white rad
 4. Missing that poetry evokes, not describes
 
 **Cascade effects:**
-This generates SCHOLARLY COLLAPSE ERROR (poetry as technical manual) → MEDITATIONISM ERROR (seeking tantric visions) → PEDAGOGICAL ERROR (teaching poetry as doctrine). The tradition becomes literalist.
+This generates <scholarly-collapse-error> (poetry as technical manual) → MEDITATIONISM ERROR (seeking tantric visions) → PEDAGOGICAL ERROR (teaching poetry as doctrine). The tradition becomes literalist.
 
-[11716-11726] [lines 11185-11198]
-[ONTOLOGICAL ERROR, REIFICATION ERROR, EPISTEMIC ERROR]
+[11716-11726] 
+<ontological-error> <reification-error> <epistemic-error>
 **Misreading:**
 The text quotes "Rang shar" and earlier sources describing spontaneous accomplishment's display as the wish-fulfilling jewel's meaning, inner wisdom jewel-display, outer vast, youth vase body. A reader might think: "These are the real names and forms of the display - the wish-fulfilling jewel, the youth vase body. These exist in the nature."
 
 **Why it arises:**
-Rich symbolic language creates vivid mental imagery. "Wish-fulfilling jewel," "youth vase body" - these are powerful symbols that seem to refer to real metaphysical entities or realms.
+Rich symbolic language creates <vivid mental imagery. "Wish-fulfilling jewel," "youth vase body" - these are powerful symbols that seem to refer to real metaphysical entities or realms.
 
 **Primary consequence:**
-The practitioner reifies symbolic terms as referring to real entities. The "youth vase body" mutates into a place or state, the "wish-fulfilling jewel" devolves into an actual metaphysical jewel.
+The practitioner reifies symbolic terms as referring to real entities. The "youth vase body" mutates into place or state, the "wish-fulfilling jewel" devolves inton actual metaphysical jewel.
 
 **Secondary consequences:**
 1. Seeking the "youth vase body" as a destination
@@ -716,10 +717,10 @@ The practitioner reifies symbolic terms as referring to real entities. The "yout
 4. Missing that symbols point, not define
 
 **Cascade effects:**
-This leads to REIFICATION ERROR (symbols as entities) → MEDITATIONISM ERROR (seeking symbolic realms) → SCHOLARLY COLLAPSE ERROR (symbolic cartography). The practitioner chases symbols.
+This leads to <REIFICATION ERROR (symbols as entities) → MEDITATIONISM ERROR (seeking symbolic realms) → SCHOLARLY COLLAPSE ERROR (symbolic cartography). The practitioner chases symbols.
 
-[11727-11737] [lines 11199-11207]
-[ONTOLOGICAL ERROR, REIFICATION ERROR, EPISTEMIC ERROR]
+[11727-11737] 
+<ontological-error> <reification-error> <epistemic-error>
 **Misreading:**
 The text explains that primordial purity is without things or characteristics, while spontaneous accomplishment has the meaning of form and wisdom without gathering or separation. A reader might think: "So there ARE two aspects - empty essence and manifest nature - united without duality. This is the structure of reality."
 
@@ -736,10 +737,10 @@ The two aspects become the fundamental ontology. The practitioner constructs a m
 4. Missing that aspects are imputed, not inherent
 
 **Cascade effects:**
-This generates ONTOLOGICAL ERROR (aspects as real) → SCHOLARLY COLLAPSE ERROR (aspect metaphysics) → MEDITATIONISM ERROR (seeking non-dual experiences). The practitioner dualizes non-duality.
+This generates <ONTOLOGICAL ERROR (aspects as real) → SCHOLARLY COLLAPSE ERROR (aspect metaphysics) → MEDITATIONISM ERROR (seeking non-dual experiences). The practitioner dualizes non-duality.
 
-[11738-11748] [lines 11208-11219]
-[ONTOLOGICAL ERROR, EPISTEMIC ERROR, SCHOLARLY COLLAPSE ERROR]
+[11738-11748] 
+<ontological-error> <epistemic-error> <scholarly-collapse-error>
 **Misreading:**
 The text quotes "Thal 'gyur" tantra: no name of existence for non-recognition, no numbers of one or two, no existence or non-existence established by examination, no wisdom even slightly established. A reader might think: "This is the ultimate philosophical position - beyond all extremes, beyond existence and non-existence, beyond even wisdom."
 
@@ -747,7 +748,7 @@ The text quotes "Thal 'gyur" tantra: no name of existence for non-recognition, n
 We seek the ultimate philosophical formula. "Beyond all extremes" seems like the final answer. The negation of even wisdom sounds like the most radical emptiness teaching.
 
 **Primary consequence:**
-The practitioner adopts "beyond all extremes" as the ultimate position. This mutates into a new extreme - the extreme of having no position, a subtle metaphysical conceit.
+The practitioner adopts "beyond all extremes" as the ultimate position. This mutates into new extreme - the extreme of having no position, a subtle metaphysical conceit.
 
 **Secondary consequences:**
 1. Taking pride in having "no position"
@@ -756,10 +757,10 @@ The practitioner adopts "beyond all extremes" as the ultimate position. This mut
 4. Missing that no-position is also a position
 
 **Cascade effects:**
-This leads to EPISTEMIC ERROR (no-position as position) → SCHOLARLY COLLAPSE ERROR (debating non-positions) → PEDAGOGICAL ERROR (teaching radical emptiness). The practitioner becomes positionless.
+This leads to <EPISTEMIC ERROR (no-position as position) → SCHOLARLY COLLAPSE ERROR (debating non-positions) → PEDAGOGICAL ERROR (teaching radical emptiness). The practitioner becomes positionless.
 
-[11749-11760] [lines 11220-11226]
-[ONTOLOGICAL ERROR, Nihilistic ERROR, EPISTEMIC ERROR]
+[11749-11760] 
+<ontological-error> <nihilistic-error> <epistemic-error>
 **Misreading:**
 The text says: without cause, without conditions, no duality of perceived and perceiver, characteristics not divided anywhere, coarse perceiver exhausted. A reader might think: "This is total emptiness - nothing exists, no causes, no conditions, no perceiver or perceived. Everything is completely empty."
 
@@ -767,7 +768,7 @@ The text says: without cause, without conditions, no duality of perceived and pe
 Radical emptiness can feel liberating. No causes, no conditions, no perceiver - complete freedom from all structures. But this easily slides into nihilistic denial of all functional reality.
 
 **Primary consequence:**
-The practitioner denies causality, conditions, and perception. "Everything is empty" mutates into a blanket dismissal of all phenomena, leading to irresponsible disengagement.
+The practitioner denies causality, conditions, and perception. "Everything is empty" mutates into blanket dismissal of all phenomena, leading to irresponsible disengagement.
 
 **Secondary consequences:**
 1. Denying cause and effect
@@ -776,10 +777,10 @@ The practitioner denies causality, conditions, and perception. "Everything is em
 4. Missing that emptiness doesn't negate functionality
 
 **Cascade effects:**
-This generates NIHILISTIC ERROR (total denial) → PRACTICE ERROR (abandoning ethics) → EPISTEMIC ERROR (confusing emptiness with non-existence). The practitioner becomes irresponsible.
+This generates <nihilistic-error> (total denial) → PRACTICE ERROR (abandoning ethics) → EPISTEMIC ERROR (confusing emptiness with non-existence). The practitioner becomes irresponsible.
 
-[11761-11770] [lines 11227-11240]
-[ONTOLOGICAL ERROR, REIFICATION ERROR, EPISTEMIC ERROR]
+[11761-11770] 
+<ontological-error> <reification-error> <epistemic-error>
 **Misreading:**
 The text continues with negations: primordially pure by primordial non-existence, spontaneously accomplished naturally, unceasing display, Buddha-fields, appearances. A reader might think: "This is showing that everything is primordially pure and spontaneously present - it's all the display of the base, inherently perfect."
 
@@ -796,10 +797,10 @@ The practitioner reifies "primordial purity" and "spontaneous accomplishment" as
 4. Missing that purity is recognition, not quality
 
 **Cascade effects:**
-This leads to ETERNALISTIC ERROR (inherent purity) → REIFICATION ERROR (purity as quality) → PRACTICE ERROR (false completion). The practitioner adopts inherent perfection.
+This leads to <eternalistic-error> (inherent purity) → REIFICATION ERROR (purity as quality) → PRACTICE ERROR (false completion). The practitioner adopts inherent perfection.
 
-[11771-11781] [lines 11241-11260]
-[ONTOLOGICAL ERROR, SCHOLARLY COLLAPSE ERROR, EPISTEMIC ERROR]
+[11771-11781] 
+<ontological-error> <scholarly-collapse-error> <epistemic-error>
 **Misreading:**
 The text presents detailed arguments and scriptural citations about the base, its aspects, and its relationship to appearance. A reader might think: "This is rigorous philosophical theology establishing the correct view through reasoning and scriptural authority."
 
@@ -816,15 +817,15 @@ The practitioner approaches Dzogchen as philosophical theology - a system to be 
 4. Missing that pointing is not proving
 
 **Cascade effects:**
-This generates SCHOLARLY COLLAPSE ERROR (Dzogchen scholasticism) → EPISTEMIC ERROR (knowledge as wisdom) → PEDAGOGICAL ERROR (academic transmission). The tradition becomes academic.
+This generates <scholarly-collapse-error> (Dzogchen scholasticism) → EPISTEMIC ERROR (knowledge as wisdom) → PEDAGOGICAL ERROR (academic transmission). The tradition becomes academic.
 
-[11782-11791] [lines 11261-11280]
-[ONTOLOGICAL ERROR, REIFICATION ERROR, MEDITATIONISM ERROR]
+[11782-11791] 
+<ontological-error> <reification-error> <meditationism-error>
 **Misreading:**
 The text describes the nature's display as uninterrupted, vast, without increase or decrease, empty or full, with clarity, the place where many kayas arise. A reader might think: "This is describing the actual nature of display - it's a vast, clear, uninterrupted field of wisdom-light where kayas manifest."
 
 **Why it arises:**
-Vivid imagery creates strong impressions. We naturally visualize a "vast expanse" of clarity and light. This seems like a description of what the base actually looks like or is like.
+Vivid imagery creates <strong impressions. We naturally visualize a "vast expanse" of clarity and light. This seems like a description of what the base actually looks like or is like.
 
 **Primary consequence:**
 The practitioner reifies the display as a luminous field or expanse. This warps into the sought-after vision - the vast clear light from which kayas emerge.
@@ -836,10 +837,10 @@ The practitioner reifies the display as a luminous field or expanse. This warps 
 4. Missing that display is unceasing manifestation, not a place
 
 **Cascade effects:**
-This leads to REIFICATION ERROR (display as realm) → MEDITATIONISM ERROR (seeking display visions) → ONTOLOGICAL ERROR (luminous metaphysics). The practitioner seeks the display realm.
+This leads to <REIFICATION ERROR (display as realm) → MEDITATIONISM ERROR (seeking display visions) → ONTOLOGICAL ERROR (luminous metaphysics). The practitioner seeks the display realm.
 
-[11792-11802] [lines 11281-11299]
-[ONTOLOGICAL ERROR, SCHOLARLY COLLAPSE ERROR, EPISTEMIC ERROR]
+[11792-11802] 
+<ontological-error> <scholarly-collapse-error> <epistemic-error>
 **Misreading:**
 The text continues with extensive quotations from tantras, detailed explanations of aspects, modes of arising, and philosophical arguments. A reader might think: "This is the complete Dzogchen philosophical system - all the details, all the sources, all the arguments comprehensively presented."
 
@@ -856,18 +857,18 @@ The practitioner treats Dzogchen as a comprehensive philosophical system to be m
 4. Missing that one pointing is enough
 
 **Cascade effects:**
-This generates SCHOLARLY COLLAPSE ERROR (comprehensive accumulation) → EPISTEMIC ERROR (detail as depth) → PEDAGOGICAL ERROR (teaching comprehensive systems). The tradition becomes encyclopedic.
+This generates <scholarly-collapse-error> (comprehensive accumulation) → EPISTEMIC ERROR (detail as depth) → PEDAGOGICAL ERROR (teaching comprehensive systems). The tradition becomes encyclopedic.
 
-[11803-11812] [lines 11300-11320]
-[ONTOLOGICAL ERROR, REIFICATION ERROR, EPISTEMIC ERROR]
+[11803-11812] 
+<ontological-error> <reification-error> <epistemic-error>
 **Misreading:**
 The text explains how compassion arises from the base like clouds from the sky - not truly existent yet appearing. A reader might think: "So compassion is like clouds - they appear but aren't real. This means appearances are illusory but the base (sky) is real."
 
 **Why it arises:**
-The cloud-sky metaphor is common and evocative. We naturally privilege the sky as "real" and clouds as "mere appearances." This creates a dualistic reading of the metaphor.
+The cloud-sky metaphor is common and evocative. We naturally privilege the sky as "real" and clouds as "mere appearances." This creates <a dualistic reading of the metaphor.
 
 **Primary consequence:**
-The practitioner reifies the base as "real" (like sky) and appearances as "unreal" (like clouds). This mutates into a dualistic metaphysics with a real substratum and unreal manifestations.
+The practitioner reifies the base as "real" (like sky) and appearances as "unreal" (like clouds). This mutates into dualistic metaphysics with a real substratum and unreal manifestations.
 
 **Secondary consequences:**
 1. Privileging base over appearances
@@ -876,10 +877,10 @@ The practitioner reifies the base as "real" (like sky) and appearances as "unrea
 4. Missing that both base and appearances are empty
 
 **Cascade effects:**
-This leads to ONTOLOGICAL ERROR (base as real) → MEDITATIONISM ERROR (seeking the real base) → EPISTEMIC ERROR (dualistic metaphor). The practitioner seeks the sky beyond clouds.
+This leads to <ONTOLOGICAL ERROR (base as real) → MEDITATIONISM ERROR (seeking the real base) → EPISTEMIC ERROR (dualistic metaphor). The practitioner seeks the sky beyond clouds.
 
-[11813-11823] [lines 11321-11340]
-[ONTOLOGICAL ERROR, REIFICATION ERROR, PRACTICE ERROR]
+[11813-11823] 
+<ontological-error> <reification-error> <practice-error>
 **Misreading:**
 The text describes the eight modes of arising of spontaneous accomplishment - desire, enjoyment, form, non-dual view, methods, wisdom gates, compassion. A reader might think: "These are the eight real ways that spontaneous accomplishment manifests. These are the fundamental modes of enlightened expression."
 
@@ -896,10 +897,10 @@ The eight modes become a taxonomy of enlightened manifestation. The practitioner
 4. Missing that modes are descriptive, not prescriptive
 
 **Cascade effects:**
-This generates SCHOLARLY COLLAPSE ERROR (eight-fold system) → REIFICATION ERROR (modes as real categories) → PRACTICE ERROR (seeking modes). The practitioner counts to eight.
+This generates <scholarly-collapse-error> (eight-fold system) → REIFICATION ERROR (modes as real categories) → PRACTICE ERROR (seeking modes). The practitioner counts to eight.
 
-[11824-11834] [lines 11341-11360]
-[ONTOLOGICAL ERROR, REIFICATION ERROR, MEDITATIONISM ERROR]
+[11824-11834] 
+<ontological-error> <reification-error> <meditationism-error>
 **Misreading:**
 The text describes the wish-fulfilling jewel and how it abides in one's form, the youth vase body appearing outwardly while abiding in spontaneous accomplishment's mode. A reader might think: "This describes actual metaphysical structures - the wish-fulfilling jewel within, the youth vase body as a real inner dimension."
 
@@ -907,7 +908,7 @@ The text describes the wish-fulfilling jewel and how it abides in one's form, th
 Rich symbolic imagery seems to describe metaphysical realities. "Wish-fulfilling jewel," "youth vase body" - these suggest actual entities or realms within the practitioner's being.
 
 **Primary consequence:**
-The practitioner reifies symbolic anatomy as literal metaphysical structure. The "youth vase body" devolves into an actual inner body, the "wish-fulfilling jewel" a real inner jewel.
+The practitioner reifies symbolic anatomy as literal metaphysical structure. The "youth vase body" devolves inton actual inner body, the "wish-fulfilling jewel" a real inner jewel.
 
 **Secondary consequences:**
 1. Seeking the youth vase body as inner reality
@@ -916,10 +917,10 @@ The practitioner reifies symbolic anatomy as literal metaphysical structure. The
 4. Missing that symbols point to experience, not entities
 
 **Cascade effects:**
-This leads to REIFICATION ERROR (symbolic anatomy as literal) → MEDITATIONISM ERROR (seeking inner bodies) → ONTOLOGICAL ERROR (inner metaphysics). The practitioner explores inner realms.
+This leads to <REIFICATION ERROR (symbolic anatomy as literal) → MEDITATIONISM ERROR (seeking inner bodies) → ONTOLOGICAL ERROR (inner metaphysics). The practitioner explores inner realms.
 
-[11835-11845] [lines 11361-11380]
-[ONTOLOGICAL ERROR, EPISTEMIC ERROR, SCHOLARLY COLLAPSE ERROR]
+[11835-11845] 
+<ontological-error> <epistemic-error> <scholarly-collapse-error>
 **Misreading:**
 The text lists how from wisdom's unceasing meaning arises the mode of enjoyment, from qualities the mode of spontaneous form, from compassion the mode of impure appearance. A reader might think: "This explains the causal mechanism of manifestation - how different aspects produce different displays. This is the cosmology of manifestation."
 
@@ -927,7 +928,7 @@ The text lists how from wisdom's unceasing meaning arises the mode of enjoyment,
 Causal explanations satisfy our need for understanding how things work. We assume the text is explaining the mechanics of manifestation - the "how" of appearance arising.
 
 **Primary consequence:**
-The practitioner treats the description as causal mechanics. "Compassion gives rise to impure appearance" mutates into a cosmological law explaining the origin of samsara.
+The practitioner treats the description as causal mechanics. "Compassion gives rise to impure appearance" mutates into cosmological law explaining the origin of samsara.
 
 **Secondary consequences:**
 1. Understanding the description as causal explanation
@@ -936,10 +937,10 @@ The practitioner treats the description as causal mechanics. "Compassion gives r
 4. Missing that description is not explanation
 
 **Cascade effects:**
-This generates ONTOLOGICAL ERROR (description as causality) → SCHOLARLY COLLAPSE ERROR (manifestation mechanics) → EPISTEMIC ERROR (understanding as explanation). The practitioner seeks mechanics.
+This generates <ONTOLOGICAL ERROR (description as causality) → SCHOLARLY COLLAPSE ERROR (manifestation mechanics) → EPISTEMIC ERROR (understanding as explanation). The practitioner seeks mechanics.
 
-[11846-11854] [lines 11381-11400]
-[ONTOLOGICAL ERROR, REIFICATION ERROR, EPISTEMIC ERROR]
+[11846-11854] 
+<ontological-error> <reification-error> <epistemic-error>
 **Misreading:**
 The text describes the display as immeasurable, inconceivable great Dharma, with all lights and forms naturally arranged in majestic spontaneous presence. A reader might think: "This is describing the actual appearance of the base - a vast, majestic, luminous display that's the true nature of reality."
 
@@ -956,10 +957,10 @@ The practitioner reifies the description as the "true" appearance of reality. Or
 4. Missing that majesty is in the seeing, not the seen
 
 **Cascade effects:**
-This leads to REIFICATION ERROR (majestic display as real) → MEDITATIONISM ERROR (seeking visions) → ONTOLOGICAL ERROR (hierarchical reality). The practitioner seeks majesty.
+This leads to <REIFICATION ERROR (majestic display as real) → MEDITATIONISM ERROR (seeking visions) → ONTOLOGICAL ERROR (hierarchical reality). The practitioner seeks majesty.
 
-[11855-11864] [lines 11401-11420]
-[ONTOLOGICAL ERROR, REIFICATION ERROR, MEDITATIONISM ERROR]
+[11855-11864] 
+<ontological-error> <reification-error> <meditationism-error>
 **Misreading:**
 The text quotes "Mu tig phreng ba" with poetic descriptions: clarity manifest, display spontaneously present, Dharma-kaya beyond introduction, essence naturally free, nature all-pervading. A reader might think: "This tantra reveals the actual characteristics of the display - clarity, spontaneous presence, natural freedom, all-pervasion."
 
@@ -967,7 +968,7 @@ The text quotes "Mu tig phreng ba" with poetic descriptions: clarity manifest, d
 Poetic tantric language seems authoritative and descriptive. The specific characteristics (clarity, freedom, pervasion) seem like technical descriptions of enlightened qualities.
 
 **Primary consequence:**
-The practitioner treats tantric poetry as technical specifications. "Naturally free" mutates into a property of essence, "all-pervading" a characteristic of nature.
+The practitioner treats tantric poetry as technical specifications. "Naturally free" mutates into property of essence, "all-pervading" a characteristic of nature.
 
 **Secondary consequences:**
 1. Memorizing tantric qualities as properties
@@ -976,10 +977,10 @@ The practitioner treats tantric poetry as technical specifications. "Naturally f
 4. Missing that poetry evokes, not specifies
 
 **Cascade effects:**
-This generates SCHOLARLY COLLAPSE ERROR (poetry as technical specs) → REIFICATION ERROR (qualities as properties) → MEDITATIONISM ERROR (seeking specific qualities). The practitioner seeks specifications.
+This generates <scholarly-collapse-error> (poetry as technical specs) → REIFICATION ERROR (qualities as properties) → MEDITATIONISM ERROR (seeking specific qualities). The practitioner seeks specifications.
 
-[11865-11874] [lines 11421-11440]
-[ONTOLOGICAL ERROR, EPISTEMIC ERROR, PRACTICE ERROR]
+[11865-11874] 
+<ontological-error> <epistemic-error> <practice-error>
 **Misreading:**
 The text describes how this display warps into the ground for samsara and nirvana, how compassion gives rise to impure appearance. A reader might think: "This explains the origin of delusion - how the pure display becomes impure samsara. This is the fall from primordial purity."
 
@@ -987,7 +988,7 @@ The text describes how this display warps into the ground for samsara and nirvan
 Origin stories satisfy our need for narrative. The "fall" from purity to impurity is a familiar archetype. We imagine a primordial state that was lost or corrupted.
 
 **Primary consequence:**
-The practitioner creates a narrative of the Fall - from pure display to impure samsara. This mutates into a cosmological drama of primordial purity corrupted by confusion.
+The practitioner creates <a narrative of the Fall - from pure display to impure samsara. This mutates into cosmological drama of primordial purity corrupted by confusion.
 
 **Secondary consequences:**
 1. Mourning the lost primordial purity
@@ -996,10 +997,10 @@ The practitioner creates a narrative of the Fall - from pure display to impure s
 4. Missing that purity was never lost
 
 **Cascade effects:**
-This leads to ONTOLOGICAL ERROR (Fall narrative) → PRACTICE ERROR (restoration project) → PSYCHOLOGIZATION ERROR (nostalgia for origin). The practitioner seeks return to Eden.
+This leads to <ONTOLOGICAL ERROR (Fall narrative) → PRACTICE ERROR (restoration project) → PSYCHOLOGIZATION ERROR (nostalgia for origin). The practitioner seeks return to Eden.
 
-[11875-11884] [lines 11441-11460]
-[ONTOLOGICAL ERROR, SCHOLARLY COLLAPSE ERROR, EPISTEMIC ERROR]
+[11875-11884] 
+<ontological-error> <scholarly-collapse-error> <epistemic-error>
 **Misreading:**
 The text continues with extensive poetic descriptions from tantras, listing qualities like vast, spontaneous, clear, unceasing, complete. A reader might think: "This is the comprehensive description of the base's qualities. These are the definitive attributes of reality."
 
@@ -1007,7 +1008,7 @@ The text continues with extensive poetic descriptions from tantras, listing qual
 Comprehensive lists suggest completeness. We assume that accumulating all these qualities gives us the full picture. Scholarly completeness masquerades as wisdom.
 
 **Primary consequence:**
-The practitioner compiles lists of the base's qualities. This devolves into an encyclopedic project - cataloging all the characteristics of ultimate reality.
+The practitioner compiles lists of the base's qualities. This devolves inton encyclopedic project - cataloging all the characteristics of ultimate reality.
 
 **Secondary consequences:**
 1. Accumulating quality lists
@@ -1016,10 +1017,10 @@ The practitioner compiles lists of the base's qualities. This devolves into an e
 4. Missing that qualities are imputed, not inherent
 
 **Cascade effects:**
-This generates SCHOLARLY COLLAPSE ERROR (quality cataloging) → REIFICATION ERROR (qualities as attributes) → EPISTEMIC ERROR (completeness as wisdom). The practitioner catalogs reality.
+This generates <scholarly-collapse-error> (quality cataloging) → REIFICATION ERROR (qualities as attributes) → EPISTEMIC ERROR (completeness as wisdom). The practitioner catalogs reality.
 
-[11885-11893] [lines 11461-11480]
-[ONTOLOGICAL ERROR, SCHOLARLY COLLAPSE ERROR, EPISTEMIC ERROR]
+[11885-11893] 
+<ontological-error> <scholarly-collapse-error> <epistemic-error>
 **Misreading:**
 The text explains the eight modes of spontaneous accomplishment's arising in detail. A reader might think: "These are the eight fundamental modes of manifestation. Understanding these exhausts the nature of display. This is the complete taxonomy."
 
@@ -1036,10 +1037,10 @@ The eight modes become a closed system of manifestation. The practitioner believ
 4. Missing that display is unlimited
 
 **Cascade effects:**
-This leads to SCHOLARLY COLLAPSE ERROR (closed taxonomy) → REIFICATION ERROR (modes as exhaustive) → EPISTEMIC ERROR (intellectual closure). The practitioner thinks they've got it.
+This leads to <scholarly-collapse-error> (closed taxonomy) → REIFICATION ERROR (modes as exhaustive) → EPISTEMIC ERROR (intellectual closure). The practitioner thinks they've got it.
 
-[11894-11902] [lines 11481-11500]
-[ONTOLOGICAL ERROR, REIFICATION ERROR, MEDITATIONISM ERROR]
+[11894-11902] 
+<ontological-error> <reification-error> <meditationism-error>
 **Misreading:**
 The text describes each of the eight modes with poetic detail: desire unceasing like the wish-fulfilling jewel, enjoyment as wisdom-display, form as kayas, etc. A reader might think: "These describe the actual characteristics of each mode - the real way each one manifests in the nature."
 
@@ -1047,7 +1048,7 @@ The text describes each of the eight modes with poetic detail: desire unceasing 
 Vivid descriptions create mental imagery. We visualize each mode with its characteristics. The poetry seems to encode real information about the nature of each mode.
 
 **Primary consequence:**
-The practitioner treats poetic descriptions as technical specifications for each mode. "Wisdom-display" mutates into a specific type of manifestation with defined characteristics.
+The practitioner treats poetic descriptions as technical specifications for each mode. "Wisdom-display" mutates into specific type of manifestation with defined characteristics.
 
 **Secondary consequences:**
 1. Memorizing mode characteristics
@@ -1056,10 +1057,10 @@ The practitioner treats poetic descriptions as technical specifications for each
 4. Missing that descriptions evoke, not define
 
 **Cascade effects:**
-This generates REIFICATION ERROR (modes as defined entities) → MEDITATIONISM ERROR (seeking mode experiences) → SCHOLARLY COLLAPSE ERROR (mode taxonomy). The practitioner categorizes the infinite.
+This generates <REIFICATION ERROR (modes as defined entities) → MEDITATIONISM ERROR (seeking mode experiences) → SCHOLARLY COLLAPSE ERROR (mode taxonomy). The practitioner categorizes the infinite.
 
-[11903-11911] [lines 11501-11520]
-[ONTOLOGICAL ERROR, REIFICATION ERROR, PRACTICE ERROR]
+[11903-11911] 
+<ontological-error> <reification-error> <practice-error>
 **Misreading:**
 The text explains how the impure mode of appearance arises from compassion's unceasing quality. A reader might think: "So impure samsara comes from compassion. This means samsara is actually a form of compassion, delusion is compassion's expression."
 
@@ -1076,10 +1077,10 @@ The practitioner reifies samsara as "compassion's expression." This becomes spir
 4. Missing that recognition transforms, not justification
 
 **Cascade effects:**
-This leads to PRACTICE ERROR (spiritual bypassing) → PSYCHOLOGIZATION ERROR (avoiding real work) → ETERNALISTIC ERROR (samsara as secretly pure). The practitioner justifies delusion.
+This leads to <practice-error> (spiritual bypassing) → PSYCHOLOGIZATION ERROR (avoiding real work) → ETERNALISTIC ERROR (samsara as secretly pure). The practitioner justifies delusion.
 
-[11912-11920] [lines 11521-11540]
-[ONTOLOGICAL ERROR, EPISTEMIC ERROR, SCHOLARLY COLLAPSE ERROR]
+[11912-11920] 
+<ontological-error> <epistemic-error> <scholarly-collapse-error>
 **Misreading:**
 The text continues with extensive quotations, detailed explanations of modes, and scriptural references. A reader might think: "This is the comprehensive philosophical presentation of spontaneous accomplishment. Studying this gives complete understanding."
 
@@ -1096,10 +1097,10 @@ The practitioner approaches the text as comprehensive philosophy to be mastered.
 4. Missing that pointing is not accumulating
 
 **Cascade effects:**
-This generates SCHOLARLY COLLAPSE ERROR (comprehensive study) → EPISTEMIC ERROR (knowledge as wisdom) → PEDAGOGICAL ERROR (teaching comprehensive content). The tradition becomes encyclopedic.
+This generates <scholarly-collapse-error> (comprehensive study) → EPISTEMIC ERROR (knowledge as wisdom) → PEDAGOGICAL ERROR (teaching comprehensive content). The tradition becomes encyclopedic.
 
-[11921-11934] [lines 11541-11560]
-[ONTOLOGICAL ERROR, REIFICATION ERROR, EPISTEMIC ERROR]
+[11921-11934] 
+<ontological-error> <reification-error> <epistemic-error>
 **Misreading:**
 The text describes the base as vast like space, clear like crystal, uninterrupted, appearing yet unestablished, with five lights naturally present. A reader might think: "This is describing the actual nature of the base - vast space-like awareness, crystal clarity, five lights. These are the real characteristics of ultimate reality."
 
@@ -1116,10 +1117,10 @@ The practitioner reifies the descriptions as the inherent nature of the base. "V
 4. Missing that descriptions are pointers, not properties
 
 **Cascade effects:**
-This leads to REIFICATION ERROR (metaphors as properties) → MEDITATIONISM ERROR (seeking described states) → ONTOLOGICAL ERROR (descriptive metaphysics). The practitioner chases descriptions.
+This leads to <REIFICATION ERROR (metaphors as properties) → MEDITATIONISM ERROR (seeking described states) → ONTOLOGICAL ERROR (descriptive metaphysics). The practitioner chases descriptions.
 
-[11935-11948] [lines 11561-11580]
-[ONTOLOGICAL ERROR, REIFICATION ERROR, PRACTICE ERROR]
+[11935-11948] 
+<ontological-error> <reification-error> <practice-error>
 **Misreading:**
 The text explains that from this base, through the doorway of spontaneous self-arisen rigpa, the six realms appear. A reader might think: "So the six realms come from the base through rigpa. This explains the origin of samsara - it emanates from the pure base."
 
@@ -1127,7 +1128,7 @@ The text explains that from this base, through the doorway of spontaneous self-a
 Origin explanations satisfy our causal thinking. We want to know where samsara comes from. that it "comes from" the base suggests a creation story.
 
 **Primary consequence:**
-The practitioner creates a cosmogony - samsara arising from the pure base. This mutates into a narrative of fall from purity, or manifestation of the unmanifest.
+The practitioner creates <a cosmogony - samsara arising from the pure base. This mutates into narrative of fall from purity, or manifestation of the unmanifest.
 
 **Secondary consequences:**
 1. Viewing samsara as emanation from purity
@@ -1136,10 +1137,10 @@ The practitioner creates a cosmogony - samsara arising from the pure base. This 
 4. Missing that base and display are not sequential
 
 **Cascade effects:**
-This leads to ONTOLOGICAL ERROR (cosmogonical narrative) → PRACTICE ERROR (seeking return to source) → ETERNALISTIC ERROR (source as prior). The practitioner seeks the origin.
+This leads to <ONTOLOGICAL ERROR (cosmogonical narrative) → PRACTICE ERROR (seeking return to source) → ETERNALISTIC ERROR (source as prior). The practitioner seeks the origin.
 
-[11949-11962] [lines 11581-11600]
-[ONTOLOGICAL ERROR, EPISTEMIC ERROR, PEDAGOGICAL ERROR]
+[11949-11962] 
+<ontological-error> <epistemic-error> <pedagogical-error>
 **Misreading:**
 The text states that deluded appearances are like dreams - not established in primordial purity's ground, naturally returning to it. A reader might think: "So delusions are like dreams - unreal, returning to the real ground. The practice is to let them naturally return, not to do anything."
 
@@ -1147,7 +1148,7 @@ The text states that deluded appearances are like dreams - not established in pr
 The dream analogy suggests effortless liberation. Dreams naturally fade - so too delusions naturally return to purity. This appeals to spiritual laziness.
 
 **Primary consequence:**
-The practitioner adopts "natural return" as passive practice. "Just let it be" devolves into an excuse for non-practice, waiting for delusions to naturally disappear.
+The practitioner adopts "natural return" as passive practice. "Just let it be" devolves inton excuse for non-practice, waiting for delusions to naturally disappear.
 
 **Secondary consequences:**
 1. Passive waiting for natural liberation
@@ -1156,10 +1157,10 @@ The practitioner adopts "natural return" as passive practice. "Just let it be" d
 4. Missing that recognition requires engagement
 
 **Cascade effects:**
-This leads to PRACTICE ERROR (passive waiting) → PSYCHOLOGIZATION ERROR (avoidance) → NIHILISTIC ERROR (nothing to do). The practitioner waits for enlightenment.
+This leads to <practice-error> (passive waiting) → PSYCHOLOGIZATION ERROR (avoidance) → NIHILISTIC ERROR (nothing to do). The practitioner waits for enlightenment.
 
-[11963-11976] [lines 11601-11620]
-[ONTOLOGICAL ERROR, EPISTEMIC ERROR, SCHOLARLY COLLAPSE ERROR]
+[11963-11976] 
+<ontological-error> <epistemic-error> <scholarly-collapse-error>
 **Misreading:**
 The text explains the crucial distinction between self-appearance and common appearance, how in bardo one's own six realms appear, and the two aspects of whether they function or not. A reader might think: "This is explaining the technical details of how appearances work. These are the mechanics of the bardo and manifestation."
 
@@ -1176,10 +1177,10 @@ The practitioner treats the text as technical manual explaining mechanics. Bardo
 4. Missing that mechanics are imputed, not inherent
 
 **Cascade effects:**
-This generates SCHOLARLY COLLAPSE ERROR (mechanical analysis) → EPISTEMIC ERROR (understanding mechanics as wisdom) → PEDAGOGICAL ERROR (teaching mechanics). The tradition becomes technical.
+This generates <scholarly-collapse-error> (mechanical analysis) → EPISTEMIC ERROR (understanding mechanics as wisdom) → PEDAGOGICAL ERROR (teaching mechanics). The tradition becomes technical.
 
-[11977-11984] [lines 11621-11640]
-[ONTOLOGICAL ERROR, REIFICATION ERROR, PRACTICE ERROR]
+[11977-11984] 
+<ontological-error> <reification-error> <practice-error>
 **Misreading:**
 The text emphasizes distinguishing these two aspects is extremely important, explaining how impure samsara's door hasn't opened if self-appearance is recognized. A reader might think: "This is describing the crucial moment - if I recognize my own appearance in the bardo, I won't enter samsara. Recognition is the key."
 
@@ -1187,7 +1188,7 @@ The text emphasizes distinguishing these two aspects is extremely important, exp
 We seek the key technique, the crucial moment, the essential point. The emphasis on recognition as preventing samsara's door from opening suggests a practice strategy.
 
 **Primary consequence:**
-The practitioner treats recognition as a technique to prevent rebirth. This mutates into a goal-oriented practice - recognize in bardo to avoid samsara.
+The practitioner treats recognition as a technique to prevent rebirth. This mutates into goal-oriented practice - recognize in bardo to avoid samsara.
 
 **Secondary consequences:**
 1. Practicing recognition as future technique
@@ -1196,10 +1197,10 @@ The practitioner treats recognition as a technique to prevent rebirth. This muta
 4. Missing that recognition is present, not future
 
 **Cascade effects:**
-This leads to PRACTICE ERROR (future-oriented technique) → MEDITATIONISM ERROR (seeking recognition experience) → PSYCHOLOGIZATION ERROR (bardo anxiety). The practitioner practices for death.
+This leads to <practice-error> (future-oriented technique) → MEDITATIONISM ERROR (seeking recognition experience) → PSYCHOLOGIZATION ERROR (bardo anxiety). The practitioner practices for death.
 
-[11985-11993] [lines 11641-11660]
-[ONTOLOGICAL ERROR, EPISTEMIC ERROR, PRACTICE ERROR]
+[11985-11993] 
+<ontological-error> <epistemic-error> <practice-error>
 **Misreading:**
 The text explains that if deluded appearance hasn't emptied, one cannot be liberated, and that this crucial point is extremely profound. A reader might think: "So I must empty deluded appearances to be liberated. The practice is to make delusions empty."
 
@@ -1207,7 +1208,7 @@ The text explains that if deluded appearance hasn't emptied, one cannot be liber
 that delusions must be "emptied" suggests a process of elimination or transformation. We imagine a practice of emptying, clearing, purifying deluded appearance.
 
 **Primary consequence:**
-The practitioner adopts "emptying delusion" as practice goal. This mutates into a project of clearing away delusion to reveal purity - a purification practice.
+The practitioner adopts "emptying delusion" as practice goal. This mutates into project of clearing away delusion to reveal purity - a purification practice.
 
 **Secondary consequences:**
 1. Seeking to empty or clear delusion
@@ -1216,10 +1217,10 @@ The practitioner adopts "emptying delusion" as practice goal. This mutates into 
 4. Missing that emptiness is nature, not achievement
 
 **Cascade effects:**
-This leads to PRACTICE ERROR (emptying project) → MEDITATIONISM ERROR (seeking empty states) → ONTOLOGICAL ERROR (delusion as real thing to empty). The practitioner empties.
+This leads to <practice-error> (emptying project) → MEDITATIONISM ERROR (seeking empty states) → ONTOLOGICAL ERROR (delusion as real thing to empty). The practitioner empties.
 
-[11994-12001] [lines 11661-11680]
-[ONTOLOGICAL ERROR, SCHOLARLY COLLAPSE ERROR, EPISTEMIC ERROR]
+[11994-12001] 
+<ontological-error> <scholarly-collapse-error> <epistemic-error>
 **Misreading:**
 The text introduces the topic of establishing qualities and faults in detail, presenting three aspects: eight qualities generally shown, dividing into faults and qualities by conditions, and establishing the reasoning of arising and ceasing. A reader might think: "This is the systematic philosophical analysis of qualities and faults. This is rigorous Buddhist philosophy."
 
@@ -1236,10 +1237,10 @@ The practitioner treats the text as systematic philosophy to be studied. The thr
 4. Missing that analysis serves recognition
 
 **Cascade effects:**
-This generates SCHOLARLY COLLAPSE ERROR (academic analysis) → EPISTEMIC ERROR (analysis as wisdom) → PEDAGOGICAL ERROR (teaching systematic philosophy). The tradition becomes academic.
+This generates <scholarly-collapse-error> (academic analysis) → EPISTEMIC ERROR (analysis as wisdom) → PEDAGOGICAL ERROR (teaching systematic philosophy). The tradition becomes academic.
 
-[12002-12010] [lines 11681-11690]
-[ONTOLOGICAL ERROR, REIFICATION ERROR, PRACTICE ERROR]
+[12002-12010] 
+<ontological-error> <reification-error> <practice-error>
 **Misreading:**
 The text explains that if the base were not spontaneously accomplished, there would be no meaning to base-display's arising, and no meaning to samsara/nirvana's arising. A reader might think: "This proves that the base must be spontaneously accomplished. The argument establishes this as the correct view."
 
@@ -1247,7 +1248,7 @@ The text explains that if the base were not spontaneously accomplished, there wo
 Logical arguments appeal to our rational mind. When we see reasoning that "proves" something, we accept the conclusion as established truth. This feels like solid ground.
 
 **Primary consequence:**
-The practitioner treats the argument as proof establishing the view. Spontaneous accomplishment devolves into an established philosophical position supported by logic.
+The practitioner treats the argument as proof establishing the view. Spontaneous accomplishment devolves inton established philosophical position supported by logic.
 
 **Secondary consequences:**
 1. Treating logic as establishing truth
@@ -1256,10 +1257,10 @@ The practitioner treats the argument as proof establishing the view. Spontaneous
 4. Missing that arguments are medicine, not food
 
 **Cascade effects:**
-This leads to SCHOLARLY COLLAPSE ERROR (philosophical argumentation) → EPISTEMIC ERROR (logic as path to truth) → ONTOLOGICAL ERROR (proved metaphysics). The practitioner argues.
+This leads to <scholarly-collapse-error> (philosophical argumentation) → EPISTEMIC ERROR (logic as path to truth) → ONTOLOGICAL ERROR (proved metaphysics). The practitioner argues.
 
-[12011-12021] [lines 11691-11710]
-[ONTOLOGICAL ERROR, REIFICATION ERROR, SCHOLARLY COLLAPSE ERROR]
+[12011-12021] 
+<ontological-error> <reification-error> <scholarly-collapse-error>
 **Misreading:**
 The text explains that base and base-display have inner/outer dimensions, subtle/outer appearances. A reader might think: "This describes the actual structure of the base - it has inner and outer aspects, subtle and outer dimensions. This is the architecture of reality."
 
@@ -1276,10 +1277,10 @@ The practitioner reifies spatial metaphors as ontological structure. The base ha
 4. Missing that spatial terms are metaphors
 
 **Cascade effects:**
-This leads to REIFICATION ERROR (spatial metaphors as real) → SCHOLARLY COLLAPSE ERROR (mapping reality) → MEDITATIONISM ERROR (seeking inner dimensions). The practitioner explores inner space.
+This leads to <REIFICATION ERROR (spatial metaphors as real) → SCHOLARLY COLLAPSE ERROR (mapping reality) → MEDITATIONISM ERROR (seeking inner dimensions). The practitioner explores inner space.
 
-[12022-12032] [lines 11711-11730]
-[ONTOLOGICAL ERROR, REIFICATION ERROR, EPISTEMIC ERROR]
+[12022-12032] 
+<ontological-error> <reification-error> <epistemic-error>
 **Misreading:**
 The text states that if there were no compassion arising in spontaneous self-resonance, samsara and nirvana would be separate sections, not fitting as tamer and tamed. A reader might think: "This explains the necessity of compassion - without it, there's no relationship between samsara and nirvana. Compassion bridges the gap."
 
@@ -1287,7 +1288,7 @@ The text states that if there were no compassion arising in spontaneous self-res
 We want explanations for why things are the way they are. The necessity of compassion explains the functional relationship between samsara and nirvana. This satisfies our causal thinking.
 
 **Primary consequence:**
-The practitioner treats compassion as the necessary bridge between samsara and nirvana. This mutates into a metaphysical principle - compassion makes enlightenment possible.
+The practitioner treats compassion as the necessary bridge between samsara and nirvana. This mutates into metaphysical principle - compassion makes enlightenment possible.
 
 **Secondary consequences:**
 1. Reifying compassion as metaphysical necessity
@@ -1296,18 +1297,18 @@ The practitioner treats compassion as the necessary bridge between samsara and n
 4. Missing that compassion is activity, not principle
 
 **Cascade effects:**
-This generates ONTOLOGICAL ERROR (compassion as principle) → SCHOLARLY COLLAPSE ERROR (compassion cosmology) → PEDAGOGICAL ERROR (teaching compassion mechanics). The practitioner theorizes love.
+This generates <ONTOLOGICAL ERROR (compassion as principle) → SCHOLARLY COLLAPSE ERROR (compassion cosmology) → PEDAGOGICAL ERROR (teaching compassion mechanics). The practitioner theorizes love.
 
-[12033-12043] [lines 11731-11750]
-[ONTOLOGICAL ERROR, REIFICATION ERROR, EPISTEMIC ERROR]
+[12033-12043] 
+<ontological-error> <reification-error> <epistemic-error>
 **Misreading:**
 The text explains that sentient beings' self-appearance is deluded while Buddhas' self-face is pure, therefore displays are not the same. A reader might think: "This shows there are two types of appearance - deluded (sentient beings) and pure (Buddhas). These are fundamentally different kinds of display."
 
 **Why it arises:**
-Dualistic thinking naturally creates categories. "Deluded" vs "pure" appearance suggests two distinct types. We imagine these as ontologically different displays.
+Dualistic thinking naturally creates <categories. "Deluded" vs "pure" appearance suggests two distinct types. We imagine these as ontologically different displays.
 
 **Primary consequence:**
-The practitioner creates dualistic ontology of appearances. Deluded and pure become two fundamentally different types of display with different natures.
+The practitioner creates <dualistic ontology of appearances. Deluded and pure become two fundamentally different types of display with different natures.
 
 **Secondary consequences:**
 1. Dualistic view of appearance types
@@ -1316,10 +1317,10 @@ The practitioner creates dualistic ontology of appearances. Deluded and pure bec
 4. Missing that difference is in seeing, not display
 
 **Cascade effects:**
-This leads to ONTOLOGICAL ERROR (dualistic appearances) → MEDITATIONISM ERROR (seeking pure displays) → EPISTEMIC ERROR (appearance-based discrimination). The practitioner judges appearances.
+This leads to <ONTOLOGICAL ERROR (dualistic appearances) → MEDITATIONISM ERROR (seeking pure displays) → EPISTEMIC ERROR (appearance-based discrimination). The practitioner judges appearances.
 
-[12044-12054] [lines 11751-11770]
-[ONTOLOGICAL ERROR, REIFICATION ERROR, EPISTEMIC ERROR]
+[12044-12054] 
+<ontological-error> <reification-error> <epistemic-error>
 **Misreading:**
 The text states that although displays are not the same, sentient beings' benefit arises because there is compassion in the base, shining forth from base-display. A reader might think: "So compassion is really in the base, objectively present, shining forth to benefit beings. This explains how enlightenment activity works."
 
@@ -1336,10 +1337,10 @@ The practitioner reifies compassion as objectively present in the base. This bec
 4. Missing that compassion is expressed, not inherent
 
 **Cascade effects:**
-This generates ETERNALISTIC ERROR (compassion as inherent) → REIFICATION ERROR (cosmic compassion) → PEDAGOGICAL ERROR (teaching inherent compassion). The practitioner trusts the universe.
+This generates <eternalistic-error> (compassion as inherent) → REIFICATION ERROR (cosmic compassion) → PEDAGOGICAL ERROR (teaching inherent compassion). The practitioner trusts the universe.
 
-[12055-12060] [lines 11771-11790]
-[ONTOLOGICAL ERROR, REIFICATION ERROR, SCHOLARLY COLLAPSE ERROR]
+[12055-12060] 
+<ontological-error> <reification-error> <scholarly-collapse-error>
 **Misreading:**
 The text presents detailed analysis of the eight qualities, dividing them by conditions into fault and quality aspects. A reader might think: "This is the systematic philosophical analysis of qualities. These are the real characteristics and their conditional nature."
 
@@ -1347,7 +1348,7 @@ The text presents detailed analysis of the eight qualities, dividing them by con
 Systematic analysis appeals to intellectual satisfaction. We assume detailed categorization reveals truth. The eight qualities with their divisions promise comprehensive understanding.
 
 **Primary consequence:**
-The practitioner treats the qualities as real characteristics with conditional natures. This mutates into a metaphysics of qualities - cataloging the inherent features of the base.
+The practitioner treats the qualities as real characteristics with conditional natures. This mutates into metaphysics of qualities - cataloging the inherent features of the base.
 
 **Secondary consequences:**
 1. Cataloging qualities as attributes
@@ -1356,12 +1357,12 @@ The practitioner treats the qualities as real characteristics with conditional n
 4. Missing that qualities are imputed
 
 **Cascade effects:**
-This leads to SCHOLARLY COLLAPSE ERROR (quality analysis) → REIFICATION ERROR (qualities as real) → ONTOLOGICAL ERROR (attributive metaphysics). The practitioner catalogs attributes.
+This leads to <scholarly-collapse-error> (quality analysis) → REIFICATION ERROR (qualities as real) → ONTOLOGICAL ERROR (attributive metaphysics). The practitioner catalogs attributes.
 
-[12061-12067] [lines 11791-11810]
-[ONTOLOGICAL ERROR, EPISTEMIC ERROR, MEDITATIONISM ERROR]
+[12061-12067] 
+<ontological-error> <epistemic-error> <meditationism-error>
 **Misreading:**
-The text explains the reasoning of arising and ceasing appearances, how impure appearance arises from non-recognition, how this is the crucial point. A reader might think: "This explains the mechanics of delusion - how not recognizing leads to impure appearance. Understanding this mechanics leads to liberation."
+The text explains the reasoning of arising and ceasing appearances, how impure appearance arises from non-recognition, how this is the crucial point. A reader might think: "This explains the mechanics of delusion - how not recognizing leads to <impure appearance. Understanding this mechanics leads to <liberation."
 
 **Why it arises:**
 Mechanistic explanations satisfy our causal thinking. If we understand "how delusion works," we think we can reverse it. Knowledge of mechanics promises control.
@@ -1376,10 +1377,10 @@ The practitioner studies the mechanics of delusion as if understanding them cons
 4. Missing that mechanics are empty
 
 **Cascade effects:**
-This generates EPISTEMIC ERROR (mechanics as wisdom) → SCHOLARLY COLLAPSE ERROR (delusion mechanics) → PRACTICE ERROR (intellectual analysis). The practitioner analyzes.
+This generates <EPISTEMIC ERROR (mechanics as wisdom) → SCHOLARLY COLLAPSE ERROR (delusion mechanics) → PRACTICE ERROR (intellectual analysis). The practitioner analyzes.
 
-[12068-12074] [lines 11811-11830]
-[ONTOLOGICAL ERROR, REIFICATION ERROR, PRACTICE ERROR]
+[12068-12074] 
+<ontological-error> <reification-error> <practice-error>
 **Misreading:**
 The text emphasizes that this crucial point is extremely profound and important. A reader might think: "This is the essential teaching - the crucial point about recognition. I must understand this point thoroughly and practice it."
 
@@ -1396,10 +1397,10 @@ The practitioner treats the "crucial point" as a technique to master. This warps
 4. Missing that crucial point is recognition itself
 
 **Cascade effects:**
-This leads to PRACTICE ERROR (technique fixation) → PSYCHOLOGIZATION ERROR (crucial point anxiety) → MEDITATIONISM ERROR (seeking crucial recognition). The practitioner seeks the key.
+This leads to <practice-error> (technique fixation) → PSYCHOLOGIZATION ERROR (crucial point anxiety) → MEDITATIONISM ERROR (seeking crucial recognition). The practitioner seeks the key.
 
-[12075-12081] [lines 11831-11850]
-[ONTOLOGICAL ERROR, SCHOLARLY COLLAPSE ERROR, EPISTEMIC ERROR]
+[12075-12081] 
+<ontological-error> <scholarly-collapse-error> <epistemic-error>
 **Misreading:**
 The text presents extensive quotations and detailed arguments about qualities, faults, conditions, and reasoning. A reader might think: "This is comprehensive Buddhist philosophy - all the arguments, all the sources, all the reasoning systematically presented."
 
@@ -1416,10 +1417,10 @@ The practitioner approaches the text as comprehensive philosophy to be mastered 
 4. Missing that recognition is not knowledge
 
 **Cascade effects:**
-This generates SCHOLARLY COLLAPSE ERROR (comprehensive study) → EPISTEMIC ERROR (knowledge as wisdom) → PEDAGOGICAL ERROR (academic transmission). The tradition becomes scholastic.
+This generates <scholarly-collapse-error> (comprehensive study) → EPISTEMIC ERROR (knowledge as wisdom) → PEDAGOGICAL ERROR (academic transmission). The tradition becomes scholastic.
 
-[12082-12090] [lines 11851-11870]
-[ONTOLOGICAL ERROR, REIFICATION ERROR, EPISTEMIC ERROR]
+[12082-12090] 
+<ontological-error> <reification-error> <epistemic-error>
 **Misreading:**
 The text explains that if spontaneous accomplishment did not exist in the primordially pure essence, there would be no cause for the arising of impure appearance. A reader might think: "This proves spontaneous accomplishment must exist. The logic requires it as the cause of appearance."
 
@@ -1427,7 +1428,7 @@ The text explains that if spontaneous accomplishment did not exist in the primor
 Causal reasoning feels solid. If spontaneous accomplishment is the "cause" of appearance, then it must exist. We accept the logical necessity as ontological proof.
 
 **Primary consequence:**
-The practitioner treats spontaneous accomplishment as a logically necessary existent. This mutates into a metaphysical principle - the cause that must be.
+The practitioner treats spontaneous accomplishment as a logically necessary existent. This mutates into metaphysical principle - the cause that must be.
 
 **Secondary consequences:**
 1. Reifying spontaneous accomplishment as necessary existent
@@ -1436,18 +1437,18 @@ The practitioner treats spontaneous accomplishment as a logically necessary exis
 4. Missing that causality is imputed
 
 **Cascade effects:**
-This leads to ONTOLOGICAL ERROR (necessary existence) → SCHOLARLY COLLAPSE ERROR (causal metaphysics) → EPISTEMIC ERROR (logic as ontology). The practitioner proves reality.
+This leads to <ONTOLOGICAL ERROR (necessary existence) → SCHOLARLY COLLAPSE ERROR (causal metaphysics) → EPISTEMIC ERROR (logic as ontology). The practitioner proves reality.
 
-[12091-12100] [lines 11871-11890]
-[ONTOLOGICAL ERROR, REIFICATION ERROR, MEDITATIONISM ERROR]
+[12091-12100] 
+<ontological-error> <reification-error> <meditationism-error>
 **Misreading:**
 The text describes how from the base's spontaneous presence, the play of impure appearance arises like dreams or illusions. A reader might think: "So impure appearance is like dreams - they arise from the base but aren't real. The base is the source of dreams."
 
 **Why it arises:**
-Dream/illusion metaphors are familiar. We imagine the base as dream-source, impure appearance as dreams. This creates a dualism: real base, unreal appearances.
+Dream/illusion metaphors are familiar. We imagine the base as dream-source, impure appearance as dreams. This creates <a dualism: real base, unreal appearances.
 
 **Primary consequence:**
-The practitioner reifies the base as the "real source" and appearances as "unreal dreams." This mutates into a two-level ontology with a privileged reality.
+The practitioner reifies the base as the "real source" and appearances as "unreal dreams." This mutates into two-level ontology with a privileged reality.
 
 **Secondary consequences:**
 1. Privileging base over appearances
@@ -1456,10 +1457,10 @@ The practitioner reifies the base as the "real source" and appearances as "unrea
 4. Missing that both base and dreams are empty
 
 **Cascade effects:**
-This generates ONTOLOGICAL ERROR (base as real source) → MEDITATIONISM ERROR (seeking real base) → EPISTEMIC ERROR (dream metaphor dualism). The practitioner seeks beyond dreams.
+This generates <ONTOLOGICAL ERROR (base as real source) → MEDITATIONISM ERROR (seeking real base) → EPISTEMIC ERROR (dream metaphor dualism). The practitioner seeks beyond dreams.
 
-[12101-12110] [lines 11891-11910]
-[ONTOLOGICAL ERROR, EPISTEMIC ERROR, PEDAGOGICAL ERROR]
+[12101-12110] 
+<ontological-error> <epistemic-error> <pedagogical-error>
 **Misreading:**
 The text explains that the base is not nothing at all, because if it were, there would be no basis for delusion or liberation. A reader might think: "This proves the base is something - not nothing, not emptiness in a nihilistic sense. The base exists as the ground of possibility."
 
@@ -1476,10 +1477,10 @@ The practitioner reifies the base as "something" that is not nothing. This becom
 4. Missing that not-nothing is not something
 
 **Cascade effects:**
-This leads to ETERNALISTIC ERROR (base as existent) → REIFICATION ERROR (positive ground) → PEDAGOGICAL ERROR (teaching base as something). The practitioner affirms existence.
+This leads to <eternalistic-error> (base as existent) → REIFICATION ERROR (positive ground) → PEDAGOGICAL ERROR (teaching base as something). The practitioner affirms existence.
 
-[12111-12120] [lines 11911-11930]
-[ONTOLOGICAL ERROR, REIFICATION ERROR, SCHOLARLY COLLAPSE ERROR]
+[12111-12120] 
+<ontological-error> <reification-error> <scholarly-collapse-error>
 **Misreading:**
 The text presents extensive reasoning establishing the author's own view through philosophical argumentation. A reader might think: "This is rigorous philosophical theology establishing the correct view through reason. The arguments prove the position."
 
@@ -1496,18 +1497,18 @@ The practitioner treats the arguments as proofs establishing the view. The autho
 4. Missing that arguments are medicine
 
 **Cascade effects:**
-This generates SCHOLARLY COLLAPSE ERROR (philosophical theology) → EPISTEMIC ERROR (reason as truth) → PEDAGOGICAL ERROR (argumentative transmission). The tradition becomes philosophical.
+This generates <scholarly-collapse-error> (philosophical theology) → EPISTEMIC ERROR (reason as truth) → PEDAGOGICAL ERROR (argumentative transmission). The tradition becomes philosophical.
 
-[12121-12125] [lines 11931-11950]
-[ONTOLOGICAL ERROR, REIFICATION ERROR, EPISTEMIC ERROR]
+[12121-12125] 
+<ontological-error> <reification-error> <epistemic-error>
 **Misreading:**
-The text concludes that even though these are one's own appearances, there's a common worldly aspect established by collective karma and the teacher's activity. A reader might think: "This explains how shared reality works - collective karma creates common appearances, while individual appearances remain private. This is the ontology of shared world."
+The text concludes that even though these are one's own appearances, there's a common worldly aspect established by collective karma and the teacher's activity. A reader might think: "This explains how shared reality works - collective karma creates <common appearances, while individual appearances remain private. This is the ontology of shared world."
 
 **Why it arises:**
 We want to understand how we share a world if everything is "own appearance." The distinction between collective/common and individual/private satisfies our need for ontology of intersubjectivity.
 
 **Primary consequence:**
-The practitioner creates ontology of shared reality. Collective karma warps into the mechanism for common appearance, individual karma for private appearance.
+The practitioner creates <ontology of shared reality. Collective karma warps into the mechanism for common appearance, individual karma for private appearance.
 
 **Secondary consequences:**
 1. Reifying collective karma as world-source
@@ -1516,10 +1517,10 @@ The practitioner creates ontology of shared reality. Collective karma warps into
 4. Missing that shared is also imputed
 
 **Cascade effects:**
-This leads to ONTOLOGICAL ERROR (intersubjective metaphysics) → SCHOLARLY COLLAPSE ERROR (karma mechanics) → EPISTEMIC ERROR (ontology of sharing). The practitioner explains the world.
+This leads to <ONTOLOGICAL ERROR (intersubjective metaphysics) → SCHOLARLY COLLAPSE ERROR (karma mechanics) → EPISTEMIC ERROR (ontology of sharing). The practitioner explains the world.
 
-[12126-12130] [lines 11951-11970]
-[ONTOLOGICAL ERROR, EPISTEMIC ERROR, PRACTICE ERROR]
+[12126-12130] 
+<ontological-error> <epistemic-error> <practice-error>
 **Misreading:**
 The text explains that self-appearance aspects return to oneself when the vase breaks, while common ones transfer to others. A reader might think: "This describes the mechanics of death and continuation. This is how rebirth works in Dzogchen."
 
@@ -1527,7 +1528,7 @@ The text explains that self-appearance aspects return to oneself when the vase b
 We want to understand death, rebirth, continuation. The vase-breaking metaphor suggests a mechanics of transition. We imagine this describes the actual process.
 
 **Primary consequence:**
-The practitioner treats the description as mechanics of rebirth. Death mutates into a technical transition where self-appearances return to oneself.
+The practitioner treats the description as mechanics of rebirth. Death mutates into technical transition where self-appearances return to oneself.
 
 **Secondary consequences:**
 1. Understanding death mechanically
@@ -1536,10 +1537,10 @@ The practitioner treats the description as mechanics of rebirth. Death mutates i
 4. Missing that description is not mechanics
 
 **Cascade effects:**
-This generates ONTOLOGICAL ERROR (death mechanics) → PRACTICE ERROR (technical dying) → PSYCHOLOGIZATION ERROR (death anxiety). The practitioner plans for death.
+This generates <ONTOLOGICAL ERROR (death mechanics) → PRACTICE ERROR (technical dying) → PSYCHOLOGIZATION ERROR (death anxiety). The practitioner plans for death.
 
-[12131-12135] [lines 11971-11990]
-[ONTOLOGICAL ERROR, EPISTEMIC ERROR, PEDAGOGICAL ERROR]
+[12131-12135] 
+<ontological-error> <epistemic-error> <pedagogical-error>
 **Misreading:**
 The text emphasizes that distinguishing these two aspects (self-appearance and common) is extremely important. A reader might think: "This is the crucial distinction I must understand. This distinction is the key to practice."
 
@@ -1556,10 +1557,10 @@ The practitioner focuses on understanding the two aspects as the key teaching. T
 4. Missing that distinction is provisional
 
 **Cascade effects:**
-This leads to EPISTEMIC ERROR (distinction as key) → PRACTICE ERROR (distinction-fixation) → SCHOLARLY COLLAPSE ERROR (aspect analysis). The practitioner distinguishes.
+This leads to <EPISTEMIC ERROR (distinction as key) → PRACTICE ERROR (distinction-fixation) → SCHOLARLY COLLAPSE ERROR (aspect analysis). The practitioner distinguishes.
 
-[12136-12141] [lines 11991-12010]
-[ONTOLOGICAL ERROR, REIFICATION ERROR, PRACTICE ERROR]
+[12136-12141] 
+<ontological-error> <reification-error> <practice-error>
 **Misreading:**
 The text presents extensive reasoning about the eight qualities, conditions, base-display, compassion, and benefit for beings. A reader might think: "This completes the philosophical presentation of the base's qualities. This is the comprehensive understanding."
 
@@ -1576,50 +1577,50 @@ The practitioner treats the text as completing a philosophical system. Understan
 4. Missing that the base is beyond coverage
 
 **Cascade effects:**
-This generates SCHOLARLY COLLAPSE ERROR (comprehensive completion) → EPISTEMIC ERROR (coverage as wisdom) → PEDAGOGICAL ERROR (teaching completed systems). The tradition closes the book.
+This generates <scholarly-collapse-error> (comprehensive completion) → EPISTEMIC ERROR (coverage as wisdom) → PEDAGOGICAL ERROR (teaching completed systems). The tradition closes the book.
 
 [12142-12147] [11682-11686]
-[ONTOLOGICAL ERROR, ETERNALISTIC ERROR, REIFICATION ERROR]
+<ontological-error> <eternalistic-error> <reification-error>
 **Misreading:**
 The text states "tame and tame-maker as relate is" and quotes the Secret Essence on great compassion relating all six realms. A reader might think: "This proves everything is fundamentally connected through compassion—a cosmic web of interrelatedness where all beings are linked."
 
 **Why it arises:**
-Modern spirituality emphasizes "interconnectedness" and "oneness." The language of "relate" and "six realms appearing" triggers New Age associations of universal connection. Western practitioners seek confirmation of a benevolent, interconnected universe.
+Modern spirituality emphasizes "interconnectedness" and "oneness." The language of "relate" and "six realms appearing" triggers <New Age associations of universal connection. Western practitioners seek confirmation of a benevolent, interconnected universe.
 
 **Primary consequence:**
 The practitioner reifies "compassion" as a cosmic force connecting everything, like an energy field. They believe recognizing this interconnectedness IS the Dzogchen view, conflating Mahayana compassion teachings with Atiyoga's primordial purity.
 
 **Secondary consequences:**
-1. Compassion devolves into an object of meditation rather than spontaneous expression
+1. Compassion devolves inton object of meditation rather than spontaneous expression
 2. The practitioner seeks experiences of "universal oneness"
-3. Dzogchen collapses into a philosophy of interconnectedness
+3. Dzogchen collapses into philosophy of interconnectedness
 4. Actual recognition of rigpa is missed while seeking connection
 
 **Cascade effects:**
-This generates ETERNALISTIC ERROR (reified interconnectedness) → MEDITATIONISM ERROR (cultivating compassion experiences) → PEDAGOGICAL ERROR (teaching "we are all one" as Dzogchen). The practitioner mutates into a compassion activist without genuine view.
+This generates <eternalistic-error> (reified interconnectedness) → MEDITATIONISM ERROR (cultivating compassion experiences) → PEDAGOGICAL ERROR (teaching "we are all one" as Dzogchen). The practitioner mutates into compassion activist without genuine view.
 
 [12148-12154] [11687-11693]
-[ONTOLOGICAL ERROR, REIFICATION ERROR, PSYCHOLOGIZATION ERROR]
+<ontological-error> <reification-error> <psychologization-error>
 **Misreading:**
 The text describes how light-tone awareness base and appearing-aspect must exist for the five elements to be clear, and how without non-duality, the three doors cannot relate. A reader might think: "The base is like a container that holds awareness and appearance. Without this container, nothing could exist."
 
 **Why it arises:**
-Our habitual reification makes us imagine a "space" in which things exist. The text's functional language ("if X not exist, Y not arise") triggers the assumption of a substantial base that enables existence, like a field or ground.
+Our habitual reification makes us imagine a "space" in which things exist. The text's functional language ("if X not exist, Y not arise") triggers <the assumption of a substantial base that enables existence, like a field or ground.
 
 **Primary consequence:**
 The practitioner conceives the base as a metaphysical ground or substrate underlying reality—a "thing" that makes other things possible. They picture awareness "in" the base like water in a bowl.
 
 **Secondary consequences:**
-1. Base devolves into an object of meditation ("resting in the base")
+1. Base devolves inton object of meditation ("resting in the base")
 2. The practitioner seeks to "merge" with this ground
 3. Dzogchen becomes substance metaphysics
 4. The non-reified nature of rigpa is completely missed
 
 **Cascade effects:**
-This triggers ETERNALISTIC ERROR (reified base as ultimate substance) → MEDITATIONISM ERROR (seeking union with the base) → ONTOLOGICAL ERROR (creating dualism between base and appearances). The practitioner worships a metaphysical abstraction.
+This triggers <eternalistic-error> (reified base as ultimate substance) → MEDITATIONISM ERROR (seeking union with the base) → ONTOLOGICAL ERROR (creating dualism between base and appearances). The practitioner worships a metaphysical abstraction.
 
 [12155-12160] [11694-11698]
-[ONTOLOGICAL ERROR, EPISTEMIC ERROR, ETERNALISTIC ERROR]
+<ontological-error> <epistemic-error> <eternalistic-error>
 **Misreading:**
 The text says if body-like appearance did not exist, the purpose of bodies appearing would not come, and if wisdom-like appearance did not exist, there would be the defect of no wisdom-appearance on the path. A reader might think: "The text is proving that these appearances DO exist as real qualities of the base—they're listing the 'features' of Buddha-nature."
 
@@ -1630,16 +1631,16 @@ The refutation of "non-existence" feels like affirmation of existence. Western l
 The practitioner compiles a list of existent qualities of the base: body-appearance, wisdom-appearance, liberation-appearance, etc. These become reified attributes of a Buddha-nature that "has" qualities like a possession.
 
 **Secondary consequences:**
-1. Buddha-nature mutates into a "thing" with properties
+1. Buddha-nature mutates into "thing" with properties
 2. The practitioner seeks to realize these qualities as existent
-3. Dzogchen mutates into a descriptive metaphysics
+3. Dzogchen mutates into descriptive metaphysics
 4. Emptiness of qualities is ignored
 
 **Cascade effects:**
-This generates ETERNALISTIC ERROR (qualities as truly existent) → SCHOLARLY COLLAPSE ERROR (debating which qualities belong to Buddha-nature) → PRACTICE ERROR (trying to acquire qualities). The practitioner collects attributes like merit badges.
+This generates <eternalistic-error> (qualities as truly existent) → SCHOLARLY COLLAPSE ERROR (debating which qualities belong to Buddha-nature) → PRACTICE ERROR (trying to acquire qualities). The practitioner collects attributes like merit badges.
 
 [12161-12167] [11699-11710]
-[ONTOLOGICAL ERROR, PRACTICE ERROR, EPISTEMIC ERROR]
+<ontological-error> <practice-error> <epistemic-error>
 **Misreading:**
 The text describes impure appearances as arising through the door of spontaneous presence, like a window allowing pure/impure appearances to be seen. A reader might think: "Spontaneous presence is like a projector screen where both pure and impure movies play. The screen itself is neutral but allows everything to appear."
 
@@ -1650,16 +1651,16 @@ The window/skylight metaphor is vivid and concrete. Westerners latch onto metaph
 The practitioner reifies spontaneous presence (lhun grub) as a neutral medium or capacity for appearance—a kind of universal potentiality that "can" show pure or impure. They try to "rest" in this spontaneous presence.
 
 **Secondary consequences:**
-1. Spontaneous presence mutates into a meditation object
+1. Spontaneous presence mutates into meditation object
 2. The practitioner tries to "purify" what appears on the "screen"
 3. The inseparability of primordial purity and spontaneous presence is lost
 4. Lhun grub is grasped as superior to kun gzhi (alaya)
 
 **Cascade effects:**
-This triggers REIFICATION ERROR (lhun grub as medium) → PRACTICE ERROR (meditating on spontaneous presence) → ONTOLOGICAL ERROR (dualism between purity and presence). The practitioner mutates into a metaphysical projectionist.
+This triggers <REIFICATION ERROR (lhun grub as medium) → PRACTICE ERROR (meditating on spontaneous presence) → ONTOLOGICAL ERROR (dualism between purity and presence). The practitioner mutates into metaphysical projectionist.
 
 [12168-12176] [11711-11728]
-[ONTOLOGICAL ERROR, REIFICATION ERROR, MEDITATIONISM ERROR]
+<ontological-error> <reification-error> <meditationism-error>
 **Misreading:**
 The text describes eight doors of appearance-making and eight qualities, including "families six escape-cave self-cut from" and "compassion lasso-by-means-of grasp-for." A reader might think: "These are specific techniques or portals I need to access. The eight doors are stages of realization I must traverse."
 
@@ -1676,10 +1677,10 @@ The practitioner imagines the eight doors as literal portals or stages to enter 
 4. The effortless nature of self-liberation is lost
 
 **Cascade effects:**
-This generates MEDITATIONISM ERROR (practicing doors) → REIFICATION ERROR (doors as real things to enter) → PRACTICE ERROR (sequential effort instead of instant recognition). The practitioner mutates into a spiritual door-to-door salesman.
+This generates <meditationism-error> (practicing doors) → REIFICATION ERROR (doors as real things to enter) → PRACTICE ERROR (sequential effort instead of instant recognition). The practitioner mutates into spiritual door-to-door salesman.
 
 [12177-12185] [11729-11742]
-[ONTOLOGICAL ERROR, EPISTEMIC ERROR, NIHILISTIC ERROR]
+<ontological-error> <epistemic-error> <nihilistic-error>
 **Misreading:**
 The text states "this non-existent beings own-light and cut-off apart-as cut become" and describes non-duality as "distinguish non-existent." A reader might think: "Since nothing exists, distinctions don't matter. Everything is just 'one' without differences. Duality is bad, non-duality is good."
 
@@ -1696,10 +1697,10 @@ The practitioner denies all distinctions—pure/impure, samsara/nirvana, wisdom/
 4. Genuine wisdom of discernment (shes rab) is abandoned
 
 **Cascade effects:**
-This triggers NIHILISTIC ERROR (denying all distinctions) → PRACTICE ERROR (abandoning all method) → PEDAGOGICAL ERROR (teaching that effort is dualistic). The practitioner dissolves into spiritual mush.
+This triggers <nihilistic-error> (denying all distinctions) → PRACTICE ERROR (abandoning all method) → PEDAGOGICAL ERROR (teaching that effort is dualistic). The practitioner dissolves into spiritual mush.
 
 [12186-12194] [11743-11758]
-[ONTOLOGICAL ERROR, ETERNALISTIC ERROR, REIFICATION ERROR]
+<ontological-error> <eternalistic-error> <reification-error>
 **Misreading:**
 The text describes "appear-by-means-of outside and inside all-to pervade-make great-of method as arise" and "simultaneous and gradual" appearances. A reader might think: "There are actual methods that pervade inside and outside. Gradual and simultaneous are two valid approaches I can choose between."
 
@@ -1716,10 +1717,10 @@ The practitioner believes there are multiple valid approaches to Dzogchen—some
 4. The unique Atiyoga view is compromised
 
 **Cascade effects:**
-This generates SCHOLARLY COLLAPSE ERROR (debating gradual vs sudden) → PRACTICE ERROR (choosing comfortable gradualism) → ETERNALISTIC ERROR (paths as truly existent options). The practitioner mutates into a spiritual consumer shopping for approaches.
+This generates <scholarly-collapse-error> (debating gradual vs sudden) → PRACTICE ERROR (choosing comfortable gradualism) → ETERNALISTIC ERROR (paths as truly existent options). The practitioner mutates into spiritual consumer shopping for approaches.
 
 [12195-12204] [11759-11781]
-[ONTOLOGICAL ERROR, PSYCHOLOGIZATION ERROR, PRACTICE ERROR]
+<ontological-error> <psychologization-error> <practice-error>
 **Misreading:**
 The text describes how impure samsara arises through the door of spontaneous presence, with examples like "leap primordial-wisdom exist-by-means-of" and "pure self-by-means-of pure show." A reader might think: "These are describing psychological processes—how the mind moves from purity to impurity. I need to reverse this process to return to purity."
 
@@ -1736,12 +1737,12 @@ The practitioner interprets the text as describing psychological development fro
 4. Recognition becomes psychological insight
 
 **Cascade effects:**
-This triggers PSYCHOLOGIZATION ERROR (Dzogchen as psychology) → PRACTICE ERROR (therapeutic methods) → EPISTEMIC ERROR (seeking insight instead of recognition). The practitioner mutates into a spiritual psychologist.
+This triggers <psychologization-error> (Dzogchen as psychology) → PRACTICE ERROR (therapeutic methods) → EPISTEMIC ERROR (seeking insight instead of recognition). The practitioner mutates into spiritual psychologist.
 
 [12205-12215] [11782-11788]
-[ONTOLOGICAL ERROR, REIFICATION ERROR, EPISTEMIC ERROR]
+<ontological-error> <reification-error> <epistemic-error>
 **Misreading:**
-The text describes "emerge-do appearance individual path" leading to "pure primordial-awareness great door-to." A reader might think: "There is a specific path with individual appearances that leads to a great door of pure wisdom. I need to follow this emergence process to reach the door."
+The text describes "emerge-do appearance individual path" leading to "pure primordial-awareness great door-to." A reader might think: "There is a specific path with individual appearances that leads to <a great door of pure wisdom. I need to follow this emergence process to reach the door."
 
 **Why it arises:**
 "Path" and "door" are concrete, directional metaphors. Western spiritual seekers want a way to get somewhere. of a progression from emergence to door suggests a journey with a destination.
@@ -1756,10 +1757,10 @@ The practitioner imagines an actual path of individual appearances leading to a 
 4. Spontaneous presence becomes destination instead of nature
 
 **Cascade effects:**
-This generates MEDITATIONISM ERROR (walking the path) → REIFICATION ERROR (path and door as real) → EPISTEMIC ERROR (seeking arrival instead of recognition). The practitioner mutates into a spiritual traveler who never arrives.
+This generates <meditationism-error> (walking the path) → REIFICATION ERROR (path and door as real) → EPISTEMIC ERROR (seeking arrival instead of recognition). The practitioner mutates into spiritual traveler who never arrives.
 
 [12216-12227] [11789-11802]
-[ONTOLOGICAL ERROR, EPISTEMIC ERROR, PSYCHOLOGIZATION ERROR]
+<ontological-error> <epistemic-error> <psychologization-error>
 **Misreading:**
 The text uses the metaphor of camphor that appears as cooling quality but not as fever quality, stating fault and quality are not established in the essence. A reader might think: "This is like my true self (camphor essence) which has various appearances (cooling/fever) but I shouldn't identify with either. I need to find my essence beyond qualities."
 
@@ -1776,10 +1777,10 @@ The practitioner seeks an "essence" beyond fault and quality—a pure core self 
 4. The inseparability of appearance and emptiness is missed
 
 **Cascade effects:**
-This triggers PSYCHOLOGIZATION ERROR (essence as true self) → ETERNALISTIC ERROR (reified essence) → PRACTICE ERROR (seeking disidentification). The practitioner mutates into a spiritual essentialist.
+This triggers <psychologization-error> (essence as true self) → ETERNALISTIC ERROR (reified essence) → PRACTICE ERROR (seeking disidentification). The practitioner mutates into spiritual essentialist.
 
 [12228-12238] [11803-11818]
-[ONTOLOGICAL ERROR, REIFICATION ERROR, PRACTICE ERROR]
+<ontological-error> <reification-error> <practice-error>
 **Misreading:**
 The text describes spontaneous presence's potency manifesting like primordial wisdom, with delusion reversing when self-other duality is not divided. A reader might think: "Spontaneous presence has power/potency that I can access. When I stop dividing self and other, delusion reverses into wisdom."
 
@@ -1790,16 +1791,16 @@ The text describes spontaneous presence's potency manifesting like primordial wi
 The practitioner attempts to "access" spontaneous presence's potency and "stop dividing" self and other. They meditate on non-duality and wait for delusion to reverse, turning description into prescription.
 
 **Secondary consequences:**
-1. Spontaneous presence devolves into an energy source
-2. Non-division mutates into a practice of merging
+1. Spontaneous presence devolves inton energy source
+2. Non-division mutates into practice of merging
 3. Reversal is awaited as future attainment
 4. The already-complete nature is missed
 
 **Cascade effects:**
-This generates PRACTICE ERROR (doing non-duality) → MEDITATIONISM ERROR (awaiting reversal) → ONTOLOGICAL ERROR (potency as possessable). The practitioner tries to will themselves into wisdom.
+This generates <practice-error> (doing non-duality) → MEDITATIONISM ERROR (awaiting reversal) → ONTOLOGICAL ERROR (potency as possessable). The practitioner tries to will themselves into wisdom.
 
 [12239-12250] [11819-11838]
-[ONTOLOGICAL ERROR, EPISTEMIC ERROR, ETERNALISTIC ERROR]
+<ontological-error> <epistemic-error> <eternalistic-error>
 **Misreading:**
 The text describes how impure samsara enters and reverses, with bardo appearances and the six actual bases from which sense liberation occurs. A reader might think: "These are describing actual realms and states—samsara, bardo, liberation. I need to understand these domains to navigate them properly."
 
@@ -1816,10 +1817,10 @@ The practitioner reifies samsara, bardo, and liberation as actual places or stat
 4. All-pervading rigpa is missed while navigating
 
 **Cascade effects:**
-This generates ETERNALISTIC ERROR (realms as existent) → PRACTICE ERROR (navigation strategies) → EPISTEMIC ERROR (map-learning instead of recognition). The practitioner mutates into a spiritual cartographer.
+This generates <eternalistic-error> (realms as existent) → PRACTICE ERROR (navigation strategies) → EPISTEMIC ERROR (map-learning instead of recognition). The practitioner mutates into spiritual cartographer.
 
 [12251-12258] [11854-11873]
-[ONTOLOGICAL ERROR, REIFICATION ERROR, PSYCHOLOGIZATION ERROR]
+<ontological-error> <reification-error> <psychologization-error>
 **Misreading:**
 The text describes base-appearance as light clarity manifesting, with spontaneous presence's appearance as "kaya like manifest-do bundle-is" and wisdom and light gathering. A reader might think: "The base projects appearances like light. Spontaneous presence bundles them into kayas. I need to recognize this display as my own projection."
 
@@ -1830,16 +1831,16 @@ Projection metaphors resonate with Western psychology. of base-appearance as lig
 The practitioner reifies the base as a projector and appearances as its light-display. They attempt to "recognize projections" psychologically, understanding everything as their own mind's display.
 
 **Secondary consequences:**
-1. Base devolves into an ultimate projector
+1. Base devolves inton ultimate projector
 2. Recognition becomes psychological insight
 3. "Self-face" is understood as personal identity
 4. The non-personal nature of rigpa is missed
 
 **Cascade effects:**
-This generates PSYCHOLOGIZATION ERROR (projection psychology) → REIFICATION ERROR (base as projector) → EPISTEMIC ERROR (personal recognition instead of rigpa). The practitioner solipsistically claims everything as "my projection."
+This generates <psychologization-error> (projection psychology) → REIFICATION ERROR (base as projector) → EPISTEMIC ERROR (personal recognition instead of rigpa). The practitioner solipsistically claims everything as "my projection."
 
 [12259-12266] [11874-11895]
-[ONTOLOGICAL ERROR, EPISTEMIC ERROR, PRACTICE ERROR]
+<ontological-error> <epistemic-error> <practice-error>
 **Misreading:**
 The text describes the "third" as base-to-dissolve-mode, with appearances dissolving like dreams upon waking. A reader might think: "Dissolution is the goal—making appearances cease into the base. I should practice dissolving appearances back into their source."
 
@@ -1856,10 +1857,10 @@ The practitioner attempts to "dissolve" appearances into the base through medita
 4. Self-liberation is replaced with dissolution
 
 **Cascade effects:**
-This generates PRACTICE ERROR (dissolving appearances) → NIHILISTIC ERROR (rejecting display) → MEDITATIONISM ERROR (seeking cessation). The practitioner dissolves into spaced-out confusion.
+This generates <practice-error> (dissolving appearances) → NIHILISTIC ERROR (rejecting display) → MEDITATIONISM ERROR (seeking cessation). The practitioner dissolves into spaced-out confusion.
 
 [12267-12274] [11896-11910]
-[ONTOLOGICAL ERROR, ETERNALISTIC ERROR, SCHOLARLY COLLAPSE ERROR]
+<ontological-error> <eternalistic-error> <scholarly-collapse-error>
 **Misreading:**
 The text states "action conduct all nirvana" and "not-done action-do appearance not-exist-therefore," with examples of sun rays, mirror appearances, and sky rainbow all self-dissolving. A reader might think: "All actions are already nirvana because they're empty. I don't need to do anything special since everything naturally dissolves."
 
@@ -1876,10 +1877,10 @@ The practitioner believes no action is needed since everything is already nirvan
 4. Gradual accumulation is rejected
 
 **Cascade effects:**
-This generates NIHILISTIC ERROR (denying need for effort) → PRACTICE ERROR (abandoning method) → PEDAGOGICAL ERROR (teaching effortless license). The practitioner mutates into a spiritual sloth.
+This generates <nihilistic-error> (denying need for effort) → PRACTICE ERROR (abandoning method) → PEDAGOGICAL ERROR (teaching effortless license). The practitioner mutates into spiritual sloth.
 
 [12275-12283] [11911-11932]
-[ONTOLOGICAL ERROR, REIFICATION ERROR, MEDITATIONISM ERROR]
+<ontological-error> <reification-error> <meditationism-error>
 **Misreading:**
 The text describes "self pure emptiness great-from color self-grasp nirvana" and "awareness grasping-thought recollection thought self-abide equality expanse-to." A reader might think: "I need to rest awareness in the expanse of equality, free from grasping and recollection. This is the meditation practice."
 
@@ -1887,7 +1888,7 @@ The text describes "self pure emptiness great-from color self-grasp nirvana" and
 Phrases like "self-abide equality expanse" sound like meditation instructions. Westerners convert descriptions into prescriptions automatically. of "grasping" and "recollection" suggests what to abandon in practice.
 
 **Primary consequence:**
-The practitioner creates a meditation of "resting in equality," trying to stop grasping and recollection. They reify "expanse" as a container to rest within and "equality" as a state to achieve.
+The practitioner creates <a meditation of "resting in equality," trying to stop grasping and recollection. They reify "expanse" as a container to rest within and "equality" as a state to achieve.
 
 **Secondary consequences:**
 1. Meditation on "expanse" becomes fixation
@@ -1896,15 +1897,15 @@ The practitioner creates a meditation of "resting in equality," trying to stop g
 4. Spontaneity is lost in controlled meditation
 
 **Cascade effects:**
-This generates MEDITATIONISM ERROR (manufactured equality) → REIFICATION ERROR (expanse as container) → PRACTICE ERROR (suppression instead of liberation). The practitioner meditates themselves into stupor.
+This generates <meditationism-error> (manufactured equality) → REIFICATION ERROR (expanse as container) → PRACTICE ERROR (suppression instead of liberation). The practitioner meditates themselves into stupor.
 
 [12284-12288] [11933-11947]
-[ONTOLOGICAL ERROR, EPISTEMIC ERROR, ETERNALISTIC ERROR]
+<ontological-error> <epistemic-error> <eternalistic-error>
 **Misreading:**
 The text states "primordial-awareness play various all self face mother-to dissolve-do is" and gives the example of "mother lap child enter like." A reader might think: "All appearances dissolve back into a primordial Mother awareness. I need to return to this Mother-source, like a child entering the mother's lap."
 
 **Why it arises:**
-The mother metaphor is powerful and psychologically resonant. Westerners interpret "mother" as source, origin, or divine feminine. The image of return triggers nostalgia and desire for safety.
+The mother metaphor is powerful and psychologically resonant. Westerners interpret "mother" as source, origin, or divine feminine. The image of return triggers <nostalgia and desire for safety.
 
 **Primary consequence:**
 The practitioner reifies "mother awareness" as a source to return to, seeking dissolution into this womb-like origin. They confuse primordial awareness with maternal regression.
@@ -1916,10 +1917,10 @@ The practitioner reifies "mother awareness" as a source to return to, seeking di
 4. Dzogchen becomes womb religion
 
 **Cascade effects:**
-This generates ETERNALISTIC ERROR (Mother as ultimate) → PSYCHOLOGIZATION ERROR (maternal regression) → PRACTICE ERROR (seeking return instead of recognition). The practitioner seeks to crawl back into the cosmic womb.
+This generates <eternalistic-error> (Mother as ultimate) → PSYCHOLOGIZATION ERROR (maternal regression) → PRACTICE ERROR (seeking return instead of recognition). The practitioner seeks to crawl back into the cosmic womb.
 
 [12289-12294] [11948-11974]
-[ONTOLOGICAL ERROR, REIFICATION ERROR, PRACTICE ERROR]
+<ontological-error> <reification-error> <practice-error>
 **Misreading:**
 The text describes "awareness arise part outward not-fall" with the example of vase body form—"inner clear outer move all nature fire place-as pure." A reader might think: "Awareness should not fall outward to objects. I need to keep it inwardly clear while phenomena move outside, like a flame burning without being affected."
 
@@ -1936,10 +1937,10 @@ The practitioner attempts to maintain "inner clarity" while ignoring outer movem
 4. Rigpa collapses into interiority
 
 **Cascade effects:**
-This generates PRACTICE ERROR (withdrawal meditation) → ONTOLOGICAL ERROR (inner/outer dualism) → MEDITATIONISM ERROR (trying not to fall). The practitioner withdraws from life into fabricated clarity.
+This generates <practice-error> (withdrawal meditation) → ONTOLOGICAL ERROR (inner/outer dualism) → MEDITATIONISM ERROR (trying not to fall). The practitioner withdraws from life into fabricated clarity.
 
 [12295-12300] [11975-11994]
-[ONTOLOGICAL ERROR, EPISTEMIC ERROR, SCHOLARLY COLLAPSE ERROR]
+<ontological-error> <epistemic-error> <scholarly-collapse-error>
 **Misreading:**
 The text states "impure samsara-in self-enter door nature self-of pure door in go non-existent-of method as dissolve" with examples like tent draw-strings gathering to center. A reader might think: "There are methods to dissolve impure samsara into pure nature. The tent metaphor shows how to gather everything to the center."
 
@@ -1956,15 +1957,15 @@ The practitioner reifies "dissolution method" as a technique to gather phenomena
 4. The natural purity is missed while manipulating
 
 **Cascade effects:**
-This generates PRACTICE ERROR (dissolution techniques) → REIFICATION ERROR (center to gather to) → EPISTEMIC ERROR (method-seeking instead of recognition). The practitioner mutates into a spiritual technician.
+This generates <practice-error> (dissolution techniques) → REIFICATION ERROR (center to gather to) → EPISTEMIC ERROR (method-seeking instead of recognition). The practitioner mutates into spiritual technician.
 
 [12301-12306] [11995-12000]
-[ONTOLOGICAL ERROR, EPISTEMIC ERROR, ELITISM ERROR]
+<ontological-error> <epistemic-error> <elitism-error>
 **Misreading:**
 The text states "Method this Secret-Essence-of difficult point tantra and instruction in clear speak although Tibet here before capable ask merely non-arise-by-means-of." A reader might think: "This is a difficult, advanced teaching that only capable practitioners can understand. I must be one of the capable ones since I'm studying it."
 
 **Why it arises:**
-of "difficult point" and "capable ask merely non-arise" triggers spiritual elitism. Western practitioners want to be among the "capable ones" who can handle advanced teachings.
+of "difficult point" and "capable ask merely non-arise" triggers <spiritual elitism. Western practitioners want to be among the "capable ones" who can handle advanced teachings.
 
 **Primary consequence:**
 The practitioner develops spiritual arrogance, believing they are uniquely capable of understanding this difficult teaching. They look down on "lesser" practitioners and traditions.
@@ -1976,10 +1977,10 @@ The practitioner develops spiritual arrogance, believing they are uniquely capab
 4. Genuine humility is abandoned
 
 **Cascade effects:**
-This generates ELITISM ERROR (spiritual superiority) → PEDAGOGICAL ERROR (teaching from arrogance) → EPISTEMIC ERROR (overestimating understanding). The practitioner mutates into a spiritual snob.
+This generates <ELITISM ERROR (spiritual superiority) → PEDAGOGICAL ERROR (teaching from arrogance) → EPISTEMIC ERROR (overestimating understanding). The practitioner mutates into spiritual snob.
 
 [12307-12315] [12001-12018]
-[ONTOLOGICAL ERROR, PRACTICE ERROR, MEDITATIONISM ERROR]
+<ontological-error> <practice-error> <meditationism-error>
 **Misreading:**
 The text describes "Base-appear see-of instant liberate-of method" as compassion awareness arising from primordial space, with self-appear self-known and distinction dividing leading to instant Buddhahood. A reader might think: "This is describing a technique—look at base-appearances, recognize them as self-appear, make distinctions, and you become Buddha instantly."
 
@@ -1987,19 +1988,19 @@ The text describes "Base-appear see-of instant liberate-of method" as compassion
 "instant liberate-of method" suggests a technique for instant liberation. Westerners want quick results and methods. sounds like steps to follow: look inward, recognize, distinguish, liberate.
 
 **Primary consequence:**
-The practitioner creates a method of "instant liberation" involving looking at appearances, recognizing them as self-appear, and making distinctions. They turn spontaneous recognition into a procedure.
+The practitioner creates <a method of "instant liberation" involving looking at appearances, recognizing them as self-appear, and making distinctions. They turn spontaneous recognition into a procedure.
 
 **Secondary consequences:**
-1. Recognition mutates into a technique to perform
+1. Recognition mutates into technique to perform
 2. "Instant" is pursued as quick result
 3. Natural liberation is replaced with method
 4. Spontaneity is lost in following steps
 
 **Cascade effects:**
-This generates MEDITATIONISM ERROR (method for instant liberation) → PRACTICE ERROR (performing recognition) → ONTOLOGICAL ERROR (steps to Buddhahood). The practitioner races through steps to instant enlightenment.
+This generates <meditationism-error> (method for instant liberation) → PRACTICE ERROR (performing recognition) → ONTOLOGICAL ERROR (steps to Buddhahood). The practitioner races through steps to instant enlightenment.
 
 [12316-12325] [12019-12040]
-[ONTOLOGICAL ERROR, EPISTEMIC ERROR, ETERNALISTIC ERROR]
+<ontological-error> <epistemic-error> <eternalistic-error>
 **Misreading:**
 The text quotes the Intention Pronouncement Tantra: "That time Samantabhadra dharma six-by-means-of base know non-awareness six defeat-from slight from mind slight empty awareness slight arise-by-means-of awareness obscuration destroy." A reader might think: "Samantabhadra defeated non-awareness through the six dharmas. I need to follow this process—go from slight mind to clearing obscurations."
 
@@ -2016,10 +2017,10 @@ The practitioner reifies Samantabhadra's awakening as a process to replicate, se
 4. Obscurations are battled instead of self-liberated
 
 **Cascade effects:**
-This generates ETERNALISTIC ERROR (myth as literal) → PRACTICE ERROR (emulating Samantabhadra) → MEDITATIONISM ERROR (defeating obscurations). The practitioner plays mythic hero instead of recognizing rigpa.
+This generates <eternalistic-error> (myth as literal) → PRACTICE ERROR (emulating Samantabhadra) → MEDITATIONISM ERROR (defeating obscurations). The practitioner plays mythic hero instead of recognizing rigpa.
 
 [12326-12334] [12041-12053]
-[ONTOLOGICAL ERROR, REIFICATION ERROR, PSYCHOLOGIZATION ERROR]
+<ontological-error> <reification-error> <psychologization-error>
 **Misreading:**
 The text describes "illusion from instant one-by-means-of distinction divide instant one-by-means-of complete Buddha" and Samantabhadra's virtue as self-arisen outflow-non-existent. A reader might think: "From the illusion of ordinary mind, through making distinctions, I can become complete Buddha instantly. My natural virtues are already perfect."
 
@@ -2036,18 +2037,18 @@ The practitioner believes they can become "complete Buddha" through an instant o
 4. Gradual purification is rejected
 
 **Cascade effects:**
-This generates PSYCHOLOGIZATION ERROR (inherent virtue) → PRACTICE ERROR (awaiting instant completion) → ETERNALISTIC ERROR (complete Buddha as goal). The practitioner waits for a magical moment.
+This generates <psychologization-error> (inherent virtue) → PRACTICE ERROR (awaiting instant completion) → ETERNALISTIC ERROR (complete Buddha as goal). The practitioner waits for a magical moment.
 
 [12335-12344] [12054-12067]
-[ONTOLOGICAL ERROR, EPISTEMIC ERROR, PRACTICE ERROR]
+<ontological-error> <epistemic-error> <practice-error>
 **Misreading:**
 The text discusses "base first-from liberate" and asks "if base first liberate also return become." A reader might think: "The base is liberated from the first, so I'm already liberated. But wait—could I fall back? I need to ensure I don't return to delusion."
 
 **Why it arises:**
-The question about return triggers anxiety about losing liberation. Westerners want security and permanence. The possibility of "return" suggests liberation needs protection.
+The question about return triggers <anxiety about losing liberation. Westerners want security and permanence. The possibility of "return" suggests liberation needs protection.
 
 **Primary consequence:**
-The practitioner anxiously seeks confirmation that liberation is irreversible, or creates practices to "protect" their recognition from backsliding. They reify liberation as a state that can be lost.
+The practitioner anxiously seeks confirmation that liberation is irreversible, or creates <practices to "protect" their recognition from backsliding. They reify liberation as a state that can be lost.
 
 **Secondary consequences:**
 1. Liberation is monitored for stability
@@ -2056,10 +2057,10 @@ The practitioner anxiously seeks confirmation that liberation is irreversible, o
 4. Natural confidence is replaced with anxious checking
 
 **Cascade effects:**
-This generates PRACTICE ERROR (protecting liberation) → EPISTEMIC ERROR (doubt about recognition) → ONTOLOGICAL ERROR (liberation as reversible state). The practitioner guards their enlightenment like a possession.
+This generates <practice-error> (protecting liberation) → EPISTEMIC ERROR (doubt about recognition) → ONTOLOGICAL ERROR (liberation as reversible state). The practitioner guards their enlightenment like a possession.
 
 [12345-12355] [12068-12086]
-[ONTOLOGICAL ERROR, REIFICATION ERROR, SCHOLARLY COLLAPSE ERROR]
+<ontological-error> <reification-error> <scholarly-collapse-error>
 **Misreading:**
 The text states "awareness in exist indeed exist non-manifest-for complete-end time Buddha-of quality say" and discusses base spontaneous Buddha quality and result manifest accomplish Buddha quality. A reader might think: "Awareness truly exists, and it has Buddha qualities. There are different types of Buddha qualities—base Buddha, spontaneous Buddha, accomplished Buddha. I need to understand these distinctions."
 
@@ -2067,7 +2068,7 @@ The text states "awareness in exist indeed exist non-manifest-for complete-end t
 The text's nuanced distinctions trigger scholastic analysis. Western academics and scholars want to categorize and systematize. The different "types" of Buddha suggest a taxonomy to master.
 
 **Primary consequence:**
-The practitioner creates elaborate taxonomies of Buddha-nature: base-Buddha, spontaneous-Buddha, result-Buddha, etc. They study these distinctions intellectually, believing understanding equals realization.
+The practitioner creates <elaborate taxonomies of Buddha-nature: base-Buddha, spontaneous-Buddha, result-Buddha, etc. They study these distinctions intellectually, believing understanding equals realization.
 
 **Secondary consequences:**
 1. Dzogchen becomes academic subject
@@ -2076,10 +2077,10 @@ The practitioner creates elaborate taxonomies of Buddha-nature: base-Buddha, spo
 4. Direct experience is replaced with scholarly knowledge
 
 **Cascade effects:**
-This generates SCHOLARLY COLLAPSE ERROR (endless categorization) → EPISTEMIC ERROR (knowledge for realization) → ONTOLOGICAL ERROR (reified categories). The practitioner mutates into a professor of Dzogchen without practice.
+This generates <scholarly-collapse-error> (endless categorization) → EPISTEMIC ERROR (knowledge for realization) → ONTOLOGICAL ERROR (reified categories). The practitioner mutates into professor of Dzogchen without practice.
 
 [12356-12367] [12087-12105]
-[ONTOLOGICAL ERROR, PRACTICE ERROR, MEDITATIONISM ERROR]
+<ontological-error> <practice-error> <meditationism-error>
 **Misreading:**
 The text describes "Realize wisdom-by-means-of do" from the Lamp Blaze Tantra, stating "base self result ripen do wisdom wisdom body in ripen-by-means-of." A reader might think: "This is a practice instruction—I need to ripen wisdom in the wisdom body. There's a process of maturation to complete."
 
@@ -2096,10 +2097,10 @@ The practitioner embarks on a project of "ripening" wisdom in the wisdom body, s
 4. The already-complete is missed while ripening
 
 **Cascade effects:**
-This generates PRACTICE ERROR (ripening project) → MEDITATIONISM ERROR (stages of development) → ONTOLOGICAL ERROR (wisdom as developing). The practitioner nurtures wisdom like a hothouse plant.
+This generates <practice-error> (ripening project) → MEDITATIONISM ERROR (stages of development) → ONTOLOGICAL ERROR (wisdom as developing). The practitioner nurtures wisdom like a hothouse plant.
 
 [12368-12379] [12106-12117]
-[ONTOLOGICAL ERROR, EPISTEMIC ERROR, PSYCHOLOGIZATION ERROR]
+<ontological-error> <epistemic-error> <psychologization-error>
 **Misreading:**
 The text describes "inner abide-of know and outward gaze-of know-of aspect in aspect appear non-appear-of distinction-by-means-of all realize-of primordial-wisdom." A reader might think: "There are two types of knowing—inner abiding and outward gazing. I need to integrate these through making distinctions between appearance and non-appearance."
 
@@ -2107,19 +2108,19 @@ The text describes "inner abide-of know and outward gaze-of know-of aspect in as
 of "inner" and "outward" knowing suggests a psychology of perception. Westerners immediately dualize into subjective/objective. "Distinction" sounds like discernment to develop.
 
 **Primary consequence:**
-The practitioner creates a dualistic practice of inner vs. outer knowing, trying to integrate them through distinction-making. They psychologize primordial wisdom as integrated awareness.
+The practitioner creates <a dualistic practice of inner vs. outer knowing, trying to integrate them through distinction-making. They psychologize primordial wisdom as integrated awareness.
 
 **Secondary consequences:**
 1. Inner and outer are reified as separate
-2. Integration mutates into a psychological project
+2. Integration mutates into psychological project
 3. Primordial wisdom collapses into gestalt awareness
 4. Non-dual rigpa is lost in integration attempts
 
 **Cascade effects:**
-This generates PSYCHOLOGIZATION ERROR (wisdom as integrated awareness) → PRACTICE ERROR (integrating inner/outer) → ONTOLOGICAL ERROR (dualism of knowings). The practitioner mutates into a spiritual psychologist integrating self.
+This generates <psychologization-error> (wisdom as integrated awareness) → PRACTICE ERROR (integrating inner/outer) → ONTOLOGICAL ERROR (dualism of knowings). The practitioner mutates into spiritual psychologist integrating self.
 
 [12380-12391] [12118-12137]
-[ONTOLOGICAL ERROR, REIFICATION ERROR, ETERNALISTIC ERROR]
+<ontological-error> <reification-error> <eternalistic-error>
 **Misreading:**
 The text describes a vivid visionary scene: "Pure spontaneous-of quality manifest become-by-means-of crystal light inside gather like self-face inner-clear youth vase body-as abide dharma body pure-of nature extreme center non-existent-of space height high-of expanse." A reader might think: "This is describing the actual form of enlightenment—a crystal light body in vast space with palaces and displays. I should visualize this."
 
@@ -2136,10 +2137,10 @@ The practitioner reifies the description as a literal visionary realm to visuali
 4. Dzogchen becomes tantric visualization
 
 **Cascade effects:**
-This generates ETERNALISTIC ERROR (visions as real) → MEDITATIONISM ERROR (visualization practice) → REIFICATION ERROR (palaces and bodies). The practitioner decorates their mind with spiritual real estate.
+This generates <eternalistic-error> (visions as real) → MEDITATIONISM ERROR (visualization practice) → REIFICATION ERROR (palaces and bodies). The practitioner decorates their mind with spiritual real estate.
 
 [12392-12401] [12138-12153]
-[ONTOLOGICAL ERROR, REIFICATION ERROR, MATERIALISM ERROR]
+<ontological-error> <reification-error> <materialism-error>
 **Misreading:**
 The text uses elaborate jewel metaphors: "Jewel various-arrange-by-means-of mass height jewel-by-means-of palace arrange-beautiful jewel various-decorate-by-means-of queen ornament-beautiful." A reader might think: "These jewels represent actual spiritual treasures. The more jewels I accumulate, the more beautiful my realization. These are attributes of enlightenment I should cultivate."
 
@@ -2156,10 +2157,10 @@ The practitioner reifies the jewel metaphors as spiritual qualities to accumulat
 4. Dzogchen becomes spiritual consumerism
 
 **Cascade effects:**
-This generates MATERIALISM ERROR (spiritual accumulation) → REIFICATION ERROR (qualities as jewels) → PRACTICE ERROR (collecting attributes). The practitioner mutates into a spiritual jewel thief.
+This generates <MATERIALISM ERROR (spiritual accumulation) → REIFICATION ERROR (qualities as jewels) → PRACTICE ERROR (collecting attributes). The practitioner mutates into spiritual jewel thief.
 
 [12402-12412] [12154-12166]
-[ONTOLOGICAL ERROR, EPISTEMIC ERROR, SCHOLARLY COLLAPSE ERROR]
+<ontological-error> <epistemic-error> <scholarly-collapse-error>
 **Misreading:**
 The text continues jewel metaphors: "jewel empty mandala draw-beautiful jewel end border-knot three are coiled beautiful jewel deep darkness dispel wide in naturally profound." A reader might think: "These are technical descriptions of mandala structures, border knots, and configurations. I need to understand the symbolic system."
 
@@ -2176,10 +2177,10 @@ The practitioner analyzes the jewel metaphors as a symbolic architecture, seekin
 4. Dzogchen becomes hermeneutics
 
 **Cascade effects:**
-This generates SCHOLARLY COLLAPSE ERROR (endless interpretation) → EPISTEMIC ERROR (meaning for realization) → ONTOLOGICAL ERROR (symbols as codes). The practitioner mutates into a cryptographer of jewels.
+This generates <scholarly-collapse-error> (endless interpretation) → EPISTEMIC ERROR (meaning for realization) → ONTOLOGICAL ERROR (symbols as codes). The practitioner mutates into cryptographer of jewels.
 
 [12413-12423] [12167-12191]
-[ONTOLOGICAL ERROR, REIFICATION ERROR, PRACTICE ERROR]
+<ontological-error> <reification-error> <practice-error>
 **Misreading:**
 The text describes the "third that from other benefit doing" as "sphere primordially-pure great dharmakaya field that from unmoving while spontaneous from-door beings appearance-mode with accord benefit doing." A reader might think: "From the unmoving Dharmakaya sphere, I can benefit beings by manifesting in accord with their modes. This is the practice of compassionate activity."
 
@@ -2187,24 +2188,24 @@ The text describes the "third that from other benefit doing" as "sphere primordi
 "Benefit doing" suggests compassionate action to perform. Western bodhisattva aspirants want to help others. sounds like a method for enlightened activity.
 
 **Primary consequence:**
-The practitioner creates a practice of "benefiting beings from Dharmakaya," attempting to remain in unmoving purity while manifesting for others. They reify Dharmakaya as a base for action.
+The practitioner creates <a practice of "benefiting beings from Dharmakaya," attempting to remain in unmoving purity while manifesting for others. They reify Dharmakaya as a base for action.
 
 **Secondary consequences:**
-1. Dharmakaya mutates into a platform for activity
+1. Dharmakaya mutates into platform for activity
 2. "Unmoving" is practiced as dissociation
 3. Natural compassion is replaced with method
 4. Spontaneous response is lost in technique
 
 **Cascade effects:**
-This generates PRACTICE ERROR (compassionate activity method) → REIFICATION ERROR (Dharmakaya as base) → ONTOLOGICAL ERROR (unmoving vs moving dualism). The practitioner performs compassion from their tower.
+This generates <practice-error> (compassionate activity method) → REIFICATION ERROR (Dharmakaya as base) → ONTOLOGICAL ERROR (unmoving vs moving dualism). The practitioner performs compassion from their tower.
 
 [12424-12434] [12192-12208]
-[ONTOLOGICAL ERROR, EPISTEMIC ERROR, COMPARATIVE ERROR]
+<ontological-error> <epistemic-error> <comparative-error>
 **Misreading:**
 The text states "these all common vehicles in also appear uttaratantra from compounded-not and spontaneously accomplished other condition by-means-of realized not." A reader might think: "These teachings appear in common vehicles too, especially Uttaratantra. Dzogchen is just expressing the same Buddha-nature teachings found there."
 
 **Why it arises:**
-of "common vehicles" and Uttaratantra triggers comparative analysis. Western academics want to contextualize Dzogchen. The apparent similarity suggests Dzogchen is not unique.
+of "common vehicles" and Uttaratantra triggers <comparative analysis. Western academics want to contextualize Dzogchen. The apparent similarity suggests Dzogchen is not unique.
 
 **Primary consequence:**
 The practitioner reduces Dzogchen to Uttaratantra's Buddha-nature teachings, missing the distinct Atiyoga view. They conflate traditions, believing they all teach the same thing.
@@ -2216,10 +2217,10 @@ The practitioner reduces Dzogchen to Uttaratantra's Buddha-nature teachings, mis
 4. The pinnacle view is lowered to common ground
 
 **Cascade effects:**
-This generates COMPARATIVE ERROR (conflating traditions) → SCHOLARLY COLLAPSE ERROR (academic reduction) → EPISTEMIC ERROR (missing unique view). The practitioner flattens Dzogchen into generic Buddhism.
+This generates <COMPARATIVE ERROR (conflating traditions) → SCHOLARLY COLLAPSE ERROR (academic reduction) → EPISTEMIC ERROR (missing unique view). The practitioner flattens Dzogchen into generic Buddhism.
 
 [12435-12445] [12209-12226]
-[ONTOLOGICAL ERROR, REIFICATION ERROR, PSYCHOLOGIZATION ERROR]
+<ontological-error> <reification-error> <psychologization-error>
 **Misreading:**
 The text quotes the Pearl Garland: "Difference great-by-means-of appearance from exist and not-possess two arise common ground delusion-basis called ignorance self and mix-by-means-of cause." A reader might think: "Delusion arises from mixing self with causes. I need to unmix them, separate self from conditioning, to find the common ground."
 
@@ -2227,7 +2228,7 @@ The text quotes the Pearl Garland: "Difference great-by-means-of appearance from
 "Mix" and "unmix" suggest psychological processes of identification and disidentification. Western therapy works with these patterns. The "common ground" sounds like healthy baseline.
 
 **Primary consequence:**
-The practitioner creates a therapeutic project of "unmixing" self from ignorance and conditions, seeking to return to a pure "common ground" of separation.
+The practitioner creates <a therapeutic project of "unmixing" self from ignorance and conditions, seeking to return to a pure "common ground" of separation.
 
 **Secondary consequences:**
 1. Delusion is treated as psychological mixing
@@ -2236,10 +2237,10 @@ The practitioner creates a therapeutic project of "unmixing" self from ignorance
 4. Dzogchen becomes self-help
 
 **Cascade effects:**
-This generates PSYCHOLOGIZATION ERROR (delusion as mixing) → PRACTICE ERROR (unmixing project) → REIFICATION ERROR (common ground as state). The practitioner becomes their own therapist.
+This generates <psychologization-error> (delusion as mixing) → PRACTICE ERROR (unmixing project) → REIFICATION ERROR (common ground as state). The practitioner becomes their own therapist.
 
 [12446-12457] [12227-12244]
-[ONTOLOGICAL ERROR, EPISTEMIC ERROR, CAUSAL ERROR]
+<ontological-error> <epistemic-error> <causal-error>
 **Misreading:**
 The text describes dependent origination: "Compassion sentient-being to appear capacity possess that to grasp-maker-by-means-of consciousness ignorance part from arise fracture one shift from consciousness dark that from I arise." A reader might think: "This is explaining how samsara works—through a causal chain from compassion through grasping to I-making. I need to understand this mechanism."
 
@@ -2256,10 +2257,10 @@ The practitioner analyzes dependent origination as a causal mechanism, seeking t
 4. Dzogchen becomes engineering
 
 **Cascade effects:**
-This generates CAUSAL ERROR (mechanistic thinking) → EPISTEMIC ERROR (understanding for liberation) → PRACTICE ERROR (intervening in causality). The practitioner tries to fix the samsara machine.
+This generates <CAUSAL ERROR (mechanistic thinking) → EPISTEMIC ERROR (understanding for liberation) → PRACTICE ERROR (intervening in causality). The practitioner tries to fix the samsara machine.
 
 [12458-12469] [12245-12267]
-[ONTOLOGICAL ERROR, REIFICATION ERROR, PRACTICE ERROR]
+<ontological-error> <reification-error> <practice-error>
 **Misreading:**
 The text describes conditions: "Master condition mirror and face and self actual direct grasp-by-means-of face and mirror-as understand like light and awareness and reality three-as understand-by-means-of master condition called." A reader might think: "The master condition is like a mirror—I need to understand face, light, and awareness as conditions to master. This is a practice of condition-mastery."
 
@@ -2276,15 +2277,15 @@ The practitioner attempts to "master conditions" by understanding them through m
 4. Natural unfolding is suppressed
 
 **Cascade effects:**
-This generates PRACTICE ERROR (condition-mastery) → REIFICATION ERROR (conditions as controllable) → ONTOLOGICAL ERROR (mastery over spontaneity). The practitioner mutates into a spiritual control freak.
+This generates <practice-error> (condition-mastery) → REIFICATION ERROR (conditions as controllable) → ONTOLOGICAL ERROR (mastery over spontaneity). The practitioner mutates into spiritual control freak.
 
 [12470-12477] [12268-12287]
-[ONTOLOGICAL ERROR, EPISTEMIC ERROR, TIME ERROR]
+<ontological-error> <epistemic-error> <time-error>
 **Misreading:**
 The text states "Time to certainty not-possess-by-means-of time before after mutually conflict-by-means-of equal immediate condition self place liberate." A reader might think: "Time is uncertain and conflicting. I need to transcend time into the immediate condition where past and future don't conflict."
 
 **Why it arises:**
-Time anxiety is universal. of time's uncertainty triggers desire for timelessness. "Equal immediate condition" sounds like an eternal present to escape to.
+Time anxiety is universal. of time's uncertainty triggers <desire for timelessness. "Equal immediate condition" sounds like an eternal present to escape to.
 
 **Primary consequence:**
 The practitioner seeks to escape time into an "immediate condition" of eternal present. They reject temporal experience for timelessness.
@@ -2296,5 +2297,5 @@ The practitioner seeks to escape time into an "immediate condition" of eternal p
 4. Escapism replaces recognition
 
 **Cascade effects:**
-This generates TIME ERROR (escaping temporality) → PRACTICE ERROR (seeking timelessness) → ONTOLOGICAL ERROR (immediate as escape). The practitioner tries to stop time.
+This generates <TIME ERROR (escaping temporality) → PRACTICE ERROR (seeking timelessness) → ONTOLOGICAL ERROR (immediate as escape). The practitioner tries to stop time.
 

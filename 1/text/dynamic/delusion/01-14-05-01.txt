@@ -12,7 +12,7 @@ The metaphor is literalized as actual practice stages.
 Practitioners evaluate themselves by "moon phase."
 
 **Cascade effects:**
-<phase fixation>where lunar stages map to practice and [CALENDAR ERROR] where days are counted.
+<phase fixation>where lunar stages map to practice and <calendar-error> where days are counted.
 
 [18613-18627] <sign-fixation> <rtags-mtshan-indicator-obsession>
 **Misreading:**
@@ -28,7 +28,7 @@ Signs become objectified as reliable wisdom-indicators.
 Practitioners become obsessed with sign-watching.
 
 **Cascade effects:**
-<sign fixation>where indicators are watched and [PRODUCTION ERROR] where signs are manufactured.
+<sign fixation>where indicators are watched and <production-error> where signs are manufactured.
 
 [18628-18642] <completion-goal> <rdzogs-pa-achievement>
 **Misreading:**
@@ -44,7 +44,8 @@ Full moon solidifies into final achievement.
 Practitioners await "full moon" completion.
 
 **Cascade effects:**
-<goal error>where completion is pursued and [DISSATISFACTION] where current state is rejected.
+<goal error> → completion is pursued
+<DISSATISFACTION-error> → current state is rejected.
 
 Page 438 completes the wisdom section with progress markers. The developmental framework continues themes from previous pages.
 
@@ -138,13 +139,13 @@ Lines 18661-18685 extensively quote tathagatagarbha scriptures (Tathagatagarbha 
 "Buddha-nature" (sangs rgyas kyi snying po) and phrases like "all sentient beings are Buddhas" suggest possession of an inner essence, seed, or potential. Language naturally substantializes. The scriptural authority makes these claims difficult to question.
 
 **Primary consequence:**
-Buddha-nature becomes reified as a hidden treasure, true self, permanent essence, or latent capacity waiting to manifest. The emptiness of Buddha-nature—even Buddha-nature is empty, not a thing—is completely missed in favor of eternalistic interpretation.
+Buddha-nature solidifies as a hidden treasure, true self, permanent essence, or latent capacity waiting to manifest. The emptiness of Buddha-nature—even Buddha-nature is empty, not a thing—is completely missed in favor of eternalistic interpretation.
 
 **Secondary consequences:**
 Practitioners may search for their "inner Buddha," creating subtle self-grasping. They may assume they are "already perfect" and need do nothing, missing the distinction between basis and recognition. Or they may believe they must "actualize" their latent Buddha-nature through effort and practice.
 
 **Cascade effects:**
-<treasure hunting error>where Buddha-nature is sought as object, <eternalism error> where emptiness solidifies into essence, <latent error> where potential is grasped, <actualization error> where nature must be made manifest, and [PASSIVITY ERROR] where "already Buddha" justifies inaction.
+<treasure hunting error>where Buddha-nature is sought as object, <eternalism error> where emptiness solidifies into essence, <latent error> where potential is grasped, <actualization error> where nature must be made manifest, and <passivity-error> where "already Buddha" justifies inaction.
 
 [18695-18702] <obscuration-removal> <sgrib-pa-cleaning>
 **Misreading:**
@@ -160,9 +161,10 @@ The non-dual nature of ground and ignorance is completely missed. What is actual
 Practitioners may attempt to "remove veils" through various practices—purification, accumulation, meditation—creating new forms of doing and achievement. The natural, effortless nature of recognition is obscured by the effort to clean, clear, or unveil.
 
 **Cascade effects:**
-<purification error>where practice becomes cleansing, <layers error> where reality appears stratified into true nature and obscurations, <removal error> where defilements are seen as eliminable, and [EFFORT ERROR] where doing increases.
+<purification error>where practice becomes cleansing, <layers error> where reality appears stratified into true nature and obscurations, <removal error> → defilements are seen as eliminable,
+<EFFORT ERROR-error> → doing increases.
 
-[18703-18710] [CLOUD ERROR] [COVERING ERROR]
+[18703-18710] <cloud-error> <covering-error>
 **Misreading:**
 Lines 18686-18705 specifically compare Buddha-nature covered by obscurations to "the sun covered by clouds." The reader literalizes this as accurate description of the relationship between Buddha-nature and afflictions.
 
@@ -178,7 +180,7 @@ Practitioners may wait for "clouds to clear" or try to "blow them away." The met
 **Cascade effects:**
 <metaphor literalism>→ <WAITING ERROR>.
 
-[18711-18718] [RECOGNITION ERROR] [SEEING ERROR]
+[18711-18718] <recognition-error> <seeing-error>
 **Misreading:**
 Lines 18706-18720 discuss how Buddha-nature is seen when obscurations are cleared. The reader understands this as describing actual visual or cognitive recognition.
 
@@ -194,7 +196,7 @@ Practitioners try to "see" Buddha-nature or achieve recognition as experience.
 **Cascade effects:**
 <experiential error>→ <ATTAINMENT ERROR>.
 
-[18719-18726] [CONCLUSION ERROR] [SUMMARY ERROR]
+[18719-18726] <conclusion-error> <summary-error>
 **Misreading:**
 Lines 18715-18720 conclude the section with summary statements. The reader treats these as definitive final positions.
 
@@ -236,10 +238,10 @@ The "immeasurable palaces" (*གཞལ་ཡས་) are interpreted as actual lo
 "palace" (*གཞལ་ཡས་) triggers architectural imagination. Combined with anatomical references (heart, channels), practitioners imagine actual chambers or spaces. "rigpa's essence appears as display" is read as something emerging from these locations.
 
 **Primary consequence:**
-Body-based reification of awareness. Rigpa is spatialized—located in particular body parts rather than recognized as the groundless ground pervading all experience. Meditation mutates into a journey through internal landscapes rather than direct recognition.
+Body-based reification of awareness. Rigpa is spatialized—located in particular body parts rather than recognized as the groundless ground pervading all experience. Meditation mutates into journey through internal landscapes rather than direct recognition.
 
 **Secondary consequences:**
-The citadel (*ཙིཏྟ*), channels, and skull cavity are treated as sacred geography to be visualized or manipulated. The immediacy of rigpa recognition is lost in elaborate body-mapping practices. "Natural state" (*གནས་ལུགས*) mutates into a place to find rather than what already is.
+The citadel (*ཙིཏྟ*), channels, and skull cavity are treated as sacred geography to be visualized or manipulated. The immediacy of rigpa recognition is lost in elaborate body-mapping practices. "Natural state" (*གནས་ལུགས*) mutates into place to find rather than what already is.
 
 **Cascade effects:**
 This <reification-error> breeds <pedagogical-error>—teachers instruct students in complex body-scanning techniques as preparation for Dzogchen. Students spend years "purifying channels" before being introduced to direct pointing, perpetuating gradualist frameworks within Atiyoga.
@@ -281,10 +283,10 @@ Without understanding that appearances arise differently for those who recognize
 The characteristics of kāya, rigpa, expanse, and wisdom are treated as objects of meditation or contemplation—qualities to be cultivated, experienced, or stabilized through practice.
 
 **Why it arises:**
-The list format (unchanging, luminous, empty, etc.) triggers checklist mentality. Western practitioners habitually transform descriptions into prescriptions—"these are the qualities I need to develop." mutates into a meditation manual rather than pointing-out instruction.
+The list format (unchanging, luminous, empty, etc.) triggers checklist mentality. Western practitioners habitually transform descriptions into prescriptions—"these are the qualities I need to develop." mutates into meditation manual rather than pointing-out instruction.
 
 **Primary consequence:**
-Dzogchen degrades into qualities-acquisition. Practitioners attempt to "become" unchanging, luminous, and empty through effort, missing that these are natural characteristics of awareness already present. Trekcho mutates into a technique for achieving stability.
+Dzogchen degrades into qualities-acquisition. Practitioners attempt to "become" unchanging, luminous, and empty through effort, missing that these are natural characteristics of awareness already present. Trekcho mutates into technique for achieving stability.
 
 **Secondary consequences:**
 The term "wisdom" (*ཡེ་ཤེས་) solidifies into a special state to attain. "Arise and enter" (*འབྱུང་དང་འཇུག་) is interpreted as something the practitioner causes or controls. The spontaneous (*ལྷུན་གྲུབ་) nature is undermined by deliberate practice.
@@ -322,7 +324,7 @@ Trekcho/thodgal becomes wind-energy (*rlung*) manipulation practice. Practitione
 The phrase "without dissolver, clear luminosity" (*ཐིམ་བྱེད་མེད་པར་ས་ལེ་གསལ་) is missed or interpreted as a goal to achieve through technique. The spontaneous (*རང་ཤར་) nature of awareness-display is undermined by deliberate practice. Completion (*རྫོགས་) becomes something to accomplish.
 
 **Cascade effects:**
-This <practice-error> leads to <meditationism-error> where Dzogchen collapses into advanced subtle-body practice. Practitioners spend years developing wind-control abilities while missing direct recognition. <scholarly-collapse-error> follows as tantric completion stage methods are read into Dzogchen.
+This <practice-error> leads to <meditationism-error> where Dzogchen collapses intodvanced subtle-body practice. Practitioners spend years developing wind-control abilities while missing direct recognition. <scholarly-collapse-error> follows as tantric completion stage methods are read into Dzogchen.
 
 [18803-18813] <reification-error> <ontological-error>
 **Misreading:**
@@ -332,7 +334,7 @@ The four lamps (*སྒྲོན་མ་བཞི་) and five wisdoms (*ཡེ
 Numerical lists (four, five) trigger categorical thinking. "lamp" suggests illumination devices. Western practitioners reify energetic metaphors into physical or quasi-physical structures. "Wisdom thigle empty lamp" sounds like an object to find.
 
 **Primary consequence:**
-Thodgal mutates into a quest to locate and activate the four lamps. Practitioners search for "empty bindu lamp" or "pure expanse lamp" as if these were discoverable features. The metaphorical nature of pointing-out language is lost.
+Thodgal mutates into quest to locate and activate the four lamps. Practitioners search for "empty bindu lamp" or "pure expanse lamp" as if these were discoverable features. The metaphorical nature of pointing-out language is lost.
 
 **Secondary consequences:**
 The "distant water lamp" (*རྒྱང་ཞགས་ཆུའི་སྒྲོན་མ་) and "self-arisen wisdom lamp" (*ཤེས་རབ་རང་བྱུང་གི་སྒྲོན་མ་) are treated as advanced attainments or visions to achieve. Thodgal degrades into progressive stages of lamp-activation. Self-arising rigpa is replaced by achievement-based spirituality.
@@ -364,7 +366,7 @@ The detailed specifications for thodgal practice—basis (*རྟེན་), loc
 The systematic enumeration (eight factors) triggers procedural reading. Technical terms like " channels" and "gates" suggest a method. Western practitioners habitually transform phenomenological descriptions into meditation protocols.
 
 **Primary consequence:**
-Thodgal mutates into a complex technique with prerequisites—specific postures, times (dawn, dusk), visual fields (cloudless sky), and destinations to aim for. The natural display of rigpa is replaced by deliberate practice. "Liberation-place" mutates into a goal to reach.
+Thodgal mutates into complex technique with prerequisites—specific postures, times (dawn, dusk), visual fields (cloudless sky), and destinations to aim for. The natural display of rigpa is replaced by deliberate practice. "Liberation-place" mutates into goal to reach.
 
 **Secondary consequences:**
 The "eight spontaneous doors of arising" (*ལྷུན་གྲུབ་ཀྱི་འཆར་སྒོ་བརྒྱད་) are treated as visual experiences to achieve. Those who recognize go to the expanse, those who don't wander in samsara—is interpreted literally as destinations rather than modal abiding. Practice becomes achievement-oriented.
@@ -383,7 +385,7 @@ The concrete imagery triggers visualization practice. "Like a butter lamp inside
 Thodgal practice becomes visualization exercise—imagining channels as pearl garlands, wisdom as butter lamps, etc. The direct recognition of naturally abiding rigpa is obscured by deliberate fabrication. Similes become supports rather than pointers.
 
 **Secondary consequences:**
-The "conch-shell house" (*དུང་ཁང་) as location for wisdom is visualized as an actual structure. The "great gate of bhṛguta" mutates into a visualization portal. Natural self-arising (*རང་ཤར་) is replaced by constructed imagery. The formless is forced into form.
+The "conch-shell house" (*དུང་ཁང་) as location for wisdom is visualized as an actual structure. The "great gate of bhṛguta" mutates into visualization portal. Natural self-arising (*རང་ཤར་) is replaced by constructed imagery. The formless is forced into form.
 
 **Cascade effects:**
 This <ontological-error> triggers <meditationism-error> where thodgal becomes another visualization practice like deity yoga. <reification-error> follows as similes are taken literally. <pedagogical-error> proliferates as elaborate visualization curricula are developed for "thodgal preparation."
@@ -399,7 +401,7 @@ Precise anatomical coordinates trigger literal spatial reading. "In the heart" s
 Rigpa is spatialized and localized—reduced to a phenomenon residing in a specific body location. The all-pervading (*ཁྱབ་པ་), groundless nature of awareness is lost. Practitioners search for rigpa "in" the heart rather than recognizing what pervades all experience.
 
 **Secondary consequences:**
-The eight-cornered heart-jewel devolves into an object of fixation or visualization. The "five lights" are sought as internal experiences. "Abides" (*གནས་) is read as static occupation rather than modal dwelling. Dynamic awareness-display (*རྩལ་) is frozen into location.
+The eight-cornered heart-jewel devolves inton object of fixation or visualization. The "five lights" are sought as internal experiences. "Abides" (*གནས་) is read as static occupation rather than modal dwelling. Dynamic awareness-display (*རྩལ་) is frozen into location.
 
 **Cascade effects:**
 This <reification-error> produces <practice-error> where practitioners focus attention on the heart center attempting to "find" rigpa there. <ontological-error> follows—believing awareness is a subtle entity located in the body. The formless dharmakaya collapses into subtle form.
@@ -482,7 +484,7 @@ Dzogchen view collapses into highest yoga tantra. Trekcho becomes dissolution pr
 "Holding, releasing, guiding" (*བསྡོམས་, *དབྱུང་, *གཏད་) are interpreted as wind-control techniques. "Expanse's essential point" (*དབྱིངས་ཀྱི་གནད་) becomes another manipulation target. Natural luminosity is replaced by fabricated experiences.
 
 **Cascade effects:**
-This [VIEW COLLAPSE] produces <practice-error> where students spend years on wind-bindu practices before being introduced to direct recognition. <scholarly-collapse-error> follows as texts are interpreted through tantric hermeneutics. <pedagogical-error> proliferates.
+This <view-collapse> produces <practice-error> where students spend years on wind-bindu practices before being introduced to direct recognition. <scholarly-collapse-error> follows as texts are interpreted through tantric hermeneutics. <pedagogical-error> proliferates.
 
 [18913-18931] <reification-error> <practice-error>
 **Misreading:**
@@ -498,7 +500,7 @@ Thodgal becomes physical yoga—pressing points, rubbing channels, manipulating 
 The three kāyas are treated as products of channel-manipulation. "Wisdom fire ceasing" (*ཡེ་ཤེས་འགག་) is interpreted as result of physical technique. Natural self-liberation (*རང་གྲོལ་) is replaced by deliberate effort.
 
 **Cascade effects:**
-This <reification-error> triggers <meditationism-error> where thodgal collapses into advanced kuṇḍalinī practice. <ontological-error> follows as subtle body is reified. <pedagogical-error> proliferates as physical prerequisites multiply.
+This <reification-error> triggers <meditationism-error> where thodgal collapses intodvanced kuṇḍalinī practice. <ontological-error> follows as subtle body solidifies. <pedagogical-error> proliferates as physical prerequisites multiply.
 
 [18932-18948] <practice-error> <meditationism-error>
 **Misreading:**
@@ -594,7 +596,7 @@ Dzogchen view collapses into gradual purification. The direct recognition of pri
 The four lamps become purifying agents. "Essential point gathering Buddha's intent" (*སངས་རྒྱས་དགོངས་པའི་གནད་འདུས་) is interpreted as achieved through effort. Natural liberation becomes gradual elimination.
 
 **Cascade effects:**
-This [VIEW COLLAPSE] triggers <practice-error> where thodgal is practiced as purification method. <pedagogical-error> follows as gradual paths are mapped onto Dzogchen. <scholarly-collapse-error> proliferates when sutric frameworks are applied to Atiyoga.
+This <view-collapse> triggers <practice-error> where thodgal is practiced as purification method. <pedagogical-error> follows as gradual paths are mapped onto Dzogchen. <scholarly-collapse-error> proliferates when sutric frameworks are applied to Atiyoga.
 
 [19042-19053] <ontological-error> <reification-error>
 **Misreading:**
@@ -626,7 +628,7 @@ Dzogchen view collapses into tantric deity yoga. Thodgal becomes advanced genera
 "Self-existing essence kāya" (*ངོ་བོ་སྐུ་) is interpreted as generated deity. "Eight manifestation kāyas" (*རྣམ་པའི་སྐུ་བརྒྱད་) are treated as advanced attainments. Trekcho becomes dissolution; thodgal becomes generation.
 
 **Cascade effects:**
-This [VIEW COLLAPSE] produces <practice-error> where thodgal is practiced as completion-stage deity yoga. <scholarly-collapse-error> follows as texts are interpreted through tantric hermeneutics. <pedagogical-error> proliferates.
+This <view-collapse> produces <practice-error> where thodgal is practiced as completion-stage deity yoga. <scholarly-collapse-error> follows as texts are interpreted through tantric hermeneutics. <pedagogical-error> proliferates.
 
 [19066-19077] <ontological-error> <reification-error>
 **Misreading:**
@@ -674,7 +676,7 @@ Dzogchen view collapses into gradual path. The primordial completeness is missed
 "Basis self-arisen wisdom" (*གཞི་རང་བྱུང་གི་ཡེ་ཤེས་) is interpreted as starting point. "Path light-resonance expanse kāya" becomes intermediate stage. Fruition is treated as endpoint rather than recognition of what never changed.
 
 **Cascade effects:**
-This [VIEW COLLAPSE] produces <practice-error> where thodgal is practiced as progressive attainment. <scholarly-collapse-error> follows when texts are read through gradualist hermeneutics. <pedagogical-error> proliferates.
+This <view-collapse> produces <practice-error> where thodgal is practiced as progressive attainment. <scholarly-collapse-error> follows when texts are read through gradualist hermeneutics. <pedagogical-error> proliferates.
 
 [19100-19111] <ontological-error> <eternalistic-error>
 **Misreading:**
@@ -754,7 +756,7 @@ Dharmadhātu solidifies into container or field. The fifteen characteristics bec
 "Without increase or decrease" (*འཕེལ་འགྲིབ་མེད་པ་) is treated as property of the expanse. "Place where many kāyas arise" suggests location. "Buddha of view-seeing" becomes entity.
 
 **Cascade effects:**
-This <ontological-error> triggers <scholarly-collapse-error> where Dzogchen collapses into elaborate metaphysics. <eternalistic-error> follows as expanse is reified. <pedagogical-error> proliferates as students study characteristics.
+This <ontological-error> triggers <scholarly-collapse-error> where Dzogchen collapses into elaborate metaphysics. <eternalistic-error> follows as expanse solidifies. <pedagogical-error> proliferates as students study characteristics.
 
 [19167-19180] <nihilistic-error> <ontological-error>
 **Misreading:**
@@ -780,13 +782,13 @@ The "nature kāya" characteristics—"no established tenet, no definite reason, 
 Negation of philosophical apparatus triggers anti-intellectual reading. "No view to hold" suggests rejection of all views. Western postmodernism interprets this as license for "whatever" attitude.
 
 **Primary consequence:**
-Dzogchen collapses into anti-philosophical stance. Discrimination between correct and incorrect view is rejected as dualistic. The path of liberation through recognition is denied.
+Dzogchen collapses intonti-philosophical stance. Discrimination between correct and incorrect view is rejected as dualistic. The path of liberation through recognition is denied.
 
 **Secondary consequences:**
 "View without falling to extremes" becomes "no view at all." "Meditation without seeing" becomes non-meditation. "Conduct without doing" becomes inaction. The subtle middle way is lost.
 
 **Cascade effects:**
-This [VIEW COLLAPSE] triggers <practice-error> where effort is rejected as dualistic. <epistemic-error> follows as students cannot navigate view. <pedagogical-error> proliferates as all discrimination is discouraged.
+This <view-collapse> triggers <practice-error> where effort is rejected as dualistic. <epistemic-error> follows as students cannot navigate view. <pedagogical-error> proliferates as all discrimination is discouraged.
 
 [19196-19210] <ontological-error> <reification-error>
 **Misreading:**
@@ -914,7 +916,7 @@ Dzogchen view collapses into tantric completion stage. Thodgal becomes advanced 
 "Unchanging bindu" (*མི་འགྱུར་ཐིག་ལེ་) from *Guhyasamāja* is equated with Dzogchen bindu. Practices from mother tantras are read into Atiyoga. The distinctiveness of Dzogchen is lost.
 
 **Cascade effects:**
-This [VIEW COLLAPSE] produces <practice-error> where thodgal requires sexual yoga preparation. <scholarly-collapse-error> follows as texts are conflated. <pedagogical-error> proliferates.
+This <view-collapse> produces <practice-error> where thodgal requires sexual yoga preparation. <scholarly-collapse-error> follows as texts are conflated. <pedagogical-error> proliferates.
 
 [19301-19302] <ontological-error> <reification-error>
 **Misreading:**
