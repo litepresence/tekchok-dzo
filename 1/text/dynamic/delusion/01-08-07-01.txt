@@ -62,8 +62,8 @@ Samaya congeals into objectified as set of behavioral constraints rather than ex
 Practitioner focuses on rule-compliance rather than recognition. Relationship with guru congeals into transactional rather than transmission-based.
 
 **Cascade effects:**
-<practice-error>
-<eternalistic-error>
+<practice-error> → technique-fixation → recognition-obscuration → method-attachment
+<eternalistic-error> → error-propagates → downstream-effects → final-result
 
 [10821-10831] <practice-error> <literalism-error>
 **Misreading:**
@@ -79,8 +79,8 @@ Samaya practice congeals into anxiety-driven monitoring of time elapsed since la
 Practitioner abandons restoration attempts when arbitrary time limits exceeded, believing samaya permanently ruptured. Guilt and hopelessness replace genuine confession.
 
 **Cascade effects:**
-<nihilistic-error>
-<scholarly-collapse-error>
+<nihilistic-error> → error-propagates → downstream-effects → final-result
+<scholarly-collapse-error> → error-propagates → downstream-effects → final-result
 
 [10832-10842] <eternalistic-error> <substantialist-error>
 **Misreading:**
@@ -96,8 +96,8 @@ Samaya congeals into understood as substantial entity that can be damaged, lost,
 Restoration rituals are performed as expiatory transactions to "pay off" samaya debts rather than as recognition-based realignment with view.
 
 **Cascade effects:**
-<reification-error>
-<practice-error>
+<reification-error> → substantialization → entity-creation → grasping-suffering
+<practice-error> → technique-fixation → recognition-obscuration → method-attachment
 
 [10843-10854] <nihilistic-error> <practice-error>
 **Misreading:**
@@ -113,8 +113,8 @@ Practitioner who believes they have crossed this threshold abandons Dharma pract
 The extreme language congeals into self-fulfilling prophecy through abandonment rather than through actual samaya mechanics.
 
 **Cascade effects:**
-<psychologization-error>
-<scholarly-collapse-error>
+<psychologization-error> → error-propagates → downstream-effects → final-result
+<scholarly-collapse-error> → error-propagates → downstream-effects → final-result
 
 [10855-10863] <ontological-error> <dichotomy-error>
 **Misreading:**
@@ -130,8 +130,8 @@ Practitioner abandons conventional samaya prematurely, claiming "beyond letters"
 "Rigpa rangbyung yeshe" congeals into license for any behavior. The distinction between authentic spontaneous wisdom and ordinary ego-expression collapses.
 
 **Cascade effects:**
-<nihilistic-error>
-<practice-error>
+<nihilistic-error> → error-propagates → downstream-effects → final-result
+<practice-error> → technique-fixation → recognition-obscuration → method-attachment
 
 [10864-10872] <nihilistic-error> <epistemic-error>
 **Misreading:**
@@ -147,8 +147,8 @@ Two truths collapse into single nihilistic view. Conventional causality denied w
 "Illusory appearance" congeals into excuse for irresponsible behavior. The eight similes of illusion are used to dismiss ethical considerations rather than to deepen non-attachment.
 
 **Cascade effects:**
-<ontological-error>
-<scholarly-collapse-error>
+<ontological-error> → metaphysical-entity → duality-creation → bondage
+<scholarly-collapse-error> → error-propagates → downstream-effects → final-result
 
 [10873-10881] <practice-error> <meditationism-error>
 **Misreading:**
@@ -164,8 +164,8 @@ Practitioner neglects foundational practices (ngondro, accumulation) believing t
 Five lights and four visions are pursued as experiences rather than natural self-display. "Self-accomplished Buddha" congeals into premature claim.
 
 **Cascade effects:**
-<reification-error>
-<eternalistic-error>
+<reification-error> → substantialization → entity-creation → grasping-suffering
+<eternalistic-error> → error-propagates → downstream-effects → final-result
 
 [10882-10890] <psychologization-error> <ontological-error>
 **Misreading:**
@@ -181,8 +181,8 @@ No distinction made between rigpa and ordinary mind. All mental states validated
 "Self-liberated in great spontaneity" congeals into justification for indulging any impulse. The natural state is confused with ordinary habitual patterning.
 
 **Cascade effects:**
-<epistemic-error>
-<practice-error>
+<epistemic-error> → error-propagates → downstream-effects → final-result
+<practice-error> → technique-fixation → recognition-obscuration → method-attachment
 
 [10891-10899] <eternalistic-error> <reification-error>
 **Misreading:**
@@ -198,10 +198,11 @@ Spontaneous evenness congeals into objectified state to be maintained through ef
 Practitioner develops anxiety about "falling away" from view. Monitoring replaces naturalness. The "great intent" congeals into conceptual reference point.
 
 **Cascade effects:**
-<practice-error>
-<meditationism-error>
+<practice-error> → technique-fixation → recognition-obscuration → method-attachment
+<meditationism-error> → experience-chasing → grasping → suffering
+
 [10900-10921] <reification-error>
-<meditationism-error>
+<meditationism-error> → experience-chasing → grasping → suffering
 **Misreading:**
 "Sufficient" (by sufficient) in lines 10369-10378 is interpreted as meaning any state—awareness or non-awareness, existence or non-existence—is equally valid as a basis for liberation, removing the need for any discrimination or recognition.
 
@@ -219,8 +220,9 @@ The specific meaning of sufficiency—that no modification is needed because not
 
 **Cascade effects:**
 This misreading triggers the PRACTICE ERROR of abandoning all method, which leads to the EPISTEMIC ERROR of mistaking conceptual assent for direct recognition, which crystallizes into the ONTOLOGICAL ERROR of reifying the deluded state as "primordial purity," creating a barrier to actual recognition that persists until death.
+
 [10922-10944] <pedagogical-error>
-<epistemic-error>
+<epistemic-error> → error-propagates → downstream-effects → final-result
 **Misreading:**
 The lines "Crucial is but not understand" (10406) and "Realization-by sufficient but effort need" (10407) are read as a koan-style paradox inviting intellectual resolution, rather than a precise diagnostic of the fault line between hearing and realizing.
 
@@ -238,8 +240,9 @@ The critical distinction between intellectual comprehension and embodied recogni
 
 **Cascade effects:**
 The PEDAGOGICAL ERROR of believing one understands without realization leads to the PRACTICE ERROR of never undertaking the actual methods of recognition, which results in the ONTOLOGICAL ERROR of the "student-to" (10417) remaining mixed with samsara despite "studying" Dzogchen for decades.
+
 [10945-10967] <psychologization-error>
-<reification-error>
+<reification-error> → substantialization → entity-creation → grasping-suffering
 **Misreading:**
 "Hope-fear duality-grasp's defilement from liberated" (10421) is interpreted as psychological liberation from hope and fear through insight into their nature, rather than the ontological exhaustion of the ground from which hope and fear arise.
 
@@ -257,8 +260,9 @@ The radical Dzogchen claim—that the afflictions are self-liberated in their ar
 
 **Cascade effects:**
 The PSYCHOLOGIZATION ERROR masks the ONTOLOGICAL ERROR of never recognizing the nature of the mind that grasps, resulting in the EPISTEMIC ERROR of believing liberation is a psychological state rather than the exhaustion of the ground of appearance.
+
 [10968-10986] <meditationism-error>
-<nihilistic-error>
+<nihilistic-error> → error-propagates → downstream-effects → final-result
 **Misreading:**
 "Do in not-dwell" (10435) and "do not-need" (10436) are interpreted as instructions to actively "not dwell" in any state, creating a practice of continuous non-abiding that is mistaken for spontaneous presence.
 
@@ -276,8 +280,9 @@ The natural state (gnas lugs), which requires no maintenance or technique, is re
 
 **Cascade effects:**
 The MEDITATIONISM ERROR activates a subtle ONTOLOGICAL ERROR of reifying "non-dwelling" as a thing to achieve, which triggers the PRACTICE ERROR of perpetual motion in meditation, preventing the stability that allows recognition to mature.
+
 [10987-11005] <eternalistic-error>
-<reification-error>
+<reification-error> → substantialization → entity-creation → grasping-suffering
 **Misreading:**
 The litany of negations—"meditate not-need," "meditate not-have," "meditate from exceed" (10440-10442)—is interpreted as evidence that the natural state is a permanent condition always already present, independent of recognition.
 
@@ -295,8 +300,9 @@ The basis (gzhi) contorts into a permanent existent that awaits discovery, trans
 
 **Cascade effects:**
 The ETERNALISTIC ERROR of reifying the basis as permanent existent triggers the PEDAGOGICAL ERROR of dismissing the teacher's role, which leads to the PRACTICE ERROR of never engaging the methods that ripen recognition, resulting in lifetimes of intellectual Dzogchen without realization.
+
 [11006-11025] <scholarly-collapse-error>
-<epistemic-error>
+<epistemic-error> → error-propagates → downstream-effects → final-result
 **Misreading:**
 The phrase "explain also not-understand one's person to realization's karma-connection not-have" (10453) is read as Longchenpa dismissing those who cannot understand his explanation, rather than a precise phenomenological observation about the karma of recognition.
 
@@ -329,8 +335,8 @@ Practitioner engages in analytical comparison to determine "best" view, missing 
 Dzogchen warps into philosophical sectarianism. Ground is fragmented into seven competing theories rather than recognized as indivisible.
 
 **Cascade effects:**
-<scholarly-collapse-error>
-<reification-error>
+<scholarly-collapse-error> → error-propagates → downstream-effects → final-result
+<reification-error> → substantialization → entity-creation → grasping-suffering
 
 [11037-11048] <reification-error> <ontological-error>
 **Misreading:**
@@ -346,8 +352,8 @@ Ground warps into objectified as entity possessing qualities (purity, spontaneit
 Practitioner attempts to "access" or "realize" these qualities sequentially or collectively, turning recognition into attribute-acquisition.
 
 **Cascade effects:**
-<eternalistic-error>
-<practice-error>
+<eternalistic-error> → error-propagates → downstream-effects → final-result
+<practice-error> → technique-fixation → recognition-obscuration → method-attachment
 
 [11049-11059] <epistemic-error> <scholarly-collapse-error>
 **Misreading:**
@@ -363,8 +369,8 @@ The sevenfold presentation contorts into scriptural debate about which formulati
 Practitioner quotes verses to support one view over others. The direct pointing of Dzogchen degenerates into citation-warfare.
 
 **Cascade effects:**
-<ontological-error>
-<pedagogical-error>
+<ontological-error> → metaphysical-entity → duality-creation → bondage
+<pedagogical-error> → premature-bypass → foundation-weakness → recognition-failure
 
 [11060-11071] <nihilistic-error> <ontological-error>
 **Misreading:**
@@ -380,8 +386,8 @@ Ground warps into identified with formlessness so radical that appearance itself
 "Variegated" (*khra bo*) celebrated as aesthetic of pure difference without unity. Recognition dissolves into dispersion.
 
 **Cascade effects:**
-<epistemic-error>
-<psychologization-error>
+<epistemic-error> → error-propagates → downstream-effects → final-result
+<psychologization-error> → error-propagates → downstream-effects → final-result
 
 [11072-11084] <epistemic-error> <ontological-error>
 **Misreading:**
@@ -397,8 +403,8 @@ Single essence degrades into true ground while sevenfold display is dismissed as
 Practitioner seeks to transcend or dismiss the sevenfold diversity in favor of singular essence, missing that diversity is display of that essence.
 
 **Cascade effects:**
-<reification-error>
-<eternalistic-error>
+<reification-error> → substantialization → entity-creation → grasping-suffering
+<eternalistic-error> → error-propagates → downstream-effects → final-result
 
 [11085-11097] <ontological-error> <psychologization-error>
 **Misreading:**
@@ -414,8 +420,8 @@ Ground contorts into mind-only (*sems tsam*) position. Dzogchen ground warps int
 "Self-face primordially pure" is interpreted as mental purity rather than ontological primordial purity. Recognition warps into psychological purification.
 
 **Cascade effects:**
-<scholarly-collapse-error>
-<practice-error>
+<scholarly-collapse-error> → error-propagates → downstream-effects → final-result
+<practice-error> → technique-fixation → recognition-obscuration → method-attachment
 
 [11098-11110] <pedagogical-error> <ontological-error>
 **Misreading:**
@@ -431,8 +437,8 @@ Seven bases are abandoned rather than recognized as aspects. Dzogchen degenerate
 Practitioner adopts anti-view posture, claiming "beyond all positions" while unconsciously maintaining hidden position.
 
 **Cascade effects:**
-<nihilistic-error>
-<epistemic-error>
+<nihilistic-error> → error-propagates → downstream-effects → final-result
+<epistemic-error> → error-propagates → downstream-effects → final-result
 
 [11111-11124] <eternalistic-error> <ontological-error>
 **Misreading:**
@@ -448,11 +454,11 @@ Path and fruition collapse into ground. "Already enlightened" warps into excuse 
 Recognition is deemed unnecessary because "already present." The spontaneous warps into warrant for inaction and spiritual lethargy.
 
 **Cascade effects:**
-<nihilistic-error>
-<practice-error>
+<nihilistic-error> → error-propagates → downstream-effects → final-result
+<practice-error> → technique-fixation → recognition-obscuration → method-attachment
 
 [11125-11134] [lines 10552-10567]
-<ontological-error,-reification-error,-meditationism-error>
+<ontological-error,-reification-error,-meditationism-error> → error-propagates → downstream-effects → final-result
 **Misreading:**
 The text states that cause and effect are primordially spontaneously accomplished (lhun grub). A reader might conclude this means practice is unnecessary and that enlightenment happens automatically without effort, since everything is already spontaneously accomplished.
 
@@ -472,7 +478,7 @@ The practitioner abandons ngondro, meditation, and all formal practice, claiming
 This triggers PEDAGOGICAL ERROR (skipping foundational practices) → PRACTICE ERROR (abandoning methods prematurely) → NIHILISTIC ERROR (denying relative truth entirely). The practitioner ends up more confused than when they started, now with a sophisticated philosophical justification for their confusion.
 
 [11135-11145] [lines 10585-10605]
-<epistemic-error,-ontological-error,-scholarly-collapse-error>
+<epistemic-error,-ontological-error,-scholarly-collapse-error> → error-propagates → downstream-effects → final-result
 **Misreading:**
 The text presents a critique of the "undetermined base" (ma nges pa'i gzhi) position. A reader might think the author is establishing that the base IS determined (determined as pure vs impure, samsara vs nirvana), rather than showing the absurdities that arise from either extreme.
 
@@ -492,7 +498,7 @@ The reader concludes there is a definitive, determinable nature of the base that
 This feeds SCHOLARLY COLLAPSE ERROR (over-intellectualization) → ETERNALISTIC ERROR (subtle reification of view) → PEDAGOGICAL ERROR (teaching concepts instead of pointing to direct experience). The tradition ossifies into competing schools of interpretation.
 
 [11146-11156] [lines 10620-10636]
-<ontological-error,-reification-error,-practice-error>
+<ontological-error,-reification-error,-practice-error> → error-propagates → downstream-effects → final-result
 **Misreading:**
 The text critiques the position that the base is like space—unchanging in essence but capable of changing appearance. A reader might adopt this view literally: "The base is empty like space, so appearances can change but essence doesn't."
 
@@ -512,7 +518,7 @@ The practitioner adopts a subtle dualism: unchanging "essence" vs changing "appe
 This leads to MEDITATIONISM ERROR (seeking unchanging states) → ETERNALISTIC ERROR (substantialist view of emptiness) → PSYCHOLOGIZATION ERROR (using practice to dissociate from life). The practitioner develops a calm, empty "spiritual" persona that avoids genuine engagement.
 
 [11157-11167] [lines 10644-10657]
-<epistemic-error,-ontological-error,-pedagogical-error>
+<epistemic-error,-ontological-error,-pedagogical-error> → error-propagates → downstream-effects → final-result
 **Misreading:**
 The text quotes Klong drug pa saying that the "determined base" is not the correct essence. A reader might interpret this as: "The correct essence is the undetermined base"—simply flipping to the opposite position.
 
@@ -532,7 +538,7 @@ The reader oscillates between eternalism and nihilism: "Since it's not determine
 This cultivates SCHOLARLY COLLAPSE ERROR (over-analysis) → NIHILISTIC ERROR (if nothing can be said, nothing is real) → PEDAGOGICAL ERROR (either authoritarian dogma or "anything goes" relativism). The tradition fragments into those who "know" and those who have given up knowing.
 
 [11168-11183] [lines 10599-10618]
-<ontological-error,-epistemic-error,-practice-error>
+<ontological-error,-epistemic-error,-practice-error> → error-propagates → downstream-effects → final-result
 **Misreading:**
 The text shows that if the base is truly undetermined, impurity could revert from purity. A reader might conclude: "This proves the base IS determined as pure, otherwise sentient beings could fall back into samsara after liberation."
 
@@ -552,7 +558,7 @@ This framework clings to "pure awareness" as a permanent attainment that cannot 
 This triggers ETERNALISTIC ERROR (permanent enlightenment) → PSYCHOLOGIZATION ERROR (using spirituality to avoid shadow material) → PEDAGOGICAL ERROR (teaching from fear rather than wisdom). The student twists into guardian of orthodoxy rather than a genuine practitioner.
 
 [11184-11199] [lines 10620-10636]
-<reification-error,-ontological-error,-scholarly-collapse-error>
+<reification-error,-ontological-error,-scholarly-collapse-error> → error-propagates → downstream-effects → final-result
 **Misreading:**
 The text critiques comparing the base to space (unchanging essence, unchangeable appearance). A reader might think: "The author rejects space as metaphor, so the base must be like something else—perhaps like water, or like a mirror, or like the clear sky."
 
@@ -572,7 +578,7 @@ Endless proliferation of metaphors, each taken literally in turn. The practition
 This feeds SCHOLARLY COLLAPSE ERROR (accumulating concepts) → EPISTEMIC ERROR (believing better concepts = better understanding) → MEDITATIONISM ERROR (seeking experiences that match the metaphors). The practitioner twists into connoisseur of spiritual language.
 
 [11200-11215] [lines 10638-10643]
-<epistemic-error,-ontological-error,-pedagogical-error>
+<epistemic-error,-ontological-error,-pedagogical-error> → error-propagates → downstream-effects → final-result
 **Misreading:**
 The text discusses whether realization depends on the base existing prior. A reader might conclude: "Realization must depend on a pre-existing base, otherwise there's nothing to realize." Or the opposite: "The base doesn't exist before realization, so realization cultivates the base."
 
@@ -592,7 +598,7 @@ The practitioner adopts either eternalism (ground exists eternally, waiting to b
 This leads to ONTOLOGICAL ERROR (wrong view of ground) → PRACTICE ERROR (wrong relationship to method) → PSYCHOLOGIZATION ERROR (ground warps into psychological state). The practitioner is stuck in conceptual maze.
 
 [11216-11232] [lines 10644-10657]
-<epistemic-error,-ontological-error,-reification-error>
+<epistemic-error,-ontological-error,-reification-error> → error-propagates → downstream-effects → final-result
 **Misreading:**
 The text quotes Klong drug pa's critique of the "determined base" using the example of someone with jaundice seeing a conch as yellow. A reader might think: "This proves perception is flawed and we need to see the 'true' color—rigpa sees correctly, ordinary mind sees wrongly."
 
@@ -612,7 +618,7 @@ The practitioner adopts a dualistic framework: deluded perception vs correct per
 This triggers MEDITATIONISM ERROR (seeking pure perception) → ETERNALISTIC ERROR (reifying pure awareness) → SCHOLARLY COLLAPSE ERROR (debating what counts as "correct" perception). The practitioner twists into spiritual perfectionist.
 
 [11233-11242] [lines 10638-10643]
-<ontological-error,-epistemic-error,-scholarly-collapse-error>
+<ontological-error,-epistemic-error,-scholarly-collapse-error> → error-propagates → downstream-effects → final-result
 **Misreading:**
 The text explores whether realization depends on a pre-existing base. A reader might conclude: "This is a profound philosophical problem about the nature of consciousness and its objects—does awareness exist prior to its objects or arise with them?"
 
@@ -632,7 +638,7 @@ The text warps into grist for comparative philosophy rather than pointing instru
 This cultivates SCHOLARLY COLLAPSE ERROR (academic substitution) → EPISTEMIC ERROR (thinking understanding = realization) → PEDAGOGICAL ERROR (teaching concepts, not recognition). The tradition twists into footnote in Western philosophy departments.
 
 [11243-11252] [lines 10644-10657]
-<ontological-error,-reification-error,-eternalistic-error>
+<ontological-error,-reification-error,-eternalistic-error> → error-propagates → downstream-effects → final-result
 **Misreading:**
 The text quotes Klong drug pa critiquing the "determined base." A reader might think: "If the determined base isn't it, and the undetermined base isn't it, then there must be a third option—a 'truly' determined base that transcends both."
 
@@ -652,7 +658,7 @@ Invention of a meta-position: "The base is neither determined nor undetermined b
 This triggers ETERNALISTIC ERROR (new transcendent category) → SCHOLARLY COLLAPSE ERROR (system-building) → PEDAGOGICAL ERROR (teaching systems, not direct pointing). The tradition fragments into competing metaphysical edifices.
 
 [11253-11262] [lines 10658-10679]
-<ontological-error,-reification-error,-practice-error>
+<ontological-error,-reification-error,-practice-error> → error-propagates → downstream-effects → final-result
 **Misreading:**
 The text critiques the view that the base is changeable (can be transformed). A reader might think: "This proves the base is permanent and unchanging. All these refutations show what the base is NOT, implying it IS something—permanent, non-dual awareness."
 
@@ -672,7 +678,7 @@ The practitioner reifies "non-dual awareness" as the positive residue after all 
 This leads to ETERNALISTIC ERROR (permanent consciousness) → MEDITATIONISM ERROR (seeking experiences of "it") → REIFICATION ERROR (making the base into a thing). The practitioner cultivates a subtle Hindu-style atman theory using Dzogchen vocabulary.
 
 [11263-11273] [lines 10662-10667]
-<ontological-error,-practice-error,-psychologization-error>
+<ontological-error,-practice-error,-psychologization-error> → error-propagates → downstream-effects → final-result
 **Misreading:**
 The text shows absurd consequences if the base were changeable: matter could become awareness, awareness could become matter. A reader might think: "This proves matter and awareness are fundamentally different—dualism is correct."
 
@@ -692,7 +698,7 @@ The practitioner adopts dualism: consciousness vs matter, spiritual vs material.
 This feeds ETERNALISTIC ERROR (spiritual dualism) → SCHOLARLY COLLAPSE ERROR (defending metaphysics against science) → PSYCHOLOGIZATION ERROR (spiritual practice as escape from material world). The practitioner warps into alienated from embodied existence.
 
 [11274-11284] [lines 10680-10692]
-<ontological-error,-reification-error,-practice-error>
+<ontological-error,-reification-error,-practice-error> → error-propagates → downstream-effects → final-result
 **Misreading:**
 The text continues critiquing the changeable base position. A reader might think: "All these detailed refutations prove the author has the correct view—whatever survives all these refutations must be the truth."
 
@@ -712,7 +718,7 @@ The practitioner adopts the author's authority as a new orthodoxy. "Longchenpa r
 This triggers SCHOLARLY COLLAPSE ERROR (author worship) → PEDAGOGICAL ERROR (teaching authority rather than experience) → ETERNALISTIC ERROR (fixating on "correct view"). The tradition warps into scholasticism.
 
 [11285-11295] [lines 10693-10715]
-<ontological-error,-epistemic-error,-nihilistic-error>
+<ontological-error,-epistemic-error,-nihilistic-error> → error-propagates → downstream-effects → final-result
 **Misreading:**
 The text critiques the position "accepting everything" (cir yang khas len pa). A reader might think: "This proves we should accept nothing, be skeptical of everything, take no positions at all."
 
@@ -732,7 +738,7 @@ The practitioner adopts radical skepticism or Pyrrhonism: "Since all positions a
 This feeds NIHILISTIC ERROR (denial of all positions) → EPISTEMIC ERROR (confusing skepticism with wisdom) → PRACTICE ERROR (no practice because "all practices are limited"). The practitioner twists into spiritual nihilist.
 
 [11296-11306] [lines 10699-10706]
-<ontological-error,-reification-error,-scholarly-collapse-error>
+<ontological-error,-reification-error,-scholarly-collapse-error> → error-propagates → downstream-effects → final-result
 **Misreading:**
 The text shows that if the base accepts everything, both permanent and impermanent things would exist simultaneously. A reader might think: "This is a profound paradox showing the limits of logic—reality is paradoxical!"
 
@@ -752,7 +758,7 @@ The practitioner collects paradoxes: "The base is and isn't," "Form is emptiness
 This cultivates SCHOLARLY COLLAPSE ERROR (collecting paradoxes) → EPISTEMIC ERROR (mistaking contradiction for depth) → PEDAGOGICAL ERROR (teaching paradox instead of pointing). The tradition twists into collection of "deep" sayings without substance.
 
 [11307-11317] [lines 10716-10736]
-<ontological-error,-epistemic-error,-psychologization-error>
+<ontological-error,-epistemic-error,-psychologization-error> → error-propagates → downstream-effects → final-result
 **Misreading:**
 The text introduces the sixth position: essence is all-pervading (kun tu shar), so appearances are variegated. A reader might think: "This is the correct view! The one essence manifests as many appearances—this explains diversity within unity!"
 
@@ -772,7 +778,7 @@ The practitioner adopts emanation theology: One Awareness (Brahman-like) manifes
 This triggers ETERNALISTIC ERROR (monistic essence) → REIFICATION ERROR (making awareness into God) → PSYCHOLOGIZATION ERROR (seeking union with cosmic consciousness). The practitioner imports Hindu metaphysics into Dzogchen.
 
 [11318-11332] [lines 10724-10731]
-<ontological-error,-reification-error,-psychologization-error>
+<ontological-error,-reification-error,-psychologization-error> → error-propagates → downstream-effects → final-result
 **Misreading:**
 The text shows absurd consequences if the base is identified with consciousness: it would be momentary, subject to afflictions, etc. A reader might think: "This proves the base is NOT consciousness—it's something beyond consciousness, a deeper reality."
 
@@ -792,7 +798,7 @@ The practitioner seeks something "beyond consciousness"—pure emptiness, the un
 This leads to ETERNALISTIC ERROR (transcendent void) → MEDITATIONISM ERROR (seeking "beyond" states) → SCHOLARLY COLLAPSE ERROR (debating relative merits of awareness vs emptiness teachings). The practitioner warps into a metaphysical architect.
 
 [11333-11333] [lines 10742-10754]
-<ontological-error,-reification-error,-meditationism-error>
+<ontological-error,-reification-error,-meditationism-error> → error-propagates → downstream-effects → final-result
 **Misreading:**
 The text presents the seventh position: self-arisen wisdom transcends existence and non-existence, beyond elaboration. A reader might think: "This is the ultimate truth! The base is pure wisdom that transcends all conceptual extremes."
 

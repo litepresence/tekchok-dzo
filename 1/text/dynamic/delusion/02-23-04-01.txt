@@ -17,8 +17,6 @@ Physical-death-obsession: monitoring body for signs of elemental departure. Reco
 **Cascade effects:**
 <element-dissolution-materialization> → <physical-death-obsession> [somatic monitoring] → <element-monitoring> [tracking components] → <recognition-miss> [dissolution as display]
 
----
-
 [13304-13308] <body-strength-loss-terror> <lus-kyi-stobs-shor-panic>
 
 **Misreading:**
@@ -37,8 +35,6 @@ Strength-loss-panic: terror at bodily collapse. Recognition is blocked by somati
 
 **Cascade effects:**
 <body-strength-loss-terror> → <strength-loss-panic> [fighting collapse] → <holding-on> [resisting process] → <natural-process-miss> [weakness as display]
-
----
 
 [13304-13308] <memory-loss-anxiety> <dran-pa-nyams-obsession>
 
@@ -59,8 +55,6 @@ Memory-anxiety: panic about forgetting. Recognition is obscured by cognitive-pre
 **Cascade effects:**
 <memory-loss-anxiety> → <cognitive-panic> [faculty fear] → <mental-clinging> [preserving cognition] → <natural-fade-miss> [memory as display]
 
----
-
 [13305-13308] <salivation-obsession> <kha-sna-chu-drying-fixation>
 
 **Misreading:**
@@ -79,8 +73,6 @@ Moisture-obsession: seeking water at death. Recognition is replaced by thirst-an
 
 **Cascade effects:**
 <salivation-obsession> → <moisture-obsession> [seeking water] → <forced-hydration> [intervention] → <dissolution-miss> [drying as element]
-
----
 
 [13306-13308] <eyes-rolling-terror> <mig-gyen-du-ldog-fear>
 
@@ -101,8 +93,6 @@ Eye-movement-terror: panic at physical sign. Recognition is blocked by somatic a
 **Cascade effects:**
 <eyes-rolling-terror> → <eye-movement-panic> [loss of control] → <position-control> [forcing eyes] → <dissolution-sign-miss> [rolling as natural]
 
----
-
 [13307-13308] <heat-loss-terror> <lus-kyi-drod-shor-anxiety>
 
 **Misreading:**
@@ -121,8 +111,6 @@ Cold-panic: terror at heat loss. Recognition is blocked by thermoregulation anxi
 
 **Cascade effects:**
 <heat-loss-terror> → <cold-panic> [hypothermia fear] → <warmth-seeking> [fighting cold] → <fire-dissolution-miss> [cold as element]
-
----
 
 [13307-13308] <lamp-extinction-terror> <sgron-ma-mi-snang-panic>
 
@@ -143,8 +131,6 @@ Darkness-terror: panic at light-extinction. Recognition is blocked by visual-los
 **Cascade effects:**
 <lamp-extinction-terror> → <darkness-panic> [blindness fear] → <light-clinging> [holding vision] → <extinction-sign-miss> [darkness as natural]
 
----
-
 [13308-13308] <breath-stop-terror> <dbugs-chad-panic>
 
 **Misreading:**
@@ -163,8 +149,6 @@ Breath-panic: terror at respiratory cessation. Recognition is blocked by asphyxi
 
 **Cascade effects:**
 <breath-stop-terror> → <breath-panic> [suffocation fear] → <respiratory-fight> [forcing breath] → <wind-dissolution-miss> [cessation as element]
-
----
 
 [13309-13317] <space-dissolution-void-fear> <nam-mkha-thim-pa-terror>
 
@@ -185,8 +169,6 @@ Void-panic: terror at space-dissolution. Recognition is blocked by annihilation 
 **Cascade effects:**
 <space-dissolution-void-fear> → <void-panic> [annihilation terror] → <existential-clinging> [holding on] → <dharmata-miss> [void as nature]
 
----
-
 [13309-13317] <internal-external-dualism> <phyi-nang-dissolution-separation>
 
 **Misreading:**
@@ -205,8 +187,6 @@ Dissolution-compartmentalization: treating layers as separate phases. Missing th
 
 **Cascade effects:**
 <internal-external-dualism> → <dissolution-compartmentalization> [separate phases] → <level-anxiety> [which stage?] → <single-process-miss> [layers as one]
-
----
 
 [13318-13336] <life-wind-grasping> <srog-rlung-attachment>
 
@@ -227,8 +207,6 @@ Life-force-panic: terror at life-wind departure. Recognition is blocked by survi
 **Cascade effects:**
 <life-wind-grasping> → <life-force-panic> [vitality fear] → <holding-onto-life> [grasping] → <natural-departure-miss> [life-wind as process]
 
----
-
 [13318-13336] <bindu-house-fetish> <thig-le-od-kyi-khang-pa-attachment>
 
 **Misreading:**
@@ -247,8 +225,6 @@ Light-house-attachment: clinging to bindu-structure. Recognition is obscured by 
 
 **Cascade effects:**
 <bindu-house-fetish> → <light-house-attachment> [clinging to structure] → <house-preservation> [maintaining vessel] → <display-miss> [house as nature]
-
----
 
 [13325-13336] <ka-dag-arrival-achievement> <ka-dag-rang-sa-zin-pa-goal>
 
@@ -269,8 +245,6 @@ Arrival-achievement: treating ka-dag as destination reached. Missing that ka-dag
 **Cascade effects:**
 <ka-dag-arrival-achievement> → <arrival-achievement> [destination reached] → <future-orientation> [when I arrive] → <immediate-miss> [ka-dag ever-present]
 
----
-
 [13337-13343] <bardo-place-reification> <bar-do-as-location>
 
 **Misreading:**
@@ -289,8 +263,6 @@ Bardo-geography: treating bardo as place. Recognition is replaced by location-an
 
 **Cascade effects:**
 <bardo-place-reification> → <bardo-geography> [location confusion] → <duration-anxiety> [how long?] → <nature-of-mind-miss> [bardo as display]
-
----
 
 [13344-13436] <twenty-five-winds-cataloging> <rlung-nyi-shu-nga-enumeration>
 
@@ -311,8 +283,6 @@ Wind-cataloging: reciting names rather than recognizing. Recognition is replaced
 **Cascade effects:**
 <twenty-five-winds-cataloging> → <wind-cataloging> [name memorization] → <which-wind-quiz> [identification obsession] → <single-rigpa-miss> [winds as one]
 
----
-
 [13437-13493] <wisdom-light-chasing> <ye-shes-snam-bu-attachment>
 
 **Misreading:**
@@ -331,8 +301,6 @@ Light-chasing: seeking and stabilizing colored appearances. Recognition is obscu
 
 **Cascade effects:**
 <wisdom-light-chasing> → <light-chasing> [seeking visions] → <color-preference> [discrimination] → <self-display-miss> [lights as nature]
-
----
 
 [13437-13493] <five-color-discrimination> <kha-dog-lnga-preference>
 
@@ -353,8 +321,6 @@ Color-hierarchy: ranking wisdom lights. Recognition is blocked by preferential t
 **Cascade effects:**
 <five-color-discrimination> → <color-hierarchy> [ranking lights] → <preferential-thinking> [better/worse] → <single-display-miss> [five as one]
 
----
-
 [13493-13534] <thogal-moment-achievement> <skad-cig-sum-completion>
 
 **Misreading:**
@@ -373,8 +339,6 @@ Instant-counting: tracking progression through three moments. Recognition is rep
 
 **Cascade effects:**
 <thogal-moment-achievement> → <instant-counting> [timeline tracking] → <which-instant-monitoring> [progress anxiety] → <simultaneous-miss> [instants as one]
-
----
 
 [13534-13577] <rainbow-body-materialism> <od-kyi-lus-physicalization>
 
@@ -395,8 +359,6 @@ Body-materialization: looking for physical light-form. Recognition is obscured b
 **Cascade effects:**
 <rainbow-body-materialism> → <body-materialization> [physical transformation] → <dissolution-obsession> [monitoring body] → <display-miss> [light-body as nature]
 
----
-
 [13577-13613] <union-vision-romanticism> <zung-jug-idealization>
 
 **Misreading:**
@@ -415,8 +377,6 @@ Union-romanticism: seeking mystical union experience. Recognition is replaced by
 
 **Cascade effects:**
 <union-vision-romanticism> → <union-romanticism> [relationship fantasy] → <union-seeking> [experience chasing] → <non-dual-miss> [union as nature]
-
----
 
 [13614-13693] <five-family-mandala-fetish> <rigs-lnga-dkyil-khor-obsession>
 
@@ -437,8 +397,6 @@ Mandala-obsession: seeking and stabilizing elaborate visions. Recognition is obs
 **Cascade effects:**
 <five-family-mandala-fetish> → <mandala-obsession> [vision complexity] → <elaboration-preference> [rich detail] → <simple-display-miss> [mandala as nature]
 
----
-
 [13614-13693] <deity-appearance-dependence> <lha-snang-externalization>
 
 **Misreading:**
@@ -457,8 +415,6 @@ Deity-dependence: waiting for external rescue. Self-recognition is deferred to v
 
 **Cascade effects:**
 <deity-appearance-dependence> → <deity-dependence> [external saviors] → <rescue-waiting> [validation seeking] → <self-display-miss> [deities as nature]
-
----
 
 [13684-13693] <light-ray-connection-attachment> <od-zer-thig-attachment>
 
@@ -479,8 +435,6 @@ Ray-attachment: clinging to light-connections. Recognition is obscured by connec
 **Cascade effects:**
 <light-ray-connection-attachment> → <ray-attachment> [clinging to connection] → <connection-preservation> [maintaining bond] → <natural-display-miss> [rays as nature]
 
----
-
 [13693-13694] <non-conceptual-samadhi-achievement> <mi-rtog-bsam-gtan-goal>
 
 **Misreading:**
@@ -499,8 +453,6 @@ Samadhi-chasing: seeking non-conceptual state. Natural rest is replaced by effor
 
 **Cascade effects:**
 <non-conceptual-samadhi-achievement> → <samadhi-chasing> [state seeking] → <non-conceptual-forcing> [trying to be] → <natural-rest-miss> [rest as samadhi]
-
----
 
 - Related: 02-23-01-01 (Four Bardos) - Bardo boundaries and classifications
 - Related: 02-23-06-01 (Self-Appearing Bardo) - Light phenomena and wisdoms

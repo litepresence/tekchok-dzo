@@ -8,5 +8,4 @@ No substantial content for high-risk misinterpretation. Potential minor risks:
 - <fragment-isolation> Studying outside context
 - <enumeration-premature> Starting analysis before full context
 
-
 **SILENCE NOTE:** No high-risk errors detected in structural fragment.

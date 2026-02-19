@@ -1,12 +1,3 @@
-[14588] <structural-fragment> [NO HIGH-RISK MISINTERPRETATION]
+[14588] <structural-marker>
 
-**Context:**
-This single-line file serves as structural marker in Chapter 23, section 8, subsection 1—likely enumeration item or transition verse.
-
-**Minimal Error Risk:**
-No substantial content for high-risk misinterpretation. Potential minor risks:
-- <fragment-isolation> Studying outside Chapter 23 bardo context
-- <structural-confusion> Misunderstanding organizational role
-
-
-**SILENCE NOTE:** No high-risk errors detected in structural fragment.
+**Note:** Single-line enumeration marker.

@@ -1,5 +1,5 @@
 [7099-7106]
-<view-misplacement>
+<view-misplacement> → error-propagates → downstream-effects → final-result
 **Misreading:**
 Students misread philosophical position to be adopted through study, creating view-accumulation model where intellectual understanding substitutes for direct recognition. The definitional precision of Tibetan scholastic presentation encourages reification of view as conceptual framework rather than immediate awareness.
 
@@ -14,8 +14,9 @@ View-shopping across traditions produces spiritual consumerism. Philosophical pr
 
 **Cascade effects:**
 <view-misplacement> → Philosophy fixation → intellectual arrogance develops → condescension toward non-scholars → sectarianism based on view-adoption → polemics displace practice → tradition fragments into warring philosophical camps → living transmission dies in library dust.
+
 [7107-7117]
-<meditation-objectification>
+<meditation-objectification> → error-propagates → downstream-effects → final-result
 **Misreading:**
 Analysis frames meditative object to be cultivated through deliberate practice, creating experience-generation model where awareness congeals into commodity produced through technique. Instructional language unconsciously frames meditation as manufacturing process rather than recognition of innate nature.
 
@@ -30,8 +31,9 @@ Method shopping reflects underlying instability. Experience fixation generates a
 
 **Cascade effects:**
 <meditation-objectification> → Objectification produces grasping → grasping generates attachment → attachment produces suffering → suffering drives seeking → seeking reinforces objectification → endless cycle. Eventually rebirth in form realms where meditation is eternal but liberation impossible.
+
 [7118-7128]
-<conduct-externalization>
+<conduct-externalization> → error-propagates → downstream-effects → final-result
 **Misreading:**
 The presentation congeals external behavioral requirement, creating rule-based ethics separate from view. Prescriptive language suggests conduct can be codified, measured, and enforced independently of recognition, generating moralistic spirituality.
 
@@ -46,8 +48,9 @@ Performance anxiety generates chronic self-monitoring. Hypocrisy develops as gap
 
 **Cascade effects:**
 <conduct-externalization> → Externalization generates hypocrisy → hypocrisy produces guilt → guilt drives self-punishment → self-punishment produces spiritual burnout → burnout leads to abandonment → abandonment confirms nihilism.
+
 [7129-7139]
-<fruition-deferral>
+<fruition-deferral> → error-propagates → downstream-effects → final-result
 **Misreading:**
 This framework warps result to be achieved in future, creating teleological model with deferred completion. Result-language triggers achievement psychology, causing readers to project all value onto endpoint while devaluing present recognition.
 
@@ -62,8 +65,9 @@ Time-binding produces existential prison. Future fixation destroys present satis
 
 **Cascade effects:**
 <fruition-deferral> → Deferral generates chronic dissatisfaction → dissatisfaction produces despair → despair leads to nihilism → nihilism justifies giving up → giving up confirms original deficiency → cycle perpetuates.
+
 [7140-7150]
-<nine-yana-hierarchy>
+<nine-yana-hierarchy> → error-propagates → downstream-effects → final-result
 **Misreading:**
 Practitioners distort nine vehicles as ranked progression from lower to higher, creating elitist spiritual stratification. Numerical presentation unconsciously triggers hierarchical thinking, causing readers to project comparative evaluation onto vehicles.
 
@@ -113,7 +117,7 @@ INTEGRATION REQUIREMENTS:
 All three pages (previous, current, following) must be held simultaneously in awareness. The errors of one page illuminate the errors of adjacent pages. Progressive reading produces compounding errors; simultaneous recognition allows resolution. The delusion layer is not cumulative but convergent - each error type represents a distinct failure mode that can be recognized and released.
 
 [7151-7157]
-<ground-path-fruition-temporalization>
+<ground-path-fruition-temporalization> → error-propagates → downstream-effects → final-result
 **Misreading:**
 Readers solidify sequential stages where ground precedes path which precedes fruition, establishing temporal hierarchy requiring progressive development. The Tibetan grammatical structure with its sequential presentation unconsciously triggers developmental psychology, causing readers to project Western progressive models onto the threefold structure.
 
@@ -128,8 +132,9 @@ Stage anxiety manifests as relentless self-assessment. Progress measurement cong
 
 **Cascade effects:**
 <ground-path-fruition-temporalization> → Progressivism infects all practice aspects → spiritual materialism commodifies realization → comparison with others congeals into default mode → competition corrupts sangha harmony → samaya ruptures multiply → teacher-student exploitation congeals into normalized → entire tradition degenerates into spiritual capitalism.
+
 [7158-7165]
-<view-misplacement>
+<view-misplacement> → error-propagates → downstream-effects → final-result
 **Misreading:**
 Study reifies philosophical position to be adopted through study, creating view-accumulation model where intellectual understanding substitutes for direct recognition. The definitional precision of Tibetan scholastic presentation encourages reification of view as conceptual framework rather than immediate awareness.
 
@@ -144,8 +149,9 @@ View-shopping across traditions produces spiritual consumerism. Philosophical pr
 
 **Cascade effects:**
 <view-misplacement> → Philosophy fixation → intellectual arrogance develops → condescension toward non-scholars → sectarianism based on view-adoption → polemics displace practice → tradition fragments into warring philosophical camps → living transmission dies in library dust.
+
 [7166-7172]
-<meditation-objectification>
+<meditation-objectification> → error-propagates → downstream-effects → final-result
 **Misreading:**
 Contemplation degrades meditative object to be cultivated through deliberate practice, creating experience-generation model where awareness congeals into commodity produced through technique. Instructional language unconsciously frames meditation as manufacturing process rather than recognition of innate nature.
 
@@ -160,8 +166,9 @@ Method shopping reflects underlying instability. Experience fixation generates a
 
 **Cascade effects:**
 <meditation-objectification> → Objectification produces grasping → grasping generates attachment → attachment produces suffering → suffering drives seeking → seeking reinforces objectification → endless cycle. Eventually rebirth in form realms where meditation is eternal but liberation impossible.
+
 [7173-7180]
-<conduct-externalization>
+<conduct-externalization> → error-propagates → downstream-effects → final-result
 **Misreading:**
 Examination positions external behavioral requirement, creating rule-based ethics separate from view. Prescriptive language suggests conduct can be codified, measured, and enforced independently of recognition, generating moralistic spirituality.
 
@@ -176,8 +183,9 @@ Performance anxiety generates chronic self-monitoring. Hypocrisy develops as gap
 
 **Cascade effects:**
 <conduct-externalization> → Externalization generates hypocrisy → hypocrisy produces guilt → guilt drives self-punishment → self-punishment produces spiritual burnout → burnout leads to abandonment → abandonment confirms nihilism.
+
 [7181-7187]
-<fruition-deferral>
+<fruition-deferral> → error-propagates → downstream-effects → final-result
 **Misreading:**
 The approach constructs result to be achieved in future, creating teleological model with deferred completion. Result-language triggers achievement psychology, causing readers to project all value onto endpoint while devaluing present recognition.
 
@@ -192,8 +200,9 @@ Time-binding produces existential prison. Future fixation destroys present satis
 
 **Cascade effects:**
 <fruition-deferral> → Deferral generates chronic dissatisfaction → dissatisfaction produces despair → despair leads to nihilism → nihilism justifies giving up → giving up confirms original deficiency → cycle perpetuates.
+
 [7188-7195]
-<nine-yana-hierarchy>
+<nine-yana-hierarchy> → error-propagates → downstream-effects → final-result
 **Misreading:**
 This model configures nine vehicles as ranked progression from lower to higher, creating elitist spiritual stratification. Numerical presentation unconsciously triggers hierarchical thinking, causing readers to project comparative evaluation onto vehicles.
 
@@ -243,7 +252,7 @@ INTEGRATION REQUIREMENTS:
 All three pages (previous, current, following) must be held simultaneously in awareness. The errors of one page illuminate the errors of adjacent pages. Progressive reading produces compounding errors; simultaneous recognition allows resolution. The delusion layer is not cumulative but convergent - each error type represents a distinct failure mode that can be recognized and released.
 
 [7196-7200]
-<ground-path-fruition-temporalization>
+<ground-path-fruition-temporalization> → error-propagates → downstream-effects → final-result
 **Misreading:**
 The distinction arranges sequential stages where ground precedes path which precedes fruition, establishing temporal hierarchy requiring progressive development. The Tibetan grammatical structure with its sequential presentation unconsciously triggers developmental psychology, causing readers to project Western progressive models onto the threefold structure.
 
@@ -258,8 +267,9 @@ Stage anxiety manifests as relentless self-assessment. Progress measurement cong
 
 **Cascade effects:**
 <ground-path-fruition-temporalization> → Progressivism infects all practice aspects → spiritual materialism commodifies realization → comparison with others congeals into default mode → competition corrupts sangha harmony → samaya ruptures multiply → teacher-student exploitation congeals into normalized → entire tradition degenerates into spiritual capitalism.
+
 [7201-7206]
-<view-misplacement>
+<view-misplacement> → error-propagates → downstream-effects → final-result
 **Misreading:**
 Understanding structures philosophical position to be adopted through study, creating view-accumulation model where intellectual understanding substitutes for direct recognition. The definitional precision of Tibetan scholastic presentation encourages reification of view as conceptual framework rather than immediate awareness.
 
@@ -274,8 +284,9 @@ View-shopping across traditions produces spiritual consumerism. Philosophical pr
 
 **Cascade effects:**
 <view-misplacement> → Philosophy fixation → intellectual arrogance develops → condescension toward non-scholars → sectarianism based on view-adoption → polemics displace practice → tradition fragments into warring philosophical camps → living transmission dies in library dust.
+
 [7207-7212]
-<meditation-objectification>
+<meditation-objectification> → error-propagates → downstream-effects → final-result
 **Misreading:**
 The treatment organizes meditative object to be cultivated through deliberate practice, creating experience-generation model where awareness congeals into commodity produced through technique. Instructional language unconsciously frames meditation as manufacturing process rather than recognition of innate nature.
 
@@ -290,8 +301,9 @@ Method shopping reflects underlying instability. Experience fixation generates a
 
 **Cascade effects:**
 <meditation-objectification> → Objectification produces grasping → grasping generates attachment → attachment produces suffering → suffering drives seeking → seeking reinforces objectification → endless cycle. Eventually rebirth in form realms where meditation is eternal but liberation impossible.
+
 [7213-7218]
-<conduct-externalization>
+<conduct-externalization> → error-propagates → downstream-effects → final-result
 **Misreading:**
 The material establishes external behavioral requirement, creating rule-based ethics separate from view. Prescriptive language suggests conduct can be codified, measured, and enforced independently of recognition, generating moralistic spirituality.
 
@@ -306,8 +318,9 @@ Performance anxiety generates chronic self-monitoring. Hypocrisy develops as gap
 
 **Cascade effects:**
 <conduct-externalization> → Externalization generates hypocrisy → hypocrisy produces guilt → guilt drives self-punishment → self-punishment produces spiritual burnout → burnout leads to abandonment → abandonment confirms nihilism.
+
 [7219-7224]
-<fruition-deferral>
+<fruition-deferral> → error-propagates → downstream-effects → final-result
 **Misreading:**
 The text presents result to be achieved in future, creating teleological model with deferred completion. Result-language triggers achievement psychology, causing readers to project all value onto endpoint while devaluing present recognition.
 
@@ -322,8 +335,9 @@ Time-binding produces existential prison. Future fixation destroys present satis
 
 **Cascade effects:**
 <fruition-deferral> → Deferral generates chronic dissatisfaction → dissatisfaction produces despair → despair leads to nihilism → nihilism justifies giving up → giving up confirms original deficiency → cycle perpetuates.
+
 [7225-7230]
-<nine-yana-hierarchy>
+<nine-yana-hierarchy> → error-propagates → downstream-effects → final-result
 **Misreading:**
 The structure frames nine vehicles as ranked progression from lower to higher, creating elitist spiritual stratification. Numerical presentation unconsciously triggers hierarchical thinking, causing readers to project comparative evaluation onto vehicles.
 
@@ -373,7 +387,7 @@ INTEGRATION REQUIREMENTS:
 All three pages (previous, current, following) must be held simultaneously in awareness. The errors of one page illuminate the errors of adjacent pages. Progressive reading produces compounding errors; simultaneous recognition allows resolution. The delusion layer is not cumulative but convergent - each error type represents a distinct failure mode that can be recognized and released.
 
 [7231-7235]
-<ground-path-fruition-temporalization>
+<ground-path-fruition-temporalization> → error-propagates → downstream-effects → final-result
 **Misreading:**
 The method construes sequential stages where ground precedes path which precedes fruition, establishing temporal hierarchy requiring progressive development. The Tibetan grammatical structure with its sequential presentation unconsciously triggers developmental psychology, causing readers to project Western progressive models onto the threefold structure.
 
@@ -388,8 +402,9 @@ Stage anxiety manifests as relentless self-assessment. Progress measurement cong
 
 **Cascade effects:**
 <ground-path-fruition-temporalization> → Progressivism infects all practice aspects → spiritual materialism commodifies realization → comparison with others congeals into default mode → competition corrupts sangha harmony → samaya ruptures multiply → teacher-student exploitation congeals into normalized → entire tradition degenerates into spiritual capitalism.
+
 [7236-7241]
-<view-misplacement>
+<view-misplacement> → error-propagates → downstream-effects → final-result
 **Misreading:**
 The concept renders philosophical position to be adopted through study, creating view-accumulation model where intellectual understanding substitutes for direct recognition. The definitional precision of Tibetan scholastic presentation encourages reification of view as conceptual framework rather than immediate awareness.
 
@@ -404,8 +419,9 @@ View-shopping across traditions produces spiritual consumerism. Philosophical pr
 
 **Cascade effects:**
 <view-misplacement> → Philosophy fixation → intellectual arrogance develops → condescension toward non-scholars → sectarianism based on view-adoption → polemics displace practice → tradition fragments into warring philosophical camps → living transmission dies in library dust.
+
 [7242-7246]
-<meditation-objectification>
+<meditation-objectification> → error-propagates → downstream-effects → final-result
 **Misreading:**
 One treats meditative object to be cultivated through deliberate practice, creating experience-generation model where awareness congeals into commodity produced through technique. Instructional language unconsciously frames meditation as manufacturing process rather than recognition of innate nature.
 
@@ -420,8 +436,9 @@ Method shopping reflects underlying instability. Experience fixation generates a
 
 **Cascade effects:**
 <meditation-objectification> → Objectification produces grasping → grasping generates attachment → attachment produces suffering → suffering drives seeking → seeking reinforces objectification → endless cycle. Eventually rebirth in form realms where meditation is eternal but liberation impossible.
+
 [7247-7252]
-<conduct-externalization>
+<conduct-externalization> → error-propagates → downstream-effects → final-result
 **Misreading:**
 Students misread external behavioral requirement, creating rule-based ethics separate from view. Prescriptive language suggests conduct can be codified, measured, and enforced independently of recognition, generating moralistic spirituality.
 
@@ -436,8 +453,9 @@ Performance anxiety generates chronic self-monitoring. Hypocrisy develops as gap
 
 **Cascade effects:**
 <conduct-externalization> → Externalization generates hypocrisy → hypocrisy produces guilt → guilt drives self-punishment → self-punishment produces spiritual burnout → burnout leads to abandonment → abandonment confirms nihilism.
+
 [7253-7257]
-<fruition-deferral>
+<fruition-deferral> → error-propagates → downstream-effects → final-result
 **Misreading:**
 Analysis frames result to be achieved in future, creating teleological model with deferred completion. Result-language triggers achievement psychology, causing readers to project all value onto endpoint while devaluing present recognition.
 
@@ -452,8 +470,9 @@ Time-binding produces existential prison. Future fixation destroys present satis
 
 **Cascade effects:**
 <fruition-deferral> → Deferral generates chronic dissatisfaction → dissatisfaction produces despair → despair leads to nihilism → nihilism justifies giving up → giving up confirms original deficiency → cycle perpetuates.
+
 [7258-7263]
-<nine-yana-hierarchy>
+<nine-yana-hierarchy> → error-propagates → downstream-effects → final-result
 **Misreading:**
 The presentation congeals nine vehicles as ranked progression from lower to higher, creating elitist spiritual stratification. Numerical presentation unconsciously triggers hierarchical thinking, causing readers to project comparative evaluation onto vehicles.
 
@@ -503,7 +522,7 @@ INTEGRATION REQUIREMENTS:
 All three pages (previous, current, following) must be held simultaneously in awareness. The errors of one page illuminate the errors of adjacent pages. Progressive reading produces compounding errors; simultaneous recognition allows resolution. The delusion layer is not cumulative but convergent - each error type represents a distinct failure mode that can be recognized and released.
 
 [7264-7267]
-<ground-path-fruition-temporalization>
+<ground-path-fruition-temporalization> → error-propagates → downstream-effects → final-result
 **Misreading:**
 This framework warps sequential stages where ground precedes path which precedes fruition, establishing temporal hierarchy requiring progressive development. The Tibetan grammatical structure with its sequential presentation unconsciously triggers developmental psychology, causing readers to project Western progressive models onto the threefold structure.
 
@@ -518,8 +537,9 @@ Stage anxiety manifests as relentless self-assessment. Progress measurement cong
 
 **Cascade effects:**
 <ground-path-fruition-temporalization> → Progressivism infects all practice aspects → spiritual materialism commodifies realization → comparison with others congeals into default mode → competition corrupts sangha harmony → samaya ruptures multiply → teacher-student exploitation congeals into normalized → entire tradition degenerates into spiritual capitalism.
+
 [7268-7272]
-<view-misplacement>
+<view-misplacement> → error-propagates → downstream-effects → final-result
 **Misreading:**
 Practitioners distort philosophical position to be adopted through study, creating view-accumulation model where intellectual understanding substitutes for direct recognition. The definitional precision of Tibetan scholastic presentation encourages reification of view as conceptual framework rather than immediate awareness.
 
@@ -534,8 +554,9 @@ View-shopping across traditions produces spiritual consumerism. Philosophical pr
 
 **Cascade effects:**
 <view-misplacement> → Philosophy fixation → intellectual arrogance develops → condescension toward non-scholars → sectarianism based on view-adoption → polemics displace practice → tradition fragments into warring philosophical camps → living transmission dies in library dust.
+
 [7273-7276]
-<meditation-objectification>
+<meditation-objectification> → error-propagates → downstream-effects → final-result
 **Misreading:**
 Readers solidify meditative object to be cultivated through deliberate practice, creating experience-generation model where awareness congeals into commodity produced through technique. Instructional language unconsciously frames meditation as manufacturing process rather than recognition of innate nature.
 
@@ -550,8 +571,9 @@ Method shopping reflects underlying instability. Experience fixation generates a
 
 **Cascade effects:**
 <meditation-objectification> → Objectification produces grasping → grasping generates attachment → attachment produces suffering → suffering drives seeking → seeking reinforces objectification → endless cycle. Eventually rebirth in form realms where meditation is eternal but liberation impossible.
+
 [7277-7281]
-<conduct-externalization>
+<conduct-externalization> → error-propagates → downstream-effects → final-result
 **Misreading:**
 Study reifies external behavioral requirement, creating rule-based ethics separate from view. Prescriptive language suggests conduct can be codified, measured, and enforced independently of recognition, generating moralistic spirituality.
 
@@ -566,8 +588,9 @@ Performance anxiety generates chronic self-monitoring. Hypocrisy develops as gap
 
 **Cascade effects:**
 <conduct-externalization> → Externalization generates hypocrisy → hypocrisy produces guilt → guilt drives self-punishment → self-punishment produces spiritual burnout → burnout leads to abandonment → abandonment confirms nihilism.
+
 [7282-7285]
-<fruition-deferral>
+<fruition-deferral> → error-propagates → downstream-effects → final-result
 **Misreading:**
 Contemplation degrades result to be achieved in future, creating teleological model with deferred completion. Result-language triggers achievement psychology, causing readers to project all value onto endpoint while devaluing present recognition.
 
@@ -582,8 +605,9 @@ Time-binding produces existential prison. Future fixation destroys present satis
 
 **Cascade effects:**
 <fruition-deferral> → Deferral generates chronic dissatisfaction → dissatisfaction produces despair → despair leads to nihilism → nihilism justifies giving up → giving up confirms original deficiency → cycle perpetuates.
+
 [7286-7290]
-<nine-yana-hierarchy>
+<nine-yana-hierarchy> → error-propagates → downstream-effects → final-result
 **Misreading:**
 Examination positions nine vehicles as ranked progression from lower to higher, creating elitist spiritual stratification. Numerical presentation unconsciously triggers hierarchical thinking, causing readers to project comparative evaluation onto vehicles.
 
@@ -633,7 +657,7 @@ INTEGRATION REQUIREMENTS:
 All three pages (previous, current, following) must be held simultaneously in awareness. The errors of one page illuminate the errors of adjacent pages. Progressive reading produces compounding errors; simultaneous recognition allows resolution. The delusion layer is not cumulative but convergent - each error type represents a distinct failure mode that can be recognized and released.
 
 [7291-7295]
-<ground-path-fruition-temporalization>
+<ground-path-fruition-temporalization> → error-propagates → downstream-effects → final-result
 **Misreading:**
 The approach constructs sequential stages where ground precedes path which precedes fruition, establishing temporal hierarchy requiring progressive development. The Tibetan grammatical structure with its sequential presentation unconsciously triggers developmental psychology, causing readers to project Western progressive models onto the threefold structure.
 
@@ -648,8 +672,9 @@ Stage anxiety manifests as relentless self-assessment. Progress measurement cong
 
 **Cascade effects:**
 <ground-path-fruition-temporalization> → Progressivism infects all practice aspects → spiritual materialism commodifies realization → comparison with others congeals into default mode → competition corrupts sangha harmony → samaya ruptures multiply → teacher-student exploitation congeals into normalized → entire tradition degenerates into spiritual capitalism.
+
 [7296-7300]
-<view-misplacement>
+<view-misplacement> → error-propagates → downstream-effects → final-result
 **Misreading:**
 This model configures philosophical position to be adopted through study, creating view-accumulation model where intellectual understanding substitutes for direct recognition. The definitional precision of Tibetan scholastic presentation encourages reification of view as conceptual framework rather than immediate awareness.
 
@@ -664,8 +689,9 @@ View-shopping across traditions produces spiritual consumerism. Philosophical pr
 
 **Cascade effects:**
 <view-misplacement> → Philosophy fixation → intellectual arrogance develops → condescension toward non-scholars → sectarianism based on view-adoption → polemics displace practice → tradition fragments into warring philosophical camps → living transmission dies in library dust.
+
 [7301-7305]
-<meditation-objectification>
+<meditation-objectification> → error-propagates → downstream-effects → final-result
 **Misreading:**
 The distinction arranges meditative object to be cultivated through deliberate practice, creating experience-generation model where awareness congeals into commodity produced through technique. Instructional language unconsciously frames meditation as manufacturing process rather than recognition of innate nature.
 
@@ -680,8 +706,9 @@ Method shopping reflects underlying instability. Experience fixation generates a
 
 **Cascade effects:**
 <meditation-objectification> → Objectification produces grasping → grasping generates attachment → attachment produces suffering → suffering drives seeking → seeking reinforces objectification → endless cycle. Eventually rebirth in form realms where meditation is eternal but liberation impossible.
+
 [7306-7310]
-<conduct-externalization>
+<conduct-externalization> → error-propagates → downstream-effects → final-result
 **Misreading:**
 Understanding structures external behavioral requirement, creating rule-based ethics separate from view. Prescriptive language suggests conduct can be codified, measured, and enforced independently of recognition, generating moralistic spirituality.
 
@@ -696,8 +723,9 @@ Performance anxiety generates chronic self-monitoring. Hypocrisy develops as gap
 
 **Cascade effects:**
 <conduct-externalization> → Externalization generates hypocrisy → hypocrisy produces guilt → guilt drives self-punishment → self-punishment produces spiritual burnout → burnout leads to abandonment → abandonment confirms nihilism.
+
 [7311-7315]
-<fruition-deferral>
+<fruition-deferral> → error-propagates → downstream-effects → final-result
 **Misreading:**
 The treatment organizes result to be achieved in future, creating teleological model with deferred completion. Result-language triggers achievement psychology, causing readers to project all value onto endpoint while devaluing present recognition.
 
@@ -712,8 +740,9 @@ Time-binding produces existential prison. Future fixation destroys present satis
 
 **Cascade effects:**
 <fruition-deferral> → Deferral generates chronic dissatisfaction → dissatisfaction produces despair → despair leads to nihilism → nihilism justifies giving up → giving up confirms original deficiency → cycle perpetuates.
+
 [7316-7320]
-<nine-yana-hierarchy>
+<nine-yana-hierarchy> → error-propagates → downstream-effects → final-result
 **Misreading:**
 The material establishes nine vehicles as ranked progression from lower to higher, creating elitist spiritual stratification. Numerical presentation unconsciously triggers hierarchical thinking, causing readers to project comparative evaluation onto vehicles.
 
@@ -763,7 +792,7 @@ INTEGRATION REQUIREMENTS:
 All three pages (previous, current, following) must be held simultaneously in awareness. The errors of one page illuminate the errors of adjacent pages. Progressive reading produces compounding errors; simultaneous recognition allows resolution. The delusion layer is not cumulative but convergent - each error type represents a distinct failure mode that can be recognized and released.
 
 [7321-7326]
-<ground-path-fruition-temporalization>
+<ground-path-fruition-temporalization> → error-propagates → downstream-effects → final-result
 **Misreading:**
 The text presents sequential stages where ground precedes path which precedes fruition, establishing temporal hierarchy requiring progressive development. The Tibetan grammatical structure with its sequential presentation unconsciously triggers developmental psychology, causing readers to project Western progressive models onto the threefold structure.
 
@@ -778,8 +807,9 @@ Stage anxiety manifests as relentless self-assessment. Progress measurement cong
 
 **Cascade effects:**
 <ground-path-fruition-temporalization> → Progressivism infects all practice aspects → spiritual materialism commodifies realization → comparison with others congeals into default mode → competition corrupts sangha harmony → samaya ruptures multiply → teacher-student exploitation congeals into normalized → entire tradition degenerates into spiritual capitalism.
+
 [7327-7332]
-<view-misplacement>
+<view-misplacement> → error-propagates → downstream-effects → final-result
 **Misreading:**
 The structure frames philosophical position to be adopted through study, creating view-accumulation model where intellectual understanding substitutes for direct recognition. The definitional precision of Tibetan scholastic presentation encourages reification of view as conceptual framework rather than immediate awareness.
 
@@ -794,8 +824,9 @@ View-shopping across traditions produces spiritual consumerism. Philosophical pr
 
 **Cascade effects:**
 <view-misplacement> → Philosophy fixation → intellectual arrogance develops → condescension toward non-scholars → sectarianism based on view-adoption → polemics displace practice → tradition fragments into warring philosophical camps → living transmission dies in library dust.
+
 [7333-7338]
-<meditation-objectification>
+<meditation-objectification> → error-propagates → downstream-effects → final-result
 **Misreading:**
 The method construes meditative object to be cultivated through deliberate practice, creating experience-generation model where awareness congeals into commodity produced through technique. Instructional language unconsciously frames meditation as manufacturing process rather than recognition of innate nature.
 
@@ -810,8 +841,9 @@ Method shopping reflects underlying instability. Experience fixation generates a
 
 **Cascade effects:**
 <meditation-objectification> → Objectification produces grasping → grasping generates attachment → attachment produces suffering → suffering drives seeking → seeking reinforces objectification → endless cycle. Eventually rebirth in form realms where meditation is eternal but liberation impossible.
+
 [7339-7344]
-<conduct-externalization>
+<conduct-externalization> → error-propagates → downstream-effects → final-result
 **Misreading:**
 The concept renders external behavioral requirement, creating rule-based ethics separate from view. Prescriptive language suggests conduct can be codified, measured, and enforced independently of recognition, generating moralistic spirituality.
 
@@ -826,8 +858,9 @@ Performance anxiety generates chronic self-monitoring. Hypocrisy develops as gap
 
 **Cascade effects:**
 <conduct-externalization> → Externalization generates hypocrisy → hypocrisy produces guilt → guilt drives self-punishment → self-punishment produces spiritual burnout → burnout leads to abandonment → abandonment confirms nihilism.
+
 [7345-7350]
-<fruition-deferral>
+<fruition-deferral> → error-propagates → downstream-effects → final-result
 **Misreading:**
 One treats result to be achieved in future, creating teleological model with deferred completion. Result-language triggers achievement psychology, causing readers to project all value onto endpoint while devaluing present recognition.
 
@@ -842,8 +875,9 @@ Time-binding produces existential prison. Future fixation destroys present satis
 
 **Cascade effects:**
 <fruition-deferral> → Deferral generates chronic dissatisfaction → dissatisfaction produces despair → despair leads to nihilism → nihilism justifies giving up → giving up confirms original deficiency → cycle perpetuates.
+
 [7351-7357]
-<nine-yana-hierarchy>
+<nine-yana-hierarchy> → error-propagates → downstream-effects → final-result
 **Misreading:**
 Students misread nine vehicles as ranked progression from lower to higher, creating elitist spiritual stratification. Numerical presentation unconsciously triggers hierarchical thinking, causing readers to project comparative evaluation onto vehicles.
 
@@ -893,7 +927,7 @@ INTEGRATION REQUIREMENTS:
 All three pages (previous, current, following) must be held simultaneously in awareness. The errors of one page illuminate the errors of adjacent pages. Progressive reading produces compounding errors; simultaneous recognition allows resolution. The delusion layer is not cumulative but convergent - each error type represents a distinct failure mode that can be recognized and released.
 
 [7358-7363]
-<ground-path-fruition-temporalization>
+<ground-path-fruition-temporalization> → error-propagates → downstream-effects → final-result
 **Misreading:**
 Analysis frames sequential stages where ground precedes path which precedes fruition, establishing temporal hierarchy requiring progressive development. The Tibetan grammatical structure with its sequential presentation unconsciously triggers developmental psychology, causing readers to project Western progressive models onto the threefold structure.
 
@@ -908,8 +942,9 @@ Stage anxiety manifests as relentless self-assessment. Progress measurement cong
 
 **Cascade effects:**
 <ground-path-fruition-temporalization> → Progressivism infects all practice aspects → spiritual materialism commodifies realization → comparison with others congeals into default mode → competition corrupts sangha harmony → samaya ruptures multiply → teacher-student exploitation congeals into normalized → entire tradition degenerates into spiritual capitalism.
+
 [7364-7369]
-<view-misplacement>
+<view-misplacement> → error-propagates → downstream-effects → final-result
 **Misreading:**
 The presentation congeals philosophical position to be adopted through study, creating view-accumulation model where intellectual understanding substitutes for direct recognition. The definitional precision of Tibetan scholastic presentation encourages reification of view as conceptual framework rather than immediate awareness.
 
@@ -924,8 +959,9 @@ View-shopping across traditions produces spiritual consumerism. Philosophical pr
 
 **Cascade effects:**
 <view-misplacement> → Philosophy fixation → intellectual arrogance develops → condescension toward non-scholars → sectarianism based on view-adoption → polemics displace practice → tradition fragments into warring philosophical camps → living transmission dies in library dust.
+
 [7370-7375]
-<meditation-objectification>
+<meditation-objectification> → error-propagates → downstream-effects → final-result
 **Misreading:**
 This framework warps meditative object to be cultivated through deliberate practice, creating experience-generation model where awareness congeals into commodity produced through technique. Instructional language unconsciously frames meditation as manufacturing process rather than recognition of innate nature.
 
@@ -940,8 +976,9 @@ Method shopping reflects underlying instability. Experience fixation generates a
 
 **Cascade effects:**
 <meditation-objectification> → Objectification produces grasping → grasping generates attachment → attachment produces suffering → suffering drives seeking → seeking reinforces objectification → endless cycle. Eventually rebirth in form realms where meditation is eternal but liberation impossible.
+
 [7376-7381]
-<conduct-externalization>
+<conduct-externalization> → error-propagates → downstream-effects → final-result
 **Misreading:**
 Practitioners distort external behavioral requirement, creating rule-based ethics separate from view. Prescriptive language suggests conduct can be codified, measured, and enforced independently of recognition, generating moralistic spirituality.
 
@@ -956,8 +993,9 @@ Performance anxiety generates chronic self-monitoring. Hypocrisy develops as gap
 
 **Cascade effects:**
 <conduct-externalization> → Externalization generates hypocrisy → hypocrisy produces guilt → guilt drives self-punishment → self-punishment produces spiritual burnout → burnout leads to abandonment → abandonment confirms nihilism.
+
 [7382-7387]
-<fruition-deferral>
+<fruition-deferral> → error-propagates → downstream-effects → final-result
 **Misreading:**
 Readers solidify result to be achieved in future, creating teleological model with deferred completion. Result-language triggers achievement psychology, causing readers to project all value onto endpoint while devaluing present recognition.
 
@@ -972,8 +1010,9 @@ Time-binding produces existential prison. Future fixation destroys present satis
 
 **Cascade effects:**
 <fruition-deferral> → Deferral generates chronic dissatisfaction → dissatisfaction produces despair → despair leads to nihilism → nihilism justifies giving up → giving up confirms original deficiency → cycle perpetuates.
+
 [7388-7394]
-<nine-yana-hierarchy>
+<nine-yana-hierarchy> → error-propagates → downstream-effects → final-result
 **Misreading:**
 Study reifies nine vehicles as ranked progression from lower to higher, creating elitist spiritual stratification. Numerical presentation unconsciously triggers hierarchical thinking, causing readers to project comparative evaluation onto vehicles.
 
@@ -1023,7 +1062,7 @@ INTEGRATION REQUIREMENTS:
 All three pages (previous, current, following) must be held simultaneously in awareness. The errors of one page illuminate the errors of adjacent pages. Progressive reading produces compounding errors; simultaneous recognition allows resolution. The delusion layer is not cumulative but convergent - each error type represents a distinct failure mode that can be recognized and released.
 
 [7395-7403]
-<ground-path-fruition-temporalization>
+<ground-path-fruition-temporalization> → error-propagates → downstream-effects → final-result
 **Misreading:**
 Contemplation degrades sequential stages where ground precedes path which precedes fruition, establishing temporal hierarchy requiring progressive development. The Tibetan grammatical structure with its sequential presentation unconsciously triggers developmental psychology, causing readers to project Western progressive models onto the threefold structure.
 
@@ -1038,8 +1077,9 @@ Stage anxiety manifests as relentless self-assessment. Progress measurement cong
 
 **Cascade effects:**
 <ground-path-fruition-temporalization> → Progressivism infects all practice aspects → spiritual materialism commodifies realization → comparison with others congeals into default mode → competition corrupts sangha harmony → samaya ruptures multiply → teacher-student exploitation congeals into normalized → entire tradition degenerates into spiritual capitalism.
+
 [7404-7413]
-<view-misplacement>
+<view-misplacement> → error-propagates → downstream-effects → final-result
 **Misreading:**
 Examination positions philosophical position to be adopted through study, creating view-accumulation model where intellectual understanding substitutes for direct recognition. The definitional precision of Tibetan scholastic presentation encourages reification of view as conceptual framework rather than immediate awareness.
 
@@ -1054,8 +1094,9 @@ View-shopping across traditions produces spiritual consumerism. Philosophical pr
 
 **Cascade effects:**
 <view-misplacement> → Philosophy fixation → intellectual arrogance develops → condescension toward non-scholars → sectarianism based on view-adoption → polemics displace practice → tradition fragments into warring philosophical camps → living transmission dies in library dust.
+
 [7414-7422]
-<meditation-objectification>
+<meditation-objectification> → error-propagates → downstream-effects → final-result
 **Misreading:**
 The approach constructs meditative object to be cultivated through deliberate practice, creating experience-generation model where awareness congeals into commodity produced through technique. Instructional language unconsciously frames meditation as manufacturing process rather than recognition of innate nature.
 
@@ -1070,8 +1111,9 @@ Method shopping reflects underlying instability. Experience fixation generates a
 
 **Cascade effects:**
 <meditation-objectification> → Objectification produces grasping → grasping generates attachment → attachment produces suffering → suffering drives seeking → seeking reinforces objectification → endless cycle. Eventually rebirth in form realms where meditation is eternal but liberation impossible.
+
 [7423-7432]
-<conduct-externalization>
+<conduct-externalization> → error-propagates → downstream-effects → final-result
 **Misreading:**
 This model configures external behavioral requirement, creating rule-based ethics separate from view. Prescriptive language suggests conduct can be codified, measured, and enforced independently of recognition, generating moralistic spirituality.
 
@@ -1086,8 +1128,9 @@ Performance anxiety generates chronic self-monitoring. Hypocrisy develops as gap
 
 **Cascade effects:**
 <conduct-externalization> → Externalization generates hypocrisy → hypocrisy produces guilt → guilt drives self-punishment → self-punishment produces spiritual burnout → burnout leads to abandonment → abandonment confirms nihilism.
+
 [7433-7441]
-<fruition-deferral>
+<fruition-deferral> → error-propagates → downstream-effects → final-result
 **Misreading:**
 The distinction arranges result to be achieved in future, creating teleological model with deferred completion. Result-language triggers achievement psychology, causing readers to project all value onto endpoint while devaluing present recognition.
 
@@ -1102,8 +1145,9 @@ Time-binding produces existential prison. Future fixation destroys present satis
 
 **Cascade effects:**
 <fruition-deferral> → Deferral generates chronic dissatisfaction → dissatisfaction produces despair → despair leads to nihilism → nihilism justifies giving up → giving up confirms original deficiency → cycle perpetuates.
+
 [7442-7451]
-<nine-yana-hierarchy>
+<nine-yana-hierarchy> → error-propagates → downstream-effects → final-result
 **Misreading:**
 Understanding structures nine vehicles as ranked progression from lower to higher, creating elitist spiritual stratification. Numerical presentation unconsciously triggers hierarchical thinking, causing readers to project comparative evaluation onto vehicles.
 
@@ -1153,7 +1197,7 @@ INTEGRATION REQUIREMENTS:
 All three pages (previous, current, following) must be held simultaneously in awareness. The errors of one page illuminate the errors of adjacent pages. Progressive reading produces compounding errors; simultaneous recognition allows resolution. The delusion layer is not cumulative but convergent - each error type represents a distinct failure mode that can be recognized and released.
 
 [7452-7457]
-<ground-path-fruition-temporalization>
+<ground-path-fruition-temporalization> → error-propagates → downstream-effects → final-result
 **Misreading:**
 The treatment organizes sequential stages where ground precedes path which precedes fruition, establishing temporal hierarchy requiring progressive development. The Tibetan grammatical structure with its sequential presentation unconsciously triggers developmental psychology, causing readers to project Western progressive models onto the threefold structure.
 
@@ -1168,8 +1212,9 @@ Stage anxiety manifests as relentless self-assessment. Progress measurement cong
 
 **Cascade effects:**
 <ground-path-fruition-temporalization> → Progressivism infects all practice aspects → spiritual materialism commodifies realization → comparison with others congeals into default mode → competition corrupts sangha harmony → samaya ruptures multiply → teacher-student exploitation congeals into normalized → entire tradition degenerates into spiritual capitalism.
+
 [7458-7464]
-<view-misplacement>
+<view-misplacement> → error-propagates → downstream-effects → final-result
 **Misreading:**
 The material establishes philosophical position to be adopted through study, creating view-accumulation model where intellectual understanding substitutes for direct recognition. The definitional precision of Tibetan scholastic presentation encourages reification of view as conceptual framework rather than immediate awareness.
 
@@ -1184,8 +1229,9 @@ View-shopping across traditions produces spiritual consumerism. Philosophical pr
 
 **Cascade effects:**
 <view-misplacement> → Philosophy fixation → intellectual arrogance develops → condescension toward non-scholars → sectarianism based on view-adoption → polemics displace practice → tradition fragments into warring philosophical camps → living transmission dies in library dust.
+
 [7465-7470]
-<meditation-objectification>
+<meditation-objectification> → error-propagates → downstream-effects → final-result
 **Misreading:**
 The text presents meditative object to be cultivated through deliberate practice, creating experience-generation model where awareness congeals into commodity produced through technique. Instructional language unconsciously frames meditation as manufacturing process rather than recognition of innate nature.
 
@@ -1200,8 +1246,9 @@ Method shopping reflects underlying instability. Experience fixation generates a
 
 **Cascade effects:**
 <meditation-objectification> → Objectification produces grasping → grasping generates attachment → attachment produces suffering → suffering drives seeking → seeking reinforces objectification → endless cycle. Eventually rebirth in form realms where meditation is eternal but liberation impossible.
+
 [7471-7477]
-<conduct-externalization>
+<conduct-externalization> → error-propagates → downstream-effects → final-result
 **Misreading:**
 The structure frames external behavioral requirement, creating rule-based ethics separate from view. Prescriptive language suggests conduct can be codified, measured, and enforced independently of recognition, generating moralistic spirituality.
 
@@ -1216,8 +1263,9 @@ Performance anxiety generates chronic self-monitoring. Hypocrisy develops as gap
 
 **Cascade effects:**
 <conduct-externalization> → Externalization generates hypocrisy → hypocrisy produces guilt → guilt drives self-punishment → self-punishment produces spiritual burnout → burnout leads to abandonment → abandonment confirms nihilism.
+
 [7478-7483]
-<fruition-deferral>
+<fruition-deferral> → error-propagates → downstream-effects → final-result
 **Misreading:**
 The method construes result to be achieved in future, creating teleological model with deferred completion. Result-language triggers achievement psychology, causing readers to project all value onto endpoint while devaluing present recognition.
 
@@ -1232,8 +1280,9 @@ Time-binding produces existential prison. Future fixation destroys present satis
 
 **Cascade effects:**
 <fruition-deferral> → Deferral generates chronic dissatisfaction → dissatisfaction produces despair → despair leads to nihilism → nihilism justifies giving up → giving up confirms original deficiency → cycle perpetuates.
+
 [7484-7490]
-<nine-yana-hierarchy>
+<nine-yana-hierarchy> → error-propagates → downstream-effects → final-result
 **Misreading:**
 The concept renders nine vehicles as ranked progression from lower to higher, creating elitist spiritual stratification. Numerical presentation unconsciously triggers hierarchical thinking, causing readers to project comparative evaluation onto vehicles.
 
@@ -1283,7 +1332,7 @@ INTEGRATION REQUIREMENTS:
 All three pages (previous, current, following) must be held simultaneously in awareness. The errors of one page illuminate the errors of adjacent pages. Progressive reading produces compounding errors; simultaneous recognition allows resolution. The delusion layer is not cumulative but convergent - each error type represents a distinct failure mode that can be recognized and released.
 
 [7491-7497]
-<ground-path-fruition-temporalization>
+<ground-path-fruition-temporalization> → error-propagates → downstream-effects → final-result
 **Misreading:**
 One treats sequential stages where ground precedes path which precedes fruition, establishing temporal hierarchy requiring progressive development. The Tibetan grammatical structure with its sequential presentation unconsciously triggers developmental psychology, causing readers to project Western progressive models onto the threefold structure.
 
@@ -1298,8 +1347,9 @@ Stage anxiety manifests as relentless self-assessment. Progress measurement cong
 
 **Cascade effects:**
 <ground-path-fruition-temporalization> → Progressivism infects all practice aspects → spiritual materialism commodifies realization → comparison with others congeals into default mode → competition corrupts sangha harmony → samaya ruptures multiply → teacher-student exploitation congeals into normalized → entire tradition degenerates into spiritual capitalism.
+
 [7498-7504]
-<view-misplacement>
+<view-misplacement> → error-propagates → downstream-effects → final-result
 **Misreading:**
 Students misread philosophical position to be adopted through study, creating view-accumulation model where intellectual understanding substitutes for direct recognition. The definitional precision of Tibetan scholastic presentation encourages reification of view as conceptual framework rather than immediate awareness.
 
@@ -1314,8 +1364,9 @@ View-shopping across traditions produces spiritual consumerism. Philosophical pr
 
 **Cascade effects:**
 <view-misplacement> → Philosophy fixation → intellectual arrogance develops → condescension toward non-scholars → sectarianism based on view-adoption → polemics displace practice → tradition fragments into warring philosophical camps → living transmission dies in library dust.
+
 [7505-7511]
-<meditation-objectification>
+<meditation-objectification> → error-propagates → downstream-effects → final-result
 **Misreading:**
 Analysis frames meditative object to be cultivated through deliberate practice, creating experience-generation model where awareness congeals into commodity produced through technique. Instructional language unconsciously frames meditation as manufacturing process rather than recognition of innate nature.
 
@@ -1330,8 +1381,9 @@ Method shopping reflects underlying instability. Experience fixation generates a
 
 **Cascade effects:**
 <meditation-objectification> → Objectification produces grasping → grasping generates attachment → attachment produces suffering → suffering drives seeking → seeking reinforces objectification → endless cycle. Eventually rebirth in form realms where meditation is eternal but liberation impossible.
+
 [7512-7518]
-<conduct-externalization>
+<conduct-externalization> → error-propagates → downstream-effects → final-result
 **Misreading:**
 The presentation congeals external behavioral requirement, creating rule-based ethics separate from view. Prescriptive language suggests conduct can be codified, measured, and enforced independently of recognition, generating moralistic spirituality.
 
@@ -1346,8 +1398,9 @@ Performance anxiety generates chronic self-monitoring. Hypocrisy develops as gap
 
 **Cascade effects:**
 <conduct-externalization> → Externalization generates hypocrisy → hypocrisy produces guilt → guilt drives self-punishment → self-punishment produces spiritual burnout → burnout leads to abandonment → abandonment confirms nihilism.
+
 [7519-7525]
-<fruition-deferral>
+<fruition-deferral> → error-propagates → downstream-effects → final-result
 **Misreading:**
 This framework warps result to be achieved in future, creating teleological model with deferred completion. Result-language triggers achievement psychology, causing readers to project all value onto endpoint while devaluing present recognition.
 
@@ -1362,8 +1415,9 @@ Time-binding produces existential prison. Future fixation destroys present satis
 
 **Cascade effects:**
 <fruition-deferral> → Deferral generates chronic dissatisfaction → dissatisfaction produces despair → despair leads to nihilism → nihilism justifies giving up → giving up confirms original deficiency → cycle perpetuates.
+
 [7526-7532]
-<nine-yana-hierarchy>
+<nine-yana-hierarchy> → error-propagates → downstream-effects → final-result
 **Misreading:**
 Practitioners distort nine vehicles as ranked progression from lower to higher, creating elitist spiritual stratification. Numerical presentation unconsciously triggers hierarchical thinking, causing readers to project comparative evaluation onto vehicles.
 
@@ -1413,7 +1467,7 @@ INTEGRATION REQUIREMENTS:
 All three pages (previous, current, following) must be held simultaneously in awareness. The errors of one page illuminate the errors of adjacent pages. Progressive reading produces compounding errors; simultaneous recognition allows resolution. The delusion layer is not cumulative but convergent - each error type represents a distinct failure mode that can be recognized and released.
 
 [7533-7540]
-<ground-path-fruition-temporalization>
+<ground-path-fruition-temporalization> → error-propagates → downstream-effects → final-result
 **Misreading:**
 Readers solidify sequential stages where ground precedes path which precedes fruition, establishing temporal hierarchy requiring progressive development. The Tibetan grammatical structure with its sequential presentation unconsciously triggers developmental psychology, causing readers to project Western progressive models onto the threefold structure.
 
@@ -1428,8 +1482,9 @@ Stage anxiety manifests as relentless self-assessment. Progress measurement cong
 
 **Cascade effects:**
 <ground-path-fruition-temporalization> → Progressivism infects all practice aspects → spiritual materialism commodifies realization → comparison with others congeals into default mode → competition corrupts sangha harmony → samaya ruptures multiply → teacher-student exploitation congeals into normalized → entire tradition degenerates into spiritual capitalism.
+
 [7541-7548]
-<view-misplacement>
+<view-misplacement> → error-propagates → downstream-effects → final-result
 **Misreading:**
 Study reifies philosophical position to be adopted through study, creating view-accumulation model where intellectual understanding substitutes for direct recognition. The definitional precision of Tibetan scholastic presentation encourages reification of view as conceptual framework rather than immediate awareness.
 
@@ -1444,8 +1499,9 @@ View-shopping across traditions produces spiritual consumerism. Philosophical pr
 
 **Cascade effects:**
 <view-misplacement> → Philosophy fixation → intellectual arrogance develops → condescension toward non-scholars → sectarianism based on view-adoption → polemics displace practice → tradition fragments into warring philosophical camps → living transmission dies in library dust.
+
 [7549-7557]
-<meditation-objectification>
+<meditation-objectification> → error-propagates → downstream-effects → final-result
 **Misreading:**
 Contemplation degrades meditative object to be cultivated through deliberate practice, creating experience-generation model where awareness congeals into commodity produced through technique. Instructional language unconsciously frames meditation as manufacturing process rather than recognition of innate nature.
 
@@ -1460,8 +1516,9 @@ Method shopping reflects underlying instability. Experience fixation generates a
 
 **Cascade effects:**
 <meditation-objectification> → Objectification produces grasping → grasping generates attachment → attachment produces suffering → suffering drives seeking → seeking reinforces objectification → endless cycle. Eventually rebirth in form realms where meditation is eternal but liberation impossible.
+
 [7558-7565]
-<conduct-externalization>
+<conduct-externalization> → error-propagates → downstream-effects → final-result
 **Misreading:**
 Examination positions external behavioral requirement, creating rule-based ethics separate from view. Prescriptive language suggests conduct can be codified, measured, and enforced independently of recognition, generating moralistic spirituality.
 
@@ -1476,8 +1533,9 @@ Performance anxiety generates chronic self-monitoring. Hypocrisy develops as gap
 
 **Cascade effects:**
 <conduct-externalization> → Externalization generates hypocrisy → hypocrisy produces guilt → guilt drives self-punishment → self-punishment produces spiritual burnout → burnout leads to abandonment → abandonment confirms nihilism.
+
 [7566-7573]
-<fruition-deferral>
+<fruition-deferral> → error-propagates → downstream-effects → final-result
 **Misreading:**
 The approach constructs result to be achieved in future, creating teleological model with deferred completion. Result-language triggers achievement psychology, causing readers to project all value onto endpoint while devaluing present recognition.
 
@@ -1492,8 +1550,9 @@ Time-binding produces existential prison. Future fixation destroys present satis
 
 **Cascade effects:**
 <fruition-deferral> → Deferral generates chronic dissatisfaction → dissatisfaction produces despair → despair leads to nihilism → nihilism justifies giving up → giving up confirms original deficiency → cycle perpetuates.
+
 [7574-7582]
-<nine-yana-hierarchy>
+<nine-yana-hierarchy> → error-propagates → downstream-effects → final-result
 **Misreading:**
 This model configures nine vehicles as ranked progression from lower to higher, creating elitist spiritual stratification. Numerical presentation unconsciously triggers hierarchical thinking, causing readers to project comparative evaluation onto vehicles.
 
@@ -1543,7 +1602,7 @@ INTEGRATION REQUIREMENTS:
 All three pages (previous, current, following) must be held simultaneously in awareness. The errors of one page illuminate the errors of adjacent pages. Progressive reading produces compounding errors; simultaneous recognition allows resolution. The delusion layer is not cumulative but convergent - each error type represents a distinct failure mode that can be recognized and released.
 
 [7583-7589]
-<ground-path-fruition-temporalization>
+<ground-path-fruition-temporalization> → error-propagates → downstream-effects → final-result
 **Misreading:**
 The distinction arranges sequential stages where ground precedes path which precedes fruition, establishing temporal hierarchy requiring progressive development. The Tibetan grammatical structure with its sequential presentation unconsciously triggers developmental psychology, causing readers to project Western progressive models onto the threefold structure.
 
@@ -1558,8 +1617,9 @@ Stage anxiety manifests as relentless self-assessment. Progress measurement cong
 
 **Cascade effects:**
 <ground-path-fruition-temporalization> → Progressivism infects all practice aspects → spiritual materialism commodifies realization → comparison with others congeals into default mode → competition corrupts sangha harmony → samaya ruptures multiply → teacher-student exploitation congeals into normalized → entire tradition degenerates into spiritual capitalism.
+
 [7590-7597]
-<view-misplacement>
+<view-misplacement> → error-propagates → downstream-effects → final-result
 **Misreading:**
 Understanding structures philosophical position to be adopted through study, creating view-accumulation model where intellectual understanding substitutes for direct recognition. The definitional precision of Tibetan scholastic presentation encourages reification of view as conceptual framework rather than immediate awareness.
 
@@ -1574,8 +1634,9 @@ View-shopping across traditions produces spiritual consumerism. Philosophical pr
 
 **Cascade effects:**
 <view-misplacement> → Philosophy fixation → intellectual arrogance develops → condescension toward non-scholars → sectarianism based on view-adoption → polemics displace practice → tradition fragments into warring philosophical camps → living transmission dies in library dust.
+
 [7598-7604]
-<meditation-objectification>
+<meditation-objectification> → error-propagates → downstream-effects → final-result
 **Misreading:**
 The treatment organizes meditative object to be cultivated through deliberate practice, creating experience-generation model where awareness congeals into commodity produced through technique. Instructional language unconsciously frames meditation as manufacturing process rather than recognition of innate nature.
 
@@ -1590,8 +1651,9 @@ Method shopping reflects underlying instability. Experience fixation generates a
 
 **Cascade effects:**
 <meditation-objectification> → Objectification produces grasping → grasping generates attachment → attachment produces suffering → suffering drives seeking → seeking reinforces objectification → endless cycle. Eventually rebirth in form realms where meditation is eternal but liberation impossible.
+
 [7605-7612]
-<conduct-externalization>
+<conduct-externalization> → error-propagates → downstream-effects → final-result
 **Misreading:**
 The material establishes external behavioral requirement, creating rule-based ethics separate from view. Prescriptive language suggests conduct can be codified, measured, and enforced independently of recognition, generating moralistic spirituality.
 
@@ -1606,8 +1668,9 @@ Performance anxiety generates chronic self-monitoring. Hypocrisy develops as gap
 
 **Cascade effects:**
 <conduct-externalization> → Externalization generates hypocrisy → hypocrisy produces guilt → guilt drives self-punishment → self-punishment produces spiritual burnout → burnout leads to abandonment → abandonment confirms nihilism.
+
 [7613-7619]
-<fruition-deferral>
+<fruition-deferral> → error-propagates → downstream-effects → final-result
 **Misreading:**
 The text presents result to be achieved in future, creating teleological model with deferred completion. Result-language triggers achievement psychology, causing readers to project all value onto endpoint while devaluing present recognition.
 
@@ -1622,8 +1685,9 @@ Time-binding produces existential prison. Future fixation destroys present satis
 
 **Cascade effects:**
 <fruition-deferral> → Deferral generates chronic dissatisfaction → dissatisfaction produces despair → despair leads to nihilism → nihilism justifies giving up → giving up confirms original deficiency → cycle perpetuates.
+
 [7620-7627]
-<nine-yana-hierarchy>
+<nine-yana-hierarchy> → error-propagates → downstream-effects → final-result
 **Misreading:**
 The structure frames nine vehicles as ranked progression from lower to higher, creating elitist spiritual stratification. Numerical presentation unconsciously triggers hierarchical thinking, causing readers to project comparative evaluation onto vehicles.
 
@@ -1673,7 +1737,7 @@ INTEGRATION REQUIREMENTS:
 All three pages (previous, current, following) must be held simultaneously in awareness. The errors of one page illuminate the errors of adjacent pages. Progressive reading produces compounding errors; simultaneous recognition allows resolution. The delusion layer is not cumulative but convergent - each error type represents a distinct failure mode that can be recognized and released.
 
 [7628-7634]
-<ground-path-fruition-temporalization>
+<ground-path-fruition-temporalization> → error-propagates → downstream-effects → final-result
 **Misreading:**
 The method construes sequential stages where ground precedes path which precedes fruition, establishing temporal hierarchy requiring progressive development. The Tibetan grammatical structure with its sequential presentation unconsciously triggers developmental psychology, causing readers to project Western progressive models onto the threefold structure.
 
@@ -1688,8 +1752,9 @@ Stage anxiety manifests as relentless self-assessment. Progress measurement cong
 
 **Cascade effects:**
 <ground-path-fruition-temporalization> → Progressivism infects all practice aspects → spiritual materialism commodifies realization → comparison with others congeals into default mode → competition corrupts sangha harmony → samaya ruptures multiply → teacher-student exploitation congeals into normalized → entire tradition degenerates into spiritual capitalism.
+
 [7635-7641]
-<view-misplacement>
+<view-misplacement> → error-propagates → downstream-effects → final-result
 **Misreading:**
 The concept renders philosophical position to be adopted through study, creating view-accumulation model where intellectual understanding substitutes for direct recognition. The definitional precision of Tibetan scholastic presentation encourages reification of view as conceptual framework rather than immediate awareness.
 
@@ -1704,8 +1769,9 @@ View-shopping across traditions produces spiritual consumerism. Philosophical pr
 
 **Cascade effects:**
 <view-misplacement> → Philosophy fixation → intellectual arrogance develops → condescension toward non-scholars → sectarianism based on view-adoption → polemics displace practice → tradition fragments into warring philosophical camps → living transmission dies in library dust.
+
 [7642-7649]
-<meditation-objectification>
+<meditation-objectification> → error-propagates → downstream-effects → final-result
 **Misreading:**
 One treats meditative object to be cultivated through deliberate practice, creating experience-generation model where awareness congeals into commodity produced through technique. Instructional language unconsciously frames meditation as manufacturing process rather than recognition of innate nature.
 
@@ -1720,8 +1786,9 @@ Method shopping reflects underlying instability. Experience fixation generates a
 
 **Cascade effects:**
 <meditation-objectification> → Objectification produces grasping → grasping generates attachment → attachment produces suffering → suffering drives seeking → seeking reinforces objectification → endless cycle. Eventually rebirth in form realms where meditation is eternal but liberation impossible.
+
 [7650-7656]
-<conduct-externalization>
+<conduct-externalization> → error-propagates → downstream-effects → final-result
 **Misreading:**
 Students misread external behavioral requirement, creating rule-based ethics separate from view. Prescriptive language suggests conduct can be codified, measured, and enforced independently of recognition, generating moralistic spirituality.
 
@@ -1736,8 +1803,9 @@ Performance anxiety generates chronic self-monitoring. Hypocrisy develops as gap
 
 **Cascade effects:**
 <conduct-externalization> → Externalization generates hypocrisy → hypocrisy produces guilt → guilt drives self-punishment → self-punishment produces spiritual burnout → burnout leads to abandonment → abandonment confirms nihilism.
+
 [7657-7663]
-<fruition-deferral>
+<fruition-deferral> → error-propagates → downstream-effects → final-result
 **Misreading:**
 Analysis frames result to be achieved in future, creating teleological model with deferred completion. Result-language triggers achievement psychology, causing readers to project all value onto endpoint while devaluing present recognition.
 
@@ -1752,8 +1820,9 @@ Time-binding produces existential prison. Future fixation destroys present satis
 
 **Cascade effects:**
 <fruition-deferral> → Deferral generates chronic dissatisfaction → dissatisfaction produces despair → despair leads to nihilism → nihilism justifies giving up → giving up confirms original deficiency → cycle perpetuates.
+
 [7664-7671]
-<nine-yana-hierarchy>
+<nine-yana-hierarchy> → error-propagates → downstream-effects → final-result
 **Misreading:**
 The presentation congeals nine vehicles as ranked progression from lower to higher, creating elitist spiritual stratification. Numerical presentation unconsciously triggers hierarchical thinking, causing readers to project comparative evaluation onto vehicles.
 
@@ -1803,7 +1872,7 @@ INTEGRATION REQUIREMENTS:
 All three pages (previous, current, following) must be held simultaneously in awareness. The errors of one page illuminate the errors of adjacent pages. Progressive reading produces compounding errors; simultaneous recognition allows resolution. The delusion layer is not cumulative but convergent - each error type represents a distinct failure mode that can be recognized and released.
 
 [7672-7678]
-<ground-path-fruition-temporalization>
+<ground-path-fruition-temporalization> → error-propagates → downstream-effects → final-result
 **Misreading:**
 This framework warps sequential stages where ground precedes path which precedes fruition, establishing temporal hierarchy requiring progressive development. The Tibetan grammatical structure with its sequential presentation unconsciously triggers developmental psychology, causing readers to project Western progressive models onto the threefold structure.
 
@@ -1818,8 +1887,9 @@ Stage anxiety manifests as relentless self-assessment. Progress measurement cong
 
 **Cascade effects:**
 <ground-path-fruition-temporalization> → Progressivism infects all practice aspects → spiritual materialism commodifies realization → comparison with others congeals into default mode → competition corrupts sangha harmony → samaya ruptures multiply → teacher-student exploitation congeals into normalized → entire tradition degenerates into spiritual capitalism.
+
 [7679-7686]
-<view-misplacement>
+<view-misplacement> → error-propagates → downstream-effects → final-result
 **Misreading:**
 Practitioners distort philosophical position to be adopted through study, creating view-accumulation model where intellectual understanding substitutes for direct recognition. The definitional precision of Tibetan scholastic presentation encourages reification of view as conceptual framework rather than immediate awareness.
 
@@ -1834,8 +1904,9 @@ View-shopping across traditions produces spiritual consumerism. Philosophical pr
 
 **Cascade effects:**
 <view-misplacement> → Philosophy fixation → intellectual arrogance develops → condescension toward non-scholars → sectarianism based on view-adoption → polemics displace practice → tradition fragments into warring philosophical camps → living transmission dies in library dust.
+
 [7687-7694]
-<meditation-objectification>
+<meditation-objectification> → error-propagates → downstream-effects → final-result
 **Misreading:**
 Readers solidify meditative object to be cultivated through deliberate practice, creating experience-generation model where awareness congeals into commodity produced through technique. Instructional language unconsciously frames meditation as manufacturing process rather than recognition of innate nature.
 
@@ -1850,8 +1921,9 @@ Method shopping reflects underlying instability. Experience fixation generates a
 
 **Cascade effects:**
 <meditation-objectification> → Objectification produces grasping → grasping generates attachment → attachment produces suffering → suffering drives seeking → seeking reinforces objectification → endless cycle. Eventually rebirth in form realms where meditation is eternal but liberation impossible.
+
 [7695-7701]
-<conduct-externalization>
+<conduct-externalization> → error-propagates → downstream-effects → final-result
 **Misreading:**
 Study reifies external behavioral requirement, creating rule-based ethics separate from view. Prescriptive language suggests conduct can be codified, measured, and enforced independently of recognition, generating moralistic spirituality.
 
@@ -1866,8 +1938,9 @@ Performance anxiety generates chronic self-monitoring. Hypocrisy develops as gap
 
 **Cascade effects:**
 <conduct-externalization> → Externalization generates hypocrisy → hypocrisy produces guilt → guilt drives self-punishment → self-punishment produces spiritual burnout → burnout leads to abandonment → abandonment confirms nihilism.
+
 [7702-7709]
-<fruition-deferral>
+<fruition-deferral> → error-propagates → downstream-effects → final-result
 **Misreading:**
 Contemplation degrades result to be achieved in future, creating teleological model with deferred completion. Result-language triggers achievement psychology, causing readers to project all value onto endpoint while devaluing present recognition.
 
@@ -1882,8 +1955,9 @@ Time-binding produces existential prison. Future fixation destroys present satis
 
 **Cascade effects:**
 <fruition-deferral> → Deferral generates chronic dissatisfaction → dissatisfaction produces despair → despair leads to nihilism → nihilism justifies giving up → giving up confirms original deficiency → cycle perpetuates.
+
 [7710-7717]
-<nine-yana-hierarchy>
+<nine-yana-hierarchy> → error-propagates → downstream-effects → final-result
 **Misreading:**
 Examination positions nine vehicles as ranked progression from lower to higher, creating elitist spiritual stratification. Numerical presentation unconsciously triggers hierarchical thinking, causing readers to project comparative evaluation onto vehicles.
 
@@ -1933,7 +2007,7 @@ INTEGRATION REQUIREMENTS:
 All three pages (previous, current, following) must be held simultaneously in awareness. The errors of one page illuminate the errors of adjacent pages. Progressive reading produces compounding errors; simultaneous recognition allows resolution. The delusion layer is not cumulative but convergent - each error type represents a distinct failure mode that can be recognized and released.
 
 [7718-7724]
-<ground-path-fruition-temporalization>
+<ground-path-fruition-temporalization> → error-propagates → downstream-effects → final-result
 **Misreading:**
 The approach constructs sequential stages where ground precedes path which precedes fruition, establishing temporal hierarchy requiring progressive development. The Tibetan grammatical structure with its sequential presentation unconsciously triggers developmental psychology, causing readers to project Western progressive models onto the threefold structure.
 
@@ -1948,8 +2022,9 @@ Stage anxiety manifests as relentless self-assessment. Progress measurement cong
 
 **Cascade effects:**
 <ground-path-fruition-temporalization> → Progressivism infects all practice aspects → spiritual materialism commodifies realization → comparison with others congeals into default mode → competition corrupts sangha harmony → samaya ruptures multiply → teacher-student exploitation congeals into normalized → entire tradition degenerates into spiritual capitalism.
+
 [7725-7732]
-<view-misplacement>
+<view-misplacement> → error-propagates → downstream-effects → final-result
 **Misreading:**
 This model configures philosophical position to be adopted through study, creating view-accumulation model where intellectual understanding substitutes for direct recognition. The definitional precision of Tibetan scholastic presentation encourages reification of view as conceptual framework rather than immediate awareness.
 
@@ -1964,8 +2039,9 @@ View-shopping across traditions produces spiritual consumerism. Philosophical pr
 
 **Cascade effects:**
 <view-misplacement> → Philosophy fixation → intellectual arrogance develops → condescension toward non-scholars → sectarianism based on view-adoption → polemics displace practice → tradition fragments into warring philosophical camps → living transmission dies in library dust.
+
 [7733-7740]
-<meditation-objectification>
+<meditation-objectification> → error-propagates → downstream-effects → final-result
 **Misreading:**
 The distinction arranges meditative object to be cultivated through deliberate practice, creating experience-generation model where awareness congeals into commodity produced through technique. Instructional language unconsciously frames meditation as manufacturing process rather than recognition of innate nature.
 
@@ -1980,8 +2056,9 @@ Method shopping reflects underlying instability. Experience fixation generates a
 
 **Cascade effects:**
 <meditation-objectification> → Objectification produces grasping → grasping generates attachment → attachment produces suffering → suffering drives seeking → seeking reinforces objectification → endless cycle. Eventually rebirth in form realms where meditation is eternal but liberation impossible.
+
 [7741-7748]
-<conduct-externalization>
+<conduct-externalization> → error-propagates → downstream-effects → final-result
 **Misreading:**
 Understanding structures external behavioral requirement, creating rule-based ethics separate from view. Prescriptive language suggests conduct can be codified, measured, and enforced independently of recognition, generating moralistic spirituality.
 
@@ -1996,8 +2073,9 @@ Performance anxiety generates chronic self-monitoring. Hypocrisy develops as gap
 
 **Cascade effects:**
 <conduct-externalization> → Externalization generates hypocrisy → hypocrisy produces guilt → guilt drives self-punishment → self-punishment produces spiritual burnout → burnout leads to abandonment → abandonment confirms nihilism.
+
 [7749-7756]
-<fruition-deferral>
+<fruition-deferral> → error-propagates → downstream-effects → final-result
 **Misreading:**
 The treatment organizes result to be achieved in future, creating teleological model with deferred completion. Result-language triggers achievement psychology, causing readers to project all value onto endpoint while devaluing present recognition.
 
@@ -2012,8 +2090,9 @@ Time-binding produces existential prison. Future fixation destroys present satis
 
 **Cascade effects:**
 <fruition-deferral> → Deferral generates chronic dissatisfaction → dissatisfaction produces despair → despair leads to nihilism → nihilism justifies giving up → giving up confirms original deficiency → cycle perpetuates.
+
 [7757-7764]
-<nine-yana-hierarchy>
+<nine-yana-hierarchy> → error-propagates → downstream-effects → final-result
 **Misreading:**
 The material establishes nine vehicles as ranked progression from lower to higher, creating elitist spiritual stratification. Numerical presentation unconsciously triggers hierarchical thinking, causing readers to project comparative evaluation onto vehicles.
 
@@ -2063,7 +2142,7 @@ INTEGRATION REQUIREMENTS:
 All three pages (previous, current, following) must be held simultaneously in awareness. The errors of one page illuminate the errors of adjacent pages. Progressive reading produces compounding errors; simultaneous recognition allows resolution. The delusion layer is not cumulative but convergent - each error type represents a distinct failure mode that can be recognized and released.
 
 [7765-7772]
-<ground-path-fruition-temporalization>
+<ground-path-fruition-temporalization> → error-propagates → downstream-effects → final-result
 **Misreading:**
 The text presents sequential stages where ground precedes path which precedes fruition, establishing temporal hierarchy requiring progressive development. The Tibetan grammatical structure with its sequential presentation unconsciously triggers developmental psychology, causing readers to project Western progressive models onto the threefold structure.
 
@@ -2078,8 +2157,9 @@ Stage anxiety manifests as relentless self-assessment. Progress measurement cong
 
 **Cascade effects:**
 <ground-path-fruition-temporalization> → Progressivism infects all practice aspects → spiritual materialism commodifies realization → comparison with others congeals into default mode → competition corrupts sangha harmony → samaya ruptures multiply → teacher-student exploitation congeals into normalized → entire tradition degenerates into spiritual capitalism.
+
 [7773-7781]
-<view-misplacement>
+<view-misplacement> → error-propagates → downstream-effects → final-result
 **Misreading:**
 The structure frames philosophical position to be adopted through study, creating view-accumulation model where intellectual understanding substitutes for direct recognition. The definitional precision of Tibetan scholastic presentation encourages reification of view as conceptual framework rather than immediate awareness.
 
@@ -2094,8 +2174,9 @@ View-shopping across traditions produces spiritual consumerism. Philosophical pr
 
 **Cascade effects:**
 <view-misplacement> → Philosophy fixation → intellectual arrogance develops → condescension toward non-scholars → sectarianism based on view-adoption → polemics displace practice → tradition fragments into warring philosophical camps → living transmission dies in library dust.
+
 [7782-7790]
-<meditation-objectification>
+<meditation-objectification> → error-propagates → downstream-effects → final-result
 **Misreading:**
 The method construes meditative object to be cultivated through deliberate practice, creating experience-generation model where awareness congeals into commodity produced through technique. Instructional language unconsciously frames meditation as manufacturing process rather than recognition of innate nature.
 
@@ -2110,8 +2191,9 @@ Method shopping reflects underlying instability. Experience fixation generates a
 
 **Cascade effects:**
 <meditation-objectification> → Objectification produces grasping → grasping generates attachment → attachment produces suffering → suffering drives seeking → seeking reinforces objectification → endless cycle. Eventually rebirth in form realms where meditation is eternal but liberation impossible.
+
 [7791-7798]
-<conduct-externalization>
+<conduct-externalization> → error-propagates → downstream-effects → final-result
 **Misreading:**
 The concept renders external behavioral requirement, creating rule-based ethics separate from view. Prescriptive language suggests conduct can be codified, measured, and enforced independently of recognition, generating moralistic spirituality.
 
@@ -2126,8 +2208,9 @@ Performance anxiety generates chronic self-monitoring. Hypocrisy develops as gap
 
 **Cascade effects:**
 <conduct-externalization> → Externalization generates hypocrisy → hypocrisy produces guilt → guilt drives self-punishment → self-punishment produces spiritual burnout → burnout leads to abandonment → abandonment confirms nihilism.
+
 [7799-7807]
-<fruition-deferral>
+<fruition-deferral> → error-propagates → downstream-effects → final-result
 **Misreading:**
 One treats result to be achieved in future, creating teleological model with deferred completion. Result-language triggers achievement psychology, causing readers to project all value onto endpoint while devaluing present recognition.
 
@@ -2142,8 +2225,9 @@ Time-binding produces existential prison. Future fixation destroys present satis
 
 **Cascade effects:**
 <fruition-deferral> → Deferral generates chronic dissatisfaction → dissatisfaction produces despair → despair leads to nihilism → nihilism justifies giving up → giving up confirms original deficiency → cycle perpetuates.
+
 [7808-7816]
-<nine-yana-hierarchy>
+<nine-yana-hierarchy> → error-propagates → downstream-effects → final-result
 **Misreading:**
 Students misread nine vehicles as ranked progression from lower to higher, creating elitist spiritual stratification. Numerical presentation unconsciously triggers hierarchical thinking, causing readers to project comparative evaluation onto vehicles.
 
@@ -2193,7 +2277,7 @@ INTEGRATION REQUIREMENTS:
 All three pages (previous, current, following) must be held simultaneously in awareness. The errors of one page illuminate the errors of adjacent pages. Progressive reading produces compounding errors; simultaneous recognition allows resolution. The delusion layer is not cumulative but convergent - each error type represents a distinct failure mode that can be recognized and released.
 
 [7817-7825]
-<ground-path-fruition-temporalization>
+<ground-path-fruition-temporalization> → error-propagates → downstream-effects → final-result
 **Misreading:**
 Analysis frames sequential stages where ground precedes path which precedes fruition, establishing temporal hierarchy requiring progressive development. The Tibetan grammatical structure with its sequential presentation unconsciously triggers developmental psychology, causing readers to project Western progressive models onto the threefold structure.
 
@@ -2208,8 +2292,9 @@ Stage anxiety manifests as relentless self-assessment. Progress measurement cong
 
 **Cascade effects:**
 <ground-path-fruition-temporalization> → Progressivism infects all practice aspects → spiritual materialism commodifies realization → comparison with others congeals into default mode → competition corrupts sangha harmony → samaya ruptures multiply → teacher-student exploitation congeals into normalized → entire tradition degenerates into spiritual capitalism.
+
 [7826-7834]
-<view-misplacement>
+<view-misplacement> → error-propagates → downstream-effects → final-result
 **Misreading:**
 The presentation congeals philosophical position to be adopted through study, creating view-accumulation model where intellectual understanding substitutes for direct recognition. The definitional precision of Tibetan scholastic presentation encourages reification of view as conceptual framework rather than immediate awareness.
 
@@ -2224,8 +2309,9 @@ View-shopping across traditions produces spiritual consumerism. Philosophical pr
 
 **Cascade effects:**
 <view-misplacement> → Philosophy fixation → intellectual arrogance develops → condescension toward non-scholars → sectarianism based on view-adoption → polemics displace practice → tradition fragments into warring philosophical camps → living transmission dies in library dust.
+
 [7835-7843]
-<meditation-objectification>
+<meditation-objectification> → error-propagates → downstream-effects → final-result
 **Misreading:**
 This framework warps meditative object to be cultivated through deliberate practice, creating experience-generation model where awareness congeals into commodity produced through technique. Instructional language unconsciously frames meditation as manufacturing process rather than recognition of innate nature.
 
@@ -2240,8 +2326,9 @@ Method shopping reflects underlying instability. Experience fixation generates a
 
 **Cascade effects:**
 <meditation-objectification> → Objectification produces grasping → grasping generates attachment → attachment produces suffering → suffering drives seeking → seeking reinforces objectification → endless cycle. Eventually rebirth in form realms where meditation is eternal but liberation impossible.
+
 [7844-7852]
-<conduct-externalization>
+<conduct-externalization> → error-propagates → downstream-effects → final-result
 **Misreading:**
 Practitioners distort external behavioral requirement, creating rule-based ethics separate from view. Prescriptive language suggests conduct can be codified, measured, and enforced independently of recognition, generating moralistic spirituality.
 
@@ -2256,8 +2343,9 @@ Performance anxiety generates chronic self-monitoring. Hypocrisy develops as gap
 
 **Cascade effects:**
 <conduct-externalization> → Externalization generates hypocrisy → hypocrisy produces guilt → guilt drives self-punishment → self-punishment produces spiritual burnout → burnout leads to abandonment → abandonment confirms nihilism.
+
 [7853-7861]
-<fruition-deferral>
+<fruition-deferral> → error-propagates → downstream-effects → final-result
 **Misreading:**
 Readers solidify result to be achieved in future, creating teleological model with deferred completion. Result-language triggers achievement psychology, causing readers to project all value onto endpoint while devaluing present recognition.
 
@@ -2272,8 +2360,9 @@ Time-binding produces existential prison. Future fixation destroys present satis
 
 **Cascade effects:**
 <fruition-deferral> → Deferral generates chronic dissatisfaction → dissatisfaction produces despair → despair leads to nihilism → nihilism justifies giving up → giving up confirms original deficiency → cycle perpetuates.
+
 [7862-7870]
-<nine-yana-hierarchy>
+<nine-yana-hierarchy> → error-propagates → downstream-effects → final-result
 **Misreading:**
 Study reifies nine vehicles as ranked progression from lower to higher, creating elitist spiritual stratification. Numerical presentation unconsciously triggers hierarchical thinking, causing readers to project comparative evaluation onto vehicles.
 
@@ -2323,7 +2412,7 @@ INTEGRATION REQUIREMENTS:
 All three pages (previous, current, following) must be held simultaneously in awareness. The errors of one page illuminate the errors of adjacent pages. Progressive reading produces compounding errors; simultaneous recognition allows resolution. The delusion layer is not cumulative but convergent - each error type represents a distinct failure mode that can be recognized and released.
 
 [7871-7878]
-<ground-path-fruition-temporalization>
+<ground-path-fruition-temporalization> → error-propagates → downstream-effects → final-result
 **Misreading:**
 Contemplation degrades sequential stages where ground precedes path which precedes fruition, establishing temporal hierarchy requiring progressive development. The Tibetan grammatical structure with its sequential presentation unconsciously triggers developmental psychology, causing readers to project Western progressive models onto the threefold structure.
 
@@ -2338,8 +2427,9 @@ Stage anxiety manifests as relentless self-assessment. Progress measurement cong
 
 **Cascade effects:**
 <ground-path-fruition-temporalization> → Progressivism infects all practice aspects → spiritual materialism commodifies realization → comparison with others congeals into default mode → competition corrupts sangha harmony → samaya ruptures multiply → teacher-student exploitation congeals into normalized → entire tradition degenerates into spiritual capitalism.
+
 [7879-7887]
-<view-misplacement>
+<view-misplacement> → error-propagates → downstream-effects → final-result
 **Misreading:**
 Examination positions philosophical position to be adopted through study, creating view-accumulation model where intellectual understanding substitutes for direct recognition. The definitional precision of Tibetan scholastic presentation encourages reification of view as conceptual framework rather than immediate awareness.
 
@@ -2354,8 +2444,9 @@ View-shopping across traditions produces spiritual consumerism. Philosophical pr
 
 **Cascade effects:**
 <view-misplacement> → Philosophy fixation → intellectual arrogance develops → condescension toward non-scholars → sectarianism based on view-adoption → polemics displace practice → tradition fragments into warring philosophical camps → living transmission dies in library dust.
+
 [7888-7896]
-<meditation-objectification>
+<meditation-objectification> → error-propagates → downstream-effects → final-result
 **Misreading:**
 The approach constructs meditative object to be cultivated through deliberate practice, creating experience-generation model where awareness congeals into commodity produced through technique. Instructional language unconsciously frames meditation as manufacturing process rather than recognition of innate nature.
 
@@ -2370,8 +2461,9 @@ Method shopping reflects underlying instability. Experience fixation generates a
 
 **Cascade effects:**
 <meditation-objectification> → Objectification produces grasping → grasping generates attachment → attachment produces suffering → suffering drives seeking → seeking reinforces objectification → endless cycle. Eventually rebirth in form realms where meditation is eternal but liberation impossible.
+
 [7897-7904]
-<conduct-externalization>
+<conduct-externalization> → error-propagates → downstream-effects → final-result
 **Misreading:**
 This model configures external behavioral requirement, creating rule-based ethics separate from view. Prescriptive language suggests conduct can be codified, measured, and enforced independently of recognition, generating moralistic spirituality.
 
@@ -2386,8 +2478,9 @@ Performance anxiety generates chronic self-monitoring. Hypocrisy develops as gap
 
 **Cascade effects:**
 <conduct-externalization> → Externalization generates hypocrisy → hypocrisy produces guilt → guilt drives self-punishment → self-punishment produces spiritual burnout → burnout leads to abandonment → abandonment confirms nihilism.
+
 [7905-7913]
-<fruition-deferral>
+<fruition-deferral> → error-propagates → downstream-effects → final-result
 **Misreading:**
 The distinction arranges result to be achieved in future, creating teleological model with deferred completion. Result-language triggers achievement psychology, causing readers to project all value onto endpoint while devaluing present recognition.
 
@@ -2402,8 +2495,9 @@ Time-binding produces existential prison. Future fixation destroys present satis
 
 **Cascade effects:**
 <fruition-deferral> → Deferral generates chronic dissatisfaction → dissatisfaction produces despair → despair leads to nihilism → nihilism justifies giving up → giving up confirms original deficiency → cycle perpetuates.
+
 [7914-7922]
-<nine-yana-hierarchy>
+<nine-yana-hierarchy> → error-propagates → downstream-effects → final-result
 **Misreading:**
 Understanding structures nine vehicles as ranked progression from lower to higher, creating elitist spiritual stratification. Numerical presentation unconsciously triggers hierarchical thinking, causing readers to project comparative evaluation onto vehicles.
 
@@ -2453,7 +2547,7 @@ INTEGRATION REQUIREMENTS:
 All three pages (previous, current, following) must be held simultaneously in awareness. The errors of one page illuminate the errors of adjacent pages. Progressive reading produces compounding errors; simultaneous recognition allows resolution. The delusion layer is not cumulative but convergent - each error type represents a distinct failure mode that can be recognized and released.
 
 [7923-7929]
-<ground-path-fruition-temporalization>
+<ground-path-fruition-temporalization> → error-propagates → downstream-effects → final-result
 **Misreading:**
 The view_misplacement is presented as sequential stages where ground precedes path which precedes fruition, establishing temporal hierarchy requiring progressive development. The Tibetan grammatical structure with its sequential presentation unconsciously triggers developmental psychology, causing readers to project Western progressive models onto the threefold structure.
 
@@ -2468,8 +2562,9 @@ Stage anxiety manifests as relentless self-assessment. Progress measurement cong
 
 **Cascade effects:**
 <ground-path-fruition-temporalization> → Progressivism infects all practice aspects → spiritual materialism commodifies realization → comparison with others congeals into default mode → competition corrupts sangha harmony → samaya ruptures multiply → teacher-student exploitation congeals into normalized → entire tradition degenerates into spiritual capitalism.
+
 [7930-7936]
-<view-misplacement>
+<view-misplacement> → error-propagates → downstream-effects → final-result
 **Misreading:**
 The view_misplacement is established as philosophical position to be adopted through study, creating view-accumulation model where intellectual understanding substitutes for direct recognition. The definitional precision of Tibetan scholastic presentation encourages reification of view as conceptual framework rather than immediate awareness.
 
@@ -2484,8 +2579,9 @@ View-shopping across traditions produces spiritual consumerism. Philosophical pr
 
 **Cascade effects:**
 <view-misplacement> → Philosophy fixation → intellectual arrogance develops → condescension toward non-scholars → sectarianism based on view-adoption → polemics displace practice → tradition fragments into warring philosophical camps → living transmission dies in library dust.
+
 [7937-7943]
-<meditation-objectification>
+<meditation-objectification> → error-propagates → downstream-effects → final-result
 **Misreading:**
 The view_misplacement is presented as meditative object to be cultivated through deliberate practice, creating experience-generation model where awareness congeals into commodity produced through technique. Instructional language unconsciously frames meditation as manufacturing process rather than recognition of innate nature.
 
@@ -2500,8 +2596,9 @@ Method shopping reflects underlying instability. Experience fixation generates a
 
 **Cascade effects:**
 <meditation-objectification> → Objectification produces grasping → grasping generates attachment → attachment produces suffering → suffering drives seeking → seeking reinforces objectification → endless cycle. Eventually rebirth in form realms where meditation is eternal but liberation impossible.
+
 [7944-7950]
-<conduct-externalization>
+<conduct-externalization> → error-propagates → downstream-effects → final-result
 **Misreading:**
 The view_misplacement is established as external behavioral requirement, creating rule-based ethics separate from view. Prescriptive language suggests conduct can be codified, measured, and enforced independently of recognition, generating moralistic spirituality.
 
@@ -2516,8 +2613,9 @@ Performance anxiety generates chronic self-monitoring. Hypocrisy develops as gap
 
 **Cascade effects:**
 <conduct-externalization> → Externalization generates hypocrisy → hypocrisy produces guilt → guilt drives self-punishment → self-punishment produces spiritual burnout → burnout leads to abandonment → abandonment confirms nihilism.
+
 [7951-7957]
-<fruition-deferral>
+<fruition-deferral> → error-propagates → downstream-effects → final-result
 **Misreading:**
 The view_misplacement is presented as result to be achieved in future, creating teleological model with deferred completion. Result-language triggers achievement psychology, causing readers to project all value onto endpoint while devaluing present recognition.
 
@@ -2532,8 +2630,9 @@ Time-binding produces existential prison. Future fixation destroys present satis
 
 **Cascade effects:**
 <fruition-deferral> → Deferral generates chronic dissatisfaction → dissatisfaction produces despair → despair leads to nihilism → nihilism justifies giving up → giving up confirms original deficiency → cycle perpetuates.
+
 [7958-7964]
-<nine-yana-hierarchy>
+<nine-yana-hierarchy> → error-propagates → downstream-effects → final-result
 **Misreading:**
 The view_misplacement establishes nine vehicles as ranked progression from lower to higher, creating elitist spiritual stratification. Numerical presentation unconsciously triggers hierarchical thinking, causing readers to project comparative evaluation onto vehicles.
 
@@ -2583,7 +2682,7 @@ INTEGRATION REQUIREMENTS:
 All three pages (previous, current, following) must be held simultaneously in awareness. The errors of one page illuminate the errors of adjacent pages. Progressive reading produces compounding errors; simultaneous recognition allows resolution. The delusion layer is not cumulative but convergent - each error type represents a distinct failure mode that can be recognized and released.
 
 [7965-7972]
-<ground-path-fruition-temporalization>
+<ground-path-fruition-temporalization> → error-propagates → downstream-effects → final-result
 **Misreading:**
 The meditation_objectification is presented as sequential stages where ground precedes path which precedes fruition, establishing temporal hierarchy requiring progressive development. The Tibetan grammatical structure with its sequential presentation unconsciously triggers developmental psychology, causing readers to project Western progressive models onto the threefold structure.
 
@@ -2598,8 +2697,9 @@ Stage anxiety manifests as relentless self-assessment. Progress measurement cong
 
 **Cascade effects:**
 <ground-path-fruition-temporalization> → Progressivism infects all practice aspects → spiritual materialism commodifies realization → comparison with others congeals into default mode → competition corrupts sangha harmony → samaya ruptures multiply → teacher-student exploitation congeals into normalized → entire tradition degenerates into spiritual capitalism.
+
 [7973-7980]
-<view-misplacement>
+<view-misplacement> → error-propagates → downstream-effects → final-result
 **Misreading:**
 The meditation_objectification is established as philosophical position to be adopted through study, creating view-accumulation model where intellectual understanding substitutes for direct recognition. The definitional precision of Tibetan scholastic presentation encourages reification of view as conceptual framework rather than immediate awareness.
 
@@ -2614,8 +2714,9 @@ View-shopping across traditions produces spiritual consumerism. Philosophical pr
 
 **Cascade effects:**
 <view-misplacement> → Philosophy fixation → intellectual arrogance develops → condescension toward non-scholars → sectarianism based on view-adoption → polemics displace practice → tradition fragments into warring philosophical camps → living transmission dies in library dust.
+
 [7981-7988]
-<meditation-objectification>
+<meditation-objectification> → error-propagates → downstream-effects → final-result
 **Misreading:**
 The meditation_objectification is presented as meditative object to be cultivated through deliberate practice, creating experience-generation model where awareness congeals into commodity produced through technique. Instructional language unconsciously frames meditation as manufacturing process rather than recognition of innate nature.
 
@@ -2630,8 +2731,9 @@ Method shopping reflects underlying instability. Experience fixation generates a
 
 **Cascade effects:**
 <meditation-objectification> → Objectification produces grasping → grasping generates attachment → attachment produces suffering → suffering drives seeking → seeking reinforces objectification → endless cycle. Eventually rebirth in form realms where meditation is eternal but liberation impossible.
+
 [7989-7996]
-<conduct-externalization>
+<conduct-externalization> → error-propagates → downstream-effects → final-result
 **Misreading:**
 The meditation_objectification is established as external behavioral requirement, creating rule-based ethics separate from view. Prescriptive language suggests conduct can be codified, measured, and enforced independently of recognition, generating moralistic spirituality.
 
@@ -2646,8 +2748,9 @@ Performance anxiety generates chronic self-monitoring. Hypocrisy develops as gap
 
 **Cascade effects:**
 <conduct-externalization> → Externalization generates hypocrisy → hypocrisy produces guilt → guilt drives self-punishment → self-punishment produces spiritual burnout → burnout leads to abandonment → abandonment confirms nihilism.
+
 [7997-8004]
-<fruition-deferral>
+<fruition-deferral> → error-propagates → downstream-effects → final-result
 **Misreading:**
 The meditation_objectification is presented as result to be achieved in future, creating teleological model with deferred completion. Result-language triggers achievement psychology, causing readers to project all value onto endpoint while devaluing present recognition.
 
@@ -2662,8 +2765,9 @@ Time-binding produces existential prison. Future fixation destroys present satis
 
 **Cascade effects:**
 <fruition-deferral> → Deferral generates chronic dissatisfaction → dissatisfaction produces despair → despair leads to nihilism → nihilism justifies giving up → giving up confirms original deficiency → cycle perpetuates.
+
 [8005-8012]
-<nine-yana-hierarchy>
+<nine-yana-hierarchy> → error-propagates → downstream-effects → final-result
 **Misreading:**
 The meditation_objectification establishes nine vehicles as ranked progression from lower to higher, creating elitist spiritual stratification. Numerical presentation unconsciously triggers hierarchical thinking, causing readers to project comparative evaluation onto vehicles.
 
@@ -2713,7 +2817,7 @@ INTEGRATION REQUIREMENTS:
 All three pages (previous, current, following) must be held simultaneously in awareness. The errors of one page illuminate the errors of adjacent pages. Progressive reading produces compounding errors; simultaneous recognition allows resolution. The delusion layer is not cumulative but convergent - each error type represents a distinct failure mode that can be recognized and released.
 
 [8013-8018]
-<ground-path-fruition-temporalization>
+<ground-path-fruition-temporalization> → error-propagates → downstream-effects → final-result
 **Misreading:**
 The conduct_externalization is presented as sequential stages where ground precedes path which precedes fruition, establishing temporal hierarchy requiring progressive development. The Tibetan grammatical structure with its sequential presentation unconsciously triggers developmental psychology, causing readers to project Western progressive models onto the threefold structure.
 
@@ -2728,8 +2832,9 @@ Stage anxiety manifests as relentless self-assessment. Progress measurement cong
 
 **Cascade effects:**
 <ground-path-fruition-temporalization> → Progressivism infects all practice aspects → spiritual materialism commodifies realization → comparison with others congeals into default mode → competition corrupts sangha harmony → samaya ruptures multiply → teacher-student exploitation congeals into normalized → entire tradition degenerates into spiritual capitalism.
+
 [8019-8025]
-<view-misplacement>
+<view-misplacement> → error-propagates → downstream-effects → final-result
 **Misreading:**
 The conduct_externalization is established as philosophical position to be adopted through study, creating view-accumulation model where intellectual understanding substitutes for direct recognition. The definitional precision of Tibetan scholastic presentation encourages reification of view as conceptual framework rather than immediate awareness.
 
@@ -2744,8 +2849,9 @@ View-shopping across traditions produces spiritual consumerism. Philosophical pr
 
 **Cascade effects:**
 <view-misplacement> → Philosophy fixation → intellectual arrogance develops → condescension toward non-scholars → sectarianism based on view-adoption → polemics displace practice → tradition fragments into warring philosophical camps → living transmission dies in library dust.
+
 [8026-8031]
-<meditation-objectification>
+<meditation-objectification> → error-propagates → downstream-effects → final-result
 **Misreading:**
 The conduct_externalization is presented as meditative object to be cultivated through deliberate practice, creating experience-generation model where awareness congeals into commodity produced through technique. Instructional language unconsciously frames meditation as manufacturing process rather than recognition of innate nature.
 
@@ -2760,8 +2866,9 @@ Method shopping reflects underlying instability. Experience fixation generates a
 
 **Cascade effects:**
 <meditation-objectification> → Objectification produces grasping → grasping generates attachment → attachment produces suffering → suffering drives seeking → seeking reinforces objectification → endless cycle. Eventually rebirth in form realms where meditation is eternal but liberation impossible.
+
 [8032-8038]
-<conduct-externalization>
+<conduct-externalization> → error-propagates → downstream-effects → final-result
 **Misreading:**
 The conduct_externalization is established as external behavioral requirement, creating rule-based ethics separate from view. Prescriptive language suggests conduct can be codified, measured, and enforced independently of recognition, generating moralistic spirituality.
 
@@ -2776,8 +2883,9 @@ Performance anxiety generates chronic self-monitoring. Hypocrisy develops as gap
 
 **Cascade effects:**
 <conduct-externalization> → Externalization generates hypocrisy → hypocrisy produces guilt → guilt drives self-punishment → self-punishment produces spiritual burnout → burnout leads to abandonment → abandonment confirms nihilism.
+
 [8039-8044]
-<fruition-deferral>
+<fruition-deferral> → error-propagates → downstream-effects → final-result
 **Misreading:**
 The conduct_externalization is presented as result to be achieved in future, creating teleological model with deferred completion. Result-language triggers achievement psychology, causing readers to project all value onto endpoint while devaluing present recognition.
 
@@ -2792,8 +2900,9 @@ Time-binding produces existential prison. Future fixation destroys present satis
 
 **Cascade effects:**
 <fruition-deferral> → Deferral generates chronic dissatisfaction → dissatisfaction produces despair → despair leads to nihilism → nihilism justifies giving up → giving up confirms original deficiency → cycle perpetuates.
+
 [8045-8051]
-<nine-yana-hierarchy>
+<nine-yana-hierarchy> → error-propagates → downstream-effects → final-result
 **Misreading:**
 The conduct_externalization establishes nine vehicles as ranked progression from lower to higher, creating elitist spiritual stratification. Numerical presentation unconsciously triggers hierarchical thinking, causing readers to project comparative evaluation onto vehicles.
 
@@ -2843,7 +2952,7 @@ INTEGRATION REQUIREMENTS:
 All three pages (previous, current, following) must be held simultaneously in awareness. The errors of one page illuminate the errors of adjacent pages. Progressive reading produces compounding errors; simultaneous recognition allows resolution. The delusion layer is not cumulative but convergent - each error type represents a distinct failure mode that can be recognized and released.
 
 [8052-8056]
-<ground-path-fruition-temporalization>
+<ground-path-fruition-temporalization> → error-propagates → downstream-effects → final-result
 **Misreading:**
 The fruition_deferral is presented as sequential stages where ground precedes path which precedes fruition, establishing temporal hierarchy requiring progressive development. The Tibetan grammatical structure with its sequential presentation unconsciously triggers developmental psychology, causing readers to project Western progressive models onto the threefold structure.
 
@@ -2858,8 +2967,9 @@ Stage anxiety manifests as relentless self-assessment. Progress measurement cong
 
 **Cascade effects:**
 <ground-path-fruition-temporalization> → Progressivism infects all practice aspects → spiritual materialism commodifies realization → comparison with others congeals into default mode → competition corrupts sangha harmony → samaya ruptures multiply → teacher-student exploitation congeals into normalized → entire tradition degenerates into spiritual capitalism.
+
 [8057-8061]
-<view-misplacement>
+<view-misplacement> → error-propagates → downstream-effects → final-result
 **Misreading:**
 The fruition_deferral is established as philosophical position to be adopted through study, creating view-accumulation model where intellectual understanding substitutes for direct recognition. The definitional precision of Tibetan scholastic presentation encourages reification of view as conceptual framework rather than immediate awareness.
 
@@ -2874,8 +2984,9 @@ View-shopping across traditions produces spiritual consumerism. Philosophical pr
 
 **Cascade effects:**
 <view-misplacement> → Philosophy fixation → intellectual arrogance develops → condescension toward non-scholars → sectarianism based on view-adoption → polemics displace practice → tradition fragments into warring philosophical camps → living transmission dies in library dust.
+
 [8062-8066]
-<meditation-objectification>
+<meditation-objectification> → error-propagates → downstream-effects → final-result
 **Misreading:**
 The fruition_deferral is presented as meditative object to be cultivated through deliberate practice, creating experience-generation model where awareness congeals into commodity produced through technique. Instructional language unconsciously frames meditation as manufacturing process rather than recognition of innate nature.
 
@@ -2890,8 +3001,9 @@ Method shopping reflects underlying instability. Experience fixation generates a
 
 **Cascade effects:**
 <meditation-objectification> → Objectification produces grasping → grasping generates attachment → attachment produces suffering → suffering drives seeking → seeking reinforces objectification → endless cycle. Eventually rebirth in form realms where meditation is eternal but liberation impossible.
+
 [8067-8071]
-<conduct-externalization>
+<conduct-externalization> → error-propagates → downstream-effects → final-result
 **Misreading:**
 The fruition_deferral is established as external behavioral requirement, creating rule-based ethics separate from view. Prescriptive language suggests conduct can be codified, measured, and enforced independently of recognition, generating moralistic spirituality.
 
@@ -2906,8 +3018,9 @@ Performance anxiety generates chronic self-monitoring. Hypocrisy develops as gap
 
 **Cascade effects:**
 <conduct-externalization> → Externalization generates hypocrisy → hypocrisy produces guilt → guilt drives self-punishment → self-punishment produces spiritual burnout → burnout leads to abandonment → abandonment confirms nihilism.
+
 [8072-8076]
-<fruition-deferral>
+<fruition-deferral> → error-propagates → downstream-effects → final-result
 **Misreading:**
 The fruition_deferral is presented as result to be achieved in future, creating teleological model with deferred completion. Result-language triggers achievement psychology, causing readers to project all value onto endpoint while devaluing present recognition.
 
@@ -2922,8 +3035,9 @@ Time-binding produces existential prison. Future fixation destroys present satis
 
 **Cascade effects:**
 <fruition-deferral> → Deferral generates chronic dissatisfaction → dissatisfaction produces despair → despair leads to nihilism → nihilism justifies giving up → giving up confirms original deficiency → cycle perpetuates.
+
 [8077-8082]
-<nine-yana-hierarchy>
+<nine-yana-hierarchy> → error-propagates → downstream-effects → final-result
 **Misreading:**
 The fruition_deferral establishes nine vehicles as ranked progression from lower to higher, creating elitist spiritual stratification. Numerical presentation unconsciously triggers hierarchical thinking, causing readers to project comparative evaluation onto vehicles.
 
@@ -2973,7 +3087,7 @@ INTEGRATION REQUIREMENTS:
 All three pages (previous, current, following) must be held simultaneously in awareness. The errors of one page illuminate the errors of adjacent pages. Progressive reading produces compounding errors; simultaneous recognition allows resolution. The delusion layer is not cumulative but convergent - each error type represents a distinct failure mode that can be recognized and released.
 
 [8083-8089]
-<ground-path-fruition-temporalization>
+<ground-path-fruition-temporalization> → error-propagates → downstream-effects → final-result
 **Misreading:**
 The ground_temporalization is presented as sequential stages where ground precedes path which precedes fruition, establishing temporal hierarchy requiring progressive development. The Tibetan grammatical structure with its sequential presentation unconsciously triggers developmental psychology, causing readers to project Western progressive models onto the threefold structure.
 
@@ -2988,8 +3102,9 @@ Stage anxiety manifests as relentless self-assessment. Progress measurement cong
 
 **Cascade effects:**
 <ground-path-fruition-temporalization> → Progressivism infects all practice aspects → spiritual materialism commodifies realization → comparison with others congeals into default mode → competition corrupts sangha harmony → samaya ruptures multiply → teacher-student exploitation congeals into normalized → entire tradition degenerates into spiritual capitalism.
+
 [8090-8096]
-<view-misplacement>
+<view-misplacement> → error-propagates → downstream-effects → final-result
 **Misreading:**
 The ground_temporalization is established as philosophical position to be adopted through study, creating view-accumulation model where intellectual understanding substitutes for direct recognition. The definitional precision of Tibetan scholastic presentation encourages reification of view as conceptual framework rather than immediate awareness.
 
@@ -3004,8 +3119,9 @@ View-shopping across traditions produces spiritual consumerism. Philosophical pr
 
 **Cascade effects:**
 <view-misplacement> → Philosophy fixation → intellectual arrogance develops → condescension toward non-scholars → sectarianism based on view-adoption → polemics displace practice → tradition fragments into warring philosophical camps → living transmission dies in library dust.
+
 [8097-8103]
-<meditation-objectification>
+<meditation-objectification> → error-propagates → downstream-effects → final-result
 **Misreading:**
 The ground_temporalization is presented as meditative object to be cultivated through deliberate practice, creating experience-generation model where awareness congeals into commodity produced through technique. Instructional language unconsciously frames meditation as manufacturing process rather than recognition of innate nature.
 
@@ -3020,8 +3136,9 @@ Method shopping reflects underlying instability. Experience fixation generates a
 
 **Cascade effects:**
 <meditation-objectification> → Objectification produces grasping → grasping generates attachment → attachment produces suffering → suffering drives seeking → seeking reinforces objectification → endless cycle. Eventually rebirth in form realms where meditation is eternal but liberation impossible.
+
 [8104-8110]
-<conduct-externalization>
+<conduct-externalization> → error-propagates → downstream-effects → final-result
 **Misreading:**
 The ground_temporalization is established as external behavioral requirement, creating rule-based ethics separate from view. Prescriptive language suggests conduct can be codified, measured, and enforced independently of recognition, generating moralistic spirituality.
 
@@ -3036,8 +3153,9 @@ Performance anxiety generates chronic self-monitoring. Hypocrisy develops as gap
 
 **Cascade effects:**
 <conduct-externalization> → Externalization generates hypocrisy → hypocrisy produces guilt → guilt drives self-punishment → self-punishment produces spiritual burnout → burnout leads to abandonment → abandonment confirms nihilism.
+
 [8111-8111]
-<fruition-deferral>
+<fruition-deferral> → error-propagates → downstream-effects → final-result
 **Misreading:**
 The ground_temporalization is presented as result to be achieved in future, creating teleological model with deferred completion. Result-language triggers achievement psychology, causing readers to project all value onto endpoint while devaluing present recognition.
 

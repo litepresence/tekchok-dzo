@@ -28,8 +28,8 @@ Dzogchen's simple recognition is replaced by pursuit of magical abilities. The s
 Practitioner congeals into distracted by magical thinking. The teaching that the path is recognition, not acquisition, is entirely lost.
 
 **Cascade effects:**
-<siddhi-seeking error>
-<acquisition-error>
+<siddhi-seeking error> → error-propagates → downstream-effects → final-result
+<acquisition-error> → error-propagates → downstream-effects → final-result
 
 [13113-13119] <ontological-error> [SYMBOLIC LITERALIZATION ERROR]
 **Misreading:**
@@ -61,8 +61,8 @@ The teaching on dbyings snang (expanse appearance) and thig le (sphere) as two m
 Reader judges the narrative morally rather than recognizing its technical content. The pointing to the two lamps of bar do instruction is lost.
 
 **Cascade effects:**
-<moralistic error>
-<psychologization-error>
+<moralistic error> → error-propagates → downstream-effects → final-result
+<psychologization-error> → error-propagates → downstream-effects → final-result
 
 [13127-13133] [HERMENEUTIC ERROR] <ontological-error>
 **Misreading:**
@@ -78,8 +78,8 @@ The technical teaching about dbang po rtul ba (dull faculties) and fixation on a
 Practitioner develops guilt-based practice rather than understanding cognitive processes. The pointing to habitual fixation patterns is lost.
 
 **Cascade effects:**
-<moralistic error>
-<pedagogical-error>
+<moralistic error> → error-propagates → downstream-effects → final-result
+<pedagogical-error> → premature-bypass → foundation-weakness → recognition-failure
 
 [13134-13140] <ontological-error> <reification-error>
 **Misreading:**
@@ -191,8 +191,8 @@ The teaching that the ground appears for both delusion and liberation is lost. D
 Reader believes they are extracting "deeper meaning" while missing the surface-level technical instruction entirely.
 
 **Cascade effects:**
-<sociological collapse error>
-<ontological-error>
+<sociological collapse error> → error-propagates → downstream-effects → final-result
+<ontological-error> → metaphysical-entity → duality-creation → bondage
 
 [13187-13193] [SYMBOLIC LITERALIZATION ERROR] [MORALISTIC ERROR]
 **Misreading:**
@@ -240,8 +240,8 @@ The teaching that rig pa cannot be harmed by delusion is replaced by belief in m
 Practitioner seeks magical protection rather than recognition. The imperturbable nature of awareness is lost.
 
 **Cascade effects:**
-<miracle-seeking error>
-<reification-error>
+<miracle-seeking error> → error-propagates → downstream-effects → final-result
+<reification-error> → substantialization → entity-creation → grasping-suffering
 
 [13207-13211] <ontological-error> <temporal-error>
 **Misreading:**
@@ -257,8 +257,8 @@ Path and practice become meaningless. "Already enlightened" congeals into excuse
 Practitioner adopts "nothing to do" stance without recognition. The dynamic of recognition is replaced by static eternalism.
 
 **Cascade effects:**
-<eternalistic-error>
-<practice-error>
+<eternalistic-error> → error-propagates → downstream-effects → final-result
+<practice-error> → technique-fixation → recognition-obscuration → method-attachment
 
 [13212-13216] [HERMENEUTIC ERROR] <practice-error>
 **Misreading:**
@@ -290,8 +290,8 @@ The twenty-one pointing-out instructions (ngo sprod nyi shu rtsa gcig) are entir
 Practitioner reads the story without receiving the instructions. The practical guidance for bar do recognition is lost.
 
 **Cascade effects:**
-<narrative absorption error>
-<pedagogical-error>
+<narrative absorption error> → error-propagates → downstream-effects → final-result
+<pedagogical-error> → premature-bypass → foundation-weakness → recognition-failure
 
 [13222-13233] <ontological-error> [VIOLENCE ERROR]
 **Misreading:**
@@ -323,8 +323,8 @@ The teaching on dissolving fixation on external authority is lost. Either guru d
 Practitioner either rejects the teaching or adopts attitude of disrespect toward teachers. The middle way is lost.
 
 **Cascade effects:**
-<authority issue error>
-<practice-error>
+<authority issue error> → error-propagates → downstream-effects → final-result
+<practice-error> → technique-fixation → recognition-obscuration → method-attachment
 
 [13246-13257] <ontological-error> <practice-error>
 **Misreading:**
@@ -356,8 +356,8 @@ The teaching that rig pa recognizes its own nature even within delusion is repla
 Reader either dismisses the teaching or literalizes transgression. The subtle pointing to non-dual recognition is lost.
 
 **Cascade effects:**
-<taboo error>
-<reification-error>
+<taboo error> → error-propagates → downstream-effects → final-result
+<reification-error> → substantialization → entity-creation → grasping-suffering
 
 [13270-13278] <ontological-error> <practice-error>
 **Misreading:**
@@ -389,8 +389,8 @@ The teaching on cutting the stream of conceptual mind (rnam rtog) is replaced by
 Practitioner either rejects teaching as dangerous or literalizes self-harm. The symbolic language of tantra is misunderstood.
 
 **Cascade effects:**
-<suicide misinterpretation error>
-<practice-error>
+<suicide misinterpretation error> → error-propagates → downstream-effects → final-result
+<practice-error> → technique-fixation → recognition-obscuration → method-attachment
 
 [13288-13296] [HERMENEUTIC ERROR] <ontological-error>
 **Misreading:**
@@ -438,8 +438,8 @@ Spontaneous presence (lhun grub) is confused with laziness or inaction. The dyna
 Practitioner does nothing and calls it practice. The precise pointing to recognition is lost in vague "non-doing."
 
 **Cascade effects:**
-<laziness error>
-<practice-error>
+<laziness error> → error-propagates → downstream-effects → final-result
+<practice-error> → technique-fixation → recognition-obscuration → method-attachment
 
 [13312-13318] <epistemic-error> <ontological-error>
 **Misreading:**
@@ -455,8 +455,8 @@ The teaching that recognition liberates is replaced by belief that everything is
 Practitioner remains in ordinary delusion while claiming Dzogchen view. The distinction between delusion and recognition is lost.
 
 **Cascade effects:**
-<self-deception error>
-<practice-error>
+<self-deception error> → error-propagates → downstream-effects → final-result
+<practice-error> → technique-fixation → recognition-obscuration → method-attachment
 
 [13319-13325] [SYMBOLIC LITERALIZATION ERROR] <ontological-error>
 **Misreading:**
@@ -488,8 +488,8 @@ The teaching that awareness transcends yet includes all perception is replaced b
 Practitioner seeks sensory deprivation rather than recognition. The natural clarity of awareness is obscured.
 
 **Cascade effects:**
-<sensory error>
-<practice-error>
+<sensory error> → error-propagates → downstream-effects → final-result
+<practice-error> → technique-fixation → recognition-obscuration → method-attachment
 
 [13333-13340] [HERMENEUTIC ERROR] <epistemic-error>
 **Misreading:**
@@ -537,8 +537,8 @@ The teaching on how rig pa congeals into fixated through ma rig pa is replaced b
 Practitioner studies biology rather than recognizing delusion's structure. The pointing to immediate experience is obscured.
 
 **Cascade effects:**
-<biologization error>
-<ontological-error>
+<biologization error> → error-propagates → downstream-effects → final-result
+<ontological-error> → metaphysical-entity → duality-creation → bondage
 
 [13359-13367] <epistemic-error> <ontological-error>
 **Misreading:**
@@ -570,8 +570,8 @@ The teaching on how conceptual mind develops is replaced by subtle body practice
 Practitioner focuses on manipulating energies rather than direct recognition. Dzogchen simplicity is lost in complexity.
 
 **Cascade effects:**
-<subtle body error>
-<practice-error>
+<subtle body error> → error-propagates → downstream-effects → final-result
+<practice-error> → technique-fixation → recognition-obscuration → method-attachment
 
 [13374-13380] <epistemic-error> <ontological-error>
 **Misreading:**
@@ -603,8 +603,8 @@ The symbolic teaching on recognition's development is replaced by temporal expec
 Practitioner expects automatic development without recognition. The timeless nature of recognition is lost.
 
 **Cascade effects:**
-<temporalization error>
-<practice-error>
+<temporalization error> → error-propagates → downstream-effects → final-result
+<practice-error> → technique-fixation → recognition-obscuration → method-attachment
 
 [13387-13393] <ontological-error> <reification-error>
 **Misreading:**
@@ -636,8 +636,8 @@ The teaching on how attention's direction affects recognition is replaced by fat
 Practitioner believes lifespan is mechanically determined. The transformative power of recognition is obscured.
 
 **Cascade effects:**
-<fatalism error>
-<reification-error>
+<fatalism error> → error-propagates → downstream-effects → final-result
+<reification-error> → substantialization → entity-creation → grasping-suffering
 
 [13402-13410] <ontological-error> <reification-error>
 **Misreading:**
@@ -685,8 +685,8 @@ The symbolic teaching on how the five skandhas develop is literalized as biology
 Reader believes they are learning embryology rather than the nature of delusion's development. The esoteric instruction is missed.
 
 **Cascade effects:**
-<biologization error>
-<temporal-error>
+<biologization error> → error-propagates → downstream-effects → final-result
+<temporal-error> → future-orientation → present-miss → recognition-deferral
 
 [13429-13431] <ontological-error> <reification-error>
 **Misreading:**
@@ -702,5 +702,5 @@ The teaching on how conceptual mind moves is replaced by breath control practice
 Practitioner practices breath control rather than recognizing mind. Dzogchen's direct approach congeals into pranayama.
 
 **Cascade effects:**
-<breath error>
-<practice-error>
+<breath error> → error-propagates → downstream-effects → final-result
+<practice-error> → technique-fixation → recognition-obscuration → method-attachment

@@ -183,7 +183,7 @@ Missing the symbolic meaning in completion stage practice.
 Literalizing the metaphor.
 
 **Cascade effects:**
-<scholarly-collapse-error>
+<scholarly-collapse-error> → error-propagates → downstream-effects → final-result
 
 [13941-13951] <ontological-error> [TASTE FACULTY REIFICATION]
 **Misreading:**
@@ -234,7 +234,7 @@ Missing that numbers indicate completeness and interdependence.
 Quantifying the unquantifiable.
 
 **Cascade effects:**
-<scholarly-collapse-error>
+<scholarly-collapse-error> → error-propagates → downstream-effects → final-result
 
 [13974-13982] <ontological-error> [AFFLICTION QUANTIFICATION]
 **Misreading:**
@@ -336,7 +336,7 @@ Missing symbolic significance of nine (completeness).
 Literalizing what represents completion stage timing.
 
 **Cascade effects:**
-<scholarly-collapse-error>
+<scholarly-collapse-error> → error-propagates → downstream-effects → final-result
 
 [14029-14039] <ontological-error> [SEED SYLLABLE SUBSTANTIALISM]
 **Misreading:**
@@ -744,6 +744,7 @@ Academic or medical study of the text.
 Missing that all descriptions point to self-recognition.
 
 **Cascade effects:**
+
 [14260-14266] <ontological-error> [CHANNEL VITAL POINT SUBSTANTIALISM]
 **Misreading:**
 The channels (rtsa) are actual physical structures that serve as "vital points" (gnad) or mechanical supports for the body.
