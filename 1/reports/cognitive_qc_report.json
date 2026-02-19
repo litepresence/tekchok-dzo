@@ -1,0 +1,317 @@
+{
+  "timestamp": "2026-02-19T12:44:55.430349",
+  "files_checked": 213,
+  "files_with_issues": [
+    {
+      "filename": "01-01-01-01.txt",
+      "issue_count": 1,
+      "issue_types": [
+        "repetitive"
+      ]
+    },
+    {
+      "filename": "01-01-02-01.txt",
+      "issue_count": 8,
+      "issue_types": [
+        "repetitive"
+      ]
+    },
+    {
+      "filename": "01-01-03-01.txt",
+      "issue_count": 2,
+      "issue_types": [
+        "fluff_phrase",
+        "repetitive"
+      ]
+    },
+    {
+      "filename": "01-02-01-02.txt",
+      "issue_count": 2,
+      "issue_types": [
+        "repetitive"
+      ]
+    },
+    {
+      "filename": "01-02-02-01.txt",
+      "issue_count": 1,
+      "issue_types": [
+        "repetitive"
+      ]
+    },
+    {
+      "filename": "01-03-03-01.txt",
+      "issue_count": 1,
+      "issue_types": [
+        "repetitive"
+      ]
+    },
+    {
+      "filename": "01-04-18-01.txt",
+      "issue_count": 1,
+      "issue_types": [
+        "repetitive"
+      ]
+    },
+    {
+      "filename": "01-05-04-01.txt",
+      "issue_count": 18,
+      "issue_types": [
+        "fluff_phrase",
+        "repetitive"
+      ]
+    },
+    {
+      "filename": "01-05-04-02.txt",
+      "issue_count": 1,
+      "issue_types": [
+        "too_short"
+      ]
+    },
+    {
+      "filename": "01-05-04-03.txt",
+      "issue_count": 1,
+      "issue_types": [
+        "too_short"
+      ]
+    },
+    {
+      "filename": "01-05-04-04.txt",
+      "issue_count": 1,
+      "issue_types": [
+        "too_short"
+      ]
+    },
+    {
+      "filename": "01-05-04-06.txt",
+      "issue_count": 1,
+      "issue_types": [
+        "fluff_phrase"
+      ]
+    },
+    {
+      "filename": "01-06-02-01.txt",
+      "issue_count": 2,
+      "issue_types": [
+        "fluff_phrase"
+      ]
+    },
+    {
+      "filename": "01-06-06-01.txt",
+      "issue_count": 1,
+      "issue_types": [
+        "repetitive"
+      ]
+    },
+    {
+      "filename": "01-08-02-01.txt",
+      "issue_count": 1,
+      "issue_types": [
+        "fluff_phrase"
+      ]
+    },
+    {
+      "filename": "01-08-04-01.txt",
+      "issue_count": 1,
+      "issue_types": [
+        "repetitive"
+      ]
+    },
+    {
+      "filename": "01-09-01-01.txt",
+      "issue_count": 5,
+      "issue_types": [
+        "fluff_phrase",
+        "repetitive"
+      ]
+    },
+    {
+      "filename": "01-12-03-01.txt",
+      "issue_count": 3,
+      "issue_types": [
+        "repetitive"
+      ]
+    },
+    {
+      "filename": "01-12-07-01.txt",
+      "issue_count": 2,
+      "issue_types": [
+        "repetitive"
+      ]
+    },
+    {
+      "filename": "01-13-01-01.txt",
+      "issue_count": 1,
+      "issue_types": [
+        "fluff_phrase"
+      ]
+    },
+    {
+      "filename": "01-13-06-01.txt",
+      "issue_count": 1,
+      "issue_types": [
+        "fluff_phrase"
+      ]
+    },
+    {
+      "filename": "01-14-02-01.txt",
+      "issue_count": 3,
+      "issue_types": [
+        "fluff_phrase",
+        "repetitive"
+      ]
+    },
+    {
+      "filename": "01-14-04-01.txt",
+      "issue_count": 2,
+      "issue_types": [
+        "fluff_phrase"
+      ]
+    },
+    {
+      "filename": "01-14-05-01.txt",
+      "issue_count": 4,
+      "issue_types": [
+        "fluff_phrase",
+        "repetitive"
+      ]
+    },
+    {
+      "filename": "01-14-10-01.txt",
+      "issue_count": 1,
+      "issue_types": [
+        "fluff_phrase"
+      ]
+    },
+    {
+      "filename": "02-17-04-01.txt",
+      "issue_count": 1,
+      "issue_types": [
+        "fluff_phrase"
+      ]
+    },
+    {
+      "filename": "02-17-06-01.txt",
+      "issue_count": 1,
+      "issue_types": [
+        "fluff_phrase"
+      ]
+    },
+    {
+      "filename": "02-17-09-01.txt",
+      "issue_count": 4,
+      "issue_types": [
+        "fluff_phrase"
+      ]
+    },
+    {
+      "filename": "02-18-08-01.txt",
+      "issue_count": 1,
+      "issue_types": [
+        "fluff_phrase"
+      ]
+    },
+    {
+      "filename": "02-18-12-01.txt",
+      "issue_count": 1,
+      "issue_types": [
+        "fluff_phrase"
+      ]
+    },
+    {
+      "filename": "02-19-01-01.txt",
+      "issue_count": 4,
+      "issue_types": [
+        "repetitive"
+      ]
+    },
+    {
+      "filename": "02-20-01-01.txt",
+      "issue_count": 2,
+      "issue_types": [
+        "fluff_phrase"
+      ]
+    },
+    {
+      "filename": "02-21-01-01.txt",
+      "issue_count": 4,
+      "issue_types": [
+        "fluff_phrase",
+        "repetitive"
+      ]
+    },
+    {
+      "filename": "02-22-01-01.txt",
+      "issue_count": 3,
+      "issue_types": [
+        "fluff_phrase",
+        "repetitive"
+      ]
+    },
+    {
+      "filename": "02-22-03-02.txt",
+      "issue_count": 1,
+      "issue_types": [
+        "fluff_phrase"
+      ]
+    },
+    {
+      "filename": "02-23-02-01.txt",
+      "issue_count": 1,
+      "issue_types": [
+        "fluff_phrase"
+      ]
+    },
+    {
+      "filename": "02-23-03-02.txt",
+      "issue_count": 2,
+      "issue_types": [
+        "fluff_phrase",
+        "repetitive"
+      ]
+    },
+    {
+      "filename": "02-23-04-01.txt",
+      "issue_count": 1,
+      "issue_types": [
+        "fluff_phrase"
+      ]
+    },
+    {
+      "filename": "02-23-06-01.txt",
+      "issue_count": 1,
+      "issue_types": [
+        "fluff_phrase"
+      ]
+    },
+    {
+      "filename": "02-23-08-04.txt",
+      "issue_count": 1,
+      "issue_types": [
+        "too_short"
+      ]
+    },
+    {
+      "filename": "02-23-09-01.txt",
+      "issue_count": 3,
+      "issue_types": [
+        "fluff_phrase",
+        "repetitive"
+      ]
+    },
+    {
+      "filename": "02-25-07-01.txt",
+      "issue_count": 1,
+      "issue_types": [
+        "fluff_phrase"
+      ]
+    }
+  ],
+  "files_repaired": 38,
+  "bytes_before": 1391071,
+  "bytes_after": 2269079,
+  "issue_summary": {
+    "repetitive": 51,
+    "fluff_phrase": 42,
+    "too_short": 4
+  }
+}

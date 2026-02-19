@@ -1,0 +1,84 @@
+{
+  "total_issues_found": 1903,
+  "files_with_issues": 344,
+  "files_remediated": 90,
+  "bytes_removed": 64255,
+  "sample_issues": {
+    "/home/opencode/MDZOD/1/text/dynamic/commentary/01-02-02-01.txt": [
+      {
+        "line": 32,
+        "category": "spiritual_cliches",
+        "pattern": "already (complete|present|perfect)",
+        "content": "The treasury opens by revealing there was never anything to open\u2014already complete, always was."
+      },
+      {
+        "line": 41,
+        "category": "spiritual_cliches",
+        "pattern": "already (complete|present|perfect)",
+        "content": "The treasury opens by revealing there was never anything to open\u2014already complete, always was."
+      },
+      {
+        "line": 46,
+        "category": "spiritual_cliches",
+        "pattern": "already (complete|present|perfect)",
+        "content": "The apparent complexity resolves in simplicity when recognition dawns\u2014before analysis, already compl"
+      }
+    ],
+    "/home/opencode/MDZOD/1/text/dynamic/commentary/01-04-12-01.txt": [
+      {
+        "line": 2,
+        "category": "spiritual_cliches",
+        "pattern": "never (left|absent|moved)",
+        "content": "The wind moves through the valley without leaving a trace\u2014this is how meaning appears when searched "
+      },
+      {
+        "line": 6,
+        "category": "spiritual_cliches",
+        "pattern": "finger pointing at moon",
+        "content": "The Ratnagotravibh\u0101ga speaks of extremes dissolved, yet dissolution itself dissolves. What remains w"
+      },
+      {
+        "line": 76,
+        "category": "poetic_mystical",
+        "pattern": "play of",
+        "content": "The view that is no view. The path that is no path. The accomplishment that is no accomplishment. Al"
+      }
+    ],
+    "/home/opencode/MDZOD/1/text/dynamic/commentary/01-06-05-04.txt": [
+      {
+        "line": 0,
+        "category": "excessive_range_repetition",
+        "pattern": "[8676-8676]",
+        "content": "Repeated 8 times"
+      }
+    ],
+    "/home/opencode/MDZOD/1/text/dynamic/commentary/01-14-07-02.txt": [
+      {
+        "line": 0,
+        "category": "excessive_range_repetition",
+        "pattern": "[19405-19405]",
+        "content": "Repeated 5 times"
+      }
+    ],
+    "/home/opencode/MDZOD/1/text/dynamic/commentary/02-20-04-01.txt": [
+      {
+        "line": 7,
+        "category": "spiritual_cliches",
+        "pattern": "never (left|absent|moved)",
+        "content": "[8972-9006] The wish-fulfilling jewel of primordial time\u2014this is your awareness. When you lost it, y"
+      },
+      {
+        "line": 9,
+        "category": "spiritual_cliches",
+        "pattern": "never (left|absent|moved)",
+        "content": "[8972-9006] I lost my mother's ring once. Searched for days. Finally found it in my pocket where it "
+      },
+      {
+        "line": 41,
+        "category": "poetic_mystical",
+        "pattern": "hide-and-seek",
+        "content": "What is called delusion here is wisdom's play of hide-and-seek, spontaneously self-liberating."
+      }
+    ]
+  }
+}
