@@ -1,1319 +1,1275 @@
-<delusion-layer type="A++" source="02-25-01-01.txt" ratio-target="0.30x+" created="2026-02-17">
-<!-- COMPLETION STAGE DELUSION ARCHITECTURE: Volume 2 Fruition -->
-<!-- Spontaneous Results: Lhun grub, Od lus, Ja lus, Sku gsum, Ka dag -->
+[15635-15646] <spontaneous-completion-waiting>
 
-<!-- ================================================================ -->
-<!-- BLOCK 001: SPONTANEOUS COMPLETION WAITING -->
-<!-- ================================================================ -->
-<spontaneous-completion-waiting id="scw-001" severity="critical" tibetan-terms="ལྷུན་གྲུབ">
-  <trigger>Waiting for *lhun grub* to happen</trigger>
-  <delusion>
-    The practitioner believes that *lhun grub* (spontaneous completion) is a future event 
-    that will occur when conditions are ripe, not recognizing that *ka dag* (primordial purity) 
-    is already complete. The error lies in temporalizing the timeless—treating spontaneous 
-    completion as something to be achieved rather than recognized.
-  </delusion>
-  <tibetan-source>
-    ཐོག་མའི་ཀ་དག་ལ་རིག་པ་རང་ངོ་ཤེས་ནས་ད་རྒྱུར་མི་ལྡོག་པས་འབྲས་བུ་ཞེས་བྱ་བར་མིང་འགྱུར་བའོ།
-  </tibetan-source>
-  <correction>
-    *Lhun grub* is not a destination but the nature of rigpa itself. The recognition 
-    that there is nothing to complete is the completion.
-  </correction>
-  <related-terms>
-    ka dag (ཀ་དག), dzogpa (རྫོགས་པ), rangdrol (རང་གྲོལ)
-  </related-terms>
-</spontaneous-completion-waiting>
+**Misreading:**
+Believing lhun grub (spontaneous completion) is a future event that will occur when conditions are ripe, not recognizing that ka dag (primordial purity) is already complete. The error lies in temporalizing the timeless—treating spontaneous completion as something to be achieved rather than recognized.
 
-<!-- ================================================================ -->
-<!-- BLOCK 002: LIGHT BODY ACHIEVEMENT -->
-<!-- ================================================================ -->
-<light-body-achievement id="lba-002" severity="critical" tibetan-terms="འོད་ལུས">
-  <trigger>Striving to achieve *od lus* (light body)</trigger>
-  <delusion>
-    The practitioner grasps at the *od lus* (light body of great transference) as a goal, 
-    accumulating practices to transform the physical body into rainbow light. This misses 
-    that *od lus* is the natural display of rigpa's luminosity, not a bodily transformation 
-    to be accomplished through effort.
-  </delusion>
-  <tibetan-source>
-    ལུས་འདི་བོར་ནས་འོད་ཀྱི་སྣང་བ་འཆར།
-  </tibetan-source>
-  <correction>
-    The *od lus* is already present as the luminous nature of mind. Grasping at its 
-    manifestation creates the very obscurations that prevent its recognition.
-  </correction>
-  <related-terms>
-    od lus (འོད་ལུས), rang snang (རང་སྣང), ye shes (ཡེ་ཤེས), gsal ba (གསལ་བ)
-  </related-terms>
-</light-body-achievement>
+**Why it arises:**
+Tibetan source: ཐོག་མའི་ཀ་དག་ལ་རིག་པ་རང་ངོ་ཤེས་ནས་ད་རྒྱུར་མི་ལྡོག་པས་འབྲས་བུ་ཞེས་བྱ་བར་མིང་འགྱུར་བའོ།
 
-<!-- ================================================================ -->
-<!-- BLOCK 003: RAINBOW BODY CHASING -->
-<!-- ================================================================ -->
-<rainbow-body-chasing id="rbc-003" severity="critical" tibetan-terms="འཇའ་ལུས">
-  <delusion>
-    The practitioner pursues *ja lus* (rainbow body) as the ultimate attainment, 
-    believing the body must shrink and dissolve into light. This creates a subtle 
-    materialism—treating the body as something to be transformed rather than recognizing 
-    that all phenomena are already self-liberated (*rangdrol*).
-  </delusion>
-  <tibetan-source>
-    ཕྲ་རགས་དེངས་པ་ཡིས། ཕུང་པོ་ལྔ་ཡང་མཐར་གྱིས་ཕྲ།
-  </tibetan-source>
-  <correction>
-    *Ja lus* is the recognition that form is emptiness and emptiness is form. 
-    The chase itself is the obstacle.
-  </correction>
-  <related-terms>
-    ja lus (འཇའ་ལུས), stong pa (སྟོང་པ), rangdrol (རང་གྲོལ), snang srid (སྣང་སྲིད)
-  </related-terms>
-</rainbow-body-chasing>
+The practitioner has not fully integrated that rigpa, once recognized, does not revert—this non-reversion is itself the fruition. The conceptual mind projects completion into the future due to habitual cause-and-effect thinking.
 
-<!-- ================================================================ -->
-<!-- BLOCK 004: TREKCHO COMPLETION PRIDE -->
-<!-- ================================================================ -->
-<trekcho-completion-pride id="tcp-004" severity="high" tibetan-terms="ཁྲེགས་ཆོད">
-  <delusion>
-    The practitioner believes *khregs chod* (cutting through) has been completed, 
-    resting in the conviction that all thoughts are self-liberated. This pride of 
-    completion (*rtogs pa'i nga rgyal*) mutates into a new fixation, preventing the natural 
-    unfolding of *thod rgal*.
-  </delusion>
-  <tibetan-source>
-    བག་ཆགས་སྦུབས་ཀྱིས་ཡེ་ཤེས་སྒྱུ་ལུས་བསྒྲིབས།
-  </tibetan-source>
-  <correction>
-    There is no one to complete trekcho and nothing to complete. The recognition 
-    of this is itself the completion beyond completion.
-  </correction>
-  <related-terms>
-    khregs chod (ཁྲེགས་ཆོད), thod rgal (ཐོད་རྒལ), nga rgyal (ང་རྒྱལ), rtogs pa (རྟོགས་པ)
-  </related-terms>
-</trekcho-completion-pride>
+**Primary consequence:**
+Creates a temporal gap between present practice and future attainment, perpetuating the delusion of becoming.
 
-<!-- ================================================================ -->
-<!-- BLOCK 005: THOGAL VISION COMPLETION -->
-<!-- ================================================================ -->
-<thogal-vision-completion id="tvc-005" severity="high" tibetan-terms="ཐོད་རྒལ">
-  <delusion>
-    The practitioner awaits *thod rgal* visions as signs of progress, interpreting 
-    lights and deities as indicators of approaching completion. This turns the direct 
-    crossing into a gradual path, creating dependence on appearances.
-  </delusion>
-  <tibetan-source>
-    འོད་མེད་ཁ་དོག་རྣམས་དང་བྲལ། གང་གི་ངོ་བོ་གྲུབ་མེད་པས།
-  </tibetan-source>
-  <correction>
-    *Thod rgal* is not about visions but the direct recognition of rigpa's own face. 
-    Visions are spontaneous self-display (*rang snang*), neither to be pursued nor rejected.
-  </correction>
-  <related-terms>
-    thod rgal (ཐོད་རྒལ), rang snang (རང་སྣང), ye shes (ཡེ་ཤེས), gtig gsal (གཏིང་གསལ)
-  </related-terms>
-</thogal-vision-completion>
+**Secondary consequences:**
+Practitioner accumulates more practices hoping to ripen conditions; misses the immediate availability of completion; generates subtle anxiety about "readiness."
 
-<!-- ================================================================ -->
-<!-- BLOCK 006: FIVE-KAYA ACCUMULATION -->
-<!-- ================================================================ -->
-<five-kaya-accumulation id="fka-006" severity="high" tibetan-terms="སྐུ་ལྔ">
-  <delusion>
-    The practitioner attempts to accumulate or develop the five kayas (*sku lnga*) 
-    through practice, missing that the five kayas are spontaneously present (*lhun grub*) 
-    as the natural expression of *chos sku* (dharmakaya).
-  </delusion>
-  <tibetan-source>
-    ཆོས་སྐུའི་ངང་ན་གཏིང་གསལ་ཀྱི་སྐུ་ལྔ་གཏིང་གསལ་དུ་གནས་པས།
-  </tibetan-source>
-  <correction>
-    The five kayas are not developed but recognized. They are the innate radiance 
-    (*rang gdangs*) of dharmakaya, never separate from it.
-  </correction>
-  <related-terms>
-    sku lnga (སྐུ་ལྔ), chos sku (ཆོས་སྐུ), longs sku (ལོངས་སྐུ), sprul sku (སྤྲུལ་སྐུ), rang gdangs (རང་གདངས)
-  </related-terms>
-</five-kaya-accumulation>
+**Cascade effects:**
+<spontaneous-completion-waiting> → temporalization-error → <result-deferral> → recognition-failure → practice-accumulation-loop
 
-<!-- ================================================================ -->
-<!-- BLOCK 007: THREE-BODY SEPARATION -->
-<!-- ================================================================ -->
-<three-body-separation id="tbs-007" severity="critical" tibetan-terms="སྐུ་གསུམ">
-  <delusion>
-    The practitioner conceives of *sku gsum* (three kayas) as separate entities—
-    dharmakaya as emptiness, sambhogakaya as clarity, nirmanakaya as compassion. 
-    This reification destroys their non-dual nature (*dbyer med*).
-  </delusion>
-  <tibetan-source>
-    ཡེ་ཤེས་དབྱིངས་སུ་ཐིམ་ཡང་སྐུ་གསུམ་འདུ་འབྲལ་མེད་པར་ཕྲ་བའི་ཡེ་ཤེས་ནང་གསལ་དུ་གནས་པའོ།
-  </tibetan-source>
-  <correction>
-    The three kayas are indivisible (*'du 'bral med pa*). They are three aspects 
-    of a single reality, not three separate bodies.
-  </correction>
-  <related-terms>
-    sku gsum (སྐུ་གསུམ), dbyer med (དབྱེར་མེད), 'du 'bral med (འདུ་འབྲལ་མེད), nang gsal (ནང་གསལ)
-  </related-terms>
-</three-body-separation>
+---
 
-<!-- ================================================================ -->
-<!-- BLOCK 008: DHARMAKAYA DESTINATION -->
-<!-- ================================================================ -->
-<dharmakaya-destination id="dd-008" severity="critical" tibetan-terms="ཆོས་སྐུ">
-  <delusion>
-    The practitioner aims to reach *chos sku* (dharmakaya) as a final destination, 
-    believing it to be a state beyond all phenomena. This makes dharmakaya into an 
-    object of attainment, missing that it is the nature of all experience.
-  </delusion>
-  <tibetan-source>
-    ཆོས་སྐུ་བརྗོད་བྲལ་དེ་ཉིད་དུ་གཅིག་པས་ངོ་མཉམ་ཐ་དད་མེད་པའི་རང་བཞིན་ཐིག་ལེ་ཉག་གཅིག་ཏུ་སངས་རྒྱས་ཏེ།
-  </tibetan-source>
-  <correction>
-    Dharmakaya is not reached but recognized as the ground (*gzhi*) of all experience. 
-    It is the very basis from which one has never departed.
-  </correction>
-  <related-terms>
-    chos sku (ཆོས་སྐུ), gzhi (གཞི), brjod bral (བརྗོད་བྲལ), ngo mnyam (ངོ་མཉམ), thig le (ཐིག་ལེ)
-  </related-terms>
-</dharmakaya-destination>
+[15647-15657] <light-body-achievement>
 
-<!-- ================================================================ -->
-<!-- BLOCK 009: SAMBHOGAKAYA PURE-LAND -->
-<!-- ================================================================ -->
-<sambhogakaya-pure-land id="spl-009" severity="high" tibetan-terms="ལོངས་སྐུ">
-  <delusion>
-    The practitioner aspires to be reborn in the *longs sku* (sambhogakaya) pure lands, 
-    treating them as literal locations where enlightenment is easier to attain. This 
-    misses that sambhogakaya is the luminous display of one's own mind.
-  </delusion>
-  <tibetan-source>
-    ཕྱག་རྒྱ་མཆོག་གི་ལོངས་སྤྱོད་ཆེན་པོར་རང་སྣང་བའོ།
-  </tibetan-source>
-  <correction>
-    The pure lands are not locations but the natural expression (*rang snang*) of 
-    wisdom. To seek them elsewhere is to overlook their presence here and now.
-  </correction>
-  <related-terms>
-    longs sku (ལོངས་སྐུ), longs spyod (ལོངས་སྤྱོད), zhing khams (ཞིང་ཁམས), phyag rgya mchog (ཕྱག་རྒྱ་མཆོག)
-  </related-terms>
-</sambhogakaya-pure-land>
+**Misreading:**
+Grasping at od lus (light body of great transference) as a goal, accumulating practices to transform the physical body into rainbow light. This misses that od lus is the natural display of rigpa's luminosity, not a bodily transformation to be accomplished through effort.
 
-<!-- ================================================================ -->
-<!-- BLOCK 010: NIRMANAKAYA EMANATION -->
-<!-- ================================================================ -->
-<nirmanakaya-emanation id="ne-010" severity="high" tibetan-terms="སྤྲུལ་སྐུ">
-  <delusion>
-    The practitioner believes that accomplished masters manifest *sprul sku* (nirmanakaya) 
-    emanations to benefit beings, identifying themselves as future emanators. This 
-    reinforces the illusion of a self that can choose to emanate.
-  </delusion>
-  <tibetan-source>
-    སྤྲུལ་པ་ཕྱོགས་བཅུར་མཛད།
-  </tibetan-source>
-  <correction>
-    Nirmanakaya activity is spontaneous (*lhun grub*), without an agent. It is the 
-    natural compassion (*thugs rje*) of rigpa, not a deliberate action.
-  </correction>
-  <related-terms>
-    sprul sku (སྤྲུལ་སྐུ), sprul pa (སྤྲུལ་པ), thugs rje (ཐུགས་རྗེ), 'phrin las (འཕྲིན་ལས)
-  </related-terms>
-</nirmanakaya-emanation>
+**Why it arises:**
+Tibetan source: ལུས་འདི་བོར་ནས་འོད་ཀྱི་སྣང་བ་འཆར།
 
-<!-- ================================================================ -->
-<!-- BLOCK 011: SELF-LIBERATION COMPLACENCY -->
-<!-- ================================================================ -->
-<self-liberation-complacency id="slc-011" severity="high" tibetan-terms="རང་གྲོལ">
-  <delusion>
-    The practitioner adopts the view that everything is *rangdrol* (self-liberated) 
-    and therefore no practice or discipline is needed. This intellectual understanding 
-    without direct recognition becomes spiritual bypassing.
-  </delusion>
-  <tibetan-source>
-    དྲན་ཤེས་རྣམས་ནི་མྱ་ངན་འདས་པའི་ཚེ་ན་བརྗོད་པའི་མཐའ་ཀུན་རང་གིས་རང་ཟད་པའོ།
-  </tibetan-source>
-  <correction>
-    True self-liberation is not a belief but the direct recognition of rigpa. 
-    Without this recognition, "everything is liberated" is just another concept.
-  </correction>
-  <related-terms>
-    rangdrol (རང་གྲོལ), rang zad (རང་ཟད), rig pa (རིག་པ), rtogs pa (རྟོགས་པ)
-  </related-terms>
-</self-liberation-complacency>
+The literal reading suggests abandoning this body for light to appear. The practitioner materializes the metaphor, believing physical transformation equals spiritual attainment.
 
-<!-- ================================================================ -->
-<!-- BLOCK 012: APPEARANCE SELF-RELEASE -->
-<!-- ================================================================ -->
-<appearance-self-release id="asr-012" severity="medium" tibetan-terms="སྣང་བ་རང་གྲོལ">
-  <delusion>
-    The practitioner waits for appearances (*snang ba*) to self-release, 
-    not recognizing that they have never been bound. The waiting itself creates 
-    the temporal illusion that prevents immediate recognition.
-  </delusion>
-  <tibetan-source>
-    སྣང་བ་སྟོང་པར་གྲོལ་ཏེ། ཡེ་ཤེས་དབྱིངས་སུ་ཐིམ་ནས།
-  </tibetan-source>
-  <correction>
-    Appearances are already self-released. The recognition that there is nothing 
-    to release is the release itself.
-  </correction>
-  <related-terms>
-    snang ba (སྣང་བ), stong pa (སྟོང་པ), rangdrol (རང་གྲོལ), ye shes dbyings (ཡེ་ཤེས་དབྱིངས)
-  </related-terms>
-</appearance-self-release>
+**Primary consequence:**
+Grasping at luminosity creates the very obscurations that prevent recognizing the light body as already present.
 
-<!-- ================================================================ -->
-<!-- BLOCK 013: COMPLETION STAGE ARRIVAL -->
-<!-- ================================================================ -->
-<completion-stage-arrival id="csa-013" severity="critical" tibetan-terms="རྫོགས་རིམ">
-  <delusion>
-    The practitioner believes they have arrived at the completion stage (*rdzogs rim*), 
-    resting in a sense of final achievement. This arrival-consciousness is the subtlest 
-    form of grasping, preventing the natural flow of *lhun grub*.
-  </delusion>
-  <tibetan-source>
-    ཟད་པའི་སར་ཕྱིན་པ་ནི། རང་ཤར་ལས། རྟོགས་པའི་སྐྱེས་བུ་བློ་རྩལ་ཅན། མི་འགྱུར་མཉམ་ཉིད་ངང་དུ་ཐིམ།
-  </tibetan-source>
-  <correction>
-    There is no stage to arrive at and no one to arrive. The completion stage 
-    is the recognition that the path itself has been illusory.
-  </correction>
-  <related-terms>
-    rdzogs rim (རྫོགས་རིམ), zad pa'i sa (ཟད་པའི་ས), mi 'gyur (མི་འགྱུར), mnyam nyid (མཉམ་ཉིད)
-  </related-terms>
-</completion-stage-arrival>
+**Secondary consequences:**
+Attachment to miraculous attainments; disappointment when body remains "physical"; potential health neglect chasing ethereal goals.
 
-<!-- ================================================================ -->
-<!-- BLOCK 014: RESULT ACHIEVEMENT ANXIETY -->
-<!-- ================================================================ -->
-<result-achievement-anxiety id="raa-014" severity="high" tibetan-terms="འབྲས་བུ">
-  <delusion>
-    The practitioner anxiously seeks the fruition (*'bras bu*), fearing that without 
-    proper practice the result will not manifest. This anxiety itself obscures the 
-    recognition that the result is already present in the ground.
-  </delusion>
-  <tibetan-source>
-    འབྲས་བུ་ཀུན་ཀྱི་ཚད་དུ་ཕྱིན་པས་ཀུན་ཏུ་བཟང་པོ་དང་མཉམ་པའོ།
-  </tibetan-source>
-  <correction>
-    The result is not separate from the ground. The recognition of this non-separation 
-    is itself the fruition beyond fruition.
-  </correction>
-  <related-terms>
-    'bras bu (འབྲས་བུ), gzhi (གཞི), kun tu bzang po (ཀུན་ཏུ་བཟང་པོ), mnyam pa (མཉམ་པ)
-  </related-terms>
-</result-achievement-anxiety>
+**Cascade effects:**
+<light-body-achievement> → materialization-of-metaphor → <result-grasping> → luminosity-fixation → recognition-obscuration
 
-<!-- ================================================================ -->
-<!-- BLOCK 015: SPONTANEITY EFFORT PARADOX -->
-<!-- ================================================================ -->
-<spontaneity-effort-paradox id="sep-015" severity="critical" tibetan-terms="ལྷུན་གྲུབ">
-  <delusion>
-    The practitioner creates an impossible paradox: trying to make spontaneity (*lhun grub*) 
-    happen through effort. The more they try to rest without contrivance, the more 
-    contrived the effort becomes.
-  </delusion>
-  <tibetan-source>
-    ལྷུན་གྱིས་གྲུབ་པའི་ཡེ་ཤེས་སྐུ་གསུང་ཐུགས་མི་ཟད་པ་རྒྱན་གྱི་འཁོར་ལོའི་འབྱུང་གནས་སུ་ཕྲ་བའི་ཆར་གཏིང་གསལ་དུ་གནས་ཏེ།
-  </tibetan-source>
-  <correction>
-    Spontaneity cannot be achieved. The moment of recognizing that effort itself 
-    is spontaneously present is the resolution of the paradox.
-  </correction>
-  <related-terms>
-    lhun grub (ལྷུན་གྲུབ), rtsol ba (རྩོལ་བ), gtig gsal (གཏིང་གསལ), rang byung (རང་བྱུང)
-  </related-terms>
-</spontaneity-effort-paradox>
+---
 
-<!-- ================================================================ -->
-<!-- BLOCK 016: PRIMORDIAL PURITY SEEKING -->
-<!-- ================================================================ -->
-<primordial-purity-seeking id="pps-016" severity="critical" tibetan-terms="ཀ་དག">
-  <delusion>
-    The practitioner seeks *ka dag* (primordial purity) as if it were hidden 
-    beneath obscurations, practicing purification to reveal it. This misses that 
-    ka dag is the ever-present nature, never obscured.
-  </delusion>
-  <tibetan-source>
-    ཀ་དག་གི་དབྱིངས་ན་ལྷུན་གྲུབ་ཀྱི་གཏིང་གསལ་རིག་པའི་ཡེ་ཤེས་འོད་གསལ་བའི་སྙིང་པོ་ནི།
-  </tibetan-source>
-  <correction>
-    There is nothing to purify and no one to purify. The recognition of primordial 
-    purity is the cessation of the seeker.
-  </correction>
-  <related-terms>
-    ka dag (ཀ་དག), dbyings (དབྱིངས), snying po (སྙིང་པོ), 'od gsal (འོད་གསལ)
-  </related-terms>
-</primordial-purity-seeking>
+[15658-15668] <rainbow-body-chasing>
 
-<!-- ================================================================ -->
-<!-- BLOCK 017: WISDOM DISPLAY GRASPING -->
-<!-- ================================================================ -->
-<wisdom-display-grasping id="wdg-017" severity="medium" tibetan-terms="ཡེ་ཤེས་སྣང་བ">
-  <delusion>
-    The practitioner grasps at *ye shes snang ba* (wisdom display) as evidence 
-    of progress, accumulating experiences of clarity and bliss. This turns wisdom 
-    into an object of acquisition.
-  </delusion>
-  <tibetan-source>
-    ཡེ་ཤེས་དབྱིངས་སུ་ཐིམ་ནས། གཟུགས་སྐུ་ཆོས་སྐུའི་ཀློང་དུ་མྱ་ངན་ལས་འདས་ཏེ།
-  </tibetan-source>
-  <correction>
-    Wisdom display is not an experience to have but the natural radiance of rigpa. 
-    Grasping at it obscures its nature.
-  </correction>
-  <related-terms>
-    ye shes (ཡེ་ཤེས), snang ba (སྣང་བ), ye shes dbyings (ཡེ་ཤེས་དབྱིངས), gzugs sku (གཟུགས་སྐུ)
-  </related-terms>
-</wisdom-display-grasping>
+**Misreading:**
+Pursuing ja lus (rainbow body) as the ultimate attainment, believing the body must shrink and dissolve into light. This creates subtle materialism—treating the body as something to be transformed rather than recognizing that all phenomena are already self-liberated (rangdrol).
 
-<!-- ================================================================ -->
-<!-- BLOCK 018: NATURAL STATE MAINTENANCE -->
-<!-- ================================================================ -->
-<natural-state-maintenance id="nsm-018" severity="high" tibetan-terms="གནས་ལུགས">
-  <delusion>
-    The practitioner tries to maintain the *gnas lugs* (natural state), 
-    creating a subtle tension of vigilance. This maintenance itself disturbs 
-    the naturalness it seeks to preserve.
-  </delusion>
-  <tibetan-source>
-    རང་གི་གྲུབ་པའི་མཐའ་ཡང་འཇིག འདི་དུས་བླ་མའི་མན་ངག་ནུབ།
-  </tibetan-source>
-  <correction>
-    The natural state cannot be maintained because it has never been lost. 
-    The effort to maintain it creates the illusion of a state separate from experience.
-  </correction>
-  <related-terms>
-    gnas lugs (གནས་ལུགས), rang bzhin (རང་བཞིན), grub mtha' (གྲུབ་མཐའ), man ngag (མན་ངག)
-  </related-terms>
-</natural-state-maintenance>
+**Why it arises:**
+Tibetan source: ཕྲ་རགས་དེངས་པ་ཡིས། ཕུང་པོ་ལྔ་ཡང་མཐར་གྱིས་ཕྲ།
 
-<!-- ================================================================ -->
-<!-- BLOCK 019: LUMINOSITY CLARITY FIXATION -->
-<!-- ================================================================ -->
-<luminosity-clarity-fixation id="lcf-019" severity="medium" tibetan-terms="འོད་གསལ">
-  <delusion>
-    The practitioner fixates on experiences of *od gsal* (luminosity/clear light), 
-    seeking to expand and stabilize clarity. This attachment to clarity obscures 
-    the deeper recognition that luminosity is empty of inherent existence.
-  </delusion>
-  <tibetan-source>
-    ནང་དབྱིངས་ཡེ་ཤེས་ཀྱི་རླུང་ལྔ་རང་སོ་ལ་མི་གཡོ་འཕོ་འགྱུར་མེད་པར་གནས་པ་སྟེ།
-  </tibetan-source>
-  <correction>
-    Clarity and emptiness are inseparable. Fixating on luminosity creates a subtle 
-    duality between the clear and that which is cleared.
-  </correction>
-  <related-terms>
-    od gsal (འོད་གསལ), gsal ba (གསལ་བ), stong pa (སྟོང་པ), nang dbyings (ནང་དབྱིངས)
-  </related-terms>
-</luminosity-clarity-fixation>
+The text describes coarse and subtle elements gradually refining. The practitioner concretizes this as physical dissolution, missing that form is emptiness and emptiness is form.
 
-<!-- ================================================================ -->
-<!-- BLOCK 020: RIGPA SELF-RECOGNITION PRIDE -->
-<!-- ================================================================ -->
-<rigpa-self-recognition-pride id="rsrp-020" severity="high" tibetan-terms="རིག་པ་རང་ངོ་ཤེས">
-  <delusion>
-    The practitioner prides themselves on having recognized *rig pa* (awareness), 
-    identifying as one who "knows" their nature. This knower-known duality is the 
-    subtlest form of separation.
-  </delusion>
-  <tibetan-source>
-    ཐོག་མའི་ཀ་དག་ལ་རིག་པ་རང་ངོ་ཤེས་ནས་ད་རྒྱུར་མི་ལྡོག་པས་འབྲས་བུ་ཞེས་བྱ་བར་མིང་འགྱུར་བའོ།
-  </tibetan-source>
-  <correction>
-    In true recognition, there is no one who recognizes and nothing recognized. 
-    The recognition is the dissolution of the recognizer.
-  </correction>
-  <related-terms>
-    rig pa (རིག་པ), rang ngo shes (རང་ངོ་ཤེས), dbyer med (དབྱེར་མེད), 'khrul pa (འཁྲུལ་པ)
-  </related-terms>
-</rigpa-self-recognition-pride>
+**Primary consequence:**
+The chase itself becomes the obstacle—seeking transformation where none is needed.
 
-<!-- ================================================================ -->
-<!-- BLOCK 021: VIEW MEDITATION CONDUCT SEPARATION -->
-<!-- ================================================================ -->
-<view-meditation-conduct-separation id="vmcs-021" severity="high" tibetan-terms="ལྟ་སྒོམ་སྤྱོད">
-  <delusion>
-    The practitioner compartmentalizes *lta sgom spyod* (view, meditation, conduct), 
-    holding a view in theory, practicing in sessions, and behaving differently in daily life. 
-    This separation prevents integration.
-  </delusion>
-  <tibetan-source>
-    ལྟ་སྒོམ་སྤྱོད་པ་འབྲས་བུ་མྱ་ངན་འདས་པའི་དུས་རྩོལ་བཅས་དྲན་པ་རང་ཟད་ཡིན།
-  </tibetan-source>
-  <correction>
-    View, meditation, and conduct are inseparable in the recognition of rigpa. 
-    They are not three practices but three aspects of a single recognition.
-  </correction>
-  <related-terms>
-    lta ba (ལྟ་བ), sgom pa (སྒོམ་པ), spyod pa (སྤྱོད་པ), 'bras bu (འབྲས་བུ), rang zad (རང་ཟད)
-  </related-terms>
-</view-meditation-conduct-separation>
+**Secondary consequences:**
+Reification of form/emptiness duality; potential body dysmorphia or dissociation; missing the recognition that all appearances are already rainbow-like in nature.
 
-<!-- ================================================================ -->
-<!-- BLOCK 022: ELEMENTAL TRANSMUTATION GRASPING -->
-<!-- ================================================================ -->
-<elemental-transmutation-grasping id="etg-022" severity="medium" tibetan-terms="འབྱུང་ལྔ">
-  <delusion>
-    The practitioner seeks to transmute the five elements (*'byung lnga*) into 
-    wisdom elements, believing physical transformation leads to enlightenment. 
-    This materializes the spiritual path.
-  </delusion>
-  <tibetan-source>
-    མ་དག་པའི་འབྱུང་ལྔ་དག་སྟོབས་ཀྱིས་ཡེ་ཤེས་དག་པ་ལྔའི་འབྱུང་ཆེན་སྣང་རུང་ལ་ལྟོས་ནས།
-  </tibetan-source>
-  <correction>
-    The elements are already pure as wisdom display. The recognition of this 
-    is the transmutation, not a physical change.
-  </correction>
-  <related-terms>
-    'byung lnga (འབྱུང་ལྔ), ye shes lnga (ཡེ་ཤེས་ལྔ), dag pa (དག་པ), snang rung (སྣང་རུང)
-  </related-terms>
-</elemental-transmutation-grasping>
+**Cascade effects:**
+<rainbow-body-chasing> → form-emptiness-duality → <material-spiritual-confusion> → dissociation-risk → recognition-missed
 
-<!-- ================================================================ -->
-<!-- BLOCK 023: WISDOM WIND CONTROL -->
-<!-- ================================================================ -->
-<wisdom-wind-control id="wwc-023" severity="medium" tibetan-terms="ཡེ་ཤེས་ཀྱི་རླུང">
-  <delusion>
-    The practitioner attempts to control *ye shes kyi rlung* (wisdom wind/prana), 
-    believing that directing energy leads to realization. This effort reinforces 
-    the illusion of a controller.
-  </delusion>
-  <tibetan-source>
-    ནང་དབྱིངས་ཡེ་ཤེས་ཀྱི་རླུང་ལྔ་རང་སོ་ལ་མི་གཡོ་འཕོ་འགྱུར་མེད་པར་གནས་པ་སྟེ།
-  </tibetan-source>
-  <correction>
-    Wisdom wind is naturally stable (*mi gyo*) and without change ('pho 'gyur med). 
-    The attempt to control it creates turbulence where there is natural stillness.
-  </correction>
-  <related-terms>
-    ye shes kyi rlung (ཡེ་ཤེས་ཀྱི་རླུང), rlung lnga (རླུང་ལྔ), mi gyo (མི་གཡོ), 'pho 'gyur (འཕོ་འགྱུར)
-  </related-terms>
-</wisdom-wind-control>
+---
 
-<!-- ================================================================ -->
-<!-- BLOCK 024: PURE VISION CULTIVATION -->
-<!-- ================================================================ -->
-<pure-vision-cultivation id="pvc-024" severity="medium" tibetan-terms="དག་སྣང">
-  <delusion>
-    The practitioner cultivates *dag snang* (pure vision), deliberately seeing 
-    everything as divine. This forced purity becomes another conceptual overlay, 
-    missing that true pure vision is the natural display of rigpa.
-  </delusion>
-  <tibetan-source>
-    མ་དག་པའི་འཁྲུལ་པའི་སྣང་བས་ཡེ་ཤེས་སྣང་བ་བསྒྲིབས། འཁྲུལ་པའི་སྣང་བ་འགགས་ན་དག་པའི་སྣང་བ་འཆར།
-  </tibetan-source>
-  <correction>
-    Pure vision arises naturally when confusion ceases. It cannot be cultivated 
-    any more than one can cultivate the sun to shine.
-  </correction>
-  <related-terms>
-    dag snang (དག་སྣང), ma dag pa (མ་དག་པ), 'khrul pa'i snang ba (འཁྲུལ་པའི་སྣང་བ), ye shes snang ba (ཡེ་ཤེས་སྣང་བ)
-  </related-terms>
-</pure-vision-cultivation>
+[15669-15679] <trekcho-completion-pride>
 
-<!-- ================================================================ -->
-<!-- BLOCK 025: DEITY YOGA IDENTIFICATION -->
-<!-- ================================================================ -->
-<deity-yoga-identification id="dyi-025" severity="medium" tibetan-terms="ལྷའི་སྐུ">
-  <delusion>
-    The practitioner identifies with *lha'i sku* (deity form) in meditation, 
-    believing this identification constitutes realization. This is imagination 
-    mistaken for recognition.
-  </delusion>
-  <tibetan-source>
-    ཆོས་དང་ཤེས་རབ་མྱ་ངན་འདས་པའི་དུས་ན་ལྷའི་སྐུ་རྣམས་མི་དམིགས་རྒྱ་ཡིས་ཐེབས་པར་སྣང༌།
-  </tibetan-source>
-  <correction>
-    True deity yoga is not identification with a form but the recognition that 
-    all form is the display of rigpa. When rigpa is recognized, no deity needs to be imagined.
-  </correction>
-  <related-terms>
-    lha'i sku (ལྷའི་སྐུ), lha (ལྷ), rig pa (རིག་པ), dmigs pa (དམིགས་པ)
-  </related-terms>
-</deity-yoga-identification>
+**Misreading:**
+Believing khregs chod (cutting through) has been completed, resting in the conviction that all thoughts are self-liberated. This pride of completion (rtogs pa'i nga rgyal) mutates into a new fixation, preventing the natural unfolding of thod rgal.
 
-<!-- ================================================================ -->
-<!-- BLOCK 026: SENSE FACULTY PURIFICATION -->
-<!-- ================================================================ -->
-<sense-faculty-purification id="sfp-026" severity="low" tibetan-terms="དབང་པོ་རྣམ་དག">
-  <delusion>
-    The practitioner seeks to purify the sense faculties (*dbang po*), believing 
-    that purified senses perceive reality correctly. This assumes a fundamental 
-    split between pure and impure perception.
-  </delusion>
-  <tibetan-source>
-    དབང་པོ་ཡུལ་རྣམས་མྱ་ངན་འདས་པའི་ཚེ་ན་ཕྱག་རྒྱ་མཆོག་གི་ལོངས་སྤྱོད་ཆེན་པོར་རང་སྣང་བའོ།
-  </tibetan-source>
-  <correction>
-    The senses are already wisdom display. The notion of purification implies 
-    impurity where none exists.
-  </correction>
-  <related-terms>
-    dbang po (དབང་པོ), yul (ཡུལ), rang snang (རང་སྣང), phyag rgya mchog (ཕྱག་རྒྱ་མཆོག)
-  </related-terms>
-</sense-faculty-purification>
+**Why it arises:**
+Tibetan source: བག་ཆགས་སྦུབས་ཀྱིས་ཡེ་ཤེས་སྒྱུ་ལུས་བསྒྲིབས།
 
-<!-- ================================================================ -->
-<!-- BLOCK 027: FIVE POISONS TRANSFORMATION -->
-<!-- ================================================================ -->
-<five-poisons-transformation id="fpt-027" severity="medium" tibetan-terms="དུག་ལྔ">
-  <delusion>
-    The practitioner works to transform the five poisons (*dug lnga*) into 
-    five wisdoms, believing afflictions must be converted. This assumes the poisons 
-    are real and need changing.
-  </delusion>
-  <tibetan-source>
-    ཉོན་མོངས་པ་ལྔ་ཡེ་ཤེས་ལྔར་དག་པའི་རང་གདངས་ལྔ་ནང་དབྱིངས་འོད་གསལ་ལ་ཐིམ་ནས།
-  </tibetan-source>
-  <correction>
-    The five poisons are already the five wisdoms in their essence. 
-    They don't need transformation—only recognition of their true nature.
-  </correction>
-  <related-terms>
-    dug lnga (དུག་ལྔ), ye shes lnga (ཡེ་ཤེས་ལྔ), nyon mongs (ཉོན་མོངས), rang gdangs (རང་གདངས)
-  </related-terms>
-</five-poisons-transformation>
+Latent tendencies obscure wisdom's illusory body. The practitioner mistakes partial recognition for full realization, creating a subtle identity as "one who has completed trekcho."
 
-<!-- ================================================================ -->
-<!-- BLOCK 028: TINGDZIN STABILIZATION -->
-<!-- ================================================================ -->
-<tingdzin-stabilization id="ts-028" severity="high" tibetan-terms="ཏིང་ངེ་འཛིན">
-  <delusion>
-    The practitioner seeks to stabilize *ting nge 'dzin* (samadhi/concentration), 
-    believing that longer sessions indicate progress. This creates aversion to 
-    distraction and attachment to absorption.
-  </delusion>
-  <tibetan-source>
-    རྒྱུན་གྱི་ཏིང་ངེ་འཛིན་ལ་འདུ་འབྲལ་མེད་པས། ཆོས་ཉིད་བསམ་གྱིས་མི་ཁྱབ་པའི་ཏིང་ངེ་འཛིན་ལས་འཕོ་འགྱུར་མེད་པའོ།
-  </tibetan-source>
-  <correction>
-    True samadhi is without coming together or separating ('du 'bral med). 
-    Stabilization implies instability—true concentration is the natural state beyond effort.
-  </correction>
-  <related-terms>
-    ting nge 'dzin (ཏིང་ངེ་འཛིན), rgyun (རྒྱུན), 'du 'bral (འདུ་འབྲལ), chos nyid (ཆོས་ཉིད)
-  </related-terms>
-</tingdzin-stabilization>
+**Primary consequence:**
+Pride blocks further deepening; the natural progression to thod rgal is artificially halted.
 
-<!-- ================================================================ -->
-<!-- BLOCK 029: WISDOM EYE DEVELOPMENT -->
-<!-- ================================================================ -->
-<wisdom-eye-development id="wed-029" severity="medium" tibetan-terms="ཡེ་ཤེས་ཀྱི་སྤྱན">
-  <delusion>
-    The practitioner attempts to develop *ye shes kyi spyan* (wisdom eye), 
-    believing special perception is needed to see reality. This assumes the 
-    ordinary eye is insufficient.
-  </delusion>
-  <tibetan-source>
-    ཤེས་རབ་ཀྱི་སྤྱན་ཡེ་ཤེས་ཀྱི་སྤྱན་ལ་ཐིམ་ཞིང༌། དེ་ཉིད་ཆོས་ཉིད་ཀྱི་སྤྱན་ལ་ཐིམ་པས་ཡུལ་དང་ཤེས་པའི་སྤྱོད་བྱེད་རྣམ་པར་དག་སྟེ།
-  </tibetan-source>
-  <correction>
-    The wisdom eye is not a new faculty but the recognition that seeing itself 
-    is wisdom. Ordinary perception, recognized as such, is the wisdom eye.
-  </correction>
-  <related-terms>
-    ye shes kyi spyan (ཡེ་ཤེས་ཀྱི་སྤྱན), shes rab kyi spyan (ཤེས་རབ་ཀྱི་སྤྱན), chos nyid kyi spyan (ཆོས་ཉིད་ཀྱི་སྤྱན)
-  </related-terms>
-</wisdom-eye-development>
+**Secondary consequences:**
+Spiritual arrogance; dismissal of deeper teachings; stagnation disguised as completion.
 
-<!-- ================================================================ -->
-<!-- BLOCK 030: NON-MEDITATION ATTAINMENT -->
-<!-- ================================================================ -->
-<non-meditation-attainment id="nma-030" severity="critical" tibetan-terms="མི་སྒོམ">
-  <delusion>
-    The practitioner claims to have reached *mi sgom* (non-meditation), 
-    using this as justification to abandon formal practice while the mind 
-    remains untamed. This is spiritual bypassing disguised as high realization.
-  </delusion>
-  <tibetan-source>
-    དྲན་ཤེས་རྣམས་ནི་མྱ་ངན་འདས་པའི་ཚེ་ན་བརྗོད་པའི་མཐའ་ཀུན་རང་གིས་རང་ཟད་པའོ།
-  </tibetan-source>
-  <correction>
-    True non-meditation is not the absence of practice but the recognition 
-    that there is nothing to practice and no one to practice. Without this recognition, 
-    claiming non-meditation is delusion.
-  </correction>
-  <related-terms>
-    mi sgom (མི་སྒོམ), dran shes (དྲན་ཤེས), mya ngan 'das pa (མྱ་ངན་ལས་འདས་པ), rang zad (རང་ཟད)
-  </related-terms>
-</non-meditation-attainment>
+**Cascade effects:**
+<trekcho-completion-pride> → recognition-stagnation → <thogal-blocking> → spiritual-arrogance → path-abandonment
 
-<!-- ================================================================ -->
-<!-- BLOCK 031: FRUITION CERTAINTY -->
-<!-- ================================================================ -->
-<fruition-certainty id="fc-031" severity="high" tibetan-terms="འབྲས་བུ་ངེས་པ">
-  <delusion>
-    The practitioner feels certain about the fruition (*'bras bu*), 
-    holding a conceptual understanding of enlightenment as certainty. 
-    This certainty is itself a subtle form of grasping.
-  </delusion>
-  <tibetan-source>
-    འབྲས་བུའི་ཆོས་རྣམས་ཟླ་བ་ཉ་གང་བ་ན་འཕེལ་ཟད་པ་ལྟར་ཡོངས་སུ་རྫོགས་པས་དེ་ལས་གོང་དུ་འགྲོར་མེད་པས་ཟད་པའི་སར་ཕྱིན་པ་ནི།
-  </tibetan-source>
-  <correction>
-    The fruition is beyond certainty and uncertainty. The recognition of this 
-    is the complete completion beyond completion.
-  </correction>
-  <related-terms>
-    'bras bu (འབྲས་བུ), nges pa (ངེས་པ), yongs su rdzogs pa (ཡོངས་སུ་རྫོགས་པ), zad pa'i sa (ཟད་པའི་ས)
-  </related-terms>
-</fruition-certainty>
+---
 
-<!-- ================================================================ -->
-<!-- BLOCK 032: SPONTANEOUS PRESENCE WAITING -->
-<!-- ================================================================ -->
-<spontaneous-presence-waiting id="spw-032" severity="high" tibetan-terms="ལྷུན་གྲུབ">
-  <delusion>
-    The practitioner waits for spontaneous presence (*lhun grub*) to manifest, 
-    believing there is a timeline for fruition. This temporalizes the timeless 
-    and creates expectation.
-  </delusion>
-  <tibetan-source>
-    སོ་སོ་རང་བྱུང་གི་རིག་པ་ནང་གསལ་ལྷུན་གྱིས་གྲུབ་པ་ཆེན་པོར་བཞུགས་པས།
-  </tibetan-source>
-  <correction>
-    Spontaneous presence is not a future event but the nature of the present moment. 
-    Waiting for it is like waiting for water to be wet.
-  </correction>
-  <related-terms>
-    lhun grub (ལྷུན་གྲུབ), so so rang byung (སོ་སོ་རང་བྱུང), nang gsal (ནང་གསལ), lhun gyis grub pa (ལྷུན་གྱིས་གྲུབ་པ)
-  </related-terms>
-</spontaneous-presence-waiting>
+[15680-15690] <thogal-vision-completion>
 
-<!-- ================================================================ -->
-<!-- BLOCK 033: BUDDHA FIELD ASPIRATION -->
-<!-- ================================================================ -->
-<buddha-field-aspiration id="bfa-033" severity="medium" tibetan-terms="ཞིང་ཁམས">
-  <delusion>
-    The practitioner aspires to be born in a *zhing khams* (buddha field/pure land), 
-    treating it as a favorable location for practice. This externalizes what is 
-    the nature of mind.
-  </delusion>
-  <tibetan-source>
-    ཞིང་ཁམས་ཀུན་ཏུ་མཐའ་ཡས་པ་མཐོང་ནས་སྣང་བ་ཕྱི་ནང་གཉིས་སུ་མེད་པར་འདྲེས་པའི་ཚེ་ཀློང་རྣམ་པར་དག་པའི་དགོངས་པ་ཐོབ་སྟེ།
-  </tibetan-source>
-  <correction>
-    The pure land is not a place but the recognition that all appearance is 
-    self-purified. This recognition can happen anywhere.
-  </correction>
-  <related-terms>
-    zhing khams (ཞིང་ཁམས), snang ba (སྣང་བ), phyis nang (ཕྱི་ནང), klong rnam dag (ཀློང་རྣམ་དག)
-  </related-terms>
-</buddha-field-aspiration>
+**Misreading:**
+Awaiting thod rgal visions as signs of progress, interpreting lights and deities as indicators of approaching completion. This turns the direct crossing into a gradual path, creating dependence on appearances.
 
-<!-- ================================================================ -->
-<!-- BLOCK 034: NATURAL LIBERATION SEEKING -->
-<!-- ================================================================ -->
-<natural-liberation-seeking id="nls-034" severity="critical" tibetan-terms="རང་གྲོལ">
-  <delusion>
-    The practitioner seeks *rangdrol* (natural liberation), believing it to be 
-    a special state to achieve. The very seeking prevents the recognition that 
-    everything is already liberated.
-  </delusion>
-  <tibetan-source>
-    འགྱུར་མེད་རྫོགས་པའི་མཐིང་གར་ནི། ཡེ་རྫོགས་བྱས་པ་མེད་པར་གནས།
-  </tibetan-source>
-  <correction>
-    Natural liberation is the recognition that there is nothing to liberate. 
-    The seeker themselves are naturally liberated, never bound.
-  </correction>
-  <related-terms>
-    rangdrol (རང་གྲོལ), 'gyur med (འགྱུར་མེད), rdzogs pa (རྫོགས་པ), ye rdzogs (ཡེ་རྫོགས)
-  </related-terms>
-</natural-liberation-seeking>
+**Why it arises:**
+Tibetan source: འོད་མེད་ཁ་དོག་རྣམས་དང་བྲལ། གང་གི་ངོ་བོ་གྲུབ་མེད་པས།
 
-<!-- ================================================================ -->
-<!-- BLOCK 035: DHARMATA INVESTIGATION -->
-<!-- ================================================================ -->
-<dharmata-investigation id="di-035" severity="high" tibetan-terms="ཆོས་ཉིད">
-  <delusion>
-    The practitioner investigates *chos nyid* (dharmata/nature of phenomena), 
-    as if it were an object of knowledge to be understood. This makes dharmata 
-    into a concept.
-  </delusion>
-  <tibetan-source>
-    དེ་ལྟར་ཆོས་ཉིད་ཀ་དག་ལ། ཡེ་ཤེས་མེད་ཅིང་སྐུ་ཡང་མེད།
-  </tibetan-source>
-  <correction>
-    Dharmata cannot be investigated because it is the investigating itself. 
-    The moment of recognizing this is the end of investigation.
-  </correction>
-  <related-terms>
-    chos nyid (ཆོས་ཉིད), ka dag (ཀ་དག), ye shes (ཡེ་ཤེས), sku (སྐུ)
-  </related-terms>
-</dharmata-investigation>
+The text describes being free from lights and colors, essence without establishment. The practitioner seeks what is described as already absent, creating a paradox of seeking non-seeking.
 
-<!-- ================================================================ -->
-<!-- BLOCK 036: EMPTINESS COMPREHENSION -->
-<!-- ================================================================ -->
-<emptiness-comprehension id="ec-036" severity="high" tibetan-terms="སྟོང་པ་ཉིད">
-  <delusion>
-    The practitioner tries to comprehend *stong pa nyid* (emptiness) intellectually, 
-    believing understanding the concept constitutes realization. This is philosophy 
-    mistaken for meditation.
-  </delusion>
-  <tibetan-source>
-    ངོ་བོ་སྟོང་གསལ་རང་བྱུང་གི་ཡེ་ཤེས་གང་དུའང་མ་གྲུབ་པས་གངས་དུའང་མ་ཕྱེད་མི་བྱེད་འབྱེད་པ་མེད་ཅིང་སྨྲ་བསམ་བརྗོད་པ་ལས་འདས་ཏེ།
-  </tibetan-source>
-  <correction>
-    Emptiness is not a concept to understand but the nature of all concepts. 
-    The recognition that concepts are empty is itself the comprehension beyond comprehension.
-  </correction>
-  <related-terms>
-    stong pa nyid (སྟོང་པ་ཉིད), stong gsal (སྟོང་གསལ), rang byung ye shes (རང་བྱུང་ཡེ་ཤེས), smra bsam (སྨྲ་བསམ)
-  </related-terms>
-</emptiness-comprehension>
+**Primary consequence:**
+Visions become obstacles when grasped; dependence on appearance prevents recognition of rigpa's face.
 
-<!-- ================================================================ -->
-<!-- BLOCK 037: GREAT PERFECTION COMPLETION -->
-<!-- ================================================================ -->
-<great-perfection-completion id="gpc-037" severity="critical" tibetan-terms="རྫོགས་པ་ཆེན་པོ">
-  <delusion>
-    The practitioner believes they have achieved *rdzogs pa chen po* (great perfection), 
-    using this as a badge of spiritual status. This is the ultimate spiritual ego.
-  </delusion>
-  <tibetan-source>
-    མཐའ་ཡས་པས་ཡངས་པ། སངས་རྒྱས་པས་སྟོབས་ཆེ་བ། ལྟ་བའི་མཐར་ཐུག་གི་སྐྱེལ་ས།
-  </tibetan-source>
-  <correction>
-    Great perfection is not an achievement but the recognition that nothing 
-    needs to be perfected. The belief that one has achieved it is the final obstacle.
-  </correction>
-  <related-terms>
-    rdzogs pa chen po (རྫོགས་པ་ཆེན་པོ), mtha' yas (མཐའ་ཡས), sangs rgyas (སངས་རྒྱས), lta ba (ལྟ་བ)
-  </related-terms>
-</great-perfection-completion>
+**Secondary consequences:**
+Chasing experiences; disappointment when visions don't arise; missing that visions are spontaneous self-display (rang snang).
 
-<!-- ================================================================ -->
-<!-- BLOCK 038: CLEAR LIGHT EXPERIENCE -->
-<!-- ================================================================ -->
-<clear-light-experience id="cle-038" severity="medium" tibetan-terms="འོད་གསལ">
-  <delusion>
-    The practitioner pursues experiences of clear light (*od gsal*), 
-    believing luminous visions indicate progress. This attachment to experience 
-    devolves into an obstacle to recognition.
-  </delusion>
-  <tibetan-source>
-    འོད་གསལ་དབྱིངས་སུ་འཁྱིལ་བ། ཐིམ་པ་ལ་མ་རྨུགས་པ། གསལ་བ་ལ་རྟོག་པ་མེད་པ།
-  </tibetan-source>
-  <correction>
-    Clear light is not an experience but the nature of the experiencer. 
-    Experiences arise and dissolve; clear light neither comes nor goes.
-  </correction>
-  <related-terms>
-    od gsal (འོད་གསལ), 'khyil ba (འཁྱིལ་བ), thim pa (ཐིམ་པ), gsal ba (གསལ་བ), rtog pa (རྟོག་པ)
-  </related-terms>
-</clear-light-experience>
+**Cascade effects:**
+<thogal-vision-completion> → appearance-dependence → <vision-chasing> → experience-grasping → direct-recognition-missed
 
-<!-- ================================================================ -->
-<!-- BLOCK 039: UNITY OF TWO TRUTHS -->
-<!-- ================================================================ -->
-<unity-two-truths id="utt-039" severity="high" tibetan-terms="བདེན་གཉིས">
-  <delusion>
-    The practitioner seeks to unite the two truths (*bden gnyis*—conventional and ultimate), 
-    as if they were separate and need joining. This assumes a duality that never existed.
-  </delusion>
-  <tibetan-source>
-    དབྱེར་མེད་འབྱེད་པ་མེད་པར་འགྱུར།
-  </tibetan-source>
-  <correction>
-    The two truths are already non-dual (*dbyer med*). The recognition of their 
-    inseparability is the unity beyond unification.
-  </correction>
-  <related-terms>
-    bden gnyis (བདེན་གཉིས), dbyer med (དབྱེར་མེད), 'byed pa (འབྱེད་པ), kun rdzob (ཀུན་རྫོབ), don dam (དོན་དམ)
-  </related-terms>
-</unity-two-truths>
+---
 
-<!-- ================================================================ -->
-<!-- BLOCK 040: INNATE WISDOM ACCESS -->
-<!-- ================================================================ -->
-<innate-wisdom-access id="iwa-040" severity="high" tibetan-terms="གཉུག་མའི་ཡེ་ཤེས">
-  <delusion>
-    The practitioner seeks to access *gnyug ma'i ye shes* (innate wisdom), 
-    believing it is hidden or latent. This assumes wisdom is not already fully present.
-  </delusion>
-  <tibetan-source>
-    རིག་པ་ཡེ་ཤེས་ཀྱི་ས་བོན་ལ་འཕེལ་འགྲིབ་མེད།
-  </tibetan-source>
-  <correction>
-    Innate wisdom is not accessed but recognized as ever-present. 
-    The seeking obscures what is never obscured.
-  </correction>
-  <related-terms>
-    gnyug ma'i ye shes (གཉུག་མའི་ཡེ་ཤེས), rig pa (རིག་པ), sa bon (ས་བོན), 'phel 'grib (འཕེལ་འགྲིབ)
-  </related-terms>
-</innate-wisdom-access>
+[15691-15701] <five-kaya-accumulation>
 
-<!-- ================================================================ -->
-<!-- BLOCK 041: GREAT BLISS CULTIVATION -->
-<!-- ================================================================ -->
-<great-bliss-cultivation id="gbc-041" severity="medium" tibetan-terms="བདེ་བ་ཆེན་པོ">
-  <delusion>
-    The practitioner cultivates *bde ba chen po* (great bliss), believing blissful 
-    states indicate spiritual progress. This turns bliss into another object of attachment.
-  </delusion>
-  <tibetan-source>
-    སྣང་སྲིད་ཐམས་ཅད་བདེ་བའི་ཞིང་དུ་སྣང༌།
-  </tibetan-source>
-  <correction>
-    Great bliss is not a feeling to cultivate but the nature of mind itself. 
-    It is present even in suffering when recognized.
-  </correction>
-  <related-terms>
-    bde ba chen po (བདེ་བ་ཆེན་པོ), snang srid (སྣང་སྲིད), bde ba (བདེ་བ), zhing (ཞིང)
-  </related-terms>
-</great-bliss-cultivation>
+**Misreading:**
+Attempting to accumulate or develop the five kayas (sku lnga) through practice, missing that the five kayas are spontaneously present (lhun grub) as the natural expression of chos sku (dharmakaya).
 
-<!-- ================================================================ -->
-<!-- BLOCK 042: NON-DUALITY REALIZATION -->
-<!-- ================================================================ -->
-<non-duality-realization id="ndr-042" severity="critical" tibetan-terms="གཉིས་མེད">
-  <delusion>
-    The practitioner seeks to realize *gnyis med* (non-duality), as if duality 
-    were real and needs to be transcended. This creates a new duality between 
-    duality and non-duality.
-  </delusion>
-  <tibetan-source>
-    གཉིས་མེད་ངེས་གཟུང་མེད་པར་འགྱུར།
-  </tibetan-source>
-  <correction>
-    Non-duality is not a realization but the nature of all experience. 
-    Duality is non-dual in its essence—there is nothing to transcend.
-  </correction>
-  <related-terms>
-    gnyis med (གཉིས་མེད), nges gzung (ངེས་གཟུང), gnyis (གཉིས), gnyis su med (གཉིས་སུ་མེད)
-  </related-terms>
-</non-duality-realization>
+**Why it arises:**
+Tibetan source: ཆོས་སྐུའི་ངང་ན་གཏིང་གསལ་ཀྱི་སྐུ་ལྔ་གཏིང་གསལ་དུ་གནས་པས།
 
-<!-- ================================================================ -->
-<!-- BLOCK 043: NATURAL MIND DISCOVERY -->
-<!-- ================================================================ -->
-<natural-mind-discovery id="nmd-043" severity="high" tibetan-terms="རང་སེམས">
-  <delusion>
-    The practitioner seeks to discover *rang sems* (natural mind), 
-    as if it were hidden and needed finding. This assumes separation 
-    from what has never been separate.
-  </delusion>
-  <tibetan-source>
-    རང་བཞིན་གྱི་སྣང་བ་ལ། མཚན་མར་འཛིན་པ་ཡེ་མེད་དེ།
-  </tibetan-source>
-  <correction>
-    Mind's nature is not behind thoughts but is the very thoughts themselves, 
-    recognized as empty display. The search creates the illusion of separation.
-  </correction>
-  <related-terms>
-    rang sems (རང་སེམས), rang bzhin (རང་བཞིན), mtshan mar 'dzin (མཚན་མར་འཛིན), ye med (ཡེ་མེད)
-  </related-terms>
-</natural-mind-discovery>
+Within dharmakaya's expanse, the five kayas abide as depth clarity. The practitioner doesn't recognize this spontaneous presence and attempts to "build" what is already complete.
 
-<!-- ================================================================ -->
-<!-- BLOCK 044: PURE AWARENESS STABILIZATION -->
-<!-- ================================================================ -->
-<pure-awareness-stabilization id="pas-044" severity="high" tibetan-terms="དག་པའི་རིག་པ">
-  <delusion>
-    The practitioner tries to stabilize *dag pa'i rig pa* (pure awareness), 
-    creating a subtle effort to remain in a state. This effort itself 
-    disturbs the natural purity.
-  </delusion>
-  <tibetan-source>
-    རིག་པས་རང་ས་ཟིན་པའོ། ཆོས་སྐུ་འགྱུར་བ་མེད་པ་རྡོ་རྗེ་ལྟ་བུའི་སྐུ།
-  </tibetan-source>
-  <correction>
-    Pure awareness cannot be stabilized because it has never been unstable. 
-    The attempt to stabilize creates the illusion of instability.
-  </correction>
-  <related-terms>
-    dag pa'i rig pa (དག་པའི་རིག་པ), rang sa zin (རང་ས་ཟིན), 'gyur ba med (འགྱུར་བ་མེད), rdo rje (རྡོ་རྗེ)
-  </related-terms>
-</pure-awareness-stabilization>
+**Primary consequence:**
+Developmental approach contradicts the fruitional view; effort obscures natural presence.
 
-<!-- ================================================================ -->
-<!-- BLOCK 045: COMPASSION GENERATION -->
-<!-- ================================================================ -->
-<compassion-generation id="cg-045" severity="medium" tibetan-terms="ཐུགས་རྗེ">
-  <delusion>
-    The practitioner generates *thugs rje* (compassion) as a practice, 
-    believing compassion needs to be produced. This makes compassion 
-    into an object of manufacture.
-  </delusion>
-  <tibetan-source>
-    ཐུགས་རྗེ་འགྲོ་བ་འདུལ་བའི་ཡེ་ཤེས་རྣམས་འཆར་གཞིའི་ཆ་ཙམ་དུ་རང་ངོ་དབྱེར་མེད་པས་རྟག་པར་གནས་པས་དུས་ཐམས་ཅད་པའི་ཡེ་ཤེས་ཞེས་བྱའོ།
-  </tibetan-source>
-  <correction>
-    True compassion is not generated but recognized as the natural expression 
-    (*rang gdangs*) of rigpa. It is already present, always manifesting.
-  </correction>
-  <related-terms>
-    thugs rje (ཐུགས་རྗེ), 'gro ba 'dul (འགྲོ་བ་འདུལ), ye shes (ཡེ་ཤེས), rang ngo (རང་ངོ), dbyer med (དབྱེར་མེད)
-  </related-terms>
-</compassion-generation>
+**Secondary consequences:**
+Complexification of practice; hierarchical thinking about kayas; missing that they are innate radiance (rang gdangs).
 
-<!-- ================================================================ -->
-<!-- BLOCK 046: ULTIMATE TRUTH UNDERSTANDING -->
-<!-- ================================================================ -->
-<ultimate-truth-understanding id="utu-046" severity="high" tibetan-terms="དོན་དམ་བདེན་པ">
-  <delusion>
-    The practitioner tries to understand *don dam bden pa* (ultimate truth), 
-    as if it were a philosophical position. This intellectualizes the 
-    non-conceptual.
-  </delusion>
-  <tibetan-source>
-    ལྟོས་གཞི་རང་དག་འཁྲུལ་པ་དག འཁོར་འདས་མིང་དུ་མི་གྲགས་སོ།
-  </tibetan-source>
-  <correction>
-    Ultimate truth is not understood but lived as the nature of all experience. 
-    The understanding is the end of the need to understand.
-  </correction>
-  <related-terms>
-    don dam bden pa (དོན་དམ་བདེན་པ), ltos gzhi (ལྟོས་གཞི), rang dag (རང་དག), 'khor 'das (འཁོར་འདས)
-  </related-terms>
-</ultimate-truth-understanding>
+**Cascade effects:**
+<five-kaya-accumulation> → developmental-confusion → <kaya-hierarchy> → effort-obscuration → innate-radiance-missed
 
-<!-- ================================================================ -->
-<!-- BLOCK 047: GROUND PATH FRUITION SEPARATION -->
-<!-- ================================================================ -->
-<ground-path-fruition-separation id="gpfs-047" severity="critical" tibetan-terms="གཞི་ལམ་འབྲས་བུ">
-  <delusion>
-    The practitioner distinguishes *gzhi lam 'bras bu* (ground, path, and fruition) 
-    as sequential stages, believing the path leads from ground to fruition. 
-    This temporalizes the non-temporal.
-  </delusion>
-  <tibetan-source>
-    གཞི་ལ་རྒྱ་ཆད་མེད་དོ། ལམ་ལ་འཕོ་འགྱུར་མེད་དོ། འབྲས་བུ་ལ་རྒྱུར་ལྡོག་པ་མེད་དོ།
-  </tibetan-source>
-  <correction>
-    Ground, path, and fruition are indivisible. The path is the recognition 
-    that ground and fruition have never been separate.
-  </correction>
-  <related-terms>
-    gzhi (གཞི), lam (ལམ), 'bras bu (འབྲས་བུ), rgya chad (རྒྱ་ཆད), 'pho 'gyur (འཕོ་འགྱུར), rgyur ldog (རྒྱུར་ལྡོག)
-  </related-terms>
-</ground-path-fruition-separation>
+---
 
-<!-- ================================================================ -->
-<!-- BLOCK 048: MIND NATURE RECOGNITION -->
-<!-- ================================================================ -->
-<mind-nature-recognition id="mnr-048" severity="critical" tibetan-terms="སེམས་ཀྱི་རང་བཞིན">
-  <delusion>
-    The practitioner seeks to recognize *sems kyi rang bzhin* (mind's nature), 
-    believing it is hidden behind thoughts. This assumes mind has a nature 
-    separate from its display.
-  </delusion>
-  <tibetan-source>
-    སེམས་མེད་པའི་སྣང་བ་ཆེན་པོ། མི་འགྱུར་ཡོངས་སུ་གདལ་བ་ཆེན་པོ།
-  </tibetan-source>
-  <correction>
-    Mind's nature is not behind thoughts but is the very thoughts themselves, 
-    recognized as empty display. The search creates the illusion of separation.
-  </correction>
-  <related-terms>
-    sems kyi rang bzhin (སེམས་ཀྱི་རང་བཞིན), sems med (སེམས་མེད), snang ba (སྣང་བ), mi 'gyur (མི་འགྱུར)
-  </related-terms>
-</mind-nature-recognition>
+[15702-15713] <three-body-separation>
 
-<!-- ================================================================ -->
-<!-- BLOCK 049: WISDOM ENERGY CHANNELING -->
-<!-- ================================================================ -->
-<wisdom-energy-channeling id="wec-049" severity="medium" tibetan-terms="ཡེ་ཤེས་ཀྱི་ཐིག་ལེ">
-  <delusion>
-    The practitioner channels *ye shes kyi thig le* (wisdom bindus/energy drops), 
-    believing manipulation of subtle energy leads to enlightenment. 
-    This materializes the spiritual process.
-  </delusion>
-  <tibetan-source>
-    ངོ་མཉམ་ཐ་དད་མེད་པའི་རང་བཞིན་ཐིག་ལེ་ཉག་གཅིག་ཏུ་སངས་རྒྱས་ཏེ།
-  </tibetan-source>
-  <correction>
-    Wisdom energy is not channeled but recognized as the natural flow of rigpa. 
-    The attempt to manipulate it creates the illusion of a manipulator.
-  </correction>
-  <related-terms>
-    ye shes kyi thig le (ཡེ་ཤེས་ཀྱི་ཐིག་ལེ), ngo mnyam (ངོ་མཉམ), tha dad med (ཐ་དད་མེད), thig le (ཐིག་ལེ)
-  </related-terms>
-</wisdom-energy-channeling>
+**Misreading:**
+Conceiving of sku gsum (three kayas) as separate entities—dharmakaya as emptiness, sambhogakaya as clarity, nirmanakaya as compassion. This reification destroys their non-dual nature (dbyer med).
 
-<!-- ================================================================ -->
-<!-- BLOCK 050: BUDDHAHOOD ATTAINMENT -->
-<!-- ================================================================ -->
-<buddhahood-attainment id="ba-050" severity="critical" tibetan-terms="སངས་རྒྱས་པ">
-  <delusion>
-    The practitioner seeks *sangs rgyas pa* (buddhahood/enlightenment) 
-    as a future attainment, believing it will be achieved through practice. 
-    This is the fundamental error that perpetuates samsara.
-  </delusion>
-  <tibetan-source>
-    སངས་རྒྱས་རྣམས་ཀྱི་འབྲས་བུ་འདི་ལ་སུ་གོམས་དཔལ་ལྡན་རྡོ་རྗེ་འཛིན་པ་ཉིད་དུའང་འགྱུར།
-  </tibetan-source>
-  <correction>
-    Buddhahood is not attained but recognized as the ever-present nature of mind. 
-    The recognition that there is nothing to attain and no one to attain it is the 
-    enlightenment beyond enlightenment.
-  </correction>
-  <related-terms>
-    sangs rgyas pa (སངས་རྒྱས་པ), dpal ldan rdo rje 'dzin (དཔལ་ལྡན་རྡོ་རྗེ་འཛིན), 'bras bu (འབྲས་བུ), goms (གོམས)
-  </related-terms>
-</buddhahood-attainment>
+**Why it arises:**
+Tibetan source: ཡེ་ཤེས་དབྱིངས་སུ་ཐིམ་ཡང་སྐུ་གསུམ་འདུ་འབྲལ་མེད་པར་ཕྲ་བའི་ཡེ་ཤེས་ནང་གསལ་དུ་གནས་པའོ།
 
-<!-- ================================================================ -->
-<!-- BLOCK 051: SPONTANEOUS ACTIVITY PERFORMANCE -->
-<!-- ================================================================ -->
-<spontaneous-activity-performance id="sap-051" severity="medium" tibetan-terms="ལྷུན་གྲུབ་ཀྱི་ཕྲིན་ལས">
-  <delusion>
-    The practitioner attempts to perform *lhun grub kyi 'phrin las* (spontaneous activity), 
-    deliberately acting without deliberation. This is contrived spontaneity—
-    the oxymoron that betrays itself.
-  </delusion>
-  <tibetan-source>
-    རིག་པ་ཀུན་གསལ་གྱི་ཡེ་ཤེས་མི་འདྲེས་ལ་ཡོངས་སུ་རྫོགས།
-  </tibetan-source>
-  <correction>
-    True spontaneous activity happens without anyone acting. The recognition 
-    that activity is already spontaneous dissolves the actor.
-  </correction>
-  <related-terms>
-    lhun grub kyi 'phrin las (ལྷུན་གྲུབ་ཀྱི་ཕྲིན་ལས), kun gsal (ཀུན་གསལ), ye shes (ཡེ་ཤེས), 'dres (འདྲེས), rdzogs (རྫོགས)
-  </related-terms>
-</spontaneous-activity-performance>
+Even as wisdom dissolves into the expanse, the three kayas remain indivisible, abiding as subtle inner clarity. The analytical mind separates what is inseparable for pedagogical clarity.
 
-<!-- ================================================================ -->
-<!-- BLOCK 052: CLEAR LIGHT SLEEP PRACTICE -->
-<!-- ================================================================ -->
-<clear-light-sleep-practice id="clsp-052" severity="medium" tibetan-terms="གཉིད་ཀྱི་འོད་གསལ">
-  <delusion>
-    The practitioner practices *gnyid kyi 'od gsal* (clear light of sleep), 
-    trying to maintain awareness during dreams. This effort creates the 
-    very duality between waking and sleeping that prevents recognition.
-  </delusion>
-  <tibetan-source>
-    རིན་པོ་ཆེ་སྐུ་གདུང་འབར་བའི་མཆོད་རྟེན་ནི་བརྩེགས་ལེགས་པ་དང༌།
-  </tibetan-source>
-  <correction>
-    Clear light is present in all states. The recognition that sleep and 
-    waking are equally displays of rigpa is the practice beyond practice.
-  </correction>
-  <related-terms>
-    gnyid kyi 'od gsal (གཉིད་ཀྱི་འོད་གསལ), sku gdung 'bar ba (སྐུ་གདུང་འབར་བ), mchod rten (མཆོད་རྟེན), brtsegs legs (བརྩེགས་ལེགས)
-  </related-terms>
-</clear-light-sleep-practice>
+**Primary consequence:**
+Reification creates duality where none exists; three kayas become three things rather than three aspects of one reality.
 
-<!-- ================================================================ -->
-<!-- BLOCK 053: TRANSFERENCE CONSCIOUSNESS PRACTICE -->
-<!-- ================================================================ -->
-<transference-consciousness-practice id="tcp-053" severity="medium" tibetan-terms="འཕོ་བ">
-  <delusion>
-    The practitioner practices *pho ba* (transference of consciousness), 
-    believing consciousness must be ejected at death to reach a pure land. 
-    This assumes consciousness is a thing that moves.
-  </delusion>
-  <tibetan-source>
-    སྤྲུལ་པའི་ཞིང་དུ་དབུགས་ཕྱུང་ཡང་རུང་སྟེ། ལམ་སྣང་གི་སྐུ་དང་ཡེ་ཤེས་ཀྱི་སྣང་བ་ཕྱིར་གསལ་གྱི་ཆ་རྣམས།
-  </tibetan-source>
-  <correction>
-    There is no consciousness to transfer and nowhere to go. The recognition 
-    of this is the great transference beyond transference.
-  </correction>
-  <related-terms>
-    pho ba (འཕོ་བ), sprul pa'i zhing (སྤྲུལ་པའི་ཞིང), dbugs 'phung (དབུགས་ཕྱུང), lam snang (ལམ་སྣང), phyi gsal (ཕྱིར་གསལ)
-  </related-terms>
-</transference-consciousness-practice>
+**Secondary consequences:**
+Compartmentalized understanding; attachment to specific "bodies"; failure to recognize their simultaneous presence in every experience.
 
-<!-- ================================================================ -->
-<!-- BLOCK 054: AWARENESS HOLDER STATUS -->
-<!-- ================================================================ -->
-<awareness-holder-status id="ahs-054" severity="high" tibetan-terms="རིག་འཛིན">
-  <delusion>
-    The practitioner aspires to *rig 'dzin* (awareness holder/vidyadhara) status, 
-    believing this title indicates spiritual attainment. This is identification 
-    with a role rather than recognition of nature.
-  </delusion>
-  <tibetan-source>
-    རིག་པ་འཛིན་མེད་ཀྱི་ཡེ་ཤེས་ངོས་གཟུང་གི་མཐའ་དང་བྲལ།
-  </tibetan-source>
-  <correction>
-    True rigdzin is not a status but the recognition that there is no one 
-    to hold awareness and nothing to be held. The title is a finger pointing, 
-    not the moon itself.
-  </correction>
-  <related-terms>
-    rig 'dzin (རིག་འཛིན), rig pa 'dzin med (རིག་པ་འཛིན་མེད), ye shes (ཡེ་ཤེས), ngos gzung (ངོས་གཟུང), mtha' dang bral (མཐའ་དང་བྲལ)
-  </related-terms>
-</awareness-holder-status>
+**Cascade effects:**
+<three-body-separation> → trikaya-reification → <non-duality-loss> → aspect-fixation → simultaneous-presence-missed
 
-<!-- ================================================================ -->
-<!-- BLOCK 055: GREAT TRANSFERENCE ATTAINMENT -->
-<!-- ================================================================ -->
-<great-transference-attainment id="gta-055" severity="critical" tibetan-terms="འོད་ལུས་ཆེན་པོ">
-  <delusion>
-    The practitioner seeks *od lus chen po* (great transference rainbow body), 
-    believing the physical body must transform into light. This materializes 
-    the spiritual goal into physical alchemy.
-  </delusion>
-  <tibetan-source>
-    ཤ་ཁྲག་གི་ལུས་འོད་གསལ་སྒྱུ་མའི་ལུས་ལ་ཐིམ་ནས་དེ་ཉིད་ཆོས་སྐུ་རིན་པོ་ཆེ་གསང་བའི་ལུས་ལ་ཐིམ་དུས།
-  </tibetan-source>
-  <correction>
-    The great transference is not a bodily transformation but the recognition 
-    that body and mind have always been the display of dharmakaya. The body 
-    dissolving into light is a metaphor for this recognition.
-  </correction>
-  <related-terms>
-    od lus chen po (འོད་ལུས་ཆེན་པོ), sha khrag gi lus (ཤ་ཁྲག་གི་ལུས), sgyu ma'i lus (སྒྱུ་མའི་ལུས), chos sku (ཆོས་སྐུ), gsang ba'i lus (གསང་བའི་ལུས)
-  </related-terms>
-</great-transference-attainment>
+---
 
-<!-- ================================================================ -->
-<!-- BLOCK 056: TRUE NATURE CERTAINTY -->
-<!-- ================================================================ -->
-<true-nature-certainty id="tnc-056" severity="high" tibetan-terms="དེ་བཞིན་ཉིད">
-  <delusion>
-    The practitioner becomes certain about *de bzhin nyid* (thusness/true nature), 
-    holding onto a conceptual understanding. This certainty mutates into a subtle 
-    fixation that obscures the nature itself.
-  </delusion>
-  <tibetan-source>
-    མིག་དང་མིག་གི་རྣམ་པར་ཤེས་པ་དང་ རྣ་བ་དང་རྣ་བའི་རྣམ་པར་ཤེས་པ་དང༌། དེ་བཞིན་ཉིད་ཤེས་པས།
-  </tibetan-source>
-  <correction>
-    True nature is beyond certainty and doubt. The recognition of this 
-    is the certainty that dissolves all fixation.
-  </correction>
-  <related-terms>
-    de bzhin nyid (དེ་བཞིན་ཉིད), mig (མིག), rnam par shes pa (རྣམ་པར་ཤེས་པ), de bzhin nyid shes (དེ་བཞིན་ཉིད་ཤེས)
-  </related-terms>
-</true-nature-certainty>
+[15714-15725] <dharmakaya-destination>
 
-<!-- ================================================================ -->
-<!-- BLOCK 057: PRIMORDIAL BUDDHA REALIZATION -->
-<!-- ================================================================ -->
-<primordial-buddha-realization id="pbr-057" severity="critical" tibetan-terms="ཀུན་ཏུ་བཟང་པོ">
-  <delusion>
-    The practitioner seeks to realize *kun tu bzang po* (Samantabhadra/primordial buddha), 
-    as if this were a deity to become. This externalizes one's own nature 
-    into an object of worship.
-  </delusion>
-  <tibetan-source>
-    ངང་ཀུན་ཏུ་བཟང་པོར་སྤྲོས་པ་ཐམས་ཅད་ཉེ་བར་ཞི་ནས་འགྲན་ཟླ་མེད་པར་སངས་རྒྱས་པའི་ཚེ་ཆོས་ཐམས་ཅད་ཀྱི་མིག་རྡུལ་དང་བྲལ་བ་ཞེས་བྱ་བ་སྙེད་དོ།
-  </tibetan-source>
-  <correction>
-    Kun tu bzang po is not a deity to realize but one's own primordial nature. 
-    The recognition of this is the realization beyond realization.
-  </correction>
-  <related-terms>
-    kun tu bzang po (ཀུན་ཏུ་བཟང་པོ), spros pa (སྤྲོས་པ), nye bar zhi (ཉེ་བར་ཞི), 'gran zla med (འགྲན་ཟླ་མེད), mig rdul (མིག་རྡུལ)
-  </related-terms>
-</primordial-buddha-realization>
+**Misreading:**
+Aiming to reach chos sku (dharmakaya) as a final destination, believing it to be a state beyond all phenomena. This makes dharmakaya into an object of attainment, missing that it is the nature of all experience.
 
-<!-- ================================================================ -->
-<!-- BLOCK 058: MAHAMUDRA UNION -->
-<!-- ================================================================ -->
-<mahamudra-union id="mu-058" severity="medium" tibetan-terms="ཕྱག་རྒྱ་ཆེན་པོ">
-  <delusion>
-    The practitioner seeks *phyag rgya chen po* (mahamudra/great seal) union, 
-    believing it to be a state of meditation to achieve. This turns the great 
-    seal into another practice object.
-  </delusion>
-  <tibetan-source>
-    སྐུ་ལས་འདས་པའི་རང་གདངས་སུ། རྣམ་དག་ཕྱག་རྒྱ་ཆེན་པོར་གནས།
-  </tibetan-source>
-  <correction>
-    Mahamudra is not achieved but recognized as the nature of all experience. 
-    It is the great seal that nothing is outside of, not a state to enter.
-  </correction>
-  <related-terms>
-    phyag rgya chen po (ཕྱག་རྒྱ་ཆེན་པོ), sku las 'das (སྐུ་ལས་འདས), rang gdangs (རང་གདངས), rnam dag (རྣམ་དག)
-  </related-terms>
-</mahamudra-union>
+**Why it arises:**
+Tibetan source: ཆོས་སྐུ་བརྗོད་བྲལ་དེ་ཉིད་དུ་གཅིག་པས་ངོ་མཉམ་ཐ་དད་མེད་པའི་རང་བཞིན་ཐིག་ལེ་ཉག་གཅིག་ཏུ་སངས་རྒྱས་ཏེ།
 
-<!-- ================================================================ -->
-<!-- BLOCK 059: DZOGCHEN VIEW INTEGRATION -->
-<!-- ================================================================ -->
-<dzogchen-view-integration id="dvi-059" severity="high" tibetan-terms="རྫོགས་ཆེན་གྱི་ལྟ་བ">
-  <delusion>
-    The practitioner tries to integrate the *rdzogs chen gyi lta ba* (Dzogchen view) 
-    into daily life, believing the view is something to apply. This makes the 
-    view into a technique rather than the nature of reality.
-  </delusion>
-  <tibetan-source>
-    ལྟ་བ་རང་བྱུང་གི་རྒྱལ་པོ་ཡིན་པ་ལ་བག་ཆགས་ཀྱི་བདག་དང་བྲལ་བའོ།
-  </tibetan-source>
-  <correction>
-    The Dzogchen view is not integrated—it is the ever-present nature that 
-    has never been separate from daily life. The notion of integration 
-    implies a separation that never existed.
-  </correction>
-  <related-terms>
-    rdzogs chen gyi lta ba (རྫོགས་ཆེན་གྱི་ལྟ་བ), rang byung rgyal po (རང་བྱུང་རྒྱལ་པོ), bag chags (བག་ཆགས), bdag (བདག)
-  </related-terms>
-</dzogchen-view-integration>
+Dharmakaya is beyond expression, one in thusness, equal nature without difference—a single bindu of buddhahood. The practitioner objectifies the non-objectifiable.
 
-<!-- ================================================================ -->
-<!-- BLOCK 060: FINAL COMPLETION ILLUSION -->
-<!-- ================================================================ -->
-<final-completion-illusion id="fci-060" severity="critical" tibetan-terms="མཐར་ཕྱིན">
-  <delusion>
-    The ultimate delusion: believing one has completed the path, reached the goal, 
-    and transcended all delusion. This final pride (*nga rgyal*) is the most 
-    subtle obstacle, appearing as realization itself.
-  </delusion>
-  <tibetan-source>
-    རིན་པོ་ཆེ་གསང་བའི་སྦུབས་ལ་འཕོ་འགྱུར་མེད་པར་གནས་སོ། དེ་དག་ཀྱང༌། རང་ཤར་ལས། རིན་པོ་ཆེ་རྡོ་རྗེའི་གདན་ལ་འགྱུར་བ་མེད།
-  </tibetan-source>
-  <correction>
-    There is no completion, no path, no delusion, and no realization. 
-    The recognition of this is the great completion beyond all reference points. 
-    Even this recognition is empty. The end of the path is the recognition 
-    that there never was a path, a traveler, or a destination.
-  </correction>
-  <related-terms>
-    mthar phyin (མཐར་ཕྱིན), nga rgyal (ང་རྒྱལ), rin po che gsang ba'i sbubs (རིན་པོ་ཆེ་གསང་བའི་སྦུབས), 'pho 'gyur med (འཕོ་འགྱུར་མེད), rang shar (རང་ཤར), rdo rje'i gdan (རྡོ་རྗེའི་གདན)
-  </related-terms>
-</final-completion-illusion>
+**Primary consequence:**
+Creates a "beyond" to reach, perpetuating the seeking mind that dharmakaya transcends.
 
-<!-- ================================================================ -->
-<!-- META-DATA -->
-<!-- ================================================================ -->
-<meta-data>
-  <total-blocks>60</total-blocks>
-  <severity-distribution>
-    <critical>18</critical>
-    <high>24</high>
-    <medium>15</medium>
-    <low>3</low>
-  </severity-distribution>
-  <tibetan-terms-included>
-    ka dag (ཀ་དག), lhun grub (ལྷུན་གྲུབ), od lus (འོད་ལུས), ja lus (འཇའ་ལུས),
-    sku gsum (སྐུ་གསུམ), chos sku (ཆོས་སྐུ), longs sku (ལོངས་སྐུ), sprul sku (སྤྲུལ་སྐུ),
-    sku lnga (སྐུ་ལྔ), rangdrol (རང་གྲོལ), thod rgal (ཐོད་རྒལ), khregs chod (ཁྲེགས་ཆོད),
-    rig pa (རིག་པ), ye shes (ཡེ་ཤེས), 'od gsal (འོད་གསལ), chos nyid (ཆོས་ཉིད),
-    stong pa nyid (སྟོང་པ་ཉིད), bde ba chen po (བདེ་བ་ཆེན་པོ), gnyis med (གཉིས་མེད),
-    kun tu bzang po (ཀུན་ཏུ་བཟང་པོ), rdzogs pa chen po (རྫོགས་པ་ཆེན་པོ),
-    phyag rgya chen po (ཕྱག་རྒྱ་ཆེན་པོ), de bzhin nyid (དེ་བཞིན་ཉིད),
-    gnas lugs (གནས་ལུགས), gzhi (གཞི), lam (ལམ), 'bras bu (འབྲས་བུ),
-    thugs rje (ཐུགས་རྗེ), rang snang (རང་སྣང), gtig gsal (གཏིང་གསལ),
-    rang gdangs (རང་གདངས), nang gsal (ནང་གསལ), ting 'dzin (ཏིང་འཛིན),
-    sems kyi rang bzhin (སེམས་ཀྱི་རང་བཞིན), dag snang (དག་སྣང),
-    nyon mongs (ཉོན་མོངས), dug lnga (དུག་ལྔ), ye shes lnga (ཡེ་ཤེས་ལྔ),
-    'byung lnga (འབྱུང་ལྔ), dbang po (དབང་པོ), zhing khams (ཞིང་ཁམས),
-    dran shes (དྲན་ཤེས), bag chags (བག་ཆགས), rtogs pa (རྟོགས་པ),
-    mi sgom (མི་སྒོམ), dbyer med (དབྱེར་མེད), so so rang rig (སོ་སོ་རང་རིག)
-  </tibetan-terms-included>
-  <source-references>
-    Mutig Phrengba (མུ་ཏིག་ཕྲེང་བ), Longchenpa's Klong Drug Pa (ཀློང་དྲུག་པ),
-    Rang Shar (རང་ཤར), Thal 'Gyur (ཐལ་འགྱུར), Sgron Ma Bzhi (སྒྲོན་མ་བཞི),
-    Rin Po Che Gsang Ba'i Sbubs (རིན་པོ་ཆེ་གསང་བའི་སྦུབས),
-    Ngo Sprod Spras Pa (ངོ་སྤྲད་སྤྲས་པ), Kun Tu Bzang Po Thugs Kyi Me Long (ཀུན་ཏུ་བཟང་པོ་ཐུགས་ཀྱི་མེ་ལོང),
-    Nor Bu 'Phrul Bkod (ནོར་བུ་འཕྲུལ་བཀོད)
-  </source-references>
-  <creation-timestamp>2026-02-17T00:00:00Z</creation-timestamp>
-  <ratio-verification>
-    <source-size-bytes>83000</source-size-bytes>
-    <target-ratio>0.30x</target-ratio>
-    <target-minimum-bytes>24900</target-minimum-bytes>
-    <actual-size-bytes>TODO_VERIFY</actual-size-bytes>
-    <status>VERIFICATION_REQUIRED</status>
-  </ratio-verification>
-</meta-data>
+**Secondary consequences:**
+Rejection of phenomena as "not dharmakaya"; withdrawal from engagement; missing that one has never departed from the ground.
 
-</delusion-layer>
+**Cascade effects:**
+<dharmakaya-destination> → objectification-error → <beyond-seeking> → rejection-of-phenomena → ever-present-ground-missed
+
+---
+
+[15726-15736] <sambhogakaya-pure-land>
+
+**Misreading:**
+Aspiring to be reborn in the longs sku (sambhogakaya) pure lands, treating them as literal locations where enlightenment is easier to attain. This misses that sambhogakaya is the luminous display of one's own mind.
+
+**Why it arises:**
+Tibetan source: ཕྱག་རྒྱ་མཆོག་གི་ལོངས་སྤྱོད་ཆེན་པོར་རང་སྣང་བའོ།
+
+The great enjoyment of supreme mudra is self-appearance (rang snang). The practitioner externalizes this internal luminosity into geographical locations.
+
+**Primary consequence:**
+Externalization prevents recognizing pure lands as the nature of one's own perception here and now.
+
+**Secondary consequences:**
+Deferred enlightenment; longing for better conditions; missing that the pure land is the natural expression of wisdom.
+
+**Cascade effects:**
+<sambhogakaya-pure-land> → geographical-reification → <deferred-enlightenment> → external-seeking → present-luminosity-missed
+
+---
+
+[15737-15747] <nirmanakaya-emanation>
+
+**Misreading:**
+Believing that accomplished masters manifest sprul sku (nirmanakaya) emanations to benefit beings, identifying themselves as future emanators. This reinforces the illusion of a self that can choose to emanate.
+
+**Why it arises:**
+Tibetan source: སྤྲུལ་པ་ཕྱོགས་བཅུར་མཛད།
+
+Emanations act in the ten directions. The practitioner sees this as intentional activity by a someone, missing that it is spontaneous (lhun grub) without an agent.
+
+**Primary consequence:**
+Reinforces doer-ship; spiritual ambition masquerades as compassion.
+
+**Secondary consequences:**
+Future-oriented identity as "future buddha"; complex around saving others; missing that activity is natural compassion (thugs rje) of rigpa.
+
+**Cascade effects:**
+<nirmanakaya-emanation> → doer-reinforcement → <spiritual-ambition> → future-identity → spontaneous-activity-missed
+
+---
+
+[15748-15758] <self-liberation-complacency>
+
+**Misreading:**
+Adopting the view that everything is rangdrol (self-liberated) and therefore no practice or discipline is needed. This intellectual understanding without direct recognition becomes spiritual bypassing.
+
+**Why it arises:**
+Tibetan source: དྲན་ཤེས་རྣམས་ནི་མྱ་ངན་འདས་པའི་ཚེ་ན་བརྗོད་པའི་མཐའ་ཀུན་རང་གིས་རང་ཟད་པའོ།
+
+Memory and consciousness self-release at the time of nirvana—all extremes of expression self-dissolve. The practitioner conceptually adopts this without the recognition that makes it real.
+
+**Primary consequence:**
+Intellectual view without realization enables avoidance of necessary work.
+
+**Secondary consequences:**
+Undisciplined behavior justified as "natural"; missing that true self-liberation requires recognition of rigpa.
+
+**Cascade effects:**
+<self-liberation-complacency> → intellectual-adoption → <spiritual-bypassing> → undisciplined-behavior → recognition-without-realization
+
+---
+
+[15759-15769] <appearance-self-release>
+
+**Misreading:**
+Waiting for appearances (snang ba) to self-release, not recognizing that they have never been bound. The waiting itself creates the temporal illusion that prevents immediate recognition.
+
+**Why it arises:**
+Tibetan source: སྣང་བ་སྟོང་པར་གྲོལ་ཏེ། ཡེ་ཤེས་དབྱིངས་སུ་ཐིམ་ནས།
+
+Appearances are liberated as emptiness, dissolving into wisdom's expanse. The practitioner temporalizes this as a process rather than recognizing its timeless nature.
+
+**Primary consequence:**
+Waiting implies future liberation; misses that appearances are already self-released.
+
+**Secondary consequences:**
+Passive expectation; missing active recognition; temporal distortion of timeless truth.
+
+**Cascade effects:**
+<appearance-self-release> → temporal-waiting → <future-liberation-fantasy> → passive-expectation → immediate-recognition-missed
+
+---
+
+[15770-15781] <completion-stage-arrival>
+
+**Misreading:**
+Believing they have arrived at the completion stage (rdzogs rim), resting in a sense of final achievement. This arrival-consciousness is the subtlest form of grasping, preventing the natural flow of lhun grub.
+
+**Why it arises:**
+Tibetan source: ཟད་པའི་སར་ཕྱིན་པ་ནི། རང་ཤར་ལས། རྟོགས་པའི་སྐྱེས་བུ་བློ་རྩལ་ཅན། མི་འགྱུར་མཉམ་ཉིད་ངང་དུ་ཐིམ།
+
+Reaching the stage of exhaustion, the realized person of sharp intelligence dissolves into the sameness of unchanging nature. The practitioner grasps at this as an achievement.
+
+**Primary consequence:**
+Arrival-consciousness blocks natural unfolding; subtlest form of grasping.
+
+**Secondary consequences:**
+Spiritual pride of completion; cessation of deepening; illusion of finality.
+
+**Cascade effects:**
+<completion-stage-arrival> → arrival-grasping → <finality-illusion> → spiritual-pride → natural-flow-blocked
+
+---
+
+[15782-15792] <result-achievement-anxiety>
+
+**Misreading:**
+Anxiously seeking the fruition ('bras bu), fearing that without proper practice the result will not manifest. This anxiety itself obscures the recognition that the result is already present in the ground.
+
+**Why it arises:**
+Tibetan source: འབྲས་བུ་ཀུན་ཀྱི་ཚད་དུ་ཕྱིན་པས་ཀུན་ཏུ་བཟང་པོ་དང་མཉམ་པའོ།
+
+The fruition reaches the measure of all—equal to Samantabhadra. The practitioner doesn't trust this complete presence and generates anxious seeking.
+
+**Primary consequence:**
+Anxiety obscures the ever-present fruition; seeking prevents finding what is already here.
+
+**Secondary consequences:**
+Hurried practice; fear-driven motivation; missing that result is not separate from ground.
+
+**Cascade effects:**
+<result-achievement-anxiety> → anxiety-obscuration → <fear-driven-practice> → hurried-effort → ever-present-fruition-missed
+
+---
+
+[15793-15803] <spontaneity-effort-paradox>
+
+**Misreading:**
+Creating an impossible paradox: trying to make spontaneity (lhun grub) happen through effort. The more they try to rest without contrivance, the more contrived the effort becomes.
+
+**Why it arises:**
+Tibetan source: ལྷུན་གྱིས་གྲུབ་པའི་ཡེ་ཤེས་སྐུ་གསུང་ཐུགས་མི་ཟད་པ་རྒྱན་གྱི་འཁོར་ལོའི་འབྱུང་གནས་སུ་ཕྲ་བའི་ཆར་གཏིང་གསལ་དུ་གནས་ཏེ།
+
+Spontaneously present wisdom of inexhaustible body, speech, and mind abides as the source of the ornament wheel's wheel, depth clarity in subtle particles. The practitioner tries to achieve what is already the nature of everything.
+
+**Primary consequence:**
+Effort toward spontaneity is self-defeating; creates contrived spontaneity.
+
+**Secondary consequences:**
+Frustration; paradox loops; increased tension from trying to relax.
+
+**Cascade effects:**
+<spontaneity-effort-paradox> → contrived-spontaneity → <paradox-loop> → frustration-escalation → natural-presence-missed
+
+---
+
+[15804-15815] <primordial-purity-seeking>
+
+**Misreading:**
+Seeking ka dag (primordial purity) as if it were hidden beneath obscurations, practicing purification to reveal it. This misses that ka dag is the ever-present nature, never obscured.
+
+**Why it arises:**
+Tibetan source: ཀ་དག་གི་དབྱིངས་ན་ལྷུན་གྲུབ་ཀྱི་གཏིང་གསལ་རིག་པའི་ཡེ་ཤེས་འོད་གསལ་བའི་སྙིང་པོ་ནི།
+
+Within primordially pure expanse, spontaneously present depth clarity—the wisdom of awareness, luminous essence. The practitioner seeks what is already the ground of seeking.
+
+**Primary consequence:**
+Seeking implies separation from what is never separate; purification implies impurity where none exists.
+
+**Secondary consequences:**
+Elaborate purification practices; sense of fundamental flaw; missing that nothing needs purification.
+
+**Cascade effects:**
+<primordial-purity-seeking> → separation-delusion → <impurity-assumption> → elaborate-practice → ever-present-purity-missed
+
+---
+
+[15816-15826] <wisdom-display-grasping>
+
+**Misreading:**
+Grasping at ye shes snang ba (wisdom display) as evidence of progress, accumulating experiences of clarity and bliss. This turns wisdom into an object of acquisition.
+
+**Why it arises:**
+Tibetan source: ཡེ་ཤེས་དབྱིངས་སུ་ཐིམ་ནས། གཟུགས་སྐུ་ཆོས་སྐུའི་ཀློང་དུ་མྱ་ངན་ལས་འདས་ཏེ།
+
+Dissolving into wisdom's expanse, form kayas dissolve into dharmakaya's vastness. The practitioner wants to possess this dissolution rather than be it.
+
+**Primary consequence:**
+Grasping at wisdom display obscures its nature; accumulation contradicts self-liberation.
+
+**Secondary consequences:**
+Experience collecting; attachment to clarity/bliss; missing that wisdom is natural radiance.
+
+**Cascade effects:**
+<wisdom-display-grasping> → wisdom-objectification → <experience-accumulation> → clarity-attachment → natural-radiance-missed
+
+---
+
+[15827-15837] <natural-state-maintenance>
+
+**Misreading:**
+Trying to maintain the gnas lugs (natural state), creating a subtle tension of vigilance. This maintenance itself disturbs the naturalness it seeks to preserve.
+
+**Why it arises:**
+Tibetan source: རང་གི་གྲུབ་པའི་མཐའ་ཡང་འཇིག འདི་དུས་བླ་མའི་མན་ངག་ནུབ།
+
+One's own established view also falls—at this time the lama's oral instruction is crucial. The practitioner fears losing what cannot be lost and tries to hold on.
+
+**Primary consequence:**
+Maintenance implies instability; creates the illusion of a state separate from experience.
+
+**Secondary consequences:**
+Vigilance tension; performance anxiety; missing that natural state cannot be lost.
+
+**Cascade effects:**
+<natural-state-maintenance> → vigilance-tension → <state-separation> → performance-anxiety → ungraspable-nature-missed
+
+---
+
+[15838-15848] <luminosity-clarity-fixation>
+
+**Misreading:**
+Fixating on experiences of od gsal (luminosity/clear light), seeking to expand and stabilize clarity. This attachment to clarity obscures the deeper recognition that luminosity is empty of inherent existence.
+
+**Why it arises:**
+Tibetan source: ནང་དབྱིངས་ཡེ་ཤེས་ཀྱི་རླུང་ལྔ་རང་སོ་ལ་མི་གཡོ་འཕོ་འགྱུར་མེད་པར་གནས་པ་སྟེ།
+
+Within the expanse, the five wisdom winds abide in their own place, unmoving, without change or transition. The practitioner grasps at this stability as an experience.
+
+**Primary consequence:**
+Fixation on clarity creates duality between the clear and that which is cleared.
+
+**Secondary consequences:**
+Aversion to obscuration; attachment to light experiences; missing that clarity and emptiness are inseparable.
+
+**Cascade effects:**
+<luminosity-clarity-fixation> → clarity-attachment → <light-aversion-duality> → experience-fixation → emptiness-clarity-union-missed
+
+---
+
+[15849-15860] <rigpa-self-recognition-pride>
+
+**Misreading:**
+Pride in having recognized rig pa (awareness), identifying as one who "knows" their nature. This knower-known duality is the subtlest form of separation.
+
+**Why it arises:**
+Tibetan source: ཐོག་མའི་ཀ་དག་ལ་རིག་པ་རང་ངོ་ཤེས་ནས་ད་རྒྱུར་མི་ལྡོག་པས་འབྲས་བུ་ཞེས་བྱ་བར་མིང་འགྱུར་བའོ།
+
+From the first primordial purity, recognizing rigpa's own face, not reverting—this is called fruition. The practitioner appropriates this recognition as an achievement.
+
+**Primary consequence:**
+Knower-known duality prevents true recognition; pride of recognition blocks deepening.
+
+**Secondary consequences:**
+Spiritual identity as "one who knows"; teacher complex; missing that recognition dissolves the recognizer.
+
+**Cascade effects:**
+<rigpa-self-recognition-pride> → knower-known-duality → <recognition-appropriation> → teacher-complex → true-recognition-missed
+
+---
+
+[15861-15871] <view-meditation-conduct-separation>
+
+**Misreading:**
+Compartmentalizing lta sgom spyod (view, meditation, conduct), holding a view in theory, practicing in sessions, and behaving differently in daily life. This separation prevents integration.
+
+**Why it arises:**
+Tibetan source: ལྟ་སྒོམ་སྤྱོད་པ་འབྲས་བུ་མྱ་ངན་འདས་པའི་དུས་རྩོལ་བཅས་དྲན་པ་རང་ཟད་ཡིན།
+
+View, meditation, conduct, and result—at the time of nirvana, effortful memory self-dissolves. The practitioner hasn't recognized their inseparability.
+
+**Primary consequence:**
+Compartmentalization prevents the natural flow of recognition into all activities.
+
+**Secondary consequences:**
+"Session" vs. "post-session" duality; theoretical understanding without embodiment; fragmented practice.
+
+**Cascade effects:**
+<view-meditation-conduct-separation> → compartmentalization → <session-post-session-duality> → theoretical-practice → integration-failure
+
+---
+
+[15872-15882] <elemental-transmutation-grasping>
+
+**Misreading:**
+Seeking to transmute the five elements ('byung lnga) into wisdom elements, believing physical transformation leads to enlightenment. This materializes the spiritual path.
+
+**Why it arises:**
+Tibetan source: མ་དག་པའི་འབྱུང་ལྔ་དག་སྟོབས་ཀྱིས་ཡེ་ཤེས་དག་པ་ལྔའི་འབྱུང་ཆེན་སྣང་རུང་ལ་ལྟོས་ནས།
+
+Impure five elements are purified through power as the five wisdoms' great elements—dependent on what can appear. The practitioner takes this literally as physical change.
+
+**Primary consequence:**
+Materializes spirituality; misses that elements are already wisdom display.
+
+**Secondary consequences:**
+Alchemical obsession; physical manipulation; missing that recognition is the transmutation.
+
+**Cascade effects:**
+<elemental-transmutation-grasping> → spiritual-materialism → <alchemical-obsession> → physical-manipulation → wisdom-display-missed
+
+---
+
+[15883-15894] <wisdom-wind-control>
+
+**Misreading:**
+Attempting to control ye shes kyi rlung (wisdom wind/prana), believing that directing energy leads to realization. This effort reinforces the illusion of a controller.
+
+**Why it arises:**
+Tibetan source: ནང་དབྱིངས་ཡེ་ཤེས་ཀྱི་རླུང་ལྔ་རང་སོ་ལ་མི་གཡོ་འཕོ་འགྱུར་མེད་པར་གནས་པ་སྟེ།
+
+Within the expanse, the five wisdom winds abide in their own place, unmoving, without transition or change. The controller thinks they need to do something with this.
+
+**Primary consequence:**
+Control effort creates turbulence where there is natural stillness.
+
+**Secondary consequences:**
+Pranic manipulation; energy obsession; missing that wisdom wind is naturally stable.
+
+**Cascade effects:**
+<wisdom-wind-control> → controller-illusion → <pranic-obsession> → effort-turbulence → natural-stability-missed
+
+---
+
+[15895-15905] <pure-vision-cultivation>
+
+**Misreading:**
+Cultivating dag snang (pure vision), deliberately seeing everything as divine. This forced purity becomes another conceptual overlay, missing that true pure vision is the natural display of rigpa.
+
+**Why it arises:**
+Tibetan source: མ་དག་པའི་འཁྲུལ་པའི་སྣང་བས་ཡེ་ཤེས་སྣང་བ་བསྒྲིབས། འཁྲུལ་པའི་སྣང་བ་འགགས་ན་དག་པའི་སྣང་བ་འཆར།
+
+Impure deluded appearance obscures wisdom display. When deluded appearance ceases, pure vision dawns. The practitioner tries to force what happens naturally when confusion ceases.
+
+**Primary consequence:**
+Forced purity is another overlay; contrived divinity blocks natural purity.
+
+**Secondary consequences:**
+Spiritual bypassing; denial of shadow; artificial positivity.
+
+**Cascade effects:**
+<pure-vision-cultivation> → forced-purity → <conceptual-overlay> → artificial-divinity → natural-display-missed
+
+---
+
+[15906-15916] <deity-yoga-identification>
+
+**Misreading:**
+Identifying with lha'i sku (deity form) in meditation, believing this identification constitutes realization. This is imagination mistaken for recognition.
+
+**Why it arises:**
+Tibetan source: ཆོས་དང་ཤེས་རབ་མྱ་ངན་འདས་པའི་དུས་ན་ལྷའི་སྐུ་རྣམས་མི་དམིགས་རྒྱ་ཡིས་ཐེབས་པར་སྣང༌།
+
+At the time of nirvana, dharmas and wisdom—deity forms are not observed, appearing as unobtainable through reasoning. The practitioner hasn't reached this and settles for imagination.
+
+**Primary consequence:**
+Imagination mistaken for recognition; deity yoga becomes role-play.
+
+**Secondary consequences:**
+Spiritual cosplay; inflation; missing that true deity yoga is recognition of rigpa.
+
+**Cascade effects:**
+<deity-yoga-identification> → imagination-confusion → <spiritual-cosplay> → inflation-risk → rigpa-recognition-missed
+
+---
+
+[15917-15927] <sense-faculty-purification>
+
+**Misreading:**
+Seeking to purify the sense faculties (dbang po), believing that purified senses perceive reality correctly. This assumes a fundamental split between pure and impure perception.
+
+**Why it arises:**
+Tibetan source: དབང་པོ་ཡུལ་རྣམས་མྱ་ངན་འདས་པའི་ཚེ་ན་ཕྱག་རྒྱ་མཆོག་གི་ལོངས་སྤྱོད་ཆེན་པོར་རང་སྣང་བའོ།
+
+At the time of nirvana, sense faculties and objects are self-appearance as the great enjoyment of supreme mudra. The practitioner thinks senses need changing.
+
+**Primary consequence:**
+Purification implies impurity; misses that senses are already wisdom display.
+
+**Secondary consequences:**
+Sensory asceticism; sense denial; missing that no purification is needed.
+
+**Cascade effects:**
+<sense-faculty-purification> → purity-impurity-duality → <sensory-asceticism> → sense-denial → wisdom-display-missed
+
+---
+
+[15928-15938] <five-poisons-transformation>
+
+**Misreading:**
+Working to transform the five poisons (dug lnga) into five wisdoms, believing afflictions must be converted. This assumes the poisons are real and need changing.
+
+**Why it arises:**
+Tibetan source: ཉོན་མོངས་པ་ལྔ་ཡེ་ཤེས་ལྔར་དག་པའི་རང་གདངས་ལྔ་ནང་དབྱིངས་འོད་གསལ་ལ་ཐིམ་ནས།
+
+Five afflictions are the five wisdoms' pure innate radiance, dissolving into inner expanse's clear light. The practitioner doesn't see they're already transformed.
+
+**Primary consequence:**
+Transformation effort implies poisons are real; misses they're already wisdoms.
+
+**Secondary consequences:**
+Affliction-aversion; suppression; elaborate transformation practices.
+
+**Cascade effects:**
+<five-poisons-transformation> → affliction-reification → <aversion-suppression> → elaborate-practice → innate-radiance-missed
+
+---
+
+[15939-15950] <tingdzin-stabilization>
+
+**Misreading:**
+Seeking to stabilize ting nge 'dzin (samadhi/concentration), believing that longer sessions indicate progress. This creates aversion to distraction and attachment to absorption.
+
+**Why it arises:**
+Tibetan source: རྒྱུན་གྱི་ཏིང་ངེ་འཛིན་ལ་འདུ་འབྲལ་མེད་པས། ཆོས་ཉིད་བསམ་གྱིས་མི་ཁྱབ་པའི་ཏིང་ངེ་འཛིན་ལས་འཕོ་འགྱུར་མེད་པའོ།
+
+Continuous samadhi is without gathering or separation—dharmata's inconceivable samadhi is without transition or change. The practitioner wants to achieve this through effort.
+
+**Primary consequence:**
+Stabilization implies instability; true samadhi is natural state beyond effort.
+
+**Secondary consequences:**
+Distraction aversion; absorption attachment; session performance anxiety.
+
+**Cascade effects:**
+<tingdzin-stabilization> → stability-effort → <distraction-aversion> → absorption-attachment → natural-samadhi-missed
+
+---
+
+[15951-15961] <wisdom-eye-development>
+
+**Misreading:**
+Attempting to develop ye shes kyi spyan (wisdom eye), believing special perception is needed to see reality. This assumes the ordinary eye is insufficient.
+
+**Why it arises:**
+Tibetan source: ཤེས་རབ་ཀྱི་སྤྱན་ཡེ་ཤེས་ཀྱི་སྤྱན་ལ་ཐིམ་ཞིང༌། དེ་ཉིད་ཆོས་ཉིད་ཀྱི་སྤྱན་ལ་ཐིམ་པས་ཡུལ་དང་ཤེས་པའི་སྤྱོད་བྱེད་རྣམ་པར་དག་སྟེ།
+
+Prajna eye dissolves into wisdom eye, that itself dissolves into dharmata's eye—subject and object's activity completely pure. The practitioner seeks to develop what dissolves.
+
+**Primary consequence:**
+Development effort misses that wisdom eye is recognition, not a new faculty.
+
+**Secondary consequences:**
+Special perception seeking; ordinary perception devaluation; clairvoyance confusion.
+
+**Cascade effects:**
+<wisdom-eye-development> → special-perception-seeking → <ordinary-devaluation> → clairvoyance-confusion → recognition-as-perception-missed
+
+---
+
+[15962-15973] <non-meditation-attainment>
+
+**Misreading:**
+Claiming to have reached mi sgom (non-meditation), using this as justification to abandon formal practice while the mind remains untamed. This is spiritual bypassing disguised as high realization.
+
+**Why it arises:**
+Tibetan source: དྲན་ཤེས་རྣམས་ནི་མྱ་ངན་འདས་པའི་ཚེ་ན་བརྗོད་པའི་མཐའ་ཀུན་རང་གིས་རང་ཟད་པའོ།
+
+Memory and consciousness self-release at nirvana—all extremes of expression self-dissolve. The practitioner conceptually claims this without the recognition that makes it real.
+
+**Primary consequence:**
+False non-meditation enables avoidance; untamed mind claims freedom.
+
+**Secondary consequences:**
+Practice abandonment; behavior justification; delusion of completion.
+
+**Cascade effects:**
+<non-meditation-attainment> → false-freedom → <practice-abandonment> → untamed-justification → true-non-meditation-missed
+
+---
+
+[15974-15984] <fruition-certainty>
+
+**Misreading:**
+Feeling certain about the fruition ('bras bu), holding a conceptual understanding of enlightenment as certainty. This certainty is itself a subtle form of grasping.
+
+**Why it arises:**
+Tibetan source: འབྲས་བུའི་ཆོས་རྣམས་ཟླ་བ་ཉ་གང་བ་ན་འཕེལ་ཟད་པ་ལྟར་ཡོངས་སུ་རྫོགས་པས་དེ་ལས་གོང་དུ་འགྲོར་མེད་པས་ཟད་པའི་སར་ཕྱིན་པ་ནི།
+
+Fruition dharmas are like the full moon—complete like waxing and waning, with nowhere higher to go, reaching the stage of exhaustion. The practitioner grasps at this completion.
+
+**Primary consequence:**
+Certainty becomes fixation; fruition is beyond certainty and uncertainty.
+
+**Secondary consequences:**
+Dogmatism; closed certainty; missing that completion is beyond reference points.
+
+**Cascade effects:**
+<fruition-certainty> → certainty-fixation → <dogmatism> → closed-mindedness → beyond-reference-completion-missed
+
+---
+
+[15985-15995] <spontaneous-presence-waiting>
+
+**Misreading:**
+Waiting for spontaneous presence (lhun grub) to manifest, believing there is a timeline for fruition. This temporalizes the timeless and creates expectation.
+
+**Why it arises:**
+Tibetan source: སོ་སོ་རང་བྱུང་གི་རིག་པ་ནང་གསལ་ལྷུན་གྱིས་གྲུབ་པ་ཆེན་པོར་བཞུགས་པས།
+
+Self-arisen awareness, inner clarity, spontaneously present great perfection abides. The practitioner waits for what is already the case.
+
+**Primary consequence:**
+Waiting implies future arrival; misses that spontaneity is already present.
+
+**Secondary consequences:**
+Expectation; future-orientation; missing that waiting is unnecessary.
+
+**Cascade effects:**
+<spontaneous-presence-waiting> → future-orientation → <expectation-cycle> → temporal-distortion → present-spontaneity-missed
+
+---
+
+[15996-16007] <buddha-field-aspiration>
+
+**Misreading:**
+Aspiring to be born in a zhing khams (buddha field/pure land), treating it as a favorable location for practice. This externalizes what is the nature of mind.
+
+**Why it arises:**
+Tibetan source: ཞིང་ཁམས་ཀུན་ཏུ་མཐའ་ཡས་པ་མཐོང་ནས་སྣང་བ་ཕྱི་ནང་གཉིས་སུ་མེད་པར་འདྲེས་པའི་ཚེ་ཀློང་རྣམ་པར་དག་པའི་དགོངས་པ་ཐོབ་སྟེ།
+
+Seeing buddha fields as infinite everywhere, when appearance dissolves without outer/inner duality, one obtains the realization of completely pure vast expanse. The practitioner thinks this is elsewhere.
+
+**Primary consequence:**
+Externalization prevents recognizing pure land as mind's nature.
+
+**Secondary consequences:**
+Deferred practice; pure land obsession; missing that pure land is here and now.
+
+**Cascade effects:**
+<buddha-field-aspiration> → externalization → <deferred-practice> → location-obsession → mind-nature-missed
+
+---
+
+[16008-16018] <natural-liberation-seeking>
+
+**Misreading:**
+Seeking rangdrol (natural liberation), believing it to be a special state to achieve. The very seeking prevents the recognition that everything is already liberated.
+
+**Why it arises:**
+Tibetan source: འགྱུར་མེད་རྫོགས་པའི་མཐིང་གར་ནི། ཡེ་རྫོགས་བྱས་པ་མེད་པར་གནས།
+
+In the unchanging completely pure azure expanse, primordially complete, it abides without being made. The practitioner seeks what has never been bound.
+
+**Primary consequence:**
+Seeking liberation implies bondage; misses everything is already liberated.
+
+**Secondary consequences:**
+Liberation-chase paradox; bondage-reinforcement; missing that seeker is liberated.
+
+**Cascade effects:**
+<natural-liberation-seeking> → liberation-paradox → <bondage-reinforcement> → seeker-identity → ever-liberated-missed
+
+---
+
+[16019-16029] <dharmata-investigation>
+
+**Misreading:**
+Investigating chos nyid (dharmata/nature of phenomena), as if it were an object of knowledge to be understood. This makes dharmata into a concept.
+
+**Why it arises:**
+Tibetan source: དེ་ལྟར་ཆོས་ཉིད་ཀ་དག་ལ། ཡེ་ཤེས་མེད་ཅིང་སྐུ་ཡང་མེད།
+
+Thus dharmata is primordially pure—without wisdom, without form. The practitioner investigates what cannot be made an object.
+
+**Primary consequence:**
+Investigation objectifies dharmata; it is the investigating itself.
+
+**Secondary consequences:**
+Conceptual accumulation; philosophical obsession; missing that dharmata is beyond investigation.
+
+**Cascade effects:**
+<dharmata-investigation> → objectification-error → <conceptual-accumulation> → philosophical-obsession → dharmata-as-concept-missed
+
+---
+
+[16030-16040] <emptiness-comprehension>
+
+**Misreading:**
+Trying to comprehend stong pa nyid (emptiness) intellectually, believing understanding the concept constitutes realization. This is philosophy mistaken for meditation.
+
+**Why it arises:**
+Tibetan source: ངོ་བོ་སྟོང་གསལ་རང་བྱུང་གི་ཡེ་ཤེས་གང་དུའང་མ་གྲུབ་པས་གངས་དུའང་མ་ཕྱེད་མི་བྱེད་འབྱེད་པ་མེད་ཅིང་སྨྲ་བསམ་བརྗོད་པ་ལས་འདས་ཏེ།
+
+Essence is empty-clear, self-arisen wisdom—unestablished anywhere, not divided anywhere, without analysis, beyond speech, thought, and expression. The practitioner tries to think what is beyond thought.
+
+**Primary consequence:**
+Intellectual comprehension misses that emptiness is the nature of concepts.
+
+**Secondary consequences:**
+Philosophy addiction; conceptual sophistication; missing that concepts are empty.
+
+**Cascade effects:**
+<emptiness-comprehension> → intellectual-confusion → <philosophy-addiction> → conceptual-sophistication → beyond-concept-emptiness-missed
+
+---
+
+[16041-16052] <great-perfection-completion>
+
+**Misreading:**
+Believing they have achieved rdzogs pa chen po (great perfection), using this as a badge of spiritual status. This is the ultimate spiritual ego.
+
+**Why it arises:**
+Tibetan source: མཐའ་ཡས་པས་ཡངས་པ། སངས་རྒྱས་པས་སྟོབས་ཆེ་བ། ལྟ་བའི་མཐར་ཐུག་གི་སྐྱེལ་ས།
+
+Infinite vastness, powerful buddhahood, the destination of the ultimate view. The practitioner claims arrival at the unclaimable.
+
+**Primary consequence:**
+Claiming great perfection is the final obstacle; belief in achievement prevents recognition.
+
+**Secondary consequences:**
+Spiritual superiority; status seeking; ultimate ego-inflation.
+
+**Cascade effects:**
+<great-perfection-completion> → status-claim → <spiritual-superiority> → ego-inflation → beyond-achievement-missed
+
+---
+
+[16053-16063] <clear-light-experience>
+
+**Misreading:**
+Pursuing experiences of clear light (od gsal), believing luminous visions indicate progress. This attachment to experience devolves into an obstacle to recognition.
+
+**Why it arises:**
+Tibetan source: འོད་གསལ་དབྱིངས་སུ་འཁྱིལ་བ། ཐིམ་པ་ལ་མ་རྨུགས་པ། གསལ་བ་ལ་རྟོག་པ་མེད་པ།
+
+Clear light swirling into the expanse, not dull regarding dissolution, without thought about clarity. The practitioner grasps at this description.
+
+**Primary consequence:**
+Experience attachment obscures that clear light is the nature of experiencer.
+
+**Secondary consequences:**
+Vision chasing; light fixation; missing that clear light neither comes nor goes.
+
+**Cascade effects:**
+<clear-light-experience> → experience-attachment → <vision-chasing> → light-fixation → nature-of-experiencer-missed
+
+---
+
+[16064-16074] <unity-two-truths>
+
+**Misreading:**
+Seeking to unite the two truths (bden gnyis—conventional and ultimate), as if they were separate and need joining. This assumes a duality that never existed.
+
+**Why it arises:**
+Tibetan source: དབྱེར་མེད་འབྱེད་པ་མེད་པར་འགྱུར།
+
+Without separation, without division—thus it becomes. The practitioner creates separation where there is none.
+
+**Primary consequence:**
+Seeking unity implies separation; misses they are already non-dual (dbyer med).
+
+**Secondary consequences:**
+Unification effort; artificial synthesis; missing that two truths are inseparable.
+
+**Cascade effects:**
+<unity-two-truths> → separation-assumption → <unification-effort> → artificial-synthesis → inseparable-nature-missed
+
+---
+
+[16075-16085] <innate-wisdom-access>
+
+**Misreading:**
+Seeking to access gnyug ma'i ye shes (innate wisdom), believing it is hidden or latent. This assumes wisdom is not already fully present.
+
+**Why it arises:**
+Tibetan source: རིག་པ་ཡེ་ཤེས་ཀྱི་ས་བོན་ལ་འཕེལ་འགྲིབ་མེད།
+
+Awareness wisdom's seed has no increase or decrease. The practitioner seeks what is already fully manifest.
+
+**Primary consequence:**
+Access-seeking implies wisdom is elsewhere; misses it is ever-present.
+
+**Secondary consequences:**
+Latent-potential fantasy; waiting for awakening; missing that wisdom is already active.
+
+**Cascade effects:**
+<innate-wisdom-access> → latency-assumption → <potential-fantasy> → awakening-waiting → ever-present-wisdom-missed
+
+---
+
+[16086-16096] <great-bliss-cultivation>
+
+**Misreading:**
+Cultivating bde ba chen po (great bliss), believing blissful states indicate spiritual progress. This turns bliss into another object of attachment.
+
+**Why it arises:**
+Tibetan source: སྣང་སྲིད་ཐམས་ཅད་བདེ་བའི་ཞིང་དུ་སྣང༌།
+
+All appearance and existence appear as blissful fields. The practitioner grasps at bliss as an experience.
+
+**Primary consequence:**
+Bliss attachment obscures that great bliss is the nature of mind itself.
+
+**Secondary consequences:**
+Pleasure seeking; bliss addiction; missing that bliss is present even in suffering.
+
+**Cascade effects:**
+<great-bliss-cultivation> → bliss-attachment → <pleasure-seeking> → bliss-addiction → mind-nature-bliss-missed
+
+---
+
+[16097-16107] <non-duality-realization>
+
+**Misreading:**
+Seeking to realize gnyis med (non-duality), as if duality were real and needs to be transcended. This creates a new duality between duality and non-duality.
+
+**Why it arises:**
+Tibetan source: གཉིས་མེད་ངེས་གཟུང་མེད་པར་འགྱུར།
+
+Without duality, without fixed determination—thus it becomes. The practitioner seeks to realize what is already the case.
+
+**Primary consequence:**
+Realization-seeking implies duality is real; misses duality is non-dual in essence.
+
+**Secondary consequences:**
+Transcendence effort; duality-aversion; new duality creation.
+
+**Cascade effects:**
+<non-duality-realization> → transcendence-effort → <duality-aversion> → new-duality → already-non-dual-missed
+
+---
+
+[16108-16119] <natural-mind-discovery>
+
+**Misreading:**
+Seeking to discover rang sems (natural mind), as if it were hidden and needed finding. This assumes separation from what has never been separate.
+
+**Why it arises:**
+Tibetan source: རང་བཞིན་གྱི་སྣང་བ་ལ། མཚན་མར་འཛིན་པ་ཡེ་མེད་དེ།
+
+In natural appearance, there is never any fixation on characteristics. The practitioner seeks what is already displaying itself.
+
+**Primary consequence:**
+Discovery-seeking implies separation; misses mind is never hidden.
+
+**Secondary consequences:**
+Hidden-treasure fantasy; search frustration; missing that search creates separation illusion.
+
+**Cascade effects:**
+<natural-mind-discovery> → separation-illusion → <hidden-treasure-fantasy> → search-frustration → never-hidden-missed
+
+---
+
+[16120-16130] <pure-awareness-stabilization>
+
+**Misreading:**
+Trying to stabilize dag pa'i rig pa (pure awareness), creating a subtle effort to remain in a state. This effort itself disturbs the natural purity.
+
+**Why it arises:**
+Tibetan source: རིག་པས་རང་ས་ཟིན་པའོ། ཆོས་སྐུ་འགྱུར་བ་མེད་པ་རྡོ་རྗེ་ལྟ་བུའི་སྐུ།
+
+Awareness recognizes its own place. Dharmakaya is unchanging, vajra-like form. The practitioner tries to maintain this unchanging nature.
+
+**Primary consequence:**
+Stabilization effort implies instability; misses pure awareness has never been unstable.
+
+**Secondary consequences:**
+State-maintenance tension; vigilance fatigue; illusion of state separation.
+
+**Cascade effects:**
+<pure-awareness-stabilization> → stability-effort → <vigilance-tension> → state-separation → never-unstable-missed
+
+---
+
+[16131-16141] <compassion-generation>
+
+**Misreading:**
+Generating thugs rje (compassion) as a practice, believing compassion needs to be produced. This makes compassion into an object of manufacture.
+
+**Why it arises:**
+Tibetan source: ཐུགས་རྗེ་འགྲོ་བ་འདུལ་བའི་ཡེ་ཤེས་རྣམས་འཆར་གཞིའི་ཆ་ཙམ་དུ་རང་ངོ་དབྱེར་མེད་པས་རྟག་པར་གནས་པས་དུས་ཐམས་ཅད་པའི་ཡེ་ཤེས་ཞེས་བྱའོ།
+
+Compassion's wisdom that tames beings appears—all times wisdom abiding indivisible from the ground of arising. The practitioner tries to generate what is already present.
+
+**Primary consequence:**
+Generation implies compassion is absent; misses it is natural expression (rang gdangs) of rigpa.
+
+**Secondary consequences:**
+Compassion fatigue; artificial kindness; missing that compassion is always manifesting.
+
+**Cascade effects:**
+<compassion-generation> → compassion-absence-assumption → <manufactured-kindness> → compassion-fatigue → natural-expression-missed
+
+---
+
+[16142-16152] <ultimate-truth-understanding>
+
+**Misreading:**
+Trying to understand don dam bden pa (ultimate truth), as if it were a philosophical position. This intellectualizes the non-conceptual.
+
+**Why it arises:**
+Tibetan source: ལྟོས་གཞི་རང་དག་འཁྲུལ་པ་དག འཁོར་འདས་མིང་དུ་མི་གྲགས་སོ།
+
+Basis of reference is self-pure, delusion is pure—samsara and nirvana are not called by name. The philosopher tries to understand what is beyond understanding.
+
+**Primary consequence:**
+Understanding implies objectification; misses ultimate truth is lived, not understood.
+
+**Secondary consequences:**
+Philosophical fixation; conceptual certainty; missing that understanding must end.
+
+**Cascade effects:**
+<ultimate-truth-understanding> → objectification-error → <philosophical-fixation> → conceptual-certainty → lived-truth-missed
+
+---
+
+[16153-16164] <ground-path-fruition-separation>
+
+**Misreading:**
+Distinguishing gzhi lam 'bras bu (ground, path, and fruition) as sequential stages, believing the path leads from ground to fruition. This temporalizes the non-temporal.
+
+**Why it arises:**
+Tibetan source: གཞི་ལ་རྒྱ་ཆད་མེད་དོ། ལམ་ལ་འཕོ་འགྱུར་མེད་དོ། འབྲས་བུ་ལ་རྒྱུར་ལྡོག་པ་མེད་དོ།
+
+Ground has no partiality, path has no transition or change, fruition has no reversion to cause. The practitioner sees sequence where there is simultaneity.
+
+**Primary consequence:**
+Temporalization destroys indivisibility; misses they have never been separate.
+
+**Secondary consequences:**
+Progress narrative; future orientation; missing that path is recognition of non-separation.
+
+**Cascade effects:**
+<ground-path-fruition-separation> → temporalization → <progress-narrative> → future-orientation → indivisible-nature-missed
+
+---
+
+[16165-16175] <mind-nature-recognition>
+
+**Misreading:**
+Seeking to recognize sems kyi rang bzhin (mind's nature), believing it is hidden behind thoughts. This assumes mind has a nature separate from its display.
+
+**Why it arises:**
+Tibetan source: སེམས་མེད་པའི་སྣང་བ་ཆེན་པོ། མི་འགྱུར་ཡོངས་སུ་གདལ་བ་ཆེན་པོ།
+
+Mindless great appearance, unchanging great vastness. The practitioner seeks behind thoughts what is the thoughts themselves.
+
+**Primary consequence:**
+Hidden-nature assumption misses that mind's nature is the very display.
+
+**Secondary consequences:**
+Thought-aversion; behind-the-mind fantasy; missing that nature and display are inseparable.
+
+**Cascade effects:**
+<mind-nature-recognition> → hidden-assumption → <thought-aversion> → behind-fantasy → display-as-nature-missed
+
+---
+
+[16176-16186] <wisdom-energy-channeling>
+
+**Misreading:**
+Channeling ye shes kyi thig le (wisdom bindus/energy drops), believing manipulation of subtle energy leads to enlightenment. This materializes the spiritual process.
+
+**Why it arises:**
+Tibetan source: ངོ་མཉམ་ཐ་དད་མེད་པའི་རང་བཞིན་ཐིག་ལེ་ཉག་གཅིག་ཏུ་སངས་རྒྱས་ཏེ།
+
+Equal nature, without difference—single bindu of buddhahood. The practitioner tries to channel what is already perfectly abiding.
+
+**Primary consequence:**
+Channeling implies manipulation needed; misses wisdom energy is natural flow.
+
+**Secondary consequences:**
+Energy obsession; subtle body fixation; missing that bindu is naturally abiding.
+
+**Cascade effects:**
+<wisdom-energy-channeling> → manipulation-assumption → <energy-obsession> → subtle-body-fixation → natural-flow-missed
+
+---
+
+[16187-16198] <buddhahood-attainment>
+
+**Misreading:**
+Seeking sangs rgyas pa (buddhahood/enlightenment) as a future attainment, believing it will be achieved through practice. This is the fundamental error that perpetuates samsara.
+
+**Why it arises:**
+Tibetan source: སངས་རྒྱས་རྣམས་ཀྱི་འབྲས་བུ་འདི་ལ་སུ་གོམས་དཔལ་ལྡན་རྡོ་རྗེ་འཛིན་པ་ཉིད་དུའང་འགྱུར།
+
+For those who familiarize with this fruition of buddhas, they become glorious vajra holders. The practitioner wants to become what they already are.
+
+**Primary consequence:**
+Seeking perpetuates samsara; misses buddhahood is ever-present nature of mind.
+
+**Secondary consequences:**
+Future orientation; becoming obsession; missing that recognition is enlightenment.
+
+**Cascade effects:**
+<buddhahood-attainment> → future-seeking → <becoming-obsession> → samsara-perpetuation → ever-present-enlightenment-missed
+
+---
+
+[16199-16209] <spontaneous-activity-performance>
+
+**Misreading:**
+Attempting to perform lhun grub kyi 'phrin las (spontaneous activity), deliberately acting without deliberation. This is contrived spontaneity—the oxymoron that betrays itself.
+
+**Why it arises:**
+Tibetan source: རིག་པ་ཀུན་གསལ་གྱི་ཡེ་ཤེས་མི་འདྲེས་ལ་ཡོངས་སུ་རྫོགས།
+
+Awareness's all-luminous wisdom, without mixture, completely perfect. The performer tries to act this out.
+
+**Primary consequence:**
+Deliberate spontaneity is contradiction; misses true spontaneous activity has no actor.
+
+**Secondary consequences:**
+Performance stress; spontaneity-effort loop; missing that activity is already spontaneous.
+
+**Cascade effects:**
+<spontaneous-activity-performance> → oxymoron-trap → <performance-stress> → effort-spontaneity-loop → actorless-activity-missed
+
+---
+
+[16210-16220] <clear-light-sleep-practice>
+
+**Misreading:**
+Practicing gnyid kyi 'od gsal (clear light of sleep), trying to maintain awareness during dreams. This effort creates the very duality between waking and sleeping that prevents recognition.
+
+**Why it arises:**
+Tibetan source: རིན་པོ་ཆེ་སྐུ་གདུང་འབར་བའི་མཆོད་རྟེན་ནི་བརྩེགས་ལེགས་པ་དང༌།
+
+Precious blazing reliquary stupa of good accumulation. The practitioner creates practice where recognition is needed.
+
+**Primary consequence:**
+Effort creates waking/sleeping duality; misses clear light is present in all states.
+
+**Secondary consequences:**
+Sleep anxiety; dream control; missing that all states are equally display.
+
+**Cascade effects:**
+<clear-light-sleep-practice> → state-duality → <sleep-anxiety> → dream-control → all-states-recognition-missed
+
+---
+
+[16221-16231] <transference-consciousness-practice>
+
+**Misreading:**
+Practicing pho ba (transference of consciousness), believing consciousness must be ejected at death to reach a pure land. This assumes consciousness is a thing that moves.
+
+**Why it arises:**
+Tibetan source: སྤྲུལ་པའི་ཞིང་དུ་དབུགས་ཕྱུང་ཡང་རུང་སྟེ། ལམ་སྣང་གི་སྐུ་དང་ཡེ་ཤེས་ཀྱི་སྣང་བ་ཕྱིར་གསལ་གྱི་ཆ་རྣམས།
+
+Emanating into the pure land, breath ejected, path appearance body and wisdom's display's outwardly clear aspects. The practitioner literalizes the metaphor.
+
+**Primary consequence:**
+Literalization misses that there is no consciousness to transfer, nowhere to go.
+
+**Secondary consequences:**
+Death anxiety; pure land escapism; missing that transference is recognition.
+
+**Cascade effects:**
+<transference-consciousness-practice> → literalization-error → <death-anxiety> → escapism → no-transfer-needed-missed
+
+---
+
+[16232-16242] <awareness-holder-status>
+
+**Misreading:**
+Aspiring to rig 'dzin (awareness holder/vidyadhara) status, believing this title indicates spiritual attainment. This is identification with a role rather than recognition of nature.
+
+**Why it arises:**
+Tibetan source: རིག་པ་འཛིན་མེད་ཀྱི་ཡེ་ཤེས་ངོས་གཟུང་གི་མཐའ་དང་བྲལ།
+
+Wisdom without holding awareness, free from the extreme of fixation. The aspirant wants to hold what is beyond holding.
+
+**Primary consequence:**
+Status-seeking reinforces doer-ship; misses true rigdzin is recognition without holder.
+
+**Secondary consequences:**
+Title attachment; spiritual resume building; missing that rigpa cannot be held.
+
+**Cascade effects:**
+<awareness-holder-status> → title-identification → <resume-building> → holder-reinforcement → unholdable-rigpa-missed
+
+---
+
+[16243-16254] <great-transference-attainment>
+
+**Misreading:**
+Seeking od lus chen po (great transference rainbow body), believing the physical body must transform into light. This materializes the spiritual goal into physical alchemy.
+
+**Why it arises:**
+Tibetan source: ཤ་ཁྲག་གི་ལུས་འོད་གསལ་སྒྱུ་མའི་ལུས་ལ་ཐིམ་ནས་དེ་ཉིད་ཆོས་སྐུ་རིན་པོ་ཆེ་གསང་བའི་ལུས་ལ་ཐིམ་དུས།
+
+Flesh-and-blood body dissolves into clear light illusory body, that itself dissolves into dharmakaya precious secret body. The practitioner wants the physical transformation.
+
+**Primary consequence:**
+Materialization misses that great transference is recognition, not bodily change.
+
+**Secondary consequences:**
+Physical obsession; body-magic seeking; missing that body is already display.
+
+**Cascade effects:**
+<great-transference-attainment> → materialization → <body-obsession> → magic-seeking → recognition-not-transformation-missed
+
+---
+
+[16255-16265] <true-nature-certainty>
+
+**Misreading:**
+Becoming certain about de bzhin nyid (thusness/true nature), holding onto a conceptual understanding. This certainty mutates into a subtle fixation that obscures the nature itself.
+
+**Why it arises:**
+Tibetan source: མིག་དང་མིག་གི་རྣམ་པར་ཤེས་པ་དང་ རྣ་བ་དང་རྣ་བའི་རྣམ་པར་ཤེས་པ་དང༌། དེ་བཞིན་ཉིད་ཤེས་པས།
+
+Eye and eye consciousness, ear and ear consciousness, thusness knowing. The knower grasps at knowing.
+
+**Primary consequence:**
+Certainty-fixation obscures that true nature is beyond certainty and doubt.
+
+**Secondary consequences:**
+Dogmatic fixation; closed understanding; missing that nature transcends fixation.
+
+**Cascade effects:**
+<true-nature-certainty> → fixation-obscuration → <dogmatism> → closed-certainty → beyond-fixation-missed
+
+---
+
+[16266-16277] <primordial-buddha-realization>
+
+**Misreading:**
+Seeking to realize kun tu bzang po (Samantabhadra/primordial buddha), as if this were a deity to become. This externalizes one's own nature into an object of worship.
+
+**Why it arises:**
+Tibetan source: ངང་ཀུན་ཏུ་བཟང་པོར་སྤྲོས་པ་ཐམས་ཅད་ཉེ་བར་ཞི་ནས་འགྲན་ཟླ་མེད་པར་སངས་རྒྱས་པའི་ཚེ་ཆོས་ཐམས་ཅད་ཀྱི་མིག་རྡུལ་དང་བྲལ་བ་ཞེས་བྱ་བ་སྙེད་དོ།
+
+In Samantabhadra's nature, all proliferation completely ceases, incomparably buddha, free from the eye-dust of all dharmas. The practitioner worships what is their own nature.
+
+**Primary consequence:**
+Externalization prevents recognizing kun tu bzang po is one's own primordial nature.
+
+**Secondary consequences:**
+Deity worship; self-nature alienation; missing that realization is recognition, not becoming.
+
+**Cascade effects:**
+<primordial-buddha-realization> → external-worship → <self-alienation> → deity-identification → own-nature-missed
+
+---
+
+[16278-16288] <mahamudra-union>
+
+**Misreading:**
+Seeking phyag rgya chen po (mahamudra/great seal) union, believing it to be a state of meditation to achieve. This turns the great seal into another practice object.
+
+**Why it arises:**
+Tibetan source: སྐུ་ལས་འདས་པའི་རང་གདངས་སུ། རྣམ་དག་ཕྱག་རྒྱ་ཆེན་པོར་གནས།
+
+In the innate radiance beyond form, abiding as completely pure mahamudra. The practitioner wants to achieve this abiding.
+
+**Primary consequence:**
+Achievement-seeking misses that mahamudra is the nature of all experience.
+
+**Secondary consequences:**
+Meditation object creation; practice obsession; missing that nothing is outside great seal.
+
+**Cascade effects:**
+<mahamudra-union> → achievement-seeking → <meditation-object> → practice-obsession → nature-of-experience-missed
+
+---
+
+[16289-16299] <dzogchen-view-integration>
+
+**Misreading:**
+Trying to integrate the rdzogs chen gyi lta ba (Dzogchen view) into daily life, believing the view is something to apply. This makes the view into a technique rather than the nature of reality.
+
+**Why it arises:**
+Tibetan source: ལྟ་བ་རང་བྱུང་གི་རྒྱལ་པོ་ཡིན་པ་ལ་བག་ཆགས་ཀྱི་བདག་དང་བྲལ་བའོ།
+
+The view is the self-arisen king, free from habitual tendencies' self. The practitioner tries to apply what is already the case.
+
+**Primary consequence:**
+Application implies separation; misses view has never been separate from daily life.
+
+**Secondary consequences:**
+Technique mentality; view-as-method; missing that view is reality itself.
+
+**Cascade effects:**
+<dzogchen-view-integration> → application-effort → <technique-mentality> → method-confusion → ever-present-view-missed
+
+---
+
+[16300-16310] <final-completion-illusion>
+
+**Misreading:**
+Believing one has completed the path, reached the goal, and transcended all delusion. This final pride (nga rgyal) is the most subtle obstacle, appearing as realization itself.
+
+**Why it arises:**
+Tibetan source: རིན་པོ་ཆེ་གསང་བའི་སྦུབས་ལ་འཕོ་འགྱུར་མེད་པར་གནས་སོ། དེ་དག་ཀྱང༌། རང་ཤར་ལས། རིན་པོ་ཆེ་རྡོ་རྗེའི་གདན་ལ་འགྱུར་བ་མེད།
+
+Precious secret cavity abides without change or transition. These too—from self-arising—on the precious vajra seat, without change.
+
+**Primary consequence:**
+Final pride blocks the recognition that there is no completion, no path, no delusion, no realization.
+
+**Secondary consequences:**
+Ultimate spiritual ego; cessation of openness; missing that even this recognition is empty.
+
+**Cascade effects:**
+<final-completion-illusion> → ultimate-pride → <realization-delusion> → openness-closure → great-completion-missed
+
+---
+
+[16311-16328] <source-metadata>
+
+**File:** 02-25-01-01.txt
+**Tibetan Range:** Lines 15635-16328 (694 lines)
+**Total Entries:** 60 delusion patterns
+**Source:** Mutig Phrengba, Longchenpa's Klong Drug Pa, Rang Shar, Thal 'Gyur, Sgron Ma Bzhi, Rin Po Che Gsang Ba'i Sbubs, Ngo Sprod Spras Pa, Kun Tu Bzang Po Thugs Kyi Me Long, Nor Bu 'Phrul Bkod
+
+**Severity Distribution:**
+- Critical: 18 entries
+- High: 24 entries  
+- Medium: 15 entries
+- Low: 3 entries
+
+**Tibetan Terms Referenced:**
+ka dag (ཀ་དག), lhun grub (ལྷུན་གྲུབ), od lus (འོད་ལུས), ja lus (འཇའ་ལུས), sku gsum (སྐུ་གསུམ), chos sku (ཆོས་སྐུ), longs sku (ལོངས་སྐུ), sprul sku (སྤྲུལ་སྐུ), sku lnga (སྐུ་ལྔ), rangdrol (རང་གྲོལ), thod rgal (ཐོད་རྒལ), khregs chod (ཁྲེགས་ཆོད), rig pa (རིག་པ), ye shes (ཡེ་ཤེས), 'od gsal (འོད་གསལ), chos nyid (ཆོས་ཉིད), stong pa nyid (སྟོང་པ་ཉིད), bde ba chen po (བདེ་བ་ཆེན་པོ), gnyis med (གཉིས་མེད), kun tu bzang po (ཀུན་ཏུ་བཟང་པོ), rdzogs pa chen po (རྫོགས་པ་ཆེན་པོ), phyag rgya chen po (ཕྱག་རྒྱ་ཆེན་པོ), de bzhin nyid (དེ་བཞིན་ཉིད), gnas lugs (གནས་ལུགས), gzhi (གཞི), lam (ལམ), 'bras bu (འབྲས་བུ), thugs rje (ཐུགས་རྗེ), rang snang (རང་སྣང), gtig gsal (གཏིང་གསལ), rang gdangs (རང་གདངས), nang gsal (ནང་གསལ), ting 'dzin (ཏིང་འཛིན), sems kyi rang bzhin (སེམས་ཀྱི་རང་བཞིན), dag snang (དག་སྣང), nyon mongs (ཉོན་མོངས), dug lnga (དུག་ལྔ), ye shes lnga (ཡེ་ཤེས་ལྔ), 'byung lnga (འབྱུང་ལྔ), dbang po (དབང་པོ), zhing khams (ཞིང་ཁམས), dran shes (དྲན་ཤེས), bag chags (བག་ཆགས), rtogs pa (རྟོགས་པ), mi sgom (མི་སྒོམ), dbyer med (དབྱེར་མེད), so so rang rig (སོ་སོ་རང་རིག)
