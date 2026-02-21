@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Commentary Collection</title>
     <meta name="generator" content="Commentary Parser">
-    <meta name="created" content="2026-02-20T16:33:02.490379">
+    <meta name="created" content="2026-02-20T16:43:21.318734">
     
 <style>
     @page {
@@ -218,6 +218,7 @@ function showChapter(index) {
     currentChapter = index;
     updateNavButtons();
     updateIndicator();
+    window.scrollTo({ top: 0, behavior: 'instant' });
 }
 
 function nextChapter() {
@@ -249,7 +250,6 @@ function updateIndicator() {
 function goToLine(lineNum) {
     let lineEl = document.getElementById('line-' + lineNum);
     
-    // If exact line not found, find nearest
     if (!lineEl) {
         const allLines = document.querySelectorAll('[id^="line-"]');
         let bestMatch = null;
@@ -272,8 +272,12 @@ function goToLine(lineNum) {
             const chapterIndex = parseInt(chapter.dataset.chapter);
             showChapter(chapterIndex);
             setTimeout(() => {
-                document.querySelectorAll('.highlighted-line').forEach(el => el.classList.remove('highlighted-line'));
+                document.querySelectorAll('.highlighted-line').forEach(el => {
+                    el.classList.remove('highlighted-line');
+                    el.style.animation = '';
+                });
                 lineEl.classList.add('highlighted-line');
+                void lineEl.offsetWidth;
                 lineEl.scrollIntoView({ behavior: 'smooth', block: 'center' });
             }, 100);
             return true;

@@ -600,8 +600,12 @@ function goToLine(lineNum) {{
             const chapterIndex = parseInt(chapter.dataset.chapter);
             showChapter(chapterIndex);
             setTimeout(() => {{
-                document.querySelectorAll('.highlighted-line').forEach(el => el.classList.remove('highlighted-line'));
+                document.querySelectorAll('.highlighted-line').forEach(el => {{
+                    el.classList.remove('highlighted-line');
+                    el.style.animation = '';
+                }});
                 lineEl.classList.add('highlighted-line');
+                void lineEl.offsetWidth;
                 lineEl.scrollIntoView({{ behavior: 'smooth', block: 'center' }});
             }}, 100);
             return true;

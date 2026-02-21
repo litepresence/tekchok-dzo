@@ -148,6 +148,18 @@
             width: 15%;
         }
 
+        .first-appearance-link {
+            color: var(--color-accent);
+            cursor: pointer;
+            text-decoration: underline;
+            text-decoration-style: dotted;
+        }
+
+        .first-appearance-link:hover {
+            color: #90caf9;
+            text-decoration-style: solid;
+        }
+
         code {
             background-color: var(--color-table-header);
             padding: 2px 6px;
@@ -1354,5 +1366,45 @@
 <hr>
 
     </div>
+    <script>
+    document.addEventListener('DOMContentLoaded', function() {
+        const table = document.querySelector('.glossary-table');
+        if (!table) return;
+        
+        const rows = table.querySelectorAll('tbody tr');
+        const appearancePattern = /^(\d{2}-\d{2}-\d{2}-\d{2}):(\d+)$/;
+        
+        rows.forEach(row => {
+            const cells = row.querySelectorAll('td');
+            if (cells.length >= 3) {
+                const lastCell = cells[cells.length - 1];
+                const text = lastCell.textContent.trim();
+                const match = text.match(appearancePattern);
+                
+                if (match) {
+                    const sectionId = match[1];
+                    const lineNum = match[2];
+                    
+                    lastCell.innerHTML = '';
+                    const link = document.createElement('span');
+                    link.className = 'first-appearance-link';
+                    link.textContent = text;
+                    link.dataset.section = sectionId;
+                    link.dataset.line = lineNum;
+                    
+                    link.addEventListener('click', function() {
+                        const line = this.dataset.line;
+                        window.parent.postMessage({
+                            type: 'navigateToLine',
+                            line: line
+                        }, '*');
+                    });
+                    
+                    lastCell.appendChild(link);
+                }
+            }
+        });
+    });
+    </script>
 </body>
 </html>

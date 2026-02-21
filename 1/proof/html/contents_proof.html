@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Treasury of the Supreme Vehicle: Comprehensive Table of Contents (v2)</title>
     <meta name="generator" content="Contents Parser">
-    <meta name="created" content="2026-02-20T16:33:02.869059">
+    <meta name="created" content="2026-02-20T18:53:16.238190">
     
 <style>
     @page {
@@ -20,16 +20,23 @@
         --font-main: 'Georgia', 'Times New Roman', serif;
         --font-sans: 'Helvetica', 'Arial', sans-serif;
         --font-mono: 'Consolas', 'Courier New', monospace;
-        --color-text: #1a1a1a;
-        --color-muted: #666;
-        --color-accent: #5d4037;
-        --color-header: #3e2723;
-        --color-chapter: #2c5f7f;
-        --color-prologue: #6a1b9a;
-        --color-main: #2e7d32;
-        --color-subsection: #f57c00;
-        --color-list: #00838f;
-        --color-fragment: #78909c;
+        
+        --color-bg: #1e1e1e;
+        --color-text: #e0e0e0;
+        --color-muted: #a0a0a0;
+        --color-accent: #bcaaa4;
+        --color-header: #d7ccc8;
+        --color-chapter: #81d4fa;
+        --color-prologue: #ce93d8;
+        --color-main: #a5d6a7;
+        --color-subsection: #ffcc80;
+        --color-list: #80deea;
+        --color-fragment: #b0bec5;
+        --color-border: #3a3a3a;
+        --color-table-header: #2d2d2d;
+        --color-table-row: #252525;
+        --color-table-hover: #3a3a3a;
+        
         --line-height: 1.5;
     }
 
@@ -44,7 +51,7 @@
         font-size: 10pt;
         margin: 0;
         padding: 0;
-        background-color: #fff;
+        background-color: var(--color-bg);
         -webkit-print-color-adjust: exact;
         print-color-adjust: exact;
     }
@@ -60,7 +67,7 @@
         text-align: center;
         margin-bottom: 3em;
         padding-bottom: 2em;
-        border-bottom: 2px solid var(--color-accent);
+        border-bottom: 2px solid var(--color-border);
     }
 
     .title-section h1 {
@@ -87,7 +94,7 @@
     .overview {
         margin-bottom: 2em;
         padding: 1em;
-        background-color: #fafafa;
+        background-color: rgba(60, 60, 60, 0.5);
         border-left: 3px solid var(--color-accent);
         page-break-after: always;
     }
@@ -116,7 +123,7 @@
     }
 
     .chapter-header {
-        border-bottom: 1px solid var(--color-accent);
+        border-bottom: 1px solid var(--color-border);
         padding-bottom: 0.5em;
         margin-bottom: 1em;
     }
@@ -149,14 +156,14 @@
         text-transform: uppercase;
         letter-spacing: 0.5px;
         color: var(--color-muted);
-        border-bottom: 1px solid #ddd;
+        border-bottom: 1px solid var(--color-border);
         padding: 0.25em 0.5em;
     }
 
     .section-table td {
         padding: 0.35em 0.5em;
         vertical-align: top;
-        border-bottom: 1px solid #f0f0f0;
+        border-bottom: 1px solid var(--color-border);
     }
 
     .section-table .col-file {
@@ -195,27 +202,27 @@
     }
 
     .type-prologue {
-        background-color: #f3e5f5;
+        background-color: rgba(206, 147, 216, 0.25);
         color: var(--color-prologue);
     }
 
     .type-main {
-        background-color: #e8f5e9;
+        background-color: rgba(165, 214, 167, 0.25);
         color: var(--color-main);
     }
 
     .type-subsection {
-        background-color: #fff3e0;
+        background-color: rgba(255, 204, 128, 0.25);
         color: var(--color-subsection);
     }
 
     .type-list {
-        background-color: #e0f7fa;
+        background-color: rgba(128, 222, 234, 0.25);
         color: var(--color-list);
     }
 
     .type-fragment {
-        background-color: #eceff1;
+        background-color: rgba(176, 190, 197, 0.25);
         color: var(--color-fragment);
     }
 
@@ -223,7 +230,7 @@
     .chapter-separator {
         margin: 2em 0;
         border: none;
-        border-top: 1px dashed #ccc;
+        border-top: 1px dashed var(--color-border);
     }
 
     /* Clickable rows */
@@ -233,11 +240,11 @@
     }
     
     .section-table tbody tr:hover {
-        background-color: rgba(93, 64, 55, 0.1);
+        background-color: var(--color-table-hover);
     }
     
     .section-table tbody tr:active {
-        background-color: rgba(93, 64, 55, 0.2);
+        background-color: rgba(129, 212, 250, 0.2);
     }
 
     /* Print-specific adjustments */

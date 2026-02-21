@@ -216,9 +216,19 @@
 
     .nav-tab.glossary {
         background: var(--color-glossary);
+        border-radius: 4px;
+        padding: 0.5em 1em;
     }
 
-    /* Content Area - Flex layout for viewport height */
+    .nav-tab.glossary::before {
+        display: none;
+    }
+
+        .nav-tab.glossary.active {
+        box-shadow: inset 0 2px 4px rgba(0, 0, 0, 0.2);
+    }
+
+    /* Content layers */
     .content-container {
         flex: 1;
         display: flex;
@@ -230,50 +240,42 @@
         display: none;
         flex: 1;
         flex-direction: column;
-        height: 100%;
+        overflow: hidden;
     }
 
     .layer-content.active {
         display: flex;
     }
 
-    /* Layer header */
     .layer-header {
-        background: linear-gradient(135deg, var(--color-bg-tertiary) 0%, var(--color-bg-secondary) 100%);
-        padding: 1.5em;
+        padding: 1em 1.5em;
         border-bottom: 1px solid var(--color-border);
-        text-align: center;
-        flex-shrink: 0;
-        transition: background 0.3s ease, border-color 0.3s ease;
+        background: var(--color-bg-secondary);
     }
 
     .layer-header h1 {
         margin: 0;
         font-size: 1.5em;
-        font-variant: small-caps;
-        letter-spacing: 2px;
         color: var(--color-text);
     }
 
     .layer-header .subtitle {
         color: var(--color-muted);
-        font-style: italic;
-        margin-top: 0.5em;
+        font-size: 0.9em;
+        margin-top: 0.25em;
     }
 
-    /* Iframe wrapper - eliminates double scrollbars */
     .iframe-wrapper {
         flex: 1;
-        overflow: hidden;
         position: relative;
+        overflow: hidden;
     }
 
     .layer-frame {
-        flex: 1;
         width: 100%;
         height: 100%;
         border: none;
-        display: block;
+        background: var(--color-bg);
     }
 
     /* Line indicator */
@@ -389,6 +391,7 @@
             <a href="#epistemic" class="nav-tab epistemic">Epistemic</a>
             <a href="#delusion" class="nav-tab delusion">Delusion</a>
             <a href="#cognitive" class="nav-tab cognitive">Cognitive</a>
+            <span class="nav-divider"></span>
             <a href="#glossary" class="nav-tab glossary">Glossary</a>
             <button class="dark-mode-toggle" onclick="toggleDarkMode()">Dark</button>
         </div>
@@ -544,9 +547,9 @@
         'liturgical': { exactMatch: true, hasRanges: false },
         'commentary': { exactMatch: true, hasRanges: true },
         'scholar': { exactMatch: true, hasRanges: true },
-        'epistemic': { exactMatch: false, hasRanges: true },
-        'delusion': { exactMatch: false, hasRanges: true },
-        'cognitive': { exactMatch: false, hasRanges: true },
+        'epistemic': { exactMatch: true, hasRanges: true },
+        'delusion': { exactMatch: true, hasRanges: true },
+        'cognitive': { exactMatch: true, hasRanges: true },
         'glossary': { exactMatch: false, hasRanges: true }
     };
 
@@ -592,21 +595,21 @@
     function showLayer(layerId, targetLine) {
         welcomeScreen.style.display = 'none';
         
-        // Update nav tabs - keep translation layer selected when viewing contents
+        // Update nav tabs - keep translation layer selected when viewing contents/glossary
         navTabs.forEach(tab => {
             const href = tab.getAttribute('href');
-            if (layerId === 'contents') {
-                // When on contents, highlight the selected translation layer
+            if (layerId === 'contents' || layerId === 'glossary') {
+                // When on contents/glossary, highlight the selected translation layer
                 if (href === '#' + selectedTranslationLayer) {
                     tab.classList.add('active');
-                } else if (href !== '#contents') {
+                } else if (href !== '#' + layerId) {
                     tab.classList.remove('active');
                 }
             } else {
                 // Normal behavior for other layers
                 tab.classList.toggle('active', href === '#' + layerId);
                 // Update selected translation layer
-                if (href === '#' + layerId && layerId !== 'contents') {
+                if (href === '#' + layerId && layerId !== 'contents' && layerId !== 'glossary') {
                     selectedTranslationLayer = layerId;
                     localStorage.setItem('selectedLayer', layerId);
                 }
@@ -680,8 +683,8 @@
         tab.addEventListener('click', function(e) {
             const targetLayer = this.getAttribute('href').slice(1);
             
-            // If clicking contents, keep the line from current translation layer
-            if (targetLayer === 'contents' && currentLayer && layers[currentLayer] && layers[currentLayer].exactMatch) {
+            // If clicking contents/glossary, keep the line from current translation layer
+            if ((targetLayer === 'contents' || targetLayer === 'glossary') && currentLayer && layers[currentLayer] && layers[currentLayer].exactMatch) {
                 const line = getCurrentLineFromIframe(currentLayer);
                 if (line) {
                     currentLine = parseInt(line);
@@ -689,14 +692,14 @@
                 }
                 return; // Let normal navigation proceed
             }
-            // If clicking a translation layer from contents, navigate with current line
-            else if (currentLayer === 'contents' && targetLayer !== 'contents' && layers[targetLayer] && layers[targetLayer].exactMatch && currentLine) {
+            // If clicking a translation layer from contents/glossary, navigate with current line
+            else if ((currentLayer === 'contents' || currentLayer === 'glossary') && targetLayer !== 'contents' && targetLayer !== 'glossary' && layers[targetLayer] && layers[targetLayer].exactMatch && currentLine) {
                 e.preventDefault();
                 window.location.hash = targetLayer + ':' + currentLine;
-                console.log('Navigating from contents to', targetLayer, 'with line', currentLine);
+                console.log('Navigating from', currentLayer, 'to', targetLayer, 'with line', currentLine);
             }
             // If switching between translation layers, preserve line
-            else if (currentLayer && targetLayer !== 'contents' && currentLayer !== 'contents' && layers[targetLayer] && layers[targetLayer].exactMatch) {
+            else if (currentLayer && targetLayer !== 'contents' && targetLayer !== 'glossary' && currentLayer !== 'contents' && currentLayer !== 'glossary' && layers[targetLayer] && layers[targetLayer].exactMatch) {
                 const line = getCurrentLineFromIframe(currentLayer);
                 console.log('Switching from', currentLayer, 'to', targetLayer, '- detected line:', line, 'currentLine:', currentLine);
                 e.preventDefault();
