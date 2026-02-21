@@ -338,94 +338,94 @@ Qualitative scan detected Wylie (Tibetan romanization) terms embedded in Literal
 
 | File | Cognitive | Epistemic | Scholar | Literal | Liturgical | Commentary | Delusion | Notes |
 |------|-----------|-----------|---------|------------|----------|-------|
-| 01-01-01-01.txt | 🟢 | 🟢 | 🔵 | 🔵 | 🔵 | 🔵 | 🟢 | EXEMPLARY: All layers excellent - 319 lines commentary with 9 voices, comprehensive scholar analysis |
-| 01-01-02-01.txt | 🟢 | 🟢 | 🔵 | 🔵 | 🔵 | 🔵 | 🟢 | EXEMPLARY: Long section, full coverage across all layers |
-| 01-01-03-01.txt | 🟢 | 🟢 | 🟢 | 🔵 | 🔵 | 🟢 | 🟢 | GOOD: Shorter section, adequate coverage |
+| 01-01-01-01.txt | 🟢 | 🟢 | 🔵 | 🟢 | 🔵 | 🔵 | 🟢 | EXEMPLARY: All layers excellent - 319 lines commentary with 9 voices, comprehensive scholar analysis |
+| 01-01-02-01.txt | 🟢 | 🟢 | 🔵 | 🟢 | 🔵 | 🔵 | 🟢 | EXEMPLARY: Long section, full coverage across all layers |
+| 01-01-03-01.txt | 🟢 | 🟢 | 🟢 | 🟡 | 🔵 | 🟢 | 🟢 | GOOD: Shorter section, adequate coverage |
 
 ### CHAPTER 01-02: World Systems
 
 | File | Cognitive | Epistemic | Scholar | Literal | Liturgical | Commentary | Delusion | Notes |
 |------|-----------|-----------|---------|------------|----------|-------|
-| 01-02-01-01.txt | 🟢 | 🟢 | 🔵 | 🔵 | 🔵 | 🟢 | 🟢 | GOOD: Comprehensive coverage |
-| 01-02-01-02.txt | 🟢 | 🟢 | 🔵 | 🔵 | 🔵 | 🟢 | 🔵 | GOOD: Strong delusion coverage |
-| 01-02-01-03.txt | 🟢 | 🟢 | 🔵 | 🟢 | 🟢 | 🟡 | 🔵 | ADEQUATE: Commentary 25 lines appropriate for 133B source |
-| 01-02-01-04.txt | 🟢 | 🟢 | 🔵 | 🟢 | 🟢 | 🟡 | 🔵 | ADEQUATE: Commentary 25 lines appropriate for 139B source |
-| 01-02-01-05.txt | 🟢 | 🟢 | 🔵 | 🔵 | 🔵 | 🔵 | 🟢 | EXEMPLARY: 902 lines commentary, comprehensive |
-| 01-02-02-01.txt | 🟢 | 🟢 | 🟢 | 🔵 | 🔵 | 🟢 | 🟡 | GOOD: Functional coverage |
-| 01-02-02-02.txt | 🟢 | 🟢 | 🔵 | 🔵 | 🔵 | 🟢 | 🟢 | GOOD: Strong scholarly analysis |
+| 01-02-01-01.txt | 🟢 | 🟢 | 🔵 | 🟡 | 🔵 | 🟢 | 🟢 | GOOD: Comprehensive coverage |
+| 01-02-01-02.txt | 🟢 | 🟢 | 🔵 | 🟡 | 🔵 | 🟢 | 🔵 | GOOD: Strong delusion coverage |
+| 01-02-01-03.txt | 🟢 | 🟢 | 🔵 | 🟡 | 🟢 | 🟡 | 🔵 | ADEQUATE: Commentary 25 lines appropriate for 133B source |
+| 01-02-01-04.txt | 🟢 | 🟢 | 🔵 | 🟡 | 🟢 | 🟡 | 🔵 | ADEQUATE: Commentary 25 lines appropriate for 139B source |
+| 01-02-01-05.txt | 🟢 | 🟢 | 🔵 | 🟡 | 🔵 | 🔵 | 🟢 | EXEMPLARY: 902 lines commentary, comprehensive |
+| 01-02-02-01.txt | 🟢 | 🟢 | 🟢 | 🟡 | 🔵 | 🟢 | 🟡 | GOOD: Functional coverage |
+| 01-02-02-02.txt | 🟢 | 🟢 | 🔵 | 🟡 | 🔵 | 🟢 | 🟢 | GOOD: Strong scholarly analysis |
 
 ### CHAPTER 01-03: Aggregates
 
 | File | Cognitive | Epistemic | Scholar | Literal | Liturgical | Commentary | Delusion | Notes |
 |------|-----------|-----------|---------|------------|----------|-------|
-| 01-03-01-01.txt | 🟢 | 🟢 | 🔵 | 🔵 | 🔵 | 🔵 | 🔵 | EXEMPLARY: 9 voices, comprehensive analysis |
-| 01-03-02-01.txt | 🟢 | 🟢 | 🟢 | 🔵 | 🔵 | 🔵 | 🔵 | EXEMPLARY: Strong commentary and delusion layers |
-| 01-03-03-01.txt | 🟢 | 🟢 | 🔵 | 🔵 | 🔵 | 🔵 | 🟢 | EXEMPLARY: Balanced coverage |
+| 01-03-01-01.txt | 🟢 | 🟢 | 🔵 | 🟡 | 🔵 | 🔵 | 🔵 | EXEMPLARY: 9 voices, comprehensive analysis |
+| 01-03-02-01.txt | 🟢 | 🟢 | 🟢 | 🟡 | 🔵 | 🔵 | 🔵 | EXEMPLARY: Strong commentary and delusion layers |
+| 01-03-03-01.txt | 🟢 | 🟢 | 🔵 | 🟡 | 🔵 | 🔵 | 🟢 | EXEMPLARY: Balanced coverage |
 
 ### CHAPTER 01-04: Philosophical Systems
 
 | File | Cognitive | Epistemic | Scholar | Literal | Liturgical | Commentary | Delusion | Notes |
 |------|-----------|-----------|---------|------------|----------|-------|
-| 01-04-01-01.txt | 🟢 | 🟢 | 🔵 | 🔵 | 🔵 | 🔵 | 🟢 | EXEMPLARY: 818 lines commentary, 2,943 lines scholar - exceptional |
-| 01-04-02-01.txt | 🟢 | 🟢 | 🔵 | 🔵 | 🔵 | 🔵 | 🟡 | GOOD: Comprehensive coverage |
-| 01-04-03-01.txt | 🟢 | 🟢 | 🔵 | 🟢 | 🟢 | 🟡 | 🔵 | ADEQUATE: Short source (624B), appropriate coverage |
-| 01-04-04-01.txt | 🟢 | 🟢 | 🔵 | 🟢 | 🟢 | 🟢 | 🔵 | GOOD: Strong analysis |
-| 01-04-05-01.txt | 🟢 | 🟢 | 🟢 | 🔵 | 🔵 | 🟡 | 🟡 | ADEQUATE: Could expand commentary and delusion |
-| 01-04-06-01.txt | 🟢 | 🟢 | 🔵 | 🔵 | 🔵 | 🟢 | 🔵 | GOOD: Strong scholarly analysis |
-| 01-04-07-01.txt | 🟢 | 🟢 | 🔵 | 🟢 | 🟢 | 🟢 | 🔵 | GOOD: Comprehensive |
-| 01-04-08-01.txt | 🟢 | 🟢 | 🔵 | 🔵 | 🔵 | 🟢 | 🔵 | GOOD: Quality coverage |
-| 01-04-09-01.txt | 🟢 | 🟢 | 🔵 | 🟢 | 🟢 | 🟢 | 🔵 | GOOD: Strong analysis |
-| 01-04-10-01.txt | 🟢 | 🟢 | 🔵 | 🟢 | 🟢 | 🟢 | 🔵 | GOOD: Comprehensive |
-| 01-04-11-01.txt | 🟢 | 🟢 | 🔵 | 🔵 | 🔵 | 🟢 | 🔵 | GOOD: Quality coverage |
-| 01-04-12-01.txt | 🟢 | 🟢 | 🔵 | 🔵 | 🔵 | 🔵 | 🔵 | EXEMPLARY: 461 lines commentary, 38 lines cognitive, comprehensive analysis |
-| 01-04-13-01.txt | 🟢 | 🟢 | 🔵 | 🔵 | 🔵 | 🔵 | 🔵 | EXEMPLARY: Strong across all layers |
-| 01-04-14-01.txt | 🟢 | 🟢 | 🔵 | 🔵 | 🔵 | 🔵 | 🟡 | GOOD: Comprehensive |
-| 01-04-15-01.txt | 🟢 | 🟢 | 🔵 | 🔵 | 🔵 | 🔵 | 🟡 | GOOD: Quality coverage |
-| 01-04-16-01.txt | 🟢 | 🟢 | 🔵 | 🔵 | 🔵 | 🔵 | 🟡 | GOOD: Strong analysis |
-| 01-04-17-01.txt | 🟢 | 🟢 | 🔵 | 🟢 | 🟢 | 🟡 | 🔵 | ADEQUATE: Commentary could expand |
-| 01-04-18-01.txt | 🟢 | 🟢 | 🔵 | 🟢 | 🟢 | 🟡 | 🔵 | ADEQUATE: Commentary could expand |
-| 01-04-18-02.txt | 🟢 | 🟢 | 🔵 | 🔵 | 🔵 | 🔵 | 🟡 | GOOD: Comprehensive |
-| 01-04-19-01.txt | 🟢 | 🟢 | 🔵 | 🔵 | 🔵 | 🔵 | 🟡 | GOOD: Quality coverage |
+| 01-04-01-01.txt | 🟢 | 🟢 | 🔵 | 🟡 | 🔵 | 🔵 | 🟢 | EXEMPLARY: 818 lines commentary, 2,943 lines scholar - exceptional |
+| 01-04-02-01.txt | 🟢 | 🟢 | 🔵 | 🟢 | 🔵 | 🔵 | 🟡 | GOOD: Comprehensive coverage |
+| 01-04-03-01.txt | 🟢 | 🟢 | 🔵 | 🟡 | 🟢 | 🟡 | 🔵 | ADEQUATE: Short source (624B), appropriate coverage |
+| 01-04-04-01.txt | 🟢 | 🟢 | 🔵 | 🟡 | 🟢 | 🟢 | 🔵 | GOOD: Strong analysis |
+| 01-04-05-01.txt | 🟢 | 🟢 | 🟢 | 🟡 | 🔵 | 🟡 | 🟡 | ADEQUATE: Could expand commentary and delusion |
+| 01-04-06-01.txt | 🟢 | 🟢 | 🔵 | 🟡 | 🔵 | 🟢 | 🔵 | GOOD: Strong scholarly analysis |
+| 01-04-07-01.txt | 🟢 | 🟢 | 🔵 | 🟡 | 🟢 | 🟢 | 🔵 | GOOD: Comprehensive |
+| 01-04-08-01.txt | 🟢 | 🟢 | 🔵 | 🟡 | 🔵 | 🟢 | 🔵 | GOOD: Quality coverage |
+| 01-04-09-01.txt | 🟢 | 🟢 | 🔵 | 🟡 | 🟢 | 🟢 | 🔵 | GOOD: Strong analysis |
+| 01-04-10-01.txt | 🟢 | 🟢 | 🔵 | 🟡 | 🟢 | 🟢 | 🔵 | GOOD: Comprehensive |
+| 01-04-11-01.txt | 🟢 | 🟢 | 🔵 | 🟡 | 🔵 | 🟢 | 🔵 | GOOD: Quality coverage |
+| 01-04-12-01.txt | 🟢 | 🟢 | 🔵 | 🟡 | 🔵 | 🔵 | 🔵 | EXEMPLARY: 461 lines commentary, 38 lines cognitive, comprehensive analysis |
+| 01-04-13-01.txt | 🟢 | 🟢 | 🔵 | 🟡 | 🔵 | 🔵 | 🔵 | EXEMPLARY: Strong across all layers |
+| 01-04-14-01.txt | 🟢 | 🟢 | 🔵 | 🟢 | 🔵 | 🔵 | 🟡 | GOOD: Comprehensive |
+| 01-04-15-01.txt | 🟢 | 🟢 | 🔵 | 🟢 | 🔵 | 🔵 | 🟡 | GOOD: Quality coverage |
+| 01-04-16-01.txt | 🟢 | 🟢 | 🔵 | 🟢 | 🔵 | 🔵 | 🟡 | GOOD: Strong analysis |
+| 01-04-17-01.txt | 🟢 | 🟢 | 🔵 | 🟡 | 🟢 | 🟡 | 🔵 | ADEQUATE: Commentary could expand |
+| 01-04-18-01.txt | 🟢 | 🟢 | 🔵 | 🟡 | 🟢 | 🟡 | 🔵 | ADEQUATE: Commentary could expand |
+| 01-04-18-02.txt | 🟢 | 🟢 | 🔵 | 🟢 | 🔵 | 🔵 | 🟡 | GOOD: Comprehensive |
+| 01-04-19-01.txt | 🟢 | 🟢 | 🔵 | 🟡 | 🔵 | 🔵 | 🟡 | GOOD: Quality coverage |
 
 ### CHAPTER 01-05: Difficult Points in Secret Mantra
 
 | File | Cognitive | Epistemic | Scholar | Literal | Liturgical | Commentary | Delusion | Notes |
 |------|-----------|-----------|---------|------------|----------|-------|
-| 01-05-01-01.txt | 🟢 | 🟢 | 🔵 | 🔵 | 🔵 | 🟢 | 🟡 | GOOD: Adequate coverage |
-| 01-05-02-01.txt | 🟢 | 🟢 | 🔵 | 🔵 | 🔵 | 🔵 | 🟢 | EXEMPLARY: Comprehensive |
-| 01-05-03-01.txt | 🟢 | 🟢 | 🔵 | 🔵 | 🔵 | 🔵 | 🟢 | EXEMPLARY: Quality coverage |
-| 01-05-04-01.txt | 🟢 | 🟢 | 🔵 | 🔵 | 🔵 | 🔵 | 🟡 | EXEMPLARY: 1,444 lines commentary |
-| 01-05-04-02.txt | 🟢 | 🟢 | 🔵 | 🟢 | 🟢 | 🟠 | 🔵 | ADEQUATE: Commentary 11 lines for 128B source |
-| 01-05-04-03.txt | 🟢 | 🟢 | 🔵 | 🟢 | 🟢 | 🟣 | 🔵 | **CRITICAL**: 104B source, 5 lines placeholder commentary |
-| 01-05-04-04.txt | 🟢 | 🟢 | 🔵 | 🟢 | 🟢 | 🟣 | 🔵 | **CRITICAL**: 110B source, 5 lines placeholder commentary |
-| 01-05-04-05.txt | 🟢 | 🟢 | 🔵 | 🟢 | 🟢 | 🟣 | 🔵 | **CRITICAL**: 134B source, 5 lines placeholder commentary |
-| 01-05-04-06.txt | 🟢 | 🟢 | 🔵 | 🔵 | 🔵 | 🔵 | 🔵 | EXEMPLARY: Comprehensive |
-| 01-05-05-01.txt | 🟢 | 🟢 | 🔵 | 🔵 | 🔵 | 🔵 | 🟢 | EXEMPLARY: Quality coverage |
+| 01-05-01-01.txt | 🟢 | 🟢 | 🔵 | 🟡 | 🔵 | 🟢 | 🟡 | GOOD: Adequate coverage |
+| 01-05-02-01.txt | 🟢 | 🟢 | 🔵 | 🟢 | 🔵 | 🔵 | 🟢 | EXEMPLARY: Comprehensive |
+| 01-05-03-01.txt | 🟢 | 🟢 | 🔵 | 🟢 | 🔵 | 🔵 | 🟢 | EXEMPLARY: Quality coverage |
+| 01-05-04-01.txt | 🟢 | 🟢 | 🔵 | 🟢 | 🔵 | 🔵 | 🟡 | EXEMPLARY: 1,444 lines commentary |
+| 01-05-04-02.txt | 🟢 | 🟢 | 🔵 | 🟡 | 🟢 | 🟠 | 🔵 | ADEQUATE: Commentary 11 lines for 128B source |
+| 01-05-04-03.txt | 🟢 | 🟢 | 🔵 | 🟡 | 🟢 | 🟣 | 🔵 | **CRITICAL**: 104B source, 5 lines placeholder commentary |
+| 01-05-04-04.txt | 🟢 | 🟢 | 🔵 | 🟡 | 🟢 | 🟣 | 🔵 | **CRITICAL**: 110B source, 5 lines placeholder commentary |
+| 01-05-04-05.txt | 🟢 | 🟢 | 🔵 | 🟡 | 🟢 | 🟣 | 🔵 | **CRITICAL**: 134B source, 5 lines placeholder commentary |
+| 01-05-04-06.txt | 🟢 | 🟢 | 🔵 | 🟢 | 🔵 | 🔵 | 🔵 | EXEMPLARY: Comprehensive |
+| 01-05-05-01.txt | 🟢 | 🟢 | 🔵 | 🟡 | 🔵 | 🔵 | 🟢 | EXEMPLARY: Quality coverage |
 
 ### CHAPTER 01-06: Ripening and Liberation
 
 | File | Cognitive | Epistemic | Scholar | Literal | Liturgical | Commentary | Delusion | Notes |
 |------|-----------|-----------|---------|------------|----------|-------|
-| 01-06-01-01.txt | 🟢 | 🟢 | 🔵 | 🔵 | 🔵 | 🔵 | 🔵 | EXEMPLARY: Comprehensive coverage |
-| 01-06-02-01.txt | 🟢 | 🟢 | 🔵 | 🔵 | 🔵 | 🔵 | 🔵 | EXEMPLARY: Strong analysis |
-| 01-06-03-01.txt | 🟢 | 🟢 | 🔵 | 🔵 | 🔵 | 🟢 | 🔵 | GOOD: Quality coverage |
-| 01-06-04-01.txt | 🟢 | 🟢 | 🔵 | 🔵 | 🔵 | 🔵 | 🟡 | GOOD: Comprehensive |
-| 01-06-05-01.txt | 🟢 | 🟢 | 🔵 | 🟢 | 🟢 | 🟣 | 🔵 | **CRITICAL**: 211B source, 5 lines placeholder - joy stage 1 |
-| 01-06-05-02.txt | 🟢 | 🟢 | 🔵 | 🟢 | 🟢 | 🟣 | 🔵 | **CRITICAL**: 143B source, 5 lines placeholder - joy stage 2 |
-| 01-06-05-03.txt | 🟢 | 🟢 | 🔵 | 🟢 | 🟢 | 🟣 | 🔵 | **CRITICAL**: 146B source, 5 lines placeholder - joy stage 3 |
-| 01-06-05-04.txt | 🟢 | 🟢 | 🔵 | 🟢 | 🟢 | 🟠 | 🔵 | REPAIR: 185B source, 13 lines - needs expansion |
-| 01-06-05-05.txt | 🟢 | 🟢 | 🔵 | 🟢 | 🟢 | 🟣 | 🔵 | **CRITICAL**: 366B source, 5 lines - **worst ratio**, joy stage 5 |
-| 01-06-06-01.txt | 🟢 | 🟢 | 🔵 | 🟢 | 🟢 | 🔴 | 🟢 | REPAIR: 614B source, 12 lines - needs expansion |
-| 01-06-07-01.txt | 🟢 | 🟢 | 🔵 | 🔵 | 🔵 | 🔵 | 🟢 | EXEMPLARY: Comprehensive |
-| 01-06-07-02.txt | 🟢 | 🟢 | 🔵 | 🟢 | 🟢 | 🟣 | 🔵 | **CRITICAL**: 149B source, 5 lines placeholder - union practice |
-| 01-06-07-03.txt | 🟢 | 🟢 | 🔵 | 🔵 | 🔵 | 🔵 | 🟢 | EXEMPLARY: Quality coverage |
-| 01-06-08-01.txt | 🟢 | 🟢 | 🔵 | 🔵 | 🔵 | 🟢 | 🟢 | GOOD: Adequate coverage |
-| 01-06-09-01.txt | 🟢 | 🟢 | 🔵 | 🔵 | 🔵 | 🟢 | 🟢 | GOOD: Functional |
-| 01-06-10-01.txt | 🟢 | 🟢 | 🔵 | 🔵 | 🔵 | 🟢 | 🟢 | GOOD: Adequate |
-| 01-06-11-01.txt | 🟢 | 🟢 | 🔵 | 🔵 | 🔵 | 🔵 | 🟢 | EXEMPLARY: Comprehensive |
-| 01-06-12-01.txt | 🟢 | 🟢 | 🔵 | 🔵 | 🔵 | 🟢 | 🟡 | GOOD: Strong commentary |
-| 01-06-13-01.txt | 🟢 | 🟢 | 🔵 | 🔵 | 🔵 | 🟢 | 🟢 | GOOD: Quality coverage |
-| 01-06-14-01.txt | 🟢 | 🟢 | 🔵 | 🟢 | 🟢 | 🟣 | 🔵 | **CRITICAL**: 296B source, 5 lines - empowerment section |
+| 01-06-01-01.txt | 🟢 | 🟢 | 🔵 | 🟡 | 🔵 | 🔵 | 🔵 | EXEMPLARY: Comprehensive coverage |
+| 01-06-02-01.txt | 🟢 | 🟢 | 🔵 | 🟢 | 🔵 | 🔵 | 🔵 | EXEMPLARY: Strong analysis |
+| 01-06-03-01.txt | 🟢 | 🟢 | 🔵 | 🟡 | 🔵 | 🟢 | 🔵 | GOOD: Quality coverage |
+| 01-06-04-01.txt | 🟢 | 🟢 | 🔵 | 🟡 | 🔵 | 🔵 | 🟡 | GOOD: Comprehensive |
+| 01-06-05-01.txt | 🟢 | 🟢 | 🔵 | 🟡 | 🟢 | 🟣 | 🔵 | **CRITICAL**: 211B source, 5 lines placeholder - joy stage 1 |
+| 01-06-05-02.txt | 🟢 | 🟢 | 🔵 | 🟡 | 🟢 | 🟣 | 🔵 | **CRITICAL**: 143B source, 5 lines placeholder - joy stage 2 |
+| 01-06-05-03.txt | 🟢 | 🟢 | 🔵 | 🟡 | 🟢 | 🟣 | 🔵 | **CRITICAL**: 146B source, 5 lines placeholder - joy stage 3 |
+| 01-06-05-04.txt | 🟢 | 🟢 | 🔵 | 🟡 | 🟢 | 🟠 | 🔵 | REPAIR: 185B source, 13 lines - needs expansion |
+| 01-06-05-05.txt | 🟢 | 🟢 | 🔵 | 🟡 | 🟢 | 🟣 | 🔵 | **CRITICAL**: 366B source, 5 lines - **worst ratio**, joy stage 5 |
+| 01-06-06-01.txt | 🟢 | 🟢 | 🔵 | 🟡 | 🟢 | 🔴 | 🟢 | REPAIR: 614B source, 12 lines - needs expansion |
+| 01-06-07-01.txt | 🟢 | 🟢 | 🔵 | 🟡 | 🔵 | 🔵 | 🟢 | EXEMPLARY: Comprehensive |
+| 01-06-07-02.txt | 🟢 | 🟢 | 🔵 | 🟡 | 🟢 | 🟣 | 🔵 | **CRITICAL**: 149B source, 5 lines placeholder - union practice |
+| 01-06-07-03.txt | 🟢 | 🟢 | 🔵 | 🟡 | 🔵 | 🔵 | 🟢 | EXEMPLARY: Quality coverage |
+| 01-06-08-01.txt | 🟢 | 🟢 | 🔵 | 🟡 | 🔵 | 🟢 | 🟢 | GOOD: Adequate coverage |
+| 01-06-09-01.txt | 🟢 | 🟢 | 🔵 | 🟡 | 🔵 | 🟢 | 🟢 | GOOD: Functional |
+| 01-06-10-01.txt | 🟢 | 🟢 | 🔵 | 🟡 | 🔵 | 🟢 | 🟢 | GOOD: Adequate |
+| 01-06-11-01.txt | 🟢 | 🟢 | 🔵 | 🟡 | 🔵 | 🔵 | 🟢 | EXEMPLARY: Comprehensive |
+| 01-06-12-01.txt | 🟢 | 🟢 | 🔵 | 🟡 | 🔵 | 🟢 | 🟡 | GOOD: Strong commentary |
+| 01-06-13-01.txt | 🟢 | 🟢 | 🔵 | 🟡 | 🔵 | 🟢 | 🟢 | GOOD: Quality coverage |
+| 01-06-14-01.txt | 🟢 | 🟢 | 🔵 | 🟡 | 🟢 | 🟣 | 🔵 | **CRITICAL**: 296B source, 5 lines - empowerment section |
 
 **Note:** Chapter 01-06 has 6 F-grade commentary files requiring immediate regeneration.
 
@@ -433,91 +433,91 @@ Qualitative scan detected Wylie (Tibetan romanization) terms embedded in Literal
 
 | File | Cognitive | Epistemic | Scholar | Literal | Liturgical | Commentary | Delusion | Notes |
 |------|-----------|-----------|---------|------------|----------|-------|
-| 01-07-01-01.txt | 🟢 | 🟢 | 🔵 | 🔵 | 🔵 | 🔵 | 🟢 | EXEMPLARY: Comprehensive |
-| 01-07-02-01.txt | 🟢 | 🟢 | 🔵 | 🔵 | 🔵 | 🔵 | 🟢 | EXEMPLARY: Quality coverage |
-| 01-07-03-01.txt | 🟢 | 🟢 | 🔵 | 🔵 | 🔵 | 🔵 | 🟢 | EXEMPLARY: Strong analysis |
-| 01-07-04-01.txt | 🟢 | 🟢 | 🔵 | 🔵 | 🔵 | 🔵 | 🟢 | EXEMPLARY: Comprehensive |
-| 01-07-05-01.txt | 🟢 | 🟢 | 🔵 | 🟢 | 🟢 | 🟠 | 🔵 | ADEQUATE: 453B source, 6 lines - structural marker |
+| 01-07-01-01.txt | 🟢 | 🟢 | 🔵 | 🟡 | 🔵 | 🔵 | 🟢 | EXEMPLARY: Comprehensive |
+| 01-07-02-01.txt | 🟢 | 🟢 | 🔵 | 🟡 | 🔵 | 🔵 | 🟢 | EXEMPLARY: Quality coverage |
+| 01-07-03-01.txt | 🟢 | 🟢 | 🔵 | 🟡 | 🔵 | 🔵 | 🟢 | EXEMPLARY: Strong analysis |
+| 01-07-04-01.txt | 🟢 | 🟢 | 🔵 | 🟢 | 🔵 | 🔵 | 🟢 | EXEMPLARY: Comprehensive |
+| 01-07-05-01.txt | 🟢 | 🟢 | 🔵 | 🟡 | 🟢 | 🟠 | 🔵 | ADEQUATE: 453B source, 6 lines - structural marker |
 
 ### CHAPTER 01-08: Primordial Ground
 
 | File | Cognitive | Epistemic | Scholar | Literal | Liturgical | Commentary | Delusion | Notes |
 |------|-----------|-----------|---------|------------|----------|-------|
-| 01-08-01-01.txt | 🟢 | 🟢 | 🔵 | 🔵 | 🔵 | 🔵 | 🔵 | EXEMPLARY: Comprehensive |
-| 01-08-02-01.txt | 🟢 | 🟢 | 🔵 | 🔵 | 🔵 | 🔵 | 🟢 | EXEMPLARY: Quality coverage |
-| 01-08-03-01.txt | 🟢 | 🟢 | 🔵 | 🔵 | 🔵 | 🟡 | 🔵 | GOOD: Adequate coverage |
-| 01-08-04-01.txt | 🟢 | 🟢 | 🔵 | 🟢 | 🟢 | 🟡 | 🔵 | ADEQUATE: Short source (273B) |
-| 01-08-04-02.txt | 🟢 | 🟢 | 🔵 | 🔵 | 🔵 | 🔵 | 🟢 | EXEMPLARY: Comprehensive |
-| 01-08-05-01.txt | 🟢 | 🟢 | 🔵 | 🟢 | 🟢 | 🟡 | 🔵 | GOOD: Functional |
-| 01-08-06-01.txt | 🟢 | 🟢 | 🔵 | 🟢 | 🟢 | 🔴 | 🔵 | REPAIR: Could expand |
-| 01-08-07-01.txt | 🟢 | 🟢 | 🔵 | 🔵 | 🔵 | 🟢 | 🟢 | GOOD: Adequate |
-| 01-08-08-01.txt | 🟢 | 🟢 | 🔵 | 🟢 | 🟢 | 🟣 | 🔵 | **CRITICAL**: 36B source, 1 line - structural marker but missing commentary |
+| 01-08-01-01.txt | 🟢 | 🟢 | 🔵 | 🟡 | 🔵 | 🔵 | 🔵 | EXEMPLARY: Comprehensive |
+| 01-08-02-01.txt | 🟢 | 🟢 | 🔵 | 🟡 | 🔵 | 🔵 | 🟢 | EXEMPLARY: Quality coverage |
+| 01-08-03-01.txt | 🟢 | 🟢 | 🔵 | 🟡 | 🔵 | 🟡 | 🔵 | GOOD: Adequate coverage |
+| 01-08-04-01.txt | 🟢 | 🟢 | 🔵 | 🟡 | 🟢 | 🟡 | 🔵 | ADEQUATE: Short source (273B) |
+| 01-08-04-02.txt | 🟢 | 🟢 | 🔵 | 🟡 | 🔵 | 🔵 | 🟢 | EXEMPLARY: Comprehensive |
+| 01-08-05-01.txt | 🟢 | 🟢 | 🔵 | 🟡 | 🟢 | 🟡 | 🔵 | GOOD: Functional |
+| 01-08-06-01.txt | 🟢 | 🟢 | 🔵 | 🟡 | 🟢 | 🔴 | 🔵 | REPAIR: Could expand |
+| 01-08-07-01.txt | 🟢 | 🟢 | 🔵 | 🟢 | 🔵 | 🟢 | 🟢 | GOOD: Adequate |
+| 01-08-08-01.txt | 🟢 | 🟢 | 🔵 | 🟡 | 🟢 | 🟣 | 🔵 | **CRITICAL**: 36B source, 1 line - structural marker but missing commentary |
 
 ### CHAPTER 01-09: How Delusion Arises
 
 | File | Cognitive | Epistemic | Scholar | Literal | Liturgical | Commentary | Delusion | Notes |
 |------|-----------|-----------|---------|------------|----------|-------|
-| 01-09-01-01.txt | 🟢 | 🟢 | 🔵 | 🔵 | 🔵 | 🔵 | 🔵 | EXEMPLARY: 1,458 lines commentary, massive section |
-| 01-09-02-01.txt | 🟢 | 🟢 | 🔵 | 🔵 | 🔵 | 🔴 | 🔵 | REPAIR: Could expand commentary |
+| 01-09-01-01.txt | 🟢 | 🟢 | 🔵 | 🟢 | 🔵 | 🔵 | 🔵 | EXEMPLARY: 1,458 lines commentary, massive section |
+| 01-09-02-01.txt | 🟢 | 🟢 | 🔵 | 🟡 | 🔵 | 🔴 | 🔵 | REPAIR: Could expand commentary |
 
 ### CHAPTER 01-10: Wisdoms and Kayas
 
 | File | Cognitive | Epistemic | Scholar | Literal | Liturgical | Commentary | Delusion | Notes |
 |------|-----------|-----------|---------|------------|----------|-------|
-| 01-10-01-01.txt | 🟢 | 🟢 | 🔵 | 🔵 | 🔵 | 🔵 | 🟢 | EXEMPLARY: 486 lines commentary |
+| 01-10-01-01.txt | 🟢 | 🟢 | 🔵 | 🟢 | 🔵 | 🔵 | 🟢 | EXEMPLARY: 486 lines commentary |
 
 ### CHAPTER 01-11: Channels Winds Bindus
 
 | File | Cognitive | Epistemic | Scholar | Literal | Liturgical | Commentary | Delusion | Notes |
 |------|-----------|-----------|---------|------------|----------|-------|
-| 01-11-01-01.txt | 🟢 | 🟢 | 🔵 | 🔵 | 🔵 | 🔵 | 🟢 | EXEMPLARY: Comprehensive |
-| 01-11-02-01.txt | 🟢 | 🟢 | 🔵 | 🔵 | 🔵 | 🟢 | 🟢 | GOOD: Quality coverage |
+| 01-11-01-01.txt | 🟢 | 🟢 | 🔵 | 🟢 | 🔵 | 🔵 | 🟢 | EXEMPLARY: Comprehensive |
+| 01-11-02-01.txt | 🟢 | 🟢 | 🔵 | 🟢 | 🔵 | 🟢 | 🟢 | GOOD: Quality coverage |
 
 ### CHAPTER 01-12: Key Points
 
 | File | Cognitive | Epistemic | Scholar | Literal | Liturgical | Commentary | Delusion | Notes |
 |------|-----------|-----------|---------|------------|----------|-------|
-| 01-12-01-01.txt | 🟢 | 🟢 | 🔵 | 🔵 | 🔵 | 🔵 | 🟡 | EXEMPLARY: Comprehensive commentary |
-| 01-12-02-01.txt | 🟢 | 🟢 | 🔵 | 🔵 | 🔵 | 🔵 | 🟢 | EXEMPLARY: Quality coverage |
-| 01-12-03-01.txt | 🟢 | 🟢 | 🔵 | 🔵 | 🔵 | 🟢 | 🟢 | GOOD: Adequate |
-| 01-12-04-01.txt | 🟢 | 🟢 | 🔵 | 🔵 | 🔵 | 🔵 | 🔵 | EXEMPLARY: Strong across all layers |
-| 01-12-05-01.txt | 🟢 | 🟢 | 🔵 | 🔵 | 🔵 | 🔵 | 🔵 | EXEMPLARY: Comprehensive |
-| 01-12-05-02.txt | 🟢 | 🟢 | 🔵 | 🔵 | 🔵 | 🔵 | 🔵 | EXEMPLARY: Quality |
-| 01-12-06-01.txt | 🟢 | 🟢 | 🔵 | 🟢 | 🟢 | 🟡 | 🔵 | ADEQUATE: 729B source, 14 lines commentary |
-| 01-12-07-01.txt | 🟢 | 🟢 | 🔵 | 🔵 | 🔵 | 🔵 | 🟡 | GOOD: Strong commentary |
+| 01-12-01-01.txt | 🟢 | 🟢 | 🔵 | 🟢 | 🔵 | 🔵 | 🟡 | EXEMPLARY: Comprehensive commentary |
+| 01-12-02-01.txt | 🟢 | 🟢 | 🔵 | 🟡 | 🔵 | 🔵 | 🟢 | EXEMPLARY: Quality coverage |
+| 01-12-03-01.txt | 🟢 | 🟢 | 🔵 | 🟡 | 🔵 | 🟢 | 🟢 | GOOD: Adequate |
+| 01-12-04-01.txt | 🟢 | 🟢 | 🔵 | 🟡 | 🔵 | 🔵 | 🔵 | EXEMPLARY: Strong across all layers |
+| 01-12-05-01.txt | 🟢 | 🟢 | 🔵 | 🟡 | 🔵 | 🔵 | 🔵 | EXEMPLARY: Comprehensive |
+| 01-12-05-02.txt | 🟢 | 🟢 | 🔵 | 🟡 | 🔵 | 🔵 | 🔵 | EXEMPLARY: Quality |
+| 01-12-06-01.txt | 🟢 | 🟢 | 🔵 | 🟡 | 🟢 | 🟡 | 🔵 | ADEQUATE: 729B source, 14 lines commentary |
+| 01-12-07-01.txt | 🟢 | 🟢 | 🔵 | 🟢 | 🔵 | 🔵 | 🟡 | GOOD: Strong commentary |
 
 ### CHAPTER 01-13: Four Lamps
 
 | File | Cognitive | Epistemic | Scholar | Literal | Liturgical | Commentary | Delusion | Notes |
 |------|-----------|-----------|---------|------------|----------|-------|
-| 01-13-01-01.txt | 🟢 | 🟢 | 🟡 | 🔵 | 🔵 | 🟡 | 🔵 | GOOD: Delusion layer excellent |
-| 01-13-02-01.txt | 🟢 | 🟢 | 🔵 | 🔵 | 🔵 | 🟡 | 🟢 | GOOD: Adequate coverage |
-| 01-13-03-01.txt | 🟢 | 🟢 | 🔵 | 🔵 | 🔵 | 🔵 | 🟢 | EXEMPLARY: Comprehensive |
-| 01-13-04-01.txt | 🟢 | 🟢 | 🔵 | 🔵 | 🔵 | 🟢 | 🟢 | GOOD: Quality |
-| 01-13-05-01.txt | 🟢 | 🟢 | 🔵 | 🔵 | 🔵 | 🔵 | 🟢 | EXEMPLARY: Strong |
-| 01-13-06-01.txt | 🟢 | 🟢 | 🔵 | 🔵 | 🔵 | 🔵 | 🟡 | EXEMPLARY: Good coverage |
+| 01-13-01-01.txt | 🟢 | 🟢 | 🟡 | 🟢 | 🔵 | 🟡 | 🔵 | GOOD: Delusion layer excellent |
+| 01-13-02-01.txt | 🟢 | 🟢 | 🔵 | 🟢 | 🔵 | 🟡 | 🟢 | GOOD: Adequate coverage |
+| 01-13-03-01.txt | 🟢 | 🟢 | 🔵 | 🟢 | 🔵 | 🔵 | 🟢 | EXEMPLARY: Comprehensive |
+| 01-13-04-01.txt | 🟢 | 🟢 | 🔵 | 🟢 | 🔵 | 🟢 | 🟢 | GOOD: Quality |
+| 01-13-05-01.txt | 🟢 | 🟢 | 🔵 | 🟢 | 🔵 | 🔵 | 🟢 | EXEMPLARY: Strong |
+| 01-13-06-01.txt | 🟢 | 🟢 | 🔵 | 🟢 | 🔵 | 🔵 | 🟡 | EXEMPLARY: Good coverage |
 
 ### CHAPTER 01-14: Basis of Consciousness
 
 | File | Cognitive | Epistemic | Scholar | Literal | Liturgical | Commentary | Delusion | Notes |
 |------|-----------|-----------|---------|------------|----------|-------|
-| 01-14-01-01.txt | 🟢 | 🟢 | 🔵 | 🔵 | 🔵 | 🔵 | 🟢 | EXEMPLARY: Comprehensive |
-| 01-14-02-01.txt | 🟢 | 🟢 | 🔵 | 🔵 | 🔵 | 🔵 | 🟢 | EXEMPLARY: Quality |
-| 01-14-03-01.txt | 🟢 | 🟢 | 🔵 | 🔵 | 🔵 | 🔵 | 🔵 | EXEMPLARY: Strong analysis |
-| 01-14-03-02.txt | 🟢 | 🟢 | 🔵 | 🟢 | 🟢 | 🔴 | 🔵 | REPAIR: Could expand commentary |
-| 01-14-04-01.txt | 🟢 | 🟢 | 🔵 | 🔵 | 🔵 | 🔵 | 🔵 | EXEMPLARY: Comprehensive |
-| 01-14-05-01.txt | 🟢 | 🟢 | 🔵 | 🔵 | 🔵 | 🟢 | 🟢 | GOOD: Adequate |
-| 01-14-06-01.txt | 🟢 | 🟢 | 🔵 | 🔵 | 🔵 | 🔵 | 🟢 | EXEMPLARY: Quality |
-| 01-14-07-01.txt | 🟢 | 🟢 | 🔵 | 🟢 | 🟢 | 🟣 | 🔵 | **CRITICAL**: 105B source, 3 lines placeholder |
-| 01-14-07-02.txt | 🟢 | 🟢 | 🔵 | 🟢 | 🟢 | 🟣 | 🔵 | **CRITICAL**: 114B source, 3 lines placeholder |
-| 01-14-07-03.txt | 🟢 | 🟢 | 🔵 | 🟢 | 🟢 | 🟡 | 🔵 | GOOD: Adequate |
-| 01-14-07-04.txt | 🟢 | 🟢 | 🔵 | 🟢 | 🟢 | 🟡 | 🔵 | GOOD: Functional |
-| 01-14-08-01.txt | 🟢 | 🟢 | 🔵 | 🔵 | 🔵 | 🔵 | 🔵 | EXEMPLARY: Comprehensive |
-| 01-14-09-01.txt | 🟢 | 🟢 | 🔵 | 🔵 | 🔵 | 🔵 | 🔵 | EXEMPLARY: Strong |
-| 01-14-10-01.txt | 🟢 | 🟢 | 🔵 | 🔵 | 🔵 | 🔵 | 🟢 | EXEMPLARY: Quality |
-| 01-14-11-01.txt | 🟢 | 🟢 | 🔵 | 🔵 | 🔵 | 🔵 | 🔵 | EXEMPLARY: Comprehensive |
-| 01-14-12-01.txt | 🟢 | 🟢 | 🔵 | 🔵 | 🔵 | 🟢 | 🔵 | GOOD: Adequate |
-| 01-14-13-01.txt | 🟢 | 🟢 | 🔵 | 🔵 | 🔵 | 🔵 | 🔵 | EXEMPLARY: Strong analysis |
+| 01-14-01-01.txt | 🟢 | 🟢 | 🔵 | 🟡 | 🔵 | 🔵 | 🟢 | EXEMPLARY: Comprehensive |
+| 01-14-02-01.txt | 🟢 | 🟢 | 🔵 | 🟡 | 🔵 | 🔵 | 🟢 | EXEMPLARY: Quality |
+| 01-14-03-01.txt | 🟢 | 🟢 | 🔵 | 🟢 | 🔵 | 🔵 | 🔵 | EXEMPLARY: Strong analysis |
+| 01-14-03-02.txt | 🟢 | 🟢 | 🔵 | 🟡 | 🟢 | 🔴 | 🔵 | REPAIR: Could expand commentary |
+| 01-14-04-01.txt | 🟢 | 🟢 | 🔵 | 🟢 | 🔵 | 🔵 | 🔵 | EXEMPLARY: Comprehensive |
+| 01-14-05-01.txt | 🟢 | 🟢 | 🔵 | 🟢 | 🔵 | 🟢 | 🟢 | GOOD: Adequate |
+| 01-14-06-01.txt | 🟢 | 🟢 | 🔵 | 🟢 | 🔵 | 🔵 | 🟢 | EXEMPLARY: Quality |
+| 01-14-07-01.txt | 🟢 | 🟢 | 🔵 | 🟡 | 🟢 | 🟣 | 🔵 | **CRITICAL**: 105B source, 3 lines placeholder |
+| 01-14-07-02.txt | 🟢 | 🟢 | 🔵 | 🟡 | 🟢 | 🟣 | 🔵 | **CRITICAL**: 114B source, 3 lines placeholder |
+| 01-14-07-03.txt | 🟢 | 🟢 | 🔵 | 🟡 | 🟢 | 🟡 | 🔵 | GOOD: Adequate |
+| 01-14-07-04.txt | 🟢 | 🟢 | 🔵 | 🟡 | 🟢 | 🟡 | 🔵 | GOOD: Functional |
+| 01-14-08-01.txt | 🟢 | 🟢 | 🔵 | 🟡 | 🔵 | 🔵 | 🔵 | EXEMPLARY: Comprehensive |
+| 01-14-09-01.txt | 🟢 | 🟢 | 🔵 | 🟢 | 🔵 | 🔵 | 🔵 | EXEMPLARY: Strong |
+| 01-14-10-01.txt | 🟢 | 🟢 | 🔵 | 🟡 | 🔵 | 🔵 | 🟢 | EXEMPLARY: Quality |
+| 01-14-11-01.txt | 🟢 | 🟢 | 🔵 | 🟡 | 🔵 | 🔵 | 🔵 | EXEMPLARY: Comprehensive |
+| 01-14-12-01.txt | 🟢 | 🟢 | 🔵 | 🟢 | 🔵 | 🟢 | 🔵 | GOOD: Adequate |
+| 01-14-13-01.txt | 🟢 | 🟢 | 🔵 | 🟢 | 🔵 | 🔵 | 🔵 | EXEMPLARY: Strong analysis |
 
 **Volume 1 Status:** 101/113 sections fully ready (89.4%)  
 **F-grades in Vol 1:** 9 files (all in Commentary layer)  
@@ -527,69 +527,69 @@ Qualitative scan detected Wylie (Tibetan romanization) terms embedded in Literal
 
 | File | Cognitive | Epistemic | Scholar | Literal | Liturgical | Commentary | Delusion | Notes |
 |------|-----------|-----------|---------|------------|----------|-------|
-| 02-15-01-01.txt | 🟢 | 🟢 | 🔵 | 🔵 | 🔵 | 🟢 | 🟢 | GOOD: Adequate coverage |
-| 02-15-02-01.txt | 🟢 | 🟢 | 🔵 | 🔵 | 🔵 | 🔵 | 🟢 | EXEMPLARY: Comprehensive |
-| 02-15-03-01.txt | 🟢 | 🟢 | 🔵 | 🟢 | 🟢 | 🟡 | 🔵 | ADEQUATE: Could expand commentary |
+| 02-15-01-01.txt | 🟢 | 🟢 | 🔵 | 🟢 | 🔵 | 🟢 | 🟢 | GOOD: Adequate coverage |
+| 02-15-02-01.txt | 🟢 | 🟢 | 🔵 | 🟡 | 🔵 | 🔵 | 🟢 | EXEMPLARY: Comprehensive |
+| 02-15-03-01.txt | 🟢 | 🟢 | 🔵 | 🟡 | 🟢 | 🟡 | 🔵 | ADEQUATE: Could expand commentary |
 
 ### CHAPTER 02-16: Main Practice
 
 | File | Cognitive | Epistemic | Scholar | Literal | Liturgical | Commentary | Delusion | Notes |
 |------|-----------|-----------|---------|------------|----------|-------|
-| 02-16-01-01.txt | 🟢 | 🟢 | 🔵 | 🔵 | 🔵 | 🔵 | 🟡 | EXEMPLARY: Strong commentary |
-| 02-16-02-01.txt | 🟢 | 🟢 | 🔵 | 🔵 | 🔵 | 🔵 | 🟢 | EXEMPLARY: Comprehensive |
-| 02-16-03-01.txt | 🟢 | 🟢 | 🔵 | 🔵 | 🔵 | 🔵 | 🟢 | EXEMPLARY: Quality |
-| 02-16-04-01.txt | 🟢 | 🟢 | 🔵 | 🔵 | 🔵 | 🟡 | 🟢 | GOOD: Adequate |
-| 02-16-05-01.txt | 🟢 | 🟢 | 🟡 | 🔵 | 🔵 | 🟡 | 🟢 | ADEQUATE: Could expand |
+| 02-16-01-01.txt | 🟢 | 🟢 | 🔵 | 🟢 | 🔵 | 🔵 | 🟡 | EXEMPLARY: Strong commentary |
+| 02-16-02-01.txt | 🟢 | 🟢 | 🔵 | 🟢 | 🔵 | 🔵 | 🟢 | EXEMPLARY: Comprehensive |
+| 02-16-03-01.txt | 🟢 | 🟢 | 🔵 | 🟡 | 🔵 | 🔵 | 🟢 | EXEMPLARY: Quality |
+| 02-16-04-01.txt | 🟢 | 🟢 | 🔵 | 🟡 | 🔵 | 🟡 | 🟢 | GOOD: Adequate |
+| 02-16-05-01.txt | 🟢 | 🟢 | 🟡 | 🟡 | 🔵 | 🟡 | 🟢 | ADEQUATE: Could expand |
 
 ### CHAPTER 02-17: Development Stage
 
 | File | Cognitive | Epistemic | Scholar | Literal | Liturgical | Commentary | Delusion | Notes |
 |------|-----------|-----------|---------|------------|----------|-------|
-| 02-17-01-01.txt | 🟢 | 🟢 | 🟡 | 🔵 | 🔵 | 🟡 | 🟢 | ADEQUATE: Functional coverage |
-| 02-17-02-01.txt | 🟢 | 🟢 | 🔵 | 🔵 | 🔵 | 🔵 | 🟢 | EXEMPLARY: Comprehensive |
-| 02-17-03-01.txt | 🟢 | 🟢 | 🔵 | 🟢 | 🟢 | 🟡 | 🔵 | ADEQUATE: Short source |
-| 02-17-04-01.txt | 🟢 | 🟢 | 🔵 | 🔵 | 🔵 | 🔵 | 🟢 | EXEMPLARY: Strong analysis |
-| 02-17-05-01.txt | 🟢 | 🟢 | 🟡 | 🔵 | 🔵 | 🟡 | 🔵 | ADEQUATE: Functional |
-| 02-17-06-01.txt | 🟢 | 🟢 | 🔵 | 🔵 | 🔵 | 🔵 | 🟢 | EXEMPLARY: Comprehensive |
-| 02-17-07-01.txt | 🟢 | 🟢 | 🟡 | 🔵 | 🔵 | 🔵 | 🟢 | GOOD: Strong commentary |
-| 02-17-08-01.txt | 🟢 | 🟢 | 🟡 | 🔵 | 🔵 | 🟡 | 🟢 | ADEQUATE: Adequate |
-| 02-17-09-01.txt | 🟢 | 🟢 | 🔵 | 🔵 | 🔵 | 🟡 | 🔵 | ADEQUATE: Could expand |
-| 02-17-09-02.txt | 🟢 | 🟢 | 🔵 | 🔵 | 🔵 | 🟢 | 🔵 | GOOD: Quality |
-| 02-17-10-01.txt | 🟢 | 🟢 | 🔵 | 🔵 | 🔵 | 🔵 | 🔵 | EXEMPLARY: Strong |
-| 02-17-11-01.txt | 🟢 | 🟢 | 🔵 | 🔵 | 🔵 | 🔵 | 🟡 | EXEMPLARY: Comprehensive |
-| 02-17-12-01.txt | 🟢 | 🟢 | 🔵 | 🔵 | 🔵 | 🔵 | 🔵 | EXEMPLARY: Quality |
-| 02-17-13-01.txt | 🟢 | 🟢 | 🔵 | 🔵 | 🔵 | 🔵 | 🟢 | EXEMPLARY: Comprehensive |
-| 02-17-14-01.txt | 🟢 | 🟢 | 🔵 | 🔵 | 🔵 | 🔵 | 🟢 | EXEMPLARY: Strong analysis |
+| 02-17-01-01.txt | 🟢 | 🟢 | 🟡 | 🟡 | 🔵 | 🟡 | 🟢 | ADEQUATE: Functional coverage |
+| 02-17-02-01.txt | 🟢 | 🟢 | 🔵 | 🟡 | 🔵 | 🔵 | 🟢 | EXEMPLARY: Comprehensive |
+| 02-17-03-01.txt | 🟢 | 🟢 | 🔵 | 🟡 | 🟢 | 🟡 | 🔵 | ADEQUATE: Short source |
+| 02-17-04-01.txt | 🟢 | 🟢 | 🔵 | 🟢 | 🔵 | 🔵 | 🟢 | EXEMPLARY: Strong analysis |
+| 02-17-05-01.txt | 🟢 | 🟢 | 🟡 | 🟡 | 🔵 | 🟡 | 🔵 | ADEQUATE: Functional |
+| 02-17-06-01.txt | 🟢 | 🟢 | 🔵 | 🟢 | 🔵 | 🔵 | 🟢 | EXEMPLARY: Comprehensive |
+| 02-17-07-01.txt | 🟢 | 🟢 | 🟡 | 🟡 | 🔵 | 🔵 | 🟢 | GOOD: Strong commentary |
+| 02-17-08-01.txt | 🟢 | 🟢 | 🟡 | 🟡 | 🔵 | 🟡 | 🟢 | ADEQUATE: Adequate |
+| 02-17-09-01.txt | 🟢 | 🟢 | 🔵 | 🟡 | 🔵 | 🟡 | 🔵 | ADEQUATE: Could expand |
+| 02-17-09-02.txt | 🟢 | 🟢 | 🔵 | 🟡 | 🔵 | 🟢 | 🔵 | GOOD: Quality |
+| 02-17-10-01.txt | 🟢 | 🟢 | 🔵 | 🟡 | 🔵 | 🔵 | 🔵 | EXEMPLARY: Strong |
+| 02-17-11-01.txt | 🟢 | 🟢 | 🔵 | 🟢 | 🔵 | 🔵 | 🟡 | EXEMPLARY: Comprehensive |
+| 02-17-12-01.txt | 🟢 | 🟢 | 🔵 | 🟢 | 🔵 | 🔵 | 🔵 | EXEMPLARY: Quality |
+| 02-17-13-01.txt | 🟢 | 🟢 | 🔵 | 🟢 | 🔵 | 🔵 | 🟢 | EXEMPLARY: Comprehensive |
+| 02-17-14-01.txt | 🟢 | 🟢 | 🔵 | 🟢 | 🔵 | 🔵 | 🟢 | EXEMPLARY: Strong analysis |
 
 ### CHAPTER 02-18: Completion Stage
 
 | File | Cognitive | Epistemic | Scholar | Literal | Liturgical | Commentary | Delusion | Notes |
 |------|-----------|-----------|---------|------------|----------|-------|
-| 02-18-01-01.txt | 🟢 | 🟢 | 🔵 | 🔵 | 🔵 | 🔵 | 🟢 | EXEMPLARY: Comprehensive |
-| 02-18-02-01.txt | 🟢 | 🟢 | 🔵 | 🔵 | 🔵 | 🟢 | 🟡 | GOOD: Adequate |
-| 02-18-02-02.txt | 🟢 | 🟢 | 🔵 | 🟢 | 🟢 | 🔴 | 🟢 | REPAIR: Could expand |
-| 02-18-02-03.txt | 🟢 | 🟢 | 🟡 | 🟢 | 🟢 | 🟡 | 🟡 | ADEQUATE: Functional |
-| 02-18-03-01.txt | 🟢 | 🟢 | 🔵 | 🟢 | 🟢 | 🟣 | 🔵 | **CRITICAL**: 335B source, 5 lines placeholder |
-| 02-18-03-02.txt | 🟢 | 🟢 | 🔵 | 🟢 | 🟢 | 🟣 | 🔵 | **CRITICAL**: 398B source, 6 lines placeholder |
-| 02-18-03-03.txt | 🟢 | 🟢 | 🔵 | 🟢 | 🟢 | 🟣 | 🔵 | **CRITICAL**: 227B source, 4 lines placeholder - **worst in chapter** |
-| 02-18-03-04.txt | 🟢 | 🟢 | 🔵 | 🔵 | 🔵 | 🟢 | 🔵 | GOOD: Quality coverage |
-| 02-18-04-01.txt | 🟢 | 🟢 | 🔵 | 🔵 | 🔵 | 🔵 | 🟢 | EXEMPLARY: Comprehensive |
-| 02-18-05-01.txt | 🟢 | 🟢 | 🔵 | 🔵 | 🔵 | 🟢 | 🟢 | GOOD: Adequate |
-| 02-18-06-01.txt | 🟢 | 🟢 | 🔵 | 🔵 | 🔵 | 🟢 | 🔵 | GOOD: Quality |
-| 02-18-07-01.txt | 🟢 | 🟢 | 🔵 | 🔵 | 🔵 | 🔵 | 🟡 | EXEMPLARY: Strong commentary |
-| 02-18-08-01.txt | 🟢 | 🟢 | 🔵 | 🔵 | 🔵 | 🔵 | 🟢 | EXEMPLARY: Comprehensive |
-| 02-18-08-02.txt | 🟢 | 🟢 | 🟡 | 🔵 | 🔵 | 🟡 | 🔵 | ADEQUATE: Could expand |
-| 02-18-09-01.txt | 🟢 | 🟢 | 🔵 | 🔵 | 🔵 | 🟡 | 🔵 | ADEQUATE: Short source |
-| 02-18-10-01.txt | 🟢 | 🟢 | 🔵 | 🔵 | 🔵 | 🟡 | 🔵 | ADEQUATE: Could expand |
-| 02-18-11-01.txt | 🟢 | 🟢 | 🔵 | 🔵 | 🔵 | 🟢 | 🔵 | GOOD: Quality |
-| 02-18-12-01.txt | 🟢 | 🟢 | 🔵 | 🔵 | 🔵 | 🟢 | 🔵 | GOOD: Adequate |
-| 02-18-13-01.txt | 🟢 | 🟢 | 🔵 | 🔵 | 🔵 | 🔵 | 🟢 | EXEMPLARY: Comprehensive |
-| 02-18-14-01.txt | 🟢 | 🟢 | 🔵 | 🟢 | 🟢 | 🟡 | 🟢 | ADEQUATE: Could expand |
-| 02-18-15-01.txt | 🟢 | 🟢 | 🔵 | 🔵 | 🔵 | 🔵 | 🔵 | EXEMPLARY: Strong |
-| 02-18-16-01.txt | 🟢 | 🟢 | 🔵 | 🟢 | 🟢 | 🟡 | 🟡 | ADEQUATE: Functional |
-| 02-18-16-02.txt | 🟢 | 🟢 | 🔵 | 🟢 | 🟢 | 🟡 | 🔵 | ADEQUATE: Short source |
-| 02-18-16-03.txt | 🟢 | 🟢 | 🔵 | 🟢 | 🟢 | 🟡 | 🔵 | ADEQUATE: Short source |
-| 02-18-16-04.txt | 🟢 | 🟢 | 🔵 | 🔵 | 🔵 | 🟡 | 🔵 | ADEQUATE: Could expand |
+| 02-18-01-01.txt | 🟢 | 🟢 | 🔵 | 🟡 | 🔵 | 🔵 | 🟢 | EXEMPLARY: Comprehensive |
+| 02-18-02-01.txt | 🟢 | 🟢 | 🔵 | 🟡 | 🔵 | 🟢 | 🟡 | GOOD: Adequate |
+| 02-18-02-02.txt | 🟢 | 🟢 | 🔵 | 🟡 | 🟢 | 🔴 | 🟢 | REPAIR: Could expand |
+| 02-18-02-03.txt | 🟢 | 🟢 | 🟡 | 🟡 | 🟢 | 🟡 | 🟡 | ADEQUATE: Functional |
+| 02-18-03-01.txt | 🟢 | 🟢 | 🔵 | 🟡 | 🟢 | 🟣 | 🔵 | **CRITICAL**: 335B source, 5 lines placeholder |
+| 02-18-03-02.txt | 🟢 | 🟢 | 🔵 | 🟡 | 🟢 | 🟣 | 🔵 | **CRITICAL**: 398B source, 6 lines placeholder |
+| 02-18-03-03.txt | 🟢 | 🟢 | 🔵 | 🟡 | 🟢 | 🟣 | 🔵 | **CRITICAL**: 227B source, 4 lines placeholder - **worst in chapter** |
+| 02-18-03-04.txt | 🟢 | 🟢 | 🔵 | 🟡 | 🔵 | 🟢 | 🔵 | GOOD: Quality coverage |
+| 02-18-04-01.txt | 🟢 | 🟢 | 🔵 | 🟡 | 🔵 | 🔵 | 🟢 | EXEMPLARY: Comprehensive |
+| 02-18-05-01.txt | 🟢 | 🟢 | 🔵 | 🟡 | 🔵 | 🟢 | 🟢 | GOOD: Adequate |
+| 02-18-06-01.txt | 🟢 | 🟢 | 🔵 | 🟡 | 🔵 | 🟢 | 🔵 | GOOD: Quality |
+| 02-18-07-01.txt | 🟢 | 🟢 | 🔵 | 🟢 | 🔵 | 🔵 | 🟡 | EXEMPLARY: Strong commentary |
+| 02-18-08-01.txt | 🟢 | 🟢 | 🔵 | 🟢 | 🔵 | 🔵 | 🟢 | EXEMPLARY: Comprehensive |
+| 02-18-08-02.txt | 🟢 | 🟢 | 🟡 | 🟡 | 🔵 | 🟡 | 🔵 | ADEQUATE: Could expand |
+| 02-18-09-01.txt | 🟢 | 🟢 | 🔵 | 🟡 | 🔵 | 🟡 | 🔵 | ADEQUATE: Short source |
+| 02-18-10-01.txt | 🟢 | 🟢 | 🔵 | 🟡 | 🔵 | 🟡 | 🔵 | ADEQUATE: Could expand |
+| 02-18-11-01.txt | 🟢 | 🟢 | 🔵 | 🟡 | 🔵 | 🟢 | 🔵 | GOOD: Quality |
+| 02-18-12-01.txt | 🟢 | 🟢 | 🔵 | 🟡 | 🔵 | 🟢 | 🔵 | GOOD: Adequate |
+| 02-18-13-01.txt | 🟢 | 🟢 | 🔵 | 🟡 | 🔵 | 🔵 | 🟢 | EXEMPLARY: Comprehensive |
+| 02-18-14-01.txt | 🟢 | 🟢 | 🔵 | 🟡 | 🟢 | 🟡 | 🟢 | ADEQUATE: Could expand |
+| 02-18-15-01.txt | 🟢 | 🟢 | 🔵 | 🟡 | 🔵 | 🔵 | 🔵 | EXEMPLARY: Strong |
+| 02-18-16-01.txt | 🟢 | 🟢 | 🔵 | 🟡 | 🟢 | 🟡 | 🟡 | ADEQUATE: Functional |
+| 02-18-16-02.txt | 🟢 | 🟢 | 🔵 | 🟡 | 🟢 | 🟡 | 🔵 | ADEQUATE: Short source |
+| 02-18-16-03.txt | 🟢 | 🟢 | 🔵 | 🟡 | 🟢 | 🟡 | 🔵 | ADEQUATE: Short source |
+| 02-18-16-04.txt | 🟢 | 🟢 | 🔵 | 🟡 | 🔵 | 🟡 | 🔵 | ADEQUATE: Could expand |
 
 **Note:** Chapter 02-18 has 3 F-grade commentary files in Completion Stage section.
 
@@ -597,69 +597,69 @@ Qualitative scan detected Wylie (Tibetan romanization) terms embedded in Literal
 
 | File | Cognitive | Epistemic | Scholar | Literal | Liturgical | Commentary | Delusion | Notes |
 |------|-----------|-----------|---------|------------|----------|-------|
-| 02-19-00-01.txt | 🟢 | 🟢 | 🔵 | 🔵 | 🔵 | 🔵 | 🔵 | EXEMPLARY: Advanced practice, comprehensive coverage |
-| 02-19-01-01.txt | 🟢 | 🟢 | 🔵 | 🔵 | 🔵 | 🔵 | 🟡 | EXEMPLARY: 735 lines commentary, strong analysis |
+| 02-19-00-01.txt | 🟢 | 🟢 | 🔵 | 🟢 | 🔵 | 🔵 | 🔵 | EXEMPLARY: Advanced practice, comprehensive coverage |
+| 02-19-01-01.txt | 🟢 | 🟢 | 🔵 | 🟢 | 🔵 | 🔵 | 🟡 | EXEMPLARY: 735 lines commentary, strong analysis |
 
 ### CHAPTER 02-20: Thogal
 
 | File | Cognitive | Epistemic | Scholar | Literal | Liturgical | Commentary | Delusion | Notes |
 |------|-----------|-----------|---------|------------|----------|-------|
-| 02-20-01-01.txt | 🟢 | 🟢 | 🔵 | 🔵 | 🔵 | 🔵 | 🟡 | EXEMPLARY: 590 lines commentary |
-| 02-20-02-01.txt | 🟢 | 🟢 | 🟡 | 🔵 | 🔵 | 🟢 | 🔵 | GOOD: Adequate |
-| 02-20-03-01.txt | 🟢 | 🟢 | 🔵 | 🟢 | 🟢 | 🟣 | 🔵 | **CRITICAL**: 403B source, 5 lines placeholder |
-| 02-20-04-01.txt | 🟢 | 🟢 | 🟡 | 🔵 | 🔵 | 🟡 | 🔵 | ADEQUATE: Functional |
-| 02-20-05-01.txt | 🟢 | 🟢 | 🔵 | 🔵 | 🔵 | 🟡 | 🔵 | ADEQUATE: Could expand |
-| 02-20-06-01.txt | 🟢 | 🟢 | 🔵 | 🟢 | 🟢 | 🔴 | 🟢 | REPAIR: Could expand commentary |
-| 02-20-07-01.txt | 🟢 | 🟢 | 🟡 | 🔵 | 🔵 | 🟢 | 🔵 | GOOD: Quality |
-| 02-20-08-01.txt | 🟢 | 🟢 | 🔵 | 🔵 | 🔵 | 🔵 | 🔵 | EXEMPLARY: Comprehensive |
-| 02-20-09-01.txt | 🟢 | 🟢 | 🔵 | 🟢 | 🟢 | 🔴 | 🟢 | REPAIR: Could expand |
+| 02-20-01-01.txt | 🟢 | 🟢 | 🔵 | 🟢 | 🔵 | 🔵 | 🟡 | EXEMPLARY: 590 lines commentary |
+| 02-20-02-01.txt | 🟢 | 🟢 | 🟡 | 🟢 | 🔵 | 🟢 | 🔵 | GOOD: Adequate |
+| 02-20-03-01.txt | 🟢 | 🟢 | 🔵 | 🟡 | 🟢 | 🟣 | 🔵 | **CRITICAL**: 403B source, 5 lines placeholder |
+| 02-20-04-01.txt | 🟢 | 🟢 | 🟡 | 🟡 | 🔵 | 🟡 | 🔵 | ADEQUATE: Functional |
+| 02-20-05-01.txt | 🟢 | 🟢 | 🔵 | 🟡 | 🔵 | 🟡 | 🔵 | ADEQUATE: Could expand |
+| 02-20-06-01.txt | 🟢 | 🟢 | 🔵 | 🟡 | 🟢 | 🔴 | 🟢 | REPAIR: Could expand commentary |
+| 02-20-07-01.txt | 🟢 | 🟢 | 🟡 | 🟡 | 🔵 | 🟢 | 🔵 | GOOD: Quality |
+| 02-20-08-01.txt | 🟢 | 🟢 | 🔵 | 🟡 | 🔵 | 🔵 | 🔵 | EXEMPLARY: Comprehensive |
+| 02-20-09-01.txt | 🟢 | 🟢 | 🔵 | 🟡 | 🟢 | 🔴 | 🟢 | REPAIR: Could expand |
 
 ### CHAPTER 02-21: Four Visions
 
 | File | Cognitive | Epistemic | Scholar | Literal | Liturgical | Commentary | Delusion | Notes |
 |------|-----------|-----------|---------|------------|----------|-------|
-| 02-21-00-01.txt | 🟢 | 🟢 | 🔵 | 🔵 | 🔵 | 🔵 | 🔵 | EXEMPLARY: Advanced practice, comprehensive |
-| 02-21-01-01.txt | 🟢 | 🟢 | 🔵 | 🔵 | 🔵 | 🔵 | 🟢 | EXEMPLARY: 289 lines commentary |
+| 02-21-00-01.txt | 🟢 | 🟢 | 🔵 | 🟢 | 🔵 | 🔵 | 🔵 | EXEMPLARY: Advanced practice, comprehensive |
+| 02-21-01-01.txt | 🟢 | 🟢 | 🔵 | 🟢 | 🔵 | 🔵 | 🟢 | EXEMPLARY: 289 lines commentary |
 
 ### CHAPTER 02-22: Bardo
 
 | File | Cognitive | Epistemic | Scholar | Literal | Liturgical | Commentary | Delusion | Notes |
 |------|-----------|-----------|---------|------------|----------|-------|
-| 02-22-01-01.txt | 🟢 | 🟢 | 🔵 | 🔵 | 🔵 | 🔵 | 🟡 | EXEMPLARY: 187 lines commentary, comprehensive |
-| 02-22-02-01.txt | 🟢 | 🟢 | 🟡 | 🔵 | 🔵 | 🟡 | 🔵 | ADEQUATE: Could expand |
-| 02-22-03-01.txt | 🟢 | 🟢 | 🔵 | 🔵 | 🔵 | 🟢 | 🔵 | GOOD: Quality |
-| 02-22-03-02.txt | 🟢 | 🟢 | 🔵 | 🔵 | 🔵 | 🔵 | 🟢 | EXEMPLARY: 155 lines commentary |
-| 02-22-03-03.txt | 🟢 | 🟢 | 🔵 | 🔵 | 🔵 | 🟢 | 🟡 | GOOD: Adequate |
-| 02-22-04-01.txt | 🟢 | 🟢 | 🔵 | 🔵 | 🔵 | 🔵 | 🔵 | EXEMPLARY: Comprehensive |
-| 02-22-05-01.txt | 🟢 | 🟢 | 🔵 | 🔵 | 🔵 | 🔵 | 🟡 | EXEMPLARY: 196 lines commentary |
-| 02-22-05-02.txt | 🟢 | 🟢 | 🔵 | 🔵 | 🔵 | 🟡 | 🔵 | ADEQUATE: Could expand |
-| 02-22-06-01.txt | 🟢 | 🟢 | 🔵 | 🔵 | 🔵 | 🟢 | 🟢 | GOOD: Quality |
-| 02-22-07-01.txt | 🟢 | 🟢 | 🔵 | 🟢 | 🟢 | 🟡 | 🟡 | ADEQUATE: Short source |
+| 02-22-01-01.txt | 🟢 | 🟢 | 🔵 | 🟢 | 🔵 | 🔵 | 🟡 | EXEMPLARY: 187 lines commentary, comprehensive |
+| 02-22-02-01.txt | 🟢 | 🟢 | 🟡 | 🟡 | 🔵 | 🟡 | 🔵 | ADEQUATE: Could expand |
+| 02-22-03-01.txt | 🟢 | 🟢 | 🔵 | 🟡 | 🔵 | 🟢 | 🔵 | GOOD: Quality |
+| 02-22-03-02.txt | 🟢 | 🟢 | 🔵 | 🟢 | 🔵 | 🔵 | 🟢 | EXEMPLARY: 155 lines commentary |
+| 02-22-03-03.txt | 🟢 | 🟢 | 🔵 | 🟡 | 🔵 | 🟢 | 🟡 | GOOD: Adequate |
+| 02-22-04-01.txt | 🟢 | 🟢 | 🔵 | 🟡 | 🔵 | 🔵 | 🔵 | EXEMPLARY: Comprehensive |
+| 02-22-05-01.txt | 🟢 | 🟢 | 🔵 | 🟡 | 🔵 | 🔵 | 🟡 | EXEMPLARY: 196 lines commentary |
+| 02-22-05-02.txt | 🟢 | 🟢 | 🔵 | 🟡 | 🔵 | 🟡 | 🔵 | ADEQUATE: Could expand |
+| 02-22-06-01.txt | 🟢 | 🟢 | 🔵 | 🟡 | 🔵 | 🟢 | 🟢 | GOOD: Quality |
+| 02-22-07-01.txt | 🟢 | 🟢 | 🔵 | 🟡 | 🟢 | 🟡 | 🟡 | ADEQUATE: Short source |
 
 ### CHAPTER 02-23: Phowa
 
 | File | Cognitive | Epistemic | Scholar | Literal | Liturgical | Commentary | Delusion | Notes |
 |------|-----------|-----------|---------|------------|----------|-------|
-| 02-23-01-01.txt | 🟢 | 🟢 | 🔵 | 🔵 | 🔵 | 🔵 | 🔵 | EXEMPLARY: Advanced practice, comprehensive |
-| 02-23-02-01.txt | 🟢 | 🟢 | 🔵 | 🔵 | 🔵 | 🔵 | 🔵 | EXEMPLARY: Strong coverage |
-| 02-23-02-02.txt | 🟢 | 🟢 | 🔵 | 🔵 | 🔵 | 🔵 | 🟢 | EXEMPLARY: Quality |
-| 02-23-03-01.txt | 🟢 | 🟢 | 🔵 | 🔵 | 🔵 | 🔵 | 🟢 | EXEMPLARY: Comprehensive |
-| 02-23-03-02.txt | 🟢 | 🟢 | 🔵 | 🔵 | 🔵 | 🔵 | 🟡 | EXEMPLARY: Strong analysis |
-| 02-23-04-01.txt | 🟢 | 🟢 | 🔵 | 🔵 | 🔵 | 🔵 | 🟡 | EXEMPLARY: Comprehensive |
-| 02-23-05-01.txt | 🟢 | 🟢 | 🔵 | 🟢 | 🟢 | 🟡 | 🟢 | ADEQUATE: Short source |
-| 02-23-06-01.txt | 🟢 | 🟢 | 🔵 | 🔵 | 🔵 | 🔵 | 🟡 | EXEMPLARY: 561 lines commentary |
-| 02-23-06-02.txt | 🟢 | 🟢 | 🔵 | 🔵 | 🔵 | 🟢 | 🔵 | GOOD: Quality |
-| 02-23-07-01.txt | 🟢 | 🟢 | 🔵 | 🔵 | 🔵 | 🟢 | 🟡 | GOOD: Adequate |
-| 02-23-08-01.txt | 🟢 | 🟢 | 🔵 | 🟢 | 🟢 | 🟣 | 🔵 | **CRITICAL**: 57B source, 3 lines placeholder |
-| 02-23-08-02.txt | 🟢 | 🟢 | 🔵 | 🟢 | 🟢 | 🟣 | 🔵 | **CRITICAL**: 78B source, 3 lines placeholder |
-| 02-23-08-03.txt | 🟢 | 🟢 | 🔵 | 🔵 | 🔵 | 🔵 | 🔵 | EXEMPLARY: Comprehensive |
-| 02-23-08-04.txt | 🟢 | 🟢 | 🔵 | 🟢 | 🟢 | 🟣 | 🔵 | **CRITICAL**: 114B source, 3 lines placeholder |
-| 02-23-08-05.txt | 🟢 | 🟢 | 🟡 | 🔵 | 🔵 | 🟡 | 🟢 | ADEQUATE: Could expand |
-| 02-23-08-06.txt | 🟢 | 🟢 | 🔵 | 🟢 | 🟢 | 🟣 | 🔵 | **CRITICAL**: 54B source, 3 lines placeholder |
-| 02-23-08-07.txt | 🟢 | 🟢 | 🔵 | 🟢 | 🟢 | 🟣 | 🔵 | **CRITICAL**: 117B source, 3 lines placeholder |
-| 02-23-08-08.txt | 🟢 | 🟢 | 🔵 | 🟢 | 🟢 | 🟡 | 🔵 | ADEQUATE: Short source |
-| 02-23-08-09.txt | 🟢 | 🟢 | 🔵 | 🔵 | 🔵 | 🟡 | 🟢 | ADEQUATE: Could expand |
-| 02-23-09-01.txt | 🟢 | 🟢 | 🔵 | 🔵 | 🔵 | 🔵 | 🟡 | EXEMPLARY: 336 lines commentary |
+| 02-23-01-01.txt | 🟢 | 🟢 | 🔵 | 🟢 | 🔵 | 🔵 | 🔵 | EXEMPLARY: Advanced practice, comprehensive |
+| 02-23-02-01.txt | 🟢 | 🟢 | 🔵 | 🟡 | 🔵 | 🔵 | 🔵 | EXEMPLARY: Strong coverage |
+| 02-23-02-02.txt | 🟢 | 🟢 | 🔵 | 🟡 | 🔵 | 🔵 | 🟢 | EXEMPLARY: Quality |
+| 02-23-03-01.txt | 🟢 | 🟢 | 🔵 | 🟢 | 🔵 | 🔵 | 🟢 | EXEMPLARY: Comprehensive |
+| 02-23-03-02.txt | 🟢 | 🟢 | 🔵 | 🟢 | 🔵 | 🔵 | 🟡 | EXEMPLARY: Strong analysis |
+| 02-23-04-01.txt | 🟢 | 🟢 | 🔵 | 🟢 | 🔵 | 🔵 | 🟡 | EXEMPLARY: Comprehensive |
+| 02-23-05-01.txt | 🟢 | 🟢 | 🔵 | 🟡 | 🟢 | 🟡 | 🟢 | ADEQUATE: Short source |
+| 02-23-06-01.txt | 🟢 | 🟢 | 🔵 | 🟢 | 🔵 | 🔵 | 🟡 | EXEMPLARY: 561 lines commentary |
+| 02-23-06-02.txt | 🟢 | 🟢 | 🔵 | 🟡 | 🔵 | 🟢 | 🔵 | GOOD: Quality |
+| 02-23-07-01.txt | 🟢 | 🟢 | 🔵 | 🟢 | 🔵 | 🟢 | 🟡 | GOOD: Adequate |
+| 02-23-08-01.txt | 🟢 | 🟢 | 🔵 | 🟡 | 🟢 | 🟣 | 🔵 | **CRITICAL**: 57B source, 3 lines placeholder |
+| 02-23-08-02.txt | 🟢 | 🟢 | 🔵 | 🟡 | 🟢 | 🟣 | 🔵 | **CRITICAL**: 78B source, 3 lines placeholder |
+| 02-23-08-03.txt | 🟢 | 🟢 | 🔵 | 🟡 | 🔵 | 🔵 | 🔵 | EXEMPLARY: Comprehensive |
+| 02-23-08-04.txt | 🟢 | 🟢 | 🔵 | 🟡 | 🟢 | 🟣 | 🔵 | **CRITICAL**: 114B source, 3 lines placeholder |
+| 02-23-08-05.txt | 🟢 | 🟢 | 🟡 | 🟡 | 🔵 | 🟡 | 🟢 | ADEQUATE: Could expand |
+| 02-23-08-06.txt | 🟢 | 🟢 | 🔵 | 🟡 | 🟢 | 🟣 | 🔵 | **CRITICAL**: 54B source, 3 lines placeholder |
+| 02-23-08-07.txt | 🟢 | 🟢 | 🔵 | 🟡 | 🟢 | 🟣 | 🔵 | **CRITICAL**: 117B source, 3 lines placeholder |
+| 02-23-08-08.txt | 🟢 | 🟢 | 🔵 | 🟡 | 🟢 | 🟡 | 🔵 | ADEQUATE: Short source |
+| 02-23-08-09.txt | 🟢 | 🟢 | 🔵 | 🟡 | 🔵 | 🟡 | 🟢 | ADEQUATE: Could expand |
+| 02-23-09-01.txt | 🟢 | 🟢 | 🔵 | 🟢 | 🔵 | 🔵 | 🟡 | EXEMPLARY: 336 lines commentary |
 
 **Note:** Chapter 02-23 (Phowa) has 5 F-grade commentary files in section 02-23-08 (multiple subsections).
 
@@ -667,20 +667,20 @@ Qualitative scan detected Wylie (Tibetan romanization) terms embedded in Literal
 
 | File | Cognitive | Epistemic | Scholar | Literal | Liturgical | Commentary | Delusion | Notes |
 |------|-----------|-----------|---------|------------|----------|-------|
-| 02-24-01-01.txt | 🟢 | 🟢 | 🔵 | 🔵 | 🔵 | 🟢 | 🟡 | GOOD: Adequate coverage |
+| 02-24-01-01.txt | 🟢 | 🟢 | 🔵 | 🟡 | 🔵 | 🟢 | 🟡 | GOOD: Adequate coverage |
 
 ### CHAPTER 02-25: Fruition
 
 | File | Cognitive | Epistemic | Scholar | Literal | Liturgical | Commentary | Delusion | Notes |
 |------|-----------|-----------|---------|------------|----------|-------|
-| 02-25-01-01.txt | 🟢 | 🟢 | 🔵 | 🔵 | 🔵 | 🔵 | 🟢 | EXEMPLARY: 465 lines commentary |
-| 02-25-02-01.txt | 🟢 | 🟢 | 🔵 | 🔵 | 🔵 | 🟡 | 🔵 | ADEQUATE: Short source |
-| 02-25-03-01.txt | 🟢 | 🟢 | 🔵 | 🔵 | 🔵 | 🟡 | 🟢 | ADEQUATE: Could expand |
-| 02-25-04-01.txt | 🟢 | 🟢 | 🔵 | 🔵 | 🔵 | 🟡 | 🔵 | ADEQUATE: Short source |
-| 02-25-05-01.txt | 🟢 | 🟢 | 🔵 | 🔵 | 🔵 | 🟢 | 🟢 | GOOD: Quality |
-| 02-25-06-01.txt | 🟢 | 🟢 | 🔵 | 🔵 | 🔵 | 🟡 | 🟢 | ADEQUATE: Could expand |
-| 02-25-06-02.txt | 🟢 | 🟢 | 🔵 | 🔵 | 🔵 | 🔵 | 🟢 | EXEMPLARY: 241 lines commentary |
-| 02-25-07-01.txt | 🟢 | 🟢 | 🔵 | 🔵 | 🔵 | 🟢 | 🔵 | GOOD: Quality |
+| 02-25-01-01.txt | 🟢 | 🟢 | 🔵 | 🟢 | 🔵 | 🔵 | 🟢 | EXEMPLARY: 465 lines commentary |
+| 02-25-02-01.txt | 🟢 | 🟢 | 🔵 | 🟡 | 🔵 | 🟡 | 🔵 | ADEQUATE: Short source |
+| 02-25-03-01.txt | 🟢 | 🟢 | 🔵 | 🟡 | 🔵 | 🟡 | 🟢 | ADEQUATE: Could expand |
+| 02-25-04-01.txt | 🟢 | 🟢 | 🔵 | 🟡 | 🔵 | 🟡 | 🔵 | ADEQUATE: Short source |
+| 02-25-05-01.txt | 🟢 | 🟢 | 🔵 | 🟢 | 🔵 | 🟢 | 🟢 | GOOD: Quality |
+| 02-25-06-01.txt | 🟢 | 🟢 | 🔵 | 🟡 | 🔵 | 🟡 | 🟢 | ADEQUATE: Could expand |
+| 02-25-06-02.txt | 🟢 | 🟢 | 🔵 | 🟢 | 🔵 | 🔵 | 🟢 | EXEMPLARY: 241 lines commentary |
+| 02-25-07-01.txt | 🟢 | 🟢 | 🔵 | 🟡 | 🔵 | 🟢 | 🔵 | GOOD: Quality |
 
 **Volume 2 Status:** 94/100 sections fully ready (94%)  
 **F-grades in Vol 2:** 2 files (all in Commentary layer)  
