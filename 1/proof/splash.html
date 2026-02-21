@@ -312,6 +312,150 @@
         }
     }
 
+    /* Consent Modal */
+    .consent-modal {
+        position: fixed;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+        background: var(--color-bg);
+        z-index: 2000;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        overflow-y: auto;
+        padding: 2em;
+    }
+
+    .consent-modal.hidden {
+        display: none;
+    }
+
+    .consent-content {
+        max-width: 700px;
+        text-align: center;
+    }
+
+    .consent-header {
+        margin-bottom: 1.5em;
+    }
+
+    .consent-header .main-title {
+        font-size: 1.1em;
+        color: var(--color-muted);
+        text-transform: uppercase;
+        letter-spacing: 0.1em;
+        margin-bottom: 0.5em;
+    }
+
+    .consent-header .title {
+        font-size: 2.2em;
+        color: var(--color-tibetan);
+        margin: 0.3em 0;
+        font-weight: normal;
+    }
+
+    .consent-header .author {
+        font-size: 1.1em;
+        color: var(--color-muted);
+        font-style: italic;
+        margin-bottom: 0.5em;
+    }
+
+    .consent-header .subtitle {
+        font-size: 1.1em;
+        color: var(--color-text);
+    }
+
+    .consent-divider {
+        width: 60%;
+        height: 1px;
+        background: var(--color-border);
+        margin: 1.5em auto;
+    }
+
+    .consent-description {
+        text-align: justify;
+        line-height: 1.8;
+        color: var(--color-text);
+        font-size: 0.95em;
+        margin-bottom: 1.5em;
+    }
+
+    .consent-disclaimer {
+        background: var(--color-bg-tertiary);
+        border: 1px solid var(--color-border);
+        border-radius: 8px;
+        padding: 1.5em;
+        margin: 1.5em 0;
+        text-align: left;
+    }
+
+    .consent-disclaimer ol {
+        margin: 0;
+        padding-left: 1.5em;
+    }
+
+    .consent-disclaimer li {
+        margin-bottom: 0.5em;
+        line-height: 1.5;
+    }
+
+    .consent-agree-btn {
+        display: inline-block;
+        background: var(--color-tibetan);
+        color: #fff;
+        border: none;
+        padding: 1em 2.5em;
+        font-size: 1em;
+        font-family: var(--font-main);
+        cursor: pointer;
+        border-radius: 4px;
+        margin-top: 1.5em;
+        transition: all 0.2s ease;
+    }
+
+    .consent-agree-btn:hover {
+        background: #3a7a9f;
+        transform: translateY(-1px);
+    }
+
+    .consent-footer {
+        margin-top: 2em;
+        color: var(--color-muted);
+        font-size: 0.85em;
+    }
+
+    .consent-footer .license {
+        margin-bottom: 0.5em;
+    }
+
+    .consent-footer .verse {
+        font-style: italic;
+        margin: 1em 0;
+        line-height: 1.6;
+    }
+
+    .consent-footer .translator {
+        margin-top: 1em;
+    }
+
+    .consent-footer .report {
+        margin-top: 1em;
+        font-size: 0.8em;
+    }
+
+    .consent-footer a {
+        color: var(--color-tibetan);
+        text-decoration: none;
+    }
+
+    .consent-footer a:hover {
+        text-decoration: underline;
+    }
+
     /* Welcome screen */
     .welcome-screen {
         text-align: center;
@@ -377,6 +521,60 @@
 </head>
 
 <body>
+    <!-- Consent Modal -->
+    <div id="consent-modal" class="consent-modal">
+        <div class="consent-content">
+            <div class="consent-header">
+                <div class="main-title">The first complete English translation of</div>
+                <h1 class="title">TEKCHOK DZO</h1>
+                <div class="author">Longchenpa Rabjam's</div>
+                <div class="subtitle">Jewel Treasury of the Supreme Vehicle</div>
+                <div class="subtitle">herein abides:</div>
+            </div>
+            
+            <div class="consent-divider"></div>
+            
+            <div class="consent-description">
+                This text is best described as "lineage-restricted esoteric instruction" within the Atiyoga vehicle. It belongs to the Dzogchen "Menngagde" or Instruction Series. This classification indicates it is reserved for initiated students. It requires empowerment and oral transmission from a qualified master. The content covers direct introduction to rigpa. It includes practices like Trekcho and Thogal. These involve the light body and dissolution of elements. In traditional contexts this material is confidential. It is not intended for general intellectual study. The restriction protects the integrity of the practice. It ensures the student has the necessary preparation. Describing it as "empowerment-dependent non-dual instruction" is also accurate. This distinguishes it from exoteric sutra teachings. It aligns with the Nyingma nine-vehicle system where Atiyoga is supreme.
+            </div>
+            
+            <div class="consent-description">
+                This translation was produced in a largely autonomous manner utilizing Kimi K2.5 and the agentic framework OpenCode. The final draft was reviewed and revised by additional models including Qwen 3.5, Grok Expert, GPT5, and GLM5.
+            </div>
+            
+            <div class="consent-disclaimer">
+                <ol>
+                    <li>This is a Restricted Dzogchen text; please consult your lama.</li>
+                    <li>This is an unauthorized translation which arose from personal practice.</li>
+                    <li>This translation was produced using ~300 hours of AI.</li>
+                    <li>The translator does not speak or read Tibetan.</li>
+                    <li>This translation may still have significant metaphysical flaws.</li>
+                    <li>This website is still under construction.</li>
+                    <li>The translator has not read the complete text at this time.</li>
+                    <li>The literal translation is 1,500 pages. The liturgical translation is 1,500 pages.</li>
+                    <li>The website includes an additional 7,500 pages of AI-generated commentary NOT found in the root text.</li>
+                </ol>
+            </div>
+            
+            <button class="consent-agree-btn" onclick="acceptConsent()">I UNDERSTAND AND AGREE TO THE ABOVE TERMS</button>
+            
+            <div class="consent-footer">
+                <div class="license">License: Copyleft</div>
+                <div>February 20, 2026 (Losar)</div>
+                <div class="verse">
+                    As the light of presence spontaneously shines forth,<br>
+                    ultimately not a single thing has arisen:<br>
+                    Ownership finds no ground.
+                </div>
+                <div class="translator">litepresence — radical dzogchen practitioner and emergent systems engineer</div>
+                <div class="report">
+                    Report issues at <a href="https://github.com/litepresence/tekchok-dzo" target="_blank">github.com/litepresence/tekchok-dzo</a>.<br>
+                    Complete git revision history and prompt engineering are available for review.
+                </div>
+            </div>
+        </div>
+    </div>
+
     <!-- Navigation -->
     <nav class="nav-container">
         <div class="nav-tabs">
