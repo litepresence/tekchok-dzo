@@ -14,34 +14,36 @@ Terms are listed alphabetically by their English rendering. Tibetan and Sanskrit
 |------|------------|------------------|
 | **absorption** (bsdu) | Gathering or dissolving; elements absorbing into one another at death. | 01-11-04-01:14172 |
 | **acceptance of anything** (ci yang rung) | The view that the basis accepts and manifests all phenomena without distinction. | 01-08-01-01:10485 |
-| **affliction** (nyon mongs) | Mental factors that disturb the mind and create suffering. | 01-03-03-01:1821 |
-| **aggregate** (phung po) | The five components of personality: form, feeling, perception, formation, consciousness. | 01-03-01-01:1588 |
+| **affliction** (nyon mongs) | Mental factors (kleshas) that disturb the mind; in Dzogchen, recognized as spontaneously self-liberated when their true nature is directly seen. | 01-03-03-01:1821 |
+| **aggregate** (phung po) | The five skandhas (form, feeling, perception, formation, consciousness); in Dzogchen, the aggregates are not rejected but recognized as the spontaneously self-liberated display of the ground (lhun grub kyi snang ba). | 01-03-01-01:1588 |
 | **Kunzhi** (kun gzhi) "All-Ground" | The universal ground or basis of both saṃsāra and nirvāṇa; the neutral ground of all experience. In Dzogchen, distinguished from Dharmakāya (primordially pure wisdom) and from Kunzhi consciousness (the defiled aspect). Literal layer: "kunzhi" (lowercase); Liturgical layer: "Kunzhi" (capitalized). | 01-14-01-01:17361 |
 | **Kunzhi consciousness** (kun gzhi rnam shes) | The defiled aspect of the all-ground; the eighth consciousness in the Yogācāra system; distinct from pure Kunzhi. | 01-03-01-01:1627 |
 | **All-Accomplishing Wisdom** (bya grub ye shes) | Wisdom effortlessly completing all enlightened activities; fourth characteristic-holding wisdom. | 01-14-04-01:18356 |
-| **appearance** (snang ba) | Phenomenal display, manifestation; rang snang (self-appearance), snang stong (appearance-emptiness). | 01-01-01-01:35 |
-| **bardo** (bar do) | Intermediate state between death and rebirth; also moment-to-moment gaps in this life. | 02-19-01-01:11200 |
+| **appearance** (snang ba) | Phenomenal display or manifestation; rang snang (self-appearance of awareness, pure) vs. gzhan snang (other-appearance of delusion, impure); in Dzogchen, appearances and emptiness are non-dual (snang stong dbyer med). | 01-01-01-01:35 |
+| **bardo** (bar do) | Intermediate state between death and rebirth; four types: natural (life), dying, dharmatā (reality), and existence; also refers to moment-to-moment gaps in ordinary experience. | 02-19-01-01:11200 |
+| **basis** (gzhi) | The ground of all experience; the primordial state that is the source of both saṃsāra and nirvāṇa. In Dzogchen, the basis has three aspects: essence (ngo bo) as primordial purity (ka dag), nature (rang bzhin) as spontaneous presence (lhun grub), and compassion (thugs rje) as unceasing manifestation. Distinguished from Kunzhi (the neutral all-ground) and Kunzhi consciousness (the defiled aspect). | 01-08-01-01:10472 |
 | **basis-abiding wisdom** (gzhi gnas kyi ye shes) | Wisdom that dwells primordially as the ground of all experience. | 01-14-04-01:18286 |
-| **bindu** (thig le) | Energy drops or essences; white and red bindus at crown and navel; basis of subtle experience. | 01-11-02-01:13843 |
+| **bindu** (thig le) | Energy drops or essences; white (male, bodhicitta) bindu at crown, red (female, blood) bindu at navel. In Dzogchen: basis of subtle body manifestation, dissolves into clear light at death, giving rise to thögal visions.
 | **binding** (bcings pa) | Fetter, shackle; samaya as dam ('dam) meaning binding or holding. | 02-19-02-01:11370 |
 | **certainty** (nges pa) | The view that the basis is determinate and unchanging in its nature. | 01-08-01-01:10483 |
 | **changeability** (bsgyur rung) | The view that the basis can transform into anything whatsoever. | 01-08-01-01:10484 |
 | **channel** (rtsa) | Subtle energy channels (nāḍī) through which winds circulate; distinct from physical arteries. | 01-11-01-01:13704 |
 | **channel-petal** (rtsa 'dab) | Petals of the chakra wheels; subtle energetic structures. | 01-11-01-01:13112 |
 | **characteristic-holding wisdom** (mtshan nyid 'dzin pa'i ye shes) | Wisdom that apprehends the defining characteristics of phenomena. | 01-14-04-01:18287 |
-| **clear light** ('od gsal) | Luminous clarity; dharmakāya at death; fundamental nature of mind. | 02-19-01-01:11250 |
+| **clear light** ('od gsal) | Luminous clarity; the fundamental nature of mind as self-illuminating awareness. In Dzogchen: recognized as Dharmakaya at death (inner clear light) and in thögal practice (outer clear light of visionary experience); the ground of both saṃsāra and nirvāṇa.
 | **cognition-only** (rnam rig tsam) | The Yogācāra view that only consciousness exists. | 01-04-02-01:2103 |
 | **compounded** ('dus byas) | Conditioned, produced; phenomena arising from causes and conditions. | 01-01-01-01:18 |
+| **compassion** (thugs rje) | The third aspect of the basis (gzhi); unceasing energy or responsiveness that manifests as all appearance. Not ordinary emotional compassion but the spontaneous, non-dual responsiveness of awareness. The manifestation-aspect of spontaneous presence (lhun grub), inseparable from essence (ngo bo) and nature (rang bzhin). | 01-01-01-01:6 |
 | **concentration** (ting nge 'dzin) | Meditative absorption, samādhi; one-pointed stability of mind. | 01-11-03-01:14007 |
 | **contaminated** (zag bcas) | Phenomena associated with afflictions and karma. | 01-03-02-01:1584 |
 | **Dharmadhātu Wisdom** (chos dbyings ye shes) | Wisdom of the ultimate dimension pervading all phenomena; fifth characteristic-holding wisdom. | 01-14-04-01:18352 |
 | **dharmatā-bardo** (chos nyid bar do) | Bardo of reality itself; displays of sounds, lights, rays. | 02-19-02-01:11430 |
-| **Dharmakāya** (chos sku) | Truth body; the formless dimension of enlightenment beyond all concepts. | 01-01-01-01:6 |
+| **Dharmakāya** (chos sku) | Truth body; the formless dimension of enlightenment beyond all concepts. In Dzogchen: primordially pure from the beginning (ka dag), unproduced by causes, the essence-aspect (ngo bo) of the basis; inseparable from Sambhogakaya and Nirmanakaya.
 | **Discriminating Wisdom** (so sor rtog pa'i ye shes) | Wisdom distinctly knowing all phenomena without confusion; third characteristic-holding wisdom. | 01-14-04-01:18355 |
-| **downward-clearing wind** | Wind that moves downward; excretion and reproduction. | 01-15-01-01:9785 |
+| **downward-clearing wind** (thur rlung) | One of the five vital winds; moves downward regulating excretion, reproduction, and elimination. | 01-15-01-01:9785 |
 | **effort** (rtsol) | Striving, exertion; effortful practice vs effortless recognition. | 02-18-01-01:10441 |
 | **element** (khams) | The eighteen elements: six faculties, six objects, six consciousnesses. | 01-03-01-01:1650 |
-| **elemental formation** | The process by which the five elements manifest worlds. | 01-02-01-01:712 |
+| **elemental formation** ('byung 'jog) | The process by which the five elements (earth, water, fire, wind, space) manifest worlds and bodies. | 01-02-01-01:712 |
 | **emanation** (sprul) | Manifestation, display; nirmāṇa means emanation. | 01-01-01-01:30 |
 | **empowerment** (dbang) | Abhiṣeka; tantric initiation that authorizes practice; four empowerments. | 02-17-01-01:9820 |
 | **eternalism** (rtag mtha') | The extreme view that things exist permanently and unchangingly. | 01-04-01-01:1905 |
@@ -52,26 +54,28 @@ Terms are listed alphabetically by their English rendering. Tibetan and Sanskrit
 | **Klong-drug-pa** (klong drug pa) | The Six Expanses tantra; important Dzogchen scripture. | 01-08-01-01:10509 |
 | **latencies** (bag chags) | Subtle imprints left by past experiences and actions. | 01-03-03-01:1812 |
 | **liberation** (grol ba) | Freedom, release; self-liberation (rang grol) recognizes bondage as empty. | 02-18-05-01:11021 |
-| **life-wind** (srog rlung) | The vital energy wind that supports consciousness. | 01-01-03-01:613 |
-| **life-wind** (srog rlung) | The vital wind that sustains life; located at the heart. | 01-15-01-01:9765 |
+| **life-wind** (srog rlung) | The vital energy wind that sustains life and supports consciousness; located at the heart center; chief of the five winds. | 01-01-03-01:613 |
 | **light-body** ('od lus) | Body of light; form of manifestation in thögal practice. | 02-18-01-01:3952 |
 | **Lokāyata** (rgyang 'phen pa) | Materialist school denying karma, rebirth, and liberation; holds that only physical elements exist. | 01-04-01-01:1944 |
+| **Longchenpa** (klong chen pa) | Longchen Rabjampa (1308-1364), also known as the Omniscient One (Kunkhyen); the author of the Treasury of the Supreme Vehicle and the Seven Treasures. The supreme systematizer of the Nyingma Dzogchen tradition, who composed this text during his retreat at Gangri Thökar. | 01-25-07-01:17271 |
 | **Lugu Gyud** (lu gu rgyud) | "Spiral Continuity"; a narrative figure/entity representing the principle of continuous wisdom lineage. In the liturgical layer rendered as "Spiral Continuity." | 01-10-01-01:12672 |
 | **Madhyamaka** (dbu ma pa) | Buddhist school of the Middle Way; holds that all phenomena are empty of inherent existence. | 01-04-02-01:2103 |
 | **mandala** (dkyil 'khor) | Celestial palace, sacred circle; five-family mandala, deity mandalas. | 01-01-02-01:587 |
 | **method** (thabs) | Skillful means, upāya; paired with wisdom; skillful means for liberating beings. | 02-18-01-01:10441 |
 | **Mirror-like Wisdom** (me long lta bu'i ye shes) | Wisdom reflecting all phenomena without distortion; first of the five characteristic-holding wisdoms. | 01-14-04-01:18352 |
 | **mudra** (phyag rgya) | Seal, symbolic gesture, consort; four mudras of Dzogchen. | 02-18-03-01:10750 |
-| **Mu-tig-phreng-ba** | The Pearl Garland tantra; teaching on primordial purity. | 01-08-07-01:11021 |
+| **Mu-tig-phreng-ba** (mu tig phreng ba) | The Pearl Garland tantra; important Dzogchen scripture teaching on primordial purity and the four lamps. | 01-08-07-01:11021 |
 | **multiplicity** (sna tshogs) | The view that the basis appears as variegated and manifold without ceasing. | 01-08-01-01:10486 |
+| **Trekchö** (khregs chod) "Cutting-Through" | The Dzogchen practice of cutting through conceptual mind and grasping to reveal primordial purity (ka dag). The foundational practice of Great Perfection meditation that dismantles the intellect's constructs, revealing the naked awareness of rigpa. Precedes thögal practice. | 02-18-01-01:10441 |
 | **Thogal** (thod rgal) "Leap-Over" | The Dzogchen practice of spontaneous leap-over; direct recognition through visionary experience. The advanced practice following trekcho (cutting-through). Literal layer: "thogal" (lowercase); Liturgical layer: "Thogal" (capitalized). | 02-20-01-01:8104 |
-| **Nirmanakāya** (sprul sku) | Emanation body; the dimension through which enlightenment manifests in the world. | 01-01-01-01:6 |
+| **Nirmanakāya** (sprul sku) | Emanation body; the dimension through which enlightenment manifests in the world for beings to be trained. In Dzogchen: unceasing compassion (thugs rje), the manifestation-aspect of spontaneous presence (lhun grub). | 01-01-01-01:6 |
 | **nihilism** (chad mtha') | The extreme view that things are utterly non-existent and nothing continues after death. | 01-04-01-01:1905 |
 | **obscuration** (sgrib pa) | Veil, covering; two obscurations (afflictive and cognitive) obscure the nature. | 02-19-01-01:11200 |
 | **partless particle** (rdul phra rab) | The smallest unit of matter in Buddhist atomism. | 01-04-02-01:2103 |
 | **pervading wind** (khyab byed) | Wind that pervades the entire body; movement and circulation. | 01-15-01-01:9790 |
 | **primordial purity** (ka dag) | The view that the basis is empty and pure from the beginning, free from all elaborations. | 01-08-01-01:10480 |
 | **primordial resonance** (ye gdangs) | The self-arisen expression of awareness; primordial radiance. | 01-08-05-01:10758 |
+| **spontaneous presence** (lhun grub) | Self-perfected, naturally complete; the nature-aspect of the basis (gzhi) through which all manifestation appears without effort. Together with primordial purity (ka dag), constitutes the two aspects of the ground in Dzogchen. | 01-08-01-01:10480 |
 | **prostration** (phyag 'tshal) | Homage, reverence; physical and mental homage to enlightened ones. | 01-01-01-01:11 |
 | **purity** (dag pa) | Pure, cleansed; primordial purity (ka dag), twofold purity (dag pa gnyis). | 01-08-05-01:10758 |
 | **qualities** (yon tan) | Virtues, enlightened attributes; the qualities of buddhahood. | 01-01-01-01:17 |
@@ -80,17 +84,19 @@ Terms are listed alphabetically by their English rendering. Tibetan and Sanskrit
 | **Sāṃkhya** (grangs can pa) | Hindu school propounding eternalism; holds that a permanent self (purusha) exists distinct from nature (prakriti). | 01-04-01-01:1911 |
 | **Samantabhadra** (Kun tu bzang po) | The primordial Buddha; the perfectly enlightened teacher who embodies the five perfections. Not to be confused with the bodhisattva of the same name. | 01-01-01-01:6 |
 | **samaya** (dam tshig) | Binding pledge or vow; commitment to the path; root and branch samayas. | 02-17-01-01:9704 |
-| **Sambhogakāya** (longs sku) | Enjoyment body; the dimension of enlightened communication and blessing. | 01-01-01-01:6 |
-| **self-nature** (rang bzhin) | Inherent essence; svabhāva; own-being. | 01-04-01-01:1914 |
+| **Sambhogakāya** (longs sku) | Enjoyment body; the dimension of enlightened communication and self-appearance. In Dzogchen: self-appearing luminosity (rang snang), the nature-aspect (rang bzhin) of spontaneous presence (lhun grub); inseparable from Dharmakaya.
+| **nature** (rang bzhin) | The nature-aspect of the basis (gzhi); how the essence naturally manifests as clarity, luminosity, and spontaneous presence (lhun grub). One of the three aspects of the ground: essence (ngo bo), nature (rang bzhin), and compassion (thugs rje). | 01-04-01-01:1914 |
+| **non-recognition** (ma rig pa) | Failure to recognize the nature of one's own mind; fundamental ignorance in Dzogchen. Not mere intellectual ignorance but the non-recognition (ma rig) of rigpa as one's own nature, leading to the delusion of dualistic perception. The root of saṃsāra. | 01-09-01-01:11335 |
+| **essence** (ngo bo) | The essence-aspect of the basis (gzhi); the empty, open quality of the ground that is primordially pure (ka dag). One of the three aspects of the ground: essence (ngo bo), nature (rang bzhin), and compassion (thugs rje). | 01-08-01-01:10480 |
 | **self-resonance** (rang gdangs) | Natural self-expression without external cause. | 01-08-07-01:10895 |
 | **sense-source** (skye mched) | The twelve bases of perception: six faculties and six objects. | 01-03-01-01:1650 |
 | **Sugata** (bde gshegs) | Bliss-Gone One; epithet of Buddha who has gone to bliss/blissful liberation. | 01-01-01-01:19 |
 | **suchness** (chos nyid) | Dharmatā; reality itself; the nature of phenomena as they are; dharmakāya as suchness-body. | 01-14-02-01:17427 |
-| **Thal-ba-brdal** | A realm resembling a lotus in full bloom. | 01-01-03-01:607 |
-| **Thal-ba-dbyangs** | A pure realm located below this world, immeasurable and extremely beautiful. | 01-01-03-01:587 |
+| **Thal-ba-brdal** (thal ba brdal) | One of the thirteen Thal-ba pure realms; a realm resembling a lotus in full bloom. | 01-01-03-01:607 |
+| **Thal-ba-dbyangs** (thal ba dbyangs) | One of the thirteen Thal-ba pure realms; located below this world, immeasurable and extremely beautiful. | 01-01-03-01:587 |
 | **Thal-ba field** (Thal-ba'i zhing) | One of the thirteen pure realms described in the Sound Thalgyur Tantra; characterized by specific qualities and teachings. | 01-01-03-01:1 |
-| **Thal-ba-skyob** | A realm ornamented by mothers and nurses. | 01-01-03-01:601 |
-| **Thal-ba-'dzin** | A wheel-shaped realm piercing through space. | 01-01-03-01:596 |
+| **Thal-ba-skyob** (thal ba skyob) | One of the thirteen Thal-ba pure realms; ornamented by mothers and nurses. | 01-01-03-01:601 |
+| **Thal-ba-'dzin** (thal ba 'dzin) | One of the thirteen Thal-ba pure realms; a wheel-shaped realm piercing through space. | 01-01-03-01:596 |
 | **Thalgyur** (thal 'gyur) | The Tantra of the Great Completion; supreme among Dzogchen tantras. | 01-08-01-01:10498 |
 | **three kayas** (sku gsum) | The three dimensions of enlightenment: dharmakāya, sambhogakāya, nirmāṇakāya. | 01-01-01-01:17 |
 | **Tirthika** (mu stegs pa) | General term for non-Buddhist spiritual practitioners. | 01-04-01-01:1910 |
@@ -102,7 +108,7 @@ Terms are listed alphabetically by their English rendering. Tibetan and Sanskrit
 | **upward-moving wind** (gyen rgyu) | Wind that moves upward; speech and respiratory function. | 01-15-01-01:9780 |
 | **Vaiśeṣika** (bye brag pa) | Hindu school holding atomic realism and categories of existence. | 01-04-01-01:1937 |
 | **Vaibhāṣika** (bye brag smra ba) | Buddhist school accepting both sutras and abhidharma; holds direct realism. | 01-04-02-01:2103 |
-| **vidya** (rig pa) | Primordial awareness; knowing without duality or confusion. Distinct from ordinary awareness. | 01-01-01-01:6 |
+| **rigpa** (rig pa) | Pristine awareness; the self-recognizing, non-dual knowing that is the nature of mind itself. Distinguished from ordinary consciousness (rnam shes): rigpa is self-aware (rang rig), unconfined, and the ground of both saṃsāra and nirvāṇa. The central term in Dzogchen pointing to immediate, non-conceptual recognition.
 | **vessel-and-contents** (snod bcud) | Container world (universe) and contents (sentient beings). | 01-02-01-01:712 |
 | **vital-point** (gnad) | Critical juncture or key point; essential point in subtle body practice. | 01-11-02-01:13127 |
 | **view-meditation-conduct** (lta sgom spyod) | The three aspects of practice: view (understanding), meditation (familiarization), conduct (integration). | 01-08-01-01:10472 |

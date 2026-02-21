@@ -173,7 +173,7 @@ This comprehensive table of contents provides:
 
 ---
 
-## Chapter 9: How Delusion Arises from Ground
+## Chapter 9: Spontaneous Presence Appearance
 **Volume**: 01 | **Pages**: 273-300  
 **Sections**: 2 | **Total Lines**: ~1,150
 
@@ -445,7 +445,7 @@ This comprehensive table of contents provides:
 
 ---
 
-## Chapter 25: Spontaneous Results
+## Chapter 25: Spontaneous Fruition
 **Volume**: 01 | **Pages**: 377-412 (Vol 2)  
 **Sections**: 8 | **Total Lines**: ~1,340
 
