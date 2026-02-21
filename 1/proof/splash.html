@@ -334,8 +334,9 @@
     }
 
     .consent-content {
-        max-width: 700px;
+        max-width: 900px;
         text-align: center;
+        padding: 0 1em;
     }
 
     .consent-header {
@@ -456,6 +457,55 @@
         text-decoration: underline;
     }
 
+    /* Image Consent Modal */
+    .consent-image-modal {
+        position: fixed;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+        background: var(--color-bg);
+        z-index: 2000;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        overflow-y: auto;
+        padding: 2em;
+    }
+
+    .consent-image-modal.hidden {
+        display: none;
+    }
+
+    .consent-image-content {
+        max-width: 900px;
+        text-align: center;
+        padding: 0 1em;
+    }
+
+    .consent-image-content img {
+        max-width: 100%;
+        max-height: 60vh;
+        object-fit: contain;
+        border-radius: 8px;
+        margin-bottom: 1.5em;
+        box-shadow: 0 4px 20px var(--color-shadow);
+    }
+
+    .consent-image-content .image-caption {
+        color: var(--color-muted);
+        font-style: italic;
+        margin-bottom: 1em;
+        font-size: 0.9em;
+    }
+
+    .consent-image-content .confirm-text {
+        color: var(--color-text);
+        font-size: 1.1em;
+        margin-bottom: 1em;
+    }
+
     /* Welcome screen */
     .welcome-screen {
         text-align: center;
@@ -493,6 +543,58 @@
     }
 
     @media (max-width: 768px) {
+        .consent-modal,
+        .consent-image-modal {
+            padding: 1em;
+        }
+
+        .consent-header .main-title {
+            font-size: 0.9em;
+        }
+
+        .consent-header .title {
+            font-size: 1.6em;
+        }
+
+        .consent-header .author,
+        .consent-header .subtitle {
+            font-size: 1em;
+        }
+
+        .consent-description {
+            font-size: 0.9em;
+            text-align: left;
+        }
+
+        .consent-disclaimer {
+            padding: 1em;
+        }
+
+        .consent-disclaimer li {
+            font-size: 0.85em;
+        }
+
+        .consent-agree-btn {
+            padding: 0.8em 1.5em;
+            font-size: 0.9em;
+        }
+
+        .consent-footer {
+            font-size: 0.8em;
+        }
+
+        .consent-footer .verse {
+            font-size: 0.9em;
+        }
+
+        .consent-image-content img {
+            max-height: 50vh;
+        }
+
+        .consent-image-content .confirm-text {
+            font-size: 1em;
+        }
+
         .nav-tabs {
             gap: 0.15em;
         }
@@ -572,6 +674,26 @@
                     Complete git revision history and prompt engineering are available for review.
                 </div>
             </div>
+        </div>
+    </div>
+
+    <!-- Image Consent Modal 1 -->
+    <div id="consent-image-1" class="consent-image-modal hidden">
+        <div class="consent-image-content">
+            <img src="images/Longchenpa_line_drawing.jpg" alt="Longchenpa">
+            <div class="image-caption">Longchenpa Rabjam (ཀློང་ཆེན་རབ་འབྱམས་པ)</div>
+            <div class="confirm-text">Do you confirm your intention to receive this restricted teaching?</div>
+            <button class="consent-agree-btn" onclick="acceptImageConsent1()">I UNDERSTAND AND AGREE TO THE ABOVE TERMS</button>
+        </div>
+    </div>
+
+    <!-- Image Consent Modal 2 -->
+    <div id="consent-image-2" class="consent-image-modal hidden">
+        <div class="consent-image-content">
+            <img src="images/Longchenpa_Nyingthig_Lineage.jpg" alt="Nyingthig Lineage">
+            <div class="image-caption">Nyingthig Lineage Masters</div>
+            <div class="confirm-text">Do you make this request with pure motivation and proper respect for the lineage?</div>
+            <button class="consent-agree-btn" onclick="acceptImageConsent2()">I UNDERSTAND AND AGREE TO THE ABOVE TERMS</button>
         </div>
     </div>
 
@@ -757,8 +879,45 @@
         const welcomeScreen = document.getElementById('welcome');
         const lineIndicator = document.getElementById('line-indicator');
         const navTabs = document.querySelectorAll('.nav-tab');
+        const consentModal = document.getElementById('consent-modal');
+        const consentImage1 = document.getElementById('consent-image-1');
+        const consentImage2 = document.getElementById('consent-image-2');
 
         document.querySelectorAll('.layer-frame').forEach(iframe => { iframe.src = 'about:blank'; });
+
+        // Check if user has already consented to all steps
+        if (localStorage.getItem('consentAccepted') === 'true' &&
+            localStorage.getItem('imageConsent1Accepted') === 'true' &&
+            localStorage.getItem('imageConsent2Accepted') === 'true') {
+            consentModal.classList.add('hidden');
+            consentImage1.classList.add('hidden');
+            consentImage2.classList.add('hidden');
+        } else if (localStorage.getItem('consentAccepted') === 'true' &&
+                   localStorage.getItem('imageConsent1Accepted') === 'true') {
+            consentModal.classList.add('hidden');
+            consentImage1.classList.add('hidden');
+            consentImage2.classList.remove('hidden');
+        } else if (localStorage.getItem('consentAccepted') === 'true') {
+            consentModal.classList.add('hidden');
+            consentImage1.classList.remove('hidden');
+        }
+
+        function acceptConsent() {
+            localStorage.setItem('consentAccepted', 'true');
+            consentModal.classList.add('hidden');
+            consentImage1.classList.remove('hidden');
+        }
+
+        function acceptImageConsent1() {
+            localStorage.setItem('imageConsent1Accepted', 'true');
+            consentImage1.classList.add('hidden');
+            consentImage2.classList.remove('hidden');
+        }
+
+        function acceptImageConsent2() {
+            localStorage.setItem('imageConsent2Accepted', 'true');
+            consentImage2.classList.add('hidden');
+        }
 
         // Restore selected translation layer from localStorage
         selectedTranslationLayer = localStorage.getItem('selectedLayer') || 'tibetan';
@@ -989,7 +1148,10 @@
         });
     }
 
-    if (localStorage.getItem('darkMode') === 'true') {
+    if (localStorage.getItem('darkMode') === 'false') {
+        document.body.classList.remove('dark-mode');
+        document.querySelector('.dark-mode-toggle').textContent = 'Dark';
+    } else {
         document.body.classList.add('dark-mode');
         document.querySelector('.dark-mode-toggle').textContent = 'Light';
     }
