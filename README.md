@@ -1,9 +1,16 @@
-# 🕉️ TEKCHOK DZO  
+ 
+# ༀ
+# TEKCHOK DZO  
 ### *Jewel Treasury of the Supreme Vehicle*  
 #### Longchenpa Rabjam • A Complete English Translation  
 
 > **རྫོགས་པ་ཆེན་པོ་ཐེག་པ་མཆོག་གི་མཛོད་**  
 > *The Great Perfection's Treasury of the Supreme Vehicle*
+
+
+![Tekchok Dzo](https://github.com/user-attachments/assets/aaf1e125-2bcf-4885-8445-42813a196c87)
+
+
 
 ---
 
