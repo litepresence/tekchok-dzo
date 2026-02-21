@@ -219,16 +219,16 @@ HTML_CSS = """
     }
 
     .highlighted-line {
-        background-color: rgba(201, 165, 92, 0.3) !important;
+        background-color: rgba(201, 165, 92, 0.4) !important;
         border-radius: 3px;
         animation: highlightFade 3s ease-out forwards;
     }
 
-    @keyframes highlightFade {{
-        0% {{ background-color: rgba(201, 165, 92, 0.4); }}
-        70% {{ background-color: rgba(201, 165, 92, 0.3); }}
-        100% {{ background-color: transparent; }}
-    }}
+    @keyframes highlightFade {
+        0% { background-color: rgba(201, 165, 92, 0.4); }
+        80% { background-color: rgba(201, 165, 92, 0.3); }
+        100% { background-color: transparent; }
+    }
 
     .toc {
         margin-bottom: 2em;
@@ -402,6 +402,7 @@ function showChapter(index) {{
     currentChapter = index;
     updateNavButtons();
     updateIndicator();
+    window.scrollTo({{ top: 0, behavior: 'instant' }});
 }}
 
 function nextChapter() {{
@@ -430,30 +431,41 @@ function updateIndicator() {{
         `Volume ${{volume}}, Chapter ${{chapter}}`;
 }}
 
-function findChapterForLine(lineNum) {{
-    const lineEl = document.getElementById('line-' + lineNum);
+function goToLine(lineNum) {{
+    let lineEl = document.getElementById('line-' + lineNum);
+    
+    if (!lineEl) {{
+        const allLines = document.querySelectorAll('[id^="line-"]');
+        let bestMatch = null;
+        let bestDiff = Infinity;
+        
+        for (const el of allLines) {{
+            const elLine = parseInt(el.id.replace('line-', ''));
+            const diff = Math.abs(elLine - lineNum);
+            if (diff < bestDiff) {{
+                bestDiff = diff;
+                bestMatch = el;
+            }}
+        }}
+        lineEl = bestMatch;
+    }}
+    
     if (lineEl) {{
         const chapter = lineEl.closest('.chapter');
         if (chapter) {{
-            return parseInt(chapter.dataset.chapter);
-        }}
-    }}
-    return null;
-}}
-
-function goToLine(lineNum) {{
-    const chapterIndex = findChapterForLine(lineNum);
-    if (chapterIndex !== null) {{
-        showChapter(chapterIndex);
-        setTimeout(() => {{
-            const lineEl = document.getElementById('line-' + lineNum);
-            if (lineEl) {{
-                document.querySelectorAll('.highlighted-line').forEach(el => el.classList.remove('highlighted-line'));
+            const chapterIndex = parseInt(chapter.dataset.chapter);
+            showChapter(chapterIndex);
+            setTimeout(() => {{
+                document.querySelectorAll('.highlighted-line').forEach(el => {{
+                    el.classList.remove('highlighted-line');
+                    el.style.animation = '';
+                }});
                 lineEl.classList.add('highlighted-line');
+                void lineEl.offsetWidth;
                 lineEl.scrollIntoView({{ behavior: 'smooth', block: 'center' }});
-            }}
-        }}, 100);
-        return true;
+            }}, 100);
+            return true;
+        }}
     }}
     return false;
 }}
