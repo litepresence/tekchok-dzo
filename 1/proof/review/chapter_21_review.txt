@@ -1,0 +1,4730 @@
+Conduct deep scan and critical honest review of the attached Tibetan Dzogchen translation in light of the literal and liturgical mission statements.
+
+If you have suggestions for specific lines return them in code block in the strict line format:
+
+[line number]<literal or liturgical><<liturgical tags if any>>replacement text
+
+(double line break)
+
+For each entry, eg.
+
+[684]<literal>buddhas-by-means-of dharma teach-and
+[725]<liturgical><prose>The antidote for the three poisons of desire, anger, and delusion is the realization of emptiness.
+
+============================================================
+
+# LITERAL MISSION STATEMENT
+
+## Expected Output: Dense, Concise Literal Translation
+
+The literal layer should provide:
+- Word-by-word or phrase-by-phrase translation closest to Tibetan syntax
+- Technical term consistency (same English term for same Tibetan term)
+- Minimal elaboration - translate what is there, no more
+- Serve as "truth" reference for checking interpretive translations
+- Use compound structures that mirror Tibetan word compounds
+- Preserve Tibetan word order where possible
+- Include Sanskrit loanwords in IAST transliteration when original is Sanskrit
+- Mark Tibetan technical terms in italics or parentheses
+- No theological interpretation or doctrinal elaboration
+- Cadence should feel slightly "awkward" in English - this is a feature, not a bug
+
+============================================================
+
+# LITURGICAL MISSION STATEMENT
+
+## Expected Output: Poetic, Devotional, Oral-Performance Ready
+
+The liturgical layer should provide:
+- Flowing, elegant English that sounds good when chanted or read aloud
+- Proper English grammar and syntax (readable, not literally awkward)
+- Traditional Buddhist terminology in standard English translations
+- Verse/prose formatting with clear break markers
+- Tags indicating vocal performance:
+  - <ornament> - Title markers, colophons, auspicious openings
+  - <break> - Major section transitions
+  - <verse> - Metric lines meant for chanting
+  - <prose> - Explanatory passages for oral delivery
+  - <prayer> - Devotional requests or aspirations
+  - <citation> - Scriptural references or quotations
+- Appropriate honorifics and devotional language
+- Should "come alive" when performed orally
+- Preserves meaning while prioritizing beauty and usability
+
+============================================================
+
+The draft in need of review is:
+
+# Treasury of the Supreme Vehicle: Autocommentary
+# Longchen Rabjampa (1308-1364)
+## Volume 01 - Chapter 21 - Section 01
+## Chapter 21: Bardo Practice
+
+[9168]
+<tibetan>
+<liturgical><prose>The manner of arising in this Jambu continent:
+
+[9169]
+<tibetan>
+<liturgical><tantra>From saṃsāra Dong-Sprug Precious Secret Tantra:
+
+[9170]
+<tibetan>
+<liturgical><verse>Holding the lineage of five Buddhas,
+
+[9171]
+<tibetan>
+<liturgical><verse>Five crystal stupa thousand-spans,
+
+[9172]
+<tibetan>
+<liturgical><verse>Possessing the nature of five wisdoms,
+
+[9173]
+<tibetan>
+<liturgical><verse>Holding the lineage of five sky-expanses,
+
+[9174]
+<tibetan>
+<liturgical><verse>Expanding to pervade the sky without appearance,
+
+[9175]
+<tibetan>
+<liturgical><verse>Individually clear, colors unmixed,
+
+[9176]
+<tibetan>
+<liturgical><verse>Three: essence, nature, compassion.
+
+[9177]
+<tibetan>
+<liturgical><verse>Essence: pure ground without ceasing. || 10 ||
+
+[9178]
+<tibetan>
+<liturgical><verse>Nature: five great elements.
+
+[9179]
+<tibetan>
+<liturgical><verse>Compassion: completely demonstrated form-body.
+
+[9180]
+<tibetan>
+<liturgical><verse>From Vajra-space mandala,
+
+[9181]
+<tibetan>
+<liturgical><verse>Nature spontaneously complete body,
+
+[9182]
+<tibetan>
+<liturgical><verse>Water-moon body possessing five wisdoms,
+
+[9183]
+<tibetan>
+<liturgical><verse>Possessing self-nature of unclear-clear.
+
+[9184]
+<tibetan>
+<liturgical><verse>Five crystal stupa thousand-spans,
+
+[9185]
+<tibetan>
+<liturgical><verse>Descended to Vajra-Holder's left.
+
+[9186]
+<tibetan>
+<liturgical><verse>Possessing three aspects of tone,
+
+[9187]
+<tibetan>
+<liturgical><verse>Enters corner in north-east direction. || 20 ||
+
+[9188]
+<tibetan>
+<liturgical><verse>In nighttime direction, see daytime.
+
+[9189]
+<tibetan>
+<liturgical><verse>When wisdom placed near right corner,
+
+[9190]
+<tibetan>
+<liturgical><verse>Become seeing certain single Buddha.
+
+[9191]
+<tibetan>
+<liturgical><verse>Wisdom, superior-seeing wisdom,
+
+[9192]
+<tibetan>
+<liturgical><verse>Is single Buddha intention.
+
+[9193]
+<tibetan>
+<liturgical><verse>When applying meaning with nectar tongue,
+
+[9194]
+<tibetan>
+<liturgical><verse>Awareness cuckoo is one word.
+
+[9195]
+<tibetan>
+<liturgical><verse>Supreme of changeless vajra body,
+
+[9196]
+<tibetan>
+<liturgical><verse>Instruction commentary possessing corner-proceeding,
+
+[9197]
+<tibetan>
+<liturgical><verse>Is Vajra-Mind's testaments. || 30 ||
+
+[9198]
+<tibetan>
+<liturgical><tantra>Thus it is spoken.
+
+[9199]
+<tibetan>
+<liturgical><prose>Then to the place of thirty-three,
+
+[9200]
+<tibetan>
+<liturgical><prose>Upper story of Complete Victory Palace,
+
+[9201]
+<tibetan>
+<liturgical><prose>Descended to Potalaka.
+
+[9202]
+<tibetan>
+<liturgical><prose>Then descended to peak of Five-Peaks Mountain,
+
+[9203]
+<tibetan>
+<liturgical><prose>Then descended to Vajra-Seat,
+
+[9204]
+<tibetan>
+<liturgical><prose>Then descended to Gangs-Ti-Se,
+
+[9205]
+<tibetan>
+<liturgical><prose>Then that great stupa emanated as light-ray,
+
+[9206]
+<tibetan>
+<liturgical><prose>Speaking "dispel sentient beings' concepts"—
+
+[9207]
+<tibetan>
+<liturgical><prose>From the beginning when this world formed, from Vajra-space mandala emanation, nature's blessing, || 40 ||
+
+[9208]
+<tibetan>
+<liturgical><prose>Teacher Vajra-Holder descended to the left of Joyful-Stacked who went for beings' benefit,
+
+[9209]
+<tibetan>
+<liturgical><prose>Thirty-three and
+
+[9210]
+<tibetan>
+<liturgical><prose>Five-Peaks Mountain and
+
+[9211]
+<tibetan>
+<liturgical><prose>Vajra-Seat and
+
+[9212]
+<tibetan>
+<liturgical><prose>Descended one to one for beings' benefit in the interval of Snow-mountain Ti-Se,
+
+[9213]
+<tibetan>
+<liturgical><prose>Now abiding in the jewel light-emanating house at Ti-Se's peak,
+
+[9214]
+<tibetan>
+<liturgical><prose>Sky-goers, accomplished ones, and many awareness-mantra holders worship and aspire.
+
+[9215]
+<tibetan>
+<liturgical><prose>Though there is no actual mirror like that,
+
+[9216]
+<tibetan>
+<liturgical><prose>For determining indicative examples: various jewels,
+
+[9217]
+<tibetan>
+<liturgical><prose>Or self-arisen crystal from snow, ocean continent, etc., should be made into introduction mirror. || 50 ||
+
+[9218]
+<tibetan>
+<liturgical><tantra>From Introduction Ornament:
+
+[9219]
+<tibetan>
+<liturgical><verse>Jewel heart-essence jewel blazing light, or
+
+[9220]
+<tibetan>
+<liturgical><verse>Jewel lapis lazuli blue, water-crystal, or
+
+[9221]
+<tibetan>
+<liturgical><verse>Earth's heart-essence jewel eye-ma-phug,
+
+[9222]
+<tibetan>
+<liturgical><verse>By stone's heart-essence jewel crystal,
+
+[9223]
+<tibetan>
+<liturgical><verse>Establish all Buddhas' state.
+
+[9224]
+<tibetan>
+<liturgical><tantra>Thus it is spoken.
+
+[9225]
+<tibetan>
+<liturgical><tantra>From Jewel Intricate Display:
+
+[9226]
+<tibetan>
+<liturgical><prose>The indicative example of Vajra-Mind:
+
+[9227]
+<tibetan>
+<liturgical><verse>White without stain, moon's color, || 60 ||
+
+[9228]
+<tibetan>
+<liturgical><verse>Examine from interval of dark and appearance.
+
+[9229]
+<tibetan>
+<liturgical><verse>By jewel luminosity without stain,
+
+[9230]
+<tibetan>
+<liturgical><verse>Endowed with five colors of appearance,
+
+[9231]
+<tibetan>
+<liturgical><verse>Five bodies not individually separate,
+
+[9232]
+<tibetan>
+<liturgical><verse>Not separate to front and back.
+
+[9233]
+<tibetan>
+<liturgical><verse>Great light of appear-clear Dharma-nature,
+
+[9234]
+<tibetan>
+<liturgical><verse>Clear Dharma-nature blazing all-as.
+
+[9235]
+<tibetan>
+<liturgical><verse>Supreme lamp making appearance,
+
+[9236]
+<tibetan>
+<liturgical><verse>In sky-expanse of great emptiness,
+
+[9237]
+<tibetan>
+<liturgical><verse>All appearance arises as light. || 70 ||
+
+[9238]
+<tibetan>
+<liturgical><verse>That arising itself is not separate.
+
+[9239]
+<tibetan>
+<liturgical><verse>Cannot be grasped by anyone.
+
+[9240]
+<tibetan>
+<liturgical><verse>If possessing wisdom eye,
+
+[9241]
+<tibetan>
+<liturgical><verse>Like full moon of self-appear without stain,
+
+[9242]
+<tibetan>
+<liturgical><verse>See beautiful-face mandala,
+
+[9243]
+<tibetan>
+<liturgical><verse>Meditate great perfect without distraction.
+
+[9244]
+<tibetan>
+<liturgical><tantra>Thus it is spoken.
+
+[9245]
+<tibetan>
+<liturgical><prose>Wash that mirror like that with mantra-water, with devotion to one's root guru,
+
+[9246]
+<tibetan>
+<liturgical><prose>Bless with <mantra>OM AH HUM hundred thousand times, scatter flowers with dependent-origination heart-essence, speak auspicious words,
+
+[9247]
+<tibetan>
+<liturgical><prose>Request rule with seven branches, || 80 ||
+
+[9248]
+<tibetan>
+<liturgical><prose>Speak auspicious words again,
+
+[9249]
+<tibetan>
+<liturgical><prose>Offer garments imagining five colored silks and incense powder.
+
+[9250]
+<tibetan>
+<liturgical><prose>All examples should precede.
+
+[9251]
+<tibetan>
+<liturgical><ornament>Second, regarding actual direct introduction:
+
+[9252]
+<tibetan>
+<liturgical><prose>Lineage and
+
+[9253]
+<tibetan>
+<liturgical><prose>Direct introduction—two aspects.
+
+[9254]
+<tibetan>
+<liturgical><prose>Lineage:
+
+[9255]
+<tibetan>
+<liturgical><list>Lineage through the Buddha's intention,
+
+[9256]
+<tibetan>
+<liturgical><list>Lineage through signs of awareness-holders,
+
+[9257]
+<tibetan>
+<liturgical><list>And lineage through personal ear-whispered transmission—three are spoken. || 90 ||
+
+[9258]
+<tibetan>
+<liturgical><prose>Actual direct introduction:
+
+[9259]
+<tibetan>
+<liturgical><verse>The precious instruction of direct introduction, the single vehicle,
+
+[9260]
+<tibetan>
+<liturgical><verse>Single family,
+
+[9261]
+<tibetan>
+<liturgical><verse>Single bindu,
+
+[9262]
+<tibetan>
+<liturgical><verse>Single eye of primordial wisdom.
+
+[9263]
+<tibetan>
+<liturgical><prose>When shown through the mirror of Vajrasattva as a single example,
+
+[9264]
+<tibetan>
+<liturgical><prose>Relying on the example, recognize the meaning.
+
+[9265]
+<tibetan>
+<liturgical><verse>The vastness free from elaboration,
+
+[9266]
+<tibetan>
+<liturgical><verse>The body ornamented with merit,
+
+[9267]
+<tibetan>
+<liturgical><verse>To the emanation Vajra Light-Vitality, || 100 ||
+
+[9268]
+<tibetan>
+<liturgical><verse>The Bhagavān of Infinite Splendor,
+
+[9269]
+<tibetan>
+<liturgical><verse>From the vastness of pure non-birth,
+
+[9270]
+<tibetan>
+<liturgical><verse>Emitted three drops of the supreme enlightenment essence,
+
+[9271]
+<tibetan>
+<liturgical><verse>From the manifest body appearing like a water-moon mandala,
+
+[9272]
+<tibetan>
+<liturgical><verse>Bringing forth the body-drop, the crystal secret body, established as example wisdom.
+
+[9273]
+<tibetan>
+<liturgical><verse>From the vastness of speech free from elaboration,
+
+[9274]
+<tibetan>
+<liturgical><verse>The speech-drop, extracting the essence of enlightenment mind nectar,
+
+[9275]
+<tibetan>
+<liturgical><verse>Introduction to the wisdom of meaning.
+
+[9276]
+<tibetan>
+<liturgical><verse>From the state unchanging like the vajra mind,
+
+[9277]
+<tibetan>
+<liturgical><verse>The mind-drop, bringing forth the clear lamp of enlightenment mind essence, || 110 ||
+
+[9278]
+<tibetan>
+<liturgical><verse>Established with certainty through the wisdom of signs.
+
+[9279]
+<tibetan>
+<liturgical><verse>The body-drop ornamented with five self-arisen wisdoms,
+
+[9280]
+<tibetan>
+<liturgical><verse>Through primordial wisdom naturally completely pure and stainless, clear without front or back,
+
+[9281]
+<tibetan>
+<liturgical><verse>Great direct-penetration wisdom,
+
+[9282]
+<tibetan>
+<liturgical><verse>Clear without outside or inside,
+
+[9283]
+<tibetan>
+<liturgical><verse>Non-dual wisdom,
+
+[9284]
+<tibetan>
+<liturgical><verse>From the inside of non-inside,
+
+[9285]
+<tibetan>
+<liturgical><verse>Through condition-free wisdom parts intermixed and clear,
+
+[9286]
+<tibetan>
+<liturgical><verse>Non-intermixed completely perfect wisdom,
+
+[9287]
+<tibetan>
+<liturgical><verse>The supreme inconceivable child-appearance and time simultaneously arisen, || 120 ||
+
+[9288]
+<tibetan>
+<liturgical><verse>Simultaneously arisen wisdom,
+
+[9289]
+<tibetan>
+<liturgical><verse>Holding the lineage of the body of infinite appearance,
+
+[9290]
+<tibetan>
+<liturgical><verse>Eliminating the thoughts of beings,
+
+[9291]
+<tibetan>
+<liturgical><verse>Called the great bodily relics.
+
+[9292]
+<tibetan>
+<liturgical><prose>Through the example showing the three bodies and five wisdoms, the wisdom of Vajrasattva is clear.
+
+[9293]
+<tibetan>
+<liturgical><prose>Though there are many forms of showing examples, among examples, that which becomes supreme is called the precious crystal.
+
+[9294]
+<tibetan>
+<liturgical><prose>Through showing by means of the crystal, naturally completely pure, clear without outside or inside,
+
+[9295]
+<tibetan>
+<liturgical><prose>Recognize the dharmakāya.
+
+[9296]
+<tibetan>
+<liturgical><prose>Relying on the inner light of the crystal,
+
+[9297]
+<tibetan>
+<liturgical><prose>From the wind possessing four limbs that becomes the life of prajñā, || 130 ||
+
+[9298]
+<tibetan>
+<liturgical><prose>Recognize the manner of clarity as the body of prajñā.
+
+[9299]
+<tibetan>
+<liturgical><prose>Relying on the light of outer clarity,
+
+[9300]
+<tibetan>
+<liturgical><prose>Recognize the manner of arising of light as the emanation body.
+
+[9301]
+<tibetan>
+<liturgical><prose>Through showing by means of the crystal support, recognize the nature of ground-abiding wisdom.
+
+[9302]
+<tibetan>
+<liturgical><prose>Recognize the wisdom holding the characteristic of inner clarity.
+
+[9303]
+<tibetan>
+<liturgical><prose>Recognize the wisdom of all-knowing through outer clarity.
+
+[9304]
+<tibetan>
+<liturgical><prose>Recognize the wisdom of all-knowing through dissolving inside.
+
+[9305]
+<tibetan>
+<liturgical><prose>Through showing the various appearances of the crystal,
+
+[9306]
+<tibetan>
+<liturgical><prose>Recognize the manner of appearing.
+
+[9307]
+<tibetan>
+<liturgical><prose>Through showing the nature of the crystal itself, recognize the single abiding nature. || 140 ||
+
+[9308]
+<tibetan>
+<liturgical><prose>Through the crystal possessing its own light, recognize as Rigpa wisdom.
+
+[9309]
+<tibetan>
+<liturgical><prose>These also, when summarized from the definite aspect of showing examples:
+
+[9310]
+<tibetan>
+<liturgical><tantra>From the Tantra of Arranged Lamps:
+
+[9311]
+<tibetan>
+<liturgical><verse>Through intention signs and ear-continuum lineage,
+
+[9312]
+<tibetan>
+<liturgical><verse>The valid cognition of secret mantra meaning arises.
+
+[9313]
+<tibetan>
+<liturgical><verse>Relying on the example, recognize the meaning.
+
+[9314]
+<tibetan>
+<liturgical><verse>Relying on signs, confidence is born.
+
+[9315]
+<tibetan>
+<liturgical><verse>Through deciding the essence of meaning,
+
+[9316]
+<tibetan>
+<liturgical><verse>The three wisdoms established in the ground,
+
+[9317]
+<tibetan>
+<liturgical><verse>Abiding in the manner of a seed, || 150 ||
+
+[9318]
+<tibetan>
+<liturgical><verse>Through prajñā arising from conditions,
+
+[9319]
+<tibetan>
+<liturgical><verse>Through ripening in the manner of fruit,
+
+[9320]
+<tibetan>
+<liturgical><verse>The darkness of non-recognition is cleared.
+
+[9321]
+<tibetan>
+<liturgical><verse>Through the self-purification of obstacles to the knowable,
+
+[9322]
+<tibetan>
+<liturgical><verse>The fruit not sought is seen by oneself.
+
+[9323]
+<tibetan>
+<liturgical><tantra>The meaning thus spoken should be introduced in sequence.
+
+[9324]
+<tibetan>
+<liturgical><prose>To that, first the general ground of self-arisen nature body
+
+[9325]
+<tibetan>
+<liturgical><prose>Should be introduced.
+
+[9326]
+<tibetan>
+<liturgical><prose>In that, nature, nature, and compassion abide as three.
+
+[9327]
+<tibetan>
+<liturgical><prose>That single bindu possessing the essence of empty Rigpa, || 160 ||
+
+[9328]
+<tibetan>
+<liturgical><prose>The teacher holds a single clear mirror,
+
+[9329]
+<tibetan>
+<liturgical><prose>Shows the student,
+
+[9330]
+<tibetan>
+<liturgical><prose>And speaks these words:
+
+[9331]
+<tibetan>
+<liturgical><verse>"This mirror of Samantabhadra's clear appearance,
+
+[9332]
+<tibetan>
+<liturgical><verse>"Through appropriate examples, makes one recognize the nature.
+
+[9333]
+<tibetan>
+<liturgical><verse>"That meaning of recognition is the introduction to clear appearance.
+
+[9334]
+<tibetan>
+<liturgical><verse>"First, the introduction to Samantabhadra's abiding nature.
+
+[9335]
+<tibetan>
+<liturgical><verse>"rigpa abiding in direct penetration is like crystal.
+
+[9336]
+<tibetan>
+<liturgical><verse>"rigpa, thought-free and clear, is like crystal.
+
+[9337]
+<tibetan>
+<liturgical><verse>"rigpa abiding in spontaneous presence is like crystal. || 170 ||
+
+[9338]
+<tibetan>
+<liturgical><verse>"rigpa, unceasing and direction-free, is like crystal."
+
+[9339]
+<tibetan>
+<liturgical><tantra>Thus it is said.
+
+[9340]
+<tibetan>
+<liturgical><prose>Though five lights are clear to outer eye,
+
+[9341]
+<tibetan>
+<liturgical><prose>Possessing nature of clear from within,
+
+[9342]
+<tibetan>
+<liturgical><prose>Nature:
+
+[9343]
+<tibetan>
+<liturgical><prose>White light also abides not separate from that, demonstrating compassion.
+
+[9344]
+<tibetan>
+<liturgical><prose>Though crystal essence demonstrates primordially pure and three,
+
+[9345]
+<tibetan>
+<liturgical><prose>By non-separation, understand through that example how single bindu meaning abides within.
+
+[9346]
+<tibetan>
+<liturgical><prose>Then demonstrating delusion-base:
+
+[9347]
+<tibetan>
+<liturgical><prose>Extend crystal to sun-ray, || 180 ||
+
+[9348]
+<tibetan>
+<liturgical><prose>Demonstrate outer two interior lights,
+
+[9349]
+<tibetan>
+<liturgical><prose>Condition of cause: ignorance of one self-nature at time of base-appear arising from base.
+
+[9350]
+<tibetan>
+<liturgical><prose>Field possessing five colors,
+
+[9351]
+<tibetan>
+<liturgical><prose>Demonstrate mind searching all for that subtle white.
+
+[9352]
+<tibetan>
+<liturgical><prose>That beginning move arises together with light,
+
+[9353]
+<tibetan>
+<liturgical><prose>Arises as knowable's obscuration: co-arising ignorance.
+
+[9354]
+<tibetan>
+<liturgical><prose>By wisdom's sense-power transcending from All-Good base, separate distinction in one moment,
+
+[9355]
+<tibetan>
+<liturgical><prose>Complete Buddha in one moment,
+
+[9356]
+<tibetan>
+<liturgical><prose>Is before Buddha as great-grandfather without common of all Buddhas.
+
+[9357]
+<tibetan>
+<liturgical><prose>By this liberation manner, || 190 ||
+
+[9358]
+<tibetan>
+<liturgical><prose>Should know all first Buddha's arising manner and arising manner.
+
+[9359]
+<tibetan>
+<liturgical><verse>First Buddha without cause,
+
+[9360]
+<tibetan>
+<liturgical><verse>Buddha without beginning or end,
+
+[9361]
+<tibetan>
+<liturgical><verse>One wisdom eye without stain.
+
+[9362]
+<tibetan>
+<liturgical><tantra>Thus spoken from Manjushri.
+
+[9363]
+<tibetan>
+<liturgical><prose>Demonstrating All-Good's liberation base.
+
+[9364]
+<tibetan>
+<liturgical><prose>Also, having known base-appear arising from base and liberating, speaks that immeasurable Buddhas not deluded in saṃsāra now also arise from space.
+
+[9365]
+<tibetan>
+<liturgical><prose>That base-appear, sentient beings not knowing as self-appear,
+
+[9366]
+<tibetan>
+<liturgical><prose>Arises as affliction-obscuration of all-imagined ignorance.
+
+[9367]
+<tibetan>
+<liturgical><tantra>Thus, || 200 ||
+
+[9368]
+<tibetan>
+<liturgical><prose>Delusion various arises by awareness rise-sleep habit-continuum.
+
+[9369]
+<tibetan>
+<liturgical><prose>That also like placing hopes on various colored crystal cloth,
+
+[9370]
+<tibetan>
+<liturgical><prose>Or placing each white light on each white color etc.
+
+[9371]
+<tibetan>
+<liturgical><prose>There, awareness-wisdom and concept-collection net.
+
+[9372]
+<tibetan>
+<liturgical><prose>Entering body's interior,
+
+[9373]
+<tibetan>
+<liturgical><prose>Manner of four-holding awareness abiding in heart center,
+
+[9374]
+<tibetan>
+<liturgical><prose>Give introduction to manner pervading all sentient beings.
+
+[9375]
+<tibetan>
+<liturgical><prose>That is also introduction of nature's delusion manner.
+
+[9376]
+<tibetan>
+<liturgical><verse>Delusion arising from condition like crystal light.
+
+[9377]
+<tibetan>
+<liturgical><verse>Various things appearing like crystal light. || 210 ||
+
+[9378]
+<tibetan>
+<liturgical><verse>Appearing yet essence unchanging like crystal.
+
+[9379]
+<tibetan>
+<liturgical><verse>Without exhaust, without increase, like crystal light.
+
+[9380]
+<tibetan>
+<liturgical><tantra>Make all thus spoken understood, well apply sign meaning.
+
+[9381]
+<tibetan>
+<liturgical><prose>Sign meaning of liberating deluded sentient beings:
+
+[9382]
+<tibetan>
+<liturgical><tantra>From Lamp Blaze:
+
+[9383]
+<tibetan>
+<liturgical><verse>Base itself, wisdom making fruit ripen.
+
+[9384]
+<tibetan>
+<liturgical><verse>By ripening in wisdom-body,
+
+[9385]
+<tibetan>
+<liturgical><verse>That essence-itself Dharma-body
+
+[9386]
+<tibetan>
+<liturgical><verse>Ripens in wisdom Dharma-body.
+
+[9387]
+<tibetan>
+<liturgical><tantra>From thus speaking. || 220 ||
+
+[9388]
+<tibetan>
+<liturgical><prose>From heart center, wisdom three-stack lung wind and wisdom's two tones meeting,
+
+[9389]
+<tibetan>
+<liturgical><prose>Power becoming mind,
+
+[9390]
+<tibetan>
+<liturgical><prose>Example of abiding unmoving dissolving in base manner.
+
+[9391]
+<tibetan>
+<liturgical><prose>Example of white mind, interior light emanating outer.
+
+[9392]
+<tibetan>
+<liturgical><prose>Called sixth mind.
+
+[9393]
+<tibetan>
+<liturgical><prose>Example of five lights wisdom.
+
+[9394]
+<tibetan>
+<liturgical><prose>Awareness holding base.
+
+[9395]
+<tibetan>
+<liturgical><prose>That example introduction of mind and wisdom two is suitable.
+
+[9396]
+<tibetan>
+<liturgical><prose>Intermediate introduction: sound, light, ray three,
+
+[9397]
+<tibetan>
+<liturgical><prose>And Vajra-Mind heart-interval nadi path introduction etc. appropriate all, produce certain knowing in crystal. || 230 ||
+
+[9398]
+<tibetan>
+<liturgical><prose>Yogin applying essence and knowing, making confidence, should be diligent in experience.
+
+[9399]
+<tibetan>
+<liturgical><ornament>Liberation manner as fruit:
+
+[9400]
+<tibetan>
+<liturgical><prose>Though above interior-clear primordially pure liberation base is clear as self-arise essence-itself body,
+
+[9401]
+<tibetan>
+<liturgical><prose>Called outer-clear,
+
+[9402]
+<tibetan>
+<liturgical><prose>Give introduction to mixing five lights and white two.
+
+[9403]
+<tibetan>
+<liturgical><prose>This has great essential point if wisdom exists.
+
+[9404]
+<tibetan>
+<liturgical><prose>Path wisdom or
+
+[9405]
+<tibetan>
+<liturgical><prose>Desiring wisdom without extremely not abiding middle,
+
+[9406]
+<tibetan>
+<liturgical><prose>Or desiring wisdom without in our great perfect primordially pure,
+
+[9407]
+<tibetan>
+<liturgical><prose>Though delusion pure from root, || 240 ||
+
+[9408]
+<tibetan>
+<liturgical><prose>Arising without ceasing two bodies.
+
+[9409]
+<tibetan>
+<liturgical><prose>Wisdom must exist in space,
+
+[9410]
+<tibetan>
+<liturgical><prose>That mixing of five lights and white is mirror wisdom.
+
+[9411]
+<tibetan>
+<liturgical><prose>Example of white arising separately, emanation-body emanating from enjoyment-body.
+
+[9412]
+<tibetan>
+<liturgical><prose>Those are introduction of Buddha-hood as all-knowing in two-possessing purity.
+
+[9413]
+<tibetan>འཛམ་བུའི་གླིང་འདིར་བྱུང་ཚུལ་ནི།
+<literal>Jambu continent this-in arise manner indeed
+<liturgical><prose>Called "who superior passed from Buddha nirvāṇa":
+
+[9414]
+<tibetan>འཁོར་བ་དོང་སྤྲུགས་རིན་པོ་ཆེ་གསང་བའི་རྒྱུད་ལས།
+<literal>Samsara Dong-Sprug precious secret tantra-from
+<liturgical><prose>Emanation-body and enjoyment-body dissolving into Dharma-body,
+
+[9415]
+<tibetan>སངས་རྒྱས་ལྔ་ཡི་གདུང་འཛིན་པ།
+<literal>Buddha five-of lineage hold
+<liturgical><prose>By being free from crystal sun's condition,
+
+[9416]
+<tibetan>།ཤེལ་གྱི་མཆོད་རྟེན་ཁྲི་འཕང་ལྔ།
+<literal>Crystal-of stupa thousand-span five
+<liturgical><prose>Abiding undeluded having seized stable ground at beginning's primordially pure base,
+
+[9417]
+<tibetan>།ཡེ་ཤེས་ལྔ་ཡི་རང་བཞིན་ཅན།
+<literal>Wisdom five-of nature possess
+<liturgical><prose>Though liberated like that, essence not separate, || 250 ||
+
+[9418]
+<tibetan>།མཁའ་ཀློང་ལྔ་ཡི་གདུང་འཛིན་པ།
+<literal>Sky expanse five-of lineage hold
+<liturgical><prose>By distinction of aware and not-aware,
+
+[9419]
+<tibetan>།སྣང་མེད་མཁའ་ལ་ཁྱབ་པར་གདལ།
+<literal>Appear without sky-to pervade expand
+<liturgical><prose>Called all-knowing: all abiding only in wisdom-body.
+
+[9420]
+<tibetan>།ཁ་དོག་མ་འདྲེས་སོ་སོར་གསལ།
+<literal>Color not-mixed individual clear
+<liturgical><prose>Mainly possessing two wisdoms.
+
+[9421]
+<tibetan>།ངོ་བོ་རང་བཞིན་ཐུགས་རྗེ་གསུམ།
+<literal>Essence nature compassion three
+<liturgical><prose>Existing as interior-clear, that essence delivering to cease ground and first human's common-base self-arise essence-itself body are not separate.
+
+[9422]
+<tibetan>།ངོ་བོ་འགག་མེད་དག་པའི་གཞི།
+<literal>Essence cease without pure ground
+<liturgical><prose>However, like sun obscured by cloud,
+
+[9423]
+<tibetan>།རང་བཞིན་འབྱུང་བ་ཆེན་པོ་ལྔ།
+<literal>Nature element great five
+<liturgical><prose>From portion of realization becoming manifest by liberating from all obscurations, knowing self-essence like liberation,
+
+[9424]
+<tibetan>།ཐུགས་རྗེ་གཟུགས་སྐུ་ཡོངས་སུ་བསྟན།
+<literal>Compassion form-body complete demonstrate
+<liturgical><prose>Beginning base and
+
+[9425]
+<tibetan>།རྡོ་རྗེ་དབྱིངས་ཀྱི་དཀྱིལ་འཁོར་ནས།
+<literal>Vajra space-of mandala-from
+<liturgical><prose>End liberation ground two—very great distinction.
+
+[9426]
+<tibetan>།རང་བཞིན་ལྷུན་གྱིས་གྲུབ་པའི་སྐུ།
+<literal>Nature spontaneous complete-of body
+<liturgical><prose>Great essential point.
+
+[9427]
+<tibetan>།ཡེ་ཤེས་ལྔ་ལྡན་ཆུ་ཟླའི་སྐུ།
+<literal>Wisdom five possess water-moon body
+<liturgical><verse>Wisdom swirling in space like crystal light. || 260 ||
+
+[9428]
+<tibetan>།མི་གསལ་གསལ་བའི་བདག་ཉིད་ཅན།
+<literal>Not-clear clear self-nature possess
+<liturgical><verse>Dharma-body arising clear-pure like crystal itself.
+
+[9429]
+<tibetan>།ཤེལ་གྱི་མཆོད་རྟེན་ཁྲི་འཕང་ལྔ།
+<literal>Crystal-of stupa thousand-span five
+<liturgical><tantra>Thus it is spoken.
+
+[9430]
+<tibetan>།རྡོ་རྗེ་འཆང་གི་གཡོན་དུ་བབས།
+<literal>Vajra-Holder-of left-to descend
+<liturgical><prose>That Dharma-body of knowing self-essence, self itself abiding in self-bed,
+
+[9431]
+<tibetan>།གདངས་ཀྱི་རྣམ་པ་གསུམ་ལྡན་པ།
+<literal>Tone-of aspect three possess
+<liturgical><prose>If desiring to hold stable ground of undeluded Dharma-body now also,
+
+[9432]
+<tibetan>།བྱང་ཤར་མཚམས་ན་ཟུར་ལ་འཇུག
+<literal>North-east direction-in corner-to enter
+<liturgical><break><prose> Great essential point is keeping undistracted, clear, snap in manner of great open naked self-clear,
+
+[9433]
+<tibetan>།མཚན་མོའི་ཕྱོགས་ན་ཉིན་མོ་ལྟ།
+<literal>Nighttime direction-in daytime see
+<liturgical><break><tantra> From glorious holy guru protector of beings' mouth:
+
+[9434]
+<tibetan>།ཤེས་རབ་གཡས་ཟུར་དྲུང་བཞག་ན།
+<literal>Wisdom right corner near place
+<liturgical><verse>Dharma-body of knowing self-essence is self-bed itself,
+
+[9435]
+<tibetan>།སངས་རྒྱས་ཉག་གཅིག་ངེས་མཐོང་འགྱུར།
+<literal>Buddha single certain see become
+<liturgical><verse>All who desire to hold stable undeluded ground,
+
+[9436]
+<tibetan>།ཤེས་རབ་ལྷག་མཐོང་ཡེ་ཤེས་ནི།
+<literal>Wisdom superior-seeing wisdom indeed
+<liturgical><verse>Essential point is doing not-wrong, not-deluded, not-distracted,
+
+[9437]
+<tibetan>།སངས་རྒྱས་དགོངས་པ་ཉག་གཅིག་ཡིན།
+<literal>Buddha intention single indeed
+<liturgical><verse>Let wisdom-possessing know intention like ocean. || 270 ||
+
+[9438]
+<tibetan>།བདུད་་རྩི་ལྕེ་ཡིས་དོན་སྦྱར་ན།
+<literal>Nectar tongue-by meaning apply
+<liturgical><tantra>Thus well spoken.
+
+[9439]
+<tibetan>།རིག་པའི་ཁུ་བྱུག་ཚིག་གཅིག་ཡིན།
+<literal>Awareness cuckoo word one indeed
+<liturgical><prose>At time of all this introduction, relaxing freshly, self also producing uncommon new confidence, should demonstrate to others.
+
+[9440]
+<tibetan>།འགྱུར་མེད་རྡོ་རྗེ་ལུས་ཀྱི་མཆོག
+<literal>Change without vajra body-of supreme
+<liturgical><break><tantra> Also from World Sun Dharma-Lord Guru's mouth:
+
+[9441]
+<tibetan>།མན་ངག་ཏི་ཀ་ཟུར་འགྲོས་ཅན།
+<literal>Instruction commentary corner-proceed possess
+<liturgical><break><tantra> Should carefully give introductions in sequence.
+
+[9442]
+<tibetan>།རྡོ་རྗེ་སེམས་དཔའི་ཞལ་ཆེམས་ཡིན།
+<literal>Vajra-Mind testaments indeed
+<liturgical><ornament>Ha-le!
+
+[9443]
+<tibetan>།ཅེས་པ་དང༌།
+<literal>Thus and
+<liturgical><ornament>Ho-le!
+
+[9444]
+<tibetan>དེ་ནས་སུམ་ཅུ་རྩ་གསུམ་གྱི་གནས།
+<literal>Then thirty-three-of place
+<liturgical><prose>Without portion of what exists.
+
+[9445]
+<tibetan>རྣམ་པར་རྒྱལ་བའི་ཁང་བཟངས་ཀྱི་ཡང་ཐོག
+<literal>Complete-victory-of palace-of upper-story
+<liturgical><break><prose> Not introduction.
+
+[9446]
+<tibetan>།པ་ཏ་རི་ཀད་ཀ་ཞེས་བྱ་བར་བབས་སོ།
+<literal>Potalaka called descend
+<liturgical><break><prose> Not introduced, do not.
+
+[9447]
+<tibetan>།དེ་ནས་རི་བོ་རྩེ་ལྔའི་རྩེ་ལ་བབས་སོ།
+<literal>Then mountain five-peaks peak-to descend
+<liturgical><prose>Do not declare non-Dharma action. || 280 ||
+
+[9448]
+<tibetan>།དེ་ནས་རྡོ་རྗེ་གདན་དུ་བབས་སོ།
+<literal>Then Vajra-Seat-to descend
+<liturgical><prose>Do not follow for delusion.
+
+[9449]
+<tibetan>།དེ་ནས་གངས་ཏི་སེ་ལ་བབས་སོ།
+<literal>Then Gangs-Ti-Se-to descend
+<liturgical><prose>Do not do bad non-Dharma actions taking guru etc.'s name.
+
+[9450]
+<tibetan>།དེ་ནས་མཆོད་རྟེན་ཆེན་པོ་དེ་འོད་ཟེར་དུ་འཕྲོས་ཏེ།
+<literal>Then stupa great that light-ray-as emanate having
+<liturgical><tantra>Thus making instruction: need to make name and meaning together.
+
+[9451]
+<tibetan>སེམས་ཅན་གྱི་རྟོག་པ་བསལ་ལོ་ཞེས་གསུངས་ཏེ།
+<literal>Sentient-being-of concept dispel speak
+<liturgical><prose>Respectfully place in mind thus all who have entered this Dharma in future times.
+
+[9452]
+<tibetan>ཐོག་མ་འཇིག་རྟེན་འདི་ཆགས་དུས་རྡོ་རྗེ་དབྱིངས་ཀྱི་དཀྱིལ་འཁོར་ནས་སྤྲུལ་པ་རང་བཞིན་གྱི་བྱིན་རླབས་ལས།
+<literal>Beginning world this form time vajra space-of mandala-from emanation nature-of blessing-from
+<liturgical><ornament>Second meaning: extensively demonstrating mind and wisdom's indicative examples through determining that distinction has two aspects:
+
+[9453]
+<tibetan>སྟོན་པ་རྡོ་རྗེ་འཆང་འགྲོ་བའི་དོན་ལ་དགའ་ལྡན་བརྩེགས་པ་བྱོན་པའི་གཡོན་དུ་བབས་ནས།
+<literal>Teacher Vajra-Holder being-of benefit-to Joyful-Stacked gone-of left-to descend having
+<liturgical><prose>Mind's introduction of delusion reversing manner from root awareness,
+
+[9454]
+<tibetan>སུམ་ཅུ་རྩ་གསུམ་དང༌།
+<literal>Thirty-three-and
+<liturgical><prose>And self-appear wisdom's introduction of awareness with self-appear.
+
+[9455]
+<tibetan>རི་བོ་རྩེ་ལྔ་དང༌།
+<literal>Mountain five-peaks-and
+<liturgical><ornament>First:
+
+[9456]
+<tibetan>རྡོ་རྗེ་གདན་དང༌།
+<literal>Vajra-Seat-and
+<liturgical><tantra>From Introduction Ornament:
+
+[9457]
+<tibetan>གངས་རི་ཏི་སེའི་བར་དུ་འགྲོ་བའི་དོན་ལ་གཅིག་ནས་གཅིག་ཏུ་བབས་ཏེ།
+<literal>Snow-mountain Ti-Se-of interval-to being-of benefit-to one-from one-to descend
+<liturgical><ornament>E-ma-ho! || 290 ||
+
+[9458]
+<tibetan>དིང་སང་ཏི་སེའི་རྩེ་མོ་རིན་པོ་ཆེ་འོད་འཕྲོ་བའི་ཁང་བུ་ན་བཞུགས་ཏེ།
+<literal>Now Ti-Se-of peak precious light-emanate-of house-in abide having
+<liturgical><verse>Manner of coming to mind by giving introduction of appearance as mind,
+
+[9459]
+<tibetan>མཁའ་འགྲོ་དང་གྲུབ་པ་དང་རིག་སྔགས་འཆང་དུ་མས་བསྟི་སྟང་དུ་བྱེད་ཅིང་འདུན་ཏོ།
+<literal>Sky-goer-and accomplishment-and awareness-mantra-holder many worship doing-and aspire
+<liturgical><verse>Reach expanding bliss of empty by giving introduction of mind itself as empty,
+
+[9460]
+<tibetan>།དེ་ལྟར་དངོས་ཀྱི་མེ་ལོང་མེད་ན་ཡང༌།
+<literal>Like-that actual mirror without also
+<liturgical><verse>Giving introduction of empty as awareness,
+
+[9461]
+<tibetan>།མཚན་དཔེ་ངེས་པ་ལ་ནོར་བུ་སྣ་ཚོགས་སམ།
+<literal>Indicative-example determine having jewel various or
+<liturgical><verse>Awareness itself without space and wisdom two. Thus it is spoken.
+
+[9462]
+<tibetan>།གངས་དང་རྒྱ་མཚོའི་གླིང་ལ་སོགས་པ་ནས་རང་བྱུང་བའི་མེན་ཤེལ་བཙལ་ལ་ངོ་སྤྲོད་པའི་མེ་ལོང་དུ་བྱ་བ་ནི།
+<literal>Snow-and ocean-of continent-to etc.-from self-arise-of crystal search having introduction mirror-as do indeed
+<liturgical><prose>In this, three:
+
+[9463]
+<tibetan>ངོ་སྤྲོད་སྤྲས་པ་ལས།
+<literal>Introduction ornament-from
+<liturgical><list>Establishing inner mind by outer field's essential point,
+
+[9464]
+<tibetan>རིན་ཆེན་སྙིང་པོ་ནོར་བུ་འོད་འབར་རམ།
+<literal>Jewel heart-essence jewel light-blaze or
+<liturgical><list>Establishing secret space by inner mind's essential point,
+
+[9465]
+<tibetan>ནོར་བུ་མར་གད་སྔོན་པོ་ཆུ་ཤེལ་ལམ།
+<literal>Jewel lapis lazuli blue water-crystal or
+<liturgical><list>Establishing supreme awareness itself by secret space's essential point.
+
+[9466]
+<tibetan>།ས་ཡི་སྙིང་པོ་རིན་ཆེན་མིག་མ་ཕུག
+<literal>Earth-of heart-essence jewel eye-ma-phug
+<liturgical><break><prose> First, demonstrating deluded baseless appearance field,
+
+[9467]
+<tibetan>།རྡོ་ཡི་སྙིང་པོ་རིན་ཆེན་མེན་ཤེལ་གྱིས།
+<literal>Stone-of heart-essence jewel crystal-by
+<liturgical><break><prose> From two: demonstrating self-mind empty of appearance-holding. || 300 ||
+
+[9468]
+<tibetan>།སངས་རྒྱས་རྣམས་ཀྱི་གནས་ལུགས་གཏན་ལ་འབེབས།
+<literal>Buddha all-of state establish
+
+[9469]
+<tibetan>།ཞེས་པ་དང༌།
+<literal>Thus and
+
+[9470]
+<tibetan>ནོར་བུ་འཕྲ་བཀོད་ལས།
+<literal>Jewel Intricate-Display from
+
+[9471]
+<tibetan>རྡོ་རྗེ་སེམས་དཔའི་མཚོན་དཔེ་ནི།
+<literal>Vajra-Mind indicative-example indeed
+
+[9472]
+<tibetan>།དྲི་མེད་དཀར་པོ་ཟླ་བའི་མདོག
+<literal>Stain without white moon-of color
+
+[9473]
+<tibetan>།མུན་དང་སྣང་བའི་མཚམས་ནས་བརྟག
+<literal>Dark-and appear-of interval-from examine
+
+[9474]
+<tibetan>།ནོར་བུ་འོད་གསལ་དྲི་མེད་པས།
+<literal>Jewel luminosity stain without-by
+
+[9475]
+<tibetan>།སྣང་བ་ཁ་དོག་ལྔ་དང་ལྡན།
+<literal>Appear color five-with endowed
+
+[9476]
+<tibetan>།སྐུ་ལྔ་སོ་སོར་མ་ཕྱེ་བས།
+<literal>Body five individual not-separate having
+
+[9477]
+<tibetan>།མདུན་དང་རྒྱབ་ཏུ་དབྱེར་མི་ཕྱེད།
+<literal>Front-and back-to separate not-separate
+
+[9478]
+<tibetan>།སྣང་གསལ་ཆོས་ཉིད་འོད་པོ་ཆེ།
+<literal>Appear-clear Dharma-nature light great
+
+[9479]
+<tibetan>།གསལ་བའི་ཆོས་ཉིད་ཀུན་ཏུ་འབར།
+<literal>Clear-of Dharma-nature all-as blaze
+
+[9480]
+<tibetan>།སྣང་བྱེད་སྒྲོན་མ་ཀུན་གྱི་མཆོག
+<literal>Appear make lamp all-of supreme
+
+[9481]
+<tibetan>།སྟོང་པ་ཆེན་པོའི་མཁའ་ཀློང་དུ།
+<literal>Empty great-of sky expanse-in
+
+[9482]
+<tibetan>།སྣང་བ་ཐམས་ཅད་འོད་དུ་ཤར།
+<literal>Appear all light-as arise
+
+[9483]
+<tibetan>།ཤར་བ་དེ་ཉིད་སྤོགས་པ་མིན།
+<literal>Arise that itself separate not
+
+[9484]
+<tibetan>།སུས་ཀྱང་བཟུང་བར་ནུས་མ་ཡིན།
+<literal>Who-by-also grasp able not
+
+[9485]
+<tibetan>།གལ་ཏེ་ཤེས་རབ་མིག་ལྡན་པས།
+<literal>If wisdom eye possess-by
+
+[9486]
+<tibetan>།རང་སྣང་དྲི་མེད་ཟླ་རྒྱས་བཞིན།
+<literal>Self-appear stain without moon full like
+
+[9487]
+<tibetan>།བཞིན་བཟངས་དཀྱིལ་འཁོར་མཐོང་འགྱུར་ཏེ།
+<literal>Face-beautiful mandala see become
+
+[9488]
+<tibetan>།ཡེངས་མེད་རྫོགས་ཆེན་བསྒོམ་པའོ།
+<literal>Distracted without great-perfect meditate indeed
+
+[9489]
+<tibetan>།ཞེས་སོ།
+<literal>Thus
+
+[9490]
+<tibetan>།དེ་ལྟ་བུའི་མེ་ལོང་དེ་གཟུངས་ཆུས་དྲི་མ་བཀྲུས་ལ་རང་གི་རྩ་བའི་བླ་མར་མོས་པས།
+<literal>Like-that-of mirror that mantra-water stain wash having self-of root-of guru-to devotion-by
+
+[9491]
+<tibetan>ཨཱོཾ་ཨཱཿཧཱུྃ་བརྒྱ་སྟོང་གིས་བྱིན་གྱིས་བརླབས་ལ་རྟེན་འབྲེལ་སྙིང་པོས་མེ་ཏོག་འཐོར་ཞིང་ཤིས་པ་བརྗོད་ལ།
+<literal>OM AH HUM hundred thousand-by bless having dependent-origination heart-essence-by flower scatter having auspicious speak having
+
+[9492]
+<tibetan>ཡན་ལག་བདུན་པས་མངའ་གསོལ་ཏེ།
+<literal>Branch seven-by rule request having
+
+[9493]
+<tibetan>སླར་ཡང་ཤིས་པ་བརྗོད་ནས།
+<literal>Again auspicious speak having
+
+[9494]
+<tibetan>དར་ཚོན་ལྔ་དང་དྲིའི་ཕྱེ་མ་བསྒོམ་པས་ན་བཟའ་གསོལ་ཏེ།
+<literal>Silk color five-and incense powder imagine having garment offer having
+
+[9495]
+<tibetan>དཔེ་ཐམས་ཅད་ཀྱི་སྔོན་དུ་འགྲོ་བར་བྱའོ།
+<literal>example all-of precede go should/
+
+[9496]
+<tibetan>།གཉིས་པ་ངོ་སྤྲད་པ་དངོས་ལ།
+<literal>/second introduction actual-to/
+
+[9497]
+<tibetan>བརྒྱུད་པ་དང༌།
+<literal>lineage-and */
+
+[9498]
+<tibetan>ངོ་སྤྲད་པ་གཉིས་ལས།
+<literal>introduction two-from/
+
+[9499]
+<tibetan>བརྒྱུད་པ་ནི།
+<literal>lineage is/
+
+[9500]
+<tibetan>སངས་རྒྱས་དགོངས་པས་བརྒྱུད་པ།
+<literal>buddha intention-by-means-of lineage/
+
+[9501]
+<tibetan>རིགས་འཛིན་བརྡས་བརྒྱུད་པ།
+<literal>awareness-holder sign-by-means-of lineage/
+
+[9502]
+<tibetan>གང་ཟག་སྙན་ཁུངས་ནས་བརྒྱུད་པ་གསུམ་བརྗོད་ལ།
+<literal>person ear-continuum-from lineage three speak/
+
+[9503]
+<tibetan>ངོ་སྤྲད་པ་དངོས་ནི།
+<literal>introduction actual is/
+
+[9504]
+<tibetan>གདམས་པ་ཟང་མོའི་ངོ་སྤྲོད་ཐེག་པ་གཅིག
+<literal>instruction precious introduction vehicle one
+
+[9505]
+<tibetan>།རིགས་གཅིག
+<literal>/family one
+
+[9506]
+<tibetan>ཐིག་ལེ་གཅིག
+<literal>bindu one
+
+[9507]
+<tibetan>ཡེ་ཤེས་མིག་གཅིག
+<literal>primordial-wisdom eye one
+
+[9508]
+<tibetan>དཔེར་གཅིག་སྟེ་རྡོ་རྗེ་སེམས་དཔའི་མེ་ལོང་གིས་ངོ་སྤྲད་ན།
+<literal>example one vajra-mind mirror-by-means-of introduction show/
+
+[9509]
+<tibetan>དཔེ་ལ་བརྟེན་ནས་དོན་ངོ་ཤེས་ཏེ།
+<literal>example rely-from meaning recognize/
+
+[9510]
+<tibetan>སྤྲོས་པ་མེད་པའི་ཀློང༌།
+<literal>elaboration non-existent vastness */
+
+[9511]
+<tibetan>བསོད་ནམས་བརྒྱན་པའི་སྐུ།
+<literal>merit ornament-possess body/
+
+[9512]
+<tibetan>སྤྲུལ་པའི་རྡོ་རྗེ་འོད་སྲུང་ལ།
+<literal>emanation vajra light-vitality to/
+
+[9513]
+<tibetan>བཅོམ་ལྡན་འདས་གཟི་བརྗིད་མཐའ་ཡས་ཀྱིས།
+<literal>bhagavan splendor infinite-by-means-of/
+
+[9514]
+<tibetan>སྐྱེ་མེད་དག་པའི་ཀློང་ནས།
+<literal>birth non-existent pure vastness from/
+
+[9515]
+<tibetan>སྙིང་པོ་བྱང་ཆུབ་མཆོག་གི་ཐིགས་པ་གསུམ་སྤྲོས་ཏེ།
+<literal>essence enlightenment supreme-of drop three emit/
+
+[9516]
+<tibetan>སྐུ་མངོན་པར་སྣང་བ་ཆུ་ཟླའི་དཀྱིལ་འཁོར་ལྟ་བུ་ནས།
+<literal>body manifest appear water-moon mandala like from/
+
+[9517]
+<tibetan>སྐུའི་ཐིག་པ་མེན་ཤེལ་གསང་བའི་སྐུང་ཕྱུང་ནས་དཔེའི་ཡེ་ཤེས་སུ་བཞག
+<literal>body-of drop crystal secret body bring-out-from example primordial-wisdom-as establish
+
+[9518]
+<tibetan>གསུང་སྤྲོས་པ་མེད་པའི་ཀློང་ནས།
+<literal>speech elaboration non-existent vastness from/
+
+[9519]
+<tibetan>གསུང་གི་ཐིགས་པ་བདུད་རྩི་བྱང་ཆུབ་སེམས་ཀྱི་ཡང་ཞུན་ཕྱུང་ནས།
+<literal>speech-of drop nectar enlightenment mind-of essence extract-from/
+
+[9520]
+<tibetan>དོན་གྱི་ཡེ་ཤེས་ངོ་སྤྲད།
+<literal>meaning primordial-wisdom introduction/
+
+[9521]
+<tibetan>ཐུགས་རྡོ་རྗེ་ལྟར་མི་འགྱུར་བའི་ངང་ནས།
+<literal>mind vajra like not-change-of state from/
+
+[9522]
+<tibetan>ཐུགས་ཀྱི་ཐིགས་པ་སྙིང་པོ་བྱང་ཆུབ་ཀྱི་སེམས་གསལ་བའི་སྒྲོན་མ་ཕྱུང་ནས།
+<literal>mind-of drop essence enlightenment-of mind clear lamp bring-out-from/
+
+[9523]
+<tibetan>རྟགས་ཀྱི་ཡེ་ཤེས་ཀྱིས་ཡིད་ཆེས་པར་གཏན་ལ་ཕབ་བོ།
+<literal>sign primordial-wisdom confidence certainty establish/
+
+[9524]
+<tibetan>།སྐུའི་ཐིགས་པ་རང་བྱུང་གི་ཡེ་ཤེས་ལྔས་སྤྲས་པ།
+<literal>/body-of drop self-arise primordial-wisdom five ornament-possess/
+
+[9525]
+<tibetan>རང་བཞིན་རྣམ་པར་དག་པ་དྲི་མ་མེད་པའི་ཡེ་ཤེས་མདུན་རྒྱབ་མེད་པར་གསལ་བས།
+<literal>nature completely pure stain non-existent primordial-wisdom front back non-existent clear/
+
+[9526]
+<tibetan>ཡེ་ཤེས་ཟང་ཐལ་ཆེན་པོ།
+<literal>primordial-wisdom direct-penetration great/
+
+[9527]
+<tibetan>ཕྱི་ནང་མེད་པར་གསལ་བས།
+<literal>outside inside non-existent clear/
+
+[9528]
+<tibetan>གཉིས་སུ་མེད་པའི་ཡེ་ཤེས།
+<literal>two-in non-existent primordial-wisdom/
+
+[9529]
+<tibetan>ནང་མེད་པའི་ནང་ནས།
+<literal>inside non-existent-of inside from/
+
+[9530]
+<tibetan>རྐྱེན་མེད་པའི་ཡེ་ཤེས་ཆ་འདྲེས་པར་གསལ་བས།
+<literal>condition non-existent primordial-wisdom part intermixed clear/
+
+[9531]
+<tibetan>མ་འདྲེས་ཡོངས་སུ་རྫོགས་པའི་ཡེ་ཤེས།
+<literal>non-intermixed completely complete primordial-wisdom/
+
+[9532]
+<tibetan>ཁྱེའུ་སྣང་བ་དམ་པ་བསམ་གྱིས་མི་ཁྱབ་པ་དང་དུས་མཉམ་དུ་བྱུང་བས།
+<literal>child-appearance supreme inconceivable and time same become/
+
+[9533]
+<tibetan>ལྷན་ཅིག་འབྱུང་བའི་ཡེ་ཤེས།
+<literal>simultaneously arise primordial-wisdom/
+
+[9534]
+<tibetan>སྣང་བ་མཐའ་ཡས་ཀྱི་སྐུའི་གདུང་འཛིན་ཅིང༌།
+<literal>appearance infinite body-of lineage hold */
+
+[9535]
+<tibetan>སེམས་ཅན་གྱི་རྟོག་པ་སེལ་བས།
+<literal>beings thought eliminate/
+
+[9536]
+<tibetan>སྐུ་གདུང་རིང་བསྲེལ་ཆེན་པོ་ཞེས་བྱའོ།
+<literal>body lineage great-relics called/
+
+[9537]
+<tibetan>།སྐུ་གསུམ་ཡེ་ཤེས་ལྔའི་དཔེ་མཚོན་པས་རྡོ་རྗེ་སེམས་དཔའི་ཡེ་ཤེས་གསལ་བ་སྟེ།
+<literal>/body three primordial-wisdom five-of example show-by-means-of vajra-mind primordial-wisdom clear is/
+
+[9538]
+<tibetan>མཚོན་དཔེའི་རྣམ་པ་མང་ན་ཡང་དཔེ་རྣམས་ཀྱི་ནང་ནས་མཆོག་ཏུ་གྱུར་པ་རིན་པོ་ཆེ་ཤེལ་ལ་བྱ་སྟེ།
+<literal>show example-of form many though example plural-of inside-from supreme become precious crystal call/
+
+[9539]
+<tibetan>ཤེལ་རང་བཞིན་གྱིས་རྣམ་པར་དག་པ་ཕྱི་ནང་མེད་པར་གསལ་བ་དེས་མཚོན་པས།
+<literal>crystal nature-by-means-of completely pure outside inside non-existent clear that show-by-means-of/
+
+[9540]
+<tibetan>ཆོས་སྐུ་ངོ་ཤེས།
+<literal>dharmakaya recognize/
+
+[9541]
+<tibetan>ཤེལ་གྱི་ནང་འོད་ལ་བརྟེན་ནས།
+<literal>crystal-of inside light rely-from/
+
+[9542]
+<tibetan>ཤེས་རབ་སྲོག་ཏུ་གྱུར་པའི་རླུང་ཡན་ལག་བཞི་ལྡན་ལས།
+<literal>prajna life become-of wind limb four possess from/
+
+[9543]
+<tibetan>ཤེས་རབ་ཀྱི་སྐུར་གསལ་ལུགས་ངོ་ཤེས།
+<literal>prajna body-as clear manner recognize/
+
+[9544]
+<tibetan>ཕྱིར་གསལ་གྱི་འོད་ལ་བརྟེན་ནས།
+<literal>outside clear-of light rely-from/
+
+[9545]
+<tibetan>སྤྲུལ་པའི་སྐུ་འོད་ཀྱི་ཤར་ལུགས་ངོ་ཤེས།
+<literal>emanation body light-of arise manner recognize/
+
+[9546]
+<tibetan>ཤེལ་རྟེན་ཅིང་མཚོན་ནས་གཞི་གནས་ཀྱི་ཡེ་ཤེས་ངོ་བོ་ཤེས།
+<literal>crystal support-by-means-of show-from ground abiding primordial-wisdom nature recognize/
+
+[9547]
+<tibetan>ནང་གསལ་གྱི་མཚན་ཉིད་འཛིན་པའི་ཡེ་ཤེས་ངོ་ཤེས།
+<literal>inside clear-of characteristic hold primordial-wisdom recognize/
+
+[9548]
+<tibetan>ཕྱིར་གསལ་གྱིས་རྣམ་པ་ཐམས་ཅད་མཁྱེན་པའི་ཡེ་ཤེས་ངོ་ཤེས།
+<literal>outside clear-by-means-of form all know primordial-wisdom recognize/
+
+[9549]
+<tibetan>ནང་དུ་ཐིམ་པས་ཐམས་ཅད་མཁྱེན་པའི་ཡེ་ཤེས་ངོ་ཤེས།
+<literal>inside dissolve-by-means-of all know primordial-wisdom recognize/
+
+[9550]
+<tibetan>ཤེལ་གྱི་སྣང་བ་སྣ་ཚོགས་མཚོན་པས།
+<literal>crystal-of appearance various show-by-means-of/
+
+[9551]
+<tibetan>སྣང་ལུགས་ངོ་ཤེས།
+<literal>appear manner recognize/
+
+[9552]
+<tibetan>།ཤེལ་རང་གི་ངོ་བོ་མཚོན་པས་གནས་ལུགས་ཉག་གཅིག་ཏུ་ངོ་ཤེས།
+<literal>/crystal self-of nature show-by-means-of abiding nature single recognize/
+
+[9553]
+<tibetan>ཤེལ་འོད་རང་བཅས་པས་རིག་པའི་ཡེ་ཤེས་སུ་ངོ་ཤེས་ཏེ
+<literal>crystal light self-possess-by-means-of rigpa primordial-wisdom-as recognize/
+
+[9554]
+<tibetan>དེ་དག་ཀྱང་མཚོན་དཔེ་ངེས་པའི་ཕྱོགས་བསྡུ་ན།
+<literal>that plural also show example definite aspect summarize/
+
+[9555]
+<tibetan>སྒྲོན་མ་རྣམ་པར་བཀོད་པའི་རྒྱུད་ལས།
+<literal>lamp plural arrange-of tantra from/
+
+[9556]
+<tibetan>དགོངས་པ་བརྡ་དང་སྙན་བརྒྱུད་ནས།
+<literal>intention sign and ear-continuum from/
+
+[9557]
+<tibetan>།གསང་སྔགས་དོན་གྱི་ཚད་མ་འབྱུང༌།
+<literal>/secret mantra meaning-of valid-cognition arise/
+
+[9558]
+<tibetan>།དཔེ་ལ་བརྟེན་ནས་དོན་ངོ་ཤེས།
+<literal>/example rely-from meaning recognize/
+
+[9559]
+<tibetan>།རྟགས་ལ་བརྟེན་ནས་ཡིད་ཆེས་འགྱུར།
+<literal>/sign rely-from confidence become/
+
+[9560]
+<tibetan>།དོན་གྱི་སྙིང་པོ་ཐག་ཆོད་པས།
+<literal>/meaning essence decide-by-means-of/
+
+[9561]
+<tibetan>།གཞི་ལ་གྲུབ་པའི་ཤེས་རབ་གསུམ།
+<literal>/ground establish primordial-wisdom three/
+
+[9562]
+<tibetan>།ས་བོན་ཚུལ་དུ་གནས་པ་དེ།
+<literal>/seed manner abide that/
+
+[9563]
+<tibetan>།རྐྱེན་ལས་བྱུང་བའི་ཤེས་རབ་ཀྱིས།
+<literal>/condition from arise primordial-wisdom-by-means-of/
+
+[9564]
+<tibetan>།འབྲུ་ཡི་ཚུལ་དུ་སྨིན་པ་ཡིས།
+<literal>/fruit manner ripen that/
+
+[9565]
+<tibetan>།མ་རིག་པ་ཡི་མུན་པ་སངས།
+<literal>/non-recognition-of darkness clear/
+
+[9566]
+<tibetan>།ཤེས་བྱའི་སྒྲིབ་པ་རང་དག་པས།
+<literal>/know object obstacle self pure/
+
+[9567]
+<tibetan>།མ་བཙལ་འབྲས་བུ་རང་གིས་མཐོང༌།
+<literal>/non-seek fruit self see/
+
+[9568]
+<tibetan>།ཞེས་གསུངས་པའི་དོན་རིམ་པ་ཇི་ལྟ་བ་བཞིན་དུ་ངོ་སྤྲད་པར་བྱ་སྟེ།
+<literal>/say meaning sequence like introduction do/
+
+[9569]
+<tibetan>དེ་ལ་ཐོག་མའི་སྤྱི་གཞི་རང་བྱུང་ངོ་བོ་ཉིད་ཀྱི་སྐུ།
+<literal>that-to first general ground self-arise nature body/
+
+[9570]
+<tibetan>ངོ་སྤྲད་པར་བྱའོ།
+<literal>introduction do/
+
+[9571]
+<tibetan>།དེ་ལ་ངོ་བོ་རང་བཞིན་ཐུགས་རྗེ་གསུམ་དུ་བཞུགས་ཏེ
+<literal>/that-to nature nature compassion three reside/
+
+[9572]
+<tibetan>སྟོང་པ་རིག་པའི་སྙིང་པོ་ཅན་ཐིག་ལེ་ཉག་གཅིག་དེ།
+<literal>emptiness rigpa essence possess bindu single that/
+
+[9573]
+<tibetan>མེ་ལོང་དངས་པ་གཅིག་སློབ་དཔོན་གྱིས་བཟུང་ལ།
+<literal>mirror clear one teacher-by-means-of hold/
+
+[9574]
+<tibetan>སློབ་མ་ལ་བསྟན་ཏེ།
+<literal>student-to show/
+
+[9575]
+<tibetan>འདི་སྐད་བརྗོད་དོ།
+<literal>this word speak/
+
+[9576]
+<tibetan>།ཀུན་ཏུ་བཟང་པོའི་སྣང་གསལ་མེ་ལོང་འདི།
+<literal>/samantabhadra appearance mirror this/
+
+[9577]
+<tibetan>།ཕྱོགས་མཐུན་དཔེ་ཡིས་རང་བཞིན་རྟོགས་པར་བྱེད།
+<literal>/direction agree example nature recognize do/
+
+[9578]
+<tibetan>།རྟོགས་པའི་དོན་དེ་སྣང་གསལ་ངོ་སྤྲོད་ཡིན།
+<literal>/recognize meaning that appearance introduction is/
+
+[9579]
+<tibetan>།དང་པོ་ཀུན་བཟང་གནས་ལུགས་ངོ་སྤྲོད་ཡིན།
+<literal>/first samantabhadra abiding nature introduction is/
+
+[9580]
+<tibetan>།རིག་པ་ཟང་ཐལ་གནས་པས་མེན་ཤེལ་འདྲ།
+<literal>/rigpa direct-penetration abide-by-means-of crystal like/
+
+[9581]
+<tibetan>།རིག་པ་རྟོག་མེད་གསལ་བས་མེན་ཤེལ་འདྲ།
+<literal>/rigpa thought non-existent clear crystal like/
+
+[9582]
+<tibetan>།རིག་པ་ལྷུན་གྲུབ་གནས་པས་མེན་ཤེལ་འདྲ།
+<literal>/rigpa spontaneously-accomplished abide crystal like/
+
+[9583]
+<tibetan>།རིག་པ་མ་འགགས་ཕྱོགས་མེད་མེན་ཤེལ་འདྲ།
+<literal>/rigpa non-cease direction non-existent crystal like/
+
+[9584]
+<tibetan>།ཞེས་གསུངས་པས།
+<literal>/say/
+
+[9585]
+<tibetan>འོད་ལྔ་ཕྱིར་མིག་གསལ་ཀྱང༌།
+<literal>Light five outer eye clear also
+
+[9586]
+<tibetan>ནང་ནས་གསལ་བའི་རང་བཞིན་ཅན་གྱི།
+<literal>Within-from clear-of nature possess-of
+
+[9587]
+<tibetan>རང་བཞིན་ནི།
+<literal>Nature indeed
+
+[9588]
+<tibetan>འོད་དཀར་པོའང་ཁོ་རང་དང་དབྱེར་མེད་དུ་གནས་པས་ཐུགས་རྗེ་མཚོན།
+<literal>Light white also that and not-separate abide having compassion demonstrate
+
+[9589]
+<tibetan>ཤེལ་ངོ་བོས་ཀ་དག་དང་གསུམ་དུ་མཚོན་ཀྱང༌།
+<literal>Crystal essence-by primordially-pure-and three-as demonstrate also
+
+[9590]
+<tibetan>དབྱེར་མེད་པས་ཐིག་ལེ་ཉག་གཅིག་གི་དོན་དཔེ་དེས་ཇི་ལྟར་གནས་པ་ཁོང་དུ་ཆུད་པར་བྱའོ།
+<literal>Not-separate having bindu single-of meaning example that how abide within understand should
+
+[9591]
+<tibetan>།དེ་ནས་འཁྲུལ་གཞི་མཚོན་པ་ནི།
+<literal>Then delusion-base demonstrate indeed
+
+[9592]
+<tibetan>ཤེལ་ཉི་ཟེར་ལ་ཕྱར་ལ།
+<literal>Crystal sun-ray-to extend having
+
+[9593]
+<tibetan>ནང་འོད་གཉིས་ཕྱིར་བསྟན་པས།
+<literal>Within light two outer demonstrate having
+
+[9594]
+<tibetan>གཞི་ལས་གཞི་སྣང་ཤར་བའི་དུས་ཀྱི་རྒྱུ་བདག་ཉིད་གཅིག་པའི་མ་རིག་པ་རྒྱུའི་རྐྱེན།
+<literal>Base-from base-appear arise-of time-of cause self-nature one-of ignorance cause-of condition
+
+[9595]
+<tibetan>ཁ་དོག་ལྔ་ལྡན་ཡུལ།
+<literal>Color five possess field
+
+[9596]
+<tibetan>དཀར་པོ་ཕྲ་བོ་དེ་ཀུན་ཏུ་ཚོལ་བའི་ཡིད་མཚོན་པ།
+<literal>White subtle that all-to search-of mind demonstrate
+
+[9597]
+<tibetan>ཐོག་མའི་འགྱུ་བ་དེ་འོད་དང་ལྷན་ཅིག་ཤར་བས།
+<literal>Beginning-of move that light-and together arise having
+
+[9598]
+<tibetan>ལྷན་ཅིག་སྐྱེས་པའི་མ་རིག་པ་ཤེས་བྱའི་སྒྲིབ་པར་ཤར་རོ།
+<literal>Together arise-of ignorance knowable-of obscuration-as arise
+
+[9599]
+<tibetan>།ཀུན་ཏུ་བཟང་པོ་གཞི་ནས་འཕགས་པའི་ཤེས་རབ་ཀྱི་དབང་པོས་སྐད་ཅིག་གཅིག་གིས་བྱེ་བྲག་ཕྱེད།
+<literal>All-Good base-from transcend-of wisdom-of sense-power-by moment one-by distinction separate
+
+[9600]
+<tibetan>སྐད་ཅིག་གཅིག་གིས་རྫོགས་སངས་རྒྱས་ནས།
+<literal>Moment one-by complete Buddha having
+
+[9601]
+<tibetan>སངས་རྒྱས་ཀུན་གྱི་སྤྱི་མེད་ཡང་མེས་ཆེན་པོར་སྔར་སངས་རྒྱས་པ་ཡིན་ནོ།
+<literal>Buddha all-of common without great-grandfather-as before Buddha indeed
+
+[9602]
+<tibetan>།གྲོལ་ཚུལ་འདིས།
+<literal>Liberate manner this-by
+
+[9603]
+<tibetan>དང་པོའི་སངས་རྒྱས་ཀྱི་བྱུང་ཚུལ་དང་འཆར་ཚུལ་ཀུན་ཤེས་པར་བྱའོ།
+<literal>First-of Buddha-of arise manner-and arise manner all know should
+
+[9604]
+<tibetan>།དང་པོའི་སངས་རྒྱས་རྒྱུ་མེད་པ།
+<literal>First-of Buddha cause without
+
+[9605]
+<tibetan>།སངས་རྒྱས་ཐོག་མ་ཐ་མ་མེད།
+<literal>Buddha beginning end without
+
+[9606]
+<tibetan>།ཡེ་ཤེས་མིག་གཅིག་དྲི་མ་མེད།
+<literal>Wisdom eye one stain without
+
+[9607]
+<tibetan>།ཅེས་འཇམ་དཔལ་ལས་གསུངས་པས་ཏེ།
+<literal>Thus Manjushri-from speak having
+
+[9608]
+<tibetan>ཀུན་ཏུ་བཟང་པོའི་གྲོལ་གཞི་བསྟན་པའོ།
+<literal>All-Good-of liberate base demonstrate indeed
+
+[9609]
+<tibetan>།དེའང་གཞི་ལས་གཞི་སྣང་དུ་ཤར་བ་ངོ་ཤེས་ཏེ་གྲོལ་ནས་འཁོར་བར་འཁྲུལ་མ་མང་བའི་སངས་རྒྱས་ད་ལྟའང་དབྱིངས་ནས་འཆར་བ་དཔག་ཏུ་མེད་པ་ཡོད་པར་གསུངས་སོ།
+<literal>Also base-from base-appear-as arise essence know having liberate having samsara-in delude not many-of Buddha now-also space-from arise measure without exist speak
+
+[9610]
+<tibetan>།གཞི་སྣང་དེ་སེམས་ཅན་རྣམས་ཀྱིས་རང་སྣང་དུ་མ་ཤེས་ཏེ།
+<literal>Base-appear that sentient-being all-by self-appear-as not know having
+
+[9611]
+<tibetan>ཀུན་ཏུ་བརྟགས་པའི་མ་རིག་ཉོན་མོངས་སྒྲིབ་པར་ཤར།
+<literal>All imagine-of ignorance affliction obscuration-as arise
+
+[9612]
+<tibetan>ཅེས་པས།
+<literal>Thus having
+
+[9613]
+<tibetan>རིག་པ་ལྡང་ཉལ་གྱིས་བག་ཆགས་ཀྱིས་འཁྲུལ་པ་སྣ་ཚོགས་སུ་ཤར་རོ།
+<literal>Awareness rise sleep-by habit-continuum-by delusion various-as arise
+
+[9614]
+<tibetan>།དེ་ཡང་ཤེལ་རས་ཁ་དོག་སྣ་ཚོགས་ཀྱི་སྟེང་དུ་རེ་མོས་ཀྱིས་བཞག་པའམ།
+<literal>That-also crystal cloth color various-of top-to hope-by place or
+
+[9615]
+<tibetan>འོད་དཀར་པོ་དེ་ཁ་དོག་དཀར་པོ་ལ་སོགས་པ་རེ་རེ་བཞིན་བཞག་པ་དང་མཚུངས་སོ།
+<literal>Light white that color white-to etc. each-each place having equal
+
+[9616]
+<tibetan>།དེར་རིག་པའི་ཡེ་ཤེས་རྟོག་ཚོགས་ཀྱི་དྲ་བ་དང༌།
+<literal>There awareness-of wisdom concept collection-of net-and
+
+[9617]
+<tibetan>ལུས་ཀྱི་སྦུབས་སུ་ཚུད་པས།
+<literal>Body-of interior-in enter having
+
+[9618]
+<tibetan>བཞི་འཛིན་པའི་རིག་པ་སྙིང་ག་ན་གནས་ཚུལ་དང༌།
+<literal>Four hold-of awareness heart center-in abide manner-and
+
+[9619]
+<tibetan>སེམས་ཅན་ཐམས་ཅད་ལ་ཁྱབ་ཚུལ་ངོ་སྤྲད་དོ།
+<literal>Sentient-being all-to pervade manner introduction give
+
+[9620]
+<tibetan>།དེ་ཡང་རང་བཞིན་འཁྲུལ་ཚུལ་ངོ་སྤྲོད་ཡིན་ནོ།
+<literal>That-also nature delude manner introduction indeed
+
+[9621]
+<tibetan>།འཁྲུལ་པ་རྐྱེན་ལས་བྱུང་བ་མེན་ཤེལ་འོད་དང་འདྲ།
+<literal>Delusion condition-from arise crystal light-like
+
+[9622]
+<tibetan>།དངོས་པོ་སྣ་ཚོགས་སྣང་བ་མེན་ཤེལ་འོད་དང་འདྲ།
+<literal>Thing various appear crystal light-like
+
+[9623]
+<tibetan>།སྣང་ཡང་ངོ་བོ་འགྱུར་མེན་ཤེལ་དང་འདྲ།
+<literal>Appear also essence change crystal-like
+
+[9624]
+<tibetan>།ཟད་མེད་འཕེལ་བ་མེད་པས་མེན་ཤེལ་འོད་དང་འདྲ།
+<literal>Exhaust without increase without crystal light-like
+
+[9625]
+<tibetan>།ཞེས་གསུངས་པ་རྣམས་གོ་བར་བྱས་ལ་བརྡ་དོན་ལེགས་པར་སྤྲད་དོ།
+<literal>Thus speak all understand having sign meaning well apply
+
+[9626]
+<tibetan>།འཁྲུལ་པའི་སེམས་ཅན་གྲོལ་ཚུལ་བརྡ་དོན་ནི།
+<literal>Delusion-of sentient-being liberate manner sign meaning indeed
+
+[9627]
+<tibetan>སྒྲོན་མ་འབར་བ་ལས།
+<literal>Lamp Blaze from
+
+[9628]
+<tibetan>གཞི་ཉིད་འབྲས་བུ་སྨིན་བྱེད་ཤེས་རབ་སྟེ།
+<literal>Base itself fruit ripen make wisdom indeed
+
+[9629]
+<tibetan>།ཤེས་རབ་སྐུ་རུ་སྨིན་པ་ཡིས།
+<literal>Wisdom body-as ripen having-by
+
+[9630]
+<tibetan>།ངོ་བོ་ཉིད་ཀྱི་ཆོས་སྐུ་དེ།
+<literal>Essence itself-of Dharma-body that
+
+[9631]
+<tibetan>།ཡེ་ཤེས་ཆོས་ཀྱི་སྐུ་རུ་སྨིན།
+<literal>Wisdom Dharma-of body-as ripen
+
+[9632]
+<tibetan>།ཅེས་གསུངས་པ་ལས།
+<literal>Thus speak having
+
+[9633]
+<tibetan>སྙིང་ག་ནས་ཡེ་ཤེས་སུམ་བརྩེགས་གློ་བའི་རླུང་དང་ཡེ་ཤེས་ཀྱི་གདངས་གཉིས་ཕྲད་པས།
+<literal>Heart center-from wisdom three-stack lung wind-and wisdom-of tone two meet having
+
+[9634]
+<tibetan>རྩལ་སེམས་སུ་བྱུང་བས།
+<literal>Power mind-as become having
+
+[9635]
+<tibetan>རྩལ་གཞིའི་ངང་དུ་ཐིམ་ཞིང་མི་གཡོ་བར་གནས་པའི་དཔེ།
+<literal>Power base-of manner-in dissolve-and not-move abide-of example
+
+[9636]
+<tibetan>ནང་འོད་ཕྱིར་འཕྲོས་པས་དཀར་པོ་སེམས་ཀྱི་དཔེ།
+<literal>Within light outer emanate having white mind-of example
+
+[9637]
+<tibetan>དྲུག་པ་ཡིད་ཅེས་བྱ།
+<literal>Six mind called
+
+[9638]
+<tibetan>འོད་ལྔ་ཡེ་ཤེས་ཀྱི་དཔེ།
+<literal>Light five wisdom-of example
+
+[9639]
+<tibetan>གཞི་འཛིན་པའི་རིག་པའོ།
+<literal>Base hold-of awareness indeed
+
+[9640]
+<tibetan>།སེམས་དང་ཡེ་ཤེས་གཉིས་དཔེའི་ངོ་སྤྲོད་དེ་འཐད་དོ།
+<literal>Mind-and wisdom two example-of introduction that suitable indeed
+
+[9641]
+<tibetan>།བར་དོའི་ངོ་སྤྲོད་སྒྲ་འོད་ཟེར་གསུམ་དང༌།
+<literal>Intermediate-of introduction sound light ray three-and
+
+[9642]
+<tibetan>རྡོ་རྗེ་སེམས་དཔའི་ཁོང་གསེང་རྩ་ལམ་ངོ་སྤྲོད་ལ་སོགས་པ་ཅི་རིགས་པ་རྣམས་མེན་ཤེལ་ལ་ངེས་ཤེས་བསྐྱེད་ལ།
+<literal>Vajra-Mind heart-interval nadi path introduction etc. appropriate all crystal-to certain know produce having
+
+[9643]
+<tibetan>རྣལ་འབྱོར་ངོ་དང་ཤེས་པ་སྤྲད་ནས་ཡིད་ཆེས་པར་བྱས་ཏེ་ཉམས་ལེན་ལ་བརྩོན་པར་བྱའོ།
+<literal>Yogin essence-and know apply having confidence make having experience take diligent should
+
+[9644]
+<tibetan>།འབྲས་བུར་གྲོལ་ཚུལ་ནི།
+<literal>Fruit-as liberate manner indeed
+
+[9645]
+<tibetan>གོང་དུ་ནང་གསལ་ཀ་དག་གི་གྲོལ་གཞི་རང་བྱུང་ངོ་བོ་ཉིད་སྐུར་གསལ་ཡང༌།
+<literal>Above interior-clear primordially-pure-of liberate base self-arise essence itself body-as clear also
+
+[9646]
+<tibetan>ཕྱིར་གསལ་ཅེས་པས།
+<literal>Outer-clear called
+
+[9647]
+<tibetan>འོད་ལྔ་དང་དཀར་པོ་གཉིས་འདྲེས་པ་ལ་ངོ་སྤྲད་དེ།
+<literal>Light five-and white two mixed-as introduction give
+
+[9648]
+<tibetan>འདི་ཤེས་རབ་ཡོད་ན་གནད་ཆེ་བར་ཡོད་པས།
+<literal>This wisdom exist essential-point great exist having
+
+[9649]
+<tibetan>ལམ་གྱི་ཡེ་ཤེས་སམ།
+<literal>Path-of wisdom or
+
+[9650]
+<tibetan>ཡེ་ཤེས་མེད་པར་འདོད་པ་དབུ་མ་རབ་ཏུ་མི་གནས་པའམ།
+<literal>Wisdom without desire middle extremely not-abide or
+
+[9651]
+<tibetan>རང་རེ་རྫོགས་ཆེན་པོ་ཀ་དག་ལ་ཡེ་ཤེས་མེད་པར་འདོད་པ་ཡོད་པས།
+<literal>Self great-perfect primordially-pure-to wisdom without desire exist having
+
+[9652]
+<tibetan>འཁྲུལ་པ་རྩ་ནས་དག་ཀྱང༌།
+<literal>Delusion root-from pure also
+
+[9653]
+<tibetan>སྐུ་གཉིས་མི་འགག་པར་འཆར་བ་ལ།
+<literal>Body two not-cease-as arise
+
+[9654]
+<tibetan>ཡེ་ཤེས་དབྱིངས་ལ་ཡོད་དགོས་པས།
+<literal>Wisdom space-to exist need having
+
+[9655]
+<tibetan>འོད་ལྔ་དཀར་པོ་དང་འདྲེས་པ་དེ་མེ་ལོང་ཡེ་ཤེས།
+<literal>Light five white-and mixed that mirror wisdom
+
+[9656]
+<tibetan>ཡང་དཀར་པོ་ལོགས་སུ་འཆར་བ་ལོངས་སྐུ་ལས་སྤྲུལ་སྐུ་འཕྲོ་བའི་དཔེ།
+<literal>Also white separate-as arise enjoyment-body-from emanation-body emanate-of example
+
+[9657]
+<tibetan>དེ་དག་ནི་དག་པ་གཉིས་ལྡན་དུ་རྣམ་པ་ཐམས་ཅད་མཁྱེན་པར་སངས་རྒྱས་པའི་ངོ་སྤྲོད་དོ།
+<literal>That all pure two possess-as aspect all know-as Buddha-hood-of introduction
+
+[9658]
+<tibetan>།བླ་དག་སུ་སངས་རྒྱས་མྱ་ངན་ལས་འདས་ཞེས་པ་ནི།
+<literal>Superior who Buddha nirvana-from pass called
+
+[9659]
+<tibetan>སྤྲུལ་སྐུ་དང་ལོངས་སྐུ་ཆོས་སྐུར་ཐིམ་པ་ནི།
+<literal>Emanation-body-and enjoyment-body Dharma-body-to dissolve
+
+[9660]
+<tibetan>ཤེལ་ཉི་མའི་རྐྱེན་དང་བྲལ་བས།
+<literal>Crystal sun-of condition-from free having
+
+[9661]
+<tibetan>ཐོག་མའི་གཞི་ཀ་དག་ལ་བཙན་ས་ཟིན་ནས་མི་འཁྲུལ་པར་གནས་པ་ནི།
+<literal>Beginning-of base primordially-pure-to stable ground seize having not-delude abide
+
+[9662]
+<tibetan>ངོ་བོ་ལ་དབྱེར་མེད་དེ་ཀ་ལྟར་གྲོལ་བ་ཡིན་ཀྱང༌།
+<literal>Essence-to not-separate that like liberate also
+
+[9663]
+<tibetan>རིག་མ་རིག་གི་ཁྱད་ཀྱིས།
+<literal>Aware not-aware-of distinction-by
+
+[9664]
+<tibetan>ཐམས་ཅད་ཡེ་ཤེས་ཀྱི་སྐུ་ཁོ་ནར་འདུག་པ་ཐམས་ཅད་མཁྱེན་པ་ཞེས་བྱའོ།
+<literal>All wisdom-of body only-in abide all know called
+
+[9665]
+<tibetan>།གཙོ་ཆེར་ཡེ་ཤེས་གཉིས་ལྡན་ཡིན་ནོ།
+<literal>Main wisdom two possess indeed
+
+[9666]
+<tibetan>།ནང་གསལ་དུ་ཡོད་པས་ཟད་སར་སྐྱོལ་བའི་ངོ་བོ་དེ་ཐོག་མིའི་སྤྱི་གཞིར་རང་བྱུང་ངོ་བོ་ཉིད་སྐུ་དང་དབྱེར་མེད་དོ།
+<literal>Interior-clear-in exist having cease ground-to deliver-of essence that first human-of common-base self-arise essence itself body-and not-separate
+
+[9667]
+<tibetan>།འོན་ཀྱང་ཉི་མ་སྤྲིན་གྱིས་བསྒྲིབས་པ་དང༌།
+<literal>However sun cloud-by obscured-and
+
+[9668]
+<tibetan>གྲོལ་བ་ལྟར་རང་ངོ་ཤེས་ཤིང་སྒྲིབ་པ་ཐམས་ཅད་ལས་གྲོལ་བས་རྟོགས་པ་མངོན་དུ་གྱུར་པའི་ཆ་ནས།
+<literal>Liberate like self essence know having obscuration all-from liberate having realize manifest become-of portion-from
+
+[9669]
+<tibetan>ཐོག་མའི་གཞི་དང༌།
+<literal>Beginning-of base-and
+
+[9670]
+<tibetan>ཐ་མའི་གྲོལ་ས་གཉིས་ཁྱད་པར་ཤིན་ཏུ་ཆེ་བར་ཤེས་རབ་ཅན་རྣམས་ཀྱིས་རྟོགས་པར་བྱ་སྟེ།
+<literal>End-of liberate ground two distinction very great
+
+[9671]
+<tibetan>གནད་གལ་པོ་ཆེའོ།
+<literal>Essential-point great indeed
+
+[9672]
+<tibetan>།ཡེ་ཤེས་དབྱིངས་སུ་འཁྱིལ་བ་མེན་ཤེལ་འོད་དང་འདྲ།
+<literal>Wisdom space-in swirl crystal light-like
+
+[9673]
+<tibetan>།ཆོས་སྐུ་གསལ་དག་ཤར་བ་མེན་ཤེལ་ཉིད་དང་འདྲ།
+<literal>Dharma-body clear pure arise crystal itself-like
+
+[9674]
+<tibetan>།ཞེས་སོ།
+<literal>Thus
+
+[9675]
+<tibetan>།རང་ངོ་ཤེས་པའི་ཆོས་སྐུ་དེ་རང་མལ་དུ་རང་ཉིད་གནས་པ་ཡིན་པས།
+<literal>Self essence know-of Dharma-body that self bed-in self itself abide indeed
+
+[9676]
+<tibetan>ད་ལྟ་ཡང་མ་འཁྲུལ་པའི་ཆོས་སྐུ་བཙན་ས་འཛིན་པར་འདོད་ན།
+<literal>Now also not-delude-of Dharma-body stable ground hold desire
+
+[9677]
+<tibetan>རང་གསལ་རྗེན་པ་ཟང་ཐལ་ཆེན་པོའི་ངང་ལ་སལ་ལེ་ཧྲིག་གེ་མ་ཡེངས་པར་སྐྱོང་བ་ཉིད་གནད་དུ་ཆེ་སྟེ།
+<literal>Self-clear naked open great-of manner-in clear — snap not-distracted keep itself essential-point great
+
+[9678]
+<tibetan>འགྲོ་བའི་མགོན་པོ་དཔལ་ལྡན་བླ་མ་དམ་པའི་ཞལ་ནས།
+<literal>Being-of protector glorious guru holy-of mouth-from
+
+[9679]
+<tibetan>རང་ངོ་ཤེས་པའི་ཆོས་སྐུ་རང་མལ་ཉིད་ཡིན་པས།
+<literal>Self essence know-of Dharma-body self bed itself indeed
+
+[9680]
+<tibetan>།མ་འཁྲུལ་བཙན་ས་འཛིན་པར་འདོད་པ་སུ་ཡོད་ཀུན།
+<literal>Not-delude stable ground hold desire who exist all
+
+[9681]
+<tibetan>།མ་ནོར་མ་འཁྲུལ་མི་ཡེངས་བྱེད་པ་གནད་ཡིན་པས།
+<literal>Not-wrong not-delude not-distracted do essential-point indeed
+
+[9682]
+<tibetan>།དགོངས་པ་རྒྱ་མཚོ་ལྟ་བུར་ཤེས་རབ་ཅན་གྱིས་ཤེས་པར་མཛོད།
+<literal>Intention ocean like wisdom-possessing-by know make
+
+[9683]
+<tibetan>།ཅེས་ལེགས་པར་གསུངས་པ་ཡིན་ནོ།
+<literal>Thus well speak indeed
+
+[9684]
+<tibetan>།ངོ་སྤྲོད་འདི་ཀུན་གྱི་དུས་ན་སོས་གདལ་ནས་རང་གིས་ཀྱང་གསར་དུ་ཡིད་ཆེས་ཐུན་མོང་མ་ཡིན་པ་བསྐྱེད་ནས་གཞན་ལ་བསྟན་པར་བྱ་སྟེ།
+<literal>Introduction this all-of time-at relax fresh self-by-also new confidence common not produce having other-to demonstrate should
+
+[9685]
+<tibetan>ཡང་འཇིག་རྟེན་ཉི་མ་ཆོས་རྗེ་བླ་མའི་ཞལ་ནས།
+<literal>Also World Sun Dharma-Lord Guru mouth-from
+
+[9686]
+<tibetan>ངོ་སྤྲོད་རྣམས་རིམ་པས་ངོ་སྤྲད་ཅིང་ལེགས་པར་གཟབས་ལ་བྱའོ།
+<literal>Introduction all sequence-by introduction give careful should
+
+[9687]
+<tibetan>།འལ་ལེ།
+<literal>Ha-le
+
+[9688]
+<tibetan>འོལ་ལེ།
+<literal>Ho-le
+
+[9689]
+<tibetan>ཅི་ཡིན་ཆ་མེད།
+<literal>What exist portion without
+
+[9690]
+<tibetan>ངོ་སྤྲད་མིན།
+<literal>Introduction not
+
+[9691]
+<tibetan>མ་སྤྲད་མིན་མ་བྱེད།
+<literal>Not-introduced not do
+
+[9692]
+<tibetan>ཆོས་མིན་གྱི་བྱ་བ་རུས་སུ་མ་འདོན།
+<literal>Dharma-not-of action declare not
+
+[9693]
+<tibetan>འཁྲུལ་ཕྱིར་མ་འབྲེང༌།
+<literal>Delusion for not follow
+
+[9694]
+<tibetan>བླ་མ་ལ་སོགས་ཀྱི་མིང་ཐོགས་ནས་ཆོས་མིན་གྱིས་བྱ་བ་ངན་པ་རྣམས་མ་བྱེད།
+<literal>Guru etc.-of name take having Dharma-not-of action bad all not do
+
+[9695]
+<tibetan>མིང་དོན་འཛོམ་པར་བྱེད་དགོས་པ་ལགས་སོ་ཞེས་གདམས་པར་མཛད་པས།
+<literal>Name meaning together make need indeed thus instruction make having
+
+[9696]
+<tibetan>ཕྱི་རབས་ཀྱི་དུས་ནའང་ཆོས་འདི་བར་ཞུགས་པ་རྣམས་ཀྱིས་དེ་བཞིན་ཐུགས་ལ་བཞག་འཚལ་ལོ།
+<literal>Future time-at-also Dharma this entered all-by like-that mind-in place respectful
+
+[9697]
+<tibetan>དོན་གཉིས་པ་དེའི་བྱེ་བྲག་ངེས་པས་སེམས་ཅན་དང་ཡེ་ཤེས་ཀྱི་མཚན་དཔེ་རྒྱས་པར་བསྟན་པ་ལ་གཉིས་ཏེ།
+<literal>Meaning two that distinction determine having sentient-being-and wisdom-of indicate example extensive demonstrate-in two indeed
+
+[9698]
+<tibetan>རྩ་བ་རིག་པ་ལས་འཁྲུལ་པས་ལྡོག་ཚུལ་སེམས་ཀྱི་ངོ་སྤྲོད་དང༌།
+<literal>Root awareness-from delusion-by reverse manner mind-of introduction-and
+
+[9699]
+<tibetan>རིག་པ་རང་སྣང་དང་བཅས་པ་རང་སྣང་ཡེ་ཤེས་ཀྱི་ངོ་སྤྲོད་དོ།
+<literal>Awareness self-appear-with together self-appear wisdom-of introduction
+
+[9700]
+<tibetan>།དང་པོ་ནི།
+<literal>First indeed
+
+[9701]
+<tibetan>ངོ་སྤྲོད་སྤྲས་པ་ལས།
+<literal>Introduction ornament-from
+
+[9702]
+<tibetan>ཨེ་མ་ཧོ།
+<literal>E-ma-ho
+
+[9703]
+<tibetan>སྣང་བ་སེམས་སུ་ངོ་སྤྲད་པས་སེམས་ལ་བྱོན་ཚུལ།
+<literal>Appear mind-as introduction give mind-to come manner
+
+[9704]
+<tibetan>སེམས་ཉིད་སྟོང་པར་ངོ་སྤྲད་པས་སྟོང་པ་བདེ་བར་རྒྱས་ཐེབས།
+<literal>Mind itself empty-as introduction give empty bliss-as expand reach
+
+[9705]
+<tibetan>སྟོང་པ་རིག་པར་ངོ་སྤྲད་པས།
+<literal>Empty awareness-as introduction give
+
+[9706]
+<tibetan>རིག་པ་ཉིད་དབྱིངས་དང་ཡེ་ཤེས་གཉིས་སུ་མེད་པའོ་ཞེས་གསུངས་པས།
+<literal>Awareness itself space-and wisdom two-from without thus speak having
+
+[9707]
+<tibetan>འདི་ལ་གསུམ་སྟེ།
+<literal>This-in three indeed
+
+[9708]
+<tibetan>ཕྱི་ཡུལ་གྱི་གནད་ཀྱིས་ནང་སེམས་གཏན་ལ་དབབ་པ།
+<literal>Outer field-of essential-point-by inner mind establish-and
+
+[9709]
+<tibetan>ནང་སེམས་ཀྱི་གནད་ཀྱིས་གསང་བ་དབྱིངས་གཏན་ལ་དབབ་པ།
+<literal>Inner mind-of essential-point-by secret space establish-and
+
+[9710]
+<tibetan>གསང་བ་དབྱིངས་ཀྱི་གནད་ཀྱིས་བླ་ན་མེད་པ་རིག་པ་ཉིད་གཏན་ལ་དབབ་པའོ།
+<literal>Secret space-of essential-point-by supreme awareness itself establish
+
+[9711]
+<tibetan>།དང་པོ་ལ་སྣང་ཡུལ་གཞི་མེད་འཁྲུལ་པར་བསྟན་པ་དང་
+<literal>First-in appear field base without delude demonstrate-and
+
+[9712]
+<tibetan>སྣང་འཛིན་རང་སེམས་སྟོང་པར་བསྟན་པ་གཉིས་ལས།
+<literal>Appear hold self mind empty demonstrate two-from
+
+[9713]
+<tibetan>དང་པོ་ནི་ཕྱི་སྣང་བ་སྣ་ཚོགས་དཀར་དམར་གྱི་སྣང་བ་སྣོད་བཅུད་འབྱུང་བ་ལྔས་བསྡུས་ཀྱི་ཀློང་ན་གསལ་བ་འདི་དག
+<literal>First indeed outer appear various white-red-of appear container-contents element five-by gathered-of expanse-in clear this all
+<liturgical><ornament>First: These various outer white-red appearances, clear in expanse gathered by five elements of container-contents,
+
+[9714]
+<tibetan>རང་སེམས་འཁྲུལ་པའི་ངོ་ལ་སྣང་བ་མ་གཏོགས་པ་ཕྱི་དོན་གྱི་དངོས་པོ་དང༌།
+<literal>Self mind delusion-of face-to appear not-except outer meaning-of thing-and
+<liturgical><break><prose> Except appearing on face of self-mind's delusion, outer meaning thing,
+
+[9715]
+<tibetan>ནང་སེམས་ཀྱི་དངོས་པོ་གཉིས་ཀར་མ་གྲུབ་པས།
+<literal>Inner mind-of thing two both not establish having
+<liturgical><prose>And inner mind's thing, both not established,
+
+[9716]
+<tibetan>གཞི་མེད་སྟོང་པའི་ཆོ་འཕྲུལ་མེད་པ་གསལ་སྣང་གི་རང་བཞིན་རབ་རིབ་ཅན་གྱི་སྐྲ་ཤད་དང་རྨི་ལམ་སྒྱུ་མའི་སྣང་བ་དང་འདྲ་བར་ཤེས་པར་བྱ་སྟེ།
+<literal>Base without empty-of miracle without clear-appear-of nature eye-defect-of hair-shadow-and dream illusion-of appear like understand should
+<liturgical><prose>Should understand as like deluded hair-shadow and dream illusion appearance, nature of clear-appear without base-without empty miracle.
+
+[9717]
+<tibetan>ཀློང་དྲུག་པ་ལས།
+<literal>Six-Expanse from
+<liturgical><tantra>From Six Expanses:
+
+[9718]
+<tibetan>སྣང་བ་ཐམས་ཅད་སྒྱུ་མའམ།
+<literal>Appear all illusion-or
+<liturgical><prose>All appearance is illusion,
+
+[9719]
+<tibetan>།རྨི་ལམ་དང་ནི་གཟུགས་བརྙན་བཞིན།
+<literal>Dream-and image like
+<liturgical><prose>Like dream and reflection.
+
+[9720]
+<tibetan>ཅེས་པ་དང༌།
+<literal>Thus and
+<liturgical><prose>Thus it is spoken.
+
+[9721]
+<tibetan>རྩ་བ་ཤེས་རབ་ལས།
+<literal>Root Wisdom from
+<liturgical><tantra>From Root Wisdom:
+
+[9722]
+<tibetan>རྨི་ལམ་ཇི་བཞིན་སྒྱུ་མ་བཞིན།
+<literal>Dream like illusion like
+<liturgical><prose>Like dream, like illusion, || 10 ||
+
+[9723]
+<tibetan>།དྲི་ཟའི་གྲོང་ཁྱེར་ཇི་བཞིན་དུ།
+<literal>Gandharva city like
+<liturgical><prose>Like gandharva city,
+
+[9724]
+<tibetan>།དེ་བཞིན་སྐྱེ་དང་དེ་བཞིན་གནས
+<literal>Like-that arise-and like-that abide
+<liturgical><break><prose> Like-that arising and like-that abiding,
+
+[9725]
+<tibetan>།དེ་བཞིན་དུ་མི་འཇིག་པའང་གསུངས།
+<literal>Like-that not-destroy also speak
+<liturgical><break><prose> Like-that also not destroyed. Thus it is spoken.
+
+[9726]
+<tibetan>།ཞེས་སོ།
+<literal>Thus
+<liturgical><prose>Appearing to mind whatever appears,
+
+[9727]
+<tibetan>གང་ལ་སྣང་ན་སེམས་ལ་སྣང་སྟེ།
+<literal>What-to appear mind-to appear
+<liturgical><prose>Like appearance to impure sense-power of eye-defect's hair-shadow.
+
+[9728]
+<tibetan>རབ་རིབ་ཀྱི་སྐྲ་ཤད་མིག་སྐྱོན་ཅན་གྱི་དབང་པོ་མ་དག་པ་ལ་སྣང་བ་བཞིན་ནོ།
+<literal>Eye-defect-of hair-shadow eye-defect-possessing-of sense-power impure-to appear like
+<liturgical><tantra>From that same source:
+
+[9729]
+<tibetan>།དེ་ཉིད་ལས།
+<literal>That-from
+<liturgical><prose>To mind itself existing as object,
+
+[9730]
+<tibetan>དམིགས་སུ་ཡོད་པའི་སེམས་ཉིད་ལ།
+<literal>Object exist-of mind itself-to
+<liturgical><prose>Various appearances self-arise.
+
+[9731]
+<tibetan>སྣང་བ་སྣ་ཚོགས་རང་ཤར་ཏེ།
+<literal>Appear various self-arise
+<liturgical><prose>Name and color individually
+
+[9732]
+<tibetan>།མིང་དང་ཁ་དོག་སོ་སོར་ནི།
+<literal>Name-and color individual indeed
+<liturgical><prose>Complete as two aspects of form. || 20 ||
+
+[9733]
+<tibetan>།གཟུགས་སུ་རྣམ་པ་གཉིས་སུ་རྫོགས།
+<literal>Form-as aspect two-as complete
+<liturgical><prose>Thus it is spoken.
+
+[9734]
+<tibetan>།ཞེས་སོ།
+<literal>Thus
+<liturgical><prose>Though appearing to mind, these outer-clear appearance manners are not self's mind,
+
+[9735]
+<tibetan>།སེམས་ལ་སྣང་ཡང་སྣང་ཚུལ་ཕྱིར་གསལ་བ་འདི་རྣམས་རང་གི་སེམས་མ་ཡིན་ཏེ།
+<literal>Mind-to appear also appear manner outer-clear this all self-of mind not
+<liturgical><prose>Existing also without self,
+
+[9736]
+<tibetan>རང་མེད་ཀྱང་ཡོད་པ་དང་
+<literal>Self without-also exist
+<liturgical><break><prose> Abiding as field,
+
+[9737]
+<tibetan>ཡུལ་དུ་གནས་པ་དང༌།
+<literal>Field-as abide
+<liturgical><break><prose> Color,
+
+[9738]
+<tibetan>ཁ་དོག་དང༌།
+<literal>Color-and
+<liturgical><prose>Because seeing as shape etc.
+
+[9739]
+<tibetan>དབྱིབས་ལ་སོགས་པར་མཐོང་བའི་ཕྱིར་རོ།
+<literal>Shape etc.-as see cause
+<liturgical><prose>Not mind because those do not exist in mind.
+
+[9740]
+<tibetan>།སེམས་ལ་དེ་དག་མེད་པས་སེམས་མ་ཡིན་ནོ།
+<literal>Mind-to that all not-exist mind not
+<liturgical><prose>Here, giving introduction like dream delusion of clear-appear, not existing: these appearances of outer appearance fields like form etc.,
+
+[9741]
+<tibetan>།འདིར་སྣང་ཡུལ་གཟུགས་སོགས་ཕྱི་ན་སྣང་བ་འདི་དག་མེད་པ་གསལ་སྣང་འཁྲུལ་པ་རྨི་ལམ་ལྟ་བུར་ངོ་སྤྲད་ལ།
+<literal>Here appear field form etc. outer-in appear this all not-exist clear-appear delusion dream like introduction give
+<liturgical><verse>"This is form,"
+
+[9742]
+<tibetan>འདི་ནི་གཟུགས་སོ།
+<literal>This form indeed
+<liturgical><prose>Thinking color etc., arising-arising, first the appearance-field of arising, holding that is called "mind of appearance," || 30 ||
+
+[9743]
+<tibetan>།ཁ་དོག་གོ་སྙམ་པ་ལ་སོགས་པ་ཤར་ཤར་དང་པོར་འཆར་བའི་སྣང་ཡུལ་འཛིན་པ་དེ་སྣང་བའི་སེམས་ཞེས་བྱ།
+<literal>Color thought etc. arise-arise first arise-of appear field hold that appear-of mind called
+<liturgical><prose>Called "mind of grasping,"
+
+[9744]
+<tibetan>གཟུང་བའི་སེམས་ཞེས་བྱ།
+<literal>Grasped-of mind called
+<liturgical><prose>Having seized essence, called "mind of field."
+
+[9745]
+<tibetan>།ཡུལ་གྱི་སེམས་ཞེས་བྱ་བར་ངོས་བཟུང་ནས།
+<literal>Field-of mind called essence seize having
+<liturgical><prose>Questioning if that mind of appearance exists: not true by holding clear-appear without field,
+
+[9746]
+<tibetan>སྣང་བའི་སེམས་དེ་ཡོད་དམ་སྙམ་ན་ཡུལ་མེད་པ་གསལ་སྣང་འཛིན་པས་ཀྱང་མི་བདེན་ལ།
+<literal>Appear-of mind that exist question field not-exist clear-appear hold-by-also not-true
+<liturgical><prose>Also not existing by color not established as essence seize,
+
+[9747]
+<tibetan>ཁ་དོག་ངོས་གཟུང་དུ་མ་གྲུབ་པས་ཀྱང་མེད་ལ།
+<literal>Color essence seize-as not establish having-also not-exist
+<liturgical><prose>Also not existing by examining in three: arise, cease, abide.
+
+[9748]
+<tibetan>སྐྱེ་འགག་གནས་གསུམ་དུ་བརྟགས་པས་ཀྱང་མེད་པའི་ཕྱིར།
+<literal>Arise cease abide three-in examine having-also not-exist cause
+<liturgical><prose>Called "giving introduction of mind itself as empty,"
+
+[9749]
+<tibetan>སེམས་ཉིད་སྟོང་པར་ངོ་སྤྲད་པ་ཞེས་བྱ་སྟེ།
+<literal>Mind itself empty-as introduction give called
+<liturgical><prose>Give introduction as wisdom Buddha without self-dissolving place.
+
+[9750]
+<tibetan>རང་ཡལ་གཏད་མེད་ཡེ་སངས་སུ་ངོ་སྤྲད་དོ།
+<literal>Self dissolve place without wisdom Buddha-as introduction give
+<liturgical><prose>Therefore ordinary Dharma and
+
+[9751]
+<tibetan>།དེས་ན་ཆོས་ཕལ་དང༌།
+<literal>That-by Dharma ordinary-and
+<liturgical><prose>Great perfect ordinary's appearance,
+
+[9752]
+<tibetan>རྫོགས་ཆེན་པ་ཕལ་གྱིས་སྣང་བ་དང༌།
+<literal>Great-perfect ordinary-by appear
+<liturgical><prose>Not separating appearance field, || 40 ||
+
+[9753]
+<tibetan>སྣང་ཡུལ་མ་ཕྱེད་པས།
+<literal>Appear field not-separate having
+<liturgical><prose>Desiring outer appearance field self-characteristic as mind
+
+[9754]
+<tibetan>ཕྱི་སྣང་ཡུལ་རང་མཚན་སེམས་སུ་འདོད་པ་ནི།
+<literal>Outer appear field self-characteristic mind-as desire indeed
+<liturgical><prose>Is mistake into odor-with various-true mind-only.
+
+[9755]
+<tibetan>སེམས་ཙམ་རྣམ་བདེན་དྲི་བཅས་སུ་གོལ་བ་ཡིན་ནོ།
+<literal>Mind-only various-true odor-with mistake indeed
+<liturgical><prose>Here, at time of giving introduction of appearance as mind, mind holding as appear-not-appear,
+
+[9756]
+<tibetan>།འདིར་སྣང་བ་སེམས་སུ་ངོ་སྤྲོད་དུས་སྣང་མི་སྣང་དུ་སེམས་ཀྱིས་འཛིན་པས།
+<literal>Here appear mind-as introduction give time appear not-appear-as mind-by hold having
+<liturgical><prose>Mind of appearance to mind first meeting field,
+
+[9757]
+<tibetan>ཡུལ་དང་པོ་མཇལ་བའི་སེམས་ལ་སྣང་བའི་སེམས་དང་
+<literal>Field first meet-of mind-to appear-of mind-and
+<liturgical><break><prose> After, examining that distinction as mental event, desiring called "mind of holding,"
+
+[9758]
+<tibetan>རྗེས་ལ་དེའི་ཁྱད་པར་སེམས་བྱུང་དུ་དཔྱོད་པ་ལ་འཛིན་པའི་སེམས་ཞེས་འདོད་པས།
+<literal>After that distinction mental-event-as examine hold-of mind called desire having
+<liturgical><break><prose> Called "saṃsāra: delusion-hold, delusion-appear, purify, abandon."
+
+[9759]
+<tibetan>སྤང་བྱ་དག་བྱ་འཁྲུལ་སྣང་འཁྲུལ་འཛིན་འཁོར་བ་ཞེས་བྱ་སྟེ།
+<literal>Abandon purify delusion-appear delusion-hold samsara called
+
+[9760]
+<tibetan>བདེན་གཉིས་སུ།
+<literal>Two-truth-in
+<liturgical><prose>In two truths,
+
+[9761]
+<tibetan>སེམས་དང་སེམས་བྱུང་ཁམས་གསུམ་པའི།
+<literal>Mind-and mental-event three-realms-of
+<liturgical><prose>Of mind and mental-event, three realms',
+
+[9762]
+<tibetan>།སྒྲོ་བཏགས་རྣམ་པ་ཅན་རྟོག་ཡིན།
+<literal>Superimpose aspect-possess concept indeed
+<liturgical><prose>Superimposing aspect is concept. || 50 ||
+
+[9763]
+<tibetan>།ཅེས་པ་དང༌།
+<literal>Thus and
+<liturgical><prose>Thus it is spoken.
+
+[9764]
+<tibetan>མཛོད་ལས།
+<literal>Treasury from
+<liturgical><tantra>From Treasury:
+
+[9765]
+<tibetan>རྟོག་དང་དཔྱོད་པ་རྩིང་ཞིབ་ཉིད།
+<literal>Concept-and examine coarse-subtle indeed
+<liturgical><verse>"Concept and examine coarse-subtle."
+
+[9766]
+<tibetan>ཅེས་སྤང་བྱར་བཤད་པ་ཀུན་གུང་མཐུན་པར་འཇུག་པས་གནད་གལ་པོ་ཆེ་འདི་བློ་མཆོག་དམ་པ་ཤེས་རབ་ཅན་རྣམས་ཀྱིས་རྟོགས་པར་བྱའོ།
+<literal>Thus abandon explain all meaning together enter having essential-point great this intelligence supreme holy wisdom-possessing all-by realize should
+<liturgical><prose>Thus explained as abandonment, entering together all meaning—this great essential point should be realized by those possessing supreme holy wisdom intelligence.
+
+[9767]
+<tibetan>།དེའང་ཕྱི་ནང་གཞི་མེད་དུ་མཇལ་བ་ལ་འདི་ལྟ་བུ་ཅིག་དགོས་སོ།
+<literal>Also outer-inner base without meet this like one need indeed
+<liturgical><prose>Also, need one like this for meeting baseless outer-inner.
+
+[9768]
+<tibetan>།གཉིས་པ་ནང་སེམས་ཀྱི་གནད་ཀྱིས་གསང་བ་དབྱིངས་གཏན་ལ་དབབ་པ་ནི།
+<literal>Second inner mind-of essential-point-by secret space establish indeed
+<liturgical><prose>Second, establishing secret space by inner mind's essential point:
+
+[9769]
+<tibetan>སེམས་ལ་བརྟགས་པས་ངོ་བོ་ངོས་གཟུང་མེད་དུས།
+<literal>Mind-to examine having essence essence seize without time
+<liturgical><prose>When not seizing essence by examining mind,
+
+[9770]
+<tibetan>བེམས་པོ་ལྟ་བུར་སོང་བ་མེད་དེ།
+<literal>Inert like become not-exist
+<liturgical><prose>Not becoming like inert,
+
+[9771]
+<tibetan>ཕྱལ་ཕྱལ་བ་ལ་ས་ལེ་བ་ངོས་གཟུང་དུ་མེད་པས་བརྗོད་མ་ཤེས་ཀྱང༌།
+<literal>Spread spread clear essence seize-as not-exist declare not know also
+<liturgical><prose>Though declaring not knowing spread-spread clear without essence seize,
+
+[9772]
+<tibetan>རང་གསལ་སྟོང་པ་རང་གདངས་ཀྱི་ངང་དབྱིངས་ཀ་དག་དྲི་མ་མེད་པར་འཆར་བ་ཆོས་ཟད་ནང་གི་ཆོས་དབྱིངས་སུ་ངོ་སྤྲད་པས།
+<literal>Self-clear empty self-tone-of manner space primordially-pure stain without arise Dharma cease inner-of Dharma-space-as introduction give
+<liturgical><prose>Give introduction as inner Dharma-space of Dharma-ceasing, arising primordially pure, stain-free space of self-clear empty self-tone manner, || 60 ||
+
+[9773]
+<tibetan>མཐའ་བྲལ་དྲི་མ་མེད་པའི་རྟོགས་པ་ཁོང་ནས་འཆར་ཏེ།
+<literal>Limit free stain without-of realization within-from arise
+<liturgical><prose>Realization of limit-free, stain-free arises from within.
+
+[9774]
+<tibetan>དེའི་ངང་ལ་གོམས་པས་འོད་གསལ་དབྱིངས་སྣང་གི་སྣང་བའང་ཞར་ལ་མཐོང་བ་ཉིད།
+<literal>That manner-in familiar luminosity space-appear-of appear also secondary see indeed
+<liturgical><prose>Seeing also secondary appearance of luminosity space-appear by familiarizing in that manner.
+
+[9775]
+<tibetan>ངོ་སྤྲོད་སྤྲོས་པ་ལས།
+<literal>Introduction ornament-from
+<liturgical><tantra>From Introduction Ornament:
+
+[9776]
+<tibetan>ཡེ་ནས་མེད་པ་སྟོང་པ་ཡིས།
+<literal>From-without not-exist empty-by
+<liturgical><prose>By empty not-existing from-beginning,
+
+[9777]
+<tibetan>།འབྱུང་བ་རང་ཟད་འོད་སྣང་ཟེར།
+<literal>Element self-cease light-appear ray
+<liturgical><prose>Element self-ceasing, light-appearance ray.
+
+[9778]
+<tibetan>།བྱ་བྱེད་བྲལ་བའི་སྟོང་པ་ཡིས།
+<literal>Action agent free-of empty-by
+<liturgical><prose>By empty free of action-agent,
+
+[9779]
+<tibetan>།སྐུ་གསུམ་མཚོན་པའི་འོད་སྣང་རྙེད།
+<literal>Body three indicate-of light-appear obtain
+<liturgical><prose>Obtain light-appearance indicating three bodies.
+
+[9780]
+<tibetan>།ཅེས་སོ།
+<literal>Thus
+<liturgical><prose>Thus it is spoken.
+
+[9781]
+<tibetan>།གསུམ་པ་གསང་བ་དབྱིངས་ཀྱི་གནད་ཀྱིས་བླ་ན་མེད་པ་རིག་པ་གཏན་ལ་དབབ་པ་ནི།
+<literal>Three secret space-of essential-point-by supreme awareness establish indeed
+<liturgical><prose>Third, establishing supreme awareness by secret space's essential point:
+
+[9782]
+<tibetan>སེམས་དབྱིངས་སུ་དག་པའི་སྟོང་པ་དེ་ཡང་སྟོང་ཆད་ཅང་མེད་པོ་མ་ཡིན་པར།
+<literal>Mind space-in pure-of empty that also empty extreme mere not-exist
+<liturgical><prose>That mind-pure empty in space is not mere empty extreme, || 70 ||
+
+[9783]
+<tibetan>ས་ལེ་བ་ལ་ཧྲིག་གེ་བ།
+<literal>Clear — snap
+<liturgical><prose>Clear — snap,
+
+[9784]
+<tibetan>རང་དངས་རང་གསལ་སོ་སོ་རང་གིས་རིག་པའི་ཡེ་ཤེས་ཆོས་སྐུ་དྲི་མ་དང་བྲལ་བར་ངོ་སྤྲད་པས།
+<literal>Self-clear self-clear individual self-by aware-of wisdom Dharma-body stain-from free introduction give
+<liturgical><prose>Give introduction to Dharma-body free from stain, wisdom of awareness by individual self-clear self-clear.
+
+[9785]
+<tibetan>རིག་པའི་ཆ་ནས་ཆད་པར་མ་སོང༌།
+<literal>Awareness portion-from extreme go not
+<liturgical><prose>Not going to extreme from awareness portion,
+
+[9786]
+<tibetan>དངོས་པོ་མེད་པས་རྟགས་པར་མ་སོང༌།
+<literal>Thing not-exist eternal go not
+<liturgical><prose>Not going to eternal by thing not-existing,
+
+[9787]
+<tibetan>གང་དུའང་བརྗོད་དུ་མེད་པས་གཉིས་ཀ་དང་གཉིས་ཀ་མ་ཡིན་པའི་མཐའ་གྲོལ་ཀློང་ཡངས་ཆེན་པོར་ཐག་ཆོད་པའི་ངང་ལ་བཞག་པས།
+<literal>Where-also declare not two both-and two both not extreme free expanse vast great-in decide manner-in place
+<liturgical><prose>Placed in decided manner in great vast limit-free expanse of not-two-both and not-two-both by nowhere declaring.
+
+[9788]
+<tibetan>རིག་པའི་རང་གདངས་ལུ་གུ་རྒྱུད་ཐིག་ལེ་དང་བཅས་པ་རང་སྣང་བ་ནི།
+<literal>Awareness self-tone nadi-thread bindu-with together self-appear indeed
+<liturgical><prose>Self-appear awareness self-tone nadi-thread with bindu.
+
+[9789]
+<tibetan>དེ་ཉིད་ལས།
+<literal>That-from
+<liturgical><tantra>From that same source:
+
+[9790]
+<tibetan>གཞི་ལ་གནས་པའི་རིག་པ་ཡིས།
+<literal>Base-in abide awareness-by
+<liturgical><prose>By awareness abiding in base,
+
+[9791]
+<tibetan>།ཆོས་ཉིད་འདུས་པའི་དབྱིངས་དང་ཕྲད།
+<literal>Dharma-nature gather-of space-and meet
+<liturgical><prose>Meet space of gathered Dharma-nature.
+
+[9792]
+<tibetan>།མཚན་ཉིད་འཛིན་པའི་རིག་པ་ཡིས།
+<literal>Characteristic hold-of awareness-by
+<liturgical><prose>By awareness holding characteristic, || 80 ||
+
+[9793]
+<tibetan>།རྣམ་པར་དག་པའི་དབྱིངས་དང་ཕྲད།
+<literal>Pure complete-of space-and meet
+<liturgical><prose>Meet pure complete space.
+
+[9794]
+<tibetan>།ལུ་གུ་རྒྱུད་ཀྱི་རིག་པ་ཡིས།
+<literal>Nadi-thread-of awareness-by
+<liturgical><prose>By nadi-thread awareness,
+
+[9795]
+<tibetan>།རང་བཞིན་འོད་ཀྱི་དབྱིངས་དང་ཕྲད།
+<literal>Nature light-of space-and meet
+<liturgical><prose>Meet light space of nature.
+
+[9796]
+<tibetan>།ཅེས་སོ།
+<literal>Thus
+<liturgical><prose>Thus it is spoken.
+
+[9797]
+<tibetan>།དེ་ལྟར་ན་ཡུལ་སྣང་གཞི་མེད་དུ་ངོ་སྤྲད་པས།
+<literal>Like-that field appear base without introduction give
+<liturgical><prose>Thus giving introduction to baseless appearance field.
+
+[9798]
+<tibetan>སྣང་ཡུལ་སྣོད་བཅུད་ཀྱི་འཁོར་བ་ལ་བཟླའོ།
+<literal>Appear field container-contents-of samsara-to transcend
+<liturgical><prose>Transcend saṃsāra of appearance field's container-contents.
+
+[9799]
+<tibetan>།སྣང་བ་སེམས་སུ་ངོ་སྤྲད་པས།
+<literal>Appear mind-as introduction give
+<liturgical><prose>Giving introduction of appearance as mind,
+
+[9800]
+<tibetan>ཤར་གྲོལ་རང་ཡལ་གྱི་དམིགས་ཤེས།
+<literal>Arise liberate self-dissolve-of object know
+<liturgical><prose>Knowing object of self-dissolving arise-liberate.
+
+[9801]
+<tibetan>སེམས་ཉིད་སྟོང་པར་ངོ་སྤྲད་པས།
+<literal>Mind itself empty-as introduction give
+<liturgical><prose>Giving introduction of mind itself as empty,
+
+[9802]
+<tibetan>གཟུང་འཛིན་འཁྲུལ་བའི་རྩ་བ་ཆོད།
+<literal>Grasp hold delusion-of root cut
+<liturgical><prose>Cut root of grasp-hold delusion. || 90 ||
+
+[9803]
+<tibetan>སྟོང་པ་དབྱིངས་རིག་ཏུ་ངོ་སྤྲད་པས།
+<literal>Empty space-awareness-as introduction give
+<liturgical><prose>Giving introduction of empty as space-awareness,
+
+[9804]
+<tibetan>ཉམས་ལེན་སྐུ་གསུམ་གཅིག་ཏུ་དྲིལ་ནས།
+<literal>Experience take body three one-as roll having
+<liturgical><prose>Rolling experience of three bodies into one,
+
+[9805]
+<tibetan>ཚེ་གཅིག་གིས་རྫོགས་པའི་སངས་རྒྱས་ཐོབ་པའི་ཕྱིར།
+<literal>Life one-by perfect-of Buddha obtain cause
+<liturgical><prose>For obtaining perfect Buddha in one life,
+
+[9806]
+<tibetan>སེམས་ལས་འཁྲུལ་པ་ལྡོག་ཚུལ་གྱི་ངོ་སྤྲད་རབ་ཏུ་གཅེས་པར་བསྟན་ཏེ།
+<literal>Mind-from delusion reverse manner-of introduction very important demonstrate
+<liturgical><prose>Demonstrating introduction of delusion reversing manner from mind as very important.
+
+[9807]
+<tibetan>དཔེའི་ངོ་སྤྲོད་ཀྱིས།
+<literal>Example-of introduction-by
+<liturgical><prose>By example introduction:
+
+[9808]
+<tibetan>རིག་པའི་ཡེ་ཤེས་རང་ལ་ཡོད་པའི་དོན།
+<literal>Awareness-of wisdom self-in exist-of meaning
+<liturgical><prose>Meaning of wisdom of awareness existing in self,
+
+[9809]
+<tibetan>བྱང་ཆུབ་སེམས་ཀྱི་སྒྲོན་མས་རྟགས་ཡིད་ཆེས་པར་བསྟན་པ་ནི།
+<literal>Awakening mind-of lamp-by sign confidence demonstrate indeed
+<liturgical><prose>Demonstrating sign confidence by awakening mind's lamp.
+
+[9810]
+<tibetan>དེ་ཉིད་ལས།
+<literal>That-from
+<liturgical><tantra>From that same source:
+
+[9811]
+<tibetan>སངས་རྒྱས་ཀུན་གྱི་ཚད་འཛིན་པ།
+<literal>Buddha all-of measure hold
+<liturgical><prose>Holding measure of all Buddhas,
+
+[9812]
+<tibetan>།དཔེ་ཡི་ཡེ་ཤེས་རྣམས་ལ་བརྟག།
+<literal>Example-of wisdom all-to examine
+<liturgical><prose>Examine example wisdoms. || 100 ||
+
+[9813]
+<tibetan>།རྟགས་ཀྱི་ཡེ་ཤེས་ཚད་འཛིན་པ།
+<literal>Sign-of wisdom measure hold
+<liturgical><prose>Holding measure of sign wisdom,
+
+[9814]
+<tibetan>།ཐིག་ལེ་སྟོང་པའི་སྒྲོན་མ་བརྟག
+<literal>Bindu empty-of lamp examine
+<liturgical><break><prose> Examine lamp of empty bindu.
+
+[9815]
+<tibetan>།དོན་གྱི་ཡེ་ཤེས་ཚད་འཛིན་པ།
+<literal>Meaning-of wisdom measure hold
+<liturgical><break><prose> Holding measure of meaning wisdom,
+
+[9816]
+<tibetan>།མངོན་སུམ་གསལ་བའི་སྣང་བ་བརྟག
+<literal>Manifest clear-of appear examine
+<liturgical><break><prose> Examine clear manifest appearance.
+
+[9817]
+<tibetan>།ཅེས་སོ།
+<literal>Thus
+<liturgical><break><prose> Thus it is spoken.
+
+[9818]
+<tibetan>།མདོར་ཧྲིལ་གྱིས་བསྡུ་ན།
+<literal>Briefly summarize
+<liturgical><prose>Briefly summarized:
+
+[9819]
+<tibetan>ཕྱི་སྣང་བའི་ཡུལ་གཞི་མེད།
+<literal>Outer appear-of field base without
+<liturgical><prose>Outer appearance field baseless,
+
+[9820]
+<tibetan>དེ་འཛིན་སྣང་བའི་སེམས་སྟོང་པར་ངོ་སྤྲད་པས།
+<literal>That hold appear-of mind empty-as introduction give
+<liturgical><prose>Giving introduction of mind of holding that appearance as empty,
+
+[9821]
+<tibetan>འཁོར་བ་འཁྲུལ་པ་གཏན་མེད་པོ་གཅིག་ཏུ་ཤེས་ནས།
+<literal>Samsara delusion ground without one-as know having
+<liturgical><prose>Knowing saṃsāra delusion as one groundless,
+
+[9822]
+<tibetan>དེས་མི་ཆོག་པར།
+<literal>That-by not-sufficient
+<liturgical><prose>Not sufficient by that, || 110 ||
+
+[9823]
+<tibetan>རྩ་བ་རིག་པའི་དོན་མངོན་སུམ་ངོ་སྤྲད་དེ་དབྱིངས་རིག་འདུ་འབྲལ་མེད་པར་ངོ་སྤྲད་ནས།
+<literal>Root awareness-of meaning manifest introduction space-awareness gather-separate without introduction give
+<liturgical><prose>Giving introduction manifestly to meaning of root awareness, giving introduction without gathering-separation of space-awareness,
+
+[9824]
+<tibetan>ཀ་དག་གི་ཆོས་སྐུ་ལ་བསྐྱལ་བར་བྱའོ་ཞེས་བློ་མཆོག་ཡང་རབ་པ་རྣམས་ལ་གདམས་པ་ཡིན་ནོ།
+<literal>Primordially-pure-of Dharma-body-to deliver should intelligence supreme excellent all-to instruction indeed
+<liturgical><prose>Instruction to supreme excellent intelligences: should deliver to primordially pure Dharma-body.
+
+[9825]
+<tibetan>།དོན་གཉིས་པ་རང་སྣང་ཡེ་ཤེས་ཀྱི་ངོ་སྤྲོད་ལ་གཉིས་ཏེ
+<literal>Meaning two self-appear wisdom-of introduction two indeed
+<liturgical><break><prose> Second meaning: introduction of self-appear wisdom has two aspects:
+
+[9826]
+<tibetan>གདམས་ཡུལ་དབང་པོའི་དབྱེ་བ་དང༌།
+<literal>Instruction object sense-power-of distinction-and
+<liturgical><break><prose> Distinction of sense-power of instruction object,
+
+[9827]
+<tibetan>གདམས་པ་ངོ་སྤྲོད་ཀྱི་རིམ་པའོ།
+<literal>Instruction introduction-of sequence
+<liturgical><prose>And sequence of instruction introduction.
+
+[9828]
+<tibetan>།དང་པོ་ནི།
+<literal>First indeed
+<liturgical><ornament>First:
+
+[9829]
+<tibetan>དབང་པོ་རབ་འབྲིང་ཐ་མ་གསུམ་ལ་བདུན་བདུན་དུ་ཕྱེ་བས་ཉི་ཤུ་རྩ་གཅིག་སྟེ།
+<literal>Sense-power best middle last three-to seven seven-as separate having twenty-one indeed
+<liturgical><prose>Dividing best, middle, and last three sense-powers into sevens makes twenty-one.
+
+[9830]
+<tibetan>དེ་དག་ཀྱང་ཤེས་རབ་དང༌།
+<literal>That all-also wisdom-and
+<liturgical><prose>Those all also: wisdom,
+
+[9831]
+<tibetan>སྦྱངས་པ་དང༌།
+<literal>Purify-and
+<liturgical><prose>Purification,
+
+[9832]
+<tibetan>གྲོལ་བ་ཐ་དད་པའོ།
+<literal>Liberate different
+<liturgical><prose>Different liberation. || 120 ||
+
+[9833]
+<tibetan>།དང་པོ་རབ་ཏུ་ཅེས་པ་ནི།
+<literal>First best called indeed
+<liturgical><prose>First, called "best":
+
+[9834]
+<tibetan>ཤེས་རབ་དང་རྟོགས་པའི་ཆ་སྟེ།
+<literal>Wisdom-and realize-of portion
+<liturgical><prose>Portion of wisdom and realization.
+
+[9835]
+<tibetan>དེའང་དབྱེ་ན་བདུན་ནི།
+<literal>That-also separate seven indeed
+<liturgical><prose>Also dividing that, seven:
+
+[9836]
+<tibetan>རབ་ཀྱི་ཐ་མ་དང༌།
+<literal>Best-of last-and
+<liturgical><prose>Best's last and
+
+[9837]
+<tibetan>རབ་ཀྱི་འབྲིང་དང༌།
+<literal>Best-of middle-and
+<liturgical><prose>Best's middle and
+
+[9838]
+<tibetan>རབ་ཀྱི་རབ་དང༌།
+<literal>Best-of best-and
+<liturgical><prose>Best's best and
+
+[9839]
+<tibetan>རབ་ཀྱི་ཕུལ་དང་
+<literal>Best-of advanced-and
+<liturgical><break><prose> Best's advanced and
+
+[9840]
+<tibetan>རབ་ཀྱི་མཆོག་དང༌།
+<literal>Best-of supreme-and
+<liturgical><break><prose> Best's supreme and
+
+[9841]
+<tibetan>རབ་ཀྱི་རྩེ་མོ་དང་
+<literal>Best-of peak-and
+<liturgical><break><prose> Best's peak and
+
+[9842]
+<tibetan>རབ་ཀྱི་མཐར་ཕྱིན་པའོ།
+<literal>Best-of end reach
+<liturgical><break><prose> Best's end reaching. || 130 ||
+
+[9843]
+<tibetan>།དེ་དག་ཀྱང་རང་སྣང་རྟོགས་སླ་བའི་ཆ་ནས་གཞག་པའོ།
+<literal>That all-also self-appear realize easy-of portion-from place
+<liturgical><prose>Placing those all from portion of easily realizing self-appear.
+
+[9844]
+<tibetan>།འབྲིང་ལ་ཡང་བདུན་ཏེ།
+<literal>Middle-to also seven indeed
+<liturgical><prose>Also seven for middle:
+
+[9845]
+<tibetan>འབྲིང་གི་ཐ་མ་དང༌།
+<literal>Middle-of last-and
+<liturgical><prose>Middle's last and
+
+[9846]
+<tibetan>འབྲིང་གི་འབྲིང་དང་
+<literal>Middle-of middle-and
+<liturgical><break><prose> Middle's middle and
+
+[9847]
+<tibetan>འབྲིང་གི་རབ་དང༌།
+<literal>Middle-of best-and
+<liturgical><break><prose> Middle's best and
+
+[9848]
+<tibetan>འབྲིང་གི་ཕུལ་དང༌།
+<literal>Middle-of advanced-and
+<liturgical><prose>Middle's advanced and
+
+[9849]
+<tibetan>འབྲིང་གི་མཆོག་དང༌།
+<literal>Middle-of supreme-and
+<liturgical><prose>Middle's supreme and
+
+[9850]
+<tibetan>འབྲིང་གི་རྩེ་མོ་དང༌།
+<literal>Middle-of peak-and
+<liturgical><prose>Middle's peak and
+
+[9851]
+<tibetan>འབྲིང་གི་མཐར་ཕྱིན་པའོ།
+<literal>Middle-of end reach
+<liturgical><prose>Middle's end reaching.
+
+[9852]
+<tibetan>།དེ་བཞིན་དུ་ཐ་མ་ལ་ཡང་བདུན་ཏེ།
+<literal>Like-that last-to also seven indeed
+<liturgical><prose>Likewise, also seven for last: || 140 ||
+
+[9853]
+<tibetan>ཐ་མའི་ཐ་མ་དང༌།
+<literal>Last-of last-and
+<liturgical><prose>Last's last and
+
+[9854]
+<tibetan>ཐ་མའི་འབྲིང་དང༌།
+<literal>Last-of middle-and
+<liturgical><prose>Last's middle and
+
+[9855]
+<tibetan>ཐ་མའི་རབ་དང༌།
+<literal>Last-of best-and
+<liturgical><prose>Last's best and
+
+[9856]
+<tibetan>ཐ་མའི་མཆོག་དང༌།
+<literal>Last-of supreme-and
+<liturgical><prose>Last's supreme and
+
+[9857]
+<tibetan>ཐ་མའི་ཕུལ་དང༌།
+<literal>Last-of advanced-and
+<liturgical><prose>Last's advanced and
+
+[9858]
+<tibetan>ཐ་མའི་རྩེ་མོ་དང༌།
+<literal>Last-of peak-and
+<liturgical><prose>Last's peak and
+
+[9859]
+<tibetan>ཐ་མའི་རྩེ་ཟིན་པའོ།
+<literal>Last-of peak complete
+<liturgical><prose>Last's peak complete.
+
+[9860]
+<tibetan>།གཉིས་པ་ནི
+<literal>Second indeed
+<liturgical><break><ornament> Second:
+
+[9861]
+<tibetan>དེ་ལྟར་དབང་པོ་ཉི་ཤུ་རྩ་གཅིག་བྱུང་བས་ངོ་སྤྲོད་ཀྱང་ཉི་ཤུ་རྩ་གཅིག་འབྱུང་ལ།
+<literal>Like-that sense-power twenty-one become introduction also twenty-one arise
+<liturgical><break><prose> Thus twenty-one sense-powers arise, twenty-one introductions also arise.
+
+[9862]
+<tibetan>དེ་ཡང་སོ་སོར་ངོ་སྤྲད་པ་ལ་གཉིས་ཏེ།
+<literal>That also individual introduction give two indeed
+<liturgical><prose>That also, from individually giving introduction, two: || 150 ||
+
+[9863]
+<tibetan>ཐུན་མོང་གི་དབྱེ་བ་དང༌།
+<literal>Common-of distinction-and
+<liturgical><prose>Common distinction,
+
+[9864]
+<tibetan>ཁྱད་པར་གྱི་མཚོན་ཚུལ་ལོ།
+<literal>Distinction-of indicate manner
+<liturgical><prose>Distinct indicative manner.
+
+[9865]
+<tibetan>།དང་པོ་ནི།
+<literal>First indeed
+<liturgical><ornament>First:
+
+[9866]
+<tibetan>འོད་དང་ཡེ་ཤེས་རིག་པ་གསུམ་ལ།
+<literal>Light-and wisdom awareness three-to
+<liturgical><prose>To three: light, wisdom, awareness,
+
+[9867]
+<tibetan>བདུན་ཚན་དུ་ངོ་སྤྲད་པ་ནི།
+<literal>Seven group-as introduction give indeed
+<liturgical><prose>Giving introduction as seven groups.
+
+[9868]
+<tibetan>རྡོ་རྗེ་སེམས་དཔའ་སྙིང་གི་མེ་ལོང་གི་རྒྱུད་ལས།
+<literal>Vajra-Mind heart mirror tantra-from
+<liturgical><tantra>From Vajra-Mind Heart Mirror Tantra:
+
+[9869]
+<tibetan>རིག་པ་གཞི་ནས་འཕགས་ཏེ།
+<literal>Awareness base-from transcend
+<liturgical><prose>Awareness transcends from base,
+
+[9870]
+<tibetan>ལམ་དུ་འཇུག་པ་ངོ་ཤེས་པར་བྱ་བའི་ཆེད་དུ་དཔེ་དོན་གྱི་ངོ་སྤྲོད་ལ་སོགས་ཏེ་ངོ་སྤྲད་ཉི་ཤུ་རྩ་གཅིག་ཤེས་པར་བྱའོ།
+<literal>Path-to enter essence know make cause example meaning-of introduction etc. introduction give twenty-one know should
+<liturgical><prose>Should know twenty-one introductions—example meaning introduction etc.—for making known entering path.
+
+[9871]
+<tibetan>།གངས་སམ།
+<literal>Snow or
+<liturgical><prose>Snow or
+
+[9872]
+<tibetan>གཡའ་འམ།
+<literal>Conch or
+<liturgical><prose>Conch or || 160 ||
+
+[9873]
+<tibetan>རྒྱ་མཚོ་ལས་བྱུང་བའི་མེན་ཤེལ་དྲི་མ་མེད་པ་ཞིག
+<literal>Ocean-from arise crystal stain without one
+<liturgical><break><prose> One crystal without stain arising from ocean:
+
+[9874]
+<tibetan>།སྐར་ཁུང་གི་སྣང་བ་ལ་ཕྱར་ན།
+<literal>Window-of appear-to extend
+<liturgical><break><prose> Extend to window's appearance,
+
+[9875]
+<tibetan>འོད་ཁ་དོག་ལྔ་ལྷུག་པར་འཆར་རོ།
+<literal>Light color five spontaneous arise
+<liturgical><prose>Five colors of light spontaneously arise.
+
+[9876]
+<tibetan>།དེའང་གང་ཞེ་ན།
+<literal>That-also what question
+<liturgical><prose>Also, what are those?
+
+[9877]
+<tibetan>ཁ་དོག་མཐིང་ག་དང༌།
+<literal>Color blue-and
+<liturgical><prose>Blue color and
+
+[9878]
+<tibetan>དཀར་པོ་དང༌།
+<literal>White-and
+<liturgical><prose>White and
+
+[9879]
+<tibetan>སེར་པོ་དང༌།
+<literal>Yellow-and
+<liturgical><prose>Yellow and
+
+[9880]
+<tibetan>དམར་པོ་དང༌།
+<literal>Red-and
+<liturgical><prose>Red and
+
+[9881]
+<tibetan>ལྗང་གུའོ།
+<literal>Green
+<liturgical><prose>Green.
+
+[9882]
+<tibetan>།མེན་ཤེལ་གཅིག་རྗེས་སུ་འཇུག་པའི་གང་ཟག་དེའི་མིག་གཡས་པར་ལག་པ་གཡས་པས་བཟུང་སྟེ།
+<literal>Crystal one follow-of person that-of eye right-to hand right-by hold having
+<liturgical><prose>That person following one crystal: hold right eye with right hand, || 170 ||
+
+[9883]
+<tibetan>མིག་གི་སྟེང་དུ་བཞག་ན་སྣང་བ་མཐོང་བར་འགྱུར་རོ།ལག་པ་གཡོན་པས་མིག་གཡོན་པ་དགག་པར་བྱའོ།
+<literal>Eye-of top-to place appear see become hand left-by eye left block should
+<liturgical><prose>Place on eye's top, appearance will be seen; block left eye with left hand.
+
+[9884]
+<tibetan>།དེ་ནི་དཔེའི་ངོ་སྤྲོད་དོ།
+<literal>That example-of introduction
+<liturgical><prose>That is example introduction.
+
+[9885]
+<tibetan>།དོན་དེ་བཞིན་དུ་རང་གི་སྙིང་གི་དཀྱིལ་ན་གནས་སོ།
+<literal>Meaning that-like self-of heart center-in abide
+<liturgical><prose>Meaning thus abides in self's heart center.
+
+[9886]
+<tibetan>།དེ་ནི་དོན་གྱི་ངོ་སྤྲད་དོ།
+<literal>That meaning-of introduction
+<liturgical><prose>That is meaning introduction.
+
+[9887]
+<tibetan>།རྟགས་རང་གི་མཛུབ་མོས་མིག་མནན་ན་འོད་ཀྱི་ཐིག་ལེ་ཉའི་མིག་ལྟ་བུ་འཆར་རོ།
+<literal>Sign self-of thumb-by eye press light bindu fish eye like arise
+<liturgical><prose>Press eye with self's thumb, sign: bindu of light arises like fish eye.
+
+[9888]
+<tibetan>།དེ་ནི་རྟགས་ཀྱི་ངོ་སྤྲོད་དོ།
+<literal>That sign-of introduction
+<liturgical><prose>That is sign introduction.
+
+[9889]
+<tibetan>།ཆོས་ཀྱི་སྐུའི་ངོ་སྤྲོད་ནི།
+<literal>Dharma-body-of introduction
+<liturgical><prose>Dharma-body introduction:
+
+[9890]
+<tibetan>ཉི་མའི་དཀྱིལ་འཁོར་ལ་སྤྲད་དོ།
+<literal>Sun mandala-to apply
+<liturgical><prose>Apply to sun mandala.
+
+[9891]
+<tibetan>།ལོངས་སྤྱོད་རྫོགས་པ་སྐུའི་ངོ་སྤྲོད་ནི།
+<literal>Enjoyment complete body-of introduction
+<liturgical><prose>Enjoyment complete body introduction:
+
+[9892]
+<tibetan>དེ་བཞིན་གཤེགས་པའི་སྐུ་རས་ལ་བྲིས་པ་རང་གི་མདུན་དུ་བཞག་སྟེ།
+<literal>Thus-come body cloth-on draw self-of front-to place having
+<liturgical><prose>Place Thus-come body drawn on cloth before self, || 180 ||
+
+[9893]
+<tibetan>ཤེལ་མིག་གི་སྟེང་དུ་བཞག་ནས།
+<literal>Crystal eye-of top-to place having
+<liturgical><prose>Place crystal on eye's top,
+
+[9894]
+<tibetan>མིག་ནམ་མཁའ་ལ་བལྟས་ན།
+<literal>Eye sky-to look
+<liturgical><prose>Look eye to sky,
+
+[9895]
+<tibetan>ལོངས་སྤྱོད་རྫོགས་པའི་སྐུ་ཁ་མིག་རྣ་བ་ཅན་མཐོང་བར་འགྱུར་རོ།
+<literal>Enjoyment complete body mouth eye ear possess see become
+<liturgical><prose>Enjoyment complete body possessing mouth, eye, ear will be seen.
+
+[9896]
+<tibetan>།དེ་བཞིན་དུ་ལོངས་སྤྱོད་རྫོགས་པ་སྐུའི་ཞིང་ཁམས་བར་མ་དོ་ལ་འཆར་བ་ངོ་ཤེས་པར་གྱིས་ཤིག
+<literal>Likewise enjoyment complete body field intermediate-to arise understand should
+<liturgical><break><prose>
+
+[9897]
+<tibetan>སྤྲུལ་པའི་སྐུ་ལ་ངོ་སྤྲད་པ་ནི།
+<literal>Emanation body-to introduction give
+<liturgical><break><prose> Giving introduction to emanation body:
+
+[9898]
+<tibetan>ཆོས་ཅན་མཚན་མར་སྣང་བ་རང་གི་རིག་པའི་ཆོ་འཕྲུལ་དུ་ངོ་ཤེས་པར་གྱིས་ཤིག
+<literal>Dharma-possessor sign-as appear self-of awareness miracle-as essence know make
+<liturgical><break><prose> Make know essence: dharma-possessor appearing as sign is miracle of self-awareness.
+
+[9899]
+<tibetan>ཆོས་ཉིན་རང་གི་འོད་ཟེར་གྱི་ཕུང་པོར་ཤེས་པར་གྱིས་ཤིག
+<literal>Dharma day self-of light ray-of mass know make
+<liturgical><prose>Make know as mass of self's light rays on Dharma day.
+
+[9900]
+<tibetan>དེ་ནི་རྣམ་རྟོག་བག་ཆགས་ཀྱི་སྦུབས་འདི་ཉིད་མ་བོར་བ་ལ་ངོ་ཤེས་པར་གྱིས་ཤིག
+<literal>That concept habit-continuum-of interior this itself not abandon essence know make
+<liturgical><prose>Make know essence without abandoning this interior of concept habit-continuum.
+
+[9901]
+<tibetan>དེ་ནི་སྤྲུལ་པ་སྐུའི་ངོ་སྤྲོད་དོ།
+<literal>That emanation body-of introduction
+<liturgical><break><prose> That is emanation body's introduction.
+
+[9902]
+<tibetan>།རྩའི་གཅུན་ཐབས་སྣང་བ་རང་ལུགས་སུ་འཆར་བའི་ངོ་སྤྲོད་དེ།
+<literal>Root bind method appear self manner-as arise-of introduction that
+<liturgical><prose>That root bind method introduction of appearance arising in self-manner. || 190 ||
+
+[9903]
+<tibetan>།དེ་ལྟར་རྣམ་པ་བདུན་ཏེ་འོད་ཀྱི་ངོ་སྤྲོད་ཅེས་བྱའོ།
+<literal>Like-that aspect seven light-of introduction called
+<liturgical><prose>Thus seven aspects called "light introduction."
+
+[9904]
+<tibetan>།ཡེ་ཤེས་ཀྱི་ངོ་སྤྲོད་གང་ཞེ་ན།
+<literal>Wisdom-of introduction what question
+<liturgical><prose>What is wisdom's introduction?
+
+[9905]
+<tibetan>ཆོས་ཀྱི་དབྱིངས་ཀྱི་ཡེ་ཤེས་ཀྱི་ངོ་སྤྲོ་འཁར་གཞོང་གི་བཅུད་ལ་བརྟག་པ་ནི།
+<literal>Dharma space-of wisdom-of introduction copper vessel-of essence-to examine
+<liturgical><prose>Examining essence of copper vessel: introduction of Dharma space's wisdom.
+
+[9906]
+<tibetan>འཁར་ཕོར་ལེགས་པར་ཆུས་བཀང་ནས།
+<literal>Copper vessel well water fill having
+<liturgical><prose>Fill copper vessel well with water,
+
+[9907]
+<tibetan>མིག་གི་ཐོག་ཏུ་གསལ་བྱེད་ཀྱི་མེ་ལོང་བཞག་སྟེ་བལྟས་པས།
+<literal>Eye-of top-to clear make mirror place look
+<liturgical><prose>Place clear-making mirror on eye's top, look:
+
+[9908]
+<tibetan>ཐིག་ལེ་དང༌།
+<literal>Bindu-and
+<liturgical><prose>Bindu and
+
+[9909]
+<tibetan>ཐིག་ཕྲན་གྱི་ཚུལ་དུ་འཆར་ཏེ།
+<literal>Bindu particle-of manner-as arise
+<liturgical><prose>Arising as bindu particle manner,
+
+[9910]
+<tibetan>དེ་ལས་ཀྱང་འོད་དང༌།
+<literal>That-from-also light-and
+<liturgical><prose>Also from that, light and
+
+[9911]
+<tibetan>མཚོན་ཆའི་རྩེ་མོ་བཞིན་དུ་འཕྲོའོ།
+<literal>Weapon point like emanate
+<liturgical><prose>Emanate like weapon point.
+
+[9912]
+<tibetan>།དེ་ནི་ཆོས་ཀྱི་དབྱིངས་ཀྱི་ཡེ་ཤེས་ཀྱི་ངོ་སྤྲོད་དོ།
+<literal>That Dharma space-of wisdom-of introduction
+<liturgical><prose>That is Dharma space's wisdom introduction. || 200 ||
+
+[9913]
+<tibetan>།མེ་ལོང་ལྟ་བུའི་ཡེ་ཤེས་ཀྱི་ངོ་སྤྲོད་གང་ཞེ་ན།
+<literal>Mirror like-of wisdom-of introduction what question
+<liturgical><prose>What is mirror-like wisdom's introduction?
+
+[9914]
+<tibetan>དངུལ་གྱི་མེ་ལོང་གཉིས་ཀྱི་བར་དུ་རྡུལ་ཚོན་གྱི་དཀྱིལ་འཁོར་བྲིས་ཏེ།
+<literal>Silver mirror two-of interval dust-color mandala draw
+<liturgical><prose>Draw dust-color mandala between two silver mirrors,
+
+[9915]
+<tibetan>བར་འགྲན་ཚུར་འགྲམ་གཉིས་སུ་མེ་ལོང་རེ་རེ་གཟུགས་སོ།
+<literal>Interval compare near side two-to mirror each place
+<liturgical><prose>Place mirror each on two near sides comparing interval,
+
+[9916]
+<tibetan>།དེ་ལས་སྣང་བ་གཉིས་འཆར་རོ།
+<literal>That-from appear two arise
+<liturgical><tantra>From that, two appearances arise.
+
+[9917]
+<tibetan>།མཉམ་པ་ཉིད་ཀྱི་ཡེ་་ཤེས་ཀྱི་ངོ་སྤྲོད་ནི།
+<literal>Equality-of wisdom-of introduction
+<liturgical><prose>Introduction of equality wisdom:
+
+[9918]
+<tibetan>ཆུའི་ཟླ་བ་ལ་ངོས་གཟུང་བའོ།
+<literal>Water moon-to essence seize
+<liturgical><prose>Seize essence on water moon.
+
+[9919]
+<tibetan>།སོ་སོར་རྟོག་པའི་ཡེ་ཤེས་ཀྱི་ངོ་སྤྲོད་ནི།
+<literal>Discriminate-of wisdom-of introduction
+<liturgical><prose>Introduction of discriminating wisdom:
+
+[9920]
+<tibetan>མར་མེ་ལ་ངོས་གཟུང་ངོ༌།
+<literal>Lamp essence seize
+<liturgical><prose>Seize essence on lamp.
+
+[9921]
+<tibetan>།བྱ་བ་གྲུབ་པའི་ཡེ་ཤེས་ཀྱི་ངོ་སྤྲོད་ནི།
+<literal>Action accomplish-of wisdom-of introduction
+<liturgical><prose>Introduction of action-accomplishing wisdom:
+
+[9922]
+<tibetan>མེན་ཤེལ་དྲི་མེད་པ་ལ་ངོས་གཟུང་ངོ༌།
+<literal>Crystal stain without-to essence seize
+<liturgical><prose>Seize essence on crystal without stain. || 210 ||
+
+[9923]
+<tibetan>།མི་གནས་པའི་ཡེ་ཤེས་ཀྱི་ངོ་སྤྲོད་ནི།
+<literal>Not-abide-of wisdom-of introduction
+<liturgical><prose>Introduction of non-abiding wisdom:
+
+[9924]
+<tibetan>།ནམ་མཁའི་འཇའ་ཚོན་གྱིས་ངོས་གཟུང་བའོ།
+<literal>Sky rainbow-by essence seize
+<liturgical><prose>Seize essence by sky rainbow.
+
+[9925]
+<tibetan>།ཡོངས་སུ་རྫོགས་པའི་ཡེ་ཤེས་ཀྱི་ངོ་སྤྲོད་ནི།
+<literal>Complete complete-of wisdom-of introduction
+<liturgical><prose>Introduction of completely complete wisdom:
+
+[9926]
+<tibetan>ནམ་མཁའ་སྤྲིན་མེད་པས་ངོས་གཟུང་བའོ།
+<literal>Sky cloud without-by essence seize
+<liturgical><prose>Seize essence by cloudless sky.
+
+[9927]
+<tibetan>།བདུན་མོ་དེ་ནི་ཡེ་ཤེས་ཀྱི་ངོ་སྤྲོད་དོ།
+<literal>Seven that wisdom-of introduction
+<liturgical><prose>Those seven are wisdom's introduction.
+
+[9928]
+<tibetan>།ད་ནི་རིག་པའི་ངོ་སྤྲོད་བསྟན་ཏེ།
+<literal>Now awareness-of introduction demonstrate
+<liturgical><prose>Now demonstrating awareness's introduction:
+
+[9929]
+<tibetan>རིག་པ་གཞོན་ནུ་བུམ་པའི་སྐུའི་ངོ་སྤྲོད་ནི།
+<literal>Awareness youth vase body-of introduction
+<liturgical><prose>Introduction of awareness youth vase body:
+
+[9930]
+<tibetan>མི་གོས་ཁ་དོག་དཀར་པོ་གྱོན་པ་ཞིག་རང་གི་མདུན་དུ་བཞག་ནས།
+<literal>Clothes color white wear one self-of front-to place having
+<liturgical><prose>Place one wearing white clothes before self,
+
+[9931]
+<tibetan>མིག་གི་སྟེང་དུ་རིན་པོ་ཆེ་བཞག་ནས།
+<literal>Eye-of top-to jewel place having
+<liturgical><prose>Place jewel on eye's top,
+
+[9932]
+<tibetan>མིག་ནམ་མཁའ་ལ་བཏེག་སྟེ་བལྟས་ན།
+<literal>Eye sky-to extend look
+<liturgical><prose>Extend eye to sky and look. || 220 ||
+
+[9933]
+<tibetan>དེ་བཞིན་གཤེགས་པ་ཞི་བའི་སྐུ་མཐོང་བར་འགྱུར་རོ།
+<literal>Thus-come peaceful body see become
+<liturgical><prose>Will see Thus-come's peaceful body.
+
+[9934]
+<tibetan>།དེ་ནི་རིག་པ་བུམ་པའི་སྐུའི་ངོ་སྤྲོད་དོ།
+<literal>That awareness vase body-of introduction
+<liturgical><prose>That is introduction of awareness vase body.
+
+[9935]
+<tibetan>།རིག་པ་གཞོན་ནུ་དཔའ་བོ་སྟོབས་ལྡན་སྐུའི་ངོ་སྤྲོད་ནི།
+<literal>Awareness youth hero power possess body-of introduction
+<liturgical><prose>Introduction of awareness youth hero power-possessing body:
+
+[9936]
+<tibetan>ཁྱིམ་མུན་པ་ནག་པོར་མི་གོས་ནག་པོ་གོན་པ་རང་གི་མདུན་དུ་བཞག་སྟེ།
+<literal>House dark black-in clothes black wear self-of front-to place having
+<liturgical><prose>Place one wearing black clothes in house's darkness before self,
+
+[9937]
+<tibetan>གོང་གི་ལྟར་བལྟས་ན།
+<literal>Above-of like look
+<liturgical><prose>Look like above,
+
+[9938]
+<tibetan>དེ་བཞིན་གཤེགས་པ་ཁྲོ་བོའི་སྐུ་མཐོང་བར་འགྱུར་རོ།
+<literal>Thus-come wrathful body see become
+<liturgical><prose>Will see Thus-come's wrathful body.
+
+[9939]
+<tibetan>།རིག་པ་གཞི་གནས་ཀྱི་ངོ་སྤྲོད་ནི།
+<literal>Awareness base abide-of introduction
+<liturgical><prose>Introduction of awareness base-abiding:
+
+[9940]
+<tibetan>།རྒྱ་མཚོ་དངས་པ་ལ་ངོས་གཟུང་ངོ༌།
+<literal>Ocean clear-to essence seize
+<liturgical><prose>Seize essence on clear ocean.
+
+[9941]
+<tibetan>།རིག་པ་ཀུན་ཏུ་གསལ་བའི་ངོ་སྤྲོད་ནི།
+<literal>Awareness all-as clear-of introduction
+<liturgical><prose>Introduction of awareness all-clear:
+
+[9942]
+<tibetan>ཉི་མ་དང་ཟླ་བ་ངོས་གཟུང་ངོ༌།
+<literal>Sun-and moon essence seize
+<liturgical><prose>Seize essence on sun and moon. || 230 ||
+
+[9943]
+<tibetan>།རིག་པ་གཉིས་སུ་མེད་པའི་ངོ་སྤྲོད་ནི།
+<literal>Awareness two-from without-of introduction
+<liturgical><prose>Introduction of awareness without two:
+
+[9944]
+<tibetan>བུམ་པའི་སྐུ་ལ་ངོས་གཟུང་བའོ།
+<literal>Vase body-to essence seize
+<liturgical><prose>Seize essence on vase body.
+
+[9945]
+<tibetan>།རིག་པ་དྲི་མ་དང་བཅས་པའི་ངོ་སྤྲོད་ནི།
+<literal>Awareness stain-with together-of introduction
+<liturgical><prose>Introduction of awareness with stain:
+
+[9946]
+<tibetan>ཉི་ཟླ་སྤྲིན་གྱི་བསྒྲིབས་པ་ལྟ་བུ་ལ་ངོས་གཟུང་ངོ༌།
+<literal>Sun-moon cloud-by obscured like-to essence seize
+<liturgical><prose>Seize essence on like sun-moon obscured by cloud.
+
+[9947]
+<tibetan>།རིག་པ་ཅིར་ཡང་མི་གནས་པའི་ངོ་སྤྲོད་ནི།
+<literal>Awareness what-also not-abide-of introduction
+<liturgical><prose>Introduction of awareness not abiding in anything:
+
+[9948]
+<tibetan>།མིག་བར་སྣང་ལ་བལྟས་པས་ཤེས་པར་བྱའོ།
+<literal>Eye space-between-to look know should
+<liturgical><prose>Should know by looking eye to space-between.
+
+[9949]
+<tibetan>།དེ་ལྟར་བདུན་ནི་རིག་པའི་ངོ་སྤྲོད་དོ།
+<literal>Like-that seven awareness-of introduction
+<liturgical><prose>Thus seven are awareness's introduction.
+
+[9950]
+<tibetan>།དེ་ལྟར་ཉི་ཤུ་རྩ་གཅིག་རྫོགས་ནས།
+<literal>Like-that twenty-one complete having
+<liturgical><prose>Having completed twenty-one thus,
+
+[9951]
+<tibetan>རིགས་ཀྱི་བུ་དེ་མྱ་ངན་ལས་འདའ་བའི་ཚེ།
+<literal>Buddha-family son that nirvana-from pass time
+<liturgical><prose>At the time when that Buddha-family son passes from nirvāṇa,
+
+[9952]
+<tibetan>རིག་པ་མིག་ནས་ལམ་བྱུང་ནས་བར་མ་དོའི་སྣང་བ་ལ་འཇུག་གོ་ཞེས་སོ།
+<literal>Awareness eye-from path arise intermediate-of appear-to enter thus
+<liturgical><prose>Awareness arises from eye path, enters intermediate appearance. Thus it is spoken. || 240 ||
+
+[9953]
+<tibetan>།གཉིས་པ་ཁྱད་པར་གྱི་མཚོན་ཚུལ་ལ་གཉིས་ཏེ།
+<literal>Second distinction-of indicate manner two indeed
+<liturgical><prose>Second, two aspects of distinctive indicative manner:
+
+[9954]
+<tibetan>ངོ་སྤྲོད་ཀྱི་ཆིངས་མདོར་བསྟན་པ་དང༌།
+<literal>Introduction-of condensation briefly demonstrate-and
+<liturgical><prose>Briefly demonstrating introduction's condensation,
+
+[9955]
+<tibetan>དེའི་རང་བཞིན་རྒྱས་པར་དབྱེ་བའོ།
+<literal>That nature extensively separate
+<liturgical><prose>And extensively separating that nature.
+
+[9956]
+<tibetan>།དང་པོ་ནི།
+<literal>First indeed
+<liturgical><ornament>First:
+
+[9957]
+<tibetan>འོད་དང་ཡེ་ཤེས་ལ་ངོ་སྤྲོད་པ་བདུན་གྱིས་དབང་པོ་ཐ་མ་བདུན་ཡིད་ཆེས་པའི་མཚོན་དཔེར་བསྟན་ལ།
+<literal>Light-and wisdom-to introduction give seven-by sense-power last seven confidence-of indicate example demonstrate
+<liturgical><prose>Demonstrate confidence-indicative example of seven last sense-powers by seven introductions to light and wisdom,
+
+[9958]
+<tibetan>སྐུ་དང༌།
+<literal>Body-and
+<liturgical><prose>Body and
+
+[9959]
+<tibetan>ཐིག་ལེ་ལ་ངོ་སྤྲད་པ་བདུན་གྱིས་འབྲིང་པོ་བདུན་འོད་གསལ་གྱི་ངོ་བོ་ལ་ཡིད་ཆེས་བསྐྱེད་ཅིང༌།
+<literal>Bindu-to introduction give seven-by middle seven luminosity essence-to confidence produce-and
+<liturgical><prose>Bindu—producing confidence in luminosity's essence for seven middles by seven introductions,
+
+[9960]
+<tibetan>རིག་པ་དང་དབྱིངས་ལ་ངོ་སྤྲད་པ་བདུན་གྱིས་རབ་རྣམས་ཡིད་ཆེས་པར་བསྟན་པ་ནི།
+<literal>Awareness-and space-to introduction give seven-by best all confidence demonstrate indeed
+<liturgical><prose>Demonstrate confidence for all best by seven introductions to awareness and space.
+
+[9961]
+<tibetan>ངོ་སྤྲོད་སྤྲས་པ་ལས།
+<literal>Introduction ornament-from
+<liturgical><tantra>From Introduction Ornament:
+
+[9962]
+<tibetan>ཉི་ཤུ་རྩ་གཅིག་བློ་རིམ་བཞིན།
+<literal>Twenty-one intelligence sequence like
+<liturgical><prose>Twenty-one in intelligence sequence, || 250 ||
+
+[9963]
+<tibetan>།འོད་དང་ཡེ་ཤེས་ཉིད་ལ་ནི།
+<literal>Light-and wisdom itself-to indeed
+<liturgical><prose>To light and wisdom itself,
+
+[9964]
+<tibetan>།ངོ་སྤྲོད་རྣམ་པ་བདུན་དག་གིས།
+<literal>Introduction aspect seven all-by
+<liturgical><prose>By all seven introduction aspects,
+
+[9965]
+<tibetan>།བློ་ཆུང་རིམ་པ་བདུན་རྣམས་གྲོལ།
+<literal>Intelligence small sequence seven all liberate
+<liturgical><prose>Liberate seven small intelligence sequences.
+
+[9966]
+<tibetan>།སྐུ་དང་ཐིག་ལེ་ཉིད་ལ་ཡང༌།
+<literal>Body-and bindu itself-to also
+<liturgical><prose>Also to body and bindu itself,
+
+[9967]
+<tibetan>།ངོ་སྤྲོད་ཉིད་ནི་རྣམ་བདུན་གྱིས།
+<literal>Introduction itself aspect seven-by
+<liturgical><prose>By seven aspects of introduction itself,
+
+[9968]
+<tibetan>།འབྲིང་པོ་བདུན་པོའི་དོན་དུའོ།
+<literal>Middle seven-of meaning purpose
+<liturgical><prose>For meaning of seven middles.
+
+[9969]
+<tibetan>།རིག་པ་དང་ནི་དབྱིངས་ལ་བདུན།
+<literal>Awareness-and space-to seven
+<liturgical><prose>Seven to awareness and space,
+
+[9970]
+<tibetan>།ཆེན་པོ་རྣམས་ཀྱི་དོན་དུའོ།
+<literal>Great all-of meaning purpose
+<liturgical><prose>For meaning of all great ones.
+
+[9971]
+<tibetan>།ཞེས་སོ།
+<literal>Thus
+<liturgical><prose>Thus it is spoken.
+
+[9972]
+<tibetan>།གཉིས་པ་ལ་གསུམ་ལས།
+<literal>Second three-from
+<liturgical><prose>Second, from three: || 260 ||
+
+[9973]
+<tibetan>འོད་དང་ཡེ་ཤེས་ལ་ངོ་སྤྲད་པ།
+<literal>Light-and wisdom-to introduction give
+<liturgical><prose>Giving introduction to light and wisdom,
+
+[9974]
+<tibetan>བདུན་ལས།
+<literal>Seven-from
+<liturgical><tantra>From seven:
+
+[9975]
+<tibetan>ཡེ་ཤེས་ཀྱི་རང་འོད་དབྱིངས་ནས་བསྐྱོད་པའི་སྣང་བ་འོད་ལྔ་གསལ་བས་རང་འོད་ངོ་སྤྲད་པ་དང༌།
+<literal>Wisdom-of self-light space-from move-of appear light five clear-by self-light introduction give-and
+<liturgical><prose>Giving introduction to self-light by clear five lights appearance moved by wisdom's self-light from space, and
+
+[9976]
+<tibetan>དེ་ལས་ཕྱིར་གསལ་དུ་ཤར་བ་དབྱིངས་ཀྱི་ཡེ་ཤེས་ཀྱི་སྣང་བ་ངོ་སྤྲད་པ་དང༌།
+<literal>That-from outer-clear-as arise space-of wisdom-of appear introduction give-and
+<liturgical><prose>Giving introduction to space's wisdom appearance arising as outer-clear from that, and
+
+[9977]
+<tibetan>མེ་ལོང་ལྟ་བུ་ལ་སོགས་པ་ལྔའི་རང་སྣང་ཤེས་པའི་སྤྲོད་དོ།
+<literal>Mirror like etc. five-of self-appear know-of sprod
+<liturgical><prose>sprod of knowing self-appear of five: mirror-like etc.
+
+[9978]
+<tibetan>།བར་གྱི་འབྲེལ་ཐག་ཟེར་གྱིས་སྣང་བ་དང༌།
+<literal>Interval-of connect ray-by appear-and
+<liturgical><prose>Appearance by interval's connecting ray, and
+
+[9979]
+<tibetan>སྐུ་གསུམ་གཅིག་ཏུ་འབྲེལ་བའི་སྣང་བ་དང༌།
+<literal>Body three one-as connect-of appear-and
+<liturgical><prose>Appearance of three bodies connecting as one, and
+
+[9980]
+<tibetan>སྣང་གསལ་ལས་ཡེ་ཤེས་རང་སྣང་གི་སྣང་བ་དང༌།
+<literal>Appear-clear-from wisdom self-appear-of appear-and
+<liturgical><prose>Appearance of wisdom self-appear from appear-clear, and
+
+[9981]
+<tibetan>རྡུལ་ཚོན་ལས་རིག་པ་མ་བུའི་ཚད་དང༌།
+<literal>Dust-color-from awareness mother-son-of measure-and
+<liturgical><prose>Measure of awareness mother-son from dust-color, and
+
+[9982]
+<tibetan>མི་མོ་ལས་ཡེ་ཤེས་ཁོང་གསེང་གི་སྣང་བ་སྟེ་བདུན་ངོ་སྤྲད་དོ།
+<literal>Human female-from wisdom heart-interval-of appear seven introduction give
+<liturgical><prose>Appearance of wisdom's heart-interval from human female—seven introductions. || 270 ||
+
+[9983]
+<tibetan>།གཉིས་པ་ཐིག་ལེ་དང༌།
+<literal>Second bindu-and
+<liturgical><prose>Second, bindu and
+
+[9984]
+<tibetan>སྐུ་ལ་ངོ་སྤྲད་པ།
+<literal>Body-to introduction give
+<liturgical><prose>Giving introduction to body.
+
+[9985]
+<tibetan>བདུན་ལས།
+<literal>Seven-from
+<liturgical><tantra>From seven:
+
+[9986]
+<tibetan>ཐིག་ལེ་ལ་ཡེ་ཤེས་ལྔའི་སྣང་བ་དག་པ་ཐིག་ལེའི་སྣང་བར་ཤར་བ་ལྔ་ལ།
+<literal>Bindu-to wisdom five-of appear pure bindu-of appear-as arise five-to
+<liturgical><prose>To five: pure wisdom five's appearance arising as bindu's appearance at bindu,
+
+[9987]
+<tibetan>འཁར་ཕོར་གྱི་བཅུད་ཀྱིས་ཐིག་ལེ་རང་ངོ་སྤྲད་པ་དང༌།
+<literal>Copper vessel-of essence-by bindu self introduction give-and
+<liturgical><prose>Giving introduction to bindu's self by copper vessel's essence, and
+
+[9988]
+<tibetan>རས་ཀྱི་སྣམ་བུས་ཡེ་ཤེས་ཀྱི་འོད་སྣང་ངོ་སྤྲད་པ་དང༌།
+<literal>Cloth-of surface-by wisdom-of light appear introduction give-and
+<liturgical><prose>Giving introduction to wisdom's light appearance by cloth surface, and
+
+[9989]
+<tibetan>འཁྱིལ་ཆུས་བར་དོ་དང་པོའི་སྣང་བ་ངོ་སྤྲད་པ་དང༌།
+<literal>Swirl water-by intermediate first-of appear introduction give-and
+<liturgical><prose>Giving introduction to first intermediate's appearance by swirl water, and
+
+[9990]
+<tibetan>རྨ་བྱའི་མེ་ལོང་གིས་དགོངས་པ་ངོ་སྤྲད་པ་དང༌།
+<literal>Peacock mirror-by intention introduction give-and
+<liturgical><prose>Giving introduction to intention by peacock mirror, and
+
+[9991]
+<tibetan>དབྱུགས་པའི་འཁར་ཕོར་གྱིས་བདེ་ཆེན་ཚངས་པའི་སྒོ་ནས་སྣང་བའི་ཐིག་ལེ་དགུ་བརྩེགས་ངོ་སྤྲད་པའོ།
+<literal>Stir copper vessel-by bliss great Brahma-of gate-from appear-of bindu nine stack introduction give
+<liturgical><prose>Giving introduction to nine-stack appearance bindu from bliss-great Brahma's gate by stirring copper vessel.
+
+[9992]
+<tibetan>།སྐུ་ལ་གཉིས་ཏེ།
+<literal>Body-to two indeed
+<liturgical><prose>Two for body: || 280 ||
+
+[9993]
+<tibetan>རིག་པ་གཞོན་ནུ་བུམ་པའི་སྐུ་དང༌།
+<literal>Awareness youth vase body-and
+<liturgical><prose>Awareness youth vase body and
+
+[9994]
+<tibetan>གཞོན་ནུ་ཁྲོ་གཉེར་ཅན་གྱི་སྐུའོ།
+<literal>Youth wrathful frown possess body
+<liturgical><prose>Youth wrathful-frown-possessing body.
+
+[9995]
+<tibetan>།འདི་གཉིས་ཀྱང་ཕྱེད་སྐུ་དང༌།
+<literal>This two-also half body-and
+<liturgical><prose>These two also: half body and
+
+[9996]
+<tibetan>རང་རྐྱང་དང༌།
+<literal>Self single-and
+<liturgical><prose>Self single and
+
+[9997]
+<tibetan>ཚོམ་བུའི་དཀྱིལ་འཁོར་ལས།
+<literal>Collection mandala-from
+<liturgical><tantra>From collection mandala:
+
+[9998]
+<tibetan>སེམས་དཔའ་དང༌།
+<literal>Being-and
+<liturgical><prose>Being and
+
+[9999]
+<tibetan>སེམས་མ་དང༌།
+<literal>Being female-and
+<liturgical><prose>Being female and
+
+[10000]
+<tibetan>ཡབ་ཡུམ་ཟུང་འབྲེལ་དུ་སྣང་བར་ངོ་སྤྲད་པ་ལྔ་ཡོད་ཀྱང༌།
+<literal>Father mother pair connect-as appear-as introduction give five exist also
+<liturgical><prose>Five introductions to father-mother pair connecting as appearance, though existing,
+
+[10001]
+<tibetan>ཞི་ཁྲོ་གཉིས་ཀྱི་སྐུར་རིགས་བསྡུས་པས་དེ་ལྟར་བདུན་ནོ།
+<literal>Peaceful wrathful two-of body-as family gather having like-that seven
+<liturgical><prose>Gathered into family of peaceful-wrathful two bodies—thus seven.
+
+[10002]
+<tibetan>།གསུམ་པ་རིག་་དང་དབྱིངས་ལ་ངོ་སྤྲད་པ་བདུན་ལས།
+<literal>Third awareness space-to introduction give seven-from
+<liturgical><prose>Third, from seven introductions to awareness and space: || 290 ||
+
+[10003]
+<tibetan>རིག་པའི་ངོ་སྤྲོད་གཉིས་ནི།
+<literal>Awareness-of introduction two indeed
+<liturgical><prose>Two awareness introductions:
+
+[10004]
+<tibetan>སྐུ་གསུམ་དབྱེར་མེད་དུ་ངོ་སྤྲད་པ་དང༌།
+<literal>Body three not-separate-as introduction give-and
+<liturgical><prose>Giving introduction without separating three bodies, and
+
+[10005]
+<tibetan>ཡབ་ཡུམ་ཁ་སྦྱོར་ལས་སྤྲུལ་པ་འཕྲོ་བར་ངོ་སྤྲད་པ་སྟེ།
+<literal>Father mother mouth join-from emanation emanate-as introduction give
+<liturgical><prose>Giving introduction to emanation emanating from father-mother mouth-joining,
+
+[10006]
+<tibetan>རིག་པ་སྐུར་སྨིན་པའི་ངོ་སྤྲོད་དོ།
+<literal>Awareness body-as ripen-of introduction
+<liturgical><prose>Introduction of awareness ripening as body.
+
+[10007]
+<tibetan>།དབྱིངས་ཀྱི་ངོ་སྤྲོད་ལ་ལྔ་ལས།
+<literal>Space-of introduction five-from
+<liturgical><tantra>From five space introductions:
+
+[10008]
+<tibetan>ཡེ་ཤེས་རླུང་གིས་བསྐྱོད་པའི་དབྱིངས་སྣང་ངོ་སྤྲད་པ་དང༌།
+<literal>Wisdom wind-by move-of space appear introduction give-and
+<liturgical><prose>Giving introduction to space appearance moved by wisdom wind, and
+
+[10009]
+<tibetan>རིགས་ལྔའི་སྣམ་བུ་སྣང་བ་དབྱིངས་ཀྱི་ཡེ་ཤེས་ངོ་སྤྲད་པ་དང༌།
+<literal>Family five surface appear space-of wisdom introduction give-and
+<liturgical><prose>Giving introduction to space's wisdom by five-family surface appearance, and
+
+[10010]
+<tibetan>དབྱིངས་ཀྱི་རྒྱན་དྲ་བ་དང་
+<literal>Space-of ornament net-and
+<liturgical><break><prose> Space's ornament net and
+
+[10011]
+<tibetan>དྲ་བ་ཕྱེད་པ་འཕྱང་བས་གཞལ་ཡས་ཁང་ངོ་སྤྲད་པ་དང༌།
+<literal>net half hang-by-means-of measureless palace introduction and */
+<liturgical><break><prose> Giving introduction to measureless mansion by extending half-net,
+
+[10012]
+<tibetan>སྐར་ཁུང་གི་ཕྱོགས་བཞི་དབུས་དང་ལྔར་རིགས་ལྔའི་་སྣང་བ་ལ་མེ་ལོང་བཏེགས་ནས་བསྟན་པས།
+<literal>window-of direction four center and five-in family five-of appearance light mirror raise-from show-by-means-of/
+<liturgical><prose>Demonstrating by extending mirror to five-family appearance in four directions and center of window, || 300 ||
+
+[10013]
+<tibetan>དབྱིངས་ཀྱི་སྐུའི་ངོ་སྤྲོད་དང༌།
+<literal>expanse-of body introduction and */
+<liturgical><prose>Introduction of space's body,
+
+[10014]
+<tibetan>སྣོད་ཆུས་བཀང་བར་མེ་ཏོག་ལྔའི་ཚོམ་བུ་ལ་དེ་བཞིན་དུ་བཏེག་ནས་བསྟན་པས།
+<literal>vessel water fill flower five-of cluster that like raise-from show-by-means-of/
+<liturgical><prose>Demonstrating by extending likewise to collection of five flowers in water-filled vessel.
+
+[10015]
+<tibetan>དབྱིངས་ཀྱི་ཚོམ་བུ་ངོ་སྤྲད་པ་སྟེ་བདུན་ནོ།
+<literal>expanse-of cluster introduction seven/
+<liturgical><prose>Seven introductions to space's collection.
+
+[10016]
+<tibetan>།འདི་དག་ཀྱང་ངོ་སྤྲོད་པའི་དུས་སུ་མཆོད་གཏོར་དང༌།
+<literal>/this plural also introduction time offerings and */
+<liturgical><prose>At time of giving all these introductions: offering torma,
+
+[10017]
+<tibetan>ཚོགས་ཀྱི་ཡོ་བྱད་བཟང་པོ་བཤམས་ལ།
+<literal>collection-of material excellent arrange/
+<liturgical><prose>Arrange good collection materials,
+
+[10018]
+<tibetan>ཆས་གོས་དང་གནས་ཁང་འཛོམ་པར་གཟབས་ལ་བྱའོ།
+<literal>clothing and dwelling prepare should/
+<liturgical><prose>Should be careful gathering implements, clothes, and dwelling.
+
+[10019]
+<tibetan>།ངོ་སྤྲོད་སྤྲས་པའི་རྒྱུད་ལས།
+<literal>/introduction ornament tantra from/
+<liturgical><tantra>From Introduction Ornament Tantra:
+
+[10020]
+<tibetan>དེ་ནས་སྐལ་ལྡན་རྗེས་འཇུག་རྣམས།
+<literal>that after suitable vessel recipient plural/
+<liturgical><prose>Then, all fortunate followers,
+
+[10021]
+<tibetan>།རང་གི་ངོ་བོ་བལྟ་བའི་ཕྱིར།
+<literal>/self-of nature look-for/
+<liturgical><prose>For looking at self's essence:
+
+[10022]
+<tibetan>།གནས་ཁང་ཕྱོགས་ནི་ཕྱེད་པར་ཡང༌།
+<literal>/dwelling direction half and */
+<liturgical><prose>Dwelling direction to half, || 310 ||
+
+[10023]
+<tibetan>།བུ་ག་ཉི་མའི་ཟེར་ལྡན་ལ།
+<literal>/hole sun-of ray possess/
+<liturgical><prose>To aperture possessing sun's light-ray,
+
+[10024]
+<tibetan>།གསལ་བྱེད་མེ་ལོང་ཕྱར་བ་ཡིས།
+<literal>/clear make mirror raise-by-means-of/
+<liturgical><prose>By extending clear-making mirror,
+
+[10025]
+<tibetan>།འོད་ལྔ་ཕྱིར་བྱུང་མཐོང་བ་ཡིན།
+<literal>/light five outside arise see is/
+<liturgical><prose>See five lights coming outside.
+
+[10026]
+<tibetan>།མིག་གི་སྟེང་དུ་མཁས་པས་དེ་བཞག་ནས།
+<literal>/eye-of top intelligent that place-from/
+<liturgical><prose>Skillfully place that on eye's top,
+
+[10027]
+<tibetan>།རང་འོད་གསལ་བའི་ཕྱི་ཡང་མཐོང་བའོ།
+<literal>/self light clear outside also see/
+<liturgical><prose>See also outer self-light clear.
+
+[10028]
+<tibetan>།རྗེས་འཇུག་གཡོན་པའི་ཟུར་གྱིས་གཅིག་ལ་གཅིག་བལྟས་ན།
+<literal>/disciple left-by-means-of corner-by-means-of one-to one look/
+<liturgical><prose>If followers look one to one by left corner,
+
+[10029]
+<tibetan>།བར་གྱི་འབྲེལ་ཐག་ཟེར་གྱི་སྣང་བ་མཐོང༌།
+<literal>/between relate thread ray-of appearance see */
+<liturgical><prose>See appearance of interval's connecting ray.
+
+[10030]
+<tibetan>།ཡང་ན་མིག་གི་སྟེང་དུ་འོད་བཞག་ནས།
+<literal>/also eye-of top light place-from/
+<liturgical><prose>Or, placing light on eye's top,
+
+[10031]
+<tibetan>།ཡང་ནི་གཅིག་གིས་གཅིག་ལ་བལྟས་པ་ན།
+<literal>/also one-by-means-of one-to look time/
+<liturgical><prose>Or, when one looks to one,
+
+[10032]
+<tibetan>།སྐུ་གསུམ་གཅིག་ཏུ་འབྲེལ་བའི་ཚུལ་ཡང་མཐོང༌།
+<literal>/body three one-to relate method also see */
+<liturgical><prose>See also manner of three bodies connecting as one. || 320 ||
+
+[10033]
+<tibetan>།མར་མེའི་སྙིང་པོ་ལ་ནི་དེ་ཉིད་ཀྱིས་བལྟས་ན།
+<literal>/butter-lamp essence that self-by-means-of look time/
+<liturgical><prose>Look by that itself to lamp's heart essence,
+
+[10034]
+<tibetan>།ཡེ་ཤེས་སྣང་གསལ་རང་གི་ངོ་ཡང་ཕྲད།
+<literal>/primordial-wisdom clear light self-of nature also meet/
+<liturgical><prose>Meet also self-essence of wisdom appear-clear.
+
+[10035]
+<tibetan>།མཁས་པས་རྡུལ་ཚོན་འགྲམ་དུ་མེ་ལོང་གཉིས།
+<literal>/intelligent color pigment edge mirror two/
+<liturgical><prose>Skillful: two mirrors at dust-color's edge,
+
+[10036]
+<tibetan>།གསལ་བྱེད་མིག་གིས་ཐབས་མཆོག་ཉིད་བལྟས་ན།
+<literal>/clear make eye-by-means-of method supreme self look time/
+<liturgical><prose>Look at supreme method by clear-making eye,
+
+[10037]
+<tibetan>།རིག་པ་མ་བུའི་ཚད་རྣམས་དེ་ཕྲད་ནས།
+<literal>/rigpa mother child-of measure plural that meet-from/
+<liturgical><prose>Having met all measures of awareness mother-son,
+
+[10038]
+<tibetan>།ཆོས་ཉིད་མ་ཡི་ཚད་རྣམས་ཤེས་པ་ཡིན།
+<literal>/dharmata mother-of measure plural know is/
+<liturgical><prose>Is knowing all measures of Dharma-nature mother.
+
+[10039]
+<tibetan>།ཁམས་པའི་གཟུགས་བརྙན་ཁོང་སྟོང་དབང་སྒོ་དོད།
+<literal>/Khampa-of form image inside empty sense door huge/
+<liturgical><prose>Put Khampa's empty center image at sense door,
+
+[10040]
+<tibetan>།ནང་དུ་མར་མེ་བཅུག་སྟེ་ཡེ་ཤེས་སྒོ་ལ་བཟུང༌།
+<literal>/inside butter-lamp put primordial-wisdom door hold */
+<liturgical><prose>Insert lamp within, hold wisdom gate.
+
+[10041]
+<tibetan>།འཁར་ཕོར་ཆུས་བལྟམས་ལེགས་པའི་ནང་ཉིད་བལྟ།
+<literal>/vase water moist good-of inside self look/
+<liturgical><prose>Look within copper vessel well-filled with water,
+
+[10042]
+<tibetan>།ཐིག་ལེ་ཉིད་ཀྱི་རང་ངོ་འཕྲོད་པ་ཡིན།
+<literal>/bindu self-of nature meet is/
+<liturgical><prose>Meet self-essence of bindu itself. || 330 ||
+
+[10043]
+<tibetan>།རས་ཀྱི་སྣམ་བུ་དཀར་དམར་རྣམས་བཀྲམ་ནས།
+<literal>/cloth cloth white red plural spread-from/
+<liturgical><prose>Spread white-red cloth surfaces,
+
+[10044]
+<tibetan>།གསལ་བྱེད་ལྡན་པའི་མིག་གིས་བལྟས་གྱུར་ན།
+<literal>/clear make possess eye-by-means-of look become time/
+<liturgical><prose>If look by eye possessing clear-making,
+
+[10045]
+<tibetan>།ཡེ་ཤེས་རྣམས་ཀྱི་འོད་རྣམས་རང་ངོ་ཕྲད།
+<literal>/primordial-wisdom plural-of light plural self nature meet/
+<liturgical><prose>Meet self-essence of lights of all wisdoms.
+
+[10046]
+<tibetan>།རྒྱ་མཚོ་ལྟེང་ཀ་རྫིང་ངམ་འཁྱིལ་ཆུའི་འགྲམ།
+<literal>/ocean surface pond or whirlpool water edge/
+<liturgical><prose>Ocean pool, pond, or swirl water's edge,
+
+[10047]
+<tibetan>།གསལ་བྱེད་ལྡན་པའི་མིག་གིས་དེ་བལྟས་ན།
+<literal>/clear make possess eye-by-means-of that look time/
+<liturgical><prose>If look by eye possessing clear-making,
+
+[10048]
+<tibetan>།འོད་ཀྱི་གོང་བུས་ནམ་མཁའ་གང་བ་ཡིས།
+<literal>/light-of dome sky fill-by-means-of/
+<liturgical><prose>By light's mass filling sky,
+
+[10049]
+<tibetan>།བར་དོ་དང་པོའི་སྣང་བ་གཏན་ལ་འབེབས།
+<literal>/intermediate first-of appearance certainty establish/
+<liturgical><prose>Establish first intermediate's appearance.
+
+[10050]
+<tibetan>།རྨ་བྱའི་མེ་ལོང་ཉིད་ཀྱི་འཕྲེང་བརྒྱུས་པ།
+<literal>/peacock mirror self-of garland hang-by-means-of/
+<liturgical><prose>Hanging string of peacock mirror itself,
+
+[10051]
+<tibetan>།གསལ་བྱེད་ཐོགས་པའི་མིག་གིས་བལྟས་ན་ནི།
+<literal>/clear make possess eye-by-means-of look time is/
+<liturgical><prose>If look by eye possessing clear-making hold,
+
+[10052]
+<tibetan>།ཐིག་ལེ་འོད་གསལ་ལྡན་པའི་མཐོང་བ་ནི།
+<literal>/bindu light clear possess see is/
+<liturgical><prose>See bindu possessing clear light, || 340 ||
+
+[10053]
+<tibetan>།ཡེ་ཤེས་དགོངས་པ་ཉིད་ཀྱི་ངོ་ཡང་སྤྲད།
+<literal>/primordial-wisdom intent self-of nature also introduce/
+<liturgical><prose>Apply also essence of wisdom intention itself.
+
+[10054]
+<tibetan>།དབྱུག་པ་འཁར་ཕོར་བརྒྱ་བསྒྲིགས་དེ་མགོ་ལ།
+<literal>/stick vase hundred gather that head/
+<liturgical><prose>To head of hundred arranged stirred copper vessels,
+
+[10055]
+<tibetan>།གསལ་བྱེད་ལྡན་པས་གོང་བཞིན་བལྟས་པ་ན།
+<literal>/clear make possess above like look time/
+<liturgical><prose>If look like above by possessing clear-making,
+
+[10056]
+<tibetan>།ཐིག་ལེ་དགུ་བརྩེགས་ཚངས་པའི་དོན་ངོ་སྤྲད།
+<literal>/bindu nine pile Brahma-of meaning introduction/
+<liturgical><prose>Give introduction to nine-stack bindu Brahma's meaning.
+
+[10057]
+<tibetan>།རིགས་ལྔའི་འདྲ་འབག་ཐང་ལ་བཞག་ནས་ནི།
+<literal>/family five-of mask field place-from is/
+<liturgical><prose>Placing five-family image cloth,
+
+[10058]
+<tibetan>།གསལ་བྱེད་ལྡན་པས་གོང་བཞིན་བལྟས་པ་ན།
+<literal>/clear make possess above like look time/
+<liturgical><prose>If look like above by possessing clear-making,
+
+[10059]
+<tibetan>།ནམ་མཁའི་དབྱིངས་ཉིད་དུ་ནི་གཟུགས་ཀྱི་སྐུ།
+<literal>/sky expanse self-in form-of body/
+<liturgical><prose>Form body in sky's space itself,
+
+[10060]
+<tibetan>།སྣང་བ་ཉིད་ནི་ཉམས་ཀྱི་དགོངས་པའོ།
+<literal>/appearance self experience-of intent/
+<liturgical><prose>Appearance itself is intention of experience.
+
+[10061]
+<tibetan>།སྐྱེས་བུ་རྒྱན་ལྡན་རང་གི་མདུན་བཞག་སྟེ།
+<literal>/person ornament possess self-of front place/
+<liturgical><prose>Placing ornament-possessing human before self,
+
+[10062]
+<tibetan>།གསལ་བྱེད་ལྡན་པའི་མིག་གིས་བལྟས་པ་ན།
+<literal>/clear make possess eye-by-means-of look time/
+<liturgical><prose>If look by eye possessing clear-making, || 350 ||
+
+[10063]
+<tibetan>།འོད་ཀྱི་སྐུ་ནི་འགྲོ་འོང་ཟེར་དང་བཅས།
+<literal>/light-of body move come ray and possess/
+<liturgical><prose>Light body with move-come rays,
+
+[10064]
+<tibetan>།དེ་ཉིད་མཐོང་བས་ལོངས་སྐུ་རང་རྐྱང་སྣང༌།
+<literal>/that self see-by-means-of enjoyment body self alone appear */
+<liturgical><prose>See self-single enjoyment body by seeing that.
+
+[10065]
+<tibetan>།རིག་པ་གཞོན་ནུ་བུམ་པའི་སྐུ་ཞེས་བྱ།
+<literal>/rigpa youth vase body called/
+<liturgical><prose>Called awareness youth vase body.
+
+[10066]
+<tibetan>།ཡང་ནི་སྣང་བ་མེད་པའི་ཁྱིམ་དག་ཏུ།
+<literal>/also appearance non-existent house that-in/
+<liturgical><prose>Also in house without appearance,
+
+[10067]
+<tibetan>།སྐྱེས་བུ་ཁ་དོག་ནག་པ་རབ་བརྒྱན་པ།
+<literal>/person color black excellent ornament/
+<liturgical><prose>Human well adorned with black color,
+
+[10068]
+<tibetan>།རང་གི་མདུན་དུ་གོང་བཞིན་བཞག་ནས་ནི།
+<literal>/self-of front above like place-from is/
+<liturgical><prose>Placing like above before self,
+
+[10069]
+<tibetan>།གསལ་བྱེད་ལྡན་པའི་མིག་གིས་བལྟས་ན་ནི།
+<literal>/clear make possess eye-by-means-of look time is/
+<liturgical><prose>If look by eye possessing clear-making,
+
+[10070]
+<tibetan>།ཁྲོ་སྐུ་འཇིགས་པའི་གཟུགས་བརྙན་ནམ་མཁར་ནི།
+<literal>/wrath body terrifying-of form image sky-in is/
+<liturgical><prose>Fearful wrathful body image in sky.
+
+[10071]
+<tibetan>།འགྲོ་དང་འོང་དང་རྟགས་དང་བཅས་པར་མཐོང༌།
+<literal>/move come sign-with together see
+
+[10072]
+<tibetan>།ལོངས་སྤྱོད་ཁྲོ་སྐུའི་ངོ་བོ་བསྟན་པའོ།
+<literal>/enjoyment wrathful body essence demonstrate
+<liturgical><prose>|| 360 ||
+
+[10073]
+<tibetan>།རིག་པ་ཉིད་ནི་གཞོན་ནུ་ཁྲོ་གཉེར་ཅན།
+<literal>/awareness itself youth wrathful frown possess
+
+[10074]
+<tibetan>།དཔའ་བོ་ཉིད་ནི་སྟོབས་དང་ལྡན་པར་བསྟན།
+<literal>/hero itself power-with endowed demonstrate
+
+[10075]
+<tibetan>།སྐྱེས་བུ་རྒྱན་ལྡན་བྱེད་སྣང་མཚམས་འདུག་སྟེ།
+<literal>/human ornament possess action appear interval abide
+
+[10076]
+<tibetan>།གསལ་ཕྱེད་ལྡན་པས་གོང་བཞིན་བལྟས་པ་ན།
+<literal>/clear half possess-by above like look time
+
+[10077]
+<tibetan>།སེམས་དཔའ་ཉིད་ཀྱི་བཞུགས་ཚུལ་ངོ་སྤྲད་ནས།
+<literal>/being itself-of abide manner introduction give having
+
+[10078]
+<tibetan>།སྐུ་ཕྱེད་བསྟན་པས་འདྲ་འབག་ཉིད་ལ་ཕྲད།
+<literal>/body half demonstrate image itself meet
+
+[10079]
+<tibetan>།ཤེལ་ལས་བྱས་པའི་ལུགས་སྐུ་ཕྱག་གང་བ།
+<literal>/crystal make custom body hand fill
+
+[10080]
+<tibetan>།རྣལ་འབྱོར་ལྡན་པས་གཡོན་པས་བཟུང་ནས་ནི།
+<literal>/yogin possess left-by hold having
+
+[10081]
+<tibetan>།གསལ་བྱེད་ལྡན་པས་ཡང་ནི་དེ་བལྟས་ན།
+<literal>/vajra essence-by-means-of body speech mind-by-means-of establish
+
+[10082]
+<tibetan>།ཤིན་ཏུ་འོད་དང་ལྡན་པའི་སྐུ་མཐོང་བར།
+<literal>/vajra holder blessing-by-means-of introduction
+<liturgical><prose>|| 370 ||
+
+[10083]
+<tibetan>།སྐུ་ཕྱེད་ཉིད་ཀྱིས་སེམས་མའི་རང་ངོ་ཕྲད།
+<literal>/mirror clear water essence-by-means-of gazing
+
+[10084]
+<tibetan>།གསལ་བྱེད་སྣང་བ་མཉམ་ཉིད་སྐུ་ཞེས་བྱ།
+<literal>/lamp essence clear light-by-means-of shine
+
+[10085]
+<tibetan>།སྐལ་ལྡན་གཉིས་ཀ་རྒྱན་གྱིས་རབ་བརྒྱན་ཏེ།
+<literal>/butter-lamp self-of light clear-by-means-of dwell
+
+[10086]
+<tibetan>།གསལ་བྱེད་ལྡན་པའི་མིག་གིས་མཚན་ཚུན་བལྟ།
+<literal>/color pigment light-by-means-of clear make
+
+[10087]
+<tibetan>།ཡབ་དང་ཡུམ་གྱི་ངོ་བསྟན་ཡེ་ཤེས་བཟུང༌།
+<literal>/vase water essence bindu-by-means-of moist
+
+[10088]
+<tibetan>།མཉམ་ཉིད་ཁ་སྦྱོར་དགོངས་པ་ཞེས་བྱའོ།
+<literal>/rainbow light essence appear-by-means-of clear
+
+[10089]
+<tibetan>།དེ་གཉིས་བར་དུ་སྐྱེས་བུ་རྒྱན་དང་ལྡན།
+<literal>/ocean water essence wave-by-means-of move
+
+[10090]
+<tibetan>།གསུམ་གཉིས་གཅིག་བལྟས་སྐུ་གསུམ་རང་ངོ་སྤྲད།
+<literal>/peacock feather essence color-by-means-of shine
+
+[10091]
+<tibetan>།སྐུ་གསུམ་རང་འཇུག་དགོངས་པ་ཞེས་བྱའོ།
+<literal>/crystal mirror essence clear-by-means-of dwell
+
+[10092]
+<tibetan>།ཡང་ནི་སྐྱེས་བུ་རྒྱན་ལྡན་གཉིས་ཀྱི་བར།
+<literal>/nine pith body essence-by-means-of show
+<liturgical><prose>|| 380 ||
+
+[10093]
+<tibetan>།རྟ་རྔ་དག་ལ་སྒོ་ང་གཉིས་བརྒྱུས་ཏེ།
+<literal>/five family mask essence-by-means-of display
+
+[10094]
+<tibetan>།ནམ་མཁའི་ཐད་དུ་གཉིས་ཀས་རབ་བཟུང་ནས།
+<literal>/sky expanse essence form-by-means-of appear
+
+[10095]
+<tibetan>།གསལ་བྱེད་ལྡན་པའི་མིག་གིས་བལྟས་ན་ནི།
+<literal>/light body essence move-by-means-of come
+
+[10096]
+<tibetan>།རབ་ཏུ་ཐིག་ལེ་ཟེར་དང་ལྡན་པ་མཐོང༌།
+<literal>/wrathful body essence terrifying-by-means-of appear
+
+[10097]
+<tibetan>།ཡབ་ཡུམ་སྦྱོར་བའི་བྱང་ཆུབ་སེམས་ངོས་བཟུང༌།
+<literal>/seven introduction essence example-by-means-of show
+
+[10098]
+<tibetan>།གཉིས་མེད་གསང་སྦྱོར་ཞེས་བྱའི་དགོངས་པའོ།
+<literal>/introduction time essence offerings-by-means-of arrange
+
+[10099]
+<tibetan>།དབྱུག་པ་ཡང་ནི་ནམ་མཁར་བསླང་བྱས་ཏེ།
+<literal>/dwelling place essence prepare-by-means-of should
+
+[10100]
+<tibetan>།ཁ་དོག་མི་མཐུན་དར་གྱི་འུར་ལྕེ་ཕྱར།
+<literal>Color mismatch silk tongue flutter
+
+[10101]
+<tibetan>།གསལ་བྱེད་ལྡན་པས་ཡང་ནི་བལྟས་པ་ན།
+<literal>Clear make possess again look time
+
+[10102]
+<tibetan>།ཡེ་ཤེས་བསྐྱོད་པའི་ནང་རླུང་རང་ངོ་ཕྲད།
+<literal>Wisdom move possess inner wind self meet
+<liturgical><prose>|| 390 ||
+
+[10103]
+<tibetan>།གནས་པ་རླུང་འཛིན་ཞེས་བྱའི་དགོངས་པའོ།
+<literal>Abide wind hold called intention
+
+[10104]
+<tibetan>།སྐུ་ནི་ཁ་དོག་དམར་སེར་ལྗང་དང་མཐིང༌།
+<literal>Body color red yellow green blue
+
+[10105]
+<tibetan>།ཁ་དོག་དཀར་དམར་སྣམ་བུ་བལྟས་ན།
+<literal>Color white red cloth look
+
+[10106]
+<tibetan>།རིགས་ལྔ་སོ་སོའི་སྐུ་ཡང་རང་ངོ་འཕྲོད།
+<literal>Family five individual body self meet
+
+[10107]
+<tibetan>།རིགས་རྣམས་འབྱེད་པ་ཞེས་བྱའི་ངོ་སྤྲོད་དོ།
+<literal>Family plural distinguish called introduction
+
+[10108]
+<tibetan>།ཤིང་གི་བར་སྣང་ཕྱོགས་བཞི་སྟེང་འོག་ཏུ།
+<literal>Tree interval space direction four above below
+
+[10109]
+<tibetan>།མུ་ཏིག་ལ་སོགས་ཕྲེང་བས་ཡོངས་བསྐོར་ཏེ།
+<literal>Pearl etc. garland complete surround
+
+[10110]
+<tibetan>།གསལ་བྱེད་ལྡན་པའི་མིག་གིས་ཡང་བལྟས་ན།
+<literal>Clear make possess eye again look
+
+[10111]
+<tibetan>།དྲ་བ་དང་ནི་དྲ་བ་ཕྱེད་པ་ཡང༌།
+<literal>Net and net half also
+
+[10112]
+<tibetan>།ཤིན་ཏུ་གསལ་བའི་འོད་ཀྱིས་རྣམ་སྤྲས་ཏེ།
+<literal>Very clear light decorate
+<liturgical><prose>|| 400 ||
+
+[10113]
+<tibetan>།སྟེང་འོག་ཕྱོགས་མཚམས་རྣམས་ནི་གསལ་བར་མཐོང༌།
+<literal>Above below direction center clear see
+
+[10114]
+<tibetan>།རིགས་ལྔའི་དྲ་བ་ཉིད་ལ་ངོ་སྤྲད་པས།
+<literal>Family five net introduction give
+
+[10115]
+<tibetan>།གཞལ་ཡས་རང་སྟོན་ཞེས་བྱའི་ངོ་སྤྲོད་དོ།
+<literal>Measureless palace self show called introduction
+
+[10116]
+<tibetan>།ཡང་ནི་གནས་ཁང་ཕྱོགས་ནི་ཕྱེད་པ་རུ།
+<literal>Again dwelling place direction half
+
+[10117]
+<tibetan>།ཕྱོགས་བཞིར་སྐར་ཁུང་དབུས་ཀྱི་མཐོངས་དང་བཅས།
+<literal>Direction four window center together
+
+[10118]
+<tibetan>།རང་འོད་ལྷ་ཡི་གཟུགས་བརྙན་ལེགས་བྲིས་ལ།
+<literal>Self light god image well draw
+
+[10119]
+<tibetan>།ལོགས་ལ་བཀྲམ་སྟེང་དབུས་སུ་དམར་པོ་ཕྱུང༌།
+<literal>Side spread above below center red emit
+
+[10120]
+<tibetan>།འོད་དང་ལྡན་པའི་རྫས་རྣམས་བཀྲམ་ནས་ནི།
+<literal>Light possess substance plural spread
+
+[10121]
+<tibetan>།དེ་ཡི་འོད་རྣམས་རང་འོད་ལྷ་དང་སྦྱར།
+<literal>/vase water essence look good inside
+
+[10122]
+<tibetan>།དེ་ཉིད་བལྟ་ཞིང་བློ་ལ་གོམས་པར་བྱ།
+<literal>/bindu self essence nature meet
+<liturgical><prose>|| 410 ||
+
+[10123]
+<tibetan>།དེ་ལྟར་བྱང་ན་ལྷ་དང་མཉམ་པར་གནས།
+<literal>/cloth red white essence spread-from
+
+[10124]
+<tibetan>།མེ་ཏོག་སྣོད་བཀང་རང་གི་མདུན་བཞག་སྟེ།
+<literal>/clear eye essence look time
+
+[10125]
+<tibetan>།གསལ་བྱེད་ལྡན་པའི་མིག་གིས་ཡང་བལྟས་ན།
+<literal>/primordial wisdom light essence nature meet
+
+[10126]
+<tibetan>།ཚོམ་བུ་རྣམས་དང་རང་ངོ་ཕྲད་པ་ཡིན།
+<literal>/ocean surface essence pond edge
+
+[10127]
+<tibetan>།དེ་ཡི་ཕྱིར་ན་འདི་ལ་སུས་གོམས་པ།
+<literal>/clear eye essence look time
+
+[10128]
+<tibetan>།བར་དོ་ལ་ནི་སྣང་བ་ཕ་རོལ་ལོ།
+<literal>/light dome essence sky fill
+
+[10129]
+<tibetan>།ཞེས་སོ།
+<literal>/intermediate first essence appearance establish
+
+[10130]
+<tibetan>།དེ་ལྟར་རྒྱས་པ་ཉི་ཤུ་རྩ་གཅིག་ནི།
+<literal>/peacock mirror essence garland hang
+
+[10131]
+<tibetan>།བློ་སྤྲོས་པ་ཆེ་བ་རྣམས་ཀྱི་དོན་དུ་བསྟན།
+<literal>Intelligence elaboration great plural purpose demonstrate
+
+[10132]
+<tibetan>སྤྲོས་པ་འབྲིང་རྣམས་ལ་འོད་ལ་ནང་འོད་དང་ཕྱིར་སྣང་གཉིས།
+<literal>Elaboration middle all-to light-to interior light-and outer appear two
+<liturgical><prose>To all middling elaboration: at light, two—interior light and outer appearance. || 420 ||
+
+[10133]
+<tibetan>ཡེ་ཤེས་ལ་ངོ་བོ་རང་བཞིན་ཐུགས་རྗེ་གསུམ།
+<literal>Wisdom-to essence nature compassion three
+<liturgical><prose>At wisdom, three—essence, nature, compassion.
+
+[10134]
+<tibetan>སྐུ་ལ་རང་རྐྱང་ཡབ་ཡུམ།
+<literal>Body-to self single father mother
+<liturgical><prose>At body: self-single, father-mother.
+
+[10135]
+<tibetan>ཚོམ་བུ་གསུམ།
+<literal>Collection three
+<liturgical><prose>Three collections.
+
+[10136]
+<tibetan>ཐིག་ལེ་ལ་གཞི་ལམ་འབྲས་བུ་གསུམ།
+<literal>Bindu-to base path fruit three
+<liturgical><prose>At bindu: three—base, path, fruit.
+
+[10137]
+<tibetan>རིག་པ་ལ་གཞི་གནས་དང་མཚན་ཉིད་འཛིན་པ་ཡུལ་སྣང་གསུམ།
+<literal>Awareness-to base abide-and characteristic hold field appear three
+<liturgical><prose>At awareness: three—base-abiding, characteristic-holding, field-appearance.
+
+[10138]
+<tibetan>དབྱིངས་ལ་ཕྱི་ནང་གཉིས་ཏེ་ངོ་སྤྲོད་ཀྱི་རྣམ་གྲངས་བཅུ་དྲུག་གིས་བསྟན་ལ།
+<literal>Space-to outer inner two introduction-of enumeration sixteen-by demonstrate
+<liturgical><prose>At space: two—outer, inner; demonstrating by sixteen enumeration of introduction.
+
+[10139]
+<tibetan>སྤྲོས་པ་ཆུང་བ་རྣམས་ལ་དཔེ་དང་དོན་དང་རྟགས་གསུམ།
+<literal>Elaboration small all-to example-and meaning-and sign three
+<liturgical><prose>To all small elaboration: three—example, meaning, sign.
+
+[10140]
+<tibetan>ཤིན་ཏུ་སྤྲོས་པ་དང་བྲལ་བ་རྣམས་ལ་མངོན་སུམ་ཉག་གཅིག་གི་སྣང་བས་ངོ་འཕྲོད་པ་ཡིན་ཏེ།
+<literal>Very elaboration-from free all-to manifest single-of appear-by essence meet indeed
+<liturgical><prose>To all very free from elaboration: meeting essence by manifest single appearance.
+
+[10141]
+<tibetan>དེ་ཉིད་ལས།
+<literal>That-from
+<liturgical><tantra>From that same source:
+
+[10142]
+<tibetan>ཆེན་པོ་རྣམས་ཀྱི་དོན་དུ་ནི།
+<literal>Great all-of purpose indeed
+<liturgical><prose>For purpose of all great ones, || 430 ||
+
+[10143]
+<tibetan>།ངོ་སྤྲོད་ཉི་ཤུ་རྩ་གཅིག་གིས།
+<literal>Introduction twenty-one-by
+<liturgical><prose>By twenty-one introductions,
+
+[10144]
+<tibetan>།དེ་ཉིད་ཕྱི་ལས་ནང་དུ་བསྡུས།
+<literal>That outer-from inner-to gather
+<liturgical><prose>Gather that from outer to inner.
+
+[10145]
+<tibetan>།ཡང་བསྡུས་པ་ནི་འདི་དག་གོ
+<literal>Also gather indeed this all
+<liturgical><break><prose> Also gathered: these all.
+
+[10146]
+<tibetan>།འོད་ལ་གཉིས་ཏེ་ཡེ་ཤེས་གསུམ།
+<literal>Light-to two wisdom three
+<liturgical><break><prose> At light, two; at wisdom, three.
+
+[10147]
+<tibetan>།སྐུ་ལ་གསུམ་བསྟན་ཐིག་ལེ་གསུམ།
+<literal>Body-to three demonstrate bindu three
+<liturgical><prose>At body, three demonstrated; at bindu, three.
+
+[10148]
+<tibetan>།རིག་པ་གསུམ་སྟེ་དབྱིངས་ལ་གཉིས།
+<literal>Awareness three space-to two
+<liturgical><prose>Awareness, three; at space, two.
+
+[10149]
+<tibetan>།དེ་དག་བསྡུས་པའི་དོན་དུའོ།
+<literal>That all gather-of meaning purpose
+<liturgical><prose>For meaning of gathering those all.
+
+[10150]
+<tibetan>།ཤིན་ཏུ་བསྡུས་པ་འདི་དག་གོ
+<literal>Very gather indeed this all
+<liturgical><break><prose> Very gathered: these all.
+
+[10151]
+<tibetan>།དཔེ་དང་རྟགས་དང་དོན་གསུམ་གྱིས།
+<literal>Example-and sign-and meaning three-by
+<liturgical><break><prose> By three: example, sign, meaning,
+
+[10152]
+<tibetan>།རང་བཞི་གནས་པའི་འབྲས་བུ་འཐོབ།
+<literal>Self nature abide-of fruit obtain
+<liturgical><prose>Obtain fruit of abiding self-nature. || 440 ||
+
+[10153]
+<tibetan>།ཕྱག་རྒྱ་ལྷ་ཡི་རྣལ་འབྱོར་འཇུག
+<literal>Mudra god-of yogin enter
+<liturgical><break><prose> Enter god's yogin mudra,
+
+[10154]
+<tibetan>།མཚན་མ་ཅན་གྱི་དོན་དུའོ།
+<literal>Sign possess-of meaning purpose
+<liturgical><break><prose> For meaning of sign-possessing.
+
+[10155]
+<tibetan>།སྤྲོས་བྲལ་ཉག་གཅིག་དགོངས་པ་ནི།
+<literal>Elaboration free single intention indeed
+<liturgical><prose>Intention of single elaboration-free:
+
+[10156]
+<tibetan>།དེ་དག་རྣམས་ཀྱི་འཛིན་པ་བྲལ།
+<literal>That all-of hold free
+<liturgical><prose>Free holding of all those.
+
+[10157]
+<tibetan>།སྨིན་པས་སྨིན་པ་ལམ་དུ་བྱེད།
+<literal>Ripen having ripen path-as make
+<liturgical><prose>Make ripening having ripened as path.
+
+[10158]
+<tibetan>།མངོན་སུམ་རྒྱུན་དུ་གནས་པ་ལ།
+<literal>Manifest continuum-by abide-to
+<liturgical><prose>To abiding by manifest continuum,
+
+[10159]
+<tibetan>།སྙིང་པོ་རང་གིས་རང་མཐོང་བས།
+<literal>Heart essence self-by self see having
+<liturgical><prose>By self seeing self heart-essence,
+
+[10160]
+<tibetan>།གཞན་རྩོལ་རྣམས་ཀྱིས་ཅི་ཞིག་བྱ།
+<literal>Other effort all-by what do
+<liturgical><prose>What do by all other efforts?
+
+[10161]
+<tibetan>།འདི་ཉིད་ལ་ནི་གོམས་པར་བྱའོ།
+<literal>This itself-to familiar should
+<liturgical><prose>Should familiarize with this itself.
+
+[10162]
+<tibetan>།ཞེས་གསུངས་སོ།
+<literal>Thus speak
+<liturgical><prose>Thus it is spoken. || 450 ||
+
+[10163]
+<tibetan>།ལུང་ནང་འགལ་སྤང་བ་ནི།
+<literal>Scripture inner contradict abandon indeed
+<liturgical><prose>Abandoning inner scriptural contradiction:
+
+[10164]
+<tibetan>ནོར་བུ་འཕྲ་བཀོད་ལས།
+<literal>Jewel Intricate-Display from
+<liturgical><tantra>From Jewel Intricate Display:
+
+[10165]
+<tibetan>ཀྱེ་མ་རིགས་ཀྱི་བུ་ང་ཡོངས་སུ་མྱ་ངན་ལས་འདས་པའི་འོག་ཏུ།
+<literal>Alas Buddha-family son I complete nirvana-from pass after
+<liturgical><prose>Alas, Buddha-family son, after I completely pass from nirvāṇa,
+
+[10166]
+<tibetan>དུས་ཀྱི་སྙིགས་མ་ལྔ་བརྒྱའི་དུས་སུ།
+<literal>Time-of degeneration five hundred-of time-at
+<liturgical><prose>At the time of five hundred degenerations,
+
+[10167]
+<tibetan>བསླུ་བྲིད་བྱིས་པའི་ངང་ཚུལ་ཅན་དག་གིས།
+<literal>Deceive child-of nature possess all-by
+<liturgical><prose>By those possessing deceiving child's nature,
+
+[10168]
+<tibetan>སངས་རྒྱས་ཀྱི་དགོངས་པ་དཔེ་ལ་ཡིད་ཆེས་བྱེད་པའི་དུས་འབྱུང་སྟེ།
+<literal>Buddha-of intention example-to confidence make-of time arise
+<liturgical><prose>The time arises of making confidence in Buddha's intention through example.
+
+[10169]
+<tibetan>དེའི་ཚེ་རང་གི་རྒྱུད་གསང་བ་འདི་འབྱུང་བ་ཡིན་ནོ།
+<literal>That time self-of tantra secret this arise indeed
+<liturgical><prose>At that time, this secret tantra of self arises.
+
+[10170]
+<tibetan>།ཡང་དག་པའི་རིག་པ་ཉིད་ལ་དཔེས་མཚོན་དུ་མེད་དོ།
+<literal>True awareness itself-to example demonstrate not-exist
+<liturgical><prose>True awareness itself cannot be demonstrated by example.
+
+[10171]
+<tibetan>།རང་བཞིན་གྱི་འོད་ལྔ་རང་ཆས་སུ་ཡོད་པ་ལ།
+<literal>Nature-of light five self nature-as exist-to
+<liturgical><prose>To five lights of nature existing as self-nature,
+
+[10172]
+<tibetan>གཟུགས་བརྙན་གྱི་འོད་ལྔ་བསྟན་ཡང་སངས་རྒྱ་བར་མི་འགྱུར་རོ་ཞེས་བཤད་པས།
+<literal>Image-of light five demonstrate also Buddha become not
+<liturgical><prose>Though demonstrating five lights of image, will not become Buddha. || 460 ||
+
+[10173]
+<tibetan>དཔེའི་ངོ་སྤྲོད་བཀག་པ་མ་ཡིན་ནམ་ཞེ་ན།
+<literal>Example introduction block not question
+<liturgical><prose>Question: Is example introduction not blocked?
+
+[10174]
+<tibetan>དེ་ནི་རིག་པ་མངོན་སུམ་གྱི་དོན་མ་མཐོང་བར་ཡིད་དཔྱོད་འཛིན་པས་རིག་པའི་དཔེ་འདི་འདྲའོ་ཞེས་ལ་ལས་ནམ་མཁའ་དང༌།
+<literal>That awareness manifest-of meaning not see mind examine hold-by awareness example this like some-by sky-and
+<liturgical><prose>That is: without seeing meaning of manifest awareness, mind-examining-holding—some say awareness's example is like this, like sky;
+
+[10175]
+<tibetan>ལ་ལས་འབྱུང་བ་ཐ་དད་པ་དང༌།
+<literal>Some-by element different-and
+<liturgical><prose>Some say different elements;
+
+[10176]
+<tibetan>ལ་ལས་འོད་དང༌།
+<literal>Some-by light-and
+<liturgical><prose>Some say light;
+
+[10177]
+<tibetan>ལྷའི་སྐུས་མཚོན་པ།
+<literal>God body-by demonstrate
+<liturgical><prose>Demonstrate by god's body.
+
+[10178]
+<tibetan>ཐུན་མོང་གི་ཐེག་པ་སྤྱི་དང༌།
+<literal>Common vehicle general-and
+<liturgical><prose>Common vehicle general,
+
+[10179]
+<tibetan>ཕྱི་ནང་གསང་བའི་ཆ་ཁ་ཅིག་ལ་དམན་པ་དག་པའི་རང་བཞིན་ཙམ་དུ་མཛད་དེ།
+<literal>Outer inner secret portion some-to low pure nature only make having
+<liturgical><prose>Making only pure nature of low for some portions of outer-inner secret,
+
+[10180]
+<tibetan>དགག་གཞི་རིག་པ་ཀ་དག་ལ།
+<literal>Negate base awareness primordially-pure-to
+<liturgical><prose>To negate base of primordially pure awareness,
+
+[10181]
+<tibetan>།དངོས་པོ་རང་མཚན་པར་ཞེན་པ་དགག་པའི་ཕྱིར་གསུངས་པ་ཡིན་ལ།
+<literal>Thing self-characteristic grasp negate cause speak indeed
+<liturgical><prose>Is spoken for negating grasping at thing's self-characteristic.
+
+[10182]
+<tibetan>གསང་བ་སྙིང་ཏིག་གི་དོན་མཚོན་པའི་སྐབས་འདིར།
+<literal>Secret heart essence meaning demonstrate occasion this-at
+<liturgical><prose>At this occasion demonstrating meaning of secret heart essence, || 470 ||
+
+[10183]
+<tibetan>དཔེ་ཇི་ཙམ་བསྟན་ཡང་གོལ་ས་དང༌།
+<literal>Example how-much demonstrate also deviation-and
+<liturgical><prose>However much demonstrating example, no deviation,
+
+[10184]
+<tibetan>ཞེན་ས་མེད་དེ།
+<literal>Grasp place not-exist
+<liturgical><prose>No grasping place.
+
+[10185]
+<tibetan>རིག་པ་མངོན་སུམ་མཐོང་བ་དག་གིས་དེའི་གྲོགས་ཙམ་དུ་ངོ་སྤྲོད་ཀྱང༌།
+<literal>Awareness manifest see all-by that helper only introduction give also
+<liturgical><prose>Those seeing manifest awareness, though introduction only as that's helper,
+
+[10186]
+<tibetan>སླར་ངོ་བོ་དང༌།
+<literal>Again essence-and
+<liturgical><prose>Again essence,
+
+[10187]
+<tibetan>མཆེད་པ་དང༌།
+<literal>Expand-and
+<liturgical><prose>Expansion,
+
+[10188]
+<tibetan>ཐིམ་ཚུལ་གྱིས་མེན་ཤེལ་ལྟར་ཀ་དག་ཟང་ཐལ་ཆེན་པོ་ཁོ་ན་ཤེལ་གོང་དག་པས་མཚོན་པའི་ཕྱིར།
+<literal>Dissolve manner-by crystal like primordially-pure open great only crystal above pure-by demonstrate cause
+<liturgical><prose>By dissolve manner, like crystal, great open primordially pure—demonstrate by crystal above pure,
+
+[10189]
+<tibetan>འཐད་པ་དང་བཅས་པ་ཡིན་ལ།
+<literal>Suitability-with together indeed
+<liturgical><prose>With suitability.
+
+[10190]
+<tibetan>འདི་ཙམ་ཞིག་རྒྱུད་དེར་ཡང་མཚོན་པ་དེར་གསུངས་ཏེ།
+<literal>This little tantra that-also demonstrate that speak
+<liturgical><prose>That tantra also demonstrates this little, speaks thus.
+
+[10191]
+<tibetan>དེ་ཉིད་ལས།
+<literal>That-from
+<liturgical><tantra>From that same source:
+
+[10192]
+<tibetan>རྡོ་རྗེ་སེམས་དཔའི་མཚོན་དཔེ་ནི།
+<literal>Vajra-Mind indicative-example
+<liturgical><prose>Indicative example of Vajra-Mind: || 480 ||
+
+[10193]
+<tibetan>ཁ་དོག་དཀར་པོ་ཟླ་བའི་མདོག
+<literal>Color white moon-of color
+<liturgical><break><prose> White color, moon's color,
+
+[10194]
+<tibetan>ཅེས་པ་ལ་སོགས་པས་དཔེ་རྟགས་དོན་གསུམ་གྱིས་རིག་པ་མཚོན་ནས།
+<literal>Thus etc.-by example sign meaning three-by awareness demonstrate having
+<liturgical><break><prose> Etc., thus demonstrating awareness by three: example, sign, meaning,
+
+[10195]
+<tibetan>སྐྱེད་མེད་འགག་མེད་ཟང་ཐལ་ཀློང་ཡངས་པར་བསྟན་པ་ཡིན་ནོ།
+<literal>Birth without cease without open expanse demonstrate indeed
+<liturgical><prose>Demonstrating birthless, ceaseless, open expanse.
+
+[10196]
+<tibetan>།དེ་ནས་དབང་པོ་དང་མཐུན་པར་ངོ་སྤྲོད་པ་འདི་ནི།
+<literal>Then sense-power-with suitable introduction give this indeed
+<liturgical><prose>Then this introduction suitable to sense-power:
+
+[10197]
+<tibetan>ཉམས་ལེན་ལག་ཁྲིད་དང་བཅས་པ་སྟེ།
+<literal>Experience take hand guidance-with together indeed
+<liturgical><prose>With experience-taking hand-guidance,
+
+[10198]
+<tibetan>གོལ་ས་དང་འཆུགས་ས་མེད་པ།
+<literal>Deviation place-and stagnate place without
+<liturgical><prose>Without deviation place, without stagnate place,
+
+[10199]
+<tibetan>སྙན་བརྒྱུད་དང་ཕྱག་བཞེས་འཛོམ་པ།
+<literal>Ear lineage-and hand gesture together
+<liturgical><prose>Ear lineage and hand gesture together,
+
+[10200]
+<tibetan>ཡིད་ཆེས་དང༌།
+<literal>Confidence-and
+<liturgical><prose>Confidence,
+
+[10201]
+<tibetan>སྒྲོ་འདོགས་ཆོད་པ།
+<literal>Superimposition cut
+<liturgical><prose>Cutting superimposition,
+
+[10202]
+<tibetan>ཚིག་དང་དོན་དུ་འབྲེལ་པ།
+<literal>Word-and meaning-as connect
+<liturgical><prose>Connecting word and meaning. || 490 ||
+
+[10203]
+<tibetan>སངས་རྒྱས་ཀྱི་ཆོས་རྒྱུད་ཀྱི་གནས་སྟོན་པ་ལ་ངོ་སྤྲོད་མཆོག་ཏུ་གསུངས་སོ།
+<literal>Buddha-of Dharma lineage-of place demonstrate introduction supreme speak
+<liturgical><prose>Supreme introduction spoken for demonstrating place of Buddha's Dharma lineage.
+
+[10204]
+<tibetan>།ཐེག་པའི་མཆོག་རིན་པོ་ཆེའི་མཛོད་ལས།
+<literal>### CITATION: Supreme Vehicle Treasury from
+<liturgical><prose>### CITATION: From the Treasury of the Supreme Vehicle,
+
+[10205]
+<tibetan>རྡོ་རྗེའི་གནས་དཀའ་བ་ངོ་སྤྲོད་ལ་བརྟེན་ནས་མཚོན་པ་སྟེ།
+<literal>Vajra place difficult introduction rely having demonstrate
+<liturgical><prose>Demonstrating by relying on difficult introduction of vajra place,
+
+[10206]
+<tibetan>རིམ་ཁང་ཉི་ཤུ་རྩ་གཅིག་པའོ།
+<literal>Chapter twenty-one
+<liturgical><prose>Thus concludes the twenty-first chapter.
+
+[10207]
+<tibetan>།དེ་ལྟར་ཉམས་སུ་བླང་བའི་རིམ་པ་རྒྱ་ཆེར་བསྟན་ནས།
+<literal>Like-that experience take-of sequence extensive demonstrate having
+<liturgical><prose>Thus having extensively demonstrated sequence of taking experience,
+
+[10208]
+<tibetan>།ད་ནི་ཉམས་སུ་ལེན་པ་པོ་རྣལ་འབྱོར་པའི་རྟགས་ངེས་པའི་རིམ་པ་བསྟན་པ་ལ་གསུམ་སྟེ།
+<literal>Now experience take doer yogin-of sign determine sequence demonstrate three indeed
+<liturgical><prose>Now, demonstrating sequence of determining signs of yogin experience-taker has three aspects:
+
+[10209]
+<tibetan>ཚེ་སྔ་མ་ལ་སྦྱངས་པའི་རྟགས་ད་ལྟ་ལུས་ངག་ཡིད་ལ་ཇི་ལྟར་གནས་པའི་དོན་སྤྱིར་བསྟན།
+<literal>Life before-to purify-of sign now body speech mind-to how abide meaning general demonstrate
+<liturgical><prose>Generally demonstrating meaning of how purifying signs in former life now abide in body, speech, mind;
+
+[10210]
+<tibetan>།ད་ལྟ་ལམ་ལ་ཞུགས་པའི་རྟགས་སྒོ་གསུམ་སྣང་བ་དང་བཅས་པ་ལ་འཆར་ལུགས་བྱེ་བྲག་ཏུ་བཤད།
+<literal>Now path-to enter-of sign door three appear-with together arise manner distinction explain
+<liturgical><prose>Explaining distinction of arising manner to three-door appearance possessing signs of now entering path.

@@ -17,7 +17,7 @@ from datetime import datetime
 # -----------------------------------------------------------------------------
 
 INPUT_DIR = Path("../text/frozen/literal")
-OUTPUT_FILE = Path("literal_proof.html")
+OUTPUT_FILE = Path("html/literal_proof.html")
 FILE_PATTERN = re.compile(r"^\d\d-\d\d-\d\d-\d\d\.txt$")
 
 # Regex to parse lines: [LineNum] Content

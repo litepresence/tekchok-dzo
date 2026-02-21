@@ -1,0 +1,3229 @@
+Conduct deep scan and critical honest review of the attached Tibetan Dzogchen translation in light of the literal and liturgical mission statements.
+
+If you have suggestions for specific lines return them in code block in the strict line format:
+
+[line number]<literal or liturgical><<liturgical tags if any>>replacement text
+
+(double line break)
+
+For each entry, eg.
+
+[684]<literal>buddhas-by-means-of dharma teach-and
+[725]<liturgical><prose>The antidote for the three poisons of desire, anger, and delusion is the realization of emptiness.
+
+============================================================
+
+# LITERAL MISSION STATEMENT
+
+## Expected Output: Dense, Concise Literal Translation
+
+The literal layer should provide:
+- Word-by-word or phrase-by-phrase translation closest to Tibetan syntax
+- Technical term consistency (same English term for same Tibetan term)
+- Minimal elaboration - translate what is there, no more
+- Serve as "truth" reference for checking interpretive translations
+- Use compound structures that mirror Tibetan word compounds
+- Preserve Tibetan word order where possible
+- Include Sanskrit loanwords in IAST transliteration when original is Sanskrit
+- Mark Tibetan technical terms in italics or parentheses
+- No theological interpretation or doctrinal elaboration
+- Cadence should feel slightly "awkward" in English - this is a feature, not a bug
+
+============================================================
+
+# LITURGICAL MISSION STATEMENT
+
+## Expected Output: Poetic, Devotional, Oral-Performance Ready
+
+The liturgical layer should provide:
+- Flowing, elegant English that sounds good when chanted or read aloud
+- Proper English grammar and syntax (readable, not literally awkward)
+- Traditional Buddhist terminology in standard English translations
+- Verse/prose formatting with clear break markers
+- Tags indicating vocal performance:
+  - <ornament> - Title markers, colophons, auspicious openings
+  - <break> - Major section transitions
+  - <verse> - Metric lines meant for chanting
+  - <prose> - Explanatory passages for oral delivery
+  - <prayer> - Devotional requests or aspirations
+  - <citation> - Scriptural references or quotations
+- Appropriate honorifics and devotional language
+- Should "come alive" when performed orally
+- Preserves meaning while prioritizing beauty and usability
+
+============================================================
+
+The draft in need of review is:
+
+# Treasury of the Supreme Vehicle: Autocommentary
+# Longchen Rabjampa (1308-1364)
+## Volume 01 - Chapter 1 - Section 01
+## Chapter 1: The Perfect Teacher
+
+[1]
+<tibetan>༄༅།
+<literal>@#/
+<liturgical><ornament>༄༅།
+
+[2]
+<tibetan>།ཡཱནཱགྲརཏྣཀོཥནཱམབིཛཧཱརམྲ།
+<literal>yAnAgraratnakoShanAmavajrAhAra.
+<liturgical><ornament>Yānāgratnakōśanāmavajrāhāra.
+
+[3]
+<tibetan>༄༅།
+<literal>@#/
+<liturgical><ornament>༄༅།
+
+[4]
+<tibetan>།ཐེག་པའི་མཆོག་རིན་པོ་ཆེའི་མཛོད་ཅེས་བྱ་བ་བཞུགས།
+<literal>Supreme-Vehicle Jewel-Treasury named abides*/
+<liturgical><ornament>The Supreme Vehicle's Jewel Treasury herein abides
+
+[5]
+<tibetan>།
+<literal>/
+
+[6]
+<tibetan>༄༅།
+<literal>@#/
+<liturgical><ornament>༄༅།
+
+[7]
+<tibetan>།རྒྱ་གར་སྐད་དུ།
+<literal>Indian language to/in/
+<liturgical><ornament>In the language of India:
+
+[8]
+<tibetan>ཡཱ་ན་གྲ་རཏྣ་ཀོ་ཥ་ནཱ་མ།
+<literal>yAnAgra ratna koSha nA ma/
+<liturgical><ornament>Yānāgraratnakośanāma
+
+[9]
+<tibetan>བོད་སྐད་དུ།
+<literal>Tibetan language to/in/
+<liturgical><ornament>In the language of Tibet:
+
+[10]
+<tibetan>ཐེག་པའི་མཆོག་རིན་པོ་ཆེའི་མཛོད་ཅེས་བྱ་བ།
+<literal>Supreme-Vehicle Jewel-Treasury named/
+<liturgical><ornament>Treasury of the Supreme Vehicle named. || 10 ||
+
+[11]
+<tibetan>དཔལ་ཀུན་ཏུ་བཟང་པོ་ལ་ཕྱག་འཚལ་ལོ།
+<literal>Glorious All-Good to/in prostration make*/
+<liturgical><ornament>Homage to Glorious Samantabhadra
+
+[12]
+<tibetan>།གང་གི་རང་བཞིན་ཕུན་སུམ་ཚོགས་ལྔ་མངའ་དབང་རྫོགས་པའི་ཀུན་ཏུ་བཟང༌།
+<literal>/Whose own-nature five-perfections possessing power complete All-Good*/
+<liturgical><break><verse> Samantabhadra holds the five perfections complete in dominion,
+
+[13]
+<tibetan>།རྒྱལ་ཚབ་རིགས་ལྔ་གང་ཆེན་མཚོ་དེ་དེད་དཔོན་དམ་པའི་སྟོན་པར་བཅས།
+<literal>/Regent five-families great-ocean that ferry-leader holy teacher together-with/
+<liturgical><verse>Together with the regent of five families, the Great Ocean, sublime guide,
+
+[14]
+<tibetan>།རིག་འཛིན་རྣམ་ལྔ་སྙན་བརྒྱུད་ཚོགས་གང་ལྷར་བཅས་འཇིག་རྟེན་གསུམ་གྱི་རྒྱན།
+<literal>/Awareness-holder five aural-lineage gathering deities with world three-of ornament/
+<liturgical><verse>The five vidyādharas, hosts of aural lineage, ornament of three worlds,
+
+[15]
+<tibetan>།དཔལ་ལྡན་བཀྲ་ཤིས་བདེ་ལེགས་མཛད་དེ་ཀུན་ནས་དགའ་བའི་གཙུག་གིས་མཆོད།
+<literal>/Glorious auspicious bliss-goodness doing that all-from joy-of crown-with homage/
+<liturgical><verse>To that crown of joy, source of excellence, I offer homage.
+
+[16]
+<tibetan>།གདོད་ནས་རྣམ་དག་སྤྲོས་ཀུན་ཞི་བའི་མཁའ་ལ་ཉེ་བར་མཛེས་པ་གང༌།
+<literal>/From-primordial pure elaboration all pacified space-in near adorned whatever*/
+<liturgical><verse>From primordial purity, elaborations cease into space— beautifully arrayed,
+
+[17]
+<tibetan>།རང་བཞིན་རྟག་བཞུགས་འོད་གསལ་རྟ་བདུན་སྐུ་གསུམ་ཡོན་ཏན་རྣམ་འགྲོས་ཅན།
+<literal>/Own-nature ever-abiding light-luminous seven-horses body-three qualities all-possessing/
+<liturgical><verse>Nature ever-abiding, clear light pervading all three bodies,
+
+[18]
+<tibetan>།སྲིད་ཞིར་མི་གནས་ཀུན་ལ་རྗེས་ཞུགས་འདུས་མ་བྱས་ཤིང་ལྷུན་གྱིས་གྲུབ།
+<literal>/Existence peace-in not-abide all-to following enter uncompounded and spontaneous accomplish/
+<liturgical><verse>Not dwelling in existence or peace, spontaneously accomplished—
+
+[19]
+<tibetan>།རྣམ་ཀུན་མཆོག་ལྡན་རྡོ་རྗེ་རྩེ་མོ་བདེ་གཤེགས་སྙིང་པོ་དེ་ལ་འདུད།
+<literal>/All supreme possessing vajra-peak bliss-gone essence that-to bow*/
+<liturgical><verse>To that Vajra-point, supreme possessor, Sugata-essence, I prostrate.
+
+[20]
+<tibetan>།ཆོས་ཚུལ་ཉི་མ་དྲི་མེད་རྒྱ་ཆེ་དཔག་ཡས་ནམ་མཁའི་རྒྱན་གྱུར་ལས།
+<literal>/Dharma-method sun stainless vast measureless sky ornament become from-out-of/
+<liturgical><verse>From Dharma-sun stainless, vast, immeasurable, ornament of space, || 20 ||
+
+[21]
+<tibetan>།བླ་མེད་རབ་གསང་རྡོ་རྗེའི་ཐེག་པ་ཀུན་ལས་འཕགས་སོ་ནོར་བུའི་དཔལ།
+<literal>/Unsurpassed most-secret vajra vehicle all-from supreme jewel glory/
+<liturgical><verse>The unsurpassed secret vajra vehicle, supreme wish-fulfilling jewel,
+
+[22]
+<tibetan>།དེ་དག་ནང་ནས་ཆེས་མཆོག་དམ་པ་རང་བཞིན་རྫོགས་པ་ཆེན་པོའི་རྩེ།
+<literal>/Those within-from most supreme holy own-nature great-perfection peak/
+<liturgical><verse>Most supreme holy nature, pinnacle of the Great Perfection,
+
+[23]
+<tibetan>།མངོན་སུམ་སྙིང་པོའི་དེ་ཉིད་མཚོན་དེས་དེ་རིང་བདག་བློའི་པད་མཚོར་སྐྱོངས།
+<literal>/Direct essence reality demonstrate that this day my mind-of lotus-lake protect*/
+<liturgical><verse>Revealing suchness directly—protect this day the lotus-throne of mind.
+
+[24]
+<tibetan>།བསྟན་པ་རྒྱ་མཚོ་ཆུ་སྲིན་འཛིན་ཁྲིའི་གནས།
+<literal>/Teaching ocean makara throne seat*/
+<liturgical><verse>The place of the teaching-ocean, the throne of the makara-holder,
+
+[25]
+<tibetan>།ཀུན་ལས་མཆོག་གྱུར་རྡོ་རྗེ་སྙིང་པོའི་དབྱིངས།
+<literal>/All-from supreme become vajra essence space/
+<liturgical><verse>The sphere of the Vajra-essence, supreme among all,
+
+[26]
+<tibetan>།ཟབ་ཅིང་རྒྱ་ཆེའི་གནས་རྣམ་གསལ་བྱེད་པ།
+<literal>/Deep and vast subjects clear doing/
+<liturgical><verse>Clearly revealing the profound and vast abodes—
+
+[27]
+<tibetan>།ཐེག་མཆོག་རིན་ཆེན་མཛོད་ཀྱི་རྣམ་བཤད་བྱ།
+<literal>/Supreme-vehicle jewel-treasury-of explanation do*/
+<liturgical><verse>The explanation of the Treasury of Supreme Vehicle I shall compose.
+
+[28]
+<tibetan>།གང་གི་ཚེ་ཆོས་ཀྱི་སྐུའི་བདུད་རྩི་བརྙེས་ནས།
+<literal>/Which time dharma-body-of nectar obtain-from/
+<liturgical><break><prose> When the nectar of the Dharma-body is obtained,
+
+[29]
+<tibetan>ལོངས་སྤྱོད་རྫོགས་པ་དང༌།
+<literal>Enjoyment complete and*/
+<liturgical><prose>And the Enjoyment-body complete,
+
+[30]
+<tibetan>སྤྲུལ་པའི་སྐུ་མངོན་དུ་གྱུར་ཏེ།
+<literal>Emanation body manifest become*/
+<liturgical><prose>And the Emanation-body manifests, || 30 ||
+
+[31]
+<tibetan>ཆོས་ཀྱི་ཚུལ་རྒྱ་མཚོ་གསུངས་པ་དག་ཀྱང་སྟོན་པ་དང༌།
+<literal>Dharma method ocean taught also teacher and*/
+<liturgical><prose>The ocean of Dharma-principles depends upon teacher, place, and teaching.
+
+[32]
+<tibetan>གནས་དང༌།
+<literal>Place and*/
+<liturgical><prose>These three arrange all:
+
+[33]
+<tibetan>བསྟན་པའི་དབང་གིས་རྣམ་པ་གསུམ་དུ་རིགས་བསྡུ་བས་རྣམ་པར་གཞག་པ་ནི།
+<literal>Teaching power-by manner three-in kinds gather-by manner arrange is/
+<liturgical><prose>The teacher, the place, the teaching;
+
+[34]
+<tibetan>གནས་ཕུན་སུམ་ཚོགས་པ་ཆོས་ཉིད་འོད་གསལ་གྱི་གཞི།
+<literal>Place perfection dharma-nature light-luminous-of basis/
+<liturgical><prose>The perfection of place, the basis of dharmatā luminous clarity,
+
+[35]
+<tibetan>སུས་ཀྱང་མངོན་པར་འདུས་མ་བྱས་པའི་ཡོན་ཏན་བཀོད་པ་ལས་སྣང་བ་ལྷུན་་གྲུབ་རིན་པོ་ཆེའི་ཞིང་ཁམས་ན།
+<literal>Anyone-by manifest uncompounded qualities display from-out-of appearance spontaneous jewel field-in/
+<liturgical><prose>In the precious field where appearances arise from uncompounded qualities.
+
+[36]
+<tibetan>སྟོན་པ་ཕུན་སུམ་ཚོགས་པ་མངའ་དབང་རྫོགས་པའི་རྒྱལ་བ་ཀུན་ཏུ་བཟང་པོ་འཁོར་ཡེ་ཤེས་རྒྱ་མཚོའི་ཚོགས་དང་ལྷན་ཅིག
+<literal>teacher five-complete possessing dominion-complete all-victorious samantabhadra with wisdom-ocean assembly together/
+<liturgical><prose>Teacher possessing perfections, the Victorious Samantabhadra, with wisdom-ocean retinue,
+
+[37]
+<tibetan>།སྐུ་དང་ཡེ་ཤེས་འདུ་འབྲལ་མེད་པའི་དགོངས་པ་ལ་བཞུགས་ཏེ།
+<literal>/body and awareness non-dual thought abiding/
+<liturgical><prose>Abides in the intention where body and wisdom are inseparable,
+
+[38]
+<tibetan>བསྟན་པ་རྒྱུ་འབྲས་བྱ་རྩོལ་ལས་འདས་པ་ཆོས་ཀྱི་སྐུའི་རང་བཞིན།
+<literal>teaching cause-effect activity beyond dharma-body's self-nature/
+<liturgical><prose>Teaching the nature of the Dharma-body beyond cause-effect and effort,
+
+[39]
+<tibetan>ཆོས་ཉིད་བྱ་རྩོལ་ལས་འདས་པའི་དུས།
+<literal>dharmata activity beyond's time/
+<liturgical><prose>The time beyond action and effort in dharmatā,
+
+[40]
+<tibetan>ནང་གསལ་ཕྲ་བའི་ཡེ་ཤེས་གདོད་མའི་དབྱིངས་ན་བཞུགས་པའོ།
+<literal>inner-clarity subtle awareness primordial sphere abiding/
+<liturgical><prose>Abiding in the primordial sphere of subtle inner clarity-wisdom. || 40 ||
+
+[41]
+<tibetan>།དེ་ཉིད་ཀྱི་ངང་ངམ་བྱིན་རླབས་ལས་རང་སྣང་སྟུག་པོ་བཀོད་པའི་ཞིང་ཁམས།
+<literal>/that very nature from blessing self-appearance densely arranged field/
+<liturgical><prose>From that nature, or from blessing, the self-appearing field of dense arrangement,
+
+[42]
+<tibetan>ཕྱིར་གསལ་འོད་ལྔས་བརྒྱན་པ་ན་རིགས་ལྔ་སོ་སོའི་སྟོན་པ་རང་སྣང་དཀྱིལ་འཁོར་གྱི་རོལ་པར་ཤར་བ་ན།
+<literal>outer-clarity five-lights adorned where five families individual teacher self-appearance mandala's play appearing/
+<liturgical><prose>When adorned with outer lights of five, the individual teachers of the five families self-appear as the play of the mandala,
+
+[43]
+<tibetan>བསྟན་པ་ཆོས་ཉིད་འོད་གསལ་རྫོགས་པ་ཆེན་པོ་རང་སྣང་ལྷུན་གྱིས་གྲུབ་པའི་དུས་ན།
+<literal>teaching dharmata luminous-clarity great-completion self-appearance spontaneously arisen time/
+<liturgical><prose>When teaching dharmatā, luminous-clarity, dzogchen, self-appearing spontaneously accomplished,
+
+[44]
+<tibetan>རང་ཆས་ཡེ་ཤེས་ཆེན་པོར་བཞུགས་ཏེ།
+<literal>self-appearances awareness great abiding/
+<liturgical><prose>Abides in great self-arisen wisdom.
+
+[45]
+<tibetan>ལས་དག་པའི་གདུལ་བྱ་རྣམས་ཀྱི་ཡང་སྤྱོད་ཡུལ་ལས་འདས་པ་རང་སྣང་བའོ།
+<literal>pure karma trainees' higher-conduct object beyond self-appearing/
+<liturgical><prose>Self-appearing beyond even the objects of action of pure trainees.
+
+[46]
+<tibetan>།དེ་ཉིད་ཀྱི་རྩལ་ལམ་བྱིན་རླབས་ལས་མཚན་རྫོགས་རྡོ་རྗེ་འཆང་གི་ཞིང་ཁམས་འོག་མིན་སྟུག་པོ་བཀོད་པར་སྟོན་པ་དྲུག་པ་རྡོ་རྗེ་འཆང་ཡོན་ཏན་རྫོགས་པའི་སྐུའི་རྣམ་པར་བཞེངས་ཏེ།
+<literal>/that very skillfulness from blessing mark-complete vajradholder's field non-dual densely arranged displaying sixth vajradholder qualities-complete body form manifesting/
+<liturgical><prose>Furthermore, from strength and blessing of that nature; in Akanisṭha field, Vajradhara of complete marks arises,
+
+[47]
+<tibetan>འཁོར་ཕུན་སུམ་ཚོགས་པ་ས་ལ་གནས་པ་དང༌།
+<literal>assembly five-complete earth-abiding and/
+<liturgical><prose>With retinue of perfections dwelling upon the earth, and
+
+[48]
+<tibetan>རིག་པ་འཛིན་པ་དང༌།
+<literal>awareness-holder and/
+<liturgical><prose>Awareness-holders, and
+
+[49]
+<tibetan>མཁའ་འགྲོ་མ་དང༌།
+<literal>sky-goer female and/
+<liturgical><prose>Ḍākiṇīs, and
+
+[50]
+<tibetan>གྲུབ་པ་དང༌།
+<literal>accomplisher and/
+<liturgical><prose>Accomplished ones, and || 50 ||
+
+[51]
+<tibetan>རང་སྣང་ཡོངས་སུ་བཀོད་པའི་ཚོགས་ལ་བསམ་གྱིས་མི་ཁྱབ་པའི་དུས་ན་ཆོས་ཕུན་སུམ་ཚོགས་པ་འབྲས་བུ་རྡོ་རྗེའི་ཐེག་པ་རྒྱུད་སྡེ་རྒྱ་མཚོ་སྙེད་གསུང་བར་མཛད་པ་དང༌།
+<literal>self-appearance completely arranged assembly inconceivable time teaching five-complete fruit vajra-vehicle tantra-ocean like speaking and/
+<liturgical><prose>Therefore, hosts completely arranged as self-appearances—to inconceivable ones, teaching the ocean-like tantra sections of the result-vajra vehicle,
+
+[52]
+<tibetan>གནས་ཕུན་སུམ་ཚོགས་པ་འགྲོ་དག་རང་སྣང་ལ་སྣང་བ་སོ་སོ་ན།
+<literal>place five-complete beings self-appearance appearing each/
+<liturgical><prose>When perfect places appear individually to the self-appearances of beings,
+
+[53]
+<tibetan>སྟོན་པ་ཕུན་སུམ་ཚོགས་པ་སྤྲུལ་པའི་སྐུ་གང་ལ་གང་འདུལ་གྱི་རྣམ་པས་དེད་དཔོན་དམ་པའི་རྣམ་པར་ཤར་ཏེ།
+<literal>teacher five-complete emanation-body which which trainee's form excellent noble form appearing/
+<liturgical><prose>The perfect teacher in emanation-body appears as holy guides to tame each according to their capacity,
+
+[54]
+<tibetan>ལས་དང་སྨོན་ལམ་དག་པའི་དུས་ན་ཆོས་ཕུན་སུམ་ཚོགས་པ་མདོ་སྡེ་དང༌།
+<literal>karma and pure aspiration time teaching five-complete sutra and/
+<liturgical><prose>When karma and aspiration are pure, teaching the perfections of sūtra sections,
+
+[55]
+<tibetan>འདུལ་བ་དང༌།
+<literal>vinaya and/
+<liturgical><prose>The Vinaya basket establishing ethical discipline,
+
+[56]
+<tibetan>མངོན་པའི་སྡེ་སྣོད་ཐེག་པ་སྣ་ཚོགས་སུ་སྟོན་པར་སྣང་བའོ།
+<literal>abhidharma collections vehicles various teaching appearing/
+<liturgical><prose>And the Abhidharma basket analyzing phenomena, appear as various vehicles suited to different capacities.
+
+[57]
+<tibetan>།དེ་ལ་རྒྱུ་མཚན་ཉིད་ཀྱི་ཐེག་པ་གསུམ་ནི་འབྲས་བུ་རྡོ་རྗེའི་ཐེག་པར་འཇུག་པའི་རྒྱུ་དང་ཐབས་སུ་བསྟན་ཞིང༌།
+<literal>/that-from cause-nature vehicles three are fruit vajra-vehicle entering cause and method teaching and/
+<liturgical><prose>To that, the three vehicles of causal characteristics are shown as cause and method for entering the result-vajra vehicle,
+
+[58]
+<tibetan>གསང་སྔགས་རྡོ་རྗེ་ཐེག་པ་ཡོངས་སུ་རྫོགས་པའི་རྩེ་མོའམ་འབྲས་བུ་དམ་པ་ནི་རང་བཞིན་རྫོགས་པ་ཆེན་པོ་བླ་ན་མེད་པའི་ཐེག་པ་ཡིན་ལ།
+<literal>secret-mantra vajra-vehicle completely complete pinnacle or fruit noble is self-nature great-completion unsurpassable vehicle and/
+<liturgical><prose>While the secret mantra vajra vehicle, the completely complete peak, the supreme result, is the unsurpassable vehicle of dzogchen.
+
+[59]
+<tibetan>དེའི་གནས་ངེས་པ་ནི་འོད་གསལ་རྡོ་རྗེ་སྙིང་པོའི་བསྟན་པ་སྟེ།
+<literal>that-of place definite-is light-luminous vajra-essence-of teaching */
+<liturgical><prose>That definitive realm is the teaching of luminous clarity, the vajra-essence,
+
+[60]
+<tibetan>དེ་བཞིན་གཤེགས་པ་ཐམས་ཅད་ཀྱི་ཐུགས་ཀྱི་གསང་བ་བླ་ན་མེད་པ་ཡོངས་སུ་རྫོགས་པ་ཆེན་པོ་རྡོ་རྗེའི་གནས་ངོ་མཚར་རྨད་དུ་བྱུང་བའི་བདག་ཉིད་དོ།
+<literal>thus-come all-of mind-of secret unsurpassable completely complete great vajra-of place wondrous marvel become-of self-nature */
+<liturgical><prose>The self-nature wondrous and marvellous—the great complete vajra realm of the unsurpassable secret of all Tathāgatas' minds. || 60 ||
+
+[61]
+<tibetan>།དེ་ལྟར་གསང་བ་རྒྱལ་པོའི་མཛོད་ལས།
+<literal>/thus secret king-of treasury from*/
+<liturgical><prose>Thus, from the Treasury of the Secret King:
+
+[62]
+<tibetan>གདོད་མའི་མགོན་པོ་མངོན་པར་བྱང་ཆུབ་ནས་ཞིང་ཁམས་ཇི་ལྟར་བཀོད་པའི་ཚུལ་རྒྱ་མཚོ་དང༌།
+<literal>primordial protector manifest awaken-from field-realm how arrange manner ocean and*/
+<liturgical><break><tantra> From the primordial protector's manifest enlightenment, the ocean of manners in which fields are arranged,
+
+[63]
+<tibetan>ཞིང་འདིར་རྡོ་རྗེ་འཆང་གི་རྣམ་པར་འཕྲུལ་པས་ཞི་བ་བརྙེས་པའི་ཚུལ་དང༌།
+<literal>field-this vajra-holder-of aspect emanate-from peaceful attain manner and*/
+<liturgical><tantra>And the manner of obtaining peace in this field through Vajradhara's emanation,
+
+[64]
+<tibetan>སྤྲུལ་པའི་སྐུ་སྤྲོས་པས་ཆོས་ཀྱི་འཁོར་ལོ་བསྐོར་བའི་ཚུལ་ལས།
+<literal>emanation-body distribute-by dharma wheel turn manner from-out-of/
+<liturgical><tantra>From the manner of turning the Dharma-wheel through elaboration of emanation-kāya—
+
+[65]
+<tibetan>དང་པོ་ནི་འཁོར་བ་དང་མྱ་ངན་ལས་འདས་པ་གང་དུའང་མ་ཕྱེ་མི་འབྱེད་འབྱེད་པ་མེད་པ་ཀུན་གྱི་སྔོན་རོལ་དུ།
+<literal>first is cyclic-existence and nirvana where also not-differentiate not-divide division not all-of before*/
+<liturgical><tantra>First, before all, without any division of saṃsāra and nirvāṇa anywhere,
+
+[66]
+<tibetan>མངའ་དབང་རྫོགས་པའི་སྟོན་པ་ཀུན་ཏུ་བཟང་པོ་ཉིད།
+<literal>dominion complete teacher all-good self */
+<liturgical><tantra>The complete sovereign teacher, Samantabhadra himself,
+
+[67]
+<tibetan>།དབྱིངས་རང་བྱུང་གི་ཡེ་ཤེས་བདེ་བར་གཤེགས་པའི་སྙིང་པོ་གདོད་མའི་གཞི་ལས་གཞི་སྣང་དུ་ཤར་ཏེ།
+<literal>/expanse self-arisen-of wisdom bliss-come heart-essence primordial ground-from ground-appearance dawn */
+<liturgical><tantra>From the primordial basis, the awareness of self-arising wisdom, the Sugata's heart-essence, arises as basis-appearances,
+
+[68]
+<tibetan>གཞི་ལས་འཕགས་པའི་སྐད་ཅིག་ལ་རང་སྣང་དུ་ངོ་ཤེས་པས་རང་བྱུང་གི་ཆོས་གསུམ་གྱིས་ལྷུན་གྲུབ་རིན་པོ་ཆེའི་སྦུབས།
+<literal>ground-from transcend moment self-appearance face-know by-means-of self-arisen dharma three spontaneously-accomplish jewel cavity */
+<liturgical><tantra>In the moment of transcending the basis, recognizing self-appearance—the precious cavity spontaneously accomplished by three self-arising dharmas,
+
+[69]
+<tibetan>གདོད་མའི་ཟད་ས་ཀ་དག་ཆེན་པོ།
+<literal>primordial exhaustion-place primordially-pure great */
+<liturgical><tantra>The great primordial purity, the exhaustion-place of beginning,
+
+[70]
+<tibetan>གཞོན་ནུ་བུམ་པ་སྐུའི་ཞིང་ལ་བཙན་ས་ཟིན་ཏེ།
+<literal>youth vase body-of field conquer seize */
+<liturgical><tantra>Seizing the conquered place in the youth vase body's field, || 70 ||
+
+[71]
+<tibetan>སྤངས་རྟོགས་ཀྱི་ཡོན་ཏན་མཐར་ཕྱིན་ནས་ཆོས་ཀྱི་སྐུའི་རང་བཞིན་དུ་སངས་རྒྱས་ཏེ་ནང་གསལ་དུ་བཞུགས་སོ།
+<literal>abandon-realize excellence quality end-reach-from dharma-body nature become buddha inner-clarity abide */
+<liturgical><tantra>Thus, Having reached the end of abandon-realize qualities, becoming Buddha in the nature of dharmakāya, abiding in inner clarity.
+
+[72]
+<tibetan>།དེའི་རྩལ་ལམ་བྱིན་རླབས་ལས་ཡེ་ཤེས་ལྔས་གདལ་བའི་ཞིང་ཁམས་རང་སྣང་ལྷུན་གྲུབ་སྟུག་པོ་བཀོད་པའི་དཀྱིལ་འཁོར་ནམ་མཁའི་མཐའ་ཀླས་པ་རིགས་ལྔ་སོ་སོར་རང་སྣང་དུ་བཀོད་དེ་གདུལ་བྱའི་ཡུལ་ལས་འདས་པར་བཞུགས་སོ།
+<literal>/that-of potency path blessing-from wisdom five purify field-realm self-appearance spontaneously-accomplish dense arrange mandala sky limit-pervade family five individual self-appearance arrange disciple object-from transcend abide */
+<liturgical><tantra>From the potency and blessing of that; the field pervaded by five wisdoms—self-appearing, spontaneous, dense—the maṇḍala arranged pervading the limits of sky; each of the five families as self-appearances, abiding beyond the trainee's objects.
+
+[73]
+<tibetan>།དེ་ནས་རིང་ཞིག་ན་གདོད་མའི་གཞི་ལས་གཞི་སྣང་དུ་ཤར་བའི་རྩལ་ལས་འགྲོ་བ་རྨི་ལམ་དང་འདྲ་བ་འཁྲུལ་རྒྱུ་མེད་བཞིན་དུ་འཁྲུལ་པ་ལྟར་སྣང་བ་རྣམས་གཡོ་བར་གཟིགས་ནས།
+<literal>/from-that long time-from primordial ground-from ground-appearance dawn potency-from beings dream with similar confusion cause without while confusion like appearance move perceive */
+<liturgical><tantra>Then, long after, from the primordial basis arising as basis-appearance, seeing beings move like dreams, appearing like confusion without cause of confusion,
+
+[74]
+<tibetan>བརྩེ་བའི་ཐུགས་རྗེ་སྐྱེས་ཏེ་འགྲོ་བའི་དོན་དུ་ཞིང་ཁམས་རྣམ་པར་བཀོད་པ་ནི།
+<literal>love heart-compassion arise beings benefit-for field-realm manner arrange is/
+<liturgical><tantra>Compassionate mind arises, arranging fields for the purpose of beings.
+
+[75]
+<tibetan>རང་སྣང་ལོངས་སྤྱོད་རྫོགས་པ་སྐུའི་སྣང་ཆ་ལས་རིགས་ལྔའི་རྒྱལ་བ་གང་ཆེན་མཚོའི་སྐུ་ནམ་མཁའི་མཐས་ཀླས་པར་བཀོད་པ་རྣམས་ཀྱི།
+<literal>self-appearance enjoyment-complete body appearance-portion-from family five victory ocean body sky limit-pervade arrange
+<liturgical><tantra>From the appearance-aspect of self-appearing enjoyment-complete kāya, the kāyas of the five-family Buddhas, the great ocean, arranged at the limits of sky.
+
+[76]
+<tibetan>ཕྱག་རྒྱ་རིན་པོ་ཆེའི་འཁོར་ལོ་དང༌།
+<literal>mudra precious wheel and/
+<liturgical><tantra>The precious wheel of mudra,
+
+[77]
+<tibetan>རྡོ་རྗེ་དང༌།
+<literal>vajra and/
+<liturgical><tantra>The vajra,
+
+[78]
+<tibetan>ནོར་བུ་དང༌།
+<literal>jewel and/
+<liturgical><tantra>The jewel,
+
+[79]
+<tibetan>པདྨ་དང༌།
+<literal>lotus and/
+<liturgical><tantra>The lotus,
+
+[80]
+<tibetan>རྒྱ་གྲམ་དུ་སྣང་བའི་ཁོང་གསེང་ལས་པདྨ་འཁྲུངས་པའི་སྟེང་གི་ཆ་ལ་ཞིང་ཁམས་ཉི་ཤུ་རྩ་ལྔ་དང༌།
+<literal>crosswise appearing inside from lotus-born upper portion twenty-five fields/
+<liturgical><tantra>And crosswise, appearing within, from the lotus-born, upon the upper portion, twenty-five fields, || 80 ||
+
+[81]
+<tibetan>བ་སྤུའི་ཁུང་རྣམས་ལས་སྤོས་ཆུའི་རྒྱུན་གང་ཆེན་མཚོ་འབབ་པའི་དབྱིངས་ན།
+<literal>pore holes from perfume-water stream great ocean flow sphere in/
+<liturgical><tantra>In the sphere where from pore-holes streams of perfume-water flow like a great ocean,
+
+[82]
+<tibetan>ས་དང༌།
+<literal>earth and/
+<liturgical><tantra>Earth,
+
+[83]
+<tibetan>ཆུ་དང༌།
+<literal>water and/
+<liturgical><tantra>Water,
+
+[84]
+<tibetan>མེ་དང༌།
+<literal>fire and/
+<liturgical><tantra>Fire,
+
+[85]
+<tibetan>རླུང་གི་རྡུལ་ཕྲ་བ་སྙེད་ཇི་སྙེད་པའི་གོ་ཐམས་ཅད་ན།
+<literal>wind particles subtle how-many-all place all in/
+<liturgical><tantra>And subtle wind particles, as many as there are, pervading all places,
+
+[86]
+<tibetan>སངས་རྒྱས་ཀྱི་བྱིན་གྱིས་བརླབས་དང༌།
+<literal>buddha blessing and/
+<liturgical><tantra>The blessings of Buddha,
+
+[87]
+<tibetan>འགྲོ་བའི་ལས་ཀྱི་ཞིང་ཁམས་ཐ་དད་པ།
+<literal>beings karma fields different/
+<liturgical><tantra>And the diverse fields of beings' karma,
+
+[88]
+<tibetan>།ཟླུམ་པོ་དང༌།
+<literal>round and/
+<liturgical><tantra>Round,
+
+[89]
+<tibetan>གྲུ་བཞི་པ་དང༌།
+<literal>four-corner and/
+<liturgical><tantra>Four-cornered,
+
+[90]
+<tibetan>ནར་མོ་དང༌།
+<literal>crescent and/
+<liturgical><tantra>Crescent, || 90 ||
+
+[91]
+<tibetan>ཟླ་གམ་ལ་སོགས་པ་གཟུགས་དང་བཀོད་པ་ཚད་མེད་བསམ་གྱིས་མི་ཁྱབ་པ་སྣང་བར་མཛད་པ་ནི།
+<literal>semi-circle etc form arrangement immeasurable inconceivable appearing make is/
+<liturgical><tantra>And semi-circle and so forth—forms and arrangements immeasurable, inconceivable, appearing—
+
+[92]
+<tibetan>ནམ་མཁས་གང་དུ་ཁྱབ་པ་དེ་ཙམ་དུ་སྐུ་དང༌།
+<literal>sky where pervade that extent body and/
+<liturgical><tantra>To the extent that sky pervades, to that extent body,
+
+[93]
+<tibetan>གསུང་དང༌།
+<literal>speech and/
+<liturgical><tantra>Speech,
+
+[94]
+<tibetan>ཐུགས་དང༌།
+<literal>mind and/
+<liturgical><tantra>Mind,
+
+[95]
+<tibetan>ཡོན་ཏན་དང༌།
+<literal>qualities and/
+<liturgical><tantra>Qualities,
+
+[96]
+<tibetan>འཕྲིན་ལས་དང༌།
+<literal>activities and/
+<liturgical><tantra>Activities,
+
+[97]
+<tibetan>དེ་དག་ལས་ཤར་བའི་ཞིང་ཁམས་གྱིས་ཁྱབ་པར་མཛད་ནས།
+<literal>those from arise fields pervade make after/
+<liturgical><tantra>And fields arising from those pervade,
+
+[98]
+<tibetan>རྟག་པ་རྒྱུན་གྱི་འཁོར་མོར་འགྲོ་བའི་དོན་མཛད་པ་ནི།
+<literal>permanent continuous wheel beings purpose make is/
+<liturgical><tantra>Serving the purpose of beings in the perpetual continuous wheel.
+
+[99]
+<tibetan>ཐོག་མའི་ཀུན་ཏུ་བཟང་པོ་གཅིག་གི་གདུལ་ཞིང་དང་མཛད་པ་ཡིན་ཏེ།
+<literal>first samantabhadra one training-field and activities is/
+<liturgical><tantra>This is the training field and activities of the one, the first Samantabhadra.
+
+[100]
+<tibetan>ཆོས་ཀྱི་དབྱིངས་དང་ནམ་མཁའི་ཁམས་ལྟར་རྒྱ་ཆེ་ཞིང༌།
+<literal>dharma-sphere and sky-field like vast and/
+<liturgical><tantra>Vast like the dharma-sphere and the sky-field, || 100 ||
+
+[101]
+<tibetan>ཐོག་མའི་དུས་འདི་ཙམ་ཞིག་ནས་བྱུང་ངོ་ཞེས་ལོ་དང་བསྐལ་པ་ཞིང་གི་རྡུལ་རྒྱ་མཚོས་དཔག་པར་མི་ནུས་ཤིང༌།
+<literal>first time this only from arise year and eon field particles ocean measure not able and/
+<liturgical><tantra>Moreover, From this first time only having arisen—years and eons, the field-particles like an ocean cannot be measured,
+
+[102]
+<tibetan>མཐར་གྱིས་མཛད་པ་འདི་ཙམ་ན་རྫོགས་སོ་ཞེས་ཕྱི་མའི་མཐའ་གཞལ་བར་མི་ནུས་པས།
+<literal>finally activities this only at complete later end measure not able by means-of/
+<liturgical><tantra>Finally, these activities being complete cannot measure the latter end,
+
+[103]
+<tibetan>མི་གཡོ་ལྷུན་གྲུབ་ཆེན་པོའི་ཞིང་ཁམས་རྒྱ་མཚོའི་སྙིང་པོ་ཅན་ན།
+<literal>not-move spontaneous great field ocean essence possess in/
+<liturgical><tantra>In the great field-ocean possessing the essence of unmoving spontaneity,
+
+[104]
+<tibetan>རང་བཞིན་ལྷུན་གྱིས་གྲུབ་པའི་སངས་རྒྱས་འཁོར་འདས་ཀུན་གྱི་བླ་མར་ཐོག་མ་མེད་པའི་དུས་སུ་བྱོན་ནས།
+<literal>nature spontaneous accomplish buddha samsara-nirvana all lama first-not time at come after/
+<liturgical><tantra>The Buddha naturally spontaneously accomplished, lama of all saṃsāra and nirvāṇa, having come in beginningless time,
+
+[105]
+<tibetan>སྐུ་གསུམ་གྱི་སྣང་བ་ལ་ཞིང་ཁམས་མི་འདྲ་བ་གསུམ་དུ་བཀོད་པ་ནི།
+<literal>three-bodies appear to field different three-as arrange is/
+<liturgical><tantra>Arranging fields as three different appearances of the three bodies.
+
+[106]
+<tibetan>ཆོས་ཀྱི་སྐུའི་དུས་ན།
+<literal>dharma-body time when/
+<liturgical><tantra>In the time of dharma-body,
+
+[107]
+<tibetan>འོད་གསལ་རྡོ་རྗེ་སྙིང་པོའི་ཞིང་ཁམས་ཞེས་བྱ།
+<literal>light-clear vajra-essence field called/
+<liturgical><tantra>Called the field of luminous-clarity vajra-essence.
+
+[108]
+<tibetan>རང་སྣང་ལོངས་སྤྱོད་རྫོགས་པའི་སྐུའི་དུས་ན་ཚངས་པ་རྔ་སྒྲའི་ཞིང་ཁམས་ཞེས་བྱ།
+<literal>self-appear enjoyment-complete body time when brahma drum-sound field called/
+<liturgical><tantra>In the time of self-appearing enjoyment-complete body,
+
+[109]
+<tibetan>སྤྲུལ་པ་སྐུའི་དུས་ན་ཚངས་ཆེན་གྱི་བསྐལ་པའམ་ཞིང་ཁམས་ཞེས་བྱའོ།
+<literal>emanation-body time when great-brahma eon or field called/
+<liturgical><tantra>Called the field of Brahma's drum-sound, or the great-Brahma eon and field.
+
+[110]
+<tibetan>།འདིའི་གོ་ན་ཀུན་ཏུ་བཟང་པོ་ཉིད་ཀྱིས་སྤྲུལ་པའི་སངས་རྒྱས་དང༌།
+<literal>/this meaning samantabhadra self emanation buddha and/
+<liturgical><break><prose> In this sense, the emanation Buddha of Samantabhadra himself, || 110 ||
+
+[111]
+<tibetan>དེས་བྱིན་གྱིས་བརླབས་པས་སངས་རྒྱས་པའི་སྟོན་པ་དུས་གསུམ་དུ་གཤེགས་པ་རྣམས་དང༌།
+<literal>that blessing by means-of buddha teacher three-times come those and/
+<liturgical><prose>And those teachers who came in the three times, becoming Buddha through that blessing,
+
+[112]
+<tibetan>སེམས་ཅན་གྱི་ཁམས་ཐམས་ཅད་ཡོད་དེ།
+<literal>sentient-beings realm all exist/
+<liturgical><prose>All sentient-beings' realms exist.
+
+[113]
+<tibetan>གདུལ་ཞིང་ཤིན་ཏུ་རྒྱ་ཆེ་བ་ཉིད་དོ།
+<literal>training-field very vast is/
+<liturgical><prose>The training-field is very vast.
+
+[114]
+<tibetan>།དེའང་ས་ཆུ་མེ་རླུང་ནམ་མཁས་གར་ཁྱབ་ཐམས་ཅད་ཚངས་ཆེན་གྱི་བསྐལ་པའི་ཁོངས་སུ་འདུལ།
+<literal>that-also earth water fire wind sky where pervade all great-brahma eon within gather/
+<liturgical><prose>That also—all earth, water, fire, wind, sky wherever pervading—all gathered within the great-Brahma eon.
+
+[115]
+<tibetan>དེ་ནས་སེམས་ཅན་གྱི་འཁྲུལ་སྣང་ལ་རྡུལ་ཕྲན་རེའི་གོ་ནའང་ཞིང་ཁམས་གྲངས་མེད་ཚད་ལས་འདས་པ་སྣང་བ་ན།
+<literal>then sentient-beings confusion-appear to particle one place even field number measure beyond appear when/
+<liturgical><prose>Then, when numberless fields beyond measure appear even in one particle-place of sentient-beings' confused appearance,
+
+[116]
+<tibetan>ལས་དག་པའི་སྣང་བ་ལ་སངས་རྒྱས་ཀྱི་མཛད་པ་ཆེན་པོ་སྣ་ཚོགས་སུ་སྣང་ཞིང༌།
+<literal>karma pure appear to buddha activity great various appear and/
+<liturgical><prose>To pure-karma appearance, Buddha's great activities appear variously,
+
+[117]
+<tibetan>སླར་མྱ་ངན་ལས་འདས་པ་དང༌།
+<literal>again nirvana and/
+<liturgical><prose>Again nirvāṇa,
+
+[118]
+<tibetan>བསྟན་པ་གནས་པ་དང༌།
+<literal>teaching dwell and/
+<liturgical><prose>Teaching dwelling,
+
+[119]
+<tibetan>ལམ་བསྒྲུབ་པ་ལ་སོགས་པ་མཐོ་རིས་དང་ཐར་པའི་བདེ་འབྲས་སྤྱོད་ལ་མ་དག་པ་རྣམས་ལ་བསྟན་པ་ནུབ་པ་དང༌།
+<literal>path accomplish etc higher-realms and liberation bliss-result enjoy to impure to teaching subside and/
+<liturgical><prose>To impure ones enjoying bliss-fruit of higher-realms and liberation, path accomplishment etc., teaching subsides,
+
+[120]
+<tibetan>ངན་སོང་དུ་སྣང་བ་དང༌།
+<literal>lower-realms to appear and/
+<liturgical><prose>Appearing as lower-realms, || 120 ||
+
+[121]
+<tibetan>བསྐལ་པ་འཇིག་པ་ལ་སོགས་པ་བདེ་སྡུག་གི་སྣང་བ་སྣ་ཚོགས་ལ་སྤྱོད་པ་ནི།
+<literal>eon destroy etc bliss-suffer appear various to enjoy is/
+<liturgical><prose>Enjoying various bliss-suffer appearance of eon-destruction etc.—
+
+[122]
+<tibetan>རྨི་ལམ་ལྟ་བུའོ།
+<literal>dream like is/
+<liturgical><prose>Like a dream.
+
+[123]
+<tibetan>།དེ་ལྟར་རྡུལ་ཕྲན་རེའི་གོ་ནའང་རི་དང་གླིང་ལ་སོགས་པའི་ཞིང་ཁམས་ཆེན་པོར་སྣང་བ་ནི།
+<literal>thus particle one place even mountains and continents etc fields great appear is/
+<liturgical><prose>Thus, even in one particle-place, great fields of mountains, continents, and so forth appear—
+
+[124]
+<tibetan>འགྲོ་བའི་འཁྲུལ་སྣང་སྟེ་དོན་ལ་མེད་པ་གསལ་སྣང་ཡིན་པས་འཐད་པ་ཡིན་ནོ།
+<literal>beings confusion-appear truth in not clear-appear is by means-of valid is/
+<liturgical><prose>Beings' confused appearance, clear appearance without truth—thus valid.
+
+[125]
+<tibetan>།ཇི་སྐད་དུ།
+<literal>as said/
+<liturgical><prose>As it is said:
+
+[126]
+<tibetan>འཕགས་པ་ཏིང་ངེ་འཛིན་རྒྱལ་པོའི་མདོ་ལས།
+<literal>arya samadhi king sutra from/
+<liturgical><break><tantra> Even in the extent of a hair-tip, many Buddhas,
+
+[127]
+<tibetan>སྐྲ་རྩེའི་ཁྱོན་ལའང་སངས་རྒྱས་མང་པོ་ནི།
+<literal>hair-tip extent even buddha many are/
+<liturgical><tantra>As many as the sands of the Ganga river,
+
+[128]
+<tibetan>གངྒཱའི་ཀླུང་གི་བྱེ་མ་ཅི་ཡོད་སྙེད།
+<literal>ganga's river sands how-many-all/
+<liturgical><tantra>Those Victors' fields also that many,
+
+[129]
+<tibetan>།རྒྱལ་བ་དེ་དག་ཞིང་ཡང་དེ་སྙེད་དེ།
+<literal>victors those fields also that-many/
+<liturgical><tantra>Those characteristics not the same, eons not equal,
+
+[130]
+<tibetan>།དེ་དག་མཚན་ཉིད་མི་འདྲ་བསྐལ་མི་མཉམ།
+<literal>those characteristics different eon not-same/
+<liturgical><tantra>In the extent of a hair, the five realms, || 130 ||
+
+[131]
+<tibetan>།སྐྲ་ཡི་ཁྱོན་ལ་འགྲོ་བ་ལྔ་རྣམས་ཏེ།
+<literal>hair extent beings five are/
+<liturgical><tantra>Sentient hells and animals' realm,
+
+[132]
+<tibetan>།སེམས་ཅན་དམྱལ་དང་དུད་འགྲོའི་འགྲོ་བ་དང༌།
+<literal>sentient hells and animals realm and/
+<liturgical><tantra>Yama's world, gods and humans dwell,
+
+[133]
+<tibetan>།གཤིན་རྗེའི་འཇིག་རྟེན་ལྷ་དང་མི་རྣམས་བཞུགས།
+<literal>yama world gods and humans dwell/
+<liturgical><tantra>Not mixed, not becoming harmful,
+
+[134]
+<tibetan>།འདྲེས་པ་མེད་ཅིང་གནོད་པར་གྱུར་པ་མེད།
+<literal>mixed not and harm become not/
+<liturgical><tantra>In those places, lakes and oceans,
+
+[135]
+<tibetan>།དེ་དག་གནས་སུ་མཚོ་དང་རྒྱ་མཚོར་བཅས།
+<literal>those places lake and ocean with/
+<liturgical><tantra>Rivers, likewise lakes and pools,
+
+[136]
+<tibetan>།ཆུ་ཀླུང་དེ་བཞིན་མཚོ་དང་ལྟེང་ཀ་རྣམས།
+<literal>rivers likewise lake and pool and/
+<liturgical><tantra>Not mixed, not becoming harmful.
+
+[137]
+<tibetan>།འདྲེས་པ་མེད་ཅིང་གནོད་པར་འགྱུར་མེད་དེ།
+<literal>mixed not and harm become not/
+<liturgical><tantra>Thus the Victor's dharma is inconceivable.
+
+[138]
+<tibetan>།དེ་ལྟར་རྒྱལ་བའི་ཆོས་ནི་བསམ་མི་ཁྱབ།
+<literal>thus victor's dharma inconceivable/
+<liturgical><tantra>In that place, many mountains,
+
+[139]
+<tibetan>།དེ་ཡི་གནས་སུ་རི་བོ་དུ་མ་སྟེ།
+<literal>that place mountains many are/
+<liturgical><tantra>Surrounding Sumeru, great Sumeru,
+
+[140]
+<tibetan>།ཁོ་ར་ཁོར་ཡུག་ལྷུན་པོ་རབ་ལྷུན་དང༌།
+<literal>surrounding sumeru great sumeru and/
+<liturgical><tantra>Btang-zung and great btang-zung, || 140 ||
+
+[141]
+<tibetan>།བཏང་ཟུང་དང་ནི་བཏང་ཟུང་ཆེན་པོ་དང༌།
+<literal>btang-zung and btang-zung great and/
+<liturgical><tantra>'Bigs-byed, vulture-heap, snow mountain,
+
+[142]
+<tibetan>།འབིགས་བྱེད་བྱ་རྒོད་ཕུང་པོ་གངས་ཀྱི་རི།
+<literal>'bigs-byed vulture-heap snow mountain/
+<liturgical><tantra>In that place, unbearable hell-beings,
+
+[143]
+<tibetan>།གནས་དེར་སེམས་ཅན་དམྱལ་བ་མི་བཟད་པ།
+<literal>place there hell-beings unbearable/
+<liturgical><tantra>Hot and extremely hot, experiencing unpleasantness,
+
+[144]
+<tibetan>།ཚ་དང་རབ་ཏུ་ཚ་བ་ཉམས་མི་དགའ།
+<literal>hot and very hot experience not-pleasant/
+<liturgical><tantra>Then hell-beings' feeling,
+
+[145]
+<tibetan>།དེ་ནས་སེམས་ཅན་དམྱལ་བའི་ཚོར་བ་ནི།
+<literal>then hell-beings feeling is/
+<liturgical><tantra>Makes them experience following those sufferings.
+
+[146]
+<tibetan>།སྡུག་བསྔལ་དེ་དག་རྗེས་སུ་མྱོང་བར་བྱེད།
+<literal>suffering those follow experience make/
+<liturgical><tantra>In that place, gods' palaces,
+
+[147]
+<tibetan>།དེ་ཡི་གནས་ན་ལྷ་ཡི་གཞལ་མེད་ཁང༌།
+<literal>that place gods' palaces/
+<liturgical><tantra>Those twelve leagues of pleasantness,
+
+[148]
+<tibetan>།དེ་དག་དཔག་ཚད་བཅུ་གཉིས་ཉམས་དགའ་བ།
+<literal>those twelve-leagues pleasant/
+<liturgical><tantra>Even by many thousands of gods,
+
+[149]
+<tibetan>།ལྷ་རྣམས་སྟོང་ཕྲག་མང་པོ་དག་གིས་ཀྱང༌།
+<literal>gods thousand many even by means-of/
+<liturgical><tantra>With gods' joy, experiencing very great bliss.
+
+[150]
+<tibetan>།ལྷ་ཡི་དགའ་བས་ཤིན་ཏུ་བདེ་བ་མྱོང༌།
+<literal>gods joy very bliss experience/
+<liturgical><tantra>In that place, Buddhas arise, || 150 ||
+
+[151]
+<tibetan>།དེ་ཡི་གནས་སུ་སངས་རྒྱས་རྣམས་བཀྱེ་ཞིང༌།
+<literal>that place buddhas open and/
+<liturgical><tantra>Teaching of world-knowledge blazing in appearance.
+
+[152]
+<tibetan>།འཇིག་རྟེན་རིག་པའི་བསྟན་པ་འབར་བར་སྣང༌།
+<literal>world know teaching blaze appear/
+<liturgical><tantra>In that very place, dharma also subsides,
+
+[153]
+<tibetan>།དེ་ཡི་གནས་ཉིད་ན་ཡང་ཆོས་ནུབ་ཅིང༌།
+<literal>that place itself in also dharma subside and/
+<liturgical><tantra>The sound of guide's nirvāṇa also heard.
+
+[154]
+<tibetan>།འདྲེན་པ་མྱ་ངན་འདས་པའི་སྒྲ་ཡང་ཐོས།
+<literal>guide nirvana sound also hear/
+<liturgical><tantra>Humans in their own houses like dreams,
+
+[155]
+<tibetan>།མི་དག་བདག་གི་ཁྱིམ་ན་རྨི་ལམ་བཞིན།
+<literal>humans self house in dream like/
+<liturgical><tantra>Intoxicated with joy in desire-qualities,
+
+[156]
+<tibetan>།འདོད་པའི་ཡོན་ཏན་དག་ལ་དགའ་མྱོས་ནས།
+<literal>desire qualities to joy intoxicate/
+<liturgical><tantra>Waking after, not seeing that desire.
+
+[157]
+<tibetan>།ཕྱིར་སད་ནས་ཀྱང་དེ་ཡི་འདོད་མ་མཐོང༌།
+<literal>wake after also that desire not see/
+<liturgical><tantra>That is known as dream by that.
+
+[158]
+<tibetan>།དེ་ནི་རྨི་ལམ་ཡིན་པ་དེ་ཡིས་ཤེས།
+<literal>that dream is that know/
+<liturgical><tantra>Thus seeing, hearing, knowing, and distinguishing differences,
+
+[159]
+<tibetan>།དེ་བཞིན་མཐོང་ཐོས་རིག་དང་བྱེ་བྲག་ཕྱེད།
+<literal>thus see hear know and distinction understand/
+<liturgical><tantra>All these are untrue, like dreams.
+
+[160]
+<tibetan>།འདི་དག་ཐམས་ཅད་མི་བདེན་རྨི་ལམ་བཞིན།
+<literal>these all not-true dream like/
+<liturgical><tantra>So it is. || 160 ||
+
+[161]
+<tibetan>།ཅེས་སོ།
+<literal>thus/
+<liturgical><break><prose> Thus in the world of one particle-place, even in appearing subtle particles, sentient-beings' fields and arrangements are measureless.
+
+[162]
+<tibetan>།དེ་ལྟར་རྡུལ་གཅིག་གི་གོ་སའི་འཇིག་རྟེན་དེ་ན་སྣང་བའི་རྡུལ་ཕྲ་བ་ལའང་སེམས་ཅན་གྱི་ཞིང་དང་བཀོད་པ་ཚད་མེད་དེ།
+<literal>thus particle one place world that in appear particles subtle to even sentient-beings field and arrangement immeasurable/
+<liturgical><prose>Thus in that world-system of a single particle's scope, within even the subtle particles of appearance, sentient beings' fields and displays are immeasurable.
+
+[163]
+<tibetan>སངས་རྒྱས་ཀྱི་ཡུལ་དང་ཡེ་ཤེས་བསམ་གྱིས་མི་ཁྱབ་པ་ལ་འཇུག་པའི་མདོ་ལས།
+<literal>buddha object and wisdom inconceivable enter sutra from/
+<liturgical><prose>From the Sutra of Entering the Buddha Realm and Wisdom Inconceivable:
+
+[164]
+<tibetan>སྟོང་གསུམ་གྱི་ལྷ་དང་མི་ནི་ཆེས་ཉུང་གིས།
+<literal>trichiliocosm gods and humans few-than/
+<liturgical><break><tantra> The gods and humans of the three-thousand worlds are very few.
+
+[165]
+<tibetan>ཕྱི་རོལ་པའི་དྲང་སྲོང་མངོན་པར་ཤེས་པ་དང་ལྡན་པ་གཅིག་གིས་ཤིང་རྟའི་འཕང་ལོ་ཙམ་གྱི་སའི་ཁྱོན་ལ་སེམས་ཅན་མཐོང་བ་ནི་དེ་བས་ཆེས་མང་ངོ༌།
+<literal>outsiders sage clairvoyance possess one by means-of chariot wheel extent earth extent sentient-beings see that-from more is/
+<liturgical><tantra>An outsider sage with clairvoyance seeing sentient-beings across an earth-extent of a single chariot-wheel—that is more numerous.
+
+[166]
+<tibetan>།དེ་དག་གིས་སྟོང་གསུམ་དུ་མཐོང་བ་བས་ནི་ཉན་ཐོས་རྣམ་པར་ཐར་པ་བརྒྱད་ལས།
+<literal>those by means-of trichiliocosm see than shravakas liberation eight from/
+<liturgical><tantra>More than those seeing the three-thousand worlds, from the eight liberations of shravakas;
+
+[167]
+<tibetan>བསམ་གཏན་པའི་གང་ཟག་གཅིག་གིས་ཤིང་རྟའི་འཕང་ལོ་ཙམ་ལ་མཐོང་བ་ཆེས་མང་ངོ༌།
+<literal>meditation person one by means-of chariot wheel extent see more is/
+<liturgical><tantra>More than those, from the eight liberations of bodhisattvas; more, a single meditator seeing across a single chariot-wheel.
+
+[168]
+<tibetan>།དེ་དག་གིས་སྟོང་གསུམ་དུ་མཐོང་བ་བས་ནི་བྱང་ཆུབ་སེམས་དཔའ་རྣམ་པར་ཐར་པ་བརྒྱད་ལས་བསམ་གཏན་པ་གཅིག་གིས་ཤིང་རྟའི་འཕང་ལོ་ཙམ་ལ་མཐོང་བ་ཆེས་མང་ངོ༌།
+<literal>those by means-of trichiliocosm see than bodhisattvas liberation eight from meditation one by means-of chariot wheel extent see more is/
+<liturgical><tantra>More than those seeing the three-thousand worlds,
+
+[169]
+<tibetan>།དེ་དག་གིས་སྟོང་གསུམ་དུ་མཐོང་བ་བས་ནི།
+<literal>those by means-of trichiliocosm see than/
+<liturgical><tantra>More, the Tathagata's eye seeing across the earth-extent of a chariot-wheel—thus spoke.
+
+[170]
+<tibetan>དེ་བཞིན་གཤེགས་པའི་སྤྱན་གྱིས་ཤིང་རྟའི་འཕང་ལོ་ཙམ་གྱི་སའི་ཁྱོན་ལ་གཟིགས་པ་ཆེས་མང་ངོ་ཞེས་གསུངས་སོ།
+<literal>tathagata's eye by means-of chariot wheel extent earth extent see more said/
+<liturgical><break><prose> Thus, wherever sky pervades, in those places sentient-beings pervade. || 170 ||
+
+[171]
+<tibetan>།དེ་ལྟར་ན་ནམ་མཁས་གར་ཁྱབ་ཀྱི་གནས་ན་སེམས་ཅན་གྱིས་ཁྱབ་ལ།
+<literal>thus sky where pervade place in sentient-beings pervade and/
+<liturgical><prose>Through Buddha's emanations pervading them, all purposes are accomplished.
+
+[172]
+<tibetan>དེ་དག་ལ་སངས་རྒྱས་ཀྱི་སྤྲུལ་པས་ཁྱབ་ནས་དོན་མཛད་པ་ཐམས་ཅད་ཀྱང༌།
+<literal>those buddha emanation by means-of pervade after purpose make all also/
+<liturgical><prose>Some directly accomplish purposes through Samantabhadra's emanation as teacher.
+
+[173]
+<tibetan>ལ་ལ་ནི་སྟོན་པ་ཀུན་ཏུ་བཟང་པོའི་སྤྲུལ་པས་དངོས་སུ་དོན་མཛད་ལ།
+<literal>some teacher samantabhadra emanation by means-of directly purpose make/
+<liturgical><prose>Some also accomplish purposes through Buddhas included in other tantras.
+
+[174]
+<tibetan>ལ་ལར་རྒྱུད་གཞན་གྱིས་བསྡུས་པའི་སངས་རྒྱས་ཀྱིས་དོན་མཛད་པ་དེ་དག་ཀྱང༌།
+<literal>sometimes other-tantra included buddha by means-of purpose make those also/
+<liturgical><prose>Some through Buddhas included in other tantras accomplish purposes.
+
+[175]
+<tibetan>དང་པོ་ཀུན་ཏུ་བཟང་པོས་ལམ་བསྟན་ནས་སེམས་བསྐྱེད་དུ་བཅུག་པ་ལས་བྱུང་བས།
+<literal>first samantabhadra path show after mind generate cause from arise by means-of/
+<liturgical><prose>Having first received the path from Samantabhadra, generating bodhicitta, thus arose.
+
+[176]
+<tibetan>ཀུན་ཏུ་བཟང་པོས་རྒྱུད་ནས་དོན་མཛད་པ་ཞེས་བྱའོ།
+<literal>samantabhadra tantra from purpose make called/
+<liturgical><tantra>Thus Samantabhadra's purpose-accomplishment through Tantra is called.
+
+[177]
+<tibetan>།འདི་དག་བསྟན་བཅོས་འགའ་ཞིག་ཏུ།
+<literal>these treatises some in/
+<liturgical><prose>In certain treatises this sequence appears:
+
+[178]
+<tibetan>སངས་རྒྱས་ལས་ཆོས་ཆོས་ལས་འཕགས་པའི་ཚོགས།
+<literal>buddha from dharma dharma from arya hosts/
+<liturgical><tantra>From Buddha comes dharma, from dharma come the arya hosts.
+
+[179]
+<tibetan>།ཞེས་འབྱུང་བའི་གོ་རིམ་གྱི་དགོངས་པ་ཡིན་ནོ།
+<literal>thus arise sequence meaning is/
+<liturgical><prose>Such is the meaning of this order.
+
+[180]
+<tibetan>།གཉིས་པ་ཞིང་འདིར་རྡོ་རྗེ་འཆང་གིས་ཞི་བ་བརྙེས་པའི་ཚུལ་ལ།
+<literal>second field this vajradhara by means-of peace obtain manner-to/
+<liturgical><ornament>Second: Regarding Vajradhara's manner of obtaining peace in this field—
+
+[181]
+<tibetan>ཁ་ཅིག་ཐོག་མའི་མགོན་པོ་ལས།
+<literal>some first protector from/
+<liturgical><prose>Some say from the first Protector
+
+[182]
+<tibetan>རྒྱུད་ཐ་དད་པའི་སེམས་ཅན་གྱིས་སེམས་བསྐྱེད་པ་ཡིན་ནོ་ཞེས་འདོད་པ་ནི་མི་རིགས་ཏེ།
+<literal>tantra different sentient-beings mind generate is wish is not valid/
+<liturgical><tantra>Beings of different tantras generate mind—this view is invalid,
+
+[183]
+<tibetan>སྒྱུ་འཕྲུལ་རྡོ་རྗེ་ལས།
+<literal>magical vajra from/
+<liturgical><prose>For the Magical Vairotsana declares:
+
+[184]
+<tibetan>དང་པོའི་རྒྱལ་བ་ས་རྒྱལ་བ།
+<literal>first buddha earth buddha/
+<liturgical><tantra>"First Buddha, Buddha of earth, || 10 ||
+
+[185]
+<tibetan>།སེམས་དཔའ་ཆེ་དང་འཇོམས་པ་ཆེ།
+<literal>hero great and destroyer great/
+<liturgical><tantra>Great hero and great destroyer"—
+
+[186]
+<tibetan>།ཞེས་དང༌།
+<literal>thus and/
+<liturgical><tantra>Thus.
+
+[187]
+<tibetan>འདི་ནི་སྟོན་པ་རྡོ་རྗེ་འཆང༌།
+<literal>this teacher vajradhara/
+<liturgical><tantra>"This teacher is Vajradhara,
+
+[188]
+<tibetan>།སངས་རྒྱས་ཀུན་བས་སྔར་སངས་རྒྱས།
+<literal>buddha all before buddha/
+<liturgical><tantra>Buddha before all Buddhas"—
+
+[189]
+<tibetan>།ཞེས་གསུངས་པ་དང་འགལ་བའི་ཕྱིར་རོ།
+<literal>thus said and contradict because/
+<liturgical><tantra>Thus spoke the Bhagavan, contradicting that view.
+
+[190]
+<tibetan>།དེས་ན་ཞིང་འདིའི་འགྲོ་བའི་དོན་དུ་ཐོག་མའི་དུས་སུ་ཀུན་ཏུ་བཟང་པོ་ཉིད་ཀྱི་རྣམ་འཕྲུལ་གྱིས་སོ་སོ་སྐྱེ་བོས་སེམས་བསྐྱེད་པ་ལྟར་བསྟན་ནས་སངས་རྒྱས་པའི་ཚུལ་དང་མཛད་པ་ཆེན་པོའི་རོལ་པ་བཀྱེ་བ་ཡིན་ནོ།
+<literal>therefore field this beings' purpose for first time samantabhadra self emanation by means-of ordinary-beings mind generate like show after buddha manner and activity great play open is/
+<liturgical><prose>Therefore, for the purpose of beings in this field; in the first time, through Samantabhadra's own emanations; displaying as ordinary beings generating mind; then demonstrating Buddhahood and opening the great play of enlightened activity.
+
+[191]
+<tibetan>།འདི་ལྟ་བུའི་ཚུལ་ནི་ཐུན་མོང་གི་མདོ་སྡེ་དག་ལས་ཀྱང་གྲགས་ཏེ།
+<literal>this-like manner common sutras from also famous/
+<liturgical><prose>Such manner is also renowned in common sutras.
+
+[192]
+<tibetan>ཡབ་སྲས་མཇལ་བ་ལས།
+<literal>father-son meet from/
+<liturgical><tantra>From the Meeting of Father and Son:
+
+[193]
+<tibetan>དཔའ་བོ་ཆེན་པོ་ཐབས་མཁས་ཏེ།
+<literal>hero great skillful-means/
+<liturgical><tantra>"Great hero, skilled in skillful-means,
+
+[194]
+<tibetan>།སེམས་ཅན་ཡོངས་སུ་སྨིན་པའི་ཕྱིར།
+<literal>sentient-beings completely ripen purpose/
+<liturgical><tantra>For the complete ripening of sentient-beings, || 20 ||
+
+[195]
+<tibetan>།བྱེ་བ་ཕྲག་བརྒྱར་རྒྱལ་བ་ཉིད།
+<literal>ten-million buddha self/
+<liturgical><tantra>Though becoming Buddha ten-million times,
+
+[196]
+<tibetan>།སངས་རྒྱས་ཉིད་དུ་བསྟན་གྱུར་ཀྱང༌།
+<literal>buddha-as show become even/
+<liturgical><tantra>Still you guide, O Teacher,
+
+[197]
+<tibetan>།ད་དུང་དུ་ཡང་འདྲེན་པ་ཁྱོད།
+<literal>still also guide you/
+<liturgical><tantra>Demonstrating many Buddhas"—
+
+[198]
+<tibetan>།སངས་རྒྱས་མང་པོ་སྟོན་པར་མཛད།
+<literal>buddha many show make/
+<liturgical><tantra>Thus.
+
+[199]
+<tibetan>།ཅེས་པ་དང༌།
+<literal>thus and/
+<liturgical><tantra>From the Flower Ornament:
+
+[200]
+<tibetan>ཕལ་པོ་ཆེ་ལས།
+<literal>flower-ornament from/
+<liturgical><tantra>"Having attained the ocean of supreme enlightenment,
+
+[201]
+<tibetan>བྱང་ཆུབ་རྒྱ་མཚོ་རབ་བརྙེས་གྱུར་ནས་ཀྱང༌།
+<literal>enlightenment ocean supreme obtain after even/
+<liturgical><tantra>For the complete ripening of the ocean of sentient-beings,
+
+[202]
+<tibetan>།སེམས་ཅན་རྒྱ་མཚོ་རབ་ཏུ་སྨིན་བྱའི་ཕྱིར།
+<literal>sentient-beings ocean supreme ripen purpose/
+<liturgical><tantra>Demonstrating the ocean of bodhicitta generation,
+
+[203]
+<tibetan>།བྱང་ཆུབ་སེམས་བསྐྱེད་རྒྱ་མཚོ་སྟོན་མཛད་ཅིང༌།
+<literal>enlightenment mind-generate ocean show make and/
+<liturgical><tantra>Showing the ocean of conduct undiminished through all time—
+
+[204]
+<tibetan>།མི་འགྲིབ་སྤྱོད་པ་རྒྱ་མཚོ་དུས་ཀུན་སྟོན།
+<literal>not-diminish conduct ocean time all show/
+<liturgical><tantra>Such is the emanation of the Sugatas." || 30 ||
+
+[205]
+<tibetan>།བདེ་གཤེགས་རྣམས་ཀྱི་རྣམ་འཕྲུལ་དེ་འདྲའོ།
+<literal>sugatas emanation that like/
+<liturgical><tantra>Thus spoke the Bhagavan.
+
+[206]
+<tibetan>།ཞེས་གསུངས་པ་བཞིན་ནོ།
+<literal>thus said as/
+<liturgical><prose>Therefore, the first Protector, intending to tame this realm, displayed through emanations that manner of mind-generation.
+
+[207]
+<tibetan>།དེའི་ཕྱིར་ཐོགས་མའི་མགོན་པོས་ཞིང་འདི་གདུལ་བར་དགོངས་ནས་རྣམ་པར་འཕྲུལ་བས་སེམས་བསྐྱེད་པའི་ཚུལ་བསྟན་པ་དེ་ཡང༌།
+<literal>therefore first protector field this tame purpose mind emanation by means-of mind generate manner show that also/
+<liturgical><ornament>Regarding this Fortunate Eon, before immeasurable eons past,
+
+[208]
+<tibetan>བསྐལ་པ་བཟང་པོ་འདི་ལ་ལྟོས་ནས།
+<literal>eon good this regarding/
+<liturgical><prose>In the field called "Self-Nature Completely Arranged,"
+
+[209]
+<tibetan>བསྐལ་པ་དཔག་ཏུ་མེད་པའི་སྔོན་རོལ་ཞིང་ཁམས་རང་བཞིན་རྣམ་པར་བཀོད་པ་ཞེས་བྱ་བར།
+<literal>eon immeasurable before field nature arrange called/
+<liturgical><prose>To Buddha Flower-Great-Beauty offered one golden vajra, generating supreme bodhicitta as the first mind.
+
+[210]
+<tibetan>སངས་རྒྱས་མེ་ཏོག་མཛེས་པ་ཆེན་པོ་ལ་གསེར་གྱི་རྡོ་རྗེ་ཅིག་ཕུལ་ནས་ཐུགས་དང་པོ་བྱང་ཆུབ་མཆོག་ཏུ་སེམས་བསྐྱེད་དོ།
+<literal>buddha flower-beautiful great to gold vajra one offer after mind first enlightenment supreme mind generate/
+<liturgical><prose>Thus, then in the second birth, in the north, "Wind-Movement Arranged," becoming householder Good-Give's son called Jewel-Garland,
+
+[211]
+<tibetan>།དེ་ནས་སྐྱེ་བ་གཉིས་ན་བྱང་ཕྱོགས་རླུང་གི་གཡོ་བ་བཀོད་པ་ཞེས་བྱ་བར་ཁྱིམ་བདག་ལེགས་སྦྱིན་གྱི་སྲས་ནོར་བུའི་ཕྲེང་བ་ཞེས་བྱ་བར་གྱུར་ནས།
+<literal>then birth second in north direction wind move arrange called householder good-give son jewel-garland called become after/
+<liturgical><prose>Dwelt near Buddha Wheel-Well-Conduct, hearing Dharma.
+
+[212]
+<tibetan>སངས་རྒྱས་འཁོར་ལོ་ལེགས་པར་སྤྱོད་པའི་ཉེ་དྲུང་དུ་འཁོད་དེ་ཆོས་ཉན་ཏོ།
+<literal>buddha wheel-well-conduct near dwell dharma hear/
+<liturgical><prose>Then passed beyond, born as a son called "Lightning-Light" in the Bliss-Intoxicated Island, the brahmin youth Good-Give.
+
+[213]
+<tibetan>།དེ་ནས་ཤི་འཕོས་ནས་བདེ་བས་མྱོས་པའི་གླིང་དུ་གློག་གི་འོད་ཅེས་བྱ་བའི་སྲས་སུ་འཁྲུངས་ཏེ་བྲམ་ཟེའི་ཁྱེའུ་ལེགས་བྱིན་ཞེས་བྱའོ།
+<literal>then death after bliss intoxicated island lightning-light called son birth brahmin youth good-give called/
+<liturgical><prose>At that time, heard Dharma from Buddha Good-Intelligence for five years, and for seven years abided in single-pointed samadhi.
+
+[214]
+<tibetan>།དེའི་ཚེ་སངས་རྒྱས་དགེ་བའི་བློ་གྲོས་ལ་ལོ་ལྔའི་བར་དུ་ཆོས་ཉན་ཅིང་ལོ་བདུན་དུ་ཏིང་ངེ་འཛིན་རྩེ་གཅིག་ལ་མཉམ་པར་བཞག་ནས།
+<literal>that time buddha good-intelligence to year five between dharma hear and year seven samadhi single to equipoise after/
+<liturgical><prose>At seventy-five years, demonstrated manifest complete Buddhahood upon the peak of the mountain called "Jewel-Precious-Heap-Arranged." || 40 ||
+
+[215]
+<tibetan>ལོ་བདུན་ཅུ་རྩ་ལྔ་ན་ནོར་བུ་རིན་པོ་ཆེའི་ཕུང་པོ་རྣམ་པར་བཀོད་པ་ཞེས་བྱ་བའི་རིའི་རྩེ་མོ་ལ་མངོན་པར་རྫོགས་པར་སངས་རྒྱ་བའི་ཚུལ་བསྟན་ནས།
+<literal>year seventy-five at jewel precious-heap arrange called mountain peak manifest complete buddha manner show after/
+<liturgical><prose>Having dwelt for one great eon in the meaning of dharma-body,
+
+[216]
+<tibetan>ཆོས་ཀྱི་སྐུའི་དགོངས་པ་ལ་བསྐལ་པ་ཆེན་པོ་གཅིག་ཏུ་བཞུགས་པ་ལས།
+<literal>dharma-body meaning eon great one in dwell after/
+<liturgical><prose>Then self-arose as the Victor's enjoyment-complete body in ornament and color wheel.
+
+[217]
+<tibetan>རྒྱལ་བ་ལོངས་སྤྱོད་རྫོགས་པའི་སྐུ་རྒྱན་དང་ཁ་དོག་གི་འཁོར་ལོར་རང་བྱོན་ནོ།
+<literal>victor enjoyment-complete body ornament and color wheel self-arise/
+<liturgical><tantra>From the spreading-gathering of light-rays, arose thirty-six self-arisen tantras.
+
+[218]
+<tibetan>།འོད་ཟེར་གྱི་འཕྲོ་འདུ་ལས་མཛད་པ་སུམ་ཅུ་རྩ་དྲུག་གི་རྒྱུད་རང་བྱུང་ཞིང༌།
+<literal>light ray spread gather from activity thirty-six tantra self-arise and/
+
+[219]
+<tibetan>གནས་པ་འོད་ཀྱི་ཐིག་ལེ་ལས་གནས་ཕུན་སུམ་ཚོགས་པ་དྲུག་ཅུར་གནས་ཤིང༌།
+<literal>from bindu light abiding abiding as sixty complete-abidings/
+<liturgical><tantra>From the bindu of light, abiding, established sixty complete perfections,
+
+[220]
+<tibetan>སངས་རྒྱས་ཀྱི་སྐུ་འབུམ་ཕྲག་ཁྲག་ཁྲིག་དཔག་ཏུ་མེད་ཅིང་བརྗོད་ཀྱིས་མི་ལང་བ་རྣམས་རང་སྣང་ཞིང༌།
+<literal>buddha-bodies hundreds-of-thousands countless and inexpressible self-appear/
+<liturgical><prose>Buddha-bodies hundred-thousand countless, inexpressible, self-appearing;
+
+[221]
+<tibetan>རིགས་ལྔའི་སངས་རྒྱས་སུ་སྣང་བ་དག་གི་ལྗགས་ཀྱི་དབང་པོ་ལས་འོད་ཟེར་དཔག་ཏུ་མེད་པ་འཕྲོས་པ་ཐམས་ཅད་ཀྱང་རང་བྱུང་གི་ཡི་གེ་དྲུག་གི་སྒྲར་གྲགས་པས་མཛད་པ་མེད་པའི་ཐུགས་རྗེ་ཕྱོགས་བཅུར་འཕྲོས་སོ།
+<literal>from tongue-faculty those appearing as five-family buddhas light-rays immeasurable radiating-forth all also by means-of self-arisen six letters' sound being proclaimed compassion without activity radiates in ten directions/
+<liturgical><tantra>From the tongue-faculty of those appearing as five-family Buddhas, immeasurable light-rays radiate forth, all through the proclaimed sound of self-arisen six syllables, compassion without activity radiates in ten directions.
+
+[222]
+<tibetan>།དེ་ཉིད་ཀྱི་ངང་ལས་སངས་རྒྱས་རྣམ་པར་སྣང་མཛད་ཆེན་པོའི་སྐུ་གཙོ་འཁོར་དང་བཅས་པ་གྲངས་མེད་པ་ཆོས་ཉིད་ཀུན་ཏུ་བཟང་པོའི་ལོངས་སྤྱོད་དུ་འདུས་པ་དང༌།
+<literal>from state that very thing buddha vairocana-great body principal-and-retinue countless dharmatā samantabhadra's complete-enjoyment gathering and/
+<liturgical><tantra>From that very state, Buddha Vairochana the great manifest, body with principal and retinue countless, dharmatā Samantabhadra's complete enjoyment gathering,
+
+[223]
+<tibetan>རྫོགས་པ་ཆེན་པོའི་སྐུར་འོད་འབར་རོ།
+<literal>great perfection's body blazes with light/
+<liturgical><prose>Great Perfection's body blazes with light.
+
+[224]
+<tibetan>།དེ་བཞིན་དུ་མི་བསྐྱོད་པ་དང༌།
+<literal>likewise akshobhya and/
+<liturgical><prose>Likewise Akṣobhya, the immovable Buddha of the eastern direction, || 50 ||
+
+[225]
+<tibetan>རིན་ཆེན་འབྱུང་ལྡན་དང༌།
+<literal>ratnasambhava and/
+<liturgical><prose>Ratnasaṃbhava, the jewel-born Buddha of the southern direction,
+
+[226]
+<tibetan>སྣང་བ་མཐའ་ཡས་དང༌།
+<literal>amitabha and/
+<liturgical><prose>Amitābha, the boundless light Buddha of the western direction,
+
+[227]
+<tibetan>དོན་ཡོད་གྲུབ་པ་ལ་སོགས་པ་སོ་སོའི་དཀྱིལ་འཁོར་དང་བཅས་པ་གྲངས་མེད་བརྗོད་དུ་མེད་པ་དང་བཅས་པ།
+<literal>amoghasiddhi and so forth individual mandalas-with-retinue countless inexpressible with/
+<liturgical><prose>Amoghasiddhi and so forth, each with individual mandalas and retinues countless and inexpressible,
+
+[228]
+<tibetan>ཉིད་ཀྱི་ལོངས་སྤྱོད་དུ་འདུས་ཤིང་རྫོགས་པ་ཆེན་པོའི་སྐུར་འོད་འབར་རོ།
+<literal>own complete-enjoyment gathering and great perfection's body blazes with light/
+<liturgical><prose>Gathering in his own complete enjoyment, each Buddha's Great Perfection body blazes with light.
+
+[229]
+<tibetan>།དེའི་ཚེ་འོད་ཁྱིམ་རྣམ་པར་དག་པ་ཤིན་ཏུ་བཀོད་ལེགས་པའི་གནས་ཁང་བུ་བརྩེགས་པ་ན།
+<literal>at that time lighthouse completely-pure extremely well-arranged upper-chamber dwelling/
+<liturgical><prose>At that time, in Light-House completely pure, supremely well-arranged upper dwelling,
+
+[230]
+<tibetan>སྟོན་པ་རྣམ་པར་དག་པ་རང་ཤེས་རིག་གི་རྒྱལ་པོ་རྣམ་པར་སྣང་མཛད་གང་ཆེན་མཚོ་ཞེས་བྱ་བ།
+<literal>teacher completely-pure self-awareness king vairocana gang-chen-tsho called/
+<liturgical><prose>Teacher Completely Pure, Self-Knowing Awareness King, Vairochana Gang-chen-mtsho by name,
+
+[231]
+<tibetan>དཀྱིལ་འཁོར་ཐམས་ཅད་ཀྱི་མངའ་བདག་ཏུ་བྱུང་སྟེ།
+<literal>all mandalas' lord becoming/
+<liturgical><prose>Became lord of all mandalas.
+
+[232]
+<tibetan>སྐུ་གསུང་ཐུགས་བྱས་པ་མེད་པའི་བསྟན་པ་རིན་པོ་ཆེའི་ངང་ལས་མི་གཡོ།
+<literal>body-speech-mind without making precious teaching's state from unmoving/
+<liturgical><prose>Body-speech-mind without fabrication, precious teaching's state unmoving,
+
+[233]
+<tibetan>མི་འབྱུང༌།
+<literal>non-arising/
+<liturgical><prose>Non-arising,
+
+[234]
+<tibetan>མི་གནས།
+<literal>non-abiding/
+<liturgical><prose>Non-abiding, || 60 ||
+
+[235]
+<tibetan>མི་ལེན།
+<literal>non-taking/
+<liturgical><prose>Non-taking,
+
+[236]
+<tibetan>མི་འདོར།
+<literal>non-rejecting/
+<liturgical><prose>Non-rejecting,
+
+[237]
+<tibetan>མི་བསྐྱོད་པ་ཉིད་དུ་རང་བྱུང་ངོ༌།
+<literal>non-moving itself self-arisen/
+<liturgical><prose>Non-moving itself self-arisen.
+
+[238]
+<tibetan>།དེའི་ཚེ་གདུལ་བྱ་མ་ཡིན་འདུལ་བྱེད་རིན་པོ་ཆེ་མཛེས་པའི་འཁོར་ཚོམ་བུ་འབུམ་ཕྲག་གྲངས་མེད་པ་ཡང༌།
+<literal>at that time object-to-be-tamed-not tamer precious beautiful retinue assembly hundreds-of-thousands countless also/
+<liturgical><prose>At that time, the tamer of those not to be tamed, with precious beautiful retinue assembly hundred-thousand countless,
+
+[239]
+<tibetan>ཉིད་ཀྱི་སྐུ་དང༌།
+<literal>own body and/
+<liturgical><tantra>From his own body emanating forms,
+
+[240]
+<tibetan>གསུང་དང༌།
+<literal>speech and/
+<liturgical><tantra>From speech proclaiming sounds,
+
+[241]
+<tibetan>ཐུགས་དང༌།
+<literal>mind and/
+<liturgical><tantra>From mind radiating awareness,
+
+[242]
+<tibetan>ཡོན་ཏན་དང༌།
+<literal>qualities and/
+<liturgical><tantra>From qualities displaying virtues,
+
+[243]
+<tibetan>འཕྲིན་ལས་ཉིད་ལས་འཕྲོ་ཞིང་འདུས་སོ།
+<literal>activities itself from radiating and gathering/
+<liturgical><prose>Activities themselves radiate and gather.
+
+[244]
+<tibetan>།དེ་ལྟར་སྣང་བ་ཀུན་ཀྱང་སྟེང་དང༌།
+<literal>thus all appearances upper and/
+<liturgical><prose>Thus all appearances—upper || 70 ||
+
+[245]
+<tibetan>འོག་དང༌།
+<literal>lower and/
+<liturgical><prose>And lower,
+
+[246]
+<tibetan>ཕྱོགས་བཅུའི་འཇིག་རྟེན་མ་ཡིན་ཞིང༌།
+<literal>ten directions' world not being/
+<liturgical><prose>Ten directions' worlds—not being,
+
+[247]
+<tibetan>ཐམས་ཅད་ཀྱང་རྣམ་དག་སྟུག་པོ་བཀོད་པ་བདེ་བའི་ཞིང་རང་སྣང་རྣམ་པར་དག་པ་རང་ཤར་བའི་སངས་རྒྱས་ཀྱི་ཞིང་ཁམས་དག་པར་གསལ་བར་གྱུར་ཏོ།
+<literal>all completely-pure dense-arrangement blissful-field self-appearance completely-pure self-arisen buddha-field clearly became/
+<liturgical><prose>All completely pure, dense arrangement, blissful field, self-appearance completely pure, self-arisen Buddha-field clearly became.
+
+[248]
+<tibetan>།དེ་ཉིད་ཀྱི་སྣང་ཆ་ལས་མཚན་དང་དཔེ་བྱད་ཕུན་སུམ་ཚོགས་པ་རྡོ་རྗེ་འཆང་ཡོན་ཏན་རྫོགས་པའི་སྐུར་བྱུང་བ་ནི།
+<literal>from that very thing's aspect-of-appearance marks-and-characteristics complete vajradhara qualities complete body arising is/
+<liturgical><tantra>From that very appearance-aspect, marks and characteristics complete, the arising of Vajradhara's qualities complete body:
+
+[249]
+<tibetan>སེམས་བསྐྱེད་པའི་རྟེན་དུ་རྡོ་རྗེ་ཕུལ་བ་ལས་བྱུང་བའོ།
+<literal>mind generate basis-to vajra offer from arise is/
+<liturgical><tantra>From offering a vajra as basis for mind-generation arose this manifestation.
+
+[250]
+<tibetan>།དེ་ཡང་བསོད་ནམས་རྣམ་པར་དག་པས་སྐུ་སྣང་ལ་རང་བཞིན་མེད་པ།
+<literal>that also merit pure by means-of body appear nature not/
+<liturgical><prose>That pure merit causes the body to appear without inherent nature,
+
+[251]
+<tibetan>བསགས་པ་རྣམ་པར་དག་པས།
+<literal>accumulation pure by means-of/
+<liturgical><prose>The accumulations are pure and complete,
+
+[252]
+<tibetan>ཐུགས་ཀྱི་ཤེས་རབ་ཆེན་པོས་རྣམ་པ་ཐམས་ཅད་མཁྱེན་པ་ལ་སྤྱོད་པའོ།
+<literal>mind's wisdom great by means-of all-aspects know to conduct is/
+<liturgical><prose>Mind's great wisdom conducts all aspects as spontaneously known.
+
+[253]
+<tibetan>།དེ་ལྟར་ཆོས་ཀྱི་སྐུའི་དུས་ན་གནས་ཆོས་ཀྱི་དབྱིངས་དམིགས་བསམ་རྣམ་པར་དག་པ་ན།
+<literal>thus dharma-body time when place dharma-sphere object-thought pure when/
+<liturgical><prose>Thus in dharmakāya time, when place, dharma-sphere, object, and thought are completely pure,
+
+[254]
+<tibetan>སྟོན་པ་ཀུན་ཏུ་བཟང་པོ་རང་བཞིན་གྱི་མཛད་པ་མ་ལུས་པ་རྫོགས་པར་མཛད་ཅིང་བཞུགས་པ་ཡང༌།
+<literal>teacher samantabhadra nature activity all complete make and dwell also/
+<liturgical><prose>Teacher Samantabhadra's natural activities are all complete, perfectly accomplished and abides. || 80 ||
+
+[255]
+<tibetan>འཁོར་རྡུལ་གཅིག་གི་སྟེང་ན་རྡུལ་སྙེད་ཀྱི་སངས་རྒྱས་དཔག་དཔག་ཏུ་མེད་པ་རྣམས་དང་ལྷན་ཅིག་བསྟན་པ་དངོས་རང་བཞིན་རྫོགས་པ་ཆེན་པོ་ཆོས་ཉིད་ཀྱི་རྡོ་རྗེ་སུས་ཀྱང་འདུས་མ་བྱས་པ་ཉིད།
+<literal>retinue particle one top on particle number buddhas countless and with teaching actual nature dzogchen dharma-nature vajra whom by means-of uncompounded is/
+<liturgical><prose>Furthermore, upon one particle of retinue, particles-number Buddhas countless, with actual nature teaching, dzogchen dharma-nature vajra whoever—all uncompounded.
+
+[256]
+<tibetan>དུས་ཆོས་ཉིད་ལ་མཐོང་བ་རྣམ་་པར་དག་པའི་སྤྱོད་ཡུལ་ཕུན་སུམ་ཚོགས་པ་ལྔར་བཞུགས་སོ།
+<literal>time dharma-nature to view pure object perfections five dwell/
+<liturgical><prose>When viewing dharma-nature, pure conduct and the five perfections abide.
+
+[257]
+<tibetan>།འདིའི་དུས་ན་སྐུ་གསུང་ཐུགས་མི་ཟད་པ་རྒྱན་གྱི་འཁོར་ལོའི་མཛད་པ་སུམ་ཅུ་རྩ་དྲུག་ལས༌།
+<literal>this time when body speech mind inexhaustible ornament wheel activity thirty-six from/
+<liturgical><prose>In this time, the thirty-six inexhaustible activities of body, speech, and mind's ornament-wheel manifest.
+
+[258]
+<tibetan>སྐུའི་ཕྱིའི་མཛད་པ་བཞི་ནི།
+<literal>body outer activity four are/
+<liturgical><prose>The body's four outer activities are these:
+
+[259]
+<tibetan>མི་འགྱུར་བ་དང༌།
+<literal>not-change and/
+<liturgical><prose>Unchanging in nature, without alteration,
+
+[260]
+<tibetan>མི་འོང་བ་དང༌།
+<literal>not-come and/
+<liturgical><prose>Uncoming from any source or origin,
+
+[261]
+<tibetan>མི་འགྲོ་བ་དང༌།
+<literal>not-go and/
+<liturgical><prose>Ungoing to any destination or end,
+
+[262]
+<tibetan>མི་གནས་པ་ཉིད་དོ།
+<literal>not-dwell is/
+<liturgical><prose>Non-abiding in any location or state.
+
+[263]
+<tibetan>།ནང་གི་བཞི་ནི།
+<literal>inner four are/
+<liturgical><prose>The four inner activities:
+
+[264]
+<tibetan>མི་སྣང་བ་དང༌།
+<literal>not-appear and/
+<liturgical><prose>Non-appearing to ordinary perception, || 90 ||
+
+[265]
+<tibetan>མི་མཛད་པ་དང༌།
+<literal>not-do and/
+<liturgical><prose>Non-doing through lack of inherent existence,
+
+[266]
+<tibetan>མི་འཕྲོ་བ་དང༌།
+<literal>not-emanate and/
+<liturgical><prose>Non-radiating beyond conceptual elaboration,
+
+[267]
+<tibetan>མི་འདུ་བའོ།
+<literal>not-gather is/
+<liturgical><prose>Non-gathering as empty of self-nature.
+
+[268]
+<tibetan>།གསང་བའི་བཞི་ནི།
+<literal>secret four are/
+<liturgical><prose>The four secret activities:
+
+[269]
+<tibetan>ལྷང་ངེ་བ་དང༌།
+<literal>clear-open and/
+<liturgical><prose>Clear-open like the nature of space,
+
+[270]
+<tibetan>ལྷན་ནེ་བ་དང༌།
+<literal>even and/
+<liturgical><prose>Even as equality without discrimination,
+
+[271]
+<tibetan>ལྷག་གེ་བ་དང༌།
+<literal>loose and/
+<liturgical><prose>Loose from all binding concepts,
+
+[272]
+<tibetan>ཐལ་ལེ་བའོ།
+<literal>direct is/
+<liturgical><prose>Direct as spontaneous self-awareness.
+
+[273]
+<tibetan>།གསུང་གི་ཕྱིའི་མཛད་པ་བཞི་ནི།
+<literal>speech outer activity four are/
+<liturgical><prose>Speech's four outer activities:
+
+[274]
+<tibetan>བརྗོད་དུ་མེད་པ་དང༌།
+<literal>express not and/
+<liturgical><prose>Inexpressible through ordinary words, || 100 ||
+
+[275]
+<tibetan>བསྟན་དུ་མེད་པ་དང༌།
+<literal>show not and/
+<liturgical><prose>Unshowable by conventional signs,
+
+[276]
+<tibetan>བལྟར་མེད་པ་དང༌།
+<literal>see not and/
+<liturgical><prose>Unseeable by obscured perception,
+
+[277]
+<tibetan>ཅུང་ཟད་མེད་པའོ།
+<literal>slight not is/
+<liturgical><prose>Unslightable by conceptual criticism.
+
+[278]
+<tibetan>།ནང་གི་བཞི་ནི།
+<literal>inner four are/
+<liturgical><prose>The four inner activities:
+
+[279]
+<tibetan>རང་བཞིན་དུ་དང༌།
+<literal>nature and/
+<liturgical><prose>Natural as uncreated dharmatā,
+
+[280]
+<tibetan>གྱིན་འདའ་དང༌།
+<literal>pass and/
+<liturgical><prose>Passing beyond arising and cessation,
+
+[281]
+<tibetan>ཡུལ་ཅན་མ་ཡིན་པ་དང༌།
+<literal>subject not and/
+<liturgical><prose>Objectless without apprehended reference,
+
+[282]
+<tibetan>དུ་མ་མེད་པའོ།
+<literal>many not is/
+<liturgical><prose>Nonplural as single taste of suchness.
+
+[283]
+<tibetan>།གསང་བའི་བཞི་ནི།
+<literal>secret four are/
+<liturgical><prose>The four secret activities:
+
+[284]
+<tibetan>སོ་མ་དང༌།
+<literal>fresh and/
+<liturgical><prose>Fresh as unconditioned awareness, || 110 ||
+
+[285]
+<tibetan>གཉུག་མ་དང༌།
+<literal>innate and/
+<liturgical><prose>Innate as primordial possession,
+
+[286]
+<tibetan>རྣལ་མ་དང༌།
+<literal>natural and/
+<liturgical><prose>Natural as unfabricated presence,
+
+[287]
+<tibetan>མ་བཅོས་པའོ།
+<literal>unaltered is/
+<liturgical><prose>Unfabricated as spontaneous perfection.
+
+[288]
+<tibetan>།ཐུགས་ཀྱི་ཕྱིའི་མཛད་པ་བཞི་ནི།
+<literal>mind outer activity four are/
+<liturgical><prose>Mind's four outer activities:
+
+[289]
+<tibetan>དྲི་མ་མེད་པའི་ཏིང་ངེ་འཛིན་དང༌།
+<literal>stainless samadhi and/
+<liturgical><prose>Stainless samadhi of non-conceptual clarity,
+
+[290]
+<tibetan>སེང་གེ་རྣམ་པར་བསྒྱིངས་པའི་ཏིང་ངེ་འཛིན་དང༌།
+<literal>lion-display samadhi and/
+<liturgical><prose>Lion-display samadhi of fearless confidence,
+
+[291]
+<tibetan>དཔའ་བར་འགྲོ་བའི་ཏིང་ངེ་འཛིན་དང༌།
+<literal>hero-go samadhi and/
+<liturgical><prose>Hero-going samadhi of penetrating insight,
+
+[292]
+<tibetan>ཡིད་བཞིན་གྱི་ནོར་བུའི་ཏོག་གི་ཏིང་ངེ་འཛིན་ནོ།
+<literal>wish-fulfilling jewel pinnacle samadhi is/
+<liturgical><prose>Wish-fulfilling jewel pinnacle samadhi of complete accomplishment.
+
+[293]
+<tibetan>།ནང་གི་བཞི་ནི།
+<literal>inner four are/
+<liturgical><prose>The four inner activities:
+
+[294]
+<tibetan>རྒྱལ་མཚན་གྱི་རྩེ་མོ་རྣམ་པར་རོལ་པ་དང༌།
+<literal>victory-banner peak play and/
+<liturgical><prose>Victory-banner peak play of complete mastery, || 120 ||
+
+[295]
+<tibetan>གློག་གི་ཕྲེང་བ་དང༌།
+<literal>lightning garland and/
+<liturgical><prose>Lightning garland of sudden illumination,
+
+[296]
+<tibetan>འཁོར་ལོ་ཆེན་པོ་དང༌།
+<literal>wheel great and/
+<liturgical><prose>Great wheel of turning all phenomena,
+
+[297]
+<tibetan>འོད་འབར་བའི་ཏིང་ངེ་འཛིན་ནོ།
+<literal>light blaze samadhi is/
+<liturgical><prose>Light-blazing samadhi of radiant awareness.
+
+[298]
+<tibetan>།གསང་བའི་བཞི་ནི།
+<literal>secret four are/
+<liturgical><prose>The four secret activities:
+
+[299]
+<tibetan>ཕྱག་རྒྱ་ཟིལ་གྱིས་གནོན་པ་དང༌།
+<literal>mudra bell overwhelm and/
+<liturgical><prose>Mudrā's subjugation of dualistic fixation,
+
+[300]
+<tibetan>འབར་ཆེན་མཉམ་པ་དང༌།
+<literal>great-blaze equality and/
+<liturgical><prose>Great-blaze's equality of all appearance,
+
+[301]
+<tibetan>ཆོས་ཉིད་སྣ་ཚོགས་པ་དང༌།
+<literal>dharmata all-encompassing and/
+<liturgical><prose>Diversity of dharmatā in infinite display,
+
+[302]
+<tibetan>རྣམ་པར་བཀོད་པ་རང་སྣང་རོལ་པ་ཞེས་བྱ་བའི་ཏིང་ངེ་འཛིན་ནོ།
+<literal>self-appearance naturally-arising adornment called samadhi is/
+<liturgical><prose>Samadhi called "self-appearing spontaneous adornment."
+
+[303]
+<tibetan>།དེ་དག་ཀྱང་དོན་བྱ་བྱེད་ཀྱི་མཛད་པ་ནི་མ་ཡིན་གྱི།
+<literal>those also meaning-agent activity not is/
+<liturgical><prose>Those also not the activity of meaning's agent,
+
+[304]
+<tibetan>ཡོན་ཏན་གྱི་ངོ་བོ་དང་རྩལ་དུ་ཤར་བའི་ཆར་གྱུར་པས་མཛད་པ་ཞེས་བྱའོ།
+<literal>qualities essence and skillfulness from arising called activity is/
+<liturgical><prose>But called "activity" through the arising of qualities' essence and radiance. || 130 ||
+
+[305]
+<tibetan>།དེ་ནས་ལོངས་སྤྱོད་རྫོགས་པའི་སྐུར་རང་བྱོན་ཏེ།
+<literal>then enjoyment-complete body self-arising/
+<liturgical><tantra>From that, enjoyment-complete body's self-arising:
+
+[306]
+<tibetan>སྔར་གྱི་སྣང་བ་དང་ཐུགས་རྗེའི་འཆར་ཚུལ་མ་འགགས་པའི་རྩལ་གྱི་རོལ་པ་ལས།
+<literal>former appearance and compassion manner uninterrupted skillfulness play from/
+<liturgical><tantra>From the play of unobstructed radiance of former appearances and compassion's arising manner,
+
+[307]
+<tibetan>གནས་རྣམ་དག་སྟུག་པོ་བཀོད་པར།
+<literal>places pure densely arranged/
+<liturgical><prose>The pure abodes are densely arranged.
+
+[308]
+<tibetan>སྟོན་པ་རྣམ་པར་སྣང་མཛད་གང་ཆེན་མཚོའི་མཉམ་གཞག་གི་ཕྱག་མཐིལ་ནས་པདྨའི་སྡོང་པོ་འཁྲུངས་པའི་འདབ་མ་དང་ཕྲུམ་ཕྲུམ་རྣམས་ཀྱི་སྟེང་ན་ཞིང་ཁམས་ཉི་ཤུ་རྩ་ལྔ་རེ་བརྩེགས་མར་གནས་པའི་སྣང་བ་རྣམས་ཁ་དོག་དང་རྣམ་པ་ཐ་དད་ཆུ་ཟླ་འདྲ་བ་ལ།
+<literal>teacher complete-manifest great-ocean equal-samadhi gesture from lotus-stem born upper-portion and tiny-protuberances those top five-twenty fields layered masses appearing colors forms different water-moon like/
+<liturgical><tantra>From the equal-expanse gesture of the great ocean's teacher of complete manifestation—at the lotus-pericarp's base from the thumb, upon the tiny protuberances, upon the layered arrangement of thirty-two realms, the appearances abiding as layered masses, with varied colors and forms like water and moon—
+
+[309]
+<tibetan>བརྩེགས་མ་ཐམས་ཅད་ཀྱང་ཡས་མན་དུ་རྒྱ་ཐེབ་བརྩེགས་པ་ལྟ་བུ་ལ།
+<literal>layered masses all infinite vast boundless layered like/
+<liturgical><prose>All layered masses as well, infinite and vast like palace arrangements.
+
+[310]
+<tibetan>ཕན་ཚུན་ཟ་འོག་གི་གུར་ཁྱིམ་བཀྲམ་པ་ལྟ་བུ་རྣམས་ན།
+<literal>mutual descent offering-feast arrangement like those in/
+<liturgical><prose>In arrangements like descending offering-feast houses.
+
+[311]
+<tibetan>རིགས་ལྔའི་སངས་རྒྱས་ཀྱི་སྐུ་ཡང་སྣ་ཚོགས་རྣམ་གྲངས་དཔག་ཏུ་མེད་དོ།
+<literal>five-family buddhas bodies also various enumerable infinite/
+<liturgical><prose>The bodies of five-family Buddhas as well, all-enumerable in variety.
+
+[312]
+<tibetan>།ཞབས་སྐྱིལ་ཀྲུང་མན་ཆད་ལ་སྤོས་ཆུའི་རྒྱུན་དཔག་ཏུ་མེད་པ་ན།
+<literal>lotus-throne center below perfume-water stream infinite in/
+<liturgical><prose>In the perfume-water stream below the lotus-throne, infinite.
+
+[313]
+<tibetan>ཞིང་ཁམས་བཅུ་དྲུག་བཅུ་དྲུག་གནས་པའང་བརྩེགས་མ་སྟེ།
+<literal>sixteen sixteen fields also not layered/
+<liturgical><prose>The sixteen sixteen realms as well, not as layered masses.
+
+[314]
+<tibetan>ཡས་མན་དུ་རིན་པོ་ཆེའི་གདུགས་བརྩེགས་པ་ལྟ་བུ་ལ།
+<literal>infinite vast jewel-umbrella layered like/
+<liturgical><prose>Like infinite jewel-umbrella arrangements. || 140 ||
+
+[315]
+<tibetan>ཕན་ཚུན་འབྲུའི་ཕུང་པོ་བཀྲམ་པ་ལྟ་བུ་ནའང་རིགས་ལྔའི་སངས་རྒྱས་ལ་སོགས་པ་དཔག་ཏུ་མེད་དོ།
+<literal>mutual grain-mass layered like those also five-family buddhas etc enumerable/
+<liturgical><prose>In arrangements like mutual grain-pile masses, also enumerable including five-family Buddhas.
+
+[316]
+<tibetan>།གཞན་ཡང་འོད་ཟེར་བ་སྤུའི་ཁུང་བུ་ཐམས་ཅད་ནས་འཕྲོས་པའི་ཀློང་ནའང་ཞིང་དང་སྟོན་པའི་རྣམ་གྲངས་མཐའ་ཡས་ཤིང་ཚད་མེད་པ་དཔག་ཏུ་མེད་དོ།
+<literal>also light-ray hair pores all from radiating space also fields teachers various boundless measureless enumerable/
+<liturgical><prose>Furthermore, from all pores of hair-light, radiating into space—also infinite enumerable variety of realms and teachers, boundless, measureless, infinite.
+
+[317]
+<tibetan>།དེ་ལྟར་ལོངས་སྐུའི་ཞིང་ན།
+<literal>thus enjoyment-body field in/
+<liturgical><prose>Thus in enjoyment-body's realm:
+
+[318]
+<tibetan>བསྟན་པ་དངོས་གསུང་རང་བྱུང་གི་ཡི་གེ་སུས་ཀྱང་བྱས་པ་མེད་པ་བསྟན་པ་ཐམས་ཅད་ཀྱི་བུ་དང་ལྷན་ཅིག་སྣང་བ་དེ་དག་གཞུགས་པ་ཡང༌།
+<literal>teaching actual speech self-arisen syllables whoever not made teaching all sons together appearing those abide also/
+<liturgical><prose>Teaching actual, speech self-arisen syllables whoever not made, — yet all teaching's sons and simultaneous appearances those abide—
+
+[319]
+<tibetan>ཆོས་ཉིད་ལ་འགྱུར་བ་མེད་པའི་དུས་ཏེ།
+<literal>dharmata unchanging time/
+<liturgical><prose>At the time of unchanging dharmatā.
+
+[320]
+<tibetan>ལོངས་སྤྱོད་རྫོགས་པ་སྐུའི་སྐུ་གསུང་ཐུགས་མི་ཟད་པ་རྒྱན་གྱི་འཁོར་ལོའི་མཛད་པ་སུམ་ཅུ་རྩ་དྲུག་དུ་རང་ཤར་བ་ལས།
+<literal>enjoyment-complete body speech mind inexhaustible ornament wheel activity thirty-six self-radiating from/
+<liturgical><tantra>From the thirty-six self-arisen activities of the enjoyment-body's body, speech, mind inexhaustible ornament-wheel:
+
+[321]
+<tibetan>སྐུའི་ཕྱིའི་མཛད་པ་བཞི་ནི།
+<literal>body outer activities four are/
+<liturgical><prose>The body's four outer activities:
+
+[322]
+<tibetan>སྐུ་སྣང་ལ་རང་བཞིན་མེད་པས་གདོས་བཅས་དག་པར་མཛད།
+<literal>body appearance nature-less obscurations purified/
+<liturgical><prose>Through body appearing without self-nature, obscurations are purified.
+
+[323]
+<tibetan>ཡེ་ཤེས་ཀྱི་ཞལ་ཕྱག་རྫོགས་པས་སྐུ་རང་གི་ངོ་བོར་རྫོགས་པར་མཛད།
+<literal>wisdom-by-means-of face-hand perfected-by-means-of body self-of nature perfect makes/
+<liturgical><prose>By perfected wisdom face-hand, the body's self-nature is perfected.
+
+[324]
+<tibetan>འོད་ཀྱི་ཞལ་ཕྱག་གསལ་བས་རང་སྣང་གྲོལ་བར་མཛད།
+<literal>light-by-means-of face-hand clear-by-means-of self-appearance liberates makes/
+<liturgical><prose>By clear light face-hand, self-appearance is liberated. || 150 ||
+
+[325]
+<tibetan>ཤེས་རབ་ཀྱི་ཞལ་ཕྱག་གསལ་བས་མཁྱེན་པ་རྫོགས་པར་མཛད་དོ།
+<literal>discerning-by-means-of face-hand clear-by-means-of knowledge perfect makes/
+<liturgical><prose>By clear discerning face-hand, knowledge is perfected.
+
+[326]
+<tibetan>།ནང་གི་བཞི་ནི།
+<literal>/inside-of four are/
+<liturgical><prose>The four of the inner:
+
+[327]
+<tibetan>མཚན་སུམ་ཅུ་རྩ་གཉིས་ཀྱི་རྣམ་པར་སྣང་བས་སྐུའི་ཡོན་ཏན་རྫོགས་པར་མཛད།
+<literal>marks thirty two-of appearance-by-means-of body-of quality perfect makes/
+<liturgical><prose>By appearance of the thirty-two marks, the body's qualities are perfected.
+
+[328]
+<tibetan>དཔེ་བྱད་བརྒྱད་ཅུ་མངའ་བས་ཆོས་ཉིད་རྫོགས་པར་མཛད།
+<literal>signs eighty possess-by-means-of reality perfect makes/
+<liturgical><prose>By possessing the eighty signs, reality is perfected.
+
+[329]
+<tibetan>འོད་ཟེར་གྱི་ཚོགས་འཕྲོ་བས་ཁྱད་པར་གྱི་ཡོན་ཏན་རྫོགས་པར་མཛད།
+<literal>light-rays-of mass emanate-by-means-of special-of quality perfect makes/
+<liturgical><prose>By emanating masses of light-rays, special qualities are perfected.
+
+[330]
+<tibetan>ཞལ་ཀུན་དུ་ཐལ་ལེར་བཞུགས་པས་ལོངས་སྤྱོད་པའི་མཚན་ཉིད་རྫོགས་པར་མཛད་དོ།
+<literal>face all-direction pervasively resides-by-means-of enjoyment-of characteristic perfect makes/
+<liturgical><prose>By face pervasively residing in all directions, the characteristic of enjoyment is perfected.
+
+[331]
+<tibetan>།གསང་བའི་བཞི་ནི།
+<literal>/secret-of four are/
+<liturgical><prose>The four of the secret:
+
+[332]
+<tibetan>མདུན་དང་རྒྱབ་མེད་པར་བཞུགས་པས་སྣང་ཆ་རྫོགས་པར་མཛད།
+<literal>front and back without resides-by-means-of appearance aspect perfect makes/
+<liturgical><prose>By residing without front or back, the aspect of appearance is perfected.
+
+[333]
+<tibetan>།ནང་ནས་བལྟས་ན་ཕྱི་གསལ་བས་སྟོང་ཆའི་ཡོན་ཏན་རྫོགས་པར་མཛད།
+<literal>/inside-from look if outside clear-by-means-of empty aspect-of quality perfect makes/
+<liturgical><prose>Looking from inside, by outer clarity, the quality of empty aspect is perfected.
+
+[334]
+<tibetan>།ཕྱི་ནས་བལྟས་ན་ནང་གསལ་བས་གཉིས་སུ་མེད་པའི་ཡོན་ཏན་རྫོགས་པར་མཛད།
+<literal>/outside-from look if inside clear-by-means-of dual without-of quality perfect makes/
+<liturgical><prose>Looking from outside, by inner clarity, the quality of non-duality is perfected. || 160 ||
+
+[335]
+<tibetan>རྩེ་མོ་ཕྱོགས་ཀུན་ཏུ་ཟང་ཐལ་བར་བཞུགས་པས་མི་གནས་འགག་པ་མེད་པའི་ཡོན་ཏན་རྫོགས་པར་མཛད་དོ།
+<literal>tip directions all-in pervasively resides-by-means-of not-dwelling cessation without-of quality perfect makes/
+<liturgical><prose>By tip pervasively residing in all directions, the quality of non-dwelling without cessation is perfected.
+
+[336]
+<tibetan>།གསུང་གི་ཕྱིའི་མཛད་པ་བཞི་ནི།
+<literal>/speech-of outside-of deeds four are/
+<liturgical><prose>The four outer deeds of speech:
+
+[337]
+<tibetan>རང་བྱུང་གི་ཡི་གེ་དྲུག་ལྗགས་ལས་འཕྲོས་པས་དཔག་ཏུ་མེད་པའི་ཆོས་ཉིད་ཀྱི་མཛད་པ་རྫོགས་པར་མཛད།
+<literal>self-arisen-of syllable six tongue-from emanate-by-means-of immeasurable-of reality-of deeds perfect makes/
+<liturgical><prose>By six self-arisen syllables emanating from tongue, immeasurable reality deeds are perfected.
+
+[338]
+<tibetan>དེ་ཡབ་ཀྱི་ཞལ་དུ་ཞུགས་པས་མཚན་མ་མེད་པའི་ཆོས་ལ་ལོངས་སྤྱོད་པར་མཛད།
+<literal>that father-of face-in enters-by-means-of marks without-of dharma-to enjoyment makes/
+<liturgical><prose>By entering the father's face, enjoyment of markless dharma is made.
+
+[339]
+<tibetan>ཡུམ་གྱི་མཁའ་ལས་འཐོན་པས་གཉིས་སུ་མེད་པའི་ཆོས་ཉིད་ལ་སྤྱོད་པར་མཛད།
+<literal>mother-of space-from emerges-by-means-of non-dual-of reality-to engagement makes/
+<liturgical><prose>By emerging from mother's space, engagement with non-dual reality is made.
+
+[340]
+<tibetan>དེ་ཉིད་འཕྲོ་ཞིང་འདུ་བས་རང་བཞིན་མེད་པའི་མཛད་པ་རྫོགས་པར་མཛད་དོ།
+<literal>that same emanate and gather-by-means-of nature without-of deeds perfect makes/
+<liturgical><prose>By that same emanating and gathering, deeds without nature are perfected.
+
+[341]
+<tibetan>།ནང་གི་བཞི་ནི།
+<literal>/inside-of four are/
+<liturgical><prose>The four of the inner:
+
+[342]
+<tibetan>རང་གི་ངོ་བོས་བཤད་པས་བརྗོད་དུ་མེད་པའི་སྒྲ་ལ་དབང་སྒྱུར་བར་མཛད།
+<literal>self-of nature-by-means-of explained-by-means-of inexpressible-of sound-to control makes/
+<liturgical><prose>By self-nature explained, control of inexpressible sound is made.
+
+[343]
+<tibetan>ཚིག་མ་ཡིན་པས་སྨྲ་བསམ་ལས་འདས་པའི་ཆོས་ཉིད་ལ་ལོངས་སྤྱོད་པར་མཛད།
+<literal>word not-is-by-means-of speech thought from-beyond-of reality-to enjoyment makes/
+<liturgical><prose>By non-word, enjoyment of reality beyond speech and thought is made.
+
+[344]
+<tibetan>དོན་གོ་བར་སྣང་བས་འདུ་མི་བྱེད་པའི་ཆས་ཉིད་ལ་ལོངས་སྤྱོད་པར་མཛད།
+<literal>meaning understand-as appear-by-means-of non-composite-of reality-to enjoyment makes/
+<liturgical><prose>By appearing as understood meaning, enjoyment of non-composite reality is made. || 170 ||
+
+[345]
+<tibetan>འོད་ཟེར་དུ་མ་ཞལ་ལས་འཕྲོ་བས་གདུལ་བྱ་དང་འདུལ་བྱེད་ཀྱི་ཆོས་ལ་ལོངས་སྤྱོད་པར་མཛད་དོ།
+<literal>light-rays many face-from emanate-by-means-of disciple and discipliner-of dharma-to enjoyment makes/
+<liturgical><prose>By many light-rays emanating from face, enjoyment of disciple and discipliner dharma is made.
+
+[346]
+<tibetan>།གསང་བའི་བཞི་ནི།
+<literal>/secret-of four are/
+<liturgical><prose>The four of the secret:
+
+[347]
+<tibetan>སྐུའི་སྦྱོར་བ་དག་པས་རང་བྱུང་གི་ཆོས་ལ་སྤྱོད་པར་མཛད།
+<literal>body-of practice pure-by-means-of self-arisen-of dharma-to engagement makes/
+<liturgical><prose>By pure body practice, engagement with self-arisen dharma is made.
+
+[348]
+<tibetan>གསུང་གི་སྦྱོར་བ་དག་པས་ཟག་པ་མེད་པའི་ཆོས་ལ་སྤྱོད་པར་མཛད།
+<literal>speech-of practice pure-by-means-of outflow without-of dharma-to engagement makes/
+<liturgical><prose>By pure speech practice, engagement with outflow-free dharma is made.
+
+[349]
+<tibetan>ཐུགས་ཀྱི་སྦྱོར་བ་དག་པས་རྣམ་པ་ཐམས་ཅད་མཁྱེན་པའི་ཡེ་ཤེས་ལ་ལོངས་སྤྱོད་པར་མཛད།
+<literal>mind-of practice pure-by-means-of aspects all know-of wisdom-to enjoyment makes/
+<liturgical><prose>By pure mind practice, enjoyment of wisdom knowing all aspects is made.
+
+[350]
+<tibetan>ཞལ་གྱི་སྦྱོར་བ་དག་པས་ཐམས་ཅད་མཁྱེན་པའི་ཆོས་ལ་ལོངས་སྤྱོད་པར་མཛད་དོ།
+<literal>face practice pure by-means-of all-knowing dharma to enjoyment make/
+<liturgical><prose>By pure face practice, enjoyment of all-knowing dharma is performed.
+
+[351]
+<tibetan>།ཐུགས་ཀྱི་ཕྱིའི་མཛད་པ་བཞི་ནི།
+<literal>/mind outer activities four are/
+<liturgical><prose>The four outer deeds of mind:
+
+[352]
+<tibetan>མངོན་པར་འདུ་མི་བྱེད་པའི་ཏིང་ངེ་འཛིན་གྱིས་བྱ་བ་དང་རྟོག་པའི་མཛད་པ་མཁྱེན་པར་མཛད།
+<literal>non-appear gathering not-do samadhi by-means-of action and concept-action knowing make/
+<liturgical><prose>By samadhi of non-composite clear, knowing action and concept action is performed.
+
+[353]
+<tibetan>ཡེ་ཤེས་ཀྱི་མཐོང་བ་དག་པའི་ཏིང་ངེ་འཛིན་གྱིས་མཉམ་གཞག་གི་མཁྱེན་པ་རྫོགས་པར་མཛད།
+<literal>wisdom view pure samadhi by-means-of equipoise knowing perfect make/
+<liturgical><prose>By samadhi of pure wisdom view, equipoise knowing is perfected.
+
+[354]
+<tibetan>ཆོས་ཉིད་རྣམ་པར་དག་པའི་ཏིང་ངེ་འཛིན་གྱིས་ཆོས་སྤྱི་དང་རང་གི་མཚན་ཉིད་མཁྱེན་པར་མཛད།
+<literal>dharmata pure samadhi by-means-of dharma general and self characteristic knowing make/
+<liturgical><prose>By samadhi of pure dharma-nature, knowing dharma general and self-characteristic is performed. || 180 ||
+
+[355]
+<tibetan>ཟག་པ་ཟད་པའི་ཏིང་ངེ་འཛིན་གྱིས་རྣམ་པར་དག་པའི་རོལ་པ་རྫོགས་པར་མཛད་དོ།
+<literal>defilements exhausted samadhi by-means-of pure play perfect make/
+<liturgical><prose>By samadhi of exhausted defilements, pure play is perfected.
+
+[356]
+<tibetan>།ནང་གི་བཞི་ནི།
+<literal>/inner four are/
+<liturgical><prose>The four of the inner:
+
+[357]
+<tibetan>མེ་ལོང་ལྟ་བུའི་ཡེ་ཤེས་ཀྱིས་དཔེ་ལ་ལོངས་སྤྱོད་པར་མཛད།
+<literal>mirror-like wisdom by-means-of example to enjoyment make/
+<liturgical><prose>By mirror-like wisdom, enjoyment of example is performed.
+
+[358]
+<tibetan>མཉམ་པ་ཉིད་ཀྱིས་དོན་ལ་ལོངས་སྤྱོད་པར་མཛད།
+<literal>sameness by-means-of meaning to enjoyment make/
+<liturgical><prose>By sameness, enjoyment of meaning is performed.
+
+[359]
+<tibetan>སོ་སོར་རྟོག་པས་དབང་པོ་ལ་ལོངས་སྤྱོད་པར་མཛད།
+<literal>discriminating by-means-of sense-faculty to enjoyment make/
+<liturgical><prose>By discriminating, enjoyment of sense-faculty is performed.
+
+[360]
+<tibetan>བྱ་བ་གྲུབ་པས་ཆོས་དང་བྲལ་བ་ལ་ལོངས་སྤྱོད་པར་མཛད་དོ།
+<literal>action accomplished by-means-of dharma separate-from to enjoyment make/
+<liturgical><prose>By action accomplished, enjoyment separate from dharma is performed.
+
+[361]
+<tibetan>།གསང་བའི་བཞི་ནི།
+<literal>/secret four are/
+<liturgical><prose>The four of the secret:
+
+[362]
+<tibetan>གསལ་སྟོང་དབྱེར་མེད་དུ་བཞུགས་པས་འཁོར་འདས་གཉིས་མེད་དུ་གསལ་བར་མཛད།
+<literal>clarity-emptiness non-dual abiding by-means-of samsara-nirvana two non-dual manifest make/
+<liturgical><prose>By abiding in non-dual clarity-emptiness, saṃsāra-nirvāṇa two non-dual is cleared.
+
+[363]
+<tibetan>སྣང་སྟོང་དབྱེར་མེད་དུ་བཞུགས་པས་ཡུལ་ཤེས་གཉིས་མེད་དུ་མཛད།
+<literal>appearance-emptiness non-dual abiding by-means-of object-wisdom two non-dual make/
+<liturgical><prose>By abiding in non-dual appearance-emptiness, object-wisdom two non-dual is performed.
+
+[364]
+<tibetan>རིག་སྟོང་དབྱེར་མེད་དུ་བཞུགས་པས་གཟུང་འཛིན་གཉིས་མེད་དུ་མཛད།
+<literal>awareness-emptiness non-dual abiding by-means-of apprehender-apprehended two non-dual make/
+<liturgical><prose>By abiding in non-dual awareness-emptiness, apprehension-apprehender two non-dual is performed. || 190 ||
+
+[365]
+<tibetan>ཡུལ་སེམས་དབྱེར་མེད་དུ་བཞུགས་པས་གཟུང་འཛིན་གྱི་རྟོག་མཐའ་ཆོད་པར་མཛད་དོ།
+<literal>object-mind non-dual abiding by-means-of apprehender-apprehender concept limit cut make/
+<liturgical><prose>By abiding in non-dual object-mind, the concept limit of apprehension-apprehender is cut.
+
+[366]
+<tibetan>།གསུམ་པ་སྤྲུལ་པའི་སྐུ་སྤྲོས་པས་འཁོར་ལོ་བསྐོར་བའི་ཚུལ་ནི།
+<literal>/third emanation-body emanation wheel-turning method is/
+<liturgical><prose>Third, the method of turning the wheel through emanation-body emanation:
+
+[367]
+<tibetan>དེ་ནས་ལོངས་སྐུའི་སྣང་ཆ་ལས་སྤྲུལ་པའི་སྐུར་བྱོན་པ་ནི་གནས་རིས་བཅུ་གཉིས་ས་སྟོན་པ་བཅུ་གཉིས་མངོན་པར་སྤྲུལ་ནས་བྱོན་པ་རྣམས་ཏེ།
+<literal>then enjoyment-body appearance from emanation-body-to appeared is abodes twelve earth teacher twelve clearly emanated from appeared those are/
+<liturgical><prose>Then from enjoyment-body appearance, gone to emanation-body, those gone having clearly emanated twelve earth teachers in twelve abodes,
+
+[368]
+<tibetan>ཕུན་སུམ་ཚོགས་པ་ལྔ་ལྔའི་རང་བཞིན་དང་བཅས་པའོ།
+<literal>perfection five five nature with possessing are/
+<liturgical><prose>Possessing the nature of five-five perfections.
+
+[369]
+<tibetan>།འདི་དག་གི་དུས་ན་སྤྲུལ་པ་ཆེན་པོ་གསུམ་སྣང་བས་ཀྱང་འགྲོ་བ་ལ་ཕན་པ་མཛད་པ་ནི།
+<literal>/these time at emanation great three appearance by-means-of also beings to benefit make is/
+<liturgical><prose>At the time of these, also by appearance of three great emanations, benefit to beings is performed.
+
+[370]
+<tibetan>སྤྲུལ་སྐུས་གདུལ་བའི་གནས་འཛམ་བུའི་གླིང་འདིར།
+<literal>emanation-body by-means-of disciples place jambu continent this-in/
+<liturgical><prose>By emanation-body in this Jambu continent, place of disciples,
+
+[371]
+<tibetan>ཆོས་སྐུའི་བསྟན་པ་དངོས་རྫོགས་པ་ཆེན་པོའི་བྱིན་རླབས་ལས་རང་ཤར་བ་ནི་རིན་པོ་ཆེ་བརྒྱ་རྩ་གཅིག་གི་རྒྱུ་ལས་རང་འཁྲུངས་པའི་རྡོ་རྗེ་ཚེ་ལོ་དཔག་མེད་ནས་ད་ལྟའི་བར་གྱི་མི་རྣམས་ཀྱི་ཕྱག་གང་བ་དང༌།
+<literal>dharma-body teaching great perfection blessing from self-arisen is jewel hundred one cause from self-born vajra amitayus from now until people those hands filling and/
+<liturgical><prose>The Dharma-body teaching, self-arisen from Great Perfection blessing, filling the hands of people from Vajra Amitayus self-born from one hundred jewel causes until now,
+
+[372]
+<tibetan>ལོངས་སྐུའི་བསྟན་པ་དངོས་རང་བྱུང་བསྟན་པ་བུ་གཅིག་གི་བྱིན་རླབས་ལས་རང་ཤར་བ་ནི་རིན་པོ་ཆེ་བརྒྱ་རྩ་གཅིག་གི་རྒྱུ་ལས་རང་འཁྲུངས་པའི་ཡི་གེ་གླེགས་བམ་བཞི་པ་ཆོས་ཀྱི་རང་སྒྲ་གྲགས་པ་དང༌།
+<literal>enjoyment-body teaching self-arisen teaching single-son blessing from self-arisen is jewel hundred one cause from self-born letter book four dharma self-sound renowned and/
+<liturgical><prose>The Enjoyment-body teaching, self-arisen from Self-arisen teaching single-son blessing, self-born from one hundred jewel causes, four books of letters, renowned as dharma self-sound.
+
+[373]
+<tibetan>སྤྲུལ་སྐུ་བཅུ་གཉིས་པོའི་བྱིན་རླབས་ལས་རང་ཤར་བ་རིན་པོ་ཆེ་བརྒྱ་རྩ་གཅིག་གི་རྒྱུ་ལས་སུས་ཀྱང་མ་བྱས་པར་འཁྲུངས་པའི་སྐུ་གཟུགས་འགྲོ་བའི་ལུས་བོངས་དང་མཉམ་པ་སྟེ།
+<literal>emanation-body twelve blessing from self-arisen jewel hundred one cause from whoever not-made self-born body-form beings body equal is/
+<liturgical><prose>The body-form self-born without anyone making, equal to beings' body bulk, self-arisen from twelve emanation-body blessings, from one hundred jewel causes.
+
+[374]
+<tibetan>སྐུ་གསུང་ཐུགས་ཀྱི་སྤྲུལ་པ་དེ་གསུམ་ནི་སུས་ཀྱང་མ་བྱས་པས་མི་འཇིགས་པ།
+<literal>body speech mind emanation those three whoever not-made fearless/
+<liturgical><prose>Those three emanations of body, speech, mind, not made by anyone, fearless. || 200 ||
+
+[375]
+<tibetan>བྱིན་རླབས་ལས་རང་ཤར་བས་རྫུ་འཕྲུལ་དང་ཡོན་ཏན་དཔག་ཏུ་མེད་པ།
+<literal>blessing from self-arisen by-means-of miracles and qualities immeasurable/
+<liturgical><prose>By self-arisen blessing, miracles and immeasurable qualities.
+
+[376]
+<tibetan>གང་དང་ཕྲད་པ་འབྱུང་བ་རང་དེངས་སུ་གྲོལ་བར་བྱེད་པའི་འཕྲིན་ལས་མངའ་བའོ།
+<literal>whoever meeting appearance self immediately liberate perform activities possessing/
+<liturgical><prose>Possessing the activity of immediately liberating birth when meeting with whichever.
+
+[377]
+<tibetan>།དེ་ཡང་ཐུགས་་ཀྱི་རྟེན་རྡོ་རྗེ་དེ་ནི་འགྲོ་བ་གང་དག་ནད་ཞི་བར་འདོད་པ་རྣམས་ཀྱི་ནད་མེད་པ་ནས།
+<literal>that also mind-support vajra that beings whatever disease pacify wish those disease free from/
+<liturgical><prose>That also, the mind-support Vajra, from disease-free of those beings wishing to pacify disease,
+
+[378]
+<tibetan>འདོད་པ་བསྐང་ཞིང་ཐར་པ་ལ་སྦྱོར་བའོ།
+<literal>desire fulfill and liberation to apply/
+<liturgical><prose>Fulfilling desires and applying to liberation.
+
+[379]
+<tibetan>།གསུང་གི་རྟེན་རང་བྱུང་གི་ཡི་གེ་དེ་དང་ཕྲད་པ་དེ་ནི།
+<literal>speech-support self-arisen letter that and meeting that is/
+<liturgical><prose>The speech-support self-arisen letter, meeting with that,
+
+[380]
+<tibetan>ཕྲད་པ་དང་སྒྲ་ཐོས་པ་ཙམ་གྱིས་གྲོལ་བའོ།
+<literal>meeting and sound hearing only by-means-of liberate/
+<liturgical><prose>Liberated by merely meeting and hearing the sound.
+
+[381]
+<tibetan>།འདིའི་གླེགས་བམ་བྲིས་ནས་འཆང་བའང་འབད་པ་མེད་པར་གྲོལ་བའི་འཕྲིན་ལས་ཡོད་དོ།
+<literal>this book written and held also effort without liberating activities exist/
+<liturgical><prose>This book, writing and holding, possesses liberating activity without effort.
+
+[382]
+<tibetan>།སྐུ་དེ་ནི་གང་དང་ཕྲད་པའི་ལུས་འོད་གསལ་དུ་གྲོལ་བའི་འཕྲིན་ལས་བྱེད་པའོ།
+<literal>body that whoever meeting body clear light to liberate activities perform/
+<liturgical><prose>That body performs liberating activity into clear light when meeting with whichever body.
+
+[383]
+<tibetan>།འདི་དག་གང་ན་ཡོད་ཅེ་ན།
+<literal>these wherever exist ask/
+<liturgical><prose>Where these exist, one asks.
+
+[384]
+<tibetan>སྐུ་གསུང་ཐུགས་ཀྱི་བསྟན་པའི་དུས་ཀྱིས་གནས་ཐ་དད་པ་ན་གནས་སོ།
+<literal>body speech mind teaching time by-means-of place different in abide/
+<liturgical><prose>They abide in different places by the times of body, speech, mind teachings. || 210 ||
+
+[385]
+<tibetan>།དེའང་ཚེ་ལོ་དཔག་མེད་ནས་སྟོང་ཐུབ་པའི་དུས་ཕན་ཆད་ལ་སྐུས་འདུལ་བའི་བསྟན་པ་སྟེ།
+<literal>that-also amitayus life from thousand buddhas time from body taming teaching is/
+<liturgical><prose>That also, from Amitayus life, from the time of thousand Buddhas, the body-taming teaching,
+
+[386]
+<tibetan>ལོ་ལྔ་བརྒྱ་ལྔ་སྟོང་ཕྲག་གསུམ་ཡོད་དོ།
+<literal>year five hundred five thousand three-times exist/
+<liturgical><prose>Exists three times five hundred five thousand years.
+
+[387]
+<tibetan>།དེ་ནས་ཚེ་ལོ་བདུན་ཅུ་པའི་བར་དུ་གསུང་གིས་འདུལ་བའི་བསྟན་པ་སྟེ།
+<literal>then life seventy until speech taming teaching is/
+<liturgical><prose>Then until seventy years of life, the speech-taming teaching,
+
+[388]
+<tibetan>ལོ་ལྔ་བརྒྱ་ལྔ་སྟོང་ཕྲག་གཅིག་གོ
+<literal>year five hundred five thousand one/
+<liturgical><break><prose> One five hundred five thousand years.
+
+[389]
+<tibetan>།དེ་ནས་ཚེ་ལོ་བཅུ་པའི་བར་དུ་ཐུགས་ཀྱིས་འདུལ་བའི་བསྟན་པ་སྟེ།
+<literal>then life ten until mind taming teaching is/
+<liturgical><break><prose> Then until ten years of life, the mind-taming teaching,
+
+[390]
+<tibetan>ལོ་ལྔ་བརྒྱ་ལྔ་སྟོང་ཕྲག་གཅིག་གོ
+<literal>year five hundred five thousand one/
+<liturgical><break><prose> One five hundred five thousand years.
+
+[391]
+<tibetan>།ཚེ་ལོ་དེ་དག་གི་བར་དུ་ལོ་དེ་ཙམ་ཡོད་ཀྱི་དུས་མ་ཡིན་གྱི།
+<literal>life year those interval year that-much exist but time not/
+<liturgical><break><prose> In the interval of those life years, that much year exists but not time,
+
+[392]
+<tibetan>བསྟན་པ་དེ་དག་གིས་འདུལ་བའི་ལོ་གྲངས་བཤད་པ་ཡིན་ནོ།
+<literal>teaching those by-means-of taming year number explained is/
+<liturgical><prose>The year numbers tamed by those teachings are explained.
+
+[393]
+<tibetan>།དེའང་སྐུའི་བསྟན་པའི་དུས་ན་རྡོ་རྗེ་དེ་ནི་ཨུ་རྒྱན་གྱི་ཡུལ་རྒྱ་མཚོ་ལན་ཚྭའི་རོ་དང་ལྡན་པའི་གླིང་ན་ཡོད་དེ།
+<literal>that-also body teaching time vajra that uddiyana land ocean salt taste possessing island in exist/
+<liturgical><prose>That also, at the time of body teaching, that Vajra exists in the island possessing salty taste, Uddiyana land ocean,
+
+[394]
+<tibetan>སྐབས་སུ་འོད་དང་སྒྲ་དང་དགེ་སློང་རྫུ་འཕྲུལ་དང་ལྡན་པའི་སྤྲུལ་པ་གྲངས་མེད་པ་འབྱུང་བར་བྱེད་དོ།
+<literal>time light and sound monk miracles possessing emanation countless arise perform/
+<liturgical><prose>Occasionally making countless emanations possessing light, sound, and monk miracle arise. || 220 ||
+
+[395]
+<tibetan>།ཡི་གེ་ནི་རྡོ་རྗེ་གདན་གྱི་དཔག་ཚད་ལྔ་བརྒྱའི་སྟེང་གི་ནམ་མཁའ་ལ་མཁའ་འགྲོ་མ་རྣམས་ཀྱིས་བཟུང་ནས་གནས་སོ།
+<literal>letter vajra-seat five hundred upper sky dakinis by-means-of hold and abide/
+<liturgical><prose>The letter, held by dakinis in the sky above five hundred leagues of Vajra-seat, abides.
+
+[396]
+<tibetan>།སྐུ་ནི་དེ་དང་ལྷན་ཅིག་བཞུགས་སོ།
+<literal>body that and together abide/
+<liturgical><prose>The body abides together with that.
+
+[397]
+<tibetan>།གསུང་གི་བསྟན་པའི་དུས་ན།
+<literal>speech teaching time at/
+<liturgical><prose>At the time of speech teaching.
+
+[398]
+<tibetan>རྡོ་རྗེ་ནི་རི་མ་ལ་ཡ་ལག་ན་རྡོ་རྗེའི་གནས་ན་གནོད་སྦྱིན་གྱི་རྒྱལ་པོ་རྣམས་ཀྱིས་ཕྱག་བྱེད་དོ།
+<literal>vajra malaya mountain hand-vajra abode at yakshas kings by-means-of homage perform/
+<liturgical><prose>The vajra at Mount Malaya, at the hand-vajra's abode, yakṣa kings render homage.
+
+[399]
+<tibetan>།ཡི་གེ་ནི་རྡོ་རྗེ་གདན་གྱི་སྟེང་གི་ནམ་མཁའ་ན་མཁའ་འགྲོ་མས་བཟུང་ནས་གནས་སོ།
+<literal>letter vajra-seat upper sky at dakinis by-means-of hold and abide/
+<liturgical><prose>The syllable in Vajrāsana's upper sky, held by ḍākinīs abides.
+
+[400]
+<tibetan>།སྐུ་ནི་ས་གཅིག་ཏུ་མ་ངེས་ཏེ་འཛམ་བུའི་གླིང་འཁོར་བར་འཕར་ཞིང༌།
+<literal>body one place not definite jambudvipa circumambulating/
+<liturgical><prose>The body, not fixed in one place, circumambulates Jambudvīpa,
+
+[401]
+<tibetan>ལྷ་དང་མིའི་འདུ་བ་ཁྱད་པར་ཅན་གྱི་མཆོད་པའི་ཞིང་བྱེད་ཅིང༌།
+<literal>gods and humans assembly special offering-field making/
+<liturgical><prose>Making offering-fields for special assemblies of gods and humans;
+
+[402]
+<tibetan>སྐབས་སུ་བསྟན་པ་ལ་གནོད་པ་བྱུང་བའི་ཚེ།
+<literal>time teaching harm arise when/
+<liturgical><prose>When harm arises to the teaching,
+
+[403]
+<tibetan>སྐུ་ལས་འོད་དང༌།
+<literal>body from light and/
+<liturgical><tantra>From body comes light,
+
+[404]
+<tibetan>ཞལ་ནས་ཧཱུྃ་དང༌།
+<literal>face from hum and/
+<liturgical><break><prose> hūṃ || 230 ||
+
+[405]
+<tibetan>སྤྱན་ལས་མེ་བྱུང་བས་ཟློག་པར་བྱེད་དོ།
+<literal>eyes from fire arising by-means-of turn-back perform/
+<liturgical><break><tantra> From eyes comes fire, turning back the harm.
+
+[406]
+<tibetan>།ཐུགས་ཀྱི་བསྟན་པའི་དུས་ན་རྡོ་རྗེ་ནི་རྡོ་རྗེ་གདན་གྱི་ནམ་མཁའ་ལ་གནས་སོ།
+<literal>mind teaching time at vajra vajra-seat sky at abide/
+<liturgical><prose>At the time of mind's teaching, the vajra abides in Vajrāsana's sky.
+
+[407]
+<tibetan>།ཡི་གེ་ནི་རབ་ཏུ་ཁྲོས་པ་དྲང་སྲོང་གི་ཕུག་ན་གནས་སོ།
+<literal>letter extremely wrathful sage cave at abide/
+<liturgical><prose>The syllable abides in the extremely wrathful ṛṣi's cave.
+
+[408]
+<tibetan>།སྐུ་ནི་སུམ་ཅུ་རྩ་གསུམ་པའི་ལྷ་རྣམས་ཀྱི་གཞལ་མེད་ཁང༌།
+<literal>body thirty-three gods measureless-palace/
+<liturgical><prose>The body in the thirty-three gods' measureless palace,
+
+[409]
+<tibetan>ལག་ན་རྡོ་རྗེའི་ཁང་པ་བརྩེགས་པ་ཞེས་བའི་ཡང་ཐོག་ན་གནས་སོ།
+<literal>hand-vajra house upper-chamber called upper-story at abide/
+<liturgical><prose>The hand-vajra's house upper-chamber's upper-story abides.
+
+[410]
+<tibetan>།དེ་ལྟ་བུའི་སྤྲུལ་པ་གསུམ་གནས་པས་འཛམ་བུའི་གླིང་གཞན་ལས་ཆེས་འཕགས་སོ།
+<literal>such three emanations abiding by-means-of jambudvipa others surpass/
+<liturgical><prose>Such three emanations abiding, Jambudvīpa surpasses all others.
+
+[411]
+<tibetan>།གནས་རིས་བཅུ་གཉིས་སུ་སྤྲུལ་སྐུ་བཅུ་གཉིས་བྱོན་པའི་ཚུལ་ནི།
+<literal>abode-types twelve in emanation-body twelve arrived manner is/
+<liturgical><prose>The manner of twelve emanation-bodies arriving in twelve abode-types:
+
+[412]
+<tibetan>རྡོ་རྗེ་འཆང་ཉིད་ལོངས་སྐུ་ལས་སྤྲུལ་པའི་སྐུར་འགྲོ་བ་རྣམས་ཀྱི་ཕུང་པོ་ལྔ་དག་པར་བྱ་བའི་ཕྱིར།
+<literal>vajradhara itself enjoyment-body from emanation-body beings five aggregates purifying for/
+<liturgical><prose>Vajradhara from sambhogakāya as emanation-body, to purify beings' five aggregates,
+
+[413]
+<tibetan>ཕུན་སུམ་ཚོགས་པ་ལྔའི་རང་བཞིན་ལན་བཅུ་གཉིས་སུ་སྣང་བར་མཛད་པའི།
+<literal>complete-abidings five self-nature twelve-times appearing making/
+<liturgical><prose>Making appear twelve times the self-nature of five complete-abidings,
+
+[414]
+<tibetan>དང་པོ།
+<literal>first/
+<liturgical><ornament>First: || 240 ||
+
+[415]
+<tibetan>ཡུལ་དགའ་ལྡན་བརྩེགས་པར།
+<literal>tusita field upper-chamber/
+<liturgical><prose>In the field Tuṣita upper-chamber,
+
+[416]
+<tibetan>གནས་ཕུན་སུམ་ཚོགས་པ་མེ་ཏོག་པདྨའི་ལྟེ་བ་ལ།
+<literal>abode complete-abiding flower lotus center at/
+<liturgical><prose>Abode complete-abiding at lotus flower's center,
+
+[417]
+<tibetan>སྟོན་པ་ཕུན་སུམ་ཚོགས་པ་ཁྱེའུ་སྣང་བ་དམ་པ་བསམ་གྱིས་མི་ཁྱབ་པ་ཉིད་བྱོན་ཏེ།
+<literal>teacher complete-abiding youth light supreme unimaginable arrived/
+<liturgical><prose>Teacher complete-abiding, youth Supreme Light Unimaginable arriving,
+
+[418]
+<tibetan>བསྐལ་པ་བཟང་པོ་འདི་སངས་རྒྱས་སྟོང་དང་སེམས་དཔའ་གཉིས་ཀྱིས་འདུལ་བའི་མཚོན་བྱེད་དུ་འོད་ཀྱི་སྣང་བའི་སངས་རྒྱས་སྟོང་དང་རྩ་གཉིས་ཀྱིས་བསྐོར་བའི་འཁོར་ཕུན་སུམ་ཚོགས་པ་ལ།
+<literal>fortunate aeon this thousand buddhas and two bodhisattvas taming demonstration as thousand light-appearance buddhas and two roots surrounded retinue complete-abiding to/
+<liturgical><prose>To retinue complete-abiding of thousand light-appearance Buddhas and two roots surrounding, demonstrating this Fortunate Eon's taming by thousand Buddhas and two bodhisattvas,
+
+[419]
+<tibetan>བསྟན་པ་ཀུན་གྱི་རྩ་བ་སྒྲ་ཐལ་འགྱུར་གི་རྒྱུད།
+<literal>teaching all root sound thal-gyur tantra/
+<liturgical><tantra>The root of all teachings, Sound Thal-'gyur Tantra,
+
+[420]
+<tibetan>ཚེ་ལོ་དཔག་མེད་ཀྱི་དུས་སུ་གསུངས་ཏེ།
+<literal>amitayus life time at taught/
+<liturgical><prose>Taught during immeasurable lifespan,
+
+[421]
+<tibetan>ལྷའི་བུ་དགའ་བྱེད་དབང་ཕྱུག་དང༌།
+<literal>gods son nandishvara and/
+<liturgical><prose>Compiled by gods' son Nandīśvara
+
+[422]
+<tibetan>ཉི་མ་རབ་ཏུ་སྣང་བྱེད་གཉིས་ཀྱིས་སྡུད་པ་པོ་མཛད་དོ།
+<literal>sun greatly-illuminating two by-means-of compiler made/
+<liturgical><prose>And Sun Greatly-Illuminating.
+
+[423]
+<tibetan>།གཉིས་པ།
+<literal>second/
+<liturgical><ornament>Second:
+
+[424]
+<tibetan>གནས་ཕུན་སུམ་ཚོགས་པ་འཇིག་རྟེན་མི་མཇེད་དུ།
+<literal>abode complete-abiding world saha in/
+<liturgical><prose>Abode complete-abiding in world Sahā, || 250 ||
+
+[425]
+<tibetan>སྟོན་པ་ཁྱེའུ་འོད་མི་འཁྲུགས་པ་ཉིད་འོད་ལྔའི་སྒོ་ང་ལས་འཁྲུངས་ཏེ།
+<literal>teacher youth light akshobhya five-light egg from born/
+<liturgical><prose>Teacher youth Light Akṣobhya, born from five-light egg,
+
+[426]
+<tibetan>འཁོར་མཁའ་འགྲོ་མ་འབུམ་ཕྲག་གཉིས་ལ།
+<literal>retinue dakinis hundred-thousand two to/
+<liturgical><prose>To retinue ḍākinīs hundred-thousand two,
+
+[427]
+<tibetan>ཆོས་ཕུན་སུམ་ཚོགས་པ་སྐུ་གསུང་ཐུགས་ཡོན་ཏན་འཕྲིན་ལས་ཀྱི་རྒྱུད་ལྔ།
+<literal>dharma complete-abiding body-speech-mind-qualities-activities tantras five/
+<liturgical><tantra>Dharma complete-abiding: body-speech-mind-qualities-activities tantras five,
+
+[428]
+<tibetan>ཚེ་ལོ་བྱེ་བ་གཅིག་ཐུབ་པའི་དུས་སུ་གསུངས་སོ།
+<literal>life hundred-million one enduring time at taught/
+<liturgical><prose>Taught during one hundred-million year lifespan.
+
+[429]
+<tibetan>།གསུམ་པ་ནི།
+<literal>third is/
+<liturgical><ornament>Third:
+
+[430]
+<tibetan>གནས་ཕུན་སུམ་ཚོགས་པ་དྲོད་གཤེར་འདུས་པ་འོད་ཀྱིས་སྤུངས་པར།
+<literal>abode complete-abiding heat-moisture gathering light surrounded/
+<liturgical><prose>Abode complete-abiding at Heat-Moisture-Gathering surrounded-by-light,
+
+[431]
+<tibetan>སྟོན་པ་ཕུན་སུམ་ཚོགས་པ་འཇིགས་པ་སྐྱོབ་པའི་ཡིད་ཅེས་བྱ་བ།
+<literal>teacher complete-abiding fear-protecting mind called/
+<liturgical><prose>Teacher complete-abiding Fear-Protecting Mind by name,
+
+[432]
+<tibetan>འཁོར་བྱང་ཆུབ་སེམས་དཔའ་འབུམ་ཕྲག་དྲུག་ལ།
+<literal>retinue bodhisattvas hundred-thousand six to/
+<liturgical><prose>To retinue bodhisattvas hundred-thousand six,
+
+[433]
+<tibetan>ཆོས་ཕུན་སུམ་ཚོགས་པ་འཁོར་བ་དོང་སྤྲུགས།
+<literal>dharma complete-abiding samsara dong-sprug/
+<liturgical><prose>Dharma complete-abiding: Saṃsāra Dong-sprugs,
+
+[434]
+<tibetan>རྨ་བྱ་མཇིང་བསྣོལ།
+<literal>peacock jing-snol/
+<liturgical><prose>Peacock Jing-bsnol, || 260 ||
+
+[435]
+<tibetan>།འབྱུང་བཞི་ཟད་པའི་རྒྱུད་རྣམས་ཚེ་ལོ་འབུམ་པའི་དུས་སུ་གསུངས་སོ།
+<literal>four-elements exhausted tantras life hundred-thousand time at taught/
+<liturgical><tantra>Four-elements-exhausted tantras, taught during hundred-thousand year lifespan.
+
+[436]
+<tibetan>།བཞི་པ་ནི།
+<literal>fourth is/
+<liturgical><ornament>Fourth:
+
+[437]
+<tibetan>གནས་ཕུན་སུམ་ཚོགས་པ་ཆགས་འབྱུང་མངལ་དུ་སྣང་བར།
+<literal>abode complete-abiding attachment-arising womb in appearing/
+<liturgical><prose>Abode complete-abiding at Attachment-Arising womb appearing,
+
+[438]
+<tibetan>སྟོན་པ་གཞོན་ནུ་རོལ་པ་རྣམ་པར་བརྩེ་བས།
+<literal>teacher youth play virarati by-means-of/
+<liturgical><prose>Teacher youth play Vīrarati,
+
+[439]
+<tibetan>འཁོར་གནོད་སྦྱིན་དང་བྲག་སྲིན་སྟོང་ཕྲག་གཅིག་ལ།
+<literal>retinue yakshas and raksha thousand one to/
+<liturgical><prose>To retinue yakṣas and brag-srin thousand one,
+
+[440]
+<tibetan>ཆོས་སེམས་སྡེ་རྩ་བའི་རྒྱུད་ལྔ།
+<literal>dharma mind-class root tantras five/
+<liturgical><tantra>Dharma mind-class root tantras five,
+
+[441]
+<tibetan>ཡན་ལག་གི་རྒྱུད་དྲུག་སྟེ་བཅུ་གཅིག་ཚེ་ལོ་བརྒྱད་ཁྲི་པའི་དུས་སུ་གསུངས་སོ།
+<literal>branch tantras six thus eleven life eighty-thousand time at taught/
+<liturgical><tantra>Branch tantras six, thus eleven, taught during eighty-thousand year lifespan.
+
+[442]
+<tibetan>།ལྔ་པ་ནི།
+<literal>fifth is/
+<liturgical><ornament>Fifth:
+
+[443]
+<tibetan>གནས་ཕུན་སུམ་ཚོགས་པ་འཚོ་བྱེད་གཞོན་ནུའི་ལྡུམ་རར།
+<literal>abode complete-abiding amrapali youth garden in/
+<liturgical><prose>Abode complete-abiding at Āmrapāli youth's garden,
+
+[444]
+<tibetan>སྟོན་པ་དྲུག་པ་རྡོ་རྗེ་འཆང་གིས།
+<literal>teacher sixth vajradhara by-means-of/
+<liturgical><prose>Teacher sixth Vajradhara, || 270 ||
+
+[445]
+<tibetan>འཁོར་སངས་རྒྱས་རབས་བདུན་དུ་སྣང་བ་རང་བཀོད་ནས།
+<literal>retinue buddhas succession seven appearing self-arranged from/
+<liturgical><prose>To retinue Buddhas succession seven appearing, self-arranged,
+
+[446]
+<tibetan>ཆོས་ཕ་རོལ་ཏུ་ཕྱིན་པ་དྲུག
+<literal>dharma paramitas six/
+<liturgical><break><prose> Dharma six pāramitās,
+
+[447]
+<tibetan>ཚེ་ལོ་བདུན་ཁྲི་པའི་དུས་སུ་གསུངས་སོ།
+<literal>life seventy-thousand time at taught/
+<liturgical><break><prose> Taught during seventy-thousand year lifespan.
+
+[448]
+<tibetan>།དྲུག་པ་ནི།
+<literal>sixth is/
+<liturgical><ornament>Sixth:
+
+[449]
+<tibetan>གནས་ཕུན་སུམ་ཚོགས་པ་རི་རབ་ཀྱི་བྱང་ཕྱོགས་དུར་ཁྲོད་མི་རེ་འབར་བར།
+<literal>abode complete-abiding meru north direction charnel-ground raurava in/
+<liturgical><prose>Abode complete-abiding at Meru's north, charnel-ground Raurava,
+
+[450]
+<tibetan>སྟོན་པ་ཕུན་སུམ་ཚོགས་པ་གཞོན་ནུ་དཔའ་བོ་སྟོབས་ལྡན་ཆེན་པོས།
+<literal>teacher complete-abiding youth hero power great by-means-of/
+<liturgical><prose>Teacher complete-abiding youth Hero Power Great,
+
+[451]
+<tibetan>འཁོར་ཕུན་སུམ་ཚོགས་པ་བྱང་ཆུབ་སེམས་དཔའ་སྤྲིན་གྱི་ཤུགས་ཅན་བདུན་དང༌།
+<literal>retinue complete-abiding bodhisattvas cloud-strength seven and/
+<liturgical><prose>To retinue complete-abiding bodhisattvas Cloud-Strength seven,
+
+[452]
+<tibetan>མཁའ་འགྲོ་མ་དང༌།
+<literal>dakinis and/
+<liturgical><prose>Ḍākinīs,
+
+[453]
+<tibetan>ལྷ་དང་ཀླུ་ལ་སོགས་པ་དཔག་ཏུ་མེད་པ་ལ།
+<literal>gods and nagas and so forth immeasurable to/
+<liturgical><prose>Gods and nāgas and so forth immeasurable,
+
+[454]
+<tibetan>ཆོས་ཕུན་སུམ་ཚོགས་པ་རིག་པ་རང་ཤར་ཆེན་པོའི་རྒྱུད་ལ་སོགས་པ་མངོན་སུམ་འོད་གསལ་གྱི་རྒྱུད་རྣམས་དང༌།
+<literal>dharma complete-abiding rigpa-rang-shar-great tantra and so forth direct-luminous tantras and/
+<liturgical><tantra>Dharma complete-abiding: Rig-pa-rang-shar-great Tantra and so forth, direct-luminous tantras, || 280 ||
+
+[455]
+<tibetan>གཞན་ཡང་དཔག་ཏུ་མེད་པ་རྣམས་ཚེ་ལོ་དྲུག་ཁྲི་པའི་དུས་ན་གསུངས་སོ།
+<literal>other also immeasurable life sixty-thousand time at taught/
+<liturgical><prose>Other also immeasurable, taught during sixty-thousand year lifespan.
+
+[456]
+<tibetan>།བདུན་པ་ནི།
+<literal>seventh is/
+<liturgical><prose>Seventh:
+
+[457]
+<tibetan>གནས་ཕུན་སུམ་ཚོགས་པ་སྲིན་པོའི་ཡུལ་རུ་ལུའི་སྒྲ་དང་ལྡན་པའི་ཕུག་ཏུ།
+<literal>abode complete-abiding rakshasa land ruru sound possessing cave in/
+<liturgical><prose>Abode complete-abiding at rākṣasa land Ruru sound-possessing cave,
+
+[458]
+<tibetan>སྟོན་པ་དྲང་སྲོང་ཁྲོས་པའི་རྒྱལ་པོས།
+<literal>teacher sage furious king by-means-of/
+<liturgical><prose>Teacher ṛṣi Furious King,
+
+[459]
+<tibetan>འཁོར་སྲིན་པོ་བྱེ་བ་གཅིག་ལ།
+<literal>retinue rakshasas hundred-million one to/
+<liturgical><prose>To retinue rākṣasas hundred-million one,
+
+[460]
+<tibetan>ཆོས་རགས་པ་འདུལ་བའི་རྒྱུད་བཅུ་ལ་སོགས་པ།
+<literal>dharma coarse taming tantras ten and so forth/
+<liturgical><tantra>Dharma coarse-taming tantras ten and so forth,
+
+[461]
+<tibetan>ཚེ་ལོ་ཁྲི་པའི་དུས་སུ་གསུངས་སོ།
+<literal>life ten-thousand time at taught/
+<liturgical><prose>Taught during ten-thousand year lifespan.
+
+[462]
+<tibetan>།བརྒྱད་པ་ནི།
+<literal>eighth is/
+<liturgical><prose>Eighth:
+
+[463]
+<tibetan>གནས་ཕུན་སུམ་ཚོགས་པ་བྱ་རྒོད་སྤུངས་པར།
+<literal>abode complete-abiding gridhrakuta at/
+<liturgical><prose>Abode complete-abiding at Gridhrakūṭa,
+
+[464]
+<tibetan>སྟོན་པ་གསེར་འོད་དམ་པས།
+<literal>teacher golden-light supreme by-means-of/
+<liturgical><prose>Teacher Supreme Golden Light, || 290 ||
+
+[465]
+<tibetan>འཁོར་འཕགས་པ་ཉན་ཐོས་གྲངས་མེད་པ་ལ།
+<literal>retinue noble shravakas countless to/
+<liturgical><prose>To retinue noble śrāvakas countless,
+
+[466]
+<tibetan>ཆོས་འདུལ་བ་ཁྲི་ཕྲག་དཔག་ཏུ་མེད་པ།
+<literal>dharma vinaya thousand immeasurable/
+<liturgical><prose>Dharma vinaya thousand immeasurable,
+
+[467]
+<tibetan>ཚེ་ལོ་ལྔ་སྟོང་པའི་དུས་སུ་གསུངས་སོ།
+<literal>life five-thousand time at taught/
+<liturgical><prose>Taught during five-thousand year lifespan.
+
+[468]
+<tibetan>།དགུ་པ་ནི།
+<literal>ninth is/
+<liturgical><prose>Ninth:
+
+[469]
+<tibetan>གནས་ཕུན་སུམ་ཚོགས་པ་སོག་པོ་གཡུའི་སྨིན་མ་ཅན་གྱི་ཡུལ།
+<literal>abode complete-abiding mongolian turquoise-eyebrow possessing land/
+<liturgical><prose>Abode complete-abiding in Mongolian turquoise-eyebrow land,
+
+[470]
+<tibetan>།བྱང་ཆུབ་ཀྱི་ཤིང་དྲུང་དུ།
+<literal>bodhi-tree under/
+<liturgical><prose>Beneath the bodhi-tree,
+
+[471]
+<tibetan>སྟོན་པ་བརྩེ་བས་རོལ་པའི་བློ་གྲོས་ཀྱིས།
+<literal>teacher love by-means-of play wisdom by-means-of/
+<liturgical><prose>Teacher Love-Play Wisdom,
+
+[472]
+<tibetan>འཁོར་བྱང་ཆུབ་སེམས་དཔའ་དཔག་ཏུ་མེད་པ་ལ།
+<literal>retinue bodhisattvas immeasurable to/
+<liturgical><prose>To retinue bodhisattvas immeasurable,
+
+[473]
+<tibetan>ཆོས་འཕྲ་རྒྱུད་བདུན་པ་ལ་སོགས་པ།
+<literal>dharma sutra-tantra seventh and so forth/
+<liturgical><tantra>Dharma sūtra-Tantra seventh and so forth,
+
+[474]
+<tibetan>ཚེ་ལོ་སྟོང་གི་དུས་སུ་གསུངས་སོ།
+<literal>life thousand time at taught/
+<liturgical><prose>Taught during thousand year lifespan. || 300 ||
+
+[475]
+<tibetan>།བཅུ་པ་ནི།
+<literal>tenth is/
+<liturgical><prose>Tenth:
+
+[476]
+<tibetan>གནས་ཕུན་སུམ་ཚོགས་པ་བྱ་རྒོད་སྤུངས་པར།
+<literal>abode complete-abiding gridhrakuta at/
+<liturgical><prose>Abode complete-abiding at Gridhrakūṭa,
+
+[477]
+<tibetan>སྟོན་པ་འོད་སྲུང་བགྲེས་པོས།
+<literal>teacher kashyapa elder by-means-of/
+<liturgical><prose>Teacher Kāśyapa the Elder,
+
+[478]
+<tibetan>།འཁོར་ཚེ་དང་ལྡན་པ་སྐར་མ་འོད་བཟངས་ལ་སོགས་པ་བདུན་ལ།
+<literal>retinue ayusmat nakshatra-prabha and so forth seven to/
+<liturgical><prose>To retinue āyuṣmat Nakṣatra-prabha and so forth seven,
+
+[479]
+<tibetan>ཆོས་མདོ་སྡེ་དང༌།
+<literal>dharma sutras and/
+<liturgical><prose>Dharma sūtras,
+
+[480]
+<tibetan>ཀྲཱི་ཡ་དང༌།
+<literal>kriya and/
+<liturgical><prose>Kriyā,
+
+[481]
+<tibetan>ལུང་ཨ་ནུ་ལ་སོགས་པ་ཁྲི་ཕྲག་བརྒྱད།
+<literal>text anu and so forth thousand eight/
+<liturgical><prose>Text Anu and so forth thousand eight,
+
+[482]
+<tibetan>ཚེ་ལོ་ལྔ་བརྒྱ་པའི་དུས་སུ་གསུངས་སོ།
+<literal>life five-hundred time at taught/
+<liturgical><prose>Taught during five-hundred year lifespan.
+
+[483]
+<tibetan>།བཅུ་གཅིག་པ་ནི།
+<literal>eleventh is/
+<liturgical><prose>Eleventh:
+
+[484]
+<tibetan>གནས་ཕུན་སུམ་ཚོགས་པ་རྡོ་རྗེ་གདན་དུ།
+<literal>abode complete-abiding vajrasana at/
+<liturgical><prose>Abode complete-abiding at Vajrāsana, || 310 ||
+
+[485]
+<tibetan>སྟོན་པ་མངོན་རྫོགས་རྒྱལ་པོས།
+<literal>teacher abhisambodhi king by-means-of/
+<liturgical><prose>Teacher Abhisaṃbodhi King,
+
+[486]
+<tibetan>འཁོར་རིགས་གསུམ་མགོན་པོ་ལ།
+<literal>retinue three-family protectors to/
+<liturgical><prose>To retinue three-family protectors,
+
+[487]
+<tibetan>ཆོས་ངེས་པ་དོན་གྱི་ཐེག་པ་འབའ་ཞིག
+<literal>dharma definitive meaning vehicle only/
+<liturgical><break><prose> Dharma definitive-meaning vehicle only,
+
+[488]
+<tibetan>ཚེ་ལོ་སུམ་བརྒྱ་པའི་དུས་སུ་གསུངས་སོ།
+<literal>life three-hundred time at taught/
+<liturgical><break><prose> Taught during three-hundred year lifespan.
+
+[489]
+<tibetan>།བཅུ་གཉིས་པ་ནི།
+<literal>twelfth is/
+<liturgical><prose>Twelfth:
+
+[490]
+<tibetan>གནས་ཕུན་སུམ་ཚོགས་པ་བཱ་རཱ་ཎ་སཱི་ལ་སོགས་པར།
+<literal>abode complete-abiding varanasi and so forth at/
+<liturgical><prose>Abode complete-abiding at Vārāṇasī and so forth,
+
+[491]
+<tibetan>སྟོན་པ་ཕུན་སུམ་ཚོགས་པ་ཤཱཀྱ་ཐུབ་པས།
+<literal>teacher complete-abiding shakyamuni by-means-of/
+<liturgical><prose>Teacher complete-abiding Śākyamuni,
+
+[492]
+<tibetan>ཆོས་ཕུན་སུམ་ཚོགས་པ་སྡེ་སྣོད་གསུམ་ལ་སོགས་པ།
+<literal>dharma complete-abiding three-baskets and so forth/
+<liturgical><prose>Dharma complete-abiding three baskets and so forth,
+
+[493]
+<tibetan>འཁོར་ཕུན་སུམ་ཚོགས་པ་ཉན་ཐོས་དང༌།
+<literal>retinue complete-abiding shravakas and/
+<liturgical><prose>Retinue complete-abiding śrāvakas,
+
+[494]
+<tibetan>བྱང་ཆུབ་སེམས་དཔའ་དང༌།
+<literal>bodhisattvas and/
+<liturgical><prose>Bodhisattvas, || 320 ||
+
+[495]
+<tibetan>ལྷ་དང༌།
+<literal>gods and/
+<liturgical><prose>Gods,
+
+[496]
+<tibetan>ཀླུ་ལ་སོགས་པ་ལ།
+<literal>nagas and so forth to/
+<liturgical><prose>Nāgas and so forth,
+
+[497]
+<tibetan>དུས་ཕུན་སུམ་ཚོགས་པ་ཚེ་ལོ་བརྒྱ་པའི་དུས་སུ་གསུངས་སོ།
+<literal>time complete-abiding life hundred time at taught/
+<liturgical><prose>Time complete-abiding, taught during hundred year lifespan.
+
+[498]
+<tibetan>།དེ་དག་ཀྱང་རིག་པ་རང་ཤར་ཆེན་པོའི་རྒྱུད་ལས།
+<literal>these also rigpa-rang-shar-great tantra from/
+<liturgical><tantra>These from Rig-pa-rang-shar-great Tantra:
+
+[499]
+<tibetan>ཐོག་མ་མེད་པའི་དུས་ཀྱི་ཚེ།
+<literal>beginningless time occasion/
+<liturgical><prose>At beginningless time,
+
+[500]
+<tibetan>།ང་ཡི་ནོར་བུ་རིན་ཆེན་སྟོར།
+<literal>my jewel precious lost/
+<liturgical><verse>"My precious jewel lost,
+
+[501]
+<tibetan>།ནོར་བུ་སྟོར་བའི་རང་བཞིན་གྱིས།
+<literal>jewel lost self-nature by-means-of/
+<liturgical><prose>By jewel-lost self-nature,
+
+[502]
+<tibetan>།མུན་སྣང་གཉིས་ཀྱི་མཚམས་ནས་འོངས།
+<literal>darkness-appearance two interval from came/
+<liturgical><tantra>From darkness-appearance interval came,
+
+[503]
+<tibetan>།རྐྱེན་བཞི་དམིགས་པ་མ་དག་པས།
+<literal>conditions four concept impure by-means-of/
+<liturgical><prose>By four conditions concept impure,
+
+[504]
+<tibetan>།དགའ་ལྡན་བརྩེགས་པའི་ཡུལ་དུ་འོངས།
+<literal>tusita upper-chamber land to came/
+<liturgical><prose>To Tuṣita upper-chamber land came, || 330 ||
+
+[505]
+<tibetan>།རྟེན་ནི་པདྨ་དག་པ་ཡིན།
+<literal>support lotus pure is/
+<liturgical><prose>Support is pure lotus,
+
+[506]
+<tibetan>།གསང་སྔགས་རྒྱུད་ཆེན་བསྟན་པ་བཙུགས།
+<literal>secret-mantra tantra great teaching established/
+<liturgical><prose>Secret mantra great teaching established,
+
+[507]
+<tibetan>།ཉེ་བའི་འཁོར་ནི་མི་འཁྲུགས་པའོ།
+<literal>near retinue akshobhya/
+<liturgical><prose>Near retinue is Akṣobhya,
+
+[508]
+<tibetan>།རྒྱུད་ཀྱི་རྒྱལ་པོ་ཐལ་འགྱུར་བཤད།
+<literal>tantra king thal-gyur taught/
+<liturgical><tantra>Tantra's king Thal-'gyur taught,"
+
+[509]
+<tibetan>།ཅེས་པ་ལ་སོགས་པ་དང༌།
+<literal>thus and so forth/
+<liturgical><prose>Thus and so forth;
+
+[510]
+<tibetan>ཨ་ཏི་བཀོད་པ་ཆེན་པོ་ལས་གསུངས་པ་གཡུ་ཡིག་ཅན་དུ་དྲངས་པ་ལས་ཀྱང་རྒྱ་ཆེར་འབྱུང་ངོ༌།
+<literal>atikota great from taught turquoise-script possessing at quoted from also extensively arises/
+<liturgical><prose>Also extensively quoted from Ati-koṭa-great taught at turquoise-script.
+
+[511]
+<tibetan>།འདི་དག་གིའང་སྐུ་གསུང་ཐུགས་མི་ཟད་པ་རྒྱན་གྱི་འཁོར་ལོའི་མཛད་པ་སུམ་ཅུ་རྩ་དྲུག་ལས།
+<literal>these also body-speech-mind inexhaustible ornament mandala activities thirty-six from/
+<liturgical><prose>These body-speech-mind inexhaustible ornament maṇḍala's thirty-six activities:
+
+[512]
+<tibetan>སྐུའི་ཕྱིའི་མཛད་པ་བཞིན་ནི།
+<literal>body outer activities four are/
+<liturgical><prose>The body's four external activities concern abandoning the four rivers of suffering:
+
+[513]
+<tibetan>སྡུག་བསྔལ་གྱི་ཆུ་བོ་བཞི་སྤོང་པ་ལ་དགོངས་ནས།
+<literal>suffering river four abandoning regarding/
+<liturgical><ornament>The river of birth, wherein beings enter conditioned existence,
+
+[514]
+<tibetan>བལྟམས་པ་དང༌།
+<literal>birth and/
+<liturgical><prose>The river of marriage, binding beings to cyclic attachment, || 340 ||
+
+[515]
+<tibetan>འཕོང་དང༌།
+<literal>marriage and/
+<liturgical><prose>The river of skill competition, generating pride and conflict,
+
+[516]
+<tibetan>སྒྱུ་རྩལ་འགྲན་པ་དང༌།
+<literal>skill competition and/
+<liturgical><prose>The river of renunciation, even attachment to abandonment itself.
+
+[517]
+<tibetan>མངོན་པར་བྱུང་བ་དང༌།
+<literal>renunciation and/
+<liturgical><prose>Through piṇḍapāta engagement, these are transcended.
+
+[518]
+<tibetan>བསོད་སྙོམས་ལ་སྤྱོད་པ་རྣམས་སོ།
+<literal>alms-giving engaging are/
+<liturgical><prose>The four internal activities:
+
+[519]
+<tibetan>།ནང་གི་བཞི་ནི།
+<literal>inner four are/
+<liturgical><prose>Abandoning attachment to retinue and sensory enjoyment,
+
+[520]
+<tibetan>འཁོར་དང་ལོངས་སྤྱོད་སྤང་བ་ལ་དགོངས་ནས།
+<literal>retinue and enjoyment abandoning regarding/
+<liturgical><prose>Releasing the great horse of discursive thought,
+
+[521]
+<tibetan>རྟ་མཆོག་དང༌།
+<literal>excellent horse and/
+<liturgical><prose>Abandoning the chariot of conceptual elaboration,
+
+[522]
+<tibetan>ཤིང་རྟ་དོར་བ་དང༌།
+<literal>chariot abandoning and/
+<liturgical><prose>Going to the essence of bodhi beyond all extremes,
+
+[523]
+<tibetan>སྙིང་པོ་བྱང་ཆུབ་ཏུ་འགྲོ་བ་དང༌།
+<literal>essence bodhi to going and/
+<liturgical><prose>Emanating light-rays of wisdom illuminating all directions,
+
+[524]
+<tibetan>འོད་ཟེར་བཀྱེ་བ་དང༌།
+<literal>light-rays emanating and/
+<liturgical><prose>Transforming the weapon-rain of afflictions into flowers of virtue. || 350 ||
+
+[525]
+<tibetan>མཚོན་ཆའི་ཆར་པ་མེ་ཏོག་ཏུ་སྒྱུར་བ་རྣམས་སོ།
+<literal>weapon rain flower transforming are/
+<liturgical><prose>The four secret activities:
+
+[526]
+<tibetan>།གསང་བའི་བཞི་ནི།
+<literal>secret four are/
+<liturgical><prose>Taming through the final samādhi of ultimate reality,
+
+[527]
+<tibetan>བསྟན་པའི་ཐ་མ་ཏིང་ངེ་འཛིན་གྱིས་འདུལ་བ་ལ་དགོངས་ནས།
+<literal>teaching final samadhi taming regarding/
+<liturgical><prose>Making austerity that transcends hardship and ease,
+
+[528]
+<tibetan>དཀའ་ཐུབ་མཛད་པ་དང༌།
+<literal>austerity performing and/
+<liturgical><prose>Immediately manifesting twenty-hundred-thousand samādhi-sounds upon Meru in a single instant,
+
+[529]
+<tibetan>རི་བོ་གསེར་ལྡན་དུ་ཏིང་ངེ་འཛིན་གྱི་སྒྲ་འབུམ་ཕྲག་བརྒྱ་ཉི་ཤུ་སྐད་ཅིག་ལ་མངོན་དུ་མཛད་པ་དང༌།
+<literal>meru mountain golden samadhi sound hundred-thousand twenty immediate manifesting and/
+<liturgical><prose>Constantly abiding in the precious casket of non-dual awareness,
+
+[530]
+<tibetan>རིན་པོ་ཆེ་ཟ་མ་ཏོག་གི་ཏིང་ངེ་འཛིན་ལ་རྟག་ཏུ་བཞུགས་པ་དང༌།
+<literal>precious casket samadhi constantly abiding and/
+<liturgical><prose>Attaining bodhi through the vajra-like samādhi of indestructible nature.
+
+[531]
+<tibetan>རྡོ་རྗེ་ལྟ་བུའི་ཏིང་ངེ་འཛིན་གྱིས་བྱང་ཆུབ་པ་རྣམས་སོ།
+<literal>vajra-like samadhi by-means-of bodhi are/
+<liturgical><prose>Speech's four external activities:
+
+[532]
+<tibetan>།གསུང་གི་ཕྱིའི་མཛད་པ་བཞི་ནི།
+<literal>speech outer activities four are/
+<liturgical><prose>Teaching through sūtra-sections that convey ultimate meaning,
+
+[533]
+<tibetan>མདོའི་སྡེ།
+<literal>sutra section/
+<liturgical><prose>Verses intoned with melodious cadence for easy retention,
+
+[534]
+<tibetan>དབྱངས་སུ་བསྙད་པ།
+<literal>verse intoned/
+<liturgical><prose>Prophecies that inspire confidence and guide future conduct, || 360 ||
+
+[535]
+<tibetan>ལུང་བསྟན་པ།
+<literal>prophecy/
+<liturgical><prose>Gāthā-sections expressing the essence in rhythmic form.
+
+[536]
+<tibetan>ཚིགས་སུ་བཅད་པའི་སྡེ་བཞིའོ།
+<literal>gatha section four/
+<liturgical><prose>The four internal activities:
+
+[537]
+<tibetan>།ནང་གི་བཞི་ནི།
+<literal>inner four are/
+<liturgical><prose>Extremely extensive teachings accommodating all capacities,
+
+[538]
+<tibetan>ཤིན་ཏུ་རྒྱས་པ།
+<literal>extremely extensive/
+<liturgical><prose>Birth-stories illustrating the path through past examples,
+
+[539]
+<tibetan>སྐྱེས་པ་རབས།
+<literal>birth stories/
+<liturgical><prose>Nidāna sayings revealing causes and conditions,
+
+[540]
+<tibetan>གླེང་གཞི་བརྗོད་པ།
+<literal>origin saying/
+<liturgical><prose>Thus-arising teachings showing the nature of phenomena.
+
+[541]
+<tibetan>དེ་ལྟར་བྱུང་བ་བཞིའོ།
+<literal>thus arising four/
+<liturgical><prose>The four secret activities:
+
+[542]
+<tibetan>།གསང་བའི་བཞི་ནི།
+<literal>secret four are/
+<liturgical><prose>Udāna exclamations of spontaneous realization,
+
+[543]
+<tibetan>ཆེད་དུ་བརྗོད་པ།
+<literal>udana/
+<liturgical><prose>Avadāna narratives of past deeds and their results,
+
+[544]
+<tibetan>རྟོགས་པ་བརྗོད་པ།
+<literal>avadana/
+<liturgical><prose>Nipāta teachings gathering essential points, || 370 ||
+
+[545]
+<tibetan>གཏན་ལ་ཕབ་པར་བསྟན་པ།
+<literal>nipata teaching/
+<liturgical><prose>Adbhuta-dharma displaying miraculous manifestations.
+
+[546]
+<tibetan>རྨད་དུ་བྱུང་བའི་སྡེ་རྣམས་སོ།
+<literal>marvelous dharma are/
+<liturgical><prose>Mind's four external activities:
+
+[547]
+<tibetan>།ཐུགས་ཀྱི་ཕྱིའི་མཛད་པ་བཞི་ནི།
+<literal>mind outer activities four are/
+<liturgical><prose>Sūraṅgama samādhi of heroic majesty and power,
+
+[548]
+<tibetan>།དཔའ་བར་འགྲོ་བ།
+<literal>suranga/
+<liturgical><prose>Jewel-crest samādhi radiating infinite light,
+
+[549]
+<tibetan>རིན་པོ་ཆེའི་ཏོག
+<literal>jewel crest/
+<liturgical><break><prose> Vicāra samādhi of analytical discernment,
+
+[550]
+<tibetan>རྣམ་པར་རོལ་པ།
+<literal>vichara/
+<liturgical><break><prose> Casket samadhi containing all dharma treasures.
+
+[551]
+<tibetan>ཟ་མ་ཏོག་གི་ཏིང་ངེ་འཛིན་ནོ།
+<literal>casket samadhi/
+<liturgical><prose>The four internal activities:
+
+[552]
+<tibetan>།ནང་གི་བཞི་ནི།
+<literal>inner four are/
+<liturgical><prose>Entering all objects with equanimous awareness,
+
+[553]
+<tibetan>ཡུལ་ཀུན་ལ་འཇུག་པ།
+<literal>all objects entering/
+<liturgical><prose>Manifest appearance free from grasping and fixation,
+
+[554]
+<tibetan>མངོན་པར་སྣང་བ།
+<literal>manifest appearance/
+<liturgical><prose>Uṣṇīṣa jewel of supreme enlightenment crowning all, || 380 ||
+
+[555]
+<tibetan>གཙུག་གི་ནོར་བུ།
+<literal>ushnisha jewel/
+<liturgical><prose>Banner-peak samādhi completely arranged as victorious display.
+
+[556]
+<tibetan>རྒྱལ་མཚན་རྩེ་མོ་ཡོངས་སུ་བཀོད་པའི་ཏིང་ངེ་འཛིན་ནོ།
+<literal>banner peak completely-arranged samadhi/
+<liturgical><prose>The four secret activities:
+
+[557]
+<tibetan>།གསང་བའི་བཞི་ནི།
+<literal>secret four are/
+<liturgical><prose>Pure movement without conceptual obstruction,
+
+[558]
+<tibetan>འགྱུ་བ་དག་པ།
+<literal>pure movement/
+<liturgical><prose>Profound appearance beyond ordinary perception,
+
+[559]
+<tibetan>ཟབ་མོ་སྣང་བ།
+<literal>profound appearance/
+<liturgical><prose>Jewel-lamp illuminating the darkness of ignorance,
+
+[560]
+<tibetan>རིན་ཆེན་སྒྲོན་མེ།
+<literal>jewel lamp/
+<liturgical><prose>Supreme-good samādhi as the pinnacle of all concentrations,
+
+[561]
+<tibetan>མཆོག་ཏུ་ལེགས་པའི་ཏིང་ངེ་འཛིན་ནོ།
+<literal>supreme good samadhi/
+<liturgical><prose>Thus completing the mind's twelvefold activity.
+
+[562]
+<tibetan>།དེ་ལྟར་སྤྲུལ་པའི་སྐུ་དང༌།
+<literal>thus emanation-body and/
+<liturgical><prose>Thus emanation-body,
+
+[563]
+<tibetan>ལོངས་སྤྱོད་རྫོགས་པ་དང༌།
+<literal>enjoyment-body and/
+<liturgical><prose>Complete-enjoyment,
+
+[564]
+<tibetan>ཆོས་ཀྱི་སྐུ་རྣམས་ལ་བསྡོམས་པས་མཛད་པ་བརྒྱ་རྩ་བརྒྱད་དུ་སྣང་བ་ནི།
+<literal>dharma-body to summarized activities hundred eight appearing is/
+<liturgical><prose>Dharma-body summarized, appearing as hundred-eight activities: || 390 ||
+
+[565]
+<tibetan>རྡོ་རྗེ་འཆང་ཡོན་ཏན་རྫོགས་པའི་བདག་ཉིད་གཅིག་གི་མཛད་པ་ཞེས་བྱའོ།
+<literal>vajradhara qualities complete self-nature one activity called/
+<liturgical><prose>Called the activity of the single self-nature of Vajradhara complete in qualities.
+
+[566]
+<tibetan>།འདི་དག་ནི་རྒྱལ་བ་དགོངས་པས་བརྒྱུད་པའི་རིམ་པ་ཞེས་བྱ་སྟེ།
+<literal>these victor intention by-means-of transmitted succession called/
+<liturgical><prose>These are called the succession transmitted by the Victor's intention,
+
+[567]
+<tibetan>རྡོ་རྗེ་འཆང་གཅིག་དུས་ཐ་དད་པར་བྱོན་པ་ཙམ་ལས།
+<literal>vajradhara one time different arriving only from/
+<liturgical><prose>Only from Vajradhara arriving at different times,
+
+[568]
+<tibetan>དགོངས་པའམ་རྒྱུད་གཅིག་གིས་བསྡུས་པ་ཞེས་བྱའོ།
+<literal>intention or tantra one gathered called/
+<liturgical><tantra>Called gathered by one intention or Tantra.
+
+[569]
+<tibetan>།དེ་བཞིན་དུ་སླད་ཀྱིས་འབྱོན་པའི་བསྐལ་བཟངས་ཀྱི་འདྲེན་པ་རྣམས་རྣམ་འཕྲུལ་ཐ་དད་ཀྱང་ངོ་བོ་རྡོ་རྗེ་འཆང་འདི་ཁོ་ནའི་རང་བཞིན་དུ་གཅིག་པ་ཡིན་ནོ།
+<literal>thus later arriving fortunate-aeon guides emanations different although essence vajradhara this itself self-nature one is/
+<liturgical><prose>Thus, although the emanations of guides of fortunate aeons arriving later are different, in essence they are one in the self-nature of this very Vajradhara.
+
+[570]
+<tibetan>།ཞར་ལ་རིགས་འཛིན་བརྡས་བརྒྱུད་པ་དང༌།
+<literal>incidentally vidyadhara sign transmitted and/
+<liturgical><prose>Incidentally, the vidyādhara sign-transmitted
+
+[571]
+<tibetan>གང་ཟག་སྙན་ཁུང་དུ་བརྒྱུད་པའི་རིམ་པ་ནི།
+<literal>person ear transmitted succession is/
+<liturgical><prose>And person ear-transmitted succession,
+
+[572]
+<tibetan>སོ་སོའི་ཡེ་གེ་དང་ལོ་་རྒྱུས་ཆེན་མོ་ཉིད་དུ་རྟོགས་པར་བྱའོ།
+<literal>individual biography and history great itself understand/
+<liturgical><prose>Understand as individual biography and great history.
+
+[573]
+<tibetan>།དེ་དག་གིས་སྟོན་པ་དང་བསྟན་པའི་བབས་ལུགས་ལེགས་པར་བཤད་པའོ།
+<literal>these teacher and teaching descent manner well explained/
+<liturgical><prose>By these, the teacher and teaching's descent manner is well explained.
+
+[574]
+<tibetan>།ཐེག་པའི་མཆོག་རིན་པོ་ཆེའི་མཛོད་ལས།
+<literal>treasury supreme vehicle from/
+<liturgical><tantra>From the Treasury of the Supreme Vehicle, || 400 ||
+
+[575]
+<tibetan>བྱུང་ཚུལ་གཏན་ལ་དབབ་པ་སྟེ་རིམ་ཁང་དང་པོའོ།
+<literal>arisen manner established sequence chapter first/
+<liturgical><prose>Thus concludes the first chapter: The Manner of Arising Established.
+
+[576]
+<tibetan>།དེ་ལྟར་འདུལ་བྱེད་སྟོན་པའི་ལོ་རྒྱུས་བསྟན་ནས།
+<literal>thus tamer teacher history shown from/
+<liturgical><prose>Thus having shown the tamer teacher's history,
+
+[577]
+<tibetan>ད་ནི་སྟོན་པ་དེས་གང་དུ་འདུལ་བའི་གནས་ངེས་པ་བསྟན་པ་ལས།
+<literal>now teacher that where tames abode definite shown from/
+<liturgical><prose>Now from the definite abode where that teacher tames,
+
+[578]
+<tibetan>དང་པོ་ཞིང་ཁམས་དང་སྣོད་བཅུད་ཀྱི་རིམ་པ་བཤད་པ་ནི།
+<literal>first field and container-contained sequence explained is/
+<liturgical><prose>First, the explanation of the sequence of pure fields and container-contained:
+
+[579]
+<tibetan>དེ་ལྟར་རྡོ་རྗེ་འཆང་ཡོན་ཏན་རྫོགས་པའི་རང་བཞིན་དུ་བྱང་ཆུབ་ནས།
+<literal>thus vajradhara qualities complete self-nature bodhi from/
+<liturgical><prose>Thus, from Vajradhara—the nature of complete qualities—having awakened to Bodhi,
+
+[580]
+<tibetan>ཆོས་ཀྱི་སྐུ་ལས་ལོངས་སྤྱོད་རྫོགས་པའི་སྐུར་བཞེངས་ཏེ།
+<literal>dharma-body from enjoyment-body abiding/
+<liturgical><prose>Arising from the Dharmakāya as Saṃbhogakāya,
+
+[581]
+<tibetan>རིགས་ལྔའི་སྐུ་ལས།
+<literal>five-family bodies from/
+<liturgical><tantra>From the bodies of the Five Families,
+
+[582]
+<tibetan>ཞིང་ཁམས་དཔག་ཏུ་མེད་པ་བཀོད་པ་ལས།
+<literal>fields immeasurable arrangement from/
+<liturgical><tantra>From the arrangement of immeasurable pure fields,
+
+[583]
+<tibetan>དབུས་མ་རྣམ་པར་སྣང་མཛད་ཀྱིས་བརྒྱན་པའི་སྙིང་པོ་ལ་བརྟེན་པའི་ཞིང་ཁམས་གྲངས་མེད་པ་ལས།
+<literal>center vairocana ornamented essence supporting fields countless from/
+<liturgical><prose>Among the immeasurable pure fields abiding in the essence ornamented by Vairocana at the center,
+
+[584]
+<tibetan>པདྨ་རིན་པོ་ཆེའི་སྟེང་ན་ཉི་ཤུ་རྩ་ལྔ་བརྩེགས་མར་སྣང་བའི་བཅུ་གསུམ་པ་ན་མི་མཇེད་འདི་གནས་ལ།
+<literal>padma jewel top twenty-five stacked appearing thirteenth at saha this abides/
+<liturgical><prose>Upon the jewel lotus, in the thirteenth of the twenty-five stacked realms, abides this Jambudvīpa.
+
+[585]
+<tibetan>འདིའི་སྟེང་འོག་དང་ཕྱོགས་མཚམས་ན་འོད་གསལ་རིན་པོ་ཆེས་བརྒྱན་པའི་ཞིང་ཁམས་བཅུ་གསུམ་ཡོད་དེ།
+<literal>this upper-lower and directions-interval luminosity jewel ornamented fields thirteen exist/
+<liturgical><prose>Above and below this, and in the intermediate directions, exist thirteen pure fields ornamented by light-jewels.
+
+[586]
+<tibetan>སྒྲ་ཐལ་འགྱུར་ལས།
+<literal>sound thal-gyur from/
+<liturgical><tantra>From the Sound Thalgyur:
+
+[587]
+<tibetan>ཞིང་ཁམས་རྣམ་པ་བཅུ་གསུམ་ལ།
+<literal>fields thirteen types to/
+<liturgical><verse>"Regarding the thirteen types of pure fields— || 10 ||
+
+[588]
+<tibetan>འདི་ནས་འཇིག་རྟེན་འོག་ན་ནི།
+<literal>this from world below at is/
+<liturgical><verse>Below this world here,
+
+[589]
+<tibetan>།ཐལ་བ་དབྱངས་ཞེས་བྱ་བ་ཡི།
+<literal>thalba-dyang called/
+<liturgical><verse>That called Thalwa Dbyangs,
+
+[590]
+<tibetan>།རྒྱ་ཁྱོན་དཔག་དཀའ་རབ་ཏུ་མཛེས།
+<literal>extent immeasurable extremely beautiful/
+<liturgical><verse>Vast extent, extremely beautiful,
+
+[591]
+<tibetan>།རྒྱུ་དང་རྐྱེན་དང་རང་བཞིན་དང༌།
+<literal>cause and condition and nature and/
+<liturgical><verse>Cause, condition, and nature,
+
+[592]
+<tibetan>།སྟོན་པའི་བསྟན་པ་དེ་ཡི་འཁོར།
+<literal>teacher teaching that retinue/
+<liturgical><verse>Retinue of that Teacher's teaching,
+
+[593]
+<tibetan>།སྟེང་དང་འོག་དང་ཕྱོགས་མཚམས་སུ།
+<literal>above and below and directions-intervals in/
+<liturgical><verse>Above, below, and in directions-intermediates,
+
+[594]
+<tibetan>།ཆུང་ཞིང་ཉམས་དགའ་བཀོད་ལེགས་སྤྲས།
+<literal>small and delightful arrangement well-ornamented/
+<liturgical><verse>Small, delightful, well-ornamented arrangement.
+
+[595]
+<tibetan>།དེ་ནས་འཇིག་རྟེན་དྲུག་འོག་ན།
+<literal>then world six below at/
+<liturgical><verse>Then below the six worlds,
+
+[596]
+<tibetan>།ཐལ་བ་འཛིན་ཞེས་བྱ་བ་ཡི།
+<literal>thalba-dzin called is/
+<liturgical><verse>That called Thalwa 'Dzin,
+
+[597]
+<tibetan>།འཁོར་ལོའི་དབྱིབས་ལ་ཟང་ཐལ་ལོ།
+<literal>wheel shape completely pure/
+<liturgical><verse>Wheel-shaped, completely pure, || 20 ||
+
+[598]
+<tibetan>།སྟོན་པའི་བསྟན་པ་བདེན་པ་ཉིད།
+<literal>teacher teaching truth itself/
+<liturgical><verse>The Teacher's teaching—the Truth itself,
+
+[599]
+<tibetan>།སྤྲས་ལེགས་བཀོད་པ་གཉིས་པའོ།
+<literal>ornamented arrangement second is/
+<liturgical><verse>Well-ornamented arrangement—the second.
+
+[600]
+<tibetan>།འདི་ནས་འཇིག་རྟེན་གསུམ་གཡས་ན།
+<literal>this from world three right at/
+<liturgical><verse>Then to the right of the three worlds from here,
+
+[601]
+<tibetan>།ཐལ་བ་སྐྱོབ་ཅེས་བྱ་བ་ནི།
+<literal>thalba-kyob called is/
+<liturgical><verse>That called Thalwa Skyob,
+
+[602]
+<tibetan>།མ་རྒད་དག་གིས་ཡོངས་སྤྲས་པས།
+<literal>mothers by completely ornamented/
+<liturgical><verse>Completely ornamented by mothers,
+
+[603]
+<tibetan>།འོད་དང་ཁ་དོག་ངེས་གསལ་ཅིང༌།
+<literal>light and color definitively clear/
+<liturgical><verse>Light and color definitively clear,
+
+[604]
+<tibetan>།སྟོན་པའི་བསྟན་པ་འདུལ་བའི་ཞིང༌།
+<literal>teacher teaching vinaya field/
+<liturgical><verse>The Teacher's teaching—Vinaya field,
+
+[605]
+<tibetan>།སོ་སོའི་ལས་དང་མཚན་བཅས་པའོ།
+<literal>individual karma and marks possessing/
+<liturgical><verse>Each with their own karma and marks.
+
+[606]
+<tibetan>།དེ་ནས་འཇིག་རྟེན་དྲུག་གི་སྟེང༌།
+<literal>then world six above/
+<liturgical><verse>Then above the six worlds,
+
+[607]
+<tibetan>།ཐལ་བ་བརྡལ་ཞེས་བྱ་བ་ཡི།
+<literal>thalba-brdal called is/
+<liturgical><verse>That called Thalwa Brdal, || 30 ||
+
+[608]
+<tibetan>།པདྨ་རྒྱས་པའི་དབྱིབས་་འདྲ་བ།
+<literal>lotus blossom shape resembling/
+<liturgical><verse>Lotus-blossom shaped, resembling.
+
+[609]
+<tibetan>།ཤིན་ཏུ་བརྡལ་བ་ཁོད་སྙོམས་པ།
+<literal>extremely expansive evenly hollow/
+<liturgical><verse>Extremely expansive, evenly hollow,
+
+[610]
+<tibetan>།སྣ་ཚོགས་འོད་འབར་ཁ་དོག་ནི།
+<literal>various lights blazing colors/
+<liturgical><verse>Various lights blazing, colors.
+
+[611]
+<tibetan>།དཀར་དམར་སྣང་བ་འཁྲུག་པ་ལ།
+<literal>white red appearance shimmering/
+<liturgical><verse>White and red appearance shimmering,
+
+[612]
+<tibetan>།རགས་པའི་གཟུགས་བརྙན་སྣང་བ་མིན།
+<literal>coarse form images not appearing/
+<liturgical><verse>Coarse form images not appearing;
+
+[613]
+<tibetan>།སྟོན་པའི་བསྟན་པ་འདུ་མཆེད་རྒྱས།
+<literal>teacher teaching abhidharma extensive/
+<liturgical><verse>The Teacher's teaching—Abhidharma extensive,
+
+[614]
+<tibetan>།བསྐལ་པ་རྫོགས་པ་ཐལ་ཞེས་བྱའོ།
+<literal>completing aeon thal called/
+<liturgical><verse>Completing the aeon—called Thal.
+
+[615]
+<tibetan>།འདི་ནས་འཇིག་རྟེན་སྟེང་དུ་ཡང༌།
+<literal>this from world above also/
+<liturgical><verse>Above this world from here,
+
+[616]
+<tibetan>།བཅུ་དགུ་འདས་པའི་ཡང་སྟེང་ན།
+<literal>nineteen beyond further above/
+<liturgical><verse>Nineteen beyond, further above,
+
+[617]
+<tibetan>།ཐལ་བའི་བེ་ཅོན་ཞེས་བྱ་བ།
+<literal>thalwa drum called/
+<liturgical><verse>That called Thalwa's Drum, || 40 ||
+
+[618]
+<tibetan>།རབ་ཏུ་ལྗོངས་ཏེ་ཉམས་དགའ་བ།
+<literal>extremely vast delightful/
+<liturgical><verse>Extremely vast and delightful,
+
+[619]
+<tibetan>།རིན་ཆེན་སིལ་མ་སྣ་ཚོགས་ལས།
+<literal>jewel fragments various from/
+<liturgical><verse>From various jewel fragments.
+
+[620]
+<tibetan>།ངེས་པར་སྤྲས་ཏེ་སྤུངས་པའི་ཚུལ།
+<literal>definitely ornamented heaped manner/
+<liturgical><verse>Definitely ornamented, heaped manner;
+
+[621]
+<tibetan>།སྟོན་པའི་བསྟན་པ་རྫོགས་གཉིས་ལྡན།
+<literal>teacher teaching prajnaparamita and yogacara/
+<liturgical><verse>The Teacher's teaching—Prajñāpāramitā and Yogācāra,
+
+[622]
+<tibetan>།ཐོད་པའི་ཕྲེང་བ་བཀོད་པའོ།
+<literal>skull garlands arrangement/
+<liturgical><verse>Arrangement of skull-garlands.
+
+[623]
+<tibetan>།འདི་ནས་འཇིག་རྟེན་བྱང་ཤར་མཚམས།
+<literal>this from world northeast intermediate/
+<liturgical><verse>From here, northeast intermediate of the world,
+
+[624]
+<tibetan>།ཐལ་བའི་རྒྱུན་ཞེས་བྱ་བ་ཡི།
+<literal>thalwa current called is/
+<liturgical><verse>That called Thalwa's Current,
+
+[625]
+<tibetan>།མཆོད་རྟེན་དབྱིབས་འདྲ་བང་རིམ་མཛེས།
+<literal>stupa shape terraced beautiful/
+<liturgical><verse>Stūpa-shaped, terraced beautiful,
+
+[626]
+<tibetan>།བཀོད་པ་ལྔ་ཡིས་ཡོངས་སུ་སྤྲས།
+<literal>arrangement five by completely ornamented/
+<liturgical><verse>Completely ornamented by five arrangements;
+
+[627]
+<tibetan>།སྒྲ་དབྱངས་སྣ་ཚོགས་འབྱུང་བའི་གཞི།
+<literal>sounds various emerging basis/
+<liturgical><verse>Basis of various sounds emerging, || 50 ||
+
+[628]
+<tibetan>།སྟོན་པའི་བསྟན་པ་དུས་འབྱུང་དེས།
+<literal>teacher teaching dependent arising/
+<liturgical><verse>The Teacher's teaching of dependent arising—
+
+[629]
+<tibetan>།དེ་སྟེང་ཉི་ཤུ་རྩ་གཅིག་ན།
+<literal>above that twenty-one at/
+<liturgical><verse>Above that, at twenty-one,
+
+[630]
+<tibetan>།རབ་ཏུ་ཐལ་བས་ཁྱབ་ཅེས་བྱ།
+<literal>called utterly pervasive thal/
+<liturgical><verse>Called utterly pervasive Thal,
+
+[631]
+<tibetan>།དམིགས་པ་དག་པའི་རང་བཞིན་དུ།
+<literal>perception pure nature/
+<liturgical><verse>Nature of pure perception,
+
+[632]
+<tibetan>།ཕྱི་དང་ནང་མེད་ཟང་ཐལ་སྣང༌།
+<literal>outer and inner without completely pure appearing/
+<liturgical><verse>Appearing without outer or inner, completely pure;
+
+[633]
+<tibetan>།སྟོན་པའི་བསྟན་པ་འབྱུང་བ་སྟོན།
+<literal>teacher teaching arising revealing/
+<liturgical><verse>The Teacher's teaching revealing arising,
+
+[634]
+<tibetan>།བྱེད་པའི་རྒྱུ་རྐྱེན་ཁྱབ་འཇུག་གོ
+<literal>causal condition pervading action/
+<liturgical><break><verse> The causal condition—pervading action."

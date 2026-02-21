@@ -1,0 +1,3901 @@
+Conduct deep scan and critical honest review of the attached Tibetan Dzogchen translation in light of the literal and liturgical mission statements.
+
+If you have suggestions for specific lines return them in code block in the strict line format:
+
+[line number]<literal or liturgical><<liturgical tags if any>>replacement text
+
+(double line break)
+
+For each entry, eg.
+
+[684]<literal>buddhas-by-means-of dharma teach-and
+[725]<liturgical><prose>The antidote for the three poisons of desire, anger, and delusion is the realization of emptiness.
+
+============================================================
+
+# LITERAL MISSION STATEMENT
+
+## Expected Output: Dense, Concise Literal Translation
+
+The literal layer should provide:
+- Word-by-word or phrase-by-phrase translation closest to Tibetan syntax
+- Technical term consistency (same English term for same Tibetan term)
+- Minimal elaboration - translate what is there, no more
+- Serve as "truth" reference for checking interpretive translations
+- Use compound structures that mirror Tibetan word compounds
+- Preserve Tibetan word order where possible
+- Include Sanskrit loanwords in IAST transliteration when original is Sanskrit
+- Mark Tibetan technical terms in italics or parentheses
+- No theological interpretation or doctrinal elaboration
+- Cadence should feel slightly "awkward" in English - this is a feature, not a bug
+
+============================================================
+
+# LITURGICAL MISSION STATEMENT
+
+## Expected Output: Poetic, Devotional, Oral-Performance Ready
+
+The liturgical layer should provide:
+- Flowing, elegant English that sounds good when chanted or read aloud
+- Proper English grammar and syntax (readable, not literally awkward)
+- Traditional Buddhist terminology in standard English translations
+- Verse/prose formatting with clear break markers
+- Tags indicating vocal performance:
+  - <ornament> - Title markers, colophons, auspicious openings
+  - <break> - Major section transitions
+  - <verse> - Metric lines meant for chanting
+  - <prose> - Explanatory passages for oral delivery
+  - <prayer> - Devotional requests or aspirations
+  - <citation> - Scriptural references or quotations
+- Appropriate honorifics and devotional language
+- Should "come alive" when performed orally
+- Preserves meaning while prioritizing beauty and usability
+
+============================================================
+
+The draft in need of review is:
+
+# Treasury of the Supreme Vehicle: Autocommentary
+# Longchen Rabjampa (1308-1364)
+## Volume 01 - Chapter 7 - Section 01
+## Chapter 7: Samaya Commitments
+
+[9704]
+<tibetan>དམ་ཚིག་མཆོག་གི་རྒྱུད་ལས།
+<literal>Samaya supreme's tantra from/
+<liturgical><tantra>From the Tantra of Supreme Samaya:
+
+[9705]
+<tibetan>དམ་ཞེས་བྱ་བ་བཅིངས་པ་སྟེན།
+<literal>Samaya called bind rely/
+<liturgical><tantra>"Samaya is the binding pledge—
+
+[9706]
+<tibetan>།རྡོ་རྗེ་འདའ་དཀའ་གཏན་གྱི་གཉེར།
+<literal>/Vajra cross difficult certainty's aim/
+<liturgical><tantra>The vajra cross, difficult to traverse, certain in aim."
+
+[9707]
+<tibetan>ཅེས་སོ།
+<literal>Thus/
+<liturgical><tantra>Thus it is spoken.
+
+[9708]
+<tibetan>།ངེས་ཚིག་ནི།
+<literal>/Definition is/
+<liturgical><ornament>Regarding the definition:
+
+[9709]
+<tibetan>དེ་ཉིད་ལས།
+<literal>That itself-from/
+<liturgical><tantra>From that same source:
+
+[9710]
+<tibetan>སྤྱིར་ན་དམ་ཚིག་ཅེས་བྱ་བ།
+<literal>Generally samaya called/
+<liturgical><tantra>"Generally, that which is called samaya
+
+[9711]
+<tibetan>།རང་སེམས་ཚིག་པ་མེད་པ་ལ།
+<literal>/Own-mind break not at/
+<liturgical><tantra>Is the mind itself, unbroken,
+
+[9712]
+<tibetan>།གཡོ་སྒྱུ་རྣམས་དང་བྲལ་བའོ།
+<literal>/Deception these and free/
+<liturgical><tantra>Free from all deception and guile."
+
+[9713]
+<tibetan>།ཞེས་སོ།
+<literal>/Thus/
+<liturgical><tantra>Thus it is spoken. || 10 ||
+
+[9714]
+<tibetan>།དབྱེ་ན་སྔགས་སྤྱིའི་ལུགས་ཀྱིས།
+<literal>/Classify if mantra general's system-by/
+<liturgical><prose>If classified according to the general system of Mantra,
+
+[9715]
+<tibetan>རྩ་བ་དང་ཡན་ལག་གི་དམ་ཚིག་གཉིས་སོ།
+<literal>Root and branch's samaya two/
+<liturgical><prose>There are two: root samaya and branch samaya.
+
+[9716]
+<tibetan>།དེ་ཡང་རྩ་བ་སྐུ་གསུང་ཐུགས་གསུམ་མོ།
+<literal>/That-also root kaya-speech-mind three/
+<liturgical><prose>The root consists of the three: Body, Speech, and Mind.
+
+[9717]
+<tibetan>།ཡན་ལག་ཉི་ཤུ་རྩ་ལྔ་སྟེ།
+<literal>/Branch twenty-five are/
+<liturgical><prose>The branches are twenty-five,
+
+[9718]
+<tibetan>།ཤེས་པར་བྱ་བ།
+<literal>/Know should/
+<liturgical><prose>To be known thus:
+
+[9719]
+<tibetan>དང་དུ་བླང་བ།
+<literal>Accept/
+<liturgical><list>To accept,
+
+[9720]
+<tibetan>མི་སྤང་བ།
+<literal>Not abandon/
+<liturgical><list>Not to abandon,
+
+[9721]
+<tibetan>སྤྱད་པར་བྱ་བ།
+<literal>Practice should/
+<liturgical><list>To practice,
+
+[9722]
+<tibetan>བསྒྲུབ་པར་བྱ་བ་རྣམས་ལ་ལྔ་ལྔའོ།
+<literal>Accomplish should these at five-five/
+<liturgical><list>To accomplish—
+
+[9723]
+<tibetan>།འདིར་བྱེ་བྲག་གིས་དབྱེ་ན།
+<literal>/Here particular-by classify if/
+<liturgical><prose>Here, if classified specifically, || 20 ||
+
+[9724]
+<tibetan>ལྟ་བ།
+<literal>View/
+<liturgical><list>View,
+
+[9725]
+<tibetan>སྤྱོད་པ།
+<literal>Conduct/
+<liturgical><list>Conduct,
+
+[9726]
+<tibetan>བསྒྲུབ་པ།
+<literal>Practice/
+<liturgical><prose><list> Practice,
+
+[9727]
+<tibetan>ཐུན་མོང་བ།
+<literal>Common/
+<liturgical><list>Common,
+
+[9728]
+<tibetan>ཁྱད་པར་སྐུ་གསུང་ཐུགས།
+<literal>Particular kaya-speech-mind/
+<liturgical><list>Particular Body-Speech-Mind,
+
+[9729]
+<tibetan>ཡན་ལག
+<literal>Branch
+<liturgical><break><ornament> Branches,
+
+[9730]
+<tibetan>གལ་མདོ་ངེས་པའི་དམ་ཚིག་དང་བདུན་ཏེ།
+<literal>Crucial certain samaya and seven/
+<liturgical><break><list> And crucial, certain samaya—
+
+[9731]
+<tibetan>རང་ཤར་ལས།
+<literal>Self-Arisen from/
+<liturgical><tantra>From the Self-Arisen:
+
+[9732]
+<tibetan>འབུམ་སྡེར་གསུངས་པའི་དམ་ཚིག་རྣམས།
+<literal>Hundred-thousand spoken samaya these/
+<liturgical><tantra>"The hundred-thousand-fold spoken samayas,
+
+[9733]
+<tibetan>།མདོར་བསྟན་ལེགས་པར་ཡིད་ལ་ཟུང༌།
+<literal>/Summarize well mind put/
+<liturgical><tantra>Briefly taught—well hold these in mind." || 30 ||
+
+[9734]
+<tibetan>།དེ་ཡང་མདོར་བསྟན་འདི་ལྟ་སྟེ།
+<literal>/That-also summarize this like/
+<liturgical><tantra>Their brief teaching is this:
+
+[9735]
+<tibetan>།རྟོགས་བྱེད་ལྟ་བའི་དམ་ཚིག་དང༌།
+<literal>/Realize make view's samaya and/
+<liturgical><verse>"The samaya of realizing view,
+
+[9736]
+<tibetan>།སྤྱོད་པ་རྒྱུད་ཀྱི་དམ་ཚིག་དང༌།
+<literal>/Conduct tantra's samaya and/
+<liturgical><verse>The samaya of tantric conduct,
+
+[9737]
+<tibetan>།བསྒྲུབ་པ་སྤྱི་ཡི་དམ་ཚིག་དང༌།
+<literal>/Practice general's samaya and/
+<liturgical><verse>The samaya of general practice,
+
+[9738]
+<tibetan>།ཐུན་མོང་སྤྱི་ཡི་དམ་ཚིག་དང༌།
+<literal>/Common general's samaya and/
+<liturgical><verse>The samaya of general commonality,
+
+[9739]
+<tibetan>།སྐུ་གསུང་ཐུགས་ཀྱི་དམ་ཚིག་དང༌།
+<literal>/Kaya-speech-mind's samaya and/
+<liturgical><verse>The samaya of Body-Speech-Mind,
+
+[9740]
+<tibetan>།ཡན་ལག་གྲངས་ཀྱི་དམ་ཚིག་དང༌།
+<literal>/Branch number's samaya and/
+<liturgical><verse>The samaya of branch enumerations,
+
+[9741]
+<tibetan>།གལ་མདོ་ངེས་པའི་དམ་ཚིག་གོ
+<literal>/Crucial certain samaya/
+<liturgical><break><verse> And the crucial, certain samaya."
+
+[9742]
+<tibetan>།དེ་ལ་སོགས་པའི་དམ་ཚིག་རྣམས།
+<literal>/That etcetera samaya these/
+<liturgical><break><prose> These and other samayas
+
+[9743]
+<tibetan>།མདོ་དང་རྒྱས་པ་ཆེན་པོའོ།
+<literal>/Summary and extensive great/
+<liturgical><prose>Are extensively summarized, great in scope. || 40 ||
+
+[9744]
+<tibetan>།ཞེས་སོ།
+<literal>/Thus/
+<liturgical><prose>Thus it is spoken.
+
+[9745]
+<tibetan>།རྟེན་ནི་སློབ་དཔོན་དང་སློབ་མ་མཆེད་ལྕམ་སྟེ།
+<literal>/Basis is teacher and student siblings/
+<liturgical><prose>The basis is teacher and student, vajra siblings.
+
+[9746]
+<tibetan>དེ་ཉིད་ལས།
+<literal>That itself-from/
+<liturgical><tantra>From that same source:
+
+[9747]
+<tibetan>བསམ་གྱིས་མི་ཁྱབ་དམ་ཚིག་རྣམས།
+<literal>Inconceivable samaya these/
+<liturgical><tantra>"Inconceivable are these samayas,
+
+[9748]
+<tibetan>།རྣམ་པ་གཉིས་སུ་འདུས་པར་གསུངས།
+<literal>/Aspect two-to gather spoke/
+<liturgical><tantra>Spoken to gather in two aspects:
+
+[9749]
+<tibetan>།སློབ་དཔོན་དང་ནི་སློབ་མ་གཉིས།
+<literal>/Teacher and student two/
+<liturgical><tantra>Teacher and student, these two—
+
+[9750]
+<tibetan>།བསྲུང་བའི་རྒྱུ་ཞེས་ཀུན་ཏུ་གྲགས།
+<literal>/Protection's cause called universally-known/
+<liturgical><tantra>The cause of protection, universally renowned.
+
+[9751]
+<tibetan>།བསྲུང་བའི་རྒྱུ་ནི་སློབ་དཔོན་ཏེ།
+<literal>/Protection's cause is teacher/
+<liturgical><tantra>The cause of protection is the teacher;
+
+[9752]
+<tibetan>།སྲུང་བར་བྱེད་པ་སློབ་མའོ།
+<literal>/Protect make student/
+<liturgical><tantra>The one who makes protection is the student."
+
+[9753]
+<tibetan>།ཞེས་སོ།
+<literal>/Thus/
+<liturgical><tantra>Thus it is spoken. || 50 ||
+
+[9754]
+<tibetan>།མཆེད་ལྕམ་ལ་བཞིར་ངེས་པ་ཡང༌།
+<literal>/Siblings at four ascertain also/
+<liturgical><prose>The vajra siblings are also ascertained as four.
+
+[9755]
+<tibetan>།དེ་ཉིད་ལས།
+<literal>/That itself-from/
+<liturgical><tantra>From that same source:
+
+[9756]
+<tibetan>རྡོ་རྗེའི་སྤུན་ལ་དོན་བཞིས་བསྟན།
+<literal>Vajra's siblings to meaning four-by taught/
+<liturgical><tantra>"To the vajra sibling, four meanings are taught:
+
+[9757]
+<tibetan>།སྤྱི་དང་ཉེ་དང་འདྲེས་པ་དང༌།
+<literal>/General and close and mixed and/
+<liturgical><tantra>General, close, mixed, and
+
+[9758]
+<tibetan>།དཀྱིལ་འཁོར་བུམ་པ་འདྲེས་པའོ།
+<literal>/Mandala vase mixed/
+<liturgical><tantra>Mandala-vase-mixed."
+
+[9759]
+<tibetan>།ཞེས་སོ།
+<literal>/Thus/
+<liturgical><tantra>Thus it is spoken.
+
+[9760]
+<tibetan>།དེའང་བསྟན་པར་ཞུགས་སོ་ཅོག་དང་ཁྱད་པར་གསང་སྔགས་ལ་ཞུགས་པ་ཐམས་ཅད་སྤྱིའི་མཆེད་དོ།
+<literal>/That-also teaching entered all and particular secret-mantra entered all general's siblings/
+<liturgical><prose>Moreover, all who have entered the teachings in general, and specifically all who have entered Secret Mantra, are general siblings.
+
+[9761]
+<tibetan>།ཆོས་རིགས་གཅིག་པ་རྣམས་ཉེ་བའི་མཆེད་དོ།
+<literal>/Dharma-family one these close's siblings/
+<liturgical><prose>Those of one Dharma-family are close siblings.
+
+[9762]
+<tibetan>།བླ་མ་གཅིག་གིས་བསྡུས་པ་རྣམས་འདྲེས་པའི་མཆེད་དོ།
+<literal>/Guru one-by gathered these mixed's siblings/
+<liturgical><prose>Those gathered by one Guru are mixed siblings.
+
+[9763]
+<tibetan>།དཀྱིལ་འཁོར་གཅིག་ཏུ་མར་མེ་གཅིག་བུམ་པ་གཅིག་གིས་དབང་དུས་གཅིག་ལ་བསྐུར་བ་རྣམས་ནི་ཤིན་ཏུ་འདྲེས་པའི་མཆེད་དོ།
+<literal>/Mandala one-in lamp one vase one-by empowerment time one-at bestowed these are extremely mixed's siblings/
+<liturgical><prose>Those upon whom a single empowerment has been bestowed at one time, in one mandala, with one lamp, one vase—these are extremely mixed siblings. || 60 ||
+
+[9764]
+<tibetan>།འདི་དག་ཀྱང་ཡུལ་བདུན་འགྱུར་གྱིས་གཉན་པར་ཤེས་པར་བྱའོ།
+<literal>/These also object seven become-by strict know should/
+<liturgical><prose>These should also be known to become objects of sevenfold strictness.
+
+[9765]
+<tibetan>།སློབ་དཔོན་ལའང་ཐམས་ཅད་ཀྱིས་སློབ་དཔོན་དུ་བཀུར་བའི་སྤྱིའི་སློབ་དཔོན་དང༌།
+<literal>/Teacher at-also all-by teacher-as honored general's teacher and*/
+<liturgical><ornament>Regarding the teacher, there is the general teacher honored by all as teacher, and
+
+[9766]
+<tibetan>རང་ཉིད་ཆོས་ལ་སྦྱོར་བ་འདྲེན་པའི་སློབ་དཔོན་དང༌།
+<literal>Self dharma at connect pull teacher and
+<liturgical><prose>The teacher who draws one to connect with the Dharma oneself,
+
+[9767]
+<tibetan>དམ་ཚིག་དང་སྡོམ་པ་སྦྱིན་པ་དབང་གི་སློབ་དཔོན་དང༌།
+<literal>Samaya and vow give empowerment-by-means-of teacher and
+<liturgical><prose>The teacher who bestows samaya and vows, the empowerment teacher,
+
+[9768]
+<tibetan>གདམས་ངག་འབོགས་པ་ལུང་གི་སློབ་དཔོན་ཏེ་བཞིའོ།
+<literal>Instruction give transmission-by-means-of teacher is four is
+<liturgical><prose>The teacher who gives instruction and transmission—thus four.
+
+[9769]
+<tibetan>།དེ་ཉིད་ལས།
+<literal>That itself from
+<liturgical><tantra>From that same source:
+
+[9770]
+<tibetan>སློབ་དཔོན་ལ་ཡང་དོན་བཞི་སྟེ།
+<literal>Teacher at also meaning four is
+<liturgical><tantra>"Regarding the teacher, four meanings exist:
+
+[9771]
+<tibetan>།སྤྱི་དང་འདྲེན་དང་དམ་ཚིག་དབང༌།
+<literal>General and pull and samaya empowerment
+<liturgical><tantra>General, drawing, samaya-empowerment,
+
+[9772]
+<tibetan>།མན་ངག་ལུང་གི་སློབ་དཔོན་ནོ།
+<literal>Instruction transmission-by-means-of teacher is
+<liturgical><tantra>Instruction-transmission teacher."
+
+[9773]
+<tibetan>།ཞེས་སོ།
+<literal>Thus is
+<liturgical><tantra>Thus it is spoken. || 70 ||
+
+[9774]
+<tibetan>།སློབ་དཔོན་དང་སློབ་མའི་ངེས་ཚིག་ཀྱང༌།
+<literal>Teacher and student-by-means-of definite-term also
+<liturgical><prose>The definition of teacher and student is also:
+
+[9775]
+<tibetan>དེ་ཉིད་ལས།
+<literal>That itself from
+<liturgical><tantra>From that same source:
+
+[9776]
+<tibetan>དེ་ཡང་ངེས་ཚིག་འདི་ལྟ་སྟེ།
+<literal>That also definite-term this like is
+<liturgical><tantra>"The definition is thus:
+
+[9777]
+<tibetan>།མི་ཤེས་ཤེས་པར་འགྲོལ་ཕྱིར་སློབ།
+<literal>Not-know know liberate cause train
+<liturgical><tantra>Not-knowing, training to liberate through knowing—
+
+[9778]
+<tibetan>།རྫོགས་ཆེན་དོན་ལ་སྦྱོར་བས་དཔོན།
+<literal>Dzogchen meaning at connect teacher
+<liturgical><tantra>The teacher who connects to Dzogchen meaning;
+
+[9779]
+<tibetan>།སློབ་མའི་ངེས་ཚིག་འདི་ལྟ་སྟེ།
+<literal>Student-by-means-of definite-term this like is
+<liturgical><tantra>The student's definition is thus:
+
+[9780]
+<tibetan>།མ་ཡེངས་ཚུལ་གྱིས་ཉན་པས་སློབ།
+<literal>Not-distract manner-by-means-of listen train
+<liturgical><tantra>Training through listening in undistracted manner—
+
+[9781]
+<tibetan>།མན་ངག་སྣོད་དུ་གྱུར་པས་མ།
+<literal>Instruction vessel become student
+<liturgical><tantra>The vessel for instruction.
+
+[9782]
+<tibetan>།དེ་ལྟར་དོན་ལྡན་དཔོན་སློབ་ནི།
+<literal>Like-that meaning-possess teacher student is
+<liturgical><tantra>Thus, meaning-endowed teacher and student
+
+[9783]
+<tibetan>།ཡང་དག་ས་ལ་མཉམ་པོར་གནས།
+<literal>Right ground at equal abide
+<liturgical><tantra>Abide equally upon right ground; || 80 ||
+
+[9784]
+<tibetan>།དམ་ཚིག་ལྡན་ན་དེ་བཞིན་ནོ།
+<literal>Samaya possess if like-that is
+<liturgical><tantra>If possessing samaya, thus it is."
+
+[9785]
+<tibetan>།ཞེས་སོ།
+<literal>Thus is
+<liturgical><tantra>Thus it is spoken.
+
+[9786]
+<tibetan>།དམ་ཚིག་བསྲུངས་པའི་ཕན་ཡོན་ནི།
+<literal>Samaya protect-by-means-of benefit is
+<liturgical><prose>The benefit of guarding samaya is:
+
+[9787]
+<tibetan>།དེ་ཉིད་ལས།
+<literal>That itself from
+<liturgical><tantra>From that same source:
+
+[9788]
+<tibetan>དམ་ཚིག་སྡོམ་པ་ཇི་བཞིན་གནས།
+<literal>Samaya vow manner-like abide
+<liturgical><tantra>"Abiding in samaya and vow as taught,
+
+[9789]
+<tibetan>།དམ་ཚིག་ལ་ནི་གང་གནས་པ།
+<literal>Samaya at what abide
+<liturgical><tantra>Whatever abides in samaya—
+
+[9790]
+<tibetan>།བསམ་པ་ཐམས་ཅད་མཐར་ཕྱིན་འགྱུར།
+<literal>Intention all end reach become
+<liturgical><tantra>All intentions reach their culmination."
+
+[9791]
+<tibetan>།ཅེས་པ་དང༌།
+<literal>Thus is and
+<liturgical><tantra>Thus it is spoken, and
+
+[9792]
+<tibetan>སྒྱུ་འཕྲུལ་ལས།
+<literal>Magical-illusion from
+<liturgical><tantra>From the Magical Illusion:
+
+[9793]
+<tibetan>དམ་ཚིག་མཆོག་ལ་གང་གནས་པ།
+<literal>Samaya supreme at what abide
+<liturgical><tantra>"Whoever abides in supreme samaya, || 90 ||
+
+[9794]
+<tibetan>།དམ་པ་མཆོག་དང་དམ་པ་ཡིས།
+<literal>Supreme supreme and supreme by-means-of
+<liturgical><tantra>By the supreme, most supreme,
+
+[9795]
+<tibetan>།སྲས་དང་སྤུན་དགོངས་བྱིན་གྱིས་རློབ།
+<literal>Son and sibling intention bless
+<liturgical><tantra>Sons and siblings are blessed in intention."
+
+[9796]
+<tibetan>།ཅེས་སོ།
+<literal>Thus is
+<liturgical><tantra>Thus it is spoken.
+
+[9797]
+<tibetan>།དམ་ཚིག་ཉམས་པའི་ཉེས་དམིགས་ནི།
+<literal>Samaya decline-by-means-of fault is
+<liturgical><prose>The fault of samaya decline is:
+
+[9798]
+<tibetan>།རང་ཤར་ལས།
+<literal>Self-arisen from
+<liturgical><tantra>From the Self-Arisen:
+
+[9799]
+<tibetan>ཉམས་ན་གཉིས་ཀ་འཚིག་པར་འགྱུར།
+<literal>Decline if both burn become is
+<liturgical><tantra>"If declined, both will burn;
+
+[9800]
+<tibetan>།སྐུ་ཡི་དམ་ཚིག་ཉམས་གྱུར་ན།
+<literal>Body-by-means-of samaya decline become if
+<liturgical><tantra>If body samaya declines,
+
+[9801]
+<tibetan>།རྡོ་རྗེ་དམྱལ་བ་ཆེན་པོར་འཚེད།
+<literal>Vajra hell great at burn
+<liturgical><tantra>One burns in great vajra hell,
+
+[9802]
+<tibetan>།འོ་དོད་འབོད་པའི་གནས་སུ་སྐྱེ།
+<literal>Wailing cry place at birth
+<liturgical><tantra>Born in the place of wailing cries.
+
+[9803]
+<tibetan>།དཔོན་གྱིས་ཉམས་ན་སྦྱང་ཐབས་མེད།
+<literal>Teacher-by-means-of decline if purify-method without
+<liturgical><tantra>If the teacher declines, without purification method, || 100 ||
+
+[9804]
+<tibetan>།གཉིས་ཀ་ངུ་འབོད་ཆེན་པོར་སྐྱེ།
+<literal>Both wailing-cry great at birth
+<liturgical><tantra>Both are born in great wailing-cry.
+
+[9805]
+<tibetan>།སློབ་མས་ཉམས་ན་སྦྱང་ཐབས་ཡོད།
+<literal>Student-by-means-of decline if purify-method exist
+<liturgical><tantra>If the student declines, purification method exists."
+
+[9806]
+<tibetan>།གསུང་གི་དམ་ཚིག་ཉམས་གྱུར་ན།
+<literal>Speech-by-means-of samaya decline become if
+<liturgical><tantra>If speech samaya declines,
+
+[9807]
+<tibetan>།སྣང་བ་འགགས་པར་འགྱུར་བ་དང༌།
+<literal>Appearance cease become and
+<liturgical><tantra>Appearances cease to be, and
+
+[9808]
+<tibetan>།མུན་རྡུལ་ཆེན་པོའི་གནས་སུ་སྐྱེ།
+<literal>Darkness dust great place at birth
+<liturgical><tantra>One is born in the place of great darkness dust.
+
+[9809]
+<tibetan>།དེ་ནས་འཐོན་པར་གྱུར་ནས་ཀྱང༌།
+<literal>That from emerge become although
+<liturgical><tantra>Although emerging from that,
+
+[9810]
+<tibetan>།ལྐུགས་པ་དག་ཏུ་སྐྱེ་བར་འགྱུར།
+<literal>Mute among birth become is
+<liturgical><tantra>One becomes born among the mute.
+
+[9811]
+<tibetan>།ཐུགས་ཀྱི་དམ་ཚིག་ཉམས་གྱུར་ན།
+<literal>Mind-by-means-of samaya decline become if
+<liturgical><tantra>If mind samaya declines,
+
+[9812]
+<tibetan>།ཡིད་འཁྲུགས་ཆེན་པོའི་གནས་སུ་སྐྱེ།
+<literal>Mind-disturb great place at birth
+<liturgical><tantra>One is born in the place of great mind-disturbance,
+
+[9813]
+<tibetan>།རྟག་ཏུ་རྩོད་པ་རྒྱུན་མི་འཆད།
+<literal>Always quarrel continuum not-cease
+<liturgical><tantra>Always quarreling, continuum unceasing, || 110 ||
+
+[9814]
+<tibetan>།འཐབ་དང་སྡུག་བསྔལ་ཆེན་པོ་དང༌།
+<literal>Fight and suffering great and
+<liturgical><tantra>Fighting, suffering, great—
+
+[9815]
+<tibetan>།ཡང་ན་དྲན་པ་མེད་པར་འགྱུར།
+<literal>Or mindfulness without become is
+<liturgical><tantra>Or one becomes without mindfulness,
+
+[9816]
+<tibetan>།ཡང་ན་དྲན་པ་རེངས་པར་འགྱུར།
+<literal>Or mindfulness dull become is
+<liturgical><tantra>Or mindfulness becomes dull,
+
+[9817]
+<tibetan>།སྨྱོ་འབོག་ནད་ཀྱིས་ཐེབས་པར་འགྱུར།
+<literal>Madness demon sickness by-means-of strike become is
+<liturgical><tantra>Madness-demon sickness strikes;
+
+[9818]
+<tibetan>།ཐ་མ་ངུ་འབོད་གནས་སུ་སྐྱེ།
+<literal>Finally wailing-cry place at birth
+<liturgical><tantra>Finally, born in the wailing-cry place."
+
+[9819]
+<tibetan>།ཞེས་པ་དང༌།
+<literal>Thus is and
+<liturgical><tantra>Thus it is spoken, and
+
+[9820]
+<tibetan>དམ་ཚིག་ཉམས་པའི་སྔ་ལྟས་སུ།
+<literal>Samaya deteriorated's early-signs at/
+<liturgical><tantra>Regarding early signs of deteriorated samaya:
+
+[9821]
+<tibetan>།མི་བདེ་རྣམ་པ་སྣ་ཚོགས་འབྱུང༌།
+<literal>/Unhappiness aspect various arise/
+<liturgical><tantra>Unhappiness, various aspects arise;
+
+[9822]
+<tibetan>།ཡམས་དང་འཚེ་བའི་ནད་རྣམས་དང༌།
+<literal>/Epidemic and harming diseases and/
+<liturgical><tantra>Epidemic, harming diseases, and
+
+[9823]
+<tibetan>།རིམས་ནད་སྣ་ཚོགས་འབྱུང་བར་འགྱུར།
+<literal>/Fever-disease various arise become/
+<liturgical><tantra>Fever-diseases various arise. || 120 ||
+
+[9824]
+<tibetan>།གདོན་དང་ལོག་འདྲེན་རྣམས་ཀྱིས་ཀྱང༌།
+<literal>/Spirits and misleading these-by-means-of also/
+<liturgical><tantra>Spirits and misleading ones also,
+
+[9825]
+<tibetan>།
+<literal>/
+<liturgical><break><ornament> —
+
+[9826]
+<tibetan>བསད་ནས་སེམས་ཅན་དམྱལ་བར་འགྲོ།
+<literal>Kill-from sentient-beings hell-to go/
+<liturgical><break><tantra> Kill sentient beings, go to hell.
+
+[9827]
+<tibetan>།མིག་གིས་གཟུགས་མི་མཐོང་བར་འགྱུར།
+<literal>/Eye-by form not see become/
+<liturgical><tantra>Eyes not see form.
+
+[9828]
+<tibetan>།རྣ་བ་འོན་ཅིང་ལས་མི་འགྲུབ།
+<literal>/Ear hearing and action not accomplish/
+<liturgical><tantra>Ears hearing and actions not accomplished.
+
+[9829]
+<tibetan>།མཛེ་དང་ཤུ་བའི་ནད་རྣམས་འབྱུང༌།
+<literal>/Leprosy and itch diseases arise/
+<liturgical><tantra>Leprosy and itch diseases arise.
+
+[9830]
+<tibetan>ཆོམ་རྐུན་རྒྱལ་པོའི་ཆད་པ་འབྱུང༌།
+<literal>Thieves king's punishment arise/
+<liturgical><tantra>Thieves, king's punishment arise.
+
+[9831]
+<tibetan>།གཞན་ལ་མེད་པའི་རིམས་ནད་འབྱུང༌།
+<literal>/Others-to not-exist fever-disease arise/
+<liturgical><tantra>Others, non-existent fever-disease arises.
+
+[9832]
+<tibetan>།བུ་དང་ཆུང་མ་འཆི་བར་སྟོན།
+<literal>/Children and wife die show/
+<liturgical><tantra>Children and wife die—shown.
+
+[9833]
+<tibetan>།ཡུལ་རྣམས་ཐམས་ཅད་དགྲར་ལྡང་ཞིང༌།
+<literal>/Lands all enemies rise and/
+<liturgical><tantra>Lands all, enemies rise, and || 130 ||
+
+[9834]
+<tibetan>།བྱས་པ་དོན་མེད་ཆེན་པོར་འགྱུར།
+<literal>/Done meaningless great become/
+<liturgical><tantra>Done, meaningless great becomes."
+
+[9835]
+<tibetan>།ཅེས་སོ།
+<literal>/Thus/
+<liturgical><tantra>Thus.
+
+[9836]
+<tibetan>།ཉམས་ན་བསྐང་ཐབས་ལ་གསུམ་ལས།
+<literal>/Deteriorated if repair-method at three from/
+<liturgical><prose>If deteriorated, from three repair methods:
+
+[9837]
+<tibetan>དང་པོ་སྐུའི་ཉམས་ན་བསྐང་བའི་ཐབས་ནི།
+<literal>First kaya's deteriorated repair method is/
+<liturgical><prose>First, the body deteriorated repair method is.
+
+[9838]
+<tibetan>ཡང་དེ་ཉིད་ལས།
+<literal>Also that itself-from/
+<liturgical><tantra>Also from that same source:
+
+[9839]
+<tibetan>གསུང་རབ་རྒྱ་ཆེན་བཀླག་པ་དང༌།
+<literal>Scripture extensive read and/
+<liturgical><tantra>"Scripture extensively read, and
+
+[9840]
+<tibetan>།ཚོགས་ཀྱི་འཁོར་ལོ་རྒྱ་ཆེན་བསྐོར།
+<literal>/Ganacakra extensive turn/
+<liturgical><tantra>Ganacakra extensively turned,
+
+[9841]
+<tibetan>།འཁོར་གསུམ་ཡང་དག་བྱ་བར་གསུངས།
+<literal>/Three-circles correct do spoke/
+<liturgical><tantra>Three-circles correctly done"—thus spoken.
+
+[9842]
+<tibetan>།ཞེས་སོ།
+<literal>/Thus/
+<liturgical><tantra>Thus.
+
+[9843]
+<tibetan>།གསུང་ཡང་དེ་ལས།
+<literal>/Speech-also that from/
+<liturgical><prose>Speech also from that, || 140 ||
+
+[9844]
+<tibetan>དེ་ཡང་སྦྱང་ཐབས་འདི་ལྟ་སྟེ།
+<literal>That-also purify-method this like/
+<liturgical><tantra>That also purification method thus:
+
+[9845]
+<tibetan>མར་མེ་བརྒྱ་རྩའི་ཆོ་ག་དང༌།
+<literal>Lamp hundred ritual and/
+<liturgical><tantra>"Lamp hundred ritual, and
+
+[9846]
+<tibetan>།སྤང་སྐོང་བརྒྱ་རྩ་གདོན་པ་དང༌།
+<literal>/Confess-repair hundred recite and/
+<liturgical><tantra>Confess-repair hundred recite, and
+
+[9847]
+<tibetan>།བཤགས་པ་རྣམ་པ་སྣ་ཚོགས་བྱ།
+<literal>/Confession aspect various do/
+<liturgical><tantra>Confession aspect various do.
+
+[9848]
+<tibetan>།དེས་ནི་བྱང་བའི་ཡོན་ཏན་མཐོང༌།
+<literal>/That-by purified quality see/
+<liturgical><tantra>That purified quality see."
+
+[9849]
+<tibetan>།ཞེས་སོ།
+<literal>/Thus/
+<liturgical><tantra>Thus.
+
+[9850]
+<tibetan>།སྤང་སྐོང་ནི་ན་རག་རྒྱུན་བཤགས་སོ།
+<literal>/Confess-repair is Naraka continuous-confession/
+<liturgical><tantra>Confess-repair is Naraka continuous-confession.
+
+[9851]
+<tibetan>།ཐུགས་ཀྱང་དེ་ཉིད་ལས།
+<literal>/Mind-also that itself-from/
+<liturgical><prose>Mind also from that same source,
+
+[9852]
+<tibetan>དེ་ཡང་སྦྱང་ཐབས་འདི་ལྟ་སྟེ།
+<literal>That-also purify-method this like/
+<liturgical><tantra>That also purification method thus:
+
+[9853]
+<tibetan>སློབ་དཔོན་མཉེས་པའི་རྫས་ཀྱིས་མཆོད།
+<literal>Teacher please substance-by-means-of offer/
+<liturgical><tantra>"Teacher please, substance offer, || 150 ||
+
+[9854]
+<tibetan>།འབྱོར་ཚོགས་ཅི་ཡོད་འཕགས་པ་མཆོད།
+<literal>/Wealth-accumulation whatever-exist noble offer/
+<liturgical><tantra>Wealth-accumulation whatever exists, noble offer.
+
+[9855]
+<tibetan>།དེ་ལྟར་བཤགས་པ་བྱས་གྱུར་ན།
+<literal>/Thus confession done if/
+<liturgical><tantra>Thus confession done if,
+
+[9856]
+<tibetan>།བསམ་པ་ཐམས་ཅད་འགྲུབ་པར་འགྱུར།
+<literal>/Thought all accomplish become/
+<liturgical><tantra>Thought all accomplish become,
+
+[9857]
+<tibetan>།འདོད་པ་ཐམས་ཅད་སྐོང་བར་འགྱུར།
+<literal>/Desire all fulfill become/
+<liturgical><tantra>Desire all fulfill become,
+
+[9858]
+<tibetan>།བྱ་བ་ཐམས་ཅད་རྫོགས་པར་འགྱུར།
+<literal>/Action all complete become/
+<liturgical><tantra>Action all complete become."
+
+[9859]
+<tibetan>།ཅེས་སོ།
+<literal>/Thus/
+<liturgical><tantra>Thus.
+
+[9860]
+<tibetan>།བསྲུང་ཐབས་ནི།
+<literal>/Protection-method is/
+<liturgical><prose>The protection method is:
+
+[9861]
+<tibetan>སྐྱོན་ཡོན་མཐོང་ནས་དྲན་པ་དང་ཤེས་བཞིན་དག་པས་རྒྱུད་སྡོམ་པ་སྟེ།
+<literal>Fault quality see-from mindfulness and awareness pure-by continuum bind is/
+<liturgical><tantra>Fault quality see, mindfulness and awareness pure continuum bind is.
+
+[9862]
+<tibetan>དེ་ཉིད་ལས།
+<literal>That itself-from/
+<liturgical><tantra>From that same source:
+
+[9863]
+<tibetan>དམ་ཚིག་ལ་ནི་ཇི་བཞིན་གནས།
+<literal>Samaya at as-it-is abide/
+<liturgical><tantra>"As-it-is abide in samaya; || 160 ||
+
+[9864]
+<tibetan>།བསྐལ་པ་ཞིག་ཀྱང་མི་གཏོང་ན།
+<literal>/Aeon one even not abandon if/
+<liturgical><tantra>Even one aeon, not abandon if—
+
+[9865]
+<tibetan>།དམ་ཚིག་ཆེན་པོའི་བསྲུང་ཐབས་སོ།
+<literal>/Samaya great's protection-method/
+<liturgical><tantra>Samaya great's protection method."
+
+[9866]
+<tibetan>།ཞེས་སོ།
+<literal>/Thus/
+<liturgical><tantra>Thus.
+
+[9867]
+<tibetan>།དེའང་སློབ་དཔོན་གྱིས་རྒྱུད་དང་དམ་ཚིག་གི་རིམ་པ་ཤེས་པས་ཞེས་བཅུས་བསྲུངས་ལ།
+<literal>/That-also teacher-by continuum and samaya's sequence know-by ten protect/
+<liturgical><tantra>That also teacher continuum and samaya's sequence know, ten protect.
+
+[9868]
+<tibetan>སློབ་མས་མི་ཤེས་པས་སློབ་དཔོན་གྱི་བཀའ་བཞིན་བསྲུང་བའོ།
+<literal>Student-by not-know teacher's command-as protect/
+<liturgical><tantra>Student not-know, teacher's command protect.
+
+[9869]
+<tibetan>།ཤེས་པ་བཅུ་ནི།
+<literal>/Know ten are/
+<liturgical><tantra>Know ten are:
+
+[9870]
+<tibetan>ཚིག་དོན་གྱི་གནས་ཤེས་པ་དང༌།
+<literal>Word-meaning's place know and/
+<liturgical><list>Word-meaning's place know, and
+
+[9871]
+<tibetan>དྲིས་པའི་ལན་ལྡོན་པར་ཤེས་པ་དང༌།
+<literal>Question's answer expound know and*/
+<liturgical><list>Question's answer expound know, and
+
+[9872]
+<tibetan>དབང་དང་མན་ངག་གི་སྐབས་ཤེས་པ་དང༌།
+<literal>Empowerment and instruction-by-means-of occasion know and
+<liturgical><list>Empowerment and instruction occasion know, and
+
+[9873]
+<tibetan>ལྟ་བ་ཡངས་པར་ཤེས་པ་དང༌།
+<literal>View extensive know and
+<liturgical><list>View extensive know, and || 170 ||
+
+[9874]
+<tibetan>སྒོམ་པའི་ངང་ཆེ་བར་ཤེས་པ་དང༌།
+<literal>Meditate state great know and
+<liturgical><list>Meditate state great know, and
+
+[9875]
+<tibetan>ཆོས་ཉིད་ཟབ་པར་ཤེས་པ་དང༌།
+<literal>Reality profound know and
+<liturgical><list>Reality profound know, and
+
+[9876]
+<tibetan>འཁོར་བ་དང་མ་འདྲེས་པར་ཤེས་པ་དང༌།
+<literal>Samsara with not-mix know and
+<liturgical><list>saṃsāra with not-mix know, and
+
+[9877]
+<tibetan>འདས་པའི་ས་ལ་གནས་པར་ཤེས་པ་དང༌།
+<literal>Transcend ground at abide know and
+<liturgical><list>Transcend ground at abide know, and
+
+[9878]
+<tibetan>རང་དང་སྤྱིའི་ཆོས་དང་ཆོས་ཅན་གྱི་མཚན་ཉིད་ཤེས་པའོ།
+<literal>Self and general dharma and dharma-possessor characteristic know is
+<liturgical><list>Self and general Dharma and Dharma-possessor characteristic know is.
+
+[9879]
+<tibetan>།ཡང་དེ་ཉིད་ལས།
+<literal>Also that itself from
+<liturgical><tantra>Also from that same source:
+
+[9880]
+<tibetan>དེ་ཡང་བསྲུང་ཐབས་འདི་ལྟ་སྟེ།
+<literal>That also protect-method this like is
+<liturgical><tantra>That also protection method thus is:
+
+[9881]
+<tibetan>ཤེས་པ་གཅིག་གི་ཁྱད་པར་གྱིས།
+<literal>Know one-by-means-of distinction by-means-of
+<liturgical><tantra>"Know one distinction,
+
+[9882]
+<tibetan>།ཁྱད་པར་བཅུ་ཡིས་བསྲུང་ཐབས་འཕགས།
+<literal>Distinction ten-by-means-of protect-method superior
+<liturgical><tantra>Distinction ten protection method superior.
+
+[9883]
+<tibetan>།གཅིག་ལ་དེ་བས་ཉུང་བའོ།
+<literal>One at that from less is
+<liturgical><tantra>One at that from less is. || 180 ||
+
+[9884]
+<tibetan>།དམ་ཚིག་རྒྱལ་པོ་དེ་བཞིན་སྤྱོད།
+<literal>Samaya king that like engage
+<liturgical><tantra>Samaya king that like engage."
+
+[9885]
+<tibetan>།ཅེས་སོ།
+<literal>Thus is
+<liturgical><tantra>Thus it is.
+
+[9886]
+<tibetan>།གཉིས་པ་སྐུ་གསུང་ཐུགས་ཀྱི་དམ་ཚིག་བྱེ་བྲག་ཏུ་བཤད་པ་ནི།
+<literal>Two body-speech-mind-by-means-of samaya specific explain is
+<liturgical><prose>Two: Body-Speech-Mind samaya specific explain is.
+
+[9887]
+<tibetan>ཐལ་འགྱུར་ལས།
+<literal>Tal-gyur from
+<liturgical><tantra>From the Consequence:
+
+[9888]
+<tibetan>དབང་ལ་བརྟེན་པའི་དམ་ཚིག་བཤད།
+<literal>Empowerment at depend-by-means-of samaya explain
+<liturgical><tantra>"Empowerment at depend, samaya explain.
+
+[9889]
+<tibetan>།བྱེ་བྲག་བརྗོད་ཀྱིས་མི་ལང་ཡང༌།
+<literal>Specific express-by-means-of not-capable although
+<liturgical><tantra>Specific express not-capable although,
+
+[9890]
+<tibetan>།མདོར་བསྡུས་སྐུ་དང་གསུང་དང་ཐུགས།
+<literal>Briefly body and speech and mind
+<liturgical><tantra>Briefly body and speech and mind,
+
+[9891]
+<tibetan>།རྣལ་འབྱོར་ལུས་ངག་ཡིད་ལ་སྦྱར།
+<literal>Yoga body speech mind at apply
+<liturgical><tantra>Yoga body speech mind at apply.
+
+[9892]
+<tibetan>།དམིགས་པ་བླ་མ་རྡོ་རྗེ་མཆེད།
+<literal>Focus teacher vajra sibling
+<liturgical><tantra>Focus teacher vajra sibling,
+
+[9893]
+<tibetan>།བསྲུང་བའི་ཡུལ་གྱིས་རྣམ་པར་དབྱེ།
+<literal>Protect place-by-means-of distinguish
+<liturgical><tantra>Protect place distinguish. || 190 ||
+
+[9894]
+<tibetan>།སྡོམ་པ་ལུས་དང་དབང་དུ་འདུས།
+<literal>Vow body and empowerment-in gather
+<liturgical><tantra>Vow body and empowerment gather.
+
+[9895]
+<tibetan>།རྡོ་རྗེ་གསང་བའི་གནས་གཟུང་བྱའོ།
+<literal>Vajra secret place hold should is
+<liturgical><tantra>Vajra secret place hold should is."
+
+[9896]
+<tibetan>།ཞེས་གསུངས་པའི་དོན་བསྟན་པ་ལ་སྐུའི་དམ་ཚིག་དང༌།
+<literal>Thus speak-by-means-of meaning demonstrate at body-by-means-of samaya and
+<liturgical><tantra>Thus speak meaning demonstrate at body samaya and
+
+[9897]
+<tibetan>གསུང་གི་དམ་ཚིག་དང༌།
+<literal>Speech-by-means-of samaya and
+<liturgical><tantra>Speech samaya and
+
+[9898]
+<tibetan>ཐུགས་ཀྱི་དམ་ཚིག་གསུམ་ལས།
+<literal>Mind-by-means-of samaya three from
+<liturgical><tantra>Mind samaya three from,
+
+[9899]
+<tibetan>དང་པོ་སྐུ་ལ་ཕྱི་དང༌།
+<literal>First body at outer and
+<liturgical><ornament>First, regarding the Body: outer, inner, and secret—
+
+[9900]
+<tibetan>ནང་དང༌།
+<literal>Inner and
+<liturgical><prose>Each of these three levels contains outer-outer and the like, three within each,
+
+[9901]
+<tibetan>གསང་བ་གསུམ་པོ་རེ་རེ་ལ་ཡང་ཕྱིའི་ཕྱི་ལ་སོགས་པ་གསུམ་གསུམ་དུ་ཕྱེ་བས་དགུར་བསྟན་པའི་དང་པོ་གསུམ་ནི།
+<literal>Secret three each at-also outer-by-means-of outer like three three-as divide nine demonstrate-by-means-of first three is
+<liturgical><prose>Divided to demonstrate nine aspects; the first three are:
+
+[9902]
+<tibetan>དམ་ཚིག་རིན་པོ་ཆེ་རྣམ་པར་སྤུངས་པའི་རྒྱུད་ལས།
+<literal>Samaya jewel various-pile-by-means-of tantra from
+<liturgical><tantra>From the Tantra of the Jewel-Heap of Samaya:
+
+[9903]
+<tibetan>སྐུ་ཡི་ཕྱི་ཡི་དམ་ཚིག་ལ།
+<literal>Body-by-means-of outer-by-means-of samaya at
+<liturgical><verse>Regarding the outer samaya of the Body,
+
+[9904]
+<tibetan>།རྣམ་པ་གསུམ་དུ་བརྟག་ཕྱེ་སྟེ།
+<literal>Aspect three-as examine divide and
+<liturgical><verse>Examine and divide into three aspects.
+
+[9905]
+<tibetan>མ་བྱིན་བླངས་པས་ཕྱི་ཡི་ཡང༌།
+<literal>Not-give take outer-by-means-of is
+<liturgical><verse>Taking what is not given pertains to the outer dimension,
+
+[9906]
+<tibetan>།སྐུ་ཡི་དམ་ཚིག་ཉམས་པར་འགྱུར།
+<literal>Body-by-means-of samaya decline become is
+<liturgical><verse>For this causes the Body's samaya to decline.
+
+[9907]
+<tibetan>།དེ་ཡི་རྟགས་སུ་ཡན་ལག་ནད།
+<literal>That sign limb sickness
+<liturgical><verse>The sign of this: afflictions of the limbs,
+
+[9908]
+<tibetan>།མི་བཟད་སྣ་ཚོགས་ལུས་ལ་འབྱུང༌།
+<literal>Intolerable various body at arise
+<liturgical><verse>Intolerable, various, arising in the body. || 10 ||
+
+[9909]
+<tibetan>།མི་ཚངས་སྤྱད་པ་ནང་ཡིན་ཏེ།
+<literal>Sexual-misconduct inner is
+<liturgical><verse>Sexual misconduct pertains to the inner dimension;
+
+[9910]
+<tibetan>།རྟགས་སུ་དབང་པོའི་ནད་རྣམས་སོ།
+<literal>Sign sense-power-by-means-of sickness is
+<liturgical><verse>The sign: afflictions of the sense-powers.
+
+[9911]
+<tibetan>།སྲོག་གཅོད་པ་ནི་གསང་བ་སྟེ།
+<literal>Life kill is secret is
+<liturgical><verse>Taking life pertains to the secret dimension;
+
+[9912]
+<tibetan>།དེ་ཡི་རྟགས་སུ་དོན་སྣོད་ནད།
+<literal>That sign organ sickness
+<liturgical><verse>The sign: afflictions of the vital organs.
+
+[9913]
+<tibetan>།རྣལ་འབྱོར་པ་ཡིས་མྱོང་བའོ།
+<literal>Yogin-by-means-of experience is
+<liturgical><verse>These are experienced by the yogin.
+
+[9914]
+<tibetan>།ཞེས་སོ།
+<literal>Thus is
+<liturgical><tantra>Thus it is spoken.
+
+[9915]
+<tibetan>།དེ་བསྐང་བའི་ཆོ་ག་ནི་དམ་ཚིག་མཆོག་གི་རྒྱུད་ལས།
+<literal>That repair ritual is samaya supreme-by-means-of tantra from
+<liturgical><tantra>The ritual for repair, from the Tantra of Supreme Samaya:
+
+[9916]
+<tibetan>རྟགས་དང་སྦྱར་བའི་རྣལ་འབྱོར་པས།
+<literal>Sign with connect-by-means-of yogin-by-means-of
+<liturgical><verse>For the yogin who connects with the signs,
+
+[9917]
+<tibetan>།ཕྱི་ཡི་ཕྱི་ལ་ལྡེར་སོ་དང༌།
+<literal>Outer outer clay-image and
+<liturgical><verse>Outer-outer: clay images and
+
+[9918]
+<tibetan>།རི་མོའི་ལས་ནི་ལན་བདུན་གྱིས།
+<literal>Image work seven-by-means-of
+<liturgical><verse>Image work, seven times. || 20 ||
+
+[9919]
+<tibetan>།དེ་ཡི་སྡིག་པ་ལས་གྲོལ་བའོ།
+<literal>That negative-action from liberate is
+<liturgical><verse>Through this, one is liberated from that negative action.
+
+[9920]
+<tibetan>།ཞེས་སོ།
+<literal>Thus is
+<liturgical><tantra>Thus it is spoken.
+
+[9921]
+<tibetan>།དེ་ཡང་སྔགས་ཕྱིའི་ལྷ་རྣམས་ཀྱི་བྲིས་སྐུའམ་ལྡེར་སོ་བདུན་བཞེངས་པས་འདག་གོ
+<literal>That also mantra outer-by-means-of deity-by-means-of painted-image or clay-image seven erect purify is
+<liturgical><prose>This also means: erecting seven painted images or clay images of the outer deities purifies.
+
+[9922]
+<tibetan>།དེ་བཞིན་དུ་ནང་གི་ཉམས་ན་ནང་གི་ལྷའི་ལུགས་སྐུ་བདུན་ནོ།
+<literal>Like-that inner decline if inner deity-by-means-of clay-body seven is
+<liturgical><prose>Likewise, if the inner declines: seven clay bodies of the inner deity.
+
+[9923]
+<tibetan>།གསང་བ་ལ་རྡོ་རྗེ་དྲིལ་བུ་བདུན་ནམ་བཅུ་གཅིག་བླ་མ་ལ་ཕུལ་བས་བསྐངས་ཏེ།
+<literal>Secret at vajra bell seven or eleven teacher at offer-by-means-of repair and
+<liturgical><prose>For the secret: offering seven or eleven vajras and bells to the teacher repairs, and
+
+[9924]
+<tibetan>དེ་ཉིད་ལས།
+<literal>That itself from
+<liturgical><tantra>From that same source:
+
+[9925]
+<tibetan>ཕྱི་ཡི་ནང་ལ་ལུགས་སྐུ་བདུན།
+<literal>Outer inner clay-body seven
+<liturgical><verse>Seven clay bodies, outer and inner,
+
+[9926]
+<tibetan>།རབ་ཏུ་གནས་པས་རྩོལ་བས་བཞེངས།
+<literal>Well abide ritual-by-means-of effort erect
+<liturgical><verse>Erected through the ritual of proper abiding with effort,
+
+[9927]
+<tibetan>།བླ་མ་མཆོག་ལ་དབུལ་བར་བྱ།
+<literal>Teacher supreme at offer should is
+<liturgical><verse>Should be offered to the supreme teacher.
+
+[9928]
+<tibetan>།ཕྱི་ཡི་གསང་བའི་རྟགས་བྱུང་ན།
+<literal>Outer secret sign arise if
+<liturgical><verse>If signs of outer-secret arise, || 30 ||
+
+[9929]
+<tibetan>།རྡོ་རྗེ་དང་ནི་དྲིལ་བུ་ཉིད།
+<literal>Vajra and bell itself
+<liturgical><verse>The vajra and bell itself,
+
+[9930]
+<tibetan>།དགུའམ་བཅུ་གཅིག་བླ་མ་ལའོ།
+<literal>Nine or eleven teacher at is
+<liturgical><verse>Nine or eleven, to the teacher.
+
+[9931]
+<tibetan>།དེས་ནི་ནད་ལས་གྲོལ་བ་དང༌།
+<literal>That sickness from liberate and
+<liturgical><verse>Through this, one is liberated from sickness, and
+
+[9932]
+<tibetan>།འདོད་པ་ཕུན་སུམ་ཚོགས་པ་དང༌།
+<literal>Desire perfect-possession and
+<liturgical><verse>Desires become perfect possessions, and
+
+[9933]
+<tibetan>།དགེ་དང་ཞི་བའི་ལས་འགྲུབ་དང༌།
+<literal>Virtue and pacify activity accomplish and
+<liturgical><verse>Virtue and pacifying activities are accomplished, and
+
+[9934]
+<tibetan>།འགྲོ་བ་རྣམས་ནི་བྱམས་པར་འགྱུར།
+<literal>Beings compassionate become is
+<liturgical><verse>Beings become compassionate.
+
+[9935]
+<tibetan>།ཅེས་སོ།
+<literal>Thus is
+<liturgical><tantra>Thus it is spoken.
+
+[9936]
+<tibetan>།སྐུའི་ནང་ལ་ཕྱི་ནང་གསང་བ་གསུམ་ནི།
+<literal>Body-by-means-of inner at outer-inner-secret three is
+<liturgical><prose>The three aspects of the inner dimension of the Body: outer, inner, and secret.
+
+[9937]
+<tibetan>གསེར་གྱི་ཁང་བུ་བརྩེགས་པའི་རྒྱུད་ལས།
+<literal>Golden house piled tantra from
+<liturgical><tantra>From the Golden House Stacked Tantra:
+
+[9938]
+<tibetan>ནང་གི་ཕྱི་ནི་སྤུན་དང་ཡང༌།
+<literal>Inner outer sibling and also
+<liturgical><verse>The outer of the inner: siblings and also, || 40 ||
+
+[9939]
+<tibetan>།གང་གིས་ཕ་དང་མ་ཉིད་དང༌།
+<literal>What father and mother itself and
+<liturgical><verse>Whatever father and mother themselves, and
+
+[9940]
+<tibetan>།རང་གི་ལུས་ལ་མི་སྨད་དོ།
+<literal>Self body at not-despise is
+<liturgical><verse>One's own body—do not despise these.
+
+[9941]
+<tibetan>།ནང་གི་ནང་ཉིད་སྤྱིར་ན་ཡང༌།
+<literal>Inner inner generally although
+<liturgical><verse>The inner of the inner: generally, though,
+
+[9942]
+<tibetan>།ཐེག་པ་ཆེ་ཆུང་ཆོས་རྣམས་ལ།
+<literal>Vehicle great-small dharma at
+<liturgical><verse>In the Dharma of great and small vehicles,
+
+[9943]
+<tibetan>།འཇུག་པར་འདོད་དང་ཞུགས་པ་དང༌།
+<literal>Enter wish and entered and
+<liturgical><verse>Those who wish to enter, have entered, and
+
+[9944]
+<tibetan>ཞུགས་ཏེ་གཟུགས་བརྙན་འཛིན་པའི་ལུས།
+<literal>Entered image-form hold body
+<liturgical><verse>Those who have entered and hold the image-form body—
+
+[9945]
+<tibetan>།སྨད་ཅིང་མཐོ་བཙམས་རྒྱན་སྨད་ན།
+<literal>Despise and high-low ornament despise if
+<liturgical><verse>If one despises these and ornaments of high and low,
+
+[9946]
+<tibetan>།སངས་རྒྱས་ཀུན་གྱི་བརྒྱ་ཕྲག་བསླུས།
+<literal>Buddha all hundred deceive
+<liturgical><verse>One deceives all the hundreds of Buddhas.
+
+[9947]
+<tibetan>།ནང་གི་གསང་བ་རང་གི་ལུས།
+<literal>Inner secret self body
+<liturgical><verse>The secret of the inner: one's own body,
+
+[9948]
+<tibetan>།ལྷ་ཡི་དཀྱིལ་འཁོར་ཡིན་པའི་ཕྱིར།
+<literal>Deity mandala is cause
+<liturgical><verse>For it is the mandala of the deity. || 50 ||
+
+[9949]
+<tibetan>།སྨན་དང་ཟས་ལ་དུག་འདྲེས་ཟོས།
+<literal>Medicine and food at poison-mix eat
+<liturgical><verse>Mixing poison with medicine and food,
+
+[9950]
+<tibetan>།གལ་ཏེ་མཚོན་གྱིས་བཏབ་ན་ཡང༌།
+<literal>If weapon by-means-of stab although
+<liturgical><verse>Or stabbing with weapons,
+
+[9951]
+<tibetan>།ཟག་པའི་ལམ་མེད་ལུས་བརྒྱ་བླངས།
+<literal>Outflow path without body hundred take
+<liturgical><verse>Taking a hundred bodies without the path of outflow,
+
+[9952]
+<tibetan>།དེ་འོག་ཚ་བའི་དམྱལ་བ་མྱོང༌།
+<literal>That after hot hell experience
+<liturgical><verse>After that, one experiences the hot hells.
+
+[9953]
+<tibetan>།ཞེས་སོ།
+<literal>Thus is
+<liturgical><tantra>Thus it is spoken.
+
+[9954]
+<tibetan>།སྐུའི་གསང་བའི་ཕྱི་ནང་གསང་བ་གསུམ་ཡང༌།
+<literal>Body-by-means-of secret outer-inner-secret three also
+<liturgical><prose>The secret of the Body: outer, inner, and secret, three also.
+
+[9955]
+<tibetan>།དེ་ཉིད་ལས།
+<literal>That itself from
+<liturgical><tantra>From that same source:
+
+[9956]
+<tibetan>སྐུ་ཡི་གསང་བའི་ཕྱི་ལ་ཡང༌།
+<literal>Body-by-means-of secret outer at also
+<liturgical><verse>Regarding the outer of the Body's secret:
+
+[9957]
+<tibetan>།རྡོ་རྗེའི་སྤུན་ནམ་སྲིང་མོ་ཡི།
+<literal>Vajra sibling or sister
+<liturgical><verse>Vajra siblings or sisters,
+
+[9958]
+<tibetan>།ལུས་ཀྱི་རྒྱན་ལ་དཔྱས་པ་དང༌།
+<literal>Body ornament at criticize and
+<liturgical><verse>Criticizing the body's ornaments, and || 60 ||
+
+[9959]
+<tibetan>།མཐོ་བཙམས་ལག་གིས་བརྡེག་པའི་ཚུལ།
+<literal>High-low hand-by-means-of strike manner
+<liturgical><verse>Striking with hands in manner of high and low—
+
+[9960]
+<tibetan>།གལ་ཏེ་གཞན་གྱིས་བྱེད་བཅུག་ན།
+<literal>If other by-means-of do cause if
+<liturgical><verse>If one causes another to do this,
+
+[9961]
+<tibetan>།འདི་ཡང་མནར་མེད་རྒྱུད་འཕེལ་འགྱུར།
+<literal>This also Avici continuum increase become is
+<liturgical><verse>This also increases the continuum of Avici.
+
+[9962]
+<tibetan>།ནང་གི་ཤིན་ཏུ་འདྲེས་པའི་མཆེད།
+<literal>Inner extremely mix sibling
+<liturgical><verse>The inner: extremely mixed siblings,
+
+[9963]
+<tibetan>།ཀུ་རེ་རྩེད་མོའི་ཚུལ་ཙམ་དུའང༌།
+<literal>Play jest manner even
+<liturgical><verse>Even in playful jesting manner,
+
+[9964]
+<tibetan>།བརྡེག་གམ་བརྡེག་པར་བརྩམས་པའམ།
+<literal>Strike or strike do or
+<liturgical><verse>Striking or attempting to strike, or
+
+[9965]
+<tibetan>།རྨི་ལམ་ན་ཡང་ཡུམ་ལ་རྩེས།
+<literal>Dream in-also mother sport
+<liturgical><verse>Sporting with the mother even in dreams—
+
+[9966]
+<tibetan>།དེ་མ་ཐག་ཏུ་མ་བཤགས་ན།
+<literal>That immediately not-confess if
+<liturgical><verse>If not confessed immediately,
+
+[9967]
+<tibetan>།འདི་ཡང་སྔར་དང་སྡིག་མཉམ་མོ།
+<literal>This also former with negative equal is
+<liturgical><verse>This equals the former negative actions.
+
+[9968]
+<tibetan>།གསང་བའི་གསང་བ་བླ་མ་ཡི།
+<literal>Secret secret teacher
+<liturgical><verse>The secret of the secret: the teacher, || 70 ||
+
+[9969]
+<tibetan>།སྐུ་ཡི་གྲིབ་མ་མི་འགོང་ལ།
+<literal>Body shadow not-step-over and
+<liturgical><verse>Do not step over the shadow of the teacher's body, and
+
+[9970]
+<tibetan>།བླ་མའི་སྤྱན་ལམ་དག་ཏུ་ཡང༌།
+<literal>Teacher eye-range pure at also
+<liturgical><verse>Even in the pure range of the teacher's eye,
+
+[9971]
+<tibetan>།མཚོན་ཆ་གཟུང་བར་མི་བྱའོ།
+<literal>Weapon hold should not is
+<liturgical><verse>One should not hold weapons.
+
+[9972]
+<tibetan>།རྐང་ལག་བརྐྱང་དང་ཉལ་མི་བྱ།
+<literal>Legs stretch and lie not do
+<liturgical><verse>Do not stretch legs or lie down,
+
+[9973]
+<tibetan>།སྐྱིལ་ཀྲུང་འདུག་དང་རྒྱབ་མི་བསྟན།
+<literal>Posture sit and back not show
+<liturgical><verse>Do not show the back when sitting in posture,
+
+[9974]
+<tibetan>།ལྷམ་དང་སྟན་དང་བཞོན་པ་དང༌།
+<literal>Shoes and seat and mount and
+<liturgical><verse>Abandon shoes, seats, mounts,
+
+[9975]
+<tibetan>།གདུགས་སོགས་སྒེག་པའི་རྒྱན་རྣམས་སྤང༌།
+<literal>Umbrella etc playful ornament abandon
+<liturgical><verse>Umbrellas, and other playful ornaments.
+
+[9976]
+<tibetan>།བླ་མའི་གཟིམས་ཁང་དག་ལ་ཡང༌།
+<literal>Teacher bedroom at also
+<liturgical><verse>Even in the teacher's bedroom,
+
+[9977]
+<tibetan>།ལག་པས་མཚོན་ནམ་རྡོ་དག་གིས།
+<literal>Hand weapon or stone by-means-of
+<liturgical><verse>With hands, weapons, or stones,
+
+[9978]
+<tibetan>།བརྩམ་པར་བྱ་བ་མ་ཡིན་ནོ།
+<literal>Do should not is
+<liturgical><verse>One should not act. || 80 ||
+
+[9979]
+<tibetan>།དེ་དག་ལས་ནི་འབུམ་འགྱུར་དུ།
+<literal>That from hundred-thousand-times
+<liturgical><verse>From this, a hundred-thousand-fold,
+
+[9980]
+<tibetan>།བླ་མའི་གནས་ཁང་བཤིག་པ་དང༌།
+<literal>Teacher dwelling destroy and
+<liturgical><verse>Destroying the teacher's dwelling, and
+
+[9981]
+<tibetan>།སྐུ་ལ་བརྩམས་ཤིང་བསྡིགས་བྱས་པ།
+<literal>Body strike and threaten do
+<liturgical><verse>Striking the body and making threats—
+
+[9982]
+<tibetan>།འདི་ཡི་སྡིག་པ་ཕ་མཐའ་ཡས།
+<literal>This negative-action measure endless
+<liturgical><verse>This negative action is measureless, endless.
+
+[9983]
+<tibetan>།གལ་ཏེ་བླ་མ་བག་མེད་པས།
+<literal>If teacher carelessness by-means-of
+<liturgical><verse>If through carelessness the teacher
+
+[9984]
+<tibetan>།མ་སྤྱད་སྟོངས་ནའང་ཕ་མཐའ་ཡས།
+<literal>Not-use abandon even measure endless
+<liturgical><verse>Is not served or abandoned, even this is measureless, endless.
+
+[9985]
+<tibetan>།མཆེད་སྤུན་སྐུ་ལ་བརྙས་བྱས་ན།
+<literal>Sibling body at contempt do if
+<liturgical><verse>If one contemns the siblings' bodies,
+
+[9986]
+<tibetan>།འདི་ཡི་རྣམ་སྨིན་བརྗོད་མི་ནུས།
+<literal>This ripening-result express not able is
+<liturgical><verse>This ripening-result cannot be expressed.
+
+[9987]
+<tibetan>།ཞེས་སོ།
+<literal>Thus is
+<liturgical><tantra>Thus it is spoken.
+
+[9988]
+<tibetan>།དེ་ལྟར་ན་སྐུའི་དམ་ཚིག་ལ་ཕྱི་ནང་གསང་བ་གསུམ་དུ་ཕྱེ་བས་དགུ་ཡོད་དོ།
+<literal>Like-that body-by-means-of samaya at outer-inner-secret three-as divide nine exist is
+<liturgical><prose>Thus, regarding the samaya of the Body, divided into outer, inner, and secret, there are nine. || 90 ||
+
+[9989]
+<tibetan>།གཉིས་པ་གསུང་གི་དམ་ཚིག་ལའང་གསུམ་ལས།
+<literal>Two speech-by-means-of samaya at-also three from
+<liturgical><prose>Second, regarding the samaya of Speech: also three from this.
+
+[9990]
+<tibetan>དང་པོ་ཕྱིའི་ཕྱི་རྫུན་སྤོང་བ་སྟེ།
+<literal>first outer's outer falsehood abandoning is/
+<liturgical><ornament>First: The outer of the outer—abandoning falsehood.
+
+[9991]
+<tibetan>འཁོར་ལོ་བརྩེགས་པའི་རྒྱུད་ལས།
+<literal>wheel's stacked one's tantra from/
+<liturgical><tantra>From the Wheel-Stacked Tantra:
+
+[9992]
+<tibetan>སྔགས་ཀྱི་མོས་པ་སྤྱོད་པ་ཡིས།
+<literal>mantra's inclination conduct by-means-of/
+<liturgical><verse>Through the conduct of mantra inclination,
+
+[9993]
+<tibetan>།འགྲོ་བ་ཕལ་པ་དག་ལ་ཡང༌།
+<literal>/migrate world common ones to also*/
+<liturgical><verse>Even toward common beings of the migrating world,
+
+[9994]
+<tibetan>།བརྫུན་པའི་ཚིག་ནི་རང་འདོད་ཀྱིས།
+<literal>/false one's word self-desire by-means-of/
+<liturgical><verse>Speaking false words through self-desire,
+
+[9995]
+<tibetan>།སྨྲ་ལ་རྟག་ཏུ་དགའ་བ་ལ།
+<literal>/speak to always joy having/
+<liturgical><verse>Always taking joy in speaking thus,
+
+[9996]
+<tibetan>།སྔགས་བཟླས་ནུས་པ་མི་འབྱུང་ཞིང༌།
+<literal>/mantra recite power not-arise and*/
+<liturgical><verse>The power of mantra recitation will not arise, and
+
+[9997]
+<tibetan>།གཞན་ལ་སྨྲས་པའང་བཙུན་པ་མིན།
+<literal>/other to spoke also holy not/
+<liturgical><verse>What is spoken to others is not holy either.
+
+[9998]
+<tibetan>།རང་གི་ངག་ཉིད་ཉམས་པ་ཡིས།
+<literal>/self's speech self degenerate by-means-of/
+<liturgical><verse>Through degenerating one's own speech,
+
+[9999]
+<tibetan>།འགྲོ་བ་གཞན་གྱི་ལྕེ་འབབ་འགྱུར།
+<literal>/migrate world other's tongue-drip become/
+<liturgical><verse>One becomes the tongue-drip of others in the migrating world. || 10 ||
+
+[10000]
+<tibetan>།མ་འོངས་དུས་ན་རྨེ་ཀའི་ལུས།
+<literal>/future time in gadfly's body/
+<liturgical><verse>In future times, in the body of a gadfly,
+
+[10001]
+<tibetan>།བྱང་གི་ཕྱོགས་སུ་མྱོང་བར་འགྱུར།
+<literal>/northern direction in experience become/
+<liturgical><verse>One will experience this in the northern direction.
+
+[10002]
+<tibetan>།དེ་འོག་ངན་སོང་སྡུག་བསྔལ་ཡང༌།
+<literal>/that below bad-migrate suffering also*/
+<liturgical><verse>After that, the sufferings of bad migrations,
+
+[10003]
+<tibetan>།རྣམ་པ་སྣ་ཚོགས་མྱོང་བར་འགྱུར།
+<literal>/aspects various experience become/
+<liturgical><verse>Various aspects, one will experience.
+
+[10004]
+<tibetan>།ཅེས་སོ།
+<literal>/thus/
+<liturgical><tantra>Thus it is spoken.
+
+[10005]
+<tibetan>།གསུང་གི་ཕྱིའི་ནང་གི་དམ་ཚིག་ཏུ་ཕྲ་མ་མི་སྨྲ་སྟེ།
+<literal>/speech's outer's inner's samaya as slander not-speak is/
+<liturgical><prose>The inner samaya of Speech's outer: not speaking slander.
+
+[10006]
+<tibetan>ཡང་དེ་ཉིད་ལས།
+<literal>again that same from/
+<liturgical><tantra>Again from that same source:
+
+[10007]
+<tibetan>སྔགས་ལ་ཞུགས་པའི་གང་ཟག་གང༌།
+<literal>mantra in entered one's person whoever*/
+<liturgical><verse>Whoever is a person entered into mantra,
+
+[10008]
+<tibetan>།གཞན་གཉིས་དབྱེ་འཇུག་ཕྲ་མ་སྨྲ།
+<literal>/other two divide-enter slander speaks/
+<liturgical><verse>Who speaks slander dividing others—
+
+[10009]
+<tibetan>།ཆོས་སྨྲས་འཁོར་རྣམས་མི་འདུ་དང༌།
+<literal>/dharma spoke circles not-gather and*/
+<liturgical><verse>Dharma-speaking circles will not gather, and || 20 ||
+
+[10010]
+<tibetan>།ཅི་བྱས་ལོག་པར་འགྱུར་བ་དང༌།
+<literal>/what done wrong become and*/
+<liturgical><verse>What is done becomes wrong, and
+
+[10011]
+<tibetan>།མ་སྤྱད་པ་ཡང་དགྲར་འགྱུར་དང༌།
+<literal>/not-practiced also enemy become and*/
+<liturgical><verse>What is not practiced also becomes an enemy, and
+
+[10012]
+<tibetan>།ལུས་ལ་མཚོན་གྱིས་འདེབས་པ་དང༌།
+<literal>/body to weapon by-means-of strike and*/
+<liturgical><verse>The body is struck with weapons, and
+
+[10013]
+<tibetan>།ཤི་འཕོས་ནས་ནི་སྡེར་ཅན་ལུས།
+<literal>/died after clawed body/
+<liturgical><verse>After death, a body with claws,
+
+[10014]
+<tibetan>།དེ་ནས་ངན་སོང་རིམ་གྱིས་མྱོང༌།
+<literal>/then bad-migrate sequence by experience*/
+<liturgical><verse>Then experiences the sequence of bad migrations.
+
+[10015]
+<tibetan>།ཞེས་སོ།
+<literal>/thus/
+<liturgical><tantra>Thus it is spoken.
+
+[10016]
+<tibetan>།ཕྱིའི་གསང་བ་གཞན་གྱི་ཞེ་གཅོད་པ་སྤོང་བ་སྟེ།
+<literal>/outer's secret other's harsh-words abandoning is/
+<liturgical><prose>The secret of the outer: abandoning harsh words toward others.
+
+[10017]
+<tibetan>ཡང་དེ་ཉིད་ལས།
+<literal>again that same from/
+<liturgical><tantra>Again from that same source:
+
+[10018]
+<tibetan>རྟག་ཏུ་ཞེ་གཅོད་ཚིག་སྨྲ་བ།
+<literal>always harsh-words word speaks/
+<liturgical><verse>One who always speaks words of harsh criticism,
+
+[10019]
+<tibetan>སྔ་མའི་ལས་དང་ཕྱི་མའི་རྟགས།
+<literal>former's karma and later's sign/
+<liturgical><verse>Former karma and later signs, || 30 ||
+
+[10020]
+<tibetan>འགྲོ་བ་བྱམས་བྲལ་བཤེས་ཀྱང་སྡང༌།
+<literal>migrate world love-lacking friend also hate*/
+<liturgical><verse>Lacking love for the migrating world, even friends become hateful.
+
+[10021]
+<tibetan>།ཆོས་ཀྱི་ཚིག་ཀྱང་འཚོལ་བར་འགྱུར།
+<literal>/dharma's word also seek become/
+<liturgical><verse>The words of Dharma also become sought.
+
+[10022]
+<tibetan>།ཤི་འཕོས་རབ་ཏུ་དྲེགས་པའི་ལུས།
+<literal>/died after very pride's body/
+<liturgical><verse>After death, a body of great pride,
+
+[10023]
+<tibetan>།དེ་ནས་ངན་སོང་གསུམ་དུ་འཁོར།
+<literal>/then bad-migrate three in circle/
+<liturgical><verse>Then circles through the three bad migrations.
+
+[10024]
+<tibetan>ཅེས་སོ།
+<literal>thus/
+<liturgical><tantra>Thus it is spoken.
+
+[10025]
+<tibetan>།གསུང་གི་ནང་གི་གསུམ་ནི།
+<literal>/speech's inner's three is/
+<liturgical><prose>The three of Speech's inner are:
+
+[10026]
+<tibetan>ཆོས་སྨྲ་བ་ཕྱི།
+<literal>dharma speak outer/
+<liturgical><list>Dharma speaking: outer,
+
+[10027]
+<tibetan>བསྒྲུབ་པ་ནང༌།
+<literal>accomplish inner*/
+<liturgical><list>Accomplishing: inner,
+
+[10028]
+<tibetan>བསྒོམ་པ་གསུང་བ་སྟེ།
+<literal>meditate speech is/
+<liturgical><list>Meditating: secret.
+
+[10029]
+<tibetan>དམ་ཚིག་རྣམ་པར་བཀོད་པའི་རྒྱུད་ལས།
+<literal>samaya aspects arranged one's tantra from/
+<liturgical><tantra>From the Tantra of Samaya Aspects Arranged: || 40 ||
+
+[10030]
+<tibetan>སྔགས་པ་སྡོམ་ལ་གནས་པ་ཡིས།
+<literal>mantra one discipline in dwell by-means-of/
+<liturgical><verse>One who dwells in discipline with mantra,
+
+[10031]
+<tibetan>།ཆོས་སྨྲ་རྣམས་དང་ཆོས་བསྒྲུབ་དང༌།
+<literal>/dharma speak ones and dharma accomplish and*/
+<liturgical><verse>To Dharma speakers, Dharma accomplishers, and
+
+[10032]
+<tibetan>།ཆོས་ནི་བསྒོས་པའི་གང་ཟག་ལ།
+<literal>/dharma instructed one's person to/
+<liturgical><verse>Those instructed in the Dharma,
+
+[10033]
+<tibetan>།སྨྲེ་ཞིང་སྐུར་པ་བཏབ་པ་དང༌།
+<literal>/grieve and blame bestow and*/
+<liturgical><verse>Grieving and bestowing blame, and
+
+[10034]
+<tibetan>།གཤེ་ཞིང་སྨད་པའི་ཚིག་སྨྲ་ན།
+<literal>/scold and disparage's word speak if/
+<liturgical><verse>Speaking words of scolding and disparagement—
+
+[10035]
+<tibetan>།གཞན་གྱི་མོས་པ་ཉམས་པ་དང༌།
+<literal>/other's inclination degenerate and*/
+<liturgical><verse>Others' inclinations degenerate, and
+
+[10036]
+<tibetan>།རང་གི་བདོག་པ་ཉམས་པ་དང༌།
+<literal>/self's possession degenerate and*/
+<liturgical><verse>Self-possessions degenerate, and
+
+[10037]
+<tibetan>།རང་གི་ཆོས་རྣམས་བརྗེད་ངས་ཏེ།
+<literal>/self's dharmas forget confusion/
+<liturgical><verse>Self-dharmas become forgotten, confused.
+
+[10038]
+<tibetan>།ཡིད་དཔྱོད་འདྲ་མིན་འཆལ་བར་འགྱུར།
+<literal>/mind-thought different uneven become/
+<liturgical><verse>Mind-thoughts become different, uneven.
+
+[10039]
+<tibetan>།ཅེས་སོ།
+<literal>/thus/
+<liturgical><tantra>Thus it is spoken. || 50 ||
+
+[10040]
+<tibetan>།གསང་བའི་གསུམ་ནི།
+<literal>/secret's three is/
+<liturgical><prose>The three of the secret are:
+
+[10041]
+<tibetan>ཕྱི་རྡོ་རྗེའི་སྤུན་སྲིང་ལ་སྨད་པ།
+<literal>outer vajra's siblings to disparage/
+<liturgical><list>Outer: disparaging the vajra siblings,
+
+[10042]
+<tibetan>ནང་བླ་མའི་ཕྱག་རྒྱ་དང་ཉེ་འཁོར།
+<literal>inner guru's mudra and near-circle/
+<liturgical><list>Inner: the guru's mudra and near circle,
+
+[10043]
+<tibetan>གསང་བ་བླ་མ་སྨོད་པ་སྟེ།
+<literal>secret guru disparage is/
+<liturgical><list>Secret: disparaging the guru.
+
+[10044]
+<tibetan>།ཕྱག་རྒྱ་གཉིས་སྦྱོར་གྱི་རྒྱུད་ལས།
+<literal>/mudra two joined one's tantra from/
+<liturgical><tantra>From the Tantra of the Two-Joined Mudra:
+
+[10045]
+<tibetan>རྡོ་རྗེ་མཆེད་དང་ལྕམ་དྲལ་ལ།
+<literal>vajra brother and sister to/
+<liturgical><verse>To vajra brothers and sisters,
+
+[10046]
+<tibetan>།ཚིག་གིས་སྨྲས་དང་ངག་བཅག་ན།
+<literal>/word by-means-of spoke and speech cut if/
+<liturgical><verse>If one speaks words cutting speech—
+
+[10047]
+<tibetan>།བསྐལ་པ་བརྒྱ་ཕྲག་བྱེ་བར་ནི།
+<literal>/aeon hundred into million in/
+<liturgical><verse>For a hundred aeons into millions,
+
+[10048]
+<tibetan>།ངན་སོང་སྡུག་བསྔལ་མི་བཟད་ཉིད།
+<literal>/bad-migrate suffering unbearable indeed/
+<liturgical><verse>Unbearable indeed is the suffering of bad migrations,
+
+[10049]
+<tibetan>།གང་ཟག་འདི་ཡིས་མྱོང་བ་དང༌།
+<literal>/person this by experience and*/
+<liturgical><verse>Experienced by this person, and || 60 ||
+
+[10050]
+<tibetan>།སྔར་མ་བྱས་དང་ད་ལྟའི་རྟགས།
+<literal>/former not-done and present's sign/
+<liturgical><verse>Former un-done and present signs,
+
+[10051]
+<tibetan>།རིམ་པར་མྱོང་བར་འགྱུར་བ་སྟེ།
+<literal>/sequence by experience become is/
+<liturgical><verse>Sequence becomes experience.
+
+[10052]
+<tibetan>།སྔ་མ་བྱས་པའི་ཚེ་འདི་ལ།
+<literal>/former done one's life this in/
+<liturgical><verse>Former done in this life,
+
+[10053]
+<tibetan>།བར་ནས་ཐ་མར་མྱོང་བ་ལ།
+<literal>/middle from last experience to/
+<liturgical><verse>From middle to last experience,
+
+[10054]
+<tibetan>།ཡང་སྔ་ཚེ་ཡི་སྟོད་ལའོ།
+<literal>/again former life's earlier at/
+<liturgical><verse>Again in earlier former lives,
+
+[10055]
+<tibetan>།འདི་ལ་བྱས་པའི་ལས་མཐའ་ནི།
+<literal>/this in done one's karma end is/
+<liturgical><verse>The end of karma done in this.
+
+[10056]
+<tibetan>།ཚེ་ཡི་གཞལ་ཡས་ངག་གི་ལས།
+<literal>/life's measure speech's karma/
+<liturgical><verse>Life's measure, speech's karma,
+
+[10057]
+<tibetan>།འཁོར་དང་གཞན་གྱི་ལྕེ་འབབ་དང༌།
+<literal>/circle and other's tongue-drip and*/
+<liturgical><verse>Circles and others' tongue-drip, and
+
+[10058]
+<tibetan>།གློ་བུར་ངག་ཏུ་སྨྲ་རྒྱུན་འགག
+<literal>/sudden speech in speak stream stop
+<liturgical><break><verse> Sudden speech, stream of speaking, stops.
+
+[10059]
+<tibetan>།བླ་མའི་བུ་དང་ཆུང་མ་དང༌།
+<literal>/guru's son and wife and*/
+<liturgical><break><verse> The guru's son and wife, and || 70 ||
+
+[10060]
+<tibetan>།གང་དག་ཉེ་གནས་དག་ཀྱང་རུང༌།
+<literal>/what near-dwell ones also suffice*/
+<liturgical><verse>What near-dwellers also suffice—
+
+[10061]
+<tibetan>།བཀའ་ལས་འདས་ཤིང་དམ་འདས་ན།
+<literal>/command from exceed and samaya exceed if/
+<liturgical><verse>If one exceeds command and samaya,
+
+[10062]
+<tibetan>།སྔ་མ་ལས་ནི་ཉིས་འགྱུར་རོ།
+<literal>/former karma from two-times become/
+<liturgical><verse>From former karma becomes two-times,
+
+[10063]
+<tibetan>།ཡང་ན་བླ་མའི་བྱེ་བྲག་གིས།
+<literal>/or guru's distinction by-means-of/
+<liturgical><verse>Or through the guru's distinction,
+
+[10064]
+<tibetan>།རྩ་བ་དང་ནི་ཡན་ལག་གིས།
+<literal>/root and branch by-means-of/
+<liturgical><verse>Root and branch,
+
+[10065]
+<tibetan>།ངག་འདས་ངག་ཏུ་སྨྲས་པ་དང༌།
+<literal>/speech exceed speech in spoke and*/
+<liturgical><verse>Speech exceeding speech is spoken, and
+
+[10066]
+<tibetan>།སྒྲོ་སྐུར་འདོད་ཚིག་སྨྲ་བྱས་ན།
+<literal>/exaggerate-blame desire-word speak done if/
+<liturgical><verse>If exaggeration-blame, desire-words are spoken,
+
+[10067]
+<tibetan>།སྔ་མ་ལས་ནི་སྟོང་ཕྲག་འགྱུར།
+<literal>/former karma from thousand-times become/
+<liturgical><verse>From former karma becomes a thousand-times,
+
+[10068]
+<tibetan>།རྣམ་པར་སྨིན་པ་མི་བཟད་པ།
+<literal>/aspect ripen unbearable/
+<liturgical><verse>Ripening-aspect unbearable,
+
+[10069]
+<tibetan>།རིམ་པས་བླ་མའི་ཁྱད་ཀྱིས་ཀྱང༌།
+<literal>/sequence by guru's distinction by-means-of also*/
+<liturgical><verse>Sequence through guru's distinction also, || 80 ||
+
+[10070]
+<tibetan>།དེ་མ་ཐག་ཏུ་མྱོང་བར་འགྱུར།
+<literal>/immediately experience become/
+<liturgical><verse>Immediately becomes experience.
+
+[10071]
+<tibetan>།ཅེས་སོ།
+<literal>/thus/
+<liturgical><tantra>Thus it is spoken.
+
+[10072]
+<tibetan>།བཀོད་པ་ཆེན་པོ་ལས་ཀྱང༌།
+<literal>/arrangement great from also*/
+<liturgical><tantra>From the Great Arrangement also:
+
+[10073]
+<tibetan>བླ་མ་དང་ནི་ཉེ་བའི་འཁོར།
+<literal>guru and near's circle/
+<liturgical><verse>To the guru and near circle,
+
+[10074]
+<tibetan>།རྡོ་རྗེའི་སྤུན་དང་སྲིང་མོ་ལ།
+<literal>/vajra's sibling and sister to/
+<liturgical><verse>To vajra siblings and sisters,
+
+[10075]
+<tibetan>།ངན་སྨྲས་ཚིག་གིས་ཟུར་ཙམ་ཡང༌།
+<literal>/bad-spoke word by-means-of trace little also*/
+<liturgical><verse>Even a trace of badly-spoken words,
+
+[10076]
+<tibetan>།བརྡའམ་དངོས་པོར་བརྗོད་མི་བྱ།
+<literal>/sign or actuality speak not-do/
+<liturgical><verse>In signs or actuality, do not speak.
+
+[10077]
+<tibetan>།གལ་ཏེ་རྨི་ལམ་དག་ཏུ་ཡང༌།
+<literal>/if dream in also*/
+<liturgical><verse>Even if this arises in dreams,
+
+[10078]
+<tibetan>།བྱུང་ན་ཡིད་ཀྱིས་བཤགས་པར་བྱ།
+<literal>/arise if mind by-means-of confess do/
+<liturgical><verse>If it arises, confess with the mind.
+
+[10079]
+<tibetan>།དངོས་དང་ཞེ་ཡིས་བྱས་པ་དང༌།
+<literal>/actual and harsh by-means-of done and*/
+<liturgical><verse>Actual and harsh done, and || 90 ||
+
+[10080]
+<tibetan>།གལ་ཏེ་དྲན་པས་མ་ཟིན་པར།
+<literal>/if mindfulness by-means-of not-seized/
+<liturgical><verse>If mindfulness is not seized,
+
+[10081]
+<tibetan>།ཐལ་བར་གྱུར་ཀྱང་མ་བཤགས་ན།
+<literal>/overturned become although not-confess if/
+<liturgical><verse>Even if overturned, if not confessed,
+
+[10082]
+<tibetan>།ཐུར་དུ་བལྟས་ཏེ་དམྱལ་བར་འགྲོ།
+<literal>/downward looked hell in go/
+<liturgical><verse>Looking downward, one goes to hell.
+
+[10083]
+<tibetan>།ཞེས་སོ།
+<literal>/thus/
+<liturgical><tantra>Thus it is spoken.
+
+[10084]
+<tibetan>།དེ་ལྟར་གསུང་གི་དམ་ཚིག་ལ་ཕྱེ་བས་དགུའོ།
+<literal>/thus speech's samaya in divided by nine/
+<liturgical><prose>Thus the samaya of Speech, divided, is nine.
+
+[10085]
+<tibetan>།གསུམ་པ་ཐུགས་ཀྱི་དམ་ཚིག་ཕྱི་ནང་གསང་བ་གསུམ་ལས།
+<literal>/third mind's samaya outer inner secret three from/
+<liturgical><ornament>Third: The samaya of Mind, from outer, inner, and secret.
+
+[10086]
+<tibetan>དང་པོ་ཕྱིའི་ཕྱི་གནོད་སེམས་སྤང་བ་སྟེ།
+<literal>first outer's outer harm-mind abandoning is/
+<liturgical><ornament>First: Outer's outer—harmful mind abandoning is.
+
+[10087]
+<tibetan>སྙིང་པོའི་དོན་རྣམ་པར་ལེན་པའི་རྒྱུད་ལས།
+<literal>essence's meaning aspect take one's tantra from/
+<liturgical><tantra>From the Essence Meaning Aspect-Taken Tantra:
+
+[10088]
+<tibetan>གང་དག་སྔགས་པ་རྡོ་རྗེ་འཛིན།
+<literal>whoever mantra one vajra holder/
+<liturgical><tantra>"Whoever mantra-holder vajra holder,
+
+[10089]
+<tibetan>།སེམས་ཅན་གཞན་ནམ་རང་ཡང་རུང༌།
+<literal>/being other or self also suffice*/
+<liturgical><tantra>Being other or self also suffice—
+
+[10090]
+<tibetan>།གནོད་པར་བྱ་བའི་སེམས་འཆང་ན།
+<literal>/harm do one's mind hold if/
+<liturgical><tantra>Harm-doing mind hold if,
+
+[10091]
+<tibetan>།འདི་ནི་ཤུ་བ་ཅན་གྱི་ལུས།
+<literal>/this leprosy having's body/
+<liturgical><tantra>This leprosy-possessed body,
+
+[10092]
+<tibetan>།གྲང་བའི་རེག་པར་ལྡན་པ་ཡི།
+<literal>/cold touch having one's/
+<liturgical><tantra>Cold touch possessing one,
+
+[10093]
+<tibetan>།ལུས་ནི་སྟོང་ཕྲག་ལྔ་བླངས་ནས།
+<literal>/body thousand-times five taken after/
+<liturgical><tantra>Body thousand-times five taken after,
+
+[10094]
+<tibetan>།གྲང་བའི་དམྱལ་བར་ངེས་པར་འགྱུར།
+<literal>/cold hell in certain become/
+<liturgical><tantra>Cold hell in certain becomes."
+
+[10095]
+<tibetan>།མཆོག་ཏུ་སྔགས་ལ་ཞུགས་པ་ལ།
+<literal>/supremely mantra in entered to/
+<liturgical><tantra>"Supremely mantra in entered to, || 10 ||
+
+[10096]
+<tibetan>།གནོད་པར་བྱ་བའི་སེམས་བྱས་ན།
+<literal>/harm do one's mind done if/
+<liturgical><tantra>Harm-doing mind done if,
+
+[10097]
+<tibetan>།གོང་མའི་སྡུག་བསྔལ་མྱོང་བར་འགྱུར།
+<literal>/above's suffering experience become/
+<liturgical><tantra>Above's suffering experience becomes."
+
+[10098]
+<tibetan>།ཅེས་སོ།
+<literal>/thus/
+<liturgical><tantra>Thus it is spoken.
+
+[10099]
+<tibetan>།ཕྱིའི་ནང་བླ་མ་དང་མཆེད་ལྕམ་ལ་གནོད་སེམས་སྤང་བ་སྟེ།
+<literal>/outer's inner guru and brother-sister to harm-mind abandoning is/
+<liturgical><prose>Outer's inner: guru and vajra siblings harmful mind abandoning is.
+
+[10100]
+<tibetan>གནམ་ལྕགས་མེ་འབར་བའི་རྒྱུད་ལས།
+<literal>sky-iron fire blazing one's tantra from/
+<liturgical><tantra>From the Sky-Iron Fire Blazing Tantra:
+
+[10101]
+<tibetan>གལ་ཏེ་སེམས་ཅན་ཕལ་པ་ལ།
+<literal>if being common to/
+<liturgical><tantra>"If being common to,
+
+[10102]
+<tibetan>།ཡུལ་གྱུར་གནོད་པའི་སེམས་སྐྱེས་ན།
+<literal>/object become harm's mind arise if/
+<liturgical><tantra>Object become harm's mind arise if—
+
+[10103]
+<tibetan>།འགྲོ་བ་ཐུན་མོང་ལུས་ཅན་ནི།
+<literal>/migrate world common body having/
+<liturgical><tantra>Migrate world common body possessing,
+
+[10104]
+<tibetan>།བརྒྱ་ཕྲག་གསུམ་གྱི་སྲོག་བཅད་པས།
+<literal>/hundred three of life cut by-means-of/
+<liturgical><tantra>Hundred three of life cut,
+
+[10105]
+<tibetan>།འདི་ཡི་སྡིག་པའི་ཆ་དང་མཉམ།
+<literal>/this one's sin's share equal/
+<liturgical><tantra>This one's sin's share equal. || 20 ||
+
+[10106]
+<tibetan>།གལ་ཏེ་བསྟན་པའི་རྟགས་འཛིན་པའི།
+<literal>/if teaching's sign hold one's/
+<liturgical><tantra>If teaching's sign hold one's
+
+[10107]
+<tibetan>།གཟུགས་ཅན་རྣམས་ལ་ལོག་འགྱུར་རོ།
+<literal>/form ones to wrong become/
+<liturgical><tantra>Form ones to wrong become,
+
+[10108]
+<tibetan>།སྔགས་ལ་ཞུགས་པས་ཕྲག་འགྱུར་རོ།
+<literal>/mantra in entered by-means-of hundred-times become/
+<liturgical><tantra>Mantra in entered hundred-times becomes.
+
+[10109]
+<tibetan>།རྡོ་རྗེའི་སྤུན་སྲིང་བདུན་ཕྲག་གོ
+<literal>/vajra's sibling seven-times
+<liturgical><break><tantra> Vajra's sibling seven-times,
+
+[10110]
+<tibetan>།བརྒྱུད་པའི་བླ་མ་བརྒྱ་ཕྲག་གོ
+<literal>/lineage's guru hundred-times
+<liturgical><tantra>Lineage's guru hundred-times,
+
+[10111]
+<tibetan>།རྩ་བའི་བླ་མ་དེ་ཡི་བརྒྱ།
+<literal>/root's guru that one's hundred/
+<liturgical><break><tantra> Root's guru that one's hundred.
+
+[10112]
+<tibetan>།སྔགས་ཀྱི་སྒོར་ཞུགས་དབང་ཐོབ་པས།
+<literal>/mantra's door entered empowerment obtained by-means-of/
+<liturgical><tantra>Mantra's door entered empowerment obtained,
+
+[10113]
+<tibetan>།མཆོག་ཏུ་རྣམ་སྨིན་དེ་ལྟར་རོ།
+<literal>/supremely aspect-ripen thus/
+<liturgical><tantra>Supremely aspect-ripen thus."
+
+[10114]
+<tibetan>།ཞེས་སོ།
+<literal>/thus/
+<liturgical><tantra>Thus it is spoken.
+
+[10115]
+<tibetan>།ཕྱིའི་གསང་བ་རང་གཞན་གྱི་གྲུབ་མཐའ་ལ་ལོག་ལྟ་སྐྱེས་པ་སྤང་བ་སྟེ།
+<literal>/outer's secret self-other's established-view to wrong-view arise abandoning is/
+<liturgical><prose>Outer's secret: self-other's established-view wrong-view arise abandoning is. || 30 ||
+
+[10116]
+<tibetan>བཀོད་པ་ཆེན་པོ་ལས།
+<literal>arrangement great from/
+<liturgical><tantra>From the Great Arrangement:
+
+[10117]
+<tibetan>རང་ངམ་གཞན་གྱི་གབ་པ་ཡི།
+<literal>self or other's hidden one's/
+<liturgical><tantra>"Self or other's hidden one's
+
+[10118]
+<tibetan>།ཆོས་ལ་སྨོད་པ་ལོག་པའི་ལམ།
+<literal>/dharma to disparage wrong one's path/
+<liturgical><tantra>Dharma disparage, wrong one's path—
+
+[10119]
+<tibetan>།རྩ་བའི་དམ་ཚིག་ལས་འདས་ནས།
+<literal>/root's samaya from exceed after/
+<liturgical><tantra>Root's samaya from exceed after,
+
+[10120]
+<tibetan>།ས་སྤྱོད་མེ་ཡི་སྡུག་བསྔལ་ལ།
+<literal>/earth- dwell fire's suffering to/
+<liturgical><tantra>Earth-dwell fire's suffering to,
+
+[10121]
+<tibetan>།ཡུན་རིང་བར་དུ་གནས་པའོ།
+<literal>/long time for dwell one's/
+<liturgical><tantra>Long time for dwell one,
+
+[10122]
+<tibetan>།རང་གི་གྲུབ་མཐར་ལོག་ལྟ་སྐྱེས།
+<literal>/self's established-view wrong-view arise/
+<liturgical><tantra>Self's established-view wrong-view arise,
+
+[10123]
+<tibetan>།དམྱལ་བ་ཉིད་ལས་ཐར་སྐབས་མེད།
+<literal>/hell itself from liberate chance not/
+<liturgical><tantra>Hell itself from liberate chance not."
+
+[10124]
+<tibetan>།ཅེས་སོ།
+<literal>/thus/
+<liturgical><tantra>Thus it is spoken.
+
+[10125]
+<tibetan>།ཐུགས་ཀྱི་ནང་གི་ཕྱི་སྤྱོད་པ་དང༌།
+<literal>/mind's inner's outer conduct and*/
+<liturgical><prose>Mind inner outer: conduct, and || 40 ||
+
+[10126]
+<tibetan>ནང་སྒོམ་པ་དང༌།
+<literal>inner meditate and*/
+<liturgical><prose>Inner: meditate, and
+
+[10127]
+<tibetan>གསང་བ་ལྟ་བ་ལོག་པ་སྤང་པ་སྟེ།
+<literal>secret view wrong abandoning is/
+<liturgical><prose>Secret: wrong view abandoning is.
+
+[10128]
+<tibetan>ཤེལ་གྱི་ཁང་བུ་བརྩེགས་པའི་རྒྱུད་ལས།
+<literal>crystal's house stacked one's tantra from/
+<liturgical><tantra>From the Crystal House Stacked Tantra:
+
+[10129]
+<tibetan>།ལྟ་དང་སྒོམ་དང་སྤྱོད་པ་ལོག
+<literal>/view and meditate and conduct wrong
+<liturgical><break><tantra> "View and meditate and conduct wrong—
+
+[10130]
+<tibetan>།འདི་ནི་ལམ་ལོག་ཆེན་པོ་སྟེ།
+<literal>/this path wrong great is/
+<liturgical><break><tantra> This path wrong great is.
+
+[10131]
+<tibetan>།སེམས་ཅན་ཀུན་གྱི་སྡུག་བསྔལ་གང༌།
+<literal>/being all's suffering whatever*/
+<liturgical><tantra>Being all's suffering whatever,
+
+[10132]
+<tibetan>།འདི་ཡི་སེམས་ལ་སྨིན་པར་ངེས།
+<literal>/this one's mind in ripen certain/
+<liturgical><tantra>This one's mind in ripen certain."
+
+[10133]
+<tibetan>།ཞེས་སོ།
+<literal>/thus/
+<liturgical><tantra>Thus it is spoken.
+
+[10134]
+<tibetan>།གསང་བའི་གསུམ་གྱི་ཕྱི་ལྟ་སྒོམ་སྤྱོད་པ།
+<literal>/secret's three's outer view meditate conduct/
+<liturgical><prose>Secret three outer: view meditate conduct,
+
+[10135]
+<tibetan>།ནང་ཡི་དམ་གྱི་ལྷ།
+<literal>/inner yi-dam's deity/
+<liturgical><prose>Inner: yi-dam's deity, || 50 ||
+
+[10136]
+<tibetan>གསང་བ་བླ་མ་དང་མཆེད་ལྕམ་ཉིན་ཞག་ཏུ་ཡིད་ལ་བྱས་པ་སྟེ།
+<literal>secret guru and brother-sister day-night in mind in done is/
+<liturgical><prose>Secret: guru and vajra siblings day-night in mind done is.
+
+[10137]
+<tibetan>པདྨ་ཀློང་ཀྱི་རྒྱུད་ལས།
+<literal>lotus expanse one's tantra from/
+<liturgical><tantra>From the Lotus Klong Tantra:
+
+[10138]
+<tibetan>སུ་ཡི་ཡིད་ཀྱི་ལས་འཁྱལ་ཏེ།
+<literal>who mind's karma wander and/
+<liturgical><tantra>"Who mind's karma wander, and
+
+[10139]
+<tibetan>།ཡིད་ལ་བྱ་བའི་ཆོས་རྣམས་ལ།
+<literal>/mind in do one's dharmas to/
+<liturgical><tantra>Mind done dharmas to,
+
+[10140]
+<tibetan>།ཡིད་ལ་མ་བྱས་ཉམས་པ་དང༌།
+<literal>/mind in not-done degenerate and*/
+<liturgical><tantra>Mind not-done degenerate, and
+
+[10141]
+<tibetan>།འདས་དང་ཞིག་པའི་ལས་ཀྱི་མཐའ།
+<literal>/past and ceased one's karma's end/
+<liturgical><tantra>Past and ceased one's karma's end,
+
+[10142]
+<tibetan>།མནར་མེད་སྡུག་བསྔལ་མྱོང་བའོ།
+<literal>/uninterrupted suffering experience one's/
+<liturgical><tantra>Uninterrupted suffering experience one."
+
+[10143]
+<tibetan>།ཞེས་པ་དང༌།
+<literal>/thus and*/
+<liturgical><tantra>Thus it is spoken, and
+
+[10144]
+<tibetan>ལྷན་ཅིག་སྐྱེས་པ་ཉེ་བར་ལེན་པའི་རྒྱུད་ལས།
+<literal>co-arise near take one's tantra from/
+<liturgical><tantra>From the Co-Arisen Near-Taken Tantra:
+
+[10145]
+<tibetan>དངོས་གྲུབ་མཆོག་ནི་འདོད་པ་ཡིས།
+<literal>actual-accomplish supreme desire by-means-of/
+<liturgical><tantra>"Actual-accomplish supreme desire, || 60 ||
+
+[10146]
+<tibetan>།ཡི་དམ་སྤང་བར་མི་བྱ་ཞིང༌།
+<literal>/yi-dam abandon not-do and*/
+<liturgical><tantra>Yi-dam abandon not-do, and
+
+[10147]
+<tibetan>།བླ་མ་སྤངས་ན་དངོས་གྲུབ་བརླག།
+<literal>/guru abandon if actual-accomplish destroy/
+<liturgical><tantra>Guru abandon if actual-accomplish destroyed.
+
+[10148]
+<tibetan>།
+<literal>/
+<liturgical><break><tantra> Other where accomplish also not-find.
+
+[10149]
+<tibetan>གཞན་དུ་བསྒྲུབས་ཀྱང་མི་རྙེད་དོ།
+<literal>other where accomplish also not-find/
+<liturgical><break><tantra> Therefore Dharma for promise taken, and
+
+[10150]
+<tibetan>།དེ་ཕྱིར་ཆོས་ཕྱིར་ཁས་བླངས་དང༌།
+<literal>/therefore dharma for promise taken and*/
+<liturgical><tantra>Guru's before samaya pledged one's
+
+[10151]
+<tibetan>།བླ་མའི་མདུན་དུ་དམ་བཅས་པ།
+<literal>/guru's before samaya pledged one's/
+<liturgical><tantra>Mind thought one's virtue's karma—
+
+[10152]
+<tibetan>།ཡིད་ལ་བསམས་པའི་དགེ་བའི་ལས།
+<literal>/mind in thought one's virtue's karma/
+<liturgical><tantra>That self abandon if actual-accomplish degenerates."
+
+[10153]
+<tibetan>།དེ་ཉིད་སྤངས་ན་དངོས་གྲུབ་ཉམས།
+<literal>/that self abandon if actual-accomplish degenerate/
+<liturgical><tantra>Thus it is spoken, and
+
+[10154]
+<tibetan>།ཞེས་པ་དང༌།
+<literal>/thus and*/
+<liturgical><tantra>Thus it is spoken, and
+
+[10155]
+<tibetan>དམ་ཚིག་རྣམ་པར་བཀོད་པ་མཆོག་གི་སྡོང་པོའི་རྒྱུད་ལས།
+<literal>samaya aspects arranged supreme's trunk one's tantra from/
+<liturgical><tantra>From the Tantra of the Supreme Trunk of Samaya Arrangements: || 70 ||
+
+[10156]
+<tibetan>དམ་བཅའ་འདའ་བར་མི་བྱ་ཞིང༌།
+<literal>promise cross not-do and*/
+<liturgical><tantra>"Promises must not be transgressed;
+
+[10157]
+<tibetan>།བླ་མའི་ཁས་བླངས་མི་བཅག་ལ།
+<literal>/guru's promise not-break/
+<liturgical><tantra>The guru's commitments must not be broken.
+
+[10158]
+<tibetan>།བླ་མའི་བྱ་བ་མ་ལོག་དང༌།
+<literal>/guru's deed not-wrong and*/
+<liturgical><tantra>The guru's activities must not be wrong;
+
+[10159]
+<tibetan>།རང་གི་ལུས་ངག་སེམས་རྣམས་ཀུན།
+<literal>/self's body speech mind all/
+<liturgical><tantra>One's body, speech, and mind—all
+
+[10160]
+<tibetan>།ཆོས་ལས་གཞན་པར་མི་བྱའོ།
+<literal>/dharma from other not-do/
+<liturgical><tantra>Must not stray from Dharma.
+
+[10161]
+<tibetan>།སེམས་ཅན་ཀུན་གྱི་དོན་བྱ་ཞིང༌།
+<literal>/being all's benefit do and*/
+<liturgical><tantra>Acting for the benefit of all beings,
+
+[10162]
+<tibetan>།རྟག་ཏུ་བླ་མ་ལ་གུས་དང༌།
+<literal>/always guru to respect and*/
+<liturgical><tantra>Always respecting the guru,
+
+[10163]
+<tibetan>།དམ་ཚིག་མཆོག་ལས་འདའ་མི་བྱ།
+<literal>/samaya supreme from cross not-do/
+<liturgical><tantra>Not transgressing supreme samaya.
+
+[10164]
+<tibetan>།རྡོ་རྗེ་ལ་དྲིལ་བུ་གཟུང་བ་དང༌།
+<literal>/vajra to bell hold and*/
+<liturgical><tantra>Holding vajra and bell,
+
+[10165]
+<tibetan>།སྔགས་ལ་འོས་པའི་རྫས་རྣམས་གཟུང༌།
+<literal>/mantra to suitable substances hold*/
+<liturgical><tantra>Holding substances suitable for mantra. || 80 ||
+
+[10166]
+<tibetan>།སྤྱིར་ཡང་རྩ་བའི་དམ་ཚིག་ལས།
+<literal>/general also root's samaya from/
+<liturgical><tantra>Generally, from root samaya:
+
+[10167]
+<tibetan>།གསང་བར་འོས་དང་གཉེར་གཏད་དང༌།
+<literal>/secret suitable and entrust and*/
+<liturgical><tantra>What should be secret and entrusted,
+
+[10168]
+<tibetan>།གསང་བར་ཁས་བླངས་དམ་བཅས་དང༌།
+<literal>/secret promise pledge and*/
+<liturgical><tantra>Secret promises and pledges—
+
+[10169]
+<tibetan>།སྨྲས་དང་ཡིད་ཀྱིས་ལོག་སྤྱད་ན།
+<literal>/spoke and mind by-means-of wrong conduct if/
+<liturgical><tantra>If wrong conduct with speech or mind,
+
+[10170]
+<tibetan>།འདི་ཡང་མནར་མེད་རྒྱུད་འཕེལ་འགྱུར།
+<literal>/this also uninterrupted continuum increase become/
+<liturgical><tantra>This too will increase the uninterrupted continuum.
+
+[10171]
+<tibetan>།དབང་ལས་བྱུང་བའི་ཁྱད་པར་ཆོས།
+<literal>/empowerment from arise one's distinction dharma/
+<liturgical><tantra>Distinctive Dharma arising from empowerment
+
+[10172]
+<tibetan>།གཞན་ལ་མི་བསྒྲག་སེམས་ལ་སྦྱར།
+<literal>/other to not-reveal mind in join/
+<liturgical><tantra>Must not be revealed to others; join with mind.
+
+[10173]
+<tibetan>།བླ་མའི་ཐུགས་ལ་གནོད་པ་ཡི།
+<literal>/guru's mind to harm one's/
+<liturgical><tantra>The guru's mind—if harmed
+
+[10174]
+<tibetan>།ལུས་སམ་ངག་གམ་ཡིད་དག་གིས།
+<literal>/body or speech or mind by/
+<liturgical><tantra>By body, speech, or mind—
+
+[10175]
+<tibetan>།བྱ་བ་ལོག་པ་མི་བྱའོ།
+<literal>/deed wrong not-do/
+<liturgical><tantra>Wrong deeds must not be done. || 90 ||
+
+[10176]
+<tibetan>།དེ་བཞིན་རྡོ་རྗེའི་སྤུན་སྲིང་ལ།
+<literal>/thus vajra's sibling to/
+<liturgical><tantra>Similarly, toward vajra siblings
+
+[10177]
+<tibetan>།གནོད་ཅིང་འཚེ་བར་མི་བྱའོ།
+<literal>/harm and injure not-do/
+<liturgical><tantra>Harm and injury must not be done."
+
+[10178]
+<tibetan>།ཞེས་སོ།
+<literal>/thus/
+<liturgical><tantra>Thus it is spoken.
+
+[10179]
+<tibetan>།དེ་ལྟར་སྐུ་གསུང་ཐུགས་ཀྱི་དབྱེ་བས་ཉི་ཤུ་་རྩ་བདུན་གྱི་དམ་ཚིག་བསྲུང་བ་ནི་འདིའི་ཁྱད་པར་གྱི་ཆོས་སོ།
+<literal>/thus body speech mind's distinction by twenty-seven's samaya guard is this one's distinction dharma/
+<liturgical><prose>Thus, guarding the twenty-seven samayas of body, speech, and mind distinctions is the distinctive Dharma here.
+
+[10180]
+<tibetan>།གཞན་ཡང་ཐལ་འགྱུར་ལས།
+<literal>/other also consequence from/
+<liturgical><tantra>Furthermore, from the Consequence:
+
+[10181]
+<tibetan>གཞན་ཡང་དམ་ཚིག་སྡོམ་པ་བཤད།
+<literal>other also samaya discipline explain/
+<liturgical><tantra>"Furthermore, samaya and discipline explained:
+
+[10182]
+<tibetan>།བླ་མ་སངས་རྒྱས་མཆོད་པའི་རྟེན།
+<literal>/guru buddha worship's basis/
+<liturgical><tantra>The guru is the basis of Buddha worship,
+
+[10183]
+<tibetan>།ཆོས་དང་དགེ་འདུན་ཡི་དམ་ལྷ།
+<literal>/dharma and sangha yi-dam deity/
+<liturgical><tantra>Dharma and Sangha, yi-dam deity,
+
+[10184]
+<tibetan>།རྡོ་རྗེ་མཁའ་འགྲོ་མ་རྣམས་ལ།
+<literal>/vajra sky-goer ones to/
+<liturgical><tantra>Vajra sky-goers—to these
+
+[10185]
+<tibetan>།ཚོགས་དང་མཆོད་པ་རྒྱུན་མི་བཅད།
+<literal>/gathering and worship stream not-cut/
+<liturgical><tantra>Gathering and worship must not cease. || 100 ||
+
+[10186]
+<tibetan>།བླ་མ་མཚན་ཉིད་ལྡན་མཐོང་ན།
+<literal>/guru characteristic having see if/
+<liturgical><tantra>Seeing a guru with proper characteristics,
+
+[10187]
+<tibetan>།བསྟོད་དང་མཆོད་པ་རྫོགས་པར་བྱ།
+<literal>/praise and worship complete do/
+<liturgical><tantra>Praise and worship should be complete.
+
+[10188]
+<tibetan>།བུད་མེད་མི་སྨད་ཁྲོ་མི་བྱ།
+<literal>/woman not-disparage anger not-do/
+<liturgical><tantra>Do not disparage women, do not be angry.
+
+[10189]
+<tibetan>།ཕུང་པོ་མི་སྨད་ཡི་དམ་བསྟེན།
+<literal>/aggregate not-disparage yi-dam rely/
+<liturgical><tantra>Do not disparage aggregates; rely on yi-dam.
+
+[10190]
+<tibetan>།དཀྱིལ་འཁོར་དང་ནི་སྔགས་དང་ལྷ།
+<literal>/mandala and mantra and deity/
+<liturgical><tantra>Mandala, mantra, and deity,
+
+[10191]
+<tibetan>།ཕྱག་རྒྱ་བསྟེན་པ་ཡང་དག་ཉིད།
+<literal>/mudra rely actual indeed/
+<liturgical><tantra>Mudra reliance is indeed proper.
+
+[10192]
+<tibetan>།དད་ཅན་ཚོགས་ཉིད་མི་བཅག་ལ།
+<literal>/faithful gathering self not-break/
+<liturgical><tantra>Do not break the faithful gathering,
+
+[10193]
+<tibetan>།དགེ་ལྡན་སེམས་ནི་མི་དཀྲུགས་ཏེ།
+<literal>/virtue-having mind not-disturb/
+<liturgical><tantra>Do not disturb the virtuous mind.
+
+[10194]
+<tibetan>།སྡོམ་ལྡན་དམ་ཚིག་གནས་པར་བྱ།
+<literal>/discipline-having samaya dwell do/
+<liturgical><tantra>The discipline-possessed should dwell in samaya.
+
+[10195]
+<tibetan>།གཞན་ཡང་བསླབ་པའི་རིམ་པ་ནི།
+<literal>/other also training's sequence is/
+<liturgical><tantra>Furthermore, the training sequence: || 110 ||
+
+[10196]
+<tibetan>།ལུས་ཀྱི་སྤྱོད་པ་རྫོགས་བྱ་སྟེ།
+<literal>/body's conduct complete do/
+<liturgical><tantra>Complete bodily conduct,
+
+[10197]
+<tibetan>།ངག་ནི་རབ་ཏུ་གཅད་པར་བྱ།
+<literal>/speech very cut do/
+<liturgical><tantra>Speech must be strictly restrained.
+
+[10198]
+<tibetan>།སེམས་ནི་གནས་དང་བརྟག་ཅིང་དཔྱད།
+<literal>/mind dwell and examine and analyze/
+<liturgical><tantra>Mind dwells, examines, and analyzes.
+
+[10199]
+<tibetan>།རིམ་འཇུག་ལས་ཀྱི་རིམ་པ་བྱ།
+<literal>/sequence enter karma's sequence do/
+<liturgical><tantra>Enter sequence, do karma sequence.
+
+[10200]
+<tibetan>།རྟག་ཏུ་ཕྱག་དང་རི་ལུའི་ལས།
+<literal>/always hand and pill's karma/
+<liturgical><tantra>Always hand and pill karma,
+
+[10201]
+<tibetan>།རྩ་རྣམས་ཐིག་ལེའི་དྲྭ་བར་གཞུག
+<literal>/channels all drop's net in place
+<liturgical><break><tantra> Place all channels in the drop-net.
+
+[10202]
+<tibetan>།ཕྲེང་བ་དོ་ཤལ་ཕྱེད་པ་ཡང༌།
+<literal>/garland necklace half also*/
+<liturgical><break><tantra> Garland and necklace, even half,
+
+[10203]
+<tibetan>།མཛེས་ཤིང་འཁོར་ལོ་སྒྲེལ་བར་བྱ།
+<literal>/beautiful and wheel conduct/
+<liturgical><tantra>Beautifully conduct the wheel.
+
+[10204]
+<tibetan>།དངོས་གྲུབ་མཆོག་གི་གཙོ་བོ་བླང༌།
+<literal>/actual-accomplish supreme's chief take*/
+<liturgical><tantra>Take the chief of supreme attainments,
+
+[10205]
+<tibetan>།གནས་དྲུག་རྒྱན་གྱི་འཁོར་ལོས་བྱའོ།
+<literal>/place six ornament by-means-of wheel by-means-of do/
+<liturgical><tantra>Do with the wheel of six place-ornaments. || 120 ||
+
+[10206]
+<tibetan>།ཞེས་པ་རྣམས་ལའང་འདའ་ཉམས་མེད་པས་ནན་ཏན་བྱའོ།
+<literal>/thus ones to-also cross-degenerate not by-means-of earnest do/
+<liturgical><tantra>All these, without transgression or degeneration, must be earnestly done.
+
+[10207]
+<tibetan>།འདི་དག་ལས་འདས་ན་ཉེས་པ་ཚད་མེད་དེ།
+<literal>/this from exceed if fault measureless/
+<liturgical><tantra>If these are exceeded, faults are measureless."
+
+[10208]
+<tibetan>།འཁོར་ལོ་རིན་པོ་ཆེ་རྣམ་པར་བརྩེགས་པའི་རྒྱུད་ལས།
+<literal>/wheel jewel aspects stacked one's tantra from/
+<liturgical><tantra>From the Tantra of the Jewel-Stacked Wheel:
+
+[10209]
+<tibetan>སྐུ་ཡི་དམ་ཚིག་ལས་འདས་ན།
+<literal>body's samaya from exceed if/
+<liturgical><tantra>"If body samaya is transgressed,
+
+[10210]
+<tibetan>།སངས་རྒྱས་སྐུ་ཞེས་ཚིག་དང་འབྲལ།
+<literal>/buddha body called word separate/
+<liturgical><tantra>One is separated from the word called Buddha-body.
+
+[10211]
+<tibetan>།འདི་ལྟར་ཁམས་གསུམ་སེམས་ཅན་རྣམས།
+<literal>/thus realm three being all/
+<liturgical><tantra>Thus, all beings of the three realms—
+
+[10212]
+<tibetan>།སྲོག་ནི་དུས་གཅིག་བཅད་པ་བས།
+<literal>/life time one cut by-means-of/
+<liturgical><tantra>Compared to cutting life at one time,
+
+[10213]
+<tibetan>།ཕས་ཕམ་པས་ནི་སྡིག་མཐའ་ཡས།
+<literal>/defeat by-means-of sin end limitless/
+<liturgical><tantra>By defeat, sin is limitless.
+
+[10214]
+<tibetan>།དེ་བཞིན་གསུང་གི་ཞིག་པ་ན།
+<literal>/thus speech's cease if/
+<liturgical><tantra>Similarly, if speech ceases,
+
+[10215]
+<tibetan>།སངས་རྒྱས་གསུང་གི་ཚིག་མི་གནས།
+<literal>/buddha speech's word not-dwell/
+<liturgical><tantra>Buddha-speech's word does not dwell. || 130 ||
+
+[10216]
+<tibetan>།ཁམས་གསུམ་སེམས་ཅན་ཐམས་ཅད་ཀྱི།
+<literal>/realm three being all's/
+<liturgical><tantra>Of all beings of the three realms,
+
+[10217]
+<tibetan>།ལྕེ་ཡི་དབང་བོ་དུས་གཅིག་ལ།
+<literal>/tongue's faculty time one at/
+<liturgical><tantra>The tongue faculty at one time
+
+[10218]
+<tibetan>།བཅད་པའི་སྡིག་པས་འདི་མཐའ་ཡས།
+<literal>/cut one's sin by-means-of this end limitless/
+<liturgical><tantra>Cut—by this sin is limitless.
+
+[10219]
+<tibetan>།གལ་ཏེ་ཐུགས་ཉམས་གྱུར་པ་ཡང༌།
+<literal>/if mind degenerate become also*/
+<liturgical><tantra>If mind degenerates,
+
+[10220]
+<tibetan>།ཁམས་གསུམ་གང་བའི་བསམ་གཏན་པའི།
+<literal>/realm three fill one's meditation one's/
+<liturgical><tantra>Filling the three realms with meditators,
+
+[10221]
+<tibetan>།དགེ་ལ་གནས་པའི་དགེ་སློང་རྣམས།
+<literal>/virtue in dwell one's virtuous-monk ones/
+<liturgical><tantra>Virtuous monks dwelling in virtue,
+
+[10222]
+<tibetan>།དུས་གཅིག་སེམས་དཀྲུགས་སེམས་སུན་ཕྱུང༌།
+<literal>/time one mind disturb mind expel*/
+<liturgical><tantra>At one time disturbing mind, expelling mind—
+
+[10223]
+<tibetan>།འདི་བས་སྡིག་པ་ཆེས་འཕེལ་འགྱུར།
+<literal>/this by-means-of sin more increase become/
+<liturgical><tantra>By this, sin increases more."
+
+[10224]
+<tibetan>།ཅེས་སོ།
+<literal>/thus/
+<liturgical><tantra>Thus it is spoken.
+
+[10225]
+<tibetan>།ཁྱད་པར་དུ་བླ་མ་ལ་བརྟེན་པའི་ཉམས་ཆགས་ལྕི་སྟེ།
+<literal>/distinction by guru to rely one's degenerate-fall heavy is/
+<liturgical><prose>Especially, degenerate fall from relying on the guru is heavy. || 140 ||
+
+[10226]
+<tibetan>དཔལ་ནམ་མཁའ་མི་ཟད་པའི་རྒྱུད་ལས།
+<literal>glorious sky not-exhausted one's tantra from/
+<liturgical><tantra>From the Glorious Sky-Not-Exhausted Tantra:
+
+[10227]
+<tibetan>གལ་ཏེ་ངན་པའི་སེམས་མེད་པར།
+<literal>if bad mind not-have/
+<liturgical><tantra>"If without bad mind,
+
+[10228]
+<tibetan>།དྲན་པ་ཉམས་པས་རྨི་ལམ་མམ།
+<literal>/mindfulness degenerate by-means-of dream or/
+<liturgical><tantra>By degenerate mindfulness in dream,
+
+[10229]
+<tibetan>།བག་མེད་གྱུར་པའི་མི་དགེ་རྣམས།
+<literal>/carelessness become one's non-virtue ones/
+<liturgical><tantra>Or non-virtues becoming careless,
+
+[10230]
+<tibetan>།བླ་མ་ལ་དམིགས་བཤགས་པར་བྱ།
+<literal>/guru to aimed confess do/
+<liturgical><tantra>Confess aimed at the guru.
+
+[10231]
+<tibetan>།ལུས་ཀྱི་ཉེས་པ་ལུས་ཀྱིས་ཏེ།
+<literal>/body's fault body by-means-of/
+<liturgical><tantra>Bodily fault by body,
+
+[10232]
+<tibetan>།དེ་བཞིན་ངག་དང་སེམས་ཀྱང་ངོ༌།
+<literal>/thus speech and mind also/
+<liturgical><tantra>Thus speech and mind also.
+
+[10233]
+<tibetan>།དེ་མ་ཐག་ཏུ་མ་བཤགས་ན།
+<literal>/immediately not-confess if/
+<liturgical><tantra>If not confessed immediately,
+
+[10234]
+<tibetan>།འདིས་ཀྱང་མནར་མེད་སྡུག་བསྔལ་མྱོང༌།
+<literal>/this by-means-of also uninterrupted suffering experience*/
+<liturgical><tantra>By this too, experience uninterrupted suffering."
+
+[10235]
+<tibetan>།ཞེས་སོ།
+<literal>/thus/
+<liturgical><tantra>Thus it is spoken. || 150 ||
+
+[10236]
+<tibetan>།དེའང་བླ་མ་ནི་སངས་རྒྱས་ཐམས་ཅད་ཀྱང་ངོ་བོ་ཡིན་ལ།
+<literal>/that-also guru is buddha all also nature in/
+<liturgical><tantra>Moreover, the guru is the nature of all Buddhas,
+
+[10237]
+<tibetan>བདག་ལ་བླ་ན་མེད་པའི་ཆོས་ད་རེས་ཀྱིས་འཁོར་བ་ལས་སྒྲོལ་བ་སྟོན་པས་ཡུལ་གཉན་པའི་ཕྱིར།
+<literal>self to supreme dharma this time by-means-of samsara from liberate show by-means-of object fierce therefore/
+<liturgical><tantra>Teaching to liberate from saṃsāra by supreme Dharma at this time; therefore the object is fierce.
+
+[10238]
+<tibetan>ཇི་སྐད་གསུངས་པ་བཞིན་བསྒྲུབ་ཅིང༌།
+<literal>as spoke as accomplish and*/
+<liturgical><tantra>Accomplish as spoken,
+
+[10239]
+<tibetan>།མ་དད་པ་དང༌།
+<literal>/not-faith and*/
+<liturgical><tantra>Abandoning non-faith,
+
+[10240]
+<tibetan>ལོག་པར་སེམས་པ་དང༌།
+<literal>/wrong mind and*/
+<liturgical><tantra>Wrong mind,
+
+[10241]
+<tibetan>འཚེ་བ་དང༌།
+<literal>harm and*/
+<liturgical><tantra>Harm,
+
+[10242]
+<tibetan>སྨྲ་བ་ལ་སོགས་པ་སྤང་དགོས་ཏེ།
+<literal>speak etc. abandon must/
+<liturgical><tantra>And speaking, etc.
+
+[10243]
+<tibetan>སློབ་དཔོན་ཆེན་པོ་དགའ་རབ་རྡོ་རྗེའི་ཞལ་སྔ་ནས།
+<literal>master great joy vajra's mouth before from/
+<liturgical><tantra>From the mouth of the great master Joy Vajra:
+
+[10244]
+<tibetan>བླ་མ་མཆོག་གིས་བཀའ་སྩལ་པ།
+<literal>guru supreme by-means-of command given/
+<liturgical><tantra>"The supreme guru commanded:
+
+[10245]
+<tibetan>།གལ་ཏེ་ཉེས་པའི་སྐྱོན་རིག་ཀྱང༌།
+<literal>/if fault's flaw know also*/
+<liturgical><tantra>If knowing the flaw of faults, || 160 ||
+
+[10246]
+<tibetan>།ཇི་སྐད་སྨྲས་པ་དེ་བཞིན་བྱ།
+<literal>/as spoke that thus do/
+<liturgical><tantra>Do as spoken.
+
+[10247]
+<tibetan>།དེ་བཞིན་བླ་མའི་བྱ་བ་ལ།
+<literal>/thus guru's deed to/
+<liturgical><tantra>Thus, toward the guru's activity,
+
+[10248]
+<tibetan>།ལུས་ཀྱི་སྡུག་བསྔལ་མཆོག་གྱུར་ཀྱང༌།
+<literal>/body's suffering supreme become also*/
+<liturgical><tantra>Even if body's suffering becomes supreme,
+
+[10249]
+<tibetan>།རང་གི་ནུས་པས་འབད་དེ་བྱ།
+<literal>/self's ability by-means-of effort do/
+<liturgical><tantra>By one's own ability, make effort to do.
+
+[10250]
+<tibetan>།བླ་མའི་ཐུགས་ནི་སྐད་ཅིག་ཀྱང༌།
+<literal>/guru's mind moment even*/
+<liturgical><tantra>The guru's mind, even for a moment,
+
+[10251]
+<tibetan>།དཀྲུག་པར་བྱ་བ་མ་ཡིན་ནོ།
+<literal>/disturb do not/
+<liturgical><tantra>Must not be disturbed.
+
+[10252]
+<tibetan>།བླ་མའི་ཟས་དང་ནོར་རྣམས་ལ།
+<literal>/guru's food and wealth to/
+<liturgical><tantra>Toward the guru's food and wealth,
+
+[10253]
+<tibetan>།རང་གི་སྲོག་པས་ཕངས་པ་བཞིན།
+<literal>/self's life by-means-of cherish as/
+<liturgical><tantra>As one cherishes one's own life,
+
+[10254]
+<tibetan>།རྣལ་འབྱོར་པས་ནི་རྟག་ཏུ་བྱ།
+<literal>/yogi by-means-of always do/
+<liturgical><tantra>The yogi must always act.
+
+[10255]
+<tibetan>།གལ་ཏེ་བླ་མའི་ཞིང་ཁམས་སུ།
+<literal>/if guru's realm in/
+<liturgical><tantra>If in the guru's realm, || 170 ||
+
+[10256]
+<tibetan>།ཆོས་བཤད་དབང་བསྐུར་རབ་གནས་དང༌།
+<literal>/dharma teach empowerment consecrate and*/
+<liturgical><tantra>Teaching Dharma, empowerment, consecration,
+
+[10257]
+<tibetan>།བསམ་གཏན་བསྒོམ་པར་བྱ་བ་རྣམས།
+<literal>/meditation meditate do one's all/
+<liturgical><tantra>And all meditations to be done,
+
+[10258]
+<tibetan>།རྗེས་མ་གནང་བར་མི་བྱའོ།
+<literal>/later not-give not-do/
+<liturgical><tantra>Must not be done without subsequent permission.
+
+[10259]
+<tibetan>།མདོར་ན་ལུས་དང་ངག་ཡིད་ཀྱིས།
+<literal>/brief body and speech mind by-means-of/
+<liturgical><tantra>Briefly, by body, speech, and mind,
+
+[10260]
+<tibetan>།བྱ་བའི་རྣམ་པ་གང་བྱེད་ཀྱང༌།
+<literal>/deed's aspect whatever do also*/
+<liturgical><tantra>Whatever deed's aspect is done,
+
+[10261]
+<tibetan>།བླ་མར་མ་ཞུས་མ་གནང་བར།
+<literal>/guru to not-asked not-given/
+<liturgical><tantra>Without asking the guru, without permission,
+
+[10262]
+<tibetan>།ཅུང་ཟད་ཙམ་ཡང་མི་བྱའོ།
+<literal>/little even not-do/
+<liturgical><tantra>Even a little must not be done.
+
+[10263]
+<tibetan>།གཞན་ཡང་དགེ་བའི་ལས་གང་ཡང༌།
+<literal>/other also virtue's karma whatever*/
+<liturgical><tantra>Furthermore, whatever virtuous karma,
+
+[10264]
+<tibetan>།བླ་མ་ལ་ཞུས་བརྩམ་པར་བྱ།
+<literal>/guru to asked begin do/
+<liturgical><tantra>Begin by asking the guru.
+
+[10265]
+<tibetan>།རྣལ་འབྱོར་སྤྱོད་ལམ་ཐམས་ཅད་དུ།
+<literal>/yogi conduct all in/
+<liturgical><tantra>In all yogic conduct, || 180 ||
+
+[10266]
+<tibetan>།བླ་མ་མཆོག་དང་འབྲལ་མི་བྱ།
+<literal>/guru supreme separate not-do/
+<liturgical><tantra>Must not separate from the supreme guru.
+
+[10267]
+<tibetan>།དུས་གསུམ་ཟས་ནི་ནམ་ཟ་ཡང༌།
+<literal>/time three food time whenever-eat also*/
+<liturgical><tantra>Whenever eating food of the three times,
+
+[10268]
+<tibetan>།སུམ་ཆར་བཅད་པའི་ཕུད་རྣམས་ཀྱིས།
+<literal>/three-parts cut one's first-portion by-means-of/
+<liturgical><tantra>With first portions cut in three parts,
+
+[10269]
+<tibetan>།བླ་མ་མཆོག་ལ་དབུལ་བར་བྱ།
+<literal>/guru supreme to offer do/
+<liturgical><tantra>Must offer to the supreme guru.
+
+[10270]
+<tibetan>།ནོར་དང་དཀོན་པའི་རིན་པོ་ཆེས།
+<literal>/wealth and rare jewel by-means-of/
+<liturgical><tantra>By wealth and rare jewels,
+
+[10271]
+<tibetan>།བླ་མ་རྡོ་རྗེའི་འཛིན་པ་ལ།
+<literal>/guru vajra's holder to/
+<liturgical><tantra>To the guru, vajra holder,
+
+[10272]
+<tibetan>།འདོད་པ་མེད་ཀྱང་ཕྱོགས་སུ་དབུལ།
+<literal>/desire not-have although portion to offer/
+<liturgical><tantra>Without desire, offer portions.
+
+[10273]
+<tibetan>།ཅི་དང་ཅི་ཡི་ཕུད་རྣམས་ཀྱིས།
+<literal>/what and what of first-portion by-means-of/
+<liturgical><tantra>With first portions of whatever and whatever,
+
+[10274]
+<tibetan>།བླ་མ་མཆོག་ལ་བསྔོས་ཏེ་དབུལ།
+<literal>/guru supreme to dedicate offer/
+<liturgical><tantra>Dedicate and offer to the supreme guru.
+
+[10275]
+<tibetan>།མདོར་ན་བདག་གི་བསམ་པ་ཀུན།
+<literal>/brief self's mind all/
+<liturgical><tantra>Briefly, all of one's mind, || 190 ||
+
+[10276]
+<tibetan>།རྣམ་པར་དག་པ་ཟོལ་མེད་པར།
+<literal>/aspect pure pretense not-have/
+<liturgical><tantra>Pure aspect, without pretense,
+
+[10277]
+<tibetan>།བླ་མའི་ཕྱོགས་སུ་དམིགས་པར་བྱ།
+<literal>/guru's portion to aim do/
+<liturgical><tantra>Aim toward the guru's portion.
+
+[10278]
+<tibetan>།ལེགས་པའི་ཡོན་ཏན་ཐམས་ཅད་འགྲུབ།
+<literal>/good one's quality all accomplish/
+<liturgical><tantra>All good qualities will be accomplished."
+
+[10279]
+<tibetan>།ཅེས་སོ།
+<literal>/thus/
+<liturgical><tantra>Thus it is spoken.
+
+[10280]
+<tibetan>།དགོས་པ་ནི་ཐལ་འགྱུར་ལས།
+<literal>/purpose is consequence from/
+<liturgical><prose>Purpose is from the Consequence:
+
+[10281]
+<tibetan>བླ་མ་བསྟེན་པས་འཁོར་རྒྱུན་འགག
+<literal>guru rely by-means-of circle stream stop
+<liturgical><break><verse> "Guru rely, circle stream stop.
+
+[10282]
+<tibetan>།དབང་བསྐུར་བསྟེན་པས་ལུས་ངག་སྨིན།
+<literal>/empowerment rely by-means-of body speech ripen/
+<liturgical><break><verse> Empowerment rely, body speech ripen.
+
+[10283]
+<tibetan>།དམ་ཚིག་བསྟེན་པས་དངོས་གྲུབ་བྱུང༌།
+<literal>/samaya rely by-means-of actual-accomplish arise*/
+<liturgical><verse>Samaya rely, actual-accomplish arise.
+
+[10284]
+<tibetan>།ལྟ་བ་བསྟེན་པས་ཁམས་གསུམ་འཆད།
+<literal>/view rely by-means-of realm three cease/
+<liturgical><verse>View rely, realm three cease.
+
+[10285]
+<tibetan>།སྒོམ་པ་བསྟེན་པས་འཁྲུལ་པ་འགག
+<literal>/meditate rely by-means-of delusion stop
+<liturgical><break><verse> Meditate rely, delusion stop. || 200 ||
+
+[10286]
+<tibetan>།སྤྱོད་པ་བསྟེན་པས་ལུས་སྦྱངས་འགྱུར།
+<literal>/conduct rely by-means-of body purified become/
+<liturgical><break><verse> Conduct rely, body purified become.
+
+[10287]
+<tibetan>།བསྟེན་བྱ་འདི་ལས་གང་བྱུང་བ།
+<literal>/rely this from whatever arise/
+<liturgical><verse>Rely this from whatever arise—
+
+[10288]
+<tibetan>།འདི་ཉིད་དམ་ཚིག་སྡོམ་པའོ།
+<literal>/this self samaya discipline's/
+<liturgical><verse>This self samaya discipline's."
+
+[10289]
+<tibetan>།ཞེས་སོ།
+<literal>/thus/
+<liturgical><tantra>Thus it is spoken.
+
+[10290]
+<tibetan>།དེ་ཡང་དམ་ཚིག་གི་རིམ་པ་ལས་འདས་ན་བསྐང་བའི་ཆོ་ག་ལ་འབད་ཅིང༌།
+<literal>/that also samaya's sequence from exceed if restore's ritual to effort and*/
+<liturgical><prose>That also: samaya's sequence from exceed if, restore's ritual to effort, and
+
+[10291]
+<tibetan>སོ་སོའི་འདའ་ཉམས་ཀྱི་ཁྱད་ཤེས་པས་བཤགས་པར་བྱའོ།
+<literal>respective's cross-degenerate's distinction know by-means-of confess do/
+<liturgical><prose>Respective cross-degenerate's distinction know, confess do.
+
+[10292]
+<tibetan>།ངོ་བོའི་འདའ་ཉམས་ནི་བཤད་པ་རྣམས་ཡིན་ལ།
+<literal>/nature's cross-degenerate is explained ones in/
+<liturgical><prose>Nature's cross-degenerate is explained ones in,
+
+[10293]
+<tibetan>དུས་ཀྱི་འདའ་ཉམས་ནི་དམ་ཚིག་ཉམས་པ་གཅིག་ལའང༌།
+<literal>time's cross-degenerate is samaya degenerate one to-also*/
+<liturgical><prose>Time's cross-degenerate is samaya degenerate one to also,
+
+[10294]
+<tibetan>དུས་རིང་དུ་སོང་ཞིང་ལྕིར་སོང་བས།
+<literal>time long to gone and heavy to gone by-means-of/
+<liturgical><prose>Time long to gone and heavy to gone,
+
+[10295]
+<tibetan>ཉམས་པའི་འགལ་བ།
+<literal>degenerate's contradict/
+<liturgical><prose>Degenerate's contradict, || 210 ||
+
+[10296]
+<tibetan>ཉམས་པ།
+<literal>degenerate/
+<liturgical><prose>Degenerate,
+
+[10297]
+<tibetan>འདས་པ།
+<literal>crossed/
+<liturgical><prose>Crossed,
+
+[10298]
+<tibetan>རལ་བ་དང་བཞིར་ཤེས་པར་བྱའོ།
+<literal>loose and four know do/
+<liturgical><prose>Loose—these four know do.
+
+[10299]
+<tibetan>།དེ་ལ་དམ་ཚིག་ལས་འགལ་བ་ནི་ཕྱོགས་མཐུན་གྱི་ཉེས་པས་གོས་པ་ཡིན་མོད་ཀྱི།སྐབས་འདིར་ཉམས་པའི་འགལ་བ་ལ་སྦྱར་ན།
+<literal>/that in samaya from contradict is direction agree's fault by-means-of tainted is although/this occasion in degenerate's contradict to apply if/
+<liturgical><prose>That in: samaya from contradict is direction agree's fault tainted is although, this occasion in degenerate's contradict to apply if,
+
+[10300]
+<tibetan>དམ་ཚིག་ཉམས་པའི་ཉེས་པ་ཞག་གིས་བར་མ་ཆོད་པ་ལ་དམ་་ཚིག་ལས་འགལ་བ་ཞེས་བརྗོད་དོ།
+<literal>samaya degenerate's fault day by-means-of gap not samaya from contradict called/
+<liturgical><prose>Samaya degenerate's fault day gap not: samaya from contradict called.
+
+[10301]
+<tibetan>།ཟླ་བས་བར་མ་ཆོད་པ་ནི་ཉམས་པའོ།
+<literal>/month by-means-of gap not is degenerate/
+<liturgical><prose>Month gap not is: degenerate.
+
+[10302]
+<tibetan>།ལོས་བར་མ་ཆོད་པ་ནི་འདས་པའོ།
+<literal>/year by-means-of gap not is crossed/
+<liturgical><prose>Year gap not is: crossed.
+
+[10303]
+<tibetan>།ལོ་གཉིས་དང་གསུམ་སོང་བ་ནི་རལ་བའོ།
+<literal>/year two and three gone is loose/
+<liturgical><prose>Year two and three gone is: loose.
+
+[10304]
+<tibetan>།དེ་དག་ལ་སོ་སོའི་བསྐང་ཐབས་ཀྱང་ཤེས་པས་བསྐང་བར་བྱ་སྟེ།
+<literal>/that to respective's restore method also know by-means-of restore do/
+<liturgical><prose>That to respective's restore method also know, restore do.
+
+[10305]
+<tibetan>རྡོ་རྗེ་ཉི་མ་དམ་ཚིག་བཀོད་པའི་རྒྱུད་ལས།
+<literal>vajra sun samaya arranged one's tantra from/
+<liturgical><tantra>From the Vajra Sun Samaya Arranged Tantra: || 220 ||
+
+[10306]
+<tibetan>སྤྱིར་ན་དམ་ཚིག་ཁྱད་པར་ལས།
+<literal>general samaya distinction from/
+<liturgical><tantra>"General samaya distinction from,
+
+[10307]
+<tibetan>།དུས་ལས་ཁྱད་པར་ངེས་ཕྱེ་བ།
+<literal>/time from distinction certain divided/
+<liturgical><tantra>Time from distinction certain divided,
+
+[10308]
+<tibetan>།དམ་ལས་འགལ་ཞེས་ཉེས་བྱས་གང༌།
+<literal>/samaya from contradict called fault whatever*/
+<liturgical><tantra>Samaya from contradict called fault whatever.
+
+[10309]
+<tibetan>།ཞག་གིས་བར་མ་ཆོད་པར་ནི།
+<literal>/day by-means-of gap not in/
+<liturgical><tantra>Day gap not in,
+
+[10310]
+<tibetan>།དམིགས་པའི་ཡུལ་ལ་བཤགས་བྱས་ན།
+<literal>/aimed object to confess done if/
+<liturgical><tantra>Aimed object to confess done if,
+
+[10311]
+<tibetan>།དེས་ནི་སོར་ཡང་ཆུད་པའོ།
+<literal>/that by-means-of corner even enter one's/
+<liturgical><tantra>That corner even enter one's,
+
+[10312]
+<tibetan>།ཉམས་ཞེས་ཟླ་བས་མ་མཆོད་པར།
+<literal>/degenerate called month by-means-of not-respected/
+<liturgical><tantra>Degenerate called month not-respected.
+
+[10313]
+<tibetan>།འགྱོད་པ་དྲག་པོ་བཤགས་པས་སོ།
+<literal>/regret intense confess by-means-of/
+<liturgical><tantra>Regret intense confess,
+
+[10314]
+<tibetan>།དམ་ལས་འདས་ན་ལོ་དག་གིས།
+<literal>/samaya from crossed if year by-means-of/
+<liturgical><tantra>Samaya from crossed if year,
+
+[10315]
+<tibetan>།བར་དུ་མ་ཆོད་བཤགས་པས་སོ།
+<literal>/middle gap not confess by-means-of/
+<liturgical><tantra>Middle gap not confess, || 230 ||
+
+[10316]
+<tibetan>།ལོ་ནི་གཉིས་དང་གསུམ་དག་ལས།
+<literal>/year two and three from/
+<liturgical><tantra>Year two and three from,
+
+[10317]
+<tibetan>།དམ་ཚིག་རལ་པ་ཞེས་བྱ་བ།
+<literal>/samaya loose called/
+<liturgical><tantra>Samaya loose called.
+
+[10318]
+<tibetan>།མཆོག་ཏུ་དག་ན་གསོ་རུ་རུང༌།
+<literal>/supremely pure if restore able/
+<liturgical><tantra>Supremely pure if restore able.
+
+[10319]
+<tibetan>།ལོ་གསུམ་དག་ལས་འདས་ནས་ནི།
+<literal>/year three from exceed after/
+<liturgical><tantra>Year three from exceed after,
+
+[10320]
+<tibetan>།དེ་ནི་གསོར་ཡང་མི་རུང་སྟེ།
+<literal>/that restore able not is/
+<liturgical><tantra>That restore able not is.
+
+[10321]
+<tibetan>།གལ་ཏེ་བླངས་ན་གཉིས་ཀའི་འཚིག
+<literal>/if take both's burn
+<liturgical><break><tantra> If take, both's burn.
+
+[10322]
+<tibetan>།ངེས་པར་ས་སྤྱོད་སྡུག་བསྔལ་ལ།
+<literal>/certain earth-dwell suffering to/
+<liturgical><break><tantra> Certain earth-dwell suffering to,
+
+[10323]
+<tibetan>།རྒྱུན་དུ་སྤྱོད་པ་ཁོ་ནའོ།
+<literal>/continually conduct only/
+<liturgical><tantra>Continually conduct only.
+
+[10324]
+<tibetan>།འགལ་ན་ཚོགས་ཀྱི་འཁོར་ལོས་བཤགས།
+<literal>/contradict if gathering's wheel by-means-of confess/
+<liturgical><tantra>Contradict if gathering's wheel confess.
+
+[10325]
+<tibetan>།ཉམས་ན་རང་གི་བདོགས་པས་བསྐང༌།
+<literal>/degenerate if self's possession by-means-of restore*/
+<liturgical><tantra>Degenerate if self's possession restore. || 240 ||
+
+[10326]
+<tibetan>།འདས་པ་བུ་དང་ཆུང་མ་དང༌།
+<literal>/crossed child and wife and*/
+<liturgical><tantra>Crossed: child and wife and
+
+[10327]
+<tibetan>།ཉེ་འཁོར་ལུས་དང་ངག་དག་དང༌།
+<literal>/near-circle body and speech and*/
+<liturgical><tantra>Near-circle body and speech and
+
+[10328]
+<tibetan>།ཡིད་དང་བདོག་པར་བཅས་པས་བསྐང༌།
+<literal>/mind and possession accompany by-means-of restore*/
+<liturgical><tantra>Mind and possession accompany restore.
+
+[10329]
+<tibetan>།རལ་པ་རང་གི་སྲོག་གིས་བསྐང༌།
+<literal>/loose self's life by-means-of restore*/
+<liturgical><tantra>Loose: self's life restore.
+
+[10330]
+<tibetan>།དེ་ལས་ཕྱིར་ཡང་གྱུར་པ་ན།
+<literal>/that from again become if/
+<liturgical><tantra>That from again become if,
+
+[10331]
+<tibetan>།ཉམས་པ་ཆེན་པོ་ཞེས་བྱ་སྟེ།
+<literal>/degenerate great called/
+<liturgical><tantra>Degenerate great called.
+
+[10332]
+<tibetan>།གསོ་བར་རུང་བ་མ་ཡིན་ནོ།
+<literal>/restore able not/
+<liturgical><tantra>Restore able not."
+
+[10333]
+<tibetan>།ཞེས་སོ།
+<literal>/thus/
+<liturgical><tantra>Thus it is spoken.
+
+[10334]
+<tibetan>།གསུམ་པ་བླ་ན་མེད་པའི་དམ་ཚིག་བཤད་པ་ནི།
+<literal>/third supreme's samaya explain is/
+<liturgical><ornament>Third: Supreme samaya explain is.
+
+[10335]
+<tibetan>ཡི་གེ་མེད་པ་ལས།
+<literal>letter not-have from/
+<liturgical><tantra>From the Letter-Not-Have: || 250 ||
+
+[10336]
+<tibetan>དེ་དུས་བསྲུང་བའི་མཚམས་འདས་པའི།
+<literal>that time guard one's boundary crossed one's/
+<liturgical><tantra>"That time guard one's boundary crossed one's,
+
+[10337]
+<tibetan>།མེད་དང་གཅིག་པུ་ཕྱལ་བ་ཡི།
+<literal>/not-have and one alone vast one's/
+<liturgical><tantra>Not-have and one alone vast one's—
+
+[10338]
+<tibetan>།དེ་ཡི་གྲོགས་སུ་དེ་འགྱུར་རོ།
+<literal>/that one's companion that become/
+<liturgical><tantra>That companion becomes."
+
+[10339]
+<tibetan>།ཞེས་གསུངས་པའི་དོན་ཅུང་ཟད་བཤད་ན།
+<literal>/thus spoke one's meaning little explain if/
+<liturgical><tantra>Thus spoke one's meaning little explain if,
+
+[10340]
+<tibetan>རང་གི་རྟོགས་པའི་སྟེང་ནས་ཐག་ཆོད་པར་དྲང་ཐད་དུ་བརྗོད་དེ།
+<literal>self's realization's top from certainty straight direct spoke/
+<liturgical><tantra>Self-realization top from certainty straight direct spoke.
+
+[10341]
+<tibetan>འདི་ལྟར་རང་བཞིན་རྫོགས་པ་ཆེན་པོའི་དམ་ཚིག་རིག་པ་རང་བྱུང་ཡེ་ཤེས་ཡེ་ནས་བསྲུང་མཚམས་ལས་འདས་པའི་ངོ་བོ་ལས་མི་གཡོ་བར་བྱེད་པའོ།
+<literal>thus nature great-completion's samaya awareness self-arise wisdom primordial guard boundary from crossed one's nature from not-move do/
+<liturgical><prose>Thus nature Great Completion's samaya: awareness self-arisen wisdom, primordial guard boundary from crossed one's, nature from not-move do.
+
+[10342]
+<tibetan>།དེ་ཡང་ངོ་བོ་ཀ་དག་ལ་ལྟོས་ནས་ཁྲེགས་ཆོད་ཀྱི་དམ་ཚིག་ཏུ་འཁོར་བའི་ཆོས་སུ་སྣང་ངོ་ཅོག་སྣང་སྲིད་སྣོད་བཅུད་ཕྱི་ནང་ཐམས་ཅད་ཡེ་ནས་མེད་པ་སྨིག་རྒྱུའི་ཆུ་ལ་སོགས་པ་སྒྱུ་མའི་དཔེ་བརྒྱད་དུ་ཤེས་པས་སྣང་བ་ལ་བདེན་ཞེན་གྲོལ་བའི་དགོས་པ་ཡོད་དོ།
+<literal>/that also nature primordial-pure to regarding cut-through's samaya as samsara's dharma as appearance all appearance existence container-contents outer inner all primordial not-have mirage's water etc. illusion's eight-examples by-means-of know by-means-of appearance to true-clinging release one's purpose is/
+<liturgical><prose>That also nature primordial-pure to regarding: Trekcho's samaya as saṃsāra's Dharma, as appearance all, appearance existence container-contents outer inner all, primordial not-have, mirage's water etc. illusion's eight-examples know, appearance to true-clinging release one's purpose is.
+
+[10343]
+<tibetan>།ཕྱི་ནང་ཡུལ་མེད་དུ་རྟོགས་པའི་ངང་ལ་སེམས་འཛིན་གྱི་འཇུར་བུས་མ་བཅིངས་པའི་རིག་པ་ཕྱལ་བ་བར་མེད་ཆེན་པོར་སྐྱོང་ཞིང༌།
+<literal>/outer inner object not-have know one's state in mind seize's rope by-means-of not-bound awareness vast gapless great guard and*/
+<liturgical><prose>Outer inner object not-have know one's state in, mind seize's rope not-bound, awareness vast gapless great guard, and
+
+[10344]
+<tibetan>ཞེན་འཛིན་གང་ཡང་མི་བྱ་བར་སྒོ་ལྔ་ཧར་སངས་ཡུལ་མེད་ཀྱི་རིག་པ་རྟེན་མེད་དུ་རྗེན་ལ་ཕུད་ནས་ཕྱལ་ཕྱལ་གཏོང་བ་ནི་ཕྱལ་བ་ཞེས་བྱ་སྟེ།
+<literal>clinging seize whatever not-do door five wide-open object not-have's awareness basis not-have direct on put after vast vast release is vast called/
+<liturgical><prose>Clinging seize whatever not-do, door five wide-open, object not-have's awareness, basis not-have direct on put after, vast vast release is: vast called.
+
+[10345]
+<tibetan>སྣང་བཏགས་ཆོས་ཉིད་དུ་གྲོལ་བའི་དགོས་པ་ཡོད་དོ།
+<literal>appearance label dharma-nature release one's purpose is/
+<liturgical><prose>Appearance label Dharma-nature release one's purpose is. || 260 ||
+
+[10346]
+<tibetan>།རང་བཞིན་ལྷུན་གྲུབ་ལ་ལྟོས་ན་ཐོད་རྒལ་གྱི་དམ་ཚིག་ཏུ།
+<literal>/nature spontaneous-presence to regarding leap-over's samaya as/
+<liturgical><prose>Nature spontaneous-presence to regarding: Thogyal's samaya as,
+
+[10347]
+<tibetan>རང་བྱུང་གི་ཡེ་ཤེས་ལ་ཡོན་ཏན་ལྷུན་གྱིས་གྲུབ་པས་ཚོགས་ལ་མ་ལྟོས་པར་རང་ངོ་ཤེས་པས་འགྲུབ་པར་ཐག་བཅད་ནས།
+<literal>self-arise's wisdom to quality spontaneous by-means-of accomplish by-means-of gathering not-depend self face know by-means-of accomplish certainty after/
+<liturgical><prose>Self-arisen's wisdom to quality spontaneous accomplish, gathering not-depend, self face know accomplish certainty after,
+
+[10348]
+<tibetan>འོད་ལྔ་རང་གསལ་ལྷུན་གྲུབ་ཀྱི་ངོ་བོ་སྣང་བ་བཞིའི་ཉམས་ལེན་དང་མི་འབྲལ་བར་བྱས་པས།
+<literal>light five self-clear spontaneous-presence's nature appearance four's experience and not-separate do by-means-of/
+<liturgical><prose>Light five self-clear spontaneous-presence's nature, appearance four's experience and not-separate do,
+
+[10349]
+<tibetan>སངས་རྒྱས་རང་ཆས་སུ་གྲུབ་སྟེ།
+<literal>buddha self-nature as accomplish/
+<liturgical><prose>Buddha self-nature as accomplish.
+
+[10350]
+<tibetan>གཞན་ནས་ཚོམ་མི་དགོས་པའི་དགོས་པ་ཡོད་དོ།
+<literal>other from doubt not-need one's purpose is/
+<liturgical><prose>Other from doubt not-need one's purpose is.
+
+[10351]
+<tibetan>།རྐྱེན་སྣང་དང་བདེ་སྡུག་བྱུང་ཚོར་དང་རྣམ་རྟོག
+<literal>/condition appear and pleasure-pain arise feel and thought
+<liturgical><break><verse> Condition appear and pleasure-pain arise, feel and thought,
+
+[10352]
+<tibetan>།སྣང་བ་དང་རིག་པ་ཅི་ཤར།
+<literal>/appear and awareness whatever arise/
+<liturgical><break><verse> Appear and awareness whatever arise,
+
+[10353]
+<tibetan>ཅི་སྣང༌།
+<literal>whatever appear*/
+<liturgical><verse>Whatever appear,
+
+[10354]
+<tibetan>ཅི་རིག་ཀྱང་རང་བྱུང་གི་ཡེ་ཤེས་གཅིག་པུར་ཐག་ཆོད་པས།
+<literal>whatever aware also self-arise's wisdom one-only certainty by-means-of/
+<liturgical><verse>Whatever aware also self-arisen's wisdom one-only certainty,
+
+[10355]
+<tibetan>ཐམས་ཅད་རང་གྲོལ་ལྷུན་མཉམ་ཆེན་པོའི་དགོངས་པ་ལས་མི་འདའ་ཞིང༌།
+<literal>all self-release spontaneous-equal great's meaning from not-exceed and*/
+<liturgical><verse>All self-release spontaneous-equal great's meaning from not-exceed, and || 270 ||
+
+[10356]
+<tibetan>ངོ་བོ་ཆོས་ཀྱི་སྐུ་ཀ་དག་དང་ལྷུན་གྲུབ་ཁྲེགས་ཆོད་དང་ཐོད་རྒལ་གཉིས་སུ་མེད་པར།
+<literal>nature dharma-body primordial-pure and spontaneous-presence cut-through and leap-over two not-have/
+<liturgical><prose>Nature Dharma-body primordial-pure and spontaneous-presence, Trekcho and Thogyal two not-have,
+
+[10357]
+<tibetan>ཆོས་ཉིད་ཟད་ས་ལ་ཤ་ར་ར་འོལ་ལ་ལ།
+<literal>dharma-nature cease ground on sha ra ra ol to to/
+<liturgical><prose>Dharma-nature cease ground on: sha ra ra ol la la.
+
+[10358]
+<tibetan>ཡེ་རེ་རེ་སངས་སངས་སངས་གཏན་སྲིད་ཟིན་པའི་དགོས་པ་ཡོད་དོ།
+<literal>ye re re sangs sangs sangs certain existence seize one's purpose is/
+<liturgical><prose>Ye re re sangs sangs sangs: certain existence seize one's purpose is.
+
+[10359]
+<tibetan>།དེ་ཐམས་ཅད་ཀྱང་རང་གསལ་ཟང་མ་རང་ཟད།
+<literal>/that all also self-clear wide self-cease/
+<liturgical><prose>That all also self-clear wide, self-cease.
+
+[10360]
+<tibetan>རང་སངས་རང་གྲོལ།
+<literal>Self-enlightened self-liberated/
+<liturgical><prose>Self-enlightened, self-liberated.
+
+[10361]
+<tibetan>རྗེས་མེད་དུ་བུ་ནུ་ནུ།
+<literal>Trace without childlike/
+<liturgical><prose>Trace without, childlike.
+
+[10362]
+<tibetan>ཕྱོད་དོ་དོ།
+<literal>Expression/
+<liturgical><prose>Expression.
+
+[10363]
+<tibetan>གཏད་མེད་ཡེ་སངས་ཀུན་ཏུ་བཟང་པོའི་དགོངས་པ་ལ་སླེབ་པས།
+<literal>Fixation without primordially-enlightened Samantabhadra's intention-to reached-by/
+<liturgical><prose>Fixation without, primordially-enlightened Samantabhadra's intention-to reached.
+
+[10364]
+<tibetan>ཆོས་ཟད་ཡེ་ཟད་ཆེན་པོ།
+<literal>Phenomena exhausted primordially-exhausted great/
+<liturgical><prose>Phenomena exhausted, primordially-exhausted great.
+
+[10365]
+<tibetan>སུ་ཡང་འཁོར་མ་མྱོང་སྟེ།
+<literal>Anyone samsara not experience/
+<liturgical><prose>Anyone saṃsāra not experience: || 280 ||
+
+[10366]
+<tibetan>འཁོར་བ་ཡེ་ཟད།
+<literal>Samsara primordially-exhausted/
+<liturgical><prose>saṃsāra primordially-exhausted.
+
+[10367]
+<tibetan>སུ་ཡང་འདའ་མ་མྱོང་སྟེ།
+<literal>Anyone pass not experience/
+<liturgical><prose>Anyone pass not experience:
+
+[10368]
+<tibetan>མྱ་འདས་ཡེ་གྲོལ།
+<literal>Nirvana primordially-liberated/
+<liturgical><prose>nirvāṇa primordially-liberated.
+
+[10369]
+<tibetan>རིག་པས་ཆོག
+<literal>Awareness-by sufficient
+<liturgical><break><prose> Awareness sufficient.
+
+[10370]
+<tibetan>མ་རིག་པས་ཆོག
+<literal>Non-awareness-by sufficient
+<liturgical><prose>Non-awareness sufficient.
+
+[10371]
+<tibetan>ཡོད་པས་ཆོག
+<literal>Existence-by sufficient
+<liturgical><prose>Existence sufficient.
+
+[10372]
+<tibetan>མེད་པས་ཆོག
+<literal>Non-existence-by sufficient
+<liturgical><prose>Non-existence sufficient.
+
+[10373]
+<tibetan>འཁོར་བས་ཆོག
+<literal>Samsara-by sufficient
+<liturgical><prose>saṃsāra sufficient.
+
+[10374]
+<tibetan>འདས་པས་ཆོག
+<literal>Passing-by sufficient
+<liturgical><prose>Passing sufficient.
+
+[10375]
+<tibetan>བཟང་བས་ཆོག
+<literal>Good-by sufficient
+<liturgical><prose>Good sufficient. || 290 ||
+
+[10376]
+<tibetan>ངན་པས་ཆོག
+<literal>Bad-by sufficient
+<liturgical><prose>Bad sufficient.
+
+[10377]
+<tibetan>རྟོགས་པས་ཆོག
+<literal>Realization-by sufficient
+<liturgical><prose>Realization sufficient.
+
+[10378]
+<tibetan>མ་རྟོགས་པས་ཆོག
+<literal>Non-realization-by sufficient
+<liturgical><prose>Non-realization sufficient.
+
+[10379]
+<tibetan>ཆོས་ཡོད་མ་མྱོང༌།
+<literal>Phenomena existence not experience/
+<liturgical><break><prose> Phenomena existence not experience.
+
+[10380]
+<tibetan>སུས་ཀྱང་བྱས་པ་མེད།
+<literal>Anyone-by-means-of done not/
+<liturgical><prose>Anyone done not.
+
+[10381]
+<tibetan>བྱས་པ་ལ་དགོས་པ་མེད།
+<literal>Done-to need not/
+<liturgical><prose>Done-to need not.
+
+[10382]
+<tibetan>མེད་པ་ལ་བློ་གཏད་མི་འཆའ་བར་རང་ཤར་ཏེ།
+<literal>Non-existence-to mind fix not apply self-arisen/
+<liturgical><prose>Non-existence-to mind fix not apply: self-arisen.
+
+[10383]
+<tibetan>སྐྱ་སང་སངས་སངས།
+<literal>Expression/
+<liturgical><prose>Expression.
+
+[10384]
+<tibetan>རྗེས་ཡལ་ལ་ལ།
+<literal>Trace dissolved/
+<liturgical><prose>Trace dissolved.
+
+[10385]
+<tibetan>རང་རྗེན་ནེ་ནེ།
+<literal>Self-settled/
+<liturgical><prose>Self-settled. || 300 ||
+
+[10386]
+<tibetan>ཟང་ཐལ་ལ།
+<literal>Wide-open/
+<liturgical><prose>Wide-open.
+
+[10387]
+<tibetan>ཕྱད་མ་ཕྱོད།
+<literal>Undecided decided/
+<liturgical><prose>Undecided decided.
+
+[10388]
+<tibetan>ཡལ་མ་ཡོལ།
+<literal>Not-dissolved dissolved/
+<liturgical><prose>Not-dissolved dissolved.
+
+[10389]
+<tibetan>བན་མ་བུན།
+<literal>Not-vanished vanished/
+<liturgical><prose>Not-vanished vanished.
+
+[10390]
+<tibetan>སང་མ་སེང༌།
+<literal>Not-cleared cleared/
+<liturgical><prose>Not-cleared cleared.
+
+[10391]
+<tibetan>ཁྲལ་མ་ཁྲོལ་དུ་ཤར་བ་ནི།
+<literal>Not-taxed taxed-to arisen is/
+<liturgical><prose>Not-taxed taxed-to arisen is.
+
+[10392]
+<tibetan>རྫོགས་པ་ཆེན་པོ་ཡེ་གྲོལ་ལྷུན་གྱིས་གྲུབ་པའི་རྣལ་འབྱོར་ཞེས་བྱའོ།
+<literal>Great-Perfection primordially-liberated spontaneously-accomplished yoga called/
+<liturgical><prose>Great Perfection primordially-liberated spontaneously-accomplished yoga called.
+
+[10393]
+<tibetan>།འདི་ལྟ་བུའི་དམ་ཚིག་ལ་གནས་པ་ནི་སྣ་ཚོགས་རང་གྲོལ་གྱི་རྣལ་འབྱོར་པ་སྟེ།
+<literal>/This like samaya at abide is various self-liberated's yogin is/
+<liturgical><prose>This like samaya at abide is: various self-liberated's yogin is,
+
+[10394]
+<tibetan>མ་བྱས་པར་ཟིན།
+<literal>Without-doing completed/
+<liturgical><prose>Without-doing completed,
+
+[10395]
+<tibetan>མ་ཕྱིན་པར་སླེབ།
+<literal>Without-going arrived/
+<liturgical><prose>Without-going arrived, || 310 ||
+
+[10396]
+<tibetan>མ་བཙལ་བར་རྙེད།
+<literal>Without-seeking found/
+<liturgical><prose>Without-seeking found,
+
+[10397]
+<tibetan>མ་བསྒྲུབས་པར་གྲུབ།
+<literal>Without-accomplishing accomplished/
+<liturgical><prose>Without-accomplishing accomplished,
+
+[10398]
+<tibetan>མ་སྤངས་པར་དག
+<literal>Without-abandoning purified
+<liturgical><break><prose> Without-abandoning purified.
+
+[10399]
+<tibetan>ཕྱ་སངས་སངས།
+<literal>Expression/
+<liturgical><break><prose> Expression.
+
+[10400]
+<tibetan>བླ་མ་དམ་པའི་དགོངས་པ་དང་མཉམ་མོ།
+<literal>Guru holy's intention and equal/
+<liturgical><prose>Guru holy's intention and equal.
+
+[10401]
+<tibetan>།རྗེས་སྙོགས་སོ།
+<literal>/Connection/
+<liturgical><prose>Connection.
+
+[10402]
+<tibetan>།ལས་ཟིན་ནོ།
+<literal>/Karma completed/
+<liturgical><prose>Karma completed.
+
+[10403]
+<tibetan>།བྱ་བྲལ་ལྷུན་གྱིས་གྲུབ་པའི་དགོངས་པ་ལ་སླེབས་སོ།
+<literal>/Action without spontaneously-accomplished intention-to reached/
+<liturgical><prose>Action without spontaneously-accomplished intention-to reached.
+
+[10404]
+<tibetan>།ཀློང་ཆེན་རབ་འབྱམས་བཟང་པོར་ད་རེས་གྱུར་ཏོ།
+<literal>/Klong-chen Rab-'byams good now become/
+<liturgical><prose>Klong-chen Rab-'byams good now become.
+
+[10405]
+<tibetan>།ཨ་ལ་ལ།
+<literal>/Ah to to/
+<liturgical><prose>Ah la la. || 320 ||
+
+[10406]
+<tibetan>གནད་ཡིན་ཏེ་མ་གོ
+<literal>Crucial is but not understand
+<liturgical><break><prose> Crucial is but not understand.
+
+[10407]
+<tibetan>རྟོགས་པས་ཆོག་སྟེ་འབད་དགོས།
+<literal>Realization-by sufficient but effort need/
+<liturgical><break><prose> Realization sufficient but effort need.
+
+[10408]
+<tibetan>བཞག་པས་ཆོག་སྟེ་སུ་ལས་བྲེལ།
+<literal>Place-by sufficient but who from free/
+<liturgical><prose>Place sufficient but who from free.
+
+[10409]
+<tibetan>ཐོས་ཀྱང་ཚིག་རོ།
+<literal>Heard but word-taste/
+<liturgical><prose>Heard but word-taste.
+
+[10410]
+<tibetan>གོ་ཡང་རྣམ་རྟོག
+<literal>Understand but concept/
+<liturgical><break><prose> Understand but concept.
+
+[10411]
+<tibetan>རྟོགས་ཀྱང་ཕོ་ཚོད།
+<literal>Realize but extent/
+<liturgical><break><prose> Realize but extent.
+
+[10412]
+<tibetan>བསྒོམས་ཀྱང་བློས་བྱས།
+<literal>Meditate but mind-made/
+<liturgical><prose>Meditate but mind-made.
+
+[10413]
+<tibetan>དཔྱད་ཀྱང་གཉིས་འཛིན།
+<literal>Analyze but duality-grasp/
+<liturgical><prose>Analyze but duality-grasp.
+
+[10414]
+<tibetan>བསྒྲུབས་ཀྱང་འཁོར་བ།
+<literal>Accomplish but samsara/
+<liturgical><prose>Accomplish but saṃsāra.
+
+[10415]
+<tibetan>ད་རུང་ཆོས་ཉིད་ཀྱི་རྒྱ་འབྱམས་རང་ག་ན་ཡོད་དེ།
+<literal>Still now dharmata's vast-expanse self where exist/
+<liturgical><prose>Still now dharmatā's vast-expanse self where exist. || 330 ||
+
+[10416]
+<tibetan>འཁོར་བ་ལས་སྔ་འདྲེས་གཅིག་གིས་མ་འཕགས་འི་སློབ་མ་ལ།
+<literal>Samsara from prior-mixing one-by not-transcended student-to/
+<liturgical><prose>saṃsāra from prior-mixing one-by not-transcended student-to,
+
+[10417]
+<tibetan>རང་བཞིན་རྫོགས་པ་ཆེན་པོའི་ལས་འབྲེལ་གཅིག་ཀ་འོང་གི
+<literal>Natural Great-Perfection's karmic-connection one also come will
+<liturgical><break><prose> Natural Great Perfection's karmic-connection one also come will.
+
+[10418]
+<tibetan>ཆོས་ཟད་པོ་བདག་གི་སྣང་བ་ལ་བལྟས་པས།
+<literal>Phenomena exhausted self's appearance-to looked-by/
+<liturgical><break><prose> Phenomena exhausted self's appearance-to looked-by,
+
+[10419]
+<tibetan>བློ་ཟད་པོ་གཅིག་པུར་དགོད་མོ་ཤོར་ནས།
+<literal>Mind exhausted alone joy lost/
+<liturgical><prose>Mind exhausted alone joy lost.
+
+[10420]
+<tibetan>བྱར་མེད་པོ་ཆོས་ཉིད་ཀྱི་གཏན་སྲིད་ཟིན་པས།
+<literal>Action without dharmata's nature taken-by/
+<liturgical><prose>Action without dharmatā's nature taken-by,
+
+[10421]
+<tibetan>རེ་དོགས་གཉིས་འཛིན་གྱི་འཕྲང་ལས་གྲོལ་ཏེ།
+<literal>Hope-fear duality-grasp's defilement from liberated/
+<liturgical><prose>Hope-fear duality-grasp's defilement from liberated.
+
+[10422]
+<tibetan>བསྒོམས་པས་ཆོག
+<literal>Meditate-by sufficient
+<liturgical><break><prose> Meditate sufficient.
+
+[10423]
+<tibetan>བཞག་པས་ཆོག
+<literal>Place-by sufficient
+<liturgical><prose>Place sufficient.
+
+[10424]
+<tibetan>བྱས་པས་ཆོག
+<literal>Do-by sufficient
+<liturgical><prose>Do sufficient.
+
+[10425]
+<tibetan>བོར་བས་ཆོག
+<literal>Abandon-by sufficient
+<liturgical><prose>Abandon sufficient. || 340 ||
+
+[10426]
+<tibetan>འདི་ཡིན་གཏད་སོའི་ཆོས་མེད་པོ་བདག་ལ།
+<literal>This is fix-limit dharma non-existent self-to/
+<liturgical><break><prose> This is fix-limit dharma non-existent self-to.
+
+[10427]
+<tibetan>རང་བབས་ལྷུན་གྲུབ་ཀྱི་དགོངས་པ་ཆུ་འོ་དང་འདྲ་ཡང༌།
+<literal>self-fall spontaneous-presence's meaning water-wave like although*/
+<liturgical><prose>Self-fall spontaneous-presence's meaning water-wave like although,
+
+[10428]
+<tibetan>གཅིག་གིས་ཀྱང་ཁོ་བོའི་དགོངས་པ་མ་ལོན་པ་ཡ་ཆ།
+<literal>one by-means-of also my meaning not-understand ya cha/
+<liturgical><prose>One also my meaning not-understand ya cha.
+
+[10429]
+<tibetan>ཐམས་ཅད་ཡེ་ཟིན་དུ་འདུག་སྟེ་ཡང་བྱེད།
+<literal>all primordially- seized in dwell and again do/
+<liturgical><prose>All primordially-seized in dwell and again do.
+
+[10430]
+<tibetan>ཡེ་གྲོལ་དུ་འདུག་སྟེ་ཡང་འགྲོལ།
+<literal>primordially-release in dwell and again release/
+<liturgical><prose>Primordially-release in dwell and again release.
+
+[10431]
+<tibetan>ཡེ་བཞག་ཏུ་འདུག་སྟེ་ཡང་འཇོག
+<literal>primordially-place in dwell and again place
+<liturgical><break><prose> Primordially-place in dwell and again place.
+
+[10432]
+<tibetan>ཡེ་བསྒོམས་སུ་འདུག་སྟེ་ཡང་བསྒོམ།
+<literal>primordially-meditated in dwell and again meditate/
+<liturgical><break><prose> Primordially-meditated in dwell and again meditate.
+
+[10433]
+<tibetan>ཡེ་ལྟས་སུ་འདུག་སྟེ་ཡང་ལྟ།
+<literal>primordially-view in dwell and again view/
+<liturgical><prose>Primordially-view in dwell and again view.
+
+[10434]
+<tibetan>ཡེ་བགྲོད་དུ་འདུག་སྟེ་ཡང་བགྲོད།
+<literal>primordially-traverse in dwell and again traverse/
+<liturgical><prose>Primordially-traverse in dwell and again traverse.
+
+[10435]
+<tibetan>བྱར་མི་འདུག
+<literal>do in not-dwell
+<liturgical><break><prose> Do in not-dwell. || 350 ||
+
+[10436]
+<tibetan>བྱེད་མི་དགོས།
+<literal>do not-need/
+<liturgical><break><prose> Do not-need.
+
+[10437]
+<tibetan>བྱས་པས་ཟིན་པ་མེད།
+<literal>done by-means-of seized not-have/
+<liturgical><prose>Done seized not-have.
+
+[10438]
+<tibetan>བྱ་བ་ལས་འདས།
+<literal>deed from exceed/
+<liturgical><prose>Deed from exceed.
+
+[10439]
+<tibetan>བྱ་མི་བྱའི་རྩིས་མེད།
+<literal>do not-do's calculation not-have/
+<liturgical><prose>Do not-do's calculation not-have.
+
+[10440]
+<tibetan>བསྒོམ་མི་དགོས།
+<literal>meditate not-need/
+<liturgical><prose>Meditate not-need.
+
+[10441]
+<tibetan>བསྒོམ་དུ་མེད།
+<literal>meditate not-have/
+<liturgical><prose>Meditate not-have.
+
+[10442]
+<tibetan>བསྒོམ་པ་ལས་འདས།
+<literal>meditate from exceed/
+<liturgical><prose>Meditate from exceed.
+
+[10443]
+<tibetan>བསྒོམས་ཤིང་ཕུང༌།
+<literal>meditated and exhausted*/
+<liturgical><prose>Meditated and exhausted.
+
+[10444]
+<tibetan>བལྟ་མི་དགོས།
+<literal>look not-need/
+<liturgical><prose>Look not-need.
+
+[10445]
+<tibetan>བལྟར་མེད།
+<literal>look not-have/
+<liturgical><prose>Look not-have. || 360 ||
+
+[10446]
+<tibetan>བལྟ་བྱ་ལས་འདས།
+<literal>look object from exceed/
+<liturgical><prose>Look object from exceed.
+
+[10447]
+<tibetan>གང་ལ་བལྟ།
+<literal>what to look/
+<liturgical><prose>What to look.
+
+[10448]
+<tibetan>བཙལ་མི་དགོས།
+<literal>seek not-need/
+<liturgical><prose>Seek not-need.
+
+[10449]
+<tibetan>བཙལ་དུ་མེད།
+<literal>seek not-have/
+<liturgical><prose>Seek not-have.
+
+[10450]
+<tibetan>ཚོལ་བ་ལས་འདས།
+<literal>seek from exceed/
+<liturgical><prose>Seek from exceed.
+
+[10451]
+<tibetan>རྙེད་པ་མེད།
+<literal>find not-have/
+<liturgical><prose>Find not-have.
+
+[10452]
+<tibetan>འདི་ལྟར་ཟང་མ་ཐལ་འབྱུང་དུ་འདུག་སྟེ།
+<literal>thus wide spontaneous-arising in dwell/
+<liturgical><prose>Thus wide spontaneous-arising in dwell.
+
+[10453]
+<tibetan>བཤད་ཀྱང་མི་གོ་བའི་མི་ལ་རྟོགས་པའི་ལས་འབྲེལ་མེད་པ་དགོད་བྲོ།
+<literal>explain also not-understand one's person to realization's karma-connection not-have laugh/
+<liturgical><prose>Explain also not-understand one's person to, realization's karma-connection not-have: laugh.
+
+[10454]
+<tibetan>།ཡེ་གཞག་ཆོས་ཟད་པོའི་སློབ་མ་རྣམས་དགོངས་པ་མ་རྙེད་པ་པྲ་ཡས།
+<literal>/primordially-place dharma ceased one's student all meaning not-find pra yas/
+<liturgical><prose>Primordially-place dharma ceased one's student all meaning not-find: pra yas.
+
+[10455]
+<tibetan>གང་ལ་བལྟས་ཀྱང་མཁའ་དག་ཀློང་ཆེན་གྱི་དགོངས་པར་ཤར་བས་ཉམས་དགའ།
+<literal>what to look also space wide great-expanse's meaning appear by-means-of experience delightful/
+<liturgical><prose>What to look also, space wide klong-chen's meaning appear, experience delightful. || 370 ||
+
+[10456]
+<tibetan>ཟད་པའི་ས་ལ་རྟག་ཏུ་སྐྱོལ་བས་འཁོར་འདས་རིས་མེད་དུ་སངས་པའི་རྣལ་འབྱོ་ར་པ་ལགས་སོ།
+<literal>cease one's ground always conduct by-means-of samsara-nirvana boundary not-have release one's yogi is/
+<liturgical><prose>Cease one's ground always conduct, saṃsāra-nirvāṇa boundary not-have, release one's yogi is.
+
+[10457]
+<tibetan>།དོན་འདི་འདྲ་དགོངས་པ་ཚིག་ཏུ་བརྗོད་པ།
+<literal>/meaning this like meaning word in spoke/
+<liturgical><prose>Meaning this like, meaning word in spoke,
+
+[10458]
+<tibetan>མ་འོངས་པའི་སྐལ་ལྡན་རྣམས།
+<literal>future's fortunate ones/
+<liturgical><prose>Future's fortunate ones,
+
+[10459]
+<tibetan>ཁོ་བོ་དང་དངོས་སུ་ཕྲད་པའི་འདྲ་འབག་བཞེངས་པས་རྟོགས་པ་རང་འཁྲུངས་སུ་འཆར་བའི་མོས་རྟེན་མཛོད་ཅིག
+<literal>me and actual meet one's statue arose by-means-of realization self-arise appear one's faith-basis make/
+<liturgical><break><prose> Me and actual meet one's statue arose, realization self-arise appear one's faith-basis make.
+
+[10460]
+<tibetan>དེ་ལྟར་རྟོགས་པ་ལྟ་བའི་དམ་ཚིག་ཆེན་པོ་བཞི་ལ་རྟག་ཏུ་གནས་པར་བསྟན་པ་ནི།
+<literal>thus realization view's samaya great four always dwell shown is/
+<liturgical><break><prose> Thus realization view's samaya great four always dwell shown is.
+
+[10461]
+<tibetan>རིག་པ་རང་ཤར་ལས།
+<literal>awareness self-arise from/
+<liturgical><tantra>From Awareness Self-Arisen:
+
+[10462]
+<tibetan>དམ་ཚིག་བསྲུང་དུ་མེད་པས་ཡེ་ནས་བསྲུང་དང་བྲལ།
+<literal>samaya guard not-have primordial guard separate/
+<liturgical><tantra>"Samaya guard not-have, primordial guard separate.
+
+[10463]
+<tibetan>མེད་པ་ཕྱལ་བ་ལྷུན་གྲུབ་གཅིག་པུ་ཉིད།
+<literal>not-have vast spontaneous-presence one-only/
+<liturgical><tantra>Not-have vast spontaneous-presence one-only.
+
+[10464]
+<tibetan>།གསང་སྔགས་ཀུན་གྱི་དགོངས་པ་ཆེན་པོ་ཡིན།
+<literal>/secret-mantra all's meaning great is/
+<liturgical><tantra>Secret-mantra all's meaning great is."
+
+[10465]
+<tibetan>ཅེས་གསུངས་སོ།
+<literal>thus spoke/
+<liturgical><tantra>Thus it is spoken. || 380 ||
+
+[10466]
+<tibetan>།འདི་དག་ནི་གནས་གལ་པོ་ཆེའོ།
+<literal>/this is place important great/
+<liturgical><prose>This is place important great.
+
+[10467]
+<tibetan>།ཐེག་པའི་མཆོག་རིན་པོ་ཆེའི་མཛོད་ལས།
+<literal>/vehicle's supreme jewel one's treasury from/
+<liturgical><tantra>From the Vehicle's Supreme Jewel Treasury:
+
+[10468]
+<tibetan>དམ་ཚིག་རྣམ་པར་བཀོད་པ་སྟེ་རིམ་ཁང་བདུན་པའོ།
+<literal>samaya aspects arranged is sequence house seven is/
+<liturgical><tantra>Samaya aspects arranged is, sequence house seven is.
+
+[10469]
+<tibetan>།དེ་ལྟར་དབང་དང་དམ་ཚིག་གི་རྒྱལ་པོ་ཆེར་བསྟན་ནས།
+<literal>/thus empowerment and samaya's king great shown after/
+<liturgical><prose>Thus empowerment and samaya's king great shown after,
+
+[10470]
+<tibetan>ད་ནི་སྙིང་པོ་དོན་གྱི་རང་བཞིན་གཏན་ལ་དབབ་པ་ལས།
+<literal>now essence meaning's nature certainty place from/
+<liturgical><prose>Now essence meaning's nature certainty place from,
+
+[10471]
+<tibetan>དང་པོ་གཞི་རང་བཞིན་གྱིས་རྣམ་པར་དག་པའི་དབྱིངས་དོན་དམ་པའི་བདེན་པ་གསང་སྔགས་རྡོ་རྗེའི་གནས་དཀའ་བ་ལྷུན་གྱིས་གྲུབ་པའི་དཀྱིལ་འཁོར་གྱི་ངོ་བོ་བསྟན་པ་ལ་གཉིས་ཏེ།
+<literal>first basis nature by-means-of aspect pure's dimension ultimate truth secret-mantra vajra's place difficult spontaneous by-means-of accomplish one's mandala's nature shown is two/
+<liturgical><ornament>First: Establishing the nature of the ground—the dimension of primordial purity, ultimate truth, and the vajra place of Secret Mantra—revealing the essence of the spontaneously present mandala, comprises two aspects: the general presentation of the sevenfold nature of the ground, and the detailed explanation of the supreme ground.

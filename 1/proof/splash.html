@@ -1,0 +1,618 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Treasury of the Supreme Vehicle — 9 Layers</title>
+    <meta name="generator" content="Layer Splash Page">
+    
+    <style>
+        :root {
+            --font-main: 'Georgia', 'Times New Roman', serif;
+            --font-mono: 'Consolas', 'Courier New', monospace;
+            --color-bg: #fafafa;
+            --color-text: #1a1a1a;
+            --color-muted: #666;
+            --color-tibetan: #2c5f7f;
+            --color-wylie: #5d4037;
+            --color-literal: #2e7d32;
+            --color-liturgical: #6a1b9a;
+            --color-commentary: #f57c00;
+            --color-scholar: #00838f;
+            --color-epistemic: #ad1457;
+            --color-delusion: #c62828;
+            --color-cognitive: #455a64;
+            --color-contents: #37474f;
+        }
+
+        * {
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: var(--font-main);
+            color: var(--color-text);
+            line-height: 1.6;
+            margin: 0;
+            padding: 0;
+            background: var(--color-bg);
+        }
+
+        /* Navigation */
+        .nav-container {
+            position: sticky;
+            top: 0;
+            background: #fff;
+            border-bottom: 2px solid #ddd;
+            z-index: 1000;
+            padding: 0.5em 1em;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+        }
+
+        .nav-tabs {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 0.25em;
+            justify-content: center;
+            align-items: center;
+            max-width: 1200px;
+            margin: 0 auto;
+        }
+
+        .dark-mode-toggle {
+            margin-left: auto;
+            padding: 0.4em 0.8em;
+            border: 1px solid #999;
+            border-radius: 4px;
+            background: #fff;
+            color: #333;
+            font-size: 0.8em;
+            cursor: pointer;
+            transition: all 0.2s ease;
+        }
+
+        .dark-mode-toggle:hover {
+            background: #eee;
+        }
+
+        body.dark-mode {
+            filter: invert(1) hue-rotate(180deg);
+        }
+
+        body.dark-mode .nav-container {
+            background: #111;
+            border-bottom-color: #444;
+        }
+
+        body.dark-mode .dark-mode-toggle {
+            background: #333;
+            color: #fff;
+            border-color: #666;
+        }
+
+        .nav-tab {
+            padding: 0.5em 1em;
+            border: none;
+            border-radius: 4px;
+            font-family: var(--font-main);
+            font-size: 0.85em;
+            cursor: pointer;
+            text-decoration: none;
+            color: #fff;
+            transition: all 0.2s ease;
+            white-space: nowrap;
+        }
+
+        .nav-tab:hover {
+            transform: translateY(-1px);
+            box-shadow: 0 2px 8px rgba(0,0,0,0.2);
+        }
+
+        .nav-tab.active {
+            box-shadow: inset 0 2px 4px rgba(0,0,0,0.2);
+            transform: translateY(1px);
+        }
+
+        .nav-tab.contents { background: var(--color-contents); }
+        .nav-tab.tibetan { background: var(--color-tibetan); }
+        .nav-tab.wylie { background: var(--color-wylie); }
+        .nav-tab.literal { background: var(--color-literal); }
+        .nav-tab.liturgical { background: var(--color-liturgical); }
+        .nav-tab.commentary { background: var(--color-commentary); }
+        .nav-tab.scholar { background: var(--color-scholar); }
+        .nav-tab.epistemic { background: var(--color-epistemic); }
+        .nav-tab.delusion { background: var(--color-delusion); }
+        .nav-tab.cognitive { background: var(--color-cognitive); }
+
+        /* Content Area */
+        .content-container {
+            max-width: 100%;
+            margin: 0;
+            padding: 0;
+        }
+
+        .layer-content {
+            display: none;
+            min-height: 100vh;
+        }
+
+        .layer-content.active {
+            display: block;
+        }
+
+        /* Header for each layer */
+        .layer-header {
+            background: linear-gradient(135deg, #f5f5f5 0%, #e8e8e8 100%);
+            padding: 1.5em;
+            border-bottom: 1px solid #ddd;
+            text-align: center;
+        }
+
+        .layer-header h1 {
+            margin: 0;
+            font-size: 1.5em;
+            font-variant: small-caps;
+            letter-spacing: 2px;
+        }
+
+        .layer-header .subtitle {
+            color: var(--color-muted);
+            font-style: italic;
+            margin-top: 0.5em;
+        }
+
+        /* Layer iframe styling */
+        .layer-frame {
+            width: 100%;
+            min-height: 100vh;
+            border: none;
+            display: block;
+        }
+
+        /* Line indicator */
+        .line-indicator {
+            position: fixed;
+            bottom: 20px;
+            right: 20px;
+            background: rgba(0,0,0,0.8);
+            color: #fff;
+            padding: 0.75em 1em;
+            border-radius: 4px;
+            font-family: var(--font-mono);
+            font-size: 0.85em;
+            z-index: 1001;
+            display: none;
+            max-width: 300px;
+            box-shadow: 0 4px 12px rgba(0,0,0,0.3);
+        }
+
+        .line-indicator.visible {
+            display: block;
+            animation: fadeIn 0.3s ease;
+        }
+
+        @keyframes fadeIn {
+            from { opacity: 0; transform: translateY(10px); }
+            to { opacity: 1; transform: translateY(0); }
+        }
+
+        /* URL hash handling */
+        .nav-tab[href="#contents"] { background: var(--color-contents); }
+        .nav-tab[href="#tibetan"] { background: var(--color-tibetan); }
+        .nav-tab[href="#wylie"] { background: var(--color-wylie); }
+        .nav-tab[href="#literal"] { background: var(--color-literal); }
+        .nav-tab[href="#liturgical"] { background: var(--color-liturgical); }
+        .nav-tab[href="#commentary"] { background: var(--color-commentary); }
+        .nav-tab[href="#scholar"] { background: var(--color-scholar); }
+        .nav-tab[href="#epistemic"] { background: var(--color-epistemic); }
+        .nav-tab[href="#delusion"] { background: var(--color-delusion); }
+        .nav-tab[href="#cognitive"] { background: var(--color-cognitive); }
+
+        /* Welcome screen */
+        .welcome-screen {
+            text-align: center;
+            padding: 4em 2em;
+            background: #fff;
+        }
+
+        .welcome-screen h1 {
+            font-size: 2.5em;
+            color: var(--color-tibetan);
+            margin-bottom: 0.5em;
+        }
+
+        .welcome-screen .subtitle {
+            font-size: 1.2em;
+            color: var(--color-muted);
+            margin-bottom: 2em;
+        }
+
+        .welcome-screen .description {
+            max-width: 600px;
+            margin: 0 auto;
+            text-align: left;
+            color: var(--color-text);
+        }
+
+        .welcome-screen .description p {
+            margin-bottom: 1em;
+        }
+
+        /* Mobile adjustments */
+        @media (max-width: 768px) {
+            .nav-tabs {
+                gap: 0.15em;
+            }
+            .nav-tab {
+                padding: 0.4em 0.6em;
+                font-size: 0.75em;
+            }
+        }
+    </style>
+</head>
+<body>
+    <!-- Navigation -->
+    <nav class="nav-container">
+        <div class="nav-tabs">
+            <a href="#contents" class="nav-tab contents">Contents</a>
+            <a href="#tibetan" class="nav-tab tibetan">Tibetan</a>
+            <a href="#wylie" class="nav-tab wylie">Wylie</a>
+            <a href="#literal" class="nav-tab literal">Literal</a>
+            <a href="#liturgical" class="nav-tab liturgical">Liturgical</a>
+            <a href="#commentary" class="nav-tab commentary">Commentary</a>
+            <a href="#scholar" class="nav-tab scholar">Scholar</a>
+            <a href="#epistemic" class="nav-tab epistemic">Epistemic</a>
+            <a href="#delusion" class="nav-tab delusion">Delusion</a>
+            <a href="#cognitive" class="nav-tab cognitive">Cognitive</a>
+            <button class="dark-mode-toggle" onclick="toggleDarkMode()">Dark</button>
+        </div>
+    </nav>
+
+    <!-- Welcome Screen -->
+    <div id="welcome" class="welcome-screen">
+        <h1>Treasury of the Supreme Vehicle</h1>
+        <div class="subtitle">ཐེག་པའི་མཆོག་རིན་པོ་ཆེའི་མཛོད</div>
+        <div class="description">
+            <p>Welcome to the nine-layer translation of Longchen Rabjampa's masterpiece. 
+            This interface provides access to parallel views of the text across multiple 
+            interpretive layers.</p>
+            
+            <p><strong>Click any tab above</strong> to explore that layer. When viewing 
+            Tibetan and Wylie layers, switching between them preserves your scroll 
+            position by line number. For later layers (Commentary through Cognitive), 
+            the system finds the nearest matching line range.</p>
+            
+            <p>Each layer represents a different aspect of the translation:</p>
+            <ul>
+                <li><strong>Tibetan</strong> — Original Tibetan text</li>
+                <li><strong>Wylie</strong> — Tibetan transliteration</li>
+                <li><strong>Literal</strong> — Word-by-word translation</li>
+                <li><strong>Liturgical</strong> — Poetic chanting version</li>
+                <li><strong>Commentary</strong> — Philosophical interpretation</li>
+                <li><strong>Scholar</strong> — Academic analysis</li>
+                <li><strong>Epistemic</strong> — View/pedagogy layers</li>
+                <li><strong>Delusion</strong> — Error analysis</li>
+                <li><strong>Cognitive</strong> — Technical annotations</li>
+            </ul>
+        </div>
+    </div>
+
+    <!-- Content Container -->
+    <div class="content-container">
+        <!-- Contents -->
+        <div id="contents" class="layer-content">
+            <div class="layer-header">
+                <h1>Table of Contents</h1>
+                <div class="subtitle">Treasury of the Supreme Vehicle</div>
+            </div>
+            <iframe class="layer-frame" data-src="html/contents_proof.html"></iframe>
+        </div>
+
+        <!-- Tibetan -->
+        <div id="tibetan" class="layer-content">
+            <div class="layer-header">
+                <h1>Tibetan</h1>
+                <div class="subtitle">Original Tibetan Text · ཡིག་གཟུགས</div>
+            </div>
+            <iframe class="layer-frame" data-src="html/tibetan_proof.html"></iframe>
+        </div>
+
+        <!-- Wylie -->
+        <div id="wylie" class="layer-content">
+            <div class="layer-header">
+                <h1>Wylie</h1>
+                <div class="subtitle">Tibetan Transliteration</div>
+            </div>
+            <iframe class="layer-frame" data-src="html/wylie_proof.html"></iframe>
+        </div>
+
+        <!-- Literal -->
+        <div id="literal" class="layer-content">
+            <div class="layer-header">
+                <h1>Literal</h1>
+                <div class="subtitle">Word-by-Word Translation</div>
+            </div>
+            <iframe class="layer-frame" data-src="html/literal_proof.html"></iframe>
+        </div>
+
+        <!-- Liturgical -->
+        <div id="liturgical" class="layer-content">
+            <div class="layer-header">
+                <h1>Liturgical</h1>
+                <div class="subtitle">Poetic Chant Version</div>
+            </div>
+            <iframe class="layer-frame" data-src="html/liturgical_proof.html"></iframe>
+        </div>
+
+        <!-- Commentary -->
+        <div id="commentary" class="layer-content">
+            <div class="layer-header">
+                <h1>Commentary</h1>
+                <div class="subtitle">Philosophical Interpretation</div>
+            </div>
+            <iframe class="layer-frame" data-src="html/commentary_proof.html"></iframe>
+        </div>
+
+        <!-- Scholar -->
+        <div id="scholar" class="layer-content">
+            <div class="layer-header">
+                <h1>Scholar</h1>
+                <div class="subtitle">Academic Analysis</div>
+            </div>
+            <iframe class="layer-frame" data-src="html/scholar_proof.html"></iframe>
+        </div>
+
+        <!-- Epistemic -->
+        <div id="epistemic" class="layer-content">
+            <div class="layer-header">
+                <h1>Epistemic</h1>
+                <div class="subtitle">View &amp; Pedagogy Layers</div>
+            </div>
+            <iframe class="layer-frame" data-src="html/epistemic_proof.html"></iframe>
+        </div>
+
+        <!-- Delusion -->
+        <div id="delusion" class="layer-content">
+            <div class="layer-header">
+                <h1>Delusion</h1>
+                <div class="subtitle">Error Analysis</div>
+            </div>
+            <iframe class="layer-frame" data-src="html/delusion_proof.html"></iframe>
+        </div>
+
+        <!-- Cognitive -->
+        <div id="cognitive" class="layer-content">
+            <div class="layer-header">
+                <h1>Cognitive</h1>
+                <div class="subtitle">Technical Annotations</div>
+            </div>
+            <iframe class="layer-frame" data-src="html/cognitive_proof.html"></iframe>
+        </div>
+    </div>
+
+    <!-- Line Indicator -->
+    <div id="line-indicator" class="line-indicator"></div>
+
+    <script>
+        // Layer configuration
+        const layers = {
+            'contents': { exactMatch: false, hasRanges: false },
+            'tibetan': { exactMatch: true, hasRanges: false },
+            'wylie': { exactMatch: true, hasRanges: false },
+            'literal': { exactMatch: true, hasRanges: false },
+            'liturgical': { exactMatch: true, hasRanges: false },
+            'commentary': { exactMatch: false, hasRanges: true },
+            'scholar': { exactMatch: false, hasRanges: true },
+            'epistemic': { exactMatch: false, hasRanges: true },
+            'delusion': { exactMatch: false, hasRanges: true },
+            'cognitive': { exactMatch: false, hasRanges: true }
+        };
+
+        // State
+        let currentLayer = null;
+        let currentLine = null;
+        let isLoading = false;
+
+        // DOM elements
+        const welcomeScreen = document.getElementById('welcome');
+        const lineIndicator = document.getElementById('line-indicator');
+        const navTabs = document.querySelectorAll('.nav-tab');
+
+        // Initialize iframes with lazy loading
+        document.querySelectorAll('.layer-frame').forEach(iframe => {
+            iframe.src = 'about:blank';
+        });
+
+        // Handle navigation
+        function handleNavigation() {
+            const hash = window.location.hash.slice(1) || '';
+            
+            if (!hash) {
+                showWelcome();
+                return;
+            }
+
+            if (layers[hash]) {
+                showLayer(hash);
+            } else {
+                showWelcome();
+            }
+        }
+
+        function showWelcome() {
+            welcomeScreen.style.display = 'block';
+            document.querySelectorAll('.layer-content').forEach(el => {
+                el.classList.remove('active');
+            });
+            navTabs.forEach(tab => tab.classList.remove('active'));
+            currentLayer = null;
+            hideLineIndicator();
+        }
+
+        function showLayer(layerId) {
+            welcomeScreen.style.display = 'none';
+            
+            // Update tabs
+            navTabs.forEach(tab => {
+                tab.classList.toggle('active', tab.getAttribute('href') === '#' + layerId);
+            });
+
+            // Show content
+            document.querySelectorAll('.layer-content').forEach(el => {
+                el.classList.toggle('active', el.id === layerId);
+            });
+
+            // Load iframe if needed
+            const iframe = document.querySelector(`#${layerId} .layer-frame`);
+            if (iframe && iframe.src === 'about:blank') {
+                iframe.src = iframe.dataset.src;
+            }
+
+            currentLayer = layerId;
+
+            // Check for line anchor
+            const hashParts = window.location.hash.split(':');
+            if (hashParts.length >= 2) {
+                const line = parseInt(hashParts[1]);
+                if (!isNaN(line)) {
+                    setTimeout(() => scrollToLine(layerId, line), 500);
+                }
+            }
+        }
+
+        function scrollToLine(targetLayer, targetLine) {
+            const iframe = document.querySelector(`#${targetLayer} .layer-frame`);
+            if (!iframe || !iframe.contentDocument) return;
+
+            const targetConfig = layers[targetLayer];
+            let foundLine = null;
+            let matchType = 'exact';
+
+            if (targetConfig.exactMatch) {
+                // Exact line match (Tibetan, Wylie, Literal, Liturgical)
+                const exactAnchor = iframe.contentDocument.querySelector(`[id="line-${targetLine}"]`);
+                if (exactAnchor) {
+                    foundLine = targetLine;
+                    exactAnchor.scrollIntoView({ behavior: 'smooth', block: 'start' });
+                }
+            } else if (targetConfig.hasRanges) {
+                // Range-based matching (Commentary, Scholar, Epistemic, Delusion, Cognitive)
+                const ranges = Array.from(iframe.contentDocument.querySelectorAll('[class*="line-range"]'));
+                
+                let closestRange = null;
+                let closestDiff = Infinity;
+
+                ranges.forEach(rangeEl => {
+                    const text = rangeEl.textContent;
+                    const match = text.match(/\[(\d+)-(\d+)\]/);
+                    if (match) {
+                        const start = parseInt(match[1]);
+                        const end = parseInt(match[2]);
+                        
+                        if (targetLine >= start && targetLine <= end) {
+                            // Exact range match
+                            foundLine = text;
+                            matchType = 'range';
+                            closestRange = rangeEl;
+                            return;
+                        } else {
+                            // Find closest range
+                            const mid = (start + end) / 2;
+                            const diff = Math.abs(mid - targetLine);
+                            if (diff < closestDiff) {
+                                closestDiff = diff;
+                                closestRange = rangeEl;
+                                foundLine = text;
+                            }
+                        }
+                    }
+                });
+
+                if (closestRange) {
+                    closestRange.scrollIntoView({ behavior: 'smooth', block: 'start' });
+                }
+            }
+
+            // Update indicator
+            if (foundLine) {
+                showLineIndicator(targetLayer, foundLine, matchType);
+            }
+        }
+
+        function showLineIndicator(layer, line, matchType) {
+            const layerNames = {
+                'tibetan': 'Tibetan',
+                'wylie': 'Wylie',
+                'literal': 'Literal',
+                'liturgical': 'Liturgical',
+                'commentary': 'Commentary',
+                'scholar': 'Scholar',
+                'epistemic': 'Epistemic',
+                'delusion': 'Delusion',
+                'cognitive': 'Cognitive'
+            };
+
+            let msg = `${layerNames[layer]}: ${line}`;
+            if (matchType === 'range') {
+                msg += ' (nearest range)';
+            }
+
+            lineIndicator.textContent = msg;
+            lineIndicator.classList.add('visible');
+
+            // Hide after 3 seconds
+            setTimeout(() => {
+                lineIndicator.classList.remove('visible');
+            }, 3000);
+        }
+
+        function hideLineIndicator() {
+            lineIndicator.classList.remove('visible');
+        }
+
+        // Listen for hash changes
+        window.addEventListener('hashchange', handleNavigation);
+
+        // Handle clicks on iframes to capture scroll position
+        document.querySelectorAll('.layer-frame').forEach(iframe => {
+            iframe.addEventListener('load', function() {
+                if (currentLayer) {
+                    try {
+                        const doc = this.contentDocument;
+                        
+                        // For Tibetan/Wylie, add line anchors
+                        if (currentLayer === 'tibetan' || currentLayer === 'wylie') {
+                            const lineNums = doc.querySelectorAll('[class*="line-num"]');
+                            lineNums.forEach(el => {
+                                const text = el.textContent.trim();
+                                if (text && /^\d+$/.test(text)) {
+                                    el.id = 'line-' + text;
+                                }
+                            });
+                        }
+                    } catch(e) {
+                        // Cross-origin restriction, ignore
+                    }
+                }
+            });
+        });
+
+        // Dark mode toggle
+        function toggleDarkMode() {
+            document.body.classList.toggle('dark-mode');
+            const btn = document.querySelector('.dark-mode-toggle');
+            btn.textContent = document.body.classList.contains('dark-mode') ? 'Light' : 'Dark';
+            localStorage.setItem('darkMode', document.body.classList.contains('dark-mode'));
+        }
+
+        // Load dark mode preference
+        if (localStorage.getItem('darkMode') === 'true') {
+            document.body.classList.add('dark-mode');
+            document.querySelector('.dark-mode-toggle').textContent = 'Light';
+        }
+
+        // Initialize on load
+        handleNavigation();
+    </script>
+</body>
+</html>

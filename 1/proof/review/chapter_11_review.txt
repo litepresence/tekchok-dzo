@@ -1,0 +1,3696 @@
+Conduct deep scan and critical honest review of the attached Tibetan Dzogchen translation in light of the literal and liturgical mission statements.
+
+If you have suggestions for specific lines return them in code block in the strict line format:
+
+[line number]<literal or liturgical><<liturgical tags if any>>replacement text
+
+(double line break)
+
+For each entry, eg.
+
+[684]<literal>buddhas-by-means-of dharma teach-and
+[725]<liturgical><prose>The antidote for the three poisons of desire, anger, and delusion is the realization of emptiness.
+
+============================================================
+
+# LITERAL MISSION STATEMENT
+
+## Expected Output: Dense, Concise Literal Translation
+
+The literal layer should provide:
+- Word-by-word or phrase-by-phrase translation closest to Tibetan syntax
+- Technical term consistency (same English term for same Tibetan term)
+- Minimal elaboration - translate what is there, no more
+- Serve as "truth" reference for checking interpretive translations
+- Use compound structures that mirror Tibetan word compounds
+- Preserve Tibetan word order where possible
+- Include Sanskrit loanwords in IAST transliteration when original is Sanskrit
+- Mark Tibetan technical terms in italics or parentheses
+- No theological interpretation or doctrinal elaboration
+- Cadence should feel slightly "awkward" in English - this is a feature, not a bug
+
+============================================================
+
+# LITURGICAL MISSION STATEMENT
+
+## Expected Output: Poetic, Devotional, Oral-Performance Ready
+
+The liturgical layer should provide:
+- Flowing, elegant English that sounds good when chanted or read aloud
+- Proper English grammar and syntax (readable, not literally awkward)
+- Traditional Buddhist terminology in standard English translations
+- Verse/prose formatting with clear break markers
+- Tags indicating vocal performance:
+  - <ornament> - Title markers, colophons, auspicious openings
+  - <break> - Major section transitions
+  - <verse> - Metric lines meant for chanting
+  - <prose> - Explanatory passages for oral delivery
+  - <prayer> - Devotional requests or aspirations
+  - <citation> - Scriptural references or quotations
+- Appropriate honorifics and devotional language
+- Should "come alive" when performed orally
+- Preserves meaning while prioritizing beauty and usability
+
+============================================================
+
+The draft in need of review is:
+
+# Treasury of the Supreme Vehicle: Autocommentary
+# Longchen Rabjampa (1308-1364)
+## Volume 01 - Chapter 11 - Section 01
+## Chapter 11: Channels, Winds, and Bindus
+
+[13104]
+<tibetan>དང་པོ་དྲི་ཟ་ཉེ་བར་འཇུག་པའི་སེམས་ལུས་འཚོལ་བའི་ཕྱིར་འོངས་པ་དང༌།
+<literal>first smell-eater near enter-'s mind body seeks-'s cause came and/
+<liturgical><prose>First, for the mind of the gandharva entering nearby, seeking a body—the manner of coming.
+
+[13105]
+<tibetan>ཕ་མ་འདུ་འཕྲོད་བྱེད་པ་འཛོམ་ནས་མའི་བཤང་ལམ་ནས་ཞུགས་ཏེ།
+<literal>father mother gather meet do joined-by-means-of mother-'s anus from entered/
+<liturgical><prose>Father and Mother, joining and dissolving in wisdom-space, from the mother's birth passage entering.
+
+[13106]
+<tibetan>ཕའི་དངས་མ་དཀར་པོ་ཡུངས་འབྲུ་ཙམ་མིག་ཆུང་འཚེར་བ་དངུལ་ཆུ་ལྟ་བུ།
+<literal>father-'s essence white mustard-seed like eye small radiant mercury like/
+<liturgical><prose>The father's white essence, the size of a mustard seed, clear small eye—like quicksilver.
+
+[13107]
+<tibetan>མའི་རིགས་ཅན་གྱི་རྩའི་དངས་མ་དམར་པོ་ལ་ཐིམ་པ།
+<literal>mother-'s race-'s channel-'s essence red on dissolved/
+<liturgical><prose>Absorbed into the red essence of the mother's lineage channel.
+
+[13108]
+<tibetan>མའི་མངལ་དུ་ཁྲག་དང་འོ་མ་འདྲེས་པ་ལྟར་གཅིག་ཏུ་གྱུར་པ་ལས།
+<literal>mother-'s womb in blood and milk mixed like one became from/
+<liturgical><prose>In the mother's womb, like blood and milk mixed, becoming one from that.
+
+[13109]
+<tibetan>ལུས་འགྲུབ་པའི་ཚུལ་བཤད་ན་ཐོག་མ་ལུས་ཆགས་པའི་རྟེན་ནི།
+<literal>body accomplish-'s manner explained if first body form-'s support is/
+<liturgical><prose>The manner of the body's formation explained: first, the support of the body's formation is:
+
+[13110]
+<tibetan>འབྱུང་བ་བཞི་ལས་སྟོང་པ་མ་ནམ་མཁའ་ལྟར་གནས་པ་ལས།
+<literal>elements four from empty mother space like abides from/
+<liturgical><prose>From the four elements empty, space like the sky abiding.
+
+[13111]
+<tibetan>ཕ་མ་དེ་དག་གི་རང་བཞིན་གྱི་ཉོན་མོངས་པ་དང་རྩ་འདབ་ཀྱི་རླུང་ལས་འདོད་པའི་སེམས་གཡོས་པས།
+<literal>father mother those self-nature-'s affliction and channel-petal-'s wind from desire-'s mind moved-by-means-of/
+<liturgical><prose>From those parents' self-nature afflictions and the channels' leaves' wind, desire-mind moved.
+
+[13112]
+<tibetan>རྩ་གནས་ཀྱི་ཡི་གེའི་རླུང་གི་རང་སྒྲ་ཡཾ་ཞེས་པའི་ངང་ལས་མེའི་འདོད་པ་དངོས་སུ་མཆེད་ནས།
+<literal>channel abode-'s letter-'s wind-'s self-sound yaM named-'s state from fire-'s desire actually blazed-by-means-of/
+<liturgical><prose>From the channel-abode's letter wind's self-sound YAM, from that state the fire desire actually blazing.
+
+[13113]
+<tibetan>རཾ་ཞེས་རག་སྒྲ་གཡོས་པས་འབར་ཞིང་འགྱུར་བའི་ཉམས་ལས།
+<literal>raM named rough sound moved-by-means-of blaze and change-'s experience from/
+<liturgical><prose>RAM—like that sound moves, blazing and changing—appearance. || 10 ||
+
+[13114]
+<tibetan>འདོད་པ་དེ་ཆགས་པར་སོང་བས་འདོད་པ་རྒྱུ་དང་ཆགས་བ་རྐྱེན་གཉིས་འཛོམ་སྟེ།
+<literal>desire that attach went-by-means-of desire cause and attachment condition two joined/
+<liturgical><prose>That desire becoming attached, desire cause and attached condition two joined.
+
+[13115]
+<tibetan>དངོས་སུ་འཇུག་པ་ཆུའི་འདོད་པ།
+<literal>actually enter water-'s desire/
+<liturgical><prose>Actually entering the water desire.
+
+[13116]
+<tibetan>གཅིག་ལ་གཅིག་བལྟ་བ་དང༌།
+<literal>one on one look and/
+<liturgical><prose>Looking at one another.
+
+[13117]
+<tibetan>དགོད་པ་དང༌།
+<literal>laugh and/
+<liturgical><prose>Smiling.
+
+[13118]
+<tibetan>བཅངས་པ་ལ་སོགས་པའི་ཆགས་པས་ཡི་གེའི་རང་སྒྲ་ཁཾ་ཞེས་གཡོས་ཏེ།
+<literal>hold and so-forth-'s attachment by-means-of letter-'s self-sound khaM named moved/
+<liturgical><prose>Embracing and so forth, attached by letter self-sound KHAM moves.
+
+[13119]
+<tibetan>འཁྱུད་ཅིང་དབང་པོ་སྦྱར་བ་ལས།
+<literal>embrace and sense-faculty joined from/
+<liturgical><prose>From embracing and sense-faculties joined.
+
+[13120]
+<tibetan>ལུས་ཀྱི་སའི་བརྟན་པས་བདེ་བ་མྱོང་སྟེ།
+<literal>body-'s earth-'s stability by-means-of bliss experience/
+<liturgical><prose>From the earth stability of the body, bliss experienced.
+
+[13121]
+<tibetan>སཾ་གི་རང་སྒྲ་བྱུང༌།
+<literal>saM-'s self-sound arose/
+<liturgical><prose>SAM self-sound arises.
+
+[13122]
+<tibetan>མའི་རིགས་ཅན་ལྔའི་རྩ་གཏུམས་པ་དེ་ཟླ་མཚན་དང་དུས་ཀྱི་ཞག་བདུན་ཚན་དུ་གྱུར་པ་ལས།
+<literal>mother-'s race five-'s channel womb that menstruation and time-'s day seven section became from/
+<liturgical><prose>The mother's lineage five channels twisted, that moon-time and seven-day period becoming.
+
+[13123]
+<tibetan>དམར་པོ་ལྕགས་ཀྱུ་ལྟ་བུར་འདྲེན་པའི་རླུང་གི་སྟོབས་ཡོད་པ་དེས།
+<literal>red iron-hook like draw-'s wind-'s force exists that by-means-of/
+<liturgical><prose>Red, like an iron hook drawing, the wind power possessing that. || 20 ||
+
+[13124]
+<tibetan>ཕའི་དྭངས་མ་རྒྱུའི་རང་སྤྱི་བོ་ནས་དྲངས་ཏེ།
+<literal>father-'s essence cause-'s self head from drawn/
+<liturgical><prose>The father's essence, the cause's self-nature from crown drawn.
+
+[13125]
+<tibetan>རྡོ་ཁབ་ལེན་ལ་ལྕགས་འདུ་བ་ལྟར།
+<literal>stone magnet on iron gathers like/
+<liturgical><prose>Like iron gathering in the magnet.
+
+[13126]
+<tibetan>ཕའི་སྒལ་ཚིགས་ཉེར་བརྒྱད་ནས་རྟ་བརྒྱུད་དེ་རྒྱུངས་པ་དཀར་པོའི་སྦུབས་ནས་ལམ་བྱུང་བ་ནི།
+<literal>father-'s spine twenty-eight from horse passed-by-means-of stream white-'s channel from path emerged is/
+<liturgical><prose>From the father's twenty-eight vertebrae passed through, the white channel-path emerged from the white shell-like cavity.
+
+[13127]
+<tibetan>ཞག་བདུན་ཕྲག་བཞིན་མའི་མངལ་དུ་ལུས་ཀྱི་གཞི་འཛིན་པ་དང་བུ་ལ་བྱང་སེམས་དཀར་པོ་འབྱུང་བའི་གནད་དོ།
+<literal>day seven times-four mother-'s womb in body-'s basis grasp and child on bodhicitta white arise-'s vital-point/
+<liturgical><prose>For seven days, four times in the mother's womb, the body's basis held and son bodhicitta white arising—the essential point.
+
+[13128]
+<tibetan>།དེ་ནས་རྡོ་རྗེའི་རྩ་བར་བདེ་ཆེན་གྱི་ལམ་སྦྱངས།
+<literal>/then vajra-'s root on great-bliss-'s path prepared/
+<liturgical><prose>Then at the vajra channel-base, great bliss path opened.
+
+[13129]
+<tibetan>རྐེད་པར་བདེ་བ་ལུགས་སུ་བླུགས།
+<literal>waist on bliss manner filled/
+<liturgical><prose>At the navel, bliss poured into the sheep-like.
+
+[13130]
+<tibetan>།རྩེ་མོར་བདེ་བ་སྨིན་པར་བྱས་ནས།
+<literal>/tip on bliss mature made/
+<liturgical><prose>At the tip, bliss ripened.
+
+[13131]
+<tibetan>མཁས་ལ་དངོས་སུ་འཐོན་ནས་མའི་རིགས་ཅན་གྱི་རྩ་སྣའི་ནང་གི་གདངས་མ་དམར་པོ་ལ་ཐིམ་ནས།
+<literal>wise on actually emerged-by-means-of mother-'s race-'s channel nose-'s inside-'s tone red on dissolved-by-means-of/
+<liturgical><prose>Directly emerging to the mouth, into the mother's lineage channel nose inside red tone absorbed.
+
+[13132]
+<tibetan>མངལ་དུ་ཁྲག་དང་འོ་མ་འདྲེས་པ་ལྟར་གཅིག་ལ་གཅིག་ཐིམ་སྟེ་གཉིས་ཀྱི་རིགས་ཡོད་པ་ལས།
+<literal>womb in blood and milk mixed like one on one dissolved two-'s race exists from/
+<liturgical><prose>In the womb like blood and milk mixed, one absorbed into one, two lineages possessing.
+
+[13133]
+<tibetan>རིགས་ཅན་ལྔའི་ནུས་པས་ཕའི་ཤེས་པ་ཡང་ནང་དུ་འདྲེན་པ་ལྟར་གྱུར་པ་ལས།
+<literal>kind-five capacity by-means-of father knowing also inner draw like become from
+<liturgical><prose>From the lineage five's power, the father's consciousness also drawn inside like. || 30 ||
+
+[13134]
+<tibetan>རྗེས་ལ་ཞེན་པ་དང་བྲལ་ནས་སྐྱུག་མེར་གྱིས་འགྲོ་ཞིང༌།
+<literal>posterior attachment and free-from vomit-in go and
+<liturgical><prose>Later, free from attachment, going by vomit.
+
+[13135]
+<tibetan>མ་ལ་རིགས་ཅན་གང་ཡང་རུང་བའི་འདྲེན་བྱེད་ཡོད་པས་བདེ་བ་ལ་ཆོག་ཤེས་མེད་པ་ནི།
+<literal>mother to kind any exist draw-cause exist bliss contentment not-know is
+<liturgical><prose>The mother whatever lineage pulling-possessing, to bliss contentment not-knowing is.
+
+[13136]
+<tibetan>འདོད་ཆགས་ཀྱི་རྒྱུ་རྐྱེན་ལས་བྱུང་བའོ།
+<literal>desire cause condition from arisen
+<liturgical><prose>From desire-attachment cause-condition arisen.
+
+[13137]
+<tibetan>།འདོད་པ་དང་ཆགས་པ་གཉིས།
+<literal>/desire and attachment two
+<liturgical><prose>Desire and attachment two.
+
+[13138]
+<tibetan>རྒྱུ་དང་རྐྱེན་གཉིས་སུ་བཟུང་བས་ན།
+<literal>cause and condition two grasp by-means-of
+<liturgical><prose>Cause and condition two held.
+
+[13139]
+<tibetan>སྲིད་པ་ལུས་ཀྱི་གཞི་རླུང་གིས་འཛིན་ཞིང༌།
+<literal>becoming body base wind by-means-of grasp and
+<liturgical><prose>Existence body's basis wind holds.
+
+[13140]
+<tibetan>རྒྱུ་རྐྱེན་གཉིས་གཉིས་སུ་མེད་པར་ཤེས་པས་བདེ་བ་དང་བདེ་བ་ཆེན་པོའི་འབྲས་བུ་ལ།
+<literal>cause condition two dual not know by-means-of bliss and great-bliss result to
+<liturgical><prose>Cause-condition two non-dual known, bliss and great bliss result.
+
+[13141]
+<tibetan>སྐུ་དང་ཡེ་ཤེས་ཀྱི་འབྲས་བུ་འདྲིལ་བར་འགྱུར་རོ།
+<literal>body and pristine-awareness result gather become
+<liturgical><prose>Body and wisdom's result rolled.
+
+[13142]
+<tibetan>།དེ་ལྟར་མའི་མངལ་ནས་ཞག་གཅིག་གི་ནུབ་མོ་ཕ་མའི་རྒྱུ་རྐྱེན་གཉིས་ཕྱིའི་རྒྱ་གཅིག་ཏུ་གྱུར་ནས།
+<literal>/thus mother womb from day one night father mother cause condition two outer seal one become having
+<liturgical><prose>Thus from the mother's womb one night's night, father-mother cause-condition two outer cause one becoming.
+
+[13143]
+<tibetan>ནང་མ་འདྲེས་པ་སྲན་མའི་གའུ་ལྟར་གནས་པའི་བར་དུ་བུའི་རླུང་སེམས་བཟུང་ནས་གནས་པས་འབྱུང་བ་བཞིའི་འཆིང་བྱེད་ཀྱི་རྒྱ་རིན་པོ་ཆེའི་སྤྲིས་དང་འདྲ་བས་བཅིངས་ནས་འབྲལ་བའི་སྐབས་མེད་པར་བྱས་པ་ནི།
+<literal>inner not-mixed bean pod like abide interval child wind-mind grasp having abide by-means-of elements four binding-maker seal jewel dust like bind having separate occasion none make is
+<liturgical><prose>Inside not-mixed, like a mustard seed in a ga'u abiding, until son wind-mind held abiding, the four elements binding-cause vajra-like jewel-shell binding, separation no opportunity made. || 40 ||
+
+[13144]
+<tibetan>ལུས་རྫོགས་པའི་དུས་ན་ཁམ་གྱི་ཟས་མེད་ན་ཚེ་མི་གནས་པ་དེ་ལས་བྱུང་ངོ༌།
+<literal>body complete time food nourishment without life not-abide that from arisen
+<liturgical><prose>Body complete time, food element not, life not abiding—from that arisen.
+
+[13145]
+<tibetan>།དེའི་དུས་ན་འབྱུང་བ་རླུང་གིས་ལུས་བཟུང་བ་དེ་ནང་གི་རླུང་འཕར་བའི་སྟོབས་ཀྱིས་གྱེན་ལ་འཕར་ནས་དངུལ་ཆུའི་ཐིགས་པ་ཡར་བ་ལྟར་ཕྲིལ་ཕྲིལ་གནས་ཏེ།
+<literal>/that time element wind by-means-of body grasp that inner wind rise force by-means-of upward rise mercury drop rise like very-subtle abide
+<liturgical><prose>At that time, elements wind body held, that inside wind up-blown power up-arising, like mercury drops upward, flickering abiding.
+
+[13146]
+<tibetan>ལུས་རྫོགས་པའི་དུས་ན་ལུས་སེམས་ལ་གློ་བུར་གྱི་རྐྱེན་ཅི་བྱུང་ཡང་སྡངས་ཡེད་ལ་ལུས་འདར་བའི་གནད་དེ་ལས་བྱུང་བའོ།
+<literal>body complete time body mind adventitious condition what arise although fearless body tremble key that from arisen
+<liturgical><prose>Body complete time, body-mind sudden condition whatever arisen, bright-aware body trembling essential point—from that arisen.
+
+[13147]
+<tibetan>།དེ་ནས་ཞག་གཉིས་པ་ལ་སས་གཅིག་ཏུ་བསྲེས་ཏེ་ལྗིད་ཀྱིས་མནན་པས་བུ་དེའི་སྤྱི་གཙུག་ནས་རིས་མནན་པ་ཙམ་གྱི་སྡུག་བསྔལ་ཡོད་དོ།
+<literal>/then day two earth with-one mix weight by-means-of press child crown from class press only suffering exist
+<liturgical><prose>Then second day, earth one compressed, weight pressed, son that crown pressed just suffering existing.
+
+[13148]
+<tibetan>།འདི་དུས་ན་ལུས་ཀྱི་རྒྱུ་ཤ་ཙམ་སྨིན་ཙམ་དུ་བཟུང་ལ།
+<literal>/this time body cause flesh only ripen only grasp
+<liturgical><prose>At this time, body's cause flesh just ripened just held.
+
+[13149]
+<tibetan>རྐྱེན་རྩ་ཙམ་ཆུ་ཙམ་དུ་མཆེད་པས།
+<literal>condition channels only water only expand by
+<liturgical><prose>Condition channel just water just grown.
+
+[13150]
+<tibetan>གཏི་མུག་གི་རྒྱུ་རྐྱེན་གཉིས་སུ་མེད་པ་ལས།
+<literal>delusion cause condition two dual not from
+<liturgical><prose>Delusion cause-condition two non-dual.
+
+[13151]
+<tibetan>མི་རྟོག་པའི་ཡེ་ཤེས་སུ་གྲོལ་བས་རྫོགས་པ་ཆེན་པོ་སྤང་བླང་ལས་འདས་པའི་གནད་དོ།
+<literal>non-concept pristine-awareness liberate by-means-of great-perfection rejection-acceptance beyond key
+<liturgical><prose>Non-conceptual wisdom liberated, great perfection acceptance-rejection beyond essential point.
+
+[13152]
+<tibetan>།གོང་མ་ལུས་ཀྱི་རྒྱུ་བརླན་ཙམ་ཁྲག་ཙམ་དུ་ཆགས་པས་རྐྱེན་ཆུ་ཙམ་རྒྱུས་ཙམ་དུ་འབབ་པའོ།
+<literal>/above body cause moist only blood only become condition water only channels only descend
+<liturgical><prose>Above body's cause dried just, blood just becoming, condition water just cause just flowing down.
+
+[13153]
+<tibetan>།དེ་ནས་ཀྱང་ཞག་གསུམ་པ་ལ་རླུང་སེམས་རྒྱུ་རྐྱེན་དང་བཅས་པ་དེ་རྡུལ་ཕྲ་རབ་ཙམ་དུ་བསྲེགས་པས།
+<literal>/then also day three wind mind cause condition with that dust very-subtle burn by-means-of
+<liturgical><prose>Then again third day, wind-mind cause-condition with that dust-fine just burned. || 50 ||
+
+[13154]
+<tibetan>མེ་དམར་པོའི་འོབས་སུ་ཚུད་པ་ཙམ་གྱིས་སྡུག་བསྔལ་མྱོང་ངོ༌།
+<literal>fire red-'s pit in entered just by-means-of suffering experiences/
+<liturgical><prose>Fire red furnace entered just, suffering experienced.
+
+[13155]
+<tibetan>།འདིའི་དུས་ན་ལུས་ཀྱི་རྒྱུ་རླུང་ཙམ་དུ་སྔན་ལ།
+<literal>/this-'s time in body-'s cause wind just first/
+<liturgical><prose>This time, body's cause wind just before.
+
+[13156]
+<tibetan>རྐྱེན་རྐང་ཙམ་མར་ཙམ་དུ་འདྲིལ་བས་སོ།
+<literal>condition foot just down just rolled-by-means-of/
+<liturgical><prose>Condition foot just down just twisted.
+
+[13157]
+<tibetan>།དེ་ནས་ཞག་བཞི་པ་ལ་དེ་དག་རླུང་གི་དངུལ་ཆུའི་རྡུལ་ཕྲ་རབ་ཙམ་དུ་གཏོར་བས།
+<literal>/then day fourth on those wind-'s mercury-'s particle very-small like scattered-by-means-of/
+<liturgical><prose>Then fourth day, that wind mercury dust-fine scattered.
+
+[13158]
+<tibetan>གསད་ཤིང་གིས་ཡན་ལག་དུམ་བུར་ཁྱེར་བའི་སྡུག་བསྔལ་ཙམ་མོ།
+<literal>saw wood by-means-of limb lump as carried-'s suffering just/
+<liturgical><prose>Chopper limbs piece carried suffering just.
+
+[13159]
+<tibetan>།དེ་ཡང་ཁོང་ཁྲོ་ལས་བྱུང་བའོ།
+<literal>/that even anger from arose/
+<liturgical><prose>That from hatred arisen.
+
+[13160]
+<tibetan>།དེ་ཡང་གོང་གི་ལུས་ཀྱི་ལུས་ཀྱི་རྒྱུ་རྡུལ་ཕྲ་རབ་ཙམ་དུ་སྨིན་པའི་རྐྱེན་བཀྲག་མདངས་སུ་གསལ་བར་བྱས་པ་ནི།
+<literal>/that even above-'s body-'s body-'s cause particle very-small like mature-'s condition brightness as clear made is/
+<liturgical><prose>That above body body's cause dust-fine ripened, condition radiant clear made.
+
+[13161]
+<tibetan>ཕྱིའི་འབྱུང་བ་བཞིའི་བྱེད་པའི་ལས་ཀྱིས་གཟིངས་པ།
+<literal>outer-'s elements four-'s action-'s work by-means-of created/
+<liturgical><prose>Outside four elements action done.
+
+[13162]
+<tibetan>ནང་གི་འབྱུང་བའི་བཞིར་བཟུང་བས།
+<literal>inner-'s elements four as held-by-means-of/
+<liturgical><prose>Inside elements four held.
+
+[13163]
+<tibetan>ལུས་རྫོགས་པའི་ཚེ་ཕྱིར་ནམ་ཟླ་དུས་བཞི།
+<literal>body complete-'s time outer sun moon time four/
+<liturgical><prose>Body complete time, outside sun-moon season four. || 60 ||
+
+[13164]
+<tibetan>ནང་དུ་ཉིན་མཚན་ནང་ནུབ་བཞི་ལ་སྤྱོད་པ་དེ་ལས་བྱུང་བའོ།
+<literal>inner day night inside outside four on activity that from arose/
+<liturgical><prose>Inside day-night evening four activity—from that arisen.
+
+[13165]
+<tibetan>།དེའི་གནད་ཀྱིས་དབང་བཞིའི་འགྱུར་མཚོན་པའོ།
+<literal>/that-'s vital-point by-means-of empowerments four-'s change shows/
+<liturgical><prose>That essential point, four empowerments' transformation showing.
+
+[13166]
+<tibetan>།དེ་ནས་ཞག་བཞི་པའི་དུས་ན་ཁྱབ་པ་ཆུའི་རྩ་འཕྲོ་ཞིང་གསལ་བའི་ནང་དུ་ཁམས་ཡང་ཞིང་བསྐྱོད་པ་ཆགས་པ་རླུང་གིས་ཡར་ཕུལ་ལོ།
+<literal>/then day fourth-'s time on pervade water-'s channel spread and clear-'s inside in element light and moved attachment wind by upward sent/
+<liturgical><prose>Then fourth day's time, pervading water channels clear moving inside.
+
+[13167]
+<tibetan>།དེ་ལས་ཕྱོགས་བཞི་ཆུའི་ས་དང༌།
+<literal>/that from directions four water-'s earth and/
+<liturgical><prose>From that, directions four water-earth.
+
+[13168]
+<tibetan>མེ་དང༌།
+<literal>fire and/
+<liturgical><prose>Fire and.
+
+[13169]
+<tibetan>རླུང་གི་རྩ་འདར་བ་དང༌།
+<literal>wind-'s channel quiver and/
+<liturgical><prose>Wind channels trembling and.
+
+[13170]
+<tibetan>འཁྱུག་པ་དང༌།
+<literal>tremble and/
+<liturgical><prose>Shaking and.
+
+[13171]
+<tibetan>འཁྲིལ་བའི་ནང་དུ་ཡི་གེ་ཁཾ་ལྗང་བ་དང༌།
+<literal>coil-'s inside in letter khaM green and/
+<liturgical><prose>Coiling inside letter KHAM green and.
+
+[13172]
+<tibetan>དམར་བ་དང༌།
+<literal>red and/
+<liturgical><prose>Red and.
+
+[13173]
+<tibetan>སེར་བ་གསུམ་རྩ་དེ་དག་དང་མཐུན་པར་འདར་བ་དང༌།
+<literal>yellow three channel those and accord-with quiver and/
+<liturgical><prose>Yellow three channels those with harmonious trembling and. || 70 ||
+
+[13174]
+<tibetan>འཁྱུག་པ་དང༌།
+<literal>tremble and/
+<liturgical><prose>Shaking and.
+
+[13175]
+<tibetan>འཁྲིལ་བར་གནས་པ་ནི་ལུགས་རྫོགས་པ་ན་བློའི་འགྱུ་བ་མང་བ་དེ་ལས་བྱུང་བའོ།
+<literal>coil as abides is manner complete on mind-'s movement many that from arose/
+<liturgical><prose>Coiling abiding, sheep complete mind movement much—from that arisen.
+
+[13176]
+<tibetan>།དེ་དག་བཞིའི་དབུས་ན་ཚེ་ཤེས་བྱ་བ་ཐག་བསྒྲེངས་པ་ལྟ་བུར་གནས་སོ།
+<literal>/those four-'s center in life know named string stretched like abides/
+<liturgical><prose>Those four center, life called, stretched-thong like abiding.
+
+[13177]
+<tibetan>།དེ་ཉིད་ཚེ་ཞེས་བྱ།
+<literal>/that itself life named/
+<liturgical><prose>That life called.
+
+[13178]
+<tibetan>དུས་ཤེས་བྱ།
+<literal>time know named/
+<liturgical><prose>Time called.
+
+[13179]
+<tibetan>སྐབས་ཞེས་བྱ།
+<literal>occasion named/
+<liturgical><prose>Occasion called.
+
+[13180]
+<tibetan>དེ་ལས་གནས་པ་དང༌།
+<literal>that from abides and/
+<liturgical><prose>From that abiding and.
+
+[13181]
+<tibetan>འཕེལ་འགྲིབ་བྱེད་པའོ།
+<literal>increase decrease do/
+<liturgical><prose>Increasing-decreasing doing.
+
+[13182]
+<tibetan>།དེ་ཉིད་དྲང་པོར་གནས་ན་ཚེ་རིང་པས།
+<literal>/that itself straight as abides if life long/
+<liturgical><prose>That straight abiding, long life.
+
+[13183]
+<tibetan>ལུས་སུ་་སྨིན་ནས་ས་ལ་ལྷུང་བའི་ཚེ་སྒྲ་ཨཱ་ཡུ་ཞེས་གྲགས་པའོ།
+<literal>body in mature earth on fall-'s time sound A yu named famous/
+<liturgical><prose>Body ripened, earth fallen time, sound A YU famous. || 80 ||
+
+[13184]
+<tibetan>།ཚེ་བ་ཐག་གཡོན་དུ་འཁྱིལ་ན་ཚེ་ལ་བར་ཆོད་འབྱུང་སྟེ།
+<literal>/life cord left on coil if life on obstacle arises/
+<liturgical><prose>Life-thread left coiled, life obstacle arises.
+
+[13185]
+<tibetan>སྐྱེས་མ་ཐག་ཏུ་ཁཾ་ཞེས་པའི་སྒྲ་གྲགས་སོ།
+<literal>born just-after khaM named sound famous/
+<liturgical><prose>Born just-after, KHAM sound famous.
+
+[13186]
+<tibetan>།ཐུར་ལ་འཁྱོག་ན་ཚེ་ཐུང་བ་སྟེ།
+<literal>/down on curve if life short/
+<liturgical><prose>Downward bent, short life.
+
+[13187]
+<tibetan>སྐྱེས་མ་ཐག་ཏུ་སྒྲ་ཨ་ཁྲིམ་ཞེས་འབྱུང་ངོ༌།
+<literal>born just-after sound a khrim named arises/
+<liturgical><prose>Born just-after, sound A KRIM arises.
+
+[13188]
+<tibetan>།བསྟན་བཅོས་དག་ལས།
+<literal>/treatise from/
+<liturgical><prose>From treatises.
+
+[13189]
+<tibetan>སྲོག་ནི་ཚེ་ཡིན་དྲོད་དང་ནི།
+<literal>life is life warmth and/
+<liturgical><prose>Life is life warmth and.
+
+[13190]
+<tibetan>།རྣམ་ཤེས་རྟེན་གང་ཡིན་པའོ།
+<literal>/consciousness support what is/
+<liturgical><prose>Consciousness support whatever.
+
+[13191]
+<tibetan>།ཞེས་འདི་ལ་བཤད་དོ།
+<literal>/thus this on explained/
+<liturgical><prose>Thus here explained.
+
+[13192]
+<tibetan>།དེ་ནས་ཞག་ལྔ་པ་ལ་ཆུས་དངས་པའི་ལུས་འཛིན་པ་དང༌།
+<literal>/then day fifth on water essence-'s body grasp and/
+<liturgical><prose>Then fifth day water clear body held.
+
+[13193]
+<tibetan>སྐྱེད་པའི་ལས་བྱེད་དོ།
+<literal>produce-'s work does/
+<liturgical><prose>Generating action done. || 90 ||
+
+[13194]
+<tibetan>དེའི་ནང་དུ་ཡི་གེ་སཾ་སེར་པོ་གསལ་ཞིང་འཚེར་བ་ཆགས་པས།
+<literal>that-'s inside in letter saM yellow clear and radiant attachment by-means-of/
+<liturgical><prose>Inside that, letter SUM yellow clear shining possessing.
+
+[13195]
+<tibetan>འགྲོ་བའི་སྐད་ཀྱི་གདངས་དེ་ལ་བརྟེན་ནས་འབྱུང་ངོ༌།
+<literal>beings-'s voice-'s tone that on depend-by-means-of arises/
+<liturgical><prose>Migrating beings' voice tone relying, arising.
+
+[13196]
+<tibetan>།དེའི་ཕྱོགས་བཞིར་ས་དང༌།
+<literal>/that-'s directions four earth and/
+<liturgical><prose>That directions four earth and.
+
+[13197]
+<tibetan>ཆུ་དང༌།
+<literal>water and/
+<liturgical><prose>Water and.
+
+[13198]
+<tibetan>མེ་དང༌།
+<literal>fire and/
+<liturgical><prose>Fire and.
+
+[13199]
+<tibetan>རླུང་གི་རྩ་འཛིན་པ་དང་སྡུད་པ་དང་ཡས་པའི་ནང་ན་སུཾ་དཀར་པོ་དང༌།
+<literal>wind-'s channel grasp and gather and spread-'s inside in suM white and/
+<liturgical><prose>Wind channels held and gathered and upper inside SUM white and.
+
+[13200]
+<tibetan>དམར་པོ་དང༌།
+<literal>red and/
+<liturgical><prose>Red and.
+
+[13201]
+<tibetan>ལྗང་གུ་རྩ་དེ་དག་དང་མཐུན་པ་རེ་གནས་པས།
+<literal>green channel those and accord-with each abides-by-means-of/
+<liturgical><prose>Green those with harmonious abiding.
+
+[13202]
+<tibetan>འགྲོ་ཉལ་འདུག་སྡོད་སྤྱོད་ལམ་རྣམ་བཞིར་དེ་ལས་འབྱུང་བའོ།
+<literal>go sleep sit stay activity manner four that from arise/
+<liturgical><prose>Walking-sleeping-sitting-activity four from that arisen.
+
+[13203]
+<tibetan>།དེ་ནས་ཞག་དྲུག་པ་ལ་མེ་དང་རླུང་གཉིས་འདུས་ནས་ལུས་ཀྱི་ཆགས་པ་དང་འཇིག་པའི་ལས་བྱེད་དེ།
+<literal>/then day sixth on fire and wind two gather-by-means-of body-'s form and destroy-'s work does/
+<liturgical><prose>Then sixth day, fire and wind two joined, body formation and destruction action done. || 100 ||
+
+[13204]
+<tibetan>འདིའི་དུས་མེའི་རྩ་འབར་ཞིང་མཆེད་པའི་ནང་ན་ཡི་གེ་རཾ་རབ་ཏུ་འཚེག་ཅིང་ལྷབ་པ་གནས་ཏེ།
+<literal>this-'s time fire-'s channel blaze and expand-'s inside in letter raM greatly scrape and pulse abides/
+<liturgical><prose>This time, fire channels blazing blazing inside letter RAM very clear flickering abiding.
+
+[13205]
+<tibetan>འགྲོ་བ་རྣམས་ཀྱི་ཤེས་པ་རྣོ་བ་དང་རྟུལ་བའི་བྱེ་བྲག་རྣམས་ཡི་གེ་འདི་གསལ་མི་གསལ་གྱིས་འབྱེད་པའོ།
+<literal>beings all-'s cognition sharp and dull-'s distinction these letter clear not-clear by-means-of distinguishes/
+<liturgical><prose>Migrating beings' consciousness sharp and dull distinction these clear not-clear by distinguished.
+
+[13206]
+<tibetan>།དེའི་ཕྱོགས་བཞི་ན་ནང་ཤས་ཀྱི་འབྱུང་བ་བཞིའི་རྩ་་མཆེད་པ་དང༌།
+<literal>/that-'s directions four on inner part-'s elements four-'s channel expand and/
+<liturgical><prose>Directions four inside inner four elements channels grown and.
+
+[13207]
+<tibetan>འབར་བ་དང༌།
+<literal>blaze and/
+<liturgical><prose>Blazing and.
+
+[13208]
+<tibetan>སྲེག་པའི་ནང་ན།
+<literal>burn-'s inside in/
+<liturgical><prose>Burning inside.
+
+[13209]
+<tibetan>རཾ་སྐྱེད་པ་དང༌།
+<literal>raM produce and/
+<liturgical><prose>RAM producing and.
+
+[13210]
+<tibetan>རུཾ་སྟོང་པ་དང༌།
+<literal>ruM empty and/
+<liturgical><prose>RUM empty and.
+
+[13211]
+<tibetan>རཾ་ཉལ་བའི་བརྡ་ཅན་གནས་པས་འགྲོ་བའི་དྲན་བསམ་གྱི་འཁོར་ལོ་དེ་ལ་བརྟེན་ནས་འབྱུང་ངོ༌།
+<literal>raM sleep-'s sign possessing abides-by-means-of beings-'s memory thought-'s wheel that on depend-by-means-of arises/
+<liturgical><prose>RAM resting sign possessing abiding, migrating beings' mindfulness wheel relying, arising.
+
+[13212]
+<tibetan>།དེ་ལྟར་ཞག་དྲུག་རྫོགས་པས་འབྱུང་བ་རང་དེའི་བྱེད་ལས་སུ་ཆགས་པའི་རྟེན་བྱས་ཏེ་གནས་པའོ།
+<literal>/thus day six complete-by-means-of elements self that-'s action as form-'s support made abides/
+<liturgical><prose>Thus six completed, elements that action function formation support made, abiding.
+
+[13213]
+<tibetan>།དེ་ལྟར་བཞིས་མ་བྱས་ན་ཕྱིར་འབྱུང་བ་བཞི་ལ་བརྟེན་པའི་ཟས་གོས་ལ་དབང་བར་མི་ནུས་པ་དང༌།
+<literal>/thus four not-done if outer elements four on depend-by-means-of food clothes on control not-able and/
+<liturgical><prose>Thus four not-done, outside four relying food clothes power not. || 110 ||
+
+[13214]
+<tibetan>ནང་དུ་ཆོས་རྣམས་བཞི་ཚན་དུ་མངོན་པར་མི་འགྱུར་བ་དང༌།
+<literal>inner dharmas four group as manifest not-become and/
+<liturgical><prose>Inside dharmas four group not-becoming and.
+
+[13215]
+<tibetan>གསང་བར་དབང་བཞིའི་འབྲས་བུ་མི་སྨིན་པས།
+<literal>secret empowerments four-'s fruit not-mature-by-means-of/
+<liturgical><prose>Secret four empowerments' result not-ripened.
+
+[13216]
+<tibetan>བཞི་པོ་ཆགས་པའི་རྟེན་དུ་ངེས་པའོ།
+<literal>four form-'s support as certain/
+<liturgical><prose>Four formation support definitely.
+
+[13217]
+<tibetan>།དེ་ནས་ཞག་གཉིས་གཉིས་སུ་འབྱུང་བ་གཉིས་གཉིས་ཀྱི་ལས་ཀྱིས་ལུས་ཀྱི་གཞི་གཟུང་བ་ནི།
+<literal>/then day two-two on elements two-two-'s work by-means-of body-'s basis grasp is/
+<liturgical><prose>Then two-two days, elements two-two actions body basis held.
+
+[13218]
+<tibetan>ཕོ་མོ་གཉིས་འདུས་པས་ས་བོན་གྱི་འཕེལ་འབྱུང་བ་དང་འདྲ་བར།
+<literal>male female two gather-by-means-of seed-'s increase arise and like/
+<liturgical><prose>Male-female two joined seed growing becoming like.
+
+[13219]
+<tibetan>འབྱུང་བ་ཕོ་མོ་འདུས་པས་ལུས་ཀྱི་ཚོགས་པ་འཕེལ་བར་རིག་པར་བྱའོ།
+<literal>elements male female gather-by-means-of body-'s aggregation increase know should/
+<liturgical><prose>Elements male-female joined body gathering growing—know thus.
+
+[13220]
+<tibetan>།དེ་ཡང་ཞག་བདུན་པ་ལ་འབྱུང་བ་བཞི་རོ་གཅིག་ཏུ་གྱུར་པ་ལས།
+<literal>/that even day seventh on elements four taste one became from/
+<liturgical><prose>Also seventh day, elements four taste-one becoming.
+
+[13221]
+<tibetan>རྒྱུ་རྐྱེན་རླུང་སེམས་བཞི།
+<literal>cause condition wind mind four/
+<liturgical><prose>Cause-condition wind-mind four.
+
+[13222]
+<tibetan>ཤ་ཁྲག་དྲོད་དབུགས་བཞི།
+<literal>flesh blood warmth breath four/
+<liturgical><prose>Flesh-blood-heat-breath four.
+
+[13223]
+<tibetan>རྩ་བཞི།
+<literal>channel four/
+<liturgical><prose>Channels four. || 120 ||
+
+[13224]
+<tibetan>ཡི་གེ་བཞི་པོ་རྣམས་ནུར་ནུར་པོའི་རྣམ་པ་གཅིག་ཏུ་གྱུར་པ་ནི།
+<literal>letter four these nur nur po-'s form one became is/
+<liturgical><prose>Letters four, nur-nur-form one becoming.
+
+[13225]
+<tibetan>ཀུན་འདུས་པའི་ཚོགས་པ་དང་བཅས་པར་བྱས་པས།
+<literal>all gather-'s aggregation and together made-by-means-of/
+<liturgical><prose>All-gathered gathering with made.
+
+[13226]
+<tibetan>རླུང་གི་རྩ་འཕར་ཞིང་འགྱུ་བའི་ནང་དུ་ཡཾ་འགྱུ་ཞིང་རྒྱུ་པ་ལྟར་གནས་པས།
+<literal>wind-'s channel jump and move-'s inside in yaM move and flow like abides-by-means-of/
+<liturgical><prose>Wind channels up-clear moving inside YAM moving rope-like abiding.
+
+[13227]
+<tibetan>འགྲོ་བའི་དབུགས་ཀྱིས་འགྲོ་འོང་དང་གང་སྟོང་དུ་བྱུང་བའོ།
+<literal>beings-'s breath by-means-of go come and full empty became/
+<liturgical><prose>From that, migrating beings' breath going- coming and empty becoming.
+
+[13228]
+<tibetan>།དེ་ལས་སའི་རླུང་རྩ་འཕར་ཡལ་དང༌།
+<literal>/that from earth-'s wind channel jump spread and/
+<liturgical><prose>From that earth wind channels up-fallen and.
+
+[13229]
+<tibetan>ཆུའི་སྡུད་མཆེད་དང༌།
+<literal>water-'s gather expand and/
+<liturgical><prose>Water's gathering-growth and.
+
+[13230]
+<tibetan>མེའི་བྱེད་སྟངས་གསུམ་གྱི་ནང་དུ་ཡཾ་སྤུངས་འབྱེད།
+<literal>fire-'s action manner three-'s inside in yaM pile separate/
+<liturgical><prose>Fire's mode-action three inside YAM pile-divide.
+
+[13231]
+<tibetan>ཡེ་འབྱེད་སྡུད།
+<literal>ye separate gather/
+<liturgical><prose>YE divide-gather.
+
+[13232]
+<tibetan>ཨོཾ་འཁྲོལ་འདུད་གནས་སོ།
+<literal>oM roll bow abides/
+<liturgical><break><prose> <mantra>oṃ
+
+[13233]
+<tibetan>།ཡི་གེ་བཞིའི་དབུས་ན་གཟུགས་ཀྱི་ཕུང་པོའི་གཞི་རྡུལ་ཕྲ་རབ་ཏུ་གནས།
+<literal>/letter four-'s center in form-'s aggregate-'s basis particle very-small as abides/
+<liturgical><break><prose> OM roll-bow-abide. || 130 ||
+
+[13234]
+<tibetan>འདུ་ཤེས་ཀྱི་ཕུང་པོའི་གཞི་དྲོད་རྟ་རྔ་ལ་སྟོང་དུ་བསིལ་བའི་ཆ་ཙམ་གནས།
+<literal>perception-'s aggregate-'s basis warmth rta rnga on empty cool-'s part just abides/
+<liturgical><prose>Letters four center, form aggregate basis dust-fine abiding.
+
+[13235]
+<tibetan>ཚོར་བའི་ཕུང་པོའི་གཞི་དྲན་པ་བ་ཐག་གི་སུམ་ཆ་འཁྱིལ་བ་ཙམ་གནས།
+<literal>feeling-'s aggregate-'s basis memory cord-'s three-part coil just abides/
+<liturgical><prose>Perception aggregate basis heat horse-ear empty cool portion just abiding.
+
+[13236]
+<tibetan>རྣམ་ཤེས་ཀྱི་གཞི་ཤེས་བྱེད་ཁ་དོག་གི་འགྱུ་བ་ཙམ་གནས།
+<literal>consciousness-'s basis know color-'s move just abides/
+<liturgical><prose>Feeling aggregate basis mindfulness life-thread three-parts coiled just abiding.
+
+[13237]
+<tibetan>འདུ་བྱེད་ཀྱི་གཞི་བྱུང་ཚོར་གྱི་སྒོ་ཕྱེ་བ་ལྟར་གནས་སོ།
+<literal>formations-'s basis arise feel-'s door open like abides/
+<liturgical><prose>Consciousness basis knowable color movement just abiding.
+
+[13238]
+<tibetan>།དེ་ལྟར་རྒྱུ་འབྱུང་བའི་ལས་དངོས་སུ་བྱུང་བས་ཕུང་པོ་ལྔའི་གཞི་དང༌།
+<literal>/thus cause elements-'s work actually arose-by-means-of aggregates five-'s basis and/
+<liturgical><prose>Formation basis feeling-taste door-opening like abiding.
+
+[13239]
+<tibetan>དེའི་རྐྱེན་འདུས་པ་ལས་འདུ་བྱེད་དུ་བྱུང་བ་སྟེ།
+<literal>that-'s condition gather from formations arise is/
+<liturgical><prose>Thus cause elements action actually done, five aggregates basis and.
+
+[13240]
+<tibetan>དེ་དག་ལྔའི་ཕྱི་ནས་འོད་ཁ་དོག་ལྔའི་སྤྲིས་རྒྱའི་སྒྲོ་འཐུམས་པ་ལྟར།
+<literal>those five-'s outside from light color five-'s fringe net-'s tail gathered like/
+<liturgical><prose>That condition gathering from formation done.
+
+[13241]
+<tibetan>གནས་པའི་ནང་གི་རྟེན་ལྔའི་མགོ་ལ་ཛྲཱིཾ་ཁཾ་ཏཱཾ་མཾ་བྱཾ་ལྔས་བརྒྱན་པ་ནི་ཕུང་པོ་ལྔ་རིགས་ལྔར་སངས་རྒྱས་པའི་གནད།
+<literal>abides-'s inside supports five-'s head on dzrIM khaM tAM maM byaM five by-means-of adorned is aggregates five races five buddha-'s vital-point/
+<liturgical><prose>Those five outside, color-five shell-light-rays coiled like.
+
+[13242]
+<tibetan>ཨཱོཾ་ཛྲཱིཾ་ཨཱཾ་ཁཾ་ཧཱུྃ་ཏཱཾ་སྭཱ་མཾ་ཧ་པྱཾ་རྣམས་ཏེ།
+<literal>A+oM dzrIM AM khaM hU~M tAM swA maM ha pyaM these/
+<liturgical><break><prose> <mantra>hūṃ
+
+[13243]
+<tibetan>གནས་པ་བསྒྱུར་བ་ཙམ་ལས་རིག་ངེས་པའི་སངས་རྒྱས་སུ་འགྱུར་ངེས་པའོ།
+<literal>abides change just from race certain-'s buddha become certain/
+<liturgical><break><prose> Abiding transformation just, rigpa definite Buddha becoming definite. || 140 ||
+
+[13244]
+<tibetan>།དེ་ལྟར་ཆུའི་རྩ་བཞི་སོ་སོའི་ནང་ན་གཞི་གནས་ཀྱི་ཡེ་ཤེས་གསུམ་གྱི་ངོ་མ་ཕྱེ་མི་འབྱེད་འབྱེད་པ་མེད་པར་སྐུ་ཉུངས་འབྲུ་ལ་སྟོང་ཕྲག་དྲུག་ཏུ་བསིལ་བའི་ཆ་ཙམ་ལ་ཞལ་ཕྱག་ཏུ་གསལ་བ་ལ་འོད་ལྔའི་གོང་བུས་བྲེས་པ་རང་རང་གི་སྲོག་རྣམ་པ་དག་པའི་ཡི་གེ་དང་བཅས་པ་ནི།
+<literal>/thus water-'s channel four individual-'s inside in basis abode-'s primordial-wisdom three-'s face not open not distinguish distinguish not body small seed on thousand six cool-'s part just face hand as clear light five-'s upper mass filled self self-'s life form pure-'s letter and together is/
+<liturgical><prose>Thus water channels four each inside basis-abide wisdom three face not-divided not-divided division not, body young seed six-thousand cool portion face-arms clear, color-five sphere possessing self-life form pure letter with.
+
+[13245]
+<tibetan>མྱ་ངན་ལས་འདས་པའི་གཞི་འཛིན་པས་ན་གཞི་གནས་ཀྱི་ཡེ་ཤེས་ཞེས་བྱའོ།
+<literal>nirvana-'s basis grasp-by-means-of basis abode-'s primordial-wisdom named/
+<liturgical><prose>nirvāṇa basis holding, basis-abide wisdom called.
+
+[13246]
+<tibetan>།སའི་རྩ་བཞི་ན་མཚན་ཉིད་འཛིན་པའི་ཡེ་ཤེས་ལྔ་མ་ཕྱེ་མི་འབྱེད་པར་གནས་པ་ནི།
+<literal>/earth-'s channel four on characteristics grasp-'s primordial-wisdom five not open not distinguish as abides is/
+<liturgical><prose>Earth channels four characteristic-holding wisdom five not-divided not-divided abiding.
+
+[13247]
+<tibetan>འོད་དཀར་སེར་དམར་ལྗང་མཐིང་ག་ལྔའི་ཐིག་ལེ་ཉུངས་འབྲུ་ལ་སྟོང་དུ་བསིལ་བ་ཙམ་གནས་ལ།
+<literal>light white yellow red green blue five-'s drop seed on empty cool just abides on/
+<liturgical><prose>Light white-yellow-red-green-blue five thig-le mustard seed six-thousand cool just abiding.
+
+[13248]
+<tibetan>དེ་དག་རེ་རེ་ལ་འོད་ལྔ་ལྔའི་སྤྲིས་མཛེས་པར་འཁོར་བར་ནི་སངས་རྒྱས་བའི་ལམ་འོད་ལྔ་ལས་བྱུང་བའོ།
+<literal>those each on light five-five-'s fringe beautiful surround is buddha-'s path light five from arose/
+<liturgical><prose>Those each light-five five beautiful around—Buddha path light-five arisen.
+
+[13249]
+<tibetan>།དེ་ཡང་སོ་སོའི་རིགས་ཀྱི་ཁ་དོག་གིས་མཚན་ཉིད་འཛིན་པས་ན།
+<literal>/that even individual race-'s color by-means-of characteristics grasp-by-means-of/
+<liturgical><prose>Also each lineage color characteristic-holding.
+
+[13250]
+<tibetan>མཚན་ཉིད་འཛིན་པའི་ཡེ་ཤེས་ཞེས་བྱའོ།
+<literal>characteristics grasping pristine-awareness called
+<liturgical><prose>Characteristic-holding wisdom called.
+
+[13251]
+<tibetan>།མེའི་རྩ་བཞིའི་ནང་ན་ཤེས་པས་བསྡུས་པའི་གཞི་གནས་པ་ནི་འོད་ཀྱི་འགྲེང་བུ་འཛིན་པའི་ཤེས་པས་བསྡུས་པ་ལྗང་གུར་གནས་པས་བྱ་བའི་ལས་ཀྱི་དབང་གི་འགྱུར་བའོ།
+<literal>/fire channels-four within knowing gather base abide light beam grasp knowing gather green abide action karma power change
+<liturgical><prose>Fire channels four inside consciousness-gathered basis-abide, light pillar holding consciousness gathered green abiding, action wind change.
+
+[13252]
+<tibetan>།འདས་པའི་ཤེས་པ་ཡེ་ཤེས་འོད་དཀར་པོའི་འགྲེང་བུ་སྐར་མའི་ཕོད་ལྟ་བུར་གནས་པས།
+<literal>/past knowing pristine-awareness light white beam star cover like abide
+<liturgical><prose>Past consciousness wisdom light-white pillar star-like abiding.
+
+[13253]
+<tibetan>ཆོས་ཉིད་ཀ་དག་ལ་ལས་དང་བག་ཆགས་ཀྱིས་མ་གོས་པའི་གནད་དེ་ལས་བྱུང་བའོ།
+<literal>dharmata primordially-pure karma latency by-means-of not-stained key that from arisen
+<liturgical><prose>dharmatā primordial-pure, action and latencies not-stained essential point—from that arisen. || 150 ||
+
+[13254]
+<tibetan>།དེ་ཡང་འཁོར་འདས་ཀྱི་ཤེས་པ་ཙམ་བསྡུས་ནས་གནས་པས་ན།
+<literal>/that also samsara-nirvana knowing only gather abide by
+<liturgical><prose>Also cyclic-existence consciousness just gathered abiding.
+
+[13255]
+<tibetan>ཤེས་པས་བསྡུས་པའི་ཡེ་ཤེས་ཞེས་བྱའོ།
+<literal>knowing gather pristine-awareness called
+<liturgical><prose>Consciousness-gathered wisdom called.
+
+[13256]
+<tibetan>།རླུང་གི་རྩ་བཞིན་ཤེས་བྱའི་ཡེ་ཤེས་གཉིས་སུ་མི་རྟོག་པའི་སེམས་པར་གནས་ཏེ།
+<literal>/wind channels-like knowable pristine-awareness two non-concept mind abide
+<liturgical><prose>Wind channels four knowing-object wisdom two not-conceptual mind abiding.
+
+[13257]
+<tibetan>དེའང་འོད་ཀྱི་དྭངས་མ་འདུས་པ་དམར་བ་རང་དོན་རྟོགས་པར་བཞུགས་ལ།
+<literal>that-also light essence gather red self-benefit realize abide
+<liturgical><prose>Also light essence gathered red self-purpose realized abiding.
+
+[13258]
+<tibetan>སེར་པོ་གཞན་དོན་རྟོགས་པར་བཞུགས་སོ།
+<literal>yellow other-benefit realize abide
+<liturgical><prose>Yellow other-purpose realized abiding.
+
+[13259]
+<tibetan>།དེའང་ཤེས་བྱ་ཡོད་པ་དང༌།
+<literal>/that-also knowable exist and
+<liturgical><prose>Also knowable existing and.
+
+[13260]
+<tibetan>མེད་པ་དང༌།
+<literal>not-exist and
+<liturgical><prose>Not-existing and.
+
+[13261]
+<tibetan>དངོས་པོ་དང༌།
+<literal>entity and
+<liturgical><prose>Thing and.
+
+[13262]
+<tibetan>དངོས་པོ་མ་ཡིན་པ་ཀུན་ཤེས་བྱ་མཁྱེན་པའི་ཡེ་ཤེས་གཉིས་སུ་འདུས་པས་ན།
+<literal>not-entity all knowable knowing pristine-awareness two gather by
+<liturgical><prose>Not-thing all knowable knowing wisdom two gathered.
+
+[13263]
+<tibetan>ཤེས་བྱའི་ཡེ་ཤེས་ཞེས་བྱའོ།
+<literal>knowable pristine-awareness called
+<liturgical><prose>Knowable wisdom called. || 160 ||
+
+[13264]
+<tibetan>།དེའང་ལུས་ཀྱི་རྩས་དོན་དམ་དང་ཀུན་རྫོབ་གཉིས་ཀའི་འགག་པ་དང༌།
+<literal>/that-also body channels ultimate and conventional both cessation and
+<liturgical><prose>Also body channels ultimate and conventional both cessation and.
+
+[13265]
+<tibetan>སྐྱེ་བ་དང༌།
+<literal>birth and
+<liturgical><prose>Birth and.
+
+[13266]
+<tibetan>གནས་པ་དང༌།
+<literal>abide and
+<liturgical><prose>Abiding and.
+
+[13267]
+<tibetan>བདེ་སྡུག་ཐམས་ཅད་མྱོང་བར་བྱེད་པས་ན་རྣལ་འབྱོར་པའི་ལུས་སྐུ་གསུམ་གྱི་བདག་ཉིད་དུ་གནས་པའོ།
+<literal>pleasure-suffering all experience make by-means-of yogin body three-kayas nature abide
+<liturgical><prose>Pleasure-pain all experiencing, yogi's body three kayas self-nature abiding.
+
+[13268]
+<tibetan>།དེའང་ལུས་ཆགས་པའི་མཚན་ཉིད་ཤེས་པས་ཆོས་སྐུའི་ངེས་པ་རྙེད།
+<literal>/that-also body arise characteristics knowing by-means-of dharmakaya certainty find
+<liturgical><prose>Also body formation characteristic consciousness dharma-kaya definite obtaining.
+
+[13269]
+<tibetan>གནས་པ་ཤེས་པས་ལོངས་སྐུ།
+<literal>abide knowing sambhogakaya
+<liturgical><prose>Abiding consciousness enjoyment-kaya.
+
+[13270]
+<tibetan>འཇིག་པ་ཤེས་པས་སྤྲུལ་སྐུར་གནས་པའི་ངེས་པ་རྙེད་པའོ།
+<literal>cease knowing nirmanakaya abide certainty find
+<liturgical><prose>Destroying consciousness emanation-kaya abiding definite obtaining.
+
+[13271]
+<tibetan>།དེ་ལྟར་ཞག་བདུན་གྱིས་ལུས་ཀྱི་གཞི་ཐིངས་པ་ནི།
+<literal>/thus seven-days by-means-of body base thick is
+<liturgical><prose>Thus seven days body basis compressed.
+
+[13272]
+<tibetan>བསྙེན་སྒྲུབ་ལས་ཀྱི་མཐའ་ཐམས་ཅད་ཞག་བདུན་གྱིས་བསྡུ་བ་དང༌།
+<literal>approach-accomplish karma all seven-days gather and
+<liturgical><prose>Approach-accomplishment action all seven gathering and.
+
+[13273]
+<tibetan>འབྱུང་བ་སྡུད་མཆེད་ཀྱི་འཕེལ་ཞག་བདུན་གྱིས་འགྲུབ་པ་ལ་དགོངས་པའོ།
+<literal>elements gather expand seven-days accomplish aim
+<liturgical><prose>Elements gathering-growth completion seven completion—essential point. || 170 ||
+
+[13274]
+<tibetan>།ཡེ་ཤེས་དེ་དག་གི་རྟ་རླུང་ཡིན་པས་ལུས་འཇིག་པ་ན་གཏན་མེད་མ་ཡིན་ཏེ་ཡང་ཞིང་བསྐྱོད་པ་ཙམ་ལ་གནས་སོ།
+<literal>/pristine-awareness those horse-wind are body dissolve time truly-none not light and move only abide
+<liturgical><prose>These wisdoms horse-wind, body destroyed not-definite not, light moving just abiding.
+
+[13275]
+<tibetan>།ཡི་གེ་དང་འོད་དང་སྐུ་རྣམས་རིག་པའི་རང་གདངས་ཕྱིར་ཤར་བ་སླར་མ་རིག་པ་ཉིད་ལ་ཐིམ་པ་ཙམ་མོ།
+<literal>/syllable and light and bodies knowing self-radiance outward arise again ignorance itself dissolve only
+<liturgical><prose>Letters and light and bodies rigpa self-resonance outside clear, back non-awareness just dissolved just.
+
+[13276]
+<tibetan>།དེའང་རིག་པ་གཞི་གནས་ཀྱི་དུས་ན་ནང་གསལ་ཕྲ་བ་མཆེད་གཞི་ཙམ་ལས།
+<literal>/that-also knowing base-abide time inner clear subtle expand base only from
+<liturgical><prose>Also rigpa basis-abide time inside clear fine blaze basis just.
+
+[13277]
+<tibetan>ཁ་དོག་རིས་ཅན་མ་ཡིན་ལ།
+<literal>color shape not
+<liturgical><prose>Color-thing not.
+
+[13278]
+<tibetan>།ལུས་ལ་ཡོད་དུས་གཞི་ལས་སྣང་བ་ཕྱིར་ཤར་ཡིན་པས་འོད་དང་སྐུ་རིས་ཅན་དུ་གྲུབ་པ་བར་དོར་ཡང་སྣང་ལ།
+<literal>/body have time base appearance outward arise light body shape appear bardo also appear and
+<liturgical><prose>Body existing time, basis clear outside clear, light and body thing becoming, intermediate state also clear.
+
+[13279]
+<tibetan>ལྷུན་གྲུབ་ལ་ཐིམ་ནས་རིས་སུ་གྲུབ་པ་གང་ཡང་མེད་པས་ཀ་དག་རང་སོར་གནས་པའོ།
+<literal>spontaneous-completion in dissolve after category in accomplished thing any not-exist by primordial-purity self-place dwell/
+<liturgical><prose>Spontaneous dissolved thing becoming whatever not, primordial-pure self-abiding.
+
+[13280]
+<tibetan>།དེས་ན་སྐུ་གསུམ་ལུས་ལ་ཚང་བས་ཡེ་ཤེས་ཀྱི་ལམ་ལུས་ཀྱི་རྩ་ནས་འབྱུང་ངོ༌།
+<literal>/that by body three body in complete by pristine-awareness path body channel from arise/
+<liturgical><prose>Thus three kayas body complete, wisdom path body channels arising.
+
+[13281]
+<tibetan>།དེ་ནས་བདུན་ཚན་གཉིས་པ་ལ་འབྱུང་བའི་བྱེད་ལས་གོང་ལྟར་བྱས་པས།
+<literal>/that after seven pair two in element action-function above like do by/
+<liturgical><prose>Then two seven-day periods, elements action above like done.
+
+[13282]
+<tibetan>སྐྱེད་བྱེད་དང་པོའི་འཁོར་ལོ་ལ་ཞག་བཅུ་གཅིག་གི་བར་དུ་སྡུད་བྱེད་ཆུའི་རྩ་བརྒྱད་ཀྱི་ནང་དུ།
+<literal>producer first wheel in day eleven period gather water channel eight in inside/
+<liturgical><prose>First channel-wheel eleven days gathering water channels eight inside.
+
+[13283]
+<tibetan>ཡི་གེ་དང༌།
+<literal>syllable and*/
+<liturgical><prose>Letter and. || 180 ||
+
+[13284]
+<tibetan>འོད་དང༌།
+<literal>light and*/
+<liturgical><prose>Light and.
+
+[13285]
+<tibetan>ཀུན་བཟང་ཡབ་ཡུམ་གྱི་སྐུ་དང་བཅས་པ་ནི་རྩའི་འཕེལ་གཞིར་བྱུང་སྟེ།
+<literal>samantabhadra father-mother body with are channel growth-basis arise/
+<liturgical><prose>Samantabhadra father-mother body with.
+
+[13286]
+<tibetan>རྩ་དེ་དག་ལས་ཀྱི་རླུང་གིས་འགུལ་ཞིང་འཕྲིལ་བ་ལས།
+<literal>channel those action wind by move and swirl from/
+<liturgical><prose>Channels growing basis arisen.
+
+[13287]
+<tibetan>རྩ་བརྒྱད་དུ་བྱུང་བས་འབྱུང་བ་ཕོ་བཞི་མོ་བཞིའི་འཕེན་པས་རྣམ་ཤེས་བརྒྱད་ཀྱི་གཞི།
+<literal>channel eight in arose by element male four female four propulsion consciousness eight basis/
+<liturgical><prose>Those channels action wind moving trembling from.
+
+[13288]
+<tibetan>ཚོགས་པ་དུམ་བུར་ངེས་པའི་འགྱུ་བ་མ་འདྲེས་ལ་འགུལ་འཕྲིག་ཡོད་པ་བརྒྱད་དུ་གནས་པའི་ནང་ན།
+<literal>gathered portion certain movement not-mixed with move swirl exist eight in dwell inside in/
+<liturgical><prose>Channels eight arisen, elements male-four female-four pulling consciousness eight basis.
+
+[13289]
+<tibetan>རྣམ་ཤེས་རང་བྱུང་གི་ཡི་གེ་བརྒྱད་བྱུང་བ་ནི།
+<literal>consciousness self-arisen syllable eight arise is/
+<liturgical><prose>Gathering bundle definite movement not-mixed trembling shaking existing eight inside.
+
+[13290]
+<tibetan>འགྲོ་བ་རྣམ་ཤེས་ཡུལ་ཅན་ལ་ལོངས་སྤྱོད་པ་དེ་ལ་བརྟེན་ནས་བྱུང་ངོ༌།
+<literal>beings consciousness object-possessor in enjoy that on depend after arise/
+<liturgical><prose>Consciousness self-arisen letter eight arisen.
+
+[13291]
+<tibetan>།རྩ་བཞི་པོ་དེ་ལས་འགྱུ་བྱེད་འཐབས་པ་ལས་ཁ་སྤུངས་ཞེས་བྱ་བའི་རླུང་གི་རང་སྒྲ་ཡི་གེའི་འགྱུར་མང་པོར་འཕྲོས་པས།
+<literal>/channel four those from move do press from mouth-gather called wind self-sound syllable change many spread by/
+<liturgical><prose>Migrating consciousness object-possessing enjoyment relying, arising.
+
+[13292]
+<tibetan>སའི་རྩ་བཞིའི་འཁོར་ལོ་གྱེན་ལ་འཕངས་ཤིང༌།
+<literal>earth channel four wheel upward throw and*/
+<liturgical><prose>Channels four transformation quarrel from KHA-SPUNG wind letter change many scattered.
+
+[13293]
+<tibetan>དེ་གཉིས་ཀྱི་བར་དུ་ཁ་སྤུངས་ཀྱི་རླུང་ཡུངས་འབྲུ་ཙམ་གྱིས་མ་རེག་པར་བཟུང་ནས་ཕན་ཚུན་སྐར་མའི་ཕོད་ལྟར།
+<literal>that two in between mouth-gather wind mustard seed by not-touch hold after mutual star shoot like/
+<liturgical><prose>Earth channels four wheel up-thrown and. || 190 ||
+
+[13294]
+<tibetan>འོད་གདངས་ཡི་གེའི་བཀྲག་དང་བཅས་པ་གནས་ལ།
+<literal>light-radiance syllable brilliance with dwell/
+<liturgical><prose>Those two between KHA-SPUNG wind mustard-seed not-touching holding, mutual star-like.
+
+[13295]
+<tibetan>ཡས་མན་དུ་པདྨའི་འདབ་མ་རྒྱས་པ་ལྟར་གནས་སོ།
+<literal>up-down lotus petal spread like dwell/
+<liturgical><prose>Light rays letter splendor with abiding.
+
+[13296]
+<tibetan>།དེ་ནས་ཞག་བཅུ་བཞི་ལ་ཀུན་གཞིའི་རྟེན་བཞི་ཚད་དུ་གནས་པ་དེ་དག་མེར་མེར་པོའི་རྣམ་པ་ཞིག་ཏུ་གྱུར་པའི་དུས་ན།
+<literal>/that after day fourteen basis-consciousness four measure in dwell those glow form become when/
+<liturgical><prose>Lower-upper lotus petals spread like abiding.
+
+[13297]
+<tibetan>ཆུའི་སྲིན་བུ་སྐྱེད་པར་བྱེད་པའི་གཞི།
+<literal>water worm produce cause basis/
+<liturgical><prose>Then fourteen days, all-basis support four measure abiding those mer-mer-form becoming time.
+
+[13298]
+<tibetan>ཕྲ་བ་དང༌།
+<literal>subtle and*/
+<liturgical><prose>Water insect generating basis.
+
+[13299]
+<tibetan>འགྱུར་ཤེས་དང༌།
+<literal>change know and*/
+<liturgical><prose>Fine and.
+
+[13300]
+<tibetan>ཕུད་པ་དང༌།
+<literal>extract and*/
+<liturgical><prose>Change-knowing and.
+
+[13301]
+<tibetan>ལས་ལྡང་གི་སྲིན་བུ་བཞིའི་ལུས་སུ་ཆགས་ཏེ།
+<literal>action arise worm four body in form/
+<liturgical><prose>Shedding and.
+
+[13302]
+<tibetan>དེ་དག་གི་ནང་ན་ཡང༌།
+<literal>those in inside also*/
+<liturgical><prose>Karma-acting insects four body becoming.
+
+[13303]
+<tibetan>རྩ་ལ་སོགས་པའི་རྟེན་སྔ་མ་དང་འདྲ་བར་ཆགས་པ་ནི།
+<literal>channel etc basis former like form is/
+<liturgical><prose>Those inside also. || 200 ||
+
+[13304]
+<tibetan>ལུས་གཅིག་ལ་སྲོག་དཔག་ཏུ་མེད་པར་གནས་པའོ།
+<literal>body one in life immeasurable in dwell/
+<liturgical><prose>Channels and so forth support previous like formed.
+
+[13305]
+<tibetan>།འདི་དག་ནི་དབང་བསྒྱུར་གྱི་ལུས་ཞེས་བྱ་སྟེ།
+<literal>/this are empowerment body called/
+<liturgical><prose>One body life immeasurable abiding.
+
+[13306]
+<tibetan>སངས་རྒྱས་ཀྱི་སྐུ་ཡབ་ཡུམ་གཉིས་གཉིས་ལས་མི་གནས་པས་ན་ལུས་མེད་ཅེས་དངོས་གཟུགས་མ་ཡིན་པས་སོ།
+<literal>buddha body father-mother two two from not-dwell by body not-exist called material not-being by/
+<liturgical><prose>These control body called.
+
+[13307]
+<tibetan>།རྡོ་རྗེ་རྩེ་མོ་རོལ་པ་ལས།
+<literal>/vajra tip play from/
+<liturgical><prose>Buddha body father-mother two-two not-abiding, body-less called, actual-form not.
+
+[13308]
+<tibetan>གཟུགས་གཅིག་ལས་ནི་ལུས་ཀྱི་མཐའ།
+<literal>form one from body-'s limit/
+<liturgical><tantra>From Vajra Tip Play.
+
+[13309]
+<tibetan>།གྲུག་མཐའ་མ་གྲུབ་མཐར་འཛིན་པ།
+<literal>/grub limit not establish limit grasp/
+<liturgical><prose>Form one body's extent.
+
+[13310]
+<tibetan>།སྟོང་ཕྲག་གྲངས་ལས་འདས་པ་གནས།
+<literal>/thousand number from exceeds abides/
+<liturgical><prose>Grasping extent not-established extent.
+
+[13311]
+<tibetan>།དེ་ཡང་ནམ་མཁའི་ལུས་ཅན་ལས།
+<literal>/that even space-'s body possessing from/
+<liturgical><prose>Thousand number beyond abiding.
+
+[13312]
+<tibetan>།ཤོང་བའི་ལས་ནི་སྤངས་པས་ན།
+<literal>/contain-'s work abandoned-by-means-of/
+<liturgical><prose>That sky body from.
+
+[13313]
+<tibetan>།གཟུགས་མཐའ་རྡུལ་ཕྲན་ནམ་མཁའ་ཤེས།
+<literal>/form limit particle space know/
+<liturgical><prose>Entering action abandoned. || 210 ||
+
+[13314]
+<tibetan>།ཞེས་སོ།
+<literal>/thus/
+<liturgical><prose>Form extent dust-fine space know.
+
+[13315]
+<tibetan>།དེ་དག་གི་སྲིན་བུ་རེ་རེ་ལ་ཆགས་སྤྱོད་ཀྱི་རླུང་རེ་རེ་གནས་པས་འགྲོ་བ་ཀུན་ལ་འདོད་ཆགས་ཀྱི་ལས་ཉེ་བར་ལེན་པ་དེ་ལས་བྱུང་བའོ།
+<literal>/those bug each on attachment activity-'s wind each abides-by-means-of beings all on desire attachment-'s action near take that from arose/
+<liturgical><prose>Thus.
+
+[13316]
+<tibetan>།བཅུ་བཞིས་ལས་ཀྱི་འབྲེལ་མཚོན་པ་ཡང་དེའི་གནད་དོ།
+<literal>/fourteen action-'s connection show even that-'s vital-point/
+<liturgical><prose>Those insects each desire-action wind each abiding, migrating beings all desire-action near-taking—from that arisen.
+
+[13317]
+<tibetan>།དེ་ནས་ཞག་བདུན་ཚན་གསུམ་པར་གྱུར་ཏེ།
+<literal>/then day seven section third became/
+<liturgical><prose>Fourteen karma connection showing, that essential point.
+
+[13318]
+<tibetan>ཞག་བཅོ་ལྔ་པ་ལས་སའི་རྩ་ལས་འཕེལ་གཞིའི་འོད་དང་ཡི་གེ་དང་བཅས་པར་སྐྱེད་དེ།
+<literal>day fifteen from earth-'s channel from increase basis-'s light and letter and together produce/
+<liturgical><prose>Then seven-day period three becoming.
+
+[13319]
+<tibetan>དེ་དག་གིས་དབུས་སུ་བཅུ་དྲུག་པ་ལ་དྲན་པའི་གཞི་གསེར་གྱི་རླངས་ཙམ་བྱུང་བས།
+<literal>those by-means-of center on sixteen on memory-'s basis gold-'s vapor just arose-by-means-of/
+<liturgical><prose>Fifteenth day from earth channels growing basis light and letter with generating.
+
+[13320]
+<tibetan>བཅུ་བདུན་ན་ནམ་མཁའ་ལ་སྤྲིན་འཁྲིགས་པ་ལྟར་འཁྲིགས་པའི་ནང་དུ་འཕེན་སྡུད་ལས་ཀྱི་འགྱུ་བའི་རླུང་དང་བཅས་པས།
+<literal>seventeen on space on cloud gather like gathered-'s inside in draw gather action-'s move-'s wind and together-by-means-of/
+<liturgical><prose>Those center sixteen mindfulness basis gold essence just arisen.
+
+[13321]
+<tibetan>བཅོ་བརྒྱད་ལས་འབྱུང་བ་སོ་སོའི་ནུས་པ་རྫོགས་ནས།
+<literal>eighteen from elements individual-'s power complete/
+<liturgical><prose>Seventeenth sky cloud-gathered like swirling inside, pulling-gathering karma change wind with.
+
+[13322]
+<tibetan>ཁམས་བཅོ་་བརྒྱད་ཀྱི་གཞི་རྩིས་འགྱུར་བའི་རླངས་ཀྱི་དུམ་བུ་བཅོ་བརྒྱད་ཆགས་སོ།
+<literal>elements eighteen-'s basis calculate change-'s vapor lump eighteen form/
+<liturgical><prose>Eighteenth elements each power complete.
+
+[13323]
+<tibetan>།དེ་ནས་འབྱུང་བ་གཉིས་གཉིས་འདུས་པའི་ལས་ཀྱིས་གོ་སྦྱར་བ་ནི་སྔར་གྱི་ནུས་པ་ཟད་པས་སོ།
+<literal>/then elements two-two gather-'s work by-means-of fit prepare is before-'s power exhausted-by-means-of/
+<liturgical><prose>Eighteen elements gathering-change bundle eighteen becoming. || 220 ||
+
+[13324]
+<tibetan>།ཁམས་བཅོ་བརྒྱད་པོའི་རླངས་འོ་སྤྲིས་ལྟ་བུ་ལས་ཁམས་འཛིན་ཞེས་བྱ་བའི་རླུང་འདར་བ་དང་འཕྲིག་པ་ལངས་པའི་སྒྲ་དང་བཅས་པས།
+<literal>/elements eighteen-'s vapor egg-white fringe like from element grasp named wind quiver and jerk arise-'s sound and together-by-means-of/
+<liturgical><prose>Then two-two joined action done, previous power exhausted.
+
+[13325]
+<tibetan>མེའི་རྩ་འཁོར་ལོ་བཞི་དང་བཅས་པ་གྱེན་ལ་འཕར་ཏེ།
+<literal>fire-'s channel wheel four and together upward jump/
+<liturgical><prose>Eighteen elements sphere water-shell like from elements holding wind trembling shaking sound with.
+
+[13326]
+<tibetan>རྡུལ་གྱི་ནམ་མཁའ་འཕྲ་སེང་ཞེས་བྱ་བ་ལ་འོག་མས་ཡུངས་འབྲུ་ཉིས་འགྱུར་གྱིས་འཕགས་ཏེ།
+<literal>particle-'s space 'phra seng named on lower by-means-of mustard-seed two-times exceeded-by-means-of/
+<liturgical><prose>Wind channels up-clear moving, those changing.
+
+[13327]
+<tibetan>ཞག་ཉེར་གཅིག་སྤོ་བས་ཀུན་གཞིའི་རྟེན་གཞི་རྩ་དང་བཅས་པ་དེ་ལྟར་ལྟར་པོའི་རྣམ་པར་གྱུར་པའོ།
+<literal>day twenty-one move-by-means-of basis-of-all-'s support basis channel and together that ltar ltar po-'s form changed/
+<liturgical><prose>Earth channels fallen and.
+
+[13328]
+<tibetan>།དེ་ནི་ལྔ་བརྒྱའི་ཐ་མ་ལ་གསང་སྔགས་ཀུན་གྱི་ལས་མཐའ་ཞག་ཉེར་གཅིག་གིས་བྱེད་དེ།
+<literal>/that five hundred-'s end on mantra all-'s action end day twenty-one by-means-of does/
+<liturgical><prose>Water gathering-growth and.
+
+[13329]
+<tibetan>ཀུན་གཞི་ཚོགས་པ་འཇིག་པ་ལ་དགོངས་པའོ།
+<literal>basis-of-all aggregation destroy on intention/
+<liturgical><prose>Fire mode-action three inside YAM piled divide.
+
+[13330]
+<tibetan>།དེ་ནས་སའི་སྲིན་བུ་བཞི་ལས་རླུང་མཁྲིས་བད་ཀན་ལ་སོགས་པའི་ནད་ཀྱི་རྟ་བྱེད་པ་ཅན་ཆགས་པ་སྔར་དང་འདྲའོ།
+<literal>/then earth-'s bug four from wind bile phlegm and-so-forth-'s disease-'s horse do possessing form before and same/
+<liturgical><prose>YE divide-gather.
+
+[13331]
+<tibetan>།དེ་ནས་ཞག་ཉེར་གཉིས་ནས་ཉེར་ལྔའི་བར་ལ་འབྱུང་བ་སོ་སོའི་ནུས་པ་དང་ལུས་ཀྱི་གཞི་འགྲུབ་པར་བྱེད་དེ།
+<literal>/then day twenty-two from twenty-five until elements individual-'s power and body-'s basis accomplish do/
+<liturgical><prose>OM roll-bow-abide.
+
+[13332]
+<tibetan>ཞག་བཞི་པོ་དེ་ལ་འབྱུང་བའི་ནུས་པས་གོང་གི་རྩ་བཞི་ལས་འཕེལ་བ་ཡན་ལག་གི་རྩ་བཞི་སྟེ་བརྒྱད་དུ་ངེས་ལ།
+<literal>day four those on elements-'s power by-means-of above-'s channel four from increase limb-'s channel four eight as certain and/
+<liturgical><prose>Letters four center, form aggregate basis dust-fine abiding.
+
+[13333]
+<tibetan>སོ་སོའི་འོད་དང་ཡི་གེ་གསལ་བྱེད་དང་བཅས་པར་བསྐྱེད་པ་ནི།
+<literal>individual-'s light and letter clear and together produce is/
+<liturgical><prose>Perception aggregate basis heat horse-ear empty cool portion just abiding. || 230 ||
+
+[13334]
+<tibetan>རོ་རྣམས་འདུས་པའི་འཁོར་ལོ་སྐར་མའི་འོད་འདྲ་བ་འཚེར་བའི་གདངས་དང་བཅས་པ།
+<literal>taste all gather-'s wheel star-'s light like radiant tone and together/
+<liturgical><prose>Feeling aggregate basis mindfulness life-thread three-coiled just abiding.
+
+[13335]
+<tibetan>འཁོར་ལོ་བརྩེགས་པའི་འདབ་མ་འདྲ་བས་རྩའི་འཁོར་ལོ་ཞེས་བྱའོ།
+<literal>wheel stacked-'s petal like-by-means-of channel-'s wheel named/
+<liturgical><prose>Consciousness basis knowable color movement just abiding.
+
+[13336]
+<tibetan>།དེ་དག་བརྒྱད་ཀྱི་དབུས་སུ་འདོད་ཡོན་ལྔ་ལ་བདེ་བ་རེག་བྱེད་ཀྱི་རྟེན་དྲོད་ཀྱི་དངས་མ་བསེའི་གཡའ་ཙམ་དུ་གནས་པའི་རླངས་ལས།
+<literal>/those eight-'s center on desire-objects five on bliss touch-'s support warmth-'s essence sheep-fat just abides-'s vapor from/
+<liturgical><prose>Formation basis feeling-taste door-opening like abiding.
+
+[13337]
+<tibetan>སྐྱེ་མཆེད་བཅུ་གཉིས་ཀྱི་གཞི་འབྲས་སཱ་ལུ་ལྟར་བུན་པ་དང་ཡལ་བའི་ཚེ་བཅུ་གཉིས་སུ་གནས་པ་ལས།
+<literal>sense-bases twelve-'s basis fruit sA lu like sprout and spread-'s life twelve as abides from/
+<liturgical><prose>Thus cause elements action actually done, five aggregates basis and.
+
+[13338]
+<tibetan>འདུ་བ་དང་མཆེད་པའི་འཁོར་ལོའི་རྣམ་པ་ཀུན་གཞིའི་ལས་ཀྱི་རྟེན་དུ་གནས་སོ།
+<literal>gather and expand-'s wheel-'s form basis-of-all-'s action-'s support as abides/
+<liturgical><prose>That condition gathering from formation done.
+
+[13339]
+<tibetan>།མཆེད་པའི་གནས་འཁོར་གྱི་ཡི་གེ་དང་བཅས་པའོ།
+<literal>/expand-'s place wheel-'s letter and together/
+<liturgical><prose>Those five outside, color-five shell-light-rays coiled like.
+
+[13340]
+<tibetan>།དེ་ནས་ཡང་ཞག་ཉེར་དགུ་ནས་སུམ་ཅུ་རྩ་གཉིས་ཀྱི་བར་འབྱུང་བ་ཆུས་སྡུད་པ།
+<literal>/then again day twenty-nine from thirty-two until elements water by-means-of gather/
+<liturgical><prose>Abiding inside basis five heads JRI KHAM TAM MAM BYAM five adorned, five aggregates five families Buddha essential point.
+
+[13341]
+<tibetan>སས་བརྟན་ཞིང་མནན་པ།
+<literal>earth by-means-of stable and press/
+<liturgical><prose>Those five outside, color-five beautiful around, Buddha path light-five arisen.
+
+[13342]
+<tibetan>མེས་འབར་ཞིང་མཆེད་པ།
+<literal>fire by-means-of blaze and expand/
+<liturgical><prose>Also each lineage color characteristic-holding.
+
+[13343]
+<tibetan>རླུང་གིས་འབར་ཞིང་བསྐྱོད་པའི་ལས་བྱས་ཏེ།
+<literal>wind by-means-of blaze and move-'s work did/
+<liturgical><prose>Characteristic-holding wisdom called. || 240 ||
+
+[13344]
+<tibetan>།ཞག་སུམ་ཅུ་རྩ་གཉིས་ན་འབྱུང་བ་སོ་སོའི་ནུས་པ་རེ་ཞིག་ཟད་དེ།
+<literal>/day thirty-two on elements individual-'s power each exhausted/
+<liturgical><prose>Fire channels four inside consciousness-gathered basis-abide, light pillar holding consciousness gathered green abiding, action wind change.
+
+[13345]
+<tibetan>འདིའི་དུས་ན་སྐྱེད་བྱེད་ལས་རྣམ་པར་རྒོད་པའི་རླུང་ཞེས་བྱ་བ་ལངས་པས།
+<literal>this-'s time produce action from wild wind named arose-by-means-of/
+<liturgical><prose>Past consciousness wisdom light-white pillar star-like abiding.
+
+[13346]
+<tibetan>གོང་མའི་རླུང་གི་རྩ་བཞི་ཕྱིར་གྱེན་ལ་ཕུལ་ཏེ།
+<literal>above-'s wind-'s channel four outward upward sent/
+<liturgical><prose>dharmatā primordial-pure, action and latencies not-stained essential point—from that arisen.
+
+[13347]
+<tibetan>རྡུལ་ཕྲ་རབ་ཀྱི་ནམ་མཁའ་ཡུངས་འབྲུའི་སྟེང་དུ་འཕངས་པ་ལས།
+<literal>particle very-small-'s space mustard-seed-'s top on thrown from/
+<liturgical><prose>Also cyclic-existence consciousness just gathered abiding.
+
+[13348]
+<tibetan>གོང་མའི་རྩ་བཞི་ལས་ཡང་རྩ་བཞི་འཕེལ་ཏེ།
+<literal>above-'s channel four from again channel four increase/
+<liturgical><prose>Consciousness-gathered wisdom called.
+
+[13349]
+<tibetan>དེ་དག་གི་དབུས་སུ་རྩེ་མོའི་རླུང་ཤུགས་འཆང་ཞེས་བྱ་བའི་འདབ་མ་ལས་སྐར་མའི་ཕོད་འདྲ་བའི་འོད་འཕྲོ་ཞིང་འདུ་ལ།
+<literal>those-'s center in tip-'s wind force hold named petal from star-'s light like light radiate and gather on/
+<liturgical><prose>Wind channels four knowing-object wisdom two not-conceptual mind abiding.
+
+[13350]
+<tibetan>གོང་མའི་འབྱུང་གཞི་དངོས་ཀྱི་ནུས་པ་ཟད་པས།
+<literal>above-'s element-basis actual-'s power exhausted-by-means-of/
+<liturgical><prose>Also light essence gathered red self-purpose realized abiding.
+
+[13351]
+<tibetan>ཡང་འབྱུང་བ་གཉིས་འདུས་པའི་ལས་ཀྱིས་ཞགས་སུམ་ཅུ་རྩ་བཞི་པ་ལས།
+<literal>again elements two gather-'s work by-means-of day thirty-four from/
+<liturgical><prose>Yellow other-purpose realized abiding.
+
+[13352]
+<tibetan>ཀུན་གཞིའི་རྟེན་བཞི་ཚན་དང་བཅས་པ་དེ་དག་མཁྲང་གྱུར་དུ་གནས་པའི་རྟེན་ལ།
+<literal>basis-of-all-'s support four group and together those solid change as abides-'s support on/
+<liturgical><prose>Also knowable existing and.
+
+[13353]
+<tibetan>ཉོན་མོངས་པ་འདུ་བ་དང་རགས་པའི་རྩ་དུག་གི་རླངས་པ་དུག་གི་བུམ་པ་ལས་འཁྲིགས་པ་ལྟར་གནས་ཏེ།
+<literal>affliction gather and coarse channel poison-'s vapor poison-'s vase from gathered like abides/
+<liturgical><prose>Not-existing and. || 250 ||
+
+[13354]
+<tibetan>རྩེ་མོ་རྣམ་པར་བཀོད་པའི་འཁོར་ལོ་ཞེས་བྱ་བར་གནས་པ་ནི།
+<literal>tip form arranged-'s wheel named as abides is/
+<liturgical><prose>Thing and.
+
+[13355]
+<tibetan>ཞག་སུམ་ཅུ་རྩ་ལྔ་ན་རྒྱལ་པོའི་ཡིག་ཚང་རྫོགས་པའི་རྒྱུད་དེ་ལས་བྱུང་བའོ།
+<literal>day thirty-five on king-'s letter document complete-'s tantra that from arose/
+<liturgical><prose>Not-thing all knowable knowing wisdom two gathered.
+
+[13356]
+<tibetan>།དེ་ལྟར་བདུན་ཚན་བདུན་དུ་སྲིད་པ་ལུས་ཀྱི་རྩའི་འཁོར་ལོ་བཞི་བསྐྱེད་པས།
+<literal>/thus seven section seven-by-means-of existence body-'s channel-'s wheel four produced-by-means-of/
+<liturgical><prose>Knowable wisdom called.
+
+[13357]
+<tibetan>དེ་རེ་རེ་ལ་རྩའི་འདམ་མ་བརྒྱད་བརྒྱད་དེ་སུམ་ཅུ་རྩ་གཉིས་སུ་ལུས་སྤྱི་ལ་གནས་པ་ནི།
+<literal>that each on channel petal eight-eight thirty-two body whole on abides is/
+<liturgical><prose>Also body channels ultimate and conventional both cessation and.
+
+[13358]
+<tibetan>སྲིད་པའི་ཆུ་བོ་རྫས་ཡན་ལག་བཅུ་གཉིས་ཀྱིས་སྲིད་པ་ལུས་ཀྱི་གཞི་བཟུང་བ་དེ་ལས་བྱུང་བའོ།
+<literal>existence river substance limb twelve by-means-of existence body-'s basis grasp that from arose/
+<liturgical><prose>Birth and.
+
+[13359]
+<tibetan>།དེ་ལྟར་རྩ་སུམ་ཅུ་རྩ་གཉིས་ནས་ཡེ་ཤེས་སུམ་ཅུ་རྩ་གཉིས་ཀྱིས་ལས་འབྱུང་སྟེ།
+<literal>/thus channel thirty-two from primordial-wisdom thirty-two by-means-of work arise/
+<liturgical><prose>Abiding and.
+
+[13360]
+<tibetan>དངས་མ་ལས་དོན་དམ་པའི་ཐིག་ལེ་སྒྲོན་མ་བཞིའི་སྨིན་སོ་དང་བཅས་པར་བྱུང་སྟེ།
+<literal>essence from ultimate drop lamp four-'s ripeness and together arise/
+<liturgical><prose>Pleasure-pain all experiencing, yogi's body three kayas self-nature abiding.
+
+[13361]
+<tibetan>དེས་བདེ་བ་ལམ་དུ་བྱས་ན་བཙན་ཐབས་སུ་སངས་རྒྱས་བར་ངེས་སོ།
+<literal>that by-means-of bliss path as-made if forceful-method buddha become certain/
+<liturgical><prose>Also body formation characteristic consciousness dharma-kaya definite obtaining.
+
+[13362]
+<tibetan>།དེ་དག་གི་སྙིགས་མ་ལས་ཀུན་རྫོབ་ཀྱི་ཐིག་ལེར་གྱུར་ཏེ།
+<literal>/those-'s impurity from conventional drop became/
+<liturgical><prose>Abiding consciousness enjoyment-kaya.
+
+[13363]
+<tibetan>འབྱུང་བ་བཞིའི་སྨིན་སོ་དང་བཅས་པར་བྱུང་ཞིང༌།
+<literal>elements four-'s ripeness and together arise and/
+<liturgical><prose>Destroying consciousness emanation-kaya abiding definite obtaining. || 260 ||
+
+[13364]
+<tibetan>དེས་སྡུག་བསྔལ་རང་རྒྱུད་དུ་སོང་བ་ལས་འཁོར་བའི་ས་བོན་འཕེལ་བར་བྱེད་ལ།
+<literal>that by-means-of suffering self-continuum went from samsara-'s seed increase do/
+<liturgical><prose>Also those becoming basis.
+
+[13365]
+<tibetan>དེ་ཉིད་རྩའི་གནད་ལ་བརྟེན་ནས་ལམ་དུ་བྱས་ན།
+<literal>that itself channel-'s vital-point on depend-by-means-of path as-made if/
+<liturgical><prose>Touch and desire-object.
+
+[13366]
+<tibetan>བདེ་བ་ཁྱད་པར་ཅན་གྱི་ཆོས་ཉིད་མངོན་སུམ་དུ་རྟོགས་པར་བྱེད་དོ།
+<literal>bliss excellent-'s nature direct realize do/
+<liturgical><prose>That from action continuum arisen.
+
+[13367]
+<tibetan>།རྩ་དེ་དག་གིས་ནི་ཡེ་ཤེས་ཀྱི་ལམ་དུ་གྱུར་ལ།
+<literal>/channel those by-means-of primordial-wisdom-'s path became/
+<liturgical><prose>Husk and cartilage and.
+
+[13368]
+<tibetan>ཐིག་ལེའི་ངོ་བོར་སོང་བས།
+<literal>drop-'s nature went-by-means-of/
+<liturgical><prose>Essence not-possess etc. also.
+
+[13369]
+<tibetan>བདེ་སྡུག་ཉམས་སུ་མྱོང་བའི་ལས་བྱེད་པའོ།
+<literal>bliss suffering experience-'s work do/
+<liturgical><prose>That potency and play arisen.
+
+[13370]
+<tibetan>།དེ་ནས་ཡང་ཞག་སུམ་ཅུ་རྩ་ལྔའི་བར་ལ་སྔ་མ་ལྟར་འབྱུང་བ་སོ་སོའི་ལས་ཀྱི་ནུས་པས་སྐྱེད་བྱེད་དང་པོའི་ལས་ཀྱི་འབྲེལ་རྫོགས་པར་བྱས་པས་གཟུགས་ལས་རྡུལ་ཕྲ་རབ་དཔག་ཏུ་མེད་པའི་ཕུང་པོར་འདུ་ཞིང་མཆེད་པ་དང༌།
+<literal>/then again day thirty-five until before like elements individual-'s work-'s power by-means-of produce action first-'s action-'s connection complete made-by-means-of form from particle very-small measure-not-'s aggregate gather and expand and/
+<liturgical><prose>Alaya and appropriating.
+
+[13371]
+<tibetan>དེ་བཞིན་དུ་ཚོར་བ་འདུ་ཤེས་འདུ་བྱེད་རྣམས་ཀྱི་ཕུང་པོའི་ཆ་ལས་མཆེད་ཅིང་འདུ་བ་དཔག་ཏུ་མེད་པར་བསྐྱེད་པ་ནི།
+<literal>thus feeling perception formations aggregates-'s part from expand and gather measure-not produced is/
+<liturgical><prose>Flesh and blood and phlegm and.
+
+[13372]
+<tibetan>ཕུང་པོ་ལྔའི་རིགས་མངོན་སྣང་དུ་སྤུར་བའོ།
+<literal>aggregates five-'s race manifest project/
+<liturgical><prose>Bone and skin hair and.
+
+[13373]
+<tibetan>།དེ་ནས་ཞག་བཞི་བཅུ་རྩ་གཉིས་ལ་ཐུག་པར་འབྱུང་བ་གཉིས་འདུས་པའི་ལས་ཀྱིས།
+<literal>/then day forty-two until elements two gather-'s work by-means-of/
+<liturgical><prose>Accumulate body that from arisen. || 270 ||
+
+[13374]
+<tibetan>སྐྱེད་བྱེད་དུ་ཆུའི་སྲིན་བུ་སྟོང་ཕྲག་བརྒྱད་ཅུ་རྩ་གཉིས་ཀྱི་ལུས་འཕེལ་བར་བྱས་སོ།
+<literal>produce action water-'s bug thousand eighty-two-'s body increase made/
+<liturgical><prose>Said.
+
+[13375]
+<tibetan>།འཁོར་ལོ་དེ་ལ་རྩ་འདབ་དྲུག་ཅུ་རྩ་གཉིས་སུ་མཚོན་པའི་ལས་བྱས་པ་ནི།
+<literal>/wheel that on channel petal sixty-two as show-'s work did is/
+<liturgical><prose>That time, ignorance six also self-ornament arisen and.
+
+[13376]
+<tibetan>བསྐལ་པའི་སྐྱེ་འབྲི་དྲུག་ཅུ་རྩ་གཉིས་སུ་འབྱུང་བའི་རྒྱུའོ།
+<literal>eon-'s birth decrease sixty-two arise-'s cause/
+<liturgical><prose>Self-arisen from.
+
+[13377]
+<tibetan>།རྩ་དེ་དག་རེ་རེའི་ནང་དུ་རྩ་གནས་ཁྱད་པར་ཅན་གྱི་ཡི་གེ་རེ་རེ།
+<literal>/channel those each-'s inside in channel abode special-'s letter each/
+<liturgical><prose>Ignorance this like.
+
+[13378]
+<tibetan>དེ་རྟེན་པར་བྱེད་པ་འོད་ཀྱི་གོང་བུ་རེ་རེ།
+<literal>that support do light-'s upper mass each/
+<liturgical><prose>Root mind ignorance and.
+
+[13379]
+<tibetan>འོད་འཛིན་པར་བྱེད་པའི་ཀུན་བཟང་ཡབ་ཡུམ་གཉིས་གཉིས་སུ་གནས་སོ།
+<literal>light grasp do samantabhadra father mother two-two as abides/
+<liturgical><prose>Delusion object ignorance and.
+
+[13380]
+<tibetan>།དེའང་རྩ་སྣ་དྲུག་ཅུ་རྩ་གཉིས།
+<literal>/that-also channel tip sixty-two/
+<liturgical><prose>Delusion-basis basis ignorance and.
+
+[13381]
+<tibetan>ཡི་གེ་དྲུག་ཅུ་རྩ་གཉིས་ཏེ་བརྒྱ་ཉེར་བཞི།
+<literal>letter sixty-two hundred twenty-four/
+<liturgical><prose>Grasp thought ignorance and.
+
+[13382]
+<tibetan>འོད་དྲུག་ཅུ་རྩ་གཉིས་ཏེ།
+<literal>light sixty-two/
+<liturgical><prose>Remedy path ignorance and.
+
+[13383]
+<tibetan>བརྒྱ་དང་བརྒྱད་ཅུ་རྩ་དྲུག
+<literal>hundred and eighty-six
+<liturgical><break><prose> Not-know confuse ignorance and. || 280 ||
+
+[13384]
+<tibetan>ཀུན་བཟང་ཡབ་དང་ཡུམ་བསྡོམས་པས་བརྒྱ་ཉེར་བཞི་སྟེ།
+<literal>samantabhadra father and mother combined-by-means-of hundred twenty-four/
+<liturgical><break><prose> Thus ignorance appearance six arisen and.
+
+[13385]
+<tibetan>སྐྱེད་བྱེད་དང་པོའི་འཁོར་ལོ་ན།
+<literal>produce action first-'s wheel on/
+<liturgical><prose>Self-appearance not see.
+
+[13386]
+<tibetan>ཡེ་ཤེས་འགྱུ་བའི་ཁྱད་པར་སུམ་བརྒྱ་དང་བཅུ་ཐམ་པའོ།
+<literal>primordial-wisdom move-'s distinction three hundred and ten limit/
+<liturgical><prose>That also this like.
+
+[13387]
+<tibetan>།དེ་རྣམས་ཡེ་ཤེས་དག་པའི་རླུང་གིས་འཕར་བ་དང་ཤིབ་པ་ལ་སོགས་པས།
+<literal>/those primordial-wisdom pure-'s wind by-means-of jump and dissolve and so-forth by-means-of/
+<liturgical><prose>Root mind ignorance co-emerge actual is and.
+
+[13388]
+<tibetan>ཞི་གནས་དང་ལྷག་མཐོང་གི་བྱེད་པ་ངེས་པར་རྟོགས་པར་བྱེད་པས་ན་སྐྱེད་བྱེད་ཅེས་བྱ་སྟེ།
+<literal>calm-abiding and insight-'s action certain realize do-by-means-of produce action named/
+<liturgical><prose>Awareness wisdom face not-know and delude and.
+
+[13389]
+<tibetan>སྲིད་པ་ལུས་ཀྱི་གཞི་ཡིན་པས་དང་པོ་ཞེས་བྱའོ།
+<literal>existence body-'s basis is first named/
+<liturgical><prose>I to wisdom appearance this arise or.
+
+[13390]
+<tibetan>།དེ་ལྟར་ཀུན་གྱི་གཞི་ཡིན་པས་འཁོར་ལོའོ།
+<literal>/thus all-'s basis is wheel/
+<liturgical><prose>I appearance this not-possess-or think consciousness arise and.
+
+[13391]
+<tibetan>།འབྱུང་བ་ཁྱད་པར་གྱི་ཆོས་རླུང་ལ་སོགས་པའི་རྣམ་གྲངས་དེ་ཙམ་ཅིག་སོ་སོའི་འབྱུང་བའི་ཕུལ་གྱིས་འགྲོ་བ་དང་འོང་བའི་ཁྱད་པར་དུ་གནས་པའོ།
+<literal>/elements special-'s dharma wind and-so-forth-'s enumeration that just individual element-'s peak by-means-of go come-'s distinction as abides/
+<liturgical><prose>Arrogance arise that co-emerge root ignorance is and.
+
+[13392]
+<tibetan>།ཉོན་མོངས་པ་དང་ལས་ཀྱི་བྱེད་པ་དེ་ཙམ་ཅིག་ཏུ་ལས་ཀྱི་རླུང་གི་འཕེན་པ་དང༌།
+<literal>/affliction and action-'s work that just action-'s wind-'s throw and/
+<liturgical><prose>Self-as think mind arise delude.
+
+[13393]
+<tibetan>རྔུབས་པ་དང༌།
+<literal>inhale and/
+<liturgical><prose>Then awareness wisdom appearance obscure. || 290 ||
+
+[13394]
+<tibetan>།དགོད་པ་དང༌།
+<literal>/laugh and/
+<liturgical><prose>That root mind ignorance called.
+
+[13395]
+<tibetan>གཞིལ་བར་བྱེད་པས་ན་ཉིན་མཚན་ངེས་པའོ།
+<literal>hold do-by-means-of day night certain/
+<liturgical><prose>Now delusion object ignorance show.
+
+[13396]
+<tibetan>།དེ་ལྟར་ན་རྐྱེན་ཚོགས་པ་བྱེ་བྲག་གི་ཆོས་དགུ་བརྒྱ་དང་སུམ་ཅུ་ཐམ་པ་གནས་པ་ནི་དབང་གི་གཞི་ལམ་ངེས་པ་ལས་བྱུང་བའོ།
+<literal>/thus condition gather distinction-'s dharma nine hundred and thirty abides is empowerment-'s basis path certain from arose/
+<liturgical><prose>Delusion what delude.
+
+[13397]
+<tibetan>།དེ་ཡང་འབྱུང་བ་ཆུའི་འཁོར་ལོ་རྟེན་འབྲེལ་བཅུ་གཉིས་ཀྱིས་འཁོར་ཞིང་འདུས་པ་ལས།
+<literal>/that even elements water-'s wheel dependent-origination twelve by-means-of turn and gather from/
+<liturgical><prose>Object before world not-arise only when.
+
+[13398]
+<tibetan>སྲིན་བུ་སྟོང་ཕྲག་བརྒྱད་ཅུ་རྩ་ལྔ་གནས།
+<literal>bug thousand eighty-five abides/
+<liturgical><prose>Wish-fulfilling tree spread called.
+
+[13399]
+<tibetan>དེ་རེ་རེ་ལ་རྩ་དེ་ཙམ་རེའི་ནང་ན་ཡི་གེ་དེ་ཙམ་རེ་སྟེ།
+<literal>that each on channel that just each-'s inside in letter that just/
+<liturgical><prose>Buddha youth vase body blessing arisen tree and.
+
+[13400]
+<tibetan>རླུང་གི་འཕེན་པ་རེ་རེ་ལས་མེད།
+<literal>wind-'s throw each from not/
+<liturgical><prose>Egg arisen heat and moisture hatch one existing from.
+
+[13401]
+<tibetan>སྐུ་རེ་རེ་གནས་པས་ཚོགས་པའི་ཆོས་དཔག་ཏུ་མེད་པའི་ཕྱིར།
+<literal>body each abides-by-means-of gather-'s dharmas measure-not-'s cause/
+<liturgical><prose>That from mind self-arisen wisdom called, agitate from Jambudvipa world arise.
+
+[13402]
+<tibetan>ཀུན་གཞི་ཀུན་གྱི་གཞི་ཡིན་ཏེ།
+<literal>basis-of-all all-'s basis is/
+<liturgical><prose>That delusion object ignorance called.
+
+[13403]
+<tibetan>།རྣམ་པར་བྱང་བའི་གཞི་མའང་ཡིན།
+<literal>/purification-'s basis mother even is/
+<liturgical><prose>Delusion-basis basis ignorance. || 300 ||
+
+[13404]
+<tibetan>།ཅེས་པའོ།
+<literal>/thus/
+<liturgical><prose>Delusion-basis self self not-pure arisen and.
+
+[13405]
+<tibetan>།དེ་ནས་ཀུན་གཞི་ལུས་ཀྱི་རྟེན་དང་དེ་གཉིས་འདྲེས་པ་ནི་དབང་པོ་ལྔའི་གཞིའི་དོད་དབང་རྟེན་ཙམ་དུ་གནས་པ་ལས།
+<literal>/then basis-of-all body-'s support and that two mixed is sense-faculties five-'s basis-'s need empowerment support just abides from/
+<liturgical><prose>First cause condition called ignorance actual arisen and.
+
+[13406]
+<tibetan>ཞག་བཞི་བཅུ་རྩ་དྲུག་ཏུ་སོང་བའི་བར་ལ་འབྱུང་བ་སོ་སོའི་བྱེད་ལས་ཀྱི་ནུས་པས།
+<literal>day forty-six until went-'s while on elements individual-'s action-'s power by-means-of/
+<liturgical><prose>Basis not-know ignorance.
+
+[13407]
+<tibetan>དྲན་པ་འདུས་པའི་འཁོར་ལོ་ལ་རྫོགས་ཤིང་འདུས་པས།
+<literal>memory gather-'s wheel on complete and gather-by-means-of/
+<liturgical><prose>That object condition called delusion object ignorance like.
+
+[13408]
+<tibetan>མེ་རྡུལ་ལ་སོགས་པའི་རྡུལ་རྣམས་འཕེལ་ཞིང༌།
+<literal>fire particle and-so-forth-'s particles increase and/
+<liturgical><prose>That master condition called tree on I grasp arise.
+
+[13409]
+<tibetan>ཚོར་བ་བདེ་སྡུག་གི་ཉམས་འཕེལ་བ་དང༌།
+<literal>feeling bliss suffering-'s experience increase and/
+<liturgical><prose>That equal immediate condition called.
+
+[13410]
+<tibetan>འདུ་ཤེས་འདུ་མཆེད་དང༌།
+<literal>perception sense-bases and/
+<liturgical><prose>Consciousness coarse go grasp grasp.
+
+[13411]
+<tibetan>རྣམ་ཤེས་ཡུལ་དང་འཇུག་པའི་ཁྱད་པར་འཕེལ་ལ།
+<literal>consciousness object and enter-'s distinction increase on/
+<liturgical><prose>That affliction coarse go.
+
+[13412]
+<tibetan>འདུ་བྱེད་ལས་རྩ་བ་དང་ཡན་ལག་གི་ཉོན་མོངས་པ་འཕེལ་ཞིང༌།
+<literal>gather-action-from root and limb's affliction-mind increase-during/
+<liturgical><prose>That delusion basis ignorance called.
+
+[13413]
+<tibetan>ཁམས་བཅོ་བརྒྱད་ཀྱི་སྤྲོས་འགྱུར་ལས་འཕེལ་ལོ།
+<literal>realm eighteen's proliferation-change-from increase-lo/
+<liturgical><prose>Grasp thought ignorance. || 310 ||
+
+[13414]
+<tibetan>།དེ་ནས་བྱུང་བཞི་སོ་སོའི་ནུས་པ་འི་སྟོབས་ཟད་ནས།
+<literal>/that from arise four individual power strength exhausted-from/
+<liturgical><prose>That affliction collection measure-not-possess arise.
+
+[13415]
+<tibetan>འབྱུང་བ་གཉིས་གཉིས་འདུས་པས་དྲན་པ་འདུས་པའི་འཁོར་ལོ་ལ་རྩ་རེ་རེ་ལས་མཆེད་པ་སྐྱོད་པའི་རྩ་རེ་རེ་སྟེ་བཅུ་དྲུག་ཏུ་འཕེལ་བ་ནི་དབང་བཅུ་དྲུག་གི་འཕེལ་སྟོན་པའོ།
+<literal>arise-element two-two gather-by-means-of mindfulness gather wheel's channel one-one-from spread move channel one-one as sixteen-to increase is empowerment sixteen's increase show is/
+<liturgical><prose>That also this like.
+
+[13416]
+<tibetan>།དེ་དག་རེ་རེའི་ནང་དུ་རང་བཞིན་རྩ་གནས་ཀྱི་ཡི་གེ་རེ་རེ།
+<literal>/those one-one's inside-in nature channel abode's syllable one-one/
+<liturgical><prose>Grasp mind six arise.
+
+[13417]
+<tibetan>དེ་བརྟན་པ་འོད་ལྔའི་གོང་བུ་རེ་རེ།
+<literal>that steady light five's mass one-one/
+<liturgical><prose>Ignorance and equal mind and.
+
+[13418]
+<tibetan>དེ་བརྟེན་པའི་ཀུན་བཟང་ཡབ་ཡུམ་གཉིས་གཉིས་སུ་གནས་སོ།
+<literal>that support-by-means-of Samantabhadra father-mother two-two-as abode so/
+<liturgical><prose>Mind consciousness mind and.
+
+[13419]
+<tibetan>།དེའང་རྩས་ལུས་བརྟེན།
+<literal>/that-also channel-by-means-of body support/
+<liturgical><prose>All seek mind and.
+
+[13420]
+<tibetan>ལུས་ཀྱིས་འབྱུང་བ་བརྟེན།
+<literal>body-by-means-of element support/
+<liturgical><prose>Certainty put mind and.
+
+[13421]
+<tibetan>ཡི་གེས་འཁོར་ལོའི་ཆོས་བརྟན།
+<literal>syllable-by-means-of wheel's dharma steady/
+<liturgical><prose>Aspect coarse mind and.
+
+[13422]
+<tibetan>འོད་ཀྱིས་ཡེ་ཤེས་བརྟེན།
+<literal>light-by-means-of wisdom support/
+<liturgical><prose>Definitely place mind.
+
+[13423]
+<tibetan>ཀུན་བཟང་ཡམ་གྱིས་སྐུ་གསུམ་བརྟེན་པའོ།
+<literal>Samantabhadra yam-by-means-of body three support is/
+<liturgical><prose>That also this like. || 320 ||
+
+[13424]
+<tibetan>།ཡེ་ཤེས་དང༌།
+<literal>/wisdom and/
+<liturgical><prose>Ignorance and equal possess mind this like.
+
+[13425]
+<tibetan>སྐུ་དང༌།
+<literal>body and/
+<liturgical><prose>Root ignorance actual is and.
+
+[13426]
+<tibetan>ཆོས་ཉིད་དང༌།
+<literal>dharmata and/
+<liturgical><prose>Mind movement with together.
+
+[13427]
+<tibetan>འོད་རང་གི་ངོ་བོར་བཞུགས་པ་བཞི་ལ་བརྟེན་ནས་དབང་བཞིའི་འབྲས་བུ་ཚད་དུ་ཕྱིན་པའོ།
+<literal>light own's essence-as dwell four upon-by-means-of empowerment four's result measure-to arrive is/
+<liturgical><prose>That ignorance and equal possess mind.
+
+[13428]
+<tibetan>།དྲན་པ་འདུས་པའི་འཁོར་ལོ་རྩ་བཅུ་དྲུག་གི་ནང་ན།
+<literal>/mindfulness gather wheel's channel sixteen inside-in/
+<liturgical><prose>Mind consciousness object to I be think consciousness grasp.
+
+[13429]
+<tibetan>སེམས་བཅུ་དྲུག་བརྟེན་ནས་གནས་པའོ།
+<literal>mind sixteen support-from abiding is/
+<liturgical><prose>I and self-as grasp affliction power go cause mind consciousness called.
+
+[13430]
+<tibetan>།དེ་ཡང་སེམས་དང༌།
+<literal>/that also mind and/
+<liturgical><prose>Certainty put mind.
+
+[13431]
+<tibetan>སེམས་ཉིད་ཀྱི་དབྱེ་བ་ལས།
+<literal>mind-ness's distinction from/
+<liturgical><prose>Object I object is think consciousness grasp that to attachment arise certainty put called.
+
+[13432]
+<tibetan>དང་པོ་སེམས་ལ་སྡུད་པ་ཆུའི་སེམས་ཀྱིས་དྲན་པ་བསམ་གྱི་གཞི་འཛིན།
+<literal>first mind-to gathering water's mind-by-means-of mindfulness thought's basis hold/
+<liturgical><prose>First, upon mind, gathering by water-mind holds mindfulness' thought-basis.
+
+[13433]
+<tibetan>བརྟན་པས་སེམས་ཀྱི་ཚོགས་པ་སྡུད།
+<literal>steady-by-means-of mind's collection gather/
+<liturgical><prose>By steadiness, mind's collection gathers.
+
+[13434]
+<tibetan>།འཕྲོ་བ་མེའི་སེམས་ཀྱིས་ཡུལ་ལ་སྤྲོ།
+<literal>/radiate fire's mind-by-means-of object-to radiate/
+<liturgical><prose>Radiating by fire-mind radiates to objects.
+
+[13435]
+<tibetan>།ཡང་བ་རླུང་གི་སེམས་ཀྱིས་སྐྱོད་པར་བྱེད་པའོ།
+<literal>/light wind's mind-by-means-of move cause-do is/
+<liturgical><prose>Light by wind-mind moves.
+
+[13436]
+<tibetan>།སེམས་ཉིད་ལ།
+<literal>/mind-ness-to/
+<liturgical><prose>Upon mind-itself.
+
+[13437]
+<tibetan>སྐྱེ་མེད་དོན་གྱི་སེམས་ཉིད།
+<literal>birth-not meaning's mind-ness/
+<liturgical><prose>Unborn meaning's mind-itself.
+
+[13438]
+<tibetan>འགག་མེད་དྲན་པའི་སེམས་ཉིད།
+<literal>cease-not mindfulness's mind-ness/
+<liturgical><prose>Unceasing mindfulness's mind-itself.
+
+[13439]
+<tibetan>འགྱུར་མེད་དཔེ་དོན་འདྲེས་པའི་སེམས་ཉིད།
+<literal>change-not example meaning mix-by-means-of mind-ness/
+<liturgical><prose>Unchanging example-meaning-mixed mind-itself.
+
+[13440]
+<tibetan>རང་རྫོགས་དངོས་དོན་གང་དུ་ཡང་མ་ཕྱེ་བའི་སེམས་ཉིད་དོ།
+<literal>self-complete actual meaning wherever also not-differentiate-by-means-of mind-ness is/
+<liturgical><prose>Self-complete actual-meaning, nowhere differentiated mind-itself.
+
+[13441]
+<tibetan>དྲན་པ་ལ་སེམས་དང༌།
+<literal>mindfulness-to mind and/
+<liturgical><prose>Upon mindfulness, mind and. || 10 ||
+
+[13442]
+<tibetan>ཡིད་གཉིས་ལས།
+<literal>mental two-from/
+<liturgical><prose>Mental two from.
+
+[13443]
+<tibetan>སེམས་ཀྱི་དྲན་པ་ནི་བཤད་པ་བཞིན་ནོ།
+<literal>mind's mindfulness is explained as-before is/
+<liturgical><prose>Mind's mindfulness is as explained before.
+
+[13444]
+<tibetan>།ཡིད་ཀྱི་དྲན་པ་དྲུག་སྟེ།
+<literal>/mental's mindfulness six are/
+<liturgical><prose>Mental's mindfulness six are.
+
+[13445]
+<tibetan>ཀུན་ཏུ་ཚོལ་བྱེད་ཀྱི་དྲན་པ་དག་པ་ལྷའི་སྐུར་གསལ་ལ།
+<literal>everywhere search-do-by-means-of mindfulness pure god's body-as clear/
+<liturgical><list>Thoroughly-searching mindfulness, pure—clear as god's body.
+
+[13446]
+<tibetan>མ་དག་པ་ལྷའི་འགྲོ་བར་འཕེན་ཞིང།
+<literal>not-pure god's migration-to throw-during/
+<liturgical><list>Impure—thrown into god's migration.
+
+[13447]
+<tibetan>ཕྱིན་ཅི་ལོག་ན་ལོག་སྲེད་ཅན་གྱི་ལུས་སུ་འཕེན་ནོ།
+<literal>perverted-if wrong-attachment-possess body-to throw is/
+<liturgical><list>Perverted—thrown into wrong-attachment body.
+
+[13448]
+<tibetan>།གཏན་ལ་འབེབས་པའི་ཡིད་ཀྱི་དྲན་པ་དག་པས་རིགས་འཛིན་གྱིས་ཐོབ།
+<literal>/certainty fix-by-means-of mental's mindfulness pure-by-means-of awareness-holder obtain/
+<liturgical><list>Definitively-settling mental mindfulness, pure—awareness-holder obtained.
+
+[13449]
+<tibetan>མ་དག་པས་ལྷ་མིན་དུ་སྐྱེ།
+<literal>not-pure-by-means-of god-non-to born/
+<liturgical><list>Impure—born as god-asura.
+
+[13450]
+<tibetan>ཕྱིན་ཅི་ལོག་ན་སྨེ་ཤ་ཅན་གྱི་རིགས་སུའོ།
+<literal>perverted-if butcher's lineage-in is/
+<liturgical><list>Perverted—into butcher's lineage.
+
+[13451]
+<tibetan>།ངེས་པར་འཇོག་པའི་ཡིད་ཀྱི་དྲན་པ་དག་པས་མཁའ་སྤྱོད།
+<literal>/certainty place-by-means-of mental's mindfulness pure-by-means-of space-dwell/
+<liturgical><list>Definitively-placing mental mindfulness, pure—space-dweller. || 20 ||
+
+[13452]
+<tibetan>མ་དག་པས་མི།
+<literal>impure-by-means-of human
+<liturgical><list>Impure—human.
+
+[13453]
+<tibetan>ཕྱིན་ཅི་ལོག་ན་འདོད་སྲེད་ཅན་གྱི།
+<literal>perverted-if desire-possessing-by-means-of
+<liturgical><list>Perverted—into desire-possessing.
+
+[13454]
+<tibetan>འགྲོ་བར་འཕེན་ནོ།
+<literal>going-into hurls
+<liturgical><prose>Migration thrown.
+
+[13455]
+<tibetan>།ཡིད་ཀྱི་རྣམ་ཤེས་ཀྱི་དྲན་པ་དག་པས་ཕྱག་རྒྱའི་རྣལ་འབྱོར།
+<literal>mind-by-means-of consciousness-by-means-of memory pure-by-means-of mudra-of yoga
+<liturgical><list>Mental-consciousness's mindfulness, pure—mudra-yoga.
+
+[13456]
+<tibetan>མ་དག་པས་བྱོལ་སོང༌།
+<literal>impure-by-means-of animal
+<liturgical><list>Impure—animal.
+
+[13457]
+<tibetan>ཕྱིན་ཅི་ལོག་ན་ལོག་ལྟ་ཅན་ནོ།
+<literal>perverted-if wrong-view-possessing
+<liturgical><list>Perverted—wrong-view-possessor.
+
+[13458]
+<tibetan>།ཉོན་མོངས་པ་ཅན་གྱི་ཡིད་ཀྱི་དྲན་པ་དག་པས་ཡི་གེ་གཅིག་པའི་རྣལ་འབྱོར་མ་དག་པས་ཡི་དགས།
+<literal>affliction-possessing-by-means-of mind-by-means-of memory pure-by-means-of syllable single-of yoga impure-by-means-of hungry-ghost
+<liturgical><list>Affliction-possessing mind's mindfulness, pure—single-syllable yoga, impure—hungry ghost.
+
+[13459]
+<tibetan>ཕྱིན་ཅི་ལོག་ན་འདོད་སྲེད་ལོག་པའི་འགྲོ་བའོ།
+<literal>perverted-if desire wrong-of going
+<liturgical><list>Perverted—wrong-desire migration.
+
+[13460]
+<tibetan>།འགྱུ་བྱེད་འཛིན་པའི་ཡིད་ཀྱི་དྲན་པ་དག་པས་འཁོར་ལོར་འཛིན་པའི་རྣལ་འབྱོར།
+<literal>moving maker grasping-of mind-by-means-of memory pure-by-means-of wheel-at grasping-of yoga
+<liturgical><list>Moving-maker-grasping mind's mindfulness, pure—wheel-grasping yoga.
+
+[13461]
+<tibetan>མ་དག་པས་དམྱལ་བ།
+<literal>impure-by-means-of hell
+<liturgical><list>Impure—hell. || 30 ||
+
+[13462]
+<tibetan>ཕྱིན་ཅི་ལོག་ན་སྡུག་བསྔལ་ཅན་གྱི་འགྲོ་བའོ།
+<literal>perverted-if suffering-possessing-by-means-of going
+<liturgical><list>Perverted—suffering-possessing migration.
+
+[13463]
+<tibetan>།དེ་ཡང་ཀུན་ཏུ་ཚོལ་བའི་ཡིད་ནི་རླུང་གི་རྟ་དང་བཅས་པའི་དྲན་པ་སྔར་གྱི་དྲན་པ་རྗེས་སུ་འཛིན་པ་ལས་བྱུང་བའོ།
+<literal>that-also thoroughly investigating-of mind wind-of horse with together memory previous-of memory after follows grasping from arises
+<liturgical><prose>That also, thoroughly-investigating mind with wind-horse, from previous-memory following-grasping arises.
+
+[13464]
+<tibetan>།གཏན་ལ་འབེབས་པའི་ཡིད་ནི།
+<literal>definitively settling-of mind
+<liturgical><prose>Definitively-settling mind.
+
+[13465]
+<tibetan>སའི་རྟ་དང་བཅས་པ་འདས་པ་ལས་མཆེད་པའི་དྲན་པ་ལས་བྱུང་བའོ།
+<literal>earth-of horse with together past from branched memory from arises
+<liturgical><prose>With earth-horse, from past-branched memory arises.
+
+[13466]
+<tibetan>།ངེས་པར་འཛིན་པའི་ཡིད་འབྱུང་བ་ཆུའི་རྟ་དང་བཅས་པའི་དྲན་པ་ལས་བྱུང་སྟེ་ད་ལྟའི་དྲན་པ་རྗེས་སུ་འཛིན་པ་ལས་བྱུང་ངོ༌།
+<literal>definitively grasping-of mind arising water-of horse with together memory from arises now-of memory after follows grasping from arises
+<liturgical><prose>Definitively-grasping mind, arising with water-horse, from present-memory following-grasping arises.
+
+[13467]
+<tibetan>།ཡིད་ཀྱི་རྣམ་པར་ཤེས་པ་ནི།
+<literal>mind-by-means-of consciousness
+<liturgical><prose>Mental-consciousness.
+
+[13468]
+<tibetan>ཡིད་དྲུག་གི་ཤེས་པའི་ཆ་འདུས་པ་ལས་བྱུང་སྟེ།
+<literal>mind six-of knowing portion gathered from arises
+<liturgical><prose>From mind-six's knowing-portion gathering arises.
+
+[13469]
+<tibetan>མའི་རྟ་དང་བཅས་པ་ལས་བྱུང་ངོ༌།
+<literal>mother-of horse with together from arises
+<liturgical><prose>With mother-horse arises.
+
+[13470]
+<tibetan>།ད་ལྟའི་དྲན་པ་ཉེ་བར་མཚོན་པ་ལས་བྱུང་བའོ།
+<literal>now-of memory near points-out from arises
+<liturgical><prose>From present-memory near-pointing arises.
+
+[13471]
+<tibetan>།ཉོན་མོངས་པ་ཅན་ནི།
+<literal>affliction-possessing
+<liturgical><prose>Affliction-possessor. || 40 ||
+
+[13472]
+<tibetan>ཆུ་དང་ས་གཉིས་འདུས་པའི་རྟ་དང་བཅས་པ་མ་འོངས་པའི་དྲན་པའི་རྗེས་འཛིན་པ་ལས་བྱུང་བའོ།
+<literal>water and earth two gathered-of horse with together future-of memory-of after grasping from arises
+<liturgical><prose>With water-earth-two-gathered horse, from future-memory following-grasping arises.
+
+[13473]
+<tibetan>།འགྱུ་བྱེད་འཛིན་པ་ཡིད་ནི།
+<literal>moving maker grasping mind
+<liturgical><prose>Moving-maker-grasping mind.
+
+[13474]
+<tibetan>བག་ཆགས་སྔ་ཕྱིའི་ཚོགས་པ་འདུས་པ་སྟེ་མེ་རླུང་གཉིས་ཀྱི་རྟ་དང་བཅས་པ་མ་འོངས་པའི་དྲན་པ་མཆེད་པ་ལས་བྱུང་བའོ།
+<literal>latencies early late-of aggregate gathered fire wind two-by-means-of horse with together future-of memory branched from arises
+<liturgical><prose>Early-late latencies' aggregate gathered, with fire-wind-two horse, from future-memory branching arises.
+
+[13475]
+<tibetan>།དེ་ལྟར་དྲུག་གི་སྨིན་སོས་ནང་དུ་རྣམ་ཤེས་ཚོགས་དྲུག་ཏུ་བྱུང་ངོ༌།
+<literal>thus six-of ripening in inside consciousness aggregate six-as arose
+<liturgical><prose>Thus by six ripenings, inside consciousness aggregate-six arose.
+
+[13476]
+<tibetan>།དེ་དག་གིས་སོ་སོའི་འདུ་བ་ལས་ཁམས་བཅོ་བརྒྱད་འཕེལ་བ་ཐོབ་ལ།
+<literal>those-by-means-of individual-of gathering from elements eighteen growing obtained
+<liturgical><prose>By those from individual gathering, eighteen elements growing obtained.
+
+[13477]
+<tibetan>ཐོབ་པས་གནས་ཏེ།
+<literal>obtained-by-means-of abides
+<liturgical><prose>Obtained, thus abides.
+
+[13478]
+<tibetan>དེ་དག་གི་རྒྱུ་དང་རྐྱེན་ལས་སའི་སྲིན་བུ་སྟོང་ཕྲག་བརྒྱད་ཅུ་རྩ་བཞིར་བྱུང་བ་ནི།
+<literal>those-of cause and condition from earth-of insect thousand eighty-four-as arose
+<liturgical><prose>That those cause and condition from earth insect thousand eighty-four arisen.
+
+[13479]
+<tibetan>ལུས་ཀྱིས་ལུས་བསྐྱེད།
+<literal>body-by-means-of body produces
+<liturgical><prose>Body by body generated.
+
+[13480]
+<tibetan>ངག་གིས་ངག་བསྐྱེད།
+<literal>speech-by-means-of speech produces
+<liturgical><prose>Speech by speech generated.
+
+[13481]
+<tibetan>སེམས་ཀྱིས་སེམས་བསྐྱེད་པ་སྟེ།
+<literal>mind-by-means-of mind produces
+<liturgical><prose>Mind by mind generated. || 50 ||
+
+[13482]
+<tibetan>བཀོད་པ་ཆེན་པོ་ལས།
+<literal>arrangement great from
+<liturgical><tantra>From Great Arrangement.
+
+[13483]
+<tibetan>བསྐྱེད་པ་གསུམ་གྱིས་འགྲོ་བ་རྣམས།
+<literal>producing three-by-means-of going beings
+<liturgical><tantra>Generation three migrating beings.
+
+[13484]
+<tibetan>སོ་སོའི་སྨིན་སོ་རྫོགས་པ་སྟེ།
+<literal>individual-of ripening completed
+<liturgical><tantra>Individual ripening complete.
+
+[13485]
+<tibetan>།འབྱུང་བ་ལས་ནི་ལུས་དག་དང༌།
+<literal>elements from body pure and
+<liturgical><tantra>From elements body pure and.
+
+[13486]
+<tibetan>།ཡི་གེ་ལས་ནི་སྒྲ་སྐད་གསུང༌།
+<literal>syllable from sound voice spoke
+<liturgical><tantra>From letters voice speech.
+
+[13487]
+<tibetan>།དྲན་པ་ཚེ་ལས་ཡིད་སོགས་སོ།
+<literal>memory life from mind etc.
+<liturgical><tantra>Mindfulness life mind etc.
+
+[13488]
+<tibetan>།ཞེས་སོ།
+<literal>thus
+<liturgical><prose>Thus.
+
+[13489]
+<tibetan>།དེའང་སྲིན་བུ་བརྟེན་པའི་ཡི་གེ་དང༌།
+<literal>that-also insect based-on-of syllable and
+<liturgical><prose>Also insect-abiding letters and.
+
+[13490]
+<tibetan>།དེའི་རྟེན་སྐུ།
+<literal>that-of basis body
+<liturgical><tantra>That support body.
+
+[13491]
+<tibetan>དེ་རེ་རེ་ལ་སྐུ་གསུང་ཐུགས་ཀྱི་ངེས་པའི་རྟེན་དུ་གནས་པས།
+<literal>that one-one-to body speech mind's certainty's basis-as abiding-by-means-of/
+<liturgical><tantra>Those each body-speech-mind definite support abiding. || 60 ||
+
+[13492]
+<tibetan>དབང་དང་བསྐྱེད་རྫོགས་བསྒོམས་ན་གྲོལ་རུང་གི་གང་ཟག་ཅེས་བྱ་སྟེ།
+<literal>empowerment and creation-completion meditate-if liberation-possible person called is/
+<liturgical><prose>Empowerment and generation-completion meditated, liberation capable being called.
+
+[13493]
+<tibetan>རྣལ་འབྱོར་འཇུག་པ་ལས།
+<literal>yoga enter-from/
+<liturgical><tantra>From Yogic Entry.
+
+[13494]
+<tibetan>སྐུ་དང་གསུང་དང་ཐུགས་ཉིད་ལས།
+<literal>body and speech and mind itself-from/
+<liturgical><tantra>Body and speech and mind itself from.
+
+[13495]
+<tibetan>།རྣལ་འབྱོར་ས་བོན་དེས་རྫོགས་ནས།
+<literal>/yoga seed that complete-from/
+<liturgical><tantra>Yogic seed that complete.
+
+[13496]
+<tibetan>།འདིར་ནི་དབང་བསྐུར་ངེས་པས་སོ།
+<literal>/here-in empowerment bestow certainty-by-means-of is/
+<liturgical><tantra>Here empowerment definite.
+
+[13497]
+<tibetan>།ཞེས་སོ།
+<literal>/said is/
+<liturgical><prose>Thus.
+
+[13498]
+<tibetan>།དེ་ལྟར་དྲན་པ་འདུས་པའི་འཁོར་ལོ་ན་ཚོགས་པའི་ཆོས་རྩ་བཅུ་དྲུག
+<literal>/thus mindfulness gather wheel-in collection dharma channel sixteen
+<liturgical><break><prose> Thus mindfulness gathering wheel, gathering dharmas channels sixteen.
+
+[13499]
+<tibetan>ཡེ་ཤེས་བཅུ་དྲུག་སྟེ་སུམ་ཅུ་རྩ་གཉིས།
+<literal>wisdom sixteen as thirty-two/
+<liturgical><break><prose> Wisdom sixteen, thirty-two.
+
+[13500]
+<tibetan>ཡི་གེ་བཅུ་དྲུག་སྟེ་ཞེ་བརྒྱད།
+<literal>letter sixteen and eighty-eight
+<liturgical><prose>Letters sixteen, forty-eight.
+
+[13501]
+<tibetan>འོད་ཀྱི་གོང་བུ་བཅུ་དྲུག་སྟེ།
+<literal>light by-means-of sphere sixteen and
+<liturgical><prose>Light sphere sixteen. || 70 ||
+
+[13502]
+<tibetan>དྲུག་བཅུ་རྩ་བཞི།
+<literal>sixty-four
+<liturgical><prose>Sixty-four.
+
+[13503]
+<tibetan>ཡབ་བཅུ་དྲུག་ཡུམ་བཅུ་དྲུག་བསྡོམས་པས་དགུ་བཅུ་རྩ་དྲུག
+<literal>father sixteen mother sixteen uniting by-means-of ninety-six
+<liturgical><break><prose> Father sixteen mother sixteen gathered, ninety-six.
+
+[13504]
+<tibetan>ཡབ་ཡུམ་རེ་རེ་ལ་སྐུ་གསུང་ཐུགས་ཀྱི་ལྷ་གསུམ་གསུམ་སྟེ་ལྷ་དགུ་བཅུ་རྩ་དྲུག་དང་བསྡོམས་པས་བརྒྱ་དགུ་བཅུ་རྩ་གཉིས།
+<literal>father mother each body speech mind by-means-of deity three-three and deity ninety-six/adding hundred ninety-two
+<liturgical><break><prose> Father-mother each body-speech-mind god three-three, god ninety-six gathered, hundred ninety-two.
+
+[13505]
+<tibetan>སེམས་དང་ཡིད་ཀྱི་ཚོགས་པ་ཉི་ཤུ་སྟེ་ཉིས་བརྒྱ་དང་བཅུ་གཉིས།
+<literal>mind/mind by-means-of group twenty and two hundred/twelve
+<liturgical><prose>Mind and mental gathering twenty, two hundred twelve.
+
+[13506]
+<tibetan>ཡིད་ཀྱི་འགྱུ་བྱེད་ཀྱི་ལས་བཅོ་བརྒྱད་དེ་ཉིས་བརྒྱ་སུམ་ཅུ།
+<literal>mind by-means-of changer by-means-of activity eighteen and two hundred thirty
+<liturgical><prose>Mental change-action eighteen, two hundred thirty.
+
+[13507]
+<tibetan>ཁམས་བཅོ་བརྒྱད་ལ་འཕེལ་བཅོ་བརྒྱད་དོ།
+<literal>element eighteen-to increase eighteen
+<liturgical><prose>Elements eighteen growing eighteen.
+
+[13508]
+<tibetan>།ཉིས་བརྒྱ་དང་དྲུག་ཅུ་རྩ་དྲུག
+<literal>/two hundred/sixty-four
+<liturgical><break><prose> Two hundred sixty-six.
+
+[13509]
+<tibetan>དབང་པོ་ལྔའི་གཞི་ལྔ༌།
+<literal>sense-base five by-means-of basis five
+<liturgical><break><prose> Faculty five basis five.
+
+[13510]
+<tibetan>དབང་པོའི་རྟེན་ལྔ༌།
+<literal>sense-base by-means-of support five
+<liturgical><prose>Faculty support five.
+
+[13511]
+<tibetan>དབང་པོའི་སྒོ་ལྔ་དང་བསྡོམས་པས་ཉིས་བརྒྱ་དང་བརྒྱད་ཅུ་རྩ་གཅིག
+<literal>sense-base by-means-of door five/adding two hundred/eighty-one
+<liturgical><break><prose> Faculty door five gathered, two hundred eighty-one. || 80 ||
+
+[13512]
+<tibetan>ཡིད་ཀྱི་མྱོང་བ་ལ་ཉོན་མོངས་པ་ལྔ་ལྔ་སྟེ་སུམ་ཅུ་དང་བསྡོམས་པས་སུམ་བརྒྱ་དང་བཅུ་གཅིག
+<literal>mind by-means-of experience-to affliction five-five and thirty/adding three hundred/eleven
+<liturgical><prose>Mental experience affliction five-five, thirty gathered, three hundred eleven.
+
+[13513]
+<tibetan>དེ་དག་རེ་རེ་ལ་དྲན་པའི་འཕྲོ་བ་དང༌།
+<literal>that each-at memory by-means-of spreading /
+<liturgical><break><prose> Those each mindfulness radiating and.
+
+[13514]
+<tibetan>འདུ་བ་གཉིས་གཉིས་ཏེ།
+<literal>gathering two-two and
+<liturgical><prose>Gathering two-two.
+
+[13515]
+<tibetan>དྲུག་བརྒྱ་ཉི་ཤུ་རྩ་གཉིས་སྲིན་ཕུ་ཁྲི་ཁྲག་བརྒྱད་དང་སྟོང་ཕྲག་ལྔ༌།
+<literal>six hundred twenty-two hare-hair myriad eight/thousand five
+<liturgical><prose>Six hundred twenty-two insects myriad eight and thousand five.
+
+[13516]
+<tibetan>དེ་རེ་རེ་ལ་ཡི་གེ་དེ་ཙམ་ཞིག
+<literal>that each-at letter that-much
+<liturgical><break><prose> Those each letters that much.
+
+[13517]
+<tibetan>སྐུ་དེ་ཙམ་ཞིག་སྟེ་འབུམ་ཕྲག་བཞི་དང་ཁྲི་ཁྲག་ལྔ་དང་སྟོང་ཕྲག་གཅིག་ཏུ་གནས་པ་ནི།
+<literal>body that-much and/hundred-myriad four/myriad five/thousand one-at abiding
+<liturgical><break><prose> Bodies that much, four myriad and five myriad and thousand one abiding.
+
+[13518]
+<tibetan>ནང་དུ་ནད་ཀྱི་བྱེ་བྲག་རྒྱུ་དང་རྐྱེན་ཉེ་བ་དང་རིང་བར་བྱེད་ལ།
+<literal>inside-at disease by-means-of distinction cause/condition near/far making
+<liturgical><prose>Inside disease distinction cause and condition near and far making.
+
+[13519]
+<tibetan>ཕྱིར་བ་སྤུ་བྱེ་བ་གཅིག་དང་བཞི་ཁྲི་སྐྱེད་པར་བྱེད་དོ།
+<literal>outside hair-pore one/forty myriad producing
+<liturgical><prose>Outside pores opening one and four myriad generating.
+
+[13520]
+<tibetan>།དེ་དག་རྣམས་ཀུན་གཞིའི་རྣམ་པར་ཤེས་པ་བཞི་ཚན་འདུས་ཤིང་དེ་དག་ལས་ཀྱི་ཚོགས་པ་ལས།
+<literal>/that all alaya-consciousness four groups gathering/that karma groups from
+<liturgical><prose>Those all all-basis consciousness four group gathered, those action gathering from.
+
+[13521]
+<tibetan>ཁྱབ་འཇུག་རུས་སྦལ་གྱི་རྣམ་པ་དང་འདྲ་བ།
+<literal>Vishnu turtle-shell by-means-of form/similar
+<liturgical><prose>Pervading-entering turtle-shell form like. || 90 ||
+
+[13522]
+<tibetan>དབང་པོའི་སྒོ་གསལ་ལ་འགུལ་བའི་རླུང་མེད་པ།
+<literal>sense-door clear-to moving wind not-existing
+<liturgical><prose>Faculty door clear moving wind not.
+
+[13523]
+<tibetan>ཡན་ལག་གི་གཞི་འཆོས་ལ་བསྐྱོད་པའི་ནུས་པ་མེད་པ་ནི་རླུང་གི་འགྱུར་བྱེད་ལས་སུ་མ་རུང་བའོ།
+<literal>limbs by-means-of basis arranging-to moving power not-existing/wind by-means-of changer work not-becoming
+<liturgical><prose>Limbs basis moving power not, wind change-action not suitable.
+
+[13524]
+<tibetan>།འདི་ཉིད་འཕེལ་བ་ལས་སྐད་ཅིག་ལ་རྟོག་པ་བརྒྱ་ཉི་ཤུ་འགྱུ་བའི་ཚད་དུ་བྱུང་བའོ།
+<literal>/this very growth-from instant-at thought hundred twenty changing measure becoming
+<liturgical><prose>This growing moment thought one-hundred-twenty change measure arisen.
+
+[13525]
+<tibetan>།དེ་ནས་ཡང་ཞག་ལྔ་བཅུར་འགྲོ་བའི་ནུབ་མོ་འབྱུང་བ་ཆུའི་བྱེད་ལས་ཀྱིས།
+<literal>/that from again days fifty-to going night arising water by-means-of activity by-means-of
+<liturgical><prose>Then again fifty days migrating night elements water action.
+
+[13526]
+<tibetan>ལུས་ཀྱི་འཁོར་ལོ་གཉིས་བོར་བའི་ཚོགས་པའི་ཆོས་དེ་དག་རླུང་གིས་སོ་སོར་གཏོར་བ་ལས།
+<literal>body's wheel two abandon-by-means-of collection dharma those wind-by-means-of individual scatter-from/
+<liturgical><prose>Body wheel two abandoned gathering dharmas those wind individually scattered from.
+
+[13527]
+<tibetan>ཆུའི་སྡུས་བྱེད་ཀྱིས་གཅིག་ཏུ་བསྡུས་པས།
+<literal>water's gather-do-by-means-of one-as gather-by-means-of/
+<liturgical><prose>Water gathering one gathered.
+
+[13528]
+<tibetan>སེ་འགྱུར་གྱི་འབྲུ་ལེགས་པར་བལྟམས་པ་ལྟར་གནས་པ་ལས།
+<literal>embryo-change's seed well conceive like abiding-from/
+<liturgical><prose>Silk egg well-born like abiding from.
+
+[13529]
+<tibetan>སའི་ལྗིད་ཀྱིས་དེ་དག་མནན་པས་འགྱུ་ཞིང་འཕྲིག་པ་ཙམ་གྱིས་སྟོབས་ཀྱང་ཉམས་པར་བྱས་སོ།
+<literal>earth's weight-by-means-of those press-by-means-of quake and shift only-by-means-of strength also deteriorate cause-do is/
+<liturgical><prose>Earth weight those pressed moving trembling just power also exhausted.
+
+[13530]
+<tibetan>།དེ་ནས་མེའི་ནུས་པས་དྲོད་ཕབས་ཏེ་ཚ་བའི་རེག་པ་མྱོང་ནས།
+<literal>/that from fire's power-by-means-of heat lower-during hot contact experience-from/
+<liturgical><prose>Then fire power heat lowered, heat contact experienced.
+
+[13531]
+<tibetan>དེ་དག་སྤྲ་བ་མེས་མཆེད་པ་ལྟར་བསྲེགས་ཏེ།
+<literal>those radiate fire-by-means-of increase like burn-during/
+<liturgical><prose>Those fur fire blazing like burned. || 100 ||
+
+[13532]
+<tibetan>རྡུལ་ཕྲན་དུ་བྱས་སོ།
+<literal>particle minute-as make is/
+<liturgical><prose>Dust-fine made.
+
+[13533]
+<tibetan>།དེ་ནས་རྩ་གསུམ་པའི་ནུབ་མོ་རླུང་གི་ནུས་པ་རྡུལ་ཕྲ་རབ་དེ་ཀུན་གཡོ་འགུལ་འཕྲིག་པ་ཙམ་ལས།
+<literal>/that from channel third's night wind's power particle minute very those all quake move shift only-from/
+<liturgical><prose>Then third month night wind power dust-fine those all moving trembling just.
+
+[13534]
+<tibetan>རླུང་ནང་འཐབས་པས་ཕྱོགས་ཀུན་ཏུ་གཏོར་ནས་སོ་སོར་ཕྱེའོ།
+<literal>wind inside gather-by-means-of direction all-to scatter-from individual separate is/
+<liturgical><prose>Wind inside quarreled directions all scattered individually separated.
+
+[13535]
+<tibetan>།འདི་དག་གི་དུས་ན་སྡུག་བསྔལ་བཞི་མྱོང་བ་ནི།
+<literal>/these time-in suffering four experience is/
+<liturgical><prose>This time suffering four experienced.
+
+[13536]
+<tibetan>ཆུས་གྲང་རེག་ཏུ་བྱས་པས་སྡུག་བསྔལ་ཙམ་མོ།
+<literal>water-by-means-of cold contact-to make-by-means-of suffering only is/
+<liturgical><prose>Water cold contact made suffering just.
+
+[13537]
+<tibetan>སའི་ལྗིད་ཀྱིས་མནན་པས།
+<literal>earth's weight-by-means-of press-by-means-of/
+<liturgical><prose>Earth weight pressed.
+
+[13538]
+<tibetan>སྡུག་བསྔལ་གྱིས་སྡུག་བསྔལ་ལོ།
+<literal>suffering-by-means-of suffering is/
+<liturgical><prose>Suffering by suffering.
+
+[13539]
+<tibetan>།མེས་བསྲེགས་པས་འགྱུར་བའི་སྡུག་བསྔལ་ལོ།
+<literal>/fire-by-means-of burn-by-means-of change-by-means-of suffering is/
+<liturgical><prose>Fire burned change suffering.
+
+[13540]
+<tibetan>།རླུང་གིས་གཏོར་བས་ལྷུང་གིས་དོགས་པའི་ཕྱིར་འདུ་བྱེད་ཀྱི་སྡུག་བསྔལ་ལོ།
+<literal>/wind-by-means-of scatter-by-means-of fall-by-means-of fear's cause gather-action's suffering is/
+<liturgical><prose>Wind scattered fallen fear cause formation suffering.
+
+[13541]
+<tibetan>།དེ་ལྟར་ཞག་བཞིས་འབྱུང་བ་བཞི་པོ་རང་གི་ནུས་པ་ཟད་ནས།
+<literal>/thus day four-by-means-of element four own power exhausted-from/
+<liturgical><prose>Thus four days elements self-power exhausted. || 110 ||
+
+[13542]
+<tibetan>འབྱུང་བ་གཉིས་འདུས་ཀྱི་ནུས་པའི་དུས་ན།
+<literal>element two gather's power's time-in/
+<liturgical><prose>Two elements joined power time.
+
+[13543]
+<tibetan>རོ་རྣམས་འདུས་པའི་རྩ་འདབ་སུམ་ཅུ་རྩ་གཉིས་སུ་སོ་སོར་སྨིན་ནས་རེ་རེའི་ནང་དུ་ཡེ་ཤེས་དང༌།
+<literal>taste all gather's channel petal thirty-two-as individual mature-from one-one's inside-in wisdom and/
+<liturgical><prose>Tastes gathering channels leaves thirty-two individually ripened, each inside wisdom and.
+
+[13544]
+<tibetan>འོད་དང༌།
+<literal>light and/
+<liturgical><prose>Light and.
+
+[13545]
+<tibetan>རླུང་གི་གདངས་དང༌།
+<literal>wind's tone and/
+<liturgical><prose>Wind tone and.
+
+[13546]
+<tibetan>ཡི་གེ་དང༌།
+<literal>syllable and/
+<liturgical><prose>Letter and.
+
+[13547]
+<tibetan>འོད་ཀྱི་གོང་བུ་དང༌།
+<literal>light's mass and/
+<liturgical><prose>Light sphere and.
+
+[13548]
+<tibetan>ཀུན་བཟང་ཡབ་ཡུམ་གྱི་སྐུ་རེ་རེ་སྨིན་པ་ནི།
+<literal>Samantabhadra father-mother's body one-one mature is/
+<liturgical><prose>Samantabhadra father-mother body each ripened.
+
+[13549]
+<tibetan>སུས་ཀྱང་བྱས་པ་མེད་པར་བྱུང་བས་རང་བྱུང་ཞེས་བྱའོ།
+<literal>who-by-means-of-also do not-being-from arise-by-means-of self-arise called is/
+<liturgical><prose>Whoever done not arisen, self-arisen called.
+
+[13550]
+<tibetan>།དེ་ལྟར་འབྱུང་བ་འདུས་པས་རྩ་བསྐྱེད་ལ།
+<literal>/thus element gather-by-means-of channel generate-during/
+<liturgical><prose>Thus elements gathered channels generated.
+
+[13551]
+<tibetan>རྩའི་ནུས་པས་ལུས་བསྐྱེད་ལ།
+<literal>channel's power-by-means-of body generate-during/
+<liturgical><prose>Channels power body generated. || 120 ||
+
+[13552]
+<tibetan>ལུས་ཀྱི་ནུས་པས་དབང་པོ་བསྐྱེད་ལ།
+<literal>body's power-by-means-of faculty generate-during/
+<liturgical><prose>Body power faculties generated.
+
+[13553]
+<tibetan>དབང་པོའི་ནུས་པས་ཡན་ལག་རྣམས་བསྐྱེད་ལ།
+<literal>faculty's power-by-means-of limb all generate-during/
+<liturgical><prose>Faculties power limbs generated.
+
+[13554]
+<tibetan>ཡན་ལག་གི་ནུས་པ་ཤ་ཁྲག་དྲོད་དབུགས་རྣམས་བསྐྱེད་ལ།
+<literal>limb's power flesh blood heat breath all generate-during/
+<liturgical><prose>Limbs power flesh-blood-heat-breath generated.
+
+[13555]
+<tibetan>དེ་བཞིས་རུས་པ།
+<literal>those four-by-means-of bone/
+<liturgical><prose>Those bones.
+
+[13556]
+<tibetan>རྐང་མར།
+<literal>marrow/
+<liturgical><prose>Marrow.
+
+[13557]
+<tibetan>ཚིལ་རྣམས་བསྐྱེད་ལ།
+<literal>fat all generate-during/
+<liturgical><prose>Fat generated.
+
+[13558]
+<tibetan>དེ་དག་གིས་པགས་པ་དང༌།
+<literal>those-by-means-of skin and/
+<liturgical><prose>Those skin and.
+
+[13559]
+<tibetan>ཆུ་སེར་དང༌།
+<literal>lymph and/
+<liturgical><prose>Lymph and.
+
+[13560]
+<tibetan>ངར་སྣབས་ལ་སོགས་པ་བསྐྱེད།
+<literal>spittle etc. generate/
+<liturgical><prose>Sweat etc. generated.
+
+[13561]
+<tibetan>དེས་ཆུ་བ།
+<literal>that-by-means-of tendon/
+<liturgical><prose>Those tendon. || 130 ||
+
+[13562]
+<tibetan>རྒྱུས་པ།
+<literal>vein/
+<liturgical><prose>Sinew.
+
+[13563]
+<tibetan>ལྷ་བ་རྣམས་བསྐྱེད།
+<literal>artery all generate/
+<liturgical><prose>Channels generated.
+
+[13564]
+<tibetan>དེས་རྒྱུངས་པ་བསྐྱེད།
+<literal>that-by-means-of sinew generate/
+<liturgical><prose>Those breath generated.
+
+[13565]
+<tibetan>དེས་ཀུན་རྫོགས་ཀྱི་ཐིག་ལེ་བསྐྱེད་ལ།
+<literal>that-by-means-of all-complete's bindu generate-during/
+<liturgical><prose>Those complete thig-le generated.
+
+[13566]
+<tibetan>དེས་ཡང་ལུས་ཀྱི་རླུང་སེམས་འདུས་པ་བཞི་བསྐྱེད་པས་ན།
+<literal>that-by-means-of also body's wind mind gather four generate-by-means-of is/
+<liturgical><prose>Those again body wind-mind gathering four generated.
+
+[13567]
+<tibetan>བསྐྱེད་རིམ་བསྒོམས་པས་ལུས་ཀྱི་ཆགས་བྱེད་ངེས་པའི་ལས་སྤྱོད་བྱེད་དུ་འགྲུབ་པའོ།
+<literal>generation stage meditated-by-means-of body-of attachment maker definite-of action perform make complete
+<liturgical><prose>Generation-stage meditation body formation definite action practice accomplished.
+
+[13568]
+<tibetan>།དེ་ལྟར་རོ་རྣམས་འདུས་པའི་འཁོར་ལོ་སྐྱེ་མཆེད་བཅུ་གཉིས་ཀྱི་འཕེལ་བ་བསྒྲུབ་པའི་བྱེད་ལས་ཅན་འདིར་མེའི་ལས་གཙོ་བས།
+<literal>thus tastes gathered-of wheel source twelve-of growing accomplish-of agent here fire-of action chief-by-means-of
+<liturgical><prose>Thus tastes gathering wheel sense-sources twelve completion action here fire action chief.
+
+[13569]
+<tibetan>ཟས་ལ་སོགས་པའི་རོའི་དངས་མས་ཕུང་པོ་དང་ཁམས་དང་སྐྱེ་མཆེད་ལ་སོགས་པ་བསྐྱེད།
+<literal>food etc.-of taste-of essence aggregates and elements and sources etc. produces
+<liturgical><prose>Food etc. taste essence aggregates and elements and sense-sources etc. generated.
+
+[13570]
+<tibetan>སྙིགས་མ་དྲི་ཆེན་དང་དྲི་ཆུ་ལ་སོགས་པ་དོར་བར་བྱེད་དོ།
+<literal>impurity feces and urine etc. discard does
+<liturgical><prose>Waste feces and urine etc. discard.
+
+[13571]
+<tibetan>།རོ་ནི་མངར་བས་བཀྲག་བསྐྱེད་ལ།
+<literal>taste sweet-by-means-of complexion produces
+<liturgical><prose>Taste sweet essence generated. || 140 ||
+
+[13572]
+<tibetan>ཁ་བས་མདངས་བསྐྱེད།
+<literal>bitter-by-means-of radiance produces
+<liturgical><prose>Taste bitter complexion generated.
+
+[13573]
+<tibetan>བསྐ་བས་གཟི་བརྗིད་བསྐྱེད།
+<literal>astringent-by-means-of majesty produces
+<liturgical><prose>Taste astringent glory generated.
+
+[13574]
+<tibetan>སྐྱུར་བས་སྟོབས་བསྐྱེད།
+<literal>sour-by-means-of strength produces
+<liturgical><prose>Taste sour power generated.
+
+[13575]
+<tibetan>ཀླེག་པས་ཤེད་བསྐྱེད།
+<literal>pungent-by-means-of vitality produces
+<liturgical><prose>Taste pungent strength generated.
+
+[13576]
+<tibetan>ལན་ཚྭའི་རོས་བྱང་སེམས་བསྐྱེད་པའི་ཕྱིར་རོ་རྣམས་ཞེས་བྱའོ།
+<literal>salt-of taste-by-means-of awakened-mind produce purpose taste thus-called
+<liturgical><prose>Salt taste bodhicitta generating, tastes called.
+
+[13577]
+<tibetan>།འདུས་པ་ནི།
+<literal>gathering
+<liturgical><prose>Gathering.
+
+[13578]
+<tibetan>རོ་དྲུག་འདུས་པ་སྟེ་ཟས་ཀྱི་རྣལ་འབྱོར་འགྲུབ་པའོ།
+<literal>taste six gather food-of yoga complete
+<liturgical><prose>Taste six gathering, food yoga accomplished.
+
+[13579]
+<tibetan>།འགྲོ་དྲུག་གི་ཆ་མི་ལ་ཚང་བའི་གནད་དོ།
+<literal>going six-of portion human-at complete-of crucial-point
+<liturgical><prose>Six-migrating portion person complete essential point.
+
+[13580]
+<tibetan>།འཁོར་ནི།
+<literal>wheel
+<liturgical><prose>Wheel.
+
+[13581]
+<tibetan>ཟས་རོ་ལ་ཚུར་འཁོར་བའོ།
+<literal>food taste-at here gathers
+<liturgical><prose>Food taste gathering. || 150 ||
+
+[13582]
+<tibetan>།ལོ་ནི།
+<literal>year
+<liturgical><prose>Year.
+
+[13583]
+<tibetan>ལོ་གསུམ་བསླབ་ནས་བཅུད་ལེན་འགྲུབ་པའོ།
+<literal>year three trained essence extraction complete
+<liturgical><prose>Three years learning extract essence accomplished.
+
+[13584]
+<tibetan>།དེའི་ཕྱིར་རོ་རྣམས་འདུས་པའི་འཁོར་ལོ་ཞེས་བྱའོ།
+<literal>that purpose taste gathered-of wheel thus-called
+<liturgical><prose>Thus tastes gathering wheel called.
+
+[13585]
+<tibetan>།དེ་ནས་ཞག་ལྔ་བཅུ་རྩ་དྲུག་ན་འབྱུང་བ་མེས་དྲོད་གཡོས།
+<literal>then day fifty-six-at elements fire heat moves
+<liturgical><prose>Then fifty-six days elements fire heat moved.
+
+[13586]
+<tibetan>རླུང་གིས་དྲོད་སྤར་བས་ལུས་ཀྱི་སྨིན་སོ་སྦལ་པའི་རྣམ་པ་དང་འདྲ་བ་དབང་པོར་གསལ་ལ་དབང་སྟོབས་མ་རྙེད་པ།
+<literal>wind-by-means-of heat spreads body-of ripening frog-of form like sense-power clear but sense-power strength not obtained
+<liturgical><prose>Wind heat spread body ripening fish-form like faculty clear faculty power not-obtained.
+
+[13587]
+<tibetan>ཡན་ལག་ཏུ་བྱུང་ལ་བསྐྱོད་པའི་རླུང་མ་རྙེད་པར་བྱུང་ངོ༌།
+<literal>limbs-at arose moving-of wind not obtained arose
+<liturgical><prose>Limbs arisen moving wind not-obtained arisen.
+
+[13588]
+<tibetan>།འདིའི་དུས་ན་མེའི་སྲིན་བུ་སྟོང་ཕྲག་བརྒྱད་ཅུ་རྩ་ལྔ་ཆགས་པ་ནི།
+<literal>this-of time-at fire-of insect thousand eighty-five formed
+<liturgical><prose>This time fire insect thousand eighty-five becoming.
+
+[13589]
+<tibetan>ལུས་ཅན་ལ་ནི་ལུས་ཀྱིས་སྤྲུལ།
+<literal>body-possessing-to body-by-means-of emanate
+<liturgical><prose>Body by body emanated.
+
+[13590]
+<tibetan>།ཅེས་པའོ།
+<literal>thus-said
+<liturgical><prose>Thus.
+
+[13591]
+<tibetan>།དེ་ལྟར་ཚོགས་པའི་ཆོས་ངེས་པར་སྦྱར་ན།
+<literal>thus gathered-of dharma definitively joined-if
+<liturgical><prose>Thus gathering dharmas definitely joined. || 160 ||
+
+[13592]
+<tibetan>རྩ་སུམ་ཅུ་རྩ་གཉིས་ན་ཡི་གེ་སུམ་ཅུ་རྩ་གཉིས་ཏེ་དྲུག་ཅུ་རྩ་བཞི།
+<literal>channel thirty-two-at syllable thirty-two sixty-four
+<liturgical><prose>Channels thirty-two letters thirty-two, sixty-four.
+
+[13593]
+<tibetan>འོད་ཀྱི་གོང་བུ་སུམ་ཅུ་རྩ་གཉིས་ཏེ་དགུ་བཅུ་རྩ་དྲུག
+<literal>light-of sphere thirty-two ninety-six
+<liturgical><break><prose> Light sphere thirty-two, ninety-six.
+
+[13594]
+<tibetan>ཀུན་བཟང་ཡབ་ཡུམ་དྲུག་ཅུ་རྩ་བཞི་སྟེ།
+<literal>Samantabhadra father mother sixty-four
+<liturgical><break><prose> Samantabhadra father-mother sixty-four.
+
+[13595]
+<tibetan>བརྒྱ་དྲུག་ཅུ་ཐམ་པ།
+<literal>hundred sixty complete
+<liturgical><prose>Hundred sixty complete.
+
+[13596]
+<tibetan>ཡབ་ཡུམ་རེ་རེ་ལ་སྐུ་གསུང་ཐུགས་ཀྱི་ལྷ་ཡེ་ཤེས་སེམས་དཔའ་དང་བཞི་བསྣན་པས།
+<literal>father mother each-to body speech mind-of deity wisdom being and four added-by-means-of
+<liturgical><prose>Father-mother each body-speech-mind god wisdom being four increased.
+
+[13597]
+<tibetan>བཞི་བརྒྱ་དང་ཉེར་དྲུག
+<literal>four hundred twenty-six
+<liturgical><break><prose> Four hundred twenty-six.
+
+[13598]
+<tibetan>སྐྱེ་མཆེད་ལས་ཀྱི་འབྲེལ་བཅུ་གཉིས་ལས་འགྱུར་རྟོགས་པའི་གྲངས་ཉི་ཤུ་ཉི་ཤུ་སྟེ།
+<literal>sources action-of connection twelve from change recognize-of number twenty twenty
+<liturgical><break><prose> Sense-sources karma connection twelve from change-understanding number twenty twenty.
+
+[13599]
+<tibetan>ཉིས་བརྒྱ་དང་བཞི་བཅུ་སྟེ།
+<literal>two hundred forty
+<liturgical><prose>Two hundred forty.
+
+[13600]
+<tibetan>བསྡོམས་པས་དྲུག་བརྒྱ་དང་དྲུག་ཅུ་རྩ་དྲུག
+<literal>combined-by-means-of six hundred sixty-six
+<liturgical><break><prose> Gathered six hundred sixty-six.
+
+[13601]
+<tibetan>དེ་དག་སྨིན་པའི་ངེས་པའི་ཁྱད་པར་ལས།
+<literal>those mature-by-means-of certainty's distinction from/
+<liturgical><break><prose> Those ripening definite distinction from. || 170 ||
+
+[13602]
+<tibetan>ཉོན་མོངས་པ་བག་ལ་ཉལ་སྟོང་ཕྲག་བརྒྱད་ཅུ་རྩ་ལྔ།
+<literal>affliction latency thousand eighty-five/
+<liturgical><prose>Affliction latency thousand eighty-five.
+
+[13603]
+<tibetan>དེའི་རྒྱུར་མེའི་སྲིན་བུ་སྟོང་ཕྲག་བརྒྱད་བཅུ་་རྩ་ལྔ།
+<literal>that's cause fire's insect thousand eighty-five/
+<liturgical><prose>That cause fire insect thousand eighty-five.
+
+[13604]
+<tibetan>དེ་དག་རེ་རེ་ན་ཡི་གེ་རེ་རེ།
+<literal>those one-one-in syllable one-one/
+<liturgical><prose>Those each letter each.
+
+[13605]
+<tibetan>སྐུ་རེ་རེ།
+<literal>body one-one/
+<liturgical><prose>Body each.
+
+[13606]
+<tibetan>སྐུ་དེ་ནས་སྨིན་པས་ཡེ་ཤེས་སེམས་དཔའ་རེ།
+<literal>body that-from mature-by-means-of wisdom hero one/
+<liturgical><prose>Body that ripened wisdom being each.
+
+[13607]
+<tibetan>ཐུགས་ཀ་ན་གནས་པ་དང༌།
+<literal>heart-center-in abiding and/
+<liturgical><prose>Heart abiding and.
+
+[13608]
+<tibetan>དེ་ལྟར་ན་སྲིན་བུ་ལུས་ཀྱི་འཕེལ་བྱེད་དང༌།
+<literal>thus insect body-by-means-of increase-do and/
+<liturgical><prose>Thus insect body growing and.
+
+[13609]
+<tibetan>ཉོན་མོངས་རྟོག་པའི་གཞི་གཉིས་ལ་འབུམ་ཕྲག་གསུམ་དང་ཁྲི་ཕྲག་ཕྱེད་དང་གསུམ་སྟེ།
+<literal>affliction thought's basis two-to hundred-thousand three and ten-thousand half and three as/
+<liturgical><prose>Affliction thought basis two, myriad three and myriad half and three.
+
+[13610]
+<tibetan>རོ་རྣམས་ཀྱི་འཁོར་ལོ་ལ་སོགས་པའི་ཆོས་འབུམ་ཕྲག་གསུམ་དང་ཁྲི་ཕྲག་གསུམ་དང༌།
+<literal>taste all's wheel etc. dharma hundred-thousand three and ten-thousand three and/
+<liturgical><prose>Taste wheel etc. dharmas myriad three and myriad three and.
+
+[13611]
+<tibetan>བརྒྱ་དྲུག་ཅུ་རྩ་དྲུག་ཏུ་གནས་སོ།
+<literal>hundred sixty-six-as abode is/
+<liturgical><prose>Hundred sixty-six abiding. || 180 ||
+
+[13612]
+<tibetan>།དེ་ལྟར་ཚོགས་པ་དཔག་ཏུ་མེད་པ་ཡོད་པས་ན་ཀུན་གཞི་ཞེས་བྱའོ།
+<literal>/thus collection measure not-having is-by-means-of basis-all called is/
+<liturgical><prose>Thus gathering immeasurable existing, all-basis called.
+
+[13613]
+<tibetan>།དེ་ཡང་ཞག་ལྔ་བཅུ་རྩ་བདུན་གྱི་ནུབ་མོ་ཆུས་དེ་དག་གཅིག་ཏུ་བསྡུས།
+<literal>/that also day fifty-seven's night water-by-means-of those one-as gather/
+<liturgical><prose>Also fifty-seven days night water those one gathered.
+
+[13614]
+<tibetan>སས་མནན་ཞིང་བརྟན་པར་བྱས།
+<literal>earth-by-means-of press and steady cause-do/
+<liturgical><prose>Earth pressed stability made.
+
+[13615]
+<tibetan>རྩ་དགུ་ལ་མེས་ཚིག་ཅིང་བསྲེགས།
+<literal>channel nine-to fire-by-means-of burn and incinerate/
+<liturgical><prose>Channels nine fire burned.
+
+[13616]
+<tibetan>རླུང་གིས་སོ་སོར་ཕྱེ་སྟེ།
+<literal>wind-by-means-of individual separate-during/
+<liturgical><prose>Wind individually separated.
+
+[13617]
+<tibetan>ཟླ་བ་གཉིས་སོང་བའི་དུས་ན་འབྱུང་བ་ཞི་བྱེད་ལས་ཀྱི་ནུས་པ་ཟད་ནས།
+<literal>month two pass time-in element pacify-do action's power exhausted-from/
+<liturgical><prose>Two months passed time elements pacifying action power exhausted.
+
+[13618]
+<tibetan>ཡང་འབྱུང་བ་གཉིས་འདུས་ཀྱིས་བྱེད་དེ།
+<literal>again element two gather's-by-means-of do is/
+<liturgical><prose>Again two elements joined action.
+
+[13619]
+<tibetan>ཟླ་བ་གཉིས་དང་ཞག་གསུམ་ན་རྩེ་མོ་རྣམ་པར་བཀོད་པའི་འཁོར་ལོ་ལ་རྩ་བརྒྱད་ལས་རང་ངོའི་རྩ་དང་བཞི་བཅུ་རྩ་ལྔ་ལྔར་འཕེལ་བས།
+<literal>month two and day three-in peak arrange wheel's channel eight-from own face's channel and forty-five five-to increase-by-means-of/
+<liturgical><prose>Two months three days tip arranged wheel channels eight self channels forty-five five growing.
+
+[13620]
+<tibetan>རྩ་འདབས་སུམ་ཅུ་རྩ་བརྒྱད་དང་དྲུག་ཅུ་ཐམ་པར་མཐོན་ནས་ལུས་ཀྱི་ཕྱི་ནང་ཀུན་ཏུ་འཕྲོས་ཏེ།
+<literal>channel petal thirty-eight and sixty full-from body's outside inside all-to spread-during/
+<liturgical><prose>Channels leaves thirty-eight and sixty complete high body outside-inside all spread.
+
+[13621]
+<tibetan>ཁྱད་པར་གྱི་རྩའི་མཆེད་དང༌།
+<literal>distinction-by-means-of channel's spread and/
+<liturgical><prose>Particular channel growth and. || 190 ||
+
+[13622]
+<tibetan>ཐུན་མོང་གི་མཆེད་རྣམས་སུ་བྱུང་བའོ།
+<literal>common's spread all-as arise is/
+<liturgical><prose>Common growths arisen.
+
+[13623]
+<tibetan>།རྩ་དེ་དག་གི་གྱེན་ལ་རྒྱུ་བ་དང༌།
+<literal>/channel those upward move and/
+<liturgical><prose>Channels those upward moving and.
+
+[13624]
+<tibetan>ཐུར་དུ་འཕེན་པ་དང༌།
+<literal>downward throw and/
+<liturgical><prose>Downward flowing and.
+
+[13625]
+<tibetan>ལོགས་ལ་ཤར་བ་དང༌།
+<literal>side-to rise and/
+<liturgical><prose>Side arising and.
+
+[13626]
+<tibetan>འཁྲུག་པ་དང༌།
+<literal>agitate and/
+<liturgical><prose>Shaking and.
+
+[13627]
+<tibetan>སྒྲིལ་བ་དང༌།
+<literal>coil and/
+<liturgical><prose>Coiling and.
+
+[13628]
+<tibetan>རྐྱང་པ་དང༌།
+<literal>straight and/
+<liturgical><prose>Straight and.
+
+[13629]
+<tibetan>སྦོམ་པ་དང༌།
+<literal>thick and/
+<liturgical><prose>Thick and.
+
+[13630]
+<tibetan>ཕྲ་བ་དང༌།
+<literal>thin and/
+<liturgical><prose>Fine and.
+
+[13631]
+<tibetan>ཡལ་ག་ཅན་རྣམས་ཀྱིས།
+<literal>branch-possess all-by-means-of/
+<liturgical><prose>Branched those. || 200 ||
+
+[13632]
+<tibetan>ཁྲག་དང༌།
+<literal>blood and/
+<liturgical><prose>Blood and.
+
+[13633]
+<tibetan>ཆུ་སེར་དང༌།
+<literal>lymph and/
+<liturgical><prose>Lymph and.
+
+[13634]
+<tibetan>དབུགས་ཀྱི་རྟེན་དང༌།
+<literal>breath's support and/
+<liturgical><prose>Breath support and.
+
+[13635]
+<tibetan>རྟ་བྱེད་པའོ།
+<literal>ride cause-do is/
+<liturgical><prose>Wind acting.
+
+[13636]
+<tibetan>།འགྱུར་བྱེད་དང༌།
+<literal>/change-do and/
+<liturgical><prose>Change-action and.
+
+[13637]
+<tibetan>རིང་ཐུང་དང༌།
+<literal>long short and/
+<liturgical><prose>Long-short and.
+
+[13638]
+<tibetan>འཕར་བའི་ལས་བྱེད་པ་ནི།
+<literal>leap's action do is/
+<liturgical><prose>Jumping action doing.
+
+[13639]
+<tibetan>བདུན་ཅུ་རྩ་གཉིས་ཏེ་འཕེན་པ་རླུང་གི་ལས་བྱེད་པའོ།
+<literal>seventy-two as throw wind's action do is/
+<liturgical><prose>Seventy-two, pulling wind action doing.
+
+[13640]
+<tibetan>།འགྱུར་བ་དང༌།
+<literal>/change and/
+<liturgical><prose>Change and.
+
+[13641]
+<tibetan>འཕྲིག་པ་དང༌།
+<literal>shift and/
+<liturgical><prose>Trembling and. || 210 ||
+
+[13642]
+<tibetan>འཕེལ་བ་ནི།
+<literal>increase is/
+<liturgical><prose>Growing.
+
+[13643]
+<tibetan>ནད་ཀྱི་འདུས་མཆེད་སྣ་ཚོགས་སུ་བྱེད་པའོ།
+<literal>disease's gather-cause various-as make is/
+<liturgical><prose>Disease gathering various making.
+
+[13644]
+<tibetan>།འགྱུར་བ་དང༌།
+<literal>/change and/
+<liturgical><prose>Change and.
+
+[13645]
+<tibetan>འཁྲོག་པ་དང༌།
+<literal>steal and/
+<liturgical><prose>Shaking and.
+
+[13646]
+<tibetan>འཛིན་པས་ནི་ཉོན་མོངས་པ་བདག་དང་བཅས་པའི་ལས་བྱེད་པའོ།
+<literal>grasp-by-means-of is affliction self-possess-by-means-of action do is/
+<liturgical><prose>Holding affliction self-with action doing.
+
+[13647]
+<tibetan>།གང་བ་དང༌།
+<literal>/full and/
+<liturgical><prose>Full and.
+
+[13648]
+<tibetan>སྟོང་པ་དང༌།
+<literal>empty and
+<liturgical><prose>Empty and.
+
+[13649]
+<tibetan>སེལ་བས་ནི་དངས་སྙིགས་འབྱེད་པའི་ལས་བྱེད་པའོ།
+<literal>clearing-by-means-of essence impurity separating-of action does
+<liturgical><prose>Clearing essence-waste separating action doing.
+
+[13650]
+<tibetan>།འདར་བ་དང༌།
+<literal>trembling and
+<liturgical><prose>Trembling and.
+
+[13651]
+<tibetan>འཕྲིལ་བ་དང༌།
+<literal>coiling and
+<liturgical><prose>Shaking and. || 220 ||
+
+[13652]
+<tibetan>གསེང་བས་ནི།
+<literal>gap-by-means-of
+<liturgical><prose>Opening.
+
+[13653]
+<tibetan>བདེ་བ་དང༌།
+<literal>bliss and
+<liturgical><prose>Pleasure and.
+
+[13654]
+<tibetan>སྡུག་བསྔལ་དང༌།
+<literal>suffering and
+<liturgical><prose>Suffering and.
+
+[13655]
+<tibetan>བཏང་སྙོམས་ཀྱི་ལས་བྱེད་པའོ།
+<literal>equanimity-of action does
+<liturgical><prose>Equanimity action doing.
+
+[13656]
+<tibetan>།དེ་ལྟར་རྩའི་འཁོར་ལོ་འདུས་པའི་དབུས་སུ་ཡི་གེའི་རང་སྒྲ་དང༌།
+<literal>thus channel-of wheel gathered-of center-at syllable-of self-sound and
+<liturgical><prose>Thus channels wheel gathering center letter self-sound and.
+
+[13657]
+<tibetan>འོད་ཀྱི་གདངས་འཁྲུགས་པ་ལས།
+<literal>light-of tone stirred from
+<liturgical><prose>Light tone swirling from.
+
+[13658]
+<tibetan>སྣ་ཚོགས་དཀར་དམར་འོད་ཀྱི་འཁོར་ལོ་འཁྲུགས་པས
+<literal>varied white red light-of wheel stirred-by-means-of
+<liturgical><break><prose> Various white-red light wheel swirling.
+
+[13659]
+<tibetan>དབང་པོ་ལྔ་སོ་སོར་འཛིན་པའི་རྩ་ལས།
+<literal>sense-power five individual grasping-of channel from
+<liturgical><break><prose> Faculties five individually holding channels from.
+
+[13660]
+<tibetan>དབང་པོ་ལྔའི་སྒོ་ལས་རང་རང་གི་ཡི་གེའི་འོད་འཁྲུགས་པས།
+<literal>sense-power five-of door from self self-of syllable-of light stirred-by-means-of
+<liturgical><prose>Faculties doors self-self letters light swirling.
+
+[13661]
+<tibetan>སྣ་ཚོགས་ཀྱི་བདེ་སྡུག་ཏུ་མཆེད་ཅིང་འབར་བར་འགྱུར་རོ།
+<literal>varied-of bliss suffering-as branched blazing becomes
+<liturgical><prose>Various pleasure-pain growing blazing becoming. || 230 ||
+
+[13662]
+<tibetan>།རྩ་དེ་དག་ཀུན་གྱི་ནང་ཡེ་ཤེས་ཀྱི་ངོ་བོར་བཞུགས་པའམ་ལམ་དུ་བཞུགས་པ་དངོས་མ་ཡིན་ཏེ།
+<literal>channel those all-of inside wisdom-of nature-as abide-or path-as abide actual not
+<liturgical><prose>Channels those all inside wisdom nature abiding or path abiding actual not.
+
+[13663]
+<tibetan>ཡེ་ཤེས་ཀྱི་གདངས་སམ་རྩལ་གྱིས་ཁྱབ་པ་ཏིལ་འབྲུ་མར་གྱིས་ཁྱབ་པའམ་ཉི་ཟེར་བུ་གར་ཤར་བ་བཞིན་ནོ།
+<literal>wisdom-of tone-or potency-by-means-of pervaded sesame seed oil-by-means-of pervaded-or sun ray spark-like
+<liturgical><prose>Wisdom tone or potency pervading, sesame oil pervading or sun rays shine like.
+
+[13664]
+<tibetan>།རྩའི་རང་ངོ་ཡེ་ཤེས་ཀྱི་རྩལ་ལས་ལྟ་སྒོམ་སྤྱོད་པའི་རྟེན་དུ་གནས་སོ།
+<literal>channel-of self-face wisdom-of potency from view meditation conduct-of basis-at abides
+<liturgical><prose>Channels self-nature wisdom potency view-meditation-action support abiding.
+
+[13665]
+<tibetan>།དེ་ལྟར་འབྱུང་བ་གཉིས་འདུས་པའི་ལས་བྱས་པས་ལུས་ཀྱི་དབང་པོ་དང༌།
+<literal>thus elements two gathered-of action done-by-means-of body-of sense-power and
+<liturgical><prose>Thus two elements joined action body faculties and.
+
+[13666]
+<tibetan>ཡན་ལག་དང༌།
+<literal>limbs and
+<liturgical><prose>Limbs and.
+
+[13667]
+<tibetan>པགས་པ་དང༌།
+<literal>skin and
+<liturgical><prose>Skin and.
+
+[13668]
+<tibetan>བ་སྤུ་ལ་སོགས་པ་ལེགས་པར་བསྐྱེད་ལ།
+<literal>hair etc. well produced
+<liturgical><prose>Hair etc. well generated.
+
+[13669]
+<tibetan>དེ་ནས་བདུན་ཚན་དགུ་དང་ཞག་བཞི་ལོན་པའི་དུས་ན།
+<literal>then seven nine and day four passed-of time-at
+<liturgical><prose>Then nine seven-day periods four days passed time.
+
+[13670]
+<tibetan>རླུང་གི་སྟོབས་ཀྱིས་འགུལ་བ་དང༌།
+<literal>wind-of power-by-means-of movement and
+<liturgical><prose>Wind power moving and.
+
+[13671]
+<tibetan>ཡན་ལག་བསྐྱོད་པའི་ལས་སུ་འགྱུར་ཏེ།
+<literal>limbs moving-of action-as becomes
+<liturgical><prose>Limbs moving action becoming. || 240 ||
+
+[13672]
+<tibetan>མའི་ཤ་ཁྲག་གི་དངས་མའི་ཟས་ལ་སྤྱོད་པ་འབྱུང་ངོ༌།
+<literal>mother-of flesh blood-of essence-of food-at activity arose
+<liturgical><prose>Mother flesh-blood essence food eating arising.
+
+[13673]
+<tibetan>།འདིའི་དུས་སུ་ཀུན་གཞིའི་རྣམ་པར་ཤེས་པ་ཚོགས་པའི་རྟེན་དག་པའི་ལོངས་སྤྱོད་ཅིང་ཡུལ་དང་དབང་པོ་ཉེ་བར་ལེན་པ་ཙམ་དུ་གྱུར་པའོ།
+<literal>this-of time-at kunzhi consciousness aggregate-of basis pure enjoyment object and sense-power near takes only-as became
+<liturgical><prose>This time all-basis consciousness gathering support pure enjoyment object and faculty near-taking just becoming.
+
+[13674]
+<tibetan>།དེ་ལྟར་ལུས་ཀྱི་རྩེ་མོ་མགོ་ཡིན་ལ་དེ་ན་རྩའི་རྣམ་གྲངས་ཡི་གེའི་སྦྲེལ་ལྟ་བུར་བཀོད་པས་རྩེ་མོ་རྣམ་པར་བཀོད་པའི་འཁོར་ལོ་ཞེས་བྱའོ།
+<literal>thus body-of tip head is there-at channel-of enumeration syllable-of connection like arranged-by-means-of tip variety arranged-of wheel thus-called
+<liturgical><prose>Thus body tip head that channels enumeration letters connection-like arranged, tip arranged wheel called.
+
+[13675]
+<tibetan>།དེ་དག་སོ་སོའི་བྱེད་ལས་ཚོགས་པ་ལས་རླུང་གི་སྲིན་བུ་སྟོང་ཕྲག་བརྒྱད་ཅུ་རྩ་ལྔ།
+<literal>those individual-of agent aggregate from wind-of insect thousand eighty-five
+<liturgical><prose>Those individual action gathering wind insect thousand eighty-five.
+
+[13676]
+<tibetan>ཡི་གེའི་སྟོབས་ཀྱིས་འཁྲོག་པ་དང༌།
+<literal>syllable-of power-by-means-of stirred and
+<liturgical><prose>Letters power swirling and.
+
+[13677]
+<tibetan>རླུང་གི་སྟོབས་ཀྱིས་འགུལ་བ་དང༌།
+<literal>wind-of power-by-means-of moved and
+<liturgical><prose>Wind power moving and.
+
+[13678]
+<tibetan>ཁ་ཟས་ཉེ་བར་ལེན་པ་དང༌།
+<literal>food near takes and
+<liturgical><prose>Food near-taking and.
+
+[13679]
+<tibetan>ལུས་སོ་སོ་འགྲོ་འགུལ་དུ་བྱུང་ལ་སྐུ་ཡོད་པའི་སྟོབས་ཀྱིས་སྲིན་བུ་དེ་དག་སོ་སོའི་ཤེས་པ་གསལ་བར་བྱུང་ངོ༌།
+<literal>body individual going moving-at arose body existing-of power-by-means-of insect those individual-of consciousness clear arose
+<liturgical><prose>Body individually moving arisen body existing power insect those individual consciousness clear arisen.
+
+[13680]
+<tibetan>།སྔར་གྱི་སྲིན་བུ་རྣམས་ཀྱང་དེ་བཞིན་ནོ།
+<literal>previous-of insect also thus
+<liturgical><prose>Previous insects also thus.
+
+[13681]
+<tibetan>།སྲིན་བུ་དེ་དག་རླུང་གི་འགྱུར་བ་དང༌།
+<literal>insect those wind-of change and
+<liturgical><prose>Insects those wind change and. || 250 ||
+
+[13682]
+<tibetan>སྟོངས་པ་དང༌།
+<literal>emptying and
+<liturgical><prose>Empty and.
+
+[13683]
+<tibetan>འཁུམས་པ་དང༌།
+<literal>contracting and
+<liturgical><prose>Contracting and.
+
+[13684]
+<tibetan>འཆེས་པ་དང༌།
+<literal>stabbing and
+<liturgical><prose>Meeting and.
+
+[13685]
+<tibetan>འཁྲིལ་བ་ལས།
+<literal>coiling from
+<liturgical><prose>Coiling from.
+
+[13686]
+<tibetan>ལུས་ཀྱི་འབྱུང་བ་རྣམས་འཁྲུགས་ཏེ།
+<literal>body-of elements stirred
+<liturgical><prose>Body elements disturbed.
+
+[13687]
+<tibetan>རླུང་དང༌།
+<literal>wind and
+<liturgical><prose>Wind and.
+
+[13688]
+<tibetan>མཁྲིས་པ་དང༌།
+<literal>bile and
+<liturgical><prose>Bile and.
+
+[13689]
+<tibetan>བད་ཀན་དང༌།
+<literal>phlegm and
+<liturgical><prose>Phlegm and.
+
+[13690]
+<tibetan>འདུས་པའི་ནད་རྣམས་བླང་སྟེ།
+<literal>combined-of diseases take
+<liturgical><prose>Gathering diseases taken.
+
+[13691]
+<tibetan>བདེ་སྡུག་ཏུ་སྨིན་པའོ།
+<literal>bliss suffering-as ripen
+<liturgical><prose>Pleasure-pain ripened. || 260 ||
+
+[13692]
+<tibetan>།དེ་དག་གི་རྣམ་གྲངས་དབྱེ་ན་བཅུ་དྲུག་ཏུ་འགྱུར་ལ།
+<literal>those-of enumeration divide-if sixteen-as becomes
+<liturgical><prose>Those enumeration divided sixteen becoming.
+
+[13693]
+<tibetan>དེ་ཉིད་ཕོ་མོའི་འགྱུར་གྱི་ཕྱེ་བས་མོ་ནད་སུམ་ཅུ་རྩ་གཉིས་སུ་འགྱུར་ལ།
+<literal>that-itself male female-of change-by-means-of divided-by-means-of female disease thirty-two-as becomes
+<liturgical><prose>That male-female change divided female disease thirty-two becoming.
+
+[13694]
+<tibetan>དེ་དག་གི་རྣམ་འགྱུར་གྱི་གྲངས་ལས་ཐུན་མོང་གི་ནད་བཞི་བརྒྱ་དང་རྩ་བཞིར་མཆེད་པར་བྱེད་དོ།
+<literal>those-of change-of number from common-of disease four hundred four-at branched does
+<liturgical><prose>Those change number from common disease four hundred four growing.
+
+[13695]
+<tibetan>།དེ་ལྟར་རྩེ་མོ་རྣམ་པར་བཀོད་པའི་འཁོར་ལོ་ན་རྩ་སུམ་བརྒྱ་དང་དྲུག་ཅུའི་ནང་ན།
+<literal>thus tip variety arranged-of wheel-at channel three hundred sixty-of inside-at
+<liturgical><prose>Thus tip arranged wheel channels three hundred sixty inside.
+
+[13696]
+<tibetan>ཀ་ཀ་ཀི་ཀི།
+<literal>ka ka ki ki
+<liturgical><prose>KA KA KI KI.
+
+[13697]
+<tibetan>ལ་སོགས་པའི་ཡི་གེ་བདུན་བརྒྱ་དང་ཉི་ཤུ་གནས་ལ།
+<literal>etc.-of syllable seven hundred twenty abides-at
+<liturgical><prose>Etc. letters seven hundred twenty abiding.
+
+[13698]
+<tibetan>འོད་ཀྱི་གོང་བུ་སུམ་བརྒྱ་དང་དྲུག་ཅུ་སྟེ་བསྡོམས་པ་སྟོང་ཕྲག་གཅིག་དང་བརྒྱད་ཅུ།
+<literal>light-of sphere three hundred sixty combined thousand one eighty
+<liturgical><prose>Light sphere three hundred sixty, thousand eighty.
+
+[13699]
+<tibetan>ཀུན་བཟང་ཡབ་དང་ཡུམ་གྱི་སྐུ་ཉིས་སྟོང་བརྒྱད་བརྒྱ་པོ་རེ་རེ་ལ་སྐུ་གསུང་ཐུགས་ཀྱི་ལྷ་གསུམ་གསུམ།
+<literal>Samantabhadra father and mother-of body two thousand eight hundred each-to body speech mind-of deity three three
+<liturgical><prose>Samantabhadra father and mother bodies two thousand eight hundred each body-speech-mind god three-three.
+
+[13700]
+<tibetan>ཐུགས་ཀ་ནས་ཡེ་ཤེས་སེམས་དཔའ་སྤུས་བྲིས་པའི་རྣམ་པ་ལྟ་བུ་རེ་རེ་སྟེ
+<literal>mind-inside-from wisdom being hair drawn-of form like each
+<liturgical><break><prose> Heart from wisdom being spore-written form like each.
+
+[13701]
+<tibetan>སུམ་སྟོང་ཉིས་བརྒྱ་དང་བཞི་བཅུ་ཐམ་པ།
+<literal>three thousand two hundred forty complete
+<liturgical><break><prose> Three thousand two hundred forty complete. || 270 ||
+
+[13702]
+<tibetan>སྲིན་བུ་ཁྲི་ཕྲག་བརྒྱད་དང་སྟོང་ཕྲག་ལྔ།
+<literal>insect ten thousand eight thousand five
+<liturgical><prose>Insects myriad eight and thousand five.
+
+[13703]
+<tibetan>ཡི་གེ་དེ་ཙམ་ཅིག་དེའི་ནང་ནས་སོ་སོའི་ཡེ་ཤེས་ཀྱི་ས་བོན་དེ་ཙམ་ཅིག་སྟེ།
+<literal>syllable that much one that-of inside-from individual-of wisdom-of seed that much one
+<liturgical><prose>Letters that much each inside self-wisdom seed that much.
+
+[13704]
+<tibetan>འབུམ་ཕྲག་གསུམ་དང་ཁྲི་ཕྲག་ཕྱེད་དང་གསུམ།
+<literal>hundred thousand three ten thousand half three
+<liturgical><prose>Myriad three and myriad half and three.
+
+[13705]
+<tibetan>འདིའི་དུས་ན་ལུང་དུ་མ་བསྟན་པའི་ཉོན་མོངས་པ་ཁྲི་ཕྲག་བརྒྱད་དང་སྟོང་ཕྲག་ལྔ་སྟེ།
+<literal>this-of time-at scripture-not-shown-of affliction ten thousand eight thousand five
+<liturgical><prose>This time unspecified affliction myriad eight and thousand five.
+
+[13706]
+<tibetan>འབུམ་ཕྲག་བཞི་དང་ཁྲི་ཕྲག་གཅིག
+<literal>hundred thousand four ten thousand one
+<liturgical><break><prose> Myriad four and myriad one.
+
+[13707]
+<tibetan>གོང་དུ་རྩ་ལས་འཕེལ་བའི་སྟོང་ཕྲག་གསུམ་དང་གཉིས་བརྒྱ་བཞི་བཅུ་སྟེ།
+<literal>above-from channel-from growing-of thousand three two hundred forty
+<liturgical><break><prose> Above channels growing myriad three and two hundred forty.
+
+[13708]
+<tibetan>འབུམ་ཕྲག་གསུམ་དང་ཁྲི་ཕྲག་གཅིག་དང་སྟོང་ཕྲག་གསུམ་དང་ཉིས་བརྒྱ་བཞི་བཅུ་ཐམ་པར་གནས་སོ།
+<literal>hundred thousand three ten thousand one thousand three two hundred forty complete abides
+<liturgical><prose>Myriad three and myriad one and thousand three and two hundred forty complete abiding.
+
+[13709]
+<tibetan>།དབང་པོ་དང་དབང་རྟེན་གྱི་ཆོས་ཏེ་རྣམ་གྲངས་དཔག་ཏུ་མེད་པ་འདུས་པས་ན་ཀུན་གཞི་ཞེས་བྱའོ།
+<literal>sense-power and sense-power basis-of dharma enumeration measure-not-exist gathered-by-means-of kunzhi thus-called
+<liturgical><prose>Faculties and faculty-support dharmas enumeration immeasurable gathered, all-basis called.
+
+[13710]
+<tibetan>།དེ་ལྟར་ལུས་ཀྱི་འཁོར་ལོ་བཞི་པོའི་རྩ་རྣམས་ཀྱི་སྲོག་ཤིང་རོ་རྐྱང་ཀུན་འདར་མ་གསུམ་གྱིས།
+<literal>thus body-of wheel four-of channel all-of life-tree taste single all-trembling three-by-means-of
+<liturgical><prose>Thus body wheel four channels life-tree taste straight empty all-trembling three.
+
+[13711]
+<tibetan>ཕྱིར་ལུས་ངག་ཡིད་གསུམ་བསྐྱེད།
+<literal>outside body speech mind three produced
+<liturgical><prose>Outside body speech mind three generated. || 280 ||
+
+[13712]
+<tibetan>ནང་དུ་སྐུ་གསུང་ཐུགས་གསུམ་བསྐྱེད།
+<literal>inside body speech mind three produced
+<liturgical><prose>Inside three kayas three generated.
+
+[13713]
+<tibetan>གསང་པར་སྤྲུལ་སྐུ།
+<literal>secret emanation body
+<liturgical><prose>Secret emanation-kaya.
+
+[13714]
+<tibetan>ལོངས་སྐུ།
+<literal>enjoyment body
+<liturgical><prose>Enjoyment-kaya.
+
+[13715]
+<tibetan>ཆོས་སྐུ་གསུམ་བསྐྱེད་པས་ན་ཀ་བའི་ཚུལ་དུ་དྲང་པོར་གནས་སོ།
+<literal>dharma body three produced-by-means-of pillar-of manner straight abides
+<liturgical><prose>Dharma-kaya three generated, hook manner straight abiding.
+
+[13716]
+<tibetan>།དེ་ཡང་ཡབ་ཀྱི་ཐིག་ལེ་ཡི་གེ་ཨཱོཾ་ཨཱཿཧཱུྃ་གི་སྒྲ་དང་བཅས་པ་འཐོན་ཏེ་ཡུམ་གྱི་མཁར་ཐིམ།
+<literal>that-also father-of bindu syllable A-Om Ah-Hung-of sound with together emerged mother-of castle dissolves
+<liturgical><break><prose> Also father thig-le letters
+
+[13717]
+<tibetan>མའི་རྐྱེན་ཡང་འབྲུ་གསུམ་གྱི་སྒྲ་དང་བཅས་ཏེ།
+<literal>mother's condition also seed three's sound and possess-during/
+<liturgical><break><prose> <mantra>OM AH HUM
+
+[13718]
+<tibetan>སྒྲ་དྲུག་པོ་ནང་འཐབས་པས་བུའི་ལུས་ངག་ཡིད་གསུམ་གྱི་གཞི་ཐིངས་ནས་རོ་རྐྱང་དབུ་མ་གསུམ་དུ་གྱུར་པའི་དབུས་མའི་ནང་དུ་ཨཱོཾ་དང་འོད་དང་ཀུན་བཟང་ཡབ་ཡུམ་ཀྱི་སྐུ་དང་གསུམ་དུ་གྲུབ་ལ།
+<literal>sound six inside gather-by-means-of child's body speech mind three's basis essence-from taste alone middle three-as become middle's inside-in A-OM and light and Samantabhadra father-mother's body and three-as complete/
+<liturgical><prose>sound with emerged mother castle absorbed.
+
+[13719]
+<tibetan>གཡས་སུ་ཨཱཿདང་འོད་དང་སྐུ་གསུམ།
+<literal>right-in A-H and light and body three/
+<liturgical><prose>Mother condition also seed-three sound with.
+
+[13720]
+<tibetan>གཡོན་དུ་ཧཱུྃ་དང་འོད་དང་སྐུ་གསུམ་གྲུབ་སྟེ།
+<literal>left-in HUM and light and body three complete-during/
+<liturgical><break><prose> <mantra>Sound six inside quarreled son body speech mind basis compressed taste-straight-empty middle inside OM and light and Samantabhadra father-mother body three accomplished.
+
+[13721]
+<tibetan>སྐུ་གསུང་ཐུགས་གསུམ་གསུམ་གྱི་རྟེན་དུ་གྲུབ་པའོ།
+<literal>body speech mind three-three's basis-as complete is/
+<liturgical><break><prose> Right || 290 ||
+
+[13722]
+<tibetan>།དེ་ལྟར་འཁོར་ལོ་བཞི་ལས་དང་པོ་ལུས་ལ་སོགས་པའི་ཀུན་གཞི་བསྐྱེད་པ་ལྟེ་བ་དང༌།
+<literal>/thus wheel four-from first body etc. basis-all generate navel and/
+<liturgical><prose><mantra>AH
+
+[13723]
+<tibetan>དེ་ནས་ཤེས་པ་འགྲུབ་པས་དྲན་པ་འདུས་སྙིང་ག་དང༌།
+<literal>that-from consciousness achieve-by-means-of mindfulness gather heart-center and/
+<liturgical><prose>and light and three kayas.
+
+[13724]
+<tibetan>དྲན་པའི་རོ་མྱོང་བ་དག་གི་སྨྲ་བྱེད་དུ་བྱུང་བས་རོ་རྣམས་མགྲིན་པ་དང༌།
+<literal>mindfulness's taste experience those's speak-do-as arise-by-means-of taste all throat and/
+<liturgical><prose>Left
+
+[13725]
+<tibetan>ཀུན་གྱི་རྩེ་མོ་རྣམ་བཀོད་སྤྱི་བོ་སྟེ་བཞི་ཚད་དུ་ངེས་པའོ།
+<literal>all's peak arrange crown is four measure-as certainty is/
+<liturgical><prose><mantra>HUM
+
+[13726]
+<tibetan>།དེ་ཡང་རྩ་བའི་ནང་གི་ཡི་གེ་རྣམས་རླུང་གི་སྒྲ་གཡོས་པ་ལས།
+<literal>/that also root's inside's syllable all wind's sound shake-from/
+<liturgical><prose>and light and three kayas accomplished.
+
+[13727]
+<tibetan>སྐད་འབྱུང་ལ།
+<literal>voice arise-during/
+<liturgical><prose>Body speech mind three-three support accomplished.
+
+[13728]
+<tibetan>ཡི་གེ་གསལ་བ་རྣམས་ནི་སྐད་སྙན་པའོ།
+<literal>syllable clear all is voice pleasant is/
+<liturgical><prose>Thus wheel four from first body etc. all-basis generated navel and.
+
+[13729]
+<tibetan>།མི་གསལ་ལ་ན་མི་སྙམ་ཞིང༌།
+<literal>/not clear-in not pleasant and/
+<liturgical><prose>Then consciousness accomplished, mindfulness gathering heart and.
+
+[13730]
+<tibetan>རྩ་ཡིག་མ་དག་པ་ལས་སྐད་འདར་བ་དང༌།
+<literal>channel syllable not pure-from voice tremble and/
+<liturgical><prose>Mindfulness taste experienced speech-doing arisen, tastes throat and.
+
+[13731]
+<tibetan>དག་པ་དང༌།
+<literal>pure and/
+<liturgical><prose>All tip arranged crown four measure definite. || 300 ||
+
+[13732]
+<tibetan>རྩེ་མོ་ཅན་ལ་སོགས་པར་འབྱུང་ངོ༌།
+<literal>peak-possess etc.-as arise is/
+<liturgical><prose>Also basis inside letters wind sound moved from.
+
+[13733]
+<tibetan>།རྩའི་གནད་ལས་སྒྱུར་བས།
+<literal>/channel's vital-point-from turn-by-means-of/
+<liturgical><prose>Voice arising.
+
+[13734]
+<tibetan>སྐྱེས་པ་རྣམས་སྐད་སྦོམ་པ་ནི་རིགས་ཅན་གྱི་རྩ་མེད་པ་དང་རྩ་སྦུབས་ཡངས་པས་སྦོམ་པའོ།
+<literal>born all voice thick is lineage-possess channel not-being and channel hollow wide-by-means-of thick is/
+<liturgical><prose>Letters clear those voice pleasant.
+
+[13735]
+<tibetan>།དེ་ཡང་ཡངས་པ་དང༌།
+<literal>/that also wide and/
+<liturgical><prose>Not-clear not-pleasant and.
+
+[13736]
+<tibetan>རབ་ཏུ་ཡངས་པ་དང༌།
+<literal>very wide and/
+<liturgical><prose>Root letter not-pure voice trembling and.
+
+[13737]
+<tibetan>ཆེར་ཡངས་པ་ལས་སྐད་སྦོམ་པ་དང༌།
+<literal>extremely wide-from voice thick and/
+<liturgical><prose>Pure and.
+
+[13738]
+<tibetan>རབ་ཏུ་སྦོམས་པ་དང༌།
+<literal>very thick and/
+<liturgical><prose>Tip-possessing etc. arising.
+
+[13739]
+<tibetan>ཆེར་སྦོམས་པ་ལ་སོགས་པ་འབྱུང་ངོ༌།
+<literal>extremely thick etc.-as arise is/
+<liturgical><prose>Channels essential point transformation.
+
+[13740]
+<tibetan>།བུད་མེད་ལ་རིགས་ཅན་ལྔས་རྩ་སྣ་གཏུམས་ཤིང་སྡུག་མདོག་པས།
+<literal>/woman-to lineage five-by-means-of channel nose narrow and pretty color-by-means-of/
+<liturgical><prose>Born voice thick, lineage channels not and channel-cavity wide thick.
+
+[13741]
+<tibetan>སྐད་ཀྱང་འདོད་པའི་ས་བོན་མན་གཡོས་པ་ཙམ་ནས་ཕྲ་སྟེ།
+<literal>voice also desire's seed shake only-from thin as/
+<liturgical><prose>Also wide and. || 310 ||
+
+[13742]
+<tibetan>གསལ་ཞིང་འཇམ་པ་འདོད་ཆགས་ལས་གྲུབ།
+<literal>clear and soft desire-attachment-from complete/
+<liturgical><prose>Very wide and.
+
+[13743]
+<tibetan>འཇམ་ཞིང་དེས་པ་མ་རིག་པ་ལས་གྲུབ།
+<literal>soft and that-by-means-of ignorance-from complete/
+<liturgical><prose>Extremely wide thick voice and.
+
+[13744]
+<tibetan>འགྱུར་ཞིང་འཁྲོག་པ་ཞེ་སྡང་ལས་གྲུབ།
+<literal>quake and agitate anger-from complete/
+<liturgical><prose>Very thick and.
+
+[13745]
+<tibetan>ཕྲ་ཞིང་སྙན་པ་ང་རྒྱལ་ཕྲག་དོག་གཉིས་ལས་གྲུབ་པའོ།
+<literal>thin and pleasant pride jealousy two-from complete is/
+<liturgical><prose>Extremely thick etc. arising.
+
+[13746]
+<tibetan>།སོས་དལ་ལ་སྨྲ་བ་ཉུང་བ་ནི་བདེ་བ་སྐྱེ་བའི་རིགས་སོ།
+<literal>/slow soft-in speak few is bliss arise-by-means-of lineage is/
+<liturgical><prose>Women lineage five channels nose twisted beautiful-color.
+
+[13747]
+<tibetan>།བདེ་ཞིང་གནོད་མེད་སྨྲ་བ་བུ་ནར་འཕེལ་བའི་རིགས་སོ།
+<literal>/bliss and harm-not speak child slowly increase-by-means-of lineage is/
+<liturgical><prose>Voice desire seed down-moved just fine.
+
+[13748]
+<tibetan>།དེ་ལྟར་བདུན་ཚན་བཞི་ལུས་འཆགས་ལ།
+<literal>/thus seven-group four body form-during/
+<liturgical><prose>Clear pleasant desire-attachment composed.
+
+[13749]
+<tibetan>དགུར་རྫོགས་ཏེ།
+<literal>nine-in complete-during/
+<liturgical><prose>Pleasant steady ignorance composed.
+
+[13750]
+<tibetan>བར་དོར་ཞག་བཞི་བཅུ་རྩ་དགུའི་བག་ཆགས་སོག་པའི་རྟེན་དུ་བྱུང་བའོ།
+<literal>intermediate-in day forty-nine's latency etc. basis-as arise is/
+<liturgical><prose>Moving swirling hatred composed.
+
+[13751]
+<tibetan>།དེ་ནས་ཆེར་འཕེལ་ཏེ།
+<literal>/that from much increase-during/
+<liturgical><prose>Fine pleasant arrogance jealousy two composed. || 320 ||
+
+[13752]
+<tibetan>བུ་ཁྱེའུ་རྣམས་ནི་མའི་གློ་གཡས་ནས་ཁ་ནང་དུ་ལྟ་ལ།
+<literal>child boy all is mother's lung right-from mouth inside-to look-during/
+<liturgical><prose>Slow soft speech little pleasure-generating lineage.
+
+[13753]
+<tibetan>བུ་མོ་རྣམ་ནི་གཡོན་ནས་ཕྱིར་ལྟ་བས་གནས་པ་ནི།
+<literal>child girl all is left-from outside look-by-means-of abiding is/
+<liturgical><prose>Pleasant harm-free speech son growing lineage.
+
+[13754]
+<tibetan>རང་གི་ཁྱིམ་འཛིན་པ་དང༌།
+<literal>own house hold and/
+<liturgical><prose>Thus four seven-day periods body formation.
+
+[13755]
+<tibetan>གཞན་གྱི་ཁྱིམ་དུ་འགྲོ་བའི་རྟེན་འབྲེལ་གྱི་བྱེད་པ་དེ་ལས་བྱུང་བའོ།
+<literal>other's house-to go-by-means-of dependent-origination's action that-from arise is/
+<liturgical><prose>Nine complete.
+
+[13756]
+<tibetan>དེ་ནས་ཁྱེའུ་རྣམས་ཟླ་བ་དགུ་ངོ་དང་བཅུ་ན་བཙའ་ལ།
+<literal>that from boy all month nine face and ten-in birth-during/
+<liturgical><prose>Intermediate state forty-nine days latencies support arisen.
+
+[13757]
+<tibetan>བུ་མོ་རྣམས་ཟླ་བ་དགུ་ན་བཙས་ཏེ།
+<literal>child girl all month nine-in birth-during/
+<liturgical><prose>Then much growing.
+
+[13758]
+<tibetan>རླུང་ཨ་ཝ་དྷཱུ་ཏཱི་ནས་སྣ་སྦུག་གཡས་གཡོན་ལ་དངོས་སུ་རྒྱུ་བས།
+<literal>wind avadhuti-from nose-channel right left-to actual move-by-means-of/
+<liturgical><prose>Son boys mother right from inside-looking.
+
+[13759]
+<tibetan>ཉོན་མོངས་པ་ཇེ་རགས་ལ་སོང་སྟེ།
+<literal>affliction increasingly coarse-to go-during/
+<liturgical><prose>Daughter girls left outside-looking abiding.
+
+[13760]
+<tibetan>ལས་དུ་མའི་སོག་བྱེད་ལ་གནས་པའོ།
+<literal>action many's storehouse-do-as abiding is/
+<liturgical><prose>Own house holding and.
+
+[13761]
+<tibetan>།དེ་ཡང་ཀུན་རྫོབ་རང་སོའི་འབྱུང་བ་བཞིས་ལུས་སྨིན་པར་བྱས་པ་ནི།
+<literal>/that also relative own-place's element four-by-means-of body mature cause-do is/
+<liturgical><prose>Other house going condition-action from arisen. || 330 ||
+
+[13762]
+<tibetan>ས་ལས་ཤ་དངོས་སུ་གྲུབ་པར་བྱས།
+<literal>earth-from flesh actual complete cause-do/
+<liturgical><prose>Then boys nine months ten birth.
+
+[13763]
+<tibetan>ཆུ་ལས་ཁྲག
+<literal>water-from blood
+<liturgical><break><prose> Daughter girls nine months birth.
+
+[13764]
+<tibetan>མེ་ལས་དྲོད།
+<literal>fire-from heat/
+<liturgical><break><ornament> Wind Avadhuti nose right-left actually moving.
+
+[13765]
+<tibetan>རླུང་ལས་དབུགས་དངོས་གྲུབ་པའོ།
+<literal>wind-from breath actual complete is/
+<liturgical><ornament>Affliction increasing rough.
+
+[13766]
+<tibetan>།ཤ་ལས་གཏི་མུག
+<literal>/flesh-from delusion
+<liturgical><break><ornament> Karma many latencies abiding.
+
+[13767]
+<tibetan>ཁྲག་ལས་འདོད་ཆགས།
+<literal>blood-from desire-attachment/
+<liturgical><break><prose> Also conventional self-elements four body ripened.
+
+[13768]
+<tibetan>དྲོད་ལས་ཞེ་སྡང༌།
+<literal>heat-from anger/
+<liturgical><prose>Earth flesh actually accomplished.
+
+[13769]
+<tibetan>དབུགས་ལས་ང་རྒྱལ།
+<literal>breath-from pride/
+<liturgical><prose>Water blood.
+
+[13770]
+<tibetan>ཕྲག་དོག་ལ་སོགས་པའི་རྣམ་རྟོག་ཐ་དད་པའི་རྒྱུ་རྐྱེན་དུ་ཤར་རོ།
+<literal>jealousy etc. thought different cause condition-as arise is/
+<liturgical><prose>Fire heat.
+
+[13771]
+<tibetan>།འདོད་ཆགས་ལས་ལུས་དངོས་སུ་སྨིན་པར་བྱས་པ་ནི།
+<literal>/desire-attachment-from body actual mature cause-do is/
+<liturgical><prose>Wind breath actually accomplished. || 340 ||
+
+[13772]
+<tibetan>ཐོག་མ་འདོད་ཆགས་ཀྱིས་ཀུན་སློང་བྱས་པ་ལས་བྱུང་ངོ༌།
+<literal>first desire-attachment-by-means-of all motivate cause-do-from arise is/
+<liturgical><prose>Flesh delusion.
+
+[13773]
+<tibetan>།ཞེ་སྡང་ལས་ཁྲག་ཏུ་སྨིན་པ་ནི།
+<literal>/anger-from blood-to mature is/
+<liturgical><prose>Blood desire-attachment.
+
+[13774]
+<tibetan>ཐོག་མ་ཞེ་སྡང་ལ་བརྟེན་ནས་སྒྲ་བརྗོད་པ་ལས་བྱུང་བའོ།
+<literal>first anger-to depend-during sound speak-from arise is/
+<liturgical><prose>Heat hatred.
+
+[13775]
+<tibetan>།གཏི་མུག་ལས་ཡིད་སྣ་ཚོགས་པར་སྨིན་པ་ནི།
+<literal>/delusion-from mind various-as mature is/
+<liturgical><prose>Breath arrogance.
+
+[13776]
+<tibetan>ཐོག་མ་གཞི་མ་རིག་པ་ལས་འཁྲུལ་པ་ལས་བྱུང་ངོ༌།
+<literal>first basis ignorance-from confusion-from arise is/
+<liturgical><prose>Jealousy etc. various thought different cause-condition arisen.
+
+[13777]
+<tibetan>།དེ་ལྟར་གསུམ་ཡང་དབུགས་ཀྱི་རྟ་ལ་ཞོན་ནས་འགྲོ་བས།
+<literal>/thus three also breath's horse-to ride-from go-by-means-of/
+<liturgical><prose>Desire-attachment body actually ripened.
+
+[13778]
+<tibetan>དུག་གསུམ་གྱི་རྟོག་པ་ཐ་དད་འཆར་བའོ།
+<literal>poison three's thought different arise is/
+<liturgical><prose>First desire-attachment all motivated arisen.
+
+[13779]
+<tibetan>།དེ་ཡང་གཏི་མུག་གི་སྨིན་སོ་འགྲོ་བ་ལ་གཉིད་དུ་འབྱུང༌།
+<literal>/that also delusion's mature-place go-by-means-of sleep-to arise/
+<liturgical><prose>Hatred blood ripened.
+
+[13780]
+<tibetan>འདོད་ཆགས་ཀྱི་སྨིན་སོ་དགོད་པའི་གང་མོར་བྱུང༌།
+<literal>desire-attachment's mature-place laugh-by-means-of when-to arise/
+<liturgical><prose>First hatred relying voice spoken arisen.
+
+[13781]
+<tibetan>ཞེ་སྡང་གི་སྨིན་སོ་རྨི་ལམ་སྣ་ཚོགས་སུ་འབྱུང་བའོ།
+<literal>anger's mature-place dream various-to arise is/
+<liturgical><prose>Delusion mind various ripened. || 350 ||
+
+[13782]
+<tibetan>།ཤ་གཏི་མུག་གིས་བསྐྱེད་པའི་རྟགས་སུ་འགྲོ་བ་ཤ་གང་ཆེ་བ་གཉིད་ཆེ།
+<literal>/flesh delusion-by-means-of generate-by-means-of sign-as go flesh all big is sleep big/
+<liturgical><prose>First basis ignorance delusion arisen.
+
+[13783]
+<tibetan>དྲོད་ཞེ་སྡང་གིས་བསྐྱེད་པའི་རྟགས་སུ་ཕྱིའི་ནམ་ཟླ་ལ་དྲོད་རླན་ཕེབས་པའི་དུས་རྨི་ལམ་མང་ངོ༌།
+<literal>heat anger-by-means-of generate-by-means-of sign-as outside moon-to heat moisture arrive time dream many is/
+<liturgical><prose>Thus three wind-horse riding migrating.
+
+[13784]
+<tibetan>།ཞེ་སྡང་སྐྱེས་དུས་ལུས་ཡང་ལ་དྲོད་སྐྱེ་ཞིང་ངག་སྨྲ་བ་ལ་བརྩོན་པའོ།
+<literal>/anger arise time body light-to heat arise-during speech speak cause-do-by-means-of is/
+<liturgical><prose>Poison three thought different arising.
+
+[13785]
+<tibetan>།ཁྲག་འདོད་ཆགས་ཀྱིས་བསྐྱེད་པའི་རྟགས་སུ་ཁྲག་གི་རྒྱུ་བ་ལ་བརྟེན་ནས་རྒོད་པ་འབྱུང༌།
+<literal>/blood desire-attachment-by-means-of generate-by-means-of sign-as blood's move-to depend-during agitation arise/
+<liturgical><prose>Also delusion ripening migrating sleep arising.
+
+[13786]
+<tibetan>འདོད་ཆགས་སྐྱེས་དུ་རླན་དང་རྡུལ་ལ་སོགས་པ་གཤེར་བའི་ཆ་འབྱུང་བའོ།
+<literal>desire-attachment arise time moisture and dust etc. moist part arise is/
+<liturgical><prose>Desire-attachment ripening smiling arising.
+
+[13787]
+<tibetan>།དེ་ཡང་ཤ་ལ་བརྟེན་ནས་གཟུགས་ཀྱི་ཕུང་པོར་མཆེད།
+<literal>/that also flesh-to depend-during form's aggregate spread/
+<liturgical><prose>Hatred ripening dream various arising.
+
+[13788]
+<tibetan>ཁྲག་ལས་འདུ་ཤེས།
+<literal>blood-from perception/
+<liturgical><prose>Flesh delusion generated sign migrating flesh all big sleep big.
+
+[13789]
+<tibetan>དྲོད་ལས་རྣམ་ཤེས།
+<literal>heat-from consciousness/
+<liturgical><prose>Heat hatred generated sign outside sun-moon heat moisture time dream much.
+
+[13790]
+<tibetan>དབུགས་ལས་འདུ་བྱེད།
+<literal>breath-from gather-action/
+<liturgical><prose>Hatred born body light heat arising speech speaking striving.
+
+[13791]
+<tibetan>རླུང་ཕྱིར་འགྲུབ་ལ་བརྟེན་ནས་ཚོར་བར་མཆེད་པའོ།
+<literal>wind outside complete-to depend-during feeling-to spread is/
+<liturgical><prose>Blood desire-attachment generated sign blood flow relying agitation arising. || 360 ||
+
+[13792]
+<tibetan>།དེ་ཡང་ཤས་རྩ་བསྐྱེད།
+<literal>/that also flesh-by-means-of channel generate/
+<liturgical><prose>Desire-attachment born moisture dust etc. wet portion arising.
+
+[13793]
+<tibetan>རྩས་རླུང་བསྐྱེད།
+<literal>channel-by-means-of wind generate/
+<liturgical><prose>Also flesh relying form aggregate growing.
+
+[13794]
+<tibetan>རླུང་གིས་ལས་དང་ཡེ་ཤེས་གཉིས་ཀ་བསྐྱེད་དོ།
+<literal>wind-by-means-of action and wisdom two both generate is/
+<liturgical><prose>Blood perception.
+
+[13795]
+<tibetan>།ལས་ཀྱིས་འཁོར་བ་སྡུད།
+<literal>/action-by-means-of samsara gather/
+<liturgical><prose>Heat consciousness.
+
+[13796]
+<tibetan>ཡེ་ཤེས་ཀྱིས་མྱ་ངན་ལས་འདས་པ་སྡུད་དོ།
+<literal>wisdom-by-means-of nirvana gather is/
+<liturgical><prose>Breath formation.
+
+[13797]
+<tibetan>།དེ་ཡང་ཁྲག་ལ་བརྟེན་ནས་ཆུ་སེར་བསྐྱེད།
+<literal>/that also blood-to depend-during lymph generate/
+<liturgical><prose>Wind outside relying feeling growing.
+
+[13798]
+<tibetan>དེས་ཐིག་ལེ་བསྐྱེད།
+<literal>that-by-means-of bindu generate/
+<liturgical><prose>Also flesh channels generated.
+
+[13799]
+<tibetan>ཐིག་ལེས་ཀུན་རྫོབ་ཀྱི་སྨིན་སོ་དབང་པོ་ལྔ་བྱུང༌།
+<literal>bindu-by-means-of relative's mature-place faculty five arise/
+<liturgical><prose>Channels wind generated.
+
+[13800]
+<tibetan>དབང་པོའི་རྒྱུ་ཉོན་མོངས་པ་ལྔ།
+<literal>faculty's cause affliction five/
+<liturgical><prose>Wind action and wisdom both generated.
+
+[13801]
+<tibetan>རྐྱེན་ཡུལ་ལྔ།
+<literal>condition object five/
+<liturgical><prose>Action cyclic-existence gathers. || 370 ||
+
+[13802]
+<tibetan>འདས་མ་འོངས་ད་ལྟའི་རྟོག་ཚོགས་འདུས་པ་ལས་འཁོར་འདས་ཀྱི་རྒྱུར་བྱུང་བའོ།
+<literal>past future present thought collection gather-from samsara-nirvana's cause arise is/
+<liturgical><prose>Wisdom nirvāṇa gathers.
+
+[13803]
+<tibetan>།དེ་ལ་དོན་དམ་པའི་འབྱུང་བ་བཞི་ནི།
+<literal>/that-to ultimate's element four is/
+<liturgical><prose>Also blood relying lymph generated.
+
+[13804]
+<tibetan>ཁ་དོག་དཀར་པོ་རབ་ཏུ་མཆེད་པ་ལས།
+<literal>color white very spread-from/
+<liturgical><prose>That thig-le generated.
+
+[13805]
+<tibetan>རྒྱང་ཞགས་ཆུའི་སྒྲོན་མའི་རྒྱུ་བྱས།
+<literal>far-lasso water's lamp's cause make/
+<liturgical><prose>Thig-le conventional ripening faculties five arisen.
+
+[13806]
+<tibetan>སའི་རྩ་ལས་བྱུང༌།
+<literal>earth's channel-from arise/
+<liturgical><prose>Faculties cause affliction five.
+
+[13807]
+<tibetan>དམར་པོ་རབ་ཏུ་དམར་བ་ལས་ཐིག་ལེ་སྟོང་པའི་སྒྲོན་མའི་རྒྱུ་བྱས།
+<literal>red very red-from bindu empty lamp's cause make/
+<liturgical><prose>Condition objects five.
+
+[13808]
+<tibetan>ཆུའི་རྩ་ལས་བྱུང༌།
+<literal>water's channel-from arise/
+<liturgical><prose>Past-future-present thought gathering cyclic-existence cause arisen.
+
+[13809]
+<tibetan>སེར་པོ་རབ་ཏུ་སེར་བ་ལས་དབྱིངས་རྣམ་པར་དག་པའི་སྒྲོན་མེའི་རྒྱུ་བྱས།
+<literal>yellow very yellow-from space pure lamp's cause make/
+<liturgical><prose>Ultimate elements four.
+
+[13810]
+<tibetan>མེའི་རླུང་གི་རྩ་ལས་བྱུང༌།
+<literal>fire's wind's channel-from arise/
+<liturgical><prose>Color white very growing from.
+
+[13811]
+<tibetan>ཁ་དོག་ལྗང་གུ་རབ་ཏུ་ལྗང་བ་ལས།
+<literal>color green very green-from/
+<liturgical><prose>Far-reaching water lamp cause made. || 380 ||
+
+[13812]
+<tibetan>ཤེས་རབ་རང་བྱུང་གི་སྒྲོན་མའི་རྒྱུ་བྱས།
+<literal>wisdom self-arise's lamp's cause make/
+<liturgical><prose>Earth channels arisen.
+
+[13813]
+<tibetan>རླུང་གི་རྩ་ལས་བྱུང་ངོ༌།
+<literal>wind's channel-from arise is/
+<liturgical><prose>Red very red thig-le empty lamp cause made.
+
+[13814]
+<tibetan>།དེ་ཡང་ཤེས་རབ་རང་བྱུང་གིས་རིག་པ་བསྐྱེད།
+<literal>/that also wisdom self-arise-by-means-of awareness generate/
+<liturgical><prose>Water channels arisen.
+
+[13815]
+<tibetan>རྒྱང་ཞགས་ཀྱིས་འོད་བསྐྱེད།
+<literal>far-lasso-by-means-of light generate/
+<liturgical><prose>Yellow very yellow field pure lamp cause made.
+
+[13816]
+<tibetan>ཐིག་ལེས་སྐུ་བསྐྱེད།
+<literal>bindu-by-means-of body generate/
+<liturgical><prose>Fire wind channels arisen.
+
+[13817]
+<tibetan>དབྱིངས་ཀྱིས་ཡེ་ཤེས་བསྐྱེད་དོ།
+<literal>space-by-means-of wisdom generate is/
+<liturgical><prose>Color green very green.
+
+[13818]
+<tibetan>།རྒྱང་ཞགས་ཀྱི་ཆོས་ཉིད་མངོན་སུམ་གྱི་སྣང་བ་མཐོང༌།
+<literal>/far-lasso's dharmata direct appearance see/
+<liturgical><prose>Wisdom self-arisen lamp cause made.
+
+[13819]
+<tibetan>།ཐིག་ལེ་སྟོང་པས་ཉམས་གོང་འཕེལ་མཐོང༌།
+<literal>/bindu empty-by-means-of experience increase see/
+<liturgical><prose>Wind channels arisen.
+
+[13820]
+<tibetan>དབྱིངས་ཀྱིས་རིག་པ་ཚད་ཕེབས་མཐོང༌།
+<literal>space-by-means-of awareness measure arrive see/
+<liturgical><prose>Also wisdom self-arisen rigpa generated.
+
+[13821]
+<tibetan>ཤེས་རབ་རང་བྱུང་གི་སྒྲོན་མས་ཆོས་ཉིད་ཟད་པའི་སྣང་བ་ལ་སྤྱོད་པའོ།
+<literal>wisdom self-arise's lamp-by-means-of dharmata exhaust appearance-to engage is/
+<liturgical><prose>Far-reaching light generated. || 390 ||
+
+[13822]
+<tibetan>།དེ་དག་ཀྱང་སྒོ་མིག་ནས་ཡེ་ཤེས་ཤར་བ་ལ་དངོས་སུ་སྤྱོད་པའོ།
+<literal>/those also door eye-from wisdom arise-to actual engage is/
+<liturgical><prose>Thig-le body generated.
+
+[13823]
+<tibetan>།ཐེག་པའི་མཆོག་རིན་པོ་ཆེའི་མཛོད་ལས།
+<literal>/vehicle's supreme jewel treasury-from/
+<liturgical><tantra>From Supreme Vehicle Jewel Treasury.
+
+[13824]
+<tibetan>བག་ཆགས་ལུས་ཀྱི་གྲུབ་ཚུལ་བསྟན་པ་སྟེ་རིམ་ཁང་བཅུ་གཅིག་པའོ།
+<literal>latency body's complete manner show is sequence chapter eleven is/
+<liturgical><ornament>Latencies body formation shown, eleventh lecture hall.
+
+[13825]
+<tibetan>།དེ་ལྟར་ལུས་གྲུབ་ཚུལ་སྤྱིར་བསྟན་ནས།
+<literal>/thus body complete manner general-from show-from/
+<liturgical><ornament>Thus body formation generally shown.
+
+[13826]
+<tibetan>ད་ནི་དེ་ལ་རྩ་དང་རླུང་དང་ཐིག་ལེའི་གནས་ཚུལ་བྱེ་བྲག་ཏུ་བཤད་པ་ལ་གསུམ་སྟེ།
+<literal>now that-to channel and wind and bindu's abode manner particular explain-to three are/
+<liturgical><ornament>Now that channels and winds and thig-le's abode particular explanation three.
+
+[13827]
+<tibetan>རྟེན་རྩ།
+<literal>basis channel/
+<liturgical><ornament>Support channels.
+
+[13828]
+<tibetan>བརྟེན་པ་རླུང༌།
+<literal>support-by-means-of wind/
+<liturgical><ornament>Supported wind.
+
+[13829]
+<tibetan>གནས་པ་ཐིག་ལེའི་རབ་ཏུ་དབྱེ་བའོ།
+<literal>abiding bindu's particular distinction is/
+<liturgical><ornament>Abide thig-le's detailed division.
+
+[13830]
+<tibetan>།དང་པོ་ལ་གསུམ་སྟེ།
+<literal>/first-to three are/
+<liturgical><ornament>First three.

@@ -1,0 +1,3480 @@
+Conduct deep scan and critical honest review of the attached Tibetan Dzogchen translation in light of the literal and liturgical mission statements.
+
+If you have suggestions for specific lines return them in code block in the strict line format:
+
+[line number]<literal or liturgical><<liturgical tags if any>>replacement text
+
+(double line break)
+
+For each entry, eg.
+
+[684]<literal>buddhas-by-means-of dharma teach-and
+[725]<liturgical><prose>The antidote for the three poisons of desire, anger, and delusion is the realization of emptiness.
+
+============================================================
+
+# LITERAL MISSION STATEMENT
+
+## Expected Output: Dense, Concise Literal Translation
+
+The literal layer should provide:
+- Word-by-word or phrase-by-phrase translation closest to Tibetan syntax
+- Technical term consistency (same English term for same Tibetan term)
+- Minimal elaboration - translate what is there, no more
+- Serve as "truth" reference for checking interpretive translations
+- Use compound structures that mirror Tibetan word compounds
+- Preserve Tibetan word order where possible
+- Include Sanskrit loanwords in IAST transliteration when original is Sanskrit
+- Mark Tibetan technical terms in italics or parentheses
+- No theological interpretation or doctrinal elaboration
+- Cadence should feel slightly "awkward" in English - this is a feature, not a bug
+
+============================================================
+
+# LITURGICAL MISSION STATEMENT
+
+## Expected Output: Poetic, Devotional, Oral-Performance Ready
+
+The liturgical layer should provide:
+- Flowing, elegant English that sounds good when chanted or read aloud
+- Proper English grammar and syntax (readable, not literally awkward)
+- Traditional Buddhist terminology in standard English translations
+- Verse/prose formatting with clear break markers
+- Tags indicating vocal performance:
+  - <ornament> - Title markers, colophons, auspicious openings
+  - <break> - Major section transitions
+  - <verse> - Metric lines meant for chanting
+  - <prose> - Explanatory passages for oral delivery
+  - <prayer> - Devotional requests or aspirations
+  - <citation> - Scriptural references or quotations
+- Appropriate honorifics and devotional language
+- Should "come alive" when performed orally
+- Preserves meaning while prioritizing beauty and usability
+
+============================================================
+
+The draft in need of review is:
+
+# Treasury of the Supreme Vehicle: Autocommentary
+# Longchen Rabjampa (1308-1364)
+## Volume 01 - Chapter 15 - Section 01
+## Chapter 15: Winds and Mind
+
+[1]
+<tibetan>༄༅།
+<literal>@#/
+
+[2]
+<tibetan>།ཐེག་མཆོག་མཛོད་ཀྱི་གླེགས་བམ་ཕྱི་མའོ།
+<literal>/theg mchog mdzod by-means-of glegs bam phyi ma'o/
+<liturgical><break><prose> The Treasury of the Supreme Vehicle, Latter Volume.
+
+[3]
+<tibetan>།
+<literal>/
+<liturgical><break><prose>
+
+[4]
+<tibetan>༄༅།
+<literal>@#/
+<liturgical><break><prose>
+
+[5]
+<tibetan>།དེ་ལྟར་ཀུན་གཞི་དང་ཆོས་སྐུ་ལ་སོགས་པའི་དབྱེ་བ་བསྟན་ནས།
+<literal>/that-like alaya-ground and dharma-body etc.-genitive distinction having-shown/
+<liturgical><break><prose> Thus having shown the distinction of alaya-ground and Dharmakāya, and so forth,
+
+[6]
+<tibetan>ད་ནི་རྟེན་འབྱུང་བའི་རང་བཞིན་བཤད་པ་ལ་གཉིས་ཏེ།
+<literal>/now dependent-arising-genitive nature explain for twofold/
+<liturgical><prose>Now, regarding the explanation of dependent arising's nature, there are two:
+
+[7]
+<tibetan>ཐུན་མོང་གི་དབྱེ་བ་དང༌།
+<literal>/common-genitive distinction and*/
+<liturgical><prose>The common distinction,
+
+[8]
+<tibetan>སོ་སོའི་རང་བཞིན་རྒྱས་པར་བཤད་པའོ།
+<literal>/individual-genitive nature extensive-genitive explain/
+<liturgical><prose>And the extensive explanation of individual natures.
+
+[9]
+<tibetan>།དང་པོ་ནི།
+<literal>/first is/
+<liturgical><ornament>First:
+
+[10]
+<tibetan>ཕྱིའི་འབྱུང་བ་དང་ནང་གི་འབྱུང་བ་རྣམ་པ་གཉིས་ཏེ།
+<literal>/outer-arising and inner-arising type twofold/
+<liturgical><prose>Outer-arising and inner-arising—two types. || 10 ||
+
+[11]
+<tibetan>རང་ཤར་ལས།
+<literal>/self-arisen from/
+<liturgical><prose>From the Self-Arisen:
+
+[12]
+<tibetan>འབྱུང་བ་རྣམས་པ་གཉིས་སུ་བསྟན།
+<literal>/arising type two-as shown/
+<liturgical><prose>The two types of arising are shown.
+
+[13]
+<tibetan>།ཕྱི་འབྱུང་དང་ནི་ནང་འབྱུང་ངོ༌།
+<literal>/outer-arising and inner-arising*/
+<liturgical><prose>Outer-arising and inner-arising.
+
+[14]
+<tibetan>།ཞེས་སོ།
+<literal>/thus/
+<liturgical><prose>Thus it is said.
+
+[15]
+<tibetan>།ཕྱི་འབྱུང་ས་ཆུ་ལ་སོགས་པ་འདི་དག་ནང་འབྱུང་གི་རྟེན་དུ་གནས་པས་རྟེན་དང་བརྟེན་པར་འབྲེལ་བའི་ཕྱིར་འབྱུང་བ་གཉིས་སུ་ངེས་ལ།
+<literal>/outer-arising earth water etc. these inner-arising-genitive basis-at exist because basis and dependent-connected because arising two-as definite-to/
+<liturgical><prose>Outer-arising—earth, water, and so forth—these exist as the basis for inner-arising; connected as basis and dependent, — therefore established as twofold.
+
+[16]
+<tibetan>འདི་གཉིས་ལ་མ་བརྟེན་པའི་སེམས་ཅན་དང་སངས་རྒྱས་གང་ཡང་མེད་དེ།
+<literal>/these two-on not-depend being and buddha any nothing-exist because/
+<liturgical><prose>Without depending upon these two, no beings nor buddhas exist.
+
+[17]
+<tibetan>སེམས་ཅན་རྣམས་འབྱུང་ལྔ་འཁྲུལ་པའི་དབྱིངས་ལ་སྤྱོད་ཅིང༌།
+<literal>/being all five-arising confused-genitive expanse-in move-and*/
+<liturgical><prose>All beings move within the confused expanse of the five-arising,
+
+[18]
+<tibetan>འབྱུང་བ་ཆེན་པོ་རང་ཆས་སུ་ལྡན།
+<literal>/arising great self-nature-as possess/
+<liturgical><prose>Possessing the self-nature of the great arising.
+
+[19]
+<tibetan>སངས་རྒྱས་རྣམས་དོན་དག་པའི་འབྱུང་ལྔ་ས་སྲ་བ་མེད་པ་ལ་སོགས་པ་ལྔའི་དབྱིངས་ལ་བཞུགས་ཤིང༌།
+<literal>/buddha all meaning pure-genitive five-arising earth solidity nothing etc. five-genitive expanse-in dwell-and*/
+<liturgical><prose>All buddhas dwell in the expanse of the five pure-arisings: earth without solidity, and so forth,
+
+[20]
+<tibetan>འབྱུང་བ་ཆེན་པོ་ལྔའི་དྲི་མ་ཤིན་ཏུ་ཟད་པ་ལ་སྤྱོད་དོ།
+<literal>/arising great five-genitive stain very cease-to move/
+<liturgical><prose>Moving in the complete cessation of the five great arising's stains. || 20 ||
+
+[21]
+<tibetan>།དེའང་འབྱུང་བ་ཆེན་པོ་ནི་འོད་གསལ་བའི་ཡེ་ཤེས་ཁ་དོག་ལྔ་ལྡན་ཡིན་ལ།
+<literal>/that-also arising great luminosity-wisdom color five-as possess is-and/
+<liturgical><prose>Furthermore, the five great arising possess luminosity-wisdom and five colors;
+
+[22]
+<tibetan>འབྱུང་ཆུང་ནི་ས་ཆུ་མེ་རླུང་ནམ་མཁའ་ལྔའོ།
+<literal>/arising small earth water fire wind space five/
+<liturgical><prose>The five small arisings are earth, water, fire, wind, and space.
+
+[23]
+<tibetan>།དག་པའི་འབྱུང་ལྔ་ནི།
+<literal>/pure-genitive five-arising is/
+<liturgical><prose>The five pure arisings are:
+
+[24]
+<tibetan>གསལ་བ།
+<literal>/clear/
+<liturgical><prose>Clear,
+
+[25]
+<tibetan>དྲོ་བ།
+<literal>/warm/
+<liturgical><prose>Warm,
+
+[26]
+<tibetan>ཡང་བ།
+<literal>/bright/
+<liturgical><prose>Bright,
+
+[27]
+<tibetan>བསིལ་བ།
+<literal>/cool/
+<liturgical><prose>Cool,
+
+[28]
+<tibetan>ཡངས་པ།
+<literal>/spacious/
+<liturgical><prose>Spacious,
+
+[29]
+<tibetan>གཡོ་བའི་བདག་ཉིད་འཛིན་པ་སྟེ།
+<literal>/moving self-nature-as hold/
+<liturgical><prose>Holding the self-nature of movement.
+
+[30]
+<tibetan>འཁྲུལ་འབྱུང་ལྔ་དག་ནས་འོད་གསལ་ལྔ་ཀློང་དུ་ཕེབས་ཏེ་ནང་དབྱིངས་ལ་ཐུག་པ་དང༌།
+<literal>/confused-arising five-from luminosity-five expanse-to arrive inner-expanse-to meet and*/
+<liturgical><prose>From the five confused arisings, the five luminous arrive in the expanse, meeting the inner expanse, || 30 ||
+
+[31]
+<tibetan>ལྷུན་གྲུབ་ཀྱི་སྣང་བའི་འབྱུང་ཆེན་དག་པ་བཞིན་ནོ།
+<literal>/spontaneous-presence-genitive appearance-genitive arising great pure like/
+<liturgical><prose>Like the purity of the great arising of spontaneous presence's appearance.
+
+[32]
+<tibetan>།འབྱུང་ཆུང་ལའང་འབྱུང་གཟུགས་དང༌།
+<literal>/arising small-at-also arising-form and*/
+<liturgical><prose>Regarding the small arising, also arising-form,
+
+[33]
+<tibetan>འབྱུང་བ་དངོས་གཉིས་ལས།
+<literal>/arising actual two-from/
+<liturgical><prose>And actual arising—two.
+
+[34]
+<tibetan>འབྱུང་གཟུགས་ནི་ད་ལྟ་ཕྱི་ན་སྣང་པའི་ས་ཆུ་མེ་རླུང་ནམ་མཁའ་ལྔའོ།
+<literal>/arising-form now outer-at appear earth water fire wind space five/
+<liturgical><prose>Arising-form is the five appearing now externally: earth, water, fire, wind, and space.
+
+[35]
+<tibetan>།འབྱུང་བ་དངོས་ནི་ལུས་ཀྱི་ཆོས་སྲབ་པ་ལ་སོགས་པ་ལྔ་སྟེ་ནང་འབྱུང་གི་རྟེན་དུ་གྱུར་པ་ལྔའོ།
+<literal>/arising actual body-genitive quality thin etc. five inner-arising-genitive basis-become five/
+<liturgical><prose>Actual arising is the five qualities of the body—thin, and so forth—becoming the five inner-arising bases.
+
+[36]
+<tibetan>།ནང་འབྱུང་ནི།
+<literal>/inner-arising is/
+<liturgical><prose>Inner-arising:
+
+[37]
+<tibetan>ཁམས་དག་པ་པའི་རྟེན་ཆོས་འབྱུང་ལྔ་སོ་སོ་བ་ཡིན་ནོ།
+<literal>/realm pure-genitive basis dharma-arising five individual is/
+<liturgical><prose>The five individual dharma-arisings, bases of pure realms.
+
+[38]
+<tibetan>།དེས་ན་འཁོར་འདས་ཐམས་ཅད་འབྱུང་ལྔའི་དབྱིངས་ལས་མ་གཡོས་ཤིང༌།
+<literal>/therefore samsara-nirvana all five-arising-genitive expanse-from not-move-and*/
+<liturgical><prose>Therefore all saṃsāra and nirvāṇa do not move from the expanse of the five-arising;
+
+[39]
+<tibetan>འབྱུང་ལྔ་མེད་པའི་སྔོན་དུ་འཁོར་འདས་བྱུང་བ་མེད་དེ།
+<literal>/five-arising nothing-exist-genitive before samsara-nirvana arise nothing-exist/
+<liturgical><prose>Before the five-arising, saṃsāra and nirvāṇa do not arise.
+
+[40]
+<tibetan>རང་ཤར་ལས།
+<literal>/self-arisen from/
+<liturgical><prose>From the Self-Arisen: || 40 ||
+
+[41]
+<tibetan>ཀྱེ་ཧོ་གསང་བའི་བདག་པོ་ཉོན།
+<literal>/kye-ho secret lord listen/
+<liturgical><prose>Kye Ho! Secret Lord, listen!
+
+[42]
+<tibetan>།འབྱུང་བ་ལྔ་ཡི་མཚན་ཉིད་ནི།
+<literal>/five-arising-genitive characteristic is/
+<liturgical><prose>The characteristics of the five-arising:
+
+[43]
+<tibetan>།ངས་བསྟན་ཁྱོད་ཀྱིས་གོ་བར་གྱིས།
+<literal>/i show you-by understand-do/
+<liturgical><prose>I show—you must understand.
+
+[44]
+<tibetan>།འབྱུང་བ་ཆེན་པོ་བཅོམ་ལྡན་འདས།
+<literal>/arising great bhagavan/
+<liturgical><prose>The great arising, Bhagavan,
+
+[45]
+<tibetan>།འགྲོ་བ་ཀུན་ལ་རང་བཞིན་གནས།
+<literal>/being all-to nature exist/
+<liturgical><prose>Exist as the nature of all beings.
+
+[46]
+<tibetan>།ཁམས་གསུམ་སེམས་ཅན་ཐམས་ཅད་ནི།
+<literal>/realm three being all/
+<liturgical><prose>All beings of the three realms
+
+[47]
+<tibetan>།འབྱུང་བ་ལྔ་ཡི་དབྱིངས་ལ་སྤྱོད།
+<literal>/five-arising-genitive expanse-in move/
+<liturgical><prose>Move in the expanse of the five-arising.
+
+[48]
+<tibetan>།འབྱུང་བ་མེད་པའི་སྔོན་རོལ་དུ།
+<literal>/five-arising nothing-exist-genitive before-time/
+<liturgical><prose>Before the time when the five-arising did not exist,
+
+[49]
+<tibetan>།སངས་རྒྱས་སེམས་ཅན་མིང་ཡང་མེད།
+<literal>/buddha being name even nothing-exist/
+<liturgical><prose>Neither buddhas nor beings—even names did not exist.
+
+[50]
+<tibetan>།འབྱུང་བ་ལྔ་ཉིད་མ་ཡི་དབྱིངས།
+<literal>/five-arising itself mother-expanse/
+<liturgical><prose>The five-arising themselves are the mother-expanse. || 50 ||
+
+[51]
+<tibetan>།འབྱུང་བ་ལྔ་ལས་མ་གྲུབ་པའི།
+<literal>/five-arising-from not-established/
+<liturgical><prose>Not established from the five-arising,
+
+[52]
+<tibetan>།སྐྱེ་འགྲོ་སེམས་ཅན་གཅིག་ཀྱང་མེད།
+<literal>/birth-going being one even nothing-exist/
+<liturgical><prose>Not even one birth-going being exists.
+
+[53]
+<tibetan>།དེ་ལ་གནས་པའི་སེམས་ཅན་གྱི།
+<literal>/that-in exist being-genitive/
+<liturgical><prose>The five-arisings of beings dwelling therein
+
+[54]
+<tibetan>།འབྱུང་བ་རྣམ་པ་གཉིས་སུ་བསྟན།
+<literal>/five-arising type two-as shown/
+<liturgical><prose>Are shown as twofold.
+
+[55]
+<tibetan>།ཞེས་སོ།
+<literal>/thus/
+<liturgical><prose>Thus it is said.
+
+[56]
+<tibetan>།གཉིས་པ་སོ་སོའི་རང་བཞིན་རྒྱས་པར་བཤད་པ་ལ་གཉིས་ཏེ།
+<literal>/second individual-genitive nature extensive explain twofold/
+<liturgical><ornament>Second: Regarding the extensive explanation of individual natures, there are two:
+
+[57]
+<tibetan>ཕྱི་འབྱུང་རྒྱས་པར་བཤད་པ་དང༌།
+<literal>outer-arising extensive explain and*/
+<liturgical><prose>The extensive explanation of outer-arising,
+
+[58]
+<tibetan>ནང་འབྱུང་རྒྱས་པར་བཤད་པའོ།
+<literal>inner-arising extensive explain/
+<liturgical><prose>And the extensive explanation of inner-arising.
+
+[59]
+<tibetan>།དང་པོ་ལ།
+<literal>first to/
+<liturgical><prose>First among these:
+
+[60]
+<tibetan>ངོ་བོ།
+<literal>essence/
+<liturgical><prose>Essence, || 60 ||
+
+[61]
+<tibetan>ངེས་ཚིག
+<literal>definitive-terminology/
+<liturgical><break><prose> Definitive terminology,
+
+[62]
+<tibetan>དགོས་ཆེད།
+<literal>purpose/
+<liturgical><break><prose> Purpose,
+
+[63]
+<tibetan>མཚན་ཉིད།
+<literal>characteristic/
+<liturgical><prose>Characteristics,
+
+[64]
+<tibetan>ལས་རིམ།
+<literal>function-sequence/
+<liturgical><prose>Sequence of functions,
+
+[65]
+<tibetan>ཆོས་ཉིད།
+<literal>dharma-nature/
+<liturgical><prose>Dharma-nature,
+
+[66]
+<tibetan>དོན་སྦྱར།
+<literal>meaning-application/
+<liturgical><prose>Applied meaning,
+
+[67]
+<tibetan>གྲོལ་ཚུལ།
+<literal>liberation-manner/
+<liturgical><prose>Manner of liberation,
+
+[68]
+<tibetan>དབྱེ་བ།
+<literal>division/
+<liturgical><prose>Divisions,
+
+[69]
+<tibetan>ཚང་ཚུལ་དང་བཅུ་ལས།
+<literal>completeness-manner and ten-from/
+<liturgical><prose>And the tenfold manner of completeness.
+
+[70]
+<tibetan>དང་པོ་ངོ་བོ་ནི།
+<literal>first essence is/
+<liturgical><prose>First, the essence: || 70 ||
+
+[71]
+<tibetan>ཕྱི་འབྱུང་གཟུགས་སུ་སྣང་བ་ནང་འབྱུང་དངོས་ཀྱི་རོལ་པ་ཡིན་པས།
+<literal>outer-arising form-as appearance inner-arising actuality-genitive play is therefore/
+<liturgical><prose>Outer-arising appearing as form is the play of inner-arising's actuality;
+
+[72]
+<tibetan>ནང་གི་ཁོངས་སུ་འདུ་བས་ན་འབྱུང་བ་ལྔ་སྟེ།
+<literal>inner-genitive category-within gather therefore five-arising/
+<liturgical><prose>Therefore, gathered within the inner domain, these are the five-arising.
+
+[73]
+<tibetan>རང་ཤར་ལས།
+<literal>self-arisen from/
+<liturgical><prose>From the Self-Arisen:
+
+[74]
+<tibetan>ཕྱི་ཡི་འབྱུང་བ་འདི་ལྟ་སྟེ།
+<literal>outer-arising this-like/
+<liturgical><prose>The outer-arising are thus:
+
+[75]
+<tibetan>།ས་དང་ཆུ་དང་མེ་དང་ནི།
+<literal>earth and water and fire and/
+<liturgical><prose>Earth and water and fire,
+
+[76]
+<tibetan>།དེ་བཞིན་རླུང་དང་ནམ་མཁའ་འོ།
+<literal>likewise wind and space*/
+<liturgical><prose>And likewise wind and space.
+
+[77]
+<tibetan>།ཞེས་པས།
+<literal>thus stated/
+<liturgical><prose>Thus it is said.
+
+[78]
+<tibetan>ཕྱི་འབྱུང་གཟུགས་ལྔ་ནི་སེམས་ཅན་གྱི་རྟེན་སྣོད་ཀྱི་སྣང་བར་ཆགས་ལ།
+<literal>outer-arising form-five sentient-being-genitive support-container-genitive appearance become/
+<liturgical><prose>The five forms of outer-arising become the appearing container-support for beings;
+
+[79]
+<tibetan>ནང་འབྱུང་དངོས་ལྔ་ནི་སེམས་དང་རིག་པའི་རྟེན་དུ་ཆགས་པ་སྟེ།
+<literal>inner-arising actuality-five mind and awareness-genitive support become/
+<liturgical><prose>The five actualities of inner-arising become the support for mind and awareness.
+
+[80]
+<tibetan>ཐལ་འགྱུར་ལས།
+<literal>thal-gyur from/
+<liturgical><prose>From the Thal 'gyur: || 80 ||
+
+[81]
+<tibetan>འབྱུང་བའི་འདོད་པ་འདི་ལྟ་སྟེ།
+<literal>arising-genitive assertion this-like/
+<liturgical><prose>The assertion regarding arising is thus:
+
+[82]
+<tibetan>།སྤྱི་མཐུན་ལས་ཀྱི་བྱེ་བྲག་ལས།
+<literal>general-common karma-genitive particularity-from/
+<liturgical><prose>From the particularities of general-common karma,
+
+[83]
+<tibetan>།སེམས་ཅན་ལས་ཀྱི་རྟེན་སོ་ཡིས།
+<literal>sentient-being karma-genitive support individual-by/
+<liturgical><prose>By individual karma-supports of beings,
+
+[84]
+<tibetan>།ཕྱི་ཡི་འབྱུང་བ་ལ་བརྟེན་ནས།
+<literal>outer-arising-upon rely/
+<liturgical><prose>Relying upon the outer-arising,
+
+[85]
+<tibetan>།ལས་དང་གསོ་དང་དབང་པོ་དང༌།
+<literal>karma and sustenance and faculty and*/
+<liturgical><prose>Karma, sustenance, and faculties,
+
+[86]
+<tibetan>།འཁོར་དང་སྐྱེ་བ་རྫོགས་པར་འདོད།
+<literal>entourage and birth complete assert/
+<liturgical><prose>Entourage and birth—complete.
+
+[87]
+<tibetan>།ཅེས་སོ།
+<literal>thus/
+<liturgical><prose>Thus.
+
+[88]
+<tibetan>།གཉིས་པ་ངེས་ཚིག་ནི།
+<literal>second definitive-terminology/
+<liturgical><prose>Second, the definitive terminology:
+
+[89]
+<tibetan>རང་ཤར་ལས།
+<literal>self-arisen from/
+<liturgical><prose>From the Self-Arisen:
+
+[90]
+<tibetan>འབྱུང་བའི་ངེས་ཚིག་འདི་ལྟ་སྟེ།
+<literal>arising-genitive definitive-terminology this-like/
+<liturgical><prose>The definitive terminology of arising is thus: || 90 ||
+
+[91]
+<tibetan>།བྱས་པས་མ་བྱུང་ལྷུན་གྱིས་གྲུབ།
+<literal>fabrication-by not-arisen spontaneously-accomplished/
+<liturgical><prose>Not made by fabrication, spontaneously complete;
+
+[92]
+<tibetan>།སྐྱེད་པར་བྱེད་པས་འབྱུང་བ་ཡིན།
+<literal>produce action-by arising is/
+<liturgical><prose>By that which produces, they are arising;
+
+[93]
+<tibetan>།འགྲོ་བ་ཡོངས་ལ་ཁྱབ་པས་འབྱུང་བ་ཆེན་པོ་ཡིན།
+<literal>migrating-being all pervade-by great-arising is/
+<liturgical><prose>Pervading all migrators, they are great-arising;
+
+[94]
+<tibetan>།ཅིག་ཅར་སྐྱེ་བས་འབྱུང་བ་ཆེན་པོ་ཡིན།
+<literal>simultaneous birth-by great-arising is/
+<liturgical><prose>By simultaneous birth, they are great-arising;
+
+[95]
+<tibetan>།རང་ལ་ཡོད་པས་འབྱུང་བ་ཆེན་པོ་ཡིན།
+<literal>self-in exist-by great-arising is/
+<liturgical><prose>Existing in themselves, they are great-arising;
+
+[96]
+<tibetan>།འགྱུར་བ་མེད་པས་འབྱུང་བ་ཆེན་པོ་ཡིན།
+<literal>change not-exist-by great-arising is/
+<liturgical><prose>Without change, they are great-arising;
+
+[97]
+<tibetan>།མཐུན་པར་སྣང་བས་འབྱུང་བ་ཆེན་པོ་ཡིན།
+<literal>harmonious appear-by great-arising is/
+<liturgical><prose>Appearing harmoniously, they are great-arising.
+
+[98]
+<tibetan>།འབྱུང་བ་ཆེན་པོའི་ངེས་ཚིག་དེ་བཞིན་ནོ།
+<literal>great-arising-genitive definitive-terminology thus/
+<liturgical><prose>The definitive terminology of great-arising—thus.
+
+[99]
+<tibetan>།ཞེས་སོ།
+<literal>thus/
+<liturgical><prose>Thus.
+
+[100]
+<tibetan>།གསུམ་པ་དགོས་ཆེད་ནི།
+<literal>third purpose/
+<liturgical><prose>Third, the purpose: || 100 ||
+
+[101]
+<tibetan>ཐལ་འགྱུར་ལས།
+<literal>thal-gyur from/
+<liturgical><prose>From the Thal 'gyur:
+
+[102]
+<tibetan>འབྱུང་བའི་དོགས་པ་འདི་ལྟ་སྟེ།
+<literal>arising-genitive purpose inquiry this-like/
+<liturgical><prose>The inquiry into arising's purpose is thus:
+
+[103]
+<tibetan>།ཆུས་ནི་དྭངས་མ་སྡུད་པ་དང༌།
+<literal>water clear-essence gather and*/
+<liturgical><prose>Water gathers the clear essence
+
+[104]
+<tibetan>།སྙིགས་མ་རྣམས་ནི་འབྱེད་པའི་ལས།
+<literal>impurity separate action/
+<liturgical><prose>And separates the impurities—this is its function.
+
+[105]
+<tibetan>།སོ་སོའི་ལུས་ལ་བྱེད་པས་ན།
+<literal>individual body-within act therefore/
+<liturgical><prose>As it acts within each individual body,
+
+[106]
+<tibetan>།དགོས་པ་ཚ་དང་གྲང་ངོ་ཤེས།
+<literal>purpose hot and cold know/
+<liturgical><prose>Its purpose is known as heat and cold.
+
+[107]
+<tibetan>།སས་ནི་གཞི་མ་འཛིན་པ་དང༌།
+<literal>earth foundation hold and*/
+<liturgical><prose>Earth holds the foundation
+
+[108]
+<tibetan>།གྲུབ་ཅིང་ཆགས་པའི་ལས་རྣམས་བྱེད།
+<literal>establish coherent action do/
+<liturgical><prose>And performs establishing and cohering functions.
+
+[109]
+<tibetan>།སྨིན་པས་རྩ་ལ་སོགས་པ་སྐྱེད།
+<literal>ripening-by root etcetera produce/
+<liturgical><prose>By ripening, it produces roots and so forth;
+
+[110]
+<tibetan>།དགོས་པ་ཀུན་རྫོབ་ཐིག་ལེ་ཤེས།
+<literal>purpose relative thig-le know/
+<liturgical><prose>Its purpose is known as the relative thigle. || 110 ||
+
+[111]
+<tibetan>།མེས་ནི་འབྱུང་བ་སྤེལ་བ་དང༌།
+<literal>fire arising increase and*/
+<liturgical><prose>Fire increases the arising
+
+[112]
+<tibetan>།སྨིན་ཅིང་གསལ་བའི་ལས་རྣམས་བྱེད།
+<literal>ripening clarity action do/
+<liturgical><prose>And performs ripening and clarifying functions.
+
+[113]
+<tibetan>།འབར་ཞིང་མཆེད་པས་མིག་སོགས་སྐྱེད།
+<literal>blazing spreading-by eye etcetera produce/
+<liturgical><prose>By blazing and spreading, it produces eyes and so forth;
+
+[114]
+<tibetan>།དགོས་པ་དྲོད་རྣམས་ཤེས་པར་བྱེད།
+<literal>purpose warmth know make/
+<liturgical><prose>Its purpose is made known as warmth.
+
+[115]
+<tibetan>།རླུང་གིས་གཏོར་དང་འདེགས་པ་དང༌།
+<literal>wind scatter lift and*/
+<liturgical><prose>Wind scatters and lifts
+
+[116]
+<tibetan>།བསྐྱོད་ཅིང་གཡོ་བའི་ལས་རྣམས་བྱེད།
+<literal>move quiver action do/
+<liturgical><prose>And performs moving and quivering functions.
+
+[117]
+<tibetan>།འགུལ་ཞིང་འཕྲིག་པས་ལུས་འཛིན་ཅིང༌།
+<literal>move tremble-by body hold/
+<liturgical><prose>By moving and trembling, it holds the body;
+
+[118]
+<tibetan>།དགོས་པ་སེམས་ཀྱི་གནས་པ་ཤེས།
+<literal>purpose mind-genitive abode know/
+<liturgical><prose>Its purpose is known as the abode of mind.
+
+[119]
+<tibetan>།འབྱུང་བ་བཞི་བདག་དཀྱིལ་འཁོར་ཆེ།
+<literal>four-arising self great-mandala/
+<liturgical><prose>The four arising—the great mandala of self—
+
+[120]
+<tibetan>།ལུས་སོགས་འགྲུབ་པའི་རྒྱུ་བྱས་ཏེ།
+<literal>body etcetera accomplish cause make/
+<liturgical><prose>Become the cause for accomplishing body and so forth, || 120 ||
+
+[121]
+<tibetan>།བར་དུ་གནས་ཤིང་འཛིན་པ་བྱས།
+<literal>middle abide hold action/
+<liturgical><prose>Abide in the middle and perform the holding function,
+
+[122]
+<tibetan>།ཐ་མ་འཇིག་པའི་ལས་ཀུན་བྱེད།
+<literal>end destroy action all do/
+<liturgical><prose>And in the end perform all destruction functions.
+
+[123]
+<tibetan>།འབྱུང་བ་ཆེན་པོ་རྒྱུ་གཅིག་པས།
+<literal>great-arising cause one-by/
+<liturgical><prose>Through one cause, the great arising
+
+[124]
+<tibetan>།སྣ་ཚོགས་བྱེད་པའི་བདག་པོར་སྣང༌།
+<literal>various doer master appear*/
+<liturgical><prose>Appear as the master performing the various.
+
+[125]
+<tibetan>།དེས་ན་དགོངས་པ་རང་དང་གཞན།
+<literal>thus intention self and other/
+<liturgical><prose>Thus, regarding intention, self and other,
+
+[126]
+<tibetan>།བྱ་བ་རྫོགས་པའི་དོན་ལ་མཁས།
+<literal>action complete meaning skilled/
+<liturgical><prose>Skilled in the meaning of completed action.
+
+[127]
+<tibetan>།ཞེས་སོ།
+<literal>thus/
+<liturgical><prose>Thus.
+
+[128]
+<tibetan>།བཞི་པ་མཚན་ཉིད་ནི་ལྔ་ལས།
+<literal>fourth characteristic five-from/
+<liturgical><prose>Fourth, the characteristics—from among five:
+
+[129]
+<tibetan>།སའི་མཚན་ཉིད་སྲ་བ།
+<literal>earth-characteristic solidity/
+<liturgical><prose>Earth-characteristic: solidity.
+
+[130]
+<tibetan>ཆུའི་མཚན་ཉིད་གཤེར་བ།
+<literal>water-genitive characteristic moisture/
+<liturgical><prose>Water-characteristic: moisture. || 130 ||
+
+[131]
+<tibetan>མེའི་མཚན་ཉིད་དྲོ་བ།
+<literal>fire-genitive characteristic warmth/
+<liturgical><prose>Fire-characteristic: warmth.
+
+[132]
+<tibetan>རླུང་གི་མཚན་ཉིད་གཡོ་བ།
+<literal>wind-genitive characteristic movement/
+<liturgical><prose>Wind-characteristic: movement.
+
+[133]
+<tibetan>ནམ་མཁའི་མཚན་ཉིད་གོ་འབྱེད་ལ་ཡངས་པའོ།
+<literal>space-genitive characteristic open spacious/
+<liturgical><prose>Space-characteristic: openness and spaciousness.
+
+[134]
+<tibetan>།ལྔ་པ་ལས་རིམ་ནི།
+<literal>fifth function-sequence is/
+<liturgical><prose>Fifth, the sequence of functions:
+
+[135]
+<tibetan>ཐལ་འགྱུར་ལས།
+<literal>thal-gyur from/
+<liturgical><prose>From the Thal 'gyur:
+
+[136]
+<tibetan>ནང་འབྱུང་ལས་ཀྱི་རིམ་པ་ནི།
+<literal>inner-arising karma-genitive sequence is/
+<liturgical><prose>The sequence of inner-arising's functions:
+
+[137]
+<tibetan>།སས་ནི་ལུས་ཀྱི་གཞི་བྱས་ཏེ།
+<literal>earth body-genitive basis make/
+<liturgical><prose>Earth makes the body's basis;
+
+[138]
+<tibetan>།བསྐྱེད་པས་ཤ་ཡི་སྨིན་སོར་འདོད།
+<literal>produce-by flesh-genitive ripening assert/
+<liturgical><prose>By producing, flesh ripening is asserted.
+
+[139]
+<tibetan>།ཆུས་ནི་ལུས་ཀུན་བསྡུས་ནས་ནི།
+<literal>water body-all gather/
+<liturgical><prose>Water gathers the entire body;
+
+[140]
+<tibetan>།བསྐྱེད་པས་ཁྲག་ཏུ་སྨིན་པར་འདོད།
+<literal>produce-by blood-to ripening assert/
+<liturgical><prose>By producing, blood ripening is asserted. || 140 ||
+
+[141]
+<tibetan>།མེས་ནི་ལུས་ཀུན་སྨིན་བྱས་ཏེ།
+<literal>fire body-all ripening make/
+<liturgical><prose>Fire ripens the entire body;
+
+[142]
+<tibetan>།བསྐྱེད་པས་དྲོད་དུ་སྨིན་པར་འདོད།
+<literal>produce-by warmth-to ripening assert/
+<liturgical><prose>By producing, warmth ripening is asserted.
+
+[143]
+<tibetan>།རླུང་གིས་ལུས་ཀུན་འདེགས་པ་ལ།
+<literal>wind body-all lift to/
+<liturgical><prose>Wind lifts the entire body;
+
+[144]
+<tibetan>།བསྐྱེད་པས་དབུགས་སུ་སྨིན་པར་བྱེད།
+<literal>produce-by breath-to ripening make/
+<liturgical><prose>By producing, breath ripening is made.
+
+[145]
+<tibetan>།ཅེས་སོ།
+<literal>thus/
+<liturgical><prose>Thus.
+
+[146]
+<tibetan>།དྲུག་པ་ཆོས་ཉིད་ནི།
+<literal>sixth dharma-nature is/
+<liturgical><prose>Sixth, the dharma-nature:
+
+[147]
+<tibetan>སྤྱིར་སྟོང་པ་ཡིན་ཡང་འདིར་རང་གི་མཚན་ཉིད་འཛིན་པའི་ཆོས་ཉིད་ཀྱི་དབང་དུ་བྱས་པའི་ཆོས་ཉིད་ནི།
+<literal>generally empty though here self-genitive characteristic-hold dharma-nature authority-under made dharma-nature/
+<liturgical><prose>Though generally empty, here the dharma-nature that holds its own characteristic, made authoritative as dharma-nature:
+
+[148]
+<tibetan>རང་ཤར་ལས།
+<literal>self-arisen from/
+<liturgical><prose>From the Self-Arisen:
+
+[149]
+<tibetan>འབྱུང་བ་ལྔ་ཡི་ཆོས་ཉིད་ནི།
+<literal>five-arising dharma-nature is/
+<liturgical><prose>The dharma-nature of the five-arising:
+
+[150]
+<tibetan>།འབྱུང་བའི་རྒྱུ་ནི་ས་ཡིན་ནོ།
+<literal>arising-genitive cause earth/
+<liturgical><prose>Arising's cause is earth. || 150 ||
+
+[151]
+<tibetan>།འབྱུང་བའི་ཤེས་རབ་མེ་ཡིན་ནོ།
+<literal>arising-genitive wisdom fire/
+<liturgical><prose>Arising's wisdom is fire.
+
+[152]
+<tibetan>།འབྱུང་བའི་སྤྲུལ་པ་རླུང་ཡིན་ནོ།
+<literal>arising-genitive emanation wind/
+<liturgical><prose>Arising's emanation is wind.
+
+[153]
+<tibetan>།འབྱུང་བའི་བདག་པོ་ཆུ་ཡིན་ཏེ།
+<literal>arising-genitive master water/
+<liturgical><prose>Arising's master is water.
+
+[154]
+<tibetan>།འབྱུང་བའི་ཆོས་ཉིད་ནམ་མཁའ་འོ།
+<literal>arising-genitive dharma-nature space/
+<liturgical><prose>Arising's dharma-nature is space.
+
+[155]
+<tibetan>།ཞེས་སོ།
+<literal>thus/
+<liturgical><prose>Thus.
+
+[156]
+<tibetan>།བདུན་པ་དོན་སྦྱར་ལ་གཉིས་ལས།
+<literal>seventh meaning-application twofold/
+<liturgical><prose>Seventh, the application of meaning—from two:
+
+[157]
+<tibetan>འབྱུང་ལྔ་ངོ་བོའི་དོན་སྦྱར་ནི།
+<literal>five-arising essence-genitive meaning-application/
+<liturgical><prose>The application of meaning to the five-arising's essence:
+
+[158]
+<tibetan>།དེ་ཉིད་ལས།
+<literal>that-very from/
+<liturgical><prose>From That Very:
+
+[159]
+<tibetan>འབྱུང་བའི་དོན་སྦྱར་འདི་ལྟ་སྟེ།
+<literal>arising-genitive meaning-application this-like/
+<liturgical><prose>The application of meaning to arising is thus:
+
+[160]
+<tibetan>།ཆོས་སྐུ་གདོད་ནས་དག་པའི་རང་བཞིན་ལ།
+<literal>dharma-body primordially-pure nature-in/
+<liturgical><prose>Within Dharmakāya nature, primordially pure, || 160 ||
+
+[161]
+<tibetan>།ངོ་བོ་འགྱུར་བ་མེད་པས་འབྱུང་བ་ས་ཡང་ཡིན།
+<literal>essence change not-exist-by arising earth also/
+<liturgical><prose>By essence without change, arising-earth also is.
+
+[162]
+<tibetan>།རིག་པའི་ཡེ་ཤེས་དོན་ལ་སྤྱོད་པས་འབྱུང་བ་མེ་ཡང་ཡིན།
+<literal>awareness-wisdom meaning engage-by arising fire also/
+<liturgical><prose>By awareness-wisdom engaging meaning, arising-fire also is.
+
+[163]
+<tibetan>།རིག་པའི་ཡེ་ཤེས་མ་བསྐྱོད་དབྱིངས་སུ་གཤེགས་པས་འབྱུང་བ་རླུང་ཡང་ཡིན།
+<literal>awareness-wisdom not-move expanse-to gone-by arising wind also/
+<liturgical><prose>By awareness-wisdom, unmoved, gone into expanse, arising-wind also is.
+
+[164]
+<tibetan>།རིག་པའི་ཡེ་ཤེས་སྦུབས་གསུམ་གཅིག་ཏུ་འདྲིལ་བས་འབྱུང་བ་ཆུ་ཡང་ཡིན།
+<literal>awareness-wisdom three-cavity one gather-by arising water also/
+<liturgical><prose>By awareness-wisdom gathering three cavities as one, arising-water also is.
+
+[165]
+<tibetan>།ཡེ་ཤེས་སྟོང་གསལ་གཉིས་མེད་ངང་དུ་ཐིམ་པས་འབྱུང་བ་ནམ་མཁའ་ཡིན།
+<literal>wisdom empty-luminous nondual manner-in dissolve-by arising space/
+<liturgical><prose>By wisdom dissolving into nondual empty-luminous manner, arising-space is.
+
+[166]
+<tibetan>།ཞེས་སོ།
+<literal>thus/
+<liturgical><prose>Thus.
+
+[167]
+<tibetan>།འབྱུང་ལྔ་སོ་སོའི་དོན་ནང་དུ་རིག་པ་དང་སྦྱར་བའི་དོན་སྦྱར་ནི།
+<literal>five-arising individual-genitive meaning inner awareness-with connect meaning-application/
+<liturgical><prose>The application of meaning connecting the five-arising's individual meanings with inner awareness:
+
+[168]
+<tibetan>ནོར་བུ་འཕྲ་བཀོད་ལས།
+<literal>nor-bu-phra-bkod from/
+<liturgical><prose>From the Norbu 'phrul bkod:
+
+[169]
+<tibetan>ཕྱི་འབྱུང་བ་ལྔ་ཉིད་ཐུན་མོང་རང་རྒྱུད་ཀྱི་ཆོས་ཡིན་ཏེ།
+<literal>outer-five-arising common self-continuum dharma/
+<liturgical><prose>The five outer-arising are the common dharma of self-continuum;
+
+[170]
+<tibetan>ཕྱིར་སྣང་བའི་འབྱུང་བ་ཐམས་ཅད་རང་གི་རིག་པ་ཉིད་དང་སྦྱོར་བས་ན་ཐུན་མོང་གི་ཆོས་ཡིན་ཏེ།
+<literal>outer-appear arising all self-awareness itself connect-by common dharma/
+<liturgical><prose>By connecting all outer-appearing arising with self-awareness itself, they are the common dharma. || 170 ||
+
+[171]
+<tibetan>དེ་ཡང་དབྱེ་བ་འདི་ལྟ་སྟེ།
+<literal>that-also division thus/
+<liturgical><prose>The divisions are thus:
+
+[172]
+<tibetan>སའི་མཚན་ཉིད་སྲ་བར་བྱེད་པ་ཉིད་ཀྱང༌།
+<literal>earth-genitive characteristic solid make also*/
+<liturgical><prose>Earth-characteristic, making solidity, also—
+
+[173]
+<tibetan>རིག་པའི་ཡེ་ཤེས་སྐྱེ་འཇིག་དང་བྲལ་བར་སྦྱོར་རོ།
+<literal>awareness-wisdom birth-cease from free connect/
+<liturgical><prose>Connects with awareness-wisdom free from birth and destruction.
+
+[174]
+<tibetan>།རླུང་གི་མཚན་ཉིད་འདེགས་པར་བྱེད་པ་ཉིད་ཀྱང༌།
+<literal>wind-genitive characteristic lift make also*/
+<liturgical><prose>Wind-characteristic, making lifting,
+
+[175]
+<tibetan>རིག་པའི་ཡེ་ཤེས་ཐོགས་པ་མེད་པ་དང་སྦྱོར་རོ།
+<literal>awareness-wisdom obstruction without connect/
+<liturgical><prose>Connects with awareness-wisdom without obstruction.
+
+[176]
+<tibetan>།མེའི་མཚན་ཉིད་སྲེག་པར་བྱེད་པ་ཉིད་ཀྱང༌།
+<literal>fire-genitive characteristic burn make also*/
+<liturgical><prose>Fire-characteristic, making burning,
+
+[177]
+<tibetan>རིག་པའི་ཡེ་ཤེས་ཉོན་མོངས་པའི་དབང་དུ་སོང་བ་ཉིད་དང་སྦྱོར་རོ།
+<literal>awareness-wisdom affliction power under gone also connect/
+<liturgical><prose>Connects with awareness-wisdom gone under afflictions' authority.
+
+[178]
+<tibetan>།ཆུའི་མཚན་ཉིད་བརླན་པར་བྱེད་པ་ཉིད་ཀྱང༌།
+<literal>water-genitive characteristic moisten make also*/
+<liturgical><prose>Water-characteristic, making moistening,
+
+[179]
+<tibetan>རིག་པའི་ཡེ་ཤེས་ཡུལ་ཀུན་ལ་འཇུག་པ་དང་སྦྱོར་རོ།
+<literal>awareness-wisdom object all-to engage connect/
+<liturgical><prose>Connects with awareness-wisdom entering all objects.
+
+[180]
+<tibetan>།ནམ་མཁའི་མཚན་ཉིད་ཡངས་པ་ཉིད་ཀྱང༌།
+<literal>space-genitive characteristic spacious also*/
+<liturgical><prose>Space-characteristic, vastness, || 180 ||
+
+[181]
+<tibetan>རིག་པའི་མཚན་ཉིད་རྒྱ་མ་ཆད་པ་དང་སྦྱར་བར་བྱའོ་ཞེས་སོ།
+<literal>awareness-characteristic break not cut connect should-do thus stated/
+<liturgical><prose>Connects with awareness-characteristic without break in continuity—thus it is said.
+
+[182]
+<tibetan>།བརྒྱད་པ་འབྱུང་ལྔའི་གྲོལ་ཚུལ་ནི།
+<literal>eighth five-arising liberation-manner is/
+<liturgical><prose>Eighth, the manner of the five-arising's liberation:
+
+[183]
+<tibetan>མུ་ཏིག་ཕྲེང་བ་ལས།
+<literal>mu-tig-phreng-ba from/
+<liturgical><prose>From the Mu tig phreng ba:
+
+[184]
+<tibetan>ནམ་མཁའ་ཉིད་ནི་ཁྱབ་སྟོང་པས།
+<literal>space itself pervade empty-by/
+<liturgical><prose>Space itself, by pervading emptiness,
+
+[185]
+<tibetan>།ནམ་མཁའ་ཉིད་ནི་དངོས་པོར་གྲོལ།
+<literal>space itself entity-as liberate/
+<liturgical><prose>Space itself liberates as entity.
+
+[186]
+<tibetan>།རླུང་ནི་གཟུང་ཡུལ་མེད་སྣང་བས།
+<literal>wind grasp object without appear-by/
+<liturgical><prose>Wind, by appearing without graspable object,
+
+[187]
+<tibetan>།དངོས་པོ་སྡུད་པའི་ལས་སུ་གྲོལ།
+<literal>entity gather action-as liberate/
+<liturgical><prose>Liberates into entity-gathering's function.
+
+[188]
+<tibetan>།མེ་ནི་སྨིན་བྱེད་བྱིན་ཟ་བས།
+<literal>fire ripen make consume-by/
+<liturgical><prose>Fire, by consuming what ripens,
+
+[189]
+<tibetan>།བསྐྱོད་ཅིང་དྭངས་སྙིགས་འབྱེད་པར་གྲོལ།
+<literal>move clear impure separate-by liberate/
+<liturgical><prose>Liberates by moving and separating clear from impure.
+
+[190]
+<tibetan>།ས་ནི་སྐྱེད་བྱེད་འདེགས་པ་ན།
+<literal>earth produce make lift when/
+<liturgical><prose>Earth, when making the producer lift, || 190 ||
+
+[191]
+<tibetan>།དངོས་མེད་མཐའ་ཡས་སྟོང་པར་གྲོལ།
+<literal>entity without limitless empty-as liberate/
+<liturgical><prose>Liberates into limitless empty non-entity.
+
+[192]
+<tibetan>།ཆུ་ནི་སྡུད་བྱེད་བརླན་པས་ན།
+<literal>water gather make moisten-by/
+<liturgical><prose>Water, by moistening what gathers,
+
+[193]
+<tibetan>།སྲེག་བྱེད་སྨིན་པའི་ལས་སུ་གྲོལ།
+<literal>burn make ripen action-as liberate/
+<liturgical><prose>Liberates into burning-ripening's function.
+
+[194]
+<tibetan>།ཅེས་སོ།
+<literal>thus/
+<liturgical><prose>Thus.
+
+[195]
+<tibetan>།དུག་པ་དབྱེ་ན།
+<literal>element division analyze/
+<liturgical><prose>Explaining divisions:
+
+[196]
+<tibetan>འབྱུང་བ་ལྔ་པོ་རེ་རེ་ཞེང་སའི་ས་ལ་སོགས་པ་ལྔ་ཚན་ལྔ་སྟེ།
+<literal>five-arising each-one vast earth earth etc. five set five/
+<liturgical><prose>Each of the five-arising—earth of earth, and so forth—five sets of five;
+
+[197]
+<tibetan>རྣམ་གྲངས་ཆ་ཤས་ཉི་ཤུ་རྩ་ལྔ་ནི།
+<literal>enumeration portion twenty-five/
+<liturgical><prose>Enumeration of portions: twenty-five.
+
+[198]
+<tibetan>ཡང་དེ་ཉིད་ལས།
+<literal>again that-very from/
+<liturgical><prose>Again from That Very:
+
+[199]
+<tibetan>ནམ་མཁའི་རླུང་ནི་དངོས་པོ་ལ།
+<literal>space-genitive wind entity-to/
+<liturgical><prose>Space's wind toward entity,
+
+[200]
+<tibetan>།ནམ་མཁའི་མེས་ནི་སྡུད་པར་བྱེད།
+<literal>space-genitive fire gather make/
+<liturgical><prose>Space's fire makes gathering, || 200 ||
+
+[201]
+<tibetan>།ནམ་མཁའི་ཆུས་ནི་སྲེག་བྱེད་པ།
+<literal>space-genitive water burn make/
+<liturgical><prose>Space's water makes burning,
+
+[202]
+<tibetan>།ནམ་མཁའི་ས་ཡིས་གོ་སྐབས་འབྱེད།
+<literal>space-genitive earth opportunity open/
+<liturgical><prose>Space's earth opens opportunity,
+
+[203]
+<tibetan>།ནམ་མཁའི་ནམ་མཁའ་སྣང་བའོ།
+<literal>space-genitive space appear/
+<liturgical><prose>Space's space appears.
+
+[204]
+<tibetan>།རླུང་གི་རླུང་ནི་བརྟན་པ་ལ།
+<literal>wind-genitive wind stability-to/
+<liturgical><prose>Wind's wind toward stability,
+
+[205]
+<tibetan>།རླུང་གི་ནམ་མཁའ་ཡེ་གདངས་ཆེ།
+<literal>wind-genitive space sound-potential great/
+<liturgical><prose>Wind's space: great sound-potential,
+
+[206]
+<tibetan>།རླུང་གི་ཆུ་ནི་མྱུར་མགྱོགས་ཆེ།
+<literal>wind-genitive water speed quickness great/
+<liturgical><prose>Wind's water: great quickness and speed,
+
+[207]
+<tibetan>།རླུང་གི་མེ་ནི་འཕེན་སྡུད་ཆེ།
+<literal>wind-genitive fire project gather great/
+<liturgical><prose>Wind's fire: great projection and gathering,
+
+[208]
+<tibetan>།རླུང་གི་ས་ནི་གཟུགས་བརྙན་གསལ།
+<literal>wind-genitive earth form-image clear/
+<liturgical><prose>Wind's earth: clear form-reflection.
+
+[209]
+<tibetan>།ཆུ་ཡི་ཆུ་ནི་སྒྲ་བརྙན་ཡིན།
+<literal>water-genitive water sound-echo/
+<liturgical><prose>Water's water: sound-echo,
+
+[210]
+<tibetan>།ཆུ་ཡི་ནམ་མཁའ་ཐོགས་པ་མེད།
+<literal>water-genitive space obstruction without/
+<liturgical><prose>Water's space: without obstruction, || 210 ||
+
+[211]
+<tibetan>།ཆུ་ཡི་རླུང་ནི་ཆགས་མེད་རྒྱུག
+<literal>water-genitive wind attachment without flow/
+<liturgical><break><prose> Water's wind: flows attachment-free,
+
+[212]
+<tibetan>།ཆུ་ཡི་མེ་ནི་སྡུད་པར་བྱེད།
+<literal>water-genitive fire gather make/
+<liturgical><break><prose> Water's fire: makes gathering,
+
+[213]
+<tibetan>།ཆུ་ཡི་སས་ནི་ཁྱབ་པར་བྱེད།
+<literal>water-genitive earth pervade make/
+<liturgical><prose>Water's earth: makes pervading.
+
+[214]
+<tibetan>།མེ་ཡི་ས་ནི་སྐྱེད་པར་བྱེད།
+<literal>fire-genitive earth produce make/
+<liturgical><prose>Fire's earth: makes producing,
+
+[215]
+<tibetan>།མེ་ཡི་ནམ་མཁས་དངོས་པོ་བསྲེག
+<literal>fire-genitive space entity burn/
+<liturgical><break><prose> Fire's space: burns entity,
+
+[216]
+<tibetan>།མེ་ཡི་རླུང་གིས་འབར་བར་བྱེད།
+<literal>fire-genitive wind blaze make/
+<liturgical><break><prose> Fire's wind: makes blazing,
+
+[217]
+<tibetan>།མེ་ཡི་ཆུས་ནི་བརླག་པར་བྱེད།
+<literal>fire-genitive water destroy make/
+<liturgical><prose>Fire's water: makes destroying,
+
+[218]
+<tibetan>།མེ་ཡི་སས་ནི་འཛིན་པའོ།
+<literal>fire-genitive earth hold/
+<liturgical><prose>Fire's earth: holds.
+
+[219]
+<tibetan>།ས་ཡི་སས་ནི་འགྲོ་བ་ཁྱབ།
+<literal>earth-genitive earth being all pervade/
+<liturgical><prose>Earth's earth: pervades migrators,
+
+[220]
+<tibetan>།ས་ཡི་ནམ་མཁའ་ཐེག་ཆེན་ཏེ།
+<literal>earth-genitive space vehicle great/
+<liturgical><prose>Earth's space: the mahayana, || 220 ||
+
+[221]
+<tibetan>།ས་ཡི་རླུང་གིས་གངས་སྟོངས་བྱེད།
+<literal>earth-genitive wind snow empty make/
+<liturgical><prose>Earth's wind: makes snow-empty,
+
+[222]
+<tibetan>།ས་ཡི་ཆུས་ནི་དངོས་པོ་བསྐྱེད།
+<literal>earth-genitive water entity produce/
+<liturgical><prose>Earth's water: produces entity,
+
+[223]
+<tibetan>།ས་ཡི་མེས་ནི་སྐེམས་པའོ།
+<literal>earth-genitive fire dry/
+<liturgical><prose>Earth's fire: dries.
+
+[224]
+<tibetan>།ཞེས་སོ།
+<literal>thus/
+<liturgical><prose>Thus.
+
+[225]
+<tibetan>།འདི་དག་གི་ཁྱད་པར་ལ་བསླབས་པས་ཡོན་ཏན་ཁྱད་པར་ཅན་རེ་རེ་འགྲུབ་པར་དེའི་འགྲེལ་པ་ལས་བཤད་ལ།
+<literal>these distinction-in train-by quality special one-one accomplish that commentary-in explain/
+<liturgical><prose>By training in these distinctions, distinguished qualities; each accomplished. In that commentary it is explained—
+
+[226]
+<tibetan>སྒྲ་ཐལ་འགྱུར་ལས་ཀྱང་འབྱུང་བའི་སྒྲ་དོན་ལ་བསླབས་པས་ཐུན་མོང་གི་དངོས་གྲུབ་ཐོབ་པར་གསུངས་ཏེ།
+<literal>sound thal-gyur from also arising-genitive sound-meaning train-by common attainment obtain stated/
+<liturgical><prose>Therefore, from the Sound Thal 'gyur also, it is stated that by training in the elements' sound-meaning, common attainments are obtained.
+
+[227]
+<tibetan>དེ་ཡི་སྒྲ་དོན་བྱེ་བྲག་གིས།
+<literal>that sound-meaning particularity-by/
+<liturgical><prose>By that sound-meaning's particularities,
+
+[228]
+<tibetan>།སྤྱི་ཡི་རྣམ་པ་ངེས་བསྟན་པ།
+<literal>general form definite show/
+<liturgical><prose>Definite showing of general forms.
+
+[229]
+<tibetan>།གཟུགས་ལ་བསླབས་པས་ལུས་ཟད་འགྱུར།
+<literal>form train-by body exhaust become/
+<liturgical><prose>By training in form, body becomes exhausted.
+
+[230]
+<tibetan>།སྒྲ་ཡིས་སྐད་རྣམས་ཤེས་པར་འགྱུར།
+<literal>sound-by language know become/
+<liturgical><prose>By sound, languages are known. || 230 ||
+
+[231]
+<tibetan>།དྲིས་ནི་བཅུད་ཀྱིས་ལེན་པ་འགྲུབ།
+<literal>smell-by essence take accomplish/
+<liturgical><prose>By smell, taking essence is accomplished.
+
+[232]
+<tibetan>།རོས་ནི་དངོས་པོ་བདུད་རྩིར་འགྱུར།
+<literal>taste-by entity nectar become/
+<liturgical><prose>By taste, entity becomes nectar.
+
+[233]
+<tibetan>།ཅེས་པ་དང༌།
+<literal>thus stated and*/
+<liturgical><prose>Thus it is said; and
+
+[234]
+<tibetan>གསང་པ་སྤྱོད་པ་ས་བོན་གྱི་རྒྱུད་ལས།
+<literal>secret conduct seed tantra from/
+<liturgical><tantra>From the Secret Conduct Seed Tantra:
+
+[235]
+<tibetan>ས་ཆུ་མེ་རླུང་འབྱུང་བ་བཞིའི།
+<literal>earth water fire wind arising four/
+<liturgical><prose>Earth, water, fire, wind—
+
+[236]
+<tibetan>།སྒྲ་དོན་རྣམས་ལ་གོམས་པ་ཡིས།
+<literal>sound-meaning train become-by/
+<liturgical><prose>The four elements' sounds and meanings,
+
+[237]
+<tibetan>།རིགས་དྲུག་རྣམས་ཀྱི་རང་སྐད་ཀྱི།
+<literal>six-race self-sound/
+<liturgical><prose>By becoming familiar,
+
+[238]
+<tibetan>།མངོན་ཤེས་འཆར་བ་འདིས་འགྲུབ་བོ།
+<literal>clairvoyance arise this accomplish/
+<liturgical><prose>The six races' self-sounds
+
+[239]
+<tibetan>།ཞེས་སོ།
+<literal>thus/
+<liturgical><prose>Arising clairvoyance accomplishes.
+
+[240]
+<tibetan>།དེ་དག་ནི་ཕྱིའི་འབྱུང་བ་རྣམས་ཏེ་སེམས་ཅན་ཀུན་གྱི་རྟེན་དང་གནས་སོ།
+<literal>these outer-arising being all-genitive support and abode/
+<liturgical><prose>Thus. || 240 ||
+
+[241]
+<tibetan>།བཅུ་པ་དེ་དང་གཞན་ཡང་འཁོར་འདས་ཀྱི་ཆོས་རྣམས་རྣལ་འབྱོར་པའི་ལུས་སེམས་ལ་ཚང་ཚུལ་བསྟན་པ་ལ་གསུམ་སྟེ།
+<literal>tenth that-and-other samsara-nirvana dharma yogi body-mind-in completeness manner show three/
+<liturgical><prose>These are the outer-arising—all beings' support and abode.
+
+[242]
+<tibetan>ཆ་མཐུན་གྱི་ཚང་ཚུལ་སྤྱིར་བསྟན།
+<literal>partial-similar completeness manner general show/
+<liturgical><prose>Tenth, regarding that and also other topics—the manner of showing how saṃsāra-nirvāṇa dharmas are complete in the yogi's body-mind—threefold:
+
+[243]
+<tibetan>ལུས་སེམས་ལ་ཚང་ཚུལ་བྱེ་བྲག་ཏུ་བཤད།
+<literal>body-mind completeness manner particular explain/
+<liturgical><prose>Generally showing the partial-similarity completeness manner,
+
+[244]
+<tibetan>བརྡ་ཆེན་ངེས་པའི་རོལ་མོས་གོ་བར་བྱ་བའོ།
+<literal>great-symbol definite play understand make/
+<liturgical><prose>Explaining in particular the body-mind completeness manner,
+
+[245]
+<tibetan>།དང་པོ་ནི།
+<literal>first/
+<liturgical><prose>Making understood through the play of great definite symbols.
+
+[246]
+<tibetan>འགྲོ་བ་རྣམས་ཀྱི་ལུས་སེམས་ཚོགས་པའི་ཆོས་འདི་ལ་ཐམས་ཅད་ཡེ་ནས་ཆ་ཚང་དུ་རང་ཤར་ཏེ།
+<literal>migrator body-mind gather dharma this-in all primordial part-complete self-arise/
+<liturgical><ornament>First:
+
+[247]
+<tibetan>ཐབས་ཤེས་རབ་ཀྱི་ཆར་ཕ་དང་མ།
+<literal>method-wisdom portion father and mother/
+<liturgical><prose>In this dharma of gathered body-mind of migrators, all primordially self-arise with complete parts—
+
+[248]
+<tibetan>ཆོས་སྐུ་བྱང་ཆུབ་ཀྱི་ཆར་འཕེན་པ་ལས་ཀྱི་རླུང༌།
+<literal>dharma-body awakening portion project karma-wind/
+<liturgical><prose>Father and mother as method and wisdom's portion;
+
+[249]
+<tibetan>རིགས་ལྔ་ཡེ་གདངས་ཀྱི་ཆར་འབྱུང་ལྔའི་ས་བོན།
+<literal>five-family sound-potential portion five-arising seed/
+<liturgical><prose>Karma-projecting wind as Dharmakāya-awakening's portion;
+
+[250]
+<tibetan>ལམ་ཚོགས་གཉིས་ཐབས་ཤེས་ཟུང་འཇུག་གི་ཆར་སྙོམས་འཇུག་གི་དངས་མ་གཉིས།
+<literal>path-two-accumulation method-wisdom union portion meditative-equipoise essence-two/
+<liturgical><prose>Five elements' seeds as five families' sound-potential's portion; || 250 ||
+
+[251]
+<tibetan>གཞི་དབྱིངས་ན་གནས་པའི་ཆར་མངལ་དུ་གནས་པ།
+<literal>base-expanse-in abide portion womb-in abide/
+<liturgical><prose>Two equipoise essences as path's two accumulations' method-wisdom union's portion;
+
+[252]
+<tibetan>ཁམས་བདུན་རྣམ་དག་གི་ལམ་བདུན་རྫོགས་པའི་ཆར་ཞག་བདུན་ཚན་བདུན་གྱིས་ལུས་ཆགས་ཚུལ།
+<literal>seven-element pure path-seven complete portion day seven-set seven body-form manner/
+<liturgical><prose>Womb-abiding as base-expanse-abiding's portion;
+
+[253]
+<tibetan>ས་བཅུ་རྫོགས་པའི་ཆར་མངལ་གནས་ཟླ་བ་བཅུ།
+<literal>ten-ground complete portion womb-abide month ten/
+<liturgical><prose>Body forming in seven seven-day sets as seven pure elements' seven paths' completing's portion;
+
+[254]
+<tibetan>ལམ་རྫོགས་ནས་སྐུ་གསུམ་དུ་སངས་རྒྱས་པའི་ཆར།
+<literal>path-complete-from three-body buddha portion/
+<liturgical><prose>Ten womb months as ten grounds' completing's portion;
+
+[255]
+<tibetan>བཙས་པ་སྤྲུལ་སྐུ།
+<literal>birth emanation-body/
+<liturgical><prose>Three-kaya buddhahood as path-completing's portion;
+
+[256]
+<tibetan>ལུས་གནས་ཏེ་ཡུལ་ལ་སྤྱོད་པ་ལོངས་སྐུ།
+<literal>body abide object engage enjoyment-body/
+<liturgical><prose>Birth as emanation-body;
+
+[257]
+<tibetan>ཤི་བ་ཆོས་སྐུ་སྟོང་པའི་ཆར་ཤར་བས།
+<literal>death dharma-body empty portion arise-by/
+<liturgical><prose>Body-abiding engaging fields as enjoyment-body;
+
+[258]
+<tibetan>འགྲོ་བ་རྣམས་ཡེ་ནས་གཞི་ལམ་འབྲས་བུ་བགྲོད་ནས་གྲོལ་བའི་ཚུལ་ཏེ།
+<literal>migrator primordial base-path-result traverse liberate manner/
+<liturgical><prose>Death as Dharmakāya emptiness's portion arising;
+
+[259]
+<tibetan>མུ་ཏིག་ཕྲེང་བ་ལས།
+<literal>mu-tig-phreng-ba from/
+<liturgical><prose>The manner in which migrators, primordially traversing base-path-result, are liberated.
+
+[260]
+<tibetan>བཅོམ་ལྡན་འདས་ཀྱིས་བཀའ་སྩལ་པ།
+<literal>bhagavan spoke/
+<liturgical><prose>From the Mu tig phreng ba: || 260 ||
+
+[261]
+<tibetan>།འབད་པས་གྲོལ་བ་མ་ཡིན་ཏེ།
+<literal>effort-by liberate not/
+<liturgical><prose>The Bhagavan spoke:
+
+[262]
+<tibetan>།ཡེ་ཉིད་ནས་ནི་གྲོལ་བར་གནས།
+<literal>primordial-from liberate abide/
+<liturgical><prose>Not liberated by effort,
+
+[263]
+<tibetan>།ཐབས་དང་ཤེས་རབ་སྦྱོར་བ་ལས།
+<literal>method-wisdom union from/
+<liturgical><prose>Abiding liberated from primordial.
+
+[264]
+<tibetan>།ཕ་དང་མ་ཡི་རྒྱུ་ཉིད་དག
+<literal>father-mother cause itself/
+<liturgical><break><prose> From method and wisdom's union, Father and mother are themselves the cause.
+
+[265]
+<tibetan>།འཕེན་པའི་རླུང་གི་བསྐྱོད་པ་ནི།
+<literal>/project wind move portion/
+<liturgical><break><prose> Projecting wind's moving portion—
+
+[266]
+<tibetan>།བྱང་ཆུབ་རང་རིག་བདེ་ཆེན་པོ།
+<literal>/awakening self-awareness bliss great/
+<liturgical><prose>Self-aware awakening, great bliss.
+
+[267]
+<tibetan>།འབྱུང་ལྔའི་རྒྱུ་ལས་ས་བོན་ནི།
+<literal>/five-arise cause-from seed/
+<liturgical><prose>Five-arising cause's seed
+
+[268]
+<tibetan>།སྟོང་ཉིད་ཡུལ་ལས་སྣང་བར་ཤར།
+<literal>/empty field-from appear arise/
+<liturgical><prose>Arises, appearing from emptiness-field.
+
+[269]
+<tibetan>།གཉིས་ཀྱི་བདེ་བའི་སྙོམས་འཇུག་ནི།
+<literal>/two-genitive bliss equipoise/
+<liturgical><prose>Two's bliss equipoise
+
+[270]
+<tibetan>།ཐབས་ལས་བྱུང་བའི་ཤེས་རབ་ཉིད།
+<literal>/method-from arise wisdom/
+<liturgical><prose>Is wisdom itself arisen from method. || 270 ||
+
+[271]
+<tibetan>།མངལ་གྱི་ལྷུམས་སུ་ཚུད་པ་ནི།
+<literal>/womb belly-in enter/
+<liturgical><prose>Womb-belly entering
+
+[272]
+<tibetan>།རང་རིག་གཞི་ནས་སྣང་བར་ཤར།
+<literal>/self-awareness base-from appear arise/
+<liturgical><prose>Is self-awareness arising from base.
+
+[273]
+<tibetan>།བདུན་ཚན་བདུན་གྱིས་རྟོགས་ཚད་དོ།
+<literal>/seven-set seven realize measure/
+<liturgical><prose>Seven seven-sets' realization measure.
+
+[274]
+<tibetan>།ཟླ་བཅུས་ས་རྣམས་བགྲོད་པ་ཉིད།
+<literal>/month ten ground traverse/
+<liturgical><prose>Ten months' grounds traversing.
+
+[275]
+<tibetan>།བཙས་པ་ཉིད་ནི་སྐུར་བཞེངས་ཏེ།
+<literal>/birth itself body arise/
+<liturgical><prose>Birth itself is kaya-arising.
+
+[276]
+<tibetan>།ལུས་སྐྱེད་པ་ནི་གཞི་སྣང་ཡུལ།
+<literal>/body produce base-appear field/
+<liturgical><prose>Producing body is base-appearing field.
+
+[277]
+<tibetan>།ལུས་སུ་གནས་པ་གཞི་ཡིན་ཏེ།
+<literal>/body abide base/
+<liturgical><prose>Body-abiding is the base.
+
+[278]
+<tibetan>།རྒས་པ་དག་གིས་འཁྲུལ་པ་སངས།
+<literal>/age confusion confusion awake/
+<liturgical><prose>Aging is delusion's confusion-awakening.
+
+[279]
+<tibetan>།ན་བ་ཉིད་ནི་རྟོགས་པའི་གདེང༌།
+<literal>/sickness itself realize confidence*/
+<liturgical><prose>Sickness itself is realization-confidence.
+
+[280]
+<tibetan>།ཤི་བས་ཆོས་ཉིད་སྟོང་པར་གྲོལ།
+<literal>/death-by dharma-nature empty liberate/
+<liturgical><prose>By death, liberation into dharmatā-emptiness. || 280 ||
+
+[281]
+<tibetan>།དེ་ལྟར་སྣང་བའི་སེམས་ཅན་ཀུན།
+<literal>/thus appear being all/
+<liturgical><prose>Thus all appearing beings
+
+[282]
+<tibetan>།འབད་པ་མེད་པར་ཡེ་ནས་གྲོལ།
+<literal>/effort-free primordial liberate/
+<liturgical><prose>Are primordially liberated without effort.
+
+[283]
+<tibetan>།ཅེས་སོ།
+<literal>/thus*/
+<liturgical><prose>Thus.
+
+[284]
+<tibetan>།ཁྱད་པར་དུ་འཁྲུལ་པ་ལྡོག་ཚུལ་དང་སྦྱར་ན།
+<literal>/particular delusion reverse manner connect/
+<liturgical><prose>Connecting with delusion-reversing particular manner:
+
+[285]
+<tibetan>བཙས་པ་ནི་རིག་པ་དབྱིངས་ལས་སྐྱོད་པའི་ཆའོ།
+<literal>/birth awareness expanse-from move portion/
+<liturgical><prose>Birth is awareness moving from expanse's portion.
+
+[286]
+<tibetan>།ལུས་ནི་གཞི།
+<literal>/body base/
+<liturgical><prose>Body is the base.
+
+[287]
+<tibetan>ཕྱིའི་སྣང་ཆ་གཞི་སྣང་ལྷུན་གྲུབ།
+<literal>/outer-appear portion base-appear spontaneous-accomplish/
+<liturgical><prose>Outer-appearing portion is base-appearing spontaneous completion.
+
+[288]
+<tibetan>ན་བ་ངོ་འཕྲོད་པའི་རྟོགས་པ།
+<literal>/sickness face-meet realize/
+<liturgical><prose>Sickness is realization meeting face-to-face.
+
+[289]
+<tibetan>རྒས་པ་བདེན་ཞེན་གྱི་འཁྲུལ་པ་སངས་པ།
+<literal>/age truth-cling confusion awake/
+<liturgical><prose>Aging is truth-clinging's confusion-awakening.
+
+[290]
+<tibetan>ཤི་བ་རང་ངོ་ཤེས་དུས་ནང་དབྱིངས་ཀ་དག་གི་ས་ལ་མཐར་ཕྱིན་པའི་ཆ་མཚོན་པའོ།
+<literal>/death self-face know time inner-dimension primordial-pure ground-to final-arrive portion show/
+<liturgical><prose>Death, when knowing self-face, shows final arrival at primordial purity's ground in inner expanse's portion. || 290 ||
+
+[291]
+<tibetan>།འདི་དག་ཡེ་ནས་ཤར་བས་གདམས་ངག་ངོ་སྤྲོད་པ་དང༌།
+<literal>/these primordial arise-by instruction point-out and*/
+<liturgical><prose>By these arising primordially, instruction introduction and
+
+[292]
+<tibetan>དབང་དང༌།
+<literal>/empowerment and*/
+<liturgical><prose>Empowerment,
+
+[293]
+<tibetan>བསྒོམས་པས་གྲོལ་བ་འཐད་དོ།
+<literal>/meditate-by liberate suitable/
+<liturgical><prose>Liberation through meditation—suitable.
+
+[294]
+<tibetan>།ཆ་མཐུན་དུ་ཡེ་ནས་ཚང་ན་གདམས་ངག་གིས་གྲོལ་མི་ནུས་ལ།
+<literal>/partial-similar primordial complete if instruction-by liberate not-able/
+<liturgical><prose>If complete in partial similarity, not able to liberate through instruction;
+
+[295]
+<tibetan>ཆ་མཐུན་ཡོད་པ་དེ་གསལ་བར་བསྟན་པས་སངས་རྒྱས་ཀྱི་ཆོས་ཞེས་བྱའོ།
+<literal>/partial-similar exist that clear show-by buddha dharma call/
+<liturgical><prose>By clearly showing that partial similarity exists, Buddha's dharma it is called.
+
+[296]
+<tibetan>།གཞི་ལམ་ཡེ་ཚད་དུ་ཡོད་པ།
+<literal>/base-path primordial measure-in exist/
+<liturgical><prose>Existing in base-path's primordial measure,
+
+[297]
+<tibetan>སངས་རྒྱས་ཀྱིས་གསུངས་པས་བརྡ་དོན་དུ་བསྟན་དུ་བྱུང་བའང་གནད་འདི་ལ་ཐུག་གོ
+<literal>/buddha speak-by symbol-meaning show become-also essence this-in arrive/
+<liturgical><break><prose> What becomes shown as symbol-meaning by Buddha's speaking also arrives at this essence.
+
+[298]
+<tibetan>།གཉིས་པ་ལུས་སེམས་ལ་ཚང་ཚུལ་བྱེ་བྲག་ཏུ་བཤད་པ་ལ་གསུམ་སྟེ།
+<literal>/second body-mind completeness manner particular explain three/
+<liturgical><break><prose> Second, explaining body-mind completeness manner in particular—threefold:
+
+[299]
+<tibetan>ལུས།
+<literal>/body/
+<liturgical><prose>Body,
+
+[300]
+<tibetan>སེམས།
+<literal>/mind/
+<liturgical><prose>Mind, || 300 ||
+
+[301]
+<tibetan>རིག་པ་ལ་ཚང་བའི་ཚུལ་ལོ།
+<literal>/awareness completeness manner/
+<liturgical><prose>Awareness completeness manner.
+
+[302]
+<tibetan>།དང་པོ་ནི།
+<literal>/first/
+<liturgical><ornament>First:
+
+[303]
+<tibetan>ལུས་འབྱུང་བཞི་འདུས་པའི་ཕུང་པོ་འདི་ལ་ཕྱི་སྣོད་ཀྱི་འཇིག་རྟེན་གྱི་་ཆ་དང༌།
+<literal>/body four-arise gather aggregate this-in outer container-world portion and*/
+<liturgical><prose>In this four-arising gathered aggregate, outer container-world's portion and
+
+[304]
+<tibetan>ནང་བཅུད་ཀྱི་སྐྱེ་འགྲོའི་ཆ་རྣམས་ཚང་སྟེ།
+<literal>/inner essence-migrant portion all complete/
+<liturgical><prose>Inner essence-migrants' portions—all complete.
+
+[305]
+<tibetan>མུ་ཏིག་ཕྲེང་བ་ལས།
+<literal>/mu-tig-phreng-ba from/
+<liturgical><prose>From the Mu tig phreng ba:
+
+[306]
+<tibetan>ས་དང་ཆུ་དང་མེ་དང་རླུང༌།
+<literal>/earth and water and fire and wind*/
+<liturgical><prose>Earth, water, fire, wind,
+
+[307]
+<tibetan>།ནམ་མཁའ་དང་ནི་ཉི་ཟླ་དང༌།
+<literal>/space and sun moon and*/
+<liturgical><prose>Space, sun, and moon,
+
+[308]
+<tibetan>།སྐྱེས་པ་བུད་མེད་དག་གིས་གཟུགས།
+<literal>/born male female by form*/
+<liturgical><prose>Born males and females' forms,
+
+[309]
+<tibetan>།གཟའ་དང་སྐར་མ་སྤྲིན་དང་ནི།
+<literal>/planet star cloud and*/
+<liturgical><prose>Planets, stars, and clouds,
+
+[310]
+<tibetan>།ཤིང་དང་རི་དང་བྲག་རྣམས་དང༌།
+<literal>/tree mountain rock and*/
+<liturgical><prose>Trees, mountains, and rocks, || 310 ||
+
+[311]
+<tibetan>།རྩ་བ་སྡོང་པོ་ཡལ་ག་དང༌།
+<literal>/root trunk branch and*/
+<liturgical><prose>Roots, trunks, and branches,
+
+[312]
+<tibetan>།འདབ་མ་མེ་ཏོག་འབྲས་བུ་དང༌།
+<literal>/leaf flower fruit and*/
+<liturgical><prose>Leaves, flowers, and fruits,
+
+[313]
+<tibetan>།དྲི་དང་རོ་དང་སྒྲ་དང་རེག
+<literal>/smell taste sound touch/
+<liturgical><break><prose> Smells, tastes, sounds, and touches.
+
+[314]
+<tibetan>།རོལ་མོ་རྣམས་དང་འཕན་གདུགས་དང༌།
+<literal>/music and canopy and*/
+<liturgical><break><prose> Music, canopies,
+
+[315]
+<tibetan>།རྒྱལ་མཚན་དང་ནི་བླ་བྲེ་དང༌།
+<literal>/banner and upper-canopy and*/
+<liturgical><prose>Banners, and upper-canopies,
+
+[316]
+<tibetan>།དེ་དག་འཁོར་ཏེ་སྣང་བའི་ཆོས།
+<literal>/those surround appear dharma/
+<liturgical><prose>Those appearing surrounding dharmas—
+
+[317]
+<tibetan>།རྣལ་འབྱོར་ཉིད་ཀྱི་ལུས་ལ་ཚང༌།
+<literal>/yogi self body-in complete*/
+<liturgical><prose>Are complete in the yogi's own body.
+
+[318]
+<tibetan>།ཞེས་སོ།
+<literal>/thus*/
+<liturgical><prose>Thus.
+
+[319]
+<tibetan>།དེ་དག་གི་ཆ་ཤས་རྒྱས་པར་བཤད་ན།
+<literal>/those portion extensive explain/
+<liturgical><prose>Explaining these portions extensively:
+
+[320]
+<tibetan>སའི་ཆ་ཤ།
+<literal>/earth portion flesh/
+<liturgical><prose>Earth's portion: flesh; || 320 ||
+
+[321]
+<tibetan>ཆུའི་ཆ་ཁྲག
+<literal>/water portion blood/
+<liturgical><break><prose> Water's portion: blood;
+
+[322]
+<tibetan>མེའི་ཆ་དྲོད།
+<literal>/fire portion warmth/
+<liturgical><break><prose> Fire's portion: warmth;
+
+[323]
+<tibetan>རླུང་གི་ཆ་དབུགས།
+<literal>/wind portion breath/
+<liturgical><prose>Wind's portion: breath;
+
+[324]
+<tibetan>ནམ་མཁའི་ཆ་སེམས།
+<literal>/space portion mind/
+<liturgical><prose>Space's portion: mind;
+
+[325]
+<tibetan>ཉི་ཟླའི་ཆ་མིག་གཉིས།
+<literal>/sun-moon portion eye-two/
+<liturgical><prose>Sun-moon's portion: two eyes;
+
+[326]
+<tibetan>སྐྱེས་པའི་ཆ་སྐྱེ་བ།
+<literal>/male portion birth/
+<liturgical><prose>Male's portion: birth;
+
+[327]
+<tibetan>བུད་མེད་ཀྱི་ཆ་འཆི་བ།
+<literal>/female portion death/
+<liturgical><prose>Female's portion: death;
+
+[328]
+<tibetan>གཟའི་ཆ་འདོད་པའི་སྒོ་ཁང་དང་སྣ་བུག་གཉིས་སོ།
+<literal>/planet portion desire gate and nostril-two/
+<liturgical><prose>Planet's portion: desire's gate-house and two nostrils;
+
+[329]
+<tibetan>།སྐར་མའི་ཆ་སོ།
+<literal>/star portion teeth/
+<liturgical><prose>Star's portion: teeth;
+
+[330]
+<tibetan>སྤྲིན་གྱི་ཆ་སྐྲ།
+<literal>/cloud portion hair/
+<liturgical><prose>Cloud's portion: hair; || 330 ||
+
+[331]
+<tibetan>ཤིང་གི་ཆ་རྩ།
+<literal>/tree portion channel/
+<liturgical><prose>Tree's portion: channels;
+
+[332]
+<tibetan>རིའི་ཆ་མཚུངས་ལུས་རིལ་པོ།
+<literal>/mountain portion similar body whole/
+<liturgical><prose>Mountain's portion: whole similar body;
+
+[333]
+<tibetan>བྲག་གི་ཆ་རུས་པ།
+<literal>/rock portion bone/
+<liturgical><prose>Rock's portion: bones;
+
+[334]
+<tibetan>ལྗོན་ཤིང་གི་རྩ་བའི་ཆ་སྙིང༌།
+<literal>/tree-root portion heart*/
+<liturgical><prose>Tree-root's portion: heart;
+
+[335]
+<tibetan>ཡལ་གའི་ཆ་རྐང་ལག
+<literal>/branch portion limb/
+<liturgical><break><prose> Branch's portion: limbs;
+
+[336]
+<tibetan>།མེ་ཏོག་གི་ཆ་མིག་ལ་སོགས་པ་དབང་པོ་ལྔ།
+<literal>/flower portion eye etc. faculty-five/
+<liturgical><break><prose> Flower's portion: five faculties of eye and so forth;
+
+[337]
+<tibetan>འབྲས་བུའི་ཆ་ལུས་ཀྱི་བདེ་སྡུག་ཏུ་གྲུབ་པ།
+<literal>/fruit portion body happiness-suffering accomplish/
+<liturgical><prose>Fruit's portion: accomplished as body's happiness-suffering;
+
+[338]
+<tibetan>སྒྲའི་ཆ་སྐད།
+<literal>/sound portion voice/
+<liturgical><prose>Sound's portion: voice;
+
+[339]
+<tibetan>གཟུགས་ཀྱི་ཆ་ལུས།
+<literal>/form portion body/
+<liturgical><prose>Form's portion: body;
+
+[340]
+<tibetan>དྲིའི་ཆ་བ་སྤུ།
+<literal>/smell portion pore/
+<liturgical><prose>Smell's portion: pores; || 340 ||
+
+[341]
+<tibetan>རོའི་ཆ་པགས་པ།
+<literal>/taste portion skin/
+<liturgical><prose>Taste's portion: skin;
+
+[342]
+<tibetan>རེག་གི་ཆ་ནད།
+<literal>/touch portion sickness/
+<liturgical><prose>Touch's portion: sickness;
+
+[343]
+<tibetan>རོལ་མོའི་ཆ་རྒྱུ་མ་ལ་སོགས་པའི་ནང་ཁྲོལ།
+<literal>/music portion channel etc. internal-organ/
+<liturgical><prose>Music's portion: channels and internal organs;
+
+[344]
+<tibetan>འཕན་གྱི་ཆ་དྲི་ཆུ།
+<literal>/canopy portion urine/
+<liturgical><prose>Canopy's portion: urine;
+
+[345]
+<tibetan>གདུགས་ཀྱི་ཆ་རྐང་པ།
+<literal>/parasol portion leg/
+<liturgical><prose>Parasol's portion: legs;
+
+[346]
+<tibetan>རྒྱལ་མཚན་གྱི་ཆ་མིང༌།
+<literal>/banner portion name*/
+<liturgical><prose>Banner's portion: name;
+
+[347]
+<tibetan>བླ་བྲེའི་ཆ་རླངས་པའོ།
+<literal>/upper-canopy portion breath/
+<liturgical><prose>Upper-canopy's portion: breath.
+
+[348]
+<tibetan>།དེ་སྐད་དུའང་མུ་ཏིག་ཕྲེང་བ་ལས།
+<literal>/thus-statement also mu-tig-phreng-ba from/
+<liturgical><prose>Also, from the Mu tig phreng ba, thus stated:
+
+[349]
+<tibetan>ས་ནི་ཤ་སྟེ་དངོས་པོ་ཉིད།
+<literal>/earth flesh entity/
+<liturgical><prose>Earth is flesh, entity itself;
+
+[350]
+<tibetan>།ཆུ་ནི་ཁྲག་སྟེ་སྡུད་པ་ཉིད།
+<literal>/water blood gather/
+<liturgical><prose>Water is blood, gathering itself; || 350 ||
+
+[351]
+<tibetan>།མེ་ནི་དྲོད་དེ་ལུས་ཀུན་སྨིན།
+<literal>/fire warmth body all ripen*/
+<liturgical><prose>Fire is warmth, ripening all body;
+
+[352]
+<tibetan>།རླུང་ནི་དབུགས་ཏེ་ལས་ཀྱི་གཟུངས།
+<literal>/wind breath karma container/
+<liturgical><prose>Wind is breath, karma's container;
+
+[353]
+<tibetan>།ནམ་མཁའ་སེམས་ཏེ་ལུས་ཀྱི་གདངས།
+<literal>/space mind body potential/
+<liturgical><prose>Space is mind, body's potential;
+
+[354]
+<tibetan>།ཉི་ཟླ་མིག་སྟེ་གསལ་བར་བྱེད།
+<literal>/sun-moon eye clarify make*/
+<liturgical><prose>Sun-moon is eye, making clear;
+
+[355]
+<tibetan>།སྐྱེས་པ་དག་ནི་སྐྱེ་བ་ཉིད།
+<literal>/male birth/
+<liturgical><prose>Male is birth itself;
+
+[356]
+<tibetan>།བུད་མེད་དག་ནི་འཆི་བར་སྣང༌།
+<literal>/female death appear*/
+<liturgical><prose>Female appears as death;
+
+[357]
+<tibetan>།གཟའ་ནི་ཁ་ལ་སྐར་མ་སོ།
+<literal>/planet mouth-in star teeth/
+<liturgical><prose>Planet is in mouth, star is teeth;
+
+[358]
+<tibetan>།སྤྲིན་ནི་སྐྲ་ལ་ཤིང་ནི་རྩ།
+<literal>/cloud hair-in tree channel/
+<liturgical><prose>Cloud is in hair, tree is channels;
+
+[359]
+<tibetan>།རི་ནི་ལུས་ལ་བྲག་ནི་རུས།
+<literal>/mountain body-in rock bone/
+<liturgical><prose>Mountain is in body, rock is bones;
+
+[360]
+<tibetan>།རྩ་བ་སྙིང་ལ་སྡོང་པོ་རྐང༌།
+<literal>/root heart-in trunk leg*/
+<liturgical><prose>Root is in heart, trunk is legs; || 360 ||
+
+[361]
+<tibetan>།ཡལ་ག་དག་ནི་ཡན་ལག་ལ།
+<literal>/branch limb-to/
+<liturgical><prose>Branches are in limbs;
+
+[362]
+<tibetan>།མེ་ཏོག་ཉིད་ནི་དབང་པོ་ལྔ།
+<literal>/flower faculty-five/
+<liturgical><prose>Flower itself is five faculties;
+
+[363]
+<tibetan>།འབྲས་བུ་ལུས་སུ་གྲུབ་པའོ།
+<literal>/fruit body-in accomplish*/
+<liturgical><prose>Fruit is accomplished in body;
+
+[364]
+<tibetan>།དྲི་ནི་བ་སྤུ་རོ་ནི་པགས།
+<literal>/smell pore taste skin/
+<liturgical><prose>Smell is pores, taste is skin;
+
+[365]
+<tibetan>།སྒྲ་ནི་སྐད་ལ་རེག་ནི་ནད།
+<literal>/sound voice-in touch sickness/
+<liturgical><prose>Sound is in voice, touch is sickness;
+
+[366]
+<tibetan>།རོལ་མོ་ནང་ཁྲོལ་འཕན་ནི་ཆུ།
+<literal>/music internal-organ canopy water/
+<liturgical><prose>Music is internal organs, canopy is water;
+
+[367]
+<tibetan>།གདུགས་ནི་རྐང་པ་རྒྱལ་མཚན་མིང༌།
+<literal>/parasol leg banner name*/
+<liturgical><prose>Parasol is legs, banner is name;
+
+[368]
+<tibetan>།བླ་བྲེ་དག་ནི་རླངས་པའོ།
+<literal>/upper-canopy breath/
+<liturgical><prose>Upper-canopy is breath.
+
+[369]
+<tibetan>།རྣལ་འབྱོར་ལུས་ལ་དེ་དག་རྫོགས།
+<literal>/yogi body-in those complete/
+<liturgical><prose>These are complete in the yogi's body.
+
+[370]
+<tibetan>།ཞེས་སོ།
+<literal>/thus*/
+<liturgical><prose>Thus. || 370 ||
+
+[371]
+<tibetan>།གཉིས་པ་སེམས་ལ་འཁོར་འདས་གཞི་ལམ་གྱིས་ཆོས་ཐམས་ཅད་རྫོགས་པར་གནས་ཏེ།
+<literal>/second mind-in samsara-nirvana base-path dharma all complete abide/
+<liturgical><prose>Second, in mind all saṃsāra-nirvāṇa dharmas, base and path, are completely present.
+
+[372]
+<tibetan>ཡང་དེ་ཉིད་ལས།
+<literal>/again that-very from/
+<liturgical><prose>Again from That Very:
+
+[373]
+<tibetan>འདས་པ་དཀར་པོའི་ཆོས་རྣམས་ནི།
+<literal>/transcend white dharma all/
+<liturgical><prose>All white transcendence dharmas
+
+[374]
+<tibetan>།ལུས་དང་སེམས་ལ་ཐམས་ཅད་རྫོགས།
+<literal>/body mind-in all complete*/
+<liturgical><prose>Are completely present in body-mind;
+
+[375]
+<tibetan>།འཁོར་བའི་ཆོས་ནི་འདས་སྟོང་ཕྱིར།
+<literal>/samsara dharma transcend empty because*/
+<liturgical><prose>Because saṃsāra dharmas are empty of transcendence,
+
+[376]
+<tibetan>།དཀྱིལ་འཁོར་ལྷ་དང་མཆོད་པ་དང༌།
+<literal>/mandala deity and offering and*/
+<liturgical><prose>Mandala, deity, offering,
+
+[377]
+<tibetan>།སྔགས་དང་ཕྱག་རྒྱ་ཏིང་འཛིན་དང༌།
+<literal>/mantra mudra concentration and*/
+<liturgical><prose>Mantra, mudra, concentration,
+
+[378]
+<tibetan>།དབང་བསྐུར་བ་དང་དམ་ཚིག་དང༌།
+<literal>/empowerment samaya and*/
+<liturgical><prose>Empowerment, samaya,
+
+[379]
+<tibetan>།མན་ངག་འབོགས་དང་ཉམས་མྱོང་དང༌།
+<literal>/instruction give experience and*/
+<liturgical><prose>Instruction-giving, experience,
+
+[380]
+<tibetan>།དེ་བཞིན་བསྐྱེད་པའི་རིམ་པ་དང༌།
+<literal>/likewise development stage and*/
+<liturgical><prose>Likewise development stage, || 380 ||
+
+[381]
+<tibetan>།ཐོས་དང་བསམ་དང་སྒོམ་པ་དང༌།
+<literal>/hear contemplate meditate and*/
+<liturgical><prose>Hearing, contemplating, meditating,
+
+[382]
+<tibetan>།ལྟ་བ་སྤྱོད་པ་སྒོམ་དང༌།
+<literal>/view conduct meditate and*/
+<liturgical><prose>View, conduct, meditation,
+
+[383]
+<tibetan>།སྦྱིན་དང་ཚུལ་ཁྲིས་བཟོད་པ་དང༌།
+<literal>/giving ethics patience and*/
+<liturgical><prose>Giving, ethics, patience,
+
+[384]
+<tibetan>།བརྩོན་འགྲུས་བསམ་གཏན་ཤེས་རབ་དང༌།
+<literal>/effort concentration wisdom and*/
+<liturgical><prose>Effort, concentration, wisdom,
+
+[385]
+<tibetan>།སྟོབས་དང་སྨོན་ལམ་ཡེ་ཤེས་དང༌།
+<literal>/power aspiration wisdom and*/
+<liturgical><prose>Power, aspiration, wisdom,
+
+[386]
+<tibetan>།དེ་བཞིན་ཐབས་ཀྱི་ཕ་རོལ་ཕྱིན།
+<literal>/likewise method perfection*/
+<liturgical><prose>Likewise method's perfection,
+
+[387]
+<tibetan>།དགེ་བཅུ་སྤྱོད་པ་ལ་སོགས་པ།
+<literal>/ten-virtue conduct etcetera*/
+<liturgical><prose>Ten virtues' conduct, and so forth,
+
+[388]
+<tibetan>།ཐབས་དང་ཤེས་རབ་ཉིད་དང་ཡང༌།
+<literal>/method wisdom itself and*/
+<liturgical><prose>Method and wisdom themselves,
+
+[389]
+<tibetan>།ཞེས་པ་ལ་སོགས་པ་ནས།
+<literal>/thus etcetera from/
+<liturgical><prose>Thus, from and so forth,
+
+[390]
+<tibetan>མྱང་འདས་མཚོན་པའི་ཆོས་དེ་རྣམས།
+<literal>/transcend indicate dharma those/
+<liturgical><prose>Those transcendence-indicating dharmas || 390 ||
+
+[391]
+<tibetan>།ལུས་དང་སེམས་ལ་རྫོགས་པར་གནས།
+<literal>/body mind-in complete abide*/
+<liturgical><prose>Abide completely in body-mind,
+
+[392]
+<tibetan>།ཞེས་པའི་བར་དུ་གསུངས་སོ།
+<literal>/thus up-to stated/
+<liturgical><prose>Up to thus stated.
+
+[393]
+<tibetan>།གསུམ་པ་རིག་པ་ལ་ཚང་ཚུལ་ནི།
+<literal>/third awareness completeness manner/
+<liturgical><prose>Third, awareness completeness manner:
+
+[394]
+<tibetan>།ཡང་དེ་ལས།
+<literal>/again that-from/
+<liturgical><prose>Again from that:
+
+[395]
+<tibetan>རང་སྣང་རིག་པའི་ངོ་གང་ལ།
+<literal>/self-appear awareness face what-in/
+<liturgical><prose>In whatever self-appearing awareness's face,
+
+[396]
+<tibetan>།ཇི་ལྟར་སྣང་བའི་ཆོས་རྣམས་རྫོགས།
+<literal>/however appear dharma all complete*/
+<liturgical><prose>All however-appearing dharmas are complete.
+
+[397]
+<tibetan>།ཞེས་པ་དང༌།
+<literal>/thus stated and*/
+<liturgical><prose>Thus stated; and
+
+[398]
+<tibetan>རིག་པ་ཉིད་ལ་འདི་ལྟ་སྟེ།
+<literal>/awareness itself-in thus/
+<liturgical><prose>Thus in awareness itself:
+
+[399]
+<tibetan>།ཉི་མ་ཟླ་བ་ཤེས་རབ་ཐབས།
+<literal>/sun moon wisdom method*/
+<liturgical><prose>Sun and moon: method and wisdom;
+
+[400]
+<tibetan>།སྐྱེས་པ་གཞི་ལ་བུད་མེད་ལམ།
+<literal>/male base female path*/
+<liturgical><prose>Male: base, female: path; || 400 ||
+
+[401]
+<tibetan>།གཟའ་ནི་རྟོགས་ཚད་སྐར་མ་ཆོས།
+<literal>/planet realization measure star dharma*/
+<liturgical><prose>Planet: realization measure, star: dharma;
+
+[402]
+<tibetan>།སྤྲིན་ནི་ཐུགས་རྗེ་ཀུན་ལ་ཁྱབ།
+<literal>/cloud compassion all pervade*/
+<liturgical><prose>Cloud: compassion pervading all;
+
+[403]
+<tibetan>།ཤིང་ནི་ཆོས་ཉིད་རྒྱས་པའི་ལམ།
+<literal>/tree dharma-nature expand path*/
+<liturgical><prose>Tree: dharmatā-expanding path;
+
+[404]
+<tibetan>།རི་ནི་ལྟ་བ་འགྱུར་བ་མེད།
+<literal>/mountain view change non-exist*/
+<liturgical><prose>Mountain: view without change;
+
+[405]
+<tibetan>།བྲག་ནི་ཆོས་སྐུ་སྐྱེ་འཇིག་བྲལ།
+<literal>/rock dharma-body birth-destruction free*/
+<liturgical><prose>Rock: Dharmakāya free from birth and destruction;
+
+[406]
+<tibetan>།རྩ་བ་ཆོས་ཀུན་རྒྱུ་གཅིག་པ།
+<literal>/root dharma-all cause one*/
+<liturgical><prose>Root: all dharmas' one cause;
+
+[407]
+<tibetan>།ཡང་ལག་བྱང་ཆུབ་ཡན་ལག་ཉིད།
+<literal>/branch awakening branch itself*/
+<liturgical><prose>Branch: awakening's branch itself;
+
+[408]
+<tibetan>།སྡོང་པོ་སྟོང་པར་རོ་གཅིག་སྟེ།
+<literal>/trunk emptiness taste one*/
+<liturgical><prose>Trunk: one taste in emptiness;
+
+[409]
+<tibetan>།འདབ་མ་ཁྱབ་བྱེད་ཆོས་ཀྱི་དབྱིངས།
+<literal>/leaf pervade dharma-dimension*/
+<liturgical><prose>Leaf: pervading dharmadhatu;
+
+[410]
+<tibetan>།མེ་ཏོག་ཡེ་ཤེས་སྒྲོན་མ་ཉིད།
+<literal>/flower wisdom lamp itself*/
+<liturgical><prose>Flower: wisdom's lamp itself; || 410 ||
+
+[411]
+<tibetan>།འབྲས་བུ་སྐུ་གསུམ་རང་རྫོགས་སོ།
+<literal>/fruit three-body self-complete*/
+<liturgical><prose>Fruit: three kayas self-complete.
+
+[412]
+<tibetan>།སྒྲ་ནི་ཆོས་ཉིད་ཡུལ་གྱི་སྒྲ།
+<literal>/sound dharma-nature field sound*/
+<liturgical><prose>Sound: dharmatā-field's sound;
+
+[413]
+<tibetan>།དྲི་ནི་སངས་རྒྱས་གསུངས་དུ་གྲགས།
+<literal>/smell buddha speech fame*/
+<liturgical><prose>Smell: Buddha-speech's fame;
+
+[414]
+<tibetan>།རོ་ནི་ཉམས་མྱོང་བདེ་བའི་རོ།
+<literal>/taste experience bliss taste*/
+<liturgical><prose>Taste: experience's bliss taste;
+
+[415]
+<tibetan>།རེག་ནི་བསམ་གཏན་ཆེན་པོའོ།
+<literal>/touch concentration great*/
+<liturgical><prose>Touch: great concentration;
+
+[416]
+<tibetan>།རོལ་མོ་ལྔའི་དཀྱིལ་འཁོར་རྫོགས།
+<literal>/music five mandala complete*/
+<liturgical><prose>Music: five's complete mandala;
+
+[417]
+<tibetan>།འཕན་ནི་ཁ་དོག་གསལ་བའི་གདངས།
+<literal>/canopy color clear potential*/
+<liturgical><prose>Canopy: clear color's potential;
+
+[418]
+<tibetan>།གདུགས་ནི་སྐྱོབ་པ་ཤེས་རབ་སྟེ།
+<literal>/parasol protect wisdom*/
+<liturgical><prose>Parasol: protecting wisdom;
+
+[419]
+<tibetan>།བླ་བྲེ་མན་ངག་ཆེ་བའི་གནད།
+<literal>/upper-canopy instruction great essential-point*/
+<liturgical><prose>Upper-canopy: instruction's great essential point;
+
+[420]
+<tibetan>།རྒྱལ་མཚན་རྟོགས་པ་མངོན་སངས་རྒྱས།
+<literal>/banner realization manifest buddha*/
+<liturgical><prose>Banner: manifest realization's Buddha; || 420 ||
+
+[421]
+<tibetan>།སེམས་ཉིད་ངོ་ལ་ཆོས་རྣམས་ནི།
+<literal>/mind itself face-in dharma all/
+<liturgical><prose>All dharmas in mind-itself's face
+
+[422]
+<tibetan>།ཡེ་ནས་ལྷུན་གྲུབ་ཚུལ་དུ་གནས།
+<literal>/primordial spontaneous-accomplish manner abide*/
+<liturgical><prose>Abide in primordial spontaneous completion's manner.
+
+[423]
+<tibetan>།དེ་ཕྱིར་བློ་དང་དངོས་པོ་ཡི།
+<literal>/therefore mind and entity/
+<liturgical><prose>Therefore, mind and entity dharmas
+
+[424]
+<tibetan>།ཆོས་རྣམས་ཐམས་ཅད་བཏགས་པ་ཙམ།
+<literal>/dharma all merely label*/
+<liturgical><prose>Are all merely imputed.
+
+[425]
+<tibetan>།ཞེས་སོ།
+<literal>/thus*/
+<liturgical><prose>Thus.
+
+[426]
+<tibetan>།དོན་གཉིས་པ་ནང་འབྱུང་རྒྱས་པར་བཤད་པ་ལ་གཉིས་ཏེ།
+<literal>/meaning second inner-arising extensive explain two/
+<liturgical><prose>Second meaning: inner-arising extensive explanation—two:
+
+[427]
+<tibetan>ཐུན་མོང་གི་བར་ཏུ་དབྱེ་བ་དང༌།
+<literal>/common between division and*/
+<liturgical><prose>Common divisions and
+
+[428]
+<tibetan>དབྱེ་བ་སོ་སོའི་རང་བཞིན་ནོ།
+<literal>/division individual nature/
+<liturgical><prose>Individual divisions' nature.
+
+[429]
+<tibetan>།དང་པོ་ནི།
+<literal>/first/
+<liturgical><ornament>First:
+
+[430]
+<tibetan>ལུས་ཀྱི་འབྱུང་ལྔ་རགས་པ་ལ་དངས་མའི་འབྱུང་ལྔ་ནང་དུ་བརྟེན་པས་ནང་འབྱུང་སྟེ།
+<literal>/body five-arising coarse-in essence five-arising inner rely thus inner-arising/
+<liturgical><prose>Inner-arising: essence's five-arising inwardly rely upon body's five coarse arising; || 430 ||
+
+[431]
+<tibetan>རླུང་དང༌།
+<literal>/wind and*/
+<liturgical><prose>Wind and
+
+[432]
+<tibetan>མེ་དང༌།
+<literal>/fire and*/
+<liturgical><prose>Fire and
+
+[433]
+<tibetan>ས་དང༌།
+<literal>/earth and*/
+<liturgical><prose>Earth and
+
+[434]
+<tibetan>ཆུ་དང༌།
+<literal>/water and*/
+<liturgical><prose>Water and
+
+[435]
+<tibetan>ནམ་མཁའ་ལྔ་པོ་རེ་རེ་ཞིང་ལྔ་ལྔར་གནས་པས་ཡན་ལག་ཉི་ཤུ་རྩ་ལྔའོ།
+<literal>/space five each five abide limb twenty-five*/
+<liturgical><prose>Space—five, each abiding as five, twenty-five limbs.
+
+[436]
+<tibetan>།དེ་ལྟར་ངེས་པའི་འཐད་པ་ནི་བྱེད་ལས་མི་འདྲ་བ་ལྔ་ལ་ལྟོས་ནས་ལྔར་ངེས་ཏེ།
+<literal>/thus definite suitability function different five depend-on five definite/
+<liturgical><prose>Thus, definite suitability: definite as five, depending on five different functions;
+
+[437]
+<tibetan>རང་ཤར་ལས།
+<literal>/self-arisen from/
+<liturgical><prose>From the Self-Arisen:
+
+[438]
+<tibetan>འབྱུང་བ་ཆེན་པོ་ལྔ་ནི་རང་གི་ལུས་ལ་ཚང་ངོ༌།
+<literal>/great-arising five self body-in complete*/
+<liturgical><prose>The five great arising are complete in one's own body.
+
+[439]
+<tibetan>།དེ་ཡང་རླུང་རྣམ་པ་ལྔས་ཡེ་ཤེས་ཀྱི་གདངས་བྱེད་དོ།
+<literal>/that-also wind five wisdom potential make*/
+<liturgical><prose>That also: five winds make wisdom-potential;
+
+[440]
+<tibetan>།མེ་རྣམ་པ་ལྔས་ཡེ་ཤེས་ཀྱི་རྩལ་བྱེད་དོ།
+<literal>/fire five wisdom potency make*/
+<liturgical><prose>Five fires make wisdom-potency; || 440 ||
+
+[441]
+<tibetan>།ས་ལྔས་ཡེ་ཤེས་ཀྱི་ངོ་བོ་བྱེད་དོ།
+<literal>/earth five wisdom essence make*/
+<liturgical><prose>Five earths make wisdom-essence;
+
+[442]
+<tibetan>།ཆུ་ལྔས་ཡེ་ཤེས་ཀྱི་ཡུལ་བྱེད་དོ།
+<literal>/water five wisdom object make*/
+<liturgical><prose>Five waters make wisdom-object;
+
+[443]
+<tibetan>།ནམ་མཁའ་ལྔས་ཡེ་ཤེས་ཀྱི་གནས་བྱེད་དོ་ཞེས་སོ།
+<literal>/space five wisdom abode make thus*/
+<liturgical><prose>Five spaces make wisdom-abode. Thus.
+
+[444]
+<tibetan>།གཉིས་པ་ལ་ལྔ་སྟེ།
+<literal>/second five/
+<liturgical><prose>Second, five:
+
+[445]
+<tibetan>རླུང་དང༌།
+<literal>/wind and*/
+<liturgical><prose>Wind and
+
+[446]
+<tibetan>མེ་དང༌།
+<literal>/fire and*/
+<liturgical><prose>Fire and
+
+[447]
+<tibetan>ས་དང༌།
+<literal>/earth and*/
+<liturgical><prose>Earth and
+
+[448]
+<tibetan>ཆུ་དང༌།
+<literal>/water and*/
+<liturgical><prose>Water and
+
+[449]
+<tibetan>ནམ་མཁའི་རང་བཞིན་རྒྱས་པར་བཤད་པའོ།
+<literal>/space nature extensive explain/
+<liturgical><prose>Space nature extensive explanation.
+
+[450]
+<tibetan>།དང་པོ་ལའང་རྩ་བའི་དབྱེ་བ་དང༌།
+<literal>/first-among root division and*/
+<liturgical><prose>First among these, from two: || 450 ||
+
+[451]
+<tibetan>ཡན་ལག་གི་དབྱེ་བ་རྒྱས་པར་བཤད་པ་གཉིས་ལས།
+<literal>/branch division extensive explain two-from/
+<liturgical><prose>Root division extensive explanation and
+
+[452]
+<tibetan>རྩ་བའི་དབྱེ་བ་ནི།
+<literal>/root division/
+<liturgical><prose>Branch division extensive explanation.
+
+[453]
+<tibetan>རང་ཤར་ལས།
+<literal>/self-arisen from/
+<liturgical><prose>Root division:
+
+[454]
+<tibetan>རླུང་རྣམ་པ་ལྔ་གང་ཞེ་ན།
+<literal>/wind type five what/
+<liturgical><prose>From the Self-Arisen:
+
+[455]
+<tibetan>སྲོག་འཛིན་པའི་རླུང་དང༌།
+<literal>/life-hold wind and*/
+<liturgical><prose>What are the five wind types?
+
+[456]
+<tibetan>བཀྲག་དང་གཟི་མདངས་སྐྱེད་པའི་རླུང་དང༌།
+<literal>/color radiance produce wind and*/
+<liturgical><prose>Life-holding wind and
+
+[457]
+<tibetan>མེ་དང་མཉམ་པའི་རླུང་དང༌།
+<literal>/fire equal wind and*/
+<liturgical><prose>Color-radiance producing wind and
+
+[458]
+<tibetan>ཀུན་ཏུ་ཁྱབ་བྱེད་ཀྱི་རླུང་དང༌།
+<literal>/all pervade wind and*/
+<liturgical><prose>Fire-equal wind and
+
+[459]
+<tibetan>སྙིང་རྗེ་མེད་པ་བསྐལ་པ་ལས་ཀྱི་རླུང་དང་ལྔའོ།
+<literal>/compassion without kalpa karma wind and five*/
+<liturgical><prose>All-pervading wind and
+
+[460]
+<tibetan>།རླུང་དེ་རྣམས་སེམས་ཅན་ཀུན་གྱི་ལུས་མགོ་མཇུག་ལ་གནས་པའོ་ཞེས་སོ།
+<literal>/wind those being all body head-tail-in abide thus*/
+<liturgical><prose>Compassionless karma wind—five. || 460 ||
+
+[461]
+<tibetan>།དེའང་སྲོག་འཛིན་གྱི་རླུང་སྲོག་པ་རྩ་ན་གནས་སོ།
+<literal>/that-also life-hold wind life channel-in abide/
+<liturgical><prose>Those winds abide in all beings' bodies' head and tail. Thus.
+
+[462]
+<tibetan>།བཀྲག་དང་གཟི་མདངས་སྐྱེད་པ་སྨིན་ཕྲག་ན་གནས་སོ།
+<literal>/color radiance produce chest-in abide/
+<liturgical><prose>That also: life-holding wind abides in life-channel;
+
+[463]
+<tibetan>།མེ་མཉམ་པོ་བ་ན་གནས་སོ།
+<literal>/fire-equal navel-in abide/
+<liturgical><prose>Color-radiance producing abides in chest;
+
+[464]
+<tibetan>།ཀུན་ཁྱབ་ལུས་ཀུན་ལ་ཁྱབ་པར་གནས་སོ།
+<literal>/all-pervade body all-in pervade abide/
+<liturgical><prose>Fire-equal abides in navel;
+
+[465]
+<tibetan>།ལས་རླུང་སྙིང་དང་སྙིང་ཤུན་གྱི་བར་ན་གནས་སོ།
+<literal>/karma wind heart and heart-membrane between-in abide/
+<liturgical><prose>All-pervading abides, pervading whole body;
+
+[466]
+<tibetan>།དེ་དག་གི་བྱེད་ལས་ཀྱང༌།
+<literal>/those function also*/
+<liturgical><prose>Karma wind abides between heart and heart-membrane.
+
+[467]
+<tibetan>སྲོག་གནས་པ་དང༌།
+<literal>/life abide and*/
+<liturgical><prose>Their functions also:
+
+[468]
+<tibetan>མདངས་བསྐྱེད་པ་དང༌།
+<literal>/radiance produce and*/
+<liturgical><prose>Life-abiding and
+
+[469]
+<tibetan>ཟས་འཇུ་བ།
+<literal>/food digest/
+<liturgical><prose>Radiance-producing and
+
+[470]
+<tibetan>འགྲོ་འདུག་དང༌།
+<literal>/go sit and*/
+<liturgical><prose>Food-digesting, || 470 ||
+
+[471]
+<tibetan>ཚེ་འཕོ་བའི་ལས་བྱེད་དེ་རིམ་པ་བཞིན་ནོ།
+<literal>/life transfer function do thus sequence likewise/
+<liturgical><prose>Going-sitting, and
+
+[472]
+<tibetan>།གཉིས་པ་ཡན་ལག་གི་དབྱེ་བ་ནི།
+<literal>/second branch division/
+<liturgical><prose>Life-transference function performing—thus in sequence.
+
+[473]
+<tibetan>རླུང་ལྔ་པོ་རེ་རེའང་ལྔ་ལྔར་གནས་པ་ལས།
+<literal>/wind five each five-five abide-from/
+<liturgical><prose>Second, branch division:
+
+[474]
+<tibetan>དང་པོ་སྲོག་འཛིན་པའི་རླུང་ལྔ་ནི་རང་ཤར་ལས།
+<literal>/first life-hold wind five self-arisen from/
+<liturgical><tantra>From each of the five winds also abiding as five:
+
+[475]
+<tibetan>སྲོག་འཛིན་པའི་རླུང་ལ་ཡང་ལྔ་སྟེ།
+<literal>/life-hold wind-in also five/
+<liturgical><prose>First, the five life-holding winds from the Self-Arisen:
+
+[476]
+<tibetan>རྩ་བ་འཛིན་པའི་སྲོག་དང༌།
+<literal>/root hold life and*/
+<liturgical><prose>In life-holding wind also five:
+
+[477]
+<tibetan>སྐྱོབ་བྱེད་ཀྱི་སྲོག་དང༌།
+<literal>/protect make life and*/
+<liturgical><prose>Root-holding life and
+
+[478]
+<tibetan>རྣམ་པར་འཕྲོ་བའི་སྲོག་དང༌།
+<literal>/spread life and*/
+<liturgical><prose>Protecting life and
+
+[479]
+<tibetan>མི་གཙང་བའི་སྲོག་དང།
+<literal>/impure life and*/
+<liturgical><prose>Spreading life and
+
+[480]
+<tibetan>རྣམ་པར་འདར་བྱེད་ཀྱི་སྲོག་དང་ལྔའོ་ཞེས་སོ།
+<literal>/shatter make life and five thus*/
+<liturgical><prose>Impure life and
+
+[481]
+<tibetan>།དེ་དག་ཀྱང་རིམ་པ་ལྟར།
+<literal>/those also sequence according-to*/
+<liturgical><prose>Shattering life—five. Thus.
+
+[482]
+<tibetan>རིག་པའི་གདངས་སྐྱེད་པ་དང༌།
+<literal>/awareness potential produce and*/
+<liturgical><prose>Those also according to sequence:
+
+[483]
+<tibetan>ཐིག་ལེའི་གདངས་སྐྱེད་པ་དང༌།
+<literal>/bindhu potential produce and*/
+<liturgical><prose>Awareness-potential producing and || 10 ||
+
+[484]
+<tibetan>འོད་ཀྱི་གདངས་སྐྱེད་པ་དང༌།
+<literal>/light potential produce and*/
+<liturgical><prose>Bindhu-potential producing and
+
+[485]
+<tibetan>མ་རིག་པའི་རྩ་བ་འཛིན་པ་དང༌།
+<literal>/non-awareness root hold and*/
+<liturgical><prose>Light-potential producing and
+
+[486]
+<tibetan>ཡིད་ཀྱི་གྲོགས་བྱེད་པའི་ཚུལ་གྱིས་སྲོག་རྩ་ན་ཡོད་ལ།
+<literal>/mind helper make manner life channel-in exist/
+<liturgical><prose>Non-awareness root holding and
+
+[487]
+<tibetan>སྲོག་རླུང་གི་གདངས་ལ་རིག་གདངས་བརྟེན་ནས་གནས་པ་ཡིན་ནོ།
+<literal>/life wind potential awareness potential rely abide/
+<liturgical><prose>Existing in life-channel in mind-helper making manner.
+
+[488]
+<tibetan>།གཉིས་པ་མེ་མཉམ་གྱི་རླུང་ལྔ་ནི།
+<literal>/second fire-equal wind five/
+<liturgical><prose>Life-wind potential relies upon and abides in awareness-potential.
+
+[489]
+<tibetan>ཡང་དེ་ལས།
+<literal>/again that from/
+<liturgical><prose>Second, the five fire-equal winds:
+
+[490]
+<tibetan>མེ་དང་ལྷན་ཅིག་གནས་པའི་རླུང་ལའང་ལྔ་སྟེ།
+<literal>/fire together abide wind-in also five/
+<liturgical><prose>Again from that:
+
+[491]
+<tibetan>དངས་སྙིགས་འབྱེད་པའི་རླུང་དང༌།
+<literal>/clear-impure separate wind and*/
+<liturgical><prose>In fire-abiding wind also five:
+
+[492]
+<tibetan>དྲོད་སྐྱེད་པའི་རླུང་དང༌།
+<literal>/warmth produce wind and*/
+<liturgical><prose>Clear-impure separating wind and
+
+[493]
+<tibetan>གསལ་འགྱུར་གྱི་རླུང་དང༌།
+<literal>/clear-change wind and*/
+<liturgical><prose>Warmth-producing wind and || 20 ||
+
+[494]
+<tibetan>རྣམ་པར་སྡུད་པའི་རླུང་དང༌།
+<literal>/distinguish gather wind and*/
+<liturgical><prose>Clear-change wind and
+
+[495]
+<tibetan>རྣམ་པར་གཟེངས་བསྟོད་པའི་རླུང་དང་ལྔའོ་ཞེས་སོ།
+<literal>/praise make wind and five thus*/
+<liturgical><prose>Distinctions-gathering wind and
+
+[496]
+<tibetan>།དེ་དག་ཀྱང་རིམ་པ་ལྟར།
+<literal>/those also sequence according-to/
+<liturgical><prose>Praise-making wind—five. Thus.
+
+[497]
+<tibetan>སྲོག་དང་གཉིས་སུ་མེད།
+<literal>/life and non-dual/
+<liturgical><prose>Those also according to sequence:
+
+[498]
+<tibetan>།རིག་པ་དང་གཉིས་སུ་མེད།
+<literal>/awareness and non-dual/
+<liturgical><prose>Nondual with awareness,
+
+[499]
+<tibetan>སྒྲོན་མ་དང་གཉིས་སུ་མེད།
+<literal>/lamp and non-dual/
+<liturgical><prose>Nondual with lamp,
+
+[500]
+<tibetan>ཐིག་ལེ་དང་གཉིས་སུ་མེད།
+<literal>/bindhu and non-dual/
+<liturgical><prose>Nondual with bindhu,
+
+[501]
+<tibetan>ཤེས་རབ་དང་གཉིས་སུ་མེད་པར་གནས་སོ།
+<literal>/wisdom and non-dual abide/
+<liturgical><prose>Abide nondual with wisdom.
+
+[502]
+<tibetan>།གསུམ་པ་བཀྲག་དང་གཟི་མདངས་སྐྱེད་པའི་རླུང་ལྔ་ཡང་དེ་ལས།
+<literal>/third color radiance produce wind five also that-from/
+<liturgical><prose>Third, the five color-radiance producing winds—also from That Source:
+
+[503]
+<tibetan>བཀྲག་དང་གཟི་མདངས་སྐྱེད་པའི་རླུང་ལའང་ལྔ་སྟེ་རྣམ་པར་ཤེས་པ་སྐྱེད་པའི་རླུང་དང༌།
+<literal>/color radiance produce wind-in also five consciousness produce wind and/
+<liturgical><prose>In color-radiance producing wind also five: consciousness-producing wind and || 30 ||
+
+[504]
+<tibetan>རྣམ་པར་ཡིད་འབྱུང་བའི་རླུང་དང༌།
+<literal>/mind arise wind and/
+<liturgical><prose>Mind-arising wind and
+
+[505]
+<tibetan>རྣམ་པར་མདངས་དང་ལྡན་པའི་རླུང་དང༌།
+<literal>/radiance possess wind and/
+<liturgical><prose>Radiance-possessing wind and
+
+[506]
+<tibetan>རྣམ་པར་སྲེག་པའི་རླུང་དང༌།
+<literal>/burn wind and/
+<liturgical><prose>Burning wind and
+
+[507]
+<tibetan>རྣམ་པར་རྒོད་པའི་རླུང་ལྔའོ་ཞེས་སོ།
+<literal>/wild wind five thus/
+<liturgical><prose>Wildness wind—five. Thus.
+
+[508]
+<tibetan>།དེ་དག་ཀྱང་རིམ་པ་བཞིན་ཤེས་རབ་ཀྱི་ཡུལ།
+<literal>/those also sequence according-to wisdom object/
+<liturgical><prose>Those also according to sequence: wisdom-object,
+
+[509]
+<tibetan>སྣང་བའི་ཡུལ།
+<literal>/appear object/
+<liturgical><prose>Appearing-object,
+
+[510]
+<tibetan>སྒྲོན་མའི་ཡུལ།
+<literal>/lamp object/
+<liturgical><prose>Lamp-object,
+
+[511]
+<tibetan>མ་རིག་པའི་ཡུལ།
+<literal>/non-awareness object/
+<liturgical><prose>Non-awareness object,
+
+[512]
+<tibetan>ཡིད་ཀྱི་ཡུལ་གྱི་རྟ་བྱེད་དོ།
+<literal>/mind object horse make/
+<liturgical><prose>Mind-object horse making.
+
+[513]
+<tibetan>།བཞི་པ་ཁྱབ་བྱེད་ཀྱི་རླུང་ལྔ་ནི།
+<literal>/fourth pervade wind five/
+<liturgical><prose>Fourth, the five all-pervading winds: || 40 ||
+
+[514]
+<tibetan>རང་ཤར་ལས།
+<literal>/self-arisen from/
+<liturgical><tantra>From the Self-Arisen:
+
+[515]
+<tibetan>རྣམ་པར་ཁྱབ་བྱེད་ཀྱི་རླུང་ལའང་ལྔ་སྟེ།
+<literal>/all-pervade wind-in also five/
+<liturgical><prose>In all-pervading wind also five:
+
+[516]
+<tibetan>གཞི་ལ་ཁྱབ་བྱེད་ཀྱི་རླུང་དང༌།
+<literal>/base pervade wind and/
+<liturgical><prose>Base-pervading and
+
+[517]
+<tibetan>འཕྲལ་དུ་ཁྱབ་བྱེད་ཀྱི་རླུང་དང༌།
+<literal>/immediate pervade wind and/
+<liturgical><prose>Immediate-pervading and
+
+[518]
+<tibetan>སྡང་ཞིང་སྐྲག་པ་ཁྱབ་བྱེད་ཀྱི་རླུང་དང༌།
+<literal>/hate fear pervade wind and/
+<liturgical><prose>Hatred-fear pervading and
+
+[519]
+<tibetan>དྲན་པ་ཁྱབ་བྱེད་ཀྱི་རླུང་དང༌།
+<literal>/memory pervade wind and/
+<liturgical><prose>Memory-pervading and
+
+[520]
+<tibetan>འཛིན་པས་ལུས་ཀུན་ཁྱབ་པའི་རླུང་དང་ལྔའོ་ཞེས་སོ།
+<literal>/grasp body all pervade wind and five thus/
+<liturgical><prose>All body-pervading by holding—five. Thus.
+
+[521]
+<tibetan>།དེ་དག་ཀྱང་རིམ་པ་ལྟར།
+<literal>/those also sequence according-to/
+<liturgical><prose>Those also according to sequence:
+
+[522]
+<tibetan>ཡེ་ཤེས་ལ་སྣང༌།
+<literal>/wisdom-in appear/
+<liturgical><prose>Wisdom-appearing,
+
+[523]
+<tibetan>སྒྲོན་མ་ལ་སྣང༌།
+<literal>/lamp-in appear/
+<liturgical><prose>Lamp-appearing, || 50 ||
+
+[524]
+<tibetan>ཤེས་པ་ལ་སྣང༌།
+<literal>/know-in appear/
+<liturgical><prose>Knowing-appearing,
+
+[525]
+<tibetan>བསམ་པ་ལ་སྣང༌།
+<literal>/think-in appear/
+<liturgical><prose>Thinking-appearing,
+
+[526]
+<tibetan>སེམས་ལ་སྣང་བའི་རྩལ་བྱེད་པའོ།
+<literal>/mind-in appear potency make/
+<liturgical><prose>Mind-appearing potency making.
+
+[527]
+<tibetan>།ལྔ་པ་སྙིང་རྗེ་མེད་པ་ལས་ཀྱི་རླུང་ལྔ་ནི།
+<literal>/fifth compassion non-exist karma wind five/
+<liturgical><prose>Fifth, the five compassionless karma winds:
+
+[528]
+<tibetan>ཡང་དེ་ལས།
+<literal>/again that from/
+<liturgical><prose>Again from That Source:
+
+[529]
+<tibetan>སྙིང་རྗེ་མེད་པ་བསྐལ་པ་ལས་ཀྱི་རླུང་ལའང་ལྔ་སྟེ།
+<literal>/compassion non-exist kalpa karma wind-in also five/
+<liturgical><prose>In compassionless aeon-karma wind also five:
+
+[530]
+<tibetan>རྣམ་པར་སྐྱོད་བྱེད་ཀྱི་རླུང་དང༌།
+<literal>/move make wind and/
+<liturgical><prose>Movement-making wind and
+
+[531]
+<tibetan>རྣམ་པར་སྒྲོལ་བྱེད་ཀྱི་རླུང་དང༌།
+<literal>/liberate make wind and/
+<liturgical><prose>Liberation-making wind and
+
+[532]
+<tibetan>རྣམ་པར་ཟློག་བྱེད་ཀྱི་རླུང་དང༌།
+<literal>/reverse make wind and/
+<liturgical><prose>Reversal-making wind and
+
+[533]
+<tibetan>རྣམ་པར་མྱུར་བྱེད་ཀྱི་རླུང་དང༌།
+<literal>/quick make wind and/
+<liturgical><prose>Swiftness-making wind and || 60 ||
+
+[534]
+<tibetan>སྐད་ཅིག་མའི་རླུང་དང་ལྔའོ་ཞེས་སོ།
+<literal>/momentary wind and five thus/
+<liturgical><prose>Moments wind—five. Thus.
+
+[535]
+<tibetan>།དེ་དག་ཀྱང་རིམ་པ་ལྟར།
+<literal>/those also sequence according-to/
+<liturgical><prose>Those also according to sequence:
+
+[536]
+<tibetan>ཕུང་པོ་ལ་ཁྱབ།
+<literal>/aggregate pervade/
+<liturgical><prose>Aggregates-pervading,
+
+[537]
+<tibetan>སྐད་ཅིག་ལ་ཁྱབ།
+<literal>/moment pervade/
+<liturgical><prose>Moments-pervading,
+
+[538]
+<tibetan>བར་དོ་ལ་ཁྱབ།
+<literal>/bardo pervade/
+<liturgical><prose>Bardo-pervading,
+
+[539]
+<tibetan>རྟོག་པ་ལ་ཁྱབ།
+<literal>/concept pervade/
+<liturgical><prose>Concepts-pervading,
+
+[540]
+<tibetan>སྐད་ཅིག་མ་བྱ་རྫོགས་གསུམ་ལ་ཁྱབ་པའོ།
+<literal>/momentary deed complete three pervade/
+<liturgical><prose>Three-pervading—moments, actions, completion.
+
+[541]
+<tibetan>།དེ་ལྟར་ཉི་ཤུ་རྩ་ལྔ་ཡང་རྩ་བ་ལྔར་འདུ་ལ།
+<literal>/thus twenty-five also root five gather/
+<liturgical><prose>Thus, twenty-five also gather into five roots.
+
+[542]
+<tibetan>དེ་དག་གི་སྒྲ་བཤད་ནི།
+<literal>/those sound explanation/
+<liturgical><prose>These terms' explanation:
+
+[543]
+<tibetan>རང་ཤར་ལས།
+<literal>/self-arisen from/
+<liturgical><tantra>From the Self-Arisen: || 70 ||
+
+[544]
+<tibetan>ཡང་དག་པའི་ས་ལ་སྐྱོད་པར་བྱེད་པའི་ཕྱིར་ན།
+<literal>/correct earth-in move make cause thus/
+<liturgical><prose>Because of true-ground movement-making,
+
+[545]
+<tibetan>སྐྱོད་བྱེད་ཀྱི་རླུང་ཞེས་བྱའོ།
+<literal>/move-make wind call/
+<liturgical><prose>Move-making wind it is called.
+
+[546]
+<tibetan>།དག་པ་ཡེ་ཤེས་ཀྱི་སྲོག་འཛིན་པའི་ཕྱིར་ན་སྲོག་འཛིན་པའི་རླུང་ཞེས་བྱའོ།
+<literal>/pure wisdom life hold cause thus life-hold wind call/
+<liturgical><prose>Because of pure wisdom's life-holding,
+
+[547]
+<tibetan>།ཡེ་ཤེས་ཀྱི་འོད་ལྔ་རང་ཆས་སུ་ཡོད་པའི་ཕྱིར་ན་བཀྲག་དང་གཟི་མདངས་སྐྱེད་པའི་རླུང་ཞེས་བྱའོ།
+<literal>/wisdom light five self-nature exist cause thus color radiance produce wind call/
+<liturgical><prose>Life-holding wind it is called.
+
+[548]
+<tibetan>།ཤེས་རབ་ཀྱི་ཡང་དག་པའི་དབྱིངས་སུ་སྒྲོལ་ནུས་པའི་ཕྱིར་ན་སྙིང་རྗེ་མེད་པ་བསྐལ་པ་ལས་ཀྱི་རླུང་ཞེས་བྱའོ།
+<literal>/wisdom correct dimension liberate able cause thus compassion non-exist kalpa karma wind call/
+<liturgical><prose>Because of five wisdom-lights' self-nature existing,
+
+[549]
+<tibetan>།ཡེ་ཤེས་ཀྱི་སྣང་པ་དང་འདུ་འབྲལ་མེད་པར་གནས་པའི་ཕྱིར་ན་མེ་དང་མཉམ་པའི་རླུང་ཞེས་བྱའོ་ཞེས་སོ།
+<literal>/wisdom appear gather-separate non-exist abide cause thus fire-equal wind call thus/
+<liturgical><prose>Color-radiance producing wind it is called.
+
+[550]
+<tibetan>།དེ་ལྟར་དངས་མའི་རླུང་ལྔ་ལ་རིག་པའི་ཡེ་ཤེས་བརྟེན་ནས་ད་ལྟ་སྙིང་ག་ན་གནས་པས་ཡེ་ཤེས་ཀྱི་རང་གདངས་འོད་ལྔར་གསལ་བའི་གནད་དེ་ཡིན་ནོ།
+<literal>/thus essence wind five awareness wisdom rely now heart-in abide-by wisdom self-sound potential light five clear essential-point that is/
+<liturgical><prose>Because of wisdom's true expanse liberation ability,
+
+[551]
+<tibetan>།རིག་པ་རླུང་དང་བྲལ་དུས་ཡེ་ཤེས་དབྱིངས་་འཁྱིལ་བས་ཕྱི་ནང་གི་མི་མངོན་པའང་རླུང་སེམས་དག་པའི་གནད་ལ་ཐུག་གོ
+<literal>/awareness wind separate when wisdom dimension gather outer-inner non-appear also wind mind pure essential-point-in arrive/
+<liturgical><break><prose> Compassionless aeon-karma wind it is called.
+
+[552]
+<tibetan>།འདིར་ཅུང་ཟད་བསྡུས་ཏེ་བཤད་ན།
+<literal>/here brief summarized explain/
+<liturgical><break><prose> Because of wisdom-appearing's non-gathering non-separating abiding,
+
+[553]
+<tibetan>ངོ་བོ་ཀ་དག་གི་རིག་པ་རིན་པོ་ཆེ་གསང་བའི་སྦུབས་རང་བཞིན་གྱིས་འོད་གསལ་བའི་ཕོ་བྲང་ན་ངོ་བོ་རང་བཞིན་ཐུགས་རྗེ་གསུམ་གྱི་བདག་ཉིད་དུ་བཞུགས་སོ།
+<literal>/essence primordial-purity awareness jewel secret cavity self-nature luminous palace-in essence nature compassion three master abide/
+<liturgical><prose>Fire-equal wind it is called. Thus. || 80 ||
+
+[554]
+<tibetan>།དེའང་ངོ་བོ་སྐུར་བཞུགས་པས་རང་དོན་མི་གསལ་ཡང་ཕྱིར་སྣང་སྐུའི་འཆར་གཞི་མ་འགགས་པར་རང་གསལ།
+<literal>/that-also essence kaya abide-by self-purpose non-clear though outer-appear kaya arise base non-cease self-clear/
+<liturgical><prose>Thus, in the five essence winds, relying on awareness-wisdom, now abiding in heart,
+
+[555]
+<tibetan>རང་བཞིན་འོད་ལྔའི་འཆར་གཞི་སྲོག་རླུང་ཡན་ལག་བཞི་གསུང་གི་སྙིང་པོར་ཡེ་གནས།
+<literal>/nature light-five arise base life wind branch four speech essence primordially abide/
+<liturgical><prose>That is wisdom's self-sound-potential clearing as five lights' essential point.
+
+[556]
+<tibetan>ཐུགས་རྗེ་རང་བྱུང་རིག་པའི་སྙིང་པོ་མཁྱེན་པ་གཉིས་ཀྱི་ཡེ་ཤེས་སུ་ལྷུན་གྱིས་གྲུབ་པས།
+<literal>/compassion self-arisen awareness essence two-know wisdom spontaneous-completion-by/
+<liturgical><prose>When awareness separates from wind, wisdom-expanse gathering,
+
+[557]
+<tibetan>སྐུ་དང་ཡེ་ཤེས་འདུ་འབྲལ་མེད་པའི་གདོངས་པ་ལས་འཕོ་འགྱུར་མེད་པར་བཞུགས་སོ།
+<literal>/kaya and wisdom gather-separate non-exist intention-from shift-change non-exist abide/
+<liturgical><prose>Outer-inner's non-manifest also arrives at pure wind-mind's essential point.
+
+[558]
+<tibetan>།མཁྱེན་པ་གཉིས་ནི།
+<literal>/two know/
+<liturgical><prose>The two-knowing:
+
+[559]
+<tibetan>ངོ་བོ་ཆོས་ཉིད་ནང་གསལ་ལ་ལྟོས་ནས་ཐམས་ཅད་མཁྱེན།
+<literal>/essence dharma-nature inner-clear depend-on all know/
+<liturgical><prose>Depending on dharmatā's inner-clear essence, all-knowing;
+
+[560]
+<tibetan>རྣམ་པ་ཆོས་ཅན་ཕྱིར་གསལ་ལ་ལྟོས་ནས་རྣམ་པ་ཐམས་ཅད་མཁྱེན་པའི་ཡེ་ཤེས་སྣང་བའོ།
+<literal>/aspect dharma-possessor outer-clear depend-on aspect all-know wisdom appear/
+<liturgical><prose>Depending on dharmapossessor's outer-clear aspect, all-aspect-knowing appearing as wisdom.
+
+[561]
+<tibetan>།རླུང་ལྔ་ནི་རྩ་བ་སྲོག་རླུང་ཐུགས་རྗེ་རིག་པའི་ཡེ་ཤེས་ཀྱི་ཆ་ལས་དག་ན་སངས་རྒྱས་ཀྱི་ཡེ་ཤེས་དང༌།
+<literal>/five-winds root life wind compassion awareness wisdom portion-from pure-if buddha wisdom and/
+<liturgical><prose>Five winds: from root life-wind's portion, compassion, awareness-wisdom—if pure, Buddha-wisdom;
+
+[562]
+<tibetan>མ་དག་ན་སེམས་ཅན་ཀྱི་རྟོགས་ཚོགས་སུ་འཆར་བའི་གཞི་གྱུར་པའོ།
+<literal>/non-pure-if sentient-being realization aggregate arise base become/
+<liturgical><prose>If impure, become beings' realization-aggregate arising-base.
+
+[563]
+<tibetan>།དེ་ལས་འཕྲོས་པ་ཡན་ལག་གི་རླུང་བཞི་ནི་ཐུགས་རྗེའི་རྩལ་ལས་ཉི་མ་ལས་འོད་ཟེར་ལྟ་བུ་སྟེ།
+<literal>/that-from emanate branch wind four compassion potency-from sun-from light-ray like/
+<liturgical><prose>Four branch winds emanating from that, from compassion-potency, like sun's rays: || 90 ||
+
+[564]
+<tibetan>གྱེན་དུ་རྒྱུ་ཤེས་རབ་ཀྱི་རྟ་དང༌།
+<literal>/upward-go wisdom horse and/
+<liturgical><prose>Upward-going wisdom-horse and
+
+[565]
+<tibetan>ཐུར་དུ་སེལ་ཤེས་རབ་ཀྱི་ཟེར་གདངས་འོད་དང༌།
+<literal>/downward-clear wisdom ray potential light and/
+<liturgical><prose>Downward-clearing wisdom-ray, potential-light, and
+
+[566]
+<tibetan>མེ་དང་མཉམ་སྨིན་པར་བྱེད་པའི་སྟོབས་ཅན་དང༌།
+<literal>/fire equal ripen make power possess and/
+<liturgical><prose>Fire-equal ripening-possessing power, and
+
+[567]
+<tibetan>ཁྱབ་བྱེད་རྫོགས་པར་བྱེད་པའི་སྟོབས་ཅན་བཞི་སྟེ།
+<literal>/pervade complete make power possess four/
+<liturgical><prose>Completing-pervasion possessing power—four.
+
+[568]
+<tibetan>འདི་དག་ཀྱང་སྲོག་རླུང་ཙམ་གྱི་ཆ་ལ་ཡོད་ཀྱང༌།
+<literal>/these also life wind only portion-in exist though/
+<liturgical><prose>Although these also exist only in life-wind's portion,
+
+[569]
+<tibetan>དབྱིངས་སུ་ནི་མ་འཕྲོས།
+<literal>/dimension-in not-emanate/
+<liturgical><prose>In expanse, not emanated;
+
+[570]
+<tibetan>འཕྲོ་གཞི་མ་འགགས་པའི་སྙིང་པོ་ཙམ་དུ་གནས་ཏེ།
+<literal>/emanate base non-cease essence only abide/
+<liturgical><prose>Abiding only as emanation's non-ceasing base's essence.
+
+[571]
+<tibetan>སྙིང་པོའི་ཡན་ལག་འོད་དུ་གསལ་བའོ།
+<literal>/essence branch light clear/
+<liturgical><prose>Essence-branch clear as light.
+
+[572]
+<tibetan>།དེ་སྐད་དུ་ཡང་ཀུན་གསལ་ལས།
+<literal>/thus-statement also kunsal from/
+<liturgical><prose>Thus stated, also from the Kun gsal:
+
+[573]
+<tibetan>དེ་ཡི་སྐུ་ཡི་བཞུགས་ཚུལ་ནི།
+<literal>/that kaya abide manner/
+<liturgical><prose>That kaya's abiding manner: || 100 ||
+
+[574]
+<tibetan>།སྟོང་གསལ་ཆུ་ལྦུའི་གཟུགས་བརྙན་བཞིན།
+<literal>/empty-luminous bubble form-reflection like/
+<liturgical><prose>Like empty-luminous bubble's form-reflection.
+
+[575]
+<tibetan>།དེ་ཡི་གསུང་གི་གནས་ལུགས་ནི།
+<literal>/that speech abide nature/
+<liturgical><prose>That speech's abiding nature:
+
+[576]
+<tibetan>།ཡན་ལག་རླུང་བཞི་མེ་སྟག་ཟེར་བཞིན་དུ།
+<literal>/branch wind four fire spark ray like/
+<liturgical><prose>Like fire-sparks' rays, four branch winds
+
+[577]
+<tibetan>།རིག་པའི་ཀློང་ན་གསལ་བའོ།
+<literal>/awareness expanse-in clear/
+<liturgical><prose>Clear in awareness-expanse.
+
+[578]
+<tibetan>།དེ་ཡི་ཐུགས་ཀྱི་གསལ་ལུགས་ནི།
+<literal>/that mind clear nature/
+<liturgical><prose>That mind's clear nature:
+
+[579]
+<tibetan>།སྲོག་རླུང་རང་གི་ངོ་བོ་སྟེ།
+<literal>/life wind self essence/
+<liturgical><prose>Life-wind's self-essence,
+
+[580]
+<tibetan>།ཕྱོགས་ལྷུང་མེད་པའི་ཤེས་རབ་མེ་སྟག་ལྟར།
+<literal>/wisdom fire spark without falling direction like/
+<liturgical><prose>Like wisdom fire-sparks without falling-direction,
+
+[581]
+<tibetan>།སྙིང་པོའི་སྙིང་པོ་ཡེ་ཤེས་ལྔར་བཞུགས་སོ།
+<literal>/essence essence wisdom five abide/
+<liturgical><prose>Abide as essence-of-essence's five wisdoms.
+
+[582]
+<tibetan>།ཞེས་སོ།
+<literal>/thus*/
+<liturgical><prose>Thus.
+
+[583]
+<tibetan>།དེའང་རྣམ་པར་རྟོག་པ་གང་གིས་ཀྱང་མ་བསླད་པའི་ཡེ་ཤེས་ཏེ།
+<literal>/that also concept any-by non-deceive wisdom/
+<liturgical><prose>That also is wisdom not deceived by any concept. || 110 ||
+
+[584]
+<tibetan>བཅོས་ཤིང་བསྒྱུར་བ་དང༌།
+<literal>/alter and transform/
+<liturgical><prose>Altering and transforming—
+
+[585]
+<tibetan>ངོས་གཟུང་ཞིང་བརྡར་གདགས་མི་བཏུབ་པ།
+<literal>/face grasp and mark designate not capable/
+<liturgical><prose>Not able to be grasped by face or designated by mark,
+
+[586]
+<tibetan>ས་གཞི་དང་ནམ་མཁའ་ལྟ་བུ།
+<literal>/earth ground and sky like/
+<liturgical><prose>Like earth and sky,
+
+[587]
+<tibetan>གསལ་བལ་ཆ་ཕྲ་བས་སླ་ལྔའི་རྒྱབ་ཀྱི་མེ་སྟག་བཞིན་ཏེ།
+<literal>/clear coarse subtle by easy five-of back-of fire sparks like/
+<liturgical><prose>Clear and subtle, like sparks of fire behind the five lights,
+
+[588]
+<tibetan>དབྱིངས་ཀྱི་སྙིང་པོ་ཆོས་སྐུ།
+<literal>/expanse heart essence dharmakaya/
+<liturgical><prose>The expanse's heart essence, Dharmakāya,
+
+[589]
+<tibetan>དེ་ཉིད་རིག་པར་གནས་པས་ཀུན་གྱི་གཞི་འཛིན་ནོ།
+<literal>/that very awareness in abide-by all basis hold/
+<liturgical><prose>Abiding as awareness itself, holding all's basis.
+
+[590]
+<tibetan>།དེའི་བཞུགས་པའི་ཕོ་བྲང་ནི།
+<literal>/that abide palace/
+<liturgical><prose>Its abiding palace is
+
+[591]
+<tibetan>དེ་ཉིད་ལས།
+<literal>/that very from/
+<liturgical><tantra>From that very source:
+
+[592]
+<tibetan>ཆོས་ཀྱི་དབྱིངས་ཏེ་སྟོང་ཁྱབ་ནམ་མཁའ་བཞིན།
+<literal>/dharmadhatu empty pervade sky like*/
+<liturgical><prose>Dharmadhatu, empty and all-pervading like space—
+
+[593]
+<tibetan>།ཅེས་པས།
+<literal>/thus by/
+<liturgical><prose>Thus it is said. || 120 ||
+
+[594]
+<tibetan>ཆོས་ཀྱི་སྐུ་དེ་རིན་པོ་ཆེའི་སྦུབས་ན་བཞུགས་ཙམ་ན།
+<literal>/dharmakaya that precious interior-in abide merely when/
+<liturgical><prose>When that Dharmakāya abides within the precious interior,
+
+[595]
+<tibetan>ཆོས་ཉིད་དག་པའི་ཡེ་གདངས་ཞེས་བྱ་སྟེ།
+<literal>/dharmata pure original-tone called/
+<liturgical><prose>It is called dharmatā's pure original tone,
+
+[596]
+<tibetan>།རིག་པ་འོད་གྱི་ཁང་པ་ཅན།
+<literal>/awareness light house possess/
+<liturgical><prose>The house possessing awareness-light,
+
+[597]
+<tibetan>།འོད་ཀྱི་སྣང་བ་ལ་བཞུགས་སོ།
+<literal>/light appearance in abide/
+<liturgical><prose>Abiding in light's display.
+
+[598]
+<tibetan>།དེ་ནི་ཐོག་མའི་སྤྱི་གཞི་རིག་པའི་དབྱིངས་ཞེས་བྱ་སྟེ།
+<literal>/that beginning common basis awareness expanse called/
+<liturgical><prose>This is called the primordial common basis, awareness-expanse,
+
+[599]
+<tibetan>རླུང་ལྔ་དང་འབྲེལ་པ་བསྒྲུབ་པའི་དོན་ཏོ།
+<literal>/wind five with connect establish meaning/
+<liturgical><prose>The meaning of establishing connection with the five winds.
+
+[600]
+<tibetan>།གཉིས་པ་མེ་ལྔ་རྒྱས་པར་བཤད་པ་ནི་རང་ཤར་ལས།
+<literal>/second fire five extensive explanation self-arisen from/
+<liturgical><prose>Second, the five fires' extensive explanation, from Self-Arisen:
+
+[601]
+<tibetan>མེ་ལ་ལྔ་སྟེ།
+<literal>/fire to five/
+<liturgical><prose>There are five fires:
+
+[602]
+<tibetan>ཕྱི་ནང་ཀུན་གྱི་ཁྱབ་བྱེད་ཀྱི་མེ་དང༌།
+<literal>/outer-inner all pervade fire and/
+<liturgical><prose>Outer-inner all-pervading fire,
+
+[603]
+<tibetan>ཕྱི་ནང་ཀུན་གསལ་གྱི་མེ་དང༌།
+<literal>/outer-inner all clear fire and/
+<liturgical><prose>Outer-inner all-illuminating fire, || 130 ||
+
+[604]
+<tibetan>ཕྱི་ནང་ཀུན་ཏུ་མཉམ་པའི་མེ་དང༌།
+<literal>/outer-inner all equal fire and/
+<liturgical><prose>Outer-inner all-equalizing fire,
+
+[605]
+<tibetan>ཕྱི་ནང་གི་བྱ་བ་རྟོག་པའི་མེ་དང༌།
+<literal>/outer-inner action concept fire and/
+<liturgical><prose>Outer-inner action's concept fire,
+
+[606]
+<tibetan>ཕྱི་ནང་གི་བྱ་བ་གྲུབ་པའི་མེ་དང་ལྔའོ་ཞེས་སོ།
+<literal>/outer-inner action accomplish fire and five thus/
+<liturgical><prose>Outer-inner action's accomplishing fire—thus five.
+
+[607]
+<tibetan>།དེ་དག་ཀྱང་རིམ་པ་བཞིན།
+<literal>/those also sequence by/
+<liturgical><prose>These also, in sequence,
+
+[608]
+<tibetan>གློ་བ་དང༌།
+<literal>/lungs and/
+<liturgical><prose>Reside in lungs,
+
+[609]
+<tibetan>མིག་དང་ཡན་ལག་རྣམ་པ་ལྔ་སྟེ་དྲུག་དང༌།
+<literal>/eye and limbs kind five being six and/
+<liturgical><prose>Eyes and five limbs, making six,
+
+[610]
+<tibetan>ཤ་ལྤགས་བར་དང༌།
+<literal>/flesh gap and/
+<liturgical><prose>Flesh gaps,
+
+[611]
+<tibetan>རྐང་མཐིལ་གཉིས་དང༌།
+<literal>/foot sole two and/
+<liturgical><prose>Two soles of feet,
+
+[612]
+<tibetan>ལག་མཐིལ་གཉིས་ན་གནས་ཤིང་དྲོད་སྐྱེད་དོ།
+<literal>/hand sole two in abide and heat produce/
+<liturgical><prose>And two palms of hands, producing warmth.
+
+[613]
+<tibetan>།གསུམ་པ་ས་ལའང་ལྔ་སྟེ།
+<literal>/third earth also five/
+<liturgical><prose>Third, the five earths as well: || 140 ||
+
+[614]
+<tibetan>དེ་ཉིད་ལས།
+<literal>/that very from/
+<liturgical><tantra>From that same source:
+
+[615]
+<tibetan>ས་ལ་ཡང་ལྔ་སྟེ།
+<literal>/earth also five/
+<liturgical><prose>There are five earths:
+
+[616]
+<tibetan>ཀུན་ཏུ་སྣང་བའི་ས་དང༌།
+<literal>/all illuminate earth and/
+<liturgical><prose>All-illuminating earth,
+
+[617]
+<tibetan>མི་འགྱུར་བ་རྡོ་རྗེའི་ས་དང༌།
+<literal>/unchanging vajra earth and/
+<liturgical><prose>Unchanging vajra earth,
+
+[618]
+<tibetan>ཐམས་ཅད་འབྱུང་བ་རིན་པོ་ཆེའི་ས་དང༌།
+<literal>/all arise precious earth and/
+<liturgical><prose>Precious earth from which all arise,
+
+[619]
+<tibetan>སྣང་བ་སྟོན་པ་ཀུན་ཏུ་མཐའ་ཡས་པའི་ས་དང༌།
+<literal>/appearance show all pervade earth and/
+<liturgical><prose>All-pervading earth showing appearances,
+
+[620]
+<tibetan>སྒྲུབ་པ་མཐར་ཕྱིན་པའི་ས་དང་ལྔའོ་ཞེས་སོ།
+<literal>/accomplish completion earth and five thus/
+<liturgical><prose>Perfected accomplishment earth—thus five.
+
+[621]
+<tibetan>།དེ་དག་ཀྱང་རིམ་པ་བཞིན།
+<literal>/those also sequence by/
+<liturgical><prose>These also, in sequence,
+
+[622]
+<tibetan>རིག་པ་དང་ལྷན་ཅིག
+<literal>/awareness with together/
+<liturgical><break><prose> Together with awareness,
+
+[623]
+<tibetan>སྒྲོན་པ་དང་ལྷན་ཅིག
+<literal>/lamp with together/
+<liturgical><prose>Together with lamp, || 150 ||
+
+[624]
+<tibetan>ཐིག་ལེ་དང་ལྷན་ཅིག
+<literal>/thigle with together/
+<liturgical><prose>Together with thigle,
+
+[625]
+<tibetan>ཡེ་ཤེས་དང་ལྷན་ཅིག
+<literal>/wisdom with together/
+<liturgical><prose>Together with wisdom,
+
+[626]
+<tibetan>ཤེས་རབ་དང་ལྷན་ཅིག་བརྟེན་པར་གནས་སོ།
+<literal>/discriminating awareness with together rely abide/
+<liturgical><break><prose> Together with discriminating awareness, they abide in reliance.
+
+[627]
+<tibetan>།བཞི་པ་ཆུ་ལྔ་ཡང་རང་ཤར་ལས།
+<literal>/fourth water five also self-arisen from/
+<liturgical><prose>Fourth, the five waters also from Self-Arisen:
+
+[628]
+<tibetan>ཆུ་རྣམས་པ་ལྔ་ནི།
+<literal>/water kind five is/
+<liturgical><prose>The five water kinds are:
+
+[629]
+<tibetan>འགྱུར་བ་མེད་པའི་ཆུ་དང༌།
+<literal>/unchanging water and/
+<liturgical><prose>Unchanging water,
+
+[630]
+<tibetan>ཞི་བ་གསལ་དག་གི་ཆུ་དང༌།
+<literal>/peaceful clear pure water and/
+<liturgical><prose>Peaceful, clear, pure water,
+
+[631]
+<tibetan>ཡོན་ཏན་འབྱུང་བ་རྒྱས་པའི་ཆུ་དང༌།
+<literal>/quality arise extensive water and/
+<liturgical><prose>Extensively arising qualities' water,
+
+[632]
+<tibetan>ཆགས་པ་མེད་པའི་ཆུ་དང༌།
+<literal>/attachment without water and/
+<liturgical><prose>Attachment-free water,
+
+[633]
+<tibetan>འཛིན་མེད་རྫོགས་པའི་ཆུ་དང་ལྔའོ་ཞེས་སོ།
+<literal>/grasp without completion water and five thus/
+<liturgical><prose>Completion-without-grasping water—thus five. || 160 ||
+
+[634]
+<tibetan>།དེ་དག་ཀྱང་རིམ་པ་ལྟར།
+<literal>/those also sequence by/
+<liturgical><prose>These also, according to sequence,
+
+[635]
+<tibetan>རྩ་ཐམས་ཅད་དང༌།
+<literal>/channels all and/
+<liturgical><prose>Together with all channels—
+
+[636]
+<tibetan>རུས་པ་ཐམས་ཅད་དང༌།
+<literal>/bones all and/
+<liturgical><prose>Together with all bones,
+
+[637]
+<tibetan>ཁྲག་ཐམས་ཅད་དང༌།
+<literal>/blood all and/
+<liturgical><prose>Together with all blood,
+
+[638]
+<tibetan>ཆུ་སེར་ཐམས་ཅད་དང༌།
+<literal>/lymph all and/
+<liturgical><prose>Together with all lymph,
+
+[639]
+<tibetan>མིག་གཉིས་ཀྱི་ནང་ན་གནས་པས་བརླན་ཞིང་དངས་མ་འཛིན་པའོ།
+<literal>/eye two of inside in abide-by moist and essence not-hold/
+<liturgical><prose>Abiding within two eyes, moistening without essence-holding.
+
+[640]
+<tibetan>།ལྔ་པ་ནམ་མཁའ་ལྔ་ནི།
+<literal>/five space five/
+<liturgical><prose>Fifth, the five spaces:
+
+[641]
+<tibetan>ཡང་རང་ཤར་ལས་གསུངས་པ།
+<literal>/again self-arisen from spoke/
+<liturgical><prose>Again, from Self-Arisen it is taught:
+
+[642]
+<tibetan>ནམ་མཁའ་ལྔ་ནི།
+<literal>/space five/
+<liturgical><prose>The five spaces are:
+
+[643]
+<tibetan>སྤྱི་ཀུན་ལ་ཁྱབ་པའི་ནམ་མཁའ་དང༌།
+<literal>/common all pervade space and/
+<liturgical><prose>All-common-pervading space, || 170 ||
+
+[644]
+<tibetan>ཡུལ་མེད་གསལ་གདངས་ཀྱི་ནམ་མཁའ་དང༌།
+<literal>/object without clear-tone space and/
+<liturgical><prose>Object-free clear-tone space,
+
+[645]
+<tibetan>མ་འདྲེས་དག་པའི་ནམ་མཁའ་དང༌།
+<literal>/unmixed pure space and/
+<liturgical><prose>Pure unmixed space,
+
+[646]
+<tibetan>དོན་མཚོན་བྱེད་ཀྱི་ནམ་མཁའ་དང༌།
+<literal>/meaning indicate space and/
+<liturgical><prose>Meaning-indicating space,
+
+[647]
+<tibetan>དག་པའི་ཞིང་དུ་སྒྲོལ་བྱེད་ཀྱི་ནམ་མཁའོ་ཞེས་སོ།
+<literal>/pure field liberate space thus/
+<liturgical><prose>Pure-field liberating space—thus.
+
+[648]
+<tibetan>།དེ་དག་ཀྱང་རིམ་པ་བཞིན་དུ།
+<literal>/those also sequence by/
+<liturgical><prose>These also, in sequence,
+
+[649]
+<tibetan>རིག་པ་དངོས་དང༌།
+<literal>/awareness actual and/
+<liturgical><prose>Together with actual awareness,
+
+[650]
+<tibetan>འོད་ལྔ་དང༌།
+<literal>/light five and/
+<liturgical><prose>Together with five lights,
+
+[651]
+<tibetan>དབྱིངས་རྣམ་པར་དག་པའི་སྒྲོན་མ་དང༌།
+<literal>/expanse pure lamp and/
+<liturgical><prose>Together with pure-expanse lamp,
+
+[652]
+<tibetan>རྟགས་ཀྱི་ཡེ་ཤེས་དང༌།
+<literal>/sign wisdom and/
+<liturgical><prose>Together with signs' wisdom,
+
+[653]
+<tibetan>ངོ་སྤྲོད་ཉི་ཤུ་རྩ་གཅིག་གིས་སྤྲད་པའི་དཔེ་དོན་ངེས་པའི་ཡིད་ཆེས་རྣམས་སོ།
+<literal>/twenty-one pointing-out instruction-by joined example meaning certain confidence/
+<liturgical><prose>Together with twenty-one pointing-out instructions, example-meaning certain confidence. || 180 ||
+
+[654]
+<tibetan>།དེ་ལྟར་འབྱུང་བ་ལྔའི་རིག་པའི་ཆས་བསྡུས་པ་རྣམས་འབྱུང་བ་ཆེན་པོ་ཡིན་ལ།
+<literal>/thus five-arising awareness-attributes summarized great-arising is and that basis small-arising is/
+<liturgical><prose>Thus, five elements' awareness summarized attributes are the great elements,
+
+[655]
+<tibetan>དེའི་རྟེན་ནི་འབྱུང་བ་ཆུང་བ་ཡིན་ནོ།
+<literal>/vehicle supreme precious treasury from/
+<liturgical><prose>While their basis is the small elements.
+
+[656]
+<tibetan>།ཐེག་པའི་མཆོག་རིན་པོ་ཆེའི་མཛོད་ལས།
+<literal>/fifteenth division elements place show/
+<liturgical><tantra>From the Treasury of the Supreme Vehicle:
+
+[657]
+<tibetan>འབྱུང་བའི་གནས་བསྟན་པ་སྟེ་རིམ་ཁང་བཅོ་ལྔ་པའོ།
+<literal>/thus elements nature establish after/
+<liturgical><prose>The fifteenth division: Showing the Elements' Place.
+
+[658]
+<tibetan>།དེ་ལྟར་རྟེན་འབྱུང་བའི་རང་བཞིན་གཏན་ལ་ཕབ་ནས།
+<literal>/now support expanse wisdom place pure four/
+<liturgical><prose>Thus, having established elements' nature as basis,
+
+[659]
+<tibetan>ད་ནི་བརྟེན་པ་དབྱིངས་དང་ཡེ་ཤེས་ཀྱི་གནས་རྣམ་པར་དག་པ་ལ་བཞི་སྟེ།
+<literal>/basis kaya/
+<liturgical><prose>Now, the supported's fourfold purity: expanse and wisdom:
+
+[660]
+<tibetan>རྟེན་སྐུ།
+<literal>/tone light/
+<liturgical><prose>Basis: kayas,
+
+[661]
+<tibetan>གདངས་འོད།
+<literal>/support wisdom/
+<liturgical><prose>Tone: light,
+
+[662]
+<tibetan>བརྟེན་པ་ཡེ་ཤེས།
+<literal>/activity enlightened action extensive division/
+<liturgical><prose>Supported: wisdom,
+
+[663]
+<tibetan>མཛད་པ་འཕྲིན་ལས་ཀྱི་རབ་ཏུ་དབྱེ་བའོ།
+<literal>/first basis kaya extensive division two/
+<liturgical><prose>Activities: enlightened actions. || 190 ||
+
+[664]
+<tibetan>།དང་པོ་རྟེན་སྐུའི་རབ་ཏུ་དབྱེ་བ་ལ་གཉིས་ཏེ།
+<literal>/kaya three expanse general show and/
+<liturgical><prose>First, basis-kayas' extensive division has two parts:
+
+[665]
+<tibetan>སྐུ་གསུམ་གྱི་དབྱིངས་སྤྱིར་བསྟན་པ་དང༌།
+<literal>/kaya five enumeration particular explain/
+<liturgical><prose>Three kayas' expanse general presentation, and
+
+[666]
+<tibetan>སྐུ་ལྔའི་རྣམ་གྲངས་བྱེ་བྲག་ཏུ་བཤད་པའོ།
+<literal>/first kaya definition brief show and/
+<liturgical><prose>Five kayas' enumeration particular explanation.
+
+[667]
+<tibetan>།དང་པོ་ལ་སྐུའི་ངེས་བརྗོད་མདོར་བསྟན་པ་དང༌།
+<literal>/place extensive explain two from/
+<liturgical><prose>The first has: kayas' definition brief presentation, and
+
+[668]
+<tibetan>གནས་རྒྱས་པར་བཤད་པ་ལ་གཉིས་ལས།
+<literal>/first is/
+<liturgical><prose>Place extensive explanation.
+
+[669]
+<tibetan>དང་པོ་ནི།
+<literal>/essence one aspect different-by kaya three expanse in abide/
+<liturgical><prose>The first aspect:
+
+[670]
+<tibetan>ངོ་བོ་གཅིག་ལ་ལྡོག་པ་ཐ་དད་ཀྱི་ཚུལ་དུ་སྐུ་གསུམ་དབྱིངས་ལ་བཞུགས་ཏེ།
+<literal>/self-arisen from/
+<liturgical><prose>Though essence is one, the Three Kayas abide in the expanse through different aspects.
+
+[671]
+<tibetan>རང་ཤར་ལས།
+<literal>/kaya three wisdom appearance is/
+<liturgical><tantra>From Self-Arisen:
+
+[672]
+<tibetan>སྐུ་གསུམ་ཡེ་ཤེས་སྣང་བ་ནི།
+<literal>/what-in obstruction without and/
+<liturgical><verse>Three Kayas, wisdom-appearance,
+
+[673]
+<tibetan>གང་ལ་ཐོགས་པ་མེད་པ་དང༌།
+<literal>/object perceive one being/
+<liturgical><prose>Without obstruction to anything;
+
+[674]
+<tibetan>དམིགས་པའི་ཡུལ་ནི་གཅིག་པ་ཡི།
+<literal>/essence individually appear/
+<liturgical><prose>Perceived objects being one,
+
+[675]
+<tibetan>།ངོ་བོ་སོ་སོར་སྣང་བའོ།
+<literal>/thus/
+<liturgical><prose>Essence appearing individually.
+
+[676]
+<tibetan>།ཞེས་སོ།
+<literal>/that also awareness one appearance way/
+<liturgical><tantra>Thus it is spoken.
+
+[677]
+<tibetan>།དེའང་རིག་པ་གཅིག་གི་སྣང་ཚུལ་ཏེ།
+<literal>/that very from/
+<liturgical><prose>This is the manner of awareness-itself's appearance.
+
+[678]
+<tibetan>དེ་ཉིད་ལས།
+<literal>/awareness thought without dharmakaya essence is/
+<liturgical><tantra>From that same nature: || 10 ||
+
+[679]
+<tibetan>རིག་པ་རྟོག་མེད་ཆོས་སྐུའི་ངོ་བོ་ཡིན།
+<literal>/awareness unceasing clear sambhogakaya is/
+<liturgical><verse>Thought-free awareness, Dharmakāya's essence;
+
+[680]
+<tibetan>།རིག་པ་མ་འགགས་གསལ་བ་ལོངས་སྐུ་ཡིན།
+<literal>/awareness whatever appear nirmanakaya is/
+<liturgical><prose>Uncensored clear awareness, Sambhogakāya;
+
+[681]
+<tibetan>།རིག་པ་ཅིར་ཡང་སྣང་བ་སྤྲུལ་སྐུ་ཡིན།
+<literal>/thus/
+<liturgical><prose>Whatever-appearing awareness, Nirmāṇakāya.
+
+[682]
+<tibetan>།ཅེས་སོ།
+<literal>/this-in complete/
+<liturgical><tantra>Thus it is spoken.
+
+[683]
+<tibetan>།འདི་ལ་རྫོགས་པ།
+<literal>/awakened/
+<liturgical><prose>In this, complete;
+
+[684]
+<tibetan>སངས་པ།
+<literal>/awakened/
+<liturgical><prose>Awakened.

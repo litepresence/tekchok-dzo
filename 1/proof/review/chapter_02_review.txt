@@ -1,0 +1,4793 @@
+Conduct deep scan and critical honest review of the attached Tibetan Dzogchen translation in light of the literal and liturgical mission statements.
+
+If you have suggestions for specific lines return them in code block in the strict line format:
+
+[line number]<literal or liturgical><<liturgical tags if any>>replacement text
+
+(double line break)
+
+For each entry, eg.
+
+[684]<literal>buddhas-by-means-of dharma teach-and
+[725]<liturgical><prose>The antidote for the three poisons of desire, anger, and delusion is the realization of emptiness.
+
+============================================================
+
+# LITERAL MISSION STATEMENT
+
+## Expected Output: Dense, Concise Literal Translation
+
+The literal layer should provide:
+- Word-by-word or phrase-by-phrase translation closest to Tibetan syntax
+- Technical term consistency (same English term for same Tibetan term)
+- Minimal elaboration - translate what is there, no more
+- Serve as "truth" reference for checking interpretive translations
+- Use compound structures that mirror Tibetan word compounds
+- Preserve Tibetan word order where possible
+- Include Sanskrit loanwords in IAST transliteration when original is Sanskrit
+- Mark Tibetan technical terms in italics or parentheses
+- No theological interpretation or doctrinal elaboration
+- Cadence should feel slightly "awkward" in English - this is a feature, not a bug
+
+============================================================
+
+# LITURGICAL MISSION STATEMENT
+
+## Expected Output: Poetic, Devotional, Oral-Performance Ready
+
+The liturgical layer should provide:
+- Flowing, elegant English that sounds good when chanted or read aloud
+- Proper English grammar and syntax (readable, not literally awkward)
+- Traditional Buddhist terminology in standard English translations
+- Verse/prose formatting with clear break markers
+- Tags indicating vocal performance:
+  - <ornament> - Title markers, colophons, auspicious openings
+  - <break> - Major section transitions
+  - <verse> - Metric lines meant for chanting
+  - <prose> - Explanatory passages for oral delivery
+  - <prayer> - Devotional requests or aspirations
+  - <citation> - Scriptural references or quotations
+- Appropriate honorifics and devotional language
+- Should "come alive" when performed orally
+- Preserves meaning while prioritizing beauty and usability
+
+============================================================
+
+The draft in need of review is:
+
+# Treasury of the Supreme Vehicle: Autocommentary
+# Longchen Rabjampa (1308-1364)
+## Volume 01 - Chapter 2 - Section 01
+## Chapter 2: Container World and Contents Beings
+
+[635]
+<tibetan>།འདི་ནས་འཇིག་རྟེན་ལྷོར་ཤར་གཡོན།
+<literal>this from world south-east left
+<liturgical><tantra>From the south-eastern direction of this world system,
+
+[636]
+<tibetan>།འཇིག་རྟེན་ཁམས་ནི་དྲུག་འདས་ན།
+<literal>world khams six passed at
+<liturgical><prose>Beyond the six transcendent realms,
+
+[637]
+<tibetan>།ཐལ་བའི་སྒྲ་ཞེས་བྱ་བ་ཡི།
+<literal>Thal-ba's sound called is
+<liturgical><prose>The realm called Thal-ba resounds:
+
+[638]
+<tibetan>།སྐྱོབ་བྱེད་འཕན་གྱིས་རབ་ཏུ་བཀླུབས།
+<literal>protector benefit-by-means-of completely surrounded
+<liturgical><prose>Protectors and benefactors completely surround it,
+
+[639]
+<tibetan>།རྒྱལ་མཚན་གདུགས་ལ་སོགས་པས་བསྒྲེང༌།
+<literal>victory-banner umbrella and-so-forth by-means-of raised
+<liturgical><prose>Victory banners, parasols, and royal insignia raised on high,
+
+[640]
+<tibetan>།མེ་ཏོག་སིལ་མའི་ཆར་དང་དྲི།
+<literal>flowers various rain and smell
+<liturgical><prose>Flowers of many kinds, fragrant rains, and perfumes descend,
+
+[641]
+<tibetan>།སྟོན་པ་ཉིད་དང་བསྟན་པ་ལ།
+<literal>teacher itself and teaching to/in
+<liturgical><prose>Upon the Teacher himself and upon his teachings,
+
+[642]
+<tibetan>།མཛེས་བྱེད་གཟུགས་བརྙན་ཚོགས་ཀྱིས་བསྐོར།
+<literal>beautiful-maker reflection assembly by-means-of surrounded
+<liturgical><prose>The assembly of beautifying goddesses and their reflections encircle them,
+
+[643]
+<tibetan>།བདེ་བའི་རོལ་པ་འབྱུང་བའོ།
+<literal>bliss play arising
+<liturgical><prose>And the play of bliss naturally arises.
+
+[644]
+<tibetan>།འདི་ནས་འཇིག་རྟེན་ལྷོ་ནུབ་གཡས།
+<literal>this from world south-west right
+<liturgical><tantra>From the south-western direction of this world, || 10 ||
+
+[645]
+<tibetan>།དྲུག་འདས་འོག་ནས་ཐལ་བའི་རླུང༌།
+<literal>six passed below from Thal-ba's wind
+<liturgical><tantra>From below the six transcendent realms, the wind of Thal-ba,
+
+[646]
+<tibetan>།གཡོ་ཞིང་བསྐྱོད་པས་བར་སྣང་ལ།
+<literal>moving and moving by-means-of intermediate-space in/to
+<liturgical><prose>Moves and stirs throughout the intermediate space,
+
+[647]
+<tibetan>།ཕན་ཚུན་གཡོ་ཞིང་ལྡིང་བ་དང༌།
+<literal>mutual moving and hovering and
+<liturgical><prose>Moving in mutual embrace, hovering,
+
+[648]
+<tibetan>།བསྐྱོད་པ་ལས་ནི་སྒྲ་རྣམས་འབྱུང༌།
+<literal>moving from/from-out-of sounds arise
+<liturgical><prose>And from this movement all sounds arise.
+
+[649]
+<tibetan>།སྟོན་པའི་བསྟན་པ་རླུང་གིས་གཡོ།
+<literal>teacher's teaching wind by-means-of moves
+<liturgical><prose>The Teacher's teachings are moved by this wind,
+
+[650]
+<tibetan>།ལྔ་ལྡན་འཇུག་པ་གསུམ་ཡིན་ནོ།
+<literal>five-possessing entering three is
+<liturgical><prose>Through the three gateways of those possessing the five elements.
+
+[651]
+<tibetan>།དེ་སྟེང་བཅུ་གསུམ་བརྩེགས་པ་ན།
+<literal>that top thirteen stacked at
+<liturgical><prose>Upon that summit, thirteen are stacked together—
+
+[652]
+<tibetan>།རིན་ཆེན་ཐལ་བ་ཞེས་བྱ་བ།
+<literal>jewel Thal-ba called is
+<liturgical><prose>The Jewel Thal-ba, as it is called,
+
+[653]
+<tibetan>།བཀྲ་ཤིས་ཉི་མ་རྣམས་ཀྱིས་སྤྲས།
+<literal>auspicious sun by-means-of adorned
+<liturgical><prose>Adorned with auspicious rays of the sun,
+
+[654]
+<tibetan>།འདོད་པའི་ཡོན་ཏན་རྣམས་ཀྱིས་བརྒྱན།
+<literal>desire qualities by-means-of adorned
+<liturgical><prose>And ornamented with the qualities of desire. || 20 ||
+
+[655]
+<tibetan>།འཕྲུལ་གྱི་ཡི་གེ་རི་མོ་མཛེས།
+<literal>miraculous letters lines beautiful
+<liturgical><prose>Miraculous letters and beautiful script,
+
+[656]
+<tibetan>།སྟོན་པའི་བསྟན་པ་གཟུགས་བརྙན་རྫོགས།
+<literal>teacher's teaching reflection complete
+<liturgical><prose>The Teacher's teachings—complete in reflection.
+
+[657]
+<tibetan>།ལྡ་ལྡི་པདྨའི་སྤྱན་གྱིས་མཛེས།
+<literal>lda-ldi lotus's eyes by-means-of beautiful
+<liturgical><prose>Beautiful through the lotus eyes of Lda-ldi,
+
+[658]
+<tibetan>།འདི་ནས་ནུབ་བྱང་མཚམས་ཀྱི་སྟེང༌།
+<literal>this from west-north interval's top
+<liturgical><tantra>From this, the summit of the western-northern threshold.
+
+[659]
+<tibetan>།འཇིག་རྟེན་ཁམས་ནི་དྲུག་པ་ནི།
+<literal>world khams six is
+<liturgical><prose>The sixth world-system,
+
+[660]
+<tibetan>།འདུལ་བའི་ཐལ་བ་ཞེས་བྱ་བ།
+<literal>taming Thal-ba called is
+<liturgical><prose>The Taming Thal-ba, as it is called.
+
+[661]
+<tibetan>།མཆོད་པ་རྫོགས་པས་ལྷ་མོར་བཅས།
+<literal>offering complete goddess with/in
+<liturgical><prose>Together with goddesses making complete offerings,
+
+[662]
+<tibetan>།འོད་ཀྱིས་ཁེངས་དང་ཙནྡན་དྲི།
+<literal>light by-means-of filled and sandalwood smell
+<liturgical><prose>Filled with light and the fragrance of sandalwood,
+
+[663]
+<tibetan>།སྟོན་པའི་བསྟན་པ་ཆ་མཉམ་པ།
+<literal>teacher's teaching portion-equal
+<liturgical><prose>The Teacher's teachings—equal in every portion.
+
+[664]
+<tibetan>།བཅུ་དྲུག་ལོར་ལྡན་མཛེས་པའི་གཟུགས།
+<literal>sixteen years possessing beautiful form
+<liturgical><prose>Possessing beautiful forms of sixteen years, || 30 ||
+
+[665]
+<tibetan>།རབ་ཏུ་གཞོན་པ་རྣམས་ཀྱིས་བསྐོར།
+<literal>extremely young by-means-of surrounded
+<liturgical><prose>Surrounded by those in the bloom of youth.
+
+[666]
+<tibetan>།དེ་འོག་འཇིག་རྟེན་དགུ་པ་ན།
+<literal>that below world nine at
+<liturgical><prose>Below that, in the ninth world,
+
+[667]
+<tibetan>།དུང་ལྡན་ཐལ་བའི་ལྷ་ཞེས་པ།
+<literal>dung-ldan Thal-ba's deity called
+<liturgical><prose>The deity called Dung-ldan Thal-ba,
+
+[668]
+<tibetan>།དད་ཅིང་བསྲུང་བའི་དྲི་ཡིས་མྱོས།
+<literal>faith and protecting smell by-means-of intoxicated
+<liturgical><prose>Intoxicated by the fragrance of faith and protection,
+
+[669]
+<tibetan>།འཁྲུག་ཅིང་རབ་ཏུ་འབར་བའི་འོད།
+<literal>turbulent and extremely blazing light
+<liturgical><prose>Turbulent, with extremely blazing light,
+
+[670]
+<tibetan>།རབ་ཏུ་མེར་མེར་པོ་ཡིས་འཁྲིགས།
+<literal>extremely glowing by-means-of agitated
+<liturgical><prose>Agitated, glowing with fierce intensity.
+
+[671]
+<tibetan>།སྟོན་པ་ཉིད་དང་བསྟན་པ་དང༌།
+<literal>teacher itself and teaching and
+<liturgical><prose>The Teacher himself, his teachings,
+
+[672]
+<tibetan>།དེ་ཡི་འཁོར་དང་ལོངས་སྤྱོད་རྫོགས།
+<literal>that's retinue and enjoyment complete
+<liturgical><prose>And his retinue—complete enjoyment.
+
+[673]
+<tibetan>།འདི་ནས་འཇིག་རྟེན་དྲུག་པ་ནི།
+<literal>this from world six is
+<liturgical><tantra>From this, the sixth world,
+
+[674]
+<tibetan>།སྐར་མའི་ཐལ་བ་ཞེས་བྱ་བ།
+<literal>star Thal-ba called is
+<liturgical><prose>The Star Thal-ba, as it is called. || 40 ||
+
+[675]
+<tibetan>།འཁོར་ལོ་བརྩེགས་པའི་རྣམ་པ་ནི།
+<literal>wheel stacked's nature is
+<liturgical><prose>The nature of the stacked wheel,
+
+[676]
+<tibetan>།ལྔ་དང་དགུ་ཡིས་ཡོངས་སུ་བརྩེགས།
+<literal>five and nine by-means-of completely stacked
+<liturgical><prose>Completely stacked by fives and nines.
+
+[677]
+<tibetan>།འཆར་ཀ་ཆུ་འཕྱངས་རྣམས་ཀྱིས་བརྒྱན།
+<literal>dawn water-spouts by-means-of adorned
+<liturgical><prose>Adorned with the water-spouts of dawn,
+
+[678]
+<tibetan>།འབྲུག་སྒྲ་གློག་དམར་ལྕེ་རྣམས་འབྱིན།
+<literal>thunder sound lightning red tongues emit
+<liturgical><prose>Thunder, lightning, and red tongues emerge.
+
+[679]
+<tibetan>།སྟོན་པའི་བསྟན་པ་ལུང་གིས་བསྐོར།
+<literal>teacher's teaching scripture by-means-of surrounded
+<liturgical><prose>The Teacher's teachings are surrounded by scripture,
+
+[680]
+<tibetan>།འོད་འབྱུང་ཕྲེང་བ་ཀླུ་ཡི་གདུང༌།
+<literal>light-arising garland naga's lineage
+<liturgical><prose>The light-arising garland—lineage of the nāgas.
+
+[681]
+<tibetan>།ཕྱོགས་དང་མཚམས་ཀུན་གསལ་བའོ།
+<literal>directions and intervals all illuminating
+<liturgical><prose>Illuminating all directions and thresholds.
+
+[682]
+<tibetan>།ཞེས་སོ།
+<literal>thus
+<liturgical><prose>Thus.
+
+[683]
+<tibetan>།དེ་ཡང་ཉི་ཤུ་རྩ་ལྔ་བརྩེགས་མ་པདྨ་ལ་གནས་པའི་ཡང་ཕྱོགས་མཚམས་སྟེང་འོག་རྣམས་ན་ཞིང་ཁམས་གྲངས་མེད་སྟེང་འོག་ཕྱོགས་མཚམས་ཁྱབ་པར་ཡོད་དེ།
+<literal>that also twenty-five stacked lotus at/on abiding's also directions-intervals upper-lower all in/to fields countless upper-lower directions-intervals pervading exist
+<liturgical><prose>And in all those upper and lower thresholds of the twenty-five stacked lotus-abiding ones, countless fields pervade all upper and lower directions and thresholds.
+
+[684]
+<tibetan>སྐར་མ་བཀྲམ་པ་ལྟ་བུའོ།
+<literal>stars scattered like
+<liturgical><prose>Like scattered stars. || 50 ||
+
+[685]
+<tibetan>།དེ་ལྟར་ཞིང་ཁམས་དཔག་ཏུ་མེད་པ་ལས།
+<literal>thus from fields immeasurable
+<liturgical><prose>Thus from immeasurable fields,
+
+[686]
+<tibetan>མི་མཇེད་འདིའི་རིམ་པ་བཤད་པ་ནི།
+<literal>Sahā this's sequence explained is
+<liturgical><prose>The sequence of this Sahā world is explained:
+
+[687]
+<tibetan>དེ་ཉིད་ལས།
+<literal>that itself from
+<liturgical><tantra>From that itself:
+
+[688]
+<tibetan>ཕྱི་རོལ་འབྱུང་བ་རླུང་ལས་ཡང༌།
+<literal>external elements wind from also
+<liturgical><prose>External elements arise from wind as well,
+
+[689]
+<tibetan>།ནམ་མཁའི་ཁམས་དང་སྦྱར་བ་སྟེ།
+<literal>space's khams and connected is
+<liturgical><prose>Connected with the space element,
+
+[690]
+<tibetan>།དེ་ལ་ཆུ་སྟེ་དེ་སྟེང་ས།
+<literal>that water that above earth
+<liturgical><prose>Upon which rests water, and above that earth.
+
+[691]
+<tibetan>།རྒྱ་ཁྱོན་ས་ཡ་སྟུག་ཁོད་སྙོམས།
+<literal>extent breadth thick equal
+<liturgical><prose>In extent, breadth, and thickness equal,
+
+[692]
+<tibetan>།གྲངས་མེད་བཞི་དང་ས་ཡ་གཅིག
+<literal>countless four and hundred-thousand one
+<liturgical><break><prose> One hundred-thousand and four countless,
+
+[693]
+<tibetan>།གཅིག་ནི་དེ་ཡི་བཞི་ཆ་སྟོངས།
+<literal>one is that's four portion empty
+<liturgical><break><prose> One of which is four portions empty.
+
+[694]
+<tibetan>།གླིང་རྣམས་བཀོད་དང་རི་རབ་དང༌།
+<literal>continents arrangement and Meru and
+<liturgical><prose>The arrangement of continents and Mount Meru, || 60 ||
+
+[695]
+<tibetan>།དཔག་བསམ་ཤིང་དང་ནོར་བུར་བཅས།
+<literal>wishing-tree and jewel with
+<liturgical><prose>Together with the wish-fulfilling tree and the jewel,
+
+[696]
+<tibetan>།ཉི་ཟླ་སོ་སོའི་ལྷ་རྣམས་དང༌།
+<literal>sun moon individual gods and
+<liturgical><prose>The individual gods of sun and moon,
+
+[697]
+<tibetan>།རྒྱ་མཚོ་ཆེན་པོའི་ཐབས་ཀྱིས་བསྐོར།
+<literal>ocean great's method by-means-of surrounded
+<liturgical><prose>Surrounded by the great ocean's method.
+
+[698]
+<tibetan>།རི་བྲན་རྣམས་དང་ཆུ་བྲན་དང༌།
+<literal>mountain ranges and water ranges and
+<liturgical><prose>Mountain ranges and water ranges,
+
+[699]
+<tibetan>།རིན་ཆེན་བདུན་གྱིས་ངེས་པར་བསྐོར།
+<literal>jewels seven by-means-of definitely surrounded
+<liturgical><prose>All definitely surrounded by seven jewels.
+
+[700]
+<tibetan>།ནང་སྟེ་གཟུགས་མེད་དང་པོ་ལས།
+<literal>internal and/formless first from
+<liturgical><prose>Internally, thus from the first formless realm,
+
+[701]
+<tibetan>།གཟུགས་ཀྱི་ཁམས་ཏེ་འོད་གསལ་ནི།
+<literal>form's khams luminosity is
+<liturgical><prose>The form realm is luminosity:
+
+[702]
+<tibetan>།རིང་བར་འདོད་པའི་ཁམས་སུ་ཡང༌།
+<literal>distance desire's khams in/to also
+<liturgical><prose>In the distance, the desire realm as well,
+
+[703]
+<tibetan>།ཟླ་བ་དྲི་མ་མེད་པ་དང༌།
+<literal>moon stainless and
+<liturgical><prose>The stainless moon and
+
+[704]
+<tibetan>ཉི་མ་རབ་ཏུ་སྣང་བྱེད་ལས།
+<literal>sun greatly-illuminating from
+<liturgical><prose>The greatly illuminating sun, || 70 ||
+
+[705]
+<tibetan>།འཇིག་རྟེན་ཁམས་ནི་མཆེད་པ་སྟེ།
+<literal>world khams expanded is
+<liturgical><prose>The world-systems expanded,
+
+[706]
+<tibetan>།གཞན་འཕྲུལ་ལ་སོགས་ཡས་རིམ་བཞིན།
+<literal>Paranirmitavaśavartin and-so-forth upper sequence
+<liturgical><prose>Paranirmitavaśavartin and so forth in upper sequence.
+
+[707]
+<tibetan>།དེ་ནས་ལྷ་མིན་གནས་དག་སྟེ།
+<literal>then asuras abodes
+<liturgical><prose>Then the abodes of asuras,
+
+[708]
+<tibetan>།གླིང་བཞིའི་མི་རྣམས་རིམ་གྱིས་སོ།
+<literal>continents four's humans sequence
+<liturgical><prose>The sequence of humans in the four continents.
+
+[709]
+<tibetan>།ཉོན་མོངས་བདག་དང་བཅས་པ་ཡིས།
+<literal>kleśas self with/by-means-of
+<liturgical><prose>By kleśas together with self,
+
+[710]
+<tibetan>།ངན་སོང་གནས་ནི་རིམ་པར་ཆགས།
+<literal>lower realms abodes sequence arisen
+<liturgical><prose>The abodes of lower realms arise in sequence.
+
+[711]
+<tibetan>།ཞེས་པ་དང༌།
+<literal>thus and
+<liturgical><prose>Thus.
+
+[712]
+<tibetan>མུ་ཏིག་ཕྲེང་བའི་རྒྱུད་ལས།
+<literal>from Pearl-garland tantra
+<liturgical><tantra>From the Pearl Garland Tantra:
+
+[713]
+<tibetan>མཁའ་ལ་རླུང་བརྟེན་དེ་ལ་ཆུ།
+<literal>sky wind supports that water
+<liturgical><tantra>In space, wind supports that water,
+
+[714]
+<tibetan>།འབུམ་ཕྲག་བཅུ་གཅིག་དག་གིས་ནི།
+<literal>hundred-thousand eleven by-means-of
+<liturgical><tantra>By eleven hundred-thousands, || 80 ||
+
+[715]
+<tibetan>།ཟླུམ་ལ་འདྲིལ་བ་ཉིད་དུ་ཆགས།
+<literal>round coiled itself arisen
+<liturgical><tantra>Round and coiled, itself arisen.
+
+[716]
+<tibetan>།འོ་མ་ལས་ནི་སྤྲིས་བྱུང་བཞིན།
+<literal>milk from cream arisen like
+<liturgical><tantra>Like cream arising from milk,
+
+[717]
+<tibetan>།ས་ནི་འབུམ་ཕྲག་བཅུ་གཉིས་སོ།
+<literal>earth hundred-thousand twelve
+<liturgical><tantra>Earth is twelve hundred-thousands.
+
+[718]
+<tibetan>།རླུང་གིས་གྲངས་ནི་ས་ཡ་ཉིད།
+<literal>wind's number hundred-thousand
+<liturgical><tantra>Wind's number is one hundred-thousand.
+
+[719]
+<tibetan>།རླུང་ནི་ཆགས་དང་སྡུད་པ་དང༌།
+<literal>wind gathering and contracting and
+<liturgical><tantra>The wind gathers and contracts,
+
+[720]
+<tibetan>།འཕེན་པ་དང་ནི་འདེགས་པའོ།
+<literal>pulling and lifting
+<liturgical><tantra>Pulls and lifts.
+
+[721]
+<tibetan>།ཆུས་ནི་ཁྱབ་དང་འཛིན་པ་དང༌།
+<literal>water pervading and holding and
+<liturgical><tantra>Water pervades and holds,
+
+[722]
+<tibetan>།སྨིན་བྱེད་དང་ནི་གསུམ་ཡིན་ནོ།
+<literal>ripening and three
+<liturgical><tantra>Ripens—these three.
+
+[723]
+<tibetan>ས་ནི་སྲུབ་བྱེད་ཕྲ་བ་དང༌།
+<literal>earth rubbing subtle and
+<liturgical><tantra>Earth rubs subtle and
+
+[724]
+<tibetan>།རགས་པ་ཉིད་དང་གསུམ་ཡིན་ནོ།
+<literal>coarse itself and three
+<liturgical><tantra>Coarse itself—these three. || 90 ||
+
+[725]
+<tibetan>།དཀྲོགས་ནས་མར་དུ་གྱུར་པ་བཞིན།
+<literal>churned down became like
+<liturgical><tantra>Like that which is churned down below,
+
+[726]
+<tibetan>།རི་བར་རི་ཡི་རྒྱལ་པོ་ནི།
+<literal>mountains among mountain king is
+<liturgical><tantra>Among mountains, the king of mountains is:
+
+[727]
+<tibetan>།བང་རིམ་བཞི་དང་ལྕོག་ཆེན་དང༌།
+<literal>terraces four and peaks great and
+<liturgical><tantra>Four terraces and great peaks,
+
+[728]
+<tibetan>།རོལ་མཚོ་དང་ནི་རི་རྣམས་བདུན།
+<literal>play-lakes and mountains seven
+<liturgical><tantra>Seven sporting lakes and seven mountains,
+
+[729]
+<tibetan>།གླིང་རྣམས་དང་ནི་འཁོར་ཡུག་ཆགས།
+<literal>continents and surrounding arisen
+<liturgical><tantra>Continents and the surrounding rim arisen.
+
+[730]
+<tibetan>།སྟོང་གསུམ་ལ་སོགས་ཁམས་རྣམས་སོ།
+<literal>three-thousand and-so-forth khams are
+<liturgical><tantra>The three-thousand and so forth world-systems.
+
+[731]
+<tibetan>།འདོད་དང་གཟུགས་དང་གཟུགས་མེད་ཀྱིས།
+<literal>desire and form and formless by-means-of
+<liturgical><tantra>By desire, form, and formless,
+
+[732]
+<tibetan>།ཁམས་གསུམ་པོ་ནི་དེ་ལ་བརྟེན།
+<literal>khams three that supporting
+<liturgical><tantra>These three realms are supported there.
+
+[733]
+<tibetan>།ཡོད་མིན་ཅི་ཡང་མེད་པ་དང༌།
+<literal>non-existing anything without and
+<liturgical><tantra>The formless realm, without any existence,
+
+[734]
+<tibetan>།རྣམ་ཤེས་ཅུང་ཟད་མེད་པ་ཡི།
+<literal>consciousness slight without's
+<liturgical><tantra>Without even slight consciousness, || 100 ||
+
+[735]
+<tibetan>།གཟུགས་མེད་ཁམས་ནི་དེ་ལས་སྐྱེས།
+<literal>formless khams that from arisen
+<liturgical><tantra>Arisen from that.
+
+[736]
+<tibetan>།གནས་གཙང་ལ་སོགས་ལུས་ཅན་ནི།
+<literal>abode pure and-so-forth embodied
+<liturgical><tantra>The pure abodes and so forth embodied,
+
+[737]
+<tibetan>།གོང་ནས་འོག་ཏུ་ཐིགས་པའི་ཚུལ།
+<literal>upper from below drops manner
+<liturgical><tantra>From upper to lower in drops manner.
+
+[738]
+<tibetan>།འོག་མིན་ལ་སོགས་འདོད་པའོ།
+<literal>Akanistha and-so-forth desire
+<liturgical><tantra>Akanistha and so forth of desire.
+
+[739]
+<tibetan>།ལྷ་དང་ལྷ་མིན་མི་རྣམས་ནི།
+<literal>gods and asuras humans are
+<liturgical><tantra>Gods, asuras, and humans:
+
+[740]
+<tibetan>།མངོན་མཐོ་དེ་ནས་གནས་གསུམ་ནི།
+<literal>high that from abodes three
+<liturgical><tantra>High, then from that the three abodes,
+
+[741]
+<tibetan>།བྱོལ་སོང་ཡི་དྭགས་དམྱལ་བ་དང༌།
+<literal>animals pretas hell and
+<liturgical><tantra>Animals, pretas, and hell—
+
+[742]
+<tibetan>།སེམས་ཅན་དེ་དག་སྐྱེ་བ་བཞི།
+<literal>beings these birth four
+<liturgical><tantra>These four kinds of birth for beings.
+
+[743]
+<tibetan>།དེ་ཡང་བསྐལ་པ་དང་པོའི་མི།
+<literal>that also fortunate-aeon first's humans
+<liturgical><tantra>That also, the humans of the first fortunate eon,
+
+[744]
+<tibetan>།གཟུགས་དང་ལང་ཚོ་དཔེ་བྱད་ལྡན།
+<literal>form and beauty marks-characteristics possessing
+<liturgical><tantra>Possessing form, youth, and marks of beauty, || 110 ||
+
+[745]
+<tibetan>།རང་འོད་མདངས་ཀྱིས་ལུས་ཁྱབ་སྟེ།
+<literal>own-light radiance by-means-of body pervaded
+<liturgical><tantra>Their bodies pervaded by their own light's radiance,
+
+[746]
+<tibetan>།འདོད་འཇོ་ལ་སོགས་བསོད་ནམས་ཟས།
+<literal>desire-food and-so-forth merit food
+<liturgical><tantra>Desire-food and so forth as merit-food.
+
+[747]
+<tibetan>།སྐྱེ་དགུའི་ཚེ་ཡང་བརྒྱད་ཁྲིད་ལ།
+<literal>beings' life also eighty-thousand
+<liturgical><tantra>The life of beings also eighty-thousand,
+
+[748]
+<tibetan>།ཕོ་དང་མོ་ཡི་དབང་པོ་མེད།
+<literal>male and female faculties without
+<liturgical><tantra>Without male and female faculties.
+
+[749]
+<tibetan>།དེ་ནས་འཁྲུལ་པའི་རྒྱུ་གཉིས་ལས།
+<literal>then from delusion's cause two
+<liturgical><tantra>Then from the two causes of delusion,
+
+[750]
+<tibetan>།འདོད་ཆགས་ལ་སོགས་ཉོན་མོངས་ནི།
+<literal>desire and-so-forth kleśas
+<liturgical><tantra>Kleśas of desire and so forth,
+
+[751]
+<tibetan>།བགས་ཀྱིས་རགས་པ་ཉིད་དུ་གྱུར།
+<literal>gradually coarse itself became
+<liturgical><tantra>Gradually became coarse.
+
+[752]
+<tibetan>།དབང་པོ་ལ་སོགས་སྒོ་དོད་དེ།
+<literal>faculties and-so-forth gates that
+<liturgical><tantra>The faculties and so forth gates,
+
+[753]
+<tibetan>།བསོད་ནམས་ཟད་ཕྱིར་འོད་སོགས་བྲི།
+<literal>merit exhausted reason light and-so-forth decrease
+<liturgical><tantra>Light and so forth decrease, for merit is exhausted.
+
+[754]
+<tibetan>།དེ་ནས་རིམ་གྱིས་ས་ཚིལ་དང༌།
+<literal>then sequence earth oil and
+<liturgical><tantra>Then in sequence, earth oil and || 120 ||
+
+[755]
+<tibetan>།སཱ་ལུ་ལ་སོགས་ཟས་སྤྱོད་དོ།
+<literal>rice and-so-forth food eat
+<liturgical><tantra>Sālu rice and so forth as food.
+
+[756]
+<tibetan>།ཞེས་པ་ལ་སོགས་པ་གསུངས་པས་ན།
+<literal>thus and-so-forth taught thus
+<liturgical><tantra>Thus and so forth taught.
+
+[757]
+<tibetan>འདིར་དེའི་དོན་ཅུང་ཟད་ངེས་པར་བསྟན་པ་ནི།
+<literal>here that's meaning slightly definite shown is
+<liturgical><prose>Here that meaning is slightly shown definitively:
+
+[758]
+<tibetan>ཐུན་མོང་པ་མདོ་དང་བསྟན་བཅོས་དག་ལས་གྲགས་པ་དང༌།
+<literal>common sūtras and treatises from known and
+<liturgical><prose>Known from common sūtras and treatises, and
+
+[759]
+<tibetan>ཐུན་མོང་མ་ཡིན་པ་རྒྱུད་སྡེ་དག་ལས་ཚད་དང་རྣམ་པར་གཞག་པ་མང་དུ་གསུངས་ཀྱང༌།
+<literal>uncommon tantra-sections from measure and arrangement much taught although
+<liturgical><tantra>Although much taught from uncommon Tantra-sections regarding measure and arrangement,
+
+[760]
+<tibetan>འདིར་ནི་བླ་ན་མེད་པའི་ཐེག་པ་རྡོ་རྗེ་རྩེ་མོ་ལྟར་བཤད་དོ།
+<literal>here unsurpassed vehicle Vajra-peak like explained
+<liturgical><prose>Here it is explained like the unsurpassed Vajra-peak vehicle.
+
+[761]
+<tibetan>།ཨ་ཏི་བཀོད་པ་ཆེན་པོ་ལས་འབྱུང་བ་བཞིན་དངོས་པོ་ལ་གནས་པའི་དོན་མ་ནོར་བར་གཏན་ལ་དབབ་པ་ནི།
+<literal>Ati-koṭa-great from arising like entity abiding's meaning not-mistaken established is
+<liturgical><tantra>From the Great Array of Ati, arising like that, the meaning of entity-abiding established without mistake:
+
+[762]
+<tibetan>ཚངས་ཆེན་གྱི་ཞིང་གི་ཁོངས་སུ་ཆུད་པའི་ནམ་མཁའ་ལ།
+<literal>Brahma-great's field's category included space in/to
+<liturgical><tantra>In the space included within the category of Brahma-great's field,
+
+[763]
+<tibetan>གང་ཆེན་མཚོའི་ཕྱག་གི་པདྨའི་དབུས་ཀྱི་ཕྲུམ་ཕྲུམ་ལ་སྟོང་གསུམ་ཉི་ཤུ་རྩ་ལྔ་བརྩེགས་མར་གནས་པའི་ཞིང་ཁམས་རྣམས་ནི།
+<literal>Gang-chen-tsho's hand's lotus's center's layers three-thousand twenty-five stacked abiding fields are
+<liturgical><tantra>The fields abiding as twenty-five stacked three-thousand; upon the center's layers of Gang-chen-tsho's hand-lotus,
+
+[764]
+<tibetan>གཞི་དང་སྙིང་པོ་མེ་ཏོག་གིས་བརྒྱན་པའི་ཞིང་ཁམས་ཞེས་བྱ་ལ།
+<literal>basis and essence flower by-means-of ornamented field called
+<liturgical><tantra>Are called the field ornamented by basis and essence with flowers, || 130 ||
+
+[765]
+<tibetan>དེའི་ནང་ནས་བཅུ་གསུམ་པ་ཐུགས་ཀ་དཔལ་གྱི་བེའུའི་ཐད་དྲང་ན་གནས་པ་གསང་སྔགས་རྡོ་རྗེ་ཐེག་པའི་ཞིང་ཁམས་མི་མཇེད་ཀྱི་འཇིག་རྟེན་འདིའི་རྣམ་པར་གཞག་པ་ལ།
+<literal>that's inside from thirteenth heart glorious center's middle abiding secret-mantra vajra-vehicle's field Sahā's world this's arrangement to/in
+<liturgical><tantra>From inside that, to the arrangement of this Sahā world-system, the thirteenth secret-mantra vajra-vehicle field abiding at the glorious center's heart,
+
+[766]
+<tibetan>བསྐལ་པ་དང་པོ་འཆགས་པ།
+<literal>fortunate-aeon first arising
+<liturgical><tantra>The arising of the first fortunate eon,
+
+[767]
+<tibetan>བར་དུ་གནས་པ།
+<literal>middle abiding
+<liturgical><tantra>The abiding in the middle,
+
+[768]
+<tibetan>ཐ་མར་འཇིག་པ།
+<literal>end destroying
+<liturgical><tantra>The destruction at the end,
+
+[769]
+<tibetan>མཐར་སྟོངས་པ་བཞིས་ཤེས་པར་བྱ་བ་ལས།
+<literal>finally emptying four knowing from
+<liturgical><tantra>The final emptying—these four should be known.
+
+[770]
+<tibetan>དང་པོ་འཆགས་པ་ལའང་སྣོད་དང༌།
+<literal>first arising container and
+<liturgical><prose>First, arising: the container and
+
+[771]
+<tibetan>བཅུད་ཀྱི་རིམ་པ་གཉིས་ཀྱི་ཐོག་མ་སྣོད་འཆགས་པའི་རིམ་པ་ནི།
+<literal>essence's sequence two's first container arising's sequence is
+<liturgical><prose>The sequence of the essence, the sequence of the first arising of the container is:
+
+[772]
+<tibetan>འདིའི་ཐད་དུ་སྔར་བྱུང་བའི་འཇིག་རྟེན་སྟོངས་ནས་བར་གྱི་བསྐལ་པ་ཉི་ཤུ་འདས་པའི་འོག་ཏུ།
+<literal>this's side previously arisen world empty from intermediate fortunate-aeon twenty passed's below
+<liturgical><tantra>From the side of this, below from the passed twenty intermediate fortunate eons after the previously arisen world became empty,
+
+[773]
+<tibetan>འབྱུང་བ་ས་བོན་གྱི་ཆ་མི་གསལ་བ་ཁ་དོག་ལྔ་འབྱུང་རུང་གི་དབྱིངས་ནམ་མཁའ་སྟོང་པ་ལ།
+<literal>elements seed's portion not-clear color five arising-possible space empty in/to
+<liturgical><prose>In empty space where five-colored seeds of elements not clear, — yet capable of arising,
+
+[774]
+<tibetan>སྟེང་གི་ཕྱོགས་སུ་གཟུགས་མེད་པའི་ཁམས་ཞེས་བྱ་བ་རྣམ་ཤེས་གཟུང་བའི་ཡུལ་ཅན་འབྱུང་བ་ས་བོན་གྱི་ཆ་དང་བཅས་པ་བྱུང་ནས་ཐིགས་པའི་ཚུལ་དུ་བཅུད་རྣམས་ཡས་ཆགས་པ་ལྟར།
+<literal>upper direction formless's khams called consciousness grasping's object-possessor arising elements seed's portion with arisen from drops manner essences upper-arisen like
+<liturgical><prose>In the upper direction, the formless realm called object-possessor of grasping consciousness; possessing portions of arising element seeds; arisen like essences upper-arisen in drops manner. || 140 ||
+
+[775]
+<tibetan>འོག་གི་ཕྱོགས་ནས་སྣོད་ཀྱི་རིམ་པ་མཆོད་རྟེན་གྱི་བང་རིམ་ལྟར་མས་འཆགས་པའི་ཚུལ་ནི།
+<literal>lower direction container's sequence caitya's terrace like below arising's manner is
+<liturgical><prose>In the lower direction, the manner of arising below like the terrace of a caitya is:
+
+[776]
+<tibetan>སྣོད་བཅུད་ཐོགས་མར་འཆགས་པ་དེའི་ཚེ།
+<literal>container-contained first arising that time
+<liturgical><prose>The time of the first arising of container-contained,
+
+[777]
+<tibetan>འོག་གི་གཞིར་རྣམ་པར་ཡིད་དང་བ་ཞེས་བྱ་བའི་ནམ་མཁའ་ཁ་དོག་དཀར་བ་དཀར་བའི་འོད་དང་ལྡན་པ།
+<literal>lower basis completely mind joy called space color white white light possessing
+<liturgical><prose>The lower basis called completely mind-joy, space possessing white color and white light,
+
+[778]
+<tibetan>ཤིན་ཏུ་དཀར་བའི་བང་སྣང་ལ།
+<literal>extremely white terrace appearance in/to
+<liturgical><prose>In the appearance of extremely white terraces,
+
+[779]
+<tibetan>སྟོང་གསུམ་གྱི་འཇིག་རྟེན་འདི་བརྟེན་པའི་ས་བོན་ཨེ་གྲུ་གསུམ་རྣམ་པར་དང་བའི་ནམ་མཁའ་ཆགས་སོ།
+<literal>three-thousand's world this supporting seed E triangle clear space arisen
+<liturgical><prose>The seed E triangle, clear space supporting this three-thousand world, arisen.
+
+[780]
+<tibetan>།ནམ་མཁའ་དེ་ལས་རླུང་ཁྱབ་འཇུག་སྐྱོབ་ཅེས་བྱ་བའི་ས་བོན་ཨ་འུམ་ཞེས་བྱ་བའི་སྒྲ་ལན་གསུམ་དུ་གྲགས་པ་ལས།
+<literal>space that from wind pervading entering protecting called seed A-UM called sound three-times proclaimed from
+<liturgical><tantra>From that space; from the wind pervading, entering, and protecting called seed A; from the sound called Uṃ proclaimed three times:
+
+[781]
+<tibetan>རྣམ་པར་སྲུབ་བྱེད་ཀྱི་རླུང་ཞེས་བྱ་བ།
+<literal>variously-stopping wind called
+<liturgical><prose>Namely, the wind of variously-stopping,
+
+[782]
+<tibetan>བྱི་བ་ཁྲ་མོའི་ཁ་རླངས་ཙམ་ལངས་ཏེ།
+<literal>mouse-striped breath merely rises-and
+<liturgical><prose>Merely rises as the breath of a striped mouse,
+
+[783]
+<tibetan>ནམ་མཁའ་ལ་ན་བུན་ནམ་སྤྲིན་ཕུང་ལྟར་འཁྲིགས་པ་ལས།
+<literal>sky in mist or cloud-mass like gathered from
+<liturgical><tantra>From gathered like mist or cloud-mass in sky,
+
+[784]
+<tibetan>སྣ་ཚོགས་རྡོ་རྗེ་རྒྱ་གྲམ་གྱི་དབྱིབས་འདྲ་བའི་ལྟེ་བ་ལ་ཡཾ་གིས་མཚན་ཞིང༌།
+<literal>various-vajra-cross shape similar navel at yaM by-means-of marked-and
+<liturgical><prose>Marked by yaṃ at the navel, similar to the shape of various vajra-crosses, || 150 ||
+
+[785]
+<tibetan>རླུང་གི་ལྷ་མོ་བཞི་རླུང་གི་བ་དན་འཛིན་པ།
+<literal>wind's goddess four wind's banner holding
+<liturgical><prose>Four wind goddesses holding wind banners,
+
+[786]
+<tibetan>ཁ་དོག་སྣ་ཚོགས་པའི་འོད་འབར་ཞིང༌།
+<literal>color various light blazing-and
+<liturgical><prose>Blazing various colored lights,
+
+[787]
+<tibetan>རླུང་གི་ཁམས་ལྗང་གུ་ཨིན་དྲ་ནི་ལའི་རྣམ་པ་འདྲ་བ།
+<literal>wind's element green Indra-/-to form similar
+<liturgical><prose>Similar to the form of Indra-nila, green wind element,
+
+[788]
+<tibetan>རྒྱ་ཆེ་ཞིང་དཔངས་སུ་འཐུག་པ་ཆགས་ཏེ།
+<literal>vast and height in thick formed-and
+<liturgical><prose>Formed vast and thick in height,
+
+[789]
+<tibetan>བསྐལ་པའི་བར་དུ་མི་འཕར་ཞིང་འདེགས་པའི་རྩལ་མཚོན་པ་ལ།
+<literal>eon until not-rising and raising power demonstrating to
+<liturgical><prose>Demonstrating power of raising and not rising until the eon,
+
+[790]
+<tibetan>རྡོ་རྗེ་རྒྱ་གྲམ་གྱི་རྩེ་་བཞི་ནས་ལྕགས་ཀྱི་ཕག་མོ་བཞི་འཕྱོང་དུ་ཡོད་པ།
+<literal>vajra-cross tip four from iron sow four flung exist
+<liturgical><prose>Four iron sows flung from four tips of vajra-cross,
+
+[791]
+<tibetan>རླུང་དེའི་རྔམས་སུ་དཔག་ཚད་ས་ཡ་གཅིག་དང་སྟོང་ཕྲག་བརྒྱད།
+<literal>wind that's depth to league hundred-thousand one and thousand eight
+<liturgical><prose>Depth of that wind: one hundred-thousand eight thousand leagues,
+
+[792]
+<tibetan>རྒྱར་ས་ཡ་བཞི་དང་འབུམ་ཕྲག་དྲུག་ཅུ་ཆགས་སོ།
+<literal>width to hundred-thousand four and hundred-thousand sixty formed
+<liturgical><prose>Width: sixty hundred-thousand four hundred-thousand formed.
+
+[793]
+<tibetan>།དེ་ནས་ཆུའི་ཆུ་རབ་ཏུ་འཁོད་པ་ཞེས་བྱ་བ་ཆགས་པ་ནི།
+<literal>that from water water thoroughly-established named forms
+<liturgical><prose>Then forms called water's water thoroughly established:
+
+[794]
+<tibetan>སྟེང་གི་ནམ་མཁའ་ལ་གསེར་གྱི་སྙིང་པོ་ཅན་གྱི་སྤྲིན་འདུས་པ་ལས།
+<literal>upper sky in gold essence possessing cloud gathered from
+<liturgical><tantra>From gathered gold-essence clouds in upper sky, || 160 ||
+
+[795]
+<tibetan>ལོ་བདུན་དུ་ཆར་གྱི་རྒྱུན་བབས་པ་ལས།
+<literal>years seven to rain stream fell from
+<liturgical><tantra>From fell stream of rain for seven years,
+
+[796]
+<tibetan>དངས་ཤིང་མི་གཡོ་རྙོག་པ་མེད་པའི་ཆུ་དབྱིབས་ཟླུམ་པོ་ཟླ་བ་ཉ་གང་བའི་རྣམ་པ་འདྲ་བ་ལ།
+<literal>clear and not-moving turbid not water shape round moon full form similar to
+<liturgical><prose>To clear, unmoving, unturbid water, round shape similar to full moon,
+
+[797]
+<tibetan>ཆུའི་ལྷ་མོ་གར་བྱེད་པ་དཔག་ཏུ་མེད་པ་དང་བཅས་པ་ཆགས་པའི་རྔམས་སུ་དཔག་ཚད་འབུམ་ཕྲག་བཅུ་གཅིག་དང་སྟོང་ཕྲག་ཉི་ཤུ།
+<literal>water goddess dancing countless and with formed depth to league hundred-thousand eleven and thousand twenty
+<liturgical><prose>Formed with countless dancing water goddesses, depth eleven hundred-thousand twenty thousand leagues,
+
+[798]
+<tibetan>རྒྱར་དཔག་ཚད་ས་ཡ་གསུམ་དང་སྟོང་ཕྲག་ལྔ་ཆགས་སོ།
+<literal>width to league hundred-thousand three and thousand five formed
+<liturgical><prose>Width three hundred-thousand five thousand leagues formed.
+
+[799]
+<tibetan>།དེ་ནས་བར་གྱི་བསྐལ་པ་གཅིག་ན་རླུང་གི་དཀྱིལ་འཁོར་གྱི་འོག་ནས།
+<literal>that from intermediate eon one at wind mandala below from
+<liturgical><prose>Then at one intermediate eon, from below wind mandala,
+
+[800]
+<tibetan>སྲུབ་བྱེད་ཀྱི་རླུང་ཞེས་བྱ་བ་རབ་ཏུ་གཟིར་བའི་སྒྲ་དང་ལྡན་པ་ལངས་པ་ལས།
+<literal>stopping-doing wind named thoroughly-pressing sound with possessing arose from
+<liturgical><tantra>From arose possessing thoroughly pressing sound, called stopping-doing wind,
+
+[801]
+<tibetan>འོག་གི་ནམ་མཁའ་ནས་སྟེང་དུ་ལྡེག་ཅིང་འུར་བའི་སྒྲ་བྱུང་སྟེ།
+<literal>lower sky from upward floating-and roaring sound arose-and
+<liturgical><prose>Arose roaring sound floating upward from lower sky,
+
+[802]
+<tibetan>རླུང་དང་ཆུ་ལ་སོགས་པ་སྟེང་དུ་གཡོས་པ་ཐམས་ཅད་གཅིག་ཏུ་འདྲེས་པ་ལས།
+<literal>wind and water etc. upward moved all one-to mixed from
+<liturgical><tantra>From all mixed as one, wind and water etc. moved upward,
+
+[803]
+<tibetan>ཆུའི་སྟེང་དུ་འོ་མ་ལ་སྤྲིས་ཆགས་པ་ལྟར་གསེར་གྱི་ས་གཞི་དཔག་ཚད་ལྔ་སྟོང་དུ་ཆགས་སོ།
+<literal>water above milk on cream formed like gold ground league five-thousand to formed
+<liturgical><prose>Formed five thousand leagues gold ground like cream formed on milk, above water.
+
+[804]
+<tibetan>།དེའི་སྟེང་དུ་ཆགས་བྱེད་སའི་ས་ཞེས་བྱ་བ་རྡུལ་ཕྲ་རབ་དཔག་ཏུ་མེད་པ་འཕྲོས་པ་ལས་ཚད་ལྔ་སྟོང་དུ་ཆགས་སོ།
+<literal>that above forming-doing earth earth named atom countless spread from measure five-thousand to formed
+<liturgical><prose>Above that, called forming-doing earth's earth, formed five thousand measure from spread countless atoms. || 170 ||
+
+[805]
+<tibetan>།དེའི་སྟེང་དུས་སའི་མེ་ཞེ་བྱ་བ་རྡུལ་ཕྲ་རབ་དཔག་ཏུ་མེད་པ་འཕྲོས་པས་དཔག་ཚད་འབུམ་ཕྲག་གཉིས་སུ་ཆགས་སོ།
+<literal>that above time earth fire named atom countless spread by-means-of league hundred-thousand two to formed
+<liturgical><prose>Above that, called time earth's fire, formed two hundred-thousand leagues from spread countless atoms.
+
+[806]
+<tibetan>།དེ་ནས་འབྱེད་པར་བྱེད་པའི་རླུང་ཞེས་བྱ་བ།
+<literal>that from separating-doing wind named
+<liturgical><prose>Then called separating-doing wind.
+
+[807]
+<tibetan>རྒྱ་མཚོ་ལས་རླབས་བྱུང་བ་ལྟར་བྱུང་བ་ལས།
+<literal>ocean from waves arisen like arisen from
+<liturgical><tantra>From arisen like waves from ocean,
+
+[808]
+<tibetan>སྟེང་གི་ནམ་མཁའ་ནས་རླུང་གི་རྡུལ་ཕྲ་རབ་གྲངས་མེད་པ་བབས་ཏེ།
+<literal>upper sky from wind atom countless fell-and
+<liturgical><prose>Fell countless wind atoms from upper sky,
+
+[809]
+<tibetan>དཔེར་ན་བར་སྣང་ལ་ཁ་བ་བབས་པ་དང་འདྲའོ།
+<literal>example-as space in snow fell like
+<liturgical><prose>Like example of snow fell in space.
+
+[810]
+<tibetan>།དེ་ཉིད་དཔག་ཚད་འབུམ་ཕྲག་གཅིག་ཏུ་ཆགས་སོ།
+<literal>that itself league hundred-thousand one to formed
+<liturgical><prose>That itself formed one hundred-thousand leagues.
+
+[811]
+<tibetan>།དེའི་སྟེང་དུ་གསེང་བྱེད་སའི་ནམ་མཁའ་ཞེས་བྱ་བ་གཡུའི་མདངས་ལྟར་སྔོ་བ་ནི།
+<literal>that above hollow-making earth sky named turquoise radiance like blue is
+<liturgical><prose>Above that, called hollow-making earth's sky, blue like turquoise radiance,
+
+[812]
+<tibetan>ནམ་མཁའ་ནས་ནམ་མཁའི་རྡུལ་ཕྲན་དཔག་ཏུ་མེད་པ་བབས་པས།
+<literal>sky from sky atom countless fell by-means-of
+<liturgical><prose>By fell countless sky atoms from sky,
+
+[813]
+<tibetan>དེ་དག་གཅིག་ཏུ་འཁྲིགས་ཏེ།
+<literal>that plural one to gathered-and
+<liturgical><prose>Those gathered as one,
+
+[814]
+<tibetan>རང་བཞིན་གྱི་བྱེད་པའི་ལས་ཀྱིས།
+<literal>nature doing action by-means-of
+<liturgical><prose>By action of doing nature, || 180 ||
+
+[815]
+<tibetan>རྒྱ་མཚོ་ལ་དར་ཆགས་པ་དང་འདྲ་བ།
+<literal>ocean on silk formed like
+<liturgical><prose>Like silk formed on ocean,
+
+[816]
+<tibetan>བརྡལ་ཞིང་ཁོད་སྙོམས་པ།
+<literal>expanded and flat even
+<liturgical><prose>Expanded and evenly flat,
+
+[817]
+<tibetan>དབྱིབས་གྲུ་བཞི་པ།
+<literal>shape four-cornered
+<liturgical><prose>Four-cornered shape,
+
+[818]
+<tibetan>ཟུར་བཞི་ནས་སའི་ལྷ་མོ་བཞི་གསེར་གྱི་བུམ་པ་བཞི་ཐོགས་པས་འཛིན་ཅིང༌།
+<literal>corner four from earth goddess four gold vase four holding by-means-of holding-and
+<liturgical><prose>Held by four earth goddesses holding four gold vases from four corners,
+
+[819]
+<tibetan>ལོགས་བཞི་ཀླུའི་བུ་སྟོབས་དང་ལྡན་པ་བཞིས་བཟུང་བ།
+<literal>side four naga-son powerful four by-means-of held
+<liturgical><prose>Held by four powerful naga sons from four sides.
+
+[820]
+<tibetan>དེ་ཡང་དཔངས་སུ་དཔག་ཚད་འབུམ་ཕྲག་བཞི་དང་ཁྲི་ཕྲག་གཅིག་གོ
+<literal>that also height to league hundred-thousand four and ten-thousand one
+<liturgical><break><prose> That also height four hundred-thousand ten-thousand leagues.
+
+[821]
+<tibetan>།འབྱུང་བའི་དཀྱིལ་འཁོར་འདི་དག་ཀྱང༌།
+<literal>elements mandala these also
+<liturgical><break><prose> These element mandalas also
+
+[822]
+<tibetan>མཆོད་རྟེན་གྱི་བང་རིམ་དང་འདྲ་བར་གཅིག་ལ་གཅིག་བརྟེན་དུ་ཆགས་སོ།
+<literal>stupa tier like one on one supported formed
+<liturgical><prose>Formed supported one on one like stupa tiers.
+
+[823]
+<tibetan>།མདོ་ནས་དེ་དག་གི་བར་བར་གྱི་ནམ་མཁའ་ཡང་གོང་མའི་དཔག་ཚད་ཀྱི་ཚད་དེ་ཙམ་རེས་བར་མཚམས་བཅད་པར་བཤད་དོ།
+<literal>sutra from these between-between sky also upper league measure that-much res interval demarcated explained
+<liturgical><tantra>From sutra, these between-between sky also explained demarcated intervals each that much measure of upper leagues.
+
+[824]
+<tibetan>།རྡོ་རྗེ་རྩེ་མོ་འཇིག་རྟེན་བཀོད་པ་ལས།
+<literal>vajra-peak world-arrangement from
+<liturgical><tantra>From Vajra-peak world arrangement, || 190 ||
+
+[825]
+<tibetan>ཆུ་དང་སའི་བར་ན་ཡང་ནམ་མཁའ་ཡིད་སྐྱོབ་ཅེས་བྱ་བ།
+<literal>water and earth between in also sky mind-protecting named
+<liturgical><prose>Between water and earth also called sky mind-protecting,
+
+[826]
+<tibetan>དཔག་ཚད་ལྔ་སྟོང་གིས་བཏེག་པའི་དབུས་ན་མེའི་དཀྱིལ་འཁོར་རྔམས་སུ་དཔག་ཚད་སྟོང་ཕྲག་གཅིག་དང༌།
+<literal>league five-thousand by-means-of raised center in fire mandala depth to league thousand one and
+<liturgical><prose>Fire mandala depth one thousand leagues, raised by five thousand leagues, in center,
+
+[827]
+<tibetan>རྒྱར་འབུམ་ཕྲག་ལྔ།
+<literal>width to hundred-thousand five
+<liturgical><prose>Width five hundred-thousand,
+
+[828]
+<tibetan>ཁ་དོག་དམར་བའི་འོད་ཅན།
+<literal>color red light possessing
+<liturgical><prose>Possessing red light,
+
+[829]
+<tibetan>འབྱུང་བ་སྤྱི་མཐུན་གྱི་སྨིན་པར་བྱེད་པའི་ལས་སུ་ཡོད་པར་གསུངས་སོ།
+<literal>elements common ripening-doing action as exist said
+<liturgical><prose>Said to exist as action of ripening common elements.
+
+[830]
+<tibetan>།དེ་ཡང་སའི་ཆུས་ཁྱབ་པའི་ལས་བྱས་པ་ནི།
+<literal>that also earth water by-means-of pervaded action did is
+<liturgical><prose>That also did action pervaded by earth's water,
+
+[831]
+<tibetan>འགྲོ་བའི་ལས་ཀྱི་བྱེ་བྲག་སྟོན་པའོ།
+<literal>beings action distinction showing
+<liturgical><prose>Showing distinction of beings' action.
+
+[832]
+<tibetan>།སའི་མེས་སྨིན་པར་བྱས་པ་ནི།
+<literal>earth fire by-means-of ripened did is
+<liturgical><prose>Ripened by earth's fire,
+
+[833]
+<tibetan>འགྲོ་བའི་ལུས་ཀྱི་ཁ་དོག་གསལ་བའོ།
+<literal>beings body color clear
+<liturgical><prose>Beings' body's color clear.
+
+[834]
+<tibetan>།སའི་རླུང་གིས་རྡུལ་ཕྲ་རབ་ཏུ་བྱས་པ་ནི།
+<literal>earth wind by-means-of atom made did is
+<liturgical><prose>Made atom by earth's wind, || 200 ||
+
+[835]
+<tibetan>འགྲོ་བའི་དབང་པོ་རྫོགས་པར་བྱེད་པའོ།
+<literal>beings sense-powers complete-doing make
+<liturgical><prose>Make beings' sense-powers complete.
+
+[836]
+<tibetan>།སའི་ནམ་མཁས་གོ་ཕྱེ་བའི་ལས་བྱས་པ་ནི།
+<literal>earth sky by-means-of aperture opened action did is
+<liturgical><prose>Did action opened aperture by earth's sky,
+
+[837]
+<tibetan>འགྲོ་བའི་སེམས་གནས་པར་བྱེད་པའོ།
+<literal>beings mind abiding-doing make
+<liturgical><prose>Make beings' mind abide.
+
+[838]
+<tibetan>།སའི་སས་མནན་པར་བྱས་པ་ནི།
+<literal>earth earth by-means-of pressed did is
+<liturgical><prose>Pressed by earth's earth,
+
+[839]
+<tibetan>འགྲོ་བའི་ལས་དང་བསོད་ནམས་སྟོན་པར་བྱེད་པའོ།
+<literal>beings action and merit showing-doing make
+<liturgical><prose>Make beings' action and merit show.
+
+[840]
+<tibetan>།དེ་དག་ནི་སྣོད་ཀྱིས་བཅུད་ལ་ཕན་པ་ཞེས་བྱའོ།
+<literal>these vessel by-means-of essence to benefit named
+<liturgical><prose>These called vessel benefits essence.
+
+[841]
+<tibetan>།དེ་ནས་ཡང་འོག་ནས་སྨིན་པ་ལས་ཀྱི་རླུང་ཞེས་བྱ་བ།
+<literal>that from again below from ripening action wind named
+<liturgical><prose>Then again from below called ripening action wind.
+
+[842]
+<tibetan>དབྱིབས་དང་ཁ་དོག་ནི་གསེར་གྱི་འཁོར་ལོའི་རྩིབས་སྟོང་པ་ལྟ་བུ།
+<literal>shape and color gold wheel spokes thousand empty like
+<liturgical><prose>Shape and color like gold wheel's thousand empty spokes,
+
+[843]
+<tibetan>རང་བཞིན་གྱིས་བསྐྱོད་པའི་སྟོབས་དང་ལྡན་པ་ལངས་ཏེ།
+<literal>nature by-means-of moved power possessing arose-and
+<liturgical><prose>Arose possessing power moved by nature,
+
+[844]
+<tibetan>ས་དང་ཆུའི་དཀྱིལ་འཁོར་ཐམས་ཅད་དཀྲུགས་པ་ལས།
+<literal>earth and water mandala all stirred from
+<liturgical><tantra>From stirred all earth and water mandalas, || 210 ||
+
+[845]
+<tibetan>དཔེར་ན་འོ་མའམ་ཞོ་བསྲུབས་པ་ལས་མར་འབྱུང་བ་ལྟར།
+<literal>example-as milk or curd churned from butter arisen like
+<liturgical><prose>Like example of butter arisen from churned milk or curd,
+
+[846]
+<tibetan>རྡུལ་གྱི་སྙིགས་མ་གསེར་དུ་སོང་ཏེ་ལྕི་བས་གཏིང་དུ་སོང་སྟེ་ས་གཞིར་ཆགས།
+<literal>dust impurity gold to went heavy by-means-of depth to went ground base to formed
+<liturgical><prose>Dust impurity went to gold, went to depth by heavy, formed ground base,
+
+[847]
+<tibetan>དངས་མ་སྟེང་དུ་འཕར་བ་ལས་དབུས་ཀྱི་རི་རབ་དཔག་ཚད་འབུམ་དང་དྲུག་ཁྲི་གྱེན་དུ་འཕགས་པ།
+<literal>clear above to floated from center Meru league hundred-thousand and six ten-thousand upward elevated
+<liturgical><prose>Center Meru elevated upward hundred-thousand sixty ten-thousand leagues, floated clear above,
+
+[848]
+<tibetan>ཐུར་དུ་གསེར་གྱི་ས་གཞི་ལའང་དེ་ཙམ་ཟུག་པ་སྟེ།
+<literal>downward gold ground to-also that-much inserted
+<liturgical><prose>Also inserted that much downward to gold ground,
+
+[849]
+<tibetan>བསྡོམས་ན་དཔག་ཚད་སུམ་འབུམ་ཉི་ཁྲིའོ།
+<literal>combined if league three-hundred-thousand twenty-thousand
+<liturgical><prose>Combined three hundred-thousand twenty-thousand leagues.
+
+[850]
+<tibetan>།རྒྱུད་ཁ་ཅིག་ལས།
+<literal>tantra some from
+<liturgical><tantra>From some Tantra,
+
+[851]
+<tibetan>ཐུར་དུ་དཔག་ཚད་ཁྲི་དང་བཞི་སྟོང་ཟུག་པའོ་ཞེས་ཀྱང་བཤད་དོ།
+<literal>downward league ten-thousand and four-thousand inserted said-also explained
+<liturgical><prose>Also explained inserted downward ten-thousand four thousand leagues.
+
+[852]
+<tibetan>།རི་རབ་དེའི་ཤར་དངུལ་ལས་གྲུབ་པ།
+<literal>Meru that east silver from formed
+<liturgical><prose>That Meru's east formed from silver,
+
+[853]
+<tibetan>ལྷོ་བཻ་ཌཱུརྻ།
+<literal>south baiDUr+ya
+<liturgical><prose>South baiḍūrya,
+
+[854]
+<tibetan>ནུབ་པདྨ་རཱ་ག
+<literal>west pad+ma rA ga
+<liturgical><break><prose> West padma rāga, || 220 ||
+
+[855]
+<tibetan>བྱང་གསེར་ལས་གྲུབ་པས་ཕྱོགས་གི་ནམ་མཁའི་མདངས་ཀྱང་དེ་དག་དང་མཐུན་པ་ཡིན་ནོ།
+<literal>north gold from formed by-means-of direction sky radiance also these with harmonious is
+<liturgical><break><prose> North formed from gold, direction sky's radiance harmonious with these.
+
+[856]
+<tibetan>།རི་རབ་དེ་ཡང་གསེར་གྱི་ས་གཞི་ནས་ཇི་ཙམ་འཕགས་པའི་ཕྱེད་དཔག་ཚད་བརྒྱད་ཁྲི་མན་ཆད་ཆུས་ནུབ་ལ།
+<literal>Meru that also gold ground from how-much elevated half league eighty-thousand below water submerged
+<liturgical><prose>That Meru from gold ground elevated, half eighty-thousand leagues below water submerged,
+
+[857]
+<tibetan>ཡན་ཆད་ཀྱི་ཕྱེད་མན་ཆད་ལ་བང་རིམ་བཞི་བརྩེགས་མར་གནས་པའི་འོག་མ་རླུང་གི་བང་རིམ་གཡུའི་རྡོ་རྗེ་ཅན་ཞེས་བྱ་བ་གཡུའི་རྡོ་རྗེ་གཏམས་པའོ།
+<literal>above half below to tier four stacked remain lower wind tier turquoise vajra possessing named turquoise vajra inserted
+<liturgical><prose>Below half above, four stacked tiers remain, lower wind tier called turquoise vajra-possessing, turquoise vajra inserted,
+
+[858]
+<tibetan>།དེ་ཡང་སྲིད་དུ་དཔག་ཚད་བརྒྱད་ཁྲིད་ཆུ་དང་ཁད་མཉམ་ལ།
+<literal>that also width to league eighty-thousand water with distance equal
+<liturgical><prose>That also width eighty-thousand leagues, equal distance with water,
+
+[859]
+<tibetan>རི་རབ་ལས་ཕྱིར་སྟོང་ཕྲག་བཅུ་དྲུག་འཕགས་པ།
+<literal>Meru from outward thousand sixteen elevated
+<liturgical><prose>Elevated outward sixteen thousand from Meru,
+
+[860]
+<tibetan>ཆུར་སུམ་འགྱུར་ཀུན་ལས་མཚུངས་ཤིང༌།
+<literal>height three-times all equal-and
+<liturgical><prose>Height three-times all equal,
+
+[861]
+<tibetan>གཙིག་ནས་གཅིག་གི་གྱེན་དུ་དཔག་ཚད་སྟོང་ཕྲག་བཅུ་བཅུ་ཡོད་པའོ།
+<literal>summit from one of upward league thousand ten ten exist
+<liturgical><prose>Summit one upward ten ten-thousand leagues exist.
+
+[862]
+<tibetan>།བང་རིམ་གཉིས་པ་ནི།
+<literal>tier two is
+<liturgical><prose>Second tier is:
+
+[863]
+<tibetan>དེའི་སྟེང་དུ་ཆུ་ལས་གྲུབ་པའི་བང་རིམ་པདྨ་རྣམ་པར་སྤུངས་པ་ཞེས་བྱ་བ་སྟེ།
+<literal>that above water from formed tier lotus variously-stacked named
+<liturgical><prose>Above that, formed from water, called tier lotus variously-stacked,
+
+[864]
+<tibetan>ཤེལ་གྱི་རང་བཞིན་འོད་འབར་བ།
+<literal>crystal nature light blazing
+<liturgical><prose>Crystal nature blazing light, || 230 ||
+
+[865]
+<tibetan>རི་རབ་ལས་དཔག་ཚད་སྟོང་ཕྲག་བརྒྱད་ཕྱིར་འཕགས་པའོ།
+<literal>Meru from league thousand eight outward elevated
+<liturgical><prose>Elevated outward eight thousand leagues from Meru.
+
+[866]
+<tibetan>།དེའི་སྟེང་ན་བང་རིམ་གསུམ་པ་འཁོར་ལོ་རྣམས་པར་བརྩེགས་པ་ཞེས་བྱ་བ་གསེར་ལས་གྲུབ་པ།
+<literal>that above in tier third wheel variously-stacked named gold from formed
+<liturgical><prose>Above that in third tier, formed from gold, called wheel variously-stacked,
+
+[867]
+<tibetan>རི་རབ་ལས་དཔག་ཚད་སྟོང་ཕྲག་བཞི་ཕྱིར་འཕགས་པའོ།
+<literal>Meru from league thousand four outward elevated
+<liturgical><prose>Elevated outward four thousand leagues from Meru.
+
+[868]
+<tibetan>།དེའི་སྟེང་ན་བང་རིམ་བཞི་པ་རིན་པོ་ཆེ་འོད་འབར་བ་ཞེས་བྱ་བ།
+<literal>that above in tier fourth jewel light-blazing named
+<liturgical><prose>Above that in fourth tier, called jewel light-blazing,
+
+[869]
+<tibetan>བྱེ་རུ་ལས་གྲུབ་པ་མེའི་འོད་ལྟར་དམར་པོ་འཕྲོ་བས།
+<literal>coral from formed fire light like red radiating by-means-of
+<liturgical><prose>Formed from coral, radiating red like fire light,
+
+[870]
+<tibetan>འགྲོ་བའི་ལས་ཀྱིས་ཆར་འབབ་པ་དང་་མི་འབབ་པའི་མཐའ་སྟོན་པར་བྱེད་པའོ།
+<literal>beings action by-means-of rain fall and not-fall limit showing-doing make
+<liturgical><prose>Make showing limit of rain fall and not-fall by beings' action.
+
+[871]
+<tibetan>།རི་རབ་ལས་དཔག་ཚད་ཉིས་སྟོང་ཕྱིར་འཕགས་སོ།
+<literal>Meru from league two-thousand outward elevated
+<liturgical><prose>Elevated outward two-thousand leagues from Meru.
+
+[872]
+<tibetan>།དེ་དག་གི་ཕྱི་རོལ་ན་རོལ་པའི་མཚོ་བདུན་དང་གསེར་གྱི་རི་བདུན་གྱིས་ཀུན་ནས་གྲུ་བཞིར་འཁོར་བའི་རི་བདུན་ནི།
+<literal>these outer in sporting lake seven and gold mountain seven by-means-of all-directions four corner circling mountain seven
+<liturgical><prose>These seven sporting lakes outer, seven gold mountains, circling four corners all directions, seven mountains.
+
+[873]
+<tibetan>ནང་ནས་རིམ་པ་ལྟར།
+<literal>inside from sequence as
+<liturgical><prose>Inside from sequence:
+
+[874]
+<tibetan>གཉའ་ཤིང་འཛིན་དང༌།
+<literal>yoke-holder and
+<liturgical><prose>Yoke-holder, || 240 ||
+
+[875]
+<tibetan>གཤོལ་མདའ་འཛིན་དང༌།
+<literal>plow-arrow-holder and
+<liturgical><prose>Plow-arrow-holder,
+
+[876]
+<tibetan>སེང་ལྡེང་ཅན་དང༌།
+<literal>acacia-possessing and
+<liturgical><prose>Acacia-possessing,
+
+[877]
+<tibetan>བལྟ་ན་སྡུག་དང༌།
+<literal>beautiful-to-see and
+<liturgical><prose>Beautiful-to-see,
+
+[878]
+<tibetan>རྟ་རྣ་དང༌།
+<literal>horse-ear and
+<liturgical><prose>Horse-ear,
+
+[879]
+<tibetan>རྣམ་འདུད་དང༌།
+<literal>prostrate and
+<liturgical><prose>Prostrate,
+
+[880]
+<tibetan>མུ་ཁྱུད་འཛིན་རྣམས་ཆུ་མཚམས་ནས་གྱེན་དུ་འཕགས་པའི་ཆ་ནི།
+<literal>rim-holder water-interval from upward surpassing's portion is
+<liturgical><prose>Rim-holder—these from water-interval upward surpassing's portion:
+
+[881]
+<tibetan>དཔག་ཚད་བཞི་ཁྲི་དང༌།
+<literal>yojana forty-thousand and
+<liturgical><prose>Yojana forty-thousand,
+
+[882]
+<tibetan>ཉི་ཁྲི་དང༌།
+<literal>twenty-thousand and
+<liturgical><prose>Twenty-thousand,
+
+[883]
+<tibetan>ལྔ་སྟོང་དང༌།
+<literal>five-thousand and
+<liturgical><prose>Five-thousand,
+
+[884]
+<tibetan>ཉིས་སྟོང་ལྔ་བརྒྱ་དང༌།
+<literal>two-thousand five-hundred and
+<liturgical><prose>Two-thousand five-hundred, || 250 ||
+
+[885]
+<tibetan>སྟོང་དང་ཕྱེད་དང་སུམ་བརྒྱ་དང༌།
+<literal>thousand and half and three-hundred and
+<liturgical><prose>Thousand and half and three-hundred,
+
+[886]
+<tibetan>དྲུག་བརྒྱ་ཉི་ཤུ་རྩ་ལྔའོ།
+<literal>six-hundred twenty-five
+<liturgical><prose>Six-hundred twenty-five.
+
+[887]
+<tibetan>།ཞེང་དུ་ནི།
+<literal>width in is
+<liturgical><prose>Width:
+
+[888]
+<tibetan>སོ་སོ་ཆ་ལས་ཇི་ཙམ་འཕགས་པ་དེ་ཙམ་རེ་ཡོད་དོ།
+<literal>individual portion from how-much surpassing that-much each exists
+<liturgical><prose>Individual portion from how-much surpassing, that-much each exists.
+
+[889]
+<tibetan>།དེ་དག་གི་བར་ན་མཚོ་བརྒྱད་འཁོར་བར་ཡོད་དེ།
+<literal>these interval in lakes eight surrounding exist
+<liturgical><prose>These interval in eight lakes surrounding exist,
+
+[890]
+<tibetan>ཀླུ་ཆེན་པོ་བརྒྱད་བསྐལ་པར་རྩེ་ཞིང་རོལ་པའི་ཕྱི་རོལ་པའི་མཚོ་ཞེས་བྱའོ།
+<literal>nagas great eight eon playing outer-playing's lake called
+<liturgical><prose>Great nāgas eight eon-playing outer-playing's lake called.
+
+[891]
+<tibetan>།རོལ་མཚོ་དང་པོའི་ཞེང་དུ་དཔག་ཚད་སྟོང་ཕྲག་བརྒྱད་ཅུ།
+<literal>play-lake first's width yojana thousand eighty
+<liturgical><prose>Play-lake first's width: yojana thousand eighty,
+
+[892]
+<tibetan>གཉིས་པ་ལ་སོགས་པ་ནི་ཕྱེད་ཕྱེད་ཕྲི་བ་གང་ཡིན་པ་སྟེ།
+<literal>second and-so-forth half-half decreasing is
+<liturgical><prose>Second: the measures and half-and-quarter divisions,
+
+[893]
+<tibetan>ཆུར་སུམ་འགྱུར་མཚུངས་པར་ཡོད་དོ།
+<literal>depth three-times equal exists
+<liturgical><prose>Three times the height, equally existing.
+
+[894]
+<tibetan>།ཕྱིའི་འཁོར་ཡུག་ཆེན་པོ་ནི།
+<literal>external surrounding great is
+<liturgical><break><prose> The great outer surrounding mountains:
+
+[895]
+<tibetan>ལྕགས་ལས་གྲུབ་པ་སྟེ།
+<literal>iron from made
+<liturgical><prose>Iron in composition,
+
+[896]
+<tibetan>གཉའ་ཤིང་འཛིན་དང་མཐོ་ཁྱད་མཉམ་པའོ།
+<literal>yoke-holder and height-difference equal
+<liturgical><prose>Yoke-holder in height, equally matched.
+
+[897]
+<tibetan>།ཁ་ཅིག་ལས།
+<literal>some from
+<liturgical><prose>According to some,
+
+[898]
+<tibetan>མུ་ཁྱུད་འཛིན་རི་དང་མཉམ་ཞེས་བཤད་དོ།
+<literal>rim-holder mountain and equal said
+<liturgical><prose>Rim-holder mountain equal, it is said.
+
+[899]
+<tibetan>།ཕྱིའི་རྒྱ་མཚོའི་ཕྱོགས་བཞི་སོ་སོའི་ཞེང་དུ་དཔག་ཚད་འབུམ་ཉིས་སྟོང་ཉི་ཁྲིར་གནས་སོ།
+<literal>external ocean's directions four individual's width yojana hundred-thousand two-thousand twenty-thousand in abides
+<liturgical><break><prose> The outer ocean's four directions each in width:
+
+[900]
+<tibetan>།གླིང་རྣམས་ལས་ཤར་གྱི་ལུས་འཕགས་གླིང་ཟླ་ཁམ་སྟེ་འབུར་ངོས་ཕྱིར་བསྟན་པ་ལ་དཔག་ཚད་སུམ་བརྒྱ་ལྔ་བཅུ།
+<literal>continents from east Pūrvavideha crescent-shape protrusion outward-showing yojana three-hundred fifty
+<liturgical><prose>One hundred twelve thousand leagues.
+
+[901]
+<tibetan>ངོས་གཞན་གསུམ་སྟོང་ཉིས་་སྟོང་དུ་ཡོད་ཅིང༌།
+<literal>sides other three-thousand two-thousand in exists and
+<liturgical><break><prose> Of the continents, eastern Videha crescent-shaped,
+
+[902]
+<tibetan>ལུས་དང༌།
+<literal>body and
+<liturgical><prose>Back face outward showing three hundred fifty leagues;
+
+[903]
+<tibetan>ལུས་འཕགས་གཉིས་ཀྱིས་གཡས་དང་གཡོན་དུ་བརྟེན་པ་གཙོ་བོའི་ཕྱེད་ཕྱེད་དོ།
+<literal>Videha two by-means-of right and left supporting main half-half
+<liturgical><prose>Other three faces three thousand two thousand.
+
+[904]
+<tibetan>།འཛམ་བུའི་གླིང་སོག་ཁར་གནས་པའི་ངོས་རིང་བ་གསུམ་ལ་ཉིས་སྟོང་ཉིས་སྟོང༌།
+<literal>Jambudvīpa southern abiding's sides long three two-thousand two-thousand
+<liturgical><prose>Body and Videha both,
+
+[905]
+<tibetan>ཐུང་བ་ཕྱིར་བསྟན་པ་ལ་དཔག་ཚད་ཕྱེད་དང་བཞིའོ།
+<literal>short outward-showing yojana half and four
+<liturgical><prose>Right and left supporting, main half-and-half.
+
+[906]
+<tibetan>།གཡས་སུ་རྔ་ཡབ་དང༌།
+<literal>right Deha and
+<liturgical><break><prose> Jambu continent south-facing, long faces three:
+
+[907]
+<tibetan>གཡོན་དུ་རྔ་ཡབ་གཞན་གཉིས་ནི།
+<literal>left other Deha two are
+<liturgical><prose>Two thousand two thousand;
+
+[908]
+<tibetan>གཙོ་བོའི་ཕྱེད་ཕྱེད་དོ།
+<literal>main half-half
+<liturgical><prose>Short face outward showing leagues two and one-half.
+
+[909]
+<tibetan>།ནུབ་ཀྱི་བ་གླང་སྤྱོད་ཟླུམ་པོ་འཁོར་ཡུག་ཏུ་དཔག་ཚད་བདུན་སྟོང་ལྔ་བརྒྱ་པའོ།
+<literal>west Godānīya circular surrounding yojana seven-thousand five-hundred
+<liturgical><prose>Right Deha and
+
+[910]
+<tibetan>།གཡས་སུ་གཡོ་ལྡན་དང༌།
+<literal>right Videha and
+<liturgical><prose>Left the other Deha both,
+
+[911]
+<tibetan>གཡོན་དུ་ལམ་མཆོག་འགྲོ་གཉིས་ལའང་དེའི་ཕྱེད་ཕྱེད་དོ།
+<literal>left Kuru two also that half-half
+<liturgical><prose>Main half-and-half.
+
+[912]
+<tibetan>།བྱང་གི་སྒྲ་མི་སྙན་གྲུ་བཞི་པའི་ངོས་བཞི་ལ་ཉིས་སྟོང་ཉིད་སྟོང་ལ།
+<literal>north Uttarakuru square's sides four two-thousand thousand
+<liturgical><break><prose> Western Godaniya circular surrounding,
+
+[913]
+<tibetan>གཡས་སུ་སྒྲ་མི་སྙན་དང༌།
+<literal>right Uttarakuru and
+<liturgical><prose>Seven thousand five hundred leagues.
+
+[914]
+<tibetan>།གཡོན་དུ་སྒྲ་མི་སྙན་གྱི་ཟླ་གཉིས་ནི་དེའི་ཕྱེད་ཕྱེད་དོ།
+<literal>left Uttarakuru's moons two are that half-half
+<liturgical><prose>Right Videha and
+
+[915]
+<tibetan>།དེ་དག་གི་གོ་ན་སེམས་ཅན་གྱི་གནས་བྱེ་བྲག་ཏུ་བཤད་ན་བརྗོད་ཀྱིས་མི་ལང་ཡང༌།
+<literal>these interval in beings abode specifically explained inexpressible although
+<liturgical><prose>Left Kuru both also,
+
+[916]
+<tibetan>རགས་པ་ཙམ་ཞིག་བསྡུ་ན།
+<literal>coarse merely summarize if
+<liturgical><prose>That half-and-half.
+
+[917]
+<tibetan>ངན་སོང་དང་མཐོ་རིས་གཉིས་ལས།
+<literal>lower-realms and higher-realms two from
+<liturgical><break><prose> Northern Kuru square, four faces four:
+
+[918]
+<tibetan>ངན་སོང་གི་དང་པོ་དམྱལ་བ་ནི།
+<literal>lower-realms first hell is
+<liturgical><prose>Two thousand each;
+
+[919]
+<tibetan>གངས་རི་ཏི་སེའི་འོག་ནས་འོག་ཏུ་དཔག་ཚད་ཉི་ཁྲི་ཉི་ཁྲི་གཞལ་བ་ན་ཡང་སོས་ལ་སོགས་པ་ཚ་དམྱལ་བརྒྱད་དང༌།
+<literal>snow-mountain ti se below from downward to league twenty-thousand twenty-thousand measured at yama-soothed etc. hot hell eight and
+<liturgical><prose>Right Kuru and
+
+[920]
+<tibetan>ཆུ་བུར་ཅན་ལ་སོགས་པ་གྲང་དམྱལ་བརྒྱད་འདབས་འབྱོར་དུ་ཡོད་དོ།
+<literal>bubble possessing etc. cold hell eight periphery complete to exist
+<liturgical><prose>Left Kuru's moon both,
+
+[921]
+<tibetan>།ཉི་ཚེ་བ་ནི་ས་ཆུ་མེ་རླུང་སྣ་ཚོགས་ན་ངེས་པ་མེད་པར་ཡོད་ལ།
+<literal>occasional ones earth water fire wind various in definite not exist and
+<liturgical><prose>That half-and-half.
+
+[922]
+<tibetan>ཉེ་འཁོར་བ་ནི་བརྒྱད་ཚན་གཉིས་ཀྱི་འཁོར་ན་ཡོད་དོ།
+<literal>neighboring ones eight groups two surrounding in exist
+<liturgical><break><prose> The intervals of these, beings' locations individually explained,
+
+[923]
+<tibetan>།ཡི་དྭགས་ནི་རྒྱལ་པོའི་ཁབ་ཀྱི་འོག་དཔག་ཚད་ལྔ་བརྒྱ་འདས་པ་ན་རྩ་བའི་གནས་ཡོད་ལ།
+<literal>pretas king capital below league five-hundred passed at root place exist and
+<liturgical><prose>Inexpressible by words, — yet
+
+[924]
+<tibetan>ཡན་ལག་ལྷ་མིའི་འཇིག་རྟེན་ནའང་ཡོད་དོ།
+<literal>branches gods-humans world in-also exist
+<liturgical><prose>Rough summary:
+
+[925]
+<tibetan>།དུད་འགྲོ་ཡང་བྱིངས་ན་གནས་པ་རྒྱ་མཚོ་ཆེན་པོ་ན་ཆང་དར་བའི་སྦང་མ་ཙམ་ཡོད་ལ།
+<literal>animals also ocean in dwelling great-ocean in extent merely exist and
+<liturgical><prose>From lower and higher realms,
+
+[926]
+<tibetan>ཁ་འཐོར་བ་ལྷ་མིའི་ཡུལ་ནའང་ཡོད་དོ།
+<literal>scattered gods-humans land in-also exist
+<liturgical><prose>Lower realms first, the hells:
+
+[927]
+<tibetan>།ལྷ་མ་ཡིན་ནི་རི་རབ་ཀྱི་ཆུ་མཚམས་མན་ཆད་ཀྱི་ཁོང་གསེང་ལ་ཡོད་ལ།
+<literal>demigods Meru water-level below hollow space in exist and
+<liturgical><prose>Below snow-mountain Ti-se, downward downward
+
+[928]
+<tibetan>ལྷ་རྣམས་ནི་རི་རབ་ཀྱི་བང་རིམ་ཡན་ཆད་ན་གོང་ནས་གོང་དུ་ཡོད་དོ།
+<literal>gods Meru tier above to above progressively exist
+<liturgical><prose>Twenty thousand leagues measured, Reviving and so forth,
+
+[929]
+<tibetan>།དེའང་རི་བདུན་ལ་རྒྱལ་ཆེན་བཞིའི་རིས་ཀྱི་ལྷའི་གྲོང་དང་སྐྱེད་མོས་ཚལ་དཔག་ཏུ་མེད་ལ།
+<literal>that-also mountain seven to great-king four class of gods city and pleasure-groves countless and
+<liturgical><prose>Eight hot hells;
+
+[930]
+<tibetan>ཁྱད་པར་དུ་གནོད་སྦྱིན་ཆེན་པོ་གསེར་རྐང་དང༌།
+<literal>particularly yaksha great golden-foot and
+<liturgical><prose>Blisters and so forth, eight cold hells,
+
+[931]
+<tibetan>སྟོབས་ལྡན་དང༌།
+<literal>powerful and
+<liturgical><prose>At the periphery existing.
+
+[932]
+<tibetan>འཇུག་སྲིད་དང༌།
+<literal>entering-existence and
+<liturgical><break><prose> Occasional various earth, water, fire, wind
+
+[933]
+<tibetan>གྲགས་པའི་དཔལ་དང༌།
+<literal>glory splendor and
+<liturgical><prose>Without certainty existing;
+
+[934]
+<tibetan>རི་འདེགས་དང༌།
+<literal>mountain-raising and
+<liturgical><prose>Neighboring two groups of eight surrounding existing.
+
+[935]
+<tibetan>མཆོག་སྲིད་དང་བདུན་གྱི་ཁང་བུ་བརྩེགས་མ་སོ་སོའི་འཁོར་གྱི་གྲོང་དང་བཅས་པ་ཡོད་པས།
+<literal>supreme-existence and seven of house stacked individual surrounding city and with possessing by-means-of
+<liturgical><break><prose> Pretas below the king's capital,
+
+[936]
+<tibetan>འཛམ་བུའི་གླིང་དུ་མི་ནད་དང༌།
+<literal>jambu-continent human-disease and
+<liturgical><prose>Five hundred leagues passed, root place existing;
+
+[937]
+<tibetan>ཕྱུགས་ནད་དང༌།
+<literal>animal-disease and
+<liturgical><prose>Branches god-human world also existing.
+
+[938]
+<tibetan>མཚོན་དང༌།
+<literal>weapons and
+<liturgical><break><prose> Animals also types dwelling,
+
+[939]
+<tibetan>མུ་གེའི་བསྐལ་པ་གཏོང་ཞིང་ལེགས་ཉེས་སུ་བྱེད་དོ།
+<literal>famine eon send and good-bad make-do
+<liturgical><prose>Great ocean extending like foam on water only existing;
+
+[940]
+<tibetan>།དེ་དག་གི་འཁོར་ན་རེངས་བྱེད་ཀྱི་མ་མོ་བདུན་གནས་པས་ལས་སོ་སོ་ལ་དབང་བྱེད་པ་ཡིན་ནོ།
+<literal>these surrounding in paralyzing-doing mother-goddess seven dwell by-means-of action individual to control-doing is
+<liturgical><prose>Scattered-mouth god-human lands also existing.
+
+[941]
+<tibetan>།མཚོ་བརྒྱད་ན་ཀླུའི་རྒྱལ་པོ་བརྒྱད་ཀྱི་ཕོ་བྲང་ཡོད་དོ།
+<literal>lake eight in naga-king eight palace exist
+<liturgical><break><prose> Asuras Meru's water-level below,
+
+[942]
+<tibetan>།ཀླུ་བརྒྱད་ནི།
+<literal>naga eight are
+<liturgical><prose>Hollow space existing;
+
+[943]
+<tibetan>དགའ་བོ་དང༌།
+<literal>joyful and
+<liturgical><prose>Gods Meru's tier above,
+
+[944]
+<tibetan>ཉེ་དགའ་དང༌།
+<literal>near-joyful and
+<liturgical><prose>Higher and higher existing.
+
+[945]
+<tibetan>རྟའི་གཞི་དང༌།
+<literal>horse-basis and
+<liturgical><break><prose> Also seven mountains Four Great Kings class,
+
+[946]
+<tibetan>བཏང་བཟུང་དང༌།
+<literal>releasing-holding and
+<liturgical><prose>Gods' cities and pleasure-groves immeasurable;
+
+[947]
+<tibetan>གཟི་ཅན་དང༌།
+<literal>possessing-splendor and
+<liturgical><prose>Particularly yakshas great Golden-Foot,
+
+[948]
+<tibetan>ཡུལ་འཁོར་སྲུང་དང༌།
+<literal>land-guarding and
+<liturgical><prose>Powerful,
+
+[949]
+<tibetan>ནག་པོ་ཆེན་པོ་དང༌།
+<literal>great-black and
+<liturgical><prose>Entering-Existence,
+
+[950]
+<tibetan>ཨེ་ལའི་འདབ་རྣམས་སོ།
+<literal>e to leaves
+<liturgical><prose>Glory-Splendor,
+
+[951]
+<tibetan>།འདི་དག་གིས་འཛམ་བུའི་གླིང་དུ་ཆར་ཆེ་བ་དང༌།
+<literal>these jambu-continent rain great and
+<liturgical><prose>Mountain-Raising,
+
+[952]
+<tibetan>ཆུང་བ་ལ་སོགས་པའི་ལས་ཉེ་བར་སྟོན་པར་བྱེད་དོ།
+<literal>small etc. action near showing-doing make
+<liturgical><prose>Supreme-Existence,
+
+[953]
+<tibetan>།རི་རབ་ཀྱི་བང་རིམ་གྱི་གྲྭ་བཞི་ན།
+<literal>Meru tier corner four in
+<liturgical><prose>Seven stacked houses each with surrounding cities existing,
+
+[954]
+<tibetan>འདེགས་དུས་ཀྱི་གནོད་སྦྱིན་རབ་ཏུ་སྟོབས་དང་ལྡན་པ་བཞིའི་ཕོ་བྲང་ཡོད་དེ།
+<literal>raising-time yaksha extremely powerful four palace exist
+<liturgical><prose>Upon Jambu continent human-disease,
+
+[955]
+<tibetan>འདི་དག་གིས་དུས་བཞི་སོ་སོའི་རིམ་པ་དབྱར་ཆར་འབབ་པ་དང༌།
+<literal>these by-means-of four-seasons individual sequence summer rain fall and
+<liturgical><prose>Animal-disease,
+
+[956]
+<tibetan>སྟོན་འབྲུ་དང༌།
+<literal>autumn grain and
+<liturgical><prose>Weapons,
+
+[957]
+<tibetan>མེ་ཏོག་སྨིན་པ་དང༌།
+<literal>flower ripening and
+<liturgical><prose>Famine's eon sending,
+
+[958]
+<tibetan>དགུན་བསིལ་ཞིང་གྲང་བ་དང༌།
+<literal>winter cold and
+<liturgical><prose>Good and bad performing.
+
+[959]
+<tibetan>དཔྱིད་དྲོ་བར་སྨིན་པའི་ལས་བྱེད་དོ།
+<literal>spring warm to ripening action do
+<liturgical><break><prose> These surrounding seven paralyzing mother-goddesses dwelling,
+
+[960]
+<tibetan>དེ་ཡང་རླུང་གི་ལྷ་མོ་བཞི་ལ་སོགས་པའི་འགྲོ་བ་འདི་དག་ནི།
+<literal>that also wind goddess four etc. beings these are
+<liturgical><prose>Actions individual controlling.
+
+[961]
+<tibetan>བཅུད་ཀྱི་འགྲོ་བ་ཕལ་པ་རྣམས་ལས་ཆེས་འཕགས་པ་ནི།
+<literal>essence beings common from most elevated is
+<liturgical><break><prose> Eight lakes, eight naga-kings' palaces existing.
+
+[962]
+<tibetan>སྤྱི་མཐུན་གྱི་ལས་ལས་གྲུབ་པ་སྟེ།
+<literal>common action from accomplished
+<liturgical><prose>Eight nagas:
+
+[963]
+<tibetan>སྲིད་པ་ལས་ཀྱི་འགྲོ་བ་ཞེས་བྱའོ།
+<literal>existence action beings named
+<liturgical><prose>Joyful,
+
+[964]
+<tibetan>དེ་ཡང་དང་པོ་འཇིག་རྟེན་འཆགས་པ་དང་མཉམ་ཞིང༌།
+<literal>that also first world formed and equal and
+<liturgical><prose>Near-Joyful,
+
+[965]
+<tibetan>མཐར་འཇིག་པ་དང་ཡང་མཉམ་པས་ཚེ་བསྐལ་པར་གནས་པ་ཞེས་བྱའོ།
+<literal>end destroyed and also equal by-means-of life eon for abiding named
+<liturgical><prose>Horse-Basis,
+
+[966]
+<tibetan>ལྷ་མ་ཡིན་གྱི་རྩ་བའི་གནས་རི་རབ་ཀྱི་ཁོང་གསེང་ན་ཡོད་པའང༌།
+<literal>demigods root place Meru hollow space in exist also
+<liturgical><prose>Releasing-Holding,
+
+[967]
+<tibetan>ལྷ་རྣམས་ལ་འགྲན་པ་ལྟ་བུའི་དཔལ་དང་སྐལ་བ་བཟང་པོས་འབྱོར་པའོ།
+<literal>gods to competing like splendor and good-fortune possessing rich
+<liturgical><prose>Possessing-Splendor,
+
+[968]
+<tibetan>དེ་ཡང་གསེར་གྱི་ས་གཞིའི་སྟེང་ན་ལྷ་མ་ཡིན་གྱི་གྲོང་ཁྱེར་གསེར་ལྡན་རིན་པོ་ཆེ་སྣ་ཚོགས་ལས་གྲུབ་པའི་དབུས་ན།
+<literal>that also gold ground above demigods city gold possessing jewel various from formed center in
+<liturgical><prose>Land-Guarding,
+
+[969]
+<tibetan>དབང་པོའི་ཁང་བཟངས་་གདམས་པ་ཅན་དང༌།
+<literal>Indra palace instruction possessing and
+<liturgical><prose>Great-Black,
+
+[970]
+<tibetan>འདུན་ས་ནོར་བཟངས་དང༌།
+<literal>assembly-place good-wealth and
+<liturgical><prose>E-la Leaves.
+
+[971]
+<tibetan>ཕྱོགས་ཀྱི་སྐྱེད་མོས་ཚལ་བཟང་པོ་དགའ་བ་དང༌།
+<literal>direction pleasure-grove good joy and
+<liturgical><break><prose> These upon Jambu continent rain falling great and small,
+
+[972]
+<tibetan>རབ་ཏུ་དགའ་བ་དང༌།
+<literal>great-joy and
+<liturgical><prose>And so forth actions showing.
+
+[973]
+<tibetan>ཀུན་དགའ་ར་བ་དང༌།
+<literal>universal-joy-park and
+<liturgical><break><prose> Meru's tier's four corners,
+
+[974]
+<tibetan>དགའ་བའི་ཀུན་དགའ་ར་བའོ།
+<literal>joy universal-joy-park
+<liturgical><prose>Lifting-Time yakshas extremely powerful four,
+
+[975]
+<tibetan>ས་གཞིའི་མིང་ཡང་དེ་དང་འདྲ་ཞིང༌།
+<literal>ground name also that with similar and
+<liturgical><prose>Palaces existing;
+
+[976]
+<tibetan>ཤིང་གི་མཆོག་ཙི་ཏྲི་པ་དང༌།
+<literal>tree chief tsi tri pa and
+<liturgical><prose>These four seasons' sequence,
+
+[977]
+<tibetan>རྡོ་ལེབ་རབ་ཏུ་བཟང་པོ་དང༌།
+<literal>flat-stone extremely good and
+<liturgical><prose>Summer rain falling,
+
+[978]
+<tibetan>གླང་པོའི་མཆོག་ཏི་སེའི་གངས་བརྩེགས་དང༌།
+<literal>horse chief swift named exist
+<liturgical><prose>Autumn grain,
+
+[979]
+<tibetan>བཟོད་པར་དཀའ་བ་དང༌།
+<literal>enjoyment joy
+<liturgical><prose>Flowers ripening,
+
+[980]
+<tibetan>རྟའི་མཆོག་རབ་མྱུར་ཞེས་བྱ་བ་ཡོད་དོ།
+<literal>tree and
+<liturgical><prose>Winter cold and
+
+[981]
+<tibetan>ལོངས་སྤྱོད་ཀྱི་དགའ་བ།
+<literal>grove and
+<liturgical><prose>Spring warmth ripening actions performing.
+
+[982]
+<tibetan>ཤིང་དང༌།
+<literal>horse and
+<liturgical><break><prose> Also wind-goddesses four and so forth,
+
+[983]
+<tibetan>ཚལ་དང༌།
+<literal>elephant great and
+<liturgical><prose>These beings common appearances elevated,
+
+[984]
+<tibetan>རྟ་དང༌།
+<literal>clothes and
+<liturgical><prose>Common-action accomplished,
+
+[985]
+<tibetan>གླང་པོ་ཆེ་དང༌།
+<literal>wealth and
+<liturgical><prose>Existence-action beings named.
+
+[986]
+<tibetan>གོས་དང༌།
+<literal>nectar drink etc. also countless
+<liturgical><break><prose> These world's formation with arising,
+
+[987]
+<tibetan>ནོར་དང༌།
+<literal>desire-gods place also six from
+<liturgical><prose>World's end with also equal,
+
+[988]
+<tibetan>བདུད་རྩིའི་བཏུང་བ་ལ་སོགས་པ་ཡང་དཔག་ཏུ་མེད་དོ།
+<literal>great-king four mountain seven surrounding and eight
+<liturgical><prose>Eon-abiding named.
+
+[989]
+<tibetan>འདོད་ལྷའི་གནས་ཀྱང་དྲུག་ལས༌།
+<literal>sun moon planet star and nine
+<liturgical><break><prose> Asuras' root place Meru's hollow existing,
+
+[990]
+<tibetan>རྒྱལ་ཆེན་བཞི་ནི་རི་བདུན་འཁོར་ཡུག་དང་བརྒྱད།
+<literal>continent four center snow-mountain and
+<liturgical><prose>Gods competing splendor and good fortune possessing.
+
+[991]
+<tibetan>ཉི་ཟླ་གཟའ་སྐར་དང་དགུ
+<literal>grove and
+<liturgical><break><prose> Golden ground upon,
+
+[992]
+<tibetan>གླིང་བཞིའི་དབུས་ཀྱི་གངས་རི་དང༌།
+<literal>city etc. various place and ten in enjoy
+<liturgical><prose>Asura-city Golden-Possessing jewel-variegated composed center,
+
+[993]
+<tibetan>ཚལ་དང༌།
+<literal>tier four in also exist
+<liturgical><prose>Indra's palace containing-instruction,
+
+[994]
+<tibetan>གྲོང་ལ་སོགས་པ་སྣ་ཚོགས་པའི་གནས་དང་བཅུ་ན་སྤྱོད་པའོ།
+<literal>tier first hand in screen holding god and
+<liturgical><prose>Assembly-Place Good-Wealth,
+
+[995]
+<tibetan>།བང་རིམ་བཞི་ནའང་ཡོད་དེ།
+<literal>second to flower garland holding god and
+<liturgical><prose>Directional pleasure-grove Good-Joy,
+
+[996]
+<tibetan>བང་རིམ་དང་པོ་ལག་ན་ཡོལ་གོ་ཐོགས་པའི་ལྷ་དང༌།
+<literal>third to honey-wine by-means-of always intoxicated god and
+<liturgical><prose>Great-Joy, Universal-Joy-Park, Joy-of-Universal-Joy-Park.
+
+[997]
+<tibetan>གཉིས་པ་ལ་མེ་ཏོག་གི་ཕྲེང་བ་ཐོགས་པའི་ལྷ་དང༌།
+<literal>second to flower garland holding gods and
+<liturgical><ornament>Second: The gods holding flower garlands.
+
+[998]
+<tibetan>གསུམ་པ་ལ་སྦྲང་ཆང་གིས་རྟག་ཏུ་མྱོས་པའི་ལྷ་དང༌།
+<literal>third to honey wine by perpetually intoxicated gods and
+<liturgical><ornament>Third: The gods perpetually intoxicated by honey wine.
+
+[999]
+<tibetan>བཞི་པ་ལ་ཕྱོགས་བཞིར་འཕགས་སྐྱེས་པོ་དང༌།
+<literal>fourth to directions four elevated-born and
+<liturgical><prose>The fourth, the elevated-born, abide in the four directions.
+
+[1000]
+<tibetan>སྤྱན་མི་བཟང་དང༌།
+<literal>eyes not-good and
+<liturgical><prose>Virūpākṣa, whose eyes see all,
+
+[1001]
+<tibetan>རྣམ་ཐོས་ཀྱི་བུ་དང༌།
+<literal>hearing son and
+<liturgical><prose>And Virūḍhaka, the son of hearing,
+
+[1002]
+<tibetan>ཡུལ་འཁོར་སྲུང་སོ་སོའི་འཁོར་དང་བཅས་པ་གནས་སོ།
+<literal>land-guarding individual surrounding and with dwell
+<liturgical><prose>Together with Dhṛtarāṣṭra, guarding the land with their individual retinues, dwell therein.
+
+[1003]
+<tibetan>།དེ་དག་གི་ཕོ་བྲང་འཁོར་དང༌།
+<literal>these palace surrounding and
+<liturgical><prose>Surrounding these palaces
+
+[1004]
+<tibetan>སྐྱེད་མོས་ཚལ་བཟང་པོ་རྣམས་ཀྱང༌།
+<literal>pleasure-grove good plural also
+<liturgical><prose>Are exquisite pleasure-groves,
+
+[1005]
+<tibetan>གསེར་གྱི་ས་གཞི་བརྡལ་བ་ལ་ཙནྡན་གྱི་ཆུས་ཆག་ཆག་བཏབ་ཅིང༌།
+<literal>gold ground expanded to sandalwood water by-means-of sprinkled and
+<liturgical><prose>Sprinkled with sandalwood water upon grounds of expanded gold,
+
+[1006]
+<tibetan>ལྷའི་མེ་ཏོག་མན་དཱ་ར་བས་པུས་ནུབ་ཙམ་དུ་ཁེབས་པ་ལ།
+<literal>gods flower mandAra knee-down to covered to
+<liturgical><prose>Covered to the knee by divine mandāra blossoms,
+
+[1007]
+<tibetan>རྫིང་བུ་བཟང་པོ་མེ་ཏོག་གིས་གང་བའི་ཆུ་ཁད་ཆད་དུ་ཡོད་པ་ལ་སོགས་པས་མཛེས་པའོ།
+<literal>lake good flower by-means-of filled water level equal to exist etc. by-means-of beautiful
+<liturgical><prose>Made beautiful by pristine lakes filled with flowers rising level with their waters.
+
+[1008]
+<tibetan>།ཉི་མའི་གཞལ་མེད་ཁང་དཔག་ཚད་ལྔ་བཅུ་རྩ་གཅིག་གིས་འོག་གཞི་མེ་ཤེལ་ལས་གྲུབ་ཅིང༌།
+<literal>sun measureless-palace league fifty-one by-means-of below base fire-crystal from formed and
+<liturgical><prose>The Sun's measureless palace spans fifty-one leagues, its base below formed of fire-crystal, || 10 ||
+
+[1009]
+<tibetan>ཟླ་བ་ཆུ་ཤེལ་ལས་རང་བྱུང་བ།
+<literal>moon water-crystal from self-arisen
+<liturgical><prose>While the Moon arises self-spontaneously from water-crystal,
+
+[1010]
+<tibetan>སྟེང་ན་གསེར་དང་དངུལ་གྱི་ར་བས་བསྐོར་ཞིང༌།
+<literal>above gold and silver fence by-means-of surrounded and
+<liturgical><prose>Above surrounded by fences of gold and silver,
+
+[1011]
+<tibetan>རིན་པོ་ཆེ་སྣ་བཞིའི་ལྕོག་དང༌།
+<literal>jewel four tower and
+<liturgical><prose>With four jewel towers
+
+[1012]
+<tibetan>ལྷའི་གྲོང་གིས་བརྒྱན་པའོ།
+<literal>gods city by-means-of adorned
+<liturgical><prose>Adorned by the cities of the gods.
+
+[1013]
+<tibetan>།ཟླ་བ་ནི་དཔག་ཚད་ལྔ་བཅུ་ལ།
+<literal>moon league fifty to
+<liturgical><prose>The Moon extends fifty leagues,
+
+[1014]
+<tibetan>སྐར་མ་ཆེ་བ་རྒྱང་གྲགས་བཅོ་བརྒྱད་དང་བཞི་ཆ་གཅིག
+<literal>star great league eighteen and quarter one
+<liturgical><break><prose> The great stars eighteen leagues and a quarter,
+
+[1015]
+<tibetan>འབྲིང་བཅུ་བདུན་ནས་གཉིས་ཀྱི་བར་ལ།
+<literal>medium seventeen from two between to
+<liturgical><break><prose> The medium ranging between seventeen and two,
+
+[1016]
+<tibetan>ཆུང་བ་རྒྱང་གྲགས་གཅིག་པ་སྟེང་ན་ལྷའི་གྲོང་དང་བཅས་ཤིང༌།
+<literal>small league one above gods city and with and
+<liturgical><prose>The small one league, above with the cities of the gods,
+
+[1017]
+<tibetan>ཉིན་ཞག་རེ་རེ་ཞིང་གླིང་བཞི་རང་བཞིན་གྱིས་བསྐོར་བའི་རྫུ་འཕྲུལ་ཡོད་པ།
+<literal>day each continent four nature by-means-of circling miracle possessing
+<liturgical><prose>Possessing the miracle of circling the four continents by nature each day,
+
+[1018]
+<tibetan>གསེར་ཟངས་ཆུ་ཤེལ་འཁར་བ་བཞི་གང་རུང་ལས་གྲུབ་པ།
+<literal>gold copper water-crystal iron four any from formed
+<liturgical><prose>Formed from any of four—gold, copper, water-crystal, or iron— || 20 ||
+
+[1019]
+<tibetan>དཔག་ཚད་བཞི་ཁྲིའི་ནམ་མཁའ་ལ་ལྡིང་ཞིང་འོད་ཟེར་དུ་འཕྲོ་བ་ཡིན་ནོ།
+<literal>league forty-thousand sky in floating and light-rays as radiate is
+<liturgical><prose>Floating in forty-thousand leagues of sky, radiating as light-rays.
+
+[1020]
+<tibetan>།དབུས་ཀྱི་རི་དབང་ལྷུན་པོའི་སྟེང་ན་སུམ་ཅུ་རྩ་གསུམ་པའི་གནས་ཡོད་དེ།
+<literal>center mountain king spontaneously-arisen above thirty-three place exist
+<liturgical><prose>Above, the spontaneously-arisen king of central mountains, the Thirty-Three abodes exist,
+
+[1021]
+<tibetan>གྲོང་དང༌།
+<literal>city and
+<liturgical><prose>Comprising city,
+
+[1022]
+<tibetan>ཚལ་དང༌།
+<literal>grove and
+<liturgical><prose>Grove,
+
+[1023]
+<tibetan>ས་གཞི་དང༌།
+<literal>ground and
+<liturgical><prose>Ground,
+
+[1024]
+<tibetan>ཤིང་དང༌།
+<literal>tree and
+<liturgical><prose>Tree,
+
+[1025]
+<tibetan>འདུན་ས་བཟང་པོ་དང་ལྔ་ལས།
+<literal>assembly-place good and five from
+<liturgical><prose>And five excellent assembly-places,
+
+[1026]
+<tibetan>གྲོང་ལ་དབང་པོའི་ཕོ་བྲང་འཁོར།
+<literal>city to Indra palace surrounding
+<liturgical><prose>Surrounding the city lies Indra's palace,
+
+[1027]
+<tibetan>སྤྱིའི་གྲོང་བལྟ་ན་སྡུག
+<literal>common city see beautiful
+<liturgical><break><prose> While the common city appears beautiful to behold,
+
+[1028]
+<tibetan>མཚམས་གྱི་གནས་གསུམ་ལས།
+<literal>intermediate place three from
+<liturgical><break><tantra> From three intermediate places, || 30 ||
+
+[1029]
+<tibetan>དབུས་ན་རྣམ་པར་རྒྱལ་བའི་ཁང་བཟངས།
+<literal>center completely-victorious palace
+<liturgical><prose>The Completely Victorious Palace stands at the center,
+
+[1030]
+<tibetan>ངོས་རེ་ལ་དཔག་ཚད་ཉིད་བརྒྱ་ལྔ་བཅུ་པ།
+<literal>side each to league hundred fifty
+<liturgical><prose>Each side extending one hundred fifty leagues,
+
+[1031]
+<tibetan>བལྟ་ན་སྡུག་ལས་དཔག་ཚད་ཕྱེད་དང་ལྔ་གྱེན་དུ་འཕགས་པ།
+<literal>see beautiful from league half and five upward elevated
+<liturgical><prose>Rising five and a half leagues upward from the beautiful grounds,
+
+[1032]
+<tibetan>བ་གམ་བརྒྱད་ལ་ཁང་བུ་བརྩེགས་མ་བདུན་ན་གནས་ཁང་བདུན་བདུན་གྱིས་བརྒྱན་པ།
+<literal>story eight to house stacked seven in room seven seven by-means-of adorned
+<liturgical><prose>Reaching eight stories, with seven stacked houses adorned by seven times seven rooms,
+
+[1033]
+<tibetan>དེའི་ཕྱོགས་བཞི་ན་ཤིང་རྟ་སྣ་ཚོགས་ཅན་ཞེས་བྱ་བའི་སྐྱེད་མོས་ཚལ་བཞི་ཡོད་དེ།
+<literal>that direction four in chariot various-possessing named pleasure-grove four exist
+<liturgical><prose>In the four directions thereof exist four pleasure-groves called Chariot-Various-Possessing,
+
+[1034]
+<tibetan>རེ་རེ་ནའང་རིན་པོ་ཆེའི་ཤིང་དང༌།
+<literal>each in-also jewel tree and
+<liturgical><prose>Each endowed with jewel trees,
+
+[1035]
+<tibetan>བྱ་དང༌།
+<literal>bird and
+<liturgical><prose>Birds,
+
+[1036]
+<tibetan>རྫིང་བུ་དུ་མས་མཛེས་པ།
+<literal>lake many by-means-of beautiful
+<liturgical><prose>And beauty from many lakes,
+
+[1037]
+<tibetan>ལྷའི་གོས་དང༌།
+<literal>gods clothes and
+<liturgical><prose>Together with divine garments,
+
+[1038]
+<tibetan>རོལ་མོ་དང༌།
+<literal>music and
+<liturgical><prose>Music, || 40 ||
+
+[1039]
+<tibetan>བདུད་རྩི་དང༌།
+<literal>nectar and
+<liturgical><prose>Nectar,
+
+[1040]
+<tibetan>ནོར་བུ་སྣ་ཚོགས་ཀྱི་དྲ་བས་སྦྲེལ་ཞིང༌།
+<literal>jewel various net by-means-of joined and
+<liturgical><prose>All joined by nets of various jewels.
+
+[1041]
+<tibetan>ལྷའི་བུ་དང་བུ་མོ་གླུ་དང་སིལ་སྙན་འཁྲོལ་བས་གང་བ་ཡོད་དོ།
+<literal>gods son and daughter song and cymbals play by-means-of fill exist
+<liturgical><prose>The sons and daughters of the gods fill every space with song and the resounding music of cymbals.
+
+[1042]
+<tibetan>།སྤྱིའི་འགྲོ་ཁྱེར་བལྟ་ན་སྡུག་ནི།
+<literal>common see-happy is
+<liturgical><prose>The common realm, delightful to behold:
+
+[1043]
+<tibetan>དེའི་ཕྱི་རོལ་ན་འཁོར་བར་རིན་པོ་ཆེ་སྣ་ཚོགས་ཀྱི་ཁང་བརྩེགས་བཀོད་པ་སྣ་ཚོགས་སུ་མཛེས་པའི་ངོས་རེ་དཔག་ཚད་བཞི་བཞི་སྟོང་ལྔ་བརྒྱ་པ་དཔངས་སུ་ཕྱེད་དང་གསུམ་འཕགས་པའོ།
+<literal>that outside at cyclic-existence jewel various mansion arrangements various beautifully appearance each measure four four thousand five hundred height half and three exceed
+<liturgical><prose>Outside that, within cyclic existence, various jewel-mansion arrangements beautifully diverse, each appearance measuring four thousand five hundred leagues, exceeding three and one-half in height.
+
+[1044]
+<tibetan>།ནང་གི་ས་གཞི་དང་ལམ་སྲང་བལྟ་ན་སྡུག་ཅིང་ཡིད་དུ་འོང་བ་དུས་བཞིར་མེ་ཏོག་གི་ཆར་འབབ་པ་དང་བཅས་པའོ།
+<literal>inside ground and street see happy and mind pleasing four-seasons flower rain fall and together
+<liturgical><prose>Inside, the ground and streets appear beautiful, pleasing to the mind, together with flower-rain falling in the four seasons.
+
+[1045]
+<tibetan>།གྲོང་ཁྱེར་གྱི་ཕྱི་རོལ་རིན་པོ་ཆེ་སྣ་བདུན་གྱི་ར་བ་བདུན་གྱིས་བསྐོར་བའི་བར་ན་འབབ་ཆུས་ཡོངས་སུ་གང་བར།
+<literal>city outside jewel seven wall seven by-means-of surrounded interval falling-water completely fill
+<liturgical><prose>Outside the city, surrounded between seven jewel walls, completely filled with falling waters.
+
+[1046]
+<tibetan>པདྨ་ལ་སོགས་པ་མེ་ཏོག་གི་ཚོགས་རྒྱས་ཤིང་བྱ་སྐད་སྙན་པར་སྒྲོགས་པ་ན།
+<literal>lotus etc. flower group expand and bird-voice sweetly proclaim when
+<liturgical><prose>Lotus and other flower-groups expand, while birds' voices sweetly proclaim,
+
+[1047]
+<tibetan>རིན་པོ་ཆེའི་གྲུ་ལྡིང་བ་དང་བཅས་པ་ཡོད་དོ།
+<literal>jewel boat flying and together exist
+<liturgical><prose>Existing together with flying jewel-boats.
+
+[1048]
+<tibetan>།མཚམས་གྱི་གྲོང་ནི་རི་རབ་ཀྱི་རྩེ་མོའི་མཚམས་བཞི་ན་ཁང་བརྩེགས་ལྔ་བརྒྱ་པ་ལྷའི་གྲོང་གིས་བརྒྱན་པ་བཞི་ཡོད་པའི་བར་གྱི་ཐང་ར་བ་དཔག་ཚད་ལྔ་པས་སྦྲེལ་བ་ན།
+<literal>interval city is Meru peak interval four mansion five hundred god city decorate four exist interval plain wall measure five by-means-of connected when
+<liturgical><prose>The interval cities: at the four intervals of Meru's peak exist four gods' cities adorned with five hundred mansions, between them connected by a five-league plain wall, || 50 ||
+
+[1049]
+<tibetan>གནོད་སྦྱིན་ལག་ན་རྡོ་རྗེ་མཆེད་བཞིའི་ལྷ་རིགས་གནས་སོ།
+<literal>yaksha hand vajra four-siblings god race dwell
+<liturgical><prose>Where the yakṣa hand-vajra four-siblings' god race dwell.
+
+[1050]
+<tibetan>།ཚལ་ནི་བལྟ་ན་སྡུག་ནས་ཕྱོགས་བཞིར་དཔག་ཚད་ཉི་ཤུ་ཉི་ཤུ་གཞལ་བ་ན་ཡོད་དོ།
+<literal>garden is see happy from direction four measure twenty twenty calculate when exist
+<liturgical><prose>The gardens: delightful to behold, existing in the four directions measured twenty by twenty leagues.
+
+[1051]
+<tibetan>།ཤར་ན་ཤིང་རྟ་སྣ་ཚོགས་ཀྱི་སྐྱེད་མོས་ཚལ་རྫིང་དང་གོས་དང་ཤིང་རྟ་ལ་སོགས་པས་བརྒྱན་པའོ།
+<literal>east at chariot various park pond and cloth and chariot etc. by-means-of decorated
+<liturgical><prose>In the east: the Chariot-Various Park, decorated by ponds, cloth, chariots and so forth.
+
+[1052]
+<tibetan>།ལྷོ་ན་རྩུབ་འགྱུར་གྱི་སྐྱེད་མོས་ཚལ་གཡུལ་འགྱེད་པའི་ཚེ་གོ་ཆ་སྲ་བ་སྣ་ཚོགས་སུ་འབྱུང་བའོ།
+<literal>south at rough-change park battle wage when armor hard various arise
+<liturgical><prose>In the south: the Rough-Transformation Park, where various hard armors arise when waging battle.
+
+[1053]
+<tibetan>།ནུབ་ན་ལོངས་སྤྱོད་འདྲེས་པའི་སྐྱེད་མོས་ཚལ་ཉེ་བར་སྤྱད་པའི་ལོངས་སྤྱོད་དཔག་ཏུ་མེད་པའོ།
+<literal>west at enjoyment mix park near enjoy enjoyment measure without
+<liturgical><prose>In the west: the Enjoyment-Mixing Park, immeasurable enjoyment for nearby enjoyment.
+
+[1054]
+<tibetan>།བྱང་ན་ཀུན་ཏུ་དགའ་བའི་སྐྱེད་མོ་ཚལ་མྱ་ངན་ཐམས་ཅད་དང་བྲལ་ཞིང་བཀོད་པ་མདངས་དགའ་བ་མང་པོས་མཛེས་པའོ།
+<literal>north at everywhere joy park sorrow all from free and arrangement brilliant joy many by-means-of beautiful
+<liturgical><prose>In the north: the Everywhere-Joy Park, free from all sorrow, beautiful with many brilliant joys.
+
+[1055]
+<tibetan>།དེ་དག་ཀྱང་ཆུ་ཞེང་དཔག་ཚད་ཉིས་བརྒྱ་ལྔ་བཅུ་པ་དབྱིབས་ལེགས་ཤིང་བལྟ་ན་སྡུག་པའོ།
+<literal>those also width measure two hundred fifty shape good and see happy
+<liturgical><prose>Those also, two hundred fifty leagues in width, well-shaped, delightful to behold.
+
+[1056]
+<tibetan>།དེ་དག་གི་ནང་གི་ས་གཞི་ཐམས་ཅད་གསེར་གྱི་བྱེ་མ་བརྡལ་བ་ལ།
+<literal>those inside ground all gold sand spread and
+<liturgical><prose>Inside those, all the ground spreads with golden sand,
+
+[1057]
+<tibetan>རིན་པོ་ཆེ་སྣ་ཚོགས་ཀྱི་རྗོད་ཞིང་གིས་འཁྲིགས་པའི་བར་བར་ན་མཚོ་དང་རྫིང་ལ་སོགས་པས་བརྒྱན་པའོ།
+<literal>jewel various flower bed by-means-of filled interval interval lake and pond etc. by-means-of decorated
+<liturgical><prose>Decorated by lakes, ponds and so forth in the intervals, filled with various jewel flower-beds.
+
+[1058]
+<tibetan>།ཚལ་དེ་དག་གི་ཕྱི་རོལ་ན་ས་གཞི་ཡང་དེ་དག་དང་མིང་མཚུངས་པ་མེ་ཏོག་དང་རྫིང་བུ་དུ་མས་བརྒྱན་ཞིང༌།
+<literal>garden those outside ground also those and name same flower and pond many by-means-of decorated and
+<liturgical><prose>Outside those gardens, the ground also shares their names, decorated by many flowers and ponds. || 60 ||
+
+[1059]
+<tibetan>ཐད་ཀ་སྙོམས་པར་བྱས་པའི་ཚད་ནི་སྐྱེད་མོས་ཚལ་བཞི་པོ་དང་འདྲ་བ་ཡིན་ནོ།
+<literal>direction equal make measure is park four and similar is
+<liturgical><prose>Measure making direction equal similar to four parks.
+
+[1060]
+<tibetan>།ཤིང་ནི་བྱང་ཤར་ན་ཡོངས་འདུས་བརྟོལ་ཞེས་བྱ་བ་རྩ་བ་དཔག་ཚད་ལྔ་འཐུར་དུ་ཐུག་ཅིང༌།
+<literal>tree is north-east at complete gather burst called root measure five down to reach and
+<liturgical><prose>Tree at north-east called complete gather burst, root five leagues down reach,
+
+[1061]
+<tibetan>གྱེན་དུ་བརྒྱ་འཕགས་པའི་ཡལ་ག་གདུགས་ལྟར་གྱེས་པའི་འཁོར་ཡུག་དཔག་ཚད་ལྔ་བཅུར་འཁྱིལ་བ་ལ།
+<literal>upward hundred exceed branch umbrella like spread circumference measure fifty curl and
+<liturgical><prose>Upward exceeding hundred, branches spread like umbrella, circumference fifty leagues curl,
+
+[1062]
+<tibetan>ནོར་བུའི་དྲ་བ་དང༌།
+<literal>jewel net and
+<liturgical><prose>Jewel net,
+
+[1063]
+<tibetan>ལྷའི་གོས་དཔྱངས་པའོ།
+<literal>god cloth hang
+<liturgical><prose>Hang gods' cloth.
+
+[1064]
+<tibetan>།དེའི་དྲུང་ན་རིན་པོ་ཆེ་ཨར་མོ་ནིག་ལྟ་བུའི་རྡོ་ལེབ་དཀར་པོ་ཆུ་ཞེང་དཔག་ཚད་ལྔ་བཅུའི་སྟེང་ན་དབང་པོའི་ཁྲི་དང་མེ་ཏོག་གི་ཆར་འབབ་པ་ཡོད་པའོ།
+<literal>that near at jewel armonig-like rock slab white width measure fifty top Indra throne and flower rain fall exist
+<liturgical><prose>Near that, white rock slab like jewel armonig, width fifty leagues, above exist Indra's throne and falling flower rain.
+
+[1065]
+<tibetan>།བལྟ་ན་སྡུག་ནས་ལྷོ་ནུབ་དཔག་ཚད་ཕྱེད་དང་བཞི་ན།
+<literal>see happy south-west measure half and four at
+<liturgical><prose>See beautiful from south-west four and half leagues,
+
+[1066]
+<tibetan>ལྷའི་འདུན་ས་ཆོས་བཟངས་ཀུན་ནས་ཟླུམ་པའི་ས་ཕྱོགས་རིན་པོ་ཆེའི་ཤིང་དང་ར་བས་བསྐོར་བ།
+<literal>god assembly-place dharma good all from round ground place jewel tree and wall by-means-of surrounded
+<liturgical><prose>Gods' assembly-place dharma good, round from all, jewel tree and wall surrounded,
+
+[1067]
+<tibetan>ཆུ་ཞེང་དུ་སུམ་བརྒྱ་དང་མཐའ་སྐོར་དགུ་བརྒྱ་པའི་དབུས་ན་དབང་པོའི་ཁྲི་དང་ལྷ་རྣམས་ཀྱི་སྟན་བཤམ་པ་ཡོད་དོ།
+<literal>width in three hundred and circumference nine hundred middle Indra throne and gods seat arrange exist
+<liturgical><prose>Width three hundred, circumference nine hundred, middle exist Indra's throne and arranged gods' seats.
+
+[1068]
+<tibetan>།ནམ་མཁའ་ལ་བརྟེན་པའི་གཞལ་མེད་ཁང་འདོད་པ་དང་གཟུགས་ལ་སྤྱོད་པ་རྣམས་ནི་གོང་ནས་གོང་དུ་གཟའ་སྐར་བཀྲམ་པ་ལྟར་ཡོད་པ་རྣམས་ཀྱི།
+<literal>sky to relying measureless house desire and form in dwell those is above from above to planets stars spread like exist those of
+<liturgical><prose>Those desire and form dwelling measureless houses relying on sky, exist above like spread planets stars, || 70 ||
+
+[1069]
+<tibetan>རྒྱའི་ཚད་ཉིས་འགྱུར་གྱིས་ཆེ་ལ།
+<literal>size measure two double by-means-of large and
+<liturgical><prose>Large by two double size measure,
+
+[1070]
+<tibetan>བར་ཐག་གི་ནམ་མཁའ་རྣམས་ནི་འཛམ་བུའི་གླིང་ནས་འོག་མའི་གནས་ལ་ཐུག་པ་ཙམ་རེ་ཡོད་དེ།
+<literal>interval sky those is Jambu continent from below place to reach only exist
+<liturgical><prose>Those interval sky exist only from Jambu continent to below place,
+
+[1071]
+<tibetan>འཛམ་བུའི་གླིང་ནས་སུམ་ཅུ་རྩ་གསུམ་གྱི་བར་ལ་དཔག་ཚད་བརྒྱད་ཁྲི་ཡོད་པ་ནི།
+<literal>Jambu continent from thirty three interval to measure eighty thousand exist is
+<liturgical><prose>Eighty-thousand leagues exist from Jambu continent to thirty-three interval,
+
+[1072]
+<tibetan>སུམ་ཅུ་རྩ་གསུམ་ནས་འཐབ་བྲལ་གྱི་བར་གྱི་ནམ་མཁའ་ལ་ཡོད་པ་བཞིན་ཤེས་པར་བྱའོ།
+<literal>thirty three from free war interval sky in exist like know by
+<liturgical><prose>Know like exist in sky of interval free from war from thirty-three.
+
+[1073]
+<tibetan>།དེ་ལྟར་ཆགས་ནས་ཀྱང་བར་གྱི་བསྐལ་པ་གཅིག་ཏུ་སྣོད་ཀྱི་འཇིག་རྟེན་འདི་སྟོང་པའི་རང་བཞིན་འགྲོ་བས་དབེན་པ་སྟེ།
+<literal>thus attach and-yet interval eon one in vessel world this empty nature beings from free is
+<liturgical><prose>Thus attached, — yet in one intermediate eon this vessel world empty nature, free from beings,
+
+[1074]
+<tibetan>རི་དང་རི་བྲན་རྣམས་ལ་ཤིང་དང༌།
+<literal>mountain and hill those to tree and
+<liturgical><prose>On mountains and hills exist many different kinds of trees,
+
+[1075]
+<tibetan>རྩྭ་དང༌།
+<literal>grass and
+<liturgical><prose>Grass,
+
+[1076]
+<tibetan>མེ་ཏོག་རིགས་མི་འདྲ་བ་མང་པོ་ཡོད་པ།
+<literal>flower kind different many exist
+<liturgical><prose>Flowers.
+
+[1077]
+<tibetan>ལུང་པ་སོ་སོ་རྣམས་ཀྱང་ནགས་དང༌།
+<literal>valley each those also forest and
+<liturgical><prose>Each valley also dwell in forest,
+
+[1078]
+<tibetan>འཇག་མའི་གླིང་དུ་གནས་ཤིང༌།
+<literal>thicket continent to dwell and
+<liturgical><prose>Thicket continent, || 80 ||
+
+[1079]
+<tibetan>ནམ་མཁའ་ནས་ཆར་བབས་པས་རིན་པོ་ཆེའི་ལྗོན་ཤིང་ལ་སོགས་པ་རྒྱས་པར་གྱུར་ཏོ།
+<literal>sky from rain fell by-means-of jewel tree etc. expand become
+<liturgical><prose>Expand jewel trees etc. by rain fell from sky.
+
+[1080]
+<tibetan>།དེ་ནས་བཅུད་ཆགས་ཚུལ་ནི་ཡས་རིམ་པ་བཞིན་ཏེ།
+<literal>then essence attach manner is above step like
+<liturgical><prose>Then essence attach manner like above step,
+
+[1081]
+<tibetan>དེའི་ཚེ་བདུད་རྩིའི་ཆར་བབས་པས་ས་ལ་རླངས་ཕྱུང་སྟེ།
+<literal>that time nectar rain fell by-means-of ground to vapor release and
+<liturgical><prose>At that time release vapor to ground by falling nectar rain,
+
+[1082]
+<tibetan>རིན་པོ་ཆེའི་ཤིང་སྣ་ཚོགས་པདྨའི་རང་བཞིན་དུ་སྨིན་པར་བྱས་པ་ལ།
+<literal>jewel tree various lotus nature ripen make and
+<liturgical><prose>Ripen various jewel trees in lotus nature.
+
+[1083]
+<tibetan>གོང་གི་འཇིག་རྟེན་སྲིད་པའི་སེམས་ཅན་རླུང་གི་ལྷ་མོ་བཞི་དང༌།
+<literal>upper world existence beings wind goddesses four and
+<liturgical><prose>Upper world's existence-beings: wind's four goddesses,
+
+[1084]
+<tibetan>ཆུའི་ལྷ་མོ་གར་བྱེད་པ་མང་པོ་དང༌།
+<literal>waters goddesses dance doing many and
+<liturgical><prose>Water's many dancing goddesses,
+
+[1085]
+<tibetan>ཀླུའི་བུ་སྟོབས་དང་ལྡན་པ་བཞི་རྣམས་ཀྱི་ཡིད་ཞུགས་པ་ལས།
+<literal>nagas sons power possessing four their mind entering from
+<liturgical><prose>Nāgas' four power-possessing sons—their mind entering from,
+
+[1086]
+<tibetan>པདྨའི་གསུང་སྒྲ་ཕྱོགས་ཀུན་ཏུ་འཕྲོས་པའི་སྒྲས་བསྐུལ་བའི་ཚེ།
+<literal>padmas speech sound directions all radiating sound by-means-of summoned when
+<liturgical><prose>Padma's speech sound radiating all directions, summoned by sound,
+
+[1087]
+<tibetan>སྔར་གྱི་གཟུགས་མེད་སྨིན་རུང་རྣམ་ཤེས་བཟུང་བའི་ཆར་གནས་ས་བོན་བག་ལ་ཉལ་དུ་གནས་པ་རྣམས་མངོན་གྱུར་དུ་སད་དེ།
+<literal>previous formless ripened consciousness held nature abiding seeds latency abiding those manifest awakened
+<liturgical><prose>Previous formless ripened consciousness-held nature-abiding seeds latency-abiding those manifestly awakened,
+
+[1088]
+<tibetan>རྣམ་པར་ཤེས་པ་ཏིང་ངེ་འཛིན་གྱི་སྤྲུལ་པའི་ལུས་སུ་གྲུབ་སྟེ།
+<literal>consciousness samādhi emanation body accomplished
+<liturgical><prose>Consciousness accomplished as samādhi's emanation body, || 90 ||
+
+[1089]
+<tibetan>རང་གི་སྣང་བ་ཟང་ཐལ་དུ་ཤར་བས་ལུས་ཀྱི་ཆར་མེད་པ་ཡང་མ་ཡིན།
+<literal>own appearance completely-piercing-through arisen by-means-of body portion without not is
+<liturgical><prose>Own appearance completely-piercing-through arisen, body's portion without-not is,
+
+[1090]
+<tibetan>ཕྲ་བ་ཡིད་དང༌།
+<literal>subtle mind and
+<liturgical><prose>Subtle mind,
+
+[1091]
+<tibetan>རགས་པ་ཤ་ཁྲག་དང༌།
+<literal>coarse flesh blood and
+<liturgical><prose>Coarse flesh-blood,
+
+[1092]
+<tibetan>དངས་པ་འོད་ཀྱི་ལུས་གསུམ་གང་རུང་དུ་མ་གྲུབ་པས་ཡོད་པ་ཡང་མ་ཡིན་པའི་ཕྱིར།
+<literal>clear light body three whichever not-established existing also not not's reason
+<liturgical><prose>Clear light body three—whichever not-established, existing also not, thus
+
+[1093]
+<tibetan>ཡོད་མིན་མེད་མིན་པའི་འགྲོ་བ་དང་ཁམས་ཞེས་བྱའོ།
+<literal>existence non-existence realms and khams called
+<liturgical><prose>Existence non-existence's realms and khams called.
+
+[1094]
+<tibetan>།ཏིང་ངེ་འཛིན་རྣམ་པར་འཕྲུལ་པའི་ལུས་དེ་ཉིད་ཀྱང་རེས་ཡོད་པ་ལྟར་སྣང་ལ།
+<literal>samādhi completely-emanating body that itself also part existing appears
+<liturgical><prose>Samādhi completely-emanating body that itself: part existing appears,
+
+[1095]
+<tibetan>རེས་མེད་པ་ལྟར་སྣང་བའི་ཕྱིར་ཡང་ཡོད་མིན་མེད་མིན་ཞེས་གྲགས་སོ།
+<literal>part without appears reason also existence non-existence called
+<liturgical><prose>Part without appears, thus existence non-existence called.
+
+[1096]
+<tibetan>།འགྲོ་བ་དེ་དག་ཀྱང་ཞིང་འདིའི་རྩེ་མོ་པདྨ་རྣམ་པར་བརྩེགས་པའི་ནམ་མཁའ་ལ་བརྟེན་ནས་གནས་སོ།
+<literal>realms these field this peak Padma completely-arranged sky supporting abide
+<liturgical><prose>These realms this field's peak Padma completely-arranged sky supporting abide.
+
+[1097]
+<tibetan>།དེ་དག་ལས་དཔག་ཏུ་མེད་པར་མཆེད་དེ།
+<literal>these from immeasurable expanded
+<liturgical><prose>These from immeasurable expanded,
+
+[1098]
+<tibetan>ཏིང་ངེ་འཛིན་ཞི་བའི་རང་འོད་དང་དགའ་བདེ་ལ་སྤྱོད་ཅིང་དཔའ་བར་འགྲོ་བ་ཞེས་བྱ་བའི་ཏིང་ངེ་འཛིན་ལ་གནས་སོ།
+<literal>samādhi peaceful own-light and bliss-joy engaging Sūraṅgama called samādhi in abide
+<liturgical><prose>Samādhi peaceful's own-light and bliss-joy engaging Sūraṅgama samādhi abiding. || 100 ||
+
+[1099]
+<tibetan>།དེའི་འོག་ན་ཡིད་རྣམ་པར་རོལ་པའི་འཁོར་ལོ་ཅན་ཞེས་བྱ་བའི་ནམ་མཁའ་ལ་གསེར་གྱི་རྡོ་རྗེ་ཆེན་པོ་གཅིག་གྱེན་ལ་ལངས་ཏེ།
+<literal>that under mind completely-play wheel-possessing called sky gold vajra great one upward arose
+<liturgical><prose>That under mind completely-play wheel-possessing called sky, gold great vajra one upward arose,
+
+[1100]
+<tibetan>འོད་ཟེར་དཔག་ཏུ་མེད་པ་འཕྲོ་བས་ཤིན་ཏུ་མཛེས་ཤིང་དཔའ་བའི་ཉམས་དང་ལྡན་པར་འཁྲུལ་པ་ལས་གོང་མའི་འགྲོ་བ་དེ་དག་ནམ་མཁའ་ལ་ཏིང་ངེ་འཛིན་སྤྲུལ་པའི་ལུས་ཀྱིས་འགྲོ་བས།
+<literal>light-rays immeasurable radiating extremely beautiful and heroic manner possessing delusion from upper realms those sky samādhi emanation body by-means-of going by-means-of
+<liturgical><prose>Light-rays immeasurable radiating, extremely beautiful heroic manner possessing, delusion from upper realms those sky samādhi emanation body going,
+
+[1101]
+<tibetan>རྡོ་རྗེ་མཐོང་སྟེ་དེ་ལ་མཛེས་པར་བལྟ་བའི་ཕྱིར་དཔའ་བར་འགྲོ་བའི་ཏིང་ངེ་འཛིན་ཞེས་བྱའོ།
+<literal>vajra seeing that to beautifully seeing reason Sūraṅgama samādhi called
+<liturgical><prose>Seeing vajra, beautifully seeing that, Sūraṅgama samādhi called.
+
+[1102]
+<tibetan>།དེའི་ཚེ་སྤྲུལ་པའི་རྡོ་རྗེ་དེ་ཡིད་ལ་རབ་ཏུ་གཡོས་པས།
+<literal>that time emanation vajra that mind extremely moved by-means-of
+<liturgical><prose>That time emanation vajra that mind extremely moved,
+
+[1103]
+<tibetan>འགྲོ་བ་དེ་དག་གི་རྣམ་པ་ལས་སྐྱེས་པའི་འགྲོ་བ་དེ་ལ།
+<literal>realms those nature from arisen realm that to
+<liturgical><tantra>From those realms' nature arisen realm that to,
+
+[1104]
+<tibetan>འགའ་ཙམ་ཐིགས་པ་ལྟར་ཡས་ཆད་པས།
+<literal>some drop-like surpassing cast
+<liturgical><prose>Some drop-like surpassing cast,
+
+[1105]
+<tibetan>གོང་གི་དཔའ་བར་འགྲོ་བའི་ཏིང་ངེ་འཛིན་ཡལ་ནས།
+<literal>upper Sūraṅgama samādhi from lapsed
+<liturgical><prose>Upper Sūraṅgama samādhi from lapsed,
+
+[1106]
+<tibetan>ཅི་ཡང་མེད་དོ་ཞེས་བརྗོད་པ་ལས།
+<literal>what also not said from
+<liturgical><verse>"What also not" said from:
+
+[1107]
+<tibetan>གོང་མ་ལས་འདུ་ཤེས་ཙམ་དུ་ཡོད་ལ།
+<literal>above from perception only to exist and
+<liturgical><tantra>From above only perception exists,
+
+[1108]
+<tibetan>གཞན་ཅི་ཡང་མེད་པར་གནས་པ་དེ་ལས།
+<literal>other what also not exist dwell that from
+<liturgical><tantra>From that dwelling without any other, || 110 ||
+
+[1109]
+<tibetan>འགྲོ་བ་དཔག་ཏུ་མེད་པ་མཆེད་དེ་ཅི་ཡང་མེད་པ་ཞེས་ཀྱང་བྱ།
+<literal>beings measure without expand and what also not exist called also say
+<liturgical><prose>Immeasurable beings expand, also called "nothing at all,"
+
+[1110]
+<tibetan>ཅུང་ཟད་མེད་པ་ཞེས་ཀྱང་བྱའོ།
+<literal>slightly not exist called also say
+<liturgical><prose>Also called "slightly nothing."
+
+[1111]
+<tibetan>།དེ་ཡང་ཏིང་ངེ་འཛིན་གྱི་སྣང་བ་བཟང་བ་ནི།
+<literal>that also concentration appearance good is
+<liturgical><prose>That good appearance of concentration is:
+
+[1112]
+<tibetan>ཏིང་ངེ་འཛིན་བཟང་བ་ལས་སྐྱེ་དགོས་ན།
+<literal>concentration good from arise must when
+<liturgical><prose>Must arise from good concentration,
+
+[1113]
+<tibetan>འོག་མར་ཇེ་ངན་དུ་སོང་བས་དེའི་སྣང་བ་ལས་བྱུང་བའི་ལུས་སྤྲུལ་ཡང་གོང་མ་བས་ལུས་བོངས་ཆུང་ཞིང༌།
+<literal>below to increasingly bad go by-means-of that appearance from arise body emanation also above from body size small and
+<liturgical><prose>Going increasingly bad below, emanation body arisen from that appearance, body size smaller than above,
+
+[1114]
+<tibetan>འོད་མདངས་ཀྱང་ཆུང་སྟེ་ཅི་ཡང་མེད་པ་ཞེས་དམན་པ་དགག་པའི་སྒྲར་བཏགས་ལ།
+<literal>light brilliance also small what also not exist called low deny sound as label and
+<liturgical><prose>Light brilliance also small, labeled as sound denying low called "nothing at all,"
+
+[1115]
+<tibetan>གོང་མའི་སྣང་བ་ལས་སྐྱེས་ཤིང་འཕེལ་བས་སྐྱེ་མཆེད་ཅེས་བྱ་སྟེ།
+<literal>above appearance from arise and increase by-means-of ayatana called
+<liturgical><prose>Called ayatana by arisen and increased from above appearance,
+
+[1116]
+<tibetan>ཉོན་མོངས་པ་མངོན་དུ་རྒྱུ་མེད་ལ།
+<literal>afflictions manifest move not and
+<liturgical><prose>Afflictions not manifestly moving,
+
+[1117]
+<tibetan>ཕྲ་བ་བག་ལ་ཉལ་དུ་གནས་སོ།
+<literal>subtle latency in dwell
+<liturgical><prose>Dwell in subtle latency.
+
+[1118]
+<tibetan>།འདི་དག་རིན་པོ་ཆེ་ཟ་མ་ཏོག་ཅེས་བྱ་བའི་ཏིང་ངེ་འཛིན་ལ་གནས་སོ།
+<literal>these jewel box called concentration in dwell
+<liturgical><prose>These dwell in concentration called jewel box. || 120 ||
+
+[1119]
+<tibetan>།འདི་ལྟ་བུ་ཐེག་པ་མཐུན་མོང་ལས་རྣམ་གཞག་འཕགས་པའི་གྲུབ་མཐའ་ཉིད་དེ།
+<literal>this like vehicle common from arrangement noble tenet is
+<liturgical><prose>This like noble tenet arrangement from common vehicle,
+
+[1120]
+<tibetan>སྲིད་པའི་འགྲོ་བའི་ཡིད་ཞུགས་པ་ལས་སེམས་ཅན་མཆེད་པ་དང་སྦྱར་ན།
+<literal>existence beings mind enter from beings expand and connect when
+<liturgical><prose>When connected with beings expanding from mind entering existence beings,
+
+[1121]
+<tibetan>ད་ལྟར་ཡང་དབྱིངས་ཀྱི་རིག་པ་ལུང་མ་བསྟན་དེ་གཡོས་པ་ལས་སེམས་ཅན་གློ་བུར་བའི་འཁྲུལ་པ་འབྱུང་བ་ཡོད་དེ།
+<literal>now also space awareness unproven that move by-means-of beings adventitious confusion arise exist
+<liturgical><prose>Now also beings' adventitious confusion arises from moving that unproven space awareness,
+
+[1122]
+<tibetan>གསང་སྙིང་ལས།
+<literal>secret essence from
+<liturgical><tantra>From Secret Essence:
+
+[1123]
+<tibetan>ཨེ་མ་ཧོ་བདེ་གཤེགས་སྙིང་པོ་ལས།
+<literal>e ma ho sugata heart from
+<liturgical><prose>E ma ho from Sugata heart,
+
+[1124]
+<tibetan>།རང་གི་རྣམ་རྟོག་ལས་ཀྱི་སྤྲུལ།
+<literal>self thought karma emanation
+<liturgical><prose>Self thought karma emanation.
+
+[1125]
+<tibetan>།ཅེས་པ་དང༌།
+<literal>called and
+<liturgical><prose>Called,
+
+[1126]
+<tibetan>སྡུད་པ་ལས།
+<literal>condense from
+<liturgical><tantra>From Condense:
+
+[1127]
+<tibetan>རྐྱེན་རྣམས་འཚོགས་ན་ལས་ཀྱི་འཁྲུལ་འཁོར་རབ་ཏུ་འབྱུང༌།
+<literal>conditions gather when karma confusion wheel arise
+<liturgical><prose>When conditions gather, karma confusion wheel arises.
+
+[1128]
+<tibetan>།ཞེས་སོ།
+<literal>called
+<liturgical><prose>Called. || 130 ||
+
+[1129]
+<tibetan>།འདི་སེམས་ཅན་གསར་སྐྱེ་འདྲ་ཡང༌།
+<literal>this beings new birth like and-yet
+<liturgical><prose>This like beings new birth,
+
+[1130]
+<tibetan>།གསར་སྐྱེས་མ་ཡིན་ཏེ།
+<literal>new born not is
+<liturgical><prose>Not new born,
+
+[1131]
+<tibetan>རིག་པ་ལ་མཚུངས་ལྡན་མ་རིག་པས་ལྷན་སྐྱེས་སུ་དབྱིངས་ཀྱི་ཆ་དེ་ལ་སྒྲིབ་པ་ཉིད།
+<literal>awareness to equal endow ignorance together born space part that to obscuration is
+<liturgical><prose>Obscuration is together born ignorance equal endow to awareness, to that space part.
+
+[1132]
+<tibetan>རྐྱེན་གློ་བུར་བས་དངོས་སུ་གསལ་བར་བྱས་པ་ཙམ་ལས་དང་པོ་དག་པ་ཕྱིས་འཁྲུལ་པ་མ་ཡིན་པ་དང༌།
+<literal>condition adventitious by-means-of actual clear make only from first pure later confusion not and
+<liturgical><prose>Not confusion later, first pure, only made actually clear by adventitious condition.
+
+[1133]
+<tibetan>དབྱིངས་ཞེས་འབྱུང་བཞིའི་སྒྲ་བརྗོད་པའི་ཕྱིར་རོ།
+<literal>space called elements sound express cause
+<liturgical><prose>Cause expressing elements sound called space.
+
+[1134]
+<tibetan>།དེ་ནས་དཔག་ཚད་སྟོང་ཕྲག་སུམ་ཅུའི་འོག་ན།
+<literal>then measure thousand thirty below at
+<liturgical><prose>Then below thirty-thousand leagues,
+
+[1135]
+<tibetan>ཡིད་འབྱེད་རྣམ་པར་རོལ་པ་ཞེས་བྱ་བའི་ནམ་མཁའ་ལ།
+<literal>mind activity various play called sky to
+<liturgical><prose>To sky called mind activity various play,
+
+[1136]
+<tibetan>འཁོར་ལོ་དཔག་ཏུ་མེད་པ་འཕྲོ་ཞིང་གཅིག་ལ་གཅིག་ཕྲད་པའི་སྒྲ་རང་འབྱུང་བ་ཡོད་དེ།
+<literal>wheel measure without extend and one to one meet sound self arise exist
+<liturgical><prose>Exist self-arising sound of immeasurable extending wheels meeting one to one.
+
+[1137]
+<tibetan>དེར་གོང་མའི་འགྲོ་བ་དེ་དག་ཏིང་ངེ་འཛིན་ཞི་གནས་ཕྱོགས་གཅིག་ཏུ་སོང་བ་ལས།
+<literal>there above beings those concentration calm abiding direction one to go from
+<liturgical><prose>There those above beings from gone to one direction calm abiding concentration,
+
+[1138]
+<tibetan>འོག་ཏུ་འགའ་ཙམ་ལྷུང་ནས།
+<literal>below to some fall and
+<liturgical><prose>Fall some below, || 140 ||
+
+[1139]
+<tibetan>གཅིག་ལ་གཅིག་རྣམ་པར་ཤེས་པ་ཙམ་ལས།
+<literal>one to one consciousness only from
+<liturgical><prose>Only consciousness one to one.
+
+[1140]
+<tibetan>འགྲོ་བ་དེ་དག་མང་པོར་མཆེད་པས།
+<literal>beings those many expand by-means-of
+<liturgical><prose>Those beings expand greatly,
+
+[1141]
+<tibetan>རྣམ་ཤེས་མཐའ་ཡས་ཏེ།
+<literal>consciousness without end
+<liturgical><prose>Consciousness without end,
+
+[1142]
+<tibetan>རྣམ་པ་ཡུལ།
+<literal>form object
+<liturgical><prose>Form object,
+
+[1143]
+<tibetan>འཁོར་ལོ་འཇུག་པ།
+<literal>wheel enter
+<liturgical><prose>Wheel enters,
+
+[1144]
+<tibetan>ཤེས་པ་ཙམ་ལ་བདག་ཏུ་རྟོག་པ་ཙམ་མཐའ་ཤེས་པ་ཡས་ཏེ།
+<literal>consciousness only to self-as conceive only end know exceed
+<liturgical><prose>Only conceive self to only consciousness, exceed end knowing,
+
+[1145]
+<tibetan>སྡུད་པའི་དངོས་པོ་མེད་པ།
+<literal>condense thing not exist
+<liturgical><prose>Condense thing not exist.
+
+[1146]
+<tibetan>དེ་དག་ལས་སྐྱེས་ནས་འགྲོ་བའི་གཟུགས་མཐའ་ཡས་པར་མཆེད་པ་ནི།
+<literal>those from arise from beings form without end expand is
+<liturgical><prose>Arisen from those, beings' form expands without end,
+
+[1147]
+<tibetan>རྣམ་ཤེས་མཐའ་ཡས་ཀྱི་སྐྱེ་མཆེད་ཅེས་བྱའོ།
+<literal>consciousness without end ayatana called
+<liturgical><prose>Called consciousness without end ayatana.
+
+[1148]
+<tibetan>།དེ་དག་ཀྱང་གོང་མ་ལས་ཚེ་ཚད་ཐུང་ཞིང༌།
+<literal>those also above from life measure short and
+<liturgical><prose>Those also from above life measure short, || 150 ||
+
+[1149]
+<tibetan>ལུས་བོངས་ཆུང་ལ་འོད་མི་གསལ་བ་ནི།
+<literal>body size small light not clear is
+<liturgical><prose>Body size small, light not clear,
+
+[1150]
+<tibetan>ཏིང་ངེ་འཛིན་དམན་པ་སྟེ།
+<literal>concentration low is
+<liturgical><prose>Low concentration,
+
+[1151]
+<tibetan>དེ་ཡང་བསོད་ནམས་ཀྱི་སྟོབས་ཉམས་པའི་ཕྱིར་རོ།
+<literal>that also merit power decline cause
+<liturgical><prose>That also cause decline of merit power.
+
+[1152]
+<tibetan>།དེའི་འོག་དཔག་ཚད་སྟོང་ཕྲག་གཉིས་ན།
+<literal>that below measure thousand two at
+<liturgical><prose>Below that at two thousand leagues,
+
+[1153]
+<tibetan>སྤྲིན་ཆེན་པོ་རྣམ་པར་རོལ་བ་ཞེས་བྱ་བའི་ནམ་མཁའ་ལ།
+<literal>cloud great various play called sky to
+<liturgical><prose>To sky called great cloud various play,
+
+[1154]
+<tibetan>ཏིང་ངེ་འཛིན་རང་སྣང་ལ་ཤར་བ་སྤྲིན་ཁ་དོག་སྣ་ཚོགས་པའི་དུམ་བུས་ལིང་ཚེར་ཁྱབ་ཅིང༌།
+<literal>concentration self appearance to arise cloud color various mass heap pervade and
+<liturgical><prose>Arisen to self-appearance concentration, pervaded by various colored cloud mass heaps,
+
+[1155]
+<tibetan>ཤེས་པ་མཆེད་པ་ལས་འགྲོ་བ་དཔག་ཏུ་མེད་པ་མཆེད་དོ།
+<literal>consciousness expand from beings measure without expand
+<liturgical><prose>Immeasurable beings expand from expanding consciousness.
+
+[1156]
+<tibetan>།དེ་ནས་ནམ་མཁའ་མཐའ་ཡས་པའི་སྐྱེ་མཆེད་ཅེས་བཏགས་སོ།
+<literal>then sky without end ayatana called
+<liturgical><prose>Then called sky without end ayatana.
+
+[1157]
+<tibetan>།དེ་ལྟར་གཟུགས་མེད་བཞི་པོ་ལས།
+<literal>thus form without four from
+<liturgical><prose>Thus from four formless,
+
+[1158]
+<tibetan>སྲིད་རྩེས་བསྐལ་ཆེན་བརྒྱད་ཁྲི་ཐུབ་བོ།
+<literal>peak existence eon great eighty thousand last
+<liturgical><prose>Peak of existence lasts eighty thousand great eons. || 160 ||
+
+[1159]
+<tibetan>།ཅི་ཡང་མེད་པས་བསྐལ་ཆེན་དྲུག་ཁྲིའོ།
+<literal>what also not exist by-means-of eon great sixty thousand
+<liturgical><verse>"Nothing at all" sixty thousand great eons.
+
+[1160]
+<tibetan>།རྣམ་ཤེས་པས་བསྐལ་ཆེན་བཞི་ཁྲིའོ།
+<literal>consciousness by-means-of eon great forty thousand
+<liturgical><verse>"Consciousness" forty thousand great eons.
+
+[1161]
+<tibetan>།ནམ་མཁའ་མཐའ་ཡས་བསྐལ་ཆེན་ཉི་ཁྲི་ཐུབ་པ་ཡིན་ནོ།
+<literal>sky without end eon great twenty last is
+<liturgical><verse>"Sky without end" lasts twenty thousand great eons.
+
+[1162]
+<tibetan>།ལུས་སྣང་བས་གཟུགས་མེད་པ་དང་འགལ་ལོ་སྙམ་ན་མི་འགལ་ཏེ།
+<literal>body appearance by-means-of form without and contradict think when not contradict
+<liturgical><prose>If think body appearance contradicts formless, not contradict:
+
+[1163]
+<tibetan>བསམ་གཏན་གྱི་ལྷ་ལྟར་སྣང་བ་འོད་ཀྱི་གཟུགས་མེད་པས་རྣམ་པར་ཤེས་པ་ཙམ་དུ་གནས་ལ།
+<literal>meditation god like appearance light form without by-means-of consciousness only dwell and
+<liturgical><prose>Meditation gods' appearance dwells only as consciousness by formless of light,
+
+[1164]
+<tibetan>འདོད་པའི་ལྷ་མི་ལྟར་འབྱུང་བ་ཤ་ཁྲག་གི་ལུས་སུ་མེད་པས་རྣམ་ཤེས་ཡུལ་ལ་དངོས་སུ་མི་རྟོག་པར་གནས་ཤིང༌།
+<literal>desire god human like arise flesh blood body not exist by-means-of consciousness object to actual not conceive dwell and
+<liturgical><prose>Desire gods humans' arise without flesh blood body, dwell not actually conceiving consciousness to object,
+
+[1165]
+<tibetan>ཡི་དྭགས་ལྟར་འགྱུ་བ་ཡིད་ཀྱི་གཟུགས་སུ་མེད་པས།
+<literal>preta like move mind form not exist by-means-of
+<liturgical><prose>Pretas' move without mind form,
+
+[1166]
+<tibetan>ཤེས་པ་ནང་དུ་གསལ་ལ།
+<literal>consciousness inside to clear and
+<liturgical><prose>Consciousness clear inside,
+
+[1167]
+<tibetan>དམྱལ་བ་ལྟར་མྱོང་རེག་སྡུག་བསྔལ་གྱི་ལུས་སུ་མེད་པས།
+<literal>hell like experience contact suffering body not exist by-means-of
+<liturgical><prose>Hells' experience without suffering body of contact,
+
+[1168]
+<tibetan>ཏིང་ངེ་འཛིན་དགའ་བདེའི་ངང་ལ་གནས་པའི་རྣམ་ཤེས་དེ་ཡང༌།
+<literal>concentration joy bliss state in dwell consciousness that also
+<liturgical><prose>That consciousness dwelling in concentration joy bliss state also, || 170 ||
+
+[1169]
+<tibetan>བསོད་ནམས་ཆ་མཐུན་གྱི་འབྲས་བུའི་རྩེ་མོ་ཏིང་ངེ་འཛིན་ཆ་བཞི་ལ་རང་ཆས་སྤྲུལ་སྣང་གི་ལུས་སམ་གཟུགས་འོག་མས་བལྟར་མི་མངོན་ལ་རང་ས་དང་གོང་མས་མཐོང་ཙམ་རེ་ཡོད་པ་ཡིན་ཏེ།
+<literal>merit share equal fruit peak concentration part four to self nature emanation appearance body or form below from see not manifest and self place and above from see only exist is
+<liturgical><prose>Peak of merit share equal fruit, to concentration part four, self-nature emanation appearance body or form, not manifest to below, only see from self place and above.
+
+[1170]
+<tibetan>ཡུམ་བར་མ་ལས་ཀྱང༌།
+<literal>mother middle from also
+<liturgical><tantra>From middle Mother also,
+
+[1171]
+<tibetan>དེའི་ཚེ་འདོད་པ་དང་གཟུགས་དང༌།
+<literal>that time desire and form and
+<liturgical><prose>That time desire and form,
+
+[1172]
+<tibetan>གཟུགས་མེད་པ་ན་སྤྱོད་པའི་ལྷ་རྣམས་ཀྱང་ལག་ན་མེ་ཏོག་ཐོགས་ནས་དེ་བཞིན་གཤེགས་པ་ལ་མཆོད་པར་བྱེད་དོ་ཞེས་པ་དང༌།
+<literal>form without in dwell gods also hand at flower hold from tathagata to worship do called and
+<liturgical><prose>Formless dwell gods also holding flower in hand, worship Tathāgata.
+
+[1173]
+<tibetan>འགྲེལ་ཆུང་ལས་ཀྱང༌།
+<literal>commentary short from also
+<liturgical><tantra>From short commentary also,
+
+[1174]
+<tibetan>ལྷའི་རིགས་ཐམས་ཅད་ཉེ་བར་འོང་བ་དང་ཞེས་པས་ཀྱང་གྲུབ་བོ།
+<literal>god race all near come and called by-means-of also establish
+<liturgical><prose>Established by called all god races come near.
+
+[1175]
+<tibetan>།དེ་ནས་གཟུགས་ཀྱི་ཁམས་སུ་མཆེད་ཚུལ་ནི།
+<literal>then form realm to expand manner is
+<liturgical><prose>Then manner of expanding to form realm:
+
+[1176]
+<tibetan>ནམ་མཁའ་མཐའ་ཡས་ལས་འོག་ཏུ་དཔག་ཚད་ཁྲི་ཕྲག་ཉི་ཤུ་འདས་པ་ན།
+<literal>sky without end from below to measure thousand twenty pass when
+<liturgical><prose>When passed twenty-thousand leagues below from sky without end,
+
+[1177]
+<tibetan>རིན་པོ་ཆེ་མཆིང་བུ་རྣམ་པར་བཀོད་པ་ཞེས་བྱ་བའི་ནམ་མཁའ་ཕྱི་ནང་མེད་པར་འོད་ལྔ་ཟང་ཐལ་དུ་སྣང་བ་ལ་གོང་མའི་ཤེས་པ་དུམ་བུར་མཆེད་པ་གཅིག་ཏུ་གྱུར་པས།
+<literal>jewel ornament various arrange called sky outside inside not exist light five clearly appear to above consciousness mass expand one become by-means-of
+<liturgical><prose>To sky called jewel ornament various arrangement, five lights clearly appear without outside inside, by becoming one expanding mass of above consciousness,
+
+[1178]
+<tibetan>འོད་ཀྱི་ཁ་མིག་རྣ་བ་ལྡན་པ་ཀུན་ཏུ་ཟང་ཐལ་བ་དཔག་ཏུ་མེད་པར་མཆེད་དེ།
+<literal>light mouth eye ear possess everywhere clearly measure without expand
+<liturgical><prose>Immeasurable expand everywhere clearly possessing light mouth eye ear, || 180 ||
+
+[1179]
+<tibetan>རླུང་གི་སྟོབས་ཀྱིས་འགྲོ་བ་དང་ལྡིང་བ་དང་འཕྱོ་བ་ལ་སོགས་པ་བྱེད་དོ།
+<literal>wind power by-means-of move and fly and hover etcetera do
+<liturgical><prose>Do move fly hover etc. by wind power.
+
+[1180]
+<tibetan>།དེ་ཡང་གོང་མ་གཟུགས་མེད་ལ་ལྟོས་ནས་འོག་ཡིན་ལ།
+<literal>that also above form without to compare from below is and
+<liturgical><prose>That also below compared to above formless,
+
+[1181]
+<tibetan>འོག་མ་འདོད་གཟུགས་ཀུན་གྱི་གོང་ན་ཡོད་ཀྱི་འོག་མ་མིན་པས་འོག་མིན་ཅེས་བྱ་སྟེ་འོག་མིན་པའམ་གཟུགས་ཅན་ཀུན་གྱི་རྩེ་མོ་ན་ཡོད་པས་འོག་མིན་ཞེས་བྱའོ།
+<literal>below desire form all above in exist and-yet below not is by-means-of below not called below not or form possess all peak at exist by-means-of below not called
+<liturgical><prose>Above all desire form, exist above, not below, called "below not" or "below not," exist at peak of all form possess.
+
+[1182]
+<tibetan>།དེ་ཡང་སྐྱེ་མཆེད་མུ་བཞི་ཏིང་ངེ་འཛིན་རྣམ་ཤེས་སྤྲུལ་པའི་ལུས་མིག་ཤེས་ཕལ་པས་་བལྟར་མེད་པ་ལས་ཁྱད་པར་དུ་ཕྱེ་སྟེ།
+<literal>that also ayatana limitless four concentration consciousness emanation body eye consciousness common see not from difference distinguish
+<liturgical><prose>That also distinguish difference from limitless four ayatana concentration consciousness emanation body eye consciousness common not seen,
+
+[1183]
+<tibetan>འདི་ནི་རྣམ་ཤེས་དང་བ་ལ་ཕྱི་འོད་ཀྱི་ལུས་སུ་གྲུབ་པས་རི་མོའི་རྣམ་པའམ་འཇའ་ཚོན་གྱི་གཟུགས་བཞིན་ནོ།
+<literal>this is consciousness clear to outside light body become by-means-of picture form or rainbow form like
+<liturgical><prose>This like picture form or rainbow form, become outside light body to clear consciousness.
+
+[1184]
+<tibetan>།ལུས་དཔག་ཚད་ཁྲི་དྲུག་སྟོང་ལ།
+<literal>body measure thousand six thousand
+<liturgical><prose>Body six thousand leagues,
+
+[1185]
+<tibetan>ཚེ་ཡང་བར་བསྐལ་ཁྲི་དྲུག་སྟོང་ཐུབ་པའོ།
+<literal>life also interval eon thousand six thousand last
+<liturgical><prose>Life lasts six thousand interval eons.
+
+[1186]
+<tibetan>།དེའི་འོག་མ་རྣམས་ཀྱི་ནམ་མཁའི་བར་ཐངས་སྔར་བསྟན་པ་ལྟར་འཛམ་བུའི་གླིང་ནས་འོག་མའི་གནས་སུ་དཔག་ཚད་ཅི་ཡོད་པ་གཞལ་བས་རྟོགས་པར་བྱས་ལ།
+<literal>that below those sky interval before show like Jambu continent from below place to measure what exist calculate by-means-of understand by
+<liturgical><prose>Understand those below sky interval, as before shown, by calculating what leagues exist from Jambu continent to below place.
+
+[1187]
+<tibetan>འོག་མིན་ནས་འོག་གི་ཐངས་སུ་གཞལ་བ་ན།
+<literal>below not from below interval to calculate when
+<liturgical><prose>When calculating below interval from "below not,"
+
+[1188]
+<tibetan>རིན་པོ་ཆེ་མཐོན་མཐིང་གིས་རྣམ་པར་སྤྲས་པ་ཞེས་བྱ་བའི་ནམ་མཁའ་ལ།
+<literal>jewel deep blue by-means-of various ornament called sky to
+<liturgical><prose>To sky called variously ornamented by jewel deep blue, || 190 ||
+
+[1189]
+<tibetan>གོང་མའི་འགྲོ་བའི་ཤེས་པ་བག་ལ་ཉལ་བ་འགའ་ལྷུང་བ་ལས།
+<literal>above beings consciousness latency some fall from
+<liturgical><tantra>From fell some latency consciousness of above beings,
+
+[1190]
+<tibetan>འགྲོ་བ་དཔག་ཏུ་མེད་པ་མཆེད་པ་ནི།
+<literal>beings measure without expand is
+<liturgical><prose>Immeasurable beings expand,
+
+[1191]
+<tibetan>ཤིན་ཏུ་མཐོང་ཞེས་བྱ་སྟེ་གཅིག་གིས་མཐོང་ན་དགའ་བ་ལྷག་པའི་ཕྱིར་རོ།
+<literal>extremely see called one by see when joy exceed cause
+<liturgical><prose>Called "extremely see," cause exceed joy when one sees.
+
+[1192]
+<tibetan>།ལུས་བོངས་དཔག་ཚད་བརྒྱད་སྟོང་ལ།
+<literal>body size measure eight thousand
+<liturgical><prose>Body size eight thousand leagues,
+
+[1193]
+<tibetan>ཚེ་ཡང་བར་བསྐལ་སྟོང་ཕྲག་བརྒྱད་ཐུབ་པའོ།
+<literal>life also interval eon thousand eight last
+<liturgical><prose>Life lasts eight thousand interval eons.
+
+[1194]
+<tibetan>།དེའི་འོག་ན་རིན་པོ་ཆེ་རབས་མཛེས་ཞེས་བྱ་བའི་ནམ་མཁའ་ལ།
+<literal>that below at jewel supreme beauty called sky to
+<liturgical><prose>Below that to sky called jewel supreme beauty,
+
+[1195]
+<tibetan>གོང་མ་ནས་མཆེད་པའི་འགྲོ་བ་དཔག་ཏུ་མེད་པ་སྣང་བ་ལ།
+<literal>above from expand from beings measure without appearance to
+<liturgical><prose>To appearance of immeasurable beings expanded from above,
+
+[1196]
+<tibetan>གྱ་ནོམ་སྣང་བ་ཞེས་བྱ་སྟེ་འོག་མ་ལས་ཕུལ་དུ་གྱུར་བའི་ཆས་གཞལ་བའི་ཕྱིར་རོ།
+<literal>excellent appearance called below from exceed become mark measure cause
+<liturgical><prose>Called "excellent appearance," cause measuring mark exceeding below.
+
+[1197]
+<tibetan>།འདི་དག་གི་ལུས་དཔག་ཚད་བཞི་སྟོང་ལ་ཚེ་ཡང་བར་བསྐལ་བཞི་སྟོང་ཐུབ་པའོ།
+<literal>these body measure four thousand life also interval eon four thousand last
+<liturgical><prose>These bodies four thousand leagues, life lasts four thousand interval eons.
+
+[1198]
+<tibetan>།དེའི་འོག་ཏུ་རིན་པོ་ཆེ་ཟེ་བ་སྨུ་གུའི་ནམ་མཁའ་ལ་གོང་མ་ལས་རྣམ་ཤེས་འགའ་ཉེ་བར་མཆེད་པས་འགྲོ་བ་མང་དུ་འཕེལ་བ་ནི་མི་གདུང་བ་ཞེས་བྱ་སྟེ།
+<literal>that below to jewel hair fine sky to above from consciousness some near expand by-means-of beings many expand is not sorrow called
+<liturgical><prose>Below that to sky called jewel hair fine, many beings expand from some near expanding consciousness from above, called "not sorrow." || 200 ||
+
+[1199]
+<tibetan>དགའ་བདེའི་སྣང་བ་ཤར་བ་དེ་དག་ལ་གདུང་བ་མེད་པའི་ཕྱིར་རོ།
+<literal>joy bliss appearance arise those to sorrow not exist cause
+<liturgical><prose>Cause no sorrow to those arisen joy bliss appearance.
+
+[1200]
+<tibetan>།ལུས་དཔག་ཚད་ཉིས་སྟོང་ལ།
+<literal>body measure two thousand
+<liturgical><prose>Body two thousand leagues,
+
+[1201]
+<tibetan>ཚེ་བར་གྱི་བསྐལ་པ་གཉིས་ཐུབ་པའོ།
+<literal>life interval eon two last
+<liturgical><prose>Life lasts two interval eons.
+
+[1202]
+<tibetan>།དེའི་འོག་ཏུ་རིན་པོ་ཆེ་ཤེལ་གྱི་ཁང་བུ་བརྩེགས་པ་ཞེས་བྱ་བའི་ནམ་མཁའ་ལ།
+<literal>that below to jewel crystal house pile called sky to
+<liturgical><prose>Below that to sky called jewel crystal house pile,
+
+[1203]
+<tibetan>མི་ཆེ་བ་ཞེས་བྱ་བའི་འགྲོ་བ་བྱུང་སྟེ།
+<literal>not great called beings arise
+<liturgical><prose>Arise beings called not great,
+
+[1204]
+<tibetan>སྣང་བ་ལ་འདོད་སྲེད་མི་ཆེ་བའི་ཕྱིར་རོ།
+<literal>appearance to desire attachment not great cause
+<liturgical><prose>Cause desire attachment to appearance not great.
+
+[1205]
+<tibetan>།ཚེ་བར་བསྐལ་གཅིག་ཐུབ་ལ།
+<literal>life interval eon one last and
+<liturgical><prose>Life lasts one interval eon,
+
+[1206]
+<tibetan>ལུས་བོངས་དཔག་ཚད་སྟོང་ཡོད་པའོ།
+<literal>body size measure thousand exist
+<liturgical><prose>Body size thousand leagues exist.
+
+[1207]
+<tibetan>།དེ་ལྟར་གནས་རིས་ལྔ་པོ་དེ་ནི་ཉོན་མོངས་པའི་དྲིང་བ་འགའ་ཞིག་མེད་པས་གཙང་མ་རིས་ཀྱི་ལྷ་ལྔ་ཞེས་བྱ་སྟེ་འཕགས་པའི་གནས་གཞན་ལྔའོ།
+<literal>thus place class five those is afflictions trace some not exist by-means-of pure class god five called noble place other five
+<liturgical><prose>Those five place classes, without some affliction trace, called five pure class gods, five other noble places.
+
+[1208]
+<tibetan>།སོ་སོ་སྐྱེ་བོའི་གནས་གཞན་གསུམ་གྱི་གོང་མ་ནི་དེའི་འོག་ཏུ་རིན་པོ་ཆེ་རབ་མཛེས་རྣམ་པར་བརྡལ་བ་ཞེས་བྱ་བའི་ནམ་མཁའ་ལ་མི་ཆེ་བའི་ལྷ་འགའ་ལྷུང་བ་ལས་མཆེད་པ་ནི།
+<literal>ordinary being place other three above is that below to jewel supreme beauty various spread called sky to not great god some fall from expand is
+<liturgical><prose>Above ordinary beings' three other places, below that to sky called jewel supreme beauty various spread, expand from fell some not great gods, || 210 ||
+
+[1209]
+<tibetan>འབྲས་བུ་ཆེ་ཞེས་བྱ་སྟེ་བསོད་ནམས་ཆ་མཐུན་གྱི་དགེ་བའི་འབྲས་བུ་ཆེ་བ་ལས་གྲུབ་པའི་ཕྱིར་རོ།
+<literal>fruit great called merit share equal virtue fruit great from establish cause
+<liturgical><prose>Called great fruit, cause establish from great virtue fruit of merit share equal.
+
+[1210]
+<tibetan>།ལུས་བོངས་དཔག་ཚད་ལྔ་བརྒྱ་ལ་ཚེ་བར་བསྐལ་ལྔ་བརྒྱ་ཐུབ་པའོ།
+<literal>body size measure five hundred life interval eon five hundred last
+<liturgical><prose>Body size five hundred leagues, life lasts five hundred interval eons.
+
+[1211]
+<tibetan>།དེའི་འོག་ན་རིན་པོ་ཆེ་ཀ་ལི་མདོག་མཛེས་ཀྱིས་རྣམ་པར་སྤྲས་པ་ཞེས་བྱ་བའི་ནམ་མཁའ་ཡོད་དོ།
+<literal>that below at jewel kali color beautiful by-means-of various ornament called sky exist
+<liturgical><prose>Below that exists sky called variously ornamented by jewel kali beautiful color.
+
+[1212]
+<tibetan>།འབྲས་བུ་ཆེ་བའི་ལྷ་འགའ་ཐིག་པའི་ཚུལ་དུ་ཆད་པ་ལས་མཆེད་པ་རྣམས་ལ།
+<literal>fruit great god some dot manner cut from expand those to
+<liturgical><prose>To those expanded from cut some great fruit gods in dot manner,
+
+[1213]
+<tibetan>བསོད་ནམས་སྐྱེས་ཞེས་གྲགས་ཏེ་སྔར་བསོད་ནམས་མང་དུ་བསོགས་པ་ལས་བྱུང་བའི་ཕྱིར་རོ།
+<literal>merit born called before merit much accumulate from arise cause
+<liturgical><prose>Called merit born, cause arisen from accumulated much merit before.
+
+[1214]
+<tibetan>།ལུས་དཔག་ཚད་ཉིས་བརྒྱ་ལྔ་བཅུ་ལ་ཚེ་ཡང་བར་བསྐལ་དེ་སྙེད་དོ།
+<literal>body measure two hundred fifty life also interval eon that much
+<liturgical><prose>Body two hundred fifty leagues, life also that much interval eon.
+
+[1215]
+<tibetan>།དེའི་འོག་ན་རིན་པོ་ཆེ་སྤྲིན་རྣམ་པར་སྟུག་པོ་ཞེས་བྱ་བའི་ནམ་མཁའ་ཡོད་དེ།
+<literal>that below at jewel cloud various thick called sky exist
+<liturgical><prose>Below that exists sky called jewel cloud various thick,
+
+[1216]
+<tibetan>བསོད་ནམས་སྐྱེས་ཀྱི་འགྲོ་བ་རྣམས་ཆད་པ་ལས་སྤྲིན་མེད་འོད་ཅེས་བྱ་བའི་འགྲོ་བ་དཔག་ཏུ་མེད་པ་མཆེད་དོ།
+<literal>merit born beings cut from cloud without light called beings measure without expand
+<liturgical><prose>Immeasurable beings expand called cloud without light from cut merit born beings.
+
+[1217]
+<tibetan>།དེ་ཡང་དལ་འཇམ་དྲོ་བའི་ཚད་དང་ལྡན་པ།
+<literal>that also slow gentle warm measure possess
+<liturgical><prose>That also possesses slow gentle warm measure,
+
+[1218]
+<tibetan>སྤྲིན་མེད་པའི་ཉི་མའི་རྣམ་པ་འདྲ་བས་ན་དེ་སྐད་ཅེས་གྲགས་སོ།
+<literal>cloud without sun form like is by-means-of that sound called
+<liturgical><prose>Called that sound by similar to cloud without sun form. || 220 ||
+
+[1219]
+<tibetan>།ལུས་དཔག་ཚད་བརྒྱ་ཉི་ཤུ་རྩ་ལྔ་ལ་ཚེ་ཡང་བར་བསྐལ་དེ་སྙེད་ཐུབ་པའོ།
+<literal>body measure hundred twenty five life also interval eon that much last
+<liturgical><prose>Body hundred twenty-five leagues, life also lasts that much interval eon.
+
+[1220]
+<tibetan>།དེའི་འོག་ན་རིན་པོ་ཆེ་འོད་རྣམ་པར་འབྱིན་པ་ཞེས་བྱ་བའི་ནམ་མཁའ་ལ་སྤྲིན་མེད་ལས་ཆད་པ་དགེ་རྒྱས་ཞེས་བྱ་བའི་འགྲོ་བ་རྣམས་ཏེ།
+<literal>that below at jewel light various emit called sky to cloud without from cut virtue increase called beings those
+<liturgical><prose>Below that to sky called jewel light various emit, those beings called virtue increase from cut cloud without.
+
+[1221]
+<tibetan>དགེ་རྩ་རྒྱས་པ་ལས་བྱུང་བས་སོ།
+<literal>virtue root expand from arise by-means-of
+<liturgical><prose>By arisen from expanded virtue root.
+
+[1222]
+<tibetan>།ལུས་དཔག་ཚད་དྲུག་ཅུ་རྩ་བཞི་པ་ཚེ་ཡང་བར་བསྐལ་དེ་སྙེད་ཐུབ་པའོ།
+<literal>body measure sixty four life also interval eon that much last
+<liturgical><prose>Body sixty-four leagues, life also lasts that much interval eon.
+
+[1223]
+<tibetan>།དེའི་འོག་ན་རིན་པོ་ཆེ་ཨིན་དྲ་ནཱི་ལས་རྣམ་པར་སྤྲས་པ་ཞེས་བྱ་བའི་ནམ་མཁའ་ལ།
+<literal>that below at jewel Indra from various ornament called sky to
+<liturgical><prose>Below that to sky called variously ornamented by jewel indra,
+
+[1224]
+<tibetan>གོང་མ་ལས་ཆད་པའི་འགྲོ་བ་ལ་ཚད་མེད་དགེ་ཞེས་བྱ་སྟེ།
+<literal>above from cut from beings to measure without virtue called
+<liturgical><prose>Called measure without virtue to beings cut from above,
+
+[1225]
+<tibetan>དགེ་རྩ་ཚད་མེད་ལས་གྲུབ་པའི་ཕྱིར་རོ།
+<literal>virtue root measure without from establish cause
+<liturgical><prose>Cause establish from virtue root without measure.
+
+[1226]
+<tibetan>།ལུས་དཔག་ཚད་སུམ་ཅུ་རྩ་གཉིས་ལ་ཚེ་ཡང་བར་བསྐལ་དེ་སྙེད་དོ།
+<literal>body measure thirty two life also interval eon that much
+<liturgical><prose>Body thirty-two leagues, life also that much interval eon.
+
+[1227]
+<tibetan>།ལ་ལ་ནས་དགེ་རྒྱས་ཀྱི་གོང་དུ་ཚད་མེད་དགེ་གསུངས་པའང་ཡོད་དོ།
+<literal>some from virtue increase above to measure without virtue say also exist
+<liturgical><prose>Some also say measure without virtue above virtue increase.
+
+[1228]
+<tibetan>།དེའི་འོག་ན་རིན་པོ་ཆེ་པ་ཏང་ཀ་ལིང་གིས་རྣམ་པར་སྤྲས་པ་ཞེས་བྱ་བའི་ནམ་མཁའ་ལ།
+<literal>that below at jewel patangkaling by-means-of various ornament called sky to
+<liturgical><prose>Below that to sky called variously ornamented by jewel patangkaling, || 230 ||
+
+[1229]
+<tibetan>གོང་མ་ལས་མཆེད་པ་དགེ་ཆུང་ཞེས་བྱ་བའི་ལྷ་རྣམས་སོ།
+<literal>above from expand virtue small called gods those
+<liturgical><prose>Those gods called virtue small expanded from above.
+
+[1230]
+<tibetan>།དེ་ཡང་གོང་མ་བས་དགེ་བའི་འབྲས་བུ་ཆུང་བ་ལ་སྤྱོད་པས་དེ་སྐད་ཅེས་བྱའོ།
+<literal>that also above from virtue fruit small in dwell by-means-of that sound called
+<liturgical><prose>Called that sound by dwelling in fruit small of virtue from above.
+
+[1231]
+<tibetan>།ལུས་དཔག་ཚད་བཅུ་དྲུག་པ་ཚེ་ཡང་བར་བསྐལ་དེ་སྙེད་པའོ།
+<literal>body measure sixteen life also interval eon that much
+<liturgical><prose>Body sixteen leagues, life also that much interval eon.
+
+[1232]
+<tibetan>།དེའི་འོག་ན་ནོར་བུ་རིན་པོ་ཆེ་ཀེ་ཀེ་རུ་རྣམ་པར་སྤྲས་པ་ཞེས་བྱ་བའི་ནམ་མཁའ་ལ།
+<literal>that below at jewel kekeru various ornament called sky to
+<liturgical><prose>Below that to sky called jewel kekeru various ornament,
+
+[1233]
+<tibetan>གོང་མ་ལས་མཆེད་པ་འོད་གསལ་ཏེ་ལུས་ལ་འོད་གསལ་བའི་ཕྱིར་རོ།
+<literal>above from expand light clear body to light clear cause
+<liturgical><prose>Light clear expanded from above, cause clear light body.
+
+[1234]
+<tibetan>།ལུས་དཔག་ཚད་བརྒྱད་པ་ཚེ་ཡང་བར་བསྐལ་བརྒྱད་དོ།
+<literal>body measure eight life also interval eon eight
+<liturgical><prose>Body eight leagues, life also eight interval eons.
+
+[1235]
+<tibetan>།དེའི་འོག་ན་རིན་པོ་ཆེ་དཔལ་བརྩེགས་ཞེས་བྱ་བའི་ནམ་མཁའ་ལ།
+<literal>that below at jewel glory pile called sky to
+<liturgical><prose>Below that to sky called jewel glory pile,
+
+[1236]
+<tibetan>གོང་མ་ལས་མཆེད་པ་ཚད་མེད་འོད་དེ་ལུས་ཀྱི་འོད་ལ་ཚད་མེད་པས་དེ་སྐད་ཅེས་སོ།
+<literal>above from expand measure without light body light to measure without by-means-of that sound called
+<liturgical><prose>Called that sound by measure without light to body light, measure without expanded from above.
+
+[1237]
+<tibetan>།ལུས་དཔག་ཚད་བཞི་པ་ཚེ་ཡང་བར་བསྐལ་བཞིའོ།
+<literal>body measure four life also interval eon four
+<liturgical><prose>Body four leagues, life also four interval eons.
+
+[1238]
+<tibetan>།དེའི་འོག་ན་རིན་པོ་ཆེ་དཔའ་བའི་འོད་ཅེས་བྱ་བའི་ནམ་མཁའ་ལ།
+<literal>that below at jewel brave light called sky to
+<liturgical><prose>Below that to sky called jewel brave light, || 240 ||
+
+[1239]
+<tibetan>གོང་མ་ལས་མཆེད་པ་ནི་འོད་ཆུང་ཞེས་བྱའོ།
+<literal>above from expand is light small called
+<liturgical><prose>Called light small expanded from above.
+
+[1240]
+<tibetan>།ལུས་ཀྱི་འོད་གོང་མ་ལས་ཆུང་བའི་ཕྱིར་དེ་སྐད་ཅེས་བརྗོད་དོ།
+<literal>body light above from small cause that sound called
+<liturgical><prose>Called that sound by cause small body light from above.
+
+[1241]
+<tibetan>།ལུས་དཔག་ཚད་གཉིས་ལ་ཚེ་ཡང་བར་བསྐལ་གཉིས་ཐུབ་པའོ།
+<literal>body measure two life also interval eon two last
+<liturgical><prose>Body two leagues, life also lasts two interval eons.
+
+[1242]
+<tibetan>།དེའི་འོག་ན་རིན་པོ་ཆེ་ཀེ་རུ་ཛ་ཞེས་བྱ་བའི་ནམ་མཁའ་ལ་གོང་མ་ལས་མཆེད་པ་ཚངས་ཆེན་པའི་འགྲོ་བ་ཡོད་དོ།
+<literal>that below at jewel keruja called sky to above from expand brahma great beings exist
+<liturgical><prose>Below that to sky called jewel keruja, exist great Brahma beings expanded from above.
+
+[1243]
+<tibetan>།དེའང་འདོད་པའི་སྐྱོན་ལས་ཚངས་པས་དེ་སྐད་ཅེས་བྱའོ།
+<literal>that also desire fault from brahma by-means-of that sound called
+<liturgical><prose>Called that sound by Brahma from desire fault.
+
+[1244]
+<tibetan>།ལུས་དཔག་ཚད་ཕྱེད་དང་གཉིས་ལ་ཚེ་ཡང་བར་བསྐལ་དེ་སྙེད་ཐུབ་པའོ།
+<literal>body measure half and two life also interval eon that much last
+<liturgical><prose>Body two and half leagues, life also lasts that much interval eon.
+
+[1245]
+<tibetan>།དེའི་འོག་ན་རིན་པོ་ཆེ་ས་མི་ཀ་ཞེ་བྱ་བའི་ནམ་མཁའ་ལ་ཚངས་ཆེན་ལས་འགའ་ཞིག་ཆད་པ་ནི།
+<literal>that below at jewel samika called sky to brahma great from some cut is
+<liturgical><prose>Below that to sky called jewel samika, some cut from great Brahma.
+
+[1246]
+<tibetan>ཚངས་པ་མདུན་ན་འདོན་ཏེ།
+<literal>brahma before recite
+<liturgical><prose>Brahma before recites,
+
+[1247]
+<tibetan>དེ་དག་གི་མདུན་ན་ཁ་དོན་བྱེད་པ་རེ་ཡོད་པས་དེ་སྐད་ཅེས་བྱའོ།
+<literal>those before at speech recite do one exist by-means-of that sound called
+<liturgical><prose>Called that sound by one doing speech recitation before those.
+
+[1248]
+<tibetan>།ལུས་དཔག་ཚད་གཅིག་ལ་ཚེ་ཡང་བར་བསྐལ་གཅིག་ཏུ་ཐུབ་པའོ།
+<literal>body measure one life also interval eon one to last
+<liturgical><prose>Body one league, life also lasts one interval eon. || 250 ||
+
+[1249]
+<tibetan>།དེའི་འོག་ན་རིན་པོ་ཆེ་སི་ཀ་ཏ་ཞེས་བྱ་བའི་ནམ་མཁའ་ལ་གོང་མ་ལས་ཆད་པས་ཚངས་པ་ཞེས་བྱའོ།
+<literal>that below at jewel sikata called sky to above from cut by-means-of brahma called
+<liturgical><prose>Below that to sky called jewel sikata, called Brahma by cut from above.
+
+[1250]
+<tibetan>།དེའང་དགེ་བའི་ལས་ལ་ཚངས་པར་སྤྱོད་པས་ན་དེ་སྐད་ཅེས་བྱའོ།
+<literal>that also virtue action to brahma-like dwell by-means-of that sound called
+<liturgical><prose>Called that sound by dwelling brahma-like in virtue action.
+
+[1251]
+<tibetan>།ལུས་དཔག་ཚད་ཕྱེད་ལ་ཚེ་ཡང་བར་གྱི་བསྐལ་པ་ཕྱེད་ཐུབ་པའོ།
+<literal>body measure half life also interval eon half last
+<liturgical><prose>Body half league, life also lasts half interval eon.
+
+[1252]
+<tibetan>།དེ་ནས་འདོད་པའི་ཁམས་ལ་གཉིས་ལས།
+<literal>then desire realm to two from
+<liturgical><prose>Then to desire realm from two,
+
+[1253]
+<tibetan>ལྷ་རིགས་དྲུག་གི་དང་པོ་ནི།
+<literal>god race six first is
+<liturgical><prose>First of six god races:
+
+[1254]
+<tibetan>དེའི་འོག་ན་དཔག་བསམ་གྱི་ཤིང་རིན་པོ་ཆེ་རབ་ཏུ་རྒྱས་པ་ཞེས་བྱ་བའི་ནམ་མཁའ་ལ་ཚངས་པའི་འགྲོ་བ་འགའ་མཆེད་པ་ནི།
+<literal>that below at wish fulfilling tree jewel greatly expand called sky to brahma beings some expand is
+<liturgical><prose>Below that to sky called greatly expanded wish fulfilling tree jewel, expand some Brahma beings,
+
+[1255]
+<tibetan>སྔོན་གྱི་བསགས་པའི་ཁྱད་ཀྱིས་ལྷུང་བ་ལས་གཞན་འཕྲུལ་དབང་བྱེད་ཅེས་བྱ་བའི་འགྲོ་བ་དཔག་ཏུ་མེད་པ་མཆེད་དོ།
+<literal>before accumulate excellence from fall from other emanation power do called beings measure without expand
+<liturgical><prose>Immeasurable beings expand called other emanation power do, from fell excellence of before accumulation.
+
+[1256]
+<tibetan>།དེའང་ལུས་དང་ལོངས་སྤྱོད་ཀྱི་འབྱོར་བ་གཞན་ལས་སྤྲུལ་པར་སྣང་བ་ལ་དབང་བས་དེ་སྐད་དོ།
+<literal>that also body and enjoyment abundance other from emanation appear to power by-means-of that sound
+<liturgical><prose>That sound by power over emanation appearance of body and enjoyment abundance from other.
+
+[1257]
+<tibetan>།གཞན་གང་གིས་ཤེ་ན་ལྷའི་དཔག་བསམ་དང་རང་གི་རྣམ་འཕྲུལ་གཞན་དུ་སྣང་བས་སོ།
+<literal>other what by know when god wish fulfilling and self emanation other to appear by-means-of
+<liturgical><prose>Know by what other, by appearance of other self emanation and god wish fulfilling.
+
+[1258]
+<tibetan>།ལུས་རྒྱང་གྲགས་ཕྱེད་དང་གཉིས་ལ་ཚེ་མི་ལོ་སྟོང་དྲུག་བརྒྱ་ལ་ཉིན་ཞག་གཅིག་ཏུ་བརྩིས་པའི་རང་ལོ་ཁྲི་དྲུག་སྟོང་ཐུབ་པའོ།
+<literal>body league half and two life human year thousand six hundred to day one to calculate own year sixteen thousand last
+<liturgical><prose>Body league two and half, life thousand six hundred human years, calculate one day as own year sixteen thousand lasts. || 260 ||
+
+[1259]
+<tibetan>།དེའི་འོག་ཏུ་དཔག་བསམ་གྱི་ཤིང་མཐོང་མཛེས་ཞེས་བྱ་བའི་ནམ་མཁའ་ལ།
+<literal>that below to wish fulfilling tree see beautiful called sky to
+<liturgical><prose>Below that to sky called wish fulfilling tree see beautiful,
+
+[1260]
+<tibetan>གོང་མ་ལས་ལྷུང་བ་ནི་འཕྲུལ་དགའ་སྟེ།
+<literal>above from fall is emanation joy
+<liturgical><prose>Fall from above is emanation joy,
+
+[1261]
+<tibetan>དེའང་ལུས་ཀྱི་འོད་ལས་བུ་བརྒྱའམ་སྟོང་ངམ་དཔག་ཏུ་མེད་པར་སྤྲུལ་ནས་རྩེ་དགའ་བྱེད་པས་དེ་སྐད་དོ།
+<literal>that also body light from son hundred or thousand or measure without emanation from play joy do by-means-of that sound
+<liturgical><prose>That sound by doing play joy, emanating hundred or thousand or immeasurable sons from body light.
+
+[1262]
+<tibetan>།ལུས་རྒྱང་གྲགས་གཅིག་དང་བཞི་ཆ་སྟེ་གཞུ་འདོམ་ལྔ་བརྒྱ་དང་བརྒྱ་ཉི་ཤུ་རྩ་ལྔའོ།
+<literal>body league one and four part bow length five hundred and hundred twenty five
+<liturgical><prose>Body league one and four part, five hundred and one hundred twenty-five bow lengths.
+
+[1263]
+<tibetan>།ཚེ་མི་ལོ་བརྒྱད་བརྒྱ་ལ་ཉིན་ཞག་གཅིག་ཏུ་བརྩིས་པའི་རང་ལོ་སྟོང་ཕྲག་བརྒྱད་ཐུབ་པའོ།
+<literal>life human year eight hundred to day one to calculate own year thousand eight last
+<liturgical><prose>Life eight hundred human years, calculate one day as own year thousand eight lasts.
+
+[1264]
+<tibetan>།དེའི་འོག་ན་དཔག་བསམ་གྱི་ཤིང་མིག་མཛེས་ཞེས་བྱ་བའི་ནམ་མཁའ་ལ།
+<literal>that below to wish fulfilling tree eye beautiful called sky to
+<liturgical><prose>Below that to sky called wish fulfilling tree eye beautiful,
+
+[1265]
+<tibetan>འཕྲུལ་དགའ་ལས་མཆེད་པ་དགའ་ལྡན་ཏེ་དགའ་བདེ་དམ་པའི་ཆོས་ལ་སྤྱོད་པའི་ཕྱིར་རོ།
+<literal>emanation joy from expand joy possess joy bliss supreme dharma to dwell cause
+<liturgical><prose>Joy possess expanded from emanation joy, cause dwelling in supreme joy bliss dharma.
+
+[1266]
+<tibetan>།ལུས་རྒྱང་གྲགས་གཅིག་སྟེ་གཞུ་འདོམ་ལྔ་བརྒྱ་པ།
+<literal>body league one bow length five hundred
+<liturgical><prose>Body league one, five hundred bow lengths.
+
+[1267]
+<tibetan>ཚེ་མི་ལོ་བཞི་བརྒྱ་ལ་ཉིན་ཞག་གཅིག་ཏུ་བརྩིས་པའི་རང་ལོ་བཞི་སྟོང་ཐུབ་པའོ།
+<literal>life human year four hundred to day one to calculate own year four thousand last
+<liturgical><prose>Life four hundred human years, calculate one day as own year four thousand lasts.
+
+[1268]
+<tibetan>།དེའི་འོག་ན་དཔག་བསམ་གྱི་ཤིང་ཡིད་འགྱུར་ཞེས་བྱ་བའི་ནམ་མཁའ་ལ།
+<literal>that below to wish fulfilling tree mind change called sky to
+<liturgical><prose>Below that to sky called wish fulfilling tree mind change. || 270 ||
+
+[1269]
+<tibetan>གོང་མ་ལས་ལྷུང་བས་འཐབ་བྲལ་ཞེས་བྱ་སྟེ།
+<literal>upper from fallen by-means-of Thab-bral called
+<liturgical><tantra>From upper fallen, 'Thab-bral called,
+
+[1270]
+<tibetan>ལྷ་མ་ཡིན་དང་རྩོད་པ་བྲལ་བའི་ཕྱིར་རོ།
+<literal>asuras and conflict free reason
+<liturgical><prose>Asuras and conflict free.
+
+[1271]
+<tibetan>།ལུས་རྒྱང་གྲགས་བཞི་གསུམ་སྟེ་གཞུ་འདོམ་སུམ་བརྒྱ་བདུན་ཅུ་རྩ་ལྔའོ།
+<literal>body leagues four three bow-lengths three-hundred seventy-five
+<liturgical><prose>Body leagues four-three: bow-lengths three-hundred seventy-five.
+
+[1272]
+<tibetan>།ཚེ་མི་ལོ་ཉིས་བརྒྱ་ལ་ཞག་གཅིག་ཏུ་བརྩིས་པའི་རང་ལོ་ཉིས་སྟོང་ཐུབ་པོ།
+<literal>life human-years two-hundred day one calculated own-years two-thousand enduring
+<liturgical><prose>Life human-years two-hundred, day one calculated, own-years two-thousand enduring.
+
+[1273]
+<tibetan>།དེའི་འོག་ན་དཔག་བསམ་གྱི་ཤིང་ཡོངས་འདུས་བརྟོལ་གྱིས་བརྒྱན་པའི་ས་གཞི་ལ།
+<literal>that below wishing-tree completely-surrounded decorated ground on
+<liturgical><prose>That under wishing-tree completely-surrounded decorated ground,
+
+[1274]
+<tibetan>མཐའ་བྲལ་ལས་ལྷུང་བའི་འགྲོ་བ་མཆེད་པས་སུམ་ཅུ་རྩ་གསུམ་སྟེ།
+<literal>limit without from fallen realm expanded by-means-of thirty-three
+<liturgical><prose>Limit-without from fallen realm expanded: thirty-three,
+
+[1275]
+<tibetan>གླང་པོ་ཆེ་རབ་བརྟན་ལ་གསེར་གྱི་མགོ་སུམ་ཅུ་རྩ་གཉིས་གཡུའི་མགོ་གཅིག་དང་རྩ་གསུམ་ལ་་དབང་དང་ཉེ་དབང་སྤྱོད་པས་སམ།
+<literal>elephant great steadfast gold heads thirty-two turquoise head one and roots three power and near-power exercise or
+<liturgical><prose>Elephant great steadfast, gold heads thirty-two, turquoise head one, roots three power and near-power exercise,
+
+[1276]
+<tibetan>མ་འདྲེས་དང་ཕྲེང་འབར་བ་ལ་སོགས་པའི་གནས་སུམ་ཅུ་རྩ་གསུམ་ན།
+<literal>separate and necklace blazing and so forth abodes thirty-three in
+<liturgical><prose>Separate and necklace blazing abodes thirty-three,
+
+[1277]
+<tibetan>དབང་པོ་སུམ་ཅུ་རྩ་གསུམ་གྱི་བྱེད་པས་དེ་སྐད་ཅེས་བྱའོ།
+<literal>powers thirty-three activities that called
+<liturgical><prose>Powers thirty-three's activities that called.
+
+[1278]
+<tibetan>།ལུས་རྒྱང་གྲགས་ཀྱི་བཞི་ཆ་གཉིས་ཏེ་གཞུ་འདོམ་ཉིས་བརྒྱ་ལྔ་བཅུའོ།
+<literal>body leagues four portion two bow-lengths two-hundred fifty
+<liturgical><prose>Body leagues' four portion two: bow-lengths two-hundred fifty. || 280 ||
+
+[1279]
+<tibetan>།ཚེ་མི་ལོ་བརྒྱ་ལ་ཞག་གཅིག་ཏུ་བརྩིས་པའི་རང་ལོ་སྟོང་ཕྲག་གཅིག་ཐུབ་པའོ།
+<literal>life human-years hundred day one calculated own-years thousand one enduring
+<liturgical><prose>Life human-years hundred, day one calculated, own-years thousand one enduring.
+
+[1280]
+<tibetan>།དེའི་འོག་ན་ཉི་ཟླ་གཟའ་སྐར་འཆར་བའི་གནས་བང་རིམ་རྩེ་མོ་དང་གཉའ་ཤིང་འཛིན་ལ་སོགས་པའི་གཞི་ལ་སུམ་ཅུ་རྩ་གསུམ་ལས་མཆེད་པའི་འགྲོ་བ་རྣམས་ལ་རྒྱལ་ཆེན་རིས་བཞི་ཞེས་བྱ་སྟེ།
+<literal>that below sun moon planets stars appearing abode Meru peak and yoke-holder and so forth basis on thirty-three from expanded realms to Great-king types four called
+<liturgical><prose>That under sun moon planets stars appearing abode Meru peak and yoke-holder basis, thirty-three from expanded realms: Great-king types four called,
+
+[1281]
+<tibetan>གླིང་བཞི་སོ་སོའི་བདག་པོར་སྐྱེས་ཤིང་དབང་བསྒྱུར་ལ་བསྲུང་བའི་ཕྱིར་རོ།
+<literal>continents four individual's lords born power control protect reason
+<liturgical><prose>Continents four individual's lords born, power control protect.
+
+[1282]
+<tibetan>།ལུས་རྒྱང་གྲགས་བཞི་ཆ་གཅིག་སྟེ།
+<literal>body leagues four portion one
+<liturgical><prose>Body leagues four portion one,
+
+[1283]
+<tibetan>གཞུ་འདོམ་བརྒྱ་ཉི་ཤུ་རྩ་ལྔ་ཡོད་ལ།
+<literal>bow-lengths hundred twenty-five exists
+<liturgical><prose>Bow-lengths hundred twenty-five,
+
+[1284]
+<tibetan>ཚེ་མི་ལོ་ལྔ་བཅུ་ལ་ཉིན་ཞག་གཅིག་ཏུ་བརྩིས་པའི་རང་ལོ་ལྔ་བརྒྱ་ཐུབ་པའོ།
+<literal>life human-years fifty day one calculated own-years five-hundred enduring
+<liturgical><prose>Life human-years fifty, day one calculated, own-years five-hundred enduring.
+
+[1285]
+<tibetan>།དེ་དག་ནི་འདོད་ལྷ་རིགས་དྲུག་གོ
+<literal>these desire-gods types six
+<liturgical><break><prose> These desire-gods types six.
+
+[1286]
+<tibetan>།ལྷ་མིན་ལ་རིས་བཞི་ལས།
+<literal>asuras types four from
+<liturgical><break><prose> Asuras types four:
+
+[1287]
+<tibetan>ཚེ་དཔལ་ལྷའི་རིས་ནི་སུམ་ཅུ་རྩ་གསུམ་པ་དང་ལུས་དང་ཚེ་མཉམ་ལ།
+<literal>life glory god type thirty-three body and life equal and
+<liturgical><prose>Life-glory god's type thirty-three, body and life equal,
+
+[1288]
+<tibetan>སྟོབས་ཆེན་གནོད་སྦྱིན་གྱི་རིས་ནི་རྒྱལ་ཆེན་བཞིའི་ལུས་དང་ཚེ་དང་ལོངས་སྤྱོད་འདྲ་ཞིང༌།
+<literal>power great yakṣa type Great-king four body and life and enjoyment equal and
+<liturgical><prose>Great-power yakṣa's type Great-king four's body life enjoyment equal, || 290 ||
+
+[1289]
+<tibetan>གདུག་པ་ཀླུའི་རིས་ནི་ཀླུ་རྣམས་དང་མཚུངས་ལ།
+<literal>fierce nāga type nāgas equal and
+<liturgical><prose>Fierce nāga's type nāgas equal,
+
+[1290]
+<tibetan>གསོད་བྱེད་སྲིན་པོའི་རིས་ནི་ཡི་དྭགས་རྣམས་དང་མཐུན་ཞིང༌།
+<literal>killer rākṣasa type pretas accord and
+<liturgical><prose>Killer rākṣasa's type pretas accord,
+
+[1291]
+<tibetan>རྩུབ་འགྱུར་བདུད་ཀྱི་རིས་ཐགས་བཟངས་རིས་ལ་སོགས་པ་རྣམས་ནི།
+<literal>cruel māra type cloth-beautiful type and so forth are
+<liturgical><prose>Cruel māra's type cloth-beautiful type and so forth,
+
+[1292]
+<tibetan>གཞན་འཕྲུལ་དབང་བྱེད་པ་རྣམས་དང་ལོངས་སྤྱོད་ཀྱི་རྣམ་པ་འདྲ་ལ།
+<literal>paranirmitavaśavartin and enjoyment type equal and
+<liturgical><prose>Paranirmitavaśavartin enjoyment's type equal.
+
+[1293]
+<tibetan>ཚེ་སུམ་ཅུ་རྩ་གསུམ་པ་བཞིན་ནོ།
+<literal>life thirty three like
+<liturgical><prose>Life like thirty-three.
+
+[1294]
+<tibetan>།དེ་ནས་བདུད་རིས་ཀྱང་ལྷ་རིས་སུ་བསྡུས་ནས་ལྷ་མིན་རིས་བཞི་ཁོ་ནའོ།
+<literal>then demon class also god class to include from titan class four only
+<liturgical><prose>Then demon class included in god class, titan class four only.
+
+[1295]
+<tibetan>།དེ་ནས་མིར་མཆེད་པ་ནི།
+<literal>then human to expand is
+<liturgical><prose>Then expanded to humans:
+
+[1296]
+<tibetan>ཐོག་མ་འཛམ་བུའི་གླིང་བསོད་ནམས་ཁྱད་པར་ཅན་གྱི་ས་པ་འདིར་འོད་གསལ་ལས་ལྷའི་བུ་གཉིས་པདྨ་ལ་རྫུས་སྐྱེས་སུ་མཆེད་པར་བཤད་དེ།
+<literal>first Jambu continent merit excellent ground this to light clear from god son two lotus to miraculous birth expand explain
+<liturgical><prose>First, two god sons from clear light expanded to lotus miraculous birth on this excellent merit ground Jambu continent explained,
+
+[1297]
+<tibetan>དེ་ཡང་རྒྱལ་ཆེན་བཞི་ཡན་ཆད་ཀྱི་འགྲོ་བ་ཆགས་པ་དེའི་འོག་ཏུ་འོད་གསལ་ནས་ལྷའི་བུ་གཉིས་འཛམ་བུའི་གླིང་འདིར་ལྷུང་བ་ནི་ཉི་མ་རབ་ཏུ་སྣང་བྱེད་དང༌།
+<literal>that also four great king up-to beings form that below to light clear from god son two Jambu continent this to fall is sun greatly illuminate and
+<liturgical><prose>That after formed beings up to four great kings, two god sons from clear light fallen to this Jambu continent: Sun Greatly-Illuminating,
+
+[1298]
+<tibetan>ཟླ་བ་དྲི་མེད་དོ།
+<literal>moon stainless
+<liturgical><prose>Moon Stainless. || 300 ||
+
+[1299]
+<tibetan>།དེ་ནས་སྣང་བ་ཐམས་ཅད་རབ་ཏུ་མཛེས་པའི་འོད་ཀྱི་པདྨ་དཔག་ཏུ་མེད་པ་ལ།
+<literal>then appearance all greatly beautiful light lotus measure without to
+<liturgical><prose>Then to immeasurable lotus of light where all appearance greatly beautiful,
+
+[1300]
+<tibetan>དེ་གཉིས་ཀྱི་ཡིད་རབ་ཏུ་གཡོས་པ་ལས།
+<literal>those two mind greatly move from
+<liturgical><tantra>From those two's minds greatly moved,
+
+[1301]
+<tibetan>དབྱིངས་ཀྱི་ས་བོན་གྱི་ཆ་མངོན་དུ་གྱུར་པའི་རྐྱེན་དུ་ཤར་བས།
+<literal>space seed part manifest become condition to arise by-means-of
+<liturgical><prose>By condition of manifest space seed part arisen,
+
+[1302]
+<tibetan>རྫུས་སྐྱེས་ཀྱི་ལྷའི་བུ་འགའ་ཙམ་མཆེད་དེ།
+<literal>miraculous birth god son some expand
+<liturgical><prose>Some miraculous birth god sons expanded.
+
+[1303]
+<tibetan>དེ་དག་ཀྱང་ཕན་ཚུན་མཐོང་ན་དགའ་བ་དང་འོད་ཀྱི་སྣང་བ་རབ་ཏུ་གསལ་བ་ལ་རྫུ་ཕྲུལ་གྱིས་སྤྱོད་པ་ནི།
+<literal>those also each-other see when joy and light appearance greatly clear miracle by-means-of activity is
+<liturgical><prose>Those joy when seeing each other, greatly clear light appearance, activity by miracle:
+
+[1304]
+<tibetan>འགྲོ་བ་དེ་དག་འགྲོ་ན་ཡང་ནམ་མཁའ་ལ་འགྲོ།
+<literal>beings those go when also sky to go
+<liturgical><prose>Those beings go, also go to sky.
+
+[1305]
+<tibetan>འདུག་ན་ཡང་ནམ་མཁའ་ལ་འདུག
+<literal>sit when also sky to sit
+<liturgical><break><prose> Sit, also sit in sky.
+
+[1306]
+<tibetan>ཟས་སུ་བསམ་གཏན་ཅི་དགའ་བདེ་ལ་སྤྱོད།
+<literal>food as meditation what joy bliss to dwell
+<liturgical><break><prose> Food as meditation, dwell in joy bliss.
+
+[1307]
+<tibetan>ལུས་ལ་འོད་ཟེར་གྱི་ཚོགས་དཔག་ཏུ་མེད་པ་འཕྲོ་ཞིང་འགྲོ་བར་འདོད་པ་ཙམ་གྱིས་གང་དུ་བསམ་པ་དེར་ཕྱིན་ལ།
+<literal>body to light rays group measure without extend and go to wish only by-means-of where think that to go and
+<liturgical><prose>Body extends immeasurable light ray groups, where wish to go, by mere thought arrive,
+
+[1308]
+<tibetan>ཚེ་ལོ་ཡང་དཔག་མེད་ཐུབ་སྟེ།
+<literal>life year also measure without last
+<liturgical><prose>Life years immeasurable last, || 310 ||
+
+[1309]
+<tibetan>ཉོན་མོངས་པ་མངོན་དུ་རྒྱུ་གང་ཡང་མེད་པའོ།
+<literal>afflictions manifest move what also not exist
+<liturgical><prose>No afflictions manifestly move.
+
+[1310]
+<tibetan>།རྒྱུད་འགའ་ལས་དགའ་ལྡན་ནས་མཆེད་པར་བཤད་ལ།
+<literal>tantra some from joy possess from expand explain
+<liturgical><prose>Some tantras explain expanded from Joy Possess,
+
+[1311]
+<tibetan>ལ་ལ་ནས་རྒྱལ་ཆེན་བཞི་ལས་མཆེད་པར་བཤད་དེ།
+<literal>some from four great king from expand explain
+<liturgical><prose>Some explain expanded from Four Great Kings,
+
+[1312]
+<tibetan>དགོངས་པ་ནི་ཐོགས་མའི་གཙོ་བོ་དེ་གཉིས་འོད་གསལ་ལས་ལྷུང་བ་ཡིན་ལ།
+<literal>intention is first chief those two light clear from fall is and
+<liturgical><prose>Intention: those two first chiefs fallen from clear light,
+
+[1313]
+<tibetan>དེའི་འོག་ཏུ་དགའ་ལྡན་དང༌།
+<literal>that below to joy possess and
+<liturgical><prose>Below that Joy Possess,
+
+[1314]
+<tibetan>རྒྱལ་ཆེན་བཞི་དང༌།
+<literal>four great king and
+<liturgical><prose>Four Great Kings,
+
+[1315]
+<tibetan>གོང་མ་གཞན་ལས་ཀྱང་ལྷུང་ནས་འདིར་རྫུས་ཏེ་སྐྱེས་པ་ཡིན་པས་ཐམས་ཅད་ཀྱི་ལྟར་འགལ་བ་མེད་པར་ཤེས་པར་བྱའོ།
+<literal>above other from also fall from here miraculous birth is by-means-of all view contradict not know by
+<liturgical><prose>Fallen from above others, miraculously born here, know no contradiction in all views.
+
+[1316]
+<tibetan>།དེའི་ཚེ་བསྐལ་པ་དང་པོ་དེའི་ཡུལ་གྱི་མིང་ནི་དགའ་ལྡན་བརྩེགས་པ་ཞེས་བྱའོ།
+<literal>that time eon first that place name is joy possess pile called
+<liturgical><prose>That time first eon that place name called Joy Possess Pile.
+
+[1317]
+<tibetan>།ཅིའི་ཕྱིར་ཞེ་ན།
+<literal>what cause when
+<liturgical><prose>What cause?
+
+[1318]
+<tibetan>སྣང་བ་འོད་ཀྱི་ལོངས་སྤྱོད་བསམ་གྱིས་མི་ཁྱབ་པ་དང༌།
+<literal>appearance light enjoyment thought by-means-of not conceive and
+<liturgical><prose>Inconceivable light appearance enjoyment, || 320 ||
+
+[1319]
+<tibetan>རིག་པ་ཏིང་ངེ་འཛིན་གྱི་དགའ་བདེ་དཔག་ཏུ་མེད་པའི་ཕྱིར་རོ།
+<literal>awareness concentration joy bliss measure without cause
+<liturgical><prose>Immeasurable awareness concentration joy bliss.
+
+[1320]
+<tibetan>།དེའི་ཚེ་འགྲོ་བ་དེ་དག་འདུལ་བའི་སྟོན་པ་དྲུག་པ་རྡོ་རྗེ་འཆང་ཉིད།
+<literal>that time beings those tame teacher sixth vajra holder
+<liturgical><prose>That time sixth teacher Vajra Holder tames those beings.
+
+[1321]
+<tibetan>འོད་ཀྱི་པདྨ་རབ་ཏུ་མཛེས་པ་འདབ་མ་སྟོང་དང་ལྡན་པའི་སྦུབས་ཡངས་ཤིང་རྒྱ་ཆེ་ལ་རྫུས་ནས་སྐྱེ་བའི་ཚུལ་དུ་བྱོན་ནོ།
+<literal>light lotus greatly beautiful petal thousand possess cavity wide and large to miraculous birth manner to come
+<liturgical><prose>Came in manner of miraculous birth to wide large cavity of thousand-petaled greatly beautiful light lotus.
+
+[1322]
+<tibetan>།དེ་ཡང་གཟིགས་སྟངས་རྣམ་པ་གསུམ་གྱིས་འགྲོ་བ་ལ་གཟིགས་པས་གོང་ནས་མཆེད་པ་ལྷའི་བུ་ཉི་མ་རབ་ཏུ་སྣང་བྱེད་དང༌།
+<literal>that also gaze form three by-means-of beings to gaze by-means-of above from expand god son sun greatly illuminate and
+<liturgical><prose>That also, by gazing at beings with three forms of gaze, expanded from above: god sons Sun Greatly-Illuminating,
+
+[1323]
+<tibetan>ཟླ་བ་དྲི་མ་མེད་པར་བྱུང་བ་ནི།
+<literal>moon stain without arise is
+<liturgical><prose>Moon Without-Stain arose.
+
+[1324]
+<tibetan>ཐབས་དང་ཤེས་རབ་ལ་བརྟེན་ནས་འགྲོ་བ་འདུལ་བའི་སྟོན་པར་བྱུང་བའི་རྟགས་སོ།
+<literal>means and wisdom rely by-means-of beings tame teacher arise sign
+<liturgical><prose>Sign of arising as teacher taming beings by relying on means and wisdom.
+
+[1325]
+<tibetan>།དེའི་ཚེ་པདྨའི་འདབ་མ་རེ་རེའི་སྟེང་ན་སངས་རྒྱས་ཉིད་དང་རྒྱུ་མཐུན་པ་རེ་རེ་བྱོན་པ་ནི།
+<literal>that time lotus petal each top at buddha and cause similar each come is
+<liturgical><prose>That time, upon each lotus petal top, each similar to Buddha and cause came:
+
+[1326]
+<tibetan>བསྐལ་པ་འདི་ལ་སངས་རྒྱས་སྟོང་འབྱུང་བའི་རྟགས་སོ།
+<literal>eon this to buddha thousand arise sign
+<liturgical><prose>Sign of thousand Buddhas arising in this eon.
+
+[1327]
+<tibetan>།དེ་ནས་སྣང་བ་འདུལ་བྱེད་ཀྱི་སྤྱན་གྱིས་པདྨ་ལ་གཟིགས་པས་ནམ་མཁའ་ནས་བྱུང་བ་ཚ་གྲང་གི་རང་སྒྲ་གྲགས་སྟེ།
+<literal>then appearance tame eye by-means-of lotus to gaze by-means-of sky from arise hot cold self sound proclaim
+<liturgical><prose>Then, taming appearance eye gazing at lotus, proclaimed self sound of hot cold arisen from sky:
+
+[1328]
+<tibetan>མི་སྣང་མོ་ཞེས་བྱ་བའི་སྒྲ་ལན་གསུམ་དུ་བྱུང་བ་ལས།
+<literal>not appear dark called sound three times arise from
+<liturgical><tantra>From thrice arisen sound called "not appear dark," || 330 ||
+
+[1329]
+<tibetan>འགྲོ་བ་དེ་དག་ཀྱང་མི་ཞེས་བྱ་བར་ཐོགས་སོ།
+<literal>beings those also human called seize
+<liturgical><prose>Those beings also seized being called human.
+
+[1330]
+<tibetan>།དེའི་ཚེ་ལུས་གདོས་བཅས་ཤ་ཁྲག་ཏུ་གྲུབ་པ་ནི་མེད་ལ།
+<literal>that time body flesh etcetera flesh blood become is not and
+<liturgical><prose>That time, no body flesh etcetera flesh blood,
+
+[1331]
+<tibetan>སྐབས་སུ་གོང་མའི་འོད་ལ་བརྟེན་པས་ཟང་ཐལ་དུ་སྣང་ཞིང་དབང་པོ་ལྔ་དང་ཡན་ལག་དང་ཁ་དོག་དང་སྐྱེ་མཆེད་ལ་སོགས་པ་རབ་ཏུ་མཛེས་པར་ཡོད་ཀྱང༌།
+<literal>occasion to above light rely by-means-of clearly appear and sense five and limb and color and ayatana etcetera greatly beautiful exist and-yet
+<liturgical><prose>Occasionally rely on above light, clearly appear, greatly beautiful sense five, limb, color, ayatana etcetera exist and-yet,
+
+[1332]
+<tibetan>ཕོ་དང་མོ་ཞེས་ཐ་དད་པ་ནི་མེད་དོ།
+<literal>male and female called different is not
+<liturgical><prose>Male and female different not.
+
+[1333]
+<tibetan>།དེའི་ཚེ་ནམ་མཁའ་ལ་འོད་ཀྱི་སྐར་མ་འབུམ་ཕྲག་དྲུག་ཅུ་རྩ་བཞི་སྣང་བ་ནི་རྫོགས་པ་ཆེན་པོའི་ཆོས་ཀྱི་རྣམ་གྲངས་འབུམ་ཕྲག་དྲུག་བཅུ་རྩ་བཞི་འབྱུང་བའི་སྔ་ལྟས་སུ་ཤར་ལ།
+<literal>that time sky light star sixty four appear is great perfection dharma enumeration hundred sixty four arise before sign to arise
+<liturgical><prose>That time, sixty-four light stars appearing in sky: before sign of sixty-four Great Perfection dharma enumerations arising,
+
+[1334]
+<tibetan>དེའི་ནང་ནས་ཀྱང་མཛེས་ཤིང་བཀྲ་བ་བཅུ་བདུན་ནི།
+<literal>that inside from also beautiful and bright seventeen is
+<liturgical><tantra>From within that, seventeen beautiful bright:
+
+[1335]
+<tibetan>ཡང་གསང་བླ་ན་མེད་པའི་རྒྱུད་བཅུ་བདུན་འབྱུང་བའི་ལྟས་སོ།
+<literal>extremely secret supreme tantra seventeen arise sign
+<liturgical><prose>Sign of seventeen extremely secret supreme tantras arising.
+
+[1336]
+<tibetan>།དེ་ནས་སྟོང་པ་དེ་ཉིད་རྣམ་པ་ཐམས་ཅད་མཁྱེན་པའི་སྤྱན་གྱིས་བསྟན་པ་དང་གདུལ་བྱ་ལ་གཟིགས་ནས།
+<literal>then emptiness that awareness form all know eye by-means-of show and taming object to gaze from
+<liturgical><prose>Then, awareness form all-knowing eye showing emptiness that, gazing at taming object,
+
+[1337]
+<tibetan>བསྟན་པ་ཀུན་ལ་སྔ་བ་སྒྲ་ཐལ་འགྱུར་རྩ་བའི་རྒྱུད་ཆེན་པོ་གསུངས་སོ།
+<literal>teaching all to early sound thalgyur root tantra great say
+<liturgical><prose>Say early to all teachings sound thalgyur great root tantra.
+
+[1338]
+<tibetan>།འདིའི་དུས་ན་སྐྱེ་དགུ་རྣམས་ཀྱི་ཚེ་ལོ་དཔག་ཏུ་མེད་ཅིང་ལུས་ལ་ཁྲུ་སུམ་ཅུ་རྩ་གཉིས་ཡོད་དེ།
+<literal>this time at beings life year measure without and body cubit thirty two exist
+<liturgical><prose>This time, beings' life years immeasurable, body thirty-two cubits, || 340 ||
+
+[1339]
+<tibetan>དེ་ནས་རིམ་གྱིས་བྲི་བ་ཡིན་ནོ།
+<literal>then gradually decline is
+<liturgical><prose>Then gradually decline.
+
+[1340]
+<tibetan>།དེ་ནས་འགྲོ་བ་ཡང་མང་དུ་འཕེལ།
+<literal>then beings also many expand
+<liturgical><prose>Then beings also many expand,
+
+[1341]
+<tibetan>ཚེ་ཡང་བགས་ཀྱིས་བྲི།
+<literal>life also gradually decline
+<liturgical><prose>Life also gradually decline,
+
+[1342]
+<tibetan>ལུས་ཀྱི་འོད་ལ་སོགས་པ་ཡང་ཡལ།
+<literal>body light etcetera also fade
+<liturgical><prose>Body light etcetera also fade,
+
+[1343]
+<tibetan>བསོད་ནམས་ཀྱང་ཆུང་ངུ་སོང་ཞིང༌།
+<literal>merit also small go and
+<liturgical><prose>Merit also small went.
+
+[1344]
+<tibetan>སྔོན་གྱི་ལས་ཀྱི་དབང་གིས་ཉོན་མོངས་པ་བག་ལ་ཉལ་ལངས་ཏེ་དཔལ་དང་གཟི་བརྗིད་དམན་པར་གྱུར་ཏོ།
+<literal>previous action power by-means-of afflictions latency arose and splendor and majesty low became
+<liturgical><prose>Previous action power, afflictions latency arose, splendor majesty became low.
+
+[1345]
+<tibetan>།འདིའི་དུས་ན་ཤར་གྱི་ལུས་འཕགས་གླིང་དུའང་ལྷ་ལས་མིར་མཆེད་དེ།
+<literal>this time at east body-elevated continent in-also god from human to increased and
+<liturgical><prose>This time, east Body-Elevated continent also, increased from gods to humans,
+
+[1346]
+<tibetan>རྫུས་སྐྱེས་ལས་མང་དུ་འཕེལ་ལོ།
+<literal>miraculously-born from many increased
+<liturgical><prose>Miraculously-born many increased.
+
+[1347]
+<tibetan>།དེ་ནས་བྱང་གི་སྒྲ་མི་སྙན་དུའང་མི་མཆེད་ཅིང༌།
+<literal>that from north sound-not-heard to-also human increased and
+<liturgical><prose>Then north Sound-Not-Heard also human increased,
+
+[1348]
+<tibetan>ནུབ་ཀྱི་བ་གླང་སྤྱོད་དུ་ཡང་མི་མཆེད་དོ།
+<literal>west cow-enjoyment to-also human increased
+<liturgical><prose>West Cow-Enjoyment also human increased. || 350 ||
+
+[1349]
+<tibetan>།དེའི་ཕྱིར་མི་རྣམས་ཀྱི་རིམ་པ་ནི་ཐོག་མར་འཛམ་བུའི་གླིང་དུ་བྱུང་བས་ལས་ཀྱི་ས་པའོ་ཞེས་གྲགས་སོ།
+<literal>that reason human plural sequence first Jambu continent in arisen by-means-of action ground named famous
+<liturgical><prose>Thus humans' sequence first arisen Jambu continent, famous as action ground.
+
+[1350]
+<tibetan>།དེ་ནས་འགྲོ་བ་དེ་དག་དགའ་བདེའི་བག་ལ་ཡེངས་པས་ཚེ་ལོ་ཡང་བྱེ་བ་ལ་ཐུག་པར་སོང་བ་ན་ཡུལ་གྱི་མིང་འཇིག་རྟེན་མི་མཇེད་ཅེས་བྱའོ།
+<literal>that from beings these joy-bliss latency distracted by-means-of life year also hundred-million to reached went land name world-not-endurable named
+<liturgical><prose>Then those beings distracted by joy-bliss latency, life years reached hundred-million, land name called World-Endurable.
+
+[1351]
+<tibetan>།དེའི་ཚེ་འགྲོ་བ་དེ་དག་ཀྱང་འོད་ཀྱི་སྒོ་ང་ལས་སྐྱེ་ཞིང༌།
+<literal>that time beings these also light egg from born and
+<liturgical><prose>That time those beings also born from light egg,
+
+[1352]
+<tibetan>འོད་ནི་མིའི་འདོམ་བདུན་དུ་གསལ་བས་ནམ་མཁའ་ལ་འགྲོ་ཞིང༌།
+<literal>light human fathom seven to clear by-means-of sky in go and
+<liturgical><prose>Light clear seven human fathoms, going to sky,
+
+[1353]
+<tibetan>ཟས་སུ་ནི་འབྱུང་བའི་དངས་མ་ཟ་ལ།
+<literal>food to elements essence eat and
+<liturgical><prose>Food eat elements essence,
+
+[1354]
+<tibetan>གོས་མེད་གཅེར་བུར་གྱུར་པས་དྲི་མ་ཆགས་པ་འཁྲུད་པའི་རྫིང་བུ་བཟང་པོའང་ཡོད་པར་གྱུར་ཏོ།
+<literal>clothes without naked became by-means-of stain attached wash lake good also exist became
+<liturgical><prose>Became naked without clothes, good lake to wash attached stain also exist.
+
+[1355]
+<tibetan>།དེ་དག་ཀྱང་རང་བཞིན་གྱིས་དགེ་བ་བཅུ་ལ་སྤྱོད་པ་ཤ་སྟག་གོ
+<literal>these also nature by-means-of virtue ten to engage merely
+<liturgical><break><prose> These also merely engage in ten virtues by nature.
+
+[1356]
+<tibetan>།དེ་ནས་སྔོན་གྱི་ལས་ཀྱི་སྟོབས་ཀྱིས་ཚེ་ཡང་བགས་ཀྱིས་བྲི།
+<literal>that from previous action power by-means-of life also gradually decreased
+<liturgical><break><prose> Then by previous action power, life also gradually decrease,
+
+[1357]
+<tibetan>འོད་དང་བསོད་ནམས་ཀྱང་ཉམས་པར་གྱུར་པ་ན།
+<literal>light and merit also degenerated became
+<liturgical><prose>Light and merit also degenerated,
+
+[1358]
+<tibetan>ཡུལ་གྱི་མིང་དྲོད་གཤེར་འདུས་པ་འོད་གྱིས་སྤུངས་པ་ཞེས་བྱའོ།
+<literal>land name heat-moisture gathered light by-means-of gathered named
+<liturgical><prose>Land name called Heat-Moisture Gathered Light-Gathered. || 360 ||
+
+[1359]
+<tibetan>།དེའི་དུས་ན་འབྱུང་བ་ཚ་བས་དྲོད་བྱས་གྲངས་པས་རྒྱུ་དང་རྐྱེན་དུ་གྱུར་ནས་འགྲོ་བ་ཐམས་ཅད་ཤིང་གི་ཟིལ་པ་ལས་དྲོད་གཤེར་སྐྱེས་སུ་གྱུར་ཏེ།
+<literal>that time at elements hot by-means-of heat made cool by-means-of cause and condition to became beings all tree sap from heat-moisture birth to became
+<liturgical><prose>That time elements hot made heat, cool became cause condition, beings all birth from tree sap heat-moisture,
+
+[1360]
+<tibetan>འདིའི་དུས་སུ་ཚེ་ལོ་ཡང་འབུམ་ལ་ཐུག་ཅིང་ཟས་སུ་ལྗོན་ཤིང་གི་འབྲས་བུ་ཟ།
+<literal>this time at life year also hundred-thousand to reached and food to tree fruit eat
+<liturgical><prose>This time life years reached hundred-thousand, food eat tree fruit,
+
+[1361]
+<tibetan>གོས་སུ་ཤིང་ལོ་བཟང་པོ་གྱོན་ཞིང༌།
+<literal>clothes to tree-leaf good wear and
+<liturgical><prose>Clothes wear good tree-leaf,
+
+[1362]
+<tibetan>མི་རེ་སྐྱེ་བ་དང་ཤིང་རེ་འབྱུང་ངོ༌།
+<literal>human each birth and tree each arisen
+<liturgical><prose>Each human birth, each tree arisen.
+
+[1363]
+<tibetan>།ཕོ་མོའི་དབང་པོ་ནི་མ་དོད།
+<literal>male-female sense-power not-yet-opened
+<liturgical><prose>Male-female sense-power not-yet-opened,
+
+[1364]
+<tibetan>གཅིག་ལ་གཅིག་མཐོང་ན་དགའ་ཞིང་རེག་ན་བདེ་བ་ཙམ་མོ།
+<literal>one to one see if joy and touch if pleasure merely
+<liturgical><prose>One see one joy, touch merely pleasure.
+
+[1365]
+<tibetan>།དེ་ནས་བསོད་ནམས་བགས་ཀྱིས་བྲི་སྟེ།
+<literal>that from merit gradually decreased and
+<liturgical><prose>Then merit gradually decreased,
+
+[1366]
+<tibetan>ཚེ་ལོ་ཡང་བརྒྱད་ཁྲི་ལ་ཐུག་པ་ན།
+<literal>life year also eighty-thousand to reached time at
+<liturgical><prose>Life years reached eighty-thousand,
+
+[1367]
+<tibetan>ཡུལ་གྱི་མིང་ནི་ཆགས་འབྱུང་མངལ་དུ་སྣང་བ་ཞེས་བྱའོ།
+<literal>land name attachment-arising womb in appearance named
+<liturgical><prose>Land name called Attachment-Arising Womb-Appearance.
+
+[1368]
+<tibetan>།འགྲོ་བ་དེ་དག་ཉོན་མོངས་པ་མངོན་དུ་རྒྱུ་ལངས་པའི་མགོ་བཙུགས་ཏེ།
+<literal>beings these afflictions manifest move arose of beginning made and
+<liturgical><prose>Those beings afflictions manifest move arose beginning made, || 370 ||
+
+[1369]
+<tibetan>ལས་ཀྱི་དབང་གིས་ཕོ་མོའི་དབང་པོའི་སྒོ་དོད་པ་ཙམ་དུ་གྱུར།
+<literal>action power by-means-of male-female sense-power aperture open merely became
+<liturgical><prose>Action power male-female sense-power aperture open merely became.
+
+[1370]
+<tibetan>གཅིག་ལ་གཅིག་བལྟ་བ་དང་རེག་པ་དང་དགོད་པའི་འདོད་ཆགས་བྱུང་ཞིང་འགྲོ་བ་ཡང་མངལ་ནས་སྐྱེས་པ་ལས་མང་དུ་འཕེལ་ལོ།
+<literal>one to one look and touch and laugh desire arose and beings also womb from born from many increased
+<liturgical><prose>Desire arose for looking, touching, laughing one to one, beings also increased greatly from womb-born.
+
+[1371]
+<tibetan>།འདིའི་དུས་ན་འོད་རང་གསལ་ཙམ་ལ་ཟས་གོས་ཤིང་ལ་སྤྱོད་ཅིང་འདོད་འཇོའི་བ་དང་ཅང་ཤེས་ཀྱི་རྟ་ཡང་ཡོད་དོ།
+<literal>this time at light self-clear merely to food clothes tree on enjoy and desire-satisfying cow and sensible horse also exist
+<liturgical><prose>This time, merely self-clear light, enjoy food clothes on tree, exist desire-satisfying cow and sensible horse.
+
+[1372]
+<tibetan>།དེ་ནས་བསོད་ནམས་བྲི་སྟེ།
+<literal>that from merit decreased and
+<liturgical><prose>Then merit decreased,
+
+[1373]
+<tibetan>ཉོན་མོངས་པ་ཞེ་སྡང་བྱུང་བས་གཅིག་གིས་གཅིག་གསོད་པའི་ལས་ཀྱིས་སྔར་གྱི་ཡོན་ཏན་རྣམས་ནུབ་ཅིང༌།
+<literal>afflictions anger arose by-means-of one by-means-of one killing action by-means-of before qualities plural submerged and
+<liturgical><prose>Anger affliction arose, killing one by one, before qualities submerged by action,
+
+[1374]
+<tibetan>བལྟ་བ་དང་དགོད་པ་དང་རེག་པ་ལས་མང་དུ་མཆེད་པ་ཐམས་ཅད་ཀྱང་ས་ལ་སོར་བཞིས་མ་རེག་པར་འགྲོ་ལ།
+<literal>look and laugh and touch from many increased all also earth on finger-fourth not-touching to go and
+<liturgical><prose>All increased from looking, laughing, touching, go on earth not touching fourth finger,
+
+[1375]
+<tibetan>ཟས་སུ་སའི་ཚིལ་ཞག་བཟང་པོ་སྦྲང་རྩིའི་རོ་འདྲ་བ་ཟ་ཞིང་ཤིང་བལ་འཇམ་པོ་དག་གོས་སུ་གྱོན་ནོ།
+<literal>food to earth fat essence good honey taste like eat and tree-fiber soft plural clothes to wear
+<liturgical><prose>Food eat good earth fat essence like honey taste, wear soft tree-fiber clothes.
+
+[1376]
+<tibetan>།འདིའི་དུས་སུ་འོད་ཀྱང་མོག་མོག་པོར་སོང་ནས་རབ་ཏུ་མི་གསལ་ཞིང༌།
+<literal>this time at light also dim became and thoroughly not-clear and
+<liturgical><prose>This time light became dim, thoroughly not clear,
+
+[1377]
+<tibetan>གཟུགས་ངད་ལང་ཚོ་ཡང་སྔོན་པས་མི་མཛེས་སོ།
+<literal>form vitality youth also before by-means-of not-beautiful
+<liturgical><prose>Form vitality youth not beautiful before.
+
+[1378]
+<tibetan>།དེ་ནས་རིང་ཞིག་ན་མི་འགའ་ཞིག་གིས་ས་ཞག་དེ་ནམ་འདོད་ཙམ་ན་མ་བླངས་པར་ཞག་དང་ཟླ་བ་དང་ལོའི་གསོག་འཇོག་བྱས་པ་ཐམས་ཅད་ཀྱིས་དེ་ལེགས་སོ་ཞེས་རྗེས་སུ་བསླབས་པས་ནུབ་ནས།
+<literal>that from long after human some earth essence that when desire merely to not-taken day and month and year storing did all by-means-of that good said imitate from evening from
+<liturgical><prose>Long after, some human not taken when desired earth essence, all storing day month year, imitated saying good, evening, || 380 ||
+
+[1379]
+<tibetan>བར་དེར་མུ་གེ་དང་མུན་པའི་དུས་ལོ་མང་ཞིག་བྱུང་ངོ༌།
+<literal>between there famine and darkness time year many arose
+<liturgical><prose>Between there many famine darkness time years arose.
+
+[1380]
+<tibetan>།དེ་ནས་འགྲོ་བ་སྤྱི་མཐུན་གྱི་བསོད་ནམས་ལས་ནམ་མཁའ་ལ་ཉི་མ་ཤར་བའི་སྣང་བ་འབྱུང་སྟེ།
+<literal>that from beings common merit from sky in sun arisen light arisen and
+<liturgical><prose>Then from beings common merit, sun arisen light arose in sky,
+
+[1381]
+<tibetan>འདི་ན་ཉེ་འདི་ན་རིང་ཞེས་པ་མི་འདུག་པས།
+<literal>here near here far said not-sit by-means-of
+<liturgical><prose>Not sit saying here near here far,
+
+[1382]
+<tibetan>ཉི་མ་ཞེས་མཉེ་བར་ཕན་འདོགས་པའི་མིང་དུ་གྲགས་སོ།
+<literal>sun named near benefit-doing name famous
+<liturgical><prose>Sun famous name near benefit-doing.
+
+[1383]
+<tibetan>།དེ་ནས་དེ་ནུབ་པ་དང་མཚན་མོ་ཞེས་བཏགས་ཤིང༌།
+<literal>that from that set and night named
+<liturgical><prose>Then that set, named night,
+
+[1384]
+<tibetan>མུན་པ་སངས་པར་སྨོན་པ་ལས།
+<literal>darkness cleared hope from
+<liturgical><tantra>From hope darkness cleared,
+
+[1385]
+<tibetan>ཟླ་བ་ཡང་དེ་དང་འདྲ་བར་ཤར་བ་ལས།
+<literal>moon also that with similar arisen from
+<liturgical><prose>Moon also similar arisen with that,
+
+[1386]
+<tibetan>འདི་ཡང་དེའི་ཟླ་བོར་འདུག་ཅེས་ཟླ་བར་གྲགས་སོ།
+<literal>this also that companion sit said moon famous
+<liturgical><prose>This also sits as that companion, moon famous.
+
+[1387]
+<tibetan>།དེའི་དུས་ན་ཟླ་བ་ཡང་མཚན་མོ་རིལ་གྱི་དྲོད་དང་ལྡན་པར་འཆར་བ་ལ།
+<literal>that time at moon also night entire heat possessing to arisen to
+<liturgical><prose>That time moon also arisen possessing night entire heat,
+
+[1388]
+<tibetan>འགྲོ་བ་ཕལ་མོ་ཆེས་འདི་ནི་བསིལ་བར་གྱུར་ཅིག་ཅེས་སྨོན་པས།
+<literal>beings most this cool become wish by-means-of
+<liturgical><prose>Most beings wish this become cool, || 390 ||
+
+[1389]
+<tibetan>དྲོ་བ་མེད་དེ་བསིལ་བར་གྱུར་ཏོ།
+<literal>heat not cool became
+<liturgical><prose>No heat became cool.
+
+[1390]
+<tibetan>།ཡང་ལ་ལས་ཧ་ཅང་བསིལ་བས་གདུངས་པ་མ་བཟོད་དེ།
+<literal>again some very cool by-means-of tormented endured not
+<liturgical><prose>Again some tormented by very cool, not endured,
+
+[1391]
+<tibetan>འདི་བས་མི་བསིལ་བར་གྱུར་ཅིག་ཅེས་བརྗོད་པས་ཟླ་བ་དེ་ཡར་སྐྱེ་མར་འགྲིབ་ཏུ་གྱུར་ཏོ།
+<literal>this from not-cool become said speak by-means-of moon that waxing waning became
+<liturgical><prose>Moon that waxing waning became by saying become not cool from this.
+
+[1392]
+<tibetan>།དེའི་དུས་ན་མ་རྨོས་རང་འཁྲུངས་ཀྱི་འབྲས་སཱ་ལུའི་ཞིང་ནང་རྔས་ནང་སྐྱེ་ལ་ནུབ་རྔས་ནུབ་སྐྱེ་བ་ཟས་སུ་བྱུང་བ་ལོངས་སྤྱད་པས།
+<literal>that time at not-plowed self-grown grain sA-lu field inside day-seed inside grow and evening-seed evening grow food to enjoy by-means-of
+<liturgical><prose>That time, not plowed self-grown, enjoy food sA-lu grain field day-seed grow inside, evening-seed evening grow.
+
+[1393]
+<tibetan>ལུས་མདངས་སྟོབས་དང་ལྡན་ནས་དབང་པོ་སྒོ་སྦྱོར་པའི་འདོད་ཆགས་ལ་སྤྱོད་པ་ན།
+<literal>body radiance power possessing and sense-power aperture-joining desire engage time at
+<liturgical><prose>Body radiance power possessing, engage desire joining sense-power aperture,
+
+[1394]
+<tibetan>ལ་ལས་དབྱུག་པ་དང་བོང་བ་དང་ས་དང་རྡོ་བ་དག་འཕངས་པ་ལ་ངོ་ཚ་ནས།
+<literal>some stick and club and earth and stone plural threw time at shame from
+<liturgical><prose>Some shame from throwing stick club earth stone,
+
+[1395]
+<tibetan>ཤིང་དང་རྡོ་ལ་སོགས་པས་སྐྱོར་བ་ན།
+<literal>tree and stone etc. by-means-of supported time at
+<liturgical><prose>Supported by tree stone etc.,
+
+[1396]
+<tibetan>བདུད་རྩིའི་ཆར་བབས་པ་ལས་འཇག་མ་བཀབ་པས།
+<literal>nectar rain fell thatch covered by-means-of
+<liturgical><prose>Covered by thatch from nectar rain fell,
+
+[1397]
+<tibetan>ཁྱིམ་ལ་སྔ་བ་འཇག་ཁྱིམ་སྐྱིལ་པོ་ཞེས་བྱ་བ་བྱུང་ངོ༌།
+<literal>house to early thatch-house round named arisen
+<liturgical><prose>Arisen round thatch-house early to house.
+
+[1398]
+<tibetan>།དེ་ནས་འབྲས་ཀྱི་ཞིང་ལ་གསོག་འཇོག་ཏུ་བྱས་པས་ཉུང་དུ་སོང་སྟེ་མ་སྐྱེས་པ་ན།
+<literal>that from grain field to storing do made by-means-of few became not-born time at
+<liturgical><prose>Then storing to grain field, became few not born, || 400 ||
+
+[1399]
+<tibetan>ང་རྒྱལ་ཅན་ཅིག་གིས་འདི་ཚུན་ཆད་ང་དབང་ངོ་ཞེས་རིས་སུ་བཅད་པ་ན།
+<literal>pride possessing one this until I control said division made time at
+<liturgical><prose>Pride-possessing one said I control this until, made division,
+
+[1400]
+<tibetan>ཐམས་ཅད་ཀྱིས་དེ་ལྟར་བྱས་པས་བསོད་ནམས་ཆུང་བ་རྣམས་ཀྱི་ཞིང་ངན་པས་མ་སོས་ནས།
+<literal>all by-means-of that like do made by-means-of merit small plural field bad by-means-of not-survived from
+<liturgical><prose>All did like that, small merit ones not survived by bad field,
+
+[1401]
+<tibetan>གཞན་ལ་བརྐུས་པས་ཉོན་མོངས་པ་འདོད་ཆགས་དང་ཞེ་སྡང་དང་གཏི་མུག་དང་ང་རྒྱལ་དང་ཕྲག་དོག་ཀུན་ཚང་སྟེ།
+<literal>other to steal by-means-of afflictions desire and anger and delusion and pride and jealousy all complete and
+<liturgical><prose>All afflictions complete by stealing other: desire, anger, delusion, pride, jealousy,
+
+[1402]
+<tibetan>ལས་ཀྱི་དབང་གིས་དེ་ཡང་ནུབ་བོ།
+<literal>action power by-means-of that also submerged
+<liturgical><prose>That also submerged by action power.
+
+[1403]
+<tibetan>།འདིའི་དུས་ན་རིགས་བཟང་བ་ཅིག་གིས་འབྲས་ལྷག་མ་ཆ་བགོས་ནས་བཀྱེ་བས།
+<literal>this time at family good one grain remainder share distribute made by-means-of
+<liturgical><prose>This time good family one distributed grain remainder share,
+
+[1404]
+<tibetan>རང་གི་སྐལ་བ་ཆད་པ་ལ་ཐམས་ཅད་མགུ་ནས།
+<literal>self fortune cut all satisfied from
+<liturgical><prose>All satisfied at self fortune cut,
+
+[1405]
+<tibetan>རྒྱལ་པོར་བསྐོས་པས་མང་པོས་བཀུར་བའི་རྒྱལ་པོ་ཞེས་བྱ་བ་བྱུང་ངོ༌།
+<literal>king to appointed by-means-of many by-means-of honored king named arisen
+<liturgical><prose>Arisen king named many-honored king by appointed.
+
+[1406]
+<tibetan>།དེ་ནས་ཤིང་གི་ཐོང་པས་རི་ལ་བརྐོས་ཏེ་གཟེ་ཀ་ཅུང་ཟད་བཏབ་པ་ལས་འབྲུ་ལ་སྔ་བ་སོ་ག་བྱུང་ངོ༌།
+<literal>that from tree hollow by-means-of mountain to dug field-hoe slightly struck from grain early ripening arisen
+<liturgical><prose>Then dug mountain by tree hollow, struck slightly field-hoe, arisen early ripening grain.
+
+[1407]
+<tibetan>།དེ་ནས་ཞིང་གི་ལས་ཆེར་བྱས་ཏེ།
+<literal>that from field action much did and
+<liturgical><prose>Then much field action,
+
+[1408]
+<tibetan>གྲོང་དང་ལྗོངས་དང༌།
+<literal>village and country and
+<liturgical><prose>Village country, || 410 ||
+
+[1409]
+<tibetan>གྲོང་ཁྱེར་དཔག་ཏུ་མེད་པ་བྱུང་སྟེ།
+<literal>city countless arose and
+<liturgical><prose>Countless cities arose,
+
+[1410]
+<tibetan>འཛམ་བུའི་གླིང་འདི་བྱ་གག་སྤར་བའི་ཚོད་ཙམ་ན་གྲོང་ཁྱེར་གྱིས་གང་བས་འབྱོར་པ་རྒྱས་པ།
+<literal>Jambu continent this chicken spread measure merely city by-means-of filled by-means-of prosperity spread
+<liturgical><prose>This Jambu continent merely chicken spread measure, filled by city, spread prosperity,
+
+[1411]
+<tibetan>ལོ་ལེགས་པ།
+<literal>harvest good
+<liturgical><prose>Good harvest,
+
+[1412]
+<tibetan>སྐྱེ་བོ་དང་མི་མང་པོས་གང་བ་བྱུང་ངོ༌།
+<literal>people and human many by-means-of filled arose
+<liturgical><prose>Arisen filled by people many humans.
+
+[1413]
+<tibetan>།དེ་ནས་ངན་སོང་ཇི་ལྟར་ཆགས་པའི་ཚུལ་ནི།
+<literal>that from lower-realms how formed manner is
+<liturgical><prose>Then manner how lower-realms formed:
+
+[1414]
+<tibetan>མིའི་རྟེན་ལ་དུག་གསུམ་གྱི་ལས་བསགས་པའི་དབང་གིས་བྱུང་སྟེ།
+<literal>human basis on three-poisons action accumulated power by-means-of arose and
+<liturgical><prose>Arose by power of accumulated three-poisons action on human basis,
+
+[1415]
+<tibetan>ཞེ་སྡང་གི་ལས་ལྷག་པར་བསགས་ཤིང་དམྱལ་བའི་བདག་པོར་སྐྱེ་བའི་སྐྱེས་བུ་ཞིག་ཐོག་མར་མནར་མེད་པའི་གནས་སུ་གཤིན་རྗེའི་རྒྱལ་པོར་སྐྱེས་པ་ན།
+<literal>anger action especially accumulated and hell lord to birth person one first unrelenting place to Yama king born time at
+<liturgical><prose>Especially accumulated anger action, one person birth to hell lord, first born Yama-king unrelenting place,
+
+[1416]
+<tibetan>དེའི་འཁོར་གྱི་ལས་བསགས་པའི་བྱ་དང་ཁྱི་དང་དམྱལ་སྲུངས་མང་པོ་དང༌།
+<literal>that surrounding action accumulated bird and dog and hell-guard many and
+<liturgical><prose>Many bird dog hell-guard surrounding action accumulated,
+
+[1417]
+<tibetan>དམྱལ་བའི་སྡུག་བསྔལ་ལ་དངོས་སུ་སྤྱོད་པའི་སེམས་ཅན་མང་པོ་ཡང་བྱུང་ངོ༌།
+<literal>hell suffering to actually engage sentient-beings many also arose
+<liturgical><prose>Many sentient-beings also arose actually engaging hell suffering.
+
+[1418]
+<tibetan>།དེ་ནས་ཚ་བའི་དམྱལ་བ་བརྒྱད་པོ་ཀུན་དང༌།
+<literal>that from hot hell eight all and
+<liturgical><prose>Then all eight hot hells, || 420 ||
+
+[1419]
+<tibetan>དེའི་འདབས་འབྱོར་ན་གྲང་བའི་དམྱལ་བ་བརྒྱད།
+<literal>that periphery complete if cold hell eight
+<liturgical><prose>If periphery complete, eight cold hells.
+
+[1420]
+<tibetan>ཉི་ཚེ་ཉེ་འཁོར་བ་དང་བཅས་པ་ཡང་བྱུང་ངོ༌།
+<literal>instant vicinity and also arose
+<liturgical><prose>Instant vicinity and also arose.
+
+[1421]
+<tibetan>།དེ་ནས་འདོད་ཆགས་ལྷག་པའི་ལས་ཀྱི་ཡི་དྭགས་དང༌།
+<literal>then desire excess action preta and
+<liturgical><prose>Then desire-excess action's preta and
+
+[1422]
+<tibetan>གཏི་མུག་ལྷག་པས་དུད་འགྲོ་རྣམས་སུ་སོ་སོར་སྨིན་ཞིང་ཆགས་སོ།
+<literal>delusion excess animals in individually ripened and attached
+<liturgical><prose>Delusion-excess animals individually ripened and attached.
+
+[1423]
+<tibetan>།འདི་དག་གི་ཚེ་ཚད་ཀྱང་རྣམ་པ་ཐ་དད་པ་ལས།
+<literal>these life measure also type various from
+<liturgical><prose>These life's measure various types:
+
+[1424]
+<tibetan>དང་པོ་ཚ་དམྱལ་བརྒྱད་ཀྱི་ཡང་སོས་ཀྱིས་མི་ལོ་ལྔ་བཅུ་རྒྱལ་ཆེན་བཞིའི་ཞག་གཅིག་ཏུ་བྱས་པའི་ཞག་སུམ་ཅུ་ལ་ཟླ་བ་གཅིག
+<literal>first hot hells eight Reviving human-years fifty Great-king four day one made days thirty month one
+<liturgical><prose>First, the eight hot hells: The Reviving Hell—human years fifty constitute one day for the Four Great Kings,
+
+[1425]
+<tibetan>།ཟླ་བ་བཅུ་གཉིས་ལ་ལོ་གཅིག་ཏུ་བརྩིས་པའི་ལོ་ལྔ་བརྒྱ་རིལ་པོ་ཡང་སོས་ཀྱི་ཞག་གཅིག་ཏུ་བརྩིས་པའི་རང་ལོ་ལྔ་བརྒྱ་ཐུབ་བོ།
+<literal>months twelve year one calculated years five-hundred Reviving day one calculated own-years five-hundred enduring
+<liturgical><prose>Twelve months make one year; calculated thus, five hundred years equal one day in Rīrava, the Reviving Hell, enduring five hundred of its own years.
+
+[1426]
+<tibetan>།དེ་བཞིན་དུ་སུམ་ཅུ་རྩ་གསུམ་པའི་ལོ་སྟོང་ཐིག་ནག་གི་ཞག་གཅིག་ཏུ་བརྩིས་པའི་རང་ལོ་སྟོང་དང༌།
+<literal>likewise thirty-three years thousand Kālakāñja day one calculated own-years thousand and
+<liturgical><prose>Likewise, one thousand years of the Thirty-Three Gods equal one day in Kālakāñja, calculated thus, one thousand of its own years,
+
+[1427]
+<tibetan>མཚེ་མའི་ཉིས་སྟོང་བསྡུས་འཇོམས་ཀྱི་ཞག་གཅིག་ཏུ་བྱས་ཏེ་རང་ལོ་ཉིས་སྟོང་དང༌།
+<literal>Saṃghāta two-thousand Saṃghāta day one made own-years two-thousand and
+<liturgical><prose>Two thousand for Tuṣita equal one day in Saṃghāta, thus calculated, two thousand of its own years,
+
+[1428]
+<tibetan>དགའ་ལྡན་གྱི་བཞི་སྟོང་ངུ་འབོད་ཀྱི་ཞག་གཅིག་ཏུ་བརྩིས་པའི་རང་ལོ་བཞི་སྟོང་དང༌།
+<literal>Tuṣita four-thousand Raurava day one calculated own-years four-thousand and
+<liturgical><prose>Four thousand for Nirmanarati equal one day in Raurava, calculated thus, four thousand of its own years,
+
+[1429]
+<tibetan>འཕྲུལ་དགའི་བརྒྱད་སྟོང་ངུ་འབོད་ཆེན་པོའི་ཞག་གཅིག་ཏུ་བྱས་པའི་རང་ལོ་བརྒྱད་སྟོང་དང༌།
+<literal>Nirmanarati eight-thousand Mahāraurava day one made own-years eight-thousand and
+<liturgical><prose>Hence, eight thousand for Paranirmitavaśavartin equal one day in Mahāraurava, thus calculated, sixteen thousand of its own years,
+
+[1430]
+<tibetan>གཞན་འཕྲུལ་དབང་བྱེད་ཀྱི་ཀྱི་ལོ་ཁྲི་དྲུག་སྟོང་ཚ་བའི་ཞག་གཅིག་ཏུ་བརྩིས་པའི་རང་ལོ་ཁྲི་དྲུག་སྟོང་དང༌།
+<literal>Paranirmitavaśavartin years sixteen-thousand Pratāpana day one calculated own-years sixteen-thousand and
+<liturgical><prose>Half an intermediate age for Mahātāpana,
+
+[1431]
+<tibetan>རབ་ཏུ་ཚ་བ་བར་གྱི་བསྐལ་པ་ཕྱེད་དང༌།
+<literal>Mahātāpana intermediate-ages half and
+<liturgical><prose>One intermediate age for Avīci, where beings engage in long suffering.
+
+[1432]
+<tibetan>མནར་མེད་བར་བསྐལ་གཅིག་སྟེ་སྡུག་བསྔལ་རྒྱུན་རིང་པོ་ལ་སྤྱོད་དོ།
+<literal>Avīci intermediate-age one suffering long engaging
+<liturgical><prose>Arbuda and Arbudanirbheda,
+
+[1433]
+<tibetan>།ཆུ་བུར་ཅན་དང་ཆུ་བུར་རྡོལ་བ་ཅན་དང༌།
+<literal>Arbuda and Arbudanirbheda and
+<liturgical><prose>Aṭaṭa, || 10 ||
+
+[1434]
+<tibetan>ཨ་ཆུ་ཟེར་བ་དང༌།
+<literal>Aṭaṭa and
+<liturgical><prose>Hahava,
+
+[1435]
+<tibetan>ཀྱི་ཧུད་ཟེར་བ་དང༌།
+<literal>Hahava and
+<liturgical><prose>Huhuva,
+
+[1436]
+<tibetan>སོ་ཐམ་ཐམ་པ་དང༌།
+<literal>Huhuva and
+<liturgical><prose>Utpala-like splitting,
+
+[1437]
+<tibetan>པདྨ་ལྟར་གས་པ་དང༌།
+<literal>Utpala-like splitting and
+<liturgical><prose>Padma-like splitting,
+
+[1438]
+<tibetan>ཨུཏྤལ་ལྟར་གས་པ་དང༌།
+<literal>Padma-like splitting and
+<liturgical><prose>Mahāpadma-like splitting—
+
+[1439]
+<tibetan>པདྨ་ཆེན་པོ་ལྟར་གས་པ་སྟེ།
+<literal>Mahāpadma-like splitting
+<liturgical><prose>These eight cold hells' life measure:
+
+[1440]
+<tibetan>གྲང་དམྱལ་བརྒྱད་ཀྱི་ཚེ་ཚད་ལ།
+<literal>cold hells eight life measure
+<liturgical><prose>The load capacity of Kosala's cart filled with sesame, removing one grain each hundred human years,
+
+[1441]
+<tibetan>ཀོ་ས་ལའི་ཁལ་བརྒྱ་ཤོང་བའི་ཏིལ་སྦྱང་ནས་ཏིལ་ཉག་མ་རེ་ཕྱིར་བྱུང་བ་དང༌།
+<literal>Kosala load hundred capacity sesame husked sesame single grain each arising and
+<liturgical><prose>When a hundred years have passed and the sesame husking is exhausted, Arbuda's life is exhausted,
+
+[1442]
+<tibetan>མི་ལོ་བརྒྱ་སོང་བ་སྤེལ་བས་ཏིལ་སྦྱང་ཟད་པ་ན་ཆུ་བུར་ཅན་གྱི་ཚེ་ཟད་པར་འགྱུར་ལ།
+<literal>human-years hundred passed increasing sesame husking exhausted when Arbuda life exhausted becomes
+<liturgical><prose>The remaining twenty times as long—thus one should know.
+
+[1443]
+<tibetan>ལྷག་མ་རྣམས་ནི་ཉི་ཤུ་འགྱུར་གྱིས་རིང་བ་ཡིན་པར་ཤེས་པར་བྱའོ།
+<literal>remaining twenty-times long is known
+<liturgical><prose>The Preta's life: human years one hundred, one day calculated thus, enduring five hundred of its own years, || 20 ||
+
+[1444]
+<tibetan>།ཡི་དྭགས་ཀྱི་ཚེ་ནི་མི་ལོ་བརྒྱ་ལ་ཉིན་ཞག་གཅིག་ཏུ་བརྩིས་པའི་རང་ལོ་ལྔ་བརྒྱ་ཐུབ་ལ།
+<literal>preta life human-years hundred day one calculated own-years five-hundred enduring
+<liturgical><prose>Animals' lifespan is indefinite,
+
+[1445]
+<tibetan>དུད་འགྲོ་རྣམས་ནི་གཅིག་ཏུ་མ་ངེས་ཏེ།
+<literal>animals not-definite
+<liturgical><prose>The great eight nāgas and so forth each endure for intermediate ages:
+
+[1446]
+<tibetan>ཀླུ་ཆེན་པོ་བརྒྱད་ལ་སོགས་པ་བར་བསྐལ་རེ་ཐུབ་པའང་ཡོད་ལ།
+<literal>nagas great eight and so forth intermediate-age each enduring also exists
+<liturgical><prose>Bees and so forth exist merely for an instant, flourishing not even for a single day.
+
+[1447]
+<tibetan>སྦྲང་མ་ལ་སོགས་པ་སྐད་ཅིག་དར་རེ་ཉིན་རེ་ཙམ་ལས་མི་ཐུབ་པ་ཡང་ཡོད་དོ།
+<literal>bee etc. instant flourish day merely cannot also exist
+<liturgical><break>།
+
+[1448]
+<tibetan>།དེ་ལྟར་ན་བསྐལ་པ་དང་པོ་ཆགས་པར་རྩོམ་པ་ནས།
+<literal>thus eon first form begin from
+<liturgical><prose>Thus, from the first eon begin to form,
+
+[1449]
+<tibetan>མནར་མེད་དུ་སེམས་ཅན་གཅིག་དམྱལ་བའི་སྡུག་བསྔལ་མྱོང་བ་ལ་སྐྱེས་པའི་བར་ལ་ཆགས་པའི་བསྐལ་པ་ཞེས་བྱ་སྟེ།
+<literal>unrelenting to being one hell suffering experience birth to birth until formed eon named
+<liturgical><prose>Called the formed eon, from birth until one being experiences the unrelenting suffering of hell.
+
+[1450]
+<tibetan>སྣོད་བཅུད་ཀྱི་རིམ་པས་སྟོང་གསུམ་པོ་འདི་མཉམ་དུ་ཆགས་སོ།
+<literal>vessel essence sequence by-means-of three-thousand this simultaneous to formed
+<liturgical><prose>Three thousand worlds simultaneously formed by the sequence of vessel and essence.
+
+[1451]
+<tibetan>།དེ་ཡང་གླིང་བཞི་རི་རབ་ཚངས་པའི་བར་སྟོང་ལ་སྟོང་དང་པོ་སྤྱི་ཕུད་ཀྱི་འཇིག་རྟེན།
+<literal>that also continent four Meru brahma between empty thousand first foremost world
+<liturgical><prose>That also: between the four continents, Meru, and Brahmā's realm, empty—the first thousand, the foremost world.
+
+[1452]
+<tibetan>དེ་སྟོང་ལ་སྟོང་གཉིས་པ་བར་མའི་འཇིག་རྟེན།
+<literal>that thousand to thousand second intermediate world
+<liturgical><prose>To that thousand, a thousand more constitute the second intermediate world.
+
+[1453]
+<tibetan>དེ་སྟོང་ལ་སྟོང་གསུམ་གྱི་སྟོང་ཆེན་པོའི་འཇིག་རྟེན་ནོ།
+<literal>that thousand to thousand three great-thousand great world
+<liturgical><prose>To that thousand, a thousand three constitute the great-thousand, the great world. || 30 ||
+
+[1454]
+<tibetan>།འདི་ན་རི་རབ་ལ་སོགས་པ་བྱེ་བ་ཕྲག་བརྒྱ་བརྒྱ་གནས་སོ།
+<literal>this in Meru etc. ten-million hundred-hundred dwell
+<liturgical><prose>In this dwell ten million times a hundred Merus and so forth.
+
+[1455]
+<tibetan>།འདི་དག་འཆགས་པའི་ཡུན་ལ་བར་བསྐལ་ཉི་ཤུ་ཡོད་དོ།
+<literal>these form duration intermediate eon twenty exist
+<liturgical><prose>These forms endure for twenty intermediate eons.
+
+[1456]
+<tibetan>།དེ་ནས་གནས་པའི་བར་བསྐལ་ཉི་ཤུ་ནི།
+<literal>that from abiding intermediate eon twenty is
+<liturgical><prose>Of these, abiding for twenty intermediate eons:
+
+[1457]
+<tibetan>འགྲིབ་པ་གཅིག་དང༌།
+<literal>decrease one and
+<liturgical><prose>Decrease for one,
+
+[1458]
+<tibetan>འཕེལ་འགྲིབ་བཅོ་བརྒྱད་དང༌།
+<literal>increase-decrease eighteen and
+<liturgical><prose>Increase and decrease for eighteen,
+
+[1459]
+<tibetan>འཕེལ་བ་གཅིག་སྟེ་རྣམ་པ་གསུམ་ལས་དང་པོ་ནི།
+<literal>increase one manner three from first is
+<liturgical><prose>Increase for one—three manners. First:
+
+[1460]
+<tibetan>ཚེ་ལོ་དཔག་མེད་ནས་བརྒྱད་ཁྲིའི་བར་དུ་ལོས་ཉིས་བརྒྱ་ན་རེ་རེ་འབྲིའོ།
+<literal>life year measureless from eighty-thousand until year two-hundred each-one decrease
+<liturgical><prose>Life's measure from immeasurable to eighty thousand, decreasing by two hundred years each time.
+
+[1461]
+<tibetan>།བརྒྱད་ཁྲི་བ་ནས་བཅུ་པའི་བར་དུ་བརྒྱ་བརྒྱས་ལོ་རེ་འབྲིའོ།
+<literal>eighty-thousand from ten until hundred by-means-of year each decrease
+<liturgical><tantra>From eighty thousand to ten, decreasing by a hundred years each time.
+
+[1462]
+<tibetan>།གཉིས་པ་ནི།
+<literal>second is
+<liturgical><ornament>Second:
+
+[1463]
+<tibetan>བཅུ་པ་རྫོགས་ནས་འགའ་ཞིག་གིས་སྲོག་གཅོད་པ་སྤངས་པས་དེའི་ཚེ་ཚེ་ལོ་ཉི་ཤུ་བར་འཕེལ་ལོ།
+<literal>ten complete from some life-killing abandoned by-means-of that time life year twenty to increase
+<liturgical><tantra>From ten onward, some abandon the killing of life, and at that time the life span increases by twenty years.
+
+[1464]
+<tibetan>།དེ་བཞིན་མ་བྱིན་པར་ལེན་པ་སྤངས་པས་བཞི་བཅུ་པ་དང༌།
+<literal>likewise not-given taking abandoned by-means-of forty and
+<liturgical><prose>Likewise, abandoning the taking of what is not given, forty years,
+
+[1465]
+<tibetan>ལོག་པར་གཡེམ་པ་སྤངས་པས་བརྒྱ་པ་དང༌།
+<literal>misconduct abandoned by-means-of hundred and
+<liturgical><prose>Abandoning misconduct, one hundred years,
+
+[1466]
+<tibetan>ཕྲ་མ་སྤངས་པས་ཉིས་བརྒྱ་དང༌།
+<literal>divisive-speech abandoned by-means-of two-hundred and
+<liturgical><prose>Abandoning divisive speech, two hundred years,
+
+[1467]
+<tibetan>ངག་འཁྱལ་པ་སྤངས་པས་ལྔ་བརྒྱ་དང༌།
+<literal>idle-speech abandoned by-means-of five-hundred and
+<liturgical><prose>Abandoning idle speech, five hundred years,
+
+[1468]
+<tibetan>ཚིག་རྩུབ་མོ་སྤངས་པས་སྟོང་དང༌།
+<literal>harsh-speech abandoned by-means-of thousand and
+<liturgical><prose>Abandoning harsh speech, one thousand years,
+
+[1469]
+<tibetan>བརྣབ་སེམས་སྤངས་པས་ཉིས་སྟོང་དང༌།
+<literal>covetousness abandoned by-means-of two-thousand and
+<liturgical><prose>Abandoning covetousness, two thousand years,
+
+[1470]
+<tibetan>གནོད་སེམས་སྤངས་པས་ཁྲི་དང
+<literal>harmful-intent abandoned by-means-of ten-thousand and
+<liturgical><break><prose> Abandoning harmful intent, ten thousand years,
+
+[1471]
+<tibetan>ལོག་པར་ལྟ་བ་སྤངས་པས་ཉི་ཁྲི་དང༌།
+<literal>wrong-view abandoned by-means-of twenty-thousand and
+<liturgical><break><prose> Abandoning wrong view, twenty thousand years,
+
+[1472]
+<tibetan>མི་རིག་པའི་འདོད་པ་ལ་ཆགས་པ་སྤངས་པས་བཞི་ཁྲི་དང༌།
+<literal>ignorant desire to attachment abandoned by-means-of forty-thousand and
+<liturgical><prose>Abandoning ignorant attachment to desire, forty thousand years, || 10 ||
+
+[1473]
+<tibetan>ལོག་པའི་ཆོས་སྤྱོད་པ་སྤངས་པས་བརྒྱད་ཁྲི་པར་གྱུར་ཏོ།
+<literal>wrong dharma practice abandoned by-means-of eighty-thousand became
+<liturgical><prose>Abandoning wrong practice of dharma, eighty thousand years become the norm.
+
+[1474]
+<tibetan>ཚེ་འཕེལ་བ་ལྟར་གཟུགས་དང་ལོངས་སྤྱོད་ཀྱང་འཕེལ་ཏེ།
+<literal>life increase like form and enjoyment also increase and
+<liturgical><prose>As life increases, so too form and enjoyment increase,
+
+[1475]
+<tibetan>འབྱོར་ཞིང་རྒྱས་པའོ།
+<literal>prosperous and spread
+<liturgical><prose>Spreading forth in prosperity.
+
+[1476]
+<tibetan>།དེ་ནས་ཡང་སྡེ་ཚན་རེས་འགྲིབས་ཤིང་འཕེལ་བ་བཅོ་བརྒྱད་ལ་བར་གྱི་ཁུག་པ་བཅོ་བརྒྱད་ཅེས་བྱའོ།
+<literal>that from again section each decrease and increase eighteen intermediate gap eighteen named
+<liturgical><prose>Then again, eighteen sections of decrease and increase—each called an intermediate gap.
+
+[1477]
+<tibetan>།གསུམ་པ་ཡར་འཕེལ་བ་གཅིག་ནི།
+<literal>third upward increase one is
+<liturgical><prose>Third, the upward increase of one:
+
+[1478]
+<tibetan>བར་ཁུག་རྫོགས་པའི་རྗེས་ལ་བརྩི་ལུགས་འདྲ་བ་ལས།
+<literal>intermediate gap complete after calculation custom similar from
+<liturgical><tantra>From similar calculation, custom prevails after the completion of the intermediate gap.
+
+[1479]
+<tibetan>གྲངས་མེད་ཐུབ་པར་སོང་ནས་ཐོག་ལྟར་འགྲིབ་པ་ནི་མ་ཐོག་རིང་མོ་ཞེས་བྱའོ།
+<literal>countless endure to went suddenly like decrease not-begin long named
+
+[1480]
+<tibetan>།དེ་དག་གི་བར་ལ་འགྲོ་བ་རྣམས་ཀྱི་བསོད་ནམས་ཀྱི་སྣང་བ་ལས་བདེ་བ་དང༌།
+<literal>these between beings plural merit light from pleasure and
+<liturgical><prose>Called without beginning, long enduring, passing to countless ages, suddenly decreasing.
+
+[1481]
+<tibetan>དགེ་བ་དང༌།
+<literal>virtue and
+<liturgical><prose>Between these, from the light of beings' merit arise:
+
+[1482]
+<tibetan>སངས་རྒྱས་དང༌།
+<literal>buddha and
+<liturgical><prose>Virtue, || 20 ||
+
+[1483]
+<tibetan>ཆོས་དང༌།
+<literal>dharma and
+<liturgical><prose>Buddha,
+
+[1484]
+<tibetan>དགེ་འདུན་དང༌།
+<literal>sangha and
+<liturgical><prose>Dharma,
+
+[1485]
+<tibetan>རྣམ་པར་དཀར་བའི་ཆོས་ཀྱི་རྣམ་གྲངས་དཔག་ཏུ་མེད་པ་གནས་པ་དང༌།
+<literal>completely-white dharma enumeration countless dwell and
+<liturgical><prose>Sangha,
+
+[1486]
+<tibetan>བསོད་ནམས་མ་ཡིན་པ་ལས།
+<literal>merit not from
+<liturgical><prose>Where countless completely white dharma enumerations dwell,
+
+[1487]
+<tibetan>སྡུག་བསྔལ་དང་ལོག་པར་འགྲོ་བ་དང༌།
+<literal>suffering and wrong direction to go and
+<liturgical><tantra>From non-merit arise:
+
+[1488]
+<tibetan>ཕྱིན་ཅི་ལོག་གི་སྟོན་པ་དང༌།
+<literal>perverted teacher and
+<liturgical><prose>Suffering, wrong paths,
+
+[1489]
+<tibetan>གྲུབ་མཐའི་རྣམ་གྲངས་དང༌།
+<literal>philosophical-view enumeration and
+<liturgical><prose>Perverted teachers,
+
+[1490]
+<tibetan>ལས་དང་ཉོན་མོངས་པ་ལ་སོགས་པ་དང༌།
+<literal>action and afflictions etc. and
+<liturgical><prose>Enumerations of philosophical views,
+
+[1491]
+<tibetan>འགྲོ་བ་དྲུག་དང༌།
+<literal>beings six and
+<liturgical><prose>Actions, afflictions, and so forth,
+
+[1492]
+<tibetan>སྐྱེ་བ་བཞི་དང༌།
+<literal>birth four and
+<liturgical><prose>The six classes of beings, || 30 ||
+
+[1493]
+<tibetan>སོ་སོའི་སྣང་བའི་ཡུལ་དང༌།
+<literal>individual light object and
+<liturgical><prose>The four modes of birth,
+
+[1494]
+<tibetan>ལོངས་སྤྱོད་དང༌།
+<literal>enjoyment and
+<liturgical><prose>Individual objects of light,
+
+[1495]
+<tibetan>བདེ་སྡུག་སྣ་ཚོགས་པར་སྣང་བ་ལ་སྤྱོད་པ་ཡིན་ནོ།
+<literal>pleasure-pain variously to light to engage is
+<liturgical><prose>Enjoyment,
+
+[1496]
+<tibetan>།དེ་ནས་འཇིག་པའི་བར་བསྐལ་ཉི་ཤུ་ནི།
+<literal>that from destruction intermediate eon twenty is
+<liturgical><prose>Engaging various pleasures and pains through light.
+
+[1497]
+<tibetan>གནས་པ་རྫོགས་ནས་འཕོ་འགྱུར་གྱི་སྣང་བ་འབྱུང་བ་སྟེ།
+<literal>abiding complete from change light arisen is
+<liturgical><prose>Then twenty intermediate eons of destruction:
+
+[1498]
+<tibetan>དེའང་བཅུད་འཇིག་པ་ལ་བར་བསྐལ་བཅུ་དགུ
+<literal>that also essence destroy intermediate eon nineteen
+<liturgical><break><tantra> From complete abiding, the light of change arises,
+
+[1499]
+<tibetan>།སྣོད་འཇིག་པ་ལ་གཅིག་སྟེ་ཉི་ཤུ་འདའོ།
+<literal>vessel destroy one twenty pass
+<liturgical><break><prose> That also: nineteen intermediate eons destroy the essence,
+
+[1500]
+<tibetan>།སེམས་ཅན་འཇིགས་ཚུལ་ནི།
+<literal>beings destroy-manner is
+<liturgical><prose>One destroys the vessel—twenty pass.
+
+[1501]
+<tibetan>དམྱལ་བའི་གནས་འདི་ནགས་གསར་དུ་སྐྱེ་བར་མི་འགྱུར་བ་ནས་མགོ་རྩོམ་སྟེ།
+<literal>hell place this forest new to birth not-become from begin
+<liturgical><prose>The manner of beings' destruction:
+
+[1502]
+<tibetan>ཞིང་འདིའི་དམྱལ་བ་དང་ཡི་དྭགས་དང་དུ་འགྲོ་རྣམས་ཀྱི་རྙིང་པ་རྣམས་ཚེ་འཕོས་ལ།
+<literal>land this hell and preta and animal plural old plural life transferred
+<liturgical><prose>Beginning from the hell realms, no new births arise in this world-forest, || 40 ||
+
+[1503]
+<tibetan>གསར་པ་མ་སྐྱེས་པས་སྟོངས་པ་ན་ངན་སོང་ཞིག་པའོ།
+<literal>new not-born empty time-at lower-realms destroyed
+<liturgical><prose>Those transferred from old lives in hell, preta, and animal realms depart from this land,
+
+[1504]
+<tibetan>།དེའང་སྡིག་པ་སྤྱད་པས་གསར་དུ་ངན་སོང་དུ་སྐྱེ་ངེས་འདི་ན་ཡོད་པ་དེ་དག་ཞིང་གཞན་གྱི་ངན་སོང་དུ་འགྲོ་ལ་འདིར་མི་སྐྱེ་བས་སྟོང་པ་ཡིན་ནོ།
+<literal>that also misdeed performed by-means-of new to lower-realms to birth certain this in exist these land other lower-realms to go here not-born empty is
+<liturgical><prose>Empty, new ones are not born—the lower realms are destroyed.
+
+[1505]
+<tibetan>།དེ་ནས་མི་རྣམས་འཇིག་པ་ནི་ཚེ་ལོ་ཡང་རིམ་གྱིས་བྲི་ནས་ཚེ་ལོ་བཅུ་པ་ལ་ནད་ཀྱི་བསྐལ་པས་འཆི་བ་དང༌།
+<literal>that from humans destroy is life year also gradually decrease from life year ten to disease eon by-means-of die and
+<liturgical><prose>That also: certain births to new lower realms by misdeeds performed exist here, going to other lands' lower realms, empty, not born here.
+
+[1506]
+<tibetan>མཚོན་དང་མུ་གེས་གནོད་པའི་བསྐལ་ཆུང་གསུམ་འདས་ནས།
+<literal>weapon and famine by-means-of harm eon small three passed from
+<liturgical><prose>Then humans are destroyed: gradually decreasing life span, dying by disease in an eon when life is ten years,
+
+[1507]
+<tibetan>འཛམ་བུའི་གླིང་འདིར་མི་གཅིག་གིས་སུ་ལ་ཡང་མ་བསླབས་པར་བསམ་གཏན་གཉིས་པ་ཐོབ་སྟེ།
+<literal>Jambu continent this to human one other-to-any not-taught by-means-of concentration two obtained and
+<liturgical><prose>Passing through three small eons of harm by weapons and famine,
+
+[1508]
+<tibetan>དེ་ལས་ལངས་ནས་དབེན་པ་ལས་སྐྱེས་པའི་དགའ་བ་འདི་ནི་རབ་ཏུ་བདེའོ་ཞེས་བརྗོད་པ་ལས།
+<literal>that from arose from seclusion arisen joy this extremely bliss said speak from
+<liturgical><prose>One human obtains concentration, two others without being taught by anyone on this Jambu continent,
+
+[1509]
+<tibetan>ཚེགས་མེད་པར་ཐམས་ཅད་ཀྱིས་ཐོས་ཏེ་མཉམ་པར་བཞག་པས་གྲུབ་ནས་འོད་གསལ་གྱི་ལྷར་སྐྱེས་ཏེ།
+<literal>effortless all by-means-of heard and equipoise by-means-of accomplished from light-god to born and
+<liturgical><tantra>From that arising, speaking of extreme bliss, this joy arisen from seclusion,
+
+[1510]
+<tibetan>འཛམ་བུའི་གླིང་སྟོངས་པ་བཞིན་དུ།
+<literal>Jambu continent empty like
+<liturgical><prose>Effortlessly heard by all, equipoise accomplished, born as a light god,
+
+[1511]
+<tibetan>ལུས་འཕགས་གླིང་དང་བ་གླང་སྤྱོད་ཀྱང་དེ་ལྟར་གྱུར་ཏོ།
+<literal>body-elevated continent and cow-enjoyment also that-like became
+<liturgical><prose>Thus Jambu continent becomes empty,
+
+[1512]
+<tibetan>།སྒྲ་མི་སྙན་པ་རྣམས་སུམ་ཅུ་རྩ་གསུམ་དུ་སྐྱེས་ཏེ།
+<literal>sound-not-heard plural thirty-three to born and
+<liturgical><prose>The Body-Elevated continent and Cow-Enjoyment also become likewise. || 50 ||
+
+[1513]
+<tibetan>དེ་ནས་རྒྱལ་ཆེན་བཞི་ནས་ཚངས་ཆེན་གྱི་བར་དུ་དེ་བཞིན་ནོ།
+<literal>that from great-king four from great-brahma to until likewise
+<liturgical><prose>Sound-Not-Heard becomes the abode of the Thirty-Three.
+
+[1514]
+<tibetan>།སྣོད་འཇིགས་པ་ནི་ནམ་མཁའ་ལ་ཉི་མ་གཅིག་པོ་དེ་རབ་ཏུ་ཚ་བར་ཤར་བས་རྩྭ་ཤིང་རྣམས་བསྲེགས་སོ།
+<literal>vessel destroy is sky sun one that extremely hot arisen by-means-of grass tree plural burned
+
+[1515]
+<tibetan>།གཉིས་ཤར་བས་ཆུ་ཀླུང་དང་ལྟེང་ཀ་རྣམས་བསྐམས་སོ།
+<literal>two arisen by-means-of river stream and pond plural dried
+<liturgical><tantra>From the Four Great Kings to Great Brahmā, the pattern is likewise.
+
+[1516]
+<tibetan>།གསུམ་ཤར་བས་ཆུ་ཀླུང་ཆེན་པོ་རྣམས་བསྐམས་སོ།
+<literal>three arisen by-means-of river stream great plural dried
+<liturgical><prose>The vessel is destroyed: one sun arises, extremely hot in the sky, burning grass and trees.
+
+[1517]
+<tibetan>།བཞི་ཤར་བས་མཚོ་མ་དྲོས་པ་བསྐམས་སོ།
+<literal>four arisen by-means-of lake never-warm dried
+<liturgical><prose>Two arise, drying rivers, streams, and ponds.
+
+[1518]
+<tibetan>།ལྔ་ཤར་བས་རྒྱ་མཚོ་ཆེན་པོ་བསྐམས་སོ།
+<literal>five arisen by-means-of ocean great dried
+<liturgical><prose>Three arise, drying great rivers and streams.
+
+[1519]
+<tibetan>།དྲུག་ཤར་བས་ས་ཆེན་པོ་གངས་རི་དང་བཅས་པ་བསྐམས་སོ།
+<literal>six arisen by-means-of land great snow-mountain and with dried
+<liturgical><prose>Four arise, drying the never-warm lake.
+
+[1520]
+<tibetan>།བདུན་ཤར་བས་ལྷུན་པོ་རི་བདུན་ལ་སོགས་པ་བྱེ་བ་ཕྲག་བརྒྱ་ཐམས་ཅད་བསྲེགས་ཏེ།
+<literal>seven arisen by-means-of spontaneously-arisen mountain seven etc. ten-million hundred all burned and
+<liturgical><prose>Five arise, drying the great ocean.
+
+[1521]
+<tibetan>འབར་བའི་མེ་ལྕེ་འཁྱིལ་བ་ལས།
+<literal>blazing fire-flame swirling from
+<liturgical><prose>Six arise, drying the great land with snow-mountains.
+
+[1522]
+<tibetan>མར་གསེར་གྱི་ས་གཞི་དམྱལ་བའི་གནས་ལ་ཐུག་པ།
+<literal>below gold ground hell place to reached
+<liturgical><prose>Seven arise, burning all hundred ten-million spontaneously-arisen seven mountains and so forth, || 60 ||
+
+[1523]
+<tibetan>ཡར་ཚངས་པའི་འཇིག་རྟེན་གྱི་བར་འབར་རབ་ཏུ་འབར།
+<literal>above brahma world between blaze thoroughly blaze
+<liturgical><tantra>From swirling blazing flames,
+
+[1524]
+<tibetan>ཀུན་ཏུ་རབ་ཏུ་འབར་བས་ཐལ་བ་ཙམ་ཡང་མེད་པར་ལན་བདུན་ཚིག་གོ
+<literal>all thoroughly blaze by-means-of ash merely also not seven-times burn
+<liturgical><break><prose> Below reaching the gold ground of the hell realm,
+
+[1525]
+<tibetan>།ཉི་མ་བདུན་དང་འབར་བ་བདུན་ནི་མེ་བདུན་ནོ།
+<literal>sun seven and blaze seven fire seven
+<liturgical><break><prose> Above thoroughly blazing between the world of Brahmā.
+
+[1526]
+<tibetan>།དེ་ནས་འོག་གཞིའི་གསལ་དག་གི་ཆུ་འཁྲུགས་ཤིང་འཐོར་བས་བསམ་གཏན་གཉིས་པའི་བར་ལན་བདུན་ཁྱབ་པས།
+<literal>that from below base clear pure water disturbed and scattered by-means-of concentration two extent seven-times pervaded by-means-of
+<liturgical><prose>Seven times burned by all thorough blazing, not even ash remains.
+
+[1527]
+<tibetan>ལན་ཚྭ་ཆུར་ཐིམ་པ་ལྟར་གཞལ་མེད་ཁང་དང་བཅས་པ་ཞིག་གོ
+<literal>salt water to dissolved like measureless palace and with destroyed
+<liturgical><break><prose> Seven suns and seven blazes, seven fires.
+
+[1528]
+<tibetan>།དེ་ནི་ཆུ་བདུན་ནོ།
+<literal>that water seven
+<liturgical><break><prose> Then below, the base of clear pure water is disturbed and scattered, pervading seven times the extent of the second concentration,
+
+[1529]
+<tibetan>།དེ་ནས་འོག་གཞིའི་རླུང་རྡོ་རྗེ་རྒྱ་གྲམ་ལངས་ཏེ་ཐམས་ཅད་ཀུན་ཏུ་འཐོར་བས་བསམ་གཏན་གསུམ་པ་མན་ཆད་ཞིག་སྟེ་ནམ་མཁའ་གཅིག་ཏུ་གྱུར་ཏོ།
+<literal>that from below base wind vajra-cross arose and all all scattered by-means-of concentration three below destroyed and sky one to became
+<liturgical><prose>Destroyed with measureless palaces like salt dissolved in water.
+
+[1530]
+<tibetan>།དེ་ལྟར་ཆགས་གནས་འཇིག་པའི་རྗེས་ལ་ནམ་མཁའི་རང་བཞིན་གཅིག་ཏུ་སྟོངས་པའོ།
+<literal>thus form abiding destruction after sky nature one to empty
+<liturgical><prose>That water seven times.
+
+[1531]
+<tibetan>།དེའང་ཐུན་མོང་གི་ཐེག་པ་ལས་དེ་བཞིན་མཚུངས་པར་བར་བསྐལ་ཉི་ཤུ་བརྒྱད་ཅུ་ལ་བསྐལ་ཆེན་གཅིག་ཏུ་འདོད་དོ།
+<literal>that also common vehicle from that likewise similar intermediate eon twenty-eight-ten to great-eon one regarded
+<liturgical><prose>Then below, a wind vajra-cross arises, all scattered, destroyed below the third concentration, becoming one sky.
+
+[1532]
+<tibetan>།དག་པ་ནི་སྐྱེ་རྒ་ན་འཆི་བཞི་ནང་གི་ཆགས་འཇིག་སྟོངས་པ་དང་སྦྱོར་ཏེ།
+<literal>pure birth aging sick dying four inner form destroy empty and join and
+<liturgical><prose>Thus after the destruction of form's abiding, one nature sky remains empty. || 70 ||
+
+[1533]
+<tibetan>ཐལ་འགྱུར་ལས།
+<literal>result-transmission from
+<liturgical><prose>That also: in the common vehicle likewise, twenty-eight tens of intermediate eons are regarded as one great eon.
+
+[1534]
+<tibetan>དོན་ནི་འཇིག་དང་ཆགས་པ་དང༌།
+<literal>meaning destroy and form and
+<liturgical><prose>The pure: birth, aging, sickness, and death—four that join inner form's destruction and emptiness.
+
+[1535]
+<tibetan>།གནས་པ་ཉིད་དང་སྟོངས་པ་དག
+<literal>abiding itself and empty
+<liturgical><break><tantra> From result-transmission,
+
+[1536]
+<tibetan>།སྐྱེ་དང་རྒ་དང་ན་དང་འཆི།
+<literal>birth and aging and sick and die
+<liturgical><break><prose> Meaning: destruction and form,
+
+[1537]
+<tibetan>།སྲིད་པའི་འཁྲུལ་འཁོར་ཉིད་དུའོ།
+<literal>existence illusion-wheel itself to
+<liturgical><prose>Abiding itself and emptiness,
+
+[1538]
+<tibetan>།ཞེས་པ་དང་སྦྱར་རོ།
+<literal>said and join
+<liturgical><prose>Birth, aging, sickness, and death,
+
+[1539]
+<tibetan>།དེ་ཡང་ཐོག་མ་དཔག་མེད་ནས་མཐར་བཅུ་པའི་བར་ཡ་ཐོག་མ་ཐོག་པར་ཁུག་དང་བཅས་པ་ཉི་ཤུ་ལ།
+<literal>that also first measureless from end ten between first final gap and with twenty to
+<liturgical><prose>Existence's illusion-wheel itself.
+
+[1540]
+<tibetan>ཡར་སྐྱེ་མར་འགྲིབ་དེ་ཙམ་ཞིག་གི་མ་འགྲིབ་ཀྱི་ཐ་མ་བཅུ་པ་ལ།
+<literal>upward birth downward decrease that-much only not-decrease end ten to
+<liturgical><prose>Thus said, joined together.
+
+[1541]
+<tibetan>ནད་དང་མཚོན་དང་མུ་གེའི་བསྐལ་ཆུང་རེ་ཡོད་ལ།
+<literal>disease and weapon and famine eon small each exist and
+<liturgical><prose>That also: from first measureless to the end ten, twenty with the first final gap,
+
+[1542]
+<tibetan>ཐ་མ་ནི།
+<literal>end is/
+<liturgical><prose>Upward birth, downward decrease, not decreasing beyond ten—only that much, || 80 ||
+
+[1543]
+<tibetan>དེ་ནས་སྣོད་བཅུད་ཀུན་འཇིག་སྟེ།
+<literal>that-from vessel essence all destroy/
+<liturgical><prose>Disease, weapons, and famine—each a small eon exists.
+
+[1544]
+<tibetan>།དེའང་གནས་འཇིག་སྟོངས་གསུམ་ལ།
+<literal>that-also abiding destroy empty three-to/
+
+[1545]
+<tibetan>།ཐུན་མོང་མ་ཡིན་པའི་ཐེག་པ་འདིར་བར་བསྐལ་དྲུག་ཅུ་དྲུག་ཅུ་མཚུངས་པར་མཉམ་པས་བརྒྱ་དང་བརྒྱད་ཅུ་ལ་ཡུན་གྱི་བསྐལ་པ་དང་པོ་ཞེས་བྱ་ལ།
+<literal>common not-of vehicle this-to intermediate eon sixty sixty equal equal-by-means-of hundred-and eighty-to duration-of eon first named/
+<liturgical><prose>Such is the final end.
+
+[1546]
+<tibetan>ཡུན་གྱི་བསྐལ་པ་བརྒྱ་དང་བརྒྱད་ཅུ་ལ་བར་གྱི་བསྐལ་པ་གཉིས་པ་ཞེས་བྱ་ཞིང༌།
+<literal>duration-of eon hundred-and eighty-to intermediate eon second named/
+<liturgical><tantra>From that point, all vessels and essences are utterly destroyed.
+
+[1547]
+<tibetan>བར་གྱི་བསྐལ་པ་བརྒྱ་དང་བརྒྱད་ཅུ་ལ་བསྐལ་པ་ཆེན་པོ་གཅིག་ཅེས་བྱ་བར་འདོད་པ་ཡིན་ནོ།
+<literal>intermediate eon hundred-and eighty-to eon great one named regarded is/
+<liturgical><prose>These as well—the three abodes of destruction and emptiness—
+
+[1548]
+<tibetan>།དེ་དག་ཀྱང་ཐལ་འགྱུར་ལས།
+<literal>these also result-transmission from/
+<liturgical><prose>In this uncommon vehicle, the intermediate eons are counted as equal: sixty by sixty, comprising the first great eon of one hundred eighty duration-measures.
+
+[1549]
+<tibetan>དུས་ཀྱི་འཕོ་བ་འདི་ལྟ་སྟེ།
+<literal>time-of change this like/
+<liturgical><prose>The duration-eon of one hundred eighty is termed the "intermediate eon, the second."
+
+[1550]
+<tibetan>།ཐོག་མ་དཔག་ཏུ་མེད་པ་ནས།
+<literal>first measureless from/
+<liturgical><prose>The intermediate eon of one hundred eighty is considered the "single great eon."
+
+[1551]
+<tibetan>།ཐ་མ་བཅུ་ཡི་བར་དག་ལ།
+<literal>end ten-of between-to/
+<liturgical><prose>These also arise from the very nature of transformation.
+
+[1552]
+<tibetan>།ཡར་སྐྱེ་བ་དང་མར་འགྲིབ་པ།
+<literal>upward birth and downward decrease/
+<liturgical><prose>This transformation of time unfolds as follows: || 90 ||
+
+[1553]
+<tibetan>།ནད་དང་མུ་གེ་མཚོན་དང་ནི།
+<literal>disease and famine weapon and/
+<liturgical><tantra>From the primordial measureless beginning,
+
+[1554]
+<tibetan>།བསྐལ་ཆུང་གསུམ་གྱིས་མཚམས་སྦྱར་ནས།
+<literal>eon-small three-by-means-of interval joined-from/
+<liturgical><tantra>Through the ten terminal intervals,
+
+[1555]
+<tibetan>།དྲུག་ཅུ་དག་ནི་ཐལ་ནས་ཡང༌།
+<literal>sixty are finish-from again/
+<liturgical><tantra>There is ascent and descent, birth and diminishment.
+
+[1556]
+<tibetan>།མེ་ཡིས་བདུན་དང་ཆུ་ཡིས་བདུན།
+<literal>fire-by-means-of seven-and water-by-means-of seven/
+<liturgical><tantra>Disease, famine, weapons, and strife—
+
+[1557]
+<tibetan>།དེ་ལྟར་བཅུ་བཞི་རྫོགས་ནས་ནི།
+<literal>thus fourteen complete-from/
+<liturgical><tantra>Three lesser eons bridge the intervals.
+
+[1558]
+<tibetan>།ལྷག་མ་རླུང་གིས་འཇིག་པ་ཡིན།
+<literal>remainder wind-by-means-of destroy is/
+<liturgical><tantra>The sixty are exhausted by fire,
+
+[1559]
+<tibetan>།དེ་ལྟར་དྲུག་ཅུར་གནས་པ་དང༌།
+<literal>thus sixty-to abiding-and/
+<liturgical><tantra>Seven by fire, seven by water.
+
+[1560]
+<tibetan>།འཇིག་པའི་ཡུན་ཀྱང་དེ་ཙམ་ལས།
+<literal>destroy-of duration also that-much-from/
+<liturgical><tantra>Thus fourteen are completed,
+
+[1561]
+<tibetan>།དྲུག་ཅུའི་བར་ལ་སྟོངས་པར་གནས།
+<literal>sixty-of between empty-to abide/
+<liturgical><tantra>And the remainder is dissolved by wind.
+
+[1562]
+<tibetan>།དེ་ལྟར་བརྒྱ་དང་བརྒྱད་ཅུ་ལས།
+<literal>thus hundred-and eighty-from/
+<liturgical><tantra>Thus the sixty abide, || 100 ||
+
+[1563]
+<tibetan>།ཡུན་གྱི་བསྐལ་པ་དང་པོར་འདོད།
+<literal>duration-of eon first regarded/
+<liturgical><tantra>And the duration of destruction is of similar measure.
+
+[1564]
+<tibetan>།དེ་ལྟར་བརྒྱ་དང་བརྒྱད་ཅུ་ལ།
+<literal>thus hundred-and eighty-to/
+<liturgical><tantra>The interval of sixty abides as emptiness.
+
+[1565]
+<tibetan>།བར་གྱི་བསྐལ་པ་གཉིས་པའོ།
+<literal>intermediate eon second/
+<liturgical><tantra>Thus from one hundred eighty,
+
+[1566]
+<tibetan>།དེ་ལྟར་སྦྲགས་པ་དེ་ཙམ་ལས།
+<literal>thus joined that-much-from/
+<liturgical><tantra>The first duration-eon is established.
+
+[1567]
+<tibetan>།བསྐལ་པ་ཆེན་པོ་གཅིག་ཡིན་ནོ།
+<literal>eon great one is/
+<liturgical><tantra>Thus one hundred eighty
+
+[1568]
+<tibetan>།ཞེས་སོ།
+<literal>said/
+<liturgical><tantra>Constitute the second intermediate eon.
+
+[1569]
+<tibetan>།འདི་དག་གི་ཚུལ་རྒྱས་པའི་ངེས་པ་དང་བཅས་པ་ནི།
+<literal>these-of manner spread-of definite-and with is/
+<liturgical><tantra>Thus that which is joined together is
+
+[1570]
+<tibetan>དཔག་བསམ་གྱི་ལྗོན་ཤིང་རྒྱས་པའི་རྒྱུད་ལས་རྒྱ་ཆེར་གསུངས་པ་བཞིན་ནོ།
+<literal>wish-fulfilling-tree spread-of tantra-from extensively said like/
+<liturgical><tantra>The single great eon.
+
+[1571]
+<tibetan>།ཐེག་པའི་མཆོག་རིན་པོ་ཆེའི་མཛོད་ལས།
+<literal>Supreme-Vehicle Treasury from/
+<liturgical><tantra>Thus it is taught.
+
+[1572]
+<tibetan>སྣོད་དང་བཅུད་ཀྱི་འཇིག་རྟེན་བསྟན་པ་སྟེ་རིམ་ཁང་གཉིས་པའོ།
+<literal>vessel-and essence-of world explained is chapter two/
+<liturgical><prose>These detailed explanations with their definitive meanings are || 110 ||
+
+[1573]
+<tibetan>།དེ་ལྟར་གདུལ་ཞིང་སྣོད་བཅུད་ཀྱི་རིམ་པ་བསྟན་ནས།
+<literal>thus disciple vessel essence-of sequence shown-from/
+<liturgical><tantra>As extensively taught in the extensive Tantra of the wish-fulfilling tree.
+
+[1574]
+<tibetan>ད་ནི་རྡོ་རྗེའི་གནས་གསུམ་པོ་དེ་དག་གི་ཁམས་ལ་ཡོད་པའི་ཆོས་ཀྱི་ཕུང་པོ་ལ་སོགས་པའི་རྣམ་་གྲངས་དབྱེ་བ་ནི།
+<literal>now vajra-of place three these element-in exist-of dharma-of aggregates etc.-of enumeration distinction is/
+<liturgical><tantra>From the Treasury of the Supreme Vehicle:
+
+[1575]
+<tibetan>ཉི་ཟླ་ཁ་སྦྱོར་གྱི་རྒྱུད་ལས།
+<literal>Sun-Moon-Union tantra from/
+<liturgical><prose>The presentation of the world of vessels and essences, in two volumes.
+
+[1576]
+<tibetan>ཁམས་རྣམས་དང་ནི་ཕུང་པོ་དང༌།
+<literal>element-plural and aggregates and/
+<liturgical><prose>Thus having instructed and shown the sequence of vessels and essences,
+
+[1577]
+<tibetan>།སྐྱེ་མཆེད་རྣམས་དང་དབང་པོ་དང༌།
+<literal>sense-source-plural and sense-power and/
+<liturgical><ornament>Now, regarding the enumeration of phenomena and aggregates existing in the elements of those three vajra-states:
+
+[1578]
+<tibetan>།ཡུལ་དང་ཡུན་ཅན་ཤེས་པ་རྣམས།
+<literal>object-and duration-possessing awareness-plural/
+<liturgical><tantra>From the Tantra of the union of sun and moon:
+
+[1579]
+<tibetan>།ཇི་ལྟར་གནས་པ་གཏན་ལ་དབབ།
+<literal>how abiding definite do/
+<liturgical><prose>The elements, the aggregates,
+
+[1580]
+<tibetan>།ཅེས་གསུངས་པའི་དོན་ལ་ལྔ་སྟེ།
+<literal>said-of meaning-to five are/
+<liturgical><prose>The sense-sources, the powers,
+
+[1581]
+<tibetan>།ཡུལ་ཁམས་ཀྱི་དགྱེ་བ།
+<literal>object element-of joy/
+<liturgical><prose>The objects and the awarenesses possessed of duration—

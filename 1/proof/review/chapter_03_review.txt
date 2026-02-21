@@ -1,0 +1,1657 @@
+Conduct deep scan and critical honest review of the attached Tibetan Dzogchen translation in light of the literal and liturgical mission statements.
+
+If you have suggestions for specific lines return them in code block in the strict line format:
+
+[line number]<literal or liturgical><<liturgical tags if any>>replacement text
+
+(double line break)
+
+For each entry, eg.
+
+[684]<literal>buddhas-by-means-of dharma teach-and
+[725]<liturgical><prose>The antidote for the three poisons of desire, anger, and delusion is the realization of emptiness.
+
+============================================================
+
+# LITERAL MISSION STATEMENT
+
+## Expected Output: Dense, Concise Literal Translation
+
+The literal layer should provide:
+- Word-by-word or phrase-by-phrase translation closest to Tibetan syntax
+- Technical term consistency (same English term for same Tibetan term)
+- Minimal elaboration - translate what is there, no more
+- Serve as "truth" reference for checking interpretive translations
+- Use compound structures that mirror Tibetan word compounds
+- Preserve Tibetan word order where possible
+- Include Sanskrit loanwords in IAST transliteration when original is Sanskrit
+- Mark Tibetan technical terms in italics or parentheses
+- No theological interpretation or doctrinal elaboration
+- Cadence should feel slightly "awkward" in English - this is a feature, not a bug
+
+============================================================
+
+# LITURGICAL MISSION STATEMENT
+
+## Expected Output: Poetic, Devotional, Oral-Performance Ready
+
+The liturgical layer should provide:
+- Flowing, elegant English that sounds good when chanted or read aloud
+- Proper English grammar and syntax (readable, not literally awkward)
+- Traditional Buddhist terminology in standard English translations
+- Verse/prose formatting with clear break markers
+- Tags indicating vocal performance:
+  - <ornament> - Title markers, colophons, auspicious openings
+  - <break> - Major section transitions
+  - <verse> - Metric lines meant for chanting
+  - <prose> - Explanatory passages for oral delivery
+  - <prayer> - Devotional requests or aspirations
+  - <citation> - Scriptural references or quotations
+- Appropriate honorifics and devotional language
+- Should "come alive" when performed orally
+- Preserves meaning while prioritizing beauty and usability
+
+============================================================
+
+The draft in need of review is:
+
+# Treasury of the Supreme Vehicle: Autocommentary
+# Longchen Rabjampa (1308-1364)
+## Volume 01 - Chapter 3 - Section 01
+## Chapter 3: Samsaric Phenomena
+
+[1582]
+<tibetan>རྟེན་ཕུང་པོའི་རིང་བཞིན།
+<literal>basis-aggregates-genitive essence/
+<liturgical><prose>The essential nature of basis and aggregates, wherein all conditioned phenomena are gathered and arranged as the support for cyclic existence and liberation alike.
+
+[1583]
+<tibetan>རྣམ་པ་སྐྱེ་མཆེད་ཀྱི་ཁྱད་པར།
+<literal>form sense-source-genitive distinction/
+<liturgical><prose>The distinctive characteristics of the forms and sense-sources, which serve as the gateways through which consciousness engages with its objects.
+
+[1584]
+<tibetan>འཛིན་བྱེད་དབང་པོའི་ངོ་བོ།
+<literal>grasper sense-power-genitive nature/
+<liturgical><prose>The essential nature of the powers that grasp and apprehend, being the active forces that dominate their respective spheres of engagement.
+
+[1585]
+<tibetan>ཡུལ་དང་ཡུལ་ཅན་གྱི་རྣམ་པའོ།
+<literal>object and object-possessor-genitive form/
+<liturgical><prose>The various forms of objects and their possessors, comprising the entire field of what is grasped and that which grasps.
+
+[1586]
+<tibetan>།དང་པོ་ནི།
+<literal>first is/
+<liturgical><ornament>First, regarding the elements: Due to their vast and extensive meaning, embracing all that can be known and experienced, these are termed "elements."
+
+[1587]
+<tibetan>མང་ཞིང་རྒྱ་ཆེ་བའི་དོན་གྱིས་ན་ཁམས་ཞེས་བྱ་སྟེ།
+<literal>many and vast-genitive meaning-by-means-of element named/
+<liturgical><prose>If one divides them for the purpose of clear understanding:
+
+[1588]
+<tibetan>དབྱེ་ན།
+<literal>divided-if/
+<liturgical><prose>There are those gathered and comprehended through engagement with outer objects, and
+
+[1589]
+<tibetan>ཕྱི་ཡུལ་གྱིས་བསྡུས་པ་དང༌།
+<literal>outer object-by-means-of gathered and/
+<liturgical><prose>Those gathered and comprehended through the activity of inner mind—these two categories encompass all.
+
+[1590]
+<tibetan>ནང་སེམས་ཀྱིས་བསྡུས་པ་གཉིས་ལས།
+<literal>inner mind-by-means-of gathered two from/
+<liturgical><ornament>First, regarding those gathered by outer objects:
+
+[1591]
+<tibetan>དང་པོ་ནི།
+<literal>first is/
+<liturgical><prose>There are five great elements that serve as the foundation of all form-possessing existence. || 10 ||
+
+[1592]
+<tibetan>འབྱུང་བ་ལྔ་སྟེ།
+<literal>elements five are/
+<liturgical><prose>Furthermore, they produce the vessels and essences of the world and abide as the support for all that possesses form.
+
+[1593]
+<tibetan>གཟུགས་ཅན་སྐྱེད་ཅིང་གནས་པ་དང༌།
+<literal>form-possessing producing abiding and/
+<liturgical><prose>They serve as the cause, condition, basis, and fundamental nature for both arising and destruction.
+
+[1594]
+<tibetan>འཇིག་པའི་རྒྱུ་རྐྱེན་དང་རྟེན་དང་ངོ་བོ་བྱེད་པ་ཡིན་ནོ།
+<literal>destroy-genitive cause condition and basis and nature doing is/
+<liturgical><prose>Earth abides with characteristics that are firm and solid, providing the foundation upon which all rests.
+
+[1595]
+<tibetan>།དེ་ཡང་སའི་མཚན་ཉིད་ཉིད་སྲ་ཞིང་འཐས་པ།
+<literal>that also earth-genitive characteristic itself firm and solid/
+<liturgical><prose>Water abides with characteristics that are moist and flowing, cohering and holding all things together.
+
+[1596]
+<tibetan>ཆུའི་མཚན་ཉིད་བརླན་ཞིང་གཤེར་བ།
+<literal>water-genitive characteristic moist and wet/
+<liturgical><prose>Fire abides with characteristics that are hot and burning, ripening and transforming all that it touches.
+
+[1597]
+<tibetan>མེའི་མཚན་ཉིད་ཚ་ཞིང་བསྲེག་པ།
+<literal>fire-genitive characteristic hot and burn/
+<liturgical><prose>Wind abides with characteristics that move and uplift, animating and sustaining all activity.
+
+[1598]
+<tibetan>རླུང་གི་མཚན་ཉིད་གཡོ་ཞིང་འདེགས་པ།
+<literal>wind-genitive characteristic move and raise/
+<liturgical><prose>Space abides with characteristics that are vast and open, accommodating all without obstruction.
+
+[1599]
+<tibetan>ནམ་མཁའི་མཚན་ཉིད་ཡངས་ཤིང་གོ་འབྱེད་པའོ།
+<literal>space-genitive characteristic vast and aperture open/
+<liturgical><prose>Through the harmonious interaction of these five, vessels and essences are produced and maintained throughout the three realms.
+
+[1600]
+<tibetan>།དེ་དག་གིས་སྣོད་བཅུད་སྐྱེད་ཅིང་འཛིན་པ་སྟེ།
+<literal>these-by-means-of vessel essence producing holding/
+<liturgical><tantra>From that very nature, the five elements gathered by outer objects manifest their functions thus:
+
+[1601]
+<tibetan>དེ་ཉིད་ལས་ཕྱི་ཡུལ་གྱིས་བསྡུས་པའི་ཁམས་ནི་ལྔ་སྟེ།
+<literal>that itself-from outer object-by-means-of gathered-genitive element five are/
+<liturgical><prose>The earth element produces and supports the basis of the body, giving it form and stability. || 20 ||
+
+[1602]
+<tibetan>སའི་ཁམས་ཀྱིས་ལུས་ཀྱི་གཞི་སྐྱེད་པས་ན་ཁམས་སོ།
+<literal>earth-genitive element-by-means-of body-genitive basis producing-by-means-of element/
+<liturgical><prose>The water element holds and maintains names and designations, allowing cognition to occur.
+
+[1603]
+<tibetan>།ཆུའི་ཁམས་ཀྱིས་མིང་དུ་འཛིན་པས་ན་ཁམས་སོ།
+<literal>water-genitive element-by-means-of name-to hold-doing-by-means-of element/
+<liturgical><prose>The fire element ripens and matures objects, bringing them to completion.
+
+[1604]
+<tibetan>།མེའི་ཁམས་ཀྱིས་ཡུལ་རྣམས་སྨིན་པར་བྱེད་པས་ན་ཁམས་སོ།
+<literal>fire-genitive element-by-means-of object-plural ripen-doing make-by-means-of element/
+<liturgical><prose>The wind element sustains and animates the entire moving world, providing the vitality of breath and motion.
+
+[1605]
+<tibetan>།རླུང་གི་ཁམས་ཀྱིས་གཡོ་བའི་འཇིག་རྟེན་ཐམས་ཅད་བརྟེན་པས་ན་ཁམས་སོ།
+<literal>wind-genitive element-by-means-of move-genitive world all rely-doing-by-means-of element/
+<liturgical><prose>The space element holds and accommodates the powers and faculties, giving them room to function.
+
+[1606]
+<tibetan>།ནམ་མཁའི་ཁམས་ཀྱིས་དབང་པོ་རྣམས་འཛིན་པར་བྱེད་པས་ན་ཁམས་སོ་ཞེས་སོ།
+<literal>space-genitive element-by-means-of sense-power-plural hold-doing make-by-means-of element said/
+<liturgical><prose>Thus it is taught by the Victorious Ones.
+
+[1607]
+<tibetan>།ནང་སེམས་ཀྱིས་བསྡུས་པའི་ཁམས་ནི་སྣོད་དང་བཅུད་དུ་སྣང་བ་གཉིས་ལས།
+<literal>inner mind-by-means-of gathered-genitive element vessel and essence-to appear two from/
+<liturgical><tantra>Wherein, the elements gathered by inner mind appear as vessel and essence, two aspects of a single nature:
+
+[1608]
+<tibetan>སྣོད་ནི་ལས་ཀྱིས་བསགས་པས་ཡུལ་ལྟར་སྣང་བ་སྟེ།
+<literal>vessel action-by-means-of accumulated-by-means-of object like appear/
+<liturgical><tantra>The vessel appears as objects, accumulated and projected through the power of past actions.
+
+[1609]
+<tibetan>དབྱེ་ན།
+<literal>divided-if/
+<liturgical><tantra>If one divides these for the sake of clear exposition:
+
+[1610]
+<tibetan>ཕྱི་ཡུལ་སྣང་སེམས་ཀྱི་འཁྲུལ་པ་ལས་བྱུང་བ་དང༌།
+<literal>outer object appear mind-genitive delusion-from arose and/
+<liturgical><tantra>There are those arising from the delusion of mind that appears as outer objects, and
+
+[1611]
+<tibetan>ནང་སེམས་སྣང་རྩལ་ལས་རང་བཞིན་དུ་ཤར་བ་གཉིས་སོ།
+<literal>inner mind appear power-from nature-to arose two are/
+<liturgical><tantra>Those arising naturally from the luminous clarity of inner mind itself—these two. || 30 ||
+
+[1612]
+<tibetan>།དང་པོ་ནི་ཡུལ་སྣང་སེམས་ཀྱི་བག་ཆགས་ཏེ་རྨི་ལམ་བཞིན་ནོ།
+<literal>first is object appear mind-genitive latency dream like/
+<liturgical><tantra>Moreover, first: the latency of object-appearing mind manifests like a dream, without substantial nature yet clearly appearing.
+
+[1613]
+<tibetan>།དབྱེ་ན།
+<literal>divided-if/
+<liturgical><tantra>If one analyzes this dream-like display:
+
+[1614]
+<tibetan>འདོད་པའི་ཡུལ་གླིང་བཞི་ལ་སོགས་པ་དང༌།
+<literal>desire-genitive object continent four etc. and/
+<liturgical><tantra>There are the four desire-realm continents and their accompanying realms, appearing as solid yet empty.
+
+[1615]
+<tibetan>གཟུགས་ཀྱི་ཡུལ་འོད་ལྔ་རང་གསལ་འཇའ་ཚོན་ལྟ་བུ་དང༌།
+<literal>form-genitive object light five self-clear rainbow like and/
+<liturgical><tantra>The five form-objects of the form realm—lights, self-arisen, appearing like rainbows in the sky.
+
+[1616]
+<tibetan>གཟུགས་མེད་པའི་ཡུལ་ཏིང་ངེ་འཛིན་རང་སྤྲུལ་གཞན་ལ་མི་སྣང་བ་རྣམས་ཏེ།
+<literal>formless-genitive object concentration self-emanated other-to not-appear-plural/
+<liturgical><tantra>The formless objects: concentrations and absorptions, self-emanated yet invisible to others' perception.
+
+[1617]
+<tibetan>ཉི་ཟླ་ཁ་སྦྱོར་ལས།
+<literal>Sun-Moon-Union from/
+<liturgical><tantra>Thus it is spoken in the Sun-Moon-Union Tantra, the great seal of definitive meaning.
+
+[1618]
+<tibetan>ནང་སེམས་ཀྱིས་བསྡུས་པའི་ཁམས་ལ་གཉིས་ཏེ།
+<literal>inner mind-by-means-of gathered-genitive element-to two are/
+<liturgical><prose>The elements gathered by inner mind are of two types:
+
+[1619]
+<tibetan>སེམས་ཅན་སྡུད་པར་བྱེད་པའི་སྣོད་ཀྱི་ཁམས་དང༌།
+<literal>beings gather-doing vessel-genitive element and/
+<liturgical><prose>The element of vessel that gathers and holds beings within the round of existence, and
+
+[1620]
+<tibetan>སེམས་ཉིད་ལས་བྱུང་བའི་ཁམས་ཉིད་དོ།
+<literal>mind itself-from arose-genitive element itself/
+<liturgical><prose>The element that arises directly from mind itself, being the projection of awareness.
+
+[1621]
+<tibetan>།སྣོད་ཀྱི་ཁམས་ནི།
+<literal>vessel-genitive element is/
+<liturgical><ornament>Regarding the element of vessel: || 40 ||
+
+[1622]
+<tibetan>སེམས་ཅན་དྲན་པ་གཞི་ཆེ་བ་ལས་བྱུང་བའི་གཟུགས་ཀྱི་ཁམས་དང༌།
+<literal>beings mindfulness basis vast-from arose-genitive form-genitive element and/
+<liturgical><prose>The form element arises from the vast basis of beings' mindfulness, accumulated through countless actions.
+
+[1623]
+<tibetan>དྲན་པ་ཡས་པ་ལས་བྱུང་བའི་གཟུགས་མེད་པའི་ཁམས་དང༌།
+<literal>mindfulness excess from arisen formless-genitive element and/
+<liturgical><prose>The formless element arises from excessive mindfulness that transcends form yet still grasps.
+
+[1624]
+<tibetan>དྲན་པ་གུད་དུ་འཛིན་པ་ལས་བྱུང་བའི་འདོད་པའི་ཁམས་སོ་ཞེས་སོ།
+<literal>mindfulness separate holding from arisen desire-genitive element thus said/
+<liturgical><prose>The desire element arises from limited mindfulness that fixates upon particular objects. Thus it is taught.
+
+[1625]
+<tibetan>།གཉིས་པ་ནང་སེམས་སྣང་རྩལ་ལས་རང་བཞིན་དུ་ཤར་བ་ནི།
+<literal>second inner mind appearance-potency from self-nature arise is/
+<liturgical><ornament>Second: Regarding that which arises naturally from the luminosity of the inner mind:
+
+[1626]
+<tibetan>རིག་པ་ཡོད་པས་དེ་ལ་སྒྲིབ་བྱེད་ཀྱི་རང་རྩལ་མ་རིག་པ་ཀུན་གཞི་དང༌།
+<literal>awareness existing that-to obscuring self-potency ignorance alaya and/
+<liturgical><prose>Awareness exists as the ground, and through its self-arisen potency comes the obscuration of the Kunzhi consciousness.
+
+[1627]
+<tibetan>དེ་ལ་བརྟེན་པ་ཀུན་གཞི་རྣམ་པར་ཤེས་པའི་སེམས་དང༌།
+<literal>that-to supporting alaya consciousness-genitive mind and/
+<liturgical><tantra>Furthermore, from that Kunzhi, arising as the basis-consciousness, comes the active mind that engages with objects.
+
+[1628]
+<tibetan>ཡིད་དང་དབང་པོ་སྒོ་ལྔའི་ཤེས་པར་བྱུང་བ་ནི།
+<literal>mind and faculties gates five-genitive knowing arisen is/
+<liturgical><tantra>From that mind, the five gates of perception and their faculties arise as knowing awareness.
+
+[1629]
+<tibetan>གསེར་གྱི་ས་གཞིར་ཏ་ལའི་ལྗོན་ཤིང་ཆགས་ཏེ་ཡལ་ག་དང་མེ་ཏོག་དང་འདབ་མ་བྱུང་བ་བཞིན་ནོ།
+<literal>gold ground Tal-tree grown branches and flowers and leaves arisen like/
+<liturgical><prose>Like a wish-fulfilling tree grown from a golden ground, with branches, flowers, and leaves spontaneously appearing.
+
+[1630]
+<tibetan>།འདི་ལ་དབྱེ་ན་ཡུལ་དང༌།
+<literal>this dividing object and/
+<liturgical><prose>Dividing this self-arisen display for the purpose of understanding:
+
+[1631]
+<tibetan>།དབང་ཤེས།
+<literal>faculty-cognition/
+<liturgical><prose>There are objects that appear as what is known, || 50 ||
+
+[1632]
+<tibetan>ཚོར་བ་གསུམ་ལ།
+<literal>feeling three-to/
+<liturgical><prose>The faculties of cognition that apprehend them,
+
+[1633]
+<tibetan>ཡུལ་ནི་སྐབས་འདིར་ཤེས་པ་དྲུག་གི་སྔ་ལོགས་པའི་ཤེས་པ་ཙམ་པོ་ད་ལྟར་བའི་ཡུལ་དུ་བཏགས་པས་ན་དབང་རྟེན་དྲུག་གི་མིང་ནས་བརྗོད་པ་ཡིན་ཏེ།
+<literal>object occasion here knowing six-genitive previous mere knowing now object designated thus faculty-basis six-genitive name from expressed is/
+<liturgical><prose>And feelings that arise from contact—these three encompass all.
+
+[1634]
+<tibetan>དབང་རྟེན་ཡང་མིག་ལ་སོགས་པའི་རྟེན་གྱི་སྒྲས་གོ་བར་བརྗོད་པས་ཤེས་པ་ལ་མིག་ལ་སོགས་པའི་ཁམས་སུ་བཏགས་པ་དྲུག་གོ
+<literal>faculty-basis also eye etc.-genitive basis-genitive sound-by-means-of understanding expressed thus knowing eye etc.-genitive element-to designated six/
+<liturgical><break><prose> Objects are designated as the six bases of faculties when the mere knowing of the six consciousnesses, arising in this moment, is taken as the object of cognition.
+
+[1635]
+<tibetan>།དབང་ཤེས་ནི།
+<literal>faculty-cognition is/
+<liturgical><break><prose> Thus the six bases of faculties are named according to their support.
+
+[1636]
+<tibetan>མིག་ལ་སོགས་པའི་ད་ལྟར་བའི་ཤེས་པ་དྲུག་གོ
+<literal>eye etc.-genitive now knowing six/
+<liturgical><break><prose> The faculties of cognition are the six present knowings of eye and ear and so forth.
+
+[1637]
+<tibetan>།ཚོར་བ་ནི།
+<literal>feeling is/
+<liturgical><break><prose> Feelings are the six types of future aspects, ripening from past contacts.
+
+[1638]
+<tibetan>མ་འོངས་པའི་ཆ་སྟེ་རྣམ་པ་དྲུག་གོ
+<literal>future portion type six/
+<liturgical><break><prose> Whatever object consciousness enters and engages with,
+
+[1639]
+<tibetan>།ཡུལ་གང་ལ་རྣམ་ཤེས་འཇུག་ཀྱང༌།
+<literal>object whatever consciousness enters although/
+<liturgical><break><prose> The previous six knowings that maintain the continuum of experience are called "objects."
+
+[1640]
+<tibetan>སྔ་ལོགས་པའི་ཤེས་པ་དྲུག་གང་རུང་གི་རྒྱུན་ཡོད་པ་ནི་ཡུལ་ཞེས་བྱའོ།
+<literal>previous knowing six whichever continuum existing object called/
+<liturgical><prose>The knowing that grasps the nature of that in a single moment of clear apprehension is called "present knowing."
+
+[1641]
+<tibetan>།དེ་ཉིད་སྐད་ཅིག་གིས་དེའི་རྣམ་པར་འཛིན་པ་ནི་ད་ལྟའི་ཤེས་པའོ།
+<literal>that itself moment-by-means-of that's nature holding now-genitive knowing is/
+<liturgical><prose>After that, feelings that gather as pleasure, pain, or neutrality are called "feelings of contact." || 60 ||
+
+[1642]
+<tibetan>།དེའི་རྗེས་ལ་བདེ་སྡུག་བར་མ་གསུམ་གང་རུང་དུ་ཚོར་བ་ནི་འདུས་ཏེ་རེག་པའི་ཚོར་བ་ཞེས་བྱའོ།
+<literal>that's after pleasure pain neutral whichever feeling gathering contact-genitive feeling called/
+<liturgical><prose>Wherein, these arise from the gathering of object and knowing, which constitutes the essential nature of feeling.
+
+[1643]
+<tibetan>།དེའང་ཡུལ་དང་ཤེས་པ་འདུས་པ་ལས་དེའི་རྣམ་པར་ཚོར་བའི་ཕྱིར་རོ།
+<literal>that-also object and knowing gathering from that's nature feeling-genitive reason/
+<liturgical><prose>Thus, dividing the six groups into three types results in eighteen distinct categories of experience.
+
+[1644]
+<tibetan>།དེ་ལྟར་དྲུག་ཚན་གསུམ་ལས་རྣམ་གྲངས་བཅོ་བརྒྱད་དུ་དབྱེ་བ་ནི།
+<literal>thus six-group three from types eighteen dividing/
+<liturgical><tantra>From that very nature, the elements arising from mind itself are established as:
+
+[1645]
+<tibetan>དེ་ཉིད་ལས།
+<literal>that itself from/
+<liturgical><prose>The eye element arising from the clear aspect of knowing, like a mirror reflecting form.
+
+[1646]
+<tibetan>སེམས་ཉིད་ལས་བྱུང་བའི་ཁམས་ནི།
+<literal>mind itself from arisen element is/
+<liturgical><prose>The ear element arising from single-pointed knowing that gathers sounds.
+
+[1647]
+<tibetan>ཤེས་པ་རང་གསལ་གྱི་ཆ་ལས་བྱུང་བའི་མིག་གི་ཁམས་དང༌།
+<literal>knowing self-clear portion from arisen eye-genitive element and/
+<liturgical><prose>The nose element arising from limitless knowing that pervades all scents.
+
+[1648]
+<tibetan>ཤེས་པ་རྩེ་གཅིག་པ་ལས་བྱུང་བའི་རྣ་བའི་ཁམས་དང༌།
+<literal>knowing single-pointed from arisen ear-genitive element and/
+<liturgical><prose>The tongue element arising from knowing gathered as one taste.
+
+[1649]
+<tibetan>ཤེས་པ་མཐའ་ཡས་པ་ལས་བྱུང་བའི་སྣའི་ཁམས་དང༌།
+<literal>knowing limitless from arisen nose-genitive element and/
+<liturgical><prose>The mind element arising from knowing that enters all objects without obstruction.
+
+[1650]
+<tibetan>ཤེས་པ་རྣམས་གཅིག་ཏུ་འདུས་པ་ལས་བྱུང་བའི་ལྕེའི་ཁམས་དང༌།
+<literal>knowings one gathering from arisen tongue-genitive element and/
+<liturgical><prose>The body element arising from knowing that serves as the basis for all the others.
+
+[1651]
+<tibetan>ཤེས་པ་ཀུན་ཏུ་འཇུག་པ་ལས་བྱུང་བའི་ཡིད་ཀྱི་ཁམས་དང༌།
+<literal>knowing all entering from arisen mind-genitive element and/
+<liturgical><ornament>|| 70 ||
+
+[1652]
+<tibetan>ཤེས་པ་རྣམས་ཀྱི་རྟེན་བྱེད་པ་ལས་བྱུང་བའི་ལུས་ཀྱི་ཁམས་དང༌།
+<literal>knowings basis making from arisen body-genitive element and/
+
+[1653]
+<tibetan>མིང་དང་ཁ་དོག་འཛིན་པས་ན་མིག་གི་རྣམ་པར་ཤེས་པའི་ཁམས་དང༌།
+<literal>name and color hold-by-means-of thus eye-genitive consciousness-genitive element and/
+<liturgical><prose>Through holding name and form, the element of eye consciousness comes to be.
+
+[1654]
+<tibetan>གྲུབ་པའི་ལས་འཛིན་པར་བྱེད་པའི་རྣ་བའི་རྣམ་པར་ཤེས་པའི་ཁམས་དང༌།
+<literal>accomplished-genitive action hold-doing ear-genitive consciousness-genitive element and/
+<liturgical><prose>Through holding accomplished actions, the element of ear consciousness manifests.
+
+[1655]
+<tibetan>གཞན་རྗེས་སུ་འཛིན་པར་བྱེད་པའི་སྣའི་རྣམ་པར་ཤེས་པའི་ཁམས་དང༌།
+<literal>other follow hold-doing nose-genitive consciousness-genitive element and/
+<liturgical><prose>Through holding others in succession, the element of nose consciousness arises.
+
+[1656]
+<tibetan>དངོས་པོ་ཉམས་སུ་མྱོང་བར་བྱེད་པའི་ལྕེའི་རྣམ་པར་ཤེས་པའི་ཁམས་དང༌།
+<literal>object actual experience-doing tongue-genitive consciousness-genitive element and/
+<liturgical><prose>Through actual experience of objects, the element of tongue consciousness is established.
+
+[1657]
+<tibetan>དངོས་པོ་དང་དངོས་པོ་མེད་པ་ཐམས་ཅད་ལ་ཁྱབ་པར་བྱེད་པའི་ཡིད་ཀྱི་རྣམ་པར་ཤེས་པའི་ཁམས་དང༌།
+<literal>object and objectless all-to pervade-doing mind-genitive consciousness-genitive element and/
+<liturgical><prose>Through pervading all objects and even the objectless, the element of mind consciousness functions.
+
+[1658]
+<tibetan>ཐམས་ཅད་ཀྱི་དོན་སྡུད་པར་བྱེད་པས་ན་ལུས་ཀྱི་རྣམ་པར་ཤེས་པའི་ཁམས་དང༌།
+<literal>all-genitive meaning gather-doing make-by-means-of body-genitive consciousness-genitive element and/
+<liturgical><prose>Through gathering all meanings comprehensively, the element of body consciousness operates.
+
+[1659]
+<tibetan>དངོས་པོ་རྣམས་ལ་ལོག་པར་རྟོགས་པ་འཛིན་ཅིང་ཡུལ་སྒྲུབ་པས་ན་མིག་གིས་འདུས་ཏེ་རེག་པའི་ཁམས་དང༌།
+<literal>object-plural-to mistaken understand hold-and object accomplish-by-means-of eye-by-means-of gather-and contact-genitive element and/
+<liturgical><prose>Through grasping objects incorrectly and accomplishing apparent objects, the eye gathers and there is the element of contact.
+
+[1660]
+<tibetan>རྣ་བ་ཡིད་འཛིན་ཅིང་འཕྲོ་བ་སྒྲུབ་པར་བྱེད་པས་ན་རྣ་བའི་འདུས་ཏེ་རེག་པའི་ཁམས་དང༌།
+<literal>ear mind hold-and disperse accomplish-doing make-by-means-of ear-by-means-of gather-and contact-genitive element and/
+<liturgical><prose>Through the ear holding sounds and dispersing attention, there is the ear's gathering and the element of contact.
+
+[1661]
+<tibetan>ཡས་པའི་ཤེས་པ་རྣམས་གཅིག་ཏུ་སྡུད་ཅིང་གཞན་གྱིས་ཡིད་འཕྲོག་པར་བྱེད་པས་ན་སྣའི་འདུས་ཏེ་རེག་པའི་ཁམས་དང༌།
+<literal>superior knowing plural one-to gather-and other-by-means-of mind attract-doing make-by-means-of nose-by-means-of gather-and contact-genitive element and/
+<liturgical><prose>Through superior knowings gathering as one and attracting other minds, there is the nose's gathering and the element of contact. || 80 ||
+
+[1662]
+<tibetan>གང་གིས་དངོས་པོ་རྣམས་རྗེས་སུ་འཛིན་ཅིང་ཉེ་བར་ལེན་པས་ན་ལྕེའི་འདུས་ཏེ་རེག་པའི་ཁམས་དང༌།
+<literal>what-by-means-of object-plural follow hold-and near take-by-means-of tongue-by-means-of gather-and contact-genitive element and/
+<liturgical><prose>Furthermore, through following and taking nearby objects as they appear, there is the tongue's gathering and the element of contact.
+
+[1663]
+<tibetan>དྲན་པ་ཐམས་ཅད་གཅིག་ཏུ་སྡུད་ཅིང་ཡུལ་ཀུན་ལ་འཇུག་པས་ན་ཡིད་ཀྱི་འདུས་ཏེ་རེག་པའི་ཁམས་དང༌།
+<literal>mindfulness all one-to gather-and object all-to enter-by-means-of mind-by-means-of gather-and contact-genitive element and/
+<liturgical><prose>Through gathering all mindfulness and entering all objects, there is the mind's gathering and the element of contact.
+
+[1664]
+<tibetan>རགས་པ་དུ་མ་རྣམས་འཛིན་ཅིང་འབྱུང་བ་རྣམས་འདུས་པས་ན་ལུས་ཀྱི་འདུས་ཏེ་རེག་པའི་ཁམས་སོ།
+<literal>coarse many plural hold-and arise plural gather-by-means-of body-by-means-of gather-and contact-genitive element/
+<liturgical><prose>Through holding coarse multiplicity and arising as embodied experience, there is the body's gathering and the element of contact.
+
+[1665]
+<tibetan>།དེའི་ཕྱིར་ན་ཁམས་དེ་དག་རྣམས་ཀྱང་ཡུལ་འཛིན་པར་བྱེད་པ་ཡིན་ནོ།
+<literal>that-genitive reason element these plural also object hold-doing make is/
+<liturgical><prose>Therefore, these elements also accomplish the holding and apprehension of objects through their distinct functions.
+
+[1666]
+<tibetan>།དེ་ཡང་འཁྲུལ་པ་ཉིད་ནང་དུ་འཛིན་པའི་ཆ་ལས་བྱུང་བའོ་ཞེས་སོ།
+<literal>that also delusion itself inner-to hold-genitive part-from arose said/
+<liturgical><prose>These arise from the part that holds within delusion itself, being the play of unawareness. Thus it is taught.
+
+[1667]
+<tibetan>།གཉིས་པ་རྟེན་ཕུང་པོའི་རང་བཞིན་འདུས་ཤིང་འཕུངས་པ་ལྟར་འཚོགས་པ་གཅིག་ཏུ་གྱུར་པའི་ཆ་ནས་ཕུང་པོ་ཞེས་བྱ་སྟེ།
+<literal>second basis aggregates-genitive nature gather-and heap like assembled one-to became-genitive part-from aggregate named/
+<liturgical><ornament>Therefore, second: The aggregates arise from the essential nature of basis and aggregates, gathered and assembled as one heap of experience.
+
+[1668]
+<tibetan>དབྱེ་ན།
+<literal>divided-if/
+<liturgical><prose>This collection is called "aggregate" because it accumulates and amasses the aspects of existence.
+
+[1669]
+<tibetan>རྟོག་པ་དང་བཅས་པའི་ཕུང་པོ་དང༌།
+<literal>thought with-possessive aggregate and/
+<liturgical><prose>If one divides them according to their nature:
+
+[1670]
+<tibetan>རྟོག་པ་མེད་པའི་ཕུང་པོ་གཉིས་ལས།
+<literal>thought not-possessive aggregate two from/
+<liturgical><prose>There are the aggregates with thought, wherein conceptual cognition operates, and those without thought—these two.
+
+[1671]
+<tibetan>དང་པོ་ནི།
+<literal>first is/
+<liturgical><ornament>First, regarding the aggregates with thought of contaminated worldly ordinary beings:
+
+[1672]
+<tibetan>ཟག་བཅས་འཇིག་རྟེན་པ་སོས་སོའི་སྐྱེ་བོའི་ཕུང་པོ་ལྔ་སྟེ།
+<literal>contaminated worldly individual ordinary-being-genitive aggregate five are/
+<liturgical><prose>The five aggregates of such beings are those wherein cyclic existence is accumulated.
+
+[1673]
+<tibetan>གཞིག་ཅིང་གཞོམ་དུ་རུང་བ་གཟུགས་ཀྱི་ཕུང་པོ་དང༌།
+<literal>destroy-and destroy suitable form-genitive aggregate and/
+<liturgical><prose>The form aggregate, being suitable for destruction and disintegration, serves as the vessel of experience.
+
+[1674]
+<tibetan>མྱོང་ཞིང་སྲེད་པར་གྱུར་པ་ཚོར་བའི་ཕུང་པོ་དང༌།
+<literal>experience-and desire became feeling-genitive aggregate and/
+<liturgical><prose>The feeling aggregate, which experiences pleasure and pain and becomes attached as desire, binds beings to saṃsāra.
+
+[1675]
+<tibetan>གཡོ་ཞིང་ཡུལ་ལ་འཇུག་པ་འདུ་ཤེས་ཀྱི་ཕུང་པོ་དང༌།
+<literal>move-and object-to enter perception-genitive aggregate and/
+<liturgical><prose>The perception aggregate, which moves toward and enters objects, distinguishing this from that.
+
+[1676]
+<tibetan>བྱེད་ཅིང་བག་ཆགས་སོགས་པ་འདུ་བྱེད་ཀྱི་ཕུང་པོ་དང༌།
+<literal>do-and latency etc. compositional-factors-genitive aggregate and/
+<liturgical><prose>The formation factors aggregate, which performs actions and includes all latent tendencies.
+
+[1677]
+<tibetan>རིག་ཅིང་ཡུལ་དུ་བྱེད་པ་རྣམ་པར་ཤེས་པའི་ཕུང་པོའོ།
+<literal>know-and object-to make consciousness-genitive aggregate is/
+<liturgical><prose>The aggregate of consciousness that knows and functions with objects, being the chief of the five.
+
+[1678]
+<tibetan>།རྟོག་པ་མེད་པའི་ཕུང་པོ་ནི།
+<literal>thought not-possessive aggregate is/
+<liturgical><ornament>Regarding the aggregates without thought:
+
+[1679]
+<tibetan>འཕགས་པ་འཇིག་རྟེན་ལས་འདས་པ་རྣམས་ཀྱི་སོ་སོ་རང་གི་རིག་པའི་ཆ་ལ་གནས་པ་ལྔ་སྟེ།
+<literal>noble world transcended plural-genitive individual self-genitive awareness-genitive part-to abiding five are/
+<liturgical><prose>These are the five aspects abiding in the self-awareness of individual noble beings who have transcended the world.
+
+[1680]
+<tibetan>ཞི་གནས་དང་ལྷག་མཐོང་གི་རང་བཞིན་ཏིང་ངེ་འཛིན་གྱི་ཕུང་པོ་དང༌།
+<literal>calm-abiding and insight-genitive nature concentration-genitive aggregate and/
+<liturgical><prose>The aggregate of concentration, having the nature of calm-abiding and insight united. || 10 ||
+
+[1681]
+<tibetan>རང་རང་གི་ཉོན་མོངས་པ་ལས་གྲོལ་བ་ཡེ་ཤེས་ཀྱི་ཕུང་པོ་དང༌།
+<literal>individual individual-genitive afflictions-from liberated wisdom-genitive aggregate and/
+<liturgical><prose>The aggregate of wisdom, liberated from individual afflictions through direct realization.
+
+[1682]
+<tibetan>རང་དང་སྤྱིའི་རང་བཞིན་གཟིགས་པ་ཤེས་རབ་ཀྱི་ཕུང་པོ་དང༌།
+<literal>self and general-genitive nature see wisdom-genitive aggregate and/
+<liturgical><prose>The aggregate of wisdom discerning, seeing the nature of self and generality without confusion.
+
+[1683]
+<tibetan>དྲི་མའི་ཕྱོགས་ལས་རྣམ་པར་དག་པ་ཚུལ་ཁྲིམས་ཀྱི་ཕུང་པོ་དང༌།
+<literal>stain-genitive direction-from completely-pure discipline-genitive aggregate and/
+<liturgical><prose>The aggregate of discipline, completely pure from the direction of stains and transgressions.
+
+[1684]
+<tibetan>སྤྲོས་པ་དང་རྟོག་པ་ལས་གྲོལ་བ་རྣམ་པར་གྲོལ་བའི་ཕུང་པོའོ།
+<literal>elaboration and thought-from liberated completely-liberation-genitive aggregate/
+<liturgical><prose>The aggregate of complete liberation, liberated from all elaboration and conceptual thought.
+
+[1685]
+<tibetan>།འདི་དག་གིའང་སློབ་ལམ་གྱིས་བསྡུས་པའི་ཆ་རྣམས་དོར་ནས་གོང་དུ་བགྲོད་པ་ཙམ་གྱི་ཆ་ནས་སྤང་བྱའི་ཕྱོགས་སུ་བརླན་པའོ།
+<literal>these-genitive-also training-path-by-means-of gathered plural-abandon above-to proceed merely part-from abandon-should-genitive direction-to moistened/
+<liturgical><prose>These aggregates, when gathered by the training path, abandon those parts associated with learning and proceed further, moistening only the aspect of what is to be abandoned.
+
+[1686]
+<tibetan>།མི་སློབ་པའི་དུས་ཀྱི་ཡོན་ཏན་ནི་དེ་ལྟར་མ་ཡིན་ནོ།
+<literal>not-training-genitive time-genitive quality is that like not/
+<liturgical><prose>Therefore, the qualities of the time when one is not training are not like that, being spontaneous and effortless.
+
+[1687]
+<tibetan>།གཅིག་ཏུ་ན་གྲོལ་བའི་ཚེ་ཕུང་པོ་ཞེས་པའི་མིང་དུའང་མི་གནས་ཏེ།
+<literal>one-to liberated-genitive time aggregate named name-to-also not abide/
+<liturgical><prose>When liberated all at once, even the name "aggregate" does not remain, for there is no gathering.
+
+[1688]
+<tibetan>ཕུང་པོ་དག་ལས་ཤིན་ཏུ་རྣམ་པར་འགྲོལ་བ་ཞེས་འབྱུང་བའི་ཕྱིར་ཕྱོགས་གཅིག་ཏུ་བརྗོད་ཀྱང་འགལ་བ་མེད་པར་ཤེས་པར་བྱའོ།
+<literal>aggregate plural-from completely completely-liberated said arise-genitive reason direction one-to speak-even contradiction not know should/
+<liturgical><prose>Since it is said that they are "completely liberated from aggregates," one should understand that although called "one aspect," there is no contradiction, as this refers to the definitive meaning.
+
+[1689]
+<tibetan>།ཇི་སྐད་དུ་ཉི་ཟླ་ཁ་ཡོར་ལས།
+<literal>as Sun-Moon-Orifice from/
+<liturgical><tantra>As it is stated in the Sun-Moon-Union Tantra:
+
+[1690]
+<tibetan>ཕུང་པོ་རྣམས་ནི་འདི་ལྟ་སྟེ།
+<literal>aggregate plural this like/
+<liturgical><prose>The aggregates are as follows, divided into two categories: || 20 ||
+
+[1691]
+<tibetan>རྟོག་པས་སྦགས་པའི་ཕུང་པོ་དང༌།
+<literal>thought-by-means-of obscured-genitive aggregate and/
+<liturgical><prose>The aggregates obscured by conceptual thought, and
+
+[1692]
+<tibetan>རྟོག་པ་རྣམས་རང་བཞིན་གྱིས་མེད་པའི་ཕུང་པོའོ།
+<literal>thought plural nature-by-means-of not-exist-genitive aggregate/
+<liturgical><prose>The aggregates that are naturally free from conceptual thought.
+
+[1693]
+<tibetan>།རྟོག་པས་སྦགས་པའི་ཕུང་པོ་ནི།
+<literal>thought-by-means-of obscured-genitive aggregate is/
+<liturgical><ornament>Regarding the aggregates obscured by conceptual thought:
+
+[1694]
+<tibetan>འདི་ལྟ་སྟེ།
+<literal>this like/
+<liturgical><prose>These are as follows:
+
+[1695]
+<tibetan>དངོས་པོ་ཐམས་ཅད་གཅིག་ཏུ་འདུས་ཏེ་གྲུབ་པས་ན་གཟུགས་ཀྱི་ཕུང་པོ་དང༌།
+<literal>object all one-to gather-and accomplished-by-means-of form-genitive aggregate and/
+<liturgical><prose>The form aggregate, when all objects are gathered and accomplished as the basis.
+
+[1696]
+<tibetan>ཉམས་སུ་མྱོང་བ་ཐམས་ཅད་གཅིག་ཏུ་འདུས་པས་ན་ཚོར་བའི་ཕུང་པོ་དང༌།
+<literal>experience all one-to gather-by-means-of feeling-genitive aggregate and/
+<liturgical><prose>The feeling aggregate, when all experiences are gathered as pleasant, painful, or neutral.
+
+[1697]
+<tibetan>དབང་པོ་རྣམས་ཀྱི་འཛིན་པ་གཅིག་ཏུ་འདུས་པས་ན་འདུ་ཤེས་ཀྱི་ཕུང་པོ་དང༌།
+<literal>sense-power plural-genitive hold one-to gather-by-means-of perception-genitive aggregate and/
+<liturgical><prose>The perception aggregate, when the holding of all faculties is gathered as distinct cognition.
+
+[1698]
+<tibetan>ཕྲ་བའི་ཉོན་མོངས་པ་རྣམས་འདུས་པས་ན་འདུ་བྱེད་ཀྱི་ཕུང་པོ་དང༌།
+<literal>subtle afflictions plural gather-by-means-of compositional-factors-genitive aggregate and/
+<liturgical><prose>The formation factors aggregate, when all subtle afflictions and latencies are gathered.
+
+[1699]
+<tibetan>ཤེས་པ་ཐམས་ཅད་འདུས་པས་ན་རྣམ་པར་ཤེས་པའི་ཕུང་པོའོ།
+<literal>awareness all gather-by-means-of consciousness-genitive aggregate/
+<liturgical><prose>The consciousness aggregate, when all knowings are gathered as the ground of experience.
+
+[1700]
+<tibetan>།མི་རྟོག་པའི་ཕུང་པོ་ནི་འདི་ལྟ་སྟེ།
+<literal>not-thought-genitive aggregate is this like/
+<liturgical><ornament>Regarding the aggregates without conceptual thought: || 30 ||
+
+[1701]
+<tibetan>བསམ་གཏན་ཐམས་ཅད་འདུས་པས་ན་ཏིང་ངེ་འཛིན་གྱི་ཕུང་པོ་དང༌།
+<literal>concentration all gather-by-means-of concentration-genitive aggregate and/
+<liturgical><prose>The aggregate of concentration, when all concentrations are gathered as one-pointed calm.
+
+[1702]
+<tibetan>རིག་པ་ཉིད་ཟག་པ་ཟད་པའི་ཕྱིར་རྣམ་པར་གྲོལ་བ་ཡེ་ཤེས་ཀྱི་ཕུང་པོ་དང༌།
+<literal>awareness itself outflow exhausted-genitive reason completely-liberation wisdom-genitive aggregate and/
+<liturgical><prose>The aggregate of wisdom, complete liberation, since awareness itself is exhausted of outflows.
+
+[1703]
+<tibetan>དེ་ཉིད་ཀྱི་དོན་སྐྱེ་མེད་དུ་སྣང་བས་ན་ཤེས་རབ་ཀྱི་ཕུང་པོ་དང༌།
+<literal>that itself-genitive meaning birthless-to appear-by-means-of wisdom-genitive aggregate and/
+<liturgical><prose>The aggregate of wisdom discerning, since that meaning appears without birth or cessation.
+
+[1704]
+<tibetan>དྲི་མ་རྣམས་མངོན་དུ་དག་པའི་ཕྱིར་ཚུལ་ཁྲིམས་ཀྱི་ཕུང་པོ་དང༌།
+<literal>stain plural obvious-to clean-up-genitive reason discipline-genitive aggregate and/
+<liturgical><prose>The aggregate of discipline, for the purpose of purifying manifest stains through ethical conduct.
+
+[1705]
+<tibetan>རྣམ་པར་རྟོག་པ་ཐམས་ཅད་ལས་འདས་པའི་ཕྱིར་རྣམ་པར་འགྲོལ་བའི་ཕུང་པོ་ཞེས་སོ།
+<literal>concept all from-beyond-genitive reason completely-liberation-genitive aggregate so/
+<liturgical><prose>The aggregate of complete liberation, for the purpose of transcending all concepts and elaborations.
+
+[1706]
+<tibetan>།གསུམ་པ་རྣམ་པ་སྐྱེ་མཆེད་ཀྱི་ཁྱད་པར་ནི།
+<literal>three nature-aspects sense-sources-genitive distinction is/
+<liturgical><ornament>Third: The distinctive characteristics of the sense sources, which serve as the gateways of perception.
+
+[1707]
+<tibetan>གང་ཞིག་གང་ལས་སྐྱེ་ཞིང་མཆེད་པར་གྱུར་པས་སྐྱེ་མཆེད་ཅེས་བྱ་སྟེ།
+<literal>what which what-from arise-and spread becomes sense-sources called/
+<liturgical><prose>That which arises from specific conditions and becomes expanded into experience is called "sense source."
+
+[1708]
+<tibetan>དབྱེ་ན།
+<literal>divided-if/
+<liturgical><prose>If one divides them according to their manner of arising:
+
+[1709]
+<tibetan>ཡུལ་གྱི་རྣམ་པ་ལས་རང་གི་སྐད་ཅིག་ཕྱི་ལོགས་ཀྱི་རྒྱུན་དང་འཛིན་བྱེད་ཀྱི་ཤེས་པ་གཉིས་སྐྱེ་ཞིང་མཆེད་པར་བྱེད་པ་མིག་གི་གཟུང་ཡུལ་གཟུགས་ལ་སོགས་པ་དྲུག་དང༌།
+<literal>object-genitive nature-from own moment outer portion continuum-and grasping-agent knowing two arise-and spread do eye grasping object form etc. six and/
+<liturgical><tantra>From the aspect of objects, the eye's grasping object—form and so forth—six things arise and expand as the two knowings of the present moment and the outer continuum.
+
+[1710]
+<tibetan>ཤེས་པའི་རྣམ་པ་ལས་སྐད་ཅིག་ཕྱི་ལོགས་སུ་སྐྱེ་ཞིང་ཡུལ་ལ་མཆེད་རུང་དུ་སྐྱེས་པ་གཟུགས་ལ་གཟུགས་སུ་ཤེས་པ་མིག་གི་རྣམ་ཤེས་ལ་སོགས་པ་དྲུག་སྟེ།
+<literal>knowing-genitive nature-from moment outer portion-from arise-and object-to spread capable-from arose form-to form-as knowing eye consciousness etc. six and/
+<liturgical><tantra>From the aspect of knowing, there arise and expand six consciousnesses: eye consciousness and so forth, knowing forms as forms without confusion. || 40 ||
+
+[1711]
+<tibetan>སྐྱེ་མཆེད་བཅུ་གཉིས་སུ་གནས་པ་ནི།
+<literal>sense-sources twelve-in residing is/
+<liturgical><prose>Thus the twelve sense sources are established:
+
+[1712]
+<tibetan>ཡང་དེ་ཉིད་ལས།
+<literal>also that very from/
+<liturgical><prose>These are taught as follows:
+
+[1713]
+<tibetan>སྐྱེ་མཆེད་ནི་གཉིས་ཏེ།
+<literal>sense-sources two and/
+<liturgical><prose>The sense sources are fundamentally two:
+
+[1714]
+<tibetan>གཟུང་བའི་སྐྱེ་མཆེད་དང༌།
+<literal>grasped sense-source and/
+<liturgical><prose>The grasped sense sources that appear as objects, and
+
+[1715]
+<tibetan>འཛིན་པའི་སྐྱེ་མཆེད་དོ།
+<literal>grasper sense-source do/
+<liturgical><prose>The grasper sense sources that apprehend them.
+
+[1716]
+<tibetan>།དེ་ཡང་གཟུགས་ལ་འདུ་ཤེས་སུ་སེམས་པ་དང༌།
+<literal>that also form-to perception-as think-and/
+<liturgical><ornament>Furthermore, regarding the grasped sense sources: Thinking of form, sound, odor, taste, phenomena, and touch as the domain of perception.
+
+[1717]
+<tibetan>སྒྲ་ལ་འདུ་ཤེས་སུ་སེམས་པ་དང༌།
+<literal>sound-to perception-as think-and/
+<liturgical><prose>The six portions of the grasped are eye, ear, nose, tongue, mind, and body as objects.
+
+[1718]
+<tibetan>དྲི་ལ་འདུ་ཤེས་སུ་སེམས་པ་དང༌།
+<literal>odor-to perception-as think-and/
+<liturgical><prose>The twelve are eye grasping form, ear grasping sound, nose grasping odor, tongue grasping taste, mind grasping phenomena, and body grasping touch. Thus it is taught by the Buddha.
+
+[1719]
+<tibetan>རོ་ལ་འདུ་ཤེས་སུ་སེམས་པ་དང༌།
+<literal>taste-to perception-as think-and/
+<liturgical><ornament>Fourth: The essential nature of the faculties that grasp and dominate their objects.
+
+[1720]
+<tibetan>ཆོས་ལ་འདུ་ཤེས་སུ་སེམས་པ་དང༌།
+<literal>phenomena-to perception-as think-and/
+<liturgical><prose>They are called "faculties" because they possess power and sovereignty over the grasping of objects. || 50 ||
+
+[1721]
+<tibetan>རེག་ལ་འདུ་ཤེས་སུ་སེམས་པ་དང༌།
+<literal>touch-to perception-as think-and/
+<liturgical><prose>If one divides them according to their origin:
+
+[1722]
+<tibetan>མིག་གི་གཟུང་བའི་ཆ་དང༌།
+<literal>eye grasping portion and/
+<liturgical><prose>There are those arising from the first portion of form-possessing embodiment, and
+
+[1723]
+<tibetan>རྣ་བའི་གཟུང་བའི་ཆ་དང༌།
+<literal>ear grasping portion and/
+<liturgical><prose>Those arising from the portion of wisdom—these two categories.
+
+[1724]
+<tibetan>སྣའི་གཟུང་བའི་ཆ་དང༌།
+<literal>nose grasping portion and/
+<liturgical><ornament>First:
+
+[1725]
+<tibetan>ལྕེའི་གཟུང་བའི་ཆ་དང༌།
+<literal>tongue grasping portion and/
+<liturgical><prose>The coarse aggregates arising from the first condition of form-possessing embodiment.
+
+[1726]
+<tibetan>ཡིད་ཀྱི་གཟུང་བའི་ཆ་དང༌།
+<literal>mind grasping portion and/
+<liturgical><prose>Consequently, five faculties: the eye faculty and so forth, which produce the capability of grasping forms and so on.
+
+[1727]
+<tibetan>ལུས་ཀྱི་གཟུང་བའི་ཆ་སྟེ་བཅུ་གཉིས་སོ་ཞེས་སོ།
+<literal>body grasping portion and twelve so so/
+<liturgical><prose>The sixth: the mind faculty, arising from the first condition of form-possessing knowing.
+
+[1728]
+<tibetan>།བཞི་པ་འཛིན་བྱེད་དབང་པོའི་ངོ་བོ་ནི།
+<literal>four grasping-agent faculty essence is/
+<liturgical><ornament>Second:
+
+[1729]
+<tibetan>ཡུལ་འཛིན་པ་ལས་དབང་བྱེད་པས་ན་དབང་པོ་ཞེས་བྱ་སྟེ།
+<literal>object grasp from power-doing-genitive faculty called/
+<liturgical><prose>The portion of knowing that arises as wisdom, capable of engaging objects with discernment.
+
+[1730]
+<tibetan>དབྱེ་ན་གཟུགས་ཅན་དང་པོའི་ཆ་ལས་བྱུང་བ་དང༌།
+<literal>divided-if form-possessing first portion-from arise-and/
+<liturgical><prose>These are the six: faith, effort, mindfulness, concentration, wisdom, and mental peace. || 60 ||
+
+[1731]
+<tibetan>ཤེས་རབ་ཀྱི་ཆ་ལས་བྱུང་བ་གཉིས་ལས།
+<literal>wisdom portion-from arise-and two from/
+<liturgical><tantra>As it is stated in the Sun-Moon-Union Tantra, the great seal of definitive meaning.
+
+[1732]
+<tibetan>དང་པོ་ནི།
+<literal>first is/
+<liturgical><ornament>First, regarding the faculties arising from form:
+
+[1733]
+<tibetan>རགས་པ་ཕུང་པོ་གཟུགས་ཅན་དང་པོའི་བདག་རྐྱེན་ལས་བྱུང་བ།
+<literal>coarse aggregate form-possessing first own-condition-from arise/
+<liturgical><prose>The coarse aggregates arise from the first condition of form-possessing embodiment.
+
+[1734]
+<tibetan>གཟུགས་ལ་འཛིན་ནུས་སུ་སྐྱེད་པ་མིག་གི་དབང་པོ་ལ་སོགས་པ་ལྔ།
+<literal>form-to grasp capable-as produce eye faculty etc. five/
+<liturgical><prose>Five faculties: the eye faculty and so forth, which produce the capability of grasping forms as objects.
+
+[1735]
+<tibetan>རྣམ་པར་རིག་བྱེད་ཤེས་པ་དང་པོའི་གཟུགས་ཅན་གྱི་བདག་རྐྱེན་ལས་བྱུང་བ་ཡིད་ཀྱི་དབང་པོ་དང་དྲུག་གོ
+<literal>knowing first form-possessing own-condition-from arise mind faculty-and six go/
+<liturgical><break><prose> Together with the mind faculty, making six, arising from the first condition of form-possessing knowing.
+
+[1736]
+<tibetan>།གཉིས་པ་ནི།
+<literal>second is/
+<liturgical><break><ornament> Second, regarding the faculties arising from wisdom:
+
+[1737]
+<tibetan>ཡུལ་ལ་སྤྱོད་ནུས་སུ་སྐྱེས་པའི་ཤེས་པའི་ཆ་སྟེ།
+<literal>object-to engage capable-from arise knowing portion and/
+<liturgical><prose>The portion of knowing that arises as wisdom, capable of engaging objects with clear discernment.
+
+[1738]
+<tibetan>དད་པ་ལ་སོགས་པ་རྣམ་པ་དྲུག་གོ
+<literal>faith etc. nature six go/
+<liturgical><break><prose> These are the six: faith, effort, mindfulness, concentration, wisdom, and mental peace.
+
+[1739]
+<tibetan>།ཡང་ཉི་ཟླ་ཁ་སྦྱོར་ལས།
+<literal>also Sun-Moon Union from/
+<liturgical><break><tantra> Thus it is spoken in the Sun-Moon-Union Tantra.
+
+[1740]
+<tibetan>དབང་པོ་ནི་གཉིས་ཏེ།
+<literal>faculty is two and/
+<liturgical><ornament>Regarding the faculties, there are two main categories:
+
+[1741]
+<tibetan>གཟུགས་ཀྱི་ཆ་ལས་བྱུང་བའི་དབང་པོ་དང༌།
+<literal>form-genitive portion from arisen faculty and/
+<liturgical><prose>The faculty arising from the portion of form, being the support of embodied existence, and || 10 ||
+
+[1742]
+<tibetan>ཤེས་རབ་ཀྱི་ཆ་ལས་བྱུང་བའི་དབང་པོའོ།
+<literal>wisdom-genitive portion from arisen faculty is/
+<liturgical><prose>The faculty arising from the portion of wisdom, being the illumination of awareness.
+
+[1743]
+<tibetan>།གཟུགས་ཀྱི་ཆ་ལས་བྱུང་བའི་དབང་པོ་ནི་དྲུག་སྟེ།
+<literal>form-genitive portion from arisen faculty is six and/
+<liturgical><prose>The faculty arising from the portion of form is sixfold:
+
+[1744]
+<tibetan>རགས་པ་སའི་ཆ་འཛིན་པ་མིག་གི་དབང་པོ་དང༌།
+<literal>coarse earth portion hold eye faculty and/
+<liturgical><prose>The eye faculty, holding the coarse earth portion, sees forms.
+
+[1745]
+<tibetan>བསྐྱོད་པ་རླུང་གི་ཆ་འཛིན་པ་རྣ་བའི་དབང་པོ་དང༌།
+<literal>move wind portion hold ear faculty and/
+<liturgical><prose>The ear faculty, holding the moving wind portion, hears sounds.
+
+[1746]
+<tibetan>སྡུད་པ་ཆུའི་ཆ་འཛིན་པ་སྣའི་དབང་པོ་དང༌།
+<literal>gather water portion hold nose faculty and/
+<liturgical><prose>The nose faculty, holding the gathering water portion, smells scents.
+
+[1747]
+<tibetan>སྨིན་པ་མེའི་ཆ་འཛིན་པ་ལྕེའི་དབང་པོ་དང༌།
+<literal>ripen fire portion hold tongue faculty and/
+<liturgical><prose>The tongue faculty, holding the ripening fire portion, tastes flavors.
+
+[1748]
+<tibetan>ཁྱབ་པ་ནམ་མཁའི་ཆ་འཛིན་པ་ཡིད་ཀྱི་དབང་པོ་དང༌།
+<literal>pervade space portion hold mind faculty and/
+<liturgical><prose>The mind faculty, holding the pervading space portion, knows phenomena.
+
+[1749]
+<tibetan>འདུས་པ་སྣ་ཚོགས་པའི་ཆ་འཛིན་པ་ལུས་ཀྱི་དབང་པོའོ།
+<literal>gather various portion hold body faculty/
+<liturgical><prose>The body faculty, holding the gathering of various portions, feels touch.
+
+[1750]
+<tibetan>།ཤེས་རབ་ཀྱི་ཆ་ལས་བྱུང་བའི་དབང་པོ་ནི་དྲུག་སྟེ།
+<literal>wisdom-genitive portion from arisen faculty is six and/
+<liturgical><prose>The faculty arising from the portion of wisdom is sixfold:
+
+[1751]
+<tibetan>སེམས་རྣམ་པར་གདུང་བ་དད་པའི་དབང་པོ་དང༌།
+<literal>mind completely-afflict faith faculty and/
+<liturgical><prose>The faculty of faith, which lifts up and clarifies the mind completely. || 20 ||
+
+[1752]
+<tibetan>སེམས་རྣམ་པར་རྣོ་བའི་ཆ་ལས་བྱུང་བ་བརྩོན་འགྲུས་ཀྱི་དབང་པོ་དང༌།
+<literal>mind completely-sharp portion from arisen effort faculty and/
+<liturgical><prose>The faculty of effort, which sharpens and focuses the mind upon the path.
+
+[1753]
+<tibetan>བར་མ་ཆད་པར་ཚིག་དོན་འཛིན་པ་དྲན་པའི་དབང་པོ་དང༌།
+<literal>without-interruption word-meaning hold mindfulness faculty and/
+<liturgical><prose>The faculty of mindfulness, which holds word and meaning without interruption.
+
+[1754]
+<tibetan>ཆོས་ཉིད་སྟོང་པ་མངོན་དུ་སློང་བ་ཉེ་བར་ལེན་པའི་དབང་པོ་དང༌།
+<literal>dharmata emptiness manifest produce appropriation faculty and/
+<liturgical><prose>The faculty of concentration, which manifests the emptiness of dharmatā and produces engagement.
+
+[1755]
+<tibetan>ལྟ་བའི་དོན་ཉེར་བར་ལེན་པ་ཤེས་རབ་ཀྱི་དབང་པོ་དང༌།
+<literal>view-genitive meaning appropriate wisdom faculty and/
+<liturgical><prose>The faculty of wisdom, which engages the meaning of view with discernment.
+
+[1756]
+<tibetan>མི་རྟོག་པའི་དོན་ཉེ་བར་སྐྱེད་པར་བྱེད་པ་སེམས་རྣམ་པར་ཞི་བའི་དབང་པོའོ་ཞེས་སོ།
+<literal>non-conceptual meaning near produce mind completely-peaceful faculty so/
+<liturgical><prose>The faculty of mental peace, which produces the non-conceptual meaning of reality. Thus it is taught.
+
+[1757]
+<tibetan>།ལྔ་པ་ཡུལ་དང་ཡུལ་ཅན་གྱི་རྣམ་པ་ནི།
+<literal>five object and object-possessor-genitive type is/
+<liturgical><ornament>Fifth: The aspects of objects and possessors of objects, being the domain of experience.
+
+[1758]
+<tibetan>གཟུང་བ་དང་འཛིན་པའི་རྣམ་པར་སྐྱེས་པ་སྟེ།
+<literal>grasp and grasp-genitive type arise/
+<liturgical><prose>These aspects arise from the interaction of grasped objects and the grasping subject.
+
+[1759]
+<tibetan>དབྱེ་ན་གཟུང་ཡུལ་དངོས་པོར་སྣང་བ་ཆོས་ཅན་གྱི་ཆ་དང༌།
+<literal>divided grasp object entity appear phenomenon-genitive portion and/
+<liturgical><prose>If divided: The portion of phenomenon appearing as the grasped object entity, and
+
+[1760]
+<tibetan>དེའི་རང་བཞིན་སྟོང་པ་ཆོས་ཉིད་ཀྱི་ཆ་སྟེ།
+<literal>that-genitive self-nature empty dharmata-genitive portion/
+<liturgical><prose>The portion of dharmatā, being the emptiness of that nature.
+
+[1761]
+<tibetan>ཡུལ་དང་ཡུལ་མ་ཡིན་པ་ཡུལ་ཅན་ཤེས་པ་སྟེ།
+<literal>object and object not object-possessor cognition/
+<liturgical><prose>The cognition that is object and not object-possessor knows without duality. || 30 ||
+
+[1762]
+<tibetan>དེ་ཡང་ཡུལ་ལ་འཆར་ཡང་མཐར་འཛིན་ཐམས་ཅད་དང་བྲལ་བ་དང༌།
+<literal>that also object appear although extreme-grasp all free and/
+<liturgical><prose>That, although appearing as object, is free from all extreme grasping and fixation.
+
+[1763]
+<tibetan>ཡུལ་ལ་འཆར་བ་མ་ཡིན་ཞིང་བརྗོད་པ་ལས་འདས་པའི་བློ་དམ་པ་སྟེ།
+<literal>object appear not expression beyond-genitive cognition supreme/
+<liturgical><prose>The supreme cognition beyond expression that does not appear as object is non-dual wisdom.
+
+[1764]
+<tibetan>སྔ་མ་དེ་ཉིད་ལས།
+<literal>previous that itself from/
+<liturgical><tantra>From the previous classification:
+
+[1765]
+<tibetan>ཡུལ་ནི་གཉིས་ཏེ།
+<literal>object two are/
+<liturgical><prose>Objects are twofold:
+
+[1766]
+<tibetan>དངོས་པོའི་ཡུལ་དང༌།
+<literal>entity-genitive object and/
+<liturgical><prose>The object of entities, appearing as substantial things, and
+
+[1767]
+<tibetan>སྟོང་པ་ཉིད་ཀྱི་ཡུལ་ལོ།
+<literal>emptiness-genitive object/
+<liturgical><prose>The object of emptiness, being the nature of reality.
+
+[1768]
+<tibetan>།དངོས་པོའི་ཡུལ་ནི་འདི་ལྟ་སྟེ།
+<literal>entity-genitive object this like/
+<liturgical><ornament>Regarding the object of entities:
+
+[1769]
+<tibetan>གཟུགས་དང༌།
+<literal>form and/
+<liturgical><prose>These include form, being visible and resistant,
+
+[1770]
+<tibetan>སྒྲ་དང༌།
+<literal>sound and/
+<liturgical><prose>Sound, being audible and informative,
+
+[1771]
+<tibetan>དྲི་དང༌།
+<literal>smell and/
+<liturgical><prose>Odor, being scents that the nose perceives, || 40 ||
+
+[1772]
+<tibetan>རོ་དང༌།
+<literal>taste and/
+<liturgical><prose>Taste, being flavors that the tongue knows,
+
+[1773]
+<tibetan>ཆོས་དང༌།
+<literal>dharma and/
+<liturgical><prose>Phenomena, being the objects of mental cognition,
+
+[1774]
+<tibetan>རེག་ཏུ་སྣང་བ་དང༌།
+<literal>touch-to appear and/
+<liturgical><prose>The appearance of touch, being tangible qualities,
+
+[1775]
+<tibetan>འབྱུང་བ་ཆེན་པོ་བཞིར་སྣང་བ་དང༌།
+<literal>element great four appear and/
+<liturgical><prose>The appearance of the four great elements, being earth, water, fire, and wind,
+
+[1776]
+<tibetan>འཇུག་པའི་རྐྱེན་ཐ་དད་དུ་སྣང་བ་རྣམས་སོ།
+<literal>enter-genitive condition different appear are/
+<liturgical><prose>And the various appearances of entering conditions, being all possible objects.
+
+[1777]
+<tibetan>།སྟོང་པའི་ཡུལ་ནི།
+<literal>empty-genitive object is/
+<liturgical><ornament>Regarding the object of emptiness:
+
+[1778]
+<tibetan>སྟོང་པ་ཉིད་ཐམས་ཅད་དང༌།
+<literal>emptiness all and/
+<liturgical><prose>This is all emptiness, free from all cognition of extreme grasping and fixation.
+
+[1779]
+<tibetan>མཐར་འཛིན་པའི་ཤེས་པ་ཐམས་ཅད་དང་བྲལ་བའོ།
+<literal>extreme-grasp-genitive cognition all free/
+<liturgical><prose>The non-objects are twofold:
+
+[1780]
+<tibetan>།ཡུལ་མ་ཡིན་པ་ནི་གཉིས་ཏེ།
+<literal>object not two are/
+<liturgical><prose>Those transcending extremes, being beyond all conceptual limits, and
+
+[1781]
+<tibetan>མཐའ་ལས་འདས་པ་རྣམས་དང༌།
+<literal>extreme beyond and/
+<liturgical><prose>|| 50 ||
+
+[1782]
+<tibetan>ལྟ་བ་ལས་འདས་པའོ།
+<literal>view from beyond is/
+<liturgical><prose>Those transcending view, being beyond all philosophical positions.
+
+[1783]
+<tibetan>།མཐའ་ལས་འདས་པ་ཞེས་བྱ་བ་ནི།
+<literal>extreme from beyond called is/
+<liturgical><prose>What is called "transcending extremes" means not grasping any entity as truly existing self.
+
+[1784]
+<tibetan>དངོས་པོ་ཐམས་ཅད་ལ་བདག་ཏུ་མི་འཛིན་པའོ།
+<literal>entity all to self not-grasp is/
+<liturgical><prose>What is called "transcending view" means that which is inexpressible through words and concepts.
+
+[1785]
+<tibetan>།ལྟ་བ་ལས་འདས་པ་ཞེས་བྱ་བ་ནི།
+<literal>view from beyond called is/
+<liturgical><prose>Thus it is taught by the Victorious Ones.
+
+[1786]
+<tibetan>བརྗོད་དུ་མེད་པ་ཞེས་བྱའོ་ཞེས་སོ།
+<literal>expressible not called thus/
+<liturgical><prose>The divisions being thus:
+
+[1787]
+<tibetan>།དེ་ལྟར་རྣམ་པར་དབྱེ་བ་རྣམས་ནི།
+<literal>thus types divisions are/
+<liturgical><prose>Like illusion and dream, appearing as entity yet unestablished in reality.
+
+[1788]
+<tibetan>སྒྱུ་མ་དང་རྨི་ལམ་ལྟར་དོན་དུ་སྣང་བ་ཉིད་ནས་མ་གྲུབ་ལ།
+<literal>illusion and dream like entity appear itself not-established/
+<liturgical><prose>Empty by nature, non-existing—merely the delusion of clear appearance without ground.
+
+[1789]
+<tibetan>ངོ་བོ་ཉིད་ཀྱིས་སྟོང་ཞིང་མེད་པ་གསལ་སྣང་གི་འཁྲུལ་སྣང་ཙམ་སྟེ།
+<literal>essence by-means-of empty and non-exist clear-appear-genitive delusion-appear only/
+<liturgical><prose>The essence of awareness itself, self-arisen wisdom, paradoxically arising from ignorance.
+
+[1790]
+<tibetan>སེམས་ཉིད་རང་བྱུང་ཡེ་ཤེས་ཀྱི་ངོ་བོ་མ་རིག་པ་ལས་བྱུང་ཞིང༌།
+<literal>mind itself self-arise wisdom-genitive essence ignorance from arise and/
+<liturgical><prose>That essence becomes obscuration when not recognized.
+
+[1791]
+<tibetan>ངོ་བོ་སྒྲིབ་བྱེད་དུ་སྐྱེས་ལ།
+<literal>essence obscuring arise/
+<liturgical><prose>When the delusion of these appearances is cleared away, || 60 ||
+
+[1792]
+<tibetan>འདི་དག་གི་འཁྲུལ་སྣང་སངས་པ་ན།
+<literal>these delusion-appear cleared when/
+<liturgical><prose>It is called "the manifest stainless luminosity" of dharmakāya.
+
+[1793]
+<tibetan>དྲི་མ་མེད་པའི་འོད་གསལ་མངོན་དུ་གྱུར་པ་ཞེས་བྱའོ།
+<literal>stainless luminosity manifest become called/
+<liturgical><prose>Now, these abide by supporting the face of the nature produced by actions and kleśas.
+
+[1794]
+<tibetan>།ད་ལྟ་ནི་འདི་དག་ལས་དང་ཉོན་མོངས་པས་སྐྱེད་པའི་རང་བཞིན་ལས་དང་ཉོན་མོངས་ཉིད་ཀྱི་ངོ་ཁ་ལ་བརྟེན་ཞིང་གནས་ལ།
+<literal>now these action and kleśa produced self-nature action and kleśa itself-genitive face support abide/
+<liturgical><prose>That, through the support of the Kunzhi consciousness with its six or seven groups of incorrect conceptions, abides in the self-arisen wisdom of mind, the thusness of that, in the completely pure self-nature.
+
+[1795]
+<tibetan>དེ་ཡང་ཚུལ་བཞིན་མ་ཡིན་པའི་ཀུན་ཏུ་རྟོག་པ་རྣམ་ཤེས་ཚོགས་དྲུག་གམ་བདུན་ཀུན་གཞི་དང་བཅས་པ་ལ་བརྟེན་ཞིང་དེ་ཉིད་རང་བྱུང་གི་ཡེ་ཤེས་སེམས་ཀྱི་དེ་ཁོ་ན་ཉིད་རང་བཞིན་རྣམ་དག་ལ་གནས་ལ།
+<literal>that also incorrect conceptions consciousness groups six or seven alaya with supporting that itself self-arise wisdom mind-genitive thusness self-nature completely-pure in abide/
+<liturgical><prose>Since that does not abide anywhere in particular, it is called "self-arisen wisdom" beyond location.
+
+[1796]
+<tibetan>དེ་ནི་གང་ལའང་མི་གནས་པས་རང་བྱུང་གི་ཡེ་ཤེས་ཞེ་བྱ་སྟེ།
+<literal>that whatever not-abide thus self-arise wisdom called/
+<liturgical><tantra>From the Uttara Tantra:
+
+[1797]
+<tibetan>རྒྱུད་བླ་མ་ལས།
+<literal>Uttara-tantra from/
+<liturgical><tantra>Earth abides in water and wind.
+
+[1798]
+<tibetan>ས་ནི་ཆུ་རླུང་ལ།
+<literal>earth water wind in/
+<liturgical><tantra>Wind abides excellently in space.
+
+[1799]
+<tibetan>རླུང་ནི་མཁའ་ལ་རབ་ཏུ་གནས།
+<literal>wind space excellently abide/
+<liturgical><tantra>Space is not contained in wind, water,
+
+[1800]
+<tibetan>།མཁའ་ནི་རླུང་དང་ཆུ་དག་དང༌།
+<literal>space wind and water and/
+<liturgical><tantra>Nor in the earth element.
+
+[1801]
+<tibetan>།ས་ཡི་ཁམས་ལ་གནས་མ་ཡིན།
+<literal>earth-genitive element in abide not/
+<liturgical><tantra>Thus, aggregates, elements, and faculties rely upon actions and kleśas. || 70 ||
+
+[1802]
+<tibetan>།དེ་བཞིན་ཕུང་པོ་ཁམས་དབང་རྣམས།
+<literal>thus aggregates elements faculties/
+<liturgical><tantra>Actions and kleśas are not ultimately real,
+
+[1803]
+<tibetan>།ལས་དང་ཉོན་མོངས་དག་ལ་བརྟེན།
+<literal>action and kleśa rely/
+<liturgical><tantra>Yet mental activities constantly abide as their display.
+
+[1804]
+<tibetan>།ལས་དང་ཉོན་མོངས་ཚུལ་བཞིན་མིན།
+<literal>action and kleśa correct not/
+<liturgical><tantra>The incorrect mental activities abide excellently in the purity of mind.
+
+[1805]
+<tibetan>།ཡིད་ལ་བྱེད་ལ་རྟག་ཏུ་གནས།
+<literal>mental-activity constantly abide/
+<liturgical><tantra>The phenomena of mind's self-nature do not abide anywhere at all.
+
+[1806]
+<tibetan>།ཚུལ་བཞིན་མ་ཡིན་ཡིད་བྱེད་ནི།
+<literal>incorrect mental-activity/
+<liturgical><tantra>Thus it is taught.
+
+[1807]
+<tibetan>།སེམས་ཀྱི་དག་པ་ལ་རབ་གནས།
+<literal>mind-genitive pure excellently abide/
+<liturgical><tantra>From that nature arise three types of action:
+
+[1808]
+<tibetan>།སེམས་ཀྱི་རང་བཞིན་ཆོས་རྣམས་ནི།
+<literal>mind-genitive self-nature phenomena/
+<liturgical><prose>White actions, being virtuous and meritorious,
+
+[1809]
+<tibetan>།ཐམས་ཅད་ཡང་གནས་མ་ཡིན།
+<literal>all also abide not/
+<liturgical><prose>Black actions, being non-virtuous and demeritorious,
+
+[1810]
+<tibetan>།ཅེས་སོ།
+<literal>thus/
+<liturgical><prose>Mixed actions, combining both white and black.
+
+[1811]
+<tibetan>།དེ་ལས་ནི་རྣམ་པར་དཀར་བ་དང༌།
+<literal>that from white and/
+<liturgical><prose>Specifically, there are three categories: || 80 ||
+
+[1812]
+<tibetan>གནག་པ་དང༌།
+<literal>black and/
+<liturgical><prose>Merit, producing pleasant results,
+
+[1813]
+<tibetan>འདྲེས་མ་གསུམ་མམ།
+<literal>mixed three or/
+<liturgical><prose>Non-merit, producing unpleasant results,
+
+[1814]
+<tibetan>བསོད་ནམས་དང༌།
+<literal>merit and/
+<liturgical><prose>And the three immovable actions producing form realm results.
+
+[1815]
+<tibetan>བསོད་ནམས་མ་ཡིན་པ་དང༌།
+<literal>non-merit and/
+<liturgical><ornament>Regarding the action of merit:
+
+[1816]
+<tibetan>མི་གཡོ་བའི་ལས་གསུམ་མོ།
+<literal>immovable action three/
+<liturgical><prose>This is merit compatible with producing the pleasurable results of saṃsāra—the ten virtues and so forth.
+
+[1817]
+<tibetan>།བསོད་ནམས་ཀྱི་ལས་ནི།
+<literal>merit-genitive action is/
+<liturgical><prose>Non-merit consists of the ten non-virtues and the five uninterrupted offenses.
+
+[1818]
+<tibetan>སྐབས་འདིར་འཁོར་བའི་བདེ་འབྲས་སྐྱེད་པ་དགེ་བ་བཅུ་ལ་སོགས་པ་བསོད་ནམས་ཆ་མཐུན་པ་རྣམས་སོ།
+<literal>occasion here saṃsāra-genitive pleasure-result produce ten-virtue and so forth merit compatible are/
+<liturgical><prose>The immovable actions are those producing results in the higher form realms, being unmoving in their results.
+
+[1819]
+<tibetan>།བསོད་ནམས་མ་ཡིན་པ་ནི།
+<literal>non-merit is/
+<liturgical><prose>The kleśas are sixfold:
+
+[1820]
+<tibetan>མི་དགེ་བ་བཅུ་དང་མཚམས་མེད་པ་ལྔ་ལ་སོགས་པའོ།
+<literal>non-virtue ten and ānantaryas five and so forth/
+
+[1821]
+<tibetan>།མི་གཡོ་བ་ནི།
+<literal>immovable is/
+<liturgical><tantra>From the Sun-Moon Union Tantra: || 90 ||
+
+[1822]
+<tibetan>ཁམས་གོང་མའི་སར་སྐྱེད་པའི་ལས་ཏེ་གཞན་དུ་མི་གཡོ་བར་འབྲས་བུ་འབྱིན་པའི་ཕྱིར་རོ།
+<literal>element upper-genitive field produce action other not-move result produce reason/
+<liturgical><tantra>The six afflictions are these:
+
+[1823]
+<tibetan>།ཉོན་མོངས་པ་ནི་དྲུག་སྟེ།
+<literal>kleśa six are/
+<liturgical><tantra>Ignorance is the grasping of the confused conceptual basis as real.
+
+[1824]
+<tibetan>ཉི་ཟླ་ཁ་སྦྱོར་ལས།
+<literal>Sun-Moon Union from/
+<liturgical><tantra>Delusion is confusion arising from the portion of wisdom when not recognized.
+
+[1825]
+<tibetan>ཉོན་མོངས་པ་ནི་དྲུག་སྟེ།
+<literal>affliction is six and/
+<liturgical><tantra>Hatred is confusion arising from the stage of generation and becoming.
+
+[1826]
+<tibetan>མ་རིག་པ་ཞེས་པ་ནི་གཞི་འཁྲུལ་རྟོག་གི་ཆ་འཛིན་པའོ།
+<literal>ignorance called base confusion concept-genitive portion grasp is/
+<liturgical><tantra>Pride is confusion arising from the portion of view and self-importance.
+
+[1827]
+<tibetan>།གཏི་མུག་ནི་ཤེས་རབ་ཀྱི་ཆ་ལས་འཁྲུལ་པའོ།
+<literal>delusion wisdom-genitive portion from confused is/
+<liturgical><tantra>Attachment is confusion arising from the portion of appearance and desire.
+
+[1828]
+<tibetan>།ཞེ་སྡང་ནི་སྐྱེད་པའི་རིམ་པའི་ཆ་ལས་འཁྲུལ་པའོ།
+<literal>hatred generate stage-genitive portion from confused is/
+<liturgical><tantra>Jealousy is confusion arising from unmanifest effects and comparison.
+
+[1829]
+<tibetan>།ང་རྒྱལ་ནི་ལྟ་བའི་ཆ་ལས་འཁྲུལ་པའོ།
+<literal>pride view-genitive portion from confused is/
+<liturgical><tantra>And so forth for all afflictions.
+
+[1830]
+<tibetan>།འདོད་ཆགས་ནི་སྣང་བའི་ཆ་ལས་འཁྲུལ་པའོ།
+<literal>attachment appear-genitive portion from confused is/
+<liturgical><prose>The afflictions are the mind that grasps all thoughts as real.
+
+[1831]
+<tibetan>།ཕྲག་དོག་ནི་མ་རྟོགས་པའི་ལས་འཁྲུལ་པའོ།
+<literal>jealousy not-realize effect confused is/
+<liturgical><prose>The memories are the mind that grasps all recollections as permanent. || 100 ||
+
+[1832]
+<tibetan>།དེ་དག་ལ་སོགས་ཏེ།
+<literal>those etc. including/
+<liturgical><prose>The concepts become the basis of all transitional habitual tendencies and doubts.
+
+[1833]
+<tibetan>ཉོན་མོངས་པ་ནི་བསམ་པ་རྣམས་རྗེས་སུ་འཛིན་པའི་སེམས་དང༌།
+<literal>affliction thought all follow grasp mind-and/
+<liturgical><prose>The portions that grasp objects and things, and so forth—are called "immeasurable" in their variety.
+
+[1834]
+<tibetan>དྲན་པ་རྣམས་རྗེས་སུ་འཛིན་པའི་ཡིད་དང༌།
+<literal>memory all follow grasp mind-and/
+<liturgical><prose>If divided, the conceptual masses generate eighty-four thousand distinct aspects.
+
+[1835]
+<tibetan>མཚམས་སྦྱོར་བའི་བག་ཆགས་དང་ཐེ་ཚོམ་ཐམས་ཅད་ཀྱི་གཞིར་གྱུར་པའི་རྟོག་པ་དང༌།
+<literal>transition habitual tendencies-and doubt all base became concept-and/
+<liturgical><prose>Attachment,
+
+[1836]
+<tibetan>ཡུལ་དང་དངོས་པོ་འཛིན་པའི་ཆ་ལ་སོགས་ཏེ་དཔག་ཏུ་མེད་དོ་ཞེས་སོ།
+<literal>object and thing grasp portion etc. to immeasurable so/
+<liturgical><prose>Hatred,
+
+[1837]
+<tibetan>།རྣམ་པར་དབྱེ་ན་རྟོག་ཚོགས་ཀྱི་རིམ་པས་བརྒྱད་ཁྲི་བཞི་སྟོང་སྟེ།
+<literal>dividing-as concept mass stage-means-of eighty-four thousand and/
+<liturgical><prose>Delusion—these three root poisons.
+
+[1838]
+<tibetan>འདོད་ཆགས་དང༌།
+<literal>attachment-and/
+<liturgical><prose>These portions are equally divided into twenty-one thousand, one thousand, and one thousand respectively.
+
+[1839]
+<tibetan>ཞེ་སྡང་དང༌།
+<literal>hatred-and/
+<liturgical><prose>All of these, although non-existent in reality, are grasped as self—like a mirage, like water in a dream, like confusion itself, arising and grasping a snake where there is only a rope.
+
+[1840]
+<tibetan>གཏི་མུག་དང༌།
+<literal>delusion-and/
+<liturgical><prose>The vessels, contents, and all afflictions, although non-existent, appear as clear luminosity.
+
+[1841]
+<tibetan>དེ་དག་ཆ་མཉམ་པ་ལ་ཉི་ཁྲི་ཆིག་སྟོང་ཆིག་སྟོང་ཡོད་དོ།
+<literal>those portions equal-in twenty-one thousand one thousand one thousand exist-do/
+<liturgical><tantra>From the Pearl-Garland: || 110 ||
+
+[1842]
+<tibetan>།དེ་ཐམས་ཅད་ཀྱང་མེད་པ་ལ་བདག་ཏུ་འཛིན་པ་སྨིག་རྒྱུ་ལ་ཆུར་འཁྲུལ་པ་ལྟ་བུ་ལས་བྱུང་ཞིང་ཐག་པ་ལ་སྤྲུལ་འཛིན་འདྲ་སྟེ།
+<literal>those all also non-exist-to self-as grasp mirage-to water confused like-from arise-and rope-to snake grasp similar and/
+<liturgical><tantra>Thus the various appearances of saṃsāra:
+
+[1843]
+<tibetan>སྣོད་བཅུད་དང་ཉོན་མོངས་པ་ཐམས་ཅད་མེད་པ་གསལ་སྣང་གི་སྣང་བར་ཤར་བ་ནི།
+<literal>vessel content-and affliction all non-exist clear-appear appearance-in dawn is/
+<liturgical><tantra>Like seeing a snake where there is only a rope.
+
+[1844]
+<tibetan>མུ་ཏིག་ཕྲེང་བ་ལས།
+<literal>Pearl-Garland from/
+<liturgical><tantra>Grasping that which is not that as if it were real.
+
+[1845]
+<tibetan>དེ་ལྟར་སྣང་བ་སྣ་ཚོགས་རྣམས།
+<literal>thus appear various all/
+<liturgical><tantra>Outer and inner vessels and contents are formed as two distinct realms.
+
+[1846]
+<tibetan>།ཐག་པ་ལ་ནི་སྤྲུལ་མཐོང་བཞིན།
+<literal>rope-to snake see-like/
+<liturgical><tantra>When examined with wisdom, that is merely the rope—the empty nature.
+
+[1847]
+<tibetan>།དེ་མ་ཡིན་ལ་དེར་བཟུང་བས།
+<literal>that not that-to grasp-means-of/
+<liturgical><tantra>Vessels and contents are primordially empty of inherent existence.
+
+[1848]
+<tibetan>།ཕྱི་ནང་སྣོད་བཅུད་གཉིས་སུ་ཆགས།
+<literal>outer inner vessel content two-as form/
+<liturgical><tantra>They have the form of ultimate and conventional truths.
+
+[1849]
+<tibetan>།དེ་ཡང་བརྟགས་ན་ཐག་པ་ཉིད།
+<literal>that also examine-as rope itself/
+<liturgical><tantra>Seeing the snake is conventionally true as the deluded perception.
+
+[1850]
+<tibetan>།སྣོད་བཅུད་ཡེ་ནས་སྟོང་པ་སྟེ།
+<literal>vessel content primordially-from empty and/
+<liturgical><tantra>Seeing the rope is ultimately true as the wisdom perception.
+
+[1851]
+<tibetan>།དོན་དམ་ཀུན་རྫོབ་གཟུགས་ཅན་ནོ།
+<literal>ultimate conventional form-possessing no/
+<liturgical><tantra>Like a bird dwelling on high, seeing the entire landscape. || 120 ||
+
+[1852]
+<tibetan>།སྤྲུལ་མཐོང་དེ་ཉིད་མཐོང་བས་བདེན།
+<literal>snake see that very see-means-of true/
+<liturgical><tantra>The nature of the two truths:
+
+[1853]
+<tibetan>།ཐག་མཐོང་ཡང་དག་ཉིད་དུ་བདེན།
+<literal>rope see correct very true/
+<liturgical><tantra>Merely the conventional world of appearances.
+
+[1854]
+<tibetan>།དཔེར་ན་མཐོ་ལ་བྱ་གནས་བཞིན།
+<literal>example high-on bird reside-like/
+<liturgical><tantra>No inherent relation to the ultimate beyond words.
+
+[1855]
+<tibetan>།བདེན་པ་གཉིས་ཀྱི་རང་བཞིན་ནི།
+<literal>two truth nature is/
+<liturgical><tantra>From the expanse of emptiness,
+
+[1856]
+<tibetan>།འཇིག་རྟེན་ཀུན་རྫོབ་ཙམ་དུ་སྟེ།
+<literal>world conventional only-in and/
+<liturgical><tantra>All aspects of that are liberated into their true nature.
+
+[1857]
+<tibetan>།ཡང་དག་ཉིད་ལ་འབྲེལ་པ་མེད།
+<literal>correct very-to relation non-exist/
+<liturgical><tantra>Thus it is taught by the Buddha.
+
+[1858]
+<tibetan>།སྟོང་པ་ཉིད་ཀྱི་དབྱིངས་ལས་ནི།
+<literal>emptiness space-from is/
+<liturgical><tantra>From the previous teachings:
+
+[1859]
+<tibetan>།དེ་ཡི་ངོ་བོ་ཐམས་ཅད་གྲོལ།
+<literal>that essence all liberate/
+<liturgical><verse>"Aggregates are like illusory emanations, lacking true existence."
+
+[1860]
+<tibetan>།ཅེས་པ་དང༌།
+<literal>so and/
+<liturgical><prose>Thus it is taught.
+
+[1861]
+<tibetan>སྔ་མ་ལས།
+<literal>previous from/
+<liturgical><prose>Since vessels, contents, realms, aggregates, and so forth are called "phenomena of cyclic existence," || 130 ||
+
+[1862]
+<tibetan>ཕུང་པོ་སྒྱུ་མ་སྤྲུལ་པ་བཞིན།
+<literal>aggregates illusion emanation like/
+
+[1863]
+<tibetan>།ཅེས་སོ།
+<literal>so/
+
+[1864]
+<tibetan>།དེ་ལྟར་སྣོད་དང་བཅུད་ཀྱི་ཁམས་ཕུང་པོ་ལ་སོགས་པ་འདི་དག་ལ་འཁོར་བའི་ཆོས་སུ་བརྗོད་པས་ན།
+<literal>thus vessel-and content realm aggregates etc. these-to cyclic-exist phenomena-as called-means-of/
+<liturgical><prose>Knowing their empty nature, one enters the ultimate truth—the essence of complete purity—which leads to nirvāṇa.
+
+[1865]
+<tibetan>རང་བཞིན་ཤེས་ནས་མྱ་ངན་ལས་འདས་་པ་སོས་སོ་ཡང་དག་པའི་ངོ་བོ་ཉིད་དོན་དམ་པའི་བདེན་པ་ལ་འཇུག་པར་བྱེད་དོ།
+<literal>nature knowing-from nirvana thus also correct essence ultimate truth-to enter does/
+<liturgical><tantra>Here, from the Sun-Moon Union Tantra:
+
+[1866]
+<tibetan>།འདིར་ཉི་ཟླ་ཁ་སྦྱོར་གྱི་རྒྱུད་ལས།
+<literal>here Sun-Moon Union tantra from/
+<liturgical><verse>"All of these are merely the causes and conditions of saṃsāra, not truly real."
+
+[1867]
+<tibetan>དེ་ཀུན་འཁོར་བའི་རྒྱུ་འབའ་ཞིག་ལགས་པས་ཞེས་འབྱུང་བ་ཡིན་ནོ།
+<literal>those all cyclic-exist cause only is thus appears is/
+<liturgical><tantra>From the Treasury of the Supreme Vehicle:
+
+[1868]
+<tibetan>།ཐེག་པའི་མཆོག་རིན་པོ་ཆེའི་མཛོད་ལས།
+<literal>Supreme Vehicle Treasury from/
+<liturgical><prose>Thus concludes the third chapter: The Detailed Division of Samsaric Phenomena.
+
+[1869]
+<tibetan>འཁོར་བའི་ཆོས་རབ་ཏུ་དབྱེ་བ་སྟེ་རིམ་ཁང་གསུམ་པའོ།
+<literal>cyclic-exist phenomena detailed dividing and third chapter/
+<liturgical><prose>Thus, knowing the enumerations of confused appearances as they are,
+
+[1870]
+<tibetan>།དེ་ལྟར་འཁྲུལ་སྣང་གི་ཆོས་ཀྱི་རྣམ་གྲངས་ཤེས་ནས།
+<literal>thus confused-appear phenomena enumerations knowing-from/
+<liturgical><prose>Those are designated as the definitive limits of established tenets and philosophical systems.
+
+[1871]
+<tibetan>དེ་དག་འཇལ་བྱེད་གྲུབ་པའི་མཐའ་རྣམ་པར་གཞག་པ།
+<literal>those measure-doing tenets designating/
+<liturgical><prose>The extensive explanation of vehicle enumerations: || 140 ||
+
+[1872]
+<tibetan>ཐེག་པའི་རྣམ་གྲངས་རྒྱ་ཆེར་གཏན་ལ་དབབ་པ་ནི།
+<literal>vehicle enumerations extensive establishing is/
+<liturgical><tantra>From the Great Tantra of Rigpa Rangshar:
+
+[1873]
+<tibetan>རིག་པ་རང་ཤར་ཆེན་པོའི་རྒྱུད་ལས།
+<literal>Rigpa Rangshar Great Tantra from/
+<liturgical><tantra>"Hold fast to the secret vajra!
+
+[1874]
+<tibetan>ཀྱེ་ཧོ་གསང་བའི་རྡོ་རྗེ་འཛིན།
+<literal>kye ho secret vajra holder/
+<liturgical><tantra>My vehicle is immeasurable and vast.
+
+[1875]
+<tibetan>།ང་ཡི་ཐེག་པ་བསམ་ཡས་ཀྱང༌།
+<literal>my vehicle immeasurable also/
+<liturgical><tantra>It gathers all modes of explanation into two:
+
+[1876]
+<tibetan>།བཤད་ལུགས་རྣམ་པ་གཉིས་སུ་འདུས།
+<literal>explanation modes two-as gather/
+<liturgical><tantra>Saṃsāra and nirvāṇa—these alone."
+
+[1877]
+<tibetan>།འཁོར་བ་དང་ནི་མྱང་འདས་སོ།
+<literal>cyclic-exist-and nirvana so/
+<liturgical><prose>The meaning of this teaching has two aspects:
+
+[1878]
+<tibetan>།ཞེས་གསུངས་པའི་དོན་ལ་འདིར་རྣམ་པ་གཉིས་ཏེ།
+<literal>so spoken meaning here nature two and/
+<liturgical><prose>The worldly vehicle, which accomplishes temporary happiness, and
+
+[1879]
+<tibetan>འཇིག་རྟེན་པའི་ཐེག་པ་དང༌།
+<literal>worldly vehicle-and/
+<liturgical><prose>The transcendent vehicle, which accomplishes ultimate liberation.
+
+[1880]
+<tibetan>འཇིག་རྟེན་ལས་འདས་པའི་ཐེག་པའོ།
+<literal>world-transcend vehicle o/
+<liturgical><ornament>First, regarding the essence of the worldly vehicle:
+
+[1881]
+<tibetan>།དང་པོ་ལའང་ཐེག་པའི་ངོ་བོ།
+<literal>first also vehicle essence/
+<liturgical><prose>Definition, || 150 ||
+
+[1882]
+<tibetan>ངེས་ཚིག
+<literal>definition/
+<liturgical><break><prose> Division,
+
+[1883]
+<tibetan>དབྱེ་བ།
+<literal>division/
+<liturgical><break><prose> Purpose,
+
+[1884]
+<tibetan>དགོས་པ།
+<literal>purpose/
+<liturgical><prose>And the five results—these aspects.
+
+[1885]
+<tibetan>འབྲས་བུ་དང་ལྔ་ལས།
+<literal>result-and five from/
+<liturgical><prose>The essence is the definite meaning that dwells in the terminology of enumeration, which attains the results of mental investigation of saṃsāra that does not transcend suffering.
+
+[1886]
+<tibetan>ངོ་བོ་ནི་འཁོར་བ་ལས་མི་འཕགས་པའི་ཡིད་དཔྱོད་ཀྱི་རྣམ་གྲངས་གང་ཞིག་ཐོབ་བྱའི་འབྲས་བུ་ལ་དམིགས་ནས་རྣམ་གྲངས་ངེས་པའི་ཚིག་དོན་དུ་གནས་པའོ།
+<literal>essence cyclic-exist-from not-transcend mind-investigation enumeration what-which attain result-to aiming-from enumeration definite term meaning-as reside o/
+<liturgical><prose>The definition is engaging and establishing merely the excellence and happiness of the world.
+
+[1887]
+<tibetan>།ངེས་ཚིག་ནི།
+<literal>definition is/
+<liturgical><prose>If divided:
+
+[1888]
+<tibetan>འཇིག་རྟེན་གྱི་ལེགས་པར་ཙམ་ལ་སྦྱོར་ཞིང་འགོད་པའོ།
+<literal>worldly excellence only-to engage-and establish o/
+<liturgical><prose>There are the two vehicles of fixated views and mistaken philosophical positions.
+
+[1889]
+<tibetan>།དབྱེ་ན།
+<literal>dividing-as/
+<liturgical><prose>The purpose is accomplishing one's own temporary results of happiness.
+
+[1890]
+<tibetan>སོར་བཞག་དང་ཕྱིན་ཅི་ལོག་གི་ཐེག་པ་གཉིས་སོ།
+<literal>fixated-and mistaken vehicle two so/
+<liturgical><prose>The result is the method by which one's own result manifests at a certain time through practice.
+
+[1891]
+<tibetan>།དགོས་པ་ནི།
+<literal>purpose is/
+<liturgical><prose>The fixated vehicle of gods and humans: || 160 ||
+
+[1892]
+<tibetan>རང་རང་གི་འབྲས་བུ་འགྲུབ་པར་བྱེད་པའོ།
+<literal>own-own result accomplish does o/
+<liturgical><prose>Consequently, through accumulating merit and maintaining the ten virtues and ethical discipline, one accomplishes the method for achieving future happiness of gods and humans.
+
+[1893]
+<tibetan>།འབྲས་བུ་ནི།
+<literal>result is/
+<liturgical><prose>Since what is entered becomes a basis for further progress, this is called the fixated vehicle.
+
+[1894]
+<tibetan>ཐབས་དེས་རང་རང་གི་འབྲས་བུ་དེ་ནམ་ཞིག་ན་མངོན་དུ་གྱུར་པའོ།
+<literal>method that-own-own result that when become-manifest o/
+<liturgical><tantra>From the Great Magical Net of Vajrasattva:
+
+[1895]
+<tibetan>།དེ་ལ་སོར་བཞག་ལྷ་དང་མིའི་ཐེག་པ་ནི།
+<literal>that-to fixated god-and human vehicle is/
+<liturgical><tantra>"The earlier vehicle is the vehicle of gods and humans, establishing temporary happiness."
+
+[1896]
+<tibetan>དགེ་བ་བཅུ་དང་གསོ་སྦྱོང་ལ་ངེས་པར་གནས་པ་ལ་སོགས་པ་བསོད་ནམས་ཆ་མཐུན་གྱི་ལས་བསགས་པས་ལྷ་དང་མིའི་བདེ་ལེགས་ཕྱི་མ་ལ་འགྲུབ་པའི་ཐབས་ཏེ།
+<literal>ten virtue-and vow abide etc. merit concordant action accumulate-means-of god-and human happiness later accomplish-means-of method and/
+<liturgical><ornament>Regarding the mistaken vehicle:
+
+[1897]
+<tibetan>གང་གི་གྲུབ་པ་ལ་འཇུག་ཀྱང་རྟེན་དུ་གྱུར་པ་ཡིན་པས་སོར་བཞག་གི་ཐེག་པ་ཞེས་བྱའོ།
+<literal>which accomplish-to enter-also basis became is fixated vehicle called/
+<liturgical><tantra>From Rangshar, the self-arisen wisdom Tantra.
+
+[1898]
+<tibetan>།རྡོ་རྗེ་སེམས་དཔའ་སྒྱུ་འཕྲུལ་དྲ་བ་ཆེན་པོ་ལས།
+<literal>Vajrasattva Magical Net Great from/
+<liturgical><tantra>From the Great Magical Net of Vajrasattva:
+
+[1899]
+<tibetan>ཐེག་པ་སྔ་པ་ལྷ་དང་མིའི་ཐེག་པའོ་ཞེས་སོ།
+<literal>vehicle previous god-and human vehicle so/
+<liturgical><tantra>"The earlier vehicle is the vehicle of gods and humans."
+
+[1900]
+<tibetan>།ཕྱིན་ཅི་ལོག་གི་ཐེག་པ་ནི།
+<literal>mistaken vehicle is/
+<liturgical><ornament>Regarding the mistaken vehicle of philosophical positions:
+
+[1901]
+<tibetan>རང་ཤར་ལས།
+<literal>Rangshar from/
+<liturgical><tantra>From Rangshar, the Tantra of self-arisen wisdom. || 170 ||

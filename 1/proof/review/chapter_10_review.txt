@@ -1,0 +1,3081 @@
+Conduct deep scan and critical honest review of the attached Tibetan Dzogchen translation in light of the literal and liturgical mission statements.
+
+If you have suggestions for specific lines return them in code block in the strict line format:
+
+[line number]<literal or liturgical><<liturgical tags if any>>replacement text
+
+(double line break)
+
+For each entry, eg.
+
+[684]<literal>buddhas-by-means-of dharma teach-and
+[725]<liturgical><prose>The antidote for the three poisons of desire, anger, and delusion is the realization of emptiness.
+
+============================================================
+
+# LITERAL MISSION STATEMENT
+
+## Expected Output: Dense, Concise Literal Translation
+
+The literal layer should provide:
+- Word-by-word or phrase-by-phrase translation closest to Tibetan syntax
+- Technical term consistency (same English term for same Tibetan term)
+- Minimal elaboration - translate what is there, no more
+- Serve as "truth" reference for checking interpretive translations
+- Use compound structures that mirror Tibetan word compounds
+- Preserve Tibetan word order where possible
+- Include Sanskrit loanwords in IAST transliteration when original is Sanskrit
+- Mark Tibetan technical terms in italics or parentheses
+- No theological interpretation or doctrinal elaboration
+- Cadence should feel slightly "awkward" in English - this is a feature, not a bug
+
+============================================================
+
+# LITURGICAL MISSION STATEMENT
+
+## Expected Output: Poetic, Devotional, Oral-Performance Ready
+
+The liturgical layer should provide:
+- Flowing, elegant English that sounds good when chanted or read aloud
+- Proper English grammar and syntax (readable, not literally awkward)
+- Traditional Buddhist terminology in standard English translations
+- Verse/prose formatting with clear break markers
+- Tags indicating vocal performance:
+  - <ornament> - Title markers, colophons, auspicious openings
+  - <break> - Major section transitions
+  - <verse> - Metric lines meant for chanting
+  - <prose> - Explanatory passages for oral delivery
+  - <prayer> - Devotional requests or aspirations
+  - <citation> - Scriptural references or quotations
+- Appropriate honorifics and devotional language
+- Should "come alive" when performed orally
+- Preserves meaning while prioritizing beauty and usability
+
+============================================================
+
+The draft in need of review is:
+
+# Treasury of the Supreme Vehicle: Autocommentary
+# Longchen Rabjampa (1308-1364)
+## Volume 01 - Chapter 10 - Section 01
+## Chapter 10: Wisdoms and Kāyas
+
+[12500]
+<tibetan>སྲིད་པ་ཞེས་བྱ་བར་ཆགས་སོ།
+<literal>Existence called-as arise
+<liturgical><prose>The Vajra Essence Path reveals the primordial nature wherein existence itself arises as spontaneous presence beyond conceptual elaboration.
+
+[12501]
+<tibetan>།སེམས་ཅན་གྱི་གཟུགས་བསམ་གྱི་མི་ཁྱབ་པ་བྱུང་ངོ༌།
+<literal>Sentient-being-by-means-of form think-by-means-of not-imagine arise
+<liturgical><prose>The forms of sentient beings emerge as inconceivable manifestations beyond the reach of ordinary conceptual mind.
+
+[12502]
+<tibetan>།འཁྲུལ་པའི་ལམ་དང་བསམ་པ་ཡང་ཇི་ལྟར་བསམས་པའི་རྟོག་པ་ལྟར་རྟོག་པ་བྱུང་ངོ་ཞེས་སོ།
+<literal>Delusion path and thought also how think thought like thought arise said
+<liturgical><prose>The path of delusion and intention arises according to the manner in which conceptual thought manifests its own nature.
+
+[12503]
+<tibetan>།དེ་ལ་རྡོ་རྗེ་སེམས་དཔའ་ནི་རིག་པའོ།
+<literal>That Vajrasattva awareness
+<liturgical><prose>Vajrasattva represents the pure awareness of Rigpa, the self-arising wisdom of Dharmatā.
+
+[12504]
+<tibetan>།ཡུལ་ཡངས་པ་ཅན་ནི།
+<literal>Field Broad
+<liturgical><prose>The vast expanse represents the ground of being wherein all phenomena naturally abide.
+
+[12505]
+<tibetan>།ཐོག་མའི་བཞིའོ།
+<literal>First four
+<liturgical><prose>The primordial fourfold nature abides as the basis of all manifestation.
+
+[12506]
+<tibetan>།གནས་མཛེས་ལྡན་ནི།
+<literal>Place Beautiful
+<liturgical><prose>The magnificent abode manifests as the gateway of spontaneous presence.
+
+[12507]
+<tibetan>གཞི་སྣང་ལྷུན་གྲུབ་ཀྱི་འཆར་སྒོའོ།
+<literal>Basis appear spontaneous-by-means-of arise door
+<liturgical><prose>The ground appearance arises effortlessly as the natural display of clear light.
+
+[12508]
+<tibetan>།དུས་ནམ་སྲོས་པ་ནི།
+<literal>Time when destroyed
+<liturgical><prose>The timeless moment when sound emerged represents the beginningless Dharmatā of Samantabhadra.
+
+[12509]
+<tibetan>རང་མ་རིག་པ་གཞན་དུ་སྣང་བས་འཁྲུལ་གཞིའི་སྣང་བའོ།
+<literal>Self ignorance other-as appear-by-means-of delusion-basis-by-means-of appearance
+<liturgical><prose>When self appears as other through non-recognition, the ground of delusion manifests as apparent existence. || 10 ||
+
+[12510]
+<tibetan>།ཕག་གི་ལོ་ནི།
+<literal>Pig year
+<liturgical><prose>The year of the Pig marks the time when non-recognition was fully established as conceptual imputation.
+
+[12511]
+<tibetan>མ་རིག་པ་དངོས་སུ་ཀུན་བརྟགས་པའི་ཚེའོ།
+<literal>Ignorance actual all-imagine time
+<liturgical><prose>The emanated sun represents the clear perception of coarse object appearances arising as Nirmāṇakāya.
+
+[12512]
+<tibetan>།སྤྲུལ་གྱི་ཉི་མ་ནི།
+<literal>Created sun
+<liturgical><prose>The Bird constellation represents desire that arose as attachment to objects of the five senses.
+
+[12513]
+<tibetan>ཡུལ་སྣང་རགས་པར་བཟུང་བའི་རྟོག་པ་གསལ་བའི་ཆའོ།
+<literal>Object appear coarse-as grasp-by-means-of thought clear part
+<liturgical><prose>The old woman represents the emergence of non-recognition's awareness as deluded apprehension of self.
+
+[12514]
+<tibetan>།སྐར་མ་བྱ་ནི།
+<literal>Star Bird
+<liturgical><prose>The uncertain lineage represents how ground appearances manifest equally as liberation and delusion without distinction.
+
+[12515]
+<tibetan>ཡུལ་ཞེན་པའི་འདོད་ཆགས་སུ་སྐྱེས་པའོ།
+<literal>Object attached desire-as arise
+<liturgical><prose>The four rugged ones represent the four conditions that give rise to all experience.
+
+[12516]
+<tibetan>།རྒན་མོ་ནི།
+<literal>Old-one
+<liturgical><prose>The five wild ones represent the five poisons that obscure the natural state.
+
+[12517]
+<tibetan>མ་རིག་པའི་ཤེས་པ་འཁྲུལ་འཛིན་དུ་ཤར་བའོ།
+<literal>Ignorance-by-means-of consciousness delusion-grasp-as arise
+<liturgical><prose>The single back support represents the conceptualizing mind that grasps at duality.
+
+[12518]
+<tibetan>།རུས་མ་ངེས་པ་ནི།
+<literal>Lineage not-determinate
+<liturgical><prose>The single thief represents anger that steals the peace of natural awareness.
+
+[12519]
+<tibetan>གཞི་སྣང་དེ་གང་དུའང་འཆར་ཞིང་གྲོལ་འཁྲུལ་གཉིས་ཀའི་སྤྱི་ས་ཡིན་པ་ནས་འཁྲུལ་པ་ལ་ཟེར་རོ།
+<literal>Basis appear that where-also arise and liberation delusion two both common ground be-from delusion to say
+<liturgical><prose>The single gatherer represents how deluded appearances manifest as singular reality through grasping. || 20 ||
+
+[12520]
+<tibetan>།རོགས་མི་བཞི་ནི།
+<literal>Friend four
+<liturgical><prose>This mind becomes the apprehender of deluded appearance, binding Rigpa in cyclic existence.
+
+[12521]
+<tibetan>རྐྱེན་བཞིའོ།
+<literal>Condition four
+<liturgical><prose>From this arise the manifold afflictions as the hosts of maras that obscure realization.
+
+[12522]
+<tibetan>།མི་རྒོད་ལྔ་ནི།
+<literal>Wild-man five
+<liturgical><prose>Thus delusion arose from the primordial purity without ground or basis, hence called existence.
+
+[12523]
+<tibetan>དུག་ལྔའོ།
+<literal>Poison five
+<liturgical><ornament>The second section reveals delusion and liberation through the profound metaphors of the Vajra Essence.
+
+[12524]
+<tibetan>།རྒྱབ་རྟེན་མི་གཅིག་ནི།
+<literal>Back-support one
+<liturgical><prose>From spontaneous presence comes the teaching that all pure appearances should be understood through these symbols.
+
+[12525]
+<tibetan>ཀུན་རྟོག་པའི་སེམས་སོ།
+<literal>All-think mind
+<liturgical><prose>In former times in the Land of Vast Expanses dwelt the Teacher Light Diffusion, manifestation of self-arising wisdom.
+
+[12526]
+<tibetan>།རྐུན་མོ་གཅིག་ནི།
+<literal>Thief one
+<liturgical><prose>He had two sons who were imprisoned in a cave, thus the story of delusion begins.
+
+[12527]
+<tibetan>ཁོང་ཁྲོའོ།
+<literal>Anger
+<liturgical><prose>Then five soldiers came and conquered from the stone fortress peak, representing the five poisons.
+
+[12528]
+<tibetan>།ཐམས་ཅད་བསོགས་པའི་མི་གཅིག་ནི།
+<literal>All accumulate-by-means-of one
+<liturgical><prose>The two sons were sent into the valley and the old woman with the mushroom hat blocked the gate of liberation.
+
+[12529]
+<tibetan>འཁྲུལ་སྣང་གཅིག་ཏུ་གྲུབ་པའོ།
+<literal>Delusion appearance one-as establish
+<liturgical><prose>Then four men captured them and separated the five men from their horses, representing the four wisdoms. || 30 ||
+
+[12530]
+<tibetan>།དེ་ཡང་ཡིད་དེ་འཁྲུལ་སྣང་གི་འཛིན་བྱེད་དོ།
+<literal>That mind that delusion appearance-by-means-of grasp-maker
+<liturgical><prose>The two sons escaped by themselves and killed the prison guards, representing self-liberation.
+
+[12531]
+<tibetan>།དེ་ལས་ཉོན་མོངས་དུ་མ་བྱུང་བ་ནི།
+<literal>That from affliction many arise
+<liturgical><prose>The two sons fled to a place of sun and rain, gathered subjects, and consulted with twenty-one queens of wisdom.
+
+[12532]
+<tibetan>དམག་གི་ཚོགས་སོ།
+<literal>Army collection
+<liturgical><prose>They fled to the temple of Fierce Thought where five men wearing five hats guarded the gate.
+
+[12533]
+<tibetan>།དེ་ལྟར་འཁྲུལ་པ་དེ་དང་པོ་ཀ་དག་འཁོར་གཞི་མེད་པ་ཡོད་མ་ཐང་པ་ཅིག་ལས་བྱུང་བས་འདི་འདྲ་སྲིད་པ་ཞེས་བཏགས་པ་ཡིན་ནོ།
+<literal>Thus delusion that first pure samsara-basis not-possess exist-not-reach one from arise-by-means-of this-like existence called tag is
+<liturgical><prose>No one could enter without recognition, thus the story continues.
+
+[12534]
+<tibetan>།གཉིས་པ་ནི།
+<literal>Second
+<liturgical><prose>Then four mirrors looked at the demon and recognized their own nature as Dharmakāya.
+
+[12535]
+<tibetan>སྒྲུབ་བརྒྱུད་ཀྱིས་མཚོན་ནས་འཁྲུལ་པ་དང༌།
+<literal>Practice lineage-by-means-of indicate-by-means-of delusion and
+<liturgical><prose>Then seeing a house with eight doors, they laughed and lost themselves in spontaneous presence.
+
+[12536]
+<tibetan>གྲོལ་བ་གཉིས་སྟོན་པ་ནི།
+<literal>Liberation two show
+<liturgical><prose>These metaphorical forms point to the meaning of primordial wisdom manifesting as Saṃbhogakāya.
+
+[12537]
+<tibetan>ཡང་རང་ཤར་ལས།
+<literal>Again self-arisen from
+<liturgical><prose>The Teacher Light Diffusion represents self-arising wisdom, the Buddha nature within all beings.
+
+[12538]
+<tibetan>ཀྱེ་ཀློང་དུ་དག་པ་རྣམས་ཉོན་ཅིག
+<literal>Kye space-in pure listen
+<liturgical><break><prose> The two sons represent the wisdom of primordial purity and spontaneous presence united.
+
+[12539]
+<tibetan>།སངས་རྒྱས་ཀྱི་གདོངས་པའི་ཚད་འདི་རྣམས་ཀྱིས་གཟུང་བར་བྱའོ།
+<literal>Buddha intention measure this all-by-means-of grasp should
+<liturgical><break><prose> Being imprisoned in the cave represents how spontaneous appearance lacks wisdom and is bound by non-recognition. || 40 ||
+
+[12540]
+<tibetan>།སྔོན་ཡུལ་ཡངས་པ་ཅན་ཞེས་བྱ་བ་ན།
+<literal>Before field Broad called
+<liturgical><prose>The five men conquering from the stone fortress represents how the five poisons disturb Rigpa's self-abiding nature.
+
+[12541]
+<tibetan>སྟོན་པ་འོད་འགྱེད་པ་ཞེས་བྱ་བ་ཡོད་དོ།
+<literal>Teacher Light-Spread called exist
+<liturgical><prose>The two sons blocked by the old woman represents Rigpa entering the valley of existence, blocked by non-recognition.
+
+[12542]
+<tibetan>།དེ་ལ་བུ་སྤུན་གཉིས་ཡོད་དེ།
+<literal>That to son two exist and
+<liturgical><prose>Being captured by four men and separating five from horses represents how the four wisdoms purify the five afflictions.
+
+[12543]
+<tibetan>གྲོག་པོ་སྟོང་པར་བཙོན་དུ་བཟུང་ཟེར་ཏེ་ཡ་ཆ།
+<literal>Cave empty-as prison grasp said Yacha
+<liturgical><prose>The four wisdoms liberate afflictions, gather wisdom, distinguish between afflictions and wisdom, and move to the expanse.
+
+[12544]
+<tibetan>དེ་ནས་དམག་མི་ལྔ་བྱུང་ནས་རྡོའི་མཁར་རྩེ་ནས་བཅོམ་ཟེར་ཏེ་ཡ་ཆ།
+<literal>Then army five arise stone fortress peak from destroy said Yacha
+<liturgical><prose>The two sons escaping and killing guards represents recognizing self-awareness and dissolving conceptual bonds.
+
+[12545]
+<tibetan>བུ་གཉིས་དོང་དུ་བསྐྱུར་ནས།
+<literal>Son two hole to send and
+<liturgical><prose>The two sons fleeing to sun and rain and gathering subjects represents Rigpa entering the eyes and beholding the expanse.
+
+[12546]
+<tibetan>རྒན་མོའི་ལིང་ཏོག་ཅན་གྱིས་སྒོ་བཅད་ཟེར་ཏེ་ཡ་ཆ།
+<literal>Old-one heap-possess-by-means-of door close said Yacha
+<liturgical><prose>The queens consulting and fleeing to the temple represents the twenty-one instructions manifesting inner meaning.
+
+[12547]
+<tibetan>དེ་ནས་མི་བཞིས་དེད་པས་ཟིན་ཏེ།
+<literal>Then man four-by-means-of chase catch and
+<liturgical><prose>The five men guarding with hats represents the bindu of five lights remaining unmoving, unreachable by thought.
+
+[12548]
+<tibetan>མི་ལྔ་རྟ་དང་ཕྲལ་ཟེར་ཏེ་ཡ་ཆ།
+<literal>Man five horse from separate said Yacha
+<liturgical><prose>The four mirrors looking at the demon represents the four lamps' wisdom revealing self-abiding Rigpa.
+
+[12549]
+<tibetan>བུ་གཉིས་རང་གིས་རང་ཤོར་ནས་བཙོན་སྲུངས་བསད་ཟེར་ཏེ་ཡ་ཆ།
+<literal>Son two self-by-means-of self lose prison guard kill said Yacha
+<liturgical><prose>Seeing the house with eight doors represents recognizing spontaneous presence and establishing the ground. || 50 ||
+
+[12550]
+<tibetan>བུ་གཉིས་ཆར་ཉི་མ་ཅན་དུ་བྲོས་ནས་འབངས་ལ་དཔྱ་བསྡུས་ནས།
+<literal>Son two rain sun-possess-as flee subjects on tax gather and
+<liturgical><ornament>The third section presents another teaching from the same source of spontaneous presence.
+
+[12551]
+<tibetan>བཙུན་མོ་ཉི་ཤུ་རྩ་གཅིག་གིས་གྲོས་བྱས་ནས།
+<literal>Queen twenty one-by-means-of counsel do and
+<liturgical><prose>In the Land of Great Circumference dwelt a single lamp not extinguished within great mire of body and mind.
+
+[12552]
+<tibetan>བསམ་རྡུགས་ཀྱི་ལྷ་ཁང་དུ་བྲོས་ཏེ།
+<literal>Samrudra god-house to flee and
+<liturgical><prose>The Land of Radiant Light was seen by the Teacher Mirror Possessor, embodiment of awareness.
+
+[12553]
+<tibetan>མི་ལྔས་ཕུབ་ལྔ་གོན་ནས་སྒོ་བསྲུངས་པས།
+<literal>Man five armor five wear door guard-by-means-of
+<liturgical><prose>Listen, Radiant Being, and I shall prophesy for you without distraction, pointing to your true nature.
+
+[12554]
+<tibetan>སུས་ཀྱང་འོང་མ་ནུས་ཟེར་ཏེ་ཡ་ཆ།
+<literal>Who-also come not-capable said Yacha
+<liturgical><prose>Upon the peak of Mount Malaya lies the Ocean with Rim, where Father Light Protection and Mother Vajra Sow dwell.
+
+[12555]
+<tibetan>དེ་ནས་མེ་ལོང་བཞིས་བྱད་བལྟས་པས།
+<literal>Then mirror four-by-means-of face look-by-means-of
+<liturgical><prose>From their union came two children, brother and sister, representing wisdom and means.
+
+[12556]
+<tibetan>རང་གི་རང་ངོ་ཤེས་ཟེར་ཏེ་ཡ་ཆ།
+<literal>Self-by-means-of self face know said Yacha
+<liturgical><prose>Then the parents spoke thus to the children, giving instructions for the path.
+
+[12557]
+<tibetan>དེ་ནས་ཁང་པ་ཅིག་ལ་སྒོ་བརྒྱད་ཡོད་པ་མཐོང་བས་རང་ལ་རང་བགད་མོ་ཤོར་ཟེར་ཏེ་ཡ་ཆ།
+<literal>Then house one-to door eight exist see-by-means-of self to self laughter lose said Yacha
+<liturgical><prose>Son, go to the demon land and come to the mirror of self-recognition.
+
+[12558]
+<tibetan>དེ་བཞིན་བརྡའི་རྣམ་པ་རྣམས།
+<literal>Thus symbol appearance all
+<liturgical><prose>Daughter, go to the thirty-three gods' victorious palace and gather flowers of merit.
+
+[12559]
+<tibetan>།མཚོན་ནས་ཡེ་ཤེས་དོན་ལ་སྦྱོར།
+<literal>Indicate-by-means-of wisdom meaning to apply
+<liturgical><prose>The son said he would not go because the demon Black Halika would imprison him in non-recognition. || 60 ||
+
+[12560]
+<tibetan>།ཞེས་སོ།
+<literal>Said
+<liturgical><prose>Again the parents questioned why he would not go, seeking to understand his hesitation.
+
+[12561]
+<tibetan>།དེ་ལ་སྟོན་པ་འོད་འགྱེད་པ་ནི།
+<literal>That teacher Light-Spread
+<liturgical><prose>The son replied that in the demon land dwells Aunt Mushroom Hat, who is your aunt, the coemergent ignorance.
+
+[12562]
+<tibetan>རང་བྱུང་གི་ཡེ་ཤེས་སོ།
+<literal>Self arise-by-means-of wisdom
+<liturgical><prose>Ask her for fire of wisdom, he requested, understanding the need for recognition.
+
+[12563]
+<tibetan>།བུ་གཉིས་ནི།
+<literal>Son two
+<liturgical><prose>The son spoke thus to his parents, revealing his understanding.
+
+[12564]
+<tibetan>རིག་པ་ཀ་དག་དང་ལྷུན་གྲུབ་ཀྱི་ཡེ་ཤེས་གཉིས་སོ།
+<literal>Awareness pure and spontaneous-by-means-of wisdom two
+<liturgical><prose>Noble parents, that land is not mine, — yet I shall go there for the benefit of beings.
+
+[12565]
+<tibetan>།གྲོག་པོར་བཙོན་དུ་བཟུང་བ་ནི།
+<literal>Cave-as prison grasp
+<liturgical><prose>Send five servants representing the five wisdoms and a sword anointed with sesame oil of clear light.
+
+[12566]
+<tibetan>ལྷུན་གྲུབ་ཀྱི་སྣང་བ་ལ་ཡེ་ཤེས་མ་བུ་འཛོལ་ཏེ།
+<literal>Spontaneous-by-means-of appearance to wisdom mother-son mix and
+<liturgical><prose>Send five mirrors representing the five Buddha families, thus he requested.
+
+[12567]
+<tibetan>མ་རིག་པས་འཁོར་བར་བཅིངས་པའོ།
+<literal>Ignorance-by-means-of samsara bind
+<liturgical><prose>The parents rejoiced and agreed, sending five servants and five mirrors as supports.
+
+[12568]
+<tibetan>།མི་ལྔས་རྡོའི་མཁར་རྩེ་ནས་བཅོམ་པ་ནི།
+<literal>Man five stone fortress peak from destroy
+<liturgical><prose>Then the son spoke again, asking for further guidance.
+
+[12569]
+<tibetan>དུག་ལྔས་རིག་པ་རང་གནས་ལས་བསྐྱོད་ནས་འཁྲུལ་དུ་བཅུག་པའོ།
+<literal>Poison five-by-means-of awareness self abode from move delude cause
+<liturgical><prose>Noble parents, if I am captured in the demon land, what method shall I use? || 70 ||
+
+[12570]
+<tibetan>།བུ་གཉིས་རྒན་མོས་སྒོ་བཅད་པ་ནི།
+<literal>Son two old-one-by-means-of door close
+<liturgical><prose>The parents replied that in the Jewel Heap Land of the mind dwell four caste people, the four lamps.
+
+[12571]
+<tibetan>རིག་པ་འཁོར་བའི་དོང་དུ་ཚུད་དེ།
+<literal>Awareness samsara cave-in enter and
+<liturgical><prose>Send them as troops, one to gather troops of virtue, one with iron chains of method.
+
+[12572]
+<tibetan>མ་རིག་པས་སྒོ་བཅད་ནས་ཐར་དུ་མི་སྟེར་བའོ།
+<literal>Ignorance-by-means-of door close liberation not-give
+<liturgical><prose>Two to block the gate of delusion, thus they gave the complete instructions.
+
+[12573]
+<tibetan>།མི་བཞིས་ཟིན་ནས་མི་ལྔ་རྟ་དང་ཕྲལ་བ་ནི།
+<literal>Man four catch man five horse from separate
+<liturgical><prose>Thus prophesied by the parents, the son said he would do so with confidence.
+
+[12574]
+<tibetan>ཤེས་རབ་བཞིས་ཉོན་མོངས་ལྔའི་རྣམ་རྟོག་རླུང་དང་བཅས་པ་དག་པར་བྱས་པའོ།
+<literal>Wisdom four-by-means-of affliction five-by-means-of thought wind with together purify make
+<liturgical><verse>Saying E Ma Ho, he departed, and the demon Black Halika saw him approaching.
+
+[12575]
+<tibetan>།ཤེས་རབ་བཞི་ནི།
+<literal>Wisdom four
+<liturgical><verse>Oh, a flesh-eating human has appeared, do not let him escape, said the attendants of affliction.
+
+[12576]
+<tibetan>སྒྲོལ་བྱེད་ཀྱི་ཤེས་རབ་ཀྱིས་ཉོན་མོངས་པ་བསྒྲལ།
+<literal>Liberate maker-by-means-of wisdom-by-means-of affliction liberate
+<liturgical><prose>The five demons captured him, and Aunt Mushroom Hat put him in iron chains of grasping.
+
+[12577]
+<tibetan>སྡུད་བྱེད་ཀྱི་ཤེས་རབ་ཀྱིས་ཡེ་ཤེས་བསྡུས།
+<literal>Gather maker-by-means-of wisdom-by-means-of wisdom gather
+<liturgical><prose>She told the attendants that he killed her son, so do not release him from bondage.
+
+[12578]
+<tibetan>འབྱེད་བྱེད་ཀྱི་ཤེས་རབ་ཀྱིས་ཉོན་མོངས་དང་ཡེ་ཤེས་ཕྱེ།
+<literal>Distinguish maker-by-means-of wisdom-by-means-of affliction and wisdom separate
+<liturgical><prose>The attendants agreed, and thus he had no power to escape without wisdom.
+
+[12579]
+<tibetan>སྐྱོད་བྱེད་ཀྱི་ཤེས་རབ་ཀྱིས་དབྱིངས་སུ་བསྐྱོད་པར་བྱས་པའོ།
+<literal>Move maker-by-means-of wisdom-by-means-of expanse move make
+<liturgical><prose>Then the boy spoke thus, using skillful means. || 80 ||
+
+[12580]
+<tibetan>།བུ་གཉིས་ཤོར་ནས་བཙོན་སྲུངས་བསད་པ་ནི།
+<literal>Son two lose prison guard kill
+<liturgical><prose>Noble aunt, my parents said that Aunt Mushroom Hat dwells in the demon land of non-recognition.
+
+[12581]
+<tibetan>རང་རིག་རང་ངོ་ཤེས་ནས་སྒྲིབ་པའམ་འཆིང་བྱེད་ཀྱི་ལས་དང་ཉོན་མོངས་པའི་རྣམ་རྟོག་རང་གྲོལ་ལ་སོང་ནས་རྗེས་མེད་པའོ།
+<literal>Self aware self face know obscuration-or bind-maker-by-means-of action and affliction thought self liberation go trace not-possess
+<liturgical><prose>They told me to come to the mirror, so release me without capture for I am your relative.
+
+[12582]
+<tibetan>།བུ་གཉིས་ཉི་མ་ཅན་དུ་བྲོས་ནས་དཔྱ་བསྡུས་པ་ནི།
+<literal>Son two sun-possess-as flee tax gather
+<liturgical><prose>The old woman replied that she would not release him because he killed her son of delusion.
+
+[12583]
+<tibetan>རིག་པ་མིག་ལ་བཅུག་ནས་དབྱིངས་རིག་གི་སྣང་བ་ལ་བལྟས་པས་སྒོ་ལྔ་ཟིལ་གྱིས་ནོན་ནས་ཉམས་སྣ་ཚོགས་རང་ཤར་དུ་འདུས་པའོ།
+<literal>Rigpa eye-in enter-from space-awareness-of appearance-to look-by-means-of five-doors overpower-from various experiences self-arise gather/converge*/
+<liturgical><prose>Then the boy spoke again, threatening to use force.
+
+[12584]
+<tibetan>།བཙུན་མོས་གྲོས་བྱས་ཏེ་ལྷ་ཁང་དུ་བྲོས་ནས་མི་ལྔས་ཕུབ་གོན་ནས་བསྲུངས་པ་ནི།
+<literal>/Noble-lady advice make-from temple-to flee-from five-men cover under protect is/
+<liturgical><prose>If you do not release me, I shall summon troops of wisdom to conquer.
+
+[12585]
+<tibetan>རིག་པའི་ཡེ་ཤེས་ངོ་སྤྲོད་ཉི་ཤུ་རྩ་གཅིག་གིས་མཚོན་ནས་རང་སྣང་ལ་སྒོམ་དུས་རྟོག་པའི་འཕྲོ་འདུ་རང་འགགས་པའི་དོན་ནང་དུ་སྐྱེས་པ་དེ།
+<literal>Rigpa-of primordial-wisdom introduction twenty-one-by demonstrate-from self-appearance meditate time thought dispersion gather/converge self-cease meaning inner arise that/
+<liturgical><prose>You yourself summon troops, she replied arrogantly, and thus he could not escape alone.
+
+[12586]
+<tibetan>ཕྱིར་ཐིག་ལེ་འོད་ལྔའི་མུ་ཁྱུད་ཅན་མི་འགུལ་བར་གཏད་པ་ལས་འབྱུང་སྟེ།
+<literal>Outer bindu light-five rim possessing unmoving focus-from arise*/
+<liturgical><prose>Then the boy sent messages to three friends representing the three baskets of teachings.
+
+[12587]
+<tibetan>རྟོག་པས་གླགས་མི་རྙེད་པའོ།
+<literal>Thought-by gap not-find*/
+<liturgical><prose>Friends, in the Jewel Heap Land of mind dwell four people of the caste, the four lamps.
+
+[12588]
+<tibetan>།མེ་ལོང་བཞིས་བྱད་བལྟས་པས།
+<literal>/Mirror four-by sign look-from/
+<liturgical><prose>Go there, for the boy Rig Knowledge has been captured, bring many troops of wisdom.
+
+[12589]
+<tibetan>རང་ངོ་ཤེས་པ་ནི།
+<literal>Self-face know is/
+<liturgical><prose>They agreed and went swiftly to assist their friend. || 90 ||
+
+[12590]
+<tibetan>སྒྲོན་མ་བཞིའི་ཡེ་ཤེས་ལ་བལྟས་པས་རང་རིག་རང་སར་གནས་པའི་དོན་ནང་དུ་ཤར་བའོ།
+<literal>Lamp four's primordial-wisdom-to look-from self-awareness self-place abide meaning inner arise*/
+<liturgical><prose>Then within three days at sunrise, many troops came and blocked the gate of delusion.
+
+[12591]
+<tibetan>།ཁང་པ་སྒོ་བརྒྱད་མཐོང་ནས་དགོད་ཤོར་བ་ནི།
+<literal>/House door-eight see-from laugh lose is/
+<liturgical><prose>The prisoner's irons were broken, the old woman of non-recognition was expelled.
+
+[12592]
+<tibetan>ལྷུན་གྲུབ་ཀྱི་སྣང་བ་མཐོང་ནས་ཐོག་མའི་དབྱིངས་སུ་བཙན་ས་ཟིན་པའོ།
+<literal>Spontaneous appearance see-from original space-to strong-ground seize*/
+<liturgical><prose>The five were separated from their horses, and Aunt's son was captured.
+
+[12593]
+<tibetan>།གསུམ་པ་ནི།
+<literal>/Third is/
+<liturgical><prose>The attendants were beheaded with swords of wisdom and killed, liberating all.
+
+[12594]
+<tibetan>ཡང་དེ་ཉིད་ལས།
+<literal>Again that-from/
+<liturgical><prose>Then he fled to his own land and met his sister coming with many flowers of virtue.
+
+[12595]
+<tibetan>ཡང་ཡུལ་འཁོར་ཡུག་ཆེན་པོ་ཞེས་བྱ་བ་ན།
+<literal>Again realm great-circle named/
+<liturgical><prose>The parents recognized them and rejoiced greatly, naming the brother Vajra Chain Puller.
+
+[12596]
+<tibetan>འདམ་རྫབ་ཆེན་པོ་ཞིག་གི་ནང་ན།
+<literal>Mud great some within-in/
+<liturgical><prose>The sister was named Rim Holder, representing the bindu of clear light.
+
+[12597]
+<tibetan>མར་མེ་གཅིག་མ་ཤི་བར་འདུག་པ།
+<literal>Lamp one not-extinguish dwell*/
+<liturgical><prose>Then the siblings consulted and saw the Teacher Mirror Possessor, Buddha Samantabhadra.
+
+[12598]
+<tibetan>ཡུལ་མདངས་དང་ལྡན་པ་ཞེས་བྱ་བ་ནས།
+<literal>Realm light possessing named from/
+<liturgical><prose>Listen, noble child, in the Uncontrived Appearance Land dwells a crystal stupa of Dharmakāya.
+
+[12599]
+<tibetan>སྟོན་པ་མེ་ལོང་ཅན་ཞེས་བྱ་བས་མཐོང་སྟེ།
+<literal>Teacher mirror-possessing named-by see*/
+<liturgical><prose>Upon its wheel are four silver mirrors of the four lamps, so go from Malaya's peak. || 100 ||
+
+[12600]
+<tibetan>དེ་ལ་འདི་སྐད་ཅེས་སྨྲས་སོ།
+<literal>That-to this word thus speak*/
+<liturgical><prose>Put it in the rim enclosure, climb the jewel stairs carrying a jewel vessel of wisdom.
+
+[12601]
+<tibetan>།ཀྱེ་སེམས་ཅན་མདངས་དང་ལྡན་པ་ཁྱོད་ཉོན་ཞིག
+<literal>/Hey sentient-being light possessing you listen*
+<liturgical><break><verse> At the stupa's peak dwells a teacher Unchanging Light, the Dharmakāya Buddha.
+
+[12602]
+<tibetan>།ངས་ཁྱོད་ལ་ལུང་བསྟན་གྱིས་མ་ཡེངས་པར་ཉོན་ཞིག
+<literal>/I you-to prophecy give not-distracted listen*
+<liturgical><verse>From his right foot comes a light-ray rope of compassion, so hold it without fear and go.
+
+[12603]
+<tibetan>རི་བོ་ཆེན་པོ་མ་ལ་ཡ་ཞེས་བྱ་བའི་རྩེ་མོ་ན།
+<literal>Mountain great Malaya named peak-on/
+<liturgical><break><prose> Then your appearance's father is there, so run there with devotion.
+
+[12604]
+<tibetan>རྒྱ་མཚོ་མུ་ཁྱུད་ཅན་ཞེས་བྱ་བ་ཅིག་ཡོད་དེ།
+<literal>Ocean rim-possessing named some exist*/
+<liturgical><prose>Beyond that is a crystal house with eight doors, where your mother Various Appearance dwells.
+
+[12605]
+<tibetan>དེའི་ནང་ན་ཡབ་འོད་སྲུངས་ཞེས་བྱ་བ་དང༌།
+<literal>That within-in father Light-Protector named and*/
+<liturgical><prose>At that time you will not recognize your mother due to habitual patterns.
+
+[12606]
+<tibetan>ཡུམ་རྡོ་རྗེ་ཕག་མོ་ཞེས་བྱ་བ་གཉིས་བཤོས་པ་ལས།
+<literal>Mother Vajra-Sow named two meet-from/
+<liturgical><prose>Beyond that is a house of various jewels, your true abode, so take your seat there.
+
+[12607]
+<tibetan>མིང་སྲིང་གཉིས་བྱུང་སྟེ།
+<literal>Name sibling two arise*/
+<liturgical><prose>Thus prophesied by the Teacher, the boy Chain Puller spoke thus with gratitude.
+
+[12608]
+<tibetan>དེ་ནས་ཕ་མ་གཉིས་ཀྱིས་མིང་སྲིང་གཉིས་པོ་ལ་འདི་སྐད་ཞེས་ཟེར་རོ།
+<literal>Then father mother two-by name sibling two-to this word thus say*/
+<liturgical><prose>Great Teacher, we shall do so, he said to his sister with determination.
+
+[12609]
+<tibetan>།བུ་ཁྱོད་སོང་ལ་བདུད་ནག་པོའི་ཡུལ་ནས་མེ་ལོང་ལ་ཤོག་ཅིག
+<literal>/Son you go-from demon black-of realm-from mirror-to come*
+<liturgical><break><prose> We shall do as the Teacher prophesied, following the path of liberation. || 110 ||
+
+[12610]
+<tibetan>བུ་མོ་ཁྱོད་སོང་ལ་སུམ་ཅུ་རྩ་གསུམ་ལྷའི་ཡུལ་རྣམ་པར་རྒྱལ་བའི་ཁང་བཟངས་ནས།
+<literal>Daughter you go-from thirty-three gods-of realm completely-victorious palace-from/
+<liturgical><break><verse> Riding the sun's rays of wisdom, wearing rainbow armor of the elements.
+
+[12611]
+<tibetan>མེ་ཏོག་ཐུས་ལ་ཤོག་ཅིག་བྱས་པས།
+<literal>Flower gather/converge-to come do-from/
+<liturgical><verse>With a pearl garland binding the waist of channels, holding a crystal spear of awareness.
+
+[12612]
+<tibetan>བུ་དེ་ན་རེ་ང་མི་འགྲོ་ཟེར་རོ།
+<literal>Son that say I not-go say*/
+<liturgical><prose>A path appeared in space and they reached the jewel house without obstruction.
+
+[12613]
+<tibetan>།དེ་ནས་ཡང་ཕ་མ་གཉིས་ན་རེ་བུ་ཁྱོད་མི་འགྲོ་བ་ཅི་སྟེ་བྱས་པས།
+<literal>/Then again father mother two say son you not-go what do-from/
+<liturgical><ornament>The meaning is thus, profound and vast.
+
+[12614]
+<tibetan>བུ་དེ་ན་རེ་བདུད་ཀྱི་ཡུལ་ན་བདུད་ཧ་ལི་ཀ་ནག་པོ་ཞེས་བྱ་བ་ཡོད་པས།
+<literal>Son that say demon-of realm-in demon Hali-ka black named exist from/
+<liturgical><prose>The Great Circumference Land represents cyclic existence with its endless rounds.
+
+[12615]
+<tibetan>བདག་བཙོན་དུ་བཟུང་ནས་འགྲོ་ཟེར་བས།
+<literal>self prisoner as captured having gone say-having/
+<liturgical><prose>The mire represents body, speech, and mind as the vessel of practice.
+
+[12616]
+<tibetan>ཡང་ཕ་མ་ན་རེ་འདི་སྐད་ཟེར་རོ།
+<literal>again father-mother said this word say-ro/
+<liturgical><prose>The lamp represents Rigpa's wisdom always burning within.
+
+[12617]
+<tibetan>།བུ་དེ་སྐད་མ་ཟེར།
+<literal>/son that word not say/
+<liturgical><prose>The Radiant Land represents the clear light within the heart center.
+
+[12618]
+<tibetan>བདུད་ཀྱི་ཡུལ་ན་ཨ་ཕྱི་ལིང་ཏོག་ཅན་ཞེས་བྱ་བ་ཡོད་ཀྱིས།
+<literal>demon of land-in a-phyi ling-thog-possessor called exists-having/
+<liturgical><prose>The Teacher Mirror Empty represents self-arising wisdom as the mirror lamp.
+
+[12619]
+<tibetan>དེ་ཁྱོད་ཀྱི་ཨ་ཕྱི་ཡིན་གྱིས།
+<literal>that your of a-phyi is-having/
+<liturgical><prose>Prophecy represents understanding through direct experience beyond words. || 120 ||
+
+[12620]
+<tibetan>དེ་ལ་མེ་སློངས་ཤིག་བྱས་པས།
+<literal>that-to fire request-do by-having/
+<liturgical><prose>Mount Malaya's peak with ocean and teacher parents represents Rigpa's self-radiance.
+
+[12621]
+<tibetan>བུ་ན་རེ་འདི་སྐད་ཅེས་ཟེར་རོ།
+<literal>son said this word thus say-ro/
+<liturgical><prose>The bindu and empty lamp arise from the sphere of pure appearance and bindu of empty space.
+
+[12622]
+<tibetan>།ཀྱེ་ཡབ་ཡུམ་བདག་གི་ཡུལ་དེ་མ་ལགས་ཏེ།
+<literal>/kye father-mother self of land that not is-having/
+<liturgical><prose>The parents instructing the children represents the sphere appearance and bindu maturing in the senses.
+
+[12623]
+<tibetan>ཡུལ་དེར་བདག་མཆི་ཡིས།
+<literal>land that-to self go-having/
+<liturgical><prose>The son not following instructions represents dull faculties and beginner's attachment to appearances.
+
+[12624]
+<tibetan>བདག་ལ་གཡོག་པོ་མི་ལྔ་ཐོང་ཞིག
+<literal>self-to servant person five send-do
+<liturgical><break><prose> If attached, self-awareness is bound by demons of apprehension and grasping.
+
+[12625]
+<tibetan>ཏིལ་མར་གྱི་རང་ངར་བཏགས་པའི་རལ་གྲི་གཅིག་བསྐུར་ཞིག
+<literal>sesame-oil of nature affixed of sword one send-do
+<liturgical><prose>Aunt represents coemergent non-recognition with Rigpa that must be recognized.
+
+[12626]
+<tibetan>།མེ་ལོང་ལྔ་བསྐུར་ཞིག་བྱས་པས།
+<literal>/mirror five send-do by-having/
+<liturgical><break><prose> The single mirror represents the experience of object investigation revealing emptiness.
+
+[12627]
+<tibetan>ཕ་མ་གཉིས་དགའ་བས་དེ་ལྟར་བྱའོ་ཟེར་ནས།
+<literal>father-mother two joy-having that like do-ho say-having/
+<liturgical><prose>The five with sword and mirrors represents how appearance is not Rigpa's object.
+
+[12628]
+<tibetan>མི་ལྔ་གཡོག་ཏུ་བརྫངས་སོ།
+<literal>person five servant-as sent-so/
+<liturgical><prose>Lost in delusion, Rigpa wanders there, needing the five wisdoms as companions.
+
+[12629]
+<tibetan>།མེ་ལོང་ལྔ་བསྐུར་རོ།
+<literal>/mirror five sent-ro/
+<liturgical><prose>The son asking the method represents seeking liberation from delusion through inquiry. || 130 ||
+
+[12630]
+<tibetan>།དེ་ནས་ཡང་བུ་ན་རེ་འདི་སྐད་ཅེས་ཟེར་རོ།
+<literal>/that-from again son said this word thus say-ro/
+<liturgical><prose>The Jewel Heap Land is the mind, the four people are the four lamps.
+
+[12631]
+<tibetan>།ཀྱེ་ཡབ་ཡུམ་བདག་ནི་བདུད་ཀྱི་ཡུལ་ནས་འཐོགས་ན་ཇི་ལྟར་བགྱི་ཞེས་དྲིས་པས།
+<literal>/kye father-mother self demon of land-from captured if how do ask-having/
+<liturgical><prose>Sending troops represents practice companions, gathering with wisdom, distinguishing mind and wisdom.
+
+[12632]
+<tibetan>ཕ་མ་གཉིས་ན་རེ།
+<literal>father-mother two said/
+<liturgical><prose>The four wisdoms liberate, distinguish, gather, and move to the expanse.
+
+[12633]
+<tibetan>ཡུལ་རིན་པོ་ཆེའི་ཕུང་པོ་ཞེས་བྱ་བ་ན།
+<literal>land jewel of pile called exists-having/
+<liturgical><prose>Going there represents delusion from ground appearance into existence.
+
+[12634]
+<tibetan>གདོལ་པ་ཅན་གྱི་མི་བཞི་ཡོད་ཀྱིས་དེ་དག་དམག་ཏུ་སྦྲོན་ལ།
+<literal>outcaste-possessor of person four exist-having that plural army-to summon-do/
+<liturgical><prose>Captured by demons represents Rigpa falling under afflictions' power.
+
+[12635]
+<tibetan>མི་གཅིག་གིས་དམག་སྡུས་ཤིག
+<literal>person one-by army gather-do
+<liturgical><break><verse> Aunt's grief not releasing represents cyclic existence not liberated by words alone.
+
+[12636]
+<tibetan>།མི་གཅིག་གིས་ལྕགས་ཁྲོལ་ཞིག
+<literal>/person one-by iron-chain-do
+<liturgical><verse>The three messengers represent the three baskets, skillfully conveying symbolic meaning.
+
+[12637]
+<tibetan>།མི་གཉིས་ཀྱིས་སྒོ་ཆོག་ཅིག
+<literal>/person two-by door block-do
+<liturgical><verse>The boy represents Rigpa bound in existence yet seeking liberation.
+
+[12638]
+<tibetan>།དེ་སྐད་ཅེས་ཕ་མ་གཉིས་ཀྱིས་ལུང་བསྟན་པས།
+<literal>/that word thus father-mother two-by prophecy-having/
+<liturgical><break><prose> Calling the four lamps as allies, wisdom and realization arise to conquer.
+
+[12639]
+<tibetan>བུ་ན་རེ་དེ་ལྟར་བགྱིའོ།
+<literal>son said that like do-ho/
+<liturgical><prose>The prison irons break, the old woman of non-recognition is expelled. || 140 ||
+
+[12640]
+<tibetan>།ཨེ་མ་ཧོ་ཟེར་ནས་སོང་བ་ལས།
+<literal>/e ma ho say-having gone having/
+<liturgical><prose>The five poisons' afflictions with their wind-horses are separated from Rigpa.
+
+[12641]
+<tibetan>དེ་ནས་བདུད་ཧ་ལི་ཀ་ནག་པོས་མཐོང་སྟེ།
+<literal>that-from demon ha-li-ka-nag-by seen-having/
+<liturgical><prose>Rigpa recognizes its nature without departing from its place, capturing the essence.
+
+[12642]
+<tibetan>འོ་མི་ཤ་བྱུང་བས་འཁོར་རྣམས་ཀྱིས་ཟུངས་ལ་འདི་མ་བཏང་ཞིག་བྱས་པས།
+<literal>oh person flesh appeared-having retinue plural-by seized having this not release-do by-having/
+<liturgical><prose>Eighty thousand afflictions are beheaded by the sword of wisdom.
+
+[12643]
+<tibetan>བདུད་ཀྱི་མི་ལྔས་བཟུང་ངོ༌།
+<literal>demon of person five-by captured*/
+<liturgical><prose>Clear light of Dharmatā's self-appearance recognized as the ground.
+
+[12644]
+<tibetan>།ཨ་ཕྱི་ལིང་ཐོག་ཅན་གྱིས་ལྕགས་བཅུག་ནས།
+<literal>/a-phyi ling-thog-possessor-by iron inserted-having/
+<liturgical><prose>The sister gathering flowers represents the lamp's perfect measure accomplished.
+
+[12645]
+<tibetan>འཁོར་རྣམས་ལ་འདིས་ངའི་བུ་བསད་པ་ཡིན་པས།
+<literal>retinue plural-to this my son killed having/
+<liturgical><prose>The parents naming represents non-recognition severed, Rigpa self-clear.
+
+[12646]
+<tibetan>འདི་མ་བཏང་ཞིག་བྱས་པས།
+<literal>this not release-do by-having/
+<liturgical><prose>The Vajra Chain Puller self-arises as Nirmāṇakāya for beings.
+
+[12647]
+<tibetan>འཁོར་རྣམས་ན་རེ་དེ་ལྟར་བགྱིའོ་ཟེར་ནས་འགྲོ་བའི་དབང་མ་བྱུང་ངོ༌།
+<literal>retinue plural said that like do-ho say-having going of power not arise*/
+<liturgical><prose>The empty bindu lamp appears to objects as Saṃbhogakāya.
+
+[12648]
+<tibetan>།དེ་ནས་ཡང་བུ་དེས་འདི་སྐད་ཅེས་བྱས་སོ།
+<literal>/that-from again son that-by this word thus did-so/
+<liturgical><prose>The siblings consulting represents Rigpa entering the expanse, gathered as one.
+
+[12649]
+<tibetan>།ཀྱེ་ཨ་ཕྱི་བདག་གིས་ཕ་མ་གཉིས་ཀྱི་ཞལ་ན་རེ།
+<literal>/kye a-phyi self-by father-mother two of face-at said/
+<liturgical><prose>Seeing the Teacher represents the first bardo's clear light of Dharmakāya. || 150 ||
+
+[12650]
+<tibetan>ཁྱོད་ཀྱི་ཨ་ཕྱི་ལིང་ཐོག་ཅན་ཞེས་བྱ་བ་ཅིག་བདུད་ཀྱི་ཡུལ་ན་ཡོད་ཀྱིས།
+<literal>your of a-phyi ling-thog-possessor called one demon of land-in exists-having/
+<liturgical><prose>The Uncontrived Appearance Land represents Dharmatā bardo's natural display.
+
+[12651]
+<tibetan>དེ་ནས་མེ་ལོང་ལ་ཤོག་ཟེར་བ་ལགས་ཀྱི།
+<literal>that-from mirror-to come say-having exists-having/
+<liturgical><prose>The stupa represents the five lights' five bindus adorned as the Buddha body.
+
+[12652]
+<tibetan>བདག་མ་བཟུང་བར་ཐོང་ཞིག་བྱས་པས་རྒན་མོ་དེ་ན་རེ་ཁྱོད་མི་གཏོང་བ་ཡིན།
+<literal>self not captured having release-do by-having old-woman that said you person not-releasing is/
+<liturgical><prose>The wheel with four mirrors represents the five light-paths and four wisdoms united.
+
+[12653]
+<tibetan>ངའི་བུ་ཁྱོད་ཀྱི་ཕས་བསད་པ་ཡིན་པས་མི་གཏོང་ཟེར་རོ།
+<literal>my son your father-by killed having person not-releasing say-ro/
+<liturgical><prose>These can be seen now if practiced with devotion and diligence.
+
+[12654]
+<tibetan>།དེ་ནས་ཡང་བུ་དེས་འདི་སྐད་ཅེས་བྱས་སོ།
+<literal>/that-from again son that-by this word thus did-so/
+<liturgical><prose>Coming from Malaya represents non-abiding, looking at the expanse's enclosure.
+
+[12655]
+<tibetan>།བདག་མི་གཏོང་ན་དམག་འདྲེན་བྱས་པས།
+<literal>/self person not-releasing if army lead by-having/
+<liturgical><prose>The stairs, vessel, and peak's teacher with light represent realization recognizing nature.
+
+[12656]
+<tibetan>ཁྱོད་རང་དམག་དྲོངས་ཟེར་ནས་མ་ཐར་རོ།
+<literal>you self army lead say-having not escaped-ro/
+<liturgical><prose>The eight-door house represents spontaneous presence's eight gateways of perception.
+
+[12657]
+<tibetan>།དེ་ནས་བུས་འགྲོན་པོ་མི་གསུམ་ལ་འཕྲིན་བརྫངས་པས།
+<literal>/that-from son-by messenger person three-to message sent-having/
+<liturgical><prose>The jewel house represents the precious spontaneous presence's interior.
+
+[12658]
+<tibetan>ཀྱེ་གྲོགས་པོ་དག་ཡུལ་རིན་པོ་ཆེ་སྤུངས་པ་ཞེས་བྱ་བ་ན།
+<literal>kye friends land jewel pile called exists-having/
+<liturgical><prose>Going according to prophecy represents riding the light-ray sunbeam without transformation.
+
+[12659]
+<tibetan>གདོལ་བའི་རིགས་ཀྱི་མི་བཞི་ཡོད་ཀྱིས།
+<literal>outcaste of lineage of person four exist-having/
+<liturgical><prose>The measure of realization binds, wisdom's spear in hand cutting delusion. || 160 ||
+
+[12660]
+<tibetan>དེར་ཁྱོད་ཀྱིས་སོང་ལ།
+<literal>there-to you-by go-do/
+<liturgical><prose>A path arises in space, liberating in primordial purity's ground of Dharmakāya.
+
+[12661]
+<tibetan>ཁྱེའུ་རིགས་བྱེད་བཙོན་དུ་བཟུང་བས་དམག་གི་དཔུང་མང་པོ་དང་ཆོས་ལ་ཤོག་གྱིས་ཤིག་ཅེས་སྨྲས་པས།
+<literal>boy rigs-byed prisoner-as captured having army of forces many-with dharma-to come-do say-having/
+<liturgical><ornament>The fourth section presents another teaching from spontaneous presence.
+
+[12662]
+<tibetan>དེ་ལྟར་བགྱིའོ་ཟེར་ནས་སོང་ངོ༌།
+<literal>that like do-ho say-having gone*/
+<liturgical><prose>In the Pure Appearance Land dwells a fortress with eight doors of liberation.
+
+[12663]
+<tibetan>།དེ་ནས་ཞག་གསུམ་གྱི་ནང་བར་ཉི་མ་ཤར་ཙམ་ན།
+<literal>/that-from day three of within sun rose just-at/
+<liturgical><prose>The boy Self-Arising Rigpa Knowledge rules there as the natural state.
+
+[12664]
+<tibetan>དམག་མང་པོ་བྱུང་ནས་སྒོ་བཅག་ནས།
+<literal>army many having-arisen door blocked having/
+<liturgical><prose>An old woman Mushroom Hat dwells there, and the king Arrow Guard Fame Power.
+
+[12665]
+<tibetan>བཙོན་གྱི་ལྕགས་བཅག
+<literal>prisoner of iron broke
+<liturgical><break><prose> He has five princely sons who went to play, capturing the old woman of ignorance.
+
+[12666]
+<tibetan>རྒན་མོ་མདོར་བཏོན།
+<literal>old-woman out threw/
+<liturgical><break><prose> Then the boy went to the daughter's playground, captured and put in chains.
+
+[12667]
+<tibetan>མི་ལྔ་རྟ་དང་ཕྲལ།
+<literal>person five horse-with separated/
+<liturgical><ornament>The meaning is thus, profound symbolism of the path.
+
+[12668]
+<tibetan>ཨ་ཕྱིའི་བུ་བཙོན་དུ་བཟུང༌།
+<literal>a-phyi of son prisoner-as captured*/
+<liturgical><prose>The Pure Appearance Land represents Rigpa's pure realm of Dharmakāya.
+
+[12669]
+<tibetan>འཁོར་རྣམས་རལ་གྲིས་མགོ་བཅད་དེ་བསད་དོ།
+<literal>retinue plural sword-by head cut having killed*/
+<liturgical><prose>The eight-door fortress represents spontaneous presence's eight gateways of liberation. || 170 ||
+
+[12670]
+<tibetan>།དེ་ནས་རང་གི་ཡུལ་དུ་བྲོས་སོ།
+<literal>/that-from self of land-to fled*/
+<liturgical><prose>Self-arising Rigpa dwells with coemergent non-recognition as the old woman.
+
+[12671]
+<tibetan>།ཡུལ་དུ་ཕྱིན་པས་སྲིང་མོ་སུམ་ཅུ་རྩ་གསུམ་ལྷའི་ཡུལ་ནས་མེ་ཏོག་མང་པོ་ཁྱེར་ནས་བྱུང་བ་དང་ཕྲད་དོ།
+<literal>/land-to arrived sister thirty-three god of land-from flower many carrying having-arisen having met*/
+<liturgical><prose>The king represents the root of afflictions, self-grasping at true existence.
+
+[12672]
+<tibetan>།དེ་ནས་ཕ་མ་གཉིས་ཀྱིས་ངོ་ཤེས་ནས་རབ་ཏུ་དགའ་ནས་མིང་སྲིང་གཉིས་ལ་མིང་བཏགས་པས་མིང་པོ་ལ་རྡོ་རྗེ་ལུ་གུ་རྒྱུད་འདྲེན་པ་ཞེས་བྱ་བར་བཏགས་སོ།
+<literal>/that-from father-mother two-by face known having greatly joy-having name sibling two-to name affixed-having name older-brother-to vajra Lugu-Gyud drawer called-as affixed-so/
+<liturgical><prose>The sons represent the five poison afflictions that disturb the mind.
+
+[12673]
+<tibetan>།སྲིང་མོ་ལ་མུ་ཁྱུད་འཛིན་ཞེས་བཏགས་སོ།
+<literal>/sister-to boundary-holder called affixed-so/
+<liturgical><prose>Play represents mastery over the five senses while experiencing attachment and aversion.
+
+[12674]
+<tibetan>།དེ་ནས་མིང་སྲིང་གཉིས་གྲོས་བྱས་པས།
+<literal>/that-from name sibling two counsel did-having/
+<liturgical><prose>Capturing the old woman represents non-recognition grasped by the five poisons.
+
+[12675]
+<tibetan>སྟོན་པ་མེ་ལོང་ཅན་ཞེས་བྱ་བ་དེ་མཐོང་སྟེ།
+<literal>teacher mirror-possessor called that seen-having/
+<liturgical><prose>The five poisons become one with non-recognition, unified in deluded essence.
+
+[12676]
+<tibetan>དེ་གཉིས་ལ་ལུང་བསྟན་པ།
+<literal>that two-to prophecy/
+<liturgical><prose>This is how non-recognition appears in each sense when meeting the five poisons.
+
+[12677]
+<tibetan>ཀྱེ་རིགས་ཀྱི་བུ་ཉོན་ཞིག
+<literal>kye lineage of son listen-do
+<liturgical><break><prose> Going to the daughter's playground represents how non-recognition's essence exists in Rigpa.
+
+[12678]
+<tibetan>།ཡུལ་མ་བཀོད་པར་སྣང་བ་ཞེས་བྱ་བ་ན།
+<literal>/land not-created appear called exists-having/
+<liturgical><break><prose> Rigpa captured in its place represents conceptual grasping wherever attachment and aversion arise.
+
+[12679]
+<tibetan>རིན་པོ་ཆེ་ཤེལ་གྱི་མཆོད་རྟེན་ཁྲི་འཕང་ལྔ་པ་ཅིག་གི་ལོགས་རེ་རེ་ལ་མི་ལྔ་ལྔ་འདུན་མ་བྱེད་པ།
+<literal>jewel crystal of stupa throne five one of side each-at person five five gather-do/
+<liturgical><prose>The essence is Rigpa, the reverse is non-recognition, knowing which liberates completely. || 180 ||
+
+[12680]
+<tibetan>ཤེལ་གྱི་མཆོད་རྟེན་དེའི་འཁོར་ལོ་ལ།
+<literal>crystal of stupa that of wheel-on/
+<liturgical><ornament>The fifth section on reversing delusion presents another profound teaching.
+
+[12681]
+<tibetan>དངུལ་དཀར་གྱི་མེ་ལོང་བཞི་བཏགས་ནས་ཡོད་པས།
+<literal>silver of mirror four affixed having exists-having/
+<liturgical><prose>In the Jewel Heap Land, an old woman possessed a precious jewel of awareness.
+
+[12682]
+<tibetan>རི་བོ་མ་ལ་ཡའི་ཙ་མོ་ནས་བྱར་གྱིས་ལ།
+<literal>mountain ma-to-ya of peak-from come-do/
+<liturgical><prose>Five thieves stole it, causing her suffering in cyclic existence.
+
+[12683]
+<tibetan>མུ་ཁྱུད་ཀྱི་ར་བར་ཆུག་ཅིག
+<literal>boundary of fence-as place-do
+<liturgical><break><prose> Then the thieves were pursued and went to the Thorn Land of difficulties.
+
+[12684]
+<tibetan>།དེ་ལ་རིན་པོ་ཆེའི་སྐས་ཚུགས་ལ།
+<literal>/that-on jewel of stairs having/
+<liturgical><break><prose> The five thieves stealing caused the old woman to faint into ignorance.
+
+[12685]
+<tibetan>ལག་ཏུ་རིན་པོ་ཆེའི་སྣོད་བཅུད་ཀྱིས་བཀང་བ་ཅིག་ཐོགས་ལ་འཛེགས་ཤིག
+<literal>hand-in jewel of vessel essence-filled one having carry having climb-do
+<liturgical><break><prose> Pursuing the thieves from the Thorn Land, the old woman revived through wisdom.
+
+[12686]
+<tibetan>དེ་ནས་མཆོད་རྟེན་གྱི་རྩེ་མོ་ན་སྟོན་པ་འོད་མི་འགྱུར་བ་བྱ་བ་ཅིག་ཡོད་ཀྱིས།
+<literal>that-from stupa of peak-on teacher light not-change called one exists-having/
+<liturgical><break><verse> Then the old woman's son White Fire God spoke thus with inquiry.
+
+[12687]
+<tibetan>དེ་ལས་འོད་ཟེར་གྱི་ཐག་པ་ཞིག་ཞབས་གཡས་པ་ནས་འོང་གིས།
+<literal>that-from light-ray of thread one foot right-at comes/
+<liturgical><verse>Has my jewel been lost, he asked, seeking his true nature.
+
+[12688]
+<tibetan>དེ་ལ་མ་འཇིགས་པར་འཇུས་ལ་སོང་ཞིག
+<literal>that-to not fear having grasp having go-do
+<liturgical><break><prose> The five men replied, the jewel is not lost, but kill your old woman of ignorance.
+
+[12689]
+<tibetan>།དེ་ནས་ཁྱོད་རང་གི་སྣང་བའི་ཡབ་ཡིན་གྱིས་དེར་རྒྱུག་ཅིག
+<literal>/that-from you self of appear of father is-having there run-do
+<liturgical><prose>If you do not kill the old woman, we will not give the jewel of wisdom. || 190 ||
+
+[12690]
+<tibetan>།དེ་འདས་པའི་གོང་ན་རིན་པོ་ཆེ་ཤེལ་གྱི་ཁང་པ་ཅིག་སྒོ་བརྒྱད་ཡོད་ཀྱིས།
+<literal>/That pass-from above-in jewel crystal house one door-eight exist-from/
+<liturgical><break><prose> So he killed her, ate the flesh, drank the blood, sucked the bones completely.
+
+[12691]
+<tibetan>དེ་ན་ཁྱོད་ཀྱི་མ་སྣ་ཚོགས་སུ་སྣང་བ་བྱ་བ་ཡོད་ཀྱིས།
+<literal>That-in you-of mother variously appear do exist-from/
+<liturgical><prose>Making everything non-existent, the thieves gave the jewel of liberation.
+
+[12692]
+<tibetan>དེའི་ཚེ་ཁྱོད་ཀྱིས་མ་ངོ་ཤེས་པར་འགྱུར་རོ།
+<literal>That time you-by mother face know become*/
+<liturgical><ornament>The meaning is thus, a profound teaching on self-liberation.
+
+[12693]
+<tibetan>།དེའི་གོང་ན་རིན་པོ་ཆེ་སྣ་ཚོགས་ལས་བྱས་པའི་ཁང་པ་ཅིག་ཡོད་ཀྱིས།
+<literal>/That above-in jewel various from-made house one exist-from/
+<liturgical><prose>The Jewel Heap Land represents the mind as the source of all.
+
+[12694]
+<tibetan>དེ་ཁྱོད་ཀྱི་གནས་ཡིན་པས་དེར་ས་ཟུང་ཞིག
+<literal>That you-of place is from there-to ground seize*
+<liturgical><break><prose> The old woman is non-recognition, the jewel is Rigpa, the thieves are the five poisons.
+
+[12695]
+<tibetan>དེ་སྐད་ཅེས་སྟོན་པས་ལུང་བསྟན་པས།
+<literal>That word thus teacher-by prophecy give-from/
+<liturgical><break><prose> Suffering represents Rigpa mixed with attachment and aversion, not experiencing its own nature.
+
+[12696]
+<tibetan>ཁྱེའུ་ལུ་གུ་རྒྱུད་འདྲེན་པས་འདི་སྐད་ཅེས་བྱས་སོ།
+<literal>Youth lasso-draw that word thus do*/
+<liturgical><prose>Pursuing represents severing, going to the Thorn Land of practice.
+
+[12697]
+<tibetan>།ཀྱེ་སྟོན་པ་ཆེན་པོ་དེ་ལྟར་བདག་ཅག་གིས་བགྱིའོ་ཟེར་ནས།
+<literal>/Hey teacher great that-like we do say-from/
+<liturgical><prose>The old woman fainting represents temporary ignorance overcome by wisdom.
+
+[12698]
+<tibetan>སྲིང་མོ་ལ་འདི་སྐད་ཅེས་ཟེར་རོ།
+<literal>Sister-to this word thus say*/
+<liturgical><prose>Wisdom investigates Rigpa and its coemergent non-recognition with the five poisons.
+
+[12699]
+<tibetan>།སྟོན་པས་ལུང་བསྟན་པ་བཞིན་དུ་བྱའོ་ཟེར་ནས།
+<literal>/Teacher prophecy give-as do say-from/
+<liturgical><prose>Now in cyclic existence, knowing this, non-recognition and five poisons merely abide in the ground. || 200 ||
+
+[12700]
+<tibetan>ཉི་མའི་ཟེར་ལ་ཞོན།
+<literal>Sun-of ray mount*/
+<liturgical><prose>Thus when the root of delusion is severed by wisdom, Rigpa recognizes itself.
+
+[12701]
+<tibetan>འཇའ་ཚོན་གྱི་སྒ་བསྟད་ནས།
+<literal>Rainbow saddle place-from/
+<liturgical><prose>Non-recognition self-liberates, like reviving after being severed from grasping.
+
+[12702]
+<tibetan>མུ་ཏིག་གི་ཕྲེང་བས་གློ་བསྡམས།
+<literal>Pearl garland breath bind*/
+<liturgical><prose>Fire God represents wisdom born of self-recognition, burning delusion.
+
+[12703]
+<tibetan>ལག་ཏུ་ཤེལ་གྱི་མདུང་ཐོགས།
+<literal>Hand-to crystal spear hold*/
+<liturgical><prose>Asking if the jewel is lost, killing the old woman represents Rigpa investigating itself.
+
+[12704]
+<tibetan>ནམ་མཁའི་དཀྱིལ་དུ་ལམ་བྱུང་ནས།
+<literal>Sky center-from path arise-from/
+<liturgical><prose>Seeing not a single hair harmed, not even a fraction damaged, pure from the start.
+
+[12705]
+<tibetan>རིན་པོ་ཆེའི་ཁང་པའི་ནང་དུ་ཐོགས་རྡུགས་མེད་པར་སོང་ཟེར་ཏེ་ཡ་ཆ་ཞེས་སོ།
+<literal>Jewel house within-to obstacle without go say-from ya cha say*/
+<liturgical><prose>If coemergent non-recognition is not abandoned, it hinders like being stuck in existence.
+
+[12706]
+<tibetan>།དེའི་དོན་ལ།
+<literal>/That meaning-to/
+<liturgical><prose>The five poisons self-arise and appear to themselves as wisdom.
+
+[12707]
+<tibetan>ཡུལ་འཁོར་ཡུག་ཆེན་པོ་འཁོར་བའོ།
+<literal>Realm great-circle samsara*/
+<liturgical><prose>Looking inward at self-nature, coemergent non-recognition liberates spontaneously.
+
+[12708]
+<tibetan>།འདམ་རྫབ།
+<literal>/Mud/
+<liturgical><prose>Concepts self-liberate, anger not abandoned purifies in its own place.
+
+[12709]
+<tibetan>ལུས་ངག་ཡིད་གསུམ་གྱི་ནང་ངོ༌།
+<literal>Body speech mind three-of inner is*/
+<liturgical><prose>Attachment purifies, drinking blood represents integrating passion. || 210 ||
+
+[12710]
+<tibetan>།མར་མེ།
+<literal>/Lamp/
+<liturgical><prose>Ignorance purifies, sucking bones represents transforming delusion.
+
+[12711]
+<tibetan>རིག་པའི་ཡེ་ཤེས་སོ།
+<literal>Rigpa-of primordial-wisdom is*/
+<liturgical><prose>All afflictions become non-existent in the expanse of Dharmatā.
+
+[12712]
+<tibetan>།ཡུལ་མདངས་དང་ལྡན་ནི།
+<literal>/Realm light possessing is/
+<liturgical><prose>Looking inward at Rigpa, self-arising wisdom's jewel is found in self.
+
+[12713]
+<tibetan>སྙིང་ནང་ལ།
+<literal>Heart inner-to/
+<liturgical><ornament>The sixth section presents another teaching from spontaneous presence.
+
+[12714]
+<tibetan>སྟོན་པ་མེ་ལོང་སྟོང་ནི།
+<literal>Teacher mirror empty is/
+<liturgical><prose>In the Tamed Land of China, King Li Gardta cast a great dice divination.
+
+[12715]
+<tibetan>རང་གི་ཤེས་རབ་རང་བྱུང་གི་སྒྲོན་མའོ།
+<literal>Self-of wisdom self-arise lamp*/
+<liturgical><prose>He sent twenty-one queens as splendid attire to the four crossroads of the great road.
+
+[12716]
+<tibetan>།ལུང་བསྟན་པ་ནི།
+<literal>/Prophecy give is/
+<liturgical><prose>Determining death represents cutting through the ego.
+
+[12717]
+<tibetan>ཉམས་སུ་བླང་ཚུལ་རང་རིག་ལ་ནང་དུ་གོ་བར་བྱེད་པའོ།
+<literal>Experience take method self-awareness-to inner understand make*/
+<liturgical><prose>Then the magical king Li Gardta of China adorned twenty-one queens with splendid attire.
+
+[12718]
+<tibetan>།རི་མ་ལ་ཡའི་རྩེའི་རྒྱ་མཚོ་ན་སྟོན་པ་ཡབ་ཡུམ་ལ་བུ་ཚ་མིང་སྲིང་གཉིས་བྱུང་བ་ནི།
+<literal>/Mountain Malaya peak-of ocean-on teacher father mother-to child name sibling two arise is/
+<liturgical><prose>Mounted swift horses of wisdom, opened clear eyes of the four lamps.
+
+[12719]
+<tibetan>མགོ་ལ་མིག་ཡོད་པའི་ནང་ན་རིག་པའི་རང་གདངས་སྣང་སྟོང་གཉིས་ཀྱི་ཆ་ལས།
+<literal>Head-on eye exist-of within-in rigpa-of self-sound appearance-emptiness two-of part from/
+<liturgical><prose>Carried striking weapons of method, put on cutting teeth of instruction. || 220 ||
+
+[12720]
+<tibetan>དབྱིངས་རྣམ་དག་གི་སྒྲོན་མ་དང༌།
+<literal>Space pure-of lamp and*/
+<liturgical><prose>Donned wearing clothes of appearance, sought dwelling places in the expanse.
+
+[12721]
+<tibetan>ཐིག་ལེ་སྟོང་པའི་སྒྲོན་མ་གཉིས་ཤར་བའོ།
+<literal>Bindu empty lamp two arise*/
+<liturgical><prose>Sought abiding homes in clear light, sought traveling paths of liberation.
+
+[12722]
+<tibetan>།ཕ་མས་བུ་ཚ་གཉིས་ཡུལ་གཉིས་སུ་བསྒོ་བ་ནི།
+<literal>/Father mother-by child two realm two-to send is/
+<liturgical><prose>Then sent them to determine death, cutting the root of delusion.
+
+[12723]
+<tibetan>དབྱིངས་སྣང་དབང་པོའི་མངོན་སུམ་དུ་ཁྲོམ།
+<literal>Space-appearance sense direct-to street*/
+<liturgical><ornament>The meaning is thus, symbolism of the complete path.
+
+[12724]
+<tibetan>ཐིག་ལེ་བཅུད་དུ་སྨིན་པར་གྱིས་ཞེས་པའོ།
+<literal>Bindu essence ripen make say*/
+<liturgical><prose>Cyclic existence represents the student's body-mind gathering as the field.
+
+[12725]
+<tibetan>།བུ་བསྒོ་བ་མི་ཉན་པ་ནི།
+<literal>/Son send not-listen is/
+<liturgical><prose>The Tamed Arranged Land represents the ground of practice.
+
+[12726]
+<tibetan>དབང་པོ་རྟུལ་བ་དང༌།
+<literal>Senses dull and*/
+<liturgical><prose>The king casting dice and calculating represents the skillful teacher applying scripture.
+
+[12727]
+<tibetan>ལས་དང་པོ་པ་སྣང་བ་ལ་ཞེན་པ་འཇུག་པས་མ་ཞེན་པ་དགོས་ཞེས་པའོ།
+<literal>Beginner appearance-to attachment enter-from not-attachment need say*/
+<liturgical><prose>Oral transmission and instruction applied to mind, cutting through confusion.
+
+[12728]
+<tibetan>།ཞེན་ན་རང་རིག་གཟུང་འཛིན་གྱི་བདུད་ཀྱིས་འཆིང་བའོ།
+<literal>/Attach-from self-awareness grasper-grasped demon-by bind*/
+<liturgical><prose>Prophesying with twenty-one instructions, recognizing self in bardo path appearance.
+
+[12729]
+<tibetan>།ཨ་ཕྱི་བསྟན་པ་ནི།
+<literal>/A phyi show is/
+<liturgical><prose>Liberated from cyclic existence, birth and death are severed at the root. || 230 ||
+
+[12730]
+<tibetan>རིག་པའི་ཆ་ལ་ལྷན་ཅིག་སྐྱེས་པའི་མ་རིག་པ་མཚུངས་ལྡན་དུ་ཡོད་པས་རང་ངོ་ཤེས་པར་བྱའོ་ཞེས་པའོ།
+<literal>Rigpa part-to co-emerge ignorance co-exist exist-from self-face know make say*/
+<liturgical><prose>The king dressing queens represents the teacher showing twenty-one instructions.
+
+[12731]
+<tibetan>།མེ་ལོང་གཅིག་ནི།
+<literal>/Mirror one is/
+<liturgical><prose>Rigpa's self-light appears directly to the devoted student.
+
+[12732]
+<tibetan>ཡུལ་རིག་པས་དཔྱད་པའི་ཉམས་སོ།
+<literal>land rigpa-by analyze-of experience */
+<liturgical><prose>Wisdom's horse mounted, riding the wind of prana.
+
+[12733]
+<tibetan>།བུས་ངའི་ཡུལ་དེ་མིན་ཡང་མི་ལྔ་རལ་གྲི་མེ་ལོང་ལྔ་ཆས་པ་ནི།
+<literal>/son-by my land that not although person five sword mirror five equipped is/
+<liturgical><prose>The four lamps' eyes opened, seeing the true nature.
+
+[12734]
+<tibetan>ཤེས་པ་ཡུལ་ཐོག་ཏུ་འཆར་བས་ཡུལ་འཁྲུལ་པ་འདི་ཤེས་པའི་རང་ཡུལ་མིན།
+<literal>consciousness land direct-to appear having land delusion this consciousness-of self-land not/
+<liturgical><prose>Scripture's weapon carried, cutting through delusion.
+
+[12735]
+<tibetan>ད་ལྟ་འཁྲུལ་པ་ལ་ཤོར་བས་རིག་པ་དེར་འཁྱམས་ཏེ།
+<literal>now delusion-in fallen having rigpa there wandered/
+<liturgical><prose>Instruction's teeth put on, digesting all experience.
+
+[12736]
+<tibetan>ཡེ་ཤེས་ལྔ་ཤེས་རབ་དང་འོད་ལྔའི་སྣང་བ་རང་ཆས་སུ་གྲོགས་སུ་ཚང་བ་ལ་ཟེར་རོ།
+<literal>wisdom five wisdom and light five-of appearance self equipment-as helper-as complete having-to say-ro/
+<liturgical><prose>Four appearances' clothes donned, adorned with qualities.
+
+[12737]
+<tibetan>།བུས་དེར་ཟིན་ནས་ཐབས་དྲིས་པ་ནི།
+<literal>/son-by there grasped having method asked is/
+<liturgical><prose>Primordial purity's abode sought, the true home of Dharmakāya.
+
+[12738]
+<tibetan>འཁྲུལ་པ་འདི་ལས་གྲོལ་ཐབས་ཏེ།
+<literal>delusion this-from free method */
+<liturgical><prose>Five lights' self-radiance home sought, the mansion of clear light.
+
+[12739]
+<tibetan>ཡུལ་རིན་པོ་ཆེའི་ཕུང་པོ་ཙིཏྟའོ།
+<literal>land jewel-of pile citta/
+<liturgical><prose>Bardo or this life's liberation path sought, reaching the primordial ground. || 240 ||
+
+[12740]
+<tibetan>།མི་བཞི་སྒྲོན་མ་བཞིའོ།
+<literal>/person four lamp four */
+<liturgical><prose>Attaining the vajra ground without birth and death, the state of Samantabhadra.
+
+[12741]
+<tibetan>།དམག་ཏུ་སྦྲོན་པ་ནི།
+<literal>/army-to summon is/
+<liturgical><ornament>The seventh section presents view-reversal instructions from the Great Perfection Tantra.
+
+[12742]
+<tibetan>ཉམས་སུ་ལེན་པའི་གྲོགས་ཏེ།
+<literal>experience-in take-of companion */
+<liturgical><prose>All sentient beings of the three realms liberated with extremely sharp weapons of wisdom.
+
+[12743]
+<tibetan>སྡུད་བྱེད་ཀྱི་ཤེས་རབ་ཀྱིས་དབྱིངས་རིག་གཅིག་ཏུ་སྡུད།
+<literal>gatherer-of wisdom-by expanse rigpa one-to gather/
+<liturgical><prose>All liberated, siddhi arises naturally without seeking.
+
+[12744]
+<tibetan>འབྱེད་བྱེད་ཀྱི་སེམས་དང་ཡེ་ཤེས་འབྱེད།
+<literal>distinguisher-of mind and wisdom distinguish/
+<liturgical><prose>For the purpose of liberating all with compassion, the Bodhisattva vow.
+
+[12745]
+<tibetan>སྒྲོལ་བྱེད་ཀྱི་ཤེས་རབ་ཀྱིས་འཁོར་བ་དབྱིངས་སུ་སྒྲོལ།
+<literal>liberator-of wisdom-by samsara expanse-to liberate/
+<liturgical><prose>The vajra teacher himself liberated and transferred to the ocean of wisdom.
+
+[12746]
+<tibetan>སྐྱོད་བྱེད་ཀྱིས་དབྱིངས་ལ་སྦྱོར་བ་སྟེ་བྱེད་ལས་སོ།
+<literal>mover-of expanse-to apply-do action */
+<liturgical><prose>All apparent existence becomes known as the display of mind.
+
+[12747]
+<tibetan>།བུ་ཡུལ་དེར་སོང་བ་ནི།
+<literal>/son land there gone is/
+<liturgical><prose>Because self-arising wisdom exists primordially within all.
+
+[12748]
+<tibetan>གཞི་སྣང་ལས་འཁོར་བ་འདིར་འཁྲུལ་པའོ།
+<literal>ground-appearance-from samsara here delusion */
+<liturgical><prose>The siblings always dwelling together cast into the valley of the empty ravine.
+
+[12749]
+<tibetan>།བདུད་འཁོར་དང་བཅས་པས་བཟུང་བ་ནི།
+<literal>/demon retinue and captured is/
+<liturgical><prose>Wisdom body never separates from the expanse of Dharmatā. || 250 ||
+
+[12750]
+<tibetan>རིག་པ་ཉོན་མོངས་ཀྱི་དབང་དུ་སོང་སྟེ་མ་རིག་པ་ལ་སོགས་པའི་འཆིང་བས་བཅིངས་པའོ།
+<literal>rigpa affliction-of power-to gone having non-awareness etcetera-of bondage-by bound having */
+<liturgical><prose>Because it exists as the chain puller of awareness.
+
+[12751]
+<tibetan>།ཨ་ཕྱི་ལ་གཉེན་མོས་གདུངས་ཀྱང་མི་གཏོང་བ་ནི།
+<literal>/a-phyi-to attachment feels although person not-releasing is/
+<liturgical><prose>The two parents giving life to body and breath cast out, self-body expands.
+
+[12752]
+<tibetan>འཁོར་བ་དང་ཉོན་མོངས་ཚིག་གིས་སྐྱེ་མེད་ལ་སོགས་པར་གཏན་ལ་ཕབ་ཀྱང་མི་གྲོལ་བའོ།
+<literal>samsara and affliction word-by birth-free etcetera-to establish although not-liberate */
+<liturgical><prose>Because wisdom meets its object in the bindu of clear light.
+
+[12753]
+<tibetan>།འཕྲིན་སྐྱེལ་མི་གསུམ་ནི་སྡེ་སྣོད་གསུམ་སྟེ་དེའི་བརྡ་དོན་སྤྲོད་མཁས་པས་རིག་པའི་དོན་དང་འཕྲད་པའོ།
+<literal>/message deliver person three basket three that symbol meaning communicate skilled-by rigpa meaning meet */
+<liturgical><prose>Stupas, temples, and so forth offered, cast into the ocean of wisdom.
+
+[12754]
+<tibetan>།ཁྱེའུ་ནི།
+<literal>/youth is/
+<liturgical><prose>The true meaning essence is seen, the nature of Dharmakāya.
+
+[12755]
+<tibetan>རིག་པ་སྟེ་འཁོར་བར་བཅིངས་པ་ལ།
+<literal>rigpa samsara-in bound to/
+<liturgical><prose>Because the five hundred lamps adorn the mandala of self-arising wisdom.
+
+[12756]
+<tibetan>སྒྲོན་མ་བཞིར་ར་མདར་སྦྲན་ནས་ཉམས་སུ་བླངས་པས་དམག་བྱུང་བ་ཤེས་རབ་དང་རྟོགས་པ་དུ་མ་སྐྱེས་ཏེ།
+<literal>lamp four-to sheep pen summon having experience-in take having army arise wisdom and realization many arise having/
+<liturgical><prose>All sentient beings brought under self-power of Rigpa.
+
+[12757]
+<tibetan>གཟུང་འཛིན་རྡོས་བཅས་ཀྱི་ལྕགས་བཅག
+<literal>grasping fixation demon with-of iron break/
+<liturgical><break><prose> Gathered, becoming powerful with the strength of awareness.
+
+[12758]
+<tibetan>མ་རིག་པའི་རྒན་མོ་ཡུལ་ཕྱུང༌།
+<literal>non-awareness-of old-woman land send-out */
+<liturgical><break><prose> Because wisdom is without attachment or aversion.
+
+[12759]
+<tibetan>དུག་ལྔའི་མི་ཉོན་མོངས་པའི་རླུང་གི་རྟ་དང་བཅས་པ་སོ་སོར་ཕྲལ།
+<literal>poison five-of person affliction wind horse with individual separate/
+<liturgical><prose>All god hosts captured in prison, bound by non-recognition. || 260 ||
+
+[12760]
+<tibetan>རིག་པས་རང་ངོ་ཤེས་པ་ལས་མི་འདའ་བའི་བཙོན་བཟུང༌།
+<literal>rigpa-by self-face know having-from not-pass prison seize */
+<liturgical><prose>Captured, siddhi becomes near through practice.
+
+[12761]
+<tibetan>ཉོན་མོངས་པ་སྟོང་ཕྲག་བརྒྱད་ཅུའི་མགོ་བཅད།
+<literal>affliction thousand eighty-of head cut/
+<liturgical><prose>Because Rigpa is universally vast, beyond limit.
+
+[12762]
+<tibetan>ཆོས་ཉིད་རང་ཡུལ་གྱི་སྣང་བ་འོད་གསལ་བལྟས་པས།
+<literal>dharmata self-land-of appearance light-clear see having/
+<liturgical><prose>Cutting the essence, generation stage becomes clear as the path.
+
+[12763]
+<tibetan>སྲིང་མོས་མེ་ཏོག་ཁྱེར་བ་སྒྲོན་མ་ཚད་དུ་ཕྱིན་པའོ།
+<literal>sister flower carry lamp measure-to arrive */
+<liturgical><prose>Because Rigpa is without effort and accomplishment.
+
+[12764]
+<tibetan>།ཕ་མས་མིང་བཏགས་པ་མ་རིག་པ་ཆོད་ནས་རིག་པ་རང་གསལ་དུས་རྡོ་རྗེ་ལུ་གུ་རྒྱུད་རང་ཤར་ཞིང༌།
+<literal>/father mother name tag non-awareness cut having rigpa self-clear time vajra fish-hook self-arise
+<liturgical><prose>No need to accumulate merit, generosity becomes complete naturally.
+
+[12765]
+<tibetan>ཐིག་ལེ་སྟོང་པའི་སྒྲོན་མ་ཡུལ་ལ་སྣང་བའོ།
+<literal>Bindu empty lamp realm-to appear*/
+<liturgical><prose>Because self-arising is without release and establishment.
+
+[12766]
+<tibetan>།མིང་སྲིང་གྲོས་བྱས་པ་དབྱིངས་སུ་རིག་པ་བཅུག་ནས་དབྱིངས་རིག་གཅིག་ཏུ་དྲིལ་ནས་ཉམས་སུ་བླངས་པས་སྟོན་པ་མཐོང་བ།
+<literal>/Name sibling advice make-from space-to rigpa enter-from space-awareness one-to gather/converge-from experience take-from teacher see*/
+<liturgical><prose>Method and wisdom separated, self-meaning is found directly.
+
+[12767]
+<tibetan>བར་དོ་དང་པོའི་འོད་གསལ་ལོ།
+<literal>Bardo first-of light-luminous*/
+<liturgical><prose>Because Rigpa exists naked, without coverings.
+
+[12768]
+<tibetan>།ཡུལ་མ་བཀོད་པར་སྣང་བ།
+<literal>/Realm not-arrange appear*/
+<liturgical><prose>Cause and effect reversed, unborn result is attained.
+
+[12769]
+<tibetan>ཆོས་ཉིད་བར་དོའི་སྣང་ཡུལ་ལོ།
+<literal>Dharma-nature bardo-of appearance-object*/
+<liturgical><prose>Because cause does not produce in the nature of mind. || 270 ||
+
+[12770]
+<tibetan>།མཆོད་རྟེན་ནི།
+<literal>/Stupa is/
+<liturgical><prose>Cutting the Kunzhi root, truly manifest Buddhahood appears.
+
+[12771]
+<tibetan>འོད་ལྔ་ཚོམ་བུ་ལྔས་བརྒྱན་པའོ།
+<literal>Light-five collection five-by adorn*/
+<liturgical><prose>Because Dharmakāya is primordially pure, beyond change.
+
+[12772]
+<tibetan>།འཁོར་ལོ་ལ་མེ་ལོང་བཞི་ཡོད་པ་འོད་ཀྱི་ལམ་ལྔ་དང་ཡེ་ཤེས་བཞི་སྦྱོར་གྱི་སྣང་བའོ།
+<literal>/Wheel-on mirror four exist light path five and primordial-wisdom four join-of appearance*/
+<liturgical><prose>Rejoicing in killing and slaughtering, true virtue increases.
+
+[12773]
+<tibetan>།འདི་དག་བརྩོན་ན་ད་ལྟ་ཡང་སྣང་ནུས་པར་ཤེས་སོ།
+<literal>/These strive-from now also appear able know*/
+<liturgical><prose>Because Rigpa is without life, death cannot touch it.
+
+[12774]
+<tibetan>།མ་ལ་ཡ་ནས་བྱ་ར་བྱེད་པ་ནི།
+<literal>/Malaya-from bya ra do is/
+<liturgical><prose>The manner of wisdom realization is similar throughout.
+
+[12775]
+<tibetan>མི་གནས་དེ་ལ་ལྟོས་ལ་དབྱིངས་ཀྱི་ར་བར་རིག་པ་ངོས་ཟུང་ཤིག་པའོ།
+<literal>Not-abide that-to look-from space-of fence-to rigpa face seize say*/
+<liturgical><ornament>The meaning of these is thus, profound and vast.
+
+[12776]
+<tibetan>།སྐས་དང་སྣོད་དང་རྩེ་མོའི་སྟོན་པ་འོད་ཟེར་དང་བཅས་པ་ནི།
+<literal>/Ladder and vessel and peak-of teacher light-ray with is/
+<liturgical><prose>Liberating the three realms and siddhi arising represents cutting the root.
+
+[12777]
+<tibetan>རྟོགས་པས་རང་ངོ་ཤེས་ཏེ་རང་སྣང་དུ་བལྟས་པས་འོད་ཀྱི་ཟེར་ཐག་སྙིང་གར་འབྲེལ་བ་ལ་རང་ས་འཛིན་པའི་གདམས་ངག་གོ
+<literal>Realize-from self-face know-from self-appearance-to look-from light-of ray cord heart-to connect-from self-place seize instruction*/
+<liturgical><break><prose> Body, speech, and mind liberated in the expanse.
+
+[12778]
+<tibetan>།ཁང་པ་སྒོ་བརྒྱད་ནི།
+<literal>/House door-eight is/
+<liturgical><break><prose> The three realms and the vajra teacher transferred to the ocean of wisdom.
+
+[12779]
+<tibetan>ལྷུན་གྲུབ་ཀྱི་འཆར་སྒོ་བརྒྱད་དོ།
+<literal>Spontaneous-of open-door eight*/
+<liturgical><prose>Knowing Dharma through gaze, direct perception of Rigpa. || 280 ||
+
+[12780]
+<tibetan>།རིན་པོ་ཆེའི་ཁང་པ་ནི།
+<literal>/Jewel house is/
+<liturgical><prose>Sitting in view, mind and consciousness not thinking anywhere.
+
+[12781]
+<tibetan>ལྷུན་གྲུབ་རིན་པོ་ཆེ་བའི་སྦུབས་ཐོག་མའི་ཀ་དག་ལ་ནང་དབྱིངས་གཅིག་ཏུ་བཙན་ས་ཟིན་པའི་དུས་སོ།
+<literal>Spontaneous jewel-of cavity original primordially-pure-to inner space one-to strong-ground seize time*/
+<liturgical><prose>Clear direct perception of the natural state.
+
+[12782]
+<tibetan>།ལུང་བསྟན་པ་བཞིན་སོང་བ་ནི།
+<literal>/Prophecy give-as go is/
+<liturgical><prose>Casting siblings into the valley represents binding wind-mind.
+
+[12783]
+<tibetan>ཟེར་ཐག་གི་ཉི་ཟེར་ལ་ཤེས་པ་མི་འགྱུར་བས་འོད་ལྔའི་སྣང་བ་སྒ་འདྲ་བ་དང༌།
+<literal>Ray cord-of sun-ray-to awareness not-change-from light-five appearance saddle like and*/
+<liturgical><prose>Looking at the chain puller, the bindu of clear light.
+
+[12784]
+<tibetan>རྟོགས་ཚད་ཀྱི་བློ་བསྡམས།
+<literal>Realize measure-of mind bind*/
+<liturgical><prose>Bringing out parents expands body and life, wisdom and means united.
+
+[12785]
+<tibetan>ཤེས་རབ་ཀྱི་མདུང་ཁྱེར་རང་སྣང་གི་ནམ་མཁའ་ནས་ལམ་བྱུང་ནས།
+<literal>Wisdom spear hold self-appearance-of sky-from path arise-from/
+<liturgical><prose>The mirror lamps of pure sphere and empty bindu brought out and seen.
+
+[12786]
+<tibetan>ཀ་དག་གི་ས་ལ་ཟང་ཐལ་དུ་གྲོལ་བའོ།
+<literal>Primordially-pure ground-to open release*/
+<liturgical><prose>Appearance expands upward, the display of Saṃbhogakāya.
+
+[12787]
+<tibetan>།བཞི་པ་ནི།
+<literal>/Fourth is/
+<liturgical><prose>Offering stupas and temples to the ocean represents seeing the essence.
+
+[12788]
+<tibetan>ཡང་རང་ཤར་ལས།
+<literal>Again self-arise from/
+<liturgical><prose>The mind's stupa of five lights within the vajra temple.
+
+[12789]
+<tibetan>སྔོན་ཡུལ་དག་པར་སྣང་ཞེས་བྱ་བ་ན།
+<literal>Before realm pure appear named/
+<liturgical><prose>Gaze cast to distant water lamp, outer appearance's wisdom. || 290 ||
+
+[12790]
+<tibetan>མཁར་སྒོ་བརྒྱད་དང་ལྡན་པའི་མཁར་ཅིག་ཡོད་དེ།
+<literal>Fort door-eight possessing fort one exist*/
+<liturgical><prose>Inner Dharmatā meaning's wisdom, two inseparable essence seen.
+
+[12791]
+<tibetan>མཁར་དེའི་རྗེ་ཁྱེའུ་སྣང་བ་རིག་བྱེད་ཅེས་བྱ་བས་བྱེད།
+<literal>Fort that-of lord youth appearance Rig-byed named-by do*/
+<liturgical><prose>Clear light mother-child meeting in the bindu.
+
+[12792]
+<tibetan>དེ་ལ་མ་རྒན་མོ་ལིང་ཐོག་ཅན་བྱ་བ་ཅིག་ཡོད་དེ།
+<literal>That-to old-woman Ling-thog-possess named one exist*/
+<liturgical><prose>The Three Jewels facing backward represents pure realms seen.
+
+[12793]
+<tibetan>ཡུལ་དེའི་མདའ་སྣ་སྡིག་སྐྱོང་བའི་རྒྱལ་པོ་གྲགས་པ་དབང་ཕྱུག་བྱ་བ་ཡོད་པས།
+<literal>Realm that-of arrow-protector demon king Glorious-Power named exist from/
+<liturgical><prose>Cyclic existence's root three poisons turned back, looking at Rigpa.
+
+[12794]
+<tibetan>དེ་ལ་བུ་རྒྱལ་བུ་ལྔ་ཡོད་པས།
+<literal>That-to son prince five exist from/
+<liturgical><prose>Dharmatā direct, Dharmakāya realized.
+
+[12795]
+<tibetan>སྲས་པོ་ལྔ་སྐུ་རྩེད་ལ་སོང་བས།
+<literal>Heir five body games-to go-from/
+<liturgical><prose>Development appearance, Nirmāṇakāya manifesting.
+
+[12796]
+<tibetan>རྒན་མོ་ལིང་ཐོག་ཅན་མདོ་ན་མར་ལ་སྐྱོ་སངས་ལ་བྱུང་བ།
+<literal>Old-woman Ling-thog-possess below down-to go down-in arise*/
+<liturgical><prose>Measure reached enjoyment body, Saṃbhogakāya complete.
+
+[12797]
+<tibetan>སྲས་རྒྱལ་བུ་མཆེད་ལྔས་བཙོན་དུ་བཟུང་ཟེར་བ་དེ་ཡ་ཆ།
+<literal>Heir prince brothers five-by prisoner seize say that ya cha*/
+<liturgical><prose>Exhaustion Dharmakāya appearance seen, the three kayas united.
+
+[12798]
+<tibetan>དེ་ནས་བུ་མའི་སྙེགས་མ་ལ་སོང་ཡང་བཟུང་ནས་ལྕགས་སུ་བཅུག་ཟེར་བ་དེ་ཡ་ཆ་ཞེས་པའི་དོན་ནི།
+<literal>Then daughter-of snyegs-to go also seize-from iron-to put say that ya cha say meaning is/
+<liturgical><prose>Putting Buddhas in cemeteries represents realization of impermanence.
+
+[12799]
+<tibetan>ཡུལ་དག་པར་སྣང་རིག་པའི་ཞིང་ཁམས་ན།
+<literal>land pure appear rig of field-in/
+<liturgical><prose>Rigpa with coemergent non-recognition recognized in an instant. || 300 ||
+
+[12800]
+<tibetan>མཁར་སྒོ་བརྒྱད་པ་ལྷུན་གྲུབ་ཀྱི་འཆར་སྒོ་ཡོད་པའི་རྩེ་མོ་ན་ཁྱེའུ་རང་བྱུང་གི་རིག་པ་དེ།
+<literal>castle door eight self-arisen of appearance-door exists having's peak-on boy self-arisen of rig that/
+<liturgical><prose>Non-recognition's root turns back to Rigpa, self-liberated.
+
+[12801]
+<tibetan>མ་རིག་པ་དང་དུས་མཚུངས་པས་རྒན་མོ་དང་ལྷན་ཅིག་དེར་གནས་པའོ།
+<literal>ma-rig and time same having old-woman and together there abided having's/
+<liturgical><prose>Like awareness appearing as affliction, with coemergent non-recognition present.
+
+[12802]
+<tibetan>།རྒྱལ་པོ་ནི།
+<literal>/king is/
+<liturgical><prose>Looking intently at Rigpa, it emerges like Vajra settling in natural state.
+
+[12803]
+<tibetan>ཉོན་མོངས་པའི་རྩ་བ་བདག་འཛིན་ནོ།
+<literal>affliction of root self-grasping*/
+<liturgical><prose>Casting Dharma to fire and water represents realizing self-appearance.
+
+[12804]
+<tibetan>།སྲས་ནི།
+<literal>/son is/
+<liturgical><prose>Whatever deluded appearance arises, wisdom's fire burns without remainder.
+
+[12805]
+<tibetan>ཉོན་མོངས་པ་དུག་ལྔའོ།
+<literal>affliction poison five's/
+<liturgical><prose>Self-contemplation's water placed in that state realizes Rigpa's meaning.
+
+[12806]
+<tibetan>།སྐུ་རྩེད་ནི།
+<literal>/body jest is/
+<liturgical><prose>Killing sentient beings represents emptying appearance.
+
+[12807]
+<tibetan>སྒོ་ལྔ་ལ་དབང་ཤེས་རང་ཡན་ཏེ་ཆགས་སྡང་དུག་ལྔར་སྤྱོད་དུས།
+<literal>door five-to power-senses self yan having attachment aversion poison five-in act time/
+<liturgical><prose>All recollection released in great relaxation, delusion self-cessation.
+
+[12808]
+<tibetan>རྒན་མོ་བཟུང་བ་ནི།
+<literal>old-woman captured is/
+<liturgical><prose>Looking at direct perception, feelings cease, stone-earth appearance reversed.
+
+[12809]
+<tibetan>མ་རིག་པ་རང་ཡུལ་ཉོན་མོངས་ལྔས་བཟུང་སྟེ།
+<literal>ma-rig self-land affliction five-by captured having/
+<liturgical><prose>Cutting self-life represents meeting Dharmatā's object. || 310 ||
+
+[12810]
+<tibetan>དུག་ལྔ་མ་རིག་པ་དང་ངོ་བོ་གཅིག་ཏུ་གྱུར་ཏེ་འཇུག་པ་རོ་གཅིག་པའོ།
+<literal>poison five ma-rig and essence one-to become having enter taste one having's/
+<liturgical><prose>Wind self-cessation released, conceptual thought naturally empty.
+
+[12811]
+<tibetan>།དེའང་ད་ལྟ་རང་མ་རིག་པའི་ཤེས་པ་སྒོ་སོ་སོ་ལ་ཤར་དུས་དུག་ལྔ་དང་ཕྲད་པ་ལ་ཟེར་རོ།
+<literal>/that also now self ma-rig of consciousness door each-to arise time poison five and meet having-to say-ro/
+<liturgical><prose>Self-nature clear perception, sphere appearance directly clear.
+
+[12812]
+<tibetan>།བུ་མའི་སྙེགས་མ་སོང་བ་བཟུང་བ་ནི།
+<literal>/daughter's snyegs-ma not gone captured is/
+<liturgical><prose>Outer light appearance meets sphere's natural dissolution.
+
+[12813]
+<tibetan>མ་རིག་པའི་ངོ་བོ་དེ་རིག་པར་ཡོད་པས།
+<literal>ma-rig of essence that rig-in exists having/
+<liturgical><prose>Inner concepts without trace liberated, meeting primordial purity's exhaustion.
+
+[12814]
+<tibetan>རིག་པ་ཡུལ་ཐོག་ཏུ་བཟུང་བ་སྟེ།
+<literal>rig land direct-to captured having/
+<liturgical><prose>Gathering beings represents becoming powerful with Rigpa.
+
+[12815]
+<tibetan>བློ་གང་དུ་ཆགས་སྡང་སྐྱེས་ནས་བཅིངས་པ་དེའི་ངོ་བོ་རིག་པ།
+<literal>mind where-to attachment aversion arose having bound that of essence rig/
+<liturgical><prose>Body's key gathering wind-Rigpa's key, mind's self-abiding.
+
+[12816]
+<tibetan>ལྡོག་པ་མ་རིག་པ།
+<literal>reversal ma-rig/
+<liturgical><prose>Bliss-clear non-conceptual experience increasing naturally.
+
+[12817]
+<tibetan>ཤེས་ན་རང་གྲོལ་ལོ།
+<literal>know having self freed*/
+<liturgical><prose>Capturing god hosts represents siddhi near through practice.
+
+[12818]
+<tibetan>།བརྡ་ལྔ་པ་འཁྲུལ་པ་ལྡོག་ཚུལ་ནི།
+<literal>/symbol five delusion reversal method is/
+<liturgical><prose>Capturing empty form sphere's enclosure, quickly attaining signs.
+
+[12819]
+<tibetan>ཡང་དེ་ཉིད་ལས།
+<literal>again that-from/
+<liturgical><prose>Cutting essence clear generation stage, appearance and emptiness united. || 320 ||
+
+[12820]
+<tibetan>སྔོན་ཡུལ་རིན་ཆེན་སྤུངས་པ་ཞེས་བྱ་བ་ན།
+<literal>before land jewel pile called exists-having/
+<liturgical><prose>Recollection self-release clear light ray hit, Rigpa and liberated half.
+
+[12821]
+<tibetan>རྒན་མོ་ཅིག་ལ་ནོར་བུ་རིན་པོ་ཆེ་ཅིག་ཡོད་པས།
+<literal>old-woman one-to jewel one exists having/
+<liturgical><prose>No merit accumulation needed, generosity complete naturally.
+
+[12822]
+<tibetan>རྐུན་མོ་མི་ལྔས་ཁྱེར་ནས་རྒན་མོ་སྡུག་བསྔལ་གྱིས་ཟིན་ཟེར་བ་དེ་ཡ་ཆ།
+<literal>thief person five-by carried having old-woman suffering-by seized say that err-
+<liturgical><prose>Wind-mind movement purified, appearance increase-decrease exhausted.
+
+[12823]
+<tibetan>དེ་ནས་རྐུན་མོ་རྗེས་བཅད་པས།
+<literal>that-from thief pursued having/
+<liturgical><prose>Spontaneous presence inner sphere near dissolution.
+
+[12824]
+<tibetan>ཡུལ་ཚེར་མ་ཅན་དུ་སོང་ནས།
+<literal>land thorn-possessor-to went having/
+<liturgical><prose>Generally, as long as channel-wind moves, ground appearance's display exists.
+
+[12825]
+<tibetan>རྐུན་མོ་མི་ལྔས་བརྐུས་པས་རྒན་མོ་བརྒྱལ་ཟེར་བ་དེ་ཡ་ཆ།
+<literal>thief person five-by stolen having old-woman fainted say that err-
+<liturgical><prose>Channel-wind purified, ground appearance self-reversed.
+
+[12826]
+<tibetan>དེ་ནས་རྐུན་མོ་ཡུལ་ཚེར་མ་ཅན་ནས་རྗེས་ཆོད་པས།
+<literal>that-from thief land thorn-possessor-from pursuit cut having/
+<liturgical><prose>Returning to ground's sphere, the source of all.
+
+[12827]
+<tibetan>རྒན་མོ་བརྒྱལ་སངས་ཟེར་བ་དེ་ཡ་ཆ།
+<literal>old-woman fainted recovered say that err-
+<liturgical><prose>Like crystal light gathered inward, pure and clear.
+
+[12828]
+<tibetan>དེ་ནས་རྒན་མོ་དེའི་བུ་མེ་ལྷ་དཀར་པོ་ཞེས་བྱ་བ་དེ་འདི་སྐད་ཅེས་ཟེར་ཏོ།
+<literal>that-from old-woman that of son fire-god white called that this word thus say-to/
+<liturgical><prose>Until appearance increase not exhausted, practice capacity not exhausted.
+
+[12829]
+<tibetan>།ངའི་ནོར་བུ་བརླག་གམ་བྱས་པས།
+<literal>/my jewel lost did by-having/
+<liturgical><prose>Method wisdom separation finds meaning naturally. || 330 ||
+
+[12830]
+<tibetan>མི་ལྔ་པོ་ན་རེ།
+<literal>person five said/
+<liturgical><prose>Wisdom with duality, apprehension and grasping separate.
+
+[12831]
+<tibetan>ནོར་བུ་མ་རླག་གིས་ཁྱོད་རང་གི་རྒན་མོ་སོད་ཅིག
+<literal>jewel not lost having you self of old-woman kill-do
+<liturgical><break><prose> Self-arising self-abiding clear, the natural state.
+
+[12832]
+<tibetan>མ་རྒན་མོ་མ་བསད་ན་ནོར་བུ་མི་སྟེར་རོ་བྱས་པས།
+<literal>not old-woman not killed if jewel not give say by-having/
+<liturgical><break><prose> Rigpa naked one is the reason for all practice.
+
+[12833]
+<tibetan>ཁོས་ཁོ་རང་གི་མ་བསད་ནས་ཤ་ཟོས།
+<literal>he-by he self of mother killed having meat ate/
+<liturgical><prose>Clear in whatever recollection relaxation time.
+
+[12834]
+<tibetan>ཁྲག་འཐུངས།
+<literal>blood drank/
+<liturgical><prose>Cause effect reversal attains result spontaneously.
+
+[12835]
+<tibetan>རུས་པ་མུར།
+<literal>bone buried/
+<liturgical><prose>Not found by doing, found by relaxing, whatever time.
+
+[12836]
+<tibetan>དངོས་པོ་མེད་པར་བྱས་པས།
+<literal>entity not-made having/
+<liturgical><prose>Effort self-relaxation released, natural liberation.
+
+[12837]
+<tibetan>ནོར་བུ་རྐུན་མས་བྱིན་ཟེར་བ་དེ་ཡ་ཆ་ཞེས་པའི་དོན་ནི།
+<literal>jewel thief-by gave say that err- say of meaning is/
+<liturgical><prose>Unborn meaning arises in an instant of recognition.
+
+[12838]
+<tibetan>ཡུལ་རིན་པོ་ཆེ་སྤུངས་པ་ཙིཏྟའོ།
+<literal>land jewel pile citta's/
+<liturgical><prose>Result made path causes self-cessation.
+
+[12839]
+<tibetan>།རྒན་མོ་མ་རིག་པ།
+<literal>/old-woman ma-rig/
+<liturgical><prose>Dependent arising forward reversal, cyclic existence cessation common. || 340 ||
+
+[12840]
+<tibetan>ནོར་བུ་རིག་པ།
+<literal>jewel rig/
+<liturgical><prose>Cause effect reverse Dharma, beyond ordinary logic.
+
+[12841]
+<tibetan>རྐུན་མོ་དུག་ལྔ།
+<literal>Thief poison-five*/
+<liturgical><prose>All-ground non-recognition root looking at self-nature severed.
+
+[12842]
+<tibetan>མྱ་ངན་གྱིས་ཟིན་པ་རིག་པ་ཆགས་སྡང་གིས་སྦགས་པས་རང་སྡུག་རང་མ་མྱོང་བ།
+<literal>Sorrow-by seize rigpa attachment-aversion-by taint-from self-suffer self not-experience*/
+<liturgical><prose>Buddha Samantabhadra realized, the primordial lord.
+
+[12843]
+<tibetan>རྗེས་བཅད་པས་ཚེར་མ་ཅན་ནས་ཆོད་དེ་རྒན་མོ་བརྒྱལ་བ།
+<literal>After cut-from thorn-possess-from cut-from old-woman faint*/
+<liturgical><prose>Killing increases virtue through wisdom.
+
+[12844]
+<tibetan>ཤེས་རབ་ཀྱིས་རིག་པ་དང་དེའི་ལྷན་སྐྱེས་མ་རིག་པ་དུག་ལྔ་དང་བཅས་པའི་འཁྲུལ་པ་བརྟགས་པས།
+<literal>Wisdom-by rigpa and that co-emerge ignorance poison-five with delusion examine-from/
+<liturgical><prose>Recollection clear arising, clear self-severed.
+
+[12845]
+<tibetan>ད་ལྟ་འཁོར་བ་ན་འཁོར་དུས་ངོས་ཟིན་པས།
+<literal>Now samsara-in wander time face seize-from/
+<liturgical><prose>Relaxation release, the path of Great Perfection.
+
+[12846]
+<tibetan>མ་རིག་པ་དུག་ལྔའི་བག་ལ་ཞར་འདུག་པ་ཙམ་མོ།
+<literal>Ignorance poison-five trace near dwell only*/
+<liturgical><prose>Meaning wisdom clear perception, experience realization capacity increasing.
+
+[12847]
+<tibetan>།དེ་ལྟར་འཁྲུལ་པའི་རྩ་བ་ཆོད་དུས་རིག་པ་རང་ངོ་ཤེས་པས།
+<literal>/That-like delusion root cut time rigpa self-face know-from/
+<liturgical><tantra>From Sun Moon Union Tantra, self-arising self-liberated self itself.
+
+[12848]
+<tibetan>མ་རིག་པ་རང་སངས་ལ་སོང་བ་ནི།
+<literal>Ignorance self-luminous-to go is/
+<liturgical><prose>Self-release self-relaxation, like iron with iron polishing.
+
+[12849]
+<tibetan>རྗེས་ཆོད་ནས་བརྒྱལ་སངས་པའོ།
+<literal>After cut-from faint awake-from*/
+<liturgical><prose>Stone with stone striking, self-perfecting. || 350 ||
+
+[12850]
+<tibetan>།མེ་ལྷ་ནི།
+<literal>/Fire-god is/
+<liturgical><prose>Self as antidote is supreme, no other needed.
+
+[12851]
+<tibetan>རང་ངོ་ཤེས་པའི་ཡེ་ཤེས་སྐྱེས་པ་སྟེ།
+<literal>Self-face know-from primordial-wisdom arise-from*/
+<liturgical><prose>Natural Great Perfection realization, the highest path.
+
+[12852]
+<tibetan>ནོར་བུ་མ་རླག་གམ་དྲིས་པས།
+<literal>Jewel not-lose ask-from/
+<liturgical><prose>Thus accustomed, unfound relaxed meaning found.
+
+[12853]
+<tibetan>རྒན་མོ་སོད་དེ་ནས་སྟེར་ཟེར་ནས་བྱིན་པ་ནི།
+<literal>Old-woman kill-from give say-from give is/
+<liturgical><prose>Without meditation, great bliss expands naturally.
+
+[12854]
+<tibetan>རིག་པས་རང་ཉིད་འཁོར་བར་སོང་དུས་རང་ངོ་ངན་དུ་སོང་ངམ་བལྟས་པས།
+<literal>Rigpa-by self samsara-to go time self-face bad-to go look-from/
+<liturgical><prose>Natural direct recognition of Dharmatā.
+
+[12855]
+<tibetan>སྤུ་ཙམ་ཡང་མ་སོང༌།
+<literal>Hair even not-go*/
+<liturgical><prose>This whoever meets, even with boundless evil.
+
+[12856]
+<tibetan>གྲ་མ་ཉམས་ཟུར་མ་ཆག་པར་མཐོང་ལ།
+<literal>Gra ma damage corner not-break see-from/
+<liturgical><prose>Accustomed to this liberated, the power of practice.
+
+[12857]
+<tibetan>ལྷན་སྐྱེས་རང་ངོ་མ་རིག་པའི་ཆ་འདི་མ་སྤངས་ན་དེས་མི་ཕན་པར་ད་དུང་འཁོར་བ་ལས་སྔ་འདྲེས་གཅིག་མི་འཕགས།
+<literal>Co-emerge self-face ignorance part this not-abandon-from that-by not-help from still samsara-from before-mixed one not-surpass*/
+<liturgical><prose>Without doubt, Naraka, the hell realms purified.
+
+[12858]
+<tibetan>དུག་ལྔ་རང་འཁྲུངས་སུ་རང་ལ་འཆར་བར་རྟོགས་ཏེ།
+<literal>Poison-five self-birth-to self-to appear realize-from/
+<liturgical><ornament>The eighth section presents symbolic meaning dissolved in clear light expanse.
+
+[12859]
+<tibetan>ཁ་ནང་དུ་རང་ངོ་ལ་བལྟས་པས་རང་རིག་དུས་ལྷན་སྐྱེས་ཀྱི་མ་རིག་པ་སངས་ཏེ།
+<literal>Mouth inner-to self-face-to look-from self-awareness time co-emerge-of ignorance luminous-from/
+<liturgical><tantra>From Thal Gyur Tantra, other symbolic meaning connections explained. || 360 ||
+
+[12860]
+<tibetan>ཀུན་རྟོག་རང་གྲོལ་བས་ཤ་ཟོས་ཞེ་སྡང་མ་སྤངས་གནས་སུ་དག
+<literal>All-concept self-liberate-from meat eat anger not-abandon place pure
+<liturgical><break><prose> In the eon fire heap expanse center, a person not burned.
+
+[12861]
+<tibetan>ཆགས་་འཛིན་དག་པས་ཁྲག་འཐུངས།
+<literal>Attachment-grasp pure-from blood drink*/
+<liturgical><break><prose> From mouth explaining scripture Dharma, actively killing others' lives.
+
+[12862]
+<tibetan>མི་ཤེས་པ་དག་པས་རུས་པ་མུར།
+<literal>Not-know pure-from bone gnaw*/
+<liturgical><prose>Virtue practice increasing, indeed, through wisdom.
+
+[12863]
+<tibetan>ཉོན་མོངས་ཐམས་ཅད་དངོས་མེད་ལ་སོང་སྟེ།
+<literal>Affliction all entity without-to go*/
+<liturgical><prose>In the iron house without door, in unseen darkness expanse center.
+
+[12864]
+<tibetan>ནང་རིག་པ་ལ་བལྟས་པས།
+<literal>Inner rigpa-to look-from/
+<liturgical><prose>Sun moon clear light, whoever not seeing.
+
+[12865]
+<tibetan>རང་རིག་དུས།
+<literal>Self-awareness time/
+<liturgical><prose>Individual faculties' objects clear, not seeing indeed.
+
+[12866]
+<tibetan>ཕྱི་ཡུལ་ལ་འཆར་བའི་དུག་ལྔ་ལྷན་སྐྱེས་མ་རིག་པ་དང་བཅས་པ་དག་ནས།
+<literal>Outer realm-to appear poison-five co-emerge ignorance with pure-from/
+<liturgical><ornament>The meaning is thus, profound and vast.
+
+[12867]
+<tibetan>རང་བྱུང་ཡེ་ཤེས་ཀྱི་ནོར་བུ་རང་ལས་རྙེད་པའི་དུས་སོ།
+<literal>Self-arise primordial-wisdom jewel self-from find time*/
+<liturgical><prose>Fire heap not burning person, virtue increasing represents self-arising wisdom.
+
+[12868]
+<tibetan>།དྲུག་པ་ནི།
+<literal>/Sixth is/
+<liturgical><prose>Within affliction fire always existing, never consumed.
+
+[12869]
+<tibetan>རང་ཤར་ལས།
+<literal>Self-arise from/
+<liturgical><prose>Not burned, not damaged, not consumed by conditions. || 370 ||
+
+[12870]
+<tibetan>ཡུལ་འདུལ་བ་རྣམས་པར་བཀོད་པ་ཞེས་བྱ་བ་ན།
+<literal>Realm tame manner arrange named/
+<liturgical><prose>When self-nature known by self, scripture explained.
+
+[12871]
+<tibetan>རྒྱ་ནག་གི་རྒྱལ་པོ་ལི་གར་ཏ་བྱ་བ་གབ་ཙེ་ཆེན་པོ་ཅིག་བཏིང་ནས།
+<literal>China-of king Li-gar-ta named great-gab-tse one spread-from/
+<liturgical><prose>Thought hosts self-liberated, killing others' lives.
+
+[12872]
+<tibetan>གཤིན་རྩིས་བྱས་པས།
+<literal>Divination do-from/
+<liturgical><prose>Because it is mind apprehending other, the root of duality.
+
+[12873]
+<tibetan>སྟོ་ལོག་ཏུ་བཙུན་མོ་ཉི་ཤུ་རྩ་གཅིག་ལ་མཛེས་པའི་ཆས་སུ་བཅུག་ནས།
+<literal>Reverse-to noble-lady twenty-one beautiful ornament-as put-from/
+<liturgical><prose>This meaning represents Rigpa hitting the key.
+
+[12874]
+<tibetan>ལམ་པོ་ཆེའི་བཞི་མདོར་བསྐྱལ་བས་ཤི་ཁ་ཆོད་ཟེར་བ་དེ་ཡ་ཆ།
+<literal>Great-road four-crossing-to send-from die kha cut say that ya cha*/
+<liturgical><prose>Virtue practice naturally increasing, effortless.
+
+[12875]
+<tibetan>དེ་ནས་རྒྱ་ནག་གི་རྒྱལ་པོ་ལི་གར་ཏ་འཕྲུལ་གྱི་རྒྱལ་པོ་དེས།
+<literal>Then China-of king Li-gar-ta magical king that-by/
+<liturgical><prose>Iron house darkness represents within body mind.
+
+[12876]
+<tibetan>བཙུན་མོ་ཉི་ཤུ་རྩ་གཅིག་ལ་མཛེས་པའི་ཆས་ཀྱིས་བརྒྱན།
+<literal>Noble-lady twenty-one beautiful ornament-by adorn/
+<liturgical><prose>Rigpa and non-recognition dwelling together, coemergent.
+
+[12877]
+<tibetan>མགྱོགས་པའི་རྟ་བསྐྱོན།
+<literal>Swift horse mount*/
+<liturgical><prose>Not seeing sun moon represents existing in all but not seen.
+
+[12878]
+<tibetan>གསལ་བའི་མིག་ཕྱེ།
+<literal>Clear eye open*/
+<liturgical><prose>Without instruction, obscured by habitual patterns.
+
+[12879]
+<tibetan>བརྡེག་པའི་མཚོན་བསྐུར།
+<literal>Strike weapon apply*/
+<liturgical><prose>Individual clear represents those with instruction. || 380 ||
+
+[12880]
+<tibetan>གཅོད་པའི་སོ་བཏགས།
+<literal>Cut tooth insert*/
+<liturgical><prose>Seeing direct appearance now, the fruit of practice.
+
+[12881]
+<tibetan>གྱོན་པའི་གོས་བསྐོན།
+<literal>Wear clothes put-on*/
+<liturgical><prose>Not seeing represents empty form seeing self.
+
+[12882]
+<tibetan>འདུག་པའི་ཡུལ་བཙལ།
+<literal>Sit place seek*/
+<liturgical><prose>One before another not existing thus, pure from the start.
+
+[12883]
+<tibetan>གནས་པའི་ཁྱིམ་བཙལ།
+<literal>Abide home seek*/
+<liturgical><prose>This is Rigpa clear light symbolic meaning.
+
+[12884]
+<tibetan>འགྲོ་བའི་ལམ་བཙལ་ནས་བཏང་བས་ཤི་ཁ་ཆོད་ཟེར་བ་དེ་ཡ་ཆ་ཞེས་པའི་དོན་ནི།
+<literal>Go path seek-from send-from die kha cut say that ya cha say meaning is/
+<liturgical><prose>Thus infinite symbolic forms in unsurpassed vehicle.
+
+[12885]
+<tibetan>འཁོར་བ་སེམས་ཅན་གྱི་རང་དུས་ཉོན་མོངས་པ་ཅན་གྱི་སློབ་མའི་ལུས་སེམས་ཚོགས་པ་ནི།
+<literal>Samsara sentient-being own-time affliction possessing student body mind gather is/
+<liturgical><prose>Should be known in individual tantra places.
+
+[12886]
+<tibetan>ཡུལ་འདུལ་བ་རྣམ་བཀོད་དོ།
+<literal>Realm tame manner arrange*/
+<liturgical><prose>This symbolic abode made by dakinis is extremely profound.
+
+[12887]
+<tibetan>།རྒྱལ་པོས་གབ་ཙེ་བཏིང་ནས་རྩིས་བྱས།
+<literal>/King-by gab-tse spread-from calculation do*/
+<liturgical><prose>Difficult to realize without blessing and instruction.
+
+[12888]
+<tibetan>བཙུན་མོ་བསྐྱལ་བས་ཤིག་རྒབ་ཆོད་པ་ནི།
+<literal>Noble-lady send-from die rgab cut is/
+<liturgical><prose>If realized, meaning vast, cutting, excellent Dharma.
+
+[12889]
+<tibetan>སློབ་དཔོན་མཁས་པས་རྒྱུད་ལུང་མན་ངག་སེམས་ལ་བཏབ་ནས།
+<literal>Teacher learned-by tantra scripture instruction mind-to impress-from/
+<liturgical><prose>Other words may be confused, but this symbol cannot be changed. || 390 ||
+
+[12890]
+<tibetan>ངོ་སྤྲོད་ཉི་ཤུ་རྩ་གཅིག་གིས་ངོ་སྤྲོད་དེ།
+<literal>Introduction twenty-one-by introduction make*/
+<liturgical><prose>Cannot be confused, blessing great, showing meaning near.
+
+[12891]
+<tibetan>བར་དོའི་ལམ་སྣང་ལ་རང་ངོ་ཤེས་པར་བྱས་པས།
+<literal>Bardo path appearance-to self-face know make-from/
+<liturgical><prose>Not word object, great secret, beyond expression.
+
+[12892]
+<tibetan>འཁོར་བ་ལས་ཐར་ཏེ་སྐྱེ་ཤི་རྒྱུན་ཆོད་པའོ།
+<literal>Samsara-from liberate-from birth death continuum cut*/
+<liturgical><tantra>From Supreme Vehicle Jewel Treasury, reversing delusion manner.
+
+[12893]
+<tibetan>།རྒྱལ་པོས་བཙུན་མོ་ཆས་སུ་བཅུག་པ་ནི།
+<literal>/King-by noble-lady ornament-as put is/
+<liturgical><ornament>With symbols, tenth chapter, the completion of path.
+
+[12894]
+<tibetan>བླ་མས་སློབ་མ་ལ་ད་ལྟ་ངོ་སྤྲོད་ཉི་ཤུ་རྩ་གཅིག་བསྟན་ནས།
+<literal>Teacher-by student-to now introduction twenty-one show-from/
+<liturgical><ornament>Thus showing reversal from ground with stages.
+
+[12895]
+<tibetan>རིག་པའི་རང་འོད་ཀྱི་ཆས་མངོན་སུམ་དུ་ཅེར་མཐོང་བསྟན།
+<literal>Rigpa self-light ornament direct cer see show*/
+<liturgical><ornament>Now showing body formation in delusion.
+
+[12896]
+<tibetan>ཤེས་རབ་ཀྱི་རྟ་བསྐྱོན།
+<literal>Wisdom horse mount*/
+<liturgical><prose>Generally three realms six beings each have body appearance.
+
+[12897]
+<tibetan>སྒྲོན་མ་བཞིའི་མིག་ཕྱེ།
+<literal>Lamp four's eye open*/
+<liturgical><prose>Here concerning humans, the most fortunate.
+
+[12898]
+<tibetan>རྒྱུད་ལུང་གི་མཚོན་བསྐུར།
+<literal>Tantra scripture weapon apply*/
+<liturgical><prose>Explaining from four births, womb birth stages.
+
+[12899]
+<tibetan>མན་ངག་གི་སོ་བཏགས།
+<literal>Instruction tooth insert*/
+<liturgical><tantra>From Sun Moon Union Tantra, from father mother's cause condition. || 400 ||
+
+[12900]
+<tibetan>སྣང་བ་བཞིའི་གོས་བསྐོན།
+<literal>Appearance four clothes put-on*/
+<liturgical><prose>Meru meru po, nur nur po, tar tar po, gor gor po.
+
+[12901]
+<tibetan>ཀ་དག་གི་གནས་བཙལ།
+<literal>Primordially-pure place seek*/
+<liturgical><prose>Hard becoming, fish-like, turtle-like, frog-like.
+
+[12902]
+<tibetan>འོད་ལྔ་ཡེ་གདངས་ཀྱི་ཁྱིམ་བཙལ།
+<literal>Light-five primordial-sound home seek*/
+<liturgical><prose>Thus seven weeks seven, from navel body generated.
+
+[12903]
+<tibetan>བར་དོའམ་འདི་ཉིད་གྲོལ་བའི་ལམ་བཙལ་བས།
+<literal>Bardo or this liberate path seek-from/
+<liturgical><prose>Nine months ten days, body complete.
+
+[12904]
+<tibetan>ཐོག་མའི་གཞི་ལ་མཐར་ཕྱིན་ཏེ།
+<literal>Original basis-to end reach*/
+<liturgical><prose>Born from mother womb, entering the world.
+
+[12905]
+<tibetan>སྐྱེ་ཤི་མེད་པ་རྡོ་རྗེའི་ས་ཐོབ་པའོ།
+<literal>Birth death without vajra ground obtain*/
+<liturgical><prose>Thus form different, cyclic existence itself cycling.
+
+[12906]
+<tibetan>།བདུན་པ་ལྟ་བས་ལ་བཟླ་བའི་གདམས་ངག་ནི།
+<literal>/Seventh view-by reverse instruction is/
+<liturgical><prose>Without end, the wheel of becoming.
+
+[12907]
+<tibetan>སེང་གེ་རྩལ་རྫོགས་ཆེན་པོའི་རྒྱུད་ལས།
+<literal>Lion-power great-perfection tantra from/
+<liturgical><ornament>Thus the Vajra Essence Path reveals.
+
+[12908]
+<tibetan>ཁམས་གསུམ་སེམས་ཅན་ཐམས་ཅད་རྣམས།
+<literal>Realm three sentient-being all*/
+<liturgical><ornament>The profound meaning of delusion and liberation.
+
+[12909]
+<tibetan>།ཤིན་ཏུ་མཚོན་ཆ་རྣོན་པོ་ཡིས།
+<literal>/Very weapon sharp by/
+<liturgical><ornament>Through metaphor and direct instruction. || 410 ||
+
+[12910]
+<tibetan>ཐམས་ཅད་བསྒྲལ་ན་དངོས་གྲུབ་འབྱུང༌།
+<literal>All liberate-from siddhi arise*/
+<liturgical><prose>Leading beings to recognize their true nature.
+
+[12911]
+<tibetan>།ཐུགས་རྗེ་ཐམས་ཅད་སྒྲོལ་བའི་ཕྱིར།
+<literal>/Compassion all liberate for/
+<liturgical><prose>The Dharmakāya Samantabhadra.
+
+[12912]
+<tibetan>།རང་གི་རྡོ་རྗེ་སློབ་དཔོན་ཉིད།
+<literal>/Self vajra teacher self/
+<liturgical><prose>The Saṃbhogakāya of five Buddha families.
+
+[12913]
+<tibetan>།བསྒྲལ་ནས་རྒྱ་མཚོར་བསྐྱུར་བྱས་ན།
+<literal>/Liberate-from ocean-to throw make-from/
+<liturgical><prose>The Nirmāṇakāya for beings to be tamed.
+
+[12914]
+<tibetan>།སྣང་སྲིད་ཆོས་རྣམས་ཤེས་པར་འགྱུར།
+<literal>/Appearance existence dharma all know become*/
+<liturgical><prose>All arising from the ground of spontaneous presence.
+
+[12915]
+<tibetan>།རང་རིག་ཡེ་ཤེས་ཡོད་པའི་ཕྱིར།
+<literal>/Self-awareness primordial-wisdom exist from/
+<liturgical><prose>The clear light bindu of primordial purity.
+
+[12916]
+<tibetan>།རྟག་ཏུ་འགྲོགས་པའི་མཆེད་ལྕམ་གཉིས།
+<literal>/Always accompany sibling-two*/
+<liturgical><verse>May all beings realize this meaning.
+
+[12917]
+<tibetan>།གཅོང་རོང་དོང་དུ་བསྐྱུར་བྱས་ན།
+<literal>/Valley ravine hole-to throw make-from/
+<liturgical><verse>May the Vajra Essence flourish.
+
+[12918]
+<tibetan>།ཡེ་ཤེས་སྐུ་དང་མི་འབྲལ་འགྱུར།
+<literal>/Primordial-wisdom body and not-separate become*/
+<liturgical><verse>For the benefit of all sentient beings.
+
+[12919]
+<tibetan>།ལུ་གུ་རྒྱུད་དུ་ཡོད་པའི་ཕྱིར།
+<literal>/Lasso exist from/
+<liturgical><verse>Throughout the three realms and six paths. || 420 ||
+
+[12920]
+<tibetan>།ལུས་སྲོག་བསྐྱེད་པའི་ཕ་མ་གཉིས།
+<literal>/Body life produce father mother two*/
+<liturgical><verse>Until cyclic existence is emptied.
+
+[12921]
+<tibetan>།ཐང་ལ་བཏོན་ན་རང་ལུས་འཕེལ།
+<literal>/Plain-to take-from self-body increase*/
+<liturgical><verse>May the teachers of the Vajra Essence lineage.
+
+[12922]
+<tibetan>།ཡེ་ཤེས་ཡུལ་དང་ཕྲད་པའི་ཕྱིར།
+<literal>/Primordial-wisdom realm meet from/
+<liturgical><verse>Continue to turn the wheel of Dharma.
+
+[12923]
+<tibetan>།མཆོད་རྟེན་ལྷ་ཁང་ལ་སོགས་རྣམས།
+<literal>/Stupa temple etc all*/
+<liturgical><verse>Revealing the natural state to fortunate ones.
+
+[12924]
+<tibetan>།ཕྱགས་ཏེ་རྒྱ་མཚོར་ཕོ་བྱས་ན།
+<literal>/Measure-from ocean-to throw make-from/
+<liturgical><ornament>The end of the Vajra Essence Path chapter.
+
+[12925]
+<tibetan>།ཡང་དག་དོན་གྱི་སྙིང་པོ་མཐོང༌།
+<literal>/True meaning essence see*/
+<liturgical><ornament>The complete teaching of spontaneous presence.
+
+[12926]
+<tibetan>།སྒྲོན་མ་མཁའ་ལ་གསལ་བའི་ཕྱིར།
+<literal>/Lamp sky-in clear from/
+<liturgical><ornament>The manifestation of Dharmatā for all to see.
+
+[12927]
+<tibetan>།དཀོན་མཆོག་གསུམ་པོ་རྒྱབ་ཕྱོགས་ན།
+<literal>/Three-jewels back direction-in/
+<liturgical><ornament>The bindu and thigle of clear light.
+
+[12928]
+<tibetan>།ཞིང་ཁམས་ཐམས་ཅད་མཐོང་བར་འགྱུར།
+<literal>/Field all see become*/
+<liturgical><ornament>The self-arising wisdom of Samantabhadra.
+
+[12929]
+<tibetan>།སྐུ་གསུམ་སྣང་བ་ཡོད་པའི་ཕྱིར།
+<literal>/Body-three appearance exist from/
+<liturgical><verse>Praised be the Buddha, the Dharmakāya. || 430 ||
+
+[12930]
+<tibetan>།སངས་རྒྱས་བསྒྲལ་ཏེ་དུར་བཅུག་ན།
+<literal>/Buddha liberate-from charnel-ground put-from/
+<liturgical><verse>Praised be the Dharma, the clear light.
+
+[12931]
+<tibetan>།རང་གི་སྣང་བ་རྟོགས་པར་འགྱུར།
+<literal>/Self appearance realize become*/
+<liturgical><verse>Praised be the Sangha, the practitioners.
+
+[12932]
+<tibetan>།འབྱུང་བ་རང་ལ་ལོག་པའི་ཕྱིར།
+<literal>/Elements self-to return from/
+<liturgical><verse>May auspiciousness prevail.
+
+[12933]
+<tibetan>།ཆོས་རྣམས་མེར་བསྲེགས་ཆུར་ཕོ་ན།
+<literal>/Dharma all fire burn water throw-from/
+<liturgical><ornament>The Vajra Essence teaching complete.
+
+[12934]
+<tibetan>།རིག་པའི་རང་སྣང་རྟོགས་པར་འགྱུར།
+<literal>/Rigpa self-appearance realize become*/
+<liturgical><ornament>The path of delusion reversed.
+
+[12935]
+<tibetan>།ཤེས་རབ་དོན་ལ་སྤྱོད་པའི་ཕྱིར།
+<literal>/Wisdom meaning act from/
+<liturgical><ornament>The ground of liberation established.
+
+[12936]
+<tibetan>།སེམས་ཅན་ཐམས་ཅད་དུས་གཅིག་ཏུ།
+<literal>/Sentient-being all time one-in/
+<liturgical><verse>For the benefit of all mother sentient beings.
+
+[12937]
+<tibetan>།བསྒྲལ་ན་སྣང་བ་སྟོང་པར་འགྱུར།
+<literal>/Liberate-from appearance empty become*/
+<liturgical><verse>May they attain the state of Samantabhadra.
+
+[12938]
+<tibetan>།ཐུགས་རྗེ་དོན་ཉིད་མ་འགགས་ཕྱིར།
+<literal>/Compassion meaning not-cease from/
+<liturgical><verse>The Dharmakāya of primordial purity.
+
+[12939]
+<tibetan>།རང་སྲོག་རང་གིས་བཅད་གྱུར་ན།
+<literal>/Self-life self-by cut become-from/
+<liturgical><verse>The Saṃbhogakāya of spontaneous presence. || 440 ||
+
+[12940]
+<tibetan>།ཆོས་ཉིད་ཡུལ་དང་འཕྲད་པར་འགྱུར།
+<literal>/Dharma-nature realm meet become*/
+<liturgical><verse>The Nirmāṇakāya of compassionate activity.
+
+[12941]
+<tibetan>།སྒྲོན་མ་འོང་ལྔ་བརྒྱན་པའི་ཕྱིར།
+<literal>/Lamp come five-adorn from/
+<liturgical><verse>Complete in the self-arising wisdom.
+
+[12942]
+<tibetan>།སྐྱེ་དགུ་ཐམས་ཅད་རང་དབང་དུ།
+<literal>/Birth-nine all self-power-to/
+<liturgical><verse>The bindu of clear light.
+
+[12943]
+<tibetan>།བསྡུས་ན་སྟོབས་དང་ལྡན་པར་འགྱུར།
+<literal>/Gather/converge-from power possessing become*/
+<liturgical><verse>The thigle of Dharmatā.
+
+[12944]
+<tibetan>།ཡེ་ཤེས་ཆགས་པ་མེད་པའི་ཕྱིར།
+<literal>/Primordial-wisdom attachment without from/
+<liturgical><verse>Spontaneous presence without effort.
+
+[12945]
+<tibetan>།ལྷ་ཚོགས་ཐམས་ཅད་བཙོན་དོང་དུ།
+<literal>/God assembly all prison hole-to/
+<liturgical><verse>This is the Vajra Essence Path.
+
+[12946]
+<tibetan>།བཟུང་ན་དངོས་གྲུབ་ཉེ་བར་འགྱུར།
+<literal>/Seize-from siddhi near become*/
+<liturgical><verse>The teaching of the Great Perfection.
+
+[12947]
+<tibetan>།རིག་པ་ཀུན་ཏུ་ཡངས་པའི་ཕྱིར།
+<literal>/Rigpa all wide from/
+<liturgical><verse>May it be realized by all.
+
+[12948]
+<tibetan>།སྙིང་པོ་བཅད་ན་བསྐྱེད་རིམ་གསལ།
+<literal>/Essence cut-from generation stage clear*/
+<liturgical><ornament>The end of the tenth chapter.
+
+[12949]
+<tibetan>།རིག་པ་རྩོལ་སྒྲུབ་བྲལ་བའི་ཕྱིར།
+<literal>/Rigpa effort accomplishment without from/
+<liturgical><ornament>Of the precious Jewel Treasury. || 450 ||
+
+[12950]
+<tibetan>།ཚོགས་ལ་བསག་ཏུ་མེད་པ་ནི།
+<literal>/Assembly accumulate without is/
+<liturgical><verse>The Vajra Essence revealed.
+
+[12951]
+<tibetan>།སྦྱིན་པ་ཀུན་ཏུ་རྫོགས་པར་འགྱུར།
+<literal>/Giving all complete become*/
+<liturgical><verse>The delusion and liberation shown.
+
+[12952]
+<tibetan>།རང་རིག་བཏང་བཞག་བྲལ་བའི་ཕྱིར།
+<literal>/Self-awareness release maintain without from/
+<liturgical><verse>Through symbol and metaphor.
+
+[12953]
+<tibetan>།ཐབས་དང་ཤེས་རབ་བྲལ་གྱུར་ན།
+<literal>/Method wisdom separate become-from/
+<liturgical><verse>For the benefit of practitioners.
+
+[12954]
+<tibetan>།རང་གི་དོན་ཉིད་རྙེད་པར་འགྱུར།
+<literal>/Self meaning obtain become*/
+<liturgical><verse>May all attain liberation.
+
+[12955]
+<tibetan>།རིག་པ་གཅེར་བུར་ཡོད་པའི་ཕྱིར།
+<literal>/Rigpa naked exist from/
+<liturgical><verse>In this very lifetime.
+
+[12956]
+<tibetan>།རྒྱུ་འབྲས་མགོ་མཇུག་ཟློག་གྱུར་ན།
+<literal>/Cause effect head tail reverse become-from/
+<liturgical><verse>Without meditation or effort.
+
+[12957]
+<tibetan>།སྐྱེ་མེད་འབྲས་བུ་ཐོབ་པར་འགྱུར།
+<literal>/Birthless result obtain become*/
+<liturgical><verse>Through recognition of the natural state.
+
+[12958]
+<tibetan>།རྒྱུ་ཡིས་བསྐྱེད་དུ་མེད་པའི་ཕྱིར།
+<literal>/Cause produce without from/
+<liturgical><verse>The Dharmakāya of Samantabhadra.
+
+[12959]
+<tibetan>།ཀུན་གཞི་རྩད་ནས་བཅད་གྱུར་ན།
+<literal>/All-basis root-from cut become-from/
+<liturgical><verse>The Buddha beyond coming and going. || 460 ||
+
+[12960]
+<tibetan>།ཡང་དག་མངོན་སངས་རྒྱས་པར་འགྱུར།
+<literal>/True manifest buddha become*/
+<liturgical><verse>The Dharma beyond sound and word.
+
+[12961]
+<tibetan>།ཆོས་སྐུ་གདོད་ནས་དག་པའི་ཕྱིར།
+<literal>/Dharma-body primordially pure from/
+<liturgical><verse>The Sangha beyond number.
+
+[12962]
+<tibetan>།བསད་བཅད་ལས་ལ་རབ་དགའ་ན།
+<literal>/Kill cut action-to very-joy-from/
+<liturgical><verse>May all be auspicious.
+
+[12963]
+<tibetan>།ཡང་དག་དགེ་བ་འཕེལ་བར་འགྱུར།
+<literal>/True virtue increase become*/
+<liturgical><ornament>The teaching complete.
+
+[12964]
+<tibetan>།རིག་པ་སྲོག་དང་བྲལ་བའི་ཕྱིར།
+<literal>/Rigpa life without from/
+<liturgical><ornament>The chapter finished.
+
+[12965]
+<tibetan>།ཡེ་ཤེས་རྟོགས་ལུགས་དེ་བཞིན་ནོ།
+<literal>/Primordial-wisdom realization method likewise*/
+<liturgical><ornament>The Vajra Essence Path.
+
+[12966]
+<tibetan>།ཞེས་སོ།
+<literal>/Thus*/
+<liturgical><ornament>Fully explained.
+
+[12967]
+<tibetan>།འདི་དག་གི་དོན་ལ།
+<literal>/These meaning-to/
+<liturgical><verse>For the benefit of all.
+
+[12968]
+<tibetan>ཁམས་གསུམ་བསྒྲལ་ནས་དངོས་གྲུབ་འབྱུང་བ་ནི།
+<literal>Realm three liberate-from siddhi arise is/
+<liturgical><verse>May the teachings flourish.
+
+[12969]
+<tibetan>སྒོ་གསུམ་དང་ཁམས་གསུམ་གྱིས་བསྡུས་པའི་སེམས་སེམས་བྱུང་རྩ་བ་བཅད་ནས་འགག་པར་བྱེད་པའོ།
+<literal>Door three and realm three-by gathered mind mind-arise root cut-from cease make*/
+<liturgical><verse>May beings be liberated. || 470 ||
+
+[12970]
+<tibetan>།རྡོ་རྗེ་སློབ་དཔོན་རྒྱ་མཚོར་བསྐྱུར་བས་ཆོས་ཤེས་པ་ནི།
+<literal>/Vajra teacher ocean-to throw-from dharma know is/
+<liturgical><verse>May the Dharma endure.
+
+[12971]
+<tibetan>ལྟ་སྟངས་ལ་འདུག་དུས་ཡིད་དང་སེམས་གང་དུའང་མི་རྟོག་པས་མིག་ལ་དངས་འབྱིན་པས་མངོན་སུམ་ཤེས་པའོ།
+<literal>View manner-to sit time mind and thought wherever not-think-from eye clarity emerge-from direct know*/
+<liturgical><verse>For countless eons.
+
+[12972]
+<tibetan>།མཆེད་ལྕམ་དོང་དུ་སྐྱུར་བ་ནི།
+<literal>/Siblings hole-to throw is/
+<liturgical><verse>The precious Vajra Essence.
+
+[12973]
+<tibetan>རླུང་སེམས་བཟུང་ནས་ལུ་གུ་རྒྱུད་ལ་ལྟ་བའོ།
+<literal>Wind mind seize-from lasso-to look*/
+<liturgical><verse>The heart of the Buddha's teaching.
+
+[12974]
+<tibetan>།ཕ་མ་བཏོན་པས་ལུས་སྲོག་འཕེལ་བ་ནི།
+<literal>/Father mother take-from body life increase is/
+<liturgical><verse>The path of Great Perfection.
+
+[12975]
+<tibetan>དབྱིངས་རྣམ་དག་གི་སྒྲོན་མ་དང་ཐིག་ལེ་སྟོང་པའི་སྒྲོན་མ་དབང་པོའི་ཐད་ལ་བཏོན་ནས་བལྟས་པས།
+<literal>Space pure lamp and bindu empty lamp sense direction-to take-from look-from/
+<liturgical><verse>Complete and perfect.
+
+[12976]
+<tibetan>སྣང་བ་གོང་དུ་འཕེལ་བའོ།
+<literal>Appearance upward increase*/
+<liturgical><prose>The teachings of the Vajra Essence Path illuminate the nature of existence.
+
+[12977]
+<tibetan>།མཆོད་རྟེན་དང་ལྷ་ཁང་རྒྱ་མཚོར་ཕོ་བས་སྙིང་པོ་མཐོང་བ་ནི།
+<literal>/Stupa and temple ocean-to throw-from essence see is/
+<liturgical><prose>Through spontaneous presence, all phenomena arise as the display of Dharmatā.
+
+[12978]
+<tibetan>ཙིཏྟའི་དབུས་རིག་པའི་མཆོད་རྟེན་འོད་ལྔའི་ལྷ་ཁང་ན་ཡོད་པ།
+<literal>Citta center rigpa stupa light-five temple-in exist*/
+<liturgical><prose>The primordial purity of Samantabhadra manifests as the three kayas.
+
+[12979]
+<tibetan>ལྟ་སྟངས་ཀྱིས་རྒྱང་ཞགས་ཆུའི་སྒྲོན་མར་གཏད་པས་ཕྱིར་སྣང་བའི་ཡེ་ཤེས།ནང་དུ་ཆོས་ཉིད་དོན་གྱི་ཡེ་ཤེས་གཉིས་འདུ་འབྲལ་མེད་པའི་སྙིང་པོ་མཐོང་བས་འོད་གསལ་མ་བུ་འཕྲོད་པའོ།
+<literal>View manner-by distance-water lamp-to focus-from outer appearance primordial-wisdom/inner dharma-nature meaning primordial-wisdom two gather/converge separate without essence see-from light-luminous mother son meet*/
+<liturgical><prose>The Dharmakāya, essence body, abides as the clear light of the bindu. || 480 ||
+
+[12980]
+<tibetan>།དཀོན་མཆོག་གསུམ་རྒྱབ་ཀྱིས་ཕྱོགས་པས་ཞིང་ཁམས་མཐོང་བ་ནི།
+<literal>/Three-jewels back-from turn-from field see is/
+<liturgical><prose>The Saṃbhogakāya, enjoyment body, radiates the five wisdom lights.
+
+[12981]
+<tibetan>འཁོར་བའི་རྩ་བ་དུག་གསུམ་ལ་ཡིད་ཀྱི་འགྱུ་བ་རྒྱབ་ཕྱོགས་ནས་རིག་པ་ལ་བལྟས་པས།
+<literal>Samsara root poison-three-to mind-of movement back direction-from rigpa-to look-from/
+<liturgical><prose>The Nirmāṇakāya, emanation body, appears for the benefit of all beings.
+
+[12982]
+<tibetan>ཆོས་ཉིད་མངོན་སུམ་དང༌།
+<literal>Dharma-nature direct and*/
+<liturgical><verse>May all who encounter these teachings recognize their true nature.
+
+[12983]
+<tibetan>ཉམས་གོང་འཕེལ་དུ་སྤྲུལ་སྐུ།
+<literal>Experience upward increase-to emanation body*/
+<liturgical><verse>May the confusion of non-recognition be dispelled by wisdom's light.
+
+[12984]
+<tibetan>ཚད་ཕེབས་སུ་ལོངས་སྐུ།
+<literal>Measure reach-to enjoyment body*/
+<liturgical><verse>The thigle of clear light abides in the heart center of all.
+
+[12985]
+<tibetan>ཟད་པར་ཆོས་སྐུའི་སྣང་བ་མཐོང་བའོ།
+<literal>End dharma-body appearance see*/
+<liturgical><verse>Through the practice of the four lamps, recognition dawns.
+
+[12986]
+<tibetan>།སངས་རྒྱས་དུར་དུ་བཅུག་པས་རྟོགས་པ་ནི།
+<literal>/Buddha charnel-ground put-from realize is/
+<liturgical><verse>The outer lamp of crystal clarity reveals the nature of appearances.
+
+[12987]
+<tibetan>རིག་པ་ལ་མ་རིག་པ་ལྷན་སྐྱེས་ཡོད་པ་རང་ངོ་ཤེས་པར་བྱས་པའི་སྐད་ཅིག་ལ་རང་རིག་རྟོགས་པའོ།
+<literal>Rigpa-to ignorance co-emerge exist-from self-face know make-from moment-in self-awareness realize*/
+<liturgical><verse>The inner lamp of self-arising wisdom illuminates the mind.
+
+[12988]
+<tibetan>།དེའང་མ་རིག་པའི་རྩ་བ་རིག་པ་ལ་ལྡོག་པའི་ཕྱིར་རོ།
+<literal>/Also ignorance root rigpa-to return from/
+<liturgical><verse>The secret lamp of bliss and emptiness opens the bindu.
+
+[12989]
+<tibetan>།དཔེར་ན་ཤེས་པ་ཉོན་མོངས་སུ་ཤར་དུས་མ་རིག་པ་བག་ལ་ཉལ་ཉོན་མོངས་མངོན་གྱུར་དུ་ཡོད་པ་ལ་ཆེར་གྱིས་བལྟས་པ་རིག་པ་རྗེན་ལ་བུད་ནས་མ་རིག་པ་ཉོན་མོངས་དང་བཅས་པ་རིག་པར་སངས་ཏེ།
+<literal>/For-example consciousness affliction-as arise time ignorance trace-sleep affliction manifest exist-to much look-from rigpa naked emerge-from ignorance affliction with rigpa luminous-from/
+<liturgical><verse>The suchness lamp of Dharmatā perfects the view. || 490 ||
+
+[12990]
+<tibetan>རིག་པ་ཟང་ངེ་ཐལ་ལེ་གནས་པ་བཞིན་ནོ།
+<literal>Rigpa clear open abide like*/
+<liturgical><verse>These four lamps guide the practitioner to liberation.
+
+[12991]
+<tibetan>།ཆོས་མེ་ཆུ་ལ་བསྐུར་བས་རང་སྣང་རྟོགས་པ་ནི།
+<literal>/Dharma fire water-to throw-from self-appearance realize is/
+<liturgical><verse>Without meditation or effort, the natural state is recognized.
+
+[12992]
+<tibetan>གཟུང་འཛིན་འཁྲུལ་པའི་ཆོས་གང་ཤར་ཏེ།
+<literal>Grasper-grasped delusion dharma whatever arise*/
+<liturgical><verse>Beyond acceptance and rejection, the mind abides in equanimity.
+
+[12993]
+<tibetan>རྟོགས་པ་ཤེས་རབ་ཀྱིས་མེས་གཞི་མེད་ཟད་པར་བསྲེགས་ནས།
+<literal>Realize wisdom-by fire ground without burn-from/
+<liturgical><verse>The five poisons self-liberate as the five wisdoms.
+
+[12994]
+<tibetan>རང་བསམ་བསམ་གཏན་གྱི་ཆུས་དེའི་ངང་ལ་བཞག་པས་རིག་པའི་དོན་རྟོགས་པའོ།
+<literal>/own thought meditation by-means-of that one's state in place by-means-of awareness's meaning realize is/
+<liturgical><verse>The afflictions of anger, attachment, pride, jealousy, and ignorance.
+
+[12995]
+<tibetan>།སེམས་ཅན་བསད་པས་སྣང་བ་སྟོང་པ་ནི།
+<literal>/sentient-beings kill by-means-of appearance empty is/
+<liturgical><verse>Transform into the clarity of mirror-like wisdom.
+
+[12996]
+<tibetan>དྲན་བསམ་ཐམས་ཅད་ཕྱམ་བཞག་ཆེན་པོར་བཏང་བས་འཁྲུལ་རྟོག་རང་འགགས་ལ་སོང་ནས་འཁྲུལ་སྣང་སྟོངས་པའོ།
+<literal>/mindfulness thought all completely place great in send by-means-of deluded-thought self-cessation to gone from deluded-appearance empty is/
+<liturgical><verse>Into the equality of wisdom of equanimity.
+
+[12997]
+<tibetan>།ཡང་གཅིག་ཏུ་ན་མངོན་སུམ་ལ་བལྟས་པས་བྱུང་ཚོར་འགགས་ཏེ་ས་རྡོའི་སྣང་བ་ལོག་པའོ།
+<literal>/also one as for direct-perception to look by-means-of arising feeling cease and earth stone's appearance reverse is/
+<liturgical><verse>Into the discernment of wisdom of discrimination.
+
+[12998]
+<tibetan>།རང་སྲོག་བཅད་པས་ཆོས་ཉིད་ཀྱི་ཡུལ་དང་ཕྲད་པ་ནི།
+<literal>/own life cut by-means-of dharmata's object and meet is/
+<liturgical><verse>Into the accomplishment of all-action wisdom.
+
+[12999]
+<tibetan>རླུང་རང་འགགས་ལ་བཏང་བས་རྣམ་རྟོག་ངང་གིས་སྟོངས་ཤིང༌།
+<literal>/wind self-cessation to send by-means-of conceptual-thought state by empty and/
+<liturgical><verse>Into the Dharmadhātu wisdom of absolute space. || 500 ||
+
+[13000]
+<tibetan>རང་ངོ་ཅེར་མཐོང་དུ་རྟོགས་དུས་དབྱིངས་སྣང་ཐད་ཀར་ཤར་བའོ།
+<literal>/own face clear seeing to realize time expanse-appearance direct arise is/
+<liturgical><verse>Thus the practitioner traverses the path of spontaneous presence.
+
+[13001]
+<tibetan>།དེ་ཡང་ཕྱི་འོད་སྣང་དབྱིངས་ཀྱི་རང་ཡལ་དང་ཕྲད།
+<literal>/that also outer light appearance expanse's self-nature and meet/
+<liturgical><verse>The ground of primordial purity is never separate from the path.
+
+[13002]
+<tibetan>ནང་ཀུན་རྟོག་རྗེས་མེད་དུ་སངས་པས་ཀ་དག་ཟད་པའི་རང་ཡུལ་དང་སྐད་ཅིག་ལ་ཕྲད་པའོ།
+<literal>/inner all-thought trace without in clear by-means-of primordially-pure end's self-object and moment in meet is/
+<liturgical><verse>The path of spontaneous presence naturally leads to the result.
+
+[13003]
+<tibetan>།སྐྱེ་དགུ་བསྡུས་པས་སྟོབས་དང་ལྡན་པ་ནི།
+<literal>/nine-beings gather by-means-of power and possess is/
+<liturgical><verse>The result of the three kayas is complete within the ground.
+
+[13004]
+<tibetan>ལུས་གནད་ཀྱིས་རླུང་རིག་གི་གནད་བསྡུས་པས་སེམས་ཉིད་རང་གནས་བདེ་གསལ་མི་རྟོག་པའི་ཉམས་འཕེལ་བའོ།
+<literal>/body key by-means-of wind awareness's key gather by-means-of mind-itself self-abide bliss-clarity non-thought's experience develop is/
+<liturgical><verse>Ground, path, and result are indivisible in the natural state.
+
+[13005]
+<tibetan>།ལྷ་ཚོགས་བཙོན་དུ་བཟུང་བས་དངོས་གྲུབ་ཉེ་བ་ནི།
+<literal>/deity assembly prisoner as hold by-means-of siddhi near is/
+<liturgical><verse>This is the profound teaching of the Great Perfection.
+
+[13006]
+<tibetan>སྟོང་གཟུགས་དབྱིངས་ཀྱི་གོ་རར་བཟུང་ན་མྱུར་དུ་རྟགས་ཚད་ཐོབ་པའོ།
+<literal>/empty-form expanse's corral as hold if quickly sign measure obtain is/
+<liturgical><verse>The Dzogchen path of Ati Yoga, the pinnacle of all vehicles.
+
+[13007]
+<tibetan>།སྙིང་པོ་བཅས་པས་བསྐྱེད་རིམ་གསལ་བ་ནི།
+<literal>/essence possess by-means-of generation-stage clear is/
+<liturgical><verse>May these teachings benefit all sentient beings throughout space.
+
+[13008]
+<tibetan>།དྲན་བསམ་རང་ཀ་མ་ཅོག་གཞག་གི་གཟེར་ལ་ཐེབས་དུས་རིག་པ་དང་སངས་ཕྱེད་པའོ།
+<literal>/mindfulness thought self-kaya mind place's arrow to hit time awareness and clear open is/
+<liturgical><verse>May the lineage of the Vajra Essence continue unbroken.
+
+[13009]
+<tibetan>།ཚོགས་བསག་མེད་ན་སྦྱིན་པ་རྫོགས་པ་ནི།
+<literal>/accumulation gather without if generosity complete is/
+<liturgical><verse>From Samantabhadra to Garab Dorje, to Śrī Siṃha, to Padmasambhava. || 510 ||
+
+[13010]
+<tibetan>རླུང་སེམས་རྒྱུ་བ་དག་ན་འཆར་སྣང་གི་འཕེལ་ཟད་ལ་ཐུག་པས།
+<literal>/wind-mind movement clear if arising-appearance's increase decrease to arrive by-means-of/
+<liturgical><verse>From the dharmakāya to the saṃbhogakāya to the nirmāṇakāya.
+
+[13011]
+<tibetan>ལྷུན་གྲུབ་ནང་དབྱིངས་སུ་ནུབ་ཏུ་ཉེ་བའོ།
+<literal>/spontaneously-accomplished inner expanse in set near is/
+<liturgical><verse>The transmission flows like a river of clear light.
+
+[13012]
+<tibetan>།སྤྱིར་རྩ་རླུང་གི་རྒྱུ་བ་ཡོད་རིང་ལ་གཞི་སྣང་གི་འཆར་སྣང་ཡོད་ལ།
+<literal>/generally channel-wind's movement exist as-long-as ground-appearance's arising-appearance exist and/
+<liturgical><verse>May fortunate practitioners meet these teachings in this lifetime.
+
+[13013]
+<tibetan>རྩ་རླུང་དག་དུས་གཞི་སྣང་རང་ལོག་ལ་རྩ་བ་གཞིའི་དབྱིངས་སུ་ལྡོག་པ་ནི།
+<literal>/channel-wind clear time ground-appearance self-reverse to root ground's expanse to return is/
+<liturgical><verse>May they recognize Rigpa, their own self-arising wisdom.
+
+[13014]
+<tibetan>ཤེལ་འོད་ནང་དུ་བསྡུས་པ་བཞིན་ནོ།
+<literal>/crystal light inner in gather as is/
+<liturgical><verse>May delusion be dispelled and liberation attained.
+
+[13015]
+<tibetan>།སྣང་བའི་འཕེལ་མ་ཟད་ན་ཉམས་ལེན་གྱི་རྩལ་མ་ཟད་པའོ།
+<literal>/appearance's increase not diminish if practice's power not diminish is/
+<liturgical><verse>For the benefit of all mother sentient beings, may I attain enlightenment.
+
+[13016]
+<tibetan>།ཐབས་ཤེས་བྲལ་བས་དོན་རྙེད་པ་ནི།
+<literal>/means knowledge separate by-means-of meaning obtain is/
+<liturgical><verse>This is the supreme aspiration of the Bodhisattva.
+
+[13017]
+<tibetan>ཤེས་པ་ལ་གཉིས་བཅས་གཟུང་འཛིན་དང་བྲལ་དུས་རང་རིག་རང་ས་ན་གསལ་ཏེ།
+<literal>/knowledge to duality possess grasping-grasped and separate time self-awareness self-place in clear and/
+<liturgical><verse>The union of emptiness and compassion, the essence of the path.
+
+[13018]
+<tibetan>རིག་པ་ཟང་ཀ་གཅེར་བུ་གཅིག་ཡིན་པའི་ཕྱིར་རོ།
+<literal>/awareness core naked one is because is/
+<liturgical><verse>The Vajra Essence teaching, profound and vast.
+
+[13019]
+<tibetan>།དེ་ཡང་གང་དྲན་ཅོག་གཞག་གི་དུས་སུ་གསལ་ལོ།
+<literal>/that also whatever mindfulness mind-place's time in clear is/
+<liturgical><verse>Complete in its explanation of delusion and liberation. || 520 ||
+
+[13020]
+<tibetan>།རྒྱུ་འབྲས་བཟློག་པས་འབྲས་བུ་ཐོབ་པ་ནི།
+<literal>/cause fruit reverse by-means-of fruit obtain is/
+<liturgical><verse>Through symbols and metaphors, direct pointing to the nature of mind.
+
+[13021]
+<tibetan>བྱས་པས་མི་ཟིན་བཞག་ན་ཟིན་པས་གང་དང་གང་གི་ཚེའང་བྱ་རྩོལ་རང་གཞག་ལ་བཏང་བས།
+<literal>/done by-means-of not grasp place if grasp by-means-of whatever and whatever's time-also action-effort self-place to send by-means-of/
+<liturgical><verse>May all who read these words be blessed.
+
+[13022]
+<tibetan>མ་བྱས་པའི་དོན་སྐད་ཅིག་ལ་འཆར་བ་ནི།
+<literal>not-done-'s meaning moment on arises is/
+<liturgical><verse>May their minds be opened to the natural state.
+
+[13023]
+<tibetan>འབྲས་བུ་ལམ་དུ་བྱས་པས་རྒྱུ་རང་འགགས་པ་ཞེས་བྱའོ།
+<literal>fruit path as-done-by-means-of cause self-ceases named/
+<liturgical><verse>The blessing of the lineage gurus flows through these words.
+
+[13024]
+<tibetan>།རྟེན་འབྲེལ་ལུགས་འབྱུང་ཡར་ལུགས་ལས་བཟློག་པས་འཁོར་བ་འཆད་པར་ཀུན་མཐུན་པ་ནི།
+<literal>/dependent-origination manner-arising upward-manner from reversed-by-means-of samsara ceases universally-agreeing is/
+<liturgical><verse>The wisdom of the Buddhas of the three times pervades this teaching.
+
+[13025]
+<tibetan>རྒྱུ་འབྲས་གོ་ལོག་གི་ཆོས་ཞེས་བྱའོ།
+<literal>cause fruit reversed-'s dharma named/
+<liturgical><verse>The compassion of all enlightened ones supports the practitioner.
+
+[13026]
+<tibetan>།ཀུན་གཞི་མ་རིག་པའི་རྩ་བ་རང་ངོ་ལ་བལྟས་དུས་ཆོད་པས་སངས་རྒྱའོ།
+<literal>/basis-of-all non-recognition-'s root self-face on-looked time cut-by-means-of buddha/
+<liturgical><verse>In the space of Dharmatā, all is perfect from the beginning.
+
+[13027]
+<tibetan>།བསད་པས་དགེ་བ་འཕེལ་བ་ནི།
+<literal>/killed-by-means-of virtue increases is/
+<liturgical><verse>No need to seek elsewhere for the nature of mind.
+
+[13028]
+<tibetan>དྲན་ཐོག་ཤར་ཐོག་དེ་ཀར་རང་ཆོད་ཅོག་གཞག་ལ་ཕྱལ་ཕྱལ་བཏང་བས།
+<literal>mindfulness arise that-place self-release just leave on spread-out by-means-of/
+<liturgical><verse>It is present here and now, in every moment of awareness.
+
+[13029]
+<tibetan>དོན་གྱི་ཡེ་ཤེས་ཅེར་མཐོང་དུ་སོང་བས་ཉམས་རྟོགས་ཤུགས་ལ་འཕེལ་བའོ།
+<literal>meaning-'s primordial-wisdom bare see went-by-means-of experience force on increases/
+<liturgical><verse>The sound of the teaching echoes in the expanse of clear light. || 530 ||
+
+[13030]
+<tibetan>།ཉི་ཟླ་ཁ་སྦྱོར་ལས།
+<literal>/sun moon mouth-join from/
+<liturgical><verse>May the practitioner recognize this as their own nature.
+
+[13031]
+<tibetan>རང་རིག་རང་གྲོལ་རང་ཉིད་ལ།
+<literal>self-know self-release self on/
+<liturgical><ornament>The end of the Vajra Essence Path chapter.
+
+[13032]
+<tibetan>།རང་ཀ་མ་ནི་རང་གྲོལ་བས།
+<literal>/self ka ma/self-release by-means-of/
+<liturgical><ornament>The tenth chapter of the precious Jewel Treasury.
+
+[13033]
+<tibetan>།ལྕགས་ཀྱིས་ལྕགས་རྣམས་གཤོག་པ་དང༌།
+<literal>/iron by-means-of iron pl sever and/
+<liturgical><ornament>Explaining how delusion arises from the ground.
+
+[13034]
+<tibetan>།རྡོ་ཡིས་རྡོ་རྣམས་གཅོག་པ་བཞིན།
+<literal>/stone by-means-of stone sever as/
+<liturgical><ornament>And how it is reversed through the path of wisdom.
+
+[13035]
+<tibetan>།རང་གི་གཉེན་པོར་རང་ཉིད་ཆེ།
+<literal>/self-'s antidote self great/
+<liturgical><ornament>The complete teaching of the rdo rje snying po.
+
+[13036]
+<tibetan>།རང་བཞིན་རྫོགས་ཆེན་རྟོགས་པ་ཡིས།
+<literal>/self-nature great-perfection realizes by-means-of/
+<liturgical><verse>May it bring benefit to all who encounter it.
+
+[13037]
+<tibetan>།འདི་ལྟར་གོམས་པ་གང་ཡིན་པ།
+<literal>/thus familiar what is/
+<liturgical><ornament>The precious teaching of the Great Perfection.
+
+[13038]
+<tibetan>།མ་བཙལ་བཞག་པའི་དོན་རྣམས་རྙེད།
+<literal>/not-sought left-'s meanings obtain/
+<liturgical><ornament>The Ati Yoga path of spontaneous liberation.
+
+[13039]
+<tibetan>།མ་བསྒོམས་པར་ནི་བདེ་ཆེན་རྒྱས།
+<literal>/not-meditated-by-means-of bliss-mahā expands/
+<liturgical><ornament>Complete and perfect in every way. || 540 ||
+
+[13040]
+<tibetan>།རང་བཞིན་ཉིད་དུ་མངོན་སུམ་རིག
+<literal>/self-nature just-as direct-know
+<liturgical><break><ornament> The essence of all Buddha's teachings.
+
+[13041]
+<tibetan>།འདི་ཉིད་སུ་དང་ཕྲད་པ་དེ།
+<literal>/this who with meet that/
+<liturgical><break><verse> May the three jewels bestow their blessings.
+
+[13042]
+<tibetan>།མཚམས་མེད་སྡིག་དང་ལྡན་པ་ཡང༌།
+<literal>/in-between-not sin and possessing even/
+<liturgical><verse>May the guru's wisdom mind transfer to the disciple.
+
+[13043]
+<tibetan>འདི་ཉིད་གོམས་པས་གྲོལ་བར་ནི།
+<literal>this familiar-by-means-of release to/
+<liturgical><verse>May the yidams grant their siddhis.
+
+[13044]
+<tibetan>།ཐེ་ཚོམ་མེད་དོ་ན་རག་ཀན།
+<literal>/doubt not nā rag kan/
+<liturgical><verse>May the dakinis support the practice.
+
+[13045]
+<tibetan>།ཅེས་སོ།
+<literal>/thus/
+<liturgical><verse>May the protectors clear away obstacles.
+
+[13046]
+<tibetan>།བརྒྱད་པ་འོད་གསལ་ཀློང་དུ་དྲིལ་བའི་བརྡ་ནི།
+<literal>/eighth light-expanse in rolled sign is/
+<liturgical><verse>In the mandala of the natural state, all are perfect.
+
+[13047]
+<tibetan>ཐལ་འགྱུར་ལས།
+<literal>consequence from/
+<liturgical><verse>The view of the Great Perfection is complete.
+
+[13048]
+<tibetan>གཞན་ཡང་བརྡ་དོན་ཚིག་འབྲེལ་བཤད།
+<literal>moreover sign meaning words connection explains/
+<liturgical><verse>The meditation of clear light is perfect.
+
+[13049]
+<tibetan>།བསྐལ་པའི་མེ་དཔུང་ཀློང་དཀྱིལ་ན།
+<literal>/eon-'s fire-mass expanse-center in/
+<liturgical><verse>The conduct of spontaneous presence is natural. || 550 ||
+
+[13050]
+<tibetan>།མི་གཅིག་ཚིག་པ་མེད་པར་ཡང༌།
+<literal>/person one burn not even/
+<liturgical><verse>The result of the three kayas is attained.
+
+[13051]
+<tibetan>།ཁ་ནས་སྡེ་སྣོད་ཆོས་བཤད་ཅིང༌།
+<literal>/mouth from scripture dharma explains and/
+<liturgical><ornament>Thus the teaching is complete.
+
+[13052]
+<tibetan>།ལས་སུ་གཞན་གྱི་སྲོག་གཅོད་པ།
+<literal>/action as other-'s life sever/
+<liturgical><ornament>Thus the chapter is finished.
+
+[13053]
+<tibetan>།དགེ་སྦྱོར་འཕེལ་བ་ཡ་རེ་ཆ།
+<literal>/virtue practice increases gradually/
+<liturgical><ornament>Thus the Vajra Essence is revealed.
+
+[13054]
+<tibetan>།ལྕགས་ཀྱི་ཁང་པ་སྒོ་མེད་ན།
+<literal>/iron-'s house door not-has if/
+<liturgical><verse>For the benefit of all sentient beings.
+
+[13055]
+<tibetan>།སྣང་མེད་མུན་པའི་ཀློང་དཀྱིལ་ན།
+<literal>/appearance-not darkness-'s expanse-center in/
+<liturgical><verse>Now and forevermore.
+
+[13056]
+<tibetan>།ཉི་མ་ཟླ་བ་འོད་གསལ་ཡང༌།
+<literal>/sun moon light-clear even/
+<liturgical><ornament>The end of the tenth chapter.
+
+[13057]
+<tibetan>།སུས་ཀྱང་མཐོང་བ་མེད་པ་ནི།
+<literal>/who by-means-of see not is/
+<liturgical><ornament>On the Vajra Essence Path.
+
+[13058]
+<tibetan>།སོ་སོའི་དབང་པོའི་ཡུལ་གསལ་བ།
+<literal>/individual sense-power-'s object clear/
+<liturgical><ornament>Complete with all its branches.
+
+[13059]
+<tibetan>།མཐོང་བ་མེད་པ་ཡང་རེ་ཆ།
+<literal>/see not even gradually/
+<liturgical><ornament>The teaching of Samantabhadra. || 560 ||
+
+[13060]
+<tibetan>།ཞེས་པའི་དོན་ལ།
+<literal>/thus-'s meaning on/
+<liturgical><ornament>The Buddha of primordial purity.
+
+[13061]
+<tibetan>མེ་དཔུང་གིས་མི་མ་ཚིག་པར་དགེ་བ་འཕེལ་བ་ནི།
+<literal>fire-mass by-means-of person not burn virtue increases is/
+<liturgical><verse>May all realize this meaning.
+
+[13062]
+<tibetan>རྟོག་ཚོགས་ཉོན་མོངས་ཀྱི་མེ་ནང་ན་རང་བྱུང་ཡེ་ཤེས་ཀྱི་མི་ཐོག་མ་མེད་དུས་ནས་གནས་ཀྱང༌།
+<literal>thought-heap affliction-'s fire inside in self-arisen primordial-wisdom-'s person beginning-not time from abides even/
+<liturgical><verse>The Dharmakāya of clear light.
+
+[13063]
+<tibetan>དེས་མ་གོས་མ་བསླད་མ་ཚིག་ལ།
+<literal>that by-means-of not-stained not-defiled not-burn on/
+<liturgical><verse>The Saṃbhogakāya of spontaneous presence.
+
+[13064]
+<tibetan>རང་ངོ་རང་གིས་ཤེས་དུས་སྡེ་སྣོད་བཤད་ལ།
+<literal>self-face self by-means-of knows time scripture explains on/
+<liturgical><verse>The Nirmāṇakāya of compassionate activity.
+
+[13065]
+<tibetan>རྟོག་ཚོགས་རང་གྲོལ་དུ་སོང་བ་གཞན་གྱི་སྲོག་གཅོད་པ་སྟེ།
+<literal>thought-heap self-release went other-'s life sever is/
+<liturgical><verse>Complete in the bindu of Dharmatā.
+
+[13066]
+<tibetan>གཞན་དུ་འཛིན་པའི་སེམས་ཡིན་པའི་ཕྱིར་རོ།
+<literal>other as grasp-'s mind is-'s cause/
+<liturgical><verse>May the teachings endure.
+
+[13067]
+<tibetan>།དོན་དེ་ནི་རིག་པ་གནད་ལ་ཕོག་པས་དགེ་སྦྱོར་ངང་གིས་འཕེལ་བ་ཡིན་ནོ།
+<literal>/meaning that is awareness vital-point on hit-by-means-of virtue practice nature-by increases is/
+<liturgical><verse>May beings be liberated.
+
+[13068]
+<tibetan>།ལྕགས་ཁང་མུན་པ་ཅན་ནི།
+<literal>/iron house darkness possessing is/
+<liturgical><verse>May the Dharma spread.
+
+[13069]
+<tibetan>རང་གི་ལུས་ཙིཏྟ་ཀའི་ནང་ན་རིག་པ་མ་རིག་པ་དང་ན་ཅིག་གནས་པའོ།
+<literal>self-'s body citta-'s inside in awareness non-awareness and dwell one abides/
+<liturgical><verse>Throughout all worlds. || 570 ||
+
+[13070]
+<tibetan>།ཉི་ཟླ་མ་མཐོང་བ་ནི།
+<literal>/sun moon not see is/
+<liturgical><verse>The precious Vajra Essence teaching.
+
+[13071]
+<tibetan>ཐམས་ཅད་ལ་ཡོད་ཀྱང་གདམས་ངག་མེད་པས་མ་མཐོང་བའོ།
+<literal>all on exists even instructions not-has-by-means-of not see/
+<liturgical><verse>The heart of all Buddhas.
+
+[13072]
+<tibetan>།སོ་སོ་ལ་གསལ་བ་གདམས་ངག་ཅན་ལ་མངོན་སུམ་གྱི་སྣང་བ་ད་ལྟ་མཐོང་བའོ།
+<literal>/individual on clear instructions possessing on direct-'s appearance now see/
+<liturgical><verse>The path of Great Perfection.
+
+[13073]
+<tibetan>།མཐོང་བ་མེད་པ་ནི།
+<literal>/see not is/
+<liturgical><verse>The Dzogchen of the Nyingma.
+
+[13074]
+<tibetan>སྟོང་གཟུགས་དེ་རང་གིས་མཐོང་དུས།
+<literal>empty-form that self by-means-of see time/
+<liturgical><verse>Complete and perfect.
+
+[13075]
+<tibetan>དྲུང་ན་འཁོད་པ་གཅིག་གིས་གཅིག་གི་དེ་ལྟར་མེད་པའོ།
+<literal>near in abides one by-means-of one-'s thus not/
+<liturgical><verse>May auspiciousness prevail.
+
+[13076]
+<tibetan>།འདི་ནི་རིག་པ་འོད་གསལ་གྱི་བརྡ་དོན་ནོ།
+<literal>/this is awareness light-clear-'s sign meaning/
+<liturgical><verse>Sarva Maṅgalam.
+
+[13077]
+<tibetan>།དེ་དག་ལ་སོགས་པ་བརྡའི་རྣམ་པ་གྲངས་མེད་པ་རྣམས་བླ་ན་མེད་པའི་ཐེག་པ་འདི་ལ་གྲགས་པས་རྒྱུད་སོ་སོའི་སྐབས་སུ་ཤེས་པར་བྱའོ།
+<literal>/that and-so-forth sign-'s aspect numberless supreme vehicle this on renowned-by-means-of tantra individual occasion on know should/
+<liturgical><ornament>The end.
+
+[13078]
+<tibetan>།བརྡའི་གནས་འདི་ནི་མཁའ་འགྲོ་མ་རྣམས་ཀྱིས་བདག་བྱས་པས་ཤིན་ཏུ་གཉན་ཞིང་རྟོགས་པར་ཡང་དཀའ་ལ།
+<literal>/sign-'s place this is ḍākinī by-means-of self done-by-means-of extremely profound and realize even difficult and/
+<liturgical><ornament>The Vajra Essence teaching is complete.
+
+[13079]
+<tibetan>རྟོགས་ན་དོན་རླབས་ཆེ་བས་འཚེད་པའི་ཕྱིར་ཡང་རབ་ཀྱི་ཆོས་ཡིན་ནོ།
+<literal>realize if meaning waves great by-means-of burn-'s cause even excellent-'s dharma is/
+<liturgical><ornament>The ground basis fully explained. || 580 ||
+
+[13080]
+<tibetan>།ཚིག་གཞན་རྣམས་བར་དུ་བསླད་པ་དང་འཆོལ་བ་སྲིད་ལ།
+<literal>/words others middle in distort and mix possible and/
+<liturgical><ornament>The path of spontaneous presence revealed.
+
+[13081]
+<tibetan>བརྡ་འདི་ནི་སུས་ཀྱང་བསྒྱུར་དུ་མེད།
+<literal>sign this who by-means-of change not/
+<liturgical><ornament>The result of perfect Buddhahood attained.
+
+[13082]
+<tibetan>བསླད་དུ་མེད་པས་བྱིན་རླབས་ཆེ་ཞིང་དོན་ལ་ཉེ་བར་སྟོན་གྱི།
+<literal>distort not-by-means-of blessing great and meaning near shows/
+<liturgical><verse>Through the blessings of the lineage gurus.
+
+[13083]
+<tibetan>ཚིག་གི་སྤྱད་ཡུལ་མ་ཡིན་པས་གསང་བ་ཆེན་པོ་ཡིན་ནོ།
+<literal>words-'s domain not-is-by-means-of secret great is/
+<liturgical><verse>Through the wisdom of all Buddhas.
+
+[13084]
+<tibetan>།ཐེག་པའི་མཆོག་རིན་པོ་ཆེའི་མཛོད་ལས།
+<literal>/vehicle-'s supreme jewel treasury from/
+<liturgical><verse>Through the compassion of enlightened beings.
+
+[13085]
+<tibetan>འཁྲུལ་ལུགས་བཟློག་ཚུལ་དང་བཅས་པས་བརྡས་མཚོན་སྟེ་རིམ་ཁང་བཅུ་པའོ།
+<literal>delusion manner reverse manner and together sign shows stage mansion tenth/
+<liturgical><verse>May all realize the natural state.
+
+[13086]
+<tibetan>།དེ་ལྟར་གཞི་ལས་འཁྲུལ་པ་ཇི་ལྟར་ཟློག་པའི་རིམ་པ་དང་བཅས་པ་བསྟན་ནས།
+<literal>/thus basis from delusion how reverse-'s stage and together shown after/
+<liturgical><verse>May the Dharmakāya of clear light be recognized.
+
+[13087]
+<tibetan>ད་ནི་འཁྲུལ་དུས་ལུས་ཀྱི་གྲུབ་ཚུལ་བསྟན་པར་བྱ་སྟེ།
+<literal>now delusion time body-'s formation manner show should/
+<liturgical><verse>May the Saṃbhogakāya of five lights manifest.
+
+[13088]
+<tibetan>སྤྱིར་ཁམས་གསུམ་རིགས་དྲུག་སོ་སོ་ལ་ལུས་ཀྱི་སྣང་ཚུལ་རེ་ཡོད་པ་ལས།
+<literal>generally realms three races six individual on body-'s appearance manner each exists from/
+<liturgical><verse>May the Nirmāṇakāya benefit all beings.
+
+[13089]
+<tibetan>སྐབས་འདིར་མི་རྣམས་ཀྱི་དབང་དུ་བྱས་ཏེ།
+<literal>occasion this people-'s domain as-made/
+<liturgical><verse>The three kayas complete in the bindu. || 590 ||
+
+[13090]
+<tibetan>སྐྱེ་བ་བཞི་ལས་མངལ་ནས་བཙའ་བའི་རིམ་པ་དང་སྦྱར་ནས་བཤད་པ་ནི།
+<literal>birth four from womb from delivered-'s stage and connected-by-means-of explained is/
+<liturgical><verse>The primordial purity of Samantabhadra.
+
+[13091]
+<tibetan>ཉི་ཟླ་ཁ་སྦྱོར་ལས།
+<literal>sun moon mouth-join from/
+<liturgical><verse>The spontaneous presence of the natural state.
+
+[13092]
+<tibetan>ཕ་དང་མ་ཡི་རྒྱུ་རྐྱེན་ལས།
+<literal>father and mother-'s cause condition from/
+<liturgical><verse>The thigle of Dharmatā, clear and luminous.
+
+[13093]
+<tibetan>།མེར་མེར་པོ་དང་ནུར་ནུར་པོ།
+<literal>/mer mer po and nur nur po/
+<liturgical><verse>Beyond all conceptions and descriptions.
+
+[13094]
+<tibetan>།ལྟར་ལྟར་པོ་དང་གོར་གོར་པོ།
+<literal>/ltar ltar po and gor gor po/
+<liturgical><verse>The essence of the Buddha's teaching.
+
+[13095]
+<tibetan>།མཁྲང་འགྱུར་ཉིད་དང་ཉ་ལྟ་བུ།
+<literal>/solid become and fish like/
+<liturgical><verse>The heart of the Great Perfection.
+
+[13096]
+<tibetan>།རུས་སྦལ་བཞིན་དང་སྦལ་པ་བཞིན།
+<literal>/turtle like and frog like/
+<liturgical><verse>The Dzogchen path of Ati Yoga.
+
+[13097]
+<tibetan>།དེ་བཞིན་ཞག་ནི་བདུན་ཕྲག་བདུན།
+<literal>/thus days seven times seven/
+<liturgical><verse>Complete in ground, path, and result.
+
+[13098]
+<tibetan>།ལྟེ་བ་ལས་ནི་ལུས་རྣམས་སྐྱེད།
+<literal>/navel from body produces/
+<liturgical><verse>May these teachings spread far and wide.
+
+[13099]
+<tibetan>།ཟླ་དགུ་དེ་བཞིན་ངོ་བཅུ་ན།
+<literal>/months nine thus face ten on/
+<liturgical><verse>May all beings attain liberation. || 600 ||
+
+[13100]
+<tibetan>།ལུས་རྫོགས་མ་ཡི་མངལ་ནས་འཐོན།
+<literal>/body complete mother-'s womb from emerges/
+<liturgical><verse>The precious Vajra Essence.
+
+[13101]
+<tibetan>།དེ་ལྟར་གཟུགས་ནི་ཐ་དད་དུ།
+<literal>/thus form different/
+<liturgical><verse>The supreme teaching of all Buddhas.
+
+[13102]
+<tibetan>།འཁོར་བ་ཉིད་ནས་འཁོར་བའོ།
+<literal>/samsara itself from samsara/
+<liturgical><verse>Complete and perfect.
+
+[13103]
+<tibetan>།ཞེས་གསུངས་པའི་དོན་གཏན་ལ་ཕབ་ན།
+<literal>/thus said-'s meaning established if/
+<liturgical><ornament>The end.
