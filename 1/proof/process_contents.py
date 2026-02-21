@@ -8,15 +8,49 @@ import os
 import re
 import html
 import sys
+import json
 from pathlib import Path
 from datetime import datetime
 
-# -----------------------------------------------------------------------------
-# CONFIGURATION
-# -----------------------------------------------------------------------------
-
 INPUT_FILE = Path("../contents/contents.md")
 OUTPUT_FILE = Path("html/contents_proof.html")
+LITERAL_DIR = Path("../text/frozen/literal")
+
+LINE_MAP = {}
+
+def build_line_map():
+    """Build a mapping from file IDs to starting line numbers by scanning literal files."""
+    global LINE_MAP
+    current_line = 1
+    
+    files = sorted([f for f in os.listdir(LITERAL_DIR) if f.endswith('.txt')])
+    
+    for filename in files:
+        file_id = filename.replace('.txt', '')
+        LINE_MAP[file_id] = current_line
+        
+        filepath = LITERAL_DIR / filename
+        with open(filepath, 'r', encoding='utf-8') as f:
+            lines = f.readlines()
+            for line in lines:
+                if re.match(r'^\[\d+\]', line.strip()):
+                    current_line += 1
+
+def file_id_to_literal_key(volume, chapter, file_id):
+    """Convert a contents file_id like '1-1' or '2-1-2' to literal file key like '01-01-01-01'."""
+    parts = file_id.split('-')
+    vol = volume.zfill(2)
+    ch = chapter.zfill(2)
+    
+    if len(parts) == 2:
+        sec = parts[1].zfill(2)
+        return f"{vol}-{ch}-{sec}-01"
+    elif len(parts) == 3:
+        sec = parts[1].zfill(2)
+        sub = parts[2].zfill(2)
+        return f"{vol}-{ch}-{sec}-{sub}"
+    
+    return None
 
 # -----------------------------------------------------------------------------
 # CSS STYLES (PDF-OPTIMIZED)
@@ -242,6 +276,20 @@ HTML_CSS = """
         border-top: 1px dashed #ccc;
     }
 
+    /* Clickable rows */
+    .section-table tbody tr {
+        cursor: pointer;
+        transition: background-color 0.2s ease;
+    }
+    
+    .section-table tbody tr:hover {
+        background-color: rgba(93, 64, 55, 0.1);
+    }
+    
+    .section-table tbody tr:active {
+        background-color: rgba(93, 64, 55, 0.2);
+    }
+
     /* Print-specific adjustments */
     @media print {
         body {
@@ -328,9 +376,9 @@ def parse_contents(content):
         }
         
         # Extract table rows
-        # Format: | file.md | lines | Type | Title |
+        # Format: | file | lines | Type | Title |
         table_rows = re.findall(
-            r'\|\s*([\w_]+\.md)\s*\|\s*~?(\d+)\s*\|\s*([\w\s/-]+)\s*\|\s*(.+?)\s*\|',
+            r'\|\s*([\d-]+)\s*\|\s*~?(\d+)\s*\|\s*([\w\s/-]+)\s*\|\s*(.+?)\s*\|',
             chapter_content
         )
         
@@ -372,7 +420,18 @@ def generate_html(data):
     """Generate HTML content."""
     html_parts = []
     
-    # Title section
+    html_parts.append('''
+    <script>
+    document.addEventListener('click', function(e) {
+        const row = e.target.closest('tr[data-line]');
+        if (row) {
+            const lineNum = row.dataset.line;
+            window.parent.postMessage({ type: 'navigateToLine', line: lineNum }, '*');
+        }
+    });
+    </script>
+    ''')
+    
     html_parts.append(f'''
     <div class="title-section">
         <h1>{html.escape(data['title'])}</h1>
@@ -395,6 +454,7 @@ def generate_html(data):
         <ul>
             <li><strong>Descriptive titles</strong> for all 213 sections based on content analysis</li>
             <li><strong>Line counts</strong> for each section (calculated from line markers)</li>
+            <li><strong>Click any row</strong> to jump to that section in your currently selected translation layer</li>
             <li><strong>Content type</strong> classification:
                 <ul>
                     <li><span class="type-badge type-prologue">Prologue</span> - Introductory/Homage sections</li>
@@ -435,8 +495,10 @@ def generate_html(data):
         
         for entry in chapter['entries']:
             type_class = get_type_class(entry['type'])
+            literal_key = file_id_to_literal_key(chapter['volume'], chapter['number'], entry['file'].replace('.md', ''))
+            start_line = LINE_MAP.get(literal_key, 1)
             html_parts.append(f'''
-                    <tr>
+                    <tr data-line="{start_line}" style="cursor: pointer;" title="Click to go to line {start_line}">
                         <td class="col-file">{html.escape(entry['file'])}</td>
                         <td class="col-lines">{html.escape(entry['lines'])}</td>
                         <td class="col-type"><span class="type-badge type-{type_class}">{html.escape(entry['type'])}</span></td>
@@ -483,6 +545,10 @@ def process_contents():
         print(f"Error: Input file '{INPUT_FILE}' not found.")
         sys.exit(1)
     
+    print("Building line map from literal files...")
+    build_line_map()
+    print(f"  Mapped {len(LINE_MAP)} files to line numbers")
+    
     try:
         with open(INPUT_FILE, 'r', encoding='utf-8') as f:
             content = f.read()
@@ -501,13 +567,6 @@ def process_contents():
             f.write(full_html)
         
         print(f"\n✓ Complete! Output saved to '{OUTPUT_FILE}'")
-        print(f"\nTo create PDF:")
-        print(f"  1. Open '{OUTPUT_FILE}' in Chrome or Edge")
-        print(f"  2. Press Ctrl+P (Print)")
-        print(f"  3. Select 'Save as PDF'")
-        print(f"  4. Ensure 'Background graphics' is checked")
-        print(f"  5. Set margins to 'Default' or 'Minimum'")
-        print(f"  6. Click Save")
         
     except Exception as e:
         print(f"Error: {e}")

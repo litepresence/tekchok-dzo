@@ -30,9 +30,9 @@ This comprehensive table of contents provides:
 
 | File | Lines | Type | Descriptive Title |
 |------|-------|------|-------------------|
-| ch1_sec1.md | 174 | Prologue | Homage to Samantabhadra & The Five Perfections |
-| ch1_sec2.md | 403 | Main Teaching | Teacher's Display: Path of Samantabhadra and Mind Generation |
-| ch1_sec3.md | ~3 | List Item | Brief mention: Pure Fields and Container-Contents |
+| 1-1 | 174 | Prologue | Homage to Samantabhadra & The Five Perfections |
+| 1-2 | 403 | Main Teaching | Teacher's Display: Path of Samantabhadra and Mind Generation |
+| 1-3 | ~3 | List Item | Brief mention: Pure Fields and Container-Contents |
 
 ---
 
@@ -42,13 +42,13 @@ This comprehensive table of contents provides:
 
 | File | Lines | Type | Descriptive Title |
 |------|-------|------|-------------------|
-| ch2_sec1.md | 257 | Main Teaching | Geography of Worlds: South, East, North Directions |
-| ch2_sec1_sub2.md | 105 | List Item | Subdivision: Half and Quarter Measures (Structural Fragment) |
-| ch2_sec1_sub3.md | 1 | Structural Fragment | List: Gods Holding Flower Garlands |
-| ch2_sec1_sub4.md | 1 | Structural Fragment | List: Gods Intoxicated by Flower Nectar |
-| ch2_sec1_sub5.md | 1 | Structural Fragment | List: Four Directional Noble-Born Gods |
-| ch2_sec2.md | 39 | Main Teaching | The Eight Hot Hells: Duration and Suffering |
-| ch2_sec2_sub2.md | 536 | Main Teaching | Ten Non-Virtues and Their Results |
+| 2-1 | 257 | Main Teaching | Geography of Worlds: South, East, North Directions |
+| 2-1-2 | 105 | List Item | Subdivision: Half and Quarter Measures (Structural Fragment) |
+| 2-1-3 | 1 | Structural Fragment | List: Gods Holding Flower Garlands |
+| 2-1-4 | 1 | Structural Fragment | List: Gods Intoxicated by Flower Nectar |
+| 2-1-5 | 1 | Structural Fragment | List: Four Directional Noble-Born Gods |
+| 2-2 | 39 | Main Teaching | The Eight Hot Hells: Duration and Suffering |
+| 2-2-2 | 536 | Main Teaching | Ten Non-Virtues and Their Results |
 
 ---
 
@@ -58,9 +58,9 @@ This comprehensive table of contents provides:
 
 | File | Lines | Type | Descriptive Title |
 |------|-------|------|-------------------|
-| ch3_sec1.md | 89 | Main Teaching | Aggregates as Basis: Detailed Analysis |
-| ch3_sec2.md | 61 | Subsection | Further Analysis of Aggregates |
-| ch3_sec3.md | ~3 | List Item | Brief Section Marker |
+| 3-1 | 89 | Main Teaching | Aggregates as Basis: Detailed Analysis |
+| 3-2 | 61 | Subsection | Further Analysis of Aggregates |
+| 3-3 | ~3 | List Item | Brief Section Marker |
 
 ---
 
@@ -70,26 +70,26 @@ This comprehensive table of contents provides:
 
 | File | Lines | Type | Descriptive Title |
 |------|-------|------|-------------------|
-| ch4_sec1.md | 637 | Main Teaching | Erroneous Vehicles: Introduction to Philosophical Systems |
-| ch4_sec2.md | 294 | Main Teaching | Śrāvaka Vehicle: Fivefold Explanation |
-| ch4_sec3.md | 3 | List Item | Characteristic Vehicle Approach (Brief) |
-| ch4_sec4.md | 13 | List Item | First Point: Structural Marker |
-| ch4_sec5.md | 24 | Main Teaching | Mind-Only Analysis: Phenomena as Mental Projection |
-| ch4_sec6.md | 110 | Main Teaching | Logical Examination: No True Existence Found |
-| ch4_sec7.md | 6 | List Item | Perception Analysis: Appearances as Self-Awareness |
-| ch4_sec8.md | 28 | Main Teaching | Sound and Hearing: Momentary Awareness |
-| ch4_sec9.md | 20 | List Item | Present Appearances: Multiple Aspects |
-| ch4_sec10.md | 3 | List Item | Various Appearances: Mind-Only Explanation |
-| ch4_sec11.md | 22 | List Item | First Point: Structural Marker |
-| ch4_sec12.md | 251 | Main Teaching | Non-Existence: No Cessation in Reality |
-| ch4_sec13.md | 28 | List Item | First Point: Structural Marker |
-| ch4_sec14.md | 380 | Main Teaching | Clarifying the Basis: Causal Arguments |
-| ch4_sec15.md | 45 | List Item | First Point: Structural Marker |
-| ch4_sec16.md | 104 | Main Teaching | Middle Way Analysis: Part Two |
-| ch4_sec17.md | 18 | List Item | First Point: Structural Marker |
-| ch4_sec18.md | 106 | Main Teaching | Delusion Without Experience: Ignorance Analysis |
-| ch4_sec18_sub2.md | 5 | Structural Fragment | Second Point: Brief Marker |
-| ch4_sec19.md | 104 | Main Teaching | Afflictions and Purification: Detailed Analysis |
+| 4-1 | 637 | Main Teaching | Erroneous Vehicles: Introduction to Philosophical Systems |
+| 4-2 | 294 | Main Teaching | Śrāvaka Vehicle: Fivefold Explanation |
+| 4-3 | 3 | List Item | Characteristic Vehicle Approach (Brief) |
+| 4-4 | 13 | List Item | First Point: Structural Marker |
+| 4-5 | 24 | Main Teaching | Mind-Only Analysis: Phenomena as Mental Projection |
+| 4-6 | 110 | Main Teaching | Logical Examination: No True Existence Found |
+| 4-7 | 6 | List Item | Perception Analysis: Appearances as Self-Awareness |
+| 4-8 | 28 | Main Teaching | Sound and Hearing: Momentary Awareness |
+| 4-9 | 20 | List Item | Present Appearances: Multiple Aspects |
+| 4-10 | 3 | List Item | Various Appearances: Mind-Only Explanation |
+| 4-11 | 22 | List Item | First Point: Structural Marker |
+| 4-12 | 251 | Main Teaching | Non-Existence: No Cessation in Reality |
+| 4-13 | 28 | List Item | First Point: Structural Marker |
+| 4-14 | 380 | Main Teaching | Clarifying the Basis: Causal Arguments |
+| 4-15 | 45 | List Item | First Point: Structural Marker |
+| 4-16 | 104 | Main Teaching | Middle Way Analysis: Part Two |
+| 4-17 | 18 | List Item | First Point: Structural Marker |
+| 4-18 | 106 | Main Teaching | Delusion Without Experience: Ignorance Analysis |
+| 4-18-2 | 5 | Structural Fragment | Second Point: Brief Marker |
+| 4-19 | 104 | Main Teaching | Afflictions and Purification: Detailed Analysis |
 
 ---
 
@@ -99,16 +99,16 @@ This comprehensive table of contents provides:
 
 | File | Lines | Type | Descriptive Title |
 |------|-------|------|-------------------|
-| ch5_sec1.md | 111 | Main Teaching | Symbolic and Verbal Tantras: Introduction |
-| ch5_sec2.md | 356 | Main Teaching | Root Tantras: Detailed Explanation |
-| ch5_sec3.md | 209 | Main Teaching | Fivefold Classification: Binding the Ground |
-| ch5_sec4.md | 1,572 | Main Teaching | Extensive Explanation: Layered Cosmology |
-| ch5_sec4_sub2.md | 1 | Structural Fragment | List: Brahma Thousand World-Systems |
-| ch5_sec4_sub3.md | 1 | Structural Fragment | List: Sun Thousand Victors |
-| ch5_sec4_sub4.md | 1 | Structural Fragment | List: Net-Protector Buddhas |
-| ch5_sec4_sub5.md | 1 | Structural Fragment | List: Light-Ray Thousand Boundary Protectors |
-| ch5_sec4_sub6.md | 1 | Structural Fragment | List: Existence-Destroying Victors |
-| ch5_sec5.md | 317 | Main Teaching | Unexcelled Vehicle: Entrance Gateway |
+| 5-1 | 111 | Main Teaching | Symbolic and Verbal Tantras: Introduction |
+| 5-2 | 356 | Main Teaching | Root Tantras: Detailed Explanation |
+| 5-3 | 209 | Main Teaching | Fivefold Classification: Binding the Ground |
+| 5-4 | 1,572 | Main Teaching | Extensive Explanation: Layered Cosmology |
+| 5-4-2 | 1 | Structural Fragment | List: Brahma Thousand World-Systems |
+| 5-4-3 | 1 | Structural Fragment | List: Sun Thousand Victors |
+| 5-4-4 | 1 | Structural Fragment | List: Net-Protector Buddhas |
+| 5-4-5 | 1 | Structural Fragment | List: Light-Ray Thousand Boundary Protectors |
+| 5-4-6 | 1 | Structural Fragment | List: Existence-Destroying Victors |
+| 5-5 | 317 | Main Teaching | Unexcelled Vehicle: Entrance Gateway |
 
 ---
 
@@ -118,26 +118,26 @@ This comprehensive table of contents provides:
 
 | File | Lines | Type | Descriptive Title |
 |------|-------|------|-------------------|
-| ch6_sec1.md | 298 | Main Teaching | Six Student Types: Seeds and Dispositions |
-| ch6_sec2.md | 1,013 | Main Teaching | Elaborate Empowerment: Time and Signs |
-| ch6_sec3.md | 26 | List Item | Maṇḍala of Colored Powders: Deity Display |
-| ch6_sec4.md | 534 | Main Teaching | Five Wisdoms: Represented by Colored Powders |
-| ch6_sec5.md | 2 | List Item | First: Joy (Brief Marker) |
-| ch6_sec5_sub2.md | 1 | Structural Fragment | Second: Sensation/Feeling |
-| ch6_sec5_sub3.md | 1 | Structural Fragment | Third: Bliss (Mind and Wisdom Disturbance) |
-| ch6_sec5_sub4.md | 1 | Structural Fragment | Fourth: Experience (Mind-Wisdom Distinction) |
-| ch6_sec5_sub5.md | 1 | Structural Fragment | Fifth: Emptiness (Mind-Wisdom Absence) |
-| ch6_sec6.md | 7 | List Item | Joy Alone: Structural Marker |
-| ch6_sec7.md | 37 | Main Teaching | Consort Practice: Generating Root |
-| ch6_sec7_sub2.md | 1 | Structural Fragment | Second: Combined with Speech |
-| ch6_sec7_sub3.md | 1 | Structural Fragment | Third: Combined with Mind |
-| ch6_sec8.md | 40 | Main Teaching | Outer Practice: Body Focus |
-| ch6_sec9.md | 31 | Main Teaching | Elaborate Empowerment: Classification |
-| ch6_sec10.md | 32 | Main Teaching | Elaborate Empowerment: Power Allocation |
-| ch6_sec11.md | 56 | Main Teaching | Based on Elaborate: Further Details |
-| ch6_sec12.md | 1,409 | Main Teaching | Deep Explanation: Dharmakāya Teacher Samantabhadra |
-| ch6_sec13.md | 71 | Main Teaching | Vows: Mantra Commitments and Oath |
-| ch6_sec14.md | ~1 | List Item | Brief Closing Section |
+| 6-1 | 298 | Main Teaching | Six Student Types: Seeds and Dispositions |
+| 6-2 | 1,013 | Main Teaching | Elaborate Empowerment: Time and Signs |
+| 6-3 | 26 | List Item | Maṇḍala of Colored Powders: Deity Display |
+| 6-4 | 534 | Main Teaching | Five Wisdoms: Represented by Colored Powders |
+| 6-5 | 2 | List Item | First: Joy (Brief Marker) |
+| 6-5-2 | 1 | Structural Fragment | Second: Sensation/Feeling |
+| 6-5-3 | 1 | Structural Fragment | Third: Bliss (Mind and Wisdom Disturbance) |
+| 6-5-4 | 1 | Structural Fragment | Fourth: Experience (Mind-Wisdom Distinction) |
+| 6-5-5 | 1 | Structural Fragment | Fifth: Emptiness (Mind-Wisdom Absence) |
+| 6-6 | 7 | List Item | Joy Alone: Structural Marker |
+| 6-7 | 37 | Main Teaching | Consort Practice: Generating Root |
+| 6-7-2 | 1 | Structural Fragment | Second: Combined with Speech |
+| 6-7-3 | 1 | Structural Fragment | Third: Combined with Mind |
+| 6-8 | 40 | Main Teaching | Outer Practice: Body Focus |
+| 6-9 | 31 | Main Teaching | Elaborate Empowerment: Classification |
+| 6-10 | 32 | Main Teaching | Elaborate Empowerment: Power Allocation |
+| 6-11 | 56 | Main Teaching | Based on Elaborate: Further Details |
+| 6-12 | 1,409 | Main Teaching | Deep Explanation: Dharmakāya Teacher Samantabhadra |
+| 6-13 | 71 | Main Teaching | Vows: Mantra Commitments and Oath |
+| 6-14 | ~1 | List Item | Brief Closing Section |
 
 ---
 
@@ -147,11 +147,11 @@ This comprehensive table of contents provides:
 
 | File | Lines | Type | Descriptive Title |
 |------|-------|------|-------------------|
-| ch7_sec1.md | 195 | Main Teaching | Supreme Commitment Tantra: Introduction |
-| ch7_sec2.md | 91 | Main Teaching | Body Commitments: Outer and Inner |
-| ch7_sec3.md | 96 | Main Teaching | Abandoning Outer Harm: Anger and Harmful Intent |
-| ch7_sec4.md | 385 | Main Teaching | Abandoning Outer Enmity: Exhaustive Analysis |
-| ch7_sec5.md | 3 | List Item | Naturally Pure Basis: Concluding Brief Section |
+| 7-1 | 195 | Main Teaching | Supreme Commitment Tantra: Introduction |
+| 7-2 | 91 | Main Teaching | Body Commitments: Outer and Inner |
+| 7-3 | 96 | Main Teaching | Abandoning Outer Harm: Anger and Harmful Intent |
+| 7-4 | 385 | Main Teaching | Abandoning Outer Enmity: Exhaustive Analysis |
+| 7-5 | 3 | List Item | Naturally Pure Basis: Concluding Brief Section |
 
 ---
 
@@ -161,15 +161,15 @@ This comprehensive table of contents provides:
 
 | File | Lines | Type | Descriptive Title |
 |------|-------|------|-------------------|
-| ch8_sec1.md | 76 | Main Teaching | Seven Bases: General Nature Explained |
-| ch8_sec2.md | 151 | Main Teaching | Natural Purity: Spontaneously Accomplished Saṃsāra-Nirvāṇa |
-| ch8_sec3.md | 23 | List Item | Eternalism and Nihilism: Divine Nature |
-| ch8_sec4.md | 2 | List Item | First View: Structural Marker |
-| ch8_sec4_sub2.md | 33 | Subsection | Second View: Mind as Instantaneous Ground |
-| ch8_sec5.md | 18 | Main Teaching | Naturally Pure: Spontaneously Present Ka-Dak |
-| ch8_sec6.md | 7 | List Item | Two Debates: Opening Marker |
-| ch8_sec7.md | 552 | Main Teaching | Presenting Debate: Extensive Discussion |
-| ch8_sec8.md | ~1 | List Item | Brief Concluding Section |
+| 8-1 | 76 | Main Teaching | Seven Bases: General Nature Explained |
+| 8-2 | 151 | Main Teaching | Natural Purity: Spontaneously Accomplished Saṃsāra-Nirvāṇa |
+| 8-3 | 23 | List Item | Eternalism and Nihilism: Divine Nature |
+| 8-4 | 2 | List Item | First View: Structural Marker |
+| 8-4-2 | 33 | Subsection | Second View: Mind as Instantaneous Ground |
+| 8-5 | 18 | Main Teaching | Naturally Pure: Spontaneously Present Ka-Dak |
+| 8-6 | 7 | List Item | Two Debates: Opening Marker |
+| 8-7 | 552 | Main Teaching | Presenting Debate: Extensive Discussion |
+| 8-8 | ~1 | List Item | Brief Concluding Section |
 
 ---
 
@@ -179,8 +179,8 @@ This comprehensive table of contents provides:
 
 | File | Lines | Type | Descriptive Title |
 |------|-------|------|-------------------|
-| ch9_sec1.md | 1,143 | Main Teaching | Causal Condition Ignorance: Eight Consciousnesses Detailed |
-| ch9_sec2.md | ~3 | List Item | Brief Structural Marker |
+| 9-1 | 1,143 | Main Teaching | Causal Condition Ignorance: Eight Consciousnesses Detailed |
+| 9-2 | ~3 | List Item | Brief Structural Marker |
 
 ---
 
@@ -190,7 +190,7 @@ This comprehensive table of contents provides:
 
 | File | Lines | Type | Descriptive Title |
 |------|-------|------|-------------------|
-| ch10_sec1.md | ~1,335 | Main Teaching | Attachment to Existence: Wisdom-Kāya Symbolic Explanation |
+| 10-1 | ~1,335 | Main Teaching | Attachment to Existence: Wisdom-Kāya Symbolic Explanation |
 
 ---
 
@@ -200,8 +200,8 @@ This comprehensive table of contents provides:
 
 | File | Lines | Type | Descriptive Title |
 |------|-------|------|-------------------|
-| ch11_sec1.md | 328 | Main Teaching | Mind-Seeking Body: Gandharva Entry Process |
-| ch11_sec2.md | ~2 | List Item | Mind Gathering: Water Element Memory (Brief) |
+| 11-1 | 328 | Main Teaching | Mind-Seeking Body: Gandharva Entry Process |
+| 11-2 | ~2 | List Item | Mind Gathering: Water Element Memory (Brief) |
 
 ---
 
@@ -211,14 +211,14 @@ This comprehensive table of contents provides:
 
 | File | Lines | Type | Descriptive Title |
 |------|-------|------|-------------------|
-| ch12_sec1.md | 697 | Main Teaching | Channels: General Nature Explained |
-| ch12_sec2.md | 287 | Main Teaching | Enumeration: General Presentation |
-| ch12_sec3.md | 221 | Main Teaching | Varieties: General Presentation |
-| ch12_sec4.md | 379 | Main Teaching | Detailed Varieties: Channel Systems |
-| ch12_sec5.md | 214 | Main Teaching | Four Key Points: Posture Instructions |
-| ch12_sec5_sub2.md | 140 | Subsection | Third and Beyond: Combined Postures |
-| ch12_sec6.md | 9 | List Item | Brief Structural Marker |
-| ch12_sec7.md | ~1 | List Item | Brief Closing Section |
+| 12-1 | 697 | Main Teaching | Channels: General Nature Explained |
+| 12-2 | 287 | Main Teaching | Enumeration: General Presentation |
+| 12-3 | 221 | Main Teaching | Varieties: General Presentation |
+| 12-4 | 379 | Main Teaching | Detailed Varieties: Channel Systems |
+| 12-5 | 214 | Main Teaching | Four Key Points: Posture Instructions |
+| 12-5-2 | 140 | Subsection | Third and Beyond: Combined Postures |
+| 12-6 | 9 | List Item | Brief Structural Marker |
+| 12-7 | ~1 | List Item | Brief Closing Section |
 
 ---
 
@@ -228,12 +228,12 @@ This comprehensive table of contents provides:
 
 | File | Lines | Type | Descriptive Title |
 |------|-------|------|-------------------|
-| ch13_sec1.md | 249 | Main Teaching | Karmic Winds Purified: Wisdom Wind Aspects |
-| ch13_sec2.md | 209 | Main Teaching | Water Lamp: Nature and Characteristics |
-| ch13_sec3.md | 286 | Main Teaching | Second Lamp: Detailed Explanation |
-| ch13_sec4.md | 97 | Main Teaching | Third Lamp: Nature Explained |
-| ch13_sec5.md | 206 | Main Teaching | Fire Lamp Mirror: Reflection Analysis |
-| ch13_sec6.md | ~3 | List Item | Brief Closing Section |
+| 13-1 | 249 | Main Teaching | Karmic Winds Purified: Wisdom Wind Aspects |
+| 13-2 | 209 | Main Teaching | Water Lamp: Nature and Characteristics |
+| 13-3 | 286 | Main Teaching | Second Lamp: Detailed Explanation |
+| 13-4 | 97 | Main Teaching | Third Lamp: Nature Explained |
+| 13-5 | 206 | Main Teaching | Fire Lamp Mirror: Reflection Analysis |
+| 13-6 | ~3 | List Item | Brief Closing Section |
 
 ---
 
@@ -243,23 +243,23 @@ This comprehensive table of contents provides:
 
 | File | Lines | Type | Descriptive Title |
 |------|-------|------|-------------------|
-| ch14_sec1.md | 163 | Main Teaching | Mind's Abode: Location and Characteristics |
-| ch14_sec2.md | 360 | Main Teaching | Nature of Basis: Eightfold Explanation |
-| ch14_sec3.md | 378 | Main Teaching | Detailed Nature: Extensive Analysis |
-| ch14_sec3_sub2.md | 12 | Structural Fragment | Second: Wisdom Nature Expansion |
-| ch14_sec4.md | 336 | Main Teaching | Wisdom Nature: Self-Awareness Characteristics |
-| ch14_sec5.md | 693 | Main Teaching | Consequence (Prasaṅga): Detailed Refutation |
-| ch14_sec6.md | 101 | Main Teaching | Ka-Dak Space: Spontaneously Present Nature |
-| ch14_sec7.md | 37 | Main Teaching | Light Canopy Display: Appearances |
-| ch14_sec7_sub2.md | 1 | Structural Fragment | Second: Light Rays Abiding |
-| ch14_sec7_sub3.md | 1 | Structural Fragment | Third: Bindu Perimeter Appearing |
-| ch14_sec7_sub4.md | 15 | Structural Fragment | Second (repeated): Light Rays Display |
-| ch14_sec8.md | 216 | Main Teaching | Vertical Thigle: Wisdom Arising |
-| ch14_sec9.md | 318 | Main Teaching | Characteristics: Two Divisions |
-| ch14_sec10.md | 172 | List Item | Brief Section: Structural Marker |
-| ch14_sec11.md | 65 | Main Teaching | Three Divisions: Detailed Analysis |
-| ch14_sec12.md | 73 | Main Teaching | Single Ground-Awareness: Detailed Explanation |
-| ch14_sec13.md | ~2 | List Item | Mind and Awareness: Brief Closing |
+| 14-1 | 163 | Main Teaching | Mind's Abode: Location and Characteristics |
+| 14-2 | 360 | Main Teaching | Nature of Basis: Eightfold Explanation |
+| 14-3 | 378 | Main Teaching | Detailed Nature: Extensive Analysis |
+| 14-3-2 | 12 | Structural Fragment | Second: Wisdom Nature Expansion |
+| 14-4 | 336 | Main Teaching | Wisdom Nature: Self-Awareness Characteristics |
+| 14-5 | 693 | Main Teaching | Consequence (Prasaṅga): Detailed Refutation |
+| 14-6 | 101 | Main Teaching | Ka-Dak Space: Spontaneously Present Nature |
+| 14-7 | 37 | Main Teaching | Light Canopy Display: Appearances |
+| 14-7-2 | 1 | Structural Fragment | Second: Light Rays Abiding |
+| 14-7-3 | 1 | Structural Fragment | Third: Bindu Perimeter Appearing |
+| 14-7-4 | 15 | Structural Fragment | Second (repeated): Light Rays Display |
+| 14-8 | 216 | Main Teaching | Vertical Thigle: Wisdom Arising |
+| 14-9 | 318 | Main Teaching | Characteristics: Two Divisions |
+| 14-10 | 172 | List Item | Brief Section: Structural Marker |
+| 14-11 | 65 | Main Teaching | Three Divisions: Detailed Analysis |
+| 14-12 | 73 | Main Teaching | Single Ground-Awareness: Detailed Explanation |
+| 14-13 | ~2 | List Item | Mind and Awareness: Brief Closing |
 
 ---
 
@@ -269,9 +269,9 @@ This comprehensive table of contents provides:
 
 | File | Lines | Type | Descriptive Title |
 |------|-------|------|-------------------|
-| ch15_sec1.md | 473 | Main Teaching | Nature of Wind: Five Life-Holding Winds |
-| ch15_sec2.md | 195 | Main Teaching | Five Life-Holders: Self-Arising Analysis |
-| ch15_sec3.md | ~2 | List Item | Brief Structural Marker |
+| 15-1 | 473 | Main Teaching | Nature of Wind: Five Life-Holding Winds |
+| 15-2 | 195 | Main Teaching | Five Life-Holders: Self-Arising Analysis |
+| 15-3 | ~2 | List Item | Brief Structural Marker |
 
 ---
 
@@ -281,11 +281,11 @@ This comprehensive table of contents provides:
 
 | File | Lines | Type | Descriptive Title |
 |------|-------|------|-------------------|
-| ch16_sec1.md | 336 | Main Teaching | Three Expansions: Ground-Path-Fruit Overview |
-| ch16_sec2.md | 161 | Main Teaching | Nirmāṇakāya Nature: Space-Awareness Indivisible |
-| ch16_sec3.md | 407 | Main Teaching | Nature Explained: Detailed Analysis |
-| ch16_sec4.md | 49 | List Item | Peaceful: First Division |
-| ch16_sec5.md | 7 | List Item | Peaceful Continued: Brief Marker |
+| 16-1 | 336 | Main Teaching | Three Expansions: Ground-Path-Fruit Overview |
+| 16-2 | 161 | Main Teaching | Nirmāṇakāya Nature: Space-Awareness Indivisible |
+| 16-3 | 407 | Main Teaching | Nature Explained: Detailed Analysis |
+| 16-4 | 49 | List Item | Peaceful: First Division |
+| 16-5 | 7 | List Item | Peaceful Continued: Brief Marker |
 
 ---
 
@@ -295,21 +295,21 @@ This comprehensive table of contents provides:
 
 | File | Lines | Type | Descriptive Title |
 |------|-------|------|-------------------|
-| ch17_sec1.md | 107 | Main Teaching | Certain Path: Practice Stages Introduction |
-| ch17_sec2.md | 190 | Main Teaching | First Section: Structural Analysis |
-| ch17_sec3.md | 13 | List Item | Continuous Practice: Yogī's Application |
-| ch17_sec4.md | 625 | Main Teaching | Detailed Explanation: Extensive Instructions |
-| ch17_sec5.md | 90 | Main Teaching | Key Instructions: Path Stages |
-| ch17_sec6.md | 226 | Main Teaching | Previous Explanation: Further Elaboration |
-| ch17_sec7.md | 52 | Main Teaching | Water, Fire, Dog, Enemy: Symbolic Analysis |
-| ch17_sec8.md | 67 | Main Teaching | Dream Practice: Proper Timing and Errors |
-| ch17_sec9.md | 74 | Main Teaching | Section Nine: Structural Marker |
-| ch17_sec9_sub2.md | 109 | Subsection | Fourth: Luminosity Four Times Union |
-| ch17_sec10.md | 47 | Main Teaching | A-Letter Clarity: Thought Analysis |
-| ch17_sec11.md | 246 | Main Teaching | Twofold Selection: Key Instructions |
-| ch17_sec12.md | 109 | Main Teaching | Verbal Views: Individual Mental Analysis |
-| ch17_sec13.md | 143 | Main Teaching | External Phenomena: Subject Self-Nature |
-| ch17_sec14.md | ~1 | List Item | Brief Closing Section |
+| 17-1 | 107 | Main Teaching | Certain Path: Practice Stages Introduction |
+| 17-2 | 190 | Main Teaching | First Section: Structural Analysis |
+| 17-3 | 13 | List Item | Continuous Practice: Yogī's Application |
+| 17-4 | 625 | Main Teaching | Detailed Explanation: Extensive Instructions |
+| 17-5 | 90 | Main Teaching | Key Instructions: Path Stages |
+| 17-6 | 226 | Main Teaching | Previous Explanation: Further Elaboration |
+| 17-7 | 52 | Main Teaching | Water, Fire, Dog, Enemy: Symbolic Analysis |
+| 17-8 | 67 | Main Teaching | Dream Practice: Proper Timing and Errors |
+| 17-9 | 74 | Main Teaching | Section Nine: Structural Marker |
+| 17-9-2 | 109 | Subsection | Fourth: Luminosity Four Times Union |
+| 17-10 | 47 | Main Teaching | A-Letter Clarity: Thought Analysis |
+| 17-11 | 246 | Main Teaching | Twofold Selection: Key Instructions |
+| 17-12 | 109 | Main Teaching | Verbal Views: Individual Mental Analysis |
+| 17-13 | 143 | Main Teaching | External Phenomena: Subject Self-Nature |
+| 17-14 | ~1 | List Item | Brief Closing Section |
 
 ---
 
@@ -319,31 +319,31 @@ This comprehensive table of contents provides:
 
 | File | Lines | Type | Descriptive Title |
 |------|-------|------|-------------------|
-| ch18_sec1.md | 234 | Main Teaching | Free from Elaborations: Self-Appearing Awareness Path |
-| ch18_sec2.md | 245 | Main Teaching | Body Posture: Necessity and Arrangement |
-| ch18_sec2_sub2.md | 5 | Structural Fragment | Second: Realization and Liberation |
-| ch18_sec2_sub3.md | 19 | Structural Fragment | Third: Complete Buddhahood |
-| ch18_sec3.md | 1 | List Item | Body-Speech-Mind Keys: Brief Marker |
-| ch18_sec3_sub2.md | 1 | Structural Fragment | Second: Three Keys as Support |
-| ch18_sec3_sub3.md | 1 | Structural Fragment | Third: Signs from Practice |
-| ch18_sec3_sub4.md | 40 | Structural Fragment | Fourth: Four Supports/Dependencies |
-| ch18_sec4.md | 133 | Main Teaching | Nirmāṇakāya Posture: Detailed Instructions |
-| ch18_sec5.md | 95 | Main Teaching | Speech Training: Vocal Practices |
-| ch18_sec6.md | 51 | List Item | Brief Section: Structural Marker |
-| ch18_sec7.md | 169 | Main Teaching | Appearances Arising: Non-Conceptual Abiding |
-| ch18_sec8.md | 119 | Main Teaching | Sensory Objects: Forms and Sense Bases |
-| ch18_sec8_sub2.md | 50 | Subsection | Second: Session Extension |
-| ch18_sec9.md | 40 | List Item | Brief Structural Marker |
-| ch18_sec10.md | 34 | List Item | Brief Structural Marker |
-| ch18_sec11.md | 83 | List Item | Brief Structural Marker |
-| ch18_sec12.md | 27 | List Item | Brief Structural Marker |
-| ch18_sec13.md | 371 | Main Teaching | Awareness Measurement: Recognition Signs |
-| ch18_sec14.md | 6 | List Item | Brief Structural Marker |
-| ch18_sec15.md | 265 | Main Teaching | Continuous Gazing: Key Instructions |
-| ch18_sec16.md | 12 | Main Teaching | Truth Seeing: Joy and Eight Grounds |
-| ch18_sec16_sub2.md | 2 | Structural Fragment | Eighth: Immovable Ground Attainment |
-| ch18_sec16_sub3.md | 3 | Structural Fragment | Ninth: Excellent Intellect Ground |
-| ch18_sec16_sub4.md | ~1 | Structural Fragment | Tenth: Dharma Cloud Ground |
+| 18-1 | 234 | Main Teaching | Free from Elaborations: Self-Appearing Awareness Path |
+| 18-2 | 245 | Main Teaching | Body Posture: Necessity and Arrangement |
+| 18-2-2 | 5 | Structural Fragment | Second: Realization and Liberation |
+| 18-2-3 | 19 | Structural Fragment | Third: Complete Buddhahood |
+| 18-3 | 1 | List Item | Body-Speech-Mind Keys: Brief Marker |
+| 18-3-2 | 1 | Structural Fragment | Second: Three Keys as Support |
+| 18-3-3 | 1 | Structural Fragment | Third: Signs from Practice |
+| 18-3-4 | 40 | Structural Fragment | Fourth: Four Supports/Dependencies |
+| 18-4 | 133 | Main Teaching | Nirmāṇakāya Posture: Detailed Instructions |
+| 18-5 | 95 | Main Teaching | Speech Training: Vocal Practices |
+| 18-6 | 51 | List Item | Brief Section: Structural Marker |
+| 18-7 | 169 | Main Teaching | Appearances Arising: Non-Conceptual Abiding |
+| 18-8 | 119 | Main Teaching | Sensory Objects: Forms and Sense Bases |
+| 18-8-2 | 50 | Subsection | Second: Session Extension |
+| 18-9 | 40 | List Item | Brief Structural Marker |
+| 18-10 | 34 | List Item | Brief Structural Marker |
+| 18-11 | 83 | List Item | Brief Structural Marker |
+| 18-12 | 27 | List Item | Brief Structural Marker |
+| 18-13 | 371 | Main Teaching | Awareness Measurement: Recognition Signs |
+| 18-14 | 6 | List Item | Brief Structural Marker |
+| 18-15 | 265 | Main Teaching | Continuous Gazing: Key Instructions |
+| 18-16 | 12 | Main Teaching | Truth Seeing: Joy and Eight Grounds |
+| 18-16-2 | 2 | Structural Fragment | Eighth: Immovable Ground Attainment |
+| 18-16-3 | 3 | Structural Fragment | Ninth: Excellent Intellect Ground |
+| 18-16-4 | ~1 | Structural Fragment | Tenth: Dharma Cloud Ground |
 
 ---
 
@@ -353,8 +353,8 @@ This comprehensive table of contents provides:
 
 | File | Lines | Type | Descriptive Title |
 |------|-------|------|-------------------|
-| ch19_sec0.md | 451 | Main Teaching | Mind Beyond Dharma: Direct Introduction to Changeless Wisdom |
-| ch19_sec1.md | ~1 | List Item | Causal Requirements: Brief Section |
+| 19-0 | 451 | Main Teaching | Mind Beyond Dharma: Direct Introduction to Changeless Wisdom |
+| 19-1 | ~1 | List Item | Causal Requirements: Brief Section |
 
 ---
 
@@ -364,15 +364,15 @@ This comprehensive table of contents provides:
 
 | File | Lines | Type | Descriptive Title |
 |------|-------|------|-------------------|
-| ch20_sec1.md | 748 | Main Teaching | Saṃsāra Without Name: Direct Recognition Teaching |
-| ch20_sec2.md | 139 | List Item | Brief Structural Marker |
-| ch20_sec3.md | 2 | Structural Fragment | Ground-Transcendence: Saṃsāric Delusion |
-| ch20_sec4.md | 55 | Main Teaching | Lost Ground: Delusion-Time Awareness |
-| ch20_sec5.md | 42 | List Item | Brief Structural Marker |
-| ch20_sec6.md | 10 | List Item | Red-Orange Round: Brief Appearance |
-| ch20_sec7.md | 144 | Main Teaching | Pure Red: Mountain Summit Symbolism |
-| ch20_sec8.md | 181 | Main Teaching | Mountain Chief Intention: Symbolic Explanation |
-| ch20_sec9.md | ~1 | List Item | Brief Closing Section |
+| 20-1 | 748 | Main Teaching | Saṃsāra Without Name: Direct Recognition Teaching |
+| 20-2 | 139 | List Item | Brief Structural Marker |
+| 20-3 | 2 | Structural Fragment | Ground-Transcendence: Saṃsāric Delusion |
+| 20-4 | 55 | Main Teaching | Lost Ground: Delusion-Time Awareness |
+| 20-5 | 42 | List Item | Brief Structural Marker |
+| 20-6 | 10 | List Item | Red-Orange Round: Brief Appearance |
+| 20-7 | 144 | Main Teaching | Pure Red: Mountain Summit Symbolism |
+| 20-8 | 181 | Main Teaching | Mountain Chief Intention: Symbolic Explanation |
+| 20-9 | ~1 | List Item | Brief Closing Section |
 
 ---
 
@@ -382,8 +382,8 @@ This comprehensive table of contents provides:
 
 | File | Lines | Type | Descriptive Title |
 |------|-------|------|-------------------|
-| ch21_sec0.md | 300 | Main Teaching | Jambudvīpa Manifestation: Intermediate State Instructions |
-| ch21_sec1.md | ~1 | List Item | External Appearances: Red-White Visions (Brief) |
+| 21-0 | 300 | Main Teaching | Jambudvīpa Manifestation: Intermediate State Instructions |
+| 21-1 | ~1 | List Item | External Appearances: Red-White Visions (Brief) |
 
 ---
 
@@ -393,16 +393,16 @@ This comprehensive table of contents provides:
 
 | File | Lines | Type | Descriptive Title |
 |------|-------|------|-------------------|
-| ch22_sec1.md | 555 | Main Teaching | Bardo and Beyond: Liberation-Delusion Certain Signs |
-| ch22_sec2.md | 60 | Main Teaching | Nature Explained: Phowa Introduction |
-| ch22_sec3.md | 74 | Main Teaching | Thigle Nature: Transference Details |
-| ch22_sec3_sub2.md | 282 | Subsection | Fourth: Kāya Application |
-| ch22_sec3_sub3.md | 140 | Subsection | Third: Pure Signs Alone |
-| ch22_sec4.md | 158 | Main Teaching | Nature Explained: Second Division |
-| ch22_sec5.md | 256 | Main Teaching | Colors: Five Families' Portions |
-| ch22_sec5_sub2.md | 89 | Subsection | Eighth: Additional Points |
-| ch22_sec6.md | 178 | Main Teaching | Hell Birth Signs: Detailed Analysis |
-| ch22_sec7.md | ~1 | List Item | Brief Closing Section |
+| 22-1 | 555 | Main Teaching | Bardo and Beyond: Liberation-Delusion Certain Signs |
+| 22-2 | 60 | Main Teaching | Nature Explained: Phowa Introduction |
+| 22-3 | 74 | Main Teaching | Thigle Nature: Transference Details |
+| 22-3-2 | 282 | Subsection | Fourth: Kāya Application |
+| 22-3-3 | 140 | Subsection | Third: Pure Signs Alone |
+| 22-4 | 158 | Main Teaching | Nature Explained: Second Division |
+| 22-5 | 256 | Main Teaching | Colors: Five Families' Portions |
+| 22-5-2 | 89 | Subsection | Eighth: Additional Points |
+| 22-6 | 178 | Main Teaching | Hell Birth Signs: Detailed Analysis |
+| 22-7 | ~1 | List Item | Brief Closing Section |
 
 ---
 
@@ -412,26 +412,26 @@ This comprehensive table of contents provides:
 
 | File | Lines | Type | Descriptive Title |
 |------|-------|------|-------------------|
-| ch23_sec1.md | 234 | Main Teaching | Present Arising: Internal-External Abiding |
-| ch23_sec2.md | 106 | Main Teaching | Three Divisions: Structural Analysis |
-| ch23_sec2_sub2.md | 171 | Subsection | Third: Certain Death Reflection |
-| ch23_sec3.md | 257 | Main Teaching | Detailed Explanation: Intermediate State |
-| ch23_sec3_sub2.md | 1,525 | Subsection | Second: Red A-Letter Transference |
-| ch23_sec4.md | 391 | Main Teaching | Five's First: External Arising |
-| ch23_sec5.md | 6 | List Item | Awareness Entering Light: Self-Appearance |
-| ch23_sec6.md | 1 | Structural Fragment | Death Time Entry: Brief Marker |
-| ch23_sec6_sub2.md | 78 | Subsection | Second and Third: Twenty-Four Divisions |
-| ch23_sec7.md | ~1 | List Item | Brief Structural Marker |
-| ch23_sec8.md | 310 | Main Teaching | Certain Recognition: Sequential Arising |
-| ch23_sec8_sub2.md | 1 | Structural Fragment | Second: Recognition Arisen |
-| ch23_sec8_sub3.md | 1 | Structural Fragment | Third: For Liberation |
-| ch23_sec8_sub4.md | 110 | Subsection | Second: Spontaneous Presence Gateway |
-| ch23_sec8_sub5.md | 2 | Structural Fragment | Third: Setting/Disappearance |
-| ch23_sec8_sub6.md | 1 | Structural Fragment | Second: Seeing |
-| ch23_sec8_sub7.md | 1 | Structural Fragment | Third: Instant Awareness Recognition |
-| ch23_sec8_sub8.md | 1 | Structural Fragment | Fourth: Self-Appearance Truth |
-| ch23_sec8_sub9.md | 70 | Structural Fragment | Fifth: Ka-Dak Liberation |
-| ch23_sec9.md | ~1 | List Item | Brief Closing Section |
+| 23-1 | 234 | Main Teaching | Present Arising: Internal-External Abiding |
+| 23-2 | 106 | Main Teaching | Three Divisions: Structural Analysis |
+| 23-2-2 | 171 | Subsection | Third: Certain Death Reflection |
+| 23-3 | 257 | Main Teaching | Detailed Explanation: Intermediate State |
+| 23-3-2 | 1,525 | Subsection | Second: Red A-Letter Transference |
+| 23-4 | 391 | Main Teaching | Five's First: External Arising |
+| 23-5 | 6 | List Item | Awareness Entering Light: Self-Appearance |
+| 23-6 | 1 | Structural Fragment | Death Time Entry: Brief Marker |
+| 23-6-2 | 78 | Subsection | Second and Third: Twenty-Four Divisions |
+| 23-7 | ~1 | List Item | Brief Structural Marker |
+| 23-8 | 310 | Main Teaching | Certain Recognition: Sequential Arising |
+| 23-8-2 | 1 | Structural Fragment | Second: Recognition Arisen |
+| 23-8-3 | 1 | Structural Fragment | Third: For Liberation |
+| 23-8-4 | 110 | Subsection | Second: Spontaneous Presence Gateway |
+| 23-8-5 | 2 | Structural Fragment | Third: Setting/Disappearance |
+| 23-8-6 | 1 | Structural Fragment | Second: Seeing |
+| 23-8-7 | 1 | Structural Fragment | Third: Instant Awareness Recognition |
+| 23-8-8 | 1 | Structural Fragment | Fourth: Self-Appearance Truth |
+| 23-8-9 | 70 | Structural Fragment | Fifth: Ka-Dak Liberation |
+| 23-9 | ~1 | List Item | Brief Closing Section |
 
 ---
 
@@ -441,7 +441,7 @@ This comprehensive table of contents provides:
 
 | File | Lines | Type | Descriptive Title |
 |------|-------|------|-------------------|
-| ch24_sec1.md | ~360 | Main Teaching | Lowest Faculties: Dharmatā Bardo Without Truth Found |
+| 24-1 | ~360 | Main Teaching | Lowest Faculties: Dharmatā Bardo Without Truth Found |
 
 ---
 
@@ -451,14 +451,14 @@ This comprehensive table of contents provides:
 
 | File | Lines | Type | Descriptive Title |
 |------|-------|------|-------------------|
-| ch25_sec1.md | 694 | Main Teaching | Pearl Rosary: Extensive Results Teaching |
-| ch25_sec2.md | 31 | List Item | Three Divisions: Structural Marker |
-| ch25_sec3.md | 49 | Main Teaching | Path Appearance: Spontaneous Presence Sphere |
-| ch25_sec4.md | 27 | Main Teaching | Saṃbhogakāya Abode: Detailed Expansion |
-| ch25_sec5.md | 283 | Main Teaching | Detailed Explanation: Extensive Analysis |
-| ch25_sec6.md | 51 | List Item | Brief Structural Marker |
-| ch25_sec6_sub2.md | 202 | Subsection | Fourth: Detailed Varieties of Three Kāyas |
-| ch25_sec7.md | ~1 | List Item | Brief Closing: Kāya Nature |
+| 25-1 | 694 | Main Teaching | Pearl Rosary: Extensive Results Teaching |
+| 25-2 | 31 | List Item | Three Divisions: Structural Marker |
+| 25-3 | 49 | Main Teaching | Path Appearance: Spontaneous Presence Sphere |
+| 25-4 | 27 | Main Teaching | Saṃbhogakāya Abode: Detailed Expansion |
+| 25-5 | 283 | Main Teaching | Detailed Explanation: Extensive Analysis |
+| 25-6 | 51 | List Item | Brief Structural Marker |
+| 25-6-2 | 202 | Subsection | Fourth: Detailed Varieties of Three Kāyas |
+| 25-7 | ~1 | List Item | Brief Closing: Kāya Nature |
 
 ---
 

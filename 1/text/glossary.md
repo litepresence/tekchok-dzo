@@ -1,6 +1,8 @@
 # Glossary of Lineage-Specific Terms
 
-## Theg mchog rin po che'i mdzod (Treasury of the Supreme Vehicle)
+# Tekchok Dzö
+## Theg mchog rin po che'i mdzod
+## Jewel Treasury of the Supreme Vehicle
 
 **ACQUAINTANCE:** This glossary functions like a traditional glossary in the back of a translated religious work. It provides definitions, context, and first appearances for lineage-specific terms, proper names, and technical vocabulary. Readers should consult this glossary to understand specialized terminology encountered throughout the text.
 

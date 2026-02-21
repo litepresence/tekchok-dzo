@@ -1,1470 +1,1356 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Glossary of Lineage-Specific Terms</title>
-  <style>
-    /* Book-like typography and layout */
-    @import url('https://fonts.googleapis.com/css2?family=Crimson+Pro:ital,wght@0,400;0,600;1,400&family=Source+Sans+Pro:wght@400;600&display=swap');
-    
-    :root {
-      --text-color: #2c2c2c;
-      --accent-color: #8b4513;
-      --border-color: #d4c8b5;
-      --bg-color: #fffef9;
-      --table-header-bg: #f5f1e8;
-      --term-color: #1a476f;
-      --definition-color: #333;
-      --meta-color: #666;
-    }
-    
-    * { box-sizing: border-box; margin: 0; padding: 0; }
-    
-    body {
-      font-family: 'Crimson Pro', Georgia, serif;
-      line-height: 1.6;
-      color: var(--text-color);
-      background: var(--bg-color);
-      max-width: 900px;
-      margin: 0 auto;
-      padding: 2rem 1.5rem;
-    }
-    
-    /* Header styling */
-    header {
-      text-align: center;
-      border-bottom: 2px solid var(--accent-color);
-      padding-bottom: 1.5rem;
-      margin-bottom: 2.5rem;
-    }
-    
-    h1 {
-      font-size: 1.8rem;
-      font-weight: 600;
-      color: var(--accent-color);
-      margin-bottom: 0.5rem;
-      letter-spacing: 0.5px;
-    }
-    
-    .subtitle {
-      font-style: italic;
-      color: var(--meta-color);
-      font-size: 1.1rem;
-    }
-    
-    /* Introduction box */
-    .acquaintance {
-      background: var(--table-header-bg);
-      border-left: 4px solid var(--accent-color);
-      padding: 1rem 1.25rem;
-      margin: 1.5rem 0;
-      font-size: 0.95rem;
-    }
-    
-    .acquaintance strong {
-      color: var(--accent-color);
-      font-weight: 600;
-    }
-    
-    /* Chapter headings */
-    h2 {
-      font-size: 1.4rem;
-      color: var(--accent-color);
-      border-bottom: 1px solid var(--border-color);
-      padding-bottom: 0.4rem;
-      margin: 2rem 0 1.2rem;
-      font-weight: 600;
-    }
-    
-    h3 {
-      font-size: 1.15rem;
-      color: var(--term-color);
-      margin: 1.5rem 0 0.75rem;
-      font-weight: 600;
-    }
-    
-    /* Table styling */
-    table {
-      width: 100%;
-      border-collapse: collapse;
-      margin: 1rem 0 1.5rem;
-      font-size: 0.95rem;
-      background: #fff;
-      box-shadow: 0 1px 3px rgba(0,0,0,0.05);
-    }
-    
-    th {
-      background: var(--table-header-bg);
-      font-weight: 600;
-      text-align: left;
-      padding: 0.75rem 1rem;
-      border-bottom: 2px solid var(--border-color);
-      color: var(--accent-color);
-      font-family: 'Source Sans Pro', sans-serif;
-      font-size: 0.9rem;
-      text-transform: uppercase;
-      letter-spacing: 0.5px;
-    }
-    
-    td {
-      padding: 0.75rem 1rem;
-      border-bottom: 1px solid var(--border-color);
-      vertical-align: top;
-    }
-    
-    tr:last-child td { border-bottom: none; }
-    
-    tr:hover { background: #faf8f4; }
-    
-    /* Term formatting */
-    td:first-child {
-      font-weight: 600;
-      color: var(--term-color);
-      width: 35%;
-      font-family: 'Source Sans Pro', sans-serif;
-    }
-    
-    td:first-child strong {
-      color: var(--term-color);
-    }
-    
-    .tibetan {
-      font-style: italic;
-      color: var(--meta-color);
-      font-size: 0.9em;
-    }
-    
-    .definition {
-      color: var(--definition-color);
-    }
-    
-    .first-appearance {
-      font-family: 'Source Sans Pro', sans-serif;
-      font-size: 0.85rem;
-      color: var(--meta-color);
-      white-space: nowrap;
-    }
-    
-    /* Usage notes */
-    .usage-notes {
-      background: #f9f7f2;
-      border: 1px solid var(--border-color);
-      border-radius: 4px;
-      padding: 1rem 1.25rem;
-      margin: 1.5rem 0;
-    }
-    
-    .usage-notes ol {
-      padding-left: 1.5rem;
-      margin: 0.5rem 0;
-    }
-    
-    .usage-notes li {
-      margin: 0.3rem 0;
-    }
-    
-    /* EWTS section */
-    .ewts-table th:first-child,
-    .ewts-table td:first-child {
-      font-family: monospace;
-      background: #f0ede8;
-    }
-    
-    /* Footer */
-    footer {
-      margin-top: 3rem;
-      padding-top: 1.5rem;
-      border-top: 1px solid var(--border-color);
-      text-align: center;
-      font-size: 0.9rem;
-      color: var(--meta-color);
-      font-style: italic;
-    }
-    
-    /* Responsive adjustments */
-    @media (max-width: 768px) {
-      body { padding: 1.5rem 1rem; }
-      table { font-size: 0.9rem; }
-      td:first-child { width: 40%; }
-      h1 { font-size: 1.5rem; }
-      h2 { font-size: 1.25rem; }
-    }
-    
-    /* Print styles */
-    @media print {
-      body { 
-        max-width: none; 
-        padding: 0; 
-        font-size: 11pt;
-        background: #fff;
-      }
-      .acquaintance, .usage-notes {
-        border: 1px solid #ccc;
-        box-shadow: none;
-      }
-      a { text-decoration: none; color: inherit; }
-    }
-  </style>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Glossary of Lineage-Specific Terms</title>
+    <style>
+        @page {
+            size: 6in 9in;
+            margin: 0.75in;
+            @bottom-center {
+                content: counter(page);
+                color: #888;
+            }
+        }
+
+        :root {
+            --font-main: 'Georgia', 'Times New Roman', serif;
+            --font-mono: 'Courier New', 'Consolas', monospace;
+            --font-sans: 'Helvetica', 'Arial', sans-serif;
+            
+            --color-bg: #1e1e1e;
+            --color-text: #e0e0e0;
+            --color-muted: #a0a0a0;
+            --color-accent: #64b5f6;
+            --color-line-num: #757575;
+            --color-border: #3a3a3a;
+            --color-btn: #2d5a7b;
+            --color-btn-hover: #3d7a9b;
+            --color-table-header: #2d3a4a;
+            --color-table-row-alt: #252525;
+            --color-table-row-hover: #2d3a4a;
+            
+            --line-height: 1.5;
+        }
+
+        * {
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: var(--font-main);
+            color: var(--color-text);
+            line-height: var(--line-height);
+            font-size: 10pt;
+            margin: 0;
+            padding: 0;
+            background-color: var(--color-bg);
+            -webkit-print-color-adjust: exact;
+            print-color-adjust: exact;
+        }
+
+        .document {
+            max-width: 5.5in;
+            margin: 0 auto;
+            padding: 40px 20px;
+        }
+
+        h1 {
+            font-size: 1.8em;
+            color: var(--color-accent);
+            border-bottom: 2px solid var(--color-border);
+            padding-bottom: 0.5em;
+            margin-top: 0;
+            margin-bottom: 1.5em;
+            font-variant: small-caps;
+            letter-spacing: 1px;
+        }
+
+        h2 {
+            font-size: 1.4em;
+            color: var(--color-accent);
+            border-bottom: 1px solid var(--color-border);
+            padding-bottom: 0.3em;
+            margin-top: 2em;
+            margin-bottom: 1em;
+            font-variant: small-caps;
+        }
+
+        h3 {
+            font-size: 1.2em;
+            color: var(--color-muted);
+            margin-top: 1.5em;
+            margin-bottom: 0.8em;
+            font-variant: small-caps;
+        }
+
+        h4 {
+            font-size: 1em;
+            color: var(--color-muted);
+            margin-top: 1.2em;
+            margin-bottom: 0.5em;
+        }
+
+        hr {
+            border: none;
+            border-top: 1px solid var(--color-border);
+            margin: 2em 0;
+        }
+
+        .glossary-table {
+            width: 100%;
+            border-collapse: collapse;
+            margin: 1.5em 0;
+            background-color: transparent;
+            font-size: 0.95em;
+        }
+
+        .glossary-table th,
+        .glossary-table td {
+            border: 1px solid var(--color-border);
+            padding: 10px 12px;
+            text-align: left;
+            vertical-align: top;
+        }
+
+        .glossary-table th {
+            background-color: var(--color-table-header);
+            font-weight: bold;
+            color: var(--color-accent);
+            font-variant: small-caps;
+            letter-spacing: 0.5px;
+            font-size: 0.9em;
+        }
+
+        .glossary-table tr:nth-child(even) {
+            background-color: var(--color-table-row-alt);
+        }
+
+        .glossary-table tr:nth-child(odd) {
+            background-color: transparent;
+        }
+
+        .glossary-table tr:hover {
+            background-color: var(--color-table-row-hover);
+        }
+
+        .glossary-table td:first-child {
+            font-weight: bold;
+            color: var(--color-accent);
+            width: 30%;
+        }
+
+        .glossary-table td:last-child {
+            font-family: var(--font-mono);
+            font-size: 0.85em;
+            color: var(--color-line-num);
+            width: 15%;
+        }
+
+        code {
+            background-color: var(--color-table-header);
+            padding: 2px 6px;
+            border-radius: 3px;
+            font-family: var(--font-mono);
+            font-size: 0.9em;
+            color: var(--color-accent);
+        }
+
+        pre {
+            background-color: var(--color-table-header);
+            padding: 15px;
+            border-radius: 4px;
+            overflow-x: auto;
+            border: 1px solid var(--color-border);
+            margin: 1.5em 0;
+        }
+
+        pre code {
+            background-color: transparent;
+            padding: 0;
+            color: var(--color-text);
+        }
+
+        a {
+            color: var(--color-accent);
+            text-decoration: none;
+            border-bottom: 1px dotted var(--color-accent);
+        }
+
+        a:hover {
+            color: var(--color-btn-hover);
+            border-bottom: 1px solid var(--color-btn-hover);
+        }
+
+        .acquaintance-note {
+            background-color: var(--color-table-header);
+            padding: 15px 20px;
+            border-left: 3px solid var(--color-accent);
+            margin: 1.5em 0;
+            border-radius: 0 4px 4px 0;
+            font-size: 0.95em;
+        }
+
+        p {
+            margin: 1em 0;
+            text-align: justify;
+        }
+
+        strong {
+            color: var(--color-accent);
+        }
+
+        em {
+            color: var(--color-muted);
+            font-style: italic;
+        }
+
+        .section-header {
+            color: var(--color-accent);
+        }
+
+        .text-paragraph {
+            margin: 1em 0;
+        }
+
+        .file-separator {
+            margin-top: 2em;
+            margin-bottom: 1em;
+            padding-top: 1em;
+            border-top: 1px solid var(--color-border);
+            text-align: center;
+            font-variant: small-caps;
+            color: var(--color-accent);
+            font-size: 0.95em;
+            letter-spacing: 2px;
+        }
+
+        .file-separator:first-child {
+            margin-top: 0;
+        }
+
+        /* Scrollbar styling */
+        ::-webkit-scrollbar {
+            width: 10px;
+            height: 10px;
+        }
+
+        ::-webkit-scrollbar-track {
+            background: var(--color-bg);
+        }
+
+        ::-webkit-scrollbar-thumb {
+            background: var(--color-border);
+            border-radius: 5px;
+        }
+
+        ::-webkit-scrollbar-thumb:hover {
+            background: var(--color-btn);
+        }
+
+        /* Selection styling */
+        ::selection {
+            background: var(--color-btn);
+            color: var(--color-text);
+        }
+
+        @media print {
+            body {
+                font-size: 9.5pt;
+                -webkit-print-color-adjust: exact;
+                print-color-adjust: exact;
+            }
+
+            .document {
+                max-width: none;
+                padding: 0;
+            }
+
+            a {
+                text-decoration: none;
+                color: inherit;
+            }
+
+            .glossary-table {
+                page-break-inside: avoid;
+            }
+
+            .glossary-table tr {
+                page-break-inside: avoid;
+            }
+        }
+    </style>
 </head>
 <body>
+    <div class="document">
+<h1 class="section-header">Glossary of Lineage-Specific Terms</h1>
 
-<header>
-  <h1>Glossary of Lineage-Specific Terms</h1>
-  <p class="subtitle"><em>Theg mchog rin po che'i mdzod</em> (Treasury of the Supreme Vehicle)</p>
-</header>
+<h2 class="section-header">Theg mchog rin po che'i mdzod (Treasury of the Supreme Vehicle)</h2>
 
-<section class="acquaintance">
-  <strong>ACQUAINTANCE:</strong> This glossary functions like a traditional glossary in the back of a translated religious work. It provides definitions, context, and first appearances for lineage-specific terms, proper names, and technical vocabulary. Readers should consult this glossary to understand specialized terminology encountered throughout the text.
-  <br><br>
-  This glossary documents lineage-specific terms, proper names, and technical vocabulary used throughout the translation. These terms should be maintained consistently across all layers.
-</section>
+<strong>ACQUAINTANCE:</strong> This glossary functions like a traditional glossary in the back of a translated religious work. It provides definitions, context, and first appearances for lineage-specific terms, proper names, and technical vocabulary. Readers should consult this glossary to understand specialized terminology encountered throughout the text.
 
-<!-- CHAPTER 1 -->
-<section>
-  <h2>CHAPTER 1: The Perfect Teacher</h2>
-  
-  <h3>Cosmological Terms</h3>
-  <table>
-    <thead>
-      <tr>
-        <th>Term</th>
-        <th>Definition</th>
-        <th>First Appearance</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td><strong>Samantabhadra</strong> <span class="tibetan">(Kun tu bzang po)</span></td>
-        <td class="definition">The primordial Buddha; the perfectly enlightened teacher who embodies the five perfections. Not to be confused with the bodhisattva of the same name.</td>
-        <td class="first-appearance">01-01-01-01:6</td>
-      </tr>
-      <tr>
-        <td><strong>Thal-ba field</strong> <span class="tibetan">(Thal-ba'i zhing)</span></td>
-        <td class="definition">One of the thirteen pure realms described in the Sound Thalgyur Tantra; characterized by specific qualities and teachings.</td>
-        <td class="first-appearance">01-01-03-01:1</td>
-      </tr>
-      <tr>
-        <td><strong>five perfections</strong> <span class="tibetan">(phun sum tshogs pa lnga)</span></td>
-        <td class="definition">Perfect teacher, teaching, retinue, place, and time—the complete manifestation of enlightenment.</td>
-        <td class="first-appearance">01-01-01-01:6</td>
-      </tr>
-    </tbody>
-  </table>
+<p class="text-paragraph">Terms are listed alphabetically by their English rendering. Tibetan and Sanskrit equivalents are provided in parentheses.</p>
 
-  <h3>Body Terms (Kaya)</h3>
-  <table>
-    <thead>
-      <tr>
-        <th>Term</th>
-        <th>Definition</th>
-        <th>First Appearance</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td><strong>Dharmakaya</strong> <span class="tibetan">(chos sku)</span></td>
-        <td class="definition">Truth body; the formless dimension of enlightenment beyond all concepts.</td>
-        <td class="first-appearance">01-01-01-01:6</td>
-      </tr>
-      <tr>
-        <td><strong>Sambhogakaya</strong> <span class="tibetan">(longs sku)</span></td>
-        <td class="definition">Enjoyment body; the dimension of enlightened communication and blessing.</td>
-        <td class="first-appearance">01-01-01-01:6</td>
-      </tr>
-      <tr>
-        <td><strong>Nirmanakaya</strong> <span class="tibetan">(sprul sku)</span></td>
-        <td class="definition">Emanation body; the dimension through which enlightenment manifests in the world.</td>
-        <td class="first-appearance">01-01-01-01:6</td>
-      </tr>
-    </tbody>
-  </table>
+<hr>
 
-  <h3>Technical Terms</h3>
-  <table>
-    <thead>
-      <tr>
-        <th>Term</th>
-        <th>Definition</th>
-        <th>First Appearance</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td><strong>vidya</strong> <span class="tibetan">(rig pa)</span></td>
-        <td class="definition">Primordial awareness; knowing without duality or confusion. Distinct from ordinary awareness.</td>
-        <td class="first-appearance">01-01-01-01:6</td>
-      </tr>
-      <tr>
-        <td><strong>jñana</strong> <span class="tibetan">(ye shes)</span></td>
-        <td class="definition">Pristine cognition; timeless knowing transcending subject-object duality.</td>
-        <td class="first-appearance">01-01-01-01:6</td>
-      </tr>
-      <tr>
-        <td><strong>wisdom-mind</strong> <span class="tibetan">(thugs)</span></td>
-        <td class="definition">The enlightened mind as embodiment of wisdom and compassion.</td>
-        <td class="first-appearance">01-01-01-01:6</td>
-      </tr>
-    </tbody>
-  </table>
-</section>
+<h2 class="section-header">Alphabetical Glossary</h2>
 
-<!-- CHAPTER 2 -->
-<section>
-  <h2>CHAPTER 2: Container World and Contents</h2>
-  
-  <h3>Cosmological Terms</h3>
-  <table>
-    <thead>
-      <tr>
-        <th>Term</th>
-        <th>Definition</th>
-        <th>First Appearance</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td><strong>Thal-ba-dbyangs</strong></td>
-        <td class="definition">A pure realm located below this world, immeasurable and extremely beautiful.</td>
-        <td class="first-appearance">01-01-03-01:587</td>
-      </tr>
-      <tr>
-        <td><strong>Thal-ba-'dzin</strong></td>
-        <td class="definition">A wheel-shaped realm piercing through space.</td>
-        <td class="first-appearance">01-01-03-01:596</td>
-      </tr>
-      <tr>
-        <td><strong>Thal-ba-skyob</strong></td>
-        <td class="definition">A realm ornamented by mothers and nurses.</td>
-        <td class="first-appearance">01-01-03-01:601</td>
-      </tr>
-      <tr>
-        <td><strong>Thal-ba-brdal</strong></td>
-        <td class="definition">A realm resembling a lotus in full bloom.</td>
-        <td class="first-appearance">01-01-03-01:607</td>
-      </tr>
-    </tbody>
-  </table>
+<table class="glossary-table">
+  <thead>
+    <tr>
+      <th>Term</th>
+      <th>Definition</th>
+      <th>First Appearance</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>absorption</strong> (bsdu)</td>
+      <td>Gathering or dissolving; elements absorbing into one another at death.</td>
+      <td>01-11-04-01:14172</td>
+    </tr>
+    <tr>
+      <td><strong>acceptance of anything</strong> (ci yang rung)</td>
+      <td>The view that the basis accepts and manifests all phenomena without distinction.</td>
+      <td>01-08-01-01:10485</td>
+    </tr>
+    <tr>
+      <td><strong>affliction</strong> (nyon mongs)</td>
+      <td>Mental factors (kleshas) that disturb the mind; in Dzogchen, recognized as spontaneously self-liberated when their true nature is directly seen.</td>
+      <td>01-03-03-01:1821</td>
+    </tr>
+    <tr>
+      <td><strong>aggregate</strong> (phung po)</td>
+      <td>The five skandhas (form, feeling, perception, formation, consciousness); in Dzogchen, the aggregates are not rejected but recognized as the spontaneously self-liberated display of the ground (lhun grub kyi snang ba).</td>
+      <td>01-03-01-01:1588</td>
+    </tr>
+    <tr>
+      <td><strong>Kunzhi</strong> (kun gzhi) "All-Ground"</td>
+      <td>The universal ground or basis of both saṃsāra and nirvāṇa; the neutral ground of all experience. In Dzogchen, distinguished from Dharmakāya (primordially pure wisdom) and from Kunzhi consciousness (the defiled aspect). Literal layer: "kunzhi" (lowercase); Liturgical layer: "Kunzhi" (capitalized).</td>
+      <td>01-14-01-01:17361</td>
+    </tr>
+    <tr>
+      <td><strong>Kunzhi consciousness</strong> (kun gzhi rnam shes)</td>
+      <td>The defiled aspect of the all-ground; the eighth consciousness in the Yogācāra system; distinct from pure Kunzhi.</td>
+      <td>01-03-01-01:1627</td>
+    </tr>
+    <tr>
+      <td><strong>All-Accomplishing Wisdom</strong> (bya grub ye shes)</td>
+      <td>Wisdom effortlessly completing all enlightened activities; fourth characteristic-holding wisdom.</td>
+      <td>01-14-04-01:18356</td>
+    </tr>
+    <tr>
+      <td><strong>appearance</strong> (snang ba)</td>
+      <td>Phenomenal display or manifestation; rang snang (self-appearance of awareness, pure) vs. gzhan snang (other-appearance of delusion, impure); in Dzogchen, appearances and emptiness are non-dual (snang stong dbyer med).</td>
+      <td>01-01-01-01:35</td>
+    </tr>
+    <tr>
+      <td><strong>bardo</strong> (bar do)</td>
+      <td>Intermediate state between death and rebirth; four types: natural (life), dying, dharmatā (reality), and existence; also refers to moment-to-moment gaps in ordinary experience.</td>
+      <td>02-19-01-01:11200</td>
+    </tr>
+    <tr>
+      <td><strong>basis</strong> (gzhi)</td>
+      <td>The ground of all experience; the primordial state that is the source of both saṃsāra and nirvāṇa. In Dzogchen, the basis has three aspects: essence (ngo bo) as primordial purity (ka dag), nature (rang bzhin) as spontaneous presence (lhun grub), and compassion (thugs rje) as unceasing manifestation. Distinguished from Kunzhi (the neutral all-ground) and Kunzhi consciousness (the defiled aspect).</td>
+      <td>01-08-01-01:10472</td>
+    </tr>
+    <tr>
+      <td><strong>basis-abiding wisdom</strong> (gzhi gnas kyi ye shes)</td>
+      <td>Wisdom that dwells primordially as the ground of all experience.</td>
+      <td>01-14-04-01:18286</td>
+    </tr>
+    <tr>
+      <td><strong>bindu</strong> (thig le)</td>
+      <td>Energy drops or essences; white (male, bodhicitta) bindu at crown, red (female, blood) bindu at navel. In Dzogchen: basis of subtle body manifestation, dissolves into clear light at death, giving rise to thögal visions.</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td><strong>binding</strong> (bcings pa)</td>
+      <td>Fetter, shackle; samaya as dam ('dam) meaning binding or holding.</td>
+      <td>02-19-02-01:11370</td>
+    </tr>
+    <tr>
+      <td><strong>certainty</strong> (nges pa)</td>
+      <td>The view that the basis is determinate and unchanging in its nature.</td>
+      <td>01-08-01-01:10483</td>
+    </tr>
+    <tr>
+      <td><strong>changeability</strong> (bsgyur rung)</td>
+      <td>The view that the basis can transform into anything whatsoever.</td>
+      <td>01-08-01-01:10484</td>
+    </tr>
+    <tr>
+      <td><strong>channel</strong> (rtsa)</td>
+      <td>Subtle energy channels (nāḍī) through which winds circulate; distinct from physical arteries.</td>
+      <td>01-11-01-01:13704</td>
+    </tr>
+    <tr>
+      <td><strong>channel-petal</strong> (rtsa 'dab)</td>
+      <td>Petals of the chakra wheels; subtle energetic structures.</td>
+      <td>01-11-01-01:13112</td>
+    </tr>
+    <tr>
+      <td><strong>characteristic-holding wisdom</strong> (mtshan nyid 'dzin pa'i ye shes)</td>
+      <td>Wisdom that apprehends the defining characteristics of phenomena.</td>
+      <td>01-14-04-01:18287</td>
+    </tr>
+    <tr>
+      <td><strong>clear light</strong> ('od gsal)</td>
+      <td>Luminous clarity; the fundamental nature of mind as self-illuminating awareness. In Dzogchen: recognized as Dharmakaya at death (inner clear light) and in thögal practice (outer clear light of visionary experience); the ground of both saṃsāra and nirvāṇa.</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td><strong>cognition-only</strong> (rnam rig tsam)</td>
+      <td>The Yogācāra view that only consciousness exists.</td>
+      <td>01-04-02-01:2103</td>
+    </tr>
+    <tr>
+      <td><strong>compounded</strong> ('dus byas)</td>
+      <td>Conditioned, produced; phenomena arising from causes and conditions.</td>
+      <td>01-01-01-01:18</td>
+    </tr>
+    <tr>
+      <td><strong>compassion</strong> (thugs rje)</td>
+      <td>The third aspect of the basis (gzhi); unceasing energy or responsiveness that manifests as all appearance. Not ordinary emotional compassion but the spontaneous, non-dual responsiveness of awareness. The manifestation-aspect of spontaneous presence (lhun grub), inseparable from essence (ngo bo) and nature (rang bzhin).</td>
+      <td>01-01-01-01:6</td>
+    </tr>
+    <tr>
+      <td><strong>concentration</strong> (ting nge 'dzin)</td>
+      <td>Meditative absorption, samādhi; one-pointed stability of mind.</td>
+      <td>01-11-03-01:14007</td>
+    </tr>
+    <tr>
+      <td><strong>contaminated</strong> (zag bcas)</td>
+      <td>Phenomena associated with afflictions and karma.</td>
+      <td>01-03-02-01:1584</td>
+    </tr>
+    <tr>
+      <td><strong>Dharmadhātu Wisdom</strong> (chos dbyings ye shes)</td>
+      <td>Wisdom of the ultimate dimension pervading all phenomena; fifth characteristic-holding wisdom.</td>
+      <td>01-14-04-01:18352</td>
+    </tr>
+    <tr>
+      <td><strong>dharmatā-bardo</strong> (chos nyid bar do)</td>
+      <td>Bardo of reality itself; displays of sounds, lights, rays.</td>
+      <td>02-19-02-01:11430</td>
+    </tr>
+    <tr>
+      <td><strong>Dharmakāya</strong> (chos sku)</td>
+      <td>Truth body; the formless dimension of enlightenment beyond all concepts. In Dzogchen: primordially pure from the beginning (ka dag), unproduced by causes, the essence-aspect (ngo bo) of the basis; inseparable from Sambhogakaya and Nirmanakaya.</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td><strong>Discriminating Wisdom</strong> (so sor rtog pa'i ye shes)</td>
+      <td>Wisdom distinctly knowing all phenomena without confusion; third characteristic-holding wisdom.</td>
+      <td>01-14-04-01:18355</td>
+    </tr>
+    <tr>
+      <td><strong>downward-clearing wind</strong> (thur rlung)</td>
+      <td>One of the five vital winds; moves downward regulating excretion, reproduction, and elimination.</td>
+      <td>01-15-01-01:9785</td>
+    </tr>
+    <tr>
+      <td><strong>effort</strong> (rtsol)</td>
+      <td>Striving, exertion; effortful practice vs effortless recognition.</td>
+      <td>02-18-01-01:10441</td>
+    </tr>
+    <tr>
+      <td><strong>element</strong> (khams)</td>
+      <td>The eighteen elements: six faculties, six objects, six consciousnesses.</td>
+      <td>01-03-01-01:1650</td>
+    </tr>
+    <tr>
+      <td><strong>elemental formation</strong> ('byung 'jog)</td>
+      <td>The process by which the five elements (earth, water, fire, wind, space) manifest worlds and bodies.</td>
+      <td>01-02-01-01:712</td>
+    </tr>
+    <tr>
+      <td><strong>emanation</strong> (sprul)</td>
+      <td>Manifestation, display; nirmāṇa means emanation.</td>
+      <td>01-01-01-01:30</td>
+    </tr>
+    <tr>
+      <td><strong>empowerment</strong> (dbang)</td>
+      <td>Abhiṣeka; tantric initiation that authorizes practice; four empowerments.</td>
+      <td>02-17-01-01:9820</td>
+    </tr>
+    <tr>
+      <td><strong>eternalism</strong> (rtag mtha')</td>
+      <td>The extreme view that things exist permanently and unchangingly.</td>
+      <td>01-04-01-01:1905</td>
+    </tr>
+    <tr>
+      <td><strong>five perfections</strong> (phun sum tshogs pa lnga)</td>
+      <td>Perfect teacher, teaching, retinue, place, and time—the complete manifestation of enlightenment.</td>
+      <td>01-01-01-01:6</td>
+    </tr>
+    <tr>
+      <td><strong>impure</strong> (ma dag)</td>
+      <td>Impure, defiled; impure perception vs pure perception.</td>
+      <td>01-08-07-01:10870</td>
+    </tr>
+    <tr>
+      <td><strong>Jaina</strong> (gcer bu pa)</td>
+      <td>Non-Buddhist school emphasizing extreme asceticism and non-violence.</td>
+      <td>01-04-01-01:1986</td>
+    </tr>
+    <tr>
+      <td><strong>jñana</strong> (ye shes)</td>
+      <td>Pristine cognition; timeless knowing transcending subject-object duality.</td>
+      <td>01-01-01-01:6</td>
+    </tr>
+    <tr>
+      <td><strong>Klong-drug-pa</strong> (klong drug pa)</td>
+      <td>The Six Expanses tantra; important Dzogchen scripture.</td>
+      <td>01-08-01-01:10509</td>
+    </tr>
+    <tr>
+      <td><strong>latencies</strong> (bag chags)</td>
+      <td>Subtle imprints left by past experiences and actions.</td>
+      <td>01-03-03-01:1812</td>
+    </tr>
+    <tr>
+      <td><strong>liberation</strong> (grol ba)</td>
+      <td>Freedom, release; self-liberation (rang grol) recognizes bondage as empty.</td>
+      <td>02-18-05-01:11021</td>
+    </tr>
+    <tr>
+      <td><strong>life-wind</strong> (srog rlung)</td>
+      <td>The vital energy wind that sustains life and supports consciousness; located at the heart center; chief of the five winds.</td>
+      <td>01-01-03-01:613</td>
+    </tr>
+    <tr>
+      <td><strong>light-body</strong> ('od lus)</td>
+      <td>Body of light; form of manifestation in thögal practice.</td>
+      <td>02-18-01-01:3952</td>
+    </tr>
+    <tr>
+      <td><strong>Lokāyata</strong> (rgyang 'phen pa)</td>
+      <td>Materialist school denying karma, rebirth, and liberation; holds that only physical elements exist.</td>
+      <td>01-04-01-01:1944</td>
+    </tr>
+    <tr>
+      <td><strong>Longchenpa</strong> (klong chen pa)</td>
+      <td>Longchen Rabjampa (1308-1364), also known as the Omniscient One (Kunkhyen); the author of the Treasury of the Supreme Vehicle and the Seven Treasures. The supreme systematizer of the Nyingma Dzogchen tradition, who composed this text during his retreat at Gangri Thökar.</td>
+      <td>01-25-07-01:17271</td>
+    </tr>
+    <tr>
+      <td><strong>Lugu Gyud</strong> (lu gu rgyud)</td>
+      <td>"Spiral Continuity"; a narrative figure/entity representing the principle of continuous wisdom lineage. In the liturgical layer rendered as "Spiral Continuity."</td>
+      <td>01-10-01-01:12672</td>
+    </tr>
+    <tr>
+      <td><strong>Madhyamaka</strong> (dbu ma pa)</td>
+      <td>Buddhist school of the Middle Way; holds that all phenomena are empty of inherent existence.</td>
+      <td>01-04-02-01:2103</td>
+    </tr>
+    <tr>
+      <td><strong>mandala</strong> (dkyil 'khor)</td>
+      <td>Celestial palace, sacred circle; five-family mandala, deity mandalas.</td>
+      <td>01-01-02-01:587</td>
+    </tr>
+    <tr>
+      <td><strong>method</strong> (thabs)</td>
+      <td>Skillful means, upāya; paired with wisdom; skillful means for liberating beings.</td>
+      <td>02-18-01-01:10441</td>
+    </tr>
+    <tr>
+      <td><strong>Mirror-like Wisdom</strong> (me long lta bu'i ye shes)</td>
+      <td>Wisdom reflecting all phenomena without distortion; first of the five characteristic-holding wisdoms.</td>
+      <td>01-14-04-01:18352</td>
+    </tr>
+    <tr>
+      <td><strong>mudra</strong> (phyag rgya)</td>
+      <td>Seal, symbolic gesture, consort; four mudras of Dzogchen.</td>
+      <td>02-18-03-01:10750</td>
+    </tr>
+    <tr>
+      <td><strong>Mu-tig-phreng-ba</strong> (mu tig phreng ba)</td>
+      <td>The Pearl Garland tantra; important Dzogchen scripture teaching on primordial purity and the four lamps.</td>
+      <td>01-08-07-01:11021</td>
+    </tr>
+    <tr>
+      <td><strong>multiplicity</strong> (sna tshogs)</td>
+      <td>The view that the basis appears as variegated and manifold without ceasing.</td>
+      <td>01-08-01-01:10486</td>
+    </tr>
+    <tr>
+      <td><strong>Trekchö</strong> (khregs chod) "Cutting-Through"</td>
+      <td>The Dzogchen practice of cutting through conceptual mind and grasping to reveal primordial purity (ka dag). The foundational practice of Great Perfection meditation that dismantles the intellect's constructs, revealing the naked awareness of rigpa. Precedes thögal practice.</td>
+      <td>02-18-01-01:10441</td>
+    </tr>
+    <tr>
+      <td><strong>Thogal</strong> (thod rgal) "Leap-Over"</td>
+      <td>The Dzogchen practice of spontaneous leap-over; direct recognition through visionary experience. The advanced practice following trekcho (cutting-through). Literal layer: "thogal" (lowercase); Liturgical layer: "Thogal" (capitalized).</td>
+      <td>02-20-01-01:8104</td>
+    </tr>
+    <tr>
+      <td><strong>Nirmanakāya</strong> (sprul sku)</td>
+      <td>Emanation body; the dimension through which enlightenment manifests in the world for beings to be trained. In Dzogchen: unceasing compassion (thugs rje), the manifestation-aspect of spontaneous presence (lhun grub).</td>
+      <td>01-01-01-01:6</td>
+    </tr>
+    <tr>
+      <td><strong>nihilism</strong> (chad mtha')</td>
+      <td>The extreme view that things are utterly non-existent and nothing continues after death.</td>
+      <td>01-04-01-01:1905</td>
+    </tr>
+    <tr>
+      <td><strong>obscuration</strong> (sgrib pa)</td>
+      <td>Veil, covering; two obscurations (afflictive and cognitive) obscure the nature.</td>
+      <td>02-19-01-01:11200</td>
+    </tr>
+    <tr>
+      <td><strong>partless particle</strong> (rdul phra rab)</td>
+      <td>The smallest unit of matter in Buddhist atomism.</td>
+      <td>01-04-02-01:2103</td>
+    </tr>
+    <tr>
+      <td><strong>pervading wind</strong> (khyab byed)</td>
+      <td>Wind that pervades the entire body; movement and circulation.</td>
+      <td>01-15-01-01:9790</td>
+    </tr>
+    <tr>
+      <td><strong>primordial purity</strong> (ka dag)</td>
+      <td>The view that the basis is empty and pure from the beginning, free from all elaborations.</td>
+      <td>01-08-01-01:10480</td>
+    </tr>
+    <tr>
+      <td><strong>primordial resonance</strong> (ye gdangs)</td>
+      <td>The self-arisen expression of awareness; primordial radiance.</td>
+      <td>01-08-05-01:10758</td>
+    </tr>
+    <tr>
+      <td><strong>spontaneous presence</strong> (lhun grub)</td>
+      <td>Self-perfected, naturally complete; the nature-aspect of the basis (gzhi) through which all manifestation appears without effort. Together with primordial purity (ka dag), constitutes the two aspects of the ground in Dzogchen.</td>
+      <td>01-08-01-01:10480</td>
+    </tr>
+    <tr>
+      <td><strong>prostration</strong> (phyag 'tshal)</td>
+      <td>Homage, reverence; physical and mental homage to enlightened ones.</td>
+      <td>01-01-01-01:11</td>
+    </tr>
+    <tr>
+      <td><strong>purity</strong> (dag pa)</td>
+      <td>Pure, cleansed; primordial purity (ka dag), twofold purity (dag pa gnyis).</td>
+      <td>01-08-05-01:10758</td>
+    </tr>
+    <tr>
+      <td><strong>qualities</strong> (yon tan)</td>
+      <td>Virtues, enlightened attributes; the qualities of buddhahood.</td>
+      <td>01-01-01-01:17</td>
+    </tr>
+    <tr>
+      <td><strong>Rangshar</strong> (rang shar)</td>
+      <td>The Self-Arisen tantra; key text on spontaneous presence.</td>
+      <td>01-08-05-01:10761</td>
+    </tr>
+    <tr>
+      <td><strong>rigpa-radiance</strong> (rig gdangs)</td>
+      <td>Self-expression or display of awareness; natural manifestation of rigpa.</td>
+      <td>02-18-01-01:3968</td>
+    </tr>
+    <tr>
+      <td><strong>Sāṃkhya</strong> (grangs can pa)</td>
+      <td>Hindu school propounding eternalism; holds that a permanent self (purusha) exists distinct from nature (prakriti).</td>
+      <td>01-04-01-01:1911</td>
+    </tr>
+    <tr>
+      <td><strong>Samantabhadra</strong> (Kun tu bzang po)</td>
+      <td>The primordial Buddha; the perfectly enlightened teacher who embodies the five perfections. Not to be confused with the bodhisattva of the same name.</td>
+      <td>01-01-01-01:6</td>
+    </tr>
+    <tr>
+      <td><strong>samaya</strong> (dam tshig)</td>
+      <td>Binding pledge or vow; commitment to the path; root and branch samayas.</td>
+      <td>02-17-01-01:9704</td>
+    </tr>
+    <tr>
+      <td><strong>Sambhogakāya</strong> (longs sku)</td>
+      <td>Enjoyment body; the dimension of enlightened communication and self-appearance. In Dzogchen: self-appearing luminosity (rang snang), the nature-aspect (rang bzhin) of spontaneous presence (lhun grub); inseparable from Dharmakaya.</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td><strong>nature</strong> (rang bzhin)</td>
+      <td>The nature-aspect of the basis (gzhi); how the essence naturally manifests as clarity, luminosity, and spontaneous presence (lhun grub). One of the three aspects of the ground: essence (ngo bo), nature (rang bzhin), and compassion (thugs rje).</td>
+      <td>01-04-01-01:1914</td>
+    </tr>
+    <tr>
+      <td><strong>non-recognition</strong> (ma rig pa)</td>
+      <td>Failure to recognize the nature of one's own mind; fundamental ignorance in Dzogchen. Not mere intellectual ignorance but the non-recognition (ma rig) of rigpa as one's own nature, leading to the delusion of dualistic perception. The root of saṃsāra.</td>
+      <td>01-09-01-01:11335</td>
+    </tr>
+    <tr>
+      <td><strong>essence</strong> (ngo bo)</td>
+      <td>The essence-aspect of the basis (gzhi); the empty, open quality of the ground that is primordially pure (ka dag). One of the three aspects of the ground: essence (ngo bo), nature (rang bzhin), and compassion (thugs rje).</td>
+      <td>01-08-01-01:10480</td>
+    </tr>
+    <tr>
+      <td><strong>self-resonance</strong> (rang gdangs)</td>
+      <td>Natural self-expression without external cause.</td>
+      <td>01-08-07-01:10895</td>
+    </tr>
+    <tr>
+      <td><strong>sense-source</strong> (skye mched)</td>
+      <td>The twelve bases of perception: six faculties and six objects.</td>
+      <td>01-03-01-01:1650</td>
+    </tr>
+    <tr>
+      <td><strong>Sugata</strong> (bde gshegs)</td>
+      <td>Bliss-Gone One; epithet of Buddha who has gone to bliss/blissful liberation.</td>
+      <td>01-01-01-01:19</td>
+    </tr>
+    <tr>
+      <td><strong>suchness</strong> (chos nyid)</td>
+      <td>Dharmatā; reality itself; the nature of phenomena as they are; dharmakāya as suchness-body.</td>
+      <td>01-14-02-01:17427</td>
+    </tr>
+    <tr>
+      <td><strong>Thal-ba-brdal</strong> (thal ba brdal)</td>
+      <td>One of the thirteen Thal-ba pure realms; a realm resembling a lotus in full bloom.</td>
+      <td>01-01-03-01:607</td>
+    </tr>
+    <tr>
+      <td><strong>Thal-ba-dbyangs</strong> (thal ba dbyangs)</td>
+      <td>One of the thirteen Thal-ba pure realms; located below this world, immeasurable and extremely beautiful.</td>
+      <td>01-01-03-01:587</td>
+    </tr>
+    <tr>
+      <td><strong>Thal-ba field</strong> (Thal-ba'i zhing)</td>
+      <td>One of the thirteen pure realms described in the Sound Thalgyur Tantra; characterized by specific qualities and teachings.</td>
+      <td>01-01-03-01:1</td>
+    </tr>
+    <tr>
+      <td><strong>Thal-ba-skyob</strong> (thal ba skyob)</td>
+      <td>One of the thirteen Thal-ba pure realms; ornamented by mothers and nurses.</td>
+      <td>01-01-03-01:601</td>
+    </tr>
+    <tr>
+      <td><strong>Thal-ba-'dzin</strong> (thal ba 'dzin)</td>
+      <td>One of the thirteen Thal-ba pure realms; a wheel-shaped realm piercing through space.</td>
+      <td>01-01-03-01:596</td>
+    </tr>
+    <tr>
+      <td><strong>Thalgyur</strong> (thal 'gyur)</td>
+      <td>The Tantra of the Great Completion; supreme among Dzogchen tantras.</td>
+      <td>01-08-01-01:10498</td>
+    </tr>
+    <tr>
+      <td><strong>three kayas</strong> (sku gsum)</td>
+      <td>The three dimensions of enlightenment: dharmakāya, sambhogakāya, nirmāṇakāya.</td>
+      <td>01-01-01-01:17</td>
+    </tr>
+    <tr>
+      <td><strong>Tirthika</strong> (mu stegs pa)</td>
+      <td>General term for non-Buddhist spiritual practitioners.</td>
+      <td>01-04-01-01:1910</td>
+    </tr>
+    <tr>
+      <td><strong>trainee</strong> (gdul bya)</td>
+      <td>Disciple, one to be tamed/educated; recipient of teachings.</td>
+      <td>01-01-01-01:45</td>
+    </tr>
+    <tr>
+      <td><strong>uncertainty</strong> (ma nges pa)</td>
+      <td>The view that the basis is indeterminate and cannot be fixed as any one thing.</td>
+      <td>01-08-01-01:10482</td>
+    </tr>
+    <tr>
+      <td><strong>uncontaminated</strong> (zag med)</td>
+      <td>Phenomena free from afflictions; nirvanic.</td>
+      <td>01-03-02-01:1584</td>
+    </tr>
+    <tr>
+      <td><strong>uncompounded</strong> ('dus ma byas)</td>
+      <td>Unconditioned, not produced; nirvana is uncompounded.</td>
+      <td>01-01-01-01:18</td>
+    </tr>
+    <tr>
+      <td><strong>unobscured</strong> (ma bsgribs)</td>
+      <td>Free from veils or obscurations; naturally clear.</td>
+      <td>01-08-07-01:10870</td>
+    </tr>
+    <tr>
+      <td><strong>upward-moving wind</strong> (gyen rgyu)</td>
+      <td>Wind that moves upward; speech and respiratory function.</td>
+      <td>01-15-01-01:9780</td>
+    </tr>
+    <tr>
+      <td><strong>Vaiśeṣika</strong> (bye brag pa)</td>
+      <td>Hindu school holding atomic realism and categories of existence.</td>
+      <td>01-04-01-01:1937</td>
+    </tr>
+    <tr>
+      <td><strong>Vaibhāṣika</strong> (bye brag smra ba)</td>
+      <td>Buddhist school accepting both sutras and abhidharma; holds direct realism.</td>
+      <td>01-04-02-01:2103</td>
+    </tr>
+    <tr>
+      <td><strong>rigpa</strong> (rig pa)</td>
+      <td>Pristine awareness; the self-recognizing, non-dual knowing that is the nature of mind itself. Distinguished from ordinary consciousness (rnam shes): rigpa is self-aware (rang rig), unconfined, and the ground of both saṃsāra and nirvāṇa. The central term in Dzogchen pointing to immediate, non-conceptual recognition.</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td><strong>vessel-and-contents</strong> (snod bcud)</td>
+      <td>Container world (universe) and contents (sentient beings).</td>
+      <td>01-02-01-01:712</td>
+    </tr>
+    <tr>
+      <td><strong>vital-point</strong> (gnad)</td>
+      <td>Critical juncture or key point; essential point in subtle body practice.</td>
+      <td>01-11-02-01:13127</td>
+    </tr>
+    <tr>
+      <td><strong>view-meditation-conduct</strong> (lta sgom spyod)</td>
+      <td>The three aspects of practice: view (understanding), meditation (familiarization), conduct (integration).</td>
+      <td>01-08-01-01:10472</td>
+    </tr>
+    <tr>
+      <td><strong>wind</strong> (rlung)</td>
+      <td>Vital energy (prāṇa, vāyu); five winds (life, fire, pervasive, upward, downward) support consciousness.</td>
+      <td>01-11-01-01:13704</td>
+    </tr>
+    <tr>
+      <td><strong>wind-radiance</strong> (rlung gdangs)</td>
+      <td>Expression or display of prāṇa/wind energy.</td>
+      <td>02-18-01-01:3967</td>
+    </tr>
+    <tr>
+      <td><strong>Wisdom of All-Pervading Compassion</strong> (thugs rje kun khyab kyi ye shes)</td>
+      <td>Wisdom manifesting as the root force pervading all appearance; third basis-abiding wisdom.</td>
+      <td>01-14-04-01:18334</td>
+    </tr>
+    <tr>
+      <td><strong>Wisdom of Equality</strong> (mnyam nyid ye shes)</td>
+      <td>Wisdom recognizing all phenomena as equal in emptiness; second characteristic-holding wisdom.</td>
+      <td>01-14-04-01:18354</td>
+    </tr>
+    <tr>
+      <td><strong>Wisdom of Primordial Purity</strong> (ngo bo ka dag gi ye shes)</td>
+      <td>Wisdom that transcends existence and non-existence, empty and pure from the beginning; first of the three basis-abiding wisdoms.</td>
+      <td>01-14-04-01:18295</td>
+    </tr>
+    <tr>
+      <td><strong>Wisdom of Spontaneous Perfection</strong> (rang bzhin lhun grub kyi ye shes)</td>
+      <td>Wisdom primordially complete with qualities, naturally manifesting without effort; second basis-abiding wisdom.</td>
+      <td>01-14-04-01:18316</td>
+    </tr>
+    <tr>
+      <td><strong>wisdom</strong> (shes rab)</td>
+      <td>Prajñā; discernment that realizes emptiness; transcendent wisdom.</td>
+      <td>02-18-01-01:10441</td>
+    </tr>
+    <tr>
+      <td><strong>wisdom gathered by knowing</strong> (shes pas bsdus pa'i ye shes)</td>
+      <td>Wisdom that knows the extent of knowable phenomena.</td>
+      <td>01-14-04-01:18328</td>
+    </tr>
+    <tr>
+      <td><strong>wisdom gathered by objects</strong> (shes byas bsdus pa'i ye shes)</td>
+      <td>Wisdom that distinguishes specific aspects of phenomena.</td>
+      <td>01-14-04-01:18340</td>
+    </tr>
+    <tr>
+      <td><strong>wisdom-mind</strong> (thugs)</td>
+      <td>The enlightened mind as embodiment of wisdom and compassion.</td>
+      <td>01-01-01-01:6</td>
+    </tr>
+    <tr>
+      <td><strong>wisdom pervading objects</strong> (yul la khyab pa'i ye shes)</td>
+      <td>Wisdom extending to and encompassing all objects of knowledge.</td>
+      <td>01-14-04-01:18288</td>
+    </tr>
+    <tr>
+      <td><strong>youth vase body</strong> (gzhon nu bum sku)</td>
+      <td>A metaphor for the basis: youthful (ever-fresh), vase-like (containing qualities), embodied (manifest).</td>
+      <td>01-08-05-01:10762</td>
+    </tr>
+    <tr>
+      <td><strong>Yogācāra</strong> (rnal 'byor spyod pa)</td>
+      <td>Buddhist school of "mind-only"; holds that only consciousness is truly existent.</td>
+      <td>01-04-02-01:2103</td>
+    </tr>
+  </tbody>
+</table>
 
-  <h3>Element Terms</h3>
-  <table>
-    <thead>
-      <tr>
-        <th>Term</th>
-        <th>Definition</th>
-        <th>First Appearance</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td><strong>life-wind</strong> <span class="tibetan">(srog rlung)</span></td>
-        <td class="definition">The vital energy wind that supports consciousness.</td>
-        <td class="first-appearance">01-01-03-01:613</td>
-      </tr>
-      <tr>
-        <td><strong>elemental formation</strong></td>
-        <td class="definition">The process by which the five elements manifest worlds.</td>
-        <td class="first-appearance">01-02-01-01:712</td>
-      </tr>
-    </tbody>
-  </table>
-</section>
+<hr>
 
-<!-- CHAPTER 3 -->
-<section>
-  <h2>CHAPTER 3: Aggregates and Sense-Sources</h2>
-  
-  <h3>Abhidharma Terms</h3>
-  <table>
-    <thead>
-      <tr>
-        <th>Term</th>
-        <th>Definition</th>
-        <th>First Appearance</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td><strong>aggregate</strong> <span class="tibetan">(phung po)</span></td>
-        <td class="definition">The five components of personality: form, feeling, perception, formation, consciousness.</td>
-        <td class="first-appearance">01-03-01-01:1588</td>
-      </tr>
-      <tr>
-        <td><strong>sense-source</strong> <span class="tibetan">(skye mched)</span></td>
-        <td class="definition">The twelve bases of perception: six faculties and six objects.</td>
-        <td class="first-appearance">01-03-01-01:1650</td>
-      </tr>
-      <tr>
-        <td><strong>element</strong> <span class="tibetan">(khams)</span></td>
-        <td class="definition">The eighteen elements: six faculties, six objects, six consciousnesses.</td>
-        <td class="first-appearance">01-03-01-01:1650</td>
-      </tr>
-      <tr>
-        <td><strong>affliction</strong> <span class="tibetan">(nyon mongs)</span></td>
-        <td class="definition">Mental factors that disturb the mind and create suffering.</td>
-        <td class="first-appearance">01-03-03-01:1821</td>
-      </tr>
-    </tbody>
-  </table>
+<h2 class="section-header">Usage Notes</h2>
 
-  <h3>Technical Distinctions</h3>
-  <table>
-    <thead>
-      <tr>
-        <th>Term</th>
-        <th>Definition</th>
-        <th>First Appearance</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td><strong>contaminated</strong> <span class="tibetan">(zag bcas)</span></td>
-        <td class="definition">Phenomena associated with afflictions and karma.</td>
-        <td class="first-appearance">01-03-02-01:1584</td>
-      </tr>
-      <tr>
-        <td><strong>uncontaminated</strong> <span class="tibetan">(zag med)</span></td>
-        <td class="definition">Phenomena free from afflictions; nirvanic.</td>
-        <td class="first-appearance">01-03-02-01:1584</td>
-      </tr>
-      <tr>
-        <td><strong>latencies</strong> <span class="tibetan">(bag chags)</span></td>
-        <td class="definition">Subtle imprints left by past experiences and actions.</td>
-        <td class="first-appearance">01-03-03-01:1812</td>
-      </tr>
-    </tbody>
-  </table>
-</section>
+<p class="text-paragraph">1. <strong>Capitalization</strong>: Proper names (Buddhas, schools, tantras) are capitalized. Technical terms are lowercase unless they begin sentences.</p>
 
-<!-- CHAPTER 4 -->
-<section>
-  <h2>CHAPTER 4: Mistaken Tenets</h2>
-  
-  <h3>Non-Buddhist Schools</h3>
-  <table>
-    <thead>
-      <tr>
-        <th>Term</th>
-        <th>Definition</th>
-        <th>First Appearance</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td><strong>Sāṃkhya</strong> <span class="tibetan">(grangs can pa)</span></td>
-        <td class="definition">Hindu school propounding eternalism; holds that a permanent self (purusha) exists distinct from nature (prakriti).</td>
-        <td class="first-appearance">01-04-01-01:1911</td>
-      </tr>
-      <tr>
-        <td><strong>Vaiśeṣika</strong> <span class="tibetan">(bye brag pa)</span></td>
-        <td class="definition">Hindu school holding atomic realism and categories of existence.</td>
-        <td class="first-appearance">01-04-01-01:1937</td>
-      </tr>
-      <tr>
-        <td><strong>Lokāyata</strong> <span class="tibetan">(rgyang 'phen pa)</span></td>
-        <td class="definition">Materialist school denying karma, rebirth, and liberation; holds that only physical elements exist.</td>
-        <td class="first-appearance">01-04-01-01:1944</td>
-      </tr>
-      <tr>
-        <td><strong>Jaina</strong> <span class="tibetan">(gcer bu pa)</span></td>
-        <td class="definition">Non-Buddhist school emphasizing extreme asceticism and non-violence.</td>
-        <td class="first-appearance">01-04-01-01:1986</td>
-      </tr>
-      <tr>
-        <td><strong>Tirthika</strong> <span class="tibetan">(mu stegs pa)</span></td>
-        <td class="definition">General term for non-Buddhist spiritual practitioners.</td>
-        <td class="first-appearance">01-04-01-01:1910</td>
-      </tr>
-    </tbody>
-  </table>
+<p class="text-paragraph">2. <strong>Sanskrit vs. Tibetan</strong>: When available, Sanskrit terms are preferred for Buddhist philosophical concepts (e.g., "dharma" not "chos").</p>
 
-  <h3>Buddhist Tenet Systems</h3>
-  <table>
-    <thead>
-      <tr>
-        <th>Term</th>
-        <th>Definition</th>
-        <th>First Appearance</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td><strong>Vaibhāṣika</strong> <span class="tibetan">(bye brag smra ba)</span></td>
-        <td class="definition">Buddhist school accepting both sutras and abhidharma; holds direct realism.</td>
-        <td class="first-appearance">01-04-02-01:2103</td>
-      </tr>
-      <tr>
-        <td><strong>Sautrantika</strong> <span class="tibetan">(mdo sde pa)</span></td>
-        <td class="definition">Buddhist school accepting only sutras as authoritative; represents subtle realism.</td>
-        <td class="first-appearance">01-04-02-01:2103</td>
-      </tr>
-      <tr>
-        <td><strong>Yogācāra</strong> <span class="tibetan">(rnal 'byor spyod pa)</span></td>
-        <td class="definition">Buddhist school of "mind-only"; holds that only consciousness is truly existent.</td>
-        <td class="first-appearance">01-04-02-01:2103</td>
-      </tr>
-      <tr>
-        <td><strong>Madhyamaka</strong> <span class="tibetan">(dbu ma pa)</span></td>
-        <td class="definition">Buddhist school of the Middle Way; holds that all phenomena are empty of inherent existence.</td>
-        <td class="first-appearance">01-04-02-01:2103</td>
-      </tr>
-    </tbody>
-  </table>
+<p class="text-paragraph">3. <strong>Consistency</strong>: Once a term is glossed here, it should be used consistently throughout all translation layers.</p>
 
-  <h3>Philosophical Concepts</h3>
-  <table>
-    <thead>
-      <tr>
-        <th>Term</th>
-        <th>Definition</th>
-        <th>First Appearance</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td><strong>eternalism</strong> <span class="tibetan">(rtag mtha')</span></td>
-        <td class="definition">The extreme view that things exist permanently and unchangingly.</td>
-        <td class="first-appearance">01-04-01-01:1905</td>
-      </tr>
-      <tr>
-        <td><strong>nihilism</strong> <span class="tibetan">(chad mtha')</span></td>
-        <td class="definition">The extreme view that things are utterly non-existent and nothing continues after death.</td>
-        <td class="first-appearance">01-04-01-01:1905</td>
-      </tr>
-      <tr>
-        <td><strong>self-nature</strong> <span class="tibetan">(rang bzhin)</span></td>
-        <td class="definition">Inherent essence; svabhāva; own-being.</td>
-        <td class="first-appearance">01-04-01-01:1914</td>
-      </tr>
-      <tr>
-        <td><strong>partless particle</strong> <span class="tibetan">(rdul phra rab)</span></td>
-        <td class="definition">The smallest unit of matter in Buddhist atomism.</td>
-        <td class="first-appearance">01-04-02-01:2103</td>
-      </tr>
-      <tr>
-        <td><strong>cognition-only</strong> <span class="tibetan">(rnam rig tsam)</span></td>
-        <td class="definition">The Yogācāra view that only consciousness exists.</td>
-        <td class="first-appearance">01-04-02-01:2103</td>
-      </tr>
-    </tbody>
-  </table>
-</section>
+<p class="text-paragraph">4. <strong>Context Sensitivity</strong>: Some terms have different meanings in different contexts (e.g., "awareness" as vidya vs. ordinary awareness). Context should always be clear.</p>
 
-<!-- CHAPTER 8 -->
-<section>
-  <h2>CHAPTER 8: The Seven Views on the Basis</h2>
-  
-  <h3>The Seven Views on the Basis (gshi bdun)</h3>
-  <table>
-    <thead>
-      <tr>
-        <th>Term</th>
-        <th>Definition</th>
-        <th>First Appearance</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td><strong>primordial purity</strong> <span class="tibetan">(ka dag)</span></td>
-        <td class="definition">The view that the basis is empty and pure from the beginning, free from all elaborations.</td>
-        <td class="first-appearance">01-08-01-01:10480</td>
-      </tr>
-      <tr>
-        <td><strong>spontaneous presence</strong> <span class="tibetan">(lhun grub)</span></td>
-        <td class="definition">The view that the basis naturally possesses all enlightened qualities without effort.</td>
-        <td class="first-appearance">01-08-01-01:10481</td>
-      </tr>
-      <tr>
-        <td><strong>uncertainty</strong> <span class="tibetan">(ma nges pa)</span></td>
-        <td class="definition">The view that the basis is indeterminate and cannot be fixed as any one thing.</td>
-        <td class="first-appearance">01-08-01-01:10482</td>
-      </tr>
-      <tr>
-        <td><strong>certainty</strong> <span class="tibetan">(nges pa)</span></td>
-        <td class="definition">The view that the basis is determinate and unchanging in its nature.</td>
-        <td class="first-appearance">01-08-01-01:10483</td>
-      </tr>
-      <tr>
-        <td><strong>changeability</strong> <span class="tibetan">(bsgyur rung)</span></td>
-        <td class="definition">The view that the basis can transform into anything whatsoever.</td>
-        <td class="first-appearance">01-08-01-01:10484</td>
-      </tr>
-      <tr>
-        <td><strong>acceptance of anything</strong> <span class="tibetan">(ci yang rung)</span></td>
-        <td class="definition">The view that the basis accepts and manifests all phenomena without distinction.</td>
-        <td class="first-appearance">01-08-01-01:10485</td>
-      </tr>
-      <tr>
-        <td><strong>multiplicity</strong> <span class="tibetan">(sna tshogs)</span></td>
-        <td class="definition">The view that the basis appears as variegated and manifold without ceasing.</td>
-        <td class="first-appearance">01-08-01-01:10486</td>
-      </tr>
-    </tbody>
-  </table>
+<p class="text-paragraph">5. <strong>Layer-Specific Rendering</strong>: Some terms have different renderings in different layers (e.g., <strong>Lugu Gyud</strong> in literal layer, <strong>Spiral Continuity</strong> in liturgical layer). The glossary documents the base form; context determines the appropriate rendering.</p>
 
-  <h3>Metaphysical Terms</h3>
-  <table>
-    <thead>
-      <tr>
-        <th>Term</th>
-        <th>Definition</th>
-        <th>First Appearance</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td><strong>youth vase body</strong> <span class="tibetan">(gzhon nu bum sku)</span></td>
-        <td class="definition">A metaphor for the basis: youthful (ever-fresh), vase-like (containing qualities), embodied (manifest).</td>
-        <td class="first-appearance">01-08-05-01:10762</td>
-      </tr>
-      <tr>
-        <td><strong>primordial resonance</strong> <span class="tibetan">(ye gdangs)</span></td>
-        <td class="definition">The self-arisen expression of awareness; primordial radiance.</td>
-        <td class="first-appearance">01-08-05-01:10758</td>
-      </tr>
-      <tr>
-        <td><strong>depth clarity</strong> <span class="tibetan">(gting gsal)</span></td>
-        <td class="definition">The inner luminous clarity of awareness.</td>
-        <td class="first-appearance">01-08-05-01:10758</td>
-      </tr>
-      <tr>
-        <td><strong>self-resonance</strong> <span class="tibetan">(rang gdangs)</span></td>
-        <td class="definition">Natural self-expression without external cause.</td>
-        <td class="first-appearance">01-08-07-01:10895</td>
-      </tr>
-      <tr>
-        <td><strong>unobscured</strong> <span class="tibetan">(ma bsgribs)</span></td>
-        <td class="definition">Free from veils or obscurations; naturally clear.</td>
-        <td class="first-appearance">01-08-07-01:10870</td>
-      </tr>
-    </tbody>
-  </table>
+<hr>
 
-  <h3>Tantra Citations</h3>
-  <table>
-    <thead>
-      <tr>
-        <th>Term</th>
-        <th>Definition</th>
-        <th>First Appearance</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td><strong>Thalgyur</strong> <span class="tibetan">(thal 'gyur)</span></td>
-        <td class="definition">The Tantra of the Great Completion; supreme among Dzogchen tantras.</td>
-        <td class="first-appearance">01-08-01-01:10498</td>
-      </tr>
-      <tr>
-        <td><strong>Klong-drug-pa</strong> <span class="tibetan">(klong drug pa)</span></td>
-        <td class="definition">The Six Expanses tantra; important Dzogchen scripture.</td>
-        <td class="first-appearance">01-08-01-01:10509</td>
-      </tr>
-      <tr>
-        <td><strong>Rangshar</strong> <span class="tibetan">(rang shar)</span></td>
-        <td class="definition">The Self-Arisen tantra; key text on spontaneous presence.</td>
-        <td class="first-appearance">01-08-05-01:10761</td>
-      </tr>
-      <tr>
-        <td><strong>Mu-tig-phreng-ba</strong></td>
-        <td class="definition">The Pearl Garland tantra; teaching on primordial purity.</td>
-        <td class="first-appearance">01-08-07-01:11021</td>
-      </tr>
-    </tbody>
-  </table>
-</section>
+<h2 class="section-header">SANSKRIT TERMS IN EWTS (Extended Wylie Transliteration)</h2>
 
-<!-- CHAPTER 14: Wisdom -->
-<section>
-  <h2>CHAPTER 14: Wisdom (Ye Shes)</h2>
-  
-  <h3>Types of Wisdom</h3>
-  <table>
-    <thead>
-      <tr>
-        <th>Term</th>
-        <th>Definition</th>
-        <th>First Appearance</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td><strong>Wisdom of Primordial Purity</strong> <span class="tibetan">(ngo bo ka dag gi ye shes)</span></td>
-        <td class="definition">Wisdom that transcends existence and non-existence, empty and pure from the beginning; first of the three basis-abiding wisdoms.</td>
-        <td class="first-appearance">01-14-04-01:18295</td>
-      </tr>
-      <tr>
-        <td><strong>Wisdom of Spontaneous Perfection</strong> <span class="tibetan">(rang bzhin lhun grub kyi ye shes)</span></td>
-        <td class="definition">Wisdom primordially complete with qualities, naturally manifesting without effort; second basis-abiding wisdom.</td>
-        <td class="first-appearance">01-14-04-01:18316</td>
-      </tr>
-      <tr>
-        <td><strong>Wisdom of All-Pervading Compassion</strong> <span class="tibetan">(thugs rje kun khyab kyi ye shes)</span></td>
-        <td class="definition">Wisdom manifesting as the root force pervading all appearance; third basis-abiding wisdom.</td>
-        <td class="first-appearance">01-14-04-01:18334</td>
-      </tr>
-      <tr>
-        <td><strong>Mirror-like Wisdom</strong> <span class="tibetan">(me long lta bu'i ye shes)</span></td>
-        <td class="definition">Wisdom reflecting all phenomena without distortion; first of the five characteristic-holding wisdoms.</td>
-        <td class="first-appearance">01-14-04-01:18352</td>
-      </tr>
-      <tr>
-        <td><strong>Wisdom of Equality</strong> <span class="tibetan">(mnyam nyid ye shes)</span></td>
-        <td class="definition">Wisdom recognizing all phenomena as equal in emptiness; second characteristic-holding wisdom.</td>
-        <td class="first-appearance">01-14-04-01:18354</td>
-      </tr>
-      <tr>
-        <td><strong>Discriminating Wisdom</strong> <span class="tibetan">(so sor rtog pa'i ye shes)</span></td>
-        <td class="definition">Wisdom distinctly knowing all phenomena without confusion; third characteristic-holding wisdom.</td>
-        <td class="first-appearance">01-14-04-01:18355</td>
-      </tr>
-      <tr>
-        <td><strong>All-Accomplishing Wisdom</strong> <span class="tibetan">(bya grub ye shes)</span></td>
-        <td class="definition">Wisdom effortlessly completing all enlightened activities; fourth characteristic-holding wisdom.</td>
-        <td class="first-appearance">01-14-04-01:18356</td>
-      </tr>
-      <tr>
-        <td><strong>Dharmadhātu Wisdom</strong> <span class="tibetan">(chos dbyings ye shes)</span></td>
-        <td class="definition">Wisdom of the ultimate dimension pervading all phenomena; fifth characteristic-holding wisdom.</td>
-        <td class="first-appearance">01-14-04-01:18352</td>
-      </tr>
-    </tbody>
-  </table>
+<strong>ACQUAINTANCE:</strong> This section documents Sanskrit loanwords as they appear in the Wylie transliteration layer. The Wylie layer uses THL Extended Wylie (EWTS) conventions, which employ capital letters to represent Sanskrit characters not found in standard Tibetan.
 
-  <h3>Technical Terms</h3>
-  <table>
-    <thead>
-      <tr>
-        <th>Term</th>
-        <th>Definition</th>
-        <th>First Appearance</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td><strong>basis-abiding wisdom</strong> <span class="tibetan">(gzhi gnas kyi ye shes)</span></td>
-        <td class="definition">Wisdom that dwells primordially as the ground of all experience.</td>
-        <td class="first-appearance">01-14-04-01:18286</td>
-      </tr>
-      <tr>
-        <td><strong>characteristic-holding wisdom</strong> <span class="tibetan">(mtshan nyid 'dzin pa'i ye shes)</span></td>
-        <td class="definition">Wisdom that apprehends the defining characteristics of phenomena.</td>
-        <td class="first-appearance">01-14-04-01:18287</td>
-      </tr>
-      <tr>
-        <td><strong>wisdom pervading objects</strong> <span class="tibetan">(yul la khyab pa'i ye shes)</span></td>
-        <td class="definition">Wisdom extending to and encompassing all objects of knowledge.</td>
-        <td class="first-appearance">01-14-04-01:18288</td>
-      </tr>
-      <tr>
-        <td><strong>wisdom gathered by knowing</strong> <span class="tibetan">(shes pas bsdus pa'i ye shes)</span></td>
-        <td class="definition">Wisdom that knows the extent of knowable phenomena.</td>
-        <td class="first-appearance">01-14-04-01:18328</td>
-      </tr>
-      <tr>
-        <td><strong>wisdom gathered by objects</strong> <span class="tibetan">(shes byas bsdus pa'i ye shes)</span></td>
-        <td class="definition">Wisdom that distinguishes specific aspects of phenomena.</td>
-        <td class="first-appearance">01-14-04-01:18340</td>
-      </tr>
-    </tbody>
-  </table>
-</section>
+<h3 class="section-header">EWTS Capitalization Conventions</h3>
 
-<!-- Usage Notes -->
-<section class="usage-notes">
-  <h3>Usage Notes</h3>
-  <ol>
-    <li><strong>Capitalization:</strong> Proper names (Buddhas, schools, tantras) are capitalized. Technical terms are lowercase unless they begin sentences.</li>
-    <li><strong>Sanskrit vs. Tibetan:</strong> When available, Sanskrit terms are preferred for Buddhist philosophical concepts (e.g., "dharma" not "chos").</li>
-    <li><strong>Consistency:</strong> Once a term is glossed here, it should be used consistently throughout all translation layers.</li>
-    <li><strong>Context Sensitivity:</strong> Some terms have different meanings in different contexts (e.g., "awareness" as vidya vs. ordinary awareness). Context should always be clear.</li>
-  </ol>
-</section>
+<table class="glossary-table">
+  <thead>
+    <tr>
+      <th>Convention</th>
+      <th>EWTS</th>
+      <th>Represents</th>
+      <th>IAST Equivalent</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>Long vowels</strong></td>
+      <td>A I U</td>
+      <td>ā ī ū</td>
+      <td>ā ī ū</td>
+    </tr>
+    <tr>
+      <td><strong>Retroflex consonants</strong></td>
+      <td>Ta Tha Da Na</td>
+      <td>ṭa ṭha ḍa ṇa</td>
+      <td>ṭa ṭha ḍa ṇa</td>
+    </tr>
+    <tr>
+      <td><strong>Retroflex sibilants</strong></td>
+      <td>Sha</td>
+      <td>śa</td>
+      <td>śa</td>
+    </tr>
+    <tr>
+      <td><strong>Anusvara</strong></td>
+      <td>M</td>
+      <td>ṃ</td>
+      <td>ṃ</td>
+    </tr>
+    <tr>
+      <td><strong>Visarga</strong></td>
+      <td>H</td>
+      <td>ḥ</td>
+      <td>ḥ</td>
+    </tr>
+    <tr>
+      <td><strong>Subscribed letters</strong></td>
+      <td>+</td>
+      <td>stacked/subjoined</td>
+      <td>(varies)</td>
+    </tr>
+  </tbody>
+</table>
 
-<p style="text-align:center; font-style:italic; color:var(--meta-color); margin:2rem 0;">
-  <em>Last Updated: Chapter 4 documentation created</em>
-</p>
+<strong>Reference:</strong> <a href="https://www.thlib.org/reference/transliteration/#!essay=/thl/ewts">THL Extended Wylie Transliteration Scheme</a>
 
-<!-- SANSKRIT TERMS SECTION -->
-<section>
-  <h2>SANSKRIT TERMS IN EWTS (Extended Wylie Transliteration)</h2>
-  
-  <section class="acquaintance">
-    <strong>ACQUAINTANCE:</strong> This section documents Sanskrit loanwords as they appear in the Wylie transliteration layer. The Wylie layer uses THL Extended Wylie (EWTS) conventions, which employ capital letters to represent Sanskrit characters not found in standard Tibetan.
-  </section>
+<h3 class="section-header">Common Sanskrit Terms</h3>
 
-  <h3>EWTS Capitalization Conventions</h3>
-  <table class="ewts-table">
-    <thead>
-      <tr>
-        <th>Convention</th>
-        <th>EWTS</th>
-        <th>Represents</th>
-        <th>IAST Equivalent</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td><strong>Long vowels</strong></td>
-        <td>A I U</td>
-        <td>ā ī ū</td>
-        <td>ā ī ū</td>
-      </tr>
-      <tr>
-        <td><strong>Retroflex consonants</strong></td>
-        <td>Ta Tha Da Na</td>
-        <td>ṭa ṭha ḍa ṇa</td>
-        <td>ṭa ṭha ḍa ṇa</td>
-      </tr>
-      <tr>
-        <td><strong>Retroflex sibilants</strong></td>
-        <td>Sha</td>
-        <td>śa</td>
-        <td>śa</td>
-      </tr>
-      <tr>
-        <td><strong>Anusvara</strong></td>
-        <td>M</td>
-        <td>ṃ</td>
-        <td>ṃ</td>
-      </tr>
-      <tr>
-        <td><strong>Visarga</strong></td>
-        <td>H</td>
-        <td>ḥ</td>
-        <td>ḥ</td>
-      </tr>
-      <tr>
-        <td><strong>Subscribed letters</strong></td>
-        <td>+</td>
-        <td>stacked/subjoined</td>
-        <td>(varies)</td>
-      </tr>
-    </tbody>
-  </table>
-  
-  <p style="font-size:0.9rem; margin:1rem 0;">
-    <strong>Reference:</strong> <a href="https://www.thlib.org/reference/transliteration/#  !essay=/thl/ewts" target="_blank" rel="noopener">THL Extended Wylie Transliteration Scheme</a>
-  </p>
+<table class="glossary-table">
+  <thead>
+    <tr>
+      <th>EWTS</th>
+      <th>IAST</th>
+      <th>Tibetan</th>
+      <th>Meaning</th>
+      <th>Context</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>yA na</td>
+      <td>yāna</td>
+      <td>ཡཱ་ན་</td>
+      <td>vehicle, path</td>
+      <td>nine vehicles (theg pa dgu)</td>
+    </tr>
+    <tr>
+      <td>maN+Dal</td>
+      <td>maṇḍala</td>
+      <td>མཎྜལ་</td>
+      <td>cosmic diagram</td>
+      <td>ritual and cosmological</td>
+    </tr>
+    <tr>
+      <td>shAkya</td>
+      <td>śākya</td>
+      <td>ཤཱཀྱ་</td>
+      <td>Buddha's clan</td>
+      <td>historical Buddha</td>
+    </tr>
+    <tr>
+      <td>hU~M</td>
+      <td>hūṃ</td>
+      <td>ཧཱུྂ་</td>
+      <td>mantra syllable</td>
+      <td>seed syllable of vajra</td>
+    </tr>
+    <tr>
+      <td>phaT</td>
+      <td>phaṭ</td>
+      <td>ཕཊ་</td>
+      <td>mantra syllable</td>
+      <td>wrathful mantra syllable</td>
+    </tr>
+    <tr>
+      <td>kA ya</td>
+      <td>kāya</td>
+      <td>ཀཱ་ཡ་</td>
+      <td>body, dimension</td>
+      <td>three kayas</td>
+    </tr>
+    <tr>
+      <td>DharmakAya</td>
+      <td>dharmakāya</td>
+      <td>ཆོས་སྐུ་</td>
+      <td>truth body</td>
+      <td>dharmakaya</td>
+    </tr>
+    <tr>
+      <td>Samantabhadra</td>
+      <td>samantabhadra</td>
+      <td>ཀུན་ཏུ་བཟང་པོ་</td>
+      <td>primordial Buddha</td>
+      <td>Adi-Buddha</td>
+    </tr>
+    <tr>
+      <td>b+ha ga</td>
+      <td>bhaga</td>
+      <td>བྷ་ག་</td>
+      <td>fortune, glory</td>
+      <td>epithet of Buddha</td>
+    </tr>
+    <tr>
+      <td>badz+ra</td>
+      <td>vajra</td>
+      <td>བཛྲ་</td>
+      <td>diamond, thunderbolt</td>
+      <td>vajra vehicle</td>
+    </tr>
+    <tr>
+      <td>rat+na</td>
+      <td>ratna</td>
+      <td>རཏྣ་</td>
+      <td>jewel, gem</td>
+      <td>three jewels</td>
+    </tr>
+    <tr>
+      <td>pad+ma</td>
+      <td>padma</td>
+      <td>པདྨ་</td>
+      <td>lotus</td>
+      <td>lotus family</td>
+    </tr>
+    <tr>
+      <td>ku mA ra</td>
+      <td>kumāra</td>
+      <td>ཀུ་མཱ་ར་</td>
+      <td>youth, prince</td>
+      <td>name forms</td>
+    </tr>
+    <tr>
+      <td>krI ya</td>
+      <td>kriyā</td>
+      <td>ཀྲི་ཡ་</td>
+      <td>action</td>
+      <td>kriya tantra</td>
+    </tr>
+    <tr>
+      <td>ma hA</td>
+      <td>mahā</td>
+      <td>མ་ཧཱ་</td>
+      <td>great</td>
+      <td>maha-anuyoga</td>
+    </tr>
+    <tr>
+      <td>A nu</td>
+      <td>anu</td>
+      <td>ཨ་ནུ་</td>
+      <td>after, subsequent</td>
+      <td>anuyoga</td>
+    </tr>
+    <tr>
+      <td>yo ga</td>
+      <td>yoga</td>
+      <td>ཡོ་ག་</td>
+      <td>union</td>
+      <td>yogatantra</td>
+    </tr>
+    <tr>
+      <td>gaN+Da</td>
+      <td>gaṇḍa</td>
+      <td>གཎྜ་</td>
+      <td>portion, chapter</td>
+      <td>gaṇḍavyūha</td>
+    </tr>
+    <tr>
+      <td>saM b+ha</td>
+      <td>saṃbha</td>
+      <td>སམྦྷ་</td>
+      <td>together-born</td>
+      <td>sambhogakaya</td>
+    </tr>
+    <tr>
+      <td>AhU~M</td>
+      <td>aḥhūṃ</td>
+      <td>ཨཿཧཱུྂ་</td>
+      <td>mantra syllables</td>
+      <td>combined syllables</td>
+    </tr>
+    <tr>
+      <td>hrIH</td>
+      <td>hrīḥ</td>
+      <td>ཧྲཱིཿ</td>
+      <td>mantra syllable</td>
+      <td>compassion syllable</td>
+    </tr>
+    <tr>
+      <td>oM</td>
+      <td>oṃ</td>
+      <td>ཨོཾ་</td>
+      <td>mantra syllable</td>
+      <td>universal seed syllable</td>
+    </tr>
+    <tr>
+      <td>AH</td>
+      <td>aḥ</td>
+      <td>ཨཿ</td>
+      <td>mantra syllable</td>
+      <td>visarga ending</td>
+    </tr>
+    <tr>
+      <td>ba DU r+ya</td>
+      <td>vaidūrya</td>
+      <td>བཻ་དཱུ་རྱ་</td>
+      <td>lapis lazuli</td>
+      <td>precious substance</td>
+    </tr>
+    <tr>
+      <td>rA ga</td>
+      <td>rāga</td>
+      <td>རཱ་ག་</td>
+      <td>passion, color</td>
+      <td>red gem</td>
+    </tr>
+    <tr>
+      <td>shaM</td>
+      <td>śam</td>
+      <td>ཤམ་</td>
+      <td>peace</td>
+      <td>shamatha</td>
+    </tr>
+    <tr>
+      <td>ka ri</td>
+      <td>kari</td>
+      <td>ཀ་རི་</td>
+      <td>doer, maker</td>
+      <td>place names</td>
+    </tr>
+    <tr>
+      <td>sA lu</td>
+      <td>śālu</td>
+      <td>ཤཱ་ལུ་</td>
+      <td>rice</td>
+      <td>food offering</td>
+    </tr>
+    <tr>
+      <td>in dra nI</td>
+      <td>indrāṇī</td>
+      <td>ཨིནྡྲཱ་ཎཱི་</td>
+      <td>Indra's consort</td>
+      <td>deity name</td>
+    </tr>
+    <tr>
+      <td>va rA Na sI</td>
+      <td>vārāṇasī</td>
+      <td>བཱ་རཱ་ཎ་སཱི་</td>
+      <td>Benares</td>
+      <td>holy city</td>
+    </tr>
+    <tr>
+      <td>ai ND+ra</td>
+      <td>aiṇḍra</td>
+      <td>ཨཻཎྜྲ་</td>
+      <td>of Indra</td>
+      <td>directional</td>
+    </tr>
+    <tr>
+      <td>Ai rA va ta</td>
+      <td>airāvata</td>
+      <td>ཨཻ་རཱ་ཝ་ཏ་</td>
+      <td>elephant king</td>
+      <td>cosmic mountain</td>
+    </tr>
+  </tbody>
+</table>
 
-  <h3>Common Sanskrit Terms</h3>
-  <table class="ewts-table">
-    <thead>
-      <tr>
-        <th>EWTS</th>
-        <th>IAST</th>
-        <th>Tibetan</th>
-        <th>Meaning</th>
-        <th>Context</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr><td>yA na</td><td>yāna</td><td>ཡཱ་ན་</td><td>vehicle, path</td><td>nine vehicles (theg pa dgu)</td></tr>
-      <tr><td>maN+Dal</td><td>maṇḍala</td><td>མཎྜལ་</td><td>cosmic diagram</td><td>ritual and cosmological</td></tr>
-      <tr><td>shAkya</td><td>śākya</td><td>ཤཱཀྱ་</td><td>Buddha's clan</td><td>historical Buddha</td></tr>
-      <tr><td>hU~M</td><td>hūṃ</td><td>ཧཱུྂ་</td><td>mantra syllable</td><td>seed syllable of vajra</td></tr>
-      <tr><td>phaT</td><td>phaṭ</td><td>ཕཊ་</td><td>mantra syllable</td><td>wrathful mantra syllable</td></tr>
-      <tr><td>kA ya</td><td>kāya</td><td>ཀཱ་ཡ་</td><td>body, dimension</td><td>three kayas</td></tr>
-      <tr><td>DharmakAya</td><td>dharmakāya</td><td>ཆོས་སྐུ་</td><td>truth body</td><td>dharmakaya</td></tr>
-      <tr><td>Samantabhadra</td><td>samantabhadra</td><td>ཀུན་ཏུ་བཟང་པོ་</td><td>primordial Buddha</td><td>Adi-Buddha</td></tr>
-      <tr><td>b+ha ga</td><td>bhaga</td><td>བྷ་ག་</td><td>fortune, glory</td><td>epithet of Buddha</td></tr>
-      <tr><td>badz+ra</td><td>vajra</td><td>བཛྲ་</td><td>diamond, thunderbolt</td><td>vajra vehicle</td></tr>
-      <tr><td>rat+na</td><td>ratna</td><td>རཏྣ་</td><td>jewel, gem</td><td>three jewels</td></tr>
-      <tr><td>pad+ma</td><td>padma</td><td>པདྨ་</td><td>lotus</td><td>lotus family</td></tr>
-      <tr><td>ku mA ra</td><td>kumāra</td><td>ཀུ་མཱ་ར་</td><td>youth, prince</td><td>name forms</td></tr>
-      <tr><td>krI ya</td><td>kriyā</td><td>ཀྲི་ཡ་</td><td>action</td><td>kriya tantra</td></tr>
-      <tr><td>ma hA</td><td>mahā</td><td>མ་ཧཱ་</td><td>great</td><td>maha-anuyoga</td></tr>
-      <tr><td>A nu</td><td>anu</td><td>ཨ་ནུ་</td><td>after, subsequent</td><td>anuyoga</td></tr>
-      <tr><td>yo ga</td><td>yoga</td><td>ཡོ་ག་</td><td>union</td><td>yogatantra</td></tr>
-      <tr><td>gaN+Da</td><td>gaṇḍa</td><td>གཎྜ་</td><td>portion, chapter</td><td>gaṇḍavyūha</td></tr>
-      <tr><td>saM b+ha</td><td>saṃbha</td><td>སམྦྷ་</td><td>together-born</td><td>sambhogakaya</td></tr>
-      <tr><td>AhU~M</td><td>aḥhūṃ</td><td>ཨཿཧཱུྂ་</td><td>mantra syllables</td><td>combined syllables</td></tr>
-      <tr><td>hrIH</td><td>hrīḥ</td><td>ཧྲཱིཿ</td><td>mantra syllable</td><td>compassion syllable</td></tr>
-      <tr><td>oM</td><td>oṃ</td><td>ཨོཾ་</td><td>mantra syllable</td><td>universal seed syllable</td></tr>
-      <tr><td>AH</td><td>aḥ</td><td>ཨཿ</td><td>mantra syllable</td><td>visarga ending</td></tr>
-      <tr><td>ba DU r+ya</td><td>vaidūrya</td><td>བཻ་དཱུ་རྱ་</td><td>lapis lazuli</td><td>precious substance</td></tr>
-      <tr><td>rA ga</td><td>rāga</td><td>རཱ་ག་</td><td>passion, color</td><td>red gem</td></tr>
-      <tr><td>shaM</td><td>śam</td><td>ཤམ་</td><td>peace</td><td>shamatha</td></tr>
-      <tr><td>ka ri</td><td>kari</td><td>ཀ་རི་</td><td>doer, maker</td><td>place names</td></tr>
-      <tr><td>sA lu</td><td>śālu</td><td>ཤཱ་ལུ་</td><td>rice</td><td>food offering</td></tr>
-      <tr><td>in dra nI</td><td>indrāṇī</td><td>ཨིནྡྲཱ་ཎཱི་</td><td>Indra's consort</td><td>deity name</td></tr>
-      <tr><td>va rA Na sI</td><td>vārāṇasī</td><td>བཱ་རཱ་ཎ་སཱི་</td><td>Benares</td><td>holy city</td></tr>
-      <tr><td>ai ND+ra</td><td>aiṇḍra</td><td>ཨཻཎྜྲ་</td><td>of Indra</td><td>directional</td></tr>
-      <tr><td>Ai rA va ta</td><td>airāvata</td><td>ཨཻ་རཱ་ཝ་ཏ་</td><td>elephant king</td><td>cosmic mountain</td></tr>
-    </tbody>
-  </table>
+<h3 class="section-header">Extended Wylie Markers</h3>
 
-  <h3>Extended Wylie Markers</h3>
-  <table class="ewts-table">
-    <thead>
-      <tr>
-        <th>Marker</th>
-        <th>Meaning</th>
-        <th>Example</th>
-        <th>IAST</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr><td><strong> ~ </strong></td><td>nasalization/candrabindu</td><td>hU~M</td><td>hūṃ</td></tr>
-      <tr><td><strong> + </strong></td><td>subscribed/stacked letter</td><td>rat+na</td><td>ratna</td></tr>
-      <tr><td><strong> @#/ </strong></td><td>ornamental symbol (yig mgo)</td><td>@#/</td><td>(yig mgo)</td></tr>
-      <tr><td><strong> */ </strong></td><td>closing symbol</td><td>*/</td><td>(shad at line end)</td></tr>
-    </tbody>
-  </table>
+<table class="glossary-table">
+  <thead>
+    <tr>
+      <th>Marker</th>
+      <th>Meaning</th>
+      <th>Example</th>
+      <th>IAST</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong> ~ </strong></td>
+      <td>nasalization/candrabindu</td>
+      <td>hU~M</td>
+      <td>hūṃ</td>
+    </tr>
+    <tr>
+      <td><strong> + </strong></td>
+      <td>subscribed/stacked letter</td>
+      <td>rat+na</td>
+      <td>ratna</td>
+    </tr>
+    <tr>
+      <td><strong> @#/ </strong></td>
+      <td>ornamental symbol (yig mgo)</td>
+      <td>@#/</td>
+      <td>(yig mgo)</td>
+    </tr>
+    <tr>
+      <td><strong> \*/ </strong></td>
+      <td>closing symbol</td>
+      <td>\*/</td>
+      <td>(shad at line end)</td>
+    </tr>
+  </tbody>
+</table>
 
-  <section class="usage-notes">
-    <h3>Usage Notes</h3>
-    <ol>
-      <li><strong>For Scholars:</strong> The Wylie layer maintains EWTS standard throughout. For IAST (academic standard) equivalents, consult this glossary or the Scholar layer analysis.</li>
-      <li><strong>For Practitioners:</strong> Capital letters in Wylie indicate Sanskrit loanwords. They do not affect pronunciation or meaning—simply recognize them as Tibetan renderings of Sanskrit terms.</li>
-      <li><strong>Reversibility:</strong> EWTS maintains 1:1 reversibility with Tibetan Unicode. Converting to IAST would lose this reversibility.</li>
-      <li><strong>Standard:</strong> This project uses THL Extended Wylie as the authoritative standard for transliteration. See THL documentation for complete specification.</li>
-    </ol>
-  </section>
-  
-  <p style="text-align:center; font-style:italic; color:var(--meta-color); margin:2rem 0;">
-    <em>Last Updated: 2026-02-13 - Sanskrit EWTS section added</em>
-  </p>
-</section>
+<h3 class="section-header">Usage Notes</h3>
 
-<!-- Additional Chapters (Condensed for brevity in this example) -->
-<section>
-  <h2>CHAPTER 11: Channels, Winds, and Bindus</h2>
-  
-  <h3>Subtle Body Anatomy</h3>
-  <table>
-    <thead>
-      <tr>
-        <th>Term</th>
-        <th>Definition</th>
-        <th>First Appearance</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td><strong>channel</strong> <span class="tibetan">(rtsa)</span></td>
-        <td class="definition">Subtle energy channels (nāḍī) through which winds circulate; distinct from physical arteries.</td>
-        <td class="first-appearance">01-11-01-01:13704</td>
-      </tr>
-      <tr>
-        <td><strong>wind</strong> <span class="tibetan">(rlung)</span></td>
-        <td class="definition">Vital energy (prāṇa, vāyu); five winds (life, fire, pervasive, upward, downward) support consciousness.</td>
-        <td class="first-appearance">01-11-01-01:13704</td>
-      </tr>
-      <tr>
-        <td><strong>bindu</strong> <span class="tibetan">(thig le)</span></td>
-        <td class="definition">Energy drops or essences; white and red bindus at crown and navel; basis of subtle experience.</td>
-        <td class="first-appearance">01-11-02-01:13843</td>
-      </tr>
-    </tbody>
-  </table>
+<p class="text-paragraph">1. <strong>For Scholars:</strong> The Wylie layer maintains EWTS standard throughout. For IAST (academic standard) equivalents, consult this glossary or the Scholar layer analysis.</p>
 
-  <h3>Practice Terms</h3>
-  <table>
-    <thead>
-      <tr>
-        <th>Term</th>
-        <th>Definition</th>
-        <th>First Appearance</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td><strong>concentration</strong> <span class="tibetan">(ting nge 'dzin)</span></td>
-        <td class="definition">Meditative absorption, samādhi; one-pointed stability of mind.</td>
-        <td class="first-appearance">01-11-03-01:14007</td>
-      </tr>
-      <tr>
-        <td><strong>absorption</strong> <span class="tibetan">(bsdu)</span></td>
-        <td class="definition">Gathering or dissolving; elements absorbing into one another at death.</td>
-        <td class="first-appearance">01-11-04-01:14172</td>
-      </tr>
-    </tbody>
-  </table>
-</section>
+<p class="text-paragraph">2. <strong>For Practitioners:</strong> Capital letters in Wylie indicate Sanskrit loanwords. They do not affect pronunciation or meaning—simply recognize them as Tibetan renderings of Sanskrit terms.</p>
 
-<!-- CHAPTER 14: All-Ground -->
-<section>
-  <h2>CHAPTER 14: All-Ground and Dharmakāya</h2>
-  
-  <h3>Critical Distinctions</h3>
-  <table>
-    <thead>
-      <tr>
-        <th>Term</th>
-        <th>Definition</th>
-        <th>First Appearance</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td><strong>all-ground</strong> <span class="tibetan">(kun gzhi)</span></td>
-        <td class="definition">The ālaya or basis that contains all seeds of samsara; distinct from dharmakāya which is free from all-ground's stains.</td>
-        <td class="first-appearance">01-14-01-01:17361</td>
-      </tr>
-      <tr>
-        <td><strong>suchness</strong> <span class="tibetan">(chos nyid)</span></td>
-        <td class="definition">Dharmatā; reality itself; the nature of phenomena as they are; dharmakāya as suchness-body.</td>
-        <td class="first-appearance">01-14-02-01:17427</td>
-      </tr>
-    </tbody>
-  </table>
-</section>
+<p class="text-paragraph">3. <strong>Reversibility:</strong> EWTS maintains 1:1 reversibility with Tibetan Unicode. Converting to IAST would lose this reversibility.</p>
 
-<!-- CHAPTER 15 -->
-<section>
-  <h2>CHAPTER 15: Winds and Mind</h2>
-  
-  <h3>Elemental and Energetic Terms</h3>
-  <table>
-    <thead>
-      <tr>
-        <th>Term</th>
-        <th>Definition</th>
-        <th>First Appearance</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td><strong>life-wind</strong> <span class="tibetan">(srog rlung)</span></td>
-        <td class="definition">The vital wind that sustains life; located at the heart.</td>
-        <td class="first-appearance">01-15-01-01:9765</td>
-      </tr>
-      <tr>
-        <td><strong>fire-accompanying wind</strong> <span class="tibetan">(me dang mnyam pa'i rlung)</span></td>
-        <td class="definition">Wind associated with digestion and metabolism.</td>
-        <td class="first-appearance">01-15-01-01:9775</td>
-      </tr>
-      <tr>
-        <td><strong>upward-moving wind</strong> <span class="tibetan">(gyen rgyu)</span></td>
-        <td class="definition">Wind that moves upward; speech and respiratory function.</td>
-        <td class="first-appearance">01-15-01-01:9780</td>
-      </tr>
-      <tr>
-        <td><strong>downward-clearing wind</strong></td>
-        <td class="definition">Wind that moves downward; excretion and reproduction.</td>
-        <td class="first-appearance">01-15-01-01:9785</td>
-      </tr>
-      <tr>
-        <td><strong>pervading wind</strong> <span class="tibetan">(khyab byed)</span></td>
-        <td class="definition">Wind that pervades the entire body; movement and circulation.</td>
-        <td class="first-appearance">01-15-01-01:9790</td>
-      </tr>
-    </tbody>
-  </table>
-</section>
+<p class="text-paragraph">4. <strong>Standard:</strong> This project uses THL Extended Wylie as the authoritative standard for transliteration. See THL documentation for complete specification.</p>
 
-<!-- CHAPTERS 17-25 -->
-<section>
-  <h2>CHAPTERS 17-25: Path and Fruition Terms</h2>
-  
-  <h3>Practice and Realization</h3>
-  <table>
-    <thead>
-      <tr>
-        <th>Term</th>
-        <th>Definition</th>
-        <th>First Appearance</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td><strong>empowerment</strong> <span class="tibetan">(dbang)</span></td>
-        <td class="definition">Abhiṣeka; tantric initiation that authorizes practice; four empowerments.</td>
-        <td class="first-appearance">02-17-01-01:9820</td>
-      </tr>
-      <tr>
-        <td><strong>samaya</strong> <span class="tibetan">(dam tshig)</span></td>
-        <td class="definition">Binding pledge or vow; commitment to the path; root and branch samayas.</td>
-        <td class="first-appearance">02-17-01-01:9704</td>
-      </tr>
-      <tr>
-        <td><strong>method</strong> <span class="tibetan">(thabs)</span></td>
-        <td class="definition">Skillful means, upāya; paired with wisdom; skillful means for liberating beings.</td>
-        <td class="first-appearance">02-18-01-01:10441</td>
-      </tr>
-      <tr>
-        <td><strong>wisdom</strong> <span class="tibetan">(shes rab)</span></td>
-        <td class="definition">Prajñā; discernment that realizes emptiness; transcendent wisdom.</td>
-        <td class="first-appearance">02-18-01-01:10441</td>
-      </tr>
-      <tr>
-        <td><strong>mudra</strong> <span class="tibetan">(phyag rgya)</span></td>
-        <td class="definition">Seal, symbolic gesture, consort; four mudras of Dzogchen.</td>
-        <td class="first-appearance">02-18-03-01:10750</td>
-      </tr>
-    </tbody>
-  </table>
+<hr>
 
-  <h3>Liberation and Obscurations</h3>
-  <table>
-    <thead>
-      <tr>
-        <th>Term</th>
-        <th>Definition</th>
-        <th>First Appearance</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td><strong>liberation</strong> <span class="tibetan">(grol ba)</span></td>
-        <td class="definition">Freedom, release; self-liberation (rang grol) recognizes bondage as empty.</td>
-        <td class="first-appearance">02-18-05-01:11021</td>
-      </tr>
-      <tr>
-        <td><strong>obscuration</strong> <span class="tibetan">(sgrib pa)</span></td>
-        <td class="definition">Veil, covering; two obscurations (afflictive and cognitive) obscure the nature.</td>
-        <td class="first-appearance">02-19-01-01:11200</td>
-      </tr>
-      <tr>
-        <td><strong>binding</strong> <span class="tibetan">(bcings pa)</span></td>
-        <td class="definition">Fetter, shackle; samaya as dam ('dam) meaning binding or holding.</td>
-        <td class="first-appearance">02-19-02-01:11370</td>
-      </tr>
-    </tbody>
-  </table>
-</section>
+<h2 class="section-header">APPENDIX: QUALITY METRICS (5th Draft - BYTE RATIOS)</h2>
 
-<!-- BARDO CHAPTERS -->
-<section>
-  <h2>BARDO CHAPTERS (19, 23)</h2>
-  
-  <h3>Intermediate States</h3>
-  <table>
-    <thead>
-      <tr>
-        <th>Term</th>
-        <th>Definition</th>
-        <th>First Appearance</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td><strong>bardo</strong> <span class="tibetan">(bar do)</span></td>
-        <td class="definition">Intermediate state between death and rebirth; also moment-to-moment gaps in this life.</td>
-        <td class="first-appearance">02-19-01-01:11200</td>
-      </tr>
-      <tr>
-        <td><strong>clear light</strong> <span class="tibetan">('od gsal)</span></td>
-        <td class="definition">Luminous clarity; dharmakāya at death; fundamental nature of mind.</td>
-        <td class="first-appearance">02-19-01-01:11250</td>
-      </tr>
-      <tr>
-        <td><strong>dharmatā-bardo</strong> <span class="tibetan">(chos nyid bar do)</span></td>
-        <td class="definition">Bardo of reality itself; displays of sounds, lights, rays.</td>
-        <td class="first-appearance">02-19-02-01:11430</td>
-      </tr>
-      <tr>
-        <td><strong>becoming-bardo</strong> <span class="tibetan">(srid pa bar do)</span></td>
-        <td class="definition">Bardo of becoming; seeking rebirth; karmic visions appear.</td>
-        <td class="first-appearance">02-19-03-01:11600</td>
-      </tr>
-    </tbody>
-  </table>
-</section>
+<h3 class="section-header">Target Byte Ratios for A++ Quality</h3>
 
-<!-- UNIVERSAL TERMS -->
-<section>
-  <h2>UNIVERSAL TERMS (Appearing Throughout)</h2>
-  
-  <h3>Fundamental Concepts</h3>
-  <table>
-    <thead>
-      <tr>
-        <th>Term</th>
-        <th>Definition</th>
-        <th>First Appearance</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td><strong>appearance</strong> <span class="tibetan">(snang ba)</span></td>
-        <td class="definition">Phenomenal display, manifestation; rang snang (self-appearance), snang stong (appearance-emptiness).</td>
-        <td class="first-appearance">01-01-01-01:35</td>
-      </tr>
-      <tr>
-        <td><strong>purity</strong> <span class="tibetan">(dag pa)</span></td>
-        <td class="definition">Pure, cleansed; primordial purity (ka dag), twofold purity (dag pa gnyis).</td>
-        <td class="first-appearance">01-08-05-01:10758</td>
-      </tr>
-      <tr>
-        <td><strong>impure</strong> <span class="tibetan">(ma dag)</span></td>
-        <td class="definition">Impure, defiled; impure perception vs pure perception.</td>
-        <td class="first-appearance">01-08-07-01:10870</td>
-      </tr>
-      <tr>
-        <td><strong>compounded</strong> <span class="tibetan">('dus byas)</span></td>
-        <td class="definition">Conditioned, produced; phenomena arising from causes and conditions.</td>
-        <td class="first-appearance">01-01-01-01:18</td>
-      </tr>
-      <tr>
-        <td><strong>uncompounded</strong> <span class="tibetan">('dus ma byas)</span></td>
-        <td class="definition">Unconditioned, not produced; nirvana is uncompounded.</td>
-        <td class="first-appearance">01-01-01-01:18</td>
-      </tr>
-      <tr>
-        <td><strong>effort</strong> <span class="tibetan">(rtsol)</span></td>
-        <td class="definition">Striving, exertion; effortful practice vs effortless recognition.</td>
-        <td class="first-appearance">02-18-01-01:10441</td>
-      </tr>
-      <tr>
-        <td><strong>prostration</strong> <span class="tibetan">(phyag 'tshal)</span></td>
-        <td class="definition">Homage, reverence; physical and mental homage to enlightened ones.</td>
-        <td class="first-appearance">01-01-01-01:11</td>
-      </tr>
-      <tr>
-        <td><strong>mandala</strong> <span class="tibetan">(dkyil 'khor)</span></td>
-        <td class="definition">Celestial palace, sacred circle; five-family mandala, deity mandalas.</td>
-        <td class="first-appearance">01-01-02-01:587</td>
-      </tr>
-    </tbody>
-  </table>
+<p class="text-paragraph">Quality is measured by <strong>content-to-source byte ratios</strong> - comparing dynamic layer byte counts to Tibetan source byte counts per section.</p>
 
-  <h3>Epithets and Titles</h3>
-  <table>
-    <thead>
-      <tr>
-        <th>Term</th>
-        <th>Definition</th>
-        <th>First Appearance</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td><strong>Sugata</strong> <span class="tibetan">(bde gshegs)</span></td>
-        <td class="definition">Bliss-Gone One; epithet of Buddha who has gone to bliss/blissful liberation.</td>
-        <td class="first-appearance">01-01-01-01:19</td>
-      </tr>
-      <tr>
-        <td><strong>three kayas</strong> <span class="tibetan">(sku gsum)</span></td>
-        <td class="definition">The three dimensions of enlightenment: dharmakāya, sambhogakāya, nirmāṇakāya.</td>
-        <td class="first-appearance">01-01-01-01:17</td>
-      </tr>
-      <tr>
-        <td><strong>trainee</strong> <span class="tibetan">(gdul bya)</span></td>
-        <td class="definition">Disciple, one to be tamed/educated; recipient of teachings.</td>
-        <td class="first-appearance">01-01-01-01:45</td>
-      </tr>
-      <tr>
-        <td><strong>qualities</strong> <span class="tibetan">(yon tan)</span></td>
-        <td class="definition">Virtues, enlightened attributes; the qualities of buddhahood.</td>
-        <td class="first-appearance">01-01-01-01:17</td>
-      </tr>
-      <tr>
-        <td><strong>emanation</strong> <span class="tibetan">(sprul)</span></td>
-        <td class="definition">Manifestation, display; nirmāṇa means emanation.</td>
-        <td class="first-appearance">01-01-01-01:30</td>
-      </tr>
-    </tbody>
-  </table>
+<strong>Reference:</strong> Byte ratio targets at <code>/protocol/byte_ratios.md</code>
 
-  <h3>Technical Compounds</h3>
-  <table>
-    <thead>
-      <tr>
-        <th>Term</th>
-        <th>Definition</th>
-        <th>First Appearance</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td><strong>view-meditation-conduct</strong> <span class="tibetan">(lta sgom spyod)</span></td>
-        <td class="definition">The three aspects of practice: view (understanding), meditation (familiarization), conduct (integration).</td>
-        <td class="first-appearance">01-08-01-01:10472</td>
-      </tr>
-      <tr>
-        <td><strong>cause-and-result</strong> <span class="tibetan">(rgyu 'bras)</span></td>
-        <td class="definition">Causality; causal vehicle (sutra) vs result vehicle (tantra).</td>
-        <td class="first-appearance">01-04-02-01:2567</td>
-      </tr>
-      <tr>
-        <td><strong>vessel-and-contents</strong> <span class="tibetan">(snod bcud)</span></td>
-        <td class="definition">Container world (universe) and contents (sentient beings).</td>
-        <td class="first-appearance">01-02-01-01:712</td>
-      </tr>
-    </tbody>
-  </table>
+<table class="glossary-table">
+  <thead>
+    <tr>
+      <th>Layer</th>
+      <th>Minimum</th>
+      <th>Target</th>
+      <th>Maximum</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Commentary</td>
+      <td>0.6x</td>
+      <td>0.8-1.5x</td>
+      <td>2.0x</td>
+    </tr>
+    <tr>
+      <td>Scholar</td>
+      <td>1.0x</td>
+      <td>1.5-3.0x</td>
+      <td>4.0x</td>
+    </tr>
+    <tr>
+      <td>Delusion</td>
+      <td>0.7x</td>
+      <td>1.4x</td>
+      <td>2.5x</td>
+    </tr>
+    <tr>
+      <td><strong>Epistemic</strong></td>
+      <td><strong>0.4x</strong></td>
+      <td><strong>0.6-1.0x</strong></td>
+      <td><strong>1.5x</strong></td>
+    </tr>
+  </tbody>
+</table>
 
-  <h3>Technical Terms from Literal Layer Review</h3>
-  <table>
-    <thead>
-      <tr>
-        <th>Term</th>
-        <th>Definition</th>
-        <th>First Appearance</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td><strong>vital-point</strong> <span class="tibetan">(gnad)</span></td>
-        <td class="definition">Critical juncture or key point; essential point in subtle body practice.</td>
-        <td class="first-appearance">01-11-02-01:13127</td>
-      </tr>
-      <tr>
-        <td><strong>channel-petal</strong> <span class="tibetan">(rtsa 'dab)</span></td>
-        <td class="definition">Petals of the chakra wheels; subtle energetic structures.</td>
-        <td class="first-appearance">01-11-01-01:13112</td>
-      </tr>
-      <tr>
-        <td><strong>light-body</strong> <span class="tibetan">('od lus)</span></td>
-        <td class="definition">Body of light; form of manifestation in thögal practice.</td>
-        <td class="first-appearance">02-18-01-01:3952</td>
-      </tr>
-      <tr>
-        <td><strong>rigpa-radiance</strong> <span class="tibetan">(rig gdangs)</span></td>
-        <td class="definition">Self-expression or display of awareness; natural manifestation of rigpa.</td>
-        <td class="first-appearance">02-18-01-01:3968</td>
-      </tr>
-      <tr>
-        <td><strong>wind-radiance</strong> <span class="tibetan">(rlung gdangs)</span></td>
-        <td class="definition">Expression or display of prāṇa/wind energy.</td>
-        <td class="first-appearance">02-18-01-01:3967</td>
-      </tr>
-    </tbody>
-  </table>
+<strong>Example:</strong> A section with 50,000 Tibetan bytes needs: - Commentary: 40,000-75,000 bytes (0.8-1.5x byte ratio) - Scholar: 75,000-150,000 bytes (1.5-3.0x byte ratio) - Delusion: 50,000-90,000 bytes (1.0-1.8x optimal, up to 125,000 max/2.5x)
 
-  <h3>Universal Compounds</h3>
-  <table>
-    <thead>
-      <tr>
-        <th>Term</th>
-        <th>Definition</th>
-        <th>First Appearance</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td><strong>view-meditation-conduct</strong> <span class="tibetan">(lta sgom spyod)</span></td>
-        <td class="definition">The three aspects of practice: understanding, familiarization, and integration.</td>
-        <td class="first-appearance">Throughout</td>
-      </tr>
-      <tr>
-        <td><strong>cause-and-result</strong> <span class="tibetan">(rgyu 'bras)</span></td>
-        <td class="definition">Causality; the relationship between causes and their effects.</td>
-        <td class="first-appearance">01-04-02-01:2567</td>
-      </tr>
-      <tr>
-        <td><strong>vessel-and-contents</strong> <span class="tibetan">(snod bcud)</span></td>
-        <td class="definition">The container world (universe) and its contents (sentient beings).</td>
-        <td class="first-appearance">01-02-01-01:712</td>
-      </tr>
-    </tbody>
-  </table>
-</section>
+<h3 class="section-header">Why Byte Ratios vs Line Ratios</h3>
 
-<!-- APPENDIX -->
-<section>
-  <h2>APPENDIX: QUALITY METRICS (5th Draft - BYTE RATIOS)</h2>
-  
-  <h3>Target Byte Ratios for A++ Quality</h3>
-  <p>Quality is measured by <strong>content-to-source byte ratios</strong> - comparing dynamic layer byte counts to Tibetan source byte counts per section.</p>
-  <p><strong>Reference:</strong> Byte ratio targets at <code>/protocol/byte_ratios.md</code></p>
-  
-  <table>
-    <thead>
-      <tr>
-        <th>Layer</th>
-        <th>Minimum</th>
-        <th>Target</th>
-        <th>Maximum</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td>Commentary</td>
-        <td>0.6x</td>
-        <td>0.8-1.5x</td>
-        <td>2.0x</td>
-      </tr>
-      <tr>
-        <td>Scholar</td>
-        <td>1.0x</td>
-        <td>1.5-3.0x</td>
-        <td>4.0x</td>
-      </tr>
-      <tr>
-        <td>Delusion</td>
-        <td>0.7x</td>
-        <td>1.4x</td>
-        <td>2.5x</td>
-      </tr>
-      <tr>
-        <td><strong>Epistemic</strong></td>
-        <td><strong>0.4x</strong></td>
-        <td><strong>0.6-1.0x</strong></td>
-        <td><strong>1.5x</strong></td>
-      </tr>
-    </tbody>
-  </table>
-  
-  <p style="margin:1rem 0;"><strong>Example:</strong> A section with 50,000 Tibetan bytes needs:</p>
-  <ul style="margin-left:1.5rem; margin-bottom:1.5rem;">
-    <li>Commentary: 40,000-75,000 bytes (0.8-1.5x byte ratio)</li>
-    <li>Scholar: 75,000-150,000 bytes (1.5-3.0x byte ratio)</li>
-    <li>Delusion: 50,000-90,000 bytes (1.0-1.8x optimal, up to 125,000 max/2.5x)</li>
-  </ul>
+<p class="text-paragraph">1. <strong>Line counts vary</strong> with formatting (wrapping, paragraph breaks) 2. <strong>Byte counts reflect</strong> actual content density 3. <strong>Small files</strong> (<500 bytes) have extreme line-ratio distortions</p>
 
-  <h3>Why Byte Ratios vs Line Ratios</h3>
-  <ol style="margin-left:1.5rem; margin-bottom:1.5rem;">
-    <li><strong>Line counts vary</strong> with formatting (wrapping, paragraph breaks)</li>
-    <li><strong>Byte counts reflect</strong> actual content density</li>
-    <li><strong>Small files</strong> (&lt;500 bytes) have extreme line-ratio distortions</li>
-  </ol>
+<h3 class="section-header">Validation Commands (BYTE-BASED)</h3>
 
-  <h3>Validation Commands (BYTE-BASED)</h3>
-  <p><strong>Check Commentary byte ratio for a section:</strong></p>
-  <pre style="background:#f5f5f5; padding:0.75rem; border-radius:4px; overflow-x:auto; font-family:monospace; font-size:0.85rem; margin:0.5rem 0 1rem;">
-section="01-01-02-01"
-tib=$(stat -c%s text/frozen/tibetan/${section}.txt)
-comm=$(stat -c%s text/dynamic/commentary/${section}.txt)
-echo "Byte Ratio: $(echo "scale=2; $comm/$tib" | bc)"</pre>
+<strong>Check Commentary byte ratio for a section:</strong>
+<pre class="code-block"><code class="language-bash">section="01-01-02-01"
+<p class="text-paragraph">tib=$(stat -c%s text/frozen/tibetan/${section}.txt) comm=$(stat -c%s text/dynamic/commentary/${section}.txt) echo "Byte Ratio: $(echo "scale=2; $comm/$tib" | bc)"</p>
+</code></pre>
 
-  <p><strong>Find all Commentary sections below minimum (byte ratios):</strong></p>
-  <pre style="background:#f5f5f5; padding:0.75rem; border-radius:4px; overflow-x:auto; font-family:monospace; font-size:0.85rem; margin:0.5rem 0 1.5rem;">
-cd text
-for f in frozen/tibetan/*.txt; do
-  section=$(basename $f .txt)
-  tib=$(stat -c%s $f)
-  comm=$(stat -c%s dynamic/commentary/${section}.txt 2>/dev/null || echo "0")
-  ratio=$(echo "scale=2; $comm/$tib" | bc 2>/dev/null || echo "0")
-  if (( $(echo "$ratio > 0 && $ratio < 0.6" | bc -l) )); then
-    echo "EXPAND: $section (Tib=$tib Comm=$comm ByteRatio=${ratio}x)"
-  fi
-done</pre>
+<strong>Find all Commentary sections below minimum (byte ratios):</strong>
+<pre class="code-block"><code class="language-bash">cd text
+<p class="text-paragraph">for f in frozen/tibetan/*.txt; do section=$(basename $f .txt) tib=$(stat -c%s $f) comm=$(stat -c%s dynamic/commentary/${section}.txt 2>/dev/null || echo "0") ratio=$(echo "scale=2; $comm/$tib" | bc 2>/dev/null || echo "0") if (( $(echo "$ratio > 0 && $ratio < 0.6" | bc -l) )); then echo "EXPAND: $section (Tib=$tib Comm=$comm ByteRatio=${ratio}x)" fi done</p>
+</code></pre>
 
-  <h3>Quality Tiers (Byte Ratios)</h3>
-  <table>
-    <thead>
-      <tr>
-        <th>Tier</th>
-        <th>Commentary Byte Ratio</th>
-        <th>Action Required</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr><td>Disaster</td><td>&lt;0.3x</td><td>300-500% expansion</td></tr>
-      <tr><td>Critical</td><td>0.3-0.5x</td><td>100-200% expansion</td></tr>
-      <tr><td>Low</td><td>0.5-0.7x</td><td>50-100% expansion</td></tr>
-      <tr><td>Good</td><td>0.7-1.2x</td><td>Polish</td></tr>
-      <tr><td>Excellent</td><td>&gt;1.2x</td><td>A++ Standard</td></tr>
-    </tbody>
-  </table>
+<h3 class="section-header">Quality Tiers (Byte Ratios)</h3>
 
-  <h3>Section ID Format</h3>
-  <p>Sections use <strong>VV-CC-SS-SS</strong> format:</p>
-  <ul style="margin-left:1.5rem; margin-bottom:1rem;">
-    <li><strong>VV:</strong> Volume (01 or 02)</li>
-    <li><strong>CC:</strong> Chapter (01-25)</li>
-    <li><strong>SS:</strong> Section number (01-20+)</li>
-    <li><strong>SS:</strong> Subsection (01, 02, etc.)</li>
-  </ul>
-  <p><strong>Example:</strong> <code>01-04-12-01</code> = Volume 1, Chapter 4, Section 12, Subsection 1</p>
-</section>
+<table class="glossary-table">
+  <thead>
+    <tr>
+      <th>Tier</th>
+      <th>Commentary Byte Ratio</th>
+      <th>Action Required</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Disaster</td>
+      <td><0.3x</td>
+      <td>300-500% expansion</td>
+    </tr>
+    <tr>
+      <td>Critical</td>
+      <td>0.3-0.5x</td>
+      <td>100-200% expansion</td>
+    </tr>
+    <tr>
+      <td>Low</td>
+      <td>0.5-0.7x</td>
+      <td>50-100% expansion</td>
+    </tr>
+    <tr>
+      <td>Good</td>
+      <td>0.7-1.2x</td>
+      <td>Polish</td>
+    </tr>
+    <tr>
+      <td>Excellent</td>
+      <td>>1.2x</td>
+      <td>A++ Standard</td>
+    </tr>
+  </tbody>
+</table>
 
-<footer>
-  <em>Last Updated: 2026-02-15 - Byte-ratio quality metrics (more accurate than line ratios)</em>
-</footer>
+<h3 class="section-header">Section ID Format</h3>
 
+<p class="text-paragraph">Sections use VV-CC-SS-SS format: - <strong>VV:</strong> Volume (01 or 02) - <strong>CC:</strong> Chapter (01-25) - <strong>SS:</strong> Section number (01-20+) - <strong>SS:</strong> Subsection (01, 02, etc.)</p>
+
+<p class="text-paragraph">Example: <code>01-04-12-01</code> = Volume 1, Chapter 4, Section 12, Subsection 1</p>
+
+<hr>
+
+<em>Last Updated: 2026-02-18 - Alphabetical reorganization complete</em>
+
+<hr>
+
+    </div>
 </body>
 </html>

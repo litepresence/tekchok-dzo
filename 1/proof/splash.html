@@ -1,260 +1,385 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Treasury of the Supreme Vehicle — 9 Layers</title>
     <meta name="generator" content="Layer Splash Page">
-    
     <style>
-        :root {
-            --font-main: 'Georgia', 'Times New Roman', serif;
-            --font-mono: 'Consolas', 'Courier New', monospace;
-            --color-bg: #fafafa;
-            --color-text: #1a1a1a;
-            --color-muted: #666;
-            --color-tibetan: #2c5f7f;
-            --color-wylie: #5d4037;
-            --color-literal: #2e7d32;
-            --color-liturgical: #6a1b9a;
-            --color-commentary: #f57c00;
-            --color-scholar: #00838f;
-            --color-epistemic: #ad1457;
-            --color-delusion: #c62828;
-            --color-cognitive: #455a64;
-            --color-contents: #37474f;
+    :root {
+        --font-main: 'Georgia', 'Times New Roman', serif;
+        --font-mono: 'Consolas', 'Courier New', monospace;
+        /* Light mode */
+        --color-bg: #fafafa;
+        --color-bg-secondary: #fff;
+        --color-bg-tertiary: #f5f5f5;
+        --color-text: #1a1a1a;
+        --color-muted: #666;
+        --color-border: #ddd;
+        --color-shadow: rgba(0, 0, 0, 0.1);
+        --color-nav-bg: #fff;
+        --color-nav-border: #ddd;
+        --color-toggle-bg: #fff;
+        --color-toggle-text: #333;
+        --color-toggle-border: #999;
+        --color-toggle-hover: #eee;
+        /* Layer colors */
+        --color-tibetan: #2c5f7f;
+        --color-wylie: #5d4037;
+        --color-literal: #2e7d32;
+        --color-liturgical: #6a1b9a;
+        --color-commentary: #f57c00;
+        --color-scholar: #00838f;
+        --color-epistemic: #ad1457;
+        --color-delusion: #c62828;
+        --color-cognitive: #455a64;
+        --color-glossary: #77d3ff;
+        --color-contents: #37474f;
+    }
+
+    /* Dark mode variable overrides */
+    body.dark-mode {
+        --color-bg: #1a1a1a;
+        --color-bg-secondary: #2d2d2d;
+        --color-bg-tertiary: #3a3a3a;
+        --color-text: #f0f0f0;
+        --color-muted: #aaa;
+        --color-border: #444;
+        --color-shadow: rgba(0, 0, 0, 0.4);
+        --color-nav-bg: #1e1e1e;
+        --color-nav-border: #444;
+        --color-toggle-bg: #333;
+        --color-toggle-text: #fff;
+        --color-toggle-border: #666;
+        --color-toggle-hover: #444;
+    }
+
+    * {
+        box-sizing: border-box;
+    }
+
+    html,
+    body {
+        height: 100%;
+        margin: 0;
+        padding: 0;
+    }
+
+    body {
+        font-family: var(--font-main);
+        color: var(--color-text);
+        line-height: 1.6;
+        background: var(--color-bg);
+        transition: background-color 0.3s ease, color 0.3s ease;
+        display: flex;
+        flex-direction: column;
+    }
+
+    /* Navigation */
+    .nav-container {
+        position: sticky;
+        top: 0;
+        background: var(--color-nav-bg);
+        border-bottom: 2px solid var(--color-nav-border);
+        z-index: 1000;
+        padding: 0.5em 1em;
+        box-shadow: 0 2px 4px var(--color-shadow);
+        transition: background-color 0.3s ease, border-color 0.3s ease;
+        flex-shrink: 0;
+    }
+
+    .nav-tabs {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 0.25em;
+        justify-content: center;
+        align-items: center;
+        max-width: 1200px;
+        margin: 0 auto;
+    }
+
+    .nav-divider {
+        width: 1px;
+        height: 24px;
+        background: var(--color-border);
+        margin: 0 0.5em;
+    }
+
+    .dark-mode-toggle {
+        margin-left: auto;
+        padding: 0.4em 0.8em;
+        border: 1px solid var(--color-toggle-border);
+        border-radius: 4px;
+        background: var(--color-toggle-bg);
+        color: var(--color-toggle-text);
+        font-size: 0.8em;
+        cursor: pointer;
+        transition: all 0.2s ease;
+    }
+
+    .dark-mode-toggle:hover {
+        background: var(--color-toggle-hover);
+    }
+
+    .nav-tab {
+        padding: 0.5em 1em 0.5em 1.8em;
+        border: none;
+        border-radius: 999px;
+        font-family: var(--font-main);
+        font-size: 0.85em;
+        cursor: pointer;
+        text-decoration: none;
+        color: #fff;
+        transition: all 0.2s ease;
+        white-space: nowrap;
+        position: relative;
+    }
+
+    .nav-tab::before {
+        content: '';
+        position: absolute;
+        left: 10px;
+        top: 50%;
+        transform: translateY(-50%);
+        width: 8px;
+        height: 8px;
+        border: 2px solid rgba(255,255,255,0.5);
+        border-radius: 50%;
+        transition: all 0.2s ease;
+    }
+
+    .nav-tab:hover {
+        transform: translateY(-1px);
+        box-shadow: 0 2px 8px rgba(0, 0, 0, 0.2);
+    }
+
+    .nav-tab.active::before {
+        background: #fff;
+        border-color: #fff;
+    }
+
+    .nav-tab.active {
+        box-shadow: inset 0 2px 8px rgba(0, 0, 0, 0.3), 0 0 0 2px rgba(255,255,255,0.4);
+        font-weight: bold;
+    }
+
+    .nav-tab.contents {
+        background: var(--color-contents);
+        border-radius: 4px;
+        padding: 0.5em 1em;
+    }
+
+    .nav-tab.contents::before {
+        display: none;
+    }
+
+    .nav-tab.contents.active {
+        box-shadow: inset 0 2px 4px rgba(0, 0, 0, 0.2);
+    }
+
+    .nav-tab.tibetan {
+        background: var(--color-tibetan);
+    }
+
+    .nav-tab.wylie {
+        background: var(--color-wylie);
+    }
+
+    .nav-tab.literal {
+        background: var(--color-literal);
+    }
+
+    .nav-tab.liturgical {
+        background: var(--color-liturgical);
+    }
+
+    .nav-tab.commentary {
+        background: var(--color-commentary);
+    }
+
+    .nav-tab.scholar {
+        background: var(--color-scholar);
+    }
+
+    .nav-tab.epistemic {
+        background: var(--color-epistemic);
+    }
+
+    .nav-tab.delusion {
+        background: var(--color-delusion);
+    }
+
+    .nav-tab.cognitive {
+        background: var(--color-cognitive);
+    }
+
+    .nav-tab.glossary {
+        background: var(--color-glossary);
+    }
+
+    /* Content Area - Flex layout for viewport height */
+    .content-container {
+        flex: 1;
+        display: flex;
+        flex-direction: column;
+        overflow: hidden;
+    }
+
+    .layer-content {
+        display: none;
+        flex: 1;
+        flex-direction: column;
+        height: 100%;
+    }
+
+    .layer-content.active {
+        display: flex;
+    }
+
+    /* Layer header */
+    .layer-header {
+        background: linear-gradient(135deg, var(--color-bg-tertiary) 0%, var(--color-bg-secondary) 100%);
+        padding: 1.5em;
+        border-bottom: 1px solid var(--color-border);
+        text-align: center;
+        flex-shrink: 0;
+        transition: background 0.3s ease, border-color 0.3s ease;
+    }
+
+    .layer-header h1 {
+        margin: 0;
+        font-size: 1.5em;
+        font-variant: small-caps;
+        letter-spacing: 2px;
+        color: var(--color-text);
+    }
+
+    .layer-header .subtitle {
+        color: var(--color-muted);
+        font-style: italic;
+        margin-top: 0.5em;
+    }
+
+    /* Iframe wrapper - eliminates double scrollbars */
+    .iframe-wrapper {
+        flex: 1;
+        overflow: hidden;
+        position: relative;
+    }
+
+    .layer-frame {
+        flex: 1;
+        width: 100%;
+        height: 100%;
+        border: none;
+        display: block;
+    }
+
+    /* Line indicator */
+    .line-indicator {
+        position: fixed;
+        bottom: 20px;
+        right: 20px;
+        background: rgba(0, 0, 0, 0.8);
+        color: #fff;
+        padding: 0.75em 1em;
+        border-radius: 4px;
+        font-family: var(--font-mono);
+        font-size: 0.85em;
+        z-index: 1001;
+        display: none;
+        max-width: 300px;
+        box-shadow: 0 4px 12px rgba(0, 0, 0, 0.3);
+    }
+
+    .line-indicator.visible {
+        display: block;
+        animation: fadeIn 0.3s ease;
+    }
+
+    @keyframes fadeIn {
+        from {
+            opacity: 0;
+            transform: translateY(10px);
         }
 
-        * {
-            box-sizing: border-box;
+        to {
+            opacity: 1;
+            transform: translateY(0);
         }
+    }
 
-        body {
-            font-family: var(--font-main);
-            color: var(--color-text);
-            line-height: 1.6;
-            margin: 0;
-            padding: 0;
-            background: var(--color-bg);
-        }
+    /* Welcome screen */
+    .welcome-screen {
+        text-align: center;
+        padding: 4em 2em;
+        background: var(--color-bg-secondary);
+        flex: 1;
+        display: none;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        transition: background-color 0.3s ease;
+    }
 
-        /* Navigation */
-        .nav-container {
-            position: sticky;
-            top: 0;
-            background: #fff;
-            border-bottom: 2px solid #ddd;
-            z-index: 1000;
-            padding: 0.5em 1em;
-            box-shadow: 0 2px 4px rgba(0,0,0,0.1);
-        }
+    .welcome-screen h1 {
+        font-size: 2.5em;
+        color: var(--color-tibetan);
+        margin-bottom: 0.5em;
+    }
 
+    .welcome-screen .subtitle {
+        font-size: 1.2em;
+        color: var(--color-muted);
+        margin-bottom: 2em;
+    }
+
+    .welcome-screen .description {
+        max-width: 600px;
+        margin: 0 auto;
+        text-align: left;
+        color: var(--color-text);
+    }
+
+    .welcome-screen .description p {
+        margin-bottom: 1em;
+    }
+
+    @media (max-width: 768px) {
         .nav-tabs {
-            display: flex;
-            flex-wrap: wrap;
-            gap: 0.25em;
-            justify-content: center;
-            align-items: center;
-            max-width: 1200px;
-            margin: 0 auto;
-        }
-
-        .dark-mode-toggle {
-            margin-left: auto;
-            padding: 0.4em 0.8em;
-            border: 1px solid #999;
-            border-radius: 4px;
-            background: #fff;
-            color: #333;
-            font-size: 0.8em;
-            cursor: pointer;
-            transition: all 0.2s ease;
-        }
-
-        .dark-mode-toggle:hover {
-            background: #eee;
-        }
-
-        body.dark-mode {
-            filter: invert(1) hue-rotate(180deg);
-        }
-
-        body.dark-mode .nav-container {
-            background: #111;
-            border-bottom-color: #444;
-        }
-
-        body.dark-mode .dark-mode-toggle {
-            background: #333;
-            color: #fff;
-            border-color: #666;
+            gap: 0.15em;
         }
 
         .nav-tab {
-            padding: 0.5em 1em;
-            border: none;
-            border-radius: 4px;
-            font-family: var(--font-main);
-            font-size: 0.85em;
-            cursor: pointer;
-            text-decoration: none;
-            color: #fff;
-            transition: all 0.2s ease;
-            white-space: nowrap;
+            padding: 0.4em 0.6em 0.4em 1.4em;
+            font-size: 0.75em;
         }
 
-        .nav-tab:hover {
-            transform: translateY(-1px);
-            box-shadow: 0 2px 8px rgba(0,0,0,0.2);
+        .nav-tab::before {
+            left: 6px;
+            width: 6px;
+            height: 6px;
         }
 
-        .nav-tab.active {
-            box-shadow: inset 0 2px 4px rgba(0,0,0,0.2);
-            transform: translateY(1px);
+        .nav-tab.contents {
+            padding: 0.4em 0.6em;
         }
 
-        .nav-tab.contents { background: var(--color-contents); }
-        .nav-tab.tibetan { background: var(--color-tibetan); }
-        .nav-tab.wylie { background: var(--color-wylie); }
-        .nav-tab.literal { background: var(--color-literal); }
-        .nav-tab.liturgical { background: var(--color-liturgical); }
-        .nav-tab.commentary { background: var(--color-commentary); }
-        .nav-tab.scholar { background: var(--color-scholar); }
-        .nav-tab.epistemic { background: var(--color-epistemic); }
-        .nav-tab.delusion { background: var(--color-delusion); }
-        .nav-tab.cognitive { background: var(--color-cognitive); }
-
-        /* Content Area */
-        .content-container {
-            max-width: 100%;
-            margin: 0;
-            padding: 0;
+        .nav-divider {
+            height: 18px;
+            margin: 0 0.25em;
         }
-
-        .layer-content {
-            display: none;
-            min-height: 100vh;
-        }
-
-        .layer-content.active {
-            display: block;
-        }
-
-        /* Header for each layer */
-        .layer-header {
-            background: linear-gradient(135deg, #f5f5f5 0%, #e8e8e8 100%);
-            padding: 1.5em;
-            border-bottom: 1px solid #ddd;
-            text-align: center;
-        }
-
-        .layer-header h1 {
-            margin: 0;
-            font-size: 1.5em;
-            font-variant: small-caps;
-            letter-spacing: 2px;
-        }
-
-        .layer-header .subtitle {
-            color: var(--color-muted);
-            font-style: italic;
-            margin-top: 0.5em;
-        }
-
-        /* Layer iframe styling */
-        .layer-frame {
-            width: 100%;
-            min-height: 100vh;
-            border: none;
-            display: block;
-        }
-
-        /* Line indicator */
-        .line-indicator {
-            position: fixed;
-            bottom: 20px;
-            right: 20px;
-            background: rgba(0,0,0,0.8);
-            color: #fff;
-            padding: 0.75em 1em;
-            border-radius: 4px;
-            font-family: var(--font-mono);
-            font-size: 0.85em;
-            z-index: 1001;
-            display: none;
-            max-width: 300px;
-            box-shadow: 0 4px 12px rgba(0,0,0,0.3);
-        }
-
-        .line-indicator.visible {
-            display: block;
-            animation: fadeIn 0.3s ease;
-        }
-
-        @keyframes fadeIn {
-            from { opacity: 0; transform: translateY(10px); }
-            to { opacity: 1; transform: translateY(0); }
-        }
-
-        /* URL hash handling */
-        .nav-tab[href="#contents"] { background: var(--color-contents); }
-        .nav-tab[href="#tibetan"] { background: var(--color-tibetan); }
-        .nav-tab[href="#wylie"] { background: var(--color-wylie); }
-        .nav-tab[href="#literal"] { background: var(--color-literal); }
-        .nav-tab[href="#liturgical"] { background: var(--color-liturgical); }
-        .nav-tab[href="#commentary"] { background: var(--color-commentary); }
-        .nav-tab[href="#scholar"] { background: var(--color-scholar); }
-        .nav-tab[href="#epistemic"] { background: var(--color-epistemic); }
-        .nav-tab[href="#delusion"] { background: var(--color-delusion); }
-        .nav-tab[href="#cognitive"] { background: var(--color-cognitive); }
-
-        /* Welcome screen */
-        .welcome-screen {
-            text-align: center;
-            padding: 4em 2em;
-            background: #fff;
-        }
-
-        .welcome-screen h1 {
-            font-size: 2.5em;
-            color: var(--color-tibetan);
-            margin-bottom: 0.5em;
-        }
-
-        .welcome-screen .subtitle {
-            font-size: 1.2em;
-            color: var(--color-muted);
-            margin-bottom: 2em;
-        }
-
-        .welcome-screen .description {
-            max-width: 600px;
-            margin: 0 auto;
-            text-align: left;
-            color: var(--color-text);
-        }
-
-        .welcome-screen .description p {
-            margin-bottom: 1em;
-        }
-
-        /* Mobile adjustments */
-        @media (max-width: 768px) {
-            .nav-tabs {
-                gap: 0.15em;
-            }
-            .nav-tab {
-                padding: 0.4em 0.6em;
-                font-size: 0.75em;
-            }
-        }
+    }
     </style>
 </head>
+
 <body>
     <!-- Navigation -->
     <nav class="nav-container">
         <div class="nav-tabs">
             <a href="#contents" class="nav-tab contents">Contents</a>
+            <span class="nav-divider"></span>
             <a href="#tibetan" class="nav-tab tibetan">Tibetan</a>
             <a href="#wylie" class="nav-tab wylie">Wylie</a>
             <a href="#literal" class="nav-tab literal">Literal</a>
@@ -264,24 +389,22 @@
             <a href="#epistemic" class="nav-tab epistemic">Epistemic</a>
             <a href="#delusion" class="nav-tab delusion">Delusion</a>
             <a href="#cognitive" class="nav-tab cognitive">Cognitive</a>
+            <a href="#glossary" class="nav-tab glossary">Glossary</a>
             <button class="dark-mode-toggle" onclick="toggleDarkMode()">Dark</button>
         </div>
     </nav>
-
     <!-- Welcome Screen -->
     <div id="welcome" class="welcome-screen">
         <h1>Treasury of the Supreme Vehicle</h1>
         <div class="subtitle">ཐེག་པའི་མཆོག་རིན་པོ་ཆེའི་མཛོད</div>
         <div class="description">
-            <p>Welcome to the nine-layer translation of Longchen Rabjampa's masterpiece. 
-            This interface provides access to parallel views of the text across multiple 
-            interpretive layers.</p>
-            
-            <p><strong>Click any tab above</strong> to explore that layer. When viewing 
-            Tibetan and Wylie layers, switching between them preserves your scroll 
-            position by line number. For later layers (Commentary through Cognitive), 
-            the system finds the nearest matching line range.</p>
-            
+            <p>Welcome to the nine-layer translation of Longchen Rabjampa's masterpiece.
+                This interface provides access to parallel views of the text across multiple
+                interpretive layers.</p>
+            <p><strong>Click any tab above</strong> to explore that layer. When viewing
+                Tibetan and Wylie layers, switching between them preserves your scroll
+                position by line number. For later layers (Commentary through Cognitive),
+                the system finds the nearest matching line range.</p>
             <p>Each layer represents a different aspect of the translation:</p>
             <ul>
                 <li><strong>Tibetan</strong> — Original Tibetan text</li>
@@ -296,323 +419,382 @@
             </ul>
         </div>
     </div>
-
     <!-- Content Container -->
     <div class="content-container">
-        <!-- Contents -->
+        <!-- Each layer now wraps iframe in .iframe-wrapper -->
         <div id="contents" class="layer-content">
             <div class="layer-header">
                 <h1>Table of Contents</h1>
                 <div class="subtitle">Treasury of the Supreme Vehicle</div>
             </div>
-            <iframe class="layer-frame" data-src="html/contents_proof.html"></iframe>
+            <div class="iframe-wrapper">
+                
+                <iframe class="layer-frame" data-src="html/contents_proof.html" scrolling="auto"></iframe>
+            </div>
         </div>
-
-        <!-- Tibetan -->
         <div id="tibetan" class="layer-content">
             <div class="layer-header">
                 <h1>Tibetan</h1>
                 <div class="subtitle">Original Tibetan Text · ཡིག་གཟུགས</div>
             </div>
-            <iframe class="layer-frame" data-src="html/tibetan_proof.html"></iframe>
+            <div class="iframe-wrapper">
+                
+                <iframe class="layer-frame" data-src="html/tibetan_proof.html" scrolling="auto"></iframe>
+            </div>
         </div>
-
-        <!-- Wylie -->
         <div id="wylie" class="layer-content">
             <div class="layer-header">
                 <h1>Wylie</h1>
                 <div class="subtitle">Tibetan Transliteration</div>
             </div>
-            <iframe class="layer-frame" data-src="html/wylie_proof.html"></iframe>
+            <div class="iframe-wrapper">
+                
+                <iframe class="layer-frame" data-src="html/wylie_proof.html" scrolling="auto"></iframe>
+            </div>
         </div>
-
-        <!-- Literal -->
         <div id="literal" class="layer-content">
             <div class="layer-header">
                 <h1>Literal</h1>
                 <div class="subtitle">Word-by-Word Translation</div>
             </div>
-            <iframe class="layer-frame" data-src="html/literal_proof.html"></iframe>
+            <div class="iframe-wrapper">
+                
+                <iframe class="layer-frame" data-src="html/literal_proof.html" scrolling="auto"></iframe>
+            </div>
         </div>
-
-        <!-- Liturgical -->
         <div id="liturgical" class="layer-content">
             <div class="layer-header">
                 <h1>Liturgical</h1>
                 <div class="subtitle">Poetic Chant Version</div>
             </div>
-            <iframe class="layer-frame" data-src="html/liturgical_proof.html"></iframe>
+            <div class="iframe-wrapper">
+                
+                <iframe class="layer-frame" data-src="html/liturgical_proof.html" scrolling="auto"></iframe>
+            </div>
         </div>
-
-        <!-- Commentary -->
         <div id="commentary" class="layer-content">
             <div class="layer-header">
                 <h1>Commentary</h1>
                 <div class="subtitle">Philosophical Interpretation</div>
             </div>
-            <iframe class="layer-frame" data-src="html/commentary_proof.html"></iframe>
+            <div class="iframe-wrapper">
+                
+                <iframe class="layer-frame" data-src="html/commentary_proof.html" scrolling="auto"></iframe>
+            </div>
         </div>
-
-        <!-- Scholar -->
         <div id="scholar" class="layer-content">
             <div class="layer-header">
                 <h1>Scholar</h1>
                 <div class="subtitle">Academic Analysis</div>
             </div>
-            <iframe class="layer-frame" data-src="html/scholar_proof.html"></iframe>
+            <div class="iframe-wrapper">
+                
+                <iframe class="layer-frame" data-src="html/scholar_proof.html" scrolling="auto"></iframe>
+            </div>
         </div>
-
-        <!-- Epistemic -->
         <div id="epistemic" class="layer-content">
             <div class="layer-header">
                 <h1>Epistemic</h1>
                 <div class="subtitle">View &amp; Pedagogy Layers</div>
             </div>
-            <iframe class="layer-frame" data-src="html/epistemic_proof.html"></iframe>
+            <div class="iframe-wrapper">
+                
+                <iframe class="layer-frame" data-src="html/epistemic_proof.html" scrolling="auto"></iframe>
+            </div>
         </div>
-
-        <!-- Delusion -->
         <div id="delusion" class="layer-content">
             <div class="layer-header">
                 <h1>Delusion</h1>
                 <div class="subtitle">Error Analysis</div>
             </div>
-            <iframe class="layer-frame" data-src="html/delusion_proof.html"></iframe>
+            <div class="iframe-wrapper">
+                
+                <iframe class="layer-frame" data-src="html/delusion_proof.html" scrolling="auto"></iframe>
+            </div>
         </div>
-
-        <!-- Cognitive -->
         <div id="cognitive" class="layer-content">
             <div class="layer-header">
                 <h1>Cognitive</h1>
                 <div class="subtitle">Technical Annotations</div>
             </div>
-            <iframe class="layer-frame" data-src="html/cognitive_proof.html"></iframe>
+            <div class="iframe-wrapper">
+                
+                <iframe class="layer-frame" data-src="html/cognitive_proof.html" scrolling="auto"></iframe>
+            </div>
+        </div>
+        <div id="glossary" class="layer-content">
+            <div class="layer-header">
+                <h1>Glossary</h1>
+                <div class="subtitle">Glossary of Terms</div>
+            </div>
+            <div class="iframe-wrapper">
+                
+                <iframe class="layer-frame" data-src="html/glossary.html" scrolling="auto"></iframe>
+            </div>
         </div>
     </div>
-
     <!-- Line Indicator -->
     <div id="line-indicator" class="line-indicator"></div>
-
     <script>
-        // Layer configuration
-        const layers = {
-            'contents': { exactMatch: false, hasRanges: false },
-            'tibetan': { exactMatch: true, hasRanges: false },
-            'wylie': { exactMatch: true, hasRanges: false },
-            'literal': { exactMatch: true, hasRanges: false },
-            'liturgical': { exactMatch: true, hasRanges: false },
-            'commentary': { exactMatch: false, hasRanges: true },
-            'scholar': { exactMatch: false, hasRanges: true },
-            'epistemic': { exactMatch: false, hasRanges: true },
-            'delusion': { exactMatch: false, hasRanges: true },
-            'cognitive': { exactMatch: false, hasRanges: true }
-        };
+    const layers = {
+        'contents': { exactMatch: false, hasRanges: false },
+        'tibetan': { exactMatch: true, hasRanges: false },
+        'wylie': { exactMatch: true, hasRanges: false },
+        'literal': { exactMatch: true, hasRanges: false },
+        'liturgical': { exactMatch: true, hasRanges: false },
+        'commentary': { exactMatch: false, hasRanges: true },
+        'scholar': { exactMatch: false, hasRanges: true },
+        'epistemic': { exactMatch: false, hasRanges: true },
+        'delusion': { exactMatch: false, hasRanges: true },
+        'cognitive': { exactMatch: false, hasRanges: true },
+        'glossary': { exactMatch: false, hasRanges: true }
+    };
 
-        // State
         let currentLayer = null;
         let currentLine = null;
-        let isLoading = false;
-
-        // DOM elements
+        let selectedTranslationLayer = null;
         const welcomeScreen = document.getElementById('welcome');
         const lineIndicator = document.getElementById('line-indicator');
         const navTabs = document.querySelectorAll('.nav-tab');
 
-        // Initialize iframes with lazy loading
-        document.querySelectorAll('.layer-frame').forEach(iframe => {
-            iframe.src = 'about:blank';
-        });
+        document.querySelectorAll('.layer-frame').forEach(iframe => { iframe.src = 'about:blank'; });
 
-        // Handle navigation
-        function handleNavigation() {
-            const hash = window.location.hash.slice(1) || '';
-            
-            if (!hash) {
-                showWelcome();
-                return;
+        // Restore selected translation layer from localStorage
+        selectedTranslationLayer = localStorage.getItem('selectedLayer') || 'tibetan';
+
+    function handleNavigation() {
+        const hash = window.location.hash.slice(1) || '';
+        if (!hash) { showWelcome(); return; }
+        const parts = hash.split(':');
+        const layerId = parts[0];
+        const lineNum = parts[1] ? parseInt(parts[1]) : null;
+        if (!layers[layerId]) { showWelcome(); return; }
+        if (lineNum && !isNaN(lineNum)) currentLine = lineNum;
+        showLayer(layerId, lineNum);
+    }
+
+    function showWelcome() {
+        welcomeScreen.style.display = 'flex';
+        document.querySelectorAll('.layer-content').forEach(el => el.classList.remove('active'));
+        // Keep translation layer radio selected
+        navTabs.forEach(tab => {
+            const href = tab.getAttribute('href');
+            if (href === '#' + selectedTranslationLayer) {
+                tab.classList.add('active');
+            } else if (href !== '#contents') {
+                tab.classList.remove('active');
             }
+        });
+        currentLayer = null;
+        hideLineIndicator();
+    }
 
-            if (layers[hash]) {
-                showLayer(hash);
+    function showLayer(layerId, targetLine) {
+        welcomeScreen.style.display = 'none';
+        
+        // Update nav tabs - keep translation layer selected when viewing contents
+        navTabs.forEach(tab => {
+            const href = tab.getAttribute('href');
+            if (layerId === 'contents') {
+                // When on contents, highlight the selected translation layer
+                if (href === '#' + selectedTranslationLayer) {
+                    tab.classList.add('active');
+                } else if (href !== '#contents') {
+                    tab.classList.remove('active');
+                }
             } else {
-                showWelcome();
-            }
-        }
-
-        function showWelcome() {
-            welcomeScreen.style.display = 'block';
-            document.querySelectorAll('.layer-content').forEach(el => {
-                el.classList.remove('active');
-            });
-            navTabs.forEach(tab => tab.classList.remove('active'));
-            currentLayer = null;
-            hideLineIndicator();
-        }
-
-        function showLayer(layerId) {
-            welcomeScreen.style.display = 'none';
-            
-            // Update tabs
-            navTabs.forEach(tab => {
-                tab.classList.toggle('active', tab.getAttribute('href') === '#' + layerId);
-            });
-
-            // Show content
-            document.querySelectorAll('.layer-content').forEach(el => {
-                el.classList.toggle('active', el.id === layerId);
-            });
-
-            // Load iframe if needed
-            const iframe = document.querySelector(`#${layerId} .layer-frame`);
-            if (iframe && iframe.src === 'about:blank') {
-                iframe.src = iframe.dataset.src;
-            }
-
-            currentLayer = layerId;
-
-            // Check for line anchor
-            const hashParts = window.location.hash.split(':');
-            if (hashParts.length >= 2) {
-                const line = parseInt(hashParts[1]);
-                if (!isNaN(line)) {
-                    setTimeout(() => scrollToLine(layerId, line), 500);
+                // Normal behavior for other layers
+                tab.classList.toggle('active', href === '#' + layerId);
+                // Update selected translation layer
+                if (href === '#' + layerId && layerId !== 'contents') {
+                    selectedTranslationLayer = layerId;
+                    localStorage.setItem('selectedLayer', layerId);
                 }
             }
-        }
-
-        function scrollToLine(targetLayer, targetLine) {
-            const iframe = document.querySelector(`#${targetLayer} .layer-frame`);
-            if (!iframe || !iframe.contentDocument) return;
-
-            const targetConfig = layers[targetLayer];
-            let foundLine = null;
-            let matchType = 'exact';
-
-            if (targetConfig.exactMatch) {
-                // Exact line match (Tibetan, Wylie, Literal, Liturgical)
-                const exactAnchor = iframe.contentDocument.querySelector(`[id="line-${targetLine}"]`);
-                if (exactAnchor) {
-                    foundLine = targetLine;
-                    exactAnchor.scrollIntoView({ behavior: 'smooth', block: 'start' });
-                }
-            } else if (targetConfig.hasRanges) {
-                // Range-based matching (Commentary, Scholar, Epistemic, Delusion, Cognitive)
-                const ranges = Array.from(iframe.contentDocument.querySelectorAll('[class*="line-range"]'));
-                
-                let closestRange = null;
-                let closestDiff = Infinity;
-
-                ranges.forEach(rangeEl => {
-                    const text = rangeEl.textContent;
-                    const match = text.match(/\[(\d+)-(\d+)\]/);
-                    if (match) {
-                        const start = parseInt(match[1]);
-                        const end = parseInt(match[2]);
-                        
-                        if (targetLine >= start && targetLine <= end) {
-                            // Exact range match
-                            foundLine = text;
-                            matchType = 'range';
-                            closestRange = rangeEl;
-                            return;
-                        } else {
-                            // Find closest range
-                            const mid = (start + end) / 2;
-                            const diff = Math.abs(mid - targetLine);
-                            if (diff < closestDiff) {
-                                closestDiff = diff;
-                                closestRange = rangeEl;
-                                foundLine = text;
-                            }
-                        }
-                    }
-                });
-
-                if (closestRange) {
-                    closestRange.scrollIntoView({ behavior: 'smooth', block: 'start' });
-                }
-            }
-
-            // Update indicator
-            if (foundLine) {
-                showLineIndicator(targetLayer, foundLine, matchType);
-            }
-        }
-
-        function showLineIndicator(layer, line, matchType) {
-            const layerNames = {
-                'tibetan': 'Tibetan',
-                'wylie': 'Wylie',
-                'literal': 'Literal',
-                'liturgical': 'Liturgical',
-                'commentary': 'Commentary',
-                'scholar': 'Scholar',
-                'epistemic': 'Epistemic',
-                'delusion': 'Delusion',
-                'cognitive': 'Cognitive'
-            };
-
-            let msg = `${layerNames[layer]}: ${line}`;
-            if (matchType === 'range') {
-                msg += ' (nearest range)';
-            }
-
-            lineIndicator.textContent = msg;
-            lineIndicator.classList.add('visible');
-
-            // Hide after 3 seconds
-            setTimeout(() => {
-                lineIndicator.classList.remove('visible');
-            }, 3000);
-        }
-
-        function hideLineIndicator() {
-            lineIndicator.classList.remove('visible');
-        }
-
-        // Listen for hash changes
-        window.addEventListener('hashchange', handleNavigation);
-
-        // Handle clicks on iframes to capture scroll position
-        document.querySelectorAll('.layer-frame').forEach(iframe => {
-            iframe.addEventListener('load', function() {
-                if (currentLayer) {
-                    try {
-                        const doc = this.contentDocument;
-                        
-                        // For Tibetan/Wylie, add line anchors
-                        if (currentLayer === 'tibetan' || currentLayer === 'wylie') {
-                            const lineNums = doc.querySelectorAll('[class*="line-num"]');
-                            lineNums.forEach(el => {
-                                const text = el.textContent.trim();
-                                if (text && /^\d+$/.test(text)) {
-                                    el.id = 'line-' + text;
-                                }
-                            });
-                        }
-                    } catch(e) {
-                        // Cross-origin restriction, ignore
-                    }
-                }
-            });
         });
 
-        // Dark mode toggle
-        function toggleDarkMode() {
-            document.body.classList.toggle('dark-mode');
-            const btn = document.querySelector('.dark-mode-toggle');
-            btn.textContent = document.body.classList.contains('dark-mode') ? 'Light' : 'Dark';
-            localStorage.setItem('darkMode', document.body.classList.contains('dark-mode'));
+        document.querySelectorAll('.layer-content').forEach(el => el.classList.toggle('active', el.id === layerId));
+
+        const iframe = document.querySelector(`#${layerId} .layer-frame`);
+        const lineToUse = targetLine || currentLine;
+
+        if (iframe) {
+            if (iframe.src === 'about:blank' || !iframe.src || iframe.src === 'about:blank') {
+                let src = iframe.dataset.src;
+                if (lineToUse && !isNaN(lineToUse) && layers[layerId].exactMatch) {
+                    src += '#line-' + lineToUse;
+                }
+                iframe.src = src;
+            } else if (lineToUse && !isNaN(lineToUse) && layers[layerId].exactMatch) {
+                iframe.src = iframe.dataset.src + '#line-' + lineToUse;
+            }
         }
 
-        // Load dark mode preference
-        if (localStorage.getItem('darkMode') === 'true') {
-            document.body.classList.add('dark-mode');
-            document.querySelector('.dark-mode-toggle').textContent = 'Light';
-        }
+        currentLayer = layerId;
+    }
 
-        // Initialize on load
-        handleNavigation();
+    function getCurrentLineFromIframe(layerId) {
+        const iframe = document.querySelector(`#${layerId} .layer-frame`);
+        if (!iframe || !iframe.contentDocument) {
+            console.log('No iframe or contentDocument for', layerId);
+            return null;
+        }
+        try {
+            const doc = iframe.contentDocument;
+            // Get the element at the top-left of the iframe's visible area
+            // Use a point slightly down from top to account for header
+            const topElement = doc.elementFromPoint(50, 100);
+            console.log('Top element at (50, 100):', topElement);
+            if (topElement) {
+                // Find the closest line element (either the element itself or an ancestor)
+                let el = topElement;
+                while (el && el !== doc.body) {
+                    if (el.id && el.id.startsWith('line-')) {
+                        console.log('Found line element:', el.id);
+                        return el.id.replace('line-', '');
+                    }
+                    el = el.parentElement;
+                }
+                console.log('No line- ancestor found for top element');
+            }
+            // Fallback: find any line element near top of viewport
+            const lines = doc.querySelectorAll('[id^="line-"]');
+            console.log('Found', lines.length, 'line elements');
+            const iframeRect = iframe.getBoundingClientRect();
+            for (const line of lines) {
+                const lineRect = line.getBoundingClientRect();
+                if (lineRect.top >= iframeRect.top && lineRect.top <= iframeRect.top + 200) {
+                    console.log('Fallback found line:', line.id);
+                    return line.id.replace('line-', '');
+                }
+            }
+            console.log('No line found in viewport');
+            return null;
+        } catch (e) {
+            console.log('Error getting line from iframe:', e);
+            return null;
+        }
+    }
+
+    document.querySelectorAll('.nav-tab').forEach(tab => {
+        tab.addEventListener('click', function(e) {
+            const targetLayer = this.getAttribute('href').slice(1);
+            
+            // If clicking contents, keep the line from current translation layer
+            if (targetLayer === 'contents' && currentLayer && layers[currentLayer] && layers[currentLayer].exactMatch) {
+                const line = getCurrentLineFromIframe(currentLayer);
+                if (line) {
+                    currentLine = parseInt(line);
+                    console.log('Captured line from', currentLayer, ':', currentLine);
+                }
+                return; // Let normal navigation proceed
+            }
+            // If clicking a translation layer from contents, navigate with current line
+            else if (currentLayer === 'contents' && targetLayer !== 'contents' && layers[targetLayer] && layers[targetLayer].exactMatch && currentLine) {
+                e.preventDefault();
+                window.location.hash = targetLayer + ':' + currentLine;
+                console.log('Navigating from contents to', targetLayer, 'with line', currentLine);
+            }
+            // If switching between translation layers, preserve line
+            else if (currentLayer && targetLayer !== 'contents' && currentLayer !== 'contents' && layers[targetLayer] && layers[targetLayer].exactMatch) {
+                const line = getCurrentLineFromIframe(currentLayer);
+                console.log('Switching from', currentLayer, 'to', targetLayer, '- detected line:', line, 'currentLine:', currentLine);
+                e.preventDefault();
+                if (line) {
+                    currentLine = parseInt(line);
+                    window.location.hash = targetLayer + ':' + currentLine;
+                } else if (currentLine) {
+                    window.location.hash = targetLayer + ':' + currentLine;
+                } else {
+                    window.location.hash = targetLayer;
+                }
+            }
+        });
+    });
+
+    // Listen for messages from contents iframe
+    window.addEventListener('message', function(e) {
+        if (e.data && e.data.type === 'navigateToLine') {
+            const lineNum = e.data.line;
+            if (lineNum) {
+                currentLine = parseInt(lineNum);
+                window.location.hash = selectedTranslationLayer + ':' + lineNum;
+            }
+        }
+        // Listen for line position updates from translation layers
+        if (e.data && e.data.type === 'linePosition') {
+            const lineNum = parseInt(e.data.line);
+            if (!isNaN(lineNum)) {
+                currentLine = lineNum;
+                console.log('Updated currentLine from iframe:', currentLine);
+            }
+        }
+    });
+
+    function showLineIndicator(layer, line, type) {
+        const names = {
+            tibetan: 'Tibetan',
+            glossary: 'Glossary',
+            wylie: 'Wylie',
+            literal: 'Literal',
+            liturgical: 'Liturgical',
+            commentary: 'Commentary',
+            scholar: 'Scholar',
+            epistemic: 'Epistemic',
+            delusion: 'Delusion',
+            cognitive: 'Cognitive',
+            contents: 'Contents'
+        };
+        lineIndicator.textContent = `${names[layer] || layer}: Line ${line}${type==='range'?' (nearest range)':''}`;
+        lineIndicator.classList.add('visible');
+        setTimeout(() => lineIndicator.classList.remove('visible'), 3000);
+    }
+
+    function hideLineIndicator() { lineIndicator.classList.remove('visible'); }
+
+    window.addEventListener('hashchange', handleNavigation);
+
+    document.querySelectorAll('.layer-frame').forEach(iframe => {
+        iframe.addEventListener('load', function() {
+            if (!currentLayer) return;
+            try {
+                const doc = this.contentDocument;
+                if (currentLayer === 'tibetan' || currentLayer === 'wylie') {
+                    doc.querySelectorAll('[class*="line-num"]').forEach(el => {
+                        const t = el.textContent.trim();
+                        if (t && /^\d+$/.test(t)) el.id = 'line-' + t;
+                    });
+                }
+                if (currentLine && layers[currentLayer] && layers[currentLayer].exactMatch) {
+                    showLineIndicator(currentLayer, currentLine, 'exact');
+                }
+            } catch (e) {}
+        });
+    });
+
+    function toggleDarkMode() {
+        document.body.classList.toggle('dark-mode');
+        const btn = document.querySelector('.dark-mode-toggle');
+        btn.textContent = document.body.classList.contains('dark-mode') ? 'Light' : 'Dark';
+        localStorage.setItem('darkMode', document.body.classList.contains('dark-mode'));
+        // Notify same-origin iframes
+        document.querySelectorAll('.layer-frame').forEach(iframe => {
+            try {
+                iframe.contentWindow.postMessage({
+                    type: 'darkModeChange',
+                    enabled: document.body.classList.contains('dark-mode')
+                }, '*');
+            } catch (e) {}
+        });
+    }
+
+    if (localStorage.getItem('darkMode') === 'true') {
+        document.body.classList.add('dark-mode');
+        document.querySelector('.dark-mode-toggle').textContent = 'Light';
+    }
+
+    handleNavigation();
     </script>
 </body>
+
 </html>
