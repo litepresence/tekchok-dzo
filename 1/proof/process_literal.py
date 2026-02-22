@@ -16,7 +16,7 @@ from datetime import datetime
 # CONFIGURATION
 # -----------------------------------------------------------------------------
 
-INPUT_DIR = Path("../text/frozen/literal")
+INPUT_DIR = Path("../text/dynamic/literal")
 OUTPUT_FILE = Path("html/literal_proof.html")
 FILE_PATTERN = re.compile(r"^\d\d-\d\d-\d\d-\d\d\.txt$")
 

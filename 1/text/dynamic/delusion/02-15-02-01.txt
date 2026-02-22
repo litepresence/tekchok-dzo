@@ -1,4 +1,4 @@
-[474-501]
+[474-501] <ontological-error>
 <ontological-error> <reification-error>
 
 **Misreading:**
@@ -17,9 +17,9 @@ The winds become subtle objects to locate and manipulate. Practitioners attempt 
 - Missing that "abiding in life-channel" describes awareness's life-sustaining aspect, not a breath in a physical channel
 
 **Cascade effects:**
-<reification-error> → <meditationism-error> (techniques to "work with" winds) → <somatic-fixation-error> (obsessing over bodily sensations) → <practice-error> (substituting energy-manipulation for recognition).
+<reification-error> → <meditationism-error> (techniques to "work with" winds) → <reification-error> (obsessing over bodily sensations) → <practice-error> (substituting energy-manipulation for recognition).
 
-[502-529]
+[502-529] <ontological-error>
 <epistemic-error> <naming-confusion>
 
 **Misreading:**
@@ -38,10 +38,10 @@ The performative dimension is lost. The names are not describing winds but evoki
 - Missing that the twenty-five sounds are twenty-five doorways to recognition, not taxonomy
 
 **Cascade effects:**
-<epistemic-error> → <intellectualism-error> (studying wind-system conceptually) → <pedagogical-error> (teaching winds as information) → <recognition-prevention-error> (naming substitutes for seeing).
+<epistemic-error> → <scholarly-collapse-error> (studying wind-system conceptually) → <pedagogical-error> (teaching winds as information) → <recognition-prevention> (naming substitutes for seeing).
 
-[530-557]
-<substantialist-error> <pure-impure-dualism>
+[530-557] <ontological-error>
+<reification-error> <pure-impure-dualism>
 
 **Misreading:**
 The distinction between pure winds (if pure, Buddha-wisdom) and impure winds (if impure, beings' aggregates) describes actual ontological states—winds that are literally either pure or impure depending on realization, like clean versus dirty channels.
@@ -59,9 +59,9 @@ The co-emergent nature is misunderstood as sequential transformation. Practition
 - Missing that "pure/impure" refers to recognition or non-recognition of the same display
 
 **Cascade effects:**
-<substantialist-error> → <purification-obsession-error> (endless preliminary practices) → <hierarchical-error> (believing wind-purity must precede recognition) → <fruition-deferral-error> (postponing recognition until winds are pure).
+<reification-error> → <meditationism-error> (endless preliminary practices) → <hierarchical-error> (believing wind-purity must precede recognition) → <bypass-error> (postponing recognition until winds are pure).
 
-[558-585]
+[558-585] <ontological-error>
 <nihilistic-error> <emptiness-misunderstanding>
 
 **Misreading:**
@@ -80,10 +80,10 @@ The positive luminosity aspect is lost. Dharmakāya congeals as a void or absenc
 - Spiritual bypassing: "it's all empty" used to avoid engaging with phenomena
 
 **Cascade effects:**
-<nihilistic-error> → <phenomena-dismissal-error> (ignoring subtle body as "empty") → <disengagement-error> (withdrawing from life as unreal) → <recognition-prevention-error> (believing recognition means seeing nothing).
+<nihilistic-error> → <nihilistic-error> (ignoring subtle body as "empty") → <practice-error> (withdrawing from life as unreal) → <recognition-prevention> (believing recognition means seeing nothing).
 
-[586-613]
-<temporal-error> <emanation-misunderstanding>
+[586-613] <ontological-error>
+<ontological-error> <emanation-misunderstanding>
 
 **Misreading:**
 The description of branch winds "emanating from" (thul pa) root winds describes an actual temporal process—like rays emanating from the sun—where the twenty-five winds develop from or are produced by the five root winds in a causal sequence.
@@ -101,9 +101,9 @@ The timeless simultaneity is lost. Practitioners imagine winds actually emanatin
 - Missing that "emanation" describes display-modality, not temporal production
 
 **Cascade effects:**
-<temporal-error> → <causal-inversion-error> (believing branch winds result from root winds) → <meditationism-error> (practices to "follow" emanation) → <sequential-fixation-error> (hierarchical approach to wind-teaching).
+<ontological-error> → <causal-error> (believing branch winds result from root winds) → <meditationism-error> (practices to "follow" emanation) → <meditationism-error> (hierarchical approach to wind-teaching).
 
-[614-641]
+[614-641] <ontological-error>
 <psychologization-error> <reduction-to-consciousness>
 
 **Misreading:**
@@ -122,9 +122,9 @@ The non-dual luminosity solidifies as mental processes. Winds become "types of a
 - Reducing the majestic mandala of elements to "mental constructs"
 
 **Cascade effects:**
-<psychologization-error> → <idealism-error> (reducing display to consciousness) → <subjectivism-error> (believing reality is mind-created) → <recognition-prevention-error> (looking within for consciousness rather than recognizing display's nature).
+<psychologization-error> → <ontological-error> (reducing display to consciousness) → <psychologization-error> (believing reality is mind-created) → <recognition-prevention> (looking within for consciousness rather than recognizing display's nature).
 
-[642-668]
+[642-668] <ontological-error>
 <practice-error> <technique-substitution>
 
 **Misreading:**
@@ -143,7 +143,7 @@ Recognition is substituted with technique. The correspondences become objects of
 - Missing that the correspondences describe what is already complete, not what needs to be achieved
 
 **Cascade effects:**
-<practice-error> → <meditationism-error> (techniques to "realize" wind-wisdom) → <attainment-tracking-error> (measuring progress through correspondence-mastery) → <recognition-prevention-error> (practice substitutes for seeing).
+<practice-error> → <meditationism-error> (techniques to "realize" wind-wisdom) → <attainment-error> (measuring progress through correspondence-mastery) → <recognition-prevention> (practice substitutes for seeing).
 
 Line 474 begins mid-section continuing from 02-15-01-01.txt: "First, the five life-holding winds from the Self-Arisen..."
 

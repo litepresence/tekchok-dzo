@@ -29,9 +29,9 @@ Practitioner congeals into distracted by magical thinking. The teaching that the
 
 **Cascade effects:**
 <siddhi-seeking error> → error-propagates → downstream-effects → final-result
-<acquisition-error> → error-propagates → downstream-effects → final-result
+<attainment-error> → error-propagates → downstream-effects → final-result
 
-[13113-13119] <ontological-error> [SYMBOLIC LITERALIZATION ERROR]
+[13113-13119] <ontological-error>
 **Misreading:**
 The symbolic correspondences—"Field Broad is samsara," "mud is body, speech, and mind"—are treated as poetic metaphors without technical meaning.
 
@@ -64,7 +64,7 @@ Reader judges the narrative morally rather than recognizing its technical conten
 <moralistic error> → error-propagates → downstream-effects → final-result
 <psychologization-error> → error-propagates → downstream-effects → final-result
 
-[13127-13133] [HERMENEUTIC ERROR] <ontological-error>
+[13127-13133] <ontological-error>
 **Misreading:**
 "Not listening to instructions" is understood as moral failure of disobedience rather than indicating how dull faculties fixate on appearance.
 
@@ -113,7 +113,7 @@ Practitioner seeks light experiences rather than recognizing awareness-nature. D
 **Cascade effects:**
 <vision-seeking error>[EXPERIENTIAL ERROR].
 
-[13148-13155] <ontological-error> [SPATIALIZATION ERROR]
+[13148-13155] <ontological-error>
 **Misreading:**
 The "bar do of unarranged appearance" (yul ma bkod par snang ba) is interpreted as an actual intermediate state place between death and rebirth.
 
@@ -145,7 +145,7 @@ Practice congeals into about reaching a place rather than recognizing what alrea
 **Cascade effects:**
 <pure-land externalization error>[TELEOLOGICAL ERROR].
 
-[13164-13171] [SYMBOLIC LITERALIZATION ERROR] <ontological-error>
+[13164-13171] <ontological-error>
 **Misreading:**
 The narrative of the five princes being imprisoned is understood as historical-political drama rather than teaching on how the five poisons bind rig pa.
 
@@ -194,7 +194,7 @@ Reader believes they are extracting "deeper meaning" while missing the surface-l
 <sociological collapse error> → error-propagates → downstream-effects → final-result
 <ontological-error> → metaphysical-entity → duality-creation → bondage
 
-[13187-13193] [SYMBOLIC LITERALIZATION ERROR] [MORALISTIC ERROR]
+[13187-13193] <ontological-error>
 **Misreading:**
 The narrative of killing the old woman and eating flesh, drinking blood is understood as literal violence or as endorsement of transgressive behavior.
 
@@ -243,7 +243,7 @@ Practitioner seeks magical protection rather than recognition. The imperturbable
 <miracle-seeking error> → error-propagates → downstream-effects → final-result
 <reification-error> → substantialization → entity-creation → grasping-suffering
 
-[13207-13211] <ontological-error> <temporal-error>
+[13207-13211] <ontological-error> <ontological-error>
 **Misreading:**
 "First did not depart" suggests that samsara and enlightenment are eternally fixed states with no possibility of change or transformation.
 
@@ -260,7 +260,7 @@ Practitioner adopts "nothing to do" stance without recognition. The dynamic of r
 <eternalistic-error> → error-propagates → downstream-effects → final-result
 <practice-error> → technique-fixation → recognition-obscuration → method-attachment
 
-[13212-13216] [HERMENEUTIC ERROR] <practice-error>
+[13212-13216] <practice-error>
 **Misreading:**
 The king's divination and sending away the queen is interpreted as misogynistic political narrative rather than teaching on how conceptual mind sends away pure awareness.
 
@@ -293,7 +293,7 @@ Practitioner reads the story without receiving the instructions. The practical g
 <narrative absorption error> → error-propagates → downstream-effects → final-result
 <pedagogical-error> → premature-bypass → foundation-weakness → recognition-failure
 
-[13222-13233] <ontological-error> [VIOLENCE ERROR]
+[13222-13233] <ontological-error>
 **Misreading:**
 "Kill all sentient beings" is understood as literal violence or as endorsement of actual killing for spiritual benefit.
 
@@ -309,7 +309,7 @@ Reader either dismisses the entire teaching or adopts harmful practices. The sym
 **Cascade effects:**
 <antinomian error>or [MORALISTIC REJECTION ERROR].
 
-[13234-13245] [SYMBOLIC LITERALIZATION ERROR] <ontological-error>
+[13234-13245] <ontological-error>
 **Misreading:**
 "Throw vajra master into ocean" is understood as disrespect toward teachers or actual harmful act rather than pointing to non-conceptuality.
 
@@ -392,7 +392,7 @@ Practitioner either rejects teaching as dangerous or literalizes self-harm. The 
 <suicide misinterpretation error> → error-propagates → downstream-effects → final-result
 <practice-error> → technique-fixation → recognition-obscuration → method-attachment
 
-[13288-13296] [HERMENEUTIC ERROR] <ontological-error>
+[13288-13296] <ontological-error>
 **Misreading:**
 The fire and water imagery is interpreted as actual elemental practices or external rituals rather than pointing to wisdom and samadhi.
 
@@ -424,7 +424,7 @@ Practitioner seeks power rather than recognition. The non-dual integration conge
 **Cascade effects:**
 <power-seeking error>[DUALISTIC ERROR].
 
-[13306-13311] <ontological-error> <temporal-error>
+[13306-13311] <ontological-error> <ontological-error>
 **Misreading:**
 "Unmade dawns instantly" is interpreted as achievement through inaction or passive waiting rather than recognition of spontaneous presence.
 
@@ -458,7 +458,7 @@ Practitioner remains in ordinary delusion while claiming Dzogchen view. The dist
 <self-deception error> → error-propagates → downstream-effects → final-result
 <practice-error> → technique-fixation → recognition-obscuration → method-attachment
 
-[13319-13325] [SYMBOLIC LITERALIZATION ERROR] <ontological-error>
+[13319-13325] <ontological-error>
 **Misreading:**
 "Iron house without doors" is interpreted as actual prison or hell realm rather than symbol for the body-mind's apparent confinement.
 
@@ -491,7 +491,7 @@ Practitioner seeks sensory deprivation rather than recognition. The natural clar
 <sensory error> → error-propagates → downstream-effects → final-result
 <practice-error> → technique-fixation → recognition-obscuration → method-attachment
 
-[13333-13340] [HERMENEUTIC ERROR] <epistemic-error>
+[13333-13340] <epistemic-error>
 **Misreading:**
 The statement that symbolic language (brda) is "profoundly secret" and "cannot be understood by anyone" triggers either elitism or despair.
 
@@ -505,9 +505,9 @@ The teaching that symbols point to direct experience is replaced by belief that 
 Practitioner either claims special status or gives up. The accessible pointing to immediate experience is lost.
 
 **Cascade effects:**
-<elitism-error>or [DESPAIR ERROR].
+<hierarchical-error>or [DESPAIR ERROR].
 
-[13341-13349] <ontological-error> <temporal-error>
+[13341-13349] <ontological-error> <ontological-error>
 **Misreading:**
 The embryological description is interpreted as literal biological account or as metaphor without recognizing it as pointing to stages of recognition.
 
@@ -589,7 +589,7 @@ Reader develops philosophical understanding without recognition. The direct poin
 **Cascade effects:**
 <philosophical error>[DUALISTIC ERROR].
 
-[13381-13386] <ontological-error> <temporal-error>
+[13381-13386] <ontological-error> <ontological-error>
 **Misreading:**
 The weekly developmental stages are interpreted as rigid temporal schema rather than symbolic of recognition's maturation.
 
@@ -655,7 +655,7 @@ Practitioner studies physiology rather than recognizing feeling's nature. The po
 **Cascade effects:**
 <physiological error>[SKANDHA ERROR].
 
-[13411-13419] <ontological-error> [ELEMENTAL ERROR]
+[13411-13419] <ontological-error>
 **Misreading:**
 The fire and wind channels' interaction is interpreted as actual combustion and respiration rather than symbolic of conceptual processes.
 
@@ -686,7 +686,7 @@ Reader believes they are learning embryology rather than the nature of delusion'
 
 **Cascade effects:**
 <biologization error> → error-propagates → downstream-effects → final-result
-<temporal-error> → future-orientation → present-miss → recognition-deferral
+<ontological-error> → future-orientation → present-miss → recognition-deferral
 
 [13429-13431] <ontological-error> <reification-error>
 **Misreading:**

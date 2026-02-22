@@ -47,8 +47,8 @@
 **5. LITERAL** `prompt_literal.md`
 - **Purpose:** Dpyad kyi bshad pa (Analytical Translation)
 - **Content:** Grammatical scaffold - Tibetan syntax in English
-- **Status:** Frozen - FINALIZED 2026-02-10
-- **Location:** `text/literal/`
+- **Status:** Active - Iterative refinement
+- **Location:** `text/dynamic/literal/`
 - **Key Constraint:** Zero semantic interpretation, exact word order
 
 **6. LITURGICAL** `prompt_liturgical.md`
@@ -144,7 +144,7 @@ LITERAL (grammatical) → LITURGICAL (transmission)
 ### For All Generated Layers:
 1. **Reference Standards:** dictionary.md, capitalize.md, exemplars.md
 2. **Source Priority:** Tibetan > Wylie > Literal > Higher Layers
-3. **Never Modify Immutable:** Tibetan, Wylie, Literal (frozen)
+3. **Never Modify Immutable:** Tibetan, Wylie (foundation layers only)
 4. **Verify Against Source:** All interpretive layers must bow to Tibetan
 
 ### Commentary Layer Specific:

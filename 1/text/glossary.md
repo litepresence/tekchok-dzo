@@ -23,8 +23,10 @@ Terms are listed alphabetically by their English rendering. Tibetan and Sanskrit
 | **All-Accomplishing Wisdom** (bya grub ye shes) | Wisdom effortlessly completing all enlightened activities; fourth characteristic-holding wisdom. | 01-14-04-01:18356 |
 | **appearance** (snang ba) | Phenomenal display or manifestation; rang snang (self-appearance of awareness, pure) vs. gzhan snang (other-appearance of delusion, impure); in Dzogchen, appearances and emptiness are non-dual (snang stong dbyer med). | 01-01-01-01:35 |
 | **bardo** (bar do) | Intermediate state between death and rebirth; four types: natural (life), dying, dharmatā (reality), and existence; also refers to moment-to-moment gaps in ordinary experience. | 02-19-01-01:11200 |
-| **basis** (gzhi) | The ground of all experience; the primordial state that is the source of both saṃsāra and nirvāṇa. In Dzogchen, the basis has three aspects: essence (ngo bo) as primordial purity (ka dag), nature (rang bzhin) as spontaneous presence (lhun grub), and compassion (thugs rje) as unceasing manifestation. Distinguished from Kunzhi (the neutral all-ground) and Kunzhi consciousness (the defiled aspect). | 01-08-01-01:10472 |
-| **basis-abiding wisdom** (gzhi gnas kyi ye shes) | Wisdom that dwells primordially as the ground of all experience. | 01-14-04-01:18286 |
+| **ground** (gzhi) | The primordial ground of all experience; the basis-as-suchness that is the source of both saṃsāra and nirvāṇa. In Dzogchen, the ground has three aspects: essence (ngo bo) as primordial purity (ka dag), nature (rang bzhin) as spontaneous presence (lhun grub), and compassion (thugs rje) as unceasing manifestation. **CRITICAL: Always translate gzhi as "ground" in doctrinal contexts—never "basis"** (which confuses with kun gzhi, the neutral all-ground). Distinguished from Kunzhi (all-ground) and Kunzhi consciousness (the defiled aspect). | 01-08-01-01:10472 |
+| **ground, path, and result** (gzhi lam 'bras bu) | The threefold structure of Dzogchen view: ground (gzhi) as primordial ground, path (lam) as method, result ('bras bu) as fruition. **ALWAYS translate as "ground, path, and result" or "ground, path, fruition"**—never "basis, path, result." | 01-04-13-01:3338 |
+| **primordial ground** (ye gzhi) | The ground as primordially present; the original ground. **Always translate as "primordial ground"**—never "original basis." | 01-14-01-01:17459 |
+| **ground-abiding wisdom** (gzhi gnas kyi ye shes) | Wisdom that dwells primordially as the ground of all experience. | 01-14-04-01:18286 |
 | **bindu** (thig le) | Energy drops or essences; white (male, bodhicitta) bindu at crown, red (female, blood) bindu at navel. In Dzogchen: basis of subtle body manifestation, dissolves into clear light at death, giving rise to thögal visions.
 | **binding** (bcings pa) | Fetter, shackle; samaya as dam ('dam) meaning binding or holding. | 02-19-02-01:11370 |
 | **certainty** (nges pa) | The view that the basis is determinate and unchanging in its nature. | 01-08-01-01:10483 |
@@ -116,10 +118,10 @@ Terms are listed alphabetically by their English rendering. Tibetan and Sanskrit
 | **view-meditation-conduct** (lta sgom spyod) | The three aspects of practice: view (understanding), meditation (familiarization), conduct (integration). | 01-08-01-01:10472 |
 | **wind** (rlung) | Vital energy (prāṇa, vāyu); five winds (life, fire, pervasive, upward, downward) support consciousness. | 01-11-01-01:13704 |
 | **wind-radiance** (rlung gdangs) | Expression or display of prāṇa/wind energy. | 02-18-01-01:3967 |
-| **Wisdom of All-Pervading Compassion** (thugs rje kun khyab kyi ye shes) | Wisdom manifesting as the root force pervading all appearance; third basis-abiding wisdom. | 01-14-04-01:18334 |
+| **Wisdom of All-Pervading Compassion** (thugs rje kun khyab kyi ye shes) | Wisdom manifesting as the root force pervading all appearance; third ground-abiding wisdom. | 01-14-04-01:18334 |
 | **Wisdom of Equality** (mnyam nyid ye shes) | Wisdom recognizing all phenomena as equal in emptiness; second characteristic-holding wisdom. | 01-14-04-01:18354 |
-| **Wisdom of Primordial Purity** (ngo bo ka dag gi ye shes) | Wisdom that transcends existence and non-existence, empty and pure from the beginning; first of the three basis-abiding wisdoms. | 01-14-04-01:18295 |
-| **Wisdom of Spontaneous Perfection** (rang bzhin lhun grub kyi ye shes) | Wisdom primordially complete with qualities, naturally manifesting without effort; second basis-abiding wisdom. | 01-14-04-01:18316 |
+| **Wisdom of Primordial Purity** (ngo bo ka dag gi ye shes) | Wisdom that transcends existence and non-existence, empty and pure from the beginning; first of the three ground-abiding wisdoms. | 01-14-04-01:18295 |
+| **Wisdom of Spontaneous Perfection** (rang bzhin lhun grub kyi ye shes) | Wisdom primordially complete with qualities, naturally manifesting without effort; second ground-abiding wisdom. | 01-14-04-01:18316 |
 | **wisdom** (shes rab) | Prajñā; discernment that realizes emptiness; transcendent wisdom. | 02-18-01-01:10441 |
 | **wisdom gathered by knowing** (shes pas bsdus pa'i ye shes) | Wisdom that knows the extent of knowable phenomena. | 01-14-04-01:18328 |
 | **wisdom gathered by objects** (shes byas bsdus pa'i ye shes) | Wisdom that distinguishes specific aspects of phenomena. | 01-14-04-01:18340 |

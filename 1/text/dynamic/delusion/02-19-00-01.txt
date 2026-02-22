@@ -1,4 +1,4 @@
-[5963-5981]
+[5963-5981] <ontological-error>
 <epistemic-error> [TRANSCENDENCE AS GOAL]
 **Misreading:**
 The text's description of primordial purity (rang bzhin rdzogs pa chen po) is interpreted as a description of the goal state that practice should achieve.
@@ -13,9 +13,9 @@ Missing that recognition is not attainment.
 Spiritual bypassing; premature "I've got it" syndrome.
 
 **Cascade effects:**
-<epistemic-error> → <goal-projection> (future-attainment) → <present-rejection> (inadequate-now) → <recognition-prevention-error> (seeking substitutes for being).
+<epistemic-error> → <goal-projection> (future-attainment) → <present-rejection> (inadequate-now) → <recognition-prevention> (seeking substitutes for being).
 
-[5982-6000]
+[5982-6000] <ontological-error>
 <ontological-error> [ATTRIBUTES AS ESSENCE]
 **Misreading:**
 The list of qualities ("vast," "leveled," "Buddha-ed," "freed," "unmoving") are descriptions of an essential nature to know, possess, or identify with.
@@ -30,10 +30,10 @@ Taking non-affirming negations as affirmations.
 Spiritual materialism; eternalistic self-view.
 
 **Cascade effects:**
-<ontological-error> → <essence-grasping> (quality-possession) → <self-identification> (I-am-vast) → <recognition-prevention-error> (attributes substitute for emptiness).
+<ontological-error> → <essence-grasping> (quality-possession) → <self-identification> (I-am-vast) → <recognition-prevention> (attributes substitute for emptiness).
 
-[6001-6019]
-<logical-error> [TRIPLE-TIME DENIAL AS PRACTICE]
+[6001-6019] <ontological-error>
+<epistemic-error> [TRIPLE-TIME DENIAL AS PRACTICE]
 **Misreading:**
 The threefold denial (before: not experiencing delusion; now: not abiding; end: delusion impossible) is interpreted as stages of practice to achieve.
 
@@ -47,10 +47,10 @@ Creating linear path where none exists.
 Chronologizing the timeless; progress anxiety.
 
 **Cascade effects:**
-<logical-error> → <temporal-imposition> (chronologizing) → <stage-creation> (progress-levels) → <recognition-prevention-error> (sequence substitutes for simultaneity).
+<epistemic-error> → <temporal-imposition> (chronologizing) → <stage-creation> (progress-levels) → <recognition-prevention> (sequence substitutes for simultaneity).
 
-[6020-6038]
-<methodological-error> [NEGATION AS INSTRUCTION]
+[6020-6038] <ontological-error>
+<meditationism-error> [NEGATION AS INSTRUCTION]
 **Misreading:**
 The extensive negations ("nothing to look at," "nothing to meditate," "nothing to accomplish") are interpreted as meditation instructions on what not to do.
 
@@ -64,9 +64,9 @@ Creating practice of non-practice.
 Effort to be effortless; striving to be without striving.
 
 **Cascade effects:**
-<methodological-error> → <practice-of-non-practice> (doing-nothing) → <effort-paradox> (striving-to-rest) → <recognition-prevention-error> (technique substitutes for freedom).
+<meditationism-error> → <practice-of-non-practice> (doing-nothing) → <effort-paradox> (striving-to-rest) → <recognition-prevention> (technique substitutes for freedom).
 
-[6039-6057]
+[6039-6057] <ontological-error>
 <tantra-misapplication> [KAYA TRANSCENDENCE AS KAYA ATTAINMENT]
 **Misreading:**
 The three kayas as spontaneously self-dawning (outer vision as Dharmakāya, inner awareness as Sambhogakāya, appearances as Nirmāṇakāya) is interpreted as results of deity yoga practice.
@@ -81,9 +81,9 @@ Taking natural display as created result.
 Missing that kayas are how things already are.
 
 **Cascade effects:**
-<tantra-misapplication> → <attainment-approach> (creating-kayas) → <separation-creation> (from-kaya-state) → <recognition-prevention-error> (production substitutes for recognition).
+<tantra-misapplication> → <attainment-approach> (creating-kayas) → <separation-creation> (from-kaya-state) → <recognition-prevention> (production substitutes for recognition).
 
-[6058-6076]
+[6058-6076] <ontological-error>
 <practice-rejection> [NO-MANDALA AS SUPERIOR MANDALA]
 **Misreading:**
 The explicit rejection of mandala, deity, seed syllables, mantra, mudrā, offerings, empowerment, samaya is interpreted as "higher" or "more advanced" form of these practices.
@@ -98,9 +98,9 @@ Making non-mandala into ultimate mandala.
 Spiritual pride; secret belief in superiority.
 
 **Cascade effects:**
-<practice-rejection> → <superiority-complex> (higher-non-practice) → <transcendence-accumulation> (including-while-denying) → <recognition-prevention-error> (pride substitutes for view).
+<practice-rejection> → <superiority-complex> (higher-non-practice) → <transcendence-accumulation> (including-while-denying) → <recognition-prevention> (pride substitutes for view).
 
-[6077-6095]
+[6077-6095] <ontological-error>
 <view-misunderstanding> [BEYOND VIEW AS SPECIAL VIEW]
 **Misreading:**
 "In great perfection ati yoga, no view, meditation, or conduct" is interpreted as special or superior type of view, meditation, and conduct.
@@ -115,9 +115,9 @@ Converting negation into superior affirmation.
 Debates about "correct Dzogchen view"; sectarianism.
 
 **Cascade effects:**
-<view-misunderstanding> → <meta-view-formation> (beyond-as-view) → <position-defense> (protecting-no-view) → <recognition-prevention-error> (concept substitutes for openness).
+<view-misunderstanding> → <meta-view-formation> (beyond-as-view) → <position-defense> (protecting-no-view) → <recognition-prevention> (concept substitutes for openness).
 
-[6096-6114]
+[6096-6114] <ontological-error>
 <essence-grasping> [UNBORN AS ESSENCE]
 **Misreading:**
 The teaching on unborn nature is interpreted as discovery of essential unborn nature as true self or substratum of reality.
@@ -132,9 +132,9 @@ Taking unborn as existent essence.
 Nihilism dressed as Dzogchen; eternalistic self-view.
 
 **Cascade effects:**
-<essence-grasping> → <unborn-reification> (thing-unborn) → <substrate-belief> (true-nature) → <recognition-prevention-error> (essence substitutes for emptiness).
+<essence-grasping> → <unborn-reification> (thing-unborn) → <substrate-belief> (true-nature) → <recognition-prevention> (essence substitutes for emptiness).
 
-[6115-6133]
+[6115-6133] <ontological-error>
 <instruction-misapplication> [NO-INSTRUCTION AS SECRET INSTRUCTION]
 **Misreading:**
 "Not indicated by tantra and instruction" and "not to be examined even by wisdom" is interpreted as indicating secret or special instruction beyond ordinary teachings.
@@ -149,9 +149,9 @@ Seeking secret where openness declared.
 Guru-shopping; dismissing accessible teachings.
 
 **Cascade effects:**
-<instruction-misapplication> → <secrecy-seeking> (hidden-teachings) → <authority-dependency> (special-masters) → <recognition-prevention-error> (seeking substitutes for immediate).
+<instruction-misapplication> → <secrecy-seeking> (hidden-teachings) → <authority-dependency> (special-masters) → <recognition-prevention> (seeking substitutes for immediate).
 
-[6134-6152]
+[6134-6152] <ontological-error>
 <analytical-misuse> [ANALYSIS AS REALIZATION]
 **Misreading:**
 The analytical meditation on mind's arising, abiding, and going is interpreted as practice that produces realization, rather than demonstration that realization is already present.
@@ -166,10 +166,10 @@ Practicing analysis to get somewhere.
 Turning recognition-tool into achievement-practice.
 
 **Cascade effects:**
-<analytical-misuse> → <method-obsession> (analysis-as-path) → <intellectual-substitution> (understanding-for-recognition) → <recognition-prevention-error> (thinking substitutes for being).
+<analytical-misuse> → <method-obsession> (analysis-as-path) → <intellectual-substitution> (understanding-for-recognition) → <recognition-prevention> (thinking substitutes for being).
 
-[6153-6171]
-<trekcho-completion-anxiety> <khregs-chod-readiness-pressure>
+[6153-6171] <ontological-error>
+<trekcho-completion-achievement> <khregs-chod-readiness-pressure>
 
 **Misreading:**
 Trekcho (khregs chod) must be "completed" or "mastered" before one can receive thogal (thod rgal) teachings—creating pressure to achieve cutting-through proficiency.
@@ -187,10 +187,10 @@ Trekcho congeals into obstacle to overcome. Practitioners create anxiety about "
 - Missing that khregs chod is recognition itself
 
 **Cascade effects:**
-<trekcho-completion-anxiety> → <proficiency-measurement> (readiness-assessment) → <hierarchy-acceptance> (qualified-vs-unqualified) → <recognition-prevention-error> (achievement substitutes for immediacy).
+<trekcho-completion-achievement> → <proficiency-measurement> (readiness-assessment) → <hierarchy-acceptance> (qualified-vs-unqualified) → <recognition-prevention> (achievement substitutes for immediacy).
 
-[6172-6190]
-<thogal-light-phenomena-fixation> <thod-rgal-od-kyi-thig-le-grasping>
+[6172-6190] <ontological-error>
+<light-phenomena-attachment> <thod-rgal-od-kyi-thig-le-grasping>
 
 **Misreading:**
 The light phenomena ('od kyi thig le) of thogal are special experiences to cultivate and sustain—practitioners should work to develop these visionary appearances.
@@ -208,9 +208,9 @@ Thogal light congeals into cultivation object. Practitioners attempt to "produce
 - Missing that thig le are empty rang snang
 
 **Cascade effects:**
-<thogal-light-phenomena-fixation> → <phenomena-cultivation> (developing-lights) → <experience-dependency> (needing-visions) → <recognition-prevention-error> (objects substitute for essence).
+<light-phenomena-attachment> → <phenomena-cultivation> (developing-lights) → <experience-dependency> (needing-visions) → <recognition-prevention> (objects substitute for essence).
 
-[6191-6209]
+[6191-6209] <ontological-error>
 <rainbow-body-achievement-fantasy> <ja-lus-attainment-dream>
 
 **Misreading:**
@@ -229,9 +229,9 @@ Rainbow body congeals into ultimate goal. Practitioners secretly dedicate all pr
 - Missing that rainbow body is spontaneous
 
 **Cascade effects:**
-<rainbow-body-achievement-fantasy> → <dissolution-aspiration> (wanting-display) → <death-performance> (special-dissolution) → <recognition-prevention-error> (phenomenon substitutes for freedom).
+<rainbow-body-achievement-fantasy> → <dissolution-aspiration> (wanting-display) → <death-performance> (special-dissolution) → <recognition-prevention> (phenomenon substitutes for freedom).
 
-[6210-6228]
+[6210-6228] <ontological-error>
 <bardo-preparation-obsession> <bar-do-lam-khyer-fixation>
 
 **Misreading:**
@@ -250,9 +250,9 @@ Bardo congeals into obsession with preparation. Practitioners accumulate bardo t
 - Missing that bar do is present nature
 
 **Cascade effects:**
-<bardo-preparation-obsession> → <future-insurance> (death-preparation) → <technique-accumulation> (bardo-methods) → <recognition-prevention-error> (preparation substitutes for presence).
+<bardo-preparation-obsession> → <future-insurance> (death-preparation) → <technique-accumulation> (bardo-methods) → <recognition-prevention> (preparation substitutes for presence).
 
-[6229-6247]
+[6229-6247] <ontological-error>
 <phowa-compulsion> <pho-ba-obsessive-practice>
 
 **Misreading:**
@@ -271,9 +271,9 @@ Phowa congeals into compulsive ritual. Practitioners repeat transference obsessi
 - Missing that 'pho ba is spontaneous openness
 
 **Cascade effects:**
-<phowa-compulsion> → <obsessive-repetition> (mechanical-practice) → <mastery-illusion> (death-control) → <recognition-prevention-error> (compulsion substitutes for ease).
+<phowa-compulsion> → <obsessive-repetition> (mechanical-practice) → <mastery-illusion> (death-control) → <recognition-prevention> (compulsion substitutes for ease).
 
-[6248-6266]
+[6248-6266] <ontological-error>
 <spontaneous-perfection-inertia> <lhun-rdzogs-passivity-trap>
 
 **Misreading:**
@@ -292,9 +292,9 @@ Spontaneous perfection justifies inertia. Practitioners use Dzogchen to affirm s
 - Missing that spontaneity is dynamic
 
 **Cascade effects:**
-<spontaneous-perfection-inertia> → <stagnation-defense> (comfortable-unchanging) → <ordinary-mistake> (habits-as-nature) → <recognition-prevention-error> (inertia substitutes for recognition).
+<spontaneous-perfection-inertia> → <stagnation-defense> (comfortable-unchanging) → <ordinary-mistake> (habits-as-nature) → <recognition-prevention> (inertia substitutes for recognition).
 
-[6267-6285]
+[6267-6285] <ontological-error>
 <recognition-anxiety-syndrome> <ngo-shes-performance-stress>
 
 **Misreading:**
@@ -313,9 +313,9 @@ Recognition congeals into anxiety source. Practitioners create stress about atta
 - Missing that ngo shes is not state
 
 **Cascade effects:**
-<recognition-anxiety-syndrome> → <state-obsession> (getting-keeping) → <grasping-effort> (holding-recognition) → <recognition-prevention-error> (anxiety substitutes for ease).
+<recognition-anxiety-syndrome> → <state-obsession> (getting-keeping) → <grasping-effort> (holding-recognition) → <recognition-prevention> (anxiety substitutes for ease).
 
-[6286-6304]
+[6286-6304] <ontological-error>
 <ground-path-result-linearization> <gzhi-lam-'bras-bu-timeline>
 
 **Misreading:**
@@ -334,9 +334,9 @@ Dzogchen congeals into linear timeline. Practitioners view themselves as moving 
 - Missing that gzhi-lam-'bras bu are one view
 
 **Cascade effects:**
-<ground-path-result-linearization> → <timeline-thinking> (journey-metaphor) → <attainment-distance> (far-from-goal) → <recognition-prevention-error> (linearity substitutes for unity).
+<ground-path-result-linearization> → <timeline-thinking> (journey-metaphor) → <attainment-distance> (far-from-goal) → <recognition-prevention> (linearity substitutes for unity).
 
-[6305-6323]
+[6305-6323] <ontological-error>
 <ka-dag-entity-view> <primordial-purity-thing-hood>
 
 **Misreading:**
@@ -355,9 +355,9 @@ Ka-dag turns metaphysical entity. Practitioners search for "it"—the primordial
 - Missing that ka-dag is not a thing
 
 **Cascade effects:**
-<ka-dag-entity-view> → <thing-reification> (entity-belief) → <metaphysical-search> (finding-ka-dag) → <recognition-prevention-error> (object substitutes for emptiness).
+<ka-dag-entity-view> → <thing-reification> (entity-belief) → <metaphysical-search> (finding-ka-dag) → <recognition-prevention> (object substitutes for emptiness).
 
-[6324-6342]
+[6324-6342] <ontological-error>
 <lhun-grub-property-view> <spontaneous-presence-possession>
 
 **Misreading:**
@@ -376,9 +376,9 @@ Lhun-grub congeals into possessed property. Practitioners believe awareness "has
 - Missing that lhun-grub is unfindable
 
 **Cascade effects:**
-<lhun-grub-property-view> → <attribution-duality> (having-quality) → <characteristic-fixation> (describing-awareness) → <recognition-prevention-error> (property substitutes for nature).
+<lhun-grub-property-view> → <attribution-duality> (having-quality) → <characteristic-fixation> (describing-awareness) → <recognition-prevention> (property substitutes for nature).
 
-[6343-6361]
+[6343-6361] <ontological-error>
 <thugs-rje-source-view> <compassion-origin-creation>
 
 **Misreading:**
@@ -397,9 +397,9 @@ Thugs-rje congeals into origin-point. Practitioners view compassion as flowing f
 - Missing that thugs-rje is non-dual display
 
 **Cascade effects:**
-<thugs-rje-source-view> → <origin-duality> (source-product) → <causal-thinking> (generating-compassion) → <recognition-prevention-error> (origin substitutes for display).
+<thugs-rje-source-view> → <origin-duality> (source-product) → <causal-thinking> (generating-compassion) → <recognition-prevention> (origin substitutes for display).
 
-[6362-6380]
+[6362-6380] <ontological-error>
 <trinity-differentiation> <ngo-bo-rang-bzhin-thugs-rje-distinction>
 
 **Misreading:**
@@ -418,9 +418,9 @@ Trinity congeals into three separate things. Practitioners experience essence, t
 - Compartmentalizing enlightened mind
 
 **Cascade effects:**
-<trinity-differentiation> → <separation-experience> (distinct-moments) → <fragmentation> (three-things) → <recognition-prevention-error> (division substitutes for unity).
+<trinity-differentiation> → <separation-experience> (distinct-moments) → <fragmentation> (three-things) → <recognition-prevention> (division substitutes for unity).
 
-[6381-6399]
+[6381-6399] <ontological-error>
 <recognition-cognitive-achievement> <ngo-shes-mental-accomplishment>
 
 **Misreading:**
@@ -439,9 +439,9 @@ Recognition congeals into cognitive trophy. Practitioners seek ngo shes as menta
 - Missing that ngo shes transcends cognition
 
 **Cascade effects:**
-<recognition-cognitive-achievement> → <mental-trophy> (understanding-pride) → <intellectual-conflation> (thinking-is-recognizing) → <recognition-prevention-error> (cognition substitutes for nature).
+<recognition-cognitive-achievement> → <mental-trophy> (understanding-pride) → <intellectual-conflation> (thinking-is-recognizing) → <recognition-prevention> (cognition substitutes for nature).
 
-[6400-6413]
+[6400-6413] <ontological-error>
 <self-liberation-passivity-permission> <rang-grol-non-engagement>
 
 **Misreading:**
@@ -460,9 +460,9 @@ Self-liberation congeals into permission for passivity. Practitioners allow all 
 - Missing that rang grol requires recognition
 
 **Cascade effects:**
-<self-liberation-passivity-permission> → <bypassing-justification> (non-engagement) → <recognition-dismissal> (unnecessary-effort) → <recognition-prevention-error> (passivity substitutes for awareness).
+<self-liberation-passivity-permission> → <bypassing-justification> (non-engagement) → <recognition-dismissal> (unnecessary-effort) → <recognition-prevention> (passivity substitutes for awareness).
 
-[6413-6413]
+[6413-6413] <ontological-error>
 <vision-stage-competition> <mtha'-drug-achievement-ladder>
 
 **Misreading:**
@@ -481,4 +481,4 @@ Thogal congeals into achievement competition. Practitioners vie to "attain" high
 - Missing that mtha' drug describe one display
 
 **Cascade effects:**
-<vision-stage-competition> → <competitive-hierarchy> (stage-climbing) → <comparison-anxiety> (who-is-higher) → <recognition-prevention-error> (competition substitutes for presence).
+<vision-stage-competition> → <competitive-hierarchy> (stage-climbing) → <comparison-anxiety> (who-is-higher) → <recognition-prevention> (competition substitutes for presence).

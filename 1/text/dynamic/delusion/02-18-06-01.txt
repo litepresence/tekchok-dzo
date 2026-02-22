@@ -1,4 +1,4 @@
-[4696-4704]
+[4696-4704] <ontological-error>
 <trekcho-completion-achievement> <three-kaya-gaze-training>
 
 **Misreading:**
@@ -18,7 +18,7 @@ Curriculum-approach: treating three gazes as lessons to master. Natural recognit
 **Cascade effects:**
 <trekcho-completion-achievement> → <curriculum-fixation> [training program mindset] → <sequential-mastery> [lesson-by-lesson approach] → <natural-recognition-miss> [training over being]
 
-[4699-4704]
+[4699-4704] <ontological-error>
 <citation-fetishism> <scriptural-validation-seeking>
 
 **Misreading:**
@@ -38,7 +38,7 @@ Textual-dependence: deferring to scriptural authority. Direct experience is repl
 **Cascade effects:**
 <citation-fetishism> → <scriptural-dependence> [external validation] → <experience-deferral> [text over seeing] → <citation-debate> [argument over recognition]
 
-[4705-4707]
+[4705-4707] <ontological-error>
 <etymological-literalism> <yige-med-visualization>
 
 **Misreading:**
@@ -58,7 +58,7 @@ Blank-state-fixation: seeking letterless origin. Natural awareness is obscured b
 **Cascade effects:**
 <etymological-literalism> → <blank-state-fixation> [emptiness as origin] → <preparatory-obsession> [getting to ground] → <natural-awareness-miss> [construction over nature]
 
-[4708-4711]
+[4708-4711] <ontological-error>
 <three-gaze-enumeration> <gzigs-stangs-compartmentalization>
 
 **Misreading:**
@@ -78,7 +78,7 @@ Gaze-checklist: going through three items separately. Natural recognition is rep
 **Cascade effects:**
 <three-gaze-enumeration> → <gaze-checklist> [separate practices] → <sequential-anxiety> [completing all three] → <single-recognition-miss> [three as one]
 
-[4712-4714]
+[4712-4714] <ontological-error>
 <kaya-dualism> <three-kaya-separation>
 
 **Misreading:**
@@ -98,7 +98,7 @@ Kaya-tritheism: three separate entities with different activities. Indivisible t
 **Cascade effects:**
 <kaya-dualism> → <kaya-tritheism> [three separate entities] → <hierarchical-preference> [higher/lower kayas] → <indivisibility-miss> [single display lost]
 
-[4715-4717]
+[4715-4717] <ontological-error>
 <therapeutic-instrumentalization> <eye-condition-adaptation>
 
 **Misreading:**
@@ -118,7 +118,7 @@ Therapeutic-reduction: treating recognition as vision therapy. Natural recogniti
 **Cascade effects:**
 <therapeutic-instrumentalization> → <therapeutic-reduction> [medical approach] → <physical-limitation> [body as obstacle] → <recognition-medicalization> [therapy over nature]
 
-[4718-4724]
+[4718-4724] <ontological-error>
 <three-eye-enumeration> <spyan-gsum-compartmentalization>
 
 **Misreading:**
@@ -138,8 +138,8 @@ Eye-collecting: treating three eyes as achievements to unlock. Natural wisdom is
 **Cascade effects:**
 <three-eye-enumeration> → <eye-collecting> [achievement checklist] → <sequential-fixation> [order anxiety] → <single-awareness-miss> [missing unity]
 
-[4719-4720]
-<byin-rlabs-dependence> <blessing-externalization>
+[4719-4720] <ontological-error>
+<byin-rlabs-dependence> <externalization-error>
 
 **Misreading:**
 The phrase "by the power of its blessing" (*de'i byin rlabs kyis*) interpreted as actual transmission or empowerment flowing from external source, creating dependence on external blessing-power.
@@ -156,9 +156,9 @@ Blessing-dependence: seeking external empowerment. Natural recognition is deferr
 - External seeking rather than direct seeing
 
 **Cascade effects:**
-<byin-rlabs-dependence> → <blessing-externalization> [seeking transmission] → <empowerment-waiting> [awaiting power] → <self-recognition-deferral> [external over internal]
+<byin-rlabs-dependence> → <externalization-error> [seeking transmission] → <empowerment-waiting> [awaiting power] → <self-recognition-deferral> [external over internal]
 
-[4720-4724]
+[4720-4724] <ontological-error>
 <ye-shes-mthong-achievement> <wisdom-seeing-acquisition>
 
 **Misreading:**
@@ -178,7 +178,7 @@ Wisdom-perception: treating wisdom as object to see. Non-dual recognition is rep
 **Cascade effects:**
 <ye-shes-mthong-achievement> → <wisdom-perception> [object to see] → <subject-object-dualism> [seer and seen] → <non-dual-miss> [perception over nature]
 
-[4721-4722]
+[4721-4722] <ontological-error>
 <rang-gsal-externalization> <self-clarity-objectification>
 
 **Misreading:**
@@ -198,7 +198,7 @@ Self-obsession: watching oneself for clarity. Natural self-clarity is obscured b
 **Cascade effects:**
 <rang-gsal-externalization> → <self-obsession> [watching oneself] → <self-monitoring> [checking clarity] → <natural-clarity-miss> [observation over being]
 
-[4723-4724]
+[4723-4724] <ontological-error>
 <thugs-gsang-externalization> <mind-secret-reification>
 
 **Misreading:**
@@ -218,7 +218,7 @@ Esoteric-fixation: pursuing secret transmissions. Natural recognition is obscure
 **Cascade effects:**
 <thugs-gsang-externalization> → <esoteric-fixation> [secret pursuit] → <mystery-seeking> [hidden knowledge] → <open-presence-miss> [secret over obvious]
 
-[4725-4727]
+[4725-4727] <ontological-error>
 <gnad-fetishism> <key-point-obsession>
 
 **Misreading:**
@@ -238,7 +238,7 @@ Technique-obsession: trying to hit the "key point." Natural recognition is repla
 **Cascade effects:**
 <gnad-fetishism> → <key-point-obsession> [secret technique] → <technical-perfectionism> [executing correctly] → <recognition-miss> [technique over nature]
 
-[4725] <bag-chags-purification-project> <karmic-trace-elimination>
+[4725] <ontological-error>
 
 **Misreading:**
 The phrase "purifying karmic traces downward" (*bag chags thur la sel ba*) interpreted as active elimination of past karma through specific practice, creating purification-project mentality.
@@ -257,7 +257,7 @@ Purification-project: treating traces as stains to eliminate. Natural purity is 
 **Cascade effects:**
 <bag-chags-purification-project> → <karmic-trace-elimination> [stain removal] → <moral-anxiety> [past actions] → <natural-purity-miss> [cleaning over nature]
 
-[4726] <khor-das-ro-mnyam-intellectualization> <samsara-nirvana-blending-concept>
+[4726] <ontological-error>
 
 **Misreading:**
 The phrase "blending samsara and nirvana equally" (*'khor 'das ro mnyam du bsre ba*) interpreted as philosophical position or meditation technique of equalizing opposites, creating conceptual practice of "everything is the same."
@@ -276,7 +276,7 @@ Conceptual-equality: "samsara and nirvana are the same" as thought. Natural equa
 **Cascade effects:**
 <khor-das-ro-mnyam-intellectualization> → <conceptual-equality> [thought about equal] → <philosophical-pride> [understanding vs being] → <natural-equality-miss> [position over nature]
 
-[4727] <ye-shes-snang-ba-attachment> <wisdom-display-chasing>
+[4727] <ontological-error>
 
 **Misreading:**
 The phrase "actually descending wisdom display" (*ye shes kyi snang ba dngos su 'bebs pa*) interpreted as achieving special visionary experience of wisdom-manifestation, creating attachment to spectacular displays.
@@ -295,7 +295,7 @@ Display-chasing: seeking special wisdom-appearances. Natural display is obscured
 **Cascade effects:**
 <ye-shes-snang-ba-attachment> → <wisdom-display-chasing> [seeking visions] → <expectation-manufacturing> [creating experiences] → <natural-display-miss> [vision over nature]
 
-[4728-4731]
+[4728-4731] <ontological-error>
 <temperament-determinism> <le-lo-btson-snyoms-typology>
 
 **Misreading:**
@@ -315,7 +315,7 @@ Type-fixation: "I am lazy, therefore Sambhogakaya gaze." Natural recognition is 
 **Cascade effects:**
 <temperament-determinism> → <type-fixation> [personality category] → <practice-limitation> [type-appropriate methods] → <transcendent-recognition-miss> [type over nature]
 
-[4730-4731]
+[4730-4731] <ontological-error>
 <btang-snyoms-romanticization> <equanimity-spiritual-superiority>
 
 **Misreading:**
@@ -335,7 +335,7 @@ Equanimity-elitism: "I am balanced, therefore Dharmakaya-level." Natural recogni
 **Cascade effects:**
 <btang-snyoms-romanticization> → <equanimity-elitism> [spiritual maturity marker] → <affectation-pride> [status display] → <equal-access-miss> [hierarchy over nature]
 
-[4732-4733]
+[4732-4733] <ontological-error>
 <etymological-essentialism> <nges-tshig-word-magic>
 
 **Misreading:**
@@ -355,7 +355,7 @@ Etymological-essentialism: believing word-origins convey reality. Direct recogni
 **Cascade effects:**
 <etymological-essentialism> → <word-magic> [definitions as power] → <dictionary-dependence> [lexical knowledge] → <experience-miss> [words over seeing]
 
-[4734-4735]
+[4734-4735] <ontological-error>
 <phyi-dbyings-externalization> <external-sphere-objectification>
 
 **Misreading:**
@@ -375,7 +375,7 @@ Environment-fixation: seeking external sky-space. Internal recognition is replac
 **Cascade effects:**
 <phyi-dbyings-externalization> → <environment-fixation> [external observation] → <landscape-obsession> [sky-gazing] → <internal-recognition-miss> [external over internal]
 
-[4735-4736]
+[4735-4736] <ontological-error>
 <smin-mtshams-fetishism> <eyebrow-point-fixation>
 
 **Misreading:**
@@ -395,7 +395,7 @@ Point-fixation: concentrating on eyebrow-location. Natural recognition is obscur
 **Cascade effects:**
 <smin-mtshams-fetishism> → <point-fixation> [anatomical location] → <concentration-anxiety> [holding focus] → <recognition-miss> [point over nature]
 
-[4737-4742]
+[4737-4742] <ontological-error>
 <thal-'gyur-citation-fetishism> <tantra-textual-dependence>
 
 **Misreading:**
@@ -415,7 +415,7 @@ Tantric-dependence: seeking validation from highest source. Direct recognition i
 **Cascade effects:**
 <thal-'gyur-citation-fetishism> → <tantric-dependence> [highest authority] → <scriptural-competition> [textual hierarchy] → <experience-miss> [authority over seeing]
 
-[4738] <sprin-bral-blankness-addiction> <cloudless-sky-void-fixation>
+[4738] <ontological-error>
 
 **Misreading:**
 The "cloudless sky" (*sprin bral mkha'*) interpreted as void-state or blank consciousness to achieve, creating fixation on emptiness-as-absence.
@@ -434,7 +434,7 @@ Void-fixation: pursuing empty consciousness. Natural awareness is obscured by bl
 **Cascade effects:**
 <sprin-bral-blankness-addiction> → <void-fixation> [empty state] → <thought-clearing> [mental vacuum] → <natural-awareness-miss> [blank over nature]
 
-[4739-4740]
+[4739-4740] <ontological-error>
 <bag-rdul-dengs-purification> <dust-mist-cleansing>
 
 **Misreading:**
@@ -454,7 +454,7 @@ Gradual-purification: expecting obstacles to slowly clear. Immediate recognition
 **Cascade effects:**
 <bag-rdul-dengs-purification> → <gradual-purification> [slow clearing] → <timeline-expectation> [waiting for clarity] → <immediate-recognition-miss> [future over now]
 
-[4740-4741]
+[4740-4741] <ontological-error>
 <mkhas-pa-mngon-gsum-elitism> <direct-perception-mastery>
 
 **Misreading:**
@@ -474,7 +474,7 @@ Skill-elitism: "I am skilled, therefore I perceive directly." Natural recognitio
 **Cascade effects:**
 <mkhas-pa-mngon-gsum-elitism> → <skill-elitism> [expertise hierarchy] → <direct-perception-pride> [mastery status] → <equal-recognition-miss> [skill over nature]
 
-[4741-4742]
+[4741-4742] <ontological-error>
 <nang-sgron-lam-technique> <inner-lamp-path-method>
 
 **Misreading:**
@@ -494,7 +494,7 @@ Technique-fixation: treating inner lamp as practice method. Natural recognition 
 **Cascade effects:**
 <nang-sgron-lam-technique> → <technique-fixation> [method obsession] → <method-seeking> [how-to pursuit] → <recognition-miss> [technique over nature]
 
-[4743-4744]
+[4743-4744] <ontological-error>
 <phyi-rig-'char-externalization> <external-awareness-arising>
 
 **Misreading:**
@@ -512,9 +512,9 @@ Spatial-dualism: seeking awareness externally. Non-spatial recognition is replac
 - Geographic confusion about awareness-location
 
 **Cascade effects:**
-<phyi-rig-'char-externalization> → <spatial-dualism> [inside/outside] → <external-seeking> [looking outside] → <non-spatial-miss> [location over nature]
+<phyi-rig-'char-externalization> → <spatial-error> [inside/outside] → <external-seeking> [looking outside] → <non-spatial-miss> [location over nature]
 
-[4744-4745]
+[4744-4745] <ontological-error>
 <nang-nyams-'phel-internalization> <internal-experience-development>
 
 **Misreading:**
@@ -534,7 +534,7 @@ State-cultivation: developing internal experiences. Natural recognition is repla
 **Cascade effects:**
 <nang-nyams-'phel-internalization> → <state-cultivation> [experience building] → <internal-anxiety> [state monitoring] → <natural-display-miss> [cultivation over nature]
 
-[4745] <rig-nyams-gnyis-med-confusion> <awareness-experience-non-dual-intellectualization>
+[4745] <ontological-error>
 
 **Misreading:**
 The phrase "awareness and experience are non-dual" (*rig pa dang nyams gnyis su med pa*) interpreted as philosophical position about non-duality of subject and object, creating conceptual meditation on "no separation."
@@ -553,7 +553,7 @@ Conceptual-non-duality: "awareness and experience are one" as thought. Natural n
 **Cascade effects:**
 <rig-nyams-gnyis-med-confusion> → <conceptual-non-duality> [thought about unity] → <philosophical-pride> [understanding vs being] → <natural-non-duality-miss> [position over nature]
 
-[4745] <khor-'das-'dres-pa-blending> <samsara-nirvana-mixing-technique>
+[4745] <ontological-error>
 
 **Misreading:**
 The term "mixing of samsara and nirvana" (*'khor 'das 'dres pa*) interpreted as specific meditation technique of combining or equalizing opposites, creating method-based approach.
@@ -572,7 +572,7 @@ Technique-mixing: treating union as practice method. Natural indivisibility is r
 **Cascade effects:**
 <khor-'das-'dres-pa-blending> → <technique-mixing> [method approach] → <combining-effort> [union practice] → <natural-indivisibility-miss> [technique over nature]
 
-[4746-4746]
+[4746-4746] <ontological-error>
 <sa-chu-me-rlung-materialization> <element-objectification>
 
 **Misreading:**

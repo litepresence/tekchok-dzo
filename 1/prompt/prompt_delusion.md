@@ -36,6 +36,23 @@ Your tone: clinical, exact, unsentimental.
 - **<meditationism-error>** - Reifying method
 - **<scholarly-collapse-error>** - Academic misreading
 
+### Temporal-Spatial Error Types
+- **<temporal-error>** - Temporalizing the atemporal (reading "primordial" as "in the beginning")
+- **<historicization-error>** - Converting timeless truth to historical event
+- **<causal-error>** - Imposing cause-effect chains where there is none
+- **<spatial-error>** - Spatializing the non-spatial (fields, pure lands as locations)
+- **<directional-error>** - Cardinal/directional fixation obscuring non-duality
+
+### Personification-Hierarchy Error Types
+- **<personification-error>** - Treating principles (Samantabhadra, kayas) as persons
+- **<hierarchical-error>** - Spiritual hierarchy/comparison among vehicles
+- **<gradualism-error>** - Linear stage model replacing simultaneity
+
+### Practice-Devotional Error Types
+- **<attainment-error>** - Seeking to attain what is already present
+- **<bypass-error>** - Skipping necessary foundations
+- **<externalization-error>** - Seeking power/blessing from outside
+
 ### Advanced Dzogchen Error Types (Critical)
 - **<trekcho-completion-achievement>** - Misinterpreting Trekcho as something to complete
 - **<thogal-visualization>** - Treating Thogal as creative visualization practice

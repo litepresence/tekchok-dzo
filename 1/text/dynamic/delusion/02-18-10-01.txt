@@ -1,4 +1,4 @@
-[5125-5146]
+[5125-5146] <ontological-error>
 <practice-error> [NON-MEDITATION AS NOT PRACTICING]
 **Misreading:**
 "Non-meditation" means one should not practice or make any effort at all.
@@ -13,10 +13,10 @@ Laziness justified as Dzogchen practice.
 No actual recognition; ordinary distraction.
 
 **Cascade effects:**
-<practice-error> → <non-meditation-misconception> (literal-non) → <laziness-justification> (inaction-as-practice) → <recognition-prevention-error> (passivity substitutes for recognition).
+<practice-error> → <non-meditation-misconception> (literal-non) → <laziness-justification> (inaction-as-practice) → <recognition-prevention> (passivity substitutes for recognition).
 
-[5147-5158]
-<trekcho-thogal-sequentiality> <khregs-chod-thod-rgal-progression>
+[5147-5158] <ontological-error>
+<thogal-sequential-waiting> <khregs-chod-thod-rgal-progression>
 
 **Misreading:**
 Trekcho (khregs chod) and thogal (thod rgal) represent sequential stages of Dzogchen practice—one must complete cutting-through before being introduced to leap-over visions.
@@ -34,10 +34,10 @@ Dzogchen congeals into staged curriculum. Practitioners obsess over "finishing" 
 - Missing simultaneity of approaches
 
 **Cascade effects:**
-<trekcho-thogal-sequentiality> → <staged-curriculum> (phase-obsession) → <qualification-anxiety> (earning-advanced) → <recognition-prevention-error> (sequence substitutes for unity).
+<thogal-sequential-waiting> → <staged-curriculum> (phase-obsession) → <qualification-anxiety> (earning-advanced) → <recognition-prevention> (sequence substitutes for unity).
 
-[5158-5158]
-<thogal-vision-expectation> <thod-rgal-snang-ba-anticipation>
+[5158-5158] <ontological-error>
+<light-phenomena-attachment> <thod-rgal-snang-ba-anticipation>
 
 **Misreading:**
 Thogal visions (snang ba)—light circles (thig le), five families (rigs lnga), six limits (mtha' drug)—will definitely appear with sufficient practice, indicating successful thogal.
@@ -55,4 +55,4 @@ Thogal congeals into vision-expectation. Practitioners practice while waiting fo
 - Missing that thogal is recognition, not visual effects
 
 **Cascade effects:**
-<thogal-vision-expectation> → <phenomena-dependency> (needing-visions) → <comparison-syndrome> (others-have-lights) → <recognition-prevention-error> (appearances substitute for essence).
+<light-phenomena-attachment> → <phenomena-dependency> (needing-visions) → <comparison-syndrome> (others-have-lights) → <recognition-prevention> (appearances substitute for essence).

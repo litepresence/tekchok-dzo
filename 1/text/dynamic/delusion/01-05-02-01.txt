@@ -1,4 +1,4 @@
-[4283-4295]
+[4283-4295] <ontological-error>
 <method-dualism> [TREKCHÖ/THÖGAL AS SEPARATE PATHS]
 **Misreading:**
 The distinction between Trekchö (simultaneous liberation) and Thögal (progressive liberation) is interpreted as establishing two separate paths for different capacity practitioners.
@@ -16,7 +16,7 @@ Capacity-typing; elitism about Trekchö; deferring Thögal as "advanced"; missin
 <method-dualism> through path-separation.
 <capacity-determinism> through faculty-typing.
 
-[4296-4308]
+[4296-4308] <ontological-error>
 <spontaneity-fetishism> [EFFORTLESS AS PASSIVE]
 **Misreading:**
 "Primordially liberated without returning to basis" is interpreted as establishing that no effort whatsoever is needed, just passive resting.
@@ -32,9 +32,9 @@ Dullness mistaken for natural mind; missing that effortless requires recognition
 
 **Cascade effects:**
 <practice-abandonment> through passive-misinterpretation.
-<dullness-error> through torpor-mistake.
+<practice-error> through torpor-mistake.
 
-[4309-4321]
+[4309-4321] <ontological-error>
 <technique-accumulation> [THREE KEY POINTS AS REQUIREMENTS]
 **Misreading:**
 The three key points (body, aperture, object) are interpreted as establishing three requirements that must all be mastered.
@@ -52,7 +52,7 @@ Technique-checking; formalism; missing that three describe single recognition.
 <perfectionism-paralysis> through requirement-checking.
 <technique-fetishism> through point-mastery.
 
-[4322-4334]
+[4322-4334] <ontological-error>
 <posture-essentialism> [LION/ELEPHANT/SEER AS MANDATORY]
 **Misreading:**
 The three postures (lion, elephant, rishi) are interpreted as establishing mandatory physical positions required for realization.
@@ -70,7 +70,7 @@ Physical strain; flexibility-competition; missing that postures support, not cau
 <technique-fetishism> through posture-requirement.
 <physical-obsession> through form-causality.
 
-[4335-4347]
+[4335-4347] <ontological-error>
 <stillness-fetishism> [DWELLING AS FIXATION]
 **Misreading:**
 The repeated emphasis on "dwelling" (sdod pa) in pure expanse, rigpa, and appearances is interpreted as establishing stillness or fixation as the goal.
@@ -85,10 +85,10 @@ Stillness-seeking. The practitioner tries to make mind still and fixed.
 Dullness; suppression; missing that dwelling is non-wandering, not fixation.
 
 **Cascade effects:**
-<dullness-error> through stillness-seeking.
+<practice-error> through stillness-seeking.
 <suppression> through fixation-effort.
 
-[4348-4360]
+[4348-4360] <ontological-error>
 <tantra-identification> [METHOD TANTRA AS SUPERIOR]
 **Misreading:**
 The classification as "method tantra" (thabs kyi rgyud) is interpreted as establishing that method/technique is the essential feature, privileging technique over nature.
@@ -106,7 +106,7 @@ Technique-accumulation; missing nature tantra; dualism of method/nature.
 <technique-elitism> through method-privileging.
 <dualistic-grasping> through method/nature split.
 
-[4361-4373]
+[4361-4373] <ontological-error>
 <ground-path-result-temporalization> [THREE AS STAGES]
 **Misreading:**
 The threefold structure (ground, path, result) is interpreted as establishing developmental stages one progresses through.
@@ -124,7 +124,7 @@ Deferring result; measuring progress; missing simultaneity.
 <ground-path-fruition temporalization> through stage-model.
 <progress-tracking> through advancement-measurement.
 
-[4374-4386]
+[4374-4386] <ontological-error>
 <three-tantra-hierarchy> [GROUND/ESSENCE/SEED AS LEVELS]
 **Misreading:**
 The three tantras (ground nature, essence, seed) are interpreted as hierarchy or progression, with "seed" (result) as highest.
@@ -139,10 +139,10 @@ Tantra-hierarchy. The practitioner seeks "seed tantra" as most advanced.
 Skipping ground/essence; premature result-focus; missing that three describe single nature.
 
 **Cascade effects:**
-<elitism-error> through hierarchy.
+<hierarchical-error> through hierarchy.
 <practice-path-confusion> through premature advancement.
 
-[4387-4399]
+[4387-4399] <ontological-error>
 <kadag-literalism> [PRIMORDIAL PURITY AS STATE]
 **Misreading:**
 The description of ground nature tantra's primordial purity is interpreted as establishing a state of purity that exists from beginning and can be accessed.
@@ -160,7 +160,7 @@ Seeking special state; missing that ka dag is how things are, not state to enter
 <state-seeking> through purity-access.
 <experience-substantialism> through state-fetishism.
 
-[4400-4412]
+[4400-4412] <ontological-error>
 <lhungrub-achievement> [SPONTANEOUS COMPLETION AS RESULT]
 **Misreading:**
 The description of spontaneous completion (lhun grub) is interpreted as establishing a result or achievement that manifests naturally.
@@ -178,7 +178,7 @@ Deferring to future; passive expectation; missing that lhun grub is present disp
 <future-dependency> through result-waiting.
 <passivity> through spontaneous-misinterpretation.
 
-[4413-4425]
+[4413-4425] <ontological-error>
 <four-visions-progression> [SNANG BZHI AS SEQUENTIAL ACHIEVEMENT]
 **Misreading:**
 The four visions (*snang bzhi*)—direct perception of dharmakaya, increasing of experience, reaching full measure, and exhaustion of phenomena—are interpreted as establishing four sequential stages that must be progressively achieved.
@@ -197,7 +197,7 @@ Waiting for next vision; comparing progress with others; anxiety about not "seei
 <experience-comparison> through vision-hierarchy.
 <future-dependency> through next-stage-waiting.
 
-[4426-4438]
+[4426-4438] <ontological-error>
 <five-kaya-accumulation> [SKU LNGA AS BODIES TO COLLECT]
 **Misreading:**
 The five kayas (*sku lnga*)—dharmakaya, sambhogakaya, nirmanakaya, svabhavikakaya, and vajrakaya—are interpreted as establishing five distinct bodies or states that must be accumulated, developed, or perfected.
@@ -216,7 +216,7 @@ Measuring which kayas one has; kaya-envy of realized masters; complexity without
 <multiplicity-confusion> through five-fold-differentiation.
 <experience-substantialism> through kaya-possession.
 
-[4439-4451]
+[4439-4451] <ontological-error>
 <vision-achievement-anxiety> [NEEDING TO SEE SNANG BZHI]
 **Misreading:**
 The detailed descriptions of visionary phenomena in the four visions are interpreted as establishing specific experiences one must have to confirm progress, creating pressure to "see" the right things.
@@ -232,10 +232,10 @@ Straining for visions; interpreting ordinary phenomena as signs; disappointment 
 
 **Cascade effects:**
 <experience-manufacturing> through vision-production.
-<disappointment-error> through expectation-failure.
+<bypass-error> through expectation-failure.
 <sign-dependence> through confirmation-seeking.
 
-[4452-4464]
+[4452-4464] <ontological-error>
 <compassion-energy-manipulation> [CONTROLLING THUGS RJE]
 **Misreading:**
 The description of compassion (*thugs rje*) as the spontaneous display of energy is interpreted as establishing an energy that can be directed, manipulated, or controlled for specific purposes.
@@ -251,10 +251,10 @@ Spiritual power-seeking; using display for personal ends; exhausting oneself in 
 
 **Cascade effects:**
 <power-grasping> through energy-control.
-<manipulation-error> through compassion-instrumentalization.
+<causal-error> through compassion-instrumentalization.
 <doer-identification> through controller-illusion.
 
-[4465-4477]
+[4465-4477] <ontological-error>
 <seed-tantra-premature> [RUSHING TO BCUD KYI RGYUD]
 **Misreading:**
 The seed tantra (*bcud kyi rgyud*), representing the resultant nature or fruition, is interpreted as establishing the highest or most advanced level, creating desire to access it immediately without ground or essence preparation.
@@ -270,10 +270,10 @@ Skipping fundamental recognition; inflated self-assessment as "already realized"
 
 **Cascade effects:**
 <ground-neglect> through result-haste.
-<inflation-error> through premature-identification.
+<practice-error> through premature-identification.
 <stability-loss> through baseless-claims.
 
-[4478-4490]
+[4478-4490] <ontological-error>
 <essence-tantra-elitism> [MIDDLE LEVEL PRIDE IN SNYING PO]
 **Misreading:**
 The essence tantra (*snying po'i rgyud*), representing the nature or essential meaning, is interpreted as establishing a middle path between basic ground and advanced seed, creating pride in having "moved beyond" ground while not yet claiming full result.
@@ -292,7 +292,7 @@ Spiritual middle-class identity; condescension toward beginners; intimidation by
 <spiritual-classism> through level-pride.
 <respect-failure> through condescension.
 
-[4491-4503]
+[4491-4503] <ontological-error>
 <ground-tantra-dismissal> [SKIPPING GZHI'I RANG BZHIN]
 **Misreading:**
 The ground nature tantra (*gzhi'i rang bzhin gyi rgyud*), establishing primordial purity (*ka dag*), is interpreted as establishing merely a preliminary or basic level that advanced practitioners can skip or transcend.
@@ -311,8 +311,8 @@ Unstable foundation; shallow understanding; collapse when tested; missing that g
 <collapse-under-pressure> through instability.
 <advanced-beginner> through premature-transcendence.
 
-[4504-4516]
-<thogal-vision-chasing> [THOD RGAL LIGHT PHENOMENA PURSUIT]
+[4504-4516] <ontological-error>
+<light-phenomena-attachment> [THOD RGAL LIGHT PHENOMENA PURSUIT]
 **Misreading:**
 Thögal (*thod rgal*), the practice for gradual-facility practitioners involving spontaneous visions, is interpreted as establishing a method for producing spectacular light phenomena and visionary experiences.
 
@@ -330,8 +330,8 @@ Visual obsession; straining eyes and mind; collecting vision-experiences; missin
 <strain-injury> through effortful-practice.
 <experience-accumulation> through vision-collecting.
 
-[4517-4529]
-<trekcho-complacency> [KHREGS CHOD AS DOING NOTHING]
+[4517-4529] <ontological-error>
+<trekcho-completion-achievement> [KHREGS CHOD AS DOING NOTHING]
 **Misreading:**
 Trekchö (*khregs chod*), the practice for simultaneous-facility practitioners involving cutting through, is interpreted as establishing that one need do nothing whatsoever since everything is already primordially pure.
 
@@ -346,10 +346,10 @@ Dullness disguised as recognition; stagnation; loss of dynamic display; missing 
 
 **Cascade effects:**
 <passive-stagnation> through non-action-misinterpretation.
-<dullness-error> through torpor-mistake.
+<practice-error> through torpor-mistake.
 <display-loss> through vitality-absence.
 
-[4530-4542]
+[4530-4542] <ontological-error>
 <faculty-discrimination-acceptance> [ACCEPTING CAPACITY LIMITATION]
 **Misreading:**
 The distinction between simultaneous (*cig car*) and gradual (*rim gyis*) faculty is interpreted as establishing fixed categories into which practitioners fall, accepting one's "gradual" nature as a permanent limitation.
@@ -365,10 +365,10 @@ Self-fulfilling limitation; deferring recognition; envy of "simultaneous" practi
 
 **Cascade effects:**
 <identity-constriction> through capacity-typing.
-<deferral-error> through gradual-acceptance.
+<bypass-error> through gradual-acceptance.
 <limitation-belief> through self-classification.
 
-[4543-4554]
+[4543-4554] <ontological-error>
 <simultaneous-gradual-hierarchy> [RANKING CIG CAR VS RIM GYIS]
 **Misreading:**
 The distinction between simultaneous (*cig car*) and gradual (*rim gyis*) approaches is interpreted as establishing a hierarchy where simultaneous is superior and gradual is inferior, or vice versa.
@@ -385,9 +385,9 @@ Elitism about Trekchö; shame about Thögal; or reverse snobbery about gradual t
 **Cascade effects:**
 <method-elitism> through approach-ranking.
 <identity-attachment> through method-identification.
-<comparison-error> through hierarchical-thinking.
+<scholarly-collapse-error> through hierarchical-thinking.
 
-[4555-4566]
+[4555-4566] <ontological-error>
 <three-key-points-mechanical> [GNAD GSUM TECHNICAL OBSESSION]
 **Misreading:**
 The three key points (*gnad gsum*)—body posture, gate or aperture, and realm or field—are interpreted as establishing mechanical requirements that must be precisely executed for practice to work.
@@ -406,7 +406,7 @@ Checking body position constantly; straining at gates; forcing realm visualizati
 <mechanistic-practice> through technical-fixation.
 <anxiety-loop> through correctness-worry.
 
-[4567-4578]
+[4567-4578] <ontological-error>
 <body-gate-realm-separation> [DIVIDING THE THREE POINTS]
 **Misreading:**
 The three key points of body (*lus*), gate (*sgo*), and realm (*zhing*) are interpreted as establishing three separate domains to be worked on independently, rather than unified supports for recognition.
@@ -421,11 +421,11 @@ Point-separation. The practitioner works on body posture, then gate, then realm 
 Fragmented practice; body without gate awareness; gate without spaciousness; missing that three points describe single gesture of recognition.
 
 **Cascade effects:**
-<fragmentation-error> through point-separation.
+<scholarly-collapse-error> through point-separation.
 <incomplete-practice> through partial-focus.
 <unity-loss> through compartmentalization.
 
-[4579-4590]
+[4579-4590] <ontological-error>
 <unmoving-misinterpretation> [RIGIDITY AS MI G. YO BA PRACTICE]
 **Misreading:**
 The emphasis on "unmoving" (*mi g.yo ba*) or "not wavering" in pure expanse, rigpa, and appearances is interpreted as establishing physical or mental rigidity as the goal.
@@ -440,11 +440,11 @@ Rigidity-practice. The practitioner cultivates physical and mental stiffness, be
 Physical tension; mental fixation; suppression of natural movement; lifeless practice; missing that unmoving is non-wandering of recognition, not frozen stasis.
 
 **Cascade effects:**
-<stiffness-error> through rigidity-cultivation.
+<practice-error> through rigidity-cultivation.
 <suppression> through movement-inhibition.
 <lifelessness> through frozen-practice.
 
-[4591-4602]
+[4591-4602] <ontological-error>
 <clarity-stillness-confusion> [BLANKNESS AS GSAL BA GOAL]
 **Misreading:**
 The description of clarity (*gsal ba*) and stillness in the natural state is interpreted as establishing a blank, empty state of mental quietude as the goal of practice.
@@ -459,11 +459,11 @@ Blankness-seeking. The practitioner tries to achieve a state of mental void or a
 Dullness mistaken for meditation; loss of vivid cognition; torpor; missing that clarity is luminous cognition, not blankness.
 
 **Cascade effects:**
-<dullness-error> through blankness-mistake.
+<practice-error> through blankness-mistake.
 <torpor-cultivation> through void-seeking.
 <cognition-loss> through vividness-suppression.
 
-[4603-4614]
+[4603-4614] <ontological-error>
 <spontaneous-display-neglect> [MISSING LHUN GRUB SNANG BA]
 **Misreading:**
 The emphasis on primordial purity (*ka dag*) and cutting through is interpreted as establishing that spontaneous display (*lhun grub*) and appearances are unimportant or obstacles to be transcended.
@@ -479,10 +479,10 @@ Denigration of phenomena; life-denying practice; imbalance toward emptiness; mis
 
 **Cascade effects:**
 <emptiness-extremism> through display-rejection.
-<nihilism-error> through phenomena-neglect.
+<nihilistic-error> through phenomena-neglect.
 <imbalance> through purity-preference.
 
-[4615-4626]
+[4615-4626] <ontological-error>
 <nature-tantra-inferiority> [METHOD BETTER THAN RANG BZHIN]
 **Misreading:**
 The existence of method tantras (*thabs kyi rgyud*) alongside nature tantras (*rang bzhin gyi rgyud*) is interpreted as establishing that method/technique approaches are superior or more effective than nature/essence approaches.
@@ -499,9 +499,9 @@ Neglect of nature tantras; over-reliance on technique; complexity accumulation; 
 **Cascade effects:**
 <technique-fetishism> through method-preference.
 <direct-recognition-neglect> through nature-dismissal.
-<complication-error> through accumulation.
+<meditationism-error> through accumulation.
 
-[4627-4638]
+[4627-4638] <ontological-error>
 <method-nature-dichotomy> [CREATING THABS RANG BZHIN DUALISM]
 **Misreading:**
 The classification into method tantra (*thabs kyi rgyud*) and nature tantra (*rang bzhin gyi rgyud*) is interpreted as establishing a fundamental dualism between approach and essence, between doing and being.

@@ -4,20 +4,8 @@
 **Layer:** 5 of 12
 **Type:** Translation Layer (LLM Generated)
 **Purpose:** Dpyad kyi bshad pa (Analytical Translation) - Grammatical scaffold
-**Status:** **FROZEN - FINALIZED 2026-02-10**
-**Output:** `/text/literal/VV-CC-SS-SS.txt`
-
----
-
-## ⚠️ CRITICAL WARNING
-
-**THIS LAYER IS FROZEN AND IMMUTABLE**
-
-The Literal Layer is complete, verified against Tibetan source (100% character preservation), and locked. It serves as an **immutable structural scaffold** for all subsequent layers.
-
-**For agents reading this layer:** Use as secondary structural reference only. Always validate interpretive layers against the TIBETAN layer, using Literal as syntactic guide.
-
-**For agents writing this layer:** DO NOT USE. This layer is frozen. The following documents the standards used to create it.
+**Status:** Active - Iterative Refinement
+**Output:** `/text/dynamic/literal/VV-CC-SS-SS.txt`
 
 ---
 
@@ -67,9 +55,23 @@ You are a linguistic instrument. Your sole function is to decompose Wylie and Un
 
 ### Dzogchen Terms
 
-**ka dag / lhun grub:**
-- Dynamic verbal phrases: "primordially pure," "spontaneously accomplished"
-- **NEVER** nominalize as static nouns ("primordial purity")
+**gzhi:**
+- **ALWAYS** translate as "ground"
+- **NEVER** translate as "basis"
+- Hyphenate in compounds: "ground-appearance," "ground-abiding," "ground-path"
+- This is doctrinally precise: gzhi = primordial ground (not abstract "basis")
+
+**ka dag:**
+- Dynamic verbal phrase: "primordially-pure"
+- **NEVER** nominalize as static noun
+
+**lhun grub:**
+- Dynamic verbal phrase: "spontaneously-accomplished"
+- **NEVER** nominalize as static noun
+
+**kun gzhi:**
+- Translate as "all-ground" or "kunzhi"
+- **NEVER** shorten to just "ground" (confuses with gzhi)
 
 ### Syntax & Format
 
@@ -95,14 +97,14 @@ Strict 1:1 mechanical mapping:
 
 ## STATUS
 
-**FROZEN - FINALIZED 2026-02-10**
+**Active - Iterative Refinement**
 
-- 100% line coverage verified against Tibetan source
-- All dictionary standards enforced
-- No prohibited translations remain
-- Immutable foundation for higher layers
+The literal layer progresses through LLM drafts toward final polish. Each section refined through:
+1. Critical review (grammatical accuracy, particle precision)
+2. Repair to maintain strict 1:1 mapping
+3. Iterative refinement consistent with traditional translation practice
 
-**Location:** `text/literal/01-01-01-01.txt` through `text/literal/02-25-XX-XX.txt` (213 sections)
+**Location:** `text/dynamic/literal/01-01-01-01.txt` through `text/dynamic/literal/02-25-XX-XX.txt` (213 sections)
 
 ---
 

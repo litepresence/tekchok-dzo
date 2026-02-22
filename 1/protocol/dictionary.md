@@ -96,10 +96,10 @@
 | Tibetan | English | Context | Literal | Liturgical | Notes |
 |---------|---------|---------|---------|------------|-------|
 | ye shes | jñana / wisdom / pristine cognition | Timeless knowing transcending duality | "jñana" | "Jñana" or "pristine cognition" | Capitalize when technical; distinguishes ye shes from shes rab (prajñā) |
-| ngo bo ka dag | primordial purity of essence | Empty and pure from the beginning | "essence-primordial-purity" | "primordial purity of essence" | First of the three basis-abiding wisdoms |
-| rang bzhin lhun grub | spontaneous perfection of nature | Naturally complete qualities | "nature-spontaneous-presence" | "spontaneous perfection of nature" | Second of the three basis-abiding wisdoms |
-| thugs rje kun khyab | all-pervading compassion | Compassion pervading all manifestation | "compassion-all-pervading" | "all-pervading compassion" | Third of the three basis-abiding wisdoms |
-| gzhi gnas kyi ye shes | wisdom of basis-abiding | Wisdom dwelling primordially | "basis-abiding wisdom" | "Wisdom of Basis-Abiding" | First of the three wisdom divisions |
+| ngo bo ka dag | primordial purity of essence | Empty and pure from the beginning | "essence-primordial-purity" | "primordial purity of essence" | First of the three ground-abiding wisdoms |
+| rang bzhin lhun grub | spontaneous perfection of nature | Naturally complete qualities | "nature-spontaneous-presence" | "spontaneous perfection of nature" | Second of the three ground-abiding wisdoms |
+| thugs rje kun khyab | all-pervading compassion | Compassion pervading all manifestation | "compassion-all-pervading" | "all-pervading compassion" | Third of the three ground-abiding wisdoms |
+| gzhi gnas kyi ye shes | wisdom of ground-abiding | Wisdom dwelling primordially | "ground-abiding wisdom" | "Wisdom of Basis-Abiding" | First of the three wisdom divisions |
 | mtshan nyid 'dzin pa'i ye shes | wisdom of characteristic-holding | Wisdom apprehending defining marks | "characteristic-holding wisdom" | "Wisdom of Characteristic-Holding" | Second of the three wisdom divisions |
 | yul la khyab pa'i ye shes | wisdom pervading objects | Wisdom encompassing all phenomena | "object-pervading wisdom" | "Wisdom Pervading Objects" | Third of the three wisdom divisions |
 | me long lta bu'i ye shes | mirror-like wisdom | Wisdom reflecting without distortion | "mirror-like wisdom" | "Mirror-like Wisdom" | First of the five characteristic wisdoms |
@@ -124,4 +124,103 @@
 | yang | also / moreover / again | Emphatic | "also" / "moreover" | Additive/emphatic |
 | zhig | -ing / imperative | Imperative/Suspensive | "do it!" / "-ing" | Context-dependent urgency |
 | cig | one / a / single | Indefinite/Numeral | "one" / "a" | Can function as indefinite article |
+
+
+---
+
+## CRITICAL TRANSLATION NOTE: gzhi (གཞི་)
+
+**DOCTRINAL DISTINCTION - MUST PRESERVE**
+
+| Tibetan | Translation | Context | NEVER Use |
+|---------|-------------|---------|-----------|
+| gzhi (གཞི་) | **ground** | Primordial ground, the basis of all, Dzogchen technical term | "basis" in doctrinal contexts |
+| kun gzhi (ཀུན་གཞི་) | **all-ground** or **kunzhi** | The universal ground (ālaya), neutral basis of experience | "ground" alone (confuses with gzhi) |
+| kun gzhi rnam shes | **kunzhi consciousness** | The defiled aspect, 8th consciousness | "ground consciousness" |
+
+### Rule for "gzhi"
+
+In Dzogchen doctrinal contexts, **gzhi MUST be translated as "ground"** - never "basis."
+
+**Key phrases requiring "ground":**
+- `gzhi lam 'bras bu` = **ground, path, and result** (NOT "basis, path, result")
+- `'khor 'das gzhi gcig` = **samsara and nirvana are one ground**
+- `ye gzhi` = **primordial ground**
+- `gzhi'i ngo bo` = **ground's essence**
+
+### Why This Matters
+
+In Dzogchen:
+- **gzhi (ground)** = the primordial ground of all phenomena, the basis-as-suchness
+- **kun gzhi (all-ground)** = the universal ground as neutral container
+
+Translating gzhi as "basis" loses this crucial distinction and confuses the Dzogchen view.
+
+### Files Fixed
+
+The following liturgical files were corrected to use "ground" instead of "basis":
+- 01-04-14-01.txt [3612]: "basis, path, result" → "ground, path, result"
+- 01-04-13-01.txt [3338]: "basis, path, and result" → "ground, path, and result"
+- 01-04-19-01.txt [3997]: "basis of samsara and nirvana" → "ground of samsara and nirvana"
+- 01-14-01-01.txt [17459]: "original basis" → "primordial ground"
+- 02-21-01-01.txt [10136]: "base, path, fruit" → "ground, path, result"
+
+---
+
+
+---
+
+## ADDITIONAL TERMS (Added during consistency review)
+
+| Tibetan | English | Context | Literal | Liturgical | Notes |
+|---------|---------|---------|---------|------------|-------|
+| bar do | bardo | Intermediate state | "bardo" or "intermediate state" | "bardo" | Both acceptable; "bardo" preferred for technical precision |
+| khregs chod | trekcho | Cutting-through | "trekcho" or "cutting-through" | "Trekcho" | Dzogchen practice term; both acceptable |
+| thod rgal | thogal | Leap-over | "thogal" or "leap-over" | "Thogal" | Dzogchen practice term; both acceptable |
+| thig le | bindu | Energy drop | "bindu" or "drop" | "bindu" | Context-dependent; "bindu" preferred in technical contexts |
+
+
+---
+
+## EPISTEMIC LAYER TAGS
+
+### Valid View Tags
+- `<ordinary-cognition>` - Empirical, conventional
+- `<sutric-provisional>` - Causal vehicle, Madhyamaka reasoning
+- `<tantric-transformative>` - Result methods, deity, subtle body
+- `<dzogchen-sems>` - Mind-based pedagogical entry
+- `<dzogchen-rigpa>` - Direct primordial awareness view
+- `<non-assertive>` - Intentional refusal to posit view
+
+### Valid Pedagogy Tags
+- `<instructional-provisionality>` - Said to guide, not assert
+- `<polemical-distinction>` - Said to exclude other views
+- `<upaya-statement>` - Expedient framing
+- `<negational-clearing>` - Removing false views
+- `<declarative-finality>` - Definitive within Dzogchen
+
+### Valid Risk Tags
+- `<risk:reification>` - Risk of substantializing
+- `<risk:nihilism>` - Risk of negating too much
+- `<risk:view-collapse>` - Risk of confusing view registers
+
+
+---
+
+## DELUSION LAYER ERROR TAGS
+
+### General Error Types
+- `<ontological-error>` - Reality misapprehension
+- `<epistemic-error>` - Knowledge claim failure
+- `<pedagogical-error>` - Teaching misapplication
+- `<practice-error>` - Methodological mistake
+- `<reification-error>` - Substantializing emptiness
+- `<nihilistic-error>` - Negating to annihilation
+- `<eternalistic-error>` - Affirming permanence
+- `<psychologization-error>` - Reducing to psychology
+- `<meditationism-error>` - Reifying method
+- `<scholarly-collapse-error>` - Academic misreading
+
+### Recognition Blocking
+- `<recognition-prevention>` - Root tag for errors blocking recognition
 

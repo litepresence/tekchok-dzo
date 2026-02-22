@@ -79,7 +79,7 @@ Reader either rejects or enjoys the text without receiving the instruction. The 
 **Cascade effects:**
 <scientism error>or [LITERARY ERROR].
 
-[13474-13482] <ontological-error> <temporal-error>
+[13474-13482] <ontological-error> <ontological-error>
 **Misreading:**
 The nine months of gestation is understood as literal temporal requirement for spiritual development rather than symbolic of recognition's maturation.
 
@@ -174,9 +174,9 @@ Self-existing qualities are replaced by achievements to accomplish. The immanenc
 Practitioner seeks to acquire wisdoms rather than recognizing their intrinsic presence. The "already accomplished" is obscured.
 
 **Cascade effects:**
-<acquisition-error>[TELEOLOGICAL ERROR].
+<attainment-error>[TELEOLOGICAL ERROR].
 
-[13526-13534] <ontological-error> <temporal-error>
+[13526-13534] <ontological-error> <ontological-error>
 **Misreading:**
 The stages of fetal development are interpreted as rigid developmental schema that must be traversed rather than symbolic of recognition's immediacy.
 
@@ -304,7 +304,7 @@ Practitioner seeks to find or realize a ground. The groundlessness of Dzogchen i
 **Cascade effects:**
 <essentialism error>[METAPHYSICAL ERROR].
 
-[13603-13611] <ontological-error> <temporal-error>
+[13603-13611] <ontological-error> <ontological-error>
 **Misreading:**
 The birth process is interpreted as literal event to be reversed or transcended rather than symbolic of delusion's entry into ground.
 
@@ -384,7 +384,7 @@ Practitioner seeks to transform aggregates or achieve rainbow body. The recognit
 **Cascade effects:**
 <rainbow body error>[TELEOLOGICAL ERROR].
 
-[13662-13668] <ontological-error> [PHYSICAL REIFICATION]
+[13662-13668] <ontological-error>
 **Misreading:**
 Channels (rtsa), winds (rlung), and pristine awareness are physical anatomical structures.
 
@@ -400,10 +400,10 @@ Attempting to locate channels through dissection or imaging.
 
 **Cascade effects:**
 
-[13669-13675] [EMBRYOLOGICAL LITERALISM ERROR]
+[13669-13675] <ontological-error>
 [SUBTLE BODY MATERIALIZATION ERROR]
 
-[13676-13682] [TEMPORAL LITERALISM] [KALPA CALCULATION ERROR]
+[13676-13682] <ontological-error>
 **Misreading:**
 Time references (zhag bdun - seven days) indicate precise chronological measurements of embryonic development.
 
@@ -420,7 +420,7 @@ Missing symbolic significance of septenary cycles in completion stage practice.
 **Cascade effects:**
 <scholarly-collapse-error> → error-propagates → downstream-effects → final-result
 
-[13683-13689] <ontological-error> [TRIKAYA REIFICATION]
+[13683-13689] <ontological-error>
 **Misreading:**
 The three kayas (sku gsum) exist as localized entities within the body at specific developmental stages.
 
@@ -437,7 +437,7 @@ Temporalizing what is atemporal.
 **Cascade effects:**
 [MEDITATION PROGRESS ERROR]
 
-[13690-13701] <ontological-error> [ELEMENTAL HYLOMORPHISM]
+[13690-13701] <ontological-error>
 **Misreading:**
 The four elements ('byung bzhi) literally assemble like building blocks to construct the embryo.
 
@@ -452,9 +452,9 @@ Missing the primordial purity (ka dag) of elements from the beginning.
 Confusing conventional manifestation with ultimate nature.
 
 **Cascade effects:**
-<substantialist-error> → thing-creation → grasping → bondage
+<reification-error> → thing-creation → grasping → bondage
 
-[13702-13713] <ontological-error> [SYLLABLE ESSENTIALISM]
+[13702-13713] <ontological-error>
 **Misreading:**
 Seed syllables (yi ge) have inherent creative power as causal agents.
 
@@ -471,7 +471,7 @@ Missing that syllables are self-arisen (rang byung) manifestations of awareness.
 **Cascade effects:**
 [MANTRA MATERIALISM ERROR]
 
-[13714-13726] [NUMERICAL LITERALISM] [ENUMERATION ERROR]
+[13714-13726] <ontological-error>
 **Misreading:**
 Numerical counts of bugs/worms (srin bu), channels (rtsa), and syllables are exact quantitative descriptions.
 
@@ -488,7 +488,7 @@ Quantifying the unquantifiable nature of awareness-display.
 **Cascade effects:**
 <scholarly-collapse-error> → error-propagates → downstream-effects → final-result
 
-[13727-13735] <ontological-error> [WIND PATHOLOGY REIFICATION]
+[13727-13735] <ontological-error>
 **Misreading:**
 Wind disorders (rlung mkhris bad kan) in the embryo are identical to Tibetan medical pathologies.
 
@@ -505,7 +505,7 @@ Missing the primordially pure nature of even "disordered" winds.
 **Cascade effects:**
 [SUBTLE BODY MEDICALIZATION ERROR]
 
-[13736-13744] [NUMERICAL LITERALISM] [KALPA CALCULATION ERROR]
+[13736-13744] <ontological-error>
 **Misreading:**
 "Five hundred" (lnga brgya) at line 13328 refers to a specific historical period.
 
@@ -522,7 +522,7 @@ Missing the timeless availability of recognition.
 **Cascade effects:**
 [ESCHATOLOGICAL ANXIETY ERROR]
 
-[13745-13754] <ontological-error> [AGGREGATE SUBSTANTIALISM]
+[13745-13754] <ontological-error>
 **Misreading:**
 The eighteen dhatus (khams bco brgyad) are substantial existents that "form" (chags) in sequence.
 
@@ -539,7 +539,7 @@ Temporalizing what is timeless manifestation.
 **Cascade effects:**
 [APPEARANCE-REALITY DICHOTOMY ERROR]
 
-[13755-13764] <ontological-error> [SENSORY FACULTY REIFICATION]
+[13755-13764] <ontological-error>
 **Misreading:**
 Sense faculties (dbang po) develop as functional apparatuses for perceiving external objects.
 
@@ -556,7 +556,7 @@ Missing the self-recognition nature of perception.
 **Cascade effects:**
 [PERCEPTUAL DUALISM ERROR]
 
-[13765-13774] <ontological-error> [AFFLICTION SUBSTANTIALISM]
+[13765-13774] <ontological-error>
 **Misreading:**
 Afflictions (nyon mongs pa) arise as real entities to be eliminated.
 
@@ -573,7 +573,7 @@ Missing primordial purity of all that appears.
 **Cascade effects:**
 [PURIFICATION PROJECT ERROR]
 
-[13775-13784] [TEMPORAL LITERALISM] [DEVELOPMENTAL STAGING ERROR]
+[13775-13784] <ontological-error>
 **Misreading:**
 The 35 days, 49 days, etc., mark discrete developmental stages like trimesters.
 
@@ -590,7 +590,7 @@ Literalizing the temporal dimension of atemporal wisdom display.
 **Cascade effects:**
 <scholarly-collapse-error> → error-propagates → downstream-effects → final-result
 
-[13785-13792] <ontological-error> [WISDOM PATH SUBSTANTIALISM]
+[13785-13792] <ontological-error>
 **Misreading:**
 The wisdom path (ye shes kyi lam) is a channel or conduit through which something travels.
 
@@ -607,7 +607,7 @@ Confusing wisdom with energy flow.
 **Cascade effects:**
 [KUNDALINI MATERIALISM ERROR]
 
-[13793-13800] <ontological-error> [ESSENCE/REFUSE DUALISM]
+[13793-13800] <ontological-error>
 **Misreading:**
 Essence (dangs ma) and refuse (snyigs ma) are inherently different substances.
 
@@ -623,10 +623,10 @@ Missing that both are equally mind's display.
 
 **Cascade effects:**
 
-[13801-13808] [ASCETICISM ERROR]
+[13801-13808] <ontological-error>
 [PURITY OBSESSION ERROR]
 
-[13809-13816] [NUMERICAL LITERALISM] [COMPONENT ENUMERATION ERROR]
+[13809-13816] <ontological-error>
 **Misreading:**
 Counts like "32 channels" and "80,000 worms" are exact inventory of subtle body anatomy.
 
@@ -643,7 +643,7 @@ Quantifying what transcends quantification.
 **Cascade effects:**
 <scholarly-collapse-error> → error-propagates → downstream-effects → final-result
 
-[13817-13826] <ontological-error> [SAMANTABHADRA DUALISM]
+[13817-13826] <ontological-error>
 **Misreading:**
 Samantabhadra father-mother (kun bzang yab yum) are deities external to oneself who generate the body.
 
@@ -660,7 +660,7 @@ Reifying deities as separate from awareness.
 **Cascade effects:**
 [THEISTIC PROJECTION ERROR]
 
-[13827-13830] [NUMERICAL LITERALISM] [ENUMERATION HYPNOSIS]
+[13827-13830] <ontological-error>
 **Misreading:**
 The extensive numerical calculations (sum brgya, bcu tham pa, etc.) are mathematical truths.
 
