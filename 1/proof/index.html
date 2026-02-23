@@ -905,38 +905,41 @@
     };
 
     const CHAPTER_MAP = {
-        '01-01-00-00': { chapter: 1, startLine: 1 },
-        '01-02-00-00': { chapter: 2, startLine: 584 },
-        '01-03-00-00': { chapter: 3, startLine: 1247 },
-        '01-04-00-00': { chapter: 4, startLine: 1931 },
-        '01-05-00-00': { chapter: 5, startLine: 3282 },
-        '01-06-00-00': { chapter: 6, startLine: 4021 },
-        '01-07-00-00': { chapter: 7, startLine: 4728 },
-        '01-08-00-00': { chapter: 8, startLine: 5368 },
-        '01-09-00-00': { chapter: 9, startLine: 6103 },
-        '01-10-00-00': { chapter: 10, startLine: 6987 },
-        '01-11-00-00': { chapter: 11, startLine: 7724 },
-        '01-12-00-00': { chapter: 12, startLine: 8442 },
-        '01-13-00-00': { chapter: 13, startLine: 9250 },
-        '01-14-00-00': { chapter: 14, startLine: 10001 },
-        '02-15-00-00': { chapter: 15, startLine: 10702 },
-        '02-16-00-00': { chapter: 16, startLine: 11397 },
-        '02-17-00-00': { chapter: 17, startLine: 12025 },
-        '02-18-00-00': { chapter: 18, startLine: 12604 },
-        '02-19-00-00': { chapter: 19, startLine: 13247 },
-        '02-20-00-00': { chapter: 20, startLine: 13921 },
-        '02-21-00-00': { chapter: 21, startLine: 14615 },
-        '02-22-00-00': { chapter: 22, startLine: 14985 },
-        '02-23-00-00': { chapter: 23, startLine: 15320 },
-        '02-24-00-00': { chapter: 24, startLine: 15635 },
-        '02-25-00-00': { chapter: 25, startLine: 16272 }
+        '01-01-00-00': { volume: 1, chapter: 1, startLine: 1 },
+        '01-02-00-00': { volume: 1, chapter: 2, startLine: 635 },
+        '01-03-00-00': { volume: 1, chapter: 3, startLine: 1582 },
+        '01-04-00-00': { volume: 1, chapter: 4, startLine: 1902 },
+        '01-05-00-00': { volume: 1, chapter: 5, startLine: 4172 },
+        '01-06-00-00': { volume: 1, chapter: 6, startLine: 6801 },
+        '01-07-00-00': { volume: 1, chapter: 7, startLine: 9704 },
+        '01-08-00-00': { volume: 1, chapter: 8, startLine: 10472 },
+        '01-09-00-00': { volume: 1, chapter: 9, startLine: 11335 },
+        '01-10-00-00': { volume: 1, chapter: 10, startLine: 12500 },
+        '01-11-00-00': { volume: 1, chapter: 11, startLine: 13104 },
+        '01-12-00-00': { volume: 1, chapter: 12, startLine: 13831 },
+        '01-13-00-00': { volume: 1, chapter: 13, startLine: 16025 },
+        '01-14-00-00': { volume: 1, chapter: 14, startLine: 17361 },
+        '02-15-00-00': { volume: 2, chapter: 15, startLine: 1 },
+        '02-16-00-00': { volume: 2, chapter: 16, startLine: 685 },
+        '02-17-00-00': { volume: 2, chapter: 17, startLine: 1754 },
+        '02-18-00-00': { volume: 2, chapter: 18, startLine: 3922 },
+        '02-19-00-00': { volume: 2, chapter: 19, startLine: 5963 },
+        '02-20-00-00': { volume: 2, chapter: 20, startLine: 8083 },
+        '02-21-00-00': { volume: 2, chapter: 21, startLine: 9413 },
+        '02-22-00-00': { volume: 2, chapter: 22, startLine: 10211 },
+        '02-23-00-00': { volume: 2, chapter: 23, startLine: 12011 },
+        '02-24-00-00': { volume: 2, chapter: 24, startLine: 15275 },
+        '02-25-00-00': { volume: 2, chapter: 25, startLine: 15635 }
     };
 
-    function findChapterFromLine(lineNum) {
+    const VOL1_TOTAL_LINES = 20426;
+
+    function findChapterFromLine(lineNum, volume) {
+        volume = volume || currentVolume;
         let bestMatch = '01-01-00-00';
         let bestStart = 0;
         for (const [chapterId, data] of Object.entries(CHAPTER_MAP)) {
-            if (data.startLine <= lineNum && data.startLine > bestStart) {
+            if (data.volume === volume && data.startLine <= lineNum && data.startLine > bestStart) {
                 bestStart = data.startLine;
                 bestMatch = chapterId;
             }
@@ -946,6 +949,7 @@
 
         let currentLayer = null;
         let currentLine = null;
+        let currentVolume = 1;
         let selectedTranslationLayer = null;
         const welcomeScreen = document.getElementById('welcome');
         const lineIndicator = document.getElementById('line-indicator');
@@ -1052,18 +1056,18 @@
         if (iframe) {
             if (iframe.src === 'about:blank' || !iframe.src || iframe.src === 'about:blank') {
                 let src = iframe.dataset.src;
-                if (layerId === 'introduction' && lineToUse) {
-                    const chapterId = findChapterFromLine(lineToUse);
+                if (layerId === 'introduction' && currentLine) {
+                    const chapterId = findChapterFromLine(currentLine, currentVolume);
                     src += '#chapter-' + chapterId;
-                } else if (lineToUse && !isNaN(lineToUse) && layers[layerId].exactMatch) {
-                    src += '#line-' + lineToUse;
+                } else if (currentLine && !isNaN(currentLine) && layers[layerId].exactMatch) {
+                    src += '#line-' + currentLine;
                 }
                 iframe.src = src;
-            } else if (layerId === 'introduction' && lineToUse) {
-                const chapterId = findChapterFromLine(lineToUse);
+            } else if (layerId === 'introduction' && currentLine) {
+                const chapterId = findChapterFromLine(currentLine, currentVolume);
                 iframe.src = iframe.dataset.src + '#chapter-' + chapterId;
-            } else if (lineToUse && !isNaN(lineToUse) && layers[layerId].exactMatch) {
-                iframe.src = iframe.dataset.src + '#line-' + lineToUse;
+            } else if (currentLine && !isNaN(currentLine) && layers[layerId].exactMatch) {
+                iframe.src = iframe.dataset.src + '#line-' + currentLine;
             }
         }
 
@@ -1078,17 +1082,21 @@
         }
         try {
             const doc = iframe.contentDocument;
-            // Get the element at the top-left of the iframe's visible area
-            // Use a point slightly down from top to account for header
             const topElement = doc.elementFromPoint(50, 100);
             console.log('Top element at (50, 100):', topElement);
             if (topElement) {
-                // Find the closest line element (either the element itself or an ancestor)
                 let el = topElement;
                 while (el && el !== doc.body) {
                     if (el.id && el.id.startsWith('line-')) {
                         console.log('Found line element:', el.id);
-                        return el.id.replace('line-', '');
+                        const lineNum = el.id.replace('line-', '');
+                        // Detect volume from parent chapter
+                        const chapter = el.closest('[data-chapter-key]');
+                        if (chapter) {
+                            const key = chapter.dataset.chapterKey;
+                            currentVolume = key.startsWith('02-') ? 2 : 1;
+                        }
+                        return lineNum;
                     }
                     el = el.parentElement;
                 }
@@ -1102,7 +1110,14 @@
                 const lineRect = line.getBoundingClientRect();
                 if (lineRect.top >= iframeRect.top && lineRect.top <= iframeRect.top + 200) {
                     console.log('Fallback found line:', line.id);
-                    return line.id.replace('line-', '');
+                    const lineNum = line.id.replace('line-', '');
+                    // Detect volume from parent chapter
+                    const chapter = line.closest('[data-chapter-key]');
+                    if (chapter) {
+                        const key = chapter.dataset.chapterKey;
+                        currentVolume = key.startsWith('02-') ? 2 : 1;
+                    }
+                    return lineNum;
                 }
             }
             console.log('No line found in viewport');
@@ -1169,9 +1184,11 @@
         // Listen for chapter position updates from introduction iframe
         if (e.data && e.data.type === 'chapterPosition') {
             const lineNum = parseInt(e.data.line);
+            const vol = parseInt(e.data.volume) || 1;
             if (!isNaN(lineNum)) {
                 currentLine = lineNum;
-                console.log('Updated currentLine from introduction chapter:', currentLine);
+                currentVolume = vol;
+                console.log('Updated from introduction chapter:', currentLine, 'volume:', currentVolume);
             }
         }
     });

@@ -16,13 +16,31 @@ INPUT_DIR = Path("../text/preface")
 OUTPUT_FILE = Path("html/introduction_proof.html")
 
 CHAPTER_MAP = {
-    '01-01-00-00': 1, '01-02-00-00': 584, '01-03-00-00': 1247, '01-04-00-00': 1931,
-    '01-05-00-00': 3282, '01-06-00-00': 4021, '01-07-00-00': 4728, '01-08-00-00': 5368,
-    '01-09-00-00': 6103, '01-10-00-00': 6987, '01-11-00-00': 7724, '01-12-00-00': 8442,
-    '01-13-00-00': 9250, '01-14-00-00': 10001, '02-15-00-00': 10702, '02-16-00-00': 11397,
-    '02-17-00-00': 12025, '02-18-00-00': 12604, '02-19-00-00': 13247, '02-20-00-00': 13921,
-    '02-21-00-00': 14615, '02-22-00-00': 14985, '02-23-00-00': 15320, '02-24-00-00': 15635,
-    '02-25-00-00': 16272
+    '01-01-00-00': {'volume': 1, 'chapter': 1, 'startLine': 1},
+    '01-02-00-00': {'volume': 1, 'chapter': 2, 'startLine': 635},
+    '01-03-00-00': {'volume': 1, 'chapter': 3, 'startLine': 1582},
+    '01-04-00-00': {'volume': 1, 'chapter': 4, 'startLine': 1902},
+    '01-05-00-00': {'volume': 1, 'chapter': 5, 'startLine': 4172},
+    '01-06-00-00': {'volume': 1, 'chapter': 6, 'startLine': 6801},
+    '01-07-00-00': {'volume': 1, 'chapter': 7, 'startLine': 9704},
+    '01-08-00-00': {'volume': 1, 'chapter': 8, 'startLine': 10472},
+    '01-09-00-00': {'volume': 1, 'chapter': 9, 'startLine': 11335},
+    '01-10-00-00': {'volume': 1, 'chapter': 10, 'startLine': 12500},
+    '01-11-00-00': {'volume': 1, 'chapter': 11, 'startLine': 13104},
+    '01-12-00-00': {'volume': 1, 'chapter': 12, 'startLine': 13831},
+    '01-13-00-00': {'volume': 1, 'chapter': 13, 'startLine': 16025},
+    '01-14-00-00': {'volume': 1, 'chapter': 14, 'startLine': 17361},
+    '02-15-00-00': {'volume': 2, 'chapter': 15, 'startLine': 1},
+    '02-16-00-00': {'volume': 2, 'chapter': 16, 'startLine': 685},
+    '02-17-00-00': {'volume': 2, 'chapter': 17, 'startLine': 1754},
+    '02-18-00-00': {'volume': 2, 'chapter': 18, 'startLine': 3922},
+    '02-19-00-00': {'volume': 2, 'chapter': 19, 'startLine': 5963},
+    '02-20-00-00': {'volume': 2, 'chapter': 20, 'startLine': 8083},
+    '02-21-00-00': {'volume': 2, 'chapter': 21, 'startLine': 9413},
+    '02-22-00-00': {'volume': 2, 'chapter': 22, 'startLine': 10211},
+    '02-23-00-00': {'volume': 2, 'chapter': 23, 'startLine': 12011},
+    '02-24-00-00': {'volume': 2, 'chapter': 24, 'startLine': 15275},
+    '02-25-00-00': {'volume': 2, 'chapter': 25, 'startLine': 15635}
 }
 
 def md_to_html(content):
@@ -103,7 +121,12 @@ function reportChapter() {{
     }}
     if (found && found !== lastReportedChapter && CHAPTER_MAP[found]) {{
         lastReportedChapter = found;
-        window.parent.postMessage({{ type: 'chapterPosition', chapter: found, line: CHAPTER_MAP[found] }}, '*');
+        window.parent.postMessage({{ 
+            type: 'chapterPosition', 
+            chapter: found, 
+            line: CHAPTER_MAP[found].startLine,
+            volume: CHAPTER_MAP[found].volume
+        }}, '*');
     }}
 }}
 
