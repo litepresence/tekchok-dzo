@@ -187,6 +187,20 @@
         box-shadow: inset 0 2px 4px rgba(0, 0, 0, 0.2);
     }
 
+    .nav-tab.conventions {
+        background: #6d4c41;
+        border-radius: 4px;
+        padding: 0.5em 1em;
+    }
+
+    .nav-tab.conventions::before {
+        display: none;
+    }
+
+    .nav-tab.conventions:hover {
+        background: #8d6e63;
+    }
+
     .nav-tab.tibetan {
         background: var(--color-tibetan);
     }
@@ -721,6 +735,7 @@
     <nav class="nav-container">
         <div class="nav-tabs">
             <a href="#contents" class="nav-tab contents">Contents</a>
+            <a href="conventions.html" class="nav-tab conventions">Conventions</a>
             <span class="nav-divider"></span>
             <a href="#introduction" class="nav-tab introduction">Introduction</a>
             <a href="#tibetan" class="nav-tab tibetan">Tibetan</a>
@@ -951,6 +966,10 @@
         let currentLine = null;
         let currentVolume = 1;
         let selectedTranslationLayer = null;
+        
+        function setCurrentVolumeFromChapterKey(key) {
+            currentVolume = key.startsWith('02-') ? 2 : 1;
+        }
         const welcomeScreen = document.getElementById('welcome');
         const lineIndicator = document.getElementById('line-indicator');
         const navTabs = document.querySelectorAll('.nav-tab');
@@ -1002,10 +1021,24 @@
         if (!hash) { showWelcome(); return; }
         const parts = hash.split(':');
         const layerId = parts[0];
-        const lineNum = parts[1] ? parseInt(parts[1]) : null;
+        const volume = parts[1] ? parseInt(parts[1]) : null;
+        const chapter = parts[2] && parts[2] !== '' ? parseInt(parts[2]) : null;
+        const lineNum = parts[3] ? parseInt(parts[3]) : null;
+        
+        // Handle old format: #layer:line (no volume)
+        if (parts.length === 2 && !isNaN(parseInt(parts[1]))) {
+            // Old format: #layer:line
+            if (!layers[layerId]) { showWelcome(); return; }
+            currentLine = parseInt(parts[1]);
+            showLayer(layerId, currentLine, currentVolume, null);
+            return;
+        }
+        
         if (!layers[layerId]) { showWelcome(); return; }
+        
+        if (volume) currentVolume = volume;
         if (lineNum && !isNaN(lineNum)) currentLine = lineNum;
-        showLayer(layerId, lineNum);
+        showLayer(layerId, lineNum, volume, chapter);
     }
 
     function showWelcome() {
@@ -1024,8 +1057,10 @@
         hideLineIndicator();
     }
 
-    function showLayer(layerId, targetLine) {
+    function showLayer(layerId, targetLine, targetVolume, targetChapter) {
         welcomeScreen.style.display = 'none';
+        
+        if (targetVolume) currentVolume = targetVolume;
         
         // Update nav tabs
         navTabs.forEach(tab => {
@@ -1056,18 +1091,22 @@
         if (iframe) {
             if (iframe.src === 'about:blank' || !iframe.src || iframe.src === 'about:blank') {
                 let src = iframe.dataset.src;
-                if (layerId === 'introduction' && currentLine) {
-                    const chapterId = findChapterFromLine(currentLine, currentVolume);
+                if (layerId === 'introduction') {
+                    const chapterId = targetChapter 
+                        ? `${String(currentVolume).padStart(2, '0')}-${String(targetChapter).padStart(2, '0')}`
+                        : findChapterFromLine(lineToUse, currentVolume);
                     src += '#chapter-' + chapterId;
-                } else if (currentLine && !isNaN(currentLine) && layers[layerId].exactMatch) {
-                    src += '#line-' + currentLine;
+                } else if (lineToUse && !isNaN(lineToUse) && layers[layerId].exactMatch) {
+                    src += `#line-${currentVolume}-${lineToUse}`;
                 }
                 iframe.src = src;
-            } else if (layerId === 'introduction' && currentLine) {
-                const chapterId = findChapterFromLine(currentLine, currentVolume);
+            } else if (layerId === 'introduction') {
+                const chapterId = targetChapter 
+                    ? `${String(currentVolume).padStart(2, '0')}-${String(targetChapter).padStart(2, '0')}`
+                    : findChapterFromLine(lineToUse, currentVolume);
                 iframe.src = iframe.dataset.src + '#chapter-' + chapterId;
-            } else if (currentLine && !isNaN(currentLine) && layers[layerId].exactMatch) {
-                iframe.src = iframe.dataset.src + '#line-' + currentLine;
+            } else if (lineToUse && !isNaN(lineToUse) && layers[layerId].exactMatch) {
+                iframe.src = iframe.dataset.src + `#line-${currentVolume}-${lineToUse}`;
             }
         }
 
@@ -1093,8 +1132,8 @@
                         // Detect volume from parent chapter
                         const chapter = el.closest('[data-chapter-key]');
                         if (chapter) {
-                            const key = chapter.dataset.chapterKey;
-                            currentVolume = key.startsWith('02-') ? 2 : 1;
+                            setCurrentVolumeFromChapterKey(chapter.dataset.chapterKey);
+                            console.log('Detected volume:', currentVolume, 'from chapter:', chapter.dataset.chapterKey);
                         }
                         return lineNum;
                     }
@@ -1114,8 +1153,8 @@
                     // Detect volume from parent chapter
                     const chapter = line.closest('[data-chapter-key]');
                     if (chapter) {
-                        const key = chapter.dataset.chapterKey;
-                        currentVolume = key.startsWith('02-') ? 2 : 1;
+                        setCurrentVolumeFromChapterKey(chapter.dataset.chapterKey);
+                        console.log('Detected volume:', currentVolume, 'from chapter:', chapter.dataset.chapterKey);
                     }
                     return lineNum;
                 }
@@ -1144,8 +1183,8 @@
             // If clicking a translation layer from contents/glossary/introduction, navigate with current line
             else if ((currentLayer === 'contents' || currentLayer === 'glossary' || currentLayer === 'introduction') && targetLayer !== 'contents' && targetLayer !== 'glossary' && targetLayer !== 'introduction' && layers[targetLayer] && layers[targetLayer].exactMatch && currentLine) {
                 e.preventDefault();
-                window.location.hash = targetLayer + ':' + currentLine;
-                console.log('Navigating from', currentLayer, 'to', targetLayer, 'with line', currentLine);
+                window.location.hash = `${targetLayer}:${currentVolume}::${currentLine}`;
+                console.log('Navigating from', currentLayer, 'to', targetLayer, 'with volume', currentVolume, 'line', currentLine);
             }
             // If switching between translation layers, preserve line
             else if (currentLayer && targetLayer !== 'contents' && targetLayer !== 'glossary' && targetLayer !== 'introduction' && currentLayer !== 'contents' && currentLayer !== 'glossary' && currentLayer !== 'introduction' && layers[targetLayer] && layers[targetLayer].exactMatch) {
@@ -1154,9 +1193,9 @@
                 e.preventDefault();
                 if (line) {
                     currentLine = parseInt(line);
-                    window.location.hash = targetLayer + ':' + currentLine;
+                    window.location.hash = `${targetLayer}:${currentVolume}::${currentLine}`;
                 } else if (currentLine) {
-                    window.location.hash = targetLayer + ':' + currentLine;
+                    window.location.hash = `${targetLayer}:${currentVolume}::${currentLine}`;
                 } else {
                     window.location.hash = targetLayer;
                 }
@@ -1168,9 +1207,11 @@
     window.addEventListener('message', function(e) {
         if (e.data && e.data.type === 'navigateToLine') {
             const lineNum = e.data.line;
+            const vol = e.data.volume || currentVolume || 1;
             if (lineNum) {
                 currentLine = parseInt(lineNum);
-                window.location.hash = selectedTranslationLayer + ':' + lineNum;
+                currentVolume = vol;
+                window.location.hash = `${selectedTranslationLayer}:${vol}::${lineNum}`;
             }
         }
         // Listen for line position updates from translation layers
@@ -1178,7 +1219,10 @@
             const lineNum = parseInt(e.data.line);
             if (!isNaN(lineNum)) {
                 currentLine = lineNum;
-                console.log('Updated currentLine from iframe:', currentLine);
+                if (e.data.volume) {
+                    currentVolume = e.data.volume;
+                }
+                console.log('Updated currentLine from iframe:', currentLine, 'volume:', currentVolume);
             }
         }
         // Listen for chapter position updates from introduction iframe

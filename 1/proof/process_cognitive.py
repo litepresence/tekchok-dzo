@@ -383,22 +383,29 @@ function updateIndicator() {{
         `Volume ${{volume}}, Chapter ${{chapter}}`;
 }}
 
-function goToLine(lineNum) {{
+function goToLine(lineNum, volume) {{
+    volume = volume || 1;
+    const volPrefix = volume === 1 ? '01-' : '02-';
+    
     let lineEl = document.getElementById('line-' + lineNum);
     
     if (!lineEl) {{
-        const allLines = document.querySelectorAll('[id^="line-"]');
+        // Only search within chapters of the correct volume
+        const volChapters = document.querySelectorAll(`.chapter[data-chapter-key^="${{volPrefix}}"]`);
         let bestMatch = null;
         let bestDiff = Infinity;
         
-        for (const el of allLines) {{
-            const elLine = parseInt(el.id.replace('line-', ''));
-            const diff = Math.abs(elLine - lineNum);
-            if (diff < bestDiff) {{
-                bestDiff = diff;
-                bestMatch = el;
+        volChapters.forEach(ch => {{
+            const lines = ch.querySelectorAll('[id^="line-"]');
+            for (const el of lines) {{
+                const elLine = parseInt(el.id.replace('line-', ''));
+                const diff = Math.abs(elLine - lineNum);
+                if (diff < bestDiff) {{
+                    bestDiff = diff;
+                    bestMatch = el;
+                }}
             }}
-        }}
+        }});
         lineEl = bestMatch;
     }}
     
@@ -424,10 +431,18 @@ function goToLine(lineNum) {{
 
 function handleHashNavigation() {{
     const hash = window.location.hash;
-    const match = hash.match(/line-(\\d+)/);
+    // Format: #line-VOL-LINENUM or just #line-LINENUM
+    const match = hash.match(/line-(\d+)(?:-(\d+))?/);
     if (match) {{
-        const lineNum = parseInt(match[1]);
-        goToLine(lineNum);
+        let lineNum, volume;
+        if (match[2]) {{
+            volume = parseInt(match[1]);
+            lineNum = parseInt(match[2]);
+        }} else {{
+            lineNum = parseInt(match[1]);
+            volume = 1;
+        }}
+        goToLine(lineNum, volume);
     }}
 }}
 
@@ -455,7 +470,10 @@ function reportCurrentLine() {{
         const lineNum = closest.id.replace('line-', '');
         if (lineNum !== lastReportedLine) {{
             lastReportedLine = lineNum;
-            window.parent.postMessage({{ type: 'linePosition', line: lineNum }}, '*');
+            const chapter = closest.closest('[data-chapter-key]');
+            const chapterKey = chapter ? chapter.dataset.chapterKey : '01-01';
+            const volume = chapterKey.startsWith('02-') ? 2 : 1;
+            window.parent.postMessage({{ type: 'linePosition', line: lineNum, volume: volume }}, '*');
         }}
     }}
 }}

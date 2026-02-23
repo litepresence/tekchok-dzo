@@ -294,6 +294,10 @@ HTML_CSS = """
         .entry-block {
             border-left: 2px solid #999;
         }
+        .nav-controls,
+        .chapter-indicator {
+            display: none;
+        }
     }
 </style>
 """
@@ -383,13 +387,14 @@ def parse_entry(lines):
 
         # Check for cascade arrow patterns (within cascade section)
         if current_section == "cascade_effects":
-            # Handle arrow chains - transform all <tag> → patterns
-            # Match tags with or without spaces, hyphens
+            # First convert valid <...> patterns to spans (they're error tags in cascade context)
             line_stripped = re.sub(
-                r'<([^>]+)>\s*→',
-                r'<span class="cascade-arrow">→</span><span class="error-tag cascade">\1</span>',
+                r'<([a-zA-Z][a-zA-Z0-9_\s-]*)>',
+                r'<span class="error-tag cascade">\1</span>',
                 line_stripped
             )
+            # Then escape any remaining unescaped < characters that aren't part of tags
+            line_stripped = re.sub(r'<(?!/?span)', '&lt;', line_stripped)
             current_content.append(line_stripped)
         elif current_section:
             current_content.append(line_stripped)
@@ -559,22 +564,29 @@ function updateIndicator() {{
         `Volume ${{volume}}, Chapter ${{chapter}}`;
 }}
 
-function goToLine(lineNum) {{
+function goToLine(lineNum, volume) {{
+    volume = volume || 1;
+    const volPrefix = volume === 1 ? '01-' : '02-';
+    
     let lineEl = document.getElementById('line-' + lineNum);
     
     if (!lineEl) {{
-        const allLines = document.querySelectorAll('[id^="line-"]');
+        // Only search within chapters of the correct volume
+        const volChapters = document.querySelectorAll(`.chapter[data-chapter-key^="${{volPrefix}}"]`);
         let bestMatch = null;
         let bestDiff = Infinity;
         
-        for (const el of allLines) {{
-            const elLine = parseInt(el.id.replace('line-', ''));
-            const diff = Math.abs(elLine - lineNum);
-            if (diff < bestDiff) {{
-                bestDiff = diff;
-                bestMatch = el;
+        volChapters.forEach(ch => {{
+            const lines = ch.querySelectorAll('[id^="line-"]');
+            for (const el of lines) {{
+                const elLine = parseInt(el.id.replace('line-', ''));
+                const diff = Math.abs(elLine - lineNum);
+                if (diff < bestDiff) {{
+                    bestDiff = diff;
+                    bestMatch = el;
+                }}
             }}
-        }}
+        }});
         lineEl = bestMatch;
     }}
     
@@ -600,10 +612,20 @@ function goToLine(lineNum) {{
 
 function handleHashNavigation() {{
     const hash = window.location.hash;
-    const match = hash.match(/line-(\\d+)/);
+    // Format: #line-VOL-LINENUM or just #line-LINENUM
+    const match = hash.match(/line-(\d+)(?:-(\d+))?/);
     if (match) {{
-        const lineNum = parseInt(match[1]);
-        goToLine(lineNum);
+        let lineNum, volume;
+        if (match[2]) {{
+            // Format: #line-VOL-LINENUM
+            volume = parseInt(match[1]);
+            lineNum = parseInt(match[2]);
+        }} else {{
+            // Format: #line-LINENUM (backward compat)
+            lineNum = parseInt(match[1]);
+            volume = 1;
+        }}
+        goToLine(lineNum, volume);
     }}
 }}
 
@@ -631,15 +653,25 @@ function reportCurrentLine() {{
         const lineNum = closest.id.replace('line-', '');
         if (lineNum !== lastReportedLine) {{
             lastReportedLine = lineNum;
-            window.parent.postMessage({{ type: 'linePosition', line: lineNum }}, '*');
+            const chapter = closest.closest('[data-chapter-key]');
+            const chapterKey = chapter ? chapter.dataset.chapterKey : '01-01';
+            const volume = chapterKey.startsWith('02-') ? 2 : 1;
+            window.parent.postMessage({{ type: 'linePosition', line: lineNum, volume: volume }}, '*');
         }}
     }}
 }}
 
 document.addEventListener('DOMContentLoaded', () => {{
+    console.log('Delusion page loaded, initializing navigation...');
     updateNavButtons();
     updateIndicator();
     handleHashNavigation();
+    
+    // Verify elements exist
+    const prevBtn = document.getElementById('prevBtn');
+    const nextBtn = document.getElementById('nextBtn');
+    const indicator = document.getElementById('chapterIndicator');
+    console.log('Navigation elements:', {{ prevBtn, nextBtn, indicator }});
     
     window.addEventListener('scroll', reportCurrentLine);
     setTimeout(reportCurrentLine, 500);

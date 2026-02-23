@@ -90,6 +90,7 @@ function showChapter(index) {{
     const el = document.getElementById('chapter-' + chapters[index]);
     if (el) el.scrollIntoView({{ behavior: 'smooth', block: 'start' }});
     updateButtons();
+    updateIndicator();
 }}
 
 function nextChapter() {{ showChapter(currentChapter + 1); }}
@@ -98,6 +99,15 @@ function prevChapter() {{ showChapter(currentChapter - 1); }}
 function updateButtons() {{
     document.getElementById('prevBtn').disabled = currentChapter === 0;
     document.getElementById('nextBtn').disabled = currentChapter === chapters.length - 1;
+}}
+
+function updateIndicator() {{
+    const key = chapters[currentChapter];
+    const parts = key.split('-');
+    const volume = parts[0];
+    const chapter = parts[1];
+    document.getElementById('chapterIndicator').textContent = 
+        `Volume ${{volume}}, Chapter ${{chapter}}`;
 }}
 
 function handleHash() {{
@@ -139,6 +149,7 @@ function onScroll() {{
 
 document.addEventListener('DOMContentLoaded', () => {{
     updateButtons();
+    updateIndicator();
     handleHash();
     window.addEventListener('scroll', onScroll);
     // Initial report after a short delay
@@ -153,6 +164,7 @@ window.addEventListener('hashchange', handleHash);
     <button class="nav-btn" id="prevBtn" onclick="prevChapter()">Previous</button>
     <button class="nav-btn" id="nextBtn" onclick="nextChapter()">Next Chapter</button>
 </div>
+<div class="chapter-indicator" id="chapterIndicator">Volume 1, Chapter 1</div>
 """
     
     full_html = f"""<!DOCTYPE html>
@@ -221,7 +233,19 @@ window.addEventListener('hashchange', handleHash);
         }}
         .nav-btn:hover {{ background-color: var(--color-btn-hover); }}
         .nav-btn:disabled {{ background-color: #444; color: #666; cursor: not-allowed; }}
-        @media print {{ .nav-controls {{ display: none; }} }}
+        .chapter-indicator {{
+            position: fixed;
+            bottom: 20px;
+            left: 20px;
+            background-color: rgba(30, 30, 30, 0.9);
+            color: var(--color-accent);
+            padding: 10px 15px;
+            border-radius: 5px;
+            font-family: var(--font-sans);
+            font-size: 12px;
+            z-index: 1000;
+        }}
+        @media print {{ .nav-controls, .chapter-indicator {{ display: none; }} }}
     </style>
     {js_script}
 </head>
