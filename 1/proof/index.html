@@ -166,16 +166,11 @@
 
     .nav-tab.introduction {
         background: var(--color-tibetan);
-        border-radius: 4px;
-        padding: 0.5em 1em;
-    }
-
-    .nav-tab.introduction::before {
-        display: none;
     }
 
     .nav-tab.introduction.active {
-        box-shadow: inset 0 2px 4px rgba(0, 0, 0, 0.2);
+        box-shadow: inset 0 2px 8px rgba(0, 0, 0, 0.3), 0 0 0 2px rgba(255,255,255,0.4);
+        font-weight: bold;
     }
 
     .nav-tab.contents {
@@ -625,7 +620,14 @@
         }
 
         .nav-tab.introduction {
-            padding: 0.4em 0.6em;
+            padding: 0.4em 0.6em 0.4em 1.4em;
+            font-size: 0.75em;
+        }
+
+        .nav-tab.introduction::before {
+            left: 6px;
+            width: 6px;
+            height: 6px;
         }
 
         .nav-tab.contents {
@@ -888,7 +890,7 @@
     <div id="line-indicator" class="line-indicator"></div>
     <script>
     const layers = {
-        'introduction': { exactMatch: false, hasRanges: false },
+        'introduction': { exactMatch: false, hasRanges: true },
         'contents': { exactMatch: false, hasRanges: false },
         'tibetan': { exactMatch: true, hasRanges: false },
         'wylie': { exactMatch: true, hasRanges: false },
@@ -901,6 +903,46 @@
         'cognitive': { exactMatch: true, hasRanges: true },
         'glossary': { exactMatch: false, hasRanges: true }
     };
+
+    const CHAPTER_MAP = {
+        '01-01-00-00': { chapter: 1, startLine: 1 },
+        '01-02-00-00': { chapter: 2, startLine: 584 },
+        '01-03-00-00': { chapter: 3, startLine: 1247 },
+        '01-04-00-00': { chapter: 4, startLine: 1931 },
+        '01-05-00-00': { chapter: 5, startLine: 3282 },
+        '01-06-00-00': { chapter: 6, startLine: 4021 },
+        '01-07-00-00': { chapter: 7, startLine: 4728 },
+        '01-08-00-00': { chapter: 8, startLine: 5368 },
+        '01-09-00-00': { chapter: 9, startLine: 6103 },
+        '01-10-00-00': { chapter: 10, startLine: 6987 },
+        '01-11-00-00': { chapter: 11, startLine: 7724 },
+        '01-12-00-00': { chapter: 12, startLine: 8442 },
+        '01-13-00-00': { chapter: 13, startLine: 9250 },
+        '01-14-00-00': { chapter: 14, startLine: 10001 },
+        '02-15-00-00': { chapter: 15, startLine: 10702 },
+        '02-16-00-00': { chapter: 16, startLine: 11397 },
+        '02-17-00-00': { chapter: 17, startLine: 12025 },
+        '02-18-00-00': { chapter: 18, startLine: 12604 },
+        '02-19-00-00': { chapter: 19, startLine: 13247 },
+        '02-20-00-00': { chapter: 20, startLine: 13921 },
+        '02-21-00-00': { chapter: 21, startLine: 14615 },
+        '02-22-00-00': { chapter: 22, startLine: 14985 },
+        '02-23-00-00': { chapter: 23, startLine: 15320 },
+        '02-24-00-00': { chapter: 24, startLine: 15635 },
+        '02-25-00-00': { chapter: 25, startLine: 16272 }
+    };
+
+    function findChapterFromLine(lineNum) {
+        let bestMatch = '01-01-00-00';
+        let bestStart = 0;
+        for (const [chapterId, data] of Object.entries(CHAPTER_MAP)) {
+            if (data.startLine <= lineNum && data.startLine > bestStart) {
+                bestStart = data.startLine;
+                bestMatch = chapterId;
+            }
+        }
+        return bestMatch;
+    }
 
         let currentLayer = null;
         let currentLine = null;
@@ -981,10 +1023,10 @@
     function showLayer(layerId, targetLine) {
         welcomeScreen.style.display = 'none';
         
-        // Update nav tabs - keep translation layer selected when viewing contents/glossary
+        // Update nav tabs
         navTabs.forEach(tab => {
             const href = tab.getAttribute('href');
-            if (layerId === 'contents' || layerId === 'glossary' || layerId === 'introduction') {
+            if (layerId === 'contents' || layerId === 'glossary') {
                 // When on contents/glossary, highlight the selected translation layer
                 if (href === '#' + selectedTranslationLayer) {
                     tab.classList.add('active');
@@ -992,10 +1034,10 @@
                     tab.classList.remove('active');
                 }
             } else {
-                // Normal behavior for other layers
+                // Normal behavior for other layers (including introduction)
                 tab.classList.toggle('active', href === '#' + layerId);
                 // Update selected translation layer
-                if (href === '#' + layerId && layerId !== 'contents' && layerId !== 'glossary' && layerId !== 'introduction') {
+                if (href === '#' + layerId && layerId !== 'contents' && layerId !== 'glossary') {
                     selectedTranslationLayer = layerId;
                     localStorage.setItem('selectedLayer', layerId);
                 }
@@ -1010,10 +1052,16 @@
         if (iframe) {
             if (iframe.src === 'about:blank' || !iframe.src || iframe.src === 'about:blank') {
                 let src = iframe.dataset.src;
-                if (lineToUse && !isNaN(lineToUse) && layers[layerId].exactMatch) {
+                if (layerId === 'introduction' && lineToUse) {
+                    const chapterId = findChapterFromLine(lineToUse);
+                    src += '#chapter-' + chapterId;
+                } else if (lineToUse && !isNaN(lineToUse) && layers[layerId].exactMatch) {
                     src += '#line-' + lineToUse;
                 }
                 iframe.src = src;
+            } else if (layerId === 'introduction' && lineToUse) {
+                const chapterId = findChapterFromLine(lineToUse);
+                iframe.src = iframe.dataset.src + '#chapter-' + chapterId;
             } else if (lineToUse && !isNaN(lineToUse) && layers[layerId].exactMatch) {
                 iframe.src = iframe.dataset.src + '#line-' + lineToUse;
             }
@@ -1078,7 +1126,7 @@
                 }
                 return; // Let normal navigation proceed
             }
-            // If clicking a translation layer from contents/glossary, navigate with current line
+            // If clicking a translation layer from contents/glossary/introduction, navigate with current line
             else if ((currentLayer === 'contents' || currentLayer === 'glossary' || currentLayer === 'introduction') && targetLayer !== 'contents' && targetLayer !== 'glossary' && targetLayer !== 'introduction' && layers[targetLayer] && layers[targetLayer].exactMatch && currentLine) {
                 e.preventDefault();
                 window.location.hash = targetLayer + ':' + currentLine;
@@ -1116,6 +1164,14 @@
             if (!isNaN(lineNum)) {
                 currentLine = lineNum;
                 console.log('Updated currentLine from iframe:', currentLine);
+            }
+        }
+        // Listen for chapter position updates from introduction iframe
+        if (e.data && e.data.type === 'chapterPosition') {
+            const lineNum = parseInt(e.data.line);
+            if (!isNaN(lineNum)) {
+                currentLine = lineNum;
+                console.log('Updated currentLine from introduction chapter:', currentLine);
             }
         }
     });
