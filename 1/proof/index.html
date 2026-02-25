@@ -763,12 +763,11 @@
             <a href="conventions.html" class="nav-tab conventions">Conventions</a>
             <span class="nav-divider"></span>
             <select id="layer-select" class="layer-dropdown" onchange="handleLayerSelect(this.value)">
-                <option value="">Select Layer</option>
                 <option value="#introduction">Introduction</option>
                 <option value="#tibetan">Tibetan</option>
                 <option value="#wylie">Wylie</option>
                 <option value="#literal">Literal</option>
-                <option value="#liturgical">Liturgical</option>
+                <option value="#liturgical" selected>Liturgical</option>
                 <option value="#commentary">Commentary</option>
                 <option value="#scholar">Scholar</option>
                 <option value="#epistemic">Epistemic</option>
@@ -1070,7 +1069,7 @@
             if (lastLayer && translationLayers.includes(lastLayer)) {
                 dropdown.value = '#' + lastLayer;
             } else {
-                dropdown.value = '';
+                dropdown.value = '#liturgical';
             }
         }
     }

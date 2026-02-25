@@ -332,7 +332,12 @@ def generate_file_html(entries, filename):
 
         # Content
         if entry["content_text"]:
-            html_parts.append(f'  <div class="commentary-content">{html.escape(entry["content_text"])}</div>')
+            content_escaped = html.escape(entry["content_text"])
+            # Restore the span tags we intentionally added
+            content_escaped = content_escaped.replace('&lt;span class=&quot;term&quot;&gt;', '<span class="term">')
+            content_escaped = content_escaped.replace('&lt;span class=&quot;tibetan-inline&quot;&gt;', '<span class="tibetan-inline">')
+            content_escaped = content_escaped.replace('&lt;/span&gt;', '</span>')
+            html_parts.append(f'  <div class="commentary-content">{content_escaped}</div>')
 
         html_parts.append('</div>')
 
