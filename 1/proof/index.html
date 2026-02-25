@@ -201,6 +201,31 @@
         background: #8d6e63;
     }
 
+    .layer-dropdown {
+        background: var(--color-tibetan);
+        color: var(--color-text);
+        border: none;
+        border-radius: 4px;
+        padding: 0.4em 0.8em;
+        font-family: var(--font-sans);
+        font-size: 0.85em;
+        cursor: pointer;
+        outline: none;
+    }
+
+    .layer-dropdown:hover {
+        background: var(--color-tibetan-hover, #3d6a8b);
+    }
+
+    .layer-dropdown:focus {
+        box-shadow: 0 0 0 2px rgba(255,255,255,0.3);
+    }
+
+    .layer-dropdown option {
+        background: var(--color-bg);
+        color: var(--color-text);
+    }
+
     .nav-tab.tibetan {
         background: var(--color-tibetan);
     }
@@ -737,16 +762,19 @@
             <a href="#contents" class="nav-tab contents">Contents</a>
             <a href="conventions.html" class="nav-tab conventions">Conventions</a>
             <span class="nav-divider"></span>
-            <a href="#introduction" class="nav-tab introduction">Introduction</a>
-            <a href="#tibetan" class="nav-tab tibetan">Tibetan</a>
-            <a href="#wylie" class="nav-tab wylie">Wylie</a>
-            <a href="#literal" class="nav-tab literal">Literal</a>
-            <a href="#liturgical" class="nav-tab liturgical">Liturgical</a>
-            <a href="#commentary" class="nav-tab commentary">Commentary</a>
-            <a href="#scholar" class="nav-tab scholar">Scholar</a>
-            <a href="#epistemic" class="nav-tab epistemic">Epistemic</a>
-            <a href="#delusion" class="nav-tab delusion">Delusion</a>
-            <a href="#cognitive" class="nav-tab cognitive">Cognitive</a>
+            <select id="layer-select" class="layer-dropdown" onchange="handleLayerSelect(this.value)">
+                <option value="">Select Layer</option>
+                <option value="#introduction">Introduction</option>
+                <option value="#tibetan">Tibetan</option>
+                <option value="#wylie">Wylie</option>
+                <option value="#literal">Literal</option>
+                <option value="#liturgical">Liturgical</option>
+                <option value="#commentary">Commentary</option>
+                <option value="#scholar">Scholar</option>
+                <option value="#epistemic">Epistemic</option>
+                <option value="#delusion">Delusion</option>
+                <option value="#cognitive">Cognitive</option>
+            </select>
             <span class="nav-divider"></span>
             <a href="#glossary" class="nav-tab glossary">Glossary</a>
             <button class="dark-mode-toggle" onclick="toggleDarkMode()">Dark</button>
@@ -1016,6 +1044,37 @@
         // Restore selected translation layer from localStorage
         selectedTranslationLayer = localStorage.getItem('selectedLayer') || 'tibetan';
 
+    function handleLayerSelect(value) {
+        if (!value) return;
+        
+        const targetLayer = value.slice(1); // Remove #
+        
+        // If already on a translation layer, preserve line/volume
+        if (currentLayer && currentLine && layers[targetLayer] && layers[targetLayer].exactMatch) {
+            window.location.hash = `${targetLayer}:${currentVolume}::${currentLine}`;
+        } else {
+            window.location.hash = value;
+        }
+    }
+
+    function updateLayerDropdown(layerId) {
+        const dropdown = document.getElementById('layer-select');
+        if (!dropdown) return;
+        
+        const translationLayers = ['introduction', 'tibetan', 'wylie', 'literal', 'liturgical', 'commentary', 'scholar', 'epistemic', 'delusion', 'cognitive'];
+        if (translationLayers.includes(layerId)) {
+            dropdown.value = '#' + layerId;
+        } else {
+            // Show last selected translation layer when on contents/glossary/welcome
+            const lastLayer = localStorage.getItem('selectedLayer');
+            if (lastLayer && translationLayers.includes(lastLayer)) {
+                dropdown.value = '#' + lastLayer;
+            } else {
+                dropdown.value = '';
+            }
+        }
+    }
+
     function handleNavigation() {
         const hash = window.location.hash.slice(1) || '';
         if (!hash) { showWelcome(); return; }
@@ -1053,6 +1112,9 @@
                 tab.classList.remove('active');
             }
         });
+        // Update dropdown to show last selected translation layer
+        const lastLayer = localStorage.getItem('selectedLayer') || 'tibetan';
+        updateLayerDropdown(lastLayer);
         currentLayer = null;
         hideLineIndicator();
     }
@@ -1111,6 +1173,9 @@
         }
 
         currentLayer = layerId;
+        
+        // Update dropdown selection
+        updateLayerDropdown(layerId);
     }
 
     function getCurrentLineFromIframe(layerId) {
