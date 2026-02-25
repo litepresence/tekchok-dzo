@@ -14,7 +14,7 @@ from datetime import datetime
 
 INPUT_FILE = Path("../contents/contents.md")
 OUTPUT_FILE = Path("html/contents_proof.html")
-LITERAL_DIR = Path("../text/frozen/literal")
+LITERAL_DIR = Path("../text/dynamic/literal")
 
 LINE_MAP = {}
 
@@ -88,6 +88,24 @@ HTML_CSS = """
         --color-table-hover: #3a3a3a;
         
         --line-height: 1.5;
+    }
+
+    body.light-mode {
+        --color-bg: #fafafa;
+        --color-text: #1a1a1a;
+        --color-muted: #666;
+        --color-accent: #6a1b9a;
+        --color-header: #4a148c;
+        --color-chapter: #0277bd;
+        --color-prologue: #7b1fa2;
+        --color-main: #2e7d32;
+        --color-subsection: #e65100;
+        --color-list: #00838f;
+        --color-fragment: #455a64;
+        --color-border: #ddd;
+        --color-table-header: #eee;
+        --color-table-row: #f5f5f5;
+        --color-table-hover: #e0e0e0;
     }
 
     * {
@@ -436,6 +454,19 @@ def generate_html(data):
             window.parent.postMessage({ type: 'navigateToLine', line: lineNum }, '*');
         }
     });
+    
+    // Dark mode handling - sync with parent
+    (function() {
+        const isDark = localStorage.getItem('darkMode') !== 'false';
+        if (!isDark) document.body.classList.add('light-mode');
+        
+        window.addEventListener('message', function(e) {
+            if (e.data && e.data.type === 'darkModeChange') {
+                document.body.classList.toggle('light-mode', !e.data.enabled);
+                localStorage.setItem('darkMode', e.data.enabled);
+            }
+        });
+    })();
     </script>
     ''')
     

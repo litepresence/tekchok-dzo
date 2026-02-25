@@ -278,6 +278,20 @@ class GlossaryConverter:
             --line-height: 1.5;
         }}
 
+        body.light-mode {{
+            --color-bg: #fafafa;
+            --color-text: #1a1a1a;
+            --color-muted: #666;
+            --color-accent: #1565c0;
+            --color-line-num: #999;
+            --color-border: #ddd;
+            --color-btn: #1565c0;
+            --color-btn-hover: #1976d2;
+            --color-table-header: #e3f2fd;
+            --color-table-row-alt: #f5f5f5;
+            --color-table-row-hover: #e3f2fd;
+        }}
+
         * {{
             box-sizing: border-box;
         }}
@@ -525,6 +539,20 @@ class GlossaryConverter:
             }}
         }}
     </style>
+    <script>
+    // Dark mode handling - sync with parent
+    (function() {{
+        const isDark = localStorage.getItem('darkMode') !== 'false';
+        if (!isDark) document.body.classList.add('light-mode');
+        
+        window.addEventListener('message', function(e) {{
+            if (e.data && e.data.type === 'darkModeChange') {{
+                document.body.classList.toggle('light-mode', !e.data.enabled);
+                localStorage.setItem('darkMode', e.data.enabled);
+            }}
+        }});
+    }})();
+    </script>
 </head>
 <body>
     <div class="document">
@@ -626,6 +654,20 @@ def convert_with_markdown_library(input_file: str, output_file: str):
             --color-table-row-hover: #2d3a4a;
             
             --line-height: 1.5;
+        }}
+
+        body.light-mode {{
+            --color-bg: #fafafa;
+            --color-text: #1a1a1a;
+            --color-muted: #666;
+            --color-accent: #1565c0;
+            --color-line-num: #999;
+            --color-border: #ddd;
+            --color-btn: #1565c0;
+            --color-btn-hover: #1976d2;
+            --color-table-header: #e3f2fd;
+            --color-table-row-alt: #f5f5f5;
+            --color-table-row-hover: #e3f2fd;
         }}
 
         * {{ box-sizing: border-box; }}
@@ -760,6 +802,20 @@ def convert_with_markdown_library(input_file: str, output_file: str):
             tr {{ page-break-inside: avoid; }}
         }}
     </style>
+    <script>
+    // Dark mode handling - sync with parent
+    (function() {{
+        const isDark = localStorage.getItem('darkMode') !== 'false';
+        if (!isDark) document.body.classList.add('light-mode');
+        
+        window.addEventListener('message', function(e) {{
+            if (e.data && e.data.type === 'darkModeChange') {{
+                document.body.classList.toggle('light-mode', !e.data.enabled);
+                localStorage.setItem('darkMode', e.data.enabled);
+            }}
+        }});
+    }})();
+    </script>
 </head>
 <body>
     <div class="document">

@@ -156,6 +156,19 @@ document.addEventListener('DOMContentLoaded', () => {{
     setTimeout(reportChapter, 200);
 }});
 window.addEventListener('hashchange', handleHash);
+
+// Dark mode handling - sync with parent
+(function() {{
+    const isDark = localStorage.getItem('darkMode') !== 'false';
+    if (!isDark) document.body.classList.add('light-mode');
+    
+    window.addEventListener('message', function(e) {{
+        if (e.data && e.data.type === 'darkModeChange') {{
+            document.body.classList.toggle('light-mode', !e.data.enabled);
+            localStorage.setItem('darkMode', e.data.enabled);
+        }}
+    }});
+}})();
 </script>
 """
     
@@ -187,6 +200,16 @@ window.addEventListener('hashchange', handleHash);
             --color-border: #3a3a3a;
             --color-btn: #2d5a7b;
             --color-btn-hover: #3d7a9b;
+        }}
+        body.light-mode {{
+            --color-bg: #fafafa;
+            --color-text: #1a1a1a;
+            --color-muted: #666;
+            --color-accent: #6a1b9a;
+            --color-header: #4a148c;
+            --color-border: #ddd;
+            --color-btn: #1565c0;
+            --color-btn-hover: #1976d2;
         }}
         * {{ box-sizing: border-box; }}
         body {{

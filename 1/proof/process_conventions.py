@@ -64,6 +64,15 @@ def process_conventions():
             --color-border: #3a3a3a;
             --color-link: #7eb8c9;
         }}
+        body.light-mode {{
+            --color-bg: #fafafa;
+            --color-text: #1a1a1a;
+            --color-muted: #666;
+            --color-accent: #6a1b9a;
+            --color-header: #4a148c;
+            --color-border: #ddd;
+            --color-link: #1565c0;
+        }}
         * {{ box-sizing: border-box; }}
         body {{
             font-family: var(--font-main);
@@ -222,6 +231,24 @@ def process_conventions():
         }}
     </style>
     <script>
+        // Dark mode handling - sync with parent
+        (function() {{
+            const isDark = localStorage.getItem('darkMode') !== 'false';
+            if (!isDark) document.body.classList.add('light-mode');
+            
+            window.addEventListener('message', function(e) {{
+                if (e.data && e.data.type === 'darkModeChange') {{
+                    document.body.classList.toggle('light-mode', !e.data.enabled);
+                    localStorage.setItem('darkMode', e.data.enabled);
+                }}
+                if (e.data && e.data.type === 'layerChange') {{
+                    let newLayer = e.data.layer;
+                    if (newLayer === 'introduction') newLayer = 'liturgical';
+                    window.location.href = '?layer=' + newLayer;
+                }}
+            }});
+        }})();
+        
         document.addEventListener('DOMContentLoaded', function() {{
             const params = new URLSearchParams(window.location.search);
             let layer = params.get('layer') || 'liturgical';
@@ -261,15 +288,6 @@ def process_conventions():
             // Hide TOC since we're showing only one layer
             const toc = document.querySelector('.toc');
             if (toc) toc.style.display = 'none';
-            
-            // Listen for dropdown changes from parent and reload with new layer
-            window.addEventListener('message', function(e) {{
-                if (e.data && e.data.type === 'layerChange') {{
-                    let newLayer = e.data.layer;
-                    if (newLayer === 'introduction') newLayer = 'liturgical';
-                    window.location.href = '?layer=' + newLayer;
-                }}
-            }});
         }});
     </script>
 </head>

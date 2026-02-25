@@ -55,6 +55,17 @@ HTML_CSS = """
         --line-height: 1.5;
     }
 
+    body.light-mode {
+        --color-bg: #fafafa;
+        --color-text: #1a1a1a;
+        --color-muted: #666;
+        --color-accent: #1565c0;
+        --color-line-num: #999;
+        --color-border: #ddd;
+        --color-btn: #1565c0;
+        --color-btn-hover: #1976d2;
+    }
+
     * {
         box-sizing: border-box;
     }
@@ -511,6 +522,19 @@ document.addEventListener('DOMContentLoaded', () => {{
 }});
 
 window.addEventListener('hashchange', handleHashNavigation);
+
+// Dark mode handling - sync with parent
+(function() {{
+    const isDark = localStorage.getItem('darkMode') !== 'false';
+    if (!isDark) document.body.classList.add('light-mode');
+    
+    window.addEventListener('message', function(e) {{
+        if (e.data && e.data.type === 'darkModeChange') {{
+            document.body.classList.toggle('light-mode', !e.data.enabled);
+            localStorage.setItem('darkMode', e.data.enabled);
+        }}
+    }});
+}})();
 </script>
 """
 

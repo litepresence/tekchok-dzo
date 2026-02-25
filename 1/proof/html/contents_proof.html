@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Treasury of the Supreme Vehicle: Comprehensive Table of Contents (v2)</title>
     <meta name="generator" content="Contents Parser">
-    <meta name="created" content="2026-02-20T18:53:16.238190">
+    <meta name="created" content="2026-02-25T18:00:04.984265">
     
 <style>
     @page {
@@ -38,6 +38,24 @@
         --color-table-hover: #3a3a3a;
         
         --line-height: 1.5;
+    }
+
+    body.light-mode {
+        --color-bg: #fafafa;
+        --color-text: #1a1a1a;
+        --color-muted: #666;
+        --color-accent: #6a1b9a;
+        --color-header: #4a148c;
+        --color-chapter: #0277bd;
+        --color-prologue: #7b1fa2;
+        --color-main: #2e7d32;
+        --color-subsection: #e65100;
+        --color-list: #00838f;
+        --color-fragment: #455a64;
+        --color-border: #ddd;
+        --color-table-header: #eee;
+        --color-table-row: #f5f5f5;
+        --color-table-hover: #e0e0e0;
     }
 
     * {
@@ -277,6 +295,19 @@
             window.parent.postMessage({ type: 'navigateToLine', line: lineNum }, '*');
         }
     });
+    
+    // Dark mode handling - sync with parent
+    (function() {
+        const isDark = localStorage.getItem('darkMode') !== 'false';
+        if (!isDark) document.body.classList.add('light-mode');
+        
+        window.addEventListener('message', function(e) {
+            if (e.data && e.data.type === 'darkModeChange') {
+                document.body.classList.toggle('light-mode', !e.data.enabled);
+                localStorage.setItem('darkMode', e.data.enabled);
+            }
+        });
+    })();
     </script>
     
 
