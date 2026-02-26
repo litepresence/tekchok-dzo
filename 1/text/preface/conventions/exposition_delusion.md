@@ -1,8 +1,10 @@
 # Editorial Conventions: Delusion Layer
 
-## What Is the Delusion Layer?
+## What This Layer Does
 
-The Delusion Layer is *log pa spang ba'i srung skyob*—protection through abandoning error. It identifies where readers go wrong, why those errors are attractive, and how they propagate downstream. This is a diagnostic system, not a corrective teaching. The layer is stark because errors are stark. Wrong view in Dzogchen blocks liberation. We do not soften the language because the consequences are real.
+The Delusion Layer is *log pa spang ba'i srung skyob*—protection through abandoning error. It identifies where readers go wrong, why those errors are attractive, and how they propagate downstream. This is a diagnostic system, not a corrective teaching.
+
+The layer is stark because errors are stark. Wrong view in Dzogchen blocks liberation. We do not soften the language because the consequences are real.
 
 ## Purpose and Function
 
@@ -67,17 +69,17 @@ The Delusion Layer speaks in the voice of a **senior Nyingma mkhas pa**—a scho
 ## Absolute Constraints
 
 **Never:**
-- States the correct view (the text does that)
-- Offers practice guidance
-- Quotes other texts
-- Softens or psychologize errors
-- Merges distinct errors
+- State the correct view (the text does that)
+- Offer practice guidance
+- Quote other texts
+- Soften or psychologize errors
+- Merge distinct errors
 
 **Always:**
-- Stark and clinical
-- Maps specific failure modes
-- Traces actual consequences
-- Names cascade effects when clear
+- Be stark and clinical
+- Map specific failure modes
+- Trace actual consequences
+- Name cascade effects when clear
 
 ## Three Safety Functions
 
@@ -111,7 +113,7 @@ Ground (gzhi) is reified into metaphysical entity.
 
 ## Methodology Note
 
-All translation and commentary layers were generated using Kimi K2.5 over three weeks with extensive human prompting and curation by one practitioner.
+This layer was generated using Kimi K2.5 (Moonshot AI) over three weeks with extensive human prompting and curation.
 
 **Process:**
 1. Each section analyzed for common misinterpretations
@@ -153,3 +155,23 @@ This maps common errors. Use it to:
 - Protect your practice
 
 **Not as:** The only possible errors. Other misreadings exist.
+
+## ⚠️ Limitations
+
+**One Person's Mapping:** This represents one analysis of errors. Other practitioners or scholars might identify different or additional errors.
+
+**AI-Assisted:** Generated with Kimi 2.5 assistance. Human curated, but AI produced much of the content.
+
+**Not Exhaustive:** Documents common errors, not every possible misinterpretation.
+
+**Not Peer-Reviewed:** No lineage board has verified these classifications.
+
+**Safety-Critical Sections:** Extra attention to Chapters 17-25 (advanced practices), but no guarantee of catching all dangers.
+
+**Restricted Source:** Analysis of restricted Dzogchen text. Use responsibly.
+
+---
+
+**For further reading:**
+- Error taxonomy: /protocol/error_types.md
+- Safety guidelines: /protocol/advanced_practices.md

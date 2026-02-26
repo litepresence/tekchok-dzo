@@ -2,13 +2,19 @@
 
 ## What Is the Cognitive Layer?
 
-The Cognitive Layer is *shes pa'i rjes su brjod pa*—the cognitive trace of understanding. It documents the internal alignment process of a Lotsawa who fully comprehends the text, capturing what is noticed, flagged, and accounted for **prior to translation**.
+The Cognitive Layer is *shes pa'i rjes su brjod pa*—the cognitive
+trace of understanding. It documents the internal alignment process
+of a Lotsawa who fully comprehends the text, capturing what is
+noticed, flagged, and accounted for **prior to translation**.
 
 ## Experimental Nature
 
 **This layer is experimental.**
 
-Unlike traditional Tibetan translation layers, the Cognitive Layer is a modern artifact. It documents the space between recognition and articulation—the moment a translator "gets it" before rendering it into English.  It is inspired by AI thinking "self talk" during translation.
+Unlike traditional Tibetan translation layers, the Cognitive Layer is
+a modern artifact. It documents the space between recognition and
+articulation—the moment a translator "gets it" before rendering it
+into English.
 
 ## Purpose and Function
 
@@ -34,6 +40,7 @@ The Cognitive Layer speaks in the voice of a **senior Tibetan Lotsawa**—a mast
 
 **The Moment Captured:**
 The space between comprehension and articulation—when the translator fully grasps the text but has not yet chosen English words. These are quiet notes to oneself:
+- "Yes. This is clear. Note this."
 - "Structural shift here—preserve the transition."
 - "Risk of losing the non-dual flavor—guard against smoothing."
 
@@ -54,6 +61,15 @@ The space between comprehension and articulation—when the translator fully gra
 
 **It IS:** Self-talk cliff's notes of what is already clear.
 
+## Tone and Voice
+
+- **Calm:** No urgency
+- **Settled:** Recognition complete
+- **Non-Emotive:** No devotional color
+- **Non-Explanatory:** Already understood
+
+The voice: **"Yes. This is clear. Note this."**
+
 ## Output Format
 
 ```
@@ -61,9 +77,13 @@ The space between comprehension and articulation—when the translator fully gra
 [Single paragraph of internal self-talk. No headings. No bullets.
 No lists. No questions. Quiet recognition of structure, register,
 translation risks, and preservation requirements.]
+
+[start-end]
+[Next paragraph. Vary length. Short and punchy or long and flowing.
+All calm, settled, certain.]
 ```
 
-## Content 
+## Content Requirements (Implicit)
 
 Each paragraph covers, without naming:
 
@@ -72,23 +92,29 @@ Each paragraph covers, without naming:
 3. **Translation Risks:** Where errors could arise
 4. **Preservation Requirements:** What must remain intact
 
+Do NOT:
+- Explain doctrine
+- Interpret meaning
+- Justify choices
+- Resolve ambiguity
+
 ## Absolute Constraints
 
 **Never:**
-- Asks questions
-- Uses uncertainty language
-- Proposes hypotheses
-- Says "this might mean"
-- Gives practice instruction
-- Uses emotive/devotional color
-- Comments on the task itself
+- Ask questions
+- Use uncertainty language
+- Propose hypotheses
+- Say "this might mean"
+- Give practice instruction
+- Use emotive/devotional color
+- Comment on the task itself
 
 **Always:**
-- Recognizes structure
-- Recognizes register
-- Recognizes particle force
-- Recognizes transition
-- Notes what must not be smoothed
+- Recognize structure
+- Recognize register
+- Recognize particle force
+- Recognize transition
+- Note what must not be smoothed
 
 ## The Space Between
 
@@ -103,6 +129,39 @@ This layer documents what no other layer captures:
 It is the translator's notebook, the Lotsawa's whisper, the moment
 of clarity before the words are chosen.
 
+## Example Output
+
+```
+[24-27]
+Scope declaration. From vast dharma ocean to this specific mdzod
+exposition. The text names its own function as rnam bshad—exposition,
+not mere explanation. Future-oriented without promise tone. Four-line
+structure: place, essence, clarification, action. Architectural clarity
+to preserve in translation.
+
+[28-35]
+Structural framing via three kāyas. Classification, not narrative.
+No chronology. Activities, locations, displays indexed, not caused.
+This seeds later architecture. Must remain non-causal. Lists as lists,
+not sequences. Five perfections formula first appearance—note for
+consistency across text.
+
+[36-40]
+Dharmakāya register. Samantabhadra as nature, not being. Phrase
+sku dang ye shes 'du 'bral med pa marks non-dual ground. Not
+location—recognition-state. Risk of reifying as person. Preserve
+non-dual syntax in downstream layers.
+```
+
+## Publication Status
+
+The Cognitive Layer appears in:
+- **Opus 7/8:** Mind Corpus (separate volumes)
+
+It does not appear in:
+- Opus 1/2 (Practitioner Corpus)
+- Opus 3/4 (Source Corpus)
+- Opus 5/6 (Scholar Corpus)
 
 ## Reader Advisory
 
@@ -117,6 +176,8 @@ of clarity before the words are chosen.
 - Doctrinal explanations
 - Commentary on the text
 - Traditional Dharma teaching
+
+**For those, see the Practitioner Corpus (Opus 1/2).**
 
 ## Relationship to Other Layers
 
@@ -146,49 +207,12 @@ The Cognitive Layer adds:
 
 It represents modern accountability applied to ancient wisdom.
 
-## Methodology Note
+## A Note on Authenticity
 
-All translation and commentary layers were generated using Kimi K2.5 over three weeks with extensive human prompting and curation by one practitioner.
+This layer is generated by LLM simulating a Lotsawa's internal
+process. It is an approximation of what a master translator might
+think but not transcribe. Use it as insight into process, not as
+the actual thoughts of a realized translator.
 
-**Process:**
-1. Tibetan text sections analyzed for internal translator recognition
-2. AI-generated cognitive documentation
-3. Human verification of translation-critical recognitions
-4. Curation of most significant preparatory notes
-5. Final selection for publication
+For true Lotsawa wisdom, study their translations, not their notes.
 
-**What the AI Did:**
-- Generated internal recognition notes across 213 sections
-- Documented structural and register awareness
-- Flagged preservation requirements
-- Maintained confident, non-didactic tone
-
-**What the Human Did:**
-- Designed the cognitive documentation approach
-- Verified recognition of key doctrinal structures
-- Directed attention to translation-critical moments
-- Curated which recognitions to document
-- Made final editorial judgments
-
-**Result:**
-AI-generated process documentation, human-curated. One documentation approach among many possible.
-
-**Use it as:** Translation process transparency, study aid, methodological insight
-**Not as:** Definitive documentation, substitute for teacher guidance, traditional Lotsawa notes
-
-## How to Read This Layer
-
-**For Students of Translation**
-
-This layer reveals:
-- What must be recognized before rendering
-- How understanding prepares articulation
-- The pre-verbal space of comprehension
-
-**For Practitioners**
-
-Not essential for practice. Use if interested in translation methodology.
-
-**For Scholars**
-
-Provides unique insight into translation preparation and cognitive processing.

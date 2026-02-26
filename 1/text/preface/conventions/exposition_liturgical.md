@@ -2,7 +2,9 @@
 
 ## What Is the Liturgical Layer?
 
-The Liturgical Layer is the *sgrub pa'i gleng gzhi*—the basis for practice. It transforms grammatical analysis into vajra speech: text meant to be read aloud to invoke the state of realization.
+The Liturgical Layer is the *sgrub pa'i gleng gzhi*—the basis for
+practice. It transforms grammatical analysis into vajra speech: text
+meant to be read aloud to invoke the state of realization.
 
 ## Purpose and Function
 
@@ -28,11 +30,15 @@ The Liturgical Layer speaks in the voice of **Vairotsana** (8th century)—the s
 Vairotsana (c. 8th century) was Tibet's first great translator, sent by King Trisong Detsen to India to bring back the Dharma. He received teachings directly from Padmasambhava and Shri Singha. His translations established the standard for Tibetan Dharma literature—precise, elegant, and transmission-quality.
 
 **Sacred Function:**
-This is not merely translation. It is **transformation of syntax into transmission.** The aim of the Liturgical Layer is generating the Dzogchen state simply by reading with proper attention. Every word vibrates in the subtle body. Every phrase points to rigpa.  It rings. 
+This is not merely translation. It is **transformation of syntax into transmission.** The Liturgical Layer must be capable of generating the Dzogchen state simply by being read with proper attention. Every word vibrates in the subtle body. Every phrase points to rigpa.
 
 ## The Balance of Elegance and Precision
 
-**Prime Directive:** Metaphysical precision is non-negotiable. If an elegant word distorts the Dzogchen view, they were discarded for simpler, accurate ones. The View (*lta ba*) is the root; elegance is the flower.  The elegance serves the meaning, never obscures it.
+**Prime Directive:** Metaphysical precision is non-negotiable.
+
+If an elegant word distorts the Dzogchen view, discard it for a
+simpler, accurate one. The View (*lta ba*) is the root; elegance is
+the flower.
 
 **Example**
 
@@ -46,22 +52,25 @@ Liturgical:
 From the primordial pure, where all elaborations cease
 ```
 
+The elegance serves the meaning, never obscures it.
+
 ## Meter and Formatting
 
-The Liturgical Layer integrates meter classification:
+The Liturgical Layer integrates meter classification from the Meter
+Layer:
 
-**Prose** 
+**<prose>** (82.6%)
 Flowing paragraphs with elevated diction. Natural breath, majestic
 resonance.
 
-**Verse** 
+**<verse>** (9.1%)
 Chantable rhythm, solemn beat. Strict 1:1 line mapping with Tibetan.
 No rhyme (which creates conceptual closure). Resonant cadence.
 
-**Ornament** 
+**<ornament>** (5.6%)
 Headings, markers, symbols. Preserved with minimal translation.
 
-**Mantra** 
+**<mantra>** (1.8%)
 Sacred syllables. Transliterated only, never translated.
 
 ## Line Numbering
@@ -73,37 +82,52 @@ From the primordial pure, where all elaborations cease || 10 ||
 ```
 
 This enables precise cross-reference with:
-- Tibetan source (eg. line 10)
-- Commentary (eg. lines 8-12)
+- Tibetan source (line 10)
+- Commentary (lines 8-12)
+- Scholar analysis (lines 1-15)
 
 ## Strict 1:1 Line Count
 
 **Every Tibetan line = exactly ONE liturgical line.**
 
-No splitting. No combining. The line count matches the Tibetan Layer exactly. This preserves:
+No splitting. No combining. The line count must match the Tibetan
+Layer exactly. This preserves:
 - Structural correspondence
 - Cross-reference accuracy
 - Textual integrity
 
-## Capitalization 
+## Capitalization (Strict)
 
-**Some Words Always Capitalized:**
+**Always Capitalize:**
 - Buddha, Samantabhadra, Padmasambhava
 - Dharmakaya, Sambhogakaya, Nirmāṇakāya
 - Ground, View, Path, Fruition
 - Proper names and titles
 
-**Some Never Capitalized:**
+**Never Capitalize:**
 - rigpa, awareness (unless title)
 - mind, consciousness
 - ordinary terms
 
-**Some Context-Dependent:**
+**Context-Dependent:**
 - buddha (generic) vs Buddha (Śākyamuni)
+
+## Terminology
+
+Follow **dictionary.md** with Vairotsana flexibility:
+- Prioritize metaphysical accuracy
+- Allow elegance for flow
+- Core Dzogchen terms: rig pa, ka dag, lhun grub
+- Choose transmission over rigid adherence
 
 ## Sacred Function
 
-This is not merely translation. The aspiration was **transformation of syntax into transmission.** The Liturgical Layer aim is to be capable of generating the Dzogchen state simply by being read with proper attention. Every word vibrates in the subtle body. Every phrase points to rigpa.
+This is not merely translation. It is **transformation of syntax into
+transmission.**
+
+The Liturgical Layer must be capable of generating the Dzogchen state
+simply by being read with proper attention. Every word vibrates in the
+subtle body. Every phrase points to rigpa.
 
 ## Using This Layer
 
@@ -117,8 +141,9 @@ This is your primary reading text. Read it:
 
 **For Study**
 
-Read alongside Commentary layers for understanding and depth
+Read alongside Commentary for understanding.
 Reference Tibetan for verification.
+Consult Scholar layers for depth.
 
 **For Teaching**
 
@@ -128,40 +153,18 @@ Use as the reading text for:
 - Public readings
 - Retreat recitations
 
-## Methodology Note
-
-All translation and commentary layers were generated using Kimi K2.5 over three weeks with extensive human prompting and curation by one practitioner.
-
-**Process:**
-1. Literal Layer analyzed as grammatical foundation
-2. AI-generated elegant rendering preserving metaphysical precision
-3. Human verification of Dzogchen view accuracy
-4. Refinement of vajra speech qualities
-5. Final selection for publication
-
-**What the AI Did:**
-- Generated liturgical renderings across 213 sections
-- Balanced elegance with metaphysical precision
-- Maintained vajra speech cadence
-- Applied consistent capitalization standards
-
-**What the Human Did:**
-- Designed liturgical voice parameters
-- Verified metaphysical accuracy of key passages
-- Directed elegance-precision balance
-- Curated which renderings to preserve
-- Made final editorial judgments
-
-**Result:**
-AI-generated liturgical translation, human-curated. One rendering among many possible. Not definitive.
-
-**Use it as:** Primary reading text, practice support, transmission aid
-**Not as:** Definitive translation, substitute for teacher guidance, peer-reviewed academic work
-
 ## Editorial Standards
 
-- Metaphysically precise
+**Quality Verification:**
+- Metaphysical precision check
+- Read-aloud test (does it chant?)
+- Capitalization audit
+- Terminology review
+- Line count verification
+
+**Sacred Boundaries:**
 - No commentary within the liturgy
 - No explanatory footnotes
 - No scholarly apparatus
 - Pure text only
+

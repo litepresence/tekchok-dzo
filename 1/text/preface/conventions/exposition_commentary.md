@@ -1,6 +1,8 @@
 # Editorial Conventions: Commentary Layer
 
-## What Is the Commentary Layer?
+## ⚠️ RESTRICTED TEACHINGS — HEART INSTRUCTION
+
+**This layer contains commentary on advanced Dzogchen teachings.**
 
 The Commentary Layer presents heart-instruction (*man ngag*) designed to support recognition of mind's nature. These are not casual reading materials.
 
@@ -111,6 +113,28 @@ Every comment aims to catalyze direct insight:
 - What is aware of these words?
 - That awareness is what Longchenpa points to
 
+## Voice Patterns and Qualities
+
+**First Point (Garab Dorje):**
+Express the three points creatively:
+- "See what is." / "Look. It is here." / "Your own face before parents."
+- "Resolve completely." / "Decide without doubt." / "Commit utterly."
+- "Return again." / "Come back to this." / "Maintain recognition."
+
+**Vagabond (Patrul):**
+Variety pool for self-reference:
+- "This old man once..." / "This wanderer..." / "This hermit..."
+- "This fool..." / "A practitioner..." / "An old vagabond..."
+
+**Systematizer:**
+Alternatives to formal transitions:
+- "Thus. We proceed..." / "Accordingly..." / "In this manner..."
+
+**Lion-Faced (Fierce yet spacious):**
+- "This very hesitation—look closely. Does it have a root?"
+- "The looking itself is the cutting. No need to force."
+- "Complete as it is, already. No need to wait."
+
 ## What the Commentary Never Does
 
 - Attributes the voice (no "Garab Dorje said...")
@@ -133,15 +157,27 @@ Return to Liturgical with new eyes.
 
 ## Editorial Standards
 
-- Distinct voices rotating
+**Voice Requirements (per section):**
+- 6+ distinct voices rotating
 - Specific line ranges [XXX-XXX] for every block
-- Concrete metaphors 
+- Concrete metaphors (no generic spiritual imagery)
+- Varying sentence length
+- One mirror moment per section
 - Practice obstacle reference
-- Metaphyiscal precision is priorty one. 
+
+**Quality Verification:**
+- Voices distinct without labels?
+- Metaphors fresh (no repetition within 5 sections)?
+- Variety in tone (peaceful, fierce-yet-spacious, earthy)?
+- Longchenpa bridges effectively?
+- Authentic "Patrul-like" moments?
+- Resonating rather than forcing?
+
+**Final Test:** Read aloud. Should feel like living masters gathered in heart-recognition—warm, inviting, spacious, even in fierce voices.
 
 ## Methodology Note
 
-All translation and commentary layers were generated using Kimi K2.5 over three weeks with extensive human prompting and curation by one practitioner.
+The Commentary Layer was generated using Kimi K2.5 (Moonshot AI) over three weeks, with extensive human prompting, curation, and refinement by one practitioner.
 
 **Process:**
 1. Tibetan text analyzed section by section
@@ -170,27 +206,10 @@ The voices represent stylized channeling of historical masters, not their actual
 **Use it as:** Support for understanding, one perspective among many, study aid
 **Not as:** Historical master's actual words, substitute for teacher guidance, definitive authority
 
-## How to Read This Layer
+---
 
-**For Practice**
-
-Read alongside the Liturgical text:
-- Receive the transmission through Liturgical
-- Understand what you received through Commentary
-- Return to Liturgical with recognition
-
-**For Study**
-
-Use this layer to:
-- Understand difficult passages
-- Recognize multiple perspectives on the same pointing
-- See how the lineage speaks
-- Deepen your connection to the text
-
-**For Teaching**
-
-Use as:
-- Source material for explanations
-- Examples of different teaching styles
-- Support for oral commentary
-- Inspiration for pointing-out instructions
+**For further reading:**
+- Voice system details: /protocol/voices.md
+- Metaphor rotation: /protocol/metaphors.md
+- Voice emphasis by chapter: /contents/voice_contents.md
+- Quality exemplars: /protocol/exemplars.md
