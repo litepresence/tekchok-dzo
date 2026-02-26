@@ -55,13 +55,31 @@ function showChapter(index) {
 function nextChapter() {
     if (currentChapter < totalChapters - 1) {
         showChapter(currentChapter + 1);
+        notifyParentOfChapterChange();
     }
 }
 
 function prevChapter() {
     if (currentChapter > 0) {
         showChapter(currentChapter - 1);
+        notifyParentOfChapterChange();
     }
+}
+
+function notifyParentOfChapterChange() {
+    const key = chapterKeys[currentChapter];
+    const parts = key.split('-');
+    const vol = parseInt(parts[0]);
+    const chapterMap = {
+        '01': 1, '02': 635, '03': 1582, '04': 1902, '05': 4172,
+        '06': 6801, '07': 9704, '08': 10472, '09': 11335, '10': 12500,
+        '11': 13104, '12': 13831, '13': 16025, '14': 17361,
+        '15': 20427, '16': 20900, '17': 22654, '18': 24822,
+        '19': 26863, '20': 27946, '21': 28946, '22': 29856,
+        '23': 31566, '24': 34830, '25': 35191
+    };
+    const lineNum = chapterMap[parts[1]] || 1;
+    window.parent.postMessage({ type: 'chapterChanged', volume: vol, chapter: parseInt(parts[1]), line: lineNum }, '*');
 }
 
 function updateNavButtons() {

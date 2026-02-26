@@ -23,13 +23,50 @@ function showChapter(index) {
 function nextChapter() {
     if (currentChapter < totalChapters - 1) {
         showChapter(currentChapter + 1);
+        notifyParentOfChapterChange();
     }
 }
 
 function prevChapter() {
     if (currentChapter > 0) {
         showChapter(currentChapter - 1);
+        notifyParentOfChapterChange();
     }
+}
+
+function notifyParentOfChapterChange() {
+    const chapterMap = {
+        '1': 1, '2': 635, '3': 1582, '4': 1902, '5': 4172,
+        '6': 6801, '7': 9704, '8': 10472, '9': 11335, '10': 12500,
+        '11': 13104, '12': 13831, '13': 16025, '14': 17361,
+        '15': 20427, '16': 20900, '17': 22654, '18': 24822,
+        '19': 26863, '20': 27946, '21': 28946, '22': 29856,
+        '23': 31566, '24': 34830, '25': 35191
+    };
+    
+    const activeSection = document.querySelector('.intro-section.active');
+    if (!activeSection) return;
+    
+    const sectionId = activeSection.id;
+    let lineNum = 1;
+    let volume = 1;
+    
+    if (sectionId.startsWith('chap-')) {
+        const parts = sectionId.replace('chap-', '').split('-');
+        if (parts.length >= 2) {
+            volume = parseInt(parts[0]);
+            const ch = parts[1];
+            lineNum = chapterMap[ch] || 1;
+        }
+    } else if (sectionId.startsWith('vol-')) {
+        volume = parseInt(sectionId.replace('vol-', ''));
+        lineNum = volume === 1 ? 1 : 20427;
+    } else if (sectionId === 'intro-main') {
+        lineNum = 1;
+        volume = 1;
+    }
+    
+    window.parent.postMessage({ type: 'chapterChanged', volume: volume, chapter: 0, line: lineNum }, '*');
 }
 
 function updateNavButtons() {

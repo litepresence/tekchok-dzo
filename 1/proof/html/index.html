@@ -1358,12 +1358,19 @@
             } else if (layerId === 'introduction') {
                 const chapterId = findChapterFromLine(lineToUse || 1, volumeToUse);
                 src += '#chapter-' + chapterId;
+                if (!needsLoad) {
+                    iframe.contentWindow.location.hash = '#chapter-' + chapterId;
+                }
             } else if (lineLayers.includes(layerId) && lineToUse && !isNaN(lineToUse)) {
                 src += `#line-${volumeToUse}-${lineToUse}`;
             }
             
+            // Always update src when line/volume changes, not just on initial load
             if (needsLoad) {
                 iframe.src = src;
+            } else if (lineLayers.includes(layerId) && lineToUse && !isNaN(lineToUse)) {
+                // Iframe already loaded - just update its hash to navigate to correct position
+                iframe.contentWindow.location.hash = `#line-${volumeToUse}-${lineToUse}`;
             }
         }
 
@@ -1527,6 +1534,21 @@
             if (!isNaN(lineNum)) {
                 setVolume(vol);
                 setLine(lineNum);
+            }
+            return;
+        }
+        
+        // Handle chapterChanged (from prev/next buttons in iframes)
+        if (e.data.type === 'chapterChanged') {
+            const vol = parseInt(e.data.volume);
+            const lineNum = parseInt(e.data.line);
+            if (vol && lineNum) {
+                setVolume(vol);
+                setLine(lineNum);
+                // Update URL to reflect new chapter position
+                if (state.layer && lineLayers.includes(state.layer)) {
+                    window.location.hash = buildHash(state.layer, state.volume, state.line);
+                }
             }
             return;
         }
