@@ -288,11 +288,18 @@
     <div class="document">
         
     <script>
+    const VOL1_LAST_LINE = 20426;
+    
     document.addEventListener('click', function(e) {
         const row = e.target.closest('tr[data-line]');
         if (row) {
-            const lineNum = row.dataset.line;
-            const volume = row.dataset.volume || '01';
+            const absLine = parseInt(row.dataset.line);
+            let volume = parseInt(row.dataset.volume || '01');
+            // Convert to volume-relative line number
+            let lineNum = absLine;
+            if (volume === 2 && absLine > VOL1_LAST_LINE) {
+                lineNum = absLine - VOL1_LAST_LINE;
+            }
             window.parent.postMessage({ type: 'navigateToLine', line: lineNum, volume: volume }, '*');
         }
     });

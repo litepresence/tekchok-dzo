@@ -971,21 +971,19 @@
         '01-12-00-00': { volume: 1, chapter: 12, startLine: 13831 },
         '01-13-00-00': { volume: 1, chapter: 13, startLine: 16025 },
         '01-14-00-00': { volume: 1, chapter: 14, startLine: 17361 },
-        '02-15-00-00': { volume: 2, chapter: 15, startLine: 1 },
-        '02-16-00-00': { volume: 2, chapter: 16, startLine: 685 },
-        '02-17-00-00': { volume: 2, chapter: 17, startLine: 1754 },
-        '02-18-00-00': { volume: 2, chapter: 18, startLine: 3922 },
-        '02-19-00-00': { volume: 2, chapter: 19, startLine: 5963 },
-        '02-20-00-00': { volume: 2, chapter: 20, startLine: 8083 },
-        '02-21-00-00': { volume: 2, chapter: 21, startLine: 9413 },
-        '02-22-00-00': { volume: 2, chapter: 22, startLine: 10211 },
-        '02-23-00-00': { volume: 2, chapter: 23, startLine: 12011 },
-        '02-24-00-00': { volume: 2, chapter: 24, startLine: 15275 },
-        '02-25-00-00': { volume: 2, chapter: 25, startLine: 15635 }
+        '02-15-00-00': { volume: 2, chapter: 15, startLine: 20427 },
+        '02-16-00-00': { volume: 2, chapter: 16, startLine: 20900 },
+        '02-17-00-00': { volume: 2, chapter: 17, startLine: 22654 },
+        '02-18-00-00': { volume: 2, chapter: 18, startLine: 24822 },
+        '02-19-00-00': { volume: 2, chapter: 19, startLine: 26863 },
+        '02-20-00-00': { volume: 2, chapter: 20, startLine: 27946 },
+        '02-21-00-00': { volume: 2, chapter: 21, startLine: 28946 },
+        '02-22-00-00': { volume: 2, chapter: 22, startLine: 29856 },
+        '02-23-00-00': { volume: 2, chapter: 23, startLine: 31566 },
+        '02-24-00-00': { volume: 2, chapter: 24, startLine: 34830 },
+        '02-25-00-00': { volume: 2, chapter: 25, startLine: 35191 }
     };
-
-    const VOL1_TOTAL_LINES = 20426;
-
+    
     function findChapterFromLine(lineNum, volume) {
         volume = volume || currentVolume;
         let bestMatch = '01-01-00-00';
@@ -997,6 +995,23 @@
             }
         }
         return bestMatch;
+    }
+    
+    const VOL1_TOTAL_LINES = 20426;
+
+    function getVolumeRelativeLine(absLineNum, volume) {
+        volume = volume || currentVolume;
+        if (volume === 2) {
+            return absLineNum - VOL1_TOTAL_LINES;
+        }
+        return absLineNum;
+    }
+    
+    function getChapterFromLine(absLineNum, volume) {
+        volume = volume || currentVolume;
+        const chapterKey = findChapterFromLine(absLineNum, volume);
+        const chapterData = CHAPTER_MAP[chapterKey];
+        return chapterData ? chapterData.chapter : null;
     }
 
         let currentLayer = null;
@@ -1305,6 +1320,7 @@
             let vol = e.data.volume ? parseInt(e.data.volume) : (currentVolume || 1);
             if (lineNum) {
                 currentLine = parseInt(lineNum);
+                currentVolume = vol;
                 currentVolume = vol;
                 window.location.hash = `${selectedTranslationLayer}:${vol}::${lineNum}`;
             }
