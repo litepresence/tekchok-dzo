@@ -342,50 +342,14 @@ def convert_with_markdown_library(input_file: str, output_file: str):
     return True
 
 
-def main():
-    """Main entry point."""
-    import argparse
+if __name__ == "__main__":
+    input_file = Path("../text/glossary.md")
+    output_file = Path("html/glossary.html")
     
-    parser = argparse.ArgumentParser(
-        description='Convert glossary markdown to HTML format'
-    )
-    parser.add_argument(
-        'input',
-        nargs='?',
-        default='../text/glossary.md',
-        help='Input markdown file (default: glossary.md)'
-    )
-    parser.add_argument(
-        'output',
-        nargs='?',
-        default='./html/glossary.html',
-        help='Output HTML file (default: glossary.html)'
-    )
-    parser.add_argument(
-        '--use-library',
-        action='store_true',
-        help='Use markdown library if available (recommended)'
-    )
-    
-    args = parser.parse_args()
-    
-    # Check if input file exists
-    if not Path(args.input).exists():
-        print(f"Error: Input file '{args.input}' not found.")
+    if not input_file.exists():
+        print(f"Error: Input file '{input_file}' not found.")
         sys.exit(1)
     
-    # Try library conversion first if requested
-    if args.use_library:
-        if convert_with_markdown_library(args.input, args.output):
-            return
-        else:
-            print("Markdown library not available, falling back to basic parser...")
-    
-    # Use basic converter
-    converter = GlossaryConverter(args.input, args.output)
+    converter = GlossaryConverter(str(input_file), str(output_file))
     converter.convert()
     converter.write_html()
-
-
-if __name__ == '__main__':
-    main()
