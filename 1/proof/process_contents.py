@@ -13,7 +13,7 @@ from pathlib import Path
 from datetime import datetime
 
 INPUT_FILE = Path("../contents/contents.md")
-OUTPUT_FILE = Path("html/contents_proof.html")
+OUTPUT_FILE = Path("html/contents.html")
 LITERAL_DIR = Path("../text/layer/literal")
 
 LINE_MAP = {}

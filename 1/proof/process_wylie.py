@@ -15,7 +15,7 @@ from pathlib import Path
 from datetime import datetime
 
 INPUT_DIR = Path("../text/layer/wylie")
-OUTPUT_FILE = Path("html/wylie_proof.html")
+OUTPUT_FILE = Path("html/wylie.html")
 FILE_PATTERN = re.compile(r"^\d\d-\d\d-\d\d-\d\d\.txt$")
 
 LINE_PATTERN = re.compile(r'^\[(\d+)\]\s*(.*)$')

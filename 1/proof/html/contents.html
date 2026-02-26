@@ -1,0 +1,2699 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Treasury of the Supreme Vehicle: Comprehensive Table of Contents (v2)</title>
+    <meta name="generator" content="Contents Parser">
+    <meta name="created" content="2026-02-25T19:42:46.212952">
+    
+<style>
+    @page {
+        size: 6in 9in;
+        margin: 0.75in;
+        @bottom-center {
+            content: counter(page);
+        }
+    }
+
+    :root {
+        --font-main: 'Georgia', 'Times New Roman', serif;
+        --font-sans: 'Helvetica', 'Arial', sans-serif;
+        --font-mono: 'Consolas', 'Courier New', monospace;
+        
+        --color-bg: #1e1e1e;
+        --color-text: #e0e0e0;
+        --color-muted: #a0a0a0;
+        --color-accent: #bcaaa4;
+        --color-header: #d7ccc8;
+        --color-chapter: #81d4fa;
+        --color-prologue: #ce93d8;
+        --color-main: #a5d6a7;
+        --color-subsection: #ffcc80;
+        --color-list: #80deea;
+        --color-fragment: #b0bec5;
+        --color-border: #3a3a3a;
+        --color-table-header: #2d2d2d;
+        --color-table-row: #252525;
+        --color-table-hover: #3a3a3a;
+        
+        --line-height: 1.5;
+    }
+
+    body.light-mode {
+        --color-bg: #fafafa;
+        --color-text: #1a1a1a;
+        --color-muted: #666;
+        --color-accent: #6a1b9a;
+        --color-header: #4a148c;
+        --color-chapter: #0277bd;
+        --color-prologue: #7b1fa2;
+        --color-main: #2e7d32;
+        --color-subsection: #e65100;
+        --color-list: #00838f;
+        --color-fragment: #455a64;
+        --color-border: #ddd;
+        --color-table-header: #eee;
+        --color-table-row: #f5f5f5;
+        --color-table-hover: #e0e0e0;
+    }
+
+    * {
+        box-sizing: border-box;
+    }
+
+    body {
+        font-family: var(--font-main);
+        color: var(--color-text);
+        line-height: var(--line-height);
+        font-size: 10pt;
+        margin: 0;
+        padding: 0;
+        background-color: var(--color-bg);
+        -webkit-print-color-adjust: exact;
+        print-color-adjust: exact;
+    }
+
+    .document {
+        max-width: 5.5in;
+        margin: 0 auto;
+        padding: 0;
+    }
+
+    /* Title */
+    .title-section {
+        text-align: center;
+        margin-bottom: 3em;
+        padding-bottom: 2em;
+        border-bottom: 2px solid var(--color-border);
+    }
+
+    .title-section h1 {
+        font-size: 1.4em;
+        color: var(--color-header);
+        margin-bottom: 0.5em;
+        font-variant: small-caps;
+        letter-spacing: 1px;
+    }
+
+    .title-section .work-title {
+        font-size: 1.1em;
+        color: var(--color-accent);
+        margin-bottom: 0.25em;
+    }
+
+    .title-section .meta {
+        font-size: 0.85em;
+        color: var(--color-muted);
+        margin-top: 1em;
+    }
+
+    /* Overview section */
+    .overview {
+        margin-bottom: 2em;
+        padding: 1em;
+        background-color: rgba(60, 60, 60, 0.5);
+        border-left: 3px solid var(--color-accent);
+        page-break-after: always;
+    }
+
+    .overview h2 {
+        font-size: 1.1em;
+        color: var(--color-header);
+        margin-top: 0;
+        margin-bottom: 0.75em;
+    }
+
+    .overview ul {
+        margin: 0;
+        padding-left: 1.5em;
+    }
+
+    .overview li {
+        margin-bottom: 0.5em;
+        font-size: 0.9em;
+    }
+
+    /* Chapter */
+    .chapter {
+        margin-top: 2em;
+        margin-bottom: 1.5em;
+    }
+
+    .chapter-header {
+        border-bottom: 1px solid var(--color-border);
+        padding-bottom: 0.5em;
+        margin-bottom: 1em;
+    }
+
+    .chapter-title {
+        font-size: 1.2em;
+        color: var(--color-chapter);
+        font-weight: 700;
+        margin: 0;
+    }
+
+    .chapter-meta {
+        font-size: 0.8em;
+        color: var(--color-muted);
+        margin-top: 0.25em;
+        font-family: var(--font-sans);
+    }
+
+    /* Section table */
+    .section-table {
+        width: 100%;
+        border-collapse: collapse;
+        font-size: 0.85em;
+    }
+
+    .section-table th {
+        text-align: left;
+        font-family: var(--font-sans);
+        font-size: 0.7em;
+        text-transform: uppercase;
+        letter-spacing: 0.5px;
+        color: var(--color-muted);
+        border-bottom: 1px solid var(--color-border);
+        padding: 0.25em 0.5em;
+    }
+
+    .section-table td {
+        padding: 0.35em 0.5em;
+        vertical-align: top;
+        border-bottom: 1px solid var(--color-border);
+    }
+
+    .section-table .col-file {
+        font-family: var(--font-mono);
+        font-size: 0.8em;
+        color: var(--color-muted);
+        width: 22%;
+    }
+
+    .section-table .col-lines {
+        font-family: var(--font-mono);
+        font-size: 0.8em;
+        color: var(--color-muted);
+        width: 8%;
+        text-align: right;
+    }
+
+    .section-table .col-type {
+        font-family: var(--font-sans);
+        font-size: 0.75em;
+        width: 12%;
+    }
+
+    .section-table .col-title {
+        width: 58%;
+    }
+
+    /* Type badges */
+    .type-badge {
+        display: inline-block;
+        padding: 1px 6px;
+        border-radius: 3px;
+        font-size: 0.7em;
+        font-weight: 600;
+        text-transform: uppercase;
+    }
+
+    .type-prologue {
+        background-color: rgba(206, 147, 216, 0.25);
+        color: var(--color-prologue);
+    }
+
+    .type-main {
+        background-color: rgba(165, 214, 167, 0.25);
+        color: var(--color-main);
+    }
+
+    .type-subsection {
+        background-color: rgba(255, 204, 128, 0.25);
+        color: var(--color-subsection);
+    }
+
+    .type-list {
+        background-color: rgba(128, 222, 234, 0.25);
+        color: var(--color-list);
+    }
+
+    .type-fragment {
+        background-color: rgba(176, 190, 197, 0.25);
+        color: var(--color-fragment);
+    }
+
+    /* Separator */
+    .chapter-separator {
+        margin: 2em 0;
+        border: none;
+        border-top: 1px dashed var(--color-border);
+    }
+
+    /* Clickable rows */
+    .section-table tbody tr {
+        cursor: pointer;
+        transition: background-color 0.2s ease;
+    }
+    
+    .section-table tbody tr:hover {
+        background-color: var(--color-table-hover);
+    }
+    
+    .section-table tbody tr:active {
+        background-color: rgba(129, 212, 250, 0.2);
+    }
+
+    /* Print-specific adjustments */
+    @media print {
+        body {
+            font-size: 9pt;
+        }
+        .document {
+            max-width: none;
+        }
+        a {
+            text-decoration: none;
+            color: inherit;
+        }
+        .overview {
+            background-color: #f5f5f5;
+        }
+    }
+</style>
+
+</head>
+<body>
+    <div class="document">
+        
+    <script>
+    document.addEventListener('click', function(e) {
+        const row = e.target.closest('tr[data-line]');
+        if (row) {
+            const lineNum = row.dataset.line;
+            window.parent.postMessage({ type: 'navigateToLine', line: lineNum }, '*');
+        }
+    });
+    
+    // Dark mode handling - sync with parent
+    (function() {
+        const isDark = localStorage.getItem('darkMode') !== 'false';
+        console.log('Contents page loaded, isDark:', isDark);
+        if (!isDark) document.body.classList.add('light-mode');
+        
+        window.addEventListener('message', function(e) {
+            console.log('Contents received message:', e.data);
+            if (e.data && e.data.type === 'darkModeChange') {
+                console.log('Contents darkModeChange received, enabled:', e.data.enabled);
+                document.body.classList.toggle('light-mode', !e.data.enabled);
+                localStorage.setItem('darkMode', e.data.enabled);
+            }
+        });
+    })();
+    </script>
+    
+
+    <div class="title-section">
+        <h1>Treasury of the Supreme Vehicle: Comprehensive Table of Contents (v2)</h1>
+        <div class="work-title">ཐེག་པའི་མཆོག་རིན་པོ་ཆེའི་མཛོད་ཀྱི་འགྲེལ་པ།</div>
+        <div class="meta">
+    
+<div>English Title: Treasury of the Supreme Vehicle: Autocommentary</div>
+<div>Author: Longchen Rabjampa (1308-1364)</div>
+<div>Total Chapters: 25</div>
+<div>Total Sections: 213</div>
+<div>Version: 7.1.0</div>
+
+        </div>
+    </div>
+    
+
+    <div class="overview">
+        <h2>Overview</h2>
+        <ul>
+            <li><strong>Descriptive titles</strong> for all 213 sections based on content analysis</li>
+            <li><strong>Line counts</strong> for each section (calculated from line markers)</li>
+            <li><strong>Click any row</strong> to jump to that section in your currently selected translation layer</li>
+            <li><strong>Content type</strong> classification:
+                <ul>
+                    <li><span class="type-badge type-prologue">Prologue</span> - Introductory/Homage sections</li>
+                    <li><span class="type-badge type-main">Main Teaching</span> - Substantive doctrinal content</li>
+                    <li><span class="type-badge type-subsection">Subsection</span> - Divisions within main teachings</li>
+                    <li><span class="type-badge type-list">List Item</span> - Brief structural markers (often one-line)</li>
+                    <li><span class="type-badge type-fragment">Structural Fragment</span> - Incomplete list items or outlines</li>
+                </ul>
+            </li>
+        </ul>
+    </div>
+    
+
+        <div class="chapter">
+            <div class="chapter-header">
+                <h2 class="chapter-title">Chapter 1: The Perfect Teacher</h2>
+                <div class="chapter-meta">
+                    Volume: 01 | 
+                    Pages: 1-18 | 
+                    Sections: 3 | 
+                    Total Lines: ~580
+                </div>
+            </div>
+            <table class="section-table">
+                <thead>
+                    <tr>
+                        <th class="col-file">File</th>
+                        <th class="col-lines">Lines</th>
+                        <th class="col-type">Type</th>
+                        <th class="col-title">Title</th>
+                    </tr>
+                </thead>
+                <tbody>
+        
+
+                    <tr data-line="1" style="cursor: pointer;" title="Click to go to line 1">
+                        <td class="col-file">1-1</td>
+                        <td class="col-lines">174</td>
+                        <td class="col-type"><span class="type-badge type-prologue">Prologue</span></td>
+                        <td class="col-title">Homage to Samantabhadra &amp; The Five Perfections</td>
+                    </tr>
+            
+
+                    <tr data-line="175" style="cursor: pointer;" title="Click to go to line 175">
+                        <td class="col-file">1-2</td>
+                        <td class="col-lines">403</td>
+                        <td class="col-type"><span class="type-badge type-main">Main Teaching</span></td>
+                        <td class="col-title">Teacher&#x27;s Display: Path of Samantabhadra and Mind Generation</td>
+                    </tr>
+            
+
+                    <tr data-line="578" style="cursor: pointer;" title="Click to go to line 578">
+                        <td class="col-file">1-3</td>
+                        <td class="col-lines">3</td>
+                        <td class="col-type"><span class="type-badge type-list">List Item</span></td>
+                        <td class="col-title">Brief mention: Pure Fields and Container-Contents</td>
+                    </tr>
+            
+
+                </tbody>
+            </table>
+        </div>
+        
+
+        <div class="chapter">
+            <div class="chapter-header">
+                <h2 class="chapter-title">Chapter 2: Container World and Contents Beings</h2>
+                <div class="chapter-meta">
+                    Volume: 01 | 
+                    Pages: 19-48 | 
+                    Sections: 7 | 
+                    Total Lines: ~830
+                </div>
+            </div>
+            <table class="section-table">
+                <thead>
+                    <tr>
+                        <th class="col-file">File</th>
+                        <th class="col-lines">Lines</th>
+                        <th class="col-type">Type</th>
+                        <th class="col-title">Title</th>
+                    </tr>
+                </thead>
+                <tbody>
+        
+
+                    <tr data-line="635" style="cursor: pointer;" title="Click to go to line 635">
+                        <td class="col-file">2-1</td>
+                        <td class="col-lines">257</td>
+                        <td class="col-type"><span class="type-badge type-main">Main Teaching</span></td>
+                        <td class="col-title">Geography of Worlds: South, East, North Directions</td>
+                    </tr>
+            
+
+                    <tr data-line="892" style="cursor: pointer;" title="Click to go to line 892">
+                        <td class="col-file">2-1-2</td>
+                        <td class="col-lines">105</td>
+                        <td class="col-type"><span class="type-badge type-list">List Item</span></td>
+                        <td class="col-title">Subdivision: Half and Quarter Measures (Structural Fragment)</td>
+                    </tr>
+            
+
+                    <tr data-line="997" style="cursor: pointer;" title="Click to go to line 997">
+                        <td class="col-file">2-1-3</td>
+                        <td class="col-lines">1</td>
+                        <td class="col-type"><span class="type-badge type-fragment">Structural Fragment</span></td>
+                        <td class="col-title">List: Gods Holding Flower Garlands</td>
+                    </tr>
+            
+
+                    <tr data-line="998" style="cursor: pointer;" title="Click to go to line 998">
+                        <td class="col-file">2-1-4</td>
+                        <td class="col-lines">1</td>
+                        <td class="col-type"><span class="type-badge type-fragment">Structural Fragment</span></td>
+                        <td class="col-title">List: Gods Intoxicated by Flower Nectar</td>
+                    </tr>
+            
+
+                    <tr data-line="999" style="cursor: pointer;" title="Click to go to line 999">
+                        <td class="col-file">2-1-5</td>
+                        <td class="col-lines">1</td>
+                        <td class="col-type"><span class="type-badge type-fragment">Structural Fragment</span></td>
+                        <td class="col-title">List: Four Directional Noble-Born Gods</td>
+                    </tr>
+            
+
+                    <tr data-line="1424" style="cursor: pointer;" title="Click to go to line 1424">
+                        <td class="col-file">2-2</td>
+                        <td class="col-lines">39</td>
+                        <td class="col-type"><span class="type-badge type-main">Main Teaching</span></td>
+                        <td class="col-title">The Eight Hot Hells: Duration and Suffering</td>
+                    </tr>
+            
+
+                    <tr data-line="1463" style="cursor: pointer;" title="Click to go to line 1463">
+                        <td class="col-file">2-2-2</td>
+                        <td class="col-lines">536</td>
+                        <td class="col-type"><span class="type-badge type-main">Main Teaching</span></td>
+                        <td class="col-title">Ten Non-Virtues and Their Results</td>
+                    </tr>
+            
+
+                </tbody>
+            </table>
+        </div>
+        
+
+        <div class="chapter">
+            <div class="chapter-header">
+                <h2 class="chapter-title">Chapter 3: Samsaric Phenomena</h2>
+                <div class="chapter-meta">
+                    Volume: 01 | 
+                    Pages: 49-57 | 
+                    Sections: 3 | 
+                    Total Lines: ~150
+                </div>
+            </div>
+            <table class="section-table">
+                <thead>
+                    <tr>
+                        <th class="col-file">File</th>
+                        <th class="col-lines">Lines</th>
+                        <th class="col-type">Type</th>
+                        <th class="col-title">Title</th>
+                    </tr>
+                </thead>
+                <tbody>
+        
+
+                    <tr data-line="1582" style="cursor: pointer;" title="Click to go to line 1582">
+                        <td class="col-file">3-1</td>
+                        <td class="col-lines">89</td>
+                        <td class="col-type"><span class="type-badge type-main">Main Teaching</span></td>
+                        <td class="col-title">Aggregates as Basis: Detailed Analysis</td>
+                    </tr>
+            
+
+                    <tr data-line="1671" style="cursor: pointer;" title="Click to go to line 1671">
+                        <td class="col-file">3-2</td>
+                        <td class="col-lines">61</td>
+                        <td class="col-type"><span class="type-badge type-subsection">Subsection</span></td>
+                        <td class="col-title">Further Analysis of Aggregates</td>
+                    </tr>
+            
+
+                    <tr data-line="1732" style="cursor: pointer;" title="Click to go to line 1732">
+                        <td class="col-file">3-3</td>
+                        <td class="col-lines">3</td>
+                        <td class="col-type"><span class="type-badge type-list">List Item</span></td>
+                        <td class="col-title">Brief Section Marker</td>
+                    </tr>
+            
+
+                </tbody>
+            </table>
+        </div>
+        
+
+        <div class="chapter">
+            <div class="chapter-header">
+                <h2 class="chapter-title">Chapter 4: Philosophical Systems (Drubtha)</h2>
+                <div class="chapter-meta">
+                    Volume: 01 | 
+                    Pages: 58-112 | 
+                    Sections: 20 | 
+                    Total Lines: ~2,100
+                </div>
+            </div>
+            <table class="section-table">
+                <thead>
+                    <tr>
+                        <th class="col-file">File</th>
+                        <th class="col-lines">Lines</th>
+                        <th class="col-type">Type</th>
+                        <th class="col-title">Title</th>
+                    </tr>
+                </thead>
+                <tbody>
+        
+
+                    <tr data-line="1902" style="cursor: pointer;" title="Click to go to line 1902">
+                        <td class="col-file">4-1</td>
+                        <td class="col-lines">637</td>
+                        <td class="col-type"><span class="type-badge type-main">Main Teaching</span></td>
+                        <td class="col-title">Erroneous Vehicles: Introduction to Philosophical Systems</td>
+                    </tr>
+            
+
+                    <tr data-line="2539" style="cursor: pointer;" title="Click to go to line 2539">
+                        <td class="col-file">4-2</td>
+                        <td class="col-lines">294</td>
+                        <td class="col-type"><span class="type-badge type-main">Main Teaching</span></td>
+                        <td class="col-title">Śrāvaka Vehicle: Fivefold Explanation</td>
+                    </tr>
+            
+
+                    <tr data-line="2833" style="cursor: pointer;" title="Click to go to line 2833">
+                        <td class="col-file">4-3</td>
+                        <td class="col-lines">3</td>
+                        <td class="col-type"><span class="type-badge type-list">List Item</span></td>
+                        <td class="col-title">Characteristic Vehicle Approach (Brief)</td>
+                    </tr>
+            
+
+                    <tr data-line="2836" style="cursor: pointer;" title="Click to go to line 2836">
+                        <td class="col-file">4-4</td>
+                        <td class="col-lines">13</td>
+                        <td class="col-type"><span class="type-badge type-list">List Item</span></td>
+                        <td class="col-title">First Point: Structural Marker</td>
+                    </tr>
+            
+
+                    <tr data-line="2849" style="cursor: pointer;" title="Click to go to line 2849">
+                        <td class="col-file">4-5</td>
+                        <td class="col-lines">24</td>
+                        <td class="col-type"><span class="type-badge type-main">Main Teaching</span></td>
+                        <td class="col-title">Mind-Only Analysis: Phenomena as Mental Projection</td>
+                    </tr>
+            
+
+                    <tr data-line="2873" style="cursor: pointer;" title="Click to go to line 2873">
+                        <td class="col-file">4-6</td>
+                        <td class="col-lines">110</td>
+                        <td class="col-type"><span class="type-badge type-main">Main Teaching</span></td>
+                        <td class="col-title">Logical Examination: No True Existence Found</td>
+                    </tr>
+            
+
+                    <tr data-line="2983" style="cursor: pointer;" title="Click to go to line 2983">
+                        <td class="col-file">4-7</td>
+                        <td class="col-lines">6</td>
+                        <td class="col-type"><span class="type-badge type-list">List Item</span></td>
+                        <td class="col-title">Perception Analysis: Appearances as Self-Awareness</td>
+                    </tr>
+            
+
+                    <tr data-line="2989" style="cursor: pointer;" title="Click to go to line 2989">
+                        <td class="col-file">4-8</td>
+                        <td class="col-lines">28</td>
+                        <td class="col-type"><span class="type-badge type-main">Main Teaching</span></td>
+                        <td class="col-title">Sound and Hearing: Momentary Awareness</td>
+                    </tr>
+            
+
+                    <tr data-line="3017" style="cursor: pointer;" title="Click to go to line 3017">
+                        <td class="col-file">4-9</td>
+                        <td class="col-lines">20</td>
+                        <td class="col-type"><span class="type-badge type-list">List Item</span></td>
+                        <td class="col-title">Present Appearances: Multiple Aspects</td>
+                    </tr>
+            
+
+                    <tr data-line="3037" style="cursor: pointer;" title="Click to go to line 3037">
+                        <td class="col-file">4-10</td>
+                        <td class="col-lines">3</td>
+                        <td class="col-type"><span class="type-badge type-list">List Item</span></td>
+                        <td class="col-title">Various Appearances: Mind-Only Explanation</td>
+                    </tr>
+            
+
+                    <tr data-line="3040" style="cursor: pointer;" title="Click to go to line 3040">
+                        <td class="col-file">4-11</td>
+                        <td class="col-lines">22</td>
+                        <td class="col-type"><span class="type-badge type-list">List Item</span></td>
+                        <td class="col-title">First Point: Structural Marker</td>
+                    </tr>
+            
+
+                    <tr data-line="3062" style="cursor: pointer;" title="Click to go to line 3062">
+                        <td class="col-file">4-12</td>
+                        <td class="col-lines">251</td>
+                        <td class="col-type"><span class="type-badge type-main">Main Teaching</span></td>
+                        <td class="col-title">Non-Existence: No Cessation in Reality</td>
+                    </tr>
+            
+
+                    <tr data-line="3313" style="cursor: pointer;" title="Click to go to line 3313">
+                        <td class="col-file">4-13</td>
+                        <td class="col-lines">28</td>
+                        <td class="col-type"><span class="type-badge type-list">List Item</span></td>
+                        <td class="col-title">First Point: Structural Marker</td>
+                    </tr>
+            
+
+                    <tr data-line="3341" style="cursor: pointer;" title="Click to go to line 3341">
+                        <td class="col-file">4-14</td>
+                        <td class="col-lines">380</td>
+                        <td class="col-type"><span class="type-badge type-main">Main Teaching</span></td>
+                        <td class="col-title">Clarifying the Basis: Causal Arguments</td>
+                    </tr>
+            
+
+                    <tr data-line="3721" style="cursor: pointer;" title="Click to go to line 3721">
+                        <td class="col-file">4-15</td>
+                        <td class="col-lines">45</td>
+                        <td class="col-type"><span class="type-badge type-list">List Item</span></td>
+                        <td class="col-title">First Point: Structural Marker</td>
+                    </tr>
+            
+
+                    <tr data-line="3766" style="cursor: pointer;" title="Click to go to line 3766">
+                        <td class="col-file">4-16</td>
+                        <td class="col-lines">104</td>
+                        <td class="col-type"><span class="type-badge type-main">Main Teaching</span></td>
+                        <td class="col-title">Middle Way Analysis: Part Two</td>
+                    </tr>
+            
+
+                    <tr data-line="3870" style="cursor: pointer;" title="Click to go to line 3870">
+                        <td class="col-file">4-17</td>
+                        <td class="col-lines">18</td>
+                        <td class="col-type"><span class="type-badge type-list">List Item</span></td>
+                        <td class="col-title">First Point: Structural Marker</td>
+                    </tr>
+            
+
+                    <tr data-line="3888" style="cursor: pointer;" title="Click to go to line 3888">
+                        <td class="col-file">4-18</td>
+                        <td class="col-lines">106</td>
+                        <td class="col-type"><span class="type-badge type-main">Main Teaching</span></td>
+                        <td class="col-title">Delusion Without Experience: Ignorance Analysis</td>
+                    </tr>
+            
+
+                    <tr data-line="3893" style="cursor: pointer;" title="Click to go to line 3893">
+                        <td class="col-file">4-18-2</td>
+                        <td class="col-lines">5</td>
+                        <td class="col-type"><span class="type-badge type-fragment">Structural Fragment</span></td>
+                        <td class="col-title">Second Point: Brief Marker</td>
+                    </tr>
+            
+
+                    <tr data-line="3994" style="cursor: pointer;" title="Click to go to line 3994">
+                        <td class="col-file">4-19</td>
+                        <td class="col-lines">104</td>
+                        <td class="col-type"><span class="type-badge type-main">Main Teaching</span></td>
+                        <td class="col-title">Afflictions and Purification: Detailed Analysis</td>
+                    </tr>
+            
+
+                </tbody>
+            </table>
+        </div>
+        
+
+        <div class="chapter">
+            <div class="chapter-header">
+                <h2 class="chapter-title">Chapter 5: Difficult Points in Secret Mantra</h2>
+                <div class="chapter-meta">
+                    Volume: 01 | 
+                    Pages: 113-170 | 
+                    Sections: 10 | 
+                    Total Lines: ~2,600
+                </div>
+            </div>
+            <table class="section-table">
+                <thead>
+                    <tr>
+                        <th class="col-file">File</th>
+                        <th class="col-lines">Lines</th>
+                        <th class="col-type">Type</th>
+                        <th class="col-title">Title</th>
+                    </tr>
+                </thead>
+                <tbody>
+        
+
+                    <tr data-line="4172" style="cursor: pointer;" title="Click to go to line 4172">
+                        <td class="col-file">5-1</td>
+                        <td class="col-lines">111</td>
+                        <td class="col-type"><span class="type-badge type-main">Main Teaching</span></td>
+                        <td class="col-title">Symbolic and Verbal Tantras: Introduction</td>
+                    </tr>
+            
+
+                    <tr data-line="4283" style="cursor: pointer;" title="Click to go to line 4283">
+                        <td class="col-file">5-2</td>
+                        <td class="col-lines">356</td>
+                        <td class="col-type"><span class="type-badge type-main">Main Teaching</span></td>
+                        <td class="col-title">Root Tantras: Detailed Explanation</td>
+                    </tr>
+            
+
+                    <tr data-line="4639" style="cursor: pointer;" title="Click to go to line 4639">
+                        <td class="col-file">5-3</td>
+                        <td class="col-lines">209</td>
+                        <td class="col-type"><span class="type-badge type-main">Main Teaching</span></td>
+                        <td class="col-title">Fivefold Classification: Binding the Ground</td>
+                    </tr>
+            
+
+                    <tr data-line="6420" style="cursor: pointer;" title="Click to go to line 6420">
+                        <td class="col-file">5-4-2</td>
+                        <td class="col-lines">1</td>
+                        <td class="col-type"><span class="type-badge type-fragment">Structural Fragment</span></td>
+                        <td class="col-title">List: Brahma Thousand World-Systems</td>
+                    </tr>
+            
+
+                    <tr data-line="6421" style="cursor: pointer;" title="Click to go to line 6421">
+                        <td class="col-file">5-4-3</td>
+                        <td class="col-lines">1</td>
+                        <td class="col-type"><span class="type-badge type-fragment">Structural Fragment</span></td>
+                        <td class="col-title">List: Sun Thousand Victors</td>
+                    </tr>
+            
+
+                    <tr data-line="6422" style="cursor: pointer;" title="Click to go to line 6422">
+                        <td class="col-file">5-4-4</td>
+                        <td class="col-lines">1</td>
+                        <td class="col-type"><span class="type-badge type-fragment">Structural Fragment</span></td>
+                        <td class="col-title">List: Net-Protector Buddhas</td>
+                    </tr>
+            
+
+                    <tr data-line="6423" style="cursor: pointer;" title="Click to go to line 6423">
+                        <td class="col-file">5-4-5</td>
+                        <td class="col-lines">1</td>
+                        <td class="col-type"><span class="type-badge type-fragment">Structural Fragment</span></td>
+                        <td class="col-title">List: Light-Ray Thousand Boundary Protectors</td>
+                    </tr>
+            
+
+                    <tr data-line="6424" style="cursor: pointer;" title="Click to go to line 6424">
+                        <td class="col-file">5-4-6</td>
+                        <td class="col-lines">1</td>
+                        <td class="col-type"><span class="type-badge type-fragment">Structural Fragment</span></td>
+                        <td class="col-title">List: Existence-Destroying Victors</td>
+                    </tr>
+            
+
+                    <tr data-line="6759" style="cursor: pointer;" title="Click to go to line 6759">
+                        <td class="col-file">5-5</td>
+                        <td class="col-lines">317</td>
+                        <td class="col-type"><span class="type-badge type-main">Main Teaching</span></td>
+                        <td class="col-title">Unexcelled Vehicle: Entrance Gateway</td>
+                    </tr>
+            
+
+                </tbody>
+            </table>
+        </div>
+        
+
+        <div class="chapter">
+            <div class="chapter-header">
+                <h2 class="chapter-title">Chapter 6: Ripening and Liberation Empowerments</h2>
+                <div class="chapter-meta">
+                    Volume: 01 | 
+                    Pages: 171-240 | 
+                    Sections: 20 | 
+                    Total Lines: ~2,900
+                </div>
+            </div>
+            <table class="section-table">
+                <thead>
+                    <tr>
+                        <th class="col-file">File</th>
+                        <th class="col-lines">Lines</th>
+                        <th class="col-type">Type</th>
+                        <th class="col-title">Title</th>
+                    </tr>
+                </thead>
+                <tbody>
+        
+
+                    <tr data-line="6801" style="cursor: pointer;" title="Click to go to line 6801">
+                        <td class="col-file">6-1</td>
+                        <td class="col-lines">298</td>
+                        <td class="col-type"><span class="type-badge type-main">Main Teaching</span></td>
+                        <td class="col-title">Six Student Types: Seeds and Dispositions</td>
+                    </tr>
+            
+
+                    <tr data-line="8112" style="cursor: pointer;" title="Click to go to line 8112">
+                        <td class="col-file">6-3</td>
+                        <td class="col-lines">26</td>
+                        <td class="col-type"><span class="type-badge type-list">List Item</span></td>
+                        <td class="col-title">Maṇḍala of Colored Powders: Deity Display</td>
+                    </tr>
+            
+
+                    <tr data-line="8138" style="cursor: pointer;" title="Click to go to line 8138">
+                        <td class="col-file">6-4</td>
+                        <td class="col-lines">534</td>
+                        <td class="col-type"><span class="type-badge type-main">Main Teaching</span></td>
+                        <td class="col-title">Five Wisdoms: Represented by Colored Powders</td>
+                    </tr>
+            
+
+                    <tr data-line="8672" style="cursor: pointer;" title="Click to go to line 8672">
+                        <td class="col-file">6-5</td>
+                        <td class="col-lines">2</td>
+                        <td class="col-type"><span class="type-badge type-list">List Item</span></td>
+                        <td class="col-title">First: Joy (Brief Marker)</td>
+                    </tr>
+            
+
+                    <tr data-line="8674" style="cursor: pointer;" title="Click to go to line 8674">
+                        <td class="col-file">6-5-2</td>
+                        <td class="col-lines">1</td>
+                        <td class="col-type"><span class="type-badge type-fragment">Structural Fragment</span></td>
+                        <td class="col-title">Second: Sensation/Feeling</td>
+                    </tr>
+            
+
+                    <tr data-line="8675" style="cursor: pointer;" title="Click to go to line 8675">
+                        <td class="col-file">6-5-3</td>
+                        <td class="col-lines">1</td>
+                        <td class="col-type"><span class="type-badge type-fragment">Structural Fragment</span></td>
+                        <td class="col-title">Third: Bliss (Mind and Wisdom Disturbance)</td>
+                    </tr>
+            
+
+                    <tr data-line="8676" style="cursor: pointer;" title="Click to go to line 8676">
+                        <td class="col-file">6-5-4</td>
+                        <td class="col-lines">1</td>
+                        <td class="col-type"><span class="type-badge type-fragment">Structural Fragment</span></td>
+                        <td class="col-title">Fourth: Experience (Mind-Wisdom Distinction)</td>
+                    </tr>
+            
+
+                    <tr data-line="8677" style="cursor: pointer;" title="Click to go to line 8677">
+                        <td class="col-file">6-5-5</td>
+                        <td class="col-lines">1</td>
+                        <td class="col-type"><span class="type-badge type-fragment">Structural Fragment</span></td>
+                        <td class="col-title">Fifth: Emptiness (Mind-Wisdom Absence)</td>
+                    </tr>
+            
+
+                    <tr data-line="8680" style="cursor: pointer;" title="Click to go to line 8680">
+                        <td class="col-file">6-6</td>
+                        <td class="col-lines">7</td>
+                        <td class="col-type"><span class="type-badge type-list">List Item</span></td>
+                        <td class="col-title">Joy Alone: Structural Marker</td>
+                    </tr>
+            
+
+                    <tr data-line="8687" style="cursor: pointer;" title="Click to go to line 8687">
+                        <td class="col-file">6-7</td>
+                        <td class="col-lines">37</td>
+                        <td class="col-type"><span class="type-badge type-main">Main Teaching</span></td>
+                        <td class="col-title">Consort Practice: Generating Root</td>
+                    </tr>
+            
+
+                    <tr data-line="8724" style="cursor: pointer;" title="Click to go to line 8724">
+                        <td class="col-file">6-7-2</td>
+                        <td class="col-lines">1</td>
+                        <td class="col-type"><span class="type-badge type-fragment">Structural Fragment</span></td>
+                        <td class="col-title">Second: Combined with Speech</td>
+                    </tr>
+            
+
+                    <tr data-line="8725" style="cursor: pointer;" title="Click to go to line 8725">
+                        <td class="col-file">6-7-3</td>
+                        <td class="col-lines">1</td>
+                        <td class="col-type"><span class="type-badge type-fragment">Structural Fragment</span></td>
+                        <td class="col-title">Third: Combined with Mind</td>
+                    </tr>
+            
+
+                    <tr data-line="8770" style="cursor: pointer;" title="Click to go to line 8770">
+                        <td class="col-file">6-8</td>
+                        <td class="col-lines">40</td>
+                        <td class="col-type"><span class="type-badge type-main">Main Teaching</span></td>
+                        <td class="col-title">Outer Practice: Body Focus</td>
+                    </tr>
+            
+
+                    <tr data-line="8810" style="cursor: pointer;" title="Click to go to line 8810">
+                        <td class="col-file">6-9</td>
+                        <td class="col-lines">31</td>
+                        <td class="col-type"><span class="type-badge type-main">Main Teaching</span></td>
+                        <td class="col-title">Elaborate Empowerment: Classification</td>
+                    </tr>
+            
+
+                    <tr data-line="8841" style="cursor: pointer;" title="Click to go to line 8841">
+                        <td class="col-file">6-10</td>
+                        <td class="col-lines">32</td>
+                        <td class="col-type"><span class="type-badge type-main">Main Teaching</span></td>
+                        <td class="col-title">Elaborate Empowerment: Power Allocation</td>
+                    </tr>
+            
+
+                    <tr data-line="8873" style="cursor: pointer;" title="Click to go to line 8873">
+                        <td class="col-file">6-11</td>
+                        <td class="col-lines">56</td>
+                        <td class="col-type"><span class="type-badge type-main">Main Teaching</span></td>
+                        <td class="col-title">Based on Elaborate: Further Details</td>
+                    </tr>
+            
+
+                    <tr data-line="9470" style="cursor: pointer;" title="Click to go to line 9470">
+                        <td class="col-file">6-13</td>
+                        <td class="col-lines">71</td>
+                        <td class="col-type"><span class="type-badge type-main">Main Teaching</span></td>
+                        <td class="col-title">Vows: Mantra Commitments and Oath</td>
+                    </tr>
+            
+
+                    <tr data-line="9655" style="cursor: pointer;" title="Click to go to line 9655">
+                        <td class="col-file">6-14</td>
+                        <td class="col-lines">1</td>
+                        <td class="col-type"><span class="type-badge type-list">List Item</span></td>
+                        <td class="col-title">Brief Closing Section</td>
+                    </tr>
+            
+
+                </tbody>
+            </table>
+        </div>
+        
+
+        <div class="chapter">
+            <div class="chapter-header">
+                <h2 class="chapter-title">Chapter 7: Samaya Commitments</h2>
+                <div class="chapter-meta">
+                    Volume: 01 | 
+                    Pages: 241-254 | 
+                    Sections: 5 | 
+                    Total Lines: ~770
+                </div>
+            </div>
+            <table class="section-table">
+                <thead>
+                    <tr>
+                        <th class="col-file">File</th>
+                        <th class="col-lines">Lines</th>
+                        <th class="col-type">Type</th>
+                        <th class="col-title">Title</th>
+                    </tr>
+                </thead>
+                <tbody>
+        
+
+                    <tr data-line="9656" style="cursor: pointer;" title="Click to go to line 9656">
+                        <td class="col-file">7-1</td>
+                        <td class="col-lines">195</td>
+                        <td class="col-type"><span class="type-badge type-main">Main Teaching</span></td>
+                        <td class="col-title">Supreme Commitment Tantra: Introduction</td>
+                    </tr>
+            
+
+                    <tr data-line="9851" style="cursor: pointer;" title="Click to go to line 9851">
+                        <td class="col-file">7-2</td>
+                        <td class="col-lines">91</td>
+                        <td class="col-type"><span class="type-badge type-main">Main Teaching</span></td>
+                        <td class="col-title">Body Commitments: Outer and Inner</td>
+                    </tr>
+            
+
+                    <tr data-line="9942" style="cursor: pointer;" title="Click to go to line 9942">
+                        <td class="col-file">7-3</td>
+                        <td class="col-lines">96</td>
+                        <td class="col-type"><span class="type-badge type-main">Main Teaching</span></td>
+                        <td class="col-title">Abandoning Outer Harm: Anger and Harmful Intent</td>
+                    </tr>
+            
+
+                    <tr data-line="10038" style="cursor: pointer;" title="Click to go to line 10038">
+                        <td class="col-file">7-4</td>
+                        <td class="col-lines">385</td>
+                        <td class="col-type"><span class="type-badge type-main">Main Teaching</span></td>
+                        <td class="col-title">Abandoning Outer Enmity: Exhaustive Analysis</td>
+                    </tr>
+            
+
+                    <tr data-line="10423" style="cursor: pointer;" title="Click to go to line 10423">
+                        <td class="col-file">7-5</td>
+                        <td class="col-lines">3</td>
+                        <td class="col-type"><span class="type-badge type-list">List Item</span></td>
+                        <td class="col-title">Naturally Pure Basis: Concluding Brief Section</td>
+                    </tr>
+            
+
+                </tbody>
+            </table>
+        </div>
+        
+
+        <div class="chapter">
+            <div class="chapter-header">
+                <h2 class="chapter-title">Chapter 8: Primordial Ground</h2>
+                <div class="chapter-meta">
+                    Volume: 01 | 
+                    Pages: 255-272 | 
+                    Sections: 9 | 
+                    Total Lines: ~860
+                </div>
+            </div>
+            <table class="section-table">
+                <thead>
+                    <tr>
+                        <th class="col-file">File</th>
+                        <th class="col-lines">Lines</th>
+                        <th class="col-type">Type</th>
+                        <th class="col-title">Title</th>
+                    </tr>
+                </thead>
+                <tbody>
+        
+
+                    <tr data-line="10424" style="cursor: pointer;" title="Click to go to line 10424">
+                        <td class="col-file">8-1</td>
+                        <td class="col-lines">76</td>
+                        <td class="col-type"><span class="type-badge type-main">Main Teaching</span></td>
+                        <td class="col-title">Seven Bases: General Nature Explained</td>
+                    </tr>
+            
+
+                    <tr data-line="10500" style="cursor: pointer;" title="Click to go to line 10500">
+                        <td class="col-file">8-2</td>
+                        <td class="col-lines">151</td>
+                        <td class="col-type"><span class="type-badge type-main">Main Teaching</span></td>
+                        <td class="col-title">Natural Purity: Spontaneously Accomplished Saṃsāra-Nirvāṇa</td>
+                    </tr>
+            
+
+                    <tr data-line="10651" style="cursor: pointer;" title="Click to go to line 10651">
+                        <td class="col-file">8-3</td>
+                        <td class="col-lines">23</td>
+                        <td class="col-type"><span class="type-badge type-list">List Item</span></td>
+                        <td class="col-title">Eternalism and Nihilism: Divine Nature</td>
+                    </tr>
+            
+
+                    <tr data-line="10674" style="cursor: pointer;" title="Click to go to line 10674">
+                        <td class="col-file">8-4</td>
+                        <td class="col-lines">2</td>
+                        <td class="col-type"><span class="type-badge type-list">List Item</span></td>
+                        <td class="col-title">First View: Structural Marker</td>
+                    </tr>
+            
+
+                    <tr data-line="10676" style="cursor: pointer;" title="Click to go to line 10676">
+                        <td class="col-file">8-4-2</td>
+                        <td class="col-lines">33</td>
+                        <td class="col-type"><span class="type-badge type-subsection">Subsection</span></td>
+                        <td class="col-title">Second View: Mind as Instantaneous Ground</td>
+                    </tr>
+            
+
+                    <tr data-line="10709" style="cursor: pointer;" title="Click to go to line 10709">
+                        <td class="col-file">8-5</td>
+                        <td class="col-lines">18</td>
+                        <td class="col-type"><span class="type-badge type-main">Main Teaching</span></td>
+                        <td class="col-title">Naturally Pure: Spontaneously Present Ka-Dak</td>
+                    </tr>
+            
+
+                    <tr data-line="10727" style="cursor: pointer;" title="Click to go to line 10727">
+                        <td class="col-file">8-6</td>
+                        <td class="col-lines">7</td>
+                        <td class="col-type"><span class="type-badge type-list">List Item</span></td>
+                        <td class="col-title">Two Debates: Opening Marker</td>
+                    </tr>
+            
+
+                    <tr data-line="10734" style="cursor: pointer;" title="Click to go to line 10734">
+                        <td class="col-file">8-7</td>
+                        <td class="col-lines">552</td>
+                        <td class="col-type"><span class="type-badge type-main">Main Teaching</span></td>
+                        <td class="col-title">Presenting Debate: Extensive Discussion</td>
+                    </tr>
+            
+
+                    <tr data-line="11286" style="cursor: pointer;" title="Click to go to line 11286">
+                        <td class="col-file">8-8</td>
+                        <td class="col-lines">1</td>
+                        <td class="col-type"><span class="type-badge type-list">List Item</span></td>
+                        <td class="col-title">Brief Concluding Section</td>
+                    </tr>
+            
+
+                </tbody>
+            </table>
+        </div>
+        
+
+        <div class="chapter">
+            <div class="chapter-header">
+                <h2 class="chapter-title">Chapter 9: Spontaneous Presence Appearance</h2>
+                <div class="chapter-meta">
+                    Volume: 01 | 
+                    Pages: 273-300 | 
+                    Sections: 2 | 
+                    Total Lines: ~1,150
+                </div>
+            </div>
+            <table class="section-table">
+                <thead>
+                    <tr>
+                        <th class="col-file">File</th>
+                        <th class="col-lines">Lines</th>
+                        <th class="col-type">Type</th>
+                        <th class="col-title">Title</th>
+                    </tr>
+                </thead>
+                <tbody>
+        
+
+                    <tr data-line="12430" style="cursor: pointer;" title="Click to go to line 12430">
+                        <td class="col-file">9-2</td>
+                        <td class="col-lines">3</td>
+                        <td class="col-type"><span class="type-badge type-list">List Item</span></td>
+                        <td class="col-title">Brief Structural Marker</td>
+                    </tr>
+            
+
+                </tbody>
+            </table>
+        </div>
+        
+
+        <div class="chapter">
+            <div class="chapter-header">
+                <h2 class="chapter-title">Chapter 10: Wisdoms and Kāyas</h2>
+                <div class="chapter-meta">
+                    Volume: 01 | 
+                    Pages: 301-315 | 
+                    Sections: 1 | 
+                    Total Lines: ~1,335
+                </div>
+            </div>
+            <table class="section-table">
+                <thead>
+                    <tr>
+                        <th class="col-file">File</th>
+                        <th class="col-lines">Lines</th>
+                        <th class="col-type">Type</th>
+                        <th class="col-title">Title</th>
+                    </tr>
+                </thead>
+                <tbody>
+        
+
+                </tbody>
+            </table>
+        </div>
+        
+
+        <div class="chapter">
+            <div class="chapter-header">
+                <h2 class="chapter-title">Chapter 11: Channels, Winds, and Bindus</h2>
+                <div class="chapter-meta">
+                    Volume: 01 | 
+                    Pages: 316-337 | 
+                    Sections: 2 | 
+                    Total Lines: ~330
+                </div>
+            </div>
+            <table class="section-table">
+                <thead>
+                    <tr>
+                        <th class="col-file">File</th>
+                        <th class="col-lines">Lines</th>
+                        <th class="col-type">Type</th>
+                        <th class="col-title">Title</th>
+                    </tr>
+                </thead>
+                <tbody>
+        
+
+                    <tr data-line="13056" style="cursor: pointer;" title="Click to go to line 13056">
+                        <td class="col-file">11-1</td>
+                        <td class="col-lines">328</td>
+                        <td class="col-type"><span class="type-badge type-main">Main Teaching</span></td>
+                        <td class="col-title">Mind-Seeking Body: Gandharva Entry Process</td>
+                    </tr>
+            
+
+                    <tr data-line="13384" style="cursor: pointer;" title="Click to go to line 13384">
+                        <td class="col-file">11-2</td>
+                        <td class="col-lines">2</td>
+                        <td class="col-type"><span class="type-badge type-list">List Item</span></td>
+                        <td class="col-title">Mind Gathering: Water Element Memory (Brief)</td>
+                    </tr>
+            
+
+                </tbody>
+            </table>
+        </div>
+        
+
+        <div class="chapter">
+            <div class="chapter-header">
+                <h2 class="chapter-title">Chapter 12: Key Points of Channels and Winds</h2>
+                <div class="chapter-meta">
+                    Volume: 01 | 
+                    Pages: 338-382 | 
+                    Sections: 8 | 
+                    Total Lines: ~1,950
+                </div>
+            </div>
+            <table class="section-table">
+                <thead>
+                    <tr>
+                        <th class="col-file">File</th>
+                        <th class="col-lines">Lines</th>
+                        <th class="col-type">Type</th>
+                        <th class="col-title">Title</th>
+                    </tr>
+                </thead>
+                <tbody>
+        
+
+                    <tr data-line="13783" style="cursor: pointer;" title="Click to go to line 13783">
+                        <td class="col-file">12-1</td>
+                        <td class="col-lines">697</td>
+                        <td class="col-type"><span class="type-badge type-main">Main Teaching</span></td>
+                        <td class="col-title">Channels: General Nature Explained</td>
+                    </tr>
+            
+
+                    <tr data-line="14480" style="cursor: pointer;" title="Click to go to line 14480">
+                        <td class="col-file">12-2</td>
+                        <td class="col-lines">287</td>
+                        <td class="col-type"><span class="type-badge type-main">Main Teaching</span></td>
+                        <td class="col-title">Enumeration: General Presentation</td>
+                    </tr>
+            
+
+                    <tr data-line="14767" style="cursor: pointer;" title="Click to go to line 14767">
+                        <td class="col-file">12-3</td>
+                        <td class="col-lines">221</td>
+                        <td class="col-type"><span class="type-badge type-main">Main Teaching</span></td>
+                        <td class="col-title">Varieties: General Presentation</td>
+                    </tr>
+            
+
+                    <tr data-line="14988" style="cursor: pointer;" title="Click to go to line 14988">
+                        <td class="col-file">12-4</td>
+                        <td class="col-lines">379</td>
+                        <td class="col-type"><span class="type-badge type-main">Main Teaching</span></td>
+                        <td class="col-title">Detailed Varieties: Channel Systems</td>
+                    </tr>
+            
+
+                    <tr data-line="15367" style="cursor: pointer;" title="Click to go to line 15367">
+                        <td class="col-file">12-5</td>
+                        <td class="col-lines">214</td>
+                        <td class="col-type"><span class="type-badge type-main">Main Teaching</span></td>
+                        <td class="col-title">Four Key Points: Posture Instructions</td>
+                    </tr>
+            
+
+                    <tr data-line="15581" style="cursor: pointer;" title="Click to go to line 15581">
+                        <td class="col-file">12-5-2</td>
+                        <td class="col-lines">140</td>
+                        <td class="col-type"><span class="type-badge type-subsection">Subsection</span></td>
+                        <td class="col-title">Third and Beyond: Combined Postures</td>
+                    </tr>
+            
+
+                    <tr data-line="15721" style="cursor: pointer;" title="Click to go to line 15721">
+                        <td class="col-file">12-6</td>
+                        <td class="col-lines">9</td>
+                        <td class="col-type"><span class="type-badge type-list">List Item</span></td>
+                        <td class="col-title">Brief Structural Marker</td>
+                    </tr>
+            
+
+                    <tr data-line="15730" style="cursor: pointer;" title="Click to go to line 15730">
+                        <td class="col-file">12-7</td>
+                        <td class="col-lines">1</td>
+                        <td class="col-type"><span class="type-badge type-list">List Item</span></td>
+                        <td class="col-title">Brief Closing Section</td>
+                    </tr>
+            
+
+                </tbody>
+            </table>
+        </div>
+        
+
+        <div class="chapter">
+            <div class="chapter-header">
+                <h2 class="chapter-title">Chapter 13: Four Lamps</h2>
+                <div class="chapter-meta">
+                    Volume: 01 | 
+                    Pages: 383-412 | 
+                    Sections: 6 | 
+                    Total Lines: ~1,050
+                </div>
+            </div>
+            <table class="section-table">
+                <thead>
+                    <tr>
+                        <th class="col-file">File</th>
+                        <th class="col-lines">Lines</th>
+                        <th class="col-type">Type</th>
+                        <th class="col-title">Title</th>
+                    </tr>
+                </thead>
+                <tbody>
+        
+
+                    <tr data-line="15977" style="cursor: pointer;" title="Click to go to line 15977">
+                        <td class="col-file">13-1</td>
+                        <td class="col-lines">249</td>
+                        <td class="col-type"><span class="type-badge type-main">Main Teaching</span></td>
+                        <td class="col-title">Karmic Winds Purified: Wisdom Wind Aspects</td>
+                    </tr>
+            
+
+                    <tr data-line="16226" style="cursor: pointer;" title="Click to go to line 16226">
+                        <td class="col-file">13-2</td>
+                        <td class="col-lines">209</td>
+                        <td class="col-type"><span class="type-badge type-main">Main Teaching</span></td>
+                        <td class="col-title">Water Lamp: Nature and Characteristics</td>
+                    </tr>
+            
+
+                    <tr data-line="16435" style="cursor: pointer;" title="Click to go to line 16435">
+                        <td class="col-file">13-3</td>
+                        <td class="col-lines">286</td>
+                        <td class="col-type"><span class="type-badge type-main">Main Teaching</span></td>
+                        <td class="col-title">Second Lamp: Detailed Explanation</td>
+                    </tr>
+            
+
+                    <tr data-line="16721" style="cursor: pointer;" title="Click to go to line 16721">
+                        <td class="col-file">13-4</td>
+                        <td class="col-lines">97</td>
+                        <td class="col-type"><span class="type-badge type-main">Main Teaching</span></td>
+                        <td class="col-title">Third Lamp: Nature Explained</td>
+                    </tr>
+            
+
+                    <tr data-line="16818" style="cursor: pointer;" title="Click to go to line 16818">
+                        <td class="col-file">13-5</td>
+                        <td class="col-lines">206</td>
+                        <td class="col-type"><span class="type-badge type-main">Main Teaching</span></td>
+                        <td class="col-title">Fire Lamp Mirror: Reflection Analysis</td>
+                    </tr>
+            
+
+                    <tr data-line="17024" style="cursor: pointer;" title="Click to go to line 17024">
+                        <td class="col-file">13-6</td>
+                        <td class="col-lines">3</td>
+                        <td class="col-type"><span class="type-badge type-list">List Item</span></td>
+                        <td class="col-title">Brief Closing Section</td>
+                    </tr>
+            
+
+                </tbody>
+            </table>
+        </div>
+        
+
+        <div class="chapter">
+            <div class="chapter-header">
+                <h2 class="chapter-title">Chapter 14: Basis of Consciousness</h2>
+                <div class="chapter-meta">
+                    Volume: 01 | 
+                    Pages: 413-479 | 
+                    Sections: 17 | 
+                    Total Lines: ~2,925
+                </div>
+            </div>
+            <table class="section-table">
+                <thead>
+                    <tr>
+                        <th class="col-file">File</th>
+                        <th class="col-lines">Lines</th>
+                        <th class="col-type">Type</th>
+                        <th class="col-title">Title</th>
+                    </tr>
+                </thead>
+                <tbody>
+        
+
+                    <tr data-line="17313" style="cursor: pointer;" title="Click to go to line 17313">
+                        <td class="col-file">14-1</td>
+                        <td class="col-lines">163</td>
+                        <td class="col-type"><span class="type-badge type-main">Main Teaching</span></td>
+                        <td class="col-title">Mind&#x27;s Abode: Location and Characteristics</td>
+                    </tr>
+            
+
+                    <tr data-line="17476" style="cursor: pointer;" title="Click to go to line 17476">
+                        <td class="col-file">14-2</td>
+                        <td class="col-lines">360</td>
+                        <td class="col-type"><span class="type-badge type-main">Main Teaching</span></td>
+                        <td class="col-title">Nature of Basis: Eightfold Explanation</td>
+                    </tr>
+            
+
+                    <tr data-line="17836" style="cursor: pointer;" title="Click to go to line 17836">
+                        <td class="col-file">14-3</td>
+                        <td class="col-lines">378</td>
+                        <td class="col-type"><span class="type-badge type-main">Main Teaching</span></td>
+                        <td class="col-title">Detailed Nature: Extensive Analysis</td>
+                    </tr>
+            
+
+                    <tr data-line="18214" style="cursor: pointer;" title="Click to go to line 18214">
+                        <td class="col-file">14-3-2</td>
+                        <td class="col-lines">12</td>
+                        <td class="col-type"><span class="type-badge type-fragment">Structural Fragment</span></td>
+                        <td class="col-title">Second: Wisdom Nature Expansion</td>
+                    </tr>
+            
+
+                    <tr data-line="18226" style="cursor: pointer;" title="Click to go to line 18226">
+                        <td class="col-file">14-4</td>
+                        <td class="col-lines">336</td>
+                        <td class="col-type"><span class="type-badge type-main">Main Teaching</span></td>
+                        <td class="col-title">Wisdom Nature: Self-Awareness Characteristics</td>
+                    </tr>
+            
+
+                    <tr data-line="18562" style="cursor: pointer;" title="Click to go to line 18562">
+                        <td class="col-file">14-5</td>
+                        <td class="col-lines">693</td>
+                        <td class="col-type"><span class="type-badge type-main">Main Teaching</span></td>
+                        <td class="col-title">Consequence (Prasaṅga): Detailed Refutation</td>
+                    </tr>
+            
+
+                    <tr data-line="19255" style="cursor: pointer;" title="Click to go to line 19255">
+                        <td class="col-file">14-6</td>
+                        <td class="col-lines">101</td>
+                        <td class="col-type"><span class="type-badge type-main">Main Teaching</span></td>
+                        <td class="col-title">Ka-Dak Space: Spontaneously Present Nature</td>
+                    </tr>
+            
+
+                    <tr data-line="19356" style="cursor: pointer;" title="Click to go to line 19356">
+                        <td class="col-file">14-7</td>
+                        <td class="col-lines">37</td>
+                        <td class="col-type"><span class="type-badge type-main">Main Teaching</span></td>
+                        <td class="col-title">Light Canopy Display: Appearances</td>
+                    </tr>
+            
+
+                    <tr data-line="19357" style="cursor: pointer;" title="Click to go to line 19357">
+                        <td class="col-file">14-7-2</td>
+                        <td class="col-lines">1</td>
+                        <td class="col-type"><span class="type-badge type-fragment">Structural Fragment</span></td>
+                        <td class="col-title">Second: Light Rays Abiding</td>
+                    </tr>
+            
+
+                    <tr data-line="19358" style="cursor: pointer;" title="Click to go to line 19358">
+                        <td class="col-file">14-7-3</td>
+                        <td class="col-lines">1</td>
+                        <td class="col-type"><span class="type-badge type-fragment">Structural Fragment</span></td>
+                        <td class="col-title">Third: Bindu Perimeter Appearing</td>
+                    </tr>
+            
+
+                    <tr data-line="19373" style="cursor: pointer;" title="Click to go to line 19373">
+                        <td class="col-file">14-7-4</td>
+                        <td class="col-lines">15</td>
+                        <td class="col-type"><span class="type-badge type-fragment">Structural Fragment</span></td>
+                        <td class="col-title">Second (repeated): Light Rays Display</td>
+                    </tr>
+            
+
+                    <tr data-line="19393" style="cursor: pointer;" title="Click to go to line 19393">
+                        <td class="col-file">14-8</td>
+                        <td class="col-lines">216</td>
+                        <td class="col-type"><span class="type-badge type-main">Main Teaching</span></td>
+                        <td class="col-title">Vertical Thigle: Wisdom Arising</td>
+                    </tr>
+            
+
+                    <tr data-line="19609" style="cursor: pointer;" title="Click to go to line 19609">
+                        <td class="col-file">14-9</td>
+                        <td class="col-lines">318</td>
+                        <td class="col-type"><span class="type-badge type-main">Main Teaching</span></td>
+                        <td class="col-title">Characteristics: Two Divisions</td>
+                    </tr>
+            
+
+                    <tr data-line="19927" style="cursor: pointer;" title="Click to go to line 19927">
+                        <td class="col-file">14-10</td>
+                        <td class="col-lines">172</td>
+                        <td class="col-type"><span class="type-badge type-list">List Item</span></td>
+                        <td class="col-title">Brief Section: Structural Marker</td>
+                    </tr>
+            
+
+                    <tr data-line="20099" style="cursor: pointer;" title="Click to go to line 20099">
+                        <td class="col-file">14-11</td>
+                        <td class="col-lines">65</td>
+                        <td class="col-type"><span class="type-badge type-main">Main Teaching</span></td>
+                        <td class="col-title">Three Divisions: Detailed Analysis</td>
+                    </tr>
+            
+
+                    <tr data-line="20164" style="cursor: pointer;" title="Click to go to line 20164">
+                        <td class="col-file">14-12</td>
+                        <td class="col-lines">73</td>
+                        <td class="col-type"><span class="type-badge type-main">Main Teaching</span></td>
+                        <td class="col-title">Single Ground-Awareness: Detailed Explanation</td>
+                    </tr>
+            
+
+                    <tr data-line="20237" style="cursor: pointer;" title="Click to go to line 20237">
+                        <td class="col-file">14-13</td>
+                        <td class="col-lines">2</td>
+                        <td class="col-type"><span class="type-badge type-list">List Item</span></td>
+                        <td class="col-title">Mind and Awareness: Brief Closing</td>
+                    </tr>
+            
+
+                </tbody>
+            </table>
+        </div>
+        
+
+        <div class="chapter">
+            <div class="chapter-header">
+                <h2 class="chapter-title">Chapter 15: Winds and Mind</h2>
+                <div class="chapter-meta">
+                    Volume: 01 | 
+                    Pages: 1-13 | 
+                    Sections: 3 | 
+                    Total Lines: ~670
+                </div>
+            </div>
+            <table class="section-table">
+                <thead>
+                    <tr>
+                        <th class="col-file">File</th>
+                        <th class="col-lines">Lines</th>
+                        <th class="col-type">Type</th>
+                        <th class="col-title">Title</th>
+                    </tr>
+                </thead>
+                <tbody>
+        
+
+                    <tr data-line="1" style="cursor: pointer;" title="Click to go to line 1">
+                        <td class="col-file">15-1</td>
+                        <td class="col-lines">473</td>
+                        <td class="col-type"><span class="type-badge type-main">Main Teaching</span></td>
+                        <td class="col-title">Nature of Wind: Five Life-Holding Winds</td>
+                    </tr>
+            
+
+                    <tr data-line="1" style="cursor: pointer;" title="Click to go to line 1">
+                        <td class="col-file">15-2</td>
+                        <td class="col-lines">195</td>
+                        <td class="col-type"><span class="type-badge type-main">Main Teaching</span></td>
+                        <td class="col-title">Five Life-Holders: Self-Arising Analysis</td>
+                    </tr>
+            
+
+                    <tr data-line="1" style="cursor: pointer;" title="Click to go to line 1">
+                        <td class="col-file">15-3</td>
+                        <td class="col-lines">2</td>
+                        <td class="col-type"><span class="type-badge type-list">List Item</span></td>
+                        <td class="col-title">Brief Structural Marker</td>
+                    </tr>
+            
+
+                </tbody>
+            </table>
+        </div>
+        
+
+        <div class="chapter">
+            <div class="chapter-header">
+                <h2 class="chapter-title">Chapter 16: Ground, Path, and Fruit</h2>
+                <div class="chapter-meta">
+                    Volume: 01 | 
+                    Pages: 14-33 | 
+                    Sections: 5 | 
+                    Total Lines: ~960
+                </div>
+            </div>
+            <table class="section-table">
+                <thead>
+                    <tr>
+                        <th class="col-file">File</th>
+                        <th class="col-lines">Lines</th>
+                        <th class="col-type">Type</th>
+                        <th class="col-title">Title</th>
+                    </tr>
+                </thead>
+                <tbody>
+        
+
+                    <tr data-line="1" style="cursor: pointer;" title="Click to go to line 1">
+                        <td class="col-file">16-1</td>
+                        <td class="col-lines">336</td>
+                        <td class="col-type"><span class="type-badge type-main">Main Teaching</span></td>
+                        <td class="col-title">Three Expansions: Ground-Path-Fruit Overview</td>
+                    </tr>
+            
+
+                    <tr data-line="1" style="cursor: pointer;" title="Click to go to line 1">
+                        <td class="col-file">16-2</td>
+                        <td class="col-lines">161</td>
+                        <td class="col-type"><span class="type-badge type-main">Main Teaching</span></td>
+                        <td class="col-title">Nirmāṇakāya Nature: Space-Awareness Indivisible</td>
+                    </tr>
+            
+
+                    <tr data-line="1" style="cursor: pointer;" title="Click to go to line 1">
+                        <td class="col-file">16-3</td>
+                        <td class="col-lines">407</td>
+                        <td class="col-type"><span class="type-badge type-main">Main Teaching</span></td>
+                        <td class="col-title">Nature Explained: Detailed Analysis</td>
+                    </tr>
+            
+
+                    <tr data-line="1" style="cursor: pointer;" title="Click to go to line 1">
+                        <td class="col-file">16-4</td>
+                        <td class="col-lines">49</td>
+                        <td class="col-type"><span class="type-badge type-list">List Item</span></td>
+                        <td class="col-title">Peaceful: First Division</td>
+                    </tr>
+            
+
+                    <tr data-line="1" style="cursor: pointer;" title="Click to go to line 1">
+                        <td class="col-file">16-5</td>
+                        <td class="col-lines">7</td>
+                        <td class="col-type"><span class="type-badge type-list">List Item</span></td>
+                        <td class="col-title">Peaceful Continued: Brief Marker</td>
+                    </tr>
+            
+
+                </tbody>
+            </table>
+        </div>
+        
+
+        <div class="chapter">
+            <div class="chapter-header">
+                <h2 class="chapter-title">Chapter 17: Stages of the Path</h2>
+                <div class="chapter-meta">
+                    Volume: 01 | 
+                    Pages: 34-83 | 
+                    Sections: 15 | 
+                    Total Lines: ~2,100
+                </div>
+            </div>
+            <table class="section-table">
+                <thead>
+                    <tr>
+                        <th class="col-file">File</th>
+                        <th class="col-lines">Lines</th>
+                        <th class="col-type">Type</th>
+                        <th class="col-title">Title</th>
+                    </tr>
+                </thead>
+                <tbody>
+        
+
+                    <tr data-line="1" style="cursor: pointer;" title="Click to go to line 1">
+                        <td class="col-file">17-1</td>
+                        <td class="col-lines">107</td>
+                        <td class="col-type"><span class="type-badge type-main">Main Teaching</span></td>
+                        <td class="col-title">Certain Path: Practice Stages Introduction</td>
+                    </tr>
+            
+
+                    <tr data-line="1" style="cursor: pointer;" title="Click to go to line 1">
+                        <td class="col-file">17-2</td>
+                        <td class="col-lines">190</td>
+                        <td class="col-type"><span class="type-badge type-main">Main Teaching</span></td>
+                        <td class="col-title">First Section: Structural Analysis</td>
+                    </tr>
+            
+
+                    <tr data-line="1" style="cursor: pointer;" title="Click to go to line 1">
+                        <td class="col-file">17-3</td>
+                        <td class="col-lines">13</td>
+                        <td class="col-type"><span class="type-badge type-list">List Item</span></td>
+                        <td class="col-title">Continuous Practice: Yogī&#x27;s Application</td>
+                    </tr>
+            
+
+                    <tr data-line="1" style="cursor: pointer;" title="Click to go to line 1">
+                        <td class="col-file">17-4</td>
+                        <td class="col-lines">625</td>
+                        <td class="col-type"><span class="type-badge type-main">Main Teaching</span></td>
+                        <td class="col-title">Detailed Explanation: Extensive Instructions</td>
+                    </tr>
+            
+
+                    <tr data-line="1" style="cursor: pointer;" title="Click to go to line 1">
+                        <td class="col-file">17-5</td>
+                        <td class="col-lines">90</td>
+                        <td class="col-type"><span class="type-badge type-main">Main Teaching</span></td>
+                        <td class="col-title">Key Instructions: Path Stages</td>
+                    </tr>
+            
+
+                    <tr data-line="1" style="cursor: pointer;" title="Click to go to line 1">
+                        <td class="col-file">17-6</td>
+                        <td class="col-lines">226</td>
+                        <td class="col-type"><span class="type-badge type-main">Main Teaching</span></td>
+                        <td class="col-title">Previous Explanation: Further Elaboration</td>
+                    </tr>
+            
+
+                    <tr data-line="1" style="cursor: pointer;" title="Click to go to line 1">
+                        <td class="col-file">17-7</td>
+                        <td class="col-lines">52</td>
+                        <td class="col-type"><span class="type-badge type-main">Main Teaching</span></td>
+                        <td class="col-title">Water, Fire, Dog, Enemy: Symbolic Analysis</td>
+                    </tr>
+            
+
+                    <tr data-line="1" style="cursor: pointer;" title="Click to go to line 1">
+                        <td class="col-file">17-8</td>
+                        <td class="col-lines">67</td>
+                        <td class="col-type"><span class="type-badge type-main">Main Teaching</span></td>
+                        <td class="col-title">Dream Practice: Proper Timing and Errors</td>
+                    </tr>
+            
+
+                    <tr data-line="1" style="cursor: pointer;" title="Click to go to line 1">
+                        <td class="col-file">17-9</td>
+                        <td class="col-lines">74</td>
+                        <td class="col-type"><span class="type-badge type-main">Main Teaching</span></td>
+                        <td class="col-title">Section Nine: Structural Marker</td>
+                    </tr>
+            
+
+                    <tr data-line="1" style="cursor: pointer;" title="Click to go to line 1">
+                        <td class="col-file">17-9-2</td>
+                        <td class="col-lines">109</td>
+                        <td class="col-type"><span class="type-badge type-subsection">Subsection</span></td>
+                        <td class="col-title">Fourth: Luminosity Four Times Union</td>
+                    </tr>
+            
+
+                    <tr data-line="1" style="cursor: pointer;" title="Click to go to line 1">
+                        <td class="col-file">17-10</td>
+                        <td class="col-lines">47</td>
+                        <td class="col-type"><span class="type-badge type-main">Main Teaching</span></td>
+                        <td class="col-title">A-Letter Clarity: Thought Analysis</td>
+                    </tr>
+            
+
+                    <tr data-line="1" style="cursor: pointer;" title="Click to go to line 1">
+                        <td class="col-file">17-11</td>
+                        <td class="col-lines">246</td>
+                        <td class="col-type"><span class="type-badge type-main">Main Teaching</span></td>
+                        <td class="col-title">Twofold Selection: Key Instructions</td>
+                    </tr>
+            
+
+                    <tr data-line="1" style="cursor: pointer;" title="Click to go to line 1">
+                        <td class="col-file">17-12</td>
+                        <td class="col-lines">109</td>
+                        <td class="col-type"><span class="type-badge type-main">Main Teaching</span></td>
+                        <td class="col-title">Verbal Views: Individual Mental Analysis</td>
+                    </tr>
+            
+
+                    <tr data-line="1" style="cursor: pointer;" title="Click to go to line 1">
+                        <td class="col-file">17-13</td>
+                        <td class="col-lines">143</td>
+                        <td class="col-type"><span class="type-badge type-main">Main Teaching</span></td>
+                        <td class="col-title">External Phenomena: Subject Self-Nature</td>
+                    </tr>
+            
+
+                    <tr data-line="1" style="cursor: pointer;" title="Click to go to line 1">
+                        <td class="col-file">17-14</td>
+                        <td class="col-lines">1</td>
+                        <td class="col-type"><span class="type-badge type-list">List Item</span></td>
+                        <td class="col-title">Brief Closing Section</td>
+                    </tr>
+            
+
+                </tbody>
+            </table>
+        </div>
+        
+
+        <div class="chapter">
+            <div class="chapter-header">
+                <h2 class="chapter-title">Chapter 18: Vajra Essence Path</h2>
+                <div class="chapter-meta">
+                    Volume: 01 | 
+                    Pages: 84-141 | 
+                    Sections: 25 | 
+                    Total Lines: ~2,050
+                </div>
+            </div>
+            <table class="section-table">
+                <thead>
+                    <tr>
+                        <th class="col-file">File</th>
+                        <th class="col-lines">Lines</th>
+                        <th class="col-type">Type</th>
+                        <th class="col-title">Title</th>
+                    </tr>
+                </thead>
+                <tbody>
+        
+
+                    <tr data-line="1" style="cursor: pointer;" title="Click to go to line 1">
+                        <td class="col-file">18-1</td>
+                        <td class="col-lines">234</td>
+                        <td class="col-type"><span class="type-badge type-main">Main Teaching</span></td>
+                        <td class="col-title">Free from Elaborations: Self-Appearing Awareness Path</td>
+                    </tr>
+            
+
+                    <tr data-line="1" style="cursor: pointer;" title="Click to go to line 1">
+                        <td class="col-file">18-2</td>
+                        <td class="col-lines">245</td>
+                        <td class="col-type"><span class="type-badge type-main">Main Teaching</span></td>
+                        <td class="col-title">Body Posture: Necessity and Arrangement</td>
+                    </tr>
+            
+
+                    <tr data-line="1" style="cursor: pointer;" title="Click to go to line 1">
+                        <td class="col-file">18-2-2</td>
+                        <td class="col-lines">5</td>
+                        <td class="col-type"><span class="type-badge type-fragment">Structural Fragment</span></td>
+                        <td class="col-title">Second: Realization and Liberation</td>
+                    </tr>
+            
+
+                    <tr data-line="1" style="cursor: pointer;" title="Click to go to line 1">
+                        <td class="col-file">18-2-3</td>
+                        <td class="col-lines">19</td>
+                        <td class="col-type"><span class="type-badge type-fragment">Structural Fragment</span></td>
+                        <td class="col-title">Third: Complete Buddhahood</td>
+                    </tr>
+            
+
+                    <tr data-line="1" style="cursor: pointer;" title="Click to go to line 1">
+                        <td class="col-file">18-3</td>
+                        <td class="col-lines">1</td>
+                        <td class="col-type"><span class="type-badge type-list">List Item</span></td>
+                        <td class="col-title">Body-Speech-Mind Keys: Brief Marker</td>
+                    </tr>
+            
+
+                    <tr data-line="1" style="cursor: pointer;" title="Click to go to line 1">
+                        <td class="col-file">18-3-2</td>
+                        <td class="col-lines">1</td>
+                        <td class="col-type"><span class="type-badge type-fragment">Structural Fragment</span></td>
+                        <td class="col-title">Second: Three Keys as Support</td>
+                    </tr>
+            
+
+                    <tr data-line="1" style="cursor: pointer;" title="Click to go to line 1">
+                        <td class="col-file">18-3-3</td>
+                        <td class="col-lines">1</td>
+                        <td class="col-type"><span class="type-badge type-fragment">Structural Fragment</span></td>
+                        <td class="col-title">Third: Signs from Practice</td>
+                    </tr>
+            
+
+                    <tr data-line="1" style="cursor: pointer;" title="Click to go to line 1">
+                        <td class="col-file">18-3-4</td>
+                        <td class="col-lines">40</td>
+                        <td class="col-type"><span class="type-badge type-fragment">Structural Fragment</span></td>
+                        <td class="col-title">Fourth: Four Supports/Dependencies</td>
+                    </tr>
+            
+
+                    <tr data-line="1" style="cursor: pointer;" title="Click to go to line 1">
+                        <td class="col-file">18-4</td>
+                        <td class="col-lines">133</td>
+                        <td class="col-type"><span class="type-badge type-main">Main Teaching</span></td>
+                        <td class="col-title">Nirmāṇakāya Posture: Detailed Instructions</td>
+                    </tr>
+            
+
+                    <tr data-line="1" style="cursor: pointer;" title="Click to go to line 1">
+                        <td class="col-file">18-5</td>
+                        <td class="col-lines">95</td>
+                        <td class="col-type"><span class="type-badge type-main">Main Teaching</span></td>
+                        <td class="col-title">Speech Training: Vocal Practices</td>
+                    </tr>
+            
+
+                    <tr data-line="1" style="cursor: pointer;" title="Click to go to line 1">
+                        <td class="col-file">18-6</td>
+                        <td class="col-lines">51</td>
+                        <td class="col-type"><span class="type-badge type-list">List Item</span></td>
+                        <td class="col-title">Brief Section: Structural Marker</td>
+                    </tr>
+            
+
+                    <tr data-line="1" style="cursor: pointer;" title="Click to go to line 1">
+                        <td class="col-file">18-7</td>
+                        <td class="col-lines">169</td>
+                        <td class="col-type"><span class="type-badge type-main">Main Teaching</span></td>
+                        <td class="col-title">Appearances Arising: Non-Conceptual Abiding</td>
+                    </tr>
+            
+
+                    <tr data-line="1" style="cursor: pointer;" title="Click to go to line 1">
+                        <td class="col-file">18-8</td>
+                        <td class="col-lines">119</td>
+                        <td class="col-type"><span class="type-badge type-main">Main Teaching</span></td>
+                        <td class="col-title">Sensory Objects: Forms and Sense Bases</td>
+                    </tr>
+            
+
+                    <tr data-line="1" style="cursor: pointer;" title="Click to go to line 1">
+                        <td class="col-file">18-8-2</td>
+                        <td class="col-lines">50</td>
+                        <td class="col-type"><span class="type-badge type-subsection">Subsection</span></td>
+                        <td class="col-title">Second: Session Extension</td>
+                    </tr>
+            
+
+                    <tr data-line="1" style="cursor: pointer;" title="Click to go to line 1">
+                        <td class="col-file">18-9</td>
+                        <td class="col-lines">40</td>
+                        <td class="col-type"><span class="type-badge type-list">List Item</span></td>
+                        <td class="col-title">Brief Structural Marker</td>
+                    </tr>
+            
+
+                    <tr data-line="1" style="cursor: pointer;" title="Click to go to line 1">
+                        <td class="col-file">18-10</td>
+                        <td class="col-lines">34</td>
+                        <td class="col-type"><span class="type-badge type-list">List Item</span></td>
+                        <td class="col-title">Brief Structural Marker</td>
+                    </tr>
+            
+
+                    <tr data-line="1" style="cursor: pointer;" title="Click to go to line 1">
+                        <td class="col-file">18-11</td>
+                        <td class="col-lines">83</td>
+                        <td class="col-type"><span class="type-badge type-list">List Item</span></td>
+                        <td class="col-title">Brief Structural Marker</td>
+                    </tr>
+            
+
+                    <tr data-line="1" style="cursor: pointer;" title="Click to go to line 1">
+                        <td class="col-file">18-12</td>
+                        <td class="col-lines">27</td>
+                        <td class="col-type"><span class="type-badge type-list">List Item</span></td>
+                        <td class="col-title">Brief Structural Marker</td>
+                    </tr>
+            
+
+                    <tr data-line="1" style="cursor: pointer;" title="Click to go to line 1">
+                        <td class="col-file">18-13</td>
+                        <td class="col-lines">371</td>
+                        <td class="col-type"><span class="type-badge type-main">Main Teaching</span></td>
+                        <td class="col-title">Awareness Measurement: Recognition Signs</td>
+                    </tr>
+            
+
+                    <tr data-line="1" style="cursor: pointer;" title="Click to go to line 1">
+                        <td class="col-file">18-14</td>
+                        <td class="col-lines">6</td>
+                        <td class="col-type"><span class="type-badge type-list">List Item</span></td>
+                        <td class="col-title">Brief Structural Marker</td>
+                    </tr>
+            
+
+                    <tr data-line="1" style="cursor: pointer;" title="Click to go to line 1">
+                        <td class="col-file">18-15</td>
+                        <td class="col-lines">265</td>
+                        <td class="col-type"><span class="type-badge type-main">Main Teaching</span></td>
+                        <td class="col-title">Continuous Gazing: Key Instructions</td>
+                    </tr>
+            
+
+                    <tr data-line="1" style="cursor: pointer;" title="Click to go to line 1">
+                        <td class="col-file">18-16</td>
+                        <td class="col-lines">12</td>
+                        <td class="col-type"><span class="type-badge type-main">Main Teaching</span></td>
+                        <td class="col-title">Truth Seeing: Joy and Eight Grounds</td>
+                    </tr>
+            
+
+                    <tr data-line="1" style="cursor: pointer;" title="Click to go to line 1">
+                        <td class="col-file">18-16-2</td>
+                        <td class="col-lines">2</td>
+                        <td class="col-type"><span class="type-badge type-fragment">Structural Fragment</span></td>
+                        <td class="col-title">Eighth: Immovable Ground Attainment</td>
+                    </tr>
+            
+
+                    <tr data-line="1" style="cursor: pointer;" title="Click to go to line 1">
+                        <td class="col-file">18-16-3</td>
+                        <td class="col-lines">3</td>
+                        <td class="col-type"><span class="type-badge type-fragment">Structural Fragment</span></td>
+                        <td class="col-title">Ninth: Excellent Intellect Ground</td>
+                    </tr>
+            
+
+                    <tr data-line="1" style="cursor: pointer;" title="Click to go to line 1">
+                        <td class="col-file">18-16-4</td>
+                        <td class="col-lines">1</td>
+                        <td class="col-type"><span class="type-badge type-fragment">Structural Fragment</span></td>
+                        <td class="col-title">Tenth: Dharma Cloud Ground</td>
+                    </tr>
+            
+
+                </tbody>
+            </table>
+        </div>
+        
+
+        <div class="chapter">
+            <div class="chapter-header">
+                <h2 class="chapter-title">Chapter 19: Deity Visualization</h2>
+                <div class="chapter-meta">
+                    Volume: 01 | 
+                    Pages: 142-189 | 
+                    Sections: 2 | 
+                    Total Lines: ~450
+                </div>
+            </div>
+            <table class="section-table">
+                <thead>
+                    <tr>
+                        <th class="col-file">File</th>
+                        <th class="col-lines">Lines</th>
+                        <th class="col-type">Type</th>
+                        <th class="col-title">Title</th>
+                    </tr>
+                </thead>
+                <tbody>
+        
+
+                    <tr data-line="1" style="cursor: pointer;" title="Click to go to line 1">
+                        <td class="col-file">19-0</td>
+                        <td class="col-lines">451</td>
+                        <td class="col-type"><span class="type-badge type-main">Main Teaching</span></td>
+                        <td class="col-title">Mind Beyond Dharma: Direct Introduction to Changeless Wisdom</td>
+                    </tr>
+            
+
+                    <tr data-line="1" style="cursor: pointer;" title="Click to go to line 1">
+                        <td class="col-file">19-1</td>
+                        <td class="col-lines">1</td>
+                        <td class="col-type"><span class="type-badge type-list">List Item</span></td>
+                        <td class="col-title">Causal Requirements: Brief Section</td>
+                    </tr>
+            
+
+                </tbody>
+            </table>
+        </div>
+        
+
+        <div class="chapter">
+            <div class="chapter-header">
+                <h2 class="chapter-title">Chapter 20: Direct Recognition</h2>
+                <div class="chapter-meta">
+                    Volume: 01 | 
+                    Pages: 190-219 | 
+                    Sections: 9 | 
+                    Total Lines: ~1,325
+                </div>
+            </div>
+            <table class="section-table">
+                <thead>
+                    <tr>
+                        <th class="col-file">File</th>
+                        <th class="col-lines">Lines</th>
+                        <th class="col-type">Type</th>
+                        <th class="col-title">Title</th>
+                    </tr>
+                </thead>
+                <tbody>
+        
+
+                    <tr data-line="1" style="cursor: pointer;" title="Click to go to line 1">
+                        <td class="col-file">20-1</td>
+                        <td class="col-lines">748</td>
+                        <td class="col-type"><span class="type-badge type-main">Main Teaching</span></td>
+                        <td class="col-title">Saṃsāra Without Name: Direct Recognition Teaching</td>
+                    </tr>
+            
+
+                    <tr data-line="1" style="cursor: pointer;" title="Click to go to line 1">
+                        <td class="col-file">20-2</td>
+                        <td class="col-lines">139</td>
+                        <td class="col-type"><span class="type-badge type-list">List Item</span></td>
+                        <td class="col-title">Brief Structural Marker</td>
+                    </tr>
+            
+
+                    <tr data-line="1" style="cursor: pointer;" title="Click to go to line 1">
+                        <td class="col-file">20-3</td>
+                        <td class="col-lines">2</td>
+                        <td class="col-type"><span class="type-badge type-fragment">Structural Fragment</span></td>
+                        <td class="col-title">Ground-Transcendence: Saṃsāric Delusion</td>
+                    </tr>
+            
+
+                    <tr data-line="1" style="cursor: pointer;" title="Click to go to line 1">
+                        <td class="col-file">20-4</td>
+                        <td class="col-lines">55</td>
+                        <td class="col-type"><span class="type-badge type-main">Main Teaching</span></td>
+                        <td class="col-title">Lost Ground: Delusion-Time Awareness</td>
+                    </tr>
+            
+
+                    <tr data-line="1" style="cursor: pointer;" title="Click to go to line 1">
+                        <td class="col-file">20-5</td>
+                        <td class="col-lines">42</td>
+                        <td class="col-type"><span class="type-badge type-list">List Item</span></td>
+                        <td class="col-title">Brief Structural Marker</td>
+                    </tr>
+            
+
+                    <tr data-line="1" style="cursor: pointer;" title="Click to go to line 1">
+                        <td class="col-file">20-6</td>
+                        <td class="col-lines">10</td>
+                        <td class="col-type"><span class="type-badge type-list">List Item</span></td>
+                        <td class="col-title">Red-Orange Round: Brief Appearance</td>
+                    </tr>
+            
+
+                    <tr data-line="1" style="cursor: pointer;" title="Click to go to line 1">
+                        <td class="col-file">20-7</td>
+                        <td class="col-lines">144</td>
+                        <td class="col-type"><span class="type-badge type-main">Main Teaching</span></td>
+                        <td class="col-title">Pure Red: Mountain Summit Symbolism</td>
+                    </tr>
+            
+
+                    <tr data-line="1" style="cursor: pointer;" title="Click to go to line 1">
+                        <td class="col-file">20-8</td>
+                        <td class="col-lines">181</td>
+                        <td class="col-type"><span class="type-badge type-main">Main Teaching</span></td>
+                        <td class="col-title">Mountain Chief Intention: Symbolic Explanation</td>
+                    </tr>
+            
+
+                    <tr data-line="1" style="cursor: pointer;" title="Click to go to line 1">
+                        <td class="col-file">20-9</td>
+                        <td class="col-lines">1</td>
+                        <td class="col-type"><span class="type-badge type-list">List Item</span></td>
+                        <td class="col-title">Brief Closing Section</td>
+                    </tr>
+            
+
+                </tbody>
+            </table>
+        </div>
+        
+
+        <div class="chapter">
+            <div class="chapter-header">
+                <h2 class="chapter-title">Chapter 21: Bardo Practice</h2>
+                <div class="chapter-meta">
+                    Volume: 01 | 
+                    Pages: 220-237 | 
+                    Sections: 2 | 
+                    Total Lines: ~300
+                </div>
+            </div>
+            <table class="section-table">
+                <thead>
+                    <tr>
+                        <th class="col-file">File</th>
+                        <th class="col-lines">Lines</th>
+                        <th class="col-type">Type</th>
+                        <th class="col-title">Title</th>
+                    </tr>
+                </thead>
+                <tbody>
+        
+
+                    <tr data-line="1" style="cursor: pointer;" title="Click to go to line 1">
+                        <td class="col-file">21-0</td>
+                        <td class="col-lines">300</td>
+                        <td class="col-type"><span class="type-badge type-main">Main Teaching</span></td>
+                        <td class="col-title">Jambudvīpa Manifestation: Intermediate State Instructions</td>
+                    </tr>
+            
+
+                    <tr data-line="1" style="cursor: pointer;" title="Click to go to line 1">
+                        <td class="col-file">21-1</td>
+                        <td class="col-lines">1</td>
+                        <td class="col-type"><span class="type-badge type-list">List Item</span></td>
+                        <td class="col-title">External Appearances: Red-White Visions (Brief)</td>
+                    </tr>
+            
+
+                </tbody>
+            </table>
+        </div>
+        
+
+        <div class="chapter">
+            <div class="chapter-header">
+                <h2 class="chapter-title">Chapter 22: Phowa Transference</h2>
+                <div class="chapter-meta">
+                    Volume: 01 | 
+                    Pages: 238-276 | 
+                    Sections: 10 | 
+                    Total Lines: ~1,800
+                </div>
+            </div>
+            <table class="section-table">
+                <thead>
+                    <tr>
+                        <th class="col-file">File</th>
+                        <th class="col-lines">Lines</th>
+                        <th class="col-type">Type</th>
+                        <th class="col-title">Title</th>
+                    </tr>
+                </thead>
+                <tbody>
+        
+
+                    <tr data-line="1" style="cursor: pointer;" title="Click to go to line 1">
+                        <td class="col-file">22-1</td>
+                        <td class="col-lines">555</td>
+                        <td class="col-type"><span class="type-badge type-main">Main Teaching</span></td>
+                        <td class="col-title">Bardo and Beyond: Liberation-Delusion Certain Signs</td>
+                    </tr>
+            
+
+                    <tr data-line="1" style="cursor: pointer;" title="Click to go to line 1">
+                        <td class="col-file">22-2</td>
+                        <td class="col-lines">60</td>
+                        <td class="col-type"><span class="type-badge type-main">Main Teaching</span></td>
+                        <td class="col-title">Nature Explained: Phowa Introduction</td>
+                    </tr>
+            
+
+                    <tr data-line="1" style="cursor: pointer;" title="Click to go to line 1">
+                        <td class="col-file">22-3</td>
+                        <td class="col-lines">74</td>
+                        <td class="col-type"><span class="type-badge type-main">Main Teaching</span></td>
+                        <td class="col-title">Thigle Nature: Transference Details</td>
+                    </tr>
+            
+
+                    <tr data-line="1" style="cursor: pointer;" title="Click to go to line 1">
+                        <td class="col-file">22-3-2</td>
+                        <td class="col-lines">282</td>
+                        <td class="col-type"><span class="type-badge type-subsection">Subsection</span></td>
+                        <td class="col-title">Fourth: Kāya Application</td>
+                    </tr>
+            
+
+                    <tr data-line="1" style="cursor: pointer;" title="Click to go to line 1">
+                        <td class="col-file">22-3-3</td>
+                        <td class="col-lines">140</td>
+                        <td class="col-type"><span class="type-badge type-subsection">Subsection</span></td>
+                        <td class="col-title">Third: Pure Signs Alone</td>
+                    </tr>
+            
+
+                    <tr data-line="1" style="cursor: pointer;" title="Click to go to line 1">
+                        <td class="col-file">22-4</td>
+                        <td class="col-lines">158</td>
+                        <td class="col-type"><span class="type-badge type-main">Main Teaching</span></td>
+                        <td class="col-title">Nature Explained: Second Division</td>
+                    </tr>
+            
+
+                    <tr data-line="1" style="cursor: pointer;" title="Click to go to line 1">
+                        <td class="col-file">22-5</td>
+                        <td class="col-lines">256</td>
+                        <td class="col-type"><span class="type-badge type-main">Main Teaching</span></td>
+                        <td class="col-title">Colors: Five Families&#x27; Portions</td>
+                    </tr>
+            
+
+                    <tr data-line="1" style="cursor: pointer;" title="Click to go to line 1">
+                        <td class="col-file">22-5-2</td>
+                        <td class="col-lines">89</td>
+                        <td class="col-type"><span class="type-badge type-subsection">Subsection</span></td>
+                        <td class="col-title">Eighth: Additional Points</td>
+                    </tr>
+            
+
+                    <tr data-line="1" style="cursor: pointer;" title="Click to go to line 1">
+                        <td class="col-file">22-6</td>
+                        <td class="col-lines">178</td>
+                        <td class="col-type"><span class="type-badge type-main">Main Teaching</span></td>
+                        <td class="col-title">Hell Birth Signs: Detailed Analysis</td>
+                    </tr>
+            
+
+                    <tr data-line="1" style="cursor: pointer;" title="Click to go to line 1">
+                        <td class="col-file">22-7</td>
+                        <td class="col-lines">1</td>
+                        <td class="col-type"><span class="type-badge type-list">List Item</span></td>
+                        <td class="col-title">Brief Closing Section</td>
+                    </tr>
+            
+
+                </tbody>
+            </table>
+        </div>
+        
+
+        <div class="chapter">
+            <div class="chapter-header">
+                <h2 class="chapter-title">Chapter 23: Self-Appearing Bardo</h2>
+                <div class="chapter-meta">
+                    Volume: 01 | 
+                    Pages: 277-366 | 
+                    Sections: 20 | 
+                    Total Lines: ~2,800
+                </div>
+            </div>
+            <table class="section-table">
+                <thead>
+                    <tr>
+                        <th class="col-file">File</th>
+                        <th class="col-lines">Lines</th>
+                        <th class="col-type">Type</th>
+                        <th class="col-title">Title</th>
+                    </tr>
+                </thead>
+                <tbody>
+        
+
+                    <tr data-line="1" style="cursor: pointer;" title="Click to go to line 1">
+                        <td class="col-file">23-1</td>
+                        <td class="col-lines">234</td>
+                        <td class="col-type"><span class="type-badge type-main">Main Teaching</span></td>
+                        <td class="col-title">Present Arising: Internal-External Abiding</td>
+                    </tr>
+            
+
+                    <tr data-line="1" style="cursor: pointer;" title="Click to go to line 1">
+                        <td class="col-file">23-2</td>
+                        <td class="col-lines">106</td>
+                        <td class="col-type"><span class="type-badge type-main">Main Teaching</span></td>
+                        <td class="col-title">Three Divisions: Structural Analysis</td>
+                    </tr>
+            
+
+                    <tr data-line="1" style="cursor: pointer;" title="Click to go to line 1">
+                        <td class="col-file">23-2-2</td>
+                        <td class="col-lines">171</td>
+                        <td class="col-type"><span class="type-badge type-subsection">Subsection</span></td>
+                        <td class="col-title">Third: Certain Death Reflection</td>
+                    </tr>
+            
+
+                    <tr data-line="1" style="cursor: pointer;" title="Click to go to line 1">
+                        <td class="col-file">23-3</td>
+                        <td class="col-lines">257</td>
+                        <td class="col-type"><span class="type-badge type-main">Main Teaching</span></td>
+                        <td class="col-title">Detailed Explanation: Intermediate State</td>
+                    </tr>
+            
+
+                    <tr data-line="1" style="cursor: pointer;" title="Click to go to line 1">
+                        <td class="col-file">23-4</td>
+                        <td class="col-lines">391</td>
+                        <td class="col-type"><span class="type-badge type-main">Main Teaching</span></td>
+                        <td class="col-title">Five&#x27;s First: External Arising</td>
+                    </tr>
+            
+
+                    <tr data-line="1" style="cursor: pointer;" title="Click to go to line 1">
+                        <td class="col-file">23-5</td>
+                        <td class="col-lines">6</td>
+                        <td class="col-type"><span class="type-badge type-list">List Item</span></td>
+                        <td class="col-title">Awareness Entering Light: Self-Appearance</td>
+                    </tr>
+            
+
+                    <tr data-line="1" style="cursor: pointer;" title="Click to go to line 1">
+                        <td class="col-file">23-6</td>
+                        <td class="col-lines">1</td>
+                        <td class="col-type"><span class="type-badge type-fragment">Structural Fragment</span></td>
+                        <td class="col-title">Death Time Entry: Brief Marker</td>
+                    </tr>
+            
+
+                    <tr data-line="1" style="cursor: pointer;" title="Click to go to line 1">
+                        <td class="col-file">23-6-2</td>
+                        <td class="col-lines">78</td>
+                        <td class="col-type"><span class="type-badge type-subsection">Subsection</span></td>
+                        <td class="col-title">Second and Third: Twenty-Four Divisions</td>
+                    </tr>
+            
+
+                    <tr data-line="1" style="cursor: pointer;" title="Click to go to line 1">
+                        <td class="col-file">23-7</td>
+                        <td class="col-lines">1</td>
+                        <td class="col-type"><span class="type-badge type-list">List Item</span></td>
+                        <td class="col-title">Brief Structural Marker</td>
+                    </tr>
+            
+
+                    <tr data-line="1" style="cursor: pointer;" title="Click to go to line 1">
+                        <td class="col-file">23-8</td>
+                        <td class="col-lines">310</td>
+                        <td class="col-type"><span class="type-badge type-main">Main Teaching</span></td>
+                        <td class="col-title">Certain Recognition: Sequential Arising</td>
+                    </tr>
+            
+
+                    <tr data-line="1" style="cursor: pointer;" title="Click to go to line 1">
+                        <td class="col-file">23-8-2</td>
+                        <td class="col-lines">1</td>
+                        <td class="col-type"><span class="type-badge type-fragment">Structural Fragment</span></td>
+                        <td class="col-title">Second: Recognition Arisen</td>
+                    </tr>
+            
+
+                    <tr data-line="1" style="cursor: pointer;" title="Click to go to line 1">
+                        <td class="col-file">23-8-3</td>
+                        <td class="col-lines">1</td>
+                        <td class="col-type"><span class="type-badge type-fragment">Structural Fragment</span></td>
+                        <td class="col-title">Third: For Liberation</td>
+                    </tr>
+            
+
+                    <tr data-line="1" style="cursor: pointer;" title="Click to go to line 1">
+                        <td class="col-file">23-8-4</td>
+                        <td class="col-lines">110</td>
+                        <td class="col-type"><span class="type-badge type-subsection">Subsection</span></td>
+                        <td class="col-title">Second: Spontaneous Presence Gateway</td>
+                    </tr>
+            
+
+                    <tr data-line="1" style="cursor: pointer;" title="Click to go to line 1">
+                        <td class="col-file">23-8-5</td>
+                        <td class="col-lines">2</td>
+                        <td class="col-type"><span class="type-badge type-fragment">Structural Fragment</span></td>
+                        <td class="col-title">Third: Setting/Disappearance</td>
+                    </tr>
+            
+
+                    <tr data-line="1" style="cursor: pointer;" title="Click to go to line 1">
+                        <td class="col-file">23-8-6</td>
+                        <td class="col-lines">1</td>
+                        <td class="col-type"><span class="type-badge type-fragment">Structural Fragment</span></td>
+                        <td class="col-title">Second: Seeing</td>
+                    </tr>
+            
+
+                    <tr data-line="1" style="cursor: pointer;" title="Click to go to line 1">
+                        <td class="col-file">23-8-7</td>
+                        <td class="col-lines">1</td>
+                        <td class="col-type"><span class="type-badge type-fragment">Structural Fragment</span></td>
+                        <td class="col-title">Third: Instant Awareness Recognition</td>
+                    </tr>
+            
+
+                    <tr data-line="1" style="cursor: pointer;" title="Click to go to line 1">
+                        <td class="col-file">23-8-8</td>
+                        <td class="col-lines">1</td>
+                        <td class="col-type"><span class="type-badge type-fragment">Structural Fragment</span></td>
+                        <td class="col-title">Fourth: Self-Appearance Truth</td>
+                    </tr>
+            
+
+                    <tr data-line="1" style="cursor: pointer;" title="Click to go to line 1">
+                        <td class="col-file">23-8-9</td>
+                        <td class="col-lines">70</td>
+                        <td class="col-type"><span class="type-badge type-fragment">Structural Fragment</span></td>
+                        <td class="col-title">Fifth: Ka-Dak Liberation</td>
+                    </tr>
+            
+
+                    <tr data-line="1" style="cursor: pointer;" title="Click to go to line 1">
+                        <td class="col-file">23-9</td>
+                        <td class="col-lines">1</td>
+                        <td class="col-type"><span class="type-badge type-list">List Item</span></td>
+                        <td class="col-title">Brief Closing Section</td>
+                    </tr>
+            
+
+                </tbody>
+            </table>
+        </div>
+        
+
+        <div class="chapter">
+            <div class="chapter-header">
+                <h2 class="chapter-title">Chapter 24: Faculties and Capacities</h2>
+                <div class="chapter-meta">
+                    Volume: 01 | 
+                    Pages: 367-376 | 
+                    Sections: 1 | 
+                    Total Lines: ~360
+                </div>
+            </div>
+            <table class="section-table">
+                <thead>
+                    <tr>
+                        <th class="col-file">File</th>
+                        <th class="col-lines">Lines</th>
+                        <th class="col-type">Type</th>
+                        <th class="col-title">Title</th>
+                    </tr>
+                </thead>
+                <tbody>
+        
+
+                    <tr data-line="1" style="cursor: pointer;" title="Click to go to line 1">
+                        <td class="col-file">24-1</td>
+                        <td class="col-lines">360</td>
+                        <td class="col-type"><span class="type-badge type-main">Main Teaching</span></td>
+                        <td class="col-title">Lowest Faculties: Dharmatā Bardo Without Truth Found</td>
+                    </tr>
+            
+
+                </tbody>
+            </table>
+        </div>
+        
+
+        <div class="chapter">
+            <div class="chapter-header">
+                <h2 class="chapter-title">Chapter 25: Spontaneous Fruition</h2>
+                <div class="chapter-meta">
+                    Volume: 01 | 
+                    Pages: 377-412 | 
+                    Sections: 8 | 
+                    Total Lines: ~1,340
+                </div>
+            </div>
+            <table class="section-table">
+                <thead>
+                    <tr>
+                        <th class="col-file">File</th>
+                        <th class="col-lines">Lines</th>
+                        <th class="col-type">Type</th>
+                        <th class="col-title">Title</th>
+                    </tr>
+                </thead>
+                <tbody>
+        
+
+                    <tr data-line="1" style="cursor: pointer;" title="Click to go to line 1">
+                        <td class="col-file">25-1</td>
+                        <td class="col-lines">694</td>
+                        <td class="col-type"><span class="type-badge type-main">Main Teaching</span></td>
+                        <td class="col-title">Pearl Rosary: Extensive Results Teaching</td>
+                    </tr>
+            
+
+                    <tr data-line="1" style="cursor: pointer;" title="Click to go to line 1">
+                        <td class="col-file">25-2</td>
+                        <td class="col-lines">31</td>
+                        <td class="col-type"><span class="type-badge type-list">List Item</span></td>
+                        <td class="col-title">Three Divisions: Structural Marker</td>
+                    </tr>
+            
+
+                    <tr data-line="1" style="cursor: pointer;" title="Click to go to line 1">
+                        <td class="col-file">25-3</td>
+                        <td class="col-lines">49</td>
+                        <td class="col-type"><span class="type-badge type-main">Main Teaching</span></td>
+                        <td class="col-title">Path Appearance: Spontaneous Presence Sphere</td>
+                    </tr>
+            
+
+                    <tr data-line="1" style="cursor: pointer;" title="Click to go to line 1">
+                        <td class="col-file">25-4</td>
+                        <td class="col-lines">27</td>
+                        <td class="col-type"><span class="type-badge type-main">Main Teaching</span></td>
+                        <td class="col-title">Saṃbhogakāya Abode: Detailed Expansion</td>
+                    </tr>
+            
+
+                    <tr data-line="1" style="cursor: pointer;" title="Click to go to line 1">
+                        <td class="col-file">25-5</td>
+                        <td class="col-lines">283</td>
+                        <td class="col-type"><span class="type-badge type-main">Main Teaching</span></td>
+                        <td class="col-title">Detailed Explanation: Extensive Analysis</td>
+                    </tr>
+            
+
+                    <tr data-line="1" style="cursor: pointer;" title="Click to go to line 1">
+                        <td class="col-file">25-6</td>
+                        <td class="col-lines">51</td>
+                        <td class="col-type"><span class="type-badge type-list">List Item</span></td>
+                        <td class="col-title">Brief Structural Marker</td>
+                    </tr>
+            
+
+                    <tr data-line="1" style="cursor: pointer;" title="Click to go to line 1">
+                        <td class="col-file">25-6-2</td>
+                        <td class="col-lines">202</td>
+                        <td class="col-type"><span class="type-badge type-subsection">Subsection</span></td>
+                        <td class="col-title">Fourth: Detailed Varieties of Three Kāyas</td>
+                    </tr>
+            
+
+                    <tr data-line="1" style="cursor: pointer;" title="Click to go to line 1">
+                        <td class="col-file">25-7</td>
+                        <td class="col-lines">1</td>
+                        <td class="col-type"><span class="type-badge type-list">List Item</span></td>
+                        <td class="col-title">Brief Closing: Kāya Nature</td>
+                    </tr>
+            
+
+                    <tr data-line="1" style="cursor: pointer;" title="Click to go to line 1">
+                        <td class="col-file">3</td>
+                        <td class="col-lines">150</td>
+                        <td class="col-type"><span class="type-badge type-list">Aggregates</span></td>
+                        <td class="col-title">| 4</td>
+                    </tr>
+            
+
+                    <tr data-line="1" style="cursor: pointer;" title="Click to go to line 1">
+                        <td class="col-file">3</td>
+                        <td class="col-lines">670</td>
+                        <td class="col-type"><span class="type-badge type-list">rlung-sems connection</span></td>
+                        <td class="col-title">| 16</td>
+                    </tr>
+            
+
+                </tbody>
+            </table>
+        </div>
+        
+    </div>
+</body>
+</html>

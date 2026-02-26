@@ -22,7 +22,7 @@ from datetime import datetime
 # -----------------------------------------------------------------------------
 
 INPUT_DIR = Path("../text/layer/liturgical")
-OUTPUT_FILE = Path("html/liturgical_proof.html")
+OUTPUT_FILE = Path("html/liturgical.html")
 FILE_PATTERN = re.compile(r"^\d\d-\d\d-\d\d-\d\d\.txt$")
 
 # Regex to parse lines: [LineNum] [<break>] <Tag> Content

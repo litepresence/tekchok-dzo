@@ -17,7 +17,7 @@ from datetime import datetime
 # -----------------------------------------------------------------------------
 
 INPUT_DIR = Path("../text/layer/epistemic")
-OUTPUT_FILE = Path("html/epistemic_proof.html")
+OUTPUT_FILE = Path("html/epistemic.html")
 FILE_PATTERN = re.compile(r"^\d\d-\d\d-\d\d-\d\d\.txt$")
 
 # Regex patterns

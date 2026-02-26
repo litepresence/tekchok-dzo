@@ -19,7 +19,7 @@ from datetime import datetime
 # -----------------------------------------------------------------------------
 
 INPUT_DIR = Path("../text/layer/delusion")
-OUTPUT_FILE = Path("html/delusion_proof.html")
+OUTPUT_FILE = Path("html/delusion.html")
 FILE_PATTERN = re.compile(r"^\d\d-\d\d-\d\d-\d\d\.txt$")
 
 LINE_RANGE_PATTERN = re.compile(r'^\[(\d+-\d+)\]')
