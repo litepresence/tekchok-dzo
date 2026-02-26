@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Editorial Conventions - Treasury of the Supreme Vehicle</title>
-    <meta name="created" content="2026-02-25T20:02:58.724240">
+    <meta name="created" content="2026-02-25T20:17:16.687970">
     <style>
         @page { size: 6in 9in; margin: 0.75in; }
         :root {
@@ -187,8 +187,10 @@
     <script>
         // Dark mode handling - sync with parent
         (function() {
-            const isDark = localStorage.getItem('darkMode') !== 'false';
-            if (!isDark) document.body.classList.add('light-mode');
+            document.addEventListener('DOMContentLoaded', function() {
+                const isDark = localStorage.getItem('darkMode') !== 'false';
+                if (!isDark) document.body.classList.add('light-mode');
+            });
             
             window.addEventListener('message', function(e) {
                 if (e.data && e.data.type === 'darkModeChange') {

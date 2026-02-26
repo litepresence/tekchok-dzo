@@ -542,8 +542,10 @@ class GlossaryConverter:
     <script>
     // Dark mode handling - sync with parent
     (function() {{
-        const isDark = localStorage.getItem('darkMode') !== 'false';
-        if (!isDark) document.body.classList.add('light-mode');
+        document.addEventListener('DOMContentLoaded', function() {{
+            const isDark = localStorage.getItem('darkMode') !== 'false';
+            if (!isDark) document.body.classList.add('light-mode');
+        }});
         
         window.addEventListener('message', function(e) {{
             if (e.data && e.data.type === 'darkModeChange') {{
@@ -805,8 +807,10 @@ def convert_with_markdown_library(input_file: str, output_file: str):
     <script>
     // Dark mode handling - sync with parent
     (function() {{
-        const isDark = localStorage.getItem('darkMode') !== 'false';
-        if (!isDark) document.body.classList.add('light-mode');
+        document.addEventListener('DOMContentLoaded', function() {{
+            const isDark = localStorage.getItem('darkMode') !== 'false';
+            if (!isDark) document.body.classList.add('light-mode');
+        }});
         
         window.addEventListener('message', function(e) {{
             if (e.data && e.data.type === 'darkModeChange') {{

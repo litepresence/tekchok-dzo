@@ -234,8 +234,10 @@ def process_conventions():
     <script>
         // Dark mode handling - sync with parent
         (function() {{
-            const isDark = localStorage.getItem('darkMode') !== 'false';
-            if (!isDark) document.body.classList.add('light-mode');
+            document.addEventListener('DOMContentLoaded', function() {{
+                const isDark = localStorage.getItem('darkMode') !== 'false';
+                if (!isDark) document.body.classList.add('light-mode');
+            }});
             
             window.addEventListener('message', function(e) {{
                 if (e.data && e.data.type === 'darkModeChange') {{
