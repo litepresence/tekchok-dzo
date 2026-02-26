@@ -264,7 +264,7 @@ This comprehensive table of contents provides:
 ---
 
 ## Chapter 15: Winds and Mind
-**Volume**: 01 | **Pages**: 1-13 (Vol 2)  
+**Volume**: 02 | **Pages**: 1-13 (Vol 2)  
 **Sections**: 3 | **Total Lines**: ~670
 
 | File | Lines | Type | Descriptive Title |
@@ -276,7 +276,7 @@ This comprehensive table of contents provides:
 ---
 
 ## Chapter 16: Ground, Path, and Fruit
-**Volume**: 01 | **Pages**: 14-33 (Vol 2)  
+**Volume**: 02 | **Pages**: 14-33 (Vol 2)  
 **Sections**: 5 | **Total Lines**: ~960
 
 | File | Lines | Type | Descriptive Title |
@@ -290,7 +290,7 @@ This comprehensive table of contents provides:
 ---
 
 ## Chapter 17: Stages of the Path
-**Volume**: 01 | **Pages**: 34-83 (Vol 2)  
+**Volume**: 02 | **Pages**: 34-83 (Vol 2)  
 **Sections**: 15 | **Total Lines**: ~2,100
 
 | File | Lines | Type | Descriptive Title |
@@ -314,7 +314,7 @@ This comprehensive table of contents provides:
 ---
 
 ## Chapter 18: Vajra Essence Path
-**Volume**: 01 | **Pages**: 84-141 (Vol 2)  
+**Volume**: 02 | **Pages**: 84-141 (Vol 2)  
 **Sections**: 25 | **Total Lines**: ~2,050
 
 | File | Lines | Type | Descriptive Title |
@@ -348,7 +348,7 @@ This comprehensive table of contents provides:
 ---
 
 ## Chapter 19: Deity Visualization
-**Volume**: 01 | **Pages**: 142-189 (Vol 2)  
+**Volume**: 02 | **Pages**: 142-189 (Vol 2)  
 **Sections**: 2 | **Total Lines**: ~450
 
 | File | Lines | Type | Descriptive Title |
@@ -359,7 +359,7 @@ This comprehensive table of contents provides:
 ---
 
 ## Chapter 20: Direct Recognition
-**Volume**: 01 | **Pages**: 190-219 (Vol 2)  
+**Volume**: 02 | **Pages**: 190-219 (Vol 2)  
 **Sections**: 9 | **Total Lines**: ~1,325
 
 | File | Lines | Type | Descriptive Title |
@@ -377,7 +377,7 @@ This comprehensive table of contents provides:
 ---
 
 ## Chapter 21: Bardo Practice
-**Volume**: 01 | **Pages**: 220-237 (Vol 2)  
+**Volume**: 02 | **Pages**: 220-237 (Vol 2)  
 **Sections**: 2 | **Total Lines**: ~300
 
 | File | Lines | Type | Descriptive Title |
@@ -388,7 +388,7 @@ This comprehensive table of contents provides:
 ---
 
 ## Chapter 22: Phowa Transference
-**Volume**: 01 | **Pages**: 238-276 (Vol 2)  
+**Volume**: 02 | **Pages**: 238-276 (Vol 2)  
 **Sections**: 10 | **Total Lines**: ~1,800
 
 | File | Lines | Type | Descriptive Title |
@@ -407,7 +407,7 @@ This comprehensive table of contents provides:
 ---
 
 ## Chapter 23: Self-Appearing Bardo
-**Volume**: 01 | **Pages**: 277-366 (Vol 2)  
+**Volume**: 02 | **Pages**: 277-366 (Vol 2)  
 **Sections**: 20 | **Total Lines**: ~2,800
 
 | File | Lines | Type | Descriptive Title |
@@ -436,7 +436,7 @@ This comprehensive table of contents provides:
 ---
 
 ## Chapter 24: Faculties and Capacities
-**Volume**: 01 | **Pages**: 367-376 (Vol 2)  
+**Volume**: 02 | **Pages**: 367-376 (Vol 2)  
 **Sections**: 1 | **Total Lines**: ~360
 
 | File | Lines | Type | Descriptive Title |
@@ -446,7 +446,7 @@ This comprehensive table of contents provides:
 ---
 
 ## Chapter 25: Spontaneous Fruition
-**Volume**: 01 | **Pages**: 377-412 (Vol 2)  
+**Volume**: 02 | **Pages**: 377-412 (Vol 2)  
 **Sections**: 8 | **Total Lines**: ~1,340
 
 | File | Lines | Type | Descriptive Title |

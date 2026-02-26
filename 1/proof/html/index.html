@@ -1302,7 +1302,7 @@
     window.addEventListener('message', function(e) {
         if (e.data && e.data.type === 'navigateToLine') {
             const lineNum = e.data.line;
-            const vol = e.data.volume || currentVolume || 1;
+            let vol = e.data.volume ? parseInt(e.data.volume) : (currentVolume || 1);
             if (lineNum) {
                 currentLine = parseInt(lineNum);
                 currentVolume = vol;
@@ -1315,7 +1315,7 @@
             if (!isNaN(lineNum)) {
                 currentLine = lineNum;
                 if (e.data.volume) {
-                    currentVolume = e.data.volume;
+                    currentVolume = parseInt(e.data.volume);
                 }
                 console.log('Updated currentLine from iframe:', currentLine, 'volume:', currentVolume);
             }

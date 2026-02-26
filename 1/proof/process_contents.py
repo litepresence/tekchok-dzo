@@ -539,7 +539,7 @@ def generate_html(data):
             literal_key = file_id_to_literal_key(chapter['volume'], chapter['number'], entry['file'].replace('.md', ''))
             start_line = LINE_MAP.get(literal_key, 1)
             html_parts.append(f'''
-                    <tr data-line="{start_line}" style="cursor: pointer;" title="Click to go to line {start_line}">
+                    <tr data-line="{start_line}" data-volume="{chapter['volume']}" style="cursor: pointer;" title="Click to go to line {start_line}">
                         <td class="col-file">{html.escape(entry['file'])}</td>
                         <td class="col-lines">{html.escape(entry['lines'])}</td>
                         <td class="col-type"><span class="type-badge type-{type_class}">{html.escape(entry['type'])}</span></td>
