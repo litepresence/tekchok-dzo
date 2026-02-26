@@ -5,22 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Glossary of Lineage-Specific Terms</title>
     <link rel="stylesheet" href="../css/glossary.css">
-    <script>
-    // Dark mode handling - sync with parent
-    (function() {
-        document.addEventListener('DOMContentLoaded', function() {
-            const isDark = localStorage.getItem('darkMode') !== 'false';
-            if (!isDark) document.body.classList.add('light-mode');
-        });
-        
-        window.addEventListener('message', function(e) {
-            if (e.data && e.data.type === 'darkModeChange') {
-                document.body.classList.toggle('light-mode', !e.data.enabled);
-                localStorage.setItem('darkMode', e.data.enabled);
-            }
-        });
-    })();
-    </script>
+    <script src="../js/glossary.js"></script>
 </head>
 <body>
     <div class="document">

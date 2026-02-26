@@ -4,12 +4,12 @@ Introduction Parser
 Parses main introduction, volume introductions, and chapter introductions
 and outputs a single combined HTML file optimized for PDF rendering and iframe navigation.
 """
+import html
 import os
 import re
-import html
 import sys
-from pathlib import Path
 from datetime import datetime
+from pathlib import Path
 
 # -----------------------------------------------------------------------------
 # CONFIGURATION
@@ -122,117 +122,17 @@ def build_full_document(sections_html, total_sections):
     
     js_script = f"""
 <script>
-let currentSection = 0;
-const totalSections = {total_sections};
-const sectionIds = {section_ids};
-const sectionTitles = {section_titles};
-
-function showSection(index) {{
-    const sections = document.querySelectorAll('.intro-section');
-    sections.forEach((sec, i) => {{
-        sec.classList.toggle('active', i === index);
-    }});
-    currentSection = index;
-    updateNavButtons();
-    updateIndicator();
-    window.scrollTo({{ top: 0, behavior: 'instant' }});
-}}
-
-function nextSection() {{
-    if (currentSection < totalSections - 1) {{
-        showSection(currentSection + 1);
-    }}
-}}
-
-function prevSection() {{
-    if (currentSection > 0) {{
-        showSection(currentSection - 1);
-    }}
-}}
-
-function updateNavButtons() {{
-    document.getElementById('prevBtn').disabled = currentSection === 0;
-    document.getElementById('nextBtn').disabled = currentSection === totalSections - 1;
-}}
-
-function updateIndicator() {{
-    document.getElementById('sectionIndicator').textContent = sectionTitles[currentSection];
-}}
-
-function scrollToSection(id) {{
-    const index = sectionIds.indexOf(id);
-    if (index !== -1) {{
-        showSection(index);
-        setTimeout(() => {{
-            const el = document.getElementById(id);
-            if (el) {{
-                el.classList.add('highlighted-section');
-                el.scrollIntoView({{ behavior: 'smooth', block: 'center' }});
-            }}
-        }}, 100);
-        return true;
-    }}
-    return false;
-}}
-
-function handleUrlParams() {{
-    const params = new URLSearchParams(window.location.search);
-    const chapter = params.get('chapter');
-    const volume = params.get('volume');
-    
-    // Try to match chapter/volume to section ID
-    if (chapter) {{
-        const targetId = 'chap-' + chapter.replace(/-/g, '-');
-        if (scrollToSection(targetId)) return;
-    }}
-    if (volume) {{
-        const targetId = 'vol-' + volume;
-        if (scrollToSection(targetId)) return;
-    }}
-    
-    // Default to main intro
-    showSection(0);
-}}
-
-document.addEventListener('DOMContentLoaded', () => {{
-    updateNavButtons();
-    updateIndicator();
-    handleUrlParams();
-    
-    // Listen for messages from parent frame (for radio button sync)
-    window.addEventListener('message', (event) => {{
-        if (event.data && event.data.type === 'navigateIntroduction') {{
-            if (event.data.chapter) {{
-                const targetId = 'chap-' + event.data.chapter.replace(/-/g, '-');
-                scrollToSection(targetId);
-            }} else if (event.data.volume) {{
-                const targetId = 'vol-' + event.data.volume;
-                scrollToSection(targetId);
-            }} else if (event.data.main) {{
-                showSection(0);
-            }}
-        }}
-    }});
-}});
-
-// Dark mode handling - sync with parent
-(function() {{
-    const isDark = localStorage.getItem('darkMode') !== 'false';
-    if (!isDark) document.body.classList.add('light-mode');
-    
-    window.addEventListener('message', function(e) {{
-        if (e.data && e.data.type === 'darkModeChange') {{
-            document.body.classList.toggle('light-mode', !e.data.enabled);
-            localStorage.setItem('darkMode', e.data.enabled);
-        }}
-    }});
-}})();
+let currentChapter = 0;
+const totalChapters = {total_sections};
+const chapterKeys = {section_ids};
+const chapterTitles = {section_titles};
 </script>
+<script src="../js/introduction.js"></script>
 """
     nav_html = """
 <div class="nav-controls">
-    <button class="nav-btn" id="prevBtn" onclick="prevSection()">Previous</button>
-    <button class="nav-btn" id="nextBtn" onclick="nextSection()">Next</button>
+    <button class="nav-btn" id="prevBtn" onclick="prevChapter()">Previous</button>
+    <button class="nav-btn" id="nextBtn" onclick="nextChapter()">Next</button>
 </div>
 <div class="chapter-indicator" id="sectionIndicator">Introduction</div>
 """

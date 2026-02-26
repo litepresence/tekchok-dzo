@@ -4,13 +4,13 @@ Contents Parser
 Parses contents.md and outputs a single combined HTML file optimized for PDF rendering.
 """
 
+import html
+import json
 import os
 import re
-import html
 import sys
-import json
-from pathlib import Path
 from datetime import datetime
+from pathlib import Path
 
 INPUT_FILE = Path("../contents/contents.md")
 OUTPUT_FILE = Path("html/contents.html")
@@ -171,31 +171,7 @@ def generate_html(data):
     html_parts = []
     
     html_parts.append('''
-    <script>
-    document.addEventListener('click', function(e) {
-        const row = e.target.closest('tr[data-line]');
-        if (row) {
-            const lineNum = row.dataset.line;
-            window.parent.postMessage({ type: 'navigateToLine', line: lineNum }, '*');
-        }
-    });
-    
-    // Dark mode handling - sync with parent
-    (function() {
-        const isDark = localStorage.getItem('darkMode') !== 'false';
-        console.log('Contents page loaded, isDark:', isDark);
-        if (!isDark) document.body.classList.add('light-mode');
-        
-        window.addEventListener('message', function(e) {
-            console.log('Contents received message:', e.data);
-            if (e.data && e.data.type === 'darkModeChange') {
-                console.log('Contents darkModeChange received, enabled:', e.data.enabled);
-                document.body.classList.toggle('light-mode', !e.data.enabled);
-                localStorage.setItem('darkMode', e.data.enabled);
-            }
-        });
-    })();
-    </script>
+    <script src="../js/contents.js"></script>
     ''')
     
     html_parts.append(f'''

@@ -5,116 +5,16 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Treasury Introductions</title>
     <meta name="generator" content="Introduction Parser">
-    <meta name="created" content="2026-02-25T23:54:27.565961">
+    <meta name="created" content="2026-02-26T10:08:23.895164">
     <link rel="stylesheet" href="../css/introduction.css">
     
 <script>
-let currentSection = 0;
-const totalSections = 28;
-const sectionIds = ['intro-main', 'vol-01', 'chap-01-01', 'chap-01-02', 'chap-01-03', 'chap-01-04', 'chap-01-05', 'chap-01-06', 'chap-01-07', 'chap-01-08', 'chap-01-09', 'chap-01-10', 'chap-01-11', 'chap-01-12', 'chap-01-13', 'chap-01-14', 'vol-02', 'chap-02-15', 'chap-02-16', 'chap-02-17', 'chap-02-18', 'chap-02-19', 'chap-02-20', 'chap-02-21', 'chap-02-22', 'chap-02-23', 'chap-02-24', 'chap-02-25'];
-const sectionTitles = ['General Introduction', 'Volume 1 Introduction', 'Chapter 1: The Perfect Teacher', 'Chapter 2: The Container and Contents', 'Chapter 3: Aggregates, Elements, and Sense Sources', 'Chapter 4: Vehicle Enumeration', 'Chapter 5: Empowerment and Samaya', 'Chapter 6: Samaya Discipline', 'Chapter 7: Samaya Restoration', 'Chapter 8: Ground, Path, and Fruit', 'Chapter 9: Delusion and Liberation', 'Chapter 10: Arising of Elements', 'Chapter 11: Body Formation', 'Chapter 12: Channels, Winds, and Bindu', 'Chapter 13: Luminosity', 'Chapter 14: Mind and Pristine Awareness', 'Volume 2 Introduction', 'Chapter 15: Elements Place', 'Chapter 16: Kaya and Wisdom', 'Chapter 17: Path and Signs', 'Chapter 18: Luminosity Path', 'Chapter 19: Cutting Through', 'Chapter 20: Leap-Over', 'Chapter 21: Introduction', 'Chapter 22: Signs of Liberation', 'Chapter 23: Intermediate State', 'Chapter 24: Emanation Field', 'Chapter 25: Fruition'];
-
-function showSection(index) {
-    const sections = document.querySelectorAll('.intro-section');
-    sections.forEach((sec, i) => {
-        sec.classList.toggle('active', i === index);
-    });
-    currentSection = index;
-    updateNavButtons();
-    updateIndicator();
-    window.scrollTo({ top: 0, behavior: 'instant' });
-}
-
-function nextSection() {
-    if (currentSection < totalSections - 1) {
-        showSection(currentSection + 1);
-    }
-}
-
-function prevSection() {
-    if (currentSection > 0) {
-        showSection(currentSection - 1);
-    }
-}
-
-function updateNavButtons() {
-    document.getElementById('prevBtn').disabled = currentSection === 0;
-    document.getElementById('nextBtn').disabled = currentSection === totalSections - 1;
-}
-
-function updateIndicator() {
-    document.getElementById('sectionIndicator').textContent = sectionTitles[currentSection];
-}
-
-function scrollToSection(id) {
-    const index = sectionIds.indexOf(id);
-    if (index !== -1) {
-        showSection(index);
-        setTimeout(() => {
-            const el = document.getElementById(id);
-            if (el) {
-                el.classList.add('highlighted-section');
-                el.scrollIntoView({ behavior: 'smooth', block: 'center' });
-            }
-        }, 100);
-        return true;
-    }
-    return false;
-}
-
-function handleUrlParams() {
-    const params = new URLSearchParams(window.location.search);
-    const chapter = params.get('chapter');
-    const volume = params.get('volume');
-    
-    // Try to match chapter/volume to section ID
-    if (chapter) {
-        const targetId = 'chap-' + chapter.replace(/-/g, '-');
-        if (scrollToSection(targetId)) return;
-    }
-    if (volume) {
-        const targetId = 'vol-' + volume;
-        if (scrollToSection(targetId)) return;
-    }
-    
-    // Default to main intro
-    showSection(0);
-}
-
-document.addEventListener('DOMContentLoaded', () => {
-    updateNavButtons();
-    updateIndicator();
-    handleUrlParams();
-    
-    // Listen for messages from parent frame (for radio button sync)
-    window.addEventListener('message', (event) => {
-        if (event.data && event.data.type === 'navigateIntroduction') {
-            if (event.data.chapter) {
-                const targetId = 'chap-' + event.data.chapter.replace(/-/g, '-');
-                scrollToSection(targetId);
-            } else if (event.data.volume) {
-                const targetId = 'vol-' + event.data.volume;
-                scrollToSection(targetId);
-            } else if (event.data.main) {
-                showSection(0);
-            }
-        }
-    });
-});
-
-// Dark mode handling - sync with parent
-(function() {
-    const isDark = localStorage.getItem('darkMode') !== 'false';
-    if (!isDark) document.body.classList.add('light-mode');
-    
-    window.addEventListener('message', function(e) {
-        if (e.data && e.data.type === 'darkModeChange') {
-            document.body.classList.toggle('light-mode', !e.data.enabled);
-            localStorage.setItem('darkMode', e.data.enabled);
-        }
-    });
-})();
+let currentChapter = 0;
+const totalChapters = 28;
+const chapterKeys = ['intro-main', 'vol-01', 'chap-01-01', 'chap-01-02', 'chap-01-03', 'chap-01-04', 'chap-01-05', 'chap-01-06', 'chap-01-07', 'chap-01-08', 'chap-01-09', 'chap-01-10', 'chap-01-11', 'chap-01-12', 'chap-01-13', 'chap-01-14', 'vol-02', 'chap-02-15', 'chap-02-16', 'chap-02-17', 'chap-02-18', 'chap-02-19', 'chap-02-20', 'chap-02-21', 'chap-02-22', 'chap-02-23', 'chap-02-24', 'chap-02-25'];
+const chapterTitles = ['General Introduction', 'Volume 1 Introduction', 'Chapter 1: The Perfect Teacher', 'Chapter 2: The Container and Contents', 'Chapter 3: Aggregates, Elements, and Sense Sources', 'Chapter 4: Vehicle Enumeration', 'Chapter 5: Empowerment and Samaya', 'Chapter 6: Samaya Discipline', 'Chapter 7: Samaya Restoration', 'Chapter 8: Ground, Path, and Fruit', 'Chapter 9: Delusion and Liberation', 'Chapter 10: Arising of Elements', 'Chapter 11: Body Formation', 'Chapter 12: Channels, Winds, and Bindu', 'Chapter 13: Luminosity', 'Chapter 14: Mind and Pristine Awareness', 'Volume 2 Introduction', 'Chapter 15: Elements Place', 'Chapter 16: Kaya and Wisdom', 'Chapter 17: Path and Signs', 'Chapter 18: Luminosity Path', 'Chapter 19: Cutting Through', 'Chapter 20: Leap-Over', 'Chapter 21: Introduction', 'Chapter 22: Signs of Liberation', 'Chapter 23: Intermediate State', 'Chapter 24: Emanation Field', 'Chapter 25: Fruition'];
 </script>
+<script src="../js/introduction.js"></script>
 
 </head>
 <body>
@@ -752,8 +652,8 @@ Not attainment through effort, but the natural, self-liberated state that has be
     </div>
     
 <div class="nav-controls">
-    <button class="nav-btn" id="prevBtn" onclick="prevSection()">Previous</button>
-    <button class="nav-btn" id="nextBtn" onclick="nextSection()">Next</button>
+    <button class="nav-btn" id="prevBtn" onclick="prevChapter()">Previous</button>
+    <button class="nav-btn" id="nextBtn" onclick="nextChapter()">Next</button>
 </div>
 <div class="chapter-indicator" id="sectionIndicator">Introduction</div>
 
