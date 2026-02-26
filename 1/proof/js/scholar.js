@@ -1,4 +1,42 @@
-// Navigation and chapter management
+// Scholar Layer - Navigation with line range matching
+// Volume 1: lines 1-20426
+// Volume 2: lines 20427-37756
+
+const VOLUME_BOUNDARY = 20426;
+
+function getVolumeFromLine(absLine) {
+    if (!absLine || absLine <= 0) return 1;
+    return absLine <= VOLUME_BOUNDARY ? 1 : 2;
+}
+
+function parseRangeFromElement(el) {
+    const rangeStart = el.dataset.rangeStart;
+    const rangeEnd = el.dataset.rangeEnd;
+    if (rangeStart !== undefined) {
+        return { start: parseInt(rangeStart), end: parseInt(rangeEnd) };
+    }
+    
+    const rangeEl = el.querySelector('.line-range');
+    if (rangeEl) {
+        const match = rangeEl.textContent.match(/\[(\d+)-(\d+)\]/);
+        if (match) {
+            return { start: parseInt(match[1]), end: parseInt(match[2]) };
+        }
+    }
+    return null;
+}
+
+function buildRangeDataAttributes() {
+    const entries = document.querySelectorAll('.entry-block');
+    entries.forEach(el => {
+        const range = parseRangeFromElement(el);
+        if (range) {
+            el.dataset.rangeStart = range.start;
+            el.dataset.rangeEnd = range.end;
+        }
+    });
+}
+
 function showChapter(index) {
     const chapters = document.querySelectorAll('.chapter');
     chapters.forEach((ch, i) => {
@@ -23,20 +61,26 @@ function prevChapter() {
 }
 
 function updateNavButtons() {
-    document.getElementById('prevBtn').disabled = currentChapter === 0;
-    document.getElementById('nextBtn').disabled = currentChapter === totalChapters - 1;
+    const prevBtn = document.getElementById('prevBtn');
+    const nextBtn = document.getElementById('nextBtn');
+    if (prevBtn) prevBtn.disabled = currentChapter === 0;
+    if (nextBtn) nextBtn.disabled = currentChapter === totalChapters - 1;
 }
 
 function updateIndicator() {
+    const indicator = document.getElementById('chapterIndicator');
+    if (!indicator) return;
+    
     const key = chapterKeys[currentChapter];
     const parts = key.split('-');
     const volume = parts[0];
     const chapter = parts[1];
-    document.getElementById('chapterIndicator').textContent = 
-        `Volume ${volume}, Chapter ${chapter}`;
+    indicator.textContent = `Volume ${parseInt(volume)}, Chapter ${parseInt(chapter)}`;
 }
 
 function goToLine(lineNum, volume) {
+    if (!lineNum) return false;
+    
     volume = volume || 1;
     const volPrefix = volume === 1 ? '01-' : '02-';
     
@@ -45,18 +89,30 @@ function goToLine(lineNum, volume) {
     if (!lineEl) {
         const volChapters = document.querySelectorAll(`.chapter[data-chapter-key^="${volPrefix}"]`);
         let bestMatch = null;
-        let bestDiff = Infinity;
+        let bestScore = -Infinity;
         
         volChapters.forEach(ch => {
-            const lines = ch.querySelectorAll('[id^="line-"]');
-            for (const el of lines) {
-                const elLine = parseInt(el.id.replace('line-', ''));
-                const diff = Math.abs(elLine - lineNum);
-                if (diff < bestDiff) {
-                    bestDiff = diff;
-                    bestMatch = el;
+            const entries = ch.querySelectorAll('.entry-block');
+            entries.forEach(el => {
+                const range = parseRangeFromElement(el);
+                if (range) {
+                    let score = -Infinity;
+                    if (lineNum >= range.start && lineNum <= range.end) {
+                        score = 1000 - (range.end - range.start);
+                    } else {
+                        const dist = Math.min(
+                            Math.abs(lineNum - range.start),
+                            Math.abs(lineNum - range.end)
+                        );
+                        score = -dist;
+                    }
+                    
+                    if (score > bestScore) {
+                        bestScore = score;
+                        bestMatch = el;
+                    }
                 }
-            }
+            });
         });
         lineEl = bestMatch;
     }
@@ -97,46 +153,58 @@ function handleHashNavigation() {
     }
 }
 
-let lastReportedLine = null;
-function reportCurrentLine() {
-    const lines = document.querySelectorAll('[id^="line-"]');
-    if (!lines.length) return;
+let lastReportedRange = null;
+let lastReportedVolume = null;
+
+function reportCurrentRange() {
+    const entries = document.querySelectorAll('.entry-block');
+    if (!entries.length) return;
     
     const viewportMiddle = window.innerHeight / 2;
     
     let closest = null;
     let closestDist = Infinity;
     
-    for (const line of lines) {
-        const rect = line.getBoundingClientRect();
-        const lineMiddle = (rect.top + rect.bottom) / 2;
-        const dist = Math.abs(lineMiddle - viewportMiddle);
+    for (const entry of entries) {
+        const rect = entry.getBoundingClientRect();
+        const entryMiddle = (rect.top + rect.bottom) / 2;
+        const dist = Math.abs(entryMiddle - viewportMiddle);
         if (dist < closestDist) {
             closestDist = dist;
-            closest = line;
+            closest = entry;
         }
     }
     
     if (closest) {
-        const lineNum = closest.id.replace('line-', '');
-        if (lineNum !== lastReportedLine) {
-            lastReportedLine = lineNum;
-            // Get chapter key for volume detection
+        const range = parseRangeFromElement(closest);
+        if (range) {
+            const rangeKey = `${range.start}-${range.end}`;
             const chapter = closest.closest('[data-chapter-key]');
             const chapterKey = chapter ? chapter.dataset.chapterKey : '01-01';
             const volume = chapterKey.startsWith('02-') ? 2 : 1;
-            window.parent.postMessage({ type: 'linePosition', line: lineNum, volume: volume }, '*');
+            
+            if (rangeKey !== lastReportedRange || volume !== lastReportedVolume) {
+                lastReportedRange = rangeKey;
+                lastReportedVolume = volume;
+                window.parent.postMessage({ 
+                    type: 'rangePosition', 
+                    rangeStart: range.start,
+                    rangeEnd: range.end,
+                    volume: volume 
+                }, '*');
+            }
         }
     }
 }
 
 document.addEventListener('DOMContentLoaded', () => {
+    buildRangeDataAttributes();
     updateNavButtons();
     updateIndicator();
     handleHashNavigation();
     
-    window.addEventListener('scroll', reportCurrentLine);
-    setTimeout(reportCurrentLine, 500);
+    window.addEventListener('scroll', reportCurrentRange);
+    setTimeout(reportCurrentRange, 500);
 });
 
 window.addEventListener('hashchange', handleHashNavigation);

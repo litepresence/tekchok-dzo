@@ -1,4 +1,14 @@
-// Section navigation for introduction pages
+// Introduction Layer - Chapter navigation with line-based position reporting
+// Volume 1: lines 1-20426
+// Volume 2: lines 20427-37756
+
+const VOLUME_BOUNDARY = 20426;
+
+function getVolumeFromLine(absLine) {
+    if (!absLine || absLine <= 0) return 1;
+    return absLine <= VOLUME_BOUNDARY ? 1 : 2;
+}
+
 function showChapter(index) {
     const sections = document.querySelectorAll('.intro-section');
     sections.forEach((sec, i) => {
@@ -23,12 +33,17 @@ function prevChapter() {
 }
 
 function updateNavButtons() {
-    document.getElementById('prevBtn').disabled = currentChapter === 0;
-    document.getElementById('nextBtn').disabled = currentChapter === totalChapters - 1;
+    const prevBtn = document.getElementById('prevBtn');
+    const nextBtn = document.getElementById('nextBtn');
+    if (prevBtn) prevBtn.disabled = currentChapter === 0;
+    if (nextBtn) nextBtn.disabled = currentChapter === totalChapters - 1;
 }
 
 function updateIndicator() {
-    document.getElementById('sectionIndicator').textContent = chapterTitles[currentChapter];
+    const indicator = document.getElementById('sectionIndicator');
+    if (indicator && chapterTitles[currentChapter]) {
+        indicator.textContent = chapterTitles[currentChapter];
+    }
 }
 
 function goToLine(id) {
@@ -52,7 +67,6 @@ function handleHashNavigation() {
     const chapter = params.get('chapter');
     const volume = params.get('volume');
     
-    // Try to match chapter/volume to section ID
     if (chapter) {
         const targetId = 'chap-' + chapter.replace(/-/g, '-');
         if (goToLine(targetId)) return;
@@ -62,8 +76,56 @@ function handleHashNavigation() {
         if (goToLine(targetId)) return;
     }
     
-    // Default to main intro
     showChapter(0);
+}
+
+let lastReportedChapter = null;
+let lastReportedVolume = null;
+
+function reportCurrentPosition() {
+    const activeSection = document.querySelector('.intro-section.active');
+    if (!activeSection) return;
+    
+    const sectionId = activeSection.id;
+    let lineNum = null;
+    let volume = 1;
+    
+    if (sectionId.startsWith('chap-')) {
+        const parts = sectionId.replace('chap-', '').split('-');
+        if (parts.length >= 2) {
+            const vol = parseInt(parts[0]);
+            const ch = parseInt(parts[1]);
+            
+            const chapterMap = {
+                '1': 1, '2': 635, '3': 1582, '4': 1902, '5': 4172,
+                '6': 6801, '7': 9704, '8': 10472, '9': 11335, '10': 12500,
+                '11': 13104, '12': 13831, '13': 16025, '14': 17361,
+                '15': 20427, '16': 20900, '17': 22654, '18': 24822,
+                '19': 26863, '20': 27946, '21': 28946, '22': 29856,
+                '23': 31566, '24': 34830, '25': 35191
+            };
+            
+            lineNum = chapterMap[ch] || 1;
+            volume = vol;
+        }
+    } else if (sectionId.startsWith('vol-')) {
+        const vol = sectionId.replace('vol-', '');
+        volume = parseInt(vol);
+        lineNum = volume === 1 ? 1 : 20427;
+    } else if (sectionId === 'intro-main') {
+        lineNum = 1;
+        volume = 1;
+    }
+    
+    if (lineNum !== null && (sectionId !== lastReportedChapter || volume !== lastReportedVolume)) {
+        lastReportedChapter = sectionId;
+        lastReportedVolume = volume;
+        window.parent.postMessage({ 
+            type: 'chapterPosition', 
+            line: lineNum, 
+            volume: volume 
+        }, '*');
+    }
 }
 
 document.addEventListener('DOMContentLoaded', () => {
@@ -71,16 +133,18 @@ document.addEventListener('DOMContentLoaded', () => {
     updateIndicator();
     handleHashNavigation();
     
-    // Listen for messages from parent frame (for radio button sync)
-    window.addEventListener('message', (event) => {
-        if (event.data && event.data.type === 'navigateIntroduction') {
-            if (event.data.chapter) {
-                const targetId = 'chap-' + event.data.chapter.replace(/-/g, '-');
+    window.addEventListener('scroll', reportCurrentPosition);
+    setTimeout(reportCurrentPosition, 500);
+    
+    window.addEventListener('message', function(e) {
+        if (e.data && e.data.type === 'navigateIntroduction') {
+            if (e.data.chapter) {
+                const targetId = 'chap-' + e.data.chapter.replace(/-/g, '-');
                 goToLine(targetId);
-            } else if (event.data.volume) {
-                const targetId = 'vol-' + event.data.volume;
+            } else if (e.data.volume) {
+                const targetId = 'vol-' + e.data.volume;
                 goToLine(targetId);
-            } else if (event.data.main) {
+            } else if (e.data.main) {
                 showChapter(0);
             }
         }

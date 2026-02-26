@@ -1,4 +1,14 @@
-// Navigation and chapter management
+// Literal Layer - Navigation with absolute line numbers
+// Volume 1: lines 1-20426
+// Volume 2: lines 20427-37756
+
+const VOLUME_BOUNDARY = 20426;
+
+function getVolumeFromLine(absLine) {
+    if (!absLine || absLine <= 0) return 1;
+    return absLine <= VOLUME_BOUNDARY ? 1 : 2;
+}
+
 function showChapter(index) {
     const chapters = document.querySelectorAll('.chapter');
     chapters.forEach((ch, i) => {
@@ -23,20 +33,26 @@ function prevChapter() {
 }
 
 function updateNavButtons() {
-    document.getElementById('prevBtn').disabled = currentChapter === 0;
-    document.getElementById('nextBtn').disabled = currentChapter === totalChapters - 1;
+    const prevBtn = document.getElementById('prevBtn');
+    const nextBtn = document.getElementById('nextBtn');
+    if (prevBtn) prevBtn.disabled = currentChapter === 0;
+    if (nextBtn) nextBtn.disabled = currentChapter === totalChapters - 1;
 }
 
 function updateIndicator() {
+    const indicator = document.getElementById('chapterIndicator');
+    if (!indicator) return;
+    
     const key = chapterKeys[currentChapter];
     const parts = key.split('-');
     const volume = parts[0];
     const chapter = parts[1];
-    document.getElementById('chapterIndicator').textContent = 
-        `Volume ${volume}, Chapter ${chapter}`;
+    indicator.textContent = `Volume ${parseInt(volume)}, Chapter ${parseInt(chapter)}`;
 }
 
 function goToLine(lineNum, volume) {
+    if (!lineNum) return false;
+    
     volume = volume || 1;
     const volPrefix = volume === 1 ? '01-' : '02-';
     
@@ -97,15 +113,15 @@ function handleHashNavigation() {
     }
 }
 
-// Report visible line to parent on scroll
 let lastReportedLine = null;
+let lastReportedVolume = null;
+
 function reportCurrentLine() {
     const lines = document.querySelectorAll('[id^="line-"]');
     if (!lines.length) return;
     
     const viewportMiddle = window.innerHeight / 2;
     
-    // Find the line closest to the middle of the viewport
     let closest = null;
     let closestDist = Infinity;
     
@@ -121,12 +137,16 @@ function reportCurrentLine() {
     
     if (closest) {
         const lineNum = closest.id.replace('line-', '');
-        if (lineNum !== lastReportedLine) {
+        const volume = getVolumeFromLine(parseInt(lineNum));
+        
+        if (lineNum !== lastReportedLine || volume !== lastReportedVolume) {
             lastReportedLine = lineNum;
-            const chapter = closest.closest('[data-chapter-key]');
-            const chapterKey = chapter ? chapter.dataset.chapterKey : '01-01';
-            const volume = chapterKey.startsWith('02-') ? 2 : 1;
-            window.parent.postMessage({ type: 'linePosition', line: lineNum, volume: volume }, '*');
+            lastReportedVolume = volume;
+            window.parent.postMessage({ 
+                type: 'linePosition', 
+                line: lineNum, 
+                volume: volume 
+            }, '*');
         }
     }
 }
@@ -136,9 +156,7 @@ document.addEventListener('DOMContentLoaded', () => {
     updateIndicator();
     handleHashNavigation();
     
-    // Report line position on scroll
     window.addEventListener('scroll', reportCurrentLine);
-    // Initial report
     setTimeout(reportCurrentLine, 500);
 });
 

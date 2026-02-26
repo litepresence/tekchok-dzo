@@ -125,11 +125,12 @@ def generate_file_html(parsed_lines, filename):
         if not entry["line_range"]:
             continue
 
-        # Get first line number from range for ID
+        # Get first and last line numbers from range for ID and data attributes
         range_parts = entry["line_range"].split('-')
         first_line = range_parts[0] if range_parts else "1"
+        last_line = range_parts[1] if len(range_parts) > 1 else first_line
 
-        html_parts.append(f'<div class="entry-block" id="line-{first_line}" data-line="{first_line}">')
+        html_parts.append(f'<div class="entry-block" id="line-{first_line}" data-line="{first_line}" data-range-start="{first_line}" data-range-end="{last_line}">')
 
         # Line range
         html_parts.append(f'  <div class="line-range">[{entry["line_range"]}]</div>')

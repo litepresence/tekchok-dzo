@@ -214,6 +214,7 @@ def generate_file_html(parsed_lines, filename):
 
         range_parts = entry["line_range"].split('-')
         first_line = range_parts[0] if range_parts else "1"
+        last_line = range_parts[1] if len(range_parts) > 1 else first_line
         
         if first_line not in line_counter:
             line_counter[first_line] = 0
@@ -221,7 +222,7 @@ def generate_file_html(parsed_lines, filename):
         unique_id = f"{first_line}-{line_counter[first_line]}"
 
         tag_class = f"tag-{entry['tag']}" if entry['tag'] else ""
-        html_parts.append(f'<div class="entry-block {tag_class}" id="line-{unique_id}" data-line="{first_line}">')
+        html_parts.append(f'<div class="entry-block {tag_class}" id="line-{unique_id}" data-line="{first_line}" data-range-start="{first_line}" data-range-end="{last_line}">')
 
         html_parts.append(f'  <div class="line-range">[{entry["line_range"]}]</div>')
 

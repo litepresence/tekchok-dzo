@@ -1,9 +1,22 @@
 // Contents page navigation and dark mode handling
+
+const VOLUME_BOUNDARY = 20426;
+
+function getVolumeFromLine(absLine) {
+    if (!absLine || absLine <= 0) return 1;
+    return absLine <= VOLUME_BOUNDARY ? 1 : 2;
+}
+
 document.addEventListener('click', function(e) {
     const row = e.target.closest('tr[data-line]');
     if (row) {
         const lineNum = row.dataset.line;
-        window.parent.postMessage({ type: 'navigateToLine', line: lineNum }, '*');
+        const volume = getVolumeFromLine(parseInt(lineNum));
+        window.parent.postMessage({ 
+            type: 'navigateToLine', 
+            line: lineNum,
+            volume: volume 
+        }, '*');
     }
 });
 
