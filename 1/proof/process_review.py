@@ -16,9 +16,9 @@ from datetime import datetime
 # CONFIGURATION
 # -----------------------------------------------------------------------------
 
-TIBETAN_DIR = Path("../text/frozen/tibetan")
-LITERAL_DIR = Path("../text/frozen/literal")
-LITURGICAL_DIR = Path("../text/frozen/liturgical")
+TIBETAN_DIR = Path("../text/layer/tibetan")
+LITERAL_DIR = Path("../text/layer/literal")
+LITURGICAL_DIR = Path("../text/layer/liturgical")
 OUTPUT_DIR = Path("review")
 CONTENTS_FILE = Path("../contents/contents.md")
 

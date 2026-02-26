@@ -21,7 +21,7 @@ from datetime import datetime
 # CONFIGURATION
 # -----------------------------------------------------------------------------
 
-INPUT_DIR = Path("../text/frozen/liturgical")
+INPUT_DIR = Path("../text/layer/liturgical")
 OUTPUT_FILE = Path("html/liturgical_proof.html")
 FILE_PATTERN = re.compile(r"^\d\d-\d\d-\d\d-\d\d\.txt$")
 
@@ -553,10 +553,13 @@ window.addEventListener('hashchange', handleHashNavigation);
 // Dark mode handling - sync with parent
 (function() {{
     const isDark = localStorage.getItem('darkMode') !== 'false';
+    console.log('Liturgical page loaded, isDark:', isDark);
     if (!isDark) document.body.classList.add('light-mode');
     
     window.addEventListener('message', function(e) {{
+        console.log('Received message:', e.data);
         if (e.data && e.data.type === 'darkModeChange') {{
+            console.log('darkModeChange received, enabled:', e.data.enabled);
             document.body.classList.toggle('light-mode', !e.data.enabled);
             localStorage.setItem('darkMode', e.data.enabled);
         }}

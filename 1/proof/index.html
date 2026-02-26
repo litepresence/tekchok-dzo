@@ -1382,11 +1382,14 @@
         // Notify same-origin iframes
         document.querySelectorAll('.layer-frame').forEach(iframe => {
             try {
+                console.log('Sending darkModeChange to:', iframe.dataset.src, 'enabled:', document.body.classList.contains('dark-mode'));
                 iframe.contentWindow.postMessage({
                     type: 'darkModeChange',
                     enabled: document.body.classList.contains('dark-mode')
                 }, '*');
-            } catch (e) {}
+            } catch (e) {
+                console.log('Error sending to iframe:', iframe.dataset.src, e);
+            }
         });
     }
 

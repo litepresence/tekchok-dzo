@@ -5,8 +5,9 @@ Parses convention markdown files and outputs a static HTML page.
 """
 
 import os
-from pathlib import Path
 from datetime import datetime
+from pathlib import Path
+
 import markdown
 
 INPUT_DIR = Path("../text/preface/conventions")
@@ -288,6 +289,15 @@ def process_conventions():
             // Hide TOC since we're showing only one layer
             const toc = document.querySelector('.toc');
             if (toc) toc.style.display = 'none';
+
+            // Listen for dropdown changes from parent and reload with new layer
+            window.addEventListener('message', function(e) {{
+                if (e.data && e.data.type === 'layerChange') {{
+                    let newLayer = e.data.layer;
+                    if (newLayer === 'introduction') newLayer = 'liturgical';
+                    window.location.href = '?layer=' + newLayer;
+                }}
+            }});
         }});
     </script>
 </head>

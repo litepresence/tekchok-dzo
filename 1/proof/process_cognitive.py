@@ -18,7 +18,7 @@ from datetime import datetime
 # CONFIGURATION
 # -----------------------------------------------------------------------------
 
-INPUT_DIR = Path("../text/dynamic/cognitive")
+INPUT_DIR = Path("../text/layer/cognitive")
 OUTPUT_FILE = Path("html/cognitive_proof.html")
 FILE_PATTERN = re.compile(r"^\d\d-\d\d-\d\d-\d\d\.txt$")
 

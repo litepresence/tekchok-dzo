@@ -108,7 +108,7 @@ The draft in need of review is:
 [13840]
 <tibetan>།གཡས་དང་གཡོན་དང་དབུས་མའོ།
 <literal>/right and left and middle is/
-<liturgical><tantra>Right, left, and central. || 10 ||
+<liturgical><tantra>Right, left, and central. || 13840 ||
 
 [13841]
 <tibetan>།ཞེས་པས།
@@ -158,7 +158,7 @@ The draft in need of review is:
 [13850]
 <tibetan>དེ་ཡང་རྒྱུ་འདོད་ཆགས་ལས་བྱུང་བས་མ་ཞེས་བྱ་སྟེ།
 <literal>that also cause desire-attachment-from arise-by-means-of ma called/
-<liturgical><prose>Since it arises from desire, it is called "ma" (mother)— || 20 ||
+<liturgical><prose>Since it arises from desire, it is called "ma" (mother)— || 13850 ||
 
 [13851]
 <tibetan>འདོད་ཆགས་ཅན་དེ་ལ་བརྟེན་ནས་སངས་རྒྱས་པར་བྱེད་པའོ།
@@ -207,8 +207,8 @@ The draft in need of review is:
 
 [13860]
 <tibetan>།ཀུན་གྱི་གཞི་ཡིན་པས་མོ་ཞེས་བྱའོ།
-<literal>/all's basis is-by-means-of mo called is/
-<liturgical><prose>Being the foundation of all, it is called "mo" (female). || 30 ||
+<literal>/all's ground is-by-means-of mo called is/
+<liturgical><prose>Being the foundation of all, it is called "mo" (female). || 13860 ||
 
 [13861]
 <tibetan>།འདི་ལ་བརྟེན་ནས་འབད་རྩོལ་མེད་པར་སངས་རྒྱའོ།
@@ -258,7 +258,7 @@ The draft in need of review is:
 [13870]
 <tibetan>རྐྱང་མ་ནི།
 <literal>Kyangma is/
-<liturgical><prose>Kyangma: || 40 ||
+<liturgical><prose>Kyangma: || 13870 ||
 
 [13871]
 <tibetan>སྙིང་གི་རྩེ་མོའི་གཡོན་ནས་འཐོན་ཏེ།
@@ -308,7 +308,7 @@ The draft in need of review is:
 [13880]
 <tibetan>།རྩེ་མོ་གཡས་པ་རྣ་བ་གཡས་པ་ལ་སྣང་བས།
 <literal>/tip right ear right-to appearance by-means-of/
-<liturgical><prose>The right tip enters the right ear, || 50 ||
+<liturgical><prose>The right tip enters the right ear, || 13880 ||
 
 [13881]
 <tibetan>ལས་ཀྱི་རླུང་འགྱུ་སྟེ།
@@ -358,7 +358,7 @@ The draft in need of review is:
 [13890]
 <tibetan>།དེ་ལ་མདུད་པ་ཕྲ་མོ་བཞི་ཡོད་དེ།
 <literal>/that-to knot subtle four exist /
-<liturgical><prose>There are four subtle knots in it: || 60 ||
+<liturgical><prose>There are four subtle knots in it: || 13890 ||
 
 [13891]
 <tibetan>ལྟེ་བ་དང༌།
@@ -408,7 +408,7 @@ The draft in need of review is:
 [13900]
 <tibetan>དྲན་པས་སྣ་ཚོགས་པར་འགྱུ་བའི་རྟེན་དུ་གནས་པས་དྲན་པ་ཞེས་བྱའོ།
 <literal>memory-by-means-of various-to become's support-to abide from memory called/
-<liturgical><prose>Serves as the support for memory's manifold activity, hence "memory." || 70 ||
+<liturgical><prose>Serves as the support for memory's manifold activity, hence "memory." || 13900 ||
 
 [13901]
 <tibetan>།རོ་རྣམས་ན་རླུང་གི་ཐིག་ལེ་ཡུངས་འབྲུའི་བཅུ་ཆ་ཙམ་དུ་གནས་ཏེ།
@@ -458,7 +458,7 @@ The draft in need of review is:
 [13910]
 <tibetan>ཁྲག་ལས་ཤ།
 <literal>blood-from flesh/
-<liturgical><tantra>From blood comes flesh, || 80 ||
+<liturgical><tantra>From blood comes flesh, || 13910 ||
 
 [13911]
 <tibetan>ཤ་ལས་ཆུ་བ།
@@ -508,7 +508,7 @@ The draft in need of review is:
 [13920]
 <tibetan>།དྲན་པ་ན།
 <literal>/mindfulness-in/
-<liturgical><prose>At memory: || 90 ||
+<liturgical><prose>At memory: || 13920 ||
 
 [13921]
 <tibetan>ཤེས་རབ་རང་བྱུང་གི་སྒྲོན་མའི་རྟེན་མེའི་ཐིག་ལེ་རབ་ཏུ་འཕྲོ་བར་གནས་སོ།
@@ -558,7 +558,7 @@ The draft in need of review is:
 [13930]
 <tibetan>མ་དག་པས་འབྱུང་བ་བཞིར་འགྱུར་རོ།
 <literal>not pure-by-means-of element four-to become is/
-<liturgical><prose>When impure, they become the four elements. || 100 ||
+<liturgical><prose>When impure, they become the four elements. || 13930 ||
 
 [13931]
 <tibetan>།དབུས་མ་ཀུན་འདར་མ་ནི།
@@ -577,7 +577,7 @@ The draft in need of review is:
 
 [13934]
 <tibetan>འཁོར་འདས་ཀྱི་གཞིར་གྱུར་པས་མ་ཞེས་བྱ་ལ།
-<literal>samsara-nirvana's basis-as become-by-means-of ma called/
+<literal>samsara-nirvana's ground-as become-by-means-of ma called/
 <liturgical><prose>Being the ground of saṃsāra and nirvāṇa, it is called "ma."
 
 [13935]
@@ -608,7 +608,7 @@ The draft in need of review is:
 [13940]
 <tibetan>ཡེ་ཤེས་ཀྱི་རྟེན་གཞལ་ཡས་ཁང་སྒོ་བཞི།
 <literal>wisdom's support mansion door four/
-<liturgical><prose>The support of wisdom, the celestial palace with four gates, || 110 ||
+<liturgical><prose>The support of wisdom, the celestial palace with four gates, || 13940 ||
 
 [13941]
 <tibetan>རྟ་བབས་བཞི་དང༌།
@@ -658,7 +658,7 @@ The draft in need of review is:
 [13950]
 <tibetan>།གཉིས་པ་རྣམ་གྲངས་བྱེ་བྲག་ཏུ་བཤད་པ་ལ་གཉིས་ཏེ།
 <literal>/second enumeration particular-from explain-to two are/
-<liturgical><ornament>The second: Detailed explanation of classifications has two parts: || 120 ||
+<liturgical><ornament>The second: Detailed explanation of classifications has two parts: || 13950 ||
 
 [13951]
 <tibetan>རྩའི་གཙོ་མོ་གསུམ་གྱི་རང་བཞིན་སྤྱིར་བསྟན་པ་དང༌།
@@ -708,7 +708,7 @@ The draft in need of review is:
 [13960]
 <tibetan>།ཉོན་མོངས་ལས་དང་ཡེ་ཤེས་ལས།
 <literal>/affliction action and wisdom action/
-<liturgical><tantra>Afflictive activity and wisdom activity, || 130 ||
+<liturgical><tantra>Afflictive activity and wisdom activity, || 13960 ||
 
 [13961]
 <tibetan>།ལས་ལ་བརྟེན་ནས་མངོན་སྣང་བ།
@@ -758,7 +758,7 @@ The draft in need of review is:
 [13970]
 <tibetan>།ཞེས་གསུངས་པས།
 <literal>/said-by-means-of/
-<liturgical><tantra>Thus it was taught. || 140 ||
+<liturgical><tantra>Thus it was taught. || 13970 ||
 
 [13971]
 <tibetan>འདིའི་དོན་བསྟན་པ་ལ་བརྒྱད་དེ།
@@ -808,7 +808,7 @@ The draft in need of review is:
 [13980]
 <tibetan>།དང་པོ་ནི།
 <literal>/first is/
-<liturgical><break><ornament> The first: || 150 ||
+<liturgical><break><ornament> The first: || 13980 ||
 
 [13981]
 <tibetan>སྤྱིར་ལུས་གཅིག་མ་གྲུབ་ན་མ་གྲུབ།
@@ -858,7 +858,7 @@ The draft in need of review is:
 [13990]
 <tibetan>སུམ་ཅུ་རྩ་གཉིས་ཏེ་བརྒྱ་དང་བཅུ་གཉིས།
 <literal>thirty-two as hundred and twelve/
-<liturgical><prose>Thirty-two, making one hundred twelve. || 160 ||
+<liturgical><prose>Thirty-two, making one hundred twelve. || 13990 ||
 
 [13991]
 <tibetan>རྩེ་མོ་ན།
@@ -892,7 +892,7 @@ The draft in need of review is:
 
 [13997]
 <tibetan>གསང་བར་སྐུ་གསུམ་གྱི་འཆར་གཞི་བྱེད་པའོ།
-<literal>secret body three's arise-basis cause-do is/
+<literal>secret body three's arise-ground cause-do is/
 <liturgical><prose>Secretly serving as the ground for the arising of the three kayas.
 
 [13998]
@@ -908,7 +908,7 @@ The draft in need of review is:
 [14000]
 <tibetan>རྐྱང་མ།
 <literal>Kyangma/
-<liturgical><prose>Kyangma, || 170 ||
+<liturgical><prose>Kyangma, || 14000 ||
 
 [14001]
 <tibetan>ཀུན་འདར་མ་སྟེ།
@@ -922,17 +922,17 @@ The draft in need of review is:
 
 [14003]
 <tibetan>དེ་ཉིད་དག་པས་་སྐུ་གསུང་ཐུགས་གསུམ་དུ་སྨིན་པའི་གཞི་བྱེད།
-<literal>that purity by body speech mind three in ripen basis do
+<literal>that purity by body speech mind three in ripen ground do
 <liturgical><break><prose> When pure, serving as the ground for ripening into the three kayas of body, speech, and mind.
 
 [14004]
 <tibetan>མ་དག་པས་ལུས་ངག་ཡིད་གསུམ་སྨིན་པའི་གཞི་བྱེད།
-<literal>impurity by body speech mind three ripen basis do
+<literal>impurity by body speech mind three ripen ground do
 <liturgical><prose>When impure, serving as the ground for ripening into body, speech, and mind.
 
 [14005]
 <tibetan>མ་དག་པས་ལུས་ངག་ཡིད་གསུམ་དུ་སྨིན་པའི་གཞི་བྱེད།
-<literal>impurity by body speech mind three in ripen basis do
+<literal>impurity by body speech mind three in ripen ground do
 <liturgical><prose>When impure, serving as the ground for ripening into body, speech, and mind.
 
 [14006]
@@ -958,7 +958,7 @@ The draft in need of review is:
 [14010]
 <tibetan>།འདི་ཉིད་སྐྱེས་པའི་གཡས་ལ་བུད་མེད་ཀྱི་གཡོན་ན་ཡོད་དོ།
 <literal>/this man right woman left in exist/
-<liturgical><prose>This resides in the male's right, the female's left. || 180 ||
+<liturgical><prose>This resides in the male's right, the female's left. || 14010 ||
 
 [14011]
 <tibetan>།རྒྱུད་འགའ་ཞིག་ལས་གོ་ཟློག་པའང་སྣང་སྟེ་དགོངས་པ་གཞན་དུ་ཟད་དོ།
@@ -1007,8 +1007,8 @@ The draft in need of review is:
 
 [14020]
 <tibetan>།རྩ་གསུམ་པོ་དེ་རྩ་ཐམས་ཅད་ཀྱི་གཞི་མ་ཡིན་པས་ན་མ་ཞེས་བཏགས་སོ།
-<literal>/channel three those channel all basis not-being by ma called/
-<liturgical><prose>Since these three channels are the mother-ground of all channels, they are called "ma." || 190 ||
+<literal>/channel three those channel all-ground not-being by ma called/
+<liturgical><prose>Since these three channels are the mother-ground of all channels, they are called "ma." || 14020 ||
 
 [14021]
 <tibetan>།རོ་མ་སྐྱེས་པའི་གཡས་སུ་འོང་བ་ནི།
@@ -1058,7 +1058,7 @@ The draft in need of review is:
 [14030]
 <tibetan>།དེ་ཡང་ཁ་དོག་སྨུག་ཅིང་བོངས་ཐུང་སོ་ལེགས་ལ་བྱད་ཟླུམ་པ་རི་དགས་ཅན་གྱི་རྩ་གཙོ་བས།
 <literal>/that also color dark and body short tooth good and cheek round deer-possess channel chief/
-<liturgical><prose>Moreover, of bluish color, short stature, beautiful teeth, round face, deer-type—the principal deer-channel, || 200 ||
+<liturgical><prose>Moreover, of bluish color, short stature, beautiful teeth, round face, deer-type—the principal deer-channel, || 14030 ||
 
 [14031]
 <tibetan>རྩ་དེ་ཡང་དཔེར་ན་རི་དགས་ཨེ་ན་ཡའི་བྱིན་པ་ལྟར་རྩ་བ་སྦོམ་པས་འདོད་ཆགས་ལྷག་པར་ཆེ་ལ
@@ -1108,7 +1108,7 @@ The draft in need of review is:
 [14040]
 <tibetan>།འདི་ལ་རྩ་རྐྱང་བའི་མན་ངག་གཙོ་ཆེའོ།
 <literal>/this to channel straight instruction chief/
-<liturgical><prose>Here, the oral instruction of straightening channels is chief. || 210 ||
+<liturgical><prose>Here, the oral instruction of straightening channels is chief. || 14040 ||
 
 [14041]
 <tibetan>།ཡང་མདོག་ནག་ཅིང་ཡན་ལག་རགས་གདོང་རྩུབ་ལ་བཞིན་མི་སྡུག་པ་ནི།
@@ -1158,7 +1158,7 @@ The draft in need of review is:
 [14050]
 <tibetan>སྐྲ་སེར་ཞིང་ལ་ལ་སྲབ།
 <literal>hair yellow and some thin/
-<liturgical><prose>Yellow hair, some thin, || 220 ||
+<liturgical><prose>Yellow hair, some thin, || 14050 ||
 
 [14051]
 <tibetan>ཡན་ལག་ཕྲ་ལ་ལྟེམ་ཞིང་སྤྱོད་ལམ་དལ་བ་ནི་རི་མོ་ཅན་ཏེ།
@@ -1208,7 +1208,7 @@ The draft in need of review is:
 [14060]
 <tibetan>ཡན་ལག་ཐུང༌།
 <literal>limb short/
-<liturgical><prose>Short limbs, || 230 ||
+<liturgical><prose>Short limbs, || 14060 ||
 
 [14061]
 <tibetan>སོར་མོ་ཡངས་པ་ནི་དུང་ཅན་མའོ།
@@ -1258,7 +1258,7 @@ The draft in need of review is:
 [14070]
 <tibetan>བུད་མེད་ལ་མངལ་ཟ་བ་སྲིན་བུའི་མཛེ་རང་ལའང་རིགས་ལྔ་ཡོད་པ་ནི།
 <literal>woman womb-eating worm disease even race five exist is/
-<liturgical><prose>The five races also exist within the fetus-consuming worm's own illness in females, || 240 ||
+<liturgical><prose>The five races also exist within the fetus-consuming worm's own illness in females, || 14070 ||
 
 [14071]
 <tibetan>རིགས་ཅན་ལྔའི་འདུ་མཆེད་ལས་བྱུང་ལ།
@@ -1308,7 +1308,7 @@ The draft in need of review is:
 [14080]
 <tibetan>ནད་ཕལ་བུ་སྣོད་ལས་འཇུག་པ་མང་ལ།
 <literal>disease common vessel from enter many
-<liturgical><prose>Generally, many illnesses enter from the vessel womb, || 250 ||
+<liturgical><prose>Generally, many illnesses enter from the vessel womb, || 14080 ||
 
 [14081]
 <tibetan>སྐྱེས་པ་ལ་དེ་མེད་པས་ཉུང་བར་བཤད་དོ།
@@ -1358,7 +1358,7 @@ The draft in need of review is:
 [14090]
 <tibetan>ཀུན་འདར་མས་སེམས་ཀྱིས་བྱས་པའི་ལས་དག་པར་བྱེད་པའོ།
 <literal>kun-'dar-ma-by mind-by done action pure does
-<liturgical><prose>Kundarma purifies mental activities. || 260 ||
+<liturgical><prose>Kundarma purifies mental activities. || 14090 ||
 
 [14091]
 <tibetan>།གསུམ་པ་རྩ་དེ་དག་གི་མཚོན་པ་ནི།
@@ -1408,7 +1408,7 @@ The draft in need of review is:
 [14100]
 <tibetan>།བཞི་པ་རྩ་དེ་དག་གི་སྐྱེད་ཚུལ་ནི།
 <literal>four channel those-of produce manner is
-<liturgical><ornament>The fourth: how these channels generate: || 270 ||
+<liturgical><ornament>The fourth: how these channels generate: || 14100 ||
 
 [14101]
 <tibetan>རོ་མས་ལུས་སྐྱེད་དེ་ཐོག་མ་ལུས་ཆགས་པ་འབྱུང་བཞིའི་བྱེད་ལས་ལས།
@@ -1458,7 +1458,7 @@ The draft in need of review is:
 [14110]
 <tibetan>།དེའི་ཡལ་ག་ནུ་མའི་རྩེ་མོ་ལས་འདུས་སོ།
 <literal>that-of branch breast tip from gather
-<liturgical><prose>Its branches gather at the breast tips. || 280 ||
+<liturgical><prose>Its branches gather at the breast tips. || 14110 ||
 
 [14111]
 <tibetan>།དེ་དག་གི་ཡལ་ག་བཅུ་དྲུག་མདོ་འདུས་པ་ན་ཡོད་དོ།
@@ -1508,7 +1508,7 @@ The draft in need of review is:
 [14120]
 <tibetan>།རྩ་དེ་བཅུ་པོར་སོང་བ་ལས་སྐད་གག་སྐད་དུ་སོང་ལ་དོར་བ་འོང༌།
 <literal>channel that ten-as gone speech throat throat-to gone abandon come
-<liturgical><prose>When these channels go to the ten, voice goes gag-gag, abandoning comes. || 290 ||
+<liturgical><prose>When these channels go to the ten, voice goes gag-gag, abandoning comes. || 14120 ||
 
 [14121]
 <tibetan>རྩ་དེ་ཉིད་ལ་སྟོད་སྨད་སྦོམ་ཕྲའི་ཉག་ཡོད་ན་སྐད་ལ་རྩེ་མང་ཅན་དང༌།
@@ -1558,7 +1558,7 @@ The draft in need of review is:
 [14130]
 <tibetan>རྩ་ལེགས་པས་ལུས་ལ་འོང་ཡོན་ཏན་དང་ལྡན་པའོ།
 <literal>channel good body-to come quality endowed
-<liturgical><prose>Is good channels bringing body's good qualities. || 300 ||
+<liturgical><prose>Is good channels bringing body's good qualities. || 14130 ||
 
 [14131]
 <tibetan>།ཀུན་འདར་མས་ཡིད་སྐྱེད་པས་ན་རྩ་དེ་ལ་འཁྱོག་མང་ན་རྟག་ཏུ་བློ་རྒོད་ལ་གཅིག་ཏུ་མི་ཕེབས།
@@ -1608,7 +1608,7 @@ The draft in need of review is:
 [14140]
 <tibetan>རྩ་དེ་འཕྲིག་ན་རྟག་ཏུ་སེམས་ཡང་ཞིང་དགེ་བ་ལ་བརྩོན།
 <literal>channel that slip always mind light virtue in engage/
-<liturgical><prose>If that channel smooths, always peaceful mind, diligent in virtue. || 310 ||
+<liturgical><prose>If that channel smooths, always peaceful mind, diligent in virtue. || 14140 ||
 
 [14141]
 <tibetan>རྩ་དེ་ཁ་ཆེ་ན་རྟག་ཏུ་བརྩོན་འགྲུས་ཆེ་ཞིང་བརྩམས་པ་མཐར་ཕྱིན་ནོ།
@@ -1658,7 +1658,7 @@ The draft in need of review is:
 [14150]
 <tibetan>།རྐྱང་མས་དངས་མ་ཡར་འཕེན་པས་སྒྲོན་མ་ཉིད་རང་སྣང་དུ་སྟོན་པར་བྱེད་ལ།
 <literal>/rkyangma pure-ma upward throw lamp self-appearance show do/
-<liturgical><prose>Kyangma, attracting pure upward, shows the lamp's self-appearance, || 320 ||
+<liturgical><prose>Kyangma, attracting pure upward, shows the lamp's self-appearance, || 14150 ||
 
 [14151]
 <tibetan>ཉམས་སུ་མྱོང་བ་དང་འཕེལ་བར་བྱེད་དོ།
@@ -1708,7 +1708,7 @@ The draft in need of review is:
 [14160]
 <tibetan>བུད་མེད་ནི་རིགས་ཅན་ལྔས་གཏུམས་ཏེ་གནས་པས་རེག་པ་འཕེལ་ཞེས་བྱ་སྟེ་སླར་བདེ་བ་རྒྱས་ཤིང་ཆོག་མི་ཤེས་པའོ།
 <literal>woman race five covered dwell touch increase called again bliss expand satisfy not-know/
-<liturgical><prose>Females, the five families gathering and abiding, called "increasing contact," bliss expands, unsatisfied. || 330 ||
+<liturgical><prose>Females, the five families gathering and abiding, called "increasing contact," bliss expands, unsatisfied. || 14160 ||
 
 [14161]
 <tibetan>།བུད་མེད་ལ་ཟླ་མཚན་འབབ་པ་ནི།
@@ -1758,7 +1758,7 @@ The draft in need of review is:
 [14170]
 <tibetan>ཁ་དོག་ནག་ལ་དྲི་ཆེན་དུ་བུ་དང་བུ་མོ་མང་དུ་འཕེལ་དྲི་མེད་ཅིང་མ་ཚོར་བར་འབབ་ན་ཕོ་མོ་རེ་མོས་སུ་འོང་ངོ༌།
 <literal>color black and feces child child many develop odorless and not-felt descend male female separately come/
-<liturgical><prose>Black color becoming precious bile, many sons and daughters increase; if odorless and unnoticed flowing, male-female twins come. || 340 ||
+<liturgical><prose>Black color becoming precious bile, many sons and daughters increase; if odorless and unnoticed flowing, male-female twins come. || 14170 ||
 
 [14171]
 <tibetan>།དྲུག་པ་རྩ་དེ་དག་གི་ངོ་བོ་ནི།
@@ -1808,7 +1808,7 @@ The draft in need of review is:
 [14180]
 <tibetan>ཕྲ་ན་ལྟོ་ཆུང༌།
 <literal>fine belly small/
-<liturgical><prose>If narrow, belly small. || 350 ||
+<liturgical><prose>If narrow, belly small. || 14180 ||
 
 [14181]
 <tibetan>འཁྱོག་ན་རྟག་ཏུ་སྐྱུག་ཅིང་ཟས་མི་ལེན།
@@ -1858,7 +1858,7 @@ The draft in need of review is:
 [14190]
 <tibetan>།འདི་ཉིད་ཕྲ་ན་རྟག་ཏུ་མི་སྐོམ།
 <literal>/this fine always not-thirst/
-<liturgical><prose>If this narrow, never thirsty. || 360 ||
+<liturgical><prose>If this narrow, never thirsty. || 14190 ||
 
 [14191]
 <tibetan>ཡངས་ན་སྐོམ་དད་ཆེ།
@@ -1908,7 +1908,7 @@ The draft in need of review is:
 [14200]
 <tibetan>ལུས་དང་རོ་མས་སྦྱར་བས་ལུས་ཆགས་པ་ལོངས་སྐུ།
 <literal>body roma apply body form sambhogakaya/
-<liturgical><prose>Body and Roma joined, body-forming is Sambhogakāya. || 370 ||
+<liturgical><prose>Body and Roma joined, body-forming is Sambhogakāya. || 14200 ||
 
 [14201]
 <tibetan>གནས་པ་སྤྲུལ་སྐུ།
@@ -1958,7 +1958,7 @@ The draft in need of review is:
 [14210]
 <tibetan>ལུས་ནི་སྐུ་གསུམ་དཀྱིལ་འཁོར་ལུས།
 <literal>body three-body mandala body/
-<liturgical><tantra>Body is the three-kaya mandala body, || 380 ||
+<liturgical><tantra>Body is the three-kaya mandala body, || 14210 ||
 
 [14211]
 <tibetan>།ཇི་སྐད་སྨྲས་པ་སྔགས་ཀྱི་ཚིག
@@ -2008,7 +2008,7 @@ The draft in need of review is:
 [14220]
 <tibetan>རྩ་འཕུལ་བའི་གནད་བསྟུན་པས་བག་ཆགས་རྒྱུན་འཆད་པའི་ཕྱིར་རྩའི་གནད་རབ་ཏུ་ཟབ་པོ།
 <literal>channel propel's essential-point follow-from habitual-tendency stream cease's because channel's essential-point very profound/
-<liturgical><prose>Following the channel pushing essential point, for cutting latency continuum, the channel's essential point is extremely profound. || 390 ||
+<liturgical><prose>Following the channel pushing essential point, for cutting latency continuum, the channel's essential point is extremely profound. || 14220 ||
 
 [14221]
 <tibetan>།གཉིས་པ་འཁོར་ལོ་བཞིའི་དབྱེ་བ་ལ་གཉིས་ཏེ།
@@ -2058,7 +2058,7 @@ The draft in need of review is:
 [14230]
 <tibetan>འཁོར་ལོ་དང་པོ་ཆུའི་ལས་ལས་གྲུབ་པས།
 <literal>wheel first water's function-from established from/
-<liturgical><prose>The first wheel is established from water's activity, || 400 ||
+<liturgical><prose>The first wheel is established from water's activity, || 14230 ||
 
 [14231]
 <tibetan>ཁྲག་དང་ཆུ་སེར་དང་ཁ་ཆུ་མིག་ཆུ་ལ་སོགས་པའི་སྨིན་སོར་བྱུང་བའོ།
@@ -2108,7 +2108,7 @@ The draft in need of review is:
 [14240]
 <tibetan>གྲིམས་ཤ་དང༌།
 <literal>raw-flesh and
-<liturgical><prose>Organ meat, || 410 ||
+<liturgical><prose>Organ meat, || 14240 ||
 
 [14241]
 <tibetan>ཤ་སྣ་ཚགས་པ་སྙིང་ནས་མཆེད་ཅིང་བརྟེན་པ་སྟེ།
@@ -2158,7 +2158,7 @@ The draft in need of review is:
 [14250]
 <tibetan>དྲོད་ཆེས་ན་ཚ་བའི་འབྱུང་བར་གྱུར་པས།
 <literal>heat great heat element become-by-means-of
-<liturgical><prose>Causing body illness and death condition, || 420 ||
+<liturgical><prose>Causing body illness and death condition, || 14250 ||
 
 [14251]
 <tibetan>ལུས་ཀྱི་ན་བ་དང་འཆི་བའི་རྐྱེན་བྱེད་ལ།
@@ -2208,7 +2208,7 @@ The draft in need of review is:
 [14260]
 <tibetan>།དེ་ཡང་ཆུ་ལ་བརྟེན་ནས་ཤ་ཆགས་པས་ལུས་ཀྱི་ཤ་རྒྱས་པར་བྱས།
 <literal>that-also water depend flesh form body flesh expand did
-<liturgical><prose>Depending on space-emptiness nature, water forms, blood increases. || 430 ||
+<liturgical><prose>Depending on space-emptiness nature, water forms, blood increases. || 14260 ||
 
 [14261]
 <tibetan>སྟོང་པ་ནམ་མཁའི་རང་བཞིན་ལྟ་བུ་ལ་བརྟེན་ནས་ཆུ་ཆགས་པས་ཁྲག་རྒྱས་པར་བྱས།
@@ -2258,7 +2258,7 @@ The draft in need of review is:
 [14270]
 <tibetan>སྡུད་པ་ལས་གཟུགས་ཆེ་ཡང་སྟོབས་ཞན་ཡན་ལག་ཕྲ།
 <literal>gather form big power weak limb fine
-<liturgical><tantra>From gathering-leap, small form but possessing strength. || 440 ||
+<liturgical><tantra>From gathering-leap, small form but possessing strength. || 14270 ||
 
 [14271]
 <tibetan>སྡུད་པ་འཕར་བ་ལས་གཟུགས་ཆུང་ཡང་སྟོབས་དང་ལྡན་པར་བྱེད་དོ།
@@ -2308,7 +2308,7 @@ The draft in need of review is:
 [14280]
 <tibetan>འཕེལ་བ་མ་དག་པས་སེམས་ཀྱི་ལེགས་པ་གྲུབ་ཀྱང་དགེ་བ་མི་འཕེལ་ལོ།
 <literal>increase impure mind good accomplish virtue not-increase/
-<liturgical><prose>Gathering makes mind's desire unaccomplished, wrong memory-thought. || 450 ||
+<liturgical><prose>Gathering makes mind's desire unaccomplished, wrong memory-thought. || 14280 ||
 
 [14281]
 <tibetan>།སྡུད་པ་ལས་སེམས་ཀྱི་འདོད་པ་མི་འགྲུབ་དྲན་བསམ་ལོག་པར་བྱེད།
@@ -2358,7 +2358,7 @@ The draft in need of review is:
 [14290]
 <tibetan>བླ་ན་མེད་པ་སྐུ་བཞིར་ངེས་པས་ཀྱང་འཁོར་ལོ་བཞིར་ངེས་སོ།
 <literal>supreme body four determination wheel four determined/
-<liturgical><prose>Also, body, speech, mind, and consciousness four, || 460 ||
+<liturgical><prose>Also, body, speech, mind, and consciousness four, || 14290 ||
 
 [14291]
 <tibetan>།ཡང་དག་བྱ་ལུས་ངག་ཡིད་སེམས་བཞི།
@@ -2372,7 +2372,7 @@ The draft in need of review is:
 
 [14293]
 <tibetan>དག་འབྲས་བུ་བཞིར་ངེས་པས་ཀྱང་དེའི་གཞི་འཁོར་ལོ་བཞིར་ངེས་པའོ།
-<literal>purify result four determination that basis wheel four determination/
+<literal>purify result four determination that ground wheel four determination/
 <liturgical><ornament>The second: explanation of individual classifications of the four wheels has four parts:
 
 [14294]
@@ -2408,7 +2408,7 @@ The draft in need of review is:
 [14300]
 <tibetan>རྣམ་གྲངས་སྤྱིར་བསྟན་པ།
 <literal>terms general show/
-<liturgical><prose>Individual limb explanation, || 470 ||
+<liturgical><prose>Individual limb explanation, || 14300 ||
 
 [14301]
 <tibetan>ཡན་ལག་སོ་སོར་བཤད་པ།
@@ -2458,7 +2458,7 @@ The draft in need of review is:
 [14310]
 <tibetan>ཡིད་དང༌།
 <literal>intellect and
-<liturgical><tantra>Lethargy-gathering classification, || 480 ||
+<liturgical><tantra>Lethargy-gathering classification, || 14310 ||
 
 [14311]
 <tibetan>དལ་བ་ཀུན་བསྡུས་ཀྱི་དབྱེ་བས།
@@ -2502,13 +2502,13 @@ The draft in need of review is:
 
 [14319]
 <tibetan>།ལུས་ཀྱི་གཞི་ནི་འཛིན་པར་བྱེད།
-<literal>body-of basis hold-doing make
+<literal>body-of ground hold-doing make
 <liturgical><tantra>Water channels in five aspects
 
 [14320]
 <tibetan>།ཆུ་ཡི་རྩ་ནི་རྣམ་པ་ལྔས།
 <literal>water-of channel various five-by-means-of
-<liturgical><tantra>Gather body's pure essence. || 490 ||
+<liturgical><tantra>Gather body's pure essence. || 14320 ||
 
 [14321]
 <tibetan>།ལུས་ཀྱི་དངས་མ་སྡུད་པར་བྱེད།
@@ -2558,7 +2558,7 @@ The draft in need of review is:
 [14330]
 <tibetan>།དབུགས་དང་ཤེས་པའི་དངས་མ་སྡུད།
 <literal>breath and awareness-of essence gather
-<liturgical><tantra>Lethargy-gathering channels six || 500 ||
+<liturgical><tantra>Lethargy-gathering channels six || 14330 ||
 
 [14331]
 <tibetan>།དལ་བ་ཀུན་བསྡུས་རྩ་རྣམས་དྲུག
@@ -2608,7 +2608,7 @@ The draft in need of review is:
 [14340]
 <tibetan>སྤྲུལ་པའི་འཁོར་ལོ་འདི་དག་ལས།
 <literal>emanation wheel these from
-<liturgical><tantra>Aspects transforming outward, || 510 ||
+<liturgical><tantra>Aspects transforming outward, || 14340 ||
 
 [14341]
 <tibetan>།རྣམ་པ་ཕྱིར་འགྱུར་བྱེད་པ་ཡིས།
@@ -2658,7 +2658,7 @@ The draft in need of review is:
 [14350]
 <tibetan>།གསེར་གྱི་ཁ་དོག་ལྟ་བུའི་རྩ།
 <literal>gold-of color like-of channel
-<liturgical><tantra>At calf center, one each. || 520 ||
+<liturgical><tantra>At calf center, one each. || 14350 ||
 
 [14351]
 <tibetan>།བྱིན་པའི་དཀྱིལ་ན་རེ་རེའོ།
@@ -2708,7 +2708,7 @@ The draft in need of review is:
 [14360]
 <tibetan>།ལོང་མོའི་མཆན་གཉིས་རེ་རེའོ།
 <literal>ankle-of channel two each
-<liturgical><tantra>To these two, four each. || 530 ||
+<liturgical><tantra>To these two, four each. || 14360 ||
 
 [14361]
 <tibetan>།དེ་གཉིས་ལ་ནི་བཞི་བཞིའོ།
@@ -2758,7 +2758,7 @@ The draft in need of review is:
 [14370]
 <tibetan>།རྩ་ཡི་རྣམ་པ་དེ་དག་ནི།
 <literal>/channel form those/
-<liturgical><tantra>Gathering channels ten reside, || 540 ||
+<liturgical><tantra>Gathering channels ten reside, || 14370 ||
 
 [14371]
 <tibetan>།འདུ་བའི་རྩ་ནི་བཅུ་་གནས་ཏེ།
@@ -2808,7 +2808,7 @@ The draft in need of review is:
 [14380]
 <tibetan>།ལྷག་མ་ལས་དང་ཉོན་མོངས་རྩ།
 <literal>/remain action affliction channel/
-<liturgical><tantra>Fifty reside, || 550 ||
+<liturgical><tantra>Fifty reside, || 14380 ||
 
 [14381]
 <tibetan>།ལྔ་བཅུ་ཉིད་དུ་གནས་པ་ལས།
@@ -2858,7 +2858,7 @@ The draft in need of review is:
 [14390]
 <tibetan>།གསུམ་ནི་ལྷན་ཅིག་སྐྱེས་པ་ཡིན།
 <literal>/three together-born is/
-<liturgical><break><tantra> Three are causally concordant ignorance. || 560 ||
+<liturgical><break><tantra> Three are causally concordant ignorance. || 14390 ||
 
 [14391]
 <tibetan>།གསུམ་ནི་རྒྱུ་མཐུན་མ་རིག་གོ
@@ -2908,7 +2908,7 @@ The draft in need of review is:
 [14400]
 <tibetan>།གསུམ་ནི་ངེས་པར་འཇོག་པ་ཡིན།
 <literal>/three definitely place is/
-<liturgical><tantra>Remainder mind is consciousness. || 570 ||
+<liturgical><tantra>Remainder mind is consciousness. || 14400 ||
 
 [14401]
 <tibetan>།ལྷག་མའི་ཡིད་ནི་རྣམ་ཤེས་སོ།
@@ -2958,7 +2958,7 @@ The draft in need of review is:
 [14410]
 <tibetan>།གཉིས་ནི་རླུང་གི་རྩ་ཡིན་ནོ།
 <literal>/two wind channel is/
-<liturgical><tantra>Two are bile serum channels. || 580 ||
+<liturgical><tantra>Two are bile serum channels. || 14410 ||
 
 [14411]
 <tibetan>།གཉིས་ནི་མཁྲིས་པ་ཆུ་སེར་རྩའོ།
@@ -3008,7 +3008,7 @@ The draft in need of review is:
 [14420]
 <tibetan>།གཟུང་དུ་རུང་བའི་རྩ་ལྔ་ཡོད།
 <literal>grasp suitable channel five exists
-<liturgical><tantra>Five suitable-for-cutting channels exist. || 590 ||
+<liturgical><tantra>Five suitable-for-cutting channels exist. || 14420 ||
 
 [14421]
 <tibetan>།མ་གཏེམས་སྐྱོན་འགྱུར་ལྔ་ཡོད་དེ།
@@ -3058,7 +3058,7 @@ The draft in need of review is:
 [14430]
 <tibetan>།ལྷག་མ་རྣམས་ལ་ཕན་གནོད་མེད།
 <literal>remain to benefit harm not
-<liturgical><tantra>Remainder, no benefit or harm. || 600 ||
+<liturgical><tantra>Remainder, no benefit or harm. || 14430 ||
 
 [14431]
 <tibetan>།དེ་ནི་ལས་གཞན་འབྲས་བུའོ།
@@ -3108,7 +3108,7 @@ The draft in need of review is:
 [14440]
 <tibetan>བི་མ་ལས་གསུངས་པ།
 <literal>bi-ma from spoken
-<liturgical><tantra>Vimala taught: || 610 ||
+<liturgical><tantra>Vimala taught: || 14440 ||
 
 [14441]
 <tibetan>ལྟེ་བ་སྤྲུལ་པའི་འཁོར་ལོའི་གནད་ལ།
@@ -3158,7 +3158,7 @@ The draft in need of review is:
 [14450]
 <tibetan>སྨན་སྐད་དུ་མཁལ་མའི་རྩ་ནག་ཅེས་བྱའོ།
 <literal>medicine language kidney channel black called
-<liturgical><tantra>In medical language called black kidney channel. || 620 ||
+<liturgical><tantra>In medical language called black kidney channel. || 14450 ||
 
 [14451]
 <tibetan>།འདི་འཁུམས་པ་དང་རྐང་པ་གཡས་གཤལ་ནས་ན་ན་གཏར་རོ།
@@ -3208,7 +3208,7 @@ The draft in need of review is:
 [14460]
 <tibetan>།འདི་གཏར་བས་སྒུར་བའི་ནད་ལ་ཕན་ནོ།
 <literal>this extract by-means-of bent disease-to benefit-is
-<liturgical><tantra>Bleeding this helps bending illness. || 630 ||
+<liturgical><tantra>Bleeding this helps bending illness. || 14460 ||
 
 [14461]
 <tibetan>།བོལ་གོང་གཡས་ན་ཥའི་མཇུག་མ་གནས་སོ།
@@ -3258,7 +3258,7 @@ The draft in need of review is:
 [14470]
 <tibetan>།འདི་གཏར་བས་རྐེད་པ་འཁྱོག་པ་དང་ཞ་གྲུམ་ལ་ཕན་ནོ།
 <literal>this extract by-means-of waist crooked and hip-pain-to benefit-is
-<liturgical><tantra>Bleeding this helps waist crookedness and hip-dislocation. || 640 ||
+<liturgical><tantra>Bleeding this helps waist crookedness and hip-dislocation. || 14470 ||
 
 [14471]
 <tibetan>།འདི་དག་ནི་ནད་དེ་བྱུང་བའི་དུས་ན་རྣལ་འབྱོར་པས་རང་ལ་འདི་ལྟར་བྱ་བ་མ་ཡིན་ཏེ།
@@ -3308,7 +3308,7 @@ The draft in need of review is:
 [14480]
 <tibetan>།ཉ་ཨི་གཉིས་ནི་དཔུང་སྟེང་གཡས་གཡོན་ནོ།
 <literal>nya i two shoulder-top right left
-<liturgical><tantra>NYA AI two are right and left shoulder-top. || 650 ||
+<liturgical><tantra>NYA AI two are right and left shoulder-top. || 14480 ||
 
 [14481]
 <tibetan>།འདི་ཉིད་བསྲེགས་པས་མཁལ་མའི་ནད་ལ་ཕན།
@@ -3358,7 +3358,7 @@ The draft in need of review is:
 [14490]
 <tibetan>རཾ་དང་ཧ་ནི་ལྟེ་ཁུང་འོག་དང་སྟེང༌།
 <literal>raM and ha navel-joint below and above
-<liturgical><tantra>RAM and HA are below and above navel-hole. || 660 ||
+<liturgical><tantra>RAM and HA are below and above navel-hole. || 14490 ||
 
 [14491]
 <tibetan>།ཨུ་དང་ཨེ་གཉིས་བཤང་གཅི་གཉིས་ཀྱི་སྒོ།
@@ -3408,7 +3408,7 @@ The draft in need of review is:
 [14500]
 <tibetan>།ལོ་གཉིས་ཀྱིས་ནི་ཆོད་པར་ངེས།
 <literal>years two by-means-of end certain
-<liturgical><tantra>Certainly cease in two years. || 670 ||
+<liturgical><tantra>Certainly cease in two years. || 14500 ||
 
 [14501]
 <tibetan>།ར་དང་ཧཱུ་ནི་བརླ་ནང་གཡས་གཡོན་ན།
@@ -3457,7 +3457,7 @@ The draft in need of review is:
 [14510]
 <tibetan>།འདི་ཀུན་བཟླ་ཤིང་རབ་ཏུ་གཏེམས་པ་ཡིས།
 <literal>this all recite and well insert by-means-of
-<liturgical><tantra>Gathering illness uprooted from root. || 680 ||
+<liturgical><tantra>Gathering illness uprooted from root. || 14510 ||
 
 [14511]
 <tibetan>།འདུས་པའི་ནད་དེ་རྩ་བ་དྲུངས་ནས་འབྱིན།
@@ -3507,7 +3507,7 @@ The draft in need of review is:
 [14520]
 <tibetan>།རྐེད་པ་མན་ཆད་ཇི་ལྟར་ན་ཡང་ནི།
 <literal>waist below even how also
-<liturgical><tantra>Reciting these letters, elaborating, || 690 ||
+<liturgical><tantra>Reciting these letters, elaborating, || 14520 ||
 
 [14521]
 <tibetan>།ཡི་གེ་འདི་དག་བཟླས་ཤིང་སྤྲོས་པ་ཡིས།
@@ -3557,7 +3557,7 @@ The draft in need of review is:
 [14530]
 <tibetan>རྩ་གནས་འཁོར་ལོ་ལས།
 <literal>channel-located wheel-from
-<liturgical><prose>Channel-abiding wheel:
+<liturgical><prose>Channel-abiding wheel: || 14530 ||
 
 [14531]
 <tibetan>ཆོས་ཀྱི་འཁོར་ལོའི་རྩ་རྣམས་ནི་འདས་མ་སུམ་བཅུ་རྩ་གཉིས་ལས།
@@ -3592,7 +3592,7 @@ The draft in need of review is:
 [14537]
 <tibetan>།དེ་ཡི་རྣམ་པ་དེ་དག་ལས།
 <literal>that form that plural from
-<liturgical><prose>That form those from, || 10 ||
+<liturgical><prose>That form those from,
 
 [14538]
 <tibetan>།འདུས་པའི་རྩ་ནི་བཞི་ཡིན་ནོ།
@@ -3607,7 +3607,7 @@ The draft in need of review is:
 [14540]
 <tibetan>།འདུ་བའི་རྩ་ནི་བཞི་ཡིན་ནོ།
 <literal>gather channel four is
-<liturgical><prose>Gathering channels four.
+<liturgical><prose>Gathering channels four. || 14540 ||
 
 [14541]
 <tibetan>།དེ་ལས་ཉི་ཤུ་བརྒྱད་གྱེས་སོ།
@@ -3642,7 +3642,7 @@ The draft in need of review is:
 [14547]
 <tibetan>།འཁོར་ལོ་དང་པོ་གོང་ལྟར་ཏེ།
 <literal>wheel first above like
-<liturgical><prose>Wheel first above like, || 20 ||
+<liturgical><prose>Wheel first above like,
 
 [14548]
 <tibetan>།རིམ་པ་གཉིས་པ་འདིར་བཤད་བྱ།
@@ -3657,7 +3657,7 @@ The draft in need of review is:
 [14550]
 <tibetan>།འདུ་བའི་རྩ་ནི་ལྔ་ཡིན་ནོ།
 <literal>gather channel five is
-<liturgical><prose>Gathering channels five.
+<liturgical><prose>Gathering channels five. || 14550 ||
 
 [14551]
 <tibetan>།སེམས་ཀྱི་རྩ་ནི་རྣམ་པ་གཉིས།
@@ -3692,7 +3692,7 @@ The draft in need of review is:
 [14557]
 <tibetan>།འོད་ཟེར་རྩ་ནི་ལྔ་ཡིན་ནོ།
 <literal>light-ray channel five is
-<liturgical><prose>Light-ray channels five. || 30 ||
+<liturgical><prose>Light-ray channels five.
 
 [14558]
 <tibetan>།འབྱུང་བའི་རྩ་ཡང་དེ་ཙམ་མོ།
@@ -3707,7 +3707,7 @@ The draft in need of review is:
 [14560]
 <tibetan>།འཁོར་དང་པོ་རྣམ་བཤད་བྱ།
 <literal>wheel first explain
-<liturgical><prose>First wheel explained:
+<liturgical><prose>First wheel explained: || 14560 ||
 
 [14561]
 <tibetan>།རིག་པའི་རྩ་ནི་ལྔ་ཡིན་ནོ།
@@ -3742,7 +3742,7 @@ The draft in need of review is:
 [14567]
 <tibetan>།མཁྲིས་པའི་རྩ་ཡང་རྣམ་གཉིས་སོ།
 <literal>bile channel also form two
-<liturgical><prose>Bile channels also two. || 40 ||
+<liturgical><prose>Bile channels also two.
 
 [14568]
 <tibetan>།ལྷག་མ་འདུས་པ་དག་ཡིན་ནོ།
@@ -3757,7 +3757,7 @@ The draft in need of review is:
 [14570]
 <tibetan>།དངོས་པོ་ཉིད་དུ་བརྗོད་པའོ།
 <literal>actual thing as called
-<liturgical><prose>Actual things called.
+<liturgical><prose>Actual things called. || 14570 ||
 
 [14571]
 <tibetan>།རིམ་པ་གཉིས་པ་འདི་ལྟ་སྟེ།
@@ -3792,7 +3792,7 @@ The draft in need of review is:
 [14577]
 <tibetan>།བྱ་བ་གྲུབ་པའི་རྩ་ལྔའོ།
 <literal>action accomplish channel five
-<liturgical><prose>Action accomplishing channels five. || 50 ||
+<liturgical><prose>Action accomplishing channels five.
 
 [14578]
 <tibetan>།འདུ་བའི་རྩ་ནི་རྣམ་ལྔ་ནི།
@@ -3807,7 +3807,7 @@ The draft in need of review is:
 [14580]
 <tibetan>།སེམས་ཀྱི་རྩ་ནི་རྣམ་གཉིས་ལས།
 <literal>mind channel form two-from
-<liturgical><prose>Mind channels two-from,
+<liturgical><prose>Mind channels two-from, || 14580 ||
 
 [14581]
 <tibetan>།རླུང་དང་ཤེས་པའི་རྟག་གནས་སོ།
@@ -3842,7 +3842,7 @@ The draft in need of review is:
 [14587]
 <tibetan>།ཤེས་རབ་རྩ་ནི་རྣམ་པ་བརྒྱད།
 <literal>wisdom channel form eight
-<liturgical><prose>Prajna channels eight, || 60 ||
+<liturgical><prose>Prajna channels eight,
 
 [14588]
 <tibetan>།གཉིས་ནི་འབྱེད་བྱེད་ཤེས་རབ་སྟེ།
@@ -3857,7 +3857,7 @@ The draft in need of review is:
 [14590]
 <tibetan>།སྒྲོལ་བྱེད་ཤེས་རབ་གཉིས་ཡིན་ནོ།
 <literal>liberate wisdom two is
-<liturgical><prose>Liberating prajna two,
+<liturgical><prose>Liberating prajna two, || 14590 ||
 
 [14591]
 <tibetan>།ལྷག་མ་སྐྱོང་བྱེད་ཤེས་རབ་བོ།
@@ -3892,7 +3892,7 @@ The draft in need of review is:
 [14597]
 <tibetan>།བཞི་ནི་ཞེ་སྡང་རླུང་གི་རྩ།
 <literal>four hatred wind channel
-<liturgical><prose>Four hatred wind channels, || 70 ||
+<liturgical><prose>Four hatred wind channels,
 
 [14598]
 <tibetan>།གཉིས་ནི་འདོད་ཆགས་འདུས་པའི་རྩའོ།
@@ -3907,7 +3907,7 @@ The draft in need of review is:
 [14600]
 <tibetan>།གཞི་ཡི་འོད་ཟེར་རྩ་ཡིན་ནོ།
 <literal>base light-ray channel is
-<liturgical><prose>Basis light-ray channel,
+<liturgical><prose>ground light-ray channel, || 14600 ||
 
 [14601]
 <tibetan>།ལམ་གྱི་འོད་ཟེར་གཅིག་ཡིན་ཏེ།
@@ -3942,7 +3942,7 @@ The draft in need of review is:
 [14607]
 <tibetan>།ལ་ལ་ཆུ་སེར་དངས་མ་སྟེ།
 <literal>some water-yellow essence
-<liturgical><prose>Some water-yellow essence, || 80 ||
+<liturgical><prose>Some water-yellow essence,
 
 [14608]
 <tibetan>།ལ་ལ་ཁྲག་གི་དངས་མའོ།
@@ -3957,7 +3957,7 @@ The draft in need of review is:
 [14610]
 <tibetan>།འབྱུང་བ་ལྔ་ཡི་དངས་མའོ།
 <literal>elements five essence
-<liturgical><prose>Elements five essence.
+<liturgical><prose>Elements five essence. || 14610 ||
 
 [14611]
 <tibetan>།རེ་རེ་ལ་ཡང་དངས་མ་རྣམས།
@@ -3992,7 +3992,7 @@ The draft in need of review is:
 [14617]
 <tibetan>།ཞེས་སོ།
 <literal>said
-<liturgical><prose>Thus spoken. || 90 ||
+<liturgical><prose>Thus spoken.
 
 [14618]
 <tibetan>།དེ་དག་གི་བྱེད་པ་དང་རྣམ་གྲངས་ནི།
@@ -4007,7 +4007,7 @@ The draft in need of review is:
 [14620]
 <tibetan>ཆོས་ཀྱི་འཁོར་ལོའི་འདབ་མ་ལ།
 <literal>dharma wheel's leaf-to
-<liturgical><prose>Dharma wheel petal-to,
+<liturgical><prose>Dharma wheel petal-to, || 14620 ||
 
 [14621]
 <tibetan>།ལྔ་ནི་སྟེང་དུ་འགྲོ་བར་བྱེད།
@@ -4042,7 +4042,7 @@ The draft in need of review is:
 [14627]
 <tibetan>།ལྔ་ནི་ཕྱོགས་དང་དབུས་ན་གནས།
 <literal>five direction and center-in located
-<liturgical><prose>Five directions center located, || 100 ||
+<liturgical><prose>Five directions center located,
 
 [14628]
 <tibetan>།འཆར་བྱེད་སྤོར་དང་ནུབ་བྱེད་སྡུད།
@@ -4057,7 +4057,7 @@ The draft in need of review is:
 [14630]
 <tibetan>།གཉིས་སུ་ཡོད་པའི་གསང་རྩ་ནི།
 <literal>two-in exist secret channel is
-<liturgical><prose>Two existing secret channel,
+<liturgical><prose>Two existing secret channel, || 14630 ||
 
 [14631]
 <tibetan>།གྱེན་ལ་སྤོར་དང་ཐུར་དུ་སེལ།
@@ -4092,7 +4092,7 @@ The draft in need of review is:
 [14637]
 <tibetan>།ལྷག་མ་དྲུག་བརྒྱ་ཡེ་ཤེས་རླུང༌།
 <literal>remainder six-hundred wisdom wind
-<liturgical><prose>Remainder six-hundred wisdom wind, || 110 ||
+<liturgical><prose>Remainder six-hundred wisdom wind,
 
 [14638]
 <tibetan>།སྐད་ཅིག་རེ་རེའི་ཆ་རྣམས་ལ།
@@ -4107,7 +4107,7 @@ The draft in need of review is:
 [14640]
 <tibetan>།སྐྱེས་བུའི་ཞག་ནི་རེ་རེ་ལ།
 <literal>person day each each-to
-<liturgical><prose>Person day each,
+<liturgical><prose>Person day each, || 14640 ||
 
 [14641]
 <tibetan>།སྐད་ཅིག་ཁྲི་དང་བཞི་སྟོང་ངོ༌།
@@ -4142,7 +4142,7 @@ The draft in need of review is:
 [14647]
 <tibetan>།དེ་ཡི་ཕྱེད་ནི་རང་སོ་སྟེ།
 <literal>that half self-place is
-<liturgical><prose>That half self-place, || 120 ||
+<liturgical><prose>That half self-place,
 
 [14648]
 <tibetan>།གནས་ཤིང་རེ་ཐག་བརྐྱངས་པ་བཞིན།
@@ -4157,7 +4157,7 @@ The draft in need of review is:
 [14650]
 <tibetan>།ཡེ་ནས་སྤྱོད་དང་བྲལ་བའོ།
 <literal>from-action and free
-<liturgical><prose>From-action free.
+<liturgical><prose>From-action free. || 14650 ||
 
 [14651]
 <tibetan>།འདི་ནི་གནས་པའི་རྩ་ཡི་མཁར།
@@ -4192,7 +4192,7 @@ The draft in need of review is:
 [14657]
 <tibetan>།གཉིས་པ་ནང་ལས་གྱེས་པའི་ཕྱི་རྩའི་ཡལ་འདབ་ནི།
 <literal>two inside-from divided outer channel's branch-leaf is
-<liturgical><prose>Second: inside-from divided outer channel's branch-petals. || 130 ||
+<liturgical><prose>Second: inside-from divided outer channel's branch-petals.
 
 [14658]
 <tibetan>དེ་ཉིད་ལས།
@@ -4207,7 +4207,7 @@ The draft in need of review is:
 [14660]
 <tibetan>།དེ་ཡི་གནས་སུ་འགྱུར་བ་ནི།
 <literal>that location-to become is
-<liturgical><prose>That location become,
+<liturgical><prose>That location become, || 14660 ||
 
 [14661]
 <tibetan>།མེ་ཏོག་ལྟ་བུའི་རྩ་རེ་སྟེ།
@@ -4242,7 +4242,7 @@ The draft in need of review is:
 [14667]
 <tibetan>།དེ་ལས་ཕྱི་ཚད་གྱེས་པ་ན།
 <literal>that-from outer measure divided when
-<liturgical><prose>That-from outer measure divided, || 140 ||
+<liturgical><prose>That-from outer measure divided,
 
 [14668]
 <tibetan>།ཁྲག་གིས་མྱོས་པའི་རྩ་རེ་སྟེ།
@@ -4257,7 +4257,7 @@ The draft in need of review is:
 [14670]
 <tibetan>།མུ་ཏིག་དམར་པོ་འདྲ་བ་ཡི།
 <literal>pearl red like
-<liturgical><prose>Pearl red like,
+<liturgical><prose>Pearl red like, || 14670 ||
 
 [14671]
 <tibetan>།རྩ་ནི་རྣམ་པ་གསུམ་གསུམ་མོ།
@@ -4292,7 +4292,7 @@ The draft in need of review is:
 [14677]
 <tibetan>།རྩ་ཡི་རྣམ་པ་རེ་རེ་སྟེ།
 <literal>channel form each each
-<liturgical><prose>Channel each each, || 150 ||
+<liturgical><prose>Channel each each,
 
 [14678]
 <tibetan>།ལག་ངར་གྱི་ནི་ཟུར་ལ་འབྱུང༌།
@@ -4307,7 +4307,7 @@ The draft in need of review is:
 [14680]
 <tibetan>།དེ་ཡི་འདབ་མའི་ལོགས་དག་ལས།
 <literal>that leaf's side plural-from
-<liturgical><prose>That petal's side-from,
+<liturgical><prose>That petal's side-from, || 14680 ||
 
 [14681]
 <tibetan>།རྡུལ་ཕྲན་ལྟ་བུའི་རྩ་རེ་སྟེ།
@@ -4342,7 +4342,7 @@ The draft in need of review is:
 [14687]
 <tibetan>།ལག་ངར་རྒྱབ་ན་གནས་པའོ།
 <literal>arm back-in located
-<liturgical><prose>Arm back located. || 160 ||
+<liturgical><prose>Arm back located.
 
 [14688]
 <tibetan>།དེ་ཡི་ཕྱོགས་ཀྱི་འདབ་མ་ལ།
@@ -4357,7 +4357,7 @@ The draft in need of review is:
 [14690]
 <tibetan>།མཐེབ་མཛུབ་དང་ནི་དཔུང་མགོ་དང༌།
 <literal>thumb-finger and shoulder-top and
-<liturgical><prose>Thumb-finger shoulder-top,
+<liturgical><prose>Thumb-finger shoulder-top, || 14690 ||
 
 [14691]
 <tibetan>།ཐལ་མོའི་ཟུར་ན་གནས་པའོ།
@@ -4392,7 +4392,7 @@ The draft in need of review is:
 [14697]
 <tibetan>།ལས་དང་ཡེ་ཤེས་སུམ་ཆའོ།
 <literal>karma and wisdom three-portion
-<liturgical><prose>Karma wisdom two-thirds. || 170 ||
+<liturgical><prose>Karma wisdom two-thirds.
 
 [14698]
 <tibetan>།ཞེས་སོ།
@@ -4407,7 +4407,7 @@ The draft in need of review is:
 [14700]
 <tibetan>ཡང་དེ་ཉིད་ལས།
 <literal>also that same-from
-<liturgical><prose>Also that same-from,
+<liturgical><prose>Also that same-from, || 14700 ||
 
 [14701]
 <tibetan>དྷརྨ་ཙཀྲ་གསུ་ཅུ་གཉིས།
@@ -4442,7 +4442,7 @@ The draft in need of review is:
 [14707]
 <tibetan>།གཏེམས་དུ་རུང་བའི་རྩ་ལྔ་ལ།
 <literal>suitable-to-insert channel five-to
-<liturgical><prose>Able-to-insert channel five-to, || 180 ||
+<liturgical><prose>Able-to-insert channel five-to,
 
 [14708]
 <tibetan>།ཟློག་ཏུ་རུང་བའི་རླུང་ལྔ་ཡོད།
@@ -4457,7 +4457,7 @@ The draft in need of review is:
 [14710]
 <tibetan>།གཟུང་དུ་རུང་བའི་རླུང་གཉིས་དང༌།
 <literal>suitable-to-hold wind two and
-<liturgical><prose>Able-to-hold wind two and,
+<liturgical><prose>Able-to-hold wind two and, || 14710 ||
 
 [14711]
 <tibetan>།དྲང་བའི་ཐིག་ལེ་གཉིས་ཡོད་དོ།
@@ -4492,7 +4492,7 @@ The draft in need of review is:
 [14717]
 <tibetan>གསེང་དུ་རུང་བ་བདུན་ཡིན་ནོ།
 <literal>suitable-for-opening seven is
-<liturgical><prose>Suitable-for-opening seven, || 190 ||
+<liturgical><prose>Suitable-for-opening seven,
 
 [14718]
 <tibetan>།མི་འཕར་བ་ནི་ལྷག་མའོ།
@@ -4507,7 +4507,7 @@ The draft in need of review is:
 [14720]
 <tibetan>།མི་རུང་བ་ནི་དེ་བྱེད་དོ།
 <literal>not-suitable that does
-<liturgical><prose>Not-suitable that doing.
+<liturgical><prose>Not-suitable that doing. || 14720 ||
 
 [14721]
 <tibetan>།རྩ་ཡི་རྣམ་པ་དེ་དག་ལ།
@@ -4542,7 +4542,7 @@ The draft in need of review is:
 [14727]
 <tibetan>།ཤེས་པའི་རྟེན་ནི་རེ་རེ་སྟེ།
 <literal>consciousness support one one
-<liturgical><prose>Consciousness support one one, || 200 ||
+<liturgical><prose>Consciousness support one one,
 
 [14728]
 <tibetan>།འཛིན་པའི་ཡུལ་ཀྱང་དེ་སྙེད་ཡོད།
@@ -4557,7 +4557,7 @@ The draft in need of review is:
 [14730]
 <tibetan>།བཞི་པ་བཅོས་ཐབས་ངེས་པ་ནི།
 <literal>four remedy method certain is
-<liturgical><prose>Fourth: remedy method certain.
+<liturgical><prose>Fourth: remedy method certain. || 14730 ||
 
 [14731]
 <tibetan>གནད་ཡིག་ལས།
@@ -4592,7 +4592,7 @@ The draft in need of review is:
 [14737]
 <tibetan>།སྨན་སྐད་འབའ་བསམ་གྲུབ་མགོ་ཡིན།
 <literal>medicine-speech 'ba' bsam grub head is
-<liturgical><prose>Medicine-speech BA Samdrub head, || 210 ||
+<liturgical><prose>Medicine-speech BA Samdrub head,
 
 [14738]
 <tibetan>།འདི་གཏར་རིམས་ཀྱི་ནད་ལ་ཕན།
@@ -4607,7 +4607,7 @@ The draft in need of review is:
 [14740]
 <tibetan>།འདི་མིང་བྷ་ལ་ཏི་ཏ་ཀ
 <literal>this name bha to ti ta ka
-<liturgical><break><prose> This name BHA LA TI TA KA,
+<liturgical><break><prose> This name BHA LA TI TA KA, || 14740 ||
 
 [14741]
 <tibetan>།འདི་གཏར་མཁྲིས་པའི་ནད་ལ་ཕན།
@@ -4642,7 +4642,7 @@ The draft in need of review is:
 [14747]
 <tibetan>།གཡོན་ན་གྷ་ཡི་གནས་པ་སྟེ།
 <literal>left-in gha located
-<liturgical><prose>Left GHA located, || 220 ||
+<liturgical><prose>Left GHA located,
 
 [14748]
 <tibetan>།འདི་མིང་རུ་ཐུང་གཡོན་པ་ཞེས༌།
@@ -4657,7 +4657,7 @@ The draft in need of review is:
 [14750]
 <tibetan>།ལག་ངར་གྱི་ནི་ནང་རོལ་ན།
 <literal>arm inside-in
-<liturgical><prose>Arm inside,
+<liturgical><prose>Arm inside, || 14750 ||
 
 [14751]
 <tibetan>།ན་གནས་མཁྲིག་མའི་རྒྱལ་མོ་ཡིན།
@@ -4692,7 +4692,7 @@ The draft in need of review is:
 [14757]
 <tibetan>།འདི་གཏར་བད་ཀན་ནད་ལ་ཕན།
 <literal>/this bloodletting phlegm-disease-to benefit/
-<liturgical><prose>This bloodletting phlegm disease benefit. || 230 ||
+<liturgical><prose>This bloodletting phlegm disease benefit.
 
 [14758]
 <tibetan>།ལག་ངར་མཁྲིས་ཟུར་ཛ་གནས་ཏེ།
@@ -4707,7 +4707,7 @@ The draft in need of review is:
 [14760]
 <tibetan>།འདི་གཏར་གློ་བའི་ནད་ལ་ཕན།
 <literal>/this bloodletting lung-of disease-to benefit/
-<liturgical><prose>This bloodletting lung disease benefit.
+<liturgical><prose>This bloodletting lung disease benefit. || 14760 ||
 
 [14761]
 <tibetan>།གཡོན་ནའང་ཛ་གནས་གོང་རྩ་གཡོན།
@@ -4742,7 +4742,7 @@ The draft in need of review is:
 [14767]
 <tibetan>།ཚོན་གང་གཞལ་པའི་གཤོང་བུ་ན།
 <literal>/tson gang measure-possessive measure-bu-in/
-<liturgical><prose>Finger-width hollow, || 240 ||
+<liturgical><prose>Finger-width hollow,
 
 [14768]
 <tibetan>།ཊ་གནས་སྙིང་རྩ་དཀར་མོ་ཞེས།
@@ -4757,7 +4757,7 @@ The draft in need of review is:
 [14770]
 <tibetan>།རྒྱབ་དཀྱིལ་དྲང་པོར་ཐ་གནས་ཏེ།
 <literal>/back-center straight-in tha located/
-<liturgical><prose>Back center straight THA located,
+<liturgical><prose>Back center straight THA located, || 14770 ||
 
 [14771]
 <tibetan>།འདི་མིང་རྒྱབ་རྩ་ཆེན་པོ་ཡིན།
@@ -4792,7 +4792,7 @@ The draft in need of review is:
 [14777]
 <tibetan>།དྷ་གནས་མཁྲིས་རྩ་གྷན་དྷེ་ཞེས།
 <literal>/dha located bile-rtsa gha-nde called/
-<liturgical><prose>DHA located bile-channel Ghande called, || 250 ||
+<liturgical><prose>DHA located bile-channel Ghande called,
 
 [14778]
 <tibetan>།འདི་གཏར་མགོ་ཡི་ནད་ལ་ཕན།
@@ -4807,7 +4807,7 @@ The draft in need of review is:
 [14780]
 <tibetan>།འདི་མིང་ཕོ་བའི་ཡལ་ག་ཞེས།
 <literal>/this name stomach-of branch called/
-<liturgical><prose>This name stomach branch called,
+<liturgical><prose>This name stomach branch called, || 14780 ||
 
 [14781]
 <tibetan>།གཏར་བས་དུག་གི་ནད་ལ་ཕན།
@@ -4842,7 +4842,7 @@ The draft in need of review is:
 [14787]
 <tibetan>།འདི་ལྟར་མཁལ་མའི་ནད་ལ་ཕན།
 <literal>/this manner kidney-of disease-to benefit/
-<liturgical><prose>This like kidney disease benefit. || 260 ||
+<liturgical><prose>This like kidney disease benefit.
 
 [14788]
 <tibetan>མཐེ་ཆུང་རྒྱབ་ན་ད་ཡིག་ཡོད།
@@ -4857,7 +4857,7 @@ The draft in need of review is:
 [14790]
 <tibetan>འདི་གཏར་ཕོ་བའི་ནད་ལ་ཕན།
 <literal>this bloodletting stomach-of disease-to benefit/
-<liturgical><prose>This bloodletting stomach disease benefit.
+<liturgical><prose>This bloodletting stomach disease benefit. || 14790 ||
 
 [14791]
 <tibetan>ལག་མཐིལ་དཀྱིལ་ན་དྷ་ཡིག་སྟེ།
@@ -4892,7 +4892,7 @@ The draft in need of review is:
 [14797]
 <tibetan>།སྙིང་རླུང་ལྡང་དུབ་ཉིད་ལ་ཕན།
 <literal>/heart-wind rise tired-to benefit/
-<liturgical><verse>Heart wind rising fatigue benefit. || 270 ||
+<liturgical><verse>Heart wind rising fatigue benefit.
 
 [14798]
 <tibetan>།རྣལ་འབྱོར་པ་ཡིས་བཟླས་ཤིང་གདོན།
@@ -4907,7 +4907,7 @@ The draft in need of review is:
 [14800]
 <tibetan>།ཕ་ནི་དེ་བཞིན་གཡོན་པ་ན།
 <literal>/pha is likewise left-in/
-<liturgical><verse>PHA also thus left,
+<liturgical><verse>PHA also thus left, || 14800 ||
 
 [14801]
 <tibetan>།བ་ནི་མཆན་ཁུང་གཡས་པ་ན།
@@ -4942,7 +4942,7 @@ The draft in need of review is:
 [14807]
 <tibetan>།དེས་ནི་དེ་ཡི་ནད་ལ་ཕན།
 <literal>/that-by that-of disease-to benefit/
-<liturgical><break><prose> That that disease benefit. || 280 ||
+<liturgical><break><prose> That that disease benefit.
 
 [14808]
 <tibetan>།རྣལ་འབྱོར་པ་ཡིས་གཏེམས་པས་འགྲུབ།
@@ -4957,7 +4957,7 @@ The draft in need of review is:
 [14810]
 <tibetan>།ལྷག་མ་རྣམས་ལ་ཕན་གནོད་མེད།
 <literal>/remainder-to benefit harm not/
-<liturgical><prose>Remainder benefit harm not.
+<liturgical><prose>Remainder benefit harm not. || 14810 ||
 
 [14811]
 <tibetan>།གཏེམས་དང་དཀྲུགས་དང་བསྐྱིལ་བ་ནི།
@@ -5007,7 +5007,7 @@ The draft in need of review is:
 [14820]
 <tibetan>མགྲིན་པ་ལོངས་སྤྱོད་འཁོར་ལོ་ལ།
 <literal>throat enjoyment wheel-to/
-<liturgical><prose>Throat enjoyment wheel,
+<liturgical><prose>Throat enjoyment wheel, || 14820 ||
 
 [14821]
 <tibetan>།རྩ་ཆེན་སུམ་བརྒྱ་བཞི་བཅུ་གནས།
@@ -5027,7 +5027,7 @@ The draft in need of review is:
 [14824]
 <tibetan>།རྣམ་པ་བཅུ་ནི་ཡིན་པའོ།
 <literal>/form ten is/
-<liturgical><prose>Aspects ten. || 10 ||
+<liturgical><prose>Aspects ten.
 
 [14825]
 <tibetan>།ལྷག་མ་ཀུན་ཀྱང་དེ་དང་འདྲ།
@@ -5057,7 +5057,7 @@ The draft in need of review is:
 [14830]
 <tibetan>།ལམ་ནི་འདི་དག་ཡིན་པའོ།
 <literal>/path is this are/
-<liturgical><verse>Path these.
+<liturgical><verse>Path these. || 14830 ||
 
 [14831]
 <tibetan>།ཡེ་ཤེས་འགྱུ་བ་བཅུ་དྲུག་སྟེ།
@@ -5077,7 +5077,7 @@ The draft in need of review is:
 [14834]
 <tibetan>།འབྱུང་བ་ཡང་ནི་བཅུ་དྲུག་གོ
 <literal>/element also sixteen is/
-<liturgical><break><prose> Elements also sixteen. || 20 ||
+<liturgical><break><prose> Elements also sixteen.
 
 [14835]
 <tibetan>།སྟོང་པ་གསལ་བའི་ཐིག་ལེ་ཡི།
@@ -5107,7 +5107,7 @@ The draft in need of review is:
 [14840]
 <tibetan>།རྣམ་པ་བཅུ་དྲུག་ལྡན་པ་རྣམས།
 <literal>/form sixteen possessing/
-<liturgical><verse>Aspects sixteen possessing,
+<liturgical><verse>Aspects sixteen possessing, || 14840 ||
 
 [14841]
 <tibetan>།བདུན་ནི་རིག་པ་དངོས་པོ་ཡིན།
@@ -5127,7 +5127,7 @@ The draft in need of review is:
 [14844]
 <tibetan>།གཉིས་པ་ཡངས་པ་སྐུ་ཡིན་ནོ།
 <literal>/second vast body is/
-<liturgical><verse>Second expansive body, || 30 ||
+<liturgical><verse>Second expansive body,
 
 [14845]
 <tibetan>།གསུམ་པ་ད་དུ་ཀ་ལ་རྒྱུ།
@@ -5157,7 +5157,7 @@ The draft in need of review is:
 [14850]
 <tibetan>།བརྒྱད་པ་ཡང་དག་བདེ་བའི་སྐུ།
 <literal>/eighth true bliss-of body/
-<liturgical><verse>Eighth correct bliss body,
+<liturgical><verse>Eighth correct bliss body, || 14850 ||
 
 [14851]
 <tibetan>།ལྷག་པ་གཅིག་ན་རྒྱུ་བའོ།
@@ -5177,12 +5177,12 @@ The draft in need of review is:
 [14854]
 <tibetan>།བརྒྱད་ནི་ཐིག་ལེ་སྟོང་པས་འགྱུ།
 <literal>/eight is thig-le empty-from move/
-<liturgical><verse>Eight bindu empty move, || 40 ||
+<liturgical><verse>Eight bindu empty move,
 
 [14855]
 <tibetan>།བཞི་ནི་གཞི་ལམ་ཐིག་ལེའོ།
-<literal>/four is basis-path thig-le/
-<liturgical><verse>Four basis path bindu,
+<literal>/four is ground-path thig-le/
+<liturgical><verse>Four ground path bindu,
 
 [14856]
 <tibetan>།ལྷག་མ་ཤེས་རབ་འགྱུ་བའི་ལམ།
@@ -5207,7 +5207,7 @@ The draft in need of review is:
 [14860]
 <tibetan>།གསུམ་ནས་ས་ཡི་དངས་མ་སེར།
 <literal>/three-from earth-of essence yellow/
-<liturgical><verse>Three-from earth essence yellow,
+<liturgical><verse>Three-from earth essence yellow, || 14860 ||
 
 [14861]
 <tibetan>།གསུམ་ནས་ཆུ་ཡི་དངས་མ་ཁྲག
@@ -5227,7 +5227,7 @@ The draft in need of review is:
 [14864]
 <tibetan>།ཁྱབ་པ་ཀུན་ལ་ཁྱབ་པའོ།
 <literal>/khyab pa kun la khyab pa'o/
-<liturgical><prose>Pervading all pervading. || 50 ||
+<liturgical><prose>Pervading all pervading.
 
 [14865]
 <tibetan>།སྟོང་པའི་ཐིག་ལེ་བརྒྱད་ཡིན་ཏེ།
@@ -5257,7 +5257,7 @@ The draft in need of review is:
 [14870]
 <tibetan>།བཞི་ནི་གཏི་མུག་མཁྲིས་པའི་རྩ།
 <literal>/bzhi ni gti mug mkhris pa'i rtsa/
-<liturgical><prose>Four delusion bile channels,
+<liturgical><prose>Four delusion bile channels, || 14870 ||
 
 [14871]
 <tibetan>།བཞི་ནི་ཞེ་སྡང་རླུང་གི་རྩ།
@@ -5277,7 +5277,7 @@ The draft in need of review is:
 [14874]
 <tibetan>།བཞི་ནི་མ་རིག་དངོས་པོའོ།
 <literal>four ignorance entity
-<liturgical><prose>Four ignorance actual-things, || 60 ||
+<liturgical><prose>Four ignorance actual-things,
 
 [14875]
 <tibetan>།ལྔ་ནི་རྟོག་བཅས་ཡིད་ཡིན་ནོ།
@@ -5307,7 +5307,7 @@ The draft in need of review is:
 [14880]
 <tibetan>ཡང་དེ་ལས།
 <literal>also that from
-<liturgical><prose>Also that-from,
+<liturgical><prose>Also that-from, || 14880 ||
 
 [14881]
 <tibetan>མགྲིན་པ་ལོངས་སྤྱོད་འཁོར་ལོའི་རྩ།
@@ -5327,7 +5327,7 @@ The draft in need of review is:
 [14884]
 <tibetan>།གཉིས་ནི་ཀུན་ཏུ་ཁྱབ་པ་སྟེ།
 <literal>two all pervading
-<liturgical><prose>Two all-pervading, || 70 ||
+<liturgical><prose>Two all-pervading,
 
 [14885]
 <tibetan>།རིག་པའི་རང་རྩལ་སྦྱོང་བར་བྱེད།
@@ -5357,7 +5357,7 @@ The draft in need of review is:
 [14890]
 <tibetan>།བཞི་ནི་གཡོན་དུ་འགྲོ་བ་སྟེ།
 <literal>four left-to going
-<liturgical><prose>Four left go,
+<liturgical><prose>Four left go, || 14890 ||
 
 [14891]
 <tibetan>།ལས་ཀྱི་སྟོབས་ནི་སྐྱེད་པར་བྱེད།
@@ -5377,7 +5377,7 @@ The draft in need of review is:
 [14894]
 <tibetan>།འགྱུ་བའི་རླུང་ནི་གཉིས་གཉིས་སོ།
 <literal>moving-of wind two two
-<liturgical><prose>Moving wind two two. || 80 ||
+<liturgical><prose>Moving wind two two.
 
 [14895]
 <tibetan>།ལྷག་མ་འགྱུ་བའི་དངས་མའོ།
@@ -5407,7 +5407,7 @@ The draft in need of review is:
 [14900]
 <tibetan>།ཤེས་པའི་དངས་མ་རེ་རེ་ལ།
 <literal>knowing-of essence each-at
-<liturgical><prose>Consciousness essence each,
+<liturgical><prose>Consciousness essence each, || 14900 ||
 
 [14901]
 <tibetan>།འགྱུ་བའི་རྩལ་ནི་དྲུག་དྲུག་གོ
@@ -5427,7 +5427,7 @@ The draft in need of review is:
 [14904]
 <tibetan>།ཕྲ་དང་ཕྱེ་དང་ཕྱོགས་ལ་གནས།
 <literal>subtle coarse direction-at abides
-<liturgical><verse>Subtle divided direction located. || 90 ||
+<liturgical><verse>Subtle divided direction located.
 
 [14905]
 <tibetan>།འགྱུ་དང་སྟོང་དང་མཐར་ཕྱིན་ནོ།
@@ -5457,7 +5457,7 @@ The draft in need of review is:
 [14910]
 <tibetan>།གྱེས་པས་ས་ལ་རྣམ་པར་གྲོལ།
 <literal>separate-by-means-of earth-at liberated
-<liturgical><prose>Divide earth liberate.
+<liturgical><prose>Divide earth liberate. || 14910 ||
 
 [14911]
 <tibetan>།བསྟན་པའི་ལྷ་མོ་མི་གཡོ་ཞིང༌།
@@ -5477,7 +5477,7 @@ The draft in need of review is:
 [14914]
 <tibetan>།ལག་ན་རླུང་གི་བུམ་པ་ཐོགས།
 <literal>hand-at wind-of vase holds
-<liturgical><prose>Hand wind vase holds. || 100 ||
+<liturgical><prose>Hand wind vase holds.
 
 [14915]
 <tibetan>།འབྱུང་བར་བྱེད་ཅིང་གནས་པའོ།
@@ -5507,7 +5507,7 @@ The draft in need of review is:
 [14920]
 <tibetan>།འཕྲོ་ཞིང་འཕེན་པར་བྱེད་པའོ།
 <literal>radiate throw does
-<liturgical><prose>Radiate throw doing.
+<liturgical><prose>Radiate throw doing. || 14920 ||
 
 [14921]
 <tibetan>།ལྷ་མོ་ཆེན་མོ་འདེགས་བྱེད་མ།
@@ -5527,7 +5527,7 @@ The draft in need of review is:
 [14924]
 <tibetan>།སྤྲོས་དང་སྤྲོས་པའི་ལས་བྱེད་མ།
 <literal>elaborate elaborate-of action do
-<liturgical><prose>Elaborate and elaborate action doing, || 110 ||
+<liturgical><prose>Elaborate and elaborate action doing,
 
 [14925]
 <tibetan>།བསྡུ་དང་འཛིན་དང་སྤྲོ་བའོ།
@@ -5557,7 +5557,7 @@ The draft in need of review is:
 [14930]
 <tibetan>ཡང་དེ་ལས།
 <literal>also that-from
-<liturgical><prose>Also that-from,
+<liturgical><prose>Also that-from, || 14930 ||
 
 [14931]
 <tibetan>མགྲིན་པ་འཁོར་ལོའི་རྩ་རྣམས་ནི།
@@ -5577,7 +5577,7 @@ The draft in need of review is:
 [14934]
 <tibetan>།མེ་སྟག་ལྟ་བུའི་རྩ་རེ་སྟེ།
 <literal>fire-streak like channel one
-<liturgical><prose>Fire-streak like channel one, || 120 ||
+<liturgical><prose>Fire-streak like channel one,
 
 [14935]
 <tibetan>།གཡས་སུ་རྣམ་པར་འཁྱིལ་བ་ནི།
@@ -5607,7 +5607,7 @@ The draft in need of review is:
 [14940]
 <tibetan>།གཡོན་ན་ལོང་ཁ་ལྟ་བུ་སྟེ།
 <literal>left-in hollow like
-<liturgical><prose>Left mitten-like,
+<liturgical><prose>Left mitten-like, || 14940 ||
 
 [14941]
 <tibetan>།རྩེ་ཆུང་གཡོན་པ་ཞེས་བྱ་བ།
@@ -5627,7 +5627,7 @@ The draft in need of review is:
 [14944]
 <tibetan>སིང་འབྲུ་ལྟ་བུའི་རྩ་རེ་སྟེ།
 <literal>pea-seed like channel one
-<liturgical><prose>Heart-seed like channel one, || 130 ||
+<liturgical><prose>Heart-seed like channel one,
 
 [14945]
 <tibetan>དཔུང་པའི་མགོ་ནི་གཡས་གཡོན་ནོ།
@@ -5657,7 +5657,7 @@ The draft in need of review is:
 [14950]
 <tibetan>།འཁོར་ལོའི་ལྷག་མའི་འདབ་མ་ལ།
 <literal>wheel's remainder leaf-to
-<liturgical><prose>Wheel's remainder petal-to,
+<liturgical><prose>Wheel's remainder petal-to, || 14950 ||
 
 [14951]
 <tibetan>།ཆུ་ཡི་ཐིགས་པ་ལྟ་བུ་ཡི།
@@ -5677,7 +5677,7 @@ The draft in need of review is:
 [14954]
 <tibetan>།གཡས་གཡོན་གཉིས་ན་རེ་རེའོ།
 <literal>right left two-in one one
-<liturgical><prose>Right left one one. || 140 ||
+<liturgical><prose>Right left one one.
 
 [14955]
 <tibetan>།དེ་ཡི་ལྟག་མའི་འདབ་མ་ལས།
@@ -5707,7 +5707,7 @@ The draft in need of review is:
 [14960]
 <tibetan>།ཉི་ཟེར་ལྟ་བུའི་རྩ་རེ་སྟེ།
 <literal>sun-ray like channel one
-<liturgical><prose>Sun-ray like channel one,
+<liturgical><prose>Sun-ray like channel one, || 14960 ||
 
 [14961]
 <tibetan>།དཔུང་པ་ཡི་ནི་ཟུར་ལ་གནས།
@@ -5727,7 +5727,7 @@ The draft in need of review is:
 [14964]
 <tibetan>།རྩ་ཡི་རྣམ་པ་ཡིན་པར་གྲགས།
 <literal>channel form is famous
-<liturgical><prose>Channel aspects called. || 150 ||
+<liturgical><prose>Channel aspects called.
 
 [14965]
 <tibetan>།ཞེས་སོ།
@@ -5757,7 +5757,7 @@ The draft in need of review is:
 [14970]
 <tibetan>།རྩ་ཡི་རྣམ་པ་དེ་དག་ན།
 <literal>channel form that plural-in
-<liturgical><prose>Channel form those,
+<liturgical><prose>Channel form those, || 14970 ||
 
 [14971]
 <tibetan>།འགྱུ་བའི་རླུང་དང་ཐིག་ལེའི་རྟེན།
@@ -5777,7 +5777,7 @@ The draft in need of review is:
 [14974]
 <tibetan>།བསྐྱིལ་དུ་རུང་བའི་རླུང་བཞི་ཡོད།
 <literal>suitable-to-circle wind four exist
-<liturgical><prose>Able-to-circle wind four exist. || 160 ||
+<liturgical><prose>Able-to-circle wind four exist.
 
 [14975]
 <tibetan>།གནས་པས་ཐུབ་པའི་ཐིག་ལེ་བཞི།
@@ -5807,7 +5807,7 @@ The draft in need of review is:
 [14980]
 <tibetan>།འཁུ་ལྡོག་མེད་པའི་རླུང་བཞི་ཡོད།
 <literal>back-forth not wind four exist
-<liturgical><prose>Back-forth-not wind four exist,
+<liturgical><prose>Back-forth-not wind four exist, || 14980 ||
 
 [14981]
 <tibetan>།གསང་བའི་ཐིག་ལེ་བཞི་གནས་སོ།
@@ -5827,7 +5827,7 @@ The draft in need of review is:
 [14984]
 <tibetan>།གསེང་དུ་རུང་བ་བརྒྱད་ཡིན་ནོ།
 <literal>/empty-in capable eight is no/
-<liturgical><break><prose> Able-to-open eight. || 170 ||
+<liturgical><break><prose> Able-to-open eight.
 
 [14985]
 <tibetan>།གསྲེགས་ན་སྐྱོན་འགྱུར་ལྷག་མའོ།
@@ -5857,7 +5857,7 @@ The draft in need of review is:
 [14990]
 <tibetan>།བཞི་པ་རྩ་གནས་འདིར་ནད་བྱུང་ན་བཅོས་སུ་རུང་བའི་ཐབས་ནི།
 <literal>/fourth nadi-abiding here disease arisen if cure capable method is/
-<liturgical><prose>Fourth: channel locations here disease arising remedy method.
+<liturgical><prose>Fourth: channel locations here disease arising remedy method. || 14990 ||
 
 [14991]
 <tibetan>གནད་ཡིག་ལས།
@@ -5877,7 +5877,7 @@ The draft in need of review is:
 [14994]
 <tibetan>།འདི་གཏར་མཇིང་བ་རེངས་ལ་ཕན།
 <literal>/this bloodletting neck-paralysis for benefits/
-<liturgical><prose>This bloodletting neck stiffness benefit. || 180 ||
+<liturgical><prose>This bloodletting neck stiffness benefit.
 
 [14995]
 <tibetan>།གཡོན་ན་ཨོ་གནས་རྩེ་ཆུང་གཡོན།
@@ -5907,7 +5907,7 @@ The draft in need of review is:
 [15000]
 <tibetan>།འདི་གཏར་བས་གློ་ནི་ཚ་ལ་ཕན།
 <literal>/this bloodletting by-means-of lung hot for benefits/
-<liturgical><prose>This bloodletting lung heat benefit.
+<liturgical><prose>This bloodletting lung heat benefit. || 15000 ||
 
 [15001]
 <tibetan>།གཡོན་ན་ཡི་གེ་ཨ་གནས་ཏེ།
@@ -5927,7 +5927,7 @@ The draft in need of review is:
 [15004]
 <tibetan>།དཔུང་པའི་ཉི་དཀྱིལ་གཡས་པ་ན།
 <literal>/shoulder sun-center right in/
-<liturgical><prose>Shoulder sun-center right, || 190 ||
+<liturgical><prose>Shoulder sun-center right,
 
 [15005]
 <tibetan>།ཨ་གནས་དུག་རྩ་ཡོན་པོ་ཞེས།
@@ -5957,7 +5957,7 @@ The draft in need of review is:
 [15010]
 <tibetan>།འདི་མིང་སྦལ་རྩ་ནག་པོ་ཞེས།
 <literal>/this name toad-nadi black called/
-<liturgical><prose>This name Sbal-channel black called,
+<liturgical><prose>This name Sbal-channel black called, || 15010 ||
 
 [15011]
 <tibetan>།གཏར་བས་རྐེད་ནད་ཀུན་ལ་ཕན།
@@ -5977,7 +5977,7 @@ The draft in need of review is:
 [15014]
 <tibetan>།འདི་གཏར་རྩ་ཡི་ནད་རྣམས་སེལ།
 <literal>/this bloodletting nadi of disease all removes/
-<liturgical><prose>This bloodletting channel diseases dispel. || 200 ||
+<liturgical><prose>This bloodletting channel diseases dispel.
 
 [15015]
 <tibetan>།ཨཱོ་ནི་སོག་པའི་མེ་ལོང་དཀྱིལ།
@@ -6007,7 +6007,7 @@ The draft in need of review is:
 [15020]
 <tibetan>།འདི་བསྲེག་དཔུང་པ་བྱུང་བ་སེལ།
 <literal>/this burning shoulder arisen removes/
-<liturgical><prose>This burning shoulder swelling dispel.
+<liturgical><prose>This burning shoulder swelling dispel. || 15020 ||
 
 [15021]
 <tibetan>།གཡོན་ཨི་གཤེན་ཐག་གཡོན་པ་སྟེ།
@@ -6027,7 +6027,7 @@ The draft in need of review is:
 [15024]
 <tibetan>།ལཱི་ནི་རྩེ་མཚོན་གཡས་པ་ན།
 <literal>/lI is fingertip right in/
-<liturgical><prose>LI tip-weapon right, || 210 ||
+<liturgical><prose>LI tip-weapon right,
 
 [15025]
 <tibetan>།གཡོན་ན་ལི་སྟེ་སྟག་དཀྱིལ་ཨེ།
@@ -6057,7 +6057,7 @@ The draft in need of review is:
 [15030]
 <tibetan>།ཕྱོགས་དང་ཐོ་ཕྱི་དེ་ནས་ནི།
 <literal>/direction and forehead-front from then/
-<liturgical><prose>Direction and outside that-from,
+<liturgical><prose>Direction and outside that-from, || 15030 ||
 
 [15031]
 <tibetan>།དབུགས་དང་བཅས་ཏེ་བཟླས་པས་འགྲུབ།
@@ -6077,7 +6077,7 @@ The draft in need of review is:
 [15034]
 <tibetan>།ཅེས་སོ།
 <literal>/thus/
-<liturgical><prose>Thus spoken. || 220 ||
+<liturgical><prose>Thus spoken.
 
 [15035]
 <tibetan>།བཞི་པ་བདེ་ཆེན་འཁོར་ལོའི་རིམ་པ་སོ་སོར་བཤད་པ་ལའང་བཞི་ལས།
@@ -6107,7 +6107,7 @@ The draft in need of review is:
 [15040]
 <tibetan>།སྤྱི་གཙུག་བདེ་བའི་འཁོར་ལོ་ལ།
 <literal>/crown bliss chakra to/
-<liturgical><prose>Crown bliss wheel,
+<liturgical><prose>Crown bliss wheel, || 15040 ||
 
 [15041]
 <tibetan>།ཤིན་ཏུ་ཆེ་བའི་རྩ་རྣམས་ནི།
@@ -6132,7 +6132,7 @@ The draft in need of review is:
 [15045]
 <tibetan>།འདུ་བའི་རྩ་ནི་ཉི་ཤུ་བཞི།
 <literal>/gather nadi is twenty-four/
-<liturgical><prose>Gathering channels twenty-four, || 10 ||
+<liturgical><prose>Gathering channels twenty-four,
 
 [15046]
 <tibetan>།རྣམ་པར་ནགས་ཤིང་འཇུ་བའོ།
@@ -6157,7 +6157,7 @@ The draft in need of review is:
 [15050]
 <tibetan>།རིག་པ་ལ་ནི་ཉི་ཤུ་སྟེ།
 <literal>/awareness to is twenty/
-<liturgical><prose>Awareness twenty,
+<liturgical><prose>Awareness twenty, || 15050 ||
 
 [15051]
 <tibetan>།ཐིག་ལེ་སུམ་ཅུ་གཉིས་ཡིན་ནོ།
@@ -6182,7 +6182,7 @@ The draft in need of review is:
 [15055]
 <tibetan>།མ་རིག་པ་ཡང་བཅུ་ཡིན་ནོ།
 <literal>/non-awareness also ten is no/
-<liturgical><prose>Ignorance also ten. || 20 ||
+<liturgical><prose>Ignorance also ten.
 
 [15056]
 <tibetan>།ཡིད་ནི་རྣམ་པ་བཅུ་གཉིས་སོ།
@@ -6207,7 +6207,7 @@ The draft in need of review is:
 [15060]
 <tibetan>།དྲུག་ནི་འདོད་ཆགས་བད་ཀན་རྩ།
 <literal>/six is attachment phlegm nadi/
-<liturgical><prose>Six desire phlegm channels,
+<liturgical><prose>Six desire phlegm channels, || 15060 ||
 
 [15061]
 <tibetan>།དྲུག་ནི་གཏི་མུག་མཁྲིས་པའི་རྩ།
@@ -6232,7 +6232,7 @@ The draft in need of review is:
 [15065]
 <tibetan>།མེ་ལོང་ཡེ་ཤེས་བཅུ་ཡིན་ནོ།
 <literal>/mirror wisdom ten is no/
-<liturgical><prose>Mirror wisdom ten, || 30 ||
+<liturgical><prose>Mirror wisdom ten,
 
 [15066]
 <tibetan>།མཉམ་ཉིད་ཡེ་ཤེས་དེ་ཙམ་མོ།
@@ -6257,7 +6257,7 @@ The draft in need of review is:
 [15070]
 <tibetan>།རྩ་ནི་གཉིས་གཉིས་དག་ཏུ་སྟེ།
 <literal>/nadi is two-two as is/
-<liturgical><prose>Channels two two,
+<liturgical><prose>Channels two two, || 15070 ||
 
 [15071]
 <tibetan>།གཉིས་པ་རྩ་ཡི་སྐུ་ཡིན་ནོ།
@@ -6282,7 +6282,7 @@ The draft in need of review is:
 [15075]
 <tibetan>།དེ་བཞིན་གཉིས་ནི་ལོག་པ་གནས།
 <literal>/likewise two is reverse abides/
-<liturgical><prose>Likewise two reverse located, || 40 ||
+<liturgical><prose>Likewise two reverse located,
 
 [15076]
 <tibetan>།གཉིས་ན་མི་འགྱུར་རྡོ་རྗེའི་སྐུ།
@@ -6307,7 +6307,7 @@ The draft in need of review is:
 [15080]
 <tibetan>།ཞེན་མེད་དག་ནི་གཉིས་ནའོ།
 <literal>/attachment-not pure is two in/
-<liturgical><prose>Attachment-not pure two in,
+<liturgical><prose>Attachment-not pure two in, || 15080 ||
 
 [15081]
 <tibetan>།གཉིས་ནི་གཅིག་པ་ཐིག་ལེ་འོང༌།
@@ -6332,7 +6332,7 @@ The draft in need of review is:
 [15085]
 <tibetan>།གཉིས་ན་སེང་གེ་ལྟ་བུ་གནས།
 <literal>/two in lion like abides/
-<liturgical><prose>Two lion like located, || 50 ||
+<liturgical><prose>Two lion like located,
 
 [15086]
 <tibetan>།དེ་བཞིན་གཉིས་ནི་གླང་ལྟ་བུ།
@@ -6357,7 +6357,7 @@ The draft in need of review is:
 [15090]
 <tibetan>།ལྷག་མ་རྣམས་ན་རེ་རེའོ།
 <literal>/remainder to one-one/
-<liturgical><prose>Remainder each each.
+<liturgical><prose>Remainder each each. || 15090 ||
 
 [15091]
 <tibetan>།ཐིག་ལེའི་རྩ་ནི་སུམ་ཅུ་སྟེ།
@@ -6367,7 +6367,7 @@ The draft in need of review is:
 [15092]
 <tibetan>།བཅུ་ནི་གཞི་ལམ་ཐིག་ལེ་གནས།
 <literal>/ten in base-path drop abides/
-<liturgical><prose>Ten basis path bindu located,
+<liturgical><prose>Ten ground path bindu located,
 
 [15093]
 <tibetan>།བཅུ་ནི་སྟོང་པའི་ཐིག་ལེ་སྟེ།
@@ -6382,7 +6382,7 @@ The draft in need of review is:
 [15095]
 <tibetan>།འབྱུང་བའི་རྩ་ནི་ལྔ་བཅུ་ན།
 <literal>/elements nadi is fifty in/
-<liturgical><prose>Element channels fifty: || 60 ||
+<liturgical><prose>Element channels fifty:
 
 [15096]
 <tibetan>།བཅུ་ནི་རླུང་གི་འཛིན་བྱེད་དབུགས།
@@ -6407,7 +6407,7 @@ The draft in need of review is:
 [15100]
 <tibetan>།བཅུ་ན་ནམ་མཁའི་སྤོར་བྱེད་སེམས།
 <literal>ten-in space send mind
-<liturgical><prose>Ten space's scatterer mind.
+<liturgical><prose>Ten space's scatterer mind. || 15100 ||
 
 [15101]
 <tibetan>།ཤེས་རབ་རྩ་ནི་ཉི་ཤུ་བརྒྱད།
@@ -6432,7 +6432,7 @@ The draft in need of review is:
 [15105]
 <tibetan>།ལྔ་ན་སྐྱོད་པར་བྱེད་པའོ།
 <literal>five-in move does
-<liturgical><prose>Five moving doing. || 70 ||
+<liturgical><prose>Five moving doing.
 
 [15106]
 <tibetan>།སེམས་ཀྱི་རྩ་ནི་བཅུ་རྣམས་ན།
@@ -6457,7 +6457,7 @@ The draft in need of review is:
 [15110]
 <tibetan>།གཉིས་ན་རྩ་བའི་མ་རིག་གནས།
 <literal>two-in root ignorance located
-<liturgical><prose>Two root ignorance located,
+<liturgical><prose>Two root ignorance located, || 15110 ||
 
 [15111]
 <tibetan>།གཉིས་ན་འཁྲུལ་པའི་མ་རིག་གནས།
@@ -6482,7 +6482,7 @@ The draft in need of review is:
 [15115]
 <tibetan>།ཡིད་ནི་རྣམ་པ་བཅུ་གཉིས་ཏེ།
 <literal>mind form twelve
-<liturgical><prose>Mind twelve aspects: || 80 ||
+<liturgical><prose>Mind twelve aspects:
 
 [15116]
 <tibetan>།ཡིད་རེ་རྩ་ནི་གཉིས་གཉིས་སོ།
@@ -6507,7 +6507,7 @@ The draft in need of review is:
 [15120]
 <tibetan>།ལྔ་ན་གཏི་མུག་རྣམ་པར་གནས།
 <literal>five-in delusion form located
-<liturgical><prose>Five delusion aspects located,
+<liturgical><prose>Five delusion aspects located, || 15120 ||
 
 [15121]
 <tibetan>།བཞི་ན་ཕྲག་དོག་དེ་བཞིན་གནས།
@@ -6532,7 +6532,7 @@ The draft in need of review is:
 [15125]
 <tibetan>།ཞེས་སོ།
 <literal>said
-<liturgical><prose>Thus spoken. || 90 ||
+<liturgical><prose>Thus spoken.
 
 [15126]
 <tibetan>།དེ་དག་གི་རྣམ་གྲངས་དང་བྱེད་ལས་བཤད་ན།
@@ -6557,7 +6557,7 @@ The draft in need of review is:
 [15130]
 <tibetan>།འདུ་དང་ཁྲག་དང་ཤེས་པ་སྟེ།
 <literal>gather and blood and consciousness
-<liturgical><prose>Gather and blood and consciousness,
+<liturgical><prose>Gather and blood and consciousness, || 15130 ||
 
 [15131]
 <tibetan>།གནས་བདུན་པོ་ལ་རེ་རེ་ཞིང༌།
@@ -6582,7 +6582,7 @@ The draft in need of review is:
 [15135]
 <tibetan>།ཤེས་པའི་དངས་མ་སྡུད་པར་བྱེད།
 <literal>consciousness essence gather by-means-of does
-<liturgical><prose>Consciousness essence gathering doing. || 100 ||
+<liturgical><prose>Consciousness essence gathering doing.
 
 [15136]
 <tibetan>།ལྔ་བཅུ་གཡོན་དུ་འགྲོ་བ་སྟེ།
@@ -6607,7 +6607,7 @@ The draft in need of review is:
 [15140]
 <tibetan>།ལྔ་བཅུ་དབུས་ན་གནས་པ་སྟེ།
 <literal>fifty center-in located is
-<liturgical><prose>Fifty center located,
+<liturgical><prose>Fifty center located, || 15140 ||
 
 [15141]
 <tibetan>།རང་རང་ཤེས་པའི་ཆ་འཛིན་ནོ།
@@ -6632,7 +6632,7 @@ The draft in need of review is:
 [15145]
 <tibetan>།སྒོ་ལ་མི་དབྱུང་ཉི་ཤུའོ།
 <literal>door-to not-release twenty
-<liturgical><prose>Door not-open twenty. || 110 ||
+<liturgical><prose>Door not-open twenty.
 
 [15146]
 <tibetan>།དབུགས་ཀྱི་རྟ་བྱེད་སུམ་ཅུའོ།
@@ -6657,7 +6657,7 @@ The draft in need of review is:
 [15150]
 <tibetan>།གྱེན་དུ་སྐྱུག་དང་ཐུར་དུ་འཁྲུ།
 <literal>upward vomit and downward cleanse
-<liturgical><prose>Upward vomit downward disturbed,
+<liturgical><prose>Upward vomit downward disturbed, || 15150 ||
 
 [15151]
 <tibetan>།བར་དུ་འཁྲུག་པར་བྱེད་པ་ཡི།
@@ -6682,7 +6682,7 @@ The draft in need of review is:
 [15155]
 <tibetan>།སྙིང་ཡང་འདར་ཞིང་ལག་པ་འདར།
 <literal>heart also tremble and hand tremble
-<liturgical><prose>Heart also trembling hand trembling, || 120 ||
+<liturgical><prose>Heart also trembling hand trembling,
 
 [15156]
 <tibetan>།མཆི་མ་འཛག་ཅིང་མགོ་བོ་འཁོར།
@@ -6702,12 +6702,12 @@ The draft in need of review is:
 [15159]
 <tibetan>།གཞི་ལ་གནས་པ་དྲུག་ཡིན་ཏེ།
 <literal>base-in located six is
-<liturgical><prose>Basis located six:
+<liturgical><prose>ground located six:
 
 [15160]
 <tibetan>།གནས་དང་སྟོང་དང་འབྱུང་བ་དང༌།
 <literal>place and empty and element and
-<liturgical><prose>Located and empty and elements,
+<liturgical><prose>Located and empty and elements, || 15160 ||
 
 [15161]
 <tibetan>།ལས་ནི་སོ་སོར་བྱེད་པའོ།
@@ -6732,7 +6732,7 @@ The draft in need of review is:
 [15165]
 <tibetan>།དེ་བཞིན་རྩ་ཡི་རྣམ་པ་རྣམས།
 <literal>same channel form plural
-<liturgical><prose>Likewise channel aspects, || 130 ||
+<liturgical><prose>Likewise channel aspects,
 
 [15166]
 <tibetan>།རྒྱུ་ནི་སྟོང་རྒྱུ་འཇུ་བ་ཆེ།
@@ -6757,7 +6757,7 @@ The draft in need of review is:
 [15170]
 <tibetan>།ཤེས་པའི་དངས་མ་རེ་རེ་ལས།
 <literal>consciousness essence one one-from
-<liturgical><prose>Consciousness essence each-from,
+<liturgical><prose>Consciousness essence each-from, || 15170 ||
 
 [15171]
 <tibetan>།ཡེ་ཤེས་རླུང་ནི་གཉིས་གཉིས་སོ།
@@ -6782,7 +6782,7 @@ The draft in need of review is:
 [15175]
 <tibetan>།བདུན་སྟོང་དག་ནི་རྒྱུ་བར་བྱེད།
 <literal>seven-thousand plural move by-means-of does
-<liturgical><prose>Seven-thousand move doing. || 140 ||
+<liturgical><prose>Seven-thousand move doing.
 
 [15176]
 <tibetan>།སྤྱི་གཙུག་བདེ་འཁོར་རྩ་དེ་རྣམས།
@@ -6807,7 +6807,7 @@ The draft in need of review is:
 [15180]
 <tibetan>།འདུས་པས་ཡལ་བའི་ངང་དུ་ཐིམ།
 <literal>gather by-means-of dispersed state-to dissolve
-<liturgical><prose>Gathered relaxed nature dissolve.
+<liturgical><prose>Gathered relaxed nature dissolve. || 15180 ||
 
 [15181]
 <tibetan>།ཞེས་སོ།
@@ -6832,7 +6832,7 @@ The draft in need of review is:
 [15185]
 <tibetan>།ཕྱི་ཡི་ཡན་ལག་འདི་དག་གོ
 <literal>outside limbs this plural
-<liturgical><break><prose> Outer limbs these. || 150 ||
+<liturgical><break><prose> Outer limbs these.
 
 [15186]
 <tibetan>།འཁོར་ལོའི་རིམ་པ་དང་ལྡན་པས།
@@ -6857,7 +6857,7 @@ The draft in need of review is:
 [15190]
 <tibetan>།པདྨ་ལྟ་བུའི་རྩ་ཆེན་དང༌།
 <literal>lotus like channel great and
-<liturgical><verse>Lotus like channel great and,
+<liturgical><verse>Lotus like channel great and, || 15190 ||
 
 [15191]
 <tibetan>།བ་མེན་རྭ་འདྲའི་རྩ་ཉིད་དོ།
@@ -6882,7 +6882,7 @@ The draft in need of review is:
 [15195]
 <tibetan>།རྣམ་པར་འགྱུ་བར་བྱེད་པ་ཡི།
 <literal>form move by-means-of does
-<liturgical><verse>Aspects moving doing, || 160 ||
+<liturgical><verse>Aspects moving doing,
 
 [15196]
 <tibetan>།པདྨ་ལྟ་བུའི་གཡས་གཡོན་དུ།
@@ -6907,7 +6907,7 @@ The draft in need of review is:
 [15200]
 <tibetan>།གཡས་གཡོན་གཉིས་ན་བཞི་བཞིའོ།
 <literal>right left two-in four four
-<liturgical><verse>Right left two four four.
+<liturgical><verse>Right left two four four. || 15200 ||
 
 [15201]
 <tibetan>།ཙཀྲའི་ཕྱི་རིམ་མདུན་མ་ནས།
@@ -6932,7 +6932,7 @@ The draft in need of review is:
 [15205]
 <tibetan>།མ་ཧེའི་ལྕེ་དང་འདྲ་བ་ཞིག
 <literal>buffalo tongue like one
-<liturgical><break><prose> Buffalo tongue like, || 170 ||
+<liturgical><break><prose> Buffalo tongue like,
 
 [15206]
 <tibetan>།དེ་ལས་རྩ་ནི་བཞི་བཅུའོ།
@@ -6957,7 +6957,7 @@ The draft in need of review is:
 [15210]
 <tibetan>།སྦྲང་བུ་ཏྲེ་ལའི་གཟུགས་འདྲ་བའི།
 <literal>bee tail form like
-<liturgical><verse>Bee Trela shape like,
+<liturgical><verse>Bee Trela shape like, || 15210 ||
 
 [15211]
 <tibetan>།རྩ་ཡི་སྡོང་པོ་གཉིས་དག་གནས།
@@ -6982,7 +6982,7 @@ The draft in need of review is:
 [15215]
 <tibetan>།ལྡན་པའི་ཕྱོགས་ནི་ཉེ་བ་ན།
 <literal>joined direction near
-<liturgical><verse>Possessing side near, || 180 ||
+<liturgical><verse>Possessing side near,
 
 [15216]
 <tibetan>།གནས་པའི་རྩ་ནི་རེ་རེའོ།
@@ -7007,7 +7007,7 @@ The draft in need of review is:
 [15220]
 <tibetan>།གྲོག་མོའི་འཁོར་དང་འདྲ་བའོ།
 <literal>ant's wheel like
-<liturgical><verse>Mouse wheel like.
+<liturgical><verse>Mouse wheel like. || 15220 ||
 
 [15221]
 <tibetan>།ལས་བྱེད་རྩ་ནི་གསུམ་ཡོད་དོ།
@@ -7032,7 +7032,7 @@ The draft in need of review is:
 [15225]
 <tibetan>།དེ་ལ་ཡལ་ག་བཅུ་ཡོད་དོ།
 <literal>that-to branch ten exist
-<liturgical><verse>That branches ten exist. || 190 ||
+<liturgical><verse>That branches ten exist.
 
 [15226]
 <tibetan>།ཙཀྲ་དེ་ཡི་གཡས་གཡོན་ནས།
@@ -7057,7 +7057,7 @@ The draft in need of review is:
 [15230]
 <tibetan>།གཡས་གཡོན་གཉིས་ན་རེ་རེ་སྟེ།
 <literal>right left two-in one one
-<liturgical><verse>Right left one one.
+<liturgical><verse>Right left one one. || 15230 ||
 
 [15231]
 <tibetan>།གཡས་ན་རྣམ་པར་གནས་པ་ནི།
@@ -7082,7 +7082,7 @@ The draft in need of review is:
 [15235]
 <tibetan>།དེ་གཉིས་ལ་ཡང་ལྔ་ལྔའོ།
 <literal>that two-to also five five
-<liturgical><verse>Those two five five. || 200 ||
+<liturgical><verse>Those two five five.
 
 [15236]
 <tibetan>།གཡོན་གྱི་རྣམ་པར་གནས་པ་ནི།
@@ -7107,7 +7107,7 @@ The draft in need of review is:
 [15240]
 <tibetan>།ཙཀྲ་དེ་ཡི་དབུས་ཉིད་ནས།
 <literal>wheel that's center-from
-<liturgical><verse>Wheel that center-from,
+<liturgical><verse>Wheel that center-from, || 15240 ||
 
 [15241]
 <tibetan>།དཔྲལ་བའི་གཡས་གཡོན་གཉིས་པོ་ལ།
@@ -7132,7 +7132,7 @@ The draft in need of review is:
 [15245]
 <tibetan>།ལག་སོར་ལྟ་བུའི་རྩ་རྣམས་ནི།
 <literal>finger like channels plural
-<liturgical><verse>Finger like channels, || 210 ||
+<liturgical><verse>Finger like channels,
 
 [15246]
 <tibetan>།མིག་་གི་ཕུགས་ཀྱི་གཡས་གཡོན་ན།
@@ -7157,7 +7157,7 @@ The draft in need of review is:
 [15250]
 <tibetan>།ཙཀྲ་དེ་ཡི་མདུན་རྒྱབ་ནས།
 <literal>wheel that's front back-from
-<liturgical><verse>Wheel that front back-from,
+<liturgical><verse>Wheel that front back-from, || 15250 ||
 
 [15251]
 <tibetan>།ཟླ་བ་ལྟ་བུའི་རྩ་རེ་སྟེ།
@@ -7182,7 +7182,7 @@ The draft in need of review is:
 [15255]
 <tibetan>།དེ་ནས་འཁོར་ལོའི་མཚམས་ནས་ནི།
 <literal>that-from wheel's space-from
-<liturgical><verse>That-from wheel's intervals-from, || 220 ||
+<liturgical><verse>That-from wheel's intervals-from,
 
 [15256]
 <tibetan>།ཉ་མིག་ལྟ་བུའི་རྩ་ཆེན་ནི།
@@ -7207,7 +7207,7 @@ The draft in need of review is:
 [15260]
 <tibetan>།དེ་གཉིས་ལ་ནི་ལྔ་ལྔའོ།
 <literal>that two-to five five
-<liturgical><verse>Those two five five.
+<liturgical><verse>Those two five five. || 15260 ||
 
 [15261]
 <tibetan>།འཁོར་ལོ་རིམ་པ་ལྔ་པ་ལས།
@@ -7232,7 +7232,7 @@ The draft in need of review is:
 [15265]
 <tibetan>།གཅིག་ནི་པདྨ་ལྟ་བུ་སྟེ།
 <literal>one lotus like
-<liturgical><verse>One lotus like, || 230 ||
+<liturgical><verse>One lotus like,
 
 [15266]
 <tibetan>།ལྕེ་ཡི་སྟེང་ན་རྣམ་པར་གནས།
@@ -7257,7 +7257,7 @@ The draft in need of review is:
 [15270]
 <tibetan>།དེ་དག་ལི་ནི་བཅུ་བཅུའོ།
 <literal>that plural li ten ten
-<liturgical><verse>Those ten ten.
+<liturgical><verse>Those ten ten. || 15270 ||
 
 [15271]
 <tibetan>།དེ་ཡི་རྩ་ཡི་སྟོང་ཟླ་ནི།
@@ -7282,7 +7282,7 @@ The draft in need of review is:
 [15275]
 <tibetan>།དེ་དག་ལ་ཡང་བཅུ་བཅུའོ།
 <literal>that plural-to also ten ten
-<liturgical><verse>Those ten ten. || 240 ||
+<liturgical><verse>Those ten ten.
 
 [15276]
 <tibetan>།རྩ་ཡི་རྣམ་པ་དེ་དག་ནི།
@@ -7307,7 +7307,7 @@ The draft in need of review is:
 [15280]
 <tibetan>།ཤེས་པའི་རྟ་དང་དངས་མ་ནི།
 <literal>consciousness horse and essence is
-<liturgical><verse>Consciousness mount and essence:
+<liturgical><verse>Consciousness mount and essence: || 15280 ||
 
 [15281]
 <tibetan>།རྣམ་པ་ལྔ་ལྔར་ཤེས་པར་བྱ།
@@ -7332,7 +7332,7 @@ The draft in need of review is:
 [15285]
 <tibetan>།ཁོང་ཁྲོ་ལས་ནི་འགྱུར་བ་སྟེ།
 <literal>anger from become
-<liturgical><verse>Anger actions move, || 250 ||
+<liturgical><verse>Anger actions move,
 
 [15286]
 <tibetan>།དེ་དག་རྣམས་ཀྱི་མཚན་ཉིད་ནི།
@@ -7357,7 +7357,7 @@ The draft in need of review is:
 [15290]
 <tibetan>།རླུང་ལ་རྣམ་པ་གཉིས་ཡིན་ཏེ།
 <literal>wind-to form two is
-<liturgical><verse>Wind two aspects:
+<liturgical><verse>Wind two aspects: || 15290 ||
 
 [15291]
 <tibetan>།ཡེ་ཤེས་རླུང་དང་ལས་རླུང་ངོ༌།
@@ -7382,7 +7382,7 @@ The draft in need of review is:
 [15295]
 <tibetan>།ཐིག་ལེ་དངོས་ཀྱི་རླུང་ཡིན་ནོ།
 <literal>drop actual wind is
-<liturgical><verse>Bindu actual wind. || 260 ||
+<liturgical><verse>Bindu actual wind.
 
 [15296]
 <tibetan>།ཐིག་ལེ་ལ་ཡང་གཉིས་ཡིན་ནོ།
@@ -7407,7 +7407,7 @@ The draft in need of review is:
 [15300]
 <tibetan>།ཡེ་ཤེས་ལ་ནི་གཉིས་ཡིན་ནོ།
 <literal>wisdom-to two is
-<liturgical><verse>Wisdom two:
+<liturgical><verse>Wisdom two: || 15300 ||
 
 [15301]
 <tibetan>།རླུང་གི་གདངས་དང་འོད་ཀྱི་རྒྱུ།
@@ -7432,7 +7432,7 @@ The draft in need of review is:
 [15305]
 <tibetan>།སྡུད་བྱེད་ཡིད་དང་ཤེས་རབ་བོ།
 <literal>gather mind and wisdom
-<liturgical><verse>Gathering mind and prajna. || 270 ||
+<liturgical><verse>Gathering mind and prajna.
 
 [15306]
 <tibetan>།དངས་མ་ཡང་ནི་རྣམ་གཉིས་སོ།
@@ -7457,7 +7457,7 @@ The draft in need of review is:
 [15310]
 <tibetan>།ཞེས་སོ།
 <literal>said
-<liturgical><prose>Thus spoken.
+<liturgical><prose>Thus spoken. || 15310 ||
 
 [15311]
 <tibetan>།གསུམ་པ་གནད་བྱེ་བྲག་ཏུ་བསྟན་པའང༌།
@@ -7482,7 +7482,7 @@ The draft in need of review is:
 [15315]
 <tibetan>།ཀུན་ལ་སྣང་བ་ཡིན་པ་ལ།
 <literal>all-to appearance is
-<liturgical><prose>All appearing, || 280 ||
+<liturgical><prose>All appearing,
 
 [15316]
 <tibetan>།རྩ་ཡི་རྣམ་པ་དེ་དག་ལ།
@@ -7507,7 +7507,7 @@ The draft in need of review is:
 [15320]
 <tibetan>།ཤར་དུ་རུང་བའི་རྩ་བཞི་ཡོད།
 <literal>suitable-to-open channel four exist
-<liturgical><prose>Able-to-cut channel four exist,
+<liturgical><prose>Able-to-cut channel four exist, || 15320 ||
 
 [15321]
 <tibetan>།སྣང་བའི་ཐིག་ལེ་བཞི་གནས་པའོ།
@@ -7532,7 +7532,7 @@ The draft in need of review is:
 [15325]
 <tibetan>།རབ་ཏུ་བརྟན་པའི་རྩ་ལྔ་ལས།
 <literal>very stable channel five-from
-<liturgical><prose>Very stable channel five-from, || 290 ||
+<liturgical><prose>Very stable channel five-from,
 
 [15326]
 <tibetan>།ཤེས་པའི་དངས་མ་རེ་རེའོ།
@@ -7557,7 +7557,7 @@ The draft in need of review is:
 [15330]
 <tibetan>།ཆ་དང་ཆ་ཡི་སྣང་བ་ལས།
 <literal>portion and portion appearance-from
-<liturgical><prose>Parts and parts appearing-from,
+<liturgical><prose>Parts and parts appearing-from, || 15330 ||
 
 [15331]
 <tibetan>།འདི་དག་རྣམས་ནི་རྫོགས་པའོ།
@@ -7582,12 +7582,12 @@ The draft in need of review is:
 [15335]
 <tibetan>།འཇུག་པའི་རླུང་ནི་དེ་དག་ལས།
 <literal>enter wind that plural-from
-<liturgical><prose>Entering wind those-from, || 300 ||
+<liturgical><prose>Entering wind those-from,
 
 [15336]
 <tibetan>།ལྷག་མ་རྣམས་ནི་གཞི་ལ་གནས།
 <literal>remainder plural base-in located
-<liturgical><prose>Remainder basis located.
+<liturgical><prose>Remainder ground located.
 
 [15337]
 <tibetan>།རྩ་ཡི་རྣམ་པ་དེ་དག་ལ།
@@ -7607,7 +7607,7 @@ The draft in need of review is:
 [15340]
 <tibetan>།རྩ་དང་རླུང་གི་ཆ་དང་ནི།
 <literal>channel and wind portion and
-<liturgical><prose>Channel and wind parts and,
+<liturgical><prose>Channel and wind parts and, || 15340 ||
 
 [15341]
 <tibetan>།འཁྲུལ་པའི་རླུང་ཡང་དེ་ཙམ་མོ།
@@ -7632,7 +7632,7 @@ The draft in need of review is:
 [15345]
 <tibetan>།སྣང་བ་དང་ནི་མི་སྣང་བའི།
 <literal>appearance and not-appearance
-<liturgical><prose>Appearing and not-appearing, || 310 ||
+<liturgical><prose>Appearing and not-appearing,
 
 [15346]
 <tibetan>།འཁྲུལ་པའི་རྟེན་ཡང་དེ་ཙམ་མོ།
@@ -7657,7 +7657,7 @@ The draft in need of review is:
 [15350]
 <tibetan>།མ་བསྲེགས་སྐྱོན་འགྱུར་ཉི་ཤུའོ།
 <literal>not-burn fault become twenty
-<liturgical><prose>Not-burned defect changing twenty.
+<liturgical><prose>Not-burned defect changing twenty. || 15350 ||
 
 [15351]
 <tibetan>།ཞེས་སོ།
@@ -7682,7 +7682,7 @@ The draft in need of review is:
 [15355]
 <tibetan>།ཡི་གེ་ཨ་ནི་གནས་པ་སྟེ།
 <literal>/letter a/located pa and/
-<liturgical><prose>Letter A located, || 320 ||
+<liturgical><prose>Letter A located,
 
 [15356]
 <tibetan>།སྨན་སྐད་གཉན་གྱི་རེ་ཐག་ཡིན།
@@ -7707,7 +7707,7 @@ The draft in need of review is:
 [15360]
 <tibetan>།འདི་མིང་བོ་དྷི་གཡས་པ་ཞེས།
 <literal>/'di name side right pa called/
-<liturgical><prose>This name Bodhi right called,
+<liturgical><prose>This name Bodhi right called, || 15360 ||
 
 [15361]
 <tibetan>།འདི་གཏར་གཞོགས་གཡས་ན་ལ་ཕན།
@@ -7732,7 +7732,7 @@ The draft in need of review is:
 [15365]
 <tibetan>།དེ་ནས་སོར་བཞི་མཚོག་མའི་སྟེང༌།
 <literal>/then finger-four shangshu steng*/
-<liturgical><prose>That-from finger four top above, || 330 ||
+<liturgical><prose>That-from finger four top above,
 
 [15366]
 <tibetan>།ཀི་གནས་རལ་མིག་ཆེན་མོ་ཞེས།
@@ -7757,7 +7757,7 @@ The draft in need of review is:
 [15370]
 <tibetan>།འདི་གཏར་ལྡན་གཡས་ནད་ལ་ཕན།
 <literal>/'di bloodletting ldan right disease to benefit/
-<liturgical><prose>This bloodletting shoulder right disease benefit.
+<liturgical><prose>This bloodletting shoulder right disease benefit. || 15370 ||
 
 [15371]
 <tibetan>།དེ་འོག་ཚོན་གང་ཀླུ་ཡིག་སྟེ།
@@ -7782,7 +7782,7 @@ The draft in need of review is:
 [15375]
 <tibetan>།ཀྱེཧྱ་གནས་རལ་མིག་ཆུང་ངུ་ཞེས།
 <literal>/kyeh+ya located eyelid small called/
-<liturgical><prose>KYE located Ralmiq Chung called, || 340 ||
+<liturgical><prose>KYE located Ralmiq Chung called,
 
 [15376]
 <tibetan>།འདི་གཏར་མིག་གི་ནད་ལ་ཕན།
@@ -7807,7 +7807,7 @@ The draft in need of review is:
 [15380]
 <tibetan>།དེ་ཡི་གཡོན་ནས་ཚོན་གང་ན།
 <literal>/that left from finger-span at/
-<liturgical><prose>That's left finger-width-from,
+<liturgical><prose>That's left finger-width-from, || 15380 ||
 
 [15381]
 <tibetan>།ཀེ་གནས་མཁྲིས་པའི་དོང་བུ་ཞེས།
@@ -7832,7 +7832,7 @@ The draft in need of review is:
 [15385]
 <tibetan>།འདི་གཏར་ཆང་གི་ནད་ལ་ཕན
 <literal>/'di bloodletting chang disease to benefit
-<liturgical><break><prose> This bloodletting leprosy disease benefit || 350 ||
+<liturgical><break><prose> This bloodletting leprosy disease benefit
 
 [15386]
 <tibetan>།དེ་གཡས་མིག་གི་ཕུགས་ནས་གྱེན།
@@ -7857,7 +7857,7 @@ The draft in need of review is:
 [15390]
 <tibetan>།མིག་རྩ་འཕར་མ་ཞེས་བྱ་བ།
 <literal>/eye-vein 'phar ma called ba/
-<liturgical><prose>Eye-channel flying called,
+<liturgical><prose>Eye-channel flying called, || 15390 ||
 
 [15391]
 <tibetan>།འདི་གཏར་ཚད་པའི་ནད་ལ་ཕན།
@@ -7882,7 +7882,7 @@ The draft in need of review is:
 [15395]
 <tibetan>།དེ་ནས་ཕར་བཅལ་རྩེ་འདང་གཡས།
 <literal>/then far bcal tip '/ right/
-<liturgical><prose>That-from far stretched tip-dagger right, || 360 ||
+<liturgical><prose>That-from far stretched tip-dagger right,
 
 [15396]
 <tibetan>།ཐ་གནས་གཏར་བས་ཀླད་ནད་ཕན།
@@ -7907,7 +7907,7 @@ The draft in need of review is:
 [15400]
 <tibetan>།འདི་མིང་མིག་རྩ་ལྡུམ་བུ་ཡིན།
 <literal>/'di name eye-vein ldum bu is/
-<liturgical><prose>This name eye-channel Lumpu,
+<liturgical><prose>This name eye-channel Lumpu, || 15400 ||
 
 [15401]
 <tibetan>།འདི་གཏར་མིག་རྩའི་ནད་ལ་ཕན།
@@ -7932,7 +7932,7 @@ The draft in need of review is:
 [15405]
 <tibetan>ལྕེ་སྟེང་གཡས་ཕྱོགས་ཡ་རྐན་ཕྱོགས།
 <literal>tongue top right-direction ya-kan direction/
-<liturgical><prose>Tongue above right side palate, || 370 ||
+<liturgical><prose>Tongue above right side palate,
 
 [15406]
 <tibetan>།དཀར་བའི་་རྩ་ཆེན་གཉིས་ན་ནི།
@@ -7957,7 +7957,7 @@ The draft in need of review is:
 [15410]
 <tibetan>།རྣལ་འབྱོར་པ་ཡིས་གདོན་ཞིང་བཟླས།
 <literal>/yogin by-means-of recite bzlas/
-<liturgical><prose>Yogi expelling reciting,
+<liturgical><prose>Yogi expelling reciting, || 15410 ||
 
 [15411]
 <tibetan>།འདིས་ནི་འབྱུང་བ་འཁྲུགས་པ་སེལ།
@@ -8007,7 +8007,7 @@ The draft in need of review is:
 [15420]
 <tibetan>།སྒོའི་གནས་ནི་གཞིགས་སྟངས་གསུམ་སྟེ།
 <literal>/gate-possessive location/looking-manner three and/
-<liturgical><prose>Gate's location looking-manner three:
+<liturgical><prose>Gate's location looking-manner three: || 15420 ||
 
 [15421]
 <tibetan>འཁྲུལ་སྣང་འོད་གསལ་དུ་བསྒྱུར་བའོ།
@@ -8027,7 +8027,7 @@ The draft in need of review is:
 [15424]
 <tibetan>།གླང་པོ་ལྟ་བུར་ཉལ་བས་རྨི་ལམ་གྱི་རྩ་བ་སྟོངས་པའི་ལམ་སེལ།
 <literal>/elephant like sleep-by-means-of dream-possessive root empty-possessive path clear/
-<liturgical><prose>Lion like sleep light clear appearance base doing, || 10 ||
+<liturgical><prose>Lion like sleep light clear appearance base doing,
 
 [15425]
 <tibetan>དེ་ཡང་གཏི་མུག་གི་ཉལ་ལུགས་སྤངས་པས་འོད་གསལ་མཉམ་པའི་དོན་སྐྱེའོ།
@@ -8057,7 +8057,7 @@ The draft in need of review is:
 [15430]
 <tibetan>གཡས་སྟེང་དུ་གདོན་པ་སྤངས་པའོ།
 <literal>right-upper-to place abandon-possessive'o/
-<liturgical><prose>Flat-on-back,
+<liturgical><prose>Flat-on-back, || 15430 ||
 
 [15431]
 <tibetan>།དེ་ལྟར་སྤྱིའི་དོན་བསྟན་ནས།
@@ -8077,7 +8077,7 @@ The draft in need of review is:
 [15434]
 <tibetan>སྔོན་འགྲོ་ནི།
 <literal>preliminary /
-<liturgical><prose>Preliminary and main-part two. || 20 ||
+<liturgical><prose>Preliminary and main-part two.
 
 [15435]
 <tibetan>ཉི་མ་གསུམ་བཞི་ཙམ་དུ་ལུས་དལ་བར་བྱའོ།
@@ -8107,7 +8107,7 @@ The draft in need of review is:
 [15440]
 <tibetan>འཕར་བ་དང༌།
 <literal>'phar ba /*/
-<liturgical><prose>That channels all risen come,
+<liturgical><prose>That channels all risen come, || 15440 ||
 
 [15441]
 <tibetan>རྒལ་བར་འགྱུར་རོ།
@@ -8127,7 +8127,7 @@ The draft in need of review is:
 [15444]
 <tibetan>།དེ་ལྟར་བྱ་བ་གནད་ཆེའོ།
 <literal>/thus do ba point great'o/
-<liturgical><prose>Sandalwood acacia thang-chu smeared curve smooth outside warm. || 30 ||
+<liturgical><prose>Sandalwood acacia thang-chu smeared curve smooth outside warm.
 
 [15445]
 <tibetan>།གཉིས་པ་དངོས་གཞི་ནི།
@@ -8157,7 +8157,7 @@ The draft in need of review is:
 [15450]
 <tibetan>གང་འབར་བསྐྱེན་ཅིང་དྲག་པ་རྣམས་ལ་རུ་རྟའི་མེ་རྩ་འཇམ་ཙམ་བྱའོ།
 <literal>whatever blaze support fierce pa rnams to ru-rta-possessive fire-vein soft do'o/
-<liturgical><prose>That channels leap risen come,
+<liturgical><prose>That channels leap risen come, || 15450 ||
 
 [15451]
 <tibetan>།ལག་པའི་སྲིན་ལག་གིས།
@@ -8177,7 +8177,7 @@ The draft in need of review is:
 [15454]
 <tibetan>རླུང་ནང་དུ་བསྟིམས་ལ་རེས་ཕྱིར་ལ་དྲག་ཏུ་ཕུལ།
 <literal>wind inside-to introject to res outside-to fierce phul/
-<liturgical><prose>First little soft from more-fierce press time, || 40 ||
+<liturgical><prose>First little soft from more-fierce press time,
 
 [15455]
 <tibetan>རེས་ནང་དུ་རྔུབ་པ་དྲག་ཏུ་བྱའོ།
@@ -8207,7 +8207,7 @@ The draft in need of review is:
 [15460]
 <tibetan>དེ་ལ་ཐོག་མ་སྲན་མ་བདུན་གྱི་ལྗིད་ཙམ་དུ་མནན་ནོ།
 <literal>that to first bean seven-possessive weight about press no/
-<liturgical><prose>Hand right throat outside-from,
+<liturgical><prose>Hand right throat outside-from, || 15460 ||
 
 [15461]
 <tibetan>།དེ་ནས་བགས་ཀྱིས་ཇེ་དྲག་ལ་བཅུ་བཞི་དང༌།
@@ -8227,7 +8227,7 @@ The draft in need of review is:
 [15464]
 <tibetan>ལས་དང་ཉོན་མོངས་པའི་རྩ་སྤོང་བར་བྱེད་པའི་ཉམས་སོ།
 <literal>karma/defilements-possessive vein abandon make-possessive experience'o/
-<liturgical><prose>Twenty-one weight press. || 50 ||
+<liturgical><prose>Twenty-one weight press.
 
 [15465]
 <tibetan>།དེ་ནས་སང་སེང་དུ་སྣང་བ་དག་འོང་བ་ནི་ཡེ་ཤེས་ཀྱི་མཐོང་བ་རང་བཞིན་གྱི་ཡུལ་ལོ།
@@ -8257,7 +8257,7 @@ The draft in need of review is:
 [15470]
 <tibetan>།དེ་ནས་ཐུན་དུ་བཅད་ལ་ཡུན་རིང་དུ་བྱས་པས།
 <literal>/then session-to divide to long-time do-by-means-of/
-<liturgical><prose>Thus change time occasion guru request path appropriate.
+<liturgical><prose>Thus change time occasion guru request path appropriate. || 15470 ||
 
 [15471]
 <tibetan>འོད་གསལ་ཆེན་པོའི་ཉམས་རེས་འཇོག་དང་བཅས་པ་འཆར་རོ།
@@ -8277,7 +8277,7 @@ The draft in need of review is:
 [15474]
 <tibetan>།སེམས་ཀྱི་རྣམ་རྟོག་སྣ་ཚོགས་ཀུན་འགགས་ནས་འོད་གསལ་ཆེན་པོའི་ཉམས་ལ་གནས་པ་ནི།
 <literal>/mind-possessive thought various all cease from light clear great-possessive experience to located ba /
-<liturgical><prose>Thus constant done body numb touch lose becoming vein object empty from arose, || 60 ||
+<liturgical><prose>Thus constant done body numb touch lose becoming vein object empty from arose,
 
 [15475]
 <tibetan>ཡེ་ཤེས་ཆེན་པོའི་ཐིག་ལེ་གནད་ལ་ཕེབས་པ་ལས་བྱུང་སྟེ།
@@ -8307,7 +8307,7 @@ The draft in need of review is:
 [15480]
 <tibetan>བརྟན་པ་དང༌།
 <literal>stable ba /*/
-<liturgical><prose>This bliss arise,
+<liturgical><prose>This bliss arise, || 15480 ||
 
 [15481]
 <tibetan>ཁྱད་པར་གྱི་ཡེ་ཤེས་ལམ་དུ་འབྱོར་པ་ལ་སོགས་པར་འབྱུང་བ་ནི།
@@ -8327,7 +8327,7 @@ The draft in need of review is:
 [15484]
 <tibetan>།དེ་ཡང་རྩའི་ཡུལ་ལ་བརྟེན་ནས་ཉམས་སུ་བླང་བ་ནི།
 <literal>/that also vein-possessive object to rely from practice do ba /
-<liturgical><prose>Effort stage arose. || 70 ||
+<liturgical><prose>Effort stage arose.
 
 [15485]
 <tibetan>གཏེམ་པ་དང༌།
@@ -8357,7 +8357,7 @@ The draft in need of review is:
 [15490]
 <tibetan>གཞིལ་བ་དང༌།
 <literal>drain /*/
-<liturgical><prose>Squeeze,
+<liturgical><prose>Squeeze, || 15490 ||
 
 [15491]
 <tibetan>སྦ་བ་རྣམས་སུ་ཤེས་པར་བྱ་སྟེ།
@@ -8377,7 +8377,7 @@ The draft in need of review is:
 [15494]
 <tibetan>ཀུན་འདར་མ་གཞིལ་བའི་གནད།
 <literal>kun-'dar ma drain-possessive point/
-<liturgical><prose>That hide Roma vital point, || 80 ||
+<liturgical><prose>That hide Roma vital point,
 
 [15495]
 <tibetan>རྩ་ཕྲན་རྣམས་ལ་གཏེམ་པ་ལུས་ཀྱི་གནད་དུ་བྱ་བ་དང༌།
@@ -8407,7 +8407,7 @@ The draft in need of review is:
 [15500]
 <tibetan>རླུང་གི་གནད་ཀྱིས་རྩའི་ལམ་བསལ་བ་དང༌།
 <literal>wind-possessive point-by-means-of vein-possessive path clear ba /*/
-<liturgical><prose>Squeeze appearance vital point.
+<liturgical><prose>Squeeze appearance vital point. || 15500 ||
 
 [15501]
 <tibetan>རྩའི་འགྱུ་ཚད་ཀྱིས་སྐྱེ་ཤིའི་ཁུངས་བརྟག་པ་དང༌།
@@ -8427,7 +8427,7 @@ The draft in need of review is:
 [15504]
 <tibetan>སྐྱེས་བུ་ལུས་ལ་འབྱུང་བའི་ནད་མེད་པ་ན་ཚོད་དར་ལ་བབ་པ་ཅིག་ལ།
 <literal>man body to element-possessive disease not-exist pa at age prime to bab pa one to/
-<liturgical><prose>Channel essence dharmatā arise time hold know. || 90 ||
+<liturgical><prose>Channel essence dharmatā arise time hold know.
 
 [15505]
 <tibetan>ཉིན་ཞག་ཕྲུགས་གཅིག་ལ།
@@ -8457,7 +8457,7 @@ The draft in need of review is:
 [15510]
 <tibetan>།རྩའི་སྦོམ་ཕྲའི་བྱེ་བྲག་ལས་ལས་དང་ཉོན་མོངས་པའི་དུས་བརྟག
 <literal>/vein-possessive coarse-fine-possessive difference from karma/defilements-possessive time examine
-<liturgical><prose>Channel number life time examine,
+<liturgical><prose>Channel number life time examine, || 15510 ||
 
 [15511]
 <tibetan>རྩའི་དལ་པ་དང་མྱུར་བ་ལས་ཡེ་ཤེས་སྐྱེ་བའི་དུས་ངོས་བཟུང༌།
@@ -8477,7 +8477,7 @@ The draft in need of review is:
 [15514]
 <tibetan>དུས་དང༌།
 <literal>time /*/
-<liturgical><prose>Channel each's partial location body speech mind actions examine. || 100 ||
+<liturgical><prose>Channel each's partial location body speech mind actions examine.
 
 [15515]
 <tibetan>ཡུལ་གསུམ་དུ་མ་སྦྱར་ན་གཏན་ལ་མི་ཕེབས་སོ།
@@ -8507,7 +8507,7 @@ The draft in need of review is:
 [15520]
 <tibetan>བསོད་ནམས་དང༌།
 <literal>merit /*/
-<liturgical><prose>Increase-decrease wind bile phlegm disease identify,
+<liturgical><prose>Increase-decrease wind bile phlegm disease identify, || 15520 ||
 
 [15521]
 <tibetan>ལོངས་སྤྱོད་དང༌།
@@ -8527,7 +8527,7 @@ The draft in need of review is:
 [15524]
 <tibetan>འབྱུང་བ་རྩིས་སྦྱོར་གྱི་རྟེན་འབྲེལ་ལ་མཁས་པར་བྱའོ།
 <literal>element calculation-possessive dependent-origination to skill make'o/
-<liturgical><prose>Power, || 110 ||
+<liturgical><prose>Power,
 
 [15525]
 <tibetan>།དེ་ཡང་འཁོར་ལོ་བཞི་དུས་ཀྱི་བྱེ་བྲག་དང་སྦྱར་ལ།
@@ -8557,7 +8557,7 @@ The draft in need of review is:
 [15530]
 <tibetan>ངག་དང༌།
 <literal>speech /*/
-<liturgical><prose>Autumn tastes,
+<liturgical><prose>Autumn tastes, || 15530 ||
 
 [15531]
 <tibetan>ཡིད་དང་སེམས་ཐ་མི་དད་པར་སྦྱང་ངོ༌།
@@ -8577,7 +8577,7 @@ The draft in need of review is:
 [15534]
 <tibetan>རོ་རྣམས་སུ་ཡིད།
 <literal>taste rnams-to mind/
-<liturgical><break><prose> Generate-doing body wheel, || 120 ||
+<liturgical><break><prose> Generate-doing body wheel,
 
 [15535]
 <tibetan>རྩེ་མོར་སེམས་ཀྱི་འཁྲུལ་འཁོར་ལ་སྦྱར་རོ།
@@ -8607,7 +8607,7 @@ The draft in need of review is:
 [15540]
 <tibetan>།དེ་ལྟར་སྦྱོར་སོ་བཞིའི་དང་པོར་རྟོག་པ་ཐ་དད་པ་སྦ་བའི་དུས་ལ་མཁས་པས་འགྱུ་བ་རླུང་དང་བསྲེ།
 <literal>/thus train-stage four-possessive first-to thought various hide-possessive time to skill-by-means-of move wind/mix/
-<liturgical><prose>Tastes HUM rely dream dharmatā located combine,
+<liturgical><prose>Tastes HUM rely dream dharmatā located combine, || 15540 ||
 
 [15541]
 <tibetan>གཉིས་པར་གཏི་མུག་དྲན་མེད་དུ་སྦ།
@@ -8627,7 +8627,7 @@ The draft in need of review is:
 [15544]
 <tibetan>།དོན་གཉིས་པ་བརྟེན་པ་རླུང་གི་རབ་ཏུ་དབྱེ་བ་ནི།
 <literal>/meaning second rely-possessive wind-possessive special classify /
-<liturgical><prose>Third latency before-after self-pure hide, || 130 ||
+<liturgical><prose>Third latency before-after self-pure hide,
 
 [15545]
 <tibetan>ཐལ་འགྱུར་ལས།
@@ -8657,7 +8657,7 @@ The draft in need of review is:
 [15550]
 <tibetan>།དེ་ཡི་བྱེད་ལས་རྣམ་པ་གཉིས།
 <literal>/that-possessive action from manner two/
-<liturgical><verse>Six hundred eight move,
+<liturgical><verse>Six hundred eight move, || 15550 ||
 
 [15551]
 <tibetan>།གྱེན་ལ་རྒྱུ་དང་ཐུར་དུ་སེལ།
@@ -8677,7 +8677,7 @@ The draft in need of review is:
 [15554]
 <tibetan>།འབུམ་ཕྲག་གཅིག་དང་ཁྲི་ཕྲག་གཉིས།
 <literal>/hundred-thousand one/ten-thousand two/
-<liturgical><verse>Middle skilled vital-point seek. || 140 ||
+<liturgical><verse>Middle skilled vital-point seek.
 
 [15555]
 <tibetan>།སྟོང་ཕྲག་དྲུག་དང་བརྒྱ་ཕྲག་དྲུག
@@ -8707,7 +8707,7 @@ The draft in need of review is:
 [15560]
 <tibetan>།དེ་ཡི་གནད་ཀྱིས་སྦྱོར་ཐབས་འབད།
 <literal>/that-possessive point-by-means-of connect method 'bad/
-<liturgical><verse>Disease demon life time,
+<liturgical><verse>Disease demon life time, || 15560 ||
 
 [15561]
 <tibetan>།ཆེན་པོ་ལ་ནི་དུས་བརྩི་སྟེ།
@@ -8727,7 +8727,7 @@ The draft in need of review is:
 [15564]
 <tibetan>།ལས་དང་ཡེ་ཤེས་གཉིས་པར་དང༌།
 <literal>/karma/wisdom two /*/
-<liturgical><verse>Supreme and common siddhi examine, || 150 ||
+<liturgical><verse>Supreme and common siddhi examine,
 
 [15565]
 <tibetan>།ཉོན་མོངས་རྣམས་དང་རྟོག་མེད་ལས།
@@ -8757,7 +8757,7 @@ The draft in need of review is:
 [15570]
 <tibetan>དེའི་དོན་གཏན་ལ་དབབ་པ་ལ་གསུམ་སྟེ།
 <literal>that-possessive meaning certainty to establish pa to three and/
-<liturgical><verse>That individual wind amount hold."
+<liturgical><verse>That individual wind amount hold." || 15570 ||
 
 [15571]
 <tibetan>འགྱུ་བ་ངེས་པའི་གནས་སྤྱིར་བསྟན་པ།
@@ -8777,7 +8777,7 @@ The draft in need of review is:
 [15574]
 <tibetan>།དང་པོ་ནི།
 <literal>/first /
-<liturgical><prose>Wisdom and karma wind definite conclusion. || 160 ||
+<liturgical><prose>Wisdom and karma wind definite conclusion.
 
 [15575]
 <tibetan>སྤྱིར་ལུས་ལ་རྩ་གནས།
@@ -8807,7 +8807,7 @@ The draft in need of review is:
 [15580]
 <tibetan>ཉིན་ཞག་ཕྲུག་གཅིག་ལ་རླུང་ཉི་ཁྲི་ཆིག་སྟོང་བརྒྱ་ཕྱི་ནང་དུ་འགྱུ་བར་ངེས།
 <literal>day-night about-one to wind twenty-thousand one-thousand hundred outside inside-to move bar certainty/
-<liturgical><prose>That great moving wind man prime bab disease not one,
+<liturgical><prose>That great moving wind man prime bab disease not one, || 15580 ||
 
 [15581]
 <tibetan>ཁྱད་པར་དུ་ཁ་སྣ་མ་གཏོགས་པ་རྩའི་ནང་ན་རྟོག་པ་དང་ཡེ་ཤེས་ཀྱི་རྟེན་དུ་འགྱུ་བ་ཆུང་བའི་རླུང་འཕར་རྩ་ནས་འགྱུ་བ་སྡོམས་པས།
@@ -8827,7 +8827,7 @@ The draft in need of review is:
 [15584]
 <tibetan>གཡོན་ནས་རྒྱུ་བ་མོ་རླུང༌།
 <literal>left from move ba female-wind*/
-<liturgical><prose>These times nose-hole right move male-wind, || 170 ||
+<liturgical><prose>These times nose-hole right move male-wind,
 
 [15585]
 <tibetan>ཆ་མཉམ་དུ་རྒྱུ་བ་མ་ནིང་གི་རླུང་དུ་འགྱུར་རོ།
@@ -8857,7 +8857,7 @@ The draft in need of review is:
 [15590]
 <tibetan>།དེ་ཡང་གྱེན་རྒྱུ།
 <literal>/that also upward-move/
-<liturgical><prose>Both neutral wind mainly train wisdom wind easy.
+<liturgical><prose>Both neutral wind mainly train wisdom wind easy. || 15590 ||
 
 [15591]
 <tibetan>ཐུར་སེལ།
@@ -8877,7 +8877,7 @@ The draft in need of review is:
 [15594]
 <tibetan>འོག་རླུང་བསྡུ་བ་དང༌།
 <literal>lower-wind gather ba /*/
-<liturgical><prose>Upper wind press, || 180 ||
+<liturgical><prose>Upper wind press,
 
 [15595]
 <tibetan>བར་རླུང་བསྐྱིལ་བ་གསུམ་གྱི་གནད་བྱ་ཞིང༌།
@@ -8907,7 +8907,7 @@ The draft in need of review is:
 [15600]
 <tibetan>རི་བོ་ལྟར་མནན་པ་དང༌།
 <literal>mountain like press-down ba /*/
-<liturgical><prose>Crocodile bind,
+<liturgical><prose>Crocodile bind, || 15600 ||
 
 [15601]
 <tibetan>སྦུབས་མཆུ་ལྟར་བསྡུ་བ་དང༌།
@@ -8927,7 +8927,7 @@ The draft in need of review is:
 [15604]
 <tibetan>ནམ་མཁའ་ལྟར་ཆོས་ཉིད་དུ་ལ་བཟླ་བའི་གནད་དང༌།
 <literal>sky like dharma-nature-to to bzla-possessive point /*/
-<liturgical><prose>Self location drain, || 190 ||
+<liturgical><prose>Self location drain,
 
 [15605]
 <tibetan>དགུས་ཉམས་སུ་བླང་བར་བྱའོ།
@@ -8957,7 +8957,7 @@ The draft in need of review is:
 [15610]
 <tibetan>དཔྱིད་ཀྱི་དུས་ན་ས་བོན་ལྟ་བུའི་རླུང་སྐྱེ་བའི་གནད་ཀྱིས་དེ་ཉིད་ཆུའི་རླུང་དུ་འགྱུར་ན་ཚེའི་དུས་བྱེད།
 <literal>spring-possessive time at seed like-possessive wind arise-possessive point-by-means-of that actual water-possessive wind-to 'gyur at life-possessive time make/
-<liturgical><prose>Spring time seed like wind arise vital-point that water wind become life time,
+<liturgical><prose>Spring time seed like wind arise vital-point that water wind become life time, || 15610 ||
 
 [15611]
 <tibetan>དབྱར་གྱི་དུས་ན་མེ་སྟག་ལྟ་བུའི་རླུང་སྐྱེ་བའི་ལས་ཀྱི་གནད་ཀྱིས།
@@ -8977,7 +8977,7 @@ The draft in need of review is:
 [15614]
 <tibetan>།དེ་དག་གི་རིམ་པ་ནི།
 <literal>/that dag-possessive sequence /
-<liturgical><prose>Day time fire wind located, || 200 ||
+<liturgical><prose>Day time fire wind located,
 
 [15615]
 <tibetan>ཉིན་དུས་མེ་རླུང་དུ་གནས་པས།
@@ -9007,7 +9007,7 @@ The draft in need of review is:
 [15620]
 <tibetan>དེ་རླུང་གི་རླུང་དུ་འགྱུར་ན་ནད་བྱེད།
 <literal>that wind-possessive wind-to 'gyur at disease make/
-<liturgical><prose>West time wind,
+<liturgical><prose>West time wind, || 15620 ||
 
 [15621]
 <tibetan>ནུབ་དུས་རླུང་ཡིན་པས་དེ་མེད་རླུང་དུ་གྱུར་ན་ནད་དུ་འགྲོ་བའོ།
@@ -9027,7 +9027,7 @@ The draft in need of review is:
 [15624]
 <tibetan>རླུང་ལས་རླུང་ནད་དང༌།
 <literal>wind from wind-disease /*/
-<liturgical><prose>Wind wind disease, || 210 ||
+<liturgical><prose>Wind wind disease,
 
 [15625]
 <tibetan>ས་ལས་ལྡན་པ་དང་འདུས་པར་བྱེད་པའོ།
@@ -9057,7 +9057,7 @@ The draft in need of review is:
 [15630]
 <tibetan>།དེ་ཡང་ཆུའི་རླུང་གིས་ཆུ་སེར་གྱི་མ་དག་པ་དང་དག་བྱེད་དུ་བྱེད་ལ།
 <literal>/that also water-possessive wind-by-means-of water-yellow-possessive impure/purify make do/
-<liturgical><prose>That water wind water-yellow impure purify,
+<liturgical><prose>That water wind water-yellow impure purify, || 15630 ||
 
 [15631]
 <tibetan>ཆུའི་སས་ཁྲག་དང་ཤའི་དག་པ་དང་མ་དག་པར་བྱེད།
@@ -9097,7 +9097,7 @@ The draft in need of review is:
 [15638]
 <tibetan>བྱང་སེམས་རིམ་པ་ལྔར་སྐྱེད་དོ།
 <literal>bodhicitta sequence five-to produce'o/
-<liturgical><prose>Bodhicitta sequence five. || 10 ||
+<liturgical><prose>Bodhicitta sequence five.
 
 [15639]
 <tibetan>།སའི་ཆུས་ཐིག་ལེའི་ལས་བྱེད་དེ།
@@ -9107,7 +9107,7 @@ The draft in need of review is:
 [15640]
 <tibetan>དངུལ་ཆུའི་དུམ་བུ་ལྟར་གྱུར་པས་བུ་ཚ་མི་འབྱུང་ལ།
 <literal>mercury-possessive piece like 'gyur-by-means-of son mi-come to/
-<liturgical><prose>Mercury piece became child not-arise,
+<liturgical><prose>Mercury piece became child not-arise, || 15640 ||
 
 [15641]
 <tibetan>རྟ་རྔའི་མདུད་པ་ལྟ་བུས་བུ་མོ་དང༌།
@@ -9147,7 +9147,7 @@ The draft in need of review is:
 [15648]
 <tibetan>།སའི་རླུང་གིས་སྟོབས་དང་མདངས་དང༌།
 <literal>/earth-possessive wind-by-means-of strength/complexion /*/
-<liturgical><prose>Earth wind strength complexion, || 20 ||
+<liturgical><prose>Earth wind strength complexion,
 
 [15649]
 <tibetan>སྒུལ་སྐྱོད་དང༌།
@@ -9157,7 +9157,7 @@ The draft in need of review is:
 [15650]
 <tibetan>ཞ་གྲུམ་ལ་སོགས་པ་བྱེད་པའོ།
 <literal>paralysis etcetera doing is/
-<liturgical><prose>Paralysis etc.
+<liturgical><prose>Paralysis etc. || 15650 ||
 
 [15651]
 <tibetan>།མེའི་རྩ་རླུང་གིས་རླངས་པར་བྱས་པས་དེའི་སྨིན་སོ་དྲི་ཆུའི་བྱེ་བྲག་ཏུ་བྱུང་སྟེ།
@@ -9197,7 +9197,7 @@ The draft in need of review is:
 [15658]
 <tibetan>དུས་མ་ཡིན་པར་ས་བོན་འཛག་པ་དང༌།
 <literal>time not-at seed flows and/
-<liturgical><prose>Time-not seed flow, || 30 ||
+<liturgical><prose>Time-not seed flow,
 
 [15659]
 <tibetan>ཡུལ་དང་མ་ཕྲད་ན་ལྡང་ལ་ཕྲད་ན་མི་ལྡང་བ་དང༌།
@@ -9207,7 +9207,7 @@ The draft in need of review is:
 [15660]
 <tibetan>ཕྲད་ན་ལྡང་བར་བྱེད་ལ།
 <literal>contact if rising makes and/
-<liturgical><prose>Contact rise.
+<liturgical><prose>Contact rise. || 15660 ||
 
 [15661]
 <tibetan>བུད་མེད་ལ་ཟླ་མཚན་མི་འབབ་པས་ནད་དུ་འགྲོལ་བ་དང༌།
@@ -9247,7 +9247,7 @@ The draft in need of review is:
 [15668]
 <tibetan>།སའི་རླུང་གིས་དབང་པོ་དང་དབང་རྟེན་སྐྱེད།
 <literal>/earth wind by-means-of sense-organ and sense-basis produces/
-<liturgical><prose>Earth wind sense-organ sense-basis, || 40 ||
+<liturgical><prose>Earth wind sense-organ sense-basis,
 
 [15669]
 <tibetan>དེས་ལས་དང་རྟོག་པ་དུ་མ་སྐྱེད་དོ།
@@ -9257,7 +9257,7 @@ The draft in need of review is:
 [15670]
 <tibetan>།རླུང་གི་མེས་ཤེས་པའི་རྩལ་བ་ཡང་བ་དང་ལྕི་བ་དང་མཆེད་པ་དང་འུར་བ་དང་གང་བ་དང་སྟོངས་པ་སྐྱེད་དོ།
 <literal>/wind fire by-means-of consciousness power light and heavy and spreading and humming and full and empty produces/
-<liturgical><prose>Wind fire consciousness power light heavy spread humming full empty.
+<liturgical><prose>Wind fire consciousness power light heavy spread humming full empty. || 15670 ||
 
 [15671]
 <tibetan>།རླུང་གི་རླུང་གིས་དབུགས་ཕྱི་ནང་དུ་རྒྱུ་བ་དང༌།
@@ -9297,7 +9297,7 @@ The draft in need of review is:
 [15678]
 <tibetan>ཤེས་རབ་ཀྱི་རྩལ་སྣ་ཚོགས་དང༌།
 <literal>discriminating-wisdom power various and/
-<liturgical><prose>Prajna power various, || 50 ||
+<liturgical><prose>Prajna power various,
 
 [15679]
 <tibetan>དཔེའི་འབྱེད་ངོ་མཚར་ཅན་དང༌།
@@ -9307,7 +9307,7 @@ The draft in need of review is:
 [15680]
 <tibetan>ཆོས་ཀྱི་ཚིག་དོན་ལ་མཁས་ལ།
 <literal>dharma word-meaning to skilled and/
-<liturgical><prose>Dharma word meaning skilled,
+<liturgical><prose>Dharma word meaning skilled, || 15680 ||
 
 [15681]
 <tibetan>བུད་མེད་ལ་སྲི་ཞུ་མཁས་པ་དང༌།
@@ -9347,7 +9347,7 @@ The draft in need of review is:
 [15688]
 <tibetan>འཆི་བ་དང༌།
 <literal>death and/
-<liturgical><prose>Death, || 60 ||
+<liturgical><prose>Death,
 
 [15689]
 <tibetan>ལུས་ངག་ཡིད་ཀྱི་བྱ་བའི་ཁྱད་པར་རྣམས་སྟོན་པར་བྱེད་དོ།
@@ -9357,7 +9357,7 @@ The draft in need of review is:
 [15690]
 <tibetan>།དེ་ཡང་འབྱུང་བའི་གྲལ་ཉམས་པ་དང༌།
 <literal>/that also elements sequence deterioration and/
-<liturgical><prose>That element row harm,
+<liturgical><prose>That element row harm, || 15690 ||
 
 [15691]
 <tibetan>ལོག་པ་དང༌།
@@ -9397,7 +9397,7 @@ The draft in need of review is:
 [15698]
 <tibetan>།དེ་ཡང་འདས་པའི་ཚེ་རིང་ན་འགྱུར་བས་སེལ་ལ་གནས་པས་འགྱུར་བ་དག་ཏུ་ངེས་སོ།
 <literal>/that also past time long if change by-means-of remove and abiding by-means-of change as certain/
-<liturgical><prose>That past life long change clear located change definite. || 70 ||
+<liturgical><prose>That past life long change clear located change definite.
 
 [15699]
 <tibetan>།མ་འོངས་པའི་ཚེ་རིང་ན་འཕོས་པས་སེལ་ལ་འགྱུས་པས་གནས་པ་ཉིད་དུ་ངེས་སོ།
@@ -9407,7 +9407,7 @@ The draft in need of review is:
 [15700]
 <tibetan>།ད་ལྟའི་ཐུང་ན་སྤུར་བའི་ལས་དང་བརྩི་བའི་འགྱུར་གྱིས་ཤེས་པར་བྱའོ།
 <literal>/present short if sending action and counting change by-means-of know should/
-<liturgical><prose>Present short expel action calculate change know.
+<liturgical><prose>Present short expel action calculate change know. || 15700 ||
 
 [15701]
 <tibetan>།ནང་གི་འཕོ་བ་ངེས་པའི་ཚད་ལ།
@@ -9447,7 +9447,7 @@ The draft in need of review is:
 [15708]
 <tibetan>འཕོ་བ་རེ་རེ་ལ་རླུང་སྟོང་དང་སུམ་བརྒྱ་དང་ལྔ་བཅུའོ།
 <literal>shift one-one to wind thousand and three-hundred and fifty/
-<liturgical><prose>Transfer each wind thousand three-hundred fifty. || 80 ||
+<liturgical><prose>Transfer each wind thousand three-hundred fifty.
 
 [15709]
 <tibetan>།དབྱུ་གུ་རེ་རེ་ལ་སུམ་བརྒྱ་དང་སུམ་ཅུ་སོ་ཕྱེད་དང་བརྒྱད་བརྒྱད་རྒྱུའོ།
@@ -9457,7 +9457,7 @@ The draft in need of review is:
 [15710]
 <tibetan>།ཐུན་རེ་རེ་ལ་ཉི་སྟོང་བདུན་བརྒྱ་རྒྱུའོ།
 <literal>/watch one-one to two-thousand seven-hundred moves/
-<liturgical><prose>Session each two-thousand seven-hundred.
+<liturgical><prose>Session each two-thousand seven-hundred. || 15710 ||
 
 [15711]
 <tibetan>།དེ་ལྟར་ཞག་གཅིག་ལ་འབྱུང་བའི་བྱེད་ལས་བཅུ་གཉིས་ཀྱིས་ཕྱེར་ཟུག་བཅུ་གཉིས་སུ་འགྱུར་ལ།
@@ -9497,7 +9497,7 @@ The draft in need of review is:
 [15718]
 <tibetan>།ཉི་མ་བྱང་དུ་འགྲོ་བའི་ཟླ་བ་རེ་རེ་ལ་ཆུ་ཚོད་གཉིས་གཉིས་ཀྱིས་ཉི་མ་རིང་ལ།
 <literal>/sun south go month one-one to water-clock two-two by-means-of sun long and/
-<liturgical><prose>Day north go month each water-clock two day long, || 90 ||
+<liturgical><prose>Day north go month each water-clock two day long,
 
 [15719]
 <tibetan>མཚན་མོ་ཐུང་ཞིང༌།
@@ -9507,7 +9507,7 @@ The draft in need of review is:
 [15720]
 <tibetan>ལྷོར་བགྲོད་པའི་ཚེ་དེ་གཉིས་གོ་ལོག་པས་ཉིན་མོ་ཐུང་བ་མཚན་མོ་རིང་ངོ༌།
 <literal>south go time those two reversed by-means-of day short night long/
-<liturgical><prose>South go time those two reverse day short night long.
+<liturgical><prose>South go time those two reverse day short night long. || 15720 ||
 
 [15721]
 <tibetan>།དེ་ལྟར་ན་རླུང་གི་རྒྱུ་བ་དྲུག་བརྒྱ་དང་བདུན་ཅུ་རྩ་ལྔས་འཕེལ་འགྲིབ་ཏུ་བྱེད་པ་ནི།
@@ -9547,7 +9547,7 @@ The draft in need of review is:
 [15728]
 <tibetan>དེ་ལྟར་ཉིན་ལྔ།
 <literal>thus day five/
-<liturgical><prose>Thus day five, || 100 ||
+<liturgical><prose>Thus day five,
 
 [15729]
 <tibetan>མཚན་ལྔ།
@@ -9557,7 +9557,7 @@ The draft in need of review is:
 [15730]
 <tibetan>ནང་ནུབ་གཉིས་ཏེ་བཅུ་གཉིས་ཀྱི་ཆ་བརྩིས་པས།
 <literal>inside outside two is twelve portion count by-means-of/
-<liturgical><prose>Inside west two ten-two portion calculate,
+<liturgical><prose>Inside west two ten-two portion calculate, || 15730 ||
 
 [15731]
 <tibetan>དེ་ཡང་ཉིན་མཚན་མཉམ་པའི་དུས་ལ་བརྩིས་པ་སྟེ།
@@ -9597,7 +9597,7 @@ The draft in need of review is:
 [15738]
 <tibetan>དེ་ལྟར་ཟླ་བའི་དབང་བཙན་པར་བྱས་ན།
 <literal>thus month control strong if/
-<liturgical><prose>Thus month power hold, || 110 ||
+<liturgical><prose>Thus month power hold,
 
 [15739]
 <tibetan>སྟོན་དཔྱིད་གཉིས་ཀྱི་འབྲིང་པོ་ལ་ཉིན་མཚན་མཉམ་པ་ནི་ལྷག་མ་ཕྱེད་དང་གསུམ་ལྷག་པའི་འགྲེས་ཀྱིས་ཤེས་སོ།
@@ -9607,7 +9607,7 @@ The draft in need of review is:
 [15740]
 <tibetan>།འདུལ་བ་ལས་ཀྱང་གསོ་སྦྱོང་ཐུབ་པ་དང་མི་ཐུབ་པར་བརྩི་བ་ཡིན་ནོ།
 <literal>/discipline from also sojong capable and not-capable count is/
-<liturgical><prose>Vinaya-from also sojong able not-able calculate.
+<liturgical><prose>Vinaya-from also sojong able not-able calculate. || 15740 ||
 
 [15741]
 <tibetan>།དེ་ལྟར་རླུང་གི་རྩིས་ངེས་པར་ཟིན་པ་ནི་ཕྱི་རོལ་གྱི་ལོ་དང་ཟླ་བར་སྦྱར་ནས།
@@ -9647,7 +9647,7 @@ The draft in need of review is:
 [15748]
 <tibetan>།ལོ་ནི་གཅིག་ཏུ་འདོད་པའོ།
 <literal>/year is one as held/
-<liturgical><verse>Year one. || 120 ||
+<liturgical><verse>Year one.
 
 [15749]
 <tibetan>།ནང་དང་དགོངས་མོ་བདུན་བརྒྱ་དང༌།
@@ -9657,7 +9657,7 @@ The draft in need of review is:
 [15750]
 <tibetan>།ཉི་ཤུ་དག་ནི་རྫོགས་པ་ལ།
 <literal>/twenty is complete on/
-<liturgical><verse>Twenty complete,
+<liturgical><verse>Twenty complete, || 15750 ||
 
 [15751]
 <tibetan>།ཞག་ནི་སུམ་བརྒྱ་དྲུག་ཅུར་འདོད།
@@ -9697,7 +9697,7 @@ The draft in need of review is:
 [15758]
 <tibetan>།རྣ་རིང་སྦྲུལ་དང་འབྲུག་དང་ཡང༌།
 <literal>/hare dragon snake and also/
-<liturgical><verse>Hare dragon snake, || 130 ||
+<liturgical><verse>Hare dragon snake,
 
 [15759]
 <tibetan>།རྟ་དང་ལུག་དང་སྤྲེའུ་དང༌།
@@ -9707,7 +9707,7 @@ The draft in need of review is:
 [15760]
 <tibetan>།བྱ་དང་ཁྱི་ཕག་བཅུ་གཉིས་ཀྱིས།
 <literal>/bird dog pig twelve by-means-of/
-<liturgical><verse>Bird dog pig twelve,
+<liturgical><verse>Bird dog pig twelve, || 15760 ||
 
 [15761]
 <tibetan>།འབྱུང་བའི་རྩིས་རྣམས་སྤེལ་བའོ།
@@ -9747,7 +9747,7 @@ The draft in need of review is:
 [15768]
 <tibetan>དེ་ལ་རྩོད་པ་སྤང་བ་གཉིས་ལས།
 <literal>that to objection abandon ba two from/
-<liturgical><prose>That dispute abandon two. || 140 ||
+<liturgical><prose>That dispute abandon two.
 
 [15769]
 <tibetan>དང་པོ་ནི།
@@ -9757,7 +9757,7 @@ The draft in need of review is:
 [15770]
 <tibetan>ལུས་ལ་རྩ་གནས།
 <literal>body to vein located/
-<liturgical><prose>Body channels located.
+<liturgical><prose>Body channels located. || 15770 ||
 
 [15771]
 <tibetan>དེ་ལ་རླུང་གནས།
@@ -9807,7 +9807,7 @@ The draft in need of review is:
 [15780]
 <tibetan>ལས་དང་ཡེ་ཤེས་གཉིས་སོ་སོར་འགྱུར་བ་ཅི་ཡིན།
 <literal>karma/wisdom two each 'gyur ba what is/
-<liturgical><prose>Karma and wisdom two individual move what.
+<liturgical><prose>Karma and wisdom two individual move what. || 15780 ||
 
 [15781]
 <tibetan>ཡང་ན་འགྱུ་བ་མི་འདྲ་བ་གཉིས་སུ་རིགས་ལ།
@@ -9842,7 +9842,7 @@ The draft in need of review is:
 [15787]
 <tibetan>གསལ་བར་སྟོང་པས་ཡེ་ཤེས་ཀྱི་རླུང་ཞེས་བྱའོ།
 <literal>clear-to empty-by-means-of wisdom-possessive wind thus bya'o/
-<liturgical><prose>Clear empty wisdom wind called. || 10 ||
+<liturgical><prose>Clear empty wisdom wind called.
 
 [15788]
 <tibetan>།རྩའི་གནས་འགྱུར་འཆུས་པ་ལས་ལས་ཀྱི་རླུང་དུ་སོང་བས་བྱེད་ལས་རྣམ་རྟོག་ཐ་དད་པ་དང་མི་དགེ་བའི་སྦྱོར་བ་སྣ་ཚོགས་པ་དང༌།
@@ -9857,7 +9857,7 @@ The draft in need of review is:
 [15790]
 <tibetan>བྱིང་བ་དང༌།
 <literal>dull /*/
-<liturgical><prose>Dull,
+<liturgical><prose>Dull, || 15790 ||
 
 [15791]
 <tibetan>རྒོད་པ་དང༌།
@@ -9892,7 +9892,7 @@ The draft in need of review is:
 [15797]
 <tibetan>རྩ་འཆུས་མ་འཆུས་ལས།
 <literal>vein twist ma-twist from/
-<liturgical><prose>Channel twist twist-not-from, || 20 ||
+<liturgical><prose>Channel twist twist-not-from,
 
 [15798]
 <tibetan>ཤེས་པ་ལས་སུ་རུང་བ་ཡེ་ཤེས་དང༌།
@@ -9907,7 +9907,7 @@ The draft in need of review is:
 [15800]
 <tibetan>།གཉིས་པ་བྱེད་ལས་སོ་སོར་བཤད་པ་ལ་གཉིས་ཏེ།
 <literal>/second action from each explain to two and/
-<liturgical><prose>Second actions individual explain two:
+<liturgical><prose>Second actions individual explain two: || 15800 ||
 
 [15801]
 <tibetan>ཡེ་ཤེས་དང༌།
@@ -9926,8 +9926,8 @@ The draft in need of review is:
 
 [15804]
 <tibetan>རླུང་དེ་གནས་པའི་ཆ་ནས་གཞི་གནས་ཀྱི་ཡེ་ཤེས་ཀྱི་ལས་བྱེད་ལ།
-<literal>wind that located-possessive part from basis-stay-possessive wisdom-possessive work do to/
-<liturgical><prose>Wind located part-from basis-located wisdom work,
+<literal>wind that located-possessive part from ground-stay-possessive wisdom-possessive work do to/
+<liturgical><prose>Wind located part-from ground-located wisdom work,
 
 [15805]
 <tibetan>དེ་བྱས་པས་ཅིར་སྣང་ཡང་གནས་ལུགས་ཀྱི་སྟེང་ལས།
@@ -9942,7 +9942,7 @@ The draft in need of review is:
 [15807]
 <tibetan>།དེ་སྣང་བའི་ཆ་ནས་མཚན་ཉིད་འཛིན་པའི་ཡེ་ཤེས་སུ་བྱེད་ལ།
 <literal>/that appearance-possessive part from characteristic hold-possessive wisdom-to make to/
-<liturgical><prose>That done individual family body wisdom light color clear pass not-possible. || 30 ||
+<liturgical><prose>That done individual family body wisdom light color clear pass not-possible.
 
 [15808]
 <tibetan>དེ་བྱས་པས་སོ་སོའི་རིགས་དང་སྐུ་དང་ཡེ་ཤེས་དང་འོད་དང་ཁ་དོག་ཏུ་གསལ་བ་ལས་འདའ་མི་སྲིད།
@@ -9957,7 +9957,7 @@ The draft in need of review is:
 [15810]
 <tibetan>།དེ་སྐྱེ་བའི་ཆ་ནས་ཤེས་བྱས་བསྡུས་པའི་ཡེ་ཤེས་སུ་བྱེད་ལ།
 <literal>/that arise-possessive part from knowable gather-possessive wisdom make to/
-<liturgical><prose>That done self-other benefit obstruct-not.
+<liturgical><prose>That done self-other benefit obstruct-not. || 15810 ||
 
 [15811]
 <tibetan>དེ་བྱས་པས་རང་གཞན་གྱི་དོན་ཐོགས་པ་མེད་པར་བྱེད་དོ།
@@ -9992,22 +9992,22 @@ The draft in need of review is:
 [15817]
 <tibetan>ལམ་དུས་དོན་དམ་པའི་འབྱུང་བ་བཞིར་བྱེད་ལ།
 <literal>path time ultimate-possessive element four-to make to/
-<liturgical><prose>Fruition time four bodies essence ripen. || 40 ||
+<liturgical><prose>Fruition time four bodies essence ripen.
 
 [15818]
 <tibetan>འབྲས་བུའི་དུས་སུ་སྐུ་བཞིའི་ངོ་བོར་སྨིན་པའོ།
 <literal>result-possessive time body four-possessive essence-to ripen-possessive'o/
-<liturgical><prose>Thus basis path fruition three refer twelve arise,
+<liturgical><prose>Thus ground path fruition three refer twelve arise,
 
 [15819]
 <tibetan>།དེ་ལྟར་གཞི་ལམ་འབྲས་བུ་གསུམ་ལ་ལྟོས་ནས་བཅུ་གཉིས་སུ་བྱུང་བ་ནི་སངས་རྒྱས་ཀྱི་མཛད་པ་བཅུ་གཉིས་སུ་འོང་བའི་རྒྱུ་མཚན་ངེས་པར་བྱེད་པའོ།
-<literal>/thus basis path result three to refer from twelve-to arise ba/buddha-possessive activity twelve-to come-possessive cause certain make-possessive'o/
+<literal>/thus ground-path result three to refer from twelve-to arise ba/buddha-possessive activity twelve-to come-possessive cause certain make-possessive'o/
 <liturgical><prose>Buddha activities twelve arise cause certain.
 
 [15820]
 <tibetan>།གཉིས་པ་ལས་ཀྱི་རླུང་གི་བྱེད་པའི་ལས་བཞི་ནི།
 <literal>/second karma-possessive wind-possessive do-possessive work four /
-<liturgical><prose>Second karma wind action four:
+<liturgical><prose>Second karma wind action four: || 15820 ||
 
 [15821]
 <tibetan>གཡས་ནས་རྒྱུ་བས་ཕོ།
@@ -10042,7 +10042,7 @@ The draft in need of review is:
 [15827]
 <tibetan>གཡོན་ནས་རྒྱུ་བའི་དུས་ན་འཛིན་པའི་ལས་སུ་བྱེད་དོ།
 <literal>left-from move-of time-in grasp-of action-as do/
-<liturgical><prose>Left-from move time grasp work. || 50 ||
+<liturgical><prose>Left-from move time grasp work.
 
 [15828]
 <tibetan>།ཕྱིར་འགྲོ་བ་དང་ནང་དུ་འགེངས་པ་ནི་འགྲོ་འོང་གི་དབང་དུ་བྱས་པ་སྟེ།
@@ -10057,7 +10057,7 @@ The draft in need of review is:
 [15830]
 <tibetan>ནང་དུ་འོང་བས་མི་དགའ་བར་བྱེད་དོ།
 <literal>inside-to come-by-means-of not-happy make do/
-<liturgical><prose>Inside come unhappy.
+<liturgical><prose>Inside come unhappy. || 15830 ||
 
 [15831]
 <tibetan>།དེ་གཉིས་ཀྱང་འཁོར་ལོའི་འཕྲོ་འདུའི་གནད་ལས་ཉིན་མཚན་དུ་བྱུང་བའོ།
@@ -10092,7 +10092,7 @@ The draft in need of review is:
 [15837]
 <tibetan>ལུས་འཕེལ་འགྲིབ་ཀྱི་ལས་བྱེད་དོ།
 <literal>body increase-decrease-possessive work do/
-<liturgical><prose>Body increase-decrease work. || 60 ||
+<liturgical><prose>Body increase-decrease work.
 
 [15838]
 <tibetan>།དེས་ཕྱིར་ལོ་བཅུ་གཉིས།
@@ -10107,7 +10107,7 @@ The draft in need of review is:
 [15840]
 <tibetan>གསང་བར་དུས་བཅུ་གཉིས་སུ་བྱུང་བའོ།
 <literal>secret time twelve-to arise-possessive'o/
-<liturgical><prose>Secret twelve times arise.
+<liturgical><prose>Secret twelve times arise. || 15840 ||
 
 [15841]
 <tibetan>།དེ་ནས་འཁོར་བའི་ལས་སྣ་ཚོགས་པར་ལས་ཀྱི་རླུང་གིས་བྱེད་དོ།
@@ -10142,7 +10142,7 @@ The draft in need of review is:
 [15847]
 <tibetan>རླུང་གི་རླུང་རྣམས་ལའང་ལྔ་སྟོང་བཞི་བརྒྱ་བཞི་བརྒྱ་སྟེ་བསྡོམས་པས།
 <literal>wind-possessive wind rnams to-also five-thousand four-hundred four-hundred and gather-by-means-of/
-<liturgical><prose>Wind winds five-thousand four-hundred four-hundred combine, || 70 ||
+<liturgical><prose>Wind winds five-thousand four-hundred four-hundred combine,
 
 [15848]
 <tibetan>ཉི་ཁྲི་ཆིག་སྟོང་དྲུག་བརྒྱ་ནི་དར་ལ་བབ་པ་གཅིག་གི་འགྱུ་ཚད་ངེས་པའོ།
@@ -10157,7 +10157,7 @@ The draft in need of review is:
 [15850]
 <tibetan>།རླུང་གི་འབྱུང་བ་བག་ལ་ཉལ་བའི་ཚེའི་དུས་བརྩི་ན།
 <literal>/wind-possessive element predisposition sleep-possessive life-possessive time calculate at/
-<liturgical><prose>Wind element latency sleep life time calculate:
+<liturgical><prose>Wind element latency sleep life time calculate: || 15850 ||
 
 [15851]
 <tibetan>རླུང་གི་འཕོ་བ་རིང་ན་ཚེ་མཐར་སྐྱོལ་ལ།
@@ -10192,7 +10192,7 @@ The draft in need of review is:
 [15857]
 <tibetan>འབྱིལ་ན་རྟག་ཏུ་མི་དགེ་ཞིང་འཚེར་འགྲིབ་ལ་གནས།
 <literal>press at constant not-virtuous/harm decrease to located/
-<liturgical><prose>Pressed constant non-virtue harm decrease located, || 80 ||
+<liturgical><prose>Pressed constant non-virtue harm decrease located,
 
 [15858]
 <tibetan>རྒོད་ན་བློ་རྒོད་ཅིང་འགྲོ་བ་མི་བྱམས་སོ།
@@ -10207,7 +10207,7 @@ The draft in need of review is:
 [15860]
 <tibetan>འབྱུང་བའི་གྲལ་ཉམས་པས་ལན་ཏེ།
 <literal>element-possessive rank damage-by-means-of lan and/
-<liturgical><prose>Element row damaged.
+<liturgical><prose>Element row damaged. || 15860 ||
 
 [15861]
 <tibetan>འདི་ནི་རབ་ཏུ་རྒོད་ན་ཚེའི་དུས་མྱུར་དུ་བྱེད།
@@ -10242,7 +10242,7 @@ The draft in need of review is:
 [15867]
 <tibetan>འགྱུར་ན་ལོངས་སྤྱོད་ཆེ་ཞིང་ནད་མོད།
 <literal>'gyur at enjoyment great/disease certainly/
-<liturgical><prose>Gyur enjoyment great disease certain, || 90 ||
+<liturgical><prose>Gyur enjoyment great disease certain,
 
 [15868]
 <tibetan>རྒལ་ན་ལུས་ངག་གི་ལས་མི་འགྲུབ།
@@ -10257,7 +10257,7 @@ The draft in need of review is:
 [15870]
 <tibetan>མདོར་ན་ལུས་ལ་དགྲ་དར་ཞིང་རྟག་ཏུ་སྡུག་བསྔལ།
 <literal>summary at body to enemy spread/constant suffering/
-<liturgical><prose>Thus body enemy flourish constant suffering.
+<liturgical><prose>Thus body enemy flourish constant suffering. || 15870 ||
 
 [15871]
 <tibetan>གསེང་ན་ལེགས་ཉེས་སྟོན་པའོ།
@@ -10292,7 +10292,7 @@ The draft in need of review is:
 [15877]
 <tibetan>དྲུག་ཆ་མ་ཚང་ན་ཟླ་བ་ལྔ།
 <literal>sixth-part not-complete-if month five
-<liturgical><prose>One-sixth not-complete month five, || 100 ||
+<liturgical><prose>One-sixth not-complete month five,
 
 [15878]
 <tibetan>།བཞི་ཆ་མ་ཚང་ན་ཟླ་བ་གཅིག་བཅུ་ཆ་མ་ཚང་ན་ཞག་ཉེར་དགུ།
@@ -10307,7 +10307,7 @@ The draft in need of review is:
 [15880]
 <tibetan>སུམ་ཅུ་མ་ཚང་ན་བཅུ།
 <literal>thirty not-complete-if ten
-<liturgical><prose>Thirty not-complete ten,
+<liturgical><prose>Thirty not-complete ten, || 15880 ||
 
 [15881]
 <tibetan>བཞི་བཅུ་མ་ཚང་ན་བདུན།
@@ -10342,7 +10342,7 @@ The draft in need of review is:
 [15887]
 <tibetan>བདེ་སྡུག་ལ་སོགས་པའོ།
 <literal>pleasure-pain etc.
-<liturgical><prose>Bliss-suffering etc. || 110 ||
+<liturgical><prose>Bliss-suffering etc.
 
 [15888]
 <tibetan>།འདས་པ་ལ།
@@ -10357,7 +10357,7 @@ The draft in need of review is:
 [15890]
 <tibetan>འགྱུར་ཚད་ནི།
 <literal>change-measure is
-<liturgical><prose>Change amount:
+<liturgical><prose>Change amount: || 15890 ||
 
 [15891]
 <tibetan>ཉིན་མོའི་ཆ་ལ་བཅུ་གཉིས་སུ་འགྱུར་ལ་མཚན་མོའི་ཆ་ལ་བཅུ་དྲུག་ཏུ་འགྱུར་རོ།
@@ -10392,7 +10392,7 @@ The draft in need of review is:
 [15897]
 <tibetan>ཐལ་འགྱུར་ལས།
 <literal>result-transmission from
-<liturgical><tantra>Thalgyur-from: || 120 ||
+<liturgical><tantra>Thalgyur-from:
 
 [15898]
 <tibetan>ཐིག་ལེའི་ཆོས་ཉིད་སྟོན་འདོད་པས།
@@ -10407,7 +10407,7 @@ The draft in need of review is:
 [15900]
 <tibetan>།རེ་ཞིག་ཀུན་རྫོབས་ཐིག་ལེ་ལ།
 <literal>first conventional drop-to
-<liturgical><verse>First relative bindu-to,
+<liturgical><verse>First relative bindu-to, || 15900 ||
 
 [15901]
 <tibetan>།བརྟེན་ནས་སངས་རྒྱས་འདོད་པ་ཡིས།
@@ -10442,7 +10442,7 @@ The draft in need of review is:
 [15907]
 <tibetan>།བསྟེན་བྱ་ཉིད་དང་རྩ་རྣམས་དང༌།
 <literal>rely-should that and channel-plural and
-<liturgical><verse>Object rely channels, || 130 ||
+<liturgical><verse>Object rely channels,
 
 [15908]
 <tibetan>།དམིགས་བྱ་དག་གི་ལུས་རྫོགས་བྱ།
@@ -10457,7 +10457,7 @@ The draft in need of review is:
 [15910]
 <tibetan>།དབབ་ཅིང་གཟུང་དང་བཟློག་པ་དང༌།
 <literal>send-down-and hold and reverse and
-<liturgical><verse>Drop hold reverse,
+<liturgical><verse>Drop hold reverse, || 15910 ||
 
 [15911]
 <tibetan>།རྩ་ལ་གདབ་ཅིང་རླུང་ལ་བསྲེ།
@@ -10492,7 +10492,7 @@ The draft in need of review is:
 [15917]
 <tibetan>།གཏེམས་ཏེ་རིག་པའི་རྩལ་རྣམས་སྦྱང༌།
 <literal>insert-and awareness-of power-plural purify
-<liturgical><verse>Insert awareness power train, || 140 ||
+<liturgical><verse>Insert awareness power train,
 
 [15918]
 <tibetan>།ཉིན་མཚན་མེད་པར་གོམས་སྦྱོང་ན།
@@ -10507,7 +10507,7 @@ The draft in need of review is:
 [15920]
 <tibetan>།དེས་ནི་འབྱོངས་པའི་ཚད་ཡིན་ནོ།
 <literal>that-by-means-of completion-of measure is
-<liturgical><verse>That mastery amount."
+<liturgical><verse>That mastery amount." || 15920 ||
 
 [15921]
 <tibetan>།ཞེས་གསུངས་ཏེ།
@@ -10542,7 +10542,7 @@ The draft in need of review is:
 [15927]
 <tibetan>རིག་མ་བཙལ་བ་དང༌།
 <literal>knowledge-woman seek and*/
-<liturgical><prose>Consort seek, || 150 ||
+<liturgical><prose>Consort seek,
 
 [15928]
 <tibetan>འགུགས་པ་དང༌།
@@ -10557,7 +10557,7 @@ The draft in need of review is:
 [15930]
 <tibetan>རྩ་བཙལ་བ་དང༌།
 <literal>nadi seek and*/
-<liturgical><prose>Channel seek,
+<liturgical><prose>Channel seek, || 15930 ||
 
 [15931]
 <tibetan>གཟུང་བ་དང༌།
@@ -10592,7 +10592,7 @@ The draft in need of review is:
 [15937]
 <tibetan>རླུང་དང་བསྲེ་བ་དང༌།
 <literal>wind and mix and*/
-<liturgical><prose>Wind roast, || 160 ||
+<liturgical><prose>Wind roast,
 
 [15938]
 <tibetan>ཆོས་ཉིད་དུ་ལ་བཟླ་བ་དང༌།
@@ -10607,7 +10607,7 @@ The draft in need of review is:
 [15940]
 <tibetan>ལུས་སེམས་གོ་བཟློག་པའི་ཉམས་བསྟེན་པ་ལ་སོགས་པ་ནི་གོང་དུ་དབང་གསུམ་པའི་སྐབས་སུ་ཞིབ་ཏུ་སྤྲོས་ཟིན་ཏེ།
 <literal>body-mind reverse-of experience-train etc. are above empowerment third-of occasion-to detailed elaborate finished and/
-<liturgical><prose>Body mind reverse experience etc. above third empowerment occasion detailed elaborated.
+<liturgical><prose>Body mind reverse experience etc. above third empowerment occasion detailed elaborated. || 15940 ||
 
 [15941]
 <tibetan>དེ་ཡང་ལས་རླུང་གི་དུས་ན་ཐིག་ལེ་གཟུང་བ་དང༌།
@@ -10642,7 +10642,7 @@ The draft in need of review is:
 [15947]
 <tibetan>འོད་གསལ་གྱི་སྣང་བ་ཉིན་མཚན་འདྲེས་པ་ལ་སྤྱོད་དོ།
 <literal>clear-light-of appearance day-night mixed-in engage/
-<liturgical><prose>Light clear appearance day-night mixed engage. || 170 ||
+<liturgical><prose>Light clear appearance day-night mixed engage.
 
 [15948]
 <tibetan>།དེ་ཡང་ཀུན་རྫོབ་ཀྱི་ཐིག་ལེ་རོ་མ་ན་གནས་ལ།
@@ -10657,7 +10657,7 @@ The draft in need of review is:
 [15950]
 <tibetan>གཡོན་ན་རང་བཞིན་གྱི་ཐིག་ལེ་དངས་མ་ཕྲ་མོའི་གདངས་ལ་འོད་ཀྱི་རང་གདངས་སུ་གནས་པ་ཙམ་སྟེ།
 <literal>left-in essence-of bindu pure-subtle-of tone-in light-of self-tone-as dwell just is/
-<liturgical><prose>Left nature bindu pure subtle resonance light self-tone located,
+<liturgical><prose>Left nature bindu pure subtle resonance light self-tone located, || 15950 ||
 
 [15951]
 <tibetan>ཁ་སྦྱར་གྱི་བདེ་བའི་ངོ་བོ་སྟོང་པར་བསྒྱུར་བའི་དོན་ནོ།
@@ -10666,8 +10666,8 @@ The draft in need of review is:
 
 [15952]
 <tibetan>།དབུས་ན་ཆོས་སྐུའི་ཐིག་ལེ་སྤྲོས་བྲལ་འོད་གསལ་དག་པ་རང་བྱུང་ཡེ་ཤེས་ཀྱི་སྒྲོན་མ་འབར་བའི་གཞིར་གནས་སོ།
-<literal>/center-in dharmakaya-of bindu elaboration-free clear-light pure self-arising wisdom-of lamp blaze-of basis-in dwell/
-<liturgical><prose>Center Dharmakāya bindu elaboration-free light clear pure self-arise wisdom lamp blaze basis located.
+<literal>/center-in dharmakaya-of bindu elaboration-free clear-light pure self-arising wisdom-of lamp blaze-of ground-in dwell/
+<liturgical><prose>Center Dharmakāya bindu elaboration-free light clear pure self-arise wisdom lamp blaze ground located.
 
 [15953]
 <tibetan>།འདི་ཉིད་རྒྱས་པར་འོག་ཏུ་འཆད་དོ།
@@ -10692,7 +10692,7 @@ The draft in need of review is:
 [15957]
 <tibetan>།འོད་ཟེར་ཉིད་ཀྱིས་མཛེས་པའོ།
 <literal>/light-ray self by-means-of beautify is/
-<liturgical><verse>Light ray itself beautiful. || 180 ||
+<liturgical><verse>Light ray itself beautiful.
 
 [15958]
 <tibetan>།དེ་ཡང་ཆ་ནི་གསུམ་པ་སྟེ།
@@ -10707,7 +10707,7 @@ The draft in need of review is:
 [15960]
 <tibetan>།གཡས་པ་ཀུན་རྫོབ་ཐིག་ལེ་སྟེ།
 <literal>/right relative bindu is/
-<liturgical><verse>Right relative bindu,
+<liturgical><verse>Right relative bindu, || 15960 ||
 
 [15961]
 <tibetan>།བདེ་བ་ཆེན་པོའི་ཡན་གལ་ཅན།
@@ -10742,7 +10742,7 @@ The draft in need of review is:
 [15967]
 <tibetan>།དབུས་ན་གནས་ཤིང་རང་བཞིན་གསལ།
 <literal>/center-in dwell-and essence clear/
-<liturgical><verse>Center located nature clear, || 190 ||
+<liturgical><verse>Center located nature clear,
 
 [15968]
 <tibetan>།སྤྲོ་བསྡུ་སྨྲ་བསམ་ཡུལ་ལས་འདས།
@@ -10757,7 +10757,7 @@ The draft in need of review is:
 [15970]
 <tibetan>།ཡོད་མེད་མཐའ་གཉིས་རྣམ་པར་བསལ།
 <literal>/existence-nonexistence limit two from-beyond/
-<liturgical><verse>Existence-nonexistence two limits clear,
+<liturgical><verse>Existence-nonexistence two limits clear, || 15970 ||
 
 [15971]
 <tibetan>།རྟག་ཆད་མུ་ལ་གནས་པ་མེད།
@@ -10792,7 +10792,7 @@ The draft in need of review is:
 [15977]
 <tibetan>།རབ་ཏུ་གནས་པ་མ་ཡིན་པར།
 <literal>/firmly dwell not-is/
-<liturgical><verse>Firm located not, || 200 ||
+<liturgical><verse>Firm located not,
 
 [15978]
 <tibetan>།ཁ་སྦྱར་ཉིད་ཀྱིས་བདེ་བ་འཐོབ།
@@ -10807,7 +10807,7 @@ The draft in need of review is:
 [15980]
 <tibetan>།བདེ་ཆེན་ཡེ་ཤེས་ཆེན་པོའི་ལམ།
 <literal>/great-bliss wisdom great-of path/
-<liturgical><verse>Great bliss great wisdom path,
+<liturgical><verse>Great bliss great wisdom path, || 15980 ||
 
 [15981]
 <tibetan>།གསང་སྔགས་ཀུན་བདག་དཀྱིལ་འཁོར་ཡིན།
@@ -10842,7 +10842,7 @@ The draft in need of review is:
 [15987]
 <tibetan>།འབད་མེད་རང་གཞག་རྣམ་པ་གཉིས་ཀ་ཐེག་པ་འདིར་གསུངས་ལ།
 <literal>/effort-without self-place aspect two both vehicle this-in said and/
-<liturgical><prose>Effort-not self-place two this vehicle taught. || 210 ||
+<liturgical><prose>Effort-not self-place two this vehicle taught.
 
 [15988]
 <tibetan>།ཁྱད་པར་དུ་བློ་ཡང་རབ་རྣམས་ལ།
@@ -10857,7 +10857,7 @@ The draft in need of review is:
 [15990]
 <tibetan>ཡེ་ཤེས་དངོས་སུ་སྣང་བས་སྐུ་གསུམ་ལམ་དུ་བྱེད་པ་ཐིག་ལེ་བླ་ན་མེད་པའི་གནད་གསུངས་པས་ཐེག་པ་ཀུན་གྱིས་འཕགས་པའི་གནད་དོ།
 <literal>wisdom actually appear by-means-of three-kayas path-as make bindu supreme-of essential-points said by-means-of vehicle all by-means-of transcend-of essential-point is/
-<liturgical><prose>Wisdom actually appear Three Kayas path bindu unsurpassable vital-point taught vehicle surpass vital-point.
+<liturgical><prose>Wisdom actually appear Three Kayas path bindu unsurpassable vital-point taught vehicle surpass vital-point. || 15990 ||
 
 [15991]
 <tibetan>།ཐེག་པའི་ཆོག་རིན་པོ་ཆེའི་མཛོད་ལས།
@@ -10892,7 +10892,7 @@ The draft in need of review is:
 [15997]
 <tibetan>།དང་པོ་ནི།
 <literal>/first is/
-<liturgical><prose>First: || 220 ||
+<liturgical><prose>First:
 
 [15998]
 <tibetan>ལུས་ཐོག་མ་འཆགས་པའི་དུས་ན་ཆུ་ལ་བརྟེན་ནས་སྔོན་དུ་ཆགས་པའི་སྐྱེད་བྱེད་ཀྱི་རྩའི་མདུད་པའི་ནང་དུ་སྒྲོན་མའི་སྤྱན་དང༌།
@@ -10907,12 +10907,12 @@ The draft in need of review is:
 [16000]
 <tibetan>འབྱུང་བའི་སྤྱན་ལས་འབྱུང་བཞིའི་ལུས་གྲུབ་ཚུལ་སྔར་བཤད་དོ།
 <literal>element-of eye-from element-four-of body accomplish manner before explained/
-<liturgical><prose>Element eye-from elements four body accomplish manner before explained.
+<liturgical><prose>Element eye-from elements four body accomplish manner before explained. || 16000 ||
 
 [16001]
 <tibetan>།སྒྲོན་མའི་སྤྱན་ལས་ཡེ་ཤེས་ཀྱི་སྣང་བ་འོད་དང་ཐིག་ལེ་དང་སྐུ་ལ་སོགས་པའི་རང་བཞིན་དོན་དམ་པ་མྱ་ངན་ལས་འདས་པའི་གཞིར་མིག་གཉིས་ཀྱི་ཨ་འབྲས་ཀྱི་དཀྱིལ་དུ་རྩ་བ་མེན་གྱི་རྭ་འདྲ་བ་རྩ་བ་ཕྲ་ལ་རྩེ་མོ་ཁ་ཆེ་བ་གཉིས་ཆགས་ཏེ།
-<literal>/lamp-of eye-from primordial-wisdom-of appearance light and thig-le and body etc.-of nature ultimate sorrow-from liberated-possessive basis-to eye two-of a-'bras-of center-to rtsa-root men-of horn resemble rtsa-root subtle-at tip wide two attached/
-<liturgical><prose>Lamp eye-from wisdom appearance light bindu body etc. nature ultimate transcend basis eye two A fruit center horn like base subtle tip large two form,
+<literal>/lamp-of eye-from primordial-wisdom-of appearance light and thig-le and body etc.-of nature ultimate sorrow-from liberated-possessive ground-to eye two-of a-'bras-of center-to rtsa-root men-of horn resemble rtsa-root subtle-at tip wide two attached/
+<liturgical><prose>Lamp eye-from wisdom appearance light bindu body etc. nature ultimate transcend ground eye two A fruit center horn like base subtle tip large two form,
 
 [16002]
 <tibetan>རྒྱང་ཞག་ཆུའི་སྒྲོན་མ་ཞེས་བྱའོ།
@@ -10942,7 +10942,7 @@ The draft in need of review is:
 [16007]
 <tibetan>འགྲོ་བའི་ལམ་ནི་འཆར་བྱེད་སྒོ།
 <literal>move-of path is illuminate make door/
-<liturgical><verse>"Being path arise gateway, || 230 ||
+<liturgical><verse>"Being path arise gateway,
 
 [16008]
 <tibetan>།དེ་ཉིད་གཡས་གཉིས་གཡོན་གཉིས་དབུས།
@@ -10957,7 +10957,7 @@ The draft in need of review is:
 [16010]
 <tibetan>།ཐིག་ལེ་སྟོང་པའི་སྒྲོན་མ་དང༌།
 <literal>/thig-le empty-of lamp and/
-<liturgical><verse>Bindu empty lamp,
+<liturgical><verse>Bindu empty lamp, || 16010 ||
 
 [16011]
 <tibetan>།དག་པ་དབྱིངས་ཀྱི་སྒྲོན་མ་དང༌།
@@ -10992,7 +10992,7 @@ The draft in need of review is:
 [16017]
 <tibetan>སྒྲོན་མ་རྣམ་བཞིའི་འདི་ལྟ་སྟེ།
 <literal>lamp four-of this like/
-<liturgical><verse>Bindu empty lamp, || 240 ||
+<liturgical><verse>Bindu empty lamp,
 
 [16018]
 <tibetan>།ཐིག་ལེ་སྟོང་པའི་སྒྲོན་མ་དང༌།
@@ -11007,7 +11007,7 @@ The draft in need of review is:
 [16020]
 <tibetan>།ཤེས་རབ་རང་བྱུང་སྒྲོན་མ་དང༌།
 <literal>/sherab self-arisen lamp and/
-<liturgical><verse>Far-cast water lamps,
+<liturgical><verse>Far-cast water lamps, || 16020 ||
 
 [16021]
 <tibetan>།རྒྱང་ཞག་ཆུ་ཡི་སྒྲོན་མ་རྣམས།

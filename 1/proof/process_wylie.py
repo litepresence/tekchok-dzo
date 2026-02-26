@@ -14,7 +14,7 @@ import sys
 from pathlib import Path
 from datetime import datetime
 
-INPUT_DIR = Path("../text/frozen/wylie")
+INPUT_DIR = Path("../text/layer/wylie")
 OUTPUT_FILE = Path("html/wylie_proof.html")
 FILE_PATTERN = re.compile(r"^\d\d-\d\d-\d\d-\d\d\.txt$")
 

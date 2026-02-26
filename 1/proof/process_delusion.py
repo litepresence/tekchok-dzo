@@ -18,7 +18,7 @@ from datetime import datetime
 # CONFIGURATION
 # -----------------------------------------------------------------------------
 
-INPUT_DIR = Path("../text/dynamic/delusion")
+INPUT_DIR = Path("../text/layer/delusion")
 OUTPUT_FILE = Path("html/delusion_proof.html")
 FILE_PATTERN = re.compile(r"^\d\d-\d\d-\d\d-\d\d\.txt$")
 

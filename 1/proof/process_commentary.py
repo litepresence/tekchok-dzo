@@ -18,7 +18,7 @@ from datetime import datetime
 # CONFIGURATION
 # -----------------------------------------------------------------------------
 
-INPUT_DIR = Path("../text/dynamic/commentary")
+INPUT_DIR = Path("../text/layer/commentary")
 OUTPUT_FILE = Path("html/commentary_proof.html")
 FILE_PATTERN = re.compile(r"^\d\d-\d\d-\d\d-\d\d\.txt$")
 

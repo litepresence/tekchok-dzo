@@ -16,7 +16,7 @@ from datetime import datetime
 # CONFIGURATION
 # -----------------------------------------------------------------------------
 
-INPUT_DIR = Path("../text/dynamic/epistemic")
+INPUT_DIR = Path("../text/layer/epistemic")
 OUTPUT_FILE = Path("html/epistemic_proof.html")
 FILE_PATTERN = re.compile(r"^\d\d-\d\d-\d\d-\d\d\.txt$")
 

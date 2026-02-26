@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Liturgical Text Collection</title>
     <meta name="generator" content="Liturgical Parser">
-    <meta name="created" content="2026-02-25T16:44:07.044307">
+    <meta name="created" content="2026-02-25T19:04:16.744212">
     
 <style>
     @page {
@@ -422,10 +422,13 @@ window.addEventListener('hashchange', handleHashNavigation);
 // Dark mode handling - sync with parent
 (function() {
     const isDark = localStorage.getItem('darkMode') !== 'false';
+    console.log('Liturgical page loaded, isDark:', isDark);
     if (!isDark) document.body.classList.add('light-mode');
     
     window.addEventListener('message', function(e) {
+        console.log('Received message:', e.data);
         if (e.data && e.data.type === 'darkModeChange') {
+            console.log('darkModeChange received, enabled:', e.data.enabled);
             document.body.classList.toggle('light-mode', !e.data.enabled);
             localStorage.setItem('darkMode', e.data.enabled);
         }

@@ -88,7 +88,7 @@ The draft in need of review is:
 [16030]
 <tibetan>ལ་སོགས་པ་བཞི་བྱུང་བ་ལས།
 <literal>etc. four arise from/
-<liturgical><break><prose> Thus four arise from this.
+<liturgical><break><prose> Thus four arise from this. || 16030 ||
 
 [16031]
 <tibetan>ཀྱི་རྟེན་ཆུང་ངུར་རི་དང་ཁང་ཁྱིམ་ལ་སོགས་པ་ཆེན་པོ་རྣམས་སྣང་བ་ནི།
@@ -108,7 +108,7 @@ The draft in need of review is:
 [16034]
 <tibetan>འོད་རྩ་དག་པ་ཡེ་ཤེས་ཀྱི་སྣང་བ་འཛིན་ལ།
 <literal>light-root pure wisdom-of appearance hold-and/
-<liturgical><prose>The light-root, pure wisdom-appearance, is held. || 10 ||
+<liturgical><prose>The light-root, pure wisdom-appearance, is held.
 
 [16035]
 <tibetan>དེའི་རྟེན་གྱི་འཁྲུལ་སྣང་གི་སྣང་བ་མཐོང་བས།
@@ -138,7 +138,7 @@ The draft in need of review is:
 [16040]
 <tibetan>འདས་པའི་ཆ་འཛིན་པའི་ཕྱིར་རོ།
 <literal>transcended-of part hold-of cause is/
-<liturgical><prose>This is the cause for holding the transcended part.
+<liturgical><prose>This is the cause for holding the transcended part. || 16040 ||
 
 [16041]
 <tibetan>།གནད་འདི་གལ་པོ་ཆེའོ།
@@ -158,7 +158,7 @@ The draft in need of review is:
 [16044]
 <tibetan>ཐིག་ལེ་ཟླུམ་པོ་འོད་ལྔའི་མུ་ཁྱུད་ཅན་ཏེ་ལས་རླུང་དག་པའི་ཆ་ལས་བྱུང་བའོ།
 <literal>bindu round light five-of rim-possessing is karma-wind pure-of part from arise is/
-<liturgical><prose>The round bindu possessing the rim of five lights arises from the part of purified karma-wind. || 20 ||
+<liturgical><prose>The round bindu possessing the rim of five lights arises from the part of purified karma-wind.
 
 [16045]
 <tibetan>།དེ་ལས་ཤེས་རབ་རང་བྱུང་གི་སྒྲོན་མ་དང༌།
@@ -188,7 +188,7 @@ The draft in need of review is:
 [16050]
 <tibetan>ངོ་བོ་ནི།
 <literal>essence is/
-<liturgical><prose>Essence is:
+<liturgical><prose>Essence is: || 16050 ||
 
 [16051]
 <tibetan>རྒྱང་ཞགས་གཟིགས་སྟངས་ཀྱི་གནད་ལས་ཐིག་ལེ་སྟོང་པའི་སྒྲོན་མ་ལ་གཏད་དུས་ནང་གི་རིག་པ་དངས་སངས་རང་གསལ་དུ་མྱོང་བ་དེ་ཡིན་ནོ།
@@ -208,7 +208,7 @@ The draft in need of review is:
 [16054]
 <tibetan>།གདངས་ནི་རྡོ་རྗེ་ལུ་གུ་རྒྱུད་ཀྱི་སྣང་བ་གསེར་གྱི་སྐུད་པ་ལྡིང་བ་ལྟ་བུའོ།
 <literal>/tone is vajra-chain-of appearance gold-of cord hang like/
-<liturgical><prose>Tone is like a golden cord hanging of vajra-chain appearance. || 30 ||
+<liturgical><prose>Tone is like a golden cord hanging of vajra-chain appearance.
 
 [16055]
 <tibetan>།འདི་དག་མ་ཕྱེད་ན།
@@ -238,7 +238,7 @@ The draft in need of review is:
 [16060]
 <tibetan>ཕྱི་ནམ་མཁའ་དག་པའི་དཀྱིལ་ན་འོད་གདངས་སྔོ་རི་བ་ཅིག་ཐོག་མར་སྣང་བའོ།
 <literal>outer sky pure-of center-in light-tone blue-green somewhat first appear is/
-<liturgical><prose>Outer: in the center of the pure sky, a blue-green light-tone first appears somewhat.
+<liturgical><prose>Outer: in the center of the pure sky, a blue-green light-tone first appears somewhat. || 16060 ||
 
 [16061]
 <tibetan>།ནང་དེ་ལས་མཆེད་པ་ལྟར་ཤར་ཏེ།
@@ -288,7 +288,7 @@ The draft in need of review is:
 [16070]
 <tibetan>སྒྲོན་མ་སྐྱེས་བུ་ཡོད་མེད་ཀྱི་རྗེས་སུ་བྱེད་པའི་ཕྱིར་རོ།
 <literal>lamp person existence-nonexistence-of follow do-of cause is/
-<liturgical><prose>The lamp follows the cause of doing existence and non-existence of person.
+<liturgical><prose>The lamp follows the cause of doing existence and non-existence of person. || 16070 ||
 
 [16071]
 <tibetan>།འདིར་ནང་གི་ནམ་མཁའི་གདངས་སྔོ་བ་དེ་ཕྱིར་ཤར་བ་ལ་ཕྱིའི་དབྱིངས་ཞེས་བྱའོ།
@@ -297,8 +297,8 @@ The draft in need of review is:
 
 [16072]
 <tibetan>།དེས་ནམ་མཁའ་གོ་འབྱེད་འཆར་གཞིའི་ས་ཆ་ཙམ་ལས་དབྱིངས་དངོས་མ་ཡིན་ནོ།
-<literal>/that-by sky open arise-basis-of ground mere from space actual not is/
-<liturgical><prose>By that, space is merely the ground of the basis of open sky, not actual space.
+<literal>/that-by sky open arise-ground-of ground mere from space actual not is/
+<liturgical><prose>By that, space is merely the ground of the ground of open sky, not actual space.
 
 [16073]
 <tibetan>།དངོས་ནི་མཐིང་ག་ཡིན་ལ།
@@ -308,7 +308,7 @@ The draft in need of review is:
 [16074]
 <tibetan>དབྱིངས་ནང་གི་ནང་དབྱིངས་ཏེ།
 <literal>space inner-of inner space is/
-<liturgical><prose>Space is inner of inner space. || 50 ||
+<liturgical><prose>Space is inner of inner space.
 
 [16075]
 <tibetan>དེ་ལྟར་ན་དབྱིངས་དེ་ལས་སྣང་བ་དེ་བྱུང་བར་སྣང་བས་འདི་གཉིས་ལ་ཕྱི་དབྱིངས་ནང་དབྱིངས་ཞེས་སོ་སོར་བརྗོད་ཀྱང་འཇའ་འོད་ཀྱི་ཁུར་ཁྱིམ་དུ་མི་གསལ་བ་གསལ་བར་གོ་འཕོས་པ་ཙམ་དུ་ཤེས་པར་བྱའོ།
@@ -338,7 +338,7 @@ The draft in need of review is:
 [16080]
 <tibetan>ངན་རྟོག་སེམས་ཀྱི་དྲི་མས་རྣམས་པར་དག་པའོ།
 <literal>bad-concept mind-of stain by-means-of completely pure/
-<liturgical><prose>Completely pure by the stain of bad-concept mind.
+<liturgical><prose>Completely pure by the stain of bad-concept mind. || 16080 ||
 
 [16081]
 <tibetan>།སྒྲོན་མ་ནི།
@@ -388,7 +388,7 @@ The draft in need of review is:
 [16090]
 <tibetan>།ཐིག་ལེ་སྟོང་པའི་སྒྲོན་མ་ལས།
 <literal>/bindu empty-of lamp from/
-<liturgical><prose>From the lamp of empty bindu:
+<liturgical><prose>From the lamp of empty bindu: || 16090 ||
 
 [16091]
 <tibetan>ཀུན་རྫོབ་རྒྱུའི་ཐིག་ལེ་དང་སྦྱར་ན།
@@ -438,7 +438,7 @@ The draft in need of review is:
 [16100]
 <tibetan>སྣང་བ་དེ་དངོས་པོ་དང་མཚན་མར་མ་གྲུབ་པས་འབྱུང་བཞིའི་གནོད་པ་མེད།
 <literal>appearance that thing and characteristic not-established by-means-of four-elements-of harm not/
-<liturgical><prose>That appearance not established as thing and characteristic, no harm from four elements.
+<liturgical><prose>That appearance not established as thing and characteristic, no harm from four elements. || 16100 ||
 
 [16101]
 <tibetan>རང་སྣང་ཡིན་པས་བསྟན་ཡང་མི་གཞན་གྱིས་མི་མཐོང༌།
@@ -488,7 +488,7 @@ The draft in need of review is:
 [16110]
 <tibetan>དབང་པོ་རབ་སྐད་ཅིག་གསུམ་ལ་གྲོལ་བའི་ཆར་བྱུང་བས་རང་བྱུང་ཞེས་བྱའོ།
 <literal>sense excellent moment three-in free-of occasion arise by-means-of self-arising call/
-<liturgical><prose>Arising at occasion free in excellent three moments therefore called self-arising.
+<liturgical><prose>Arising at occasion free in excellent three moments therefore called self-arising. || 16110 ||
 
 [16111]
 <tibetan>།རླུང་ཟད་དེ་དབྱིངས་སུ་གྲོལ་བས་སྒྲོན་མ་ཞེས་བྱའོ།
@@ -537,8 +537,8 @@ The draft in need of review is:
 
 [16120]
 <tibetan>།སྣང་བ་དེ་དང་དེའི་དུས་ཀྱི་རིགས་པའི་གཞི་སྣང་ཤེས་རབ་དང་བཅས་པ་གཞན་ནས་མ་བྱུང་བར་རང་ལས་ཤར་བས་རང་ཞེས་བྱའོ།
-<literal>/appearance that and that-of time-of reasoning basis appear wisdom and together-with other from not-arise self from arise by-means-of self call/
-<liturgical><prose>That appearance and at that time reasoning basis appearing, wisdom together with other not arising, arising from self therefore called self.
+<literal>/appearance that and that-of time-of reasoning ground appear wisdom and together-with other from not-arise self from arise by-means-of self call/
+<liturgical><prose>That appearance and at that time reasoning ground appearanceing, wisdom together with other not arising, arising from self therefore called self. || 16120 ||
 
 [16121]
 <tibetan>།བྱུང་བ་ནི་དེ་དང་འབྲེལ་པ་གྲུབ་པ་སྟེ།
@@ -567,8 +567,8 @@ The draft in need of review is:
 
 [16126]
 <tibetan>དེ་ཡང་འོད་ལྔའི་འཆར་གཞི་ཡིན་པས་དབྱིངས་ཞེས་བྱའོ།
-<literal>that-also light five-of arise-basis is by-means-of space call/
-<liturgical><prose>That also: basis of arising of five lights therefore called space.
+<literal>that-also light five-of arise-ground is by-means-of space call/
+<liturgical><prose>That also: ground of arising of five lights therefore called space.
 
 [16127]
 <tibetan>།སྣང་བའོ་འོད་དུ་ཤར་དུས་འབྱུང་བ་རྡོས་བཅས་དག་པས་རྣམ་པར་དག་པ་ཞེས་བྱའོ།
@@ -587,8 +587,8 @@ The draft in need of review is:
 
 [16130]
 <tibetan>སྔོན་དུ་ལུས་ངག་ཡིད་གསུམ་གཞི་འཆོས་པས་ན་དབྱིངས་ཞེས་བྱ་སྟེ།
-<literal>before body speech mind three basis purify by-means-of space call/
-<liturgical><prose>Before, purifying the basis of body, speech, and mind three therefore called space.
+<literal>before body speech mind three ground purify by-means-of space call/
+<liturgical><prose>Before, purifying the ground of body, speech, and mind three therefore called space. || 16130 ||
 
 [16131]
 <tibetan>དང་པོ་ལུས་ཀྱི་གནད་མ་གཟིར་ན་ཡེ་ཤེས་དབང་དུ་མི་འདུས།
@@ -638,7 +638,7 @@ The draft in need of review is:
 [16140]
 <tibetan>འཆར་བྱེད་འོད་གསལ་གྱི་གནད་ཀྱིས་ཕྲ་རགས་ཀྱི་འབྱུང་བ་ལོག
 <literal>arise-produce clear-light-of essential-point by-means-of subtle-coarse-of elements reverse
-<liturgical><prose>By essential point of arise-produce clear light, subtle and coarse elements reverse.
+<liturgical><prose>By essential point of arise-produce clear light, subtle and coarse elements reverse. || 16140 ||
 
 [16141]
 <tibetan>ཆོས་ཉིད་མངོན་སུམ་གྱི་སྣང་བ་མཐོང་བའི་གནད་ཀྱིས་ཡིད་དཔྱོད་ཚིག་གིས་ཆོས་ཉིད་ཀྱི་དོན་མཇལ་བའི་ལྟ་སྒོམ་སྤྱོད་འབྲས་ཀྱི་འཕྲེང་ཐག་ཆད།
@@ -672,8 +672,8 @@ The draft in need of review is:
 
 [16147]
 <tibetan>།དེའང་མི་འགྱུར་བ་གསུམ་ལ་གཞི་བཅས་པས་རྟོག་པའི་འཕེལ་ཟད་དེ་ཆོས་ཉིད་དང་རང་གི་སྣང་བ་ལས་འགྲོ་ས་མེད།
-<literal>/that-also not-change three-on basis having by-means-of conceptual-thought-of increase exhaust-and reality and self-of appearance from go-place not/
-<liturgical><prose>That also: having three not-changing as basis, conceptual thought increase exhausted, and no go-place from reality and self-appearance.
+<literal>/that-also not-change three-on ground having by-means-of conceptual-thought-of increase exhaust-and reality and self-of appearance from go-place not/
+<liturgical><prose>That also: having three not-changing as ground, conceptual thought increase exhausted, and no go-place from reality and self-appearance.
 
 [16148]
 <tibetan>སྡོད་པ་གསུམ་ག་ཚད་བཟུང་བས་ལུས་ངག་ཡིད་གསུམ་ཁམས་གསུམ་དུ་མི་ལྡོག་པར་ངོ་ཤེས།
@@ -688,7 +688,7 @@ The draft in need of review is:
 [16150]
 <tibetan>གདེང་བཞིས་གྲོལ་ཚད་ཟིན་པས་འཁོར་འདས་ལ་རེ་དོགས་མེད་དེ་གཏན་ཡུལ་ཆོས་ཉིད་ཀྱི་དབྱིངས་སུ་ཕྱིན་པའོ།
 <literal>confidence four free measure grasp by-means-of samsara-nirvana-to hope-doubt not-and certainty object reality-of space-to gone is/
-<liturgical><prose>Grasping measure of four confidences free, no hope-doubt for samsara-nirvana, gone to certainty object of reality's space.
+<liturgical><prose>Grasping measure of four confidences free, no hope-doubt for samsara-nirvana, gone to certainty object of reality's space. || 16150 ||
 
 [16151]
 <tibetan>།དེ་ལྟར་སྒྲོན་མ་བཞི་མེད་ན་འཁོར་འདས་ཀྱི་འབྲེལ་པ་མི་ཆོད་ལ།
@@ -707,8 +707,8 @@ The draft in need of review is:
 
 [16154]
 <tibetan>གཞི་སྨིན་བྱེད་དབང་བཞིས་རང་རྒྱུད་སྦྱངས་ནས།
-<literal>basis ripen do empowerment four by-means-of self-continuum purify from/
-<liturgical><prose>From four empowerments ripening the basis, purifying self-continuum.
+<literal>ground ripen do empowerment four by-means-of self-continuum purify from/
+<liturgical><prose>From four empowerments ripening the ground, purifying self-continuum.
 
 [16155]
 <tibetan>ལམ་སྣང་བ་བཞི་ཚད་དུ་ཕྱིན་ཏེ།འབྲས་བུ་སྐུ་བཞི་དབྱིངས་སུ་འཁྱིལ་བ་དེའི་གནད་ལས་བྱུང་བའོ།
@@ -738,7 +738,7 @@ The draft in need of review is:
 [16160]
 <tibetan>ལྷུན་གྲུབ་རིན་པོ་ཆེ་གསང་བའི་སྦུབས་ལ་ཟང་ཐལ་བ་ནི་སྒྲོན་མ་བཞིའི་ཆོས་ཉིད་ཉམས་སུ་བླངས་པ་ལས་བྱུང་བའོ།
 <literal>spontaneously-accomplish precious secret cavity-in penetrate is lamp four-of reality experience-in take from arise is/
-<liturgical><prose>Penetrating spontaneously accomplished precious secret cavity arising from taking four lamps' reality in experience.
+<liturgical><prose>Penetrating spontaneously accomplished precious secret cavity arising from taking four lamps' reality in experience. || 16160 ||
 
 [16161]
 <tibetan>།འདིར་ཡང་བསྡུས་བས་སྒྲོན་མ་བཞིའི་རྣམ་གྲངས་བཤད་ན།
@@ -783,12 +783,12 @@ The draft in need of review is:
 [16169]
 <tibetan>།ཐིག་ལེ་ནི།
 <literal>/bindu is/
-<liturgical><prose>Bindu: || 140 ||
+<liturgical><prose>Bindu:
 
 [16170]
 <tibetan>གཞི་གནས་ཀྱི་ཡེ་ཤེས་ཏེ།
-<literal>basis-dwell-of wisdom is/
-<liturgical><prose>Wisdom of basis-dwelling.
+<literal>ground-dwell-of wisdom is/
+<liturgical><prose>Wisdom of ground-dwelling. || 16170 ||
 
 [16171]
 <tibetan>དེ་ཉིད་མངོན་དུ་སྣང་ཡང་ཀ་དག་གི་ཡེ་ཤེས་སུ་གནས་པས་རང་བཞིན་ལྷུན་གྲུབ་སྤྲོས་བྲལ་ཕྱོགས་རིས་ལས་འདས་ཏེ།
@@ -797,8 +797,8 @@ The draft in need of review is:
 
 [16172]
 <tibetan>ཀུན་ཁྱབ་ཀྱི་ཡེ་ཤེས་སུ་གནས་པས་མི་འགྱུར་བའི་གཞིའོ།
-<literal>all-pervading-of wisdom-as dwell by-means-of not-change-of basis/
-<liturgical><prose>Dwelling as all-pervading wisdom, basis of not-changing.
+<literal>all-pervading-of wisdom-as dwell by-means-of not-change-of ground/
+<liturgical><prose>Dwelling as all-pervading wisdom, ground of not-changing.
 
 [16173]
 <tibetan>།སྟོང་པ་ནི།
@@ -812,8 +812,8 @@ The draft in need of review is:
 
 [16175]
 <tibetan>སྟོང་ཉིད་འོད་གསལ་གྱི་འཆར་གཞི་མེ་ལོང་ལྟ་བུའི་ཡེ་ཤེས་སུ་གསལ་ལ།
-<literal>emptiness clear-light-of arise-basis mirror like-of wisdom-as clear-and/
-<liturgical><prose>Arise-basis of emptiness clear light clear as mirror-like wisdom,
+<literal>emptiness clear-light-of arise-ground mirror like-of wisdom-as clear-and/
+<liturgical><prose>Arise-ground of emptiness clear light clear as mirror-like wisdom,
 
 [16176]
 <tibetan>ཕྱོགས་དང་རིས་དང་དབུས་དང་མཐའ་མི་དམིགས་པར་སྟོང་པས་ཉམས་པ་ཉིད་ཀྱི་ཡེ་ཤེས་སུ་གནས་ལ།
@@ -838,7 +838,7 @@ The draft in need of review is:
 [16180]
 <tibetan>སྤྲོས་པ་དང་བྲལ་བའི་ཡེ་ཤེས་ཞེས་བྱའོ།
 <literal>elaboration and free-of wisdom call/
-<liturgical><prose>Called wisdom free from elaboration.
+<liturgical><prose>Called wisdom free from elaboration. || 16180 ||
 
 [16181]
 <tibetan>།སྒྲོན་མ་ནི།
@@ -857,8 +857,8 @@ The draft in need of review is:
 
 [16184]
 <tibetan>གཞི་ལ་གང་ཡང་སྤོང་མི་དགོས་ཡེ་ནས་ཡང་དག་པའི་ཆོས་ཉིད་ལ་བསྒྲུབ་ཏུ་མེད་པས་འདས་པས་བསྡུས་པའི་ཤེས་པའི་ཡེ་ཤེས་དང༌།
-<literal>basis-on anything abandon not-need from-the-start correct-of reality-to establish not-possess by-means-of transcend by-means-of gather-of knowledge-of wisdom and*/
-<liturgical><prose>And knowledge's wisdom gathered by transcendence, not needing to abandon anything on basis, not possessing establishment from the start of correct reality.
+<literal>ground-on anything abandon not-need from-the-start correct-of reality-to establish not-possess by-means-of transcend by-means-of gather-of knowledge-of wisdom and*/
+<liturgical><prose>And knowledge's wisdom gathered by transcendence, not needing to abandon anything on ground, not possessing establishment from the start of correct reality.
 
 [16185]
 <tibetan>མ་བཅོས་ལྷུག་པའི་རྩ་བ་མཐོང་བས་ཤེས་བྱས་བསྡུས་པའི་ཡེ་ཤེས་དང༌།
@@ -888,7 +888,7 @@ The draft in need of review is:
 [16190]
 <tibetan>དྲན་པ་དང༌།
 <literal>mindfulness and*/
-<liturgical><list>Mindfulness,
+<liturgical><list>Mindfulness, || 16190 ||
 
 [16191]
 <tibetan>རྟོག་པ་དང༌།
@@ -938,7 +938,7 @@ The draft in need of review is:
 [16200]
 <tibetan>།གཏན་ལ་འབེབས་པའི་ཡིད་ཀྱི་འགྱུ་བས།
 <literal>/certainty-to bring-of mind-of movement by-means-of/
-<liturgical><prose>By mind's movement bringing certainty,
+<liturgical><prose>By mind's movement bringing certainty, || 16200 ||
 
 [16201]
 <tibetan>ཕྱི་ནང་ཀུན་ལ་འགྱུས་པས་ང་དང༌།
@@ -988,7 +988,7 @@ The draft in need of review is:
 [16210]
 <tibetan>སྣང་སྟོང་དང༌།
 <literal>appear-empty and*/
-<liturgical><list>Appear-empty,
+<liturgical><list>Appear-empty, || 16210 ||
 
 [16211]
 <tibetan>སོ་སོའི་བྱེ་བྲག་མ་འདྲེས་ཐམས་ཅད་ལ་འཇུག་ཅིང་འཛིན་པའོ།
@@ -1038,7 +1038,7 @@ The draft in need of review is:
 [16220]
 <tibetan>རྐྱེན་དང༌།
 <literal>conditions and*/
-<liturgical><list>Conditions,
+<liturgical><list>Conditions, || 16220 ||
 
 [16221]
 <tibetan>ངོ་བོ་དང༌།
@@ -1088,7 +1088,7 @@ The draft in need of review is:
 [16230]
 <tibetan>བག་ལ་ཉལ་སྣ་ཚོགས་པའི་རྒྱུ་རྐྱེན་དང་བྱེད་པ་དུ་མ་ལས་དེ་ལྟར་བཏགས་སོ།
 <literal>latent-tendencies various-of cause-conditions and action many from thus label/
-<liturgical><prose>From various cause-conditions of latent tendencies and many actions, thus labeled.
+<liturgical><prose>From various cause-conditions of latent tendencies and many actions, thus labeled. || 16230 ||
 
 [16231]
 <tibetan>།ཁ་ཅིག་ཡིད་ཅེས་གཅིག་བརྗོད་པས་ཆོག་མོད།
@@ -1138,7 +1138,7 @@ The draft in need of review is:
 [16240]
 <tibetan>ཆོས་ཉིད་ཀྱི་བར་དོ་འདིར་ཆོད་དེ་མངོན་པར་རྫོགས་པར་སངས་རྒྱའོ།
 <literal>reality-of bardo this-in cut-and actually perfect buddha/
-<liturgical><prose>Cutting this reality's bardo, actually perfect Buddha.
+<liturgical><prose>Cutting this reality's bardo, actually perfect Buddha. || 16240 ||
 
 [16241]
 <tibetan>།འོད་ཀྱི་སྣང་བ་གྱེན་འགྲེང་དང་རྩིབས་ཤར་དང་མུ་ཁྱུད་དུ་སྣང་བས་འཁྲུལ་སྣང་རང་འགགས་ཏེ་ཡེ་ཤེས་སུ་གསལ་བའོ།
@@ -1188,7 +1188,7 @@ The draft in need of review is:
 [16250]
 <tibetan>མེ་ཏོག་དང༌།
 <literal>flower and*/
-<liturgical><list>Flower,
+<liturgical><list>Flower, || 16250 ||
 
 [16251]
 <tibetan>པདྨ་སྟོང་ལྡན་དང༌།
@@ -1228,7 +1228,7 @@ The draft in need of review is:
 [16258]
 <tibetan>ཤེས་རབ་རང་བྱུང་གིས་ཟད་པའི་སྣང་བ་མཐོང་བས་སྐུ་དང་ཡེ་ཤེས་སུ་ཞེན་པ་ལས་བློ་ལྡོག་པའོ།
 <literal>wisdom self-arising-by-means-of exhausted-of appearance seeing-by-means-of body and wisdom-as attachment from mind-turns of
-<liturgical><break><prose> By self-arising wisdom seeing exhausted appearance, mind turns from attachment to body and wisdom. || 230 ||
+<liturgical><break><prose> By self-arising wisdom seeing exhausted appearance, mind turns from attachment to body and wisdom.
 
 [16259]
 <tibetan>།དོན་གཉིས་པ་སྒྲོན་མ་བཞི་སོ་སོའི་རང་བཞིན་རྒྱས་པར་བཤད་པ་ལ་བཞི་སྟེ།
@@ -1238,7 +1238,7 @@ The draft in need of review is:
 [16260]
 <tibetan>རྒྱང་ཞགས་ཆུའི་སྒྲོན་མ།
 <literal>far-casting-water-of lamp
-<liturgical><prose>Lamp of far-casting-water.
+<liturgical><prose>Lamp of far-casting-water. || 16260 ||
 
 [16261]
 <tibetan>ཐིག་ལེ་སྟོང་པའི་སྒྲོན་མ།
@@ -1288,7 +1288,7 @@ The draft in need of review is:
 [16270]
 <tibetan>གང་གིས་སྐྱེད་ཚུལ།
 <literal>what-by-means-of arises manner
-<liturgical><prose>Manner of arising by what.
+<liturgical><prose>Manner of arising by what. || 16270 ||
 
 [16271]
 <tibetan>འཆར་སྒོའི་སྣང་བ།
@@ -1338,7 +1338,7 @@ The draft in need of review is:
 [16280]
 <tibetan>།གཉིས་ཀའི་ཆ་འཛིན་ལྟ་བས་ན།
 <literal>two both-of part hold view-by-means-of because
-<liturgical><tantra>Because through view, both parts are held.
+<liturgical><tantra>Because through view, both parts are held. || 16280 ||
 
 [16281]
 <tibetan>།འཁོར་འདས་མཐུན་པའི་ལྟ་བའོ།
@@ -1353,7 +1353,7 @@ The draft in need of review is:
 [16283]
 <tibetan>།གཉིས་པ་ངེས་ཚིག་ནི།
 <literal>second definition is
-<liturgical><prose>Second, the definition is this: || 10 ||
+<liturgical><prose>Second, the definition is this:
 
 [16284]
 <tibetan>འོད་གསལ་དངས་པའི་གཟུགས་བརྙན་དང་འཁྲུལ་སྣང་ས་རྡོའི་སྣང་བ་རྒྱང་རིང་པོ་ན་འདུག་པ་འཛིན་ཞིང༌།
@@ -1388,7 +1388,7 @@ The draft in need of review is:
 [16290]
 <tibetan>།ཐག་པ་ཡང་བརྟགས་ན་སྤུ་ཉག་མ་རེ་རེ་བ་འཆིང་བའི་དོན་བྱེད་མི་ནུས་པ་འདྲ་བ་ལ།
 <literal>rope also examine if hair single one one bind-of benefit do cannot-like to
-<liturgical><prose>If examine rope also, like hair single one one bind benefit cannot do.
+<liturgical><prose>If examine rope also, like hair single one one bind benefit cannot do. || 16290 ||
 
 [16291]
 <tibetan>མ་བརྟགས་ན་ཚོགས་པ་འཆིང་བྱེད་དུ་གྲུབ་པ་ལྟར།
@@ -1403,7 +1403,7 @@ The draft in need of review is:
 [16293]
 <tibetan>མ་བརྟགས་ན་བློ་དང་སྣང་ཡུལ་འཁྲུལ་པ་རང་རིག་འཆིང་བྱེད་ལྟར་སྣང་བའོ།
 <literal>not-examined if mind and appearance-object confusion self-awareness binding-agent like appear
-<liturgical><prose>If not examined, like confusion self-awareness binding-agent appear. || 20 ||
+<liturgical><prose>If not examined, like confusion self-awareness binding-agent appear.
 
 [16294]
 <tibetan>།བཅིངས་པར་སྣང་དུས་ནས་བཅིངས་པ་མེད་ལ།
@@ -1438,7 +1438,7 @@ The draft in need of review is:
 [16300]
 <tibetan>།ཡེ་ནས་ལྷུན་རྫོགས་སངས་རྒྱས་ཆོས།
 <literal>primordial spontaneously-complete buddha-dharma
-<liturgical><prose>Primordial spontaneously-complete Buddha-dharma.
+<liturgical><prose>Primordial spontaneously-complete Buddha-dharma. || 16300 ||
 
 [16301]
 <tibetan>།བསྟན་ཕྱིར་སྤྲོ་བ་སྣ་ཚོགས་མཛད།
@@ -1453,7 +1453,7 @@ The draft in need of review is:
 [16303]
 <tibetan>།ཡང་རང་སྣང་ཡས་སུ་མི་འཇུག་པ་འཆིང་བས་ཀྱང་ཞགས་པའོ།
 <literal>furthermore self-appearance vast into not-enter binding-by-means-of also noose
-<liturgical><prose>Furthermore, into vast self-appearance not-enter, through binding also noose. || 30 ||
+<liturgical><prose>Furthermore, into vast self-appearance not-enter, through binding also noose.
 
 [16304]
 <tibetan>།སྣང་བ་ལ་ཞེན་པ་མེད་པར་ནང་ཏིང་ངེ་འཛིན་གྱི་དགའ་བདེས་རླན་པར་བྱེད་པས་ཆུ་ཞེས་བྱའོ།
@@ -1488,7 +1488,7 @@ The draft in need of review is:
 [16310]
 <tibetan>།དེ་སྐད་དུ་ཡང་སྒྲོན་མ་འབར་བ་ལས།
 <literal>thus also burning-lamp from
-<liturgical><prose>Thus also from burning-lamp.
+<liturgical><prose>Thus also from burning-lamp. || 16310 ||
 
 [16311]
 <tibetan>ངེས་པའི་ཚིག་ནི་འདི་ལྟ་བུ།
@@ -1503,7 +1503,7 @@ The draft in need of review is:
 [16313]
 <tibetan>གཟུགས་སུ་་སྣང་བ་འཛིན་པ་དང༌།
 <literal>form-as appear hold and
-<liturgical><tantra>Through hold form-as appear and. || 40 ||
+<liturgical><tantra>Through hold form-as appear and.
 
 [16314]
 <tibetan>།ཁ་དོག་ལ་སོགས་སྡུད་པ་དང༌།
@@ -1538,7 +1538,7 @@ The draft in need of review is:
 [16320]
 <tibetan>།མྱང་འདས་འཕེན་པས་རྒྱང་ཡིན་ནོ།
 <literal>nirvana throw-by-means-of distance is
-<liturgical><tantra>Through throw nirvāṇa, distance is.
+<liturgical><tantra>Through throw nirvāṇa, distance is. || 16320 ||
 
 [16321]
 <tibetan>།དེ་བཞིན་འཁོར་བའི་སྣང་ཆ་ནས།
@@ -1553,7 +1553,7 @@ The draft in need of review is:
 [16323]
 <tibetan>།འདི་ཡིས་འཆིང་བས་ཞགས་པ་ཡིན།
 <literal>this-by-means-of bind-by-means-of noose is
-<liturgical><tantra>Through this by bind, noose is. || 50 ||
+<liturgical><tantra>Through this by bind, noose is.
 
 [16324]
 <tibetan>།དབང་པོའི་སྣང་ལ་སྣང་བ་ཡི།
@@ -1588,7 +1588,7 @@ The draft in need of review is:
 [16330]
 <tibetan>།འདི་ཡིས་འཛིན་པས་ཞགས་ཞེས་བྱ།
 <literal>this-by-means-of hold-by-means-of noose called
-<liturgical><tantra>Through this by hold, noose called.
+<liturgical><tantra>Through this by hold, noose called. || 16330 ||
 
 [16331]
 <tibetan>།ཆུ་ནི་སྣང་བ་དེ་དག་ལ།
@@ -1603,7 +1603,7 @@ The draft in need of review is:
 [16333]
 <tibetan>།ཀུན་ལ་ཆགས་པའི་སེམས་མེད་པར།
 <literal>all to attachment-of mind not-exist
-<liturgical><tantra>Not exist all to attachment-of mind. || 60 ||
+<liturgical><tantra>Not exist all to attachment-of mind.
 
 [16334]
 <tibetan>།སྣང་བ་རང་སར་བཞག་པས་ནི།
@@ -1638,7 +1638,7 @@ The draft in need of review is:
 [16340]
 <tibetan>།རང་ཤེས་སྤྱད་པ་འགགས་མེད་ཅིང༌།
 <literal>self-know experience cease not-exist and
-<liturgical><tantra>And not-exist cease self-know experience.
+<liturgical><tantra>And not-exist cease self-know experience. || 16340 ||
 
 [16341]
 <tibetan>།དབང་པོའི་རང་སྒོར་གསལ་བས་སྒྲོན།
@@ -1653,7 +1653,7 @@ The draft in need of review is:
 [16343]
 <tibetan>།ནང་དབྱིངས་རང་སར་དག་སྟེ།
 <literal>inner space self-place pure and
-<liturgical><tantra>And pure self-place inner space. || 70 ||
+<liturgical><tantra>And pure self-place inner space.
 
 [16344]
 <tibetan>སྣང༌།
@@ -1688,7 +1688,7 @@ The draft in need of review is:
 [16350]
 <tibetan>།ཞེས་སོ།
 <literal>thus
-<liturgical><tantra>Thus.
+<liturgical><tantra>Thus. || 16350 ||
 
 [16351]
 <tibetan>།གསུམ་པ་དབྱེ་ན་གསུམ་སྟེ།
@@ -1703,7 +1703,7 @@ The draft in need of review is:
 [16353]
 <tibetan>།ཡེ་ཤེས་འདུས་པའི་རྒྱ་ཞག་ཆུའི་སྒྲོན་མ་འོད་རྩ་དངས་པ་ཡེ་ཤེས་ཀྱི་ཁ་དོག་འཛིན།
 <literal>pristine-awareness gather-of distant-noose water-lamp light-root essence pristine-awareness-of color hold
-<liturgical><prose>Light-root essence pristine-awareness-of color hold, pristine-awareness gather-of distant-noose water-lamp. || 80 ||
+<liturgical><prose>Light-root essence pristine-awareness-of color hold, pristine-awareness gather-of distant-noose water-lamp.
 
 [16354]
 <tibetan>འཁྲུལ་སྣང་མི་འཛིན་པའོ།
@@ -1738,7 +1738,7 @@ The draft in need of review is:
 [16360]
 <tibetan>།འདི་ཤེས་པ་གལ་ཆེའོ།
 <literal>this know important
-<liturgical><prose>Important this know.
+<liturgical><prose>Important this know. || 16360 ||
 
 [16361]
 <tibetan>།ཡང་དེ་ཉིད་ལས།
@@ -1753,7 +1753,7 @@ The draft in need of review is:
 [16363]
 <tibetan>།འབྱུང་བའི་དངས་མ་རང་འདུས་པའི།
 <literal>element-of essence self-gather-of
-<liturgical><prose>Element-of essence self-gather-of. || 90 ||
+<liturgical><prose>Element-of essence self-gather-of.
 
 [16364]
 <tibetan>།རྒྱང་ཞག་ཆུ་ཡི་སྒྲོན་མ་དང༌།
@@ -1788,7 +1788,7 @@ The draft in need of review is:
 [16370]
 <tibetan>།རང་གི་མཚན་ཉིད་ལ་གསུམ་ལ།
 <literal>self characteristics to three
-<liturgical><prose>Self characteristics to three.
+<liturgical><prose>Self characteristics to three. || 16370 ||
 
 [16371]
 <tibetan>འབྱུང་བ་འདུས་པའི་རྒྱང་ཞགས་ཀྱི་མཚན་ཉིད་སྣང་བ་སྡུད་འཛིན་མཆེད་པའི་ཆར་གནས་པ།
@@ -1803,7 +1803,7 @@ The draft in need of review is:
 [16373]
 <tibetan>དབང་པོ་འདུས་པའི་མཚན་ཉིད་སྣང་བ་དང་སྣང་ཡུལ་དང་རང་ཤེས་མིག་གི་རྣམ་ཤེས་འཛིན་པའོ།
 <literal>power gather-of characteristics appearance and appearance-object and self-know eye-of consciousness hold
-<liturgical><prose>Power gather-of characteristics, hold appearance and appearance-object and self-know eye-of consciousness. || 100 ||
+<liturgical><prose>Power gather-of characteristics, hold appearance and appearance-object and self-know eye-of consciousness.
 
 [16374]
 <tibetan>།དེ་ལ་སྣང་བ་ནི།
@@ -1838,7 +1838,7 @@ The draft in need of review is:
 [16380]
 <tibetan>།ཡང་དེ་ཉིད་ལས།
 <literal>furthermore that from
-<liturgical><prose>Furthermore that from.
+<liturgical><prose>Furthermore that from. || 16380 ||
 
 [16381]
 <tibetan>འདི་ཡི་མཚན་ཉིད་འདི་ལྟ་བུ།
@@ -1853,7 +1853,7 @@ The draft in need of review is:
 [16383]
 <tibetan>།དབང་པོའི་དངས་མ་མིག་གི་སྒོར།
 <literal>power-of essence eye-of door-to
-<liturgical><prose>To power-of essence eye-of door-to. || 110 ||
+<liturgical><prose>To power-of essence eye-of door-to.
 
 [16384]
 <tibetan>།བསྐྱེད་པས་པདྨའི་སྤྱན་དུ་གནས།
@@ -1888,7 +1888,7 @@ The draft in need of review is:
 [16390]
 <tibetan>།དབང་པོས་ཡུལ་དང་ཡུལ་ཅན་དང༌།
 <literal>power-by-means-of object and object-possess and
-<liturgical><prose>Through power-by-means-of object and object-possess and.
+<liturgical><prose>Through power-by-means-of object and object-possess and. || 16390 ||
 
 [16391]
 <tibetan>།ཡུལ་མེད་རྣམས་ནི་རང་འཛིན་པའོ།
@@ -1903,7 +1903,7 @@ The draft in need of review is:
 [16393]
 <tibetan>།དེ་ལ་ཡུལ་སྣང་རུང་གི་གཟུགས་རྣམས་སོ།
 <literal>that to object appear capable-of forms
-<liturgical><prose>That to object appear capable-of forms. || 120 ||
+<liturgical><prose>That to object appear capable-of forms.
 
 [16394]
 <tibetan>།ཡུལ་ཅན་དབང་ཤེས་སོ།
@@ -1938,7 +1938,7 @@ The draft in need of review is:
 [16400]
 <tibetan>མིག་གི་དབང་རྟེན་དབང་པོ་དང་
 <literal>eye-of power-support power and
-<liturgical><break><prose> Power and light-root essence arise, eye-of power-support.
+<liturgical><break><prose> Power and light-root essence arise, eye-of power-support. || 16400 ||
 
 [16401]
 <tibetan>འོད་རྩའི་དངས་མ་བྱུང་སྟེ།
@@ -1953,7 +1953,7 @@ The draft in need of review is:
 [16403]
 <tibetan>སྙིང་ནས་སྒལ་ཚིགས་འདབ་ནས།
 <literal>heart from spine branch from
-<liturgical><prose>From ear two-of inside surface skull membrane, from eye-by-means-of a-berry two to pierce. || 130 ||
+<liturgical><prose>From ear two-of inside surface skull membrane, from eye-by-means-of a-berry two to pierce.
 
 [16404]
 <tibetan>རྣ་བ་གཉིས་ཀྱི་ནང་ངོས་ཀླད་རྒྱའི་སྤྲིས་ནས་མིག་གིས་ཨ་འབྲས་གཉིས་ལ་ཟུག་པར།
@@ -1988,7 +1988,7 @@ The draft in need of review is:
 [16410]
 <tibetan>།ཡུལ་རྣམས་འཛིན་པར་བྱེད་པ་ཡི།
 <literal>object hold make-of
-<liturgical><prose>From brain conch-hall white from.
+<liturgical><prose>From brain conch-hall white from. || 16410 ||
 
 [16411]
 <tibetan>།ཀླད་པ་དུང་ཁང་དཀར་པོ་ནས།
@@ -2003,7 +2003,7 @@ The draft in need of review is:
 [16413]
 <tibetan>།རྩ་ནི་བ་མེན་རྭ་ཡི་དབྱིབས།
 <literal>channel ram-horn shape
-<liturgical><prose>From power-of essence all gather-from. || 140 ||
+<liturgical><prose>From power-of essence all gather-from.
 
 [16414]
 <tibetan>།དབང་པོའི་དངས་མ་ཀུན་འདུས་ནས།
@@ -2038,7 +2038,7 @@ The draft in need of review is:
 [16420]
 <tibetan>དབུས་མ་ཚངས་བུག་ལ་ཟུག་པའི་ནང་ནས།
 <literal>middle brahma-aperture to pierce-of inside from
-<liturgical><break><prose> Vajra necklace and light-round-of dot stack five nine arise, awareness thought-free-of body.
+<liturgical><break><prose> Vajra necklace and light-round-of dot stack five nine arise, awareness thought-free-of body. || 16420 ||
 
 [16421]
 <tibetan>རིག་པ་རྟོག་མེད་ཀྱི་སྐུ་རྡོ་རྗེ་ལུ་གུ་རྒྱུད་དང་འོད་ཟླུམ་གྱི་ཐིག་ལེ་བརྩེགས་མ་ལྔ་ལྡན་དགུ་འཆར་ཏེ།
@@ -2053,7 +2053,7 @@ The draft in need of review is:
 [16423]
 <tibetan>།དེའང་རྩ་སྣ་ཆུའི་སྒྲོན་མའི་ཆའོ།
 <literal>that-also channel nose water-lamp-of part
-<liturgical><prose>Dot. || 150 ||
+<liturgical><prose>Dot.
 
 [16424]
 <tibetan>།ཐིག་ལེ་ནི།
@@ -2088,7 +2088,7 @@ The draft in need of review is:
 [16430]
 <tibetan>།མུ་ཏིག་འཕྲེང་བ་ལས།
 <literal>pearl garland from
-<liturgical><tantra>Awareness thought-free necklace.
+<liturgical><tantra>Awareness thought-free necklace. || 16430 ||
 
 [16431]
 <tibetan>རིག་པ་རྟོག་མེད་ལུ་གུ་རྒྱུད།
@@ -2103,7 +2103,7 @@ The draft in need of review is:
 [16433]
 <tibetan>།ཞེས་སོ།
 <literal>thus
-<liturgical><prose>Six produce manner. || 160 ||
+<liturgical><prose>Six produce manner.
 
 [16434]
 <tibetan>།དྲུག་པ་སྐྱེད་ཚུལ་ནི།
@@ -2138,7 +2138,7 @@ The draft in need of review is:
 [16440]
 <tibetan>།དབུས་ཀྱི་གྲུ་གསུམ་ཉིད་དུ་ཡང༌།
 <literal>center-of triangle itself also
-<liturgical><prose>From father mother-of cause condition essence.
+<liturgical><prose>From father mother-of cause condition essence. || 16440 ||
 
 [16441]
 <tibetan>།ཕ་མའི་རྒྱུ་རྐྱེན་དངས་མ་ལས།
@@ -2153,7 +2153,7 @@ The draft in need of review is:
 [16443]
 <tibetan>དེ་ཡང་ཕ་མའི་ཆ་གཉིས་ལས།
 <literal>that also father mother-of portion two from
-<liturgical><prose>White black mix itself. || 170 ||
+<liturgical><prose>White black mix itself.
 
 [16444]
 <tibetan>།དཀར་ནག་འདྲེས་པ་ཉིད་དུའོ།
@@ -2188,7 +2188,7 @@ The draft in need of review is:
 [16450]
 <tibetan>།དབང་པོ་ཡུལ་ལ་འཆར་བྱེད་པའི།
 <literal>power object-to arise make-of
-<liturgical><prose>This all appear arise, channel from.
+<liturgical><prose>This all appear arise, channel from. || 16450 ||
 
 [16451]
 <tibetan>།རྩ་ལས་འདི་ཀུན་སྣང་བར་ཤར།
@@ -2203,7 +2203,7 @@ The draft in need of review is:
 [16453]
 <tibetan>།བརྒྱད་པ་མཐུན་དཔེ་ནི།
 <literal>eight example
-<liturgical><prose>Hook like object-appearance hold. || 180 ||
+<liturgical><prose>Hook like object-appearance hold.
 
 [16454]
 <tibetan>ཡུལ་སྣང་འཛིན་པ་ལྕགས་ཀྱུ་ལྟ་བུ་སྟེ།།
@@ -2238,7 +2238,7 @@ The draft in need of review is:
 [16460]
 <tibetan>།ཅེས་སོ།
 <literal>thus
-<liturgical><prose>Nine measure to three from.
+<liturgical><prose>Nine measure to three from. || 16460 ||
 
 [16461]
 <tibetan>།དགུ་པ་ཚད་ལ་གསུམ་ལས།
@@ -2253,7 +2253,7 @@ The draft in need of review is:
 [16463]
 <tibetan>།ཡེ་ཤེས་ཀྱི་ཚད་ལུ་གུ་རྒྱུད་མཐོང་བའོ།
 <literal>pristine-awareness-of measure necklace see
-<liturgical><prose>Particular distinguish form-appearance, essence gather-of measure. || 190 ||
+<liturgical><prose>Particular distinguish form-appearance, essence gather-of measure.
 
 [16464]
 <tibetan>།དངས་མ་འདུས་པའི་ཚད་གཟུགས་སྣང་བྱེ་བྲག་ཕྱེད་པའོ།
@@ -2288,7 +2288,7 @@ The draft in need of review is:
 [16470]
 <tibetan>།གཉིས་པ་ཐིག་ལེ་སྟོང་པའི་སྒྲོན་མ་ལའང༌།
 <literal>second dot emptiness lamp to also
-<liturgical><prose>Definitive word.
+<liturgical><prose>Definitive word. || 16470 ||
 
 [16471]
 <tibetan>ངོ་བོ།
@@ -2303,7 +2303,7 @@ The draft in need of review is:
 [16473]
 <tibetan>དབྱེ་བ།
 <literal>divide
-<liturgical><break><prose> Location. || 200 ||
+<liturgical><break><prose> Location.
 
 [16474]
 <tibetan>མཚན་ཉིད།
@@ -2338,7 +2338,7 @@ The draft in need of review is:
 [16480]
 <tibetan>སྒྲོན་མ་དངོས།
 <literal>lamp actual
-<liturgical><prose>Example and twelve from.
+<liturgical><prose>Example and twelve from. || 16480 ||
 
 [16481]
 <tibetan>དེ་ཉམས་སུ་ལེན་ཐབས།
@@ -2387,7 +2387,7 @@ The draft in need of review is:
 [16490]
 <tibetan>།གོམས་པ་རྣམས་ཀྱི་སྤྱོད་ཡུལ་འཐོབ།
 <literal>familiarization all-of activity field obtain
-<liturgical><prose>Familiarization all-of activity field obtain.
+<liturgical><prose>Familiarization all-of activity field obtain. || 16490 ||
 
 [16491]
 <tibetan>།དེ་ཕྱིར་འདི་ཡི་ངོ་བོ་ནི།
@@ -2397,7 +2397,7 @@ The draft in need of review is:
 [16492]
 <tibetan>།ཉག་གཅིག་ཆ་ཕྲ་སྤྲོས་དང་བྲལ།
 <literal>singular part subtle elaboration and free
-<liturgical><prose>Singular part subtle elaboration and free. || 10 ||
+<liturgical><prose>Singular part subtle elaboration and free.
 
 [16493]
 <tibetan>།སྟོང་པའི་མུ་བྲལ་རང་གསལ་ཆེ།
@@ -2437,7 +2437,7 @@ The draft in need of review is:
 [16500]
 <tibetan>།རང་གིས་རང་གསལ་ངོ་བོས་སྟོང༌།
 <literal>self-by-means-of self-luminous essence-by-means-of empty
-<liturgical><prose>Through self-by-means-of self-luminous essence-by-means-of empty.
+<liturgical><prose>Through self-by-means-of self-luminous essence-by-means-of empty. || 16500 ||
 
 [16501]
 <tibetan>།འདི་ནི་དེ་ཡི་ངོ་བོ་འདོད།
@@ -2447,7 +2447,7 @@ The draft in need of review is:
 [16502]
 <tibetan>།ཅེས་སོ།
 <literal>thus
-<liturgical><prose>Thus. || 20 ||
+<liturgical><prose>Thus.
 
 [16503]
 <tibetan>།གཉིས་པ་ངེས་ཚིག་ནི།
@@ -2487,7 +2487,7 @@ The draft in need of review is:
 [16510]
 <tibetan>།ཡེ་ནས་བཅོས་པ་ཉིད་དང་བྲལ།
 <literal>primordial fabrication itself and free
-<liturgical><prose>Primordial fabrication itself and free.
+<liturgical><prose>Primordial fabrication itself and free. || 16510 ||
 
 [16511]
 <tibetan>།ལེ་ནི་གདལ་བ་ཆེན་པོ་ལ།
@@ -2497,7 +2497,7 @@ The draft in need of review is:
 [16512]
 <tibetan>།སྣང་བ་རྣམས་ནི་རང་སར་རྫོགས།
 <literal>appearance all self-place complete
-<liturgical><prose>All self-place complete appearance. || 30 ||
+<liturgical><prose>All self-place complete appearance.
 
 [16513]
 <tibetan>།སྟོང་པ་དངོས་པོའི་འཛིན་པ་ནི།
@@ -2537,7 +2537,7 @@ The draft in need of review is:
 [16520]
 <tibetan>།ཞེས་པ་དང༌།
 <literal>thus and
-<liturgical><prose>Pearl garland from.
+<liturgical><prose>Pearl garland from. || 16520 ||
 
 [16521]
 <tibetan>མུ་ཏིག་འཕྲེང་བ་ལས།
@@ -2547,7 +2547,7 @@ The draft in need of review is:
 [16522]
 <tibetan>དཔེར་ན་རྨ་བྱའི་དངོས་ལྟ་བུ།
 <literal>example-as peacock-of thing like
-<liturgical><prose>Not-exist change exist, bindu is. || 40 ||
+<liturgical><prose>Not-exist change exist, bindu is.
 
 [16523]
 <tibetan>།ཐིག་ནི་འགྱུར་བ་ཡོད་མ་ཡིན།
@@ -2587,7 +2587,7 @@ The draft in need of review is:
 [16530]
 <tibetan>སྙིང་ག་ཡེ་ཤེས་ཀྱི་དཔའ་བེའུ་ན་འཁོར་འདས་ཀུན་གྱི་གྱེས་མདོའམ།
 <literal>heart wisdom-of hero-bullet-in samsara-nirvana all-of dividing-line or
-<liturgical><prose>Source or.
+<liturgical><prose>Source or. || 16530 ||
 
 [16531]
 <tibetan>འབྱུང་གནས་སམ།
@@ -2597,7 +2597,7 @@ The draft in need of review is:
 [16532]
 <tibetan>ཟད་སར་གནས་སོ།
 <literal>exhaustion-at abide thus
-<liturgical><prose>Body abide channel-of bindu. || 50 ||
+<liturgical><prose>Body abide channel-of bindu.
 
 [16533]
 <tibetan>།ལུས་གནས་རྩའི་ཐིག་ལེ།
@@ -2637,7 +2637,7 @@ The draft in need of review is:
 [16540]
 <tibetan>དབང་པོའི་མངོན་སུམ་དུ་སྣང་བས་ཉིན་མཚན་འོད་གསལ་དུ་འདྲེས་ཏེ།
 <literal>power-of manifest in appear-by-means-of day night light-clarity into mix
-<liturgical><prose>In engage Buddha-of intention vast completely-liberate great.
+<liturgical><prose>In engage Buddha-of intention vast completely-liberate great. || 16540 ||
 
 [16541]
 <tibetan>སངས་རྒྱས་ཀྱི་དགོངས་པ་རྒྱ་ཡན་ཡོངས་གྲོལ་ཆེན་པོ་ལ་སྤྱོད་པའོ།
@@ -2647,7 +2647,7 @@ The draft in need of review is:
 [16542]
 <tibetan>།སྒྲོན་མ་འབར་བ་ལས།
 <literal>burning-lamp from
-<liturgical><prose>Divide itself aspect five. || 60 ||
+<liturgical><prose>Divide itself aspect five.
 
 [16543]
 <tibetan>དབྱེ་བ་ཉིད་ནི་རྣམ་པ་ལྔ།
@@ -2687,7 +2687,7 @@ The draft in need of review is:
 [16550]
 <tibetan>།ཕུང་པོ་ཁམས་སོགས་གཅིག་ཏུ་བཟླུམས།
 <literal>aggregate element etc one gather
-<liturgical><prose>Through ultimate elaboration-free dot-by-means-of.
+<liturgical><prose>Through ultimate elaboration-free dot-by-means-of. || 16550 ||
 
 [16551]
 <tibetan>།དོན་དམ་སྤྲོས་མེད་ཐིག་ལེ་ཡིས།
@@ -2697,7 +2697,7 @@ The draft in need of review is:
 [16552]
 <tibetan>།དབྱིངས་དང་རིག་པ་གཅིག་ཏུ་བཟླུམས།
 <literal>space and awareness one gather
-<liturgical><prose>Through self-arisen fruit-of dot-by-means-of. || 70 ||
+<liturgical><prose>Through self-arisen fruit-of dot-by-means-of.
 
 [16553]
 <tibetan>།རང་བྱུང་འབྲས་བུའི་ཐིག་ལེ་ཡིས།
@@ -2737,7 +2737,7 @@ The draft in need of review is:
 [16560]
 <tibetan>།ཅེས་སོ།
 <literal>thus
-<liturgical><prose>Four characteristics.
+<liturgical><prose>Four characteristics. || 16560 ||
 
 [16561]
 <tibetan>།བཞི་པ་མཚན་ཉིད་ནི།
@@ -2747,7 +2747,7 @@ The draft in need of review is:
 [16562]
 <tibetan>ཟླ་དང་བྲལ་བའི་སྟོང་པ་དབང་པོའི་ཡུལ་དུ་ཤར་ན་མ་བསྒོམས་ཆུ་བོ་རྒྱུན་གྱི་བསམ་གཏན་ལ་གནས་པ་སྟེ།
 <literal>moon and free emptiness power-of object-to arise if not-meditate river flow-of meditation in abide
-<liturgical><prose>That from. || 80 ||
+<liturgical><prose>That from.
 
 [16563]
 <tibetan>དེ་ཉིད་ལས།
@@ -2787,7 +2787,7 @@ The draft in need of review is:
 [16570]
 <tibetan>བྱེ་བྱེད་བྲག་བར་རྒྱུ་དུ་གནས།
 <literal>division action rock middle flow abide
-<liturgical><prose>Through pervade clear-by-means-of emptiness, characteristics.
+<liturgical><prose>Through pervade clear-by-means-of emptiness, characteristics. || 16570 ||
 
 [16571]
 <tibetan>།མཚན་ཉིད་སྟོང་པ་གསལ་བས་ཁྱབ།
@@ -2797,7 +2797,7 @@ The draft in need of review is:
 [16572]
 <tibetan>།ཅེས་སོ།
 <literal>thus
-<liturgical><prose>Five location. || 90 ||
+<liturgical><prose>Five location.
 
 [16573]
 <tibetan>།ལྔ་པ་གནས་ནི།
@@ -2837,7 +2837,7 @@ The draft in need of review is:
 [16580]
 <tibetan>ཤེལ་སྦུག་ཅན་ན་བཟང་པོའི་རྒྱན་དང་ལྡན་པའི་ཐིག་ལེ་འོད་གསལ་དུ་སྣང་བའོ།
 <literal>crystal cavity in good ornament possess-of dot light-clarity appear
-<liturgical><prose>Furthermore that from.
+<liturgical><prose>Furthermore that from. || 16580 ||
 
 [16581]
 <tibetan>།ཡང་དེ་ཉིད་ལས།
@@ -2847,7 +2847,7 @@ The draft in need of review is:
 [16582]
 <tibetan>སེམས་ཅན་ཀུན་གྱི་ལུས་ཀྱི་དཀྱིལ།
 <literal>sentient-being all-of body-of center
-<liturgical><tantra>From citta jewel palace. || 100 ||
+<liturgical><tantra>From citta jewel palace.
 
 [16583]
 <tibetan>།ཙིཏྟ་རིན་ཆེན་གཞལ་ཡས་ལས།
@@ -2887,7 +2887,7 @@ The draft in need of review is:
 [16590]
 <tibetan>།གནས་ཤིང་རླུང་གི་རྟ་ལ་ཞོན།
 <literal>abide and wind-of horse ride
-<liturgical><prose>Arise and enter and self-arise and.
+<liturgical><prose>Arise and enter and self-arise and. || 16590 ||
 
 [16591]
 <tibetan>།འབྱུང་དང་འཇུག་དང་རང་ཤར་དང༌།
@@ -2897,7 +2897,7 @@ The draft in need of review is:
 [16592]
 <tibetan>།སྣང་བ་ཡི་ནི་བདག་ཉིད་དུ།
 <literal>appearance-of self-nature-as
-<liturgical><prose>Although primordial elaboration not-exist. || 110 ||
+<liturgical><prose>Although primordial elaboration not-exist.
 
 [16593]
 <tibetan>།ཡེ་ནས་སྤྲོས་པ་མེད་པར་ཡང༌།
@@ -2937,7 +2937,7 @@ The draft in need of review is:
 [16600]
 <tibetan>།དྲུག་པ་སྒོ་ནི།
 <literal>six door
-<liturgical><tantra>From eye-of clarity center-from generally lamp four all appear and.
+<liturgical><tantra>From eye-of clarity center-from generally lamp four all appear and. || 16600 ||
 
 [16601]
 <tibetan>མིག་གི་དངས་མའི་དཀྱིལ་ལས་སྤྱིར་སྒྲོན་མ་བཞི་ཀ་སྣང་ལ།
@@ -2947,7 +2947,7 @@ The draft in need of review is:
 [16602]
 <tibetan>ཁྱད་པར་དུ་ཐིག་ལེ་སྟོང་སྒྲོན་རང་འོད་དང་བཅས་་པ་སྣང་སྟེ།
 <literal>particularly bindu empty lamp self-light with appear and
-<liturgical><prose>That itself from. || 120 ||
+<liturgical><prose>That itself from.
 
 [16603]
 <tibetan>དེ་ཉིད་ལས།
@@ -2987,7 +2987,7 @@ The draft in need of review is:
 [16610]
 <tibetan>།སྤྱིར་མིག་གཡས་ནས་རྒྱང་ཞགས་དང་ཤེས་རབ་གཉིས།
 <literal>generally eye right-from far-casting and wisdom two
-<liturgical><prose>In manner-in abide, brahma-aperture-in awareness-of body lamp blazing-of.
+<liturgical><prose>In manner-in abide, brahma-aperture-in awareness-of body lamp blazing-of. || 16610 ||
 
 [16611]
 <tibetan>།གཡོན་ནས་ཐིག་ལེ་དང་དབྱིངས་གཉིས།
@@ -2997,7 +2997,7 @@ The draft in need of review is:
 [16612]
 <tibetan>།ཚངས་བུག་ན་རིག་པའི་སྐུ་སྒྲོན་མ་འབར་འི་ཚུལ་དུ་གནས་ཏེ།
 <literal>brahma-aperture-in awareness-of body lamp blazing-of manner-in abide and
-<liturgical><prose>Beings-of path is. || 130 ||
+<liturgical><prose>Beings-of path is.
 
 [16613]
 <tibetan>མུ་ཏིག་འཕྲེང་བ་ལས།
@@ -3037,7 +3037,7 @@ The draft in need of review is:
 [16620]
 <tibetan>།ཐོག་མའི་ཀ་དག་གི་རང་བཞིན་ལས་འོད་གསལ་ལྷུན་གྲུབ་ཀྱི་ཐིག་ལེ་སྟོང་པ་ཆུ་ཟླ་ལྟ་བུར་ཤར་བ་སྟེ།
 <literal>first ka-pure-of nature from light-luminous spontaneous bindu empty water-moon like arise is
-<liturgical><prose>Bindu empty ignorance darkness dispel.
+<liturgical><prose>Bindu empty ignorance darkness dispel. || 16620 ||
 
 [16621]
 <tibetan>དབང་རྣམ་པར་ཕྱེ་བ་ལས།
@@ -3047,7 +3047,7 @@ The draft in need of review is:
 [16622]
 <tibetan>མ་རིག་མུན་སེལ་ཐིག་ལེ་སྟོང་པ་ཉིད།
 <literal>ignorance darkness dispel bindu empty
-<liturgical><prose>Thus and from lamp blazing. || 140 ||
+<liturgical><prose>Thus and from lamp blazing.
 
 [16623]
 <tibetan>།དབང་པོའི་ཡུལ་ལ་སྣང་བ་ངོ་མཚར་ཆེ།
@@ -3087,7 +3087,7 @@ The draft in need of review is:
 [16630]
 <tibetan>།དངོས་པོ་ལས་ནི་ལོག་པར་ཞུགས།
 <literal>thing from reverse-to enter
-<liturgical><prose>In first-in self-luminous know.
+<liturgical><prose>In first-in self-luminous know. || 16630 ||
 
 [16631]
 <tibetan>།སྟོང་པ་ཉིད་དུ་མ་ཡིན་ཏེ།
@@ -3097,7 +3097,7 @@ The draft in need of review is:
 [16632]
 <tibetan>།རང་གསལ་ཤེས་པའི་ཐོག་མར་ནི།
 <literal>self-luminous know-of first-in
-<liturgical><tantra>From first ka-pure great. || 150 ||
+<liturgical><tantra>From first ka-pure great.
 
 [16633]
 <tibetan>།ཡེ་ནས་རང་གི་མཚན་ཉིད་དུ།
@@ -3137,17 +3137,17 @@ The draft in need of review is:
 [16640]
 <tibetan>གཞི་ཀ་དག་གི་དུས་ན་སྒྲོན་མ་བཞི་ལྷུན་གྲུབ་ཀྱི་ཆ་ལ་ནང་གསལ་ཕྲ་བར་ཡོད་ལ།
 <literal>ground ka-pure-of time-at lamp four spontaneous-of part-to inner luminous subtle-at exist and
-<liturgical><prose>To arise five-of appearance-to, sphere light ray.
+<liturgical><prose>To arise five-of appearance-to, sphere light ray. || 16640 ||
 
 [16641]
 <tibetan>གཞི་སྣང་དུ་ཤར་དུས།
-<literal>ground appearance-to arise time
+<literal>ground-appearance-to arise time
 <liturgical><prose>To arise body-of part-to, bindu each self-light house-in.
 
 [16642]
 <tibetan>དབྱིངས་་ཀྱི་འོད་ཟེར་ལྔའི་སྣང་བར་ཤར།
 <literal>sphere light ray five-of appearance-to arise
-<liturgical><prose>To arise light ray-of connecting-cord-to, far-casting self-luminous. || 160 ||
+<liturgical><prose>To arise light ray-of connecting-cord-to, far-casting self-luminous.
 
 [16643]
 <tibetan>ཐིག་ལེ་སོ་སོའི་འོད་ཁྱིམ་ན་སྐུའི་ཆར་ཤར།
@@ -3187,7 +3187,7 @@ The draft in need of review is:
 [16650]
 <tibetan>སྒྲོན་མ་ཉིད་ཕྱིར་སྣང་དུས་དེ་ལས་མཆེད་པའི་རང་གདངས་དཔག་ཏུ་མེད་པ་འཆར་ར།
 <literal>lamp itself outward appear time that from expand-of self-essence immeasurable arise
-<liturgical><prose>Lamp actual lamp clear.
+<liturgical><prose>Lamp actual lamp clear. || 16650 ||
 
 [16651]
 <tibetan>།དེའང་ཚང་སྙིང་ནང་གི་ཐིག་ལེ་ལས་བཅས་ནས།
@@ -3197,7 +3197,7 @@ The draft in need of review is:
 [16652]
 <tibetan>སྒྲོན་དངོས་སྒྲོན་གསལ་བ་སྟེ།
 <literal>lamp actual lamp clear
-<liturgical><prose>Like nature clear, bird flock. || 170 ||
+<liturgical><prose>Like nature clear, bird flock.
 
 [16653]
 <tibetan>ཚང་ན་མི་གནས་སྒོར་གནས་པ།
@@ -3237,7 +3237,7 @@ The draft in need of review is:
 [16660]
 <tibetan>།སྣང་བ་རང་ངོ་མ་འགགས་པས།
 <literal>appearance self-face not-cease-by-means-of
-<liturgical><prose>As also unexpressable self-abide essence.
+<liturgical><prose>As also unexpressable self-abide essence. || 16660 ||
 
 [16661]
 <tibetan>།རང་བྱུང་ཐག་ལེ་ཆེན་པོར་གནས།
@@ -3247,7 +3247,7 @@ The draft in need of review is:
 [16662]
 <tibetan>།བརྗོད་མེད་རང་གནས་ངོ་བོར་ཡང༌།
 <literal>unexpressable self-abide essence-as also
-<liturgical><prose>Thus. || 180 ||
+<liturgical><prose>Thus.
 
 [16663]
 <tibetan>།ཡེ་ནས་ནམ་མཁའི་ཁམས་སུ་སྣང༌།
@@ -3287,7 +3287,7 @@ The draft in need of review is:
 [16670]
 <tibetan>།དེ་ཡི་ཚད་དུ་དེ་གྱུར་ཏོ།
 <literal>that-of measure-to that become
-<liturgical><prose>To effort measure, effort-possess.
+<liturgical><prose>To effort measure, effort-possess. || 16670 ||
 
 [16671]
 <tibetan>།རྩོལ་མེད་གྲོལ་བའི་རྟགས་སུ་སྣང༌།
@@ -3297,7 +3297,7 @@ The draft in need of review is:
 [16672]
 <tibetan>།རྩོལ་བཅས་ལ་ནི་འབད་ཚད་དོ།
 <literal>effort-possess to effort measure
-<liturgical><prose>Ten lamp actual face grasp. || 190 ||
+<liturgical><prose>Ten lamp actual face grasp.
 
 [16673]
 <tibetan>།ཞེས་སོ།
@@ -3337,7 +3337,7 @@ The draft in need of review is:
 [16680]
 <tibetan>།ཡི་དྭགས་ལའང་ཕྱིར་མེད་པ་སེར་པོའོ།
 <literal>hungry-ghost-to also outward not-exist yellow
-<liturgical><prose>Through outward not-appear, bad-destiny virtue portion small-by-means-of.
+<liturgical><prose>Through outward not-appear, bad-destiny virtue portion small-by-means-of. || 16680 ||
 
 [16681]
 <tibetan>།དམྱལ་བ་ལ་ཕྱིར་མི་སྣང་ཡང་རང་བཞིན་དུ་ཁ་དོག་ལྔར་ཡོད་དོ།
@@ -3347,7 +3347,7 @@ The draft in need of review is:
 [16682]
 <tibetan>།ངན་སོང་ནི་དགེ་བ་ཤས་ཆུང་བས་ཕྱིར་མི་སྣང་ལ།
 <literal>bad-destiny virtue portion small-by-means-of outward not-appear
-<liturgical><tantra>From result-come. || 200 ||
+<liturgical><tantra>From result-come.
 
 [16683]
 <tibetan>ནང་ནའང་ཆ་ཕྲ་བ་ཙམ་དུ་རང་རྫོགས་སུ་ཡོད་དེ།
@@ -3387,7 +3387,7 @@ The draft in need of review is:
 [16690]
 <tibetan>།སོ་སོའི་རྒྱུད་ལ་གནས་པ་སྟེ།
 <literal>each continuum in abide
-<liturgical><prose>To fine and flicker, titans-to.
+<liturgical><prose>To fine and flicker, titans-to. || 16690 ||
 
 [16691]
 <tibetan>།ལྷ་རྣམས་རང་གསལ་རྫོགས་པ་སྟེ།
@@ -3397,7 +3397,7 @@ The draft in need of review is:
 [16692]
 <tibetan>།ལྷ་མིན་རྣམས་ལ་ཕྲ་ཞིང་འཁྱུག
 <literal>titans-to fine and flicker
-<liturgical><break><prose> All-to inner-to luminous, animals. || 210 ||
+<liturgical><break><prose> All-to inner-to luminous, animals.
 
 [16693]
 <tibetan>།མི་རྣམས་རང་གསལ་ཟླུམ་པོ་ཉིད།
@@ -3437,7 +3437,7 @@ The draft in need of review is:
 [16700]
 <tibetan>།ལྷ་རྣམས་ལ་ནི་རང་མཐོ་གང༌།
 <literal>gods all-to self-high extent
-<liturgical><prose>Self-of hand extent of, demigods.
+<liturgical><prose>Self-of hand extent of, demigods. || 16700 ||
 
 [16701]
 <tibetan>།ཟླུམ་པོ་རང་གསལ་ཆེན་པོར་ཡོད།
@@ -3447,7 +3447,7 @@ The draft in need of review is:
 [16702]
 <tibetan>།ལྷ་མིན་རང་གི་ཕྱག་གང་ངོ༌།
 <literal>demigods self-of hand extent of
-<liturgical><prose>Round leak not-exist-at exist. || 220 ||
+<liturgical><prose>Round leak not-exist-at exist.
 
 [16703]
 <tibetan>།མི་རྣམས་རང་གི་མཐེབ་གང་ལ།
@@ -3487,7 +3487,7 @@ The draft in need of review is:
 [16710]
 <tibetan>།མི་ལ་དམར་གསལ་རང་ཆགས་བྲལ།
 <literal>humans-to red-luminous self-attachment free
-<liturgical><prose>Likewise of, pretas yellow.
+<liturgical><prose>Likewise of, pretas yellow. || 16710 ||
 
 [16711]
 <tibetan>།བྱོལ་སོང་ཉི་ལ་མཐིང་ཤས་ཆེ།
@@ -3497,7 +3497,7 @@ The draft in need of review is:
 [16712]
 <tibetan>།ཡི་དགས་སེར་པོ་དེ་བཞིན་ནོ།
 <literal>pretas yellow likewise of
-<liturgical><prose>Abide self-luminous awareness-of part. || 230 ||
+<liturgical><prose>Abide self-luminous awareness-of part.
 
 [16713]
 <tibetan>།དམྱལ་བ་རྣམས་ལ་ཁ་དོག་ལྔ།
@@ -3537,7 +3537,7 @@ The draft in need of review is:
 [16720]
 <tibetan>སྣང་མུན་འདྲེས་པ་ནི་འཁོར་བ་མྱང་འདས་སུ་གྲོལ་བའོ།
 <literal>appearance darkness mix is samsara nirvana-to liberated of
-<liturgical><prose>If effort with take, tip small outer two slowly press and eye before like cover-by-means-of light ray spread is.
+<liturgical><prose>If effort with take, tip small outer two slowly press and eye before like cover-by-means-of light ray spread is. || 16720 ||
 
 [16721]
 <tibetan>།དེ་ཡང་ཁ་དོག་དམར་པོ་མེད་པར་ལྔ་ལྡན་དུ་རང་གསལ་བ་ནི་རྩོལ་མེད་ཀྱི་ལེན་ལུགས་སོ།
@@ -3547,7 +3547,7 @@ The draft in need of review is:
 [16722]
 <tibetan>།རྩོལ་བཅས་སུ་ལེན་ན་རྩེ་ཆུང་ཕྱི་མ་གཉིས་དལ་བུས་མནན་ལ་མིག་སྔར་བཞིན་གཏེམས་པས་འོད་ཟེར་མཆེད་པ་སྟེ།
 <literal>effort with take if tip small outer two slowly press and eye before like cover-by-means-of light ray spread is
-<liturgical><prose>Through self-of thumb and finger-by-means-of. || 240 ||
+<liturgical><prose>Through self-of thumb and finger-by-means-of.
 
 [16723]
 <tibetan>དེ་ཉིད་ལས།
@@ -3587,7 +3587,7 @@ The draft in need of review is:
 [16730]
 <tibetan>།འདིས་ནི་རིག་པའི་རང་དབང་ཐོབ།
 <literal>this-by-means-of awareness-of self-power obtain
-<liturgical><prose>That also this like, effort possessor.
+<liturgical><prose>That also this like, effort possessor. || 16730 ||
 
 [16731]
 <tibetan>།དེ་ནི་རྩོལ་མེད་རང་གྲོལ་ལོ།
@@ -3597,7 +3597,7 @@ The draft in need of review is:
 [16732]
 <tibetan>།རྩོལ་བ་ཅན་དེ་ཡང་འདི་ལྟར།
 <literal>effort possessor that also this like
-<liturgical><prose>To vibrate and leap fierce. || 250 ||
+<liturgical><prose>To vibrate and leap fierce.
 
 [16733]
 <tibetan>།རང་གི་མཇིང་པའི་ཕྱི་རོལ་རྩལ།
@@ -3637,7 +3637,7 @@ The draft in need of review is:
 [16740]
 <tibetan>།འདི་ཀུན་དེ་ཡི་དེར་འགྱུར་རོ།
 <literal>these all that-of that-to become
-<liturgical><prose>Through channel two element clarity descend-of channel blood clarity mix is, tip small-of inner-to.
+<liturgical><prose>Through channel two element clarity descend-of channel blood clarity mix is, tip small-of inner-to. || 16740 ||
 
 [16741]
 <tibetan>།ཞེས་སོ།
@@ -3647,7 +3647,7 @@ The draft in need of review is:
 [16742]
 <tibetan>།རྩེ་ཆུང་གི་ནང་དུ་རྩ་གཉིས་ཁམས་དངས་མ་འབབ་པའི་རྩ་ཁྲག་དངས་མ་དང་འདྲེས་པ་སྟེ།
 <literal>tip small-of inner-to channel two element clarity descend-of channel blood clarity mix is
-<liturgical><prose>Outer channel two wind and light ray mix move through of press time Awareness clear to light five arise of. || 260 ||
+<liturgical><prose>Outer channel two wind and light ray mix move through of press time Awareness clear to light five arise of.
 
 [16743]
 <tibetan>མནན་དུས་སྲོག་རྩར་ཐིག་པ་ལྷུང་བས་བརྒྱལ་བར་བྱེད་ལ།
@@ -3687,7 +3687,7 @@ The draft in need of review is:
 [16750]
 <tibetan>དེ་ཉིད་ལས།
 <literal>that itself from
-<liturgical><prose>Likewise vulture of eye or.
+<liturgical><prose>Likewise vulture of eye or. || 16750 ||
 
 [16751]
 <tibetan>དཔེར་ན་རྨ་བྱའི་མདོངས་དང་མཚུངས།
@@ -3697,7 +3697,7 @@ The draft in need of review is:
 [16752]
 <tibetan>།དེ་བཞིན་ཁྲ་ཡི་མིག་གམ་ནི།
 <literal>likewise vulture-of eye or
-<liturgical><prose>Likewise animal thief of eye. || 270 ||
+<liturgical><prose>Likewise animal thief of eye.
 
 [16753]
 <tibetan>།ཡང་ན་དེ་བཞིན་ཉ་ཡི་མིག
@@ -3737,7 +3737,7 @@ The draft in need of review is:
 [16760]
 <tibetan>དབྱེ་བ།
 <literal>classification
-<liturgical><break><prose> Characteristic.
+<liturgical><break><prose> Characteristic. || 16760 ||
 
 [16761]
 <tibetan>རང་བཞིན།
@@ -3747,7 +3747,7 @@ The draft in need of review is:
 [16762]
 <tibetan>མཚན་ཉིད།
 <literal>characteristic
-<liturgical><prose>Measure. || 280 ||
+<liturgical><prose>Measure.
 
 [16763]
 <tibetan>གོམས་ཚུལ།
@@ -3787,7 +3787,7 @@ The draft in need of review is:
 [16770]
 <tibetan>མཐིང་ག་ལས།
 <literal>blue from
-<liturgical><tantra>From blue.
+<liturgical><tantra>From blue. || 16770 ||
 
 [16771]
 <tibetan>ལྔ་ལྡན་དུ་མཆེད་དེ་འོད་ལྔའི་མུ་ཁྱུད་ཟླུམ་པོ་ནང་ན་པད་འདབ་དང་བཅས་པ་ཟ་འོག་བེར་ཁྱིམ་ལྟར་སྣང་བ་སྟེ།
@@ -3827,7 +3827,7 @@ The draft in need of review is:
 [16778]
 <tibetan>།འདི་ལ་སུས་གོམས་དོན་དེ་ཉིད།
 <literal>this-to who familiar meaning that itself
-<liturgical><prose>This, to whoever is familiar, is that very meaning itself. || 10 ||
+<liturgical><prose>This, to whoever is familiar, is that very meaning itself.
 
 [16779]
 <tibetan>།མཐིང་ག་མི་འགྱུར་རང་གསལ་བ།
@@ -3837,7 +3837,7 @@ The draft in need of review is:
 [16780]
 <tibetan>།མུ་ཁྱུད་ཀྱི་ནི་ར་བར་གནས།
 <literal>rim-of fence-to abide
-<liturgical><prose>The rim of the fence abides.
+<liturgical><prose>The rim of the fence abides. || 16780 ||
 
 [16781]
 <tibetan>།རང་གསལ་ཕྱི་ཡི་ཡུལ་དུ་སྣང༌།
@@ -3877,7 +3877,7 @@ The draft in need of review is:
 [16788]
 <tibetan>དཔེར་ན་ནམ་མཁའི་འཇའ་ཚོན་ལྟར།
 <literal>example-as sky-of rainbow like
-<liturgical><tantra>Like the rainbow of the sky. || 20 ||
+<liturgical><tantra>Like the rainbow of the sky.
 
 [16789]
 <tibetan>།དག་པ་ཉོན་མོངས་དྲི་མ་ཟད།
@@ -3887,7 +3887,7 @@ The draft in need of review is:
 [16790]
 <tibetan>།དབྱིངས་ནི་ཡངས་ཤིང་རྒྱ་མ་ཆད།
 <literal>sphere is vast and expanse not-cut
-<liturgical><tantra>The sphere is vast, and the expanse uncut.
+<liturgical><tantra>The sphere is vast, and the expanse uncut. || 16790 ||
 
 [16791]
 <tibetan>།ཆོས་ཉིད་ཡུལ་ལ་རྣམ་དག་པས།
@@ -3927,7 +3927,7 @@ The draft in need of review is:
 [16798]
 <tibetan>རིག་པའི་རང་ཡུལ་དང་སྣང་བའི་འཆར་གཞི་བྱེད་པས་དབྱིངས།
 <literal>awareness-by-means-of self-object and appearance-by-means-of display-ground-doing-by-means-of expanse/
-<liturgical><prose>Through Rigpa, the self-object and appearance, through display-ground-doing, through the expanse. || 30 ||
+<liturgical><prose>Through Rigpa, the self-object and appearance, through display-ground-doing, through the expanse.
 
 [16799]
 <tibetan>ཡུལ་དུ་སྣང་བ་ལ་དྲི་མ་མེད་པས་རྣམ་པར་དག་པ།
@@ -3937,7 +3937,7 @@ The draft in need of review is:
 [16800]
 <tibetan>ལུ་གུ་རྒྱུད་གོ་རར་བཟུང་ནས་སྣང་རིག་གསལ་བར་བྱེད་པས་སྒྲོན་མ་སྟེ།
 <literal>Chain-circle go-space grasp-from appearance-rig clarify-by-means-of doing-by-means-of lamp-and/
-<liturgical><prose>Through the chain-circle going-space grasp, from appearance-awareness, through clarifying, through the lamp.
+<liturgical><prose>Through the chain-circle going-space grasp, from appearance-awareness, through clarifying, through the lamp. || 16800 ||
 
 [16801]
 <tibetan>སྔ་མ་ལས།
@@ -3977,7 +3977,7 @@ The draft in need of review is:
 [16808]
 <tibetan>།འབྲལ་བ་མེད་པར་རྒྱུན་དུ་སྣང༌།
 <literal>/Separation not-exist-as continuous-as appear/
-<liturgical><tantra>Appearing as continuous as nonexistent separation. || 40 ||
+<liturgical><tantra>Appearing as continuous as nonexistent separation.
 
 [16809]
 <tibetan>།རྣམ་པ་ཡུལ་དུ་སྣང་བ་ལ།
@@ -3987,7 +3987,7 @@ The draft in need of review is:
 [16810]
 <tibetan>།དག་པ་དྲི་མའི་གྲངས་མཐའ་ཟད།
 <literal>/Pure defilement-by-means-of number limit exhausted/
-<liturgical><prose>Exhausted limit of number through pure defilement.
+<liturgical><prose>Exhausted limit of number through pure defilement. || 16810 ||
 
 [16811]
 <tibetan>།སྒྲོན་གྱིས་རྡོ་རྗེ་ལོ་གུ་རྒྱུད།
@@ -4027,17 +4027,17 @@ The draft in need of review is:
 [16818]
 <tibetan>།གསུམ་པ་དབྱེ་ན་གསུམ་ལས།
 <literal>/Three-by-means-of divide if three from/
-<liturgical><prose>If divided through three, from three. || 50 ||
+<liturgical><prose>If divided through three, from three.
 
 [16819]
 <tibetan>གཞི་ལ་གནས་པའི་དབྱིངས་རྣམ་དག་གི་སྒྲོན་མ་ཙིཏྟའི་ནང་ན་ཡེ་ཤེས་དང་འོད་ཀྱི་སྐུ་ལྷུན་གྲུབ་ནང་གསལ་དུ་གནས་པའོ།
-<literal>Ground-at abide-by-means-of expanse completely-pure-by-means-of lamp tsitta inside-at pristine-awareness and light-by-means-of body spontaneous-presence inside clear-as abide-by-means-of/
+<literal>Ground-at abide-by-means-of expanse completely-pure-by-means-of lamp tsitta inside-at pristine-awareness and light-by-means-of body spontaneously-accomplished inside clear-as abide-by-means-of/
 <liturgical><prose>Therefore, through abiding at ground, through completely pure expanse, the lamp inside tsitta at pristine awareness and light, through body spontaneous-presence inside clear abiding.
 
 [16820]
 <tibetan>།ལམ་ལ་སྣང་བའི་དབྱིངས་རྣམ་དག་གི་སྒྲོན་མ་མུ་ཁྱུད་ལྔའི་ར་བས་བསྐོར་བ་དབུས་ན་པདྨའི་འདབ་མ་ཅན་གྱི་ཐིག་ལེའི་དངས་མ་སྡུད་པའོ།
 <literal>/Path-at appear-by-means-of expanse completely-pure-by-means-of lamp rim five-by-means-of enclosure surround center-at lotus petal possess-by-means-of bindu essence gather-by-means-of/
-<liturgical><prose>Through appearing at path, through completely pure expanse, the lamp through the five rims' enclosure surrounding the center possessing lotus petal, through essence gathering of bindu.
+<liturgical><prose>Through appearing at path, through completely pure expanse, the lamp through the five rims' enclosure surrounding the center possessing lotus petal, through essence gathering of bindu. || 16820 ||
 
 [16821]
 <tibetan>།འབྲས་བུ་ཡུལ་ལ་སྣང་བའི་དབྱིངས་རྣམ་དག་གི་སྒྲོན་མས་ལུ་གུ་རྒྱུད་བཙོན་དུ་འཛིན་པ་སྟེ་འོད་ལྔའི་དྲ་བ་དང་དྲ་ཕྱེད་དང༌།
@@ -4077,7 +4077,7 @@ The draft in need of review is:
 [16828]
 <tibetan>།རིག་པའི་ཐིག་ལེའི་དངས་མ་སྡུད།
 <literal>/awareness-by-means-of bindu essence gather/
-<liturgical><prose>Through Rigpa, essence gathering of bindu. || 60 ||
+<liturgical><prose>Through Rigpa, essence gathering of bindu.
 
 [16829]
 <tibetan>།ཡུལ་ལ་སྣང་བའི་དབྱིངས་ཀྱིས་ནི།
@@ -4087,7 +4087,7 @@ The draft in need of review is:
 [16830]
 <tibetan>།ལུ་གུ་རྒྱུད་དེ་བཙོན་དུ་འཛིན།
 <literal>/Chain-circle that bound-as grasp/
-<liturgical><prose>That chain-circle bound as grasping.
+<liturgical><prose>That chain-circle bound as grasping. || 16830 ||
 
 [16831]
 <tibetan>།འདི་ཀུན་དེ་ཡི་དབྱེ་བའོ།
@@ -4127,7 +4127,7 @@ The draft in need of review is:
 [16838]
 <tibetan>།རང་བཞིན་སྣང་བ་མ་འགགས་པས།
 <literal>nature appearance not-cease-by-means-of
-<liturgical><prose>Through unceasing nature-appearance. || 70 ||
+<liturgical><prose>Through unceasing nature-appearance.
 
 [16839]
 <tibetan>།བློ་དངོས་དྲན་པ་ཀུན་ཟད་དེ།
@@ -4137,7 +4137,7 @@ The draft in need of review is:
 [16840]
 <tibetan>།སྣང་བ་རང་དག་དབྱིངས་སུ་ནི།
 <literal>appearance self-pure space into
-<liturgical><prose>Self-pure appearance into space.
+<liturgical><prose>Self-pure appearance into space. || 16840 ||
 
 [16841]
 <tibetan>།རྟོག་པ་མེད་པའི་རིག་པར་ཡང༌།
@@ -4177,7 +4177,7 @@ The draft in need of review is:
 [16848]
 <tibetan>།རང་དལ་ཆེན་པོའི་ངང་དུ་གནས།
 <literal>self-ease great-of state in abide
-<liturgical><prose>Abiding in the state of great self-ease. || 80 ||
+<liturgical><prose>Abiding in the state of great self-ease.
 
 [16849]
 <tibetan>།ཞེས་སོ།
@@ -4187,7 +4187,7 @@ The draft in need of review is:
 [16850]
 <tibetan>།ལྔ་པ་མཚན་ཉིད་ནི།
 <literal>five characteristics
-<liturgical><prose>Five characteristics.
+<liturgical><prose>Five characteristics. || 16850 ||
 
 [16851]
 <tibetan>ཕྱི་འོད་ཀྱི་དབྱིངས་སྟོང་གསལ་ཟང་མ་དང༌།
@@ -4227,7 +4227,7 @@ The draft in need of review is:
 [16858]
 <tibetan>།མཚན་ཉིད་དུ་ཡེ་ནས་བཞུགས།
 <literal>characteristics-as primordial abide
-<liturgical><prose>Abiding as primordial characteristics. || 90 ||
+<liturgical><prose>Abiding as primordial characteristics.
 
 [16859]
 <tibetan>།འདི་མེད་རིག་པའི་ཡུལ་མེད་པས།
@@ -4237,7 +4237,7 @@ The draft in need of review is:
 [16860]
 <tibetan>།སྣང་བ་འགགས་པ་མེད་པ་ཡི།
 <literal>appearance cease not-exist-of
-<liturgical><prose>Nonexistent ceasing-appearance.
+<liturgical><prose>Nonexistent ceasing-appearance. || 16860 ||
 
 [16861]
 <tibetan>།ཆར་ནི་དབྱངས་ཀྱི་སྒྲོན་མའོ།
@@ -4287,7 +4287,7 @@ The draft in need of review is:
 [16870]
 <tibetan>ཅི་སྣང་དབྱིངས་ཀྱི་སྣང་བར་ཤར་ནས་སྐུའི་བར་མཐོང་སྟེ་ཟད་པའི་སྣང་བ་ལ་ཐུག་པ་ནི་འདིའི་གོམས་ཚུལ་ཏེ།
 <literal>whatever appear space-of appearance arise-from body-of between see cease-of appearance to reach this-of habituate manner
-<liturgical><prose>Whatever appears arises as the display of Dharmatā. From seeing between bodies to reaching the consummation of visionary appearances—this is the manner of familiarity.
+<liturgical><prose>Whatever appears arises as the display of Dharmatā. From seeing between bodies to reaching the consummation of visionary appearances—this is the manner of familiarity. || 16870 ||
 
 [16871]
 <tibetan>དེ་ཉིད་ལས།
@@ -4312,7 +4312,7 @@ The draft in need of review is:
 [16875]
 <tibetan>།འདི་ལ་གོམས་པའི་ཚད་རྙེད་ནས།
 <literal>this to habituate-of measure find-from
-<liturgical><break><prose> Having found the measure of familiarity with this, || 10 ||
+<liturgical><break><prose> Having found the measure of familiarity with this,
 
 [16876]
 <tibetan>།ཕྱི་རོལ་ཉིད་ཀྱི་སྣང་བ་ནི།
@@ -4337,7 +4337,7 @@ The draft in need of review is:
 [16880]
 <tibetan>།ཆོས་རྣམས་ཟད་པར་གྱུར་པ་ནི།
 <literal>dharma all cease become
-<liturgical><prose>When all phenomena become exhausted—
+<liturgical><prose>When all phenomena become exhausted— || 16880 ||
 
 [16881]
 <tibetan>།དེ་ཉིད་གོམས་པར་བྱ་བ་ཡི།
@@ -4362,7 +4362,7 @@ The draft in need of review is:
 [16885]
 <tibetan>མཐོང་དང་གོམས་པའི་ཡེ་ཤེས་ནི།
 <literal>see and habituate-of pristine-awareness
-<liturgical><verse>The pristine cognition of seeing and familiarization, || 20 ||
+<liturgical><verse>The pristine cognition of seeing and familiarization,
 
 [16886]
 <tibetan>།གང་ལ་འཛིན་པའི་སེམས་མེད་པའི།
@@ -4387,7 +4387,7 @@ The draft in need of review is:
 [16890]
 <tibetan>།མན་མཁའི་དཀྱིལ་དུ་དེ་བཞིན་ཉིད།
 <literal>below sky center-to thusness
-<liturgical><prose>In the center of the lower sky, Thusness—
+<liturgical><prose>In the center of the lower sky, Thusness— || 16890 ||
 
 [16891]
 <tibetan>།དབྱིངས་ཀྱི་སྒྲོན་མ་དག་པ་དེ།
@@ -4412,7 +4412,7 @@ The draft in need of review is:
 [16895]
 <tibetan>།དེ་ལ་རབ་ཏུ་གོམས་པ་གཅེས།
 <literal>that to very habituate precious
-<liturgical><prose>Deep familiarization with this is paramount. || 30 ||
+<liturgical><prose>Deep familiarization with this is paramount.
 
 [16896]
 <tibetan>།ཞེས་སོ།
@@ -4437,7 +4437,7 @@ The draft in need of review is:
 [16900]
 <tibetan>དུམ་བུ་དང༌།
 <literal>piece and
-<liturgical><prose>Like fragments,
+<liturgical><prose>Like fragments, || 16900 ||
 
 [16901]
 <tibetan>བལྟས་ཚད་ཁྱབ་པའི་ནང་ན་སྐུ་ཤར་བ་ནི་འདིའི་ཚད་དེ།
@@ -4462,7 +4462,7 @@ The draft in need of review is:
 [16905]
 <tibetan>།དབྱིངས་ཀྱི་ནང་དུ་ལུ་གུ་རྒྱུད།
 <literal>space-of inside in necklace
-<liturgical><prose>As a necklace within Space, || 40 ||
+<liturgical><prose>As a necklace within Space,
 
 [16906]
 <tibetan>།རྣམ་པར་བཞག་ཅིང་འབྲལ་མི་བྱ།
@@ -4487,7 +4487,7 @@ The draft in need of review is:
 [16910]
 <tibetan>།དེ་ནས་ཐིག་ལེ་མཐོང་བ་ཡིན།
 <literal>that from dot see is
-<liturgical><tantra>From that, one sees the bindu.
+<liturgical><tantra>From that, one sees the bindu. || 16910 ||
 
 [16911]
 <tibetan>།དེར་གཏད་སྣང་བ་གོང་ལ་ཕེབས་བས།
@@ -4512,7 +4512,7 @@ The draft in need of review is:
 [16915]
 <tibetan>།འཁོར་བར་འཇུག་པ་ག་ལ་སྲིད།
 <literal>samsara into enter how possible
-<liturgical><prose>How could there be entry into Saṃsāra? || 50 ||
+<liturgical><prose>How could there be entry into Saṃsāra?
 
 [16916]
 <tibetan>།གྲུ་ཆད་རྣམ་པར་གང་སྣང་བ།
@@ -4537,7 +4537,7 @@ The draft in need of review is:
 [16920]
 <tibetan>།ཕྱིར་སྣང་འགགས་པ་གང་ཡིན་པ།
 <literal>outward appearance cease whatever is
-<liturgical><prose>Whatever outer appearances cease—
+<liturgical><prose>Whatever outer appearances cease— || 16920 ||
 
 [16921]
 <tibetan>།སྐད་ཅིག་མ་ནི་བཅུ་དྲུག་ལ།
@@ -4562,7 +4562,7 @@ The draft in need of review is:
 [16925]
 <tibetan>།དྲུག་དང་བཅུ་དང་ལྔ་གསུམ་ལ།
 <literal>six and ten and five three to
-<liturgical><prose>Six and ten and five and three— || 60 ||
+<liturgical><prose>Six and ten and five and three—
 
 [16926]
 <tibetan>།གདོན་མི་ཟ་སྟེ་ལོངས་སྐུའོ།
@@ -4587,7 +4587,7 @@ The draft in need of review is:
 [16930]
 <tibetan>།སྐྱེ་དང་འཇུག་པའི་ཁྱད་པར་གྱིས།
 <literal>arise and enter-of difference-by-means-of
-<liturgical><prose>Through the distinction of arising and entering,
+<liturgical><prose>Through the distinction of arising and entering, || 16930 ||
 
 [16931]
 <tibetan>།ཆོས་ཀུན་ཟད་པའི་རང་ས་ལ།
@@ -4612,7 +4612,7 @@ The draft in need of review is:
 [16935]
 <tibetan>།སྐྱེ་བའི་རང་དབང་སུས་ཐོབ་པ།
 <literal>birth-of self-power who obtain
-<liturgical><prose>Whoever obtains the self-power of arising, || 70 ||
+<liturgical><prose>Whoever obtains the self-power of arising,
 
 [16936]
 <tibetan>།དེ་ཡང་དེ་ལ་གཏད་ནས་ནི།
@@ -4637,7 +4637,7 @@ The draft in need of review is:
 [16940]
 <tibetan>།འདིས་ནི་སེམས་ཅན་དོན་ཀུན་བྱེད།
 <literal>this-by-means-of sentient-being purpose all do
-<liturgical><prose>Through this, the benefit of all beings is accomplished.
+<liturgical><prose>Through this, the benefit of all beings is accomplished. || 16940 ||
 
 [16941]
 <tibetan>།རིག་པ་མཉམ་པར་གཅིག་པའི་ཕྱིར།
@@ -4662,7 +4662,7 @@ The draft in need of review is:
 [16945]
 <tibetan>།ལུས་ནི་འདི་ཡིས་འགྲུབ་པ་ཡིན།
 <literal>body this-by-means-of accomplish is
-<liturgical><prose>The body is accomplished by this. || 80 ||
+<liturgical><prose>The body is accomplished by this.
 
 [16946]
 <tibetan>།དེ་ཀུན་ལུས་ཟད་ཚད་ལས་གྲོལ།
@@ -4687,7 +4687,7 @@ The draft in need of review is:
 [16950]
 <tibetan>སྒྲོན་མ་འབར་བ་ལས།
 <literal>burning-lamp from
-<liturgical><prose>From the <tantra> Lamp Blazing:
+<liturgical><prose>From the <tantra> Lamp Blazing: || 16950 ||
 
 [16951]
 <tibetan>མཐིང་ག་མི་འགྱུར་སྣང་བ་ལས།
@@ -4712,7 +4712,7 @@ The draft in need of review is:
 [16955]
 <tibetan>།སོར་བཞིའམ་ནི་མཐོ་གང་ལས།
 <literal>finger four or hand-span from
-<liturgical><prose>At four finger-widths or a forearm's length, || 90 ||
+<liturgical><prose>At four finger-widths or a forearm's length,
 
 [16956]
 <tibetan>།འཕགས་ཏེ་ལུས་དང་བྲལ་བ་ནི།
@@ -4737,7 +4737,7 @@ The draft in need of review is:
 [16960]
 <tibetan>དེ་ནས་སྣང་བ་ཤར་བ་དང༌།
 <literal>that from appearance arise and
-<liturgical><verse>Then from the arising of appearances,
+<liturgical><verse>Then from the arising of appearances, || 16960 ||
 
 [16961]
 <tibetan>།རང་གི་ཤེས་རབ་ཆེན་པོ་ཡིས།
@@ -4762,7 +4762,7 @@ The draft in need of review is:
 [16965]
 <tibetan>།དང་པོ་མེ་ལོང་དཀྱིལ་འཁོར་ཙམ།
 <literal>first mirror mandala like
-<liturgical><prose>At first, merely a mirror-maṇḍala, || 100 ||
+<liturgical><prose>At first, merely a mirror-maṇḍala,
 
 [16966]
 <tibetan>།དེ་ལས་སྣང་བ་དུམ་བུར་འཆར།།
@@ -4787,7 +4787,7 @@ The draft in need of review is:
 [16970]
 <tibetan>།ཤར་ནས་གཟུགས་སྐུ་མཐོང་བའི་ཚེ།
 <literal>arise-from form-body see time
-<liturgical><prose>Arising and seeing form-bodies,
+<liturgical><prose>Arising and seeing form-bodies, || 16970 ||
 
 [16971]
 <tibetan>།སྐུ་ཡི་དཀྱིལ་འཁོར་ཐམས་ཅད་ནི།
@@ -4812,7 +4812,7 @@ The draft in need of review is:
 [16975]
 <tibetan>།ཡེ་ཤེས་མཁའ་ལ་གཤེགས་པའི་རྟགས།
 <literal>pristine-awareness sky-to gone-of sign
-<liturgical><prose>The Dharmatā of seeing unceasing. || 110 ||
+<liturgical><prose>The Dharmatā of seeing unceasing.
 
 [16976]
 <tibetan>།རང་བཞིན་ཉིད་ཀྱི་སྣང་བ་ལ།
@@ -4837,7 +4837,7 @@ The draft in need of review is:
 [16980]
 <tibetan>།ཡང་དག་དོན་ལ་དེ་བཞིན་གཤེགས།
 <literal>true meaning-to thus gone
-<liturgical><prose>Thus-gone to the authentic meaning—
+<liturgical><prose>Thus-gone to the authentic meaning— || 16980 ||
 
 [16981]
 <tibetan>།དེ་ནི་གོམས་པའི་ཚད་དུ་བསྟན།
@@ -4862,7 +4862,7 @@ The draft in need of review is:
 [16985]
 <tibetan>ལམ་གྱི་དབྱིངས་འབྲི་གུ་ཏ།
 <literal>path-of space briguta
-<liturgical><prose>The Space of the Path: Briguta. || 120 ||
+<liturgical><prose>The Space of the Path: Briguta.
 
 [16986]
 <tibetan>འབྲས་བུ་རང་ཤར་གྱི་དབྱིངས་ཀྱི་གནས་ནམ་མཁའ་སྤྲིན་བྲལ་ཏེ།
@@ -4887,7 +4887,7 @@ The draft in need of review is:
 [16990]
 <tibetan>།ལུ་གུ་རྒྱུད་དུ་སྣང་བ་སྟེ།
 <literal>necklace appear
-<liturgical><prose>Appears as a necklace,
+<liturgical><prose>Appears as a necklace, || 16990 ||
 
 [16991]
 <tibetan>།སྤྲིན་བྲལ་མཁའ་ལ་འཛིན་པར་བྱེད།
@@ -4912,7 +4912,7 @@ The draft in need of review is:
 [16995]
 <tibetan>།མིག་གི་རྣམ་ཤེས་དག་པ་ལ།
 <literal>eye-of consciousness pure to
-<liturgical><prose>In the pure eye-consciousness, || 130 ||
+<liturgical><prose>In the pure eye-consciousness,
 
 [16996]
 <tibetan>།གསལ་བྱེད་འབར་བའི་འོད་ཟེར་ལྔ།
@@ -4937,7 +4937,7 @@ The draft in need of review is:
 [17000]
 <tibetan>།དགུ་པ་སྒོ་ནི།
 <literal>nine door
-<liturgical><prose>Nine: The Gate
+<liturgical><prose>Nine: The Gate || 17000 ||
 
 [17001]
 <tibetan>མིག་ནས་འཆར་ཏེ།
@@ -4962,7 +4962,7 @@ The draft in need of review is:
 [17005]
 <tibetan>།འདི་ཡི་སྣང་བ་རང་དག་པས།
 <literal>this-of appearance self-pure-by-means-of
-<liturgical><prose>Through the self-purity of the appearances of this, || 140 ||
+<liturgical><prose>Through the self-purity of the appearances of this,
 
 [17006]
 <tibetan>།དབྱིངས་དང་རིག་པའི་ཟུང་འཇུག་པར།
@@ -4987,7 +4987,7 @@ The draft in need of review is:
 [17010]
 <tibetan>།དེ་ཉིད་རྐྱེན་བྲལ་ནམ་མཁར་འཆར།
 <literal>that itself condition-free sky-to arise
-<liturgical><prose>That itself arises in the sky free from conditions.
+<liturgical><prose>That itself arises in the sky free from conditions. || 17010 ||
 
 [17011]
 <tibetan>།དེ་ལྟར་འཆར་སྒོ་མ་འགགས་པའོ།
@@ -5012,7 +5012,7 @@ The draft in need of review is:
 [17015]
 <tibetan>ནང་དུ་རིག་པ་འོད་དེའི་ཁང་པ་ན་བཞུགས་ལ།
 <literal>inside awareness light that-of house in abide
-<liturgical><prose>Moreover, because there is no coarse substantiality, it is not established as an object of grasping. Because it is severance from nihilistic severance, it is self-clear like a rainbow. Because it is unharmed by elemental disturbance, it is not conditioned Saṃsāra. Because it possesses the key points, through seeing and familiarizing one becomes originally enlightened, re-enlightened. || 150 ||
+<liturgical><prose>Moreover, because there is no coarse substantiality, it is not established as an object of grasping. Because it is severance from nihilistic severance, it is self-clear like a rainbow. Because it is unharmed by elemental disturbance, it is not conditioned Saṃsāra. Because it possesses the key points, through seeing and familiarizing one becomes originally enlightened, re-enlightened.
 
 [17016]
 <tibetan>ཕྱིར་ལུ་གུ་རྒྱུད་ཐིག་ལེ་སྟོང་པ་དང་བཅས་པ་དེའི་ར་བ་ན་བཞུགས་ཏེ།
@@ -5037,7 +5037,7 @@ The draft in need of review is:
 [17020]
 <tibetan>འབྱུང་བའི་གནོད་པས་མི་ཤིགས་པས་འདུས་བྱས་འཁོར་བ་མ་ཡིན་པ།
 <literal>element harm-by-means-of not-break-by-means-of compounded samsara not is
-<liturgical><prose>In the upper-reach of existence,
+<liturgical><prose>In the upper-reach of existence, || 17020 ||
 
 [17021]
 <tibetan>གནད་དང་ལྡན་པས་མཐོང་ནས་གོམས་ན་ཡེ་སངས་ལ།
@@ -5062,7 +5062,7 @@ The draft in need of review is:
 [17025]
 <tibetan>སུ་ལ་འཛོམ་པའི་སྐྱེས་བུ་ནི།
 <literal>who to meet-of person
-<liturgical><prose>Through conditioned arising by day, || 160 ||
+<liturgical><prose>Through conditioned arising by day,
 
 [17026]
 <tibetan>།དབྱིངས་ལ་གོམས་ཏེ་མངོན་དུའོ།
@@ -5087,7 +5087,7 @@ The draft in need of review is:
 [17030]
 <tibetan>།གཉིས་ནི་འཁྲིལ་ཏེ་གཅིག་པར་ཡང༌།
 <literal>two coil and one also
-<liturgical><prose>For all Buddhas and beings,
+<liturgical><prose>For all Buddhas and beings, || 17030 ||
 
 [17031]
 <tibetan>།སོར་གཅིག་གིས་ནི་མ་རིག་པར།
@@ -5112,7 +5112,7 @@ The draft in need of review is:
 [17035]
 <tibetan>།དབྱིངས་ཀྱི་རང་བཞིན་འོད་ཀྱི་ཁྱིམ།
 <literal>space-of nature light-of house
-<liturgical><prose>It is directly present, supremely secret. || 170 ||
+<liturgical><prose>It is directly present, supremely secret.
 
 [17036]
 <tibetan>།འགྱུར་མེད་ཡེ་གདངས་ཆེན་པོར་ནི།
@@ -5137,7 +5137,7 @@ The draft in need of review is:
 [17040]
 <tibetan>།འདི་ནི་ཁྱབ་ཆེ་ཕྲ་བ་ལས།
 <literal>this pervade great fine from
-<liturgical><prose>Just as when the four Nāro letters have their two wings gathered, one Nāro is accomplished, so when the outer blue Space and the appearances arising from it are gathered together, they are designated as one—the Space Lamp.
+<liturgical><prose>Just as when the four Nāro letters have their two wings gathered, one Nāro is accomplished, so when the outer blue Space and the appearances arising from it are gathered together, they are designated as one—the Space Lamp. || 17040 ||
 
 [17041]
 <tibetan>།རང་གི་ཤེས་པའི་ཆར་ཤར་ནས།
@@ -5162,7 +5162,7 @@ The draft in need of review is:
 [17045]
 <tibetan>།ཡ་སངས་ཉིད་ལ་ཡང་སངས་རྒྱས།
 <literal>already-buddha to again buddha
-<liturgical><prose>When the two are held and gathered as one, || 180 ||
+<liturgical><prose>When the two are held and gathered as one,
 
 [17046]
 <tibetan>།ཞེས་སོ།
@@ -5187,7 +5187,7 @@ The draft in need of review is:
 [17050]
 <tibetan>ན་རོའི་གཟུགས་ལྟར་མཐིང་ག་ཁྱབ་ཆེན་ཡང་དང་པོ་སྨིན་མཚམས་སུ་སྣང་དུས་རེ་ག་ནག་པོའི་རྣམ་པ་དྲེང་ཙམ་འཁྱོག་དང་བཅས་པ་ལ།
 <literal>Na-ro-of-form-like blue-green khyab-chen also first eyebrow-space-at appear time somewhat-black-of-form straight-slightly crooked-and with-to/
-<liturgical><prose>Then again through the power of familiarity,
+<liturgical><prose>Then again through the power of familiarity, || 17050 ||
 
 [17051]
 <tibetan>དེ་ཉིད་ལ་གཏད་དུས་ཕྱིས་འཇའ་ཚོན་སྣ་ལྔ་ལྟར་བར་སྣང་བ་སྟེ།
@@ -5212,7 +5212,7 @@ The draft in need of review is:
 [17055]
 <tibetan>།ནག་པོ་བསྒྱུར་དུ་བཏུབ་པ་ཡིན།
 <literal>/black transformed-can-suit be-is/
-<liturgical><break><list> Essence || 190 ||
+<liturgical><break><list> Essence
 
 [17056]
 <tibetan>།དེ་ལ་གོམས་པའི་གདེང་རྙེད་ནས།
@@ -5237,7 +5237,7 @@ The draft in need of review is:
 [17060]
 <tibetan>།དེ་ཡི་རྟགས་དང་ལྡན་པ་ལ།
 <literal>/that-of signs-and possessed-to/
-<liturgical><prose>Location
+<liturgical><prose>Location || 17060 ||
 
 [17061]
 <tibetan>།བར་སྣང་ཁམས་ཀྱང་དེ་བཞིན་ནོ།
@@ -5262,7 +5262,7 @@ The draft in need of review is:
 [17065]
 <tibetan>ངེས་ཚིག
 <literal>definitive-meaning
-<liturgical><break><prose> Definitive Terminology, || 200 ||
+<liturgical><break><prose> Definitive Terminology,
 
 [17066]
 <tibetan>དབྱེ་བ།
@@ -5287,7 +5287,7 @@ The draft in need of review is:
 [17070]
 <tibetan>ཚད།
 <literal>measure/
-<liturgical><prose>Measure,
+<liturgical><prose>Measure, || 17070 ||
 
 [17071]
 <tibetan>མཐུན་དཔེ་དང་བརྒྱད་ལས།
@@ -5337,12 +5337,12 @@ The draft in need of review is:
 [17080]
 <tibetan>།འདི་ལྟར་སྒྲོན་མ་ཐམས་ཅད་ཀྱི།
 <literal>/thus lamp-all-of/
-<liturgical><tantra>Thus, of all lamps,
+<liturgical><tantra>Thus, of all lamps, || 17080 ||
 
 [17081]
 <tibetan>།ཤེས་བྱེད་ཉིད་དུ་གནས་པས་ན།
 <literal>/knowledge-intention-as abiding-by-is/
-<liturgical><tantra>Since abiding as the object of knowledge, || 10 ||
+<liturgical><tantra>Since abiding as the object of knowledge,
 
 [17082]
 <tibetan>།ཀུན་གྱི་ཆ་ལ་འདི་ཉིད་པས།
@@ -5387,12 +5387,12 @@ The draft in need of review is:
 [17090]
 <tibetan>ཆོས་ཐམས་ཅད་ཀྱི་སྤྱི་སྟོང་ཞིང་བདག་མེད་པར་ཤེས་ལ།
 <literal>dharma-all-of universal empty-and selfless-as know-and/
-<liturgical><prose>Knowing dharmas all universally empty and selfless,
+<liturgical><prose>Knowing dharmas all universally empty and selfless, || 17090 ||
 
 [17091]
 <tibetan>རང་གི་ཡེ་ཤེས་ཀྱི་ཚད་རྣམས་ཤེས་པས་ཤེས་ཞེས་བྱའོ།
 <literal>self-of primordial-wisdom-of measures know-by knowledge say/
-<liturgical><prose>Knowing the measures of one's own primordial wisdom—this is called knowledge. || 20 ||
+<liturgical><prose>Knowing the measures of one's own primordial wisdom—this is called knowledge.
 
 [17092]
 <tibetan>།རབ་ནི་ཀན་གྱིས་རྟོགས་དཀའ་བའི་དགོངས་པ་་མ་བཙལ་རང་ལས་རྙེད་པས་ཆེས་འཕགས་རྩེ་མོར་གྱུར་ཞེས་པའོ།
@@ -5437,12 +5437,12 @@ The draft in need of review is:
 [17100]
 <tibetan>།སྤྱི་ཡི་དོན་རྣམས་ཤེས་པ་དང༌།
 <literal>/universal-of meaning-all knowledge-and*/
-<liturgical><tantra>And knowing the universal meanings,
+<liturgical><tantra>And knowing the universal meanings, || 17100 ||
 
 [17101]
 <tibetan>།མ་བཙལ་བཞག་པའི་གདེང་རྙེད་དེ།
 <literal>/not-sought left-of confidence attain-and/
-<liturgical><tantra>Obtaining the confidence of not-sought, not-placed, || 30 ||
+<liturgical><tantra>Obtaining the confidence of not-sought, not-placed,
 
 [17102]
 <tibetan>།རང་གི་ཡེ་ཤེས་ཚད་རྣམས་ཤེས།
@@ -5471,7 +5471,7 @@ The draft in need of review is:
 
 [17107]
 <tibetan>།རང་ཤར་ཡེ་ནས་དག་པའི་ཡུལ།
-<literal>/self-arisen primordially pure-of object/
+<literal>/self-arisen primordially-pure-of object/
 <liturgical><tantra>Object of primordially pure self-arisen,
 
 [17108]
@@ -5487,12 +5487,12 @@ The draft in need of review is:
 [17110]
 <tibetan>།སུ་ལ་རེ་བ་མེད་པའི་ཕྱིར།
 <literal>/whom-to hope not-exist-of cause/
-<liturgical><tantra>Since hope not existing for whom,
+<liturgical><tantra>Since hope not existing for whom, || 17110 ||
 
 [17111]
 <tibetan>།ཡེ་ནས་རང་སྣང་བྱུང་ཞེས་བྱ།
 <literal>/primordially self-appearance arise say/
-<liturgical><tantra>Called primordially self-appearance arisen. || 40 ||
+<liturgical><tantra>Called primordially self-appearance arisen.
 
 [17112]
 <tibetan>།སྒྲོན་མས་ཆོས་ཉིད་ཐམས་ཅད་ཀུན།
@@ -5537,12 +5537,12 @@ The draft in need of review is:
 [17120]
 <tibetan>།རང་ནི་གཞན་ལྟོས་ཆོས་དང་བྲལ།
 <literal>/self-is other-depend dharma-and free/
-<liturgical><tantra>Self free from other-dependent dharmas;
+<liturgical><tantra>Self free from other-dependent dharmas; || 17120 ||
 
 [17121]
 <tibetan>།བྱུང་བས་མ་བཀག་ལྷུག་པར་སྣང༌།
 <literal>/arise-by not-blocked open-as appear*/
-<liturgical><tantra>Arisen, unblocked, spontaneously appearing." || 50 ||
+<liturgical><tantra>Arisen, unblocked, spontaneously appearing."
 
 [17122]
 <tibetan>།ཞེས་གསུངས་སོ།
@@ -5556,13 +5556,13 @@ The draft in need of review is:
 
 [17124]
 <tibetan>གཞི་གནས་རང་བྱུང་གི་ཤེས་རབ་ནི།
-<literal>basis-abide self-arisen-of wisdom-is/
+<literal>ground-abide self-arisen-of wisdom-is/
 <liturgical><list>Ground-abiding self-arisen wisdom;
 
 [17125]
 <tibetan>ནང་གནས་རིག་པའི་མཁྱེན་ཆ་སྟེ་འཆར་གཞི་དང་རྟེན་དུ་གནས་པའོ།
-<literal>within-abide awareness-of knowledge-aspect-is arise-basis-and support-as abiding-is/
-<liturgical><list>Inner-abiding awareness of knowledge—abiding as arising-basis and support.
+<literal>within-abide awareness-of knowledge-aspect-is arise-ground-and support-as abiding-is/
+<liturgical><list>Inner-abiding awareness of knowledge—abiding as arising-ground and support.
 
 [17126]
 <tibetan>།སྣང་བ་ཅེར་འཛིན་གྱི་ཤེས་རབ་ནི།
@@ -5587,12 +5587,12 @@ The draft in need of review is:
 [17130]
 <tibetan>གྲོལ་རང་ངོ་ཆོས་ཉིད་གཅིག་ཏུ་སྡུད་པའོ།
 <literal>liberate self-face dharmata one-as gather/
-<liturgical><list>Liberating self-face to Dharmatā as one.
+<liturgical><list>Liberating self-face to Dharmatā as one. || 17130 ||
 
 [17131]
 <tibetan>།སོ་སོར་རྟོག་པའི་ཤེས་རབ་ནི།
 <literal>/individual examine-of wisdom-is/
-<liturgical><list>Analytical wisdom; || 60 ||
+<liturgical><list>Analytical wisdom;
 
 [17132]
 <tibetan>ཆོས་དང་ཆོས་ཅན་རང་དང་སྤྱིའི་རྣམ་པ་དང༌།
@@ -5637,12 +5637,12 @@ The draft in need of review is:
 [17140]
 <tibetan>དབྱེ་བ་རྣམ་པ་ལྔ་ཡིན་ཏེ།
 <literal>divisions forms five-is/
-<liturgical><tantra>Divisions are five types:
+<liturgical><tantra>Divisions are five types: || 17140 ||
 
 [17141]
 <tibetan>།གཞི་གནས་རང་བྱུང་ཤེས་རབ་ཀྱིས།
-<literal>/basis-abide self-arisen wisdom-by/
-<liturgical><tantra>By ground-abiding self-arisen wisdom, || 70 ||
+<literal>/ground-abide self-arisen wisdom-by/
+<liturgical><tantra>By ground-abiding self-arisen wisdom,
 
 [17142]
 <tibetan>།ལུས་སོགས་ཆོས་ཀྱི་རྟེན་རྣམས་བྱེད།
@@ -5687,12 +5687,12 @@ The draft in need of review is:
 [17150]
 <tibetan>།རང་བཞིན་བར་དོར་གཏན་ལ་འབེབས།
 <literal>/nature bardo-in determine/
-<liturgical><tantra>Establishing definitively in nature's bardo.
+<liturgical><tantra>Establishing definitively in nature's bardo. || 17150 ||
 
 [17151]
 <tibetan>།ཞེས་སོ།
 <literal>/thus-is/
-<liturgical><tantra>Thus it is spoken. || 80 ||
+<liturgical><tantra>Thus it is spoken.
 
 [17152]
 <tibetan>།བཞི་པ་མཚན་ཉིད་ནི།
@@ -5737,12 +5737,12 @@ The draft in need of review is:
 [17160]
 <tibetan>སྡུད་པར།
 <literal>condensed-in/
-<liturgical><tantra>"Dhārmās completely transformed as without nature—
+<liturgical><tantra>"Dhārmās completely transformed as without nature— || 17160 ||
 
 [17161]
 <tibetan>ཆོས་རྣམས་རང་བཞིན་མེད་པར་ཡོངས་སུ་གྱུར་པ།
 <literal>dharma-all nature not-exist completely become/
-<liturgical><tantra>This is called supreme Prajñāpāramitā." || 90 ||
+<liturgical><tantra>This is called supreme Prajñāpāramitā."
 
 [17162]
 <tibetan>།འདི་ནི་ཤེས་རབ་ཕ་རོལ་ཕྱིན་པ་མཆོག་ཅེས་བརྗོད།
@@ -5787,12 +5787,12 @@ The draft in need of review is:
 [17170]
 <tibetan>།ཁྱད་པར་སྣ་ནས་འཆར་བར་བྱེད།
 <literal>/especially nose-from arise make/
-<liturgical><tantra>That sign at night time,
+<liturgical><tantra>That sign at night time, || 17170 ||
 
 [17171]
 <tibetan>།དེ་རྟགས་མཚན་མོའི་དུས་ཉིད་དུ།
 <literal>/that sign night-of time-exactly-at/
-<liturgical><tantra>Groaning and fierce squeezing, || 100 ||
+<liturgical><tantra>Groaning and fierce squeezing,
 
 [17172]
 <tibetan>།གློ་དང་སྦྲིད་པ་དྲག་པོ་དང༌།
@@ -5837,16 +5837,16 @@ The draft in need of review is:
 [17180]
 <tibetan>ཙིཏྟ་ན་ཁྱད་པར་ཆེན་པོའི་རྩ་བཞི་ལ་རིག་པའི་ཡེ་གདངས་རླུང་གིས་བཟུང་ནས་ཕྱིར་མ་འཕྲོས་ནང་ན་རང་གནས་མི་གསལ་བ་ཙམ་ལས།
 <literal>citta-at special great-of channels four-at awareness-of primordial-expression wind-by grasp-from out not-project within-in self-abide unclear merely-from/
-<liturgical><prose>By karma-wind outward-force moved, objects awareness-appeared.
+<liturgical><prose>By karma-wind outward-force moved, objects awareness-appeared. || 17180 ||
 
 [17181]
 <tibetan>ལས་རླུང་གིས་ཕྱིར་རྩལ་བསྐྱོད་པས་ཡུལ་རིག་པར་ཤར་རོ།
 <literal>karma-wind-by out dynamic move-from object aware-as arise/
-<liturgical><prose>That also, abiding in name-ground-gathered clarity, || 110 ||
+<liturgical><prose>That also, abiding in name-ground-gathered clarity,
 
 [17182]
 <tibetan>།དེའང་མིང་གཞི་འདུས་པའི་ཡེ་གདངས་ལ་གནས་པ་ནི།
-<literal>/that-also name-basis gathered-of primordial-expression-at abiding-is/
+<literal>/that-also name-ground gathered-of primordial-expression-at abiding-is/
 <liturgical><prose>Element,
 
 [17183]
@@ -5887,12 +5887,12 @@ The draft in need of review is:
 [17190]
 <tibetan>།ལྔ་
 <literal>/five
-<liturgical><break><tantra> Wisdom,
+<liturgical><break><tantra> Wisdom, || 17190 ||
 
 [17191]
 <tibetan>ཤེས་རབ།
 <literal>wisdom/
-<liturgical><break><tantra> Karma, || 120 ||
+<liturgical><break><tantra> Karma,
 
 [17192]
 <tibetan>ལས་
@@ -5937,12 +5937,12 @@ The draft in need of review is:
 [17200]
 <tibetan>།མིང་བཞི་འདུས་པའི་ཡེ་གདངས་སུ།
 <literal>/name-four gathered-of primordial-expression-as/
-<liturgical><tantra>As nature discriminating all,
+<liturgical><tantra>As nature discriminating all, || 17200 ||
 
 [17201]
 <tibetan>།ཐམས་ཅད་འབྱེད་པའི་ངོ་བོར་ནི།
 <literal>/all discriminate-of nature-as/
-<liturgical><tantra>Primordially abiding in body-parts, || 130 ||
+<liturgical><tantra>Primordially abiding in body-parts,
 
 [17202]
 <tibetan>།ཡེ་ནས་ལུས་ཀྱི་ཆ་ལ་གནས།
@@ -5987,12 +5987,12 @@ The draft in need of review is:
 [17210]
 <tibetan>།གསལ་དང་མི་གསལ་རྩལ་རྣམས་ནི།
 <literal>/clear-and not-clear dynamic-all-is/
-<liturgical><tantra>Arise from wind's movement alone,
+<liturgical><tantra>Arise from wind's movement alone, || 17210 ||
 
 [17211]
 <tibetan>།རླུང་གི་གཡོ་འགུལ་ཉིད་ལས་བྱུང༌།
 <literal>/wind-of movement-only-from arise*/
-<liturgical><tantra>Abiding in body-center channel-inside." || 140 ||
+<liturgical><tantra>Abiding in body-center channel-inside."
 
 [17212]
 <tibetan>།ལུས་དཀྱིལ་རྩ་ནང་གནས་པའོ།
@@ -6011,7 +6011,7 @@ The draft in need of review is:
 
 [17215]
 <tibetan>གཞི་གནས་ཀྱི་ཤེས་རབ་ཀྱི་ཚད་དགོངས་པ་མཉམ་པའི་དྲོད་ཚད་ལ་གནས་པའོ།
-<literal>basis-abide-of wisdom-of measure intention equal-of heat measure-at abiding-is/
+<literal>ground-abide-of wisdom-of measure intention equal-of heat measure-at abiding-is/
 <liturgical><prose>One-pointed-grasping wisdom's measure:
 
 [17216]
@@ -6037,12 +6037,12 @@ The draft in need of review is:
 [17220]
 <tibetan>།སོ་སོར་རྟོག་པའི་ཤེས་རབ་ཀྱི་ཚད།
 <literal>/individual examine-of wisdom-of measure/
-<liturgical><prose>Dualistic dharmas discriminated separately, establishing definitively.
+<liturgical><prose>Dualistic dharmas discriminated separately, establishing definitively. || 17220 ||
 
 [17221]
 <tibetan>གཉིས་བཅས་ཀྱི་ཆོས་རྣམས་སོ་སོར་ཕྱེད་ཏེ་གཏན་ལ་ཕེབས་པའོ།
 <literal>two-with-of dharma-all individual split-by determine arrive/
-<liturgical><prose>Three-engaging wisdom's measure: || 150 ||
+<liturgical><prose>Three-engaging wisdom's measure:
 
 [17222]
 <tibetan>།འཇུག་བྱེད་རྣམ་གསུམ་གྱི་ཤེས་རབ་ཀྱི་ཚད།
@@ -6061,7 +6061,7 @@ The draft in need of review is:
 
 [17225]
 <tibetan>གཞི་གནས་ཤེས་རབ་རང་བྱུང་ཚད།
-<literal>basis-abide wisdom self-arisen measure/
+<literal>ground-abide wisdom self-arisen measure/
 <liturgical><tantra>From equal-intention experience-arisen,
 
 [17226]
@@ -6086,13 +6086,13 @@ The draft in need of review is:
 
 [17230]
 <tibetan>།འདིས་ནི་གཞི་གནས་ཤེས་རབ་ཟིན།
-<literal>/this-by basis-abide wisdom grasp/
-<liturgical><tantra>This body also light,
+<literal>/this-by ground-abide wisdom grasp/
+<liturgical><tantra>This body also light, || 17230 ||
 
 [17231]
 <tibetan>།འདི་ཡི་ལུས་ཀྱང་ཡང་བ་དང༌།
 <literal>/this-of body-also light-and*/
-<liturgical><tantra>Knowledges clear. || 160 ||
+<liturgical><tantra>Knowledges clear.
 
 [17232]
 <tibetan>།ཤེས་པ་རྣམས་ནི་གསལ་བའོ།
@@ -6137,12 +6137,12 @@ The draft in need of review is:
 [17240]
 <tibetan>།བེམས་པོ་རྣམས་ཀྱང་འཇུ་བར་ནུས།
 <literal>/solid all-even dissolve can/
-<liturgical><tantra>Self-power trained measure.
+<liturgical><tantra>Self-power trained measure. || 17240 ||
 
 [17241]
 <tibetan>།རང་རྩལ་འབྱོངས་པའི་ཚད་ཡིན་ནོ།
 <literal>/self-dynamic train-of measure-is/
-<liturgical><tantra>Memory-ceaseless wisdom measure: || 170 ||
+<liturgical><tantra>Memory-ceaseless wisdom measure:
 
 [17242]
 <tibetan>།དྲན་པ་འགགས་མེད་ཤེས་རབ་ཚད།
@@ -6187,12 +6187,12 @@ The draft in need of review is:
 [17250]
 <tibetan>།ལྟ་བ་མི་འགྱུར་གདེང་ཉིད་དུ།
 <literal>/view not-change confidence-exactly-as/
-<liturgical><tantra>Thinking going through space,
+<liturgical><tantra>Thinking going through space, || 17250 ||
 
 [17251]
 <tibetan>།ནམ་མཁའ་དག་ལ་འགྲོ་བ་སྙམ
 <literal>/sky pure-to go think
-<liturgical><break><tantra> Mind placed there, ceases there, || 180 ||
+<liturgical><break><tantra> Mind placed there, ceases there,
 
 [17252]
 <tibetan>།སེམས་དེ་གར་གཏད་ས་དེར་འགག
@@ -6237,12 +6237,12 @@ The draft in need of review is:
 [17260]
 <tibetan>།འདི་ལྟར་ཕྱེད་རྟགས་འདི་ལྟ་བུ།
 <literal>/thus split sign thus-like/
-<liturgical><tantra>Body attachment mind free,
+<liturgical><tantra>Body attachment mind free, || 17260 ||
 
 [17261]
 <tibetan>།ལུས་ལ་ཞེན་པའི་བློ་བྲལ་ནས།
 <literal>/body-to attachment-of mind free-from/
-<liturgical><tantra>Awareness placed where placed, || 190 ||
+<liturgical><tantra>Awareness placed where placed,
 
 [17262]
 <tibetan>།རིག་པ་གར་གཏད་སར་གནས་ཏེ།
@@ -6287,12 +6287,12 @@ The draft in need of review is:
 [17270]
 <tibetan>།འཁྲུལ་པའི་བློ་རྣམས་སྐྱེ་མི་སྲིད།
 <literal>/delusion-of mind-all arise not-possible/
-<liturgical><tantra>Even if arisen, without benefit-harm,
+<liturgical><tantra>Even if arisen, without benefit-harm, || 17270 ||
 
 [17271]
 <tibetan>།གལ་ཏེ་སྐྱེས་ཀྱང་ཕན་གནོད་བྲལ།
 <literal>/if arise-also benefit-harm free/
-<liturgical><tantra>By such self-knowledge, || 200 ||
+<liturgical><tantra>By such self-knowledge,
 
 [17272]
 <tibetan>།དེ་ལ་སོགས་པའི་རང་ཤེས་ཀྱིས།
@@ -6337,12 +6337,12 @@ The draft in need of review is:
 [17280]
 <tibetan>།ཟུངས་དེ་རྒྱུད་ལ་བདེ་ཤར་ནས།
 <literal>/meaning-that continuum-to bliss arise-from/
-<liturgical><tantra>By thinking likewise trained,
+<liturgical><tantra>By thinking likewise trained, || 17280 ||
 
 [17281]
 <tibetan>།བསམ་པས་ཡང་ནི་དེ་བཞིན་འབྱོངས།
 <literal>/contemplation-by again thus train/
-<liturgical><tantra>Arisen, conditions not harming, || 210 ||
+<liturgical><tantra>Arisen, conditions not harming,
 
 [17282]
 <tibetan>།གང་བྱུང་རྐྱེན་གྱིས་མི་གནོད་པར།
@@ -6387,12 +6387,12 @@ The draft in need of review is:
 [17290]
 <tibetan>དཔེར་ན་སྤྲ་བ་རླན་མེད་ལ།
 <literal>example-as tinder moisture-not-to/
-<liturgical><tantra>All tinder blazing, burned by fire,
+<liturgical><tantra>All tinder blazing, burned by fire, || 17290 ||
 
 [17291]
 <tibetan>མེ་སྟག་ཕྲ་བ་ཉིད་ཕྲད་ཀྱང༌།
 <literal>fire-spark subtle itself meet-even*/
-<liturgical><tantra>By wisdom, habitual tendencies burned— || 220 ||
+<liturgical><tantra>By wisdom, habitual tendencies burned—
 
 [17292]
 <tibetan>།སྤྲ་བ་ཀུན་མཆེད་མེས་བསྲེགས་བཞིན།
@@ -6437,12 +6437,12 @@ The draft in need of review is:
 [17300]
 <tibetan>།ཐེག་པའི་མཆོག་རིན་པོ་ཆེའི་མཛོད་ལས་ན།
 <literal>/vehicle-of supreme jewel-treasury-from/
-<liturgical><prose>Thus, having explained in detail the body-support and other gathered dharmas,
+<liturgical><prose>Thus, having explained in detail the body-support and other gathered dharmas, || 17300 ||
 
 [17301]
 <tibetan>སྒྲོན་མ་བཞིའི་རྣམ་གྲངས་བསྟན་པ་སྟེ་རིམ་ཁང་བཅུ་གསུམ་པའོ།
 <literal>lamp four enumeration show step thirteen/
-<liturgical><prose>Now, establishing definitively the nature of knowledge depending on that—three: || 230 ||
+<liturgical><prose>Now, establishing definitively the nature of knowledge depending on that—three:
 
 [17302]
 <tibetan>།དེ་ལྟར་རྟེན་ལུས་དང་དེའི་ཆོས་ཚོགས་པ་གཞན་ཡང་རྣམ་པར་བཤད་ནས།
@@ -6456,7 +6456,7 @@ The draft in need of review is:
 
 [17304]
 <tibetan>ཀུན་གཞི་དང་ཆོས་སྐུའི་ཁྱད་པར།
-<literal>all-basis dharmakaya distinction/
+<literal>all-ground dharmakaya distinction/
 <liturgical><list>Explanation of other distinctive dharmas.
 
 [17305]
@@ -6487,16 +6487,16 @@ The draft in need of review is:
 [17310]
 <tibetan>།དང་པོ་ནི།
 <literal>/first/
-<liturgical><prose>Obscured by defilement with ignorance and thought-gatherings, becoming ground of all delusion-appearance, delusion-grasping—
+<liturgical><prose>Obscured by defilement with ignorance and thought-gatherings, becoming ground of all delusion-appearance, delusion-grasping— || 17310 ||
 
 [17311]
 <tibetan>སེམས་ཅན་གྱི་གཞི་དང་སངས་རྒྱས་ཀྱི་གཞི་ལ་ལྟོས་ནས་རིག་པའི་ངོ་བོ་ཡིན་ཚུལ་ཀ་དག་དྲི་མ་མེད་པ་དང༌།
-<literal>sentient-beings basis buddhas basis regard awareness essence manner primordial-purity defilement not-exist and/
-<liturgical><prose>From the aspect of Ālaya and Dharmakāya as two types, know. || 240 ||
+<literal>sentient-beings ground buddhas ground regard awareness essence manner primordially-pure defilement not-exist and/
+<liturgical><prose>From the aspect of Ālaya and Dharmakāya as two types, know.
 
 [17312]
 <tibetan>དྲི་བཅས་མ་རིག་པ་རྟོག་ཚོགས་དང་བཅས་པས་སྦགས་པ་འཁྲུལ་སྣང་འཁྲུལ་འཛིན་ཀུན་གྱི་གཞིར་གྱུར་པའི་ཆ་ནས།
-<literal>defilement-possess ignorance thought-assembly possess coated deluded-appearance deluded-grasp all basis become aspect from/
+<literal>defilement-possess ignorance thought-assembly possess coated deluded-appearance deluded-grasp all-ground become aspect from/
 <liturgical><tantra>From the Thalgyur:
 
 [17313]
@@ -6511,7 +6511,7 @@ The draft in need of review is:
 
 [17315]
 <tibetan>ཀུན་གཞི་དང་ནི་ཆོས་སྐུའི་གནད།
-<literal>all-basis dharmakaya essence/
+<literal>all-ground dharmakaya essence/
 <liturgical><prose>There, Ālaya—made distinct by ignorance, support of all mind and mental-events' beginning,
 
 [17316]
@@ -6521,7 +6521,7 @@ The draft in need of review is:
 
 [17317]
 <tibetan>།དེ་ལ་ཀུན་གཞི་ནི་མ་རིག་པས་ཁྱད་པར་དུ་བྱས་པ་སེམས་དང་སེམས་བྱུང་ཐམས་ཅད་ཀྱི་དང་པོའི་རྟེན།
-<literal>/that all-basis ignorance distinguish done mind mental-factors all first basis/
+<literal>/that all-ground ignorance distinguish done mind mental-factors all first basis/
 <liturgical><prose>Final home,
 
 [17318]
@@ -6537,12 +6537,12 @@ The draft in need of review is:
 [17320]
 <tibetan>བག་ཆགས་ཀྱི་སྣོད་དུ་གྱུར་པས་རྫིང་དང་འདྲ་ལ།
 <literal>habit vessel become pond similar/
-<liturgical><prose>Made distinct by reversed ignorance,
+<liturgical><prose>Made distinct by reversed ignorance, || 17320 ||
 
 [17321]
 <tibetan>ཆོས་སྐུ་ནི།
 <literal>dharmakaya/
-<liturgical><prose>Transcended objects of mind and mental-events, || 250 ||
+<liturgical><prose>Transcended objects of mind and mental-events,
 
 [17322]
 <tibetan>མ་རིག་པ་ལོག་པས་ཁྱད་པར་དུ་བྱས་པ།
@@ -6561,12 +6561,12 @@ The draft in need of review is:
 
 [17325]
 <tibetan>།ཀུན་གཞི་ནི།
-<literal>/all-basis/
+<literal>/all-ground/
 <liturgical><prose>Various objects appearing as objects,
 
 [17326]
 <tibetan>ཟ་འོག་གི་བར་གདིང་ལྟར་དུ་མར་སྣང་བའི་གཞིར་གྱུར་པ།
-<literal>projection space spread many appear basis become/
+<literal>projection space spread many appear ground become/
 <liturgical><prose>As subjects, six ignorance, three realms, appearing as container-contained, and its body,
 
 [17327]
@@ -6587,12 +6587,12 @@ The draft in need of review is:
 [17330]
 <tibetan>སེམས་ཀྱི་འཁྲུལ་པའི་ཆ་ཤས་མང་པོ་འཛིན་ལ།
 <literal>mind delusion portion many grasp/
-<liturgical><prose>All that non-existing,
+<liturgical><prose>All that non-existing, || 17330 ||
 
 [17331]
 <tibetan>ཆོས་སྐུ་ནི།
 <literal>dharmakaya/
-<liturgical><prose>Not abiding together with mind, etc. || 260 ||
+<liturgical><prose>Not abiding together with mind, etc.
 
 [17332]
 <tibetan>དེ་ཐམས་ཅད་མེད་པ།
@@ -6611,7 +6611,7 @@ The draft in need of review is:
 
 [17335]
 <tibetan>ཀུན་གཞི་རྣམ་རྟོག་འཛིན་པ་ལ།
-<literal>all-basis thought grasp/
+<literal>all-ground thought grasp/
 <liturgical><tantra>Ālaya ignorance entity,
 
 [17336]
@@ -6621,12 +6621,12 @@ The draft in need of review is:
 
 [17337]
 <tibetan>།ཀུན་གཞི་མ་རིག་དངོས་པོ་ཡིན།
-<literal>/all-basis ignorance entity/
+<literal>/all-ground ignorance entity/
 <liturgical><tantra>Thus spoken, and
 
 [17338]
 <tibetan>།ཀུན་གཞི་ཞེས་ཀྱི་དེ་ལ་བྱ།
-<literal>/all-basis called that do/
+<literal>/all-ground called that do/
 <liturgical><tantra>Again:
 
 [17339]
@@ -6637,12 +6637,12 @@ The draft in need of review is:
 [17340]
 <tibetan>ཡང༌།
 <literal>also/
-<liturgical><tantra>Distinction by one difference determined.
+<liturgical><tantra>Distinction by one difference determined. || 17340 ||
 
 [17341]
 <tibetan>སེམས་ཅན་གཞི་དང་སངས་རྒྱས་གཞི།
-<literal>sentient-beings basis buddhas basis/
-<liturgical><tantra>Thus spoken, and || 270 ||
+<literal>sentient-beings ground buddhas ground/
+<liturgical><tantra>Thus spoken, and
 
 [17342]
 <tibetan>།ཁྱད་པར་གཅིག་གིས་ཕྱེ་བར་ངེས།
@@ -6661,7 +6661,7 @@ The draft in need of review is:
 
 [17345]
 <tibetan>།ཀུན་གཞི་ཉིད་ནི་བསགས་པའི་ཕྱིར།
-<literal>/all-basis accumulation purpose/
+<literal>/all-ground accumulation purpose/
 <liturgical><tantra>Empty and clear, clear and pervasive,
 
 [17346]
@@ -6687,16 +6687,16 @@ The draft in need of review is:
 [17350]
 <tibetan>།ནམ་མཁའ་ལྟ་བུར་ཁྱབ་ཅིང་སྟོང༌།
 <literal>/space like pervade empty/
-<liturgical><tantra>Ālaya with causes and conditions,
+<liturgical><tantra>Ālaya with causes and conditions, || 17350 ||
 
 [17351]
 <tibetan>།རང་དག་མཚོན་པ་ཀུན་དང་བྲལ།
 <literal>/self-pure indicate all free/
-<liturgical><tantra>Habitual tendencies, etc., like a pond; || 280 ||
+<liturgical><tantra>Habitual tendencies, etc., like a pond;
 
 [17352]
 <tibetan>།རྒྱུ་དང་རྐྱེན་བཅས་ཀུན་གཞི་ལ།
-<literal>/cause condition all-basis/
+<literal>/cause condition all-ground/
 <liturgical><tantra>Dharmakāya free from habitual tendencies,
 
 [17353]
@@ -6716,7 +6716,7 @@ The draft in need of review is:
 
 [17356]
 <tibetan>།ལུས་ཅན་ཀུན་གཞི་དུ་མར་སྣང༌།
-<literal>/body-possess all-basis many appear/
+<literal>/body-possess all-ground many appear/
 <liturgical><tantra>Form-appearances many, bodies non-existing."
 
 [17357]
@@ -6735,4 +6735,5 @@ The draft in need of review is:
 
 [17360]
 <tibetan>།དེ་ཡང་ཀུན་གཞི་ནི།
-<literal>/that all-basis/
+<literal>/that all-ground/
+<liturgical><prose>|| 17360 ||

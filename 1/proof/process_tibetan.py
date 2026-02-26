@@ -12,7 +12,7 @@ import sys
 from pathlib import Path
 from datetime import datetime
 
-INPUT_DIR = Path("../text/frozen/tibetan")
+INPUT_DIR = Path("../text/layer/tibetan")
 OUTPUT_FILE = Path("html/tibetan_proof.html")
 FILE_PATTERN = re.compile(r"^\d\d-\d\d-\d\d-\d\d\.txt$")
 

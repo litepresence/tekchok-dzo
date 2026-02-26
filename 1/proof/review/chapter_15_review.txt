@@ -132,7 +132,7 @@ The draft in need of review is:
 [15]
 <tibetan>།ཕྱི་འབྱུང་ས་ཆུ་ལ་སོགས་པ་འདི་དག་ནང་འབྱུང་གི་རྟེན་དུ་གནས་པས་རྟེན་དང་བརྟེན་པར་འབྲེལ་བའི་ཕྱིར་འབྱུང་བ་གཉིས་སུ་ངེས་ལ།
 <literal>/outer-arising earth water etc. these inner-arising-genitive basis-at exist because basis and dependent-connected because arising two-as definite-to/
-<liturgical><prose>Outer-arising—earth, water, and so forth—these exist as the basis for inner-arising; connected as basis and dependent, — therefore established as twofold.
+<liturgical><prose>Outer-arising—earth, water, and so forth—these exist as the ground for inner-arising; connected as basis and dependent, — therefore established as twofold.
 
 [16]
 <tibetan>འདི་གཉིས་ལ་མ་བརྟེན་པའི་སེམས་ཅན་དང་སངས་རྒྱས་གང་ཡང་མེད་དེ།
@@ -211,7 +211,7 @@ The draft in need of review is:
 
 [31]
 <tibetan>ལྷུན་གྲུབ་ཀྱི་སྣང་བའི་འབྱུང་ཆེན་དག་པ་བཞིན་ནོ།
-<literal>/spontaneous-presence-genitive appearance-genitive arising great pure like/
+<literal>/spontaneously-accomplished-genitive appearance-genitive arising great pure like/
 <liturgical><prose>Like the purity of the great arising of spontaneous presence's appearance.
 
 [32]
@@ -741,8 +741,8 @@ The draft in need of review is:
 
 [137]
 <tibetan>།སས་ནི་ལུས་ཀྱི་གཞི་བྱས་ཏེ།
-<literal>earth body-genitive basis make/
-<liturgical><prose>Earth makes the body's basis;
+<literal>earth body-genitive ground make/
+<liturgical><prose>Earth makes the body's ground;
 
 [138]
 <tibetan>།བསྐྱེད་པས་ཤ་ཡི་སྨིན་སོར་འདོད།
@@ -1337,12 +1337,12 @@ The draft in need of review is:
 [256]
 <tibetan>ལུས་གནས་ཏེ་ཡུལ་ལ་སྤྱོད་པ་ལོངས་སྐུ།
 <literal>body abide object engage enjoyment-body/
-<liturgical><prose>Birth as emanation-body;
+<liturgical><prose>Birth as Nirmanakaya;
 
 [257]
 <tibetan>ཤི་བ་ཆོས་སྐུ་སྟོང་པའི་ཆར་ཤར་བས།
 <literal>death dharma-body empty portion arise-by/
-<liturgical><prose>Body-abiding engaging fields as enjoyment-body;
+<liturgical><prose>Body-abiding engaging fields as Sambhogakaya;
 
 [258]
 <tibetan>འགྲོ་བ་རྣམས་ཡེ་ནས་གཞི་ལམ་འབྲས་བུ་བགྲོད་ནས་གྲོལ་བའི་ཚུལ་ཏེ།
@@ -2457,7 +2457,7 @@ The draft in need of review is:
 [480]
 <tibetan>རྣམ་པར་འདར་བྱེད་ཀྱི་སྲོག་དང་ལྔའོ་ཞེས་སོ།
 <literal>/shatter make life and five thus*/
-<liturgical><prose>Impure life and
+<liturgical><prose>Impure life and || 480 ||
 
 [481]
 <tibetan>།དེ་དག་ཀྱང་རིམ་པ་ལྟར།
@@ -2472,7 +2472,7 @@ The draft in need of review is:
 [483]
 <tibetan>ཐིག་ལེའི་གདངས་སྐྱེད་པ་དང༌།
 <literal>/bindhu potential produce and*/
-<liturgical><prose>Awareness-potential producing and || 10 ||
+<liturgical><prose>Awareness-potential producing and
 
 [484]
 <tibetan>འོད་ཀྱི་གདངས་སྐྱེད་པ་དང༌།
@@ -2507,7 +2507,7 @@ The draft in need of review is:
 [490]
 <tibetan>མེ་དང་ལྷན་ཅིག་གནས་པའི་རླུང་ལའང་ལྔ་སྟེ།
 <literal>/fire together abide wind-in also five/
-<liturgical><prose>Again from that:
+<liturgical><prose>Again from that: || 490 ||
 
 [491]
 <tibetan>དངས་སྙིགས་འབྱེད་པའི་རླུང་དང༌།
@@ -2522,7 +2522,7 @@ The draft in need of review is:
 [493]
 <tibetan>གསལ་འགྱུར་གྱི་རླུང་དང༌།
 <literal>/clear-change wind and*/
-<liturgical><prose>Warmth-producing wind and || 20 ||
+<liturgical><prose>Warmth-producing wind and
 
 [494]
 <tibetan>རྣམ་པར་སྡུད་པའི་རླུང་དང༌།
@@ -2557,7 +2557,7 @@ The draft in need of review is:
 [500]
 <tibetan>ཐིག་ལེ་དང་གཉིས་སུ་མེད།
 <literal>/bindhu and non-dual/
-<liturgical><prose>Nondual with bindhu,
+<liturgical><prose>Nondual with bindhu, || 500 ||
 
 [501]
 <tibetan>ཤེས་རབ་དང་གཉིས་སུ་མེད་པར་གནས་སོ།
@@ -2572,7 +2572,7 @@ The draft in need of review is:
 [503]
 <tibetan>བཀྲག་དང་གཟི་མདངས་སྐྱེད་པའི་རླུང་ལའང་ལྔ་སྟེ་རྣམ་པར་ཤེས་པ་སྐྱེད་པའི་རླུང་དང༌།
 <literal>/color radiance produce wind-in also five consciousness produce wind and/
-<liturgical><prose>In color-radiance producing wind also five: consciousness-producing wind and || 30 ||
+<liturgical><prose>In color-radiance producing wind also five: consciousness-producing wind and
 
 [504]
 <tibetan>རྣམ་པར་ཡིད་འབྱུང་བའི་རླུང་དང༌།
@@ -2607,7 +2607,7 @@ The draft in need of review is:
 [510]
 <tibetan>སྒྲོན་མའི་ཡུལ།
 <literal>/lamp object/
-<liturgical><prose>Lamp-object,
+<liturgical><prose>Lamp-object, || 510 ||
 
 [511]
 <tibetan>མ་རིག་པའི་ཡུལ།
@@ -2622,7 +2622,7 @@ The draft in need of review is:
 [513]
 <tibetan>།བཞི་པ་ཁྱབ་བྱེད་ཀྱི་རླུང་ལྔ་ནི།
 <literal>/fourth pervade wind five/
-<liturgical><prose>Fourth, the five all-pervading winds: || 40 ||
+<liturgical><prose>Fourth, the five all-pervading winds:
 
 [514]
 <tibetan>རང་ཤར་ལས།
@@ -2657,7 +2657,7 @@ The draft in need of review is:
 [520]
 <tibetan>འཛིན་པས་ལུས་ཀུན་ཁྱབ་པའི་རླུང་དང་ལྔའོ་ཞེས་སོ།
 <literal>/grasp body all pervade wind and five thus/
-<liturgical><prose>All body-pervading by holding—five. Thus.
+<liturgical><prose>All body-pervading by holding—five. Thus. || 520 ||
 
 [521]
 <tibetan>།དེ་དག་ཀྱང་རིམ་པ་ལྟར།
@@ -2672,7 +2672,7 @@ The draft in need of review is:
 [523]
 <tibetan>སྒྲོན་མ་ལ་སྣང༌།
 <literal>/lamp-in appear/
-<liturgical><prose>Lamp-appearing, || 50 ||
+<liturgical><prose>Lamp-appearing,
 
 [524]
 <tibetan>ཤེས་པ་ལ་སྣང༌།
@@ -2707,7 +2707,7 @@ The draft in need of review is:
 [530]
 <tibetan>རྣམ་པར་སྐྱོད་བྱེད་ཀྱི་རླུང་དང༌།
 <literal>/move make wind and/
-<liturgical><prose>Movement-making wind and
+<liturgical><prose>Movement-making wind and || 530 ||
 
 [531]
 <tibetan>རྣམ་པར་སྒྲོལ་བྱེད་ཀྱི་རླུང་དང༌།
@@ -2722,7 +2722,7 @@ The draft in need of review is:
 [533]
 <tibetan>རྣམ་པར་མྱུར་བྱེད་ཀྱི་རླུང་དང༌།
 <literal>/quick make wind and/
-<liturgical><prose>Swiftness-making wind and || 60 ||
+<liturgical><prose>Swiftness-making wind and
 
 [534]
 <tibetan>སྐད་ཅིག་མའི་རླུང་དང་ལྔའོ་ཞེས་སོ།
@@ -2757,7 +2757,7 @@ The draft in need of review is:
 [540]
 <tibetan>སྐད་ཅིག་མ་བྱ་རྫོགས་གསུམ་ལ་ཁྱབ་པའོ།
 <literal>/momentary deed complete three pervade/
-<liturgical><prose>Three-pervading—moments, actions, completion.
+<liturgical><prose>Three-pervading—moments, actions, completion. || 540 ||
 
 [541]
 <tibetan>།དེ་ལྟར་ཉི་ཤུ་རྩ་ལྔ་ཡང་རྩ་བ་ལྔར་འདུ་ལ།
@@ -2772,7 +2772,7 @@ The draft in need of review is:
 [543]
 <tibetan>རང་ཤར་ལས།
 <literal>/self-arisen from/
-<liturgical><tantra>From the Self-Arisen: || 70 ||
+<liturgical><tantra>From the Self-Arisen:
 
 [544]
 <tibetan>ཡང་དག་པའི་ས་ལ་སྐྱོད་པར་བྱེད་པའི་ཕྱིར་ན།
@@ -2807,7 +2807,7 @@ The draft in need of review is:
 [550]
 <tibetan>།དེ་ལྟར་དངས་མའི་རླུང་ལྔ་ལ་རིག་པའི་ཡེ་ཤེས་བརྟེན་ནས་ད་ལྟ་སྙིང་ག་ན་གནས་པས་ཡེ་ཤེས་ཀྱི་རང་གདངས་འོད་ལྔར་གསལ་བའི་གནད་དེ་ཡིན་ནོ།
 <literal>/thus essence wind five awareness wisdom rely now heart-in abide-by wisdom self-sound potential light five clear essential-point that is/
-<liturgical><prose>Because of wisdom's true expanse liberation ability,
+<liturgical><prose>Because of wisdom's true expanse liberation ability, || 550 ||
 
 [551]
 <tibetan>།རིག་པ་རླུང་དང་བྲལ་དུས་ཡེ་ཤེས་དབྱིངས་་འཁྱིལ་བས་ཕྱི་ནང་གི་མི་མངོན་པའང་རླུང་སེམས་དག་པའི་གནད་ལ་ཐུག་གོ
@@ -2821,8 +2821,8 @@ The draft in need of review is:
 
 [553]
 <tibetan>ངོ་བོ་ཀ་དག་གི་རིག་པ་རིན་པོ་ཆེ་གསང་བའི་སྦུབས་རང་བཞིན་གྱིས་འོད་གསལ་བའི་ཕོ་བྲང་ན་ངོ་བོ་རང་བཞིན་ཐུགས་རྗེ་གསུམ་གྱི་བདག་ཉིད་དུ་བཞུགས་སོ།
-<literal>/essence primordial-purity awareness jewel secret cavity self-nature luminous palace-in essence nature compassion three master abide/
-<liturgical><prose>Fire-equal wind it is called. Thus. || 80 ||
+<literal>/essence primordially-pure awareness jewel secret cavity self-nature luminous palace-in essence nature compassion three master abide/
+<liturgical><prose>Fire-equal wind it is called. Thus.
 
 [554]
 <tibetan>།དེའང་ངོ་བོ་སྐུར་བཞུགས་པས་རང་དོན་མི་གསལ་ཡང་ཕྱིར་སྣང་སྐུའི་འཆར་གཞི་མ་འགགས་པར་རང་གསལ།
@@ -2857,7 +2857,7 @@ The draft in need of review is:
 [560]
 <tibetan>རྣམ་པ་ཆོས་ཅན་ཕྱིར་གསལ་ལ་ལྟོས་ནས་རྣམ་པ་ཐམས་ཅད་མཁྱེན་པའི་ཡེ་ཤེས་སྣང་བའོ།
 <literal>/aspect dharma-possessor outer-clear depend-on aspect all-know wisdom appear/
-<liturgical><prose>Depending on dharmapossessor's outer-clear aspect, all-aspect-knowing appearing as wisdom.
+<liturgical><prose>Depending on dharmapossessor's outer-clear aspect, all-aspect-knowing appearing as wisdom. || 560 ||
 
 [561]
 <tibetan>།རླུང་ལྔ་ནི་རྩ་བ་སྲོག་རླུང་ཐུགས་རྗེ་རིག་པའི་ཡེ་ཤེས་ཀྱི་ཆ་ལས་དག་ན་སངས་རྒྱས་ཀྱི་ཡེ་ཤེས་དང༌།
@@ -2872,7 +2872,7 @@ The draft in need of review is:
 [563]
 <tibetan>།དེ་ལས་འཕྲོས་པ་ཡན་ལག་གི་རླུང་བཞི་ནི་ཐུགས་རྗེའི་རྩལ་ལས་ཉི་མ་ལས་འོད་ཟེར་ལྟ་བུ་སྟེ།
 <literal>/that-from emanate branch wind four compassion potency-from sun-from light-ray like/
-<liturgical><prose>Four branch winds emanating from that, from compassion-potency, like sun's rays: || 90 ||
+<liturgical><prose>Four branch winds emanating from that, from compassion-potency, like sun's rays:
 
 [564]
 <tibetan>གྱེན་དུ་རྒྱུ་ཤེས་རབ་ཀྱི་རྟ་དང༌།
@@ -2907,7 +2907,7 @@ The draft in need of review is:
 [570]
 <tibetan>འཕྲོ་གཞི་མ་འགགས་པའི་སྙིང་པོ་ཙམ་དུ་གནས་ཏེ།
 <literal>/emanate base non-cease essence only abide/
-<liturgical><prose>Abiding only as emanation's non-ceasing base's essence.
+<liturgical><prose>Abiding only as emanation's non-ceasing base's essence. || 570 ||
 
 [571]
 <tibetan>སྙིང་པོའི་ཡན་ལག་འོད་དུ་གསལ་བའོ།
@@ -2922,7 +2922,7 @@ The draft in need of review is:
 [573]
 <tibetan>དེ་ཡི་སྐུ་ཡི་བཞུགས་ཚུལ་ནི།
 <literal>/that kaya abide manner/
-<liturgical><prose>That kaya's abiding manner: || 100 ||
+<liturgical><prose>That kaya's abiding manner:
 
 [574]
 <tibetan>།སྟོང་གསལ་ཆུ་ལྦུའི་གཟུགས་བརྙན་བཞིན།
@@ -2957,7 +2957,7 @@ The draft in need of review is:
 [580]
 <tibetan>།ཕྱོགས་ལྷུང་མེད་པའི་ཤེས་རབ་མེ་སྟག་ལྟར།
 <literal>/wisdom fire spark without falling direction like/
-<liturgical><prose>Like wisdom fire-sparks without falling-direction,
+<liturgical><prose>Like wisdom fire-sparks without falling-direction, || 580 ||
 
 [581]
 <tibetan>།སྙིང་པོའི་སྙིང་པོ་ཡེ་ཤེས་ལྔར་བཞུགས་སོ།
@@ -2972,7 +2972,7 @@ The draft in need of review is:
 [583]
 <tibetan>།དེའང་རྣམ་པར་རྟོག་པ་གང་གིས་ཀྱང་མ་བསླད་པའི་ཡེ་ཤེས་ཏེ།
 <literal>/that also concept any-by non-deceive wisdom/
-<liturgical><prose>That also is wisdom not deceived by any concept. || 110 ||
+<liturgical><prose>That also is wisdom not deceived by any concept.
 
 [584]
 <tibetan>བཅོས་ཤིང་བསྒྱུར་བ་དང༌།
@@ -3001,13 +3001,13 @@ The draft in need of review is:
 
 [589]
 <tibetan>དེ་ཉིད་རིག་པར་གནས་པས་ཀུན་གྱི་གཞི་འཛིན་ནོ།
-<literal>/that very awareness in abide-by all basis hold/
-<liturgical><prose>Abiding as awareness itself, holding all's basis.
+<literal>/that very awareness in abide-by all-ground hold/
+<liturgical><prose>Abiding as awareness itself, holding all's ground.
 
 [590]
 <tibetan>།དེའི་བཞུགས་པའི་ཕོ་བྲང་ནི།
 <literal>/that abide palace/
-<liturgical><prose>Its abiding palace is
+<liturgical><prose>Its abiding palace is || 590 ||
 
 [591]
 <tibetan>དེ་ཉིད་ལས།
@@ -3022,7 +3022,7 @@ The draft in need of review is:
 [593]
 <tibetan>།ཅེས་པས།
 <literal>/thus by/
-<liturgical><prose>Thus it is said. || 120 ||
+<liturgical><prose>Thus it is said.
 
 [594]
 <tibetan>ཆོས་ཀྱི་སྐུ་དེ་རིན་པོ་ཆེའི་སྦུབས་ན་བཞུགས་ཙམ་ན།
@@ -3046,8 +3046,8 @@ The draft in need of review is:
 
 [598]
 <tibetan>།དེ་ནི་ཐོག་མའི་སྤྱི་གཞི་རིག་པའི་དབྱིངས་ཞེས་བྱ་སྟེ།
-<literal>/that beginning common basis awareness expanse called/
-<liturgical><prose>This is called the primordial common basis, awareness-expanse,
+<literal>/that beginning common ground awareness expanse called/
+<liturgical><prose>This is called the primordial common ground, awareness-expanse,
 
 [599]
 <tibetan>རླུང་ལྔ་དང་འབྲེལ་པ་བསྒྲུབ་པའི་དོན་ཏོ།
@@ -3057,7 +3057,7 @@ The draft in need of review is:
 [600]
 <tibetan>།གཉིས་པ་མེ་ལྔ་རྒྱས་པར་བཤད་པ་ནི་རང་ཤར་ལས།
 <literal>/second fire five extensive explanation self-arisen from/
-<liturgical><prose>Second, the five fires' extensive explanation, from Self-Arisen:
+<liturgical><prose>Second, the five fires' extensive explanation, from Self-Arisen: || 600 ||
 
 [601]
 <tibetan>མེ་ལ་ལྔ་སྟེ།
@@ -3072,7 +3072,7 @@ The draft in need of review is:
 [603]
 <tibetan>ཕྱི་ནང་ཀུན་གསལ་གྱི་མེ་དང༌།
 <literal>/outer-inner all clear fire and/
-<liturgical><prose>Outer-inner all-illuminating fire, || 130 ||
+<liturgical><prose>Outer-inner all-illuminating fire,
 
 [604]
 <tibetan>ཕྱི་ནང་ཀུན་ཏུ་མཉམ་པའི་མེ་དང༌།
@@ -3107,7 +3107,7 @@ The draft in need of review is:
 [610]
 <tibetan>ཤ་ལྤགས་བར་དང༌།
 <literal>/flesh gap and/
-<liturgical><prose>Flesh gaps,
+<liturgical><prose>Flesh gaps, || 610 ||
 
 [611]
 <tibetan>རྐང་མཐིལ་གཉིས་དང༌།
@@ -3122,7 +3122,7 @@ The draft in need of review is:
 [613]
 <tibetan>།གསུམ་པ་ས་ལའང་ལྔ་སྟེ།
 <literal>/third earth also five/
-<liturgical><prose>Third, the five earths as well: || 140 ||
+<liturgical><prose>Third, the five earths as well:
 
 [614]
 <tibetan>དེ་ཉིད་ལས།
@@ -3157,7 +3157,7 @@ The draft in need of review is:
 [620]
 <tibetan>སྒྲུབ་པ་མཐར་ཕྱིན་པའི་ས་དང་ལྔའོ་ཞེས་སོ།
 <literal>/accomplish completion earth and five thus/
-<liturgical><prose>Perfected accomplishment earth—thus five.
+<liturgical><prose>Perfected accomplishment earth—thus five. || 620 ||
 
 [621]
 <tibetan>།དེ་དག་ཀྱང་རིམ་པ་བཞིན།
@@ -3172,7 +3172,7 @@ The draft in need of review is:
 [623]
 <tibetan>སྒྲོན་པ་དང་ལྷན་ཅིག
 <literal>/lamp with together/
-<liturgical><prose>Together with lamp, || 150 ||
+<liturgical><prose>Together with lamp,
 
 [624]
 <tibetan>ཐིག་ལེ་དང་ལྷན་ཅིག
@@ -3207,7 +3207,7 @@ The draft in need of review is:
 [630]
 <tibetan>ཞི་བ་གསལ་དག་གི་ཆུ་དང༌།
 <literal>/peaceful clear pure water and/
-<liturgical><prose>Peaceful, clear, pure water,
+<liturgical><prose>Peaceful, clear, pure water, || 630 ||
 
 [631]
 <tibetan>ཡོན་ཏན་འབྱུང་བ་རྒྱས་པའི་ཆུ་དང༌།
@@ -3222,7 +3222,7 @@ The draft in need of review is:
 [633]
 <tibetan>འཛིན་མེད་རྫོགས་པའི་ཆུ་དང་ལྔའོ་ཞེས་སོ།
 <literal>/grasp without completion water and five thus/
-<liturgical><prose>Completion-without-grasping water—thus five. || 160 ||
+<liturgical><prose>Completion-without-grasping water—thus five.
 
 [634]
 <tibetan>།དེ་དག་ཀྱང་རིམ་པ་ལྟར།
@@ -3257,7 +3257,7 @@ The draft in need of review is:
 [640]
 <tibetan>།ལྔ་པ་ནམ་མཁའ་ལྔ་ནི།
 <literal>/five space five/
-<liturgical><prose>Fifth, the five spaces:
+<liturgical><prose>Fifth, the five spaces: || 640 ||
 
 [641]
 <tibetan>ཡང་རང་ཤར་ལས་གསུངས་པ།
@@ -3272,7 +3272,7 @@ The draft in need of review is:
 [643]
 <tibetan>སྤྱི་ཀུན་ལ་ཁྱབ་པའི་ནམ་མཁའ་དང༌།
 <literal>/common all pervade space and/
-<liturgical><prose>All-common-pervading space, || 170 ||
+<liturgical><prose>All-common-pervading space,
 
 [644]
 <tibetan>ཡུལ་མེད་གསལ་གདངས་ཀྱི་ནམ་མཁའ་དང༌།
@@ -3307,7 +3307,7 @@ The draft in need of review is:
 [650]
 <tibetan>འོད་ལྔ་དང༌།
 <literal>/light five and/
-<liturgical><prose>Together with five lights,
+<liturgical><prose>Together with five lights, || 650 ||
 
 [651]
 <tibetan>དབྱིངས་རྣམ་པར་དག་པའི་སྒྲོན་མ་དང༌།
@@ -3322,7 +3322,7 @@ The draft in need of review is:
 [653]
 <tibetan>ངོ་སྤྲོད་ཉི་ཤུ་རྩ་གཅིག་གིས་སྤྲད་པའི་དཔེ་དོན་ངེས་པའི་ཡིད་ཆེས་རྣམས་སོ།
 <literal>/twenty-one pointing-out instruction-by joined example meaning certain confidence/
-<liturgical><prose>Together with twenty-one pointing-out instructions, example-meaning certain confidence. || 180 ||
+<liturgical><prose>Together with twenty-one pointing-out instructions, example-meaning certain confidence.
 
 [654]
 <tibetan>།དེ་ལྟར་འབྱུང་བ་ལྔའི་རིག་པའི་ཆས་བསྡུས་པ་རྣམས་འབྱུང་བ་ཆེན་པོ་ཡིན་ལ།
@@ -3332,7 +3332,7 @@ The draft in need of review is:
 [655]
 <tibetan>དེའི་རྟེན་ནི་འབྱུང་བ་ཆུང་བ་ཡིན་ནོ།
 <literal>/vehicle supreme precious treasury from/
-<liturgical><prose>While their basis is the small elements.
+<liturgical><prose>While their ground is the small elements.
 
 [656]
 <tibetan>།ཐེག་པའི་མཆོག་རིན་པོ་ཆེའི་མཛོད་ལས།
@@ -3357,7 +3357,7 @@ The draft in need of review is:
 [660]
 <tibetan>རྟེན་སྐུ།
 <literal>/tone light/
-<liturgical><prose>Basis: kayas,
+<liturgical><prose>Basis: kayas, || 660 ||
 
 [661]
 <tibetan>གདངས་འོད།
@@ -3372,7 +3372,7 @@ The draft in need of review is:
 [663]
 <tibetan>མཛད་པ་འཕྲིན་ལས་ཀྱི་རབ་ཏུ་དབྱེ་བའོ།
 <literal>/first basis kaya extensive division two/
-<liturgical><prose>Activities: enlightened actions. || 190 ||
+<liturgical><prose>Activities: enlightened actions.
 
 [664]
 <tibetan>།དང་པོ་རྟེན་སྐུའི་རབ་ཏུ་དབྱེ་བ་ལ་གཉིས་ཏེ།
@@ -3407,7 +3407,7 @@ The draft in need of review is:
 [670]
 <tibetan>ངོ་བོ་གཅིག་ལ་ལྡོག་པ་ཐ་དད་ཀྱི་ཚུལ་དུ་སྐུ་གསུམ་དབྱིངས་ལ་བཞུགས་ཏེ།
 <literal>/self-arisen from/
-<liturgical><prose>Though essence is one, the Three Kayas abide in the expanse through different aspects.
+<liturgical><prose>Though essence is one, the Three Kayas abide in the expanse through different aspects. || 670 ||
 
 [671]
 <tibetan>རང་ཤར་ལས།
@@ -3447,7 +3447,7 @@ The draft in need of review is:
 [678]
 <tibetan>དེ་ཉིད་ལས།
 <literal>/awareness thought without dharmakaya essence is/
-<liturgical><tantra>From that same nature: || 10 ||
+<liturgical><tantra>From that same nature:
 
 [679]
 <tibetan>རིག་པ་རྟོག་མེད་ཆོས་སྐུའི་ངོ་བོ་ཡིན།
@@ -3457,7 +3457,7 @@ The draft in need of review is:
 [680]
 <tibetan>།རིག་པ་མ་འགགས་གསལ་བ་ལོངས་སྐུ་ཡིན།
 <literal>/awareness whatever appear nirmanakaya is/
-<liturgical><prose>Uncensored clear awareness, Sambhogakāya;
+<liturgical><prose>Uncensored clear awareness, Sambhogakāya; || 680 ||
 
 [681]
 <tibetan>།རིག་པ་ཅིར་ཡང་སྣང་བ་སྤྲུལ་སྐུ་ཡིན།

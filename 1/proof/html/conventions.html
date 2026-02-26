@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Editorial Conventions - Treasury of the Supreme Vehicle</title>
-    <meta name="created" content="2026-02-25T16:43:57.049081">
+    <meta name="created" content="2026-02-25T18:49:56.848295">
     <style>
         @page { size: 6in 9in; margin: 0.75in; }
         :root {
@@ -242,6 +242,17 @@
             // Hide TOC since we're showing only one layer
             const toc = document.querySelector('.toc');
             if (toc) toc.style.display = 'none';
+
+            // Listen for dropdown changes from parent and reload with new layer
+            window.addEventListener('message', function(e) {
+                if (e.data && e.data.type === 'layerChange') {
+                    let newLayer = e.data.layer;
+                    if (newLayer === 'introduction') newLayer = 'liturgical';
+                    window.location.href = '?layer=' + newLayer;
+                }
+            });
+
+
         });
     </script>
 </head>

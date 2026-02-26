@@ -14,7 +14,7 @@ from datetime import datetime
 
 INPUT_FILE = Path("../contents/contents.md")
 OUTPUT_FILE = Path("html/contents_proof.html")
-LITERAL_DIR = Path("../text/dynamic/literal")
+LITERAL_DIR = Path("../text/layer/literal")
 
 LINE_MAP = {}
 
@@ -458,10 +458,13 @@ def generate_html(data):
     // Dark mode handling - sync with parent
     (function() {
         const isDark = localStorage.getItem('darkMode') !== 'false';
+        console.log('Contents page loaded, isDark:', isDark);
         if (!isDark) document.body.classList.add('light-mode');
         
         window.addEventListener('message', function(e) {
+            console.log('Contents received message:', e.data);
             if (e.data && e.data.type === 'darkModeChange') {
+                console.log('Contents darkModeChange received, enabled:', e.data.enabled);
                 document.body.classList.toggle('light-mode', !e.data.enabled);
                 localStorage.setItem('darkMode', e.data.enabled);
             }
