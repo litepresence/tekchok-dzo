@@ -1,12 +1,20 @@
-// Tibetan Layer - Navigation with absolute line numbers
-// Volume 1: lines 1-20426
-// Volume 2: lines 20427-37756
+// Tibetan Layer - Navigation with volume-relative line numbers
+// Volume 1: lines 1-20426 (relative = absolute)
+// Volume 2: lines 1-17330 (relative), displayed as 20427-37756 (absolute)
 
 const VOLUME_BOUNDARY = 20426;
 
 function getVolumeFromLine(absLine) {
     if (!absLine || absLine <= 0) return 1;
     return absLine <= VOLUME_BOUNDARY ? 1 : 2;
+}
+
+function toAbsoluteLine(relLine, volume) {
+    if (!relLine || relLine <= 0) return 1;
+    if (volume === 2) {
+        return relLine + VOLUME_BOUNDARY;
+    }
+    return relLine;
 }
 
 function showChapter(index) {
@@ -119,20 +127,22 @@ function goToLine(lineNum, volume) {
 
 function handleHashNavigation() {
     const hash = window.location.hash;
-    // Format: #line-VOL-LINE or #line-LINE (legacy)
+    // Format: #line-VOL-RELATIVELINE (e.g., #line-2-500 = volume 2, line 500 relative)
     const match = hash.match(/line-(\d+)(?:-(\d+))?/);
     if (match) {
-        let lineNum, volume;
+        let relLine, volume;
         if (match[2]) {
-            // Format: #line-VOL-LINE
+            // Format: #line-VOL-RELATIVELINE
             volume = parseInt(match[1]);
-            lineNum = parseInt(match[2]);
+            relLine = parseInt(match[2]);
         } else {
             // Legacy format: #line-LINE (assume volume 1)
-            lineNum = parseInt(match[1]);
+            relLine = parseInt(match[1]);
             volume = 1;
         }
-        goToLine(lineNum, volume);
+        // Convert relative to absolute for goToLine
+        const absLine = toAbsoluteLine(relLine, volume);
+        goToLine(absLine, volume);
     }
 }
 
@@ -159,15 +169,23 @@ function reportCurrentLine() {
     }
     
     if (closest) {
-        const lineNum = closest.id.replace('line-', '');
-        const volume = getVolumeFromLine(parseInt(lineNum));
+        // Line IDs in HTML are volume-relative (1-17330 for Vol2)
+        const relLine = parseInt(closest.id.replace('line-', ''));
         
-        if (lineNum !== lastReportedLine || volume !== lastReportedVolume) {
-            lastReportedLine = lineNum;
+        // Detect volume from parent chapter
+        const chapter = closest.closest('[data-chapter-key]');
+        const chapterKey = chapter ? chapter.dataset.chapterKey : '01-01';
+        const volume = chapterKey.startsWith('02-') ? 2 : 1;
+        
+        // Convert to absolute line
+        const absLine = toAbsoluteLine(relLine, volume);
+        
+        if (absLine !== lastReportedLine || volume !== lastReportedVolume) {
+            lastReportedLine = absLine;
             lastReportedVolume = volume;
             window.parent.postMessage({ 
                 type: 'linePosition', 
-                line: lineNum, 
+                line: absLine, 
                 volume: volume 
             }, '*');
         }

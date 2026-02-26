@@ -1362,15 +1362,25 @@
                     iframe.contentWindow.location.hash = '#chapter-' + chapterId;
                 }
             } else if (lineLayers.includes(layerId) && lineToUse && !isNaN(lineToUse)) {
-                src += `#line-${volumeToUse}-${lineToUse}`;
+                // Convert absolute line to volume-relative for the iframe
+                let relativeLine = lineToUse;
+                if (volumeToUse === 2 && lineToUse > VOLUME_BOUNDARY) {
+                    relativeLine = lineToUse - VOLUME_BOUNDARY;
+                }
+                src += `#line-${volumeToUse}-${relativeLine}`;
             }
             
             // Always update src when line/volume changes, not just on initial load
             if (needsLoad) {
                 iframe.src = src;
             } else if (lineLayers.includes(layerId) && lineToUse && !isNaN(lineToUse)) {
+                // Convert absolute line to volume-relative for the iframe
+                let relativeLine = lineToUse;
+                if (volumeToUse === 2 && lineToUse > VOLUME_BOUNDARY) {
+                    relativeLine = lineToUse - VOLUME_BOUNDARY;
+                }
                 // Iframe already loaded - just update its hash to navigate to correct position
-                iframe.contentWindow.location.hash = `#line-${volumeToUse}-${lineToUse}`;
+                iframe.contentWindow.location.hash = `#line-${volumeToUse}-${relativeLine}`;
             }
         }
 

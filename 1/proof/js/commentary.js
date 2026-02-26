@@ -1,12 +1,20 @@
 // Commentary Layer - Navigation with line range matching
-// Volume 1: lines 1-20426
-// Volume 2: lines 20427-37756
+// Volume 1: lines 1-20426 (relative = absolute)
+// Volume 2: lines 1-17330 (relative), displayed as 20427-37756 (absolute)
 
 const VOLUME_BOUNDARY = 20426;
 
 function getVolumeFromLine(absLine) {
     if (!absLine || absLine <= 0) return 1;
     return absLine <= VOLUME_BOUNDARY ? 1 : 2;
+}
+
+function toAbsoluteLine(relLine, volume) {
+    if (!relLine || relLine <= 0) return 1;
+    if (volume === 2) {
+        return relLine + VOLUME_BOUNDARY;
+    }
+    return relLine;
 }
 
 // Parse range from element (looks for .line-range child or data attributes)
@@ -106,8 +114,11 @@ function goToLine(lineNum, volume) {
     volume = volume || 1;
     const volPrefix = volume === 1 ? '01-' : '02-';
     
-    // First try exact match on line ID
-    let lineEl = document.getElementById('line-' + lineNum);
+    // Convert absolute line to relative for HTML lookup
+    const relLine = volume === 2 ? lineNum - VOLUME_BOUNDARY : lineNum;
+    
+    // First try exact match on line ID (relative)
+    let lineEl = document.getElementById('line-' + relLine);
     
     if (!lineEl) {
         // Find best match - prefer entries where line is within range
@@ -120,16 +131,16 @@ function goToLine(lineNum, volume) {
             entries.forEach(el => {
                 const range = parseRangeFromElement(el);
                 if (range) {
-                    // Calculate score: higher is better match
+                    // Compare relative line with relative range
                     let score = -Infinity;
-                    if (lineNum >= range.start && lineNum <= range.end) {
+                    if (relLine >= range.start && relLine <= range.end) {
                         // Line is within range - perfect match
                         score = 1000 - (range.end - range.start); // Prefer smaller ranges
                     } else {
                         // Line is outside range - use distance
                         const dist = Math.min(
-                            Math.abs(lineNum - range.start),
-                            Math.abs(lineNum - range.end)
+                            Math.abs(relLine - range.start),
+                            Math.abs(relLine - range.end)
                         );
                         score = -dist;
                     }
@@ -168,15 +179,16 @@ function handleHashNavigation() {
     const hash = window.location.hash;
     const match = hash.match(/line-(\d+)(?:-(\d+))?/);
     if (match) {
-        let lineNum, volume;
+        let relLine, volume;
         if (match[2]) {
             volume = parseInt(match[1]);
-            lineNum = parseInt(match[2]);
+            relLine = parseInt(match[2]);
         } else {
-            lineNum = parseInt(match[1]);
+            relLine = parseInt(match[1]);
             volume = 1;
         }
-        goToLine(lineNum, volume);
+        const absLine = toAbsoluteLine(relLine, volume);
+        goToLine(absLine, volume);
     }
 }
 
@@ -205,18 +217,22 @@ function reportCurrentRange() {
     if (closest) {
         const range = parseRangeFromElement(closest);
         if (range) {
-            const rangeKey = `${range.start}-${range.end}`;
             const chapter = closest.closest('[data-chapter-key]');
             const chapterKey = chapter ? chapter.dataset.chapterKey : '01-01';
             const volume = chapterKey.startsWith('02-') ? 2 : 1;
+            
+            // Convert relative range to absolute
+            const absRangeStart = toAbsoluteLine(range.start, volume);
+            const absRangeEnd = toAbsoluteLine(range.end, volume);
+            const rangeKey = `${absRangeStart}-${absRangeEnd}`;
             
             if (rangeKey !== lastReportedRange || volume !== lastReportedVolume) {
                 lastReportedRange = rangeKey;
                 lastReportedVolume = volume;
                 window.parent.postMessage({ 
                     type: 'rangePosition', 
-                    rangeStart: range.start,
-                    rangeEnd: range.end,
+                    rangeStart: absRangeStart,
+                    rangeEnd: absRangeEnd,
                     volume: volume 
                 }, '*');
             }
