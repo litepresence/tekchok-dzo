@@ -1468,18 +1468,13 @@
             return;
         }
         
-        // Only use URL line when coming FROM a nav layer (contents/introduction/etc)
-        // When switching between line layers, preserve state.line (current scroll position)
-        const wasOnNavLayer = !state.layer || navLayers.includes(state.layer);
-        
+        // Always use URL line when it exists in the hash
         let lineToUse = null;
         
-        if (wasOnNavLayer && hashData.line) {
-            // Coming from nav layer - use URL line
+        if (hashData.line) {
             setLine(hashData.line);
             lineToUse = hashData.line;
         }
-        // Otherwise (switching between line layers), keep state.line as-is - don't use URL line
         
         showLayer(hashData.layer, lineToUse);
     }
