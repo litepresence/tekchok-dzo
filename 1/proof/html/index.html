@@ -834,11 +834,11 @@
                 <option value="#delusion">Delusion</option>
                 <option value="#cognitive">Cognitive</option>
             </select>
-            <button class="toolbar-nav-btn" onclick="handlePrevChapter()" title="Previous Chapter">&lt;</button>
+            <button class="toolbar-nav-btn" onclick="handlePrev()" title="Previous">&lt;</button>
             <select id="chapter-select" class="chapter-dropdown" onchange="handleChapterSelect(this.value)">
                 <option value="">Select Chapter...</option>
             </select>
-            <button class="toolbar-nav-btn" onclick="handleNextChapter()" title="Next Chapter">&gt;</button>
+            <button class="toolbar-nav-btn" onclick="handleNext()" title="Next">&gt;</button>
             <span class="nav-divider"></span>
             <a href="#glossary" class="nav-tab glossary">Glossary</a>
             <button class="dark-mode-toggle" onclick="toggleDarkMode()">Dark</button>
@@ -1100,16 +1100,54 @@
         }
     }
     
-    // Handle prev chapter button click
-    function handlePrevChapter() {
+    // Handle prev button click
+    function handlePrev() {
+        if (!state.layer) return;
+        
+        // Handle conventions tab - cycle through layers
+        if (state.layer === 'conventions') {
+            const conventionsLayers = ['tibetan', 'wylie', 'literal', 'liturgical', 'commentary', 'scholar', 'epistemic', 'delusion', 'cognitive'];
+            const iframe = document.querySelector('#conventions-frame');
+            const currentParams = new URLSearchParams(iframe.src.split('?')[1] || '');
+            const currentLayer = currentParams.get('layer') || 'liturgical';
+            const currentIndex = conventionsLayers.indexOf(currentLayer);
+            const prevIndex = (currentIndex - 1 + conventionsLayers.length) % conventionsLayers.length;
+            const newLayer = conventionsLayers[prevIndex];
+            
+            iframe.src = iframe.dataset.src + '?layer=' + newLayer;
+            
+            // Update layer dropdown
+            document.getElementById('layer-select').value = '#' + newLayer;
+            return;
+        }
+        
         const iframe = document.querySelector(`#${state.layer} .layer-frame`);
         if (iframe && iframe.contentWindow) {
             iframe.contentWindow.postMessage({ type: 'prevChapter' }, '*');
         }
     }
     
-    // Handle next chapter button click
-    function handleNextChapter() {
+    // Handle next button click
+    function handleNext() {
+        if (!state.layer) return;
+        
+        // Handle conventions tab - cycle through layers
+        if (state.layer === 'conventions') {
+            const conventionsLayers = ['tibetan', 'wylie', 'literal', 'liturgical', 'commentary', 'scholar', 'epistemic', 'delusion', 'cognitive'];
+            const iframe = document.querySelector('#conventions-frame');
+            const currentParams = new URLSearchParams(iframe.src.split('?')[1] || '');
+            const currentLayer = currentParams.get('layer') || 'liturgical';
+            const currentIndex = conventionsLayers.indexOf(currentLayer);
+            const nextIndex = (currentIndex + 1) % conventionsLayers.length;
+            const newLayer = conventionsLayers[nextIndex];
+            
+            iframe.src = iframe.dataset.src + '?layer=' + newLayer;
+            
+            // Update layer dropdown
+            document.getElementById('layer-select').value = '#' + newLayer;
+            return;
+        }
+        
         const iframe = document.querySelector(`#${state.layer} .layer-frame`);
         if (iframe && iframe.contentWindow) {
             iframe.contentWindow.postMessage({ type: 'nextChapter' }, '*');
@@ -1541,6 +1579,17 @@
         updateLayerDropdown(layerId);
         updateChapterDropdown();
         updateHeaderIndicator();
+        
+        // Hide chapter dropdown and nav buttons when on conventions (they don't apply)
+        const chapterSelect = document.getElementById('chapter-select');
+        const navBtns = document.querySelectorAll('.toolbar-nav-btn');
+        if (layerId === 'conventions') {
+            if (chapterSelect) chapterSelect.style.display = 'none';
+            navBtns.forEach(btn => btn.style.display = 'none');
+        } else if (layerId) {
+            if (chapterSelect) chapterSelect.style.display = '';
+            navBtns.forEach(btn => btn.style.display = '');
+        }
     }
 
     // ==========================================================================
