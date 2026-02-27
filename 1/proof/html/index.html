@@ -984,7 +984,7 @@
             chapterMap: null,
 
             async load() {
-                const resp = await fetch('ALN_map.json');
+                const resp = await fetch('../ALN_map.json');
                 this.map = await resp.json();
                 this.sections = this._buildSections();
                 this.chapterMap = this._buildChapterMap();
@@ -1128,7 +1128,13 @@
     // Populate chapter dropdown from ALN.chapterMap
     function populateChapterDropdown() {
         const dropdown = document.getElementById('chapter-select');
-        if (!dropdown || !ALN || !ALN.chapterMap) return;
+        if (!dropdown) return;
+        
+        // Wait for ALN to be ready
+        if (!ALN || !ALN.chapterMap) {
+            setTimeout(populateChapterDropdown, 200);
+            return;
+        }
         
         dropdown.innerHTML = '<option value="">Select Chapter...</option>';
         
