@@ -1395,7 +1395,7 @@
                 if (effectiveLayer === 'introduction') effectiveLayer = 'liturgical';
                 iframe.src = iframe.dataset.src + '?layer=' + effectiveLayer;
             }
-            setLayer(targetLayer);
+            // Don't call setLayer() - keep state.layer as 'conventions' for subsequent changes
             return;
         }
         
@@ -1570,8 +1570,13 @@
             if (needsLoad) {
                 iframe.src = src;
             } else if (lineLayers.includes(layerId) && lineToUse && !isNaN(lineToUse)) {
-                // Iframe already loaded - just update its hash to navigate to correct position
-                iframe.contentWindow.location.hash = `#line-${lineToUse}`;
+                // Iframe already loaded - always update its hash to navigate to correct position
+                try {
+                    iframe.contentWindow.location.hash = `#line-${lineToUse}`;
+                } catch(e) {
+                    // Cross-origin or other error - reload instead
+                    iframe.src = src;
+                }
             }
         }
 
