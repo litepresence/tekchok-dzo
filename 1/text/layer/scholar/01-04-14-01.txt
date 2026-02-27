@@ -11,11 +11,11 @@ Tantra Mahayoga: Ground, Path, Fruition
 
 2. **Accomplishment-focused** (*sgrub pa gtso bo*)
 
-[3341-3343] <concept>
+ <concept>
 Tantra Mahayoga: Ground, Path, Fruition
 **Analysis:** Tantra Mahayoga practice
 
-[3341-3342]
+
 :**
 1. **Ground-path-fruition focused** (*gzhi lam 'bras bu gtso bo*)
 2. **Accomplishment-focused** (*sgrub pa gtso bo*)
@@ -40,7 +40,7 @@ Technical Terms in Mahayoga
 **Line 3351:**
 - *go rims 'jug pa rnam grol gyi lam* — Path of liberation through entering sequence
 
-[3344-3351] <philology>
+ <philology>
 Technical Terms in Mahayoga
 **Analysis:** This enumeration continues the technical terminology of Mahāyoga praxis, emphasizing the accomplishment (*sgrub pa*) of the ground (*gzhi*) as the foundational soteriological operation. The phrase *bsgrub pas sems kyi mtshan nyid nye bar rtogs pa* (close realization of mind's characteristics through accomplishment) encapsulates the tantric epistemology wherein direct knowledge (*rtogs pa*) arises through ritual engagement rather than mere intellectual inquiry. The terminology of "transformation" (*rnam gyur*) and "sequential entry" (*go rims 'jug pa*) reflects the structured methodology of Mahāyoga sadhana, where meditative stabilization (*ting nge 'dzin*) undergoes systematic transmutation, leading to sequential liberation (*rnam grol gyi lam*). This technical lexicon derives from the *Guhyagarbha* and related *Ma rgyud* tantras, establishing the philological continuity between root texts (*rtsa rgyud*) and Longchenpa's exegesis.
 
@@ -467,13 +467,13 @@ Four Expanses and Wisdoms of Anuyoga
 
 1. **Rnam par grol ba'i gzhi** (Liberation basis)
 
-[3493-3517] <concept>
+ <concept>
 Four Expanses and Wisdoms of Anuyoga (Continued)
 **Analysis:** Lines 3493-3517 present Anuyoga's path structure in detail:
 
 **Three Fruition Timings
 
-[3493-3495]
+
 :**
 1. Buddhahood in one birth (*skye ba gcig la sangs rgya*)
 2. Intermediate state certainty (*bar ma do la sangs rgyas bar nges pa*)
@@ -492,7 +492,7 @@ Four Expanses and Wisdoms of Anuyoga (Continued)
 
 2. **Lam gyi dbyings-ye-shes** (Path)
 
-[3496-3501]
+
 :
    - *byas chos* — Created phenomena
    - *rtsol sgrub* — Effort and accomplishment
@@ -513,7 +513,7 @@ Four Expanses and Wisdoms of Anuyoga (Continued)
 
 3. **'Bras bu'i dbyings-ye-shes** (Result)
 
-[3502-3507]
+
 :
    - Various appearances as path expanse-wisdom
    - All various appearances as play (*rol pa*)
@@ -535,7 +535,7 @@ Four Expanses and Wisdoms of Anuyoga (Continued)
 
 4. **Zung 'jug** (Union)
 
-[3508-3512]
+
 :
    - Great self-liberation beyond action
    - Not abiding in samsara-nirvana
@@ -564,14 +564,14 @@ Result Expanse-Wisdom
    - Without arrogance, without rejection
    - Called *zung 'jug*
 
-[3513-3517]
+
 :
    - Expanse-wisdom entering gradually
    - Abiding, empty, bliss
    - Without arrogance (*bla nga*), without rejection
    - Called: Union (*zung 'jug*)
 
-[3513-3517] <concept>
+ <concept>
 Union (zung 'jug) in Anuyoga
 **Analysis:** Lines 3513-3517 present the union level:
 
@@ -617,7 +617,7 @@ Three Entry Modes Detailed
 
 3. **Thodgal** (Leap-over)
 
-[3519-3520]
+
 :**
 - Understanding: everything is, yet nothing is particular
 - Not rejecting all (*kun mi spong*)
@@ -638,7 +638,7 @@ Three Entry Modes Detailed
 
 5. **Abiding Non-change** (*gnas pa las gzhan du 'gyur ba med*)
 
-[3521-3522]
+
 :**
 - Entering leap-over manner
 - Appearance (*mthong snang*) and liberation together
@@ -663,7 +663,7 @@ Five Views of Anuyoga
 
 **Three Additional Views
 
-[3524-3525]
+
 :
    - No going-coming in expanse-wisdom
 
@@ -697,13 +697,13 @@ Expanses as Ground, Path, Result
 
 **Cause-Result Structure
 
-[3529-3533] <structure>
+ <structure>
 Summary: Ground, Path, Result, Superiority
 **Analysis:** Lines 3529-3533 synthesize the Anuyoga framework:
 
 **Ground-Path
 
-[3529-3530]
+
 :**
 - Expanses as ground (*don gyi dbyings gzhi yin*)
 - Wisdom as path (*ye shes lam yin*)
@@ -721,7 +721,7 @@ Summary: Ground, Path, Result, Superiority
 - *rtogs dka' ba* — Difficult to realize
 - *rgyas par bshad pa* — Explained extensively
 
-[3531-3532]
+
 :**
 - Expanse as cause (*dbyings rgyu yin*)
 - Wisdom as result (*ye shes 'bras bu yin*)
@@ -745,7 +745,7 @@ Introduction to Atiyoga (Dzogchen)
 
 **Ultimate View
 
-[3534-3538] <structure>
+ <structure>
 Introduction to Atiyoga (Dzogchen)
 **Analysis:** Line 3534 introduces the ninth topic — Great Perfection of Instruction (*man ngag rdzogs pa chen po*):
 
@@ -763,7 +763,7 @@ Introduction to Atiyoga (Dzogchen)
 
 **Critical Distinction:** Atiyoga transcends even the subtle duality of expanse and wisdom found in Anuyoga.
 
-[3537-3538]
+
 :**
 - Not established anywhere (*gang du'ang ma grub*)
 - Non-ceasing wisdom of all-liberation (*thams cad grol ba'i ye shes su mi 'gag*)

@@ -22,7 +22,7 @@ Two Truths: Conventional and Ultimate
 - *Don*: meaning, object
 - Literally "truth of the sublime meaning"
 
-**Analysis of [2833-2833]:**
+[2833-2833]
 The citation from Nāgārjuna's *Mūlamadhyamakakārikā* establishes scriptural authority:
 
 *Sangs rgyas rnams kyis chos bstan pa dang / bden pa gnyis la yang dag brten / 'jig rten kun rdzob bden pa dang / dam pa'i don gyi bden pa'o*
@@ -35,7 +35,7 @@ Grammatical structure:
 **Doctrinal Context:**
 This verse (MMK 24:8-9) is the locus classicus for the two truths doctrine in Madhyamaka. Nāgārjuna argues that without the conventional, the ultimate cannot be taught; without the ultimate, nirvāṇa cannot be attained.
 
-[2833-2833] <concept>
+ <concept>
 Conventional Truth and Its Divisions
 **Analysis:** Longchenpa presents the classical definition of conventional truth (*kun rdzob bden pa*) as phenomena appearing as signs within the sphere of mind (*blo'i yul du snang rung*). This epistemological definition emphasizes that conventional truth is mind-dependent rather than objectively existent. The crucial distinction between false conventional (*log pa'i kun rdzob*)—mistaken appearances that perpetuate suffering—and true conventional (*yang dag kun rdzob*)—virtuous actions that lead toward liberation—establishes the functional framework for Buddhist practice within the conventional realm.
 
@@ -51,11 +51,11 @@ This division originates with Candrakīrti's *Madhyamakāvatāra* and is standar
 **Epistemological Point:**
 The definition emphasizes *blo'i yul* (mind's object/scope)—conventional truth is that which can appear to mind. This is crucial: conventional truth is not "false" in a simple sense, but is mind-dependent (*blo btags*).
 
-[2833-2833] <context>
+ <context>
 True and False Conventional in Detail
 **Analysis:** Longchenpa elaborates the distinction between false and true conventional through the eight similes of illusion (*sgyu ma'i dpe brgyad*). False conventional comprises all phenomena of the container world (*snod*) and contained beings (*bcud*) fabricated by mind—appearing clearly while non-existent, functionally efficacious yet empty of inherent nature when examined. True conventional includes the ten virtues, generosity, merit accumulation, and meditative concentrations that, while still conventional and appearing as confusion, serve as causes for higher realms and liberation. This functional distinction allows Buddhist practice to operate meaningfully within the conventional while pointing toward the ultimate.
 
-**False Conventional** [2833-2833]:
+[2833-2833]
 *Snang srid snod bcud blos bkod pa'i chos so cog dang bcas pa thams cad log pa'i kun rdzob*—"All phenomena included in the container and contained, fabricated by mind, are false conventional."
 
 The four characteristics (*sgyu ma'i dpe brgyad*):
@@ -64,7 +64,7 @@ The four characteristics (*sgyu ma'i dpe brgyad*):
 3. *Brtags na ngo bo nyid kyis dben pa* — empty of inherent nature when examined
 4. *Sgyu ma'i dpe brgyad* — illustrated by eight similes of illusion
 
-**True Conventional** [2833-2833]:
+[2833-2833]
 *'Khrul par snang yang bde 'gro dang thar pa'i rgyu byed pa*—"Appearing as confusion yet causing higher realms and liberation."
 
 This includes:
@@ -78,7 +78,7 @@ The distinction is functional: false conventional leads to suffering, true conve
 **Dharmakīrti's Influence:**
 The definition reflects Dharmakīrti's epistemology: *don byed nus pa* (able to perform functions) is the mark of the real conventionally.
 
-[2833-2833] <concept>
+ <concept>
 Ultimate Truth: Definition and Divisions
 **Analysis:** Ultimate truth (*dam pa'i don gyi bden pa*) is defined as dharmatā—the naturally abiding nature of phenomena, the essence of emptiness (*stong pa nyid*). Longchenpa presents the crucial Madhyamaka distinction between nominal ultimate (*rnam grangs pa*) and non-nominal ultimate (*rnam grangs pa ma yin pa*). The former serves as a pedagogical pointer, indicated by words and concepts; the latter represents actual realization that transcends all indication. This distinction preserves the apophatic nature of ultimate truth while allowing for its conventional expression, following Nāgārjuna's teaching that the two truths are not two realities but two perspectives on one reality.
 
@@ -90,7 +90,7 @@ Key terms:
 - *Rang bzhin*: inherent nature, but here meaning "natural state"
 - *Stong pa nyid*: emptiness (śūnyatā)
 
-**Two-fold Division** [2833-2833]:
+[2833-2833]
 1. **Rnam grangs pa**: Nominal ultimate—meaning indicated by words/signs
 2. **Rnam grangs pa ma yin pa**: Non-nominal ultimate—actual reality
 

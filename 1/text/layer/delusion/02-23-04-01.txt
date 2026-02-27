@@ -17,7 +17,7 @@ Physical-death-obsession: monitoring body for signs of elemental departure. Reco
 **Cascade effects:**
 <element-dissolution-materialization> → <physical-death-obsession> [somatic monitoring] → <element-monitoring> [tracking components] → <recognition-miss> [dissolution as display]
 
-[13304-13308] <body-strength-loss-terror> <lus-kyi-stobs-shor-panic>
+ <body-strength-loss-terror> <lus-kyi-stobs-shor-panic>
 
 **Misreading:**
 "Body strength is lost" (*lus kyi stobs shor*) interpreted as terrifying physical failure to fight against, creating panic about bodily collapse.
@@ -36,7 +36,7 @@ Strength-loss-panic: terror at bodily collapse. Recognition is blocked by somati
 **Cascade effects:**
 <body-strength-loss-terror> → <strength-loss-panic> [fighting collapse] → <holding-on> [resisting process] → <natural-process-miss> [weakness as display]
 
-[13304-13308] <memory-loss-anxiety> <dran-pa-nyams-obsession>
+ <memory-loss-anxiety> <dran-pa-nyams-obsession>
 
 **Misreading:**
 "Memory declines" (*dran pa nyams*) interpreted as Alzheimer's/dementia to fear, creating anxiety about cognitive dissolution.
@@ -112,7 +112,7 @@ Cold-panic: terror at heat loss. Recognition is blocked by thermoregulation anxi
 **Cascade effects:**
 <heat-loss-terror> → <cold-panic> [hypothermia fear] → <warmth-seeking> [fighting cold] → <fire-dissolution-miss> [cold as element]
 
-[13307-13308] <lamp-extinction-terror> <sgron-ma-mi-snang-panic>
+ <lamp-extinction-terror> <sgron-ma-mi-snang-panic>
 
 **Misreading:**
 "The lamp is not visible" (*sgron ma mi snang*) interpreted as terrifying blindness/darkness to fear, creating panic about loss of light.
@@ -169,7 +169,7 @@ Void-panic: terror at space-dissolution. Recognition is blocked by annihilation 
 **Cascade effects:**
 <space-dissolution-void-fear> → <void-panic> [annihilation terror] → <existential-clinging> [holding on] → <dharmata-miss> [void as nature]
 
-[13309-13317] <internal-external-dualism> <phyi-nang-dissolution-separation>
+ <internal-external-dualism> <phyi-nang-dissolution-separation>
 
 **Misreading:**
 The distinction between external elements dissolving into internal elements, then internal into secret (*gsang 'byung*) interpreted as three separate processes rather than layers of a single dissolution.
@@ -207,7 +207,7 @@ Life-force-panic: terror at life-wind departure. Recognition is blocked by survi
 **Cascade effects:**
 <life-wind-grasping> → <life-force-panic> [vitality fear] → <holding-onto-life> [grasping] → <natural-departure-miss> [life-wind as process]
 
-[13318-13336] <bindu-house-fetish> <thig-le-od-kyi-khang-pa-attachment>
+ <bindu-house-fetish> <thig-le-od-kyi-khang-pa-attachment>
 
 **Misreading:**
 "Awareness with the house of light" (*rig pa 'od kyi khang pa can*) interpreted as precious vessel to preserve, creating attachment to light-body.
@@ -302,7 +302,7 @@ Light-chasing: seeking and stabilizing colored appearances. Recognition is obscu
 **Cascade effects:**
 <wisdom-light-chasing> → <light-chasing> [seeking visions] → <color-preference> [discrimination] → <self-display-miss> [lights as nature]
 
-[13437-13493] <five-color-discrimination> <kha-dog-lnga-preference>
+ <five-color-discrimination> <kha-dog-lnga-preference>
 
 **Misreading:**
 The five colors (white, yellow, red, green, blue) interpreted as establishing preference hierarchy, creating color-ranking obsession.
@@ -397,7 +397,7 @@ Mandala-obsession: seeking and stabilizing elaborate visions. Recognition is obs
 **Cascade effects:**
 <five-family-mandala-fetish> → <mandala-obsession> [vision complexity] → <elaboration-preference> [rich detail] → <simple-display-miss> [mandala as nature]
 
-[13614-13693] <deity-appearance-dependence> <lha-snang-externalization>
+ <deity-appearance-dependence> <lha-snang-externalization>
 
 **Misreading:**
 The deities appearing (*lha snang*) interpreted as external saviors to rely on, creating dependence on visionary validation.

@@ -154,7 +154,7 @@ Distinction Between Relics and Ring-Bones
 [11506] <philology> Enumerative Particle: *La gnyis las*
 **Analysis:** *La gnyis las* (from two [causes]) marks the division of causal analysis into peaceful and wrathful.
 
-[11571-11574] <concept>
+ <concept>
 Ring-Bone Distinction
 **Analysis:** Ring-bones (*ring bsrel*) defined as similar to relics, round form with any of five colors. Their cause: coiled essences of white-red, flesh-bone, heat-breath.
 
@@ -196,19 +196,19 @@ Ring-Bone Distinction
 [11627-11637] <context>
 **Analysis:** The three types of light (upward-rising, radiating spokes, encircling aureole) correspond to bardo liberation stages. The "sky-hook" (gnam 'then) metaphor at 11625 references the rope/snake simile from the Lankavatara Sutra, indicating sudden recognition. The light-house ('od khyim) imagery connects to the Uttaratantra's "luminosity" (prabhasvara) concept. The timeframe specifications (five days, seven days) derive from the Abhidharmakosha's bardo duration calculations and Guhyasamaja tantra completion stage timing.
 
-[11627-11637] <concept>
+ <concept>
 **Analysis:** Ontological analysis reveals light as the interface between material and immaterial dimensions. The upward-rising light (gyen 'greng) indicates immediate recognition of dharmakaya (ka dag), bypassing the bardo entirely - this represents the "instantaneous liberator" (cig car grol ba). The spoke-radiation (rtsibs shar) indicates completion of the sambhogakaya recognition process within the final bardo. The seven-day and five-day timeframes reflect the completion of purification cycles (sbyong ba) necessary for stabilizing realization in the respective Buddha bodies.
 
 [11638-11655] <structure>
 **Analysis:** Scriptural citation section from the rDo rje Sems dpa'i Snying gi Me long, employing seven-syllable verse with end-line particle ཞེས་སོ་ marking closure. The citation parallels and confirms the prose exposition, creating a hermeneutical circle between root tantra and commentary. The structure shifts at 11656 to phenomenological description of spontaneous display (lhun grub snang ba).
 
-[11638-11655] <philology>
+ <philology>
 **Analysis:** The root tantra citation employs technical terms: མུ་ཁྱུད་ (encircling aureole/periphery) - architectural term for circular structure, here applied to light halos. བར་དོ་དང་པོ་ (first bardo) vs. བར་དོ་མི་སྣང་བ་ (invisible bardo) - technical distinctions from the Karling Zhitro cycle. Particle གྱུར་ན་ (if it becomes) introduces conditional logic. The phrase སྐད་ཅིག་ལས་ནི་སངས་རྒྱས་ (instantaneously becomes Buddha) employs the emphatic ནི particle for definitive statement.
 
 [11656-11660] <context>
 **Analysis:** The description of "spontaneously present display emanating forth" (lhun grub snang...'phro ba) references the rdzogs chen doctrine of spontaneous presence (lhun grub) as distinct from primordial purity (ka dag). The two-fold emanation scheme (rang snang gzugs brnyan vs. gzhan snang rang mtshan) reflects the Yogacara distinction between imagined and dependent natures, adapted to rdzogs chen phenomenology. This passage connects to the Man ngag sde texts' discussion of the "eight displays" (snang ba brgyad).
 
-[11656-11660] <concept>
+ <concept>
 **Analysis:** The soteriological mechanics involve recognition (ngos 'dzin) of self-display (rang snang) versus fixation on external phenomena (gzhan snang). The "two emanations" (sprul pa gnyis) refer to: 1) tulku as self-appearances, and 2) tulku as benefitting others through external emanation. This dual structure parallels the co-emergent wisdom (lhan cig skyes pa'i ye shes) doctrine - liberation requires recognizing both dimensions simultaneously. The "six realms of self-display" (rang snang 'gro drug) indicates all samsaric realms are projections of mind, not external locations.
 
 ---
@@ -216,16 +216,16 @@ Ring-Bone Distinction
 [11661-11673] <structure>
 **Analysis:** This page completes the light phenomena section with scriptural citation and introduces the FOURTH category: SGRA (sound). The structural pattern continues with the fourfold analytical framework (nature, divisions, cause, result). The transition marker "དེ་ཉིད་ལས་" (from that very [text]) at 11661 connects the preceding exposition to its authoritative source. The progression from visual to auditory phenomena maintains sensory hierarchy (visual primary, auditory secondary) found in Abhidharma taxonomies.
 
-[11661-11673] <philology>
+ <philology>
 **Analysis:** The root tantra citation (11662-11668) employs seven-syllable meter with feminine vocative མཁའ་འགྲོ་མ་ (dakini) marking tantric revelation context. Technical terms: སྐལ་ལྡན་སེམས་ཆེན་ (fortunate great beings) - the compound carries soteriological exclusivity. རང་བཞིན་དུ་ (in its own nature) employs the terminological marker for svabhava, though here indicating natural spontaneous activity rather than inherent existence. The structural divider "བཞི་པ་" (fourth) at 11669 introduces the sound category with abbreviated enumeration (only three of four components listed initially).
 
-[11661-11673] <context>
+ <context>
 **Analysis:** The continuation from rDo rje Sems dpa'i Snying gi Me long reinforces the text's reliance on major rdzogs chen tantras. The description of emanation activity "for the benefit of beings in the ten directions" connects to Mahayana bodhisattva vow literature (Dasabhumika Sutra, Bodhicaryavatara). The phrase "natural emanation" (rang bzhin sprul pa) references the three-nature (trisvabhava) doctrine reconceptualized in rdzogs chen terms - here indicating the natural expression of awareness rather than conditioned arising.
 
 [11674-11685] <structure>
 **Analysis:** Sound analysis employs binary opposition structure: pleasant/continuous vs. fierce/short (དལ་ལ་རྒྱུན་རིང་བ་ vs. དྲག་ལ་ཡུན་ཐུང་བ་). The causal explanation distinguishes general causes (elemental friction) from specific causes (attainment of stabilization). The directional schema (East-Vajra, South-Ratna, West-Padma, North-Karma, Center-Tathagata) follows standard tantric mandala architecture. The result section establishes a causal chain: sound → enjoyment body → emanation body.
 
-[11674-11685] <philology>
+ <philology>
 **Analysis:** Key terminology: རྣ་བའི་དབང་པོ་ (auditory faculty) - standard Abhidharma term. འུར་བ་ (humming/roaring) and ཐུག་པ་ (piercing/staccato) are onomatopoeic terms indicating sound quality. The phrase གཉིས་འཐབས་པའི་རྐྱེན་ (condition of two striking/interacting) employs the technical term for causal condition (pratyaya). Directional markers use locative particles (du, ru, tu) with precision. The term བརྟན་པ་ཐོབ་པ་ (attaining stability) refers to the third of four stages of stabilization in completion stage practice.
 
 [11674-11715] <context>
@@ -242,16 +242,16 @@ Ring-Bone Distinction
 [11716-11723] <philology>
 **Analysis:** Root tantra citation from rDo rje Sems dpa'i Snying gi Me long continues, employing technical terminology: འུར་གྱིས་བྱུང་ (arising through humming) vs. ཐུག་གིས་བྱུང་ (arising through piercing sound). Temporal markers ཞག་བདུན་ (seven days) and ཞག་བཅུ་བཞི་ (fourteen days) use classical Tibetan time reckoning. The structural divider "ལྔ་པ་" (fifth) at 11720 introduces movement category with abbreviated analytical headings (only four components without explicit nature heading initially).
 
-[11716-11725] <context>
+ <context>
 **Analysis:** The seven-day vs. fourteen-day distinction reflects different capacities of practitioners - those with prior familiarization (sbyangs pa) versus those requiring extended stabilization. This temporal framework derives from the Abhidharma kosha's analysis of bardo duration and the Guhyasamaja tantra's completion stage timing. The sound-arousal types ('ur vs. thug) may correspond to the "light-sound-rays" (od sgra zer) triad fundamental to rdzogs chen cosmogony.
 
 [11724-11735] <structure>
 **Analysis:** Movement analysis establishes a hierarchical taxonomy: 1) container world as support, 2) animate beings as supported. This reflects the standard Buddhist "container and contained" (snod bcud) cosmological framework. The fourfold division of movement (rab tu g.yo ba, cher g.yo ba, kun tu rab tu g.yo ba, and implied fourth) creates scalar intensity. The results section maps movement onto bodhisattva stages (sa), creating a comprehensive soteriological cartography.
 
-[11724-11735] <philology>
+ <philology>
 **Analysis:** Technical terminology: སྣོད་ཀྱི་འོག་གཞི་ (container world's base) - standard Abhidharma term for the physical world as "vessel" for sentient beings. སྐྱེ་འགྲོ་ (animate beings) contrasts with སྣོད་ (container). ནུས་པས་རླུང་བསྐུལ་ (power/mastery propels wind) - indicates tantric wind-energy (vayu/rlung) mechanics. The phrase ཐུན་མོང་བ་ (common/shared) vs. special indicates path typology. Bodhisattva stage terminology follows Dasabhumika Sutra enumeration (rab tu dga' ba, etc.).
 
-[11724-11735] <concept>
+ <concept>
 **Analysis:** The ontological mechanism: the deceased's mastery (nus pa) activates wind-energy (rlung) causing physical movement. This reflects the tantric "vajra body" theory where consciousness-winds animate the physical realm. The scalar typology of movement intensity correlates with realization depth - greater movement indicates higher attainment. The bodhisattva stage mapping demonstrates the text's syncretic integration of sutra and tantra path structures, a hallmark of the rNying ma scholastic tradition. The qualification that these practitioners "do not quickly attain results" (myur du 'bras bu mi thob) introduces important nuance about path differences - sravakas and bodhisattvas require extended cultivation compared to tantric instantaneous liberators.
 
 ---

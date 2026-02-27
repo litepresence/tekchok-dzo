@@ -17,7 +17,7 @@ The fourfold analysis of sems
 4. **Individual meaning:** To be determined subsequently
 The analysis includes reference to samadhi-one-pointedness (ting nge 'dzin rtse gcig), showing awareness of yogacara categories.
 
-[17884-17889] <concept>
+ <concept>
 Fourfold analysis of sems (mind)
 **Analysis:**
 1. **Essence (ngo bo):** Recognition arising as subject-object, pervaded by non-awareness (ma rig pa khyab byed)
@@ -37,7 +37,7 @@ Citation from Sgra gcan 'dzin gyi yul la bstod pa
 [17902] <structure> Transition to sems dag pa
 **Analysis:** This line initiates the discussion of sems dag pa (pure mind), distinguishing it from sems nyid dag pa (pure mind-itself). The former refers to path-level purifications; the latter to primordial purity.
 
-[17890-17901] <context>
+ <context>
 Sgra gcan 'dzin gyi yul la bstod pa citation
 **Analysis:** The citation establishes sems nyid dag pa as:
 - smra bsam brjod med shes rab pha rol phyin (ineffable perfection of wisdom)
@@ -81,7 +81,7 @@ Both are classified as samsaric (therefore "pure" in a relative sense) because t
 Citation from Rgyud bla ma (Uttaratantra)
 **Analysis:** The citation from the Uttaratantra (Sublime Continuum) employs the analogy of the blind person and the sun's orb to illustrate that self-arisen ultimate truth requires faith (dad pa) for realization, not mere conceptual cognition.
 
-[17912-17918] <context>
+ <context>
 Rgyud bla ma citation
 **Analysis:** Uttaratantra citation on self-arisen ultimate (rang byung don dam) requiring faith (dad pa) for realization, using the analogy of the sun's orb invisible to the blind.
 
@@ -92,7 +92,7 @@ The rol pa (display) and rgyan (ornament) distinction
 - rgyan (ornament): The mature manifestation (smin sor shar ba) like seeds producing shoots
 The analogies (sa bon/myu gu, byad/me long) illustrate the non-dual yet distinct relationship between basis and manifestation.
 
-[17919-17928] <concept>
+ <concept>
 Rol pa and rgyan distinction
 **Analysis:**
 - rol pa (display/capacity): nus pa or rtsal—the dynamic power arising from basis
@@ -133,7 +133,7 @@ Analogies: seed/sprout, form/reflection in mirror
 9. From fifty-one, 84,000
 This numerical progression follows standard abhidharma accounts but grounds them in Dzogchen cosmogony.
 
-[17929-17944] <structure>
+ <structure>
 Samsaric emergence enumeration
 **Analysis:** The numerical progression:
 - ma rig pa (non-awareness)
@@ -152,7 +152,7 @@ Threefold division of detailed explanation
 2. Divisions of sems arisen from it
 3. Divisions of afflictions arisen from that
 
-[17945-17948] <structure>
+ <structure>
 Threefold division structure
 **Analysis:** The three subdivisions for detailed explanation:
 1. rtsa ba ma rig pa'i dbye ba (divisions of root non-awareness)
@@ -170,7 +170,7 @@ Six types of ma rig pa (non-awareness)
 6. **mi shes rmongs pa'i ma rig pa:** Ignorant-delusion non-awareness
 These represent progressive degrees of obscuration from initial failure to recognize self-appearing rigpa.
 
-[17949-17957] <concept>
+ <concept>
 Six types of ma rig pa
 **Analysis:** From Rig pa rang shar:
 1. rtsa ba sems kyi ma rig pa (root-mind non-awareness)
@@ -187,7 +187,7 @@ Analysis of rim pa ltar (according to order)
 - snang yul gyi ngo bo rang bzhin med par ma shes pa (not knowing appearing objects lack inherent nature)
 - rkyen las 'khrul pa (delusion through conditions)
 
-[17958-17965] <philology>
+ <philology>
 Rim pa ltar construction
 **Analysis:** Sequential correlation:
 - thog ma'i rig pa rang ngo ma shes pas (not recognizing initial self-rigpa)
@@ -223,7 +223,7 @@ Eleven types of sems (mind)
 10. gar sbyin lta bu (like scattered offering) - hard to stop
 11. smyon pa lta bu (like madman) - aimless
 
-[17966-17980] <concept>
+ <concept>
 Eleven similes for sems
 **Analysis:** From Rang shar:
 1. chu lta bu—gathering various latencies
@@ -270,7 +270,7 @@ Three divisions of afflictions
 3. **phra rgyas:** Innumerable subtle tendencies
 This follows abhidharma categories but integrated into Dzogchen framework.
 
-[18007-18016] <concept>
+ <concept>
 Three divisions of afflictions
 **Analysis:**
 1. drug rtsa ba'i nyon mongs (six root afflictions)
@@ -287,7 +287,7 @@ Citation from Nyi zla kha sbyor
 - 'dod chags: delusion from appearance-aspect
 - phrag dog: delusion from non-realization aspect
 
-[18017-18024] <context>
+ <context>
 Nyi zla kha sbyor citation
 **Analysis:** Six root afflictions defined by cognitive distortions:
 - ma rig pa: 'khrul rtog gi cha 'dzin (grasping deluded-conception aspect)
@@ -301,7 +301,7 @@ Nyi zla kha sbyor citation
 Rim pa ltar construction
 **Analysis:** The phrase rim pa ltar (according to order) introduces sequential correlation of each root affliction with its cognitive mechanism (yul yul can du 'khrul rtog gi cha'i rmongs pa, shes rab rig pa las log tsam gyi mi shes pa, etc.).
 
-[18025-18032] <philology>
+ <philology>
 Sequential correlation
 **Analysis:** Each root affliction correlated with specific mechanism through rim pa ltar construction.
 
@@ -325,7 +325,7 @@ Sixteen proximate afflictions enumerated
 15. khengs pa
 16. 'phro ba
 
-[18033-18048] <concept>
+ <concept>
 Sixteen proximate afflictions
 **Analysis:** From Rang shar:
 1. ma rig pa 2. sems 3. yid 4. 'dzin pa 5. rtog pa 6. ma shes pa 7. ma mthong ba 8. ma rtogs pa 9. ma go ba 10. rang gi de ma dag pa 11. nga yir bzung ba 12. gzhon la ser snang byed pa 13. 'dod pa 14. chags pa 15. khengs pa 16. 'phro ba
@@ -346,7 +346,7 @@ Detailed correlation of sixteen
 - yul can la 'dzin pa yid (mind grasping at subjects)
 And so forth, demonstrating the systematic unfolding of samsaric cognition.
 
-[18049-18065] <philology>
+ <philology>
 Detailed correlation continued
 **Analysis:** Sequential explanation (rim pa ltar):
 - de kho na nyid ma shes pa'i rmongs pas kun nas nyon mongs par byed pa (delusion of not knowing suchness produces affliction)
@@ -409,7 +409,7 @@ Citation from Nyi zla kha sbyor on mechanism
 8. nyon yid (afflicted mind)
 This demonstrates Longchenpa's mastery of conventional Buddhist psychology.
 
-[18101-18112] <context>
+ <context>
 Nyi zla kha sbyor citation on mechanism
 **Analysis:** Mechanism of generation:
 - sems rjes su 'dzin pa'i sems (mind following mind)
@@ -428,7 +428,7 @@ Detailed analysis of the eight
 - Nyon yid: bye brag 'dzin (grasps particulars)
 The analysis of dge/mi dge/lung ma bstan applies to these.
 
-[18113-18127] <structure>
+ <structure>
 Eight consciousnesses framework
 **Analysis:** Standard Yogacara enumeration:
 1. kun gzhi'i rnam par shes pa (alaya-consciousness)
@@ -451,7 +451,7 @@ Eight consciousnesses framework
 Citation from Bden gnyis (Satyadvaya)
 **Analysis:** The citation establishes that all sems and sems byung of the three realms are merely superimposed conceptions (sgro btags), not ultimately real. This positions Longchenpa's view within Madhyamaka.
 
-[18128-18133] <context>
+ <context>
 Bden gnyis citation
 **Analysis:** Satyadvaya citation establishing sems and sems byung as merely superimposed conceptions (sgro btags), not ultimately real.
 
@@ -459,7 +459,7 @@ Bden gnyis citation
 Comparison with Madhyamaka and lower vehicles
 **Analysis:** Longchenpa acknowledges that even great Madhyamaka systems distinguish sems and sems nyid, classifying the eight consciousnesses (or six/seven variants) as objects of abandonment (spang bya) while recognizing sems nyid as primordially pure and to be realized (blang bya). This demonstrates his awareness of doxographical distinctions.
 
-[18134-18144] <structure>
+ <structure>
 Comparison with Madhyamaka
 **Analysis:** Longchenpa acknowledges that even Madhyamaka distinguishes sems and sems nyid, classifying consciousnesses as spang bya (objects of abandonment) while recognizing sems nyid as primordially pure and blang bya (to be realized).
 
@@ -510,7 +510,7 @@ The lights integrate with the sphere lamp (*dbyings kyi sgron ma*):
 8. 'bras bu (result)
 This analytical framework is applied systematically.
 
-[18164-18171] <structure>
+ <structure>
 Eight aspects of sems
 **Analysis:** Systematic enumeration:
 1. rten (basis/support)
@@ -526,7 +526,7 @@ Eight aspects of sems
 The rten: form aggregate
 **Analysis:** The basis (rten) is identified as the form aggregate (gzugs kyi phung po) located in the upper body (byang khog stod). This anatomical localization follows tantric subtle body theory.
 
-[18172-18176] <concept>
+ <concept>
 The rten: form aggregate
 **Analysis:** Basis (rten) identified as gzugs kyi phung po (form aggregate) in upper body (byang khog stod). Anatomical localization follows tantric subtle body theory.
 
@@ -538,7 +538,7 @@ The gnas: heart-center abode
 - rig pa'i gdangs (awareness resonance)
 The analogy compares rlung to a blind horse and rig gdangs to a lame person with eyes—neither alone functions, but together they traverse samsara.
 
-[18177-18185] <concept>
+ <concept>
 The gnas: heart-center
 **Analysis:** Abode located in snying (heart) to glo ba (lung) connecting region:
 - rtsa sog ma'i sbu gu (blade-of-grass channel)
@@ -553,7 +553,7 @@ Analysis of de gnyis (those two)
 [18193] <context> Citation from Rig pa rang shar
 **Analysis:** The citation provides the classic analogy: sems and rig pa are like water (chu) and bubbles (lbu ba). Sems does not have power over rig pa (sems kyi dbang du ma gyur). This establishes the fundamental asymmetry in their relationship.
 
-[18186-18192] <philology>
+ <philology>
 De gnyis construction
 **Analysis:** De gnyis (those two) refers to rlung and rig gdangs. Gnyis 'dres na (when two mix) establishes condition for conceptual thought ('gyu dgu 'gyu'i rtog pa). Mi 'gyu (does not arise) demonstrates primordial separation (rang chas su gnas pa).
 
@@ -575,7 +575,7 @@ Remaining six aspects of sems
 - **byed las:** 'khor ba'i bde sdug sna tshogs byed (creates samsaric pleasures and pains)
 - **'bras bu:** 'khor ba dang ngan song (samsara and lower realms)
 
-[18196-18203] <concept>
+ <concept>
 Remaining six aspects
 **Analysis:**
 - lam: srog rtsa nas 'gyu (moves from life-channel)
@@ -603,7 +603,7 @@ Multiple scriptural citations
 4. **Rnam 'grel:** On mind's nature as luminous
 5. **'Jam dpal la bstod pa:** On conceptions as great non-awareness
 
-[18204-18234] <context>
+ <context>
 Multiple scriptural citations
 **Analysis:** Integration of:
 1. Rig pa rang shar: impure nature, threefold stacking in heart-lung
@@ -619,7 +619,7 @@ The meeting point of rlung and rig
 - snying nas rig gdangs rtsa (awareness-channel from heart)
 This mixing produces bag chags kyi sdud byed sems (latency-gathering mind) and yul la rtog pa yid (object-conceiving mind).
 
-[18235-18241] <concept>
+ <concept>
 Meeting point of rlung and rig
 **Analysis:** Anatomical localization:
 - glo ba nas rlung gi rta (wind-horse from lungs)
@@ -646,7 +646,7 @@ Scriptural citations on adventitious stains
 [18261] <structure> Transition marker
 **Analysis:** The particle don (meaning/subject) marks transition to the second major topic: detailed explanation of ye shes (jnana) nature.
 
-[18242-18260] <context>
+ <context>
 Adventitious stains citations
 **Analysis:**
 - He badzra: beings are buddhas obscured by adventitious stains

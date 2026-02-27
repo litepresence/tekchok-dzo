@@ -17,7 +17,7 @@ Timing-fatalism: accepting calculated death as inevitable. Reversal methods aban
 **Cascade effects:**
 <death-timing-determinism> → <timing-fatalism> [calculated destiny] → <reversal-abandonment> [giving up] → <warning-miss> [signs as opportunity]
 
-[12522-12540] <death-sign-cataloging> <rtags-enumeration-obsession>
+ <death-sign-cataloging> <rtags-enumeration-obsession>
 
 **Misreading:**
 The various death signs (toenail luster fading, eye color fading, etc.) interpreted as diagnostic checklist to monitor obsessively, creating hypochondriacal sign-watching.
@@ -36,7 +36,7 @@ Sign-monitoring-obsession: constant body-scanning for death indicators. Recognit
 **Cascade effects:**
 <death-sign-cataloging> → <sign-monitoring> [obsessive checking] → <hypochondria> [symptom obsession] → <practice-opportunity-miss> [signs as indicators]
 
-[12522-12540] <body-part-death-association> <yan-lag-severance-fear>
+ <body-part-death-association> <yan-lag-severance-fear>
 
 **Misreading:**
 The association of specific body parts (limbs, head, teeth roots) with death timeframes interpreted as establishing hierarchy of body-part importance, creating anxiety about "lesser" losses.
@@ -74,7 +74,7 @@ Ritual-magic: treating reversal as cause-effect mechanism. Recognition replaced 
 **Cascade effects:**
 <reversal-ritual-magic> → <ritual-superstition> [mechanistic magic] → <disillusionment> [failed expectations] → <recognition-miss> [reversal as seeing]
 
-[12541-12605] <element-wheel-construction-obsession> <byung-'khor-making-compulsion>
+ <element-wheel-construction-obsession> <byung-'khor-making-compulsion>
 
 **Misreading:**
 The instruction to construct elemental wheels (*byung 'khor*) on palm leaves interpreted as requiring precise material construction, creating craft-obsession about ritual objects.
@@ -93,7 +93,7 @@ Craft-obsession: perfectionism about ritual materials. Recognition replaced by a
 **Cascade effects:**
 <element-wheel-construction-obsession> → <craft-obsession> [material perfection] → <artisan-pride> [making vs knowing] → <symbol-miss> [wheel as pointer]
 
-[12541-12605] <ransom-effigy-attachment> <glud-gzugs-fetish>
+ <ransom-effigy-attachment> <glud-gzugs-fetish>
 
 **Misreading:**
 The ransom effigy (*glud gzugs*) ritual interpreted as creating actual substitute body that literally takes one's place, creating effigy-attachment.
@@ -112,7 +112,7 @@ Effigy-fetish: treating substitute as real exchange. Recognition replaced by sca
 **Cascade effects:**
 <ransom-effigy-attachment> → <effigy-fetish> [substitute magic] → <scapegoat-thinking> [external transfer] → <letting-go-miss> [effigy as symbol]
 
-[12541-12605] <elemental-offering-commodification> <byung-rdzas-transaction>
+ <elemental-offering-commodification> <byung-rdzas-transaction>
 
 **Misreading:**
 The offerings of elemental substances (*byung rdzas*) interpreted as commercial transaction with spirits—"I give you this, you give me life"—creating spiritual materialism.
@@ -150,7 +150,7 @@ Rotation-calculation: mathematical precision over recognition. Ritual replaced b
 **Cascade effects:**
 <yogic-age-calculation> → <rotation-calculation> [counting obsession] → <enough-doubt> [quantity anxiety] → <release-symbol-miss> [rotation as pointer]
 
-[12606-12663] <mantra-recitation-quantification> <lan-gsum-bzlas-grangs-fixation>
+ <mantra-recitation-quantification> <lan-gsum-bzlas-grangs-fixation>
 
 **Misreading:**
 "Recite three times" (*lan gsum*) interpreted as establishing minimum numerical requirement, creating mantra-counting obsession.
@@ -188,7 +188,7 @@ Symptom-obsession: monitoring every bodily change. Recognition replaced by somat
 **Cascade effects:**
 <element-dissolution-symptom-checking> → <symptom-obsession> [body monitoring] → <element-checking> [tracking components] → <recognition-opportunity-miss> [dissolution as display]
 
-[12664-12688] <salivation-flow-panic> <kha-snu-chu-'dzag-anxiety>
+ <salivation-flow-panic> <kha-snu-chu-'dzag-anxiety>
 
 **Misreading:**
 "Saliva flows from mouth and nose then dries" (*kha snu'i chu 'dzag*) interpreted as alarming fluid loss requiring intervention, creating panic about oral moisture.
@@ -207,7 +207,7 @@ Moisture-panic: terror at drying. Recognition blocked by hydration-anxiety.
 **Cascade effects:**
 <salivation-flow-panic> → <moisture-panic> [fluid loss fear] → <forced-hydration> [intervention] → <water-dissolution-miss> [drying as natural]
 
-[12664-12688] <breath-stacking-terror> <dbugs-brtsegs-ma-panic>
+ <breath-stacking-terror> <dbugs-brtsegs-ma-panic>
 
 **Misreading:**
 "Breath does not come in stacks" (*dbugs brtsegs ma 'byung*) interpreted as respiratory failure requiring medical intervention, creating panic about breathing pattern.
@@ -245,7 +245,7 @@ Forceful-phowa: aggressive consciousness-projection. Natural transference replac
 **Cascade effects:**
 <phowa-force-transference> → <forceful-phowa> [aggressive projection] → <physical-straining> [muscular effort] → <recognition-phowa-miss> [force vs nature]
 
-[12689-12709] <lion-posture-rigidity> <seng-ge-nyal-lugs-fixation>
+ <lion-posture-rigidity> <seng-ge-nyal-lugs-fixation>
 
 **Misreading:**
 The lion posture (*seng ge'i nyal lugs*) interpreted as requiring precise physical position, creating posture-obsession about body arrangement.
@@ -264,7 +264,7 @@ Posture-rigidity: forcing body into position. Recognition replaced by anatomical
 **Cascade effects:**
 <lion-posture-rigidity> → <posture-obsession> [position fixation] → <anatomical-anxiety> [correct form] → <support-miss> [posture as aid]
 
-[12689-12709] <instant-liberation-achievement> <skad-cig-grol-ba-goal>
+ <instant-liberation-achievement> <skad-cig-grol-ba-goal>
 
 **Misreading:**
 "Liberated in an instant" (*skad cig yur gyi zang thal du grol*) interpreted as result to achieve through correct phowa, creating achievement-anxiety about immediate success.
@@ -321,7 +321,7 @@ Sound-aggression: forceful HIK projection. Natural ejection replaced by vocal vi
 **Cascade effects:**
 <hi-kara-force-projection> → <sound-aggression> [forceful vocalization] → <vocal-violence> [shouting] → <recognition-symbol-miss> [HIK as pointer]
 
-[12718-12736] <guru-visualization-dependence> <blama-sku-rten-externalization>
+ <guru-visualization-dependence> <blama-sku-rten-externalization>
 
 **Misreading:**
 Visualizing guru's form (*blama'i sku tsom*) at the crown interpreted as requiring external guru to appear and pull consciousness up, creating dependence on visionary rescue.
@@ -359,7 +359,7 @@ Space-rigpa-dualism: treating space and awareness as separate. Non-duality repla
 **Cascade effects:**
 <space-rigpa-separation> → <space-rigpa-dualism> [two to merge] → <unification-project> [effort to join] → <never-separate-miss> [already non-dual]
 
-[12737-12754] <introduction-instruction-dependence> <ngo-sprod-gdams-ngag-reliance>
+ <introduction-instruction-dependence> <ngo-sprod-gdams-ngag-reliance>
 
 **Misreading:**
 The pith instruction for introduction (*ngo sprod kyi gdams ngag*) interpreted as external teaching required for recognition, creating instruction-dependence.
