@@ -34,7 +34,7 @@
         --color-epistemic: #ad1457;
         --color-delusion: #c62828;
         --color-cognitive: #455a64;
-        --color-glossary: #77d3ff;
+        --color-glossary: #556b2f;
         --color-contents: #37474f;
     }
 
@@ -222,12 +222,12 @@
 
     .layer-dropdown option {
         background: var(--color-bg);
-        color: var(--color-text);
+        color: #f0f0f0;
     }
 
     .chapter-dropdown {
         background: var(--color-contents);
-        color: var(--color-text);
+        color: #f0f0f0;
         border: none;
         border-radius: 4px;
         padding: 0.4em 0.8em;
@@ -247,7 +247,7 @@
 
     .chapter-dropdown option {
         background: var(--color-bg);
-        color: var(--color-text);
+        color: #f0f0f0;
     }
 
     .toolbar-nav-btn {
@@ -997,7 +997,7 @@
             </div>
             <div class="iframe-wrapper">
                 
-                <iframe class="layer-frame" data-src="glossary.html" scrolling="auto"></iframe>
+                <iframe id="glossary-frame" class="layer-frame" data-src="glossary.html" scrolling="auto"></iframe>
             </div>
         </div>
         <div id="conventions" class="layer-content">
@@ -1120,6 +1120,20 @@
             return;
         }
         
+        // Handle glossary tab - cycle through letters
+        if (state.layer === 'glossary') {
+            const letters = 'ABCDEFGHIJKLMNOPQRSTUVWXYZ'.split('');
+            const iframe = document.querySelector('#glossary-frame');
+            const currentHash = iframe.contentWindow.location.hash || '';
+            const currentLetter = currentHash.replace('#letter-', '') || 'A';
+            const currentIndex = letters.indexOf(currentLetter);
+            const prevIndex = (currentIndex - 1 + letters.length) % letters.length;
+            const newLetter = letters[prevIndex];
+            
+            iframe.contentWindow.location.hash = '#letter-' + newLetter;
+            return;
+        }
+        
         const iframe = document.querySelector(`#${state.layer} .layer-frame`);
         if (iframe && iframe.contentWindow) {
             iframe.contentWindow.postMessage({ type: 'prevChapter' }, '*');
@@ -1144,6 +1158,20 @@
             
             // Update layer dropdown
             document.getElementById('layer-select').value = '#' + newLayer;
+            return;
+        }
+        
+        // Handle glossary tab - cycle through letters
+        if (state.layer === 'glossary') {
+            const letters = 'ABCDEFGHIJKLMNOPQRSTUVWXYZ'.split('');
+            const iframe = document.querySelector('#glossary-frame');
+            const currentHash = iframe.contentWindow.location.hash || '';
+            const currentLetter = currentHash.replace('#letter-', '') || 'A';
+            const currentIndex = letters.indexOf(currentLetter);
+            const nextIndex = (currentIndex + 1) % letters.length;
+            const newLetter = letters[nextIndex];
+            
+            iframe.contentWindow.location.hash = '#letter-' + newLetter;
             return;
         }
         

@@ -116,7 +116,7 @@ class GlossaryConverter:
         return '\n'.join(result_lines)
     
     def _convert_table_to_html(self, headers: List[str], rows: List[List[str]]) -> str:
-        """Convert table data to HTML table."""
+        """Convert table data to HTML table with letter section headers."""
         if not headers:
             return ""
         
@@ -134,7 +134,29 @@ class GlossaryConverter:
         
         # Body rows
         html.append('  <tbody>')
+        
+        last_letter = None
         for row in rows:
+            # Extract first letter from first column (from bold text)
+            first_letter = ''
+            if row and row[0]:
+                # Look for bold text pattern **(letter)**
+                bold_match = re.search(r'\*\*([A-Za-z])', row[0])
+                if bold_match:
+                    first_letter = bold_match.group(1).upper()
+            
+            # Add letter section header if letter changed
+            if first_letter and first_letter != last_letter:
+                if last_letter is not None:
+                    html.append('  </tbody>')
+                    html.append('</table>')
+                    html.append(f'<table class="glossary-table">')
+                    html.append('  <tbody>')
+                html.append(f'    <tr class="letter-section">')
+                html.append(f'      <td colspan="{len(headers)}"><h3 id="letter-{first_letter}">{first_letter}</h3></td>')
+                html.append('    </tr>')
+                last_letter = first_letter
+            
             html.append('    <tr>')
             # Pad row if needed
             while len(row) < len(headers):
