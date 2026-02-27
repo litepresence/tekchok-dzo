@@ -5,6 +5,7 @@ Parses main introduction, volume introductions, and chapter introductions
 and outputs a single combined HTML file optimized for PDF rendering and iframe navigation.
 """
 import html
+import json
 import os
 import re
 import sys
@@ -20,6 +21,43 @@ INTRO_DIR = BASE_DIR / "introduction"
 VOLUME_DIR = BASE_DIR / "volume"
 CHAPTER_DIR = BASE_DIR / "chapter"
 OUTPUT_FILE = Path("html/introduction.html")
+ALN_MAP_FILE = Path("ALN_map.json")
+
+# Load ALN map for data-aln attributes
+def load_aln_map():
+    if ALN_MAP_FILE.exists():
+        with open(ALN_MAP_FILE, 'r', encoding='utf-8') as f:
+            return json.load(f)
+    return None
+
+ALN_MAP = load_aln_map()
+
+# Map introduction section IDs to ALN section keys
+def get_aln_range_for_section(section_id):
+    """Map introduction section ID to ALN range."""
+    if not ALN_MAP:
+        return None, None
+    
+    # Direct mapping from intro ID to ALN section key
+    mapping = {
+        'intro-main': '01-01-01-01',
+        'vol-01': '01-01-01-01',
+        'vol-02': '02-15-01-01',
+    }
+    
+    # For chapters, construct the section key
+    if section_id.startswith('chap-'):
+        parts = section_id.replace('chap-', '').split('-')
+        if len(parts) >= 2:
+            vol = parts[0].zfill(2)
+            ch = parts[1].zfill(2)
+            mapping[section_id] = f'{vol}-{ch}-01-01'
+    
+    section_key = mapping.get(section_id)
+    if section_key and section_key in ALN_MAP:
+        return ALN_MAP[section_key][0], ALN_MAP[section_key][1]
+    
+    return None, None
 
 # Define the exact sequence of files to ensure correct navigation order
 FILE_SEQUENCE = [
@@ -105,8 +143,17 @@ def parse_markdown_text(text):
 
 def generate_section_html(file_data, content):
     """Generates HTML content for a single introduction section."""
+    # Get ALN range for this section
+    aln_start, aln_end = get_aln_range_for_section(file_data["id"])
+    
     html_parts = []
-    html_parts.append(f'<div class="intro-section" id="{file_data["id"]}">')
+    attrs = f'id="{file_data["id"]}"'
+    if aln_start:
+        attrs += f' data-aln-start="{aln_start}"'
+    if aln_end:
+        attrs += f' data-aln-end="{aln_end}"'
+    
+    html_parts.append(f'<div class="intro-section" {attrs}>')
     html_parts.append(f'<h2 class="intro-header">{file_data["title"]}</h2>')
     html_parts.append('<div class="intro-content">')
     html_parts.append(parse_markdown_text(content))

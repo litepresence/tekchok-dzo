@@ -1,10 +1,10 @@
-[11480-11482] <concept>
+[31906-31908] <concept>
 Five Colors, Two Body Types
 **Analysis:** Five colors contain five families. These divide into:
 - Peaceful relic colors
 - Wrathful relic colors
 
-[11483-11488] <concept>
+[31909-31914] <concept>
 Peaceful Relic Colors
 **Analysis:** From *Sku gdung 'bar ba*:
 - *Sha ri ram* - white (*dkar po*)
@@ -13,7 +13,7 @@ Peaceful Relic Colors
 - *Bse ri ram* - red (*dmar po*)
 - *Nya ri ram* - green (*ljang gu*)
 
-[11489-11498] <context>
+[31915-31924] <context>
 Citation from *Rang shar* on Wrathful Relic Colors
 **Analysis:** Wrathful relic colors differ:
 - *Sha ri ram* - white with radiance (*dkar la gdangs*)
@@ -22,7 +22,7 @@ Citation from *Rang shar* on Wrathful Relic Colors
 - *Nya ri ram* - smoky black (*smug nag*)
 - *Pancaram* - red-green-black (*dmar ljang nag*)
 
-[11499-11505] <concept>
+[31925-31931] <concept>
 Size and Location Specifications
 **Analysis:** Size measures:
 - *Sha ri ram*: size of white mustard seed (*mon sran gyi 'bru*)
@@ -36,10 +36,10 @@ Locations:
 - *Bse ri ram*: kidneys (*mkhal ma*)
 - *Nya ri ram*: above heart/lobe (*glo ba'i steng*)
 
-[11480] <philology> Universal Particle: *Spyir*
+[31906] <philology> Universal Particle: *Spyir*
 **Analysis:** *Spyir* (generally/in common) establishes the general principle before specific divisions.
 
-[11506-11511] <concept>
+[31932-31937] <concept>
 Causes of Peaceful Relics
 **Analysis:** The cause (*rgyu*) of peaceful relics:
 1. *Sha ri ram*: bone essence (*rus pa'i dangs ma*)
@@ -49,7 +49,7 @@ Causes of Peaceful Relics
 5. *Nya ri ram*: consciousness essence (*shes pa'i dangs ma*)
 Gathered in the body.
 
-[11512-11517] <concept>
+[31938-31943] <concept>
 Causes of Wrathful Relics
 **Analysis:** The cause of wrathful relics:
 1. *Sha ri ram*: head skull deity (*mgo bo'i thod pa'i lha*)
@@ -58,7 +58,7 @@ Causes of Wrathful Relics
 4. *Nya ri ram*: foot essence (*rkang gi dangs ma*)
 5. *Pancaram*: four elements' essence
 
-[11518-11525] <context>
+[31944-31951] <context>
 Citation from *Rang shar*
 **Analysis:** The verse confirms origins:
 - *Sha ri ram* from head
@@ -67,7 +67,7 @@ Citation from *Rang shar*
 - *Nya ri ram* from feet
 - *Pancaram* from four elements' essence
 
-[11526-11556] <context>
+[31952-31982] <context>
 Citation from *Sku gdung 'bar ba*
 **Analysis:** Extensive verse on relic characteristics:
 - *Sha ri ram*: white with radiance, oily-coiled, clear color, size of large mustard seed or pea, from bone essence, ripened, from capable person's head
@@ -77,7 +77,7 @@ Citation from *Sku gdung 'bar ba*
 - *Nya ri ram*: indra-green, sesame seed size, from consciousness essences, above lobe
 - All: round coiled form, clear five colors in depth
 
-[11526-11531] <context>
+[31952-31957] <context>
 Detailed Relic Description from *Sku gdung 'bar ba*
 **Analysis:** The citation continues describing *sha ri ram*:
 - White with radiance (*dkar la gdangs*)
@@ -87,7 +87,7 @@ Detailed Relic Description from *Sku gdung 'bar ba*
 - Arisen from bone essence ripening (*rus pa'i dangs ma las smin pas*)
 - Arisen from capable person's head (*thabs ldan de yi mgo las byung*)
 
-[11532-11541] <context>
+[31958-31967] <context>
 *Ba ri ram* Description
 **Analysis:** From the same citation:
 - Called *ba ri ram*, blue-black (*sngo la nag*)
@@ -96,13 +96,13 @@ Detailed Relic Description from *Sku gdung 'bar ba*
 - From heat essence coiling (*drod kyi dangs ma 'dril*)
 - Arises from between capable one's ribs (*de yi rtsib ma'i go mtshams nas*)
 
-[11542-11549] <context>
+[31968-31975] <context>
 *Chu ri ram* and *Bse ri ram* Descriptions
 **Analysis:** 
 - *Chu ri ram*: yellow color (*kha dog ser*), sesame seed size (*yungs 'bru tsam*), from blood, arises above liver
 - *Bse ri ram*: red with radiance (*dmar la gdangs*), sesame seed size, from gathered elements, from capable kidneys
 
-[11550-11556] <context>
+[31976-31982] <context>
 *Nya ri ram* and General Characteristics
 **Analysis:** Longchenpa presents the characteristics of the *nya ri ram* relic, a specific type of enlightened residue (*sku gdung*) associated with Indra. The description emphasizes its physical qualities—sesame seed size, clear coloration, origin from consciousness essences, and location above the lobe. All such peaceful relics share common structural features: round coiled form (*spyi dbyibs zlum la 'dril*) and the manifestation of clear five colors in their depths (*gting gsal kha dog lnga*), indicating their nature as manifestations of the five wisdoms within the subtle body.
 
@@ -110,7 +110,7 @@ Detailed Relic Description from *Sku gdung 'bar ba*
 - All: round coiled form (*spyi dbyibs zlum la 'dril*)
 - Clear five colors in depth (*gting gsal kha dog lnga*)
 
-[11557-11570] <concept>
+[31983-31996] <concept>
 Fruitional Attainments by Relic
 **Analysis:** Peaceful relics liberate in self-appearance's certain family ground. Wrathful relics attain:
 - Dharmakaya
@@ -126,7 +126,7 @@ Fruitional Attainments by Relic
 - *Nya ri ram* attains Nirmanakaya
 - *Pancaram* attains vajra nature
 
-[11557-11563] <concept>
+[31983-31989] <concept>
 Fruitional Attainments
 **Analysis:** Peaceful relics liberate in certain family ground of self-appearance. Wrathful relics attain five bodies:
 1. Dharmakaya
@@ -135,7 +135,7 @@ Fruitional Attainments
 4. Amoghasiddhi body
 5. Unchanging vajra body
 
-[11564-11570] <context>
+[31990-31996] <context>
 *Rang shar* Citation on Attainments
 **Analysis:** The verse correlates relics with attainments:
 - *Sha ri ram*: unborn (*skye med*)
@@ -144,68 +144,68 @@ Fruitional Attainments
 - *Nya ri ram*: Nirmanakaya
 - *Pancaram*: vajra nature
 
-[11571-11574] <concept>
+[31997-32000] <concept>
 Distinction Between Relics and Ring-Bones
 **Analysis:** Ring-bones (*ring bsrel*) similar to relics: round form, possessing one of five colors. Causes: white-red essence, flesh-bone, heat-breath essences coiled.
 
-[11571] <philology> Comparative Construction: *Dang 'dra ba*
+[31997] <philology> Comparative Construction: *Dang 'dra ba*
 **Analysis:** *Dang 'dra ba* (similar to) establishes the analogy between *gdung* and *ring bsrel*.
 
-[11506] <philology> Enumerative Particle: *La gnyis las*
+[31932] <philology> Enumerative Particle: *La gnyis las*
 **Analysis:** *La gnyis las* (from two [causes]) marks the division of causal analysis into peaceful and wrathful.
 
  <concept>
 Ring-Bone Distinction
 **Analysis:** Ring-bones (*ring bsrel*) defined as similar to relics, round form with any of five colors. Their cause: coiled essences of white-red, flesh-bone, heat-breath.
 
-[11574] <philology> Color Terminology: *Dkar dmar*
+[32000] <philology> Color Terminology: *Dkar dmar*
 **Analysis:** *Dkar dmar* (white-red) represents the dual essence typical of subtle body physiology in Tibetan tantra.
 
-[11575-11586] <structure>
+[32001-32012] <structure>
 **Analysis:** Longchenpa establishes the SECOND of four major categories under the signs of liberation (grol rtags), focusing on GDUNG (bone essence/relic matrix). The architectural structure follows the standard fourfold analytical framework: 1) nature/essence (ngo bo), 2) causal basis (rgyu), 3) divisions (dbye ba), and 4) result (bras bu). This represents a systematic phenomenological taxonomy of post-death manifestations indicating the deceased's spiritual attainment level. The text establishes gdung as emerging from progressively refined essences (dangs ma), tracing the somatic hierarchy from generation sites to maturation sites.
 
-[11575-11581] <philology>
+[32001-32007] <philology>
 **Analysis:** Key terminology analysis: "དངས་མའི་ཤིན་ཏུ་དངས་མ་" - the superlative construction (shin tu + adjective) indicates ultimate refinement. The term གདུང་ carries semantic range from "bone" to "lineage essence" to "sacred relic." Particle ལས་བྱུང་ (ablative + verb) indicates origin. The compound སྐྱེད་པའི་གནས་ (generation site) vs. སྨིན་པའི་གནས་ (maturation site) employs agricultural metaphors (skye = sprout; smin = ripen) applied to somatic processes. Grammar note: lines 11578-11581 use a four-part parallelism marked by དང༌ conjunctions, creating enumerative cadence.
 
-[11582-11585] <context>
+[32008-32011] <context>
 **Analysis:** The four-fold classification of gdung by color (white, red-yellow, red, blue-green) with corresponding elemental associations reflects the standard rDzogs chen five-element cosmology integrated with Ayurvedic humoral theory (phlegm, bile, wind). This classification system parallels similar taxonomies found in medical tantras (rGyud bzhi) and Kalachakra tradition, though here applied to post-mortemanalysis. The mention of "self-nature emanation body" (rang bzhin sprul sku) at 11586 connects to the three-body (sku gsum) doctrine as articulated in the Sutra of the Ten Bhumis and rDzogs chen texts like the Kunsang Lama'i Shelung.
 
-[11586-11594] <concept>
+[32012-32020] <concept>
 **Analysis:** The ontological distinction between gdung and ring bsrel (relics) emerges here: gdung represents the indestructible diamond-like essence of the practitioner's realization, while ring bsrel are more material remains. The concept of "breathing into the emanation body" (sprul sku'i dbugs 'byin pa) at 11586 indicates a process of transference ('pho ba) or liberation-through-wearing (btags grol). The qualification "not certain for all" (kun ma nges) introduces important soteriological nuance - these signs indicate potential but not deterministic outcomes, reflecting the rDzogs chen emphasis on instantaneous recognition (cig car ba) versus gradual cultivation (rim gyis pa).
 
-[11595-11603] <structure>
+[32021-32029] <structure>
 **Analysis:** Comparative analysis section contrasting gdung and ring bsrel properties. Two-part argument structure: 1) gdung's indestructibility demonstrated through hammer-test thought experiment, 2) ring bsrel's destructibility requiring careful cremation timing. The citation formula ཞེས་པ་དང༌ at 11605 introduces authoritative scriptural support from the Sku Gdung 'Bar ba rtags kyi rgyud, marking transition from prose exposition to metrical citation.
 
-[11595-11609] <philology>
+[32021-32035] <philology>
 **Analysis:** Key particle constructions: པས་མི་ཤིགས་ (instrumental + negative + verb) indicates means of non-destruction. The term ལྕགས་ཀྱི་གཏུན་ (iron hammer) employs typical Tibetan metallurgical vocabulary. The conditional ན་ཡང་ (even if) at 11597 introduces hypothetical scenario. Scriptural citation (11600-11609) employs seven-syllable anustubh meter (7+7 pattern) characteristic of tantric revelation texts. Terminological precision: ཏིལ་གྱི་འབྲུ་ (sesame seed) and རྡུལ་ཆ་ (atomic particle) establish scale references.
 
-[11595-11618] <context>
+[32021-32044] <context>
 **Analysis:** The practical instruction regarding cremation timing (11624: "extremely important not to over-burn") reflects actual mortuary practices in Tibetan Buddhism. The distinction between gdung and ring bsrel corresponds to the Indian Buddhist distinction between dhatu (relics) and sarira, though gdung carries specifically Tibetan tantric connotations tied to the "vajra body" concept. The Sku Gdung 'Bar ba citation represents a terma (gter ma) or revealed treasure text, likely from the rDzogs chen tradition given its emphasis on light phenomena and emanation bodies.
 
-[11610-11618] <concept>
+[32036-32044] <concept>
 **Analysis:** The epistemological criteria for distinguishing ordinary vs. Buddha relics (clarity, five-colored light presence/absence, bodhi tree leaf impressions) reflects Buddhist theories of sacred materiality (dhatuvada). The Bodhi tree criterion references the Mahaparinirvana Sutra tradition where relics exhibit marks corresponding to the Buddha's awakening. The structural marker "third: light" (gsum pa 'od) at 11614 transitions to the next category, maintaining the systematic four-fold enumeration (gdung, ring bsrel, 'od, sgra) established in the root text architecture.
 
 ---
 
-[11619-11627] <structure>
+[32045-32053] <structure>
 **Analysis:** This page presents the THIRD category ('OD - light phenomena) following the established fourfold analytical framework. The structure follows: nature (ngo bo), cause (rgyu), divisions (dbye ba), and result ('bras bu). This section analyzes light manifestations at death indicating the deceased's level of realization. The progression from elemental essence (elements + awareness) to spontaneous manifestation represents the rdzogs chen emphasis on self-originated wisdom (rang byung ye shes).
 
-[11619-11626] <philology>
+[32045-32052] <philology>
 **Analysis:** Key terminology: ཁ་དོག་ལྔ་རང་གསལ་ (five colors self-illuminating) - the reflexive construction རང་ + verb indicates svayam-prabha (self-luminosity), a crucial concept in prajnaparamita and rdzogs chen. The term འབྱུང་བ་དངས་པ་ (clear/pure elements) contrasts with འབྱུང་བ་ངན་པ་ (impure elements) in medical texts. Particle analysis: ལས་འདས་ (transcended/abandoned) at 11621 marks the temporal transition. The phrase གཉིས་འཛོམ་པ་ (union of two) refers to the meeting of material and consciousness principles. Grammar: threefold division marked by contextual particles (skabs kyis).
 
-[11627-11637] <context>
+[32053-32063] <context>
 **Analysis:** The three types of light (upward-rising, radiating spokes, encircling aureole) correspond to bardo liberation stages. The "sky-hook" (gnam 'then) metaphor at 11625 references the rope/snake simile from the Lankavatara Sutra, indicating sudden recognition. The light-house ('od khyim) imagery connects to the Uttaratantra's "luminosity" (prabhasvara) concept. The timeframe specifications (five days, seven days) derive from the Abhidharmakosha's bardo duration calculations and Guhyasamaja tantra completion stage timing.
 
  <concept>
 **Analysis:** Ontological analysis reveals light as the interface between material and immaterial dimensions. The upward-rising light (gyen 'greng) indicates immediate recognition of dharmakaya (ka dag), bypassing the bardo entirely - this represents the "instantaneous liberator" (cig car grol ba). The spoke-radiation (rtsibs shar) indicates completion of the sambhogakaya recognition process within the final bardo. The seven-day and five-day timeframes reflect the completion of purification cycles (sbyong ba) necessary for stabilizing realization in the respective Buddha bodies.
 
-[11638-11655] <structure>
+[32064-32081] <structure>
 **Analysis:** Scriptural citation section from the rDo rje Sems dpa'i Snying gi Me long, employing seven-syllable verse with end-line particle ཞེས་སོ་ marking closure. The citation parallels and confirms the prose exposition, creating a hermeneutical circle between root tantra and commentary. The structure shifts at 11656 to phenomenological description of spontaneous display (lhun grub snang ba).
 
  <philology>
 **Analysis:** The root tantra citation employs technical terms: མུ་ཁྱུད་ (encircling aureole/periphery) - architectural term for circular structure, here applied to light halos. བར་དོ་དང་པོ་ (first bardo) vs. བར་དོ་མི་སྣང་བ་ (invisible bardo) - technical distinctions from the Karling Zhitro cycle. Particle གྱུར་ན་ (if it becomes) introduces conditional logic. The phrase སྐད་ཅིག་ལས་ནི་སངས་རྒྱས་ (instantaneously becomes Buddha) employs the emphatic ནི particle for definitive statement.
 
-[11656-11660] <context>
+[32082-32086] <context>
 **Analysis:** The description of "spontaneously present display emanating forth" (lhun grub snang...'phro ba) references the rdzogs chen doctrine of spontaneous presence (lhun grub) as distinct from primordial purity (ka dag). The two-fold emanation scheme (rang snang gzugs brnyan vs. gzhan snang rang mtshan) reflects the Yogacara distinction between imagined and dependent natures, adapted to rdzogs chen phenomenology. This passage connects to the Man ngag sde texts' discussion of the "eight displays" (snang ba brgyad).
 
  <concept>
@@ -213,7 +213,7 @@ Ring-Bone Distinction
 
 ---
 
-[11661-11673] <structure>
+[32087-32099] <structure>
 **Analysis:** This page completes the light phenomena section with scriptural citation and introduces the FOURTH category: SGRA (sound). The structural pattern continues with the fourfold analytical framework (nature, divisions, cause, result). The transition marker "དེ་ཉིད་ལས་" (from that very [text]) at 11661 connects the preceding exposition to its authoritative source. The progression from visual to auditory phenomena maintains sensory hierarchy (visual primary, auditory secondary) found in Abhidharma taxonomies.
 
  <philology>
@@ -222,30 +222,30 @@ Ring-Bone Distinction
  <context>
 **Analysis:** The continuation from rDo rje Sems dpa'i Snying gi Me long reinforces the text's reliance on major rdzogs chen tantras. The description of emanation activity "for the benefit of beings in the ten directions" connects to Mahayana bodhisattva vow literature (Dasabhumika Sutra, Bodhicaryavatara). The phrase "natural emanation" (rang bzhin sprul pa) references the three-nature (trisvabhava) doctrine reconceptualized in rdzogs chen terms - here indicating the natural expression of awareness rather than conditioned arising.
 
-[11674-11685] <structure>
+[32100-32111] <structure>
 **Analysis:** Sound analysis employs binary opposition structure: pleasant/continuous vs. fierce/short (དལ་ལ་རྒྱུན་རིང་བ་ vs. དྲག་ལ་ཡུན་ཐུང་བ་). The causal explanation distinguishes general causes (elemental friction) from specific causes (attainment of stabilization). The directional schema (East-Vajra, South-Ratna, West-Padma, North-Karma, Center-Tathagata) follows standard tantric mandala architecture. The result section establishes a causal chain: sound → enjoyment body → emanation body.
 
  <philology>
 **Analysis:** Key terminology: རྣ་བའི་དབང་པོ་ (auditory faculty) - standard Abhidharma term. འུར་བ་ (humming/roaring) and ཐུག་པ་ (piercing/staccato) are onomatopoeic terms indicating sound quality. The phrase གཉིས་འཐབས་པའི་རྐྱེན་ (condition of two striking/interacting) employs the technical term for causal condition (pratyaya). Directional markers use locative particles (du, ru, tu) with precision. The term བརྟན་པ་ཐོབ་པ་ (attaining stability) refers to the third of four stages of stabilization in completion stage practice.
 
-[11674-11715] <context>
+[32100-32141] <context>
 **Analysis:** The directional sound schema reflects the five-Buddha family (panca-tathagata) system central to Anuttarayoga tantras. The sound classification parallels similar taxonomies in Kalachakra (chapter 2) and Hevajra tantras, though adapted for post-mortem analysis. The seven-day and fourteen-day timeframes for attainment of complete Buddhahood derive from the Guhyasamaja system's enumeration of the number of days required for different types of practitioners to achieve complete realization after death.
 
-[11686-11715] <concept>
+[32112-32141] <concept>
 **Analysis:** Epistemological analysis: sound serves as an auditory "proof" (rtags) of the deceased's realization level, analogous to visual light phenomena. The pleasant/fierce binary encodes ethical/aesthetic valuation (zhi ba = peaceful/virtuous; khro bo = wrathful/powerful). The causal mechanism - elemental interaction in space producing sound - mirrors the Samkhya theory of sound as the property of space/ether (akasha), here integrated into Buddhist elemental theory. The "stabilization attainment" (brtan pa thob pa) refers to the irreversible stage (avinivartaniya) where retrogression becomes impossible.
 
 ---
 
-[11716-11725] <structure>
+[32142-32151] <structure>
 **Analysis:** This page completes the sound category with root tantra citation and introduces the FIFTH category: G.YO BA (movement/earthquake). The structural pattern of fourfold analysis continues (nature, cause, divisions, result). The movement category represents the transition from subtle phenomena (light, sound) to gross somatic/environmental manifestations. The binary temporal schema (seven days vs. fourteen days) parallels previous categories, maintaining systematic consistency.
 
-[11716-11723] <philology>
+[32142-32149] <philology>
 **Analysis:** Root tantra citation from rDo rje Sems dpa'i Snying gi Me long continues, employing technical terminology: འུར་གྱིས་བྱུང་ (arising through humming) vs. ཐུག་གིས་བྱུང་ (arising through piercing sound). Temporal markers ཞག་བདུན་ (seven days) and ཞག་བཅུ་བཞི་ (fourteen days) use classical Tibetan time reckoning. The structural divider "ལྔ་པ་" (fifth) at 11720 introduces movement category with abbreviated analytical headings (only four components without explicit nature heading initially).
 
  <context>
 **Analysis:** The seven-day vs. fourteen-day distinction reflects different capacities of practitioners - those with prior familiarization (sbyangs pa) versus those requiring extended stabilization. This temporal framework derives from the Abhidharma kosha's analysis of bardo duration and the Guhyasamaja tantra's completion stage timing. The sound-arousal types ('ur vs. thug) may correspond to the "light-sound-rays" (od sgra zer) triad fundamental to rdzogs chen cosmogony.
 
-[11724-11735] <structure>
+[32150-32161] <structure>
 **Analysis:** Movement analysis establishes a hierarchical taxonomy: 1) container world as support, 2) animate beings as supported. This reflects the standard Buddhist "container and contained" (snod bcud) cosmological framework. The fourfold division of movement (rab tu g.yo ba, cher g.yo ba, kun tu rab tu g.yo ba, and implied fourth) creates scalar intensity. The results section maps movement onto bodhisattva stages (sa), creating a comprehensive soteriological cartography.
 
  <philology>
@@ -256,6 +256,6 @@ Ring-Bone Distinction
 
 ---
 
-[11730-11735] <context>
+[32156-32161] <context>
 **Analysis:** The three temporal divisions (three days, six days, nine days) for different stage-attainments create a precise soteriological chronometry. The enumeration of sravaka stages (four) and bodhisattva stages (ten + one result stage) reflects standard Mahayana path structures from the Abhisamayalamkara. The four vidyadhara stages (rig 'dzin sa bzhi) - matured, life-mastery, mahamudra, spontaneous accomplishment - derive specifically from the Maha-yoga and Anu-yoga tantra systems, particularly the Guhyagarbha tantra.
 

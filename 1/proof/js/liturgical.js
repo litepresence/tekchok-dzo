@@ -1,21 +1,5 @@
-// Liturgical Layer - Navigation with volume-relative line numbers
-// Volume 1: lines 1-20426 (relative = absolute)
-// Volume 2: lines 1-17330 (relative), displayed as 20427-37756 (absolute)
-
-const VOLUME_BOUNDARY = 20426;
-
-function getVolumeFromLine(absLine) {
-    if (!absLine || absLine <= 0) return 1;
-    return absLine <= VOLUME_BOUNDARY ? 1 : 2;
-}
-
-function toAbsoluteLine(relLine, volume) {
-    if (!relLine || relLine <= 0) return 1;
-    if (volume === 2) {
-        return relLine + VOLUME_BOUNDARY;
-    }
-    return relLine;
-}
+// Liturgical Layer - Navigation with ALN (Absolute Line Numbers)
+// ALN: 1-37756
 
 function showChapter(index) {
     const chapters = document.querySelectorAll('.chapter');
@@ -46,16 +30,26 @@ function notifyParentOfChapterChange() {
     const key = chapterKeys[currentChapter];
     const parts = key.split('-');
     const vol = parseInt(parts[0]);
+    const chapter = parseInt(parts[1]);
+    
+    // Get first ALN for this chapter from chapter key
+    const firstALN = getFirstALNForChapter(vol, chapter);
+    
+    window.parent.postMessage({ type: 'chapterChanged', line: firstALN }, '*');
+}
+
+function getFirstALNForChapter(volume, chapter) {
+    // Map chapter keys to first ALN
     const chapterMap = {
-        '01': 1, '02': 635, '03': 1582, '04': 1902, '05': 4172,
-        '06': 6801, '07': 9704, '08': 10472, '09': 11335, '10': 12500,
-        '11': 13104, '12': 13831, '13': 16025, '14': 17361,
-        '15': 20427, '16': 20900, '17': 22654, '18': 24822,
-        '19': 26863, '20': 27946, '21': 28946, '22': 29856,
-        '23': 31566, '24': 34830, '25': 35191
+        '01-01': 1, '01-02': 635, '01-03': 1582, '01-04': 1902, '01-05': 4172,
+        '01-06': 6801, '01-07': 9704, '01-08': 10472, '01-09': 11335, '01-10': 12500,
+        '01-11': 13104, '01-12': 13831, '01-13': 16025, '01-14': 17361,
+        '02-15': 20427, '02-16': 20900, '02-17': 22180, '02-18': 24348,
+        '02-19': 26389, '02-20': 28509, '02-21': 29839, '02-22': 30637,
+        '02-23': 32437, '02-24': 35701, '02-25': 36061
     };
-    const lineNum = chapterMap[parts[1]] || 1;
-    window.parent.postMessage({ type: 'chapterChanged', volume: vol, chapter: parseInt(parts[1]), line: lineNum }, '*');
+    const key = `${String(volume).padStart(2, '0')}-${String(chapter).padStart(2, '0')}`;
+    return chapterMap[key] || 1;
 }
 
 function updateNavButtons() {
@@ -76,24 +70,23 @@ function updateIndicator() {
     indicator.textContent = `Volume ${parseInt(volume)}, Chapter ${parseInt(chapter)}`;
 }
 
-function goToLine(lineNum, volume) {
-    if (!lineNum) return false;
+function goToLine(aln) {
+    if (!aln) return false;
     
-    volume = volume || 1;
-    const volPrefix = volume === 1 ? '01-' : '02-';
-    
-    let lineEl = document.getElementById('line-' + lineNum);
+    // Try exact match first (line IDs are ALN)
+    let lineEl = document.getElementById('line-' + aln);
     
     if (!lineEl) {
-        const volChapters = document.querySelectorAll(`.chapter[data-chapter-key^="${volPrefix}"]`);
+        // Find best match
+        const allChapters = document.querySelectorAll('.chapter');
         let bestMatch = null;
         let bestDiff = Infinity;
         
-        volChapters.forEach(ch => {
+        allChapters.forEach(ch => {
             const lines = ch.querySelectorAll('[id^="line-"]');
             for (const el of lines) {
                 const elLine = parseInt(el.id.replace('line-', ''));
-                const diff = Math.abs(elLine - lineNum);
+                const diff = Math.abs(elLine - aln);
                 if (diff < bestDiff) {
                     bestDiff = diff;
                     bestMatch = el;
@@ -125,23 +118,15 @@ function goToLine(lineNum, volume) {
 
 function handleHashNavigation() {
     const hash = window.location.hash;
-    const match = hash.match(/line-(\d+)(?:-(\d+))?/);
+    // Format: #line-ALN (e.g., #line-5000)
+    const match = hash.match(/line-(\d+)/);
     if (match) {
-        let relLine, volume;
-        if (match[2]) {
-            volume = parseInt(match[1]);
-            relLine = parseInt(match[2]);
-        } else {
-            relLine = parseInt(match[1]);
-            volume = 1;
-        }
-        const absLine = toAbsoluteLine(relLine, volume);
-        goToLine(absLine, volume);
+        const aln = parseInt(match[1]);
+        goToLine(aln);
     }
 }
 
-let lastReportedLine = null;
-let lastReportedVolume = null;
+let lastReportedALN = null;
 
 function reportCurrentLine() {
     const lines = document.querySelectorAll('[id^="line-"]');
@@ -163,19 +148,14 @@ function reportCurrentLine() {
     }
     
     if (closest) {
-        const relLine = parseInt(closest.id.replace('line-', ''));
-        const chapter = closest.closest('[data-chapter-key]');
-        const chapterKey = chapter ? chapter.dataset.chapterKey : '01-01';
-        const volume = chapterKey.startsWith('02-') ? 2 : 1;
-        const absLine = toAbsoluteLine(relLine, volume);
+        // Line IDs are ALN
+        const aln = parseInt(closest.id.replace('line-', ''));
         
-        if (absLine !== lastReportedLine || volume !== lastReportedVolume) {
-            lastReportedLine = absLine;
-            lastReportedVolume = volume;
+        if (aln !== lastReportedALN) {
+            lastReportedALN = aln;
             window.parent.postMessage({ 
                 type: 'linePosition', 
-                line: absLine, 
-                volume: volume 
+                line: aln
             }, '*');
         }
     }

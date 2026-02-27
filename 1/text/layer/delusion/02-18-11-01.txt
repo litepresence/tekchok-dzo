@@ -1,4 +1,4 @@
-[5159-5240] <ontological-error>
+[25585-25666] <ontological-error>
 ═══════════════════════════════════════════════════════════════════
 TIBETAN SOURCE: དང་པོ་ནི། རྡོ་རྗེའི་རིགས་རྣམ་པར་དག་པས། མེ་ལོང་ལྟ་བུའི་ཡེ་ཤེས་ཀྱི་རང་འོད་ཁ་དོག་དཀར་པོའི་རྣམ་པར་འཆར་བ་དང༌།
 CRITICAL DOMAIN: THOGAL FIVE WISDOM APPEARANCE STAGE
@@ -8,7 +8,7 @@ RATIO: 0.55x | CASCADE DEPTH: 7-8 LEVELS | TIBETAN: FULL INTEGRATION
 
 <thogal-visualization> ERROR CASCADE
 ───────────────────────────────────────────────────────────────────
-[5159-5162] PRIMARY: Treating Thogal as visualization practice 
+[25585-25588] PRIMARY: Treating Thogal as visualization practice 
 
 CASCADE LEVEL 1 - METHODOLOGY CONFUSION:
 Tibetan: རྫོགས་ཆེན་ཐོད་རྒལ་གྱི་སྣང་བ vs སྒོམ་མེད་ཀྱི་སྣང་བ
@@ -47,7 +47,7 @@ Source point: རང་འོད - not created, not maintained
 
 <five-wisdom-achievement> ERROR CASCADE
 ───────────────────────────────────────────────────────────────────
-[5159-5173] PRIMARY: Treating five wisdoms as attainments to achieve 
+[25585-25599] PRIMARY: Treating five wisdoms as attainments to achieve 
 
 CASCADE LEVEL 1 - TEMPORAL PROGRESSION ERROR:
 Tibetan: དང་པོ། དེའི་འོག་ཏུ། དེ་ནས
@@ -98,7 +98,7 @@ Recognition point: They are རང་འོད, not གཞན་འོད
 
 <kaya-appearance-fetish> ERROR CASCADE
 ───────────────────────────────────────────────────────────────────
-[5160-5173] PRIMARY: Fixating on kaya forms and Buddha appearances 
+[25586-25599] PRIMARY: Fixating on kaya forms and Buddha appearances 
 
 CASCADE LEVEL 1 - FORM ATTACHMENT:
 Tibetan: སྐུའི་སྣང་ལ་ཞེན་པ
@@ -201,7 +201,7 @@ Recognition: Colors are རྟོགས་པའི་སྣང་བ, not objec
 
 <thig-le-materialization> ERROR CASCADE
 ───────────────────────────────────────────────────────────────────
-[5217-5221] PRIMARY: Materializing bindus/spheres as solid objects 
+[25643-25647] PRIMARY: Materializing bindus/spheres as solid objects 
 
 CASCADE LEVEL 1 - BINDU OBJECTIFICATION:
 Tibetan: ཐིག་ལེ་རྫས་སུ་འཛིན་པ
@@ -210,7 +210,7 @@ Error: "I see actual spheres of light"
 → ཐིག་ལེ་ནི་ཡེ་ཤེས་ཀྱི་རྩིགས་བུ། རྡུལ་ཕྲན་མེད།
 
 CASCADE LEVEL 2 - SIZE ATTACHMENT:
-[5229-5230] Fixating on descriptions in Rangjung Gyud 
+[25655-25656] Fixating on descriptions in Rangjung Gyud 
 ཡར་མཚམས་ལས་ནི་སོར་བཞི་ལས། བྲལ་བའི་སྐྱེས་བུ
 Error: "I see a figure four finger-widths away"
 → Measuring distance literally
@@ -232,7 +232,7 @@ Counting bindus: "I see one bindu today... five bindus - I've reached the five w
 → ཐིག་ལེ་ནི་གྲངས་ལས་འདས་པ
 
 CASCADE LEVEL 6 - DIRECT PERCEPTION CONFUSION:
-Tibetan: མངོན་སུམ་གྱི་ཐིག་ལེ [5220]
+Tibetan: མངོན་སུམ་གྱི་ཐིག་ལེ [25646]
 Error: "This is the real bindu, not connected bindus"
 → Discrimination between types of bindus
 → produces hierarchy in spontaneous display
@@ -329,7 +329,7 @@ CASCADE LEVEL 4 - PROGRESS ANXIETY:
 → Practice congeals into stressful obligation
 
 CASCADE LEVEL 5 - TIMELINE LITERALISM:
-Treating སྐད་ཅིག་མ་ནི་བཅུ་དྲུག [5237] as literal time measurement
+Treating སྐད་ཅིག་མ་ནི་བཅུ་དྲུག [25663] as literal time measurement
 → དུས་ཚོད་ཀྱི་ང་རྒྱལ
 → སྐད་ཅིག་མ་ནི་ཡེ་ཤེས་ཀྱི་དུས་མཚམས།
 
@@ -368,7 +368,7 @@ Error: "The blue light disappeared! I lost it!"
 CASCADE LEVEL 2 - REGRESSION ANXIETY:
 "I'm going backward - colors gone, now just shapes"
 → ལྡོག་པ་ལ་སྐྲག་པ
-→ Missing: dissolution is ཡེ་ཤེས་ཀྱི་རླུང་རྣམ་པར་དག་པ [5178]
+→ Missing: dissolution is ཡེ་ཤེས་ཀྱི་རླུང་རྣམ་པར་དག་པ [25604]
 
 CASCADE LEVEL 3 - APPEARANCE PRESERVATION:
 "Don't go away! Stay!"

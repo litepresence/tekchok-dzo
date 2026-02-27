@@ -1,12 +1,27 @@
-// Introduction Layer - Chapter navigation with line-based position reporting
-// Volume 1: lines 1-20426
-// Volume 2: lines 20427-37756
+// Introduction Layer - Chapter navigation with ALN-based position reporting
+// ALN (Absolute Line Numbers): 1-37756
 
-const VOLUME_BOUNDARY = 20426;
+async function initALN() {
+    const resp = await fetch('../ALN_map.json');
+    return await resp.json();
+}
 
-function getVolumeFromLine(absLine) {
-    if (!absLine || absLine <= 0) return 1;
-    return absLine <= VOLUME_BOUNDARY ? 1 : 2;
+let ALN_MAP = null;
+
+function getVolumeFromALN(aln) {
+    if (!aln || aln <= 0) return 1;
+    return aln <= 20426 ? 1 : 2;
+}
+
+function getChapterFromALN(aln) {
+    if (!ALN_MAP) return null;
+    for (const [key, range] of Object.entries(ALN_MAP)) {
+        if (aln >= range[0] && aln <= range[1]) {
+            const parts = key.split('-');
+            return parseInt(parts[1]);
+        }
+    }
+    return null;
 }
 
 function showChapter(index) {
@@ -35,38 +50,44 @@ function prevChapter() {
 }
 
 function notifyParentOfChapterChange() {
-    const chapterMap = {
-        '1': 1, '2': 635, '3': 1582, '4': 1902, '5': 4172,
-        '6': 6801, '7': 9704, '8': 10472, '9': 11335, '10': 12500,
-        '11': 13104, '12': 13831, '13': 16025, '14': 17361,
-        '15': 20427, '16': 20900, '17': 22654, '18': 24822,
-        '19': 26863, '20': 27946, '21': 28946, '22': 29856,
-        '23': 31566, '24': 34830, '25': 35191
-    };
-    
     const activeSection = document.querySelector('.intro-section.active');
     if (!activeSection) return;
     
-    const sectionId = activeSection.id;
-    let lineNum = 1;
-    let volume = 1;
+    // Use data-aln-start attribute if available
+    let aln = activeSection.dataset.alnStart;
+    if (!aln) {
+        // Fallback: derive from section ID
+        aln = getALNFromSectionId(activeSection.id);
+    }
+    
+    if (aln) {
+        window.parent.postMessage({ type: 'chapterChanged', line: parseInt(aln) }, '*');
+    }
+}
+
+function getALNFromSectionId(sectionId) {
+    if (!ALN_MAP) return 1;
+    
+    const mapping = {
+        'intro-main': '01-01-01-01',
+        'vol-01': '01-01-01-01',
+        'vol-02': '02-15-01-01',
+    };
     
     if (sectionId.startsWith('chap-')) {
         const parts = sectionId.replace('chap-', '').split('-');
         if (parts.length >= 2) {
-            volume = parseInt(parts[0]);
-            const ch = parts[1];
-            lineNum = chapterMap[ch] || 1;
+            const vol = parts[0].padStart(2, '0');
+            const ch = parts[1].padStart(2, '0');
+            mapping[sectionId] = `${vol}-${ch}-01-01`;
         }
-    } else if (sectionId.startsWith('vol-')) {
-        volume = parseInt(sectionId.replace('vol-', ''));
-        lineNum = volume === 1 ? 1 : 20427;
-    } else if (sectionId === 'intro-main') {
-        lineNum = 1;
-        volume = 1;
     }
     
-    window.parent.postMessage({ type: 'chapterChanged', volume: volume, chapter: 0, line: lineNum }, '*');
+    const sectionKey = mapping[sectionId];
+    if (sectionKey && ALN_MAP[sectionKey]) {
+        return ALN_MAP[sectionKey][0];
+    }
+    return 1;
 }
 
 function updateNavButtons() {
@@ -99,73 +120,65 @@ function goToLine(id) {
     return false;
 }
 
-function handleHashNavigation() {
-    const params = new URLSearchParams(window.location.search);
-    const chapter = params.get('chapter');
-    const volume = params.get('volume');
-    
-    if (chapter) {
-        const targetId = 'chap-' + chapter.replace(/-/g, '-');
-        if (goToLine(targetId)) return;
+function goToALN(aln) {
+    // Find the section containing this ALN
+    const sections = document.querySelectorAll('.intro-section');
+    for (let i = 0; i < sections.length; i++) {
+        const sec = sections[i];
+        const start = sec.dataset.alnStart;
+        const end = sec.dataset.alnEnd;
+        if (start && end) {
+            if (aln >= parseInt(start) && aln <= parseInt(end)) {
+                showChapter(i);
+                return true;
+            }
+        }
     }
-    if (volume) {
-        const targetId = 'vol-' + volume;
-        if (goToLine(targetId)) return;
+    return false;
+}
+
+function handleHashNavigation() {
+    const hash = window.location.hash;
+    if (hash && hash.startsWith('#chapter-')) {
+        const chapterId = hash.replace('#chapter-', '');
+        if (goToLine('chap-' + chapterId)) return;
+        if (goToLine('vol-' + chapterId)) return;
+    }
+    
+    // Try to navigate to ALN from parent
+    const params = new URLSearchParams(window.location.search);
+    const line = params.get('line');
+    if (line) {
+        if (goToALN(parseInt(line))) return;
     }
     
     showChapter(0);
 }
 
-let lastReportedChapter = null;
-let lastReportedVolume = null;
+let lastReportedALN = null;
 
 function reportCurrentPosition() {
     const activeSection = document.querySelector('.intro-section.active');
     if (!activeSection) return;
     
-    const sectionId = activeSection.id;
-    let lineNum = null;
-    let volume = 1;
-    
-    if (sectionId.startsWith('chap-')) {
-        const parts = sectionId.replace('chap-', '').split('-');
-        if (parts.length >= 2) {
-            const vol = parseInt(parts[0]);
-            const ch = parseInt(parts[1]);
-            
-            const chapterMap = {
-                '1': 1, '2': 635, '3': 1582, '4': 1902, '5': 4172,
-                '6': 6801, '7': 9704, '8': 10472, '9': 11335, '10': 12500,
-                '11': 13104, '12': 13831, '13': 16025, '14': 17361,
-                '15': 20427, '16': 20900, '17': 22654, '18': 24822,
-                '19': 26863, '20': 27946, '21': 28946, '22': 29856,
-                '23': 31566, '24': 34830, '25': 35191
-            };
-            
-            lineNum = chapterMap[ch] || 1;
-            volume = vol;
-        }
-    } else if (sectionId.startsWith('vol-')) {
-        const vol = sectionId.replace('vol-', '');
-        volume = parseInt(vol);
-        lineNum = volume === 1 ? 1 : 20427;
-    } else if (sectionId === 'intro-main') {
-        lineNum = 1;
-        volume = 1;
+    // Use data-aln-start attribute if available
+    let aln = activeSection.dataset.alnStart;
+    if (!aln) {
+        aln = getALNFromSectionId(activeSection.id);
     }
     
-    if (lineNum !== null && (sectionId !== lastReportedChapter || volume !== lastReportedVolume)) {
-        lastReportedChapter = sectionId;
-        lastReportedVolume = volume;
+    if (aln && aln !== lastReportedALN) {
+        lastReportedALN = aln;
         window.parent.postMessage({ 
             type: 'chapterPosition', 
-            line: lineNum, 
-            volume: volume 
+            line: parseInt(aln)
         }, '*');
     }
 }
 
-document.addEventListener('DOMContentLoaded', () => {
+document.addEventListener('DOMContentLoaded', async () => {
+    ALN_MAP = await initALN();
+    
     updateNavButtons();
     updateIndicator();
     handleHashNavigation();
@@ -183,6 +196,8 @@ document.addEventListener('DOMContentLoaded', () => {
                 goToLine(targetId);
             } else if (e.data.main) {
                 showChapter(0);
+            } else if (e.data.line) {
+                goToALN(parseInt(e.data.line));
             }
         }
     });
