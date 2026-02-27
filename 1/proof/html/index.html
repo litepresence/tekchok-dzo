@@ -835,10 +835,10 @@
                 <option value="#cognitive">Cognitive</option>
             </select>
             <button class="toolbar-nav-btn" onclick="handlePrev()" title="Previous">&lt;</button>
+            <button class="toolbar-nav-btn" onclick="handleNext()" title="Next">&gt;</button>
             <select id="chapter-select" class="chapter-dropdown" onchange="handleChapterSelect(this.value)">
                 <option value="">Select Chapter...</option>
             </select>
-            <button class="toolbar-nav-btn" onclick="handleNext()" title="Next">&gt;</button>
             <span class="nav-divider"></span>
             <a href="#glossary" class="nav-tab glossary">Glossary</a>
             <button class="dark-mode-toggle" onclick="toggleDarkMode()">Dark</button>
@@ -1085,7 +1085,7 @@
             
             const option = document.createElement('option');
             option.value = startLine;
-            option.textContent = `V${info.volume} - ${chapterName}`;
+            option.textContent = chapterName;
             dropdown.appendChild(option);
         }
     }
@@ -1580,16 +1580,16 @@
         updateChapterDropdown();
         updateHeaderIndicator();
         
-        // Hide chapter dropdown and nav buttons when on conventions (they don't apply)
-        const chapterSelect = document.getElementById('chapter-select');
-        const navBtns = document.querySelectorAll('.toolbar-nav-btn');
-        if (layerId === 'conventions') {
-            if (chapterSelect) chapterSelect.style.display = 'none';
-            navBtns.forEach(btn => btn.style.display = 'none');
-        } else if (layerId) {
-            if (chapterSelect) chapterSelect.style.display = '';
-            navBtns.forEach(btn => btn.style.display = '');
-        }
+        // // Hide chapter dropdown and nav buttons when on conventions (they don't apply)
+        // const chapterSelect = document.getElementById('chapter-select');
+        // const navBtns = document.querySelectorAll('.toolbar-nav-btn');
+        // if (layerId === 'conventions') {
+        //     if (chapterSelect) chapterSelect.style.display = 'none';
+        //     navBtns.forEach(btn => btn.style.display = 'none');
+        // } else if (layerId) {
+        //     if (chapterSelect) chapterSelect.style.display = '';
+        //     navBtns.forEach(btn => btn.style.display = '');
+        // }
     }
 
     // ==========================================================================
