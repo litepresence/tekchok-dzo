@@ -329,6 +329,7 @@
         display: flex;
         flex-direction: column;
         overflow: hidden;
+        min-height: 0;
     }
 
     .layer-content {
@@ -336,6 +337,7 @@
         flex: 1;
         flex-direction: column;
         overflow: hidden;
+        min-height: 0;
     }
 
     .layer-content.active {
@@ -368,13 +370,12 @@
         font-size: 0.9em;
         font-weight: 500;
     }
-        margin-top: 0.25em;
-    }
 
     .iframe-wrapper {
         flex: 1;
         position: relative;
         overflow: hidden;
+        min-height: 0;
     }
 
     .layer-frame {
@@ -382,6 +383,7 @@
         height: 100%;
         border: none;
         background: var(--color-bg);
+        min-height: 100%;
     }
 
     /* Line indicator */
@@ -1090,10 +1092,11 @@
     
     // Handle chapter selection
     function handleChapterSelect(value) {
-        if (!value || !state.selectedLayer) return;
+        if (!value) return;
+        const targetLayer = state.selectedLayer || state.layer || 'liturgical';
         const startLine = parseInt(value);
         if (!isNaN(startLine)) {
-            window.location.hash = buildHash(state.selectedLayer, startLine);
+            window.location.hash = buildHash(targetLayer, startLine);
         }
     }
     
