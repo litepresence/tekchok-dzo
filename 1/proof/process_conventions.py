@@ -57,7 +57,6 @@ def process_conventions():
 </head>
 <body>
     <div class="container">
-        <a href="index.html" class="back-link">← Back to Treasury</a>
         <header>
             <h1>Editorial Conventions</h1>
             <div class="subtitle">Translation Layer Methodologies</div>
@@ -66,9 +65,6 @@ def process_conventions():
         <main>
             {content_html}
         </main>
-        <footer>
-            <a href="index.html">← Return to Treasury of the Supreme Vehicle</a>
-        </footer>
     </div>
 </body>
 </html>
