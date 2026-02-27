@@ -1,27 +1,13 @@
 // Introduction Layer - Chapter navigation with ALN-based position reporting
 // ALN (Absolute Line Numbers): 1-37756
-
-async function initALN() {
-    const resp = await fetch('../ALN_map.json');
-    return await resp.json();
-}
-
-let ALN_MAP = null;
+// Uses window.ALN from aln_data.js (embedded, file:// compatible)
 
 function getVolumeFromALN(aln) {
-    if (!aln || aln <= 0) return 1;
-    return aln <= 20426 ? 1 : 2;
+    return window.ALN.getVolumeFromALN(aln);
 }
 
 function getChapterFromALN(aln) {
-    if (!ALN_MAP) return null;
-    for (const [key, range] of Object.entries(ALN_MAP)) {
-        if (aln >= range[0] && aln <= range[1]) {
-            const parts = key.split('-');
-            return parseInt(parts[1]);
-        }
-    }
-    return null;
+    return window.ALN.getChapterFromALN(aln);
 }
 
 function showChapter(index) {
@@ -66,28 +52,19 @@ function notifyParentOfChapterChange() {
 }
 
 function getALNFromSectionId(sectionId) {
-    if (!ALN_MAP) return 1;
-    
+    // Map section IDs to intro IDs for ALN lookup
     const mapping = {
-        'intro-main': '01-01-01-01',
-        'vol-01': '01-01-01-01',
-        'vol-02': '02-15-01-01',
+        'intro-main': 'intro-main',
+        'vol-01': 'vol-01',
+        'vol-02': 'vol-02',
     };
     
     if (sectionId.startsWith('chap-')) {
-        const parts = sectionId.replace('chap-', '').split('-');
-        if (parts.length >= 2) {
-            const vol = parts[0].padStart(2, '0');
-            const ch = parts[1].padStart(2, '0');
-            mapping[sectionId] = `${vol}-${ch}-01-01`;
-        }
+        mapping[sectionId] = sectionId.replace('chap-', '');
     }
     
-    const sectionKey = mapping[sectionId];
-    if (sectionKey && ALN_MAP[sectionKey]) {
-        return ALN_MAP[sectionKey][0];
-    }
-    return 1;
+    const introId = mapping[sectionId] || sectionId;
+    return window.ALN.getALNFromIntroId(introId);
 }
 
 function updateNavButtons() {
@@ -176,15 +153,22 @@ function reportCurrentPosition() {
     }
 }
 
-document.addEventListener('DOMContentLoaded', async () => {
-    ALN_MAP = await initALN();
-    
+document.addEventListener('DOMContentLoaded', () => {
     updateNavButtons();
     updateIndicator();
     handleHashNavigation();
     
     window.addEventListener('scroll', reportCurrentPosition);
     setTimeout(reportCurrentPosition, 500);
+    
+    // Listen for navigation from parent (index.html)
+    window.addEventListener('message', function(e) {
+        if (e.data && e.data.type === 'prevChapter') {
+            prevChapter();
+        } else if (e.data && e.data.type === 'nextChapter') {
+            nextChapter();
+        }
+    });
     
     window.addEventListener('message', function(e) {
         if (e.data && e.data.type === 'navigateIntroduction') {

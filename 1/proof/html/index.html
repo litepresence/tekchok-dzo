@@ -251,6 +251,28 @@
         color: var(--color-text);
     }
 
+    .toolbar-nav-btn {
+        background: var(--color-contents);
+        color: var(--color-text);
+        border: none;
+        border-radius: 4px;
+        padding: 0.2em 0.5em;
+        font-family: var(--font-sans);
+        font-size: 0.85em;
+        cursor: pointer;
+        outline: none;
+        line-height: 1;
+    }
+
+    .toolbar-nav-btn:hover {
+        background: #4a5a68;
+    }
+
+    .toolbar-nav-btn:disabled {
+        opacity: 0.4;
+        cursor: not-allowed;
+    }
+
     .nav-tab.tibetan {
         background: var(--color-tibetan);
     }
@@ -321,20 +343,31 @@
     }
 
     .layer-header {
-        padding: 1em 1.5em;
+        padding: 0.5em 1.5em;
         border-bottom: 1px solid var(--color-border);
         background: var(--color-bg-secondary);
+        display: flex;
+        align-items: center;
+        gap: 1em;
     }
 
-    .layer-header h1 {
-        margin: 0;
-        font-size: 1.5em;
+    .layer-header .header-title {
+        font-size: 1.2em;
+        font-weight: bold;
         color: var(--color-text);
     }
 
-    .layer-header .subtitle {
+    .layer-header .header-info {
         color: var(--color-muted);
+        font-size: 0.85em;
+    }
+
+    .layer-header .header-indicator {
+        margin-left: auto;
+        color: var(--color-tibetan);
         font-size: 0.9em;
+        font-weight: 500;
+    }
         margin-top: 0.25em;
     }
 
@@ -799,9 +832,11 @@
                 <option value="#delusion">Delusion</option>
                 <option value="#cognitive">Cognitive</option>
             </select>
+            <button class="toolbar-nav-btn" onclick="handlePrevChapter()" title="Previous Chapter">&lt;</button>
             <select id="chapter-select" class="chapter-dropdown" onchange="handleChapterSelect(this.value)">
                 <option value="">Select Chapter...</option>
             </select>
+            <button class="toolbar-nav-btn" onclick="handleNextChapter()" title="Next Chapter">&gt;</button>
             <span class="nav-divider"></span>
             <a href="#glossary" class="nav-tab glossary">Glossary</a>
             <button class="dark-mode-toggle" onclick="toggleDarkMode()">Dark</button>
@@ -838,8 +873,8 @@
         <!-- Each layer now wraps iframe in .iframe-wrapper -->
         <div id="introduction" class="layer-content">
             <div class="layer-header">
-                <h1>Introduction</h1>
-                <div class="subtitle">Overview of the Treasury</div>
+                <span class="header-title">Introduction</span>
+                <span class="header-indicator"></span>
             </div>
             <div class="iframe-wrapper">
                 <iframe class="layer-frame" data-src="introduction.html" scrolling="auto"></iframe>
@@ -847,8 +882,8 @@
         </div>
         <div id="contents" class="layer-content">
             <div class="layer-header">
-                <h1>Table of Contents</h1>
-                <div class="subtitle">Treasury of the Supreme Vehicle</div>
+                <span class="header-title">Contents</span>
+                <span class="header-indicator"></span>
             </div>
             <div class="iframe-wrapper">
                 
@@ -857,8 +892,9 @@
         </div>
         <div id="tibetan" class="layer-content">
             <div class="layer-header">
-                <h1>Tibetan</h1>
-                <div class="subtitle">Original Tibetan Text · ཡིག་གཟུགས</div>
+                <span class="header-title">Tibetan</span>
+                <span class="header-info">Original Tibetan</span>
+                <span class="header-indicator"></span>
             </div>
             <div class="iframe-wrapper">
                 
@@ -867,8 +903,9 @@
         </div>
         <div id="wylie" class="layer-content">
             <div class="layer-header">
-                <h1>Wylie</h1>
-                <div class="subtitle">Tibetan Transliteration</div>
+                <span class="header-title">Wylie</span>
+                <span class="header-info">Transliteration</span>
+                <span class="header-indicator"></span>
             </div>
             <div class="iframe-wrapper">
                 
@@ -877,8 +914,9 @@
         </div>
         <div id="literal" class="layer-content">
             <div class="layer-header">
-                <h1>Literal</h1>
-                <div class="subtitle">Word-by-Word Translation</div>
+                <span class="header-title">Literal</span>
+                <span class="header-info">Word-by-Word</span>
+                <span class="header-indicator"></span>
             </div>
             <div class="iframe-wrapper">
                 
@@ -887,8 +925,9 @@
         </div>
         <div id="liturgical" class="layer-content">
             <div class="layer-header">
-                <h1>Liturgical</h1>
-                <div class="subtitle">Poetic Chant Version</div>
+                <span class="header-title">Liturgical</span>
+                <span class="header-info">Poetic Chant</span>
+                <span class="header-indicator"></span>
             </div>
             <div class="iframe-wrapper">
                 
@@ -897,8 +936,9 @@
         </div>
         <div id="commentary" class="layer-content">
             <div class="layer-header">
-                <h1>Commentary</h1>
-                <div class="subtitle">Philosophical Interpretation</div>
+                <span class="header-title">Commentary</span>
+                <span class="header-info">Philosophical</span>
+                <span class="header-indicator"></span>
             </div>
             <div class="iframe-wrapper">
                 
@@ -907,8 +947,9 @@
         </div>
         <div id="scholar" class="layer-content">
             <div class="layer-header">
-                <h1>Scholar</h1>
-                <div class="subtitle">Academic Analysis</div>
+                <span class="header-title">Scholar</span>
+                <span class="header-info">Academic</span>
+                <span class="header-indicator"></span>
             </div>
             <div class="iframe-wrapper">
                 
@@ -917,8 +958,9 @@
         </div>
         <div id="epistemic" class="layer-content">
             <div class="layer-header">
-                <h1>Epistemic</h1>
-                <div class="subtitle">View &amp; Pedagogy Layers</div>
+                <span class="header-title">Epistemic</span>
+                <span class="header-info">View & Pedagogy</span>
+                <span class="header-indicator"></span>
             </div>
             <div class="iframe-wrapper">
                 
@@ -927,8 +969,9 @@
         </div>
         <div id="delusion" class="layer-content">
             <div class="layer-header">
-                <h1>Delusion</h1>
-                <div class="subtitle">Error Analysis</div>
+                <span class="header-title">Delusion</span>
+                <span class="header-info">Error Analysis</span>
+                <span class="header-indicator"></span>
             </div>
             <div class="iframe-wrapper">
                 
@@ -937,8 +980,9 @@
         </div>
         <div id="cognitive" class="layer-content">
             <div class="layer-header">
-                <h1>Cognitive</h1>
-                <div class="subtitle">Technical Annotations</div>
+                <span class="header-title">Cognitive</span>
+                <span class="header-info">Annotations</span>
+                <span class="header-indicator"></span>
             </div>
             <div class="iframe-wrapper">
                 
@@ -947,8 +991,8 @@
         </div>
         <div id="glossary" class="layer-content">
             <div class="layer-header">
-                <h1>Glossary</h1>
-                <div class="subtitle">Glossary of Terms</div>
+                <span class="header-title">Glossary</span>
+                <span class="header-indicator"></span>
             </div>
             <div class="iframe-wrapper">
                 
@@ -967,6 +1011,7 @@
     </div>
     <!-- Line Indicator -->
     <div id="line-indicator" class="line-indicator"></div>
+    <script src="../js/aln_data.js"></script>
     <script>
     // ==========================================================================
     // UNIFIED STATE MANAGEMENT - ALN (Absolute Line Numbers)
@@ -974,121 +1019,10 @@
     // All line numbers are ALN (Absolute Line Numbers 1-37756)
     // Volume is derived from ALN: line <= 20426 ? 1 : 2
     
-    // ALN Module - loaded asynchronously
-    let ALN = null;
+    // ALN is now loaded from ../js/aln_data.js (embedded, file:// compatible)
     
-    async function initALN() {
-        ALN = {
-            map: null,
-            sections: null,
-            chapterMap: null,
-
-            async load() {
-                const resp = await fetch('ALN_map.json');
-                this.map = await resp.json();
-                this.sections = this._buildSections();
-                this.chapterMap = this._buildChapterMap();
-            },
-
-            _buildSections() {
-                const sections = [];
-                for (const [key, range] of Object.entries(this.map)) {
-                    const parts = key.split('-');
-                    const volume = parseInt(parts[0]);
-                    const chapter = parseInt(parts[1]);
-                    sections.push({
-                        key: key,
-                        first: range[0],
-                        last: range[1],
-                        volume: volume,
-                        chapter: chapter
-                    });
-                }
-                sections.sort((a, b) => a.first - b.first);
-                return sections;
-            },
-
-            _buildChapterMap() {
-                const map = {};
-                for (const section of this.sections) {
-                    const volChap = `${String(section.volume).padStart(2, '0')}-${String(section.chapter).padStart(2, '0')}`;
-                    if (!map[volChap] || section.first < map[volChap].startLine) {
-                        map[volChap] = {
-                            volume: section.volume,
-                            chapter: section.chapter,
-                            startLine: section.first
-                        };
-                    }
-                }
-                return map;
-            },
-
-            getSection(aln) {
-                if (!this.sections) return null;
-                let lo = 0, hi = this.sections.length - 1;
-                while (lo <= hi) {
-                    const mid = Math.floor((lo + hi) / 2);
-                    const sec = this.sections[mid];
-                    if (aln >= sec.first && aln <= sec.last) {
-                        return sec;
-                    } else if (aln < sec.first) {
-                        hi = mid - 1;
-                    } else {
-                        lo = mid + 1;
-                    }
-                }
-                return this.sections[0];
-            },
-
-            getInfo(aln) {
-                const section = this.getSection(aln);
-                if (!section) return null;
-                return {
-                    sectionKey: section.key,
-                    volume: section.volume,
-                    chapter: section.chapter,
-                    relativeLine: aln
-                };
-            },
-
-            getVolumeFromALN(aln) {
-                if (!aln || aln <= 0) return 1;
-                return aln <= 20426 ? 1 : 2;
-            },
-
-            getChapterFromALN(aln) {
-                const info = this.getInfo(aln);
-                return info ? info.chapter : null;
-            },
-
-            getStartLineForChapter(volume, chapter) {
-                const volChap = `${String(volume).padStart(2, '0')}-${String(chapter).padStart(2, '0')}`;
-                return this.chapterMap[volChap] ? this.chapterMap[volChap].startLine : 1;
-            },
-
-            getALNFromIntroId(introId) {
-                if (introId === 'intro-main') return 1;
-                if (introId === 'vol-01') return 1;
-                if (introId === 'vol-02') return 20427;
-                if (introId.startsWith('chap-')) {
-                    const parts = introId.replace('chap-', '').split('-');
-                    if (parts.length >= 2) {
-                        const vol = parts[0];
-                        const ch = parts[1];
-                        const sectionKey = `${vol}-${ch}-01-01`;
-                        if (this.map && this.map[sectionKey]) {
-                            return this.map[sectionKey][0];
-                        }
-                    }
-                }
-                return 1;
-            }
-        };
-        await ALN.load();
-    }
-    
-    // Initialize ALN module
-    initALN().then(() => {
+    // Initialize chapter dropdown on load
+    document.addEventListener('DOMContentLoaded', function() {
         populateChapterDropdown();
         // If there's a saved line in state, update the chapter dropdown
         if (state.line) {
@@ -1098,20 +1032,20 @@
     
     // Chapter names mapping
     const chapterNames = {
-        '01-01': '1. Perfect Teacher',
+        '01-01': '1. The Perfect Teacher',
         '01-02': '2. Container and Contents',
-        '01-03': '3. Aggregates, Elements, and Sense Sources',
+        '01-03': '3. Aggregates and Elements',
         '01-04': '4. Vehicle Enumeration',
         '01-05': '5. Empowerment and Samaya',
         '01-06': '6. Samaya Discipline',
         '01-07': '7. Samaya Restoration',
-        '01-08': '8. Ground, Path, and Fruit',
+        '01-08': '8. Ground, Path, Fruit',
         '01-09': '9. Delusion and Liberation',
         '01-10': '10. Arising of Elements',
         '01-11': '11. Body Formation',
-        '01-12': '12. Channels, Winds, and Bindu',
+        '01-12': '12. Bindu, Channels, Winds',
         '01-13': '13. Luminosity',
-        '01-14': '14. Mind and Pristine Awareness',
+        '01-14': '14. Mind and Awareness',
         '02-15': '15. Elements Place',
         '02-16': '16. Kaya and Wisdom',
         '02-17': '17. Path and Signs',
@@ -1160,6 +1094,22 @@
         const startLine = parseInt(value);
         if (!isNaN(startLine)) {
             window.location.hash = buildHash(state.selectedLayer, startLine);
+        }
+    }
+    
+    // Handle prev chapter button click
+    function handlePrevChapter() {
+        const iframe = document.querySelector(`#${state.layer} .layer-frame`);
+        if (iframe && iframe.contentWindow) {
+            iframe.contentWindow.postMessage({ type: 'prevChapter' }, '*');
+        }
+    }
+    
+    // Handle next chapter button click
+    function handleNextChapter() {
+        const iframe = document.querySelector(`#${state.layer} .layer-frame`);
+        if (iframe && iframe.contentWindow) {
+            iframe.contentWindow.postMessage({ type: 'nextChapter' }, '*');
         }
     }
     
@@ -1239,7 +1189,17 @@
             }
             saveState();
             updateChapterDropdown();
+            updateHeaderIndicator();
         }
+    }
+    
+    // Update header indicator with current volume and chapter
+    function updateHeaderIndicator() {
+        const indicator = document.querySelector('.layer-content.active .header-indicator');
+        if (!indicator || !state.volume || !state.chapter) {
+            return;
+        }
+        indicator.textContent = 'V' + state.volume + ' Ch' + state.chapter;
     }
     
     // Set volume (derived from ALN, but can be set explicitly for backward compat)
@@ -1577,6 +1537,7 @@
 
         updateLayerDropdown(layerId);
         updateChapterDropdown();
+        updateHeaderIndicator();
     }
 
     // ==========================================================================

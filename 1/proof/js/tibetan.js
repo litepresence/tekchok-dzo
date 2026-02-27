@@ -168,6 +168,15 @@ document.addEventListener('DOMContentLoaded', () => {
     
     window.addEventListener('scroll', reportCurrentLine);
     setTimeout(reportCurrentLine, 500);
+    
+    // Listen for navigation from parent (index.html)
+    window.addEventListener('message', function(e) {
+        if (e.data && e.data.type === 'prevChapter') {
+            prevChapter();
+        } else if (e.data && e.data.type === 'nextChapter') {
+            nextChapter();
+        }
+    });
 });
 
 window.addEventListener('hashchange', handleHashNavigation);
