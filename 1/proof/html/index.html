@@ -984,7 +984,7 @@
             chapterMap: null,
 
             async load() {
-                const resp = await fetch('../ALN_map.json');
+                const resp = await fetch('ALN_map.json');
                 this.map = await resp.json();
                 this.sections = this._buildSections();
                 this.chapterMap = this._buildChapterMap();
