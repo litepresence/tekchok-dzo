@@ -202,7 +202,7 @@
 
     .layer-dropdown {
         background: var(--color-tibetan);
-        color: var(--color-text);
+        color: #f0f0f0;
         border: none;
         border-radius: 4px;
         padding: 0.4em 0.8em;
@@ -349,6 +349,7 @@
         background: var(--color-bg-secondary);
         display: flex;
         align-items: center;
+        justify-content: center;
         gap: 1em;
     }
 
@@ -364,7 +365,6 @@
     }
 
     .layer-header .header-indicator {
-        margin-left: auto;
         color: var(--color-tibetan);
         font-size: 0.9em;
         font-weight: 500;
@@ -1122,15 +1122,10 @@
         
         // Handle glossary tab - cycle through letters
         if (state.layer === 'glossary') {
-            const letters = 'ABCDEFGHIJKLMNOPQRSTUVWXYZ'.split('');
             const iframe = document.querySelector('#glossary-frame');
-            const currentHash = iframe.contentWindow.location.hash || '';
-            const currentLetter = currentHash.replace('#letter-', '') || 'A';
-            const currentIndex = letters.indexOf(currentLetter);
-            const prevIndex = (currentIndex - 1 + letters.length) % letters.length;
-            const newLetter = letters[prevIndex];
-            
-            iframe.contentWindow.location.hash = '#letter-' + newLetter;
+            if (iframe && iframe.contentWindow) {
+                iframe.contentWindow.postMessage({ type: 'prevLetter' }, '*');
+            }
             return;
         }
         
@@ -1163,15 +1158,10 @@
         
         // Handle glossary tab - cycle through letters
         if (state.layer === 'glossary') {
-            const letters = 'ABCDEFGHIJKLMNOPQRSTUVWXYZ'.split('');
             const iframe = document.querySelector('#glossary-frame');
-            const currentHash = iframe.contentWindow.location.hash || '';
-            const currentLetter = currentHash.replace('#letter-', '') || 'A';
-            const currentIndex = letters.indexOf(currentLetter);
-            const nextIndex = (currentIndex + 1) % letters.length;
-            const newLetter = letters[nextIndex];
-            
-            iframe.contentWindow.location.hash = '#letter-' + newLetter;
+            if (iframe && iframe.contentWindow) {
+                iframe.contentWindow.postMessage({ type: 'nextLetter' }, '*');
+            }
             return;
         }
         
