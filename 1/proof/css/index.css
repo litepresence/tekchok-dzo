@@ -2,6 +2,10 @@
         --font-main: 'Georgia', 'Times New Roman', serif;
         --font-mono: 'Consolas', 'Courier New', monospace;
         --hover-brightness: 140%;
+        --border-brightness: 50%;
+        --border-shade-color: white;
+        --color-contents: #805533;
+        --button-border: color-mix(in srgb, var(--color-contents), var(--border-shade-color) var(--border-brightness));
         /* Light mode */
         --color-bg: #f9f7f1;
         --color-text: #2a2a2a;
@@ -17,21 +21,7 @@
         --color-toggle-text: #333;
         --color-toggle-border: #999;
         --color-toggle-hover: #eee;
-        /* Layer colors */
-/*        --color-tibetan: #2c5f7f;
-        --color-wylie: #5d4037;
-        --color-literal: #2e7d32;
-        --color-liturgical: #6a1b9a;
-        --color-commentary: #f57c00;
-        --color-scholar: #00838f;
-        --color-epistemic: #ad1457;
-        --color-delusion: #c62828;
-        --color-cognitive: #455a64;
-        --color-glossary: #556b2f;
-        --color-contents: #b7c5cc;*/
-    }
-
-    /* Dark mode variable overrides */
+        /* Dark mode variable overrides */
     body.dark-mode {
         --color-bg: #1a1a1a;
         --color-bg-secondary: #2d2d2d;
@@ -47,24 +37,44 @@
         --color-toggle-border: #666;
         --color-toggle-hover: #444;
         --color-contents: #37474f;
+        --button-border: color-mix(in srgb, var(--color-contents), white, var(--border-brightness));
+    }
     }
 
-    /* Light mode - burnt umber buttons */
-    body:not(.dark-mode) {
+    :root {
+        --font-main: 'Georgia', 'Times New Roman', serif;
+        --font-mono: 'Consolas', 'Courier New', monospace;
+        --hover-brightness: 140%;
+        --border-brightness: 50%;
         --color-contents: #805533;
-        --color-toggle-border: #5a3d24;
-        --color-toggle-hover: #a07050;
-    }
-
-    /* Light mode button styles */
-    body:not(.dark-mode) .nav-tab,
-    body:not(.dark-mode) .layer-dropdown,
-    body:not(.dark-mode) .chapter-dropdown,
-    body:not(.dark-mode) .toolbar-nav-btn,
-    body:not(.dark-mode) .dark-mode-toggle {
-        background: #805533;
-        border-color: #5a3d24;
-        color: #fff;
+        --button-border: color-mix(in srgb, var(--color-contents), white, var(--border-brightness));
+        /* Light mode */
+        --color-bg: #f9f7f1;
+        --color-text: #2a2a2a;
+        --color-muted: #666;
+        --color-accent: #8b5a2b;
+        --color-bg-secondary: #f9f7f1;
+        --color-bg-tertiary: #f5f5f5;
+        --color-border: #ddd;
+        --color-shadow: rgba(0, 0, 0, 0.1);
+        --color-nav-bg: #f9f7f1;
+        --color-nav-border: #ddd;
+        --color-toggle-bg: #f9f7f1;
+        --color-toggle-text: #333;
+        --color-toggle-border: #999;
+        --color-toggle-hover: #eee;
+        /* Unified layer colors */
+        --color-tibetan: #2c5f7f;
+        --color-wylie: #5d4037;
+        --color-literal: #2e7d32;
+        --color-liturgical: #6a1b9a;
+        --color-commentary: #f57c00;
+        --color-scholar: #00838f;
+        --color-epistemic: #ad1457;
+        --color-delusion: #c62828;
+        --color-cognitive: #455a64;
+        --color-glossary: #556b2f;
+        --color-contents-nav: #b7c5cc;
     }
 
     * {
@@ -120,7 +130,7 @@
 
     .dark-mode-toggle {
         padding: 0.4em 0.8em;
-        border: 1px solid var(--color-toggle-border);
+        border: 1px solid var(--button-border);
         border-radius: 4px;
         background: var(--color-contents);
         color: var(--color-text);
@@ -146,7 +156,7 @@
 
     .nav-tab {
         padding: 0.4em 0.8em;
-        border: 1px solid var(--color-toggle-border);
+        border: 1px solid var(--button-border);
         border-radius: 4px;
         background: var(--color-contents);
         font-family: var(--font-main);
@@ -194,7 +204,7 @@
     .layer-dropdown {
         background: var(--color-contents);
         color: var(--color-text);
-        border: 1px solid var(--color-toggle-border);
+        border: 1px solid var(--button-border);
         border-radius: 4px;
         padding: 0.4em 0.8em;
         font-family: var(--font-main);
@@ -218,7 +228,7 @@
     }
 
     .layer-dropdown:focus {
-        box-shadow: 0 0 0 2px rgba(255,255,255,0.3);
+        box-shadow: none;
     }
 
     .layer-dropdown option {
@@ -229,7 +239,7 @@
     .chapter-dropdown {
         background: var(--color-contents);
         color: var(--color-text);
-        border: 1px solid var(--color-toggle-border);
+        border: 1px solid var(--button-border);
         border-radius: 4px;
         padding: 0.4em 0.8em;
         font-family: var(--font-main);
@@ -253,7 +263,7 @@
     }
 
     .chapter-dropdown:focus {
-        box-shadow: 0 0 0 2px rgba(255,255,255,0.3);
+        box-shadow: none;
     }
 
     .chapter-dropdown option {
@@ -264,7 +274,7 @@
     .toolbar-nav-btn {
         background: var(--color-contents);
         color: var(--color-text);
-        border: 1px solid var(--color-toggle-border);
+        border: 1px solid var(--button-border);
         border-radius: 4px;
         padding: 0.4em 0.8em;
         font-family: var(--font-main);
