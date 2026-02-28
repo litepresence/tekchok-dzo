@@ -1,5 +1,3 @@
-# Editorial Conventions: Artifacts Layer
-
 ## What Is the Artifacts Layer?
 
 The Artifacts Layer documents the technical metadata and processing
@@ -121,11 +119,4 @@ Raw → [Artifacts documents this process] → Tibetan
 
 It does not contain interpretive material but rather meta-data about
 the creation of the Tibetan Layer.
-
-## Limitations
-
-The Artifacts Layer reflects the digitization technology and editorial
-standards of 2026. Future advances in OCR may enable more precise
-character recognition. This layer preserves the state of the art at
-the time of publication.
 

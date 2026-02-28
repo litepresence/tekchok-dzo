@@ -1,8 +1,4 @@
-# Editorial Conventions: Commentary Layer
-
-## ⚠️ RESTRICTED TEACHINGS — HEART INSTRUCTION
-
-**This layer contains commentary on advanced Dzogchen teachings.**
+## What Is the Commentary Layer?
 
 The Commentary Layer presents heart-instruction (*man ngag*) designed to support recognition of mind's nature. These are not casual reading materials.
 
@@ -206,10 +202,3 @@ The voices represent stylized channeling of historical masters, not their actual
 **Use it as:** Support for understanding, one perspective among many, study aid
 **Not as:** Historical master's actual words, substitute for teacher guidance, definitive authority
 
----
-
-**For further reading:**
-- Voice system details: /protocol/voices.md
-- Metaphor rotation: /protocol/metaphors.md
-- Voice emphasis by chapter: /contents/voice_contents.md
-- Quality exemplars: /protocol/exemplars.md

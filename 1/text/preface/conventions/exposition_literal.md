@@ -1,5 +1,3 @@
-# Editorial Conventions: Literal Layer
-
 ## What Is the Literal Layer?
 
 The Literal Layer is a *Dpyad kyi bshad pa*—an analytical translation
@@ -128,14 +126,4 @@ Liturgical Layer adds flesh and breath.
 This layer is not meant to be read continuously. It is a reference
 tool, a grammatical map, a syntactic scaffold. For actual reading, see
 the Liturgical Layer.
-
-## Verification
-
-The Literal Layer was verified through:
-- 1:1 character preservation checks
-- Grammatical accuracy review
-- Syllable-by-syllable alignment
-- Cross-reference with Wylie parsing
-
-We affirm its accuracy as a grammatical instrument, not as literature.
 

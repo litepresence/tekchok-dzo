@@ -38,12 +38,6 @@ document.addEventListener('DOMContentLoaded', function() {
         'cognitive': 'Cognitive'
     };
     
-    // Update header subtitle with layer name
-    const subtitle = document.querySelector('header .subtitle');
-    if (subtitle && layerNames[layer]) {
-        subtitle.textContent = layerNames[layer] + ' Layer';
-    }
-    
     // Hide all sections except the selected one
     const sections = document.querySelectorAll('.convention-section');
     sections.forEach(section => {

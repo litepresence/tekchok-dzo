@@ -69,7 +69,7 @@ def parse_entry(lines):
             entry["content"].append(line_stripped)
 
     # Join and process content
-    entry["content_text"] = " ".join(entry["content"])
+    entry["content_text"] = html.escape(" ".join(entry["content"]))
     
     # Highlight Tibetan text
     entry["content_text"] = highlight_tibetan(entry["content_text"])
@@ -137,11 +137,7 @@ def generate_file_html(parsed_lines, filename):
 
         # Content
         if entry["content_text"]:
-            content_escaped = html.escape(entry["content_text"])
-            # Restore the span tags we intentionally added
-            content_escaped = content_escaped.replace('&lt;span class=&quot;term&quot;&gt;', '<span class="term">')
-            content_escaped = content_escaped.replace('&lt;span class=&quot;tibetan-inline&quot;&gt;', '<span class="tibetan-inline">')
-            content_escaped = content_escaped.replace('&lt;/span&gt;', '</span>')
+            content_escaped = entry["content_text"]
             html_parts.append(f'  <div class="commentary-content">{content_escaped}</div>')
 
         html_parts.append('</div>')

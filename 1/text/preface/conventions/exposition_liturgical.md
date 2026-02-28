@@ -1,5 +1,3 @@
-# Editorial Conventions: Liturgical Layer
-
 ## What Is the Liturgical Layer?
 
 The Liturgical Layer is the *sgrub pa'i gleng gzhi*—the basis for
@@ -152,19 +150,4 @@ Use as the reading text for:
 - Commentarial explanations
 - Public readings
 - Retreat recitations
-
-## Editorial Standards
-
-**Quality Verification:**
-- Metaphysical precision check
-- Read-aloud test (does it chant?)
-- Capitalization audit
-- Terminology review
-- Line count verification
-
-**Sacred Boundaries:**
-- No commentary within the liturgy
-- No explanatory footnotes
-- No scholarly apparatus
-- Pure text only
 

@@ -1,5 +1,3 @@
-# Editorial Conventions: Tibetan Layer
-
 ## What Is the Tibetan Layer?
 
 The Tibetan Layer is the *Tshad ma*—the Source of Validity—for this

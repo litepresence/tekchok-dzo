@@ -36,7 +36,7 @@ def process_conventions():
                 content = f.read()
             
             html_content = markdown.markdown(content, extensions=['tables', 'fenced_code'])
-            sections.append(f'<section id="{anchor}" class="convention-section">\n<h2>{title}</h2>\n{html_content}\n</section>')
+            sections.append(f'<section id="{anchor}" class="convention-section">{html_content}\n</section>')
             toc_items.append(f'<li><a href="#{anchor}">{title}</a></li>')
             print(f"  ✓ Processed: {filename}")
         else:
@@ -50,17 +50,12 @@ def process_conventions():
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Editorial Conventions - Treasury of the Supreme Vehicle</title>
     <meta name="created" content="{datetime.now().isoformat()}">
     <link rel="stylesheet" href="../css/conventions.css">
     <script src="../js/conventions.js"></script>
 </head>
 <body>
     <div class="container">
-        <header>
-            <h1>Editorial Conventions</h1>
-            <div class="subtitle">Translation Layer Methodologies</div>
-        </header>
         {toc_html}
         <main>
             {content_html}

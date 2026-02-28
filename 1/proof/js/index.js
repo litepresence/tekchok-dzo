@@ -276,7 +276,16 @@
         if (!indicator || !state.volume || !state.chapter) {
             return;
         }
-        indicator.textContent = 'VOLUME ' + state.volume + ' - CHAPTER ' + state.chapter;
+
+
+        if (state.layer === 'conventions')  {
+            const iframe = document.querySelector('#conventions-frame');
+            const currentParams = new URLSearchParams(iframe.src.split('?')[1] || '');
+            const currentLayer = currentParams.get('layer') || 'liturgical';
+            indicator.textContent = currentLayer.toUpperCase();
+        } else {
+            indicator.textContent = 'VOLUME ' + state.volume + ' - CHAPTER ' + state.chapter;
+        }
     }
     
     // Set volume (derived from ALN, but can be set explicitly for backward compat)

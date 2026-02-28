@@ -65,7 +65,7 @@ def parse_entry(lines):
             entry["content"].append(line_stripped)
 
     # Join and process content
-    entry["content_text"] = " ".join(entry["content"])
+    entry["content_text"] = html.escape(" ".join(entry["content"]))
     
     # Highlight Tibetan text
     entry["content_text"] = highlight_tibetan(entry["content_text"])
@@ -139,7 +139,7 @@ def generate_file_html(parsed_lines, filename):
 
         if entry["content_text"]:
             html_parts.append(f'  <span class="line-range">[{entry["line_range"]}]</span>')
-            html_parts.append(f'  <span class="cognitive-content">{html.escape(entry["content_text"])}</span>')
+            html_parts.append(f'  <span class="cognitive-content">{entry["content_text"]}</span>')
 
         html_parts.append('</div>')
 

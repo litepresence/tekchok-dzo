@@ -1,5 +1,3 @@
-# Editorial Conventions: Introduction Layer
-
 ## What Is the Introduction Layer?
 
 The Introduction Layer provides contextual summaries for each of the

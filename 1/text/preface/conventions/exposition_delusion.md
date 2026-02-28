@@ -1,6 +1,4 @@
-# Editorial Conventions: Delusion Layer
-
-## What This Layer Does
+## What Is the Delusion Layer?
 
 The Delusion Layer is *log pa spang ba'i srung skyob*—protection through abandoning error. It identifies where readers go wrong, why those errors are attractive, and how they propagate downstream. This is a diagnostic system, not a corrective teaching.
 
@@ -156,22 +154,3 @@ This maps common errors. Use it to:
 
 **Not as:** The only possible errors. Other misreadings exist.
 
-## ⚠️ Limitations
-
-**One Person's Mapping:** This represents one analysis of errors. Other practitioners or scholars might identify different or additional errors.
-
-**AI-Assisted:** Generated with Kimi 2.5 assistance. Human curated, but AI produced much of the content.
-
-**Not Exhaustive:** Documents common errors, not every possible misinterpretation.
-
-**Not Peer-Reviewed:** No lineage board has verified these classifications.
-
-**Safety-Critical Sections:** Extra attention to Chapters 17-25 (advanced practices), but no guarantee of catching all dangers.
-
-**Restricted Source:** Analysis of restricted Dzogchen text. Use responsibly.
-
----
-
-**For further reading:**
-- Error taxonomy: /protocol/error_types.md
-- Safety guidelines: /protocol/advanced_practices.md

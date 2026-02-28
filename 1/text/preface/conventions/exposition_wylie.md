@@ -1,5 +1,3 @@
-# Editorial Conventions: Wylie Layer
-
 ## What Is the Wylie Layer?
 
 The Wylie Layer serves as the *Lam*—the Bridge—between Tibetan script

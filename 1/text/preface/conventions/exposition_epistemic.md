@@ -1,5 +1,3 @@
-# Editorial Conventions: Epistemic Layer
-
 ## What Is the Epistemic Layer?
 
 The Epistemic Layer is *lta ba'i rim pa dang shes pa'i go rim*—the
@@ -157,19 +155,3 @@ Use to:
 - Distinguish upaya from ultimate truth
 - Prevent student confusion about view levels
 - Navigate complex hermeneutical passages
-
-## A Note on Ambiguity
-
-If a passage is deliberately ambiguous, mark the ambiguity. Do not
-resolve it. Longchenpa sometimes speaks in ways that resist
-categorization. The Epistemic Layer respects this by noting:
-
-```
-[start-end]
-<view>ambiguous</view>
-<classification>
-Passage deliberately resists view classification. Longchenpa
-employs non-assertive language that neither affirms nor negates.
-</classification>
-```
-
