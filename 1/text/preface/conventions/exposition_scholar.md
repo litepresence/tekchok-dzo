@@ -82,22 +82,6 @@ Unpacks dense philosophy:
 - Cites sources and authorities
 - Distinguishes view from practice
 
-## XML Tagging Format
-
-```xml
-[1-4] <structure>
-<analysis>
-This section initiates the explanation of the Base (*gzhi*).
-Longchenpa moves from homage to definition of primordial state.
-</analysis>
-
-[5-7] <philology>
-<analysis>
-The particle *kyis* functions as instrumental marker here,
-indicating means rather than agency. Term *rig pa* denotes...
-</analysis>
-```
-
 ## Terminology Standards
 
 **Wylie Usage:**

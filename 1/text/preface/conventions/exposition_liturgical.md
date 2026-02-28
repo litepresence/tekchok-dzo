@@ -84,40 +84,6 @@ This enables precise cross-reference with:
 - Commentary (lines 8-12)
 - Scholar analysis (lines 1-15)
 
-## Strict 1:1 Line Count
-
-**Every Tibetan line = exactly ONE liturgical line.**
-
-No splitting. No combining. The line count must match the Tibetan
-Layer exactly. This preserves:
-- Structural correspondence
-- Cross-reference accuracy
-- Textual integrity
-
-## Capitalization (Strict)
-
-**Always Capitalize:**
-- Buddha, Samantabhadra, Padmasambhava
-- Dharmakaya, Sambhogakaya, Nirmāṇakāya
-- Ground, View, Path, Fruition
-- Proper names and titles
-
-**Never Capitalize:**
-- rigpa, awareness (unless title)
-- mind, consciousness
-- ordinary terms
-
-**Context-Dependent:**
-- buddha (generic) vs Buddha (Śākyamuni)
-
-## Terminology
-
-Follow **dictionary.md** with Vairotsana flexibility:
-- Prioritize metaphysical accuracy
-- Allow elegance for flow
-- Core Dzogchen terms: rig pa, ka dag, lhun grub
-- Choose transmission over rigid adherence
-
 ## Sacred Function
 
 This is not merely translation. It is **transformation of syntax into

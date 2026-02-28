@@ -91,36 +91,6 @@ Sutric logic mistaken for Dzogchen view.
 `<risk:practice-misread-as-ontology>`
 Method confused with reality.
 
-## Output Format
-
-```xml
-[start-end]
-<view>dzogchen-rigpa</view>
-<pedagogy>declarative-finality</pedagogy>
-<risk>reification</risk>
-<classification>
-Although the language appears to assert primordial awareness as
-substance, the passage operates from rigpa-side view. Read as
-direct pointing, not ontological claim.
-</classification>
-```
-
-## Absolute Constraints
-
-**Never:**
-- Offer practice advice
-- Use devotional language
-- Assert what is "ultimately true"
-- Restate the passage content
-- Correct Longchenpa
-- Invent new view categories
-
-**Always:**
-- Classify stance only
-- Mark ambiguity explicitly
-- Use standardized tags
-- Maintain neutral tone
-
 ## The Danger of View Collapse
 
 Longchenpa deliberately speaks from multiple registers, sometimes

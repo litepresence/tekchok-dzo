@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="created" content="2026-02-28T11:18:44.787682">
+    <meta name="created" content="2026-02-28T11:33:45.646033">
     <link rel="stylesheet" href="../css/conventions.css">
     <script src="../js/conventions.js"></script>
 </head>
@@ -268,13 +268,6 @@ beautiful. It sacrifices English fluency to expose Tibetan structure.</p>
 <p>Liturgical (for comparison):</p>
 <pre><code>From the primordial pure, where all elaborations cease
 </code></pre>
-<h2>Status: Frozen</h2>
-<p><strong>The Literal Layer is complete and immutable.</strong></p>
-<p>As of February 10, 2026, this layer has been:
-- Generated for all 213 sections
-- Verified against Tibetan source
-- Locked against further modification</p>
-<p>It serves as the unchanging grammatical foundation for the project.</p>
 <h2>Using This Layer</h2>
 <p><strong>For Translators</strong></p>
 <p>The Literal Layer provides the grammatical skeleton. Use it to:
@@ -362,31 +355,6 @@ Sacred syllables. Transliterated only, never translated.</p>
 - Tibetan source (line 10)
 - Commentary (lines 8-12)
 - Scholar analysis (lines 1-15)</p>
-<h2>Strict 1:1 Line Count</h2>
-<p><strong>Every Tibetan line = exactly ONE liturgical line.</strong></p>
-<p>No splitting. No combining. The line count must match the Tibetan
-Layer exactly. This preserves:
-- Structural correspondence
-- Cross-reference accuracy
-- Textual integrity</p>
-<h2>Capitalization (Strict)</h2>
-<p><strong>Always Capitalize:</strong>
-- Buddha, Samantabhadra, Padmasambhava
-- Dharmakaya, Sambhogakaya, Nirmāṇakāya
-- Ground, View, Path, Fruition
-- Proper names and titles</p>
-<p><strong>Never Capitalize:</strong>
-- rigpa, awareness (unless title)
-- mind, consciousness
-- ordinary terms</p>
-<p><strong>Context-Dependent:</strong>
-- buddha (generic) vs Buddha (Śākyamuni)</p>
-<h2>Terminology</h2>
-<p>Follow <strong>dictionary.md</strong> with Vairotsana flexibility:
-- Prioritize metaphysical accuracy
-- Allow elegance for flow
-- Core Dzogchen terms: rig pa, ka dag, lhun grub
-- Choose transmission over rigid adherence</p>
 <h2>Sacred Function</h2>
 <p>This is not merely translation. It is <strong>transformation of syntax into
 transmission.</strong></p>
@@ -525,21 +493,6 @@ Alternatives to formal transitions:
 <p>Read Liturgical to receive the transmission.
 Read Commentary to understand what you received.
 Return to Liturgical with new eyes.</p>
-<h2>Editorial Standards</h2>
-<p><strong>Voice Requirements (per section):</strong>
-- 6+ distinct voices rotating
-- Specific line ranges [XXX-XXX] for every block
-- Concrete metaphors (no generic spiritual imagery)
-- Varying sentence length
-- One mirror moment per section
-- Practice obstacle reference</p>
-<p><strong>Quality Verification:</strong>
-- Voices distinct without labels?
-- Metaphors fresh (no repetition within 5 sections)?
-- Variety in tone (peaceful, fierce-yet-spacious, earthy)?
-- Longchenpa bridges effectively?
-- Authentic "Patrul-like" moments?
-- Resonating rather than forcing?</p>
 <p><strong>Final Test:</strong> Read aloud. Should feel like living masters gathered in heart-recognition—warm, inviting, spacious, even in fierce voices.</p>
 <h2>Methodology Note</h2>
 <p>The Commentary Layer was generated using Kimi K2.5 (Moonshot AI) over three weeks, with extensive human prompting, curation, and refinement by one practitioner.</p>
@@ -627,19 +580,6 @@ The voices represent stylized channeling of historical masters, not their actual
 - Maintains analytical distance
 - Cites sources and authorities
 - Distinguishes view from practice</p>
-<h2>XML Tagging Format</h2>
-<pre><code class="language-xml">[1-4] &lt;structure&gt;
-&lt;analysis&gt;
-This section initiates the explanation of the Base (*gzhi*).
-Longchenpa moves from homage to definition of primordial state.
-&lt;/analysis&gt;
-
-[5-7] &lt;philology&gt;
-&lt;analysis&gt;
-The particle *kyis* functions as instrumental marker here,
-indicating means rather than agency. Term *rig pa* denotes...
-&lt;/analysis&gt;
-</code></pre>
 <h2>Terminology Standards</h2>
 <p><strong>Wylie Usage:</strong>
 - Technical terms in Wylie: <em>rig pa</em>, <em>kun gzhi</em>
@@ -759,30 +699,6 @@ Tendency to negate into annihilation.</p>
 Sutric logic mistaken for Dzogchen view.</p>
 <p><code>&lt;risk:practice-misread-as-ontology&gt;</code>
 Method confused with reality.</p>
-<h2>Output Format</h2>
-<pre><code class="language-xml">[start-end]
-&lt;view&gt;dzogchen-rigpa&lt;/view&gt;
-&lt;pedagogy&gt;declarative-finality&lt;/pedagogy&gt;
-&lt;risk&gt;reification&lt;/risk&gt;
-&lt;classification&gt;
-Although the language appears to assert primordial awareness as
-substance, the passage operates from rigpa-side view. Read as
-direct pointing, not ontological claim.
-&lt;/classification&gt;
-</code></pre>
-<h2>Absolute Constraints</h2>
-<p><strong>Never:</strong>
-- Offer practice advice
-- Use devotional language
-- Assert what is "ultimately true"
-- Restate the passage content
-- Correct Longchenpa
-- Invent new view categories</p>
-<p><strong>Always:</strong>
-- Classify stance only
-- Mark ambiguity explicitly
-- Use standardized tags
-- Maintain neutral tone</p>
 <h2>The Danger of View Collapse</h2>
 <p>Longchenpa deliberately speaks from multiple registers, sometimes
 within a single paragraph. The Epistemic Layer prevents readers from:</p>
@@ -862,18 +778,6 @@ within a single paragraph. The Epistemic Layer prevents readers from:</p>
 **Cascade effects:**
 &lt;error-type&gt; → &lt;error-type&gt; → &lt;error-type&gt;
 </code></pre>
-<h2>Absolute Constraints</h2>
-<p><strong>Never:</strong>
-- State the correct view (the text does that)
-- Offer practice guidance
-- Quote other texts
-- Soften or psychologize errors
-- Merge distinct errors</p>
-<p><strong>Always:</strong>
-- Be stark and clinical
-- Map specific failure modes
-- Trace actual consequences
-- Name cascade effects when clear</p>
 <h2>Three Safety Functions</h2>
 <p><strong>1. Error Detection</strong>
 Names specific misreadings before they stabilize into wrong view.</p>
@@ -985,6 +889,15 @@ The space between comprehension and articulation—when the translator fully gra
 <li><strong>Non-Explanatory:</strong> Already understood</li>
 </ul>
 <p>The voice: <strong>"Yes. This is clear. Note this."</strong></p>
+<h2>The Space Between</h2>
+<p>This layer documents what no other layer captures:</p>
+<p><strong>Tibetan:</strong> The source (already there)
+<strong>Literal:</strong> Grammar mapped (mechanical)
+<strong>Liturgical:</strong> Meaning rendered (after decisions)
+<strong>Commentary:</strong> Teaching delivered (for others)
+<strong>Cognitive:</strong> Understanding documented (for self)</p>
+<p>It is the translator's notebook, the Lotsawa's whisper, the moment
+of clarity before the words are chosen.</p>
 <h2>Output Format</h2>
 <pre><code>[start-end]
 [Single paragraph of internal self-talk. No headings. No bullets.
@@ -995,43 +908,6 @@ translation risks, and preservation requirements.]
 [Next paragraph. Vary length. Short and punchy or long and flowing.
 All calm, settled, certain.]
 </code></pre>
-<h2>Content Requirements (Implicit)</h2>
-<p>Each paragraph covers, without naming:</p>
-<ol>
-<li><strong>Structural Function:</strong> What the text is doing</li>
-<li><strong>View Register:</strong> Sutric/Dzogchen-sems/Dzogchen-rigpa</li>
-<li><strong>Translation Risks:</strong> Where errors could arise</li>
-<li><strong>Preservation Requirements:</strong> What must remain intact</li>
-</ol>
-<p>Do NOT:
-- Explain doctrine
-- Interpret meaning
-- Justify choices
-- Resolve ambiguity</p>
-<h2>Absolute Constraints</h2>
-<p><strong>Never:</strong>
-- Ask questions
-- Use uncertainty language
-- Propose hypotheses
-- Say "this might mean"
-- Give practice instruction
-- Use emotive/devotional color
-- Comment on the task itself</p>
-<p><strong>Always:</strong>
-- Recognize structure
-- Recognize register
-- Recognize particle force
-- Recognize transition
-- Note what must not be smoothed</p>
-<h2>The Space Between</h2>
-<p>This layer documents what no other layer captures:</p>
-<p><strong>Tibetan:</strong> The source (already there)
-<strong>Literal:</strong> Grammar mapped (mechanical)
-<strong>Liturgical:</strong> Meaning rendered (after decisions)
-<strong>Commentary:</strong> Teaching delivered (for others)
-<strong>Cognitive:</strong> Understanding documented (for self)</p>
-<p>It is the translator's notebook, the Lotsawa's whisper, the moment
-of clarity before the words are chosen.</p>
 <h2>Example Output</h2>
 <pre><code>[24-27]
 Scope declaration. From vast dharma ocean to this specific mdzod

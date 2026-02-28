@@ -76,17 +76,6 @@ Liturgical (for comparison):
 From the primordial pure, where all elaborations cease
 ```
 
-## Status: Frozen
-
-**The Literal Layer is complete and immutable.**
-
-As of February 10, 2026, this layer has been:
-- Generated for all 213 sections
-- Verified against Tibetan source
-- Locked against further modification
-
-It serves as the unchanging grammatical foundation for the project.
-
 ## Using This Layer
 
 **For Translators**

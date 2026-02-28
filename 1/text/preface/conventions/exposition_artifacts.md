@@ -48,25 +48,6 @@ Every conscious editorial choice is documented:
 - Handling of unclear passages
 - Normalization decisions
 
-## XML Schema
-
-The Artifacts Layer uses a structured XML format:
-
-```xml
-<artifact section="VV-CC-SS-SS">
-  <source edition="Derge" page="N" confidence="0.95"/>
-  <alternatives>
-    <char position="X" recognized="A" candidates="A,B,C"/>
-  </alternatives>
-  <anomalies>
-    <item line="N" type="illegible_char" confidence="low"/>
-  </anomalies>
-  <editorial>
-    <decision line="N" action="preserved_original" reason="context"/>
-  </editorial>
-</artifact>
-```
-
 ## Transparency and Accountability
 
 This layer embodies our commitment to editorial transparency. In

@@ -151,24 +151,6 @@ Read Liturgical to receive the transmission.
 Read Commentary to understand what you received.
 Return to Liturgical with new eyes.
 
-## Editorial Standards
-
-**Voice Requirements (per section):**
-- 6+ distinct voices rotating
-- Specific line ranges [XXX-XXX] for every block
-- Concrete metaphors (no generic spiritual imagery)
-- Varying sentence length
-- One mirror moment per section
-- Practice obstacle reference
-
-**Quality Verification:**
-- Voices distinct without labels?
-- Metaphors fresh (no repetition within 5 sections)?
-- Variety in tone (peaceful, fierce-yet-spacious, earthy)?
-- Longchenpa bridges effectively?
-- Authentic "Patrul-like" moments?
-- Resonating rather than forcing?
-
 **Final Test:** Read aloud. Should feel like living masters gathered in heart-recognition—warm, inviting, spacious, even in fierce voices.
 
 ## Methodology Note

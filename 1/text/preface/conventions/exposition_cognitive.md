@@ -68,52 +68,6 @@ The space between comprehension and articulation—when the translator fully gra
 
 The voice: **"Yes. This is clear. Note this."**
 
-## Output Format
-
-```
-[start-end]
-[Single paragraph of internal self-talk. No headings. No bullets.
-No lists. No questions. Quiet recognition of structure, register,
-translation risks, and preservation requirements.]
-
-[start-end]
-[Next paragraph. Vary length. Short and punchy or long and flowing.
-All calm, settled, certain.]
-```
-
-## Content Requirements (Implicit)
-
-Each paragraph covers, without naming:
-
-1. **Structural Function:** What the text is doing
-2. **View Register:** Sutric/Dzogchen-sems/Dzogchen-rigpa
-3. **Translation Risks:** Where errors could arise
-4. **Preservation Requirements:** What must remain intact
-
-Do NOT:
-- Explain doctrine
-- Interpret meaning
-- Justify choices
-- Resolve ambiguity
-
-## Absolute Constraints
-
-**Never:**
-- Ask questions
-- Use uncertainty language
-- Propose hypotheses
-- Say "this might mean"
-- Give practice instruction
-- Use emotive/devotional color
-- Comment on the task itself
-
-**Always:**
-- Recognize structure
-- Recognize register
-- Recognize particle force
-- Recognize transition
-- Note what must not be smoothed
-
 ## The Space Between
 
 This layer documents what no other layer captures:
@@ -126,6 +80,19 @@ This layer documents what no other layer captures:
 
 It is the translator's notebook, the Lotsawa's whisper, the moment
 of clarity before the words are chosen.
+
+## Output Format
+
+```
+[start-end]
+[Single paragraph of internal self-talk. No headings. No bullets.
+No lists. No questions. Quiet recognition of structure, register,
+translation risks, and preservation requirements.]
+
+[start-end]
+[Next paragraph. Vary length. Short and punchy or long and flowing.
+All calm, settled, certain.]
+```
 
 ## Example Output
 
