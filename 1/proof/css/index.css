@@ -2,11 +2,12 @@
         --font-main: 'Georgia', 'Times New Roman', serif;
         --font-mono: 'Consolas', 'Courier New', monospace;
         /* Light mode */
-        --color-bg: #fafafa;
+        --color-bg: #f9f7f1;
+        --color-text: #2a2a2a;
+        --color-muted: #666;
+        --color-accent: #8b5a2b;
         --color-bg-secondary: #fff;
         --color-bg-tertiary: #f5f5f5;
-        --color-text: #1a1a1a;
-        --color-muted: #666;
         --color-border: #ddd;
         --color-shadow: rgba(0, 0, 0, 0.1);
         --color-nav-bg: #fff;
@@ -16,7 +17,7 @@
         --color-toggle-border: #999;
         --color-toggle-hover: #eee;
         /* Layer colors */
-        --color-tibetan: #2c5f7f;
+/*        --color-tibetan: #2c5f7f;
         --color-wylie: #5d4037;
         --color-literal: #2e7d32;
         --color-liturgical: #6a1b9a;
@@ -26,7 +27,7 @@
         --color-delusion: #c62828;
         --color-cognitive: #455a64;
         --color-glossary: #556b2f;
-        --color-contents: #b7c5cc;
+        --color-contents: #b7c5cc;*/
     }
 
     /* Dark mode variable overrides */
