@@ -102,10 +102,12 @@
         border: 1px solid var(--color-toggle-border);
         border-radius: 4px;
         background: var(--color-toggle-bg);
-        color: var(--color-toggle-text);
-        font-size: 0.8em;
+        color: #fff;
+        font-family: var(--font-main);
+        font-size: 0.85em;
         cursor: pointer;
         transition: all 0.2s ease;
+        line-height: 1.4;
     }
 
     .dark-mode-toggle:hover {
@@ -113,9 +115,9 @@
     }
 
     .nav-tab {
-        padding: 0.5em 1em 0.5em 1.8em;
+        padding: 0.4em 0.8em;
         border: none;
-        border-radius: 999px;
+        border-radius: 4px;
         font-family: var(--font-main);
         font-size: 0.85em;
         cursor: pointer;
@@ -123,30 +125,16 @@
         color: #fff;
         transition: all 0.2s ease;
         white-space: nowrap;
-        position: relative;
+        line-height: 1.4;
     }
 
     .nav-tab::before {
-        content: '';
-        position: absolute;
-        left: 10px;
-        top: 50%;
-        transform: translateY(-50%);
-        width: 8px;
-        height: 8px;
-        border: 2px solid rgba(255,255,255,0.5);
-        border-radius: 50%;
-        transition: all 0.2s ease;
+        display: none;
     }
 
     .nav-tab:hover {
         transform: translateY(-1px);
         box-shadow: 0 2px 8px rgba(0, 0, 0, 0.2);
-    }
-
-    .nav-tab.active::before {
-        background: #fff;
-        border-color: #fff;
     }
 
     .nav-tab.active {
@@ -166,11 +154,6 @@
     .nav-tab.contents {
         background: var(--color-contents);
         border-radius: 4px;
-        padding: 0.5em 1em;
-    }
-
-    .nav-tab.contents::before {
-        display: none;
     }
 
     .nav-tab.contents.active {
@@ -180,11 +163,6 @@
     .nav-tab.conventions {
         background: #6d4c41;
         border-radius: 4px;
-        padding: 0.5em 1em;
-    }
-
-    .nav-tab.conventions::before {
-        display: none;
     }
 
     .nav-tab.conventions:hover {
@@ -193,14 +171,16 @@
 
     .layer-dropdown {
         background: var(--color-tibetan);
-        color: #f0f0f0;
+        color: #fff;
         border: none;
         border-radius: 4px;
         padding: 0.4em 0.8em;
-        font-family: var(--font-sans);
+        font-family: var(--font-main);
         font-size: 0.85em;
         cursor: pointer;
         outline: none;
+        height: auto;
+        line-height: 1.4;
     }
 
     .layer-dropdown:hover {
@@ -213,19 +193,21 @@
 
     .layer-dropdown option {
         background: var(--color-bg);
-        color: #f0f0f0;
+        color: #fff;
     }
 
     .chapter-dropdown {
         background: var(--color-contents);
-        color: #f0f0f0;
+        color: #fff;
         border: none;
         border-radius: 4px;
         padding: 0.4em 0.8em;
-        font-family: var(--font-sans);
+        font-family: var(--font-main);
         font-size: 0.85em;
         cursor: pointer;
         outline: none;
+        height: auto;
+        line-height: 1.4;
     }
 
     .chapter-dropdown:hover {
@@ -238,20 +220,20 @@
 
     .chapter-dropdown option {
         background: var(--color-bg);
-        color: #f0f0f0;
+        color: #fff;
     }
 
     .toolbar-nav-btn {
         background: var(--color-contents);
-        color: var(--color-text);
+        color: #fff;
         border: none;
         border-radius: 4px;
-        padding: 0.2em 0.5em;
-        font-family: var(--font-sans);
+        padding: 0.4em 0.8em;
+        font-family: var(--font-main);
         font-size: 0.85em;
         cursor: pointer;
         outline: none;
-        line-height: 1;
+        line-height: 1.4;
     }
 
     .toolbar-nav-btn:hover {
@@ -302,30 +284,20 @@
     .nav-tab.glossary {
         background: var(--color-glossary);
         border-radius: 4px;
-        padding: 0.5em 1em;
     }
 
-    .nav-tab.glossary::before {
-        display: none;
-    }
-
-        .nav-tab.glossary.active {
+    .nav-tab.glossary.active {
         box-shadow: inset 0 2px 4px rgba(0, 0, 0, 0.2);
     }
 
     .nav-tab.text-btn {
         background: var(--color-glossary);
         border-radius: 4px;
-        padding: 0.5em 1em;
         color: #f0f0f0;
         font-size: inherit;
         font-family: inherit;
         cursor: pointer;
         border: none;
-    }
-
-    .nav-tab.text-btn::before {
-        display: none;
     }
 
     .nav-tab.text-btn:hover {
@@ -661,10 +633,25 @@
     }
 
     @media (max-width: 768px) {
-        .consent-modal,
-        .consent-image-modal {
-            padding: 1em;
+        .nav-tab {
+            padding: 0.4em 0.6em;
+            font-size: 0.75em;
         }
+
+        .nav-tab.introduction {
+            padding: 0.4em 0.6em;
+            font-size: 0.75em;
+        }
+
+        .nav-tab.contents {
+            padding: 0.4em 0.6em;
+        }
+
+        .nav-divider {
+            height: 18px;
+            margin: 0 0.25em;
+        }
+    }
 
         .consent-header .main-title {
             font-size: 0.9em;
