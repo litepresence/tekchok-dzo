@@ -176,13 +176,6 @@ const chapterTitles = {section_titles};
 </script>
 <script src="../js/introduction.js"></script>
 """
-    nav_html = """
-<div class="nav-controls">
-    <button class="nav-btn" id="prevBtn" onclick="prevChapter()">Previous</button>
-    <button class="nav-btn" id="nextBtn" onclick="nextChapter()">Next</button>
-</div>
-<div class="chapter-indicator" id="sectionIndicator">Introduction</div>
-"""
     combined_content = "\n".join(sections_html)
     return f"""<!DOCTYPE html>
 <html lang="en">
@@ -199,7 +192,6 @@ const chapterTitles = {section_titles};
     <div class="document">
         {combined_content}
     </div>
-    {nav_html}
 </body>
 </html>
 """

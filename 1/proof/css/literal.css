@@ -43,7 +43,7 @@ body {
     font-family: var(--font-main);
     color: var(--color-text);
     line-height: var(--line-height);
-    font-size: 10pt;
+    font-size: 13pt;
     margin: 0;
     padding: 0;
     background-color: var(--color-bg);
@@ -52,7 +52,7 @@ body {
 }
 
 .document {
-    max-width: 5.5in;
+    max-width: 40%;
     margin: 0 auto;
     padding: 0;
 }
@@ -126,22 +126,16 @@ body {
     white-space: nowrap;
 }
 
-.line-content:target,
-.literal-line:target {
-    background-color: rgba(100, 181, 246, 0.3);
-    border-radius: 3px;
-}
-
 .highlighted-line {
-    background-color: rgba(100, 181, 246, 0.4) !important;
     border-radius: 3px;
-    animation: highlightFade 3s ease-out forwards;
+    animation: highlightFade 1s ease-out forwards;
 }
 
 @keyframes highlightFade {
-    0% { background-color: rgba(100, 181, 246, 0.4); }
-    80% { background-color: rgba(100, 181, 246, 0.3); }
-    100% { background-color: transparent; }
+    0% { background-color: rgba(100, 181, 246, 0.0); }
+    60% { background-color: rgba(100, 181, 246, 0.6); }
+    80% { background-color: rgba(100, 181, 246, 0.6); }
+    100% {  }
 }
 
 .toc {
