@@ -816,35 +816,6 @@ window.addEventListener('message', function(e) {
 });
 
 // ==========================================================================
-// LINE INDICATOR
-// ==========================================================================
-
-function showLineIndicator(layer, line, type) {
-    const names = {
-        introduction: 'Introduction',
-        tibetan: 'Tibetan',
-        glossary: 'Glossary',
-        wylie: 'Wylie',
-        literal: 'Literal',
-        liturgical: 'Liturgical',
-        commentary: 'Commentary',
-        scholar: 'Scholar',
-        epistemic: 'Epistemic',
-        delusion: 'Delusion',
-        cognitive: 'Cognitive',
-        contents: 'Contents'
-    };
-    const volumeText = state.volume ? ` (Vol ${state.volume})` : '';
-    lineIndicator.textContent = `${names[layer] || layer}: Line ${line}${type === 'range' ? ' (range)' : ''}${volumeText}`;
-    lineIndicator.classList.add('visible');
-    setTimeout(() => lineIndicator.classList.remove('visible'), 3000);
-}
-
-function hideLineIndicator() { 
-    lineIndicator.classList.remove('visible'); 
-}
-
-// ==========================================================================
 // HASH CHANGE & INITIALIZATION
 // ==========================================================================
 
