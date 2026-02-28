@@ -57,6 +57,19 @@
         print-color-adjust: exact;
     }
 
+    .line-link {
+        color: var(--color-accent);
+        text-decoration: none;
+        cursor: pointer;
+        font-family: var(--font-mono);
+        font-size: 0.9em;
+    }
+
+    .line-link:hover {
+        text-decoration: underline;
+        color: #90caf9;
+    }
+
     .document {
         max-width: 5.5in;
         margin: 0 auto;

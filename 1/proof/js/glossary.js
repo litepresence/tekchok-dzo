@@ -20,6 +20,14 @@
         }
     }
     
+    function handleLineLinkClick(e) {
+        e.preventDefault();
+        const lineNum = e.target.getAttribute('data-line');
+        if (lineNum && window.parent) {
+            window.parent.postMessage({ type: 'navigateToLine', line: parseInt(lineNum) }, '*');
+        }
+    }
+    
     document.addEventListener('DOMContentLoaded', function() {
         const isDark = localStorage.getItem('darkMode') !== 'false';
         if (!isDark) document.body.classList.add('light-mode');
@@ -29,6 +37,11 @@
         if (hash && hash.startsWith('#letter-')) {
             currentLetter = hash.replace('#letter-', '');
         }
+        
+        // Add click handlers for line links
+        document.querySelectorAll('.line-link').forEach(function(link) {
+            link.addEventListener('click', handleLineLinkClick);
+        });
     });
     
     window.addEventListener('message', function(e) {

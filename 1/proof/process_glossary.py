@@ -189,6 +189,15 @@ class GlossaryConverter:
         # Convert links
         content = re.sub(r'\[(.+?)\]\((.+?)\)', r'<a href="\2">\1</a>', content)
         
+        # Convert First Appearance references to clickable links
+        # Pattern: VV-CC-SS-ss:LINE (e.g., 01-08-01-01:10472)
+        def make_line_link(match):
+            full_ref = match.group(0)
+            line_num = match.group(2)  # group(2) is the line number after the colon
+            return f'<a href="#" class="line-link" data-line="{line_num}">{full_ref}</a>'
+        
+        content = re.sub(r'\b(\d{2}-\d{2}-\d{2}-\d{2}):(\d+)\b', make_line_link, content)
+        
         return content
     
     def parse_headers(self, content: str) -> str:
