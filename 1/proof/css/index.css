@@ -26,7 +26,7 @@
         --color-delusion: #c62828;
         --color-cognitive: #455a64;
         --color-glossary: #556b2f;
-        --color-contents: #37474f;
+        --color-contents: #b7c5cc;
     }
 
     /* Dark mode variable overrides */
@@ -44,6 +44,7 @@
         --color-toggle-text: #fff;
         --color-toggle-border: #666;
         --color-toggle-hover: #444;
+        --color-contents: #37474f;
     }
 
     * {
@@ -102,7 +103,7 @@
         border: 1px solid var(--color-toggle-border);
         border-radius: 4px;
         background: var(--color-contents);
-        color: #fff;
+        color: var(--color-text);
         font-family: var(--font-main);
         font-size: 0.85em;
         cursor: pointer;
@@ -119,7 +120,7 @@
     }
 
     .dark-mode-toggle:hover {
-        background: #4a5a68;
+        filter: brightness(110%);
         transform: translateY(-1px);
     }
 
@@ -132,7 +133,8 @@
         font-size: 0.85em;
         cursor: pointer;
         text-decoration: none;
-        color: #fff;
+        color: var(--color-text);
+        text-align: center;
         transition: all 0.2s ease;
         white-space: nowrap;
         line-height: 1.4;
@@ -146,12 +148,12 @@
         vertical-align: middle;
     }
 
-    .nav-tab::before {
+/*    .nav-tab::before {
         display: none;
-    }
+    }*/
 
     .nav-tab:hover {
-        background: #4a5a68;
+        filter: brightness(110%);
         transform: translateY(-1px);
     }
 
@@ -171,7 +173,7 @@
 
     .layer-dropdown {
         background: var(--color-contents);
-        color: #fff;
+        color: var(--color-text);
         border: 1px solid var(--color-toggle-border);
         border-radius: 4px;
         padding: 0.4em 0.8em;
@@ -191,7 +193,7 @@
     }
 
     .layer-dropdown:hover {
-        background: #4a5a68;
+        filter: brightness(110%);
         transform: translateY(-1px);
     }
 
@@ -206,7 +208,7 @@
 
     .chapter-dropdown {
         background: var(--color-contents);
-        color: #fff;
+        color: var(--color-text);
         border: 1px solid var(--color-toggle-border);
         border-radius: 4px;
         padding: 0.4em 0.8em;
@@ -226,7 +228,7 @@
     }
 
     .chapter-dropdown:hover {
-        background: #4a5a68;
+        filter: brightness(110%);
         transform: translateY(-1px);
     }
 
@@ -241,7 +243,7 @@
 
     .toolbar-nav-btn {
         background: var(--color-contents);
-        color: #fff;
+        color: var(--color-text);
         border: 1px solid var(--color-toggle-border);
         border-radius: 4px;
         padding: 0.4em 0.8em;
@@ -261,7 +263,7 @@
     }
 
     .toolbar-nav-btn:hover {
-        background: #4a5a68;
+        filter: brightness(110%);
         transform: translateY(-1px);
     }
 
@@ -353,9 +355,9 @@
     }
 
     .layer-header .header-indicator {
-        color: var(--color-tibetan);
-        font-size: 0.9em;
-        font-weight: 500;
+        font-size: 0.7em;
+        font-weight: bold;
+        color: var(--color-text);
     }
 
     .iframe-wrapper {
@@ -636,6 +638,9 @@
     .welcome-screen .description p {
         margin-bottom: 1em;
     }
+/*
+
+FIXME:  why is this here and why do we not need it?
 
     @media (max-width: 768px) {
         .nav-tab {
@@ -656,7 +661,6 @@
             height: 18px;
             margin: 0 0.25em;
         }
-    }
 
         .consent-header .main-title {
             font-size: 0.9em;
@@ -742,3 +746,5 @@
     }
 
 
+
+*/

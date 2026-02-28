@@ -276,7 +276,7 @@
         if (!indicator || !state.volume || !state.chapter) {
             return;
         }
-        indicator.textContent = 'V' + state.volume + ' Ch' + state.chapter;
+        indicator.textContent = 'VOLUME ' + state.volume + ' - CHAPTER ' + state.chapter;
     }
     
     // Set volume (derived from ALN, but can be set explicitly for backward compat)
