@@ -627,6 +627,9 @@ function showLayer(layerId, targetLine) {
                 sendDarkModeStatus();
             }
         }
+        
+        // Always sync dark mode when navigating to any layer
+        sendDarkModeStatus();
     }
 
     updateLayerDropdown(layerId);
@@ -864,6 +867,8 @@ document.querySelectorAll('.layer-frame').forEach(iframe => {
                 showLineIndicator(state.layer, state.line, type);
             }
         } catch (e) {}
+        // Sync dark mode to iframe after load
+        sendDarkModeStatus();
     });
 });
 
@@ -873,13 +878,16 @@ document.querySelectorAll('.layer-frame').forEach(iframe => {
 
 function sendDarkModeStatus() {
     localStorage.setItem('darkMode', document.body.classList.contains('dark-mode'));
+    const isDark = document.body.classList.contains('dark-mode');
     
     document.querySelectorAll('.layer-frame').forEach(iframe => {
         try {
-            iframe.contentWindow.postMessage({
-                type: 'darkModeChange',
-                enabled: document.body.classList.contains('dark-mode')
-            }, '*');
+            setTimeout(() => {
+                iframe.contentWindow.postMessage({
+                    type: 'darkModeChange',
+                    enabled: isDark
+                }, '*');
+            }, 10);
         } catch (e) {}
     });
 }
@@ -890,13 +898,16 @@ function toggleDarkMode() {
     const btn = document.querySelector('.dark-mode-toggle');
     btn.textContent = document.body.classList.contains('dark-mode') ? 'Light' : 'Dark';
     localStorage.setItem('darkMode', document.body.classList.contains('dark-mode'));
+    const isDark = document.body.classList.contains('dark-mode');
     
     document.querySelectorAll('.layer-frame').forEach(iframe => {
         try {
-            iframe.contentWindow.postMessage({
-                type: 'darkModeChange',
-                enabled: document.body.classList.contains('dark-mode')
-            }, '*');
+            setTimeout(() => {
+                iframe.contentWindow.postMessage({
+                    type: 'darkModeChange',
+                    enabled: isDark
+                }, '*');
+            }, 10);
         } catch (e) {}
     });
 }

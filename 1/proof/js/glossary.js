@@ -47,7 +47,11 @@
     window.addEventListener('message', function(e) {
         if (e.data) {
             if (e.data.type === 'darkModeChange') {
-                document.body.classList.toggle('light-mode', !e.data.enabled);
+                if (e.data.enabled) {
+                    document.body.classList.remove('light-mode');
+                } else {
+                    document.body.classList.add('light-mode');
+                }
                 localStorage.setItem('darkMode', e.data.enabled);
             } else if (e.data.type === 'prevLetter') {
                 navigateToLetter(getNextLetter('prev'));
