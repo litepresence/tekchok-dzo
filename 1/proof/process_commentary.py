@@ -75,7 +75,7 @@ def parse_entry(lines):
     entry["content_text"] = highlight_tibetan(entry["content_text"])
     
     # Process key terms (italicize words in parentheses)
-    entry["content_text"] = re.sub(r'\(([^)]+)\)', r'<span class="term">(\1)</span>', entry["content_text"])
+    entry["content_text"] = re.sub(r'\(([\w\W]+)\)', r'<span class="term">(\1)</span>', entry["content_text"])
     
     return entry
 
@@ -164,14 +164,6 @@ const chapterKeys = {chapter_keys};
 <script src="../js/commentary.js"></script>
 """
 
-    nav_html = """
-<div class="nav-controls">
-    <button class="nav-btn" id="prevBtn" onclick="prevChapter()">Previous</button>
-    <button class="nav-btn" id="nextBtn" onclick="nextChapter()">Next Chapter</button>
-</div>
-<div class="chapter-indicator" id="chapterIndicator">Volume 1, Chapter 1</div>
-"""
-
     combined_content = "\n".join(all_chapter_content)
 
     return f"""<!DOCTYPE html>
@@ -189,7 +181,6 @@ const chapterKeys = {chapter_keys};
     <div class="document">
         {combined_content}
     </div>
-    {nav_html}
 </body>
 </html>
 """
