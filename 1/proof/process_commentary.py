@@ -75,7 +75,7 @@ def parse_entry(lines):
     entry["content_text"] = highlight_tibetan(entry["content_text"])
     
     # Process key terms (italicize words in parentheses)
-    entry["content_text"] = re.sub(r'\(([\w\W]+)\)', r'<span class="term">(\1)</span>', entry["content_text"])
+    entry["content_text"] = re.sub(r'\(([\w\W]+?)\)', r'<span class="term">(\1)</span>', entry["content_text"])
     
     return entry
 

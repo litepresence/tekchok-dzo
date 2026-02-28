@@ -71,10 +71,10 @@ def parse_entry(lines):
     entry["content_text"] = highlight_tibetan(entry["content_text"])
     
     # Mark technical terms (Tibetan in slashes /term/)
-    entry["content_text"] = re.sub(r'/([\w\W]+)/', r'<span class="term">/\1/</span>', entry["content_text"])
+    entry["content_text"] = re.sub(r'/([\w\W]+?)/', r'<span class="term">/\1/</span>', entry["content_text"])
     
     # Mark IAST transliteration (text in +plus+)
-    entry["content_text"] = re.sub(r'\+([^+]+)\+', r'<span class="iast">\1</span>', entry["content_text"])
+    entry["content_text"] = re.sub(r'\+([^+]+?)\+', r'<span class="iast">\1</span>', entry["content_text"])
     
     return entry
 
