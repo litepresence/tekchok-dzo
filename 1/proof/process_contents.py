@@ -168,36 +168,29 @@ def generate_html(data):
     """Generate HTML content."""
     html_parts = []
 
-    html_parts.append(
-        """
+    html_parts.append("""
     <script src="../js/contents.js"></script>
-    """
-    )
+    """)
 
-    html_parts.append(
-        f"""
+    html_parts.append(f"""
     <div class="title-section">
         <h1>{html.escape(data['title'])}</h1>
         <div class="work-title">{html.escape(data['work_title'])}</div>
         <div class="meta">
-    """
-    )
+    """)
 
     print(data["meta"])
 
     for key, value in data["meta"].items():
         html_parts.append(f"<div>{key}: {html.escape(value)}</div>")
 
-    html_parts.append(
-        """
+    html_parts.append("""
         </div>
     </div>
-    """
-    )
+    """)
 
     # Overview
-    html_parts.append(
-        """
+    html_parts.append("""
     <div class="overview">
         <h2>Overview</h2>
         <ul>
@@ -215,13 +208,11 @@ def generate_html(data):
             </li>
         </ul>
     </div>
-    """
-    )
+    """)
 
     # Chapters
     for chapter in data["chapters"]:
-        html_parts.append(
-            f"""
+        html_parts.append(f"""
         <div class="chapter">
             <div class="chapter-header">
                 <h2 class="chapter-title">Chapter {chapter['number']}: {html.escape(chapter['title'])}</h2>
@@ -242,8 +233,7 @@ def generate_html(data):
                     </tr>
                 </thead>
                 <tbody>
-        """
-        )
+        """)
 
         for entry in chapter["entries"]:
             type_class = get_type_class(entry["type"])
@@ -251,24 +241,20 @@ def generate_html(data):
                 chapter["volume"], chapter["number"], entry["file"].replace(".md", "")
             )
             start_line = LINE_MAP.get(literal_key, 1)
-            html_parts.append(
-                f"""
+            html_parts.append(f"""
                     <tr data-line="{start_line}" style="cursor: pointer;" title="Click to go to line {start_line}">
                         <td class="col-file">{html.escape(entry['file'])}</td>
                         <td class="col-lines">{html.escape(entry['lines'])}</td>
                         <td class="col-type"><span class="type-badge type-{type_class}">{html.escape(entry['type'])}</span></td>
                         <td class="col-title">{html.escape(entry['title'])}</td>
                     </tr>
-            """
-            )
+            """)
 
-        html_parts.append(
-            """
+        html_parts.append("""
                 </tbody>
             </table>
         </div>
-        """
-        )
+        """)
 
     return "\n".join(html_parts)
 

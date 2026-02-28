@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """
 Liturgical Batch Parser
-Parses all matching files in 'liturgical/' folder and outputs a single 
+Parses all matching files in 'liturgical/' folder and outputs a single
 combined HTML file optimized for PDF rendering.
 
 Updates:
@@ -26,18 +26,19 @@ OUTPUT_FILE = Path("html/liturgical.html")
 FILE_PATTERN = re.compile(r"^\d\d-\d\d-\d\d-\d\d\.txt$")
 
 # Regex to parse lines: [LineNum] [<break>] <Tag> Content
-LINE_PATTERN = re.compile(r'^\[(\d+)\]\s*(?:(<break>)\s*)?<(\w+)>\s*(.*)$')
+LINE_PATTERN = re.compile(r"^\[(\d+)\]\s*(?:(<break>)\s*)?<(\w+)>\s*(.*)$")
 
 # -----------------------------------------------------------------------------
 # CSS STYLES (PDF-OPTIMIZED)
 # -----------------------------------------------------------------------------
 
 CSS_FILE = Path("css/liturgical.css")
-HTML_CSS = Path(CSS_FILE).read_text(encoding='utf-8')
+HTML_CSS = Path(CSS_FILE).read_text(encoding="utf-8")
 
 # -----------------------------------------------------------------------------
 # PARSER LOGIC
 # -----------------------------------------------------------------------------
+
 
 def parse_line(raw_line):
     """Parses a single line of the input spec."""
@@ -58,25 +59,27 @@ def parse_line(raw_line):
         "line_num": line_num,
         "is_break": break_tag is not None,
         "tag": tag_type,
-        "content": html.escape(content)
+        "content": html.escape(content),
     }
 
+
 def get_chapter_key(filename):
-    parts = filename.replace('.txt', '').split('-')
+    parts = filename.replace(".txt", "").split("-")
     if len(parts) >= 2:
         return f"{parts[0]}-{parts[1]}"
-    return filename.replace('.txt', '')
+    return filename.replace(".txt", "")
+
 
 def generate_file_html(parsed_lines, filename):
     """Generates HTML content for a single file.
-    
-    Updates: Groups consecutive lines with the same tag and no break 
+
+    Updates: Groups consecutive lines with the same tag and no break
     into single HTML elements. Prose joins with spaces; others join with <br>.
     """
     html_parts = []
-    
-    file_title = filename.replace('.txt', '').replace('-', ' ')
-    file_id = filename.replace('.txt', '')
+
+    file_title = filename.replace(".txt", "").replace("-", " ")
+    file_id = filename.replace(".txt", "")
     html_parts.append(f'<div class="file-separator" id="file-{file_id}">{file_title}</div>')
 
     groups = []
@@ -88,16 +91,18 @@ def generate_file_html(parsed_lines, filename):
 
         can_merge = False
         if current_group:
-            if (item['tag'] == current_group['tag'] and 
-                not current_group['is_break'] and 
-                not item['is_break']):
+            if (
+                item["tag"] == current_group["tag"]
+                and not current_group["is_break"]
+                and not item["is_break"]
+            ):
                 can_merge = True
 
         if can_merge:
-            if item['tag'] == 'prose':
-                current_group['content'] += " " + item['content']
+            if item["tag"] == "prose":
+                current_group["content"] += " " + item["content"]
             else:
-                current_group['content'] += "<br>" + item['content']
+                current_group["content"] += "<br>" + item["content"]
         else:
             if current_group:
                 groups.append(current_group)
@@ -107,38 +112,46 @@ def generate_file_html(parsed_lines, filename):
         groups.append(current_group)
 
     for item in groups:
-        tag = item['tag']
-        content = item['content']
-        is_break = item['is_break']
+        tag = item["tag"]
+        content = item["content"]
+        is_break = item["is_break"]
 
         classes = [tag]
         if is_break:
-            classes.append('break-before')
-        
+            classes.append("break-before")
+
         class_str = " ".join(classes)
 
-        if tag == 'mantra':
+        if tag == "mantra":
             content_html = f'<span class="mantra">{content}</span>'
         else:
             content_html = content
 
-        content_html = re.sub(r'\|\|\s*(\d+)\s*\|\|', r'<span class="verse-marker">|| \1 ||</span>', content_html)
+        content_html = re.sub(
+            r"\|\|\s*(\d+)\s*\|\|", r'<span class="verse-marker">|| \1 ||</span>', content_html
+        )
 
-        html_parts.append(f'<div class="{class_str}" id="line-{item["line_num"]}" data-line="{item["line_num"]}">{content_html}</div>')
+        html_parts.append(
+            f'<div class="{class_str}" id="line-{item["line_num"]}" data-line="{item["line_num"]}">{content_html}</div>'
+        )
 
     return "\n".join(html_parts)
 
+
 def build_chapter_html(file_html_list, chapter_key, chapter_index):
     """Wraps all files in a chapter into a chapter div."""
-    active_class = ' active' if chapter_index == 0 else ''
-    parts = [f'<div class="chapter{active_class}" data-chapter="{chapter_index}" data-chapter-key="{chapter_key}">']
+    active_class = " active" if chapter_index == 0 else ""
+    parts = [
+        f'<div class="chapter{active_class}" data-chapter="{chapter_index}" data-chapter-key="{chapter_key}">'
+    ]
     parts.extend(file_html_list)
-    parts.append('</div>')
+    parts.append("</div>")
     return "\n".join(parts)
+
 
 def build_full_document(all_chapter_content, chapter_keys, total_chapters):
     """Wraps everything in HTML5 boilerplate with navigation."""
-    
+
     js_script = f"""
 <script>
 let currentChapter = 0;
@@ -169,9 +182,11 @@ const chapterKeys = {chapter_keys};
 </html>
 """
 
+
 # -----------------------------------------------------------------------------
 # BATCH PROCESSING
 # -----------------------------------------------------------------------------
+
 
 def process_folder():
     # Check Input Directory
@@ -196,14 +211,14 @@ def process_folder():
         input_path = INPUT_DIR / filename
 
         try:
-            with open(input_path, 'r', encoding='utf-8') as f:
+            with open(input_path, "r", encoding="utf-8") as f:
                 lines = f.readlines()
 
             parsed_data = [parse_line(line) for line in lines]
             parsed_data = [p for p in parsed_data if p is not None]
 
             file_html = generate_file_html(parsed_data, filename)
-            
+
             chapter_key = get_chapter_key(filename)
             if chapter_key not in chapters:
                 chapters[chapter_key] = []
@@ -220,9 +235,11 @@ def process_folder():
         chapter_html = build_chapter_html(chapters[chapter_key], chapter_key, idx)
         all_chapter_content.append(chapter_html)
 
-    full_html = build_full_document(all_chapter_content, sorted_chapter_keys, len(sorted_chapter_keys))
+    full_html = build_full_document(
+        all_chapter_content, sorted_chapter_keys, len(sorted_chapter_keys)
+    )
 
-    with open(OUTPUT_FILE, 'w', encoding='utf-8') as f:
+    with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
         f.write(full_html)
 
     print(f"\n✓ Complete! Output saved to '{OUTPUT_FILE}'")
@@ -234,6 +251,7 @@ def process_folder():
     print(f"  3. Select 'Save as PDF'")
     print(f"  4. Ensure 'Background graphics' is checked")
     print(f"  5. Click Save")
+
 
 if __name__ == "__main__":
     process_folder()

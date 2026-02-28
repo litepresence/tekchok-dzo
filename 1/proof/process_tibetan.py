@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """
 Tibetan Text Parser
-Parses all matching files in 'tibetan/' folder and outputs a single 
+Parses all matching files in 'tibetan/' folder and outputs a single
 combined HTML file optimized for PDF rendering.
 """
 
@@ -16,24 +16,27 @@ INPUT_DIR = Path("../text/layer/tibetan")
 OUTPUT_FILE = Path("html/tibetan.html")
 FILE_PATTERN = re.compile(r"^\d\d-\d\d-\d\d-\d\d\.txt$")
 
-LINE_PATTERN = re.compile(r'^\[(\d+)\]\s*(.*)$')
+LINE_PATTERN = re.compile(r"^\[(\d+)\]\s*(.*)$")
+
 
 def get_chapter_key(filename):
-    parts = filename.replace('.txt', '').split('-')
+    parts = filename.replace(".txt", "").split("-")
     if len(parts) >= 2:
         return f"{parts[0]}-{parts[1]}"
-    return filename.replace('.txt', '')
+    return filename.replace(".txt", "")
+
 
 # -----------------------------------------------------------------------------
 # CSS STYLES (PDF-OPTIMIZED FOR TIBETAN)
 # -----------------------------------------------------------------------------
 
 CSS_FILE = Path("css/tibetan.css")
-HTML_CSS = Path(CSS_FILE).read_text(encoding='utf-8')
+HTML_CSS = Path(CSS_FILE).read_text(encoding="utf-8")
 
 # -----------------------------------------------------------------------------
 # PARSER LOGIC
 # -----------------------------------------------------------------------------
+
 
 def parse_line(raw_line):
     """Parses a single line of the Tibetan text spec."""
@@ -51,10 +54,8 @@ def parse_line(raw_line):
     # Process content for styling
     processed_content = process_content(content)
 
-    return {
-        "line_num": line_num,
-        "content": processed_content
-    }
+    return {"line_num": line_num, "content": processed_content}
+
 
 def process_content(content):
     """
@@ -65,24 +66,25 @@ def process_content(content):
     """
     # Escape HTML first (safe for Tibetan Unicode)
     content = html.escape(content)
-    
+
     # Highlight shad marks (། ༎ ༏) - sentence/verse endings
-    content = re.sub(r'([།༎༏])', r'<span class="shad">\1</span>', content)
-    
+    content = re.sub(r"([།༎༏])", r'<span class="shad">\1</span>', content)
+
     # Highlight other Tibetan punctuation (྅ ༈ ་ ༌ ། ༎ ༏ ༐ ༑ ༒ ༓ ༔ ༕ ༖ ༗ ༘ ༙ ༚ ༛ ༜ ༝ ༞ ༟)
     # But not tsheg (་) which should stay attached
-    tibetan_punct = '྅༌༎༏༐༑༒༓༔༕༖༗༘༙༚༛༜༝༞༟'
+    tibetan_punct = "྅༌༎༏༐༑༒༓༔༕༖༗༘༙༚༛༜༝༞༟"
     for punct in tibetan_punct:
         content = content.replace(punct, f'<span class="tibetan-punct">{punct}</span>')
-    
+
     return content
+
 
 def generate_file_html(parsed_lines, filename):
     """Generates HTML content for a single file."""
     html_parts = []
-    
-    file_title = filename.replace('.txt', '').replace('-', ' ')
-    file_id = filename.replace('.txt', '')
+
+    file_title = filename.replace(".txt", "").replace("-", " ")
+    file_id = filename.replace(".txt", "")
     html_parts.append(f'<div class="file-separator" id="file-{file_id}">{file_title}</div>')
     html_parts.append('<div class="line-grid">')
 
@@ -90,27 +92,33 @@ def generate_file_html(parsed_lines, filename):
         if not item:
             continue
 
-        line_num = item['line_num']
-        content = item['content']
+        line_num = item["line_num"]
+        content = item["content"]
 
         html_parts.append(f'  <div class="line-num">{line_num}</div>')
-        html_parts.append(f'  <div class="line-content" id="line-{line_num}"><span class="tibetan-line" data-line="{line_num}">{content}</span></div>')
+        html_parts.append(
+            f'  <div class="line-content" id="line-{line_num}"><span class="tibetan-line" data-line="{line_num}">{content}</span></div>'
+        )
 
-    html_parts.append('</div>')
+    html_parts.append("</div>")
 
     return "\n".join(html_parts)
 
+
 def build_chapter_html(file_html_list, chapter_key, chapter_index):
     """Wraps all files in a chapter into a chapter div."""
-    active_class = ' active' if chapter_index == 0 else ''
-    parts = [f'<div class="chapter{active_class}" data-chapter="{chapter_index}" data-chapter-key="{chapter_key}">']
+    active_class = " active" if chapter_index == 0 else ""
+    parts = [
+        f'<div class="chapter{active_class}" data-chapter="{chapter_index}" data-chapter-key="{chapter_key}">'
+    ]
     parts.extend(file_html_list)
-    parts.append('</div>')
+    parts.append("</div>")
     return "\n".join(parts)
+
 
 def build_full_document(all_chapter_content, chapter_keys, total_chapters):
     """Wraps everything in HTML5 boilerplate with navigation."""
-    
+
     js_script = f"""
 <script>
 let currentChapter = 0;
@@ -141,9 +149,11 @@ const chapterKeys = {chapter_keys};
 </html>
 """
 
+
 # -----------------------------------------------------------------------------
 # BATCH PROCESSING
 # -----------------------------------------------------------------------------
+
 
 def process_folder():
     if not INPUT_DIR.exists():
@@ -167,14 +177,14 @@ def process_folder():
         input_path = INPUT_DIR / filename
 
         try:
-            with open(input_path, 'r', encoding='utf-8') as f:
+            with open(input_path, "r", encoding="utf-8") as f:
                 lines = f.readlines()
 
             parsed_data = [parse_line(line) for line in lines]
             parsed_data = [p for p in parsed_data if p is not None]
 
             file_html = generate_file_html(parsed_data, filename)
-            
+
             chapter_key = get_chapter_key(filename)
             if chapter_key not in chapters:
                 chapters[chapter_key] = []
@@ -194,15 +204,18 @@ def process_folder():
         chapter_html = build_chapter_html(chapters[chapter_key], chapter_key, idx)
         all_chapter_content.append(chapter_html)
 
-    full_html = build_full_document(all_chapter_content, sorted_chapter_keys, len(sorted_chapter_keys))
+    full_html = build_full_document(
+        all_chapter_content, sorted_chapter_keys, len(sorted_chapter_keys)
+    )
 
-    with open(OUTPUT_FILE, 'w', encoding='utf-8') as f:
+    with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
         f.write(full_html)
 
     print(f"\n✓ Complete! Output saved to '{OUTPUT_FILE}'")
     print(f"  Total files combined: {len(matching_files)}")
     print(f"  Total chapters: {len(sorted_chapter_keys)}")
     print(f"  Total lines processed: {total_lines}")
+
 
 if __name__ == "__main__":
     process_folder()

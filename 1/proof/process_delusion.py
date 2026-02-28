@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """
 Delusion Analysis Parser
-Parses all matching files in 'delusion/' folder and outputs a single 
+Parses all matching files in 'delusion/' folder and outputs a single
 combined HTML file optimized for PDF rendering.
 
 This layer analyzes common misinterpretations and their consequences.
@@ -22,21 +22,23 @@ INPUT_DIR = Path("../text/layer/delusion")
 OUTPUT_FILE = Path("html/delusion.html")
 FILE_PATTERN = re.compile(r"^\d\d-\d\d-\d\d-\d\d\.txt$")
 
-LINE_RANGE_PATTERN = re.compile(r'^\[(\d+-\d+)\]')
-TAG_PATTERN = re.compile(r'^<([^>]+)>')
+LINE_RANGE_PATTERN = re.compile(r"^\[(\d+-\d+)\]")
+TAG_PATTERN = re.compile(r"^<([^>]+)>")
+
 
 def get_chapter_key(filename):
-    parts = filename.replace('.txt', '').split('-')
+    parts = filename.replace(".txt", "").split("-")
     if len(parts) >= 2:
         return f"{parts[0]}-{parts[1]}"
-    return filename.replace('.txt', '')
+    return filename.replace(".txt", "")
+
 
 SECTION_HEADERS = {
     "misreading": "Misreading",
     "why_it_arises": "Why it arises",
     "primary_consequence": "Primary consequence",
     "secondary_consequences": "Secondary consequences",
-    "cascade_effects": "Cascade effects"
+    "cascade_effects": "Cascade effects",
 }
 
 # -----------------------------------------------------------------------------
@@ -44,16 +46,17 @@ SECTION_HEADERS = {
 # -----------------------------------------------------------------------------
 
 CSS_FILE = Path("css/delusion.css")
-HTML_CSS = Path(CSS_FILE).read_text(encoding='utf-8')
+HTML_CSS = Path(CSS_FILE).read_text(encoding="utf-8")
 
 # -----------------------------------------------------------------------------
 # PARSER LOGIC
 # -----------------------------------------------------------------------------
 
+
 def get_error_tag_class(tag):
     """Returns CSS class based on error tag type."""
     tag_lower = tag.lower()
-    
+
     if "ontological" in tag_lower:
         return "ontological"
     elif "reification" in tag_lower:
@@ -73,15 +76,12 @@ def get_error_tag_class(tag):
     else:
         return "default"
 
+
 def parse_entry(lines):
     """
     Parses a single delusion entry with error tags and consequence sections.
     """
-    entry = {
-        "line_range": None,
-        "error_tags": [],
-        "sections": {}
-    }
+    entry = {"line_range": None, "error_tags": [], "sections": {}}
 
     current_section = None
     current_content = []
@@ -105,7 +105,7 @@ def parse_entry(lines):
             # Save previous section
             if current_section and current_content:
                 entry["sections"][current_section] = " ".join(current_content)
-            
+
             tag = tag_match.group(1)
             entry["error_tags"].append(tag)
             current_section = None
@@ -119,12 +119,12 @@ def parse_entry(lines):
             if line_stripped == f"**{title}:**":
                 section_key = key
                 break
-        
+
         if section_key:
             # Save previous section
             if current_section and current_content:
                 entry["sections"][current_section] = " ".join(current_content)
-            
+
             current_section = section_key
             current_content = []  # Start fresh
             continue
@@ -133,12 +133,12 @@ def parse_entry(lines):
         if current_section == "cascade_effects":
             # First convert valid <...> patterns to spans (they're error tags in cascade context)
             line_stripped = re.sub(
-                r'<([a-zA-Z][a-zA-Z0-9_\s-]*)>',
+                r"<([a-zA-Z][a-zA-Z0-9_\s-]*)>",
                 r'<span class="error-tag cascade">\1</span>',
-                line_stripped
+                line_stripped,
             )
             # Then escape any remaining unescaped < characters that aren't part of tags
-            line_stripped = re.sub(r'<(?!/?span)', '&lt;', line_stripped)
+            line_stripped = re.sub(r"<(?!/?span)", "&lt;", line_stripped)
             current_content.append(line_stripped)
         elif current_section:
             current_content.append(line_stripped)
@@ -158,18 +158,19 @@ def parse_entry(lines):
 
     return entry
 
+
 def build_sections_html(entry):
     """Builds HTML for entry sections."""
     html_parts = []
-    
+
     for section_key, title in SECTION_HEADERS.items():
         if section_key in entry["sections"]:
             content = entry["sections"][section_key]
-            
+
             # Skip empty sections
             if not content.strip():
                 continue
-            
+
             # Process cascade arrows for cascade effects
             if section_key == "cascade_effects":
                 # Don't escape - already contains HTML spans from parsing
@@ -178,12 +179,15 @@ def build_sections_html(entry):
             else:
                 html_parts.append(f'<div class="section-header {section_key}">{title}</div>')
                 html_parts.append(f'<div class="section-content">{html.escape(content)}</div>')
-    
+
     # Add any untagged content
     if "content" in entry["sections"] and "misreading" not in entry["sections"]:
-        html_parts.append(f'<div class="section-content">{html.escape(entry["sections"]["content"])}</div>')
-    
+        html_parts.append(
+            f'<div class="section-content">{html.escape(entry["sections"]["content"])}</div>'
+        )
+
     return "\n".join(html_parts)
+
 
 def split_into_entries(content):
     """
@@ -214,30 +218,33 @@ def split_into_entries(content):
 
     return entries
 
+
 def generate_file_html(parsed_lines, filename):
     """Generates HTML content for a single file."""
     html_parts = []
-    
-    file_title = filename.replace('.txt', '').replace('-', ' ')
-    file_id = filename.replace('.txt', '')
+
+    file_title = filename.replace(".txt", "").replace("-", " ")
+    file_id = filename.replace(".txt", "")
     html_parts.append(f'<div class="file-separator" id="file-{file_id}">{file_title}</div>')
 
     line_counter = {}
-    
+
     for entry in parsed_lines:
         if not entry["line_range"]:
             continue
 
-        range_parts = entry["line_range"].split('-')
+        range_parts = entry["line_range"].split("-")
         first_line = range_parts[0] if range_parts else "1"
         last_line = range_parts[1] if len(range_parts) > 1 else first_line
-        
+
         if first_line not in line_counter:
             line_counter[first_line] = 0
         line_counter[first_line] += 1
         unique_id = f"{first_line}-{line_counter[first_line]}"
 
-        html_parts.append(f'<div class="entry-block" id="line-{unique_id}" data-line="{first_line}" data-range-start="{first_line}" data-range-end="{last_line}">')
+        html_parts.append(
+            f'<div class="entry-block" id="line-{unique_id}" data-line="{first_line}" data-range-start="{first_line}" data-range-end="{last_line}">'
+        )
 
         html_parts.append(f'  <div class="line-range">[{entry["line_range"]}]</div>')
 
@@ -246,26 +253,30 @@ def generate_file_html(parsed_lines, filename):
             for tag in entry["error_tags"]:
                 tag_class = get_error_tag_class(tag)
                 html_parts.append(f'    <span class="error-tag {tag_class}">{tag}</span>')
-            html_parts.append('  </div>')
+            html_parts.append("  </div>")
 
         if entry["sections_html"]:
             html_parts.append(f'  {entry["sections_html"]}')
 
-        html_parts.append('</div>')
+        html_parts.append("</div>")
 
     return "\n".join(html_parts)
 
+
 def build_chapter_html(file_html_list, chapter_key, chapter_index):
     """Wraps all files in a chapter into a chapter div."""
-    active_class = ' active' if chapter_index == 0 else ''
-    parts = [f'<div class="chapter{active_class}" data-chapter="{chapter_index}" data-chapter-key="{chapter_key}">']
+    active_class = " active" if chapter_index == 0 else ""
+    parts = [
+        f'<div class="chapter{active_class}" data-chapter="{chapter_index}" data-chapter-key="{chapter_key}">'
+    ]
     parts.extend(file_html_list)
-    parts.append('</div>')
+    parts.append("</div>")
     return "\n".join(parts)
+
 
 def build_full_document(all_chapter_content, chapter_keys, total_chapters):
     """Wraps everything in HTML5 boilerplate with navigation."""
-    
+
     js_script = f"""
 <script>
 let currentChapter = 0;
@@ -296,9 +307,11 @@ const chapterKeys = {chapter_keys};
 </html>
 """
 
+
 # -----------------------------------------------------------------------------
 # BATCH PROCESSING
 # -----------------------------------------------------------------------------
+
 
 def process_folder():
     if not INPUT_DIR.exists():
@@ -322,7 +335,7 @@ def process_folder():
         input_path = INPUT_DIR / filename
 
         try:
-            with open(input_path, 'r', encoding='utf-8') as f:
+            with open(input_path, "r", encoding="utf-8") as f:
                 content = f.read()
 
             raw_entries = split_into_entries(content)
@@ -330,7 +343,7 @@ def process_folder():
             entries = [e for e in entries if e["line_range"]]
 
             file_html = generate_file_html(entries, filename)
-            
+
             chapter_key = get_chapter_key(filename)
             if chapter_key not in chapters:
                 chapters[chapter_key] = []
@@ -344,6 +357,7 @@ def process_folder():
         except Exception as e:
             print(f"  ✗ Error processing {filename}: {e}")
             import traceback
+
             traceback.print_exc()
 
     sorted_chapter_keys = sorted(chapters.keys())
@@ -352,15 +366,18 @@ def process_folder():
         chapter_html = build_chapter_html(chapters[chapter_key], chapter_key, idx)
         all_chapter_content.append(chapter_html)
 
-    full_html = build_full_document(all_chapter_content, sorted_chapter_keys, len(sorted_chapter_keys))
+    full_html = build_full_document(
+        all_chapter_content, sorted_chapter_keys, len(sorted_chapter_keys)
+    )
 
-    with open(OUTPUT_FILE, 'w', encoding='utf-8') as f:
+    with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
         f.write(full_html)
 
     print(f"\n✓ Complete! Output saved to '{OUTPUT_FILE}'")
     print(f"  Total files combined: {len(matching_files)}")
     print(f"  Total chapters: {len(sorted_chapter_keys)}")
     print(f"  Total entries processed: {total_entries}")
+
 
 if __name__ == "__main__":
     process_folder()

@@ -14,37 +14,40 @@ INPUT_DIR = Path("../text/preface/conventions")
 OUTPUT_FILE = Path("html/conventions.html")
 
 SECTION_ORDER = [
-    ('exposition_tibetan.md', 'Tibetan', 'tibetan'),
-    ('exposition_wylie.md', 'Wylie', 'wylie'),
-    ('exposition_literal.md', 'Literal', 'literal'),
-    ('exposition_liturgical.md', 'Liturgical', 'liturgical'),
-    ('exposition_commentary.md', 'Commentary', 'commentary'),
-    ('exposition_scholar.md', 'Scholar', 'scholar'),
-    ('exposition_epistemic.md', 'Epistemic', 'epistemic'),
-    ('exposition_delusion.md', 'Delusion', 'delusion'),
-    ('exposition_cognitive.md', 'Cognitive', 'cognitive'),
+    ("exposition_tibetan.md", "Tibetan", "tibetan"),
+    ("exposition_wylie.md", "Wylie", "wylie"),
+    ("exposition_literal.md", "Literal", "literal"),
+    ("exposition_liturgical.md", "Liturgical", "liturgical"),
+    ("exposition_commentary.md", "Commentary", "commentary"),
+    ("exposition_scholar.md", "Scholar", "scholar"),
+    ("exposition_epistemic.md", "Epistemic", "epistemic"),
+    ("exposition_delusion.md", "Delusion", "delusion"),
+    ("exposition_cognitive.md", "Cognitive", "cognitive"),
 ]
+
 
 def process_conventions():
     sections = []
     toc_items = []
-    
+
     for filename, title, anchor in SECTION_ORDER:
         filepath = INPUT_DIR / filename
         if filepath.exists():
-            with open(filepath, 'r', encoding='utf-8') as f:
+            with open(filepath, "r", encoding="utf-8") as f:
                 content = f.read()
-            
-            html_content = markdown.markdown(content, extensions=['tables', 'fenced_code'])
-            sections.append(f'<section id="{anchor}" class="convention-section">{html_content}\n</section>')
+
+            html_content = markdown.markdown(content, extensions=["tables", "fenced_code"])
+            sections.append(
+                f'<section id="{anchor}" class="convention-section">{html_content}\n</section>'
+            )
             toc_items.append(f'<li><a href="#{anchor}">{title}</a></li>')
             print(f"  ✓ Processed: {filename}")
         else:
             print(f"  ✗ Not found: {filename}")
-    
-    toc_html = '<nav class="toc"><h2>Layers</h2><ul>' + '\n'.join(toc_items) + '</ul></nav>'
-    content_html = '\n'.join(sections)
-    
+
+    toc_html = '<nav class="toc"><h2>Layers</h2><ul>' + "\n".join(toc_items) + "</ul></nav>"
+    content_html = "\n".join(sections)
+
     full_html = f"""<!DOCTYPE html>
 <html lang="en">
 <head>
@@ -64,11 +67,12 @@ def process_conventions():
 </body>
 </html>
 """
-    
-    with open(OUTPUT_FILE, 'w', encoding='utf-8') as f:
+
+    with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
         f.write(full_html)
-    
+
     print(f"\n✓ Created: {OUTPUT_FILE}")
+
 
 if __name__ == "__main__":
     process_conventions()
