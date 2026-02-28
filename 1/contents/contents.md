@@ -1,12 +1,9 @@
-# Treasury of the Supreme Vehicle: Comprehensive Table of Contents (v2)
+# The Jewel Treasury of the Supreme Vehicle
 
-**Work**: ཐེག་པའི་མཆོག་རིན་པོ་ཆེའི་མཛོད་ཀྱི་འགྲེལ་པ།  
-**English Title**: Treasury of the Supreme Vehicle: Autocommentary  
-**Author**: Longchen Rabjampa (1308-1364)  
-**Total Chapters**: 25  
-**Total Sections**: 213  
-**Version**: 7.1.0  
-**Generated**: 2026-02-12
+**Work**: ཐེག་པའི་མཆོག་རིན་པོ་ཆེའི་མཛོད་ཀྱི་འགྲེལ་པ། 
+**Author**: Longchen Rabjampa (1308-1364)
+**Total Chapters**: 25
+**Total Sections**: 213
 
 ---
 
