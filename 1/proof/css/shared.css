@@ -1,0 +1,8 @@
+@media (max-width: 780px) {
+    .document {
+        width: 95% !important;
+    }
+    body {
+        font-size: 11pt;
+    }
+}
