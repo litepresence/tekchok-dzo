@@ -93,7 +93,17 @@ Terms are listed alphabetically by their English rendering. Tibetan and Sanskrit
 | **Sāṃkhya** (grangs can pa) | Hindu school propounding eternalism; holds that a permanent self (purusha) exists distinct from nature (prakriti). | 01-04-01-01:1911 |
 | **Samantabhadra** (Kun tu bzang po) | The primordial Buddha; the perfectly enlightened teacher who embodies the five perfections. Not to be confused with the bodhisattva of the same name. | 01-01-01-01:6 |
 | **samaya** (dam tshig) | Binding pledge or vow; commitment to the path; root and branch samayas. | 02-17-01-01:30130 |
-| **Sambhogakāya** (longs sku) | Enjoyment body; the dimension of enlightened communication and self-appearance. In Dzogchen: self-appearing luminosity (rang snang), the nature-aspect (rang bzhin) of spontaneous presence (lhun grub); inseparable from Dharmakaya.
+| **Sambhogakāya** (longs sku) | Enjoyment body; the dimension of enlightened communication and self-appearance. In Dzogchen: self-appearing luminosity (rang snang), the nature-aspect (rang bzhin) of spontaneous presence (lhun grub); inseparable from Dharmakaya. | 01-01-01-01:6 |
+| **samādhi** (ting nge 'dzin) | Meditative concentration, meditative absorption; one-pointed stability of mind. In liturgical contexts, often refers to specific named samādhis (e.g., Sūraṅgama samādhi, jewel-crest samādhi). | 01-01-02-01:547 |
+| **piṇḍapāta** | Alms-round; the practice of collecting food offerings; in this text, symbolic of transcending attachment through engagement with the world. | 01-01-02-01:517 |
+| **nidāna** | Causal connection, occasion; in sūtra literature, the opening formula "Thus have I heard" and the circumstances surrounding a teaching. | 01-01-02-01:539 |
+| **udāna** | Solemn utterance, inspired exclamation; spontaneous expressions of realization. | 01-01-02-01:542 |
+| **avadāna** | Heroic deed, narrative; stories of past actions and their karmic results. | 01-01-02-01:543 |
+| **adbhuta-dharma** | Marvelous qualities, miraculous manifestations; accounts of supernatural events. | 01-01-02-01:545 |
+| **sūraṅgama** | Heroic march, heroic progress; a powerful samādhi of unwavering concentration. | 01-01-02-01:547 |
+| **vicāra** | Analysis, discernment, sustained examination; one of the factors of meditative absorption. | 01-01-02-01:549 |
+| **uṣṇīṣa** | Crown protuberance, crown jewel; one of the thirty-two marks of a Buddha, symbolizing supreme enlightenment. | 01-01-02-01:554 |
+| **vidyādhara** (rig 'dzin) | Awareness-holder, knowledge-holder; one who holds and transmits the vidya (awareness) teachings; in this text, refers to the sign-transmitted lineage. | 01-01-02-01:570 |
 | **nature** (rang bzhin) | The nature-aspect of the basis (gzhi); how the essence naturally manifests as clarity, luminosity, and spontaneous presence (lhun grub). One of the three aspects of the ground: essence (ngo bo), nature (rang bzhin), and compassion (thugs rje). | 01-04-01-01:1914 |
 | **non-recognition** (ma rig pa) | Failure to recognize the nature of one's own mind; fundamental ignorance in Dzogchen. Not mere intellectual ignorance but the non-recognition (ma rig) of rigpa as one's own nature, leading to the delusion of dualistic perception. The root of saṃsāra. | 01-09-01-01:11335 |
 | **essence** (ngo bo) | The essence-aspect of the basis (gzhi); the empty, open quality of the ground that is primordially pure (ka dag). One of the three aspects of the ground: essence (ngo bo), nature (rang bzhin), and compassion (thugs rje). | 01-08-01-01:10480 |
