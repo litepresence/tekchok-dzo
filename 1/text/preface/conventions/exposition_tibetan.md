@@ -51,12 +51,49 @@ Layer applies:
 - Consistent use of standard Tibetan orthography
 - Clarification of degraded passages
 
+**Documented Repairs**
+
+| Date | Issue | Scope | Method |
+|------|-------|-------|--------|
+| 2026-03-03 | Double tsheg (`་་` → `་`) | 182 occurrences in 79 files | Automated find/replace |
+
+**Double Tsheg Repair (2026-03-03)**
+
+During validation analysis, 182 instances of double tsheg (`་་`) were
+detected across 79 files. This is a known OCR artifact in Tibetan
+digitization—the tsheg (syllable separator) was duplicated during
+text recognition.
+
+**Why this is an OCR error, not intentional:**
+- Double tsheg has **no grammatical function** in Classical Tibetan
+- No scribal or doctrinal reason for this mark in any Tibetan literary
+  tradition
+- Pattern matches known OCR failure modes (ink smudge, paper texture
+  ambiguity)
+- Present in both Tibetan and mechanically-generated Wylie layers,
+  confirming origin from BDRC source
+- "Khenpo Reviewed" designation should have caught this, but digital
+  extraction reintroduced the artifact
+
+**Examples of repairs:**
+```
+ལྷུན་་གྲུབ    → ལྷུན་གྲུབ      (lhun grub, "spontaneous accomplishment")
+རྣམ་་པར་དག   → རྣམ་པར་དག     (rnam par dag, "completely pure")
+ཐུགས་་ཀྱི་    → ཐུགས་ཀྱི་       (thugs kyi, "mind's")
+```
+
+This repair restores orthographically correct Tibetan. The change is
+cosmetic—readers mentally auto-correct—but documented for textual
+integrity and publication standards.
+
 **What Was Preserved**
 
 - All meaningful textual variants
 - Original line structure
 - Section divisions
 - Editorial character of the source editions
+- Legitimate orthographic variations (e.g., ཀུན་བཟང vs ཀུན་ཏུ་བཟང་པོ,
+  ལྷུན་གྲུབ vs ལྷུན་གྱིས་གྲུབ, contextual tsheg usage)
 
 ## The Sanctity of the Source
 
