@@ -1,34 +1,27 @@
 // Conventions page - dark mode and layer switching
-(function() {
-    document.addEventListener('DOMContentLoaded', function() {
-        const isDark = localStorage.getItem('darkMode') !== 'false';
-        if (!isDark) document.body.classList.add('light-mode');
-    });
-    
-    window.addEventListener('message', function(e) {
-        if (e.data && e.data.type === 'darkModeChange') {
-            if (e.data.enabled) {
-                document.body.classList.remove('light-mode');
-            } else {
-                document.body.classList.add('light-mode');
-            }
-            localStorage.setItem('darkMode', e.data.enabled);
-        }
-        if (e.data && e.data.type === 'layerChange') {
-            let newLayer = e.data.layer;
-            if (newLayer === 'introduction') newLayer = 'liturgical';
-            window.location.href = '?layer=' + newLayer;
-        }
-    });
-})();
+
+// Initialize dark mode from shared.js
+SharedJS.initDarkMode();
+
+// Listen for messages from parent
+window.addEventListener('message', function(e) {
+    if (e.data && e.data.type === 'darkModeChange') {
+        // Already handled by initDarkMode(), but keep for backwards compatibility
+    }
+    if (e.data && e.data.type === 'layerChange') {
+        let newLayer = e.data.layer;
+        if (newLayer === 'introduction') newLayer = 'liturgical';
+        window.location.href = '?layer=' + newLayer;
+    }
+});
 
 document.addEventListener('DOMContentLoaded', function() {
     const params = new URLSearchParams(window.location.search);
     let layer = params.get('layer') || 'liturgical';
-    
+
     // Default introduction to liturgical
     if (layer === 'introduction') layer = 'liturgical';
-    
+
     // Map layer names to display names
     const layerNames = {
         'tibetan': 'Tibetan',
@@ -41,7 +34,7 @@ document.addEventListener('DOMContentLoaded', function() {
         'delusion': 'Delusion',
         'cognitive': 'Cognitive'
     };
-    
+
     // Hide all sections except the selected one
     const sections = document.querySelectorAll('.convention-section');
     sections.forEach(section => {
@@ -51,7 +44,7 @@ document.addEventListener('DOMContentLoaded', function() {
             section.style.display = 'none';
         }
     });
-    
+
     // Hide TOC since we're showing only one layer
     const toc = document.querySelector('.toc');
     if (toc) toc.style.display = 'none';

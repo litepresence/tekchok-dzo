@@ -2,6 +2,21 @@
 // ALN (Absolute Line Numbers): 1-37756
 // Uses window.ALN from aln_data.js (embedded, file:// compatible)
 
+// Initialize dark mode from shared.js
+SharedJS.initDarkMode();
+
+// Layer-specific configuration
+const totalChapters = 27; // Main + 2 volumes + 24 chapters
+const chapterKeys = ['intro-main', 'vol-01', 'vol-02', 'chap-01-01', 'chap-01-02', 'chap-01-03', 'chap-01-04', 'chap-01-05', 'chap-01-06', 'chap-01-07', 'chap-01-08', 'chap-01-09', 'chap-01-10', 'chap-01-11', 'chap-01-12', 'chap-01-13', 'chap-01-14', 'chap-02-15', 'chap-02-16', 'chap-02-17', 'chap-02-18', 'chap-02-19', 'chap-02-20', 'chap-02-21', 'chap-02-22', 'chap-02-23', 'chap-02-24', 'chap-02-25'];
+const chapterTitles = ['Main Introduction', 'Volume 01', 'Volume 02', 'Chapter 1', 'Chapter 2', 'Chapter 3', 'Chapter 4', 'Chapter 5', 'Chapter 6', 'Chapter 7', 'Chapter 8', 'Chapter 9', 'Chapter 10', 'Chapter 11', 'Chapter 12', 'Chapter 13', 'Chapter 14', 'Chapter 15', 'Chapter 16', 'Chapter 17', 'Chapter 18', 'Chapter 19', 'Chapter 20', 'Chapter 21', 'Chapter 22', 'Chapter 23', 'Chapter 24', 'Chapter 25'];
+
+// State object
+const state = {
+    currentChapter: 0,
+    totalChapters: totalChapters,
+    chapterKeys: chapterKeys
+};
+
 function getVolumeFromALN(aln) {
     return window.ALN.getVolumeFromALN(aln);
 }
@@ -15,22 +30,22 @@ function showChapter(index) {
     sections.forEach((sec, i) => {
         sec.classList.toggle('active', i === index);
     });
-    currentChapter = index;
-    updateNavButtons();
-    updateIndicator();
+    state.currentChapter = index;
+    updateNavButtons(state);
+    updateIndicator(state);
     window.scrollTo({ top: 0, behavior: 'instant' });
 }
 
 function nextChapter() {
-    if (currentChapter < totalChapters - 1) {
-        showChapter(currentChapter + 1);
+    if (state.currentChapter < totalChapters - 1) {
+        showChapter(state.currentChapter + 1);
         notifyParentOfChapterChange();
     }
 }
 
 function prevChapter() {
-    if (currentChapter > 0) {
-        showChapter(currentChapter - 1);
+    if (state.currentChapter > 0) {
+        showChapter(state.currentChapter - 1);
         notifyParentOfChapterChange();
     }
 }
@@ -38,14 +53,14 @@ function prevChapter() {
 function notifyParentOfChapterChange() {
     const activeSection = document.querySelector('.intro-section.active');
     if (!activeSection) return;
-    
+
     // Use data-aln-start attribute if available
     let aln = activeSection.dataset.alnStart;
     if (!aln) {
         // Fallback: derive from section ID
         aln = getALNFromSectionId(activeSection.id);
     }
-    
+
     if (aln) {
         window.parent.postMessage({ type: 'chapterChanged', line: parseInt(aln) }, '*');
     }
@@ -58,26 +73,26 @@ function getALNFromSectionId(sectionId) {
         'vol-01': 'vol-01',
         'vol-02': 'vol-02',
     };
-    
+
     if (sectionId.startsWith('chap-')) {
         mapping[sectionId] = sectionId.replace('chap-', '');
     }
-    
+
     const introId = mapping[sectionId] || sectionId;
     return window.ALN.getALNFromIntroId(introId);
 }
 
-function updateNavButtons() {
+function updateNavButtons(state) {
     const prevBtn = document.getElementById('prevBtn');
     const nextBtn = document.getElementById('nextBtn');
-    if (prevBtn) prevBtn.disabled = currentChapter === 0;
-    if (nextBtn) nextBtn.disabled = currentChapter === totalChapters - 1;
+    if (prevBtn) prevBtn.disabled = state.currentChapter === 0;
+    if (nextBtn) nextBtn.disabled = state.currentChapter === state.totalChapters - 1;
 }
 
-function updateIndicator() {
+function updateIndicator(state) {
     const indicator = document.getElementById('sectionIndicator');
-    if (indicator && chapterTitles[currentChapter]) {
-        indicator.textContent = chapterTitles[currentChapter];
+    if (indicator && chapterTitles[state.currentChapter]) {
+        indicator.textContent = chapterTitles[state.currentChapter];
     }
 }
 
@@ -121,14 +136,14 @@ function handleHashNavigation() {
         if (goToLine('chap-' + chapterId)) return;
         if (goToLine('vol-' + chapterId)) return;
     }
-    
+
     // Try to navigate to ALN from parent
     const params = new URLSearchParams(window.location.search);
     const line = params.get('line');
     if (line) {
         if (goToALN(parseInt(line))) return;
     }
-    
+
     showChapter(0);
 }
 
@@ -137,30 +152,30 @@ let lastReportedALN = null;
 function reportCurrentPosition() {
     const activeSection = document.querySelector('.intro-section.active');
     if (!activeSection) return;
-    
+
     // Use data-aln-start attribute if available
     let aln = activeSection.dataset.alnStart;
     if (!aln) {
         aln = getALNFromSectionId(activeSection.id);
     }
-    
+
     if (aln && aln !== lastReportedALN) {
         lastReportedALN = aln;
-        window.parent.postMessage({ 
-            type: 'chapterPosition', 
+        window.parent.postMessage({
+            type: 'chapterPosition',
             line: parseInt(aln)
         }, '*');
     }
 }
 
 document.addEventListener('DOMContentLoaded', () => {
-    updateNavButtons();
-    updateIndicator();
+    updateNavButtons(state);
+    updateIndicator(state);
     handleHashNavigation();
-    
+
     window.addEventListener('scroll', reportCurrentPosition);
     setTimeout(reportCurrentPosition, 500);
-    
+
     // Listen for navigation from parent (index.html)
     window.addEventListener('message', function(e) {
         if (e.data && e.data.type === 'prevChapter') {
@@ -169,7 +184,7 @@ document.addEventListener('DOMContentLoaded', () => {
             nextChapter();
         }
     });
-    
+
     window.addEventListener('message', function(e) {
         if (e.data && e.data.type === 'navigateIntroduction') {
             if (e.data.chapter) {
@@ -186,19 +201,3 @@ document.addEventListener('DOMContentLoaded', () => {
         }
     });
 });
-
-// Dark mode handling - sync with parent
-(function() {
-    const isDark = localStorage.getItem('darkMode') !== 'false';
-    if (!isDark) document.body.classList.add('light-mode');
-    window.addEventListener('message', function(e) {
-        if (e.data && e.data.type === 'darkModeChange') {
-            if (e.data.enabled) {
-                document.body.classList.remove('light-mode');
-            } else {
-                document.body.classList.add('light-mode');
-            }
-            localStorage.setItem('darkMode', e.data.enabled);
-        }
-    });
-})();

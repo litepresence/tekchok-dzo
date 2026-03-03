@@ -311,10 +311,10 @@ def build_full_document(sections_html, total_sections):
     section_ids = [s["id"] for s in FILE_SEQUENCE]
     section_titles = [s["title"] for s in FILE_SEQUENCE]
 
-    js_script = f"""
+    js_script = f"""<!-- WARNING: This file is auto-generated. Do not edit directly. -->
+<!-- Edit /js/introduction.js and run process_introduction.py to regenerate. -->
+<script src="../js/shared.js"></script>
 <script>
-let currentChapter = 0;
-const totalChapters = {total_sections};
 const chapterKeys = {section_ids};
 const chapterTitles = {section_titles};
 </script>
@@ -324,6 +324,8 @@ const chapterTitles = {section_titles};
     return f"""<!DOCTYPE html>
 <html lang="en">
 <head>
+    <!-- WARNING: This file is auto-generated. Do not edit directly. -->
+    <!-- Edit the source files and run process_introduction.py to regenerate. -->
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Treasury Introductions</title>

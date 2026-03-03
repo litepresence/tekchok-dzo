@@ -51,10 +51,13 @@ def process_conventions():
     full_html = f"""<!DOCTYPE html>
 <html lang="en">
 <head>
+    <!-- WARNING: This file is auto-generated. Do not edit directly. -->
+    <!-- Edit /js/conventions.js and run process_conventions.py to regenerate. -->
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="created" content="{datetime.now().isoformat()}">
     <link rel="stylesheet" href="../css/conventions.css">
+    <script src="../js/shared.js"></script>
     <script src="../js/conventions.js"></script>
 </head>
 <body>

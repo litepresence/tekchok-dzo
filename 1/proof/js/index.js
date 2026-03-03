@@ -96,10 +96,12 @@ function handlePrev() {
         const currentIndex = conventionsLayers.indexOf(currentLayer);
         const prevIndex = (currentIndex - 1 + conventionsLayers.length) % conventionsLayers.length;
         const newLayer = conventionsLayers[prevIndex];
-        
+
+        iframe.onload = function() {
+            sendDarkModeStatusToIframe(iframe);
+        };
         iframe.src = iframe.dataset.src + '?layer=' + newLayer;
-        sendDarkModeStatus();
-        
+
         // Update layer dropdown
         document.getElementById('layer-select').value = '#' + newLayer;
         return;
@@ -110,22 +112,25 @@ function handlePrev() {
         const iframe = document.querySelector('#contents-frame');
         if (iframe && iframe.contentWindow) {
             iframe.contentWindow.postMessage({ type: 'prevChapter' }, '*');
+            sendDarkModeStatusToIframe(iframe);
         }
         return;
     }
-    
+
     // Handle glossary tab - cycle through letters
     if (state.layer === 'glossary') {
         const iframe = document.querySelector('#glossary-frame');
         if (iframe && iframe.contentWindow) {
             iframe.contentWindow.postMessage({ type: 'prevLetter' }, '*');
+            sendDarkModeStatusToIframe(iframe);
         }
         return;
     }
-    
+
     const iframe = document.querySelector(`#${state.layer} .layer-frame`);
     if (iframe && iframe.contentWindow) {
         iframe.contentWindow.postMessage({ type: 'prevChapter' }, '*');
+        sendDarkModeStatusToIframe(iframe);
     }
 }
 
@@ -142,29 +147,33 @@ function handleNext() {
         const currentIndex = conventionsLayers.indexOf(currentLayer);
         const nextIndex = (currentIndex + 1) % conventionsLayers.length;
         const newLayer = conventionsLayers[nextIndex];
-        
+
+        iframe.onload = function() {
+            sendDarkModeStatusToIframe(iframe);
+        };
         iframe.src = iframe.dataset.src + '?layer=' + newLayer;
-        sendDarkModeStatus();
-        
+
         // Update layer dropdown
         document.getElementById('layer-select').value = '#' + newLayer;
         return;
     }
-    
+
     // Handle contents tab - scroll to next chapter
     if (state.layer === 'contents') {
         const iframe = document.querySelector('#contents-frame');
         if (iframe && iframe.contentWindow) {
             iframe.contentWindow.postMessage({ type: 'nextChapter' }, '*');
+            sendDarkModeStatusToIframe(iframe);
         }
         return;
     }
-    
+
     // Handle glossary tab - cycle through letters
     if (state.layer === 'glossary') {
         const iframe = document.querySelector('#glossary-frame');
         if (iframe && iframe.contentWindow) {
             iframe.contentWindow.postMessage({ type: 'nextLetter' }, '*');
+            sendDarkModeStatusToIframe(iframe);
         }
         return;
     }
@@ -172,6 +181,7 @@ function handleNext() {
     const iframe = document.querySelector(`#${state.layer} .layer-frame`);
     if (iframe && iframe.contentWindow) {
         iframe.contentWindow.postMessage({ type: 'nextChapter' }, '*');
+        sendDarkModeStatusToIframe(iframe);
     }
 }
 
@@ -441,8 +451,10 @@ function handleLayerSelect(value) {
         if (iframe) {
             let effectiveLayer = targetLayer;
             if (effectiveLayer === 'introduction') effectiveLayer = 'liturgical';
+            iframe.onload = function() {
+                sendDarkModeStatusToIframe(iframe);
+            };
             iframe.src = iframe.dataset.src + '?layer=' + effectiveLayer;
-            sendDarkModeStatus();
         }
         // Don't call setLayer() - keep state.layer as 'conventions' for subsequent changes
         return;
@@ -589,8 +601,10 @@ function showLayer(layerId, targetLine) {
             if (dropdownLayer === 'introduction') dropdownLayer = 'liturgical';
             src += '?layer=' + dropdownLayer;
             if (!needsLoad) {
+                iframe.onload = function() {
+                    sendDarkModeStatusToIframe(iframe);
+                };
                 iframe.src = src;
-                sendDarkModeStatus();
                 updateLayerDropdown(layerId);
                 return;
             }
@@ -615,21 +629,25 @@ function showLayer(layerId, targetLine) {
         
         // Always update src when line changes, not just on initial load
         if (needsLoad) {
+            iframe.onload = function() {
+                sendDarkModeStatusToIframe(iframe);
+            };
             iframe.src = src;
-            sendDarkModeStatus();
         } else if (lineLayers.includes(layerId) && lineToUse && !isNaN(lineToUse)) {
             // Iframe already loaded - always update its hash to navigate to correct position
             try {
                 iframe.contentWindow.location.hash = `#line-${lineToUse}`;
             } catch(e) {
                 // Cross-origin or other error - reload instead
+                iframe.onload = function() {
+                    sendDarkModeStatusToIframe(iframe);
+                };
                 iframe.src = src;
-                sendDarkModeStatus();
             }
         }
-        
+
         // Always sync dark mode when navigating to any layer
-        sendDarkModeStatus();
+        sendDarkModeStatusToIframe(iframe);
     }
 
     updateLayerDropdown(layerId);
@@ -847,19 +865,28 @@ document.querySelectorAll('.layer-frame').forEach(iframe => {
 // DARK MODE
 // ==========================================================================
 
-function sendDarkModeStatus() {
+function sendDarkModeStatusToIframe(iframe) {
+    if (!iframe || !iframe.contentWindow) return;
+    
     localStorage.setItem('darkMode', document.body.classList.contains('dark-mode'));
     const isDark = document.body.classList.contains('dark-mode');
     
+    try {
+        setTimeout(() => {
+            iframe.contentWindow.postMessage({
+                type: 'darkModeChange',
+                enabled: isDark
+            }, '*');
+        }, 50);
+    } catch (e) {}
+}
+
+function sendDarkModeStatus() {
+    localStorage.setItem('darkMode', document.body.classList.contains('dark-mode'));
+    const isDark = document.body.classList.contains('dark-mode');
+
     document.querySelectorAll('.layer-frame').forEach(iframe => {
-        try {
-            setTimeout(() => {
-                iframe.contentWindow.postMessage({
-                    type: 'darkModeChange',
-                    enabled: isDark
-                }, '*');
-            }, 10);
-        } catch (e) {}
+        sendDarkModeStatusToIframe(iframe);
     });
 }
 
@@ -869,18 +896,7 @@ function toggleDarkMode() {
     const btn = document.querySelector('.dark-mode-toggle');
     btn.textContent = document.body.classList.contains('dark-mode') ? 'Light' : 'Dark';
     localStorage.setItem('darkMode', document.body.classList.contains('dark-mode'));
-    const isDark = document.body.classList.contains('dark-mode');
-    
-    document.querySelectorAll('.layer-frame').forEach(iframe => {
-        try {
-            setTimeout(() => {
-                iframe.contentWindow.postMessage({
-                    type: 'darkModeChange',
-                    enabled: isDark
-                }, '*');
-            }, 10);
-        } catch (e) {}
-    });
+    sendDarkModeStatus();
 }
 
 if (localStorage.getItem('darkMode') === 'false') {

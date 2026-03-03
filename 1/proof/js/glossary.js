@@ -1,8 +1,12 @@
-// Dark mode handling - sync with parent
+// Glossary page - Letter navigation and dark mode handling
+
+// Initialize dark mode from shared.js
+SharedJS.initDarkMode();
+
 (function() {
     const letters = 'ABCDEFGHIJKLMNOPQRSTUVWXYZ'.split('');
     let currentLetter = 'A';
-    
+
     function navigateToLetter(letter) {
         currentLetter = letter;
         const target = document.getElementById('letter-' + letter);
@@ -10,7 +14,7 @@
             target.scrollIntoView({ behavior: 'smooth', block: 'start' });
         }
     }
-    
+
     function getNextLetter(direction) {
         const currentIndex = letters.indexOf(currentLetter);
         if (direction === 'next') {
@@ -19,7 +23,7 @@
             return letters[(currentIndex - 1 + letters.length) % letters.length];
         }
     }
-    
+
     function handleLineLinkClick(e) {
         e.preventDefault();
         const lineNum = e.target.getAttribute('data-line');
@@ -27,33 +31,23 @@
             window.parent.postMessage({ type: 'navigateToLine', line: parseInt(lineNum) }, '*');
         }
     }
-    
+
     document.addEventListener('DOMContentLoaded', function() {
-        const isDark = localStorage.getItem('darkMode') !== 'false';
-        if (!isDark) document.body.classList.add('light-mode');
-        
         // Set initial letter from URL hash
         const hash = window.location.hash;
         if (hash && hash.startsWith('#letter-')) {
             currentLetter = hash.replace('#letter-', '');
         }
-        
+
         // Add click handlers for line links
         document.querySelectorAll('.line-link').forEach(function(link) {
             link.addEventListener('click', handleLineLinkClick);
         });
     });
-    
+
     window.addEventListener('message', function(e) {
         if (e.data) {
-            if (e.data.type === 'darkModeChange') {
-                if (e.data.enabled) {
-                    document.body.classList.remove('light-mode');
-                } else {
-                    document.body.classList.add('light-mode');
-                }
-                localStorage.setItem('darkMode', e.data.enabled);
-            } else if (e.data.type === 'prevLetter') {
+            if (e.data.type === 'prevLetter') {
                 navigateToLetter(getNextLetter('prev'));
             } else if (e.data.type === 'nextLetter') {
                 navigateToLetter(getNextLetter('next'));

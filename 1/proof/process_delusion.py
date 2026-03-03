@@ -277,12 +277,9 @@ def build_chapter_html(file_html_list, chapter_key, chapter_index):
 def build_full_document(all_chapter_content, chapter_keys, total_chapters):
     """Wraps everything in HTML5 boilerplate with navigation."""
 
-    js_script = f"""
-<script>
-let currentChapter = 0;
-const totalChapters = {total_chapters};
-const chapterKeys = {chapter_keys};
-</script>
+    js_script = f"""<!-- WARNING: This file is auto-generated. Do not edit directly. -->
+<!-- Edit /js/delusion.js and run process_delusion.py to regenerate. -->
+<script src="../js/shared.js"></script>
 <script src="../js/delusion.js"></script>
 """
 
@@ -291,6 +288,8 @@ const chapterKeys = {chapter_keys};
     return f"""<!DOCTYPE html>
 <html lang="en">
 <head>
+    <!-- WARNING: This file is auto-generated. Do not edit directly. -->
+    <!-- Edit the source files and run process_delusion.py to regenerate. -->
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Delusion Analysis Collection</title>

@@ -1,110 +1,23 @@
-@page {
-    size: 6in 9in;
-    margin: 0.75in;
-    @bottom-center {
-        content: counter(page);
-        color: #888;
-    }
-}
+/* ==========================================================================
+   LITERAL.CSS - Literal translation layer styles
+   ========================================================================== */
+@import url('main.css');
+@import url('shared.css');
 
+/* ==========================================================================
+   LAYER-SPECIFIC VARIABLES
+   ========================================================================== */
 :root {
-    --font-main: 'Georgia', 'Times New Roman', serif;
-    --font-mono: 'Courier New', 'Consolas', monospace;
-    --font-sans: 'Helvetica', 'Arial', sans-serif;
-    
-    --color-bg: #1e1e1e;
-    --color-text: #e0e0e0;
-    --color-muted: #a0a0a0;
     --color-accent: #64b5f6;
-    --color-line-num: #757575;
-    --color-border: #3a3a3a;
-    --color-btn: #2d5a7b;
-    --color-btn-hover: #3d7a9b;
-    
-    --line-height: 1.5;
 }
 
 body.light-mode {
-    --color-bg: #f9f7f1;
-    --color-text: #2a2a2a;
-    --color-muted: #666;
     --color-accent: #8b5a2b;
-    --color-line-num: #999;
-    --color-border: #ddd;
-    --color-btn: #1565c0;
-    --color-btn-hover: #1976d2;
 }
 
-* {
-    box-sizing: border-box;
-}
-
-body {
-    font-family: var(--font-main);
-    color: var(--color-text);
-    line-height: var(--line-height);
-    font-size: 13pt;
-    margin: 0;
-    padding: 0;
-    background-color: var(--color-bg);
-    -webkit-print-color-adjust: exact;
-    print-color-adjust: exact;
-}
-
-.document {
-    max-width: 40%;
-    margin: 0 auto;
-    padding: 0;
-}
-
-.chapter {
-    display: none;
-}
-.chapter.active {
-    display: block;
-}
-
-.file-separator {
-    margin-top: 2em;
-    margin-bottom: 1em;
-    padding-top: 1em;
-    border-top: 1px solid var(--color-border);
-    text-align: center;
-    font-variant: small-caps;
-    color: var(--color-accent);
-    font-size: 0.95em;
-    letter-spacing: 2px;
-}
-.file-separator:first-child {
-    margin-top: 0;
-}
-
-.line-grid {
-    display: grid;
-    grid-template-columns: 45px 1fr;
-    column-gap: 12px;
-    margin: 0;
-    padding: 0;
-}
-
-.line-num {
-    grid-column: 1;
-    text-align: right;
-    font-family: var(--font-sans);
-    font-size: 0.7em;
-    color: var(--color-line-num);
-    padding-top: 2px;
-    user-select: none;
-    border-right: 1px solid var(--color-border);
-    padding-right: 8px;
-}
-
-.line-content {
-    grid-column: 2;
-    margin: 0;
-    padding: 1px 0;
-}
-
+/* ==========================================================================
+   LITERAL-LINE SPECIFIC STYLES
+   ========================================================================== */
 .literal-line {
     display: block;
     margin: 0;
@@ -126,63 +39,12 @@ body {
     white-space: nowrap;
 }
 
-.highlighted-line {
-    border-radius: 3px;
-    animation: highlightFade 1s ease-out forwards;
-}
-
+/* ==========================================================================
+   LAYER-SPECIFIC HIGHLIGHT COLOR
+   ========================================================================== */
 @keyframes highlightFade {
-    0% { background-color: rgba(100, 181, 246, 0.0); }
+    0% { background-color: rgba(50, 50, 50, 0.5); }
     60% { background-color: rgba(100, 181, 246, 0.6); }
     80% { background-color: rgba(100, 181, 246, 0.6); }
-    100% {  }
-}
-
-.toc {
-    margin-bottom: 3em;
-    page-break-after: always;
-}
-.toc h1 {
-    text-align: center;
-    font-variant: small-caps;
-    margin-bottom: 1.5em;
-    color: var(--color-accent);
-}
-.toc ul {
-    list-style: none;
-    padding-left: 0;
-}
-.toc li {
-    margin-bottom: 0.5em;
-    color: var(--color-text);
-}
-.toc a {
-    text-decoration: none;
-    color: inherit;
-}
-.toc a:hover {
-    color: var(--color-accent);
-    text-decoration: underline;
-}
-
-@media print {
-    body {
-        font-size: 9.5pt;
-        -webkit-print-color-adjust: exact;
-        print-color-adjust: exact;
-    }
-    .document {
-        max-width: none;
-    }
-    a {
-        text-decoration: none;
-        color: inherit;
-    }
-    .line-num {
-        border-right: 1px solid var(--color-border);
-    }
-    .chapter {
-        display: block !important;
-        page-break-after: always;
-    }
+    100% { background-color: rgba(50, 50, 50, 0.5); }
 }

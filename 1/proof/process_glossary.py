@@ -282,10 +282,13 @@ class GlossaryConverter:
         html_template = """<!DOCTYPE html>
 <html lang="en">
 <head>
+    <!-- WARNING: This file is auto-generated. Do not edit directly. -->
+    <!-- Edit /js/glossary.js and run process_glossary.py to regenerate. -->
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Glossary of Lineage-Specific Terms</title>
     <link rel="stylesheet" href="../css/glossary.css">
+    <script src="../js/shared.js"></script>
     <script src="../js/glossary.js"></script>
 </head>
 <body>
@@ -352,10 +355,13 @@ def convert_with_markdown_library(input_file: str, output_file: str):
     html_template = """<!DOCTYPE html>
 <html lang="en">
 <head>
+    <!-- WARNING: This file is auto-generated. Do not edit directly. -->
+    <!-- Edit /js/glossary.js and run process_glossary.py to regenerate. -->
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Glossary of Lineage-Specific Terms</title>
     <link rel="stylesheet" href="../css/glossary.css">
+    <script src="../js/shared.js"></script>
     <script src="../js/glossary.js"></script>
 </head>
 <body>

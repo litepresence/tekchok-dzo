@@ -1,212 +1,107 @@
-    @page {
-        size: 6in 9in;
-        margin: 0.75in;
-        @bottom-center {
-            content: counter(page);
-            color: #888;
-        }
-    }
+/* ==========================================================================
+   LITURGICAL.CSS - Liturgical translation layer styles
+   ========================================================================== */
+@import url('main.css');
+@import url('shared.css');
 
-    :root {
-        --font-main: 'Georgia', 'Times New Roman', serif;
-        --font-sans: 'Helvetica', 'Arial', sans-serif;
-        
-        --color-bg: #1e1e1e;
-        --color-text: #e0e0e0;
-        --color-muted: #a0a0a0;
-        --color-accent: #c9a55c;
-        --color-mantra: #e07050;
-        --color-border: #3a3a3a;
-        --color-btn: #2d5a7b;
-        --color-btn-hover: #3d7a9b;
-        
-        --line-height: 1.3;
-    }
+/* ==========================================================================
+   LAYER-SPECIFIC VARIABLES
+   ========================================================================== */
+:root {
+    --color-accent: #c9a55c;
+    --color-mantra: #e07050;
+}
 
-    body.light-mode {
-        --color-bg: #f9f7f1;
-        --color-text: #2a2a2a;
-        --color-muted: #666;
-        --color-accent: #8b5a2b;
-        --color-mantra: #c62828;
-        --color-border: #ddd;
-        --color-btn: #1565c0;
-        --color-btn-hover: #1976d2;
-    }
+body.light-mode {
+    --color-accent: #8b5a2b;
+    --color-mantra: #c62828;
+}
 
-    * {
-        box-sizing: border-box;
-    }
+/* ==========================================================================
+   LITURGICAL TEXT FORMATTING
+   ========================================================================== */
+.prose {
+    display: block;
+    margin-top: 0;
+    margin-bottom: 0.5em;
+    text-align: justify;
+    hyphens: auto;
+    -webkit-hyphens: auto;
+    color: var(--color-text);
+}
 
-    body {
-        font-family: var(--font-main);
-        color: var(--color-text);
-        line-height: var(--line-height);
-        font-size: 13pt;
-        margin: 0;
-        padding: 0;
-        background-color: var(--color-bg);
-        -webkit-print-color-adjust: exact;
-        print-color-adjust: exact;
-    }
+.prose.break-before {
+    margin-top: 1em;
+    text-indent: 1.5em;
+}
 
-    .document {
-        max-width: 40%;
-        margin: 0 auto;
-        padding: 0;
-    }
+.verse {
+    display: block;
+    text-align: center;
+    font-style: italic;
+    margin: 0.4em 0;
+    color: var(--color-muted);
+    page-break-inside: avoid;
+}
 
-    .chapter {
-        display: none;
-    }
-    .chapter.active {
-        display: block;
-    }
+.tantra {
+    display: block;
+    margin: 0.2em 0;
+    padding-left: 1.5em;
+    border-left: 2px solid var(--color-accent);
+    color: var(--color-accent);
+    font-style: italic;
+    page-break-inside: avoid;
+}
 
-    .file-separator {
-        margin-top: 2em;
-        margin-bottom: 1em;
-        padding-top: 1em;
-        border-top: 1px solid var(--color-border);
-        text-align: center;
-        font-variant: small-caps;
-        color: var(--color-accent);
-        font-size: 0.9em;
-        letter-spacing: 2px;
-    }
+.ornament {
+    display: block;
+    text-align: center;
+    font-variant: small-caps;
+    font-weight: bold;
+    color: var(--color-accent);
+    margin: 1.5em 0 0.8em 0;
+    letter-spacing: 1.5px;
+    font-size: 1.05em;
+    page-break-after: avoid;
+}
 
-    .prose {
-        display: block;
-        margin-top: 0;
-        margin-bottom: 0.5em;
-        text-align: justify;
-        hyphens: auto;
-        -webkit-hyphens: auto;
-        color: var(--color-text);
-    }
-    
-    .prose.break-before {
-        margin-top: 1em;
-        text-indent: 1.5em;
-    }
+.mantra {
+    display: inline-block;
+    font-weight: bold;
+    color: var(--color-mantra);
+    font-family: var(--font-sans);
+    letter-spacing: 0.5px;
+}
 
-    .verse {
-        display: block;
-        text-align: center;
-        font-style: italic;
-        margin: 0.4em 0;
-        color: var(--color-muted);
-        page-break-inside: avoid;
-    }
+.list {
+    display: list-item;
+    list-style-type: disc;
+    margin-left: 1.5em;
+    margin-top: 0.1em;
+    margin-bottom: 0.1em;
+    color: var(--color-text);
+}
 
-    .tantra {
-        display: block;
-        margin: 0.2em 0;
-        padding-left: 1.5em;
-        border-left: 2px solid var(--color-accent);
-        color: var(--color-accent);
-        font-style: italic;
-        page-break-inside: avoid;
-    }
+.verse-marker {
+    font-size: 0.75em;
+    vertical-align: super;
+    color: var(--color-muted);
+    margin-left: 4px;
+    font-family: var(--font-sans);
+}
 
-    .ornament {
-        display: block;
-        text-align: center;
-        font-variant: small-caps;
-        font-weight: bold;
-        color: var(--color-accent);
-        margin: 1.5em 0 0.8em 0;
-        letter-spacing: 1.5px;
-        font-size: 1.05em;
-        page-break-after: avoid;
-    }
+/* ==========================================================================
+   LAYER-SPECIFIC HIGHLIGHT COLOR
+   ========================================================================== */
+@keyframes highlightFade {
+    0% { background-color: rgba(50, 50, 50, 0.5); }
+    60% { background-color: rgba(201, 165, 92, 0.6); }
+    80% { background-color: rgba(201, 165, 92, 0.6); }
+    100% { background-color: rgba(50, 50, 50, 0.5); }
+}
 
-    .mantra {
-        display: inline-block;
-        font-weight: bold;
-        color: var(--color-mantra);
-        font-family: var(--font-sans);
-        letter-spacing: 0.5px;
-    }
-
-    .list {
-        display: list-item;
-        list-style-type: disc;
-        margin-left: 1.5em;
-        margin-top: 0.1em;
-        margin-bottom: 0.1em;
-        color: var(--color-text);
-    }
-
-    .verse-marker {
-        font-size: 0.75em;
-        vertical-align: super;
-        color: var(--color-muted);
-        margin-left: 4px;
-        font-family: var(--font-sans);
-    }
-
-    [id^="line-"]:target {
-        background-color: rgba(201, 165, 92, 0.3);
-        border-radius: 3px;
-    }
-
-    .highlighted-line {
-        border-radius: 3px;
-        animation: highlightFade 1s ease-out forwards;
-    }
-
-    @keyframes highlightFade {
-        0% { background-color: rgba(201, 165, 92, 0.0); }
-        60% { background-color: rgba(201, 165, 92, 0.6); }
-        80% { background-color: rgba(201, 165, 92, 0.6); }
-        100% {  }
-    }
-
-    .toc {
-        margin-bottom: 2em;
-        page-break-after: always;
-    }
-    .toc h1 {
-        text-align: center;
-        font-variant: small-caps;
-        margin-bottom: 1em;
-        color: var(--color-accent);
-    }
-    .toc ul {
-        list-style: none;
-        padding-left: 0;
-    }
-    .toc li {
-        margin-bottom: 0.3em;
-        color: var(--color-text);
-    }
-    .toc a {
-        text-decoration: none;
-        color: inherit;
-    }
-    .toc a:hover {
-        color: var(--color-accent);
-    }
-
-    @media print {
-        body {
-            font-size: 10.5pt;
-            -webkit-print-color-adjust: exact;
-            print-color-adjust: exact;
-        }
-        .document {
-            max-width: none;
-        }
-        a {
-            text-decoration: none;
-            color: inherit;
-        }
-        .file-separator {
-            border-top: 1px solid var(--color-border);
-        }
-        .chapter {
-            display: block !important;
-            page-break-after: always;
-        }
-    }
+[id^="line-"]:target {
+    background-color: rgba(201, 165, 92, 0.3);
+    border-radius: 3px;
+}

@@ -1,152 +1,62 @@
-    @page {
-        size: 6in 9in;
-        margin: 0.75in;
-        @bottom-center {
-            content: counter(page);
-        }
-    }
+/* ==========================================================================
+   COGNITIVE.CSS - Cognitive annotations layer styles
+   ========================================================================== */
+@import url('main.css');
+@import url('shared.css');
 
-    :root {
-        --font-main: 'Georgia', 'Times New Roman', serif;
-        --font-sans: 'Helvetica', 'Arial', sans-serif;
-        --font-mono: 'Consolas', 'Courier New', monospace;
-        
-        --color-bg: #1e1e1e;
-        --color-text: #e0e0e0;
-        --color-muted: #a0a0a0;
-        --color-accent: #4db6ac;
-        --color-line-range: #757575;
-        --color-border: #3a3a3a;
-        --color-btn: #455a64;
-        --color-btn-hover: #546e7a;
-        
-        --line-height: 1.4;
-    }
+/* ==========================================================================
+   LAYER-SPECIFIC VARIABLES
+   ========================================================================== */
+:root {
+    --color-accent: #4db6ac;
+    --color-btn: #455a64;
+    --color-btn-hover: #546e7a;
+}
 
-    body.light-mode {
-        --color-bg: #f9f7f1;
-        --color-text: #2a2a2a;
-        --color-muted: #666;
-        --color-accent: #8b5a2b;
-        --color-line-range: #999;
-        --color-border: #ddd;
-        --color-btn: #455a64;
-        --color-btn-hover: #546e7a;
-    }
+body.light-mode {
+    --color-accent: #8b5a2b;
+    --color-btn: #455a64;
+    --color-btn-hover: #546e7a;
+}
 
-    * {
-        box-sizing: border-box;
-    }
+/* ==========================================================================
+   COGNITIVE SPECIFIC STYLES
+   ========================================================================== */
+.entry-block {
+    margin: 0.8em 0;
+    padding: 0.4em 0.6em;
+    background-color: rgba(50, 70, 70, 0.3);
+    border-left: 2px solid var(--color-accent);
+}
 
-    body {
-        font-family: var(--font-main);
-        color: var(--color-text);
-        line-height: var(--line-height);
-        font-size: 13pt;
-        margin: 0;
-        padding: 0;
-        background-color: var(--color-bg);
-        -webkit-print-color-adjust: exact;
-        print-color-adjust: exact;
-    }
+.line-range {
+    font-size: 0.65em;
+    margin-right: 0.5em;
+    letter-spacing: 0.5px;
+}
 
-    .document {
-        max-width: 40%;
-        margin: 0 auto;
-        padding: 0;
-    }
+.cognitive-content {
+    font-size: 0.85em;
+    line-height: 1.4;
+    color: var(--color-text);
+    display: inline;
+}
 
-    .chapter {
-        display: none;
-    }
-    .chapter.active {
-        display: block;
-    }
+.term {
+    font-style: italic;
+    color: var(--color-muted);
+}
 
-    .file-separator {
-        margin-top: 2em;
-        margin-bottom: 1em;
-        padding-top: 1em;
-        border-top: 1px solid var(--color-border);
-        text-align: center;
-        font-variant: small-caps;
-        color: var(--color-accent);
-        font-size: 0.9em;
-        letter-spacing: 2px;
-        font-family: var(--font-sans);
-    }
-    .file-separator:first-child {
-        margin-top: 0;
-    }
+.iast {
+    font-style: italic;
+}
 
-    .entry-block {
-        margin: 0.8em 0;
-        padding: 0.4em 0.6em;
-        background-color: rgba(50, 70, 70, 0.3);
-        border-left: 2px solid var(--color-accent);
-        page-break-inside: avoid;
-    }
-
-    /* Line range display */
-    .line-range {
-        font-family: var(--font-sans);
-        font-size: 0.65em;
-        color: var(--color-line-range);
-        margin-right: 0.5em;
-        font-weight: bold;
-        letter-spacing: 0.5px;
-    }
-
-    /* Cognitive annotation content */
-    .cognitive-content {
-        font-size: 0.85em;
-        line-height: 1.4;
-        color: var(--color-text);
-        display: inline;
-    }
-
-    /* Technical terms in italics */
-    .term {
-        font-style: italic;
-        color: var(--color-muted);
-    }
-
-    /* Tibetan text */
-    .tibetan-inline {
-        font-family: 'Jomolhari', 'Noto Sans Tibetan', serif;
-        font-size: 0.85em;
-        color: var(--color-muted);
-    }
-
-    /* IAST transliteration */
-    .iast {
-        font-style: italic;
-    }
-
-    .highlighted-line {
-        border-radius: 3px;
-        animation: highlightFade 1s ease-out forwards;
-    }
-
-    @keyframes highlightFade {
-        0% { background-color: rgba(77, 182, 172, 0.0); }
-        60% { background-color: rgba(77, 182, 172, 0.6); }
-        80% { background-color: rgba(77, 182, 172, 0.6); }
-        100% {  }
-    }
-
-    @media print {
-        body {
-            font-size: 9pt;
-        }
-        .document {
-            max-width: none;
-        }
-        a {
-            text-decoration: none;
-            color: inherit;
-        }
-        .entry-block {
-            border-left: 1px solid #bbb;
-        }
-    }
+/* ==========================================================================
+   LAYER-SPECIFIC HIGHLIGHT COLOR
+   ========================================================================== */
+@keyframes highlightFade {
+    0% { background-color: rgba(50, 50, 50, 0.5); }
+    60% { background-color: rgba(77, 182, 172, 0.6); }
+    80% { background-color: rgba(77, 182, 172, 0.6); }
+    100% { background-color: rgba(50, 50, 50, 0.5); }
+}

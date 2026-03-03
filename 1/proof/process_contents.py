@@ -266,12 +266,16 @@ def build_full_document(data):
     return f"""<!DOCTYPE html>
 <html lang="en">
 <head>
+    <!-- WARNING: This file is auto-generated. Do not edit directly. -->
+    <!-- Edit the source files and run process_contents.py to regenerate. -->
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>{html.escape(data['title'])}</title>
     <meta name="generator" content="Contents Parser">
     <meta name="created" content="{datetime.now().isoformat()}">
     <link rel="stylesheet" href="../css/contents.css">
+    <script src="../js/shared.js"></script>
+    <script src="../js/contents.js"></script>
 </head>
 <body>
     <div class="document">

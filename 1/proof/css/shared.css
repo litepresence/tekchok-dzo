@@ -1,8 +1,243 @@
+/* ==========================================================================
+   SHARED.CSS - Common UI components for Dzogchen translation application
+   Import after main.css. Contains shared component styles.
+   ========================================================================== */
+
+/* ==========================================================================
+   LAYOUT CONTAINERS
+   ========================================================================== */
+.document {
+    max-width: 40%;
+    margin: 0 auto;
+    padding: 0;
+}
+
+/* ==========================================================================
+   CHAPTER DISPLAY LOGIC (for translation layers)
+   ========================================================================== */
+.chapter {
+    display: none;
+}
+
+.chapter.active {
+    display: block;
+}
+
+/* ==========================================================================
+   FILE SEPARATORS
+   ========================================================================== */
+.file-separator {
+    margin-top: 2em;
+    margin-bottom: 1em;
+    padding-top: 1em;
+    border-top: 1px solid var(--color-border);
+    text-align: center;
+    font-variant: small-caps;
+    color: var(--color-accent);
+    font-size: 0.95em;
+    letter-spacing: 2px;
+    font-family: var(--font-sans);
+}
+
+.file-separator:first-child {
+    margin-top: 0;
+}
+
+/* ==========================================================================
+   LINE GRID (for tibetan, wylie, literal layers)
+   ========================================================================== */
+.line-grid {
+    display: grid;
+    grid-template-columns: 45px 1fr;
+    column-gap: 12px;
+    margin: 0;
+    padding: 0;
+}
+
+.line-num {
+    grid-column: 1;
+    text-align: right;
+    font-family: var(--font-sans);
+    font-size: 0.7em;
+    color: var(--color-line-num);
+    padding-top: 2px;
+    user-select: none;
+    border-right: 1px solid var(--color-border);
+    padding-right: 8px;
+}
+
+.line-content {
+    grid-column: 2;
+    margin: 0;
+    padding: 1px 0;
+    background-color: rgba(50, 50, 50, 0.5);
+    border-radius: 3px;
+}
+
+/* ==========================================================================
+   ENTRY BLOCKS (for commentary, scholar, epistemic, delusion, cognitive)
+   ========================================================================== */
+.entry-block {
+    margin: 1.5em 0;
+    padding: 0.75em;
+    background-color: rgba(50, 50, 50, 0.5);
+    border-left: 4px solid var(--color-muted);
+    page-break-inside: avoid;
+}
+
+/* ==========================================================================
+   LINE RANGE DISPLAY
+   ========================================================================== */
+.line-range {
+    font-family: var(--font-sans);
+    font-size: 0.75em;
+    color: var(--color-line-range);
+    margin-bottom: 0.5em;
+    font-weight: bold;
+    letter-spacing: 1px;
+}
+
+/* ==========================================================================
+   METADATA DISPLAY (for scholar, epistemic layers)
+   ========================================================================== */
+.metadata {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.5em;
+    margin-bottom: 0.75em;
+    font-family: var(--font-sans);
+    font-size: 0.7em;
+}
+
+/* ==========================================================================
+   TAG STYLES (for scholar, epistemic, delusion layers)
+   ========================================================================== */
+.tag {
+    padding: 2px 8px;
+    border-radius: 3px;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+}
+
+/* ==========================================================================
+   TIBETAN INLINE (shared by analysis layers)
+   ========================================================================== */
+.tibetan-inline {
+    font-family: 'Jomolhari', 'Noto Sans Tibetan', serif;
+    font-size: 0.9em;
+    color: var(--color-muted);
+    font-style: italic;
+}
+
+/* ==========================================================================
+   HIGHLIGHT ANIMATION (for line targeting)
+   ========================================================================== */
+.highlighted-line {
+    border-radius: 3px;
+    animation: highlightFade 1s ease-out forwards;
+}
+
+/* Note: @keyframes highlightFade is defined in each layer-specific CSS file
+   with the appropriate accent color for that layer */
+
+/* ==========================================================================
+   TABLE OF CONTENTS STYLES
+   ========================================================================== */
+.toc {
+    margin-bottom: 3em;
+    page-break-after: always;
+}
+
+.toc h1 {
+    text-align: center;
+    font-variant: small-caps;
+    margin-bottom: 1.5em;
+    color: var(--color-accent);
+}
+
+.toc ul {
+    list-style: none;
+    padding-left: 0;
+}
+
+.toc li {
+    margin-bottom: 0.5em;
+    color: var(--color-text);
+}
+
+.toc a {
+    text-decoration: none;
+    color: inherit;
+}
+
+.toc a:hover {
+    color: var(--color-accent);
+    text-decoration: underline;
+}
+
+/* ==========================================================================
+   RESPONSIVE DESIGN
+   ========================================================================== */
 @media (max-width: 780px) {
-    .document {
-        width: 95% !important;
-    }
     body {
-        font-size: 11pt;
+        font-size: 10pt;
+    }
+
+    .document {
+        max-width: 95%;
+        margin: 0 auto;
+        padding: 0;
+    }
+
+    .entry-block {
+        margin: 1em 0;
+        padding: 0.5em;
+    }
+
+    .line-range {
+        font-size: 0.7em;
+    }
+
+    .metadata {
+        font-size: 0.6em;
+    }
+
+    h1 {
+        font-size: 1.5em;
+    }
+
+    h2 {
+        font-size: 1.3em;
+    }
+
+    h3 {
+        font-size: 1.1em;
+    }
+}
+
+/* ==========================================================================
+   PRINT ENHANCEMENTS
+   ========================================================================== */
+@media print {
+    .document {
+        max-width: none;
+    }
+
+    .chapter {
+        display: block !important;
+        page-break-after: always;
+    }
+
+    .entry-block {
+        border-left: 2px solid #999;
+    }
+
+    .file-separator {
+        border-top: 1px solid #999;
+    }
+
+    .line-num {
+        border-right: 1px solid var(--color-border);
     }
 }
