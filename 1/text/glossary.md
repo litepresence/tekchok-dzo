@@ -22,6 +22,13 @@ Terms are listed alphabetically by their English rendering. Tibetan and Sanskrit
 | **appearance** (snang ba) | Phenomenal display or manifestation; rang snang (self-appearance of awareness, pure) vs. gzhan snang (other-appearance of delusion, impure); in Dzogchen, appearances and emptiness are non-dual (snang stong dbyer med). | 01-01-01-01:35 |
 | **bardo** (bar do) | Intermediate state between death and rebirth; four types: natural (life), dying, dharmatā (reality), and existence; also refers to moment-to-moment gaps in ordinary experience. | 02-19-01-01:31626 |
 | **ground** (gzhi) | The primordial ground of all experience; the basis-as-suchness that is the source of both saṃsāra and nirvāṇa. In Dzogchen, the ground has three aspects: essence (ngo bo) as primordial purity (ka dag), nature (rang bzhin) as spontaneous presence (lhun grub), and compassion (thugs rje) as unceasing manifestation. **CRITICAL: Always translate gzhi as "ground" in doctrinal contexts—never "basis"** (which confuses with kun gzhi, the neutral all-ground). Distinguished from Kunzhi (all-ground) and Kunzhi consciousness (the defiled aspect). | 01-08-01-01:10472 |
+| **prologue** (gling gzhi) | The introductory section of a tantra establishing the context: teacher, place, time, retinue, and teaching. **Always translate as "prologue"**—never "introduction-base" or "lineage-occasion." | 01-05-04-01:5627 |
+| **foundation** ('og gzhi) | The lower ground or base; the foundational layer upon which something is built. | 01-02-02-02:1526 |
+| **alaya** (kun gzhi) | See **Kunzhi**. The neutral all-ground; basis of both saṃsāra and nirvāṇa. | 01-03-01-01:1627 |
+| **main topic** (dngos gzhi) | The primary subject matter; the actual topic being discussed. | 01-06-02-01:7904 |
+| **subject of analysis** (brtag gzhi) | That which is analyzed or examined. | 01-04-14-01:3344 |
+| **subject of purification** (sbyang gzhi) | That which is to be purified or cleansed. | 01-04-14-01:3407 |
+| **basis of manifestation** ('char gzhi) | The ground from which appearances arise; the basis for manifestation of visions. | 01-08-07-01:10839 |
 | **ground, path, and result** (gzhi lam 'bras bu) | The threefold structure of Dzogchen view: ground (gzhi) as primordial ground, path (lam) as method, result ('bras bu) as fruition. **ALWAYS translate as "ground, path, and result" or "ground, path, fruition"**—never "basis, path, result." | 01-04-13-01:3338 |
 | **primordial ground** (ye gzhi) | The ground as primordially present; the original ground. **Always translate as "primordial ground"**—never "original basis." | 01-14-01-01:17459 |
 | **ground-abiding wisdom** (gzhi gnas kyi ye shes) | Wisdom that dwells primordially as the ground of all experience. | 01-14-04-01:18286 |
