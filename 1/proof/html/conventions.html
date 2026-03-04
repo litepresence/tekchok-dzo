@@ -5,7 +5,7 @@
     <!-- Edit /js/conventions.js and run process_conventions.py to regenerate. -->
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="created" content="2026-03-02T19:49:06.303049">
+    <meta name="created" content="2026-03-04T08:33:09.132779">
     <link rel="stylesheet" href="../css/conventions.css">
     <script src="../js/shared.js"></script>
     <script src="../js/conventions.js"></script>
@@ -62,12 +62,56 @@ Layer applies:
 <li>Consistent use of standard Tibetan orthography</li>
 <li>Clarification of degraded passages</li>
 </ul>
+<p><strong>Documented Repairs</strong></p>
+<table>
+<thead>
+<tr>
+<th>Date</th>
+<th>Issue</th>
+<th>Scope</th>
+<th>Method</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>2026-03-03</td>
+<td>Double tsheg (<code>་་</code> → <code>་</code>)</td>
+<td>182 occurrences in 79 files</td>
+<td>Automated find/replace</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Double Tsheg Repair (2026-03-03)</strong></p>
+<p>During validation analysis, 182 instances of double tsheg (<code>་་</code>) were
+detected across 79 files. This is a known OCR artifact in Tibetan
+digitization—the tsheg (syllable separator) was duplicated during
+text recognition.</p>
+<p><strong>Why this is an OCR error, not intentional:</strong>
+- Double tsheg has <strong>no grammatical function</strong> in Classical Tibetan
+- No scribal or doctrinal reason for this mark in any Tibetan literary
+  tradition
+- Pattern matches known OCR failure modes (ink smudge, paper texture
+  ambiguity)
+- Present in both Tibetan and mechanically-generated Wylie layers,
+  confirming origin from BDRC source
+- "Khenpo Reviewed" designation should have caught this, but digital
+  extraction reintroduced the artifact</p>
+<p><strong>Examples of repairs:</strong></p>
+<pre><code>ལྷུན་་གྲུབ    → ལྷུན་གྲུབ      (lhun grub, &quot;spontaneous accomplishment&quot;)
+རྣམ་་པར་དག   → རྣམ་པར་དག     (rnam par dag, &quot;completely pure&quot;)
+ཐུགས་་ཀྱི་    → ཐུགས་ཀྱི་       (thugs kyi, &quot;mind's&quot;)
+</code></pre>
+<p>This repair restores orthographically correct Tibetan. The change is
+cosmetic—readers mentally auto-correct—but documented for textual
+integrity and publication standards.</p>
 <p><strong>What Was Preserved</strong></p>
 <ul>
 <li>All meaningful textual variants</li>
 <li>Original line structure</li>
 <li>Section divisions</li>
 <li>Editorial character of the source editions</li>
+<li>Legitimate orthographic variations (e.g., ཀུན་བཟང vs ཀུན་ཏུ་བཟང་པོ,
+  ལྷུན་གྲུབ vs ལྷུན་གྱིས་གྲུབ, contextual tsheg usage)</li>
 </ul>
 <h2>The Sanctity of the Source</h2>
 <p>In Tibetan Buddhist textual traditions, the source language carries
